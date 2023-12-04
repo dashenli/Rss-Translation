@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 03:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 03:29:58 GMT</lastBuildDate>
     <item>
       <title>我正在用 Rust 制作一个 php 解释器</title>
       <link>https://www.reddit.com/r/webdev/comments/18aa5nx/im_making_a_php_interpreter_in_rust/</link>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 04 Dec 2023 02:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 next.js 在图表中显示用户输入数据？</title>
+      <title>如何使用 next.js 在图表中显示用户输入的数据？</title>
       <link>https://www.reddit.com/r/webdev/comments/18a9tb1/how_to_display_user_input_data_in_chart_using/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18a9tb1/how_to_display_user_input_data_in_chart_using/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>有时我有很棒的想法，有时我更像是数字版的克莱默。</title>
       <link>https://www.reddit.com/r/webdev/comments/18a9oa0/sometimes_i_have_great_ideas_other_times_im_more/</link>
-      <description><![CDATA[昨天，我狂饮了 8 个小时的《Seinfeld》，同时尝试仅使用 HTML、CSS 和 JavaScript 构建整个 Macintosh 8.0 操作系统，从而得出了这个结论。我几乎有一个完整的 1TB SSD，里面装满了这样荒谬的东西。我认为能够开放俄勒冈步道会很酷。  我偶尔喜欢浪费时间，但是，我似乎浪费了很多时间。我将收集所有随机失败的项目并将它们交给我的孩子，看看他可以用它们做什么。其他人也有过认为自己应该做一些富有成效的事情的时候吗？   由   提交/u/full-stackfamily  /u/full-stackfamily  reddit.com/r/webdev/comments/18a9oa0/sometimes_i_have_great_ideas_other_times_im_more/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[昨天，我一边狂饮 8 小时的《Seinfeld》，一边尝试仅使用 HTML、CSS 和 JavaScript 构建整个 Macintosh 8.0 操作系统，才得出了这个结论。我几乎有一个完整的 1TB SSD，里面装满了这样荒谬的东西。我认为能够开放俄勒冈步道会很酷。  我偶尔喜欢浪费时间，但是，我似乎浪费了很多时间。我将收集所有随机失败的项目并将它们交给我的孩子，看看他可以用它们做什么。其他人也有过认为自己应该做一些富有成效的事情的时候吗？   由   提交/u/full-stackfamily  /u/full-stackfamily  reddit.com/r/webdev/comments/18a9oa0/sometimes_i_have_great_ideas_other_times_im_more/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18a9oa0/sometimes_i_have_great_ideas_other_times_im_more/</guid>
       <pubDate>Mon, 04 Dec 2023 02:05:52 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>网页开发/抓取建议</title>
       <link>https://www.reddit.com/r/webdev/comments/18a7t6k/web_developmentscraping_advice/</link>
-      <description><![CDATA[我想构建一个网站，该网站接受用户的 URL，然后在该 URL 指向的网站上运行各种分析。这些分析将涉及处理用户在网站上拥有的图像，因此我认为这将是一项相当昂贵的操作，特别是如果多个用户同时使用该网站的话。这是网络抓取的合适用例吗？您会推荐哪些工具？   由   提交/u/lovestruck90210   [链接] [评论]]]></description>
+      <description><![CDATA[我想构建一个网站，该网站接受用户的 URL，然后在该 URL 指向的网站上运行各种分析。这些分析将涉及处理用户在网站上拥有的图像，因此我认为这将是一项相当昂贵的操作，尤其是在多个用户同时使用该网站的情况下。这是网络抓取的合适用例吗？您会推荐哪些工具？   由   提交/u/lovestruck90210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18a7t6k/web_developmentscraping_advice/</guid>
       <pubDate>Mon, 04 Dec 2023 00:29:23 GMT</pubDate>
     </item>

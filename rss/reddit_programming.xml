@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 04 Dec 2023 03:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 03:29:38 GMT</lastBuildDate>
+    <item>
+      <title>用于开发的 Citrix 虚拟桌面</title>
+      <link>https://www.reddit.com/r/programming/comments/18ab5q7/citrix_virtual_desktop_for_development/</link>
+      <description><![CDATA[您好，需要对 Citrix VDI 如何替代开发人员传统工作站或笔记本电脑进行一些诚实的评论。 Citrix 似乎非常擅长营销，所以 Google 的营销不多，我只记得他们以前的样子。对系统管理员有利，因为它集中了所有内容，但对用户不利，因为它很复杂，因此存在问题。   由   提交/u/vedanuzal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ab5q7/citrix_virtual_desktop_for_development/</guid>
+      <pubDate>Mon, 04 Dec 2023 03:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年可视化的到来</title>
       <link>https://www.reddit.com/r/programming/comments/18aa03e/advent_of_visualization_2023/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/lefty_is_so_good  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/189xj5z/sharing_my_experience_giving_a_tech_talk_at_a/</guid>
       <pubDate>Sun, 03 Dec 2023 16:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入探讨 Java Spring 框架事务注释</title>
-      <link>https://www.reddit.com/r/programming/comments/189xi3p/a_deep_dive_on_java_spring_framework/</link>
-      <description><![CDATA[ 由   提交/u/chip_1992  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/189xi3p/a_deep_dive_on_java_spring_framework/</guid>
-      <pubDate>Sun, 03 Dec 2023 16:47:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 03:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 03:16:45 GMT</lastBuildDate>
+    <item>
+      <title>【媒体】为富人减税只会让富人受益：揭穿涓滴经济学</title>
+      <link>https://t.me/hn_summary/62136</link>
+      <description><![CDATA[为富人减税只会让富人受益：揭穿涓滴效应经济学
+这篇文章讨论了围绕富人减税的争议，并揭穿了涓滴经济学理论。作者戴维·霍普 (David Hope) 和朱利安·林伯格 (Julian Limberg) 进行了研究，分析了 50 年来 18 个富裕国家的富人大幅减税的经济影响。他们发现，为富人减税并没有对失业或经济增长产生有意义的影响。该研究引起了广泛关注，成为伦敦经济学院研究在线历史上下载次数最多的论文。作者还发现，普通公民往往不知道富人的税收大幅下降，而提供这些信息会使他们不太可能支持为富人减税。]]></description>
+      <guid>https://t.me/hn_summary/62136</guid>
+      <pubDate>Mon, 04 Dec 2023 03:16:45 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]海伦·加纳惊人的坦率</title>
       <link>https://t.me/hn_summary/62135</link>
@@ -40,7 +48,7 @@ Zoom 悄然发布了 Apple TV 版本的会议应用程序，允许用户直接�
     <item>
       <title>[媒体]老师一直说孩子不识字。</title>
       <link>https://t.me/hn_summary/62131</link>
-      <description><![CDATA[老师们一直说孩子不会读书。情况有那么糟糕吗？ [视频](https://news.ycombinator.com/item?id= 38510247)
+      <description><![CDATA[老师们总是说孩子不会读书。情况有那么糟糕吗？ [视频](https://news.ycombinator.com/item?id= 38510247)
 所提供的内容不是任何网络内容的摘要。它似乎是 Reddit 上 Reddit 子版块的规则和指南列表。]]></description>
       <guid>https://t.me/hn_summary/62131</guid>
       <pubDate>Mon, 04 Dec 2023 02:18:21 GMT</pubDate>
@@ -76,14 +84,6 @@ Web 内容是有关如何使用 Python 构建 Conway 的生命游戏的教程。
 新获得的随身摄像机逮捕了不会说英语的 18 岁少年维吉利奥·阿吉拉尔·门德斯 (Vergilio Aguilar Mendez) 的视频显示，圣约翰县治安官办公室中士多次用泰瑟枪电击他。迈克尔·库诺维奇。这场斗争导致库诺维奇倒地并死于心脏病。阿吉拉尔·门德斯担心被驱逐回危地马拉，现在被指控犯有严重过失杀人罪和暴力抵抗警察罪。视频显示，阿吉拉尔·门德斯显得很困惑，不理解警官的命令。他的律师辩称，他受到了种族歧视和不必要的骚扰。治安官办公室和州检察官办公室拒绝就此事发表评论。]]></description>
       <guid>https://t.me/hn_summary/62127</guid>
       <pubDate>Mon, 04 Dec 2023 01:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 用 Rust 从头开始​​编写文件系统</title>
-      <link>https://t.me/hn_summary/62126</link>
-      <description><![CDATA[用 Rust 从头开始​​编写文件系统
-该博客文章讨论了使用 Rust 编程语言从头开始编写文件系统的过程。它解释了文件系统中涉及的概念和组件，例如构建磁盘、超级块和位图、索引节点、数据块、目录和访问路径。作者还介绍了他们自己的文件系统项目GotenksFS，它受到ext4的启发，使用了FUSE。这篇文章提供了有关创建文件系统映像并将其安装以供使用的详细信息。还解释了文件系统的磁盘结构，包括超级块、索引节点和目录。 （根据故事文本的 70% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/62126</guid>
-      <pubDate>Mon, 04 Dec 2023 01:07:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
