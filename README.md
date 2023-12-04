@@ -12,12 +12,12 @@
 
 ## 已转换翻译源
  - source001 [http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml) -> [new_york_time](rss/new_york_time.xml)
- - source002 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation](rss/reddit_automation.xml)
- - source003 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [huggingface_blog](rss/huggingface_blog.xml)
- - source004 [https://www.reddit.com/r/ArtificialInteligence.rss](https://www.reddit.com/r/ArtificialInteligence.rss) -> [reddit_ArtificialInteligence](rss/reddit_ArtificialInteligence.xml)
- - source005 [https://rsshub.app/telegram/channel/AiIndiaJobs](https://rsshub.app/telegram/channel/AiIndiaJobs) -> [AiIndiaJobs](rss/AiIndiaJobs.xml)
- - source006 [https://www.reddit.com/r/ChatGPT/new.rss](https://www.reddit.com/r/ChatGPT/new.rss) -> [reddit_ChatGPT](rss/reddit_ChatGPT.xml)
- - source007 [https://www.reddit.com/r/GPT3/new.rss](https://www.reddit.com/r/GPT3/new.rss) -> [reddit_GPT3](rss/reddit_GPT3.xml)
+ - source002 [http://hypebeast.com/feed/](http://hypebeast.com/feed/) -> [hypebeast](rss/hypebeast.xml)
+ - source003 [https://rsshub.app/apnews/topics/apf-topnews](https://rsshub.app/apnews/topics/apf-topnews) -> [apnews](rss/apnews.xml)
+ - source004 [http://www.washingtonpost.com/rss/homepage](http://www.washingtonpost.com/rss/homepage) -> [washingtoppost](rss/washingtoppost.xml)
+ - source005 [http://feeds.feedburner.com/androidauthority](http://feeds.feedburner.com/androidauthority) -> [Android_Authority](rss/Android_Authority.xml)
+ - source006 [http://www.scmp.com/rss/hong_kong.xml](http://www.scmp.com/rss/hong_kong.xml) -> [scmp](rss/scmp.xml)
+ - source007 [http://feeds.mashable.com/Mashable](http://feeds.mashable.com/Mashable) -> [Mashable](rss/Mashable.xml)
  - source008 [https://www.reddit.com/r/LandscapePhotography.rss](https://www.reddit.com/r/LandscapePhotography.rss) -> [reddit_LandscapePhotography](rss/reddit_LandscapePhotography.xml)
  - source009 [https://www.reddit.com/r/streetphotography.rss](https://www.reddit.com/r/streetphotography.rss) -> [reddit_streetphotography](rss/reddit_streetphotography.xml)
  - source010 [https://www.reddit.com/r/FREE/new.rss](https://www.reddit.com/r/FREE/new.rss) -> [reddit_FREE](rss/reddit_FREE.xml)
