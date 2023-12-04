@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 04:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 06:21:36 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 微软希望在 Playstation、任天堂和“每个屏幕”上提供 Game Pass</title>
+      <link>https://t.me/hn_summary/62151</link>
+      <description><![CDATA[微软希望在 Playstation、任天堂和“每个屏幕”上提供 Game Pass有可能
+微软首席财务官 Tim Stuart 在富国银行 TMT 峰会上透露，该公司的目标是将 Xbox Game Pass 引入 PlayStation 和任天堂等竞争对手的游戏机。斯图尔特表示，微软的使命是让他们的第一方游戏和订阅服务在“每个可以玩游戏的屏幕”上可用，包括智能电视和移动设备。这标志着微软战略的改变，因为他们的目标是将 Game Pass 的覆盖范围扩大到更多的受众。然而，索尼和任天堂是否会在其游戏机上允许 Game Pass 仍不确定。微软最近收购动视暴雪将帮助他们实现扩张目标。]]></description>
+      <guid>https://t.me/hn_summary/62151</guid>
+      <pubDate>Mon, 04 Dec 2023 06:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] AA 电池供电的笔记本电脑</title>
+      <link>https://t.me/hn_summary/62150</link>
+      <description><![CDATA[由 AA 电池供电的笔记本电脑
+本文讨论了可由 AA 电池供电的各种笔记本电脑和类似笔记本电脑的设备。它重点介绍了 1991 年发布的 Atari ST Book，它可以使用 7 节 AA 电池运行 10 小时。 1983 年发布的 TRS-80 Model 100 只需 4 节 AA 电池即可运行整整 20 小时。 OmniBook 300 于 1994 年发布，使用 4 节 AA 电池可运行长达 9 小时。 HP 200LX 是一款 DOS 便携式电脑，两节 AA 电池的电池续航时间长达 40 小时。 Dana 是一款 PalmOS 笔记本电脑，使用 3 节 AA 电池也能续航 40 小时。文章还提到了 2009 年的 Gecko EduBook，它可以使用 8 节 AA 电池运行约 4 小时。作者发现这些设备可以使用 AA 电池运行，这很酷。]]></description>
+      <guid>https://t.me/hn_summary/62150</guid>
+      <pubDate>Mon, 04 Dec 2023 06:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]震网源代码</title>
+      <link>https://t.me/hn_summary/62149</link>
+      <description><![CDATA[震网源代码
+该 GitHub 项目的目的是提供 Stuxnet 恶意软件的源代码，特别是从 Stuxnet 二进制文件中提取的远程代码执行 (RCE) 代码。作者 Christian Roggia 和 Amr Thabet 花费了大量时间分析该恶意软件，并免费提供了可读的 C 代码。作者承认该代码是从恶意软件二进制文件中“窃取”的，但他们希望当其他人使用该代码进行分析、博客文章或大学论文时，他们的辛勤工作会得到认可和赞扬。代码的许可证是宽松的，允许用户用它做任何他们想做的事情。]]></description>
+      <guid>https://t.me/hn_summary/62149</guid>
+      <pubDate>Mon, 04 Dec 2023 06:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网络的谷物 (2015)</title>
+      <link>https://t.me/hn_summary/62148</link>
+      <description><![CDATA[网络谷物 (2015)
+网络的颗粒是作者之前关于屏幕原生设计的文章的姊妹篇。作者反思了调制解调器连接互联网的声音的怀旧情绪，以及对技术的迷恋如何随着时间的推移而消退。他们讨论了在科技行业工作所带来的失望和幻灭，以及对不同视角的需求。作者探讨了初学者思维的概念以及倾听网络自然特征的重要性。他们还讨论了响应式设计的挑战以及顺应网络规律而不是反对它的重要性。作者使用网站示例来说明他们的观点，并表明网络是一种构建材料，而不是一块可供绘画的空白画布。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/62148</guid>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 HN：您每天的待办事项清单上有多少任务？</title>
+      <link>https://t.me/hn_summary/62147</link>
+      <description><![CDATA[问 HN：您每天的待办事项列表中有多少任务？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者分享他们对每日待办事项列表的个人经验。他们声称，他们对日常安排做出的最有影响力的改变是减少了待办事项列表上的任务数量。他们向其他用户询问他们对每日待办事项列表的体验，邀请他们分享他们的想法和见解。此内容中没有争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/62147</guid>
+      <pubDate>Mon, 04 Dec 2023 05:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>D 编程语言</title>
+      <link>https://t.me/hn_summary/62146</link>
+      <description><![CDATA[D 编程语言
+D 编程语言是一种通用编程语言，具有静态类型、系统级访问和类似 C 的语法。它允许快速执行代码并支持自动内存管理和范围资源管理。 D 还提供内置线性和关联数组、切片和范围，以便于编程。它支持各种编程范例并提供创新的并发方法。 D 编译为高效的本机代码，并通过本机指针和内联汇编代码等功能实现终极速度和控制。该语言还提供了用于安全性和效率权衡的函数属性。 D 语言基金会是一个非营利组织，支持 D 语言的开发。]]></description>
+      <guid>https://t.me/hn_summary/62146</guid>
+      <pubDate>Mon, 04 Dec 2023 05:58:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD 上的相对 shell 脚本包含 realpath</title>
+      <link>https://t.me/hn_summary/62145</link>
+      <description><![CDATA[FreeBSD 上的相对 shell 脚本包含 realpath
+此 Web 内容的作者讨论了在 FreeBSD 中包含相关 shell 脚本的挑战。他们强调了三个关键问题：对调用目录的依赖、使用符号链接时不一致的命令名称和位置以及在线资源中缺乏关于 FreeBSD 的 Bourne shell 的讨论。作者提出了使用命令 $(dirname $(realpath $0)) 来获取相关文件的解决方案。它们为每个问题和解决方案提供了示例和解释，包括使用 realpath(1) 来识别符号链接引用的真实文件。作者还建议使用 lib 辅助函数的额外解决方案。内容强调了 shell 脚本的强大功能以及模块化代码的能力。]]></description>
+      <guid>https://t.me/hn_summary/62145</guid>
+      <pubDate>Mon, 04 Dec 2023 05:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]随着势头增强，比特币突破 4 万美元</title>
+      <link>https://t.me/hn_summary/62144</link>
+      <description><![CDATA[随着势头增强，比特币突破 4 万美元
+在对美国降息的乐观情绪以及美国股市交易比特币基金可能获得批准的推动下，比特币今年首次突破 40,000 美元。该加密货币周日触及 40,210 美元的高点，这是自 2022 年 4 月以来的最高水平。分析师认为，突破 40,000 美元等心理水平会令投资者兴奋并增加势头。从“加密货币冬天”和各种丑闻中恢复过来，今年比特币的价值已增长了一倍多。比特币 ETF 现货获批的预期也促进了积极情绪。与以太坊区块链挂钩的以太币也达到了 1-1/2 年的高点。比特币和以太币仍低于 2021 年的历史高位。]]></description>
+      <guid>https://t.me/hn_summary/62144</guid>
+      <pubDate>Mon, 04 Dec 2023 05:46:52 GMT</pubDate>
+    </item>
     <item>
       <title>远离云并采用本地存储解决方案的案例</title>
       <link>https://t.me/hn_summary/62143</link>
@@ -16,74 +80,10 @@
     <item>
       <title>[媒体]白天缺乏阳光比晚上电灯更糟糕</title>
       <link>https://t.me/hn_summary/62142</link>
-      <description><![CDATA[白天缺乏阳光比晚上有电照明更糟糕&lt; /a&gt;
-本文讨论了昼夜节律的重要性以及光对我们生物钟的影响。作者采访了诺贝尔医学奖获得者迈克尔·罗斯巴什 (Michael Rosbash)，他解释说，昼夜节律调节着我们至少 70% 的基因，而不是之前认为的 50%。 Rosbash 还讨论了基础研究的重要性以及公共资助机构支持基础研究的必要性。他强调了白天缺乏阳光和夜间过度暴露于人造光的负面影响。文章还谈到了限时喂养的潜在好处，以及用药物操纵分子钟来解决老年人的时间紊乱问题的可能性。]]></description>
+      <description><![CDATA[白天缺乏阳光比晚上的电灯更糟糕&lt; /a&gt;
+本文讨论了昼夜节律的重要性以及光对我们生物钟的影响。作者采访了诺贝尔医学奖得主迈克尔·罗斯巴什 (Michael Rosbash)，他解释说，昼夜节律调节着我们至少 70% 的基因，而不是之前认为的 50%。 Rosbash 还讨论了基础研究的重要性以及公共资助机构支持基础研究的必要性。他强调了白天缺乏阳光和夜间过度暴露于人造光的负面影响。文章还谈到了限时喂养的潜在好处，以及用药物操纵分子钟来解决老年人的时间紊乱问题的可能性。]]></description>
       <guid>https://t.me/hn_summary/62142</guid>
       <pubDate>Mon, 04 Dec 2023 04:49:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国联邦债务何时达到不可持续水平？</title>
-      <link>https://t.me/hn_summary/62141</link>
-      <description><![CDATA[美国联邦债务何时达到不可持续的水平？ 
-文章讨论了债务占 GDP 百分比的上限以及美国联邦债务何时达到不可持续的水平。宾大沃顿商学院预算模型估计，金融市场无法承受超过当前美国财政政策下预计的未来 20 年的累积赤字。如果金融市场开始不这么认为，债务动态就会更快变得不可持续。文章还强调，媒体经常引用的美国“未偿公共债务”具有误导性，因为它包括联邦政府因信托基金和其他会计而“欠自己”的债务。文章最后指出，由于政治体系已经崩溃，任何一方都无法解决赤字或不断增加的债务问题。]]></description>
-      <guid>https://t.me/hn_summary/62141</guid>
-      <pubDate>Mon, 04 Dec 2023 04:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]智取你的大脑：为什么学习很难以及如何让它变得简单</title>
-      <link>https://t.me/hn_summary/62140</link>
-      <description><![CDATA[智取你的大脑：为什么学习很难以及如何做到这一点简单
-这本书是著名科技企业家埃隆·马斯克的传记，由沃尔特·艾萨克森撰写。作者对马斯克进行了全面的描绘，强调了他麻烦不断的本性以及他不顾他人建议而勇往直前的倾向。艾萨克森将马斯克与史蒂夫·乔布斯和亨利·福特进行了比较，强调他对让人类成为多行星文明的痴迷，以及他认为政府通常是一个障碍。这本书还探讨了马斯克对速度的需求，这种需求既带来了成功，也带来了灾难。总的来说，这本传记对这位富有创新精神但陷入困境的企业家进行了详细而批判性的描述。]]></description>
-      <guid>https://t.me/hn_summary/62140</guid>
-      <pubDate>Mon, 04 Dec 2023 04:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 新模型发现，植物吸收的二氧化碳可能比我们想象的多 20%</title>
-      <link>https://t.me/hn_summary/62139</link>
-      <description><![CDATA[新模型中，植物吸收的二氧化碳可能比我们想象的多 20%查找
-由西悉尼大学领导的一个国际科学家小组发现，植物吸收的二氧化碳可能比之前认为的多 20%。研究人员利用现实的生态模型发现，当前用于预测植被吸收二氧化碳的模型不够复杂，并且可能低估了吸收的二氧化碳量。通过考虑模型中的三个生理因素，研究小组发现最复杂的版本预测了最多的二氧化碳吸收量。虽然这是个好消息，但研究人员强调，政府仍然需要减少排放，仅靠植树无法解决气候危机。]]></description>
-      <guid>https://t.me/hn_summary/62139</guid>
-      <pubDate>Mon, 04 Dec 2023 04:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]参议院法案旨在阻止山姆大叔在机场使用面部识别</title>
-      <link>https://t.me/hn_summary/62138</link>
-      <description><![CDATA[参议院法案旨在阻止山姆大叔在机场使用面部识别
-一项名为《旅行者隐私保护法》的两党参议院法案旨在阻止运输安全管理局 (TSA) 在机场使用面部识别技术。该法案由参议员杰夫·默克利和约翰·肯尼迪提出，将禁止该技术的扩展，并要求国会明确授权未来的任何试验。如果该法案获得通过，美国运输安全管理局 (TSA) 将有 90 天的时间停止使用面部生物识别技术并删除所有相关数据。隐私权组织批评面部识别技术存在偏见和潜在的隐私侵犯。然而，一些人认为该法案会阻碍机场安全工作。]]></description>
-      <guid>https://t.me/hn_summary/62138</guid>
-      <pubDate>Mon, 04 Dec 2023 04:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Gemini推迟，“在某些方面”和GPT-4一样好</title>
-      <link>https://t.me/hn_summary/62137</link>
-      <description><![CDATA[Gemini 推迟，“在某些方面”和 GPT-4 一样好
-old.reddit.com 上的帖子讨论了推迟Gemini，一个人工智能项目，并将其与 GPT-4 进行比较。 Reddit 子版块致力于讨论涉及大数的人工智能、机器学习和深度学习方法。这个 Reddit 子版块中进行的研究规模比平常大得多，类似于高能物理学，需要专门的方法和大量的投资。这篇文章提出了有关这些方法如何运作、谁参与、为什么它们有效以及有哪些资源可用的问题。它还探讨了此类方法的未来以及它们可能产生的潜在全球后果。]]></description>
-      <guid>https://t.me/hn_summary/62137</guid>
-      <pubDate>Mon, 04 Dec 2023 03:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】为富人减税只会让富人受益：揭穿涓滴经济学</title>
-      <link>https://t.me/hn_summary/62136</link>
-      <description><![CDATA[为富人减税只会让富人受益：揭穿涓滴效应经济学
-这篇文章讨论了围绕富人减税的争议，并揭穿了涓滴经济学理论。作者戴维·霍普 (David Hope) 和朱利安·林伯格 (Julian Limberg) 进行了研究，分析了 50 年来 18 个富裕国家的富人大幅减税的经济影响。他们发现，为富人减税并没有对失业或经济增长产生有意义的影响。该研究引起了广泛关注，成为伦敦经济学院研究在线历史上下载次数最多的论文。作者还发现，普通公民往往不知道富人的税收大幅下降，而提供这些信息会使他们不太可能支持为富人减税。]]></description>
-      <guid>https://t.me/hn_summary/62136</guid>
-      <pubDate>Mon, 04 Dec 2023 03:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]海伦·加纳惊人的坦率</title>
-      <link>https://t.me/hn_summary/62135</link>
-      <description><![CDATA[海伦·加纳的惊人坦率
-该网络内容讨论了澳大利亚作家海伦·加纳的坦率本质。作者讲述了与加纳的一次谈话，她承认，如果她与她所写案件中的原告交谈，她可能会得出不同的结论。加纳还讨论了她的一本书所引起的强烈反对以及这本书对她和她的家人的影响。内容还提到了加纳对参加审判的兴趣以及她在写作中暴露自己的困难情绪的能力。作者还提到了加纳分享的一个丑闻，但尚不清楚是否属实。内容最后描述了加纳的家，并参观了她姐姐在乡村的家。]]></description>
-      <guid>https://t.me/hn_summary/62135</guid>
-      <pubDate>Mon, 04 Dec 2023 03:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Zoom 悄悄放弃了 Apple TV 版本的会议应用程序</title>
-      <link>https://t.me/hn_summary/62134</link>
-      <description><![CDATA[Zoom 秘密放弃了 Apple TV 版本的会议应用
-Zoom 悄然发布了 Apple TV 版本的会议应用程序，允许用户直接从电视加入和主持会议。该应用程序可在第二代或更高版本的 Apple TV 4K 设备上使用。要使用该应用程序，用户可以访问手机上的配对 URL 以输入电视上显示的代码，也可以在屏幕上手动输入凭据。登录后，用户可以将手机连接到电视并开始或加入会议、邀请其他人以及查看会议中的聊天内容。对于那些在家工作或想要在更舒适的环境中召开会议的人来说，这是一个方便的功能。]]></description>
-      <guid>https://t.me/hn_summary/62134</guid>
-      <pubDate>Mon, 04 Dec 2023 02:57:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
