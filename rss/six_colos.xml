@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 05 Dec 2023 02:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:33:10 GMT</lastBuildDate>
+    <item>
+      <title>Beeper 将设备上的 iMessage 带到 Android – 目前 ↦</title>
+      <link>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</link>
+      <description><![CDATA[由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司 Beeper 宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
+      <guid>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</guid>
+      <pubDate>Tue, 05 Dec 2023 16:37:16 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 489：未来在 CompuServe</title>
       <link>https://sixcolors.com/podcast/2023/12/upgrade-489-the-future-is-on-compuserve/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 01 Dec 2023 22:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）科利德</title>
+      <title></title>
       <link>https://sixcolors.com/sponsor/2023/12/kolide-33/</link>
       <description><![CDATA[感谢 Kolide 本周赞助六色。
 在最终用户设备上安装操作系统更新应该很容易，但事实当然并非如此。…]]></description>
@@ -117,13 +124,6 @@ Castro 多年来一直是流行的 iOS 播客应用，但现在情况看起来�
 周二，苹果公司放弃了一系列 2023 年年度榜单，这是年底即将到来、12 月发生的事情都将留在 12 月的最确定迹象。…]]></description>
       <guid>https://sixcolors.com/post/2023/11/its-end-of-year-list-season-for-apple/</guid>
       <pubDate>Tue, 28 Nov 2023 16:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 488：新数字</title>
-      <link>https://sixcolors.com/podcast/2023/11/upgrade-488-the-new-numbers/</link>
-      <description><![CDATA[James Thomson 与 Jason 一起庆祝网络星期一，生成 Apple 购买指南，应对订阅（和人类）倦怠，并探索空间视频和 VisionOS 开发的当前状态。…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/11/upgrade-488-the-new-numbers/</guid>
-      <pubDate>Mon, 27 Nov 2023 22:57:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

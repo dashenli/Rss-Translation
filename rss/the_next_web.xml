@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Tue, 05 Dec 2023 15:30:48 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Tue, 05 Dec 2023 18:33:32 GMT</lastBuildDate>
+    <item>
+      <title>新的人工智能工具旨在使高分辨率图像生成民主化</title>
+      <link>https://thenextweb.com/news/new-ai-tool-democratised-image-generation</link>
+      <description><![CDATA[在AI图像生成领域，DALL-E和Midjourney等工具稳坐桂冠——不仅仅是因为它们的高分辨率性能。这些模型的训练需要大量的投资和资源，不可避免地会导致集中服务和按使用付费的访问。萨里大学开发的一种新的人工智能工具旨在通过向更广泛的受众开放高分辨率图像生成来扭转这一趋势并使技术民主化。该模型被称为 DemoFusion，允许用户生成高质量的图像，而无需订阅服务或拥有功能强大的计算机。在…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/new-ai-tool-democratised-image-generation</guid>
+      <pubDate>Tue, 05 Dec 2023 15:50:14 GMT</pubDate>
+    </item>
     <item>
       <title>GTA VI预告片泄露与Rockstar开发者的儿子有关</title>
       <link>https://thenextweb.com/news/gta-6-trailer-leak-rockstar-developer-son</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Mistral AI 估值接近 20 亿美元——成立不到 12 个月</title>
       <link>https://thenextweb.com/news/mistral-ai-2bn-dollar-valuation-less-than-12-months-founding</link>
-      <description><![CDATA[欧洲的贡献可能有点晚了才加入生成式人工智能投资方，但这并不意味着他们最终不会与一些早期的北美领先者竞争。据知情人士透露，法国 genAI 种子轮融资公司 Mistral AI 即将完成约 4.5 亿欧元的融资。与刚刚筹集了类似资金的德国 Aleph Alpha 不同，大多数投资者来自非洲大陆以外的地区。此轮融资由硅谷风险投资公司 Andreessen Horowitz 领投，Nvidia 和 Salesforce 也提供支持。来源关闭…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧洲的贡献加入生成人工智能可能有点晚了投资方，但这并不意味着他们最终不会与一些早期的北美领先者竞争。据知情人士透露，法国 genAI 种子轮融资公司 Mistral AI 即将完成约 4.5 亿欧元的融资。与刚刚筹集了类似资金的德国 Aleph Alpha 不同，大多数投资者来自非洲大陆以外的地区。此轮融资由硅谷风险投资公司 Andreessen Horowitz 领投，Nvidia 和 Salesforce 也提供支持。来源关闭…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/mistral-ai-2bn-dollar-valuation-less-than-12-months-founding</guid>
       <pubDate>Tue, 05 Dec 2023 09:35:59 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>Klarna 冻结招聘，称人工智能“提高了生产力”</title>
       <link>https://thenextweb.com/news/klarna-freezes-hiring-citing-ai</link>
-      <description><![CDATA[首席执行官 Sebastian Siemiatkowski 将招聘冻结归因于AI、瑞典金融科技独角兽 Klarna 不再招聘工程部门以外的员工。 “公司将会萎缩，”西米亚特科斯基告诉《每日电讯报》。 “除了工程师之外，我们目前根本不招聘。” “先买后付”应用程序的首席执行官表示，使用 ChatGPT 等工具提高了生产力，这意味着该公司现在需要“更少的人来做同样的事情”。克拉纳不打算裁员。但随着人们自愿离职，首席执行官表示他预计公司的规模将扩大…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[首席执行官 Sebastian Siemiatkowski 将招聘冻结归因于AI，瑞典金融科技独角兽 Klarna 不再招聘工程部门以外的员工。 “公司将会萎缩，”西米亚特科斯基告诉《每日电讯报》。 “除了工程师之外，我们目前根本不招聘。” “先买后付”应用程序的首席执行官表示，使用 ChatGPT 等工具提高了生产力，这意味着该公司现在需要“更少的人来做同样的事情”。克拉纳不打算裁员。但随着人们自愿离职，首席执行官表示他预计公司的规模将扩大…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/klarna-freezes-hiring-citing-ai</guid>
       <pubDate>Mon, 04 Dec 2023 14:54:06 GMT</pubDate>
     </item>
@@ -57,23 +64,16 @@
     <item>
       <title>阿丽亚娜 6 号火箭将于明年恢复欧洲太空访问</title>
       <link>https://thenextweb.com/news/ariane-6-rocket-europe-space</link>
-      <description><![CDATA[欧洲航天局的阿丽亚娜 6 号火箭计划于 2024 年中期首次发射，其总监约瑟夫·阿施巴赫昨天宣布。此前，11 月 23 日在法属圭亚那的欧洲航天发射场成功进行了热火测试。 “热火”一词是指发动机用推进剂点火，产生实际的燃烧和废气。与实际发射的唯一区别是助推器没有被点燃——使火箭牢牢地固定在地面上。 “随着最新测试的完成，Ariane 6 已经通过了资格所需的必要排练，”Aschbacher 在 X 上说道，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧洲航天局的阿丽亚娜 6 号火箭计划于 2024 年中期首次发射，其总监约瑟夫·阿施巴赫昨天宣布。这一消息是在 11 月 23 日在法属圭亚那的欧洲太空港成功进行热火测试之后发布的。 “热火”一词是指发动机用推进剂点火，产生实际的燃烧和废气。与实际发射的唯一区别是助推器没有被点燃——使火箭牢牢地固定在地面上。 “随着最新测试的完成，Ariane 6 已经通过了资格所需的必要排练，”Aschbacher 在 X 上说道，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/ariane-6-rocket-europe-space</guid>
       <pubDate>Fri, 01 Dec 2023 14:52:52 GMT</pubDate>
     </item>
     <item>
       <title>挪威数据中心即将竣工，TikTok 承诺欧洲投资 12B 欧元</title>
       <link>https://thenextweb.com/news/tiktok-european-investment-norway-data-centre</link>
-      <description><![CDATA[TikTok 承诺投资 120 亿欧元，作为持续努力安抚欧洲监管机构，他们怀疑该应用程序的用户数据正在受到中国政府的监控。为了回应这种性质的反复指控，该短视频应用程序于三月份推出了 Project Clover。虽然这听起来像是一次秘密军事诱捕行动，但该计划却相当平常。从本质上讲，Clover 项目的目标是在欧洲大陆建立三个大型数据中心，以将欧洲用户数据保存在欧洲，并让地方当局“触手可及”。昨天，TikTok 承诺在未来 10 年提供 120 亿欧元…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[TikTok 承诺投资 120 亿欧元，作为持续努力安抚欧洲监管机构，他们怀疑该应用程序的用户数据正在受到中国政府的监控。为了回应此类性质的多次指控，该短视频应用程序于三月份推出了 Project Clover。虽然这听起来像是一次秘密军事诱捕行动，但该计划却相当平常。从本质上讲，Clover 项目的目标是在欧洲大陆建立三个大型数据中心，以将欧洲用户数据保存在欧洲，并让地方当局“触手可及”。昨天，TikTok 承诺在未来 10 年提供 120 亿欧元…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/tiktok-european-investment-norway-data-centre</guid>
       <pubDate>Fri, 01 Dec 2023 11:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silo AI 发布检查点以实现法学硕士民主化</title>
-      <link>https://thenextweb.com/news/silo-ai-checkpoint-mission-democratise-llms</link>
-      <description><![CDATA[A自 OpenAI 在全球发布 ChatGPT 并普及基础模型、LLM 等术语以来，已经过去一年了和 GenAI。然而，与其他语言相比，讲英语的人仍然更有可能获得生成式人工智能技术所承诺的好处。世界上有 7,000 多种语言。然而，大多数大型语言模型（LLM）在英语中的工作效率要高得多。当然，在获取知识、研究、创新和企业竞争优势方面，这可能会放大语言偏见。 11月，芬兰Silo AI发布了其开发的多语言开放欧洲LLM Poro 34B……这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/silo-ai-checkpoint-mission-democratise-llms</guid>
-      <pubDate>Fri, 01 Dec 2023 09:30:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
