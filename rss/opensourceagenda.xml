@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 05 Dec 2023 03:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 06:34:37 GMT</lastBuildDate>
     <item>
-      <title>姜饼.py</title>
-      <link>https://www.opensourceagenda.com/projects/gingerbreadpy</link>
-      <description><![CDATA[一组用于使用 KiCAD 创建装饰 PCB 的 Python 工具]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gingerbreadpy</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:33 GMT</pubDate>
+      <title>大脑 MR 图像的预处理流程</title>
+      <link>https://www.opensourceagenda.com/projects/preprocessing-pipeline-on-brain-mr-images</link>
+      <description><![CDATA[该项目用于对大脑MR图像进行预处理。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/preprocessing-pipeline-on-brain-mr-images</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>SNES FeRAM 推车</title>
-      <link>https://www.opensourceagenda.com/projects/snes-feram-cart</link>
-      <description><![CDATA[具有保存功能的开放硬件 SNES 卡带]]></description>
-      <guid>https://www.opensourceagenda.com/projects/snes-feram-cart</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:32 GMT</pubDate>
+      <title>轴评级栏</title>
+      <link>https://www.opensourceagenda.com/projects/axisratingbar</link>
+      <description><![CDATA[该库是使用 SwiftUI 开发的适用于 iOS 和 macOS 的 UI 控件。您可以沿水平/垂直轴显示评级并接收用户的评级。您可以使用任何符合 View 协议的视图，而不仅仅是星形。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/axisratingbar</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>六角桌</title>
-      <link>https://www.opensourceagenda.com/projects/hexagon-desk</link>
-      <description><![CDATA[环氧咖啡桌，配有 3D 打印六角形嵌件和带触摸传感器的 LED PCB]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hexagon-desk</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:32 GMT</pubDate>
+      <title>使用 Bootstrap 创建简历征服世界</title>
+      <link>https://www.opensourceagenda.com/projects/create-a-cv-with-bootstrap-to-conquer-the-world</link>
+      <description><![CDATA[使用 Bootstrap 创建 CV征服世界！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/create-a-cv-with-bootstrap-to-conquer-the-world</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>软巧克力无线</title>
-      <link>https://www.opensourceagenda.com/projects/soflechocwireless</link>
-      <description><![CDATA[基于 Sofle Choc 键盘的分体式无线键盘 PCB]]></description>
-      <guid>https://www.opensourceagenda.com/projects/soflechocwireless</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:31 GMT</pubDate>
+      <title>诊所</title>
+      <link>https://www.opensourceagenda.com/projects/clinica</link>
+      <description><![CDATA[临床神经影像研究软件平台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/clinica</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>0xCB 1337</title>
-      <link>https://www.opensourceagenda.com/projects/0xcb-1337</link>
-      <description><![CDATA[带有运行 QMK 的 OLED 的机械宏键盘]]></description>
-      <guid>https://www.opensourceagenda.com/projects/0xcb-1337</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:31 GMT</pubDate>
+      <title>星密码</title>
+      <link>https://www.opensourceagenda.com/projects/starpassword</link>
+      <description><![CDATA[油猴脚本 - 当鼠标停留在密码框时显示星号密码。再也不担心忘记密码和输错密码了。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/starpassword</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:35 GMT</pubDate>
     </item>
     <item>
-      <title>MBLDC</title>
-      <link>https://www.opensourceagenda.com/projects/mbldc</link>
-      <description><![CDATA[自定义 PCB 设计和固件，用作 ESC 或 BLDC 控制器，使用我的驱动器驱动无刷 BLDC 电机自己的控制算法。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mbldc</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:30 GMT</pubDate>
+      <title>反应很棒的星星评级</title>
+      <link>https://www.opensourceagenda.com/projects/react-awesome-stars-rating</link>
+      <description><![CDATA[星级]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-awesome-stars-rating</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:35 GMT</pubDate>
     </item>
     <item>
-      <title>人体工学 Snm 键盘</title>
-      <link>https://www.opensourceagenda.com/projects/ergo-snm-keyboard</link>
-      <description><![CDATA[ErgoSNM 是一款带轨迹球的分体式人体工学键盘]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ergo-snm-keyboard</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:30 GMT</pubDate>
+      <title>Yashkapure06 Netflix 克隆</title>
+      <link>https://www.opensourceagenda.com/projects/yashkapure06-netflix-clone</link>
+      <description><![CDATA[✨使用 React JS 的 Netflix 克隆。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yashkapure06-netflix-clone</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:34 GMT</pubDate>
     </item>
     <item>
-      <title>关于硬件设计的思考</title>
-      <link>https://www.opensourceagenda.com/projects/thoughs-about-hardware-design</link>
-      <description><![CDATA[介绍和罗列关于硬件设计所需要考虑的各个方面。纯个人经验总结，非科班念经。永远地不定期更新。CC-BY-NC-SA 4.0。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/thoughs-about-hardware-design</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:30 GMT</pubDate>
+      <title>ADE9078 三相瓦特表</title>
+      <link>https://www.opensourceagenda.com/projects/ade9078-3phasewattmeter</link>
+      <description><![CDATA[使用 Analog Devices ADE9078 三相交流瓦特计的演示板的隔离设计。设计允许使用 Blondel 和非 Blondel 测量方案来测量 WYE（星形）和 Delta（三角形）分布。该项目包括一个基于 SPI 的 Arduino 样式库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ade9078-3phasewattmeter</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:34 GMT</pubDate>
     </item>
     <item>
-      <title>Polykit X Monosynth</title>
-      <link>https://www.opensourceagenda.com/projects/polykit-x-monosynth</link>
-      <description><![CDATA[Polykit X1 是一款 DIY 半模块化、模拟、可修补合成器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/polykit-x-monosynth</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:29 GMT</pubDate>
+      <title>太空战ECS</title>
+      <link>https://www.opensourceagenda.com/projects/spacewar-ecs</link>
+      <description><![CDATA[在 Unity 中使用 ECS 和 JobSystem 制作的太空战争游戏。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/spacewar-ecs</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>Pmw3360 PCB</title>
-      <link>https://www.opensourceagenda.com/projects/pmw3360-pcb</link>
-      <description><![CDATA[PMW3360 光学鼠标传感器分线板，支持 3.3V 和 1.8V 逻辑]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pmw3360-pcb</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:29 GMT</pubDate>
+      <title>VB音频路由器</title>
+      <link>https://www.opensourceagenda.com/projects/vb-audio-router</link>
+      <description><![CDATA[使用 UWP 和 WinRT Audio Graph API 构建高级音频路由应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vb-audio-router</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>卡普尔</title>
-      <link>https://www.opensourceagenda.com/projects/kapl</link>
-      <description><![CDATA[Kapl 是一款分体式人体工学键盘，配有 70 个按键 (7x5)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kapl</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:28 GMT</pubDate>
+      <title>个人页面</title>
+      <link>https://www.opensourceagenda.com/projects/personalpage</link>
+      <description><![CDATA[动态星空背景个人主页]]></description>
+      <guid>https://www.opensourceagenda.com/projects/personalpage</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:32 GMT</pubDate>
     </item>
     <item>
-      <title>ATtiny85 微型终端</title>
-      <link>https://www.opensourceagenda.com/projects/attiny85-tinyterminal</link>
-      <description><![CDATA[USB 控制的 OLED 显示屏]]></description>
-      <guid>https://www.opensourceagenda.com/projects/attiny85-tinyterminal</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:28 GMT</pubDate>
+      <title>数字</title>
+      <link>https://www.opensourceagenda.com/projects/figur</link>
+      <description><![CDATA[制作 SVG 多边形和星形]]></description>
+      <guid>https://www.opensourceagenda.com/projects/figur</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:32 GMT</pubDate>
     </item>
     <item>
-      <title>ATtiny85 TinyFM收音机</title>
-      <link>https://www.opensourceagenda.com/projects/attiny85-tinyfmradio</link>
-      <description><![CDATA[带 RDS 的 FM 收音机]]></description>
-      <guid>https://www.opensourceagenda.com/projects/attiny85-tinyfmradio</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:27 GMT</pubDate>
+      <title>接待</title>
+      <link>https://www.opensourceagenda.com/projects/receiptio</link>
+      <description><![CDATA[用于收据打印机的打印应用程序，简单易用，具有 Markdown、打印机状态支持。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/receiptio</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>0xCB 静态</title>
-      <link>https://www.opensourceagenda.com/projects/0xcb-static</link>
-      <description><![CDATA[40% 机械 TH 键盘]]></description>
-      <guid>https://www.opensourceagenda.com/projects/0xcb-static</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:27 GMT</pubDate>
+      <title>蟒蛇</title>
+      <link>https://www.opensourceagenda.com/projects/sph-python</link>
+      <description><![CDATA[玩具星的平滑粒子流体动力学模拟]]></description>
+      <guid>https://www.opensourceagenda.com/projects/sph-python</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>UniPlug FPGA</title>
-      <link>https://www.opensourceagenda.com/projects/uniplug-fpga</link>
-      <description><![CDATA[体积小、低成本、易用、扩展性强的 FPGA 核心板]]></description>
-      <guid>https://www.opensourceagenda.com/projects/uniplug-fpga</guid>
-      <pubDate>Tue, 05 Dec 2023 03:26:26 GMT</pubDate>
+      <title>附近共享 Android</title>
+      <link>https://www.opensourceagenda.com/projects/nearby-sharing-android</link>
+      <description><![CDATA[通过 Windows 10 / 11 内置共享功能将文件从 Android 共享到 PC (罗马计划）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nearby-sharing-android</guid>
+      <pubDate>Tue, 05 Dec 2023 06:34:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 05 Dec 2023 03:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 06:33:54 GMT</lastBuildDate>
     <item>
-      <title>瑞士研究小组进行的一项研究发现，用菌根菌接种土壤 [...]</title>
-      <link>https://t.me/hn_summary/62314</link>
-      <description><![CDATA[研究表明，在土壤中接种菌根真菌可增产 40%&lt; /a&gt;
-瑞士研究小组进行的一项研究发现，在土壤中接种菌根真菌可以显着提高农作物产量。在大规模田间试验中，在播种作物前将菌根真菌混入土壤中，植物产量可提高 40%。这种方法为使用肥料和杀虫剂提供了一种可持续的替代方案，因为肥料和杀虫剂会损害生物多样性和环境。然而，研究还发现，真菌的有效性因土壤中真菌病原体的存在而异。研究人员能够使用土壤指标预测十分之九的田地接种是否成功，这使其成为一种有前途的农业方法。需要进一步的研究来确定在大面积传播真菌的最有效方法。]]></description>
-      <guid>https://t.me/hn_summary/62314</guid>
-      <pubDate>Tue, 05 Dec 2023 03:24:52 GMT</pubDate>
+      <title>[媒体]“Steam Deck 插件”项目提供了 Decky Loader，这是一个自制插件 [...]</title>
+      <link>https://t.me/hn_summary/62329</link>
+      <description><![CDATA[Steam Deck 插件
+“Steam Deck 插件”项目提供了 Decky Loader，这是一个用于 Steam Deck 的自制插件启动器。该项目的目的是允许用户自定义菜单、更改系统声音、调整屏幕饱和度以及修改 Steam Deck 上的其他系统设置。它提供的功能包括多个插件的干净注入和加载、在系统更新和重新启动之间保持安装状态、插件和加载器之间的双向通信以及支持从 TypeScript React 运行的 Python 函数。作者提到 Decky Loader 与其他项目的区别在于允许插件进行完全绕过 CORS 的 fetch 调用。]]></description>
+      <guid>https://t.me/hn_summary/62329</guid>
+      <pubDate>Tue, 05 Dec 2023 06:33:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果正在采取措施追赶最近主导市场的人工智能工具 [...]</title>
-      <link>https://t.me/hn_summary/62313</link>
-      <description><![CDATA[Apple 花费了大量时间和金钱来研究 LLM 的作用有用
-苹果正在采取措施追赶最近在科技行业占据主导地位的人工智能工具。该公司计划为其所有设备开发功能，以响应 ChatGPT 和其他类似工具的成功。此外，苹果还着眼于 Mac 的未来，推出了更便宜的 Apple Pencil，并在 Vision Pro 上取得了进展。该公司还进行了高管促销活动，并提供了有关 Apple 汽车的最新信息以及 Quest 3 对 Vision Pro 开发的潜在影响。]]></description>
-      <guid>https://t.me/hn_summary/62313</guid>
-      <pubDate>Tue, 05 Dec 2023 03:20:42 GMT</pubDate>
+      <title>[媒体] Rage 是一个 Ruby Web 框架，灵感来自 Deno，构建于 Iodine 之上。</title>
+      <link>https://t.me/hn_summary/62328</link>
+      <description><![CDATA[Rage：与 Rails 兼容的快速 Web 框架
+Rage 是一个 Ruby Web 框架，灵感来自 Deno，构建于 Iodine 之上。它的目标是成为一个与 Rails 兼容的快速、高性能框架。该框架遵循 Rails 简洁明了的 API 设计原则，旨在用于纯 API 应用程序。它接受现代 Ruby 并包含一个纤程调度程序，以确保代码在等待 IO 时不会阻塞。该项目的独特之处在于在单独的光纤中运行每个请求，从而允许同时处理多个请求。自述文件提供了安装说明、入门指南以及如何使用该框架的示例。即将发布的版本部分概述了计划的功能和改进。欢迎对该项目做出贡献，并且该 gem 可在 MIT 许可证下开源。]]></description>
+      <guid>https://t.me/hn_summary/62328</guid>
+      <pubDate>Tue, 05 Dec 2023 06:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了现代 Unix 内核中添加的名称缓存及其好处。</title>
-      <link>https://t.me/hn_summary/62312</link>
-      <description><![CDATA[为什么 Unix 内核增加了目录条目的缓存（“名称缓存” )
-本文讨论了现代 Unix 内核中添加的名称缓存及其好处。传统上，Unix 仅通过文件和目录的 inode 来了解它们。然而，通过添加名称缓存，Unix 内核现在可以存储和检索活动文件和目录对象的名称。这对于系统监视和支持系统调用以返回当前目录的名称很有用。添加名称缓存的原因是Unix系统频繁执行目录名称查找，而缓存为这些查找提供了快速路径。该文章还提到名称缓存存储负条目的能力，表明特定名称不存在。这有助于提高在多个目录中搜索文件时的效率。作者认为名称缓存在查找速度和减少内核 CPU 使用率方面发挥了真正的作用。文章还提到 Linux、FreeBSD、OpenBSD 和 NetBSD 都有某种形式的内核名称缓存。]]></description>
-      <guid>https://t.me/hn_summary/62312</guid>
-      <pubDate>Tue, 05 Dec 2023 03:19:34 GMT</pubDate>
+      <title>Web 内容讨论了创建符号层的设计原则和注意事项 [...]</title>
+      <link>https://t.me/hn_summary/62327</link>
+      <description><![CDATA[设计符号层
+Web 内容讨论了在 QMK 布局中创建符号层的设计原则和注意事项。它强调了优化常用符号和二元组布局以及使布局易于学习的重要性。作者提供了现有符号层设计的示例以获取灵感，包括针对 Vim、Elixir 和 Rust 编程进行优化的布局。作者还分享了自己的符号层设计，并提出了学习和记忆符号层的方法。总体而言，该内容为设计有效的符号层提供了宝贵的见解和资源。 （根据 61% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62327</guid>
+      <pubDate>Tue, 05 Dec 2023 06:27:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，Matt Henderson 探讨了 d 的周长之间的关系 [...]</title>
-      <link>https://t.me/hn_summary/62311</link>
-      <description><![CDATA[Matt Henderson 的老博客，漂亮的数学动画&lt; br/&gt;
-在这篇博文中，Matt Henderson 探讨了不同形状的周长之间的关系以及它们如何被压扁。他解释说，对于正方形来说，当它被压扁时，周长会线性减小。然而，对于五边形，关系更加复杂并且遵循曲线。随着边数的增加，形状开始类似于压扁的圆形或椭圆形。亨德森强调，椭圆的周长没有封闭形式方程，这使其成为一条有趣且独特的研究曲线。他为有兴趣了解更多信息的人提供了代码和附加信息。]]></description>
-      <guid>https://t.me/hn_summary/62311</guid>
-      <pubDate>Tue, 05 Dec 2023 02:52:14 GMT</pubDate>
+      <title>[媒体] 网页内容是 old.reddit.com 论坛上用户的一系列命令和输出。</title>
+      <link>https://t.me/hn_summary/62326</link>
+      <description><![CDATA[LUKS加密和解密：使用“cryptsetup reencrypt”无需root访问&lt; /a&gt;
+网页内容是 old 上用户的一系列命令和输出.reddit.com 论坛。用户正在讨论在没有 root 访问权限的情况下设置 LUKS 加密和解密的过程。它们提供了 cryptsetup 手册页和常见问题等资源的链接。用户还提到使用 Termux 应用程序和 Termux 包在 Android 操作系统上运行命令。他们演示了用于创建和操作 ext4 文件系统的各种命令，包括使用 debugfs 将一个文件系统复制到另一个文件系统。该内容本质上是技术性的，并提供执行这些任务的分步说明。 （根据故事文本的 17% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/62326</guid>
+      <pubDate>Tue, 05 Dec 2023 05:58:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]音乐流媒体平台 Spotify 宣布将削减 17% 的工作 [...]</title>
-      <link>https://t.me/hn_summary/62310</link>
-      <description><![CDATA[Spotify 今年第三轮裁员，裁员 17% 
-音乐流媒体平台 Spotify 宣布将裁员 17%，共计 1,500 名员工，以降低成本。这是在今年早些时候进行的前两轮裁员之后发生的。该公司首席执行官 Daniel Ek 表示，做出这一决定是为了使公司的财务目标与其当前的运营成本保持一致。由于裁员，Spotify第四季度将承担约1.30-1.45亿欧元的费用。尽管进行了裁员，Spotify 仍对其播客业务进行了大量投资，目标是到 2030 年达到 10 亿用户。]]></description>
-      <guid>https://t.me/hn_summary/62310</guid>
-      <pubDate>Tue, 05 Dec 2023 02:48:03 GMT</pubDate>
+      <title>英特尔 Optane 内存模块于 2015 年推出，已于 2022 年停产。</title>
+      <link>https://t.me/hn_summary/62325</link>
+      <description><![CDATA[安息吧，Optane – 投机分支
+英特尔的 Optane 内存模块于 2015 年推出，已于 2022 年停产。该技术最初令人兴奋，因为它提供了 DRAM 和闪存之间的新存储层，将 DRAM 的耐用性和速度与闪存的持久性和大小结合在一起。然而，随着时间的推移，在赖特定律的推动下，DRAM 和闪存技术的快速进步使得 Optane 的竞争力下降。此外，NVDIMM-N 模块等替代持久性方法也提供了类似的优势，但没有 Optane 的耐用性问题。最终，Optane 未能提供独特的价值主张，并被其他存储技术所掩盖。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62325</guid>
+      <pubDate>Tue, 05 Dec 2023 05:51:05 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了如何将 CueCat 条码扫描仪与 .NET 结合使用来制作 [...]</title>
-      <link>https://t.me/hn_summary/62309</link>
-      <description><![CDATA[在 QR 码之前，有 CueCat (2006)
-本文讨论了 CueCat 条形码扫描仪与 .NET 的结合使用，使有关书籍的博客变得更加容易。 CueCat 是一款手持式条形码阅读器，于 20 世纪 90 年代末开发，允许用户扫描条形码以引导至相关网页。作者对 CueCat 的输出进行解码，并使用查找表将 UPC 代码转换为 ISBN。然后，他们使用 ISBN 调用 Amazon 的 REST Web 服务并检索有关该图书的信息。本文包含 C# 和 VB 代码示例。 （根据 53% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/62309</guid>
-      <pubDate>Tue, 05 Dec 2023 02:46:55 GMT</pubDate>
+      <title>[媒体]谷歌已同意和解由其数万名员工提起的长期诉讼 [...]</title>
+      <link>https://t.me/hn_summary/62324</link>
+      <description><![CDATA[近 10 万名 Google 员工即将获得 20 美元来之不易的工资&lt; /a&gt;
+谷歌已同意就其数万名员工就该公司严格保密政策提起的长期诉讼达成和解。该诉讼称，谷歌的保密协议是非法的，并禁止员工向媒体发表讲话、披露收入、讨论工作条件以及报告违规行为。和解金额为 2700 万美元，其中只有一小部分交给了工人。剩余的钱将分配给原告律师和负责工人保护的国家机构。每个工人平均将收到 45 美元的报酬，其中固定报酬为 20 美元，根据任期还有额外金额。该和解被视为行业的转折点，引发了对科技公司及其沉默文化的更多批评。]]></description>
+      <guid>https://t.me/hn_summary/62324</guid>
+      <pubDate>Tue, 05 Dec 2023 05:38:51 GMT</pubDate>
     </item>
     <item>
-      <title>一项新研究发现，OpenAI 开发的人工智能聊天机器人 ChatGPT 提供了更多 [...]</title>
-      <link>https://t.me/hn_summary/62308</link>
-      <description><![CDATA[如果您假装给小费，ChatGPT 将提供更详细和准确的回复&lt; /a&gt;
-一项新研究发现，OpenAI 开发的人工智能聊天机器人 ChatGPT 在用户假装给小费时提供了更详细、更准确的响应。这项研究是由一位名叫 Thebes 的程序员进行的，她促使聊天机器人向她展示使用 PyTorch 的简单卷积网络的代码。 Thebes 表示，根据回复的质量，她会给聊天机器人 20 美元、200 美元的小费，或者根本不给小费。结果表明，当有激励措施时，聊天机器人会提供更好的响应。然而，聊天机器人拒绝接受这一提示，称其目的是提供信息并回答问题。该研究强调了激励措施对人工智能生成的响应的影响，并提出了它如何影响聊天机器人性能的问题。]]></description>
-      <guid>https://t.me/hn_summary/62308</guid>
-      <pubDate>Tue, 05 Dec 2023 02:44:46 GMT</pubDate>
+      <title>[媒体]这个 GitHub 项目是一个工具，允许用户获取有关可用性的信息 [...]</title>
+      <link>https://t.me/hn_summary/62323</link>
+      <description><![CDATA[显示 HN：通过短信获取纽约共享单车可用性，以便我可以放弃我的智能手机
+这个 GitHub 项目是一个工具，允许用户通过短信获取有关纽约市 Citibike 车站可用性的信息。用户可以将当前地址或穿过街道的短信发送到特定的电话号码，然后收到三个最近的 Citibike 车站及其自行车/停靠点可用性的回复。该项目的目的是向拥有 Citibike 密钥和哑手机的用户提供此信息，这样他们就不再需要 Citibike 应用程序或智能手机。该项目的独特之处在于专门为哑手机提供此功能，并使用 Flask、Twilio、PythonAnywhere 和 MySQL 作为其基础设施。作者还提到了将该项目扩展到其他拥有自行车共享系统的城市的可能性。]]></description>
+      <guid>https://t.me/hn_summary/62323</guid>
+      <pubDate>Tue, 05 Dec 2023 05:35:43 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：为什么有 1055 个点赞的帖子消失了？</title>
-      <link>https://t.me/hn_summary/62307</link>
-      <description><![CDATA[问 HN：为什么有 1055 票赞成的帖子消失了？
-news.ycombinator.com 上这篇文章的作者是质疑为何某篇获得 1055 点赞的文章从首页消失了。他们向 Dang 提出了问题，并提供了相关文章的链接。摘要中没有提供文章的内容。]]></description>
-      <guid>https://t.me/hn_summary/62307</guid>
-      <pubDate>Tue, 05 Dec 2023 02:43:36 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了香港英语表达“Add oil”，它被用作[...]</title>
+      <link>https://t.me/hn_summary/62322</link>
+      <description><![CDATA[加油
+文章讨论了香港英语表达“Add oil”，它被用来作为对一个人的鼓励和支持。该表达源自中文短语“Gayau”或“Jiayou”，是双语香港使用者常用的表达方式。它可以粗略地翻译为“Go for it”，并且通常被描述为最难翻译的。该短语在 2014 年雨伞革命期间引起国际关注，并在 2019-20 年香港抗议活动中广泛使用。该术语于2018年正式加入《牛津英语词典》。]]></description>
+      <guid>https://t.me/hn_summary/62322</guid>
+      <pubDate>Tue, 05 Dec 2023 05:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nvidia 首席执行官黄仁勋 (Jensen Huang) 宣布该公司将与日本 [...]</title>
-      <link>https://t.me/hn_summary/62306</link>
-      <description><![CDATA[Nvidia 将与软银和其他日本公司合作推动人工智能研究&lt; /a&gt;
-英伟达首席执行官黄仁勋宣布，该公司将与软银、樱花互联网和 NTT 等日本公司合作，加速生成人工智能 (AI) 的研究。在与日本首相岸田文雄会面时，岸田要求 Nvidia 向日本提供尽可能多的图形处理单元 (GPU)，因为 Nvidia 是 GPU 的领先供应商。黄对生成式人工智能与日本制造专业知识的结合表示兴奋，并表示这可能会彻底改变日本机器人技术的未来。此次合作正值越来越多的日本公司转向生成式人工智能来增强竞争力。日本政府也支持人工智能推动经济增长。]]></description>
-      <guid>https://t.me/hn_summary/62306</guid>
-      <pubDate>Tue, 05 Dec 2023 02:43:30 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了为什么将办公空间转变为住宅空间并不是一种可行的方法[...]</title>
+      <link>https://t.me/hn_summary/62321</link>
+      <description><![CDATA[为什么住宅改建无法挽救商业地产 
+本文讨论了为什么将办公空间转变为住宅空间对于商业房地产来说不是一个可行的解决方案。它强调了此类改造所面临的挑战，包括管道、暖通空调和办公楼缺乏窗户的问题。作者强调，大规模实施这些转换是不切实际且昂贵的。文章还提到，员工重返办公室的趋势不断增加，表明对办公空间的需求正在增加。作者的结论是，写字楼改住宅并不是拯救商业地产的解决方案，业主和运营商需要专注于了解员工数据并提供有价值的通勤体验。]]></description>
+      <guid>https://t.me/hn_summary/62321</guid>
+      <pubDate>Tue, 05 Dec 2023 04:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Vialibri 是一个实体图书元搜索引擎，可让用户轻松查找和发布 [...]</title>
-      <link>https://t.me/hn_summary/62305</link>
-      <description><![CDATA[Vialibri：实体书元搜索引擎
-Vialibri 是一个实体图书元搜索引擎，可让用户轻松查找和购买稀有古籍。该网站以富有创意和诗意的方式进行描述，将其比作文学灵魂的数字天堂。歌词强调了 Vialibri 能够带领读者踏上穿越过去的旅程，点燃他们的思想，让他们在古董书籍的世界中找到回家的路。令人惊讶的是，这首歌是由一个名为ChatGPT的人工智能程序创作的，展示了人工智能在古籍图书销售领域的潜在应用。]]></description>
-      <guid>https://t.me/hn_summary/62305</guid>
-      <pubDate>Tue, 05 Dec 2023 02:18:04 GMT</pubDate>
+      <title>[媒体]伦敦大学学院的物理学家提出了一种新理论，旨在调和爱因斯坦的理论[...]</title>
+      <link>https://t.me/hn_summary/62320</link>
+      <description><![CDATA[新理论声称将爱因斯坦引力与量子力学结合起来 
+伦敦大学学院的物理学家提出了一种新理论，旨在协调爱因斯坦的引力理论与量子力学。普遍的假设是爱因斯坦的引力理论需要修改以适应量子理论，但伦敦大学学院的理论表明时空可能是经典的并且不受量子理论的支配。该理论没有修改时空，而是修改了量子理论本身，并预测时空的随机涨落比量子理论预测的要大。该理论已经过测试，并且提出的精确测量质量重量的实验旨在证实其预测。该理论挑战了我们对引力基本性质的理解，并具有超越引力的意义，包括解决黑洞信息问题。]]></description>
+      <guid>https://t.me/hn_summary/62320</guid>
+      <pubDate>Tue, 05 Dec 2023 04:32:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

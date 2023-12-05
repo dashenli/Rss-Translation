@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Dec 2023 02:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 06:33:56 GMT</lastBuildDate>
+    <item>
+      <title>菲亚特 500e 是一款价格实惠的小型电动汽车，唯一的排放是古典音乐</title>
+      <link>https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23988202/fiat-500e-ev-price-specs-photos-city-car</guid>
+      <pubDate>Tue, 05 Dec 2023 05:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>PlayStation 账户被“永久暂停”，无人知晓原因</title>
       <link>https://www.theverge.com/2023/12/4/23988621/sony-playstation-account-ps5-bans-permanent-suspension</link>
@@ -118,9 +125,9 @@ Stolen 是 Gimlet 的另一部广受赞誉的节目（此外还获得了普利�
       
 边缘
 
-英国法院裁定 盖蒂图片社针对 Stable Diffusion 创造者 Stability AI 的诉讼可以进入审判阶段，盖蒂坚持认为其受版权保护的材料用于训练人工智能模型是有道理的。 
+英国法院裁定 盖蒂图片社针对 Stable Diffusion 创造者 Stability AI 提起的诉讼可以进入审判阶段，盖蒂坚持认为其受版权保护的材料用于训练人工智能模型是有道理的。 
 英格兰和威尔士高等法院下属的商业和财产法院于周五做出裁决，裁定 Getty 声称该初创公司使用其受版权保护的图像库来训练稳定扩散模型的说法应进一步调查。 Stability 辩称，该案不应在英国法院审理，因为它表示参与 Stable Diffusion 培训或开发的人员均不在英国。该公司还表示，它使用来自 AWS 的美国云计算能力来训练该模型。 
-然而，法官乔安娜·史密斯 (Joanna Smith) 裁定，该公司和 Stability 首席执行官埃马德·莫斯塔克 (Emad Mostaque) 提供的证据“引发了证据不准确或不完整的担忧；至少表明证据存在冲突。”法院提到了莫斯塔克在媒体上的露面，他表示 Stable 帮助“快速处理”致力于 Stable Diffusion 的俄罗斯和乌克兰开发商的英国居留申请。 
+然而，法官 Joanna Smith 裁定该公司和 Stability 首席执行官 Emad Mostaque 提供的证据“引发了证据不准确或不完整的担忧；至少表明证据存在冲突。”法院指出，莫斯塔克在媒体露面时表示，Stable 帮助“快速处理”从事 Stable Diffusion 项目的俄罗斯和乌克兰开发商的英国居留申请。 
 The Verge 联系 Stability AI 征求意见。 
 盖蒂图片社还有另一起针对 Stability AI 在美国的版权侵权诉讼。 
 在此处阅读裁决：
@@ -155,18 +162,6 @@ Kill 告诉 The Verge，“我们仍然没有任何迹象表明我们的系统�
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23984534/godzilla-minus-one-interview-takashi-yamazaki</guid>
       <pubDate>Mon, 04 Dec 2023 21:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 正在取消在 Quest 上查看手机通知的功能</title>
-      <link>https://www.theverge.com/2023/12/4/23988161/meta-quest-update-v60-remove-smartphone-notifications</link>
-      <description><![CDATA[&lt;图&gt;
-      据 Quest v60 更新的补丁说明&lt; /a&gt;.该公司推出了在耳机中查看 iOS 和 Android 通知的功能2021 年。
-Meta 没有在补丁说明中进一步详细说明为什么要删除该功能，而且这样做很遗憾。如果没有这些通知，当您完全沉浸在 Quest 中时，很难知道智能手机上发生了什么，除非您将耳机从眼前拉开，这迫使您停止在 Quest 中所做的事情。
-也就是说，如果您有 Quest 3，耳机的全彩透传功能足以看到智能手机的屏幕，以执行浏览通知等轻量级任务。但我的同事 Adi Robertson 表示，在 Quest Pro 上阅读手机屏幕“几乎不可能” ，”，根据我的经验，Quest 2 的颗粒状黑白透视是尝试查看手机的糟糕方式。
-虽然 v60 删除了一项有用的功能令人失望，但更新也添加了一些好的新功能。有一个新的布局实用程序应用程序，“可以帮助您直接在物理空间中进行空间测量、对齐和可视化现实世界的对象。”任务配置文件 将显示当您访问某人的个人资料时，“有关您的共同经历和联系的信息”（尽管您可以选择将该信息保密）。当您使用混合现实应用程序时，Quest Pro 的 CPU 和 GPU 将获得更高的时钟速度，并且您可以通过添加 PIN 来对云备份进行端到端加密。
-您可以在 Meta Quest 博客 和 详细发行说明。该更新现已推出，不过 Meta 表示，如果你还没有，它“应该很快就会到达你的虚拟手中。”]]></description>
-      <guid>https://www.theverge.com/2023/12/4/23988161/meta-quest-update-v60-remove-smartphone-notifications</guid>
-      <pubDate>Mon, 04 Dec 2023 20:49:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
