@@ -4,7 +4,113 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Dec 2023 18:31:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 21:19:59 GMT</lastBuildDate>
+    <item>
+      <title>iPhone 13 和 iPhone 14 将在 iOS 17.2 中获得 Qi2 支持</title>
+      <link>https://www.theverge.com/2023/12/5/23989606/iphone-13-14-qi2-magsafe-compatible-apple-ios-17-2</link>
+      <description><![CDATA[&lt;图&gt;
+      
+iPhone 14 Pro Max 和 iPhone 14 Pro。 |图片：Amelia Holowaty Krales / The Verge
+
+苹果刚刚推送了 iOS 17.2 的候选版本，根据补丁说明，即将推出的更新为 iPhone 13 和 iPhone 14 系列智能手机带来了对 Qi2 无线充电标准的支持。苹果表示 iPhone 15 和 15 Pro 已经支持 Qi2，尽管实际上还没有任何 Qi2 充电器可供购买（可能很快就会改变）。
+Qi2 添加了类似 MagSafe 的戒指磁铁符合 Qi 无线充电标准，充电速率高达 15W。对于 Android 手机来说，这意味着更快、更方便的无线充电，以及进入庞大的磁性无线充电器生态系统，这些无线充电器已如雨后春笋般涌现，支持 MagSafe iPhone。对于 iPhone 来说，这意味着 MagSafe 快速充电，无需支付 MagSafe 价格。目前，如果您使用未经 MagSafe 认证的磁性无线充电器为 iPhone 充电，充电速度最高可达 7.5W，但如果您使用 MagSafe 认证的充电器（价格更贵）比其他无线充电器），您会看到高达 15W 的速度。 
+最大的未知数是将 iPhone 13 或 14 放在 Qi2 充电器上时的充电速度。虽然 Apple 此前向 The Verge 确认 iPhone 15 系列将使用 Qi2 充电器以高达 15W 的功率充电，但当时拒绝透露 Qi2 是否会出现在早期的 iPhone 上，而且到目前为止，它还没有明确表示13和14手机将使用Qi2充电器以15W充电。他们很可能会的。我们已联系 Apple、Anker、Belkin 和无线充电联盟，看看他们是否可以分享更多详细信息。
+Apple 通常会在公开发布软件前几天分享 iOS 候选版本，因此 iOS 17.2 很可能会在本周或下周向所有人提供。此更新还添加了日记应用，这是 iPhone 的功能15 部 Pro 手机捕捉空间视频，修复 iPhone 15 无线充电问题 在某些汽车中，该设置可让您更改通知的默认声音等。您可以阅读9to5Mac 上的完整补丁说明.]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23989606/iphone-13-14-qi2-magsafe-compatible-apple-ios-17-2</guid>
+      <pubDate>Tue, 05 Dec 2023 21:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 的 xAI 公司正在寻求高达 10 亿美元的投资</title>
+      <link>https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Kristen Radtke / The Verge 绘制；盖蒂图片社
+
+
+  据 xAI（埃隆·马斯克创立的人工智能公司）寻求筹集至多 10 亿美元的股权投资data/2002695/000200269523000002/xslFormDX01/primary_doc.xml&quot;&gt;向美国证券交易委员会提交的文件 (CoinDesk 发现）。该公司迄今已筹集 1.347 亿美元。
+成立于四月，xAI 是马斯克尝试人工智能炒作列车。据其网站称，该公司的目的是“了解宇宙的真实本质”，而其 Grok AI 聊天机器人的推出显然应该进一步推动这一目标。 
+Grok 从 X（以前称为 Twitter）提取实时信息来支持其某些响应，但目前仅在 X 的 Premium Plus 订阅者。尽管 Grok 和 X 之间关系密切，但 xAI 与 X 的母公司 X Corp. 是分开的。 
+SEC 备案文件指出，xAI 仅接受外部投资者的至少 200 万美元。该文件还称，“发行人已就上述剩余待售总资产的购买和销售签订了一份具有约束力且可执行的协议”，这看起来似乎 10 亿美元的其余部分已经交易完成，作为 Axios 已注意到。]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23989559/xai-elon-musk-securities-offering</guid>
+      <pubDate>Tue, 05 Dec 2023 20:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bing 测试 AI 深度搜索，将简单的问题转化为详细的提示</title>
+      <link>https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+微软正在准备一项新的 Bing 功能，该功能应该可以帮助您省去开发自己的 AI 提示的麻烦。 GPT-4 支持的功能称为“深度搜索”，可让您Bing 查询并对其进行扩展，允许搜索引擎在网络上查找与您的问题相关的多个主题的答案。
+例如，Microsoft 展示了 Bing 如何将模糊搜索“日本的积分系统如何运作”转变为要求 Bing 进行以下操作的详细提示：
+解释各种会员卡计划在日本的运作方式，包括每个计划的好处、要求和限制。包括不同类别（例如便利店、超市和餐馆）的流行会员卡示例。比较在日本使用会员卡与其他支付方式的优缺点，包括当前的奖励和福利。突出显示最受欢迎的服务和参与商家。
+Bing 还可能会扩展搜索范围，以包括移民政策和公共交通票价的描述，因为 GPT-4 试图“找到查询的所有可能意图”。
+
+
+GIF：微软
+
+Bing 提供的任何主题都将显示在搜索结果页面的面板中。然后，您可以选择最适合您要查找的内容，深度搜索将通过“根据与综合描述的匹配程度”对搜索结果进行排名来管理其搜索结果。微软表示，进行深度搜索可能需要长达 30 秒的时间，但如果您没有那么多耐心，您可以随时继续使用 Bing 的标准搜索功能。
+Microsoft 在其关于 Copilot 对 OpenAI 的 GPT-Turbo 模型的支持。虽然深度搜索目前只是一项实验，仅适用于一小部分用户，但我很期待尝试一下。有时，提出人工智能提示本身就是一项任务，这违背了使用它来提高生产力的目的。]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft</guid>
+      <pubDate>Tue, 05 Dec 2023 19:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Verge 为爸爸们准备的 2023 年节日礼物指南</title>
+      <link>https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets</link>
+      <description><![CDATA[&lt;图&gt;
+      
+照片插图由 Amelia Holowaty Krales 和 Cath Virginia / The Verge 拍摄
+
+我们为您生命中的所有爸爸们收集了许多有趣而独特的礼物创意，这样您就可以宠坏他们，无论您的预算如何。 又到了一年中的这个时候，您注意到假期即将来临，但不知道该买什么棒棒糖。我的意思是，他这些天除了在 Facebook Marketplace 上出售一些随机垃圾之外还喜欢什么，对吧？值得庆幸的是，您在 Verge 领域有一些朋友可以帮助您。
+
+我们为各种爸爸收集了一小卡车的礼物创意，从极客修补匠到喜欢冒险的周末勇士。其中一些礼物，例如 Hoto 的方便电动螺丝刀 和 Bose 的新款 QuietComfort Ultra 耳机 肯定会给他一种“以前没有这个我怎么生活”的感觉，而其他耳机，例如 Benjamin Vogt 关于自然园艺的书，可能会开辟全新的领域想法。
+每个爸爸都有点不同，这就是为什么我们精心挑选了一系列有趣且贴心的礼物，这些礼物涵盖了我们在 边缘。
+]]></description>
+      <guid>https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets</guid>
+      <pubDate>Tue, 05 Dec 2023 19:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>PlayStation 不断提醒我们为什么数字所有权很糟糕</title>
+      <link>https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Vjeran Pavic / The Verge
+
+在不到一周的时间里，索尼两次及时提醒我们数字“所有权”的脆弱性——两次提醒都涉及 PlayStation 上的事情。
+上周，索尼表示，由于内容许可“安排”，用户将无法观看他们购买的 Discovery 内容并且该内容将自 2023 年 12 月 31 日起从其库中删除。由于公司协议而突然消失的节目列表为 很长。节目从流媒体服务中消失是很常见的事情，但在这种情况下，人们无法随时观看他们购买的节目。
+然后，周一，许多用户意外地被禁止使用他们的 PlayStation Network 帐户，这意味着他们不仅无法玩多人游戏或使用云流媒体，而且还无法玩从索尼 PlayStation 市场以数字方式购买的游戏。受影响的用户可能花了数年时间建立了一个强大的数字图书馆，但突然无法访问他们并非因自己的过错而购买的内容。索尼似乎已经恢复了被意外禁止的用户的帐户访问权限，但该公司没有解释发生了什么，也没有说明未来如何防止类似的意外禁止。 （索尼尚未回复我们的多次置评请求。）
+
+数字“所有权”的短暂性并不是一个新问题。尽管下载和访问数字内容通常比长途跋涉到零售商店购买游戏的实体副本更容易，但您相信平台持有者会维护他们的数字店面、这些店面上的内容以及他们的帐户系统，以便您的访问持续有效。
+最近关闭任天堂的 Wii U 和 3DS eShops 清楚地提醒我们，公司有权决定何时可以购买数字内容。虽然你仍然可以重新下载已购买的 Wii U 和 3DS 游戏，但任天堂似乎不可避免地有一天会停止让你这样做。 （它已经计划关闭这些平台的在线服务，毕竟。）并记住Google 何时关闭 Stadia？
+
+
+摄影：James Bareham / The Verge
+我正在考虑切换回实体游戏。
+
+然而，最近发生的 PlayStation 事件更加严重，因为它们是如此突然且看似不公平。对于 Discovery 内容，索尼给用户最后一次观看购买的节目的时间，然后这些节目将完全从他们的图书馆中撤出。索尼不会为您已经购买的游戏提供任何补偿，也不会提供将这些购买的商品转移到另一家商店的方法。 PlayStation 帐户禁令来得如此之快，出乎意料，虽然大多数问题的解决方案在几个小时内就得到了解决，但索尼仍然没有分享任何关于发生了什么或为什么用户应该继续信任该平台的公开信息。
+多年来我一直致力于数字内容。我不喜欢杂乱的物理盒子，而且我喜欢无需离开沙发就能切换游戏和电影。但在看到更多公司删除“购买的”数字内容的实例后——本质上是让我以数字方式购买的东西成为长期租赁——我正在认真考虑重新购买光盘和盒式磁带。]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks</guid>
+      <pubDate>Tue, 05 Dec 2023 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《堡垒之夜》法庭两周</title>
+      <link>https://www.theverge.com/23959932/epic-v-google-trial-antitrust-play-store-fortnite-recap</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23959932/epic-v-google-trial-antitrust-play-store-fortnite-recap</guid>
+      <pubDate>Tue, 05 Dec 2023 19:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>皮克斯的《变红》、《灵魂》和《卢卡》将于 2024 年上映</title>
+      <link>https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;皮克斯
+
+今年早些时候，迪士尼首席执行​​官鲍勃·艾格 (Bob Iger) 表达了他对工作室现状的不满最终将其迪士尼+项目货币化，该项目虽然很受欢迎，但尚未吸引尽可能多的订阅者 正如投资者所希望的那样。从那时起，迪士尼采取了一些措施，例如播出Ms. Marvel 期望 ABC 从其流媒体目录中获得一些新的广告收入，但从财务角度来看，其下一步行动可能会产生更大的影响。
+今天，迪士尼和皮克斯宣布 Pete Docter 的灵魂、 Domee Shi 的变红，以及恩里科·卡萨罗萨的卢卡&lt; /em&gt; ——所有这些最终都在迪士尼+首映 由于 covid-19 大流行 - 全部将于 2024 年上映。从 1 月 12 日开始，灵魂将上映与导演 Madeline Sharafian 的短片 Burrow; 一起，2 月 9 日，Turning Red 将与 Rosana Sullivan 的短片 Kitbull; 一起放映，并于 3 月 22 日，&lt;卢卡将与拉尔夫·埃格尔斯顿的《为了鸟儿》一起放映。 “特别参与戏剧演出”的门票将于 2024 年 1 月 2 日开始发售。]]></description>
+      <guid>https://www.theverge.com/2023/12/5/23989403/pixar-disney-soul-turning-red-luca-theatrical-release-date</guid>
+      <pubDate>Tue, 05 Dec 2023 18:58:19 GMT</pubDate>
+    </item>
     <item>
       <title>丰田在电气化道路上艰难前行，展示了两款新的电动汽车概念</title>
       <link>https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover</link>
@@ -38,7 +144,7 @@
 摄影：Chris Welch / The Verge
 
 当 2025 年对 Windows 10 的支持结束时，微软将允许消费者为 Windows 10 的扩展安全更新 (ESU) 付费。这家软件巨头通常只为需要继续运行的组织提供付费安全更新旧版本，但现在计划首次通过年度订阅服务向个人提供它们，而不是延长 Windows 10 的支持结束日期。
-“虽然我们强烈建议迁移到 Windows 11，但我们了解，在某些情况下可能会阻止您在支持日期结束之前更换 Windows 10 设备。因此，微软将提供扩展安全更新，”微软在博客文章中解释道。 “Windows 10 的 ESU 计划将包括关键和/或重要的安全更新。 ESU 不包括新功能、客户请求的非安全更新或设计变更请求。也不提供 ESU 本身以外的技术支持。”
+“虽然我们强烈建议迁移到 Windows 11，但我们了解，在某些情况下可能会阻止您在支持日期结束之前更换 Windows 10 设备。因此，微软将提供扩展安全更新，”微软在博客文章中解释道。 “Windows 10 的 ESU 计划将包括关键和/或重要的安全更新。 ESU 不包括新功能、客户请求的非安全更新或设计更改请求。也不提供 ESU 本身之外的技术支持。”
 Windows 10 的支持终止日期为 2025 年 10 月 14 日，距 Microsoft 首次推出该操作系统仅 10 多年。许多人预计微软会延长对 Windows 10 的支持，特别是因为它仍然被广泛使用，而且 Windows 10 和 Windows 11 之间存在如此大的差距（近六年）。因此，微软为普通用户提供相同的 ESU 程序是令人惊讶的向企业提供三年的额外安全补丁。
 “如果您是个人消费者或组织，在 2025 年 10 月 14 日支持结束后选择继续使用 Windows 10，您可以选择在付费扩展安全更新中注册您的电脑 ( ESU）计划”，微软在常见问题解答页面上解释道。微软尚未详细说明其扩展 Windows 10 安全补丁的定价。微软表示：“包括定价在内的更多细节将在晚些时候提供。” 
 
@@ -58,112 +164,6 @@ Windows 10 仍然是一款非常受欢迎的操作系统，特别是因为在您
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/5/23987784/instagram-old-videos-missing-audio</guid>
       <pubDate>Tue, 05 Dec 2023 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托罗拉 Razr 2023 评测：还不够好</title>
-      <link>https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23988433/motorola-razr-2023-review-flip-phone-camera-battery-screen</guid>
-      <pubDate>Tue, 05 Dec 2023 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 推出移动更新，力求成为更好的消息应用程序</title>
-      <link>https://www.theverge.com/2023/12/5/23989155/discord-mobile-app-refresh-midnight-view</link>
-      <description><![CDATA[&lt;图&gt;
-      Discord 于周二推出了期待已久的移动版重新设计，与桌面版本明显不同，其重点是与朋友沟通和分享 - 包括群组和个人直接消息。改版后，Discord 应用将显示导航打开应用程序后会立即出现多个选项卡，包括用于服务器、消息和通知的单独选项卡以及允许用户编辑其个人资料和设置的“您”选项卡。 
-还有一个新的全局 DM 搜索功能，可以搜索您的所有消息、pin、附件和其他文件 - 换句话说，您不必打开朋友的个人私信即可找到您正在寻找的具体内容。传闻已久的 OLED 黑暗模式终于来了，正式称为“午夜”。 
-这是很多重大变化，如果您熟悉 Slack、Teams 或即使是最新的 Google Chat，您也会认出一些（无论好坏）。无论如何，随着人们习惯新的布局，肯定会有些抱怨。
-随着越来越多的 Z 世代和千禧一代用户在智能手机上花费的时间多于在台式机上花费的时间，Discord 的移动更新已经等待了很长时间。 “随着时间的推移，Discord 可以做的*事情*数量呈指数级增长。然而，移动应用程序被迫将所有内容都塞进桌面应用程序的小版本中。世界也发生了变化——随着越来越多的人花时间在旅途中使用 Discord，移动设备上的缺陷变得更加明显，”Discord 的集团产品经理 Francesco Polizzi 在 博客文章宣布更新。 
-
-
-图片：Discord
-更新后的 Discord 移动应用中的“通知”选项卡。
-
-新应用程序取消了底部令人困惑的选项卡排列，并将范围缩小到只有您的服务器、消息、通知和您自己的会员选项卡。这意味着您单击以查看谁在线的奇怪“朋友”选项卡现在已经消失，不太有用的“搜索”选项卡也消失了。 
-以下是您的服务器列表在新应用中的外观。看看这些选项卡多么干净且易于理解！ 
-
-
-图片：Discord
-Discord 更新的移动应用程序上的服务器列表。
-
-在“消息”选项卡下，您可以找到所有群组和个人私信，而不仅仅是朋友的状态（即，他们是否处于语音频道或正在玩群组活动）。 
-新应用中的媒体共享也应该更快、更轻松。 Discord 为用户提供了 25MB 的免费文件上传限制，并且像新组织的照片网格视图之类的调整可能会更美观。该移动应用程序现在还可以存储多达 700 个文本频道和 DM 的最新消息，这意味着该应用程序可能会加载得更快，并且滚动速度会更快（即无缓冲）。 
-最后，打开 Discord 应用程序现在应该花费更少的时间。该公司声称，通过最新的更新，该应用程序的打开时间在 iOS 上减少了 43%，在 Android 上减少了 55%。 Android 用户可以预期更少的崩溃。由于该应用程序现在在后台缓存消息，Discord 估计它使用的数据量减少了四倍。 
-有关 Discord 全新移动体验的更多信息，请随时观看下面的视频。 
-
-]]></description>
-      <guid>https://www.theverge.com/2023/12/5/23989155/discord-mobile-app-refresh-midnight-view</guid>
-      <pubDate>Tue, 05 Dec 2023 17:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keychron 的最新键盘配备磁性模拟霍尔效应开关</title>
-      <link>https://www.theverge.com/2023/12/5/23989237/keychron-q1-he-hall-effect-analog-switches-price-release-date-specs-features-mechanical-keyboard</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-机械键盘专家 Keychron 已在 Kickstarter 上推出其首款带霍尔效应开关的键盘，Keychron Q1 HE。如果作为 Kickstarter 的一部分购买，完整组装的模型售价为 214 美元，还有一个没有开关或键帽的裸机模型，售价为 194 美元。 
-与传统的机械开关相比，霍尔效应开关的特点是模拟，因此能够区分轻按和完全按下每个按键的区别。因此，使用 Q1 HE，您可以通过自定义每个按键在启动前按下的距离来利用这一点，并且还有一个“快速触发”功能，可以在您重新按下某个按键时记录一次按键 —而不必提升到超过重置点。如果您想要真正喜欢，您甚至可以将多达四个命令分配给同一个键，以利用这种模拟灵敏度。
-
-
-图片：Keychron
-Q1 HE 为白色和黑色。
-
-Keychron 并不是第一家使用霍尔效应开关的键盘制造商，霍尔效应开关之前曾出现在 唤醒，SteelSeries 和 海盗船。但值得注意的是，Keychron 正在制作一些最佳机械键盘键盘周围，这意味着 Q1 HE 有潜力将出色的打字感觉与一套详尽的霍尔效应驱动功能结合起来。
-自定义 Keychron Q1 HE 的模拟功能是通过 Keychron 的网络应用程序完成的，该应用程序还可以处理其他按键重新映射任务。这与 Keychron 键盘通常使用的优秀 Via 应用程序不同，Keychron 的软件是否能与 Via 的功能和易用性相匹配还有待观察。
-Q1 HE 可以有线或无线方式使用，如果您选择无线方式，则可以选择通过蓝牙或附带的 2.4GHz USB 适配器进行连接。后者提供 1,000Hz 的响应轮询率，而蓝牙则受益于能够连接最多三个设备。 
-在结构方面，Q1 HE 的色调接近 Keychron 现有的 Q1 Pro。它采用紧凑的 75% 布局，采用全铝外壳和垫圈安装结构。它的键帽由耐用的双色 PBT 制成，并使用 Keychron 自己的复古风格 OSA 型材，并配备了 PCB 安装的旋入式稳定器。其线性 Gateron 2.0 磁性开关在技术上是可热插拔的，但您只能用其他霍尔效应开关替换它们。显然，它配备了音量旋钮，每个按键上都有朝南的 RGB 背光。 
-Keychron Q1 HE 现已在 Kickstarter 上支持，该公司预计将在 通过自己的在线商店销售。
-]]></description>
-      <guid>https://www.theverge.com/2023/12/5/23989237/keychron-q1-he-hall-effect-analog-switches-price-release-date-specs-features-mechanical-keyboard</guid>
-      <pubDate>Tue, 05 Dec 2023 16:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Embracer Group 另一工作室进一步裁员</title>
-      <link>https://www.theverge.com/2023/12/5/23989128/new-world-interactive-layoffs-embracer-group-insurgency-sandstorm</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：新世界互动
-
-New World Interactive 是 Day of Infamy 和 Insurgency 系列的开发商，是下一个受到 Embracer Group 裁员影响的工作室。今天早些时候，有未经证实的传言称 Embracer Group 已完全关闭该工作室，但 New World 母公司 Sabre Interactive 在给 The Verge 的电子邮件中澄清该工作室将保持活跃。
-“涉及新世界互动子公司的重组发生了变化，”公共事务主管 Arman Teimouri 在给 The Verge 的电子邮件中写道。 “不幸的是，这次重组导致工作室裁员。” Sabre 没有透露有多少员工或多少比例的员工被解雇。
-该声明还表示，该公司正在努力将受影响的员工安置在 Sabre Interactive 的其他地方，并将继续开发《叛乱：沙尘暴》以及其他尚未宣布的项目。 
-Embracer 旗下的工作室因裁员和项目取消而遭受重创。今年早些时候，瑞典控股集团未能获得 20 亿美元投资，据报道，来自沙特旗下的 Savvy Games Group，在 Embracer 疯狂收购之后，吞并游戏工作室，热门游戏系列，黑马媒体和《霍比特人》和《指环王》的知识产权。
-交易失败后，Embracer 宣布将进行重组，包括关闭一些工作室、裁员以及取消大量项目。该公司已经关闭了 Campfire Cabal 和Saints Row 开发商 Volition Games 并拥有 水晶动力公司裁员和Beamdog。该公司还寻求出售《无主之地》开发者 Gearbox Entertainment 并且可以可能关闭TimeSplitters开发者 Free Radical Design。总体而言，有超过 900 名员工被解雇。  来自该公司，不包括今天新世界互动的裁员。 
-
-
-]]></description>
-      <guid>https://www.theverge.com/2023/12/5/23989128/new-world-interactive-layoffs-embracer-group-insurgency-sandstorm</guid>
-      <pubDate>Tue, 05 Dec 2023 16:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iPhone 上使用外部存储设备</title>
-      <link>https://www.theverge.com/23989090/iphone-files-backup-external-disk-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23989090/iphone-files-backup-external-disk-how-to</guid>
-      <pubDate>Tue, 05 Dec 2023 16:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Philips Hue 的 Festavia 和 Nanoleaf 的 Essentials Matter 智能灯串最高可享受 25% 的折扣</title>
-      <link>https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/5/23987734/philips-hue-festavia-smart-string-lights-amazfit-gtr-4-deal-sale</guid>
-      <pubDate>Tue, 05 Dec 2023 16:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 最受欢迎的 50 美元以下节日礼物</title>
-      <link>https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget</link>
-      <description><![CDATA[&lt;图&gt;
-      
-照片插图由 Amelia Holowaty Krales 和 Cath Virginia / The Verge 拍摄
-
-送礼并不需要耗费您所有的时间和金钱 - 我们收集了各种各样的廉价礼物来证明这一点。 时间和金钱。它们可以说是我们拥有的两种最有价值的资源，但在假期期间它们通常都非常昂贵。毕竟，送礼可能会很昂贵，并且以合适的价格找到合适的礼物需要一些研究和规划。老实说，谁有时间这么做？
-嗯，我们愿意。 The Verge 非常乐意测试、辩论和推荐最好的技术。为了帮助您节省宝贵的金钱和时间，我们充分利用了这些知识，并收集了一系列 50 美元以下的产品，为您带来实惠。
-
-下面，我们重点介绍了智能手表，其功能集通常是为竞争对手的两倍价格以及较新的 流媒体棒 可以将礼物接收者的电视变成更类似于智能显示器的东西。我们还添加了节日 变色智能灯泡随着音乐的节拍而跳动，还有一些非科技产品，例如兼作乐高积木的标记，甚至普拉达香水。
-不过，这只是一瞥。如果您想以便宜的价格买到更多优质礼物——或者只是一点灵感——请务必查看我们下面的完整列表。
-]]></description>
-      <guid>https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget</guid>
-      <pubDate>Tue, 05 Dec 2023 16:09:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
