@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 05 Dec 2023 02:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 12:58:47 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 05 天</title>
+      <link>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</link>
+      <description><![CDATA[与我们一起揭开“Frontend Rewind 2023”第 5 天的神秘面纱]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</guid>
+      <pubDate>Tue, 05 Dec 2023 12:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#796</title>
+      <link>https://tympanus.net/codrops/collective/collective-796/</link>
+      <description><![CDATA[State of JS 2023 * Shader Plants * Sonic Garbage * 制作字体]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-796/</guid>
+      <pubDate>Tue, 05 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>作为开发者提升游戏水平并吸引更多客户的 5 种方法</title>
       <link>https://tympanus.net/codrops/2023/12/04/5-ways-to-step-up-your-game-as-a-developer-and-reach-more-clients/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>前端回顾 2023 – 第 03 天</title>
       <link>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</link>
-      <description><![CDATA[“Frontend Rewind 2023”第 3 天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
+      <description><![CDATA[“Frontend Rewind 2023”第三天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</guid>
       <pubDate>Sun, 03 Dec 2023 12:15:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[Makereal tldraw * 如何扩展大型代码库 * 三十六进制平铺]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-794-2/</guid>
       <pubDate>Tue, 28 Nov 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#793</title>
-      <link>https://tympanus.net/codrops/collective/collective-793/</link>
-      <description><![CDATA[Ark UI * 2024 年更快的网络 * HTML Web 组件]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-793/</guid>
-      <pubDate>Fri, 24 Nov 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 交互和动画综述#38</title>
-      <link>https://tympanus.net/codrops/2023/11/24/ui-interactions-animations-roundup-38/</link>
-      <description><![CDATA[在 Dribbble 上探索 UI 动画和交互设计的动态世界的最新亮点，这些都是由熟练的设计师精心制作的。]]></description>
-      <guid>https://tympanus.net/codrops/2023/11/24/ui-interactions-animations-roundup-38/</guid>
-      <pubDate>Fri, 24 Nov 2023 10:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
