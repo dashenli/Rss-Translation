@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 05 Dec 2023 12:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 15:32:02 GMT</lastBuildDate>
+    <item>
+      <title>滚动切片文本动画</title>
+      <link>https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/</link>
+      <description><![CDATA[滚动触发的切片文本动画，其中分段元素在滚动时重新组合。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/</guid>
+      <pubDate>Tue, 05 Dec 2023 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 05 天</title>
       <link>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>前端回顾 2023 – 第 03 天</title>
       <link>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</link>
-      <description><![CDATA[“Frontend Rewind 2023”第三天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
+      <description><![CDATA[“Frontend Rewind 2023”第 3 天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</guid>
       <pubDate>Sun, 03 Dec 2023 12:15:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索使用 React Three Fiber 创建 3D 玻璃门户，并使用高斯溅射优化渲染并集成真实世界的对象。]]></description>
       <guid>https://tympanus.net/codrops/2023/11/29/3d-glass-portal-card-effect-with-react-three-fiber-and-gaussian-splatting/</guid>
       <pubDate>Wed, 29 Nov 2023 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#794</title>
-      <link>https://tympanus.net/codrops/collective/collective-794-2/</link>
-      <description><![CDATA[Makereal tldraw * 如何扩展大型代码库 * 三十六进制平铺]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-794-2/</guid>
-      <pubDate>Tue, 28 Nov 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
