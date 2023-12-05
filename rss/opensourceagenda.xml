@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Tue, 05 Dec 2023 06:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 09:25:38 GMT</lastBuildDate>
     <item>
-      <title>大脑 MR 图像的预处理流程</title>
-      <link>https://www.opensourceagenda.com/projects/preprocessing-pipeline-on-brain-mr-images</link>
-      <description><![CDATA[该项目用于对大脑MR图像进行预处理。 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/preprocessing-pipeline-on-brain-mr-images</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>轴评级栏</title>
-      <link>https://www.opensourceagenda.com/projects/axisratingbar</link>
-      <description><![CDATA[该库是使用 SwiftUI 开发的适用于 iOS 和 macOS 的 UI 控件。您可以沿水平/垂直轴显示评级并接收用户的评级。您可以使用任何符合 View 协议的视图，而不仅仅是星形。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/axisratingbar</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Bootstrap 创建简历征服世界</title>
-      <link>https://www.opensourceagenda.com/projects/create-a-cv-with-bootstrap-to-conquer-the-world</link>
-      <description><![CDATA[使用 Bootstrap 创建 CV征服世界！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/create-a-cv-with-bootstrap-to-conquer-the-world</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>诊所</title>
-      <link>https://www.opensourceagenda.com/projects/clinica</link>
-      <description><![CDATA[临床神经影像研究软件平台]]></description>
-      <guid>https://www.opensourceagenda.com/projects/clinica</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>星密码</title>
-      <link>https://www.opensourceagenda.com/projects/starpassword</link>
-      <description><![CDATA[油猴脚本 - 当鼠标停留在密码框时显示星号密码。再也不担心忘记密码和输错密码了。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/starpassword</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应很棒的星星评级</title>
-      <link>https://www.opensourceagenda.com/projects/react-awesome-stars-rating</link>
-      <description><![CDATA[星级]]></description>
-      <guid>https://www.opensourceagenda.com/projects/react-awesome-stars-rating</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:35 GMT</pubDate>
+      <title>VB音频路由器</title>
+      <link>https://www.opensourceagenda.com/projects/vb-audio-router</link>
+      <description><![CDATA[使用 UWP 和 WinRT Audio Graph API 构建高级音频路由应用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vb-audio-router</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:38 GMT</pubDate>
     </item>
     <item>
       <title>Yashkapure06 Netflix 克隆</title>
       <link>https://www.opensourceagenda.com/projects/yashkapure06-netflix-clone</link>
       <description><![CDATA[✨使用 React JS 的 Netflix 克隆。]]></description>
       <guid>https://www.opensourceagenda.com/projects/yashkapure06-netflix-clone</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADE9078 三相瓦特表</title>
-      <link>https://www.opensourceagenda.com/projects/ade9078-3phasewattmeter</link>
-      <description><![CDATA[使用 Analog Devices ADE9078 三相交流瓦特计的演示板的隔离设计。设计允许使用 Blondel 和非 Blondel 测量方案来测量 WYE（星形）和 Delta（三角形）分布。该项目包括一个基于 SPI 的 Arduino 样式库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ade9078-3phasewattmeter</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空战ECS</title>
-      <link>https://www.opensourceagenda.com/projects/spacewar-ecs</link>
-      <description><![CDATA[在 Unity 中使用 ECS 和 JobSystem 制作的太空战争游戏。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/spacewar-ecs</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>VB音频路由器</title>
-      <link>https://www.opensourceagenda.com/projects/vb-audio-router</link>
-      <description><![CDATA[使用 UWP 和 WinRT Audio Graph API 构建高级音频路由应用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/vb-audio-router</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人页面</title>
-      <link>https://www.opensourceagenda.com/projects/personalpage</link>
-      <description><![CDATA[动态星空背景个人主页]]></description>
-      <guid>https://www.opensourceagenda.com/projects/personalpage</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字</title>
-      <link>https://www.opensourceagenda.com/projects/figur</link>
-      <description><![CDATA[制作 SVG 多边形和星形]]></description>
-      <guid>https://www.opensourceagenda.com/projects/figur</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>接待</title>
-      <link>https://www.opensourceagenda.com/projects/receiptio</link>
-      <description><![CDATA[用于收据打印机的打印应用程序，简单易用，具有 Markdown、打印机状态支持。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/receiptio</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:31 GMT</pubDate>
+      <pubDate>Tue, 05 Dec 2023 09:25:38 GMT</pubDate>
     </item>
     <item>
       <title>蟒蛇</title>
       <link>https://www.opensourceagenda.com/projects/sph-python</link>
       <description><![CDATA[玩具星的平滑粒子流体动力学模拟]]></description>
       <guid>https://www.opensourceagenda.com/projects/sph-python</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:31 GMT</pubDate>
+      <pubDate>Tue, 05 Dec 2023 09:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人页面</title>
+      <link>https://www.opensourceagenda.com/projects/personalpage</link>
+      <description><![CDATA[动态星空背景个人主页]]></description>
+      <guid>https://www.opensourceagenda.com/projects/personalpage</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字</title>
+      <link>https://www.opensourceagenda.com/projects/figur</link>
+      <description><![CDATA[制作 SVG 多边形和星形]]></description>
+      <guid>https://www.opensourceagenda.com/projects/figur</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>太空战ECS</title>
+      <link>https://www.opensourceagenda.com/projects/spacewar-ecs</link>
+      <description><![CDATA[在 Unity 中使用 ECS 和 JobSystem 制作的太空战争游戏。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/spacewar-ecs</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frontie Webpack</title>
+      <link>https://www.opensourceagenda.com/projects/frontie-webpack</link>
+      <description><![CDATA[前端样板 | Gulp 4 + Webpack 4 + Babel + ITCSS 架构 + BEM 方法 + Twig.js]]></description>
+      <guid>https://www.opensourceagenda.com/projects/frontie-webpack</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nandomoreira Jekyll 主题</title>
+      <link>https://www.opensourceagenda.com/projects/nandomoreira-jekyll-theme</link>
+      <description><![CDATA[💎 我在 Jekyll 和 Gulpjs 中的旧网站]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nandomoreira-jekyll-theme</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roybarber 静态启动器</title>
+      <link>https://www.opensourceagenda.com/projects/roybarber-static-starter</link>
+      <description><![CDATA[Tailwind 3 CSS + Gulp 4 + Webpack 4 + Handlebars + Babel + BrowserSync + Netlify CLI + Netlify 功能。使用完整且可扩展的基于 gulpjs 的构建系统来加速您的开发，该系统为您构建项目。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/roybarber-static-starter</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:36 GMT</pubDate>
     </item>
     <item>
       <title>附近共享 Android</title>
       <link>https://www.opensourceagenda.com/projects/nearby-sharing-android</link>
       <description><![CDATA[通过 Windows 10 / 11 内置共享功能将文件从 Android 共享到 PC (罗马计划）]]></description>
       <guid>https://www.opensourceagenda.com/projects/nearby-sharing-android</guid>
-      <pubDate>Tue, 05 Dec 2023 06:34:30 GMT</pubDate>
+      <pubDate>Tue, 05 Dec 2023 09:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>接待</title>
+      <link>https://www.opensourceagenda.com/projects/receiptio</link>
+      <description><![CDATA[用于收据打印机的打印应用程序，简单易用，具有 Markdown、打印机状态支持。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/receiptio</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ru102j</title>
+      <link>https://www.opensourceagenda.com/projects/ru102j</link>
+      <description><![CDATA[RU102J Redis Java 开发人员课程的源代码]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ru102j</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔纳塞金有效负载</title>
+      <link>https://www.opensourceagenda.com/projects/jonahseguin-payload</link>
+      <description><![CDATA[通过Java中的Redis和MongoDB为Spigot进行故障安全异步配置文件和对象缓存]]></description>
+      <guid>https://www.opensourceagenda.com/projects/jonahseguin-payload</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>RedisDesktopManagerFX</title>
+      <link>https://www.opensourceagenda.com/projects/redisdesktopmanagerfx</link>
+      <description><![CDATA[搞一个简单实用的Redis图形化工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/redisdesktopmanagerfx</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>重提</title>
+      <link>https://www.opensourceagenda.com/projects/redissed</link>
+      <description><![CDATA[Redis Kotlin 包装器的灵感来自 Expose]]></description>
+      <guid>https://www.opensourceagenda.com/projects/redissed</guid>
+      <pubDate>Tue, 05 Dec 2023 09:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
