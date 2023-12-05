@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>侧边栏</title>
+    <link>https://sidebar.io</link>
+    <description>每个工作日的五个最佳设计链接。</description>
+    <lastBuildDate>Tue, 05 Dec 2023 02:54:40 GMT</lastBuildDate>
+    <item>
+      <title>哦不，溢出！</title>
+      <link>https://css-irl.info/oh-no-overflow/</link>
+      <description><![CDATA[overflow CSS 属性控制当您放入盒子内的东西大于盒子本身时会发生什么。
+]]></description>
+      <guid>https://css-irl.info/oh-no-overflow/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>塑造互联网的 10 个奇怪的 HTML 黑客</title>
+      <link>https://tedium.co/2023/11/24/weird-html-hacks-history/</link>
+      <description><![CDATA[从表格黑客到 CSS 拼凑，这些是帮助 Web 开发人员在互联网上获得精美页面的一些技术。
+]]></description>
+      <guid>https://tedium.co/2023/11/24/weird-html-hacks-history/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>你不需要 JavaScript</title>
+      <link>https://www.htmhell.dev/adventcalendar/2023/2/</link>
+      <description><![CDATA[请不要对本文的标题感到反感。我不讨厌 JavaScript，我喜欢它。我每天都会写大量的内容。
+]]></description>
+      <guid>https://www.htmhell.dev/adventcalendar/2023/2/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>重组 2023 年人工智能现状报告</title>
+      <link>https://retool.com/reports/state-of-ai-2023</link>
+      <description><![CDATA[开发人员正在使用和喜爱哪些模型、基础设施和应用程序？人工智能的实际生产用例是什么？
+]]></description>
+      <guid>https://retool.com/reports/state-of-ai-2023</guid>
+      <pubDate>Mon, 04 Dec 2023 07:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>创意游乐场</title>
+      <link>https://ralphammer.com/how-to-get-started/</link>
+      <description><![CDATA[享受绘画的乐趣！为自己创建一个创意游乐场，我们需要目标和规则。
+]]></description>
+      <guid>https://ralphammer.com/how-to-get-started/</guid>
+      <pubDate>Mon, 04 Dec 2023 07:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件缺乏补偿是不可持续的</title>
+      <link>https://trstringer.com/oss-compensation-broken/</link>
+      <description><![CDATA[尽管我的职业是一名软件工程师，但出于爱好和热情，我也是一名计算机程序员。
+]]></description>
+      <guid>https://trstringer.com/oss-compensation-broken/</guid>
+      <pubDate>Fri, 01 Dec 2023 09:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 一年</title>
+      <link>https://stackdiary.com/one-year-of-chatgpt/</link>
+      <description><![CDATA[自 OpenAI 随意放弃 ChatGPT 以来，已经过去了整整 365 天。
+]]></description>
+      <guid>https://stackdiary.com/one-year-of-chatgpt/</guid>
+      <pubDate>Fri, 01 Dec 2023 09:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 品牌重塑</title>
+      <link>https://www.pentagram.com/work/reddit</link>
+      <description><![CDATA[“互联网核心”的品牌形象转型。
+]]></description>
+      <guid>https://www.pentagram.com/work/reddit</guid>
+      <pubDate>Fri, 01 Dec 2023 09:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Document Cloud 的更新插图样式</title>
+      <link>https://medium.com/thinking-design/an-updated-illustration-style-for-document-cloud-feee50c1601b</link>
+      <description><![CDATA[解开三叶结图标，创建连续运动的视觉语言。
+]]></description>
+      <guid>https://medium.com/thinking-design/an-updated-illustration-style-for-document-cloud-feee50c1601b</guid>
+      <pubDate>Fri, 01 Dec 2023 06:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年用户体验状况</title>
+      <link>https://trends.uxdesign.cc/</link>
+      <description><![CDATA[从设计工具，到我们的设计流程，再到将改变我们设计方式的用户行为——列出了新的一年对用户体验的期望。
+]]></description>
+      <guid>https://trends.uxdesign.cc/</guid>
+      <pubDate>Fri, 01 Dec 2023 06:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建新的 Web 可访问性注释工具包的幕后花絮</title>
+      <link>https://medium.com/cvs-health-tech-blog/behind-the-scenes-of-creating-a-new-web-accessibility-annotation-kit-1834815544d3</link>
+      <description><![CDATA[我们希望分享我们如何构建这些工具以及我们在此过程中学到的见解。
+]]></description>
+      <guid>https://medium.com/cvs-health-tech-blog/behind-the-scenes-of-creating-a-new-web-accessibility-annotation-kit-1834815544d3</guid>
+      <pubDate>Thu, 30 Nov 2023 01:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorkOS 的 AuthKit</title>
+      <link>https://www.authkit.com/</link>
+      <description><![CDATA[功能齐全的 UI 组件系统，用于将身份验证流程构建到您的应用中。
+]]></description>
+      <guid>https://www.authkit.com/</guid>
+      <pubDate>Thu, 30 Nov 2023 01:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>马尔布拉</title>
+      <link>https://marbla.de/</link>
+      <description><![CDATA[Marbla 是一种实验性显示字体，探索可变字体改变字体情绪和个性的可能性。 
+]]></description>
+      <guid>https://marbla.de/</guid>
+      <pubDate>Thu, 30 Nov 2023 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越代码的关注：前端开发人员的 7 个最佳设计实践</title>
+      <link>https://evilmartians.com/chronicles/care-beyond-code-7-best-design-practices-for-frontend-developers</link>
+      <description><![CDATA[前端不仅仅是代码——我们也是帮助我们的团队抵御讨厌的设计失误的最后堡垒！
+]]></description>
+      <guid>https://evilmartians.com/chronicles/care-beyond-code-7-best-design-practices-for-frontend-developers</guid>
+      <pubDate>Thu, 30 Nov 2023 00:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 挂钩</title>
+      <link>https://css-hooks.com/</link>
+      <description><![CDATA[内联样式做了我们认为它们做不到的事情：状态驱动样式、深色模式等等。
+]]></description>
+      <guid>https://css-hooks.com/</guid>
+      <pubDate>Thu, 30 Nov 2023 00:57:16 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

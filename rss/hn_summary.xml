@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 06:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 02:48:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 微软希望在 Playstation、任天堂和“每个屏幕”上提供 Game Pass</title>
-      <link>https://t.me/hn_summary/62151</link>
-      <description><![CDATA[微软希望在 Playstation、任天堂和“每个屏幕”上提供 Game Pass有可能
-微软首席财务官 Tim Stuart 在富国银行 TMT 峰会上透露，该公司的目标是将 Xbox Game Pass 引入 PlayStation 和任天堂等竞争对手的游戏机。斯图尔特表示，微软的使命是让他们的第一方游戏和订阅服务在“每个可以玩游戏的屏幕”上可用，包括智能电视和移动设备。这标志着微软战略的改变，因为他们的目标是将 Game Pass 的覆盖范围扩大到更多的受众。然而，索尼和任天堂是否会在其游戏机上允许 Game Pass 仍不确定。微软最近收购动视暴雪将帮助他们实现扩张目标。]]></description>
-      <guid>https://t.me/hn_summary/62151</guid>
-      <pubDate>Mon, 04 Dec 2023 06:21:36 GMT</pubDate>
+      <title>[媒体]音乐流媒体平台 Spotify 宣布将削减 17% 的工作 [...]</title>
+      <link>https://t.me/hn_summary/62310</link>
+      <description><![CDATA[Spotify 今年第三轮裁员，裁员 17% 
+音乐流媒体平台 Spotify 宣布将裁员 17%，共计 1,500 名员工，以降低成本。这是在今年早些时候进行的前两轮裁员之后发生的。该公司首席执行官 Daniel Ek 表示，做出这一决定是为了使公司的财务目标与其当前的运营成本保持一致。由于裁员，Spotify第四季度将承担约1.30-1.45亿欧元的费用。尽管进行了裁员，Spotify 仍对其播客业务进行了大量投资，目标是到 2030 年达到 10 亿用户。]]></description>
+      <guid>https://t.me/hn_summary/62310</guid>
+      <pubDate>Tue, 05 Dec 2023 02:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AA 电池供电的笔记本电脑</title>
-      <link>https://t.me/hn_summary/62150</link>
-      <description><![CDATA[由 AA 电池供电的笔记本电脑
-本文讨论了可由 AA 电池供电的各种笔记本电脑和类似笔记本电脑的设备。它重点介绍了 1991 年发布的 Atari ST Book，它可以使用 7 节 AA 电池运行 10 小时。 1983 年发布的 TRS-80 Model 100 只需 4 节 AA 电池即可运行整整 20 小时。 OmniBook 300 于 1994 年发布，使用 4 节 AA 电池可运行长达 9 小时。 HP 200LX 是一款 DOS 便携式电脑，两节 AA 电池的电池续航时间长达 40 小时。 Dana 是一款 PalmOS 笔记本电脑，使用 3 节 AA 电池也能续航 40 小时。文章还提到了 2009 年的 Gecko EduBook，它可以使用 8 节 AA 电池运行约 4 小时。作者发现这些设备可以使用 AA 电池运行，这很酷。]]></description>
-      <guid>https://t.me/hn_summary/62150</guid>
-      <pubDate>Mon, 04 Dec 2023 06:11:23 GMT</pubDate>
+      <title>本文讨论了如何将 CueCat 条码扫描仪与 .NET 结合使用来制作 [...]</title>
+      <link>https://t.me/hn_summary/62309</link>
+      <description><![CDATA[在 QR 码之前，有 CueCat (2006)
+本文讨论了 CueCat 条形码扫描仪与 .NET 的结合使用，使有关书籍的博客变得更加容易。 CueCat 是一款手持式条形码阅读器，于 20 世纪 90 年代末开发，允许用户扫描条形码以引导至相关网页。作者对 CueCat 的输出进行解码，并使用查找表将 UPC 代码转换为 ISBN。然后，他们使用 ISBN 调用 Amazon 的 REST Web 服务并检索有关该图书的信息。本文包含 C# 和 VB 代码示例。 （根据 53% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62309</guid>
+      <pubDate>Tue, 05 Dec 2023 02:46:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]震网源代码</title>
-      <link>https://t.me/hn_summary/62149</link>
-      <description><![CDATA[震网源代码
-该 GitHub 项目的目的是提供 Stuxnet 恶意软件的源代码，特别是从 Stuxnet 二进制文件中提取的远程代码执行 (RCE) 代码。作者 Christian Roggia 和 Amr Thabet 花费了大量时间分析该恶意软件，并免费提供了可读的 C 代码。作者承认该代码是从恶意软件二进制文件中“窃取”的，但他们希望当其他人使用该代码进行分析、博客文章或大学论文时，他们的辛勤工作会得到认可和赞扬。代码的许可证是宽松的，允许用户用它做任何他们想做的事情。]]></description>
-      <guid>https://t.me/hn_summary/62149</guid>
-      <pubDate>Mon, 04 Dec 2023 06:00:08 GMT</pubDate>
+      <title>一项新研究发现，OpenAI 开发的人工智能聊天机器人 ChatGPT 提供了更多 [...]</title>
+      <link>https://t.me/hn_summary/62308</link>
+      <description><![CDATA[如果您假装给小费，ChatGPT 将提供更详细和准确的回复&lt; /a&gt;
+一项新研究发现，OpenAI 开发的人工智能聊天机器人 ChatGPT 在用户假装给小费时提供了更详细、更准确的响应。这项研究是由一位名叫 Thebes 的程序员进行的，她促使聊天机器人向她展示使用 PyTorch 的简单卷积网络的代码。 Thebes 表示，根据回复的质量，她会给聊天机器人 20 美元、200 美元的小费，或者根本不给小费。结果表明，当有激励措施时，聊天机器人会提供更好的响应。然而，聊天机器人拒绝接受这一提示，称其目的是提供信息并回答问题。该研究强调了激励措施对人工智能生成的响应的影响，并提出了它如何影响聊天机器人性能的问题。]]></description>
+      <guid>https://t.me/hn_summary/62308</guid>
+      <pubDate>Tue, 05 Dec 2023 02:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络的谷物 (2015)</title>
-      <link>https://t.me/hn_summary/62148</link>
-      <description><![CDATA[网络谷物 (2015)
-网络的颗粒是作者之前关于屏幕原生设计的文章的姊妹篇。作者反思了调制解调器连接互联网的声音的怀旧情绪，以及对技术的迷恋如何随着时间的推移而消退。他们讨论了在科技行业工作所带来的失望和幻灭，以及对不同视角的需求。作者探讨了初学者思维的概念以及倾听网络自然特征的重要性。他们还讨论了响应式设计的挑战以及顺应网络规律而不是反对它的重要性。作者使用网站示例来说明他们的观点，并表明网络是一种构建材料，而不是一块可供绘画的空白画布。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/62148</guid>
-      <pubDate>Mon, 04 Dec 2023 06:00:00 GMT</pubDate>
+      <title>问 HN：为什么有 1055 个点赞的帖子消失了？</title>
+      <link>https://t.me/hn_summary/62307</link>
+      <description><![CDATA[问HN：为什么有1055个赞的帖子消失了？
+news.ycombinator.com 上这篇文章的作者是质疑为何某篇获得 1055 点赞的文章从首页消失了。他们向 Dang 提出了问题，并提供了相关文章的链接。摘要中没有提供文章的内容。]]></description>
+      <guid>https://t.me/hn_summary/62307</guid>
+      <pubDate>Tue, 05 Dec 2023 02:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：您每天的待办事项清单上有多少任务？</title>
-      <link>https://t.me/hn_summary/62147</link>
-      <description><![CDATA[问 HN：您每天的待办事项列表中有多少任务？&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者分享他们对每日待办事项列表的个人经验。他们声称，他们对日常安排做出的最有影响力的改变是减少了待办事项列表上的任务数量。他们向其他用户询问他们对每日待办事项列表的体验，邀请他们分享他们的想法和见解。此内容中没有争议或令人惊讶的元素。]]></description>
-      <guid>https://t.me/hn_summary/62147</guid>
-      <pubDate>Mon, 04 Dec 2023 05:58:20 GMT</pubDate>
+      <title>[媒体] Nvidia 首席执行官黄仁勋 (Jensen Huang) 宣布该公司将与日本 [...]</title>
+      <link>https://t.me/hn_summary/62306</link>
+      <description><![CDATA[Nvidia 将与软银和其他日本公司合作推动人工智能研究&lt; /a&gt;
+英伟达首席执行官黄仁勋宣布，该公司将与软银、樱花互联网和 NTT 等日本公司合作，加速生成人工智能 (AI) 的研究。在与日本首相岸田文雄会面时，岸田要求 Nvidia 向日本提供尽可能多的图形处理单元 (GPU)，因为 Nvidia 是 GPU 的领先供应商。黄对生成式人工智能与日本制造专业知识的结合表示兴奋，并表示这可能会彻底改变日本机器人技术的未来。此次合作正值越来越多的日本公司转向生成式人工智能以增强竞争力之际。日本政府也支持人工智能推动经济增长。]]></description>
+      <guid>https://t.me/hn_summary/62306</guid>
+      <pubDate>Tue, 05 Dec 2023 02:43:30 GMT</pubDate>
     </item>
     <item>
-      <title>D 编程语言</title>
-      <link>https://t.me/hn_summary/62146</link>
-      <description><![CDATA[D 编程语言
-D 编程语言是一种通用编程语言，具有静态类型、系统级访问和类似 C 的语法。它允许快速执行代码并支持自动内存管理和范围资源管理。 D 还提供内置线性和关联数组、切片和范围，以便于编程。它支持各种编程范例并提供创新的并发方法。 D 编译为高效的本机代码，并通过本机指针和内联汇编代码等功能实现终极速度和控制。该语言还提供了用于安全性和效率权衡的函数属性。 D 语言基金会是一个非营利组织，支持 D 语言的开发。]]></description>
-      <guid>https://t.me/hn_summary/62146</guid>
-      <pubDate>Mon, 04 Dec 2023 05:58:12 GMT</pubDate>
+      <title>[媒体] Vialibri 是一个实体图书元搜索引擎，可让用户轻松查找和发布 [...]</title>
+      <link>https://t.me/hn_summary/62305</link>
+      <description><![CDATA[Vialibri：实体书元搜索引擎
+Vialibri 是一个实体图书元搜索引擎，可让用户轻松查找和购买稀有古籍。该网站以富有创意和诗意的方式进行描述，将其比作文学灵魂的数字天堂。歌词强调了 Vialibri 能够带领读者踏上穿越过去的旅程，点燃他们的思想，让他们在古董书籍的世界中找到回家的路。令人惊讶的是，这首歌是由一个名为ChatGPT的人工智能程序创作的，展示了人工智能在古籍图书销售领域的潜在应用。]]></description>
+      <guid>https://t.me/hn_summary/62305</guid>
+      <pubDate>Tue, 05 Dec 2023 02:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>FreeBSD 上的相对 shell 脚本包含 realpath</title>
-      <link>https://t.me/hn_summary/62145</link>
-      <description><![CDATA[FreeBSD 上的相对 shell 脚本包含 realpath
-此 Web 内容的作者讨论了在 FreeBSD 中包含相关 shell 脚本的挑战。他们强调了三个关键问题：对调用目录的依赖、使用符号链接时不一致的命令名称和位置以及在线资源中缺乏关于 FreeBSD 的 Bourne shell 的讨论。作者提出了使用命令 $(dirname $(realpath $0)) 来获取相关文件的解决方案。它们为每个问题和解决方案提供了示例和解释，包括使用 realpath(1) 来识别符号链接引用的真实文件。作者还建议使用 lib 辅助函数的额外解决方案。内容强调了 shell 脚本的强大功能以及模块化代码的能力。]]></description>
-      <guid>https://t.me/hn_summary/62145</guid>
-      <pubDate>Mon, 04 Dec 2023 05:54:03 GMT</pubDate>
+      <title>[媒体] 网络内容的作者讨论了他们破解《Magic: The Gathering》的经历：[...]</title>
+      <link>https://t.me/hn_summary/62304</link>
+      <description><![CDATA[我破解了万智牌：竞技场，获得了 100% 的胜率&lt; /a&gt;
+网页内容的作者讨论了他们破解《Magic: The Gathering: Arena》以实现 100% 胜率的经验。他们解释说，纸牌游戏很难被破解，因为它们是回合制的，而且客户端和服务器之间的信息交换有限。作者探索了游戏的网络通信，发现了一个名为“JoinMatch”的功能，该功能将客户端连接到游戏服务器。他们还发现了 Sparky 的实现，这是一个教程和机器人匹配功能，它在玩家的机器上本地运行。作者感到惊讶的是，一个功能齐全的机器人可以在玩家计算机上以很小的占用空间运行。 （根据故事文本的 59% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/62304</guid>
+      <pubDate>Tue, 05 Dec 2023 02:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着势头增强，比特币突破 4 万美元</title>
-      <link>https://t.me/hn_summary/62144</link>
-      <description><![CDATA[随着势头增强，比特币突破 4 万美元
-在对美国降息的乐观情绪以及美国股市交易比特币基金可能获得批准的推动下，比特币今年首次突破 40,000 美元。该加密货币周日触及 40,210 美元的高点，这是自 2022 年 4 月以来的最高水平。分析师认为，突破 40,000 美元等心理水平会令投资者兴奋并增加势头。从“加密货币冬天”和各种丑闻中恢复过来，今年比特币的价值已增长了一倍多。比特币 ETF 现货获批的预期也促进了积极情绪。与以太坊区块链挂钩的以太币也达到了 1-1/2 年的高点。比特币和以太币仍低于 2021 年的历史高位。]]></description>
-      <guid>https://t.me/hn_summary/62144</guid>
-      <pubDate>Mon, 04 Dec 2023 05:46:52 GMT</pubDate>
+      <title>最近，F-Droid 社​​区委员会发生了重大改组，其中三 [...]</title>
+      <link>https://t.me/hn_summary/62303</link>
+      <description><![CDATA[3/4 的 F-Droid 社​​区委员会成员辞职
+近期，F-Droid 社​​区理事会发生重大变动，四名理事会成员中三名辞职。这一消息令 F-Droid 社​​区的许多人感到惊讶，因为该委员会在指导 F-Droid 项目的方向方面发挥着至关重要的作用。辞职原因尚不清楚，但引发了社区成员的争议和猜测。这一意外的事件转变使 F-Droid 项目处于不确定状态，因为剩下的理事会成员将不得不自行决定该项目的未来。]]></description>
+      <guid>https://t.me/hn_summary/62303</guid>
+      <pubDate>Tue, 05 Dec 2023 02:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>远离云并采用本地存储解决方案的案例</title>
-      <link>https://t.me/hn_summary/62143</link>
-      <description><![CDATA[远离云并采用本地存储解决方案的案例&lt; /a&gt;
-该博客文章主张放弃云存储并采用本地存储解决方案。它强调了对云存储提供商的安全性、成本和可靠性的担忧。作者提到了最近有关 Google Drive 用户丢失文件的报道，并强调当文件归他人所有时缺乏控制和安全性。他们还讨论了与一次性支付外部硬盘驱动器相比，每月订阅云存储的成本。作者强调本地存储的可靠性，因为服务中断可能会中断对基于云的文件的访问。总的来说，这篇文章鼓励读者重新考虑如何存储文件并强调本地存储的好处。]]></description>
-      <guid>https://t.me/hn_summary/62143</guid>
-      <pubDate>Mon, 04 Dec 2023 04:58:25 GMT</pubDate>
+      <title>问 HN：你住在哪里？</title>
+      <link>https://t.me/hn_summary/62302</link>
+      <description><![CDATA[问 HN：你住在哪里？它有什么好处或坏处？
+news.ycombinator.com 上这篇文章的作者是寻求人们对他们所居住的城市的意见。他们提到在各个城市看到了工作机会，但对它们了解不多。作者特别提到了纽约市的一个有趣的机会，但根据在线公寓浏览并不确定该市的吸引力。他们要求人们分享他们所在城市的利弊，以帮助他们做出明智的决定。]]></description>
+      <guid>https://t.me/hn_summary/62302</guid>
+      <pubDate>Tue, 05 Dec 2023 02:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]白天缺乏阳光比晚上电灯更糟糕</title>
-      <link>https://t.me/hn_summary/62142</link>
-      <description><![CDATA[白天缺乏阳光比晚上的电灯更糟糕&lt; /a&gt;
-本文讨论了昼夜节律的重要性以及光对我们生物钟的影响。作者采访了诺贝尔医学奖得主迈克尔·罗斯巴什 (Michael Rosbash)，他解释说，昼夜节律调节着我们至少 70% 的基因，而不是之前认为的 50%。 Rosbash 还讨论了基础研究的重要性以及公共资助机构支持基础研究的必要性。他强调了白天缺乏阳光和夜间过度暴露于人造光的负面影响。文章还谈到了限时喂养的潜在好处，以及用药物操纵分子钟来解决老年人的时间紊乱问题的可能性。]]></description>
-      <guid>https://t.me/hn_summary/62142</guid>
-      <pubDate>Mon, 04 Dec 2023 04:49:12 GMT</pubDate>
+      <title>[媒体]卡迪夫大学威尔士阿司匹林小组进行的一项新荟萃分析研究 [...]</title>
+      <link>https://t.me/hn_summary/62301</link>
+      <description><![CDATA[服用低剂量阿司匹林可使癌症死亡人数减少 20% 
+卡迪夫大学威尔士阿司匹林小组进行的一项新荟萃分析研究发现，每天服用低剂量阿司匹林可以使癌症死亡和所有原因导致的死亡减少 20%。该研究检查了 118 项观察性研究的结果，涉及约 100 万患有各种类型癌症的患者。阿司匹林针对癌症的关键生物学机制，降低癌症患者转移性癌症扩散和血管并发症的风险。研究人员还发现，在癌症治疗中使用阿司匹林引起的胃肠道出血风险比胃溃疡或感染患者的出血风险要轻。鉴于阿司匹林的相对安全性和可用性，研究人员认为应该将其作为癌症的额外治疗方法进行推广。]]></description>
+      <guid>https://t.me/hn_summary/62301</guid>
+      <pubDate>Tue, 05 Dec 2023 01:47:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
