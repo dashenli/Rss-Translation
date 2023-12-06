@@ -4,7 +4,21 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 05 Dec 2023 21:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 02:19:38 GMT</lastBuildDate>
+    <item>
+      <title>23andMe 数据泄露事件不断升级</title>
+      <link>https://www.wired.com/story/23andme-breach-sec-update/</link>
+      <description><![CDATA[23andMe 提供了有关其最近违规行为的范围和规模的更多信息，但这些细节带来了更多未解答的问题。]]></description>
+      <guid>https://www.wired.com/story/23andme-breach-sec-update/</guid>
+      <pubDate>Tue, 05 Dec 2023 23:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何阻止另一次 OpenAI 崩溃</title>
+      <link>https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/</link>
+      <description><![CDATA[OpenAI 设计其治理结构是为了保护人类，但它却崩溃了。该公司可以借鉴 Mozilla 和其他将崇高目标与营利性企业相结合的项目的指导。]]></description>
+      <guid>https://www.wired.com/story/how-to-stop-openai-governance-structure-meltdown/</guid>
+      <pubDate>Tue, 05 Dec 2023 23:36:53 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Apple TV+ 上最好的 20 部节目</title>
       <link>https://www.wired.com/story/best-apple-tv-plus-shows/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[本周将在国会提出的立法将扩大第 702 条对申请绿卡、庇护和某些签证的人的监视范围，从而使亲人受到类似的侵犯。]]></description>
       <guid>https://www.wired.com/story/section-702-immigrant-families-surveillance/</guid>
       <pubDate>Mon, 04 Dec 2023 14:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼访问控制器评论：适合所有游戏玩家的美丽补充</title>
-      <link>https://www.wired.com/review/sony-access-controller-review/</link>
-      <description><![CDATA[索尼的首款无障碍控制器是一个良好的开端，也是 PlayStation 产品阵容中受欢迎的新成员，但要成为真正令人难以置信的产品，它还有很长的路要走。]]></description>
-      <guid>https://www.wired.com/review/sony-access-controller-review/</guid>
-      <pubDate>Mon, 04 Dec 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能在替代浏览器中的兴起以及下一步发展</title>
-      <link>https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/</link>
-      <description><![CDATA[小公司的开发人员一直在添加新的方式来在人工智能的帮助下体验互联网。他们对未来的愿景截然不同。]]></description>
-      <guid>https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/</guid>
-      <pubDate>Mon, 04 Dec 2023 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
