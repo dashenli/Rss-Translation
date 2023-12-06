@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 05 Dec 2023 15:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 13:00:05 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 06 天</title>
+      <link>https://tympanus.net/codrops/2023/12/06/frontend-rewind-2023-day-06/</link>
+      <description><![CDATA[加入我们的“2023 年前端回顾”第 6 天，探索今年在前端领域掀起波澜的顶级资源。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/06/frontend-rewind-2023-day-06/</guid>
+      <pubDate>Wed, 06 Dec 2023 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>滚动切片文本动画</title>
       <link>https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[今天，我们即将开始“Frontend Rewind 2023”的第一天！让我们一起回顾2023年的精彩瞬间！]]></description>
       <guid>https://tympanus.net/codrops/2023/12/01/frontend-rewind-2023-day-01/</guid>
       <pubDate>Fri, 01 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 React 三纤维和高斯溅射的 3D 玻璃门户卡效果</title>
-      <link>https://tympanus.net/codrops/2023/11/29/3d-glass-portal-card-effect-with-react-three-fiber-and-gaussian-splatting/</link>
-      <description><![CDATA[探索使用 React Three Fiber 创建 3D 玻璃门户，并使用高斯溅射优化渲染并集成真实世界的对象。]]></description>
-      <guid>https://tympanus.net/codrops/2023/11/29/3d-glass-portal-card-effect-with-react-three-fiber-and-gaussian-splatting/</guid>
-      <pubDate>Wed, 29 Nov 2023 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
