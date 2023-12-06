@@ -4,7 +4,14 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 06 Dec 2023 15:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 18:35:32 GMT</lastBuildDate>
+    <item>
+      <title>2023 年最佳图书</title>
+      <link>https://www.newyorker.com/best-books-2023</link>
+      <description><![CDATA[我们的编辑和评论家评论著名的新小说、非小说和诗歌。]]></description>
+      <guid>https://www.newyorker.com/best-books-2023</guid>
+      <pubDate>Wed, 06 Dec 2023 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>每日漫画：12 月 6 日星期三</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-december-6th-scapegoat-media</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 06 Dec 2023 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>当艺术怪物是女性时会发生什么？</title>
+      <title>当艺术怪物是女人时会发生什么？</title>
       <link>https://www.newyorker.com/books/under-review/what-happens-when-the-art-monster-is-a-woman</link>
       <description><![CDATA[在一本新书中，劳伦·埃尔金探讨了十九世纪七十年代女权主义艺术的激进遗产。]]></description>
       <guid>https://www.newyorker.com/books/under-review/what-happens-when-the-art-monster-is-a-woman</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[“直播逃避现实还是现场悲剧？”]]></description>
       <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-december-4th-streaming-tragedy</guid>
       <pubDate>Mon, 04 Dec 2023 17:50:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>当美国未能起诉叛乱前总统时发生了什么</title>
-      <link>https://www.newyorker.com/magazine/2023/12/11/what-happened-when-the-us-failed-to-prosecute-an-ex-president</link>
-      <description><![CDATA[内战结束后，联邦总统杰斐逊·戴维斯因叛国罪受到审判。这次灾难是否为等待唐纳德·特朗普的审判提供了教训？]]></description>
-      <guid>https://www.newyorker.com/magazine/2023/12/11/what-happened-when-the-us-failed-to-prosecute-an-ex-president</guid>
-      <pubDate>Mon, 04 Dec 2023 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

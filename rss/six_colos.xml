@@ -3,12 +3,27 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 05 Dec 2023 18:33:10 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 06 Dec 2023 18:34:00 GMT</lastBuildDate>
+    <item>
+      <title>在 macOS 上，最好从默认值开始</title>
+      <link>https://sixcolors.com/post/2023/12/on-macos-its-best-to-start-with-the-default/</link>
+      <description><![CDATA[M3 iMac 上的默认 Sonoma 体验。
+读者 Jack B. 提出的一个问题让我开始反思 Apple 几十年来在 macOS 上迭代的结果。…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/on-macos-its-best-to-start-with-the-default/</guid>
+      <pubDate>Wed, 06 Dec 2023 17:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>对用户体验的同理心，而不是苹果的商业战略 (Macworld/Jason Snell)</title>
+      <link>https://www.macworld.com/article/2163354/</link>
+      <description><![CDATA[我一直都知道 Apple 社区有很多不同的亚文化，但当 Apple 宣布将在 iOS 中添加新功能时，我感到很惊讶，很多人对此感到愤怒。…]]></description>
+      <guid>https://www.macworld.com/article/2163354/</guid>
+      <pubDate>Wed, 06 Dec 2023 16:24:44 GMT</pubDate>
+    </item>
     <item>
       <title>Beeper 将设备上的 iMessage 带到 Android – 目前 ↦</title>
       <link>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</link>
-      <description><![CDATA[由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司 Beeper 宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
+      <description><![CDATA[Beeper 是一家由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司，宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
       <guid>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</guid>
       <pubDate>Tue, 05 Dec 2023 16:37:16 GMT</pubDate>
     </item>
@@ -41,7 +56,7 @@
       <pubDate>Fri, 01 Dec 2023 22:00:54 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>（赞助商）科利德</title>
       <link>https://sixcolors.com/sponsor/2023/12/kolide-33/</link>
       <description><![CDATA[感谢 Kolide 本周赞助六色。
 在最终用户设备上安装操作系统更新应该很容易，但事实当然并非如此。…]]></description>
@@ -109,21 +124,6 @@ Castro 多年来一直是流行的 iOS 播客应用，但现在情况看起来�
       <description><![CDATA[我们的读书习惯、我们如何处理健康数据、科技如何帮助我们做家务，以及我们仍然迷恋的旧软件。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/11/clockwise-531-i-too-like-you/</guid>
       <pubDate>Wed, 29 Nov 2023 21:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 472：我见过战争</title>
-      <link>https://sixcolors.com/podcast/2023/11/the-rebound-472-ive-seen-the-war/</link>
-      <description><![CDATA[你的 BBS 是什么？…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/11/the-rebound-472-ive-seen-the-war/</guid>
-      <pubDate>Wed, 29 Nov 2023 18:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果公司的年终清单季即将到来</title>
-      <link>https://sixcolors.com/post/2023/11/its-end-of-year-list-season-for-apple/</link>
-      <description><![CDATA[“我会为他说这句话，他是始终如一的。”
-周二，苹果公司放弃了一系列 2023 年年度榜单，这是年底即将到来、12 月发生的事情都将留在 12 月的最确定迹象。…]]></description>
-      <guid>https://sixcolors.com/post/2023/11/its-end-of-year-list-season-for-apple/</guid>
-      <pubDate>Tue, 28 Nov 2023 16:55:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
