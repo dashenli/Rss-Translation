@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 06 Dec 2023 02:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 03:26:13 GMT</lastBuildDate>
+    <item>
+      <title>人工智能民主化</title>
+      <link>https://feed.indiehackers.world/post/c9cd4cb275</link>
+      <description><![CDATA[每天，X、Reddit 和 ProductHunt 上都会有人发布另一个 GPT 包装器。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c9cd4cb275</guid>
+      <pubDate>Wed, 06 Dec 2023 02:49:54 GMT</pubDate>
+    </item>
     <item>
       <title>问 IH：150 个注册，0 个付费注册 - 我应该继续前进还是继续建设？</title>
       <link>https://feed.indiehackers.world/post/b03489eee7</link>
@@ -144,20 +152,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/600228ec21</guid>
       <pubDate>Tue, 05 Dec 2023 18:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我们的登陆页面</title>
-      <link>https://feed.indiehackers.world/post/64791e8282</link>
-      <description><![CDATA[我们构建 go2 是为了为我们的客户解决问题。随着它的发展，我们决定它可以成为一个独立的产品。
-我们希望获得一些诚实的 IH 反馈：
-  • 页面感觉如何
-  • 如果您了解该产品
-  • 需要改进的地方
-  • 如果您自己使用 go2！
-谢谢！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/64791e8282</guid>
-      <pubDate>Tue, 05 Dec 2023 18:29:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
