@@ -4,7 +4,144 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Dec 2023 18:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 21:21:30 GMT</lastBuildDate>
+    <item>
+      <title>AMD 发布新芯片以支持更快的 AI 训练</title>
+      <link>https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：PaulSakuma.com
+
+AMD 希望人们记住 Nvidia 并不是唯一一家公司销售人工智能芯片。它宣布推出适用于运行大型语言模型（LLM）的新加速器和处理器。 
+这家芯片制造商推出了 Instinct MI300X 加速器和 Instinct M1300A 加速处理单元 (APU)，该公司表示这些加速器可用于训练和运行法学硕士。该公司表示，MI300X的内存容量是之前M1250X版本的1.5倍。 AMD表示，这两款新产品都比前代产品拥有更好的内存容量和更高的能效。 
+“法学硕士的规模和复杂性不断增加，需要大量内存和计算，”AMD 首席执行官苏姿丰 (Lisa Su) 表示。 “我们知道 GPU 的可用性是人工智能采用的最重要的驱动因素。”
+Su 在演讲中表示 MI300X“是世界上性能最高的加速器”。她声称 MI300X 在训练 LLM 方面与 Nvidia 的 H100 芯片相当，但在推理方面表现更好——与 Meta 的 Llama 2（一个 700 亿参数的 LLM）一起使用时，比 H100 好 1.4 倍。 
+AMD 与 Microsoft 合作，将 MI300X 放入其 Azure 虚拟机中。微软 CTO Kevin Scott 作为 Su 演讲的嘉宾，还宣布了Azure ND MI300X 虚拟机（于 11 月首次发布）现已提供预览版。 Meta 还宣布将在其数据中心部署 MI300 处理器。 
+Su 表示，AMD 发布了用于数据中心的 MI300A APU，她表示预计该产品将使其潜在市场总额增长至 450 亿美元。 APU 通常结合 CPU 和 GPU 以实现更快的处理速度。 AMD表示，MI300A提供更高性能的计算、更快的模型训练以及30倍的能效提升。 AMD表示，与H100相比，它的内存容量是H100的1.6倍。它还具有统一内存，因此无需再从不同设备移动数据。 
+MI300A 将为惠普企业在劳伦斯利弗莫尔国家实验室建造的 El Capitan 超级计算机提供动力。 El Capitan 被认为是最强大的超级计算机之一，预计将提供超过 2 exaflops 的性能。 
+MI300A APU“现已投入生产，并正在构建到数据中心中。”
+定价信息无法立即获得。
+Su 取笑代码会议期间发布了 MI300 芯片，并表示 AMD 对有机会吸引更多芯片用户感到兴奋，这些用户不仅来自云提供商，还来自企业和初创公司。 
+AMD 还宣布了 Ryzen 处理器的最新成员 Ryzen 8040，它可以将更多原生 AI 功能引入移动设备。该公司表示，8040系列的AI处理性能是之前型号的1.6倍，并集成了神经处理单元（NPU）。 
+该公司表示，Ryzen 8040 不会仅限于 AI 处理，因为它声称与英特尔芯片等竞争产品相比，视频编辑速度将提高 65%，游戏速度将提高 77%。 
+AMD 预计宏碁、华硕、戴尔、惠普、联想和 Razer 等制造商将在 2024 年第一季度发布集成 Ryzen 8040 芯片的产品。 
+Su 表示下一代 Strix Point NPU 将于 2024 年发布。
+AMD 还宣布 Ryzen AI 软件平台现已广泛使用，这将使开发人员能够在 Ryzen 驱动的笔记本电脑上构建 AI 模型，将模型卸载到 NPU 中，从而降低 CPU 的功耗。用户将获得对语音识别模型 Whisper 等基础模型和 Llama 2 等法学硕士的支持。
+为了为人工智能模型提供动力，并利用当前对该技术的炒作，AMD、Nvidia 和英特尔等公司已经陷入了基本上是一场人工智能芯片军备竞赛。到目前为止，Nvidia 凭借其备受追捧的 H100 GPU 占据了最大的市场份额，该 GPU 用于训练 OpenAI 的 GPT 等模型。 ]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23991113/amd-ai-mi300-chips-generative-gpu</guid>
+      <pubDate>Wed, 06 Dec 2023 21:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>A24 正在将其全部院线内容带到 HBO、Max 和 Cinemax</title>
+      <link>https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：A24
+
+独立电影巨头 A24 的院线影片有了新家——新老影片都有。该制作公司已与华纳兄弟探索频道签署了一项多年独家协议，在其所有新片离开影院后将在 HBO、Max 和 Cinemax 上播出。最重要的是，两家公司还为其已经在 HBO 和 Max 上播放的电影延长了授权协议，并将增加到总共 100 多部电影，包括《鲸鱼》、《原钻》 、同时无处不在等等。 
+该协议是一项 Pay 1 输出协议 - 这意味着新的 A24 电影在影院完成放映后，只能在一段时间内在这些 WBD 拥有的平台上播放。 A24 与 Showtime 签署了类似的 Pay 1 交易早在 2019 年，该协议就已过期。 
+HBO 和 A24 之间的联盟并不是什么新鲜事。如前所述， 许多 A24 电影已在 Max 和 HBO 上播放。除此之外，A24 已经与 HBO 合作制作《偶像》和《幸福感》等电视节目。该交易将把即将上映的 A24 电影及其整个现有电影库（总共 100 多部电影）带到 HBO、Max 和 Cinemax。其中包括最近上映的影片，如索菲亚·科波拉的《普里西拉》、尼古拉斯·凯奇的《梦境情景》以及由扎克·埃夫隆和杰瑞米·艾伦·怀特主演的《铁爪》。它还包括较早的 A24 电影，例如 Bodies Bodies Bodies、 The Green Knight、Everything Everywhere All At一次，还有很多其他。 
+“继续与 A24 合作，为订阅者带来屡获殊荣的电影以及最近深受粉丝喜爱的电影，为 HBO 和 Max 价值主张增添了令人难以置信的价值，”A24 内容收购执行副总裁 Royce Battleman 说道世界BD，在一份声明中。 
+这项新协议是在好莱坞编剧和表演工会进行了近六个月的罢工之后达成的，该罢工实际上暂停了 2023 年大多数新电影和电视作品的制作。但尽管目前的产量较低，但主要流媒体平台不一定渴望新内容 - 大多数实际上都有 发誓要减少在内容上的投入。华纳兄弟探索公司首席执行官大卫·扎斯拉夫对此尤其傲慢，甚至取消了《蝙蝠女》等已完成的电影。上个月，WBD 砍掉了Coyote 与 Acme，现在正在寻找另一位买家。 
+WBD 与 A24 的交易将有助于丰富其所有三个资产的产品：HBO、Max 和 Cinemax。更不用说，它比从头开始制作新电影和电视更便宜。 
+
+]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23991039/a24-hbo-max-cinemax-deal-warner-bros-discovery</guid>
+      <pubDate>Wed, 06 Dec 2023 20:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您仍然可以花 325 美元购买任天堂的《任天堂明星大乱斗》主题 Switch OLED</title>
+      <link>https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23989396/nintendo-switch-oled-smash-bros-bundle-samsung-smarttag2-bluetooth-tracker-deal-sale</guid>
+      <pubDate>Wed, 06 Dec 2023 19:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>在《梦幻场景》中，尼克·凯奇想让你了解一个秘密</title>
+      <link>https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview</guid>
+      <pubDate>Wed, 06 Dec 2023 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 1 月 1 日开始，大量电动汽车将失去税收抵免</title>
+      <link>https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Sean O’Kane / The Verge
+
+根据美国国税局最近发布的指导方针，自 2024 年 1 月 1 日起，配备含有来自中国的矿物和材料的电池的电动汽车将不再有资格获得 7,500 美元的联邦电动汽车税收抵免。 
+这意味着许多电动汽车即将失去资格——其中最主要的是福特野马 Mach-E。福特最近向经销商发出通知，称“自 2024 年 1 月 1 日起，任何野马 Mach-E 不太可能有资格获得联邦税收抵免”根据 Cars Direct 的报告。 （福特发言人没有立即回应置评请求。）
+特斯拉还警告客户，某些版本的 Model 3（后轮驱动和长续航版）从明年开始，只有资格获得 7,500 美元税收抵免的一半。日产 Leaf 和大众 ID.4 也可能受到影响。 
+这对于购车者来说可能会很尴尬
+这对于购车者来说可能会很尴尬，他们中的一些人可能一直等到明年才购买电动汽车，因为他们听说经销商可能开始向他们提供电动汽车从 1 月 1 日开始立即获得税收抵免。 
+上周，美国国税局 (IRS) 更新了《通货膨胀减少法案》中的一项条款，该法案最初授权对新车和二手电动汽车提供 7,500 美元的税收抵免。自 1 月 1 日起，使用来自“受关注外国实体”的电池材料和零部件的电动汽车将没有资格获得税收抵免。到 2025 年，这一要求将适用于电池中使用的矿物质，如锂、钴、石墨和镍。 
+中国、朝鲜和俄罗斯是美国认为外国实体关注的国家的例子。这对许多电动汽车来说都是一个问题，因为大部分供应链都经过中国。 
+仅中国就占全球电池供应量的约 70%。议员们表示，爱尔兰共和军旨在通过减少美国对中国电池的依赖并在电动汽车领域为美国创造就业机会来创造公平的竞争环境。许多汽车公司及其供应合作伙伴现在正在努力牛肉结果是美国电池工厂的建设。 
+几个&lt; /a&gt; 公司 有 表示他们将在北美建造新工厂，包括新的采矿作业。但这些工厂和矿山需要数年时间才能上线。与此同时，符合税收抵免资格的电动汽车数量可能会减少。 
+汽车制造商正在花费数十亿美元来重新规划中国周边的电动汽车供应链，电动汽车支持者表示，新的要求验证了这些投资。零排放运输协会执行董事阿尔伯特·戈尔在一份声明中表示，新的国税局指导方针将确保“供应链中最有价值的部分在美国制造，为美国创造高薪就业机会，并加强国家竞争力”。一路上的安全。”]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e</guid>
+      <pubDate>Wed, 06 Dec 2023 19:28:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 将让你“重新想象”你朋友的人工智能生成的图像</title>
+      <link>https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Nick Barclay / The Verge 绘制
+
+Meta 今天详细介绍了其 Meta AI 工具的一系列更新一篇博客文章，其中包括 AI 图像生成器的一些新功能。
+引起我注意的是一个工具，它可以让你重新混合人工智能生成的图像，你的朋友在 Messenger 或 Instagram 聊天中分享。这些图像是用 Meta 称之为“想象”的工具制作的，该公司表示，你现在可以通过按住图片并添加文本提示来“重新想象”其他人在群聊中制作的图像。 
+
+
+图片：元
+Meta 的新“重新想象”工具，用于人工智能生成的图像。
+
+Meta 还将 Imagine 工具从聊天中带出来，并允许美国用户通过 imagine.meta 访问该工具.com。该公司表示，该工具是为“创意爱好者”设计的，由 鸸鹋图像基础模型。而且，Meta 表示，在“未来几周”，“隐形水印”将被添加到使用其想象工具制作的图像中。该公司希望在某个时候为使用其他人工智能工具制作的图像添加水印，但它没有给出非常详细的承诺：“我们的目标是在未来通过人工智能生成的图像为我们的许多产品带来隐形水​​印， ”Meta 在帖子中说道。
+Meta 还在改进其 Meta AI 助手，称它将提供“更详细的移动响应”和“更准确的搜索结果摘要”。 Reels 将开始出现在您与 Meta AI 的聊天中。并且，根据 TechCrunch，Meta 的 AI 角色（基于 Snoop Dogg 和 Tom Brady 等名人）现已在美国的 WhatsApp、Messenger 和 Instagram 中全面可用。
+Meta 的博文中还有一些其他更新，包括 Meta 正在“探索”如何使用生成式 AI 为撰写生日祝福等内容提供建议。但该公司的一波公告几乎可以肯定是它试图从谷歌的双子座大新闻中夺走一些空气，该新闻是 今天也宣布了。我认为谷歌今天有更令人印象深刻的新闻，但 Meta 的新人工智能工具确实看起来非常方便。
+
+ ]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23990896/meta-ai-reimagine-images-chatbot</guid>
+      <pubDate>Wed, 06 Dec 2023 18:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anker 的 Qi2 无线充电器可为 iPhone 13、14 和 15 以 15W 快速充电</title>
+      <link>https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Vjeran Pavic / The Verge
+
+现在苹果已经发布了下一个 iOS 更新预览，Anker 表示其即将推出的兼容 Qi2 的无线充电器将为 iPhone 13、iPhone 14 和 iPhone 15 设备提供更快的 15W 充电。 
+Apple 尚未回复置评请求，但据推测，这种支持将扩展到所有 Qi2 充电器。剩下的唯一问题是，尽管有像 Anker，贝尔金和Mophie 几个月前宣布推出兼容 Qi2 的硬件。 
+不过，即使产品尚未命名，无线充电联盟（WPC，管理 Qi2 规范）的 Paul Golden 告诉 The Verge，六个品牌的已获得认证的发射器包括 Belkin、Anker、BH-EVS、深圳芯维微电子、NuVolta 和东莞奥海科技。其中一些名称比其他名称更容易识别，但我们预计很快就会在充电设备中看到该硬件。 
+考虑到更新后的 Qi2 规范的磁力配置文件引入了 Apple 提供的磁铁和身份验证。这将使您可以使用 iPhone 以及最终兼容的 Android 设备使用快速无线充电器。然而，几个月来我们一直在询问这个问题，除了贝尔金关于 iPhone 15 的声明外，我们无法获得有关 iPhone 支持最大充电速率的明确消息。
+
+Anker 发言人 Mary Woodbury 在给 The Verge 的一封电子邮件中证实，与仅限于 iPhone 半速 7.5W 充电的旧款 Qi 产品不同，新的 MagGo 产品可以支持 15W 充电，与 Apple MagSafe 品牌设备的最大充电速率相同。也没有关于支持 iPhone 12 系列（或 iPhone 13 Mini，即使与 MagSafe 充电器配对时最大功率为 12W）的消息，它们应该具有兼容的硬件，但可能需要自己的软件更新。
+Apple 发布了 iOS 17.2 的候选版本 周二下午，并附有说明，称其为 iPhone 13 和 14（iPhone 15）添加了 Qi2 兼容性 在发布时列出了对 Qi2 的支持），但没有详细说明非 MagSafe 硬件的充电速度。 
+
+当新的MagGo产品于 8 月底宣布，Anker 没有列出型号、定价或发布日期，但表示我们可以期待一款配备新支架的便携式移动电源、新的无线充电站设计一次为您的 iPhone、AirPods 和 Apple Watch 充电，一个简单的 15W 平板充电器，以及一个 67W 球形磁性充电站，适用于您的台式机，具有 8 合 1 输出。 
+我们将等待更多详细信息，以了解其中是否有任何一个能够在 2023 年末实现预期的发布窗口，并密切关注 WPC 的 Qi 任何认证的产品数据库。
+美国东部时间 12 月 6 日下午 1:36 更新：添加了无线充电联盟的认证信息。]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23990215/anker-qi2-15w-wireless-charging-iphone-13-14-15</guid>
+      <pubDate>Wed, 06 Dec 2023 18:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，苹果计划在春季推出更大的 iPad Air 和 OLED iPad Pro</title>
+      <link>https://www.theverge.com/2023/12/6/23990883/apple-ipad-air-oled-pro-spring-release-12-9-inch</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+彭博社的 Apple 记者 Mark Gurman，表示苹果将在 2024 年以更大的 iPad 形式进行一些重大改变空气连接现有的较小尺寸和 此前传闻 iPad Pro 采用 OLED 屏幕。除此之外，该公司还将发布一款采用 Apple 全新 M3 处理器的更新版 MacBook Air，该处理器刚刚在更新版 14 英寸 MacBook Pro 和新款 iMac 中首次亮相。
+据报道，新款 iPad Air 将配备 12.9 英寸屏幕，加入 10.9 英寸型号的行列，使产品阵容更加接近 iPad Pro 的 11 英寸和 12.9 英寸选项。 Gurman 没有提供具体日期，只是表示这些设备将于“2024 年初”上市，并补充说苹果希望扭转这两条产品线的销售情况。
+
+Gurman 写道，该公司还将发布新版本的 Apple Pencil。他表示，Pencil 将是第三代主线 Pencil 设备，因此它可能与该公司五年前发布的产品类似。最近，Apple 更新了 Pencil 系列，推出了更经济实惠的产品 - 但 与最便宜的 iPad 不兼容 - 带 USB-C 的 Apple Pencil。该公司预计还将发布新款 iPad Magic Keyboard&lt; /a&gt;.
+Gurman 过去曾表示，2024 年推出的新款 iPad Pro 将代表 自 2018 年以来首次对平板电脑进行重大重新设计，这一年苹果首次推出了新的平面设计语言，并最终渗透到 &lt;去年的a href=&quot;https://www.theverge.com/23412645/apple-ipad-10th-gen-magic-keyboard-price-ipados&quot;&gt;第10代iPad。 
+今年，该公司发布了iPhone 15系列手机经过稍微重新设计，包括更圆润的边缘。 Pro 型号具有钛金属侧面和更薄的边框，缩小了手机的外部尺寸而不是增加屏幕，而且新款 iPad 似乎将至少获得一些相同的设计线索。该公司预计还将发布其备受期待的 2024 年推出 Vision Pro 耳机。]]></description>
+      <guid>https://www.theverge.com/2023/12/6/23990883/apple-ipad-air-oled-pro-spring-release-12-9-inch</guid>
+      <pubDate>Wed, 06 Dec 2023 18:35:30 GMT</pubDate>
+    </item>
     <item>
       <title>The Verge 2023 年最受欢迎的值得挥霍的礼物</title>
       <link>https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023</link>
@@ -15,7 +152,7 @@
 当金钱不再是问题时，天空是无限的，那么为什么要把辛苦赚来的现金和硬币浪费在日常必需品上呢？是时候实现远大梦想了。 最好的礼物并不总是最昂贵的，但你可能不是送给他们自己的146 英寸电视。
 
 在这份礼物指南中，我们决定构思出所有我们真正喜欢收到的礼物，如果钱真的不是问题的话。诚然，这里的大多数想法并不是完全负担得起的——我们正在考虑你，VW ID Buzz ——不过，如果你有闲钱的话，有些也不是完全遥不可及。毕竟，Battle Beaver 的可定制 PS5 控制器起价约为 100 美元，而且 Analogue Pocket 只需花费您 220 美元（如果您能找到的话）。
-也不全是小玩意和小玩意。我们的梦想综述还包括 Folio Society 令人惊叹的收藏版《权力的游戏》 ，超级光滑的Frank Lloyd Wright Racine 签名台，甚至还有一个 南极洲探险。
+也不全是小玩意和小玩意。我们的梦想综述还包括 Folio Society 令人惊叹的收藏版《权力的游戏》 ，超级光滑的Frank Lloyd Wright Racine 签名台，甚至还有 南极洲探险。
 
 ]]></description>
       <guid>https://www.theverge.com/23920823/expensive-holiday-gifts-wishes-extravagant-ideas-presents-2023</guid>
@@ -36,127 +173,12 @@ Hulu 现在在 Disney Plus 上为捆绑订阅者提供了自己的板块。 |图
 图片：迪士尼
 Disney Plus 上的 Hulu 不包含 Hulu 的完整库。
 
-我还注意到 Disney+ 上的 Hulu 并没有给我一个“继续观看”队列。当我选择一个已经看过几集的节目时，它并没有从我在独立 Hulu 应用程序中停下的地方开始。希望迪士尼能够在该中心于 2024 年春季正式推出之前同步应用程序之间的观看历史记录和进度。迪士尼指出 Beta 测试期应该让家长有足够的时间调整控件并制作适合儿童的个人资料。
+我还注意到 Disney+ 上的 Hulu 没有给我一个“继续观看”队列。当我选择一个已经看过几集的节目时，它并没有从我在独立 Hulu 应用程序中停下的地方开始。希望迪士尼能够在该中心于 2024 年春季正式推出之前同步应用程序之间的观看历史记录和进度。迪士尼指出，Beta 测试期应该让家长有足够的时间调整控件并制作适合儿童的个人资料。
 迪士尼表示，新中心“不会替代”独立的 Hulu 或迪士尼应用程序，这两个应用程序将仍然“作为单独的产品”。带有直播电视和高级附加组件的 Hulu 也将仅在独立的 Hulu 应用程序中提供，“完整的 Hulu SVOD 内容库”也是如此。目前尚不清楚有多少节目或电影被排除在 Hulu on Disney Plus 体验之外。然而，综艺说 由于许可限制，《摩登家庭》和《爱情岛》等游戏将不会被保留。
 娱乐巨头第一去年 11 月宣布将在美国推出 Hulu on Disney Plus 测试版 - 其他国家的用户已经拥有的经验。迪士尼直接面向消费者业务总裁乔·厄利 (Joe Earley) 表示，该公司单一应用程序体验的目标“是激励 Disney+ 和 Hulu 独立订阅者在看到可以访问的所有内容后也升级到捆绑包。”&lt; /p&gt;
 两者Disney Plus 和 Hulu 的价格上涨，捆绑套餐开始成为观众更实惠且更容易获得的选择。]]></description>
       <guid>https://www.theverge.com/2023/12/6/23990787/disney-plus-hulu-one-app-experience-beta-launch</guid>
       <pubDate>Wed, 06 Dec 2023 17:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果发布模型框架加入人工智能竞争</title>
-      <link>https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Amelia Holowaty Krales / The Verge
-
-苹果，许多人都考虑过在人工智能方面非常保守，悄悄发布了旨在在其芯片上运行的框架和模型库，并可能将生成式人工智能应用程序引入 MacBook。 
-该公司的机器学习研究团队发布了 MLX，这是一个机器学习框架，开发人员可以在其中构建在 Apple Silicon 和深度学习模型库 MLX Data 上高效运行的模型。两者都可以通过开源 GitHub 和 PyPI 等存储库进行访问。 
-根据 GitHub 上的 Apple，像 PyTorch 这样的框架， Jax 和 ArrayFire 启发了 MLX 的设计，其显着区别在于具有共享内存，这意味着在 MLX 上运行的任何任务都可以在支持的设备（目前是 CPU 和 GPU）上运行，而无需移动数据。 Computerworld报道&lt; /a&gt; MLX 旨在让开发人员易于使用，但有足够的能力来训练 Meta 的 Llama 和 Stable Diffusion 等 AI 模型。框架和模型库为目前市场上的许多人工智能应用程序提供支持。 
-Apple 机器学习研究员 Awni Hannun 推文表示 MLX 数据是一个“与框架无关、高效且灵活的数据加载包”，可与 MLX、PyTorch 或 Jax 框架配合使用。 The Verge 联系了 Apple 以获取更多信息。 
-Apple 此前已与人工智能合作，将该技术嵌入其产品多年
-但是，这些专注于机器学习，而不是竞争对手喜欢的流行的生成式人工智能应用程序Microsoft 和 Google一直在追赶。苹果甚至在许多主题演讲中都避免使用人工智能这个词。 
-据报道，苹果在 9 月份开始致力于基础模型，看看哪些模型可以在其服务中实施。 
-
-]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990678/apple-foundation-models-generative-ai-mlx</guid>
-      <pubDate>Wed, 06 Dec 2023 16:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在年底对 Pixel 设备进行了重大更新</title>
-      <link>https://www.theverge.com/2023/12/6/23990607/google-pixel-december-update-feature-drop-video-boost</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990607/google-pixel-december-update-feature-drop-video-boost</guid>
-      <pubDate>Wed, 06 Dec 2023 16:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>鱿鱼游戏：挑战获得第二季 - 以及一款视频游戏</title>
-      <link>https://www.theverge.com/2023/12/6/23990517/netflix-squid-game-the-challenge-season-two</link>
-      <description><![CDATA[&lt;图&gt;
-      
-鱿鱼游戏：挑战获得第二季。 |图片：Netflix
-
-有史以来最不令人惊讶的举动，Netflix 已批准其广受欢迎的鱿鱼游戏：挑战第二季，并且招募参赛者是正确的现在。该公司还提到，它正在“Squid Game 宇宙”中制作一款视频游戏——错过了创造“Squidiverse”一词的机会。事实上，我很抱歉我刚刚打了这个。
-Netflix 没有提供有关该视频游戏的任何细节，只是说玩家将“在他们从该系列中认出的游戏中与朋友竞争”。我们要求提供更多详细信息，但截至发稿时该公司尚未回复。
-
-
-各位玩家们，你们准备好迎接下一场比赛了吗？鱿鱼游戏：挑战第二季回归！参加 https://t.co/rHt0nq0WtI 上的现实竞赛。 pic.twitter.com/QOtRDpdtD8— Netflix (@netflix) 2023 年 12 月 6 日
-
-
-“我们批准《乌贼游戏：挑战》第二季的决定并没有亮起红灯，”Netflix 纪实节目负责人布兰登·里格 (Brandon Riegg) 在一份声明中说道.
-与挑战赛第一季一样，456 人将在整个赛季中争夺 456 万美元的奖金，参加受 鱿鱼游戏系列。 
-如果您在加利福尼亚州洛杉矶，可以参加现场六场比赛鱿鱼游戏挑战快闪店今晚开幕，并持续“跨年”。起价 39 美元，还有一个以鱿鱼游戏为主题的酒吧和韩国美食，以及一个鱿鱼市场，您可以购买周边商品。
-一些参赛者在第一季的拍摄过程中受伤，尽管 Netflix 当时坚称一切都不严重。代表两名参赛者的一家律师事务所表示，这将是 
-
-]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990517/netflix-squid-game-the-challenge-season-two</guid>
-      <pubDate>Wed, 06 Dec 2023 15:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 2023 年游戏和娱乐节日礼物指南</title>
-      <link>https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories</link>
-      <description><![CDATA[&lt;图&gt;
-      
-照片插图由 Amelia Holowaty Krales 和 Cath Virginia / The Verge 拍摄
-
-即使有人喜欢购买所有最新的大型游戏，我们也确信我们可以帮助您在这个假期为他们找到一份独特且足够极客的礼物。 无论好坏，游戏玩家都可能是一群善变的人。这就是为什么，当谈到购买任何优质视频游戏和流行文化娱乐的供应商时，可能会很想拉绳子并只使用礼品卡。但可惜的是，您可以为极客们获得各种独特的礼物。
-
-不可否认，The Verge 的员工几乎都是书呆子，他们花费无数时间玩游戏并跟踪粉丝圈的最新动态（他们甚至付钱给我们做一些事情）就是这里）。因此，我们集思广益，从 出色的平装回顾和有史以来最伟大的视频游戏（不到 5 美元）到自定义控制器、蓝光，以及乐高吃豆人街机拼搭套件。
-所以，今年跳过 LameStop 礼品卡，获得一份肯定会很棒的礼物。
-
-]]></description>
-      <guid>https://www.theverge.com/23959483/gaming-entertainment-gifts-ideas-2023-playstation-nintendo-xbox-tv-accessories</guid>
-      <pubDate>Wed, 06 Dec 2023 15:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 和 Instagram 在新诉讼中被指控为儿童掠夺者创建“市场”</title>
-      <link>https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990445/facebook-instagram-meta-lawsuit-child-predators-new-mexico</guid>
-      <pubDate>Wed, 06 Dec 2023 15:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Gemini，希望该 AI 模型能够击败 GPT-4</title>
-      <link>https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model</guid>
-      <pubDate>Wed, 06 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 Bard 聊天机器人在 Gemini 的帮助下变得越来越好</title>
-      <link>https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Bard 可以访问 Google 的应用程序，而且现在还可以访问其最好的大型语言模型。 |图片：谷歌
-
-虽然 OpenAI 的 ChatGPT 已成为一种全球现象，并且是有史以来增长最快的消费产品之一，但 Google 的 Bard 却事后的想法。该聊天机器人已稳步获得新功能，包括通过其他 Google 产品访问您的数据，但其答案和信息似乎很少能与您从 ChatGPT 和其他使用 GPT-3 和 GPT-4 的机器人获得的信息相媲美。 
-不过，Bard 的案例可能变得更加引人注目：截至今天，对于 170 个国家/地区的英语用户来说，Bard 现已由 Google 的新 Gemini 模型，据称该模型在许多方面与 OpenAI 的技术相匹配甚至超过。 （谷歌称 Gemini “在不久的将来”将支持更多语言和国家。）
-Bard 现在运行 Gemini Pro，中间双子座系列的一层。 Ultra 最大、最慢，但功能最强大；Nano 较小、速度更快，适用于设备上的任务；Pro 则处于中间位置。它实际上是该模型的金发姑娘版本：快速、高效，同时仍然尽可能强大。
-Pro 旨在成为 Gemini 的金发姑娘版本：快速、高效，同时仍然尽可能强大
-Google 负责 Bard 和 Assistant 的 Sissie Hsiao 在新闻发布会上表示，Gemini 代表了 Bard 的“迄今为止最大、最好的升级”。对于巴德已经做的所有事情来说，这应该是一个显着的进步：总结、头脑风暴、写作等等。谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 告诉我，在他的测试中，他发现与其说是一个令人惊叹的新功能，不如说是全面的整体改进。 “我认为人们会发现产品变得更好了，”他说。 “它能更好地理解他们的意图，也能更好地回答。它更真实、更高质量。如果你尝试编码那就更好了！” 
-现在，Bard 仍然只是一个聊天机器人：你输入，它就会输入。但 Bard 的新版本即将推出，内容可能会更多。明年，谷歌计划推出由 Gemini Ultra 提供支持的“Bard Advanced”预览版，这是谷歌新的大型语言模型最强大、功能最强大的版本。 Gemini Ultra 也是该模型的多模式版本，这意味着除了文本之外，它还可以接受和创建图像、音频和视频。
-非文本交互是 Gemini 的真正亮点
-Google DeepMind 负责人 Demis Hassabis 表示，非文本交互是 Gemini 真正的亮点。 “我们从头开始将其打造为原生多式联运，”他说。 “这是它拥有的新功能之一……它可以跨模式进行无缝集成和推理。”谷歌的演示包括 YouTuber Mark Rober 使用 Bard 制作完美的纸飞机 - 包括通过拍摄他的设计照片以获得 AI 提供的反馈 - 以及家长上传孩子作业的照片以帮助找出他们的数学问题。&lt; /p&gt;
-不过，目前这只是演示和宣传视频。皮查伊表示，他认为这次发布对于巴德来说是一个重要时刻，也是 Gemini 时代的开始。但如果 Google 的基准测试正确，新模型可能已经使 Bard 成为像 ChatGPT 一样优秀的聊天机器人。这已经是一个非常令人印象深刻的壮举。]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai</guid>
-      <pubDate>Wed, 06 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 Gemini AI 模型即将登陆 Pixel 8 Pro，并最终登陆 Android</title>
-      <link>https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Pixel 8 Pro 是第一款支持 Gemini 的手机，但它不会是最后一款。 |摄影：Allison Johnson / The Verge
-
-Gemini 可能是 Google 有史以来最大、最强大的大型语言模型（LLM）已开发，但它更适合在数据中心运行而不是在手机上运行。不过，该公司正试图通过 Gemini Nano 来打破差异：它构建了旗舰 LLM 的简化版本，可以在您的设备上本地和离线运行。好吧，无论如何，一个设备。 Pixel 8 Pro 是迄今为止唯一一款兼容 Nano 的手机，但谷歌将这款新机型视为 Android 未来的核心部分。
-如果您有Pixel 8 Pro，从今天开始，您手机上的两项功能将由 Gemini Nano 提供支持：录音机应用中的自动摘要功能和 Gboard 键盘的智能回复部分。两者都将作为 Pixel 12 月功能发布的一部分推出。由于模型在设备本身上运行，因此两者都可以离线工作，因此它们应该感觉快速且原生。 
-Google 的 Gemini Nano 起步规模相当小。就连智能回复功能也只有 WhatsApp 中的 Gemini 提供支持，不过谷歌表示明年将会在更多应用中推出该功能。而且 Gemini 目前只推出英文版，这意味着许多用户根本无法使用它。你的 Pixel 8 Pro 不会突然感觉像是一台大规模升级的设备——尽管随着时间的推移，如果 Gemini 和谷歌想象的一样好的话，情况可能会这样。明年，当 Google 在 Pixel 手机上的 Assistant 中引入由 Gemini 驱动的 Bard 时，您将获得更多 Gemini 体验。
-Nano 是 Gemini 模型中最小的（废话），但 Google DeepMind 首席执行官 Demis Hassabis 表示，它仍然具有强大的功能。 “它必须适合脚印，对吗？”他说。 “Pixel 手机的占地面积非常小。所以存在内存限制、速度限制等等。就其尺寸而言，它实际上是一个令人难以置信的模型 - 显然，它可以通过从更大的模型中提炼出来并从中受益。” Nano 的目标是创建一个尽可能强大的 Gemini 版本，而不会占用手机的存储空间或将处理器加热到太阳的温度。
-Google 还在研究将 Nano 构建到整个 Android 中的方法
-目前，Google 的 Tensor 3 处理器似乎是唯一能够运行该模型的处理器。但谷歌也在研究一种将 Nano 构建到 Android 整体中的方法：它推出了一项名为 AICore 的新系统服务，开发人员可以使用该服务将 Gemini 支持的功能引入他们的应用程序中。你的手机仍然需要相当高端的芯片才能工作，但谷歌在宣布该功能的博客文章中提到高通、三星和联发科是制造兼容处理器的公司。开发者现在可以加入 Google 的抢先体验计划。
-过去几年，Google 一直将其 Pixel 手机视为本质上的人工智能设备。凭借 Tensor 芯片以及与所有 Google 服务的紧密连接，它们应该会随着时间的推移变得更好、更智能。有了 Gemini Nano，这最终可能会在许多高端 Android 设备上实现。目前，这只是花钱买 Pixel 8 Pro 的一个充分理由。]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply</guid>
-      <pubDate>Wed, 06 Dec 2023 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
