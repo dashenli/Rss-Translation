@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 06 Dec 2023 12:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 15:27:14 GMT</lastBuildDate>
     <item>
-      <title>[媒体]挪威与丹麦一起对特斯拉进行罢工/封锁，以支持瑞典 [...]</title>
-      <link>https://t.me/hn_summary/62531</link>
-      <description><![CDATA[挪威加入丹麦参与瑞典特斯拉罢工/封锁&lt; br/&gt;
-挪威与丹麦一起对特斯拉进行罢工/封锁，以支持瑞典工会 IF Metall 达成集体协议的要求。挪威工会Fellesforbundet主席Jørn Eggum表示，如果特斯拉在12月20日之前未能满足IF Metall的要求，他们将实施抵制。丹麦最大的工会3F Transport也宣布了慰问措施，拒绝接收或运输开往瑞典的特斯拉汽车。工会辩称，他们正在与一家敌视工会的公司作斗争，而劳工运动是全球性的，旨在保护工人。]]></description>
-      <guid>https://t.me/hn_summary/62531</guid>
-      <pubDate>Wed, 06 Dec 2023 12:50:02 GMT</pubDate>
+      <title>[媒体]谷歌宣布发布 TPU v5p 和 AI 超级计算机，旨在 [...]</title>
+      <link>https://t.me/hn_summary/62571</link>
+      <description><![CDATA[支持下一代 AI 工作负载：发布 TPU v5p 和 AI 超级计算机&lt; /a&gt;
+谷歌宣布发布 TPU v5p 和 AI 超级计算机，旨在支持下一代 AI 工作负载。 AI 超级计算机具有性能优化的硬件，包括计算、存储和网络功能。它的建设注重效率，利用清洁能源并致力于水资源管理。开发人员可以通过开放软件访问硬件，从而使他们能够调整、管理和编排人工智能训练和推理工作负载。 AI超级计算机还提供灵活的消费选择，包括按需定价和现货定价。 Salesforce 和 Lightricks 等客户已经看到使用 TPU v5p 训练速度和性能得到了改善。]]></description>
+      <guid>https://t.me/hn_summary/62571</guid>
+      <pubDate>Wed, 06 Dec 2023 15:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是海森伯格矩阵？</title>
-      <link>https://t.me/hn_summary/62530</link>
-      <description><![CDATA[什么是海森伯格矩阵？
-该网站讨论 Hessenberg 矩阵并提供著名 Hessenberg 矩阵的示例，例如 Frank 矩阵和 Grcar 矩阵。弗兰克矩阵有一个有趣的特性，即它的特征值以倒数对的形式出现。 Grcar 矩阵是一个 Toeplitz 矩阵，具有有趣的伪谱。该网站还提到了伴生矩阵，它们是单位下对角线的上 Hessenberg 矩阵。]]></description>
-      <guid>https://t.me/hn_summary/62530</guid>
-      <pubDate>Wed, 06 Dec 2023 12:47:51 GMT</pubDate>
+      <title>[媒体]南安普顿大学科学家进行的一项研究发现，怀孕 [...]</title>
+      <link>https://t.me/hn_summary/62570</link>
+      <description><![CDATA[食用植物性食物的孕妇缺少重要营养素&lt; /a&gt;
+南安普顿大学科学家进行的一项研究发现，孕妇没有从现代饮食中获得她们和婴儿所需的必需营养。这项研究对来自高收入国家的 1,700 多名女性进行了调查，结果显示，其中 90% 的女性缺乏健康怀孕和未出生婴儿的健康所需的关键维生素。这些营养素，包括维生素 B12、B6 和 D、叶酸和核黄素，常见于肉类和乳制品中。研究人员警告说，随着越来越多的人转向植物性饮食，情况可能会恶化。该研究强调孕妇需要确保她们通过饮食或补充剂获得足够的营养。]]></description>
+      <guid>https://t.me/hn_summary/62570</guid>
+      <pubDate>Wed, 06 Dec 2023 15:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>该博客文章讨论了一种称为高斯分布的新方法，用于数字化和渲染重新[...]</title>
-      <link>https://t.me/hn_summary/62529</link>
-      <description><![CDATA[压缩高斯图
-该博客文章讨论了一种称为高斯泼溅的新方法，用于以 3D 形式数字化和渲染现实世界的对象。高斯 Splat 场景由称为 splats 的单个斑点组成，它们具有大小、方向、颜色和不透明度。 PlayCanvas 团队在其引擎中添加了对加载和渲染 Gaussian Splat PLY 文件的支持。然而，默认的 PLY 格式很大，因此他们引入了一种压缩的 PLY 格式，以量化整数存储数据。压缩格式大约比未压缩数据小 4 倍，可用于实时应用程序。这篇文章还提到了未来优化渲染和进一步压缩数据的计划。]]></description>
-      <guid>https://t.me/hn_summary/62529</guid>
-      <pubDate>Wed, 06 Dec 2023 12:44:44 GMT</pubDate>
+      <title>[媒体]此网络内容中讨论的系统审查评估了有效的证据[...]</title>
+      <link>https://t.me/hn_summary/62569</link>
+      <description><![CDATA[Covid-19 儿童口罩强制规定：系统审查
+本网页内容中讨论的系统评价评估了儿童口罩强制规定在减少 COVID-19 传播或疾病严重程度方面的有效性证据。审查发现，16 项研究表明戴口罩对感染或传播没有影响，而 6 项报告保护性关联的研究存在严重或严重的偏倚风险。审查的结论是，没有科学证据支持儿童佩戴口罩的建议，政策建议应基于高质量的证据，并考虑伤害的可能性，特别是对弱势儿童。争议在于支持掩盖的观察数据与缺乏高质量证据之间的差异。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/62569</guid>
+      <pubDate>Wed, 06 Dec 2023 15:20:54 GMT</pubDate>
     </item>
     <item>
-      <title>作者反思了他们对理解唐纳德·特朗普神话的关键的探索，以及 [...]</title>
-      <link>https://t.me/hn_summary/62528</link>
-      <description><![CDATA[警告
-作者反思了他们寻找理解唐纳德·特朗普神话的关键以及他性格核心的残酷的过程。他们讲述了与特朗普女婿贾里德·库什纳的谈话，库什纳出人意料地同意特朗普的行为正在损害国家。作者讨论了特朗普的不文明程度的下降，并认为他已经赢得了“法西斯主义”的标签。他们对特朗普连任的可能性及其对美国构成的生存威胁表示担忧。作者强调，他们担心的不是特朗普是共和党人，而是他的反民主和不雅本质。]]></description>
-      <guid>https://t.me/hn_summary/62528</guid>
-      <pubDate>Wed, 06 Dec 2023 12:34:28 GMT</pubDate>
+      <title>[媒体] 本文讨论了如何在终端中使用 CDPATH 变量来轻松导航 [...]</title>
+      <link>https://t.me/hn_summary/62568</link>
+      <description><![CDATA[Cdpath：轻松导航终端中的目录
+本文讨论了如何在终端中使用 CDPATH 变量来轻松导航目录。通过将 CDPATH 设置为最常用的父目录，用户可以从文件系统中的任何位置直接 cd 进入这些目录或其子目录，而无需键入完整路径。该文章强调，搜索速度快如闪电，并且仅在指定的父目录中查找。 CDPATH 的顺序很重要，因为如果存在多个具有相同子目录名称的目录，则较早的父目录将优先。作者发现这个功能“非常酷”，并指出它改变了他们使用 shell 的方式。但是，作者警告不要做得太过分，否则可能会因为在 CDPATH 中包含太多具有通用名称的目录而破坏脚本。]]></description>
+      <guid>https://t.me/hn_summary/62568</guid>
+      <pubDate>Wed, 06 Dec 2023 15:19:38 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：有哪些值得关注的优秀博客、新闻板、YouTube 频道？</title>
-      <link>https://t.me/hn_summary/62527</link>
-      <description><![CDATA[询问 HN：有哪些优秀的博客、新闻板、YouTube 频道关注？
-这篇关于 Hacker News 的文章的作者正在寻求优秀博客、新闻板和 YouTube 频道的推荐以供关注，以便及时了解技术、计算机科学和突破性信息。他们表达了对 Hacker News 的赞赏，但也提到浏览 YouTube 非常耗时。他们正在寻找高质量信息的替代来源，并寻求社区的建议。]]></description>
-      <guid>https://t.me/hn_summary/62527</guid>
-      <pubDate>Wed, 06 Dec 2023 12:31:17 GMT</pubDate>
+      <title>网络内容提供了 Gemini 性能的比较，Gemini 是 Googl 开发的模型 [...]</title>
+      <link>https://t.me/hn_summary/62567</link>
+      <description><![CDATA[Gemini – Google DeepMind
+网络内容提供了由 Google DeepMind 开发的模型 Gemini 与其他模型在各种任务中的性能比较。 Gemini 在文档理解、自然图像 OCR 和信息图理解等任务中取得了令人印象深刻的结果，在 0-shot 场景下准确率达到 88.4% 到 90.9%。然而，它在视觉上下文中的数学推理方面表现相对较差，准确率达到 49.9%。在视频相关任务中，Gemini 在英语视频字幕方面表现出色，但在视频问答方面表现较差。在音频任务中，Gemini Pro 在自动语音翻译方面优于 Whisper v2，而 Whisper v3 在自动语音识别方面表现更好。]]></description>
+      <guid>https://t.me/hn_summary/62567</guid>
+      <pubDate>Wed, 06 Dec 2023 15:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克最近颇具争议的行为和言论引发了人们对他的 [...]</title>
-      <link>https://t.me/hn_summary/62526</link>
-      <description><![CDATA[埃隆·马斯克的救世主情结可能会让他垮台
-埃隆·马斯克 (Elon Musk) 最近颇具争议的行为和言论引发了人们对他的心理健康状况及其可能对其 SpaceX 和特斯拉等业务产生的影响的担忧。尽管马斯克拥有天才和技术成就，但他挑衅性的幽默和违反规则的行为既让他的粉丝兴奋不已，也激怒了监管机构。他的弥赛亚情结使他相信自己肩负着拯救人类的使命，这增加了围绕他的争议。然而，他的远见和干劲使他的公司在火箭和卫星通信领域处于领先地位。虽然他的行为可能会产生负面后果，但在后代人眼中，他的技术成就很可能会掩盖他的不完美。]]></description>
-      <guid>https://t.me/hn_summary/62526</guid>
-      <pubDate>Wed, 06 Dec 2023 12:17:06 GMT</pubDate>
+      <title>[媒体]Gemini 是 Google 最先进的人工智能模型，现已在各种产品中推广 [...]</title>
+      <link>https://t.me/hn_summary/62566</link>
+      <description><![CDATA[Gemini：Google 迄今为止最强大的 AI 模型
+Gemini 是谷歌最先进的人工智能模型，目前正在各种产品和平台上推广。 Gemini Pro 将用于 Google 产品中，提供高级推理、规划和理解。它将在 170 多个国家和地区提供英语版本，并计划在不久的将来扩展到其他语言和地区。 Pixel 8 Pro 智能手机将配备 Gemini Nano，为 Summarize 和 Smart Reply 等新功能提供支持。开发者和企业客户可以通过 Google AI Studio 或 Google Cloud Vertex AI 中的 Gemini API 访问 Gemini Pro。 Gemini Ultra 目前正在进行广泛的安全检查，并将于明年进行早期实验。]]></description>
+      <guid>https://t.me/hn_summary/62566</guid>
+      <pubDate>Wed, 06 Dec 2023 15:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 此网页内容的作者描述了开发人员 Erin 如何利用 s [...]</title>
-      <link>https://t.me/hn_summary/62525</link>
-      <description><![CDATA[显示 HN：使用 Cloudflare Workers AI 的免费故事生成器 
-此网页内容的作者描述了开发人员 Erin 如何利用工作缓慢的时期来处理个人项目。 Erin 已经磨练了她使用 Flexbox 的技能，并希望在下一个项目中尝试一些不同的东西。受到多年前拟物化趋势的启发，她决定创建一段看起来像书的文本。作者强调了使用过时趋势的潜在争议，这可能会在项目启动后引起嘲笑。]]></description>
-      <guid>https://t.me/hn_summary/62525</guid>
-      <pubDate>Wed, 06 Dec 2023 12:07:56 GMT</pubDate>
+      <title>[媒体] Wcfg.dev 是一个为配置数据提供端到端加密云存储的网站。</title>
+      <link>https://t.me/hn_summary/62565</link>
+      <description><![CDATA[显示 HN：Wcfg.dev – 端到端加密云您的配置的存储
+Wcfg.dev是一个提供端到端加密的网站配置数据的云存储。该平台使用客户端加密 API 直接在浏览器中加密数据，然后将其存储在云中。它提供了一个安全且受保护的环境变量备份位置，方便开发人员在不同环境下工作。该网站强调备份的重要性，并通过安全存储配置数据让您高枕无忧。加密是使用网络加密库在客户端完成的，私钥不存储在服务器上。该网站还解决了有关密钥安全和存储的常见问题。]]></description>
+      <guid>https://t.me/hn_summary/62565</guid>
+      <pubDate>Wed, 06 Dec 2023 15:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Skyhook 是一个 REST 驱动的实用程序，允许用户将文件偷偷带入和带出新的 [...]</title>
-      <link>https://t.me/hn_summary/62524</link>
-      <description><![CDATA[显示 HN：往返加密 HTTPS 渗透工具 
-Skyhook 是一个 REST 驱动的实用程序，允许用户将文件偷偷带入和带出受 IDS 实施保护的网络。它配备了一个预打包的 Web 客户端，该客户端使用 React、vanilla JS 和 Web 程序集的组合来管理文件传输。该工具提供了往返文件内容混淆、用户可配置的混淆链、自签名和 Lets Encrypt 证书获取方法以及用于配置和文件传输的嵌入式 Web 应用程序等功能。它还包括服务器指纹弹性技术、加密加载程序以及 API 和 Web 资源路径随机化。该项目通过提供无缝混淆过程和用于大文件传输的分块文件流而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/62524</guid>
-      <pubDate>Wed, 06 Dec 2023 11:57:44 GMT</pubDate>
+      <title>[媒体] drf-api-action Python 包旨在增强 Dj 的测试体验 [...]</title>
+      <link>https://t.me/hn_summary/62564</link>
+      <description><![CDATA[显示 HN：drf-api-action - 一种新的测试方法你的休息框架项目
+drf-api-action Python 包旨在增强 Django Rest Framework (DRF) REST 端点的测试体验。它提供了一个名为 api-action 的自定义装饰器，允许用户像常规函数一样测试其 REST 端点。该软件包提供了简化的测试、与 DRF 操作装饰器的无缝集成、提供真正回溯的异常处理以及分页支持。作者强调，该项目与其他项目的区别在于提供了一种测试 DRF 项目的新方法并通过单个 kwarg 提供分页支持。自述文件还包括安装、使用、包测试和为项目做出贡献的说明。]]></description>
+      <guid>https://t.me/hn_summary/62564</guid>
+      <pubDate>Wed, 06 Dec 2023 15:02:46 GMT</pubDate>
     </item>
     <item>
-      <title>Infocom 的文本解析冒险游戏（包括 Zork）的源代码已经可用 [...]</title>
-      <link>https://t.me/hn_summary/62523</link>
-      <description><![CDATA[已发现 Infocom 针对 Zork 和其他游戏的代码移植工具&lt; /a&gt;
-Infocom 的文本解析冒险游戏（包括 Zork）的源代码自 2019 年起就已提供，但无法在现代计算机上运行。然而，最近在 Andrew Plotkin 拥有的 GitHub 存储库中发现了 Z-Machine 实现的源代码，该源代码允许游戏在各种系统上进行解释。 Plotkin 是文本冒险界的知名人物，他在互动小说论坛的讨论中偶然发现了源代码。在与当前权利持有者微软进行谈判时，Plotkin 决定在 GitHub 上发布代码，但没有发布重大公告。该代码深入了解了 20 世纪 80 年代开发商业软件所面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/62523</guid>
-      <pubDate>Wed, 06 Dec 2023 11:46:33 GMT</pubDate>
+      <title>App Craft Studio 的应用程序“在 iOS 上生成 ASCII 图表”允许用户创建 ASCII 图表 [...]</title>
+      <link>https://t.me/hn_summary/62563</link>
+      <description><![CDATA[显示 HN：在 iOS 上生成 ASCII 图表
+App Craft Studio 的应用程序“在 iOS 上生成 ASCII 图表”允许用户在其 iOS 设备上创建 ASCII 图表。该应用程序的隐私惯例在开发者的隐私政策中披露。该应用程序收集的数据与用户的身份无关。值得注意的是，隐私做法可能会根据所使用的功能或用户的年龄而有所不同。]]></description>
+      <guid>https://t.me/hn_summary/62563</guid>
+      <pubDate>Wed, 06 Dec 2023 15:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]流行的开源渗透测试平台 Kali Linux 发布了最新版本 [...]</title>
-      <link>https://t.me/hn_summary/62522</link>
-      <description><![CDATA[Kali Linux 2023.4 发布
-流行的开源渗透测试平台Kali Linux发布了最新版本Kali Linux 2023.4。此更新带来了多项新功能和改进，包括更新的工具和软件包、错误修复以及增强的安全措施。值得注意的新增功能之一是包含 Xfce 桌面环境作为默认 GNOME 桌面的替代方案。这种轻量级、可定制的桌面环境为 Kali Linux 用户提供了不同的用户体验。该版本还包括对 Metasploit、Wireshark 和 Burp Suite 等各种工具的更新。 Kali Linux 2023.4 旨在为道德黑客和安全专业人员提供更高效、用户友好的平台。]]></description>
-      <guid>https://t.me/hn_summary/62522</guid>
-      <pubDate>Wed, 06 Dec 2023 11:40:21 GMT</pubDate>
+      <title>[媒体]VidMaskPro 是一款人工智能驱动的视频编辑器，允许用户将各种滤镜应用到 [...]</title>
+      <link>https://t.me/hn_summary/62562</link>
+      <description><![CDATA[显示 HN：将 AI 滤镜应用于您的视频 - Android
+VidMaskPro 是一款人工智能驱动的视频编辑器，允许用户对其视频应用各种滤镜。该应用程序利用先进的人工智能算法和深度学习技术，将普通视频转变为视觉上令人惊叹和迷人的作品。用户可以从各种过滤器中进行选择，包括动漫和达斯·维德等选项，为他们的视频添加独特的风格。 VidMaskPro 还提供一系列精选的预先设计的滤镜来激发创造力。该应用程序用户友好，允许在流行的社交媒体平台上即时分享。通过下载VidMaskPro，用户可以释放人工智能的潜力，轻松制作专业品质的视频。]]></description>
+      <guid>https://t.me/hn_summary/62562</guid>
+      <pubDate>Wed, 06 Dec 2023 15:02:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
