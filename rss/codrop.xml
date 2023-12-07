@@ -4,9 +4,16 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 06 Dec 2023 18:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 12:59:07 GMT</lastBuildDate>
     <item>
-      <title>励志网站综述 #53</title>
+      <title>前端回顾 2023 – 第 07 天</title>
+      <link>https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/</link>
+      <description><![CDATA[在“Frontend Rewind 2023”中探索第 7 天的奇迹，精心策划的亮点等待着您！]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/</guid>
+      <pubDate>Thu, 07 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>励志网站综述#53</title>
       <link>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</link>
       <description><![CDATA[发现一系列最近发现的展示卓越设计的网站。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>前端回顾 2023 – 第 03 天</title>
       <link>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</link>
-      <description><![CDATA[“Frontend Rewind 2023”第三天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
+      <description><![CDATA[“Frontend Rewind 2023”第 3 天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</guid>
       <pubDate>Sun, 03 Dec 2023 12:15:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[今天，我们将进入“Frontend Rewind 2023”的第二天！与我们一起回顾 2023 年最引人注目的亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/02/frontend-rewind-2023-day-02/</guid>
       <pubDate>Sat, 02 Dec 2023 12:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#795</title>
-      <link>https://tympanus.net/codrops/collective/collective-794/</link>
-      <description><![CDATA[CSS 网格交互式指南 * 重新工具 2023 年人工智能现状报告]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-794/</guid>
-      <pubDate>Fri, 01 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

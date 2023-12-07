@@ -4,7 +4,26 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Dec 2023 02:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 12:56:47 GMT</lastBuildDate>
+    <item>
+      <title>Proton Drive 在 Android 上添加加密照片备份功能</title>
+      <link>https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Proton
+
+Proton Drive 是一款端到端加密云存储应用，它越来越像 Google Drive。应用程序的 Android 版本 现在可以让您自动备份并管理手机上的照片。 
+由于添加了照片同步和管理功能，它作为 Google Drive 和 Microsoft OneDrive 等主流云存储选项的替代方案变得更加可行。与这两种服务不同的是，Proton Drive 中存储的文件是端到端加密的，这意味着包括 Proton 本身在内的第三方无法查看您上传的内容。
+
+
+图片：质子
+
+虽然 Proton Drive 目前允许您存储手机中的照片和其他文件，但它不会自动同步新照片。此次更新将使您更方便地将照片备份到该服务，因为您不再需要手动上传所有最近的照片。此外，Proton Drive 还提供了一个新的“照片”选项卡，让您可以滚动浏览按拍摄月份排列的所有照片。
+从今天开始，Proton Drive 的 Android 应用程序将提供照片备份功能，“稍后”将在 iOS 上提供。 Proton Drive 免费使用最高 1GB 的套餐，200GB 套餐的价格为每月 4.99 美元，500GB 套餐的价格为每月 12.99 美元。 Proton Drive 去年在 Windows 上推出 并逐渐增加了对 macOS 的支持、Android 和 iOS，允许您在所有设备上访问文件。 
+]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23991301/proton-drive-photos-android-sync</guid>
+      <pubDate>Thu, 07 Dec 2023 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Messenger 终于默认获得端到端加密</title>
       <link>https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta</link>
@@ -145,13 +164,6 @@ WBD 与 A24 的交易将有助于丰富其所有三个资产的产品：HBO、Ma
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23989763/nicolas-cage-dream-scenario-interview</guid>
       <pubDate>Wed, 06 Dec 2023 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 1 月 1 日开始，大量电动汽车将失去税收抵免</title>
-      <link>https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/6/23990982/ev-lose-tax-credit-battery-china-mustang-mach-e</guid>
-      <pubDate>Wed, 06 Dec 2023 19:28:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
