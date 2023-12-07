@@ -4,7 +4,63 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Dec 2023 02:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 03:24:42 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]Facebook Messenger 宣布开始在全球范围内推出端到端 [...]</title>
+      <link>https://t.me/hn_summary/62658</link>
+      <description><![CDATA[Facebook Messenger 端到端加密“现已开始全球推广” 
+Facebook Messenger 宣布开始在全球范围内为其消息传递平台推出端到端加密 (E2E)。这意味着通过 Messenger 发送的消息将被加密，并且只能由发送者和接收者读取。此举旨在增强用户隐私和安全。虽然一些用户可能会欣赏增加的保护，但其他用户可能会担心加密消息传递的潜在滥用。值得注意的是，端到端加密并不能阻止 Facebook 收集有关用户对话的元数据。总体而言，此更新是朝着增强平台隐私性迈出的一步。]]></description>
+      <guid>https://t.me/hn_summary/62658</guid>
+      <pubDate>Thu, 07 Dec 2023 03:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]这篇文章讨论了奥托·斯特恩和沃尔特进行的经常被忽视的实验[...]</title>
+      <link>https://t.me/hn_summary/62657</link>
+      <description><![CDATA[揭示量子世界的（经常）被忽视的实验
+本文讨论了奥托·斯特恩 (Otto Stern) 和瓦尔特·格拉赫 (Walther Gerlach) 在 1922 年进行的一项经常被忽视的实验，该实验揭示了量子世界。该实验包括通过磁场发射银原子，并观察收集板上产生的银沉积物。科学家们发现银矿床被整齐地分成两半，这证实了量子现象的存在。这一发现令物理学界感到惊讶，甚至获得了诺贝尔奖提名。然而，科学家们对实验的解释是基于这样的假设：银原子的分裂轨迹是由其最外层电子的轨道定义的，而实际上，这是由于电子的内部角动量（称为自旋）造成的。文章还提到了围绕实验不同解释的争议以及保持叠加态的挑战。]]></description>
+      <guid>https://t.me/hn_summary/62657</guid>
+      <pubDate>Thu, 07 Dec 2023 03:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 宣布正在为个人聊天推出默认的端到端加密 [...]</title>
+      <link>https://t.me/hn_summary/62656</link>
+      <description><![CDATA[在 Messenger 上启动默认端到端加密 
+Facebook 宣布正在为 Messenger 和 Facebook 上的个人聊天和通话推出默认的端到端加密。这意味着对话将更加私密和安全，消息和通话的内容从离开发送者的设备到到达接收者的设备都受到保护。该加密建立在强大的加密原理之上，包括信号协议和 Facebook 自己的迷宫协议。除了此次更新之外，Facebook 还推出了新功能，例如编辑消息的能力、更高的媒体质量、消失的消息和阅读回执控制。全球范围内的部署需要几个月的时间才能完成。]]></description>
+      <guid>https://t.me/hn_summary/62656</guid>
+      <pubDate>Thu, 07 Dec 2023 03:13:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]根据德国媒体 ComputerBase 的测试，Arch L 等 Linux 发行版 [...]</title>
+      <link>https://t.me/hn_summary/62655</link>
+      <description><![CDATA[Windows 11 在 3 个 Linux 游戏发行版的游戏性能测试中垫底&lt; /a&gt;
+根据德国媒体 ComputerBase 的测试，Arch Linux、Nobara Linux 和 Pop!OS 等 Linux 发行版在游戏性能方面优于 Windows 11。 Nobara Linux 成为总体领先者，Arch Linux 和 Pop!OS 紧随其后。虽然 Windows 11 仅落后 Nobara Linux 6%，但 Linux 在为后者设计的游戏中持续优于 Windows 仍然具有重要意义。 Talos Principle II 的差距最大，Windows 的得分仅为 65.1 FPS，而 Nobara Linux 的得分为 71.5 FPS。然而，应该指出的是，Linux 上的平均帧时间通常落后 Windows 高达 20%。 Arch Linux 在 FPS 和帧时间方面的成功也许可以解释 Valve 决定改用它作为 SteamOS 基础的原因。]]></description>
+      <guid>https://t.me/hn_summary/62655</guid>
+      <pubDate>Thu, 07 Dec 2023 02:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者讨论了设计简单性的重要性以及[...]</title>
+      <link>https://t.me/hn_summary/62654</link>
+      <description><![CDATA[简单性
+作者讨论了设计中简单性的重要性以及复杂性的负面影响。他们以 Google 为例，强调 google.com 网页和 Google Web Server (GWS) 配置结构的极其复杂性。作者认为，复杂性是普遍存在的，并且不会得到回报，而简单性需要付出努力，但会带来指数级的好处。他们强调代码、系统和基础设施的简单性，并警告不要添加不必要的功能或重复现有系统。作者警告说，如果复杂性得不到控制，可能会导致一切都陷入停滞的黑色代码。]]></description>
+      <guid>https://t.me/hn_summary/62654</guid>
+      <pubDate>Thu, 07 Dec 2023 02:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Systemd 255 已稳定发布，正好赶上 2024 年上半年 Linux 发行版 [...]</title>
+      <link>https://t.me/hn_summary/62653</link>
+      <description><![CDATA[Systemd 255 发布，Linux 系统出现“蓝屏死机” 
+Systemd 255 已稳定发布，正好赶上了 2024 年上半年 Linux 发行版的发布。此版本的亮点之一是添加了 systemd-bsod，这是一种“蓝屏死机”服务，可在 Linux 系统上全屏显示错误消息。此功能受 macOS 启发，旨在显示启动失败时的紧急日志消息。 systemd-bsod 还包含一个 QR 代码，用于获取有关导致失败的错误的更多信息。 systemd 255 中的其他值得注意的功能包括用于管理锁块设备的新组件、用于生成虚拟机的新工具以及各种改进和弃用。]]></description>
+      <guid>https://t.me/hn_summary/62653</guid>
+      <pubDate>Thu, 07 Dec 2023 02:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者讨论了高级软件工程师维护其 cod 的重要性 [...]</title>
+      <link>https://t.me/hn_summary/62652</link>
+      <description><![CDATA[不会编码的高级工程师
+作者讨论了高级软件工程师保持编码技能的重要性。当他们遇到不会编码的高级工程师时，尤其是在求职面试时，他们会表达惊讶和困惑。作者强调高级工程师需要练习编码才能通过编码面试并掌握最新技术。他们认为，编码对于理解设计、审查项目计划和保持对数字世界的深入理解至关重要。作者还强调了编码对于高水平贡献和设计出色系统的重要性。他们最后指出，对于高级工程师来说，编码仍然应该是一件令人愉快的事情，而不是被视为一件苦差事。]]></description>
+      <guid>https://t.me/hn_summary/62652</guid>
+      <pubDate>Thu, 07 Dec 2023 02:31:23 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]参议员 Ron Wyden 最近的一封信透露，包括 FB 在内的政府 [...]</title>
       <link>https://t.me/hn_summary/62651</link>
@@ -28,62 +84,6 @@
 在《大西洋月刊》网站上题为《屠杀野生动物的被忽视的危险》的文章中，作者本·戈德法布探讨了道路对野生动物和环境的负面影响。戈德法布认为，驾驶是人类最有害的活动之一，给无数野生动物带来巨大的痛苦和死亡。他深入研究了道路生态学的概念，研究道路和交通如何影响植物和动物。戈德法布强调了令人震惊的道路死亡数据、物种的基因隔离以及道路引起的野生动物分子变化。他还讨论了道路对人类的负面影响，例如步行能力下降和压力水平增加。戈德法布强调需要重新考虑道路建设和布局，以尽量减少对野生动物和人类的伤害。本文提供了成功缓解措施的示例，例如野生动物过境点和鼓励放慢车速的道路设计。戈德法布最后倡导一种“道路伦理”，优先考虑与土地及其居民合作，而不是征服他们。文章强调了提高道路生态意识并采取行动减轻其负面影响的重要性。]]></description>
       <guid>https://t.me/hn_summary/62649</guid>
       <pubDate>Thu, 07 Dec 2023 01:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]比特币挖矿作业消耗的水量惊人，超过了每年的 [...]</title>
-      <link>https://t.me/hn_summary/62648</link>
-      <description><![CDATA[去年比特币挖矿用水量比纽约市还多
-比特币挖矿作业消耗的水量惊人，超过了纽约市的年用水量。据估计，仅今年这些作业就将消耗超过 5,910 亿加仑的水。这一令人震惊的统计数据发表在同行评审期刊《Cell Reports Sustainability》上。围绕这个问题的争议在于比特币挖矿对环境的影响，因为它会导致水资源短缺，并对当地水资源造成压力。这凸显了加密货币行业对可持续解决方案的需求。]]></description>
-      <guid>https://t.me/hn_summary/62648</guid>
-      <pubDate>Thu, 07 Dec 2023 01:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQLite 网站上的道德准则最初被称为“行为准则”，但后来被 [...]</title>
-      <link>https://t.me/hn_summary/62647</link>
-      <description><![CDATA[道德准则
-SQLite 网站上的道德准则最初称为“行为准则”，但由于与该术语相关的特定含义而被重命名。该守则以“圣本笃规则”为基础，已使用 1,500 多年。 SQLite 的创始人和所有当前的开发人员都承诺在与彼此、客户以及更大的 SQLite 用户社区的互动中遵循该规则的精神。该守则强调爱上帝、爱邻居、避免伤害他人以及实行自律等原则。它还鼓励帮助穷人、探望病人以及与敌人讲和等行动。]]></description>
-      <guid>https://t.me/hn_summary/62647</guid>
-      <pubDate>Thu, 07 Dec 2023 01:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 卢卡 (Luca) 是一名软件工程师，后来转型为独立制造商，他在 2019 年创办了 5 家成功的初创公司 [...]</title>
-      <link>https://t.me/hn_summary/62646</link>
-      <description><![CDATA[显示 HN：在数小时内推出您的产品
-Luca 是一位软件工程师转型为独立制造商，在过去两年中成功创办了 5 家初创公司，并打算在未来使用 Shipped 推出更多公司。他创建了这个样板，通过为创建登陆页面、添加付款、电子邮件列表、分析和身份验证等任务提供即用型代码和组件，帮助其他人更快地推出产品。通过使用 Shipped，用户可以节省时间，消除理解如何制作东西的困难，并更快地开始在线赚钱。 Twitter 上有超过 16,000 人信任 Luca，用户还可以加入托运人社区。]]></description>
-      <guid>https://t.me/hn_summary/62646</guid>
-      <pubDate>Thu, 07 Dec 2023 01:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>剑桥大学贝内特公共政策研究所的一份新报告显示 [...]</title>
-      <link>https://t.me/hn_summary/62645</link>
-      <description><![CDATA[英格兰各地的服务现在远远落后于东德&lt; br/&gt;
-剑桥大学贝内特公共政策研究所的一份新报告揭示了英格兰的物质和社会基础设施与东德类似地区之间的巨大差距。报告呼吁建立“通用基础设施”（UBI）来解决缺陷并提高生产率。研究发现，德国地区每10万人拥有的医院和药房数量是英国地区的两倍，心理健康中心和继续教育机构的数量也明显增加。自 2014 年以来，英国大部分地区的公共交通、医疗设施、警察局和其他基本服务的可用性都在下降。报告强调，为了经济增长和福祉，需要普及基础设施。]]></description>
-      <guid>https://t.me/hn_summary/62645</guid>
-      <pubDate>Thu, 07 Dec 2023 01:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者讨论了C++中流类在处理时的性能[...]</title>
-      <link>https://t.me/hn_summary/62644</link>
-      <description><![CDATA[对于处理字符串，C++ 中的流可能会很慢 
-作者讨论了C++中流类在处理字符串时的性能。他们提供了使用流解析数字的示例，并强调这不是一个有效的选择。作者随后提到，一些 Node.js 工程师更喜欢使用流类来构建字符串，但他们对其性能优势持怀疑态度。为了测试这一点，作者进行了一项实验，他们使用简单的字符串构造方法和使用流的优化版本将字符串中的“%”字符替换为“%25”。他们发现流版本比简单的字符串处理方法慢四倍，比优化的“查找”方法慢 30 倍。作者的结论是，在 C++ 中使用流可能会导致性能不佳。]]></description>
-      <guid>https://t.me/hn_summary/62644</guid>
-      <pubDate>Thu, 07 Dec 2023 01:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>【媒体】伊朗支持的伊拉克武装分子向美国发射122毫米火箭弹</title>
-      <link>https://t.me/hn_summary/62643</link>
-      <description><![CDATA[伪装成燃油车的火箭发射器在伊拉克发射 
-伊朗支持的伊拉克武装分子使用隐藏在改装加油车内的伪装火箭发射器向美国领导的驻叙利亚联军发射 122 毫米火箭炮。袭击发生在叙利亚鲁马林登陆区，但没有造成人员伤亡或设备损坏。伊朗支持的民兵组织伞式组织伊拉克伊斯兰抵抗运动声称对此次袭击负责。这辆发射车有 20 个发射管，已被伊拉克军队回收。隐藏式火箭发射器多年来一直是伊拉克武装分子使用的一种策略，此次事件凸显了这些隐藏武器所构成的持续威胁。]]></description>
-      <guid>https://t.me/hn_summary/62643</guid>
-      <pubDate>Thu, 07 Dec 2023 01:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>据塞尔维亚预 [...]</title>
-      <link>https://t.me/hn_summary/62642</link>
-      <description><![CDATA[苹果联合创始人史蒂夫·沃兹尼亚克将获得塞尔维亚护照 
-塞尔维亚总统表示，苹果公司联合创始人史蒂夫·沃兹尼亚克将获得塞尔维亚护照。沃兹尼亚克在塞尔维亚议会和地方选举之前抵达塞尔维亚，他表达了对来到塞尔维亚的兴奋，并表示他和妻子现在将宣传这个国家。总统亚历山大·武契奇表示，塞尔维亚很荣幸向沃兹尼亚克和他的妻子颁发护照，并称沃兹尼亚克是一位“计算机天才”，现在是塞尔维亚人。然而，反对党批评了这次访问，指责政府向沃兹尼亚克支付公关露面费用。据报道，沃兹尼亚克的访问是由前塞尔维亚网球运动员扬科·蒂普萨雷维奇安排的。]]></description>
-      <guid>https://t.me/hn_summary/62642</guid>
-      <pubDate>Thu, 07 Dec 2023 01:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
