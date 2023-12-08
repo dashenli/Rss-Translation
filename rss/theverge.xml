@@ -4,130 +4,160 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Dec 2023 21:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 02:19:56 GMT</lastBuildDate>
     <item>
-      <title>Linux 正在遭遇蓝屏死机</title>
-      <link>https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update</link>
+      <title>小岛秀夫调侃神秘 Xbox 游戏 OD</title>
+      <link>https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox</link>
       <description><![CDATA[&lt;图&gt;
       
-图片：微软
+图片：小岛制作公司
 
-Linux 正在出现自己版本的蓝屏死机 (BSOD)。 Phoronix 报告适用于 Linux 系统的最新版本的 systemd 附带了一个 systemd-bsod能够在 Linux 发行版上生成全屏错误消息的服务。
-就像 Windows 中蓝屏死机的起源一样，Linux 版本将用作记录错误的紧急工具。如果 Linux 系统无法启动，它将生成一条全屏消息，其中显示二维码，以获取有关导致启动问题的更多信息。据报道，这是作为 Outreachy 项目的一部分添加的，该项目为人们提供使用开源工具的实习机会。 
-systemd-bsod 功能仍处于实验阶段，GitHub 变更日志指出它仍然可能会发生变化，但 systemd 是大多数 Linux 发行版的核心部分，包括 Ubuntu、Fedora、Debian 和 Red Hat。因此，我们很可能会在 2024 年看到这个 BSOD 功能出现在许多 Linux 发行版中。
-请放心，Windows 端目前没有任何重大 BSOD 更改。多年来，微软尝试了对其 BSOD 进行多项更改，包括在 2012 年的 Windows 8 中在屏幕上添加悲伤的面孔以及 2016 年的 QR 码。 BSOD 短暂变为黑色 在 Microsoft 在 2021 年操作系统发布后不久就恢复了该更改。]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23992512/linux-blue-screen-of-death-bsod-systemd-update</guid>
-      <pubDate>Thu, 07 Dec 2023 20:23:51 GMT</pubDate>
+没有小岛秀夫就没有游戏奖。然而，这一次，导演并没有在场炫耀死亡搁浅 2 - 相反，他展示了一款名为 OD 的新 Xbox 游戏。我们没有看到太多游戏内容，去年就被调侃了，第一个预告片主要只是展示了演员们进行动作捕捉测试。它以“献给所有玩家和尖叫者”的口号结束。
+话虽如此，这款游戏确实拥有强大的演员阵容，包括 Sophia Lillis、Hunter Schafer 和 Udo Kier。乔丹·皮尔也以某种方式参与其中。小岛调侃了参与该项目的其他知名人士，但尚未透露是谁。 OD被描述为游戏和电影的结合体，但这就是我们现在真正知道的。
+我们所知道的是，该游戏是与 Xbox 游戏工作室合作制作的。]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox</guid>
+      <pubDate>Fri, 08 Dec 2023 02:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>有一天，您的电动汽车可能会为您家的空调提供动力</title>
-      <link>https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging</link>
+      <title>奥日与黑暗森林背后的工作室正在制作一款华丽的动作角色扮演游戏</title>
+      <link>https://www.theverge.com/23990860/no-rest-for-the-wicked-trailer-announce-moon-studios</link>
+      <description><![CDATA[&lt;图&gt;
+      
+恶人不得安息。 |图片：Moon Studios
+
+Moon Studios，美丽和难以置信的困难 Ori 游戏，已经宣布了其下一个项目。它被称为“恶人不息”，被描述为“一款成熟、精准的动作角色扮演游戏”。该游戏将于 2024 年初在 PC 上推出抢先体验，并计划随后在 PC、PS5 和 Xbox Series X / S 上完整发布。当然，它看起来绝对令人惊叹。这是有年龄限制的预告片。
+这将是 Moon 在《Ori》系列之外的第一款游戏，听起来非常注重战斗。该工作室在一份新闻稿中表示，“游戏中的战斗是动画驱动的、直接的、触觉的，让熟练的玩家能够将发自内心的打击和致命的动作结合起来。”它还具有最多四名玩家的合作模式，玩家能够“分享他们的世界和进步。”
+
+至于前提，这是游戏发生的幻想世界：
+841 年，王国迎来了一个关键时刻，以国王哈罗尔·博林 (Harol Bolein) 的去世为标志。当权力的和平过渡演变成混乱时，就会出现毁灭性的冲突。除了政治动荡之外，偏远的萨克拉岛上再次出现了致命的瘟疫，扭曲了这片土地及其居民。玩家必须挥舞双臂，在动荡的气氛中平息怪异的野兽和王国的入侵军队，他们被拉向各个方向
+该游戏由 Take-Two 旗下厂牌 Private Division 发行，该公司还与 Pokémon 工作室 Game Freak 在 一款代号为“Project Bloom”的动作冒险游戏。
+至于恶人不息，预计在 3 月 1 日举行的直播活动中提供更多详细信息。]]></description>
+      <guid>https://www.theverge.com/23990860/no-rest-for-the-wicked-trailer-announce-moon-studios</guid>
+      <pubDate>Fri, 08 Dec 2023 01:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>《战神 Ragnarök》本月将获得免费 DLC</title>
+      <link>https://www.theverge.com/23992967/god-of-war-ragnarok-free-dlc-the-game-awards</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：索尼圣莫尼卡工作室
+
+战神诸神黄昏即将推出本月免费 DLC。在游戏颁奖典礼期间，就在奎托斯的配音演员克里斯托弗·贾奇凯旋（但没那么气喘吁吁）重返舞台后不久，索尼圣莫尼卡推出了 2018 年度游戏的新 DLC - 战神诸神黄昏瓦尔哈拉&lt; /em&gt;.
+God of War Ragnarök Valhalla 是一款免费 DLC，将于 12 月 12 日在 PS5 上发布。该 DLC 的背景设定在《战神诸神黄昏》的最后一战之后，克雷多斯老爹和他的 BBF（无身体的好朋友）米米尔将挑战充满怪物的地牢。该游戏将以 Roguelike 元素为特色，奎托斯死后将在瓦哈拉之门外重新醒来，试图再次战胜挑战。 
+“在每次尝试中，您都将学习并适应瓦尔哈拉所提供的挑战，”索尼在其博客上分享。 “你克服的越多，你获得的资源就越多，可以用于影响奎托斯甚至瓦尔哈拉本身的永久升级。”
+死亡对奎托斯来说不应该那么令人畏惧，因为这个人已经死了，下地狱了，而且现在又爆发了几次。
+游戏颁奖典礼主持人 Geoff Keighley 在宣布免费 DLC 后表示，这款免费 DLC 是《战神》开发者送给社区的一份礼物，因为它在几天前就已秘密发布圣诞节，这将是一份很棒的礼物。]]></description>
+      <guid>https://www.theverge.com/23992967/god-of-war-ragnarok-free-dlc-the-game-awards</guid>
+      <pubDate>Fri, 08 Dec 2023 01:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊 Prime 测试每月 9.99 美元的无限杂货配送订阅</title>
+      <link>https://www.theverge.com/2023/12/7/23992777/amazon-prime-unlimited-grocery-delivery-pilot</link>
+      <description><![CDATA[&lt;图&gt;
+      
+亚马逊
+
+亚马逊宣布正在测试为 Prime 会员提供无限杂货配送的订阅模式。每月额外支付 9.99 美元，三个城市的 Prime 会员可以在 Amazon Fresh 和 Whole Foods 订单超过 35 美元时获得无限配送服务。选择加入的人还将获得任意规模订单的 30 分钟无限制提货服务。 
+这是亚马逊对与 沃尔玛、Postmates、Instacart 以及主要杂货连锁店本身。亚马逊全球杂货店高级副总裁托尼·霍格特 (Tony Hoggett) 表示：“我们一直在尝试各种功能，让购物变得更轻松、更快捷、更实惠，我们期待听到会员如何利用此优惠。”周四发表声明。 
+目前，该试点仅限于美国三个城市：科罗拉多州丹佛、加利福尼亚州萨克拉门托和俄亥俄州哥伦布。 9.99 美元的杂货配送订阅费是标准费用之外的额外费用 Amazon Prime 订阅 — 每月费用为 14.99 美元（或每年 139 美元）。 
+
+亚马逊的杂货定价方案曾经非常简单：Prime 会员的所有订单均可免费送货 亚马逊生鲜 和 Whole Foods 超过 35 美元。 2021 年，亚马逊对所有 Whole Foods 订单收取 9.99 美元的送货费，这一决定导致 客户提起诉讼（周四，美国地区法院法官 驳回了原告的所有十一项索赔，但他们将有机会重新提交其中几项索赔的修改版本。）
+1 月，亚马逊 将亚马逊生鲜杂货的免费送货门槛从 35 美元翻了四倍至 150 美元，并对小额订单收取服务费。后来，它向非 Prime 会员开放了杂货配送服务，仍然需要支付单独的服务费。然后，在 10 月份，亚马逊降低了免费杂货送货服务门槛为 100 美元。 
+按月订阅无限制的杂货配送服务可能会吸引 Amazon Fresh 的重度用户，他们的全部或至少大部分杂货购物都依赖该服务。 35 美元的门槛足够低，足以吸引购买次数较少的小家庭或单身人士。但对于不太常使用 Amazon Fresh 的顾客来说，每年额外支付近 120 美元的费用就更难接受了。 
+然而，Whole Foods 客户的情况则不同：相比之下，每月支付 9.99 美元的费用即可无限量地享受 Whole Foods 杂货配送（相对于每个订单 9.99 美元）似乎很划算。
+]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23992777/amazon-prime-unlimited-grocery-delivery-pilot</guid>
+      <pubDate>Fri, 08 Dec 2023 00:57:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌刚刚推出了一款新的人工智能，并且已经承认至少有一个演示不是真实的</title>
+      <link>https://www.theverge.com/2023/12/7/23992737/google-gemini-misrepresentation-ai-accusation</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：谷歌
+
+Google 刚刚发布了 Gemini是迄今为止最强大的人工智能模型套件，该公司已经被指控对其性能撒谎。 
+来自 彭博社 声称 Google 在最近的一次调查中歪曲了 Gemini 的力量视频。 Google 播出了令人印象深刻的“What the quack” 本周早些时候宣布发布时的实践视频，专栏作家 Parmy Olson 表示，视频中的它似乎非常强大 - 也许 有能力。
+这段六分钟的视频展示了 Gemini 的多模式功能（例如，语音对话提示与图像识别相结合）。 Gemini 似乎可以快速识别图像，即使是连点连线的图片，也能在几秒钟内做出响应，并实时跟踪杯赛和球类比赛中的一叠纸。当然，人类可以做到所有这些，但这是一个能够识别和预测接下来会发生什么的人工智能。 
+但是点击 YouTube 上的视频说明，Google 有一个重要的免责声明：
+“出于本演示的目的，延迟已减少，并且为了简洁起见，Gemini 输出也已缩短。”
+这正是 Olson 感到不满的地方。 根据她的彭博社文章，Google 在被要求置评时承认视频演示不是通过语音提示实时进行的，而是使用原始素材中的静态图像帧，然后写出双子座响应的文本提示。 “这与谷歌似乎暗示的完全不同：当 Gemini 观察周围的世界并实时做出反应时，一个人可以与 Gemini 进行流畅的语音对话，”奥尔森写道。
+为了公平对待 Google，公司经常编辑演示视频，尤其是因为许多公司希望避免现场演示带来的任何技术问题。稍微调整一下是很常见的。但谷歌有可疑视频演示的历史。人们想知道 Google 的 Duplex 演示是否还记得（ Duplex，人工智能语音助手，可以打电话给发廊和餐厅进行预订？）是真实的，因为明显缺乏环境噪音和乐于助人的员工。而预先录制的人工智能模型视频往往会让人们更加怀疑。还记得百度推出 Ernie Bot 编辑过的视频及其股价暴跌？
+在这种情况下，奥尔森表示 Google 是在“炫耀”，目的是误导人们，让他们忽视 Gemini 仍然落后于 OpenAI 的 GPT 的事实。 
+Google 不同意。当被问及演示的有效性时，The Verge 指出 Oriol Vinyals 的帖子，谷歌 DeepMind 的研究和深度学习主管副总裁（也是 Gemini 的联合主管），解释了团队如何制作视频。 
+“视频中的所有用户提示和输出都是真实的，为简洁起见进行了缩短，”Vinyals 说。 “该视频展示了使用 Gemini 构建的多模式用户体验是什么样子。我们这样做是为了激励开发人员。” 
+他补充说，团队向 Gemini 提供了图像和文本，并要求它通过预测接下来会发生什么来做出回应。
+这当然是解决这种情况的一种方法，但对于 Google 来说可能不是正确的方法 - 至少在公众眼中，Google 已经被 OpenAI 的巨大影响力打了个措手不及。今年的成功。如果它想激励开发人员，就不能通过精心编辑的、可能歪曲人工智能能力的精彩卷轴。这是通过让记者和开发人员实际体验该产品。让人们在小型公开测试版中与 Gemini 一起做蠢事。向我们展示它到底有多强大。]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23992737/google-gemini-misrepresentation-ai-accusation</guid>
+      <pubDate>Thu, 07 Dec 2023 23:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年游戏大奖：最大新闻、预告片和公告</title>
+      <link>https://www.theverge.com/23981532/the-game-awards-2023-biggest-news-trailers-announcements</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：游戏奖
+
+杰夫·基斯利 (Geoff Keighley) 的年度电子游戏庆典又回来了。 现在是 12 月初，这意味着游戏奖 (The Game Awards) 即将举行，这是由杰夫·基斯利 (Geoff Keighley) 主办的年度电子游戏新闻和奖项盛宴。是的，有一款游戏将被评为年度最佳游戏（就我个人而言，我的选择是《王国之泪》或《心灵杀手 2》），但我们也可以期待更多游戏公告和预告片预览了 2024 年及以后视频游戏行业的未来。
+展会上经常有重大新闻。 2019 年，微软惊喜地宣布了 Xbox Series X&lt; /a&gt;.去年，该节目透露了像装甲核心 VI：卢比孔河之火、地平线禁域西部扩展包、哈迪斯 II 和死亡搁浅 2。可能会有一两个关于意想不到的事情的故事，比如 2022 年的 吹笛子的人和舞台破坏者。
+2023 年游戏大奖将于美国东部时间 12 月 7 日晚上 7:30 拉开帷幕，您可以在 YouTube、Twitch 和 更多。
+]]></description>
+      <guid>https://www.theverge.com/23981532/the-game-awards-2023-biggest-news-trailers-announcements</guid>
+      <pubDate>Thu, 07 Dec 2023 23:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 首席财务官在大规模裁员几天后离职</title>
+      <link>https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+所有Spotify 本周发生裁员，这一定是规模最大的一次。首席财务官保罗·沃格尔 (Paul Vogel) 将于 2024 年 3 月底离开公司。自 2020 年以来，随着公司向播客和有声读物业务扩张，他负责管理公司的资产负债表。
+Spotify 首席执行官 Daniel Ek 表示，做出这一决定是因为 Vogel 不具备帮助公司扩张和满足市场预期所需的经验。公司正在开始寻找继任者。
+“Spotify 在过去两年中开始进行变革，使我们的支出更加符合市场预期，同时为我们不断发现的重大增长机会提供资金。我和保罗谈了很多关于谨慎平衡这两个目标的必要性。随着时间的推移，我们得出的结论是，Spotify 正在进入一个新阶段，需要一位具有不同经验的首席财务官。因此，我们决定分道扬镳，但我非常感谢保罗在全球大流行和前所未有的经济不确定性中为我们的业务扩张提供了稳定的支持。” https://investors.spotify.com/news/news-details/2023/Spotify-Announces-CFO-Transition-March-31-2024/default.aspx&quot;&gt;周四晚上发布的声明。沃格尔没有发表声明。
+在测试了投资者对收购和投资的耐心后，无论好坏，Spotify 都将重点放在创造利润上。其最初的播客业务大部分已关闭，包括本周取消的 两个最负盛名的节目，重量级和被盗。本周，产品、广告、营销和内容领域大约有 1,500 名员工被解雇，占员工总数的 17%。
+Vogel 是 Spotify 的长期员工，于 2016 年加入公司，担任 FP&amp;A、财务和投资者关系主管，然后于 2020 年晋升为首席财务官。在此之前，他曾担任管理人员巴克莱银行 (Barclay&#39;s) 董事和联博 (AllianceBernstein) 高级副总裁。 
+在周四消息传出之前，美国证券交易委员会发布的一份文件显示沃格尔周二行使了 47,859 份股票期权，并以 Spotify 两年来的最高价格之一出售了这些股票。 此次销售价值 938 万美元。沃格尔曾在三月和九月行使期权并出售股票，但这次出售的规模明显大于其他两次。股票出售可能是之前安排的或由股票价格触发的。 Spotify 没有回复澄清股票销售的请求。]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23992712/spotify-cfo-paul-vogel-leaving-layoffs</guid>
+      <pubDate>Thu, 07 Dec 2023 22:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是我们能找到的耳机和无线耳塞的最佳优惠</title>
+      <link>https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23992267/ford-resideo-ev-home-power-partnership-bidirectional-charging</guid>
-      <pubDate>Thu, 07 Dec 2023 19:45:19 GMT</pubDate>
+      <guid>https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats</guid>
+      <pubDate>Thu, 07 Dec 2023 22:32:23 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 上的记事本终于获得字符计数</title>
-      <link>https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements</link>
-      <description><![CDATA[&lt;图&gt;
-      
-它就像 Microsoft Word，但是是记事本。 |图片：微软
-
-近年来，微软一直在逐步改进其 Windows 11 上的内置记事本应用程序，现在，它终于获得了字符数。在 Windows 11 新的金丝雀通道测试版本中，微软在底部添加了字符计数，就像 Microsoft Word 对文档中字数的计数一样。
-“选择文本时，状态栏会显示所选文本和整个文档的字符数，”Microsoft 的 Windows Insider 团队。 “如果未选择任何文本，则会显示整个文档的字符数，确保您始终清楚地了解文档的长度。”
-这是记事本今年一系列更改中的最新添加内容，该应用最近获得了一个新的自动保存选项，可让您关闭它而无需每次都看到弹出的保存提示。 Microsoft 还在记事本中添加了选项卡， a href=&quot;https://www.theverge.com/2021/12/7/22822651/microsoft-windows-11-notepad-redesign-find-replace-insider&quot;&gt;深色模式，甚至还有 &lt; a href=&quot;https://www.theverge.com/tldr/2022/3/24/22994423/windows-11-notepad-app-spin-gear-settings&quot;&gt;虚拟指尖陀螺。
-
-
-图片：微软
-Windows 11 中的新小部件功能。
-
-除了最新 Windows 11 测试版本中记事本的更改之外，操作系统的小部件部分也得到了一些改进。您很快就可以仅显示小部件并隐藏小部件屏幕内出现的新闻和文章的提要。我个人很高兴您能够隐藏它，因为它通常充满了低质量的新闻文章和垃圾，我不想在 Windows 的内置功能中看到这些内容。
-与往常一样，这些功能正在接受测试，微软可能会在这里或那里做出一些更改，但我希望在 2024 年初看到所有 Windows 11 用户都能看到这些更改。]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23992413/microsoft-windows-11-notepad-character-count-widgets-improvements</guid>
-      <pubDate>Thu, 07 Dec 2023 18:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>话题现在有了主题标签</title>
-      <link>https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-标签（基本上是带有变化的主题标签）现已在 Threads 上向全球推出，Instagram 负责人 Adam Mosseri 周四宣布。
-标签的工作方式与 Instagram 和 X（以前称为 Twitter）等平台上的话题标签略有不同。撰写主题帖子时，您可以通过点击 # 符号开始标签，然后输入您的主题。但 Mosseri 表示，您可以输入整个短语（带空格！）并添加特殊字符，而不是仅限于一个单词。但是，每个帖子只能创建一个标签。
-
-
-
-不过，线程上标签的用途与主题标签相同。 “如果您在 Threads 上分享，[标签] 是帮助与对您所讨论的主题感兴趣的人建立联系的好方法，”Mosseri 说。 “对于每个人来说，这是帮助更深入地了解自己兴趣的好方法。” 
-我喜欢 Meta 在这里的实现，甚至是单标签限制，因为这似乎是防止 令人讨厌的标签垃圾邮件。也就是说，我们必须等待，看看用户是否真的采用这些标签，以便它们成为查找某个主题对话的有用方式。 （我希望会有一些关于游戏奖项的标签 当我今晚报道该活动时。）
-Meta 首先开始与澳大利亚用户测试标签11 月。 ]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23992357/threads-hashtags-tags</guid>
-      <pubDate>Thu, 07 Dec 2023 18:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 2023 年家居科技节日礼物指南</title>
-      <link>https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums</link>
+      <title>The Verge 最受欢迎的 25 美元以下节日礼物</title>
+      <link>https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget</link>
       <description><![CDATA[&lt;图&gt;
       
 照片插图由 Amelia Holowaty Krales 和 Cath Virginia / The Verge 拍摄
 
-从变色灯到为您和您的宠物准备晚餐的小工具，以下是我们最喜欢的一些智能家居礼物。 我们的家是我们度过一生大部分时间的地方，所以我们不妨让它们感觉像是一个值得居住的地方。鉴于我们居住的地方会影响我们的情绪和工作效率等方方面面，因此，赠送家居礼物是一项投资，可以大大帮助您所爱的人过上更好的生活。但前提是这是正确的礼物。 
+无论您需要圣诞礼物还是白象礼物，我们都能为几乎所有场合提供物美价廉的礼物创意。 即使通货膨胀有所下降，人们常常感觉以合适的价格找到合适的礼物是一场艰苦的战斗。美元根本不像以前那样有弹性，至少在高端手机和手持设备占主导地位的世界里是这样。幸运的是，如果您发现自己的预算有限，那么您来对地方了。
 
-有些礼物可以将房子变成一个家，而另一些礼物只会增加混乱。值得庆幸的是，我们 The Verge 对智能家居技术了解很多，并且我们收集了一系列可以真正为您所爱之人的生活增添价值的礼物。我们已包含 robovacs，宠物喂食器，以及他们可以编程以代表他们处理日常任务的小工具以及变色灯，受艺术启发的扬声器，以及其他能让他们的家感觉更舒适的物品。我们还收集了一些很酷的礼物，这些礼物不是&#39; t 小工具 — 包括图书、水壶&lt; /a&gt; 和 rose 可以持续长达一年 - 因为，嘿，每个人都需要时不时地从科技中休息一下。 
-
+与前几年一样，我们利用了 The Verge 员工积累的知识，开始在多个类别中寻找最物有所值的产品，从而做出选择只在价格上便宜的礼物。我们的低成本系列包括各种深受喜爱的科技产品，来自 充电线至游戏鼠标到一对有线耳塞——喘息！ — 有不止一种颜色。由于我们中的许多人痴迷的不仅仅是幕后的小玩意，因此我们还提供了一些非科技礼物。毕竟，您永远不知道您的轨道上的谁可能是 想成为地下城大师或一位有抱负的顶级厨师参赛者，拥有竞争优势和一名冷酷无情的皮卡迪洛。
 ]]></description>
-      <guid>https://www.theverge.com/23933231/smart-home-tech-gift-guide-2023-video-doorbells-plugs-robot-vacuums</guid>
-      <pubDate>Thu, 07 Dec 2023 17:55:05 GMT</pubDate>
+      <guid>https://www.theverge.com/23874403/tech-gifts-under-25-best-cheap-ideas-stocking-stuffers-2023-budget</guid>
+      <pubDate>Thu, 07 Dec 2023 22:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>虚假信息研究人员指责 Meta 干预哈佛大学的研究</title>
-      <link>https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23989458/harvard-disinformation-researcher-meta-meddling-joan-donovan</guid>
-      <pubDate>Thu, 07 Dec 2023 17:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以购买的最好的即时相机</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <pubDate>Thu, 07 Dec 2023 17:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Mammoth 应用程序比 Mastodon 更简单</title>
-      <link>https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon</link>
+      <title>一些 Android 手机可以在拨打 911 电话期间自动发送医疗数据</title>
+      <link>https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos</link>
       <description><![CDATA[&lt;图&gt;
       
-新的 Mammoth 应用程序旨在更快地了解 Mastodon。 |图片：猛犸象
+插图由 Alex Castro / The Verge 绘制
 
-Mastodon 最好的事情之一就是可用的应用程序数量众多。 Mastodon 官方应用程序很好，但还有 Ivory、莫娜，Fedilab，冰块、Elk、Mastoot 等。这种开放性是 ActivityPub 支持的社交网络&lt;的整体吸引力的一部分&lt; /a&gt; 生态系统，它已经带来了一些可靠的新想法。 （我个人已经成为一名非常快乐的 Ivory 用户一段时间了。）
-Mammoth 今年早些时候凭借设计精美的 Mastodon 客户端赢得了一些粉丝，然后添加了“For You” feed 使猛犸象更加自动个性化。现在，随着适用于 Mac、iPhone 和 iPad 的 Mammoth 2 的推出，该应用程序正在更深入地进行管理和个性化：它推出了一系列“智能列表”，其中包含好帖子、一组建议的人员和要关注的帐户等等。
-智能列表很像以前的 Twitter 列表：用户按主题、兴趣或其他任何内容来组织人群，其他人可以订阅这些列表。到目前为止，猛犸象已经有几十个——从“太空”和“自然”到“独立网络”和“酷儿科技”——每一个都是由特定的猛犸象用户策划的。过去几天我一直在测试该应用程序，这些列表即使不是惊天动地，也很方便。大多数列表都充满了网站和知名海报，因此它们更像是一个起点，而不是长期解决方案。
-随着时间的推移，Mammoth 联合创始人 Bart Decrem 表示，他希望在人工智能的帮助下，将这种人工策展与更自动化的策展结合起来，甚至可以逐一发布。 “如果我们不使用人工智能来帮助组织和制作智能列表，我会感到有点惊讶，”他说。但他也意识到人工智能会产生更多的人工智能，他不想引入试图操纵系统的机器人或激励人们在帖子中充斥主题标签。 “我认为乳齿象应该代表的是：在一个充满你不知道它从哪里来的东西的世界里，我知道它从哪里来。”
+Google 在 Android 中的个人安全功能在过去一年中得到了扩展，其中包括一项潜在的救生功能，可以当用户拨打 911 时，将关键医疗数据转发给急救人员。 
+该技术的工作原理是发送在“个人安全”应用中输入的有关呼叫者的重要紧急信息（在部分设备上可用，包括最新的 Google Pixel 设备、Nothing Phone 1 等），例如年龄、体重、血型、过敏等等，都可以通过一个名为 RapidSOS 的平台进行查询。超过 15,000 个 911 和现场响应机构接入 RapidSOS，该系统支持中继 自 2020 年以来，来自 iPhone 的医疗 ID 数据。
+如果您通过手机拨打 911，您可能会受伤，或者由于某些其他原因而无法传达您的情况和信息。巴尔的摩市消防局 911 主任 Tenea Reddick 在一份新闻稿中表示：“这些信息可以在调度之前和响应人员到达之前使用。” “它节省了大量时间，因为我们已经知道我们要响应什么以及我们需要什么。”
 
-
-图片：猛犸象
-在 Mastodon 上寻找人类仍然很棘手 - Mammoth 试图简化它。
-
-Decrem 表示，Mammoth 的目标之一仍然是让 Mastodon 的入门变得更容易。随着时间的推移，默认流程已经得到了改进，但选择服务器、注册、寻找人员以及按照您喜欢的方式调整时间线仍然需要大量工作。对于某些人来说这太过分了。 “你需要在一分钟之内为人们提供有趣的内容，”Decrem 说。 “他们必须用它做有趣的事情。”他对 Threads 展示你不关注的人的一些方式很感兴趣，这样可以让你的时间线保持活跃，然后让你可以轻松地关注这些人。
-新应用是免费的，但您也可以每月支付 3 美元或每年 20 美元来购买一些额外的应用图标、抢先体验新内容以及参与 Mammoth 产品路线图。大多数 Decrem 希望这是一种支持你喜欢的东西的方式：“Mastodon 和联邦宇宙的超能力在于它是一个社区，对吧？”为了回馈该社区，Mammoth 还开源了其应用程序，并承诺其构建的所有内容都是透明的。
-Mammoth 不会永远只是 Mastodon 应用程序。例如，Decrem 对 Threads 拥抱 ActivityPub 的可能性感到非常兴奋，并且看到 Mammoth 在很多方面可以比许多用户讨厌的 Threads 算法做得更好。总的来说，他说他认为该应用程序是探索整个联邦宇宙的一种方式，无论是在 Mastodon、Pixelfed 还是其他任何地方。 Mammoth 的工作是策划和个性化所有这些提要，并确保总有好的内容可供滚动。 ]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23991158/mammoth-2-app-mastodon</guid>
-      <pubDate>Thu, 07 Dec 2023 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合训练和日常生活的 Garmin 手表</title>
-      <link>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</guid>
-      <pubDate>Thu, 07 Dec 2023 16:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 支持 4K 的 Chromecast 已恢复网络星期一价格</title>
-      <link>https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/7/23990867/google-pixel-7-pro-chromecast-with-google-tv-4k-ecoflow-delta-pro-deal-sale</guid>
-      <pubDate>Thu, 07 Dec 2023 16:10:20 GMT</pubDate>
+自 2018 年起，Android 和 iPhone 设备已经可以使用 RapidSOS 系统发送位置数据。但在 Android 方面，只有最新的手机（例如 Google Pixels 和其他带有个人安全应用程序的手机）才能代表您发送这些数据（此外，还可以将其显示在锁定屏幕上）。
+选择共享紧急数据可能会有所不同，具体取决于您的设备。您可以通过在“设置”&gt;“紧急求救”中找到它来启用它。安全与紧急情况。从那里，您需要设置“个人安全”应用来启用该功能并利用其他的。您还可以指定更多信息，例如您是否是器官捐赠者以及您的紧急联系信息。
+美国东部时间 2023 年 12 月 7 日下午 6:20 更正：本文的前一版本表示所有运行 Android 12 或更高版本的设备都具有根据 RapidSOS 的博客文章进行了支持 RapidSOS 通信的新更新，该博文是不正确的。据 Google 称，该帖子已更新，指出该功能已于今年早些时候发布，并且仅适用于配备个人安全应用程序的设备。]]></description>
+      <guid>https://www.theverge.com/2023/12/7/23992311/google-android-12-personal-safety-emergency-responder-911-rapidsos</guid>
+      <pubDate>Thu, 07 Dec 2023 21:49:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
