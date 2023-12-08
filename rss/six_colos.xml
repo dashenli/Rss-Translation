@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 08 Dec 2023 15:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 21:22:04 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）音频劫持</title>
+      <link>https://sixcolors.com/sponsor/2023/12/audio-hijack-3/</link>
+      <description><![CDATA[我感谢 Rogue Amoeba 本周赞助六色 (Six Colors) 不可或缺的音频实用程序音频劫持 (Audio Hijack)。它是我最喜欢的 Mac 实用程序之一。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2023/12/audio-hijack-3/</guid>
+      <pubDate>Fri, 08 Dec 2023 19:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 532：哦，我可怜的鼻子！</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-532-oh-my-poor-nose/</link>
@@ -118,13 +125,6 @@
   虽然亚马逊的 Kindle 是明显的领导者，乐天的 Kobo 是明显的挑战者，但 Vivlio 一直在为这两个科技巨头打造一个开放的欧洲替代品。…]]></description>
       <guid>https://sixcolors.com/link/2023/11/personal-this-small-french-company-wants-to-build-the-open-alternative-to-kindle-and-kobo-techcrunch/</guid>
       <pubDate>Thu, 30 Nov 2023 18:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果如何在图书领域与亚马逊抗衡并获胜（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2157617/apple-ebooks-amazon-drm-libby.html</link>
-      <description><![CDATA[在看到苹果本周宣布推广 Apple Books 的年度热门图书以及新的年度回顾功能后，我可能和许多人有同样的想法：“苹果仍然关心销售电子书吗？”… ]]></description>
-      <guid>https://www.macworld.com/article/2157617/apple-ebooks-amazon-drm-libby.html</guid>
-      <pubDate>Thu, 30 Nov 2023 17:52:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
