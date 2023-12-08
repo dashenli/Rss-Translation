@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Thu, 07 Dec 2023 12:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 12:57:34 GMT</lastBuildDate>
+    <item>
+      <title>集体#797</title>
+      <link>https://tympanus.net/codrops/collective/collective-797/</link>
+      <description><![CDATA[不断发展的无限画布 * 奇怪的 HTML 黑客 * 投影 * 带弹出框 API 的 No-JS 汉堡菜单]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-797/</guid>
+      <pubDate>Fri, 08 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 07 天</title>
       <link>https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>前端回顾 2023 – 第 03 天</title>
       <link>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</link>
-      <description><![CDATA[“Frontend Rewind 2023”第 3 天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
+      <description><![CDATA[“Frontend Rewind 2023”第三天正在等待！与我们一起进入新的一天，重温 2023 年的杰出亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/03/frontend-rewind-2023-day-03/</guid>
       <pubDate>Sun, 03 Dec 2023 12:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 02 天</title>
-      <link>https://tympanus.net/codrops/2023/12/02/frontend-rewind-2023-day-02/</link>
-      <description><![CDATA[今天，我们将进入“Frontend Rewind 2023”的第二天！与我们一起回顾 2023 年最引人注目的亮点。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/02/frontend-rewind-2023-day-02/</guid>
-      <pubDate>Sat, 02 Dec 2023 12:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
