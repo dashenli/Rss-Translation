@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 08 Dec 2023 15:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 21:20:58 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 09 天</title>
+      <link>https://tympanus.net/codrops/2023/12/09/frontend-rewind-2023-day-09/</link>
+      <description><![CDATA[请查看我们特别日历的第 9 天，以发现 2023 年以来的更多前端链接和宝贵资源。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/09/frontend-rewind-2023-day-09/</guid>
+      <pubDate>Sat, 09 Dec 2023 17:18:13 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 08 天</title>
       <link>https://tympanus.net/codrops/2023/12/08/frontend-rewind-2023-day-08/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索开发人员脱颖而出并吸引客户的五种关键策略，从加入 Merge 等充满活力的社区到利用持续学习平台等。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/04/5-ways-to-step-up-your-game-as-a-developer-and-reach-more-clients/</guid>
       <pubDate>Mon, 04 Dec 2023 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 04 天</title>
-      <link>https://tympanus.net/codrops/2023/12/04/frontend-rewind-2023-day-04/</link>
-      <description><![CDATA[进入“Frontend Rewind 2023”的第四天！继续探索 2023 年塑造前端的趋势和亮点。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/04/frontend-rewind-2023-day-04/</guid>
-      <pubDate>Mon, 04 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
