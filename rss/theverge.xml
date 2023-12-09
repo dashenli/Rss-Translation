@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Dec 2023 02:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 03:24:06 GMT</lastBuildDate>
+    <item>
+      <title>微软的 Edge Copilot AI 无法真正概括每个 YouTube 视频</title>
+      <link>https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript</guid>
+      <pubDate>Sat, 09 Dec 2023 02:18:18 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟就人工智能法案达成临时协议，为具有里程碑意义的法律铺平道路</title>
       <link>https://www.theverge.com/2023/12/8/23991850/eu-ai-act-artificial-intelligence-regulation-provisional-deal-law-brussels</link>
@@ -20,7 +27,7 @@
 插图：The Verge
 
 Beeper Mini（一款简单的 Android iMessage 解决方案）似乎好得令人难以置信，或者至少是一个短暂的梦想。周五，发布后不到一周 ，当用户突然无法发送和接收蓝色气泡消息时，该应用程序开始遇到技术问题。随着一天的时间，问题变得越来越严重，Beeper subreddit 上的报告堆积起来 。截至周五下午，The Verge 的一些人无法使用 Beeper Mini 激活他们的 Android 电话号码，这清楚地表明苹果已经堵塞了允许该应用程序运行的任何漏洞。
-Beeper Mini 是对 Apple 消息协议进行全面逆向工程的结果。一名16岁的高中生成功地做到了这一点，有一段时间，一切都很顺利。这项努力成为了新应用程序的基础，该应用程序需要每月 2 美元的订阅费。这是我的同事杰克几天前写的：
+Beeper Mini 是对 Apple 消息协议进行全面逆向工程的结果。一名16岁的高中生成功地做到了这一点，有一段时间，一切都很顺利。这项努力成为了新应用程序的基础，新应用程序需要每月 2 美元的订阅费。这是我的同事杰克几天前写的：
 其开发人员弄清楚了如何使用 iMessage 注册电话号码、直接向 Apple 的服务器发送消息，以及如何在应用程序内部将消息发送回您的手机。这是一个棘手的过程，涉及从头到尾解构苹果的消息传递管道。 Beeper 的团队必须弄清楚将消息发送到哪里、消息需要是什么样子，以及如何将它们从云端拉回。米吉科夫斯基说，最难的部分是破解整个系统上苹果的挂锁：检查所连接的设备是否是正品苹果产品。
 Snazzy Labs 的 Quinn Nelson 还制作了一个精彩的视频，涵盖了技术细节。 Beeper 的开发者和用户相信——或者我想是希望——认为苹果屏蔽 Android 应用对苹果来说是一种折磨，因此不值得这么麻烦。显然，这比任何人想象的都要容易。 
 这给 Beeper 的计划带来了巨大的影响；该公司希望将 Beeper Mini 发展成为一款一体化消息应用程序，最终将包含 RCS 和 SMS。 
@@ -30,7 +37,7 @@ Snazzy Labs 的 Quinn Nelson 还制作了一个精彩的视频，涵盖了技术
       <pubDate>Fri, 08 Dec 2023 21:55:21 GMT</pubDate>
     </item>
     <item>
-      <title>这份电子表格揭示了 Spotify 哪些人被裁掉了</title>
+      <title>这份电子表格揭示了 Spotify 被裁的人员</title>
       <link>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</guid>
@@ -151,26 +158,6 @@ Threads 在欧盟推出的延迟是由于Meta 发言人 Christine Pai 描述为�
 ]]></description>
       <guid>https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers</guid>
       <pubDate>Fri, 08 Dec 2023 15:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的人工智能笔记应用程序现已向美国用户开放</title>
-      <link>https://www.theverge.com/2023/12/8/23993441/google-notebooklm-available-gemini-pro</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-NotebookLM 是 Google 实验性的人工智能笔记应用程序，现已在美国广泛使用。它还获得了多项新功能，并且正在“开始”使用 Google 的 Gemini Pro AI 模型“帮助文档理解和推理”，根据该公司的说法&lt; /a&gt;.
-NotebookLM 已经可以执行一些操作，例如总结您导入到应用程序中的文档、提出要点，甚至回答有关您的笔记来源的问题。但现在，谷歌还添加了一种将笔记转换为其他类型文档的方法。选择要包含的所有笔记后，NotebookLM 将自动建议格式，例如大纲或学习指南。不过，Google 指出，您还可以告诉 NotebookLM 将笔记转换为您选择的格式，例如电子邮件、脚本大纲、新闻通讯等。
-
-
-GIF：谷歌
-这是 NotebookLM 如何将一组笔记转换为大纲的方法。
-
-此外，NotebookLM 现在将开始根据您在应用中执行的操作提供建议的操作。举个例子，谷歌表示，如果你正在写笔记，NotebookLM 可能会自动“提供工具来润色或完善你的散文，或者根据你刚刚写的内容从你的来源中建议相关想法。”该应用程序还提供了其他一些方便的功能，包括将 NotebookLM 的有用回复保存为笔记、与其他人分享您的笔记以及在与 NotebookLM 聊天时将其人工智能集中在选定的来源上。
-
-Google 也在扩大 NotebookLM 的一些限制。您现在可以在笔记本中包含最多 20 个来源，每个来源最多 200,000 个单词。 Google 首先推出了 NotebookLM（然后称为“Project Tailwind” ”）在 5 月份的 I/O 大会上制作之前它可供一小群测试人员使用。此次扩展意味着美国 18 岁及以上的所有用户都可以访问该应用程序，并且就在 Google 公布了其 GPT-4 竞争对手 Gemini。]]></description>
-      <guid>https://www.theverge.com/2023/12/8/23993441/google-notebooklm-available-gemini-pro</guid>
-      <pubDate>Fri, 08 Dec 2023 15:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 08 Dec 2023 21:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 03:25:34 GMT</lastBuildDate>
+    <item>
+      <title>《侠盗猎车手VI》预告片发布。 《罪恶都市版邦妮与克莱德》太棒了</title>
+      <link>https://wired.jp/article/grand-theft-auto-6-trailer/</link>
+      <description><![CDATA[Rockstar Games 公开了《侠盗猎车手 VI》的预告片并开设了官方网站。新作的主角是一位名叫露西亚的女主角和一位男搭档。]]></description>
+      <guid>https://wired.jp/article/grand-theft-auto-6-trailer/</guid>
+      <pubDate>Sat, 09 Dec 2023 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌“双子座”参与其中。真正的“生成式AI之战”终于开始了。</title>
+      <link>https://wired.jp/article/google-gemini-generative-ai-boom/</link>
+      <description><![CDATA[谷歌推出了一种新型人工智能模型“Gemini”，对抗 OpenAI 的“ChatGPT”。两家公司都在继续探索超越大规模语言模型 (LLM) 的激进方法来生成文本。]]></description>
+      <guid>https://wired.jp/article/google-gemini-generative-ai-boom/</guid>
+      <pubDate>Fri, 08 Dec 2023 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌 DeepMind 首席执行官表示，未来的人工智能还需要触觉，他宣布了 Gemini</title>
       <link>https://wired.jp/article/google-deepmind-demis-hassabis-gemini-ai/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[英国初创公司 Opsydia 开发了一种使用激光雕刻亚微米钻石的技术。这使得可追溯性不会以任何方式影响石材的质量。未来，预计不仅可以应用于珠宝，还可以应用于量子计算。]]></description>
       <guid>https://wired.jp/article/opsydia-hide-secret-codes-in-diamonds-space-lasers/</guid>
       <pubDate>Sat, 02 Dec 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Z 世代加速放弃匹配应用的原因</title>
-      <link>https://wired.jp/article/end-of-dating-apps/</link>
-      <description><![CDATA[通过 Tinder 等约会应用积累压力的年轻人通过在 Reddit 和 TikTok 上发帖来发泄压力。似乎年轻一代现在普遍对约会应用程序说“不”，但这是为什么呢？]]></description>
-      <guid>https://wired.jp/article/end-of-dating-apps/</guid>
-      <pubDate>Sat, 02 Dec 2023 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI神秘项目“Q*”的真实身份是什么？盘旋的疑虑和焦虑，以及已经出现的暗示</title>
-      <link>https://wired.jp/article/fast-forward-clues-hint-openai-shadowy-q-project/</link>
-      <description><![CDATA[OpenAI 的一个名为“Q*（Q Star）”的秘密项目的存在已成为热门话题。据说有可能用一种强大的新方法解决难题，但到底是什么呢？这是根据新闻报道和专家意见解读的。]]></description>
-      <guid>https://wired.jp/article/fast-forward-clues-hint-openai-shadowy-q-project/</guid>
-      <pubDate>Sat, 02 Dec 2023 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
