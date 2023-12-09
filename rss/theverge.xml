@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Dec 2023 03:24:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 09:21:23 GMT</lastBuildDate>
+    <item>
+      <title>EcoFlow Glacier 评论：太阳能冰箱、冰柜和制冰机</title>
+      <link>https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23987611/ecoflow-glacier-review-ice-maker-refrigerator-freezer-vanlife-boatlife-specs-price</guid>
+      <pubDate>Sat, 09 Dec 2023 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微软的 Edge Copilot AI 无法真正概括每个 YouTube 视频</title>
       <link>https://www.theverge.com/2023/12/8/23994303/microsoft-copilot-ai-edge-video-summary-youtube-transcript</link>
@@ -27,7 +34,7 @@
 插图：The Verge
 
 Beeper Mini（一款简单的 Android iMessage 解决方案）似乎好得令人难以置信，或者至少是一个短暂的梦想。周五，发布后不到一周 ，当用户突然无法发送和接收蓝色气泡消息时，该应用程序开始遇到技术问题。随着一天的时间，问题变得越来越严重，Beeper subreddit 上的报告堆积起来 。截至周五下午，The Verge 的一些人无法使用 Beeper Mini 激活他们的 Android 电话号码，这清楚地表明苹果已经堵塞了允许该应用程序运行的任何漏洞。
-Beeper Mini 是对 Apple 消息协议进行全面逆向工程的结果。一名16岁的高中生成功地做到了这一点，有一段时间，一切都很顺利。这项努力成为了新应用程序的基础，新应用程序需要每月 2 美元的订阅费。这是我的同事杰克几天前写的：
+Beeper Mini 是对 Apple 消息协议进行全面逆向工程的结果。一名16岁的高中生成功地做到了这一点，有一段时间，一切都很顺利。这项努力成为了新应用程序的基础，该应用程序需要每月 2 美元的订阅费。这是我的同事杰克几天前写的：
 其开发人员弄清楚了如何使用 iMessage 注册电话号码、直接向 Apple 的服务器发送消息，以及如何在应用程序内部将消息发送回您的手机。这是一个棘手的过程，涉及从头到尾解构苹果的消息传递管道。 Beeper 的团队必须弄清楚将消息发送到哪里、消息需要是什么样子，以及如何将它们从云端拉回。米吉科夫斯基说，最难的部分是破解整个系统上苹果的挂锁：检查所连接的设备是否是正品苹果产品。
 Snazzy Labs 的 Quinn Nelson 还制作了一个精彩的视频，涵盖了技术细节。 Beeper 的开发者和用户相信——或者我想是希望——认为苹果屏蔽 Android 应用对苹果来说是一种折磨，因此不值得这么麻烦。显然，这比任何人想象的都要容易。 
 这给 Beeper 的计划带来了巨大的影响；该公司希望将 Beeper Mini 发展成为一款一体化消息应用程序，最终将包含 RCS 和 SMS。 
@@ -37,7 +44,7 @@ Snazzy Labs 的 Quinn Nelson 还制作了一个精彩的视频，涵盖了技术
       <pubDate>Fri, 08 Dec 2023 21:55:21 GMT</pubDate>
     </item>
     <item>
-      <title>这份电子表格揭示了 Spotify 被裁的人员</title>
+      <title>这份电子表格揭示了 Spotify 哪些人被裁掉了</title>
       <link>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</guid>
@@ -75,7 +82,7 @@ REKK 在拥有 30,000 名关注者的 Telegram 频道中向购物者宣传其服
 
 再次告别雪佛兰 Bolt EV...。 
 通用汽车证实，通用汽车不会将原来的掀背车 Bolt 引入汽车制造商的 Ultium 平台，而只会将更大的 Bolt EUV 引入在InsideEVs首次报道这一消息之后。此前，通用汽车表示将停止生产 Bolt，但后来确认将在 2025 年将电动汽车复活为 Ultium 车辆。 
-最初的 Bolt EV 是在通用汽车较旧且即将过时的 BEV2 平台上构建的。此后，该汽车制造商已将其下一代电动汽车转向 Ultium 电池架构，包括凯迪拉克 Lyriq、悍马电动汽车和 GMC Sierra EV。雪佛兰正在生产三款 Ultium 电动汽车，包括 Silverado电动汽车，Blazer EV  和Equinox EV.
+最初的 Bolt EV 是在通用汽车较旧且即将过时的 BEV2 平台上构建的。此后，该汽车制造商已将其下一代电动汽车转向 Ultium 电池架构，包括凯迪拉克 Lyriq、悍马电动汽车和 GMC Sierra EV。雪佛兰正在制造三款 Ultium 电动汽车，包括 Silverado电动汽车，Blazer EV  和Equinox EV.
 “我们很高兴看到人们对即将推出的雪佛兰 Bolt 的热情” 
 “我们很高兴看到人们对即将推出的雪佛兰 Bolt 的热情，”雪佛兰公关高级经理科迪·威廉姆斯 (Cody Williams) 在一份声明中表示。 “随着发布日期的临近，我们将分享详细信息。正如我们之前所说，新款 Bolt 将建立在使其今天取得成功的配方之上。”
 Bolt EUV 将于 2025 年加入其中，它比 Bolt EV 稍长，并且具有更多的载货空间。差异非常微小：2022 Bolt EUV 比 Bolt EV 长约 9 英寸，但高度和宽度基本相同。 Bolt EUV 的乘客空间为 97 立方英尺，后排座椅后面的货物空间为 16 立方英尺，而 Bolt EV 的后排座椅后面的乘客空间为 93.9 立方英尺，货物空间为 16.6 立方英尺。 
@@ -138,26 +145,6 @@ Threads 在欧盟推出的延迟是由于Meta 发言人 Christine Pai 描述为�
 ]]></description>
       <guid>https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets</guid>
       <pubDate>Fri, 08 Dec 2023 16:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在菲律宾，“人工智能”快餐店大多只是人类工人</title>
-      <link>https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-人工智能驱动的得来速公司 Presto Automation 将自己描述为“业内最大的劳动力自动化技术提供商之一”，并吹嘘其增加销售额和“节省成本”的能力人类劳动时间。 
-但根据最近提交的文件 与美国证券交易委员会合作，场外员工正在介入并完成 70% 以上的订单。
-尽管该公司的品牌和营销暗示着神奇的驾车技术，但 Presto Automation 在菲律宾等地使用工人，根据彭博社。全国各地的 Carl’s Jr.、Hardee’s、Del Taco 和 Checkers 等快餐店都在使用人工智能得来速技术，有望降低连锁店的劳动力成本并增加收入。 Presto Voice 产品应该使用人工智能来接受客户的得来速订单。 
-有一种人工智能“解决方案”实际上最终成为承包商的模式 
-彭博社报道称，美国证券交易委员会 (SEC) 在今年早些时候通知 Presto Automation，称其正在“就其人工智能技术的某些方面”接受调查。 Presto Automation 没有立即回复评论请求。
-有一种人工智能“解决方案”模式，实际上最终成为在劳动力成本较低的国家工作的承包商——而且人工智能公司通常会努力隐瞒这一事实。 一款名为 Nate 的在线购物应用深受影响者和内容创作者欢迎的公司表示，它使用人工智能自动填写客户的结帐详细信息。但据透露，该公司在大多数情况下雇佣了菲律宾工人来手动完成订单。其他初创公司也有类似的将人力推销为成为“人工智能”。 
-在彭博社较早的一份在 Del Taco 餐厅测试该技术的报告中，该连锁餐厅的一位高管告诉该媒体，Presto 将厨房团队处理订单的时间减少了约 70百分。有趣的！ 
-餐饮业的人工智能实验引领了担心员工可能会被机器人同事取代。但在这种情况下，劳动力的替代根本不取决于人工智能——公司只是需要在其他地方以更便宜的价格雇用劳动力。
-
-]]></description>
-      <guid>https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers</guid>
-      <pubDate>Fri, 08 Dec 2023 15:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

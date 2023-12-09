@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 09 Dec 2023 06:31:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 09:22:46 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 宣布今年第三次裁员。人气旺但生意不成功的原因</title>
+      <link>https://wired.jp/article/spotify-layoffs-music-streaming-future/</link>
+      <description><![CDATA[音乐流媒体服务 Spotify 宣布裁员 17%。这是继一月和六月之后今年第三次裁员。尽管它是世界上最著名的服务，但多年来它一直在努力创造稳定的收入。]]></description>
+      <guid>https://wired.jp/article/spotify-layoffs-music-streaming-future/</guid>
+      <pubDate>Sat, 09 Dec 2023 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《侠盗猎车手VI》预告片发布。 《罪恶都市版邦妮与克莱德》太棒了</title>
       <link>https://wired.jp/article/grand-theft-auto-6-trailer/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenAI 在 11 月宣布推出 GPT，这是一项允许任何人创建自己的自定义聊天机器人的服务。然而，用于创建它的数据可能会暴露给其他人，这与创建者的意图相反。]]></description>
       <guid>https://wired.jp/article/openai-custom-chatbots-gpts-prompt-injection-attacks/</guid>
       <pubDate>Sun, 03 Dec 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用激光在钻石上创建“隐形雕刻”。新技术中隐藏着超越可追溯性的可能性</title>
-      <link>https://wired.jp/article/opsydia-hide-secret-codes-in-diamonds-space-lasers/</link>
-      <description><![CDATA[英国初创公司 Opsydia 开发了一种使用激光雕刻亚微米钻石的技术。这使得可追溯性不会以任何方式影响石材的质量。未来，预计不仅可以应用于珠宝，还可以应用于量子计算。]]></description>
-      <guid>https://wired.jp/article/opsydia-hide-secret-codes-in-diamonds-space-lasers/</guid>
-      <pubDate>Sat, 02 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
