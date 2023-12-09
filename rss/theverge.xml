@@ -4,9 +4,33 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Dec 2023 21:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 02:09:20 GMT</lastBuildDate>
     <item>
-      <title>这份电子表格揭示了 Spotify 被裁的人员</title>
+      <title>欧盟就人工智能法案达成临时协议，为具有里程碑意义的法律铺平道路</title>
+      <link>https://www.theverge.com/2023/12/8/23991850/eu-ai-act-artificial-intelligence-regulation-provisional-deal-law-brussels</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/8/23991850/eu-ai-act-artificial-intelligence-regulation-provisional-deal-law-brussels</guid>
+      <pubDate>Fri, 08 Dec 2023 23:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果似乎找到了阻止 Android 新 iMessage 应用程序的方法</title>
+      <link>https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Beeper Mini（一款简单的 Android iMessage 解决方案）似乎好得令人难以置信，或者至少是一个短暂的梦想。周五，发布后不到一周 ，当用户突然无法发送和接收蓝色气泡消息时，该应用程序开始遇到技术问题。随着一天的时间，问题变得越来越严重，Beeper subreddit 上的报告堆积起来 。截至周五下午，The Verge 的一些人无法使用 Beeper Mini 激活他们的 Android 电话号码，这清楚地表明苹果已经堵塞了允许该应用程序运行的任何漏洞。
+Beeper Mini 是对 Apple 消息协议进行全面逆向工程的结果。一名16岁的高中生成功地做到了这一点，有一段时间，一切都很顺利。这项努力成为了新应用程序的基础，该应用程序需要每月 2 美元的订阅费。这是我的同事杰克几天前写的：
+其开发人员弄清楚了如何使用 iMessage 注册电话号码、直接向 Apple 的服务器发送消息，以及如何在应用程序内部将消息发送回您的手机。这是一个棘手的过程，涉及从头到尾解构苹果的消息传递管道。 Beeper 的团队必须弄清楚将消息发送到哪里、消息需要是什么样子，以及如何将它们从云端拉回。米吉科夫斯基说，最难的部分是破解整个系统上苹果的挂锁：检查所连接的设备是否是正品苹果产品。
+Snazzy Labs 的 Quinn Nelson 还制作了一个精彩的视频，涵盖了技术细节。 Beeper 的开发者和用户相信——或者我想是希望——认为苹果屏蔽 Android 应用对苹果来说是一种折磨，因此不值得这么麻烦。显然，这比任何人想象的都要容易。 
+这给 Beeper 的计划带来了巨大的影响；该公司希望将 Beeper Mini 发展成为一款一体化消息应用程序，最终将包含 RCS 和 SMS。 
+记者联系到 Beeper 首席执行官埃里克·米吉科夫斯基 (Eric Migicovsky) 发表评论，他并未否认苹果已成功屏蔽 Beeper Mini。 “如果是苹果，那么我认为最大的问题是……如果苹果真的关心自己的 iPhone 用户的隐私和安全，他们为什么会停止一项让自己的用户现在可以向 Android 用户发送加密消息的服务，而不是使用不安全的短信？随着 RCS 支持的宣布，苹果显然知道他们在这方面存在一个巨大的漏洞。 Beeper Mini 今天上市了，效果非常好。为什么要强迫 iPhone 用户在 Android 上与朋友聊天时重新发送未加密的短信？”
+之前在 Android 上运行 iMessage 的尝试（例如 Beeper 的原始应用程序）涉及复杂的系统，其中远程 Mac 需要登录用户的 Apple ID。 Nothing，OnePlus 联合创始人 Carl Pei 的初创公司，最近试图带来iMessage 到其最新的手机，但该计划很快就因安全和隐私问题而出轨。 Beeper Mini 方法实际上与苹果自己的服务器进行通信，是迄今为止最令人印象深刻的尝试。但除非该公司能够以某种方式绕过苹果的封锁，否则它只会转瞬即逝。]]></description>
+      <guid>https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app</guid>
+      <pubDate>Fri, 08 Dec 2023 21:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>这份电子表格揭示了 Spotify 哪些人被裁掉了</title>
       <link>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/8/23993923/spotify-layoff-spreadsheet-vogel-ek-apple-ios-mike-baker</guid>
@@ -147,28 +171,6 @@ GIF：谷歌
 Google 也在扩大 NotebookLM 的一些限制。您现在可以在笔记本中包含最多 20 个来源，每个来源最多 200,000 个单词。 Google 首先推出了 NotebookLM（然后称为“Project Tailwind” ”）在 5 月份的 I/O 大会上制作之前它可供一小群测试人员使用。此次扩展意味着美国 18 岁及以上的所有用户都可以访问该应用程序，并且就在 Google 公布了其 GPT-4 竞争对手 Gemini。]]></description>
       <guid>https://www.theverge.com/2023/12/8/23993441/google-notebooklm-available-gemini-pro</guid>
       <pubDate>Fri, 08 Dec 2023 15:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 2023 年儿童节日礼物指南</title>
-      <link>https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets</link>
-      <description><![CDATA[&lt;图&gt;
-      
-照片插图由 Amelia Holowaty Krales 和 Cath Virginia / The Verge 拍摄
-
-让我们帮助您为各种孩子找到各种礼物。 有些孩子可能只是想要一船Robux 适合假期，但说实话，给他们一些更实在的东西或者你们可以一起享受的东西会更令人满意。尽管并非 The Verge 的所有人都是父母，但毫无疑问，我们所有人本质上都是孩子 - 所以让我们帮助您为您的孩子找到合适的礼物，无论他们是幼儿还是困难的孩子 -给青少年留下深刻印象。
-
-像 Apple 入门级 iPad（249.99 美元）这样的小玩意是很受欢迎的礼物，但也可以撤回一个一点并选择一些不插电的东西，例如 合作棋盘游戏（31.99 美元）或 机动 Nerf 冲击波（79.88 美元）。所有这些都适合年龄，还有一些想法，例如基于订阅的家庭相册 ($21)，甚至可以让整个家庭聚集在一起（如果不是物理上的，那么至少以照片的形式）。
-因此，请看看下面由 Verge 认可的精选精选商品，所有这些都将使您在这个假期为您所爱的人购物变得更加简单。 
-]]></description>
-      <guid>https://www.theverge.com/23964428/kids-teens-gifts-unique-ideas-2023-presents-children-tech-gadgets</guid>
-      <pubDate>Fri, 08 Dec 2023 15:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>清理半导体有毒遗产的斗争</title>
-      <link>https://www.theverge.com/23990525/semiconductor-biden-infrastructure-plan-toxic-chemicals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23990525/semiconductor-biden-infrastructure-plan-toxic-chemicals</guid>
-      <pubDate>Fri, 08 Dec 2023 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
