@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sat, 09 Dec 2023 21:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 15:25:42 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 10 天</title>
+      <link>https://tympanus.net/codrops/2023/12/10/frontend-rewind-2023-day-10/</link>
+      <description><![CDATA[探索我们小日历的第 10 天，您可以在其中探索更多 2023 年脱颖而出的精选链接和资源。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/10/frontend-rewind-2023-day-10/</guid>
+      <pubDate>Sun, 10 Dec 2023 13:22:07 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 09 天</title>
       <link>https://tympanus.net/codrops/2023/12/09/frontend-rewind-2023-day-09/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 07 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#53</title>
+      <title>励志网站综述 #53</title>
       <link>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</link>
       <description><![CDATA[发现一系列最近发现的展示卓越设计的网站。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[State of JS 2023 * Shader Plants * Sonic Garbage * 制作字体]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-796/</guid>
       <pubDate>Tue, 05 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为开发者提升游戏水平并吸引更多客户的 5 种方法</title>
-      <link>https://tympanus.net/codrops/2023/12/04/5-ways-to-step-up-your-game-as-a-developer-and-reach-more-clients/</link>
-      <description><![CDATA[探索开发人员脱颖而出并吸引客户的五种关键策略，从加入 Merge 等充满活力的社区到利用持续学习平台等。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/04/5-ways-to-step-up-your-game-as-a-developer-and-reach-more-clients/</guid>
-      <pubDate>Mon, 04 Dec 2023 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
