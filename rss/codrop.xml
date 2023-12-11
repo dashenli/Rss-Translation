@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sun, 10 Dec 2023 15:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 12:59:46 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 11 天</title>
+      <link>https://tympanus.net/codrops/2023/12/11/frontend-rewind-2023-day-11/</link>
+      <description><![CDATA[探索我们特别日历的第 11 天，发现 2023 年的更多前端亮点。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/11/frontend-rewind-2023-day-11/</guid>
+      <pubDate>Mon, 11 Dec 2023 11:10:44 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 10 天</title>
       <link>https://tympanus.net/codrops/2023/12/10/frontend-rewind-2023-day-10/</link>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 07 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #53</title>
+      <title>励志网站综述#53</title>
       <link>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</link>
       <description><![CDATA[发现一系列最近发现的展示卓越设计的网站。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[与我们一起揭开“Frontend Rewind 2023”第 5 天的神秘面纱]]></description>
       <guid>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</guid>
       <pubDate>Tue, 05 Dec 2023 12:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#796</title>
-      <link>https://tympanus.net/codrops/collective/collective-796/</link>
-      <description><![CDATA[State of JS 2023 * Shader Plants * Sonic Garbage * 制作字体]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-796/</guid>
-      <pubDate>Tue, 05 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
