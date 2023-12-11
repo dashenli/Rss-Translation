@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 11 Dec 2023 12:59:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 15:27:28 GMT</lastBuildDate>
+    <item>
+      <title>使用 CRISPR 的基因组编辑疗法已在美国获得批准。为减轻血液疾病症状铺平道路</title>
+      <link>https://wired.jp/article/the-first-crispr-medicine-is-now-approved-in-the-us/</link>
+      <description><![CDATA[镰状细胞病过去只能通过高风险干细胞移植来治疗。一种旨在通过单基因编辑来阻止这种遗传性血液疾病引起的痛苦发作的治疗方法已在美国获得批准。该方法使用基因组编辑技术 CRISPR，并在英国首次获得批准。]]></description>
+      <guid>https://wired.jp/article/the-first-crispr-medicine-is-now-approved-in-the-us/</guid>
+      <pubDate>Mon, 11 Dec 2023 14:46:39 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲原则上同意全面的人工智能法规——新技术带来的风险会被阻止吗？</title>
       <link>https://wired.jp/article/eu-ai-act/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Spotify 宣布今年第三次裁员。人气旺但生意不成功的原因</title>
       <link>https://wired.jp/article/spotify-layoffs-music-streaming-future/</link>
-      <description><![CDATA[音乐流媒体服务 Spotify 宣布裁员 17%。这是继一月和六月之后今年第三次裁员。尽管它是世界上最著名的服务，但多年来它一直在努力创造稳定的收入。]]></description>
+      <description><![CDATA[音乐流媒体服务 Spotify 宣布裁员 17%。这是继一月和六月之后今年第三次裁员。尽管它是世界上最著名的服务，但多年来它一直在努力创造持续的利润。]]></description>
       <guid>https://wired.jp/article/spotify-layoffs-music-streaming-future/</guid>
       <pubDate>Sat, 09 Dec 2023 08:00:00 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>谷歌最新AI模型“Gemini”会超越ChatGPT吗？人工智能开发竞争进一步加剧</title>
       <link>https://wired.jp/article/google-gemini-ai-model-chatgpt/</link>
-      <description><![CDATA[谷歌表示，Bard 聊天机器人中的下一代人工智能模型 Gemini 是迄今为止“最有能力”的人工智能模型。 Gemini 不仅接受文本训练，还接受视频、图像和音频训练，是 Google 期待已久的 ChatGPT 解药。]]></description>
+      <description><![CDATA[谷歌表示，其 Bard 聊天机器人中的下一代人工智能模型 Gemini 是迄今为止“最有能力”的人工智能模型。 Gemini 不仅接受文本训练，还接受视频、图像和音频训练，是 Google 期待已久的 ChatGPT 解药。]]></description>
       <guid>https://wired.jp/article/google-gemini-ai-model-chatgpt/</guid>
       <pubDate>Thu, 07 Dec 2023 05:00:00 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>通过超越西式正确答案和解决问题的城市发展来发酵城市——2023年再生公司奖：城市</title>
       <link>https://wired.jp/article/the-regenerative-company-award-2023-forcities/</link>
-      <description><![CDATA[在城市发展中，重要的是基于城市理论解决问题并创造愿景。然而，要创造一个市民想要居住的城市，也必须考虑他们想要看到的风景。 For Cities 是一家城市体验设计工作室，正试图以“趣味性”为关键词彻底改变城市发展方式。 【入选“2023年再生企业奖”】]]></description>
+      <description><![CDATA[在城市发展中，重要的是基于城市理论解决问题并创造愿景。然而，要创造一个市民想要居住的城市，也需要考虑他们想看到的风景。 For Cities 是一家城市体验设计工作室，正试图以“趣味性”为关键词彻底改变城市发展方式。 【入选“2023年再生企业奖”】]]></description>
       <guid>https://wired.jp/article/the-regenerative-company-award-2023-forcities/</guid>
       <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
     </item>
@@ -101,13 +108,6 @@
       <link>https://wired.jp/article/plaintext-chatgpt-year-of-living-generatively/</link>
       <description><![CDATA[2022 年 11 月，OpenAI 发布了“ChatGPT”，该服务曾被定位为低重要性的服务。然而，这项技术将改变科技行业，并有可能改变人类的未来。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
       <guid>https://wired.jp/article/plaintext-chatgpt-year-of-living-generatively/</guid>
-      <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“索马鲁肽”不仅可以抑制食欲，还可以抑制饮酒的欲望吗？新的可能性开始出现</title>
-      <link>https://wired.jp/article/ozempic-alcohol-drink-less/</link>
-      <description><![CDATA[越来越多的证据表明索马鲁肽（一种 GLP-1 受体激动剂）最初用于治疗糖尿病，但现在用于治疗肥胖症，对于治疗酗酒也有效。据认为，抑制食欲的机制也可以抑制饮酒的欲望。]]></description>
-      <guid>https://wired.jp/article/ozempic-alcohol-drink-less/</guid>
       <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
