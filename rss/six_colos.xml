@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Sat, 09 Dec 2023 03:25:17 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 11 Dec 2023 18:34:37 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）愚蠢的公司做出人工智能承诺。聪明的公司有人工智能政策。</title>
+      <link>https://sixcolors.com/feed-only/2023/12/stupid-companies-make-ai-promises-smart-companies-have-ai-policies-6/</link>
+      <description><![CDATA[似乎每家公司都在争先恐后地在人工智能淘金热中占有一席之地 - 查看克罗格首席执行官承诺将法学硕士带入乳制品行业。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2023/12/stupid-companies-make-ai-promises-smart-companies-have-ai-policies-6/</guid>
+      <pubDate>Mon, 11 Dec 2023 17:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>本周苹果：富人和穷人（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/this-week-in-apple-the-haves-and-the-have-nots/</link>
@@ -116,14 +123,6 @@
       <description><![CDATA[假期也是流媒体高峰期！我们讨论主播的季节性机会，以及您的来信。 [下游+订阅者还可以获得：亚马逊的黑色星期五 NFL 实验、YouTube 和周日门票，以及即将到来的体育/RSN 内爆。]…]]></description>
       <guid>https://sixcolors.com/podcast/2023/11/downstream-58-christmas-is-the-franchise/</guid>
       <pubDate>Fri, 01 Dec 2023 02:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>背面：您应该担心的苹果功能（会员帖子）</title>
-      <link>https://sixcolors.com/member/2023/11/the-back-page-the-apple-features-you-should-be-worried-about/</link>
-      <description><![CDATA[
-如果没有对一项原本无害的功能进行奇怪的关注，就不会是苹果软件更新季节。是的，每个人都对 NameDrop 很不满，因为如果有一件事情是你永远不想与任何人分享的，那就是你的联系方式。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
-      <guid>https://sixcolors.com/member/2023/11/the-back-page-the-apple-features-you-should-be-worried-about/</guid>
-      <pubDate>Thu, 30 Nov 2023 20:41:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,139 +4,136 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Dec 2023 15:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 18:33:16 GMT</lastBuildDate>
+    <item>
+      <title>iOS 17.2 带来新的 Journal 应用程序和空间视频捕获支持</title>
+      <link>https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video</link>
+      <description><![CDATA[&lt;图&gt;
+      
+iPhone 15 Pro 和 Pro Max。 |摄影：Vjeran Pavic / The Verge
+
+Apple 的 iOS 17.2 更新现已适用于最新款 iPhone。此次更新包括Apple 的新日记应用，该应用旨在让您通过从手机上的数据中提取的提示以及 录制空间视频。
+宣布 重返 WWDC六月，日记应用程序是一项以健康和保健为中心的功能，旨在让您反思生活中的小事和大事。尽管当我们在测试版中尝试它时，我们发现它的界面有点基本对于我们自己来说，它的超能力是能够根据您手机的数据识别“时刻”，包括您访问过的位置、您拍摄的照片或您进行的锻炼。然后它可以根据这些时刻提出写作建议。
+还支持录制空间视频，该功能已发布9 月与 iPhone 15 一起发布。它的工作原理是同时录制手机主摄像头和超宽摄像头的镜头以创建 3D 视频。您现在可能很难找到与该片段相关的内容，但它的设计目的是在 明年发布后即将推出的 Vision Pro 耳机。
+iOS 17.2 候选版本中提供的其他功能包括设置 iPhone 15 Pro 的操作按钮来翻译​​短语的功能、新的天气小部件以及消息应用程序的新功能（包括方便的按钮） -向上按钮可快速跳转到对话中的第一条未读消息。此更新还添加了 Qi2 支持iPhone 13 和 14 以及外观 更快的 15W 无线充电，无需 MagSafe 品牌充电器。
+iOS 17.2 适用于与 iOS 17 相同系列的 iPhone 型号。其中包括自 2018 年开始的旗舰 iPhone XS、XS Max 和 XR 以及第二代和第三代 iPhone SE。要下载它，请进入“设置”应用程序，然后点击“常规”、“软件更新”，然后按照说明进行安装。这些更新的推出有时可能会错开，因此您可能需要等待“设置”应用上出现通知图标才能知道它适用于您的设备。]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video</guid>
+      <pubDate>Mon, 11 Dec 2023 18:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beeper 的 Android iMessage 应用程序又回来了——但只是降级</title>
+      <link>https://www.theverge.com/2023/12/11/23997097/beeper-mini-android-imessage-app-working-again</link>
+      <description><![CDATA[&lt;图&gt;
+      Apple 与 Beeper 之间的对峙又进入了新一轮。 Apple 成功屏蔽 Beeper Mini 几天后 Beeper 表示，从在 Android 上无缝发送和接收 iMessage 开始，该应用程序已经重新启动并运行了。 
+看，Beeper Mini 这次的工作方式略有不同：您现在必须使用 Apple ID 登录，而之前它会通过您的电话号码自动将您注册到 iMessage。 Beeper 表示，它正在修复问题，以恢复 iMessage 中的电话号码注册，但在此之前，你的朋友将无法直接向你的电话号码发送 iMessage。相反，蓝色气泡必须往返于您的电子邮件地址。这虽然不太方便，但归根结底，它仍然是 iMessage。
+另一个变化是，由于与苹果之间可能升级为猫捉老鼠的游戏，目前 Beeper Mini 将免费使用。该公司写道：“事情有点混乱，我们不愿意让付费用户受到这种影响。”在今天的一篇博客文章中介绍了此次更新。该应用程序最初需要每月 2 美元的订阅费。苹果周五的声明明确表示，它将毫不犹豫地停止进一步欺骗其服务器，让其相信 Android 手机是正品苹果设备的尝试。 
+Beeper 也在回应 Apple 的初步声明 其应用程序基于 iMessage 协议的逆向工程，对用户隐私和安全存在潜在风险。该公司写道：“我们强烈反对这一指控，”并且愿意“与双方同意的第三方安全研究公司”分享 Beeper Mini 的整个代码库，以分析该应用程序是否存在任何问题。
+当然，这并不是苹果真正的问题：iMessage 是苹果运营的一项服务，它是 iPhone 和该公司其他硬件的密钥锁定机制和增值功能。 Apple 并不担心 Beeper 的安全性，但 iMessage 却非常担心。也就是说，苹果阻止 Beeper Mini 的努力已经引起了美国政界人士的关注，并重新引发了对该公司发布官方授权的 Android iMessage 应用程序的呼声。]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23997097/beeper-mini-android-imessage-app-working-again</guid>
+      <pubDate>Mon, 11 Dec 2023 18:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 严重中断意味着帖子和评论可能无法加载</title>
+      <link>https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+Reddit 正在经历一次重大中断，根据情况，帖子和评论将无法加载。
+我观察到一些不同的问题。退出后，我根本看不到任何帖子或评论；我只会在 Reddit 搜索栏下收到一条错误消息或一个空白页面。当登录的帐户不属于旧版 Reddit 布局时，帖子会加载到主页上，但当我从主页点击帖子时，评论不会加载。 （使用该帐户时，帖子也不会加载到特定的 subreddits 中。）奇怪的是，在我的桌面浏览器上使用旧 Reddit 布局的帐户上，我能够正常浏览该平台。
+Reddit 于东部时间中午 12:47 确认帖子中存在问题。 “我们正在调查导致我们的许多网络和移动平台无法使用的问题，”该公司在其状态网站上写道 。 “响应人员正在努力恢复服务。”美国东部时间下午 1:22，该公司表示“已发现问题，我们正在恢复服务”。自从我第一次发表这篇文章以来，事情已经开始有所改善；我通常会看到帖子上的评论，注销后，页面通常也会按预期加载。
+该公司没有立即回复置评请求。
+ /p&gt;
+美国东部时间 12 月 11 日下午 1:25 更新：添加了来自 Reddit 的新信息。]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23997108/reddit-outage-posts-comments-not-loading</guid>
+      <pubDate>Mon, 11 Dec 2023 17:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic 诉 Google：我们在《堡垒之夜》法庭上现场了解到的一切</title>
+      <link>https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates</link>
+      <description><![CDATA[&lt;图&gt;
+      
+照片插图由 Cath Virginia / The Verge 提供 |照片由菲利普·帕切科、彭博社、盖蒂图片社拍摄
+
+在针对苹果和 iOS 的案件的重述中，Epic 旨在消除可能会给应用程序制造商带来更高费用的障碍，并且谷歌认为，要保持 Android 的安全和竞争力。 《堡垒之夜》发行商 Epic Games 提起的诉讼，让 Google 应用商店的未来岌岌可危。在围绕应用内购买费用展开争执后，Epic 于 2020 年起诉谷歌，声称 Android 操作系统的 Google Play 商店构成非法垄断。它希望谷歌能够更轻松地使用第三方应用商店、侧载应用程序和非谷歌支付处理器，而谷歌表示，它的要求将损害 Android 提供安全用户体验并与苹果 iOS 竞争的能力。
+此案的法庭审理之路漫长，距离 2021 年针对 Apple 的类似审判很久之后才到达法庭。请关注此处的最新动态。]]></description>
+      <guid>https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates</guid>
+      <pubDate>Mon, 11 Dec 2023 17:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Embracer 事件的持续，TimeSplitters 工作室 Free Radical Design 似乎已关闭</title>
+      <link>https://www.theverge.com/2023/12/11/23981094/timesplitters-studio-free-radical-design-shuts-down</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23981094/timesplitters-studio-free-radical-design-shuts-down</guid>
+      <pubDate>Mon, 11 Dec 2023 17:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克解除了对阴谋论者亚历克斯·琼斯的禁令，并在 X 上主持了对他的采访</title>
+      <link>https://www.theverge.com/2023/12/11/23996605/elon-musk-alex-jones-unban-x-twitter-conspiracy-theory</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23996605/elon-musk-alex-jones-unban-x-twitter-conspiracy-theory</guid>
+      <pubDate>Mon, 11 Dec 2023 16:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 选择网球和拉斐尔·纳达尔作为其下一场体育赛事直播</title>
+      <link>https://www.theverge.com/2023/12/11/23996783/netflix-tennis-rafael-nadal-live-sports-stream</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Nick Barclay / The Verge 绘制
+
+Netflix 正在计划另一场直播体育赛事，这一次是一场网球比赛，由资深网球运动员拉斐尔·纳达尔 (Rafael Nadal) 对阵目前世界排名第二的卡洛斯·阿尔卡拉斯 (Carlos Alcaraz)。
+主播将此次活动称为 Netflix Slam，将于 2024 年 3 月 3 日在拉斯维加斯曼德勒海湾度假村和赌场的 Michelob Ultra Arena 播出。虽然西班牙网球冠军纳达尔和阿尔卡拉斯似乎将成为这场比赛的主角，但 Netflix 表示将在晚些时候宣布“其他选手和对决”。该直播将以双播形式向英语和西班牙语市场播出。
+
+
+图片：Netflix
+
+Netflix 托管了 上个月举办了首场现场体育赛事，将《Drive to Survive》系列纪录片中的一级方程式赛车手与《Full Swing》中的职业高尔夫球手配对。有一些流媒体期间出现音频和帧速率问题，但没有崩溃。
+尽管 Netflix 继续涉足体育直播领域，但该流媒体似乎不会很快获得季节性比赛的转播权。 Netflix 联合首席执行官泰德·萨兰多斯 7 月表示，该公司将坚持“体育相关节目”，传言表明 Netflix 对体育节目感兴趣 NBA 的季内锦标赛可能与一部纪录片有关。如果属实，那么利润丰厚的现场体育赛事就 其 竞争对手。
+（披露：Vox Media Studios 制作了Full Swing，The Verge 最近与 Netflix 合作制作了一部剧集。）]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23996783/netflix-tennis-rafael-nadal-live-sports-stream</guid>
+      <pubDate>Mon, 11 Dec 2023 16:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>AV 行业向 Pete Buttigieg 发出求救信号</title>
+      <link>https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+自动驾驶汽车行业陷入困境，正在向一个不太可能的来源寻求帮助：美国交通部长皮特·布蒂吉格 (Pete Buttigieg)。 
+游说团体联盟上周向布蒂吉格致信，恳求他支持自动驾驶汽车的开发，否则就有被中国超越的风险。当然，潜台词是通用汽车子公司 Cruise 面临的危机，该危机us-nationwide&quot;&gt;最近在发生事故后停飞了其机队涉及其中一辆无人驾驶汽车。
+这封信没有提及 Cruise 的情况，而是重点关注来自中国迫在眉睫的竞争威胁。签署方包括自动驾驶汽车行业协会，代表 Cruise、Waymo、Zoox、Motional 等公司，以及为汽车行业游说的美国商会和汽车创新联盟。 
+
+“该部门对自动驾驶汽车发展的支持对于保持我们国家的竞争优势和确保我们作为全球领导者的地位至关重要，”这些组织写道。 “美国正处于自动驾驶竞赛的关键时刻，中国等国家正在积极投资和推进技术。”
+自动驾驶汽车比人类驾驶员更安全，“因为它们消除了疲劳驾驶、受损驾驶和分心驾驶等人为错误，”该组织表示。 “大幅改善道路安全的需求从未如此迫切，我们需要采取‘综合策略’，其中包括自动驾驶汽车以及其他安全措施。”
+联邦政府在监管自动驾驶汽车方面基本上处于次要地位，让各州制定自己的安全部署规则手册。将会大幅增加道路上自动驾驶汽车数量的立法已经一种名为AV STEP&lt;的潜在权宜解决方案/a&gt; 是美国国家公路交通安全管理局今年早些时候提出的。该计划可以允许该机构授权更多没有传统控制装置（如踏板和方向盘）的车辆，而无需达到年度豁免数量上限。 AV 行业在信中恳请 Buttigieg 启动 AV STEP 的规则制定流程。 
+NHTSA 曾表示将于秋季启动 AV STEP 的规则制定流程，但似乎已经错过了最后期限。美国交通部发言人没有回应置评请求。 
+Cruise 的情况已曝光 与 AV 的严重信任问题。加州监管机构指控 Cruise 隐瞒了其无人驾驶汽车在肇事逃逸事件后拖拽行人的视频片段。 （克鲁斯否认了这一点。）通用汽车首席执行官玛丽·巴拉 很难想象在公众对自动驾驶汽车的舆论似乎正在恶化之际，布蒂吉格或 NHTSA 会继续拥抱自动驾驶汽车。 NHTSA 已对 Cruise 事件展开调查，布蒂吉格公开表示，政府需要确保自动驾驶汽车在大规模部署之前是安全的。 ]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23996729/autonomous-vehicle-industry-letter-pete-buttigieg-cruise</guid>
+      <pubDate>Mon, 11 Dec 2023 16:17:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果可能很快就会向在 Atmos 中提供音乐的艺术家支付更多费用</title>
+      <link>https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+当今大多数最热门的音乐发行版都已经配备了杜比全景声 (Dolby Atmos) 混音以及传统立体声版本，但苹果显然决心进一步提高该格式的采用率。 彭博社今天报道，该公司计划为提供 Atmos 混音的歌曲赋予“额外权重”；这可能会增加艺术家从 Apple Music 获得的版税。有趣的是，报告指出“听众不一定要播放歌曲的 Atmos 版本才能让艺术家受益。重要的是歌曲以这种格式提供。”
+Apple 尚未宣布权重变化。但随着越来越多的艺术家和工作室像发条一样制作出空间音频混合，作为帮助 Atmos 真正进入主流的下一个逻辑步骤，这将非常有意义。
+在 Atmos 中混合歌曲的工具在整个行业中越来越流行；几周前，我和 Nilay 参观了 Republic Records 的纽约工作室，Ken “Duro” Ifill 在那里展示了 Atmos 的制作流程。一些早期的 Atmos 音乐混音效果不佳，而且过于分散，但随着工程师不断了解哪些有效、哪些无效，在过去几年中，整体质量已经大幅提升。他们仍然可能会受到打击或错过，但事情正在朝着正确的方向发展。
+Apple 在其 AirPods、iPhone、iPad、Mac、Apple TV 和 HomePod 设备上支持该格式。包括亚马逊和 Sonos 在内的其他科技公司也提供了针对 Atmos 优化的扬声器，分别包括 Echo Studio 和 Era 300，旨在展示该格式的沉浸感。空间音频仍然是越来越多的耳塞/耳机进入市场的卖点。 
+Spotify，领先的订阅音乐服务，仍然不支持任何类型的空间音频聆听 - 该公司也没有兑现其迟来的承诺以无损质量进行流媒体播放。但有传言表明，这两项功能可能会出现在新的订阅层中 价格高于 Spotify 当前的 Premium 产品。对于苹果最大的竞争对手来说，这是一个充满挑战的时期：上周 Spotify 宣布大规模裁员，版权费结构的改变而受到批评.
+苹果可能在所有的剧变中感觉到了一个机会，而这种让 Atmos 对艺术家更具吸引力的尝试可能有助于提高该公司在艺术家和出版商中的地位。当然，消费者的情况则不同，苹果仍然没有&#39;与 Spotify 的重大文化时刻相差甚远就像 Spotify Wrapped。 ]]></description>
+      <guid>https://www.theverge.com/2023/12/11/23996735/apple-music-spatial-audio-atmos-higher-royalties</guid>
+      <pubDate>Mon, 11 Dec 2023 16:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>Sonos Era 100 回到黑色星期五最优惠价格 199 美元</title>
       <link>https://www.theverge.com/2023/12/11/23994645/sonos-era-100-zelda-call-of-duty-google-pixel-tablet-deal-sale</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/11/23994645/sonos-era-100-zelda-call-of-duty-google-pixel-tablet-deal-sale</guid>
       <pubDate>Mon, 11 Dec 2023 15:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您想使用手机的数字钥匙来驾驶汽车，请查找此徽标</title>
-      <link>https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：宝马
-
-随着数字钥匙的使用变得更加广泛&lt; /a&gt; 在车主中，汽车和手机制造商组成的联盟正在努力确保人们可以相信这项新技术是安全的，并且始终可以在多种设备上运行。 
-汽车连接联盟 (CCC) 是一个行业组织，成员包括福特、通用汽车、宝马、本田、现代和梅赛德斯-奔驰等大多数主要汽车公司，以及苹果、苹果等手机制造商。三星、小米。该联盟宣布了一项针对使用近场通信 (NFC) 的数字钥匙的新认证计划。配备 NFC 的手机必须轻触汽车门把手才能解锁，而不能使用钥匙或钥匙扣。
-“产品和服务的全球兼容性，可提供无缝体验......无论汽车或设备如何。” 
-该组织表示，CCC 数字钥匙认证旨在建立“产品和服务的全球兼容性，以实现无缝体验……无论是汽车还是设备”。通过这种方式，消费者可以放心，即使他们更换新手机或新车，该技术也将始终有效。 
-汽车和设备制造商将其产品提交给 CCC 进行测试，以确保其满足安全、安保和互操作性方面的所有标准。如果通过，他们将收到证书，并且该组织的徽标可用于营销材料中，以确保消费者该设备符合 CCC 的所有数字密钥标准。 
-
-
-
-“CCC 数字钥匙认证是我们实现通用标准所需的关键部分，”汽车连接联盟技术总监 Glen Stone 在一份声明中表示。 “该认证不仅增强了 CCC 数字密钥产品的可信度，而且还验证了该产品将与生态系统中的其他 CCC 数字密钥解决方案无缝协作。”
-
-该认证仅适用于使用 NFC 技术的设备。 CCC 刚刚成立了一个工作组， FiRa 联盟，一个支持超宽带 (UWB) 的非营利组织，成员包括 Apple、Google、Cisco、Samsung、Qualcomm 等。通过这一过程，两个团队希望开发 UWB 以及低功耗蓝牙 (BLE) 的认证流程。 
-与 NFC 不同，UWB 和 BLE 允许被动进入和启动，这意味着用户无需点击即可解锁，并且可以在更远的距离内使用设备。这意味着您可以将手机放在口袋中来解锁和启动汽车 - 就像一些现代的钥匙扣和钥匙卡一样。大多数现代智能手机都配备了这三种技术。 ]]></description>
-      <guid>https://www.theverge.com/2023/12/11/23994023/digital-key-nfc-certification-car-connectivity-consortium</guid>
-      <pubDate>Mon, 11 Dec 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Messages 可能会允许您在发送短信后对其进行编辑</title>
-      <link>https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code</link>
-      <description><![CDATA[&lt;图&gt;
-      根据 TheSpAndroid 发现的代码。对该功能的引用首次出现在 11 月 19 日的应用程序测试版中，并且有四个标志似乎引用了该功能，但据报道尝试启用它们并没有执行任何操作。
-随着其他消息应用程序中对编辑消息的支持变得越来越普遍，该功能正在开发中的证据已经出现。苹果去年在 iOS 16 中为 iMessage 用户添加了编辑已发送消息的选项，以及 WhatsApp 在 2023 年初发布了类似的功能。在这两种情况下，您编辑已发送消息的时间都是有限的——iMessage 为 2 分钟，WhatsApp 为 15 分钟。这两项服务还允许您在消息发送后将其删除，但 Google 版本的情况似乎并非如此。
-
-Google 的代表没有立即回复 The Verge 的置评请求，目前还不清楚该公司自己实施的该功能最终如何发挥作用。例如，我们不知道编辑消息是否有时间限制，或者收件人是否能够看到编辑历史记录。但 TheSpAndroid 发现的一个代码片段表明该功能将与 RCS 消息传递协议：“original_rcs_messages_id。”
-]]></description>
-      <guid>https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code</guid>
-      <pubDate>Mon, 11 Dec 2023 13:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦贸易委员会警告说，对二维码持怀疑态度</title>
-      <link>https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing</link>
-      <description><![CDATA[&lt;图&gt;
-      联邦贸易委员会 (FTC) 警告公众不要扫描 上周消费者警报博客。当然，警告归结为安全和隐私——不良行为者可以将二维码放在不显眼的地方，或者通过短信或电子邮件发送，然后就坐等发薪日以金钱、登录名或其他敏感信息的形式出现。 
-纽约时报 &lt;据报道，网络安全公司 Trellix 威胁情报负责人约翰·福克 (John Fokker) 表示，仅今年第三季度，Trellix 就发现了超过“60,000 个二维码攻击样本”。 《泰晤士报》写道，最流行的诈骗包括工资和人力资源人员冒充者以及邮政诈骗等。去年年初，德克萨斯州几个城市的警方表示，他们发现欺诈性二维码放置在停车计时器上，引导人们前往虚假支付网站。 
-
-为了避免成为不良代码的受害者，FTC 建议忽略意外的电子邮件或其他您没有预料到的带有某种紧急请求的消息。扫描时最好检查屏幕上显示的 URL，以确保它是您信任的网站。话又说回来，即使是合法的二维码也可能会显示出乱码且无意义的缩短网址，因此如果您知道要访问哪个网站，最好直接访问该网站。 
-委员会还建议您更新设备并确保您拥有良好、强的密码以及针对敏感帐户的多重身份验证。如果您不确定如何执行第二部分，请查看我们的两个-因素身份验证指南，其中包含几个最受欢迎的网站和服务的说明。
-除了 FTC 的建议之外，您还可以采取其他措施。首先，不要下载二维码扫描应用程序——Android 和 iOS 的内置相机应用程序已经做到了这一点，而且有时应用程序本身也可以用于邪恶目的。联邦调查局 在 9 月份发布的类似博客中也有一个建议列表，但在一般来说，如果您不确定某个代码，请不要扫描它。 
-]]></description>
-      <guid>https://www.theverge.com/2023/12/10/23995954/qr-code-scam-ftc-warning-phishing</guid>
-      <pubDate>Sun, 10 Dec 2023 23:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果明年的 iPad 计划可能不会那么混乱</title>
-      <link>https://www.theverge.com/2023/12/10/23995488/apple-ipad-lineup-air-12-9-pro-13-pencil-magic-keyboard</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Nick Barclay / The Verge 绘制
-
-据报道，苹果公司明年将做出一些改变，希望能让人们更轻松地根据自己的需求选择特定的 iPad。例如，彭博社记者Mark Gurman 今天在他的《Power On》时事通讯中写道除了更大的第二个型号之外，下一代 iPad Air 还将配备 M2 芯片 这是传闻。
-据报道，苹果解决这一问题的其他方法之一是放弃自去年推出价格更高的第 10 代 iPad 重新设计以来一直在产品阵容中徘徊的第 9 代型号。古尔曼表示，将第 9 代 iPad 淘汰将使该公司“慢慢淘汰一些旧款铅笔”。据推测，2015 年的 Apple Pencil 将是第一个上市的，因为没有 Lightning 端口的 iPad 可以笨拙地插入它。
-
-古尔曼 预计 3 月将推出新款 11 英寸和 12.9 英寸 iPad Air，这将使苹果在两年内保持中端水平升级周期。他今天的报告称，Air 将采用 M2 芯片，而 Pro 型号将采用 M3 芯片，这将坚定地将 Air one 处理器一代抛在后面。但这并不意味着 iPad Air 会因此受到影响，也不意味着苹果应该为其配备 M3 芯片。除非 iPadOS 的功能发生任何重大变化，将 iPad 变成实用的笔记本电脑替代品，以执行更多样化和计算密集型任务，否则 OLED 屏幕传闻 iPad Pro 对于大多数人来说将是一个比苹果芯片更大的差异化因素。&lt; /p&gt;
-Gurman 还写道，新款 12.9 英寸 Air 将使用与 iPad Pro 相同的妙控键盘。如果这是真的，那么苹果为下一代 iPad Air 机型提供类似 iPad Pro 的相机阵列就有意义了。毕竟，我怀疑我们已经进入了另一个维度，在这个维度中，看到 Air 的单个微小圆形摄像头上有一个带有大方形摄像头孔的键盘盒，不会让公司发疯。
-这些对苹果来说是很好的举措，即使这些更新并不能完全解决 iPad 的尴尬局面。今天的 iPad 彼此之间差异太大了。如果某些其他功能（例如屏幕尺寸）相同或至少足够接近，那么根据电源需求和硬件功能进行选择就会容易得多。但如果你真的想要一台大平板电脑，并且不关心高刷新率或高对比度显示屏，那么只有 iPad Pro 提供它会很烦人 - 更大的 Air 解决了这个问题。现在，如果该公司能够纠正iPad配件情况。 
-]]></description>
-      <guid>https://www.theverge.com/2023/12/10/23995488/apple-ipad-lineup-air-12-9-pro-13-pencil-magic-keyboard</guid>
-      <pubDate>Sun, 10 Dec 2023 16:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌终于给 ChatGPT 一些竞争</title>
-      <link>https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter</guid>
-      <pubDate>Sun, 10 Dec 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果回应 Beeper iMessage 事件：“我们已采取措施保护用户”</title>
-      <link>https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement</guid>
-      <pubDate>Sun, 10 Dec 2023 01:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果发生车祸，特斯拉将能够自动拨打 911</title>
-      <link>https://www.theverge.com/2023/12/9/23994910/tesla-2023-holiday-update-apple-podcasts-911-calling</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-特斯拉将于下周发布 2023 年假期更新，其中包含一些重大变化，其中包括如果汽车安全气囊在碰撞中展开，特斯拉将自动拨打 911。周四，公司宣布更新将于下周推出，并强调了其他即将推出的功能，例如 Apple 播客支持、后屏蓝牙耳机支持、具有 3D 视觉效果的停车辅助系统更新版本以及新的盲点指示器。
-Apple Podcast 支持加入了 Apple Music，这是特斯拉去年添加的。  不是特斯拉应用程序昨天报道特斯拉车主可以将播客与苹果设备同步。该网站添加了有关更新 2023.44.25 的其他详细信息；例如，特斯拉车主不需要为他们想要使用的每个灯光秀准备一个单独的 USB 记忆棒 - 现在，电动汽车将能够从单个存储驱动器中读取所有这些内容。该网站还写道，虽然更新将在 Tesla 应用程序的 Live Sentry 视图中添加 B 柱摄像头，但摄像头不会记录行车记录仪和哨兵模式事件。 
-
-
-2023 年假期更新将于下周推出 以下是即将推出的内容...自定义锁定声音用另一种声音替换车辆的喇叭锁声音，例如尖叫的山羊车轮上的局域网派对在后触摸屏上玩您最喜欢的游戏后屏幕蓝牙… pic.twitter.com/Xl2Q6YgS2b——特斯拉 (@Tesla) 2023 年 12 月 8 日
-
-
-盲点指示器的视频发布者不是 Tesla 应用 显示了当汽车检测到另一辆车时，变道摄像头的视频中如何显示红光：
-
-
-特斯拉在今年假期更新中的盲点警告 pic.twitter. com/kCXj9tP5cM— 不是 Tesla 应用程序 (@NotATeslaApp) 2023 年 12 月 7 日
-
-
-在有人在 X（以前称为 Twitter）上投诉后，特斯拉宣布了额外功能，泄密事件显示该更新“很糟糕”，特斯拉首席执行官埃隆马斯克回复说，“我们需要加强我们的比赛。”过去的假期更新带来了重大功能。去年，除了 Apple Music 之外，该公司还添加了 Steam 集成（尽管不适用于大家），以及前一年，TikTok 和刺猬索尼克。
-今年的新游戏更新包括一款名为 Castle Doombad 的塔防游戏和后屏游戏 - 与将其放在前屏幕上相比，这是一个非常明智的想法。即使特斯拉确实躲过了联邦监管机构形状的子弹&lt; /a&gt; 当之前这样做过。 ]]></description>
-      <guid>https://www.theverge.com/2023/12/9/23994910/tesla-2023-holiday-update-apple-podcasts-911-calling</guid>
-      <pubDate>Sat, 09 Dec 2023 21:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic 使用 Fortnite OG 来吸引玩家回到一款截然不同的游戏</title>
-      <link>https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Epic Games
-
-你可以说Fortnite正在进入一个新阶段。随着乐高堡垒之夜的推出， 火箭赛车和Fortnite Festival，该游戏现在不仅仅是一款流行的大逃杀游戏 - 它是一个旨在容纳许多不同类型的平台的经验。在这一转变之前发生了一个事件，该事件使游戏回到了根源：Fortnite OG，与经典武器和车辆一起回归原始大逃杀地图。这是 Epic Games 非常有意的策略。
-
-Epic 执行副总裁 Saxs Persson 表示，Fortnite OG 的推出旨在在新游戏推出之前引起轰动。 “我们的目标是重新激活 5 亿个帐户中的许多帐户，这些帐户可能不再玩《堡垒之夜》了，并且认为《堡垒之夜》只是大逃杀游戏，”他解释道。 “你需要他们注意，看到这实际上与六年前有很大不同。 OG 是第一步。”在这方面它似乎确实发挥了作用； Epic 之前说过《堡垒之夜》 11 月份拥有 1 亿玩家，这是该游戏有史以来最好的一个月。
-第二步是本周推出这三款 Epic 开发的游戏，每款游戏都针对不同的受众。现在判断它们是否会大受欢迎还为时过早，但早期迹象令人鼓舞。截至撰写本文时，有近 200 万人在玩《乐高堡垒之夜》，而超过 80 万人在玩《堡垒之夜节日》，这两款游戏都位居传统大逃杀游戏的榜首。不过，佩尔森表示，我们的目标不一定是超越游戏当前的主要模式。
-“最终目标是[让另一款游戏超越大逃杀]，”他说。 “我们并没有抱着大逃杀游戏会半途而废的想法来打造一款游戏。该团队一如既往地健康。这不是零和游戏；我们期望生态系统能够不断发展。”]]></description>
-      <guid>https://www.theverge.com/2023/12/9/23993686/fortnite-og-new-players-lego-fortnite</guid>
-      <pubDate>Sat, 09 Dec 2023 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>让互联网感觉更快的安静计划</title>
-      <link>https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23655762/l4s-internet-apple-comcast-latency-speed-bandwidth</guid>
-      <pubDate>Sat, 09 Dec 2023 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
