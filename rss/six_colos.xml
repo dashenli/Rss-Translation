@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 11 Dec 2023 18:34:37 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 11 Dec 2023 21:20:54 GMT</lastBuildDate>
+    <item>
+      <title>iOS 17.2 的 Journal 应用提供了深入的内省</title>
+      <link>https://sixcolors.com/post/2023/12/ios-17-2s-journal-app-offers-introspection-surface-deep/</link>
+      <description><![CDATA[
+我从来都不是一个真正写日记的人。在不同的时刻，我尝试过：在高中和大学期间断断续续地尝试过，在出国留学期间，在越野旅行期间，但这些似乎最终都会逐渐消失。…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/ios-17-2s-journal-app-offers-introspection-surface-deep/</guid>
+      <pubDate>Mon, 11 Dec 2023 20:03:45 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）愚蠢的公司做出人工智能承诺。聪明的公司有人工智能政策。</title>
       <link>https://sixcolors.com/feed-only/2023/12/stupid-companies-make-ai-promises-smart-companies-have-ai-policies-6/</link>
@@ -77,7 +85,7 @@
     <item>
       <title>Beeper 将设备上的 iMessage 带到 Android – 目前 ↦</title>
       <link>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</link>
-      <description><![CDATA[Beeper 是一家由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司，宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
+      <description><![CDATA[由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司 Beeper 宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
       <guid>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</guid>
       <pubDate>Tue, 05 Dec 2023 16:37:16 GMT</pubDate>
     </item>
@@ -116,13 +124,6 @@
 在最终用户设备上安装操作系统更新应该很容易，但事实当然并非如此。…]]></description>
       <guid>https://sixcolors.com/sponsor/2023/12/kolide-33/</guid>
       <pubDate>Fri, 01 Dec 2023 17:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 58：圣诞节是特许经营</title>
-      <link>https://sixcolors.com/podcast/2023/11/downstream-58-christmas-is-the-franchise/</link>
-      <description><![CDATA[假期也是流媒体高峰期！我们讨论主播的季节性机会，以及您的来信。 [下游+订阅者还可以获得：亚马逊的黑色星期五 NFL 实验、YouTube 和周日门票，以及即将到来的体育/RSN 内爆。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/11/downstream-58-christmas-is-the-franchise/</guid>
-      <pubDate>Fri, 01 Dec 2023 02:05:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
