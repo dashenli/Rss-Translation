@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 10 Dec 2023 18:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 02:21:14 GMT</lastBuildDate>
+    <item>
+      <title>在 DNA 中存储信息的 1,000 美元服务会获得市场欢迎吗？</title>
+      <link>https://wired.jp/article/store-a-message-in-dna/</link>
+      <description><![CDATA[一家法国初创公司宣布将使用 DNA 提供个性化数据存储服务。钱包大小的卡存储编码为 1 KB 文本数据的 DNA。]]></description>
+      <guid>https://wired.jp/article/store-a-message-in-dna/</guid>
+      <pubDate>Sun, 10 Dec 2023 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>尝试解开吉尼斯世界纪录认证的世界最长寿狗波比之谜</title>
       <link>https://wired.jp/article/bobi-worlds-oldest-dog-fraud/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[下一代地热发电称为“EGS”，利用地下高温岩体的能量。谷歌部分数据中心已经由在内华达州运营的 EGS 提供支持。]]></description>
       <guid>https://wired.jp/article/new-geothermal-power-plant-made-the-internet-a-little-greener/</guid>
       <pubDate>Mon, 04 Dec 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>灰尘和污垢等“细颗粒”加速气候变化的机制</title>
-      <link>https://wired.jp/article/dust-is-so-much-more-than-you-realize/</link>
-      <description><![CDATA[“灰尘”这个词，是指灰尘、灰尘等各种“漂浮在空气中的细小颗粒”。我们采访了英国研究人员杰伊·欧文斯（Jay Owens），他写了一本新书，重点关注当今我们周围漂浮的尘埃的历史，以及它对气候变化和其他主题的影响。]]></description>
-      <guid>https://wired.jp/article/dust-is-so-much-more-than-you-realize/</guid>
-      <pubDate>Mon, 04 Dec 2023 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
