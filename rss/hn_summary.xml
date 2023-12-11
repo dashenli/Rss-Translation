@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 11 Dec 2023 06:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 09:25:19 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]本文探讨了类型、运算符和动态背后的实现细节 [...]</title>
+      <link>https://t.me/hn_summary/63307</link>
+      <description><![CDATA[Python中执行a + b需要多少行C 
+本文探讨了 CPython 中类型、运算符和动态分派背后的实现细节。它解释了Python解释器如何根据操作数的类型确定“+”运算符的行为。本文深入研究了 PyObject 和 PyTypeObject 的结构，以及如何使用函数指针表来支持各种特定于类型的行为。它还讨论了 CPython 中的抽象对象接口，它允许统一访问具体类型实现。本文最后解释了 CPython VM 如何将运算符执行与抽象对象接口集成。总的来说，本文详细介绍了 CPython 的内部工作原理以及它如何在 Python 中执行“a + b”等简单操作。]]></description>
+      <guid>https://t.me/hn_summary/63307</guid>
+      <pubDate>Mon, 11 Dec 2023 09:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral AI 正在推出其首个早期访问 AI 端点，为开发人员提供访问 [...]</title>
+      <link>https://t.me/hn_summary/63306</link>
+      <description><![CDATA[Mistral：我们的第一个 AI 端点现已推出抢先体验
+Mistral AI 正在推出其第一个早期访问的人工智能端点，为开发人员提供强大的开放生成模型，这些模型可以轻松部署和定制以用于生产。该平台目前提供三个聊天端点，用于根据文本指令生成文本，以及一个嵌入端点。生成端点，mistral-tiny和mistral-small，使用发布的开放模型，而mistral-mid使用具有更高性能的原型模型。端点具有不同的性能和价格权衡。 Mistral-embed 是嵌入端点，提供具有 1024 个嵌入维度的模型，专为检索功能而设计。 Mistral AI 的 API 遵循流行聊天界面的规范，并提供 Python 和 Javascript 客户端库。该公司目前正处于测试阶段，并正在逐步向全面推出迈进。]]></description>
+      <guid>https://t.me/hn_summary/63306</guid>
+      <pubDate>Mon, 11 Dec 2023 09:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Mistral AI 正在发布 Mixtral 8x7B，这是专家模型的高质量稀疏混合物（[...]</title>
+      <link>https://t.me/hn_summary/63305</link>
+      <description><![CDATA[米斯特拉尔：专家混合体
+Mistral AI 正在发布 Mixtral 8x7B，这是一种具有开放权重的高质量稀疏专家模型混合 (SMoE)。该模型在大多数基准测试中均优于 Llama 2 70B，推理速度提高了 6 倍，并且是拥有许可的最强开放权重模型。它在标准基准测试中匹配或优于 GPT3.5，并具有处理 32k 令牌上下文、多种语言以及强大的代码生成性能等功能。 Mixtral 是一个稀疏的专家混合网络，它使用每个令牌总参数集的一小部分，使其在成本和延迟方面非常高效。它还可以微调为遵循指令的模型。 Mixtral 已针对仔细遵循指令进行了优化，并在 MT-Bench 上达到 8.30 的分数。 Mistral AI 努力使社区能够通过完全开源的堆栈运行 Mixtral，并提供对其平台的访问权限，以便尽早访问生成和嵌入端点。]]></description>
+      <guid>https://t.me/hn_summary/63305</guid>
+      <pubDate>Mon, 11 Dec 2023 09:11:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 天琴座计划是一项雄心勃勃的计划，旨在派遣一艘宇宙飞船追赶神秘的我 [...]</title>
+      <link>https://t.me/hn_summary/63304</link>
+      <description><![CDATA[天琴座计划：利用 Sun 进行奥伯特机动，派遣航天器追逐 Oumuamua&lt; /a&gt;
+天琴座计划是一项雄心勃勃的计划，旨在发射一艘宇宙飞船去追逐名为 Oumuamua 的神秘星际物体。该项目的独特之处在于，它的目标是利用太阳进行奥伯特机动，其中涉及利用天体的引力来获得速度。这种巧妙的机动可能会让航天器赶上 Oumuamua 并近距离研究它。虽然该项目仍处于早期阶段，但它已经引发了科学家的争议，他们质疑此类任务的可行性和成本。尽管如此，天琴座计划还是提供了一个令人兴奋的机会来探索宇宙的奥秘。]]></description>
+      <guid>https://t.me/hn_summary/63304</guid>
+      <pubDate>Mon, 11 Dec 2023 08:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站上的内容是 r/antiwork subreddit 的一套规则和指南。</title>
+      <link>https://t.me/hn_summary/63303</link>
+      <description><![CDATA[AI出生日期错误拒绝信 
+网站上的内容是 r/antiwork subreddit 的一套规则和指南。 Reddit 子版块是工人们讨论他们对工作和资本主义的不满和担忧的空间。规则规定，不允许出现亲资本主义内容、支持雇主、房东、警察和政客的内容。主持人还强调真诚参与、避免歧视性语言和贡献原创内容的重要性。该规则还禁止垃圾邮件、表情包等低效内容，以及在 30 天内重新发布。该指南还提醒用户遵守网站范围内的服务条款，包括不要发布个人信息或呼吁暴力。]]></description>
+      <guid>https://t.me/hn_summary/63303</guid>
+      <pubDate>Mon, 11 Dec 2023 08:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]此网页内容的作者讨论了他们在 CD-ROM 上修复音乐的经验 [...]</title>
+      <link>https://t.me/hn_summary/63302</link>
+      <description><![CDATA[修复古典猫：我是如何被 28 岁的人欺骗的防御性编程
+该网络内容的作者讨论了他们将音乐录制到名为 Classical Cats 的 CD-ROM 上的经验。他们解释说，该 CD 使用 CD 音轨来播放音乐，这带来了技术上的复杂性。作者必须为 Classical Cats 使用的 XObject 编写一个新的实现，这需要了解光盘的布局并将播放绝对时间码的请求转换为光盘上的音频文件。他们还提到使用提示表来记录光盘的目录。当作者意识到他们忽略了获取计时数据和正确播放歌曲所必需的关键方法时，作者遇到了挑战。不过，他们解决了这个问题，并通过 ScummVM 让更多人可以使用 Classical Cats。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/63302</guid>
+      <pubDate>Mon, 11 Dec 2023 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Kel是一款专为命令行界面（CLI）设计的AI助手。</title>
+      <link>https://t.me/hn_summary/63301</link>
+      <description><![CDATA[显示 HN：Kel – CLI 人工智能助手&lt; br/&gt;
+Kel 是一款专为命令行界面 (CLI) 设计的 AI 助手。借助 Kel，用户可以自动执行重复性任务、提高工作效率，并使他们的 CLI 体验更加智能和高效。这种创新工具将人工智能的力量引入命令行，使用户能够简化工作流程并节省时间。无论您是开发人员、系统管理员还是只是 CLI 爱好者，Kel 都可以帮助您简化任务并使您的 CLI 体验更加愉快。尝试一下，看看 Kel 如何彻底改变您的命令行体验。]]></description>
+      <guid>https://t.me/hn_summary/63301</guid>
+      <pubDate>Mon, 11 Dec 2023 06:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] GitHub 上的 HN-comments-drawer 项目允许用户集成 Hacker News 评论 [...]</title>
+      <link>https://t.me/hn_summary/63300</link>
+      <description><![CDATA[HN-comments-drawer：一行 HN 评论集成到网站&lt; /a&gt;
+GitHub 上的 HN-comments-drawer 项目允许用户将 Hacker News 评论集成到他们的网站中。通过包含一行代码并指定黑客新闻故事的 ID，用户可以在其网站上精美地显示评论。该项目为评论提供了可定制的样式选项，允许用户修改 CSS 类以适应他们想要的外观。作者还提到欢迎贡献，并且该项目已获得 MIT 许可。]]></description>
+      <guid>https://t.me/hn_summary/63300</guid>
+      <pubDate>Mon, 11 Dec 2023 06:34:28 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]美国</title>
       <link>https://t.me/hn_summary/63299</link>
@@ -20,70 +84,6 @@
 Marvell 在 2023 年分析师日展示了其全新 Marvell Octeon CN103 DPU。该 DPU 是一款 PCIe 卡，具有快速 Arm Neoverse N2 内核，可提供安全的系统。 CN103 DPU 的外形尺寸是一项重大改进，因为它采用薄型 PCIe x8 外形尺寸，使其更容易部署在服务器中。 DPU 具有八个 Arm Neoverse N2 内核，并提供一个用于 SSD 的 M.2 2242 插槽。它还包括一个带有 60Gbps IPsec 引擎的 100GbE MAC 和一个带外管理端口。该演示展示了 DPU 使用 VPP IPsec 隧道处理 50Gbps 加密流量的能力。从服务器卸载 IPsec 流量可以节省大量资源。这些卡的可用性以及软件堆栈的开发仍然未知。]]></description>
       <guid>https://t.me/hn_summary/63298</guid>
       <pubDate>Mon, 11 Dec 2023 06:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]司法部 (DOJ) 被指控对苹果和谷歌用户进行间谍活动 [...]</title>
-      <link>https://t.me/hn_summary/63297</link>
-      <description><![CDATA[司法部正在通过推送通知监视 Apple 和 Google 用户
-美国司法部 (DOJ) 被指控通过推送通知监视苹果和谷歌用户。据透露，司法部一直在利用推送通知系统的漏洞从这些科技巨头那里秘密获取用户数据。这种有争议的做法引起了人们对隐私和政府监控的担忧。美国司法部的行动令许多人感到惊讶，因为推送通知通常用于无害的目的，例如提供新闻更新或应用程序通知。这一发现凸显了数字时代加强隐私保护和透明度的必要性。]]></description>
-      <guid>https://t.me/hn_summary/63297</guid>
-      <pubDate>Mon, 11 Dec 2023 05:58:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]acceptoposs.org 网站强调维护开源软件的重要性。</title>
-      <link>https://t.me/hn_summary/63296</link>
-      <description><![CDATA[采用 · 保持开源软件的维护
-网站 adoptoposs.org 强调维护开源软件的重要性。它强调了开源软件如何成为互联网的支柱，并受到众多组织和公司的依赖。该网站承认许多开源库是由一个人维护的，并概述了这些维护者可能无法投入时间进行安全修复和进一步开发的各种原因。这些原因包括离开公司或失去兴趣，以及疾病或倦怠等个人情况。该网站强调，如果维护人员无法继续工作并且不向其他人提供访问权限，那么保持项目良好维护就会变得越来越困难。]]></description>
-      <guid>https://t.me/hn_summary/63296</guid>
-      <pubDate>Mon, 11 Dec 2023 05:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] RFC 9330 文档描述了 L4S（低延迟、低损耗和可扩展吞吐量 [...]</title>
-      <link>https://t.me/hn_summary/63295</link>
-      <description><![CDATA[低延迟、低损耗、可扩展吞吐量 (L4S) 互联网服务：RFC 9330
-RFC 9330文档描述了L4S（Low Latency、Low Loss和Scalable Throughput）架构，旨在使互联网应用程序能够实现低排队延迟、低拥塞损失和可扩展的吞吐量控制。该文档解释说，排队延迟的根本原因在于发送方的容量寻求拥塞控制器，而不是队列本身。 L4S 架构提出了一种新型拥塞控制，可以在网络中修改形式的显式拥塞通知 (ECN) 的帮助下以最少的排队寻求容量。文档还讨论了L4S架构的适用性、部署注意事项和安全注意事项。 （根据故事文本的 7% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63295</guid>
-      <pubDate>Mon, 11 Dec 2023 05:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]这个项目叫做Templ，它是Go的HTML模板语言。</title>
-      <link>https://t.me/hn_summary/63294</link>
-      <description><![CDATA[Templ：一种用 Go 编写 HTML 用户界面的语言
-这个项目称为Templ，它是Go 的HTML 模板语言。它旨在为用 Go 编写 HTML 用户界面提供出色的开发人员工具。该项目提供各种任务，例如构建本地版本、安装快照、生成代码、运行测试、运行基准测试、格式化代码等等。作者提到，该项目通过提供出色的开发人员工具而与其他项目区分开来。该项目的用户文档可以在 https://templ.guide 中找到。 ]]></description>
-      <guid>https://t.me/hn_summary/63294</guid>
-      <pubDate>Mon, 11 Dec 2023 04:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 参议员。</title>
-      <link>https://t.me/hn_summary/63293</link>
-      <description><![CDATA[参议员。沃伦呼吁苹果关闭 Android 版 Beeper 的 iMessage 应用
-美国参议员伊丽莎白·沃伦 (Elizabeth Warren) 表达了对 Beeper 的支持，该应用允许 Android 用户通过 iMessage 向 iPhone 用户发送消息，直到苹果将其关闭。沃伦质疑苹果为什么要限制竞争对手，并强调了不同平台之间的安全消息传递问题。苹果为其决定辩护，称 Beeper 的技术对用户安全和隐私构成风险。 Beeper 声称提供与 iMessage 相同级别的加密，但并未经过第三方安全审核。 Beeper 的团队正在努力使其应用程序能够继续运行，但 Beeper Mini 的未来仍不确定。]]></description>
-      <guid>https://t.me/hn_summary/63293</guid>
-      <pubDate>Mon, 11 Dec 2023 04:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>NeurIPS 2023 博览会日围绕主题举办了讲座、研讨会和演示 [...]</title>
-      <link>https://t.me/hn_summary/63292</link>
-      <description><![CDATA[NeurIPS 2023：博览会日
-NeurIPS 2023 博览会日围绕效率主题举办了演讲、研讨会和演示。一场受欢迎的会议是亚马逊关于 70 亿参数的小型模型如何超越大型模型并在某些领域具有竞争力的演讲。其他会议重点关注生成应用程序的效率，包括高通公司在其 Snapdragon 移动处理器上运行稳定扩散的演示以及 Positron AI 推出的新型推理芯片。本周剩下的时间将继续探讨效率，举办有关高效学习和法学硕士效率挑战的课程。其他值得注意的演讲包括亚马逊的 AutoML 演讲和阿斯利康关于药物开发中的人工智能和机器学习的演讲。主要会议将于明天开始。]]></description>
-      <guid>https://t.me/hn_summary/63292</guid>
-      <pubDate>Mon, 11 Dec 2023 04:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>本网页内容是对作者 Alex 的简要介绍，他是一名设计师和作家。</title>
-      <link>https://t.me/hn_summary/63291</link>
-      <description><![CDATA[用户界面排版
-本网页内容是对作者 Alex 的简要介绍，他是一名设计师和作家。 Alex 在设计网站和 Web 应用程序方面拥有丰富的经验，并且对信息架构、用户体验 (UX) 和设计系统特别感兴趣。作者居住在芬兰，邀请读者通过电子邮件与他们联系。]]></description>
-      <guid>https://t.me/hn_summary/63291</guid>
-      <pubDate>Mon, 11 Dec 2023 04:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] zkorman.com 上的文章讨论了技术领导者优先考虑业务的问题 [...]</title>
-      <link>https://t.me/hn_summary/63290</link>
-      <description><![CDATA[热爱靴子味道的技术领导者&lt; br/&gt;
-zkorman.com 上的文章讨论了技术领导者优先考虑的问题商业价值高于技术专长。作者批评这些领导者缺乏对商业和技术的了解。他们认为，包括开发人员在内的每个人都不擅长商业，而只关注商业价值的技术领导者不是有效的领导者。作者还强调了属于这一类别的两类技术领导者：那些努力跟上新技术趋势的人以及那些寻求首席执行官认可的人。文章最后敦促读者停止雇用此类领导者，并在技术领导角色中优先考虑技术专长。]]></description>
-      <guid>https://t.me/hn_summary/63290</guid>
-      <pubDate>Mon, 11 Dec 2023 04:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
