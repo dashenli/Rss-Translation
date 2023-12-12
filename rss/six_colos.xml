@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 11 Dec 2023 21:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 02:21:13 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级490：猫有一个律师团队</title>
+      <link>https://sixcolors.com/podcast/2023/12/upgrade-490-the-cat-has-a-team-of-lawyers/</link>
+      <description><![CDATA[John Siracusa 与 Jason 一起讨论 Beeper、本周的 Apple 操作系统更新、明年的预期 Apple 硬件（包括 iPad、Mac 和 Vision Pro）以及 macOS 上默认设置的强大功能。]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/upgrade-490-the-cat-has-a-team-of-lawyers/</guid>
+      <pubDate>Mon, 11 Dec 2023 22:51:03 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 17.2 的 Journal 应用提供了深入的内省</title>
       <link>https://sixcolors.com/post/2023/12/ios-17-2s-journal-app-offers-introspection-surface-deep/</link>
@@ -116,14 +123,6 @@
 他们说分手很难，但当你因为这段关系而损失了 30 亿美元时，你往往会主动寻找实现分手的方法，即使这意味着分割你的流媒体服务计划.… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2023/12/this-week-in-apple-money-doesnt-solve-everything/</guid>
       <pubDate>Fri, 01 Dec 2023 22:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）科利德</title>
-      <link>https://sixcolors.com/sponsor/2023/12/kolide-33/</link>
-      <description><![CDATA[感谢 Kolide 本周赞助六色。
-在最终用户设备上安装操作系统更新应该很容易，但事实当然并非如此。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2023/12/kolide-33/</guid>
-      <pubDate>Fri, 01 Dec 2023 17:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

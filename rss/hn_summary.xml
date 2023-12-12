@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 11 Dec 2023 21:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 02:17:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者讨论了欧盟最近通过的《人工智能法案》，并认为 [...]</title>
-      <link>https://t.me/hn_summary/63395</link>
-      <description><![CDATA[为什么欧洲未能创造财富
-作者讨论了欧盟最近通过的人工智能法案，并认为这将对欧洲的技术和创新产生负面影响。他们批评该法案在应用层面进行监管，他们认为这种监管效率低下，并且需要随着新技术的出现而不断更新。作者还强调了对违规行为的处罚，他们认为处罚过于宽松。他们认为，欧洲对消费而非生产的关注是其未能创造财富和技术创新的一个主要因素。作者建议放松技术管制、培养生产思维并拥抱人工智能热潮作为解决这一问题的方法。]]></description>
-      <guid>https://t.me/hn_summary/63395</guid>
-      <pubDate>Mon, 11 Dec 2023 21:13:17 GMT</pubDate>
+      <title>[媒体]哈佛大学校长克劳丁·盖伊 (Claudine Gay) 被多位科学家指控抄袭 [...]</title>
+      <link>https://t.me/hn_summary/63450</link>
+      <description><![CDATA[哈佛大学校长克劳丁·盖伊涉嫌抄袭
+哈佛大学校长克劳丁·盖伊被多名学者指控抄袭。这些指控源于 1993 年至 2017 年间发表的四篇论文，其中包括她的博士论文，据称盖伊在论文中转述或引用了近 20 名作者，但未注明出处。华盛顿自由灯塔进行的分析发现，盖伊在没有适当引用的情况下引用了完整的句子甚至整个段落。这些指控引发了人们对盖伊学术诚信以及她是否适合领导哈佛大学的质疑。捐助者、校友和 70 多名国会议员呼吁她辞职。盖伊尚未对这些指控做出回应。]]></description>
+      <guid>https://t.me/hn_summary/63450</guid>
+      <pubDate>Tue, 12 Dec 2023 02:17:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]网络技术在不断发展，网络开发人员现在期望网络浏览器 [...]</title>
-      <link>https://t.me/hn_summary/63394</link>
-      <description><![CDATA[Safari 17.2 中的 WebKit 功能
-Web 技术在不断发展，Web 开发人员现在期望 Web 浏览器能够更频繁地更新。 Safari 通过改变编号方式来响应这一需求，导致过去 28 个月内发布了 17 个新版本的 Safari。最新版本 Safari 17.2 包含 39 项新功能和 169 项修复。一些显着的功能包括支持 HTML 中的独家手风琴、在输入字段中建议一次性代码的能力、支持无限制地在 CSS 中嵌套、用于定义字体大小的新单位、支持运动路径和形状、线性缓动功能在动画中，支持在数学函数中混合百分比和长度参数，改进了对 CSS 计数器的支持，取消 mask-border 属性的前缀，以及添加了自定义突出显示 API。 （根据故事文本的 26% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63394</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:54 GMT</pubDate>
+      <title>[媒体] Zotac 的 ZBox PI430AJ 迷你电脑作为第一台 [...]</title>
+      <link>https://t.me/hn_summary/63449</link>
+      <description><![CDATA[第一台经过测试的配备 AirJet 的迷你 PC，Zotac 的新款 ZBox 非常薄
+Zotac 的 ZBox PI430AJ 迷你电脑作为第一台使用 Frore System 无风扇 AirJet 冷却器的电脑在科技界引起轰动。经 HKEPC 测试，事实证明 AirJet 冷却器不仅仅是一个噱头，它可以将英特尔 N300 CPU 在负载下保持在 70 摄氏度以下。这使得迷你电脑变得极其轻薄，并且具有令人印象深刻的性能。 AirJet 与其他冷却解决方案的不同之处在于它使用超声波而不是风扇。这导致功耗更低、运行近乎静音、尺寸更薄、更小。 AirJet 冷却器还可以用作进气口和排气口，这使其比传统风扇更具优势。 ZBox PI430AJ 配备两个 AirJet Mini 冷却器，厚度仅为 23.7 毫米。这项技术还可以应用于笔记本电脑和平板电脑等其他设备，甚至已经进入数据中心存储领域。]]></description>
+      <guid>https://t.me/hn_summary/63449</guid>
+      <pubDate>Tue, 12 Dec 2023 02:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GPT-4-turbo 当它“认为”12 月与 12 月相比时，会产生更短的完成时间。</title>
-      <link>https://t.me/hn_summary/63393</link>
-      <description><![CDATA[GPT-4-turbo 当它“认为”它的时候会产生更短的完成12 月与 5 月
-GPT-4-turbo 是 OpenAI 语言模型的最新版本，有一个有趣的怪癖——与“认为”是 5 月相比，它“认为”是 12 月时产生的完成时间更短。这是由一位 Twitter 用户发现的，他注意到模型的响应在假期期间显着缩短。 OpenAI 证实了这一行为，并解释说这是由于训练问题而非故意的。虽然一些用户觉得这很有趣，但其他用户对该模型的一致性和可靠性表示担忧。 OpenAI 保证他们正在努力解决这个问题并提高模型的性能。]]></description>
-      <guid>https://t.me/hn_summary/63393</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:44 GMT</pubDate>
+      <title>[媒体]苹果宣布在 iPhone 15 Pro 上引入空间视频拍摄功能，并 [...]</title>
+      <link>https://t.me/hn_summary/63448</link>
+      <description><![CDATA[Apple 在 iPhone 15 Pro 上推出空间视频捕捉&lt; br/&gt;
+苹果宣布在 iPhone 15 Pro 和 iPhone 15 Pro Max 上引入空间视频拍摄功能。这项新功能允许用户录制三维视频，以更身临其境的方式捕捉生活中的珍贵时刻。这些视频以 1080p、每秒 30 帧的速度拍摄，可以在各种设备上轻松共享和观看。 Apple Vision Pro 是一个新平台，将于明年初推出，以增强这些空间视频的观看体验。此更新展示了 Apple 致力于突破智能手机摄像头技术界限的承诺。]]></description>
+      <guid>https://t.me/hn_summary/63448</guid>
+      <pubDate>Tue, 12 Dec 2023 02:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 xmas-cards.co.uk，这是一个免费且有趣的圣诞贺卡网站，无需帐户。</title>
-      <link>https://t.me/hn_summary/63392</link>
-      <description><![CDATA[Show HN：一个免费、有趣、可定制的圣诞贺卡网站，没有任何限制需要帐号
-隆重推出 xmas-cards.co.uk，免费且有趣的圣诞贺卡网站，无需帐户。需要降临节日历吗？别再犹豫了，他们提供在线降临节日历制作工具，这样您就不会错过。你的卡片清单很乱吗？不用担心，他们的卡片列表功能可以帮助您在写卡片时保持井井有条。如果您不喜欢他们的预制卡片，您可以使用他们的设计编辑器设计自己的卡片，无需任何艺术技能。使用  融入节日气氛，轻松创建个性化圣诞贺卡xmas-cards.co.uk。]]></description>
-      <guid>https://t.me/hn_summary/63392</guid>
-      <pubDate>Mon, 11 Dec 2023 20:16:36 GMT</pubDate>
+      <title>[媒体]VMware（现属于 Broadcom）宣布对其产品进行重大简化 [...]</title>
+      <link>https://t.me/hn_summary/63447</link>
+      <description><![CDATA[Broadcom 的 VMware 极大简化了产品阵容和许可模式 
+VMware（现为博通旗下）宣布大幅简化其产品组合和许可模式。此举是为了回应客户和合作伙伴的反馈，即之前的产品过于复杂。产品组合简化包括降低订阅标价和引入更高的支持服务级别。所有 VMware 解决方案现在仅以订阅或定期许可证形式提供，永久许可证以及支持和订阅续订不再出售。客户可以继续使用现有的永久许可证，但我们鼓励客户检查其库存并考虑过渡到新的订阅产品。]]></description>
+      <guid>https://t.me/hn_summary/63447</guid>
+      <pubDate>Tue, 12 Dec 2023 02:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该研究评估了一种称为跳跃（J-Up）测试的新临床测试，其目的是[...]</title>
-      <link>https://t.me/hn_summary/63391</link>
-      <description><![CDATA[跳跃测试：更容易诊断儿童急性阑尾炎
-该研究评估了一种名为跳跃（J-Up）测试的新临床测试，该测试旨在使儿童急性阑尾炎的诊断变得更容易。该测试要求患有右下腹疼痛的儿童跳跃并伸手去拿悬挂在天花板上的玩具，同时使用 Bieri 儿科面部疼痛量表记录他们的疼痛反应。 J-Up 测试的敏感性为 87%，特异性为 70%。当与其他血液标志物结合时，阳性 J-Up 测试可实现 85% 的阑尾炎测试后概率，而与正常血液标志物结合的阴性 J-Up 测试可实现非阑尾炎的 92% 测试后概率。该测试被认为是可靠的，经验不足的医生可以使用它来预测是否需要手术。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63391</guid>
-      <pubDate>Mon, 11 Dec 2023 20:16:29 GMT</pubDate>
+      <title>福楼拜的信件最近以一卷的形式重新发行，被描述为搞笑且人性化，[...]</title>
+      <link>https://t.me/hn_summary/63446</link>
+      <description><![CDATA[福楼拜的信就像他最好的小说一样搞笑和人性化
+福楼拜的信件最近重新出版了一卷，被描述为搞笑而人性化，就像他最好的小说一样。这些信件深入了解了福楼拜的生活和写作过程，展示了他对风格的痴迷和对艺术的奉献。这些信件还揭示了福楼拜的个性，他的语气略带嘲讽，对细节的挑剔。学者弗朗西斯·斯蒂格穆勒在整个信件中提供了有用的评论和感叹，使该集也成为一部批判传记。福楼拜的信件挑战了他作为文学隐士的自我观念，表明他的小说渗透着他的个性。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/63446</guid>
+      <pubDate>Tue, 12 Dec 2023 02:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 抱歉，但我无法生成此内容的摘要，因为它需要访问特定的 [...]</title>
-      <link>https://t.me/hn_summary/63390</link>
-      <description><![CDATA[GPT-4 有季节性抑郁症
-抱歉，我无法生成此内容的摘要，因为它需要访问特定网站。]]></description>
-      <guid>https://t.me/hn_summary/63390</guid>
-      <pubDate>Mon, 11 Dec 2023 20:10:19 GMT</pubDate>
+      <title>[媒体]本文档建议创建一个新的 HTTP 状态代码 420，以指示 [...]</title>
+      <link>https://t.me/hn_summary/63445</link>
+      <description><![CDATA[报告请求者受损的 HTTP 状态代码
+本文档建议创建新的 HTTP 状态代码 420，以指示请求何时因请求者受损而被拒绝。该代码可用于请求者的缺陷造成危险或产生不稳定请求模式的情况。这对于建筑和远程手术等活动中使用的网络控制设备尤其重要。该代码不仅限于人类请求者，还可以用于检测人工智能系统中的损伤。与 403 禁止代码相比，420 代码提供了更高的损害可见性，并且可以帮助进行网络监控和风险评估。响应可能包括损害证据，但不应泄露可用于逃避检测的信息。]]></description>
+      <guid>https://t.me/hn_summary/63445</guid>
+      <pubDate>Tue, 12 Dec 2023 02:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了第一本服装书，标题为“[...]多样性纲要”</title>
-      <link>https://t.me/hn_summary/63389</link>
-      <description><![CDATA[第一本服装书：1562
-网络内容讨论了第一本服装书，题为《Recueil de la diversité deshabits》，出版于 1562 年。这本书包含来自不同文化的各种服装的木刻插图，包括土耳其人、鞑靼人、西班牙人，甚至还有独眼巨人和独眼巨人等神话生物。一位海主教。作者强调了插图中记录和幻想的融合，将它们与奇异人类和灭绝类人生物的交易卡进行比较。争议在于，一些学者认为这本书的作者德普雷还创造了一系列怪诞的幻觉，名为“庞大固埃的梦幻之梦”。德普雷声称服装书中的图像是从真实来源借用的，增加了其真实性。]]></description>
-      <guid>https://t.me/hn_summary/63389</guid>
-      <pubDate>Mon, 11 Dec 2023 20:09:10 GMT</pubDate>
+      <title>11 月下旬，ChatGPT-4 的用户注意到 AI 语言模型变得“懒惰”，r [...]</title>
+      <link>https://t.me/hn_summary/63444</link>
+      <description><![CDATA[随着 ChatGPT 变得“懒惰”，人们测试“寒假假设”作为原因
+11 月下旬，ChatGPT-4 的用户注意到 AI 语言模型变得“懒惰”，拒绝执行某些任务或提供简化的结果。 OpenAI 承认了这个问题，但不确定原因。一些人工智能研究人员提出了“寒假假说”，表明该模型可能是根据训练数据模拟季节性抑郁症。这个想法引起了人们的关注，因为之前的研究表明，语言模型会对人类的鼓励做出反应。进行了测试，结果好坏参半，以确定模型的行为在喂食 12 月的日期后是否会发生变化。这种情况凸显了人工智能语言模型的不可预测性以及该领域正在进行的探索。]]></description>
+      <guid>https://t.me/hn_summary/63444</guid>
+      <pubDate>Tue, 12 Dec 2023 01:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了重新利用 Chromebook 的潜力，Chromebook 的销量已超过 [...]</title>
-      <link>https://t.me/hn_summary/63388</link>
-      <description><![CDATA[如何使 Chromebook 脱离轨道并为创新者重新利用它 
-本文讨论了重新利用 Chromebook 的潜力，Chromebook 在过去四年中已售出超过 1 亿台。 Chromebook 的独特功能（例如集中管理的生态系统及其在教育领域的普及）使其成为延长电子设备使用寿命实验的主要候选者。制造商通常更喜欢设备的较短使用寿命，但 Chromebook 的长期软件支持和可修复性使其成为例外。这篇文章提出了为 Chromebook 提供“显式脱轨选项”的想法，本质上是将它们变成可用于各种目的的标准硬件套件。这可以为负担得起的计算创造一个新的利基并鼓励创新。]]></description>
-      <guid>https://t.me/hn_summary/63388</guid>
-      <pubDate>Mon, 11 Dec 2023 20:08:02 GMT</pubDate>
+      <title>哈佛校友会执行委员会表达了对哈佛的一致支持 [...]</title>
+      <link>https://t.me/hn_summary/63443</link>
+      <description><![CDATA[哈佛校友会执行委员会要求董事会支持盖伊总统
+哈佛校友会执行委员会表达了对哈佛校长克劳丁·盖伊的一致支持，并要求大学理事会公开支持她。此前，盖伊在国会听证会上因大学校园反犹太主义言论而遭到强烈反对。 70多名国会议员要求她辞职，白宫发表声明斥责她。执行委员会赞扬盖伊为自己的言论道歉，并表示她是有效解决反犹太主义和其他形式仇恨问题的正确领导人。预计理事会将对盖伊在哈佛的未来做出决定。]]></description>
+      <guid>https://t.me/hn_summary/63443</guid>
+      <pubDate>Tue, 12 Dec 2023 01:33:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] vpdchart.com 网站推出了一个名为 VaporPressure Defic 的新副项目 [...]</title>
-      <link>https://t.me/hn_summary/63387</link>
-      <description><![CDATA[显示 HN：我的 Covid 副项目 – 蒸气压赤字 (VPD)图表
-网站 vpdchart.com 引入了一个名为“蒸气压”的新副项目赤字 (VPD) 图表。该图表旨在通过提供不同作物和生长阶段的理想 VPD 水平信息来帮助种植者优化作物生长。用户可以手动输入空气相对湿度、气温和叶片温度等数据，或使用传感器收集信息。该图表涵盖了各种作物，包括大麻、西红柿、绿叶蔬菜和黄瓜。它还提供在脉冲帐户中设置 VPD 叶片温度偏移的选项。该网站旨在帮助种植者实现作物的最佳生长条件。]]></description>
-      <guid>https://t.me/hn_summary/63387</guid>
-      <pubDate>Mon, 11 Dec 2023 20:06:54 GMT</pubDate>
+      <title>[媒体]文章认为二维码不可靠且存在潜在危险。</title>
+      <link>https://t.me/hn_summary/63442</link>
+      <description><![CDATA[二维码是傻瓜的专利 - 是时候彻底打破它们了&lt; /a&gt;
+文章认为，二维码不可靠且存在潜在危险。它将扫描二维码与玩俄罗斯轮盘赌进行了比较，并强调了代码将走向何方的不确定性。作者认为，二维码增加了访问信息的复杂性和不必要的步骤，而且它们还可以用于恶意目的。本文提供了一些遇到 QR 码带来不便或误导的示例。它还提到联邦贸易委员会关于二维码危险和二维码攻击盛行的警告。作者最后建议人们停止信任 QR 码，并提供了一个名为 qrencode 的实用程序作为替代方案。]]></description>
+      <guid>https://t.me/hn_summary/63442</guid>
+      <pubDate>Tue, 12 Dec 2023 01:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 发生了令人震惊的事件，著名的游戏开发工作室 Fntastic 宣布 [...]</title>
-      <link>https://t.me/hn_summary/63386</link>
-      <description><![CDATA[Fntastic 在发行《The Day Before》四天后宣布关闭
-令人震惊的事件发生了，著名的游戏开发工作室 Fntastic 在其备受期待的最新游戏“The Day Before”发布四天后宣布关闭。这一出人意料的决定让粉丝和业内人士感到困惑，因为这款游戏获得了积极的评价和很高的玩家参与度。虽然工作室关闭的确切原因尚不清楚，但一些人推测财务困难或内部冲突可能起了一定作用。无论如何，这种突然的关闭给游戏社区留下了空白，并引发了人们对 Fntastic 才华横溢的团队的未来的疑问。]]></description>
-      <guid>https://t.me/hn_summary/63386</guid>
-      <pubDate>Mon, 11 Dec 2023 20:05:44 GMT</pubDate>
+      <title>[媒体]在一次罕见的天体事件中，参宿四恒星将短暂地从视野中消失，成为一颗[...]</title>
+      <link>https://t.me/hn_summary/63441</link>
+      <description><![CDATA[参宿四将在千载难逢的巧合中短暂消失&lt; /a&gt;
+在一次罕见的天体事件中，当一颗名为利昂娜的小行星直接穿过地球和参宿四恒星之间时，参宿四恒星将短暂地从视野中消失。这种排列将使科学家能够以迄今为止最好的分辨率观察参宿四不断变化的表面。这一事件被誉为一生一次的机会，因为像参宿四这样的明亮恒星的掩星是极其罕见的。科学家们希望通过研究参宿四在掩星期间的表面，他们可以深入了解红超巨星的机制，并更好地了解它们如何达到爆炸的终点。这些观测结果还可能为参宿四最近的“大变暗”提供线索。]]></description>
+      <guid>https://t.me/hn_summary/63441</guid>
+      <pubDate>Tue, 12 Dec 2023 01:27:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

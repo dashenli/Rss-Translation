@@ -4,9 +4,16 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 11 Dec 2023 21:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 02:21:41 GMT</lastBuildDate>
     <item>
-      <title>使用 CRISPR 的基因组编辑疗法已在美国获得批准。为减轻血液疾病症状铺平道路</title>
+      <title>OpenAI 独特的组织结构：2023 年 11 月阅读量最高的 10 个故事</title>
+      <link>https://wired.jp/article/10-most-read-stories-november-2023/</link>
+      <description><![CDATA[从今年 11 月发表的文章中，我们将介绍 WIRED.jp 上阅读量最高的 10 个故事，重点关注萨姆·奥尔特曼的解雇和靠近地球的准卫星“Kamooarewa”等话题。]]></description>
+      <guid>https://wired.jp/article/10-most-read-stories-november-2023/</guid>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CRISPR 的基因组编辑疗法已在美国获得批准。开辟缓解血液疾病症状的道路</title>
       <link>https://wired.jp/article/the-first-crispr-medicine-is-now-approved-in-the-us/</link>
       <description><![CDATA[镰状细胞病过去只能通过高风险干细胞移植来治疗。一种旨在通过单基因编辑来阻止这种遗传性血液疾病引起的痛苦发作的治疗方法已在美国获得批准。该方法使用基因组编辑技术 CRISPR，并在英国首次获得批准。]]></description>
       <guid>https://wired.jp/article/the-first-crispr-medicine-is-now-approved-in-the-us/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国主要词典出版商韦氏词典宣布了“年度词汇”。选择的词是“真实的”，意思是“真实的”、“真正的”和“真实的”。这是我在 2023 年想到的一个词，这一年充满了人工智能生成的虚假内容。]]></description>
       <guid>https://wired.jp/article/authentic-word-of-the-year-artificial-intelligence-pop-culture-politics/</guid>
       <pubDate>Wed, 06 Dec 2023 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT的出现，昭示着时代正在发生变化。</title>
-      <link>https://wired.jp/article/plaintext-chatgpt-year-of-living-generatively/</link>
-      <description><![CDATA[2022 年 11 月，OpenAI 发布了“ChatGPT”，该服务曾被定位为低重要性的服务。然而，这项技术将改变科技行业，并有可能改变人类的未来。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
-      <guid>https://wired.jp/article/plaintext-chatgpt-year-of-living-generatively/</guid>
-      <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
