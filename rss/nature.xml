@@ -4,13 +4,13 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Mon, 11 Dec 2023 16:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:01:27 GMT</lastBuildDate>
     <item>
-      <title>大麻对青少年有害吗？数据是这样说的</title>
-      <link>https://www.nature.com/articles/d41586-023-03860-3</link>
+      <title>CRISPR 基因编辑如何帮助治疗阿尔茨海默病</title>
+      <link>https://www.nature.com/articles/d41586-023-03931-5</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-023-03860-3</guid>
-      <pubDate>Mon, 11 Dec 2023 16:05:23 GMT</pubDate>
+      <guid>https://www.nature.com/articles/d41586-023-03931-5</guid>
+      <pubDate>Tue, 12 Dec 2023 12:01:27 GMT</pubDate>
     </item>
     <item>
       <title>每日简报：“镊子”夹住量子分子</title>
@@ -20,17 +20,24 @@
       <pubDate>Mon, 11 Dec 2023 16:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>“极其多产”作者数量激增引起科学家担忧</title>
-      <link>https://www.nature.com/articles/d41586-023-03865-y</link>
+      <title>大麻对青少年有害吗？数据是这样说的</title>
+      <link>https://www.nature.com/articles/d41586-023-03860-3</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-023-03865-y</guid>
-      <pubDate>Mon, 11 Dec 2023 12:02:17 GMT</pubDate>
+      <guid>https://www.nature.com/articles/d41586-023-03860-3</guid>
+      <pubDate>Mon, 11 Dec 2023 16:05:23 GMT</pubDate>
     </item>
     <item>
       <title>少吃肉：第一个关于食品的全球气候协议会奏效吗？</title>
       <link>https://www.nature.com/articles/d41586-023-03960-0</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-023-03960-0</guid>
+      <pubDate>Mon, 11 Dec 2023 12:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“极其多产”作者数量激增引起科学家担忧</title>
+      <link>https://www.nature.com/articles/d41586-023-03865-y</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-023-03865-y</guid>
       <pubDate>Mon, 11 Dec 2023 12:02:17 GMT</pubDate>
     </item>
     <item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 11 Dec 2023 12:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>大爆炸天文台位居美国大型物理项目愿望清单之首</title>
+      <title>大爆炸天文台位列美国大型物理项目愿望清单之首</title>
       <link>https://www.nature.com/articles/d41586-023-03944-0</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-023-03944-0</guid>
@@ -62,17 +69,17 @@
       <pubDate>Fri, 08 Dec 2023 12:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>你的器官老化得好吗？血液里藏着线索</title>
-      <link>https://www.nature.com/articles/d41586-023-03821-w</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-023-03821-w</guid>
-      <pubDate>Thu, 07 Dec 2023 21:02:02 GMT</pubDate>
-    </item>
-    <item>
       <title>CRISPR 2.0：新一波基因编辑即将进入临床试验</title>
       <link>https://www.nature.com/articles/d41586-023-03797-7</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-023-03797-7</guid>
+      <pubDate>Thu, 07 Dec 2023 21:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的器官老化得好吗？血迹里有线索</title>
+      <link>https://www.nature.com/articles/d41586-023-03821-w</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-023-03821-w</guid>
       <pubDate>Thu, 07 Dec 2023 21:02:02 GMT</pubDate>
     </item>
     <item>
@@ -101,31 +108,6 @@
       <link>https://www.nature.com/articles/d41586-023-03868-9</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-023-03868-9</guid>
-      <pubDate>Tue, 05 Dec 2023 21:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 发布首款 1,000 量子位量子芯片</title>
-      <link>https://www.nature.com/articles/d41586-023-03854-1</link>
-      <description><![CDATA[&lt; /div&gt;
-                    &lt;图类=“图”&gt;
- 
-  &lt;源类型=“图像/webp”/&gt;
-  
-  &lt;图标题&gt;
-   IBM 最新的量子处理器之一提高了其量子位的可靠性。图片来源：Ryan Lavine for IBM跨度&gt;
-
-IBM 推出了第一台拥有超过 1,000 个量子位的量子计算机，相当于普通计算机中的数字位。但该公司表示，现在将转变方向，专注于使其机器更能防错，而不是变得更大。
-多年来，IBM 一直遵循量子计算路线图，每年将量子位数量大约增加一倍。该芯片于 12 月 4 日推出，名为 Condor，拥有 1,121 个超导量子位，排列成蜂窝状。它延续了其他创纪录的、以鸟命名的机器，包括 2021 年推出的 127 量子位芯片&lt; /a&gt; 和去年的 433 量子位。
-量子计算机有望执行经典计算机无法完成的某些计算。他们将通过利用纠缠和叠加等独特的量子现象来实现这一点，这些现象允许多个量子位同时存在于多个集体状态中。
-但这些量子态也是出了名的变化无常，并且容易出错。物理学家试图通过诱导多个物理量子位（例如，每个物理量子位或单个离子编码在超导电路中）来解决这个问题，以共同表示一个信息量子位，或“逻辑量子位”。
-作为新策略的一部分，该公司还推出了一款名为 Heron 的芯片，该芯片拥有 133 个量子位，但错误率创历史新低，比之前的量子处理器低三倍。
-研究人员普遍表示，最先进的纠错技术每个逻辑量子位需要 1,000 多个物理量子位。一台可以进行有用计算的机器需要拥有数百万个物理量子位。
-但近几个月来，物理学家对一种称为量子低密度奇偶校验（qLDPC）的替代纠错方案越来越感兴趣。根据 IBM 研究人员的预印本，它承诺将这一数字减少 10 倍或更多 1。该公司表示，现在将专注于构建芯片，该芯片旨在在 400 个左右的物理量子位中容纳一些经过 qLDPC 校正的量子位，然后将这些芯片连接在一起。
-马萨诸塞州剑桥市哈佛大学的物理学家米哈伊尔·卢金 (Mikhail Lukin) 表示，IBM 预印本是“出色的理论著作”。 “话虽这么说，用超导量子位实现这种方法似乎极具挑战性，甚至可能需要数年时间才能在这个平台上尝试概念验证实验，”卢金说。 Lukin 和他的合作者对使用单个原子代替超导环实现 qLDPC 的前景进行了类似的研究2 。
-问题是 qLDPC 技术要求每个量子位直接连接到至少六个其他量子位。在典型的超导芯片中，每个量子位仅连接到两个或三个邻居。但位于纽约约克敦高地 IBM 托马斯·J·沃森研究中心的凝聚态物理学家兼 IBM Quantum 首席技术官奥利弗·戴尔 (Oliver Dial) 表示，该公司有一个计划：它将在其量子计算机的设计中添加一层。量子芯片，以允许 qLDPC 方案所需的额外连接。
-IBM 量子研究新路线图今天公布，它实现了有用的计算 - 例如到十年末模拟催化剂分子的运作。 “这一直是一个梦想，而且一直是一个遥远的梦想，”戴尔说。 “实际上，对我来说，让它足够接近，让我们能够看到我们今天所处的位置是巨大的。”
-]]></description>
-      <guid>https://www.nature.com/articles/d41586-023-03854-1</guid>
       <pubDate>Tue, 05 Dec 2023 21:01:42 GMT</pubDate>
     </item>
     </channel>

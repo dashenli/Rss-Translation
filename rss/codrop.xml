@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 11 Dec 2023 12:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:58:57 GMT</lastBuildDate>
+    <item>
+      <title>集体#798</title>
+      <link>https://tympanus.net/codrops/collective/collective-798/</link>
+      <description><![CDATA[设计 3D 世界 * 标记 * LLM 课程 * LLM 可视化]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-798/</guid>
+      <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端回顾 2023 – 第 12 天</title>
+      <link>https://tympanus.net/codrops/2023/12/12/frontend-rewind-2023-day-12/</link>
+      <description><![CDATA[加入我们特别日历第 12 天的冒险之旅，探索 2023 年更多前端亮点。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/12/frontend-rewind-2023-day-12/</guid>
+      <pubDate>Tue, 12 Dec 2023 11:02:25 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 11 天</title>
       <link>https://tympanus.net/codrops/2023/12/11/frontend-rewind-2023-day-11/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>前端回顾 2023 – 第 09 天</title>
       <link>https://tympanus.net/codrops/2023/12/09/frontend-rewind-2023-day-09/</link>
-      <description><![CDATA[请查看我们特别日历的第 9 天，以发现 2023 年以来的更多前端链接和宝贵资源。]]></description>
+      <description><![CDATA[请查看我们特别日历的第 9 天，以发现 2023 年的更多前端链接和宝贵资源。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/09/frontend-rewind-2023-day-09/</guid>
       <pubDate>Sat, 09 Dec 2023 17:18:13 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[加入我们的“2023 年前端回顾”第 6 天，探索今年在前端领域掀起波澜的顶级资源。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/06/frontend-rewind-2023-day-06/</guid>
       <pubDate>Wed, 06 Dec 2023 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动切片文本动画</title>
-      <link>https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/</link>
-      <description><![CDATA[滚动触发的切片文本动画，其中分段元素在滚动时重新组合。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/</guid>
-      <pubDate>Tue, 05 Dec 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 05 天</title>
-      <link>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</link>
-      <description><![CDATA[与我们一起揭开“Frontend Rewind 2023”第 5 天的神秘面纱]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/05/frontend-rewind-2023-day-05/</guid>
-      <pubDate>Tue, 05 Dec 2023 12:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
