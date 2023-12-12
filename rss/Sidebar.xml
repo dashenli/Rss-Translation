@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 12 Dec 2023 02:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 06:35:54 GMT</lastBuildDate>
+    <item>
+      <title>不断发展的无限画布</title>
+      <link>https://wattenberger.com/thoughts/evolving-the-infinite-canvas</link>
+      <description><![CDATA[在数字世界中，尤其是在网络上，我们习惯了垂直堆叠的东西。滚动，滚动，浏览内容框。
+]]></description>
+      <guid>https://wattenberger.com/thoughts/evolving-the-infinite-canvas</guid>
+      <pubDate>Tue, 12 Dec 2023 05:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audiobox：根据语音和自然语言提示生成音频</title>
+      <link>https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/</link>
+      <description><![CDATA[Audiobox 是 Meta 的新音频生成基础研究模型。
+]]></description>
+      <guid>https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>好吧，我将使用超级基本 CSS 处理设置</title>
+      <link>https://frontendmasters.com/blog/fine-ill-use-a-super-basic-css-processing-setup/</link>
+      <description><![CDATA[如果您只需要 CSS 的迷你构建过程，Lightning CSS 是一个非常好的现代选择。
+]]></description>
+      <guid>https://frontendmasters.com/blog/fine-ill-use-a-super-basic-css-processing-setup/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>布丁杯</title>
+      <link>https://pudding.cool/pudding-cup/</link>
+      <description><![CDATA[布丁年度精选最佳视觉和数据驱动故事
+]]></description>
+      <guid>https://pudding.cool/pudding-cup/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 17.2 中的 WebKit 功能</title>
+      <link>https://webkit.org/blog/14787/webkit-features-in-safari-17-2/</link>
+      <description><![CDATA[网络技术不断向前发展，既有重大的新功能，也有细微的细微调整。
+]]></description>
+      <guid>https://webkit.org/blog/14787/webkit-features-in-safari-17-2/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:05:38 GMT</pubDate>
+    </item>
     <item>
       <title>为下一次绘制交互做好准备，新的 Web 核心至关重要</title>
       <link>https://www.smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</link>
@@ -54,7 +94,7 @@
       <pubDate>Fri, 08 Dec 2023 05:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 包装：2023 年！</title>
+      <title>CSS 封装：2023 年！</title>
       <link>https://developer.chrome.com/blog/css-wrapped-2023</link>
       <description><![CDATA[2023 年对于 CSS 来说是重要的一年！了解今年在 Chrome 和整个网络平台上推出的内容。
 ]]></description>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://matejlatin.com/blog/why-designers-quit-2023/</guid>
       <pubDate>Fri, 08 Dec 2023 05:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户界面版式</title>
-      <link>https://imperavi.com/books/ui-typography/</link>
-      <description><![CDATA[设计更好的版式的指南 - 从可读性和选择字体到模块化比例、垂直节奏和响应式。
-]]></description>
-      <guid>https://imperavi.com/books/ui-typography/</guid>
-      <pubDate>Thu, 07 Dec 2023 06:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于一次性密码输入的 HTML 和 CSS</title>
-      <link>https://chriscoyier.net/2023/12/04/html-css-for-a-one-time-password-input/</link>
-      <description><![CDATA[您知道那些一次性密码输入吗？通常为 4 或 6 个数字。
-]]></description>
-      <guid>https://chriscoyier.net/2023/12/04/html-css-for-a-one-time-password-input/</guid>
-      <pubDate>Thu, 07 Dec 2023 06:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>声波垃圾</title>
-      <link>https://danielraffel.me/2023/11/21/sonic-garbage/</link>
-      <description><![CDATA[每次有人访问时，Sonic Garbage 都会使用随机生成的短语执行 YouTube 搜索。
-]]></description>
-      <guid>https://danielraffel.me/2023/11/21/sonic-garbage/</guid>
-      <pubDate>Thu, 07 Dec 2023 06:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML Web 组件风靡一时</title>
-      <link>https://cloudfour.com/thinks/html-web-components-are-having-a-moment/</link>
-      <description><![CDATA[每个人都在谈论 HTML Web 组件，我认为这是神奇事物的开始！
-]]></description>
-      <guid>https://cloudfour.com/thinks/html-web-components-are-having-a-moment/</guid>
-      <pubDate>Thu, 07 Dec 2023 06:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座 - 谷歌 DeepMind</title>
-      <link>https://deepmind.google/technologies/gemini/</link>
-      <description><![CDATA[Gemini 是从头开始构建的多模态 - 跨图像、视频、音频和代码无缝推理。
-]]></description>
-      <guid>https://deepmind.google/technologies/gemini/</guid>
-      <pubDate>Thu, 07 Dec 2023 05:58:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
