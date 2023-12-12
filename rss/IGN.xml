@@ -4,7 +4,35 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Tue, 12 Dec 2023 18:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 21:20:45 GMT</lastBuildDate>
+    <item>
+      <title>《刺客信条幻影》1.0.6 更新添加了新游戏、跑酷改进等</title>
+      <link>https://www.ign.com/articles/assassins-creed-mirage-106-update</link>
+      <description><![CDATA[《刺客信条幻影》的全新重大更新引入了新游戏增强版、改进的跑酷动作等等。]]></description>
+      <guid>https://www.ign.com/articles/assassins-creed-mirage-106-update</guid>
+      <pubDate>Tue, 12 Dec 2023 19:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>战神诸神黄昏：瓦尔哈拉 DLC 随补丁 05.01 上线</title>
+      <link>https://www.ign.com/articles/god-of-war-ragnark-valhalla-dlc-goes-live-with-patch-0501</link>
+      <description><![CDATA[《战神诸神黄昏》的补丁 05.01 更新现已上线，新补丁允许玩家访问免费的瓦尔哈拉 DLC。]]></description>
+      <guid>https://www.ign.com/articles/god-of-war-ragnark-valhalla-dlc-goes-live-with-patch-0501</guid>
+      <pubDate>Tue, 12 Dec 2023 19:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝塞斯达 (Bethesda) 戏弄 Starfield 城市地图和“新旅行方式”</title>
+      <link>https://www.ign.com/articles/starfield-city-maps-and-new-ways-of-traveling-teased-by-bethesda</link>
+      <description><![CDATA[贝塞斯达游戏工作室正在致力于《Starfield》的一些生活质量改进，包括城市地图、太空旅行的新方式等等。]]></description>
+      <guid>https://www.ign.com/articles/starfield-city-maps-and-new-ways-of-traveling-teased-by-bethesda</guid>
+      <pubDate>Tue, 12 Dec 2023 18:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>PlayStation 和 Xbox 发布 2023 年年终回顾工具</title>
+      <link>https://www.ign.com/articles/playstation-and-xbox-release-2023-end-of-year-recap-tools</link>
+      <description><![CDATA[随着 2023 年即将结束，PlayStation 和 Xbox 都推出了回顾工具，允许任一游戏机平台的玩家查看全年所有游戏统计数据的回顾。]]></description>
+      <guid>https://www.ign.com/articles/playstation-and-xbox-release-2023-end-of-year-recap-tools</guid>
+      <pubDate>Tue, 12 Dec 2023 17:56:45 GMT</pubDate>
+    </item>
     <item>
       <title>Xbox Series X 最佳优惠：仅售 349 美元</title>
       <link>https://www.ign.com/articles/xbox-series-x-sale-for-349-holiday-gift-idea</link>
@@ -27,13 +55,6 @@
       <pubDate>Tue, 12 Dec 2023 16:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年最便宜的 iPhone 手机</title>
-      <link>https://www.ign.com/articles/cheapest-iphone</link>
-      <description><![CDATA[想要在不花太多钱的情况下购买 iPhone？这些是最便宜的 iPhone。]]></description>
-      <guid>https://www.ign.com/articles/cheapest-iphone</guid>
-      <pubDate>Tue, 12 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2023 年最佳恐怖游戏</title>
       <link>https://www.ign.com/articles/best-horror-games-2023</link>
       <description><![CDATA[从令人惊叹的重制游戏到富有远见的令人毛骨悚然的游戏，以下是 IGN 精选的 2023 年最佳恐怖游戏。]]></description>
@@ -45,6 +66,13 @@
       <link>https://www.ign.com/articles/best-soulslikes-2023</link>
       <description><![CDATA[我们颁发 2023 年最佳魂类游戏奖，以庆祝挑战性角色扮演游戏类型的不断发展。]]></description>
       <guid>https://www.ign.com/articles/best-soulslikes-2023</guid>
+      <pubDate>Tue, 12 Dec 2023 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最便宜的 iPhone 手机</title>
+      <link>https://www.ign.com/articles/cheapest-iphone</link>
+      <description><![CDATA[想要在不花太多钱的情况下购买 iPhone？这些是最便宜的 iPhone。]]></description>
+      <guid>https://www.ign.com/articles/cheapest-iphone</guid>
       <pubDate>Tue, 12 Dec 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
@@ -64,7 +92,7 @@
     <item>
       <title>为什么《战神：诸神黄昏》将推出新的《瓦尔哈拉》 DLC 走向 Roguelite 版</title>
       <link>https://www.ign.com/articles/why-god-of-war-ragnarok-is-going-roguelite-with-new-valhalla-dlc</link>
-      <description><![CDATA[在《战神：诸神黄昏》结束时，克雷多斯已经基本明白了如何当一名父亲。正好赶上他十几岁的儿子上大学，留下父亲要处理一个空巢和一个新的瓦尔哈拉 DLC 需要回答的大问题：退休、孤独的战神会如何对待自己？]]></description>
+      <description><![CDATA[在《战神：诸神黄昏》结束时，克雷多斯已经基本明白了如何成为一名父亲。正好赶上他十几岁的儿子上大学，留下父亲要处理一个空巢和一个新的瓦尔哈拉 DLC 需要回答的大问题：退休、孤独的战神会如何对待自己？]]></description>
       <guid>https://www.ign.com/articles/why-god-of-war-ragnarok-is-going-roguelite-with-new-valhalla-dlc</guid>
       <pubDate>Tue, 12 Dec 2023 14:00:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[据称，一个勒索软件组织攻击了 Marvel 的《蜘蛛侠 2》开发商 Insomniac，并将窃取的数据（其中包括有关金刚狼的信息）出售。]]></description>
       <guid>https://www.ign.com/articles/hackers-reportedly-breach-spider-man-2-dev-insomniac-release-wolverine-and-staff-data</guid>
       <pubDate>Tue, 12 Dec 2023 13:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年最佳 PC 控制器</title>
-      <link>https://www.ign.com/articles/best-pc-controller</link>
-      <description><![CDATA[我们都喜欢我们的鼠标和键盘，但它并不适合所有情况。对于那些需要游戏手柄的人来说，这里是我们最好的电脑游戏控制器的列表。]]></description>
-      <guid>https://www.ign.com/articles/best-pc-controller</guid>
-      <pubDate>Tue, 12 Dec 2023 12:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于玩具销售下滑，龙与地下城所有者孩之宝解雇了 1,000 多名员工</title>
-      <link>https://www.ign.com/articles/dungeons-dragons-owner-hasbro-laying-off-over-1000-staff-as-toy-sales-falter</link>
-      <description><![CDATA[由于玩具销售不景气，孩之宝宣布大规模裁员，影响超过 1,000 名员工。]]></description>
-      <guid>https://www.ign.com/articles/dungeons-dragons-owner-hasbro-laying-off-over-1000-staff-as-toy-sales-falter</guid>
-      <pubDate>Tue, 12 Dec 2023 12:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 Rockstar 开发人员试图解释为什么 GTA 6 继 PS5 和 Xbox Series X 和 S 之后登陆 PC</title>
-      <link>https://www.ign.com/articles/ex-rockstar-dev-tries-to-explain-why-gta-6-is-coming-to-pc-after-ps5-and-xbox-series-x-and-s</link>
-      <description><![CDATA[Rockstar 的一位前开发人员试图解释为什么《侠盗猎车手 6》在登陆 PlayStation 5 和 Xbox Series X 和 S 后又登陆 PC，并呼吁 PC 游戏玩家对工作室此次有争议的发布给予“怀疑的好处”计划。]]></description>
-      <guid>https://www.ign.com/articles/ex-rockstar-dev-tries-to-explain-why-gta-6-is-coming-to-pc-after-ps5-and-xbox-series-x-and-s</guid>
-      <pubDate>Tue, 12 Dec 2023 11:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>《博德之门 3》开发者称微软正在修复 Xbox 删除保存错误</title>
-      <link>https://www.ign.com/articles/baldurs-gate-3-dev-says-microsoft-working-to-fix-xbox-deleted-save-bug</link>
-      <description><![CDATA[《博德之门 3》的开发商发布了关于已删除的保存错误的更新，该错误影响了最近发布的 Xbox 版本的《龙与地下城》角色扮演游戏。]]></description>
-      <guid>https://www.ign.com/articles/baldurs-gate-3-dev-says-microsoft-working-to-fix-xbox-deleted-save-bug</guid>
-      <pubDate>Tue, 12 Dec 2023 10:32:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

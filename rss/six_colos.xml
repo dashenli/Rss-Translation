@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 12 Dec 2023 02:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 21:22:19 GMT</lastBuildDate>
+    <item>
+      <title>如何阻止邮件日志占用您的磁盘空间</title>
+      <link>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</link>
+      <description><![CDATA[前一周，我注意到 MacBook Air 上的可用磁盘空间量急剧下降到不足几 GB。由于我通常不会在那台计算机上存储那么多文件（更不用说大文件），我四处寻找，找出是什么耗尽了我所有的磁盘空间1.…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</guid>
+      <pubDate>Tue, 12 Dec 2023 19:03:45 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级490：猫有一个律师团队</title>
       <link>https://sixcolors.com/podcast/2023/12/upgrade-490-the-cat-has-a-team-of-lawyers/</link>
@@ -113,16 +120,6 @@
 音频劫持可让您在 Mac 上录制任何音频，包括 Safari 或 Zoom 等单个应用程序、麦克风和混音器等硬件音频设备，甚至整个系统的音频输出。…]]></description>
       <guid>https://sixcolors.com/feed-only/2023/12/audio-hijack-the-macs-best-audio-recorder-and-more/</guid>
       <pubDate>Mon, 04 Dec 2023 17:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周苹果：金钱并不能解决一切（会员帖子）</title>
-      <link>https://sixcolors.com/member/2023/12/this-week-in-apple-money-doesnt-solve-everything/</link>
-      <description><![CDATA[
-金钱似乎无法解决的三种情况：Apple Card、埃隆·马斯克和苹果的调制解调器项目。
-信用被拒绝
-他们说分手很难，但当你因为这段关系而损失了 30 亿美元时，你往往会主动寻找实现分手的方法，即使这意味着分割你的流媒体服务计划.… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
-      <guid>https://sixcolors.com/member/2023/12/this-week-in-apple-money-doesnt-solve-everything/</guid>
-      <pubDate>Fri, 01 Dec 2023 22:00:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
