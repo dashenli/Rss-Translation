@@ -4,7 +4,7 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 13 Dec 2023 18:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 21:23:28 GMT</lastBuildDate>
     <item>
       <title>每日漫画：12 月 13 日星期三</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-december-13th-coffee-date</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[乔安妮·麦克尼尔的小说表明，我们所认为的技术进步很大程度上是一种掩盖人类劳动的新方式。]]></description>
       <guid>https://www.newyorker.com/books/page-turner/wrong-way-takes-the-shine-off-the-self-driving-car</guid>
       <pubDate>Wed, 13 Dec 2023 16:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最佳图书</title>
+      <link>https://www.newyorker.com/best-books-2023</link>
+      <description><![CDATA[我们的编辑和评论家评论著名的新小说、非小说和诗歌。]]></description>
+      <guid>https://www.newyorker.com/best-books-2023</guid>
+      <pubDate>Wed, 13 Dec 2023 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>《回声》中盲人回声定位的先驱</title>
@@ -34,13 +41,6 @@
       <pubDate>Wed, 13 Dec 2023 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年《纽约客》二十五个热门故事</title>
-      <link>https://www.newyorker.com/culture/2023-in-review/the-top-twenty-five-new-yorker-stories-of-2023</link>
-      <description><![CDATA[在许多人回避新闻的一年里，这些文章对读者的吸引力持续时间最长。]]></description>
-      <guid>https://www.newyorker.com/culture/2023-in-review/the-top-twenty-five-new-yorker-stories-of-2023</guid>
-      <pubDate>Wed, 13 Dec 2023 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亨特·拜登和未说出口的事情</title>
       <link>https://www.newyorker.com/culture/cultural-comment/hunter-biden-and-the-things-left-unsaid</link>
       <description><![CDATA[总统的儿子是一个无处不在的话题。但是，在拜登家族的四本回忆录中，沉默是一股暗流，牵引着这个健谈、易怒的家族。]]></description>
@@ -48,9 +48,16 @@
       <pubDate>Wed, 13 Dec 2023 11:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>2023 年《纽约客》二十五个热门故事</title>
+      <link>https://www.newyorker.com/culture/2023-in-review/the-top-twenty-five-new-yorker-stories-of-2023</link>
+      <description><![CDATA[在许多人回避新闻的一年里，这些文章对读者的吸引力持续时间最长。]]></description>
+      <guid>https://www.newyorker.com/culture/2023-in-review/the-top-twenty-five-new-yorker-stories-of-2023</guid>
+      <pubDate>Wed, 13 Dec 2023 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>科罗拉多州重新考虑让特朗普参加选票</title>
       <link>https://www.newyorker.com/news/daily-comment/colorado-reconsiders-letting-trump-on-the-ballot</link>
-      <description><![CDATA[科罗拉多州最高法院的一个案件是考虑特朗普是否应根据第十四修正案被取消资格的几个案件之一，但它进展得最远。]]></description>
+      <description><![CDATA[科罗拉多州最高法院的一个案件是考虑特朗普是否应该根据第十四修正案被取消资格的几个案件之一，但它进展得最远。]]></description>
       <guid>https://www.newyorker.com/news/daily-comment/colorado-reconsiders-letting-trump-on-the-ballot</guid>
       <pubDate>Tue, 12 Dec 2023 23:15:26 GMT</pubDate>
     </item>
@@ -101,13 +108,6 @@
       <link>https://www.newyorker.com/culture/cultural-comment/how-the-movie-professor-got-cancelled</link>
       <description><![CDATA[学者的生活缺乏自然的叙事动力。提示取消文化。]]></description>
       <guid>https://www.newyorker.com/culture/cultural-comment/how-the-movie-professor-got-cancelled</guid>
-      <pubDate>Tue, 12 Dec 2023 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国公布最热年份</title>
-      <link>https://www.newyorker.com/culture/2023-in-review/the-un-announces-the-hottest-year</link>
-      <description><![CDATA[气候变暖了，但清洁能源也变暖了。]]></description>
-      <guid>https://www.newyorker.com/culture/2023-in-review/the-un-announces-the-hottest-year</guid>
       <pubDate>Tue, 12 Dec 2023 11:00:00 GMT</pubDate>
     </item>
     </channel>

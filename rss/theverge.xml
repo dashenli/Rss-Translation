@@ -4,7 +4,66 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 13 Dec 2023 18:31:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 21:21:02 GMT</lastBuildDate>
+    <item>
+      <title>X 中断再次破坏了所有传出链接</title>
+      <link>https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+好像发布者和用户没有有足够的理由重新考虑他们与以前称为 Twitter 的平台的连接，所有来自 X 的传出链接在周三下午都停止工作。 URL 重定向存在问题，该重定向会在用户上路之前捕获活动，从而导致用户看到一个简单的错误页面，显示“此页面已关闭。我尖叫。你喊。我们都尖叫...希望我们修复这个页面。我们将停止开玩笑并尽快让事情恢复正常。” 
+发生这种情况大约一个小时左右后，问题得到了解决，尽管我们还没有看到 @Support 帐户、首席执行官 Linda Yaccarino 或 X 所有者/首席技术官对此问题有任何公开承认埃隆·马斯克。
+如果这听起来很熟悉，那是因为三月份也发生过类似的事情，在大约一个小时内跨时间线删除了链接和图像。 Twitter 将此归咎于 Platformer 之前的“内部变化导致了一些意想不到的后果”报告该错误的发生是由于该网站剩下的唯一一位网站可靠性工程师犯了一个错误，该工程师在埃隆·马斯克(Elon Musk)大规模裁员后独自运作。
+
+
+Emma Roth / The Verge 的屏幕截图
+如果您尝试单击 X 上的传出链接，您将看到此错误消息。
+
+美国东部时间 12 月 13 日下午 2:31 更新：注明的链接已再次正常工作。]]></description>
+      <guid>https://www.theverge.com/2023/12/13/24000170/x-outage-link-error-message-broken</guid>
+      <pubDate>Wed, 13 Dec 2023 19:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果将​​使政府更难收到你的推送通知</title>
+      <link>https://www.theverge.com/2023/12/13/23990706/google-apple-court-order-required-push-notification-ron-wyden-letter-surveillance-e2e-encryption</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Amelia Holowaty Krales / The Verge
+
+从现在开始，Apple 将要求执法部门获得法院命令，然后才能交出客户推送通知的详细信息。正如路透社 报道，苹果悄悄更新了其执法指南 页面，其中指定现在需要搜查令和法院命令才能放弃“与 Apple 推送通知服务令牌相关的 Apple ID”。据透露，苹果和谷歌一直在向政府提供有关通知的详细信息，因此出台了新政策。
+应用可以将通知“推送”到您的手机，以便您即使在应用本身未打开的情况下也能收到提醒，例如短信或收到的电子邮件。但该过程涉及与苹果和谷歌共享潜在的敏感信息，包括元数据“详细说明哪个应用程序收到通知以及何时收到通知，以及该通知打算发送到的手机和关联的苹果或谷歌帐户”，参议员罗恩·怀登（D-OR）上周在给司法部长梅里克·加兰的一封信中写道。
+怀登的信通知美国司法部，他的办公室一直在调查外国政府是否强迫苹果和谷歌交出智能手机推送通知中的个人信息。怀登表示，两家公司都承认发生了这种情况，并且后来都向新闻媒体证实了这一点。 苹果告知&lt; em&gt;路透社称联邦政府“禁止”它分享这些请求，但补充说，“既然这种方法已经公开，我们正在更新我们的透明度报告以详细说明此类请求。”&lt; /p&gt;
+Google 已经制定了要求法院发出命令的政策。在路透社报道的一份声明中，怀登表示，苹果“通过与谷歌匹配并要求法院命令交出推送通知相关数据来做正确的事情”。 
+在最初的信中，怀登要求司法部“废除或修改任何阻止公司“对其收到的法律要求（尤其是来自外国政府的法律要求）保持透明”的政策。 Google 已包含有关 Wyden 在其透明度报告中提到的要求的信息，根据404媒体。&lt; /em&gt;
+
+
+
+
+虽然怀登特别提到了外国政府，但美国执法部门也寻求同样的信息。 404 Media 的报道详细介绍了 2020 年 FBI 搜查令请求，其语言与 Wyden 所写内容非常接近。在搜查令中，请求代理表示，苹果和谷歌都会向用户的手机发送一个“推送令牌”，然后通过正在使用的任何应用程序将其路由到制造该应用程序的公司的服务器。该代理写道，令牌附带了信息的“有效负载”，“可能有助于识别特定订阅者使用的特定设备”来访问其帐户。 
+应用在发送推送通知时并不总是需要包含识别详细信息。正如 这篇关于 Mastodon 的文章中所述，加密消息应用程序 Signal，注意以下情况时不要包含可追溯到用户帐户或设备的数据：发送推送通知。但是，正如线程中指出的，通知和相关元数据的存在对于某些监视目的来说就足够了。&lt; /p&gt;]]></description>
+      <guid>https://www.theverge.com/2023/12/13/23990706/google-apple-court-order-required-push-notification-ron-wyden-letter-surveillance-e2e-encryption</guid>
+      <pubDate>Wed, 13 Dec 2023 19:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xbox 云游戏现已在 Meta 的 Quest VR 耳机上可用</title>
+      <link>https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图像：元
+
+Xbox 云游戏现已登陆 Meta 的 VR 耳机系列。云游戏应用程序的测试版是 现已推出，适用于 Meta Quest 2、3 或 Pro 耳机，让您可以通过 Xbox Game Pass Ultimate 订阅、控制器和 Quest 耳机串流数百款 Xbox 游戏。
+测试版应用可从 Meta Quest Store，您只需要配对支持的蓝牙控制器即可开始播放。您可以使用 Xbox 控制器（支持蓝牙）、PS4 控制器，甚至任天堂的 Switch Pro 控制器。对 PS5 控制器的支持“即将到来”，根据 Meta。
+
+
+图片：元
+Quest 耳机上的 Xbox 云游戏应用程序。
+
+有多种显示尺寸可供沉浸式 VR 环境使用，以在最新的 Quest 3 和 Pro 耳机上流式传输 Xbox 游戏，甚至可以在利用全彩直通功能的最新 Quest 3 和 Pro 耳机上构建 Xbox 主题虚拟空间。 
+Meta 耳机上的 Xbox 云游戏应用是 Microsoft 与 Meta 之间建立更广泛的合作伙伴关系，将 Microsoft Teams、Office 和 Windows 体验引入 VR。 Microsoft Teams 即将实现 3D 化1 月，发布了由 Mesh 驱动的 VR 会议体验，该体验将在 Meta 的 Quest 耳机上提供。]]></description>
+      <guid>https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset</guid>
+      <pubDate>Wed, 13 Dec 2023 18:35:24 GMT</pubDate>
+    </item>
     <item>
       <title>Threads 正式开始测试 ActivityPub 集成</title>
       <link>https://www.theverge.com/2023/12/13/24000120/threads-meta-activitypub-test-mastodon</link>
@@ -29,7 +88,7 @@
 特斯拉将不得不跳过瑞典的垃圾日，因为该国的劳工团体继续抗议该公司的反工会政策。 路透社&lt; /em&gt; 报道 该国运输工人工会将拒绝在该汽车制造商的车间里捡垃圾，以声援特斯拉汽车工人，他们自 10 月 27 日以来一直在罢工。
 特斯拉一直抵制全球范围内的集体谈判协议，但瑞典强大的劳工文化正在继续考验这家汽车制造商的政策。
 在 Tesla 维修店的 130 名工人罢工后，码头工人工会首先表示了声援，他们拒绝在 11 月初从货船上卸下 Tesla 车辆。随后，11 月 20 日，邮政工作人员也加入了这一行动，拒绝向特斯拉投递邮件，其中包括车牌。 11 月 27 日，该汽车制造商随后提起诉讼并最初胜诉&lt; /a&gt; 有权直接从瑞典交通局领取车牌。
-特斯拉的车牌胜利 国家养老基金让公司获得集体谈判席位。特斯拉是否会做出让步仍悬而未决——从 12 月 24 日罢工开始时，空气中就会开始弥漫着堆积垃圾的臭味。
+特斯拉的车牌胜利国家养老基金让公司获得集体谈判席位。特斯拉是否会做出让步仍悬而未决——从 12 月 24 日罢工开始，空气中就会开始弥漫着堆积垃圾的臭味。
 特斯拉还抵制其员工在美国成立工会的努力。据称，该公司解雇了试图在纽约州布法罗组织起来，压制在佛罗里达州奥兰多谈论薪酬，并试图阻止员工佩戴工会赃物。]]></description>
       <guid>https://www.theverge.com/2023/12/13/23999848/tesla-sweden-union-autoworkers-transport-trash-waste-pickup</guid>
       <pubDate>Wed, 13 Dec 2023 17:24:00 GMT</pubDate>
@@ -41,7 +100,7 @@
       
 图片：苹果
 
-Apple 已开始单独购买第二代 AirPods Pro 的 USB-C 充电盒。但它并不便宜。 MagSafe 兼容保护壳，立即上市，售价 99 美元。不过，如果您决心将所有设备都切换到 USB-C，并且已经拥有一对带有 Lightning 保护壳的第二代 AirPods Pro，那么此升级比购买全新设备更便宜。 
+Apple 已开始单独购买第二代 AirPods Pro 的 USB-C 充电盒。但它并不便宜。 MagSafe 兼容保护壳，立即可用，是售价 99 美元。不过，如果您决心将所有设备都切换到 USB-C，并且已经拥有一对带有 Lightning 保护壳的第二代 AirPods Pro，那么此升级比购买全新设备更便宜。 
 预计交货日期将在圣诞节之后，因此，除非您当地的 Apple 商店在未来几天内有货，否则该保护套可能不适合作为节日圣诞礼物。 
 今年早些时候发布的 USB-C AirPods Pro 与原来的 Lightning 型号相比仍然有一些优势。也就是说，它们除了能够处理溅水之外，还具有防尘功能。 （与耳机一样，独立盒的防护等级为 IP54。）USB-C AirPods Pro 与 Apple 明年发布的 Vision Pro 耳机配合使用时，还将能够无线传输无损音频。 
 但只要您拥有带有任一端口的第二代耳机，您可以利用 Apple 最新的 AirPods Pro 软件功能，例如自适应音频和对话检测。]]></description>
@@ -55,7 +114,7 @@ Apple 已开始单独购买第二代 AirPods Pro 的 USB-C 充电盒。但它并
       
 图片：Bungie
 
-Epic Games 宣布，该公司计划在年度假日特卖期间为 Epic Games Store 赠送 17 款免费游戏周三。
+Epic Games 宣布，该公司计划在年度假日促销期间为 Epic Games Store 赠送 17 款免费游戏周三。
 您可以获得的第一个免费游戏是&lt; em&gt;命运 2：遗产合集 (2023)，其中包括三个扩展包：女巫女王、超越光影 &gt; 和暗影要塞。如果您想在 最近延迟发布了The Final Shape，Legacy Collection &gt; 添加到您的 Epic Games Store 库中可能是一件好事（但请注意，它不包括当前的Lightfall扩展）。 Legacy Collection 将在美国东部时间 12 月 20 日上午 11 点之前免费提供；届时，下一个免费游戏将解锁。
 2023 年假日促销也有一些非常划算的优惠。
 
@@ -84,66 +143,6 @@ EA Sports FC 降价60%至 27.99 美元 — 使用 Epic 优惠券可优惠 33%，
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23999750/tesla-autopilot-recall-nhtsa-software-safety-problems</guid>
       <pubDate>Wed, 13 Dec 2023 16:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 将精彩的《索尼克狂欢》引入移动设备</title>
-      <link>https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：世嘉
-
-Netflix 发现，唯一比拥有 其平台上的一堆索尼克卡通正在制作索尼克游戏。 流媒体宣布Sonic Mania Plus - 你知道，最好的索尼克 这十年的游戏 - 将于 2024 年通过 Netflix 登陆移动设备。
-Sonic Mania 于 2017 年在主机和 PC 上推出，并于 2018 年更新为Sonic Mania Plus。 Plus 的升级增加了两个新的可玩角色——Mighty 和 Ray——一个新的教程区域，以及扩展的颜色交换级别。 
-但最大的新增功能是一种名为 Encore 模式的新游戏模式。在这个新模式中，索尼克和伙伴们不再需要在每次发现自己处于溺水计时器音乐的错误一端时积累生命，而是像《大金刚国度》中的金刚交换桶一样积累党员。 &gt;。在每个关卡中，你都会破解一些盒子，为你的队伍添加一个新角色。你可以随时在角色之间切换，以利用他们独特的能力（例如，纳克鲁斯的爬墙能力或塔尔斯的飞行能力），如果你死了，你的一名队员会接管，直到没有人留下，你“游戏结束。”这是一个非常非常酷的补充，我真的很兴奋第一次在 Netflix 上为自己玩。 
-
-随着《索尼克》的迷妹风潮消失，Netflix 宣布推出更多影片，其中包括续集《舒适丛林：营地生活》 动物森友会般的生活模拟Cozy Grove、Game Dev Tycoon和时尚装扮游戏FashionVerse - 所有这些，以及 Sonic Mania Plus，将于明年推出。
-Netflix 在 2023 年结束时推出了 86 款游戏，其中包括侠盗猎车手：三部曲-终极版 本周抵达，明年，流媒体将为订阅者提供像  这样的游戏《哈迪斯》、《武士零》、《时空幻境》周年纪念版和《金偶像崛起》。 
-]]></description>
-      <guid>https://www.theverge.com/2023/12/13/23999780/sonic-mania-plus-netflix-cozy-grove-2024</guid>
-      <pubDate>Wed, 13 Dec 2023 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Politico 和 Business Insider 母公司 Axel Springer 与 OpenAI 签署协议</title>
-      <link>https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico</link>
-      <description><![CDATA[&lt;图&gt;
-      
-威廉·乔尔的插图
-
-OpenAI 与 Business Insider 和 Politico 的母公司 Axel Springer 签署了一项在 ChatGPT 上共享内容的协议。 
-该交易允许 ChatGPT 从 Axel Springer 出版物上发表的文章中向用户提示提取信息，并提供完整故事的链接以提高透明度。它还将使 Axel Springer 能够使用 OpenAI 的技术进行构建，该公司在 声明。 
-Axel Springer 拥有《Business Insider》、《Politico》和欧洲出版物《Bild》和《Welt》 。 
-该公司表示，与 OpenAI 的合作创造了新的金融机会。 Axel Springer 的副发言人 Julia Sommerfeld 告诉 The Verge，ChatGPT 将可以访问 Business Insider 上的付费付费文章，但不能访问 Politico Pro&lt; 上的付费订阅故事。 /em&gt;. 
-《商业内幕》主编 Nicholas Carlson 4月份向记者发送了一份备忘录，表示计划仔细探索如何在报道中使用人工智能。 
-美联社 7 月份与 OpenAI 签署了类似的协议，允许人工智能公司根据其内容训练模型。 
-媒体组织一直在努力解决如何应对生成式人工智能的兴起。对潜在版权侵权的担忧推动了《纽约时报》、BBC、CNN、《路透社》和《The Verge》母公司 Vox Media 等出版物阻止 OpenAI 的网络爬虫访问数据。 
-尽管如此，一些新闻机构仍希望使用该技术。 纽约时报宣布聘请一名新闻编辑部主管来监督人工智能项目，福布斯建立了一个人工智能驱动的搜索引擎用于其文章。 ]]></description>
-      <guid>https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico</guid>
-      <pubDate>Wed, 13 Dec 2023 15:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊正在让您更轻松地浏览整个图书馆</title>
-      <link>https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Chaim Gartenberg / The Verge
-
-亚马逊正在推出一项新功能 将您在网站上购买过的每一本书（无论是数字书、实体书还是有声读物）放入一个可搜索的中心。这项新功能名为您的图书，可让您对所有图书进行排序，同时还根据您之前购买的内容提供推荐。
-主“图书馆”选项卡列出了您的整个图书目录，您可以根据各种过滤器进行搜索，例如作者、流派和系列，以及一些针对您当前图书定制的过滤器自己的，比如“文学与艺术”小说。”还有一个用于保存图书的选项卡，其中包括您在亚马逊上添加过心愿单的每一本书。
-
-
-Emma Roth / The Verge 的屏幕截图
-您可以根据作者、流派、系列等对您的图书馆进行排序。
-
-您的图书中心也可以提供推荐。如果您打开图书馆页面右上角的“发现模式”功能，亚马逊将根据您的每本书生成推荐。您还可以在已保存的图书列表下查看推荐，并可以使用多种不同的过滤器对这些图书进行排序。
-我亲自尝试了该功能，它似乎可以让我更轻松地跟踪我已经阅读或计划阅读的所有书籍。我什至发现了一些我不记得购买过的隐藏宝石，比如 Chrissy Teigen 的食谱。
-
-
-Emma Roth / The Verge 的屏幕截图
-该中心还可以提供与您购买的图书相关的推荐。
-
-但在组织数字漫画书和漫画时，它确实存在一些问题。亚马逊将它们归入“Kindle 电子书”过滤器中，使它们更难以分类。到目前为止，亚马逊的 Comixology 集成进展并不顺利 ，并且缺乏专门的工具来组织漫画和漫画并没有让从应用程序的过渡变得更好。在管理数字内容方面，“您的图书”功能仍然是朝着正确方向迈出的一步，但如果它真的想成为所有媒体的一体化中心，则需要进行一些调整。]]></description>
-      <guid>https://www.theverge.com/2023/12/13/23999804/amazon-your-books-library-recommendations</guid>
-      <pubDate>Wed, 13 Dec 2023 15:45:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

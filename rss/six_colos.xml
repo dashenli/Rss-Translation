@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 12 Dec 2023 21:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 21:22:20 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 533：我是应用程序</title>
+      <link>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</link>
+      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
+      <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 474：永远保持肮脏</title>
+      <link>https://sixcolors.com/podcast/2023/12/the-rebound-474-always-be-smirching/</link>
+      <description><![CDATA[事情比以前更糟还是一如既往地糟糕？…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/the-rebound-474-always-be-smirching/</guid>
+      <pubDate>Wed, 13 Dec 2023 18:57:11 GMT</pubDate>
+    </item>
     <item>
       <title>如何阻止邮件日志占用您的磁盘空间</title>
       <link>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</link>
@@ -102,24 +116,6 @@
       <description><![CDATA[由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司 Beeper 宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
       <guid>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</guid>
       <pubDate>Tue, 05 Dec 2023 16:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 489：未来在 CompuServe</title>
-      <link>https://sixcolors.com/podcast/2023/12/upgrade-489-the-future-is-on-compuserve/</link>
-      <description><![CDATA[Myke 重返展会讨论芯片封装（在美国）以及人工智能模型使计算机使用变得更容易的潜力。然后，根据要求，我们花了一些时间讨论我们是如何进入这个行业的。…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/12/upgrade-489-the-future-is-on-compuserve/</guid>
-      <pubDate>Mon, 04 Dec 2023 22:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）音频劫持：Mac 上最好的录音机等</title>
-      <link>https://sixcolors.com/feed-only/2023/12/audio-hijack-the-macs-best-audio-recorder-and-more/</link>
-      <description><![CDATA[
-
-
-
-音频劫持可让您在 Mac 上录制任何音频，包括 Safari 或 Zoom 等单个应用程序、麦克风和混音器等硬件音频设备，甚至整个系统的音频输出。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2023/12/audio-hijack-the-macs-best-audio-recorder-and-more/</guid>
-      <pubDate>Mon, 04 Dec 2023 17:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
