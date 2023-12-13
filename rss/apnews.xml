@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
-    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 13 Dec 2023 09:23:48 GMT</lastBuildDate>
+    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 13 Dec 2023 12:55:26 GMT</lastBuildDate>
+    <item>
+      <title>加沙城的伏击造成 7 名以色列士兵死亡，那里的战斗持续数周，造成毁灭性的进攻，以色列媒体称，至少有 7 名以色列士兵...</title>
+      <link>https://apnews.com/article/israel-hamas-war-news-12-13-2023-10a0370b7b320d73def6b6a2a137f16a</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/israel-hamas-war-news-12-13-2023-10a0370b7b320d73def6b6a2a137f16a</guid>
+      <pubDate>Wed, 13 Dec 2023 08:50:34 GMT</pubDate>
+    </item>
     <item>
       <title>“我感觉被困住了”：数十名未成年罗兴亚女孩被迫在马来西亚遭受虐待婚姻</title>
       <link>https://apnews.com/article/rohingya-refugees-bangladesh-myanmar-malaysia-migration-f481e725f97d1b004a474e5facb10144</link>
@@ -13,11 +20,25 @@
       <pubDate>Wed, 13 Dec 2023 05:31:53 GMT</pubDate>
     </item>
     <item>
+      <title>随着共和党人团结起来支持调查，众议院将就拜登弹劾调查进行关键投票</title>
+      <link>https://apnews.com/article/joe-biden-impeachment-inquiry-mike-johnson-94884b322da40ca9315ac5f4e73a3e86</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/joe-biden-impeachment-inquiry-mike-johnson-94884b322da40ca9315ac5f4e73a3e86</guid>
+      <pubDate>Wed, 13 Dec 2023 05:11:40 GMT</pubDate>
+    </item>
+    <item>
       <title>美国的信誉在乌克兰资助辩论中岌岌可危 总统乔·拜登恢复美国在全球信誉的承诺在...</title>
       <link>https://apnews.com/article/joe-biden-ukraine-russia-660a3603c72a0b51b734d6a41499027b</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/joe-biden-ukraine-russia-660a3603c72a0b51b734d6a41499027b</guid>
       <pubDate>Wed, 13 Dec 2023 05:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联社-NORC/AAPI 数据民意调查显示，美国亚裔和太平洋岛民对民主持担忧态度</title>
+      <link>https://apnews.com/article/asian-americans-poll-democracy-biden-a7ca93b210c27ab237a3ca1dcf4042f3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/asian-americans-poll-democracy-biden-a7ca93b210c27ab237a3ca1dcf4042f3</guid>
+      <pubDate>Wed, 13 Dec 2023 05:08:24 GMT</pubDate>
     </item>
     <item>
       <title>在对加沙战术的强烈抗议中，士兵恶意行为的视频给以色列带来了新的头痛</title>
@@ -34,21 +55,14 @@
       <pubDate>Wed, 13 Dec 2023 05:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>COP28 上发布了新的、更强有力的气候提案，但并未完全呼吁逐步淘汰化石燃料</title>
+      <title>随着各国推动停止使用化石燃料，代表们在 COP28 上提出了一项新的、更强有力的气候提案</title>
       <link>https://apnews.com/article/cop28-climate-summit-negotiations-fossil-fuels-dubai-64c0e39e6ad54a98e05e5201a2215293</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/cop28-climate-summit-negotiations-fossil-fuels-dubai-64c0e39e6ad54a98e05e5201a2215293</guid>
       <pubDate>Wed, 13 Dec 2023 03:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>主演过《凶杀案》和《布鲁克林九九》的艾美奖获奖演员安德烈·布劳尔 (Andre Brauger) 去世，享年 61 岁。</title>
-      <link>https://apnews.com/article/andre-braugher-dead-f2ee7dd990dbd40c8fd5258ac624bab7</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/andre-braugher-dead-f2ee7dd990dbd40c8fd5258ac624bab7</guid>
-      <pubDate>Wed, 13 Dec 2023 02:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿根廷大幅贬值货币并削减补贴作为冲击性经济措施的一部分</title>
+      <title>阿根廷大幅贬值本币并削减补贴，作为冲击性经济措施的一部分阿根廷宣布大幅贬值其现有货币...</title>
       <link>https://apnews.com/article/argentina-economy-dollar-devaluation-economy-cuts-28089d64ae72bde12d53be59b5bc5a85</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/argentina-economy-dollar-devaluation-economy-cuts-28089d64ae72bde12d53be59b5bc5a85</guid>
@@ -83,32 +97,18 @@
       <pubDate>Tue, 12 Dec 2023 18:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>亚当·约翰逊 (Adam Johnson) 因滑冰刀造成的死亡促使人们对青少年曲棍球中的护颈要求有了新的认识。 曲棍球运动员亚当·约翰逊 (Adam Johnson) 因滑冰刀而死...</title>
+      <title>亚当·约翰逊 (Adam Johnson) 因滑冰刀造成的死亡促使人们对青少年曲棍球中的护颈要求有了新的认识。 曲棍球运动员亚当·约翰逊 (Adam Johnson) 因滑冰刀而死亡...</title>
       <link>https://apnews.com/article/hockey-johnson-neck-safety-dcc8fc5fe48c8dfaab476bfb697d510a</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/hockey-johnson-neck-safety-dcc8fc5fe48c8dfaab476bfb697d510a</guid>
       <pubDate>Tue, 12 Dec 2023 15:52:28 GMT</pubDate>
     </item>
     <item>
-      <title>肯塔基州妇女寻求法院批准堕胎，却发现她的胚胎不再有心脏活动</title>
+      <title>肯塔基州一名孕妇寻求法院批准堕胎，但得知她的胚胎不再有心脏活动，肯塔基州一名孕妇的律师申请了...</title>
       <link>https://apnews.com/article/abortion-kentucky-lawsuit-6c1b00702cf915486333bf54eb2db2de</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/abortion-kentucky-lawsuit-6c1b00702cf915486333bf54eb2db2de</guid>
       <pubDate>Tue, 12 Dec 2023 15:12:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>起诉鲁迪朱利安尼的佐治亚州选举工作人员告诉陪审员，他的谎言让她担心自己的生命</title>
-      <link>https://apnews.com/article/rudy-giuliani-georgia-election-workers-defamation-trial-0151222465923e9dcad489adb7661f0a</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/rudy-giuliani-georgia-election-workers-defamation-trial-0151222465923e9dcad489adb7661f0a</guid>
-      <pubDate>Tue, 12 Dec 2023 15:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>年度联合国气候谈判中做出的 5 项重大承诺以及此后发生的事情</title>
-      <link>https://apnews.com/article/climate-change-cop28-promises-pledges-crisis-paris-agreement-219044e56382becb25383c0b3125b5b2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/climate-change-cop28-promises-pledges-crisis-paris-agreement-219044e56382becb25383c0b3125b5b2</guid>
-      <pubDate>Tue, 12 Dec 2023 10:08:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
