@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 13 Dec 2023 02:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 03:22:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 2023 年 Cloudflare Radar 年度回顾提供了对互联网趋势和发展趋势的见解 [...]</title>
-      <link>https://t.me/hn_summary/63618</link>
-      <description><![CDATA[Cloudflare 2023 年回顾
-2023 年 Cloudflare Radar 年度回顾提供了对全年观察到的互联网趋势和模式的见解。主要调查结果包括全球互联网流量增长了 25%，重大节假日、恶劣天气和故意关闭都会影响流量。谷歌仍然是最受欢迎的通用互联网服务，而 OpenAI 在新兴的生成人工智能类别中名列前茅，币安仍然是最受欢迎的加密货币服务。 Android 设备占全球移动设备流量的三分之二以上，而 Starlink 的全球流量大幅增长。该报告还强调了网站技术、机器人流量、互联网中断和安全漏洞的趋势。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63618</guid>
-      <pubDate>Wed, 13 Dec 2023 02:17:24 GMT</pubDate>
+      <title>[媒体]约旦科技大学计算机科学教授Sh [...]</title>
+      <link>https://t.me/hn_summary/63628</link>
+      <description><![CDATA[约旦教授起诉揭露引文异常的侦探&lt; br/&gt;
+约旦科技大学计算机科学教授 Shadi Aljawarneh 正在起诉博士生 Solal Pirelli，后者揭露了与可疑会议相关的潜在引用欺诈行为。倍耐力发现 Aljawarneh 在会议记录中被引用的次数很高，这引发了欺诈嫌疑。这些会议由国际研究人员协会 (IARES) 组织，Aljawarneh 是该协会的成员，并得到了主要行业团体的支持。倍耐力向计算机协会 (ACM) 报告了他的发现，但没有收到任何回应，这促使他在博客上发表了相关内容。 Aljawarneh 的律师威胁要采取法律行动，尽管检察官驳回了对倍耐力的指控，但诉讼仍在继续。判决显示，在倍耐力发表博客文章后，一场会议被取消，Aljawarneh 被从 PeerJ Computer Science 编辑委员会中除名。]]></description>
+      <guid>https://t.me/hn_summary/63628</guid>
+      <pubDate>Wed, 13 Dec 2023 03:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] OpenAI 是一家非盈利研究机构，成立于 8 年零 1 天前，[...]</title>
-      <link>https://t.me/hn_summary/63617</link>
-      <description><![CDATA[OpenAI 创建已经 8 年零 1 天了
-OpenAI 是一家非盈利研究机构，成立于 8 年零 1 天前，其目标是当人类水平的人工智能成为现实时，优先考虑所有人的良好结果而不是自身利益。该组织鼓励其研究人员自由发表他们的作品并与世界分享任何专利。 OpenAI 还与其他机构和公司合作研究和部署新技术。该团队包括机器学习领域的知名专家，并由该领域的知名人士提供建议。 OpenAI 已从 Sam Altman、Elon Musk 和 Amazon Web Services 等众多捐助者那里获得了 10 亿美元的资金。]]></description>
-      <guid>https://t.me/hn_summary/63617</guid>
-      <pubDate>Wed, 13 Dec 2023 02:07:08 GMT</pubDate>
+      <title>[媒体] Firefox 加载 YouTube 速度慢？</title>
+      <link>https://t.me/hn_summary/63627</link>
+      <description><![CDATA[Firefox 加载 YouTube 速度慢？这只是 Google 对抗广告拦截器的又一战线
+谷歌承认故意延迟安装了广告拦截器的用户在 YouTube 上播放视频，以阻止此类扩展程序的使用。此前，YouTube 曾向广告拦截器用户弹出消息，鼓励他们禁用该扩展程序或支付无广告高级套餐的费用。最近，用户报告使用非 Chrome 浏览器（例如 Firefox）时视频播放延迟。谷歌声称，这种延迟并不针对任何特定浏览器，而是针对不愿意关闭广告拦截器的用户。然而，有报告称存在误报，即使未安装广告拦截器也会出现延迟。 Google 阻止广告拦截器的努力还包括计划中的 API 更改，该更改将使旧版 Chrome 扩展程序（包括广告拦截器）除非更新，否则将毫无用处。]]></description>
+      <guid>https://t.me/hn_summary/63627</guid>
+      <pubDate>Wed, 13 Dec 2023 03:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了互联网上无广告选项的趋势及其对 [...]</title>
-      <link>https://t.me/hn_summary/63616</link>
-      <description><![CDATA[欢迎来到无广告的互联网
-本文讨论了互联网上无广告选项的趋势及其对广告商的影响。 Facebook、Twitter、TikTok 和 Snapchat 等平台正在向用户提供无广告订阅，使他们能够摆脱广告的轰炸。这种转变是由监管和技术变革共同推动的。例如，苹果的反跟踪功能削弱了个性化广告的能力，从而导致了替代的货币化方法。然而，无广告选项的存在并不能保证被接受，广告商正在探索新的途径，例如户外媒体、赞助和零售媒体。总体而言，广告主有信心通过各种方式仍能接触到有价值的消费者。]]></description>
-      <guid>https://t.me/hn_summary/63616</guid>
-      <pubDate>Wed, 13 Dec 2023 02:01:58 GMT</pubDate>
+      <title>[媒体] Flask Mega-Tutorial 是使用 Pyt 创建 Web 应用程序的综合指南 [...]</title>
+      <link>https://t.me/hn_summary/63626</link>
+      <description><![CDATA[Flask 大型教程，第一部分：你好，世界
+Flask Mega-Tutorial 是使用 Python 和 Flask 框架创建 Web 应用程序的综合指南。在第一部分中，作者解释了如何建立 Flask 项目。本教程强调了自己键入代码（而不是从 GitHub 下载代码）的重要性，以便更好地了解 Flask 和示例应用程序。作者还讨论了安装 Python 包的最佳实践，并介绍了虚拟环境的概念来管理不同应用程序的不同版本的包。本教程最后提供了一个示例“Hello, World”Flask 应用程序，该应用程序演示了 Flask 项目的基本结构。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63626</guid>
+      <pubDate>Wed, 13 Dec 2023 03:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员开发了一种混合生物计算机，将实验室培养的人类生物计算机与[...]</title>
-      <link>https://t.me/hn_summary/63615</link>
-      <description><![CDATA[“生物计算机”将实验室培养的脑组织与电子硬件结合起来
-研究人员开发了一种混合生物计算机，将实验室培养的人脑组织与电子电路结合起来。该系统名为 Brainoware，使用大脑类器官，这些类器官是模仿人类组织的细胞束，可以专门分化成不同类型的细胞。研究人员将一个类器官放置在包含数千个电极的板上，将脑组织与电路连接起来。然后他们将输入信息转换为电脉冲并将其传递给类器官。使用机器学习算法解码类器官的反应。该技术可以集成到人工智能系统中或用于改进神经科学研究中的大脑模型。]]></description>
-      <guid>https://t.me/hn_summary/63615</guid>
-      <pubDate>Wed, 13 Dec 2023 01:50:44 GMT</pubDate>
+      <title>[媒体] 提供的内容是有关 subreddit r/b 的标题和一些技术信息 [...]</title>
+      <link>https://t.me/hn_summary/63625</link>
+      <description><![CDATA[r/borrow
+提供的内容是网站上有关 subreddit r/borrow 的标题和一些技术信息 old.reddit.com。 Reddit 子版块已活跃 9 年，目前拥有 156,337 名读者和 145 名在线用户。令人惊讶的是，该内容没有提供有关 Reddit 子版块的目的或性质的任何信息，让读者对其具体焦点或争议感到好奇。]]></description>
+      <guid>https://t.me/hn_summary/63625</guid>
+      <pubDate>Wed, 13 Dec 2023 03:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在接受 CNBC 采访时，Epic Games 首席执行官 Tim Sweeney 解释了为什么 [...]</title>
-      <link>https://t.me/hn_summary/63614</link>
-      <description><![CDATA[Tim Sweeney：Epic 输掉了 App Store 诉讼，因为“苹果没有”写下任何东西&#39;
-在接受 CNBC 采访时，Epic Games 首席执行官蒂姆·斯威尼 (Tim Sweeney) 解释了为什么他们针对谷歌的法律诉讼的结果比针对苹果的诉讼的结果更有利。斯威尼将这种差异归因于“苹果没有写下任何东西”，指的是谷歌审判期间披露的关键文件和通信被删除或没有正确记录的事实。 Sweeney 还提到，Epic 很难从苹果内部找到文档，这在不同的结果中发挥了作用。斯威尼认为，苹果对竞争的限制应该受到与谷歌同等程度的反垄断审查。在与苹果的斗争中，Epic Games 十次败诉，苹果已提出上诉。]]></description>
-      <guid>https://t.me/hn_summary/63614</guid>
-      <pubDate>Wed, 13 Dec 2023 01:40:31 GMT</pubDate>
+      <title>[媒体]网页内容讨论了人类和小鼠组织样本的收集和处理[...]</title>
+      <link>https://t.me/hn_summary/63624</link>
+      <description><![CDATA[在空间和时间上解析的人类胚胎肢体细胞图谱
+该网络内容讨论了人类和小鼠组织样本的收集和处理，以创建人类胚胎肢体细胞图谱。人体组织样本来自英国阿登布鲁克医院和中国广州妇女儿童医疗中心的选择性终止妊娠手术。样本的收集遵循道德准则，并获得了捐赠者的知情同意。小鼠组织样本是从怀孕小鼠身上采集的，并放置在受控环境中。使用各种技术对收集的组织进行处理和分析，包括单细胞 RNA 测序和空间转录组学。这些实验产生的数据被用来创建人类胚胎肢体细胞的综合图谱。 （根据故事文本的 39% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63624</guid>
+      <pubDate>Wed, 13 Dec 2023 03:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我们将探讨 iOS 应用程序中使用的现代导航模式。</title>
-      <link>https://t.me/hn_summary/63613</link>
-      <description><![CDATA[现代 iOS 导航模式
-在本文中，我们将探讨 iOS 应用程序中使用的现代导航模式。这些模式基于固定的体系结构，通常是具有多个级别的分层树。这种结构为用户在浏览应用程序时提供了一种自信和可预测的感觉。它使他们能够轻松了解自己来自哪里、当前在层次结构中的位置以及如何导航回之前的位置。通过实现这些导航模式，开发人员可以创建无缝且直观的用户体验。]]></description>
-      <guid>https://t.me/hn_summary/63613</guid>
-      <pubDate>Wed, 13 Dec 2023 01:36:22 GMT</pubDate>
+      <title>Lua 编程语言在过去 20 年里一直受到 Pepperfish 的支持，wi [...]</title>
+      <link>https://t.me/hn_summary/63623</link>
+      <description><![CDATA[Lua编程语言需要虚拟主机
+Lua 编程语言在过去 20 年里一直受到 Pepperfish 的支持，随着 Pepperfish 的关闭，该语言将迁移到新的 Web 主机。 lua.org 的新主机即将公布。作为迁移的一部分，Lua 邮件列表将移至 Google 网上论坛。新列表已上线，鼓励用户加入。邀请将发送给当前订阅者，但用户也可以使用提供的 URL 直接加入。 Lua网站上的邮件列表页面将相应更新。]]></description>
+      <guid>https://t.me/hn_summary/63623</guid>
+      <pubDate>Wed, 13 Dec 2023 03:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据安全公司 Veracode 的一项研究，38% 的 Java 应用程序仍然存在 [...]</title>
-      <link>https://t.me/hn_summary/63612</link>
-      <description><![CDATA[研究显示 38% 的 Java 应用程序仍受 Log4j 漏洞 log4shell&lt; /a&gt;
-根据安全公司 Veracode 的一项研究，在 Log4j 漏洞（称为 Log4Shell）被披露两年后，38% 的 Java 应用程序仍然受到该漏洞的影响。研究发现，许多易受攻击的应用程序尚未更新 Log4j 库，其中 32% 运行的是 2015 年停产之前的版本。此外，79% 的开发人员在最初将第三方库引入项目后并没有更新它们。只有 2.8% 的应用程序仍在使用 2021 年 12 月漏洞披露时易受攻击的版本。该研究还显示，近 40% 的应用程序容易受到远程代码执行缺陷的影响。调查结果强调需要改进开源软件安全实践以及对过时库带来的风险的认识。]]></description>
-      <guid>https://t.me/hn_summary/63612</guid>
-      <pubDate>Wed, 13 Dec 2023 01:09:05 GMT</pubDate>
+      <title>[媒体]华盛顿大学最近的一项内部调查揭露了歧视 [...]</title>
+      <link>https://t.me/hn_summary/63622</link>
+      <description><![CDATA[华盛顿大学的种族歧视
+华盛顿大学最近的一项内部调查揭露了针对白人求职者的歧视性招聘做法。该大学心理学系使用了一本名为“提高教师搜索公平性的有希望的做法”的内部手册，以排除白人候选人并确保雇用首选的少数族裔候选人。该手册建议招聘人员直接接触代表性不足的少数族裔候选人，并起草与特定少数族裔候选人的简历相匹配的职位描述。该手册还建议不要评估候选人的能力，并将对多样性的贡献作为高标准。该大学已向因种族原因被拒绝工作的排名最高的白人决赛选手道歉。调查只针对一个院系，但这种歧视很可能在美国校园更为普遍。]]></description>
+      <guid>https://t.me/hn_summary/63622</guid>
+      <pubDate>Wed, 13 Dec 2023 02:54:12 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们在基于 Apache 的 Web 服务器上设置新虚拟主机的经验 [...]</title>
-      <link>https://t.me/hn_summary/63611</link>
-      <description><![CDATA[查看您获得新的 TLS 证书后人们探测您的速度
-作者分享了他们在基于 Apache 的 Web 服务器上设置新虚拟主机并从 Let&#39;s Encrypt 获取 TLS 证书的经验。他们解释说，颁发证书和出现在证书透明度日志中之间通常存在延迟。不过，这次作者预先编写了HTTPS配置，并在收到证书后立即激活了站点。他们很好奇人们会以多快的速度开始探测新的 HTTPS 站点。一分钟之内，外部探测器开始出现，并且还重新扫描了机器的第一个 HTTPS 网站。作者观察到颁发 TLS 证书后随机连接和端口扫描有所增加。作者指出，虽然他们知道此活动，但看到它在日志中实时发生是一种不同的体验。]]></description>
-      <guid>https://t.me/hn_summary/63611</guid>
-      <pubDate>Wed, 13 Dec 2023 01:08:55 GMT</pubDate>
+      <title>[媒体]美国国家公路交通安全管理局（NHTSA）已 [...]</title>
+      <link>https://t.me/hn_summary/63621</link>
+      <description><![CDATA[美国机构迈出第一步，强制采用反醉酒驾驶技术
+美国国家公路交通安全管理局 (NHTSA) 迈出了强制车辆采用防酒后驾驶技术的第一步。 2021 年，国会指示 NHTSA 实施一项被动技术，防止醉酒驾驶员启动车辆，旨在减少每年因醉酒驾驶造成的道路死亡人数超过 10,000 人。该技术可能包括用于检测酒精的呼吸或触摸传感器或用于监控眼球运动的摄像头。然而，国家公路交通安全管理局必须确保该技术在强制实施之前有效，并且汽车制造商将有至少三年的时间来实施该技术。反对酒驾母亲组织已表示支持该倡议。]]></description>
+      <guid>https://t.me/hn_summary/63621</guid>
+      <pubDate>Wed, 13 Dec 2023 02:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Imbue，前身为 General Intelligence，是一家专注于人工智能研究的公司 [...]</title>
-      <link>https://t.me/hn_summary/63610</link>
-      <description><![CDATA[Imbue（以前称为一般智能）（YC S17）正在招聘一名研究人员科学家
-Imbue前身为General Intelligence，是一家专注于开发人类水平通用机器智能的人工智能研究公司。他们目前正在招聘各种职位，包括机器学习工程师、研究科学家、机器学习研究工程师、系统工程师、技术主管经理、基础设施工程师、高级软件工程师、技术面试官、参谋长、工程经理、创始产品工程师、主管数据工程、原型工程师、软件工程师、数据和技术招聘人员/人才教练。这些职位可以在旧金山或偏远地区找到。有兴趣的候选人可以通过提供的链接找到更多信息并申请。]]></description>
-      <guid>https://t.me/hn_summary/63610</guid>
-      <pubDate>Wed, 13 Dec 2023 01:08:45 GMT</pubDate>
+      <title>[媒体]本文讨论了 Twitter 作为新闻和新闻平台的兴衰。</title>
+      <link>https://t.me/hn_summary/63620</link>
+      <description><![CDATA[Twitter 如何报道新闻
+本文讨论了 Twitter 作为新闻和新闻平台的兴衰。它强调了 Twitter 如何成为突发新闻和实时更新的首选来源，以及记者与消息来源联系和分享工作的平台。然而，它也指出了推特的负面影响，例如错误信息的传播以及导致许多女性和有色人种离开媒体行业的有毒环境。文章指出，推特的权力和影响力最终导致了自身的垮台，各大新闻编辑室和名人都远离了该平台。作者还提到了埃隆·马斯克 (Elon Musk) 最近对 Twitter 的参与，以及它可能如何进一步削弱该平台。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/63620</guid>
+      <pubDate>Wed, 13 Dec 2023 02:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一项研究中，微软研究人员发现通才 GPT-4 模型可以 [...]</title>
-      <link>https://t.me/hn_summary/63609</link>
-      <description><![CDATA[GPT-4 凭借强大的提示策略优于 Med-PaLM 2
-在最近的一项研究中，微软研究人员发现，在医疗挑战问题基准测试中，通才 GPT-4 模型的表现优于专业模型 Med-PaLM 2。该研究强调了激励策略在从通才基础模型中激发特定领域专业知识的力量。 GPT-4 表现出了令人惊讶的博学能力，包括抽象、泛化和组合。研究人员还发现，GPT-4 可以被引导为特定领域的专家，而不需要进行微调。该研究引入了一种名为“Medprompt”的方法，可有效引导 GPT-4 在医疗应用中实现最佳性能。结果显示，带有 Medprompt 的 GPT-4 在 MedQA 数据集上的准确率超过 90%，并在 MultiMedQA 套件中的所有九个基准数据集上取得了最佳报告结果。这项研究表明，对通才模型进行更广泛的训练可以减少微调的需要。]]></description>
-      <guid>https://t.me/hn_summary/63609</guid>
-      <pubDate>Wed, 13 Dec 2023 00:31:23 GMT</pubDate>
+      <title>[媒体]最近发表在《人格与社会心理学通报》上的一项研究发现，[...]</title>
+      <link>https://t.me/hn_summary/63619</link>
+      <description><![CDATA[财务乐观与认知能力较低有关
+最近发表在《人格与社会心理学通报》上的一项研究发现，认知能力与不切实际的财务期望之间存在联系。这项研究由巴斯大学管理学院商业经济学副教授克里斯·道森（Chris Dawson）进行，分析了英国一项综合性年度调查“理解社会”的数据。参与者被问及他们对下一年的财务预期，并通过各种任务评估他们的认知能力。研究发现，认知能力较高的人不太可能对自己的财务未来抱有极端乐观的态度，而更有可能抱有现实或悲观的期望。研究结果表明，认知能力在克服财务决策中乐观偏见的自然倾向方面发挥着重要作用。]]></description>
+      <guid>https://t.me/hn_summary/63619</guid>
+      <pubDate>Wed, 13 Dec 2023 02:35:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
