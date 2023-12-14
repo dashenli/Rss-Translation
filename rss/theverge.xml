@@ -4,21 +4,32 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 14 Dec 2023 02:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 03:25:29 GMT</lastBuildDate>
     <item>
-      <title>Beeper 表示有些人无法再收到 iMessages</title>
+      <title>Beeper 称苹果屏蔽了部分 iMessage，但有修复方法</title>
       <link>https://www.theverge.com/2023/12/13/24000609/beeper-mini-cloud-outage-imessages-investigating</link>
       <description><![CDATA[&lt;图&gt;
       
 图片：蜂鸣器
 
-调查有关某些用户无法在 Beeper Mini 和 Beeper Cloud 上接收 iMessage 的报告。 
-这些问题似乎早在美国东部时间下午 6 点左右就开始出现；当时，一名 Verge 工作人员报告说，他们不再在 Beeper Mini 中接收 iMessage，从那时起我们就一直在关注这一情况。部分用户Reddit 也报告没有收到 iMessage。卸载并重新安装应用程序显然已经修复了对于某些的问题，但是，有些是报告情况仍然 工作。 Beeper 的状态网站未报告任何问题。
+我们又来了：调查报告后发现，一些用户在 Beeper 上收不到 iMessage Mini 和 Beeper Cloud，Beeper 表示苹果似乎“故意阻止”iMessages 发送给大约 5% 的 Beeper迷你用户。该公司表示，卸载并重新安装该应用程序可以解决该问题，并且正在研究更广泛的修复方案（尽管今晚显然不会到位）。
+Apple 没有立即回复有关 Beeper 新声明的置评请求，也没有回复我最初的置评请求。但考虑到该公司已经之前屏蔽了 Beeper Mini，它似乎再次针对该应用程序采取行动，这并不奇怪。
 
-我们不知道这只是昙花一现还是苹果再次下锤。 Beeper 推出了 Beeper Mini 的原始版本，允许 Android 用户仅通过电话号码使用 iMessage，12 月 5 日，但苹果找到了一种方法关闭仅仅三天后就下降了。 星期一 Beeper 让 Beeper Mini 再次工作，但它仅适用于 Apple ID。
-苹果没有立即回复置评请求。 ]]></description>
+
+Apple 似乎故意阻止 iMessage 发送给大约 5% 的 Beeper Mini 用户。卸载并重新安装 Beeper Mini 可以解决该问题。 今晚我们不会修复，但我们正在努力。 https://t.co/70KbYfcwjr— 蜂鸣器 (@onbeeper) 2023 年 12 月 14 日
+
+
+这些问题似乎早在美国东部时间下午 6 点左右就开始出现；当时，一位 Verge 工作人员报告说，他们不再在 Beeper Mini 中接收 iMessage。我们看到一些用户 Reddit 也报告没有收到 iMessage，但其他人说情况是仍在工作 对于他们来说，这将跟踪 Beeper 的解释，即只有部分用户受到影响。 Beeper 的状态网站未报告任何问题。
+Beeper 首席执行官 Eric Migicovsky 周三晚上在 X（以前称为 Twitter）上发帖向用户道歉。 “我明白这种不确定性对我们的用户来说是多么令人烦恼，”他说。 “如果你现在躲起来，我不会感到难过。当一切恢复正常后，我们会通知您。”他还援引了 Epic Games 在法庭上针对 Google 的巨大胜利作为战斗口号：“@TimSweeneyEpic 和 Epic 本周战胜了大型科技公司。我们有机会。我们不会放弃。”
+
+
+我明白这种不确定性对我们的用户来说是多么令人烦恼。如果你现在躲起来，我不会感到难过。当一切恢复正常并运行时，我们会通知您。 @TimSweeneyEpic 和 Epic 本周战胜了大型科技公司。我们有机会。我们不会放弃。 https://t.co/5Kcj8Yu5Bh— Eric Migicovsky (@ericmigi) 2023 年 12 月 14 日
+
+
+Beeper 推出了 Beeper Mini 的原始版本，Android 用户只需使用电话号码即可使用 iMessage，12 月 5 日，但苹果公司在三天后就找到了关闭该功能的方法。 星期一 Beeper 让 Beeper Mini 再次工作，但它仅适用于 Apple ID。我们必须等待，看看这种所谓的故意屏蔽是否仍然只占 Beeper Mini 用户的 5%，或者苹果是否找到了屏蔽更多用户的方法。
+美国东部时间 12 月 13 日晚上 10:08 更新：添加了 Beeper 首席执行官 Eric Migicovsky 的帖子。]]></description>
       <guid>https://www.theverge.com/2023/12/13/24000609/beeper-mini-cloud-outage-imessages-investigating</guid>
-      <pubDate>Thu, 14 Dec 2023 01:17:35 GMT</pubDate>
+      <pubDate>Thu, 14 Dec 2023 03:00:40 GMT</pubDate>
     </item>
     <item>
       <title>据报道，特斯拉 Cyber​​truck 臭名昭著的雨刮器更换成本为 165 美元</title>
