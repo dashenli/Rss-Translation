@@ -4,7 +4,14 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 14 Dec 2023 04:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 09:20:07 GMT</lastBuildDate>
+    <item>
+      <title>普京将于周四在俄罗斯举行年度新闻发布会</title>
+      <link>https://www.nytimes.com/2023/12/14/world/europe/putin-speech-russia.html</link>
+      <description><![CDATA[在通常是马拉松式的新闻发布会上，俄罗斯领导人正在接受提问，尽管是在严格控制的环境下。他几乎肯定会谈论乌克兰战争。]]></description>
+      <guid>https://www.nytimes.com/2023/12/14/world/europe/putin-speech-russia.html</guid>
+      <pubDate>Thu, 14 Dec 2023 09:20:07 GMT</pubDate>
+    </item>
     <item>
       <title>参议院通过国防法案，避开极右政策指令</title>
       <link>https://www.nytimes.com/2023/12/13/us/senate-defense-bill.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[最高法院的裁决可能会影响数百名因国会大厦袭击事件而被指控的人的案件，并可能影响对唐纳德·J·特朗普的起诉。]]></description>
       <guid>https://www.nytimes.com/2023/12/13/us/politics/trump-supreme-court-jan-6.html</guid>
       <pubDate>Wed, 13 Dec 2023 19:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家查明严重孕吐的原因</title>
-      <link>https://www.nytimes.com/2023/12/13/health/morning-sickness-hyperemesis-gravidarum.html</link>
-      <description><![CDATA[这一发现可能会导致更好的治疗怀孕期间严重恶心和呕吐的方法。]]></description>
-      <guid>https://www.nytimes.com/2023/12/13/health/morning-sickness-hyperemesis-gravidarum.html</guid>
-      <pubDate>Wed, 13 Dec 2023 17:30:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
