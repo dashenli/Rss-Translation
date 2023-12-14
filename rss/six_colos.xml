@@ -4,11 +4,33 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 13 Dec 2023 21:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 21:22:26 GMT</lastBuildDate>
+    <item>
+      <title>剪贴板管理器的案例</title>
+      <link>https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/</link>
+      <description><![CDATA[Pastebot 的历史记录窗口。
+上周，我亲身体验了 macOS 默认设置的强大功能，以及在现代 macOS 的二十年里，Apple 如何满足普通用户的大部分基本需求。…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/</guid>
+      <pubDate>Thu, 14 Dec 2023 20:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）下游 59：Netflix 的电子表格</title>
+      <link>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</link>
+      <description><![CDATA[这件事终于发生了：Netflix 已经通过 Excel 电子表格公开了其观看数据？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</guid>
+      <pubDate>Thu, 14 Dec 2023 20:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 15 在 2023 年是一件大事，但这三项举措甚至更大 (Macworld/Dan Moren)</title>
+      <link>https://www.macworld.com/article/2170988/apple-2023-year-in-review-vision-pro-silicon-ai.html</link>
+      <description><![CDATA[距离我们将 2023 年纳入后视镜仅剩几周时间，因此，按照事物的自然顺序，是时候回顾过去 12 个月并尝试将这些事件塑造成某种假象叙述性的。…]]></description>
+      <guid>https://www.macworld.com/article/2170988/apple-2023-year-in-review-vision-pro-silicon-ai.html</guid>
+      <pubDate>Thu, 14 Dec 2023 18:31:39 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 533：我是应用程序</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</link>
-      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
+      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的感受。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
       <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
     </item>
@@ -94,28 +116,6 @@
   在 Twitter（目前称为 X）上关注我的人们可能都知道我的多年、令人沮丧、频繁更新且重复的帖子，指出工作室和电影制片人在他们的项目中使用数字视觉效果轻描淡写或完全撒谎。...]]></description>
       <guid>https://sixcolors.com/link/2023/12/studios-need-to-stop-lying-about-cgi/</guid>
       <pubDate>Wed, 06 Dec 2023 18:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 macOS 上，最好从默认值开始</title>
-      <link>https://sixcolors.com/post/2023/12/on-macos-its-best-to-start-with-the-default/</link>
-      <description><![CDATA[M3 iMac 上的默认 Sonoma 体验。
-读者 Jack B. 提出的一个问题让我开始反思 Apple 几十年来在 macOS 上迭代的结果。…]]></description>
-      <guid>https://sixcolors.com/post/2023/12/on-macos-its-best-to-start-with-the-default/</guid>
-      <pubDate>Wed, 06 Dec 2023 17:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>对用户体验的同理心，而不是苹果的商业战略 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2163354/</link>
-      <description><![CDATA[我一直都知道 Apple 社区有很多不同的亚文化，但当 Apple 宣布将在 iOS 中添加新功能时，我感到很惊讶，很多人对此感到愤怒。…]]></description>
-      <guid>https://www.macworld.com/article/2163354/</guid>
-      <pubDate>Wed, 06 Dec 2023 16:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beeper 将设备上的 iMessage 带到 Android – 目前 ↦</title>
-      <link>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</link>
-      <description><![CDATA[由 Pebble 前首席执行官 Eric Migicovsky 领导的初创公司 Beeper 宣布推出新版 Android 应用，支持直接在设备上兼容 iMessage1。 …]]></description>
-      <guid>https://sixcolors.com/link/2023/12/beeper-brings-on-device-imessage-to-android-for-now/</guid>
-      <pubDate>Tue, 05 Dec 2023 16:37:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
