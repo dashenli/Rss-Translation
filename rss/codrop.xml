@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 13 Dec 2023 15:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 12:59:06 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 14 天</title>
+      <link>https://tympanus.net/codrops/2023/12/14/frontend-rewind-2023-day-14/</link>
+      <description><![CDATA[加入我们的降临节日历第 14 天，享受一批精心挑选的新链接和灵感！]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/14/frontend-rewind-2023-day-14/</guid>
+      <pubDate>Thu, 14 Dec 2023 09:51:58 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Three.js 中的实例创建交互式鼠标效果</title>
       <link>https://tympanus.net/codrops/2023/12/13/creating-an-interactive-mouse-effect-with-instancing-in-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[不断发展的无限画布 * 奇怪的 HTML 黑客 * 投影 * 带弹出框 API 的 No-JS 汉堡菜单]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-797/</guid>
       <pubDate>Fri, 08 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 07 天</title>
-      <link>https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/</link>
-      <description><![CDATA[在“Frontend Rewind 2023”中探索第 7 天的奇迹，精心策划的亮点等待着您！]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/</guid>
-      <pubDate>Thu, 07 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
