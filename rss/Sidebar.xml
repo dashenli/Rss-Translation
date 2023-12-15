@@ -4,11 +4,51 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 15 Dec 2023 03:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 06:35:12 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023</title>
+      <link>https://tympanus.net/codrops/2023/12/01/frontend-rewind-2023-day-01/</link>
+      <description><![CDATA[今天，我们将开始“Frontend Rewind 2023”的第一天！让我们一起回顾2023年的精彩瞬间！
+]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/01/frontend-rewind-2023-day-01/</guid>
+      <pubDate>Fri, 15 Dec 2023 06:19:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pantone 2024 年度代表色：桃色绒毛</title>
+      <link>https://www.pantone.com/color-of-the-year/2024</link>
+      <description><![CDATA[Peach Fuzz 是一种天鹅绒般柔和的桃色音色，其包罗万象的精神丰富了思想、身体和灵魂。
+]]></description>
+      <guid>https://www.pantone.com/color-of-the-year/2024</guid>
+      <pubDate>Fri, 15 Dec 2023 06:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士可视化</title>
+      <link>https://bbycroft.net/llm</link>
+      <description><![CDATA[法学硕士的 3D 动画可视化以及演练。
+]]></description>
+      <guid>https://bbycroft.net/llm</guid>
+      <pubDate>Fri, 15 Dec 2023 06:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML：不好的部分</title>
+      <link>https://www.htmhell.dev/adventcalendar/2023/13/</link>
+      <description><![CDATA[从真实网站复制的 HTML 不良做法集合。
+]]></description>
+      <guid>https://www.htmhell.dev/adventcalendar/2023/13/</guid>
+      <pubDate>Fri, 15 Dec 2023 06:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年基线</title>
+      <link>https://web.dev/blog/baseline2023</link>
+      <description><![CDATA[了解 Can I Use 上的 Baseline 集成，以及现已成为 Baseline 2023 一部分的功能。
+]]></description>
+      <guid>https://web.dev/blog/baseline2023</guid>
+      <pubDate>Fri, 15 Dec 2023 05:59:33 GMT</pubDate>
+    </item>
     <item>
       <title>2023年读者最喜欢的十大巨著</title>
       <link>https://www.thisiscolossal.com/2023/12/top-ten-stories-2023/</link>
-      <description><![CDATA[从巨大的动态海滩生物到大量抢救的照片，这些是我们读者最喜爱的项目。
+      <description><![CDATA[从巨大的动态海滩生物到大量抢救的照片，这些是我们读者最喜欢的项目。
 ]]></description>
       <guid>https://www.thisiscolossal.com/2023/12/top-ten-stories-2023/</guid>
       <pubDate>Thu, 14 Dec 2023 06:53:34 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://builtformars.com/case-studies/ux-of-parcels</guid>
       <pubDate>Wed, 13 Dec 2023 05:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不断发展的无限画布</title>
-      <link>https://wattenberger.com/thoughts/evolving-the-infinite-canvas</link>
-      <description><![CDATA[在数字世界中，尤其是在网络上，我们习惯了垂直堆叠的东西。滚动，滚动，浏览内容框。
-]]></description>
-      <guid>https://wattenberger.com/thoughts/evolving-the-infinite-canvas</guid>
-      <pubDate>Tue, 12 Dec 2023 05:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audiobox：根据语音和自然语言提示生成音频</title>
-      <link>https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/</link>
-      <description><![CDATA[Audiobox 是 Meta 的新音频生成基础研究模型。
-]]></description>
-      <guid>https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/</guid>
-      <pubDate>Tue, 12 Dec 2023 05:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>好吧，我将使用超级基本 CSS 处理设置</title>
-      <link>https://frontendmasters.com/blog/fine-ill-use-a-super-basic-css-processing-setup/</link>
-      <description><![CDATA[如果您只需要 CSS 的迷你构建过程，Lightning CSS 是一个非常好的现代选择。
-]]></description>
-      <guid>https://frontendmasters.com/blog/fine-ill-use-a-super-basic-css-processing-setup/</guid>
-      <pubDate>Tue, 12 Dec 2023 05:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>布丁杯</title>
-      <link>https://pudding.cool/pudding-cup/</link>
-      <description><![CDATA[布丁年度精选最佳视觉和数据驱动故事
-]]></description>
-      <guid>https://pudding.cool/pudding-cup/</guid>
-      <pubDate>Tue, 12 Dec 2023 05:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 17.2 中的 WebKit 功能</title>
-      <link>https://webkit.org/blog/14787/webkit-features-in-safari-17-2/</link>
-      <description><![CDATA[网络技术不断向前发展，既有重大的新功能，也有细微的细微调整。
-]]></description>
-      <guid>https://webkit.org/blog/14787/webkit-features-in-safari-17-2/</guid>
-      <pubDate>Tue, 12 Dec 2023 05:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
