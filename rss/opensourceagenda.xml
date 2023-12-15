@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Fri, 15 Dec 2023 09:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 12:56:52 GMT</lastBuildDate>
     <item>
-      <title>Osu Octave</title>
-      <link>https://www.opensourceagenda.com/projects/osu-octave</link>
-      <description><![CDATA[开源、可用的 Osu！客户。针对 Vita 和 Embedded 进行定制和调整]]></description>
-      <guid>https://www.opensourceagenda.com/projects/osu-octave</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:22 GMT</pubDate>
+      <title>2023 年</title>
+      <link>https://www.opensourceagenda.com/projects/aot-2023</link>
+      <description><![CDATA[TypeScript 2023 的到来]]></description>
+      <guid>https://www.opensourceagenda.com/projects/aot-2023</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:52 GMT</pubDate>
     </item>
     <item>
-      <title>Sdl2 联机帮助页</title>
-      <link>https://www.opensourceagenda.com/projects/sdl2-manpage</link>
-      <description><![CDATA[根据 https://wiki.libsdl.org 上的在线 API 文档手工创建的手册页/类别API。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sdl2-manpage</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:21 GMT</pubDate>
+      <title>兰格里拉</title>
+      <link>https://www.opensourceagenda.com/projects/langrila</link>
+      <description><![CDATA[通过 OpenAI API 或 Azure 轻松使用 ChatGPT 的有用工具]]></description>
+      <guid>https://www.opensourceagenda.com/projects/langrila</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>实时时间</title>
-      <link>https://www.opensourceagenda.com/projects/rtcw</link>
-      <description><![CDATA[返回德军总部 (SP/MP/ET)]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rtcw</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:21 GMT</pubDate>
+      <title>Unity原神后处理</title>
+      <link>https://www.opensourceagenda.com/projects/unitygenshinpostprocessing</link>
+      <description><![CDATA[基于 URP 的类似 genshin 的后处理渲染功能。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/unitygenshinpostprocessing</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>祖玛豪华高清</title>
-      <link>https://www.opensourceagenda.com/projects/zuma-deluxe-hd</link>
-      <description><![CDATA[2003 年传奇 PopCap 游戏的重制版，改进了纹理并支持 16:9 宽高比比例。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zuma-deluxe-hd</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:20 GMT</pubDate>
+      <title>Phpstan Todo 由</title>
+      <link>https://www.opensourceagenda.com/projects/phpstan-todo-by</link>
+      <description><![CDATA[定义带有到期日期的待办事项注释]]></description>
+      <guid>https://www.opensourceagenda.com/projects/phpstan-todo-by</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>QtWe 演示</title>
-      <link>https://www.opensourceagenda.com/projects/qtdemos</link>
-      <description><![CDATA[这是一个关于Qt5的demo，包括Qt自定义Widget、Qt多线程下载器、QML视频播放器(使用OpenGL) 、FFmpeg 和 SDL2）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/qtdemos</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:19 GMT</pubDate>
+      <title>米斯特拉尔</title>
+      <link>https://www.opensourceagenda.com/projects/llm-mistral</link>
+      <description><![CDATA[LLM 插件提供对总线 Mistral API 的 Mistral 模型的访问]]></description>
+      <guid>https://www.opensourceagenda.com/projects/llm-mistral</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>布鲁克斯Gdk</title>
-      <link>https://www.opensourceagenda.com/projects/brux-gdk</link>
-      <description><![CDATA[使用 SDL 和 Squirrel 的免费运行时和开发套件]]></description>
-      <guid>https://www.opensourceagenda.com/projects/brux-gdk</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:19 GMT</pubDate>
+      <title>生成式 AI Js</title>
+      <link>https://www.opensourceagenda.com/projects/generative-ai-js</link>
+      <description><![CDATA[Google AI SDK for JavaScript]]></description>
+      <guid>https://www.opensourceagenda.com/projects/generative-ai-js</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>Sdl2 音频样本</title>
-      <link>https://www.opensourceagenda.com/projects/sdl2-audio-sample</link>
-      <description><![CDATA[ 演示如何使用 SDL2 库播放音频的基本示例。它使用 CMake 作为构建系统。 https://gitlab.com/aminosbh/sdl2-audio-sample 的镜像]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sdl2-audio-sample</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:19 GMT</pubDate>
+      <title>事实百科全书</title>
+      <link>https://www.opensourceagenda.com/projects/factoid-wiki</link>
+      <description><![CDATA[密集 X 检索：我们应该使用什么检索粒度？]]></description>
+      <guid>https://www.opensourceagenda.com/projects/factoid-wiki</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>真的</title>
-      <link>https://www.opensourceagenda.com/projects/verus</link>
-      <description><![CDATA[Verus Engine 是一款现代 3D 游戏引擎。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/verus</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:18 GMT</pubDate>
+      <title>双子座聊天</title>
+      <link>https://www.opensourceagenda.com/projects/gemini-chat</link>
+      <description><![CDATA[使用 Gemini（Google 最新的大型语言模型系列）的示例项目。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gemini-chat</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>Apecs Unity 教程 Haskell</title>
-      <link>https://www.opensourceagenda.com/projects/apecs-unity-tutorial-haskell</link>
-      <description><![CDATA[在 Haskell 中重新创建 Unity Roguelike 教程项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/apecs-unity-tutorial-haskell</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:18 GMT</pubDate>
+      <title>代码China888 FakeToa</title>
+      <link>https://www.opensourceagenda.com/projects/codechina888-faketoa</link>
+      <description><![CDATA[利用 Linux 的 BPF 功能伪造 IP 源]]></description>
+      <guid>https://www.opensourceagenda.com/projects/codechina888-faketoa</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>FNA机器人</title>
-      <link>https://www.opensourceagenda.com/projects/fnadroid</link>
-      <description><![CDATA[非官方“FNA for Android”包装器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fnadroid</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:17 GMT</pubDate>
+      <title>于旭涵·科拉</title>
+      <link>https://www.opensourceagenda.com/projects/yxuhan-cora</link>
+      <description><![CDATA[正式实现在家中进行高质量面部几何和外观捕捉。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yxuhan-cora</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>飞行的飞机 Sdl 动画</title>
-      <link>https://www.opensourceagenda.com/projects/flying-plane-sdl-animation</link>
-      <description><![CDATA[此项目是用 C 编写的，并使用 CMake 作为构建系统。它展示了如何使用 SDL2 制作基本动画：飞行飞机。 https://gitlab.com/aminosbh/flying-plane-sdl-animation 的镜像]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flying-plane-sdl-animation</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:17 GMT</pubDate>
+      <title>齿轮魔法动画</title>
+      <link>https://www.opensourceagenda.com/projects/cog-magicanimate</link>
+      <description><![CDATA[MagicAnimate 的 Cog 包装]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cog-magicanimate</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>克莱1984最大</title>
-      <link>https://www.opensourceagenda.com/projects/klei1984-max</link>
-      <description><![CDATA[M.A.X.端口]]></description>
-      <guid>https://www.opensourceagenda.com/projects/klei1984-max</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:16 GMT</pubDate>
+      <title>超塞勒公司</title>
+      <link>https://www.opensourceagenda.com/projects/comsevtingehyperceiler</link>
+      <description><![CDATA[HyperCeiler]]></description>
+      <guid>https://www.opensourceagenda.com/projects/comsevtingehyperceiler</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>Pygame4000</title>
-      <link>https://www.opensourceagenda.com/projects/pygame4000</link>
-      <description><![CDATA[未来的 pygame 事物]]></description>
-      <guid>https://www.opensourceagenda.com/projects/pygame4000</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:16 GMT</pubDate>
+      <title>UA3F</title>
+      <link>https://www.opensourceagenda.com/projects/ua3f</link>
+      <description><![CDATA[新一代 HTTP User-Agent 修改方法实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ua3f</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>超级扎祖帕克</title>
-      <link>https://www.opensourceagenda.com/projects/superzazu-pac</link>
-      <description><![CDATA[使用 SDL2 用 C99 编写的 Pac-Man 模拟器。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/superzazu-pac</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:15 GMT</pubDate>
+      <title>数据解放</title>
+      <link>https://www.opensourceagenda.com/projects/data-liberation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/data-liberation</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>希罗米诺 希罗米诺</title>
-      <link>https://www.opensourceagenda.com/projects/shiromino-shiromino</link>
-      <description><![CDATA[一款源于街机的快节奏益智游戏。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shiromino-shiromino</guid>
-      <pubDate>Fri, 15 Dec 2023 09:25:15 GMT</pubDate>
+      <title>扩散运动传递</title>
+      <link>https://www.opensourceagenda.com/projects/diffusion-motion-transfer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/diffusion-motion-transfer</guid>
+      <pubDate>Fri, 15 Dec 2023 12:56:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
