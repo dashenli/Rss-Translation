@@ -4,7 +4,42 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 15 Dec 2023 06:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 09:26:22 GMT</lastBuildDate>
+    <item>
+      <title>实现超人的AI“控制”：OpenAI研究团队公布研究成果的意义</title>
+      <link>https://wired.jp/article/openai-ilya-sutskever-ai-safety/</link>
+      <description><![CDATA[随着人工智能 (AI) 日益复杂化，OpenAI 正在致力于研究使用能力较弱的 AI 来控制高级 AI。由首席科学家 Ilya Satskyvar 领导的一个名为“Superalignment”的研究小组发表的成果，是朝着“驯服”未来可能出现的超人人工智能迈出的重要一步，它有可能发生。]]></description>
+      <guid>https://wired.jp/article/openai-ilya-sutskever-ai-safety/</guid>
+      <pubDate>Fri, 15 Dec 2023 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>包括 GPT-4 在内的“越狱”AI 模型的新方法已经揭晓。研究人员呼吁采取更强有力的安全措施</title>
+      <link>https://wired.jp/article/automated-ai-attack-gpt-4/</link>
+      <description><![CDATA[人们发现了一种新的“越狱”方法，可以从人工智能模型中提取不适当的答案。它使用对抗性 AI 系统来利用大规模语言模型 (LLM) 特有的漏洞，例如 OpenAI 的 GPT-4。研究人员表示，提供服务的公司应该采取额外的安全措施。]]></description>
+      <guid>https://wired.jp/article/automated-ai-attack-gpt-4/</guid>
+      <pubDate>Fri, 15 Dec 2023 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为从“信息”到“体验”的大转变做好准备：水口哲也──特辑“THE WORLD IN 2024”</title>
+      <link>https://wired.jp/article/vol51-massive-media-metamorphosis-is-coming/</link>
+      <description><![CDATA[随着 Apple Vision Pro 的推出，空间计算时代可能正式开始。这个话题会给社会带来什么样的变化？主创水口哲也是如何看待的呢？]]></description>
+      <guid>https://wired.jp/article/vol51-massive-media-metamorphosis-is-coming/</guid>
+      <pubDate>Fri, 15 Dec 2023 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽车旗下 Cruise 裁员约四分之一，自动驾驶出租车业务暂时缩减</title>
+      <link>https://wired.jp/article/massive-layoffs-robotaxi-gm-cruise/</link>
+      <description><![CDATA[通用汽车 (GM) 旗下生产自动驾驶汽车的子公司 Cruise 将裁员约四分之一。一辆自动驾驶出租车拖拽行人并造成严重伤害的事故发生后，该公司被迫缩减业务规模。]]></description>
+      <guid>https://wired.jp/article/massive-layoffs-robotaxi-gm-cruise/</guid>
+      <pubDate>Fri, 15 Dec 2023 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI该怎么做才能避免再次面临“崩溃危机”</title>
+      <link>https://wired.jp/article/how-to-stop-openai-governance-structure-meltdown/</link>
+      <description><![CDATA[OpenAI 试图建立一个治理结构，使其保持人性化，但该结构从内部崩溃了。 OpenAI 可以从 Mozilla 基金会等机构吸取经验教训，该基金会将非营利目标与营利性企业结合起来。]]></description>
+      <guid>https://wired.jp/article/how-to-stop-openai-governance-structure-meltdown/</guid>
+      <pubDate>Thu, 14 Dec 2023 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>是否有人担心尖端癌症治疗可能会导致癌症？美国FDA调查</title>
       <link>https://wired.jp/article/a-cutting-edge-cancer-treatment-is-under-fda-investigation-for-cancer-risk/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[在 WIRED 会员服务“SZ MEMBERSHIP”日文版 2023 年 11 月发布的文章中，阅读量最高的文章包括一家无需奶牛就能生产真正牛奶的初创公司，以及一篇追踪 OpenAI 细节和足迹的采访，介绍了五个故事。]]></description>
       <guid>https://wired.jp/article/5-most-read-stories-membership-november-2023/</guid>
       <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能所达成的观点归谁所有？我对使用 Google“NotebookLM”的想法</title>
-      <link>https://wired.jp/article/googles-notebooklm-ai-ultimate-writing-assistant/</link>
-      <description><![CDATA[我已经使用谷歌的人工智能笔记工具“NotebookLM”几个星期了，它配备了新的人工智能模型“Gemini”。都说有助于写作时的思考过程，但借助AI得出的意见真的能说是人自己的吗？ 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
-      <guid>https://wired.jp/article/googles-notebooklm-ai-ultimate-writing-assistant/</guid>
-      <pubDate>Tue, 12 Dec 2023 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>太阳镜“Pit Viper”的创始人从未忘记他的“对荒谬的执着”</title>
-      <link>https://wired.jp/article/pit-viper-party-mountain/</link>
-      <description><![CDATA[太阳镜品牌 Pit Viper 通过将隐秘的滑雪文化与老生常谈的笑话和霓虹灯复古氛围融为一体，发展了自己的业务。其根源在于该公司强调的“派对山”氛围。]]></description>
-      <guid>https://wired.jp/article/pit-viper-party-mountain/</guid>
-      <pubDate>Tue, 12 Dec 2023 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android应用商店是“垄断”，谷歌败给Epic Games</title>
-      <link>https://wired.jp/article/googles-app-store-monopoly-ruled-illegal-jury-epic/</link>
-      <description><![CDATA[与《堡垒之夜》开发商 Epic Games 的诉讼已被裁定谷歌的 Android 应用商店违反了反垄断法。虽然有关修正性质的决定将在不久的将来做出，但 Epic 表示，这“对全球所有应用程序开发商和消费者来说都是一场胜利”。]]></description>
-      <guid>https://wired.jp/article/googles-app-store-monopoly-ruled-illegal-jury-epic/</guid>
-      <pubDate>Tue, 12 Dec 2023 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>展望 2024 年范式变革：本月深圳会员精选文章（2023 年 12 月）</title>
-      <link>https://wired.jp/article/membership-stories-december-2023/</link>
-      <description><![CDATA[12月每周向实现未来的媒体《WIRED》日本版实验区“SZ Membership”的会员发布的文章主题是“FUTURES”、“THE WORLD IN 2024”、 “10 篇最佳文章”..我们将介绍一些最值得注意的故事。]]></description>
-      <guid>https://wired.jp/article/membership-stories-december-2023/</guid>
-      <pubDate>Tue, 12 Dec 2023 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过水费收取服务解决非洲农村“最大的未解决问题”——2023 年再生公司奖：Sunda Technology Global</title>
-      <link>https://wired.jp/article/the-regenerative-company-award-2023-sunda-technology-global/</link>
-      <description><![CDATA[众所周知，非洲农村地区面临着水问题。然而，即使您听说收费服务可以有效解决这个问题，也可能没有意义。巽达科技环球通过其独特的水费收集系统，正在解决仅靠理性无法解决的本土问题。 【入选“2023年再生企业奖”】]]></description>
-      <guid>https://wired.jp/article/the-regenerative-company-award-2023-sunda-technology-global/</guid>
-      <pubDate>Tue, 12 Dec 2023 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
