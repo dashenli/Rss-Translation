@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 14 Dec 2023 18:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 02:17:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体]英特尔首席执行官帕特·基辛格 (Pat Gelsinger) 在英特尔 [...]</title>
-      <link>https://t.me/hn_summary/63934</link>
-      <description><![CDATA[英特尔首席执行官：“整个行业都有动力消除 CUDA 市场” &#39;
-英特尔首席执行官帕特·基辛格（Pat Gelsinger）在推出英特尔酷睿 Ultra 和第五代至强数据中心芯片期间批评了 Nvidia 的 CUDA 技术。 Gelsinger 声称业界有动力消除 CUDA 市场，并提到 MLIR、Google 和 OpenAI 作为组织转向更开放的 AI 培训方法的例子。他强调了推理技术的重要性，并表示英特尔相信推理市场才是竞争的焦点。基辛格还强调了英特尔致力于通过各种途径（包括领先的加速器和代工厂）参与数据中心人工智能市场的竞争。英特尔的战略能否成功还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/63934</guid>
-      <pubDate>Thu, 14 Dec 2023 18:31:06 GMT</pubDate>
+      <title>[媒体]谷歌宣布将不再对“地理围栏授权令”做出回应，这些授权令 [...]</title>
+      <link>https://t.me/hn_summary/64003</link>
+      <description><![CDATA[Google 刚刚取消了允许警方获取位置数据的授权令
+谷歌宣布将不再对“地理围栏令”做出回应，“地理围栏令”是执法部门用来从谷歌地图获取位置数据的有争议的法律工具。对于隐私倡导者和刑事辩护律师来说，这一决定是一个重大胜利，他们批评这些逮捕令可能会牵连无辜个人。谷歌终止访问位置数据的举措被视为保护用户隐私和结束拉网式位置搜索的一步。虽然这一变化并不阻止政府通过其他方式获取特定用户的信息，但它确实阻止调查人员获取特定地点和时间范围内所有用户的识别数据或元数据。该决定是在美国第四巡回上诉法院评估地理围栏授权的合法性之际作出的。]]></description>
+      <guid>https://t.me/hn_summary/64003</guid>
+      <pubDate>Fri, 15 Dec 2023 02:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔发布了首款基于Meteor Lake平台的移动处理器，[...]</title>
-      <link>https://t.me/hn_summary/63933</link>
-      <description><![CDATA[Intel 发布 Core Ultra H 和 U 系列处理器：Meteor Lake&lt; /a&gt;
-英特尔发布了首款基于Meteor Lake平台的移动处理器Core Ultra H和Core Ultra U系列。 Core Ultra H 系列专为超便携式笔记本电脑而设计，提供改进的计算和图形性能。 Core Ultra U 系列非常适合低功耗和超薄笔记本电脑。 Meteor Lake 架构对于英特尔来说是一个重大转变，从传统的单片设计转向基于小芯片的方法。该架构的模块化设计可实现可扩展的电源管理和制造灵活性。然而，由于处理器的审查和可用性有限，人们对英特尔能否在 2023 年发布 Meteor Lake 最后期限之前感到担忧。 （根据故事文本的 41% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63933</guid>
-      <pubDate>Thu, 14 Dec 2023 18:22:55 GMT</pubDate>
+      <title>[媒体] 这篇维基百科文章提供了有关朝鲜电话号码的信息。</title>
+      <link>https://t.me/hn_summary/64002</link>
+      <description><![CDATA[朝鲜的电话号码
+这篇维基百科文章提供了有关朝鲜电话号码的信息。邮电部负责监管该国的电话号码。本文包括区号及其对应的城市和省份的列表。它还提到，人们对平壤和罗先以外的电话号码知之甚少，因为无法从海外拨打。文章强调，朝鲜政府通过部署监控和干扰设备来打击非法电话。它还提到禁止朝鲜和韩国之间的通话，除非往返于开城工业区。]]></description>
+      <guid>https://t.me/hn_summary/64002</guid>
+      <pubDate>Fri, 15 Dec 2023 01:44:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mozilla 宣布为 Firefox 推出新的开放扩展生态系统 [...]</title>
-      <link>https://t.me/hn_summary/63932</link>
-      <description><![CDATA[Mozilla 扩展了对 Android 版 Firefox 的扩展支持
-Mozilla 宣布为 Android 版 Firefox 推出新的开放扩展生态系统，允许开发人员为该浏览器创建和发布扩展。这一举措出台之际，近一半的 Firefox 桌面用户已经安装了扩展程序来定制他们的在线体验。虽然 Android 生态系统仍在发展，但几个主要的桌面扩展已经可用，包括 uBlock Origin、Ghostery、Privacy Badger 和 Dark Reader。 Mozilla 计划在未来几个月内启用更多扩展。当前可用的一些扩展包括 Midnight Lizard、深色背景和浅色文本以及全球广播。 Mozilla 感谢开发者社区的贡献，并期望未来出现更多扩展。]]></description>
-      <guid>https://t.me/hn_summary/63932</guid>
-      <pubDate>Thu, 14 Dec 2023 18:21:48 GMT</pubDate>
+      <title>[媒体]文章讨论了特斯拉Cyber​​truck的潜在危险以及监管l [...]</title>
+      <link>https://t.me/hn_summary/64001</link>
+      <description><![CDATA[我们即将了解 Cyber​​truck 有多危险
+文章讨论了特斯拉 Cyber​​truck 的潜在危险以及围绕其发布的监管限制。虽然联邦官员无法阻止在公共道路上销售或使用 Cyber​​truck，但人们对其设计特点表示担忧。 IIHS 车辆研究中心的负责人 Raul Arbelaez 对车辆的锋利边缘和不锈钢外观表示担忧，这可能会对乘员和行人造成伤害。文章还强调了 Cyber​​truck 的重量和多余的动力是潜在的风险。与欧洲相比，美国缺乏预先批准法规的问题也被讨论，并建议更严格的法规有助于改善道路安全。]]></description>
+      <guid>https://t.me/hn_summary/64001</guid>
+      <pubDate>Fri, 15 Dec 2023 01:41:40 GMT</pubDate>
     </item>
     <item>
-      <title>空字符串中空字符串的索引是多少？</title>
-      <link>https://t.me/hn_summary/63931</link>
-      <description><![CDATA[空字符串在空字符串中的索引是多少？&lt; /a&gt;
-该网页内容的作者正在讨论确定另一个空字符串中一个空字符串的索引的挑战。他们正在向其软件添加indexOf() 和lastIndexOf() 操作，并尝试决定如何处理这种特定情况。他们比较不同编程语言和函数（例如 C++ QString、JavaScript 字符串和 Excel FIND()）的行为，并发现结果中的不一致之处。作者的结论是，当一个或两个值都为空时返回错误消息是最明确和一致的方法。他们还考虑在不匹配时返回 0，但认为区分未找到和无效的情况很重要。]]></description>
-      <guid>https://t.me/hn_summary/63931</guid>
-      <pubDate>Thu, 14 Dec 2023 18:19:40 GMT</pubDate>
+      <title>[媒体] 这篇博文讨论了 Ruby 的 private 关键字与 [...]</title>
+      <link>https://t.me/hn_summary/64000</link>
+      <description><![CDATA[Ruby的私有关键字很奇怪
+该博客文章讨论了 Ruby 的 private 关键字与其他面向对象语言相比有何不同的含义。它解释说，在大多数语言中，private 意味着只有类内的代码可以访问成员，但 Ruby 的 private 关键字以不同的方式限制访问。该帖子还提到 Scala 有一个类似的功能，称为 protectedthis。作者推测 Ruby 为何具有这种独特的行为，表明这可能是由于缺乏类型检查器和该语言的动态特性所致。这篇文章还简要提到了 Ruby 中实例变量的行为，并讨论了拥有公共实例变量的可能性。作者最后要求读者分享其他语言中类似功能的信息。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/64000</guid>
+      <pubDate>Fri, 15 Dec 2023 01:25:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]OpenAI 宣布启动 1000 万美元超级对齐资助计划。</title>
-      <link>https://t.me/hn_summary/63930</link>
-      <description><![CDATA[OpenAI 宣布提供 1000 万美元超级对齐拨款
-OpenAI 宣布启动 1000 万美元的超级对齐资助计划。该计划旨在支持专注于降低通用人工智能 (AGI) 相关风险的研究项目。这些赠款将颁发给符合 OpenAI 使命并有可能在该领域产生重大影响的项目。该计划向个人和团队开放，赠款可用于多种目的，包括研究、工程和政策工作。 OpenAI 希望这些资助能够帮助促进协作并加速 AGI 安全研究的进展。]]></description>
-      <guid>https://t.me/hn_summary/63930</guid>
-      <pubDate>Thu, 14 Dec 2023 18:19:31 GMT</pubDate>
+      <title>[媒体]在最近对 WiFi 摄像头进行的安全分析中，作者发现了几个漏洞 [...]</title>
+      <link>https://t.me/hn_summary/63999</link>
+      <description><![CDATA[揭露漏洞：深入探讨 WiFi 摄像头安全性 
+在最近对 WiFi 摄像头的安全分析中，作者发现了几个漏洞。他们购买了一台经济实惠的相机并进行了彻底的分析，包括探索移动应用程序和检查固件。该固件被发现已过时，老化的内核与 2000 多个公开的 CVE 相关。分析还揭示了固件中嵌入的可疑 URL，这些 URL 将用户数据传输到外部域，引发了对隐私的担忧。此外，WiFi 凭证以明文形式存储，存在安全风险。作者建议进一步研究涉及固件二进制文件的逆向工程和模糊测试。]]></description>
+      <guid>https://t.me/hn_summary/63999</guid>
+      <pubDate>Fri, 15 Dec 2023 01:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] HTMLCSSToImg 是一款出色的工具，可让您每天接收 [...]</title>
-      <link>https://t.me/hn_summary/63929</link>
-      <description><![CDATA[显示 HN：在 Slack/Discord/ 上获取您网站的每日屏幕截图团队
-HTMLCSSToImg 是一款出色的工具，可让您直接在 Slack、Discord 或 Teams 上接收网站的每日屏幕截图。该产品受到了满意客户的好评，他们声称它拯救了他们的业务。如果您犹豫不决，请不要犹豫 - 尝试一下该产品，您不会失望的。它改变了网站所有者的游戏规则，并提供了一种监控网站外观的便捷方法。]]></description>
-      <guid>https://t.me/hn_summary/63929</guid>
-      <pubDate>Thu, 14 Dec 2023 18:18:23 GMT</pubDate>
+      <title>[媒体]文章讨论了 Microsoft Edge 的衰落及其有争议的做法 [...]</title>
+      <link>https://t.me/hn_summary/63998</link>
+      <description><![CDATA[微软在 X 上以畏缩、大胆的回应来捍卫 Edge 的掠夺性做法
+文章讨论了 Microsoft Edge 的衰落及其引发用户投诉的有争议做法。作者回忆了该浏览器在 2019 年首次推出时的积极方面。然而，他们强调了 Edge 由于其对用户不利的做法，现在已成为最不受欢迎的浏览器之一。文章提到了一个具体事件，用户抱怨将 Bing 设置为默认搜索引擎的追加销售，以及微软对投诉的大胆而令人畏惧的回应。文章还提到了用户的强烈反对以及欧盟允许客户卸载浏览器的决定。作者最后强调微软需要重新考虑其战略。]]></description>
+      <guid>https://t.me/hn_summary/63998</guid>
+      <pubDate>Fri, 15 Dec 2023 01:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Ideate Pad 是一款革命性工具，可将凌乱的涂鸦转化为有价值的业务 [...]</title>
-      <link>https://t.me/hn_summary/63928</link>
-      <description><![CDATA[Show HN：我制作了一个工具，可以将混乱的涂鸦变成丰富的业务想法
-Ideate Pad 是一款革命性工具，可将杂乱的涂鸦转化为有价值的商业创意。借助 Ideate Pad，您现在可以轻松分析您的想法并确定它们是否值得追求。该工具生成全面的分析，包括清晰的问题陈述和解决方案、SWOT 分析、具有强大功能的用户转换以及使您与竞争对手区分开来的独特功能。此外，Idate Pad 还提供您的竞争对手的概览，并确定您的目标客户活跃的社区。对于那些希望将混乱的想法转变为成功的商业企业的企业家来说，这个工具是一个游戏规则改变者。]]></description>
-      <guid>https://t.me/hn_summary/63928</guid>
-      <pubDate>Thu, 14 Dec 2023 18:18:07 GMT</pubDate>
+      <title>[媒体] Scratch Data 是 Y Combinator 2021 年夏季批次中的一家公司，目前正在招聘 [...]</title>
+      <link>https://t.me/hn_summary/63997</link>
+      <description><![CDATA[Scratch Data（YC S21）正在招聘
+Scratch Data 是 Y Combinator 2021 年夏季批次的一家公司，目前正在招聘全职工程师职位。他们专注于开发促进公司实时数据分析的开源工具。他们的主要产品是开源的，并且在 Github 上越来越受欢迎，使公司能够有效地将大量数据转移到他们的数据仓库中，而无需开发运维。该职位将在纽约布鲁克林工作，聘请的工程师将与创始人密切合作，承担各种职责，包括后端开发、开发运营和前端仪表板。该公司强调迭代速度和执行雄心勃勃的路线图的能力的重要性。该职位提供医疗保健、休假时间和股权。 Scratch Data 正在寻找热衷于参与早期创业公司、将价值推向生产、精通 Go 编程、在软件开发的各个方面具有多才多艺、并对构建开源软件感到兴奋的个人。]]></description>
+      <guid>https://t.me/hn_summary/63997</guid>
+      <pubDate>Fri, 15 Dec 2023 01:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>作者介绍了 Contentlist，这是一个包含精选书籍、博客、视频和播客的数据库 [...]</title>
-      <link>https://t.me/hn_summary/63927</link>
-      <description><![CDATA[显示 HN：内容列表 – 精选书籍、博客、视频、创始人专区
-作者介绍了 Contentlist，这是一个专门为创始人精心策划的书籍、博客、视频和播客的数据库。作者解释说，他们花了无数的时间从各种内容来源学习，以提高作为创始人的能力，但一直在努力寻找特定技能的最佳资源。他们批评 Google 返回 SEO 优化的垃圾，GPT 提供平庸的建议，新闻提要推送随机内容。作者强调寻找由成功解决类似问题的经验丰富的创始人撰写的独特且有价值的内容的重要性。 Contentlist 目前提供超过 350 个资源，全部由其他创始人推荐，并对关键想法进行了高级摘要，以供筛选或记笔记之用。作者邀请用户访问该网站并提供反馈以进一步改进。]]></description>
-      <guid>https://t.me/hn_summary/63927</guid>
-      <pubDate>Thu, 14 Dec 2023 18:17:52 GMT</pubDate>
+      <title>[媒体]欧洲和北美的反移民情绪不断高涨，事件不断发生 [...]</title>
+      <link>https://t.me/hn_summary/63996</link>
+      <description><![CDATA[为何隐藏的仇外心理正在公然涌动
+欧洲和北美的反移民情绪不断高涨，都柏林发生了极右骚乱，荷兰、瑞典、意大利和芬兰的右翼政党取得了成功。社会学家马修·克莱顿认为，经济担忧常常被用作仇外心理的借口，而不是动机。他认为，一定比例的人口怀有隐藏的仇外情绪，仇外情绪的明显激增实际上是针对公开表达仇外情绪的社会耻辱的减少。克雷顿的研究涉及使用调查和实验来衡量对有争议项目的支持，而不要求个人公开他们的观点。他认为，仅解决公开的仇外心理可以将其推向地下，并建议通过透明度、审查和对不宽容的污名化来打击它。]]></description>
+      <guid>https://t.me/hn_summary/63996</guid>
+      <pubDate>Fri, 15 Dec 2023 00:43:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍 apidocs.me，这是一款革命性的工具，可让您从 [...] 生成 API 文档</title>
-      <link>https://t.me/hn_summary/63926</link>
-      <description><![CDATA[显示 HN：从您的 Notion 内容生成 API 文档 
-隆重推出 apidocs.me，这是一款革命性的工具，可让您生成 API只需几分钟即可获得您的 Notion 内容的文档。告别手动创建和更新 API 文档的麻烦 – 使用 apidocs.me&lt; /a&gt;，只需点击几下即可。我们的用户友好界面和可定制选项使您可以轻松创建根据您的特定需求定制的专业且同步的 API 文档。在有限的时间内，前 25 位用户将获得对我们平台的特殊访问权限。不要错过这个简化 API 文档流程的机会。立即加入我们的 apidocs.me！]]></description>
-      <guid>https://t.me/hn_summary/63926</guid>
-      <pubDate>Thu, 14 Dec 2023 18:17:45 GMT</pubDate>
+      <title>[媒体]CMG 是一家营销公司，声称有能力收听设备并使用 [...]</title>
+      <link>https://t.me/hn_summary/63995</link>
+      <description><![CDATA[营销公司声称正在监听设备&lt; br/&gt;
+CMG 是一家营销公司，声称能够监听设备并使用收集到的数据来定位潜在客户。这听起来像是黑镜情节中的情节，但 CMG 坚持认为，这不仅是可能的，而且对企业来说也是一个有价值的工具。 CMG 相信，通过利用人们在日常生活中的对话，它可以识别那些正在积极讨论其对某些服务需求的个人，然后向他们投放相关广告。语音数据的这种使用被视为一种独特且可能引起争议的营销策略。]]></description>
+      <guid>https://t.me/hn_summary/63995</guid>
+      <pubDate>Fri, 15 Dec 2023 00:42:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 One Day One Workout，这是一款可简化您日常锻炼程序的健身应用程序。</title>
-      <link>https://t.me/hn_summary/63925</link>
-      <description><![CDATA[展示 HN：一日一锻炼我的健身应用，简化选择&lt; /a&gt;
-隆重推出 One Day One Workout，这款健身应用程序可简化您的日常锻炼程序。该应用程序专为初学者和中级人士设计，每天为您提供一次锻炼，消除了从无数锻炼选项中进行选择的压力。不再有令人难以抗拒的选择或复杂的例程 - 只需一项最适合您的健身水平的简单锻炼即可。无论您是刚刚开始健身之旅还是希望保持当前水平，一日一锻炼都能满足您的需求。告别混乱，迎接无忧无虑的健身习惯。立即访问 www.onedayoneworkout.com 尝试一下。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/63925</guid>
-      <pubDate>Thu, 14 Dec 2023 18:17:37 GMT</pubDate>
+      <title>[媒体]Google 网上论坛将终止对基于文本的讨论系统 Usenet 的支持，开始 [...]</title>
+      <link>https://t.me/hn_summary/63994</link>
+      <description><![CDATA[Google 网上论坛终止对 Usenet 的支持
+自 2024 年 2 月 22 日起，Google 网上论坛将终止对基于文本的讨论系统 Usenet 的支持。用户将无法再在 Google 网上论坛上发布内容、订阅论坛或查看新的 Usenet 内容。但是，在截止日期之前发布的历史 Usenet 内容仍然可以访问。 Google 的 NNTP 服务器和对等互连也将停止，这意味着它们将不再支持提供新的 Usenet 内容或与其他 NNTP 服务器交换内容。积极参与 Usenet 内容的用户将需要找到新的 Usenet 客户端和新的公共 Usenet 服务器。合法新闻组活动的减少以及社交媒体和网络论坛的兴起被认为是造成这一变化的原因。]]></description>
+      <guid>https://t.me/hn_summary/63994</guid>
+      <pubDate>Fri, 15 Dec 2023 00:39:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
