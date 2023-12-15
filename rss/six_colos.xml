@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 15 Dec 2023 02:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:33:02 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2023/12/kolide-34/</link>
+      <description><![CDATA[感谢 Kolide 本周再次赞助六色。
+人工智能是很多企业的热门话题，但大多数企业还没有出现
+制定管理人工智能使用的政策，员工可能会将各种敏感数据交给可能可信或不可信的工具。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2023/12/kolide-34/</guid>
+      <pubDate>Fri, 15 Dec 2023 17:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>剪贴板管理器的案例</title>
       <link>https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/</link>
@@ -30,7 +39,7 @@
     <item>
       <title>（播客）顺时针 533：我是应用程序</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</link>
-      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
+      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的感受。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
       <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
     </item>
@@ -107,15 +116,6 @@
   此后，苹果公司在向 Ars 提供的一份声明中证实，美国联邦政府“禁止”该公司“分享任何信息”，但现在怀登已经揭露了联邦政府的行为，苹果公司已经更新了其透明度报告，并将“详细说明此类请求” ”在下一份报告中关于推送通知的单独部分中。…]]></description>
       <guid>https://sixcolors.com/link/2023/12/apple-will-now-disclose-government-requests-for-push-notification-data/</guid>
       <pubDate>Wed, 06 Dec 2023 19:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作室需要停止在 CGI 问题上撒谎 ↦</title>
-      <link>https://sixcolors.com/link/2023/12/studios-need-to-stop-lying-about-cgi/</link>
-      <description><![CDATA[VFX 专业人士（也是该网站的朋友）托德·瓦齐里 (Todd Vaziri) 已经忍受了电影工作室假装充满 CGI 的电影只拍摄实际效果：
-&lt;块引用&gt;
-  在 Twitter（目前称为 X）上关注我的人们可能都知道我的多年、令人沮丧、频繁更新且重复的帖子，指出工作室和电影制片人在他们的项目中使用数字视觉效果轻描淡写或完全撒谎。...]]></description>
-      <guid>https://sixcolors.com/link/2023/12/studios-need-to-stop-lying-about-cgi/</guid>
-      <pubDate>Wed, 06 Dec 2023 18:53:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
