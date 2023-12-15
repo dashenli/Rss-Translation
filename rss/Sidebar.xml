@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 15 Dec 2023 12:59:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 15:28:56 GMT</lastBuildDate>
     <item>
       <title>前端回顾 2023</title>
       <link>https://tympanus.net/codrops/2023/12/01/frontend-rewind-2023-day-01/</link>
@@ -48,7 +48,7 @@
     <item>
       <title>2023年读者最喜欢的十大巨著</title>
       <link>https://www.thisiscolossal.com/2023/12/top-ten-stories-2023/</link>
-      <description><![CDATA[从巨大的动态海滩生物到大量抢救的照片，这些是我们读者最喜欢的项目。
+      <description><![CDATA[从巨大的动态海滩生物到大量抢救的照片，这些是我们读者最喜爱的项目。
 ]]></description>
       <guid>https://www.thisiscolossal.com/2023/12/top-ten-stories-2023/</guid>
       <pubDate>Thu, 14 Dec 2023 06:53:34 GMT</pubDate>
@@ -96,7 +96,7 @@
     <item>
       <title>Figma 插件魔术：使用 SVG 和 Canvas API 混合颜色</title>
       <link>https://evilmartians.com/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api</link>
-      <description><![CDATA[我们通过放弃迭代方法并转而采用 SVG 和 Canvas API 的“声明式”方法，克服了艰难的颜色混合障碍。
+      <description><![CDATA[我们通过放弃迭代方法并转向使用 SVG 和 Canvas API 的“声明式”方法，克服了艰难的颜色混合障碍。
 ]]></description>
       <guid>https://evilmartians.com/chronicles/figma-plugin-magic-tricks-mixing-colors-with-svg-and-canvas-api</guid>
       <pubDate>Wed, 13 Dec 2023 05:48:07 GMT</pubDate>
