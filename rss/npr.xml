@@ -4,7 +4,14 @@
     <title>新闻：美国国家公共广播电台</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 16 Dec 2023 02:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 06:29:19 GMT</lastBuildDate>
+    <item>
+      <title>亚利桑那州州长将派遣国民警卫队前往边境</title>
+      <link>https://www.npr.org/2023/12/16/1219806441/arizonas-governor-is-sending-the-national-guard-to-the-border</link>
+      <description><![CDATA[亚利桑那州州长周五命令该州国民警卫队前往墨西哥边境，帮助联邦官员管理涌入的移民。]]></description>
+      <guid>https://www.npr.org/2023/12/16/1219806441/arizonas-governor-is-sending-the-national-guard-to-the-border</guid>
+      <pubDate>Sat, 16 Dec 2023 05:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>与演员马修·佩里之死有关的氯胺酮是什么？</title>
       <link>https://www.npr.org/2023/12/15/1219761972/what-is-ketamine-friends-matthew-perry</link>
@@ -36,7 +43,7 @@
     <item>
       <title>我们如何发现俄亥俄州检察官行为不当的刑事审判</title>
       <link>https://www.npr.org/2023/12/15/1219340245/ohio-court-prosecutors-misconduct-investigation-explainer</link>
-      <description><![CDATA[在一项为期两年的调查中，我们通过分析 2018 年至 2021 年数千页的上诉判决，建立了约 450 项检察官不当行为指控的数据集。这里详细介绍了我们是如何做到的。]]></description>
+      <description><![CDATA[在一项为期两年的调查中，我们通过分析 2018 年至 2021 年数千页的上诉判决，建立了约 450 项检察官不当行为指控的数据集。以下详细介绍了我们的做法。]]></description>
       <guid>https://www.npr.org/2023/12/15/1219340245/ohio-court-prosecutors-misconduct-investigation-explainer</guid>
       <pubDate>Fri, 15 Dec 2023 19:15:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[自停火协议允许哈马斯扣押的 100 多名以色列人质获释以来的两周内，他们的故事震惊了以色列。据信约有 115 名人质仍留在加沙。]]></description>
       <guid>https://www.npr.org/2023/12/15/1219151214/israeli-hostages-hamas-gaza</guid>
       <pubDate>Fri, 15 Dec 2023 10:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>从杀手猫到圣诞经典，本周的测验既野性又喜庆</title>
-      <link>https://www.npr.org/2023/12/15/1218764773/christmas-movies-cats-biden-airline-birds-news-quiz</link>
-      <description><![CDATA[你知道猫能吃的种类有多广吗？哪些圣诞电影已被添加到国家电影登记处？做好这些，您就将获得完美分数。]]></description>
-      <guid>https://www.npr.org/2023/12/15/1218764773/christmas-movies-cats-biden-airline-birds-news-quiz</guid>
-      <pubDate>Fri, 15 Dec 2023 10:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
