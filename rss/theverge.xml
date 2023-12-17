@@ -4,7 +4,34 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Dec 2023 18:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 21:19:02 GMT</lastBuildDate>
+    <item>
+      <title>Peloton 的应用程序现在可以与一些订阅者的第三方跑步机配对</title>
+      <link>https://www.theverge.com/2023/12/17/24004950/peloton-plus-app-third-party-treadmill-support-subscriber-only</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Peloton 正在向第三方跑步机开放其应用程序，用于跑步、步行或跑步训练营课程。 Pelo Buddy 发现了一个Peloton 网站上的新支持页面宣布该应用程序现在可以在任何使用的跑步机上记录和显示指标蓝牙 FTMS。该优惠仅向该公司最昂贵的订阅锻炼计划&lt;的订阅者开放/a&gt;，Peloton 应用程序增强版。
+要进行配对，您需要在 Peloton 应用程序中启动 Tread 课程，然后点击“连接蓝牙设备”选项。从列表中选择您的跑步机，绿色复选标记会让您知道它何时连接。 
+Peloton 表示，用户可以在课堂上通过应用程序检查自己的坡度、速度、配速和距离。课程结束后，应用程序还将显示估计的卡路里消耗和海拔增益。此外，在第三方跑步机上进行的训练仍将计入挑战和徽章。
+
+今天的 Peloton 与 在大流行引发的家庭健身器材热潮中飙升。该公司努力满足这一需求，然后遇到了数月的级联问题，例如 安全召回，联邦调查、裁员，以及高调 出发前出发又安静下来。现在，以订阅为中心的 Peloton 处理更温和的问题。]]></description>
+      <guid>https://www.theverge.com/2023/12/17/24004950/peloton-plus-app-third-party-treadmill-support-subscriber-only</guid>
+      <pubDate>Sun, 17 Dec 2023 20:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果测试了一种让应用程序开发者捆绑订阅折扣的方法</title>
+      <link>https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts</link>
+      <description><![CDATA[&lt;图&gt;
+      Apple 于周五宣布了一项名为“订阅的条件定价”的试点计划，将使 App Store 开发者为拥有多个订阅的客户提供折扣。只要两个订阅保持活跃，开发者就可以基于“来自一个开发者或两个不同开发者”的订阅，从而开启不同公司之间合作的可能性。
+ 根据9to5Mac，除了应用程序本身之外，折扣还可以用于应用程序商店之外的广告和营销。 
+Apple 工程经理 Pete Hare 在 LinkedIn 帖子中说道 该公司将“处理所有资格检查和商务工作”，并且客户可以“直接从电子邮件链接或应用商店一步下载并订阅正在推广的应用程序”。该计划的好处可能还需要一段时间才能真正显现出来，苹果表示将在“未来几个月”让开发者加入进来。
+在欧盟，Apple 将很快就会允许第三方应用商店，仅仅拥有一个商店是不够的——苹果还必须让它对开发者和客户有吸引力。这意味着帮助开发者通过他们的努力赚取最多的钱，并为他们提供更多吸引客户的方式是其中的一部分。
+美国东部时间 2023 年 12 月 17 日下午 2:21 更正：本文的原始版本表示该试点项目允许开发者在订阅定价。事实上，该计划仅允许开发人员在两个开发人员都启用该优惠的情况下为客户提供有效订阅的折扣。我们对这个错误感到遗憾。]]></description>
+      <guid>https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts</guid>
+      <pubDate>Sun, 17 Dec 2023 19:22:02 GMT</pubDate>
+    </item>
     <item>
       <title>阅读互联网的终极应用程序</title>
       <link>https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter</link>
@@ -39,19 +66,6 @@
       <pubDate>Sat, 16 Dec 2023 19:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>苹果让应用程序制造商更容易争夺你的钱</title>
-      <link>https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts</link>
-      <description><![CDATA[&lt;图&gt;
-      Apple 昨天宣布了一项名为“订阅的条件定价”的试点计划，该计划将让 App Store 开发者自动为其他应用程序的用户提供折扣订阅。该公司表示，开发者将能够基于“来自一个开发者或两个不同开发者”的订阅，这使他们不仅可以吸引他们已经拥有的客户使用其他应用程序，还可以通过向竞争对手的订阅者提供优惠来进行竞争.
-这里有一个小问题：根据 &lt; em&gt;9to5Mac，折扣仅在客户的其他订阅有效时有效。因此，如果有人尝试某个应用程序，因为它提供了优惠，并决定取消其他订阅，他们将恢复到正常价格。据报道，苹果还告诉开发者，除了应用程序本身之外，这些折扣还可以用于应用程序商店之外的广告和营销。 
-该计划的好处可能需要一段时间才能真正显现出来，因为苹果表示将在“未来几个月”让开发者加入。随着开发者开始使用这个新工具进行竞争，看看它如何影响平台上的订阅将会很有趣。
-
-从表面上看，该功能听起来像是开发者的胜利，至少只要它不仅有利于有能力提供此类优惠的大型开发者。随着苹果数字商店霸主地位面临的监管压力越来越大，苹果将继续需要提高应用商店的吸引力。尽管该公司出现了在与 Epic 的反垄断斗争中几乎毫发无伤，堡垒之夜制造商刚刚取得了令人惊叹的战胜 Google，这可能会加剧未来对 iOS 应用商店锁定的挑战。 
-在欧盟，Apple 将很快就会允许第三方应用商店，仅仅拥有一个商店是不够的——苹果还必须让它对开发者和客户有吸引力。这意味着帮助开发者通过他们的努力赚到最多的钱，并为他们提供更多方式来争夺客户是其中的一部分。]]></description>
-      <guid>https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts</guid>
-      <pubDate>Sat, 16 Dec 2023 19:05:51 GMT</pubDate>
-    </item>
-    <item>
       <title>史诗般的问题：苹果获胜时谷歌为何失败</title>
       <link>https://www.theverge.com/24003500/epic-v-google-loss-apple-win-fortnite-trial-monopoly</link>
       <description><![CDATA[]]></description>
@@ -83,7 +97,7 @@
 CRD（以前称为公平就业和住房部或 DFEH）于 2021 年 7 月提起此诉讼，指控动视暴雪存在“兄弟会男孩”文化，在这种文化中，女性遭受性骚扰和性别歧视。随后，员工罢工&lt; /a&gt;，包括时任暴雪总裁 J. Allen Brack 和暴雪前人力资源高级副总裁 离开了公司，几个月后，《华尔街日报》 报道称，首席执行官鲍比·科蒂克 (Bobby Kotick) 已经了解不当性行为指控 多年来。
 但是，作为和解协议的一部分，CRD 表示，“没有任何法院或任何独立调查证实了动视暴雪存在性骚扰的任何指控”，并且没有证据表明 Kotick 存在不当行为，据纽约时报。 （该公司去年告诉美国证券交易委员会，一项内部调查发现“没有证据暗示”高级管理人员忽视了性别骚扰的指控。）《华尔街日报》还周五报道了诉讼。
 如果法院批准和解，动视暴雪将支付约 54,875,000 美元，用于“支付对工人的直接救济和诉讼费用”，其中 45,750,000 美元将用于“专门用于补偿工人的和解基金”。 CRD 说。
-加州提起诉讼几个月后，微软宣布打算收购动视暴雪 一笔 687 亿美元的交易。经过一系列监管障碍后，该交易最终于 10 月完成&lt; /a&gt;. Kotick 将留在动视暴雪直至今年年底.
+加州提起诉讼几个月后，微软宣布打算收购动视暴雪 一笔 687 亿美元的交易。在经历了一系列监管障碍后，该交易最终于 10 月完成&lt; /a&gt;. Kotick 将留在动视暴雪直至今年年底.
 2022 年，法官批准了动视暴雪就 另一起诉讼，指控公司存在性骚扰和歧视。 ]]></description>
       <guid>https://www.theverge.com/2023/12/15/24003556/california-activision-blizzard-gender-discrimination-lawsuit-settlement</guid>
       <pubDate>Sat, 16 Dec 2023 00:43:49 GMT</pubDate>
@@ -94,13 +108,6 @@ CRD（以前称为公平就业和住房部或 DFEH）于 2021 年 7 月提起此
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2023/12/15/24003478/philips-hue-signify-restructuring-cut-218-million-annually</guid>
       <pubDate>Sat, 16 Dec 2023 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最优惠的 Apple Watch 优惠</title>
-      <link>https://www.theverge.com/21289209/best-apple-watch-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21289209/best-apple-watch-deals</guid>
-      <pubDate>Fri, 15 Dec 2023 23:55:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
