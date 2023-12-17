@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 17 Dec 2023 02:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 03:26:39 GMT</lastBuildDate>
+    <item>
+      <title>“罗恩·赫尔曼”通过太阳能共享向子孙后代传递一封情书──2023年再生公司奖：苏富比小联盟公司</title>
+      <link>https://wired.jp/article/the-regenerative-company-award-2023-little-league-company/</link>
+      <description><![CDATA[“Ron Herman SOSA”是一家太阳能共享设施，于 2021 年在千叶县索佐市开业。罗恩·赫尔曼 (Ron Herman) 的苏富比少年棒球联盟公司 (Sotheby&#39;s Little League Company) 在这个太阳能电池板和有机大豆田的所在地，为子孙后代探索再生时尚。 【入选“2023年再生企业奖”】]]></description>
+      <guid>https://wired.jp/article/the-regenerative-company-award-2023-little-league-company/</guid>
+      <pubDate>Sun, 17 Dec 2023 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《WIRED》2024 年重点关注的 8 款电动汽车精选 ─ 特辑《THE WORLD IN 2024》</title>
       <link>https://wired.jp/article/vol51-charging-ahead/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>实现超人的AI“控制”：OpenAI研究团队公布研究成果的意义</title>
       <link>https://wired.jp/article/openai-ilya-sutskever-ai-safety/</link>
-      <description><![CDATA[随着人工智能 (AI) 日益复杂化，OpenAI 正在致力于研究使用能力较弱的 AI 来控制高级 AI。由首席科学家 Ilya Satskyvar 领导的一个名为“Superalignment”的研究小组发表的成果，是朝着“驯服”未来可能出现的超人人工智能迈出的重要一步，它有可能发生。]]></description>
+      <description><![CDATA[随着人工智能 (AI) 日益复杂化，OpenAI 正在致力于研究使用能力较弱的 AI 来控制高级 AI。由首席科学家Ilya Satskyvar领导的一个名为“Superalignment”的研究小组发表的研究成果，是朝着“驯服”未来可能出现的超人类AI迈出的重要一步，它有可能发生。]]></description>
       <guid>https://wired.jp/article/openai-ilya-sutskever-ai-safety/</guid>
       <pubDate>Fri, 15 Dec 2023 08:30:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>COP28 关于“摆脱化石燃料”的协议以及“妥协”的含义</title>
       <link>https://wired.jp/article/cop28-dubai-final-agreement/</link>
-      <description><![CDATA[在阿拉伯联合酋长国举行的联合国气候变化框架公约（COP28）第28次缔约方会议（COP28）商定了一份成果文件，呼吁参与国放弃化石燃料。虽然这份协议充满了妥协，但也是现阶段“最好”的结果。]]></description>
+      <description><![CDATA[在阿拉伯联合酋长国举行的《联合国气候变化框架公约》第 28 届缔约方会议 (COP28) 商定了一份成果文件，呼吁参与国放弃化石燃料。虽然这份协议充满了妥协，但也是现阶段“最好”的结果。]]></description>
       <guid>https://wired.jp/article/cop28-dubai-final-agreement/</guid>
       <pubDate>Wed, 13 Dec 2023 23:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过光缆可以听到蝉的声音</title>
-      <link>https://wired.jp/article/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/</link>
-      <description><![CDATA[2021 年，科学家们用光纤电缆进行实验，发现了一个奇怪的信号。这是“循环研讨会”的声音。希望这将在未来带来观察昆虫的新方法。]]></description>
-      <guid>https://wired.jp/article/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/</guid>
-      <pubDate>Wed, 13 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
