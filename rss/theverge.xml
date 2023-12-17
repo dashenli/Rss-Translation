@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Dec 2023 02:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 15:23:15 GMT</lastBuildDate>
+    <item>
+      <title>阅读互联网的终极应用程序</title>
+      <link>https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter</guid>
+      <pubDate>Sun, 17 Dec 2023 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国国会将无证窃听决定推迟至明年四月</title>
       <link>https://www.theverge.com/2023/12/16/24004356/section-207-reauthorized-until-april-fisa-national-defence-cyber-surveillance</link>
@@ -94,22 +101,6 @@ CRD（以前称为公平就业和住房部或 DFEH）于 2021 年 7 月提起此
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/21289209/best-apple-watch-deals</guid>
       <pubDate>Fri, 15 Dec 2023 23:55:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 修复了 iPhone 的 Flipper Zero 问题</title>
-      <link>https://www.theverge.com/2023/12/15/24003406/apple-iphone-flipper-zero-fix-ios-17-2</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Dan Seifert / The Verge
-
-Apple 已阻止使用 Flipper Zero 进行的蓝牙攻击，该攻击向 iPhone 发送大量弹出窗口，导致 iPhone 锁定并崩溃。虽然苹果尚未正式宣布这一变化，但根据 ZDNET 和 9to5Mac。&lt; /p&gt;
-该攻击允许用户导致附近运行 iOS 17.0 的 iPhone 崩溃，涉及 Flipper Zero，一种小型万能黑客设备。名为 Flipper Xtreme 的第三方固件包含一项功能，允许 Flipper 的内置蓝牙无线电向设备发送大量蓝牙警报。
-
-到目前为止，防止攻击的唯一方法是完全禁用 iPhone 上的蓝牙，但看起来 Apple 终于解决了该漏洞。当尝试使用 Flipper Zero 锁定运行 iOS 17.2 的 iPhone 时，ZDNET 和9to5Mac 发现设备上只出现了几个弹出窗口。幸运的是，通知数量不足以导致设备崩溃。
-我们仍然不知道 Apple 到底做了什么来修复此问题，但 The Verge 已联系 Apple 请求提供更多信息，我们将更新此信息文章如果我们收到回复。不过，就目前而言，如果您还没有将您的 iPhone 更新到 iOS 17.2。
-]]></description>
-      <guid>https://www.theverge.com/2023/12/15/24003406/apple-iphone-flipper-zero-fix-ios-17-2</guid>
-      <pubDate>Fri, 15 Dec 2023 23:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
