@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 18 Dec 2023 01:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 06:33:53 GMT</lastBuildDate>
     <item>
-      <title>问 HN：如果这么多人认为 Waze 优于地图，谷歌为什么要杀死 Waze？</title>
-      <link>https://t.me/hn_summary/64445</link>
-      <description><![CDATA[问问 HN：如果这么多人认为 Waze 更优越，为什么 Google 会淘汰它到地图？
-在 news.ycombinator.com 上的这篇文章中，作者人们对谷歌似乎忽视Waze的决定提出了质疑，尽管它在许多地区被广泛认为在汽车导航方面优于谷歌地图。作者寻求社区的意见和见解，以了解谷歌行为背后的理由。争议在于谷歌选择可能忽视备受推崇的产品而转而支持自己的产品。]]></description>
-      <guid>https://t.me/hn_summary/64445</guid>
-      <pubDate>Mon, 18 Dec 2023 01:50:27 GMT</pubDate>
+      <title>[媒体]highlightjs.org 网站希望明确表示他们不是 CDN（Content De [...]</title>
+      <link>https://t.me/hn_summary/64470</link>
+      <description><![CDATA[我们不是 CDN – Highlight.js 
+网站 highlightjs.org 想要明确表示他们不是CDN（内容分发网络）。他们遇到了大量不需要的请求，因为人们链接到他们的资产而不是将它们托管在自己的网站上。这种对其资产的滥用给他们带来了很多不便。用户必须了解，他们不应该依赖 highlightjs.org 作为 CDN，应自行托管资产。]]></description>
+      <guid>https://t.me/hn_summary/64470</guid>
+      <pubDate>Mon, 18 Dec 2023 06:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]来自多个国家的环境和野生动物专家团队进行了[...]</title>
-      <link>https://t.me/hn_summary/64444</link>
-      <description><![CDATA[对猫的评估表明它们吃的生物种类比以前想象的要多&lt; /a&gt;
-来自多个国家的环境和野生动物专家团队进行的一项研究表明，猫吃的生物种类比以前已知的要多。研究人员利用各种研究工作的数据编制了一个以猫为食的野生动物数据库，这些研究工作重点关注自由放养的猫对生态系统的影响。研究发现，猫吃多种动物，包括鸟类、爬行动物、昆虫和两栖动物。他们还发现猫正在吃濒临灭绝的动物，例如绿海龟和西部袋鼬。研究人员得出的结论是，猫是极端的通才掠食者，需要做更多的工作来保护它们所危及的物种。]]></description>
-      <guid>https://t.me/hn_summary/64444</guid>
-      <pubDate>Mon, 18 Dec 2023 01:50:20 GMT</pubDate>
+      <title>[媒体]作者引入了一个名为“habanero”的新 Elixir 包，允许热代码 [...]</title>
+      <link>https://t.me/hn_summary/64469</link>
+      <description><![CDATA[显示 HN：Habanero – 使用 Elixir 部署可怕的热代码
+作者引入了一个名为“habanero”的新 Elixir 包，它允许热代码部署，这可以大大减少部署时间。该包在应用程序中公开了一个 HTTP 端点，允许开发人员更新代码而无需重新启动任何内容。然而，作者承认，热代码部署可能很复杂，如果不小心完成，可能会导致崩溃。作者还讨论了权衡，例如公开 HTTP 端点以进行远程代码执行的潜在安全风险以及在部署之前运行测试的需要。作者最后建议开发人员坚持使用蓝绿部署，除非他们喜欢生活在边缘。]]></description>
+      <guid>https://t.me/hn_summary/64469</guid>
+      <pubDate>Mon, 18 Dec 2023 06:30:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AMD 和 Nvidia 就两者之间的性能差异展开激烈争论 [...]</title>
-      <link>https://t.me/hn_summary/64443</link>
-      <description><![CDATA[AMD MI300X 的性能比 Nvidia H100 高 30%，即使在优化堆栈的情况下也是如此
-AMD 和 Nvidia 就 Instinct MI300X 和 H100 GPU 之间的性能差异展开了激烈的争论。 AMD声称MI300X比Nvidia的H100领先1.6倍，而Nvidia则辩称AMD在比较两者时没有使用其优化。 AMD 指出，Nvidia 使用了一组选择性的推理工作负载，并在 H100 上使用其内部 TensorRT-LLM 对它们进行了基准测试，而 AMD 使用开源 vLLM 方法。 AMD 进行了三次性能测试，与 H100 相比，显示出更高的性能和更低的延迟。争议在于两家公司使用的测试方法和优化方式不同。]]></description>
-      <guid>https://t.me/hn_summary/64443</guid>
-      <pubDate>Mon, 18 Dec 2023 01:12:02 GMT</pubDate>
+      <title>[媒体] 励志名言选项卡是一个网站，它提供了一种独特的方式来保持积极性并 [...]</title>
+      <link>https://t.me/hn_summary/64468</link>
+      <description><![CDATA[显示 HN：在新标签上获取 100 个类别的每日报价&lt; /a&gt;
+励志名言选项卡是一个网站，它提供了一种独特的方式来全天保持积极和积极的态度。通过选择与您产生共鸣的类别，您可以获得根据您的特定需求量身定制的每日报价。有 100 多个类别可供选择，总有一款适合您。无论您需要事业、人际关系还是个人成长的提升，这些名言都会为您提供所需的灵感。这是以积极的心态开始新的一天的聪明而便捷的方式。]]></description>
+      <guid>https://t.me/hn_summary/64468</guid>
+      <pubDate>Mon, 18 Dec 2023 06:30:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 帕台农神庙/埃尔金大理石雕之争：归还还是保留？</title>
-      <link>https://t.me/hn_summary/64442</link>
-      <description><![CDATA[帕台农神庙/埃尔金大理石大理石之争：归还还是保留？
-这篇文章讨论了关于 19 世纪第七代埃尔金伯爵从雅典帕台农神庙移走的埃尔金大理石浮雕是否应该归还希腊还是留在大英博物馆的争论。文章提出了两种相反的观点，一种主张将大理石保留在英国，另一种则主张将它们归还希腊。作者强调了大理石被拆除的历史和法律背景，并讨论了双方提出的各种论点。文章最后要求读者通过民意调查分享他们对此事的看法。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/64442</guid>
-      <pubDate>Mon, 18 Dec 2023 01:05:53 GMT</pubDate>
+      <title>[媒体] Web 内容是 IRC 文本转语音服务器的代码片段。</title>
+      <link>https://t.me/hn_summary/64467</link>
+      <description><![CDATA[显示 HN：IRC Tts 广播
+Web 内容是 IRC 文本转语音服务器的代码片段。它需要安装 ffmpeg 和 Piper-tts。该代码提供了示例流以及有关如何配置服务器的说明。它还包括各种设置的常量，例如 IRC 服务器、昵称、频道和语音。该代码使用 kittybot 库进行 IRC 通信并处理 PRIVMSG 事件以将文本消息转换为语音。该代码还包括缓冲和流式传输音频的功能。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/64467</guid>
+      <pubDate>Mon, 18 Dec 2023 06:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：为什么 SSL 证书不是去中心化的？</title>
-      <link>https://t.me/hn_summary/64441</link>
-      <description><![CDATA[询问 HN：为什么 SSL 证书不是去中心化的？ 
-news.ycombinator.com 上这篇文章的作者是询问有关 SSL/TLS 证书去中心化的问题。他们想知道为什么无法在 DNS TXT 记录中设置公钥并将私钥保留在服务器上，从而无需来自证书颁发机构 (CA)（如 LetsEncrypt）的证书。作者很好奇这种方法是否能解决加密问题。该问题凸显了去中心化系统的潜力，并对当前 SSL/TLS 证书对 CA 的依赖提出了挑战。]]></description>
-      <guid>https://t.me/hn_summary/64441</guid>
-      <pubDate>Mon, 18 Dec 2023 00:29:36 GMT</pubDate>
+      <title>此网页内容的作者介绍了他们的副业项目 Inventronic，这是一个电子 [...]</title>
+      <link>https://t.me/hn_summary/64466</link>
+      <description><![CDATA[展示 HN：Inventronic，电子零件库存管理网络应用程序
+该网页内容的作者介绍了他们的副业项目 Inventronic，这是一个电子元件库存管理系统。作者解释说，他们之所以创建这个系统，是因为他们在销售复古计算机 Planck 6502 时杂乱无章，并且经常缺少套件零件。他们最初尝试使用名为 Partkeepr 的标准电子元件管理工具，但发现它对于他们的基本需求来说太复杂了。因此，他们决定创建自己的系统 Inventronic，该系统使他们能够使用应用程序生成的标签来跟踪明确位置的零件。作者邀请读者试用 Inventronic 并提供了演示登录。该系统是用 Nuxtjs 和 Supabase 后端构建的。]]></description>
+      <guid>https://t.me/hn_summary/64466</guid>
+      <pubDate>Mon, 18 Dec 2023 06:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文讨论了如何使用 JDK Flight Recorder (JFR) 跟踪 Java 本机内存 (NMT)。</title>
-      <link>https://t.me/hn_summary/64440</link>
-      <description><![CDATA[使用 JDK Flight Recorder 跟踪 Java 本机内存
-本文讨论如何使用 JDK Flight Recorder (JFR) 跟踪 Java 本机内存 (NMT)。作者提供了一个简单的示例程序，它使用直接字节缓冲区和新的外部内存 API 来分配堆外内存。作者强调，外部内存 API 允许一次分配更大量的内存。文章解释了NMT数据是由JFR记录的，可以通过“gc”设置进行控制。作者演示了如何在JDK Mission Control中启用NMT并查看记录的数据。文章还提到了 NMT 的性能开销，并介绍了用于跟踪整体内存消耗的“Resident Set Size”事件类型。作者最后提到了未来探索使用 JFR Analytics 分析内存消耗的计划。]]></description>
-      <guid>https://t.me/hn_summary/64440</guid>
-      <pubDate>Mon, 18 Dec 2023 00:04:48 GMT</pubDate>
+      <title>此网页内容的作者介绍了一本独特的艺术书，庆祝 [...]</title>
+      <link>https://t.me/hn_summary/64465</link>
+      <description><![CDATA[Show HN：庆祝 Google 成立 25 周年背后的思想的艺术书&lt; /a&gt;
+此网络内容的作者介绍了一本独特的艺术书，庆祝 Google 成立 25 周年。当作者和他们的妻子讨论室内设计并意识到没有专门针对软件公司的咖啡桌书籍时，产生了这本书的想法。作者亲自承担了这个项目，在三年的时间里利用晚上和周末的时间完成了这个项目。这本书的标题是《谷歌——第一个 25 年》，探讨了谷歌从斯坦福大学到全球主导地位的迷人故事。该书采用丝绸精装本、限量版、手绘边缘和 30 多幅手工插图。作者希望这本书能够激励创始人并吸引室内设计师。该书售价 169 美元，将于 2024 年 1 月开始发货。]]></description>
+      <guid>https://t.me/hn_summary/64465</guid>
+      <pubDate>Mon, 18 Dec 2023 06:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>不幸的是，最初的维基百科“忒修斯之船”文章已经发生了一些重大变化。</title>
-      <link>https://t.me/hn_summary/64439</link>
-      <description><![CDATA[原始维基百科“忒修斯之船”的 0% 短语文章保留
-不幸的是，最初的维基百科“忒修斯之船”文章已经发生了一些重大变化。事实上，文章中的原始短语都没有保留。这有点令人惊讶，甚至可能存在争议，但别担心，我们还没有放弃。让我们再试一次，看看能否还原这个发人深省的哲学概念的本质。请继续关注更新版本！]]></description>
-      <guid>https://t.me/hn_summary/64439</guid>
-      <pubDate>Sun, 17 Dec 2023 23:48:35 GMT</pubDate>
+      <title>[媒体]“mgo”项目的目的是构建一个针对 [...] 进行优化的 Go 二进制文件</title>
+      <link>https://t.me/hn_summary/64464</link>
+      <description><![CDATA[显示 HN：Mgo：构建针对所有 GOAMD64 优化的单个 Go 二进制文件变体
+“mgo”项目的目的是构建一个针对多个 GOAMD64 变体进行优化的单个 Go 二进制文件，并且可以根据所使用的处理器在运行时动态选择最合适的变体。当您无法控制可执行文件将在其上运行的处理器微体系结构时，这对于提供 GOAMD64 变体以提高运行时性能非常有用。该项目提供了一个启动器，其中捆绑了针对 GOAMD64=v1、GOAMD64=v2、GOAMD64=v3 和 GOAMD64=v4 优化的四个变体。作者提到，该项目的独特之处在于允许用户覆盖运行时使用的变体，并提供一种方法来检查正在执行哪个变体。]]></description>
+      <guid>https://t.me/hn_summary/64464</guid>
+      <pubDate>Mon, 18 Dec 2023 06:29:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]卡塔尔航空已禁止 YouTuber 乔什·卡希尔 (Josh Cahill) 发布负面言论，并解雇了机组人员 [...]</title>
-      <link>https://t.me/hn_summary/64438</link>
-      <description><![CDATA[卡塔尔航空禁止 YouTuber 进行负面评论
-卡塔尔航空公司在 YouTuber 乔什·卡希尔 (Josh Cahill) 发布对航班的负面评论后，对他进行了封禁，并解雇了机组人员。在视频中，卡希尔声称航空公司向他提供免费航班，以换取删除视频，但他拒绝了。该航空公司还要求他删除卡塔尔航空员工对恶劣工作条件的负面评论，但他也拒绝了。在该视频未被主动删除后，卡塔尔航空向 YouTube 发送了机组人员的声明，出于隐私原因要求删除该视频。该航空公司因其对这一情况的处理而受到批评，许多人称其不专业且短视。该事件发生在前首席执行官阿克巴尔·阿尔·贝克 (Akbar Al Baker) 的领导下，他以在公司内部营造恐惧文化而闻名。新任首席执行官巴德尔·穆罕默德·阿尔·米尔 (Badr Mohammed Al Meer) 表示致力于创造一种信任和赋权的文化。]]></description>
-      <guid>https://t.me/hn_summary/64438</guid>
-      <pubDate>Sun, 17 Dec 2023 23:31:25 GMT</pubDate>
+      <title>[媒体] OptiNiSt（光学神经图像工作室）项目是一个基于 GUI 的工作流程管道工具 [...]</title>
+      <link>https://t.me/hn_summary/64463</link>
+      <description><![CDATA[显示 HN：钙成像管道工具
+OptiNiSt（光学神经图像工作室）项目是一个基于 GUI 的工作流程管道工具，设计用于处理双光子钙成像数据。它允许研究人员轻松尝试多种数据分析方法、可视化结果并构建数据分析管道。 OptiNiSt 遵循 NWB 标准的数据保存格式，支持科学研究的可重复性、分析协议的标准化以及作为插件的新型分析工具的开发。它的与众不同之处在于提供了一个易于创建的工作流程，零编码知识，使用绘图快速可视化分析结果，以及以有组织的方式记录和重现工作流程管道的能力。该项目得到了各个图书馆和贡献者的支持。]]></description>
+      <guid>https://t.me/hn_summary/64463</guid>
+      <pubDate>Mon, 18 Dec 2023 06:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉车主对最近召回 200 万辆汽车的反应不一 [...]</title>
-      <link>https://t.me/hn_summary/64437</link>
-      <description><![CDATA[特斯拉司机对政府希望他们的汽车更安全感到不安
-由于对 Autopilot 技术的担忧，美国国家公路交通安全管理局 (NHTSA) 最近召回了 200 万辆汽车，特斯拉车主对此反应不一。一些车主不太担心召回，因为可以通过软件更新远程修复。然而，其他人对更新本身并不满意，该更新将增加确保驾驶员在使用自动驾驶仪时集中注意力的措施。这些措施通常被称为“唠叨”，被许多特斯拉司机视为分散注意力的行为。一些业主甚至计划规避更新。此次召回是自愿的，是与联邦监管机构的妥协。完全自动驾驶系统的承诺未能兑现也令人沮丧。]]></description>
-      <guid>https://t.me/hn_summary/64437</guid>
-      <pubDate>Sun, 17 Dec 2023 23:05:11 GMT</pubDate>
+      <title>[媒体] 隆重推出 AI 年鉴，这是一款革命性的工具，可让您改变照片 [...]</title>
+      <link>https://t.me/hn_summary/64462</link>
+      <description><![CDATA[展示 HN：利用 AI 生成年鉴照片
+隆重推出 AI 年鉴，这是一款革命性工具，可让您将照片转换为怀旧的 90 年代风格年鉴图片。告别复杂的编辑过程，迎接即时的怀旧之情。只需上传您的照片，让我们的人工智能技术发挥其魔力。使用这款独特而巧妙的工具重温学生时代的回忆，带回经典年鉴的感觉。准备好惊叹于这一转变，并与朋友和家人分享您的新年鉴回忆。]]></description>
+      <guid>https://t.me/hn_summary/64462</guid>
+      <pubDate>Mon, 18 Dec 2023 06:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章探讨了风险投资独特的语言和沟通方式[...]</title>
-      <link>https://t.me/hn_summary/64436</link>
-      <description><![CDATA[“是”意味着“否”：风险投资家的好奇语言
-本文讨论了风险投资家 (VC) 独特的语言和沟通方式。它强调了风险投资经常使用各种短语对创始人说“不”，但没有明确拒绝他们。作者分享了他们被 VC 拒绝的个人经历，并深入了解了 VC 使用某些短语时的真正含义。这篇文章还为正在融资的创始人提供了生存技巧，强调自我批评的重要性，在风险投资公司内寻找有影响力的冠军，而不是在没有验证市场的情况下仅仅依赖风险投资资金。作者诚邀读者在评论区分享自己的经验和智慧。]]></description>
-      <guid>https://t.me/hn_summary/64436</guid>
-      <pubDate>Sun, 17 Dec 2023 23:02:01 GMT</pubDate>
+      <title>Zap Web Ring 隆重登场，这是一种连接和发现网站的新方式！</title>
+      <link>https://t.me/hn_summary/64461</link>
+      <description><![CDATA[显示 HN：Zap 网环
+Zap Web Ring 隆重登场，这是一种连接和发现网站的新方式！借助 Zap Web Ring，您可以轻松地将代码片段添加到您的网站并加入志同道合的网站网络。通过将提供的代码添加到网站的头部和正文或页脚，您可以显示 Zap Web Ring 组件，该组件允许访问者浏览环中的其他网站。这是增加流量和发现新内容的好方法。那为什么还要等呢？立即加入 Zap Web Ring，开始以全新的方式探索网络！]]></description>
+      <guid>https://t.me/hn_summary/64461</guid>
+      <pubDate>Mon, 18 Dec 2023 06:29:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

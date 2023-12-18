@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 18 Dec 2023 03:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 06:34:54 GMT</lastBuildDate>
+    <item>
+      <title>全球首枚3D打印火箭让太空探索“可持续”——专题《2024年的世界》</title>
+      <link>https://wired.jp/article/vol51-the-sustainable-space-invasion/</link>
+      <description><![CDATA[太空扩张正在以有利于地球和人类的方式取得进展，例如可重复使用的 3D 打印火箭、以减少燃料和成本发射卫星以及精心设计内部空间的空间站。]]></description>
+      <guid>https://wired.jp/article/vol51-the-sustainable-space-invasion/</guid>
+      <pubDate>Mon, 18 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过碳信用额加速农民的脱碳努力 - 2023 年再生公司奖：Fager</title>
       <link>https://wired.jp/articlethe-regenerative-company-award-2023-faeger/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[通用汽车 (GM) 旗下生产自动驾驶汽车的子公司 Cruise 将裁员约四分之一。一辆自动驾驶出租车拖拽行人并造成严重伤害的事故发生后，该公司被迫缩减业务规模。]]></description>
       <guid>https://wired.jp/article/massive-layoffs-robotaxi-gm-cruise/</guid>
       <pubDate>Fri, 15 Dec 2023 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI需要做什么才能避免再次面临“崩溃危机”</title>
-      <link>https://wired.jp/article/how-to-stop-openai-governance-structure-meltdown/</link>
-      <description><![CDATA[OpenAI 试图建立一个治理结构，使其保持人性化，但该结构从内部崩溃了。 OpenAI 可以从 Mozilla 基金会等机构吸取经验教训，该基金会将非营利目标与营利性企业结合起来。]]></description>
-      <guid>https://wired.jp/article/how-to-stop-openai-governance-structure-meltdown/</guid>
-      <pubDate>Thu, 14 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
