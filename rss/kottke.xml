@@ -4,7 +4,18 @@
     <title>科特克网站</title>
     <link>http://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来一直是优质超文本产品的家园</description>
-    <lastBuildDate>Fri, 15 Dec 2023 21:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 02:21:20 GMT</lastBuildDate>
+    <item>
+      <title>XKCD：在此空白处标记尽可能多的美国州...</title>
+      <link>https://kottke.org/23/12/0043644-xkcd-label-as-many-us</link>
+      <description><![CDATA[XKCD：在这张空白地图上标记尽可能多的美国州。哈哈，这很邪恶。
+
+
+
+ 💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/23/12/0043644-xkcd-label-as-many-us</guid>
+      <pubDate>Sun, 17 Dec 2023 23:08:14 GMT</pubDate>
+    </item>
     <item>
       <title>你在哪里打电话回家？</title>
       <link>https://kottke.org/23/12/where-do-you-call-home</link>
@@ -18,7 +29,7 @@
       <pubDate>Fri, 15 Dec 2023 20:32:04 GMT</pubDate>
     </item>
     <item>
-      <title>《科学》杂志 2023 年度突破：Ozempic 等 GLP-1 药物和...</title>
+      <title>《科学》杂志 2023 年度突破：GLP-1 药物，如 Ozempic 和...</title>
       <link>https://kottke.org/23/12/0043640-science-magazines-2023-br</link>
       <description><![CDATA[《科学》杂志 2023 年度突破：Ozempic 和 Wegovy 等 GLP-1 药物。
 
@@ -56,7 +67,7 @@
       <pubDate>Fri, 15 Dec 2023 18:06:15 GMT</pubDate>
     </item>
     <item>
-      <title>Giorgia Lupi 制作信息图表来帮助理解她的病情：1,374...</title>
+      <title>Giorgia Lupi 制作信息图表来帮助理解她的疾病：1,374...</title>
       <link>https://kottke.org/23/12/0043639-giorgia-lupi-makes-infogr</link>
       <description><![CDATA[Giorgia Lupi 制作信息图表来帮助理解她的病情：1,374 天：我与新冠病毒长期相处的生活。 “我内心深处始终担心，我再也无法体验到以前那种简单、无病的快乐生活了。”
 
@@ -161,17 +172,6 @@
       <description><![CDATA[德里克·西弗斯 (Derek Sivers) 撰写的关于我上周在泰国北部散步和谈话的简短文章。]]></description>
       <guid>https://kottke.org/23/12/0043623-a-brief-write-up-by-derek</guid>
       <pubDate>Thu, 14 Dec 2023 18:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的朋友阿德里亚娜·X·雅各布斯 (Adriana X. Jacobs) 说：“我把我的厄运置于……</title>
-      <link>https://kottke.org/23/12/0043625-from-my-friend-adriana-x</link>
-      <description><![CDATA[来自我的朋友 Adriana X. Jacobs，“我把我的厄运变成了爱情诗” 是一款 8 位视频游戏，其中包含了她的一些诗歌。 “如果你找到了邻居的花园，你的来世将会格外甜蜜。”
-
-
-
- 💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/23/12/0043625-from-my-friend-adriana-x</guid>
-      <pubDate>Thu, 14 Dec 2023 17:09:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
