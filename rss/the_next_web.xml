@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Tue, 19 Dec 2023 12:57:31 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Tue, 19 Dec 2023 15:27:38 GMT</lastBuildDate>
+    <item>
+      <title>利用大脑数据改变人机交互的技术赢得 3000 万欧元</title>
+      <link>https://thenextweb.com/news/tech-transform-human-machine-interaction-brain-data-wins-e30m</link>
+      <description><![CDATA[德国-荷兰初创公司 Zander Laboratories 已从德国网络机构获得 3000 万欧元资金，用于改变人与机器之间的交互。值得注意的是，这是欧盟迄今为止最大的单一资助研究项目。该初创公司击败了 10 月份参与政府“安全神经人机交互”提案征集的其他四家竞争者。 Zander Laboratories 凭借其“自主系统神经适应性”（NAFAS）项目赢得了奖金，该项目旨在解决机器持续存在的难题：理解人类情感、认知决策和心理状态。为了实现人与机器之间的直观交互，NAFAS 采用被动脑机接口 (pBCI)，…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/tech-transform-human-machine-interaction-brain-data-wins-e30m</guid>
+      <pubDate>Tue, 19 Dec 2023 13:21:18 GMT</pubDate>
+    </item>
     <item>
       <title>这些将是 2024 年欧洲科技领域最热门的工作</title>
       <link>https://thenextweb.com/news/hottest-jobs-in-european-tech-2024</link>
@@ -15,7 +22,7 @@
     <item>
       <title>为什么我们仍然用饮用水冲厕所？这些初创公司有解决方案</title>
       <link>https://thenextweb.com/news/flushing-toilets-drinking-water-startups-solution</link>
-      <description><![CDATA[如果您在 voco 布鲁塞尔城北酒店早上淋浴，您看到的水当你洗头时滴进下水道的水可能会在晚些时候再次出现——当你晚上冲厕所时。然而，在淋浴水返回到马桶周围旋转并最终冲向城市的下水道之前，它将经过由酒店地下室的一系列类似冰箱的机器启用的特殊处理过程。 “每次冲厕所时，实际上都会向建筑物中导入六到九升水，”Sabine 说…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[如果您在 voco 布鲁塞尔城北酒店早上淋浴，您看到的水当你洗头时滴进下水道的水可能会在晚些时候再次出现——当你晚上冲厕所时。然而，在淋浴水返回到马桶周围旋转并最终冲向城市的下水道之前，它会经过酒店地下室的一系列类似冰箱的机器进行的特殊处理过程。 “每次冲厕所时，实际上都会向建筑物中导入六到九升水，”Sabine 说…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/flushing-toilets-drinking-water-startups-solution</guid>
       <pubDate>Tue, 19 Dec 2023 09:27:03 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>DeepMind 的人工智能为数十年之久的数学难题找到了新的解决方案——智胜人类</title>
       <link>https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem</link>
-      <description><![CDATA[DeepMind 使用大型语言模型 (LLM) 生成新颖的解决方案人类最难的数学问题之一——这一突破可能预示着人工智能发展的新时代。该模型名为 FunSearch，发现了所谓“上限难题”的解决方案。这个已有数十年历史的数学难题本质上归结为你可以在一页上连接多少个点，同时在它们之间画线，而其中三个点不能形成一条直线。如果这让您感到偏头痛，请不要担心。需要注意的是，这个问题从未得到解决，并且…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[DeepMind 使用大型语言模型 (LLM) 生成新颖的解决方案人类最难的数学问题之一——这一突破可能预示着人工智能发展的新时代。该模型名为 FunSearch，发现了所谓“上限难题”的解决方案。这个已有数十年历史的数学难题本质上归结为你可以在一页上连接多少个点，同时在它们之间画线，而其中三个点不会形成一条直线。如果这让您感到偏头痛，请不要担心。需要注意的是，该问题从未得到解决，并且…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem</guid>
       <pubDate>Fri, 15 Dec 2023 15:14:39 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[经过五个月的等待，Meta 最新的社交媒体应用程序 Threads 现已可供居住在美国的人们使用。欧洲联盟。 “今天我们向欧洲更多国家开放 Threads。欢迎大家，”Meta 首席执行官马克·扎克伯格在该平台上写道。 Threads 是马克·扎克伯格 (Mark Zuckerberg) 对 X（前身为 Twitter）的回应，自去年埃隆·马斯克 (Elon Musk) 上任以来，Twitter 的用户一直在稳步流失。这款只能通过 Instagram 访问的社交媒体应用程序基本上是利用了 X 的许多争议。这个短文本平台的运作方式与其竞争对手大致相同。在主页部分，您可以与这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/metas-threads-app-launches-eu</guid>
       <pubDate>Fri, 15 Dec 2023 12:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TNW 播客：Ida Tin (Clue) 和 Valentina Milanova (Daye) 的 Femtech 特别节目</title>
-      <link>https://thenextweb.com/news/femtech-special-with-ida-tin-clue-and-valentina-milanova-daye</link>
-      <description><![CDATA[﻿ 让我们来谈谈欧洲的女性科技。在 TNW 播客的这一集奖金中，我们将采访两位业界知名人士：经期追踪应用 Clue 的联合创始人兼董事长 Ida Tin，以及创造“女性科技”一词的人。 Valentina Milanova，英国妇科健康初创公司 Daye 的创始人兼首席执行官。使用上面的播放器收听该剧集 - 或者，更好的是，在您最喜欢的播客平台上找到我们并订阅！让我们知道我们的表现，并有机会赢得 TNW 门票…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/femtech-special-with-ida-tin-clue-and-valentina-milanova-daye</guid>
-      <pubDate>Fri, 15 Dec 2023 12:16:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

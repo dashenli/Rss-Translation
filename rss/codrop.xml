@@ -4,7 +4,28 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 18 Dec 2023 15:30:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 15:28:25 GMT</lastBuildDate>
+    <item>
+      <title>在 Three.js 中使用动态粒子创建音频反应视觉效果</title>
+      <link>https://tympanus.net/codrops/2023/12/19/creating-audio-reactive-visuals-with-dynamic-particles-in-three-js/</link>
+      <description><![CDATA[了解如何在 Three.js 中构建粒子音乐可视化工具，其技术涵盖音频同步和 3D 视觉效果，其灵感来自 ARKx 为 Coala Music 网站所做的工作。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/19/creating-audio-reactive-visuals-with-dynamic-particles-in-three-js/</guid>
+      <pubDate>Tue, 19 Dec 2023 13:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#800</title>
+      <link>https://tympanus.net/codrops/collective/collective-800/</link>
+      <description><![CDATA[制作嘈杂的 SVG * 独家手风琴 * CSS Wrapped 2023]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-800/</guid>
+      <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端回顾 2023 – 第 19 天</title>
+      <link>https://tympanus.net/codrops/2023/12/19/frontend-rewind-2023-day-19/</link>
+      <description><![CDATA[欢迎加入我们特别日历中的第 19 天，我们将重点介绍 2023 年以来最有趣的前端资源。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/19/frontend-rewind-2023-day-19/</guid>
+      <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 18 天</title>
       <link>https://tympanus.net/codrops/2023/12/18/frontend-rewind-2023-day-18/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[在本教程中探索 Three.js 实例化的基础知识，学习如何优化 GPU 性能并高效渲染大量对象。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/13/creating-an-interactive-mouse-effect-with-instancing-in-three-js/</guid>
       <pubDate>Wed, 13 Dec 2023 13:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 13 天</title>
-      <link>https://tympanus.net/codrops/2023/12/13/frontend-rewind-2023-day-13/</link>
-      <description><![CDATA[我们的“Frontend Rewind 2023”第 13 天等待着我们，还有另一个有趣的优质资源集合。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/13/frontend-rewind-2023-day-13/</guid>
-      <pubDate>Wed, 13 Dec 2023 10:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#798</title>
-      <link>https://tympanus.net/codrops/collective/collective-798/</link>
-      <description><![CDATA[设计 3D 世界 * 标记 * LLM 课程 * LLM 可视化]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-798/</guid>
-      <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 12 天</title>
-      <link>https://tympanus.net/codrops/2023/12/12/frontend-rewind-2023-day-12/</link>
-      <description><![CDATA[加入我们特别日历第 12 天的冒险之旅，探索 2023 年更多前端亮点。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/12/frontend-rewind-2023-day-12/</guid>
-      <pubDate>Tue, 12 Dec 2023 11:02:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
