@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 18 Dec 2023 21:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 02:20:12 GMT</lastBuildDate>
+    <item>
+      <title>中美高科技领域加速“脱钩”——专题《2024年的世界》</title>
+      <link>https://wired.jp/article/vol51-china-looks-to-europe/</link>
+      <description><![CDATA[随着美国收紧对中国出口先进半导体和其他电子设备的限制，中国可能会寻求欧洲作为贸易伙伴来取代美国，同时推广自己的发展体系。]]></description>
+      <guid>https://wired.jp/article/vol51-china-looks-to-europe/</guid>
+      <pubDate>Tue, 19 Dec 2023 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Watch 专利纠纷导致苹果暂时停止在美国销售最新型号</title>
+      <link>https://wired.jp/article/apple-suspends-sales-watch/</link>
+      <description><![CDATA[Apple 宣布将暂时停止在美国销售最新款 Apple Watch 型号 Apple Watch Series 9 和 Apple Watch Ultra 2。起因是关于最新型号中安装的血氧饱和度（SpO2）传感器的专利纠纷。]]></description>
+      <guid>https://wired.jp/article/apple-suspends-sales-watch/</guid>
+      <pubDate>Tue, 19 Dec 2023 00:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为何担心“二氧化碳去除”加速</title>
+      <link>https://wired.jp/article/why-deleting-carbon-from-the-atmosphere-is-so-controversial/</link>
+      <description><![CDATA[COP28 最终达成了一份历史性协议文件，其中包括“着手摆脱化石燃料”这一短语。但除非我们坚定地致力于减少排放，否则人类可能会变得过于依赖二氧化碳捕获技术。如果发生这种情况，你就会偏离你应该追求的目标。]]></description>
+      <guid>https://wired.jp/article/why-deleting-carbon-from-the-atmosphere-is-so-controversial/</guid>
+      <pubDate>Mon, 18 Dec 2023 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>全球首枚3D打印火箭让太空探索“可持续”——专题《2024年的世界》</title>
       <link>https://wired.jp/article/vol51-the-sustainable-space-invasion/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[随着人工智能 (AI) 日益复杂化，OpenAI 正在致力于研究使用能力较弱的 AI 来控制高级 AI。由首席科学家 Ilya Satskyvar 领导的一个名为“Superalignment”的研究小组发表的成果，是朝着“驯服”未来可能出现的超人人工智能迈出的重要一步，它有可能发生。]]></description>
       <guid>https://wired.jp/article/openai-ilya-sutskever-ai-safety/</guid>
       <pubDate>Fri, 15 Dec 2023 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>包括 GPT-4 在内的“越狱”AI 模型的新方法已经揭晓。研究人员呼吁采取更强有力的安全措施</title>
-      <link>https://wired.jp/article/automated-ai-attack-gpt-4/</link>
-      <description><![CDATA[人们发现了一种新的“越狱”方法，可以从人工智能模型中提取不适当的答案。它使用对抗性 AI 系统来利用大规模语言模型 (LLM) 特有的漏洞，例如 OpenAI 的 GPT-4。研究人员表示，提供服务的公司应该采取额外的安全措施。]]></description>
-      <guid>https://wired.jp/article/automated-ai-attack-gpt-4/</guid>
-      <pubDate>Fri, 15 Dec 2023 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为从“信息”到“体验”的大转变做好准备：水口哲也──特辑“THE WORLD IN 2024”</title>
-      <link>https://wired.jp/article/vol51-massive-media-metamorphosis-is-coming/</link>
-      <description><![CDATA[随着 Apple Vision Pro 的推出，空间计算时代可能正式开始。这个话题会给社会带来什么样的变化？主创水口哲也是如何看待的呢？]]></description>
-      <guid>https://wired.jp/article/vol51-massive-media-metamorphosis-is-coming/</guid>
-      <pubDate>Fri, 15 Dec 2023 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车旗下 Cruise 裁员约四分之一，自动驾驶出租车业务暂时缩减</title>
-      <link>https://wired.jp/article/massive-layoffs-robotaxi-gm-cruise/</link>
-      <description><![CDATA[通用汽车 (GM) 旗下生产自动驾驶汽车的子公司 Cruise 将裁员约四分之一。一辆自动驾驶出租车拖拽行人并造成严重伤害的事故发生后，该公司被迫缩减业务规模。]]></description>
-      <guid>https://wired.jp/article/massive-layoffs-robotaxi-gm-cruise/</guid>
-      <pubDate>Fri, 15 Dec 2023 06:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

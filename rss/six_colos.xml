@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 18 Dec 2023 18:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 02:19:43 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 491：2023 年升级</title>
+      <link>https://sixcolors.com/podcast/2023/12/upgrade-491-the-2023-upgradies/</link>
+      <description><![CDATA[第十次年度升级到了！ Myke 和 Jason 讨论了他们 2023 年最喜欢的作品，听取了许多升级者的意见，并颁发了多个类别的奖项！…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/upgrade-491-the-2023-upgradies/</guid>
+      <pubDate>Mon, 18 Dec 2023 22:44:06 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）操作系统更新的肮脏秘密</title>
       <link>https://sixcolors.com/feed-only/2023/12/the-dirty-secret-of-os-updates-6/</link>
@@ -63,7 +70,7 @@
     <item>
       <title>（播客）顺时针 533：我是应用程序</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</link>
-      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
+      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的感受。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
       <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
     </item>
@@ -107,16 +114,9 @@
       <title>本周苹果：富人和穷人（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/this-week-in-apple-the-haves-and-the-have-nots/</link>
       <description><![CDATA[
-苹果公司在明年三月有宏伟的计划，Android 用户正在搅浑水，当然，她有一个屡获殊荣的播客，而我没有，但你看过她跳舞吗？… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+苹果公司在明年三月有宏伟的计划，Android 用户正在搅浑水，当然，她有一个获奖的播客，而我没有，但是你看过她跳舞吗？ 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2023/12/this-week-in-apple-the-haves-and-the-have-nots/</guid>
       <pubDate>Sat, 09 Dec 2023 02:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）音频劫持</title>
-      <link>https://sixcolors.com/sponsor/2023/12/audio-hijack-3/</link>
-      <description><![CDATA[我感谢 Rogue Amoeba 本周赞助六色 (Six Colors) 不可或缺的音频实用程序音频劫持 (Audio Hijack)。它是我最喜欢的 Mac 实用程序之一。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2023/12/audio-hijack-3/</guid>
-      <pubDate>Fri, 08 Dec 2023 19:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
