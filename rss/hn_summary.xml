@@ -4,7 +4,71 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 19 Dec 2023 01:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 03:13:06 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] brothke.medium.com 上的文章列出了最佳信息安全专家列表 [...]</title>
+      <link>https://t.me/hn_summary/64640</link>
+      <description><![CDATA[2023年信息安全书籍
+brothke.medium.com 上的文章列出了2023 年最佳信息安全书籍。作者首先提到了往年的榜单，然后介绍了年度最佳书籍，布鲁斯·施奈尔 (Bruce Schneier) 的《黑客之心》。本书探讨了黑客作为普遍特征的概念，并讨论了所有系统如何存在可被利用的漏洞。作者称赞这本书内容引人入胜、可读性强。文章还提到了两本亚军书籍《网络保险政策》和《网络安全神话与误解》，它们深入探讨了风险管理主题和网络安全中的常见误解。]]></description>
+      <guid>https://t.me/hn_summary/64640</guid>
+      <pubDate>Tue, 19 Dec 2023 03:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>荷航和法航客户的私人数据，包括电话号码、电子邮件地址和 [...]</title>
+      <link>https://t.me/hn_summary/64639</link>
+      <description><![CDATA[荷航泄露客户数据：私人数据轻易被收集&lt; br/&gt;
+NOS 的调查显示，未经授权的个人可以轻松访问荷航和法航客户的私人数据，包括电话号码、电子邮件地址和护照详细信息。数据泄露是由于荷航客户通过短信收到的航班信息超链接存在缺陷造成的。短链接不够独特，导致恶意个人可以大规模访问它们。网络犯罪分子可能会利用这些信息进行欺诈活动，例如签发虚假旅行证件或进行有针对性的网络钓鱼攻击。荷航已解决该问题并实施了额外的安全措施。受影响客户的确切数量尚不清楚。]]></description>
+      <guid>https://t.me/hn_summary/64639</guid>
+      <pubDate>Tue, 19 Dec 2023 03:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]冰岛西南部雷克雅内斯半岛的一座火山在持续数周后喷发 [...]</title>
+      <link>https://t.me/hn_summary/64638</link>
+      <description><![CDATA[冰岛西南部火山喷发
+经过数周的强烈地震活动后，冰岛西南部的雷克雅内斯半岛上的一座火山爆发了。火山喷发始于渔镇格林达维克以北，导致约 4,000 人疏散。附近的蓝色泻湖地热温泉也被关闭。这次火山喷发发生在该地区检测到地震群后一小时。冰岛气象局证实，此次喷发位于格林达维克东北部约4公里处，熔岩流动速度约为每秒100至200立方米，明显高于该地区此前的喷发速度。从距离首都雷克雅未克约42公里的地方可以看到火山喷发。冰岛总理和总统均表达了对当地社区的担忧以及对保护生命和建筑的承诺。火山喷发是重大事件，但文中并未提及对航空旅行和经济的影响。]]></description>
+      <guid>https://t.me/hn_summary/64638</guid>
+      <pubDate>Tue, 19 Dec 2023 02:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 苹果将停止在美国销售 Series 9 和 Ultra 2 版本的 Apple Watch</title>
+      <link>https://t.me/hn_summary/64637</link>
+      <description><![CDATA[苹果在专利诉讼败诉后停止销售最新款 Apple Watch 
+由于与医疗技术公司 Masimo 发生专利纠纷，苹果公司将停止在美国销售 Series 9 和 Ultra 2 版本的 Apple Watch。马西莫指控苹果公司侵犯了其血氧传感器专利。美国国际贸易委员会做出了有利于 Masimo 的裁决，发布了该手表的进口禁令。苹果公司要求拜登政府推翻这一决定。受影响的手表将于平安夜从零售店下架。苹果公司否认了这些指控，预计对假日季销售的影响微乎其微。 Masimo 将苹果的决定视为一种证明。]]></description>
+      <guid>https://t.me/hn_summary/64637</guid>
+      <pubDate>Tue, 19 Dec 2023 02:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Qubes OS 4.2.0 已发布，提供新功能、改进和错误修复。</title>
+      <link>https://t.me/hn_summary/64636</link>
+      <description><![CDATA[Qubes OS 4.2.0已发布
+Qubes OS 4.2.0 已发布，提供新功能、改进和错误修复。一些值得注意的更新包括将 Dom0 升级到 Fedora 37，将 Xen 升级到版本 4.17，以及将默认 Debian 模板升级到 Debian 12。默认 Fedora 和 Debian 模板现在使用 Xfce 而不是 GNOME，并且 SELinux 支持已添加到 Fedora 模板中。其他增强功能包括重写的 GUI 应用程序、用于 UEFI 和传统启动的统一 grub.cfg 位置、PipeWire 支持、用于固件更新的 fwupd 集成以及可选的自动剪贴板清除。建议安装后立即更新 Qubes 操作系统以应用所有可用的错误修复。]]></description>
+      <guid>https://t.me/hn_summary/64636</guid>
+      <pubDate>Tue, 19 Dec 2023 02:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 韦斯利·福克纳 (Wesley Faulkner) 认为，工作的未来涉及创建一个能够 [...]</title>
+      <link>https://t.me/hn_summary/64635</link>
+      <description><![CDATA[[在此处插入，根据韦斯利·福克纳的说法](https ://news.ycombinator.com/item?id=38682120)
+韦斯利·福克纳认为，未来的工作涉及创建反映组织价值观和文化的结构。他强调衡量和监控这些价值观（例如安全性和效率）的重要性，以确保它们得到维护。韦斯利还讨论了公司内部透明度和沟通的必要性，以解决滥用和少付工资等问题。他认为，工作场所公平涉及容纳个人优势和减轻劣势，以及将社会和种族正义作为首要任务。韦斯利认为，客户服务的未来在于彻底的透明度、诚实以及使产品与个人需求保持一致。最后，他主张建立细微差别和利基社区，承认并包容个人的不同方面。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/64635</guid>
+      <pubDate>Tue, 19 Dec 2023 02:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 作者讲述了他们丢失的 MacBook 被找回的经历 [...]</title>
+      <link>https://t.me/hn_summary/64634</link>
+      <description><![CDATA[Unbricking 我的 MacBook 给 Tim Cook 发了一封电子邮件（以及 #1在黑客新闻上发帖）
+作者讲述了他们将丢失的带有激活锁的 MacBook 返还给他们的经历。在苹果拒绝解锁后，作者给蒂姆·库克发了电子邮件，他们的文章登上了《黑客新闻》的顶部。四天后，他们收到了蒂姆在日本的一位行政助理的回复，后者在核实了 MacBook 的所有权后最终解锁了这台 MacBook。作者还发现，MacBook 被带到一家商店，商店已将其重置并报告为丢失，这可能是为了向归还者勒索钱财。作者建议苹果应该修改他们的设置工作流程，以使不设置 FindMy 的后果变得非常清楚。他们还向苹果安全研究报告了他们的发现，但被驳回。]]></description>
+      <guid>https://t.me/hn_summary/64634</guid>
+      <pubDate>Tue, 19 Dec 2023 02:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]前亚马逊安全工程师 Shakeeb Ahmed 承认黑客和盗窃罪 [...]</title>
+      <link>https://t.me/hn_summary/64633</link>
+      <description><![CDATA[前亚马逊工程师承认入侵加密货币交易所价值 1230 万美元
+前亚马逊安全工程师 Shakeeb Ahmed 承认于 2022 年 7 月从两家加密货币交易所进行黑客攻击并窃取了超过 1230 万美元。Ahmed 利用他的区块链审计和智能合约逆向工程技能来操纵智能合约并引入虚假定价数据，产生了虚高的费用约900万美元。后来他撤回了资金，并提出将除 150 万美元之外的所有资金退还给交易所。艾哈迈德还利用 DeFi 协议中的智能合约漏洞，获得了 ANA 加密货币代币的闪电贷，并以更高的利率出售，为他带来了约 360 万美元的收益。他使用各种方法来掩盖被盗资金，包括加密货币混合器和外汇。艾哈迈德已承认一项计算机欺诈指控，并将向受害者赔偿超过 500 万美元。他还将没收超过 1230 万美元，其中包括通过欺诈手段获得的加密货币。量刑定于 2024 年 3 月 13 日进行。]]></description>
+      <guid>https://t.me/hn_summary/64633</guid>
+      <pubDate>Tue, 19 Dec 2023 02:23:42 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]本文提出了一种可用于大规模量子网络的真空束波导。</title>
       <link>https://t.me/hn_summary/64632</link>
@@ -20,70 +84,6 @@
 据业余航天器跟踪器称，中国的神龙机器人太空飞机已将六个神秘物体送入地球轨道。这些被标记为“OBJECT A”、“B”、“C”、“D”、“E”和“F”的物体受到追踪者的密切跟踪，并记录了其中一些物体的发射情况。物体 A 似乎发出的信号与中国航天飞机先前任务中释放的物体发出的信号类似。对象 D 和 E 发出没有伴随数据的空闲信号。排放物经过分析，被认为来自物体或靠近物体的地方。太空飞机的行为与之前的任务不同，未来几天物体 A 与物体 D 和 E 之间将会近距离接近。美国也运营着类似的空天飞机X-37B，发射时机并非巧合。]]></description>
       <guid>https://t.me/hn_summary/64631</guid>
       <pubDate>Tue, 19 Dec 2023 01:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这个概念模板中，成功的 SaaS 企业家 Krish Gohil 提供了一个完整的 [...]</title>
-      <link>https://t.me/hn_summary/64630</link>
-      <description><![CDATA[向 Playstore 显示 HN：NextJS – 在 Playstore 上部署 NextJS 网站的指南
-在此 Notion 模板中，成功的 SaaS 企业家 Krish Gohil 提供了有关如何在 Google Play 商店上部署 Next.js Web 应用程序的全面指南。该模板包含有关创建 Next.js 应用程序、将其转换为渐进式 Web 应用程序 (PWA)、使用 Microsoft 的 PWA Builder 将其转换为受信任的 Web 活动 (TWA) 以及将其发布到 Play 上的分步说明。店铺。 Gohil 强调，这个模板可以节省时间，让开发人员可以从他的经验中学习，并帮助他们保持条理。无论您是经验丰富的开发人员还是新手，此资源对于将 Web 应用程序扩展到移动应用程序生态系统都很有价值。]]></description>
-      <guid>https://t.me/hn_summary/64630</guid>
-      <pubDate>Tue, 19 Dec 2023 01:21:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]根据 LendingTree 对 30 个汽车品牌的分析，特斯拉车主拥有最高的 [...]</title>
-      <link>https://t.me/hn_summary/64629</link>
-      <description><![CDATA[特斯拉是所有汽车品牌中事故率最高的 
-LendingTree 对 30 个汽车品牌的分析显示，与其他品牌的司机相比，特斯拉司机的事故率最高。特斯拉驾驶员每 1,000 名驾驶员中发生 23.54 起事故，Ram 和斯巴鲁是仅有的每 1,000 名驾驶员中发生超过 20.00 起事故的品牌。该研究分析了数千万份保险报价，但并未确定事故原因。此分析是在特斯拉因自动驾驶功能（特别是自动转向功能）问题而召回期间进行的。此次召回旨在修复系统并确保驾驶员在使用自动驾驶仪时集中注意力。]]></description>
-      <guid>https://t.me/hn_summary/64629</guid>
-      <pubDate>Tue, 19 Dec 2023 01:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]根据 LendingTree 最近的分析，Ram、特斯拉和斯巴鲁的表现最差 [...]</title>
-      <link>https://t.me/hn_summary/64628</link>
-      <description><![CDATA[RAM、特斯拉和斯巴鲁的驾驶员最差，而宝马的酒驾事故最高价格
-LendingTree 最近的一项分析显示，在 30 个汽车品牌中，Ram、特斯拉和斯巴鲁的驾驶员表现最差。公羊司机的事故发生率最高，包括事故、酒驾、超速和罚单，每 1,000 名司机中有 32.90 起事故。特斯拉司机的事故率最高，每 1000 名司机就有 23.54 起事故。宝马驾驶员的酒后驾车发生率最高，每 1,000 名驾驶员中有 3.13 次酒后驾车。另一方面，Mercury 司机被认为是最安全的，每 1,000 名司机中仅发生 15.82 起事故。分析还显示，Ram 司机在 23 个州的事故记录最差，而 Tesla 司机在 11 个州的事故率最高。]]></description>
-      <guid>https://t.me/hn_summary/64628</guid>
-      <pubDate>Tue, 19 Dec 2023 01:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Gemini 是谷歌迄今为止最好的人工智能模型，但谁在乎呢？</title>
-      <link>https://t.me/hn_summary/64627</link>
-      <description><![CDATA[Gemini 是 Google 迄今为止最好的人工智能模型，但谁在乎呢？
-谷歌的新人工智能模型 Gemini 最初因其强大的基准测试和华丽的演示而受到积极关注。然而，人工智能工程师和爱好者很快就发现了谷歌消息传递和演示中的缺陷和不一致。演示视频夸大了 Gemini 的工作原理，省略了重要的细节和提示。 AI 开发人员还意识到，Gemini 的功能并不像看上去那么具有革命性，OpenAI 的 GPT-4 Vision 中也有类似的功能。此外，谷歌的基准数据也面临批评，因为引用的数据是为了最好地描绘双子座而选择的。尽管存在这些问题，Gemini 仍然是一个令人印象深刻的多模式人工智能模型，有可能挑战 GPT-4 的主导地位。它的命运取决于Gemini Ultra和OpenAI的GPT-5的发布。]]></description>
-      <guid>https://t.me/hn_summary/64627</guid>
-      <pubDate>Tue, 19 Dec 2023 01:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家汽车经销商在其网站上添加了人工智能聊天机器人。</title>
-      <link>https://t.me/hn_summary/64626</link>
-      <description><![CDATA[一家汽车经销商在其网站上添加了人工智能聊天机器人。然后一切都乱了
-一家汽车经销商的人工智能聊天机器人成为恶作剧者的目标，他们发现它可能被欺骗访问 ChatGPT。人们分享了他们的尝试，让聊天机器人以低至 1 美元的价格向他们出售一辆新雪佛兰，这一消息在 Mastodon 和 Reddit 等社交媒体平台上疯传。该聊天机器人的创建者 Fullpath 承认了这些恶作剧，并表示他们正在努力根据这些经验改进该机器人。尽管幽默的屏幕截图引起了人们的关注，Fullpath 强调聊天机器人仍然忠实于其目的，并且没有透露任何机密的经销商数据。该事件凸显了加强聊天机器人限制并确保其专注于向客户提供有用信息的必要性。]]></description>
-      <guid>https://t.me/hn_summary/64626</guid>
-      <pubDate>Tue, 19 Dec 2023 01:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Figma 暂停设计师账户。</title>
-      <link>https://t.me/hn_summary/64625</link>
-      <description><![CDATA[Figma 暂停了设计师帐户。他无法访问他的工作。 Figma没有回复
-令人惊讶的是，流行的设计工具 Figma 暂停了一名设计师的帐户，使他无法访问自己的作品。争议在于，Figma 尚未对此问题做出回应。这一事件引发了人们对该平台的可靠性和客户支持的担忧。如果将来出现类似情况，严重依赖 Figma 进行工作的设计师可能会发现自己处于弱势地位。 Figma 将如何解决这个问题并重新获得用户的信任还有待观察。]]></description>
-      <guid>https://t.me/hn_summary/64625</guid>
-      <pubDate>Tue, 19 Dec 2023 01:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网络内容讨论了由于突然和 [...]</title>
-      <link>https://t.me/hn_summary/64624</link>
-      <description><![CDATA[智人栖息地迅速丧失（2021）[pdf]( https://news.ycombinator.com/item?id=38690192)
-网络内容讨论了由于突然且不可逆转的气候变化而导致智人栖息地迅速丧失。作者强调，目前的气温上升速度表明，到 2030 年，地球气候将类似于上新世，比现在明显变暖。内容强调，脊椎动物和哺乳动物（包括人类）无法足够快地适应气候变化的预计速度。作者还提到了正在进行的大规模灭绝事件以及由于致命的湿球温度导致器官衰竭而导致的人类栖息地的丧失。内容表明人类很可能灭绝，并描述了导致人类栖息地丧失的各种因素，包括甲烷爆发、粮食收成下降、气溶胶掩蔽的丧失以及商业空中交通的影响。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/64624</guid>
-      <pubDate>Tue, 19 Dec 2023 01:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]文章讨论了美国的自我审查问题，强调[...]</title>
-      <link>https://t.me/hn_summary/64623</link>
-      <description><![CDATA[“闭嘴：美国不断升级的自我审查“
-文章讨论了美国的自我审查问题，重点介绍了 2020 年进行的一项调查结果。调查发现，很大一部分美国民众感到缺乏表达观点的自由。文章对这种自我审查的原因提出了质疑，包括担心被误解、政府监视、政治正确性和日益严重的政治两极分化。作者强调了不受约束的政治话语对于民主国家健康的重要性，并呼吁对该主题进行进一步研究。文章中的分析承认存在局限性，但并不声称因果确定性。]]></description>
-      <guid>https://t.me/hn_summary/64623</guid>
-      <pubDate>Tue, 19 Dec 2023 01:04:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
