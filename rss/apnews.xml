@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
-    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Dec 2023 03:18:10 GMT</lastBuildDate>
+    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Dec 2023 06:24:10 GMT</lastBuildDate>
+    <item>
+      <title>特朗普在爱荷华州集会上为移民毒害国家血液的争议言论进行辩护</title>
+      <link>https://apnews.com/article/donald-trump-immigration-iowa-dff7f632948fa6511fb7d1955a28610c</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/donald-trump-immigration-iowa-dff7f632948fa6511fb7d1955a28610c</guid>
+      <pubDate>Wed, 20 Dec 2023 02:03:28 GMT</pubDate>
+    </item>
     <item>
       <title>科罗拉多州最高法院根据宪法叛乱条款禁止特朗普参加该州投票</title>
       <link>https://apnews.com/article/trump-insurrection-14th-amendment-2024-colorado-d16dd8f354eeaf450558378c65fd79a2</link>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 19 Dec 2023 19:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>移民和死亡人数下降导致今年美国人口增长上升</title>
-      <link>https://apnews.com/article/population-estimates-census-south-carolina-florida-a21094d38c216097c1ddd06164a133eb</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/population-estimates-census-south-carolina-florida-a21094d38c216097c1ddd06164a133eb</guid>
-      <pubDate>Tue, 19 Dec 2023 18:19:20 GMT</pubDate>
-    </item>
-    <item>
       <title>随着气候变暖，完美的圣诞树可能取决于种植者的适应能力</title>
       <link>https://apnews.com/article/climate-change-soil-temperature-christmas-trees-90d88a843a07b5d6d943a98f11806cd5</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/climate-change-soil-temperature-christmas-trees-90d88a843a07b5d6d943a98f11806cd5</guid>
       <pubDate>Tue, 19 Dec 2023 17:49:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>泽伦斯基表示，他相信乌克兰将在与俄罗斯的战争中获得更多美国支持</title>
+      <link>https://apnews.com/article/russian-ukraine-war-zelenskyy-news-conference-5440b3d3034a34461d93d0740e0c1ae6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/russian-ukraine-war-zelenskyy-news-conference-5440b3d3034a34461d93d0740e0c1ae6</guid>
+      <pubDate>Tue, 19 Dec 2023 17:18:41 GMT</pubDate>
     </item>
     <item>
       <title>纽约将成立一个委员会来考虑对奴隶制的赔偿</title>
@@ -57,11 +64,11 @@
       <pubDate>Tue, 19 Dec 2023 16:36:30 GMT</pubDate>
     </item>
     <item>
-      <title>活动人士希望教皇对同性祝福的批准可以缓解反 LGBTQ+ 的偏见和镇压</title>
-      <link>https://apnews.com/article/vatican-lgbtq-pope-blessings-29b1c90f245170f7cfba81a0d1dadac0</link>
+      <title>冰岛火山喷发后接下来可能会发生什么</title>
+      <link>https://apnews.com/article/iceland-volcano-eruption-why-83b44aeeefde4d6fee49739d47129d6e</link>
       <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/vatican-lgbtq-pope-blessings-29b1c90f245170f7cfba81a0d1dadac0</guid>
-      <pubDate>Tue, 19 Dec 2023 15:29:34 GMT</pubDate>
+      <guid>https://apnews.com/article/iceland-volcano-eruption-why-83b44aeeefde4d6fee49739d47129d6e</guid>
+      <pubDate>Tue, 19 Dec 2023 15:11:21 GMT</pubDate>
     </item>
     <item>
       <title>紫色：这是一部新电影，也是一种古老的色调，具有丰富的意义和历史</title>
@@ -71,7 +78,7 @@
       <pubDate>Tue, 19 Dec 2023 14:25:28 GMT</pubDate>
     </item>
     <item>
-      <title>以色列空袭造成加沙中部和南部数十人死亡</title>
+      <title>以色列对加沙南部发动致命空袭，并袭击北部一家医院</title>
       <link>https://apnews.com/article/israel-hamas-war-news-12-19-2023-226fdce935f5797ba8abc9ae4ad857cb</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/israel-hamas-war-news-12-19-2023-226fdce935f5797ba8abc9ae4ad857cb</guid>
@@ -118,13 +125,6 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/eagles-seahawks-score-lock-97a036678adcde3cc84ce2f50842d3de</guid>
       <pubDate>Tue, 19 Dec 2023 04:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国西北部发生地震，造成至少127人死亡，为9年来最严重</title>
-      <link>https://apnews.com/article/chine-earthquake-gansu-qinghai-6255dcb3ce03a570f6aaaf565230afb1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/chine-earthquake-gansu-qinghai-6255dcb3ce03a570f6aaaf565230afb1</guid>
-      <pubDate>Mon, 18 Dec 2023 23:43:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

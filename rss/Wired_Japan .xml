@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 20 Dec 2023 03:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 06:26:28 GMT</lastBuildDate>
+    <item>
+      <title>人类水平通用人工智能（AGI）之路变得清晰——专题《2024年的世界》</title>
+      <link>https://wired.jp/article/vol51-the-path-to-understanding/</link>
+      <description><![CDATA[到 2024 年，神经网络关键架构 Transformer 的进步将使人工智能能够以更类似于人类的方式规划、推理、学习和解释信息。]]></description>
+      <guid>https://wired.jp/article/vol51-the-path-to-understanding/</guid>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>维修文化回归，拆装维修电子设备成为一种权利——特辑《THE WORLD IN 2024》</title>
       <link>https://wired.jp/article/vol51-our-broken-relationship-with-tech/</link>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 18 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过碳信用额加速农民的脱碳努力 - 2023 年再生公司奖：Fager</title>
+      <title>通过碳信用额加速农民脱碳努力 - 2023 年再生公司奖：Fager</title>
       <link>https://wired.jp/articlethe-regenerative-company-award-2023-faeger/</link>
       <description><![CDATA[脱碳和提高农民收入。费格正试图利用一种名为“碳信用额”的机制同时完成这两件事。该公司旨在通过帮助农民将脱碳努力货币化，对环境和社会产生积极影响。 【入选“2023年再生企业奖”】]]></description>
       <guid>https://wired.jp/articlethe-regenerative-company-award-2023-faeger/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>能源相关的二氧化碳排放量终于达到峰值——特辑“THE WORLD IN 2024”</title>
       <link>https://wired.jp/article/vol51-the-point-where-clean-takes-over/</link>
-      <description><![CDATA[世界各地正在加速引进太阳能和风力发电。当清洁能源的增长超过电力需求的增长并且二氧化碳排放量开始下降时，这一天可能会出人意料地临近。]]></description>
+      <description><![CDATA[世界各地正在加速引进太阳能和风力发电。当清洁能源的增长超过电力需求的增长并且二氧化碳排放量开始下降时，这一天可能会比预期更早到来。]]></description>
       <guid>https://wired.jp/article/vol51-the-point-where-clean-takes-over/</guid>
       <pubDate>Mon, 18 Dec 2023 01:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024年，设计和性能超出预期的电动汽车将陆续推出，为想去任何地方的用户提供支持。其中，《连线》将介绍八款值得关注的机动车辆。]]></description>
       <guid>https://wired.jp/article/vol51-charging-ahead/</guid>
       <pubDate>Sun, 17 Dec 2023 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“再生型企业”时代即将来临——特辑《2024年的世界》</title>
-      <link>https://wired.jp/article/vol51-an-ecosystem-for-the-earth-and-biosphere/</link>
-      <description><![CDATA[Garderia利用微藻Garderia的高培养能力和贵金属吸附能力，迎接解决全球性问题的挑战，是利用自然发电能力的“再生企业”的典范。]]></description>
-      <guid>https://wired.jp/article/vol51-an-ecosystem-for-the-earth-and-biosphere/</guid>
-      <pubDate>Sat, 16 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
