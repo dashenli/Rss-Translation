@@ -4,7 +4,14 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 20 Dec 2023 09:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 12:43:13 GMT</lastBuildDate>
+    <item>
+      <title>AI首次在体能比赛中击败人类</title>
+      <link>https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game</link>
+      <description><![CDATA[AI 的击败能力人类玩家参与国际象棋和围棋等游戏不再令人惊讶。毕竟，人工智能已经证明它可以在某些任务中胜过其动画创造者，特别是在处理和分析信息方面。但直到现在，身体技能仍然是人类的特权。苏黎世联邦理工学院的研究人员创造了一个人工智能机器人，其任务是学习如何玩流行的迷宫游戏。游戏的目标很简单：使用两个旋钮，您必须将弹珠从起点引导到终点，并且不让其掉落…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game</guid>
+      <pubDate>Wed, 20 Dec 2023 10:29:26 GMT</pubDate>
+    </item>
     <item>
       <title>来认识一下 Finn——bunq 的新 GenAI 聊天机器人</title>
       <link>https://thenextweb.com/news/bun-new-generative-ai-chatbot-finn</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[位于苏格兰安斯特岛的一个站点已成为西欧第一个太空港获得垂直火箭发射许可证。设得兰群岛的 SaxaVord 航天发射场获得了英国民航局的许可，为 2024 年首次火箭发射铺平了道路。此前，当局进行了为期三年的评估，以确定该航天发射场是否符合严格的安全、安保和环境要求标准。该许可证允许每年从该地点进行 30 次升空。 SaxaVord 太空港是前英国皇家空军雷达站，由 Frank 和 Debbie Strang 共同拥有，他们购买了-spaceport-secures-license-space-tech-uk-europe?utm_source=social&amp;utm_medium=feed&amp;utm_campaign=profeed&quot;&gt;这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/saxavord-spaceport-secures-license-space-tech-uk-europe</guid>
       <pubDate>Mon, 18 Dec 2023 10:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepMind 的人工智能为数十年之久的数学难题找到了新的解决方案——智胜人类</title>
-      <link>https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem</link>
-      <description><![CDATA[DeepMind 使用大型语言模型 (LLM) 生成新颖的解决方案人类最难的数学问题之一——这一突破可能预示着人工智能发展的新时代。该模型名为 FunSearch，发现了所谓“上限难题”的解决方案。这个已有数十年历史的数学难题本质上归结为你可以在一页上连接多少个点，同时在它们之间画线，而其中三个点不会形成一条直线。如果这让您感到偏头痛，请不要担心。需要注意的是，该问题从未得到解决，并且…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/deepminds-ai-finds-solution-to-decades-old-math-problem</guid>
-      <pubDate>Fri, 15 Dec 2023 15:14:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
