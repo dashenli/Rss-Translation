@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Dec 2023 15:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 21:12:51 GMT</lastBuildDate>
     <item>
-      <title>[媒体] PowerInfer 是一款高速大型语言模型 (LLM) 推理引擎，专为 PE [...]</title>
-      <link>https://t.me/hn_summary/64873</link>
-      <description><![CDATA[在配备消费级 GPU 的 PC 上提供服务的高速大型语言模型
-PowerInfer 是一款高速大型语言模型 (LLM) 推理引擎，专为配备消费级 GPU 的个人计算机 (PC) 而设计。该项目旨在解决在资源有限的设备上高效服务法学硕士的问题。 PowerInfer 利用了 LLM 推理中的激活局部性，其中一小部分神经元在输入中一致激活，而大多数神经元有所不同。这一见解使 PowerInfer 能够设计出 GPU-CPU 混合推理引擎，将热激活神经元预加载到 GPU 上以进行快速访问，并在 CPU 上计算冷激活神经元，从而减少内存需求和数据传输。该项目通过集成自适应预测器和神经元感知稀疏算子来优化效率，从而脱颖而出。 PowerInfer 实现了高代币生成率，并且在保持模型准确性的同时优于其他解决方案。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/64873</guid>
-      <pubDate>Wed, 20 Dec 2023 15:02:18 GMT</pubDate>
+      <title>[媒体]Vercel 团队最近赞助了 AWS re:Invent 2023 并分享了他们对 [...]</title>
+      <link>https://t.me/hn_summary/64930</link>
+      <description><![CDATA[AWS re:Invent 2023：迭代速度是所有软件的解决方案问题
+Vercel 团队最近赞助了 AWS re:Invent 2023，并分享了他们对前端云、生成式 UI 以及迭代速度的重要性的想法。他们强调 Web 开发中需要可组合架构，因为单体系统可能不灵活、昂贵且难以扩展。通过实现可组合前端，团队可以完全控制用户和开发人员体验，同时集成首选 API。本文强调了迭代速度可以解决所有软件问题的信念，因为它允许快速实验、迭代和修复错误。 Vercel 的前端云提供预览部署、快速构建、持续部署和即时回滚等功能，以提高迭代速度。他们还推出了 v0，这是一种使用生成式人工智能来简化网站创建的工具。通过与 AWS Marketplace 合作，Vercel 提供了经济高效且安全的可组合架构。]]></description>
+      <guid>https://t.me/hn_summary/64930</guid>
+      <pubDate>Wed, 20 Dec 2023 21:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这个 GitHub 项目提供了 Mamba 的简单且最小的实现，新的 LLM [...]</title>
-      <link>https://t.me/hn_summary/64872</link>
-      <description><![CDATA[Mamba（新的 LLM 架构）的最小实现，位于 1 个文件中PyTorch
-此 GitHub 项目使用 PyTorch 提供了 Mamba（新的 LLM（线性时间序列建模）架构）的简单且最小化的实现。该项目的目的是提供易于阅读和注释的代码，生成与 Mamba 官方实现等效的数字输出。它并不优先考虑速度优化，因为官方实现主要关注这一方面。该项目不包括正确的参数初始化，尽管可以在不牺牲可读性的情况下添加它。自述文件还包括一个演示部分，其中包含使用已实现的模型提示完成的示例。 Albert Gu 和 Tri Dao 的论文《Mamba：使用选择性状态空间的线性时间序列建模》中介绍了 Mamba 架构。官方实现可以在单独的 GitHub 存储库中找到。]]></description>
-      <guid>https://t.me/hn_summary/64872</guid>
-      <pubDate>Wed, 20 Dec 2023 14:54:03 GMT</pubDate>
+      <title>[媒体]乌克兰军方收到了一种新型低成本远程攻击无人机 [...]</title>
+      <link>https://t.me/hn_summary/64929</link>
+      <description><![CDATA[乌克兰的镰刀无人机就是为了尽可能便宜地攻击远方&lt; /a&gt;
+乌克兰军方收到了一种新型低成本远程攻击无人机，名为 AQ 400 Scythe。该无人机由终端自治公司开发，是乌克兰获得远程打击能力的努力的一部分。 Scythe 无人机设计简单、价格实惠、一次性，且物流占地面积小。它可以承载 94 磅的有效载荷，最大航程至少为 750 公里。该公司的目标是每月生产 1,000 件，起始成本为 15,000 美元。如果大量生产，这些无人机有可能压垮并削弱俄罗斯的防空系统。]]></description>
+      <guid>https://t.me/hn_summary/64929</guid>
+      <pubDate>Wed, 20 Dec 2023 21:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Podman Desktop 1.6 已发布，为 Kubernetes 和 c [...]</title>
-      <link>https://t.me/hn_summary/64871</link>
-      <description><![CDATA[Podman Desktop 1.6 发布：更多 Kubernetes 和容器功能
-Podman Desktop 1.6 已发布，为 Kubernetes 和容器提供更多功能。该版本包括 Minikube 特色扩展，允许用户在容器中创建本地 Kubernetes 集群。 Podman 4.8.2 现已包含在 Windows 和 Mac 安装程序中。该版本还引入了命令行工具的设置页面、Kubernetes 上下文管理器、适用于 MacOS 的可编辑 Podman 机器、容器和 Pod 列表的过滤器、卷和映像列表的排序选项、容器和 Pod 列表上的环境列以及改进到扩展 API。该版本还包括错误修复和文档改进。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/64871</guid>
-      <pubDate>Wed, 20 Dec 2023 14:49:51 GMT</pubDate>
+      <title>[媒体]面向开发者的微调平台 OpenPipe 宣布发布 Mistral [...]</title>
+      <link>https://t.me/hn_summary/64928</link>
+      <description><![CDATA[Mistral 7B 微调优化
+面向开发人员的微调平台 OpenPipe 宣布发布 Mistral 7B Fine-Tune Optimized，这是其 Mistral 7B 模型的更强变体。根据 GPT-4 本身的测量，新模型被发现比 GPT-4 稍强。其原因是微调允许模型花费数小时来学习特定任务并制定有效解决该任务的策略。 Mistral 7B Fine-Tune Optimized 已被优化为进一步微调的最强基础模型。 OpenPipe 已在 Hugging Face 上发布了该模型，它将成为他们新的默认基础模型。]]></description>
+      <guid>https://t.me/hn_summary/64928</guid>
+      <pubDate>Wed, 20 Dec 2023 20:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者批评 Netlify 最近对 Next.js 和 Eleventy 进行的基于调查的攻击 [...]</title>
-      <link>https://t.me/hn_summary/64870</link>
-      <description><![CDATA[Netlify 对 Next.js（以及 110、也是）
-作者批评 Netlify 最近对 Next.js 和 Eleventy 进行基于调查的攻击，试图与 Jamstack 保持距离并与 Vercel 竞争。作者指出，调查结果仅代表 Netlify 客户，称其为社区调查并不诚实。他们强调了结果呈现的问题，特别是在不提供绝对分数背景的情况下显示满意度分数变化的图表。作者还对调查的方法提出质疑，指出 2023 年的报告没有包含方法文件，并且不承认偏见，与前几年的报告背道而驰。最后，他们表达了对 Eleventy 的承诺，并相信 Astro 和 Eleventy 可以在 Web 开发框架领域共存并蓬勃发展。]]></description>
-      <guid>https://t.me/hn_summary/64870</guid>
-      <pubDate>Wed, 20 Dec 2023 14:47:41 GMT</pubDate>
+      <title>[媒体]大英图书馆于 10 月 28 日遭遇网络攻击，导致广泛 [...]</title>
+      <link>https://t.me/hn_summary/64927</link>
+      <description><![CDATA[大英图书馆网络攻击的令人不安的影响 
+大英图书馆于 10 月 28 日遭遇网络攻击，导致广泛的技术问题和电子系统关闭。这次攻击是由一个名为 Rhysida 的黑客组织发起的，该组织将从图书馆窃取的文件在暗网上出售。图书馆拒绝支付赎金，一周后，Rhysida 公开了 90% 的数据供任何人下载。对图书馆的影响是巨大的，其电子系统仍然基本上无法工作。研究人员和访客无法获取书籍和材料，造成沮丧和混乱。图书馆正在努力恢复服务，但预计需要几个月的时间。]]></description>
+      <guid>https://t.me/hn_summary/64927</guid>
+      <pubDate>Wed, 20 Dec 2023 20:36:07 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦福大学互联网观测站的研究人员发现了 1,000 多张图像 [...]</title>
-      <link>https://t.me/hn_summary/64869</link>
-      <description><![CDATA[在训练某些人工智能的数据中发现了具有剥削性的非法儿童照片
-斯坦福大学互联网观测站的研究人员在一个用于训练人工智能 (AI) 图像生成器的流行开源数据库中发现了 1000 多张儿童性虐待图像。这些发现引发了人们的担忧，即人工智能工具被用来制作真实的儿童剥削假图像。训练数据中这些虐待图像的存在可能使人工智能模型能够生成类似于现实生活中儿童剥削的内容。研究人员建议实施协议来筛选和从数据库中删除此类内容，提高训练数据集的透明度，并教导图像模型“忘记”如何创建明确的图像。这些非法图像很可能无意中包含在数据库中，这凸显了人们对强大的人工智能工具中使用的数据集缺乏了解。]]></description>
-      <guid>https://t.me/hn_summary/64869</guid>
-      <pubDate>Wed, 20 Dec 2023 14:34:28 GMT</pubDate>
+      <title>[媒体]耶鲁大学研究人员进行的一项研究揭示了运动不耐受的原因[...]</title>
+      <link>https://t.me/hn_summary/64926</link>
+      <description><![CDATA[研究有助于解释新冠疫情后的运动不耐受
+耶鲁大学研究人员进行的一项研究揭示了长期新冠患者运动不耐受的原因。这项发表在《ERJ Open Research》杂志上的研究发现，尽管肺和心功能正常，但出现运动不耐受的患者，身体组织的氧气提取能力受到影响。研究人员使用侵入性心肺运动测试（iCPET）来追踪心脏、肺、血管和肌肉功能的各种测量结果。研究结果与“运动不耐受完全是由于身体状况不佳所致”的观点相矛盾，并为患者提供了有价值的信息。研究人员希望未来的研究能够发现针对新冠肺炎后运动不耐受的侵入性较小的诊断测试和靶向治疗。]]></description>
+      <guid>https://t.me/hn_summary/64926</guid>
+      <pubDate>Wed, 20 Dec 2023 20:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容是一篇标题为“尝试 chDB，一个可嵌入的 ClickHouse 引擎”的博客文章 [...]</title>
-      <link>https://t.me/hn_summary/64868</link>
-      <description><![CDATA[尝试 chDB，一个可嵌入的 ClickHouse 引擎
-网页内容是网站上标题为“尝试 chDB，一个可嵌入的 ClickHouse 引擎”的博客文章 antonz.org。作者将 chDB 介绍为由 ClickHouse 提供支持的嵌入式、进程内 SQL OLAP 引擎。他们强调，chDB 占用的磁盘空间最小，并且可以在较小的计算机上运行，​​甚至可以在 64mb RAM 容器上运行。作者提到 chDB 提供了 Python、Node.js、Go、Rust 和 C/C++ 的语言绑定。它们提供了使用 chDB 的交互式示例，包括使用 SQL 方言、读取数据、写入数据、用户定义函数以及使用 Python DB API。作者最后表示，chDB 已于 2023 年 12 月达到 1.0 版本，前景广阔。]]></description>
-      <guid>https://t.me/hn_summary/64868</guid>
-      <pubDate>Wed, 20 Dec 2023 14:12:59 GMT</pubDate>
+      <title>最近在斯德哥尔摩 Auktionsverk 举行的一次拍卖会上，122 件宜家古董家具的总售价为 [...]</title>
+      <link>https://t.me/hn_summary/64925</link>
+      <description><![CDATA[宜家复古家具在斯德哥尔摩拍卖会上拍出 32,000 英镑 
+最近在斯德哥尔摩 Auktionsverk 举行的一次拍卖会上，122 件宜家古董家具的总成交价为 32,000 英镑。宜家的一些更独特的设计现在被认为是收藏品。此次拍卖包括20世纪50年代的物品，以及20世纪90年代与斯德哥尔摩国家博物馆合作开发的瓷器餐具。当晚最引人注目的拍卖是流行的 Billy 书架的设计师 Gillis Lundgren 设计的红色 Impala 沙发，售价为 1,700 英镑。虽然宜家通常与耐用的家具无关，但其早期的一些设计已经获得了价值，并在拍卖会上拍出了可观的价格。]]></description>
+      <guid>https://t.me/hn_summary/64925</guid>
+      <pubDate>Wed, 20 Dec 2023 20:24:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一次离奇事件中，一名男子在没有机票的情况下在丹麦成功登上了一架飞机，并 [...]</title>
-      <link>https://t.me/hn_summary/64867</link>
-      <description><![CDATA[没有“俄罗斯经济学家”无票飞去Lax的记录
-在一次离奇事件中，一名男子在没有机票的情况下设法在丹麦登上了一架飞机，并在未被发现的情况下飞往洛杉矶国际机场 (LAX)。更令人费解的是，该男子没有护照，也没有他上飞机的记录。他甚至在飞行期间享用了两顿饭。当局和航空公司工作人员都摸不着头脑，试图弄清楚这是怎么发生的。由于缺乏该男子的身份或在飞机上的踪迹，引发了相关人员的争议和困惑。]]></description>
-      <guid>https://t.me/hn_summary/64867</guid>
-      <pubDate>Wed, 20 Dec 2023 14:10:48 GMT</pubDate>
+      <title>[媒体]这篇研究论文一般性地讨论了儿童性虐待材料（CSAM）的问题 [...]</title>
+      <link>https://t.me/hn_summary/64924</link>
+      <description><![CDATA[识别和消除生成机器学习训练数据和模型中的 CSAM
+本研究论文讨论了生成机器学习 (ML) 训练数据和模型中的儿童性虐待材料 (CSAM) 问题。作者强调了解决这一问题的重要性，并提出了一个从 ML 数据集中识别和消除 CSAM 的框架。他们强调机器学习研究人员、执法机构和儿童保护组织之间需要合作，制定有效的策略来检测和消除 CSAM。本文还讨论了与此任务相关的道德考虑和挑战，包括隐私问题和误报的可能性。总的来说，这项研究揭示了一个关键问题，并提供了对抗 ML 训练数据和模型中的 CSAM 的潜在解决方案。]]></description>
+      <guid>https://t.me/hn_summary/64924</guid>
+      <pubDate>Wed, 20 Dec 2023 20:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>韦兰 vs.</title>
-      <link>https://t.me/hn_summary/64866</link>
-      <description><![CDATA[Wayland 与 X – 概述
-此 Web 内容概述了 Wayland 和 X 之间的差异，这两种协议用于在 Linux 和基于 Unix 的系统中构建位图图形界面。内容强调了 X Window 系统的局限性和复杂性，包括其集成的各种功能，这些功能可能更适合其他组件。它还讨论了添加到 X 的现代功能，但受到其架构的限制。然后内容介绍了 Wayland 作为一种新的显示服务器和合成协议，旨在通过提供更加模块化和简化的图形堆栈来解决 X 的缺点。 Wayland 允许应用程序直接渲染其窗口内容，并提供一种呈现结果窗口表面以供显示的方法。内容强调，虽然 X 始终相关，但应将其视为遗留应用程序的可选组件。总体而言，Wayland 的理念是为客户提供窗口管理功能，同时将渲染工作留给客户自己。内容包括图表来说明 X 和 Wayland 之间的差异。]]></description>
-      <guid>https://t.me/hn_summary/64866</guid>
-      <pubDate>Wed, 20 Dec 2023 13:59:35 GMT</pubDate>
+      <title>[媒体]加州迪亚布罗峡谷核电站已获准延期五年，[...]</title>
+      <link>https://t.me/hn_summary/64923</link>
+      <description><![CDATA[加州监管机构投票决定让迪亚波罗峡谷核电站再开放 5 年&lt; /a&gt;
+加利福尼亚州迪亚波罗峡谷核电站已获准延长五年，使其能够继续运行至少到 2030 年。该决定由该州公用事业委员会 (PUC) 做出，并须获得美国核管理委员会 (NRC) 的批准）。该发电厂供应该州约 10% 的电力，原计划于 2025 年关闭。尽管由于其位于地震区而存在安全问题，但仍决定延长该发电厂的运营。将该工厂再维持五年的成本可能达到 60 亿美元。]]></description>
+      <guid>https://t.me/hn_summary/64923</guid>
+      <pubDate>Wed, 20 Dec 2023 20:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了 Suica 卡背后的技术和策略，这是一种流行的电子支付方式。</title>
-      <link>https://t.me/hn_summary/64865</link>
-      <description><![CDATA[Suica技术与未来发展战略（2016年）[pdf]( https://news.ycombinator.com/item?id=38694411)
-本文讨论了 Suica 卡（一种在日本使用的流行电子支付系统）背后的技术和策略。它提供了有关 Suica 系统开发的背景信息，并重点介绍了 Suica 卡中使用的各种技术。文章还讨论了 Suica 的现状，包括卡的销售数量和交易数据的收集。它提到了 Suica 标准化和获得 ISO 认证的努力。本文最后讨论了 Suica 卡中使用的技术以及该系统的未来发展。 （根据故事文本的 23% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/64865</guid>
-      <pubDate>Wed, 20 Dec 2023 13:59:26 GMT</pubDate>
+      <title>[媒体]Apache SeaTunnel 是一个鲜为人知的数据集成平台，它提供了一系列功能 [...]</title>
+      <link>https://t.me/hn_summary/64922</link>
+      <description><![CDATA[您可能不了解的五个 Apache 项目 
+Apache SeaTunnel 是一个鲜为人知的数据集成平台，它为数据管道提供了一系列功能。它提供了针对三种可能引擎的抽象 API：来自 SeaTunnel、Apache Spark 或 Apache Flink 的 Zeta 引擎。每个引擎都有自己的一套功能，因此用户在选择时需要谨慎。 SeaTunnel 还拥有丰富的连接器生态系统，包括传统的 SQL 连接器和一些独特的连接器，如 Jira、Google Sheets 和 Notion。一项值得注意的功能是 CDC 连接器源，它对于 MongoDB、MySQL 和 Microsoft SQL Server 特别有用。 SeaTunnel 还提供 Web UI，以便轻松管理和监控作业。]]></description>
+      <guid>https://t.me/hn_summary/64922</guid>
+      <pubDate>Wed, 20 Dec 2023 19:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名联邦法官批准了针对 Pornhub 母公司的集体诉讼，[...]</title>
-      <link>https://t.me/hn_summary/64864</link>
-      <description><![CDATA[法官证实儿童性虐待受害者针对 Pornhub 的集体诉讼
-一名联邦法官批准了针对 Pornhub 母公司 Aylo 的集体诉讼，该诉讼由一名在儿童时期遭受性虐待并将强奸视频上传到该网站的女性提起。该诉讼允许任何出现在 2011 年 2 月 12 日起在 Pornhub 或其他 Aylo 运营的网站上发布的 18 岁以下视频或图片中的人加入。受害者声称 Pornhub 违反了多项法律，包括《贩运受害者保护再授权法》，因为它没有检查阿拉巴马州受害者是否是未成年人或强奸或性贩运的受害者。这是针对 Aylo 的第二起集体诉讼。]]></description>
-      <guid>https://t.me/hn_summary/64864</guid>
-      <pubDate>Wed, 20 Dec 2023 13:41:07 GMT</pubDate>
+      <title>[媒体]文章讨论了即时通讯平台之间缺乏互操作性的问题 [...]</title>
+      <link>https://t.me/hn_summary/64921</link>
+      <description><![CDATA[即时消息传递：协议是“公共资源”，让我们认真对待它们&lt; /a&gt;
+本文讨论了即时消息平台之间缺乏互操作性以及开放协议支持不同服务之间通信的需求。它重点介绍了 Jabber/XMPP 协议，该协议于 1999 年创建，旨在解决此问题，但未能获得广泛采用。文章还探讨了法国政府对专有消息服务 Olvid 的认可，并质疑其安全声明和缺乏互操作性。作者强调了开放协议和协作在数字通信领域的重要性，并呼吁改变方法。]]></description>
+      <guid>https://t.me/hn_summary/64921</guid>
+      <pubDate>Wed, 20 Dec 2023 19:35:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 20 Dec 2023 18:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 21:21:00 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 534：来自北极的直播</title>
+      <link>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</link>
+      <description><![CDATA[我们在 2023 年的欢乐科技时刻、2023 年最重要的非人工智能技术进步或发布、对 2024 年的技术展望，以及我们为节日选择的自我放纵的礼物。…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</guid>
+      <pubDate>Wed, 20 Dec 2023 20:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 475：抵押贷款坎普斯</title>
+      <link>https://sixcolors.com/podcast/2023/12/the-rebound-475-mortgage-krampus/</link>
+      <description><![CDATA[苹果公司正密切关注手表进口禁令，我们为您提供一些涉及时间旅行的投资建议。…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/the-rebound-475-mortgage-krampus/</guid>
+      <pubDate>Wed, 20 Dec 2023 20:02:56 GMT</pubDate>
+    </item>
     <item>
       <title>苹果度过了平静的 2023 年，但这可能是暴风雨前的平静（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2176509/apple-2023-calm-before-storm.html</link>
@@ -103,21 +117,6 @@
       <description><![CDATA[前一周，我注意到 MacBook Air 上的可用磁盘空间量急剧下降到不足几 GB。由于我通常不会在那台计算机上存储那么多文件（更不用说大文件），我四处寻找，找出是什么耗尽了我所有的磁盘空间1.…]]></description>
       <guid>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</guid>
       <pubDate>Tue, 12 Dec 2023 19:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级490：猫有一个律师团队</title>
-      <link>https://sixcolors.com/podcast/2023/12/upgrade-490-the-cat-has-a-team-of-lawyers/</link>
-      <description><![CDATA[John Siracusa 与 Jason 一起讨论 Beeper、本周的 Apple 操作系统更新、明年的预期 Apple 硬件（包括 iPad、Mac 和 Vision Pro）以及 macOS 上默认设置的强大功能。]]></description>
-      <guid>https://sixcolors.com/podcast/2023/12/upgrade-490-the-cat-has-a-team-of-lawyers/</guid>
-      <pubDate>Mon, 11 Dec 2023 22:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.2 的 Journal 应用提供了深入的内省</title>
-      <link>https://sixcolors.com/post/2023/12/ios-17-2s-journal-app-offers-introspection-surface-deep/</link>
-      <description><![CDATA[
-我从来都不是一个真正写日记的人。在不同的时刻，我尝试过：在高中和大学期间断断续续地尝试过，在出国留学期间，在越野旅行期间，但这些似乎最终都会逐渐消失。…]]></description>
-      <guid>https://sixcolors.com/post/2023/12/ios-17-2s-journal-app-offers-introspection-surface-deep/</guid>
-      <pubDate>Mon, 11 Dec 2023 20:03:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
