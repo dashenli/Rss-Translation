@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 19 Dec 2023 15:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 15:22:20 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 20 天</title>
+      <link>https://tympanus.net/codrops/2023/12/20/frontend-rewind-2023-day-20/</link>
+      <description><![CDATA[当我们打开降临节日历第 20 天的大门时，发现 2023 年以来的其他前端链接！]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/20/frontend-rewind-2023-day-20/</guid>
+      <pubDate>Wed, 20 Dec 2023 12:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>在 Three.js 中使用动态粒子创建音频反应视觉效果</title>
       <link>https://tympanus.net/codrops/2023/12/19/creating-audio-reactive-visuals-with-dynamic-particles-in-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[加入我们的降临节日历第 14 天，享受一批精心挑选的新链接和灵感！]]></description>
       <guid>https://tympanus.net/codrops/2023/12/14/frontend-rewind-2023-day-14/</guid>
       <pubDate>Thu, 14 Dec 2023 09:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Three.js 中的实例创建交互式鼠标效果</title>
-      <link>https://tympanus.net/codrops/2023/12/13/creating-an-interactive-mouse-effect-with-instancing-in-three-js/</link>
-      <description><![CDATA[在本教程中探索 Three.js 实例化的基础知识，学习如何优化 GPU 性能并高效渲染大量对象。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/13/creating-an-interactive-mouse-effect-with-instancing-in-three-js/</guid>
-      <pubDate>Wed, 13 Dec 2023 13:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

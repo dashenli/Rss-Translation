@@ -3,8 +3,22 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 20 Dec 2023 12:43:13 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Wed, 20 Dec 2023 15:21:34 GMT</lastBuildDate>
+    <item>
+      <title>驾驭下一代机器人浪潮的指南</title>
+      <link>https://thenextweb.com/news/guide-next-generation-robotics-wave</link>
+      <description><![CDATA[生成式人工智能运动可能会占据当今的头条新闻，但另一项技术变革正在兴起雷达下的势头——自主服务机器人的激增。它们能够提高效率并减少重复性、危险任务中的体力劳动需求，以及传感器融合和软件定义流程方面的最新进展，从而提高其性价比，这继续推动了它们的普及。此外，COVID-19 大流行凸显了对运营和供应链弹性的需求不断增加。达到关键的转折点 由于性价比的提高，如今许多自主机器人解决方案已经达到了关键的采用转折点。客户…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/guide-next-generation-robotics-wave</guid>
+      <pubDate>Wed, 20 Dec 2023 14:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TNW 播客：Erika Cheung 谈创业道德；欧盟政治中的人工智能幻觉；阿克塞尔·施普林格 + OpenAI</title>
+      <link>https://thenextweb.com/news/tnw-podcast-erika-cheung-on-ethics-in-entrepreneurship-ai-hallucinations-in-eu-politics-axel-springer-openai</link>
+      <description><![CDATA[欢迎来到 TNW 播客的第一集 — 我们的新节目讨论欧洲技术生态系统的最新发展，并对业内一些最有趣的人士进行专题采访。在今天的节目中，Andrii 和 Linnea 讨论了当生成人工智能幻觉开始关注欧洲政治时会发生什么、OpenAI 和 Axel Springer 之间的大交易、计算机芯片和卫生棉条行业之间的相似之处等等。在采访部分，我们将与 Theranos 举报人 Erika Cheung 进行对话，她现在致力于将道德和责任带入创业精神。…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/tnw-podcast-erika-cheung-on-ethics-in-entrepreneurship-ai-hallucinations-in-eu-politics-axel-springer-openai</guid>
+      <pubDate>Wed, 20 Dec 2023 11:45:29 GMT</pubDate>
+    </item>
     <item>
       <title>AI首次在体能比赛中击败人类</title>
       <link>https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game</link>
@@ -14,15 +28,15 @@
     </item>
     <item>
       <title>来认识一下 Finn——bunq 的新 GenAI 聊天机器人</title>
-      <link>https://thenextweb.com/news/bun-new-generative-ai-chatbot-finn</link>
-      <description><![CDATA[ 今天，荷兰 Neobank Bunq 推出了生成式 AI 平台 —芬恩.新的聊天机器人功能在 OpenAI 和 Meta 的开放式大语言模型 (LLM) 上运行，旨在帮助用户规划财务、制定更好的预算并轻松查找交易。根据 Bunq 的说法，本质上是让用户“过上他们想要的生活”。 Bunq 创始人兼首席执行官 Ali Niknam 表示：“基本上就好像你有自己的私人会计师，他了解你个人生活和交易的一切，并且将所有这些都记在心里，可以回答你提出的任何问题。”西北。图片来源：bunq…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/bun-new-generative-ai-chatbot-finn</guid>
+      <link>https://thenextweb.com/news/bunq-new-generative-ai-chatbot-finn</link>
+      <description><![CDATA[ 今天，荷兰 Neobank Bunq 推出了生成式 AI 平台 —芬恩.新的聊天机器人功能在 OpenAI 和 Meta 的开放式大语言模型 (LLM) 上运行，旨在帮助用户规划财务、制定更好的预算并轻松查找交易。根据 Bunq 的说法，本质上是让用户“过上他们想要的生活”。 Bunq 创始人兼首席执行官阿里·尼克南 (Ali Niknam) 表示：“这基本上就好像你有自己的私人会计师，他了解你的个人生活和交易的一切，并且对所有这些都了如指掌，可以回答你提出的任何问题。”西北。图片来源：bunq…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/bunq-new-generative-ai-chatbot-finn</guid>
       <pubDate>Tue, 19 Dec 2023 20:00:36 GMT</pubDate>
     </item>
     <item>
       <title>TomTom 与微软合作开发车载 AI 语音助手</title>
       <link>https://thenextweb.com/news/tomtom-microsoft-develop-vehicle-ai-voice-assistant</link>
-      <description><![CDATA[数字地图和定位技术专家 TomTom 与 Microsoft 合作开发人工智能车辆语音助手。据这家总部位于荷兰的公司称，汽车助手可以与位置搜索、信息娱乐和车辆命令系统进行语音交互。这意味着驾驶员可以与车辆“交谈”，询问有关导航方向或路线停靠点的问题，并使用语音控制来调节温度，或者打开窗户和更换广播电台。 AI助手使用多种微软产品，包括Azure OpenAI服务、Azure Kubernetes服务、Azure Cosmos DB和Azure认知服务。它已内置于这个故事在 The Next Web 上继续或者阅读更多相关报道：微软]]></description>
+      <description><![CDATA[数字地图和定位技术专家 TomTom 与 Microsoft 合作开发人工智能车辆语音助手。据这家总部位于荷兰的公司称，汽车助手可以与位置搜索、信息娱乐和车辆命令系统进行语音交互。这意味着驾驶员可以与车辆“对话”，询问有关导航方向或路线停靠点的问题，并使用语音控制来调节温度，或者打开窗户和更换广播电台。 AI助手使用多种微软产品，包括Azure OpenAI服务、Azure Kubernetes服务、Azure Cosmos DB和Azure认知服务。它已内置于这个故事在 The Next Web 上继续或者阅读更多相关报道：微软]]></description>
       <guid>https://thenextweb.com/news/tomtom-microsoft-develop-vehicle-ai-voice-assistant</guid>
       <pubDate>Tue, 19 Dec 2023 15:42:23 GMT</pubDate>
     </item>
@@ -36,14 +50,14 @@
     <item>
       <title>这些将是 2024 年欧洲科技领域最热门的工作</title>
       <link>https://thenextweb.com/news/hottest-jobs-in-european-tech-2024</link>
-      <description><![CDATA[更多的钱、更好的福利、更大的灵活性，可以随时随地工作：欧洲科技工作者与全球同行一样，都有一份到 2024 年的需求清单。最近的一项盖洛普民意调查发现，“搅拌者”（即那些喜欢全天工作和生活更加融合的工作的人）占 55 人。占专业劳动力的百分比。因此，当谈到明年技术领域最热门的职位时，首先也是最重要的——尤其是对于非职能经理以及从事编码等深度技术工作的知识工作者来说——远程或完全灵活的选择的工作…&lt; br /&gt;这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[更多的钱、更好的福利、更大的工作灵活性：欧洲科技工作者与全球同行一样，都有一份到 2024 年的需求清单。最近的一项盖洛普民意调查发现，“搅拌者”（即那些喜欢全天工作和生活更加融合的工作的人）占 55 人。占专业劳动力的百分比。因此，当谈到明年技术领域最热门的职位时，首先也是最重要的——尤其是对于非职能经理以及从事编码等深度技术工作的知识工作者来说——远程或完全灵活的选择的工作…&lt; br /&gt;这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/hottest-jobs-in-european-tech-2024</guid>
       <pubDate>Tue, 19 Dec 2023 10:21:11 GMT</pubDate>
     </item>
     <item>
       <title>为什么我们仍然用饮用水冲厕所？这些初创公司有解决方案</title>
       <link>https://thenextweb.com/news/flushing-toilets-drinking-water-startups-solution</link>
-      <description><![CDATA[如果您在 voco 布鲁塞尔城北酒店早上淋浴，您看到的水当你洗头时滴进下水道的水可能会在晚些时候再次出现——当你晚上冲厕所时。然而，在淋浴水返回到马桶周围旋转并最终冲向城市的下水道之前，它会经过酒店地下室的一系列类似冰箱的机器进行的特殊处理过程。 “每次冲厕所时，实际上都会向建筑物中导入六到九升水，”Sabine 说…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[如果您在 voco 布鲁塞尔城北酒店早上淋浴，您看到的水当你洗头时滴进下水道的水可能会在晚些时候再次出现——当你晚上冲厕所时。然而，在淋浴水返回到马桶周围旋转并最终冲向城市的下水道之前，它将经过由酒店地下室的一系列类似冰箱的机器启用的特殊处理过程。 “每次冲厕所时，实际上都会向建筑物中导入六到九升水，”Sabine 说…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/flushing-toilets-drinking-water-startups-solution</guid>
       <pubDate>Tue, 19 Dec 2023 09:27:03 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[英国国家医疗服务体系 (NHS) 的一个分支机构正在启动无人机送货计划覆盖该国北部的 30 个医疗机构。目的是削减成本，同时改善对数十万患者的服务。诺森比亚医疗保健 NHS 基金会信托基金与英国 Apian 合作试验自主无人机送货已经有一段时间了。该初创公司由两名前 NHS 医生创立，他们希望让关键医疗用品的运送像“订披萨”一样方便。 Apian — 现在由 20 多名强大的团队组成这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/nhs-to-begin-delivering-critical-medical-supplies-by-drone</guid>
       <pubDate>Mon, 18 Dec 2023 15:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的“甲烷清洁”反应堆可以减少牲畜的排放</title>
-      <link>https://thenextweb.com/news/methane-cleaner-reactor-reduce-emissions-livestock</link>
-      <description><![CDATA[甲烷是导致气候变化的第二大温室气体。它的效力也比头号罪魁祸首二氧化碳强 84 倍。毫不奇怪，全球排放量的 60% 来自人类活动。虽然减少甲烷排放是应对全球变暖的关键，但事实证明，将其从空气中消除具有挑战性。这是因为当气体浓度超过4%时，就会从空气中燃烧掉。然而，大多数人为排放量都低于 0.1%。现在，由哥本哈根大学领导的一个研究小组开发了一种新方法，甚至可以去除低浓度的甲烷。这可以应用于牲畜…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/methane-cleaner-reactor-reduce-emissions-livestock</guid>
-      <pubDate>Mon, 18 Dec 2023 13:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaxaVord 太空港获得许可，计划于 2024 年发射</title>
-      <link>https://thenextweb.com/news/saxavord-spaceport-secures-license-space-tech-uk-europe</link>
-      <description><![CDATA[位于苏格兰安斯特岛的一个站点已成为西欧第一个太空港获得垂直火箭发射许可证。设得兰群岛的 SaxaVord 航天发射场获得了英国民航局的许可，为 2024 年首次火箭发射铺平了道路。此前，当局进行了为期三年的评估，以确定该航天发射场是否符合严格的安全、安保和环境要求标准。该许可证允许每年从该地点进行 30 次升空。 SaxaVord 太空港是前英国皇家空军雷达站，由 Frank 和 Debbie Strang 共同拥有，他们购买了-spaceport-secures-license-space-tech-uk-europe?utm_source=social&amp;utm_medium=feed&amp;utm_campaign=profeed&quot;&gt;这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/saxavord-spaceport-secures-license-space-tech-uk-europe</guid>
-      <pubDate>Mon, 18 Dec 2023 10:28:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
