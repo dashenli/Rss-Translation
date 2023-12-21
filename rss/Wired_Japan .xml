@@ -4,16 +4,23 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 21 Dec 2023 02:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 09:25:40 GMT</lastBuildDate>
     <item>
-      <title>量子计算将遭遇“量子崩溃”之墙——特辑“2024年的世界”</title>
+      <title>Z世代的工作方式正在从俄罗斯方块式转向Roblox式 - 特别报道“2024年的世界”</title>
+      <link>https://wired.jp/article/vol51-a-new-way-to-play-the-old-game/</link>
+      <description><![CDATA[Z 一代正在寻求一种比传统的自上而下的工作方式更加自主的工作方式。为了留住人才，雇主必须适应这种变化。]]></description>
+      <guid>https://wired.jp/article/vol51-a-new-way-to-play-the-old-game/</guid>
+      <pubDate>Thu, 21 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算将撞上“量子崩溃”之墙——特辑“2024年的世界”</title>
       <link>https://wired.jp/article/vol51-the-great-quantum-collapse-has-come/</link>
-      <description><![CDATA[量子计算作为一个研究领域受到了很多关注，但在实用性方面仍然存在很高的壁垒。除非找到新的方法，否则所有项目都将失败。]]></description>
+      <description><![CDATA[量子计算作为一个研究领域受到了很多关注，但在实用性方面仍然存在很高的障碍。除非找到新的方法，否则所有项目都将失败。]]></description>
       <guid>https://wired.jp/article/vol51-the-great-quantum-collapse-has-come/</guid>
       <pubDate>Thu, 21 Dec 2023 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人类水平通用人工智能（AGI）之路变得清晰——专题《2024年的世界》</title>
+      <title>通向人类水平通用人工智能 (AGI) 的道路变得清晰 - 特辑“2024 年的世界”</title>
       <link>https://wired.jp/article/vol51-the-path-to-understanding/</link>
       <description><![CDATA[到 2024 年，神经网络关键架构 Transformer 的进步将使人工智能能够以更类似于人类的方式规划、推理、学习和解释信息。]]></description>
       <guid>https://wired.jp/article/vol51-the-path-to-understanding/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>为何担心“二氧化碳去除”加速</title>
       <link>https://wired.jp/article/why-deleting-carbon-from-the-atmosphere-is-so-controversial/</link>
-      <description><![CDATA[COP28 最终达成了一份历史性协议文件，其中包括“着手摆脱化石燃料”这一短语。但除非我们坚定地致力于减少排放，否则人类可能会变得过于依赖二氧化碳捕获技术。如果发生这种情况，你就会偏离你应该追求的目标。]]></description>
+      <description><![CDATA[COP28 结束时签署了一份历史性协议文件，其中包括“继续摆脱化石燃料”这一短语。然而，除非我们坚定地致力于减少排放，否则人类可能会过度依赖二氧化碳捕获技术。如果发生这种情况，你就会偏离你应该追求的目标。]]></description>
       <guid>https://wired.jp/article/why-deleting-carbon-from-the-atmosphere-is-so-controversial/</guid>
       <pubDate>Mon, 18 Dec 2023 23:00:00 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Mon, 18 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过碳信用额加速农民脱碳努力 - 2023 年再生公司奖：Fager</title>
+      <title>通过碳信用额加速农民的脱碳努力 - 2023 年再生公司奖：Fager</title>
       <link>https://wired.jp/articlethe-regenerative-company-award-2023-faeger/</link>
-      <description><![CDATA[脱碳和提高农民收入。费格正试图利用一种名为“碳信用额”的机制同时完成这两件事。该公司旨在通过帮助农民将脱碳努力货币化，对环境和社会产生积极影响。 【入选“2023年再生企业奖”】]]></description>
+      <description><![CDATA[脱碳和提高农民收入。费格正试图利用一种名为“碳信用额”的机制同时完成这两件事。该公司旨在通过使农民能够将其脱碳努力货币化，对环境和社会产生积极影响。 【入选“2023年再生企业奖”】]]></description>
       <guid>https://wired.jp/articlethe-regenerative-company-award-2023-faeger/</guid>
       <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
     </item>
@@ -90,25 +97,18 @@
       <pubDate>Mon, 18 Dec 2023 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉能否通过 Cyber​​truck 获得投资回报？许多挑战正在堆积</title>
+      <title>特斯拉能否通过 Cyber​​truck 获得投资回报？许多挑战正在堆积起来</title>
       <link>https://wired.jp/article/tesla-cybertruck-success-failure/</link>
       <description><![CDATA[如果特斯拉能卖出其 Cyber​​truck 电动皮卡预购量的 15%，那么它将与丰田皮卡的年销量相媲美。但回报是否与大额投资相称则是另一回事。]]></description>
       <guid>https://wired.jp/article/tesla-cybertruck-success-failure/</guid>
       <pubDate>Sun, 17 Dec 2023 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>“靶向”癌细胞的抗体药物偶联物（ADC）的开发取得进展——专题“2024年的世界”</title>
+      <title>“靶向”癌细胞的抗体药物偶联物（ADC）的开发取得进展——特辑“THE WORLD IN 2024”</title>
       <link>https://wired.jp/article/vol51-precision-approaches-to-tackling-cancer/</link>
       <description><![CDATA[长期以来，人们一直在研究一种“灵丹妙药”疗法，这种疗法只针对癌细胞，而不会产生脱发或恶心等严重副作用。可能用不了多久，更多的患者就能从中受益。]]></description>
       <guid>https://wired.jp/article/vol51-precision-approaches-to-tackling-cancer/</guid>
       <pubDate>Sun, 17 Dec 2023 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“罗恩·赫尔曼”通过太阳能共享向子孙后代传递一封情书──2023年再生公司奖：苏富比小联盟公司</title>
-      <link>https://wired.jp/article/the-regenerative-company-award-2023-little-league-company/</link>
-      <description><![CDATA[“Ron Herman SOSA”是一家太阳能共享设施，于 2021 年在千叶县索佐市开业。罗恩·赫尔曼 (Ron Herman) 的苏富比少年棒球联盟公司 (Sotheby&#39;s Little League Company) 在这个太阳能电池板和有机大豆田的所在地，为子孙后代探索再生时尚。 【入选“2023年再生企业奖”】]]></description>
-      <guid>https://wired.jp/article/the-regenerative-company-award-2023-little-league-company/</guid>
-      <pubDate>Sun, 17 Dec 2023 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

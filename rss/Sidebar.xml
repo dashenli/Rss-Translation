@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 21 Dec 2023 06:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 09:26:52 GMT</lastBuildDate>
+    <item>
+      <title>白日梦：雅虎管道的一生和时代</title>
+      <link>https://retool.com/pipes</link>
+      <description><![CDATA[2007 年，Yahoo! 的一个小团队短暂地改变了我们对互联网进行编程的方式。这是他们的故事。
+]]></description>
+      <guid>https://retool.com/pipes</guid>
+      <pubDate>Thu, 21 Dec 2023 07:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看转场</title>
+      <link>https://12daysofweb.dev/2023/view-transitions/</link>
+      <description><![CDATA[借助新的视图转换 API，动画 DOM 状态更改不再需要大量代码。
+]]></description>
+      <guid>https://12daysofweb.dev/2023/view-transitions/</guid>
+      <pubDate>Thu, 21 Dec 2023 07:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统的动态象形图</title>
+      <link>https://carbonemike.com/dynamic-pictograms-for-design-systems/</link>
+      <description><![CDATA[在这里，我讨论如何通过处理不同的品牌和肤色来为设计系统准备象形图。
+]]></description>
+      <guid>https://carbonemike.com/dynamic-pictograms-for-design-systems/</guid>
+      <pubDate>Thu, 21 Dec 2023 06:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示刷</title>
+      <link>https://www.delcan.co/promptbrush</link>
+      <description><![CDATA[发送提示，并获得人造的非 AI 绘图作为回报。 
+]]></description>
+      <guid>https://www.delcan.co/promptbrush</guid>
+      <pubDate>Thu, 21 Dec 2023 06:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>托尼的巧克力</title>
+      <link>https://www.logodesignlove.com/tonys-chocolonely</link>
+      <description><![CDATA[Tony&#39;s Chocolonely 徽标表明了少数几个以 100% 摆脱奴隶为使命的巧克力品牌之一。
+]]></description>
+      <guid>https://www.logodesignlove.com/tonys-chocolonely</guid>
+      <pubDate>Thu, 21 Dec 2023 06:49:56 GMT</pubDate>
+    </item>
     <item>
       <title>制作嘈杂的 SVG</title>
       <link>https://daniel.do/article/making-noisy-svgs/</link>
@@ -62,7 +102,7 @@
       <pubDate>Tue, 19 Dec 2023 05:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的数十亿美元版权战从字体设计师开始</title>
+      <title>AI 数十亿美元的版权战从字体设计师开始</title>
       <link>https://news.bloomberglaw.com/ip-law/ais-billion-dollar-copyright-battle-starts-with-a-font-designer</link>
       <description><![CDATA[一些诉讼声称新兴的人工智能行业不公平地吸走了作家、艺术家和程序员的创造性工作。
 ]]></description>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/</guid>
       <pubDate>Tue, 19 Dec 2023 04:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>基线并不真正涵盖基线支持</title>
-      <link>https://adrianroselli.com/2023/12/baseline-does-not-really-cover-baseline-support.html</link>
-      <description><![CDATA[相对较新的 Web Platform Baseline 产品不会跟踪浏览器对 Web 平台内置辅助功能的支持。
-]]></description>
-      <guid>https://adrianroselli.com/2023/12/baseline-does-not-really-cover-baseline-support.html</guid>
-      <pubDate>Mon, 18 Dec 2023 12:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>1,374 天：我的漫长新冠生活</title>
-      <link>https://www.pentagram.com/work/1-374-days-my-life-with-long-covid</link>
-      <description><![CDATA[《纽约时报》关于一种改变生活的疾病的数据故事体验。
-]]></description>
-      <guid>https://www.pentagram.com/work/1-374-days-my-life-with-long-covid</guid>
-      <pubDate>Mon, 18 Dec 2023 12:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计工具画布手柄</title>
-      <link>https://bjango.com/articles/designtoolcanvashandles/</link>
-      <description><![CDATA[设计工具通常在选定对象的边界框周围包含许多功能。
-]]></description>
-      <guid>https://bjango.com/articles/designtoolcanvashandles/</guid>
-      <pubDate>Mon, 18 Dec 2023 12:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Norman Doors：我们怎么还是会犯这个错误呢？</title>
-      <link>https://uxdesign.cc/how-do-we-still-get-this-wrong-norman-doors-089363d4f1ef</link>
-      <description><![CDATA[Cyber​​truck 车门的设计令人困惑。
-]]></description>
-      <guid>https://uxdesign.cc/how-do-we-still-get-this-wrong-norman-doors-089363d4f1ef</guid>
-      <pubDate>Mon, 18 Dec 2023 12:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年我学到的 52 件事</title>
-      <link>https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d</link>
-      <description><![CDATA[今年我从事了一些有趣的项目并学到了很多东西。
-]]></description>
-      <guid>https://medium.com/magnetic/52-things-i-learned-in-2023-a3bbb9f9323d</guid>
-      <pubDate>Mon, 18 Dec 2023 12:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
