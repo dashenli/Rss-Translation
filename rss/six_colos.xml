@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 20 Dec 2023 21:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 21:23:27 GMT</lastBuildDate>
+    <item>
+      <title>Zoom on tvOS：大屏视频聊天需要一些工作</title>
+      <link>https://sixcolors.com/post/2023/12/zoom-on-tvos-big-screen-video-chatting-needs-some-work/</link>
+      <description><![CDATA[你的作者，看起来有点像被困在韦斯·安德森的电影中。
+自从今年早些时候宣布推出适用于 tvOS 的连续性相机以来，我一直期待在 Apple TV 上尝试 Zoom。…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/zoom-on-tvos-big-screen-video-chatting-needs-some-work/</guid>
+      <pubDate>Thu, 21 Dec 2023 20:42:01 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 534：来自北极的直播</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</link>
@@ -62,7 +70,7 @@
       <title>本周苹果：就像雨中的泪水（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/this-week-in-apple-like-tears-in-rain/</link>
       <description><![CDATA[
-通用汽车的新软件系统在 CarPlay 被垃圾谈论之后最好是一个疯狂的软件系统。 Apple Beta 版测试了 iPhone 的一组新安全功能，您应该预先警告您，在 Vision Pro 中哭泣可能会使保修失效。… 此故事仅适用于六色会员。 成为会员即可访问独家故事、播客和社区。]]></description>
+通用汽车的新软件系统在 CarPlay 被垃圾谈论之后最好是一个疯狂的软件系统。 Apple Beta 测试了 iPhone 的一组新安全功能，您应该预先警告您，在 Vision Pro 中哭泣可能会使保修失效。… 此故事仅适用于六色会员。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2023/12/this-week-in-apple-like-tears-in-rain/</guid>
       <pubDate>Fri, 15 Dec 2023 22:00:15 GMT</pubDate>
     </item>
@@ -86,7 +94,7 @@
     <item>
       <title>（播客）下游 59：Netflix 的电子表格</title>
       <link>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</link>
-      <description><![CDATA[这件事终于发生了：Netflix 已经通过 Excel 电子表格公开了其观看数据？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
+      <description><![CDATA[事情终于发生了：Netflix 公开了其观看数据……通过 Excel 电子表格？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</guid>
       <pubDate>Thu, 14 Dec 2023 20:00:26 GMT</pubDate>
     </item>
@@ -100,7 +108,7 @@
     <item>
       <title>（播客）顺时针 533：我是应用程序</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</link>
-      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的感受。…]]></description>
+      <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
       <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
     </item>
@@ -110,13 +118,6 @@
       <description><![CDATA[事情比以前更糟还是一如既往地糟糕？…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/the-rebound-474-always-be-smirching/</guid>
       <pubDate>Wed, 13 Dec 2023 18:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止邮件日志占用您的磁盘空间</title>
-      <link>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</link>
-      <description><![CDATA[前一周，我注意到 MacBook Air 上的可用磁盘空间量急剧下降到不足几 GB。由于我通常不会在那台计算机上存储那么多文件（更不用说大文件），我四处寻找，找出是什么耗尽了我所有的磁盘空间1.…]]></description>
-      <guid>https://sixcolors.com/post/2023/12/how-to-stop-mail-logs-from-eating-your-disk-space/</guid>
-      <pubDate>Tue, 12 Dec 2023 19:03:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
