@@ -4,7 +4,29 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 22 Dec 2023 03:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 06:32:51 GMT</lastBuildDate>
+    <item>
+      <title>我如何想出用于域监控的 Telegram 机器人</title>
+      <link>https://feed.indiehackers.world/post/a11c4bc236</link>
+      <description><![CDATA[与第二种情况类似，如果一个人拥有一家儿童玩具在线商店，则可以将所有与儿童玩具相关的域名添加到机器人中进行监控。您可以通过获取过期域并将其重定向到其主域来利用其现有流量。
+自动续订能否解决问题？
+在我看来，启用自动付款并不能解决问题。我看到过来自沮丧的用户的电子邮件，他们不打算续订某些域名，但自动续订却向他们的卡收取了 60 或 30 天的费用。在这种情况下，大多数注册商不提供退款。当域名仍在注册表中时，尝试退款并放弃域名可能是一种选择。
+解雇
+所以，一切都已经决定了。是时候开始开发机器人并计划其进一步推广了。只有一件事阻碍了我——我的工作。 
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a11c4bc236</guid>
+      <pubDate>Fri, 22 Dec 2023 04:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么营销技巧或书籍推广 SaaS 工具吗？感谢您的指导！</title>
+      <link>https://feed.indiehackers.world/post/e926ffbdce</link>
+      <description><![CDATA[您今天可以开始的最佳挑战！
+“人类集会：值得接受的挑战（#MT69）。我相信 99.9% 的人在第一次尝试时无法完成这项测试，97% 的人甚至在 100 次尝试后也无法完成，也许永远不会。如果您认为自己是生活的主人，请通过这项任务挑战自己，我鼓励您每天阅读一页。这是一次充满正念任务和衷心反思的美好旅程。有些事情可能会让你感受到天堂般的感动，超出你自己的想象。我正在找人。问题仍然是：你是那个万亿分之一的精英吗？就是这样——不再是空谈。证明给我看。”
+”
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e926ffbdce</guid>
+      <pubDate>Fri, 22 Dec 2023 04:09:56 GMT</pubDate>
+    </item>
     <item>
       <title>我如何将 Google 表格教程转变为蓬勃发展的业务</title>
       <link>https://feed.indiehackers.world/post/3a2720befa</link>
@@ -146,25 +168,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e42ac6e2e1</guid>
       <pubDate>Thu, 21 Dec 2023 16:53:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>营销与分销</title>
-      <link>https://feed.indiehackers.world/post/17b5959a51</link>
-      <description><![CDATA[我们正在寻找营销和营销人员。分销联合创始人发展我们的产品之一。必须在美国工作，最好在洛杉矶。
-通过 shak @hellorobo.c&amp;# x6f;
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/17b5959a51</guid>
-      <pubDate>Thu, 21 Dec 2023 16:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>BeONE Sports：人工智能驱动的比较训练平台</title>
-      <link>https://feed.indiehackers.world/post/73b74dd991</link>
-      <description><![CDATA[嘿伙计们，我在这里看到了很多关于 AI 健身应用程序的问题，所以决定向您介绍一下 BeONE Sports。这是一款使用人体姿势估计技术来提高您的表现的应用程序。基本上，您可以创建锻炼的视频记录，应用程序将对其进行分析，并为您提供有关您的表格和个人建议的实时反馈。
-最有价值的是，该应用程序会将您的表格与专业运动员记录的表格进行比较。这样您就可以与您的体育英雄一起训练。
-让我知道你的想法。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/73b74dd991</guid>
-      <pubDate>Thu, 21 Dec 2023 15:06:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
