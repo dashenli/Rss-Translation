@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Thu, 21 Dec 2023 15:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 12:54:08 GMT</lastBuildDate>
+    <item>
+      <title>集体#801</title>
+      <link>https://tympanus.net/codrops/collective/collective-801/</link>
+      <description><![CDATA[Gaussian-SLAM * BrandGuide * HTML：不好的部分]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-801/</guid>
+      <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 21 天</title>
       <link>https://tympanus.net/codrops/2023/12/21/frontend-rewind-2023-day-21/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们特别日历的第 15 天等待着 2023 年的更多前端链接。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/15/frontend-rewind-2023-day-15/</guid>
       <pubDate>Fri, 15 Dec 2023 14:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#799</title>
-      <link>https://tympanus.net/codrops/collective/collective-799/</link>
-      <description><![CDATA[Astro 4.0 * HTML 的用户体验 * 黑暗设计模式目录]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-799/</guid>
-      <pubDate>Fri, 15 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
