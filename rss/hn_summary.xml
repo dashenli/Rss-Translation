@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 21 Dec 2023 15:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 01:51:51 GMT</lastBuildDate>
     <item>
-      <title>Rust 异步工作组在支持在 [...] 中使用 async fn 方面取得了重大进展。</title>
-      <link>https://t.me/hn_summary/65020</link>
-      <description><![CDATA[Rust 稳定 `async fn` 和返回位置 `impl Trait ` 特征
-Rust 异步工作组在支持在特征中使用 async fn 方面取得了重大进展。 Rust 1.75 将于下周发布，将包括对 -&gt; impl Trait 表示法和特征中的 async fn 的支持。然而，仍然有一些限制需要注意。不鼓励在公共特征中使用-&gt; impl Trait，因为用户无法对返回类型设置额外的界限。也不鼓励在公共特征中使用async fn，这会导致警告。该博文建议使用 trait_variant::make proc 宏来允许用户在单线程和多线程执行器之间进行选择。这篇文章还提到，使用 -&gt; impl Trait 和 async fn 的特征不是对象安全的，但动态调度的实用程序计划用于  的未来版本特征变体 箱子。这篇文章最后提到，异步工作组计划继续在特征中的 async fn 之上构建功能，并将在未来发布更广泛的路线图。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65020</guid>
-      <pubDate>Thu, 21 Dec 2023 15:20:57 GMT</pubDate>
+      <title>[媒体] Marginalia Crawler 通过实施类似飞行记录器的 lo [...]</title>
+      <link>https://t.me/hn_summary/65115</link>
+      <description><![CDATA[爬虫中的WARC
+Marginalia Crawler 通过使用 WARC 格式实现类似飞行记录器的日志进行了改进。这允许爬网程序在关闭时从中断处恢复获取域，从而节省时间并避免冗余。 WARC 格式的使用还增加了与其他爬虫和项目的互操作性。由于网络归档和搜索引擎爬行的不同需求，WARC 的实施遇到了一些挑战，但进行了一些小的扩展来解决这个问题。爬虫还使用旧的爬网数据来避免重新获取未更改的文档。作者考虑将爬取数据存储格式替换为WARC，但发现其太大。相反，他们选择了镶木地板格式，这提高了访问速度。但是，此更改增加了爬网程序磁盘 I/O 量。总体而言，除了过渡期间需要支持多种数据格式之外，这些变化对爬虫来说是有利的。在发布之前，下一次抓取将作为这些更改的试运行。]]></description>
+      <guid>https://t.me/hn_summary/65115</guid>
+      <pubDate>Fri, 22 Dec 2023 01:51:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了 Tigger，这是一种数据库代理，它利用了一种称为我们的技术 [...]</title>
-      <link>https://t.me/hn_summary/65019</link>
-      <description><![CDATA[Tigger：通过用户旁路弹跳的数据库代理 [pdf](https://news.ycombinator.com/item?id=38695542)
-Web 内容讨论了 Tigger，这是一种数据库代理，它利用一种称为用户旁路的技术来提高性能并消除传统代理设计中的低效率。通过使用 Linux 的 eBPF 基础设施将应用程序逻辑推入内核空间，Tigger 降低了开销和 CPU 利用率。本文介绍了 Tigger（一个与 PostgreSQL 兼容的 DBMS 代理）的实现，并将其与其他代理的性能进行了比较。结果表明，Tigger 的性能优于其他代理，实现了较低的事务延迟和 CPU 利用率。 Tigger 的用户旁路架构非常适合 DBMS 代理的独特要求。该内容还提供了有关扩展持久 DBMS 连接的挑战以及使用带有连接池的代理的好处的背景信息。 （根据故事文本的 13% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65019</guid>
-      <pubDate>Thu, 21 Dec 2023 15:20:46 GMT</pubDate>
+      <title>[媒体]作者，一名个体软件工程师，通过采访分享自己的经验[...]</title>
+      <link>https://t.me/hn_summary/65114</link>
+      <description><![CDATA[知识很便宜 - 技能就是你所需要的&lt; br/&gt;
+作者是一名个体软件工程师，分享了他们的面试经验以及科技行业评估候选人的不断变化的情况。尽管人工智能和大型语言模型（LLM）取得了进步，但评估知识的传统方法仍然普遍存在，他们对此表示惊讶。作者认为，随着法学硕士的兴起，知识变得廉价，现在更重要的是技能。他们强调能够连接不同组件、创造性思考、有效协作以及利用丰富的可用知识的重要性。作者承认未来的不确定性，但相信那些能够适应并运用自己技能的人将会蓬勃发展。]]></description>
+      <guid>https://t.me/hn_summary/65114</guid>
+      <pubDate>Fri, 22 Dec 2023 01:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车公司 Waymo 发布了新的碰撞数据，显示其车辆 [...]</title>
-      <link>https://t.me/hn_summary/65018</link>
-      <description><![CDATA[710 万英里，3 名轻伤：Waymo 的安全数据看起来不错&lt; /a&gt;
-自动驾驶汽车公司 Waymo 发布了新的碰撞数据，显示其车辆比人类驾驶的汽车安全得多。该数据基于 Waymo 在亚利桑那州和加利福尼亚州首次进行的 710 万英里完全无人驾驶运营。数据显示，人类驾驶的汽车发生向警方报告的撞车事故的可能性是其两倍以上，发生导致受伤的撞车事故的可能性是其四到七倍。 Waymo 的车辆只发生过三起受伤事故，而且都是轻伤事故。该数据发布之际，正值自动驾驶行业的关键时刻，因为最近发生涉及 Waymo 主要竞争对手 Cruise 的事件后，公众的怀疑情绪有所增加。 Waymo 希望其安全记录能够帮助公众相信自动驾驶技术的潜力。]]></description>
-      <guid>https://t.me/hn_summary/65018</guid>
-      <pubDate>Thu, 21 Dec 2023 15:10:25 GMT</pubDate>
+      <title>作者讨论了 Rust 中的借用检查器问题，该问题是在 [...]</title>
+      <link>https://t.me/hn_summary/65113</link>
+      <description><![CDATA[我的引用被删除，为什么编译器抱怨多重借用&lt; /a&gt;
+作者讨论了 Rust 中的借用检查器问题，该问题是在循环中获取引用并在每次迭代中删除它时出现的。即使引用被删除，借用检查器也会抱怨多个可变借用。作者提供了示例代码并解释了收到的错误消息。该问题与 Polonius 问题有关，这是 Rust 编译器中长期存在的问题。当前的解决方法包括重写代码以避免在每次迭代中创建新的可变引用。作者提到了未来计划解决这个问题并使代码更符合人体工程学。]]></description>
+      <guid>https://t.me/hn_summary/65113</guid>
+      <pubDate>Fri, 22 Dec 2023 01:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nvidia 首席执行官黄仁勋 (Jensen Huang) 在 SIGGRAPH 的主题演讲中透露，该公司的 12 [...]</title>
-      <link>https://t.me/hn_summary/65017</link>
-      <description><![CDATA[Nvidia CEO：我们把赌注押在人工智能上，但没人知道
-Nvidia 首席执行官黄仁勋在 SIGGRAPH 的主题演讲中透露，该公司在 2018 年决定采用人工智能驱动的图像处理，这是重新定义其未来的关键时刻。选择开发光线追踪和智能升级技术已获得巨大回报，Nvidia 的硬件已成为人工智能驱动行业的关键参与者。黄认为，未来将由人工智能主导，自然语言界面将成为新的编程语言，制造业和重工业等行业将采用机器人系统。尽管有些人可能质疑他的前景，但黄的愿景与英伟达的利益是一致的。该公司还推出了 GH200，这是一款数据中心专用的人工智能开发硬件，与传统计算资源相比，可显着节省成本和功耗。]]></description>
-      <guid>https://t.me/hn_summary/65017</guid>
-      <pubDate>Thu, 21 Dec 2023 14:55:03 GMT</pubDate>
+      <title>[媒体] 作者讲述了他们向一班人进行 Meccano 演讲的经历 [...]</title>
+      <link>https://t.me/hn_summary/65112</link>
+      <description><![CDATA[Meccano 打造达芬奇自供电推车 
+作者讲述了他们向一群孩子们介绍 Meccano 并随后参观多佛交通博物馆并在那里发现了达芬奇自供电推车的大型复制品的经历。作者讨论了围绕手推车设计的各种解释和理论，包括板簧和转向机构的作用。他们还描述了自己的 Meccano 推车模型，强调了他们在复制发条机制方面面临的挑战以及进一步开发的需要。本文为进一步阅读该主题提供了参考。]]></description>
+      <guid>https://t.me/hn_summary/65112</guid>
+      <pubDate>Fri, 22 Dec 2023 01:27:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了苹果如何允许应用程序跟踪用户位置而无需 [...]</title>
-      <link>https://t.me/hn_summary/65016</link>
-      <description><![CDATA[Apple 允许应用程序在未经授权的情况下跟踪用户位置&lt; br /&gt;
-这篇文章讨论了近十年来苹果如何允许应用程序在未经授权的情况下跟踪用户位置。这是通过 HotspotHelper API 实现的，开发人员可以使用该 API 请求访问 WiFi 网络信息。该文章强调了应用程序基于固定 WiFi 接入点跟踪用户位置的潜力。它引起了人们对隐私以及这种跟踪功能缺乏用户明确同意的担忧。文章还提到，微信和支付宝等主要应用程序已经实现了这一功能，进一步加剧了未经同意的位置跟踪的影响。作者质疑苹果是否是唯一一家能够在此事上确保透明度和问责制的公司。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65016</guid>
-      <pubDate>Thu, 21 Dec 2023 14:35:48 GMT</pubDate>
+      <title>[媒体] 分析公司 Canalys 警告称，对 Windows 10 的支持将于 10 月终止 [...]</title>
+      <link>https://t.me/hn_summary/65111</link>
+      <description><![CDATA[Windows 10 停产是一场环境灾难，导致 2.4 亿台电脑被废弃&lt; /a&gt;
+分析公司 Canalys 警告称，2025 年 10 月终止对 Windows 10 的支持将导致一场环境灾难，估计有 2.4 亿台 PC 成为电子垃圾。问题在于，Windows 11（将成为 Windows 10 之后受支持的操作系统）的硬件要求将排除旧电脑的回收利用。 Canalys 表示，合作伙伴将无法翻新和转售不受 Windows 11 支持的 PC。微软确实提供了扩展对 Windows 10 支持的方法，但需要付出一定的代价。然而，Canalys 认为，对于大多数企业和个人来说，这可能不是一个具有成本效益的解决方案。这种情况引起了人们对日益严重的电子垃圾问题的担忧，并给微软带来了解决该问题的压力。]]></description>
+      <guid>https://t.me/hn_summary/65111</guid>
+      <pubDate>Fri, 22 Dec 2023 01:21:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]思科宣布有意收购 Isovalent，这是一家云原生网络和 [...]</title>
-      <link>https://t.me/hn_summary/65015</link>
-      <description><![CDATA[思科收购云原生网络和安全领导者 Isovalent 
-思科宣布有意收购云原生网络和安全领导者 Isovalent。 Isovalent 以其开源项目而闻名，包括 Cilium、Tetragon、Hubble 和 eBPF。该公司为云原生网络和安全领域做出了重大贡献，其技术被全球主要云提供商和企业采用。 Isovalent 的创始人对此次收购感到兴奋，因为思科分享了他们对开源的承诺，并计划进一步开发和增强 Isovalent 的产品。该团队为他们所取得的里程碑感到自豪，并展望作为思科的一部分的未来。]]></description>
-      <guid>https://t.me/hn_summary/65015</guid>
-      <pubDate>Thu, 21 Dec 2023 14:20:28 GMT</pubDate>
+      <title>[媒体]文章探讨人工领域“生产力过剩”问题 [...]</title>
+      <link>https://t.me/hn_summary/65110</link>
+      <description><![CDATA[伟大的人工智能怪异
+文章讨论了人工智能（AI）领域的“生产力过剩”问题。作者重点介绍了人工智能研究员 Ben Recht 的一篇文章，他指出学术职位所需的论文数量不断增加，以及基准竞赛在推动人工智能进步方面的作用。作者还提到了软件工程师 Benedict Hsieh 的一篇文章，他讨论了在竞争性数学中脱颖而出的压力以及如何将其延续到学术和行业职业生涯中。本文探讨了出版物数量、GitHub 活动和 Kaggle 排名等指标如何成为招聘和招生决策的重要因素。作者认为，这些指标已经变得专横，人工智能研究的性质已经改变，论文和模型成为职业发展的工具，而不是知识的来源。这篇文章提出了对这些“强化学习职业游戏”的人力成本的担忧，以及对更好的包容性和公平指标的需求。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65110</guid>
+      <pubDate>Fri, 22 Dec 2023 00:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Dashy.io 是一个革命性的平台，结合了各种工具、新闻和通知 [...]</title>
-      <link>https://t.me/hn_summary/65014</link>
-      <description><![CDATA[显示 HN：Dashy.io – 结合工具、新闻和通知集成到一个仪表板
-Dashy.io 是一个革命性的平台，结合了各种工具、新闻、和通知到一个方便的仪表板。借助我们的交互式 AI 小部件，您可以简化任务并提高工作效率。我们直观的工具旨在简化复杂的任务，例如总结文本、翻译语言和提高写作水平。告别在多个应用程序和网站之间切换 - Dashy.io 已您所需的一切都集中在一处。体验 AI 的力量，通过 Dashy.io&lt; 将您的工作流程提升到新的水平/a&gt;.]]></description>
-      <guid>https://t.me/hn_summary/65014</guid>
-      <pubDate>Thu, 21 Dec 2023 14:19:19 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，德国和英国的风力发电量达到了创纪录的水平 [...]</title>
+      <link>https://t.me/hn_summary/65109</link>
+      <description><![CDATA[暴风雨袭击北欧，德国风力发电量创历史新高 
+令人惊讶的是，由于一场席卷北欧的强大风暴，德国和英国的风力发电量创下了历史新高。英国发电量达到 21,813 兆瓦，超过 1 月份创下的纪录。另一方面，德国在柏林时间上午 11 点达到了令人印象深刻的 53,013 兆瓦。风力发电的激增是可再生能源的一个积极信号，凸显了风电在满足能源需求方面的潜力。]]></description>
+      <guid>https://t.me/hn_summary/65109</guid>
+      <pubDate>Fri, 22 Dec 2023 00:50:44 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者讨论了他们的发现，口服去氧肾上腺素是一种替代品 [...]</title>
-      <link>https://t.me/hn_summary/65013</link>
-      <description><![CDATA[两位药剂师如何发现减充血剂不起作用
-在本文中，作者讨论了他们的发现，即口服去氧肾上腺素（咳嗽和感冒药物中伪麻黄碱的替代品）作为减充血剂无效。作者和他们的同事两次向 FDA 提出请愿，直到咨询小组最终同意他们的结论，并建议将含有口服去氧肾上腺素的产品下架。作者强调 FDA 对 OTC 药物的监管需要改变，并指出监管过程中的一个漏洞，导致无效药物继续留在市场上。作者还强调了资助独立研究来检验旧非处方药有效性的重要性。]]></description>
-      <guid>https://t.me/hn_summary/65013</guid>
-      <pubDate>Thu, 21 Dec 2023 14:18:10 GMT</pubDate>
+      <title>本文讨论了元学习的概念及其改善基础的潜力[...]</title>
+      <link>https://t.me/hn_summary/65108</link>
+      <description><![CDATA[元学习：基础模型的未来以及如何改进它
+本文讨论了元学习的概念及其改进机器学习基础模型的潜力。它强调了训练基础模型的传统方法的局限性以及对新范式的需求。作者解释说，元学习涉及创建机器学习代理，这些代理通过在特定任务上训练较小的模型并将其输出输入元学习模型来学习如何学习。元学习的优点包括能够处理不平衡的数据集并减少对大量数据的需求。文章还介绍了一篇论文，提出了一种称为基于群体的元学习（PBML）的进化算法来改进元学习。 PBML 旨在针对具有较强学习能力的人群进行优化，并在适应不同任务和环境方面展现出可喜的结果。 （根据 73% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65108</guid>
+      <pubDate>Fri, 22 Dec 2023 00:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>此网页内容的作者正在公开 Google OAuth 中的一个漏洞，该漏洞允许 empl [...]</title>
-      <link>https://t.me/hn_summary/65012</link>
-      <description><![CDATA[Google OAuth 已损坏（某种程度上）
-该网页内容的作者公开了 Google OAuth 中的一个漏洞，该漏洞允许员工即使在离开公司后仍保留对 Slack 和 Zoom 等应用程序的访问权限。该漏洞很容易理解和利用，谷歌尚未做出任何更改来解决该问题。作者提供了事件的时间表，包括向 Google 披露的事件以及随后的公开披露。他们还强调了一个令人惊讶的事实，即 Google 的文档警告不要使用电子邮件作为标识符，尽管 OIDC 的目的是建立可靠的身份。作者建议组织、服务提供商和 Google 采取补救措施来解决该问题。他们还提到了另一个与支持票证电子邮件地址相关的漏洞。作者强调这是一个重大的安全漏洞，并呼吁谷歌做出真正的改变来缓解这个问题。]]></description>
-      <guid>https://t.me/hn_summary/65012</guid>
-      <pubDate>Thu, 21 Dec 2023 14:16:59 GMT</pubDate>
+      <title>[媒体]本文讨论了软件架构中的常见陷阱，并提供了有关[...]的建议</title>
+      <link>https://t.me/hn_summary/65107</link>
+      <description><![CDATA[软件架构陷阱以及如何避免它们
+本文讨论了软件架构中的常见陷阱，并提供了如何避免这些陷阱的建议。它强调了深入了解架构并根据质量属性要求 (QAR) 做出明智权衡的重要性。作者警告不要让非技术人员或供应商做出架构决策，因为他们可能不理解特定的上下文和 QAR。本文还警告不要盲目复制其他组织的架构，并将业务决策优先于定义明确的 QAR。它强调需要管理技术债务，而不是为了速度而牺牲质量。作者鼓励团队设计和测试他们的架构，收集反馈，并根据反馈进行改进。总的来说，本文强调了软件架构的复杂性以及明智决策的必要性。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65107</guid>
+      <pubDate>Fri, 22 Dec 2023 00:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Spotify，流行的音乐流媒体平台，正在大胆进军audioboo [...]</title>
-      <link>https://t.me/hn_summary/65011</link>
-      <description><![CDATA[Spotify 进军有声读物领域引发作者担忧
-流行音乐流媒体平台 Spotify 正在大胆进军有声读物行业，这引发了作者的担忧。虽然 Spotify 进军有声读物领域可能会为作者提供一个接触更广泛受众的新平台，但公平补偿和版权问题仍令人担忧。一些作者担心 Spotify 进军有声读物领域可能会导致版税减少以及对其作品缺乏控制。 Spotify 的这一举动被认为既令人惊讶又充满争议，因为它可能会扰乱传统的有声读物市场，并可能影响作者的生计。]]></description>
-      <guid>https://t.me/hn_summary/65011</guid>
-      <pubDate>Thu, 21 Dec 2023 14:15:46 GMT</pubDate>
+      <title>在疗养院，VR 很受欢迎。</title>
+      <link>https://t.me/hn_summary/65106</link>
+      <description><![CDATA[在疗养院，VR 很受欢迎。这是一件好事吗？
+虚拟现实 (VR) 作为一种对抗老年人情绪低落、记忆力减退和孤独感的方法，在疗养院越来越受欢迎。 VR 项目正在美国各地的老年生活设施中实施，为居民提供治疗和社会福利。该技术相对直观，已被证明有助于缓解记忆丧失、情绪低落和孤独感。然而，人们对虚拟现实在老年人护理领域的未来感到担忧，特别是随着该行业劳动力短缺的加剧。此外，VR行业还需要针对医疗保健产品制定明确的隐私规则和更严格的标准。总体而言，虚拟现实被视为对老年人护理的积极补充，但设定界限并考虑老年人的个人需求和偏好也很重要。]]></description>
+      <guid>https://t.me/hn_summary/65106</guid>
+      <pubDate>Fri, 22 Dec 2023 00:34:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
