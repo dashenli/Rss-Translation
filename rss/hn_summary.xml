@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 22 Dec 2023 15:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 18:28:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了七本众所周知的困难书籍，这些书籍通常对 [...]</title>
-      <link>https://t.me/hn_summary/65198</link>
-      <description><![CDATA[七本很棒但又很难读完的书 
-本文讨论了七本众所周知的困难书，这些书通常很难读完，但会给那些坚持下去的人带来巨大的回报。提到的书籍包括史蒂芬·霍金的《时间简史》、加夫列尔·加西亚·马尔克斯的《一百年的孤独》、詹姆斯·乔伊斯的《尤利西斯》、约瑟夫·海勒的《第二十二条军规》、维克多·雨果的《悲惨世界》 、紫式部的《源氏物语》和托马斯·皮凯蒂的《二十一世纪的资本》。每本书都进行了简要描述，突出了其独特的品质以及为什么值得一读。文章还提到了围绕某些书籍的争议，例如霍金索引和弗吉尼亚·伍尔夫无法完成《尤利西斯》。]]></description>
-      <guid>https://t.me/hn_summary/65198</guid>
-      <pubDate>Fri, 22 Dec 2023 15:23:02 GMT</pubDate>
+      <title>此 Web 内容讨论了数据库隔离损坏的问题以及为什么它对于 [...]</title>
+      <link>https://t.me/hn_summary/65230</link>
+      <description><![CDATA[数据库隔离已损坏，您应该小心
+此网页内容讨论了数据库隔离损坏的问题以及为什么用户关心它很重要。作者重点介绍了几篇有关 ACID 数据库属性的相关文章，其中一篇关于 Postgres 中的事务隔离，另一篇关于 MySQL 和 Amazon RDS 中的异常。作者指出，不同的数据库支持不同的隔离级别，并且相同的隔离级别在不同的数据库中可能意味着不同的事情。作者还提到了检测和解决这些异常的困难，因为它们通常只是偶尔出现并且难以重现。内容最后强调了了解数据库行为方式并采取相应行动的重要性。]]></description>
+      <guid>https://t.me/hn_summary/65230</guid>
+      <pubDate>Fri, 22 Dec 2023 18:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]一木四郎是一位日本摄影先驱，1828 年出生于萨摩国。</title>
-      <link>https://t.me/hn_summary/65197</link>
-      <description><![CDATA[一木四郎
-一木四郎是一位日本摄影先驱，1828 年出生于萨摩国。他被萨摩大名岛津齐明选中，使用日本第一台进口的银版相机来研究和制作工作照片。由于镜头的限制和缺乏正规培训，一木花了很多年才创作出高质量的照片。然而，1857年，他成功地创作了一幅岛津正装肖像。岛津死后，这张照片成为人们崇拜的对象，但失踪了一个世纪。 1975 年在仓库中被发现，被指定为日本摄影师创作的最古老的银版照片，并于 1999 年成为重要文化财产。]]></description>
-      <guid>https://t.me/hn_summary/65197</guid>
-      <pubDate>Fri, 22 Dec 2023 15:13:47 GMT</pubDate>
+      <title>[媒体]美国总统约瑟夫·R·布什在白宫网站上发表声明。</title>
+      <link>https://t.me/hn_summary/65229</link>
+      <description><![CDATA[对简单持有或使用大麻的罪行给予赦免&lt; /a&gt;
+在白宫网站上发布的一份公告中，小约瑟夫·R·拜登总统宣布，他将赦免那些犯有或被判犯有单纯持有大麻罪的个人。总统认为，这些信念给就业、住房和教育造成了不必要的障碍。这项赦免适用于犯有或因简单持有大麻、企图持有或使用大麻而被定罪的现有美国公民和合法永久居民。它不适用于涉及其他受控物质或非法居留美国的非公民的犯罪。司法部长将审查赦免证书申请并将其颁发给符合条件的申请人。]]></description>
+      <guid>https://t.me/hn_summary/65229</guid>
+      <pubDate>Fri, 22 Dec 2023 18:27:33 GMT</pubDate>
     </item>
     <item>
-      <title>联邦贸易委员会 (FTC) 解决公司使用隐私和安全的问题 [...]</title>
-      <link>https://t.me/hn_summary/65196</link>
-      <description><![CDATA[互操作性、隐私和安全
-联邦贸易委员会 (FTC) 解决了公司利用隐私和安全问题作为拒绝与其他公司的产品和服务互操作的理由的问题。 FTC 认识到互操作性的好处，例如增强消费者的选择和竞争。不过，该机构也强调数字隐私和安全的重要性，并对侵犯隐私和数据安全的公司采取了执法行动。联邦贸易委员会将密切审查必须阻碍竞争以促进隐私或安全的主张，并将确定此类主张是否有充分理由或借口。该机构旨在保护消费者的数字隐私和安全，同时促进充满活力的市场。]]></description>
-      <guid>https://t.me/hn_summary/65196</guid>
-      <pubDate>Fri, 22 Dec 2023 15:13:41 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，班克斯的一件艺术品在发布后不到一个小时就被盗了 [...]</title>
+      <link>https://t.me/hn_summary/65228</link>
+      <description><![CDATA[Banksy 艺术品在伦敦南部揭幕后不到一小时被盗
+令人惊讶的是，班克斯的一件艺术品在伦敦南部展出后不到一个小时就被盗了。这件艺术品是一个交通站标志，上面覆盖着三架类似军用无人机的飞机，通过社交媒体帖子证实是真正的班克斯装置作品。在社交媒体上分享的一段视频中，可以看到两名男子取下标牌并带着标牌逃跑，令围观者感到震惊。值得注意的是，班克斯并没有参与该艺术品的移除。由于班克斯的知名度，出售被盗的班克斯作品可能具有挑战性。班克斯的害虫防治团队负责对未被盗窃或不当拿走的艺术品进行认证并颁发真品证书。]]></description>
+      <guid>https://t.me/hn_summary/65228</guid>
+      <pubDate>Fri, 22 Dec 2023 18:23:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Microvenv 是一个 Python 模块，允许用户创建最小的虚拟环境 [...]</title>
-      <link>https://t.me/hn_summary/65195</link>
-      <description><![CDATA[Microvenv：创建最小虚拟环境
-Microvenv 是一个 Python 模块，当 venv 模块在其 Python 发行版中不可用时，它允许用户创建最小的虚拟环境。它可以作为创建虚拟环境的便携式替代方案，特别是对于旧版本的 Python。该模块还提供用于处理虚拟环境的实用程序代码。 CLI 用法允许用户在指定目录或默认的“.venv”目录中创建虚拟环境。该项目与 venv 模块的区别在于没有激活脚本且不支持 Windows。]]></description>
-      <guid>https://t.me/hn_summary/65195</guid>
-      <pubDate>Fri, 22 Dec 2023 15:05:28 GMT</pubDate>
+      <title>[媒体]“僵尸鹿病”在黄石公园蔓延；</title>
+      <link>https://t.me/hn_summary/65227</link>
+      <description><![CDATA[“僵尸鹿病”在黄石公园蔓延；科学家担心跳到人类身上
+本文讨论了黄石国家公园慢性消耗性疾病 (CWD)（也称为“僵尸鹿病”）的传播。 CWD 是一种由朊病毒引起的致命疾病，影响鹿、麋鹿和其他鹿科动物。这种疾病已经在北美蔓延，由于黄石公园野生动物种群的多样性，这种疾病在黄石公园的发现令人担忧。科学家担心 CWD 可能会跨越物种屏障并感染人类或其他动物。文章强调了根除这种疾病的难度以及采取积极措施减缓其传播的必要性。它还提到了有争议的人工喂养野生动物的做法，这导致了 CWD 的传播。]]></description>
+      <guid>https://t.me/hn_summary/65227</guid>
+      <pubDate>Fri, 22 Dec 2023 18:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇文章讨论了让语言模型 (LLM) 进展更快的方法。</title>
-      <link>https://t.me/hn_summary/65194</link>
-      <description><![CDATA[如何让法学硕士取得快速
-本文讨论了使语言模型 (LLM) 更快发展的方法。作者解释说，法学硕士中使用的传统自回归采样方法速度很慢，因为它在每个周期处理越来越多的标记。此外，法学硕士很大，需要大量 RAM，这会减慢处理速度。该文章提出了几种加速 LLM 的方法，包括使用更好的硬件（例如 GPU 或 TPU）、优化程序以充分利用硬件功能，以及使用编译器针对特定硬件优化代码。本文全面概述了这些优化技术及其对首次令牌时间、生成延迟、吞吐量和硬件利用率等指标的影响。 （根据故事文本的 12% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65194</guid>
-      <pubDate>Fri, 22 Dec 2023 15:04:18 GMT</pubDate>
+      <title>[媒体] 尼卡骚乱（公元 532 年）</title>
+      <link>https://t.me/hn_summary/65226</link>
+      <description><![CDATA[尼卡骚乱（公元 532 年）
+尼卡骚乱，又称尼卡起义或尼卡煽动，发生于公元 532 年君士坦丁堡，反对拜占庭皇帝查士丁尼一世。这些骚乱是该城市历史上最暴力的一次，导致君士坦丁堡近一半被毁，许多人死亡。数万人。骚乱是由战车竞赛中不同派系之间的紧张关系引发的，特别是蓝党和绿党，他们在“尼卡”一词下团结起来，并在查士丁尼拒绝赦免两个人时开始骚乱。骚乱持续了五天，给这座城市造成了严重破坏。骚乱背后也有政治动机，一些参议员利用这个机会试图推翻查士丁尼。尽管考虑逃跑，查士丁尼的妻子西奥多拉还是说服他留下来战斗。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65226</guid>
+      <pubDate>Fri, 22 Dec 2023 18:22:08 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们通过网络调查长达数月问题的经验，并 [...]</title>
-      <link>https://t.me/hn_summary/65193</link>
-      <description><![CDATA[并不总是 DNS – 除非是
-作者分享了他们调查长达数月的网络问题的经验，以及他们如何发现问题实际上是由 DNS 引起的。最初，他们怀疑入口控制器存在问题，但经过进一步调查，他们意识到这是一个网络问题。他们发现行为不当的 fluid-bit 代理和代理服务器导致了该问题，这两者都依赖于 DNS 解析。他们还发现其设置中的 DNS 缓存和 ndots 配置存在多个问题。通过解决这些问题，他们能够提高网络的性能。本文强调了拥有可靠的 SLI（服务水平指标）的重要性以及在排除网络问题时进行彻底调查的好处。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65193</guid>
-      <pubDate>Fri, 22 Dec 2023 15:02:04 GMT</pubDate>
+      <title>土耳其央行已将关键利率提高至 42.5%，以应对高 [...]</title>
+      <link>https://t.me/hn_summary/65225</link>
+      <description><![CDATA[土耳其央行将利率提高至42.5%以应对高通胀&lt; /a&gt;
+土耳其央行已将主要利率提高至42.5%，以应对高通胀。这标志着该国连续第七次加息，因为该国上个月通胀率高达 61.98%。加息已将借贷成本从 8.5% 提高至目前的 42.5%，预计将持续到价格稳定为止。这一政策转变是在总统雷杰普·塔伊普·埃尔多安 (Recep Tayyip Erdogan) 5 月连任后任命了新的经济团队之后发生的。该团队包括担任财政部长的前美林银行家穆罕默德·西姆塞克（Mehmet Simsek）和担任央行行长的哈菲兹·盖伊·埃尔坎（Hafize Gaye Erkan）。央行可能会在下个月完成加息45%。]]></description>
+      <guid>https://t.me/hn_summary/65225</guid>
+      <pubDate>Fri, 22 Dec 2023 18:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。</title>
-      <link>https://t.me/hn_summary/65192</link>
-      <description><![CDATA[显示 HN：基于 GitHub Actions 构建的分时超级计算机
-GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。它允许用户在隔离且不可变的环境中运行 shell 脚本并收集日志或结果。该项目支持公共和私有存储库、自托管运行器和 GitHub 托管运行器。它还允许通过存储库机密使用机密并将构建结果下载为工件。作者提到，该项目的与众不同之处在于提供了可以在 Linux 系统上运行的各种工作负载的示例。该项目已获得麻省理工学院许可。]]></description>
-      <guid>https://t.me/hn_summary/65192</guid>
-      <pubDate>Fri, 22 Dec 2023 14:38:37 GMT</pubDate>
+      <title>[媒体]本文讨论了开发内部产品入门和教育的挑战[...]</title>
+      <link>https://t.me/hn_summary/65224</link>
+      <description><![CDATA[您在内部开发产品入门时将面临的问题
+本文讨论了开发内部产品入门和教育体验的挑战。作者强调了创建根据每个用户的需求和进度量身定制的个性化用户旅程的重要性。然而，由于数据无法访问且需要昂贵的迁移，瞄准正确的用户并管理用户旅程状态可能很困难。实时响应变化也提出了挑战，需要复杂的反应系统。作者认为，内部构建通常会导致一刀切的体验，但效果并不理想。本文强调了迭代、学习和协作的必要性，以创建成功的产品引导。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65224</guid>
+      <pubDate>Fri, 22 Dec 2023 18:20:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 变砖：您拥有任何数字产品吗？</title>
-      <link>https://t.me/hn_summary/65191</link>
-      <description><![CDATA[变砖：您拥有任何数字产品吗？&lt; br /&gt;
-本文讨论了数字内容的所有权问题。它重点介绍了亚马逊、索尼和博通的例子，以说明消费者实际上并不拥有他们购买的数字内容。作者提到亚马逊从 Kindle 电子阅读器中删除了乔治·奥威尔 (George Orwell) 的书籍、索尼决定不再允许用户在 PlayStation 上观看以前购买的视频内容以及博通 (Broadcom) 终止对 VMware 的永久软件许可。文章建议，消费者可以通过使用 Calibre 和 Handbrake 等工具制作自己的数字内容副本来对抗这一趋势，尽管这在法律上可能是灰色的。作者还强调了开源软件作为保持对数字内容的控制的一种方式的重要性。]]></description>
-      <guid>https://t.me/hn_summary/65191</guid>
-      <pubDate>Fri, 22 Dec 2023 14:38:29 GMT</pubDate>
+      <title>[媒体]在此网络内容中，Simon Willison 讨论了 LLM（大型语言模型）的使用 [...]</title>
+      <link>https://t.me/hn_summary/65223</link>
+      <description><![CDATA[LLM 与 Simon Willison 一起打破了互联网
+在此 Web 内容中，Simon Willison 讨论了将 ChatGPT 等 LLM（大型语言模型）用于各种目的。他警告说，人们很容易对这些系统产生快速的第一印象，要么认为它们无所不知，要么认为它们很愚蠢。威利森建议用户以科学的心态接触法学硕士，并尝试不同的提示和问题。他建议使用法学硕士作为集思广益的工具，尽管它们通常被认为缺乏原创性。通过询问大量的想法并融入不同的灵感，用户​​可以发现独特且富有创意的概念。总体而言，法学硕士是强大的语言模型，在与语言相关的任务中表现出色，并且可以成为产生想法的宝贵工具。]]></description>
+      <guid>https://t.me/hn_summary/65223</guid>
+      <pubDate>Fri, 22 Dec 2023 18:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是使用 Rust 的 PL/0 语言的编译器实现。</title>
-      <link>https://t.me/hn_summary/65190</link>
-      <description><![CDATA[显示 HN：我用 Rust 实现的 pl/0 编译器（针对大学课程设计）
-该项目是使用 Rust 的 PL/0 语言的编译器实现。该项目的目的是作为南京航空航天大学编译原理课程的课程设计。 PL/0 是 Pascal 的子集语言。该项目包括词法分析器、解析器、代码生成器和虚拟机。作者提到词法分析器和解析器是使用递归下降算法实现的，并且该项目包括错误处理和完整的错误处理策略。该项目还包括一个证明，证明给定的 BNF 语法是 LL(1)。作者提供了斐波那契演示和错误处理演示作为示例。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65190</guid>
-      <pubDate>Fri, 22 Dec 2023 14:37:22 GMT</pubDate>
+      <title>在 news.ycombinator.com 上的这篇文章中，作者正在为自己的自我家居寻找灵感 [...]</title>
+      <link>https://t.me/hn_summary/65222</link>
+      <description><![CDATA[询问 HN：展示您的 Homelab 和家庭服务器设置以获得灵感
+在 news.ycombinator.com 上的这篇文章中，作者正在为自己的自托管和家庭实验室设置寻找灵感。他们提到使用 Raspberry Pi、一台旧 MacMini 和笔记本电脑作为服务器。作者乐于学习他人的经验，并希望了解技巧、技巧以及在此过程中遇到的任何挑战。这篇文章旨在创建一个讨论，人们可以在其中分享自己的设置并为社区中的其他人提供灵感。]]></description>
+      <guid>https://t.me/hn_summary/65222</guid>
+      <pubDate>Fri, 22 Dec 2023 18:18:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 开发团队允许社区测试 Midjourney v6 的 alpha 版本 [...]</title>
-      <link>https://t.me/hn_summary/65189</link>
-      <description><![CDATA[Midjourney v6
-开发团队允许社区在寒假期间测试 Midjourney v6 的 alpha 版本。新版本包括更准确的提示跟随、更长的提示、改进的连贯性和模型知识、改进的图像提示和混音模式以及较小的文本绘制能力等改进。升级器也通过微妙和创造性的模式得到了改进。此次发布支持各种功能和参数，预计下个月将添加更多功能。建议用户明确提示并使用官方中途 Discord 服务器寻求帮助。该模型已在 Discord 上提供，并将很快向网站上的付费订阅者提供。这是 alpha 测试，模型会经常更改。提醒社区遵守社区标准并负责任地使用权力。]]></description>
-      <guid>https://t.me/hn_summary/65189</guid>
-      <pubDate>Fri, 22 Dec 2023 14:33:09 GMT</pubDate>
+      <title>在名为“HAECHI IV 行动”的全球网络犯罪打击行动中，34 个国家的警方逮捕了 3 名 [...]</title>
+      <link>https://t.me/hn_summary/65221</link>
+      <description><![CDATA[全球网络犯罪打击行动中逮捕 3,500 人，缴获 3 亿美元 
+在名为“HAECHI IV 行动”的全球网络犯罪打击行动中，34 个国家的警方逮捕了 3,500 人，并扣押了价值 3 亿美元的资产。该行动针对各种类型的诈骗，包括语音网络钓鱼、爱情诈骗、网络性勒索、投资诈骗等。当局封锁了 82,000 多个可疑银行账户，查获了 1.99 亿美元的硬通货和价值 1.01 亿美元的虚拟资产。国际刑警组织警察部门执行主任斯蒂芬·卡瓦纳强调，被扣押的资金是受害者的积蓄，对全球安全构成严重威胁。该行动还发现了涉及不可替代代币（NFT）以及使用人工智能和深度造假技术来欺骗受害者的新兴欺诈行为。]]></description>
+      <guid>https://t.me/hn_summary/65221</guid>
+      <pubDate>Fri, 22 Dec 2023 18:18:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

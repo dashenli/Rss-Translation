@@ -4,7 +4,14 @@
     <title>Behance 特色项目</title>
     <link>http://www.behance.net</link>
     <description>Behance 上的最新项目</description>
-    <lastBuildDate>Fri, 22 Dec 2023 14:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 18:23:32 GMT</lastBuildDate>
+    <item>
+      <title>今日移动</title>
+      <link>https://www.behance.net/gallery/183655935/Today-Mobility</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.behance.net/gallery/183655935/Today-Mobility</guid>
+      <pubDate>Fri, 22 Dec 2023 16:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>实验258-270</title>
       <link>https://www.behance.net/gallery/187091157/Experiments-258-270</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们深入验证器领域，创建了专为 Polkadot 和 Kusama 生态系统量身定制的实时 3D 可视化应用程序。我们的应用程序可以深入探索区块链验证器基础设施。]]></description>
       <guid>https://www.behance.net/gallery/186534927/Chainviz-Validators-Explorer</guid>
       <pubDate>Wed, 20 Dec 2023 08:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>浮肿的数字</title>
-      <link>https://www.behance.net/gallery/186827751/Puffy-Numbers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.behance.net/gallery/186827751/Puffy-Numbers</guid>
-      <pubDate>Wed, 20 Dec 2023 04:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 21 Dec 2023 21:23:27 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Fri, 22 Dec 2023 18:31:33 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2023/12/kolide-35/</link>
+      <description><![CDATA[感谢 Kolide 本周赞助六色。
+在最终用户设备上安装操作系统更新应该很容易，但事实当然并非如此。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2023/12/kolide-35/</guid>
+      <pubDate>Fri, 22 Dec 2023 17:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>Zoom on tvOS：大屏视频聊天需要一些工作</title>
       <link>https://sixcolors.com/post/2023/12/zoom-on-tvos-big-screen-video-chatting-needs-some-work/</link>
@@ -16,7 +24,7 @@
     <item>
       <title>（播客）顺时针 534：来自北极的直播</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</link>
-      <description><![CDATA[我们在 2023 年的欢乐科技时刻、2023 年最重要的非人工智能技术进步或发布、对 2024 年的技术展望，以及我们为节日选择的自我放纵的礼物。…]]></description>
+      <description><![CDATA[我们在 2023 年的欢乐科技时刻、2023 年最重要的非人工智能技术进步或发布、对 2024 年的技术展望，以及我们为假期选择的自我放纵的礼物。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</guid>
       <pubDate>Wed, 20 Dec 2023 20:48:00 GMT</pubDate>
     </item>
@@ -70,7 +78,7 @@
       <title>本周苹果：就像雨中的泪水（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/this-week-in-apple-like-tears-in-rain/</link>
       <description><![CDATA[
-通用汽车的新软件系统在 CarPlay 被垃圾谈论之后最好是一个疯狂的软件系统。 Apple Beta 测试了 iPhone 的一组新安全功能，您应该预先警告您，在 Vision Pro 中哭泣可能会使保修失效。… 此故事仅适用于六色会员。 成为会员即可访问独家故事、播客和社区。]]></description>
+通用汽车的新软件系统在 CarPlay 被垃圾谈论之后最好是一个疯狂的软件系统。 Apple Beta 版测试了 iPhone 的一组新安全功能，您应该预先警告您，在 Vision Pro 中哭泣可能会使保修失效。… 此故事仅适用于六色会员。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2023/12/this-week-in-apple-like-tears-in-rain/</guid>
       <pubDate>Fri, 15 Dec 2023 22:00:15 GMT</pubDate>
     </item>
@@ -94,7 +102,7 @@
     <item>
       <title>（播客）下游 59：Netflix 的电子表格</title>
       <link>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</link>
-      <description><![CDATA[事情终于发生了：Netflix 公开了其观看数据……通过 Excel 电子表格？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
+      <description><![CDATA[这件事终于发生了：Netflix 已经通过 Excel 电子表格公开了其观看数据？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</guid>
       <pubDate>Thu, 14 Dec 2023 20:00:26 GMT</pubDate>
     </item>
@@ -111,13 +119,6 @@
       <description><![CDATA[我们使用的额外安全措施、出国旅行的技术资源、我们宝贵的老式技术以及我们对众筹的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-533-im-the-app/</guid>
       <pubDate>Wed, 13 Dec 2023 19:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 474：永远保持肮脏</title>
-      <link>https://sixcolors.com/podcast/2023/12/the-rebound-474-always-be-smirching/</link>
-      <description><![CDATA[事情比以前更糟还是一如既往地糟糕？…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/12/the-rebound-474-always-be-smirching/</guid>
-      <pubDate>Wed, 13 Dec 2023 18:57:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
