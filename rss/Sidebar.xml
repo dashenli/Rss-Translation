@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 22 Dec 2023 06:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 09:26:21 GMT</lastBuildDate>
+    <item>
+      <title>新的 CSS 视口单位不能解决经典的滚动条问题</title>
+      <link>https://www.smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</link>
+      <description><![CDATA[我们中的许多人一直使用 width: 100vw 作为将元素宽度设置为视口完整宽度的方法。 
+]]></description>
+      <guid>https://www.smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</guid>
+      <pubDate>Fri, 22 Dec 2023 07:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 性能入门</title>
+      <link>https://www.htmhell.dev/adventcalendar/2023/14/</link>
+      <description><![CDATA[网络性能可能非常棘手。我提到这一点是为了让您在遇到困难或难以找出问题时不会灰心丧气。
+]]></description>
+      <guid>https://www.htmhell.dev/adventcalendar/2023/14/</guid>
+      <pubDate>Fri, 22 Dec 2023 07:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Material Theme Builder 2.0 更新的主题体验</title>
+      <link>https://material.io/blog/material-theme-builder-2-color-match</link>
+      <description><![CDATA[通过包括颜色匹配在内的重大更新来庆祝 MTB 两周年。
+]]></description>
+      <guid>https://material.io/blog/material-theme-builder-2-color-match</guid>
+      <pubDate>Fri, 22 Dec 2023 06:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 解释为何放弃 Figma 交易</title>
+      <link>https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder</link>
+      <description><![CDATA[该交易本周破裂。
+]]></description>
+      <guid>https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder</guid>
+      <pubDate>Fri, 22 Dec 2023 06:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>对风格的过度分析</title>
+      <link>https://pjonori.blog/posts/analysis-of-style/</link>
+      <description><![CDATA[风格是一致的约束。我从未听过比这更简洁、更准确的描述。
+]]></description>
+      <guid>https://pjonori.blog/posts/analysis-of-style/</guid>
+      <pubDate>Fri, 22 Dec 2023 06:49:42 GMT</pubDate>
+    </item>
     <item>
       <title>白日梦：雅虎管道的一生和时代</title>
       <link>https://retool.com/pipes</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://tailwindcss.com/blog/heroicons-micro</guid>
       <pubDate>Wed, 20 Dec 2023 06:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您不需要 HTML！</title>
-      <link>https://shkspr.mobi/blog/2022/12/you-dont-need-html/</link>
-      <description><![CDATA[一天深夜浏览 Mastodon 时，我发现了这篇优秀的博客文章，名为 HTML is all you need to make a website。
-]]></description>
-      <guid>https://shkspr.mobi/blog/2022/12/you-dont-need-html/</guid>
-      <pubDate>Tue, 19 Dec 2023 05:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候变化标志</title>
-      <link>https://theclimatechangedlogo.com/</link>
-      <description><![CDATA[随着世界瞬息万变，我们更新了联合国徽标，以应对未来的变化。
-]]></description>
-      <guid>https://theclimatechangedlogo.com/</guid>
-      <pubDate>Tue, 19 Dec 2023 05:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的数十亿美元版权战从字体设计师开始</title>
-      <link>https://news.bloomberglaw.com/ip-law/ais-billion-dollar-copyright-battle-starts-with-a-font-designer</link>
-      <description><![CDATA[一些诉讼声称新兴的人工智能行业不公平地吸走了作家、艺术家和程序员的创造性工作。
-]]></description>
-      <guid>https://news.bloomberglaw.com/ip-law/ais-billion-dollar-copyright-battle-starts-with-a-font-designer</guid>
-      <pubDate>Tue, 19 Dec 2023 04:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>最热的一年</title>
-      <link>https://www.reuters.com/graphics/CLIMATE-UN/WEATHER-EXTREMES/zdvxrmeakvx/</link>
-      <description><![CDATA[创纪录的气温如何助长了 2023 年世界各地的极端天气。
-]]></description>
-      <guid>https://www.reuters.com/graphics/CLIMATE-UN/WEATHER-EXTREMES/zdvxrmeakvx/</guid>
-      <pubDate>Tue, 19 Dec 2023 04:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 和 Adob​​e 放弃我们提议的合并</title>
-      <link>https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/</link>
-      <description><![CDATA[Figma 和 Adob​​e 不再看到获得监管批准的途径。
-]]></description>
-      <guid>https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/</guid>
-      <pubDate>Tue, 19 Dec 2023 04:20:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
