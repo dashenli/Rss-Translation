@@ -4,7 +4,21 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sat, 23 Dec 2023 12:48:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 15:22:14 GMT</lastBuildDate>
+    <item>
+      <title>2023 年每个 IGN 10</title>
+      <link>https://www.ign.com/articles/every-ign-10-of-2023</link>
+      <description><![CDATA[几乎从任何标准来看，2023 年发布的游戏、电影和电视节目的质量都非常出色，IGN 今年给出的 10 分评分中的 10 分多种多样就体现了这一点。]]></description>
+      <guid>https://www.ign.com/articles/every-ign-10-of-2023</guid>
+      <pubDate>Sat, 23 Dec 2023 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>每一款贝塞斯达发布的游戏：完整的历史</title>
+      <link>https://www.ign.com/articles/all-bethesda-games-in-order</link>
+      <description><![CDATA[贝塞斯达的第一款游戏实际上是一款足球模拟器。]]></description>
+      <guid>https://www.ign.com/articles/all-bethesda-games-in-order</guid>
+      <pubDate>Sat, 23 Dec 2023 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>不可跳过的《博德之门 3》重要支线任务</title>
       <link>https://www.ign.com/articles/essential-baldurs-gate-3-side-quests-you-shouldnt-skip</link>
@@ -20,17 +34,17 @@
       <pubDate>Fri, 22 Dec 2023 19:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>被遗忘的宝石：卢卡斯影业对 Fractalus 的救援！</title>
-      <link>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</guid>
-      <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>《队长小翼：王牌》2023 年圣诞节更新带来 11v11 PvP</title>
       <link>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</link>
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</guid>
+      <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>被遗忘的宝石：卢卡斯影业对 Fractalus 的救援！</title>
+      <link>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</guid>
       <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
     </item>
     <item>
@@ -95,20 +109,6 @@
       <description><![CDATA[《巫师》的配音演员道格·科克尔对视频游戏行业中人工智能的日益增长表示谨慎和沮丧，称其“不可避免”但“危险”。]]></description>
       <guid>https://www.ign.com/articles/the-witcher-voice-actor-doug-cockle-calls-ai-inevitable-but-dangerous</guid>
       <pubDate>Fri, 22 Dec 2023 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EA Sports WRC 团队表示，转向虚幻“并非易事”</title>
-      <link>https://www.ign.com/articles/moving-to-unreal-no-easy-undertaking-says-ea-sports-wrc-team</link>
-      <description><![CDATA[与 Codemasters 聊天并试驾最新的免费中欧拉力赛更新。]]></description>
-      <guid>https://www.ign.com/articles/moving-to-unreal-no-easy-undertaking-says-ea-sports-wrc-team</guid>
-      <pubDate>Fri, 22 Dec 2023 01:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年 Nintendo Switch 上的所有马里奥游戏</title>
-      <link>https://www.ign.com/articles/all-mario-games-on-nintendo-switch</link>
-      <description><![CDATA[您现在可以在 Switch 上畅玩全部 18 款马里奥游戏。]]></description>
-      <guid>https://www.ign.com/articles/all-mario-games-on-nintendo-switch</guid>
-      <pubDate>Thu, 21 Dec 2023 22:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
