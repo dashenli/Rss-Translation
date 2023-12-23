@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 22 Dec 2023 18:32:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 12:50:04 GMT</lastBuildDate>
+    <item>
+      <title>前端回顾 2023 – 第 23 天</title>
+      <link>https://tympanus.net/codrops/2023/12/23/frontend-rewind-2023-day-23/</link>
+      <description><![CDATA[我们特别日历的第 23 天带来了 2023 年的更多前端亮点。]]></description>
+      <guid>https://tympanus.net/codrops/2023/12/23/frontend-rewind-2023-day-23/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:14:41 GMT</pubDate>
+    </item>
     <item>
       <title>前端回顾 2023 – 第 22 天</title>
       <link>https://tympanus.net/codrops/2023/12/22/frontend-rewind-2023-day-22/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[当我们日历的第 17 天开始时，请加入我们，一起了解又一天的前端亮点。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/17/frontend-rewind-2023-day-17/</guid>
       <pubDate>Sun, 17 Dec 2023 14:51:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 16 天</title>
-      <link>https://tympanus.net/codrops/2023/12/16/frontend-rewind-2023-day-16/</link>
-      <description><![CDATA[当我们在“前端倒带 2023”中打开第 16 扇门时，发现更多前端闪回！]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/16/frontend-rewind-2023-day-16/</guid>
-      <pubDate>Sat, 16 Dec 2023 16:12:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
