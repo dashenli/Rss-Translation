@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
-    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 22 Dec 2023 21:18:14 GMT</lastBuildDate>
+    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 23 Dec 2023 02:01:35 GMT</lastBuildDate>
     <item>
-      <title>最高法院暂时表示不请求迅速就特朗普是否可以被起诉做出裁决</title>
+      <title>威斯康星州最高法院在民主党提起的选区重新划分案件中下令制定新的立法地图</title>
+      <link>https://apnews.com/article/wisconsin-supreme-court-redistricting-eccbcfee414d1943073a9fb949743860</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/wisconsin-supreme-court-redistricting-eccbcfee414d1943073a9fb949743860</guid>
+      <pubDate>Fri, 22 Dec 2023 20:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院驳回检察官推动特朗普选举颠覆案快速裁决的请求</title>
       <link>https://apnews.com/article/trump-january-6-justice-department-90b93eeb663ebaf67a2e0bc266390fa0</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/trump-january-6-justice-department-90b93eeb663ebaf67a2e0bc266390fa0</guid>
@@ -74,15 +81,6 @@
       <pubDate>Fri, 22 Dec 2023 18:36:56 GMT</pubDate>
     </item>
     <item>
-      <title>警方视频显示，警方知道缅因州枪手是一个威胁。他们还觉得与他对峙是不安全的</title>
-      <link>https://apnews.com/article/lewiston-maine-mass-shootings-footage-96ecb7b9c02f84505592b55f779be617</link>
-      <description><![CDATA[缅因州波特兰（美联社）——根据执法部门发布的视频片段，缅因州警方担心，在该州历史上最严重的大规模枪击事件发生之前与一名陆军预备役军人对峙会“向毒气池中扔一根炸药” .周五发布的视频记录了中士之间的通话。萨加多克县治安官办公室的亚伦·斯科尔菲尔德 (Aaron Skolfield) 和陆军预备役上尉杰里米·雷默 (Jeremy Reamer)。斯科菲尔德正在就来自刘易斯顿地区的 40 岁陆军预备役军人罗伯特·卡德 (Robert Card) 构成的潜在威胁向雷默进行跟踪。在雷默表示罗伯特·卡德拒绝就医后，斯科菲尔德提到了缅因州的黄旗法。他在服兵役期间住院。在缅因州的 黄旗法，向警方发出警告可以触发一个程序，警察会探访某人，并就是否应对该人进行临时保护性拘留做出判断，引发评估，经法官批准可导致为期 14 天的武器限制。完整的法庭听证会可能会导致限制期限延长一年。
-
-雷默赞同这样的观点，即如果警察进一步确保卡德不是威胁，他们可能会受伤：“我自己就是一名警察。 ...显然，我不想让你们受伤或做任何会让你们处于妥协境地的事情，必须做出决定。”这些视频是发布给《波特兰新闻先驱报》，然后于周五发送给美联社。卡已提交缅因州历史上最致命的大规模枪击事件，当时他10 月 25 日在保龄球馆和酒吧杀死 18 人刘易斯顿。枪击事件发生两天后，卡德的尸体被发现有自伤枪伤。很快就有报道称，袭击发生前几个月，他在一家精神病院住了两周，并积累了武器。]]></description>
-      <guid>https://apnews.com/article/lewiston-maine-mass-shootings-footage-96ecb7b9c02f84505592b55f779be617</guid>
-      <pubDate>Fri, 22 Dec 2023 18:20:32 GMT</pubDate>
-    </item>
-    <item>
       <title>一些天主教主教拒绝教皇关于祝福同性伴侣的立场。其他人很困惑</title>
       <link>https://apnews.com/article/vatican-pope-francis-samesex-blessings-baabeaf96ad180aa20e1df9fb4b4657e</link>
       <description><![CDATA[]]></description>
@@ -95,35 +93,6 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/un-resolution-gaza-aid-palestinians-israel-a5bb32fb9f071689d231533a26beb838</guid>
       <pubDate>Fri, 22 Dec 2023 16:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着物价继续回落，美联储青睐的通胀指标 11 月大幅下跌</title>
-      <link>https://apnews.com/article/inflation-federal-reserve-consumer-spending-incomes-bc386c513bbe3cd392360c8bc9283016</link>
-      <description><![CDATA[华盛顿（美联社）——上个月，美联储首选的物价衡量指标出现下降，这是通胀正在缓和的又一个迹象，表明美国人应该从降息中受益，并从 2024 年痛苦的价格冲击中得到缓解。美国商务部周五发布的报告显示，上个月美国消费者价格较 10 月下降 0.1%，较 2022 年 11 月上涨 2.6%。环比跌幅是自 2020 年 4 月以来最大，当时经济正受到 COVID-19 的影响大流行。 剔除波动较大的食品和能源价格，上个月所谓的核心通胀率较10月份上涨0.1%，较去年同期上涨3.2%。 
-
-数据显示，对抗通胀的进展比经济学家预期的要多一些。通胀正在稳步下降至美联储 2% 的同比目标，似乎正在为美联储在 2024 年降息扫清道路。这反过来可能会导致从抵押贷款到信用卡等各种利率的下降。&lt; /p&gt;
-
-
-
-汽车、房屋和其他大额采购的贷款利率往往会跟随美联储货币政策的方向，因此当美国基准利率下调时，消费者成本通常会下降，从而为家庭腾出更多资金用于其他地方的消费。 
-
-
-
-
-
-
-
-
-
-
-
-
-基准 30 年期固定利率抵押贷款的利率已经在下降：本周 跌至六个月低点 6.67%，低于 7.79%十月。美国人已经从高物价中得到了一些缓解。考虑一下 BLT 三明治的成分：去年培根价格下降了近 1%，生菜价格下降了 10% 以上，西红柿价格下降了 4%。汽车租赁价格下跌了 11%，机票价格下跌了 12%，家具价格下跌了 3%。美联储加息近两年（自 2022 年 3 月以来已加息 11 次），通胀已从 4 年来的高点回落。去年。劳工部密切关注的消费者价格指数上个月自 2022 年 11 月起上涨 3.1%，低于 2022 年 6 月的 9.1% 同比涨幅。
-
-
-受到进展的鼓舞，美联储决定在过去的三次会议上不再加息，并表示预计明年将降息三次。 HighFrequency 首席美国经济学家鲁比拉·法鲁奇 (Rubeela Farooqi) 表示：“价格压力的持续缓解将支持美联储明年政策立场的转变，从维持利率稳定转向随着时间的推移降低利率。​​”经济学。 ”“确切的时间将取决于明年劳动力市场、通胀和增长将如何演变。根据我们的预测，我们预计美联储将在明年年中开始降息。”尽管人们普遍预测加息将导致经济衰退，但美国经济和就业市场仍然强劲。这引发了人们对美联储能够实现“软着陆”的希望，即在不让经济陷入衰退的情况下，将通胀率达到 2% 的同比目标。美国商务部周五发布的美国通胀指标称为个人消费支出（PCE）价格指数。它显示，同比通胀率在 2022 年 6 月达到 7.1% 的峰值。与劳工部的 CPI 相比，美联储更喜欢 PCE 指数，部分原因是它解释了通胀飙升时人们购物方式的变化 - 当例如，消费者从昂贵的国内品牌转向更便宜的商店品牌。周五的报告还显示，消费者支出继 10 月份增长 0.1% 后，上个月增长了 0.2%。上个月个人收入增长 0.4%，较 10 月份的 0.3% 有所上升。 ]]></description>
-      <guid>https://apnews.com/article/inflation-federal-reserve-consumer-spending-incomes-bc386c513bbe3cd392360c8bc9283016</guid>
-      <pubDate>Fri, 22 Dec 2023 13:36:46 GMT</pubDate>
     </item>
     <item>
       <title>巴勒斯坦基督徒悲痛且经常被忽视，他们在战争中准备度过一个阴郁的圣诞节</title>
@@ -166,6 +135,13 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/ukraine-war-bionic-limb-prosthetic-74ac2b6f401cdb479f940b69b0356209</guid>
       <pubDate>Fri, 22 Dec 2023 05:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>健谈机器人通过AI陪伴帮助老年人对抗孤独</title>
+      <link>https://apnews.com/article/artificial-intelligence-robot-elliq-senior-citizens-a343409477b7aea350254f94daf52eb7</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/artificial-intelligence-robot-elliq-senior-citizens-a343409477b7aea350254f94daf52eb7</guid>
+      <pubDate>Fri, 22 Dec 2023 05:10:34 GMT</pubDate>
     </item>
     <item>
       <title>需要最后一刻的礼物吗？总统候选人提供装饰品、礼品包装以及特朗普大头照商品</title>
