@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sun, 24 Dec 2023 03:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 06:30:06 GMT</lastBuildDate>
+    <item>
+      <title>所有主要的 Starfield 控制台命令和秘籍</title>
+      <link>https://www.ign.com/articles/all-major-starfield-console-commands-and-cheats</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/all-major-starfield-console-commands-and-cheats</guid>
+      <pubDate>Sun, 24 Dec 2023 05:12:00 GMT</pubDate>
+    </item>
     <item>
       <title>每日优惠：Xbox Series X、Bose QuietComfort 45、生化危机 4</title>
       <link>https://www.ign.com/articles/daily-deals-xbox-series-x-bose-quietcomfort-45-resident-evil-4</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 23 Dec 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>每一款贝塞斯达发布的游戏：完整的历史</title>
+      <title>每款 Bethesda 发布的游戏：完整的历史</title>
       <link>https://www.ign.com/articles/all-bethesda-games-in-order</link>
       <description><![CDATA[贝塞斯达的第一款游戏实际上是一款足球模拟器。]]></description>
       <guid>https://www.ign.com/articles/all-bethesda-games-in-order</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[IGN 英国播客第 728 集，介绍 2023 年另类游戏奖项。]]></description>
       <guid>https://www.ign.com/articles/ign-uk-podcast-728-the-2023-alternative-game-awards</guid>
       <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>下个月服务器关闭前一天，游戏仅保留 45 天</title>
-      <link>https://www.ign.com/articles/the-day-before-servers-shutting-down-next-month-leaving-game-active-for-just-45-days</link>
-      <description><![CDATA[《The Day Before》是近年来最具争议性和灾难性的游戏之一，其服务器将于 2024 年 1 月关闭，距离游戏推出抢先体验仅 45 天。]]></description>
-      <guid>https://www.ign.com/articles/the-day-before-servers-shutting-down-next-month-leaving-game-active-for-just-45-days</guid>
-      <pubDate>Fri, 22 Dec 2023 11:54:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
