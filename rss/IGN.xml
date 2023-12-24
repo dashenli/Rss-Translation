@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sun, 24 Dec 2023 12:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 15:22:42 GMT</lastBuildDate>
+    <item>
+      <title>每款 GTA 游戏均排名</title>
+      <link>https://www.ign.com/articles/best-gta-games</link>
+      <description><![CDATA[随着《GTA 6》的到来，IGN 对 Rockstar 发布的每款侠盗猎车手游戏进行了从最差到最佳的排名。哪一款 GTA 游戏被 IGN 评为最佳游戏？查看下面的列表。]]></description>
+      <guid>https://www.ign.com/articles/best-gta-games</guid>
+      <pubDate>Sun, 24 Dec 2023 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>所有主要的 Starfield 控制台命令和秘籍</title>
       <link>https://www.ign.com/articles/all-major-starfield-console-commands-and-cheats</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《赛博朋克 2》的代号为“猎户座”，可能会有更宏大的分支故事情节，这些故事情节由玩家的起始人生道路决定，即《赛博朋克 2077》中的“街头小子”、“军团”和“游牧者”。]]></description>
       <guid>https://www.ign.com/articles/cyberpunk-2-may-have-grander-branching-storylines-based-on-players-starting-life-path</guid>
       <pubDate>Fri, 22 Dec 2023 12:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>IGN 英国播客 728：2023 年另类游戏奖</title>
-      <link>https://www.ign.com/articles/ign-uk-podcast-728-the-2023-alternative-game-awards</link>
-      <description><![CDATA[IGN 英国播客第 728 集，介绍 2023 年另类游戏奖项。]]></description>
-      <guid>https://www.ign.com/articles/ign-uk-podcast-728-the-2023-alternative-game-awards</guid>
-      <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
