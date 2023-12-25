@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 24 Dec 2023 21:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 02:13:29 GMT</lastBuildDate>
+    <item>
+      <title>将使用基因组编辑技术的治疗带给每个人：Jennifer Doudna——特别报道“2024 年的世界”</title>
+      <link>https://wired.jp/article/vol51-gene-edits-for-all/</link>
+      <description><![CDATA[CRISPR，一种已经开始在医学领域展现威力的基因组编辑技术。然而，成本和设备等问题仍然存在。下一个目标是建立提高成本和可及性的治疗方法。]]></description>
+      <guid>https://wired.jp/article/vol51-gene-edits-for-all/</guid>
+      <pubDate>Mon, 25 Dec 2023 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 2024 年最重要的范式转变！ ：特辑“2024年的世界”</title>
       <link>https://wired.jp/article/vol51-the-world-in-2024-web-index/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>首个通过编辑 B 细胞治疗遗传性疾病的临床试验</title>
       <link>https://wired.jp/article/b-cells-genetically-engineered-immusoft/</link>
-      <description><![CDATA[B 细胞产生大量抗体，保护身体免受疾病侵害。美国公司Immusoft宣布，他们已经对B细胞进行了基因编辑，并将其重新引入体内，以对抗遗传性疾病I型粘多糖贮积症。据说 B 细胞比其他细胞更难修改。]]></description>
+      <description><![CDATA[B 细胞产生大量抗体，保护身体免受疾病侵害。美国公司Immusoft宣布，他们已经对B细胞进行了基因编辑，并将其重新引入体内，以对抗遗传性疾病I型粘多糖贮积症。 B 细胞被认为比其他细胞更难修改。]]></description>
       <guid>https://wired.jp/article/b-cells-genetically-engineered-immusoft/</guid>
       <pubDate>Fri, 22 Dec 2023 23:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[日本版《WIRED》一年一度的大型会议《WIRED Futures》于12月8日召开。这场引人注目的一日活动以“2050年的多维未来”为主题，涵盖了人工智能、空间计算、创造力和福祉等话题，门票数量不断增加，门票也全部售空。我们进行了全方位的讨论。同时，这一天我们也思考了未来应该是什么样子。]]></description>
       <guid>https://wired.jp/article/wired-futures-2023-report/</guid>
       <pubDate>Fri, 22 Dec 2023 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>培育支持职业女性生育努力的企业文化——专题“2024年的世界”</title>
-      <link>https://wired.jp/article/vol51-celebrating-fertility-in-the-workplace/</link>
-      <description><![CDATA[到2024年，企业最终将开始积极促进长期职业发展和对不孕不育治疗的支持，我们将看到一个女性员工对社会的贡献得到应有评价的时代。]]></description>
-      <guid>https://wired.jp/article/vol51-celebrating-fertility-in-the-workplace/</guid>
-      <pubDate>Fri, 22 Dec 2023 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
