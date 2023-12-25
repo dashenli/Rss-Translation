@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 22 Dec 2023 21:20:47 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 25 Dec 2023 12:53:33 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 492：2023 年升级假期特别优惠</title>
+      <link>https://sixcolors.com/podcast/2023/12/upgrade-492-the-2023-upgrade-holiday-special/</link>
+      <description><![CDATA[Twitter 一开始就死了。五年后，我们从不同的角度审视苹果未来的幽灵。还有一些假日询问升级。…]]></description>
+      <guid>https://sixcolors.com/podcast/2023/12/upgrade-492-the-2023-upgrade-holiday-special/</guid>
+      <pubDate>Mon, 25 Dec 2023 09:31:14 GMT</pubDate>
+    </item>
     <item>
       <title>本周苹果：年终收尾（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/this-week-in-apple-year-end-closeouts/</link>
@@ -113,13 +120,6 @@
       <description><![CDATA[这件事终于发生了：Netflix 已经通过 Excel 电子表格公开了其观看数据？另外：Disney+ 和 Hulu 在美国建立联系，这可能是派拉蒙全球和你的信的最终结局！…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/downstream-59-netflixs-spreadsheet/</guid>
       <pubDate>Thu, 14 Dec 2023 20:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 15 在 2023 年是一件大事，但这三项举措甚至更大 (Macworld/Dan Moren)</title>
-      <link>https://www.macworld.com/article/2170988/apple-2023-year-in-review-vision-pro-silicon-ai.html</link>
-      <description><![CDATA[距离我们将 2023 年纳入后视镜仅剩几周时间，因此，按照事物的自然顺序，是时候回顾过去 12 个月并尝试将这些事件塑造成某种假象叙述性的。…]]></description>
-      <guid>https://www.macworld.com/article/2170988/apple-2023-year-in-review-vision-pro-silicon-ai.html</guid>
-      <pubDate>Thu, 14 Dec 2023 18:31:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
