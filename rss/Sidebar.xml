@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 06:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 09:25:57 GMT</lastBuildDate>
+    <item>
+      <title>响应式 SVG</title>
+      <link>https://12daysofweb.dev/2023/responsive-svgs/</link>
+      <description><![CDATA[扩展您使用 SVG 的知识，以获得可扩展的响应式体验。
+]]></description>
+      <guid>https://12daysofweb.dev/2023/responsive-svgs/</guid>
+      <pubDate>Mon, 25 Dec 2023 07:24:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应咏叹调</title>
+      <link>https://react-spectrum.adobe.com/react-aria/index.html</link>
+      <description><![CDATA[使用自定义样式制作世界一流的可访问组件。
+]]></description>
+      <guid>https://react-spectrum.adobe.com/react-aria/index.html</guid>
+      <pubDate>Mon, 25 Dec 2023 07:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>shadcn/ui 剖析</title>
+      <link>https://manupa.dev/blog/anatomy-of-shadcn-ui</link>
+      <description><![CDATA[shadcn/ui 组件不是作为 npm 包分发，而是通过 CLI 交付。
+]]></description>
+      <guid>https://manupa.dev/blog/anatomy-of-shadcn-ui</guid>
+      <pubDate>Mon, 25 Dec 2023 07:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>品牌指南</title>
+      <link>https://brandguide.page/</link>
+      <description><![CDATA[来自世界各地的手工策划品牌指南。
+]]></description>
+      <guid>https://brandguide.page/</guid>
+      <pubDate>Mon, 25 Dec 2023 06:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>让它下雪吧 – 12 天的 Web 组件</title>
+      <link>https://hawkticehurst.com/writing/12-days-of-web-components/day-1/</link>
+      <description><![CDATA[探索 Web 组件世界的一系列互动帖子的第一天。
+]]></description>
+      <guid>https://hawkticehurst.com/writing/12-days-of-web-components/day-1/</guid>
+      <pubDate>Mon, 25 Dec 2023 06:57:33 GMT</pubDate>
+    </item>
     <item>
       <title>新的 CSS 视口单位不能解决经典的滚动条问题</title>
       <link>https://www.smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</link>
@@ -40,7 +80,7 @@
     <item>
       <title>对风格的过度分析</title>
       <link>https://pjonori.blog/posts/analysis-of-style/</link>
-      <description><![CDATA[风格是一致的约束。我从未听过比这更简洁、更准确的描述。
+      <description><![CDATA[风格是一致的约束。我从未听过更简洁、更准确的描述。
 ]]></description>
       <guid>https://pjonori.blog/posts/analysis-of-style/</guid>
       <pubDate>Fri, 22 Dec 2023 06:49:42 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.logodesignlove.com/tonys-chocolonely</guid>
       <pubDate>Thu, 21 Dec 2023 06:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作嘈杂的 SVG</title>
-      <link>https://daniel.do/article/making-noisy-svgs/</link>
-      <description><![CDATA[仅使用代码添加噪声纹理
-]]></description>
-      <guid>https://daniel.do/article/making-noisy-svgs/</guid>
-      <pubDate>Wed, 20 Dec 2023 06:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的设计是主观的、情境化的和有意的</title>
-      <link>https://uxdesign.cc/good-design-is-subjective-contextual-and-intentional-e9b26c06612f</link>
-      <description><![CDATA[近 200 年来，城市规划者一直在为人类体验进行设计，UI/UX 设计师可以从中学习。
-]]></description>
-      <guid>https://uxdesign.cc/good-design-is-subjective-contextual-and-intentional-e9b26c06612f</guid>
-      <pubDate>Wed, 20 Dec 2023 06:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSS 进行数量查询非常简单：has()</title>
-      <link>https://frontendmasters.com/blog/quantity-queries-are-very-easy-with-css-has/</link>
-      <description><![CDATA[什么是数量查询？它是一些 CSS，允许您根据元素有多少个子元素来设置元素（及其后代）的样式。
-]]></description>
-      <guid>https://frontendmasters.com/blog/quantity-queries-are-very-easy-with-css-has/</guid>
-      <pubDate>Wed, 20 Dec 2023 06:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美的日子</title>
-      <link>https://www.perfectdays-movie.jp/en/</link>
-      <description><![CDATA[有趣的网站，观看由德国电影大师维姆·文德斯 (Wim Wenders) 和著名日本演员役所浩二 (Koji Yakusho) 执导的电影。
-]]></description>
-      <guid>https://www.perfectdays-movie.jp/en/</guid>
-      <pubDate>Wed, 20 Dec 2023 06:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroicons Micro：这些是什么，蚂蚁的图标？</title>
-      <link>https://tailwindcss.com/blog/heroicons-micro</link>
-      <description><![CDATA[我们刚刚发布了 Heroicons v2.1，其中包含全新的微风格 - 全套近三百个 16×16 图标。
-]]></description>
-      <guid>https://tailwindcss.com/blog/heroicons-micro</guid>
-      <pubDate>Wed, 20 Dec 2023 06:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
