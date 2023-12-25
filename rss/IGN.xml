@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Mon, 25 Dec 2023 12:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 18:29:00 GMT</lastBuildDate>
+    <item>
+      <title>《蜘蛛侠 2》和《心灵杀手 2》的创作者揭示了 2023 年两款最佳游戏背后的秘密</title>
+      <link>https://www.ign.com/articles/spider-man-2-alan-wake-2-goty-roundtable-conversation</link>
+      <description><![CDATA[从表面上看，《心灵杀手 2》和《漫威蜘蛛侠 2》可能没有太多共同点。一款是一部黑暗悬疑惊悚片，故事随着主角的内心展开，而另一款则是一款快节奏、令人兴奋的动作游戏，讲述了色彩缤纷的超级英雄。]]></description>
+      <guid>https://www.ign.com/articles/spider-man-2-alan-wake-2-goty-roundtable-conversation</guid>
+      <pubDate>Mon, 25 Dec 2023 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《亚利桑那阳光 2》如何提高 VR 僵尸生存赌注</title>
       <link>https://www.ign.com/articles/how-arizona-sunshine-2-ups-the-vr-zombie-survival-ante</link>
@@ -76,17 +83,17 @@
       <pubDate>Fri, 22 Dec 2023 19:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>《队长小翼：王牌》2023 年圣诞节更新带来 11v11 PvP</title>
-      <link>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</guid>
-      <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>被遗忘的宝石：卢卡斯影业对 Fractalus 的救援！</title>
       <link>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</link>
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/forgotten-gems-lucasfilms-rescue-on-fractalus</guid>
+      <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《队长小翼：王牌》2023 年圣诞节更新带来 11v11 PvP</title>
+      <link>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/captain-tsubasa-ace-brings-11v11-pvp-with-its-2023-christmas-update</guid>
       <pubDate>Fri, 22 Dec 2023 18:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Splatoon 3 的新 Splattercolor Screen 武器的目的是让受其影响的人迷失方向。但它的实际使用直接影响了残疾人，使一些人完全无法玩游戏，甚至导致引发癫痫等重大健康问题。]]></description>
       <guid>https://www.ign.com/articles/splatoon-3s-newest-weapon-is-actively-hurting-the-disabled-community</guid>
       <pubDate>Fri, 22 Dec 2023 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Insomniac Games 分享了有关网络攻击的信息：“就像洛根一样……Insomniac 具有弹性”</title>
-      <link>https://www.ign.com/articles/insomniac-games-shares-a-message-regarding-the-cyberattack-like-logan-insomniac-is-resilient</link>
-      <description><![CDATA[Insomniac Games 分享了一条消息，以回应本周早些时候影响该公司的可怕网络攻击，称“就像洛根一样……Insomniac 具有复原力。”]]></description>
-      <guid>https://www.ign.com/articles/insomniac-games-shares-a-message-regarding-the-cyberattack-like-logan-insomniac-is-resilient</guid>
-      <pubDate>Fri, 22 Dec 2023 15:18:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

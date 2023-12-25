@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 12:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 18:25:30 GMT</lastBuildDate>
     <item>
-      <title>在本文中，作者分享了遇到 Wi 问题的个人经历 [...]</title>
-      <link>https://t.me/hn_summary/65606</link>
-      <description><![CDATA[我告诉空乘人员“WiFi 无法使用”&lt; /a&gt;
-在这篇文章中，作者分享了一次在飞机上遇到WiFi问题的个人经历。他们强调了情况的令人沮丧，但让读者放心，有解决方案。作者的语气轻松而亲切，旨在与旅行时可能遇到类似问题的读者建立联系。摘要中没有提到任何争议或令人惊讶的内容。]]></description>
-      <guid>https://t.me/hn_summary/65606</guid>
-      <pubDate>Mon, 25 Dec 2023 12:44:13 GMT</pubDate>
+      <title>[媒体] Reliable Robotics 是一家自动化系统公司，在自动化领域实现了一个重要里程碑 [...]</title>
+      <link>https://t.me/hn_summary/65634</link>
+      <description><![CDATA[一架货机在没有飞行员的情况下使用半自动驾驶飞机飞行了 50 英里自动化系统
+Reliable Robotics 是一家自动化系统公司，成功驾驶一架没有飞行员的货机，实现了自动化航空领域的一个重要里程碑。这次飞行历时 12 分钟，覆盖了标准的 50 英里航线，由一名飞行员在 50 英里外的控制中心远程操作。该飞行系统允许飞行员使用与空中交通管制员使用的接口类似的接口，通过加密的卫星信号向飞机发送信号。该模型旨在提高起飞、着陆和飞行途中的安全性，并包括通信故障时的着陆指令。虽然该技术可以解决当前飞行员短缺的问题，但仍然需要经过认证的飞行员才能在驾驶舱内操作飞机。 Reliable Robotics 还与美国军方合作，将该技术应用于大型飞机。]]></description>
+      <guid>https://t.me/hn_summary/65634</guid>
+      <pubDate>Mon, 25 Dec 2023 18:25:30 GMT</pubDate>
     </item>
     <item>
-      <title>Filmolino SlideScanner 是一个 DIY 项目，它利用 M5Stack Fire 和特殊的电子 [...]</title>
-      <link>https://t.me/hn_summary/65605</link>
-      <description><![CDATA[Filmolino SlideScanner
-Filmolino SlideScanner 是一个 DIY 项目，它利用 M5Stack Fire 和特殊的电子模块来创建幻灯片扫描仪。该项目是在 KiCAD 中设计的，双面 PCB 可以使用经销商处提供的组件轻松手工焊接。 KiCAD 项目支持的功能比幻灯片扫描仪所使用的功能更多，因此用户只需组装一组特定的组件即可。该项目包括各种电阻器、电容器、二极管、保险丝、连接器和固态继电器。 Filmolino SlideScanner 提供了一种经济高效且可定制的幻灯片扫描解决方案。]]></description>
-      <guid>https://t.me/hn_summary/65605</guid>
-      <pubDate>Mon, 25 Dec 2023 12:10:24 GMT</pubDate>
+      <title>[媒体]任天堂 Switch 上的一款益智游戏 Suika Game 在日本风靡一时。</title>
+      <link>https://t.me/hn_summary/65633</link>
+      <description><![CDATA[Suika 游戏：日本家用投影仪应用如何走红&lt; /a&gt;
+Suika Game 是 Nintendo Switch 上的一款益智视频游戏，在日本风靡一时。游戏以一系列水果为特色，从樱桃开始，到西瓜结束，玩家必须猜测序列中的下一个水果。该游戏很受欢迎，目前在 Nintendo Switch 软件下载量中排名第一。它也成为 2023 年 YouTube 上最热门的短语。]]></description>
+      <guid>https://t.me/hn_summary/65633</guid>
+      <pubDate>Mon, 25 Dec 2023 18:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者讨论了 Rust 语言在“系统”编程之外的实用性，并且 [...]</title>
-      <link>https://t.me/hn_summary/65604</link>
-      <description><![CDATA[用 6 行 Rust 为网络提供服务
-作者讨论了 Rust 语言在“系统”编程之外的实用性，并描述了他们使用 Rust 进行开发的经验。他们引入了 Rocket Web 框架，该框架允许用户仅用 6 行 Rust 代码即可提供 Web 内容。作者提供了有关如何设置 Rocket Web 框架以及如何使用 HTML、CSS 和 JavaScript 创建基本网页的分步说明。他们强调，提供静态文件是本教程的主要重点，并且可以使用传统方法来完成进一步的 Web 开发。作者还提到，他们创建了一个 GitHub 存储库，供读者用作自己项目的基础。]]></description>
-      <guid>https://t.me/hn_summary/65604</guid>
-      <pubDate>Mon, 25 Dec 2023 11:12:42 GMT</pubDate>
+      <title>RONIN 是一个数据平台，旨在弥合内容管理系统和数据 [...]</title>
+      <link>https://t.me/hn_summary/65632</link>
+      <description><![CDATA[如影
+RONIN 是一个数据平台，旨在弥合内容管理系统和数据库之间的差距。它的目标是让团队中的每个人（而不仅仅是工程师）都可以访问数据。借助 RONIN，用户可以享受协作编辑体验，同时受益于真正的无服务器可扩展性、强一致性、ACID 合规性和分片等功能。该平台提供了一系列数据库属性来增强数据的管理和可访问性。用户可以在网站上了解有关 RONIN 的更多信息，并通过社区聊天获得帮助。]]></description>
+      <guid>https://t.me/hn_summary/65632</guid>
+      <pubDate>Mon, 25 Dec 2023 18:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了滥用数学作为说服[...]的修辞武器的行为</title>
-      <link>https://t.me/hn_summary/65603</link>
-      <description><![CDATA[数学恐吓：由数据驱动 [pdf](https:/ /news.ycombinator.com/item?id=38746954)
-文章讨论了滥用数学作为修辞武器来说服公众某个想法或过程是“客观的”并且优于其他想法或过程的情况。作者特别关注增值模型（VAM）在解释教育测试数据时的误用。 VAM 被大力宣传为一种衡量教育成功的科学方法，但作者认为，许多推广该方法的人没有能力判断其有效性或局限性。文章强调了使用考试来评估教师、学校或项目的问题，包括各种因素对考试成绩的影响以及教育经验的扭曲。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65603</guid>
-      <pubDate>Mon, 25 Dec 2023 11:07:32 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者正在寻求有关 [...] 失踪的帮助</title>
+      <link>https://t.me/hn_summary/65631</link>
+      <description><![CDATA[询问 HN：我所有的 iCloud 桌面文件都消失了 
+news.ycombinator.com 上这篇文章的作者是寻求有关 iCloud 桌面上所有文件消失的帮助。他们怀疑该问题可能与挂载 iCloud 驱动器失败有关。作者对 iCloud 表示失望，认为它不可靠。他们正在寻求关于是否尝试调试或简单地从备份恢复的建议。]]></description>
+      <guid>https://t.me/hn_summary/65631</guid>
+      <pubDate>Mon, 25 Dec 2023 17:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>比 Calendly 好 10 倍是什么？</title>
-      <link>https://t.me/hn_summary/65602</link>
-      <description><![CDATA[比 Calendly 好 10 倍是什么？
-该网络内容的作者正在寻求有关添加到其项目中的功能的建议，其中涉及将日历事件管理与 Google 日历集成。他们专门寻找比 Calendly“好 10 倍”的功能。作者提到了添加聊天功能来处理事件的想法，包括 Google 日历事件。然后他们要求对此想法的反馈。内容以“圣诞快乐”的节日问候结束。]]></description>
-      <guid>https://t.me/hn_summary/65602</guid>
-      <pubDate>Mon, 25 Dec 2023 11:03:21 GMT</pubDate>
+      <title>【媒体】分析：Covid-19（SARS-CoV-2）的来源是什么？</title>
+      <link>https://t.me/hn_summary/65630</link>
+      <description><![CDATA[分析：Covid-19（SARS-CoV）的来源是什么-2)?
+对 Covid-19 (SARS-CoV-2) 来源的分析引发了人们对武汉病毒研究所 (WIV) 及其参与的质疑。武汉病毒研究所最初在疫情爆发前否认对 SARS-CoV-2 进行研究，但在疫情爆发后对其蝙蝠病毒数据库进行了更改，这表明其试图与自己保持距离。 2020年1月，武汉病毒研究所发表论文，声称发现了一种类似的冠状病毒，名为RaTG13，但实际上是他们之前发现的BtCoV/4991的重命名版本。这些差异和其他异常现象表明 WIV 努力淡化其在 Covid-19 疫情中的参与。]]></description>
+      <guid>https://t.me/hn_summary/65630</guid>
+      <pubDate>Mon, 25 Dec 2023 17:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：哪句话永久地改变了您的思维方式？</title>
-      <link>https://t.me/hn_summary/65601</link>
-      <description><![CDATA[问 HN：哪句话永久改变了你的思维方式？
-news.ycombinator.com 上这篇文章的作者是要求社区分享对他们的思想产生持久影响的名言。他们指出，这句话不必完全改变一个人的世界观，而是具有足够大的影响力，足以被记住并影响特定领域的行为。该帖子鼓励来自各种来源的回应，例如书籍、电影、博客文章或现实生活经历。]]></description>
-      <guid>https://t.me/hn_summary/65601</guid>
-      <pubDate>Mon, 25 Dec 2023 10:20:53 GMT</pubDate>
+      <title>Web 内容讨论了向网站添加 WebGL 效果的挑战，并介绍了 [...]</title>
+      <link>https://t.me/hn_summary/65629</link>
+      <description><![CDATA[逐步增强的 WebGL 镜头折射
+Web 内容讨论了向网站添加 WebGL 效果的挑战，并介绍了一个名为 r3f-scroll-rig 的库，该库允许响应式且可访问地实现 WebGL。本教程逐步介绍了使用 WebGL 增强 DOM 图像和文本渲染的过程，以及添加对滚动事件做出反应的 3D 模型。本教程还介绍了 React-Three-Fiber 生态系统中的镜头折射组件，以增强 WebGL 效果。内容提供了用于实现这些功能的代码示例和说明。 （根据 68% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65629</guid>
+      <pubDate>Mon, 25 Dec 2023 17:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者分享了他们寻找旧蓝色笔记本的经验 [...]</title>
-      <link>https://t.me/hn_summary/65600</link>
-      <description><![CDATA[我的第一个 Z80 汇编语言程序
-该网页内容的作者分享了他们寻找 1988 年旧蓝色笔记本的经历，其中包含他们的第一个 Z80 汇编语言程序。他们解释说，在 9 岁时，他们想创造游戏，但感觉受到 BASIC 语言速度缓慢的限制。然后，他们在观看父亲关于 VDP 处理器 TMS9128 编程的讲座时发现了 Z80 汇编语言编程的概念。他们很快就写了一个关于一名空手道选手与一名持刀女子战斗的游戏，并给同学们留下了深刻的印象。作者还附上了他们笔记本的图片，并计划将游戏转换为 MSX 和 Colecovision 的 tniASM v0.44。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65600</guid>
-      <pubDate>Mon, 25 Dec 2023 10:05:42 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了 20 世纪 80 年代计算未来的被遗忘的战争，以及 [...]</title>
+      <link>https://t.me/hn_summary/65628</link>
+      <description><![CDATA[工作站之战：最低出价者如何塑造当今的科技格局&lt; /a&gt;
+本文探讨了 20 世纪 80 年代一场被遗忘的计算未来战争，以及出价最低者如何赢得这场战争。作者挑战了人们普遍认为计算机随着时间的推移而发展和改进的观点，认为每一代计算机都被更简单、不太复杂的计算机所取代。这篇文章强调了计算机发展过程中特性和功能的丧失，例如丰富的文件系统、集群和群件。作者还讨论了早期计算机（例如施乐 Alto 和牛顿）中被忽视的进步，以及它们引入的激进思想和技术。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65628</guid>
+      <pubDate>Mon, 25 Dec 2023 17:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：对 Rust 风格的语言编译为 JavaScript 感兴趣吗？</title>
-      <link>https://t.me/hn_summary/65599</link>
-      <description><![CDATA[询问 HN：对 Rust 语言编译为 JavaScript 感兴趣吗？ 
-news.ycombinator.com 上这篇文章的作者是考虑开发一种受 Rust 启发的新编程语言，可编译为 JavaScript。该语言将拥有严格的类型系统，以消除与类型相关的错误，并包括代数数据类型、详尽性检查和基于特征的编程等功能。它还具有“不安全”模式来直接与外部 JavaScript/TypeScript 交互。该语言将使用选项/结果，而不是使用“空/未定义”。作者相信这种方法可以带来显着的好处，尤其是最近添加的 TypedArray 和工作线程等。他们正在寻求投入和资源来帮助该项目。]]></description>
-      <guid>https://t.me/hn_summary/65599</guid>
-      <pubDate>Mon, 25 Dec 2023 09:53:23 GMT</pubDate>
+      <title>[媒体] 受欢迎的相机零售商 B&H Photo 发布了人工智能生成的摄影指南 [...]</title>
+      <link>https://t.me/hn_summary/65627</link>
+      <description><![CDATA[B&amp;H Photo 发布了一份由冒牌货撰写的人工智能生成指南人
+受欢迎的相机零售商 B&amp;H Photo 在其 Explora 博客上以虚构作家 Alexandra Ibarra 的名义发布了人工智能生成的摄影指南。该指南的标题是“从静态到动态：摄影师的视频拍摄指南”，看起来像是由真人撰写的专家指南。然而，后来发现 Alexandra Ibarra 很可能是由 AI 生成的，因为她的个人资料图片来自 Adob​​e Stock 的 AI 生成部分。 B&amp;H 声称，使用人工智能生成的内容违反了他们的政策，该指南的发布是识别和防范此类内容的测试的一部分。该文章和个人资料已被删除。 B&amp;H 对人工智能的使用令人惊讶，并引发了人们对该公司存在理由的担忧。]]></description>
+      <guid>https://t.me/hn_summary/65627</guid>
+      <pubDate>Mon, 25 Dec 2023 16:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Zotero Android 版 Beta 版现已开放测试。</title>
-      <link>https://t.me/hn_summary/65598</link>
-      <description><![CDATA[Zotero for Android 可进行 Beta 测试
-Android 版 Zotero 的 Beta 版本现已可供测试。该应用程序允许用户同步个人和群组库、编辑项目数据和注释、将项目组织到集合中、下载和上传文件、查看 PDF 和快照以及对 PDF 进行注释。但是，还有一些功能尚未实现，例如从浏览器保存、通过标识符或条形码扫描添加项目、引文/参考书目生成以及 WebDAV 文件同步。 Beta目前限制为1000名测试者，但进一步测试后限制将增加。建议用户在安装应用程序之前备份其 Zotero 数据目录。]]></description>
-      <guid>https://t.me/hn_summary/65598</guid>
-      <pubDate>Mon, 25 Dec 2023 09:41:13 GMT</pubDate>
+      <title>Matter 智能家居标准，旨在改善用户体验和兼容性 [...]</title>
+      <link>https://t.me/hn_summary/65626</link>
+      <description><![CDATA[事情，定于 2023 年修复智能家居标准，却陷入了困境真实市场
+Matter智能家居标准旨在提高智能设备的用户体验和兼容性，但在现实市场中却面临挑战。尽管有潜在的好处，例如更容易设置和与主要平台的兼容性，Matter 设备并没有达到预期。设置 Matter 设备很困难，许多设备仍然需要设备制造商提供的特定应用程序才能实现完整功能。即使是早期采用者也发现 Matter 设备的工作效果不如预期，并且通常需要大型科技公司的设备作为桥接器或路由器。此外，一些流行的设备，如飞利浦 Hue 灯，在过渡到 Matter 后变得不太实用。总体而言，Matter 标准的实施尚未兑现其承诺。]]></description>
+      <guid>https://t.me/hn_summary/65626</guid>
+      <pubDate>Mon, 25 Dec 2023 16:38:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者反思了父亲之前在美国医疗保健系统的经历[...]</title>
-      <link>https://t.me/hn_summary/65597</link>
-      <description><![CDATA[美国不是老人的国家
-作者回顾了他们的父亲在因前列腺癌去世前在美国医疗保健系统中的经历。他们强调了高昂的治疗和药物费用、辅助生活行业的忽视，以及美国老年时常伴随的孤独和孤立。作者认为，美国对待老年人的方式是愤世嫉俗的、以利益为导向的，而且这个国家并不欢迎老年人。他们还批评美国的医疗保健系统以及社会对个人成功而非公共纽带的重视。作者的结论是，美国不是一个老年人的国家，也不是任何其他人的国家。]]></description>
-      <guid>https://t.me/hn_summary/65597</guid>
-      <pubDate>Mon, 25 Dec 2023 09:40:05 GMT</pubDate>
+      <title>[媒体]根据一份新报告，北美地区可能将面临电力短缺 [...]</title>
+      <link>https://t.me/hn_summary/65625</link>
+      <description><![CDATA[从 2024 年开始，北美大部分地区可能面临电力短缺
+一份新报告称，北美可能从 2024 年开始面临电力短缺。该报告表明，非洲大陆许多地区停电可能成为现实。这一令人震惊的预测是基于老化的基础设施和不断增长的电力需求。该报告强调需要立即采取行动对电网进行升级和现代化，以避免潜在的停电。尽管这一消息令人担忧，但它为政策制定者和能源供应商敲响了警钟，要求他们优先投资能源领域，以确保未来可靠和可持续的电力供应。]]></description>
+      <guid>https://t.me/hn_summary/65625</guid>
+      <pubDate>Mon, 25 Dec 2023 16:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
