@@ -4,7 +4,39 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 02:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 03:23:43 GMT</lastBuildDate>
+    <item>
+      <title>罗德岛复古计算协会 (RCS/RI) 是一个非营利组织，致力于 [...]</title>
+      <link>https://t.me/hn_summary/65575</link>
+      <description><![CDATA[罗德岛州复古计算协会
+罗德岛复古计算协会 (RCS/RI) 是一个非营利组织，致力于保存历史计算机并提高对其历史的认识。他们的目标是将历史系统恢复到运行状态，并作为对老式计算机硬件和软件感兴趣的用户的用户组。 RCS/RI 提供了一个通过邮件列表和网站交换信息的论坛。他们每月在普罗维登斯举行会议，并拥有一个配有办公空间、图书馆和用于修复系统的工作空间的设施。该藏品可预约参观。 RCS/RI 欢迎来自新英格兰东南部及其他地区的参与者，无需缴纳会员费或入场费。]]></description>
+      <guid>https://t.me/hn_summary/65575</guid>
+      <pubDate>Mon, 25 Dec 2023 03:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者分享了他们在美国医疗保健系统中的个人经历[...]</title>
+      <link>https://t.me/hn_summary/65574</link>
+      <description><![CDATA[美国医疗保健中的后世界末日生活
+作者分享了他们代表患有痴呆症的母亲探索美国医疗保健系统的个人经历。他们观察到，该系统碎片化，不同机构之间缺乏沟通，导致效率低下和资源浪费。作者强调了一个具体例子，多名专家花了数天时间试图确定其母亲在专业护理机构住院的承保范围，导致不必要的住院治疗以及 Medicare 和 Anthem 保险之间的混淆。他们认为，医疗保健组织内部采用系统技术运作，但缺乏透明的界面，导致个人难以驾驭该系统。作者认为，公共模式的人际交往能力在未来可能会变得越来越重要。 （根据故事文本的 66% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65574</guid>
+      <pubDate>Mon, 25 Dec 2023 03:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个人都预计经济会出现衰退。</title>
+      <link>https://t.me/hn_summary/65573</link>
+      <description><![CDATA[每个人都预计会出现经济衰退。美联储和白宫找到了出路
+美联储和白宫成功应对了通胀和潜在衰退的挑战，令许多经济学家和华尔街感到惊讶。通货膨胀率从9.1%的峰值降至3.1%，失业率处于3.7%的低位。美联储正在考虑明年降息，金融市场正处于历史高位。白宫对抗通货膨胀的努力包括扩大石油钻探和释放国家战略燃料储备。然而，关于经济如何实现“软着陆”仍存在争议，对未来挑战和威胁的担忧依然存在。]]></description>
+      <guid>https://t.me/hn_summary/65573</guid>
+      <pubDate>Mon, 25 Dec 2023 03:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]作者讲述了他们最近对巴西残余大西洋森林的探索，[...]</title>
+      <link>https://t.me/hn_summary/65572</link>
+      <description><![CDATA[探索巴西残余大西洋森林
+作者讲述了他们最近对巴西残余大西洋森林的探索，该地区以其独特的动植物群而闻名。他们对这个脆弱的生态系统中发现的生物多样性表示敬畏，强调许多物种的活动范围受到限制，以及它们因森林砍伐和农业而面临的威胁。作者还讨论了在茂密的森林中拍摄野生动物的挑战，但在体验中找到了平静和快乐。他们强调保护自然生态系统的重要性，并表示愿意放弃摄影，创造一个人与自然和谐共存的世界。]]></description>
+      <guid>https://t.me/hn_summary/65572</guid>
+      <pubDate>Mon, 25 Dec 2023 02:28:51 GMT</pubDate>
+    </item>
     <item>
       <title>news.ycombinator.com 上这篇文章的作者正在寻求社区关于 repla 的建议 [...]</title>
       <link>https://t.me/hn_summary/65571</link>
@@ -52,38 +84,6 @@ news.ycombinator.com 上这篇文章的作者是向社区寻求关于用 AMD GPU
 该项目的目的是允许用户标记他们的 GitHub 提交贡献网格。它提供了一个工具，可以使用指定的消息创建虚荣提交，然后该消息将显示在用户的 GitHub 提交贡献网格上。该项目需要 Node.js 16+，可以通过克隆存储库并使用所需消息运行提供的脚本来使用。作者建议在更新标签之前将默认分支切换回主分支，以避免删除或强制推送默认分支时出现问题。该项目的与众不同之处在于，它提供了一个简单直接的解决方案来自定义 GitHub 提交贡献网格。]]></description>
       <guid>https://t.me/hn_summary/65566</guid>
       <pubDate>Mon, 25 Dec 2023 01:27:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Blufa 的开发商 Sebastian Christiansen 宣布，该应用程序将在 ava [...]</title>
-      <link>https://t.me/hn_summary/65565</link>
-      <description><![CDATA[显示 HN：Blufa 在平安夜在 App Store 上免费&lt; /a&gt;
-Blufa 的开发商 Sebastian Christiansen 宣布该应用程序将于圣诞节前夕在 App Store 上免费提供。 Blufa 是一款不会收集用户任何数据的应用程序，以确保他们的隐私。该应用程序的隐私惯例可能会根据所使用的功能或用户的年龄而有所不同。如需了解更多信息，用户可以参考开发者的隐私政策。]]></description>
-      <guid>https://t.me/hn_summary/65565</guid>
-      <pubDate>Mon, 25 Dec 2023 01:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Snapapa 是一款免费的屏幕截图造型工具，可让您增强品牌形象 [...]</title>
-      <link>https://t.me/hn_summary/65564</link>
-      <description><![CDATA[Show HN：X 的免费屏幕截图样式工具 
-Snapapa 是一款免费的屏幕截图样式工具，可让您通过在屏幕截图中添加自定义水印来增强品牌形象。通过 Snapapa，您可以确保独特且专业的品牌形象。该工具非常适合想要使屏幕截图脱颖而出并给人留下持久印象的企业和个人。这是一种为您的视觉效果添加个人风格的巧妙而独特的方式。]]></description>
-      <guid>https://t.me/hn_summary/65564</guid>
-      <pubDate>Mon, 25 Dec 2023 01:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tidyparse 是一个为上下文无关语言提供实时语法错误纠正的工具。</title>
-      <link>https://t.me/hn_summary/65563</link>
-      <description><![CDATA[显示 HN：Tidyparse：上下文的实时语法错误纠正免费语言
-Tidyparse 是一个为上下文无关语言提供实时语法错误纠正的工具。它允许用户输入代码片段并自动更正任何语法错误。该工具用波浪形下划线突出显示无效片段，并将不可解析的片段标记为橙色。无效片段中的未知终端被标记为红色。非终端存根包含在尖括号中。该工具还提供了使用提示，例如用空格分隔标记以及针对特定场景使用“---”和“-&gt;”等保留符号。 Tidyparse 还为 CFG 中的每个非终结符添加 ε-产生式和文字。如果语法不包含名为“START”的非终结符，Tidyparse 将为每个非终结符添加它。]]></description>
-      <guid>https://t.me/hn_summary/65563</guid>
-      <pubDate>Mon, 25 Dec 2023 01:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Html.earth 是一个简单易用的网站生成器，具有各种功能 [...]</title>
-      <link>https://t.me/hn_summary/65562</link>
-      <description><![CDATA[显示 HN：Html.earth，一个简单的网站生成器
-Html.earth 是一个简单易用的网站生成器它具有各种功能，例如前台编辑器、自定义样式字段和导入/导出选项。一项独特的功能是，它可以在您键入时预览内容，并使用 localStorage 直接将内容保存在浏览器中。该工具对于博主、技术作家以及任何喜欢以 Markdown 格式写作但需要 HTML 进行发布的人特别有用。生成的网站可以托管在 Cloudflare Pages 上。]]></description>
-      <guid>https://t.me/hn_summary/65562</guid>
-      <pubDate>Mon, 25 Dec 2023 01:27:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
