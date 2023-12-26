@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Dec 2023 09:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 12:52:12 GMT</lastBuildDate>
     <item>
       <title>人工智能文本</title>
       <link>https://www.producthunt.com/posts/textr-ai</link>
@@ -104,6 +104,20 @@
       <pubDate>Tue, 26 Dec 2023 07:28:21 GMT</pubDate>
     </item>
     <item>
+      <title>html.地球</title>
+      <link>https://www.producthunt.com/posts/html-earth</link>
+      <description><![CDATA[
+            为作家提供的小型静态网站生成器
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/html-earth</guid>
+      <pubDate>Mon, 25 Dec 2023 15:57:58 GMT</pubDate>
+    </item>
+    <item>
       <title>舒服的</title>
       <link>https://www.producthunt.com/posts/habitile</link>
       <description><![CDATA[
@@ -160,34 +174,6 @@
       <pubDate>Mon, 25 Dec 2023 09:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>您的域机器人</title>
-      <link>https://www.producthunt.com/posts/your-domain-bot</link>
-      <description><![CDATA[
-            用于域监控的 Telegram 机器人
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/your-domain-bot</guid>
-      <pubDate>Mon, 25 Dec 2023 02:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>转换利奥</title>
-      <link>https://www.producthunt.com/posts/convertlyio</link>
-      <description><![CDATA[
-            利用 AI 在几秒钟内创建潜在客户生成测验渠道
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/convertlyio</guid>
-      <pubDate>Thu, 21 Dec 2023 14:02:41 GMT</pubDate>
-    </item>
-    <item>
       <title>网络传输链</title>
       <link>https://www.producthunt.com/posts/transferchain-on-web</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/transferchain-on-web</guid>
       <pubDate>Mon, 11 Dec 2023 14:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>民意调查卵石</title>
+      <link>https://www.producthunt.com/posts/pollpebble</link>
+      <description><![CDATA[
+            通过微观调查吸引客户并发现见解
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pollpebble</guid>
+      <pubDate>Tue, 05 Dec 2023 14:48:12 GMT</pubDate>
     </item>
     <item>
       <title>Mailmo 提供的 Linkedin 电子邮件查找器</title>
