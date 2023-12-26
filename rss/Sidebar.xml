@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 26 Dec 2023 03:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 06:33:26 GMT</lastBuildDate>
+    <item>
+      <title>Spotify Wrapped：每年让它火爆的 6 个心理学原理</title>
+      <link>https://growth.design/case-studies/spotify-wrapped-psychology</link>
+      <description><![CDATA[了解 Spotify 如何利用心理学打造音乐行业最受期待的年度活动之一。
+]]></description>
+      <guid>https://growth.design/case-studies/spotify-wrapped-psychology</guid>
+      <pubDate>Tue, 26 Dec 2023 04:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年：人工智能年</title>
+      <link>https://journal.everypixel.com/2023-the-year-of-ai</link>
+      <description><![CDATA[探索定义 2023 年的重要人工智能发布、有影响力的合作伙伴关系以及法律辩论。
+]]></description>
+      <guid>https://journal.everypixel.com/2023-the-year-of-ai</guid>
+      <pubDate>Tue, 26 Dec 2023 04:37:45 GMT</pubDate>
+    </item>
     <item>
       <title>响应式 SVG</title>
       <link>https://12daysofweb.dev/2023/responsive-svgs/</link>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://carbonemike.com/dynamic-pictograms-for-design-systems/</guid>
       <pubDate>Thu, 21 Dec 2023 06:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>提示刷</title>
-      <link>https://www.delcan.co/promptbrush</link>
-      <description><![CDATA[发送提示，并获得人造的非 AI 绘图作为回报。 
-]]></description>
-      <guid>https://www.delcan.co/promptbrush</guid>
-      <pubDate>Thu, 21 Dec 2023 06:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>托尼的巧克力</title>
-      <link>https://www.logodesignlove.com/tonys-chocolonely</link>
-      <description><![CDATA[Tony&#39;s Chocolonely 徽标表明了少数几个以 100% 摆脱奴隶为使命的巧克力品牌之一。
-]]></description>
-      <guid>https://www.logodesignlove.com/tonys-chocolonely</guid>
-      <pubDate>Thu, 21 Dec 2023 06:49:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
