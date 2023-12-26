@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Dec 2023 03:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 08:59:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Mu 是一个用于管理和搜索以 Maildir 格式存储在 [...] 上的电子邮件的工具。</title>
-      <link>https://t.me/hn_summary/65693</link>
-      <description><![CDATA[Maildir-utils：索引、搜索和管理 Maildir 邮箱
-Mu 是一个用于在类 Unix 系统上管理和搜索以 Maildir 格式存储的电子邮件的工具。它允许用户快速查找特定电子邮件并执行各种操作，例如查看消息、提取附件和创建新的邮件目录。 Mu 包括一个名为 mu4e 的基于 emacs 的电子邮件客户端、一个名为 mug 的简单 GUI 以及 Guile/Scheme 编程语言的绑定。该工具提供快速索引、基于各种标准的搜索功能、对加密和签名消息的支持以及用于管理电子邮件的命令行工具。 Mu 定期发布并且有完整的文档记录。它是根据 GNU GPLv3 许可的自由软件。]]></description>
-      <guid>https://t.me/hn_summary/65693</guid>
-      <pubDate>Tue, 26 Dec 2023 03:02:49 GMT</pubDate>
+      <title>[媒体]一张警察在“黑眼”节目中在斯旺西一家外卖店外逮捕一名醉酒男子的照片 [...]</title>
+      <link>https://t.me/hn_summary/65716</link>
+      <description><![CDATA[斯旺西警察逮捕醉汉的照片比作文艺复兴时期的艺术
+一张警察在“黑眼星期五”在斯旺西一家外卖店外逮捕一名醉酒男子的照片引起了广泛关注，一些人将其与文艺复兴时期的艺术和法国浪漫主义相比较。这张由迪米特里斯·莱加基斯拍摄的照片显示，三名警察试图给嫌疑人戴上手铐，一名年轻男子在自拍，一名女孩伸出舌头。该系列中的另一张照片显示了自拍者与警察争执的场景，与西奥多·杰里柯的《美杜莎之筏》进行了比较。莱加基斯对这种比较感到受宠若惊，他将捕捉如此坦率的街头摄影的秘诀描述为在正确的时间出现在正确的地点。]]></description>
+      <guid>https://t.me/hn_summary/65716</guid>
+      <pubDate>Tue, 26 Dec 2023 08:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]许多史前手印显示手指缺失。</title>
-      <link>https://t.me/hn_summary/65692</link>
-      <description><![CDATA[许多史前手印显示手指缺失。如果这不是意外怎么办？
-对史前洞穴艺术的一种新解释表明，男人和女人可能在宗教仪式期间故意被截断手指。研究人员研究了法国和西班牙 25,000 年前描绘手印的绘画，其中许多至少缺少一位数字。在过去，手指的缺失被归因于艺术许可或医疗问题。然而，考古学家马克·科拉德教授和他的团队认为，有令人信服的证据表明这些截肢是故意进行的，作为向超自然实体寻求帮助的仪式的一部分。这种做法在历史上的各个社会中都有所发现，并且至今仍在进行。]]></description>
-      <guid>https://t.me/hn_summary/65692</guid>
-      <pubDate>Tue, 26 Dec 2023 02:36:35 GMT</pubDate>
+      <title>在 news.ycombinator.com 上的这篇文章中，邀请用户分享他们最喜欢的产品 [...]</title>
+      <link>https://t.me/hn_summary/65715</link>
+      <description><![CDATA[询问 HN：分享您在 2023 年喜欢使用的产品
+在 news.ycombinator.com 上的这篇文章中，用户受邀分享 2023 年以来他们最喜欢的产品。该帖子鼓励参与者分享他们喜欢使用的任何类型的产品，无论是物理产品还是软件相关产品，无论是旧产品还是新产品。这个开放式问题允许多种回答，让读者能够一睹 2023 年吸引人们关注和钦佩的创新和令人兴奋的产品。这是一个发现可能不为人所知的新的有趣产品的绝佳机会。]]></description>
+      <guid>https://t.me/hn_summary/65715</guid>
+      <pubDate>Tue, 26 Dec 2023 08:38:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了写代码和写散文的相似之处。</title>
-      <link>https://t.me/hn_summary/65691</link>
-      <description><![CDATA[写代码和写散文是一样的&lt; br/&gt;
-这篇文章讨论了编写代码和写散文之间的相似之处。作者强调，这两个过程都需要语言、受众和焦点。他们将英语的单词数量与 PyPi 中的包数量进行比较，强调两种语言的丰富性和复杂性。作者解释了编译器的概念，指出读者的大脑在阅读散文时充当编译器。讨论了受众的重要性，作者指出软件开发人员将编译器/运行时和未来的开发人员作为他们的受众。作者还提到了使用生成式人工智能作为研究助手和编码工具。文章最后强调了环境、工具、失败以及相互学习在代码和散文写作中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/65691</guid>
-      <pubDate>Tue, 26 Dec 2023 02:23:24 GMT</pubDate>
+      <title>[媒体] 健全性检查在哪里？</title>
+      <link>https://t.me/hn_summary/65714</link>
+      <description><![CDATA[健全性检查在哪里？
+作者讲述了他们最近在 Mac 上使用 Finder 显示不准确数字的经历，例如声称在 2 TB SSD 上删除了超过 60 TB 的备份。他们还提到了之前的一次事件，Finder 显示其内部 SSD 有 83.71 GB 的可清除空间。作者强调了计算和测量中健全性检查的重要性，强调了错误的精度如何导致误导性信息。他们还提到天气预报应用程序作为错误精度的例子。作者建议 Finder 应优先考虑准确性而非精确性，并强调维护用户信任的重要性。文章以节日问候结束。]]></description>
+      <guid>https://t.me/hn_summary/65714</guid>
+      <pubDate>Tue, 26 Dec 2023 07:57:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]DreamCoder 是一种新的人工智能方法，旨在增强通用性 [...]</title>
-      <link>https://t.me/hn_summary/65690</link>
-      <description><![CDATA[DreamCoder：不断增长可概括、可解释的知识
-DreamCoder 是一种新的人工智能方法，旨在增长可概括和可解释的知识。与针对特定任务进行训练的传统人工智能系统不同，DreamCoder 从广泛的编程问题中学习，并利用这些知识来解决新问题。这种方法允许 DreamCoder 概括其知识并将其应用到不同的领域。 DreamCoder 的与众不同之处在于它能够解释其推理并提供可解释的解决方案，这使其成为人工智能研究人员和开发人员的宝贵工具。这种创新的人工智能方法有可能彻底改变该领域，并带来更加透明和易于理解的人工智能系统。]]></description>
-      <guid>https://t.me/hn_summary/65690</guid>
-      <pubDate>Tue, 26 Dec 2023 02:09:11 GMT</pubDate>
+      <title>[媒体] Croquet Corporation 宣布推出新的 Javascript 框架，用于支持网络的 3D 游戏 [...]</title>
+      <link>https://t.me/hn_summary/65713</link>
+      <description><![CDATA[槌球：实时、网络透明的 3D 游戏&lt; br/&gt;
+Croquet Corporation 在游戏开发者大会上宣布了用于网络 3D 游戏的新 Javascript 框架。该框架名为 Croquet，作为一种工具进行营销，可以更轻松地编写在互联网上无缝运行的跨平台多人游戏。然而，它的意义远不止于此。 Croquet 是一项成熟的技术，已经发展了 20 多年，建立在 1985 年首次发布的变革性技术的基础上。它结合了尖端技术和数十年来不断完善的强大理念。该框架还可以与 Unity 对话，并支持将 Rust 编译为跨平台 WASM 运行时。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65713</guid>
+      <pubDate>Tue, 26 Dec 2023 07:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据 ScamSniffer 安全研究人员的一篇博客文章，一个复杂的地穴 [...]</title>
-      <link>https://t.me/hn_summary/65689</link>
-      <description><![CDATA[Twitter 广告诈骗导致 6.3 万用户在加密货币抢劫中损失了 5900 万美元
-根据 ScamSniffer 安全研究人员的一篇博客文章，一种名为“MS Drainer”的复杂加密货币欺诈计划在过去 9 个月内已从超过 63,210 名受害者那里损失了 5900 万美元。该骗局涉及网络钓鱼网站，这些网站诱骗用户批准恶意合同，从而使诈骗者能够将资金从受害者的加密货币钱包转移到自己的钱包中。 MS Drainer 的源代码以 1,500 美元的价格出售给网络犯罪分子，还可以购买其他模块。该骗局已在 Google 和 Twitter 等在线广告平台上进行宣传，无意中为骗子提供了帮助。]]></description>
-      <guid>https://t.me/hn_summary/65689</guid>
-      <pubDate>Tue, 26 Dec 2023 02:04:03 GMT</pubDate>
+      <title>[媒体]古德斯坦定理由鲁本·古德斯坦 (Reuben Goodstein) 于 1944 年证明，该定理指出，每个古德斯坦 [...]</title>
+      <link>https://t.me/hn_summary/65712</link>
+      <description><![CDATA[古德斯坦斯定理
+鲁本·古德斯坦 (Reuben Goodstein) 于 1944 年证明了古德斯坦定理，该定理指出，每个古德斯坦序列（自然数序列）最终都终止于 0。然而，劳伦斯·柯比 (Laurence Kirby) 和杰夫·帕里斯 (Jeff Paris) 表明，它在皮亚诺算术中是无法证明的。他们引入了一种名为 Hydra 的图论九头蛇游戏，其行为与古德斯坦序列类似。他们证明，无论采用何种策略，九头蛇最终都会被杀死，但这可能需要很长时间。 Goodstein 序列使用遗传的 n 进制表示法来定义，它与普通的 n 进制表示法类似，但有一些差异。该定理及其相关概念对数理逻辑和算术有影响。 （根据故事文本的 21% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65712</guid>
+      <pubDate>Tue, 26 Dec 2023 06:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容是组织和举办为期一周的步行和谈话的指南，甚至是 [...]</title>
-      <link>https://t.me/hn_summary/65688</link>
-      <description><![CDATA[边走边说：我们所知道的一切
-网络内容是组织和开展“步行交谈”活动的指南，这是一项为期一周的活动，一小群人一起散步并进行深入交谈。作者凯文·凯利 (Kevin Kelly) 分享了他的经验，并提供了关于步行说的各个方面的建议，例如选择参与者、团体规模、持续时间和距离、膳食、隔音、中心对话、住宿、出发和到达时间、设施以及期望和成本。作者强调了设定明确期望并使所有参与者享受愉快且无压力的体验的重要性。为期一周的边走边说的费用估计约为每人 1,500 美元。 （根据故事文本的 43% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65688</guid>
-      <pubDate>Tue, 26 Dec 2023 01:44:50 GMT</pubDate>
+      <title>[媒体] 2023 年 12 月 25 日每日天文图片展示了一张令人惊叹的图像 [...]</title>
+      <link>https://t.me/hn_summary/65711</link>
+      <description><![CDATA[大教堂、山、月亮
+2023 年 12 月 25 日每日天文图片展示了苏佩加大教堂、蒙维索山和月球三重排列的令人惊叹的图像。摄影师 Valerio Minato 必须计划并等待完美的条件来拍摄这张照片。由于天气原因五次失败后，港区终于在十天前实现了他的摄影梦想。这张照片是在意大利皮埃蒙特拍摄的，尽管月亮处于新月相，但曝光时间足够长，足以捕捉到照亮月球顶部的达芬奇光芒。]]></description>
+      <guid>https://t.me/hn_summary/65711</guid>
+      <pubDate>Tue, 26 Dec 2023 06:41:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容的作者讨论了他们使用 Qt 进行移动开发的经验 [...]</title>
-      <link>https://t.me/hn_summary/65687</link>
-      <description><![CDATA[2023 年使用 Qt 移动版
-Web 内容的作者讨论了他们在 2023 年使用 Qt 进行移动开发的经验。他们强调了 Qt 的几个不足之处，包括触摸交互和 UI 性能、文件系统功能、文本交互和键盘问题、权限支持以及整体开发人员体验。作者建议Qt需要在其移动API和性能上投入更多，以改善用户体验。他们还提到，React Native 和 Flutter 可能是希望在 Android 和 iOS 上共享 UI 和代码的开发人员的替代选择。作者表示未来有兴趣尝试React Native和Flutter。]]></description>
-      <guid>https://t.me/hn_summary/65687</guid>
-      <pubDate>Tue, 26 Dec 2023 01:35:41 GMT</pubDate>
+      <title>社交媒体让我们变得愚蠢吗？</title>
+      <link>https://t.me/hn_summary/65710</link>
+      <description><![CDATA[社交媒体让我们变得愚蠢吗？
+在这篇文章中，作者探讨了社交媒体让我们变得愚蠢的观点。他们认为，社交媒体有可能通过不断的信息和互动淹没我们的大脑，从而将聪明人变成白痴。作者还讨论了社交媒体如何改变了我们形成部落和认同社会群体的方式，这可能导致对部落外的人的分裂和攻击。他们强调了回声室的危险，以及在不亲自研究的情况下就接受我们团队的信息作为事实的倾向。作者最后建议，了解社交媒体的潜在机制并意识到认知错误有助于减轻负面影响。]]></description>
+      <guid>https://t.me/hn_summary/65710</guid>
+      <pubDate>Tue, 26 Dec 2023 06:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Toastermuseum.com 是一个致力于展示大量 toas 收藏的网站 [...]</title>
-      <link>https://t.me/hn_summary/65686</link>
-      <description><![CDATA[toastermuseum.com
-Toastermuseum.com 是一个专门展示各种烤面包机的网站来自世界各地的。馆藏共586件藏品，分为网络博物馆、欧洲馆、美洲馆等不同版块。该网站对烤面包机的历史和演变进行了精彩的介绍，最后一次更新是在 2008 年 10 月。对于烤面包机爱好者和任何对家用电器设计和开发感兴趣的人来说，这是一个独特且令人惊讶的资源。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/65686</guid>
-      <pubDate>Tue, 26 Dec 2023 01:34:31 GMT</pubDate>
+      <title>[媒体] 作者讨论了他们收到的新 3D 打印机作为礼物的体验。</title>
+      <link>https://t.me/hn_summary/65709</link>
+      <description><![CDATA[开源公司的生与死
+作者讨论了他们使用作为礼物收到的新型 3D 打印机的体验。他们称赞打印机的用户友好设置和操作。然而，他们指出，围绕该打印机存在争议，特别是关于其中国起源、可选云服务以及对开源 3D 打印社区的影响。作者还讨论了许可情况以及它如何导致行业中的一些参与者（例如 Prusa）重新考虑他们的开源方法。作者认为，像他们自己的 FSL 许可证这样包含商业非竞争期的许可证是传统开源许可证的可行替代方案。他们认为，开源社区不断变化的格局需要新的方法来保护创新和用户体验。]]></description>
+      <guid>https://t.me/hn_summary/65709</guid>
+      <pubDate>Tue, 26 Dec 2023 06:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了志愿者如何在免费/自由/开源软件 (F/LOSS) 中工作加剧 [...]</title>
-      <link>https://t.me/hn_summary/65685</link>
-      <description><![CDATA[F/LOSS 中的志愿者工作如何加剧已有的压迫线
-本文讨论了免费/自由/开源软件 (F/LOSS) 中的志愿者工作如何加剧了先前存在的压迫线并导致该领域的多样性较低。作者参考了之前的研究，这些研究表明 F/LOSS 社区中存在严重的性别失衡，并强调了诸如强调编码技能和依赖长时间密集计算等因素，这些因素对女性的参与产生了不成比例的影响。作者还质疑 F/LOSS 中无偿工作的激励因素，并认为它主要有利于那些经济稳定或有能力贡献时间的人。他们认为，F/LOSS 项目缺乏多样性反映了财富和社会特权的分配。文章建议，带薪实习以及对无薪工作的认可和补偿可以帮助解决这些问题。 （根据 75% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65685</guid>
-      <pubDate>Tue, 26 Dec 2023 01:30:23 GMT</pubDate>
+      <title>[媒体]文章讨论了太阳能技术的快速发展及其潜力 [...]</title>
+      <link>https://t.me/hn_summary/65708</link>
+      <description><![CDATA[圣诞节我想要的只是每年部署 1TW 的太阳能
+本文讨论了太阳能技术的快速发展及其缓解气候变化影响的潜力。它突显了全球太阳能发电部署量呈指数级增长，预计到 2023 年底装机容量将达到 413 吉瓦。这一增长轨迹表明，雄心勃勃的太阳能部署目标（例如到 2030 年每年 551 吉瓦）可能不仅是可以实现的但超越了。文章还提到，预计到 2030 年，太阳能和风能发电将增加到全球发电量的三分之一以上。作者对未来提出了乐观的预测，包括到 2030 年每年部署 1 TW 太阳能的潜力以及全球能源市场完全依赖可再生能源。]]></description>
+      <guid>https://t.me/hn_summary/65708</guid>
+      <pubDate>Tue, 26 Dec 2023 06:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>EELBERT 是一种通过动态嵌入创建微型模型的新颖方法。</title>
-      <link>https://t.me/hn_summary/65684</link>
-      <description><![CDATA[EELBERT：通过动态嵌入的微型模型
-EELBERT 是一种通过动态嵌入创建微型模型的新颖方法。本文介绍了一种结合静态和动态嵌入的优点的新方法，以实现高效且准确的模型。通过在训练期间动态更新嵌入，EELBERT 能够适应不断变化的数据分布并提高模型性能。在各种数据集上进行的实验证明了 EELBERT 在实现最先进结果的同时显着减小模型大小的有效性。这项创新技术有可能通过在资源受限的设备上部署高效模型来彻底改变机器学习领域。]]></description>
-      <guid>https://t.me/hn_summary/65684</guid>
-      <pubDate>Tue, 26 Dec 2023 01:29:10 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，苹果公司联合创始人史蒂夫·乔布斯向 [...]</title>
+      <link>https://t.me/hn_summary/65707</link>
+      <description><![CDATA[史蒂夫·乔布斯电子邮件埃里克·施密特
+令人惊讶的是，苹果联合创始人史蒂夫·乔布斯向时任谷歌首席执行官埃里克·施密特发送了一封电子邮件。该电子邮件的内容尚未披露，但两家科技巨头之间似乎存在某种问题或分歧。乔布斯和施密特之间的这种意想不到的沟通为苹果和谷歌之间本已复杂的关系增添了一层有趣的色彩。这让我们想知道是什么引发了这封电子邮件以及他们的谈话结果是什么。]]></description>
+      <guid>https://t.me/hn_summary/65707</guid>
+      <pubDate>Tue, 26 Dec 2023 06:30:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
