@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 25 Dec 2023 18:30:25 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 27 Dec 2023 18:31:31 GMT</lastBuildDate>
+    <item>
+      <title>Jason 2023 年的最爱：应用程序、电影、电视、书籍</title>
+      <link>https://sixcolors.com/post/2023/12/jasons-favorites-of-2023-apps-movies-tv-books/</link>
+      <description><![CDATA[事情是这样的：又绕太阳一圈，又一年过去了。在日历翻到 2024 年之前——这一年如此热闹，我简直不敢相信这不是一个打字错误——我想我应该分享一些我在过去的一年里真正喜欢的东西。…]]></description>
+      <guid>https://sixcolors.com/post/2023/12/jasons-favorites-of-2023-apps-movies-tv-books/</guid>
+      <pubDate>Wed, 27 Dec 2023 16:47:16 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
       <link>https://sixcolors.com/feed-only/2023/12/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-11/</link>
@@ -48,7 +55,7 @@
     <item>
       <title>（播客）顺时针 534：来自北极的直播</title>
       <link>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</link>
-      <description><![CDATA[我们在 2023 年的欢乐科技时刻、2023 年最重要的非人工智能技术进步或发布、对 2024 年的技术展望，以及我们为假期选择的自我放纵的礼物。…]]></description>
+      <description><![CDATA[我们在 2023 年的欢乐科技时刻、2023 年最重要的非人工智能技术进步或发布、对 2024 年的技术展望，以及我们为节日选择的自我放纵的礼物。…]]></description>
       <guid>https://sixcolors.com/podcast/2023/12/clockwise-534-live-from-the-north-pole/</guid>
       <pubDate>Wed, 20 Dec 2023 20:48:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>（赞助商）操作系统更新的肮脏秘密</title>
       <link>https://sixcolors.com/feed-only/2023/12/the-dirty-secret-of-os-updates-6/</link>
-      <description><![CDATA[在最终用户设备上安装操作系统更新应该很容易。毕竟，这是每个员工都可以实现良好安全性的最简单但最有效的方法之一。 …]]></description>
+      <description><![CDATA[在最终用户设备上安装操作系统更新应该很容易。毕竟，这是每个员工都能实现良好安全性的最简单但最有效的方法之一。 …]]></description>
       <guid>https://sixcolors.com/feed-only/2023/12/the-dirty-secret-of-os-updates-6/</guid>
       <pubDate>Mon, 18 Dec 2023 17:00:20 GMT</pubDate>
     </item>
@@ -114,14 +121,6 @@
 制定管理人工智能使用的政策，员工可能会将各种敏感数据交给可能可信或不可信的工具。…]]></description>
       <guid>https://sixcolors.com/sponsor/2023/12/kolide-34/</guid>
       <pubDate>Fri, 15 Dec 2023 17:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪贴板管理器的案例</title>
-      <link>https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/</link>
-      <description><![CDATA[Pastebot 的历史记录窗口。
-上周，我亲身体验了 macOS 默认设置的强大功能，以及在现代 macOS 的二十年里，Apple 如何满足普通用户的大部分基本需求。…]]></description>
-      <guid>https://sixcolors.com/post/2023/12/the-case-for-clipboard-managers/</guid>
-      <pubDate>Thu, 14 Dec 2023 20:40:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
