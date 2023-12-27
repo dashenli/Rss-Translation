@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 27 Dec 2023 08:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 15:21:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Wayland 真的会打破一切吗？</title>
-      <link>https://t.me/hn_summary/65877</link>
-      <description><![CDATA[Wayland 真的会破坏一切吗？
-文章讨论了围绕 Wayland 及其与 X11 兼容性的争议。作者提到了 AppImage 核心开发人员 Probonopd 编写的一份文档，批评 Wayland 没有成为 X11 的直接替代品。作者认为，Wayland 的设计目的并不是直接替代，从一种过渡到另一种时，需要调整预期。文章还强调了 X11 作为开发平台的缺点以及 Qt 和 GTK 等 UI 工具包的兴起。作者认为Portals、PipeWire和Wayland协议的新兴平台提供了更好的跨桌面互操作性。向 Wayland 的过渡正在加速，但在所有必要的部分到位之前可能会经历一段尴尬的时期。]]></description>
-      <guid>https://t.me/hn_summary/65877</guid>
-      <pubDate>Wed, 27 Dec 2023 08:59:28 GMT</pubDate>
+      <title>本文讨论了 65 岁的女性辛迪·怀特 (Cindi White) 的故事，她花光了她的遗产 [...]</title>
+      <link>https://t.me/hn_summary/65899</link>
+      <description><![CDATA[她把继承的遗产花在了 TikTok 直播上
+这篇文章讨论了 65 岁女性辛迪·怀特 (Cindi White) 的故事，她将自己的遗产花在了 TikTok 直播上。感到孤独和孤立的怀特转向了 TikTok Battles，这是一种直播形式，创作者可以在其中争夺点赞和虚拟礼物。她对这个平台上瘾了，每周花费多达 50 个小时，巅峰时期每天要消耗 100 美元。文章强调了 TikTok Battles 的令人上瘾的本质，以及他们如何利用游戏化的设计元素来吸引用户花钱。它还提到了围绕社交媒体公司创造成瘾产品的争议以及一些用户面临的财务困境。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65899</guid>
+      <pubDate>Wed, 27 Dec 2023 15:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Voxweave 是一款革命性工具，可解决转录和摘要的挑战 [...]</title>
-      <link>https://t.me/hn_summary/65876</link>
-      <description><![CDATA[显示 HN：我已经构建了一个总结 3 小时的工具YouTube 视频
-Voxweave 是一款革命性工具，可解决转录和总结冗长 YouTube 视频的挑战。凭借其用户友好的平台，Voxweave 将手动转录过程转变为无缝且省时的体验。用户现在可以按照自己的节奏阅读内容，将他们从聆听的束缚中解放出来。该工具还允许用户深入研究 YouTube 视频的知识库，捕捉有价值的见解并与他人分享。此外，Voxweave 使用户能够理解、翻译并与全球受众建立联系，从而打破了语言障碍。凭借其易于使用的字幕功能，用户可以增强视频的可访问性和参与度。免费注册并开始使用 Voxweave 创建您自己的摘要。]]></description>
-      <guid>https://t.me/hn_summary/65876</guid>
-      <pubDate>Wed, 27 Dec 2023 08:58:21 GMT</pubDate>
+      <title>[媒体] Amazon Prime Video 将于 2024 年 1 月 29 日开始提供有限广告。</title>
+      <link>https://t.me/hn_summary/65898</link>
+      <description><![CDATA[Amazon Prime 视频现已包含广告
+Amazon Prime Video 将于 2024 年 1 月 29 日开始提供有限的广告。不过，该公司向订阅者保证，“广告数量将明显少于线性电视和其他流媒体电视提供商”。为了提供无广告体验，亚马逊将提供一个新选项，每月额外支付 2.99 美元。此举追随了 Disney+、Hulu 和 Netflix 等其他流媒体服务的趋势，引入了广告支持选项。 Amazon Prime 订阅的当前价格不会改变。]]></description>
+      <guid>https://t.me/hn_summary/65898</guid>
+      <pubDate>Wed, 27 Dec 2023 15:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Fontimize 是一个 Python 库和命令行应用程序，可优化字体并对其进行子集化 [...]</title>
-      <link>https://t.me/hn_summary/65875</link>
-      <description><![CDATA[显示 HN：Fontimize，将字体子集精确到您网站使用的字符&lt; /a&gt;
-Fontimize 是一个 Python 库和命令行应用程序，可优化网站字体并对其进行子集化。作者重视技术极简主义，希望通过减小字体文件大小来提高网站的性能。他们发现了字体子集的概念，其中字体文件仅包含特定网站上使用的字符。由于找不到可以生成字体子集的现有 Python 库，作者决定自己创建一个。 Fontimize 分析 HTML 和 CSS 文件，识别所使用的字符，并生成仅包含这些字符的新字体文件。该库提供了灵活的 API 和用于定制的文档。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65875</guid>
-      <pubDate>Wed, 27 Dec 2023 08:55:12 GMT</pubDate>
+      <title>[媒体]科学家利用人工智能发现了一类新型抗生素（A [...]</title>
+      <link>https://t.me/hn_summary/65897</link>
+      <description><![CDATA[科学家利用人工智能发现了 60 多年来的第一个新抗生素
+科学家利用人工智能 (AI) 发现了一类新型抗生素，用于治疗耐药金黄色葡萄球菌 (MRSA)。深度学习模型的使用使研究人员能够预测一种可以杀死耐药细菌的新化合物的活性和毒性。这一发现可能成为对抗抗生素耐药性的一个转折点，因为它是 60 多年来的第一个新型抗生素。研究人员使用扩展的数据集训练了一个广泛扩展的深度学习模型，并筛选了大约 1200 万种市售化合物。他们发现了两种有前途的候选抗生素，可以减少实验室和小鼠模型中的 MRSA 数量。]]></description>
+      <guid>https://t.me/hn_summary/65897</guid>
+      <pubDate>Wed, 27 Dec 2023 15:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>此网页内容的作者分享了他们远程控制 HP 1670G 逻辑的经验 [...]</title>
-      <link>https://t.me/hn_summary/65874</link>
-      <description><![CDATA[使用 Linux PC X 服务器远程控制 HP 1670G 逻辑分析仪&lt; /a&gt;
-该网页内容的作者分享了他们使用 Linux PC X 服务器远程控制 HP 1670G 逻辑分析仪的经验。他们解释说，逻辑分析仪是一种相对较旧的型号，运行在自定义操作系统上，可以通过外部 X Window 服务器进行操作。作者提供了如何设置远程连接的分步说明，包括为逻辑分析仪保留固定IP地址、通过X服务器查找机器的IP地址、登录路由器、填写LAN设置，并在逻辑分析仪上配置 X 窗口设置。他们还强调了安装 HP 逻辑分析仪字体文件以确保正常运行的重要性。作者承认他们的解决方案可能并不适合所有人，并建议在必要时进行故障排除。]]></description>
-      <guid>https://t.me/hn_summary/65874</guid>
-      <pubDate>Wed, 27 Dec 2023 08:34:56 GMT</pubDate>
+      <title>[媒体]本文讨论了瑞士以外的“隐私”公司的最新趋势[...]</title>
+      <link>https://t.me/hn_summary/65896</link>
+      <description><![CDATA[瑞士隐私和诚实竞争
+本文讨论了瑞士境外“隐私”公司攻击“瑞士隐私”概念的最新趋势。这些公司经常在瑞士和他们自己的国家之间进行错误的等同，因为这些国家的隐私法存在更多问题。文章强调，虽然瑞士可能与国际执法机构合作，但它制定了严格的规则来保护隐私。它还解决了有关瑞士服务机构收集和共享数据的未经证实的指控。文章的结论是，对瑞士隐私的攻击很可能是由于瑞士的隐私实际上比其他国家更好。]]></description>
+      <guid>https://t.me/hn_summary/65896</guid>
+      <pubDate>Wed, 27 Dec 2023 14:50:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讲述了丹尼尔·达特 (Daniel Dart) 的非凡故事，他是一名前科犯，从监狱 [...]</title>
-      <link>https://t.me/hn_summary/65873</link>
-      <description><![CDATA[一个人从监狱和帮派到高级金融的狂野之旅
-这篇文章讲述了丹尼尔·达特 (Daniel Dart) 的非凡故事，他曾是一名前科犯，后来从监狱和黑帮走向了金融界。尽管过去的经历充满坎坷，达特还是在伦敦经济学院获得了两个硕士学位，目前正在麻省理工学院斯隆管理学院攻读 MBA 学位。他还成立了一家由知名投资者支持的风险投资基金，并接受了金融巨头的建议。达特的旅程既令人惊讶又独特，因为他从未获得过高中文凭或学士学位。这篇文章强调了达特克服困难的韧性和决心。 （根据故事文本的 53% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65873</guid>
-      <pubDate>Wed, 27 Dec 2023 08:30:45 GMT</pubDate>
+      <title>[媒体] 项目“ec”是一个允许用户耦合文件的工具（特别是源代码 [...]</title>
+      <link>https://t.me/hn_summary/65895</link>
+      <description><![CDATA[Show HN: Ec – 一个在stand中内联构建命令的小工具-单独的源文件
+项目“ec”是一个允许用户将文件（特别是源代码）与操作或命令结合起来的工具。这些命令在文件开头的纯文本标头中定义，类似于编程语言中的注释。该工具的目的是提供一种在独立源文件中内联构建命令的方法，使编译和执行代码变得更容易。作者提到，该项目与其他项目的不同之处在于它的简单性和易用性，以及使用用户指定的参数和环境变量的能力。]]></description>
+      <guid>https://t.me/hn_summary/65895</guid>
+      <pubDate>Wed, 27 Dec 2023 14:47:50 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：您向哪个社区询问开发问题？</title>
-      <link>https://t.me/hn_summary/65872</link>
-      <description><![CDATA[询问 HN：您向哪个社区询问开发问题？
-这篇文章的作者分享了他们对 Stack Overflow 的不满，因为他们最近的问题由于基于意见而被关闭。他们认为，以他们目前的知识水平，发展中的大多数事情都是主观的，而不是事实。因此，他们正在寻找替代论坛或平台，在那里他们可以提出有关开发、架构和编码的问题，并接受其他开发人员的建议。作者提到，除非拥有大量关注者，否则 Twitter 可能并不理想，并且他们还对 Hacker News (HN) 更专注于新闻而不是建议表示怀疑。]]></description>
-      <guid>https://t.me/hn_summary/65872</guid>
-      <pubDate>Wed, 27 Dec 2023 08:20:35 GMT</pubDate>
+      <title>[媒体]《纽约时报》对 OpenAI 和微软提起诉讼，指控他们 [...]</title>
+      <link>https://t.me/hn_summary/65894</link>
+      <description><![CDATA[《纽约时报》起诉 OpenAI 和微软侵犯版权
+《纽约时报》对 OpenAI 和微软提起诉讼，指控它们侵犯版权。该报声称，这些公司使用其数百万篇文章来构建人工智能模型，这些模型现在直接与《纽约时报》的内容竞争。该诉讼称，OpenAI 和微软的语言模型可以生成与《纽约时报》内容非常相似的输出，从而损害报纸与读者的关系并剥夺其收入。 《泰晤士报》表示，已尝试与两家公司就公平赔偿进行谈判，但未能达成协议。该报正因涉嫌抄袭其作品而寻求数十亿美元的赔偿。]]></description>
+      <guid>https://t.me/hn_summary/65894</guid>
+      <pubDate>Wed, 27 Dec 2023 14:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“C++ 初学者图形库”是一个实现 Python turt [...]</title>
-      <link>https://t.me/hn_summary/65871</link>
-      <description><![CDATA[面向 C++ 初学者的图形库
-“C++初学者图形库”是一个使用SDL2在C++中实现Python海龟库的库。该库的目的是让所有编程技能水平的人都可以创建具有视觉吸引力的图形。它对于想要学习 C++ 语法和面向对象编程的初学者特别有用。该库附带了很棒的文档，并提供了演示如何使用最少的代码创建复杂图形的示例。它只有一个依赖项 SDL2，可以轻松安装在 Linux 和 Windows 上。作者鼓励贡献并提供为该项目做出贡献的指南。该库已根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/65871</guid>
-      <pubDate>Wed, 27 Dec 2023 08:19:29 GMT</pubDate>
+      <title>PrivatePDF 是一个 Web 工具，允许用户直接在其 [...]</title>
+      <link>https://t.me/hn_summary/65893</link>
+      <description><![CDATA[显示 HN：PrivatePDF – 在浏览器中运行的最小 PDF 编辑器&lt; /a&gt;
+PrivatePDF 是一款网络工具，允许用户直接在网络浏览器中快速编辑 PDF 文件，而无需将文件上传到任何地方。该工具的目的是提供一种便捷的方式来签署 PDF 合同，而无需安装额外的软件或担心文件的安全性。它支持查看 PDF、填写表单、插入文本和图像以及旋转 PDF 等基本功能。作者提到，该工具并不是要成为一个全功能的 PDF 编辑器，而是专注于最常见的用例。该项目是用 TypeScript 编写的，与 Webpack 捆绑在一起，并使用 PDF.js 和 pdf-lib 来渲染和编辑 PDF。它主要在 Windows 11 上的桌面 Chrome 上进行了测试。]]></description>
+      <guid>https://t.me/hn_summary/65893</guid>
+      <pubDate>Wed, 27 Dec 2023 13:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国核动力集装箱船：侥幸还是航运的未来？</title>
-      <link>https://t.me/hn_summary/65870</link>
-      <description><![CDATA[中国核动力集装箱船：侥幸还是航运的未来？ 
-中国船舶工业集团公司（CSSC）在中国海事会展上揭晓了全球最大集装箱船KUN-24AP集装箱船。这艘船的与众不同之处在于它的动力源：使用钍燃料循环的熔盐反应堆。该反应堆提供推动船舶所需的电力，消除有害排放，并允许更快的航行。挪威船级社DNV已对中船江南造船船厂给予认可，预示该型船舶或将很快下水。尽管航运业目前陷入困境，但这艘核动力集装箱船可能会改变游戏规则。文章还讨论了核海洋推进的优势和挑战。]]></description>
-      <guid>https://t.me/hn_summary/65870</guid>
-      <pubDate>Wed, 27 Dec 2023 08:13:20 GMT</pubDate>
+      <title>学者们向哈佛大学校长克劳丁·盖伊索要她的数据。</title>
+      <link>https://t.me/hn_summary/65892</link>
+      <description><![CDATA[学者们向哈佛大学校长克劳丁·盖伊 (Claudine Gay) 索要她的数据。她说不。
+这篇文章讨论了围绕哈佛大学校长克劳丁·盖伊拒绝向对她的研究提出质疑的学者公布她的数据的争议。作者重点介绍了 2001 年的一篇具体论文，该论文因逻辑不一致而被其他研究人员揭穿。作者还指出，尽管人们担心盖伊的发表记录有限且拒绝分享数据，但她还是于 2005 年获得了斯坦福大学的终身教职。文章建议学术界应鼓励数据共享，以维护研究的开放性和问责性原则。]]></description>
+      <guid>https://t.me/hn_summary/65892</guid>
+      <pubDate>Wed, 27 Dec 2023 13:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Captitles 是一款备受赞誉的技术剧场工具，它彻底改变了 [...]</title>
-      <link>https://t.me/hn_summary/65869</link>
-      <description><![CDATA[技术剧场的工具和应用
-Captitles 是一款备受赞誉的技术戏剧工具，它彻底改变了字幕制作过程。它受到了世界各地戏剧专业人士的好评，他们称赞其专业性、准确性和用户友好的界面。人工智能驱动的脚本转换功能尤其令人印象深刻，为舞台经理节省了无数时间。该工具也是多功能的，可以为照明设计师无缝同步灯光和字幕。总的来说，Captitles 是任何想要增强字幕和包容性的剧院的必备工具。]]></description>
-      <guid>https://t.me/hn_summary/65869</guid>
-      <pubDate>Wed, 27 Dec 2023 07:56:08 GMT</pubDate>
+      <title>[媒体]《纽约时报》对微软和 OpenAI 提起诉讼，指控他们 [...]</title>
+      <link>https://t.me/hn_summary/65891</link>
+      <description><![CDATA[《纽约时报》起诉微软和 OpenAI 侵犯版权
+《纽约时报》对微软和 OpenAI 提起诉讼，指控它们侵犯版权。该诉讼围绕生成人工智能技术的使用展开，该技术对新闻出版行业的未来具有重大影响。 《泰晤士报》声称，两家公司未经许可使用其内容来开发其人工智能产品，例如 OpenAI 的 ChatGPT 和微软的 Copilot。据称，这些工具利用了数百万条《纽约时报》内容来生成对用户查询的响应。这场官司凸显了人工智能与版权法之间的复杂关系，并可能对行业产生深远的影响。]]></description>
+      <guid>https://t.me/hn_summary/65891</guid>
+      <pubDate>Wed, 27 Dec 2023 13:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了敌对政府抢夺美国公民身份的惊人趋势[...]</title>
-      <link>https://t.me/hn_summary/65868</link>
-      <description><![CDATA[抢夺美国公民：敌对政府的新工具&lt; br/&gt;
-文章讨论了敌对政府抢夺美国公民作为恐吓和谈判工具的令人震惊的趋势。特朗普政府用美国人质照片制作棒球风格的卡片并转交给拜登政府的做法凸显了这个问题。这种古老的做法已成为 21 世纪的重大挑战，对海外美国公民的安全构成威胁。文章没有提及任何争议或令人惊讶的内容。]]></description>
-      <guid>https://t.me/hn_summary/65868</guid>
-      <pubDate>Wed, 27 Dec 2023 07:54:02 GMT</pubDate>
+      <title>[媒体]此网页内容是一组针对经济主题的 Reddit 子版块的指导方针和规则。</title>
+      <link>https://t.me/hn_summary/65890</link>
+      <description><![CDATA[扎克伯格、贝索斯、盖茨。每个白手起家的亿万富翁背后都有一个有钱的父亲
+该网络内容是一组针对经济主题的 Reddit 子版块的指导方针和规则。 Reddit 子版块允许讨论与经济相关的各种主题，包括市场新闻、商业收益、投资理念和经济幽默。内容强调不重复发布、友好有趣以及避免垃圾邮件举报的重要性。它还警告不要破坏讨论、抹黑用户或消息来源以及发布有关股票市场的旧材料。内容包括 Reddit 子版块中关于政治和经济意义的置顶帖。]]></description>
+      <guid>https://t.me/hn_summary/65890</guid>
+      <pubDate>Wed, 27 Dec 2023 13:40:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

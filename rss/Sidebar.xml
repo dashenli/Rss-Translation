@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 27 Dec 2023 12:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 15:26:46 GMT</lastBuildDate>
+    <item>
+      <title>容器样式查询</title>
+      <link>https://12daysofweb.dev/2023/container-style-queries/</link>
+      <description><![CDATA[通过查询自定义属性及其值来探索处理 CSS 的新方法。
+]]></description>
+      <guid>https://12daysofweb.dev/2023/container-style-queries/</guid>
+      <pubDate>Wed, 27 Dec 2023 12:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>视图转换 API 和令人愉悦的 UI 动画</title>
+      <link>https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</link>
+      <description><![CDATA[View Transitions API 是一个新的但改变游戏规则的功能。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</guid>
+      <pubDate>Wed, 27 Dec 2023 12:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>栗原香织 (Kaori Kurihara) 令人难以置信的细致陶瓷</title>
+      <link>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</link>
+      <description><![CDATA[优雅的花瓣、扇形扇形和种子般的纹理覆盖着 Kaori Kurihara 异想天开的陶瓷雕塑。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</guid>
+      <pubDate>Wed, 27 Dec 2023 12:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>细节决定成败</title>
+      <link>https://www.htmhell.dev/adventcalendar/2023/23/</link>
+      <description><![CDATA[查看公开小部件标记。
+]]></description>
+      <guid>https://www.htmhell.dev/adventcalendar/2023/23/</guid>
+      <pubDate>Wed, 27 Dec 2023 12:45:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最佳书籍封面设计</title>
+      <link>https://kottke.org/23/12/the-best-book-cover-designs-of-2023</link>
+      <description><![CDATA[我喜欢好的书籍封面设计。正如我去年所写：书籍封面是我一直以来最喜欢的设计对象之一
+]]></description>
+      <guid>https://kottke.org/23/12/the-best-book-cover-designs-of-2023</guid>
+      <pubDate>Wed, 27 Dec 2023 12:40:14 GMT</pubDate>
+    </item>
     <item>
       <title>《刺客信条》游戏如何鼓励玩家使用跑酷？</title>
       <link>https://uxdesign.cc/how-do-assassins-creed-games-encourage-players-to-use-parkour-66841e32ee5e</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://brandguide.page/</guid>
       <pubDate>Mon, 25 Dec 2023 06:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>让它下雪吧 – 12 天的 Web 组件</title>
-      <link>https://hawkticehurst.com/writing/12-days-of-web-components/day-1/</link>
-      <description><![CDATA[探索 Web 组件世界的一系列互动帖子的第一天。
-]]></description>
-      <guid>https://hawkticehurst.com/writing/12-days-of-web-components/day-1/</guid>
-      <pubDate>Mon, 25 Dec 2023 06:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 CSS 视口单位不能解决经典的滚动条问题</title>
-      <link>https://www.smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</link>
-      <description><![CDATA[我们中的许多人一直使用 width: 100vw 作为将元素宽度设置为视口完整宽度的方法。 
-]]></description>
-      <guid>https://www.smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</guid>
-      <pubDate>Fri, 22 Dec 2023 07:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 性能入门</title>
-      <link>https://www.htmhell.dev/adventcalendar/2023/14/</link>
-      <description><![CDATA[网络性能可能非常棘手。我提到这一点是为了让您在遇到困难或难以找出问题时不会灰心丧气。
-]]></description>
-      <guid>https://www.htmhell.dev/adventcalendar/2023/14/</guid>
-      <pubDate>Fri, 22 Dec 2023 07:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Material Theme Builder 2.0 更新的主题体验</title>
-      <link>https://material.io/blog/material-theme-builder-2-color-match</link>
-      <description><![CDATA[通过包括颜色匹配在内的重大更新来庆祝 MTB 两周年。
-]]></description>
-      <guid>https://material.io/blog/material-theme-builder-2-color-match</guid>
-      <pubDate>Fri, 22 Dec 2023 06:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 解释为何放弃 Figma 交易</title>
-      <link>https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder</link>
-      <description><![CDATA[该交易本周破裂。
-]]></description>
-      <guid>https://www.theverge.com/2023/12/20/24008189/adobe-figma-deal-eu-explained-decoder</guid>
-      <pubDate>Fri, 22 Dec 2023 06:51:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
