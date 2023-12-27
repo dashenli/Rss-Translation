@@ -4,7 +4,7 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Wed, 27 Dec 2023 18:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 21:20:19 GMT</lastBuildDate>
     <item>
       <title>2024 年 1 月推出的 PlayStation Plus 游戏已公布</title>
       <link>https://www.ign.com/articles/playstation-plus-games-for-january-2024-announced</link>
@@ -46,6 +46,13 @@
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/all-final-fantasy-16-hunt-board-locations</guid>
       <pubDate>Wed, 27 Dec 2023 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最佳 PC 控制器</title>
+      <link>https://www.ign.com/articles/best-pc-controller</link>
+      <description><![CDATA[我们都喜欢我们的鼠标和键盘，但它并不适合所有情况。对于那些需要游戏手柄的人来说，这里是我们最好的电脑游戏控制器的列表。]]></description>
+      <guid>https://www.ign.com/articles/best-pc-controller</guid>
+      <pubDate>Wed, 27 Dec 2023 12:26:38 GMT</pubDate>
     </item>
     <item>
       <title>《辐射 4》的“DLC 大小模组”《辐射伦敦》在 Prime Video Show 附近获得了新的发布日期</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/how-arizona-sunshine-2-ups-the-vr-zombie-survival-ante</guid>
       <pubDate>Mon, 25 Dec 2023 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《博德之门 3》同伴和浪漫指南</title>
-      <link>https://www.ign.com/articles/baldurs-gate-3-companions-and-romance-guide</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/baldurs-gate-3-companions-and-romance-guide</guid>
-      <pubDate>Mon, 25 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
