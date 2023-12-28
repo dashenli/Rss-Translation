@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 27 Dec 2023 21:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 02:10:21 GMT</lastBuildDate>
+    <item>
+      <title>拯救我们的图书馆：Ari Farley 的 GIPHY 艺术问答</title>
+      <link>https://medium.com/giphy/save-our-libraries-a-giphy-arts-q-a-with-ari-farley-0a17b1ea6d1b</link>
+      <description><![CDATA[2021 年，田纳西州艺术家 Ari Farley 面临一个改变人生的决定：她是否应该辞去科学营的工作，全职追求艺术？
+]]></description>
+      <guid>https://medium.com/giphy/save-our-libraries-a-giphy-arts-q-a-with-ari-farley-0a17b1ea6d1b</guid>
+      <pubDate>Thu, 28 Dec 2023 00:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年图标设计趋势</title>
+      <link>https://shakuro.com/blog/icon-design-trends-for-2024</link>
+      <description><![CDATA[发现 2024 年最新的图标设计趋势。
+]]></description>
+      <guid>https://shakuro.com/blog/icon-design-trends-for-2024</guid>
+      <pubDate>Thu, 28 Dec 2023 00:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年阅读次数最多的项目</title>
+      <link>https://the-brandidentity.com/resource/from-identities-for-a-bakery-to-the-milanese-orchestra-heres-our-most-read-projects-from-2023</link>
+      <description><![CDATA[从面包店的身份到米兰交响乐团，以下是我们 2023 年阅读次数最多的项目。
+]]></description>
+      <guid>https://the-brandidentity.com/resource/from-identities-for-a-bakery-to-the-milanese-orchestra-heres-our-most-read-projects-from-2023</guid>
+      <pubDate>Thu, 28 Dec 2023 00:29:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 有多大？</title>
+      <link>https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/</link>
+      <description><![CDATA[几年前，当我开始撰写有关“分母问题”的文章时，我对这个问题产生了兴趣。
+]]></description>
+      <guid>https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/</guid>
+      <pubDate>Thu, 28 Dec 2023 00:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最佳电影海报</title>
+      <link>https://kottke.org/23/12/the-best-movie-posters-of-2023</link>
+      <description><![CDATA[我没有购买电影海报的习惯，但我今年买了一张——为了一部根本不存在的电影。
+]]></description>
+      <guid>https://kottke.org/23/12/the-best-movie-posters-of-2023</guid>
+      <pubDate>Thu, 28 Dec 2023 00:26:49 GMT</pubDate>
+    </item>
     <item>
       <title>容器样式查询</title>
       <link>https://12daysofweb.dev/2023/container-style-queries/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://growth.design/case-studies/spotify-wrapped-psychology</guid>
       <pubDate>Tue, 26 Dec 2023 04:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年：人工智能年</title>
-      <link>https://journal.everypixel.com/2023-the-year-of-ai</link>
-      <description><![CDATA[探索定义 2023 年的重要人工智能发布、有影响力的合作伙伴关系以及法律辩论。
-]]></description>
-      <guid>https://journal.everypixel.com/2023-the-year-of-ai</guid>
-      <pubDate>Tue, 26 Dec 2023 04:37:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式 SVG</title>
-      <link>https://12daysofweb.dev/2023/responsive-svgs/</link>
-      <description><![CDATA[扩展您使用 SVG 的知识，以获得可扩展的响应式体验。
-]]></description>
-      <guid>https://12daysofweb.dev/2023/responsive-svgs/</guid>
-      <pubDate>Mon, 25 Dec 2023 07:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应咏叹调</title>
-      <link>https://react-spectrum.adobe.com/react-aria/index.html</link>
-      <description><![CDATA[使用自定义样式制作世界一流的可访问组件。
-]]></description>
-      <guid>https://react-spectrum.adobe.com/react-aria/index.html</guid>
-      <pubDate>Mon, 25 Dec 2023 07:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>shadcn/ui 剖析</title>
-      <link>https://manupa.dev/blog/anatomy-of-shadcn-ui</link>
-      <description><![CDATA[shadcn/ui 组件不是作为 npm 包分发，而是通过 CLI 交付。
-]]></description>
-      <guid>https://manupa.dev/blog/anatomy-of-shadcn-ui</guid>
-      <pubDate>Mon, 25 Dec 2023 07:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>品牌指南</title>
-      <link>https://brandguide.page/</link>
-      <description><![CDATA[来自世界各地的手工策划品牌指南。
-]]></description>
-      <guid>https://brandguide.page/</guid>
-      <pubDate>Mon, 25 Dec 2023 06:58:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
