@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Thu, 28 Dec 2023 15:25:04 GMT</lastBuildDate>
-    <item>
-      <title>令人惊叹的 3D AIGC</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-3d-aigc</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-3d-aigc</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>马特·退克</title>
-      <link>https://www.opensourceagenda.com/projects/mattn-backoff</link>
-      <description><![CDATA[cron 的回退实用程序]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mattn-backoff</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>法斯</title>
-      <link>https://www.opensourceagenda.com/projects/ffaas</link>
-      <description><![CDATA[由 WASM 提供支持的快速功能即服务平台]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ffaas</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:03 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Dec 2023 18:31:10 GMT</lastBuildDate>
     <item>
       <title>私人PDF</title>
       <link>https://www.opensourceagenda.com/projects/private-pdf</link>
       <description><![CDATA[PrivatePDF 是一款免费的网络工具，可让您在网络浏览器中快速编辑 PDF，而无需在任何地方上传任何内容。]]></description>
       <guid>https://www.opensourceagenda.com/projects/private-pdf</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:03 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>空投Plus</title>
-      <link>https://www.opensourceagenda.com/projects/airdropplus</link>
-      <description><![CDATA[使用 Python 和快捷指令实现的 Windows 和 iOS 设备之间互传文件和剪贴板同步]]></description>
-      <guid>https://www.opensourceagenda.com/projects/airdropplus</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>UE下载图片</title>
-      <link>https://www.opensourceagenda.com/projects/uedownloadimages</link>
-      <description><![CDATA[UE5 下载图像插件。用于缓存和多下载图像，而不是从虚幻引擎下载图像蓝图 API。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/uedownloadimages</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座 VS GPT4V</title>
-      <link>https://www.opensourceagenda.com/projects/gemini-vs-gpt4v</link>
+      <title>令人惊叹的 3D AIGC</title>
+      <link>https://www.opensourceagenda.com/projects/awesome-3d-aigc</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gemini-vs-gpt4v</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:02 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/awesome-3d-aigc</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:09 GMT</pubDate>
     </item>
     <item>
       <title>普林斯顿计算成像 NSF</title>
       <link>https://www.opensourceagenda.com/projects/princeton-computational-imaging-nsf</link>
       <description><![CDATA[论文的官方代码存储库：“用于突发图像融合的神经样条场和层分离”]]></description>
       <guid>https://www.opensourceagenda.com/projects/princeton-computational-imaging-nsf</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:02 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>分类器分数蒸馏</title>
-      <link>https://www.opensourceagenda.com/projects/classifier-score-distillation</link>
+      <title>马特·退克</title>
+      <link>https://www.opensourceagenda.com/projects/mattn-backoff</link>
+      <description><![CDATA[cron 的回退实用程序]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mattn-backoff</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>法斯</title>
+      <link>https://www.opensourceagenda.com/projects/ffaas</link>
+      <description><![CDATA[由 WASM 提供支持的快速功能即服务平台]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ffaas</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>空投Plus</title>
+      <link>https://www.opensourceagenda.com/projects/airdropplus</link>
+      <description><![CDATA[使用 Python 和快捷指令实现的 Windows 和 iOS 设备之间互传文件和剪贴板同步]]></description>
+      <guid>https://www.opensourceagenda.com/projects/airdropplus</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>UE下载图片</title>
+      <link>https://www.opensourceagenda.com/projects/uedownloadimages</link>
+      <description><![CDATA[UE5 下载图像插件。用于缓存和多下载图像，而不是从虚幻引擎下载图像蓝图 API。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/uedownloadimages</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>双子座 VS GPT4V</title>
+      <link>https://www.opensourceagenda.com/projects/gemini-vs-gpt4v</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/classifier-score-distillation</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:01 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/gemini-vs-gpt4v</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:07 GMT</pubDate>
     </item>
     <item>
       <title>艾语音克隆</title>
       <link>https://www.opensourceagenda.com/projects/ai-voice-cloning</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/ai-voice-cloning</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:01 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:06 GMT</pubDate>
     </item>
     <item>
       <title>BemiHQ 棱镜</title>
       <link>https://www.opensourceagenda.com/projects/bemihq-prisma</link>
       <description><![CDATA[Prisma 自动数据更改跟踪]]></description>
       <guid>https://www.opensourceagenda.com/projects/bemihq-prisma</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flipper 零文件</title>
-      <link>https://www.opensourceagenda.com/projects/flipper-zero-files</link>
-      <description><![CDATA[来自各种来源的专门针对 Flipper Zero 设备的文件集合（正在进行中）&lt; /p&gt;]]></description>
-      <guid>https://www.opensourceagenda.com/projects/flipper-zero-files</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:00 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:06 GMT</pubDate>
     </item>
     <item>
       <title>威星</title>
       <link>https://www.opensourceagenda.com/projects/vstar</link>
       <description><![CDATA[PyTorch 实现“V*：引导视觉搜索作为多模式法学硕士的核心机制”]]></description>
       <guid>https://www.opensourceagenda.com/projects/vstar</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:00 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:05 GMT</pubDate>
     </item>
     <item>
       <title>托比·德·法尔科</title>
       <link>https://www.opensourceagenda.com/projects/tobi-de-falco</link>
       <description><![CDATA[增强您的 Django 开发人员体验：现代 Django 开发人员的 CLI 和指南。]]></description>
       <guid>https://www.opensourceagenda.com/projects/tobi-de-falco</guid>
-      <pubDate>Thu, 28 Dec 2023 15:25:00 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>分类器分数蒸馏</title>
+      <link>https://www.opensourceagenda.com/projects/classifier-score-distillation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/classifier-score-distillation</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:05 GMT</pubDate>
     </item>
     <item>
       <title>热术语</title>
       <link>https://www.opensourceagenda.com/projects/thermterm</link>
       <description><![CDATA[ThermTerm：基于 ESP32 构建的开源热泵控制器和家庭自动化终端]]></description>
       <guid>https://www.opensourceagenda.com/projects/thermterm</guid>
-      <pubDate>Thu, 28 Dec 2023 15:24:59 GMT</pubDate>
+      <pubDate>Thu, 28 Dec 2023 18:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flipper 零文件</title>
+      <link>https://www.opensourceagenda.com/projects/flipper-zero-files</link>
+      <description><![CDATA[来自各种来源的专门针对 Flipper Zero 设备的文件集合（正在进行中）&lt; /p&gt;]]></description>
+      <guid>https://www.opensourceagenda.com/projects/flipper-zero-files</guid>
+      <pubDate>Thu, 28 Dec 2023 18:31:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
