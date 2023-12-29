@@ -4,7 +4,27 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 29 Dec 2023 03:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 06:32:59 GMT</lastBuildDate>
+    <item>
+      <title>利用技术进行同行评审</title>
+      <link>https://feed.indiehackers.world/post/321540c294</link>
+      <description><![CDATA[发表后审查。作者允许在出版后进行评论。它为未来的内容改进提供了见解。 
+在教育环境中，机构必须培训学生如何进行评论。他们需要提供遵循的指导方针并提供足够的学习时间。教育者必须在整个学习过程中提供指导并提供实时反馈。 
+结论
+在同行评审过程中利用技术可以使整个过程顺利进行。评论为作家提供见解并有助于提高写作技巧。传统上，学生利用面对面的讨论。今天，他们连接到反馈平台并讨论不同类型的内容。评论使作者能够识别抄袭并利用自动化。评审策略包括公开讨论和发表后评审。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/321540c294</guid>
+      <pubDate>Fri, 29 Dec 2023 05:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>接管电子邮件之爱：2023 年回顾</title>
+      <link>https://feed.indiehackers.world/post/097d3c5dab</link>
+      <description><![CDATA[感谢您的阅读，并为 Rob 喝彩，让我有机会让电子邮件之爱保持活力。
+祝大家新年快乐。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/097d3c5dab</guid>
+      <pubDate>Fri, 29 Dec 2023 05:02:30 GMT</pubDate>
+    </item>
     <item>
       <title>掌握 Shopify 营销：十大策略揭晓</title>
       <link>https://feed.indiehackers.world/post/b22fedc035</link>
@@ -160,40 +180,6 @@ https://vocabminer.com/
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ac15ec3b63</guid>
       <pubDate>Thu, 28 Dec 2023 15:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找要学习的西班牙语新单词</title>
-      <link>https://feed.indiehackers.world/post/ed77b935a6</link>
-      <description><![CDATA[我想要一种简单而有趣的方式来查找西班牙语新单词，所以我构建了这个工具！其工作原理如下：
-
-您输入文本（即 YouTube 视频的文字记录）
-您添加任何忽略词（即“vos、vas、manzana”）
-您开始挖矿
-
-最后，它会向您显示您挖掘的新单词以及它们出现的上下文。
-尝试一下，让我知道你的想法！
-https://vocabminer.com/
-感谢 @tadscritch 帮助我解决这个问题！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ed77b935a6</guid>
-      <pubDate>Thu, 28 Dec 2023 15:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找要学习的西班牙语新单词</title>
-      <link>https://feed.indiehackers.world/post/5403b6f401</link>
-      <description><![CDATA[我想要一种简单而有趣的方式来查找西班牙语新单词，所以我构建了这个工具！其工作原理如下：
-
-您输入文本（即 YouTube 视频的文字记录）
-您添加任何忽略词（即“vos、vas、manzana”）
-您开始挖矿
-
-最后，它会向您显示您挖掘的新单词以及它们出现的上下文。
-尝试一下，让我知道你的想法！
-https://vocabminer.com/
-感谢 @tadscritch 帮助我解决这个问题！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5403b6f401</guid>
-      <pubDate>Thu, 28 Dec 2023 15:19:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
