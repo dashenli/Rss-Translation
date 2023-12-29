@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:29:51 GMT</lastBuildDate>
+    <item>
+      <title>《博德之门 3》展现了 D&D 的魔力</title>
+      <link>https://www.wired.com/2023/12/geeks-guide-baldurs-gate-3/</link>
+      <description><![CDATA[尽管存在缺陷，《博德之门 3》仍然是一次令人惊叹的体验，也是一种文化现象。]]></description>
+      <guid>https://www.wired.com/2023/12/geeks-guide-baldurs-gate-3/</guid>
+      <pubDate>Fri, 29 Dec 2023 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>CES 2024 预览：为人工智能“海啸”做好准备</title>
       <link>https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[从不修边幅的青少年性喜剧到敢于与众不同的传记片，2023 年对于那些不知何故被忽视的精彩电影来说是重要的一年。以下是如何对所有内容进行流式传输。]]></description>
       <guid>https://www.wired.com/story/best-movies-you-missed-in-2023/</guid>
       <pubDate>Wed, 27 Dec 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个聪明的新想法可以解决 AirTag 跟踪问题，同时最大限度地保护隐私</title>
-      <link>https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/</link>
-      <description><![CDATA[苹果更新了其位置跟踪系统，试图在保护隐私的同时减少 AirTag 的滥用。研究人员认为他们找到了更好的平衡。]]></description>
-      <guid>https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/</guid>
-      <pubDate>Wed, 27 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:31:20 GMT</lastBuildDate>
+    <item>
+      <title>集体#802</title>
+      <link>https://tympanus.net/codrops/collective/collective-802/</link>
+      <description><![CDATA[实时模拟流体、火焰和烟雾 * AI 超现实主义 * Web 组件阅读列表]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-802/</guid>
+      <pubDate>Fri, 29 Dec 2023 16:48:53 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站综述 #54</title>
       <link>https://tympanus.net/codrops/2023/12/29/inspirational-websites-roundup-54/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何在 Three.js 中构建粒子音乐可视化工具，其技术涵盖音频同步和 3D 视觉效果，其灵感来自 ARKx 为 Coala Music 网站所做的工作。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/19/creating-audio-reactive-visuals-with-dynamic-particles-in-three-js/</guid>
       <pubDate>Tue, 19 Dec 2023 13:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#800</title>
-      <link>https://tympanus.net/codrops/collective/collective-800/</link>
-      <description><![CDATA[制作嘈杂的 SVG * 独家手风琴 * CSS Wrapped 2023]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-800/</guid>
-      <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,37 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:29:44 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 将在中国发布速度较慢的 RTX 4090，以遵守美国的限制</title>
+      <link>https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Tom Warren / The Verge
+
+Nvidia 正在推出一款专门针对中国的显卡，以遵守美国的出口管制。在Nvidia中文版网站的产品页面中，芯片制造商推出了 RTX 4090D：这款 GPU 的性能不如其在其他地方销售的旗舰 RTX 4090。
+RTX 4090D 的 CUDA 核心数量少于 RTX 4090 对应产品，最高点为 14,592，而不是 16,384。它还具有略低的功耗，为 425W，而不是 450W。 Nvidia 发言人 Benjamin Berraondo 在给 The Verge 的电子邮件声明中表示，尽管这两个版本的芯片的大多数其他规格保持不变，但 RTX 4090D “在游戏和创作方面仍然慢了 5% 左右”。 em&gt;.
+
+
+图片：英伟达中国
+
+Nvidia 在 美国收紧高端产品出口限制芯片运往中国。新的限制不仅阻止 Nvidia 销售 “GeForce RTX 4090 D 的设计完全符合美国政府的出口管制，”Berraondo 表示，并补充说该公司在开发该芯片时“与美国政府广泛合作”。
+
+
+图片：英伟达中国
+
+RTX 4090D 将于 1 月份在中国上市，售价为 12,999 日元（约合 1,836 美元）。它的发布可能有助于平息中国对强大显卡日益增长的需求，据报道，这导致了 国内一些工厂拆除并重新利用被禁止的 RTX 4090 用于 AI。
+美国东部时间 12 月 29 日下午 1:13 更新：添加了 Nvidia 的声明。]]></description>
+      <guid>https://www.theverge.com/2023/12/29/24018799/nvidia-4090d-china-slower-us-sanctions</guid>
+      <pubDate>Fri, 29 Dec 2023 17:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>第四代 Echo 和最新的 Echo Show 8 最高可享受 50% 的折扣</title>
+      <link>https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2023/12/29/24017751/amazon-echo-show-8-oneplus-mechanical-keyboard-81-pro-apple-ipad-deal-sale</guid>
+      <pubDate>Fri, 29 Dec 2023 16:04:54 GMT</pubDate>
+    </item>
     <item>
       <title>法官裁定埃隆·马斯克的 X 无法绕过加州的内容审核法</title>
       <link>https://www.theverge.com/2023/12/29/24018645/x-twitter-elon-musk-content-moderation-law-california-decision</link>
@@ -134,27 +164,6 @@ FDA 测试的补充剂之一。
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to</guid>
       <pubDate>Thu, 28 Dec 2023 19:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Watch 禁令：你需要知道的一切</title>
-      <link>https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Amelia Holowaty Krales / The Verge
-
-由于专利纠纷，Apple 在美国销售 Watch Series 9 和 Ultra 2 的能力遇到了麻烦 - 以下是所有最新消息。 专利侵权案件为 &lt; a href=&quot;https://www.theverge.com/2023/12/18/24006080/apple-watch-ban-series-9-ultra-2-itc-import&quot;&gt;敦促苹果停止销售其两款最最新的 Apple Watch 型号、Series 9 和 Ultra 2。
-自 12 月 21 日起，其网站冻结了销售，并且在禁令实施前，它们从苹果实体店货架上消失了12月26日正式生效。 Apple 正在对裁决提出上诉，截至 12 月 27 日，该禁令 已暂时暂停，允许恢复手表销售Apple Store 零售店和Apple.com。
-此举是为了回应美国国际贸易委员会颁布的进口禁令，该委员会于 10 月裁定Apple 侵犯了医疗设备制造商 Masimo 获得的脉搏血氧测定技术专利。这意味着苹果无法再在美国进口和销售最新的 Apple Watch 型号。该公司已经在尝试 提出避免禁令的解决方案，但争议彻底解决可能需要一段时间。 
-如果您想了解 Apple 法律诉讼的所有最新动态，请查看以下新闻。]]></description>
-      <guid>https://www.theverge.com/24009254/apple-watch-itc-ban-patent-dispute</guid>
-      <pubDate>Thu, 28 Dec 2023 18:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Masimo 认为它可以挑战苹果</title>
-      <link>https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2023/12/28/24016913/apple-patent-dispute-masimo-lagemo-true-wearables</guid>
-      <pubDate>Thu, 28 Dec 2023 18:42:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
