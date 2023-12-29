@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 28 Dec 2023 21:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 02:01:48 GMT</lastBuildDate>
+    <item>
+      <title>Hexcodle：每日十六进制代码猜测游戏！</title>
+      <link>https://hexcodle.com/</link>
+      <description><![CDATA[你能猜出今天的十六进制颜色吗？挑战您的色彩直觉并使用 Hexcodle 解码十六进制！
+]]></description>
+      <guid>https://hexcodle.com/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年我学到的 52 件事</title>
+      <link>https://kenthendricks.com/52-things-i-learned-in-2023/</link>
+      <description><![CDATA[以下是我今年学到的一些最有趣的事情。
+]]></description>
+      <guid>https://kenthendricks.com/52-things-i-learned-in-2023/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:32:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用基于日期的 CSS 让旧网页 *看起来* 旧</title>
+      <link>https://shkspr.mobi/blog/2023/12/using-date-based-css-to-make-old-web-pages-look-old/</link>
+      <description><![CDATA[您怎么知道您正在查看旧网站？
+]]></description>
+      <guid>https://shkspr.mobi/blog/2023/12/using-date-based-css-to-make-old-web-pages-look-old/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年公共领域日</title>
+      <link>https://web.law.duke.edu/cspd/publicdomainday/2024/</link>
+      <description><![CDATA[2024 年 1 月 1 日是公共领域日：1928 年的作品向所有人开放，1923 年的录音也是如此！
+]]></description>
+      <guid>https://web.law.duke.edu/cspd/publicdomainday/2024/</guid>
+      <pubDate>Thu, 28 Dec 2023 22:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果沃霍尔在 Figma 中创建设计代币会怎样？</title>
+      <link>https://uxdesign.cc/warhol-design-tokens-3acd49431484?sk=226009a6ff7eb6e198cfa926727b5901</link>
+      <description><![CDATA[关于第 2 层颜色标记命名约定的思想实验。
+]]></description>
+      <guid>https://uxdesign.cc/warhol-design-tokens-3acd49431484?sk=226009a6ff7eb6e198cfa926727b5901</guid>
+      <pubDate>Thu, 28 Dec 2023 22:25:41 GMT</pubDate>
+    </item>
     <item>
       <title>拯救我们的图书馆：Ari Farley 的 GIPHY 艺术问答</title>
       <link>https://medium.com/giphy/save-our-libraries-a-giphy-arts-q-a-with-ari-farley-0a17b1ea6d1b</link>
@@ -64,7 +104,7 @@
     <item>
       <title>栗原香织 (Kaori Kurihara) 令人难以置信的细致陶瓷</title>
       <link>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</link>
-      <description><![CDATA[优雅的花瓣、扇形扇形和种子般的纹理覆盖着 Kaori Kurihara 异想天开的陶瓷雕塑。
+      <description><![CDATA[优雅的花瓣、扇形扇子和种子般的纹理覆盖着 Kaori Kurihara 异想天开的陶瓷雕塑。
 ]]></description>
       <guid>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</guid>
       <pubDate>Wed, 27 Dec 2023 12:47:20 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://kottke.org/23/12/the-best-book-cover-designs-of-2023</guid>
       <pubDate>Wed, 27 Dec 2023 12:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>《刺客信条》游戏如何鼓励玩家使用跑酷？</title>
-      <link>https://uxdesign.cc/how-do-assassins-creed-games-encourage-players-to-use-parkour-66841e32ee5e</link>
-      <description><![CDATA[我将这些核心设计决策分解为主要的关卡设计和遭遇设计决策。
-]]></description>
-      <guid>https://uxdesign.cc/how-do-assassins-creed-games-encourage-players-to-use-parkour-66841e32ee5e</guid>
-      <pubDate>Tue, 26 Dec 2023 06:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 UI/UX 设计趋势</title>
-      <link>https://shakuro.com/blog/ui-ux-design-trends-for-2024</link>
-      <description><![CDATA[发现 2024 年最新的 UI/UX 设计趋势，并开始将其实施到您的项目中，以增强您的数字服务。
-]]></description>
-      <guid>https://shakuro.com/blog/ui-ux-design-trends-for-2024</guid>
-      <pubDate>Tue, 26 Dec 2023 06:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我使用 Astro</title>
-      <link>https://flaviocopes.com/why-i-use-astro/</link>
-      <description><![CDATA[几个月前我就一直在考虑写这篇文章。
-]]></description>
-      <guid>https://flaviocopes.com/why-i-use-astro/</guid>
-      <pubDate>Tue, 26 Dec 2023 06:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣诞贺卡</title>
-      <link>http://greyrainbow.com/christmas-cards</link>
-      <description><![CDATA[从我还是个小孩的时候起，我就为家人的圣诞贺卡制作艺术品。
-]]></description>
-      <guid>http://greyrainbow.com/christmas-cards</guid>
-      <pubDate>Tue, 26 Dec 2023 06:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify Wrapped：每年让它火爆的 6 个心理学原理</title>
-      <link>https://growth.design/case-studies/spotify-wrapped-psychology</link>
-      <description><![CDATA[了解 Spotify 如何利用心理学打造音乐行业最受期待的年度活动之一。
-]]></description>
-      <guid>https://growth.design/case-studies/spotify-wrapped-psychology</guid>
-      <pubDate>Tue, 26 Dec 2023 04:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
