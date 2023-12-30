@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Dec 2023 12:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 15:08:42 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在fatherhood.gov，我们相信庆祝爸爸笑话的力量。</title>
-      <link>https://t.me/hn_summary/66346</link>
-      <description><![CDATA[爸爸笑话
-在 fatherhood.gov，我们相信颂扬爸爸笑话的力量。虽然它们可能并不总是最有趣的笑话，但它们具有独特的魅力，可以给我们孩子的生活带来欢乐。我们认识到父亲在孩子的成长中发挥着至关重要的作用，即使是像父亲笑话这样简单的事情也可以在他们之间创造一个特殊的时刻。所以，拥抱这个令人愉快又可怕的爸爸笑话，与您的孩子留下永久的回忆。]]></description>
-      <guid>https://t.me/hn_summary/66346</guid>
-      <pubDate>Sat, 30 Dec 2023 12:34:24 GMT</pubDate>
+      <title>网络内容的作者讨论了他们在高性能体素引擎方面的工作。</title>
+      <link>https://t.me/hn_summary/66361</link>
+      <description><![CDATA[高性能体素引擎（2021）
+网络内容的作者讨论了他们在高性能体素引擎方面的工作。他们解释说，他们希望通过关注顶点内存管理和减少驱动程序开销来改进体素数据的渲染。他们开发了一个名为“顶点池”的系统，该系统将现代 OpenGL 与内存池概念相结合，以实现快速体素网格划分和扩展遮挡查询。该系统能够以高帧速率从内存渲染大型体素世界。作者还将他们的系统与其他体素渲染技术进行了比较，并强调了顶点池的优势。他们提供代码示例和基准测试来展示系统的性能。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66361</guid>
+      <pubDate>Sat, 30 Dec 2023 15:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了 DALL-E 和 Cha 等生成式 AI 系统面临的挑战 [...]</title>
-      <link>https://t.me/hn_summary/66345</link>
-      <description><![CDATA[生成式 AI 的情况将会变得更糟
-作者讨论了 DALL-E 和 ChatGPT 等生成式人工智能系统在版权侵权方面面临的挑战。他们强调，这些系统可以几乎逐字复制文本和图像，可能会侵犯受版权保护的材料，而无需通知用户或提供归属。作者认为，当前的系统缺乏追踪生成内容来源的能力，因此很难防止侵权。他们预测，《纽约时报》针对 OpenAI 的诉讼只是一个开始，潜在的和解可能意义重大。作者还提到，微软通过使用DALL-E，也可能面临法律风险。]]></description>
-      <guid>https://t.me/hn_summary/66345</guid>
-      <pubDate>Sat, 30 Dec 2023 11:28:00 GMT</pubDate>
+      <title>[媒体]奥地利政府推出了一项新的电子产品维修计划[...]</title>
+      <link>https://t.me/hn_summary/66360</link>
+      <description><![CDATA[奥地利政府推出电子产品维修计划
+奥地利政府推出了一项新的电子产品维修计划，以促进可持续发展并减少浪费。根据这项名为“维修奖金”的计划，消费者可以获得经济奖励来修理损坏的电子设备，而不是购买新设备。维也纳维修网络协调员马库斯·皮林格 (Markus Piringer) 认为，维修奖金将鼓励更多人选择维修，尤其是当成本低于购买新产品时。该举措旨在解决一次性文化并推广更可持续的消费电子产品方法。]]></description>
+      <guid>https://t.me/hn_summary/66360</guid>
+      <pubDate>Sat, 30 Dec 2023 15:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]PostgresML 是一个平台，允许用户直接在 [...]</title>
-      <link>https://t.me/hn_summary/66344</link>
-      <description><![CDATA[在 Postgres 中构建 AI 应用
-PostgresML 是一个允许用户直接在 Postgres 数据库中构建 AI 应用程序的平台。这消除了对单独数据管理和 ML/AI 流程的需求，从而简化了 ML 模型的开发和部署。借助 PostgresML，用户可以轻松在其数据库上运行 ML 和 LLM 模型，使其成为适用于聊天机器人等各种用例的强大工具。通过将 ML 代码引入数据，PostgresML 简化了 ML/AI 生命周期并提高了 AI 应用开发的效率。]]></description>
-      <guid>https://t.me/hn_summary/66344</guid>
-      <pubDate>Sat, 30 Dec 2023 10:53:45 GMT</pubDate>
+      <title>[媒体]文章讨论了拖拉机对美国农业的历史影响和博士[...]</title>
+      <link>https://t.me/hn_summary/66359</link>
+      <description><![CDATA[拖拉机和马告诉你关于生成人工智能的事情
+本文讨论了拖拉机对美国农业的历史影响，并与当今生成人工智能 (AI) 的潜在影响进行了比较。作者强调了人们最初对拖拉机的敬畏和恐惧，类似于对人工智能的复杂反应。文章还提到了围绕拖拉机在 20 世纪 30 年代沙尘暴中所扮演角色的争议。尽管拖拉机对经济产生了重大影响，但它们的采用却是缓慢而渐进的。作者认为，人工智能可能也是如此，因为它仍然面临局限性，需要劳动力市场和商业实践的改变。文章最后强调社会需要随着时间的推移适应新技术。]]></description>
+      <guid>https://t.me/hn_summary/66359</guid>
+      <pubDate>Sat, 30 Dec 2023 14:59:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在弹性经济和 [...] 的推动下，标准普尔 500 指数 2023 年涨幅超过 24%</title>
-      <link>https://t.me/hn_summary/66343</link>
-      <description><![CDATA[由于经济复苏给投资者带来活力，股市到 2023 年底将上涨 20% 
-在经济复苏和利率下降前景的推动下，标准普尔 500 指数 2023 年涨幅超过 24%。道琼斯指数也接近历史新高。涨幅主要由“Magnificent 7”公司领涨，包括苹果、微软和Alphabet，它们占标普500指数涨幅的三分之二。规模较小的公司股票也出现了尾盘上涨，抹去了去年的大部分跌幅。 11 月份的上涨帮助扩大了大型科技公司以外的市场涨幅。欧洲市场也出现上涨，而亚洲市场涨跌互现。投资者现在押注经济“软着陆”，美联储预计将在2024年降息。10月下旬债券价格飙升，收益率下降，2023年油价因产量增加而下跌超过10%美国和其他国家。]]></description>
-      <guid>https://t.me/hn_summary/66343</guid>
-      <pubDate>Sat, 30 Dec 2023 10:50:39 GMT</pubDate>
+      <title>[媒体]无人驾驶汽车在加州的使用引发了人们对安全性和需求的担忧 [...]</title>
+      <link>https://t.me/hn_summary/66358</link>
+      <description><![CDATA[根据现行法律，无人驾驶汽车在加州免受交通罚单
+加州无人驾驶汽车的使用引起了人们对安全性的担忧，并需要制定新的法律来管理该技术。虽然自动驾驶汽车正在城市街道上与人类驾驶员和行人一起进行测试，但它们的性能仍然存在许多未知数。无人驾驶汽车已被记录违反交通法规，但加州现行法律仅允许在车内有实际驾驶员的情况下开具交通罚单。这导致了双重标准的指责，并呼吁制定新的立法来规范该行业。相比之下，德克萨斯州和亚利桑那州重写了交通法，允许对无人驾驶汽车开票。]]></description>
+      <guid>https://t.me/hn_summary/66358</guid>
+      <pubDate>Sat, 30 Dec 2023 14:53:20 GMT</pubDate>
     </item>
     <item>
-      <title>网页内容的作者认为语义版本控制 (SemVer) 是一个错误，因为它 [...]</title>
-      <link>https://t.me/hn_summary/66342</link>
-      <description><![CDATA[语义版本控制是一个错误
-该网页内容的作者认为语义版本控制 (SemVer) 是一个错误，因为它导致软件中重大更改的增加。 SemVer 建议软件应使用三部分字符串 (MAJOR.MINOR.PATCH) 进行版本控制，并且应通过增加主版本号来指示重大更改。然而，作者认为这允许开发人员更频繁地进行重大更改。他们认为，过去，软件工程师优先考虑保持接口向后兼容，但现在依赖项的主要版本几乎每周都会发布。作者强调，很酷的 API 不会改变，做出重大改变意味着你搞砸了。他们还强调了升级到新的主要版本时阅读发行说明并进行必要更改的负担。]]></description>
-      <guid>https://t.me/hn_summary/66342</guid>
-      <pubDate>Sat, 30 Dec 2023 10:49:32 GMT</pubDate>
+      <title>[媒体]伦敦大学学院的物理学家提出了一种新理论，旨在调和爱因斯坦的理论[...]</title>
+      <link>https://t.me/hn_summary/66357</link>
+      <description><![CDATA[新理论试图将爱因斯坦引力与量子力学结合起来 
+伦敦大学学院的物理学家提出了一种新理论，旨在协调爱因斯坦的广义相对论与量子力学。普遍的假设是爱因斯坦的引力理论必须修改以适应量子理论。然而，新理论表明时空可能是经典的，根本不受量子理论的支配。该理论不是修改时空，而是修改量子理论本身，并预测时空的随机和剧烈波动，这些波动比量子理论预测的要大。该理论的影响超出了引力范围，并有可能解决黑洞信息问题。人们提出了一项实验，通过测量一段时间内质量的重量来检验这一理论。]]></description>
+      <guid>https://t.me/hn_summary/66357</guid>
+      <pubDate>Sat, 30 Dec 2023 14:50:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了当代青少年如何面临更多的心理问题 [...]</title>
-      <link>https://t.me/hn_summary/66341</link>
-      <description><![CDATA[模因和心理健康：青少年如何应对日益增加的压力
-文章讨论了当代青少年如何因通过智能手机和社交媒体不断接触令人痛苦的信息而面临更多的心理健康问题。作者强调了在意识到世界各地正在发生的恐怖事件的同时，需要在社交媒体上呈现完美生活所带来的压力。为了应对这种压力，青少年转向模因，它可以提供喜剧缓解并创建在线社区，让他们找到幽默、安慰和相关感。作者提到了模因被用来表达政治观点和应对情绪事件的例子。总体而言，迷因为青少年提供了一个安全的空间，让他们逃离世界的现实和压力，找到一些可以开怀大笑的东西。]]></description>
-      <guid>https://t.me/hn_summary/66341</guid>
-      <pubDate>Sat, 30 Dec 2023 10:38:23 GMT</pubDate>
+      <title>高性能计算的艺术</title>
+      <link>https://t.me/hn_summary/66356</link>
+      <description><![CDATA[高性能计算的艺术
+《高性能计算的艺术》是科学和工程并行编程的综合指南。本书涵盖了 MPI 和 OpenMP 的现代版本，以及有关 PETSc、Kokkos、Sycl 和 Co-array Fortran 的较短部分。本书的与众不同之处在于它涵盖了多种编程语言的 MPI 和 OpenMP，包括用于 MPI 的 C、Fortran、C++ 和 Python。这使其成为使用不同语言的程序员的宝贵资源。本书深入探讨了高性能计算的艺术，为读者提供了优化科学计算项目所需的知识和技能。]]></description>
+      <guid>https://t.me/hn_summary/66356</guid>
+      <pubDate>Sat, 30 Dec 2023 14:45:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在葡萄牙岛上发现了塑料岩石，称为塑料锈，[...]</title>
-      <link>https://t.me/hn_summary/66340</link>
-      <description><![CDATA[塑料损坏了海洋，塑料损坏了河流：塑料现在正在损坏岩石
-塑料岩石（称为塑料锈）在葡萄牙马德拉岛被发现，此后在五大洲 11 个国家也发现了这种岩石。当塑料废物与岩石结合并融化到周围环境中时，就会形成这些岩石。塑锈现象正在扩大，岩石现在覆盖了原来位置的 10%。这些塑料岩石的分解会释放出甲烷和乙烯，这些温室气体会导致气候变化。此外，岩石中的微塑料和纳米塑料对海洋生物有害，并降低浮游生物吸收二氧化碳的效率。文章表明，转向再利用心态可能有助于减缓塑料岩石的增长并减轻气候变化的影响。]]></description>
-      <guid>https://t.me/hn_summary/66340</guid>
-      <pubDate>Sat, 30 Dec 2023 10:35:15 GMT</pubDate>
+      <title>[媒体] 软木塞是一种通用材料，通常用作葡萄酒和香槟瓶的塞子，它具有 [...]</title>
+      <link>https://t.me/hn_summary/66355</link>
+      <description><![CDATA[科克将保护下一艘访问月球的航天器 
+软木塞是一种通用材料，通常用作葡萄酒和香槟瓶的塞子，在 NASA 新型重型火箭太空发射系统 (SLS) 执行登月和火星任务时，软木塞将在隔热方面发挥至关重要的作用。软木具有独特的性能，例如重量轻、耐高温、耐辐射，并且能够根据环境而变化，使其成为太空旅行的理想材料。葡萄牙软木生产商 Corticeira Amorim 自 20 世纪 60 年代以来一直为航空航天业提供软木。虽然可持续性不是 NASA 的首要考虑因素，但材料的长期可用性很重要。]]></description>
+      <guid>https://t.me/hn_summary/66355</guid>
+      <pubDate>Sat, 30 Dec 2023 14:40:56 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容的作者使用私有和公共语言模型 (LLM) 来回答一个未解决的问题 [...]</title>
-      <link>https://t.me/hn_summary/66339</link>
-      <description><![CDATA[我在使用私人法学硕士撰写本科历史论文时学到了什么
-该网络内容的作者使用私人和公共语言模型 (LLM) 来回答他们 30 年前写过的本科生历史论文问题。他们遵循两条规则：不要偷看原始论文，除了寻找参考文献之外，不要阅读任何建议的材料。人工智能辅助的体验在某些方面有所不同，但在其他方面则相似。作者回顾了 90 年代作为一名历史学生的时光，并将其与当今使用人工智能的经历进行了比较。他们讨论使用 ChatGPT、PrivateGPT 和 Ollama 来收集信息并撰写论文。作者还强调了使用法学硕士的局限性和挑战，例如“产生幻觉”或生成虚假信息的倾向。总体而言，人工智能辅助论文写作过程更快，并提供了更好的论文计划，但作者错过了阅读文本本身的细微差别。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66339</guid>
-      <pubDate>Sat, 30 Dec 2023 10:35:09 GMT</pubDate>
+      <title>此网页内容的作者讨论了命令行实用程序包的“隐藏宝石”[...]</title>
+      <link>https://t.me/hn_summary/66354</link>
+      <description><![CDATA[Moreutils 的隐藏瑰宝
+此 Web 内容的作者讨论了名为 moreutils 的命令行实用程序包的“隐藏宝石”。他们重点介绍了几个有用的实用程序，包括 execsnoop、ts、sponge、vidir、vipe 和 pee。作者提供了如何使用这些实用程序来增强命令行功能的示例和解释。他们还提到了与 moreutils 类似的其他命令集，例如 Evenmoreutils 和 num-utils。内容内容丰富，并提供了如何使用这些实用程序的实际示例。]]></description>
+      <guid>https://t.me/hn_summary/66354</guid>
+      <pubDate>Sat, 30 Dec 2023 14:38:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌已同意就一项价值 50 亿美元的隐私诉讼达成和解，该诉讼指控该公司 [...]</title>
-      <link>https://t.me/hn_summary/66338</link>
-      <description><![CDATA[Google 就使用“隐身模式”跟踪用户的 50 亿美元隐私诉讼达成和解
-谷歌已同意就一项价值 50 亿美元的隐私诉讼达成和解，该诉讼指控该公司监视在 Chrome 浏览器中使用“隐身”模式的用户。该诉讼于 2020 年提起，声称谷歌误导用户，让他们认为使用隐身模式时他们的互联网活动不会被跟踪。然而，诉讼指控谷歌的广告技术和其他技术继续收集有关用户网站访问和活动的信息。该和解协议仍在等待联邦法官的批准，尚未披露其条款。原告认为谷歌的行为侵犯了用户的隐私并收集了大量的个人信息。]]></description>
-      <guid>https://t.me/hn_summary/66338</guid>
-      <pubDate>Sat, 30 Dec 2023 10:24:58 GMT</pubDate>
+      <title>作者讨论了使用缩进在游戏编辑器中创建更简单的用户界面 (UI)。</title>
+      <link>https://t.me/hn_summary/66353</link>
+      <description><![CDATA[假树：使用缩进实现更简单的 UI
+作者讨论了使用缩进在游戏编辑器中创建更简单的用户界面 (UI)。他们解释说，他们为 HissScript 实现了命名空间功能，其中名称中带有点的项目会缩进以创建层次结构的错觉。作者提供了他们用来实现此目的的代码，并提到命名空间外观对于组织游戏很重要，但它没有任何功能意义。他们还提到，人们往往只需要树木的外观，而不是实际的树木。]]></description>
+      <guid>https://t.me/hn_summary/66353</guid>
+      <pubDate>Sat, 30 Dec 2023 14:36:44 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年，几家公司的大规模裁员成为头条新闻，让员工感到震惊 [...]</title>
-      <link>https://t.me/hn_summary/66337</link>
-      <description><![CDATA[2023 年最大规模裁员：企业解雇员工数量令人瞠目结舌&lt; /a&gt;
-2023年，多家公司大规模裁员成为头条新闻，让员工感到震惊和震惊。这些裁员的规模确实令人瞠目结舌，成千上万的工人一夜之间失去了生计。这些裁员背后的原因各不相同，从公司重组和缩小规模以应对经济挑战，到采用自动化和人工智能，导致某些工作角色过时。这些裁员对受影响的员工及其家人的影响怎么强调都不为过，因为他们面临着在竞争激烈的就业市场中寻找新工作的艰巨任务。本文揭示了 2023 年一些最大规模的裁员及其对劳动力的影响。]]></description>
-      <guid>https://t.me/hn_summary/66337</guid>
-      <pubDate>Sat, 30 Dec 2023 10:20:48 GMT</pubDate>
+      <title>[媒体] 废话工作</title>
+      <link>https://t.me/hn_summary/66352</link>
+      <description><![CDATA[废话工作
+《废话工作：一种理论》是人类学家 David Graeber 于 2018 年出版的一本书，探讨了无意义工作的存在及其社会影响。格雷伯认为，超过一半的社会工作毫无意义，如果与将自我价值与就业联系在一起的职业道德相结合，可能会对心理造成损害。他指出了五种无意义的工作，例如奴才和打手，并指出劳动与痛苦的联系是最近的发展。格雷伯提出工会和全民基本收入作为潜在的解决方案。这本书是格雷伯 2013 年发表的一篇文章的延伸，该文章广受欢迎并引发了 YouGov 民意调查。这本书收到的评论褒贬不一，一些人称赞其学术严谨性和幽默感，而另一些人则认为该论点被夸大了。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66352</guid>
+      <pubDate>Sat, 30 Dec 2023 14:29:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
