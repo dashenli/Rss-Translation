@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Dec 2023 15:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 18:22:34 GMT</lastBuildDate>
     <item>
-      <title>网络内容的作者讨论了他们在高性能体素引擎方面的工作。</title>
-      <link>https://t.me/hn_summary/66361</link>
-      <description><![CDATA[高性能体素引擎（2021）
-网络内容的作者讨论了他们在高性能体素引擎方面的工作。他们解释说，他们希望通过关注顶点内存管理和减少驱动程序开销来改进体素数据的渲染。他们开发了一个名为“顶点池”的系统，该系统将现代 OpenGL 与内存池概念相结合，以实现快速体素网格划分和扩展遮挡查询。该系统能够以高帧速率从内存渲染大型体素世界。作者还将他们的系统与其他体素渲染技术进行了比较，并强调了顶点池的优势。他们提供代码示例和基准测试来展示系统的性能。 （根据 24% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66361</guid>
-      <pubDate>Sat, 30 Dec 2023 15:08:42 GMT</pubDate>
+      <title>[媒体]文章讨论了精品健身公司的兴起及其对郊区的影响[...]</title>
+      <link>https://t.me/hn_summary/66379</link>
+      <description><![CDATA[最大的精品健身公司将郊区妈妈变成破产特许经营商 
+本文讨论了精品健身公司的兴起及其对成为特许经营商的郊区妈妈的影响。它重点介绍了 CycleBar，一家健身公司，在夜总会般的氛围中提供动感单车课程。作者将 CycleBar 的审美描述为高档平淡和科技兄弟时尚。文章还提到了其他精品健身公司，如 Pure Barre、Club Pilates、Stride、Row House、AKT、Rumble Boxing、Body Fit Training、YogaSix 和 StretchLab。给定内容中未突出显示争议或令人惊讶的元素。]]></description>
+      <guid>https://t.me/hn_summary/66379</guid>
+      <pubDate>Sat, 30 Dec 2023 18:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]奥地利政府推出了一项新的电子产品维修计划[...]</title>
-      <link>https://t.me/hn_summary/66360</link>
-      <description><![CDATA[奥地利政府推出电子产品维修计划
-奥地利政府推出了一项新的电子产品维修计划，以促进可持续发展并减少浪费。根据这项名为“维修奖金”的计划，消费者可以获得经济奖励来修理损坏的电子设备，而不是购买新设备。维也纳维修网络协调员马库斯·皮林格 (Markus Piringer) 认为，维修奖金将鼓励更多人选择维修，尤其是当成本低于购买新产品时。该举措旨在解决一次性文化并推广更可持续的消费电子产品方法。]]></description>
-      <guid>https://t.me/hn_summary/66360</guid>
-      <pubDate>Sat, 30 Dec 2023 15:05:34 GMT</pubDate>
+      <title>继 [...] 后，微软发布了 Copilot AI 聊天机器人应用程序的 iOS 和 iPad 版本</title>
+      <link>https://t.me/hn_summary/66378</link>
+      <description><![CDATA[Microsoft 的 Copilot AI 聊天机器人应用登陆 iOS
+继最近推出 Android 版本后，微软又发布了 Copilot AI 聊天机器人应用程序的 iOS 和 iPad 版本。该应用程序允许用户输入问题并接收由 OpenAI 的 GPT-4 语言模型生成的答复。与使用较旧的 GPT-3.5 模型的 ChatGPT 免费版本不同，Copilot 使用较新的 GPT-4。此外，iOS 版本的 Copilot 还包含一项将文字转换为图像的功能，由 OpenAI 的 DALL-E 3 文本到图像人工智能系统提供支持。微软一直在扩大 Copilot（以前称为 Bing Chat）的覆盖范围，将其引入 Windows 10 和 Windows 11，现在又引入 iOS 和 Android 设备。]]></description>
+      <guid>https://t.me/hn_summary/66378</guid>
+      <pubDate>Sat, 30 Dec 2023 18:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了拖拉机对美国农业的历史影响和博士[...]</title>
-      <link>https://t.me/hn_summary/66359</link>
-      <description><![CDATA[拖拉机和马告诉你关于生成人工智能的事情
-本文讨论了拖拉机对美国农业的历史影响，并与当今生成人工智能 (AI) 的潜在影响进行了比较。作者强调了人们最初对拖拉机的敬畏和恐惧，类似于对人工智能的复杂反应。文章还提到了围绕拖拉机在 20 世纪 30 年代沙尘暴中所扮演角色的争议。尽管拖拉机对经济产生了重大影响，但它们的采用却是缓慢而渐进的。作者认为，人工智能可能也是如此，因为它仍然面临局限性，需要劳动力市场和商业实践的改变。文章最后强调社会需要随着时间的推移适应新技术。]]></description>
-      <guid>https://t.me/hn_summary/66359</guid>
-      <pubDate>Sat, 30 Dec 2023 14:59:27 GMT</pubDate>
+      <title>上诉法院最近的一项判决宣布，英国的博物馆没有有效的 [...]</title>
+      <link>https://t.me/hn_summary/66377</link>
+      <description><![CDATA[不受版权保护的图片不受版权保护
+上诉法院最近的一项判决宣布，英国的博物馆对不受版权保护的艺术品的照片不拥有有效的版权。这意味着这些照片现在属于公共领域并且可以免费使用。此前，博物馆对复制历史艺术品收取费用，并声称拥有这些图像的版权。判决确认，如果博物馆照片的目的是准确复制一幅画，则它不能获得版权。这项裁决引发了人们对自 2009 年以来博物馆出售图像许可证的依据的质疑。国家美术馆表示将审查该裁决提供的指导。]]></description>
+      <guid>https://t.me/hn_summary/66377</guid>
+      <pubDate>Sat, 30 Dec 2023 18:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]无人驾驶汽车在加州的使用引发了人们对安全性和需求的担忧 [...]</title>
-      <link>https://t.me/hn_summary/66358</link>
-      <description><![CDATA[根据现行法律，无人驾驶汽车在加州免受交通罚单
-加州无人驾驶汽车的使用引起了人们对安全性的担忧，并需要制定新的法律来管理该技术。虽然自动驾驶汽车正在城市街道上与人类驾驶员和行人一起进行测试，但它们的性能仍然存在许多未知数。无人驾驶汽车已被记录违反交通法规，但加州现行法律仅允许在车内有实际驾驶员的情况下开具交通罚单。这导致了双重标准的指责，并呼吁制定新的立法来规范该行业。相比之下，德克萨斯州和亚利桑那州重写了交通法，允许对无人驾驶汽车开票。]]></description>
-      <guid>https://t.me/hn_summary/66358</guid>
-      <pubDate>Sat, 30 Dec 2023 14:53:20 GMT</pubDate>
+      <title>[媒体]《纽约时报》提出了一个令人惊讶的要求，要求所有 LLM（语言模型 [...]</title>
+      <link>https://t.me/hn_summary/66376</link>
+      <description><![CDATA[《纽约时报》要求*所有*接受过《纽约时报》数据培训的法学硕士被毁
+《纽约时报》提出了一个令人惊讶的要求，要求销毁所有接受其数据训练的法学硕士（语言模型）。虽然没有提供问题的细节，但显然《纽约时报》担心其数据可能被滥用或歪曲。这一要求引发了争议，并引发了人们对人工智能时代数据的所有权和控制权的质疑。这是《纽约时报》的独特举措，突显了他们对保护数据和维护新闻诚信的承诺。]]></description>
+      <guid>https://t.me/hn_summary/66376</guid>
+      <pubDate>Sat, 30 Dec 2023 17:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]伦敦大学学院的物理学家提出了一种新理论，旨在调和爱因斯坦的理论[...]</title>
-      <link>https://t.me/hn_summary/66357</link>
-      <description><![CDATA[新理论试图将爱因斯坦引力与量子力学结合起来 
-伦敦大学学院的物理学家提出了一种新理论，旨在协调爱因斯坦的广义相对论与量子力学。普遍的假设是爱因斯坦的引力理论必须修改以适应量子理论。然而，新理论表明时空可能是经典的，根本不受量子理论的支配。该理论不是修改时空，而是修改量子理论本身，并预测时空的随机和剧烈波动，这些波动比量子理论预测的要大。该理论的影响超出了引力范围，并有可能解决黑洞信息问题。人们提出了一项实验，通过测量一段时间内质量的重量来检验这一理论。]]></description>
-      <guid>https://t.me/hn_summary/66357</guid>
-      <pubDate>Sat, 30 Dec 2023 14:50:13 GMT</pubDate>
+      <title>[媒体]华盛顿特区一家法院</title>
+      <link>https://t.me/hn_summary/66375</link>
+      <description><![CDATA[表情符号具有法律效力
+华盛顿特区的一家法院面临着表情符号在证券欺诈诉讼中意味着什么的问题。 Bed Bath &amp; Beyond 的主要投资者瑞安·科恩 (Ryan Cohen) 在回应有关该公司的推文时使用了侧眼月亮表情符号。股东现在起诉他，声称他通过使用表情符号暗示该股将“登上月球”来误导投资者。法院认为表情符号可能会受到法律诉讼，并驳回了科恩驳回诉讼的企图。表情符号的使用在企业界已变得普遍，78% 的 Z 世代和千禧一代受访者在专业环境中使用它们。到 2023 年，表情符号还出现在美国的 200 多起法律案件中，而 2016 年只有 25 起。然而，表情符号可能非常含糊，容易产生误解，从而导致潜在的法律纠纷。]]></description>
+      <guid>https://t.me/hn_summary/66375</guid>
+      <pubDate>Sat, 30 Dec 2023 17:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>高性能计算的艺术</title>
-      <link>https://t.me/hn_summary/66356</link>
-      <description><![CDATA[高性能计算的艺术
-《高性能计算的艺术》是科学和工程并行编程的综合指南。本书涵盖了 MPI 和 OpenMP 的现代版本，以及有关 PETSc、Kokkos、Sycl 和 Co-array Fortran 的较短部分。本书的与众不同之处在于它涵盖了多种编程语言的 MPI 和 OpenMP，包括用于 MPI 的 C、Fortran、C++ 和 Python。这使其成为使用不同语言的程序员的宝贵资源。本书深入探讨了高性能计算的艺术，为读者提供了优化科学计算项目所需的知识和技能。]]></description>
-      <guid>https://t.me/hn_summary/66356</guid>
-      <pubDate>Sat, 30 Dec 2023 14:45:05 GMT</pubDate>
+      <title>[媒体] 前亿万富翁、自称为“加密货币之王”的山姆·班克曼·弗里德 (Sam Bankman-Fried) 将 [...]</title>
+      <link>https://t.me/hn_summary/66374</link>
+      <description><![CDATA[Sam Bankman-Fried：被定罪的“加密货币之王”不会面临第二次审判试用
+据美国检察官称，前亿万富翁、自称为“加密货币之王”的萨姆·班克曼-弗里德将不会面临第二次审判。班克曼-弗里德上个月被判犯有欺诈和洗钱罪，目前面临数十年的监禁。检察官表示，解决此案的“强烈公共利益”超过了二审的好处。 Bankman-Fried 的宣判定于 3 月 28 日进行，预计将包括没收和归还受害者的命令。此次定罪标志着班克曼-弗里德的重大失败，他曾经是世界上最大的加密货币交易所之一的负责人。]]></description>
+      <guid>https://t.me/hn_summary/66374</guid>
+      <pubDate>Sat, 30 Dec 2023 17:41:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 软木塞是一种通用材料，通常用作葡萄酒和香槟瓶的塞子，它具有 [...]</title>
-      <link>https://t.me/hn_summary/66355</link>
-      <description><![CDATA[科克将保护下一艘访问月球的航天器 
-软木塞是一种通用材料，通常用作葡萄酒和香槟瓶的塞子，在 NASA 新型重型火箭太空发射系统 (SLS) 执行登月和火星任务时，软木塞将在隔热方面发挥至关重要的作用。软木具有独特的性能，例如重量轻、耐高温、耐辐射，并且能够根据环境而变化，使其成为太空旅行的理想材料。葡萄牙软木生产商 Corticeira Amorim 自 20 世纪 60 年代以来一直为航空航天业提供软木。虽然可持续性不是 NASA 的首要考虑因素，但材料的长期可用性很重要。]]></description>
-      <guid>https://t.me/hn_summary/66355</guid>
-      <pubDate>Sat, 30 Dec 2023 14:40:56 GMT</pubDate>
+      <title>FocalRing 是一个革命性的解决方案，旨在重新定义有声读物聆听。</title>
+      <link>https://t.me/hn_summary/66373</link>
+      <description><![CDATA[展示 HN：FocalRing，重新定义有声读物聆听
+FocalRing 是一个革命性的解决方案，旨在重新定义有声读物聆听。虽然有声读物因其方便而变得流行，但它们常常阻碍人们充分参与内容的能力。 FocalRing 认识到文学作品应该按照我们自己的节奏来品味和理解，让我们能够重温重要的段落并思考想法。通过打破持续音频消费的障碍，FocalRing 实现了更具互动性和身临其境的有声读物体验。这种创新方法使 FocalRing 有别于传统的有声读物平台，并为那些寻求与内容建立更深入联系的人提供了独特的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/66373</guid>
+      <pubDate>Sat, 30 Dec 2023 17:36:37 GMT</pubDate>
     </item>
     <item>
-      <title>此网页内容的作者讨论了命令行实用程序包的“隐藏宝石”[...]</title>
-      <link>https://t.me/hn_summary/66354</link>
-      <description><![CDATA[Moreutils 的隐藏瑰宝
-此 Web 内容的作者讨论了名为 moreutils 的命令行实用程序包的“隐藏宝石”。他们重点介绍了几个有用的实用程序，包括 execsnoop、ts、sponge、vidir、vipe 和 pee。作者提供了如何使用这些实用程序来增强命令行功能的示例和解释。他们还提到了与 moreutils 类似的其他命令集，例如 Evenmoreutils 和 num-utils。内容内容丰富，并提供了如何使用这些实用程序的实际示例。]]></description>
-      <guid>https://t.me/hn_summary/66354</guid>
-      <pubDate>Sat, 30 Dec 2023 14:38:50 GMT</pubDate>
+      <title>[媒体] Voxelize 项目是一个多人体素引擎，可以在 [...]</title>
+      <link>https://t.me/hn_summary/66372</link>
+      <description><![CDATA[展示 HN：构建您自己的基于 Web 的 Minecraft（多人游戏）&lt; /a&gt;
+Voxelize 项目是一个多人体素引擎，可以在 Web 浏览器中访问和播放。它提供的功能包括实时多人游戏、使用协议缓冲区的快速体素数据传输、多线程块处理以及带有命令注册表的聊天系统。该项目还包括一个适用于任何块的物理引擎，支持自定义块类型和物理形状，以及用于自定义游戏事件的事件系统。该项目提供了后端和前端组件的文档。作者强调，这是一个充满激情的项目，与 Minecraft 或任何许可的体素引擎无关。]]></description>
+      <guid>https://t.me/hn_summary/66372</guid>
+      <pubDate>Sat, 30 Dec 2023 17:36:32 GMT</pubDate>
     </item>
     <item>
-      <title>作者讨论了使用缩进在游戏编辑器中创建更简单的用户界面 (UI)。</title>
-      <link>https://t.me/hn_summary/66353</link>
-      <description><![CDATA[假树：使用缩进实现更简单的 UI
-作者讨论了使用缩进在游戏编辑器中创建更简单的用户界面 (UI)。他们解释说，他们为 HissScript 实现了命名空间功能，其中名称中带有点的项目会缩进以创建层次结构的错觉。作者提供了他们用来实现此目的的代码，并提到命名空间外观对于组织游戏很重要，但它没有任何功能意义。他们还提到，人们往往只需要树木的外观，而不是实际的树木。]]></description>
-      <guid>https://t.me/hn_summary/66353</guid>
-      <pubDate>Sat, 30 Dec 2023 14:36:44 GMT</pubDate>
+      <title>Laterbase 是一款革命性的书签工具，允许用户保存、搜索和聊天 [...]</title>
+      <link>https://t.me/hn_summary/66371</link>
+      <description><![CDATA[显示 HN：Laterbase – 使用书签保存、搜索和聊天&lt; /a&gt;
+Laterbase 是一款革命性的书签工具，允许用户使用书签进行保存、搜索和聊天。只需单击一下，用户就可以立即将任何网站捕获到他们的 Laterbase 帐户，从而轻松组织和访问他们喜爱的在线内容。 Laterbase 的独特之处在于它的聊天功能，它允许用户与朋友和同事讨论和分享他们的书签。这使其成为协作和共享信息的绝佳工具。有了 Laterbase，您将永远不会再失去对您喜爱的网站的追踪。]]></description>
+      <guid>https://t.me/hn_summary/66371</guid>
+      <pubDate>Sat, 30 Dec 2023 17:36:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 废话工作</title>
-      <link>https://t.me/hn_summary/66352</link>
-      <description><![CDATA[废话工作
-《废话工作：一种理论》是人类学家 David Graeber 于 2018 年出版的一本书，探讨了无意义工作的存在及其社会影响。格雷伯认为，超过一半的社会工作毫无意义，如果与将自我价值与就业联系在一起的职业道德相结合，可能会对心理造成损害。他指出了五种无意义的工作，例如奴才和打手，并指出劳动与痛苦的联系是最近的发展。格雷伯提出工会和全民基本收入作为潜在的解决方案。这本书是格雷伯 2013 年发表的一篇文章的延伸，该文章广受欢迎并引发了 YouGov 民意调查。这本书收到的评论褒贬不一，一些人称赞其学术严谨性和幽默感，而另一些人则认为该论点被夸大了。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66352</guid>
-      <pubDate>Sat, 30 Dec 2023 14:29:37 GMT</pubDate>
+      <title>作者在 chatgpt-ui-fix 网站上介绍了针对 ChatGPT 失去焦点问题的错误修复 [...]</title>
+      <link>https://t.me/hn_summary/66370</link>
+      <description><![CDATA[显示 HN：修复 ChatGPT 失去焦点的错误&lt; br/&gt;
+作者在网站 chatgpt-ui-fix.vercel.app。他们解释说，当将文本流式传输到段落中时，每次添加新字符时选择都会消失。为了解决这个问题，作者建议使用 React 并为每个字符分配一个不可变的键。此修复允许用户在文本继续流入时选择文本。作者提供了修复行为的 GIF 演示。]]></description>
+      <guid>https://t.me/hn_summary/66370</guid>
+      <pubDate>Sat, 30 Dec 2023 17:36:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
