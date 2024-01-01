@@ -4,7 +4,47 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 01 Jan 2024 02:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 03:07:28 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]中国国家主席习近平发表2024年新年贺词，强调要 [...]</title>
+      <link>https://t.me/hn_summary/66575</link>
+      <description><![CDATA[习近平2024年年底讲话
+中国国家主席习近平发表了2024年新年贺词，强调了中国取得的成就并概述了未来的目标。讲话强调了中国对技术创新和自力更生的承诺，C919大型客机投入商业运营就是一个显着的例子。习近平还重申了经济发展稳中求进的原则。他谈到台湾问题时表示，中国一定会统一，呼吁海峡两岸中国人民团结起来。讲话还强调了沟通协商，凝聚社会共识的重要性。演讲内容包括习近平2023年出访其他国家和会见外国领导人的视频片段。（根据84%的故事文字进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66575</guid>
+      <pubDate>Mon, 01 Jan 2024 03:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Zig-cookbook 是简单 Zig 程序的集合，展示了良好的编程 [...]</title>
+      <link>https://t.me/hn_summary/66574</link>
+      <description><![CDATA[Zig-cookbook：一系列简单的 Zig 程序，展示了良好的实践
+Zig-cookbook 是简单 Zig 程序的集合，展示了良好的编程实践。该项目的目的是为开发人员提供通过研究实际示例来学习和理解 Zig 编程语言的资源。作者强调，本书中的程序有意保持简单，以专注于教授基本概念。此外，该项目旨在通过提供清晰的解释、避免复杂的代码以及注重实用性而不是理论概念来区别于其他 Zig 资源。]]></description>
+      <guid>https://t.me/hn_summary/66574</guid>
+      <pubDate>Mon, 01 Jan 2024 02:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>proxy.incolumitas.com 网站提供实时代理和 VPN 检测服务。</title>
+      <link>https://t.me/hn_summary/66573</link>
+      <description><![CDATA[实时代理和 VPN 检测
+网站 proxy.incolumitas.com 提供直播服务代理和 VPN 检测。要访问此服务，用户需要提供其电子邮件地址才能接收 API 密钥。该电子邮件还将包含有关如何将代理和 VPN 检测集成到其应用程序或网站中的说明。此外，用户需要提供WebHook回调URL，检测结果将通过HTTP POST发送。该网站还提供有关集成的更多信息的文档。]]></description>
+      <guid>https://t.me/hn_summary/66573</guid>
+      <pubDate>Mon, 01 Jan 2024 02:39:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 19 世纪末，发明家转向蒸汽动力来产生电灯 [...]</title>
+      <link>https://t.me/hn_summary/66572</link>
+      <description><![CDATA[蒸汽和电力，第 1 部分：电灯&lt; br/&gt;
+19 世纪末，发明家转向蒸汽动力来产生电灯和电力。电力的梦想始于 1830 年代，爱好者们憧憬着一个取代蒸汽动力的电力时代。然而，詹姆斯焦耳通过证明电池永远无法在效率方面取代煤炭来打破这个泡沫。尽管遇到了这些挫折，弧光灯的开发还是取得了进展，弧光灯利用电力来产生明亮而持久的光。发电机的发明可以有效地将蒸汽机的运动转化为可用电流，进一步推进了电力的使用。查尔斯·布拉什 (Charles Brush) 改进的发电机和可靠的弧光灯设计使电照明进入了广泛的商业用途。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66572</guid>
+      <pubDate>Mon, 01 Jan 2024 02:32:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Test UFO 网站提供各种演示、测试和特殊工具来帮助用户 [...]</title>
+      <link>https://t.me/hn_summary/66571</link>
+      <description><![CDATA[测试UFO
+Test UFO 网站提供各种演示、测试和特殊工具，帮助用户比较帧速率、测试运动模糊和分析显示性能。用户可以比较 UFO 移动、视频游戏运动和垂直滚动等不同场景下的帧速率。该网站还提供重影、模糊痕迹、电影响应时间等测试。此外，还有可用于显示器超频、模糊消除和高速摄像头分析的特殊工具。用户可以自定义 UFO 的数量、背景和速度以满足自己的需求。但是，必须启用 JavaScript 才能访问测试 UFO。]]></description>
+      <guid>https://t.me/hn_summary/66571</guid>
+      <pubDate>Mon, 01 Jan 2024 02:27:53 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 此网页内容是 old.reddit.com 上 r/Entrepreneur subreddit 上的帖子。</title>
       <link>https://t.me/hn_summary/66570</link>
@@ -44,46 +84,6 @@
 news.ycombinator.com 上这篇文章的作者是寻找有关将 GitHub 存储库与学术论文连接起来的数据集的可用性的信息。他们提到，虽然学术出版物中经常包含代码，但他们还没有遇到与 DOI 号码或 Zenodo 相关的存储库的完整列表。作者很好奇这样的数据集是否已经存在或者他们是否应该自己创建。]]></description>
       <guid>https://t.me/hn_summary/66566</guid>
       <pubDate>Mon, 01 Jan 2024 01:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者是 40 More Servers Studios 的一名工程师，他对拥有一个清晰的日历感到兴奋 [...]</title>
-      <link>https://t.me/hn_summary/66565</link>
-      <description><![CDATA[简单修复
-作者是 40 More Servers Studios 的一名工程师，他对自己的热门在线游戏 Facebreaker 拥有清晰的日历并且只剩下一个错误需要修复感到非常兴奋。他们终于找到了修复该错误的方法，并期待着美好的一天。然而，作者暗示可能会发生一些事情来打乱他们的计划，为情况增添了悬念或惊喜的元素。]]></description>
-      <guid>https://t.me/hn_summary/66565</guid>
-      <pubDate>Mon, 01 Jan 2024 01:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 一位名叫宾德利·桑斯特 (Bindley Sangster) 的乘客声称，他在飞往贾马的达美航空航班上被甩下 [...]</title>
-      <link>https://t.me/hn_summary/66564</link>
-      <description><![CDATA[一名男子因提出修复损坏的机上娱乐系统而被赶下达美航空航班
-一位名叫宾德利·桑斯特（Bindley Sangster）的乘客声称，他在达美航空飞往牙买加的航班上提出帮助修理机上娱乐系统后，被赶下了飞机。桑斯特在航空业工作了20多年，被飞行员视为“飞行风险”。事件发生时桑斯特无意中听到空乘人员讨论技术问题并主动提供帮助。他的提议被拒绝了，他回到了座位上。在等待起飞时，桑斯特在达美航空应用程序上写了一份投诉，被一名空乘人员注意到。几分钟之内，一名地面工作人员登上了飞机，并告诉桑斯特收拾行李并离开。桑斯特已对达美航空提起诉讼，声称其故意造成情绪困扰和歧视行为。达美航空辩称，州法律不适用于国际航班，任何索赔都应根据《蒙特利尔公约》提出，该公约只允许针对人身伤害提出索赔。该航空公司对诉讼的回应称，桑斯特的指控并未确立责任。]]></description>
-      <guid>https://t.me/hn_summary/66564</guid>
-      <pubDate>Mon, 01 Jan 2024 01:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]6月，Reddit因公司政策变化而遭遇大规模用户抗议。</title>
-      <link>https://t.me/hn_summary/66563</link>
-      <description><![CDATA[社交媒体最大规模的用户抗议震撼了 Reddit
-6 月，Reddit 经历了针对公司政策变化的大规模用户抗议。数千个 Reddit 社区陷入黑暗，公众无法访问其页面。这次抗议是由 Reddit 决定对其 API 访问收取费用而引发的，这阻碍了外部公司和用户使用该社交网络的数据。这次抗议导致 Reddit 内部发生变化，该社交网络的母公司变得更加关注用户和版主的请求。然而，一些用户报告网站内容质量下降。尽管如此，Reddit 的流量仍然保持稳定，抗议活动激发了平台内有意义的变化。]]></description>
-      <guid>https://t.me/hn_summary/66563</guid>
-      <pubDate>Mon, 01 Jan 2024 01:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]该网页内容的作者表达了他们对 Orac 的沮丧和失望 [...]</title>
-      <link>https://t.me/hn_summary/66562</link>
-      <description><![CDATA[Oracle 云是一坨屎
-该网络内容的作者表达了他们对 Oracle Cloud 的免费套餐服务的沮丧和失望。他们解释说，他们的网站突然关闭，甲骨文没有任何通知或解释。当他们尝试登录自己的帐户时，收到错误消息并发现所有资源已被删除。作者批评 Oracle 在擦除服务器之前没有提供任何警告或机会来备份数据。他们还提到了 Oracle Cloud 控制面板的其他问题以及配置网络的困难。作者最后分享了他们对新托管提供商的搜索，并对不同选项进行了比较。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66562</guid>
-      <pubDate>Mon, 01 Jan 2024 01:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]我对哈佛大学抄袭案件进行投票。</title>
-      <link>https://t.me/hn_summary/66561</link>
-      <description><![CDATA[我对哈佛大学的抄袭案件进行投票。同性恋很容易下车
-曾在哈佛大学荣誉委员会任职的作者呼吁大学校长克劳丁·盖伊因涉嫌违反学术道德而辞职。作者将涉嫌抄袭的学生的待遇与盖伊校长的待遇进行了比较，强调了学生面临的严格制裁，例如缓刑和退学，而盖伊校长涉嫌抄袭的行为被描述为例行公事且普遍存在。作者批评哈佛公司淡化指控，并将盖伊校长的纠正视为充分，认为在对待学生和大学校长方面存在双重标准。作者保持匿名以保护其身份。]]></description>
-      <guid>https://t.me/hn_summary/66561</guid>
-      <pubDate>Mon, 01 Jan 2024 00:59:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
