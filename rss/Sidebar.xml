@@ -4,14 +4,54 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 21:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 02:27:30 GMT</lastBuildDate>
+    <item>
+      <title>对抗性一致性</title>
+      <link>https://adrianroselli.com/2023/12/2-5-8-adversarial-conformance.html</link>
+      <description><![CDATA[看看符合辅助功能指南但仍然欺骗用户的深色模式。 
+]]></description>
+      <guid>https://adrianroselli.com/2023/12/2-5-8-adversarial-conformance.html</guid>
+      <pubDate>Mon, 01 Jan 2024 00:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年最佳数据可视化项目</title>
+      <link>https://flowingdata.com/2023/12/29/best-of-2023/</link>
+      <description><![CDATA[数据继续呈上升趋势，随之而来的是可视化的重要性。
+]]></description>
+      <guid>https://flowingdata.com/2023/12/29/best-of-2023/</guid>
+      <pubDate>Mon, 01 Jan 2024 00:48:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时模拟流体、火灾和烟雾</title>
+      <link>https://andrewkchan.dev/posts/fire.html</link>
+      <description><![CDATA[有关实时模拟火焰和烟雾等流体所涉及的数学、算法和方法的注释。
+]]></description>
+      <guid>https://andrewkchan.dev/posts/fire.html</guid>
+      <pubDate>Mon, 01 Jan 2024 00:43:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用生成式人工智能来检测猫的品种</title>
+      <link>https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds</link>
+      <description><![CDATA[说实话，生成式人工智能除了与猫一起工作之外还有什么其他用途？
+]]></description>
+      <guid>https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds</guid>
+      <pubDate>Mon, 01 Jan 2024 00:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>锚定位</title>
+      <link>https://12daysofweb.dev/2023/anchor-positioning</link>
+      <description><![CDATA[锚定位是一项动态添加功能，旨在增强 CSS 定位的功能。
+]]></description>
+      <guid>https://12daysofweb.dev/2023/anchor-positioning</guid>
+      <pubDate>Mon, 01 Jan 2024 00:40:36 GMT</pubDate>
+    </item>
     <item>
       <title>Hexcodle：每日十六进制代码猜测游戏！</title>
       <link>https://hexcodle.com/</link>
       <description><![CDATA[你能猜出今天的十六进制颜色吗？挑战您的色彩直觉并使用 Hexcodle 解码十六进制！
 ]]></description>
       <guid>https://hexcodle.com/</guid>
-      <pubDate>Thu, 28 Dec 2023 22:41:24 GMT</pubDate>
+      <pubDate>Fri, 29 Dec 2023 00:41:24 GMT</pubDate>
     </item>
     <item>
       <title>2023 年我学到的 52 件事</title>
@@ -19,7 +59,7 @@
       <description><![CDATA[以下是我今年学到的一些最有趣的事情。
 ]]></description>
       <guid>https://kenthendricks.com/52-things-i-learned-in-2023/</guid>
-      <pubDate>Thu, 28 Dec 2023 22:32:54 GMT</pubDate>
+      <pubDate>Fri, 29 Dec 2023 00:32:54 GMT</pubDate>
     </item>
     <item>
       <title>使用基于日期的 CSS 让旧网页 *看起来* 旧</title>
@@ -27,7 +67,7 @@
       <description><![CDATA[您怎么知道您正在查看旧网站？
 ]]></description>
       <guid>https://shkspr.mobi/blog/2023/12/using-date-based-css-to-make-old-web-pages-look-old/</guid>
-      <pubDate>Thu, 28 Dec 2023 22:29:10 GMT</pubDate>
+      <pubDate>Fri, 29 Dec 2023 00:29:10 GMT</pubDate>
     </item>
     <item>
       <title>2024 年公共领域日</title>
@@ -35,7 +75,7 @@
       <description><![CDATA[2024 年 1 月 1 日是公共领域日：1928 年的作品向所有人开放，1923 年的录音也是如此！
 ]]></description>
       <guid>https://web.law.duke.edu/cspd/publicdomainday/2024/</guid>
-      <pubDate>Thu, 28 Dec 2023 22:26:40 GMT</pubDate>
+      <pubDate>Fri, 29 Dec 2023 00:26:40 GMT</pubDate>
     </item>
     <item>
       <title>如果沃霍尔在 Figma 中创建设计代币会怎样？</title>
@@ -43,12 +83,12 @@
       <description><![CDATA[关于第 2 层颜色标记命名约定的思想实验。
 ]]></description>
       <guid>https://uxdesign.cc/warhol-design-tokens-3acd49431484?sk=226009a6ff7eb6e198cfa926727b5901</guid>
-      <pubDate>Thu, 28 Dec 2023 22:25:41 GMT</pubDate>
+      <pubDate>Fri, 29 Dec 2023 00:25:41 GMT</pubDate>
     </item>
     <item>
       <title>拯救我们的图书馆：Ari Farley 的 GIPHY 艺术问答</title>
       <link>https://medium.com/giphy/save-our-libraries-a-giphy-arts-q-a-with-ari-farley-0a17b1ea6d1b</link>
-      <description><![CDATA[2021 年，田纳西州艺术家 Ari Farley 面临一个改变生活的决定：她是否应该辞去科学营的工作，全职追求艺术？
+      <description><![CDATA[2021 年，田纳西州艺术家 Ari Farley 面临一个改变人生的决定：她是否应该辞去科学营的工作，全职追求艺术？
 ]]></description>
       <guid>https://medium.com/giphy/save-our-libraries-a-giphy-arts-q-a-with-ari-farley-0a17b1ea6d1b</guid>
       <pubDate>Thu, 28 Dec 2023 00:33:30 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://kottke.org/23/12/the-best-movie-posters-of-2023</guid>
       <pubDate>Thu, 28 Dec 2023 00:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>容器样式查询</title>
-      <link>https://12daysofweb.dev/2023/container-style-queries/</link>
-      <description><![CDATA[通过查询自定义属性及其值来探索处理 CSS 的新方法。
-]]></description>
-      <guid>https://12daysofweb.dev/2023/container-style-queries/</guid>
-      <pubDate>Wed, 27 Dec 2023 12:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>视图转换 API 和令人愉悦的 UI 动画</title>
-      <link>https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</link>
-      <description><![CDATA[View Transitions API 是一个新的但改变游戏规则的功能。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</guid>
-      <pubDate>Wed, 27 Dec 2023 12:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>栗原香织 (Kaori Kurihara) 令人难以置信的细致陶瓷</title>
-      <link>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</link>
-      <description><![CDATA[优雅的花瓣、扇形扇子和种子般的纹理覆盖着 Kaori Kurihara 异想天开的陶瓷雕塑。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2023/12/kaori-kurihara-botanical-ceramics/</guid>
-      <pubDate>Wed, 27 Dec 2023 12:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>细节决定成败</title>
-      <link>https://www.htmhell.dev/adventcalendar/2023/23/</link>
-      <description><![CDATA[查看公开小部件标记。
-]]></description>
-      <guid>https://www.htmhell.dev/adventcalendar/2023/23/</guid>
-      <pubDate>Wed, 27 Dec 2023 12:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年最佳书籍封面设计</title>
-      <link>https://kottke.org/23/12/the-best-book-cover-designs-of-2023</link>
-      <description><![CDATA[我喜欢好的书籍封面设计。正如我去年所写：书籍封面是我一直以来最喜欢的设计对象之一
-]]></description>
-      <guid>https://kottke.org/23/12/the-best-book-cover-designs-of-2023</guid>
-      <pubDate>Wed, 27 Dec 2023 12:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

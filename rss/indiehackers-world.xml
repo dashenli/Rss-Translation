@@ -4,11 +4,24 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 31 Dec 2023 21:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 02:25:27 GMT</lastBuildDate>
+    <item>
+      <title>十二月创业 - 我是坏人吗？</title>
+      <link>https://feed.indiehackers.world/post/f7d83fdc56</link>
+      <description><![CDATA[
+探索在现有市场（例如应用商店）中创建项目的选项。
+
+12 月的日程安排非常紧凑。展望未来，我计划将 Reply Gen 的功能扩展为包括 YouTube、Twitter、LinkedIn、Facebook 和 Reddit 等平台。如果您有兴趣看到这种扩展的支持，请告诉我，我会优先考虑它。
+关注更多
+请随时关注我，查看更多有关我的创业冒险的帖子。您可以通过安装 Reply Gen Chrome 扩展程序来尝试本月的启动，在 Reply Gen API 注册免费 API 密钥，然后访问 https://www.indiehackers.com/ 生成帖子回复。也可以查看我的11 月启动！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f7d83fdc56</guid>
+      <pubDate>Sun, 31 Dec 2023 22:20:49 GMT</pubDate>
+    </item>
     <item>
       <title>十一月启动 - Guessaprice</title>
       <link>https://feed.indiehackers.world/post/b23b43160a</link>
-      <description><![CDATA[欢迎关注我，查看更多有关我的创业冒险的帖子。您可以玩 https://guessaprice.com/ 并告诉我您的想法！如果您有兴趣购买该网站，请随时向我发送 DM。
+      <description><![CDATA[请随时关注我，查看更多有关我的创业冒险的帖子。您可以玩 https://guessaprice.com/ 并告诉我您的想法！如果您有兴趣购买该网站，请随时向我发送 DM。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b23b43160a</guid>
       <pubDate>Sun, 31 Dec 2023 20:44:06 GMT</pubDate>
@@ -95,7 +108,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/ae89bc3c19</link>
       <description><![CDATA[你好👋
 我研究竞争对手分析/监控这一主题已经有一段时间了。似乎没有任何工具可以在一个地方可靠地处理此监视过程。
-这就是为什么我现在正在与我的团队合作开展一个旨在解决此问题的新项目！
+这就是为什么我现在正在与我的团队合作开展一个旨在解决这个问题的新项目！
 您的意见是什么？有竞争对手分析/监控的经验吗？
 哪些功能对您有用？
 很想深入研究这个话题！ ✌️
@@ -144,22 +157,10 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>另类俱乐部日报</title>
       <link>https://feed.indiehackers.world/post/48e0da5c0a</link>
-      <description><![CDATA[你好！介绍另类俱乐部时事通讯。本新闻稿重点关注那些通过替代顶级域名 (TLD) 域名建立在线业务的公司。在这篇文章中，我们重点介绍了这些公司 Spotted.io、Landbot.io Tech.co、Itch.io Peritus.ai 等
+      <description><![CDATA[你好！介绍另类俱乐部时事通讯。本新闻稿重点关注那些通过替代顶级域名 (TLD) 域名建立在线形象的公司。在这篇文章中，我们重点介绍了这些公司spotted.io、Landbot.io Tech.co、Itch.io Peritus.ai 等
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/48e0da5c0a</guid>
       <pubDate>Sun, 31 Dec 2023 02:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 个月内完成 12 家初创公司</title>
-      <link>https://feed.indiehackers.world/post/ea674cc131</link>
-      <description><![CDATA[今年我最喜欢的插件是什么？ 
-可能是背景图像部分插件：
-
-这是 Carrd 独有的独特解决方案，其他 Carrd 人员也提出了很多问题，我真的很喜欢思考和制作它背后的创造力。
-这是我构建并继续下去的关键原因。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ea674cc131</guid>
-      <pubDate>Sun, 31 Dec 2023 00:31:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
