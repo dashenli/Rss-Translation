@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 02 Jan 2024 18:31:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 21:20:36 GMT</lastBuildDate>
+    <item>
+      <title>Max（又名 HBO Max）目前 23 部最佳电影</title>
+      <link>https://www.wired.com/story/best-movies-hbo-max-right-now/</link>
+      <description><![CDATA[从《机械战警》到《佐杜洛夫斯基的沙丘》，以下是我们在流媒体服务上最喜欢的电影。]]></description>
+      <guid>https://www.wired.com/story/best-movies-hbo-max-right-now/</guid>
+      <pubDate>Tue, 02 Jan 2024 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国妇女现在正在储备堕胎药</title>
       <link>https://www.wired.com/story/stockpiliing-abortion-pills-new-study/</link>
@@ -101,13 +108,6 @@
       <link>https://www.wired.com/story/22-most-anticipated-movies-of-2024/</link>
       <description><![CDATA[从《沙丘2》到《死侍3》，这些都是我们迫不及待想在来年观看的电影。]]></description>
       <guid>https://www.wired.com/story/22-most-anticipated-movies-of-2024/</guid>
-      <pubDate>Sun, 31 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌修复近 100 个 Android 安全问题</title>
-      <link>https://www.wired.com/story/google-100-android-security-issues-critical-update/</link>
-      <description><![CDATA[另外：Apple 关闭了 Flipper Zero Attack，微软修补了 30 多个漏洞，并在 2023 年最后一个月进行了更多关键更新。]]></description>
-      <guid>https://www.wired.com/story/google-100-android-security-issues-critical-update/</guid>
       <pubDate>Sun, 31 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
