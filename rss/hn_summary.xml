@@ -4,7 +4,39 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 02 Jan 2024 02:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 03:02:33 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]根据 Nvidia 人工智能主管 Bryan Catanzaro 的说法，我们距今仅三年左右 [...]</title>
+      <link>https://t.me/hn_summary/66713</link>
+      <description><![CDATA[Nvidia AI 主管：距离 ChatGPT 时刻还有约 3 年时间物理人工智能代理
+Nvidia 人工智能主管 Bryan Catanzaro 表示，我们距离经历类似于 OpenAI 的 ChatGPT 的突破时刻只有大约三年的时间，但这次是针对物理人工智能代理。虽然没有提供该声明的细节，但它表明人工智能的重大进步即将到来。这一预测很有趣，凸显了人工智能彻底改变各行业物理代理能力的潜力。]]></description>
+      <guid>https://t.me/hn_summary/66713</guid>
+      <pubDate>Tue, 02 Jan 2024 03:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Jan 是 ChatGPT 的开源替代品，提供离线和本地首次会议 [...]</title>
+      <link>https://t.me/hn_summary/66712</link>
+      <description><![CDATA[开源 ChatGPT 替代方案 Jan
+Jan 是 ChatGPT 的开源替代品，提供离线和本地首次对话。这意味着您的所有对话、首选项和模型使用情况都安全地存储在您的计算机上，并且可以随时导出或删除。 Jan 还在 localhost:1337 提供了一个与 OpenAI 等效的 API 服务器，使其成为兼容应用程序的便捷替代品。此外，Jan 正在致力于引入助手框架，这是即将推出的一项令人兴奋的功能。]]></description>
+      <guid>https://t.me/hn_summary/66712</guid>
+      <pubDate>Tue, 02 Jan 2024 02:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]AI UnDetect 是一款革命性的 AI 写作工具，允许用户重写他们的内容 [...]</title>
+      <link>https://t.me/hn_summary/66711</link>
+      <description><![CDATA[展示 HN：AI UnDetect – 免费增值的不可检测 AI 写作工具
+AI UnDetect是一款革命性的AI写作工具，允许用户以不可检测的方式重写其内容。通过其免费增值模式，用户可以邀请朋友加入并赚取重写的字数。每一位成功注册的朋友，用户将获得500字的重写额度，每一位成为付费客户的朋友，用户将额外获得3000字的重写额度。这一独特的功能可以激励用户传播信息并为其内容赢得更多的词汇量。访问 www.aiundetect.com 并使用礼品代码 XXXXXX开始吧。]]></description>
+      <guid>https://t.me/hn_summary/66711</guid>
+      <pubDate>Tue, 02 Jan 2024 02:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网页内容讨论了手动计算对数的方法。</title>
+      <link>https://t.me/hn_summary/66710</link>
+      <description><![CDATA[手动计算对数 [pdf](https://news. ycombinator.com/item?id=38836437)
+网页内容讨论了手动计算对数的方法。它解释了对数的定义和基本属性，包括对数之和、参数内带指数的对数、对数之差以及更改对数的底数。然后内容介绍了两种计算对数的方法：欧拉法和泰勒展开式。欧拉方法涉及使用平方根和对数的性质来缩小值的范围。泰勒展开式使用自然对数和泰勒级数来近似对数。内容最后建议方法 2 更适合接近 1 的数字，而方法 1 对于其他数字更快。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66710</guid>
+      <pubDate>Tue, 02 Jan 2024 02:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>问题版权是一个非营利组织，将在未来几周内关闭，原因是 [...]</title>
       <link>https://t.me/hn_summary/66709</link>
@@ -52,38 +84,6 @@
 archive.org 上标题为“Grasshopper，低级别”的网页内容language for the 6502 (1981)”是一种名为 Grasshopper 的编程语言的文档，该语言是 1981 年为 6502 微处理器开发的。该语言被设计为低级语言，允许程序员直接控制微处理器的硬件。该内容提供了有关 Grasshopper 的语法和功能的信息以及代码示例。对于那些对编程语言的历史和低级编程的开发感兴趣的人来说，该资源非常有价值。]]></description>
       <guid>https://t.me/hn_summary/66704</guid>
       <pubDate>Tue, 02 Jan 2024 01:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]作者分享了他们与瑞典和瑞典语的个人历史，从 [...]</title>
-      <link>https://t.me/hn_summary/66703</link>
-      <description><![CDATA[古怪的 Jabber (2022)
-作者分享了他们与瑞典和瑞典语的个人历史，从他们的父亲于 1961 年获得诺贝尔物理学奖开始。他们回忆起他们对瑞典语的迷恋以及在隆德和斯德哥尔摩期间尝试学习瑞典语的经历。作者随后描述了他们如何在 2016 年重新发现对瑞典语的热爱，甚至将一本书翻译成英文。他们还提到了在乌普萨拉度过的休假年，在那里他们沉浸在语言中。最近，作者又开始看瑞典语书籍，甚至还创作了一段假瑞典语单词来取乐。他们计划使用谷歌翻译和 DeepL 来看看这些虚构的单词是如何翻译的。 （根据故事文本的 45% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66703</guid>
-      <pubDate>Tue, 02 Jan 2024 01:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Hook 是一个图形化 C/C++ 运行时编辑器，旨在简化实验过程 [...]</title>
-      <link>https://t.me/hn_summary/66702</link>
-      <description><![CDATA[显示 HN：Hook – 一个简单的图形 C/C++ 运行时编辑器&lt; /a&gt;
-Hook 是一个图形化 C/C++ 运行时编辑器，旨在简化在运行程序中试验变量的过程。它允许用户实时更改变量，从而消除了耗时的编辑-编译-运行-编辑周期。该项目提供了用于安装的构建脚本，建议谨慎使用，因为可能需要大约 20 分钟才能完成。作者提到，Hook 与其他类似项目的区别在于它提供了一个简单且用户友好的界面来实时编辑变量。]]></description>
-      <guid>https://t.me/hn_summary/66702</guid>
-      <pubDate>Tue, 02 Jan 2024 01:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网页内容是关于 Odin 编程语言的。</title>
-      <link>https://t.me/hn_summary/66701</link>
-      <description><![CDATA[Odin 编程语言
-网页内容是关于 Odin 编程语言的。内容包括用 Odin 编写的代码示例，展示了该语言的各种功能。这些示例演示了数组编程、面向服务的体系结构 (SOA)、类型、上下文系统和反射。代码片段重点介绍了 Odin 的语法和功能，包括它对不同数据类型、数组操作、混合、结构和隐式上下文变量的支持。内容还提到了使用隐式上下文系统拦截第三方代码并修改其功能的能力。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66701</guid>
-      <pubDate>Tue, 02 Jan 2024 01:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“无性流行”是否被夸大了？</title>
-      <link>https://t.me/hn_summary/66700</link>
-      <description><![CDATA[“无性流行”是否被夸大了？&lt; br/&gt;
-文章讨论了围绕“无性流行”的争议，并质疑它是否被夸大了。它引用了《华盛顿邮报》的一张著名图表，该图表显示，过去一年中，性行为频率下降，而年轻人，尤其是男性，报告没有发生性行为。这张图表已广泛流传并用于支持各种叙述，包括约会应用程序导致性别不平等的观点。然而，最近的调查数据表明，这一趋势可能并不像最初描述的那么严重。文章还强调了数据的问题，例如样本大小和权重，这些问题可能导致了夸张的情况。 （根据故事文本的 32% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66700</guid>
-      <pubDate>Tue, 02 Jan 2024 01:05:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
