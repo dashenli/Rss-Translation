@@ -4,7 +4,21 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Mon, 01 Jan 2024 18:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 02:18:35 GMT</lastBuildDate>
+    <item>
+      <title>《几何冲刺》的最新更新允许玩家重现《马里奥赛车》、《玩具熊的五夜后宫》等</title>
+      <link>https://www.ign.com/articles/geometry-dashs-latest-update-allows-players-to-recreate-mario-kart-five-nights-at-freddys-and-more</link>
+      <description><![CDATA[在《几何冲刺》惊喜更新为游戏关卡编辑器添加了新功能的几周后，玩家们分享了《马里奥赛车》、《玩具熊的五夜后宫》和《Celeste》原始 Pico-8 版本等游戏的忠实重制版。]]></description>
+      <guid>https://www.ign.com/articles/geometry-dashs-latest-update-allows-players-to-recreate-mario-kart-five-nights-at-freddys-and-more</guid>
+      <pubDate>Mon, 01 Jan 2024 20:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>《博德之门 3》保存错误在 Xbox 上继续存在，Larian 提供了交叉保存解决方案</title>
+      <link>https://www.ign.com/articles/baldurs-gate-3-deleted-save-bug-continues-on-xbox-larian-offers-a-cross-save-work-around</link>
+      <description><![CDATA[由于 Microsoft 正在修复 Xbox 上删除《博德之门 3》保存文件的错误，Larian Studios 提供了临时解决方法。]]></description>
+      <guid>https://www.ign.com/articles/baldurs-gate-3-deleted-save-bug-continues-on-xbox-larian-offers-a-cross-save-work-around</guid>
+      <pubDate>Mon, 01 Jan 2024 20:04:55 GMT</pubDate>
+    </item>
     <item>
       <title>Square Enix 总裁表示公司将“积极应用人工智能”</title>
       <link>https://www.ign.com/articles/square-enix-president-states-the-company-will-be-aggressive-in-applying-ai</link>
@@ -64,7 +78,7 @@
     <item>
       <title>2024 年对 Marvel 有何期待：电影、电视、游戏和漫画的发行日期</title>
       <link>https://www.ign.com/articles/what-to-expect-marvel-2024-deadpool-x-men-echo</link>
-      <description><![CDATA[MCU 的 2024 年可能会比较轻松，但仍有大量新的漫威内容值得期待。从《死侍 3》到《回声》再到《97 年 X 战警》，我们详细分析了未来 12 个月的精彩内容。]]></description>
+      <description><![CDATA[MCU 的 2024 年可能会比较轻松，但仍有大量新的漫威内容值得期待。从《死侍 3》到《回声》，再到《97 年 X 战警》，我们详细分析了未来 12 个月的精彩内容。]]></description>
       <guid>https://www.ign.com/articles/what-to-expect-marvel-2024-deadpool-x-men-echo</guid>
       <pubDate>Sat, 30 Dec 2023 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[最近公布的《铁拳 8》色盲滤镜对残疾玩家产生了负面影响，导致恶心和偏头痛等问题。虽然色盲选项等辅助工具有助于区分屏幕上的重要信息（例如对手及其健康栏），但此设置会阻止一些残疾人完全观看比赛。]]></description>
       <guid>https://www.ign.com/articles/tekken-8-colorblind-filter-is-causing-vertigo-and-migraines-for-disabled-players</guid>
       <pubDate>Fri, 29 Dec 2023 16:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 PlayStation 有何期待</title>
-      <link>https://www.ign.com/articles/what-to-expect-from-playstation-in-2024</link>
-      <description><![CDATA[了解哪些游戏将登陆 PS5，以及 2024 年索尼 PlayStation 工作室可能会推出哪些游戏。]]></description>
-      <guid>https://www.ign.com/articles/what-to-expect-from-playstation-in-2024</guid>
-      <pubDate>Fri, 29 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOTK的大师剑和海利亚盾：如何获得王国之泪最好的武器</title>
-      <link>https://www.ign.com/articles/totks-master-sword-and-hylian-shield-how-to-get-tears-of-the-kingdoms-best-weapons</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/totks-master-sword-and-hylian-shield-how-to-get-tears-of-the-kingdoms-best-weapons</guid>
-      <pubDate>Fri, 29 Dec 2023 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
