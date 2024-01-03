@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Wed, 03 Jan 2024 12:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 15:13:24 GMT</lastBuildDate>
+    <item>
+      <title>CD Projekt 对被收购不感兴趣</title>
+      <link>https://www.ign.com/articles/cd-projekt-is-not-interested-in-being-acquired</link>
+      <description><![CDATA[《赛博朋克 2077》和《巫师》的开发商 CD Projekt Red 对被收购不感兴趣，尽管 Xbox 和 PlayStation 等公司正在积极寻找工作室进行收购。]]></description>
+      <guid>https://www.ign.com/articles/cd-projekt-is-not-interested-in-being-acquired</guid>
+      <pubDate>Wed, 03 Jan 2024 11:59:38 GMT</pubDate>
+    </item>
     <item>
       <title>《不可能的俄罗斯方块》红白机 34 年来首次被 13 岁天才击败</title>
       <link>https://www.ign.com/articles/impossible-tetris-nes-beaten-for-the-first-time-in-34-years-by-13-year-old-phenom</link>
@@ -76,17 +83,17 @@
       <pubDate>Mon, 01 Jan 2024 15:59:50 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最盛大的游戏即将推出</title>
-      <link>https://www.ign.com/articles/biggest-games-coming-2024</link>
-      <description><![CDATA[从《龙之信条 2》和其他早期推出的游戏到后来推出的大作，这些都是今年值得关注的游戏。]]></description>
-      <guid>https://www.ign.com/articles/biggest-games-coming-2024</guid>
-      <pubDate>Mon, 01 Jan 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>我们通过采访世界上第一位狗速跑者来开启 2024 年</title>
       <link>https://www.ign.com/articles/we-start-2024-by-interviewing-the-worlds-first-dog-speedrunner</link>
       <description><![CDATA[作为每年两次的慈善速通赛事 Games Done Quick (GDQ) 的忠实粉丝，多年来我见过一些相当疯狂的速通比赛。但今年的节目有一个我以前从未见过的速跑计划。今年，在 Awesome Games Done Quick (AGDQ) 上，一只狗将要进行一款游戏的速通。]]></description>
       <guid>https://www.ign.com/articles/we-start-2024-by-interviewing-the-worlds-first-dog-speedrunner</guid>
+      <pubDate>Mon, 01 Jan 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最盛大的游戏即将推出</title>
+      <link>https://www.ign.com/articles/biggest-games-coming-2024</link>
+      <description><![CDATA[从《龙之信条 2》和其他早期推出的游戏到后来推出的大作，这些都是今年值得关注的游戏。]]></description>
+      <guid>https://www.ign.com/articles/biggest-games-coming-2024</guid>
       <pubDate>Mon, 01 Jan 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[PS5、Xbox Series X|S、Nintendo Switch 和 PC 游戏的发布日期的更新列表。]]></description>
       <guid>https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch</guid>
       <pubDate>Sun, 31 Dec 2023 15:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解锁《装甲核心 6》的所有结局</title>
-      <link>https://www.ign.com/articles/how-to-unlock-all-armored-core-6-endings</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/how-to-unlock-all-armored-core-6-endings</guid>
-      <pubDate>Sun, 31 Dec 2023 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
