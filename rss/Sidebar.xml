@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 03 Jan 2024 06:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 09:17:46 GMT</lastBuildDate>
+    <item>
+      <title>面向 Web 开发人员的 AI：AI 图像生成</title>
+      <link>https://austingil.com/ai-for-web-devs-image-generation/</link>
+      <description><![CDATA[我使用 OpenAI 处理 AI 图像生成的细微差别的策略。
+]]></description>
+      <guid>https://austingil.com/ai-for-web-devs-image-generation/</guid>
+      <pubDate>Wed, 03 Jan 2024 08:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>数以千计的电影、书籍和插图刚刚进入公共领域</title>
+      <link>https://www.thisiscolossal.com/2024/01/public-domain-2024/</link>
+      <description><![CDATA[1 月 1 日，数以千计的书籍、电影、戏剧、艺术品、录音等进入公共领域。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/01/public-domain-2024/</guid>
+      <pubDate>Wed, 03 Jan 2024 08:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>1d 吃豆人</title>
+      <link>https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</link>
+      <description><![CDATA[一维吃豆人游戏。 
+]]></description>
+      <guid>https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</guid>
+      <pubDate>Wed, 03 Jan 2024 08:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>包容性设计如何塑造了我</title>
+      <link>https://uxdesign.cc/how-inclusive-design-shaped-me-da617b934e03</link>
+      <description><![CDATA[以神经发散设计师的身份应对工作和生活
+]]></description>
+      <guid>https://uxdesign.cc/how-inclusive-design-shaped-me-da617b934e03</guid>
+      <pubDate>Wed, 03 Jan 2024 08:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>更好故事的九项原则</title>
+      <link>https://www.betterstories.org/</link>
+      <description><![CDATA[免费指南，帮助每个人讲述更好的故事。
+]]></description>
+      <guid>https://www.betterstories.org/</guid>
+      <pubDate>Wed, 03 Jan 2024 08:09:57 GMT</pubDate>
+    </item>
     <item>
       <title>在自定义框架上重建表情符号选择器元素</title>
       <link>https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://12daysofweb.dev/2023/anchor-positioning</guid>
       <pubDate>Mon, 01 Jan 2024 00:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hexcodle：每日十六进制代码猜测游戏！</title>
-      <link>https://hexcodle.com/</link>
-      <description><![CDATA[你能猜出今天的十六进制颜色吗？挑战您的色彩直觉并使用 Hexcodle 解码十六进制！
-]]></description>
-      <guid>https://hexcodle.com/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年我学到的 52 件事</title>
-      <link>https://kenthendricks.com/52-things-i-learned-in-2023/</link>
-      <description><![CDATA[以下是我今年学到的一些最有趣的事情。
-]]></description>
-      <guid>https://kenthendricks.com/52-things-i-learned-in-2023/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用基于日期的 CSS 让旧网页 *看起来* 旧</title>
-      <link>https://shkspr.mobi/blog/2023/12/using-date-based-css-to-make-old-web-pages-look-old/</link>
-      <description><![CDATA[您怎么知道您正在查看旧网站？
-]]></description>
-      <guid>https://shkspr.mobi/blog/2023/12/using-date-based-css-to-make-old-web-pages-look-old/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年公共领域日</title>
-      <link>https://web.law.duke.edu/cspd/publicdomainday/2024/</link>
-      <description><![CDATA[2024 年 1 月 1 日是公共领域日：1928 年的作品向所有人开放，1923 年的录音也是如此！
-]]></description>
-      <guid>https://web.law.duke.edu/cspd/publicdomainday/2024/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果沃霍尔在 Figma 中创建设计代币会怎样？</title>
-      <link>https://uxdesign.cc/warhol-design-tokens-3acd49431484?sk=226009a6ff7eb6e198cfa926727b5901</link>
-      <description><![CDATA[关于第 2 层颜色标记命名约定的思想实验。
-]]></description>
-      <guid>https://uxdesign.cc/warhol-design-tokens-3acd49431484?sk=226009a6ff7eb6e198cfa926727b5901</guid>
-      <pubDate>Fri, 29 Dec 2023 00:25:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
