@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 09:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:25:37 GMT</lastBuildDate>
+    <item>
+      <title>泄露的文件显示艺术家 Midjourney 用于训练其人工智能模型</title>
+      <link>https://hypebeast.com/2024/1/midjourney-leaked-filed-artist-ai-training</link>
+      <description><![CDATA[名字包括草间弥生、达米安·赫斯特、安迪·沃霍尔，甚至还有一个六岁的孩子。
+]]></description>
+      <guid>https://hypebeast.com/2024/1/midjourney-leaked-filed-artist-ai-training</guid>
+      <pubDate>Thu, 04 Jan 2024 08:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Midlibrary：Midjourney AI 样式库和指南</title>
+      <link>https://midlibrary.io/</link>
+      <description><![CDATA[网络上最先进的 Midjourney AI 样式库。
+]]></description>
+      <guid>https://midlibrary.io/</guid>
+      <pubDate>Thu, 04 Jan 2024 08:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年 JavaScript 新星</title>
+      <link>https://risingstars.js.org/2023/en</link>
+      <description><![CDATA[2023 年 JavaScript 前景的完整概述。
+]]></description>
+      <guid>https://risingstars.js.org/2023/en</guid>
+      <pubDate>Thu, 04 Jan 2024 08:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户体验独角兽的重生？</title>
+      <link>https://jakobnielsenphd.substack.com/p/ux-unicorn</link>
+      <description><![CDATA[擅长用户体验生命周期所有步骤（包括研究和设计）的用户体验专业人员被称为“用户体验独角兽”，因为他们很罕见。
+]]></description>
+      <guid>https://jakobnielsenphd.substack.com/p/ux-unicorn</guid>
+      <pubDate>Thu, 04 Jan 2024 08:20:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>13 岁少年成为第一个通关 NES 俄罗斯方块的人</title>
+      <link>https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</link>
+      <description><![CDATA[13 岁的 Blue Scuti 在成为第一个击败 NES 版本的人类玩家后，现已成为世界上最好的俄罗斯方块玩家
+]]></description>
+      <guid>https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</guid>
+      <pubDate>Thu, 04 Jan 2024 08:18:49 GMT</pubDate>
+    </item>
     <item>
       <title>面向 Web 开发人员的 AI：AI 图像生成</title>
       <link>https://austingil.com/ai-for-web-devs-image-generation/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://dustinbrett.com/</guid>
       <pubDate>Tue, 02 Jan 2024 11:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>对抗性一致性</title>
-      <link>https://adrianroselli.com/2023/12/2-5-8-adversarial-conformance.html</link>
-      <description><![CDATA[看看符合辅助功能指南但仍然欺骗用户的深色模式。 
-]]></description>
-      <guid>https://adrianroselli.com/2023/12/2-5-8-adversarial-conformance.html</guid>
-      <pubDate>Mon, 01 Jan 2024 00:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年最佳数据可视化项目</title>
-      <link>https://flowingdata.com/2023/12/29/best-of-2023/</link>
-      <description><![CDATA[数据继续呈上升趋势，随之而来的是可视化的重要性。
-]]></description>
-      <guid>https://flowingdata.com/2023/12/29/best-of-2023/</guid>
-      <pubDate>Mon, 01 Jan 2024 00:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时模拟流体、火灾和烟雾</title>
-      <link>https://andrewkchan.dev/posts/fire.html</link>
-      <description><![CDATA[有关实时模拟火焰和烟雾等流体所涉及的数学、算法和方法的注释。
-]]></description>
-      <guid>https://andrewkchan.dev/posts/fire.html</guid>
-      <pubDate>Mon, 01 Jan 2024 00:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用生成式人工智能来检测猫的品种</title>
-      <link>https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds</link>
-      <description><![CDATA[说实话，生成式人工智能除了与猫一起工作之外还有什么其他用途？
-]]></description>
-      <guid>https://www.raymondcamden.com/2023/12/18/using-generative-ai-to-detect-cat-breeds</guid>
-      <pubDate>Mon, 01 Jan 2024 00:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>锚定位</title>
-      <link>https://12daysofweb.dev/2023/anchor-positioning</link>
-      <description><![CDATA[锚定位是一项动态添加功能，旨在增强 CSS 定位的功能。
-]]></description>
-      <guid>https://12daysofweb.dev/2023/anchor-positioning</guid>
-      <pubDate>Mon, 01 Jan 2024 00:40:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

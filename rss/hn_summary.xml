@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 06:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:22:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在最近的一项裁决中，加州第四区上诉法院裁定 [...]</title>
-      <link>https://t.me/hn_summary/67098</link>
-      <description><![CDATA[警用无人机镜头不受《加州公共记录法》的约束
-在最近的一项裁决中，加州第四区上诉法院裁定，不能完全向公众隐瞒警用无人机响应 911 电话而拍摄的视频片段。这一决定是在记者阿图罗·卡斯塔尼亚雷斯 (Arturo Castañares) 起诉丘拉维斯塔警察局获取其“无人机作为急救人员”项目制作的视频后做出的。最初，初审法院做出了有利于警察局的裁决，称该录像片段不作为执法调查记录而被披露。然而，卡斯塔尼亚雷斯提出上诉，电子前线、第一修正案联盟和新闻自由记者委员会等组织提交了一份简报支持他的案件。上诉法院同意无人机镜头不能绝对免于公开披露，并下令采取更细致的方法来确定潜在的服务请求是否涉及犯罪或潜在犯罪。这项裁决为加州其他开展类似无人机项目的机构树立了先例，强调他们不能滥用公共记录法来保护无人机镜头免受公众监督。]]></description>
-      <guid>https://t.me/hn_summary/67098</guid>
-      <pubDate>Thu, 04 Jan 2024 06:12:40 GMT</pubDate>
+      <title>[媒体]一项新研究发现，长期感染新冠病毒的人在感染后会出现虚弱症状 [...]</title>
+      <link>https://t.me/hn_summary/67125</link>
+      <description><![CDATA[长期新冠病毒会导致身体发生变化，使运动变得虚弱 - 研究
+一项新的研究发现，长期感染新冠病毒的人由于身体的生物学变化，在运动后会出现虚弱症状。这项由阿姆斯特丹自由大学的研究人员进行的研究揭示了长期感染新冠病毒的患者体内存在严重的肌肉损伤、线粒体问题以及微血栓的存在。研究结果解释了为什么许多新冠长期患者在体力活动后长时间感到疲倦、不适和疼痛。该研究涉及 25 名长期感染新冠病毒的患者和 21 名已从新冠病毒中完全康复的人。研究表明，改善线粒体健康的治疗可能对长期新冠患者有益。然而，持续炎症等其他因素也可能导致症状。]]></description>
+      <guid>https://t.me/hn_summary/67125</guid>
+      <pubDate>Thu, 04 Jan 2024 12:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>标准电子书是一个利用公共领域文献并创建现代电子书的项目 [...]</title>
-      <link>https://t.me/hn_summary/67097</link>
-      <description><![CDATA[标准电子书每月使用 2GB VPS 处理请求 
-标准电子书是一个利用公共领域文献并从中创建现代电子书的项目。尽管每月处理数百万个请求，但该项目在小型 2GB VPS 上运行，不依赖 JavaScript 或数据库等现代技术。该网站使用 PHP（一种流行的服务器端语言）构建，并使用基于文件的模板系统来处理动态内容。该项目还利用对象缓存来存储电子书元数据，而不是传统的数据库。不使用 JavaScript 并依赖经典 Web 技术简化了开发、提高了可访问性并减少了维护负担。该项目旨在独立、自给自足，避免依赖第三方云服务。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67097</guid>
-      <pubDate>Thu, 04 Jan 2024 05:50:23 GMT</pubDate>
+      <title>[媒体]微软正在向 Windows 11 PC 引入 Copilot 键，这标志着一个重大转变 [...]</title>
+      <link>https://t.me/hn_summary/67124</link>
+      <description><![CDATA[新的 Copilot 键开启人工智能驱动的 Windows 之年个人电脑
+微软正在为 Windows 11 PC 引入 Copilot 键，标志着向更加个性化和智能的计算未来的重大转变。该公司的目标是将人工智能无缝集成到 Windows 中，简化并增强计算体验。微软一直处于人工智能驱动转变的最前沿，Copilot 是其产品体验的核心。 Copilot 键是近三十年来 Windows PC 键盘的首次重大变化，它将成为进入 PC 人工智能世界的入口点。该密钥将于 2 月底开始在新的 Windows 11 电脑上提供。]]></description>
+      <guid>https://t.me/hn_summary/67124</guid>
+      <pubDate>Thu, 04 Jan 2024 12:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一次令人痛心的事件中，飞机上的 367 名乘客发现自己面临着生死存亡的危机 [...]</title>
-      <link>https://t.me/hn_summary/67096</link>
-      <description><![CDATA[367 名乘客在几分钟内逃离 - 他们是如何做到的
-一架飞机发生火灾，机上 367 名乘客面临生死攸关的惨痛事件。机舱内浓烟滚滚，火势蔓延，乘客们只有几分钟的时间才能逃生。一个孩子绝望地呼喊着要人开门。本文没有提供任何有争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/67096</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:14 GMT</pubDate>
+      <title>[媒体]在[...]中发现了一组新的动物掠食者化石，名为Timorebestia。</title>
+      <link>https://t.me/hn_summary/67123</link>
+      <description><![CDATA[10亿年前发现的“巨型”捕食者蠕虫格陵兰岛
+在格陵兰岛发现了一种新的食肉动物群体的化石，名为“Timorebestia”。这些大型蠕虫生活在 5.18 亿年前，是最早在水体中定居的食肉动物之一。它们长有鳍，头部清晰，触角长，体长可达30多厘米。研究人员发现，帝汶兽是现代箭虫的近亲，现代箭虫是一种以浮游动物为食的小型海洋掠食者。这一发现表明古代海洋生态系统非常复杂，存在多层捕食者。这些化石还提供了有关有颌捕食者进化的见解。]]></description>
+      <guid>https://t.me/hn_summary/67123</guid>
+      <pubDate>Thu, 04 Jan 2024 12:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。</title>
-      <link>https://t.me/hn_summary/67095</link>
-      <description><![CDATA[首次私人金星任务
-领先的航空航天公司火箭实验室宣布了首次私人金星任务的计划。这项开创性的任务旨在探索地球的大气层并收集有关其成分的宝贵数据。该任务将使用火箭实验室的电子火箭来执行，该火箭拥有成功发射的良好记录。这次私人金星任务标志着太空探索的一个重要里程碑，因为它展示了私营公司在该领域不断增强的能力。该任务预计将为金星提供有价值的见解，并有助于我们了解太阳系。]]></description>
-      <guid>https://t.me/hn_summary/67095</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:08 GMT</pubDate>
+      <title>[媒体]一个国家联盟正在考虑对 [...]</title>
+      <link>https://t.me/hn_summary/67122</link>
+      <description><![CDATA[针对也门陆基目标的军事行动又近了一步&lt; /a&gt;
+在红海南部商船发生一系列袭击事件后，一个国家联盟正在考虑对也门的陆基目标采取军事行动。这些袭击是由胡塞叛军在伊朗支持下发动的，导致五分之一的船只避开红海并选择更长的航线。美国、英国和日本等多个国家的政府呼吁立即停止袭击。航运组织也对这一声明表示感谢，并呼吁保护海员和该地区的国际贸易。联合国安理会要求胡塞武装停止袭击并释放一艘于 11 月被扣押的日本经营的汽车运输船。国际海事组织谴责了这次袭击，日本川崎汽船株式会社总裁警告称，这对供应链可能造成影响。这场危机导致海运费飙升，战争险保险费用增加。到目前为止，干散货市场受到的影响很小。]]></description>
+      <guid>https://t.me/hn_summary/67122</guid>
+      <pubDate>Thu, 04 Jan 2024 12:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是 JSON？</title>
-      <link>https://t.me/hn_summary/67094</link>
-      <description><![CDATA[什么是 JSON？
-Web 内容解释了 JSON 的各个方面，包括对象、重复键、架构附加键、空值、数字和字符串。它强调了现实世界的注意事项，并提供了在 JSON 实现中处理这些方面的建议。提到的一个有争议的方面是使用重复键作为注释，这是一种常见做法，但在 JSON 规范中没有指定。内容还提到需要处理 JSON 字符串中的欺骗性字符和单独代理，以确保正确的编码和解码。总体而言，该内容提供了有关使用 JSON 的宝贵见解和建议。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/67094</guid>
-      <pubDate>Thu, 04 Jan 2024 05:43:01 GMT</pubDate>
+      <title>[媒体]为什么杂货店不存木瓜果？</title>
+      <link>https://t.me/hn_summary/67121</link>
+      <description><![CDATA[为什么杂货店不储备木瓜果？ 
+这篇文章讨论了木瓜果难以捉摸的本质以及为什么它在杂货店中不常见。作者讲述了他们自己在农贸市场和高档杂货店寻找木瓜的经历，却发现它们已售罄或缺货。木瓜被描述为一种矛盾体，其果肉像奶油冻，尝起来像香蕉、芒果和菠萝的混合体。尽管木瓜原产于美国东部和加拿大，但由于种植和运输的挑战，很难找到木瓜。本文还探讨了木瓜的历史和文化意义，以及使其更具商业可行性的育种工作的潜力。作者最后指出，木瓜加工产品可能是这种水果获得商业成功的最佳机会。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67121</guid>
+      <pubDate>Thu, 04 Jan 2024 11:48:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在推动 [...]</title>
-      <link>https://t.me/hn_summary/67093</link>
-      <description><![CDATA[十亿行挑战
-十亿行挑战是一个令人兴奋且雄心勃勃的项目，旨在突破数据处理的界限。该挑战涉及处理包含 10 亿行的数据集，这是一个巨大的数据量。该数据集包括有关各个城市及其温度范围的信息。面临的挑战是如何高效地分析和处理这个庞大的数据集。该项目为数据科学家和分析师展示他们处理大数据的技能和创造力提供了一个独特的机会。这是对他们处理大规模数据处理任务和寻找创新解决方案的能力的考验。这项挑战肯定会引起数据科学领域的关注并产生兴趣。]]></description>
-      <guid>https://t.me/hn_summary/67093</guid>
-      <pubDate>Thu, 04 Jan 2024 05:39:54 GMT</pubDate>
+      <title>[媒体]利用卫星图像和人工智能，研究人员创建了最清晰的人类行为地图 [...]</title>
+      <link>https://t.me/hn_summary/67120</link>
+      <description><![CDATA[人工智能和卫星图像用于创建最清晰的人类海上活动地图
+研究人员利用卫星图像和人工智能绘制了迄今为止最清晰的人类海上活动地图。这些地图发表在《自然》杂志上，揭示了以前未被注意到的工业活动，包括可疑的捕鱼作业和海上能源开发。这项由全球渔业观察牵头的研究发现，世界上 75% 的工业渔船以及高达 30% 的运输和能源船只没有被公开追踪。缺乏追踪可能会阻碍全球保护工作。研究人员使用欧洲航天局 Sentinel-1 卫星星座的先进雷达仪器来观察地球表面，并填补海上自动识别系统 (AIS) 留下的空白。该研究强调需要更准确地了解人类海上活动，以保护世界海洋和渔业。]]></description>
+      <guid>https://t.me/hn_summary/67120</guid>
+      <pubDate>Thu, 04 Jan 2024 11:29:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 短睡眠综合症 (SSS) 是一种睡眠状况，患者睡眠时间少于 [...]</title>
-      <link>https://t.me/hn_summary/67092</link>
-      <description><![CDATA[短睡眠综合症
-短睡眠综合症 (SSS) 是一种睡眠状况，患者每晚睡眠时间少于六个小时，但全天仍能正常工作。与那些有目的地限制睡眠的人不同，SSS 患者有自然的最低睡眠要求。这种情况被认为与基因突变有关，这种基因突变可以让个体在睡眠较少的情况下思考和运作良好。虽然 SSS 不被视为一种疾病，但出现疲劳、入睡困难或频繁醒来等症状的个人应咨询医生。诊断可能涉及问卷和睡眠日记，治疗方案包括睡眠卫生、光疗和重置睡眠时间表。]]></description>
-      <guid>https://t.me/hn_summary/67092</guid>
-      <pubDate>Thu, 04 Jan 2024 05:27:43 GMT</pubDate>
+      <title>[媒体] 光纤供电 (3v 180mA) 是一项革命性技术，可实现传输 [...]</title>
+      <link>https://t.me/hn_summary/67119</link>
+      <description><![CDATA[光纤供电（3v 180mA）
+光纤供电 (3v 180mA) 是一项革命性技术，允许通过单根光缆传输电力和数据。这消除了对单独电源线的需要，使安装更清洁、更高效。该技术的电压为 3V，电流为 180mA，能够为多种设备供电。无论您是技术爱好者还是该领域的专业人士，光纤供电都是一个游戏规则改变者，它将简化您的设置并增强您的整体体验。]]></description>
+      <guid>https://t.me/hn_summary/67119</guid>
+      <pubDate>Thu, 04 Jan 2024 11:28:05 GMT</pubDate>
     </item>
     <item>
-      <title>著名的网络攻击或为 Iron Maiden 开场的乐队？</title>
-      <link>https://t.me/hn_summary/67091</link>
-      <description><![CDATA[著名的网络攻击或为 Iron Maiden 开设的乐队？测验
-Sporcle.com 上的这个测验测试您对著名网络攻击和网络攻击的了解为《铁娘子》开场。该测验是多项选择题，允许您从一组选项中单击正确答案。这个测验的想法来自 No Such Thing As A Fish 播客的第 508 集。测试您的知识，看看您是否可以进入测验记分牌！]]></description>
-      <guid>https://t.me/hn_summary/67091</guid>
-      <pubDate>Thu, 04 Jan 2024 05:15:32 GMT</pubDate>
+      <title>[媒体]举报人援助是一个为举报人提供支持和资源的网站。</title>
+      <link>https://t.me/hn_summary/67118</link>
+      <description><![CDATA[举报人援助
+举报人援助是一个为举报人提供支持和资源的网站。该网站由国际知名的人权、新闻自由、信息运营和互联网自由专家 Libby Liu 领导。在加入举报人援助组织之前，刘创建了开放技术基金（OTF），该基金支持绕过审查和监视并促进言论自由的工具。每天有超过 20 亿人使用 OTF 支持的技术，例如 Signal、TOR 和 Wireguard。刘在保护数字生活和宣传未经审查的新闻方面的经验使她成为举报人援助组织的宝贵财富。]]></description>
+      <guid>https://t.me/hn_summary/67118</guid>
+      <pubDate>Thu, 04 Jan 2024 11:18:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这段视频中，塔尔·莱维 (Taal Levi) 讨论了野生动物物种与环境之间的关系 [...]</title>
-      <link>https://t.me/hn_summary/67090</link>
-      <description><![CDATA[在狐狸繁盛的地方，莱姆病却没有 (2014) [视频](https://news.ycombinator.com/item?id=38862603)
-在这段视频中，塔尔·莱维讨论了野生动物物种与莱姆病传播之间的关系。他解释说，老鼠是这种疾病的特别好的携带者，因为它们的免疫系统无法抵抗病原体，也不会清除体内的蜱虫。然而，狐狸捕杀老鼠的效率很高，统计数据显示，随着狐狸数量的减少，莱姆病的发病率也会增加。这凸显了了解导致传染病传播的生态因素的重要性。该视频由《波基普西日报》制作，由约翰·费罗主演。]]></description>
-      <guid>https://t.me/hn_summary/67090</guid>
-      <pubDate>Thu, 04 Jan 2024 05:09:25 GMT</pubDate>
+      <title>[媒体]文章探讨波兰和M的工业化和发展战略[...]</title>
+      <link>https://t.me/hn_summary/67117</link>
+      <description><![CDATA[波兰/马来西亚模式：上层中产阶级-快速方案
+文章讨论了波兰和马来西亚的工业化和发展战略，并将其与韩国的成功故事进行了比较。它强调了促进制成品出口对提高生产力水平和实现经济增长的重要性。波兰和马来西亚取得了令人瞩目的经济成就，达到了中上层阶级的地位。文章还强调波兰和马来西亚对外国直接投资（FDI）的依赖，这违背了促进本土投资的传统理念。这些国家在吸引外国直接投资方面的成功给其他发展中国家带来了希望。本文进一步探讨了其经济的出口密集型性质，特别是在电子和汽车行业。它还提到了经济特区在吸引FDI方面的作用。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67117</guid>
+      <pubDate>Thu, 04 Jan 2024 10:52:26 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：当一个孤独的家庭成员去世并且他们的生活在网上时该怎么办？</title>
-      <link>https://t.me/hn_summary/67089</link>
-      <description><![CDATA[询问 HN：当孤独的家庭成员去世及其家人时该怎么办生活是在线的吗？
-news.ycombinator.com 上这篇文章的作者是寻求在网上过着独居生活的家庭成员去世后该怎么办的建议。提交人的妹夫在接受健康检查后被发现死亡，目前尚不清楚他是如何死亡的。这位姐夫以与人在线互动而闻名，尤其是通过玩《无尽的任务》。作者很关心他姐夫的虚拟朋友，并想知道是否可以做些什么来通知他们他的去世。作者还提到，他们不确定是否有人有权使用姐夫的计算机和其他物品。]]></description>
-      <guid>https://t.me/hn_summary/67089</guid>
-      <pubDate>Thu, 04 Jan 2024 05:07:18 GMT</pubDate>
+      <title>[媒体]麻省理工学院的研究人员开发了一种对活细胞进行成像的新方法，使它们能够[...]</title>
+      <link>https://t.me/hn_summary/67116</link>
+      <description><![CDATA[一种查看活细胞内活动的新方法
+麻省理工学院的研究人员开发了一种对活细胞成像的新方法，使他们能够一次观察多达七种不同的分子，甚至可能更多。目前的细胞成像技术仅限于一次只能对细胞内的几种不同分子类型进行成像。新方法使用以不同速率闪烁的荧光分子，使研究人员能够跟踪每种目标蛋白随时间变化的量。这种方法可以为细胞如何工作提供有价值的见解，包括它们对衰老或疾病的反应。研究人员希望扩大可切换荧光团的范围，以研究细胞内更多的信号。]]></description>
+      <guid>https://t.me/hn_summary/67116</guid>
+      <pubDate>Thu, 04 Jan 2024 10:46:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
