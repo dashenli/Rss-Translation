@@ -4,7 +4,91 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jan 2024 18:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 21:12:38 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 将于下周开设其定制 ChatGPT 商店</title>
+      <link>https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 William Joel / The Verge 绘制
+
+在推迟推出之后，OpenAI 的 GPT 商店即将开业。
+OpenAI 在发给 GPT 构建者的电子邮件中表示，GPT 商店将于下周正式推出，用户可以在其中销售和共享基于 OpenAI 大型语言模型的定制 AI 代理。该电子邮件要求用户仔细检查他们的 GPT 创作是否符合品牌准则，并提醒人们公开他们的 GPT。
+
+
+已发送电子邮件至 GPT Builders。
+
+OpenAI 在 11 月开发者大会上首次宣布，它将让 其他人使用其 GPT-4 大语言模型构建 AI 代理，称为 GPT。它仅适用于 ChatGPT Plus 和企业订阅者，并允许人们创建 ChatGPT 式聊天机器人的定制版本，范围从解释 Z 世代模因的聊天机器人到指导人们进行谈判的聊天机器人。虽然 OpenAI 构建的自定义 GPT 可以通过 ChatGPT Plus 的探索选项卡获得，但该商店将允许用户共享他们的 GPT 并从中获利。 OpenAI 表示，计划根据商店中人工智能代理的使用量，找到一种向 GPT 创建者支付费用的方法，但尚未公布有关该计划的任何其他细节。
+商店最初应该11 月推出，但不得不推迟，因为 OpenAI 这个月非常忙碌解雇首席执行官萨姆·奥尔特曼，然后&lt;a href=&quot;https://www.theverge.com/2023/11/29/23981848/sam-altman-back-open-ai-ceo-microsoft-board ”重新聘请首席执行官萨姆·奥尔特曼&lt;/a&gt;。日期滑到了 12 月，然后再次推迟。]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24025610/openai-gpt-store-ai-agent-delay</guid>
+      <pubDate>Thu, 04 Jan 2024 20:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，OpenAI 与新闻出版商的交易每年最高可达 500 万美元</title>
+      <link>https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：OpenAI
+
+随着新闻出版商与人工智能公司签订协议，用新闻故事训练他们的模型，OpenAI 等企业愿意为受版权保护的信息支付的价格逐渐浮出水面。
+据报道，OpenAI 每年提供 100 万至 500 万美元的版权新闻文章授权来训练其 AI 模型。这是人工智能公司计划为许可材料支付多少费用的首要迹象之一。它与最近的一份报告一起显示，苹果正在与媒体公司合作&lt; /a&gt; 将内容用于人工智能培训，并在多年期间提供至少 5000 万美元的数据。 The Verge 联系了 OpenAI，征求对这些数字的评论。
+这些数字与一些早期的非 AI 许可交易大致相似。当 Meta 推出 Facebook 新闻选项卡时 - 自在欧洲停止使用以来- 据称提供高达 300 万美元 一年的新闻报道、头条新闻和预览许可。但尚不清楚总支出是否等于我们所见过的一些更大的数字。 Google2020 年宣布将总共投资 10 亿美元与例如，新闻机构。在新法律的压力下，Google 还最近同意每年向加拿大出版商支付总计 1 亿美元，以换取其文章的链接。
+据我们所知，当今的大型语言模型主要是根据互联网信息进行训练的。虽然一些人工智能模型没有透露它们如何获取训练数据，但通常可以获取有关使用哪些数据集或网络爬虫的信息。训练数据集的定价因提供商、数据集大小和内容而异。一些数据提供者（例如 LAION）是开源且完全免费的，并由稳定扩散等模型使用。人工智能开发人员还经常设置网络爬虫，通过互联网获取数据来帮助训练他们的模型。 （人工智能开发人员仍然需要雇用人员来审查、标记，有时还需要清理训练数据，这大大增加了运营成本。）
+但这种做法现在面临着重大挑战。一方面，OpenAI 的 GPT 爬虫已被一些公司阻止访问数据，包括《纽约时报》和《The Verge》的母公司 Vox Media。另一方面，一些组织认为对其数据进行培训构成版权侵权。 纽约时报 其中，已起诉 OpenAI 和微软侵犯版权，声称 ChatGPT 和微软的 Copilot 可以几乎逐字生成其工作的输出。
+良好的合作伙伴关系让人工智能公司可以避免这些问题，并且在过去的一年里这已成为一种更常见的做法。像 Axel Springer（Politico  和 Business Insider 的母公司）和美联社这样的出版商 已与 OpenAI 签署协议，授权故事来训练 GPT-4 等模型并开发新闻采集技术。 
+OpenAI 和 Apple 并不是唯一希望与新闻机构合作的人工智能开发商。 据报道，Google 演示了一款名为 Genesis 的 AI 工具，该工具需要事实并向《纽约时报》、《华尔街日报》和《华盛顿邮报》的高管发布新闻报道。与此同时，一些新闻机构在新闻编辑室中使用了生成式人工智能工具结果好坏参半。]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright</guid>
+      <pubDate>Thu, 04 Jan 2024 19:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于收集您的想法和数据的最佳笔记应用程序</title>
+      <link>https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps</guid>
+      <pubDate>Thu, 04 Jan 2024 19:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clicks 是一款专为创作者设计的黑莓风格 iPhone 键盘保护套</title>
+      <link>https://www.theverge.com/2024/1/4/24024957/clicks-iphone-keyboard-case-iphone-14-15-lightning-usb-c</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24024957/clicks-iphone-keyboard-case-iphone-14-15-lightning-usb-c</guid>
+      <pubDate>Thu, 04 Jan 2024 19:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊的笔记 Kindle Scribe 已降至迄今为止最优惠的价格之一</title>
+      <link>https://www.theverge.com/2024/1/4/24023130/kindle-scribe-apple-airpods-pro-usb-c-samsung-frame-tv-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24023130/kindle-scribe-apple-airpods-pro-usb-c-samsung-frame-tv-deal-sale</guid>
+      <pubDate>Thu, 04 Jan 2024 18:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国首个商业规模海上风电场已上线，但该行业面临强劲阻力</title>
+      <link>https://www.theverge.com/2024/1/4/24025186/offshore-wind-joe-biden-climate-clean-energy-vineyard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24025186/offshore-wind-joe-biden-climate-clean-energy-vineyard</guid>
+      <pubDate>Thu, 04 Jan 2024 18:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌似乎正在开发 Bard 的“高级”版本，你必须付费才能使用</title>
+      <link>https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Google 似乎正在开发名为“Bard Advanced”的 Bard 升级版本，如共享的 开发者 Dylan Roussel 在 X（以前的 Twitter）上。
+Bard Advanced 似乎由顶级的 Gemini Ultra 提供支持 Google 新发布的大语言模型 (LLM)，据 Roussel 介绍。这是对运行中端 Gemini Pro 的 Bard 当前版本的升级。 Roussel 分享的一张屏幕截图将 Bard Advanced 描述为“一种功能更强大的大型语言模型，具有高级数学和推理技能”。 开发者 Bedros Pamboukian 还发现了一串代码，表明 Google 正在开发“高级”层。
+
+
+2. Bard Advanced 使用 Google One。Google 将允许您通过 Google One 获得 3 个月的“Bard Advanced”。Bard Advanced 将使用 Gemini Ultra。 pic.twitter.com/IqDWkpMDUg—迪伦·罗塞尔 (@evowizz) 2024 年 1 月 4 日
+
+
+此外，Roussel 还发现了更多更新并分享了屏幕截图，其中包括代号为 Motoko 的功能，该功能可以让用户创建自定义机器人。不过，没有任何迹象表明用户是否能够共享这些机器人，或者他们是否需要付费才能访问此功能。去年，OpenAI 宣布将让 GPT Plus 订阅者创建 和共享自定义机器人.
+Google 还可能推出一项新的“power up”功能，该功能使用 AI 来扩展和改进您向 Bard 提供的提示。正如罗塞尔发现的那样，其中还提到了“画廊”部分，他推测这将让你“探索不同的主题，看看你可以用巴德做什么”。屏幕截图显示的其他小调整包括一个新的“任务”选项卡，您可以使用它来跟踪 Bard 当前正在处理的较长作业，例如图像生成，以及向共享 Bard 提示添加自定义背景的方法。 
+我们仍然不知道这些功能何时（或是否）会正式发布，并且 Google 没有立即回应 The Verge 的置评请求。 p&gt;
+过去几个月，Google 对 Bard 进行了大量升级，例如 允许其实时响应查询并回答有关 YouTube 视频的问题，因为它看起来与 喜欢 ChatGPT 和 微软副驾驶。 ]]></description>
+      <guid>https://www.theverge.com/2024/1/4/24025270/google-bard-advanced-paid-subscription</guid>
+      <pubDate>Thu, 04 Jan 2024 18:16:33 GMT</pubDate>
+    </item>
     <item>
       <title>预订 Galaxy S24 手机即可获得 50 美元的三星积分</title>
       <link>https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone</link>
@@ -15,10 +99,10 @@
 三星最近 宣布下一次 Unpacked 活动将于 1 月 17 日开始，届时该公司预计将展示全新 Galaxy S24 系列。与往常一样，该公司还同时开放了下一款 Galaxy 设备的“预订”，在提供您的姓名和电子邮件地址后，您将获得 50 美元的积分。三星网站。
 不过，需要记住一些注意事项：首先，在 1 月 17 日发布设备后，您必须使用相同的电子邮件地址进行预订。之后，您必须完成购买，因此请确保手边有信用卡。
 
-购买后您也无法使用 50 美元的积分。相反，积分只能在您购买预留设备的同时使用——而且您不能用它来抵消手机费用。相反，您只能将积分用于三星在线商店中的其他符合条件的产品。三星尚未具体说明这些到底是什么，但从历史上看，人们已经能够使用信用来三星的无线耳机和智能手机保护壳等配件。
+购买后您也无法使用 50 美元的积分。相反，积分只能在您购买预留设备的同时使用——而且您不能用它来抵消手机费用。相反，您只能将积分用于三星在线商店中的其他符合条件的产品。三星尚未具体说明这些具体是什么，但从历史上看，人们已经能够使用信用来三星的无线耳机和智能手机保护壳等配件。
 
-我们无法确定 S24 系列将拥有哪些新功能。然而，有传言称它将配备新的 设备上 AI 加速 Snapdragon 8 Gen 3 芯片，而 S24 Ultra 可能会采用类似 iPhone 15 Pro 的钛金属机身、升级的 50MP 5 倍长焦摄像头以及4K 120fps录音。
-要亲自了解这些传言是否属实，请在 17 日上午 10 点（太平洋时间）/下午 1 点（东部时间）观看三星的直播，届时该公司最终将透露秘密。
+我们无法确定 S24 系列将拥有哪些新功能。然而，有传言称它将配备新的 设备上人工智能加速 Snapdragon 8 Gen 3 芯片，而 S24 Ultra 可能会采用类似 iPhone 15 Pro 的钛金属机身、升级的 50MP 5 倍长焦摄像头，以及 4K 120fps录音。
+要亲自了解这些传言是否属实，请在 17 日上午 10 点（太平洋时间）/下午 1 点（东部时间）参加三星的直播，届时该公司最终将透露秘密。
 ]]></description>
       <guid>https://www.theverge.com/2024/1/4/24025128/samsung-galaxy-s24-ultra-android-smartphone</guid>
       <pubDate>Thu, 04 Jan 2024 17:28:13 GMT</pubDate>
@@ -30,7 +114,7 @@
       
 阿尔瓦罗·伯尼斯 / The Verge
 
-由于人工智能聊天机器人的进步，我们使用互联网的方式正在迅速改变，它们可以查找信息并将其作为简单的对话重新传递。 包括 Microsoft 在内的大玩家，与 Copilot、Google、与 Bard 和 OpenAI， ChatGPT-4，之前正在开发人工智能聊天机器人技术仅限于公众更容易接触到的测试实验室。 
+由于人工智能聊天机器人的进步，我们使用互联网的方式正在迅速改变，它们可以查找信息并将其作为简单的对话重新传递。 包括 Microsoft 在内的大玩家，与 Copilot、Google、与Bard 和 OpenAI， ChatGPT-4，之前正在开发人工智能聊天机器人技术仅限于公众更容易接触到的测试实验室。 
 这些大型语言模型 (LLM) 程序如何运作？ OpenAI 的 GPT-3 告诉我们，人工智能使用“一系列类似自动完成的程序来学习语言”，并且这些程序分析“语言的统计特性”，以“根据您之前输入的单词做出有根据的猜测”。 
 或者，但是人工智能领域还有更多的部分正在发挥作用，其中有 将会出现问题 - 但您一定可以在 The Verge 上看到这一切.]]></description>
       <guid>https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai</guid>
@@ -43,130 +127,17 @@
       
 Razer Blade 16（如图）很快将推出配备 240Hz OLED 面板（未展示）的产品。 |摄影：Amelia Holowaty Krales / The Verge
 
-Razer 正在预告对 Blade 16 和 Blade 18 游戏笔记本电脑进行一系列主要的显示屏升级，然后下周在 CES 上全面推出更新的笔记本电脑。
-Blade 16 是Razer 称其将配备全球首款与三星共同开发的 16 英寸 240Hz OLED 面板，而 Blade 18 将配备带有 G-Sync 功能的 165Hz 4K LED 面板。两个面板都将通过Calman 验证并在工厂单独进行校准。与当前的 Blade 显示选项一样，它们将显示 100% 的 DCI-P3 色域。 
-作为 OLED 面板，Razer 16 的 2560 x 1600 显示屏应该具有出色的纯黑色和超快的响应时间。 Razer 表示，它将拥有 1,000,000:1 对比度、VESA DisplayHDR True Black 500 认证以及VESA ClearMR 11000 运动模糊评级。 （ClearMR 是测量运动过程中清晰像素与模糊像素的比率，VESA 的宣传是它应该更容易比响应时间或运动模糊的其他测量更容易理解。）
-Blade 16 目前提供两种显示选项：双模 Mini-LED 面板可以在 240Hz 下以 1920 x 1200 分辨率运行，也可以在 120Hz 下以 4K 运行，也可以配备 240Hz 2560 x 1600 LED 面板。 
-Blade 18 的面板更新是刷新率与分辨率之间更直接的交易。 当前Blade 18 配备 2560 x 1600、240Hz 面板，支持 G-Sync；升级后的面板将分辨率提高到4K，但刷新率降低到165Hz。相当不错的贸易，我认为。其高刷新率、3ms 响应时间和 G-Sync 支持应该可以消除屏幕撕裂，即使在 4K 分辨率下也能实现流畅的游戏体验，这很好。 
+Razer 正在预告对 Blade 16 和 Blade 18 游戏笔记本电脑进行一系列主要的显示屏升级，然后下周在 CES 上全面推出更新后的笔记本电脑。
+Blade 16 是Razer 称其将配备全球首款 16 英寸 240Hz OLED 面板，与三星共同开发，而 Blade 18 将配备带有 G-Sync 功能的 165Hz 4K LED 面板。两个面板都将通过Calman 验证并在工厂单独进行校准。与当前的 Blade 显示选项一样，它们将显示 100% 的 DCI-P3 色域。 
+作为 OLED 面板，Razer 16 的 2560 x 1600 显示屏应该具有出色的纯黑色和超快的响应时间。 Razer 表示，它将拥有 1,000,000:1 对比度、VESA DisplayHDR True Black 500 认证以及VESA ClearMR 11000 运动模糊评级。 （ClearMR 是衡量运动过程中清晰像素与模糊像素之比的指标，VESA 的宣传是它应该更容易比响应时间或运动模糊的其他测量更容易理解。）
+Blade 16 目前有两种显示选项：有一个双模式 Mini-LED 面板，可以在 240Hz 下以 1920 x 1200 分辨率运行，也可以在 120Hz 下以 4K 运行，或者可以配备 240Hz 2560 x 1600 LED 面板。 
+Blade 18 的面板更新是刷新率与分辨率之间更直接的交易。 当前Blade 18 配备 2560 x 1600、240Hz 面板，支持 G-Sync；升级后的面板将分辨率提高到4K，但刷新率降低到165Hz。相当不错的贸易，我认为。其高刷新率、3 毫秒响应时间和 G-Sync 支持应该可以消除屏幕撕裂，即使在 4K 分辨率下也能实现流畅的游戏体验，这很好。 
 
 Blade 的宣传一直是“如果有一款看起来像 MacBook Pro 的游戏笔记本电脑会怎样？”通过工厂校准每个面板、减少运动模糊并强调 100% DCI-P3 支持，Razer 可能会试图吸引那些想要用一台机器进行游戏和照片或视频编辑的人们从 Apple 转而使用。 
 由于多种原因，这可能是一项艰巨的任务。首先，MacBook Pro 变得明亮——正常使用时高达 600 尼特，在 HDR 模式下峰值为 1600 尼特。 Razer 没有提供这两款显示器的亮度信息，但 16 英寸 OLED 的 True Black 500 认证仅要求整体最大亮度为 300 尼特，峰值中心亮度为 500 尼特。 Razer 当前的大多数显示器选项的最大亮度为 500 尼特。此外，Razer Blades 的运行温度又高又吵，而 MacBook Pro 则不然。 
 Razer 将在 CES 2024 上宣布 Blade 16 和 18 的更多更新。]]></description>
       <guid>https://www.theverge.com/2024/1/4/24024217/razer-gaming-laptop-updates-blade-16-18-oled-4k-ces</guid>
       <pubDate>Thu, 04 Jan 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peloton 的故事：您需要了解的一切</title>
-      <link>https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-这家互联健身领域的领导者在新冠疫情期间达到顶峰，但在做出了一系列可疑的商业决策后，它开始转向内容订阅。 Peloton 是流行病的宠儿 - 其中之一企业似乎发现其目的不仅仅是一切都变得非常糟糕。首先，供应链存在长达数月的自行车延误问题，这让新客户感到厌烦。然后，一场灾难性的召回影响了它的两款跑步机：Tread Plus（因为它导致了几名用户受伤并杀死了一名小孩）和普通 Tread（由于屏幕不稳定而尚未推出）。 
-最重要的是，Peloton 未能解释第一批 covid-19 疫苗发布后世界重新开放的情况。提示裁员伴随着免费一年的会员资格，新任首席执行官，还有更多的失误。令人毛骨悚然的广告、死于 Peloton 自行车上的电视人物——凡是你能想到的。 
-尽管存在噪音，Peloton 仍然是互联健身领域的领导者。它引领了整个类别的趋势，首席执行官巴里·麦卡锡 (Barry McCarthy) 目前正试图通过从昂贵的硬件转向内容订阅来重振业务，尽管正在进行的 Peloton 传奇本身就是内容。
-有关 Peloton 的所有新闻和更新如下。]]></description>
-      <guid>https://www.theverge.com/24025034/peloton-bike-treadmill-connected-fitness-news</guid>
-      <pubDate>Thu, 04 Jan 2024 15:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Galaxy Z Flip 5 作为极简手机</title>
-      <link>https://www.theverge.com/24024002/samsung-galaxy-z-flip-5-minimalist-phone</link>
-      <description><![CDATA[&lt;图&gt;
-      
-我使用三星 Galaxy Z Flip 5 的 3.2 英寸前屏作为最小手机一周。 |摄影：Allison Johnson / The Verge
-
-我讨厌花太多时间在手机上滚动。困扰我的并不是我在浪费时间——我做了很多没有充分利用时间的事情。困扰我的是我无意识地、习惯性地滚动。大多数时候我什至无法告诉你我一直在滚动浏览什么。
-我考虑过改用一款简约手机，例如 Light Phone，屏幕缓慢，功能有限。但我知道完全放弃 Gmail 或 Slack 等移动设备对我来说是不可能的。我并不想完全消灭社交媒体，我只是想让我更有意地使用它。我需要的是一部功能齐全的智能手机，只是实用性稍差一些。
-所以我决定做一个小实验：我可以只使用 Z Flip 5 作为我一周的日常驾驶，没有社交媒体应用程序的快捷方式来分散我的注意力？从理论上讲，当我需要时，它可以让我拥有我需要的完整手机（通过将其打开），以及我想要的其他所有功能的最小手机。
-剧透警告：当屏幕上可做的事情减少时，您的屏幕时间就会显着减少。观看上面的视频，了解其进展情况，并了解有关减少无意识滚动的更多提示。]]></description>
-      <guid>https://www.theverge.com/24024002/samsung-galaxy-z-flip-5-minimalist-phone</guid>
-      <pubDate>Thu, 04 Jan 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《花月杀手》下周将在 Apple TV Plus 上播出</title>
-      <link>https://www.theverge.com/2024/1/4/23993356/killers-of-the-flower-moon-apple-tv-plus-streaming-date</link>
-      <description><![CDATA[&lt;图&gt;
-      
-这部电影早在 10 月份就在影院首映了。 |图片：苹果
-
-马丁·斯科塞斯的犯罪剧花月杀手将作为 Apple 与派拉蒙合作的一部分，于 12 月以数字方式首次亮相。
-斯科塞斯的 《花月杀手》（根据大卫·格兰的小说改编）是一部时长三个半小时的史诗片，讲述了 20 年代俄克拉荷马州石油开采后发生的一系列奥色治人谋杀案。在部落土地上发现的。这部电影由莉莉·格莱斯顿、莱昂纳多·迪卡普里奥、杰西·普莱蒙、布兰登·弗雷泽和罗伯特·德尼罗主演，并获得了好评如潮到目前为止，评论家和观众都一样。
-
-《花月杀手》的院线首发时间表是不断增长的趋势的一部分。其他 Apple 项目也遵循类似的路径，包括《拿破仑》（11 月 22 日在影院首映）和即将于 2 月 2 日上映的《阿盖尔》。
-与此同时，其他竞争对手的流媒体公司也在进行试验。迪士尼宣布《变红》、《灵魂》和《卢卡》这三部电影在新冠疫情期间在迪士尼+首映 - 将于 2024 年在影院上映 。 Netflix 去年推出了《玻璃洋葱：利刃出鞘之谜》 在将其添加到 Netflix 流媒体平台之前先在影院上映。]]></description>
-      <guid>https://www.theverge.com/2024/1/4/23993356/killers-of-the-flower-moon-apple-tv-plus-streaming-date</guid>
-      <pubDate>Thu, 04 Jan 2024 14:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通新款 XR 芯片组旨在与 Vision Pro 竞争</title>
-      <link>https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google</link>
-      <description><![CDATA[&lt;图&gt;
-      
-高通公司首席执行官 Cristiano Amon 在去年年底的 Snapdragon 峰会上提出了他对计算新时代的愿景。 |摄影：Allison Johnson / The Verge
-
-高通、三星和谷歌宣布一年后，呃，一些与 VR 相关的，该项目的一个潜在组件正在成为焦点：Snapdragon XR2 Plus Gen 2。新芯片组的设计是一个进步来自 Meta Quest 3 中的 XR2 Gen 2，能够渲染高分辨率视觉效果，就像 Apple Vision Pro 所承诺的那样。 
-XR2 Plus Gen 2 支持每眼 90fps 的 4.3K 分辨率，比 XR2 Gen 2 的 3K 每眼渲染有所提升。它还支持 12 个并发摄像头来处理直通视频以及身体和面部跟踪。高通表示，与标准 XR2 Gen 2 相比，新芯片组的 GPU 频率提高了 15%，CPU 频率提高了 20%，所有这些都是为了“4K 空间计算”。 
-
-
-图片：高通
-更高分辨率的视觉效果是该芯片组与标准 XR2 Gen 2 之间的主要区别。
-
-高通正在提供 AR 和 VR 参考设计，以帮助 OEM 快速跟踪生产，并表示正在与包括 HTC 在内的至少五家硬件制造商合作。作为此次公告的一部分，该公司还强调了其与三星和谷歌的上述合作伙伴关系，但具体的可用性细节仍然很少。 Google 面临一些内部混乱在其 AR 团队中，报告表明三星已经硬件方面也经历了延迟。与此同时，苹果距离发布 Vision 可能只有几周时间了。亲。 
-我们可能不需要等待很长时间就能了解更多有关三星、谷歌和高通的信息 - 三星将在几周后在圣何塞举办 Unpacked。还有什么地方比库比蒂诺的街道上预览 Vision Pro 竞争对手更好的地方呢？]]></description>
-      <guid>https://www.theverge.com/2024/1/4/24024480/qualcomm-snapdragon-xr2-plus-gen-2-vr-headset-chipset-samsung-google</guid>
-      <pubDate>Thu, 04 Jan 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴尔的 XPS 笔记本电脑阵容即将看起来非常不同</title>
-      <link>https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/1/4/24023682/dell-xps-2024-ces-13-14-16-laptops</guid>
-      <pubDate>Thu, 04 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特提高或降低了 F-150 Lightning 皮卡的价格</title>
-      <link>https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024</link>
-      <description><![CDATA[&lt;图&gt;
-      
-2024 款福特 F-150 Lightning 卡车可能比去年更便宜或更贵，具体取决于内饰。 |图片：福特
-
-福特正在对其 2024 年 F-150 Lightning 系列进行多项定价更新，美国电动汽车销售缓慢。福特根据 底特律自由报，将起价提高最多 10,000 美元，同时将一些最高端型号的定价降低最多 7,000 美元。 2024 年的价格变化是在福特于 12 月宣布计划削减之后进行的。生产 F-150 Lightning 皮卡。
-以下是每款 2024 年 F-150 Lightning EV 车型的新定价（2023 款车型的定价保持不变）：
-
-专业版：从 49,995 美元增加到 54,995 美元
-XLT 311 A：从 54,995 美元增加到 64,995 美元
-
-闪存：新“ “技术前沿”产品售价 73,495 美元
-套索：从 77,495 美元增加到 79,495 美元
-白金卡：从 91,995 美元降至 84,995 美元
-白金黑：从 97,995 美元降至 92,995 美元
-
-两个现有的装饰级别 - XLT 312 A 和 240 英里范围的 Lariat - 已从 2024 年产品阵容中完全淘汰。更新后的定价不包括运费或目的地费用，最高可达 2,095 美元。 
-福特发言人告诉 CNBC 新闻称，定价变化旨在优化“销售增长、盈利能力和客户获得 IRA 税收优惠的机会”。两辆 F-150 Platinum 卡车是唯一在这些更新中降价的车型，也是该系列中唯一不符合 7,500 美元联邦税收抵免。
-福特的电动汽车业务迄今为止一直是一个资金池，截至 2023 年 10 月，公司去年亏损 31 亿美元，尽管 F-150 Lightning 销量稳步增长。由于汽车制造商调整产能以更好地适应不温不火的需求，在肯塔基州建设“大型园区”电动汽车电池工厂的计划已被搁置。]]></description>
-      <guid>https://www.theverge.com/2024/1/4/24024965/ford-f150-lightning-pickup-ev-pricing-update-2024</guid>
-      <pubDate>Thu, 04 Jan 2024 10:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴尔新款 120Hz 超宽显示器最大尺寸为 40 英寸和 5K</title>
-      <link>https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-戴尔在 CES 之前展示了两款新型超宽显示器：40 英寸 UltraSharp 40 Curved Thunderbolt Hub 显示器 (U4025QW) 和 34 英寸 UltraSharp 34 Curved Thunderbolt Hub 显示器 (U3425WE) 。它们将于下个月开始销售，较大型号的起价为 2,399.99 美元，较小型号的起价为 1,019.99 美元。
-虽然戴尔的 公告博客文章指出显示器的目标对于内容创作者、数据科学家和工程师（而不是游戏玩家）来说，这两款显示器都配备了适合游戏的 120Hz 刷新率。戴尔的目标之一就是尽量减少眼睛疲劳。为此，它们还具有减少蓝光输出的功能，并具有内置环境光传感器，可以动态调整亮度和色温。这些显示器已通过测试获得五星级眼睛舒适度认证德国莱茵TÜV组织。
-
-
-图片：戴尔
-40 英寸显示器与其较小的 34 英寸同级显示器旁边。
-
-除了屏幕尺寸之外，这两款显示器之间还有一些其他值得注意的差异。 40英寸型号的“5K”分辨率为5120 x 2160，根据DisplayHDR 600认证，其LCD显示屏的峰值亮度可达到600尼特以上。它的 Thunderbolt 4 连接可以为连接的笔记本电脑提供高达 140W 的功率，其规格表提到通过 HDMI 2.1 连接支持可变刷新率。 
-同时，34 英寸的 LCD 屏幕分辨率较低，为 3440 x 1440，并且只能通过 Thunderbolt 4 提供高达 90W 的功率。其规格表也没有提及 DisplayHDR 认证，也不支持通过 HDMI 实现可变刷新率。 
-此外，两款显示器都提供相似的规格，包括 2.5Gbps 以太网端口、DisplayPort 1.4、内置 USB-A 和 USB-C 端口，提供高达 15W 的功率和 10Gbps 的数据传输，以及如果您想同时连接两台计算机，可以使用各种多任务处理功能。 
-UltraSharp 40 Curved Thunderbolt Hub 显示器 (U4025QW) 和 UltraSharp 34 Curved Thunderbolt Hub 显示器 (U3425WE) 将于 2 月 27 日起在全球上市。]]></description>
-      <guid>https://www.theverge.com/2024/1/4/24024951/dell-ultrasharp-curved-thunderbolt-monitor-u4025qw-u3425we-price-release-date-specs-features</guid>
-      <pubDate>Thu, 04 Jan 2024 09:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
