@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
-    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 05 Jan 2024 12:22:09 GMT</lastBuildDate>
+    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 05 Jan 2024 15:12:44 GMT</lastBuildDate>
     <item>
       <title>伊朗哀悼伊斯兰国声称的自杀式爆炸事件中的遇难者，死亡人数上升至89人</title>
       <link>https://apnews.com/article/iran-funeral-suicide-bombings-islamic-state-mideast-41ee9a74dfa0191acefa58705e318c70</link>
@@ -59,7 +59,7 @@
       <pubDate>Fri, 05 Jan 2024 05:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>警方称，一名青少年在爱荷华州高中枪击事件中杀死了六年级学生，打伤了另外 5 人，并结束了自己的生命</title>
+      <title>警方称，一名青少年在爱荷华州校园枪击事件中杀死了一名六年级学生并打伤 5 人，然后自杀</title>
       <link>https://apnews.com/article/perry-high-school-shooting-iowa-5346218f2646bec796ba28928a00c745</link>
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/perry-high-school-shooting-iowa-5346218f2646bec796ba28928a00c745</guid>
@@ -78,13 +78,6 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/gaza-refugee-israel-palestinian-rafah-a7e14cc4d7029019f59183b3b0225975</guid>
       <pubDate>Fri, 05 Jan 2024 05:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 月份的就业报告可能会为 2023 年的招聘工作画上又一个坚实的句号</title>
-      <link>https://apnews.com/article/jobs-economy-unemployment-inflation-rates-federal-reserve-ad0fd064a35e8a93bc15eaf6ea982c1c</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/jobs-economy-unemployment-inflation-rates-federal-reserve-ad0fd064a35e8a93bc15eaf6ea982c1c</guid>
-      <pubDate>Fri, 05 Jan 2024 05:01:06 GMT</pubDate>
     </item>
     <item>
       <title>内华达州法官在遭到跳到她身上的被告袭击后一天返回工作岗位</title>
@@ -127,6 +120,13 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/haley-campaign-trump-desantis-iowa-d7c08c5ae11767067f06fbe13230a6d9</guid>
       <pubDate>Thu, 04 Jan 2024 18:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥斯卡·皮斯托利斯将被假释。他将受到严格监控直至2029年12月</title>
+      <link>https://apnews.com/article/oscar-pistorius-parole-murder-reeva-steenkamp-cf23f374cf9bfae392a435ad92785137</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/oscar-pistorius-parole-murder-reeva-steenkamp-cf23f374cf9bfae392a435ad92785137</guid>
+      <pubDate>Thu, 04 Jan 2024 18:17:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

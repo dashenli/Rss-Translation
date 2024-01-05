@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 05 Jan 2024 08:44:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 14:40:38 GMT</lastBuildDate>
     <item>
-      <title>[媒体]此网页内容是作者对与倪教授的遭遇的个人反思[...]</title>
-      <link>https://t.me/hn_summary/67293</link>
-      <description><![CDATA[尼克劳斯·沃斯，1934-2024：极客一生 
-本网络内容是作者对与著名计算机科学家 Niklaus Wirth 教授的遭遇的个人反思。作者第一次接触 Wirth 是在大学期间学习 Pascal，这是一种强调简单性和特定的程序表达方式的编程语言。笔者后来发现，他们在不知不觉中就住在瑞士维尔斯附近，并有机会与他一起飞往一个会议。在飞行过程中，他们讨论了编程以及沃斯对遥控直升机的热情，他自己编写了遥控直升机的程序。作者重点介绍了他们从 Wirth 学到的四个教训：从第一原理开始工作、专注于有意义的交互、将计算机视为扩展人类思维的工具以及成为终生的极客。]]></description>
-      <guid>https://t.me/hn_summary/67293</guid>
-      <pubDate>Fri, 05 Jan 2024 08:44:35 GMT</pubDate>
+      <title>[媒体] 网页内容的作者分享了他们为预 [...] 存档 Steam 游戏的经验</title>
+      <link>https://t.me/hn_summary/67325</link>
+      <description><![CDATA[存档 Steam 游戏以获得乐趣和利润
+该网页内容的作者分享了他们为了保存目的而存档 Steam 游戏的经验。他们解释了他们最初如何尝试将游戏备份直接下载到服务器，但遇到网速缓慢的情况。然后他们发现了 SteamCMD，这是一个允许他们下载任何 Steam 游戏的工具，并决定编写该过程的脚本以提高效率。作者详细解释了他们的 bash 脚本及其变量。后来他们将脚本移植到一个名为“download-steam-games”的应用程序中，并在 GitHub 上提供。该应用程序允许用户将游戏添加到下载列表，下载多个平台的游戏，将其压缩为 .tar.gz 文件，并将其存储在选定的输出文件夹中。作者承认该应用程序的局限性，但认为它对于生产使用来说足够强大。他们表达了对数据囤积的热情，并邀请读者分享他们的应用体验。]]></description>
+      <guid>https://t.me/hn_summary/67325</guid>
+      <pubDate>Fri, 05 Jan 2024 14:40:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Birb 和 Fossil：RSS 复兴？</title>
-      <link>https://t.me/hn_summary/67292</link>
-      <description><![CDATA[Birb 和 Fossil：RSS 复兴？
-作者讨论了 RSS 的复兴及其与 Mastodon 等社交媒体平台的集成。他们推出了两种工具：Birb 和 Fossil，允许用户为 RSS 源创建 Mastodon 帐户并尝试时间线算法。作者认为，由于 Twitter 的衰落、Fediverse 的崛起、播客中 RSS 的使用以及自然语言处理复杂性的降低等趋势，RSS 正在经历重生。他们强调未来开放标准和开源的重要性，并鼓励读者参与到 Syndiverse 中。]]></description>
-      <guid>https://t.me/hn_summary/67292</guid>
-      <pubDate>Fri, 05 Jan 2024 08:35:25 GMT</pubDate>
+      <title>[媒体]该项目旨在将语音备忘录自动转录和摘要为[...]</title>
+      <link>https://t.me/hn_summary/67324</link>
+      <description><![CDATA[显示 HN：适用于 iOS 和 Mac 的语音备忘录的本地转录和摘要
+该项目旨在将语音备忘录自动转录和摘要为文本文件。它专为那些在行走时录制语音备忘录并希望将这些录音集成到 Obsidian 等笔记应用程序中的个人而设计。该项目利用 macOS 的 Automator 并利用 ffmpeg、ollama 和 tweet.cpp 等技术。它仅限于 macOS 兼容性，并已在 MacBook Pro (M3) 上进行了测试。设置指南提供了安装必要的依赖项以及配置系统以在本地转录语音备忘录的说明。]]></description>
+      <guid>https://t.me/hn_summary/67324</guid>
+      <pubDate>Fri, 05 Jan 2024 14:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“对测试的思考”的博文中，作者表达了对 [...]</title>
-      <link>https://t.me/hn_summary/67291</link>
-      <description><![CDATA[关于测试的思考
-在这篇题为“对测试的思考”的博客文章中，作者在承认测试重要性的同时表达了对测试的怀疑。他们认为测试就是代码，因此会造成技术债务。作者强调，测试需要时间来编写、维护和运行，如果设计不当，可能会给人一种错误的安全感。他们认为，最佳的测试数量并不是尽可能多，而是取决于诸如静态分析是否可以捕获某些问题、代码行为有意更改的频率以及测试是否反映了测试意图等因素。正在测试的代码。作者还讨论了在决定是否测试代码时考虑代码的复杂性、与外界交互的程度以及代码的重要性的重要性。他们还涉及集成测试和 UI 测试，表达了一个有争议的观点，即 UI 渲染代码很少值得进行单元测试。作者最后强调在测试时需要深思熟虑，因为它既有好处也有成本。]]></description>
-      <guid>https://t.me/hn_summary/67291</guid>
-      <pubDate>Fri, 05 Jan 2024 08:14:13 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/67323</link>
+      <description><![CDATA[美国12月新增就业岗位21.6万个，远好于预期
+美国劳动力市场在 2023 年结束时表现强劲，12 月份雇主增加了 216,000 个就业岗位，超出预期。失业率稳定在3.7%。报告还显示，本月平均时薪增长0.4%，同比增长4.1%，表明劳动力市场存在通胀压力。招聘的增长来自政府工作、医疗保健相关领域、休闲和酒店、社会援助和建筑业。然而，运输和仓储业却失去了23,000个工作岗位。该报告挑战了美联储大幅宽松的市场说法，因为它表明劳动力市场持续走强。]]></description>
+      <guid>https://t.me/hn_summary/67323</guid>
+      <pubDate>Fri, 05 Jan 2024 14:33:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 多年来，网络浏览器格局发生了巨大变化。</title>
-      <link>https://t.me/hn_summary/67290</link>
-      <description><![CDATA[网络浏览器的世界正处于糟糕的状态 
-多年来，网络浏览器格局发生了巨大变化。 20 世纪 90 年代，Microsoft Internet Explorer 和 Netscape Navigator 争夺主导地位，最终 Internet Explorer 占据上风。然而，Opera、Safari、Firefox 以及最终的 Google Chrome 等新浏览器的推出给市场带来了更多的竞争和创新。 Chrome 迅速成为最受欢迎的浏览器，导致浏览器引擎数量下降。如今，大多数主流浏览器都使用 Chrome 的引擎，只有 Firefox 没有这么做。谷歌这一单一公司缺乏多样性和控制力，令人担忧。作者重点介绍了一个名为 SerenityOS 的小型业余爱好操作系统，它开发了一种名为 Ladybird 的全功能现代网络浏览器，作为解决浏览器引擎多样性缺乏的潜在解决方案。作者呼吁集体反思和行动，鼓励其他浏览器引擎的发展，防止浏览器单一文化。]]></description>
-      <guid>https://t.me/hn_summary/67290</guid>
-      <pubDate>Fri, 05 Jan 2024 08:10:01 GMT</pubDate>
+      <title>[媒体]本文讨论了即将于 202 年 6 月 30 日终止的 CentOS Linux [...]</title>
+      <link>https://t.me/hn_summary/67322</link>
+      <description><![CDATA[将于 2024 年 6 月 30 日结束生命周期 (EOL) CentOS Linux
+本文讨论即将于 2024 年 6 月 30 日终止的 CentOS Linux 以及 Red Hat Enterprise Linux 7 (RHEL 7) 的维护终止 (EOM)。作者强调了尽早规划和开始过渡过程的重要性，以避免在最后一刻手忙脚乱。它们提供了迁移到受支持的 RHEL 版本的选项，包括就地转换或升级、将 RHEL 8 或 9 服务器设置为容器主机，或者从 CentOS Linux 进行转换。作者还重点介绍了红帽为协助过渡提供的支持和资源。]]></description>
+      <guid>https://t.me/hn_summary/67322</guid>
+      <pubDate>Fri, 05 Jan 2024 14:24:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这是给人类的吗？</title>
-      <link>https://t.me/hn_summary/67289</link>
-      <description><![CDATA[这是针对人类的吗？
-本文讨论了人类达到最大人口数量的可能性以及人类是否已达到物种顶峰。根据联合国人口估计，人类人口预计将在 2086 年达到最大人口数 104 亿。一些科学家认为，人类在某些能力方面已经达到了顶峰，例如速度和高度。文章还探讨了人类是否仍在进化并适应不断变化的条件的问题。它提到了随着时间的推移而丧失的遗传特征的例子，例如体内产生维生素 C 的能力和消化乳糖的能力。这篇文章还提出了对人类干预（例如剖腹产）如何影响我们的进化的担忧。总的来说，这篇文章表明人类在此时此刻可能已经达到了最大能力。]]></description>
-      <guid>https://t.me/hn_summary/67289</guid>
-      <pubDate>Fri, 05 Jan 2024 07:42:45 GMT</pubDate>
+      <title>询问 HN：如何处理来自旧的、未存档的在线论坛的文本？</title>
+      <link>https://t.me/hn_summary/67321</link>
+      <description><![CDATA[询问 HN：如何处理旧的、未归档的在线文本论坛？
+news.ycombinator.com 上这篇文章的作者是寻求关于如何处理可追溯到 1991-1994 年的旧在线论坛上的一系列打印输出的建议。打印输出包括各种讨论、采访记录、新闻报道和杂志文章，这些内容不再在线提供。作者想知道这些打印输出作为互联网历史是否具有任何价值，以及扫描和出版它们是否存在任何版权或隐私问题。他们还考虑将打印输出发送到 archive.org归档。]]></description>
+      <guid>https://t.me/hn_summary/67321</guid>
+      <pubDate>Fri, 05 Jan 2024 14:14:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]您在美国经历过的最大的文化冲击是什么？</title>
-      <link>https://t.me/hn_summary/67288</link>
-      <description><![CDATA[您在美国经历过的最大的文化冲击是什么？
-此网页内容是 old.reddit.com。 Reddit 子版块旨在为用户创造一个非评判性的空间，让他们可以提出任何他们在其他地方提出可能感到不舒服的问题。这些规则包括要求真诚地尝试回答问题、阻止粗鲁的回答以及禁止人工智能生成的答案。内容还强调交流中礼貌和尊重的重要性，并禁止提出医疗建议问题、恶搞或笑话问题以及令人不安的主题。 Reddit 子版块的模组团队保留删除破坏性或议程驱动帖子的权利。]]></description>
-      <guid>https://t.me/hn_summary/67288</guid>
-      <pubDate>Fri, 05 Jan 2024 07:41:37 GMT</pubDate>
+      <title>我创建了一款名为 Keysmash 的有趣且令人上瘾的游戏来帮助我提高打字速度。</title>
+      <link>https://t.me/hn_summary/67320</link>
+      <description><![CDATA[显示 HN：我做了一个游戏来提高我的打字速度
+我创建了一款名为 Keysmash 的有趣且令人上瘾的游戏来帮助我提高打字速度。游戏简单但具有挑战性 - 屏幕上出现随机字母，您必须尽可能快速准确地输入它们。您正确输入的字母越多，您的分数就越高。这是在享受乐趣的同时练习和提高打字技巧的好方法。在 keysmash.no 上尝试一下，看看你能多快类型！]]></description>
+      <guid>https://t.me/hn_summary/67320</guid>
+      <pubDate>Fri, 05 Jan 2024 13:59:43 GMT</pubDate>
     </item>
     <item>
-      <title>您是否比较了使用 GPT plus 订阅和使用 GPT by API 的成本？</title>
-      <link>https://t.me/hn_summary/67287</link>
-      <description><![CDATA[您是否比较了使用 GPT plus 订阅和使用 GPT 的成本通过API？
-作者是一名软件工程师，分享了他们在日常工作中使用Copilot Chat的经验。他们提到它很方便，因为它与 VSCode 集成。作者曾经是 GPT Plus 用户，但最近取消了订阅，因为他们发现自己使用它的频率降低了。相反，他们开始使用部署在服务器上的开源 GPT 客户端。他们现在通过 ChatGPT API 使用 GPT，该 API 仅在他们使用时收费。作者不确定这是否是一个明智的选择，并寻求其他人的意见来比较使用 GPT Plus 和 ChatGPT API 的成本。]]></description>
-      <guid>https://t.me/hn_summary/67287</guid>
-      <pubDate>Fri, 05 Jan 2024 07:41:27 GMT</pubDate>
+      <title>[媒体]作者回忆童年与神奇宝贝黄大师的经历[...]</title>
+      <link>https://t.me/hn_summary/67319</link>
+      <description><![CDATA[很像口袋妖怪黄
+作者回忆了他们童年时期阅读《神奇宝贝黄色大师指南》的经历，尽管他们没有拥有实际的游戏，但他们还是广泛阅读了该指南。他们强调了该指南的综合性，表明人们可以根据该指南对整个《神奇宝贝黄》游戏进行逆向工程。他们将其与游戏评论进行了对比，他们认为游戏评论无法提供足够的细节来准确地重新创建游戏。然后，作者讨论了游戏指南的进步，特别是像《Bulbapedia》这样的协作维基，他们认为这是优秀的游戏模型。他们引入了使用 GenAI 技术从模型创建游戏的概念，从而可以轻松进行改装和游戏创建。作者最后提到了他们当前创建一个制作游戏的 wiki 的项目，并对这项技术的影响提出了一些发人深省的问题。]]></description>
+      <guid>https://t.me/hn_summary/67319</guid>
+      <pubDate>Fri, 05 Jan 2024 13:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容的作者讨论了他们创建家庭自动化的经验 [...]</title>
-      <link>https://t.me/hn_summary/67286</link>
-      <description><![CDATA[Turtles，Elixir 中的 Shelly/Zigbee 家庭自动化工具
-该网络内容的作者讨论了他们使用 Elixir 创建名为 Turtles 的家庭自动化工具的经验。他们解释说，Turtles 对于控制由 Shelly 调光器和 Philips Hue 桥控制的灯光很有用。作者渴望通过智能手机控制家里的所有灯光并创建场景。他们最初订购了 Zigbee 桥接器，但收到了低功耗蓝牙 (BLE) 桥接器。幸运的是，他们能够使用飞利浦 Hue 桥来控制 Zigbee 灯。作者在 Elixir 中实现了 Turtles 并提供了设置说明。它们还包括用户界面的屏幕截图。]]></description>
-      <guid>https://t.me/hn_summary/67286</guid>
-      <pubDate>Fri, 05 Jan 2024 06:34:02 GMT</pubDate>
+      <title>[媒体] 网站 www.gptcheckup.com 通过 [...] 展示了 GPT-4 Vision (GPT-4V) 的性能</title>
+      <link>https://t.me/hn_summary/67318</link>
+      <description><![CDATA[显示 HN：带有视力检查的 GPT-4&lt; br/&gt;
+网站 www.gptcheckup.com 展示了 GPT 的性能-4 Vision（GPT-4V）通过了一系列测试。这些测试通过将 GPT-4V 的结果与人类生成的结果进行比较来评估 GPT-4V 的核心特征。该网站根据特定的提示和图像，为GPT-4V的响应准确性提供参考。值得注意的是，虽然所选的提示会产生准确的结果，但可能还有其他提示可以实现更好或更差的结果。测试于太平洋时间每天凌晨 1 点进行，所有测试完成后网站就会更新。]]></description>
+      <guid>https://t.me/hn_summary/67318</guid>
+      <pubDate>Fri, 05 Jan 2024 13:57:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]KeepYourMouthShut 是一个人工智能辅助的播客解决方案 API，旨在使播客 [...]</title>
-      <link>https://t.me/hn_summary/67285</link>
-      <description><![CDATA[展示 HN：KeepYourMouthShut – 创建播客从未如此简单
-KeepYourMouthShut 是一个人工智能辅助的播客解决方案 API，旨在使播客创建更容易、更容易访问。它根据用户输入生成播客脚本和音频旁白文件，从而消除了对昂贵设备和设置的需求。该项目通过提供开发人员优先的方法并利用人工智能技术而脱颖而出。该 API 的灵感来自 Adam Tal 的 CrowdCast，并使用 Python、llmOS 和 edge-tts 构建。它已获得 GPL-3.0 许可，并且可以在 GitHub 上找到存储库。]]></description>
-      <guid>https://t.me/hn_summary/67285</guid>
-      <pubDate>Fri, 05 Jan 2024 06:32:53 GMT</pubDate>
+      <title>[媒体] Feertech.com 很自豪地宣布 Micro Beast，一款自助式 [...]</title>
+      <link>https://t.me/hn_summary/67317</link>
+      <description><![CDATA[Micro Beast：盒装独立 8 位计算机套件&lt; /a&gt;
+Feertech.com 自豪地宣布 Micro Beast 获得的好评一个独立的8位计算机套件，已接收。该套件因其高质量的包装、说明书和 PCB 质量而受到客户的好评。 Micro Beast 也出现在新闻中，Hackster.io&lt; 上有报道/a&gt; 和 The Retro Hour Podcast，导致网站、GitHub 和 Discord 频道的访问者数量增加。 Micro Beast 现在拥有自己的 CP/M 发行版，允许用户运行 Zork 等经典游戏。此外，Feertech 还开发了一款名为 BeastEm 的模拟器来帮助 Micro Beast 的软件开发。]]></description>
+      <guid>https://t.me/hn_summary/67317</guid>
+      <pubDate>Fri, 05 Jan 2024 13:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Mixdown，一款革命性的人工智能库存音乐搜索工具。</title>
-      <link>https://t.me/hn_summary/67284</link>
-      <description><![CDATA[Show HN：Mixdown、AI 支持的库存音乐搜索
-隆重推出 Mixdown，一款革命性的人工智能库存音乐搜索工具。告别浪费时间为您的项目寻找完美的音乐。通过 Mixdown，您可以快速轻松地找到符合您愿景的理想配乐。我们先进的人工智能技术会分析您的项目并建议最合适的音乐选项，从而节省您的时间和精力。无论您是在制作电影、广告还是任何其他创意工作，Mixdown 都能满足您的需求。今天就尝试一下，体验音乐搜索的未来。]]></description>
-      <guid>https://t.me/hn_summary/67284</guid>
-      <pubDate>Fri, 05 Jan 2024 06:32:47 GMT</pubDate>
+      <title>[媒体]作者回顾了他们在冰岛的生活以及他们从[...]中学到的教训</title>
+      <link>https://t.me/hn_summary/67316</link>
+      <description><![CDATA[冰岛一切都会好起来的
+作者回顾了他们在冰岛的生活以及他们从冰岛文化中学到的教训。他们强调了冰岛人民与自然的紧密联系以及他们对“þetta reddast”这句话的信仰，这句话的意思是“一切都会好起来的”。作者分享了亲身经历，例如感受地震和攀登冰峰，以说明生活在火山活动不断威胁的冰岛所需的独特心态。他们强调相信一切都会好起来并承担责任的重要性。作者赞扬了冰岛人应对危机的准备和恢复能力，并将其与自己的国家巴西进行了对比，巴西虽然没有发生自然灾害，但仍然面临挑战。文章表明，冰岛的生活和危机管理方法有很多值得学习的地方。]]></description>
+      <guid>https://t.me/hn_summary/67316</guid>
+      <pubDate>Fri, 05 Jan 2024 13:54:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

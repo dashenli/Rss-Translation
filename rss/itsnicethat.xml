@@ -4,7 +4,14 @@
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
     <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Fri, 05 Jan 2024 12:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 15:16:20 GMT</lastBuildDate>
+    <item>
+      <title>宫崎骏、马特·格罗宁和基思·哈林等艺术家曾被用来训练《中途之旅》</title>
+      <link>https://www.itsnicethat.com/news/midjourney-artist-database-creative-industry-050124</link>
+      <description><![CDATA[据称，Midjourney 开发人员已编制了一个列出了数千名艺术家姓名的数据库，用于训练文本到图像工具。]]></description>
+      <guid>https://www.itsnicethat.com/news/midjourney-artist-database-creative-industry-050124</guid>
+      <pubDate>Fri, 05 Jan 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>看看 30 位艺术家如何向“真正的罗纳尔多”R9 致敬</title>
       <link>https://www.itsnicethat.com/news/a-store-like-94-the-real-ronaldo-illustration-040124</link>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 03 Jan 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Raquel Pinto Studio 为平面设计带来创新而又熟悉的气息</title>
+      <title>Raquel Pinto Studio 为平面设计带来创新而又熟悉的氛围</title>
       <link>https://www.itsnicethat.com/articles/raquel-pinto-graphic-design-discover-030124</link>
       <description><![CDATA[这位里斯本的平面设计师认为她的实践本质上是协作和横向的——尤其是与她的客户。]]></description>
       <guid>https://www.itsnicethat.com/articles/raquel-pinto-graphic-design-discover-030124</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>2023 年回顾：25 大特色</title>
       <link>https://www.itsnicethat.com/features/review-of-the-year-2023-top-25-features-181223</link>
-      <description><![CDATA[今年我们的深度专题涵盖了影响各地创意人士的热门话题，从处理创意悲伤到以内向者的身份驾驭行业。]]></description>
+      <description><![CDATA[我们今年的深度专题涵盖了影响各地创意人士的热门话题，从处理创意悲伤到以内向者的身份驾驭行业。]]></description>
       <guid>https://www.itsnicethat.com/features/review-of-the-year-2023-top-25-features-181223</guid>
       <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
     </item>
@@ -101,13 +108,6 @@
       <link>https://www.itsnicethat.com/features/review-of-the-year-2023-top-25-photography-181223</link>
       <description><![CDATA[今年的热门文章带我们走遍世界各地，参与从加勒比海到东亚和新罕布什尔州的不同生活方式的项目。而且，人们还渴望更深入地了解家庭和人类形态。]]></description>
       <guid>https://www.itsnicethat.com/features/review-of-the-year-2023-top-25-photography-181223</guid>
-      <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年回顾：编辑团队精选</title>
-      <link>https://www.itsnicethat.com/features/review-of-the-year-2023-editorial-team-picks-181223</link>
-      <description><![CDATA[除了阅读次数最多的列表之外，这些项目是我们今年最喜欢的项目之一，因此我们认为它们值得更多时间受到关注。]]></description>
-      <guid>https://www.itsnicethat.com/features/review-of-the-year-2023-editorial-team-picks-181223</guid>
       <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
