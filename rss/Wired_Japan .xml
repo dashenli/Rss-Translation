@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 05 Jan 2024 03:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 06:18:55 GMT</lastBuildDate>
+    <item>
+      <title>自由民主社交媒体的终结——特辑“2024年的世界”</title>
+      <link>https://wired.jp/article/vol51-the-new-digital-dark-age/</link>
+      <description><![CDATA[随着不受控制的错误信息和人工智能生成内容的激增，以及社交平台切断数据访问，在线内容的可信度将降至历史最低点。]]></description>
+      <guid>https://wired.jp/article/vol51-the-new-digital-dark-age/</guid>
+      <pubDate>Fri, 05 Jan 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生成式 AI 开发竞赛和 Google 的决定：SZ MEMBERSHIP 上阅读次数最多的 5 篇文章（2023 年 12 月）</title>
       <link>https://wired.jp/article/5-most-read-stories-membership-december-2023/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[受新冠肺炎疫情影响，疫苗研发受到广泛关注。未来，新的研究和实践将加速维持长期健康，例如抑制痴呆等衰老。]]></description>
       <guid>https://wired.jp/article/vol51-vaccinations-true-potential/</guid>
       <pubDate>Sun, 31 Dec 2023 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比众多AI相关文章更受关注的“唯一新闻”：《连线》日文版回顾2023（深圳会员版）</title>
-      <link>https://wired.jp/article/most-read-stories-in-japan-2023-sz/</link>
-      <description><![CDATA[WIRED SZ 会员资格提供精心挑选的会员专享内容，内容充满见解，可帮助您展望下一个十年。我们精选了今年该订阅服务中阅读量最高的文章，并将其作为《连线》日文版 2023 年（深圳会员版）的回顾。]]></description>
-      <guid>https://wired.jp/article/most-read-stories-in-japan-2023-sz/</guid>
-      <pubDate>Sun, 31 Dec 2023 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
