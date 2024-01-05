@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Jan 2024 03:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 12:23:28 GMT</lastBuildDate>
+    <item>
+      <title>微软的键盘和鼠标将在独特的新合作伙伴关系下继续存在</title>
+      <link>https://www.theverge.com/2024/1/5/24026323/microsoft-incase-partnership-keyboards-accessories-partnership</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/5/24026323/microsoft-incase-partnership-keyboards-accessories-partnership</guid>
+      <pubDate>Fri, 05 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌拒绝与 YouTube Music 合同工讨价还价，违反了劳动法</title>
       <link>https://www.theverge.com/2024/1/4/24026025/google-nlrb-youtube-music-contractors-alphabet-workers-union</link>
@@ -147,16 +154,9 @@ OpenAI 在 11 月开发者大会上首次宣布，它将让 其他人使用其 G
 据我们所知，当今的大型语言模型主要是根据互联网信息进行训练的。虽然一些人工智能模型没有透露它们如何获取训练数据，但通常可以获取有关使用哪些数据集或网络爬虫的信息。训练数据集的定价因提供商、数据集大小和内容而异。一些数据提供者（例如 LAION）是开源且完全免费的，并由稳定扩散等模型使用。人工智能开发人员还经常设置网络爬虫，通过互联网获取数据来帮助训练他们的模型。 （人工智能开发人员仍然需要雇用人员来审查、标记，有时还需要清理训练数据，这大大增加了运营成本。）
 但这种做法现在面临着重大挑战。一方面，OpenAI 的 GPT 爬虫已被一些公司阻止访问数据，包括《纽约时报》和《The Verge》的母公司 Vox Media。另一方面，一些组织认为对其数据进行培训构成版权侵权。 纽约时报 其中，已起诉 OpenAI 和微软侵犯版权，声称 ChatGPT 和微软的 Copilot 可以几乎逐字生成其工作的输出。
 良好的合作伙伴关系让人工智能公司可以避免这些问题，并且在过去的一年里这已成为一种更常见的做法。像 Axel Springer（Politico  和 Business Insider 的母公司）和美联社这样的出版商 已与 OpenAI 签署协议，授权故事来训练 GPT-4 等模型并开发新闻采集技术。 
-OpenAI 和 Apple 并不是唯一希望与新闻机构合作的人工智能开发商。 据报道，Google 演示了一款名为 Genesis 的 AI 工具，该工具需要事实并向《纽约时报》、《华尔街日报》和《华盛顿邮报》的高管发布新闻故事。与此同时，一些新闻机构在新闻编辑室中使用了生成式人工智能工具结果好坏参半。]]></description>
+OpenAI 和 Apple 并不是唯一希望与新闻机构合作的人工智能开发商。 据报道，Google 演示了一款名为 Genesis 的 AI 工具，该工具需要事实并向《纽约时报》、《华尔街日报》和《华盛顿邮报》的高管发布新闻报道。与此同时，一些新闻机构在新闻编辑室中使用了生成式人工智能工具结果好坏参半。]]></description>
       <guid>https://www.theverge.com/2024/1/4/24025409/openai-training-data-lowball-nyt-ai-copyright</guid>
       <pubDate>Thu, 04 Jan 2024 19:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于收集您的想法和数据的最佳笔记应用程序</title>
-      <link>https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps</guid>
-      <pubDate>Thu, 04 Jan 2024 19:08:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
