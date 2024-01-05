@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 05 Jan 2024 06:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 09:16:47 GMT</lastBuildDate>
+    <item>
+      <title>命名设计标记：清晰和一致性的艺术</title>
+      <link>https://uxdesign.cc/naming-design-tokens-347f630ba4f9</link>
+      <description><![CDATA[为您的设计令牌选择正确的名称对于可维护性、清晰度和效率至关重要，就像在编程中命名变量一样。
+]]></description>
+      <guid>https://uxdesign.cc/naming-design-tokens-347f630ba4f9</guid>
+      <pubDate>Fri, 05 Jan 2024 07:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计 Zenly：第二部分</title>
+      <link>https://uxdesign.cc/designing-zenly-part-ii-3e525eb10ef0</link>
+      <description><![CDATA[在 Zenly，我们有点热衷于把事情做得恰到好处。
+]]></description>
+      <guid>https://uxdesign.cc/designing-zenly-part-ii-3e525eb10ef0</guid>
+      <pubDate>Fri, 05 Jan 2024 07:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>InVision 设计协作服务关闭</title>
+      <link>https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/</link>
+      <description><![CDATA[我们做出了停止 InVision 设计协作服务的艰难决定。
+]]></description>
+      <guid>https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/</guid>
+      <pubDate>Fri, 05 Jan 2024 07:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>容器查询和单位</title>
+      <link>https://frontendmasters.com/blog/container-queries-and-units/</link>
+      <description><![CDATA[容器查询与媒体查询类似，但允许您根据特定元素的当前大小（通常是宽度）设置样式。
+]]></description>
+      <guid>https://frontendmasters.com/blog/container-queries-and-units/</guid>
+      <pubDate>Fri, 05 Jan 2024 07:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>坐</title>
+      <link>https://sonnet.io/posts/sit/</link>
+      <description><![CDATA[在本文中，我将使用 Sit。作为谈论一些更广泛的想法的借口
+]]></description>
+      <guid>https://sonnet.io/posts/sit/</guid>
+      <pubDate>Fri, 05 Jan 2024 07:45:37 GMT</pubDate>
+    </item>
     <item>
       <title>泄露的文件显示艺术家 Midjourney 用于训练其人工智能模型</title>
       <link>https://hypebeast.com/2024/1/midjourney-leaked-filed-artist-ai-training</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.betterstories.org/</guid>
       <pubDate>Wed, 03 Jan 2024 08:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在自定义框架上重建表情符号选择器元素</title>
-      <link>https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/</link>
-      <description><![CDATA[在我的上一篇文章中，我们进行了从头开始构建 JavaScript 框架的引导之旅。 
-]]></description>
-      <guid>https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/</guid>
-      <pubDate>Tue, 02 Jan 2024 11:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>保持正常</title>
-      <link>https://www.chrbutler.com/being-normal</link>
-      <description><![CDATA[在一个充满影响力兜售幻想的世界中，我们需要正常化。
-]]></description>
-      <guid>https://www.chrbutler.com/being-normal</guid>
-      <pubDate>Tue, 02 Jan 2024 11:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tokenami：样式属性中的原子 CSS</title>
-      <link>https://github.com/tokenami/tokenami</link>
-      <description><![CDATA[一个新的、有趣的 CSS-in-JS 库。具有主题、响应式变体支持且无捆绑器集成的类型安全静态样式。
-]]></description>
-      <guid>https://github.com/tokenami/tokenami</guid>
-      <pubDate>Tue, 02 Jan 2024 11:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>环境共存</title>
-      <link>https://maggieappleton.com/ambient-copresence</link>
-      <description><![CDATA[在网络上创建一种微妙的、外围的、同步的共享空间和环境
-]]></description>
-      <guid>https://maggieappleton.com/ambient-copresence</guid>
-      <pubDate>Tue, 02 Jan 2024 11:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>daedalOS，达斯汀·布雷特 (Dustin Brett)</title>
-      <link>https://dustinbrett.com/</link>
-      <description><![CDATA[在浏览器中运行的令人印象深刻的桌面环境模拟。
-]]></description>
-      <guid>https://dustinbrett.com/</guid>
-      <pubDate>Tue, 02 Jan 2024 11:27:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

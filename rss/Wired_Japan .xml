@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 05 Jan 2024 06:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 09:15:51 GMT</lastBuildDate>
+    <item>
+      <title>开发“大脑植入物”的竞争加剧——从薄型设备到使用超声波的设备</title>
+      <link>https://wired.jp/article/the-race-to-put-brain-implants-in-people-is-heating-up/</link>
+      <description><![CDATA[投资者对连接大脑和计算机的“脑机接口（BCI）”领域越来越感兴趣。人们已经开发出多种不需要进行大开颅手术的微创大脑植入物，从小型设备到使用声波读取大脑活动的设备。]]></description>
+      <guid>https://wired.jp/article/the-race-to-put-brain-implants-in-people-is-heating-up/</guid>
+      <pubDate>Fri, 05 Jan 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>自由民主社交媒体的终结——特辑“2024年的世界”</title>
       <link>https://wired.jp/article/vol51-the-new-digital-dark-age/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[2023年，新型冠状病毒的危机已经开始成为过去式，但新的危机也迫在眉睫。以下是 WIRED.jp 2023 年阅读量最高的 10 篇报道。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-2023/</guid>
       <pubDate>Sun, 31 Dec 2023 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>传染病与衰老的因果关系已明，加速新疫苗研发 - 特辑《THE WORLD IN 2024》</title>
-      <link>https://wired.jp/article/vol51-vaccinations-true-potential/</link>
-      <description><![CDATA[受新冠肺炎疫情影响，疫苗研发受到广泛关注。未来，新的研究和实践将加速维持长期健康，例如抑制痴呆等衰老。]]></description>
-      <guid>https://wired.jp/article/vol51-vaccinations-true-potential/</guid>
-      <pubDate>Sun, 31 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
