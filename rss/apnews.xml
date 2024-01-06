@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻</title>
+    <title>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻</title>
     <link>https://apnews.com/hub/apf-topnews</link>
-    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻 |美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 06 Jan 2024 18:14:06 GMT</lastBuildDate>
+    <description>头条新闻：今日美国和国际头条新闻 |美联社新闻|美联社新闻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 06 Jan 2024 21:10:41 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯炮击顿涅茨克地区造成11人死亡，而乌克兰声称击中了克里米亚空军基地</title>
+      <link>https://apnews.com/article/russia-ukraine-war-crimea-donetsk-belgorod-1876ebe1853b962547955e550af6dae7</link>
+      <description><![CDATA[乌克兰基辅（美联社）——据乌克兰部分占领的顿涅茨克省州长瓦迪姆·菲拉什金 (Vadym Filashkin) 称，周六，俄罗斯炮击乌克兰部分占领的顿涅茨克省，造成 11 人死亡。他说，在波克罗夫斯克地区的袭击中，有五名儿童死亡，另有八人受伤。乌克兰军方周六声称，成功袭击了俄罗斯占领的克里米亚西部的萨基军事空军基地半岛。“萨基机场！目标全部命中！”空军司令米科拉·奥列什丘克 (Mykola Oleshchuk) 在 Telegram 上写道。他还发布了一张似乎显示机场的照片，但无法立即验证该图像。 
+
+
+俄罗斯官员没有对所谓的袭击事件发表评论，但俄罗斯国防部在周六凌晨表示，它已在一夜之间成功击落了半岛上空的四枚乌克兰导弹。周六晚些时候，国防部报告说，其防空部队在黑海上空击落了六枚反舰导弹。 连接半岛与俄罗斯南部克拉斯诺达尔地区的一座桥梁已连续第三天暂停交通。这座半岛于 2014 年被莫斯科非法占领。跨度为 俄罗斯战争的重要供应链。 在俄罗斯，距离乌克兰边境约 40 公里（25 英里）的别尔哥罗德当地官员表示，一个“空中目标”在接近该市时被击落。乌克兰语 东正教圣诞节，别尔哥罗德市市长瓦伦丁·杰米多夫表示，由于“运营情况”，圣诞夜弥撒被取消。]]></description>
+      <guid>https://apnews.com/article/russia-ukraine-war-crimea-donetsk-belgorod-1876ebe1853b962547955e550af6dae7</guid>
+      <pubDate>Sat, 06 Jan 2024 16:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着雪、冰、冻雨的临近，美国东部和新英格兰地区的居民纷纷蹲下</title>
+      <link>https://apnews.com/article/winter-storm-east-coast-snow-ice-48f191d719030f7aa34cb055c8d0a10e</link>
+      <description><![CDATA[]]></description>
+      <guid>https://apnews.com/article/winter-storm-east-coast-snow-ice-48f191d719030f7aa34cb055c8d0a10e</guid>
+      <pubDate>Sat, 06 Jan 2024 15:55:50 GMT</pubDate>
+    </item>
     <item>
       <title>由于担心加沙战争可能席卷该地区，布林肯在土耳其开启了最新的紧急中东之行</title>
       <link>https://apnews.com/article/us-turkey-israel-greece-gaza-hamas-jordan-36e5e1be205d5200916fd447c8c8e455</link>
@@ -97,20 +114,6 @@
       <description><![CDATA[]]></description>
       <guid>https://apnews.com/article/jeffrey-epstein-documents-prince-andrew-harvey-weinstein-1e20f426af0c610db7963cdaf85c209f</guid>
       <pubDate>Sat, 06 Jan 2024 00:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院允许爱达荷州执行严格的堕胎禁令，即使在医疗紧急情况下也是如此</title>
-      <link>https://apnews.com/article/supreme-court-abortion-medical-emergencies-idaho-8ca89d7de0c1fa9256dcd27d1847e144</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/supreme-court-abortion-medical-emergencies-idaho-8ca89d7de0c1fa9256dcd27d1847e144</guid>
-      <pubDate>Fri, 05 Jan 2024 22:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院将决定唐纳德·特朗普是否可以被排除在 2024 年总统选举之外</title>
-      <link>https://apnews.com/article/supreme-court-trump-insurrection-2024-election-0baac5ba0c1868e437e365af17eeab24</link>
-      <description><![CDATA[]]></description>
-      <guid>https://apnews.com/article/supreme-court-trump-insurrection-2024-election-0baac5ba0c1868e437e365af17eeab24</guid>
-      <pubDate>Fri, 05 Jan 2024 22:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
