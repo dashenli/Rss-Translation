@@ -4,7 +4,75 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Jan 2024 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 00:56:20 GMT</lastBuildDate>
+    <item>
+      <title>苹果拒绝新日历应用后与Hey重燃旧约</title>
+      <link>https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+新的一年应该以全新的日历应用开始。但大约 72 小时后，高级电子邮件服务 Hey 宣布了其最新功能——集成日历— 联合创始人 David Heinemeier Hansson 从 Apple 收到了一些不受欢迎的消息：它拒绝为 Hey Calendar 提供独立的 iOS 应用程序，因为非付费用户打开该应用程序时无法执行任何操作。
+新用户无法直接在应用程序上注册 Hey Calendar - Basecamp，该公司制作了 Hey，让用户首先通过浏览器注册。苹果的 App Store 规则要求大多数付费服务为用户提供通过应用程序付费和注册的能力，确保该公司获得高达 30% 的提成。这项有争议的规则存在大量灰色地带和例外情况（例如 Spotify 和 Kindle 等阅读器应用程序除外），并且是多个国家反垄断斗争的主题。 
+但正如 Hansson 在 X 上以及随后的 详细介绍的那样/world.hey.com/dhh/apple-rejects-the-hey-calendar-from-their-app-store-4316dc03&quot;&gt;博客文章，他发现苹果的拒绝还有另一个原因是侮辱性的。大约四年前，该公司拒绝了 Hey 最初的 iOS 应用程序的电子邮件服务 完全相同的原因。 “Apple 刚刚打电话告诉我们，他们正在拒绝 App Store 中的 HEY 日历应用程序（以当前形式）。与上次相同的欺凌策略：巧妙地拒绝一个只知道名字的人的电话，他会轻声告诉你这是你的钱包或你的膝盖，”在 X 上的一篇帖子中写道 Hansson。
+2020 年的战斗结果实际上对 Hey 有利。经过 Apple App Store 审查委员会和 Basecamp 之间来来回回几天后，Hey 团队同意苹果公司高管 Phil Schiller 建议的相当有创意的解决方案。 Hey 将为 iOS 应用程序提供免费选项，允许新用户直接注册。但该公司有一个小小的转变——通过 iOS 应用程序注册的用户会获得一个免费的临时随机电子邮件地址，有效期为 14 天——之后他们必须付费才能升级。目前，Hey email用户只能通过浏览器为账户付费。 
+继 Hey 事件之后，Apple 对其 App Store 规则进行了豁免，规定某些类型的付费网络服务的免费配套应用不需要应用内支付机制。但是，正如 Hansson 在 X 上提到的那样，苹果现在例外的服务列表中没有提到日历应用程序，其中包括 VOIP、云存储、网络托管，当然还有电子邮件。 
+
+
+既然很明显我们永远不会向他们支付 30% 的勒索赎金，他们又开始胡说八道了，“当你下载应用程序时，它不会做任何事情” ”。尽管继上次之后，他们在 App Store 审核指南 3.1.3 (f) 中特意划出了 HEY！ pic.twitter.com/GfqBCMgvSw— DHH (@dhh) 2024 年 1 月 5 日
+
+
+“在花了 19 天审核我们提交的内容后，导致我们错过了计划已久的 1 月 2 日发布日期，Apple 拒绝了我们的独立免费配套应用程序，‘因为它没有做任何事情’。这是因为用户需要使用现有帐户登录才能使用该功能，”汉森在博客文章中写道。 
+正如 Hansson 在 X 帖子中详细信息所述，Hey 计划反对 Apple 的决定——尽管他没有具体说明他们将采取什么路线。 The Verge 已联系 Hey 和 Apple 征求意见。
+]]></description>
+      <guid>https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson</guid>
+      <pubDate>Fri, 05 Jan 2024 23:24:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Max 的直播体育附加组件将再免费几个月</title>
+      <link>https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+华纳兄弟探索频道为 Max 提供的附加运动套餐将比原计划保持免费一段时间，据 Deadline 报道。 Bleacher Report Sports 附加组件于去年 10 月添加，虽然迄今为止订阅者可以免费使用，但它原定于 2024 年 2 月 29 日成为付费附加组件。不过，月费改为 9.99 美元由于华纳兄弟探索频道解决了一些技术问题，该项目被推迟了几个月。
+“B/R Sports 附加组件将在几个月内继续向我们的 Max 订阅者提供，因为我们最终完成了一些技术集成，这将确保我们的平台提供更加无缝的客户体验Max 发言人 Jeff Cusson 在给 The Verge 的一份声明中表示。
+B/R Sports 级别，于 10 月 5 日推出，包括来自多个体育联盟的现场比赛，包括 MLB（棒球）、NBA（篮球）、NHL（曲棍球）和 NCAA（大学体育）。其他流媒体服务也在开展体育赛事直播。 Netflix 在 11 月举办了一场现场高尔夫锦标赛 并计划直播网球比赛三月。亚马逊开始举办流媒体独家的周四橄榄球之夜广播]]></description>
+      <guid>https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months</guid>
+      <pubDate>Fri, 05 Jan 2024 22:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是目前最好的 Kindle 优惠</title>
+      <link>https://www.theverge.com/21539047/best-amazon-kindle-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21539047/best-amazon-kindle-deals</guid>
+      <pubDate>Fri, 05 Jan 2024 22:33:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于 iOS 17，播客下载量再次下降</title>
+      <link>https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+很抱歉听起来像是破纪录，但数字又下降了。这次的涨幅很大，尽管这在年底并不罕见。 Podtrac 报告称，在排名前 20 的发布商中，下载量环比下降 19%，同比下降 24% 。该报告指出，这一下降“很大程度上是由于 iOS 17 改变了下载行为，因为它继续被播客听众采用。”
+9 月，Apple 推出了 iOS 17，其中的一个小变化对下载量产生了重大影响。过去，如果您订阅了一个节目，暂时忘记了它，然后返回，所有中间的剧集都会自动下载。但 iOS 17 做到了这一点，因此下载可以从上次中断的地方继续，而无需进行自动下载。最后，这对于您的手机内存和想要准确了解谁正在收听他们的广告的广告商来说都是一件好事。但对于发布商来说，这是一种调整，会在短期内降低他们的整体指标。
+短期情况如何仍有待观察。截至 11 月，Podtrac 发现 75% 的播客听众正在使用 iOS 17，这一数字可能在 12 月进一步上升。但 12 月份的数字（逐月下降 19%！！）应该持保留态度。假期期间，听众的习惯被打乱，Podtrac 报告称，听众数量逐月下降 11% 2022 年 12 月。也就是说，即使去年 12 月下载量有所下降，下载量仍同比增长 2%。
+闪电圆⚡
+
+天哪，今年正式是选举年了。 iHeartMedia 正在推出政治播客网络称为 Reasoned Choice Media，将由 Native Land Pod 锚定。该节目将于下周四推出，由政界人士安吉拉·莱伊 (Angela Rye)、蒂芙尼·D·克罗斯 (Tiffany D. Cross) 和安德鲁·吉勒姆 (Andrew Gillum) 主持。
+
+The Podglomerate 已聘请前 Vox Media 和 Gimlet 员工 Katelyn Bogucki 为其新的首席制作人。 Bogucki 担任 Archetypes 的执行制作人，这是由梅根·马克尔 (Meghan Markle) 主持的（臭名昭著的）Spotify 播客。
+
+这个故事探讨了为什么像 Alex Cooper 和 Bobbi 这样的播客阿尔索夫正在床上录制他们的节目。 “床和相关的个人内容也是一个柔软、安全的着陆点，可以平衡当前新闻状态的末日滚动性质，”《快公司》的莉莉·史密斯写道。我大部分时间都在床上玩末日卷轴，但我明白你的意思，莉莉。
+
+ 彭博社报道，Novel创始人 Sean Glynn 与投资者 VGC Partners 之间的诉讼已经和解。
+
+
+Podnews 报告播客搜索引擎收听笔记 显示 2023 年新播客创建量为 ]]></description>
+      <guid>https://www.theverge.com/2024/1/5/24027214/podcast-apple-ios-17-downloads-iheart-gimlet</guid>
+      <pubDate>Fri, 05 Jan 2024 22:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果可能是下一家在美国面临反垄断指控的大型科技公司</title>
       <link>https://www.theverge.com/2024/1/5/24027001/apple-doj-antitrust-lawsuit-investigation</link>
@@ -70,72 +138,6 @@ pic.twitter.com/XqPU0ECprz— Алексей (@wxnod) 2024 年 1 月 5 日
 不过，泄漏信息并未提及屏幕尺寸、分辨率，也没有提及 MSI 是否使用 OLED 面板。从泄露的照片来看，它的尺寸与 ROG Ally 的 7 英寸屏幕类似。不管怎样，随着 MSI 的戏弄和泄密者的行动，我们可能会在下周的 CES 上听到更多关于 Claw 的消息。]]></description>
       <guid>https://www.theverge.com/2024/1/5/24026479/msi-claw-handheld-gaming-pc-specs-leak-ces-2024</guid>
       <pubDate>Fri, 05 Jan 2024 14:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>CES 2024 有什么值得期待的</title>
-      <link>https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect</guid>
-      <pubDate>Fri, 05 Jan 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥罗拉 (Aurora) 敲定了与大陆集团 (Continental) 合作生产的自动驾驶卡车的设计</title>
-      <link>https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：极光
-
-自动驾驶汽车公司 Aurora Innovation 宣布完成其 Aurora Driver 的设计、架构和硬件。该技术将从 2027 年开始为其与德国汽车供应商大陆集团合作生产的未来无人驾驶半挂卡车系列提供动力。
-Aurora 表示，仍计划在 2024 年底前部署一些完全无人驾驶卡车。但该公司表示，在完成自动驾驶硬件和软件堆栈设计的里程碑之后，它正在准备在短短三年内部署“数千”辆卡车。 
-Aurora 由 Uber、Tesla 和 Waymo 的校友于 2017 年创立，该公司表示计划今年部署 20 辆全自动卡车，并计划在 2025 年扩大到约 100 辆卡车，最终卖给其他公司。 
-该公司首次宣布与大陆集团成立合资企业2023 年 4 月，Aurora 表示，此次合作将使其能够以更有意义的方式扩大其制造计划。该公司还与沃尔沃和帕卡达成协议，在这些公司的卡车上使用其自动驾驶技术。 
-
-自动驾驶卡车一度被认为先于机器人出租车和个人拥有的自动驾驶汽车而得到大规​​模采用，但在此过程中也遇到了与其他车辆类型类似的障碍。一些公司已经倒闭，而另一些公司则削减了业务计划部署无人驾驶卡车，因为时间已经延长到未来，而且资金已经枯竭。 
-此外，公众对自动驾驶汽车的看法趋势下降，部分原因是 特斯拉和 Cruise 等公司，后者被迫在一名行人被其中一辆车伤害后，在全国范围内暂停运营。 
-但奥罗拉 (Aurora) 希望采取谨慎、保守的商业化方法，使其卡车看起来更实用。该公司计划在今年剩余时间和明年与大陆集团一起构建和测试其技术的原型版本，并在其位于德克萨斯州新布朗费尔斯的工厂进行测试。 
-同时，大陆集团将在其工厂开始生产之前，对 Aurora 的技术及其后备系统进行“工业化和验证”。后备系统到位，可以在传感器或其他硬件故障的情况下帮助引导卡车。 
-Aurora 还计划在其 Driver 中使用大陆集团的多个组件，包括“传感器、自动驾驶控制单元、高性能计算机、远程信息处理单元等”。两家公司将共同为购买 Aurora 卡车的客户开发“服务手册”。]]></description>
-      <guid>https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027</guid>
-      <pubDate>Fri, 05 Jan 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>享受与您的新型语音控制智能坐浴盆交谈的乐趣</title>
-      <link>https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024</link>
-      <description><![CDATA[&lt;图&gt;
-      
-PureWash E930 以极低的价格为您提供大部分智能马桶功能。 （不过，它仍然很昂贵。） |图片：科勒
-
-对于大多数人来说，冲水 整个智能马桶的 10,000 美元付诸东流 有点贵了。但如果您一直想要一个精美的马桶，科勒将在 CES 2024 上推出更方便的选择。售价 2,149 美元的 PureWash E930 是一款声控坐浴盆座椅，可让您将现有的马桶变成更智能的马桶。就像这样，你现在可以随意支配你的厕所了。
-坐浴盆座椅的吸引力在于，它们可以让您以一小部分的价格将无聊的马桶变成一个更高档的马桶。科勒多年来一直拥有坐浴盆座椅，但与 PureWash E930 的不同之处在于，它具有 Amazon Alexa 和 Google Home 兼容性，这意味着您可以使用您选择的数字助理来激活坐浴盆喷雾、暖风烘干机和紫外线清洁功能。 （最重要的是，您不必触摸任何东西。）它还可以与 Kohler Konnect 应用程序配合使用，因此您可以设置自己的首选项和预设。 
-
-PureWash E930 还具有遥控器、加热座椅、可调节水温和水压以及多种喷雾模式。其中包括更柔和的儿童模式和全压力的“增压”喷雾。还有一种振荡或脉动喷雾，科勒说，水会持续加热，以实现“一致的舒适感”。科勒渠道营销和商业化总监阿尔弗雷德·理查森 (Alfred Richardson) 表示，在设计方面，该公司强调纤薄低调，E930 应该适合大多数加长型马桶。 E930也不吝惜一些更有趣的智能马桶的花哨功能。与 Numi 2.0 一样，它具有 LED 照明，因此您可以将其用作夜灯。换句话说，您无需购买新马桶即可获得完整智能马桶的精髓。 
-
-
-图片：科勒
-科勒的 Atmo 智能浴室风扇可以自动检测湿度和温度。它还可以兼作智能夜灯。
-
-科勒还在 CES 上展示了其他一些智能浴室技术。售价 266 美元的 Atmo 浴室风扇将通风与智能照明融为一体。智能风扇可以自动检测浴室的温度和湿度，然后相应地打开。您还可以通过 Kohler Konnect 应用程序自定义风扇速度和灯光色温，以匹配昼夜节律照明。 
-同时，科勒的 Anthem 淋浴控制器系列新增了一款产品，可让您个性化淋浴体验并监控用水情况。售价 2,800 美元的 Anthem Plus 有四项附加功能。您现在可以完全控制声音和灯光、添加蒸汽以及添加多达 12 个出水口，即雨淋式淋浴喷头、可拆卸淋浴喷头等。与科勒的其他小工具一样，您可以通过 Alexa 和 Google Home 使用语音控制。此外，还有针对各种场景的九种预设，例如锻炼后、睡前和清晨。 
-PureWash E930 是 可用于订单从今天开始，而 Atmo 浴室风扇将于 2024 年第一季度开放接受订单。Anthem Plus 预计将于 2024 年 2 月上市。
-]]></description>
-      <guid>https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024</guid>
-      <pubDate>Fri, 05 Jan 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>因夸大投诉，特斯拉降低了 Model Y、S 和 X 的续航里程预估</title>
-      <link>https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration</link>
-      <description><![CDATA[&lt;图&gt;
-      
-特斯拉 Model Y 的两款车型（如图）在美国的预计行驶里程有所降低。 |图片：特斯拉
-    
-特斯拉降低了美国多款 Model Y、S 和 X 车型的续航里程预估，将某些车型的续航里程预估降低了 6%。据Electrek 报道，特斯拉的在线配置器现在显示 Model Y 性能版的估计续航里程为 285 英里，比之前的 303 英里估计减少了 18 英里。 
-Model Y 长续航里程从 330 英里降至 310 英里，而 Model X 的 Plaid 续航里程从 333 英里降至 326 英里。Model S Plaid 的预估也已更新 - 更具体地说，配置19 英寸车轮的行驶里程从 396 英里降至 359 英里。特斯拉在英国和欧盟的上市信息并未发生这些变化，Cyber​​truck、Model 3 和 Model Y 后轮驱动等其他车辆的范围也不受影响。&lt; /p&gt;
-
-特斯拉尚未对降低的续航里程预估做出解释。 驾驶特斯拉报告 在审查公司内部文件后，这些变化与两件事有关。首先，特斯拉所做的“舒适性和功能性改进”需要更多的能源，其次是实施修订后的 EPA 测试要求，导致“消耗更高，整体续航里程略有下降”。
-多年来，特斯拉因高估其续航里程而闻名，美国环保局 (EPA) 声称首席执行官 埃隆·马斯克 (Elon Musk) 早在 2020 年就夸大了 Tesla Model S Long Range 的 400 英里续航里程。最后10 月，美国司法部对特斯拉的预估里程展开调查 据报道，其许多数据是故意的膨胀。
-美国东部时间 1 月 5 日上午 8:18 更新：添加了 Drive Tesla 的报告，说明修订续航里程估算的原因。]]></description>
-      <guid>https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration</guid>
-      <pubDate>Fri, 05 Jan 2024 12:24:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
