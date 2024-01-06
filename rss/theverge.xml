@@ -4,7 +4,7 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Jan 2024 00:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 03:13:38 GMT</lastBuildDate>
     <item>
       <title>苹果拒绝新日历应用后与Hey重燃旧约</title>
       <link>https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson</link>
@@ -15,14 +15,14 @@
 新的一年应该以全新的日历应用开始。但大约 72 小时后，高级电子邮件服务 Hey 宣布了其最新功能——集成日历— 联合创始人 David Heinemeier Hansson 从 Apple 收到了一些不受欢迎的消息：它拒绝为 Hey Calendar 提供独立的 iOS 应用程序，因为非付费用户打开该应用程序时无法执行任何操作。
 新用户无法直接在应用程序上注册 Hey Calendar - Basecamp，该公司制作了 Hey，让用户首先通过浏览器注册。苹果的 App Store 规则要求大多数付费服务为用户提供通过应用程序付费和注册的能力，确保该公司获得高达 30% 的提成。这项有争议的规则存在大量灰色地带和例外情况（例如 Spotify 和 Kindle 等阅读器应用程序除外），并且是多个国家反垄断斗争的主题。 
 但正如 Hansson 在 X 上以及随后的 详细介绍的那样/world.hey.com/dhh/apple-rejects-the-hey-calendar-from-their-app-store-4316dc03&quot;&gt;博客文章，他发现苹果的拒绝还有另一个原因是侮辱性的。大约四年前，该公司拒绝了 Hey 最初的 iOS 应用程序的电子邮件服务 完全相同的原因。 “Apple 刚刚打电话告诉我们，他们正在拒绝 App Store 中的 HEY 日历应用程序（以当前形式）。与上次相同的欺凌策略：巧妙地拒绝一个只知道名字的人的电话，他会轻声告诉你这是你的钱包或你的膝盖，”在 X 上的一篇帖子中写道 Hansson。
-2020 年的战斗结果实际上对 Hey 有利。经过 Apple App Store 审查委员会和 Basecamp 之间来来回回几天后，Hey 团队同意苹果公司高管 Phil Schiller 建议的相当有创意的解决方案。 Hey 将为 iOS 应用程序提供免费选项，允许新用户直接注册。但该公司有一个小小的转变——通过 iOS 应用程序注册的用户会获得一个免费的临时随机电子邮件地址，有效期为 14 天——之后他们必须付费才能升级。目前，Hey email用户只能通过浏览器为账户付费。 
+2020 年的战斗结果实际上对 Hey 有利。经过 Apple App Store 审查委员会和 Basecamp 之间来来回回几天后，Hey 团队同意苹果公司高管 Phil Schiller 建议的相当有创意的解决方案。 Hey 将为 iOS 应用程序提供免费选项，允许新用户直接注册。但电子邮件服务提出了一个小小的调整——通过 iOS 应用程序注册的用户将获得一个免费的临时随机电子邮件地址，有效期为 14 天——之后他们必须付费才能升级。目前，Hey email用户只能通过浏览器为账户付费。 
 继 Hey 事件之后，Apple 对其 App Store 规则进行了豁免，规定某些类型的付费网络服务的免费配套应用不需要应用内支付机制。但是，正如 Hansson 在 X 上提到的那样，苹果现在例外的服务列表中没有提到日历应用程序，其中包括 VOIP、云存储、网络托管，当然还有电子邮件。 
 
 
 既然很明显我们永远不会向他们支付 30% 的勒索赎金，他们又开始胡说八道了，“当你下载应用程序时，它不会做任何事情” ”。尽管继上次之后，他们在 App Store 审核指南 3.1.3 (f) 中特意划出了 HEY！ pic.twitter.com/GfqBCMgvSw— DHH (@dhh) 2024 年 1 月 5 日
 
 
-“在花了 19 天审核我们提交的内容后，导致我们错过了计划已久的 1 月 2 日发布日期，Apple 拒绝了我们的独立免费配套应用程序，‘因为它没有做任何事情’。这是因为用户需要使用现有帐户登录才能使用该功能，”汉森在博客文章中写道。 
+“在花了 19 天审核我们提交的内容后，导致我们错过了计划已久的 1 月 2 日发布日期，Apple 拒绝了我们的独立免费配套应用程序，‘因为它没有做任何事情’。这是因为用户需要使用现有帐户登录才能使用该功能。”汉森在博客文章中写道。 
 正如 Hansson 在 X 帖子中详细信息所述，Hey 计划反对 Apple 的决定——尽管他没有具体说明他们将采取什么路线。 The Verge 已联系 Hey 和 Apple 征求意见。
 ]]></description>
       <guid>https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson</guid>
@@ -36,7 +36,7 @@
 图片：The Verge
 
 华纳兄弟探索频道为 Max 提供的附加运动套餐将比原计划保持免费一段时间，据 Deadline 报道。 Bleacher Report Sports 附加组件于去年 10 月添加，虽然迄今为止订阅者可以免费使用，但它原定于 2024 年 2 月 29 日成为付费附加组件。不过，月费改为 9.99 美元由于华纳兄弟探索频道解决了一些技术问题，该项目被推迟了几个月。
-“B/R Sports 附加组件将在几个月内继续向我们的 Max 订阅者提供，因为我们最终完成了一些技术集成，这将确保我们的平台提供更加无缝的客户体验Max 发言人 Jeff Cusson 在给 The Verge 的一份声明中表示。
+“B/R Sports 附加组件将在接下来的几个月内继续向我们的 Max 订阅者提供，因为我们最终完成了一些技术集成，这将确保我们的平台提供更加无缝的客户体验Max 发言人 Jeff Cusson 在给 The Verge 的一份声明中表示。
 B/R Sports 级别，于 10 月 5 日推出，包括来自多个体育联盟的现场比赛，包括 MLB（棒球）、NBA（篮球）、NHL（曲棍球）和 NCAA（大学体育）。其他流媒体服务也在开展体育赛事直播。 Netflix 在 11 月举办了一场现场高尔夫锦标赛 并计划直播网球比赛三月。亚马逊开始举办流媒体独家的周四橄榄球之夜广播]]></description>
       <guid>https://www.theverge.com/2024/1/5/24027269/max-live-sports-add-on-free-few-more-months</guid>
       <pubDate>Fri, 05 Jan 2024 22:45:57 GMT</pubDate>
@@ -81,7 +81,7 @@ Podnews 报告播客搜索引擎收听笔记 显示 2023 年新播客创建量�
 插图：The Verge
 
 苹果可能很快就会成为联邦反垄断诉讼的对象，根据纽约时报的报道。该出版物称，美国司法部 (DOJ) 对苹果及其将客户锁定在其生态系统中的举措的调查正处于“后期阶段”。
-司法部的调查重点是苹果如何阻止竞争对手使用 iMessage，以及与其他品牌的手表相比，Apple Watch 与 iPhone 一起使用时如何表现得更好，Times 报告。此外，据报道，调查人员正在调查苹果如何阻止其他金融提供商使用 iPhone 专用的支付服务。
+美国司法部的调查重点是苹果如何阻止竞争对手使用 iMessage，以及与其他品牌《Times》的手表相比，Apple Watch 在与 iPhone 配合使用时如何表现得更好 em&gt; 报告。此外，据报道，调查人员正在调查苹果如何阻止其他金融提供商使用 iPhone 专用的支付服务。
 消息人士告诉《泰晤士报》，调查尚未确定，司法部高级官员仍在审查调查结果。据报道，苹果公司最近在去年 12 月就与 DOJ 进行了“多次”会面，但它仍未与该机构举行最后一次会议，为自己的做法辩护。据《泰晤士报》报道，司法部最早可能会在 2024 年上半年对苹果提起诉讼。
 The Verge 联系 Apple 请求置评，但没有立即收到回复。
 去年 2 月，《华尔街日报》报道美国司法部正在升级对苹果公司的调查。这家 iPhone 制造商最近多次受到反垄断审查，包括 反复关闭 Android 版 iMessage 应用&lt; /a&gt; 由 Beeper 去年年底制作。
