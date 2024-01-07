@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 06 Jan 2024 21:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 01:03:01 GMT</lastBuildDate>
+    <item>
+      <title>“CES 2024”，搭载AI的产品将成“主角”</title>
+      <link>https://wired.jp/article/ces-2024-preview-ai/</link>
+      <description><![CDATA[CES 2024 将于 1 月 9 日在拉斯维加斯拉开帷幕，一如既往，展会上将充斥着采用最新技术的新型消费产品。今年，由于人工智能 (AI)，它看起来会变得更加强大。]]></description>
+      <guid>https://wired.jp/article/ces-2024-preview-ai/</guid>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI翻译系统进化，法庭接受动物证词 - 特辑“2024年的世界”</title>
       <link>https://wired.jp/article/vol51-ai-animal-language-translators-in-the-dock/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大型科技公司通过增加转换成本来阻止用户离开其平台，但强制互操作性的法规可能会在 2024 年改变游戏规则。]]></description>
       <guid>https://wired.jp/article/vol51-a-new-exit-strategy/</guid>
       <pubDate>Tue, 02 Jan 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>女子体育引领实现包容性社会——特辑“2024年的世界”</title>
-      <link>https://wired.jp/article/vol51-a-level-playing-field-where-everyone-wins/</link>
-      <description><![CDATA[随着越来越多的公司投资女性体育运动，并且比男性体育运动拥有更广泛的受众，女性运动员将能够在赛场内外传达她们的信息并激发社会变革。]]></description>
-      <guid>https://wired.jp/article/vol51-a-level-playing-field-where-everyone-wins/</guid>
-      <pubDate>Tue, 02 Jan 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
