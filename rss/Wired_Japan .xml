@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 07 Jan 2024 01:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 03:15:09 GMT</lastBuildDate>
+    <item>
+      <title>不放弃解决世界难题的“极客”公司崛起：安德鲁·麦卡菲──特辑《2024年的世界》</title>
+      <link>https://wired.jp/article/vol51-all-hail-our-geek-overlords/</link>
+      <description><![CDATA[热衷于应对世界上最严峻挑战的充满活力的初创公司有一个共同点：这是一种看重科学思维、主人翁精神、速度、开放性的态度。这是开启下一个时代的钥匙。]]></description>
+      <guid>https://wired.jp/article/vol51-all-hail-our-geek-overlords/</guid>
+      <pubDate>Sun, 07 Jan 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“CES 2024”，搭载AI的产品将成“主角”</title>
       <link>https://wired.jp/article/ces-2024-preview-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果人工智能只是根据给定的数据复制文本和图像模式，它就不会进步。人工智能需要试验、验证和完善。这也应该为人类带来良好的结果。]]></description>
       <guid>https://wired.jp/article/vol51-discovering-that-action-leads-to-understanding/</guid>
       <pubDate>Wed, 03 Jan 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当平台之间的墙壁将倒塌时，互操作性的时代即将到来 - 特辑“THE WORLD IN 2024”</title>
-      <link>https://wired.jp/article/vol51-a-new-exit-strategy/</link>
-      <description><![CDATA[大型科技公司通过增加转换成本来阻止用户离开其平台，但强制互操作性的法规可能会在 2024 年改变游戏规则。]]></description>
-      <guid>https://wired.jp/article/vol51-a-new-exit-strategy/</guid>
-      <pubDate>Tue, 02 Jan 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
