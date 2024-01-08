@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 08 Jan 2024 09:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 12:27:44 GMT</lastBuildDate>
+    <item>
+      <title>2024 年前端预测</title>
+      <link>https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/</link>
+      <description><![CDATA[对于前端来说，这是非凡的一年。 
+]]></description>
+      <guid>https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/</guid>
+      <pubDate>Mon, 08 Jan 2024 11:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>神奇宝贝和日本工艺传统在一场精彩的展览中相结合</title>
+      <link>https://www.thisiscolossal.com/2024/01/pokemon-kogei/</link>
+      <description><![CDATA[日本的两项主要文化贡献在 POKÉMON X KOGEI 中得到了体现。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/01/pokemon-kogei/</guid>
+      <pubDate>Mon, 08 Jan 2024 11:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>两人反应</title>
+      <link>https://overreacted.io/the-two-reacts/</link>
+      <description><![CDATA[无论我要显示网页、交互式网络应用程序，甚至是本机应用程序，都必须至少涉及两个设备。
+]]></description>
+      <guid>https://overreacted.io/the-two-reacts/</guid>
+      <pubDate>Mon, 08 Jan 2024 11:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年我们对人工智能的了解</title>
+      <link>https://simonwillison.net/2023/Dec/31/ai-in-2023/</link>
+      <description><![CDATA[2023 年是大型语言模型 (LLM) 取得突破的一年。
+]]></description>
+      <guid>https://simonwillison.net/2023/Dec/31/ai-in-2023/</guid>
+      <pubDate>Mon, 08 Jan 2024 11:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>InVision 应用程序的遗产</title>
+      <link>https://www.proofofconcept.pub/p/the-legacy-of-invision-app</link>
+      <description><![CDATA[标志着一个时代的结束。
+]]></description>
+      <guid>https://www.proofofconcept.pub/p/the-legacy-of-invision-app</guid>
+      <pubDate>Mon, 08 Jan 2024 11:40:04 GMT</pubDate>
+    </item>
     <item>
       <title>命名设计标记：清晰和一致性的艺术</title>
       <link>https://uxdesign.cc/naming-design-tokens-347f630ba4f9</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</guid>
       <pubDate>Thu, 04 Jan 2024 08:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 Web 开发人员的 AI：AI 图像生成</title>
-      <link>https://austingil.com/ai-for-web-devs-image-generation/</link>
-      <description><![CDATA[我使用 OpenAI 处理 AI 图像生成的细微差别的策略。
-]]></description>
-      <guid>https://austingil.com/ai-for-web-devs-image-generation/</guid>
-      <pubDate>Wed, 03 Jan 2024 08:34:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>数以千计的电影、书籍和插图刚刚进入公共领域</title>
-      <link>https://www.thisiscolossal.com/2024/01/public-domain-2024/</link>
-      <description><![CDATA[1 月 1 日，数以千计的书籍、电影、戏剧、艺术品、录音等进入公共领域。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/01/public-domain-2024/</guid>
-      <pubDate>Wed, 03 Jan 2024 08:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>1d 吃豆人</title>
-      <link>https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</link>
-      <description><![CDATA[一维吃豆人游戏。 
-]]></description>
-      <guid>https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</guid>
-      <pubDate>Wed, 03 Jan 2024 08:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>包容性设计如何塑造了我</title>
-      <link>https://uxdesign.cc/how-inclusive-design-shaped-me-da617b934e03</link>
-      <description><![CDATA[以神经发散设计师的身份应对工作和生活
-]]></description>
-      <guid>https://uxdesign.cc/how-inclusive-design-shaped-me-da617b934e03</guid>
-      <pubDate>Wed, 03 Jan 2024 08:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好故事的九项原则</title>
-      <link>https://www.betterstories.org/</link>
-      <description><![CDATA[免费指南，帮助每个人讲述更好的故事。
-]]></description>
-      <guid>https://www.betterstories.org/</guid>
-      <pubDate>Wed, 03 Jan 2024 08:09:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
