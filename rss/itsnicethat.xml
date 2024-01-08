@@ -3,8 +3,22 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 08 Jan 2024 12:27:04 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 08 Jan 2024 15:16:30 GMT</lastBuildDate>
+    <item>
+      <title>长坂富美阿拉巴马州七年摄影之旅取得了令人着迷的成果</title>
+      <link>https://www.itsnicethat.com/articles/fumi-nagasaka-dora-yerkwood-walker-county-alabama-photography-project-080124</link>
+      <description><![CDATA[该项目名为多拉，亚拉巴马州沃克县耶克伍德，深入研究了美国南部一个小镇的内部结构，从教堂礼拜到啦啦队活动。]]></description>
+      <guid>https://www.itsnicethat.com/articles/fumi-nagasaka-dora-yerkwood-walker-county-alabama-photography-project-080124</guid>
+      <pubDate>Mon, 08 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒂姆·拉汉 (Tim Lahan) 的像素作品是用颜料、粉彩和对技术的不信任制成的</title>
+      <link>https://www.itsnicethat.com/articles/tim-lahan-art-project-080124</link>
+      <description><![CDATA[这位伦敦艺术家将柔和的图像与粗糙的线条和边缘结合起来，质疑科技的冷酷和计算本质。]]></description>
+      <guid>https://www.itsnicethat.com/articles/tim-lahan-art-project-080124</guid>
+      <pubDate>Mon, 08 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>探索模拟设计技术的兴起和演变</title>
       <link>https://www.itsnicethat.com/features/forward-thinking-rise-of-analogue-080124</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[《熊的鱼》被誉为今年最好的电视剧集之一，为这家饮料集团制作了一个新的广告。]]></description>
       <guid>https://www.itsnicethat.com/news/chris-storer-majority-coca-cola-new-guy-advertising-030124</guid>
       <pubDate>Wed, 03 Jan 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊加·别劳斯卡 (Iga Bielawska) 描绘了一个融合女性、酷儿和十二生肖的世界</title>
-      <link>https://www.itsnicethat.com/articles/iga-bielawska-art-discover-030124</link>
-      <description><![CDATA[这位伦敦画家用她无限的粉色、红色、蓝色和黄色人物吸引了我们，她试图赋予所有这些人物以力量。]]></description>
-      <guid>https://www.itsnicethat.com/articles/iga-bielawska-art-discover-030124</guid>
-      <pubDate>Wed, 03 Jan 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>插画家 Limoo Park 的画笔很厚重，场景也很甜美</title>
-      <link>https://www.itsnicethat.com/articles/girim-park-illustration-discover-030124</link>
-      <description><![CDATA[这位韩国插画家优先考虑简单性，让她的色彩和构图说话。]]></description>
-      <guid>https://www.itsnicethat.com/articles/girim-park-illustration-discover-030124</guid>
-      <pubDate>Wed, 03 Jan 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
