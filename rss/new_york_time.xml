@@ -4,13 +4,20 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Jan 2024 06:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 08:51:48 GMT</lastBuildDate>
     <item>
-      <title>火神火箭为首次登月任务发射做准备</title>
-      <link>https://www.nytimes.com/2024/01/07/science/nasa-vulcan-moon-launch.html</link>
-      <description><![CDATA[以下是您需要了解的有关联合发射联盟及其正在送入轨道的机器人月球航天器的信息。]]></description>
-      <guid>https://www.nytimes.com/2024/01/07/science/nasa-vulcan-moon-launch.html</guid>
-      <pubDate>Mon, 08 Jan 2024 06:11:56 GMT</pubDate>
+      <title>火神火箭升空，美国数十年来首次登月</title>
+      <link>https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</link>
+      <description><![CDATA[联合发射联盟火箭将是一系列新发射器中的第一个，这些发射器可能会削弱 SpaceX 对太空业务的控制。]]></description>
+      <guid>https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html</guid>
+      <pubDate>Mon, 08 Jan 2024 08:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音 Max 9 飞机被禁止在水上进行长途飞行</title>
+      <link>https://www.nytimes.com/2024/01/08/business/boeing-max-9-plane-grounded.html</link>
+      <description><![CDATA[一位官员表示，阿拉斯加航空公司限制了这架飞机的使用，该飞机于周五失去了部分机身，原因是之前航班上的警告灯熄灭了。]]></description>
+      <guid>https://www.nytimes.com/2024/01/08/business/boeing-max-9-plane-grounded.html</guid>
+      <pubDate>Mon, 08 Jan 2024 07:25:52 GMT</pubDate>
     </item>
     <item>
       <title>通过大赦法，西班牙正在做一些勇敢的事情</title>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 08 Jan 2024 05:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>以色列誓言消灭加沙哈马斯，约旦河西岸暴力事件加剧</title>
-      <link>https://www.nytimes.com/2024/01/07/world/middleeast/israel-gaza-war-.html</link>
-      <description><![CDATA[外交官周日访问中东，执行阻止战争扩大的任务，但加沙地带的紧张局势蔓延到整个地区。]]></description>
-      <guid>https://www.nytimes.com/2024/01/07/world/middleeast/israel-gaza-war-.html</guid>
-      <pubDate>Mon, 08 Jan 2024 05:25:22 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年金球奖获奖者：查看完整名单</title>
       <link>https://www.nytimes.com/2024/01/07/movies/golden-globes-winners-list.html</link>
       <description><![CDATA[2024 年金球奖获奖电影、电视剧、演员和制作团队。]]></description>
@@ -46,13 +46,6 @@
       <description><![CDATA[他们是战场上受伤士兵救治的第一线，争分夺秒地抢救生命。]]></description>
       <guid>https://www.nytimes.com/2024/01/07/world/europe/ukraine-medics-war-russia.html</guid>
       <pubDate>Mon, 08 Jan 2024 03:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>航空公司等待检查指示，波音 Max 9 喷气式飞机仍处于停飞状态</title>
-      <link>https://www.nytimes.com/2024/01/07/business/boeing-max-9-grounded.html</link>
-      <description><![CDATA[两天后，其中一架飞机的机身发生爆炸，美国联邦航空管理局 (F.A.A.)飞机制造商仍在谈判如何告诉航空公司做什么。]]></description>
-      <guid>https://www.nytimes.com/2024/01/07/business/boeing-max-9-grounded.html</guid>
-      <pubDate>Mon, 08 Jan 2024 03:26:32 GMT</pubDate>
     </item>
     <item>
       <title>阿拉斯加航空 1282 号航班上的乘客经历了可怕的几分钟</title>
@@ -83,6 +76,13 @@
       <pubDate>Sun, 07 Jan 2024 21:02:38 GMT</pubDate>
     </item>
     <item>
+      <title>纽约市长的事情变得相当奇怪</title>
+      <link>https://www.nytimes.com/2024/01/07/opinion/new-york-eric-adams.html</link>
+      <description><![CDATA[在纽约市正处于拐点之际，有关亚当斯市长领导力薄弱的对话。]]></description>
+      <guid>https://www.nytimes.com/2024/01/07/opinion/new-york-eric-adams.html</guid>
+      <pubDate>Sun, 07 Jan 2024 18:43:24 GMT</pubDate>
+    </item>
+    <item>
       <title>一个可怕的电话以及接下来发生的事情</title>
       <link>https://www.nytimes.com/2024/01/07/opinion/cancer-love-friendship.html</link>
       <description><![CDATA[癌症诊断、瑞典谚语和人际关系的祝福]]></description>
@@ -92,7 +92,7 @@
     <item>
       <title>爱荷华州初选进入最后阶段，特朗普瞄准黑莉</title>
       <link>https://www.nytimes.com/2024/01/07/us/politics/trump-haley-iowa-caucuses.html</link>
-      <description><![CDATA[距离该州党团会议还有近一周时间，疯狂的竞选活动掩盖了共和党看似一成不变的局面。竞选中，前总统唐纳德·J·特朗普(Donald J. Trump) 遥遥领先。]]></description>
+      <description><![CDATA[距离该州党团会议近一周，疯狂的竞选活动掩盖了看似静止的共和党。竞选中，前总统唐纳德·J·特朗普(Donald J. Trump) 遥遥领先。]]></description>
       <guid>https://www.nytimes.com/2024/01/07/us/politics/trump-haley-iowa-caucuses.html</guid>
       <pubDate>Sun, 07 Jan 2024 15:57:48 GMT</pubDate>
     </item>
