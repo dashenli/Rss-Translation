@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 08 Jan 2024 18:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 00:59:18 GMT</lastBuildDate>
+    <item>
+      <title>消除 RSS 中间人</title>
+      <link>https://sixcolors.com/post/2024/01/cutting-out-the-rss-middleman/</link>
+      <description><![CDATA[
+很久以前，当 Google 阅读器走上所有 Google 产品的道路 (RIP) 时，我最终转向了 Feedly，这是一种基于网络的 RSS 服务，与第三方客户端具有良好的集成性。…]]></description>
+      <guid>https://sixcolors.com/post/2024/01/cutting-out-the-rss-middleman/</guid>
+      <pubDate>Mon, 08 Jan 2024 22:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）升级 494：侵犯版权机器</title>
+      <link>https://sixcolors.com/podcast/2024/01/upgrade-494-copyright-violation-machine/</link>
+      <description><![CDATA[Jason 和 Myke 及时回来，错过了 Vision Pro 的发货新闻，但他们仍然有时间赶上他们错过的新闻并预览他们对来年的期望。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/upgrade-494-copyright-violation-machine/</guid>
+      <pubDate>Mon, 08 Jan 2024 22:13:47 GMT</pubDate>
+    </item>
     <item>
       <title>从阿拉斯加航空飞机上掉下来的 iPhone 仍然可以使用 ↦</title>
       <link>https://sixcolors.com/link/2024/01/iphone-that-fell-out-of-alaska-airlines-plane-in-flight-still-operable/</link>
@@ -89,7 +104,7 @@ Apple Watch 回来了，宝贝！与此同时，苹果仍在研究你可能听�
       <title>背面：2024年可以战斗（会员帖子）</title>
       <link>https://sixcolors.com/member/2023/12/the-back-page-2024s-all-right-for-fighting/</link>
       <description><![CDATA[
-听着，一个简单的事实是，当你成为一家像苹果这样规模的公司时，你会情不自禁地与某些其他实体发生冲突，无论他们是竞争对手、民族国家，还是偶尔出现的狂妄自大的社交媒体供应商。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+听着，一个简单的事实是，当你成为一家像苹果这样规模的公司时，你会情不自禁地与某些其他实体发生冲突，无论他们是竞争对手、民族国家，还是偶尔出现的自大狂社交媒体供应商。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2023/12/the-back-page-2024s-all-right-for-fighting/</guid>
       <pubDate>Fri, 29 Dec 2023 20:30:03 GMT</pubDate>
     </item>
@@ -109,21 +124,6 @@ Apple Watch 回来了，宝贝！与此同时，苹果仍在研究你可能听�
   然后投资者想要的是利润，而不是增长——Netflix 的修正——现在是为了赚钱。…]]></description>
       <guid>https://sixcolors.com/link/2023/12/shocked-shocked-to-find-that-amazon-is-putting-ads-in-prime-video/</guid>
       <pubDate>Fri, 29 Dec 2023 11:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 60：您首先在这里听到的</title>
-      <link>https://sixcolors.com/podcast/2023/12/downstream-60-you-heard-it-here-first/</link>
-      <description><![CDATA[派拉蒙全球的命运悬而未决，也是我们今年最喜欢的影片。 [下游+订阅者可以获得额外的半小时，包括 RSN 崩溃和潜在的流媒体解决方案，以及我们对 2024 年的预测。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2023/12/downstream-60-you-heard-it-here-first/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>年终签到：我工作的地方</title>
-      <link>https://sixcolors.com/post/2023/12/end-of-year-check-in-where-im-working/</link>
-      <description><![CDATA[看哪，B 工作室。
-人们经常对我的技术设置表示兴趣。我认为比较装备是科技迷的自然兴趣？…]]></description>
-      <guid>https://sixcolors.com/post/2023/12/end-of-year-check-in-where-im-working/</guid>
-      <pubDate>Thu, 28 Dec 2023 19:39:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

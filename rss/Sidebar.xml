@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 08 Jan 2024 21:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 01:00:46 GMT</lastBuildDate>
+    <item>
+      <title>设计任何人都可以使用的 CSV 导入器的最佳实践</title>
+      <link>https://www.oneschema.co/blog/building-a-csv-uploader?utm_source=sidebar&amp;utm_medium=placement&amp;utm_campaign=97006261</link>
+      <description><![CDATA[导入数千个 CSV 文件的经验教训以及要避免的陷阱。
+]]></description>
+      <guid>https://www.oneschema.co/blog/building-a-csv-uploader?utm_source=sidebar&amp;utm_medium=placement&amp;utm_campaign=97006261</guid>
+      <pubDate>Tue, 09 Jan 2024 00:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年是品牌重塑之年</title>
+      <link>https://www.printmag.com/branding-identity-design/2023-the-year-of-the-rebrand-why-companies-are-embracing-change/</link>
+      <description><![CDATA[传统机构、大型消费品品牌，甚至美国军方的一个部门都发布了大胆的演变声明。
+]]></description>
+      <guid>https://www.printmag.com/branding-identity-design/2023-the-year-of-the-rebrand-why-companies-are-embracing-change/</guid>
+      <pubDate>Tue, 09 Jan 2024 00:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>狂野世界</title>
+      <link>https://www.antonthomasart.com/wild-world.html</link>
+      <description><![CDATA[制图师安东·托马斯 (Anton Thomas) 绘制的世界地图重点描绘了拥有 1,600 多种动物的自然世界。
+]]></description>
+      <guid>https://www.antonthomasart.com/wild-world.html</guid>
+      <pubDate>Tue, 09 Jan 2024 00:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>SolidStart：另一种元框架</title>
+      <link>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</link>
+      <description><![CDATA[您准备好进行将框架拆开并将各个部分重新组合起来的小练习了吗？
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</guid>
+      <pubDate>Mon, 08 Jan 2024 22:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌如何完善网络</title>
+      <link>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</link>
+      <description><![CDATA[网络上充满了为 Google 而不是人类设计的内容。
+]]></description>
+      <guid>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</guid>
+      <pubDate>Mon, 08 Jan 2024 22:07:20 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年前端预测</title>
       <link>https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://sonnet.io/posts/sit/</guid>
       <pubDate>Fri, 05 Jan 2024 07:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>泄露的文件显示艺术家 Midjourney 用于训练其人工智能模型</title>
-      <link>https://hypebeast.com/2024/1/midjourney-leaked-filed-artist-ai-training</link>
-      <description><![CDATA[名字包括草间弥生、达明安·赫斯特、安迪·沃霍尔，甚至还有一个六岁的孩子。
-]]></description>
-      <guid>https://hypebeast.com/2024/1/midjourney-leaked-filed-artist-ai-training</guid>
-      <pubDate>Thu, 04 Jan 2024 08:39:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Midlibrary：Midjourney AI 样式库和指南</title>
-      <link>https://midlibrary.io/</link>
-      <description><![CDATA[网络上最先进的 Midjourney AI 样式库。
-]]></description>
-      <guid>https://midlibrary.io/</guid>
-      <pubDate>Thu, 04 Jan 2024 08:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年 JavaScript 新星</title>
-      <link>https://risingstars.js.org/2023/en</link>
-      <description><![CDATA[2023 年 JavaScript 前景的完整概述。
-]]></description>
-      <guid>https://risingstars.js.org/2023/en</guid>
-      <pubDate>Thu, 04 Jan 2024 08:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户体验独角兽的重生？</title>
-      <link>https://jakobnielsenphd.substack.com/p/ux-unicorn</link>
-      <description><![CDATA[擅长用户体验生命周期所有步骤（包括研究和设计）的用户体验专业人员被称为“用户体验独角兽”，因为他们很罕见。
-]]></description>
-      <guid>https://jakobnielsenphd.substack.com/p/ux-unicorn</guid>
-      <pubDate>Thu, 04 Jan 2024 08:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>13 岁少年成为第一个通关 NES 俄罗斯方块的人</title>
-      <link>https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</link>
-      <description><![CDATA[13 岁的 Blue Scuti 在成为第一个击败 NES 版本的人类玩家后，现已成为世界上最好的俄罗斯方块玩家
-]]></description>
-      <guid>https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</guid>
-      <pubDate>Thu, 04 Jan 2024 08:18:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
