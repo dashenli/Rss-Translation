@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Jan 2024 15:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 17:57:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了高负载和分布式 PostgreSQL 部署的需求 [...]</title>
-      <link>https://t.me/hn_summary/68044</link>
-      <description><![CDATA[如何扩展单服务器数据库：分布式 PostgreSQL 指南
-本文讨论了高负载和全球分布式应用程序中分布式 PostgreSQL 部署的需求。它解释了传统的PostgreSQL是为单服务器部署而设计的，缺乏原生的分布式数据库属性。为了实现分布式配置，本文概述了三个选项：多主异步复制、带协调器的多主分片 PostgreSQL 和多主无共享 PostgreSQL。它强调了每个选项的优点、缺点和潜在挑战。本文还提到了分布式 PostgreSQL 部署中对可扩展性、弹性和地理合规性的需求。最后讨论了扩展过程以及过渡到分布式 PostgreSQL 解决方案的注意事项。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68044</guid>
-      <pubDate>Tue, 09 Jan 2024 15:01:55 GMT</pubDate>
+      <title>[媒体]在“一位当代诗人旨在捕捉第一次世界大战的恐怖”中，作者讨论了[...]</title>
+      <link>https://t.me/hn_summary/68088</link>
+      <description><![CDATA[当代诗人旨在捕捉第一次世界大战的恐怖
+在《一位当代诗人旨在捕捉第一次世界大战的恐怖》一书中，作者讨论了伊希恩·哈钦森的诗集《指导学院》。该藏品聚焦于第一次世界大战期间士兵的生与死，使用行政数据和客观语言来传达证据的缺乏以及对这些士兵的纪念的缺乏。哈钦森的克制和对当下的关注揭示了一种层次丰富的内容，其中过去出人意料地出现。作者强调了这本书令人难忘的结论，即士兵数量的减少变得更加突出，他们的伤口、生命和死亡持续塑造着景观。哈钦森的方法让读者感受到被遗忘的死者与当下的交织。]]></description>
+      <guid>https://t.me/hn_summary/68088</guid>
+      <pubDate>Tue, 09 Jan 2024 17:57:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LaunchRender 是一款新工具，专为构建 SaaS 应用程序的企业而设计，这些应用程序 [...]</title>
-      <link>https://t.me/hn_summary/68043</link>
-      <description><![CDATA[展示 HN：用文字创建精美视频
-LaunchRender 是一款新工具，专为构建 SaaS 应用程序并希望创建带有文本的精美视频的企业而设计。虽然建议使用 Canva 进行图形设计和信息图表，但 LaunchRender 提供了针对 SaaS 应用营销需求量身定制的不同体验。 TypeFrame 是视频创建的另一种选择，但 LaunchRender 通过提供广泛的动画而脱颖而出，这些动画非常适合推广 SaaS 应用程序。借助 LaunchRender，企业可以轻松创建专业视频来有效展示其 SaaS 产品。]]></description>
-      <guid>https://t.me/hn_summary/68043</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:44 GMT</pubDate>
+      <title>MNT Reform 是一款可破解的笔记本电脑，采用开源设计和组件。</title>
+      <link>https://t.me/hn_summary/68087</link>
+      <description><![CDATA[MNT 改革：可破解的笔记本电脑，并不适合所有人 
+MNT Reform 是一款可破解的笔记本电脑，采用开源设计和组件。它具有高度可修复性和可定制性，用户可以更换单个电池并进行修改，例如添加扬声器或更换 CPU。然而，这款笔记本电脑价格昂贵，并且无意与 MacBook 或 Chromebook 等主流产品竞争。 MNT Reform 提供了改变笔记本电脑几乎每个方面的自由，从键盘到轨迹球模块，并且所有硬件都是开源的。这款笔记本电脑比现代设备更厚，但具有高品质的饰面，并且可以轻松检修所有部件。 （根据 80% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/68087</guid>
+      <pubDate>Tue, 09 Jan 2024 17:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了使用 [...] 的“bit-banging”蓝牙低功耗 (LE) 概念</title>
-      <link>https://t.me/hn_summary/68042</link>
-      <description><![CDATA[“Bit-Banging”蓝牙低功耗
-本文讨论了使用 Nordic nRF24L01+ 器件的“bit-banging”蓝牙低功耗 (LE) 概念。它解释说，蓝牙 LE 是一种低功耗技术，允许设备在长时间关闭无线电的同时保持连接。本文重点介绍了蓝牙 LE 发送未经请求的小数据块广播的能力，这使其对于键盘、鼠标和其他设备非常有用。然而，Nordic nRF24L01+ 器件存在一些限制，无法完全模拟蓝牙 LE，例如无法处理超过 32 字节的数据包。尽管存在这些限制，本文建议蓝牙 LE 仍可用于向设备广播数据。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68042</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:36 GMT</pubDate>
+      <title>[媒体]据欧洲气候机构哥白尼称，地球粉碎了全球年度热度[...]</title>
+      <link>https://t.me/hn_summary/68086</link>
+      <description><![CDATA[地球在 23 年打破了全球高温记录，正在接近变暖极限
+据欧洲气候机构哥白尼称，地球在2023年打破了全球年度高温记录，并接近巴黎气候协议规定的1.5摄氏度升温限制。哥白尼副主任 Samantha Burgess 警告称，2024 年 1 月气温有望在 12 个月内首次超过 1.5 度阈值。 2023年破纪录的高温导致了干旱、洪水和野火等极端天气事件，造成了重大损失和人员伤亡。科学家将变暖归因于大气中温室气体含量不断增加，主要来自化石燃料的燃烧。]]></description>
+      <guid>https://t.me/hn_summary/68086</guid>
+      <pubDate>Tue, 09 Jan 2024 17:47:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了一个以 Google 的 DEI（多样性、公平性和包容性 [...]</title>
-      <link>https://t.me/hn_summary/68041</link>
-      <description><![CDATA[Google DEI 领导者对家长教导孩子“不要看到颜色”感到不满&lt; /a&gt;
-文章讨论了谷歌 DEI（多元化、公平和包容性）领导者的一段视频片段，该视频片段表达了她对父母教导孩子“不要看到颜色”的失望。作者质疑觉醒运动的虚伪性，并认为问题应该在于根据外表区别对待某人，而不是教孩子们色盲。笔者认同这样的观点，即资历应该是职场的决定因素，而不是肤色。文章诚邀读者就这种教学方式是否存在种族主义发表意见。]]></description>
-      <guid>https://t.me/hn_summary/68041</guid>
-      <pubDate>Tue, 09 Jan 2024 14:47:22 GMT</pubDate>
+      <title>Transavia AirTruk 被认为是有史以来外观最奇怪的飞机之一。</title>
+      <link>https://t.me/hn_summary/68085</link>
+      <description><![CDATA[最丑的飞机：泛航 AirTruk 欣赏 
+Transavia AirTruk 被认为是有史以来外观最奇怪的飞机之一。其独特的外观源于其作为专为农作物喷粉而设计的农用飞机的使命。该飞机是在澳大利亚和新西兰构思的，以 PL-7 为设计起点。意大利飞机设计师路易吉·佩拉里尼 (Luigi Pellarini) 创造了一种实用的铺沙解决方案，其中包括大型油箱、双翼机翼和三轮起落架。最终的原型虽然在视觉上不吸引人，但表现良好。然而，由于财政困难和官僚主义拖延，该项目最终失败了。 AirTruk 的生产时间很短，现在很少见到，尽管它已经找到了作为航展表演者的新角色。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/68085</guid>
+      <pubDate>Tue, 09 Jan 2024 17:36:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AI Toolkit 是一个仅包含头文件的 C++ 库，它提供了用于构建 [...]</title>
-      <link>https://t.me/hn_summary/68040</link>
-      <description><![CDATA[AI 工具包：为游戏的 NPC 提供大脑，标题 -仅C++库
-AI Toolkit 是一个纯头文件 C++ 库，提供用于构建游戏非玩家角色 (NPC) 大脑的工具。它包括有限状态机、行为树、实用人工智能和面向目标的行动规划等功能。该项目旨在为游戏开发者提供易于使用且高效的解决方案，以便在游戏中实施人工智能。该库与 C++20 兼容，并通过在单个软件包中提供一套全面的 AI 工具而脱颖而出。自述文件还提供了代码示例和文档链接以获取更多信息。该库是根据 MIT 许可证发布的。]]></description>
-      <guid>https://t.me/hn_summary/68040</guid>
-      <pubDate>Tue, 09 Jan 2024 14:43:13 GMT</pubDate>
+      <title>[媒体] 我的飞机是 737 Max 吗？</title>
+      <link>https://t.me/hn_summary/68084</link>
+      <description><![CDATA[我的飞机是 737 Max 吗？
+“我的飞机是 737 MAX 吗？”是一个旨在帮助旅客确定其航班是否由波音 737 MAX 飞机运营的网站。通过输入航班号，用户可以找到距离该号码最近的航班，并检查该航班是否为 737 MAX。该网站承认，航班时刻表可能会发生变化，设备更换也很常见，因此仔细检查最新机型的预订非常重要。该工具为乘客提供了一种便捷的方式来随时了解他们将乘坐的飞机类型。]]></description>
+      <guid>https://t.me/hn_summary/68084</guid>
+      <pubDate>Tue, 09 Jan 2024 17:35:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果正准备允许第三方应用商店遵守欧洲反垄断法规 [...]</title>
-      <link>https://t.me/hn_summary/68039</link>
-      <description><![CDATA[苹果告诉欧盟它有五个不同的应用商店，而不仅仅是一个&lt; /a&gt;
-苹果正准备允许第三方应用商店遵守欧洲的反垄断要求，但该公司仍然反对这种合规的必要性。苹果声称应用程序商店不应被视为一个“平台”，因为它实际上为不同的设备运营着五个不同的应用程序商店。欧盟认为苹果对第三方 iPhone 应用程序销售的独家控制违反了竞争法。苹果正在提出各种论据来捍卫自己的立场，包括声称 iMessage 不应属于《数字市场法》的范围。该公司希望在其使用数量受到质疑时保护自己。]]></description>
-      <guid>https://t.me/hn_summary/68039</guid>
-      <pubDate>Tue, 09 Jan 2024 14:38:59 GMT</pubDate>
+      <title>[媒体]Discord 运营团队面临着挑战，因为他们的服务器托管着快速 [...]</title>
+      <link>https://t.me/hn_summary/68083</link>
+      <description><![CDATA[Discord 在一台服务器上为 1500 万用户提供服务
+当承载快速增长的 MidJourney 社区的服务器达到 100 万用户的限制时，Discord 运营团队面临着挑战。他们成立了一个名为 MaxJourney 的团队来寻找解决方案。该团队使用分析技术来分析性能并确定需要优化的成本高昂的操作。他们通过为用户不主动查看的行会实施“被动”连接来减少不必要的工作。他们还优化了中继以仅跟踪必要的成员，并使用工作进程来卸载缓慢的任务。通过这些优化，他们能够将公会容量扩大 15 倍，并保持 MidJourney 社区在 Discord 上的活跃度。]]></description>
+      <guid>https://t.me/hn_summary/68083</guid>
+      <pubDate>Tue, 09 Jan 2024 17:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年第四季度 DDoS 威胁报告概述了 DDoS 趋势和主要发现 [...]</title>
-      <link>https://t.me/hn_summary/68038</link>
-      <description><![CDATA[2023 年第四季度 DDoS 威胁报告
-2023 年第四季度的 DDoS 威胁报告概述了今年最后一个季度的 DDoS 趋势和主要发现。该报告强调，黑色星期五和假日季节期间，网络层 DDoS 攻击同比增长 117%，针对零售、货运和公共关系网站的 DDoS 活动有所增加。它还指出，针对台湾、以色列和巴勒斯坦网站的 DDoS 攻击流量大幅增加，这可归因于各种地缘政治事件和冲突。此外，该报告还探讨了环境问题与网络安全之间的交叉点，强调了联合国气候变化会议（COP 28）期间环境服务网站 DDoS 攻击增加的令人不安的趋势。该报告还讨论了使用 DDoS 攻击作为战争工具和破坏以色列与哈马斯战争等冲突的工具。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68038</guid>
-      <pubDate>Tue, 09 Jan 2024 14:25:47 GMT</pubDate>
+      <title>[媒体]安全公司Nozomi的研究人员在博世[...]中发现了23个漏洞</title>
+      <link>https://t.me/hn_summary/68082</link>
+      <description><![CDATA[黑客可以感染网络连接的扳手来安装勒索软件 
+安全公司 Nozomi 的研究人员在博世力士乐手持式拧紧扳手 NXA015S-36V-B 中发现了 23 个漏洞，这是一款全球工厂使用的联网扳手。这些漏洞可能允许黑客在设备上安装恶意软件，从而可能使整个车队瘫痪或导致它们错误地拧紧紧固件。 Nozomi 研究人员能够在其实验室环境中成功执行两种攻击场景：勒索软件导致设备无法操作，并在操作员不知情的情况下操纵控制和查看设置。博世力士乐已意识到这些漏洞，并正在开发补丁来解决该问题，预计将于 2024 年 1 月发布。]]></description>
+      <guid>https://t.me/hn_summary/68082</guid>
+      <pubDate>Tue, 09 Jan 2024 17:22:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了调试 GPU 着色器的挑战以及前 [...]</title>
-      <link>https://t.me/hn_summary/68037</link>
-      <description><![CDATA[HLSL 和 DX12 中的 Shader Printf
-作者讨论了调试 GPU 着色器的挑战以及 RenderDoc 和 PIX 等现有工具的局限性。他们介绍了使用 printf 在 CPU 领域进行调试和诊断的概念，并解释说目前没有跨供应商/跨 API 的方法可以对着色器执行相同的操作。然后，作者介绍了如何使用 HLSL 和 D3D12 作为目标语言和 API 在软件中构建着色器 printf。他们解释了总体方法、设置打印缓冲区和“神奇”调试信息缓冲区。本文提供了每个步骤的代码片段和解释。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68037</guid>
-      <pubDate>Tue, 09 Jan 2024 14:23:36 GMT</pubDate>
+      <title>[媒体]几位著名记者和影响者，包括 Ken Klippenstein 和 Steven M [...]</title>
+      <link>https://t.me/hn_summary/68081</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 X 暂停了著名记者和影响者的身份
+包括肯·克里彭斯坦 (Ken Klippenstein) 和史蒂文·莫纳切利 (Steven Monacelli) 在内的几位著名记者和影响者在埃隆·马斯克 (Elon Musk) 的 X 平台上的账户因涉嫌违反该平台规则而被暂停。暂停没有附带任何解释，受影响的用户是由联系过他们的其他记者告知的。 X 的这一举动引发了有关审查制度的质疑，因为马斯克此前曾批评过此类行为。目前尚不清楚记者的账户违反了哪一条具体规则，X 也没有对此事发表评论。除了记者之外，一些有影响力的人也报告了被停职的情况，一位用户推测他们对以色列和比尔·阿克曼的批评帖子可能是原因。莫纳切利最近发表了一篇嘲笑阿克曼的病毒帖子，他还指出，德克萨斯州有一项法律，禁止社交媒体公司基于政治观点禁止用户。]]></description>
+      <guid>https://t.me/hn_summary/68081</guid>
+      <pubDate>Tue, 09 Jan 2024 17:13:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。</title>
-      <link>https://t.me/hn_summary/68036</link>
-      <description><![CDATA[Nebula 是一个开源且免费使用的现代 C++游戏引擎
-Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。它旨在提供从下到上的数据驱动设计，重点关注性能和最小的调用堆栈。该引擎支持多线程、SSE 加速数学库、完整的 Python 脚本支持、高级渲染框架和分析工具。它还包括统一集群系统、屏幕空间反射、基于物理的材质、阴影贴图、体积雾和照明等功能。 Nebula 的差异化因素之一是其实体系统，它采用 ECS 方法，同时仍然保持以数据库为中心的方法。该项目正在不断开发，并定期添加新功能。]]></description>
-      <guid>https://t.me/hn_summary/68036</guid>
-      <pubDate>Tue, 09 Jan 2024 14:08:20 GMT</pubDate>
+      <title>[媒体] 在 X（以前称为 Twitter）上最新的封禁热潮中，几个知名账户 [...]</title>
+      <link>https://t.me/hn_summary/68080</link>
+      <description><![CDATA[在最新的禁令狂欢中，记者、播客被从 X 中驱逐 
+在 X（以前称为 Twitter）上最新的封禁热潮中，属于记者、作家和播客的几个知名帐户已被清除，但没有明确的解释。其中许多账户最近批评了以色列政府，导致人们猜测这可能是它们被删除的原因。被禁止的帐户包括 Ken Klippenstein、Rob Rousseau、Steven Monacelli 和 TrueAnon 播客。埃隆·马斯克因支持种族主义阴谋论而面临强烈反对，他一直试图通过谴责反犹太主义和庆祝以色列军队来恢复自己的形象。不过，他没有对大多数账户被暂停的情况发表评论。马斯克有压制批评者和审查他不同意的观点的历史。这些账户被封禁的原因尚不清楚，X 尚未立即对此事发表评论。]]></description>
+      <guid>https://t.me/hn_summary/68080</guid>
+      <pubDate>Tue, 09 Jan 2024 17:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>Opinium 代表 Uswitch 进行的一项最新研究发现，270 万人 [...]</title>
-      <link>https://t.me/hn_summary/68035</link>
-      <description><![CDATA[270 万英国人仍然使用 3G 手机作为 3G 交换机离我们越来越近了
-Opinium 最近代表 Uswitch 进行的一项研究发现，英国有 270 万人（约占手机用户的 5%）仍在使用不具备 4G 或 5G 功能的纯 3G 手机。尽管 3G 关闭仍在进行中，预计将于 2024/2025 年完成。研究还显示，21% 的 3G 手机用户不愿意升级，将继续在没有互联网连接的情况下使用手机。然而，由于 2G 到 2033 年才会完全关闭，因此通话和短信仍然可以使用。结果令人担忧，因为越来越多的人依赖移动数据作为主要的互联网连接，并且人们担心年老的亲戚可能会没有移动电话电话访问。此外，13% 的人不知道他们的手机支持 4G 还是 5G，这可能会增加仅使用 3G 手机的人数。令人惊讶的是，43% 的公众并不知道 3G 正在关闭。 EE、Three、Vodafone 和 O2 等英国主要网络预计将在 2024 年底前完成关闭。]]></description>
-      <guid>https://t.me/hn_summary/68035</guid>
-      <pubDate>Tue, 09 Jan 2024 14:06:11 GMT</pubDate>
+      <title>[媒体] Roboflow 是一家致力于将任何可见的东西转化为软件的公司，[...]</title>
+      <link>https://t.me/hn_summary/68079</link>
+      <description><![CDATA[Roboflow (YC S20) 正在招聘一名专注于其开源的工程师项目
+Roboflow 是一家致力于将任何可见的东西转化为软件的公司，该公司正在招聘一名工程师来专注于他们的开源项目。超过 250,000 名开发人员在使用他们的工具并获得领先投资者的支持，Roboflow 已成为组织（包括超过一半的财富 100 强企业）使用其工具进行构建的热门选择。该公司的成功和广泛采用凸显了其开源项目的价值和潜力。]]></description>
+      <guid>https://t.me/hn_summary/68079</guid>
+      <pubDate>Tue, 09 Jan 2024 17:02:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
