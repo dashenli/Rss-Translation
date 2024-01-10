@@ -4,7 +4,21 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Wed, 10 Jan 2024 09:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 12:24:09 GMT</lastBuildDate>
+    <item>
+      <title>开发者称微软将发布 Xbox 固件更新以修复《博德之门 3》保存错误</title>
+      <link>https://www.ign.com/articles/microsoft-issuing-xbox-firmware-update-to-fix-baldurs-gate-3-save-bug-dev-says</link>
+      <description><![CDATA[《博德之门 3》开发商 Larian 表示，微软计划发布固件更新，以修复困扰该游戏在 Xbox 上发布的讨厌的保存错误。]]></description>
+      <guid>https://www.ign.com/articles/microsoft-issuing-xbox-firmware-update-to-fix-baldurs-gate-3-save-bug-dev-says</guid>
+      <pubDate>Wed, 10 Jan 2024 11:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>新《Apex 英雄》和《最终幻想》联动活动以 290 美元的微交易让粉丝们惊叹不已</title>
+      <link>https://www.ign.com/articles/apex-legends-final-fantasy-7-rebirth-crossover-cosmetic</link>
+      <description><![CDATA[《Apex Legends》最近与《Final Fantasy Square Enix》展开了新的合作，粉丝们惊讶地发现，一些最好的物品需要花费 290 美元才能获得，而免费获得它们的机会不到 1%。]]></description>
+      <guid>https://www.ign.com/articles/apex-legends-final-fantasy-7-rebirth-crossover-cosmetic</guid>
+      <pubDate>Wed, 10 Jan 2024 10:52:20 GMT</pubDate>
+    </item>
     <item>
       <title>目标视频游戏优惠：《阿凡达》、《星球大战》等游戏优惠</title>
       <link>https://www.ign.com/articles/target-video-game-deals-save-on-avatar-star-wars-and-more</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[这些是目前最优惠的 Xbox 优惠，包括主机捆绑包、SSD 存储等的折扣。]]></description>
       <guid>https://www.ign.com/articles/best-xbox-deals</guid>
       <pubDate>Tue, 09 Jan 2024 15:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《暗黑破坏神 4》新年销量降至 44.99 美元</title>
-      <link>https://www.ign.com/articles/diablo-4-best-deal-2024-new-ps5-xbox</link>
-      <description><![CDATA[《暗黑破坏神 4》的新年销售额已降至 44.99 美元，这比我们去年黑色星期五的销售额要好。]]></description>
-      <guid>https://www.ign.com/articles/diablo-4-best-deal-2024-new-ps5-xbox</guid>
-      <pubDate>Tue, 09 Jan 2024 15:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation 最佳优惠：PS5 主机捆绑包、游戏等优惠</title>
-      <link>https://www.ign.com/articles/best-playstation-ps5-deals</link>
-      <description><![CDATA[以下是您现在可以找到的所有绝对最佳的 PS5 和 PS4 视频游戏优惠。]]></description>
-      <guid>https://www.ign.com/articles/best-playstation-ps5-deals</guid>
-      <pubDate>Tue, 09 Jan 2024 15:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

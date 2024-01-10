@@ -4,7 +4,28 @@
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
     <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Wed, 10 Jan 2024 09:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 12:25:54 GMT</lastBuildDate>
+    <item>
+      <title>“我拥抱某种不完美”：陈先容的琉璃瓦让我们看到陶瓷的无限可能</title>
+      <link>https://www.itsnicethat.com/articles/chen-hsian-jung-tile-project-art-project-100124</link>
+      <description><![CDATA[这位台北陶瓷艺术家在她引人入胜的瓷砖项目中质疑并提升了工艺的价值。]]></description>
+      <guid>https://www.itsnicethat.com/articles/chen-hsian-jung-tile-project-art-project-100124</guid>
+      <pubDate>Wed, 10 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>几何、抽象、组合：德斯蒙德·帕尔默 (Desmond Palmer) 的图形艺术作品内部</title>
+      <link>https://www.itsnicethat.com/articles/desmond-palmer-graphic-design-art-project-100124</link>
+      <description><![CDATA[这位来自俄亥俄州的平面艺术家的作品都是关于和谐的——色彩的和谐、布局的和谐以及我们内心的和谐。]]></description>
+      <guid>https://www.itsnicethat.com/articles/desmond-palmer-graphic-design-art-project-100124</guid>
+      <pubDate>Wed, 10 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>踏入 Sam Wood 的糖果色塑料混乱世界</title>
+      <link>https://www.itsnicethat.com/articles/sam-wood-digital-illustration-animation-100124</link>
+      <description><![CDATA[这位来自伦敦的 3D 插画师和动画师解构身体部位并将空间拟人化，挑战观众的认知。]]></description>
+      <guid>https://www.itsnicethat.com/articles/sam-wood-digital-illustration-animation-100124</guid>
+      <pubDate>Wed, 10 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>金·伽里格 (Kim Gehrig) 凭借有关无障碍的欢乐苹果广告荣获艾美奖</title>
       <link>https://www.itsnicethat.com/news/kim-gehrig-apple-the-greatest-emmy-advertising-090124</link>
@@ -43,7 +64,7 @@
     <item>
       <title>蒂姆·拉汉 (Tim Lahan) 的像素作品是用颜料、粉彩和对技术的不信任制成的</title>
       <link>https://www.itsnicethat.com/articles/tim-lahan-art-project-080124</link>
-      <description><![CDATA[这位伦敦艺术家将柔和的图像与粗糙的线条和边缘结合起来，质疑科技的冷酷和计算本质。]]></description>
+      <description><![CDATA[这位来自旧金山的艺术家将柔和的图像与粗糙的线条和边缘结合起来，质疑科技的冷酷和计算本质。]]></description>
       <guid>https://www.itsnicethat.com/articles/tim-lahan-art-project-080124</guid>
       <pubDate>Mon, 08 Jan 2024 12:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[2024 年将一如既往地具有影响力和实验性。为了迎接新的一年，我们展望了未来 12 个月的趋势、主题和见解。]]></description>
       <guid>https://www.itsnicethat.com/features/forward-thinking-introduction-080124</guid>
       <pubDate>Mon, 08 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宫崎骏、马特·格罗宁和基思·哈林等艺术家据称被用来训练 Midjourney AI</title>
-      <link>https://www.itsnicethat.com/news/midjourney-artist-database-creative-industry-050124</link>
-      <description><![CDATA[据称，Midjourney 开发人员已编制了一个列出了数千名艺术家姓名的数据库，用于训练文本到图像工具。]]></description>
-      <guid>https://www.itsnicethat.com/news/midjourney-artist-database-creative-industry-050124</guid>
-      <pubDate>Fri, 05 Jan 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看 30 位艺术家如何向“真正的罗纳尔多”R9 致敬</title>
-      <link>https://www.itsnicethat.com/news/a-store-like-94-the-real-ronaldo-illustration-040124</link>
-      <description><![CDATA[为了庆祝罗纳尔多·纳扎里奥 (Ronaldo Nazário) 进入足球界 30 周年，A Store Like 94 推出了一个充满罗纳尔多主题艺术品的虚拟展览和礼品店。]]></description>
-      <guid>https://www.itsnicethat.com/news/a-store-like-94-the-real-ronaldo-illustration-040124</guid>
-      <pubDate>Thu, 04 Jan 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Herman Miller 与 Helvetica 的历史在现代主义品牌重塑中重新浮现</title>
-      <link>https://www.itsnicethat.com/news/order-design-herman-miller-graphic-design-040124</link>
-      <description><![CDATA[Order Design 带来的变化之一是新的文字标记；欧文·哈珀 (Irving Harper) 设计的神圣“M”标志仍然是“禁区”。]]></description>
-      <guid>https://www.itsnicethat.com/news/order-design-herman-miller-graphic-design-040124</guid>
-      <pubDate>Thu, 04 Jan 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
