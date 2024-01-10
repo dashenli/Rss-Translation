@@ -4,7 +4,15 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 01:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 03:16:24 GMT</lastBuildDate>
+    <item>
+      <title>让独立网络变得更容易</title>
+      <link>https://gilest.org/indie-easy.html</link>
+      <description><![CDATA[我们需要的不仅仅是 WordPress。
+]]></description>
+      <guid>https://gilest.org/indie-easy.html</guid>
+      <pubDate>Wed, 10 Jan 2024 02:17:31 GMT</pubDate>
+    </item>
     <item>
       <title>设计任何人都可以使用的 CSV 导入器的最佳实践</title>
       <link>https://www.oneschema.co/blog/building-a-csv-uploader?utm_source=sidebar&amp;utm_medium=placement&amp;utm_campaign=97006261</link>
@@ -12,6 +20,22 @@
 ]]></description>
       <guid>https://www.oneschema.co/blog/building-a-csv-uploader?utm_source=sidebar&amp;utm_medium=placement&amp;utm_campaign=97006261</guid>
       <pubDate>Tue, 09 Jan 2024 00:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>SolidStart：另一种元框架</title>
+      <link>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</link>
+      <description><![CDATA[您准备好进行将框架拆开并将各个部分重新组合起来的小练习了吗？
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</guid>
+      <pubDate>Tue, 09 Jan 2024 00:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌如何完善网络</title>
+      <link>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</link>
+      <description><![CDATA[网络上充满了为 Google 而不是人类设计的内容。
+]]></description>
+      <guid>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</guid>
+      <pubDate>Tue, 09 Jan 2024 00:07:20 GMT</pubDate>
     </item>
     <item>
       <title>2023 年是品牌重塑之年</title>
@@ -28,22 +52,6 @@
 ]]></description>
       <guid>https://www.antonthomasart.com/wild-world.html</guid>
       <pubDate>Tue, 09 Jan 2024 00:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>SolidStart：另一种元框架</title>
-      <link>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</link>
-      <description><![CDATA[您准备好进行将框架拆开并将各个部分重新组合起来的小练习了吗？
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/</guid>
-      <pubDate>Mon, 08 Jan 2024 22:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌如何完善网络</title>
-      <link>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</link>
-      <description><![CDATA[网络上充满了为 Google 而不是人类设计的内容。
-]]></description>
-      <guid>https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization</guid>
-      <pubDate>Mon, 08 Jan 2024 22:07:20 GMT</pubDate>
     </item>
     <item>
       <title>2024 年前端预测</title>
@@ -116,14 +124,6 @@
 ]]></description>
       <guid>https://frontendmasters.com/blog/container-queries-and-units/</guid>
       <pubDate>Fri, 05 Jan 2024 07:47:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>坐</title>
-      <link>https://sonnet.io/posts/sit/</link>
-      <description><![CDATA[在本文中，我将使用 Sit。作为谈论一些更广泛的想法的借口
-]]></description>
-      <guid>https://sonnet.io/posts/sit/</guid>
-      <pubDate>Fri, 05 Jan 2024 07:45:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
