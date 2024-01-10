@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 09 Jan 2024 12:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 15:16:14 GMT</lastBuildDate>
+    <item>
+      <title>使用 SVG 剪辑路径的实验性滚动文本动画</title>
+      <link>https://tympanus.net/codrops/2024/01/10/experimental-on-scroll-text-animations-with-svg-clip-path/</link>
+      <description><![CDATA[使用 SVG 剪辑路径进行一些滚动版式效果的实验。]]></description>
+      <guid>https://tympanus.net/codrops/2024/01/10/experimental-on-scroll-text-animations-with-svg-clip-path/</guid>
+      <pubDate>Wed, 10 Jan 2024 11:18:23 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 10 个最佳 WordPress 主题</title>
       <link>https://tympanus.net/codrops/2024/01/09/best-wordpress-themes-2024/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 29 Dec 2023 16:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#54</title>
+      <title>励志网站综述 #54</title>
       <link>https://tympanus.net/codrops/2023/12/29/inspirational-websites-roundup-54/</link>
       <description><![CDATA[从我们在 2023 年最后几周收集的最新网站设计中获取灵感。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/29/inspirational-websites-roundup-54/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Gaussian-SLAM * BrandGuide * HTML：不好的部分]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-801/</guid>
       <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 21 天</title>
-      <link>https://tympanus.net/codrops/2023/12/21/frontend-rewind-2023-day-21/</link>
-      <description><![CDATA[“Frontend Rewind 2023”第 21 天正在等待！探索新的一天，重温 2023 年的杰出亮点。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/21/frontend-rewind-2023-day-21/</guid>
-      <pubDate>Thu, 21 Dec 2023 12:48:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

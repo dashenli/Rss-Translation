@@ -4,7 +4,39 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 12:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 15:16:53 GMT</lastBuildDate>
+    <item>
+      <title>AI Vertigo：作为设计师，我们下一步该何去何从？</title>
+      <link>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</link>
+      <description><![CDATA[新生成技术的出现正在“促使”产品设计社区重新评估他们的角色。
+]]></description>
+      <guid>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</guid>
+      <pubDate>Wed, 10 Jan 2024 12:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年我将如何编写 CSS</title>
+      <link>https://leerob.io/blog/css</link>
+      <description><![CDATA[有关 CSS 生态系统和工具状态的说明。
+]]></description>
+      <guid>https://leerob.io/blog/css</guid>
+      <pubDate>Wed, 10 Jan 2024 12:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>推测性日历事件</title>
+      <link>https://maggieappleton.com/speculative-events</link>
+      <description><![CDATA[设计暂定日历事件来解决复杂的日程安排问题。
+]]></description>
+      <guid>https://maggieappleton.com/speculative-events</guid>
+      <pubDate>Wed, 10 Jan 2024 12:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球设计系统</title>
+      <link>https://bradfrost.com/blog/post/a-global-design-system/</link>
+      <description><![CDATA[这是一项行动号召，旨在创建一个全球设计系统，为世界各地的网页设计师和设计师提供服务。开发者通用 UI 组件库。
+]]></description>
+      <guid>https://bradfrost.com/blog/post/a-global-design-system/</guid>
+      <pubDate>Wed, 10 Jan 2024 11:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>让独立网络变得更容易</title>
       <link>https://gilest.org/indie-easy.html</link>
@@ -92,38 +124,6 @@
 ]]></description>
       <guid>https://www.proofofconcept.pub/p/the-legacy-of-invision-app</guid>
       <pubDate>Mon, 08 Jan 2024 11:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>命名设计标记：清晰和一致性的艺术</title>
-      <link>https://uxdesign.cc/naming-design-tokens-347f630ba4f9</link>
-      <description><![CDATA[为您的设计令牌选择正确的名称对于可维护性、清晰度和效率至关重要，就像在编程中命名变量一样。
-]]></description>
-      <guid>https://uxdesign.cc/naming-design-tokens-347f630ba4f9</guid>
-      <pubDate>Fri, 05 Jan 2024 07:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计 Zenly：第二部分</title>
-      <link>https://uxdesign.cc/designing-zenly-part-ii-3e525eb10ef0</link>
-      <description><![CDATA[在 Zenly，我们有点热衷于把事情做得恰到好处。
-]]></description>
-      <guid>https://uxdesign.cc/designing-zenly-part-ii-3e525eb10ef0</guid>
-      <pubDate>Fri, 05 Jan 2024 07:52:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>InVision 设计协作服务关闭</title>
-      <link>https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/</link>
-      <description><![CDATA[我们做出了停止 InVision 设计协作服务的艰难决定。
-]]></description>
-      <guid>https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/</guid>
-      <pubDate>Fri, 05 Jan 2024 07:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>容器查询和单位</title>
-      <link>https://frontendmasters.com/blog/container-queries-and-units/</link>
-      <description><![CDATA[容器查询与媒体查询类似，但允许您根据特定元素的当前大小（通常是宽度）设置样式。
-]]></description>
-      <guid>https://frontendmasters.com/blog/container-queries-and-units/</guid>
-      <pubDate>Fri, 05 Jan 2024 07:47:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
