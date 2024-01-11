@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Thu, 11 Jan 2024 18:19:12 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Thu, 11 Jan 2024 21:14:08 GMT</lastBuildDate>
+    <item>
+      <title>AI 和一根树枝：这是 Art Vinyl 2023 年最佳专辑封面</title>
+      <link>https://www.itsnicethat.com/news/best-art-vinyl-award-2023-creative-industry-110124</link>
+      <description><![CDATA[计票结束后，最佳艺术黑胶奖得主授予 PJ Harvey 的设计师兼艺术家 Michelle Henning。]]></description>
+      <guid>https://www.itsnicethat.com/news/best-art-vinyl-award-2023-creative-industry-110124</guid>
+      <pubDate>Thu, 11 Jan 2024 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ASA 禁止癌症宣传活动中出现“性”图像和带星号的“操”</title>
       <link>https://www.itsnicethat.com/news/asa-bans-bbh-girlvscancer-ad-creative-industry-110124</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 11 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>埃迪·梅德利（Edie Medley）关于尝试治疗尿路感染的漫画令人痛苦不已</title>
+      <title>伊迪·梅德利（Edie Medley）关于尝试治疗尿路感染的漫画令人痛苦不已</title>
       <link>https://www.itsnicethat.com/articles/edie-medley-it-burns-illustration-publication-110124</link>
       <description><![CDATA[这位伦敦插画家旨在提高人们对女性健康问题经常被忽视和虐待的认识。]]></description>
       <guid>https://www.itsnicethat.com/articles/edie-medley-it-burns-illustration-publication-110124</guid>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 11 Jan 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>对 U2 球迷来说坏消息：伦敦终究不会得到 Sphere</title>
+      <title>对于 U2 球迷来说坏消息：伦敦终究不会得到 Sphere</title>
       <link>https://www.itsnicethat.com/news/msg-withdraws-plans-london-sphere-creative-industry-100124</link>
       <description><![CDATA[美国开发商表示，将继续与“认真”对待 Sphere 的“有远见的城市”合作，并正式撤回其计划。]]></description>
       <guid>https://www.itsnicethat.com/news/msg-withdraws-plans-london-sphere-creative-industry-100124</guid>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 08 Jan 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>长坂文长达七年的阿拉巴马摄影之旅取得了令人着迷的成果</title>
+      <title>长坂富美阿拉巴马州七年摄影之旅取得了令人着迷的成果</title>
       <link>https://www.itsnicethat.com/articles/fumi-nagasaka-dora-yerkwood-walker-county-alabama-photography-project-080124</link>
       <description><![CDATA[该项目名为多拉，亚拉巴马州沃克县耶克伍德，深入研究了美国南部一个小镇的内部结构，从教堂礼拜到啦啦队活动。]]></description>
       <guid>https://www.itsnicethat.com/articles/fumi-nagasaka-dora-yerkwood-walker-county-alabama-photography-project-080124</guid>
@@ -101,13 +108,6 @@
       <link>https://www.itsnicethat.com/features/forward-thinking-rise-of-analogue-080124</link>
       <description><![CDATA[从潦草的手绘字体到人气飙升的木偶戏，模拟技术强势回归。不同学科的设计师纷纷采用手工美学的原因有很多。]]></description>
       <guid>https://www.itsnicethat.com/features/forward-thinking-rise-of-analogue-080124</guid>
-      <pubDate>Mon, 08 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>创意生存指南：正确开始新一年的五种方法</title>
-      <link>https://www.itsnicethat.com/features/forward-thinking-creative-survival-guide-080124</link>
-      <description><![CDATA[当您感到陷入困境、缺乏灵感或正在寻求彻底改革您的创作过程时，我们会探索独特的方法来重新回到您的实践中。]]></description>
-      <guid>https://www.itsnicethat.com/features/forward-thinking-creative-survival-guide-080124</guid>
       <pubDate>Mon, 08 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
