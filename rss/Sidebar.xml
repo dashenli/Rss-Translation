@@ -4,11 +4,51 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 11 Jan 2024 09:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 12:27:23 GMT</lastBuildDate>
+    <item>
+      <title>设计更好的目标尺寸</title>
+      <link>https://ishadeed.com/article/target-size</link>
+      <description><![CDATA[有关在网络上设计更好的目标尺寸的交互式指南。
+]]></description>
+      <guid>https://ishadeed.com/article/target-size</guid>
+      <pubDate>Thu, 11 Jan 2024 07:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓦库拉收据地图</title>
+      <link>https://aaronkoelker.com/wakulla-receipt-map/</link>
+      <description><![CDATA[专门为收据打印机设计的 6 英尺长的带状河流地图。
+]]></description>
+      <guid>https://aaronkoelker.com/wakulla-receipt-map/</guid>
+      <pubDate>Thu, 11 Jan 2024 07:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>模糊半径比较</title>
+      <link>https://bjango.com/articles/blurradiuscomparison/</link>
+      <description><![CDATA[网络和设计工具中最常见的模糊类型是高斯模糊。
+]]></description>
+      <guid>https://bjango.com/articles/blurradiuscomparison/</guid>
+      <pubDate>Thu, 11 Jan 2024 07:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rabbit R1 是一款人工智能驱动的小工具，可以为您使用您的应用程序</title>
+      <link>https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date</link>
+      <description><![CDATA[Rabbit 正在尝试将 Alexa 和 Google Assistant 结合起来，并在此过程中发明一种新型小工具。
+]]></description>
+      <guid>https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date</guid>
+      <pubDate>Thu, 11 Jan 2024 07:53:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们应该运送什么？</title>
+      <link>https://rauno.me/craft/vercel</link>
+      <description><![CDATA[10 月份，我们与 Glenn、Henry 和 Alasdair 一起为 Vercel 发布了新主页。
+]]></description>
+      <guid>https://rauno.me/craft/vercel</guid>
+      <pubDate>Thu, 11 Jan 2024 07:47:20 GMT</pubDate>
+    </item>
     <item>
       <title>AI Vertigo：作为设计师，我们下一步该何去何从？</title>
       <link>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</link>
-      <description><![CDATA[新生成技术的出现正在“促使”产品设计社区重新评估自己的角色。
+      <description><![CDATA[新生成技术的出现正在“促使”产品设计社区重新评估他们的角色。
 ]]></description>
       <guid>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</guid>
       <pubDate>Wed, 10 Jan 2024 12:03:24 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.antonthomasart.com/wild-world.html</guid>
       <pubDate>Tue, 09 Jan 2024 00:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年前端预测</title>
-      <link>https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/</link>
-      <description><![CDATA[对于前端来说，这是非凡的一年。 
-]]></description>
-      <guid>https://buttondown.email/whatever_jamie/archive/frontend-predictions-for-2024/</guid>
-      <pubDate>Mon, 08 Jan 2024 11:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>神奇宝贝和日本工艺传统在一场精彩的展览中相结合</title>
-      <link>https://www.thisiscolossal.com/2024/01/pokemon-kogei/</link>
-      <description><![CDATA[日本的两项主要文化贡献在 POKÉMON X KOGEI 中得到了体现。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/01/pokemon-kogei/</guid>
-      <pubDate>Mon, 08 Jan 2024 11:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>两人反应</title>
-      <link>https://overreacted.io/the-two-reacts/</link>
-      <description><![CDATA[无论我要显示网页、交互式网络应用程序，甚至是本机应用程序，都必须至少涉及两个设备。
-]]></description>
-      <guid>https://overreacted.io/the-two-reacts/</guid>
-      <pubDate>Mon, 08 Jan 2024 11:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年我们对人工智能的了解</title>
-      <link>https://simonwillison.net/2023/Dec/31/ai-in-2023/</link>
-      <description><![CDATA[2023 年是大型语言模型 (LLM) 取得突破的一年。
-]]></description>
-      <guid>https://simonwillison.net/2023/Dec/31/ai-in-2023/</guid>
-      <pubDate>Mon, 08 Jan 2024 11:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>InVision 应用程序的遗产</title>
-      <link>https://www.proofofconcept.pub/p/the-legacy-of-invision-app</link>
-      <description><![CDATA[标志着一个时代的结束。
-]]></description>
-      <guid>https://www.proofofconcept.pub/p/the-legacy-of-invision-app</guid>
-      <pubDate>Mon, 08 Jan 2024 11:40:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

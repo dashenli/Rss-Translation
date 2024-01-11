@@ -4,7 +4,28 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 11 Jan 2024 09:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 12:24:37 GMT</lastBuildDate>
+    <item>
+      <title>美国学校枪击案应急计划因高度敏感数据库泄露而曝光</title>
+      <link>https://www.wired.com/story/us-school-shooter-emergency-plans-leak/</link>
+      <description><![CDATA[超过 400 万份学校记录，包括安全程序、学生医疗档​​案和法庭文件，也可以在线公开访问。]]></description>
+      <guid>https://www.wired.com/story/us-school-shooter-emergency-plans-leak/</guid>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CES 2024：电视变得更大、更亮、更透明</title>
+      <link>https://www.wired.com/story/ces-tvs-bigger-brighter-transparent/</link>
+      <description><![CDATA[超亮 100 英寸面板风靡一时，全透明屏幕也令与会者惊叹不已。以下是今年进入您客厅的所有电视技术。]]></description>
+      <guid>https://www.wired.com/story/ces-tvs-bigger-brighter-transparent/</guid>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫刚刚宣布拨款 6.23 亿美元的电动汽车充电热潮</title>
+      <link>https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/</link>
+      <description><![CDATA[在美国许多地区，电动汽车充电站仍然稀缺。白宫宣布拨款总计 6.23 亿美元，用于为电动汽车、自行车和踏板车充电。]]></description>
+      <guid>https://www.wired.com/story/white-house-623-million-ev-charging-bonanza/</guid>
+      <pubDate>Thu, 11 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>国会希望科技公司为人工智能训练数据付费</title>
       <link>https://www.wired.com/story/congress-senate-tech-companies-pay-ai-training-data/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>OpenAI 的新应用程序商店可以将 ChatGPT 变成一切应用程序</title>
       <link>https://www.wired.com/story/openais-app-store-chatgpt-everything-app/</link>
-      <description><![CDATA[ChatGPT 创建者的新应用商店邀请公司构建自定义“GPT”，为聊天机器人添加功能。 OpenAI 并未说明应用程序开发者将如何获得报酬。]]></description>
+      <description><![CDATA[ChatGPT 创建者的新应用商店邀请公司构建自定义“GPT”，为聊天机器人添加功能。 OpenAI 没有说明应用程序开发者将如何获得报酬。]]></description>
       <guid>https://www.wired.com/story/openais-app-store-chatgpt-everything-app/</guid>
       <pubDate>Wed, 10 Jan 2024 17:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[对人工智能伟大成就的乐观预测将因平庸的表现和危险的结果而被抛在一边。]]></description>
       <guid>https://www.wired.com/story/get-ready-for-the-great-ai-disappointment/</guid>
       <pubDate>Wed, 10 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>海洋的奥秘和奇迹即将达到新的深度</title>
-      <link>https://www.wired.com/story/the-oceans-mysteries-and-marvels-are-about-to-reach-new-depths/</link>
-      <description><![CDATA[科学的进步将为海洋的复杂性带来前所未有的视角，并重新呼吁人类保护海洋。]]></description>
-      <guid>https://www.wired.com/story/the-oceans-mysteries-and-marvels-are-about-to-reach-new-depths/</guid>
-      <pubDate>Wed, 10 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>诈骗人工智能生成的书籍充斥亚马逊</title>
-      <link>https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/</link>
-      <description><![CDATA[作者们不断在亚马逊上找到看似由人工智能生成的对其书籍的模仿和摘要。他们几乎无法遏制诈骗行为。]]></description>
-      <guid>https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/</guid>
-      <pubDate>Wed, 10 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国证券交易委员会的官方 X 账户被“泄露”并被用来发布虚假比特币新闻</title>
-      <link>https://www.wired.com/story/sec-x-account-compromise/</link>
-      <description><![CDATA[美国金融监管机构表示，其官方 @SECGov 账户“遭到泄露”，导致发布了有关比特币 ETF 状态的“未经授权”的帖子。]]></description>
-      <guid>https://www.wired.com/story/sec-x-account-compromise/</guid>
-      <pubDate>Tue, 09 Jan 2024 22:05:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
