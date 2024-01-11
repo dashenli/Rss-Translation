@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 11 Jan 2024 00:59:43 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Thu, 11 Jan 2024 03:15:55 GMT</lastBuildDate>
+    <item>
+      <title>荷兰初创公司利用数字孪生解决能源网络拥堵问题</title>
+      <link>https://thenextweb.com/news/dutch-startup-energy-grid-congestion-digital-twins</link>
+      <description><![CDATA[欧洲确实令人兴奋。从电动汽车到热泵，我们越来越多的关键技术需要接入。这是迈向净零排放的积极一步，但它也给电网带来了巨大的压力。电网拥堵就像繁忙高速公路上高峰时段的交通一样，对电力的过度需求会造成瓶颈并减慢能源流动。这可能会导致停电、电压波动和设备损坏。这是一个大问题，一些想要为电动汽车安装大型热泵或快速充电基础设施的公司被迫等待…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/dutch-startup-energy-grid-congestion-digital-twins</guid>
+      <pubDate>Thu, 11 Jan 2024 02:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟与英国一起审查 OpenAI 与微软的关系</title>
       <link>https://thenextweb.com/news/eu-antitrust-investigation-openai-microsoft-merger</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[几个世纪以来用于提取化石燃料的隧道现在正在帮助英国家庭供暖来自地球核心的清洁能源。它被称为矿井水加热，有潜力为该国北部数十万户家庭提供关键的温暖。至少四分之一的英国房屋坐落在废弃煤矿上方。这些城镇的居民同时面临着飞涨的能源费用。从他们脚下开采矿井水热对于这些社区来说可能是双赢的。该技术已经投入运行。去年，最大的之一…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/geothermal-energy-coal-mines-heat-uk-homes</guid>
       <pubDate>Mon, 08 Jan 2024 15:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年，荷兰初创企业将在荷兰创造 15.1 万个就业岗位</title>
-      <link>https://thenextweb.com/news/dutch-startups-151k-jobs-netherlands-2023</link>
-      <description><![CDATA[荷兰是欧洲最大的科技生态系统之一，不仅推动创新，而且促进就业以及。根据 Dealroom 的一份报告，2023 年，荷兰初创企业在全球创造了 256,000 个就业岗位，其中 151,000 个就业岗位分布在该国 50 多个城市。年龄和规模很重要 去年，2011 年至 2017 年期间成立的初创公司首次提供与 2005 年之前成立的公司一样多的就业机会，其中包括 Booking 和 TomTom 等早期取得巨大成功的公司。与此同时，最年轻的企业集团（自 2018 年以来成立的企业）提供了 23,600 个就业岗位，同比增速最快。从规模来看，…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/dutch-startups-151k-jobs-netherlands-2023</guid>
-      <pubDate>Mon, 08 Jan 2024 14:56:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
