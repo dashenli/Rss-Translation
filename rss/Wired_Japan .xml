@@ -4,9 +4,16 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 11 Jan 2024 03:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 06:19:04 GMT</lastBuildDate>
     <item>
-      <title>信息技术加速向清洁出行的转变——专题“2024年的世界”</title>
+      <title>科技例外主义结束，监管机构控制科技——专题“2024 年的世界”</title>
+      <link>https://wired.jp/article/regulators-finally-catch-up-with-big-tech/</link>
+      <description><![CDATA[技术进步不受法律约束的幻想最终将破灭，法院和监管机构将加快努力通过现有法律遏制大型科技公司。]]></description>
+      <guid>https://wired.jp/article/regulators-finally-catch-up-with-big-tech/</guid>
+      <pubDate>Thu, 11 Jan 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>信息技术加速向清洁出行转型——专题《2024年的世界》</title>
       <link>https://wired.jp/article/greener-is-getting-going/</link>
       <description><![CDATA[企业开始根据数据采取应对全球变暖的措施。 2024年，信息平台和人工智能将使每个人都能更轻松地获得清洁出行。唯一要做的就是继续前进。]]></description>
       <guid>https://wired.jp/article/greener-is-getting-going/</guid>
@@ -36,21 +43,21 @@
     <item>
       <title>关于新星球大战故事片《曼达洛人》的消息</title>
       <link>https://wired.jp/article/the-mandalorian-and-grogu-movie-coming/</link>
-      <description><![CDATA[改编自《星球大战》的真人连续剧《曼达洛人》已被曝计划拍成电影。这部电影名为《曼达洛人和格罗古》，可能是星球大战未来方向的标志。]]></description>
+      <description><![CDATA[改编自《星球大战》的真人剧《曼达洛人》已计划拍成电影。这部电影名为《曼达洛人和格罗古》，可能是星球大战未来方向的标志。]]></description>
       <guid>https://wired.jp/article/the-mandalorian-and-grogu-movie-coming/</guid>
       <pubDate>Tue, 09 Jan 2024 23:55:00 GMT</pubDate>
     </item>
     <item>
       <title>用于早期发现乳腺癌。开发出“可穿戴式超声波监测仪”</title>
       <link>https://wired.jp/article/ultrasound-bra-breast-cancer-detection/</link>
-      <description><![CDATA[麻省理工学院的研究员贾南·达迪维伦 (Janan Dadiviren) 受到姑妈与乳腺癌斗争的启发，开发了一种可穿戴胸罩形状的设备。该设备允许在定期检查期间使用超声波进行乳腺癌筛查，可能会挽救许多生命。]]></description>
+      <description><![CDATA[麻省理工学院的研究员贾南·达迪维伦 (Janan Dadiviren) 受到姑妈与乳腺癌斗争的启发，开发了一种可穿戴胸罩形状的设备。该设备可以在定期检查期间使用超声波进行乳腺癌筛查，可以挽救许多生命。]]></description>
       <guid>https://wired.jp/article/ultrasound-bra-breast-cancer-detection/</guid>
       <pubDate>Tue, 09 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CES2024 上发布的 10 款产品</title>
       <link>https://wired.jp/article/ces-2024-unveiled/</link>
-      <description><![CDATA[“CES2024”终于将于1月9日在美国拉斯维加斯开幕。我们想向您介绍一些来自世界各地的初创公司的产品，这些产品在活动前的媒体日上展出，《连线》日本编辑部收录了这些产品。]]></description>
+      <description><![CDATA[“CES2024”终于将于1月9日在美国拉斯维加斯开幕。我们想向您介绍一些来自世界各地的初创公司的产品，这些产品在活动前的媒体日上展出，并被《连线》日本编辑部收录。]]></description>
       <guid>https://wired.jp/article/ces-2024-unveiled/</guid>
       <pubDate>Tue, 09 Jan 2024 08:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 08 Jan 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人类的创造性工作被认为比人工智能的工作更有价值 - 特辑“2024年的世界”</title>
+      <title>人类所做的创造性工作被认为比人工智能工作更有价值 - 特辑“2024 年的世界”</title>
       <link>https://wired.jp/article/people-power-is-at-the-heart-of-creativity/</link>
       <description><![CDATA[随着生成式人工智能的发展，人们越来越担心人类创造力将被人工智能取代。但尖端技术的好坏取决于最有才华的人如何使用它。]]></description>
       <guid>https://wired.jp/article/people-power-is-at-the-heart-of-creativity/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>不放弃解决世界难题的“极客”公司崛起：安德鲁·麦卡菲──特辑《2024年的世界》</title>
       <link>https://wired.jp/article/vol51-all-hail-our-geek-overlords/</link>
-      <description><![CDATA[热衷于应对世界上最艰难挑战的充满活力的初创公司有一个共同点：这种态度重视科学思维，所有权，速度和开放性。这是开放下一个时代的关键。]]></description>
+      <description><![CDATA[热衷于应对世界上最严峻挑战的充满活力的初创公司有一个共同点：这是一种看重科学思维、主人翁精神、速度、开放性的态度。这是开启下一个时代的钥匙。]]></description>
       <guid>https://wired.jp/article/vol51-all-hail-our-geek-overlords/</guid>
       <pubDate>Sun, 07 Jan 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“CES 2024”，搭载AI的产品将成“主角”</title>
-      <link>https://wired.jp/article/ces-2024-preview-ai/</link>
-      <description><![CDATA[CES 2024 将于 1 月 9 日在拉斯维加斯拉开帷幕，一如既往，展会上将充斥着采用最新技术的新型消费产品。今年，由于人工智能 (AI)，它看起来会变得更加强大。]]></description>
-      <guid>https://wired.jp/article/ces-2024-preview-ai/</guid>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
