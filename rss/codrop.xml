@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 10 Jan 2024 15:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 15:16:01 GMT</lastBuildDate>
+    <item>
+      <title>集体#804</title>
+      <link>https://tympanus.net/codrops/collective/collective-804/</link>
+      <description><![CDATA[AHA 堆栈 * 楔形设计系统 * 环境共存]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-804/</guid>
+      <pubDate>Fri, 12 Jan 2024 13:21:51 GMT</pubDate>
+    </item>
     <item>
       <title>使用 SVG 剪辑路径的实验性滚动文本动画</title>
       <link>https://tympanus.net/codrops/2024/01/10/experimental-on-scroll-text-animations-with-svg-clip-path/</link>
@@ -48,7 +55,7 @@
       <pubDate>Sun, 24 Dec 2023 16:21:22 GMT</pubDate>
     </item>
     <item>
-      <title>UI 交互和动画综述#39</title>
+      <title>UI 交互和动画综述 #39</title>
       <link>https://tympanus.net/codrops/2023/12/23/ui-interactions-animations-roundup-39/</link>
       <description><![CDATA[在我们最新的综述中探索新鲜的 UI 动画和交互设计。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/23/ui-interactions-animations-roundup-39/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[在我们特别日历的第 22 天发现更多前端亮点！]]></description>
       <guid>https://tympanus.net/codrops/2023/12/22/frontend-rewind-2023-day-22/</guid>
       <pubDate>Fri, 22 Dec 2023 15:54:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#801</title>
-      <link>https://tympanus.net/codrops/collective/collective-801/</link>
-      <description><![CDATA[Gaussian-SLAM * BrandGuide * HTML：不好的部分]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-801/</guid>
-      <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
