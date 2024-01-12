@@ -4,7 +4,7 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Fri, 12 Jan 2024 03:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 06:17:34 GMT</lastBuildDate>
     <item>
       <title>《黄金太阳》和《黄金太阳：失落的时代》终于在 Nintendo Switch Online 上崛起</title>
       <link>https://www.ign.com/articles/golden-sun-and-golden-sun-the-lost-age-rise-at-last-on-nintendo-switch-online</link>
@@ -22,7 +22,7 @@
     <item>
       <title>《守望先锋 2》基本上只推出一个周末的 Turbo 模式</title>
       <link>https://www.ign.com/articles/overwatch-2-is-basically-introducing-a-turbo-mode-for-one-weekend-only</link>
-      <description><![CDATA[《守望先锋 2》引入了“快速游戏”模式，该模式已被 Sombra 破解，可以加快游戏速度。据暴雪称，这种模式虽然是暂时的，但标志着团队射击游戏核心游戏玩法的转变。]]></description>
+      <description><![CDATA[《守望先锋 2》引入了“快速游戏”模式，该模式已被“黑影”改造，可以加快游戏速度。据暴雪称，这种模式虽然是暂时的，但标志着团队射击游戏核心游戏玩法的转变。]]></description>
       <guid>https://www.ign.com/articles/overwatch-2-is-basically-introducing-a-turbo-mode-for-one-weekend-only</guid>
       <pubDate>Thu, 11 Jan 2024 21:52:12 GMT</pubDate>
     </item>
@@ -48,13 +48,6 @@
       <pubDate>Thu, 11 Jan 2024 17:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>波斯王子：失落的王冠评论</title>
-      <link>https://www.ign.com/articles/prince-of-persia-the-lost-crown-review</link>
-      <description><![CDATA[2D 银河恶魔城非常适合波斯王子的回归。]]></description>
-      <guid>https://www.ign.com/articles/prince-of-persia-the-lost-crown-review</guid>
-      <pubDate>Thu, 11 Jan 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>《波斯王子：失落的王冠》将在发售时通过文字转语音为角色配音</title>
       <link>https://www.ign.com/articles/prince-of-persia-the-lost-crown-will-have-a-character-voiced-by-text-to-speech-at-launch</link>
       <description><![CDATA[《波斯王子：失落的王冠》将于下周推出。虽然我们认真研究了这款游戏，但有一个奇怪的细节突出：游戏的一个小 NPC 将在发布时由文本转语音程序配音，这似乎是因为有人忘记为该角色录制并添加人类的声音。]]></description>
@@ -62,9 +55,16 @@
       <pubDate>Thu, 11 Jan 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>波斯王子：失落的王冠评论</title>
+      <link>https://www.ign.com/articles/prince-of-persia-the-lost-crown-review</link>
+      <description><![CDATA[2D 银河恶魔城非常适合波斯王子的回归。]]></description>
+      <guid>https://www.ign.com/articles/prince-of-persia-the-lost-crown-review</guid>
+      <pubDate>Thu, 11 Jan 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>《碧蓝幻想：Relink》演示版公布 PS4 和 PS5</title>
       <link>https://www.ign.com/articles/granblue-fantasy-relink-demo-announced-for-ps4-and-ps5</link>
-      <description><![CDATA[发行商 Cygames 宣布，即将推出的角色扮演游戏《碧蓝幻想：重新链接》的演示版将于午夜在 PS4 和 PS5 上推出。]]></description>
+      <description><![CDATA[发行商 Cygames 宣布，即将推出的角色扮演游戏《碧蓝幻想：重新链接》的演示版将于午夜在 PS4 和 PS5 上发布。]]></description>
       <guid>https://www.ign.com/articles/granblue-fantasy-relink-demo-announced-for-ps4-and-ps5</guid>
       <pubDate>Thu, 11 Jan 2024 16:05:53 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>总决赛1.4.1版本新增瞄准辅助</title>
       <link>https://www.ign.com/articles/the-finals-patch-141-takes-aim-at-aim-assist</link>
-      <description><![CDATA[Finals 开发商 Embark Studios 发布了这款热门射击游戏 2024 年的第一个更新 1.4.1，它对瞄准辅助的工作方式进行了重大改变。]]></description>
+      <description><![CDATA[Finals 开发商 Embark Studios 发布了这款热门射击游戏 2024 年的第一个更新 1.4.1，它对瞄准辅助的工作方式做出了重大改变。]]></description>
       <guid>https://www.ign.com/articles/the-finals-patch-141-takes-aim-at-aim-assist</guid>
       <pubDate>Thu, 11 Jan 2024 14:53:14 GMT</pubDate>
     </item>
