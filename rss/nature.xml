@@ -4,7 +4,40 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Fri, 12 Jan 2024 12:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 16:05:02 GMT</lastBuildDate>
+    <item>
+      <title>“设置好后就忘记它”：自动化实验室使用人工智能和机器人技术来改善蛋白质</title>
+      <link>https://www.nature.com/articles/d41586-024-00093-w</link>
+      <description><![CDATA[
+                    &lt;图类=“图”&gt;
+ 
+  &lt;源类型=“图像/webp”/&gt;
+  蛋白质是由完全自主的机器人在实验室中制造的。图片来源：Panther Media GmbH/Alamy
+
+一个由机器人设备组成的“自动驾驶”实验室，由简单的人工智能（AI）模型指导，成功地重新设计了酶，无需人类的任何输入——除了偶尔的硬件修复。
+“这是一项前沿工作，”加州伯克利劳伦斯伯克利国家实验室的物理学家和合成生物学家 Héctor García Martín 说道。 “他们正在完全自动化蛋白质工程的整个过程。”
+自动驾驶实验室将机器人设备与机器学习模型相结合，能够指导实验和解释结果以设计新程序。研究人员表示，希望自主实验室能够加速科学进程，并提出人类自己可能没有想到的解决方案。
+单调的工作
+领导这项研究的威斯康星大学麦迪逊分校蛋白质工程师 Philip Romero 表示，蛋白质工程对于自动驾驶实验室来说是一项理想的任务1，1 月 11 日发表在《自然化学工程》上。传统方法往往依赖于开发针对特定特性（例如酶活性）的检测方法，然后筛选大量的蛋白质突变版本。 “蛋白质工程领域的很多领域都很单调，”他说。
+罗梅罗团队创建的系统由一个相对简单的机器学习模型提供支持，该模型将蛋白质的序列与其功能联系起来，并提出序列改变以改善功能。它将用于测试的蛋白质序列传送到制造蛋白质的实验室设备，测量其活性，然后将结果反馈给模型以指导新一轮的实验。 “我们设定好后就忘记它，”罗梅罗说。
+在这项研究中，研究人员要求他们的自动驾驶实验室制造一种称为糖苷水解酶的代谢酶，使其更能耐受高温。经过 20 轮实验后，4 个项目中的每一个都产生了新版本的酶，其运行温度比自主实验室开始使用的蛋白质至少高 12 ℃。
+研究人员首先尝试运行他们自己的机器人设备，但机器不断出现故障。因此，他们求助于加利福尼亚州的一个基于云的实验室——这是一个现有的设施，其中包含可以通过计算机代码远程控制的机器人设备——并设置他们的人工智能模型以向那里发送指令。研究人员估计，整个实验耗时约 6 个月，其中包括因运输延误而暂停的 2.5 个月，每 20 轮实验的成本约为 5,200 美元。一个人可能会花费长达一年的时间来完成同样的工作。
+生成知识
+加西亚·马丁说，提高自动驾驶生物实验室的复杂程度可能需要新一代硬件，因为现有的自动化实验室设备往往是在考虑到人类监督员的情况下制造的。更根本的挑战是创建能够生成可由机器和人类解释的知识的自动驾驶实验室。
+让蛋白质变得更加热稳定相对简单，伊利诺伊大学厄巴纳-香槟分校的合成生物学家赵慧敏说。目前尚不清楚自动驾驶实验室如何容易地以其他方式改变酶。
+罗梅罗表示，他的团队正在致力于将其自动驾驶实验室应用于其他蛋白质工程挑战。该小组还希望整合更复杂的深度学习工具，推动蛋白质设计的进步。
+然而，研究人员并没有试图精简科学队伍。 “我们不会让人类变得多余，”研究合著者、威斯康星大学麦迪逊分校蛋白质工程师雅各布·拉普 (Jacob Rapp) 在介绍这项工作的在线研讨会上说道。 “我们正在更换无聊的部件，以便您可以专注于工程工作中有趣的部分。”
+]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00093-w</guid>
+      <pubDate>Fri, 12 Jan 2024 16:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日简报：挪威率先批准有争议的海底采矿</title>
+      <link>https://www.nature.com/articles/d41586-024-00097-6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00097-6</guid>
+      <pubDate>Fri, 12 Jan 2024 16:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>什么算抄袭？哈佛大学校长辞职引发争议</title>
       <link>https://www.nature.com/articles/d41586-024-00035-6</link>
@@ -157,20 +190,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-00009-8</guid>
       <pubDate>Thu, 04 Jan 2024 21:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本地震：致命地震背后的科学</title>
-      <link>https://www.nature.com/articles/d41586-024-00010-1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00010-1</guid>
-      <pubDate>Wed, 03 Jan 2024 21:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在评论文章中分享您的科学知识如何促进您的职业生涯</title>
-      <link>https://www.nature.com/articles/d41586-023-04091-2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-023-04091-2</guid>
-      <pubDate>Tue, 02 Jan 2024 21:01:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
