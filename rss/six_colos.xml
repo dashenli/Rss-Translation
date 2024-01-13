@@ -4,7 +4,17 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 10 Jan 2024 21:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:58:17 GMT</lastBuildDate>
+    <item>
+      <title>本周苹果：你明白了吗？ （会员帖）</title>
+      <link>https://sixcolors.com/member/2024/01/this-week-in-apple-are-you-getting-it/</link>
+      <description><![CDATA[
+苹果实现了 Vision Pro 目标，但微软仍然名列前茅。苹果公司充满了借口。
+我们开始了，Vision Pro
+如果你上周一直住在洞穴里……好吧，这对于 2024 年来说听起来确实不错。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+      <guid>https://sixcolors.com/member/2024/01/this-week-in-apple-are-you-getting-it/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 477：Brrreeeeoooooouuuuuuggghhh</title>
       <link>https://sixcolors.com/podcast/2024/01/the-rebound-477-brrreeeeoooooouuuuuuuggghhh/</link>
@@ -13,7 +23,7 @@
       <pubDate>Wed, 10 Jan 2024 20:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）顺时针 536：给您的宠物绝育</title>
+      <title>（播客）顺时针 536：为您的宠物绝育</title>
       <link>https://sixcolors.com/podcast/2024/01/clockwise-536-spay-and-neuter-your-pets/</link>
       <description><![CDATA[我们在哪里以及如何观看媒体；是否有任何手机应用程序可以证明像 Rabbit R1 这样的定制硬件是合理的？ CES 上展示的有趣技术；以及屏幕的最佳指点设备。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/clockwise-536-spay-and-neuter-your-pets/</guid>
@@ -38,7 +48,7 @@
       <title>BBEdit 15 添加 ChatGPT 支持</title>
       <link>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</link>
       <description><![CDATA[ChatGPT 在 BBEdit 15 工作表中工作。
-在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 已将这款久负盛名的 Mac 文本编辑器更新至 15.0 版。…]]></description>
+在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 将这款久负盛名的 Mac 文本编辑器更新到了 15.0 版。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</guid>
       <pubDate>Tue, 09 Jan 2024 23:44:16 GMT</pubDate>
     </item>
@@ -114,13 +124,6 @@ Peloton 等
       <description><![CDATA[Apple Watch 9 回来了，Vision Pro 也近在眼前，但不适合我们。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/the-rebound-476-vision-pro-no-show/</guid>
       <pubDate>Wed, 03 Jan 2024 19:28:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论成功还是失败，2024 年都将是 Vision Pro 之年 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2191168/</link>
-      <description><![CDATA[去年对苹果来说有点平静，但 2024 年将会很热闹。 Vision Pro，一款运行新类别（针对苹果）的新操作系统的新产品的推出，或多或少地保证了这一点。…]]></description>
-      <guid>https://www.macworld.com/article/2191168/</guid>
-      <pubDate>Wed, 03 Jan 2024 17:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
