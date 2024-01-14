@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sat, 13 Jan 2024 21:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 01:02:08 GMT</lastBuildDate>
+    <item>
+      <title>如何按时间顺序玩《生化奇兵》游戏</title>
+      <link>https://www.ign.com/articles/bioshock-games-in-order</link>
+      <description><![CDATA[如果您还没有玩过《生化奇兵》，那么您应该玩一下。]]></description>
+      <guid>https://www.ign.com/articles/bioshock-games-in-order</guid>
+      <pubDate>Sat, 13 Jan 2024 23:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>每日优惠：Anker 移动电源、Elgato HD60 X、JLab Talk Pro</title>
       <link>https://www.ign.com/articles/daily-deals-anker-power-bank-elgato-hd60-x-jlab-talk-pro</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024 年您应该兴奋的所有游戏、电影和电视节目。]]></description>
       <guid>https://www.ign.com/articles/ign-uk-podcast-731-the-big-2024-preview</guid>
       <pubDate>Fri, 12 Jan 2024 14:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科乐美经典游戏《菲利克斯猫》和《火箭骑士》重新发布</title>
-      <link>https://www.ign.com/articles/classic-konami-games-like-felix-the-cat-and-rocket-knight-being-re-released</link>
-      <description><![CDATA[Konami 经典游戏系列（包括《菲利克斯猫》和《火箭骑士历险记》）将于 2024 年以实体版和数字版形式重新发行。]]></description>
-      <guid>https://www.ign.com/articles/classic-konami-games-like-felix-the-cat-and-rocket-knight-being-re-released</guid>
-      <pubDate>Fri, 12 Jan 2024 12:05:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
