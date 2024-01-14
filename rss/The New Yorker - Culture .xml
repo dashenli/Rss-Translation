@@ -4,7 +4,7 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sun, 14 Jan 2024 12:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 15:15:41 GMT</lastBuildDate>
     <item>
       <title>复兴经典美式汉堡</title>
       <link>https://www.newyorker.com/culture/the-food-scene/reviving-the-classic-american-burger-hamburger-america</link>
@@ -20,17 +20,17 @@
       <pubDate>Sun, 14 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么共和党人仍在争论奴隶制和叛乱？</title>
-      <link>https://www.newyorker.com/magazine/2024/01/22/why-are-republicans-still-debating-slavery-and-insurrection</link>
-      <description><![CDATA[经历过内战的激进共和党领导人明白一条他们的继任者已经忘记的原则。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/01/22/why-are-republicans-still-debating-slavery-and-insurrection</guid>
-      <pubDate>Sun, 14 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>迪克森·德波米尔希望我们的城市像森林一样</title>
       <link>https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests</link>
       <description><![CDATA[垂直农业的主要支持者讨论了城市地区应如何适应危险的环境未来。]]></description>
       <guid>https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests</guid>
+      <pubDate>Sun, 14 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么共和党人仍在争论奴隶制和叛乱？</title>
+      <link>https://www.newyorker.com/magazine/2024/01/22/why-are-republicans-still-debating-slavery-and-insurrection</link>
+      <description><![CDATA[经历过内战的激进共和党领导人明白一条他们的继任者已经忘记的原则。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/01/22/why-are-republicans-still-debating-slavery-and-insurrection</guid>
       <pubDate>Sun, 14 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -41,13 +41,6 @@
       <pubDate>Sun, 14 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《真探：夜之国》寻找黑暗之心</title>
-      <link>https://www.newyorker.com/magazine/2024/01/22/true-detective-tv-review-hbo-max</link>
-      <description><![CDATA[由朱迪·福斯特 (Jodie Foster) 领衔主演的 HBO 经典警匪片的复兴，在超自然的繁荣与明显的人性恐怖之间取得了平衡。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/01/22/true-detective-tv-review-hbo-max</guid>
-      <pubDate>Sat, 13 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>在社交互联网的黎明时期成熟</title>
       <link>https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet</link>
       <description><![CDATA[在线平台让我培养了更自由的自己。然后数字世界开始关闭。]]></description>
@@ -55,9 +48,16 @@
       <pubDate>Sat, 13 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年未举行的初选</title>
+      <title>《真探：夜之国》寻找黑暗之心</title>
+      <link>https://www.newyorker.com/magazine/2024/01/22/true-detective-tv-review-hbo-max</link>
+      <description><![CDATA[由朱迪·福斯特 (Jodie Foster) 领衔主演的 HBO 经典警匪片的复兴，在超自然的繁荣与明显的人性恐怖之间取得了平衡。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/01/22/true-detective-tv-review-hbo-max</guid>
+      <pubDate>Sat, 13 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年初选并未举行</title>
       <link>https://www.newyorker.com/podcast/political-scene/the-2024-primaries-that-werent</link>
-      <description><![CDATA[2024 年总统初选将于下周的爱荷华州党团会议正式拉开帷幕，但共和党提名之战已经进入冲刺阶段。]]></description>
+      <description><![CDATA[2024 年总统初选将于下周的爱荷华州党团会议正式拉开帷幕，但共和党提名之战已进入冲刺阶段。]]></description>
       <guid>https://www.newyorker.com/podcast/political-scene/the-2024-primaries-that-werent</guid>
       <pubDate>Sat, 13 Jan 2024 11:00:00 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>唐纳德·特朗普如何打破爱荷华州预选并掌控共和党</title>
       <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/how-donald-trump-broke-the-iowa-caucuses-and-owns-the-gop</link>
-      <description><![CDATA[这位前总统在没有参加辩论、也几乎没有实地竞选的情况下颠覆了 2024 年首场共和党竞选。另外，还有《紫色》中的女演员丹妮尔·布鲁克斯。]]></description>
+      <description><![CDATA[这位前总统在没有参加辩论、几乎没有实地竞选的情况下颠覆了 2024 年首场共和党竞选。另外，还有《紫色》中的女演员丹妮尔·布鲁克斯。]]></description>
       <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/how-donald-trump-broke-the-iowa-caucuses-and-owns-the-gop</guid>
       <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
     </item>
