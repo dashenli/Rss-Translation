@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 14 Jan 2024 18:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 01:01:26 GMT</lastBuildDate>
+    <item>
+      <title>使用无人机的消防救援服务将显着改善森林火灾响应——专题“2024年的世界”</title>
+      <link>https://wired.jp/article/emergency-service-drones/</link>
+      <description><![CDATA[无人机正在加入气候引发的野火救援队伍。发出预警并分析情况。他们可以找到幸存者，甚至扑灭火灾。]]></description>
+      <guid>https://wired.jp/article/emergency-service-drones/</guid>
+      <pubDate>Mon, 15 Jan 2024 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使人工智能不会夺走你的工作，它也可能会阻止你找到工作。</title>
+      <link>https://wired.jp/article/hilke-schellmann-algorithm-book-ai-jobs-hiring/</link>
+      <description><![CDATA[自动化人力资源筛选工作（例如审查简历和推荐晋升候选人）的人工智能软件已经出现并开始在人力资源领域实施。我们向分析了这些软件的记者 Hilke Schellmann 询问了求职者如何在当前环境下重新获得控制权。]]></description>
+      <guid>https://wired.jp/article/hilke-schellmann-algorithm-book-ai-jobs-hiring/</guid>
+      <pubDate>Sun, 14 Jan 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>互联网上充斥着人工智能生成的“早期米老鼠”作品，其版权已过期。作者发帖的意图是什么？</title>
       <link>https://wired.jp/article/mickey-mouse-steamboat-willie-public-domain-artificial-intelligence/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[假期结束后您是否难以集中精力工作？没关系，你并不孤单。找到您可以管理的工作节奏。]]></description>
       <guid>https://wired.jp/article/how-to-get-over-january-slump-work-after-holidays/</guid>
       <pubDate>Fri, 12 Jan 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护艺术家免受人工智能侵害的新法律机制将诞生 - 特辑“THE WORLD IN 2024”</title>
-      <link>https://wired.jp/article/changing-the-tune-for-artists-rights/</link>
-      <description><![CDATA[创意产业需要创建一个奖励真正创新的体系。创作者必须通过了解人工智能的本质，不断创造出开创性的作品。]]></description>
-      <guid>https://wired.jp/article/changing-the-tune-for-artists-rights/</guid>
-      <pubDate>Fri, 12 Jan 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用语音执行任务的流行人工智能设备“兔子r1”的目标</title>
-      <link>https://wired.jp/article/rabbit-r1/</link>
-      <description><![CDATA[CES 2024 上发布了一款 AI 设备，它可以代表您操作应用程序，只需发出语音命令即可执行任务。这款名为“兔子R1”的产品将会带来怎样的世界呢？]]></description>
-      <guid>https://wired.jp/article/rabbit-r1/</guid>
-      <pubDate>Thu, 11 Jan 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
