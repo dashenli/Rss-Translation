@@ -4,11 +4,51 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 06:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 09:17:22 GMT</lastBuildDate>
+    <item>
+      <title>关于子网格和彩色网格线</title>
+      <link>https://www.lenesaile.com/en/blog/about-subgrid-and-colored-grid-lines/</link>
+      <description><![CDATA[在本文中，我尝试使用子网格创建一个设计原型，该设计需要带有彩色网格线的四列布局。
+]]></description>
+      <guid>https://www.lenesaile.com/en/blog/about-subgrid-and-colored-grid-lines/</guid>
+      <pubDate>Mon, 15 Jan 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>情绪板创作者</title>
+      <link>https://www.moodboardcreator.dev/</link>
+      <description><![CDATA[启动下一个品牌项目的人工智能工具
+]]></description>
+      <guid>https://www.moodboardcreator.dev/</guid>
+      <pubDate>Mon, 15 Jan 2024 06:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AHA 堆栈</title>
+      <link>https://ahastack.dev/</link>
+      <description><![CDATA[AHA Stack 是一组技术的集合，这些技术协同工作以创建全栈 Web 应用程序框架。
+]]></description>
+      <guid>https://ahastack.dev/</guid>
+      <pubDate>Mon, 15 Jan 2024 06:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>字体配对的 3 个秘诀</title>
+      <link>https://maketypework.com/the-3-secrets-to-font-pairing/</link>
+      <description><![CDATA[和我一起寻找完美的配对。这是我在整个过程中需要考虑的 3 个步骤的框架。
+]]></description>
+      <guid>https://maketypework.com/the-3-secrets-to-font-pairing/</guid>
+      <pubDate>Mon, 15 Jan 2024 06:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marker.io：获取*真正有用的*错误报告</title>
+      <link>https://marker.io/?utm_source=sidebar&amp;utm_medium=email&amp;utm_campaign=newsletters-2024</link>
+      <description><![CDATA[厌倦了不清楚的错误报告？尝试 Marker.io 并通过屏幕截图、控制台日志和会话重播收集网站问题。
+]]></description>
+      <guid>https://marker.io/?utm_source=sidebar&amp;utm_medium=email&amp;utm_campaign=newsletters-2024</guid>
+      <pubDate>Mon, 15 Jan 2024 00:29:33 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Platformer 离开 Substack</title>
       <link>https://www.platformer.news/p/why-platformer-is-leaving-substack</link>
-      <description><![CDATA[我们以前看过这部电影，但我们不会留下来看它的上映。
+      <description><![CDATA[我们以前看过这部电影 - 我们不会留下来观看它的播出。
 ]]></description>
       <guid>https://www.platformer.news/p/why-platformer-is-leaving-substack</guid>
       <pubDate>Fri, 12 Jan 2024 10:28:14 GMT</pubDate>
@@ -80,50 +120,10 @@
     <item>
       <title>我们应该运送什么？</title>
       <link>https://rauno.me/craft/vercel</link>
-      <description><![CDATA[10 月，我们与 Glenn、Henry 和 Alasdair 一起为 Vercel 发布了新主页。
+      <description><![CDATA[10 月份，我们与 Glenn、Henry 和 Alasdair 一起为 Vercel 发布了新主页。
 ]]></description>
       <guid>https://rauno.me/craft/vercel</guid>
       <pubDate>Thu, 11 Jan 2024 07:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Vertigo：作为设计师，我们下一步该何去何从？</title>
-      <link>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</link>
-      <description><![CDATA[新生成技术的出现正在“促使”产品设计社区重新评估他们的角色。
-]]></description>
-      <guid>https://uxdesign.cc/from-pencil-to-siri-the-evolving-function-of-ux-design-8ee23ef725ee</guid>
-      <pubDate>Wed, 10 Jan 2024 12:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年我将如何编写 CSS</title>
-      <link>https://leerob.io/blog/css</link>
-      <description><![CDATA[有关 CSS 生态系统和工具状态的说明。
-]]></description>
-      <guid>https://leerob.io/blog/css</guid>
-      <pubDate>Wed, 10 Jan 2024 12:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>推测性日历事件</title>
-      <link>https://maggieappleton.com/speculative-events</link>
-      <description><![CDATA[设计暂定日历事件来解决复杂的日程安排问题。
-]]></description>
-      <guid>https://maggieappleton.com/speculative-events</guid>
-      <pubDate>Wed, 10 Jan 2024 12:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球设计系统</title>
-      <link>https://bradfrost.com/blog/post/a-global-design-system/</link>
-      <description><![CDATA[这是一项行动号召，旨在创建一个全球设计系统，为世界各地的网页设计师和设计师提供服务。开发者通用 UI 组件库。
-]]></description>
-      <guid>https://bradfrost.com/blog/post/a-global-design-system/</guid>
-      <pubDate>Wed, 10 Jan 2024 11:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>让独立网络变得更容易</title>
-      <link>https://gilest.org/indie-easy.html</link>
-      <description><![CDATA[我们需要的不仅仅是 WordPress。
-]]></description>
-      <guid>https://gilest.org/indie-easy.html</guid>
-      <pubDate>Wed, 10 Jan 2024 02:17:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
