@@ -3,8 +3,17 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Sat, 13 Jan 2024 00:58:17 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 15 Jan 2024 18:18:10 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
+      <link>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-10/</link>
+      <description><![CDATA[
+您想在 iPhone、iPad 和 Mac 上的 Safari 浏览器中屏蔽所有 YouTube 广告吗？
+然后下载Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-10/</guid>
+      <pubDate>Mon, 15 Jan 2024 17:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>本周苹果：你明白了吗？ （会员帖）</title>
       <link>https://sixcolors.com/member/2024/01/this-week-in-apple-are-you-getting-it/</link>
@@ -48,7 +57,7 @@
       <title>BBEdit 15 添加 ChatGPT 支持</title>
       <link>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</link>
       <description><![CDATA[ChatGPT 在 BBEdit 15 工作表中工作。
-在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 将这款久负盛名的 Mac 文本编辑器更新到了 15.0 版。…]]></description>
+在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 已将这款久负盛名的 Mac 文本编辑器更新至 15.0 版。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</guid>
       <pubDate>Tue, 09 Jan 2024 23:44:16 GMT</pubDate>
     </item>
@@ -117,13 +126,6 @@ Peloton 等
       <description><![CDATA[2024 年我们将在哪些方面投入社交媒体精力、我们将取消哪些订阅、我们对 Apple Vision Pro 的看法以及我们今年希望我们的设备具备哪些功能。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/clockwise-535-its-even-embarrassing-in-metric/</guid>
       <pubDate>Wed, 03 Jan 2024 20:28:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 476：Vision Pro 缺席</title>
-      <link>https://sixcolors.com/podcast/2024/01/the-rebound-476-vision-pro-no-show/</link>
-      <description><![CDATA[Apple Watch 9 回来了，Vision Pro 也近在眼前，但不适合我们。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/01/the-rebound-476-vision-pro-no-show/</guid>
-      <pubDate>Wed, 03 Jan 2024 19:28:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
