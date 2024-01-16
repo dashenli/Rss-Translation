@@ -4,7 +4,21 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 16 Jan 2024 15:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 18:16:53 GMT</lastBuildDate>
+    <item>
+      <title>数百万个 Apple、AMD 和 Qualcomm GPU 的缺陷可能会泄露 AI 数据</title>
+      <link>https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/</link>
+      <description><![CDATA[修补受 LeftoverLocals 漏洞影响的每台设备（包括某些 iPhone、iPad 和 Mac）可能会很困难。]]></description>
+      <guid>https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/</guid>
+      <pubDate>Tue, 16 Jan 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普在爱荷华州以压倒性优势获胜。他的支持者仍在散布阴谋</title>
+      <link>https://www.wired.com/story/trump-iowa-conspiracies/</link>
+      <description><![CDATA[这可能只是痴迷于选举舞弊指控的竞选季的开始。]]></description>
+      <guid>https://www.wired.com/story/trump-iowa-conspiracies/</guid>
+      <pubDate>Tue, 16 Jan 2024 15:22:24 GMT</pubDate>
+    </item>
     <item>
       <title>互联网无法拯救维韦克·拉马斯瓦米</title>
       <link>https://www.wired.com/story/vivek-ramaswamy-campaign/</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 16 Jan 2024 15:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>FTC 位置数据隐私和解的悲惨真相</title>
+      <title>美国联邦贸易委员会位置数据隐私和解的悲惨真相</title>
       <link>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</link>
       <description><![CDATA[联邦贸易委员会强迫数据经纪人停止出售“敏感位置数据”。但大多数公司可以通过采取最低限度的措施来避免此类审查，从而暴露美国人真正缺乏保护的情况。]]></description>
       <guid>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[从《斯科特·朝圣者起飞》到《太阳兄弟》，以下是我们精选的本周最值得观看的流媒体电影。]]></description>
       <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
       <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些矿业公司已准备好袭击海底</title>
-      <link>https://www.wired.com/story/deep-sea-mining-companies-norway/</link>
-      <description><![CDATA[为深海采矿做准备的海洋勘探已在挪威获得批准。这些是希望受益的初创公司。]]></description>
-      <guid>https://www.wired.com/story/deep-sea-mining-companies-norway/</guid>
-      <pubDate>Fri, 12 Jan 2024 19:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音 737 Max 危机再次引发有关飞机上婴儿安全的争论</title>
-      <link>https://www.wired.com/story/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/</link>
-      <description><![CDATA[波音 737 Max 9 的空中爆炸事件表明安全带很重要，但两岁以下的婴儿仍然不需要拥有自己的座位。专家表示，改变规则将使儿童飞行更加安全，但也会导致更多死亡。]]></description>
-      <guid>https://www.wired.com/story/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
