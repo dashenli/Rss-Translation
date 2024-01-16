@@ -4,7 +4,21 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 16 Jan 2024 18:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 21:13:04 GMT</lastBuildDate>
+    <item>
+      <title>目前 Disney+ 上 45 部最佳节目</title>
+      <link>https://www.wired.com/story/best-shows-disney-plus/</link>
+      <description><![CDATA[从《回声》到《波西·杰克逊和奥林匹亚众神》，这里有您应该在 Disney+ 上观看的所有内容。]]></description>
+      <guid>https://www.wired.com/story/best-shows-disney-plus/</guid>
+      <pubDate>Tue, 16 Jan 2024 20:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾美奖证明流媒体让电视变得更好</title>
+      <link>https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/</link>
+      <description><![CDATA[艾美奖的大赢家和大输家证明了流媒体对电视以及艾美奖本身的改变有多大。]]></description>
+      <guid>https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/</guid>
+      <pubDate>Tue, 16 Jan 2024 19:42:32 GMT</pubDate>
+    </item>
     <item>
       <title>数百万个 Apple、AMD 和 Qualcomm GPU 的缺陷可能会泄露 AI 数据</title>
       <link>https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/</link>
@@ -27,7 +41,7 @@
       <pubDate>Tue, 16 Jan 2024 15:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会位置数据隐私和解的悲惨真相</title>
+      <title>FTC 位置数据隐私和解的悲惨真相</title>
       <link>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</link>
       <description><![CDATA[联邦贸易委员会强迫数据经纪人停止出售“敏感位置数据”。但大多数公司可以通过采取最低限度的措施来避免此类审查，从而暴露美国人真正缺乏保护的情况。]]></description>
       <guid>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>智利沙漠出现旧衣服山。然后它就着火了</title>
       <link>https://www.wired.com/story/fashion-disposal-environment/</link>
-      <description><![CDATA[时尚业在世界范围内建立了一个庞大的非正式处置网络，带来了金钱、冲突和环境破坏。]]></description>
+      <description><![CDATA[时尚业在全球范围内建立了一个庞大的非正式处置网络，带来了金钱、冲突和环境破坏。]]></description>
       <guid>https://www.wired.com/story/fashion-disposal-environment/</guid>
       <pubDate>Sat, 13 Jan 2024 13:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[数据显示：2023 年全球气温不仅飙升，还打破了 2016 年创下的纪录。今年可能会更热。]]></description>
       <guid>https://www.wired.com/story/the-surprising-things-that-helped-make-2023-the-hottest-year-ever/</guid>
       <pubDate>Fri, 12 Jan 2024 20:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Netflix 上的 49 部最佳电影</title>
-      <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
-      <description><![CDATA[从《Dune》到《Rustin》，以下是我们精选的最佳流媒体游戏，让您大饱眼福。]]></description>
-      <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
-      <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前 Netflix 上最好的 51 部节目</title>
-      <link>https://www.wired.com/story/netflix-best-shows-this-week/</link>
-      <description><![CDATA[从《斯科特·朝圣者起飞》到《太阳兄弟》，以下是我们精选的本周最值得观看的流媒体电影。]]></description>
-      <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
-      <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
