@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 16 Jan 2024 09:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 12:24:55 GMT</lastBuildDate>
+    <item>
+      <title>美国联邦贸易委员会位置数据隐私和解的悲惨真相</title>
+      <link>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</link>
+      <description><![CDATA[联邦贸易委员会强迫数据经纪人停止出售“敏感位置数据”。但大多数公司可以通过采取最低限度的措施来避免此类审查，从而暴露美国人真正缺乏保护的情况。]]></description>
+      <guid>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</guid>
+      <pubDate>Tue, 16 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 OpenAI 的 GPT 商店上启动自定义聊天机器人</title>
       <link>https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》摄影师亚历克斯·威尔士 (Alex Welsh) 捕捉到了消费电子产品盛宴中的疯狂、荣耀和技术理想主义。]]></description>
       <guid>https://www.wired.com/gallery/ces-2024-in-photos-alex-welsh/</guid>
       <pubDate>Fri, 12 Jan 2024 17:45:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止您的 X 帐户像 SEC 那样被黑客攻击</title>
-      <link>https://www.wired.com/story/sec-mandiant-x-two-factor-settings/</link>
-      <description><![CDATA[美国证券交易委员会和安全公司 Mandiant 的 X 账户均遭到泄露，这可能是由于 X 的双因素身份验证设置发生了变化。这是修复你的问题的方法。]]></description>
-      <guid>https://www.wired.com/story/sec-mandiant-x-two-factor-settings/</guid>
-      <pubDate>Fri, 12 Jan 2024 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

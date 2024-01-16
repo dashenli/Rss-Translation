@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 16 Jan 2024 09:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 12:27:25 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Apple Vision Pro 的人工智能驱动的空间银行</title>
+      <link>https://www.theuxda.com/blog/ux-case-study-ai-powered-spatial-banking-for-apple-vision-pro</link>
+      <description><![CDATA[Apple Vision Pro 可能会开启下一次数字革命。
+]]></description>
+      <guid>https://www.theuxda.com/blog/ux-case-study-ai-powered-spatial-banking-for-apple-vision-pro</guid>
+      <pubDate>Tue, 16 Jan 2024 12:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用人工智能实现无障碍：打破内容创作的障碍</title>
+      <link>https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/</link>
+      <description><![CDATA[在网络上构建无障碍体验时，使用人工智能是个好主意吗？
+]]></description>
+      <guid>https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/</guid>
+      <pubDate>Tue, 16 Jan 2024 11:59:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>表情符号厨房</title>
+      <link>https://kottke.org/24/01/perfect-friday-thing-emoji-kitchen</link>
+      <description><![CDATA[好吧，如果你以前没有见过这个（或者即使你见过），我需要警告你，表情厨房只是有点上瘾
+]]></description>
+      <guid>https://kottke.org/24/01/perfect-friday-thing-emoji-kitchen</guid>
+      <pubDate>Tue, 16 Jan 2024 11:55:47 GMT</pubDate>
+    </item>
     <item>
       <title>关于子网格和彩色网格线</title>
       <link>https://www.lenesaile.com/en/blog/about-subgrid-and-colored-grid-lines/</link>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://aaronkoelker.com/wakulla-receipt-map/</guid>
       <pubDate>Thu, 11 Jan 2024 07:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>模糊半径比较</title>
-      <link>https://bjango.com/articles/blurradiuscomparison/</link>
-      <description><![CDATA[网络和设计工具中最常见的模糊类型是高斯模糊。
-]]></description>
-      <guid>https://bjango.com/articles/blurradiuscomparison/</guid>
-      <pubDate>Thu, 11 Jan 2024 07:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rabbit R1 是一款人工智能驱动的小工具，可以为您使用您的应用程序</title>
-      <link>https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date</link>
-      <description><![CDATA[Rabbit 正在尝试将 Alexa 和 Google Assistant 结合起来，并在此过程中发明一种新型小工具。
-]]></description>
-      <guid>https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date</guid>
-      <pubDate>Thu, 11 Jan 2024 07:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们应该运送什么？</title>
-      <link>https://rauno.me/craft/vercel</link>
-      <description><![CDATA[10 月份，我们与 Glenn、Henry 和 Alasdair 一起为 Vercel 发布了新主页。
-]]></description>
-      <guid>https://rauno.me/craft/vercel</guid>
-      <pubDate>Thu, 11 Jan 2024 07:47:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
