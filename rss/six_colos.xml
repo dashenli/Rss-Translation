@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 15 Jan 2024 18:18:10 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Tue, 16 Jan 2024 00:58:30 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 495：万无一失</title>
+      <link>https://sixcolors.com/podcast/2024/01/upgrade-495-nothing-can-possibly-go-wrong/</link>
+      <description><![CDATA[Vision Pro 订单将于本周五进行，产品将在几周内发货。我们详细分析了苹果的发布策略以及我们对这一消息的反应。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/upgrade-495-nothing-can-possibly-go-wrong/</guid>
+      <pubDate>Mon, 15 Jan 2024 22:05:07 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-10/</link>
@@ -119,13 +126,6 @@ Peloton 等
   我没有选择佩吉的纪念照片，而是选择尝试一种名为“照片随机播放”的更新的“动态”壁纸功能。…]]></description>
       <guid>https://sixcolors.com/link/2024/01/grief-and-a-photo-shuffle/</guid>
       <pubDate>Fri, 05 Jan 2024 20:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 535：公制甚至令人尴尬</title>
-      <link>https://sixcolors.com/podcast/2024/01/clockwise-535-its-even-embarrassing-in-metric/</link>
-      <description><![CDATA[2024 年我们将在哪些方面投入社交媒体精力、我们将取消哪些订阅、我们对 Apple Vision Pro 的看法以及我们今年希望我们的设备具备哪些功能。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/01/clockwise-535-its-even-embarrassing-in-metric/</guid>
-      <pubDate>Wed, 03 Jan 2024 20:28:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
