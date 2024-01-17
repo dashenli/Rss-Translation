@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 17 Jan 2024 12:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:17:00 GMT</lastBuildDate>
+    <item>
+      <title>开发者经验手册</title>
+      <link>https://dx.addy.ie/</link>
+      <description><![CDATA[开发者体验 (DX) 是指开发者如何轻松有效地完成工作。
+]]></description>
+      <guid>https://dx.addy.ie/</guid>
+      <pubDate>Wed, 17 Jan 2024 12:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制定战略，而不是路线图</title>
+      <link>https://uxdesign.cc/crafting-an-effective-design-system-strategy-2d32789cf7ce</link>
+      <description><![CDATA[制定有效的设计系统策略。
+]]></description>
+      <guid>https://uxdesign.cc/crafting-an-effective-design-system-strategy-2d32789cf7ce</guid>
+      <pubDate>Wed, 17 Jan 2024 12:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ARIA Live Regions 的可访问通知（第 1 部分）</title>
+      <link>https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/</link>
+      <description><![CDATA[我们将了解可访问的通知系统，该系统使我们能够使屏幕阅读器用户更容易访问动态网络内容。
+]]></description>
+      <guid>https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/</guid>
+      <pubDate>Wed, 17 Jan 2024 12:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂但很棒的 CSS border-image 属性</title>
+      <link>https://www.smashingmagazine.com/2024/01/css-border-image-property/</link>
+      <description><![CDATA[CSS border-image 属性是您无疑知道存在但可能从未接触过的属性之一。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/01/css-border-image-property/</guid>
+      <pubDate>Wed, 17 Jan 2024 12:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>4,000 位我最亲密的朋友</title>
+      <link>https://catandgirl.com/4000-of-my-closest-friends/</link>
+      <description><![CDATA[《猫和女孩》网络漫画作者是 Midjourney 的 4000 名艺术家源数据集的一部分。 
+]]></description>
+      <guid>https://catandgirl.com/4000-of-my-closest-friends/</guid>
+      <pubDate>Wed, 17 Jan 2024 12:01:20 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年顶级前端工具</title>
       <link>https://www.smashingmagazine.com/2024/01/top-frontend-tools-2023/</link>
@@ -32,7 +72,7 @@
     <item>
       <title>使用人工智能实现无障碍：打破内容创作的障碍</title>
       <link>https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/</link>
-      <description><![CDATA[在网络上构建无障碍体验时，使用人工智能是个好主意吗？
+      <description><![CDATA[在网络上构建无障碍体验时，使用人工智能是一个好主意吗？
 ]]></description>
       <guid>https://moritzgiessmann.de/blog/posts/using-ai-for-accessibility/</guid>
       <pubDate>Tue, 16 Jan 2024 11:59:21 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://marker.io/?utm_source=sidebar&amp;utm_medium=email&amp;utm_campaign=newsletters-2024</guid>
       <pubDate>Mon, 15 Jan 2024 00:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Platformer 离开 Substack</title>
-      <link>https://www.platformer.news/p/why-platformer-is-leaving-substack</link>
-      <description><![CDATA[我们以前看过这部电影，但我们不会留下来看它的上映。
-]]></description>
-      <guid>https://www.platformer.news/p/why-platformer-is-leaving-substack</guid>
-      <pubDate>Fri, 12 Jan 2024 10:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 CSS Proximity 嵌套深色模式</title>
-      <link>https://jwdallas.com/posts/nesteddarkmode</link>
-      <description><![CDATA[如何将主题任意嵌套到任意深度。
-]]></description>
-      <guid>https://jwdallas.com/posts/nesteddarkmode</guid>
-      <pubDate>Fri, 12 Jan 2024 10:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tyler 的 2024 年 CSS 愿望清单</title>
-      <link>https://cloudfour.com/thinks/tylers-css-wish-list-for-2024/</link>
-      <description><![CDATA[Cloud Four 的创意总监分享了他对 CSS 未来的希望和梦想。
-]]></description>
-      <guid>https://cloudfour.com/thinks/tylers-css-wish-list-for-2024/</guid>
-      <pubDate>Fri, 12 Jan 2024 10:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年度特写摄影师大赛的获奖者令人惊叹</title>
-      <link>https://kottke.org/24/01/the-stunning-winners-of-the-2024-close-up-photographer-of-the-year-contest</link>
-      <description><![CDATA[你们都知道我喜欢精彩的摄影比赛，但很难选出最喜欢的。
-]]></description>
-      <guid>https://kottke.org/24/01/the-stunning-winners-of-the-2024-close-up-photographer-of-the-year-contest</guid>
-      <pubDate>Fri, 12 Jan 2024 10:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格和关键形状</title>
-      <link>https://blog.streamlinehq.com/grids-and-keyshapes</link>
-      <description><![CDATA[探索网格和关键形状在图标设计中的重要性，从如何逐步构建它们到如何瞬间打破它们。
-]]></description>
-      <guid>https://blog.streamlinehq.com/grids-and-keyshapes</guid>
-      <pubDate>Fri, 12 Jan 2024 10:20:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
