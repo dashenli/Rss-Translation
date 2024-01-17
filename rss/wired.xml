@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 17 Jan 2024 18:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 21:12:58 GMT</lastBuildDate>
+    <item>
+      <title>谷歌更新 Chrome 的隐身警告，承认它在“私人”模式下跟踪用户</title>
+      <link>https://www.wired.com/story/chrome-incognito-mode-privacy-warning/</link>
+      <description><![CDATA[随着谷歌解决集体诉讼，该警告被添加到 Chrome Canary 中。]]></description>
+      <guid>https://www.wired.com/story/chrome-incognito-mode-privacy-warning/</guid>
+      <pubDate>Wed, 17 Jan 2024 19:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google Circle 搜索和人工智能支持的多重搜索即将登陆移动设备</title>
       <link>https://www.wired.com/story/google-circle-to-search-ai-powered-multi-search/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[联邦贸易委员会强迫数据经纪人停止出售“敏感位置数据”。但大多数公司可以通过采取最低限度的措施来避免此类审查，从而暴露美国人真正缺乏保护的情况。]]></description>
       <guid>https://www.wired.com/story/ftc-xmode-outlogic-location-data-settlement/</guid>
       <pubDate>Tue, 16 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 OpenAI 的 GPT 商店上启动自定义聊天机器人</title>
-      <link>https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/</link>
-      <description><![CDATA[您现在可以发布您自己训练的 ChatGPT 的定制版本。这些定制 GPT 的市场向公众开放，其运作方式类似于 Apple 的 App Store。]]></description>
-      <guid>https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/</guid>
-      <pubDate>Mon, 15 Jan 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

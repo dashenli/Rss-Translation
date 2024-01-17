@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 17 Jan 2024 18:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 21:13:55 GMT</lastBuildDate>
+    <item>
+      <title>Artifact 的杀手级功能是改写糟糕的头条新闻</title>
+      <link>https://sixcolors.com/post/2024/01/artifacts-killer-feature-was-rewriting-bad-headlines/</link>
+      <description><![CDATA[
+[内容警告：老人对云大喊大叫。]
+因此，Instagram 创始人创建的新闻应用初创公司 Artifact 即将关闭。关于这个问题有很多分析，我同意其中的大部分。…]]></description>
+      <guid>https://sixcolors.com/post/2024/01/artifacts-killer-feature-was-rewriting-bad-headlines/</guid>
+      <pubDate>Wed, 17 Jan 2024 20:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 537：我发现的只是三个 Apple TV 遥控器</title>
+      <link>https://sixcolors.com/podcast/2024/01/clockwise-537-all-i-found-were-three-apple-tv-remotes/</link>
+      <description><![CDATA[App Store 上的外部链接、再见血氧传感器、我们的 Vision Pro 计划以及我们上次购买物理媒体的时间。]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/clockwise-537-all-i-found-were-three-apple-tv-remotes/</guid>
+      <pubDate>Wed, 17 Jan 2024 20:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>如何自动化聚焦模式以将干扰降至最低</title>
       <link>https://sixcolors.com/post/2024/01/how-i-automate-focus-modes-to-keep-distractions-to-a-minimum/</link>
@@ -103,21 +119,6 @@
 在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 已将这款久负盛名的 Mac 文本编辑器更新至 15.0 版。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</guid>
       <pubDate>Tue, 09 Jan 2024 23:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>消除 RSS 中间人</title>
-      <link>https://sixcolors.com/post/2024/01/cutting-out-the-rss-middleman/</link>
-      <description><![CDATA[
-很久以前，当 Google 阅读器走上所有 Google 产品的道路 (RIP) 时，我最终转向了 Feedly，这是一种基于网络的 RSS 服务，与第三方客户端具有良好的集成性。…]]></description>
-      <guid>https://sixcolors.com/post/2024/01/cutting-out-the-rss-middleman/</guid>
-      <pubDate>Mon, 08 Jan 2024 22:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 494：侵犯版权机器</title>
-      <link>https://sixcolors.com/podcast/2024/01/upgrade-494-copyright-violation-machine/</link>
-      <description><![CDATA[Jason 和 Myke 及时回来，错过了 Vision Pro 的发货新闻，但他们仍然有时间赶上他们错过的新闻并预览他们对来年的期望。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/01/upgrade-494-copyright-violation-machine/</guid>
-      <pubDate>Mon, 08 Jan 2024 22:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
