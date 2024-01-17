@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 16 Jan 2024 12:26:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 12:26:10 GMT</lastBuildDate>
+    <item>
+      <title>使用 CSSscroll() 和 view() 实现滚动驱动动画的实用介绍</title>
+      <link>https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/</link>
+      <description><![CDATA[只需使用 CSS，您就可以添加滚动动画，以切换导航栏上的阴影、显示图像、添加滚动讲述、链接轮播元素等等。]]></description>
+      <guid>https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/</guid>
+      <pubDate>Wed, 17 Jan 2024 11:45:44 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 8 个顶级免费和高级 WordPress 插件</title>
       <link>https://tympanus.net/codrops/2024/01/16/top-wordpress-plugins-2024/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在我们最新的综述中探索新鲜的 UI 动画和交互设计。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/23/ui-interactions-animations-roundup-39/</guid>
       <pubDate>Sat, 23 Dec 2023 17:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 23 天</title>
-      <link>https://tympanus.net/codrops/2023/12/23/frontend-rewind-2023-day-23/</link>
-      <description><![CDATA[我们特别日历的第 23 天带来了 2023 年的更多前端亮点。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/23/frontend-rewind-2023-day-23/</guid>
-      <pubDate>Sat, 23 Dec 2023 12:14:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
