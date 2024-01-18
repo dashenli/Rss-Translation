@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 17 Jan 2024 21:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 03:16:40 GMT</lastBuildDate>
+    <item>
+      <title>Open AI“GPT商店”开业，开发者报酬标准是什么？</title>
+      <link>https://wired.jp/article/openai-app-store-chatgpt-everything-app/</link>
+      <description><![CDATA[GPT Store是一个定制的聊天机器人应用商店，于1月10日开业，面向ChatGPT的付费用户开放。然而，Open AI 尚未就如何补偿自定义聊天机器人创建者制定明确的政策。]]></description>
+      <guid>https://wired.jp/article/openai-app-store-chatgpt-everything-app/</guid>
+      <pubDate>Thu, 18 Jan 2024 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星“Galaxy S24”借助谷歌AI模型“Gemini”变得更加智能</title>
+      <link>https://wired.jp/article/samsung-galaxy-unpacked-2024/</link>
+      <description><![CDATA[三星发布了新的智能手机型号：Galaxy S24、Galaxy S24+ 和 Galaxy S24 Ultra。最大的特点是利用了谷歌人工智能模型“Gemini”的多项智能功能。]]></description>
+      <guid>https://wired.jp/article/samsung-galaxy-unpacked-2024/</guid>
+      <pubDate>Thu, 18 Jan 2024 02:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么新型冠状病毒疫情在美国不是热门话题</title>
       <link>https://wired.jp/article/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/</link>
@@ -34,9 +48,9 @@
       <pubDate>Wed, 17 Jan 2024 05:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普在共和党提名首场竞选中大获全胜，但他的支持者散布的阴谋论背后隐藏着什么</title>
+      <title>特朗普在共和党提名首场竞选中大获全胜，但其支持者散布的阴谋论背后隐藏着什么</title>
       <link>https://wired.jp/article/trump-iowa-conspiracies/</link>
-      <description><![CDATA[前总统唐纳德·特朗普在爱荷华州党团会议上以压倒性多数获胜，这是美国共和党总统提名的首次竞选。然而，一些热情的支持者开始抱怨选举中存在“操纵”行为，并担心总统选举可能会充满“阴谋论”。]]></description>
+      <description><![CDATA[前总统唐纳德·特朗普在爱荷华州预选会议上以压倒性多数获胜，这是美国共和党总统提名的首次竞选。然而，一些热情的支持者开始抱怨选举中存在“操纵”行为，并担心总统选举可能会充满“阴谋论”。]]></description>
       <guid>https://wired.jp/article/trump-iowa-conspiracies/</guid>
       <pubDate>Wed, 17 Jan 2024 02:00:00 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>照片中的“CES 2024”：象征着人工智能和“技术创新”主导地位的场景</title>
       <link>https://wired.jp/article/ces-2024-in-photos-alex-welsh/</link>
-      <description><![CDATA[在最近举行的全球最大消费电子产品交易会之一的 CES 2024 上，人工智能 (AI) 主导了今年的一切。我们来看看今年独有的“消费科技革命”的一些照片。]]></description>
+      <description><![CDATA[在最近举行的全球最大的消费电子产品交易会之一的 CES 2024 上，人工智能 (AI) 主导了今年的一切。我们来看看今年独有的“消费科技革命”的一些照片。]]></description>
       <guid>https://wired.jp/article/ces-2024-in-photos-alex-welsh/</guid>
       <pubDate>Mon, 15 Jan 2024 08:30:00 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>【附存档视频】2050年，将会有“未来的部委”和“死后的部委”！？《连线未来》以科幻想象描绘的世界</title>
       <link>https://wired.jp/article/wired-futures-2023-sf/</link>
-      <description><![CDATA[为什么现在谈论后天的未来比谈论太空歌剧更重要？为什么现在要正面讨论死者重生呢？如果你想踏入不确定的未来，就拿起一张名为“SF”的“认知地图”。]]></description>
+      <description><![CDATA[为什么现在谈论后天的未来比谈论太空歌剧更重要？为什么现在要正面讨论死者重生呢？如果你要踏入不确定的未来，请拿起一张名为“SF”的“认知地图”。]]></description>
       <guid>https://wired.jp/article/wired-futures-2023-sf/</guid>
       <pubDate>Mon, 15 Jan 2024 02:00:00 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>即使人工智能不会夺走你的工作，它也可能会阻止你找到工作。</title>
       <link>https://wired.jp/article/hilke-schellmann-algorithm-book-ai-jobs-hiring/</link>
-      <description><![CDATA[自动化人力资源筛选工作（例如审查简历和推荐晋升候选人）的人工智能软件已经出现并开始在人力资源领域实施。我们向分析了这些软件的记者 Hilke Schellmann 询问了求职者如何在当前环境下重新获得控制权。]]></description>
+      <description><![CDATA[自动化人力资源筛选工作（例如审查简历和推荐晋升候选人）的人工智能软件已经出现并开始引入人力资源领域。我们向分析了这些软件的记者 Hilke Schellmann 询问了求职者如何在当前环境下重新获得控制权。]]></description>
       <guid>https://wired.jp/article/hilke-schellmann-algorithm-book-ai-jobs-hiring/</guid>
       <pubDate>Sun, 14 Jan 2024 23:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[迪士尼角色米老鼠的早期版本于 2024 年进入公共领域，自今年年初以来，人工智能生成的图像已大量发布在互联网上。一些创作者表示，他们试图通过他们的作品质疑版权法和生成人工智能工具的现状。]]></description>
       <guid>https://wired.jp/article/mickey-mouse-steamboat-willie-public-domain-artificial-intelligence/</guid>
       <pubDate>Sun, 14 Jan 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CES 2024：您现在可以购买的 25 种最佳小工具，从内置物理键盘的智能手机外壳到小型人工智能设备</title>
-      <link>https://wired.jp/article/ces-2024-gadgets-you-can-buy-right-now/</link>
-      <description><![CDATA[全球最大的消费电子贸易展 CES 2024 上展出了许多有趣的小工具和技术。从内置物理键盘的智能手机保护壳到小型 AI 设备，再到独特的注重隐私的智能手机，以下是在此次活动中亮相并投放市场的 25 款小工具。]]></description>
-      <guid>https://wired.jp/article/ces-2024-gadgets-you-can-buy-right-now/</guid>
-      <pubDate>Sun, 14 Jan 2024 08:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>过度数字化扩大了日常生活的差距——特辑“2024年的世界”</title>
-      <link>https://wired.jp/article/the-inequality-of-becoming-overdigitized/</link>
-      <description><![CDATA[科技创新让我们的生活更加便利，但同时数字鸿沟也会拉大。许多人缺乏基本的数字技能，需要政府的支持来提高他们的技能。]]></description>
-      <guid>https://wired.jp/article/the-inequality-of-becoming-overdigitized/</guid>
-      <pubDate>Sun, 14 Jan 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
