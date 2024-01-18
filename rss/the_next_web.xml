@@ -4,11 +4,18 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Thu, 18 Jan 2024 09:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 12:25:29 GMT</lastBuildDate>
+    <item>
+      <title>DeepL 内部：这家初创公司如何与机器翻译巨头竞争</title>
+      <link>https://thenextweb.com/news/inside-deepl-how-the-startup-is-rivalling-machine-translation-giants</link>
+      <description><![CDATA[人工智能翻译改变了我们的沟通方式，以前所未有的方式打破了语言障碍。到 2026 年，该行业的全球市场规模预计将达到 123 亿美元（113 亿欧元），大大小小的参与者都希望从中获利。其中，总部位于科隆的 DeepL 一直在提高行业标准，甚至与谷歌等科技巨头相比也是如此。翻译和微软翻译。 “我们一直在与大公司竞争。这家初创公司诞生于在线词典 Linguee，自计算机科学家 Jarek Kutylowski 于 2017 年创立以来发展迅速，同时兼任该公司首席执行官。出生于波兰，…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/inside-deepl-how-the-startup-is-rivalling-machine-translation-giants</guid>
+      <pubDate>Thu, 18 Jan 2024 11:34:16 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟押注量子技术以提高其网络安全需求</title>
       <link>https://thenextweb.com/news/eu-quantum-tech-cybersecurity-needs</link>
-      <description><![CDATA[欧盟启动了Nostradamus项目，旨在通过量子技术实现高水平的网络安全。 Nostradamus 由德国电信领导，是一个行业联盟，成员包括学术界以及泰雷兹和 AIT 奥地利理工学院等公司。其使命是帮助创建量子安全通信网络。具体来说，该联盟计划建立量子密钥分发（QKD）测试基础设施，并评估欧洲制造商的QKD设备。量子密钥分发已成为一种基本安全的通信和数据传输方法。这是因为它使用量子光粒子生成随机密钥来加密和解密数据…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧盟启动了诺查丹玛斯项目，旨在通过量子技术实现高水平的网络安全。 Nostradamus 是一个由德国电信领导的行业联盟，成员包括学术界以及泰雷兹 (Thales) 和 AIT 奥地利理工学院等公司。其使命是帮助创建量子安全通信网络。具体来说，该联盟计划建立量子密钥分发（QKD）测试基础设施，并评估欧洲制造商的QKD设备。量子密钥分发已成为一种基本安全的通信和数据传输方法。这是因为它使用量子光粒子生成随机密钥来加密和解密数据…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-quantum-tech-cybersecurity-needs</guid>
       <pubDate>Wed, 17 Jan 2024 17:03:16 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>远程驾驶初创公司 Vay 在美国推出后，德国道路有望实现</title>
       <link>https://thenextweb.com/news/vay-teledriving-service-launches-vegas</link>
-      <description><![CDATA[德国初创公司 Vay 在拉斯维加斯推出了远程驾驶服务 - 欧洲也可以是下一个。此次推出将一种称为“远程驾驶”的概念推向市场。当用户打开 Vay 应用程序并叫车时，一辆电动汽车就会来接他们。到目前为止，Uber 都是如此——除了一个很大的例外：车内没有人。相反，它由远程司机驾驶到接送地点。然后，客户驾驶方向盘前往目的地。一旦他们离开，遥控驾驶仪就会再次控制。这是 Vay 首创的模式。去年，其中之一…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[德国初创公司 Vay 在拉斯维加斯推出了远程驾驶服务 - 欧洲也可以是下一个。此次推出将一种称为“远程驾驶”的概念推向市场。当用户打开 Vay 应用程序并叫车时，一辆电动汽车就会来接他们。到目前为止，Uber 也是如此——除了一个很大的例外：车内没有人。相反，它由远程司机驾驶到接送地点。然后，客户驾驶方向盘前往目的地。一旦他们离开，遥控驾驶仪就会再次控制。这是 Vay 首创的模式。去年，其中之一…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/vay-teledriving-service-launches-vegas</guid>
       <pubDate>Wed, 17 Jan 2024 08:33:40 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>荷兰量子点初创公司投入 500 万欧元用于改善 X 射线成像</title>
       <link>https://thenextweb.com/news/dutch-startup-improve-x-ray-imaging-quantum-dot-tech</link>
-      <description><![CDATA[深度科技初创公司 QDI Systems 已获得 500 万欧元的 A 轮融资，以进一步推进推动其雄心勃勃的使命：利用量子点技术彻底改变 X 射线成像和乳腺 X 光检查。量子点是微观的半导体纳米颗粒，可将光子转换为电子信号。尽管量子点在 20 世纪 80 年代首次被发现，但直到最近才被应用于电子和生物医学行业。 QDI Systems 声称是第一个将该技术应用于 X 射线和乳房 X 光检查等医学成像的公司。这家初创公司于 2019 年在格罗宁根成立，是泽尼克先进材料研究所的衍生产品。这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[深度科技初创公司 QDI Systems 已获得 500 万欧元的 A 轮融资，以进一步推进推进其雄心勃勃的使命：利用量子点技术彻底改变 X 射线成像和乳房 X 光检查。量子点是微观的半导体纳米颗粒，可将光子转换为电子信号。尽管量子点在 20 世纪 80 年代首次被发现，但直到最近才被应用于电子和生物医学行业。 QDI Systems 声称是第一个将该技术应用于 X 射线和乳房 X 光检查等医学成像的公司。这家初创公司于 2019 年在格罗宁根成立，是泽尼克先进材料研究所的衍生产品。这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/dutch-startup-improve-x-ray-imaging-quantum-dot-tech</guid>
       <pubDate>Tue, 16 Jan 2024 15:55:25 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[瑞典电池制造商 Northvolt 已筹集 46 亿欧元，以推动欧洲电池的扩张第一个本土超级工厂并支持公司的电池回收计划。具体来说，这笔资金将帮助扩大瑞典北部 Northvolt Ett 工厂的阴极生产和电池制造。它还将促进 Revolt Ett 的开发，该工厂是邻近的回收工厂，目前正处于调试的最后阶段，目前正在处理第一批材料。该工厂回收的电池级金属的碳足迹比开采的原材料低 70%，这家初创公司表示，这标志着亚洲以外第一个完全集成的循环电池生产设施。 …这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/northvolt-expand-europes-first-homegrown-battery-gigafactory</guid>
       <pubDate>Tue, 16 Jan 2024 13:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>红海航运危机是特斯拉在欧洲最头痛的问题</title>
-      <link>https://thenextweb.com/news/red-sea-crisis-tesla-europe</link>
-      <description><![CDATA[红海局势不断升级，迫使特斯拉在其超级工厂停止生产德国，这是埃隆·马斯克(Elon Musk)的欧洲汽车公司最近遇到的令人头疼的问题。该汽车制造商上周表示，由于“缺乏零部件”，其位于柏林的工厂生产 Model Y 汽车和电池，将于 1 月 29 日至 2 月 11 日暂停生产。特斯拉严重依赖来自中国的零部件来生产电动汽车。其中许多货物通过苏伊士运河运输，这是亚洲和欧洲之间最快的航线。然而，针对货船的袭击不断增加…这个故事在 The Next Web 上继续或者只是阅读有关以下内容的更多报道：特斯拉]]></description>
-      <guid>https://thenextweb.com/news/red-sea-crisis-tesla-europe</guid>
-      <pubDate>Mon, 15 Jan 2024 16:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
