@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 17 Jan 2024 21:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 00:59:04 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 478：Skzzy</title>
+      <link>https://sixcolors.com/podcast/2024/01/the-rebound-478-skizzy/</link>
+      <description><![CDATA[Vision Pros 是 go，一场史诗般的失败和古怪的发音。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/the-rebound-478-skizzy/</guid>
+      <pubDate>Wed, 17 Jan 2024 22:37:19 GMT</pubDate>
+    </item>
     <item>
       <title>Artifact 的杀手级功能是改写糟糕的头条新闻</title>
       <link>https://sixcolors.com/post/2024/01/artifacts-killer-feature-was-rewriting-bad-headlines/</link>
@@ -22,7 +29,7 @@
       <pubDate>Wed, 17 Jan 2024 20:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>如何自动化聚焦模式以将干扰降至最低</title>
+      <title>如何自动化焦点模式以将干扰降至最低</title>
       <link>https://sixcolors.com/post/2024/01/how-i-automate-focus-modes-to-keep-distractions-to-a-minimum/</link>
       <description><![CDATA[ 个人自动化，让我的淋浴聆听不受干扰。
 近年来我发现自己已经成为了一个极简主义者。我喜欢让事情变得简单，更喜欢一目了然的信息，而不是无论我是否愿意都会出现在我面前的警报。…]]></description>
@@ -111,14 +118,6 @@
 我喜欢 Rogue Amoeba 的 Mac 音频实用程序，但在 Apple 芯片时代，安装它们相当困难，因为 Apple 需要多次重新启动并访问恢复模式才能对 Mac 的“安全策略”执行听起来可疑的还原.”…]]></description>
       <guid>https://sixcolors.com/link/2024/01/installing-rogue-amoeba-apps-is-about-to-get-a-lot-easier/</guid>
       <pubDate>Wed, 10 Jan 2024 00:07:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>BBEdit 15 添加 ChatGPT 支持</title>
-      <link>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</link>
-      <description><![CDATA[ChatGPT 在 BBEdit 15 工作表中工作。
-在 BBEdit 收到最后一次重大更新两年半后，Bare Bones Software 已将这款久负盛名的 Mac 文本编辑器更新至 15.0 版。…]]></description>
-      <guid>https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/</guid>
-      <pubDate>Tue, 09 Jan 2024 23:44:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
