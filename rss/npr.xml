@@ -4,7 +4,21 @@
     <title>新闻：美国国家公共广播电台</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 18 Jan 2024 15:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 18:16:19 GMT</lastBuildDate>
+    <item>
+      <title>研究发现，美国有色人种儿童的医疗保健状况普遍较差</title>
+      <link>https://www.npr.org/sections/health-shots/2024/01/18/1225270442/health-inequities-pediatrics-kids-of-color-disparities</link>
+      <description><![CDATA[研究人员发现，从新生儿和初级保健到急诊医学，儿童获得的护理质量低于白人同龄人。差异包括手术后等待时间更长和止痛药物减少。]]></description>
+      <guid>https://www.npr.org/sections/health-shots/2024/01/18/1225270442/health-inequities-pediatrics-kids-of-color-disparities</guid>
+      <pubDate>Thu, 18 Jan 2024 18:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>司法部报告发现针对尤瓦尔迪袭击事件的“连锁失败”</title>
+      <link>https://www.npr.org/2024/01/18/1225340219/uvalde-report</link>
+      <description><![CDATA[司法部的重大事件审查是在枪手杀害德克萨斯州尤瓦尔迪罗布小学 19 名儿童和两名教师一年半后进行的。]]></description>
+      <guid>https://www.npr.org/2024/01/18/1225340219/uvalde-report</guid>
+      <pubDate>Thu, 18 Jan 2024 15:11:35 GMT</pubDate>
+    </item>
     <item>
       <title>第一次简报：巴基斯坦袭击伊朗；缅因州法院维持特朗普投票决定</title>
       <link>https://www.npr.org/2024/01/18/1225320052/up-first-briefing-pakistan-attacks-iran-maine-court-holds-trump-ballot-decision</link>
@@ -22,7 +36,7 @@
     <item>
       <title>共和党全国委员会希望共和党人接受提前投票。特朗普的言论让事情变得艰难</title>
       <link>https://www.npr.org/2024/01/18/1224432298/rnc-wants-republicans-embrace-early-voting-trump-rhetoric-makes-it-tough</link>
-      <description><![CDATA[共和党官员希望共和党选民养成提前投票的习惯。但共和党需要选民克服共和党造成的耻辱。]]></description>
+      <description><![CDATA[共和党官员希望共和党选民养成提前投票的习惯。但共和党需要选民克服共和党制造的耻辱。]]></description>
       <guid>https://www.npr.org/2024/01/18/1224432298/rnc-wants-republicans-embrace-early-voting-trump-rhetoric-makes-it-tough</guid>
       <pubDate>Thu, 18 Jan 2024 10:30:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[缅因州高等法院已发回国务卿将唐纳德·特朗普从总统初选中剔除的决定。法院表示正在等待美国最高法院的介入。]]></description>
       <guid>https://www.npr.org/2024/01/17/1225178547/trump-appeal-maine-14th-amendment</guid>
       <pubDate>Wed, 17 Jan 2024 19:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>几位球迷在 NFL 历史上第四冷的比赛中因体温过低接受治疗</title>
-      <link>https://www.npr.org/2024/01/17/1225209300/chiefs-dolphins-hypothermia-cold</link>
-      <description><![CDATA[在周六酋长队和迈阿密海豚队之间的外卡比赛中，数十人因体温过低或冻伤而接受治疗。]]></description>
-      <guid>https://www.npr.org/2024/01/17/1225209300/chiefs-dolphins-hypothermia-cold</guid>
-      <pubDate>Wed, 17 Jan 2024 19:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体算法如何通过为我们做出决策来“扁平化”我们的文化</title>
-      <link>https://www.npr.org/2024/01/17/1224955473/social-media-algorithm-filterworld</link>
-      <description><![CDATA[Filterworld 作者 Kyle Chayka 研究了决定我们观看、阅读和收听内容的算法。他认为，机器引导的管理让我们成为温顺的消费者。]]></description>
-      <guid>https://www.npr.org/2024/01/17/1224955473/social-media-algorithm-filterworld</guid>
-      <pubDate>Wed, 17 Jan 2024 18:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
