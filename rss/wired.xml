@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 18 Jan 2024 06:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 09:14:34 GMT</lastBuildDate>
+    <item>
+      <title>KEF LSX II LT 无线评论：价格、规格、供货情况</title>
+      <link>https://www.wired.com/review/review-kef-lsx-ii-lt-wireless-active-speaker-system/</link>
+      <description><![CDATA[这个发烧友品牌可能已经通过其新型无线有源扬声器降低了成本。但有了如此广阔、井然有序的声场，您永远不会知道这些都是廉价的 KEF。]]></description>
+      <guid>https://www.wired.com/review/review-kef-lsx-ii-lt-wireless-active-speaker-system/</guid>
+      <pubDate>Thu, 18 Jan 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>拖网船正在从海洋深处打捞古代碳</title>
       <link>https://www.wired.com/story/trawlers-release-co2-into-ocean-atmosphere/</link>
@@ -48,17 +55,17 @@
       <pubDate>Wed, 17 Jan 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么科技工作者放弃大城市前往博伊西</title>
-      <link>https://www.wired.com/story/tech-jobs-boise-idaho/</link>
-      <description><![CDATA[由于大规模裁员和对大型科技公司的幻想破灭，大量年轻人涌入爱达荷州首府，远离沿海大城市申请科技工作。]]></description>
-      <guid>https://www.wired.com/story/tech-jobs-boise-idaho/</guid>
-      <pubDate>Wed, 17 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>大型科技公司不会让你离开。这是一条出路</title>
       <link>https://www.wired.com/story/big-tech-wont-let-you-leave-heres-a-way-out/</link>
       <description><![CDATA[2023 年见证了从 Facebook 到 Google 搜索等平台的“enshittification”。新的退出策略意味着即使你离开竞争对手，平台也必须很好地处理你的数据。]]></description>
       <guid>https://www.wired.com/story/big-tech-wont-let-you-leave-heres-a-way-out/</guid>
+      <pubDate>Wed, 17 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么科技工作者放弃大城市前往博伊西</title>
+      <link>https://www.wired.com/story/tech-jobs-boise-idaho/</link>
+      <description><![CDATA[由于大规模裁员和对大型科技公司的幻想破灭，大量年轻人涌入爱达荷州首府，远离沿海大城市申请科技工作。]]></description>
+      <guid>https://www.wired.com/story/tech-jobs-boise-idaho/</guid>
       <pubDate>Wed, 17 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
@@ -71,7 +78,7 @@
     <item>
       <title>27 岁的密码破译者如何打破比特币匿名的神话</title>
       <link>https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/</link>
-      <description><![CDATA[曾经，毒贩和洗钱者认为加密货币完全无法追踪。随后，一位名叫莎拉·米克尔约翰 (Sarah Meiklejohn) 的研究生证明他们都是错的，并为长达十年的镇压奠定了基础。]]></description>
+      <description><![CDATA[曾经，毒贩和洗钱者认为加密货币完全无法追踪。随后，一位名叫莎拉·米克尔约翰 (Sarah Meiklejohn) 的研究生证明他们全错了，并为长达十年的镇压奠定了基础。]]></description>
       <guid>https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/</guid>
       <pubDate>Wed, 17 Jan 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[艾美奖的大赢家和大输家证明了流媒体对电视以及艾美奖本身的改变有多大。]]></description>
       <guid>https://www.wired.com/story/emmys-streaming-succession-the-bear-hbo-hulu/</guid>
       <pubDate>Tue, 16 Jan 2024 19:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>数百万个 Apple、AMD 和 Qualcomm GPU 的缺陷可能会泄露 AI 数据</title>
-      <link>https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/</link>
-      <description><![CDATA[修补受 LeftoverLocals 漏洞影响的每台设备（包括某些 iPhone、iPad 和 Mac）可能会很困难。]]></description>
-      <guid>https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/</guid>
-      <pubDate>Tue, 16 Jan 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
