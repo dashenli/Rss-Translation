@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 17 Jan 2024 18:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 15:17:14 GMT</lastBuildDate>
+    <item>
+      <title>使用 Velvette 轻松实现 CSS 视图转换</title>
+      <link>https://tympanus.net/codrops/2024/01/19/making-css-view-transitions-easy-with-velvette/</link>
+      <description><![CDATA[了解如何使用 Velvette 轻松实现平滑的 CSS 视图转换，这是一个有用的库，旨在解决常见挑战并增强 Web 应用程序中的用户体验。]]></description>
+      <guid>https://tympanus.net/codrops/2024/01/19/making-css-view-transitions-easy-with-velvette/</guid>
+      <pubDate>Fri, 19 Jan 2024 13:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#805</title>
+      <link>https://tympanus.net/codrops/collective/collective-805/</link>
+      <description><![CDATA[Pikimov * 两种反应 * PocketBase * Tokenami]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-805/</guid>
+      <pubDate>Fri, 19 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 CSSscroll() 和 view() 实现滚动驱动动画的实用介绍</title>
       <link>https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[从我们在 2023 年最后几周收集的最新网站设计中获取灵感。]]></description>
       <guid>https://tympanus.net/codrops/2023/12/29/inspirational-websites-roundup-54/</guid>
       <pubDate>Fri, 29 Dec 2023 13:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端回顾 2023 – 第 24 天</title>
-      <link>https://tympanus.net/codrops/2023/12/24/frontend-rewind-2023-day-24/</link>
-      <description><![CDATA[第 24 天标志着我们节日日历的压轴戏！与我们一起了解 2023 年前端亮点的最后一天。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/24/frontend-rewind-2023-day-24/</guid>
-      <pubDate>Sun, 24 Dec 2023 16:21:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 交互和动画综述 #39</title>
-      <link>https://tympanus.net/codrops/2023/12/23/ui-interactions-animations-roundup-39/</link>
-      <description><![CDATA[在我们最新的综述中探索新鲜的 UI 动画和交互设计。]]></description>
-      <guid>https://tympanus.net/codrops/2023/12/23/ui-interactions-animations-roundup-39/</guid>
-      <pubDate>Sat, 23 Dec 2023 17:57:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
