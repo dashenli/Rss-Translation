@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 19 Jan 2024 03:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 06:19:05 GMT</lastBuildDate>
+    <item>
+      <title>苹果对 Vision Pro 的最新评测：计算的未来和一些奇怪的体验</title>
+      <link>https://wired.jp/article/apple-vision-pro-hands-on-january-2024/</link>
+      <description><![CDATA[Apple Vision Pro 混合现实 (MR) 耳机是苹果多年来首次涉足新类别。虽然最新版本的体验得到了改善，但该设备的设计也让人感觉不太“像苹果”。]]></description>
+      <guid>https://wired.jp/article/apple-vision-pro-hands-on-january-2024/</guid>
+      <pubDate>Fri, 19 Jan 2024 04:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>吉尼斯世界上最古老的狗的认可因怀疑而被暂停。排在第二位的狗主人的心</title>
       <link>https://wired.jp/article/guinness-worlds-oldest-dog-scandal/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>将玩具技术变成月球机器人：将梦想和智慧融入超紧凑可变形月球机器人“SORA-Q”</title>
       <link>https://wired.jp/article/sora-q-lunar-excursion-vehicle/</link>
-      <description><![CDATA[日本宇宙航空研究开发机构 (JAXA) 的宇宙飞船“SLIM”将于 2024 年 1 月 20 日尝试日本首次登月。这艘航天器配备了一个名为 SORA-Q 的超紧凑、可变形月球机器人。这个机器人从球形向左向右扩展，并绕月球表面运行，充满了日本玩具制造的智慧和对下一代的信息。]]></description>
+      <description><![CDATA[日本宇宙航空研究开发机构 (JAXA) 的宇宙飞船“SLIM”将于 2024 年 1 月 20 日尝试日本首次登月。该航天器配备了一个名为 SORA-Q 的超紧凑、可变形月球机器人。这个机器人从球形向左向右扩展，并绕月球表面运行，充满了日本玩具制造的智慧和对下一代的信息。]]></description>
       <guid>https://wired.jp/article/sora-q-lunar-excursion-vehicle/</guid>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
     </item>
@@ -34,9 +41,9 @@
       <pubDate>Thu, 18 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Watch 专利纠纷，苹果恢复销售不带血氧传感器的型号</title>
+      <title>Apple Watch 专利纠纷 苹果恢复销售不带血氧传感器的型号</title>
       <link>https://wired.jp/article/apple-watch-series-9-and-ultra-2-ban-is-back-on/</link>
-      <description><![CDATA[Apple Watch 血氧饱和度 (SpO2) 传感器的专利纠纷导致苹果再次暂停其最新型号在美国的销售。此外，该公司计划通过在美国销售暂时不使用相关技术的产品来应对。]]></description>
+      <description><![CDATA[Apple Watch 血氧饱和度 (SpO2) 传感器的专利纠纷导致苹果再次暂停其最新型号在美国的销售。该公司计划通过在美国销售暂时不使用相关技术的产品来应对。]]></description>
       <guid>https://wired.jp/article/apple-watch-series-9-and-ultra-2-ban-is-back-on/</guid>
       <pubDate>Thu, 18 Jan 2024 06:30:00 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>为什么新型冠状病毒疫情在美国不是热门话题</title>
       <link>https://wired.jp/article/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/</link>
-      <description><![CDATA[目前，美国正在经历自Omicron毒株以来最大规模的新冠病毒疫情。尽管症状轻微时往往会被忽视，但专家表示，采取考虑到整个社会（包括高危人群）健康的感染控制措施非常重要。]]></description>
+      <description><![CDATA[目前，美国正在经历自 Omicron 毒株以来最大规模的新冠病毒感染传播。尽管症状轻微时往往会被忽视，但专家表示，采取考虑到整个社会（包括高危人群）健康的感染控制措施非常重要。]]></description>
       <guid>https://wired.jp/article/theres-a-huge-covid-surge-right-now-you-probably-didnt-notice/</guid>
       <pubDate>Wed, 17 Jan 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>SoundCloud 正在考虑出售自己。艺术家担心未来没有培养人才的社区</title>
       <link>https://wired.jp/article/what-soundcloud-created-can-never-die/</link>
-      <description><![CDATA[据报道，音乐流媒体平台SoundCloud正在寻找收购目标。许多嘻哈艺术家从该服务中脱颖而出，音乐家们表示，该服务社区的损失是无法估量的。]]></description>
+      <description><![CDATA[有消息称音乐流媒体平台 SoundCloud 正在寻找收购目标。许多嘻哈艺术家从该服务中脱颖而出，音乐家们表示，该服务社区的损失是无法估量的。]]></description>
       <guid>https://wired.jp/article/what-soundcloud-created-can-never-die/</guid>
       <pubDate>Wed, 17 Jan 2024 07:00:00 GMT</pubDate>
     </item>
@@ -85,30 +92,23 @@
     <item>
       <title>特朗普在共和党提名首场竞选中大获全胜，但他的支持者散布的阴谋论背后隐藏着什么</title>
       <link>https://wired.jp/article/trump-iowa-conspiracies/</link>
-      <description><![CDATA[前总统唐纳德·特朗普在爱荷华州党团会议上以压倒性多数获胜，这是美国共和党总统提名的首次竞选。然而，一些热情的支持者开始抱怨选举中存在“操纵”行为，引发了人们对总统选举可能充满“阴谋论”的担忧。]]></description>
+      <description><![CDATA[前总统唐纳德·特朗普在爱荷华州预选会议上以压倒性多数获胜，这是美国共和党总统提名的首次竞选。然而，一些热情的支持者开始抱怨选举中存在“操纵”行为，并担心总统选举可能会充满“阴谋论”。]]></description>
       <guid>https://wired.jp/article/trump-iowa-conspiracies/</guid>
       <pubDate>Wed, 17 Jan 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>【Biblio Talk即将举行！ ] 如何编织书籍和思想，为 2024 年的范式转变做好准备：渡边幸太郎（Takram 环境设计师）x 松岛道明（《连线》日文版主编）</title>
       <link>https://wired.jp/article/vol51-bibliotalk/</link>
-      <description><![CDATA[为纪念贴近2024年流行趋势的杂志《WIRED》日文版VOL.51《THE WORLD IN 2024》的发行，由背景设计师渡边光太郎担任嘉宾的年度项目“Biblio Talk”将于1 月 30 日星期二。已决定举行。]]></description>
+      <description><![CDATA[为纪念贴近2024年流行趋势的杂志《WIRED》日文版VOL.51《THE WORLD IN 2024》的发行，由背景设计师渡边光太郎担任嘉宾的年度项目“Biblio Talk”将于1月30日星期二。已决定举行。]]></description>
       <guid>https://wired.jp/article/vol51-bibliotalk/</guid>
       <pubDate>Tue, 16 Jan 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>电化学电池的用例正在急剧扩大 - 特别报道“2024 年的世界”</title>
       <link>https://wired.jp/article/batteries-spark-a-revolution/</link>
-      <description><![CDATA[消除安全性、成本和多功能性等各种瓶颈的电池的实施迫在眉睫。真正突破的关键在于灵活性。]]></description>
+      <description><![CDATA[消除安全性、成本和多功能性等各种瓶颈的电池的实施迫在眉睫。真正突破的关键是灵活性。]]></description>
       <guid>https://wired.jp/article/batteries-spark-a-revolution/</guid>
       <pubDate>Tue, 16 Jan 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片中的“CES 2024”：象征着人工智能和“技术创新”主导地位的场景</title>
-      <link>https://wired.jp/article/ces-2024-in-photos-alex-welsh/</link>
-      <description><![CDATA[在最近举行的全球最大消费电子产品交易会之一的 CES 2024 上，人工智能 (AI) 主导了今年的一切。我们来看看今年独有的“消费科技革命”的一些照片。]]></description>
-      <guid>https://wired.jp/article/ces-2024-in-photos-alex-welsh/</guid>
-      <pubDate>Mon, 15 Jan 2024 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
