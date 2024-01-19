@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 18 Jan 2024 21:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 00:59:28 GMT</lastBuildDate>
+    <item>
+      <title>将玩具技术变成月球机器人：将梦想和智慧融入超紧凑可变形月球机器人“SORA-Q”</title>
+      <link>https://wired.jp/article/sora-q-lunar-excursion-vehicle/</link>
+      <description><![CDATA[日本宇宙航空研究开发机构 (JAXA) 的宇宙飞船“SLIM”将于 2024 年 1 月 20 日尝试日本首次登月。该航天器配备了一个名为 SORA-Q 的超紧凑、可变形月球机器人。这个机器人从球形向左向右扩展，并绕月球表面运行，充满了日本玩具制造的智慧和对下一代的信息。]]></description>
+      <guid>https://wired.jp/article/sora-q-lunar-excursion-vehicle/</guid>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 OpenAI 的“GPT Store”上发布定制的聊天机器人</title>
       <link>https://wired.jp/article/how-to-launch-custom-chatbot-openai-gpt-store/</link>
@@ -20,9 +27,9 @@
       <pubDate>Thu, 18 Jan 2024 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Open AI“GPT商店”开业，开发者报酬标准是什么？</title>
+      <title>OpenAI“GPT商店”开业，给开发者的报酬标准是什么？</title>
       <link>https://wired.jp/article/openai-app-store-chatgpt-everything-app/</link>
-      <description><![CDATA[GPT Store是一个定制的聊天机器人应用商店，于1月10日开业，面向ChatGPT的付费用户开放。然而，Open AI 尚未就如何补偿自定义聊天机器人创建者制定明确的政策。]]></description>
+      <description><![CDATA[GPT Store是一个定制的聊天机器人应用商店，于1月10日开业，面向ChatGPT的付费用户开放。然而，OpenAI 尚未就如何补偿自定义聊天机器人创建者制定明确的政策。]]></description>
       <guid>https://wired.jp/article/openai-app-store-chatgpt-everything-app/</guid>
       <pubDate>Thu, 18 Jan 2024 02:45:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[为什么现在谈论后天的未来比谈论太空歌剧更重要？为什么现在要正面讨论死者重生呢？如果你要踏入不确定的未来，请拿起一张名为“SF”的“认知地图”。]]></description>
       <guid>https://wired.jp/article/wired-futures-2023-sf/</guid>
       <pubDate>Mon, 15 Jan 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用无人机的消防救援服务将显着改善森林火灾响应——专题“2024年的世界”</title>
-      <link>https://wired.jp/article/emergency-service-drones/</link>
-      <description><![CDATA[无人机正在加入气候引发的野火救援队伍。发出预警并分析情况。他们可以找到幸存者，甚至扑灭火灾。]]></description>
-      <guid>https://wired.jp/article/emergency-service-drones/</guid>
-      <pubDate>Mon, 15 Jan 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
