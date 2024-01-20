@@ -3,8 +3,25 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 19 Jan 2024 21:13:18 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Sat, 20 Jan 2024 00:58:38 GMT</lastBuildDate>
+    <item>
+      <title>纽约时报拼图团队内部↦</title>
+      <link>https://sixcolors.com/link/2024/01/inside-the-new-york-timess-puzzle-team/</link>
+      <description><![CDATA[《名利场》的 Charlotte Klein 上个月发表的一篇关于《纽约时报》拼图团队的好文章。甚至还有 Apple 连接：
+&lt;块引用&gt;
+  报纸内部甚至更早的时候就讨论过扩展到游戏领域的可能性。…]]></description>
+      <guid>https://sixcolors.com/link/2024/01/inside-the-new-york-timess-puzzle-team/</guid>
+      <pubDate>Fri, 19 Jan 2024 22:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周苹果：苹果给予和苹果拿走（会员帖子）</title>
+      <link>https://sixcolors.com/member/2024/01/this-week-in-apple-apple-giveth-and-apple-taketh-away/</link>
+      <description><![CDATA[
+新的一年一定会如火如荼地进行，因为本周有真正的苹果新闻。我们做出了一个史诗般的决定，你们中的一些幸运者购买了 Vision Pro。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+      <guid>https://sixcolors.com/member/2024/01/this-week-in-apple-apple-giveth-and-apple-taketh-away/</guid>
+      <pubDate>Fri, 19 Jan 2024 22:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/sponsor/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-11/</link>
@@ -103,25 +120,6 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <description><![CDATA[Vision Pro 订单将于本周五进行，产品将在几周内发货。我们详细分析了苹果的发布策略以及我们对这一消息的反应。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/upgrade-495-nothing-can-possibly-go-wrong/</guid>
       <pubDate>Mon, 15 Jan 2024 22:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
-      <link>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-10/</link>
-      <description><![CDATA[
-您想在 iPhone、iPad 和 Mac 上的 Safari 浏览器中屏蔽所有 YouTube 广告吗？
-然后下载Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-youtube-ad-blocker-for-safari-10/</guid>
-      <pubDate>Mon, 15 Jan 2024 17:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周苹果：你明白了吗？ （会员帖）</title>
-      <link>https://sixcolors.com/member/2024/01/this-week-in-apple-are-you-getting-it/</link>
-      <description><![CDATA[
-苹果达到了 Vision Pro 目标，但微软仍然名列前茅。苹果公司充满了借口。
-我们开始了，Vision Pro
-如果你上周一直住在洞穴里……好吧，这对于 2024 年来说听起来确实不错。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
-      <guid>https://sixcolors.com/member/2024/01/this-week-in-apple-are-you-getting-it/</guid>
-      <pubDate>Fri, 12 Jan 2024 22:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
