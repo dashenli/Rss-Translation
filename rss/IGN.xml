@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sat, 20 Jan 2024 00:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 03:13:57 GMT</lastBuildDate>
+    <item>
+      <title>另一个密码：回忆回顾</title>
+      <link>https://www.ign.com/articles/another-code-recollection-review</link>
+      <description><![CDATA[任天堂重制版，挑战较少，但魅力十足。]]></description>
+      <guid>https://www.ign.com/articles/another-code-recollection-review</guid>
+      <pubDate>Sat, 20 Jan 2024 01:57:48 GMT</pubDate>
+    </item>
     <item>
       <title>骷髅会：我们所知道的关于育碧海盗角色扮演游戏的一切</title>
       <link>https://www.ign.com/articles/skull-and-bones-release-date-gameplay-trailer-news</link>
@@ -36,7 +43,7 @@
     <item>
       <title>《龙之信条 2》创作者解释了团队如何制作其庞大地图</title>
       <link>https://www.ign.com/articles/dragons-dogma-2-creator-explains-how-the-team-crafted-its-massive-map</link>
-      <description><![CDATA[我们已经知道《龙之教条 2》将拥有一张巨大的地图，其大小是原版游戏的四倍。但在与系列创作者伊津野秀明交谈后，我们现在对这张地图是如何创建的以及团队如何在其中填充有趣的事情有了更多了解。]]></description>
+      <description><![CDATA[我们已经知道《龙之信条 2》将拥有一张巨大的地图，其大小是原版游戏的四倍。但在与系列创作者伊津野秀明交谈后，我们现在对这张地图是如何创建的以及团队如何在其中填充有趣的事情有了更多了解。]]></description>
       <guid>https://www.ign.com/articles/dragons-dogma-2-creator-explains-how-the-team-crafted-its-massive-map</guid>
       <pubDate>Fri, 19 Jan 2024 21:02:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Bungie 宣布《命运 2》很快将允许玩家改变角色的外观，这是一项长期以来在《命运》或《命运 2》中从未提供过的功能。]]></description>
       <guid>https://www.ign.com/articles/finally-destiny-2-will-let-you-change-your-characters-appearance</guid>
       <pubDate>Fri, 19 Jan 2024 14:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 上的 Palworld 没有专用服务器，将合作模式限制为 2-4 名玩家，而 Steam 最多可容纳 32 名玩家</title>
-      <link>https://www.ign.com/articles/palworld-on-xbox-doesnt-have-dedicated-servers-limiting-co-op-to-2-4-players-while-steam-gets-up-to-32-players</link>
-      <description><![CDATA[《Pokémon With Guns》生存游戏 Palworld 目前在 Steam 上火爆，玩家可以创建并加入专用服务器，最多允许 32 名玩家在同一个世界中玩游戏并一起创建公会。然而在 Xbox 上，合作模式则受到更多限制。]]></description>
-      <guid>https://www.ign.com/articles/palworld-on-xbox-doesnt-have-dedicated-servers-limiting-co-op-to-2-4-players-while-steam-gets-up-to-32-players</guid>
-      <pubDate>Fri, 19 Jan 2024 14:00:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
