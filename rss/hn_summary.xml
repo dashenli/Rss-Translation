@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 05:34:59 GMT</lastBuildDate>
     <item>
-      <title>Meticulous 是一家总部位于伦敦的 YC 公司，其使命是彻底改变软件开发。</title>
-      <link>https://t.me/hn_summary/70224</link>
-      <description><![CDATA[Meticulous (YC S21) 正在招聘人员以彻底改变测试 
-Meticulous 是一家总部位于伦敦的 YC 公司，其使命是彻底改变软件开发。他们开发了一种工具，可以让开发人员零费力地捕获 Web 应用程序中的 UI 错误。通过在网站上插入一行 JavaScript，Meticulous 记录了数千个真实用户会话，在 PR 的头和基础提交上重放它们，截取屏幕截图，并对它们进行比较以捕获视觉回归。该工具还可以捕获逻辑和行为问题，并采用新颖的技术来消除碎片。 Meticulous 得到了硅谷知名人士的支持，并希望建立一支世界一流的工程师团队来进一步开发他们的技术。]]></description>
-      <guid>https://t.me/hn_summary/70224</guid>
-      <pubDate>Sun, 21 Jan 2024 21:02:56 GMT</pubDate>
+      <title>[媒体]总部位于南加州的流行快餐连锁店 In-N-Out 宣布 [...]</title>
+      <link>https://t.me/hn_summary/70279</link>
+      <description><![CDATA[以犯罪为由，In-N-Out 宣布关闭奥克兰餐厅&lt; /a&gt;
+由于持续存在的犯罪问题，总部位于南加州的流行快餐连锁店 In-N-Out 宣布关闭其奥克兰餐厅。这家餐厅位于奥克兰国际机场附近，将于 3 月 24 日关闭。In-N-Out 首席运营官 Denny Warnick 在一份声明中解释说，尽管该餐厅盈利，但顾客和员工的安全和福祉是他们的首要任务优先事项。关闭餐厅的决定将对当地社区和员工产生负面影响，但 In-N-Out 将继续通过慈善捐赠支持奥克兰。]]></description>
+      <guid>https://t.me/hn_summary/70279</guid>
+      <pubDate>Mon, 22 Jan 2024 05:34:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 密码学家在实现完全私密的互联网搜索方面取得了重大进展 [...]</title>
-      <link>https://t.me/hn_summary/70223</link>
-      <description><![CDATA[密码学家更接近实现完全私密的互联网搜索
-根据 Wired 上的一篇文章，密码学家在实现完全私密的互联网搜索方面取得了重大进展.com。挑战在于从公共数据库访问信息而不透露已访问的内容。这个问题被称为隐私信息检索，自 20 世纪 90 年代以来一直是研究的焦点。现在，三名研究人员开发了一种私人信息检索版本，可以为真正的私人搜索铺平道路。该工作在最近的一次研讨会上获得了最佳论文奖，并被专家描述为“里程碑式的成果”。研究人员能够克服每次搜索过程中扫描整个数据库的障碍，使过程更加高效。]]></description>
-      <guid>https://t.me/hn_summary/70223</guid>
-      <pubDate>Sun, 21 Jan 2024 21:01:50 GMT</pubDate>
+      <title>[媒体] 为什么 Bluesky 不是点对点网络？</title>
+      <link>https://t.me/hn_summary/70278</link>
+      <description><![CDATA[为什么 Bluesky 不是一个点对点网络？&lt; /a&gt;
+作者讨论了 Bluesky 背后的决策过程及其从点对点 (P2P) 网络的演变。他们提到了 2014 年左右出现的各种 P2P 项目，例如 IPFS、Secure Scuttlebutt、Dat 和 WebTorrent，每个项目都有自己独特的数据结构。作者还分享了他们的个人时间表，包括他们参与 SSB 和 Beaker 浏览器的开发。他们强调了 P2P 网络的优势，例如托管敏捷性和加密结构，但也承认他们面临的挑战，例如介绍、数据规模、多设备同步和资源管理。作者解释了 Bluesky 如何旨在保留 P2P 网络的优势，同时采用利用大型服务进行聚合的混合模型。他们将此模型称为“互连”或加密数据网络。作者还提到了使用封闭区块链进行多组织联盟运营。]]></description>
+      <guid>https://t.me/hn_summary/70278</guid>
+      <pubDate>Mon, 22 Jan 2024 05:22:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国黑客一直在利用 VMware vCenter Serv 中的一个严重漏洞 [...]</title>
-      <link>https://t.me/hn_summary/70222</link>
-      <description><![CDATA[中国黑客利用VMware漏洞作为零日漏洞长达两年
-至少两年来，中国黑客一直在利用 VMware vCenter Server 软件中的一个关键漏洞作为零日漏洞。该漏洞名为 CVE-2023-34048，已于 10 月修复，但中国网络间谍组织 UNC3886 自 2021 年底以来一直在使用该漏洞。黑客利用该漏洞入侵目标的 vCenter 服务器，并在 ESXi 主机上部署后门。他们还利用另一个 VMware 缺陷 CVE-2023-20867 来提升权限并从来宾虚拟机中窃取文件。这些攻击是 UNC3886 先前报道的活动的一部分，该活动针对国防、政府、电信和技术部门的组织。]]></description>
-      <guid>https://t.me/hn_summary/70222</guid>
-      <pubDate>Sun, 21 Jan 2024 20:58:41 GMT</pubDate>
+      <title>尽管.github.io 上的 CSS3D 云实验展示了类似体积 3D cl 的创建 [...]</title>
+      <link>https://t.me/hn_summary/70277</link>
+      <description><![CDATA[CSS3D 云
+spite.github.io 上的 CSS3D 云实验展示了使用 CSS3 3D 变换和一些 Javascript 创建类似 3D 的体积云。该教程允许用户通过移动鼠标来旋转云，并使用鼠标滚轮来放大和缩小。按空格键会生成新的云。该实验适用于 Firefox（在 Nightly 上速度更快）、Chrome 和 Safari。用户可以选择一个或多个纹理来创建云，然后单击“生成”进行更新。该实验的代码可在 GitHub 上找到，其灵感来自 Mr.doob 的 WebGL 云和 Mark J. Harris 的游戏实时云渲染。使用的字体是来自 Google Web Fonts 的 Open Sans 和 Lato。]]></description>
+      <guid>https://t.me/hn_summary/70277</guid>
+      <pubDate>Mon, 22 Jan 2024 05:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Facebook 首席执行官马克·扎克伯格 (Mark Zuckerberg) 正在将 Meta 的重点转向构建人工 [...]</title>
-      <link>https://t.me/hn_summary/70221</link>
-      <description><![CDATA[扎克伯格希望打造通用人工智能 350K Nvidia H100 GPU
-Facebook 首席执行官马克·扎克伯格正在将 Meta 的重点转向构建通用人工智能 (AGI)。为了实现这一目标，扎克伯格的目标是在今年年底前购买 35 万个或更多 Nvidia H100 GPU。 OpenAI还表示有意筹集资金建设AI加速器芯片工厂。扎克伯格计划训练大型语言模型 Llama 3，并公开发布。 Meta 的基础人工智能研究和生成人工智能团队将合作开发 AGI 所需的功能。与其他组织不同，Meta 打算与其他开发者分享其成果和模型。扎克伯格相信AGI将为元宇宙和VR技术的发展做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/70221</guid>
-      <pubDate>Sun, 21 Jan 2024 20:53:34 GMT</pubDate>
+      <title>[媒体]OpenAI 已暂停由 ChatGPT 驱动的聊天机器人 Dean.Bot 的开发人员，以阻碍 [...]</title>
+      <link>https://t.me/hn_summary/70276</link>
+      <description><![CDATA[OpenAI 因冒充总统候选人的机器人而暂停开发人员&lt; br /&gt;
+OpenAI 已暂停由 ChatGPT 提供支持的聊天机器人 Dean.Bot 的开发人员，原因是其冒充民主党总统候选人迪恩·菲利普斯 (Dean Phillips)。该机器人是由人工智能初创公司 Delphi 为支持 Phillips 的超级 PAC We Deserve Better 创建的。尽管该机器人包含免责声明，但 OpenAI 认为对其技术的这种使用违反了其政策。此次暂停是在 OpenAI 的博客文章概述了防止在 2024 年选举中滥用其技术的措施之后不久发生的，特别提到了冒充候选人的聊天机器人。 Delphi 最初从机器人中删除了 ChatGPT，但最终在 OpenAI 的干预下将其完全删除。]]></description>
+      <guid>https://t.me/hn_summary/70276</guid>
+      <pubDate>Mon, 22 Jan 2024 04:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容是网站上一篇题为“Datalog in 100lines of JavaScript”的文章 [...]</title>
-      <link>https://t.me/hn_summary/70220</link>
-      <description><![CDATA[100行JavaScript数据记录（2022）&lt; br /&gt;
-网页内容是网站 www.instantdb.com。作者讨论了查询引擎及其功能，然后解释了如何使用 Datalog（一种基于逻辑的查询语言）从头开始构建查询引擎。作者介绍了 Datalog 的基础知识，包括如何使用三元组将数据存储在 Datalog 数据库中、如何通过模式匹配执行查询以及如何在 Datalog 中进行联接。作者还提供了示例和代码片段来说明这些概念。内容内容丰富，为初学者提供了有关数据记录和查询引擎的介绍。 （根据故事文本的 37% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/70220</guid>
-      <pubDate>Sun, 21 Jan 2024 20:53:29 GMT</pubDate>
+      <title>[媒体]作者讨论了通用人工智能（AGI）的概念及其潜力 [...]</title>
+      <link>https://t.me/hn_summary/70275</link>
+      <description><![CDATA[自动驾驶作为 AGI 的案例研究&lt; br /&gt;
+作者讨论了通用人工智能（AGI）的概念及其对社会的潜在影响。他们认为，自动驾驶技术是一个很好的案例研究，可以帮助我们了解自动化程度不断提高的动态以及通用人工智能可能是什么样子。作者重点介绍了自动驾驶行业自动化的逐步进展，从部分自动化到完全自动化。他们还讨论了自动驾驶技术的社会反应、对就业的经济影响以及行业的竞争格局。作者认为，通用人工智能可能会遵循类似的渐进和适应模式，而不是超级智能的突然爆发。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70275</guid>
+      <pubDate>Mon, 22 Jan 2024 04:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>Datomic 团队宣布推出 Datomic Local，这是 Datomic t 的轻量级版本 [...]</title>
-      <link>https://t.me/hn_summary/70219</link>
-      <description><![CDATA[Datomic Local
-Datomic 团队宣布推出 Datomic Local，这是 Datomic 的轻量级版本，可嵌入和可再分发。它由本地存储支持并支持客户端 API。 Datomic Local 专为想要编写依赖于 Datomic 的库的用户、想要嵌入式数据库的用户、想要本地开发的云用户以及已经使用 dev-local 的用户而设计。它取代了 dev-local，并可在 Apache License 2.0 下使用。 Datomic Local 不是开源的，但二进制文件是根据 Apache 2.0 许可证发布的。]]></description>
-      <guid>https://t.me/hn_summary/70219</guid>
-      <pubDate>Sun, 21 Jan 2024 20:52:23 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了特拉法加广场上乔治华盛顿雕像的存在[...]</title>
+      <link>https://t.me/hn_summary/70274</link>
+      <description><![CDATA[为什么伦敦的乔治·华盛顿雕像不接触英国的土地
+这篇文章讨论了伦敦特拉法加广场上乔治·华盛顿雕像的存在。这座雕像是托马斯·杰斐逊 (Thomas Jefferson) 委托制作的雕像的复制品，于 1921 年被赠送给英国。它被放置在皇室拥有的广场上，并​​在从弗吉尼亚州运来的土壤上建造，以确保华盛顿不会踏上这片土地。又是英国的土地。与普遍看法相反，华盛顿实际上受到英国人的尊重，包括国王乔治三世本人，称他为“那个时代最伟大的人”。文章还提到，华盛顿是在伦敦拥有雕像或纪念碑的六位美国总统之一。]]></description>
+      <guid>https://t.me/hn_summary/70274</guid>
+      <pubDate>Mon, 22 Jan 2024 04:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Gitblog 是一种独特且创新的博客解决方案，允许用户利用 GitH [...]</title>
-      <link>https://t.me/hn_summary/70218</link>
-      <description><![CDATA[显示 HN：使用 GitHub 问题作为博客
-Gitblog 是一种独特且创新的博客解决方案，允许用户利用 GitHub 存储库的问题作为他们的博客。使用 Gitblog，您可以在短短几分钟内轻松创建和管理您的博客。该平台轻量、简单且功能强大，使其成为各种专业水平的博主的理想选择。更好的是，您可以免费开始使用，无需信用卡。因此，如果您正在寻找一种巧妙且高效的方式来构建博客，请尝试一下 Gitblog。]]></description>
-      <guid>https://t.me/hn_summary/70218</guid>
-      <pubDate>Sun, 21 Jan 2024 20:50:17 GMT</pubDate>
+      <title>[媒体]文章认为，风险投资对于独立游戏的成功并不是必要的 [...]</title>
+      <link>https://t.me/hn_summary/70273</link>
+      <description><![CDATA[游戏不需要风险资本（或者：给口袋妖怪枪，不是投资意向书）
+文章认为，风险资本对于独立游戏开发商的成功并不是必要的。相反，重点应该放在进入市场策略上，例如与发行商合作、众筹和抢先发布。这篇文章重点介绍了日本工作室 Pocket Pair 的成功，该工作室在没有风险投资支持的情况下已售出数百万份游戏 Palworld。它还提到了其他成功的独立游戏开发商，他们在没有风险投资资金的情况下取得了巨大的成功。该文章质疑风险投资公司是否具备识别和支持最佳游戏工作室的专业知识，并建议发行商和直接面向消费者的方法对游戏开发者来说更​​容易获得和受益。]]></description>
+      <guid>https://t.me/hn_summary/70273</guid>
+      <pubDate>Mon, 22 Jan 2024 04:19:28 GMT</pubDate>
     </item>
     <item>
-      <title>Tietoevry 是瑞典的一个数据中心，遭遇了勒索软件攻击，该攻击正在影响 [...]</title>
-      <link>https://t.me/hn_summary/70217</link>
-      <description><![CDATA[勒索软件攻击影响了 Tietoevry 向瑞典部分客户提供的服务 
-瑞典的数据中心 Tietoevry 遭遇勒索软件攻击，影响了向部分客户提供的服务。该公司正在立即采取行动调查并解决这一问题，但尚不清楚这一过程需要多长时间。 Tietoevry 对给您带来的任何不便表示歉意，并正在与地方当局合作解决该问题。欲了解更多信息，客户可以联系 Tietoevry 的新闻台。]]></description>
-      <guid>https://t.me/hn_summary/70217</guid>
-      <pubDate>Sun, 21 Jan 2024 20:50:10 GMT</pubDate>
+      <title>[媒体]作者认为 Substack 不会让作家变得富有，而且其商业模式是 [...]</title>
+      <link>https://t.me/hn_summary/70272</link>
+      <description><![CDATA[Substack 不会让你致富
+作者认为 Substack 不会让作家致富，而且这种商业模式存在缺陷。他们解释说，虽然他们对其他作者所说的内容感兴趣，但他们不愿意为此付费。他们认为有太多同样有趣的免费内容。作者呼吁 Substack 的收入透明化，并表示大多数作家的收入只能过上中产阶级的生活。他们还讨论了为 Substack 作家提供类似杂志的订阅模式的潜力。作者将 Substack 作家与演员的收入进行了比较，并强调了杂志行业作家面临的挑战。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70272</guid>
+      <pubDate>Mon, 22 Jan 2024 04:19:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了与 [...] 前董事弗朗西斯·柯林斯 (Francis Collins) 的对话。</title>
-      <link>https://t.me/hn_summary/70216</link>
-      <description><![CDATA[弗朗西斯·柯林斯对流行病的道歉
-网络内容讨论了与美国国立卫生研究院（NIH）前所长弗朗西斯·柯林斯的对话，他在对话中承认高级公共卫生官员在大流行期间的狭隘和短视。柯林斯承认，他们没有考虑自己的决定对大城市以外社区的影响，并赋予阻止疾病无限的价值，而忽视了对人们生活、经济和教育的影响。文章强调了政府封锁措施造成的损害，包括失业、小企业倒闭、精神疾病恶化、癌症漏诊以及学校长期停课对儿童的负面影响。作者强调了在政策制定中考虑权衡和平衡成本与收益的重要性，并批评了政治家和专家在大流行期间未能这样做。文章最后承认柯林斯承认了自己的错误，并呼吁他继续发声并警告其他科学家不要落入同样的陷阱。]]></description>
-      <guid>https://t.me/hn_summary/70216</guid>
-      <pubDate>Sun, 21 Jan 2024 20:40:00 GMT</pubDate>
+      <title>[媒体] Panic Prompt 3 是一款旨在取悦用户的终端应用程序。</title>
+      <link>https://t.me/hn_summary/70271</link>
+      <description><![CDATA[紧急提示3
+Panic Prompt 3 是一款旨在取悦用户的终端应用程序。自 2011 年以来，它一直是一款深受喜爱的 iOS 应用程序，获得了满意用户的高度评价。购买 Prompt 后，您将获得移动应用程序和桌面应用程序。 Prompt 3 中的文本引擎经过重新设计，使滚动和终端仿真速度提高了 10 倍。它还为稳定的终端提供了新的连接类型、快速插入常用命令和文本片段的能力、自定义选项以及紧急同步以在设备之间轻松同步服务器、密钥和密码。它还提供改进的安全功能、用于访问公司服务器的跳转主机、改进的模拟、鼠标支持和深色图标。]]></description>
+      <guid>https://t.me/hn_summary/70271</guid>
+      <pubDate>Mon, 22 Jan 2024 04:18:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：作者声称谷歌缺乏有远见的领导者，并且有一种普遍的感觉 [...]</title>
-      <link>https://t.me/hn_summary/70215</link>
-      <description><![CDATA[Google 没有有远见的领导者，虚无主义意识普遍
-摘要：作者声称谷歌缺乏有远见的领导者，虚无主义意识普遍存在。内容表明出了问题，但鼓励读者保持乐观并再次尝试。]]></description>
-      <guid>https://t.me/hn_summary/70215</guid>
-      <pubDate>Sun, 21 Jan 2024 20:38:54 GMT</pubDate>
+      <title>问 HN：这种数学教育理念有意义吗？</title>
+      <link>https://t.me/hn_summary/70270</link>
+      <description><![CDATA[问HN：这个数学教育理念有意义吗？
+news.ycombinator.com 上这篇文章的作者是寻求有关数学教育理念的建议。他们想知道是否有适合 10 多年前学习数学科目并需要复习和更多铺垫的人的数学课程或课程。作者提到，他们能够将线性代数和微积分之间的一些点联系起来，但担心他们可能遗漏了一些点。他们向社区询问是否存在这样的课程或课程。]]></description>
+      <guid>https://t.me/hn_summary/70270</guid>
+      <pubDate>Mon, 22 Jan 2024 03:54:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
