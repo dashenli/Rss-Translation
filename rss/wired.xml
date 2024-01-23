@@ -4,11 +4,11 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 23 Jan 2024 06:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 09:14:13 GMT</lastBuildDate>
     <item>
       <title>《Palworld》：《带枪的神奇宝贝》如何一夜爆红</title>
       <link>https://www.wired.com/story/palworld-pokemon-with-guns-steam-success/</link>
-      <description><![CDATA[Pocket Pair 的 Palworld 乘着互联网推动的热潮，售出了 500 万款游戏，并在 Twitch 上进行了数千次直播。]]></description>
+      <description><![CDATA[Pocket Pair 的 Palworld 借助互联网推动的热潮，售出了 500 万款游戏，并在 Twitch 上进行了数千次直播。]]></description>
       <guid>https://www.wired.com/story/palworld-pokemon-with-guns-steam-success/</guid>
       <pubDate>Mon, 22 Jan 2024 23:27:24 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>如何整理您的技术并清理随机的电缆盒</title>
       <link>https://www.wired.com/story/how-to-tidy-your-tech/</link>
-      <description><![CDATA[从 2012 年开始，您将不再需要那个奇怪的充电器。这些整理您的设备的技巧将帮助您整理您的电缆收藏，整理您的小工具，并扔掉老化的设备。]]></description>
+      <description><![CDATA[从 2012 年开始，您将不再需要那个奇怪的充电器。这些整理您的设备的技巧将帮助您整理您的电缆收藏、整理您的小工具并扔掉老化的设备。]]></description>
       <guid>https://www.wired.com/story/how-to-tidy-your-tech/</guid>
       <pubDate>Mon, 22 Jan 2024 14:00:00 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>科学家将测试一种寻找癌症的 mRNA 疗法</title>
       <link>https://www.wired.com/story/cancer-hunting-mrna-programming-treatment-test/</link>
-      <description><![CDATA[Strand Therapeutics 找到了一种在某些组织中打开和关闭该分子的方法，以更精确地治疗肿瘤。]]></description>
+      <description><![CDATA[Strand Therapeutics 已经找到了一种在某些组织中打开和关闭该分子的方法，以更精确地治疗肿瘤。]]></description>
       <guid>https://www.wired.com/story/cancer-hunting-mrna-programming-treatment-test/</guid>
       <pubDate>Mon, 22 Jan 2024 12:00:00 GMT</pubDate>
     </item>
@@ -97,17 +97,17 @@
       <pubDate>Sun, 21 Jan 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>密码学家距离实现完全私密的互联网搜索又近了一步</title>
-      <link>https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/</link>
-      <description><![CDATA[三位研究人员找到了一种长期寻求的方法来秘密地从大型数据库中提取信息。如果可以简化流程，完全私密的浏览就成为可能。]]></description>
-      <guid>https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/</guid>
-      <pubDate>Sun, 21 Jan 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>1More Comfobuds Mini 评测：时尚的设计，参差不齐的执行</title>
       <link>https://www.wired.com/review/1more-comfobuds-mini/</link>
       <description><![CDATA[1More Comfobuds Mini 极其小巧，声音平淡，电池寿命低于平均水平。]]></description>
       <guid>https://www.wired.com/review/1more-comfobuds-mini/</guid>
+      <pubDate>Sun, 21 Jan 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码学家距离实现完全私密的互联网搜索又近了一步</title>
+      <link>https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/</link>
+      <description><![CDATA[三位研究人员找到了一种长期寻求的方法来秘密地从大型数据库中提取信息。如果可以简化流程，完全私密的浏览就成为可能。]]></description>
+      <guid>https://www.wired.com/story/cryptographers-fully-private-internet-searches-cybersecurity-databases-privacy/</guid>
       <pubDate>Sun, 21 Jan 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
