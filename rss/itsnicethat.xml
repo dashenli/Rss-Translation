@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Tue, 23 Jan 2024 15:16:28 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Tue, 23 Jan 2024 18:19:22 GMT</lastBuildDate>
+    <item>
+      <title>活动部件和皮影戏：看看 Pentawards 2024 年包装设计趋势</title>
+      <link>https://www.itsnicethat.com/news/pentawards-report-2024-graphic-design-230124</link>
+      <description><![CDATA[今年的报告看到了环保设计的创新方法和更高的消费者透明度。]]></description>
+      <guid>https://www.itsnicethat.com/news/pentawards-report-2024-graphic-design-230124</guid>
+      <pubDate>Tue, 23 Jan 2024 15:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>让·奥贝坦 (Jean Aubertin) 充满渴望的水彩画让时间被搁置</title>
       <link>https://www.itsnicethat.com/articles/jean-aubertin-discover-illustration-230124</link>
@@ -29,7 +36,7 @@
     <item>
       <title>专辑封面库追溯了尼日利亚 70 多年的专辑设计和视觉文化</title>
       <link>https://www.itsnicethat.com/features/wuruwuru-album-cover-bank-graphic-design-art-spotlight-220124</link>
-      <description><![CDATA[我们采访了拉各斯团体 wuruwuru 的 Opemipo Aikomo，讲述了其勤奋和文化上的开创性壮举。]]></description>
+      <description><![CDATA[我们采访了拉各斯 wuruwuru 团体的 Opemipo Aikomo，讲述了其勤奋和文化上的开创性壮举。]]></description>
       <guid>https://www.itsnicethat.com/features/wuruwuru-album-cover-bank-graphic-design-art-spotlight-220124</guid>
       <pubDate>Mon, 22 Jan 2024 11:00:00 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 22 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>天堂漂流：奥利·特伦查德 (Ollie Trenchard) 捕捉巴巴多斯高刺激的赛车世界</title>
+      <title>天堂漂流：奥利·特伦查德 (Ollie Trenchard) 捕捉巴巴多斯令人肾上腺素飙升的赛车世界</title>
       <link>https://www.itsnicethat.com/articles/ollie-trenchard-drifting-in-paradise-photography-220124</link>
       <description><![CDATA[摄影师会见了岛上拉力赛、漂流和飙车文化背后的魅力人物。]]></description>
       <guid>https://www.itsnicethat.com/articles/ollie-trenchard-drifting-in-paradise-photography-220124</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[想轻松地让人们了解您的公益工作吗？ Not W+K 创建了一款由 ChatGPT 驱动的机器人来帮助获得 The One Show 奖项。]]></description>
       <guid>https://www.itsnicethat.com/news/not-w-and-k-the-one-show-2024-graphic-design-digital-170124</guid>
       <pubDate>Wed, 17 Jan 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VR 如何为 Joseph Melhuish 充满活力的音乐海报注入“尴尬与魅力”</title>
-      <link>https://www.itsnicethat.com/articles/joseph-melhuish-music-posters-animation-digital-project-170124</link>
-      <description><![CDATA[这位伦敦动画师讨论了向 VR 迈进以及拥有“善良的仇恨者”。]]></description>
-      <guid>https://www.itsnicethat.com/articles/joseph-melhuish-music-posters-animation-digital-project-170124</guid>
-      <pubDate>Wed, 17 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
