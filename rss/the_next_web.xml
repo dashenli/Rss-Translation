@@ -4,7 +4,28 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 24 Jan 2024 12:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 15:16:59 GMT</lastBuildDate>
+    <item>
+      <title>一种新的航天器在轨加油服务正在开发中</title>
+      <link>https://thenextweb.com/news/clearspace-in-orbit-refuelling-service-spacecraft-satellites</link>
+      <description><![CDATA[瑞士初创公司 ClearSpace 推出了其最新项目，使太空探索可持续：轨道加油服务。该公司正在与美国 Orbit Fab 合作执行这项任务。根据计划，双方将把 ClearSpace 航天飞机与 Orbit Fab 燃料库结合起来。结果将是一艘向卫星提供新鲜燃料的航天器。因此，客户可以延长活跃卫星的运行时间，并为未使用的卫星补充燃料，否则这些卫星将成为太空垃圾。当然，该项目的两位队友也将从中受益。以清除太空碎片而闻名的 ClearSpace 获得多元化服务…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/clearspace-in-orbit-refuelling-service-spacecraft-satellites</guid>
+      <pubDate>Wed, 24 Jan 2024 14:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的量子算法可以模拟改变行业的材料</title>
+      <link>https://thenextweb.com/news/new-quantum-algorithm-could-simulate-industry-changing-materials</link>
+      <description><![CDATA[英国初创公司 Phasecraft 开发了一种算法这带来了量子计算机揭示新事物潜力的希望材料及其特性更接近实现。由于能够模拟多个复杂的量子系统，量子计算机在材料科学领域拥有令人难以置信的潜力。反过来，这可能会导致能源、制造和医药等领域的技术飞跃。量子计算机要扩展并变得足够稳定以令人满意地自行执行这些功能还有很长的路要走。但是，量子计算机和经典计算机可以使用以下算法协同工作：这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/new-quantum-algorithm-could-simulate-industry-changing-materials</guid>
+      <pubDate>Wed, 24 Jan 2024 13:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 广告将通过人工智能驱动的神经营销变得更加有效</title>
+      <link>https://thenextweb.com/news/youtube-ads-more-effective-ai-powered-neuromarketing</link>
+      <description><![CDATA[Junbi.ai 加入 TNW for Startups 计划并在之前的 TNW 会议上展出。这个故事是该节目的一部分；它是在 TNW 的完全编辑控制下编写的。在这里查看今年的套餐！几年前，君币人工智能专注于人工智能的团队进行了一项富有洞察力的神经科学研究。他们邀请了10位广告创意人士带来他们最喜欢的作品。然后，他们将创意人员放入磁共振成像 (MRI) 扫描仪中以监测大脑活动，并要求他们对彼此的作品进行评分。事实证明，给出的成绩既相似又一致。除了一个重要的例外 -…这个故事在 The Next Web 继续或者阅读更多相关报道：YouTube]]></description>
+      <guid>https://thenextweb.com/news/youtube-ads-more-effective-ai-powered-neuromarketing</guid>
+      <pubDate>Wed, 24 Jan 2024 13:08:46 GMT</pubDate>
+    </item>
     <item>
       <title>专家警告说，各国可能已经生产出逃避网络安全防御的人工智能恶意软件</title>
       <link>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[周四，一项私人太空任务将四名欧洲宇航员发射到国际空间站。对于一个在经历一系列挫折后迫切希望提高其太空信誉的地区来说，这是一个里程碑。 SpaceX 猎鹰 9 号火箭从佛罗里达州 NASA 肯尼迪航天中心发射，将宇航员送入轨道。该航天器预计于 1 月 20 日凌晨抵达国际空间站。西班牙宇航员迈克尔·洛佩斯-阿莱格里亚 (Michael López-Alegría) 将率领宇航员。机上还有意大利空军的沃尔特·维拉代 (Walter Villadei)、土耳其的阿尔珀·格泽拉奇 (Alper Gezeravcı) 和瑞典的马库斯·万特 (Marcus Wandt)。 Gezeravcı 是土耳其第一位宇航员。…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/first-commercial-crew-of-all-european-astronauts-launches-to-international-space-station</guid>
       <pubDate>Fri, 19 Jan 2024 14:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个星球的“数字孪生”可以与谷歌地球相媲美——您可以尝试以下方法</title>
-      <link>https://thenextweb.com/news/digital-twin-rival-google-earth-nimbo</link>
-      <description><![CDATA[法国初创公司 Kermap 开发了地球的“数字双胞胎”，声称可以提供最我们家乡星球的最新视图。该计划名为 Nimbo Earth Online，是唯一每月提供新的无云卫星世界视图的平台。 Google 地球每隔几个月到几年就会刷新一次图像，具体取决于位置。由人工智能驱动的 Nimbo 按时间顺序排列的世界观依赖于欧盟哥白尼计划提供的 Sentinel 1 和 Sentinel 2 卫星图像。这些图像可以 2D 和 3D 方式查看。通过这个故事在 The Next Web 上继续或者只是阅读有关以下内容的更多报道：谷歌]]></description>
-      <guid>https://thenextweb.com/news/digital-twin-rival-google-earth-nimbo</guid>
-      <pubDate>Fri, 19 Jan 2024 12:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见雪地摩托。欢迎静音电动 MoonBike</title>
-      <link>https://thenextweb.com/news/goodbye-snowmobiles-welcome-the-silent-electric-moonbike</link>
-      <description><![CDATA[全球各地的雪坡上正在发生一场无声的革命。它由超静音、轻型电动雪地车领头。领导这场起义的是法国航空工程师尼古拉斯·穆龙。女士们、先生们——向 MoonBike 和电动雪地摩托的世界问好。 MoonBike 看起来像是轻便摩托车、雪地摩托和滑雪板的混合体，专为在山路上粉碎粉末而设计。这也许是你在雪地里能享受到的最有趣的事情了，而且不会让地球窒息，也不会让滑雪者生气。把它想象成一个成熟人士的雪地摩托。它更干净，而且…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/goodbye-snowmobiles-welcome-the-silent-electric-moonbike</guid>
-      <pubDate>Fri, 19 Jan 2024 10:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能设计初创公司在内部基础模型中回避稳定扩散</title>
-      <link>https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion</link>
-      <description><![CDATA[一家人工智能设计初创公司/生成器在筹集 1200 万美元后将转向 Stable Diffusion 等公司（1100 万欧元）建立自己的基础模型。 Recraft 被称为有史以来第一个用于在品牌风格指南中生成和编辑矢量艺术、图标、3D 图像和插图的 AI 工具。通过利用生成式人工智能，该产品可以创建布局、字体、颜色和插图。自推出以来的八个月内，Recraft 声称已吸引了超过 30 万用户。作为专业设计师的产品，该系统必须提供高度的控制。凭借新的基础模型，Recraft 承诺将创造力提升到另一个水平。总部位于伦敦的…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion</guid>
-      <pubDate>Fri, 19 Jan 2024 08:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
