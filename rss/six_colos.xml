@@ -3,8 +3,22 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 24 Jan 2024 18:18:27 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 24 Jan 2024 21:14:11 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 538：如果我失去了它，我就会死</title>
+      <link>https://sixcolors.com/podcast/2024/01/clockwise-538-if-i-lose-it-ill-die/</link>
+      <description><![CDATA[我们在智能手机上的小部件使用情况、对 Palworld 与任天堂相似之处的看法、我们是否激活了被盗设备保护，以及我们是否愿意在 Netflix 和亚马逊的定价变化中为无广告流媒体支付溢价。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/clockwise-538-if-i-lose-it-ill-die/</guid>
+      <pubDate>Wed, 24 Jan 2024 20:46:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 479：FOMO 价值 3500 美元</title>
+      <link>https://sixcolors.com/podcast/2024/01/the-rebound-479-3500-worth-of-fomo/</link>
+      <description><![CDATA[致所有我们喜爱的 Mac。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/the-rebound-479-3500-worth-of-fomo/</guid>
+      <pubDate>Wed, 24 Jan 2024 19:45:59 GMT</pubDate>
+    </item>
     <item>
       <title>我们并不完全了解 1984 年的 Mac ↦</title>
       <link>https://sixcolors.com/link/2024/01/we-dont-fully-understand-the-1984-mac/</link>
@@ -15,10 +29,10 @@
       <pubDate>Wed, 24 Jan 2024 18:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>Mac 40 岁：时代巡演</title>
+      <title>Mac 40 岁：时代之旅</title>
       <link>https://sixcolors.com/post/2024/01/mac-at-40-the-eras-tour/</link>
       <description><![CDATA[生日快乐，Mac。我给你买了一个蛋糕。
-在我开始为 The Verge 撰写有关 Mac 40 周年的文章之前，我一直在考虑用不同的方式来描绘 Mac 的历史轨迹。…]]></description>
+在我开始为 The Verge 撰写有关 Mac 40 周年的文章之前，我正在考虑用不同的方式来描绘 Mac 的历史轨迹。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/mac-at-40-the-eras-tour/</guid>
       <pubDate>Wed, 24 Jan 2024 17:51:53 GMT</pubDate>
     </item>
@@ -111,22 +125,6 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
 无论您是否实际上正在排队购买一台苹果公司精美的新型空间计算机，您可能想知道在此过程中会出现什么选择。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/order-up-vision-pro-storage-tier-and-accessory-options/</guid>
       <pubDate>Fri, 19 Jan 2024 14:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 61：体育收藏家</title>
-      <link>https://sixcolors.com/podcast/2024/01/downstream-61-a-collector-of-sports/</link>
-      <description><![CDATA[在 Apple Vision Pro 提出一些意见后，是时候讨论真正的体育五角大楼主题了，其中包括：地区体育流媒体联盟、NFL 与 ESPN 的合作、亚马逊与 Diamond Sports 的合作，以及 Peacock 流媒体季后赛的价值。 …]]></description>
-      <guid>https://sixcolors.com/podcast/2024/01/downstream-61-a-collector-of-sports/</guid>
-      <pubDate>Thu, 18 Jan 2024 22:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vision Pro 兼容应用程序在发布时可能很薄 ↦</title>
-      <link>https://sixcolors.com/link/2024/01/vision-pro-compatible-apps-at-launch-may-be-thin/</link>
-      <description><![CDATA[在 MacStories，John Voorhees 对 Vision Pro 应用程序兼容性进行了有趣的研究：
-&lt;块引用&gt;
-  事实证明，可以通过使用 App Store API 端点判断开发人员是否选择退出。…]]></description>
-      <guid>https://sixcolors.com/link/2024/01/vision-pro-compatible-apps-at-launch-may-be-thin/</guid>
-      <pubDate>Thu, 18 Jan 2024 20:27:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
