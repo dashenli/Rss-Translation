@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 24 Jan 2024 12:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 18:09:21 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这篇文章讨论了一种名为薄膜 I 的核发动机火箭的新概念 [...]</title>
-      <link>https://t.me/hn_summary/70727</link>
-      <description><![CDATA[薄膜同位素核发动机火箭
-本文讨论了核发动机火箭的新概念，称为薄膜同位素核发动机火箭。该发动机被提议作为深空需要高速任务的解决方案。该发动机的工作原理是利用放射性同位素薄片衰变产生的动量来产生推力。本文重点介绍了这一概念的几个关键优势，包括更高的性能、达到超过 100 公里/秒的速度的能力，以及针对不同有效载荷和任务的可扩展性。文章还提到了使用该发动机执行样本返回任务的可能性以及快速到达深空并继续进行激进机动的能力。]]></description>
-      <guid>https://t.me/hn_summary/70727</guid>
-      <pubDate>Wed, 24 Jan 2024 12:25:17 GMT</pubDate>
+      <title>[媒体]来自日本理化学研究所可持续资源科学中心和理化学研究所集群的科学家 [...]</title>
+      <link>https://t.me/hn_summary/70782</link>
+      <description><![CDATA[人造蜘蛛腺像大自然一样旋转可伸缩的蜘蛛丝 
+日本理化学研究所可持续资源科学中心和理化学研究所先锋研究集群的科学家利用人工腺体成功复制了蜘蛛丝的复杂分子结构。这一突破使我们距离生产蜘蛛丝又近了一步，蜘蛛丝是一种备受追捧的材料，在现实世界中有着广泛的应用。这种人工腺体的设计目的是模仿蜘蛛丝腺中发生的物理和化学变化，研究人员必须克服几个挑战才能实现这一目标。所得丝纤维表现出与天然丝纤维相同的层次结构。大规模生产蜘蛛丝可以彻底改变纺织工业，并具有多种医疗用途。]]></description>
+      <guid>https://t.me/hn_summary/70782</guid>
+      <pubDate>Wed, 24 Jan 2024 18:09:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 基因检测公司 23andMe 在 10 月份的数据泄露后面临强烈抵制，[...]</title>
-      <link>https://t.me/hn_summary/70726</link>
-      <description><![CDATA[据报道，23andMe 将责任转嫁给客户 
-基因检测公司 23andMe 在 10 月份发生数据泄露事件后面临强烈抵制，黑客窃取了其数百万客户的数据。据报道，该公司现在将此次泄露归咎于受害者，并表示他们在回收登录凭据时应该更加谨慎。这一回应激起了受影响客户及其法律代表的愤怒，他们指责 23andMe 试图逃避责任。该公司已要求所有用户重置密码并实施额外的安全措施，但批评者认为这不足以解决违规行为的严重性。]]></description>
-      <guid>https://t.me/hn_summary/70726</guid>
-      <pubDate>Wed, 24 Jan 2024 12:22:06 GMT</pubDate>
+      <title>[媒体]自身免疫性疾病能治愈吗？</title>
+      <link>https://t.me/hn_summary/70781</link>
+      <description><![CDATA[自身免疫性疾病能治愈吗？科学家终于看到希望
+科学家们在寻找 1 型糖尿病、狼疮和多发性硬化症等自身免疫性疾病的潜在治疗方法方面取得了进展。针对这些疾病的传统疗法会抑制整个免疫反应，使患者面临感染和癌症的风险。然而，研究人员现在正在探索如何恢复免疫系统忽略属于体内抗原的能力，同时适当地攻击那些不属于体内的抗原。一种方法包括给予流氓细胞经过训练以攻击的抗原，对细胞进行去编程并抑制自身免疫反应。另一种方法是选择性地消灭有问题的细胞或引入抑制性免疫细胞。在早期试验中已经看到了有希望的结果，为潜在的治疗带来了希望。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70781</guid>
+      <pubDate>Wed, 24 Jan 2024 18:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Jamsocket 是一个允许用户大规模部署 WebSocket 应用程序的平台。</title>
-      <link>https://t.me/hn_summary/70725</link>
-      <description><![CDATA[Jamsocket (YC W22) 正在招聘一名高级 Rust 系统工程师（纽约市） /远程）
-Jamsocket 是一个允许用户大规模部署 WebSocket 应用程序的平台。与 AWS Lambda 类似，Jamsocket 按需启动临时进程，并在存在连接时保持它们处于活动状态。客户将该平台用于各种目的，包括部署实时多人数据后端和运行代码执行沙箱。 Jamsocket 是一家开源公司，其名为 Plane 的核心基础设施已获得 MIT 许可。他们目前正在招聘一名高级系统工程师来为 Plane 做出贡献，帮助构建托管平台路线图，并参与待命轮换。该公司是一家种子期初创公司，得到 Y Combinator 和其他投资者的支持。]]></description>
-      <guid>https://t.me/hn_summary/70725</guid>
-      <pubDate>Wed, 24 Jan 2024 12:01:54 GMT</pubDate>
+      <title>[媒体]在经济低迷时期，许多初创企业发现自己陷入困境 [...]</title>
+      <link>https://t.me/hn_summary/70780</link>
+      <description><![CDATA[陷入低迷，初创公司幽灵投资者
+在经济低迷时期，许多初创企业发现自己陷入困境。随着投资者变得更加谨慎和资金枯竭，一些初创公司开始求助于“幽灵投资者”来维持形象。这些幽灵投资者是同意投资初创公司但从未实际提供资金的个人或公司。相反，他们允许初创公司在其网站和融资演讲稿中将他们列为投资者，给人以财务支持的印象。虽然这种做法可能有助于初创公司吸引其他投资者，但它引发了有关初创公司生态系统透明度的道德担忧和问题。]]></description>
+      <guid>https://t.me/hn_summary/70780</guid>
+      <pubDate>Wed, 24 Jan 2024 17:45:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目的目的是提供一个简单的脚本和 Google API 来获取网站 [...]</title>
-      <link>https://t.me/hn_summary/70724</link>
-      <description><![CDATA[显示 HN：用于让您的网站在 Google 上建立索引的开源脚本
-该项目的目的是提供一个简单的脚本和 Google API，以便在 48 小时内让网站在 Google 上建立索引。作者提到，不涉及任何技巧或黑客，并且该脚本使用 Google Indexing API。作者还指出，虽然不能绝对保证每个页面都会被索引，但最近的测试显示了很高的成功率。该项目需要 Node.js、具有经过验证的网站的 Google Search Console 帐户以及 Google Cloud 上的帐户。该脚本可以运行多次，并且只会索引尚未索引的页面。]]></description>
-      <guid>https://t.me/hn_summary/70724</guid>
-      <pubDate>Wed, 24 Jan 2024 11:56:44 GMT</pubDate>
+      <title>[媒体] 2024 年报税季的 IRS 免费报税计划现已推出。</title>
+      <link>https://t.me/hn_summary/70779</link>
+      <description><![CDATA[国税局 (IRS) 免费报税现已在 2024 年报税季推出
+2024 年报税季的 IRS 免费报税计划现已推出。符合条件的纳税人可以使用值得信赖的 IRS Free File 合作伙伴提供的免费税务软件来准备和提交联邦纳税申报表。每个提供商根据年龄、收入和州居住情况制定自己的资格规则。 2023 年调整后总收入 (AGI) 为 79,000 美元或以下的纳税人可能会找到符合其需求的报价。 AGI 超过限制的人仍然可以使用免费文件可填写表格免费提交文件。该计划安全可靠，纳税人信息不会受到未经授权的访问。此外，国税局免费报税产品支持手机访问，允许纳税人在智能手机或平板电脑上报税。]]></description>
+      <guid>https://t.me/hn_summary/70779</guid>
+      <pubDate>Wed, 24 Jan 2024 17:43:47 GMT</pubDate>
     </item>
     <item>
-      <title>智能手机和其他智能设备中常见的环境光传感器构成了隐私问题 [...]</title>
-      <link>https://t.me/hn_summary/70723</link>
-      <description><![CDATA[环境光传感器带来成像隐私风险
-智能手机和其他智能设备中常见的环境光传感器会带来隐私风险，因为黑客可以利用它们在用户不知情或未经许可的情况下捕获用户触摸交互的图像。麻省理工学院计算机科学和人工智能实验室 (CSAIL) 的研究人员发现，这些传感器可以与显示器结合使用，捕获用户手势的图像，例如滚动或滑动，以及他们在观看视频时如何与设备交互。研究人员提出了软件和硬件缓解措施来解决这种隐私威胁，包括收紧权限以及降低传感器的精度和速度。尽管该漏洞存在，但当前图像检索率较低，限制了直接风险。]]></description>
-      <guid>https://t.me/hn_summary/70723</guid>
-      <pubDate>Wed, 24 Jan 2024 11:52:34 GMT</pubDate>
+      <title>YouPhenom 是一个独特的社交网络，它将游戏的刺激与 [...]</title>
+      <link>https://t.me/hn_summary/70778</link>
+      <description><![CDATA[Show HN：面向热情粉丝的游戏化社交网络 
+YouPhenom 是一个独特的社交网络，它将游戏的兴奋感与粉丝的热情融为一体。在 YouPhenom 上，用户可以找到并参与与他们最喜欢的球队相关的内容，并每天投票以帮助他们的球队赢得每月的比赛。这种游戏化的方式为热情的粉丝增加了新的兴奋度和互动水平。无论您是体育爱好者、音乐爱好者还是电影爱好者，YouPhenom 都提供了一个与志趣相投的人联系并支持您最喜欢的团队或艺术家的平台。加入社区并成为终极粉丝体验的一部分。]]></description>
+      <guid>https://t.me/hn_summary/70778</guid>
+      <pubDate>Wed, 24 Jan 2024 17:42:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] eBay 宣布将裁员约 1,000 名员工，这意味着 [...]</title>
-      <link>https://t.me/hn_summary/70722</link>
-      <description><![CDATA[eBay 正在裁员 9%&lt; br/&gt;
-eBay宣布将裁员约1000名员工，约占其员工总数的9%。该公司已要求美国员工从1月24日开始在家办公，受裁员影响的员工将很快收到通知。与 Discord 和 Riot Games 等其他公司不同，eBay 没有提供有关遣散费或福利的详细信息。除了裁员之外，eBay 还计划减少其雇用的承包商数量。该公司将裁员归咎于近年来雇佣了太多员工，导致其开支超过了业务增长。]]></description>
-      <guid>https://t.me/hn_summary/70722</guid>
-      <pubDate>Wed, 24 Jan 2024 11:42:25 GMT</pubDate>
+      <title>[媒体] 据报道，沙特阿拉伯在外交区开设了第一家酒类商店 [...]</title>
+      <link>https://t.me/hn_summary/70777</link>
+      <description><![CDATA[沙特阿拉伯开设了第一家酒类商店&lt; br/&gt;
+据消息人士透露，沙特阿拉伯在利雅得外交区开设了第一家酒类商店。这一消息尚未得到沙特政府的正式证实，但被视为高度保守的穆斯林神权国家的重大突破，该国家自 1952 年起就禁止饮酒。这家商店只对非穆斯林外交官开放，授权必须通过一个名为 Diplo 的应用程序。此举被视为沙特社会自由化和吸引更多国际游客和外国人的一小步。该商店旨在解决外交官走私酒精的问题，他们经常在黑市上出售进口酒精。]]></description>
+      <guid>https://t.me/hn_summary/70777</guid>
+      <pubDate>Wed, 24 Jan 2024 17:41:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]阿拉斯加航空首席执行官 Ben Minicucci 在接受采访时透露，对c [...]</title>
-      <link>https://t.me/hn_summary/70721</link>
-      <description><![CDATA[阿拉斯加首席执行官：我们在 Max 飞机上发现了许多松动的螺栓
-阿拉斯加航空首席执行官本·米尼库奇 (Ben Minicucci) 在接受采访时透露，在最近发生的一起事故后对该航空公司的波音 737 Max 9 飞机进行的检查发现，“许多”飞机的螺栓松动。这起事件中，一架 Max 9 喷气式飞机的一块面板在半空中爆炸，促使美国联邦航空管理局停飞所有波音 Max 9 飞机并启动安全调查。立法者还对波音公司的质量控制系统表示担忧。阿拉斯加航空因 Max 9 飞机停飞而被迫取消并重新安排航班。米尼库奇呼吁波音公司改善质量控制，防止再次发生类似事件。]]></description>
-      <guid>https://t.me/hn_summary/70721</guid>
-      <pubDate>Wed, 24 Jan 2024 11:28:12 GMT</pubDate>
+      <title>[媒体] alicja.space 上的文章提供了有关如何构建旋转栅门天线的教程 [...]</title>
+      <link>https://t.me/hn_summary/70776</link>
+      <description><![CDATA[如何构建 435Mhz 的十字转门天线（并将其连接到 SatNOGS）网络）
+alicja.space 上的文章提供了有关如何构建435Mhz 频段的旋转门天线并将其连接到 SatNOGS 网络。作者将文章分为两个部分：关于构建天线的教程和包含有趣事实和个人无线电波经验的部分。本教程提供了所需材料和工具的列表，以及如何组装天线的分步说明。作者还提到，可以使用具有 SatNOGS OS 映像和设置的 Raspberry Pi 将天线连接到 SatNOGS 站，但这是可选的。文章最后鼓励读者到户外使用天线收听卫星信号。 （根据故事文本的 37% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70776</guid>
+      <pubDate>Wed, 24 Jan 2024 17:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】文章讨论了 2024 年迄今为止发生的重大科技裁员事件。</title>
-      <link>https://t.me/hn_summary/70720</link>
-      <description><![CDATA[2024 年迄今为止所有重大科技裁员&lt; br/&gt;
-本文讨论了 2024 年迄今为止发生的重大科技裁员。还总结了专家对2024年经济、市场、地缘政治、科技等方面的预测和预测。专家预测通胀将持续降温，各大银行降息，股票和债券将利好预测。全球GDP增长预计将低于10年平均水平，印度的增长可能超过中国。随着世界各地持续不断的冲突和选举，地缘政治紧张局势预计将持续下去。文章还强调了 2024 年人工智能面临的挑战和潜在的监管。总体而言，强调了这些因素的相互关联性。]]></description>
-      <guid>https://t.me/hn_summary/70720</guid>
-      <pubDate>Wed, 24 Jan 2024 11:13:59 GMT</pubDate>
+      <title>[媒体]久负盛名的科幻小说雨果奖首次在中国举办， [...]</title>
+      <link>https://t.me/hn_summary/70775</link>
+      <description><![CDATA[中国科幻小说奖因排除作者而受到批评
+首次在中国举办的著名科幻小说雨果奖因将某些作家排除在 2023 年奖项之外而受到批评。被排除在外的作品包括邝峰和赵曦然的作品，引发了人们对颁奖过程中的干扰或审查的担忧。一些人推测，鉴于中国政府对文化活动的控制，作者可能是出于政治原因而成为攻击目标。雨果奖被认为是科幻和奇幻小说的最高奖项。这场争议引发了有关透明度以及对奖项声誉的潜在损害的讨论。]]></description>
+      <guid>https://t.me/hn_summary/70775</guid>
+      <pubDate>Wed, 24 Jan 2024 17:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Explorify 是一款创新的旅行推荐应用程序，可以消除搜索的麻烦 [...]</title>
-      <link>https://t.me/hn_summary/70719</link>
-      <description><![CDATA[显示 HN：我讨厌在旅行中寻找地点，所以我创建了一个自动化此操作的工具
-Explorify 是一款创新的旅行推荐应用程序，可以省去搜索旅行地点的麻烦。作为这个工具的创建者，我理解花费大量时间研究和计划假期的挫败感。这就是我开发 Explorify 的原因，这是一款人工智能驱动的应用程序，可以自动化流程并根据您的喜好提供个性化建议。通过 Explorify，您可以在一处发现隐藏的瑰宝、热门景点和当地最爱。告别无休止的滚动，让 Explorify 为您完成工作。立即尝试，让您的下一次旅行变得轻而易举！]]></description>
-      <guid>https://t.me/hn_summary/70719</guid>
-      <pubDate>Wed, 24 Jan 2024 11:09:50 GMT</pubDate>
+      <title>[媒体]代码编辑器 Zed 宣布现已开源。</title>
+      <link>https://t.me/hn_summary/70774</link>
+      <description><![CDATA[Zed 现已开源
+代码编辑器 Zed 宣布现已开源。 Zed 及其 UI 框架 GPUI 的代码将分别在 Copyleft 和 Apache 2 许可证下提供。这一决定背后的动机是通过更广泛的编程社区的参与，使 Zed 成为最好的产品。该公司还相信，开源将会更加愉快，并让他们能够与用户进行更深层次的联系。作为这项工作的一部分，他们正在推出一项名为 Zed Channels 的新功能，该功能使开发人员能够实时一起编写代码。该公司计划未来通过服务和专有产品实现盈利，同时确保创收不会干扰用户体验。他们还分享了公共路线图并欢迎社区的贡献。]]></description>
+      <guid>https://t.me/hn_summary/70774</guid>
+      <pubDate>Wed, 24 Jan 2024 17:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，作者讨论了与 rel [...] 相关的资源管理器崩溃激增。</title>
-      <link>https://t.me/hn_summary/70718</link>
-      <description><![CDATA[不知从何跳转到指令中间的情况( 2023）
-在这篇博文中，作者讨论了 Windows Insider 版本发布时发生的资源管理器崩溃高峰。他们分析故障转储并在代码中发现可疑指令。经过进一步调查，他们发现第三方 DLL（“shell 增强”程序的一部分）是造成崩溃的原因。该程序修补了资源管理器以添加增强功能，但其中一个修补程序出现了问题。有趣的部分是程序如何找到要修补的函数 - 它联系 Microsoft 符号服务器以获取资源管理器中所有函数的名称和地址。作者还提到，这些补丁程序经常会导致每月安全补丁崩溃，而且无法回滚。他们希望受影响的用户能够意识到这个问题并卸载或禁用“shell 增强”程序。]]></description>
-      <guid>https://t.me/hn_summary/70718</guid>
-      <pubDate>Wed, 24 Jan 2024 10:51:36 GMT</pubDate>
+      <title>[媒体] 在现代世界拥抱 Common Lisp</title>
+      <link>https://t.me/hn_summary/70773</link>
+      <description><![CDATA[在现代世界中拥抱 Common Lisp
+“在现代世界中拥抱 Common Lisp”是一次引人入胜的演讲，探讨了 Common Lisp、Clojure 和 Java 虚拟机 (JVM) 的历史背景和演变。它强调了了解在快速发展的数字世界中影响我们技术选择的基础的重要性。该演示揭示了 Clojure 在 Common Lisp 中的深厚根源，并深入探讨了 JVM 作为通用计算平台的宏伟愿景。它还将 90 年代末与当今的技术景观进行了比较，为 Common Lisp 和 Clojure 之间的效率和性能差异提供了宝贵的见解。此外，它还强调了选择 Common Lisp 而不是 Clojure 和 JVM 的环境效益，为更绿色的未来提供了理由。]]></description>
+      <guid>https://t.me/hn_summary/70773</guid>
+      <pubDate>Wed, 24 Jan 2024 17:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
