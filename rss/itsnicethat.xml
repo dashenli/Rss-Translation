@@ -3,8 +3,29 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Thu, 25 Jan 2024 09:15:27 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Thu, 25 Jan 2024 12:27:04 GMT</lastBuildDate>
+    <item>
+      <title>tro tro 巴士的生命周期：Caleb Kwarteng Prah 将肖像画与加纳流行的交通工具融为一体</title>
+      <link>https://www.itsnicethat.com/articles/caleb-kwarteng-prah-portrait-of-a-city-one-minute-instant-photography-art-project-250124</link>
+      <description><![CDATA[这位来自科福里杜瓦的摄影师使用加纳一些最受欢迎的车辆的废弃车门作为他的肖像背景。]]></description>
+      <guid>https://www.itsnicethat.com/articles/caleb-kwarteng-prah-portrait-of-a-city-one-minute-instant-photography-art-project-250124</guid>
+      <pubDate>Thu, 25 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kevin Högger 苏黎世一家餐馆的形象从其古老的霓虹灯招牌中汲取灵感</title>
+      <link>https://www.itsnicethat.com/articles/kevin-hoegger-belmondo-graphic-design-project-250124</link>
+      <description><![CDATA[设计师选择在其品牌重塑中向贝尔蒙多实体空间的核心和灵魂致敬。]]></description>
+      <guid>https://www.itsnicethat.com/articles/kevin-hoegger-belmondo-graphic-design-project-250124</guid>
+      <pubDate>Thu, 25 Jan 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>插画师科里·沃什 (Corey Wash) 的红色人物形象既亲切又空灵</title>
+      <link>https://www.itsnicethat.com/articles/corey-wash-art-discover-250124</link>
+      <description><![CDATA[一个令人震惊的红色人物站在插画家的数字画布上，但它的动作和本质感觉像是人类心理的视觉表现。]]></description>
+      <guid>https://www.itsnicethat.com/articles/corey-wash-art-discover-250124</guid>
+      <pubDate>Thu, 25 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Little Troop 对 Nik Bentel Studio 的定位取决于精心策划的混乱</title>
       <link>https://www.itsnicethat.com/news/little-troop-nik-bentel-studio-graphic-design-240124</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这位瑞典多学科艺术家和动画师用她的作品来回应她的多动症经历，“寻求为我们的思想创造无障碍的呼吸空间”。]]></description>
       <guid>https://www.itsnicethat.com/articles/iris-wildros-animation-discover-220124</guid>
       <pubDate>Mon, 22 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>天堂漂流：奥利·特伦查德 (Ollie Trenchard) 捕捉巴巴多斯令人肾上腺素飙升的赛车世界</title>
-      <link>https://www.itsnicethat.com/articles/ollie-trenchard-drifting-in-paradise-photography-220124</link>
-      <description><![CDATA[摄影师会见了岛上拉力赛、漂流和飙车文化背后的魅力人物。]]></description>
-      <guid>https://www.itsnicethat.com/articles/ollie-trenchard-drifting-in-paradise-photography-220124</guid>
-      <pubDate>Mon, 22 Jan 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>输入提示，这位“非人工智能艺术家”会将其渲染为艺术品</title>
-      <link>https://www.itsnicethat.com/news/pablo-delcan-prompt-brush-digital-190124</link>
-      <description><![CDATA[最初只是社交媒体上的一个笑话，现在已经变成了 Prompt Brush 背后的艺术家 Pablo Delcan 的 1000 多个提示队列。]]></description>
-      <guid>https://www.itsnicethat.com/news/pablo-delcan-prompt-brush-digital-190124</guid>
-      <pubDate>Fri, 19 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jean Jullien、Sophie Douala、James Barnett：二月“更好的星期二”门票现已发售！</title>
-      <link>https://www.itsnicethat.com/articles/nicer-tuesdays-february-launch-180124</link>
-      <description><![CDATA[购买我们今年第一场活动的门票，聆听当今一些最令人印象深刻的创意人士的声音，甚至可能还有一些标志性的父母的声音。]]></description>
-      <guid>https://www.itsnicethat.com/articles/nicer-tuesdays-february-launch-180124</guid>
-      <pubDate>Thu, 18 Jan 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
