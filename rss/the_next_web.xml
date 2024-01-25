@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:26:20 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Thu, 25 Jan 2024 15:15:42 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 计划从 3 月份开始为欧盟 iPhone 用户提供应用内购买服务</title>
+      <link>https://thenextweb.com/news/spotify-in-app-purchases-eu</link>
+      <description><![CDATA[如果您是欧盟的 iPhone 用户，您很快就会得到从 Spotify 应用程序内购买有声读物和订阅。原因？针对大型科技公司的一项新的欧盟反垄断法规。该法律被称为《数字市场法案》（DMA），如果公司在数字经济中拥有垄断地位，则该法律将其指定为“看门人”。 9 月，欧盟公布了该俱乐部的前六名成员：Alphabet、亚马逊、字节跳动、Meta、微软，以及——你猜对了——苹果。守门人有六个月的时间来遵守 DMA。就 Apple 而言，其中一项要求是结束…这个故事在 The Next Web 继续或者阅读更多相关报道：Spotify]]></description>
+      <guid>https://thenextweb.com/news/spotify-in-app-purchases-eu</guid>
+      <pubDate>Thu, 25 Jan 2024 11:44:34 GMT</pubDate>
+    </item>
     <item>
       <title>阿姆斯特丹科学与创新奖获奖者对科技未来的一瞥</title>
       <link>https://thenextweb.com/news/winners-amsterdam-science-innovation-award</link>
@@ -15,7 +22,7 @@
     <item>
       <title>泄露的欧盟人工智能法案“给组织敲响了警钟”</title>
       <link>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</link>
-      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举前实施。那…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举之前实施。那…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</guid>
       <pubDate>Wed, 24 Jan 2024 16:08:02 GMT</pubDate>
     </item>
@@ -43,21 +50,21 @@
     <item>
       <title>专家警告说，各国可能已经生产出逃避网络安全防御的人工智能恶意软件</title>
       <link>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</link>
-      <description><![CDATA[根据数据，人工智能生成的恶意软件可以逃避检测，已经可供国家使用英国网络安全机构。国家网络安全中心 (NCSC) 今天表示，为了生产如此强大的软件，威胁行为者需要根据“优质漏洞数据”训练人工智能模型。由此产生的系统将创建规避当前安全措施的新代码。 NCSC 警告说：“能力强的国家很有可能拥有足够大的恶意软件存储库，足以为此目的有效地训练人工智能模型。”至于“现实可能性”的实际含义，该机构的“概率标准”提供了一定的清晰度。这是…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[根据数据，人工智能生成的恶意软件可以逃避检测，已经可供国家使用英国网络安全机构。国家网络安全中心 (NCSC) 今天表示，为了生产如此强大的软件，威胁行为者需要根据“高质量漏洞数据”训练人工智能模型。由此产生的系统将创建规避当前安全措施的新代码。 NCSC 警告说：“能力强的国家很有可能拥有足够大的恶意软件存储库，足以为此目的有效地训练人工智能模型。”至于“现实可能性”的实际含义，该机构的“概率标准”提供了一定的清晰度。这是…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</guid>
       <pubDate>Wed, 24 Jan 2024 11:18:51 GMT</pubDate>
     </item>
     <item>
       <title>5 个具有长期活力的技术工作</title>
       <link>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</link>
-      <description><![CDATA[虽然科技行业在 2023 年遭遇低迷，导致大量裁员，但仍有行业内外对某些技术工作的需求很高。尽管如此，这些失业，加上过去一年生成式人工智能工具的快速增长，给许多人播下了怀疑的种子，引发了一个问题：科技工作是否能提供良好的工作保障？在最近的一次采访中，诺贝尔经济学奖获得者克里斯托弗·皮萨里德斯教授告诫学生们，在选择学习 STEM 科目时，要为未来在科技领域的职位做好准备，而这些职位的可用性可能比预期的更为有限。他在后来的一篇文章中澄清了这一点…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[虽然科技行业在 2023 年遭遇低迷，导致大量裁员，但仍有行业内外对某些技术工作的需求很高。尽管如此，这些失业，加上过去一年生成式人工智能工具的快速增长，给许多人播下了怀疑的种子，引发了一个问题：科技工作是否能提供良好的工作保障？在最近的一次采访中，诺贝尔经济学奖获得者克里斯托弗·皮萨里德斯教授告诫学生们，在选择学习 STEM 科目时，未来在科技领域的职位可能比预期的更加有限。他在后来的一篇文章中澄清了这一点…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</guid>
       <pubDate>Tue, 23 Jan 2024 17:00:09 GMT</pubDate>
     </item>
     <item>
       <title>马克龙说服英国核电初创公司在法国建造第一家工厂</title>
       <link>https://thenextweb.com/news/newcleo-uk-nuclear-startup-to-build-its-first-factory-in-france</link>
-      <description><![CDATA[总部位于伦敦的核能初创公司 Newcleo 已取消了建造其第一个核电站的计划在英国建厂，而选择在法国投资。据《每日电讯报》报道，法国总统埃马纽埃尔·马克龙 (Emmanuel Macron) 曾多次亲自会见 Newcleo 首席执行官兼创始人斯特凡诺·博诺 (Stefano Buono)，说服他在法国建造该公司的第一个模块化核反应堆。 Newcleo 成立于 2021 年，开发由放射性废物提供动力的小型核反应堆。该公司最初试图利用英国前塞拉菲尔德核电站储存的大量核废料为其反应堆提供动力。但两年后…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[总部位于伦敦的核能初创公司 Newcleo 已取消了建造其第一个核电站的计划在英国建厂，而选择在法国投资。据《每日电讯报》报道，法国总统埃马纽埃尔·马克龙 (Emmanuel Macron) 曾多次亲自会见 Newcleo 首席执行官兼创始人斯特凡诺·博诺 (Stefano Buono)，并进行了广泛游说，说服他在法国建造该公司的第一个模块化核反应堆。 Newcleo 成立于 2021 年，开发由放射性废物提供动力的小型核反应堆。该公司最初试图利用英国前塞拉菲尔德核电站储存的大量核废料为其反应堆提供动力。但两年后…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/newcleo-uk-nuclear-startup-to-build-its-first-factory-in-france</guid>
       <pubDate>Tue, 23 Jan 2024 16:54:49 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[欧洲早期投资公司 Plural Platform 推出了一只新的 4 亿欧元基金，致力于将新兴初创企业转变为“改变世界”的全球公司。 Plural 由 Wise 联合创始人 Taavet Hinrikus 和 Songkick 创始人 Ian Hogarth 以及 Skype 前高管 Sten Tamkivi 和 Bigpoint Games 前首席执行官 Khaled Helioui 于 2021 年创立。该公司专注于对解决严重难题的深度科技初创公司的早期投资。自 18 个月前筹集第一笔 2.5 亿欧元基金以来，Plural 已资助了超过 26 家初创公司，涉及气候和能源、人工智能、金融科技、医疗保健和前沿技术领域。与传统的早期风险投资不同，Plural 仅仅是…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/founder-led-deep-tech-investor-plural-launches-e400m-fund</guid>
       <pubDate>Tue, 23 Jan 2024 12:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 ClimateGPT——一个对抗气候虚假信息的开源人工智能平台</title>
-      <link>https://thenextweb.com/news/climategpt-ai-chatbot-climate-change</link>
-      <description><![CDATA[一群名为气候情报基金会 (ECI) 的初创公司推出了有史以来第一个致力于解决气候变化影响的开源人工智能模型集合。 ChatGPT 和 Google 的 Bard 等大型语言模型 (LLM) 面临着对其所提供信息准确性的担忧，因为它们是根据从互联网上抓取的数据进行训练的，而这些数据未经严格的事实检查或引用。相比之下，ECI 声称 ClimateGPT 的目标是通过使用可靠的模型来验证、保护和管理所提供的信息，利用科学数据来创建“信任和透明度”。该模型已集成…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/climategpt-ai-chatbot-climate-change</guid>
-      <pubDate>Mon, 22 Jan 2024 15:49:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

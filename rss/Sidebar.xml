@@ -4,11 +4,51 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 25 Jan 2024 12:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 15:16:42 GMT</lastBuildDate>
+    <item>
+      <title>院士</title>
+      <link>https://anniversary.bonhommeparis.com/</link>
+      <description><![CDATA[布鲁诺·西蒙 (Bruno Simon) 制作的令人印象深刻的 WebGL 网站。
+]]></description>
+      <guid>https://anniversary.bonhommeparis.com/</guid>
+      <pubDate>Thu, 25 Jan 2024 12:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>平面设计中的人工智能困境</title>
+      <link>https://www.smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</link>
+      <description><![CDATA[人工智能有望给版式带来重大变革，设计师发现自己既面临机遇又面临挑战。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</guid>
+      <pubDate>Thu, 25 Jan 2024 12:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Letterboxd：如何通过明确的待完成工作来确定产品市场契合度</title>
+      <link>https://growth.design/case-studies/letterboxd-jobs-to-be-done</link>
+      <description><![CDATA[了解 Letterboxd 如何通过关注客户待完成的工作来显着提高应用的入门和保留率。
+]]></description>
+      <guid>https://growth.design/case-studies/letterboxd-jobs-to-be-done</guid>
+      <pubDate>Thu, 25 Jan 2024 11:59:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>定义当前餐饮的菜单趋势</title>
+      <link>https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html?unlocked_article_code=1.P00.9mYV.Ij3QDr_5lDS1</link>
+      <description><![CDATA[我们从全国各地的餐厅收集了 121 份菜单。它们共同让我们了解当今的品味和价值观。
+]]></description>
+      <guid>https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html?unlocked_article_code=1.P00.9mYV.Ij3QDr_5lDS1</guid>
+      <pubDate>Thu, 25 Jan 2024 11:57:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字仪表组的问题以及如何设计更好的仪表组</title>
+      <link>https://www.theturnsignalblog.com/blog/designing-better-digital-instrument-clusters/</link>
+      <description><![CDATA[是否有可能设计出比模拟仪表更好的数字仪表组？
+]]></description>
+      <guid>https://www.theturnsignalblog.com/blog/designing-better-digital-instrument-clusters/</guid>
+      <pubDate>Thu, 25 Jan 2024 11:55:55 GMT</pubDate>
+    </item>
     <item>
       <title>在卷轴上绘制</title>
       <link>https://garden.bradwoods.io/notes/svg/draw-on-scroll</link>
-      <description><![CDATA[一种有趣的效果，看起来就像当用户滚动时在页面上绘制线条。 
+      <description><![CDATA[一种有趣的效果，看起来就像随着用户滚动而在页面上绘制线条一样。 
 ]]></description>
       <guid>https://garden.bradwoods.io/notes/svg/draw-on-scroll</guid>
       <pubDate>Wed, 24 Jan 2024 00:06:06 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://the-brandidentity.com/project/bit-by-bit-how-play-designed-a-fresh-and-fitting-identity-for-openais-first-devday-conference</guid>
       <pubDate>Tue, 23 Jan 2024 04:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>装载船</title>
-      <link>https://www.loadership.com/</link>
-      <description><![CDATA[为您的网站定制并生成令人惊叹的 CSS 加载器。
-]]></description>
-      <guid>https://www.loadership.com/</guid>
-      <pubDate>Mon, 22 Jan 2024 07:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年最有爱心的钢笔</title>
-      <link>https://codepen.io/2023/popular/pens/</link>
-      <description><![CDATA[2023 年最流行的 CodePen 代码片段。
-]]></description>
-      <guid>https://codepen.io/2023/popular/pens/</guid>
-      <pubDate>Mon, 22 Jan 2024 07:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌托邦SCSS库</title>
-      <link>https://utopia.fyi/blog/utopia-core-scss</link>
-      <description><![CDATA[生成乌托邦类型&amp;空间直接在 SCSS 中缩放。
-]]></description>
-      <guid>https://utopia.fyi/blog/utopia-core-scss</guid>
-      <pubDate>Mon, 22 Jan 2024 06:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊曼努尔·康德——什么是美？</title>
-      <link>https://ralphammer.com/immanuel-kant-beauty/</link>
-      <description><![CDATA[伊曼努尔·康德说，美引导我们走向真理和善良。这就是它的工作原理。
-]]></description>
-      <guid>https://ralphammer.com/immanuel-kant-beauty/</guid>
-      <pubDate>Mon, 22 Jan 2024 06:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师未来的五种角色</title>
-      <link>https://jarango.com/2024/01/21/five-future-roles-for-designers</link>
-      <description><![CDATA[在人工智能驱动的世界中工作的设计师可能的职业方向。
-]]></description>
-      <guid>https://jarango.com/2024/01/21/five-future-roles-for-designers</guid>
-      <pubDate>Mon, 22 Jan 2024 06:42:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
