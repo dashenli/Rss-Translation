@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Jan 2024 15:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:17:40 GMT</lastBuildDate>
+    <item>
+      <title>将人工智能控制蚀刻到硅中可以阻止世界末日的到来</title>
+      <link>https://www.wired.com/story/fast-forward-ai-silicon-doomsday/</link>
+      <description><![CDATA[当美国和其他国家思考如何防止人工智能的危险使用时，一些研究人员建议对 GPU 等关键芯片进行限制，以限制算法的能力。]]></description>
+      <guid>https://www.wired.com/story/fast-forward-ai-silicon-doomsday/</guid>
+      <pubDate>Thu, 25 Jan 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>这是在线 MAGA 世界想要的特朗普副总统</title>
       <link>https://www.wired.com/story/maga-trump-vice-president/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenAI 自成立以来就表示其管理文件向公众开放。当《连线》杂志在公司董事会闹剧之后要求提供副本时，它拒绝提供。]]></description>
       <guid>https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/</guid>
       <pubDate>Wed, 24 Jan 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体变得越来越小，也越来越危险</title>
-      <link>https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/</link>
-      <description><![CDATA[分散且集中的社交平台可能有助于您找到针织社区。但极端主义团体也利用它们来规范黑暗内容。]]></description>
-      <guid>https://www.wired.com/story/social-media-is-getting-smaller-and-more-treacherous/</guid>
-      <pubDate>Wed, 24 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
