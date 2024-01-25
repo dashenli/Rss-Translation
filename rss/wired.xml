@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Jan 2024 18:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 21:12:16 GMT</lastBuildDate>
+    <item>
+      <title>机器人车祸调查得出结论，通用汽车 Cruise 未披露关键信息</title>
+      <link>https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/</link>
+      <description><![CDATA[一家律师事务所对一起可怕事故进行的调查显示，通用汽车的 Cruise 专注于媒体报道，没有与监管机构分享其所知道的全部信息。]]></description>
+      <guid>https://www.wired.com/story/robot-car-crash-investigation-cruise-disclose-key-information/</guid>
+      <pubDate>Thu, 25 Jan 2024 20:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>将人工智能控制蚀刻到硅中可以阻止世界末日的到来</title>
       <link>https://www.wired.com/story/fast-forward-ai-silicon-doomsday/</link>
@@ -48,9 +55,9 @@
       <pubDate>Thu, 25 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>这个聊天机器人会为您筛选约会应用程序的匹配对象</title>
+      <title>我们尝试了一款约会应用程序，它可以让聊天机器人为您打破僵局。事情变得很奇怪</title>
       <link>https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/</link>
-      <description><![CDATA[新约会应用程序 Volar 的用户训练一个聊天机器人，让其与潜在匹配的机器人进行虚拟的第一次约会。我们测试了一下。]]></description>
+      <description><![CDATA[新约会应用程序 Volar 的用户训练一个聊天机器人，让其与潜在匹配的机器人进行虚拟的第一次约会。我们对其进行了测试，我们的聊天机器人试图通过谈论核战争来吸引匹配。]]></description>
       <guid>https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/</guid>
       <pubDate>Thu, 25 Jan 2024 12:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[新的研究发现，全球范围内为生命提供水分的地下水系统正在迅速、有时甚至加速下降。以下是如何阻止撤退。]]></description>
       <guid>https://www.wired.com/story/the-worlds-essential-aquifers-are-in-deep-trouble/</guid>
       <pubDate>Wed, 24 Jan 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 悄悄放弃了向公众披露关键文件的承诺</title>
-      <link>https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/</link>
-      <description><![CDATA[OpenAI 自成立以来就表示其管理文件向公众开放。当《连线》杂志在公司董事会闹剧之后要求提供副本时，它拒绝提供。]]></description>
-      <guid>https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
