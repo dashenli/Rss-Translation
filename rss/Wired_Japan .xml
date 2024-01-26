@@ -4,18 +4,25 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 25 Jan 2024 21:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 03:17:05 GMT</lastBuildDate>
     <item>
-      <title>iPhone 的新功能“被盗设备保护”如何工作以及如何立即启用它</title>
+      <title>“野火过后，去皮肤科诊所就诊的人数有所增加”——研究表明气候变化与皮肤病之间存在相关性</title>
+      <link>https://wired.jp/article/air-pollution-is-ruining-your-skin/</link>
+      <description><![CDATA[12月发表的一篇论文显示，去年夏天加拿大野火产生的烟雾可能与美国东部特应性皮炎的增加有关。作者是一名医生，他表示，由于气候变化，空气污染正在恶化，皮肤病的迅速增加也是气候变化的影响之一。]]></description>
+      <guid>https://wired.jp/article/air-pollution-is-ruining-your-skin/</guid>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 新功能“被盗设备保护”的工作原理以及如何立即启用它</title>
       <link>https://wired.jp/article/apple-ios-17-3-iphone-stolen-device-protection/</link>
-      <description><![CDATA[苹果的 iOS 17.3 为 iPhone 引入了“被盗设备保护”。此功能需要额外的生物识别身份验证，以防止即使有人解锁您的 iPhone，您的帐户也不会被完全接管。现在介绍如何启用它。]]></description>
+      <description><![CDATA[Apple iOS 17.3 中引入了一项名为“被盗设备保护”的新功能，如果有人解锁您的 iPhone，则需要额外的生物识别身份验证。以下是如何立即启用此功能以防止窃贼盗用您的帐户。]]></description>
       <guid>https://wired.jp/article/apple-ios-17-3-iphone-stolen-device-protection/</guid>
       <pubDate>Thu, 25 Jan 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉的低成本电动汽车会在 2025 年发布吗？埃隆·马斯克会信守他的“承诺”吗？</title>
+      <title>特斯拉的低成本电动汽车会在 2025 年发布吗？埃隆·马斯克能否兑现他的“承诺”？</title>
       <link>https://wired.jp/article/elon-musk-says-cheaper-tesla-coming-2025/</link>
-      <description><![CDATA[特斯拉首席执行官埃隆·马斯克向投资者透露，该公司计划在 2025 年推出一款低成本电动汽车。看起来，其目的是与比亚迪等积极进军电动汽车市场的中国制造商竞争，但他们能信守“承诺”吗？]]></description>
+      <description><![CDATA[特斯拉首席执行官埃隆·马斯克向投资者透露，该公司计划在 2025 年推出一款低成本电动汽车。看起来，其目的是与比亚迪等进军电动汽车市场的中国制造商竞争，但他们能信守“承诺”吗？]]></description>
       <guid>https://wired.jp/article/elon-musk-says-cheaper-tesla-coming-2025/</guid>
       <pubDate>Thu, 25 Jan 2024 05:00:00 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 24 Jan 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 与 WWE 合作彻底改写成功公式</title>
+      <title>Netflix 与 WWE 联手彻底改写成功公式</title>
       <link>https://wired.jp/article/netflix-wwe-deal-pivot-licensing/</link>
       <description><![CDATA[Netflix 签署了一项价值 50 亿美元的协议，将在 10 年内播放 WWE 的《RAW》。此举标志着Netflix彻底改写了传统流媒体规则。]]></description>
       <guid>https://wired.jp/article/netflix-wwe-deal-pivot-licensing/</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>Macintosh发布40周年，“知识自行车”的谱系不断传承</title>
       <link>https://wired.jp/article/apple-macintosh-40th-anniversary/</link>
-      <description><![CDATA[2024 年 1 月 24 日是苹果第一台 Macintosh 在美国发布 40 周年。乔布斯推出的“知识自行车”的谱系是如何传承下来的？让我们用照片来回顾一下它的历史吧。]]></description>
+      <description><![CDATA[2024 年 1 月 24 日是苹果第一台 Macintosh 在美国发布 40 周年。乔布斯推出的“知识自行车”的谱系是如何传承下来的？让我们用照片来回顾一下它的历史。]]></description>
       <guid>https://wired.jp/article/apple-macintosh-40th-anniversary/</guid>
       <pubDate>Wed, 24 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何展现AI与人类融合的多重未来：Ian Chen创作的实时动画的魅力：图库1</title>
+      <title>如何展现AI与人类融合的多重未来：Ian Chen创作的实时动画的魅力：画廊1</title>
       <link>https://wired.jp/ianchen-life-after-bob-gallery-1/</link>
       <description><![CDATA[画廊1]]></description>
       <guid>https://wired.jp/ianchen-life-after-bob-gallery-1/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>发布 40 周年，Macintosh 依然最强：苹果高管揭秘其进化之路</title>
       <link>https://wired.jp/article/plaintext-apple-secret-40-year-old-mac-still-rules/</link>
-      <description><![CDATA[麦金塔从根本上改变了我们使用计算机的方式。自 1984 年推出以来已有 40 年，这款被称为 Mac 的产品仍在不断发展并保持流行。 《连线》杂志特约编辑史蒂文·利维（Steven Levy）在采访苹果高管时揭示了其中的原因。]]></description>
+      <description><![CDATA[麦金塔从根本上改变了我们使用计算机的方式。自 1984 年推出以来已有 40 年的历史，这款被称为 Mac 的产品不断发展并保持流行。 《连线》杂志特约编辑 Steven Levy 通过采访苹果公司高管揭示了其中的原因。]]></description>
       <guid>https://wired.jp/article/plaintext-apple-secret-40-year-old-mac-still-rules/</guid>
       <pubDate>Tue, 23 Jan 2024 23:00:00 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>《伙伴世界》全球热播，指出“复杂问题”</title>
       <link>https://wired.jp/article/palworld-pokemon-with-guns-steam-success/</link>
-      <description><![CDATA[Palworld是一款来自日本的游戏，风靡全球并受到关注。在 Reddit 在线公告板上，人们对这起热门事件提出了各种观点。]]></description>
+      <description><![CDATA[Palworld是一款来自日本的游戏，风靡全球并受到关注。在 Reddit 在线公告板上，人们对这起事件提出了各种观点。]]></description>
       <guid>https://wired.jp/article/palworld-pokemon-with-guns-steam-success/</guid>
       <pubDate>Tue, 23 Jan 2024 08:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>影评：《法拉利》是一部仿佛导演迈克尔·曼“自传”的作品</title>
       <link>https://wired.jp/article/ferrari-michael-mann-auto-biography/</link>
-      <description><![CDATA[几十年来，导演迈克尔·曼不断拓展视野，追求完美，并积累了一批忠实的追随者。就像电影《法拉利》中的恩佐·法拉利一样。 《连线》向导演询问了他对这部作品的看法以及年轻一代的反应。]]></description>
+      <description><![CDATA[几十年来，导演迈克尔·曼不断拓展视野，追求完美，并积累了一批忠实的追随者。就像电影《法拉利》中恩佐·法拉利所做的那样。 《连线》向导演询问了他对这部作品的看法以及年轻一代的反应。]]></description>
       <guid>https://wired.jp/article/ferrari-michael-mann-auto-biography/</guid>
       <pubDate>Sun, 21 Jan 2024 09:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国西北部爱达荷州首府博伊西正在经历大量寻求科技相关工作的年轻人涌入。随着大规模裁员加剧人们对大型科技公司的幻想破灭，它们正在转向内陆地区，而不是东西海岸的大城市。]]></description>
       <guid>https://wired.jp/article/tech-jobs-boise-idaho/</guid>
       <pubDate>Sat, 20 Jan 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·扎克伯格在夏威夷秘密建造的庞大建筑群到底是什么？</title>
-      <link>https://wired.jp/article/mark-zuckerberg-inside-hawaii-compound/</link>
-      <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 正在夏威夷一块价值约 100 亿日元的土地上建造一座大型设施，并配有一个巨大的地下避难所。美国版《连线》独家报道揭示了该项目的真实规模及其对当地社区的影响。]]></description>
-      <guid>https://wired.jp/article/mark-zuckerberg-inside-hawaii-compound/</guid>
-      <pubDate>Sat, 20 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
