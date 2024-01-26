@@ -4,7 +4,83 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jan 2024 18:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 21:11:57 GMT</lastBuildDate>
+    <item>
+      <title>提醒：Amazon Prime Video 下周将开始投放广告</title>
+      <link>https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+如果假期的喧嚣让您完全忘记（或完全错过）亚马逊下周将在 Prime Video 中投放广告的消息，我们在此提醒您广告将于 1 月 29 日星期一播出 - 除非您支付更多费用，当然。
+亚马逊恰巧在圣诞节后宣布了这一消息，在用户的收件箱中留下了一封可爱的电子邮件（大多数人当时可能根本没有检查）以宣布推出广告。新的无广告套餐每月需额外支付 2.99 美元，使您每月 14.99 美元的 Prime 订阅费用升至每月 17.98 美元，或每月 8.99 美元的独立 Prime Video 订阅费用升至每月 11.98 美元。您不会自动转移到新的无广告套餐，但您可以从亚马逊网站“预订”新套餐。 
+
+亚马逊表示，它正在做出改变，以便“继续投资于引人注目的内容，并在很长一段时间内不断增加投资。”我们也不知道亚马逊将在广告支持层上展示多少广告，但它表示其目标是“比线性电视和其他流媒体电视提供商的广告明显减少”。 
+公司去年 9 月，首次宣布计划在 Prime Video 上投放广告，而且它并不是唯一一家做出这一改变的公司。随着流媒体将广告视为另一种收入来源，Netflix 和 Disney Plus 也开始整合广告。 Prime Video 是最后一批拒绝推出广告支持流媒体服务的公司之一，因为 Max、Paramount Plus、Hulu 和 Peacock 都提供带广告的套餐 - 现在，只剩下 Apple TV Plus 了。]]></description>
+      <guid>https://www.theverge.com/2024/1/26/24051721/amazon-prime-video-ads-reminder</guid>
+      <pubDate>Fri, 26 Jan 2024 20:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnePlus 12 预购可限时免费升级存储空间</title>
+      <link>https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/26/24050729/oneplus-12-jackery-explorer-1000-portable-power-station-nintendo-eshop-deal-sale</guid>
+      <pubDate>Fri, 26 Jan 2024 19:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Teams 在全球范围内都陷入困境，不仅仅是你</title>
+      <link>https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+这是一次让您放松的愉快的中断，还是关键任务出了问题？无论哪种方式，Microsoft Teams 的“一部分”都出现故障 — 根据 来自微软官方账号的最新状态更新。 
+所以，是的，如果您现在无法通过 Microsoft 的商务通信平台与同事沟通，这可能就是原因。据报道，一些用户无法登录 Teams，而其他用户可能会看到丢失的消息、丢失的附件、延迟等。
+
+
+我们已完成 EMEA 区域的故障转移，服务遥测显示出一些改进。北美和南美区域的故障转移正在进行中，我们将继续监控。其他信息可在管理中心的 TM710344 下找到。— Microsoft 365 状态 (@MSFT365Status)  2024 年 1 月 26 日
+
+
+DownDetector 问题报告的激增表明这种情况已经持续了至少三个小时， Microsoft 于美国东部时间上午 11:45 左右正式承认了该问题。该公司表示，它发现了“影响部分 Teams 服务的网络问题”，并表示将开始故障转移来解决该问题。 
+如果您有权访问 Microsoft Teams 管理控制台，则可以在 TM710344 查看状态，不过我想大多数管理员现在已经知道这一点。
+直到几分钟前，Microsoft 的状态页面还是绿色的，表明 Microsoft Teams 一切正常，但是它刚刚更新为：
+&lt;块引用&gt;
+标题：某些用户的 Microsoft Teams 可能会遇到多个问题
+用户影响：用户可能会在使用 Microsoft Teams 时遇到多个问题。
+更多信息：受影响的场景包括但不限于：
+- 执行冷启动的用户可能无法登录团队，并且会看到“oops”页面。
+- 一段时间后登录或解锁设备的用户可能会看到丢失的消息。
+- 用户可能无法在频道和聊天中加载消息
+- 用户无法查看或下载其媒体（图像、视频、音频、通话录音、代码片段）
+- 某些消息可能会遇到发送延迟
+- 通话录音可能需要更长的时间才会显示在用户的 OneDrive for Business 和 SharePoint Online 中
+- 机器人可能无法下载附件
+- 发送和接收已读回执通知可能会延迟
+当前状态：我们的监控系统提醒我们注意一个问题，用户可能会在 Microsoft Teams 中遇到各种影响场景，如上面的“更多信息”部分所述。我们发现 Microsoft Teams 服务的一部分遇到了网络问题。我们已经完成了欧洲、中东和非洲 (EMEA) 地区的故障转移，并且遥测技术显示出改进。我们正在继续努力对所有受影响区域的服务流量进行故障转移，以纠正影响。
+下次更新时间：UTC 时间 2024 年 1 月 26 日星期五晚上 9:00
+
+据 r/sysadmin 用户称，IT 管理员在美国东部时间下午 1 点左右看到了类似的消息：
+
+
+
+Microsoft Teams 有四个 -几乎就在一年前，停电一小时。 2021 年发生了两次大规模中断，以及 2020 年和2019 年，也是如此。]]></description>
+      <guid>https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage</guid>
+      <pubDate>Fri, 26 Jan 2024 19:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>肮脏伎俩还是小胜：开发者对苹果应用商店规则持怀疑态度</title>
+      <link>https://www.theverge.com/24051818/apple-app-store-dma-eu-developer-response</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24051818/apple-app-store-dma-eu-developer-response</guid>
+      <pubDate>Fri, 26 Jan 2024 18:36:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是每个开发者都会讨厌的新苹果税</title>
+      <link>https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee</guid>
+      <pubDate>Fri, 26 Jan 2024 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>《Monkey Man》的新预告片感觉就像是向约翰·威克（John Wick）发出的警告枪</title>
       <link>https://www.theverge.com/24051748/monkey-man-trailer-universal-blumhouse-dev-patel-jordan-peele</link>
@@ -51,77 +127,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50</guid>
       <pubDate>Fri, 26 Jan 2024 16:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府将暂停新的天然气出口项目</title>
-      <link>https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause</link>
-      <description><![CDATA[&lt;图&gt;
-      
-在德克萨斯州和路易斯安那州之间的这个沼泽沿海地区，液化天然气 (LNG) 出口终端项目的激增，这些大型设施从管道接收和液化天然气，然后将液化天然气转移到船舶上进行出口，这让居民感到不安，他们认为这些植物对他们的海岸构成威胁。 |摄影：FRANCOIS PICARD/法新社，盖蒂图片社
-
-拜登政府今天宣布暂停新的天然气出口项目，称需要更好地评估每个项目的经济和环境影响。该决定不会影响正在进行的出口，只是正在等待有关向美国没有贸易关系的国家出口液化天然气（LNG）的决定“在此期间，我们将认真研究液化天然气出口对能源成本、美国能源安全和我们的环境的影响，”拜登在声明。 “新的液化天然气审批的暂停看到了气候危机的本质：我们这个时代的生存威胁。”
-“在此期间，我们将认真研究液化天然气出口对能源成本、美国能源成本的影响。能源安全和我们的环境。”
-据高级政府官员称，暂停适用于四个待决项目，拜登政府可能需要几个月的时间才能完成对每个项目的评估。 
-A 白宫今天发布的情况说明书称，能源部之前的审批程序已经五年没有更新了，它需要进行修改，以更好地评估天然气出口如何推高美国的消费者成本，并考虑每个项目的温室气体排放。所谓的天然气主要是甲烷，这是一种比二氧化碳更严重的温室气体，通常会从天然气基础设施中逸出。
-此举出台之际，乔·拜登总统面临削减美国天然气开发的压力，并试图吸引希望看到气候变化行动的选民。尽管总统承诺削减温室气体排放，但美国仍是世界最大的天然气生产国和出口国。 
-自俄罗斯入侵乌克兰以来，随着西方世界许多国家试图摆脱对俄罗斯天然气储备的依赖，美国加大了对欧洲的液化天然气出口。但本周早些时候，60 名欧洲议会议员致信拜登 说“欧洲不应被用作扩大[液化天然气]出口的借口，这会威胁我们共同的气候并对美国社区产生可怕的影响......欧洲目前的化石天然气消耗量已经得到了满足当前的进口水平和现有的基础设施。”根据白宫情况说明书，去年美国约一半的液化天然气出口到了欧洲。
-
-在今天宣布之前，拜登还因拟议的天然气出口终端污染问题而面临美国活动人士的强烈反对。路易斯安那州互助组织船舶项目在 今天的 Facebook 帖子。它是计划在议会举行静坐的团体之一，但该活动已被取消。能源部二月份停止批准新的液化天然气设施。 
-该网站已获得超过 300,000 个签名，其中包括名人活动人士简·方达 (Jane Fonda) 的支持，目前正在发起一项具有相同目标的请愿书说，“我们做到了！拜登总统将暂停所有新的液化天然气出口终端。”
-]]></description>
-      <guid>https://www.theverge.com/2024/1/26/24051575/biden-gas-export-projects-pause</guid>
-      <pubDate>Fri, 26 Jan 2024 15:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iPhone 上跟踪朋友和家人</title>
-      <link>https://www.theverge.com/24051550/iphone-apple-location-track-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24051550/iphone-apple-location-track-how-to</guid>
-      <pubDate>Fri, 26 Jan 2024 15:54:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>荣耀Magic V2评测：出色的可折叠运行软件</title>
-      <link>https://www.theverge.com/24051466/honor-magic-v2-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24051466/honor-magic-v2-review</guid>
-      <pubDate>Fri, 26 Jan 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星新手机在中国用百度取代谷歌人工智能</title>
-      <link>https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai</link>
-      <description><![CDATA[&lt;图&gt;
-      
-本月早些时候在美国发布了三星 S24 Ultra。 |摄影：Allison Johnson / The Verge
-
-三星 Galaxy S24 系列已在中国推出，该公司正在利用中国科技巨头百度为其 Galaxy AI 功能提供支持，CNBC 报道。没有提及 Google，其Gemini 基础模型正在提供支持 三星 Galaxy AI 功能在西方市场。相反，中国发布的重点是百度的 Ernie，这是推出的聊天机器人去年八月。
-中国版 Galaxy S24 上的人工智能翻译、摘要和文本格式化功能列表对于任何关注其在美国发布的人来说都会很熟悉。还有实时通话翻译，就像我们本月早些时候看到的那样，手机甚至还获得了 Google 的 Circle to Search 功能。
-“现在具有厄尼的理解和生成能力”
-“升级后的三星Note Assistant现在具有Ernie的理解和生成能力，只需点击一下按钮即可翻译内容并将冗长的内容总结为清晰、智能组织的格式，”三星电子中国和百度表示CNBC 发表的一份声明中。 
-这一替代可能是由于 Google 在中国的业务有限。尽管 Android 设备在该国广泛销售，但它们并未附带 Google 应用程序和服务，这些应用程序和服务是 其他地方操作系统的固有部分。 路透社指出百度在推出之前必须获得中国政府的批准厄尼。 
-过去十年，三星在中国的影响力大幅减弱。 IDC 本周的报告甚至没有将其列入 2023 年移动出货量前五名的品牌中2013年，该公司是该国最大的智能手机制造商，市场份额约为20%，但到2018年，其份额已降至仅1%，此后一直徘徊在这个水平，路透社报道，添加与本地内容公司的合作是其重建中国业务的一部分。]]></description>
-      <guid>https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai</guid>
-      <pubDate>Fri, 26 Jan 2024 14:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>惊喜！ Google Chrome 原生适用于 Arm 上的 Windows</title>
-      <link>https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-Google 似乎正在为 Arm 上的 Windows 准备一个流行的 Chrome 浏览器版本。 X（以前称为 Twitter）用户 Pedro Justo 在最新的 nightly 中发现了适用于 Windows 11 Arm 设备的浏览器本机版本Canary 渠道中的 Chrome 版本。
-Google 发布了适用于 Arm 上 Windows 的 Chrome Canary 版本，这令人感到意外，我们已联系该公司，澄清其计划何时将其引入稳定渠道。我已经安装并测试了 Canary 版本，以验证它是 ARM64 版本。
-
-
-汤姆·沃伦 / The Verge 的截图
-Windows 11 上的 Chrome ARM64 本机版本。﻿
-
-虽然微软长期以来一直支持同样基于 Chromium 的 Arm 版本 Edge 浏览器，但谷歌直到本周才显示出支持 Arm 上 Windows 的迹象。这使得运行在高通最新 Snapdragon 芯片上的 Windows 设备必须在模拟状态下运行 Chrome，且性能较低。
-Edge ARM64 版本与在 Windows on Arm 设备上运行的常规 x86 版本 Chrome 之间存在显着差异。 Arm 设备上的 Edge 原生版本感觉就像任何其他英特尔机器一样，但 Arm 上 Windows 上的 Chrome 的速度下降和性能问题非常明显。
-Google 长期以来一直在其 Chromebook 中支持 Arm 处理器，并提供针对高通芯片优化的 ​​ChromeOS 版本。微软能够推出自己的 ARM64 版本的 Edge，因为该软件制造商使用 Chromium 的基础知识构建了一款新的浏览器，而没有使用 Google 的 Widevine 数字版权管理 (DRM) 系统。其他也使用 Chromium 的浏览器供应商仍然坚持使用 Google 的 DRM&lt; /a&gt; 因此，Windows 上本机 Arm 浏览器的选择实际上就是 Edge。
-正如我去年所写，2024 年即将到来对于 Windows 和笔记本电脑来说，今年将是重要的一年。得益于高通全新的 Snapdragon X Elite 处理器，微软和高通都在为 Windows on Arm 的下一次重大推动做准备。高通声称其最新芯片将击败苹果、英特尔和 AMD，而最近的报告表明两者Nvidia 和 AMD 计划最早在 2025 年推出 Arm PC 芯片。让 Google 加入这一努力对于 Arm 上 Windows 的未来可能具有重要意义。]]></description>
-      <guid>https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test</guid>
-      <pubDate>Fri, 26 Jan 2024 12:22:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
