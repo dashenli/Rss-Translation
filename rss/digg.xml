@@ -4,7 +4,14 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Fri, 26 Jan 2024 15:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 18:19:09 GMT</lastBuildDate>
+    <item>
+      <title>世界上所有核废料的可视化</title>
+      <link>https://rss.digg.com/data-viz/link/world-nuclear-waste-total-visualized</link>
+      <description><![CDATA[高放废物占全球放射性废物总量的不到 0.25%。唷。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/world-nuclear-waste-total-visualized</guid>
+      <pubDate>Thu, 25 Jan 2024 11:11:40 GMT</pubDate>
+    </item>
     <item>
       <title>安东尼·波登在火车上，以及本周其他最佳模因排名</title>
       <link>https://rss.digg.com/memes-ranked/link/best-memes-ranked-jason-kelce-bourdain-train-Serieus-Probleem</link>
@@ -15,7 +22,7 @@
     <item>
       <title>布里吉特·芳达 60 岁：九十年代伟人消失得无影无踪</title>
       <link>https://www.independent.co.uk/arts-entertainment/films/features/bridget-fonda-now-retired-b2483287.html</link>
-      <description><![CDATA[《杰基·布朗》和《单身白人女性》中的明星在整个九十年代都是不可避免的——一位令人眼花缭乱的电影明星，既擅长扮演焦虑的普通女人，又是一个纵容的恶棍。然后，在2002年，她干脆停止了演艺事业。]]></description>
+      <description><![CDATA[《杰基·布朗》和《单身白人女性》的主演在整个九十年代都是不可避免的——一位令人眼花缭乱的电影明星，既擅长扮演焦虑的普通女人，又是一个纵容的恶棍。然后，在2002年，她干脆停止了演艺事业。]]></description>
       <guid>https://www.independent.co.uk/arts-entertainment/films/features/bridget-fonda-now-retired-b2483287.html</guid>
       <pubDate>Thu, 25 Jan 2024 09:32:18 GMT</pubDate>
     </item>
@@ -25,13 +32,6 @@
       <description><![CDATA[“MrBeast X 视频传奇（不是色情作品）以最有趣的方式结束了。”]]></description>
       <guid>https://www.garbageday.email/p/mrbeast-screwed-elons-pyramid-scheme</guid>
       <pubDate>Thu, 25 Jan 2024 08:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>娜塔莎·雷昂坦白马龙·白兰度在《恐怖电影 2》片场的感受</title>
-      <link>https://rss.digg.com/digg-vids/link/natasha-lyonne-marlon-brando</link>
-      <description><![CDATA[白兰度的状况非常糟糕，但在他退出影片之前发生了一些非常奇怪的事件。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/natasha-lyonne-marlon-brando</guid>
-      <pubDate>Wed, 24 Jan 2024 16:21:04 GMT</pubDate>
     </item>
     <item>
       <title>前人力资源员工分享对 2024 年持续大规模科技裁员的见解</title>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 23 Jan 2024 11:45:36 GMT</pubDate>
     </item>
     <item>
-      <title>人们当场辞职的最令人震惊的原因</title>
+      <title>导致人们当场辞职的最恶劣情况</title>
       <link>https://rss.digg.com/internet-culture/link/why-people-quit</link>
       <description><![CDATA[大多数时候，人们在辞职时会提前两周发出通知。然而，有些情况可以让员工站起来，走出去，不再回头。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/why-people-quit</guid>
@@ -104,11 +104,11 @@
       <pubDate>Sun, 21 Jan 2024 18:18:22 GMT</pubDate>
     </item>
     <item>
-      <title>播放“翻转”</title>
-      <link>https://rss.digg.com/puzzmo/link/flipart</link>
-      <description><![CDATA[您的目标是旋转拼图，使拼图不重叠或突出，并且拼图框架内没有空白区域。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/flipart</guid>
-      <pubDate>Mon, 11 Dec 2023 20:28:39 GMT</pubDate>
+      <title>播放“类型转换”</title>
+      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
+      <description><![CDATA[你的目标是把每一个字母都变得扎实。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
+      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
