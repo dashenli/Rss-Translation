@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Fri, 26 Jan 2024 12:23:30 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Fri, 26 Jan 2024 15:15:39 GMT</lastBuildDate>
+    <item>
+      <title>欧空局开始执行世界上第一个探测时空结构涟漪的任务</title>
+      <link>https://thenextweb.com/news/esa-lisa-mission-gravitational-waves-ripples-space-tech</link>
+      <description><![CDATA[欧洲航天局 (ESA) 已批准激光干涉仪空间天线 (LISA)任务，第一个探测和研究来自太空的宇宙涟漪的科学努力。 LISA 计划于 2035 年使用阿丽亚娜 6 号火箭发射。该项目预计将是该机构有史以来最昂贵、最复杂的项目。宇宙涟漪，也称为引力波，是在宇宙中一些最戏剧性的事件中产生的，例如黑洞碰撞时。通过测量它们，LISA 将探索宇宙的整个历史，追溯到恒星和星系形成之前很久。…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/esa-lisa-mission-gravitational-waves-ripples-space-tech</guid>
+      <pubDate>Fri, 26 Jan 2024 14:19:01 GMT</pubDate>
+    </item>
     <item>
       <title>苹果不情愿地允许欧盟客户在 iPhone 上使用竞争对手的应用商店</title>
       <link>https://thenextweb.com/news/apple-eu-app-store-changes</link>
@@ -43,7 +50,7 @@
     <item>
       <title>泄露的欧盟人工智能法案“给组织敲响了警钟”</title>
       <link>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</link>
-      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举前实施。那…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举之前实施。那…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</guid>
       <pubDate>Wed, 24 Jan 2024 16:08:02 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Junbi.ai 加入 TNW for Startups 计划并在之前的 TNW 会议上展出。这个故事是该节目的一部分；它是在 TNW 的完全编辑控制下编写的。在这里查看今年的套餐！几年前，君币人工智能专注于人工智能的团队进行了一项富有洞察力的神经科学研究。他们邀请了10位广告创意人士带来他们最喜欢的作品。然后，他们将创意人员放入磁共振成像 (MRI) 扫描仪中以监测大脑活动，并要求他们对彼此的作品进行评分。事实证明，给出的成绩既相似又一致。除了一个重要的例外 -…这个故事在 The Next Web 继续或者阅读更多相关报道：YouTube]]></description>
       <guid>https://thenextweb.com/news/youtube-ads-more-effective-ai-powered-neuromarketing</guid>
       <pubDate>Wed, 24 Jan 2024 13:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家警告说，各国可能已经生产出逃避网络安全防御的人工智能恶意软件</title>
-      <link>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</link>
-      <description><![CDATA[根据数据，人工智能生成的恶意软件可以逃避检测，已经可供国家使用英国网络安全机构。国家网络安全中心 (NCSC) 今天表示，为了生产如此强大的软件，威胁行为者需要根据“优质漏洞数据”训练人工智能模型。由此产生的系统将创建规避当前安全措施的新代码。 NCSC 警告说：“能力强的国家很有可能拥有足够大的恶意软件存储库，足以为此目的有效地训练人工智能模型。”至于“现实可能性”的实际含义，该机构的“概率标准”提供了一定的清晰度。这是…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</guid>
-      <pubDate>Wed, 24 Jan 2024 11:18:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
