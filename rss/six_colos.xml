@@ -3,16 +3,31 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 25 Jan 2024 21:13:21 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Fri, 26 Jan 2024 00:56:02 GMT</lastBuildDate>
+    <item>
+      <title>iOS 17.4 提供完整、自动的播客转录</title>
+      <link>https://sixcolors.com/post/2024/01/full-automatic-podcast-transcripts-coming-to-ios-17-4/</link>
+      <description><![CDATA[ 我们没有上传这个。苹果刚刚……做到了。
+iOS 17.4 的变化之一是对播客可访问性的巨大改进：播客应用中的转录内容。…]]></description>
+      <guid>https://sixcolors.com/post/2024/01/full-automatic-podcast-transcripts-coming-to-ios-17-4/</guid>
+      <pubDate>Thu, 25 Jan 2024 21:26:15 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 更改 iOS 上的游戏流媒体规则 ↦</title>
       <link>https://sixcolors.com/link/2024/01/apple-changes-game-streaming-rules-on-ios/</link>
-      <description><![CDATA[苹果公司关于其针对欧盟的变化的公告中有很多内容需要解开，我们当然会深入研究这一点，但该公司实际上宣布了另一项将在全球范围内适用的重大变化：
+      <description><![CDATA[苹果公司关于其针对欧盟的变化的公告中有很多内容需要解释，我们当然会深入研究这一点，但该公司实际上宣布了另一项将在全球范围内适用的重大变化：
 &lt;块引用&gt;
   今天，Apple 推出了新的选项，帮助全球应用程序向用户提供应用内体验，包括流媒体游戏和小程序。…]]></description>
       <guid>https://sixcolors.com/link/2024/01/apple-changes-game-streaming-rules-on-ios/</guid>
       <pubDate>Thu, 25 Jan 2024 18:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>40 岁时的 Mac 和 Vision Pro 规划（6C 播客）</title>
+      <link>https://sixcolors.com/member-podcast/2024/01/mac-at-40-and-vision-pro-planning/</link>
+      <description><![CDATA[40 岁时查看 Mac 的不同方式；为 Vision Pro 制定我们自己的计划；并简要提及苹果正在改变在这些计划公开之前记录的欧盟规则！… 这个故事仅适用于六色会员。 成为会员即可访问独家故事、播客和社区。]]></description>
+      <guid>https://sixcolors.com/member-podcast/2024/01/mac-at-40-and-vision-pro-planning/</guid>
+      <pubDate>Thu, 25 Jan 2024 18:21:59 GMT</pubDate>
     </item>
     <item>
       <title>iPhone 需要了解其用户也是移动用户（会员帖子）</title>
@@ -60,10 +75,10 @@
       <pubDate>Wed, 24 Jan 2024 18:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>Mac 40 岁：时代之旅</title>
+      <title>Mac 40 岁：时代巡演</title>
       <link>https://sixcolors.com/post/2024/01/mac-at-40-the-eras-tour/</link>
       <description><![CDATA[生日快乐，Mac。我给你买了一个蛋糕。
-在我开始为 The Verge 撰写有关 Mac 40 周年的文章之前，我正在考虑用不同的方式来描绘 Mac 的历史轨迹。…]]></description>
+在我开始为 The Verge 撰写有关 Mac 40 周年的文章之前，我一直在考虑用不同的方式来描绘 Mac 的历史轨迹。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/mac-at-40-the-eras-tour/</guid>
       <pubDate>Wed, 24 Jan 2024 17:51:53 GMT</pubDate>
     </item>
@@ -104,24 +119,6 @@
       <description><![CDATA[为了庆祝 Mac 诞生 40 周年，我们召集了一个由 Mac 长期用户组成的全明星小组，以挑选最好的 Mac、Mac 软件和 Mac 配件，并在 Mac 大厅举办一些活动或设备。耻辱。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/upgrade-496-40th-anniversary-of-the-mac-draft/</guid>
       <pubDate>Mon, 22 Jan 2024 22:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>两款电子阅读器让我重新考虑为什么使用电子阅读器</title>
-      <link>https://sixcolors.com/post/2024/01/two-e-readers-that-made-me-reconsider-why-i-use-e-readers/</link>
-      <description><![CDATA[从左到右：Boox Page、TCL NXTPAPER 11、Kobo Libra 2。
-自该网站成立第一个月起，我就一直在撰写有关电子阅读器（Kindle、Kobos 等）的文章。…]]></description>
-      <guid>https://sixcolors.com/post/2024/01/two-e-readers-that-made-me-reconsider-why-i-use-e-readers/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
-      <link>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-13/</link>
-      <description><![CDATA[
-&lt;图标题&gt;
-想要在 iPhone、iPad 和 Mac 上的 Safari 中体验两倍的加载速度吗？
-然后下载Magic Lasso Adblock  - 专为您设计的广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/01/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-13/</guid>
-      <pubDate>Mon, 22 Jan 2024 17:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
