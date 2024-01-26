@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Fri, 26 Jan 2024 09:15:37 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Fri, 26 Jan 2024 12:23:30 GMT</lastBuildDate>
+    <item>
+      <title>苹果不情愿地允许欧盟客户在 iPhone 上使用竞争对手的应用商店</title>
+      <link>https://thenextweb.com/news/apple-eu-app-store-changes</link>
+      <description><![CDATA[Apple 将允许其设备的欧盟用户下载应用程序由于这家科技巨头不情愿地遵守欧盟即将出台的《数字市场法案》(DMA)，因此无需通过其应用程序商店。苹果还将为 iPhone 和 iPad 用户提供一系列浏览器作为默认浏览器，并允许使用 Apple Pay 以外的替代支付系统。从今年 3 月起，这些全面的变化将对在欧盟购买的所有新 Apple 设备生效。从理论上讲，这可能会导致谷歌 Play 商店等主要竞争对手出现在苹果设备上。职业竞赛…这个故事在 The Next Web 上继续或者只是阅读有关以下内容的更多报道：苹果]]></description>
+      <guid>https://thenextweb.com/news/apple-eu-app-store-changes</guid>
+      <pubDate>Fri, 26 Jan 2024 09:20:56 GMT</pubDate>
+    </item>
     <item>
       <title>TNW 播客：Ton van ‘t Noordende 谈欧洲量子技术；欧洲人进入太空</title>
       <link>https://thenextweb.com/news/podcast-ton-van-t-noordende-european-quantum-tech</link>
@@ -36,7 +43,7 @@
     <item>
       <title>泄露的欧盟人工智能法案“给组织敲响了警钟”</title>
       <link>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</link>
-      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举之前实施。那…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举前实施。那…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</guid>
       <pubDate>Wed, 24 Jan 2024 16:08:02 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[根据数据，人工智能生成的恶意软件可以逃避检测，已经可供国家使用英国网络安全机构。国家网络安全中心 (NCSC) 今天表示，为了生产如此强大的软件，威胁行为者需要根据“优质漏洞数据”训练人工智能模型。由此产生的系统将创建规避当前安全措施的新代码。 NCSC 警告说：“能力强的国家很有可能拥有足够大的恶意软件存储库，足以为此目的有效地训练人工智能模型。”至于“现实可能性”的实际含义，该机构的“概率标准”提供了一定的清晰度。这是…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/states-actors-ai-malware-evade-detection-ncsc</guid>
       <pubDate>Wed, 24 Jan 2024 11:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 个具有长期活力的技术工作</title>
-      <link>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</link>
-      <description><![CDATA[虽然科技行业在 2023 年遭遇低迷，导致大量裁员，但仍有行业内外对某些技术工作的需求很高。尽管如此，这些失业，加上过去一年生成式人工智能工具的快速增长，给许多人播下了怀疑的种子，引发了一个问题：科技工作是否能提供良好的工作保障？在最近的一次采访中，诺贝尔经济学奖获得者克里斯托弗·皮萨里德斯教授告诫学生们，在选择学习 STEM 科目时，未来在科技领域的职位可能比预期的更加有限。他在后来的一篇文章中澄清了这一点…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</guid>
-      <pubDate>Tue, 23 Jan 2024 17:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

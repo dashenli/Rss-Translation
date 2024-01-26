@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 26 Jan 2024 09:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 12:24:49 GMT</lastBuildDate>
+    <item>
+      <title>修复累积布局移位问题</title>
+      <link>https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog</link>
+      <description><![CDATA[累积布局偏移 (CLS) 是核心 Web 重要性能指标之一。 
+]]></description>
+      <guid>https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog</guid>
+      <pubDate>Fri, 26 Jan 2024 09:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>相信过程</title>
+      <link>https://medium.com/smith-diction/trust-the-process-97ac8999d56a</link>
+      <description><![CDATA[史密斯＆amp;词典识别过程。
+]]></description>
+      <guid>https://medium.com/smith-diction/trust-the-process-97ac8999d56a</guid>
+      <pubDate>Fri, 26 Jan 2024 09:29:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>麦金塔，40 岁生日快乐</title>
+      <link>https://mac40th.com/</link>
+      <description><![CDATA[该网站展示了 Apple 制作的每台 Macintosh 台式机和便携式设备，其中包含数百张照片。
+]]></description>
+      <guid>https://mac40th.com/</guid>
+      <pubDate>Fri, 26 Jan 2024 09:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>12 个现代 CSS 一线升级</title>
+      <link>https://moderncss.dev/12-modern-css-one-line-upgrades/</link>
+      <description><![CDATA[有时，改进应用程序 CSS 只需要一行升级或增强即可！
+]]></description>
+      <guid>https://moderncss.dev/12-modern-css-one-line-upgrades/</guid>
+      <pubDate>Fri, 26 Jan 2024 09:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像识别基础知识</title>
+      <link>https://journal.everypixel.com/basics-of-image-recognition</link>
+      <description><![CDATA[探索历史、关键术语以及图像识别的工作原理。深入了解图像识别 API 及其实现。
+]]></description>
+      <guid>https://journal.everypixel.com/basics-of-image-recognition</guid>
+      <pubDate>Fri, 26 Jan 2024 09:22:43 GMT</pubDate>
+    </item>
     <item>
       <title>院士</title>
       <link>https://anniversary.bonhommeparis.com/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://polypane.app/blog/my-take-on-fading-content-using-transparent-gradients-in-css/</guid>
       <pubDate>Wed, 24 Jan 2024 00:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾洛伟大梦想的悄然消亡</title>
-      <link>https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/</link>
-      <description><![CDATA[Ello 于 2014 年推出，怀揣着远大的梦想，但这个充满艺术气息的社交网络去年突然关闭。
-]]></description>
-      <guid>https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/</guid>
-      <pubDate>Tue, 23 Jan 2024 05:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>自然摄影大赛获奖者</title>
-      <link>https://thenaturephotocontest.com/photo-contest-winners-2023</link>
-      <description><![CDATA[2023 年自然摄影大赛结果。
-]]></description>
-      <guid>https://thenaturephotocontest.com/photo-contest-winners-2023</guid>
-      <pubDate>Tue, 23 Jan 2024 05:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>奈米</title>
-      <link>https://naymee.com/</link>
-      <description><![CDATA[专为热爱域名的人们打造的社交网络。
-]]></description>
-      <guid>https://naymee.com/</guid>
-      <pubDate>Tue, 23 Jan 2024 04:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年 Readymag 年度网站</title>
-      <link>https://readymag.com/readymag/websites-of-the-year/</link>
-      <description><![CDATA[2023 年的获奖者已经公布。下一期年度网站将于 2024 年春季回归。
-]]></description>
-      <guid>https://readymag.com/readymag/websites-of-the-year/</guid>
-      <pubDate>Tue, 23 Jan 2024 04:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 首届 DevDay 会议的新鲜且合适的身份</title>
-      <link>https://the-brandidentity.com/project/bit-by-bit-how-play-designed-a-fresh-and-fitting-identity-for-openais-first-devday-conference</link>
-      <description><![CDATA[当 OpenAI 决定举办第一个 DevDay 时，它开始寻找一个身份。
-]]></description>
-      <guid>https://the-brandidentity.com/project/bit-by-bit-how-play-designed-a-fresh-and-fitting-identity-for-openais-first-devday-conference</guid>
-      <pubDate>Tue, 23 Jan 2024 04:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
