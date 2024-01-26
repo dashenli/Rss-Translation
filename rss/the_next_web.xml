@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Fri, 26 Jan 2024 06:17:48 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Fri, 26 Jan 2024 09:15:37 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：Ton van ‘t Noordende 谈欧洲量子技术；欧洲人进入太空</title>
+      <link>https://thenextweb.com/news/podcast-ton-van-t-noordende-european-quantum-tech</link>
+      <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Andrii 和 Linnea 谈论了太空中的欧洲人、未来的激光武器、具身认知、函数式编程语言等等！在采访部分，我们将与 QDNL Participations 董事总经理兼 InfinityQD 架构师 Ton van ‘t Noordende 进行对话。我们将讨论荷兰和全球的量子计算生态系统、其挑战和前景，以及这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/podcast-ton-van-t-noordende-european-quantum-tech</guid>
+      <pubDate>Fri, 26 Jan 2024 07:54:12 GMT</pubDate>
+    </item>
     <item>
       <title>英国正在探索空中出租车的垂直机场设计</title>
       <link>https://thenextweb.com/news/uk-studies-vertiports-evtol-flying-taxis</link>
@@ -29,7 +36,7 @@
     <item>
       <title>泄露的欧盟人工智能法案“给组织敲响了警钟”</title>
       <link>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</link>
-      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举前实施。那…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧盟人工智能法案的泄露消除了对其通过的疑虑，但批评者担心这些计划会抑制创新。最终版本的全部 892 页由 Euractiv 技术编辑 Luca Bertuzzi 于周一发布，而欧洲议会政策顾问 Laura Caroli 分享了仅有 258 页的综合版本。现在只能对语言或技术细节进行全面监管。欧盟大使定于 2 月 2 日通过该法案。如果一切按计划进行，最终法规将在 6 月欧洲议会选举之前实施。那…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-ai-act-leak-removes-dobuts</guid>
       <pubDate>Wed, 24 Jan 2024 16:08:02 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>5 个具有长期活力的技术工作</title>
       <link>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</link>
-      <description><![CDATA[虽然科技行业在 2023 年遭遇低迷，导致大量裁员，但仍有行业内外对某些技术工作的需求很高。尽管如此，这些失业，加上过去一年生成式人工智能工具的快速增长，给许多人播下了怀疑的种子，引发了一个问题：科技工作是否能提供良好的工作保障？在最近的一次采访中，诺贝尔经济学奖获得者克里斯托弗·皮萨里德斯教授告诫学生们，在选择学习 STEM 科目时，要为未来在科技领域的职位做好准备，而这些职位的可用性可能比预期的更为有限。他在后来的一篇文章中澄清了这一点…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[虽然科技行业在 2023 年遭遇低迷，导致大量裁员，但仍有行业内外对某些技术工作的需求很高。尽管如此，这些失业，加上过去一年生成式人工智能工具的快速增长，给许多人播下了怀疑的种子，引发了一个问题：科技工作是否能提供良好的工作保障？在最近的一次采访中，诺贝尔经济学奖获得者克里斯托弗·皮萨里德斯教授告诫学生们，在选择学习 STEM 科目时，未来在科技领域的职位可能比预期的更加有限。他在后来的一篇文章中澄清了这一点…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/5-tech-jobs-long-term-staying-power</guid>
       <pubDate>Tue, 23 Jan 2024 17:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克龙说服英国核电初创公司在法国建造第一家工厂</title>
-      <link>https://thenextweb.com/news/newcleo-uk-nuclear-startup-to-build-its-first-factory-in-france</link>
-      <description><![CDATA[总部位于伦敦的核能初创公司 Newcleo 已取消了建造其第一个核电站的计划在英国建厂，而选择在法国投资。据《每日电讯报》报道，法国总统埃马纽埃尔·马克龙 (Emmanuel Macron) 曾多次亲自会见 Newcleo 首席执行官兼创始人斯特凡诺·博诺 (Stefano Buono)，并进行了广泛游说，说服他在法国建造该公司的第一个模块化核反应堆。 Newcleo 成立于 2021 年，开发由放射性废物提供动力的小型核反应堆。该公司最初试图利用英国前塞拉菲尔德核电站储存的大量核废料为其反应堆提供动力。但两年后…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/newcleo-uk-nuclear-startup-to-build-its-first-factory-in-france</guid>
-      <pubDate>Tue, 23 Jan 2024 16:54:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
