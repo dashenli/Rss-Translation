@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 06:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 12:13:48 GMT</lastBuildDate>
     <item>
-      <title>问 HN：ChatGPT 对于许多任务来说变得毫无用处吗？</title>
-      <link>https://t.me/hn_summary/71427</link>
-      <description><![CDATA[问 HN：ChatGPT 对于许多任务来说变得毫无用处吗？
-news.ycombinator.com 上帖子的作者表示对 AI 编码助手 ChatGPT 4 感到沮丧。他们提到，当他们要求该工具使用简单的模式转换一些代码时，它会回复一条消息，称它无法满足请求，而无需任何解释或尝试做某事。作者还提到，即使对于相对简单的编程任务，ChatGPT 4 也很难提供正确的实现或编写没有错误的单元测试。作者的结论是，该工具更多的是浪费时间而不是有用，这表明围绕人工智能编码助手的炒作有些夸大，开发人员的工作目前是安全的。]]></description>
-      <guid>https://t.me/hn_summary/71427</guid>
-      <pubDate>Sun, 28 Jan 2024 06:09:37 GMT</pubDate>
+      <title>[媒体]该博客文章讨论了在 ell 中验证公钥和参数的重要性 [...]</title>
+      <link>https://t.me/hn_summary/71452</link>
+      <description><![CDATA[椭圆曲线加密验证图解指南
+该博客文章讨论了验证椭圆曲线加密 (ECC) 中的公钥和参数以防止漏洞和攻击的重要性。它强调了验证中的常见失败，并提供了避免失败的图解指南。该帖子强调需要检查点坐标是否低于场模量、对应于有效的曲线点、不是无穷远点并且位于正确的子组中。它还提到，虽然这些验证规则通常适用于所有曲线，但某些曲线和结构旨在防止这些问题。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71452</guid>
+      <pubDate>Sun, 28 Jan 2024 12:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]意识是一个量子系统的理论正在获得科学家的支持。</title>
-      <link>https://t.me/hn_summary/71426</link>
-      <description><![CDATA[意识是量子系统的理论获得支持 
-意识是一个量子系统的理论正在获得科学家的支持。麻醉学家 Stuart Hameroff 和理论物理学家 Roger Penrose 提出了 Orch Or 理论，该理论表明意识体验源于大脑中的量子现象。最近对鸟类大脑的研究和都柏林三一学院的实验也表明大脑中存在量子处理。该理论挑战了唯物主义，并表明量子过程可能在人类行为和决策中发挥作用。虽然该理论仍缺乏坚实的实验证据，但科学家们现在更愿意考虑它。]]></description>
-      <guid>https://t.me/hn_summary/71426</guid>
-      <pubDate>Sun, 28 Jan 2024 04:35:07 GMT</pubDate>
+      <title>GULP 网站目前正在招聘 Windows 3.11 管理员职位空缺。</title>
+      <link>https://t.me/hn_summary/71451</link>
+      <description><![CDATA[远程：Windows 3.11 管理员（男/女/女）
+GULP 网站目前正在招聘 Windows 3.11 管理员职位空缺。该职位位置偏远，对所有性别的个人开放。职位描述没有提供有关该职位所需职责或资格的任何具体细节。然而，有趣的是，该公司仍在为相对过时的操作系统寻找管理员。目前尚不清楚为什么他们专门寻找具有 Windows 3.11 专业知识的人，因为该系统已发布 25 多年前，并且已不再广泛使用。]]></description>
+      <guid>https://t.me/hn_summary/71451</guid>
+      <pubDate>Sun, 28 Jan 2024 12:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>为什么好的内容会发布在错误的平台上？</title>
-      <link>https://t.me/hn_summary/71425</link>
-      <description><![CDATA[为什么好的内容会发布在错误的平台上？ 
-本文讨论了为什么好的内容经常会发布在错误的平台上，例如 Twitter 或 YouTube，而不是写成博客文章。作者承认，他们个人更喜欢长篇博客文章，但也认识到许多人使用 Twitter 或视频等平台，因为他们可以获得更多参与度，他们的朋友都在这些平台上，摩擦更低，而且盈利更好。作者还强调，有些人选择某个平台可能有情感或实际原因，例如患有注意力缺陷多动症并且发现写推文更容易。文章的结论是，虽然他们更喜欢将内容托管在文本博客上，但现实是，如果必须以长文本形式编写，那么很多内容根本不存在。 （根据 64% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/71425</guid>
-      <pubDate>Sun, 28 Jan 2024 04:16:57 GMT</pubDate>
+      <title>Anki 是一款功能强大的抽认卡应用程序，其网站提供了有关如何访问酸 [...]</title>
+      <link>https://t.me/hn_summary/71450</link>
+      <description><![CDATA[Anki – 强大、智能的闪存卡
+Anki 是一款功能强大的抽认卡应用程序，其网站为那些有兴趣构建自己的版本的人提供了如何访问 GitHub 上的源代码的信息。该网站还提供了将 Anki 翻译成不同语言的说明。 AnkiMobile 是适用于 Apple 设备的付费配套应用程序，而 AnkiDroid 是适用于 Android 设备的免费版本。令人惊讶的是，AnkiDroid 是由一个单独的团队开发的，他们决定根据桌面代码将其免费。]]></description>
+      <guid>https://t.me/hn_summary/71450</guid>
+      <pubDate>Sun, 28 Jan 2024 11:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AT&T 无意中为气候风险和抵御能力创造了宝贵的资源。</title>
-      <link>https://t.me/hn_summary/71424</link>
-      <description><![CDATA[AT&amp;T 无意中创建了气候风险和复原力资源，开放使用
-AT&amp;T 无意中为气候风险和抵御能力创造了宝贵的资源。为了保护其手机信号塔免受极端天气事件的影响，该公司与美国能源部阿贡国家实验室的研究人员合作创建模型，预测面临洪水、干旱和野火风险的地点。这些地图现在可以通过气候风险和复原力门户网站免费获取，使社区能够就学校和医院等重要机构的安置位置做出明智的决定。这一资源对于气候恢复能力至关重要，特别是考虑到美国 90% 的县在过去十年中经历了气候灾难。]]></description>
-      <guid>https://t.me/hn_summary/71424</guid>
-      <pubDate>Sun, 28 Jan 2024 04:09:49 GMT</pubDate>
+      <title>为了寻找负担得起的智能合约审计，作者转向在线社区 [...]</title>
+      <link>https://t.me/hn_summary/71449</link>
+      <description><![CDATA[我正在寻找一家网络安全公司进行负担得起的智能合约审计
+为了寻找负担得起的智能合约审计，作者向在线社区寻求帮助。他们联系那些之前接受过此类审计的人，寻求定价指导。作者的目的是找到一家网络安全公司，能够以合理的成本对其智能合约进行彻底的审计。索取定价信息的请求表明，作者正在寻求透明度，并希望确保他们不会对服务收取过高的费用。]]></description>
+      <guid>https://t.me/hn_summary/71449</guid>
+      <pubDate>Sun, 28 Jan 2024 11:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/71423</link>
-      <description><![CDATA[美国在征兵危机中陆军放弃了高中文凭要求
-为了解决国防部面临的招募危机，美国陆军取消了对潜在新兵拥有高中文凭或 GED 证书的要求。新兵仍必须年满 18 岁，并且在武装部队职业能力倾向测试 (ASVAB) 测试中得分至少为 50 分。政策发生变化之际，陆军正在努力实现其征兵目标，今年仅实现了 40% 的目标。陆军还放宽了纹身规定以吸引更多新兵。招聘挑战发生在竞争激烈、失业率较低的就业市场。]]></description>
-      <guid>https://t.me/hn_summary/71423</guid>
-      <pubDate>Sun, 28 Jan 2024 04:02:41 GMT</pubDate>
+      <title>[媒体]美国核物理学家</title>
+      <link>https://t.me/hn_summary/71448</link>
+      <description><![CDATA[重力有助于显示质子中强大的力量&lt; br/&gt;
+美国能源部托马斯·杰斐逊国家加速器设施的核物理学家利用重力来确定质子内部强力的分布。这项研究为质子的组成部分（称为夸克）所经历的环境提供了新的见解。研究表明，需要对夸克施加超过四吨的力才能将其从质子中拉出来。这项研究是通过半个世纪前的预测和两个十年前的数据得以实现的。这些发现为探索质子的机械特性开辟了一条新途径，并已经改变了科学家对其结构的思考方式。]]></description>
+      <guid>https://t.me/hn_summary/71448</guid>
+      <pubDate>Sun, 28 Jan 2024 11:58:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据一份泄露的谷歌内部备忘录，该公司的首要任务是新的 [...]</title>
-      <link>https://t.me/hn_summary/71422</link>
-      <description><![CDATA[泄露的 Google 备忘录显示漫无目的的高管基本上崇拜人工智能&lt; br/&gt;
-根据一份泄露的谷歌内部备忘录，该公司新年的首要任务是提供世界上最先进、安全和负责任的人工智能。这并不奇怪，因为谷歌一直在人工智能领域投入巨资，并计划将其集成到 Android 智能手机中。然而，一些员工和批评者担心，这种对人工智能的关注正在损害公司的核心业务并导致大规模裁员。此外，人工智能技术的扩散暴露了谷歌搜索引擎功能的恶化，搜索引擎优化垃圾邮件和人工智能伪造的网页在搜索结果中变得更加普遍。尽管存在这些担忧，谷歌仍然致力于推动人工智能的发展。]]></description>
-      <guid>https://t.me/hn_summary/71422</guid>
-      <pubDate>Sun, 28 Jan 2024 03:38:28 GMT</pubDate>
+      <title>Dewhale 是一款人工智能驱动的开发工具，它利用 GitHub 使编码变得更容易、更 [...]</title>
+      <link>https://t.me/hn_summary/71447</link>
+      <description><![CDATA[展示 HN：Dewhale – GitHub 支持的 AI，轻松开发
+Dewhale 是一款人工智能驱动的开发工具，它利用 GitHub 使编码变得更容易、更高效。用户可以通过GitHub issues提交需求，并使用提供的模板选择代码生成模式。 Dewhale 目前支持为 React、Vue 和 Svelte 生成 UI 代码，并可以选择添加自定义代码生成模式。该工具具有严格的权限机制，代码生成只能由白名单用户或通过配额管理功能触发。生成的代码以拉取请求的形式呈现，可以轻松查看和修改。 Dewhale 由 GitHub 提供支持，消除了版本控制问题。通过存储库分叉和配置也简化了自我部署。]]></description>
+      <guid>https://t.me/hn_summary/71447</guid>
+      <pubDate>Sun, 28 Jan 2024 11:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>Web 内容讨论了在 Python 中避免静态类型检查的原因。</title>
-      <link>https://t.me/hn_summary/71421</link>
-      <description><![CDATA[避免静态类型检查的原因
-Web 内容讨论了在 Python 中避免静态类型检查的原因。它强调Python的类型系统是渐进的，允许用户仅在他们想要的范围内将静态类型添加到他们的代码库中。内容提供了不使用静态类型检查的几个原因，包括个人喜好、可读性问题、成本效益比、代码库大小、高测试覆盖率、向旧代码库添加类型注释的复杂性、动态框架、海勒姆定律、对 Python 的不满类型检查器，以及 Python 类型检查的局限性。该内容还为想要帮助使用静态类型检查的用户的非类型化库的维护者提供建议。]]></description>
-      <guid>https://t.me/hn_summary/71421</guid>
-      <pubDate>Sun, 28 Jan 2024 02:50:09 GMT</pubDate>
+      <title>[媒体] 据报道，谷歌正在开发适用于 Windows 的 Chrome 浏览器的本机版本 [...]</title>
+      <link>https://t.me/hn_summary/71446</link>
+      <description><![CDATA[Google Chrome 原生适用于 Arm 上的 Windows
+据报道，谷歌正在为 Arm 设备上的 Windows 开发 Chrome 浏览器的本机版本。这让人感到惊讶，因为谷歌此前并未表现出对 Arm 上的 Windows 的任何支持。目前，运行高通 Snapdragon 芯片的 Windows 设备必须在模拟状态下运行 Chrome，导致性能下降。相比之下，微软长期以来一直支持其 Edge 浏览器的 Arm 版本，该浏览器可以在 Arm 设备上流畅运行。 Google 对 Arm 处理器的支持对于 Windows on Arm 的未来可能具有重要意义，尤其是在微软和高通为下一次重大推动 Windows on Arm 做准备的情况下。]]></description>
+      <guid>https://t.me/hn_summary/71446</guid>
+      <pubDate>Sun, 28 Jan 2024 11:55:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 乔治·卡林 (George Carlin) 遗产管理委员会已对喜剧播客 Dudesy 提起诉讼 [...]</title>
-      <link>https://t.me/hn_summary/71420</link>
-      <description><![CDATA[诉讼后，代表承认“AI”乔治·卡林是人类编写的
-乔治·卡林的遗产管理机构对喜剧播客 Dudesy 提起诉讼，因为该播客出售了一个长达一小时的喜剧特别节目，该特别节目是由人工智能生成的已故喜剧演员的印象。然而，一位播客主持人的代表承认该特别节目实际上是由人类编写的。该诉讼认为，未经许可使用卡林的材料以及未经授权使用他的姓名和肖像进行促销目的损害了卡林的声誉和遗产。争议在于，该特别节目实际上并非如所声称的那样由人工智能创作，而是由人类作家创作。该诉讼寻求获得特别免除和惩罚性赔偿。]]></description>
-      <guid>https://t.me/hn_summary/71420</guid>
-      <pubDate>Sun, 28 Jan 2024 02:36:00 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了给意大利面调味的正确方法，认为意大利面在[...]</title>
+      <link>https://t.me/hn_summary/71445</link>
+      <description><![CDATA[酱汁意大利面的正确方法（2016）&lt; br/&gt;
+本文讨论了给意大利面调味的正确方法，认为与简单地在盘子上调味的意大利面相比，在煎锅中加热酱汁的意大利面具有更好的风味和质地。作者提供了如何正确调味意大利面的分步说明，包括单独加热酱汁、煮出有嚼劲的意大利面、将煮熟的意大利面转移到酱汁中、添加意大利面水、添加脂肪、快速烹饪、搅拌将奶酪和香草关火，调整稠度，根据需要进行装饰，然后立即食用。本文强调了这些步骤的重要性，以实现最佳口味的面食。]]></description>
+      <guid>https://t.me/hn_summary/71445</guid>
+      <pubDate>Sun, 28 Jan 2024 11:55:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 创业加速器 Y Combinator 的首席执行官 Garry Tan 在做出 [...]</title>
-      <link>https://t.me/hn_summary/71419</link>
-      <description><![CDATA[科技首席执行官 Garry Tan 祝愿旧金山政客死亡
-创业加速器 Y Combinator 的首席执行官加里·谭 (Garry Tan) 在醉酒后在网上发表长篇大论，希望七名旧金山主管死后，遭到强烈反对。谭在 X（以前的 Twitter）上发布的帖子（后来被删除）表达了他对主管的愤怒，并包含露骨的语言。主管们谴责谭的言论，称其暴力且不可接受。谭后来道歉，声称他引用了一首说唱歌词，但承认这仍然不合适。谭以参与当地温和派运动和反对该市进步派而闻名。这已经不是他的帖子第一次引起争议了。]]></description>
-      <guid>https://t.me/hn_summary/71419</guid>
-      <pubDate>Sun, 28 Jan 2024 02:33:54 GMT</pubDate>
+      <title>[媒体] wincodec.h 文件中的一项最新发现表明 Windows 可能很快就会支持 J [...]</title>
+      <link>https://t.me/hn_summary/71444</link>
+      <description><![CDATA[wincodec.h 中发现 JPEG XL – 建议即将推出的 Windows 支持
+wincodec.h 文件中的最新发现表明 Windows 可能很快就会支持 JPEG XL 图像格式。该文件是 Windows 成像组件 (WIC) API 的一部分，包含对 JPEG XL 格式的引用，表明 Microsoft 可能正在努力在未来的 Windows 更新中添加对其的支持。这对于摄影师和图形设计师来说是令人兴奋的消息，因为与传统 JPEG 格式相比，JPEG XL 提供了改进的压缩和图像质量。如果此传闻属实，则可能意味着 Windows 用户很快就能享受到这种高级图像格式的好处。]]></description>
+      <guid>https://t.me/hn_summary/71444</guid>
+      <pubDate>Sun, 28 Jan 2024 11:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>IPv6 Buddy是IPv6工程师必备的工具。</title>
-      <link>https://t.me/hn_summary/71418</link>
-      <description><![CDATA[IPv6 Buddy – IPv6工程师的必备工具&lt; br/&gt;
-IPv6 Buddy是IPv6工程师必备的工具。它通过提供方便的快捷方式简化了使用 IPv6 地址的过程。通过Tab键，工程师可以轻松地在字段之间切换，使数据输入更快、更高效。正斜杠键可以快速输入 CIDR 表示法，从而节省时间并减少错误。双操作冒号键是一项独特的功能，可以自动为具有连续零的 IP 地址填充零，从而使使用零负载 IP 变得更加容易。 IPv6 Buddy 是一款巧妙而重要的工具，可以简化 IPv6 工程师的工作。]]></description>
-      <guid>https://t.me/hn_summary/71418</guid>
-      <pubDate>Sun, 28 Jan 2024 02:26:47 GMT</pubDate>
+      <title>问 HN：你最喜欢的东西是什么？</title>
+      <link>https://t.me/hn_summary/71443</link>
+      <description><![CDATA[问 HN：你最喜欢的东西是什么？&lt; br/&gt;
+在 news.ycombinator.com 上的这篇文章中，作者邀请读者分享他们最喜欢的东西，从软件工具和书籍到物理工具和艺术品。作者渴望听到对读者的生活或工作产生重大影响的项目。这篇文章鼓励社区之间的讨论，允许个人分享和发现新的最爱。]]></description>
+      <guid>https://t.me/hn_summary/71443</guid>
+      <pubDate>Sun, 28 Jan 2024 10:51:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
