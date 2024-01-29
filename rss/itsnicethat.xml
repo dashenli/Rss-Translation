@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 29 Jan 2024 09:15:20 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 29 Jan 2024 12:23:57 GMT</lastBuildDate>
+    <item>
+      <title>Tal Uliel 在他为器乐艺术家 Soul Supreme 创作的新动画中融合了模拟和数字技术</title>
+      <link>https://www.itsnicethat.com/articles/tal-uliel-geshem-bejuni-animation-project-290124</link>
+      <description><![CDATA[这位耶路撒冷艺术家利用立体印刷的颜色和纹理，创造了一段令人陶醉的时空之旅。]]></description>
+      <guid>https://www.itsnicethat.com/articles/tal-uliel-geshem-bejuni-animation-project-290124</guid>
+      <pubDate>Mon, 29 Jan 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>就像移动的肖像：奥德的新电影都是关于提升和转变</title>
       <link>https://www.itsnicethat.com/articles/ode-ascensao-film-project-260124</link>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 24 Jan 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DixonBaxi 以干净的简洁和色彩的爆发彻底改造了 CW</title>
+      <title>DixonBaxi 以干净简洁和色彩缤纷的方式彻底改造了 CW</title>
       <link>https://www.itsnicethat.com/news/dixonbaxi-the-cw-graphic-design-240124</link>
       <description><![CDATA[该标志经过改进，增加了印刷重量。更重要的是，这个标志现在已经扩展成为一个突出广播公司内容的平台。]]></description>
       <guid>https://www.itsnicethat.com/news/dixonbaxi-the-cw-graphic-design-240124</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[其他现有工具允许艺术家在图像被抓取后“毒害”数据集，而 Kin.art 让艺术家完全避开人工智能模型的雷达。]]></description>
       <guid>https://www.itsnicethat.com/news/kin-art-ai-safe-portfolio-creative-industry-230124</guid>
       <pubDate>Tue, 23 Jan 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>活动部件和皮影戏：看看 Pentawards 2024 年包装设计趋势</title>
-      <link>https://www.itsnicethat.com/news/pentawards-report-2024-graphic-design-230124</link>
-      <description><![CDATA[今年的报告看到了环保设计的创新方法和更高的消费者透明度。]]></description>
-      <guid>https://www.itsnicethat.com/news/pentawards-report-2024-graphic-design-230124</guid>
-      <pubDate>Tue, 23 Jan 2024 15:08:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
