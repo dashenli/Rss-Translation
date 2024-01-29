@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 15:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 18:18:19 GMT</lastBuildDate>
+    <item>
+      <title>Apple 宣布对欧盟 iOS、Safari 和 App Store 进行更改</title>
+      <link>https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/</link>
+      <description><![CDATA[Apple 宣布对 iOS、Safari 和 App Store 进行更改，影响欧盟开发者的应用程序以遵守 DMA。
+]]></description>
+      <guid>https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:29:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型设计师的崛起</title>
+      <link>https://uxdesign.cc/the-rise-of-the-model-designer-cef429d9c134</link>
+      <description><![CDATA[设计师应如何拥抱塑造人工智能模型。
+]]></description>
+      <guid>https://uxdesign.cc/the-rise-of-the-model-designer-cef429d9c134</guid>
+      <pubDate>Mon, 29 Jan 2024 17:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>UI 设计挑战、灵感、资源。</title>
+      <link>https://www.uichallenges.design/</link>
+      <description><![CDATA[通过解决 UI 挑战并分享结果来掌握用户界面设计。
+]]></description>
+      <guid>https://www.uichallenges.design/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI 进行 3D 渲染——设计师实用指南</title>
+      <link>https://uxdesign.cc/using-ai-for-3d-rendering-a-practical-guide-for-designers-a2a037ed1ad0</link>
+      <description><![CDATA[创建高质量渲染的缓慢而细致的过程通常与早期概念构思所需的快节奏不相容。
+]]></description>
+      <guid>https://uxdesign.cc/using-ai-for-3d-rendering-a-practical-guide-for-designers-a2a037ed1ad0</guid>
+      <pubDate>Mon, 29 Jan 2024 17:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebGPU套件</title>
+      <link>https://jmberesford.github.io/webgpu-kit/</link>
+      <description><![CDATA[WebGPU-kit 是一个库集合，可以轻松构建高性能、跨平台、基于 Web 的图形应用程序。
+]]></description>
+      <guid>https://jmberesford.github.io/webgpu-kit/</guid>
+      <pubDate>Mon, 29 Jan 2024 17:16:38 GMT</pubDate>
+    </item>
     <item>
       <title>修复累积布局移位问题</title>
       <link>https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog</link>
@@ -56,7 +96,7 @@
     <item>
       <title>平面设计中的人工智能困境</title>
       <link>https://www.smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</link>
-      <description><![CDATA[人工智能有望给版式带来重大变革，设计师发现自己面临着机遇和挑战。
+      <description><![CDATA[人工智能有望给版式带来重大变革，设计师发现自己既面临机遇又面临挑战。
 ]]></description>
       <guid>https://www.smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</guid>
       <pubDate>Thu, 25 Jan 2024 12:08:04 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.theturnsignalblog.com/blog/designing-better-digital-instrument-clusters/</guid>
       <pubDate>Thu, 25 Jan 2024 11:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在卷轴上绘制</title>
-      <link>https://garden.bradwoods.io/notes/svg/draw-on-scroll</link>
-      <description><![CDATA[一种有趣的效果，看起来就像当用户滚动时在页面上绘制线条。 
-]]></description>
-      <guid>https://garden.bradwoods.io/notes/svg/draw-on-scroll</guid>
-      <pubDate>Wed, 24 Jan 2024 00:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何制作旺卡电影版式</title>
-      <link>https://www.creativebloq.com/news/how-we-made-wonka-logo</link>
-      <description><![CDATA[我们采访了设计师 Alexandria Vernon。
-]]></description>
-      <guid>https://www.creativebloq.com/news/how-we-made-wonka-logo</guid>
-      <pubDate>Wed, 24 Jan 2024 00:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>上班时玩</title>
-      <link>https://daverupert.com/2024/01/play-at-work/</link>
-      <description><![CDATA[我在职业生涯中最看重的理念是“玩耍”的感觉。
-]]></description>
-      <guid>https://daverupert.com/2024/01/play-at-work/</guid>
-      <pubDate>Wed, 24 Jan 2024 00:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>个性化的成本</title>
-      <link>https://humanebydesign.com/articles/the-cost-of-personalization/</link>
-      <description><![CDATA[当算法代表我们做出自主决策时，我们拥有的可见选项就被隐藏起来，我们就失去了个人代理权。
-]]></description>
-      <guid>https://humanebydesign.com/articles/the-cost-of-personalization/</guid>
-      <pubDate>Wed, 24 Jan 2024 00:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 CSS 中使用透明渐变淡化内容</title>
-      <link>https://polypane.app/blog/my-take-on-fading-content-using-transparent-gradients-in-css/</link>
-      <description><![CDATA[探索两种现代方法，可以更灵活地逐行淡出文本内容。
-]]></description>
-      <guid>https://polypane.app/blog/my-take-on-fading-content-using-transparent-gradients-in-css/</guid>
-      <pubDate>Wed, 24 Jan 2024 00:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
