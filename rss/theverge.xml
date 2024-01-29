@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 28 Jan 2024 15:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 00:54:38 GMT</lastBuildDate>
+    <item>
+      <title>Arc Search 将浏览器、搜索引擎和人工智能结合成新的、不同的东西</title>
+      <link>https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios</guid>
+      <pubDate>Mon, 29 Jan 2024 00:35:23 GMT</pubDate>
+    </item>
     <item>
       <title>X 正在阻止泰勒·斯威夫特的搜索……几乎没有</title>
       <link>https://www.theverge.com/2024/1/27/24052841/taylor-swift-search-blocked-x-twitter-ai-images</link>
@@ -22,7 +29,7 @@
 X 在照片出现近一天后发表声明表示它正在“积极删除所有已识别的图像”，并对发布这些图像的帐户采取行动。该网站明确禁止未经同意的裸体和合成和操纵媒体。 
 
 Meta 似乎也在解决这个问题，因为如果你开始在搜索框中输入“Taylor”，Threads 和 Instagram 都会建议“Taylor Swift AI”，但这两个平台似乎都没有显示结果。相反，在撰写本文时，您可能会看到一条消息，指出该术语“有时与危险组织和个人的活动相关”。 
-有报道称 Swift 考虑对托管图像的网站采取法律行动，用户表示他们更希望 Microsoft Designer 采取这种行动。微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 在 周五接受NBC晚间新闻采访，并表示他认为人工智能公司需要“快速行动”以建立更好的护栏。 
+有报道称 Swift 考虑对托管图像的网站采取法律行动，用户表示他们更希望 Microsoft Designer 采取这种做法。微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 在 周五接受NBC晚间新闻采访，并表示他认为人工智能公司需要“快速行动”以建立更好的护栏。 
 白宫新闻秘书卡琳·让-皮埃尔 周五也进行了权衡，呼吁国会制定立法，保护人们免受深度伪造色情内容的侵害。 
 X 通过电子邮件自动回复回复了我们的电子邮件，询问 Swift 的名字是否被故意屏蔽。
 美国东部时间 2024 年 1 月 27 日下午 3:22 更新：添加了更多背景信息。
@@ -65,7 +72,7 @@ X 表示将在德克萨斯州奥斯汀设立新的信任和安全办公室，雇
       <link>https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm</link>
       <description><![CDATA[&lt;图&gt;
       Microsoft 发布了新的 昨天针对 Windows 推出了 Canary 测试版本，该版本带来了该公司的 Voice Clarity 功能，该功能之前已推出仅适用于 Surface 设备，适用于所有 Windows 计算机，包括使用 ARM CPU 的计算机。该公司在一份声明中表示博客文章指出，该功能使用“低复杂度人工智能模型”来实时过滤背景噪音、回声和混响。 
-如果 Voice Clarity 工作得足够好，那么它的最佳用例显然是让 Zoom 或 Teams 会议变得不那么令人难以忍受 - 毕竟，有多少次你发现自己迷失了方向，因为有人站着做演示 10离笔记本电脑只有几英尺远，他们的声音淹没在混响或回声的海洋中？或者因为您的每一个字都通过另一位与会者的麦克风向您回传而无法集中精力？
+如果 Voice Clarity 工作得足够好，那么它的最佳用例显然是让 Zoom 或 Teams 会议变得不那么令人难以忍受 - 毕竟，有多少次你发现自己迷失了方向，因为有人站着做演示 10离笔记本电脑只有几英尺远，他们的声音淹没在混响或回声的海洋中？或者因为您的每一个字都通过另一位与会者的麦克风向您反馈而无法集中精力？
 
 微软表示，PC 游戏也可以使用该功能进行语音聊天，同样，它将使用人工智能来抑制不需要的背景噪音。该版本还可以立即访问连接的 Android 设备的照片和屏幕截图，以及新的 Windows 设置程序，该公司称该程序具有“更干净、更现代的设计”。它还增加了 USB4 的 80Gbps 更新。 ]]></description>
       <guid>https://www.theverge.com/2024/1/27/24052759/microsoft-windows-background-noise-suppression-voice-clarity-zoom-teams-meetings-surface-x64-arm</guid>
@@ -98,13 +105,6 @@ X 表示将在德克萨斯州奥斯汀设立新的信任和安全办公室，雇
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24051696/android-google-location-track-how-to</guid>
       <pubDate>Sat, 27 Jan 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams 在世界各地出现故障超过 8 个小时 — 现在好多了</title>
-      <link>https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage</guid>
-      <pubDate>Sat, 27 Jan 2024 06:15:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
