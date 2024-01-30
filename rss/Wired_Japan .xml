@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 30 Jan 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 09:15:18 GMT</lastBuildDate>
+    <item>
+      <title>Neuralink 首次对人类进行大脑植入，这是“脑机连接”的一个重要里程碑</title>
+      <link>https://wired.jp/article/elon-musk-neuralink-human-patient-brain-implant/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 旗下开发脑机接口 (BCI) 的 Neuralink 透露，该公司首次在人类患者身上进行了大脑植入。虽然细节尚未披露，但可以说是 BCI 历史上的一个重要里程碑。]]></description>
+      <guid>https://wired.jp/article/elon-musk-neuralink-human-patient-brain-implant/</guid>
+      <pubDate>Tue, 30 Jan 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>与史努比的“MoonSwatch”合作将会发生什么？爱好者们期待什么？</title>
       <link>https://wired.jp/article/snoopy-moonswatch-2024/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>苹果的Vision Pro会成功吗？ “应用程序开发”的未来是关键</title>
       <link>https://wired.jp/article/apps-made-the-iphone-theyre-missing-from-the-vision-pro/</link>
-      <description><![CDATA[苹果的混合现实（MR）耳机“Apple Vision Pro”将于二月份在美国发布，但目前与其兼容的应用程序很少。专家表示，由于设备价格高昂和开发环境受限，许多软件开发商正在采取观望态度。]]></description>
+      <description><![CDATA[苹果的混合现实（MR）耳机“Apple Vision Pro”将于二月份在美国发布，但目前与其兼容的应用程序很少。专家指出，由于设备价格高昂、开发环境受限，许多软件开发商都采取观望态度。]]></description>
       <guid>https://wired.jp/article/apps-made-the-iphone-theyre-missing-from-the-vision-pro/</guid>
       <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
     </item>
@@ -62,9 +69,9 @@
       <pubDate>Thu, 25 Jan 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉的低成本电动汽车会在 2025 年发布吗？埃隆·马斯克能否兑现他的“承诺”？</title>
+      <title>特斯拉的低成本电动汽车会在 2025 年发布吗？埃隆·马斯克会信守他的“承诺”吗？</title>
       <link>https://wired.jp/article/elon-musk-says-cheaper-tesla-coming-2025/</link>
-      <description><![CDATA[特斯拉首席执行官埃隆·马斯克向投资者透露，该公司计划在 2025 年推出一款低成本电动汽车。看起来，其目的是与比亚迪等进军电动汽车市场的中国制造商竞争，但他们能信守“承诺”吗？]]></description>
+      <description><![CDATA[特斯拉首席执行官埃隆·马斯克向投资者透露，该公司计划在 2025 年推出一款低成本电动汽车。看起来，其目的是与比亚迪等积极进军电动汽车市场的中国制造商竞争，但他们能信守“承诺”吗？]]></description>
       <guid>https://wired.jp/article/elon-musk-says-cheaper-tesla-coming-2025/</guid>
       <pubDate>Thu, 25 Jan 2024 05:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 24 Jan 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 与 WWE 合作彻底改写成功公式</title>
+      <title>Netflix 与 WWE 联手彻底改写成功公式</title>
       <link>https://wired.jp/article/netflix-wwe-deal-pivot-licensing/</link>
       <description><![CDATA[Netflix 签署了一项价值 50 亿美元的协议，将在 10 年内播放 WWE 的《RAW》。此举标志着Netflix彻底改写了传统流媒体规则。]]></description>
       <guid>https://wired.jp/article/netflix-wwe-deal-pivot-licensing/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[画廊2]]></description>
       <guid>https://wired.jp/ianchen-life-after-bob-gallery-2/</guid>
       <pubDate>Wed, 24 Jan 2024 07:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布 40 周年，Macintosh 依然最强：苹果高管揭秘其进化之路</title>
-      <link>https://wired.jp/article/plaintext-apple-secret-40-year-old-mac-still-rules/</link>
-      <description><![CDATA[麦金塔从根本上改变了我们使用计算机的方式。自 1984 年推出以来已有 40 年的历史，这款被称为 Mac 的产品不断发展并保持流行。 《连线》杂志特约编辑史蒂文·利维通过采访苹果高管揭示了其中的原因。]]></description>
-      <guid>https://wired.jp/article/plaintext-apple-secret-40-year-old-mac-still-rules/</guid>
-      <pubDate>Tue, 23 Jan 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
