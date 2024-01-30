@@ -4,7 +4,29 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Jan 2024 00:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 06:17:10 GMT</lastBuildDate>
+    <item>
+      <title>MSI 确认 Claw 将配备 48-120Hz VRR 屏幕</title>
+      <link>https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen</link>
+      <description><![CDATA[&lt;图&gt;
+      
+MSI Claw 游戏手持设备。 |图片：MSI
+
+MSI Claw 将是其中之一首款内置英特尔酷睿 Ultra 处理器的手持游戏电脑，以及第二款配备可变刷新率 (VRR) 屏幕的游戏电脑。此前，华硕 ROG Ally 是唯一一款具有动态游戏平滑显示功能的手持设备，它的 它最大的优点之一&lt; /a&gt;，经过多次反复讨论，MSI 现在已经三重确认 Claw 也将配备 7 英寸、1080p、48-120Hz VRR 屏幕。 
+今天早些时候，我在周五与该公司进行了明确的事实核查并被告知需要手动设置后，发布了它不会有 VRR 屏幕的消息如果您宁愿低于提供的完整 120Hz 刷新率，则可以达到 48Hz 或 60Hz 刷新率。
+
+但是，MSI 继续坚称屏幕是 VRR，而我最初开始相信销售代表夸大了事实 - 因为 VRR 并不是与手动设置刷新率相同，而且因为 VRR 不是依赖于游戏支持的 Microsoft 功能，该公司告诉我它是并且确实如此。 
+VRR 是 Nvidia G-Sync 和 AMD FreeSync 等技术的通用形式，它让屏幕的刷新率动态匹配系统 GPU 提供的帧速率。这意味着您不会仅仅因为图形未达到 60 fps 而体验到不稳定的游戏或屏幕撕裂，因为屏幕可以自动完美地显示 59 fps 或 50 fps 或 48 fps。 
+我解释了这一点，并给 MSI 超过 12 个小时的时间来回复 - 但没有收到回复。 
+但是现在 MSI 营销专家 Anne Lee 告诉我，产品经理已经明确确认它是 48-120Hz VRR 屏幕，我通过电话确认这意味着动态自动调整其刷新率，例如华硕 ROG 盟友。 MSI 还提供了 Windows 中打开的可变刷新率设置的屏幕截图，这似乎就是 MSI 在将 VRR 称为 Microsoft 功能时所指的内容。 
+Lee 同意我们的部分对话在翻译中丢失了，我们已经约定下次通过电话互相通话。对于我给您带来的错误引导，我深表歉意。
+您通常仍然可以手动设置没有 VRR 的屏幕刷新率。例如，Steam Deck 可以让您设置显示器支持的任意手动刷新率，而 Lenovo Legion Go 可以让您在 60Hz 和 144Hz 之间进行选择。但为了避免不稳定和撕裂，您的系统仍然必须始终提供正确的帧数（这可能需要帧限制器和一些调整）。 
+华硕 ROG Ally 的 VRR 屏幕会派上用场，特别是当您的游戏运行在 48 到 60 fps 之间时（这在其 VRR 范围内）。根据我的经验，在 Ally 上以 48 fps 运行的游戏看起来比在 Lenovo Legion Go 上以 59 fps 运行的游戏更流畅。现在，听起来 MSI Claw 也是如此。
+MSI Claw 尚未确定发布日期，但有传言称它最快可能在二月或三月上市。
+更正，美国东部时间晚上 11:58 MSI Claw 将具有可变刷新率屏幕。在这个故事的早期版本中，我写道不会。我们对这个错误感到遗憾。 ]]></description>
+      <guid>https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen</guid>
+      <pubDate>Tue, 30 Jan 2024 04:58:35 GMT</pubDate>
+    </item>
     <item>
       <title>SmartLess 以 1 亿美元的价格离开亚马逊</title>
       <link>https://www.theverge.com/2024/1/29/24054940/smartless-media-departs-amazon-signs-multi-year-exclusive-pact-with-siriusxm-one-hundred-million</link>
@@ -113,28 +135,6 @@ Embracer 于 2022 年 5 月从 Square Enix 手中收购了 Eidos Montréal 和 C
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/1/29/24054325/food-sustainable-agriculture-diet-benefits-report</guid>
       <pubDate>Mon, 29 Jan 2024 18:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSI Claw 毕竟不会有 VRR 屏幕</title>
-      <link>https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen</link>
-      <description><![CDATA[&lt;图&gt;
-      
-MSI Claw 游戏手持设备。 |图片：MSI
-
-MSI Claw 将是其中之一这是首款内置英特尔酷睿 Ultra 处理器的手持游戏电脑，但尽管该公司在 CES 2024 上告诉我们，它不会配备可变刷新率 (VRR) 屏幕。据我所知，华硕 ROG Ally 是唯一一款具有动态游戏平滑显示功能的手持设备，它其最大的之一优点。我很失望 MSI Claw 也没有它。
-
-相反，MSI 营销专家 Anne Lee 告诉我，如果您愿意，您可以手动将 7 英寸 1080p、120Hz 屏幕设置为 48Hz 或 60Hz。 
-MSI 声称这仍然算作“VRR”——但事实并非如此，除非你从字面上理解这句话，我以前从未听过一家公司争论过。 
-VRR 是 Nvidia G-Sync 和 AMD FreeSync 等技术的通用形式，它让屏幕的刷新率动态匹配系统 GPU 提供的帧速率。这意味着您不会仅仅因为图形未达到 60 fps 而体验到不稳定的游戏或屏幕撕裂，因为屏幕可以自动完美地显示 59 fps 或 50 fps 或 48 fps。 
-“你继续使用这个词......” – 伊尼戈·蒙托亚
-您通常仍然可以手动设置没有 VRR 的屏幕刷新率。例如，Steam Deck 可以让您设置显示器支持的任意手动刷新率，而 Lenovo Legion Go 可以让您在 60Hz 和 144Hz 之间进行选择。但为了避免不稳定和撕裂，您的系统仍然必须始终提供正确的帧数（这可能需要帧限制器和一些调整）。 
-华硕 ROG Ally 的 VRR 屏幕会派上用场，特别是当您的游戏运行在 48 到 60 fps 之间时（这在其 VRR 范围内）。根据我的经验，在 Ally 上以 48 fps 运行的游戏看起来比在 Lenovo Legion Go 上以 59 fps 运行的游戏更流畅。 
-MSI Claw 的其他竞争对手都没有宣传 VRR 屏幕，而且……就此而言，MSI 也没有！我本周联系 MSI 的原因是因为其产品页面上线了没有提到 VRR，我觉得这看起来很奇怪。
-在我向 MSI 解释了所有这些之后，它继续声称该设备具有 VRR 屏幕。 
-我不知道 MSI 是否在 VRR 上回溯，或者该公司是否只是不想承认在翻译过程中丢失了某些内容。 （不羞耻；它发生了！）我确实知道 MSI 在 CES 上告诉我 我看到的屏幕并不是最终版本，将会被添加 VRR 的屏幕所取代。 
-MSI Claw 尚未确定发布日期，但有传言称它最快可能在二月或三月上市。]]></description>
-      <guid>https://www.theverge.com/2024/1/29/24054478/msi-claw-no-vrr-screen</guid>
-      <pubDate>Mon, 29 Jan 2024 18:46:49 GMT</pubDate>
     </item>
     <item>
       <title>Anker 的 MagSafe 友好型 622 磁性电池现在半价</title>
