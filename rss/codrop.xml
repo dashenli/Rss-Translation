@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sun, 28 Jan 2024 12:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 12:23:09 GMT</lastBuildDate>
+    <item>
+      <title>集体#808</title>
+      <link>https://tympanus.net/codrops/collective/collective-808/</link>
+      <description><![CDATA[Heat.js * 对话框 * 平台倾斜 * TheJam.dev 2024]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-808/</guid>
+      <pubDate>Tue, 30 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站综述 #55</title>
       <link>https://tympanus.net/codrops/2024/01/27/inspirational-websites-roundup-55/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[AHA 堆栈 * 楔形设计系统 * 环境共存]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-804/</guid>
       <pubDate>Fri, 12 Jan 2024 13:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SVG 剪辑路径的实验性滚动文本动画</title>
-      <link>https://tympanus.net/codrops/2024/01/10/experimental-on-scroll-text-animations-with-svg-clip-path/</link>
-      <description><![CDATA[使用 SVG 剪辑路径进行一些滚动版式效果的实验。]]></description>
-      <guid>https://tympanus.net/codrops/2024/01/10/experimental-on-scroll-text-animations-with-svg-clip-path/</guid>
-      <pubDate>Wed, 10 Jan 2024 11:18:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
