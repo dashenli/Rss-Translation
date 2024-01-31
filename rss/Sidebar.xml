@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 31 Jan 2024 06:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 09:14:10 GMT</lastBuildDate>
+    <item>
+      <title>马达加斯加的这个陨石坑里面有什么？</title>
+      <link>https://www.youtube.com/watch?v=h42QVfrUVFw</link>
+      <description><![CDATA[通过卫星图像，我们在马达加斯加的一个奇怪的火山口内发现了一个村庄。 
+]]></description>
+      <guid>https://www.youtube.com/watch?v=h42QVfrUVFw</guid>
+      <pubDate>Wed, 31 Jan 2024 07:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>功能陷阱：为什么以功能为中心会损害您的产品</title>
+      <link>https://www.smashingmagazine.com/2024/01/feature-centricity-harming-product/</link>
+      <description><![CDATA[大多数产品团队通常采用以功能为中心的思维方式，发现它们很容易进行头脑风暴。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/01/feature-centricity-harming-product/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>赞美按钮</title>
+      <link>https://www.nubero.ch/blog/009/</link>
+      <description><![CDATA[在任何设计学科中，总会有某些趋势。这些趋势之一似乎是按钮现在被认为不酷。 
+]]></description>
+      <guid>https://www.nubero.ch/blog/009/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>大、漂亮、强大的焦点状态：focus-visible</title>
+      <link>https://daverupert.com/2024/01/focus-visible-love/</link>
+      <description><![CDATA[新的 :focus-visible 伪状态允许我为键盘用户创建更大、更粗、更明显的焦点状态。
+]]></description>
+      <guid>https://daverupert.com/2024/01/focus-visible-love/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>现实检验#3：从 Dribbble 构建分层英雄网格布局</title>
+      <link>https://piccalil.li/blog/reality-check-3-building-out-a-layered-hero-grid-layout-from-dribbble/</link>
+      <description><![CDATA[在这一版的现实检查中，我解决了一个有趣的网格布局，它还具有一些非常独特的背景图像处理。
+]]></description>
+      <guid>https://piccalil.li/blog/reality-check-3-building-out-a-layered-hero-grid-layout-from-dribbble/</guid>
+      <pubDate>Wed, 31 Jan 2024 07:29:03 GMT</pubDate>
+    </item>
     <item>
       <title>呼吁就 HTML 语义达成共识</title>
       <link>https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://jmberesford.github.io/webgpu-kit/</guid>
       <pubDate>Mon, 29 Jan 2024 17:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复累积布局移位问题</title>
-      <link>https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog</link>
-      <description><![CDATA[累积布局偏移 (CLS) 是核心 Web 重要性能指标之一。 
-]]></description>
-      <guid>https://davidwalsh.name/fixing-cumulative-layout-shift-problems-on-davidwalshblog</guid>
-      <pubDate>Fri, 26 Jan 2024 09:31:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>相信过程</title>
-      <link>https://medium.com/smith-diction/trust-the-process-97ac8999d56a</link>
-      <description><![CDATA[史密斯＆amp;词典识别过程。
-]]></description>
-      <guid>https://medium.com/smith-diction/trust-the-process-97ac8999d56a</guid>
-      <pubDate>Fri, 26 Jan 2024 09:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦金塔，40 岁生日快乐</title>
-      <link>https://mac40th.com/</link>
-      <description><![CDATA[该网站展示了 Apple 制作的每台 Macintosh 台式机和便携式设备，其中包含数百张照片。
-]]></description>
-      <guid>https://mac40th.com/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 个现代 CSS 一线升级</title>
-      <link>https://moderncss.dev/12-modern-css-one-line-upgrades/</link>
-      <description><![CDATA[有时，改进应用程序 CSS 只需要一行升级或增强即可！
-]]></description>
-      <guid>https://moderncss.dev/12-modern-css-one-line-upgrades/</guid>
-      <pubDate>Fri, 26 Jan 2024 09:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像识别基础知识</title>
-      <link>https://journal.everypixel.com/basics-of-image-recognition</link>
-      <description><![CDATA[探索历史、关键术语以及图像识别的工作原理。深入了解图像识别 API 及其实现。
-]]></description>
-      <guid>https://journal.everypixel.com/basics-of-image-recognition</guid>
-      <pubDate>Fri, 26 Jan 2024 09:22:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
