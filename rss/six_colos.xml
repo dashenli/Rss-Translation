@@ -3,8 +3,22 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 31 Jan 2024 18:14:26 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 31 Jan 2024 21:14:13 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 480：你喜欢开发者吗？名称三</title>
+      <link>https://sixcolors.com/podcast/2024/01/the-rebound-480-you-like-developers-name-three/</link>
+      <description><![CDATA[不受欢迎的人。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/the-rebound-480-you-like-developers-name-three/</guid>
+      <pubDate>Wed, 31 Jan 2024 20:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 539：你们需要一些帮助</title>
+      <link>https://sixcolors.com/podcast/2024/01/clockwise-539-you-folks-need-some-help/</link>
+      <description><![CDATA[剖析苹果的欧盟计划、我们进入便携式显示器热潮的历程、我们使用的浏览器以及我们如何管理保存链接供以后使用。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/01/clockwise-539-you-folks-need-some-help/</guid>
+      <pubDate>Wed, 31 Jan 2024 20:13:28 GMT</pubDate>
+    </item>
     <item>
       <title>Macworld 也迎来了 40 周年 (Macworld/Jason Snell)</title>
       <link>https://www.macworld.com/article/2222437/macworld-40th-anniversary.html</link>
@@ -58,7 +72,7 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
       <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
       <link>https://sixcolors.com/sponsor/2024/01/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-14/</link>
       <description><![CDATA[感谢 Magic Lasso Adblock 本周对六色的赞助。
-作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
+作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 – 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/01/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-14/</guid>
       <pubDate>Fri, 26 Jan 2024 17:00:43 GMT</pubDate>
     </item>
@@ -67,7 +81,7 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
       <link>https://sixcolors.com/link/2024/01/apple-podcasts-needs-timestamp-linking/</link>
       <description><![CDATA[快捷方式专家 Matthew Cassinelli 提出了对 Apple Podcasts 的有用增强：
 &lt;块引用&gt;
-  然而，我认为苹果公司需要在下一步中更进一步，向苹果播客添加时间戳，这是一项姗姗来迟的功能，它使用户能够分享播客中各个时刻的链接，直接分享到记录中的特定点....]]></description>
+  然而，我认为苹果公司需要在下一步中更进一步，向苹果播客添加时间戳，这是一项姗姗来迟的功能，它使用户能够分享播客中各个时刻的链接，直接分享到记录中的特定点.…]]></description>
       <guid>https://sixcolors.com/link/2024/01/apple-podcasts-needs-timestamp-linking/</guid>
       <pubDate>Fri, 26 Jan 2024 16:41:58 GMT</pubDate>
     </item>
@@ -107,23 +121,9 @@ iOS 17.4 的变化之一是对播客可访问性的巨大改进：播客应用�
       <title>iPhone 需要了解其用户也是移动用户（会员帖子）</title>
       <link>https://sixcolors.com/member/2024/01/iphones-need-to-understand-that-their-users-are-mobile-too/</link>
       <description><![CDATA[
-今年夏天 Mercury Weather 添加了旅行预报，它让我以一种新的方式思考如何使用 iPhone 来帮助我在旅行状态下跟踪未来的事件。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+今年夏天 Mercury Weather 添加了旅行预报，它让我以一种新的方式思考如何使用 iPhone 来帮助我在旅行时跟踪未来的事件。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2024/01/iphones-need-to-understand-that-their-users-are-mobile-too/</guid>
       <pubDate>Thu, 25 Jan 2024 16:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greg Joswiak 谈 Mac 的持久吸引力</title>
-      <link>https://sixcolors.com/post/2024/01/mac-40-a-quick-qa-with-greg-joswiak/</link>
-      <description><![CDATA[考虑到周年纪念活动已经酝酿了四十年，我在 The Verge 上撰写的有关 Mac 40 周年纪念的专题报道出人意料地迅速完成。当我写这篇文章时，我意识到我正在以在 Mac 20 周年纪念日对史蒂夫·乔布斯 (Steve Jobs) 进行的采访以及在 Mac 30 周年纪念日对菲尔·席勒 (Phil Schiller)、克雷格·费德里吉 (Craig Federighi) 和巴德·特里布尔 (Bud Tribble) 的采访开始。…]]></description>
-      <guid>https://sixcolors.com/post/2024/01/mac-40-a-quick-qa-with-greg-joswiak/</guid>
-      <pubDate>Wed, 24 Jan 2024 23:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>一月后台变焦：Mac at 40 和 Vision Pro（会员视频）</title>
-      <link>https://sixcolors.com/more-colors/2024/01/january-backstage-zoom-mac-at-40-and-vision-pro/</link>
-      <description><![CDATA[今天早些时候，我们在 Zoom 上与 Backstage pass 成员聚在一起讨论了各种各样的事情，包括 Mac 的 40 岁生日（Jason 的经典 Mac 演示）、即将推出的 Apple Vision Pro，甚至还有一些 Apple Car 的讨论。 … 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
-      <guid>https://sixcolors.com/more-colors/2024/01/january-backstage-zoom-mac-at-40-and-vision-pro/</guid>
-      <pubDate>Wed, 24 Jan 2024 21:37:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

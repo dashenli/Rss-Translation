@@ -4,18 +4,25 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 31 Jan 2024 18:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 21:14:30 GMT</lastBuildDate>
+    <item>
+      <title>Ruby on Rails 的起源故事</title>
+      <link>https://thenextweb.com/news/the-ruby-on-rails-origin-story</link>
+      <description><![CDATA[本文最初由 Melina Zacharia 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。 Honeypot 讲述了 Ruby on Rails 的故事。聆听从第一天起参与该项目的工程师讲述的起源故事。如果您没有时间观看整个内容，我们还为您制作了一篇简洁的小文章。 “遇见可爱”那一年是 1999 年（或者 2000 年，杰森不太确定），当时…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/the-ruby-on-rails-origin-story</guid>
+      <pubDate>Wed, 31 Jan 2024 17:36:52 GMT</pubDate>
+    </item>
     <item>
       <title>阿姆斯特丹创业中心将为分拆企业设立 1.5 亿欧元基金</title>
       <link>https://thenextweb.com/news/amsterdam-center-entrepreneurship-launch-fund</link>
-      <description><![CDATA[阿姆斯特丹创业中心 (ACE) 计划稍后推出 1.5 亿欧元的基金今年将进一步扩大对学术界初创企业的支持。 ACE 成立于 2008 年，是该市的大学孵化器，拥有四个学术利益相关者：阿姆斯特丹大学、自由大学、应用科学大学和阿姆斯特丹 UMC。其使命是帮助学生和学者建立公司。因此，ACE 提供两种类型的课程：探索课程，提供商业和创业基础知识；以及孵化器计划，该计划针对已准备好发展业务的早期初创公司…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[阿姆斯特丹创业中心 (ACE) 计划稍后推出 1.5 亿欧元的基金今年将进一步扩大对学术界初创企业的支持。 ACE 成立于 2008 年，是该市的大学孵化器，拥有四个学术利益相关者：阿姆斯特丹大学、自由大学、应用科学大学和阿姆斯特丹 UMC。其使命是帮助学生和学者建立公司。因此，ACE 提供两种类型的课程：探索课程，提供商业和创业基础知识；以及孵化器计划，该计划针对的是准备发展业务的早期初创公司…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/amsterdam-center-entrepreneurship-launch-fund</guid>
       <pubDate>Wed, 31 Jan 2024 16:13:27 GMT</pubDate>
     </item>
     <item>
       <title>我写给 Rails（和 Ruby）的情书</title>
       <link>https://thenextweb.com/news/love-letter-rails-and-ruby</link>
-      <description><![CDATA[本文最初由 Patrick Helm 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。有一次，有一个在线小测验，有 10 个问题。每个问题都显示一个微小的方法，需要猜测它是在 Ruby 核心语言中定义的，还是在 Rails 框架中定义的。 Matz 和 DHH 的得分均未达到 10/10。 Yukihiro Matsumoto，也称为 Matz，是 Ruby 语言的创建者。 David Heinemeier Hanson，又名 DHH，发明了…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[本文最初由 Patrick Helm 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。有一次，有一个在线小测验，有 10 个问题。每个问题都显示一个微小的方法，需要猜测它是在 Ruby 核心语言中定义的，还是在 Rails 框架中定义的。 Matz 和 DHH 都没有得分 10/10。 Yukihiro Matsumoto，也称为 Matz，是 Ruby 语言的创建者。 David Heinemeier Hanson，又名 DHH，发明了…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/love-letter-rails-and-ruby</guid>
       <pubDate>Wed, 31 Jan 2024 14:59:23 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>报告发现欧洲在量子投资方面超过美国</title>
       <link>https://thenextweb.com/news/europe-outpaces-us-quantum-investment-iqm-report</link>
-      <description><![CDATA[美国风险投资公司正在紧握当他们应对变化无常的创业环境和投资环境时，他们会获得大量现金。尽管量子计算被认为是一项足够重要的技术，需要受到出口限制，但它在安全投资名单上的排名并不靠前，而且也受到融资活动下降的影响。然而，在大洋彼岸，欧洲量子生态系统的情况看起来更加光明。这是芬兰量子硬件公司 IQM 以及风险投资公司 OpenOcean 和 Lakestar 今天发布的一份报告的结论。该报告分析了风险投资、政府资助以及国家量子战略。在全球范围内，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[美国风险投资公司正在紧握当他们应对变化无常的创业环境和投资环境时，他们会获得大量现金。尽管量子计算被认为是一项足够重要的技术，需要受到出口限制，但它在安全投资的名单上并不靠前，而且也受到融资活动下降的影响。然而，在大洋彼岸，欧洲量子生态系统的情况看起来更加光明。这是芬兰量子硬件公司 IQM 以及风险投资公司 OpenOcean 和 Lakestar 今天发布的一份报告的结论。该报告分析了风险投资、政府资助以及国家量子战略。在全球范围内，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/europe-outpaces-us-quantum-investment-iqm-report</guid>
       <pubDate>Tue, 30 Jan 2024 17:14:14 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[荷兰挑战者银行 Bunq 报告了其第一个全年盈利，该公司计划在英国重新启动，这是一个受欢迎的现金缓冲。欧洲第二大新银行 Bunq 表示，2023 年净利润为 5310 万欧元，比上一年的 1650 万欧元亏损大幅增长。乘着这一势头，Bunq 现在已提交英国电子货币机构 (EMI) 牌照申请，距英国退欧使其所拥有的牌照无效已经三年了。 Bunq 创始人表示：“英国是全球数字游牧民数量第二多的国家，因此我们自然希望成为那里的一员。”这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/dutch-neobank-bunq-uk-expansion-brexit</guid>
       <pubDate>Tue, 30 Jan 2024 10:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Insta mules 和加密货币混合器：科技如何改变洗钱活动</title>
-      <link>https://thenextweb.com/news/geoff-white-lazarus-group-high-tech-money-laundering</link>
-      <description><![CDATA[在 Instagram 的表面上，Ramon “Hushpuppi” Abbas 是一位典型的影响者。这位浮夸的尼日利亚人描绘了拥有私人飞机、豪华汽车和名牌服装的奢华生活方式。他的迷人冒险经历为他赢得了超过 200 万粉丝和数百万美元。但他的帖子掩盖了更黑暗的现实。据联邦调查局 (FBI) 称，这名 41 岁的男子是“世界上洗钱最多的犯罪分子之一”。 Hushpuppi 自己承认，在短短 18 个月内共谋洗钱超过 3 亿美元。他的一名所谓客户是朝鲜最高领导人金正恩。与他的…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/geoff-white-lazarus-group-high-tech-money-laundering</guid>
-      <pubDate>Tue, 30 Jan 2024 08:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
