@@ -4,7 +4,93 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 01 Feb 2024 18:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 21:11:44 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊开发了一个人工智能机器人来指导你在亚马逊上购买更多东西</title>
+      <link>https://www.theverge.com/2024/2/1/24058381/amazon-ai-shopping-assistant-rufus</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：亚马逊
+
+亚马逊揭开了人工智能购物助手的面纱，它是名为 Rufus — 与公司的柯基犬吉祥物同名。新的聊天机器人接受了亚马逊产品库、客户评论以及网络信息的培训，使其能够回答有关产品的问题、进行比较、提供建议等。
+Rufus 仍处于测试阶段，只会出现在“特定客户”中，然后在未来几周内向更多用户推出。如果您有权访问测试版，则可以通过启动亚马逊的移动应用程序，然后在搜索栏中输入或说出问题来与 Rufus 进行聊天。 Rufus 聊天窗口将显示在屏幕底部，您可以展开该窗口以获得问题的答案、选择建议的问题或提出其他问题。
+
+亚马逊开始回答问题本月早些时候，其人工智能聊天机器人开始出现在一些用户的产品页面上。该公司表示，Rufus 可以回答诸如“越野跑鞋和公路跑鞋有什么区别？”之类的问题。或者“情人节送什么礼物好？”您还可以询问有关您在亚马逊上查看的特定产品的问题，例如“这件夹克可以机洗吗？”然后，聊天机器人将使用产品列表、客户评论和社区问答中的信息来提供答案。
+如上面嵌入的视频所示，即使您只是进行简单的搜索（例如“咖啡机”），似乎也会出现针对 Rufus 的建议问题。我不确定我是否喜欢在搜索时屏幕上出现更多混乱的想法，但我必须先亲自尝试一下，看看它是否有用。]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058381/amazon-ai-shopping-assistant-rufus</guid>
+      <pubDate>Thu, 01 Feb 2024 21:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 目前拥有超过 1 亿高级订阅者</title>
+      <link>https://www.theverge.com/2024/2/1/24058265/youtube-premium-music-100-million-subscribers</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+YouTube 的付费音乐和视频级别于周四达到了一个重要里程碑，跨越了1 亿订阅者 全球基准。该数字包括试用订阅，因此付费订阅者的实际数量较少。 YouTube 的订阅等级为 Google 订阅服务的主要收入来源，点击（包括 YouTube TV 和 Google One）。自 YouTube 推出 付费、无广告的订阅服务；后来决定将 YouTube Red 划分为 YouTube Premium 和 YouTube音乐高级版。 
+YouTube Music 是该公司的流媒体音乐服务；无广告的高级版费用为每月 10.99 美元。 YouTube Premium 每月 13.99 美元，包含 Music Premium，还可以删除 YouTube 上的广告、解锁更高质量的流媒体，并支持后台播放和下载。该公司的订阅人数没有区分这两个级别，因此很难判断与 Apple Music 和 Spotify 等其他音乐平台相比，有多少人真正在使用 YouTube Music，以及有多少人为 YouTube Premium 支付了额外费用。 
+YouTube 订阅人数总计 1 亿，但仍落后于 Netflix（2.608 亿订户）和Spotify（2.26 亿付费用户）。它与迪士尼+更具可比性，后者跨越了去年付费分值1.5亿。但 YouTube Premium 不应真正被视为其他优质流媒体服务的竞争对手，特别是考虑到其提供的产品种类繁多（用户生成的视频、直播电视、流媒体音乐、点播视频）。 YouTube 还放弃了流媒体军备竞赛，并停止制作大多数原创内容2022 年初。
+为此，YouTube 的主要收入来源仍然是广告，而不是订阅。但 1 亿也不容小觑，YouTube Premium 和 YouTube Music 的稳定增长意味着它们将在 YouTube 的未来中发挥重要作用。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058265/youtube-premium-music-100-million-subscribers</guid>
+      <pubDate>Thu, 01 Feb 2024 20:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>芯片竞赛：微软、Meta、谷歌和英伟达争夺人工智能芯片霸主地位</title>
+      <link>https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+科技公司希望人工智能能够发展。为此，他们需要越来越强大的芯片。  生成式人工智能的兴起由Nvidia 及其先进的 GPU。由于供不应求，H100 已成为 备受追捧且极其昂贵，使英伟达首次成为价值万亿美元的公司。 
+它还会提示客户，例如 微软，元，OpenAI，亚马逊，和 Google 开始处理他们自己的人工智能处理器。与此同时，Nvidia 以及 AMD 和 Intel 等其他芯片制造商现在已被锁定参与军备竞赛，发布更新、更高效、更强大的人工智能芯片。 
+随着生成式 AI 服务的需求持续增长，芯片显然将成为 AI 霸主的下一个重要战场。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia</guid>
+      <pubDate>Thu, 01 Feb 2024 20:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是您现在可以获得的最佳 AirPods 优惠</title>
+      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
+      <pubDate>Thu, 01 Feb 2024 19:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abode 的这款新型改装门锁承诺电池寿命为 12 个月</title>
+      <link>https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features</guid>
+      <pubDate>Thu, 01 Feb 2024 19:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>汽车技术分手热正在升温</title>
+      <link>https://www.theverge.com/2024/2/1/24058174/polestar-motional-break-up-interest-rate-ev-demand-av</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058174/polestar-motional-break-up-interest-rate-ev-demand-av</guid>
+      <pubDate>Thu, 01 Feb 2024 19:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的 Quest 耳机添加了空间视频和捏合控制，以与 Vision Pro 竞争</title>
+      <link>https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058088/meta-quest-3-spatial-video-vision-pro</guid>
+      <pubDate>Thu, 01 Feb 2024 18:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂 Switch 在亚马逊获得罕见折扣</title>
+      <link>https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon</link>
+      <description><![CDATA[&lt;图&gt;
+      
+标准 Nintendo Switch 可以在旅途中或连接到电视上玩。 |摄影：James Bareham / The Verge
+
+虽然人们普遍期待任天堂 Switch 2今年下降，谁也说不准什么时候。这意味着如果您不想等待玩像 马里奥大战大金刚演示和塞尔达传说：王国之泪，现有的 Switch 系列仍然是您的最佳选择。幸运的是，Nintendo Switch 带有霓虹蓝和红色 Joy-Con 的游戏机现已发售，只需 269 美元，您可以在 Amazon，这是罕见的 30 美元折扣，因为通常售价为 299.99 美元。
+
+如果您正在寻找一款可以随身携带或连接到电视上玩的游戏机，Nintendo Switch 仍然是一个绝佳的选择。诚然，Switch 2 可能配备更大的 8 英寸屏幕，但初代 Switch 上的 6.2 英寸触摸屏仍然足够宽敞，可以舒适地玩游戏。您也可以玩几个小时，因为游戏机的电池可持续长达六个小时。另外一个好处是 Switch 配备了 microSD 卡插槽。这会派上用场，因为考虑到 Switch eShop 上有很多优秀的游戏，您可能很快就会填满其 32GB 的内置存储空间。
+阅读我们的任天堂 Switch 评论。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/1/24058134/nintendo-switch-deal-sale-amazon</guid>
+      <pubDate>Thu, 01 Feb 2024 18:16:40 GMT</pubDate>
+    </item>
     <item>
       <title>Arc 浏览器正在获得更好的书签和搜索结果，这一切都归功于人工智能</title>
       <link>https://www.theverge.com/2024/2/1/24058013/arc-browser-smart-folders-browse-for-me-ai</link>
@@ -32,110 +118,6 @@ Google 表示，首次集成是从小规模开始，与该公司的 本地向导
 ]]></description>
       <guid>https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search</guid>
       <pubDate>Thu, 01 Feb 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snap 正在召回其售出的每架无人机并退款</title>
-      <link>https://www.theverge.com/2024/2/1/24058119/snap-recall-pixy-drone-refund</link>
-      <description><![CDATA[&lt;图&gt;
-      Snap 放弃了 Pixy 飞行自拍相机无人机 
-Snap 和美国消费品安全委员会表示，您应该“立即停止使用 Pixy 飞行相机，取出电池并停止充电”，因为有有四份关于电池膨胀的报告、一份火灾报告和一份“轻伤”报告。 
-然后，您可以获得整架无人机和/或您拥有的任何电池的全额退款 - 听起来我们正在给您至少 185 美元的退款，除非您是打折购买的。您不需要收据：即使您是作为礼物收到的，也可以申请退款。
-不过，要获得这笔钱，您需要归还整个无人机（不包括电池）。您可以此链接填写一份表格，其中包含您的无人机序列号。 Snap 表示它将如果需要，请通过电子邮件向您发送预付费退货标签。您需要找到一种安全的方法来自行处理电池；五金店和像塔吉特这样的大型商店通常在入口附近设有一个垃圾箱来放置它们，并且有一个一个网站在这里提供帮助。
-深入研究无人机对于该公司还通过 Snap Spectacles 涉足硬件领域。这些也主要是关于为平台捕获视频有不同的观点，尽管该公司的 也一直在研究 AR。 
-Snap 首席执行官埃文·斯皮格尔 曾经提出无人机的市场比视频捕捉眼镜的市场更大，但那是在 Pixy 出现之前出去。我相信这是我们第一次听到 Pixy 的销售数据；美国消费品安全委员会报告称，该公司售出了“约 71,000 架”，但无人机数量较少，因为其中包括单独出售的电池。
-
-
-
-更新，美国东部时间中午 12:06：澄清 71,000 件召回物品包括单独出售的电池。]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24058119/snap-recall-pixy-drone-refund</guid>
-      <pubDate>Thu, 01 Feb 2024 16:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anker 适合锻炼的 Soundcore Sport X10 耳机非常便宜，仅需 56 美元</title>
-      <link>https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24057506/anker-soundcore-sport-x10-earbuds-amazon-fire-tv-soundbar-apple-watch-deal-sale</guid>
-      <pubDate>Thu, 01 Feb 2024 16:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过四个小时的听证会后，参议员们发现科技公司首席执行官的回应空洞</title>
-      <link>https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24057460/senators-confront-meta-tiktok-snap-x-discord-ceos-kids-online-harm</guid>
-      <pubDate>Thu, 01 Feb 2024 16:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>康卡斯特正在放弃其误导性的 Xfinity 10G 网络品牌</title>
-      <link>https://www.theverge.com/2024/2/1/24058006/comcast-xfinity-10g-network-branding-advertising-misleading</link>
-      <description><![CDATA[&lt;图&gt;
-      
-康卡斯特仍然可以使用“10G”来描述产品和服务，只要使用准确。 |图片：Xfinity Creative
-
-康卡斯特已同意放弃其“Xfinity 10G 网络”产品品牌，因为广告监管机构得出结论，这可能会让消费者认为他们都将体验到“比 5G 网络快得多的速度”，而这并非事实。这不是真的。
-周三，国家广告审查委员会 (NARB) 作出裁决康卡斯特在描述 Xfinity 网络时及其 Xfinity 10G 网络服务本身的名称中应停止使用“10G”一词。该决定源于T-Mobile和AT&amp;T 突出显示了 蜂窝网络使用的术语存在令人困惑的差异，其中 5G 中的“G”代表“一代”，并且有线电视公司使用的 10G 品牌，代表 10 吉比特的网络速度。
-因此，康卡斯特将其服务宣传为“Xfinity 10G 网络”引起了两个主要担忧：客户会被误导，认为该服务的速度是 5G 的两倍（实际上可以提供高达20Gbps）；每个 Xfinity 服务包均可实现 10Gbps 网络速度。事实上， Ars Technica 指出，这些 10Gbps 速度是一项按需 Xfinity Gigabit Pro 服务，需要光纤到户 (FTTH) 连接，并且无法通过使用的标准计划来实现康卡斯特的常规电缆。
-
-
-图片：康卡斯特
-康卡斯特的 Xfinity 10G 常见问题解答中出现这样的措辞，不难看出消费者可能会被误导。 
-
-NARB 的裁决遵循国家广告部门 (NAD) 去年 10 月提出的类似建议&lt; /a&gt;，广告行业自律机构，敦促康卡斯特“停止其‘10G’声明”或“以不虚假或误导性的方式”对其进行澄清。康卡斯特现已同意停止使用“Xfinity 10G 网络”一词来描述其整个网络，但坚称其“强烈不同意 NARB 的分析和方法”。不过，总的来说，该公司保留使用“10G”一词的权利，前提是准确使用该术语。
-有关 5G 网络速度的术语过去曾引发过问题。 AT&amp;T 受到 NARB 的批评早在 2020 年 5 月，尽管其“5G Evolution”网络比实际 5G 慢得多，但仍以虚假 5G 网络误导客户。几个月后，NAD 还要求 Verizon 停止有关其 5G 网络速度和覆盖范围的欺骗性广告。现在有线电视行业渴望继续推广10G&lt; /a&gt;，消费者需要更多地了解这些术语的实际含义，以避免被欺骗购买误导性的产品。]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24058006/comcast-xfinity-10g-network-branding-advertising-misleading</guid>
-      <pubDate>Thu, 01 Feb 2024 15:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 2024 年情人节礼物指南</title>
-      <link>https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner</link>
-      <description><![CDATA[&lt;图&gt;
-      
-        &lt;图标题&gt;Cath Virginia / The Verge |照片由盖蒂图片社拍摄
-
-我们提供各种比任何糖果都更甜的独特礼物，帮助您节省时间。 我们很容易陷入日常生活而忘记提醒我们所爱的人我们有多么在乎。虽然情人节肯定会让人感到畏缩，但它也鼓励我们这样做。毕竟，向您所爱的人赠送一份衷心的礼物可能是表达您的感激之情的更周到的方式之一。
-
-当然，我们知道找到合适的礼物可能需要时间，因此我们为您做了艰苦的工作。 The Verge 的创意人士齐聚一堂，提出了一长串情人节礼物创意，所有这些都比普通的泰迪熊或一盒巧克力更贴心。我们收录了一些感伤的精选 — 个性化钥匙扣，有人吗？ - 以及以 健身，游戏，烹饪，艺术，以及 文献。希望您能为名单上的每个人找到一些特别的东西 - 无论是您的伴侣、朋友、父母、孩子还是其他与您心心相印的人。
-
-]]></description>
-      <guid>https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner</guid>
-      <pubDate>Thu, 01 Feb 2024 15:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vision Pro 应用程序：好的、坏的和荒谬的</title>
-      <link>https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：苹果
-
-苹果的新平台将会有一些新的——也许是奇怪的——应用程序。 苹果的 Vision Pro 是苹果最新的计算平台，这意味着我们将看到一个一大堆新应用程序。苹果正试图将 Vision Pro 上的应用程序宣传为“空间”体验，我们必须看看这些应用程序与我们在其他平台上看到的虚拟现实和混合现实体验有何不同或有何改进。 Vision Pro 可以运行 iPhone 和 iPad应用程序也是如此。
-Apple 已经透露 Vision Pro 将具有 来自 Disney Plus 的 3D 电影、Max 和 Amazon Prime video 等应用程序的支持，以及 What the Golf? 和 超级水果忍者。但至少在发布时有一个值得注意的遗漏： Netflix 的应用程序不会在 Apple 耳机上工作。
-Vision Pro 发布 2 月 2 日，在接下来的几周和几个月里肯定会出现一些好的、坏的和完全奇怪的应用程序。 （下一个我很有钱会是什么？）这是我们的所有Apple 新平台的应用程序覆盖范围。]]></description>
-      <guid>https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad</guid>
-      <pubDate>Thu, 01 Feb 2024 15:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abode 的这款新型改装门锁承诺电池寿命为 12 个月</title>
-      <link>https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24057581/abode-retrofit-smart-door-lock-price-release-date-features</guid>
-      <pubDate>Thu, 01 Feb 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴德现在终于生成照片了</title>
-      <link>https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：谷歌
-
-Google 的 Bard 聊天机器人正在添加 AI 图像生成功能，赶上了竞争对手 ChatGPT Plus 数月以来的功能。 
-用户可以提示 Bard 使用 Google 的 Imagen 2 文本到图像模型。 Bard，现已由 Google 的 Gemini Pro 大语言模型，总是会有图像生成。人们认为更强大的 Gemini Ultra 型号将为其提供动力；然而，该模型仍在开发中。
-Google 一直将 Bard 定位为 OpenAI 的 ChatGPT Plus 的有力竞争对手，后者运行 GPT-4，并允许用户通过 DALL-E 3 集成生成图像。 两个聊天机器人都表现良好，但 Bard 缺乏文本到图像功能，导致ChatGPT Plus 有一点优势。人们可以免费使用更新后的 Bard 和 Imagen 2，这与依赖付费订阅的 ChatGPT Plus 不同。
-人工智能图像生成最近因露骨色情内容而受到批评泰勒·斯威夫特的假照片淹没了X。虽然仍不清楚人们使用哪些平台来生成这些图像，但科技公司已经开始 锁定他们的图像生成平台。 
-Google 表示巴德的图像功能“在设计时就考虑到了责任”。该公司的水印功能将被烘焙到像素中照片的信息，有助于表明这些图像是人工智能生成的。谷歌还表示，它已经实施了技术和安全防护措施，以避免生成知名人士的图像，并限制暴力、攻击性或色情内容。 
-图像生成不仅限于 Bard。 Google 发布了一款由 Imagen 2 提供支持的新实验性照片工具，名为 ImageFX。 ImageFX 允许用户通过简单的文本提示创建图像，以便人们可以使用生成式 AI，并将反馈直接返回给 Google 工程师。与 Bard 一样，所有通过 ImageFX 生成的照片都将由 SynthID 标记，并遵循 Google 的 AI 原则和技术护栏。它与去年推出的谷歌其他人工智能创作工具 MusicFX 和 TextFX 一起，可在谷歌实验室进行测试。 
-巴德今天还获得了一些其他扩展包。虽然图像生成目前仅支持英语，但该聊天机器人已扩展到 230 多个国家/地区的 40 多种语言。之前的版本仅支持英语，并可在 170 个国家/地区使用。它支持的一些语言包括阿拉伯语、孟加拉语、泰米尔语和乌尔都语。 
-Google 还将双重检查功能扩展到 40 种语言，让用户可以通过自动搜索互联网来评估响应，以支持或反驳内容。 ]]></description>
-      <guid>https://www.theverge.com/2024/2/1/24057438/bard-gemini-imagen-google-ai-image-generation</guid>
-      <pubDate>Thu, 01 Feb 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
