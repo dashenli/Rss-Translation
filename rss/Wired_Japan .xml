@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 02 Feb 2024 00:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 03:15:13 GMT</lastBuildDate>
+    <item>
+      <title>“假拜登”的声音是使用“ElevenLabs”语音生成人工智能吗？对技术滥用的担忧日益加剧</title>
+      <link>https://wired.jp/article/biden-robocall-deepfake-elevenlabs/</link>
+      <description><![CDATA[专家表示，用于模仿美国总统拜登的语音生成人工智能很可能是由初创公司 Eleven Labs 制造的。在总统选举前夕，人们继续担心防止人工智能技术被滥用的措施没有跟上步伐。]]></description>
+      <guid>https://wired.jp/article/biden-robocall-deepfake-elevenlabs/</guid>
+      <pubDate>Fri, 02 Feb 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>热门歌曲会从 TikTok 中消失吗？与环球音乐的合约终止</title>
       <link>https://wired.jp/article/tiktok-universal-music-group-umg-remove-songs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[12月发表的一篇论文显示，去年夏天加拿大野火产生的烟雾可能与美国东部特应性皮炎的增加有关。作者是一名医生，他表示，由于气候变化，空气污染正在恶化，皮肤病的迅速增加也是气候变化的影响之一。]]></description>
       <guid>https://wired.jp/article/air-pollution-is-ruining-your-skin/</guid>
       <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 的新功能“被盗设备保护”如何工作以及如何立即启用它</title>
-      <link>https://wired.jp/article/apple-ios-17-3-iphone-stolen-device-protection/</link>
-      <description><![CDATA[Apple iOS 17.3 中引入了一项名为“被盗设备保护”的新功能，如果有人解锁您的 iPhone，则需要额外的生物识别身份验证。以下是如何立即启用此功能以防止窃贼盗用您的帐户。]]></description>
-      <guid>https://wired.jp/article/apple-ios-17-3-iphone-stolen-device-protection/</guid>
-      <pubDate>Thu, 25 Jan 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
