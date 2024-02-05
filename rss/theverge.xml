@@ -4,7 +4,125 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 05 Feb 2024 15:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 18:16:28 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊厨房友好型 Echo Show 15 现已降价 80 美元</title>
+      <link>https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24062002/amazon-echo-show-15-fujifilm-instax-mini-12-echo-buds-dualsense-deal-sale</guid>
+      <pubDate>Mon, 05 Feb 2024 17:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semafor 记者将利用人工智能来策划新闻</title>
+      <link>https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24062229/semafor-signals-miso-ai-microsoft</guid>
+      <pubDate>Mon, 05 Feb 2024 17:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>1密码已失效，导致部分用户无法登录</title>
+      <link>https://www.theverge.com/2024/2/5/24062278/1password-down-outage-password-manager-sign-in</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：1Password
+
+1Password 表示正在调查用户无法登录应用的报告。该公司的状态页面显示，该问题“目前正在影响 1Password 网络界面的登录”，并且正在影响欧洲、美国、加拿大和其他地区的用户。
+公司状态页面上的图表显示单点登录问题已影响该公司的美国/全球用户和欧洲用户，但不包括企业和加拿大用户。据了解，登录、跨设备同步项目以及保存密码等问题会影响所有地区的用户。
+1Password 于美国东部时间上午 11:36 发布了有关中断的信息。不久之后，我们就在 The Verge 发现了一个问题，当时我们的一位作家不断受到浏览器扩展程序的轰炸，要求他登录。但登录问题似乎并不普遍，因为我能够毫无问题地登录。 
+
+
+调查：我们目前正在调查用户在尝试登录和访问 1Password 应用程序时遇到问题、影响 Web 界面登录的报告。 请关注我们的状态页面以获取更多更新：https://t.co/TitUpYFRM7 — 1Password (@1Password) 2024 年 2 月 5 日
+
+
+DownDetector 显示中断报告已经从大约 30 分钟前的峰值消退，因此 1Password 可能很快就会解决这个问题。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24062278/1password-down-outage-password-manager-sign-in</guid>
+      <pubDate>Mon, 05 Feb 2024 17:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roblox 发布实时 AI 聊天翻译器</title>
+      <link>https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Roblox 构建了一个 AI 模型，据称 翻译文本聊天的速度如此之快用户一开始甚至可能没有注意到它正在翻译其他玩家的消息。它支持 16 种语言，包括英语、法语、日语、泰语、波兰语和越南语。 
+Roblox 首席技术官 Dan Sturman 在接受 The Verge 采访时表示，我们的目标是让 Roblox 用户彼此互动时感到更自在让他们明白自己在说什么。翻译器会自动翻译聊天内容，但用户可以单击图标查看原始消息。
+“我们知道，当用户用自己的语言与他人交谈或互动时，参与度就会提高，”Sturman 说。 “我们采用了这个概念，并通过自动翻译消除了语言障碍。” 
+Roblox 首先构建基于 Transformer 的大型语言模型 (LLM)，该模型基于公开数据和内部数据进行训练。它将法学硕士置于专家混合 (MoE) 架构中，该环境运行多个翻译应用程序，每个应用程序都是一种语言的专家。这使得 Roblox 能够节省资源，而无需为每种语言构建单独的法学硕士。 Sturman 表示，考虑到他们项目的规模，他的团队认为构建自己的模型比修改现成的法学硕士更容易。 
+Sturman 表示 Roblox 会监控聊天（这样做是出于信任和安全原因），如果翻译不完全完美，可以获得反馈。他补充说，聊天翻译人工智能的添加“不会改变我们的隐私和安全流程，禁止的单词仍然会被阻止。”
+
+
+图片：Roblox
+Roblox 自动翻译的实际应用。
+
+Roblox，一直在尝试吸引老年受众在过去的几年里，一直致力于使用生成式人工智能模型来增强用户体验。它推出了人工智能聊天机器人助手去年对于开发商来说。它还会自动将图像资产（例如建筑物上的文字）翻译为用户的默认语言。 
+Sturman 表示，希望翻译模型最终能够超越仅仅翻译文本聊天。 “未来，我们可以使用人工智能将不合规[禁止]的单词翻译为合规单词，或者将其扔到语音聊天中进行实时语音翻译。有很多可能性，”Sturman 说。
+其他公司也在开发人工智能翻译模型。 Meta 发布了语音转文本和文本转文本 翻译器 SeamlessM4T，可处理近 100 种语言。 Google 的通用语音模型还可以翻译大约 100 种语言语言，并已在 YouTube 上部署来翻译字幕。]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator</guid>
+      <pubDate>Mon, 05 Feb 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最值得购买的机械键盘</title>
+      <link>https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth</guid>
+      <pubDate>Mon, 05 Feb 2024 16:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>元监督委员会支持保留被操纵的乔·拜登视频，但质疑现有政策</title>
+      <link>https://www.theverge.com/2024/2/5/24062020/meta-manipulated-media-policy-oversight-board-biden-video</link>
+      <description><![CDATA[&lt;图&gt;
+      Meta 的受操纵媒体政策“不连贯”，并且过于关注视频是否通过人工智能进行更改，而不是该公司自己的监督委员会可能造成的危害在周一发布的决定中表示。
+尽管监督委员会维持了公司允许乔·拜登总统修改后的视频继续在平台上传播的决定，但还是提出了这项政策建议。该视频使用了 2022 年 10 月拜登按照成年孙女的指示在她胸前贴上“我投票”贴纸的真实镜头。但早在 2023 年 1 月发布的编辑过的视频在他的手伸到她的胸口，让她看起来像是他不恰当地触摸了她。 2023 年 5 月发布的一个版本在标题中称拜登为“病态恋童癖”。
+董事会同意 Meta 的观点，即该视频并未违反其受操纵的媒体政策，因为规则只是禁止让人觉得有人说了他们没有说过的话，而不是做了他们没有做过的事情。目前的规则也仅适用于使用人工智能创建的视频，而不是误导性的循环或更简单的编辑。委员会发现，普通用户不太可能相信视频没有被更改，因为循环编辑很明显。
+但是，虽然董事会发现 Meta 在本案中正确应用了其规则，但它建议对规则本身进行重大更改，理由是 2024 年即将举行的选举的紧迫性。“Meta 的操纵媒体政策缺乏有说服力的理由，语无伦次，让用户感到困惑，并且未能明确说明其试图防止的危害，”该委员会写道。 “简而言之，应该重新考虑该政策。”
+董事会建议，该政策应涵盖对视频或音频进行编辑以使其看起来有人做了他们没有做过的事情的情况，即使这不是基于他们的言论。该组织还表示，它“不相信”根据帖子的编辑方式（无论是通过人工智能还是更基本的编辑技巧）做出此类决定的逻辑。在咨询专家和公众意见后，董事会同意非人工智能修改的内容也可能具有类似的误导性。 
+这并不意味着 Meta 必须删除所有更改的帖子。该委员会表示，在大多数情况下，它可以采取较少的限制性措施，例如应用标签来通知用户视频已被大幅编辑。
+监督委员会由 Meta 创建，旨在审查向其上诉的内容审核决定，以做出具有约束力的判断，并提出公司可以选择实施。 Meta 发言人表示，该公司正在审查这些建议，将公开回应根据章程的要求，在 60 天内。
+]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24062020/meta-manipulated-media-policy-oversight-board-biden-video</guid>
+      <pubDate>Mon, 05 Feb 2024 16:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>赫兹也将停止从 Polestar 购买电动汽车</title>
+      <link>https://www.theverge.com/2024/2/5/24062128/hertz-pause-polestar-buy-ev-rental-car-fleet-resale</link>
+      <description><![CDATA[&lt;图&gt;
+      
+这款 Polestar 可能很快就会上市。  |赫兹全球控股公司
+
+赫兹 继续背弃为其租赁车队购买更多电动汽车的承诺，《金融时报》报道称，该公司已暂停从瑞典汽车制造商 Polestar 购买更多电动汽车的计划。 
+赫兹表示计划在 2022 年购买65,000 辆电池供电的 Polestars，力争成为电动汽车的全球领导者。这是该公司此前表示将收购的 10 万辆特斯拉汽车的基础上。 特斯拉估值首次突破 1 万亿美元新闻发布后的时间。
+但一年多后，赫兹改变了主意，主要是因为其收购的电动汽车已经失去了大部分价值。降价（主要来自特斯拉）、比预期更高的折旧以及不断上升的维修成本使得电动汽车对赫兹来说是一笔糟糕的生意。该公司表示，预计这些协议的损失总计将超过 2.45 亿美元。 
+赫兹改变了主意
+对于 Hertz 来说，这是一个令人失望的转变，该公司此前曾设定到 2024 年底将其 25% 的车队实现电动化的目标。上个月，Hertz 表示将出售 20,000 辆特斯拉，即大约一辆-其电动车队的三分之一。现在它与 Polestar 的交易已暂停。 
+Polestar 首席执行官 Thomas Ingenlath 告诉《金融时报》，赫兹首席执行官 Stephen Scherr 去年秋天就暂停事宜联系了他。 Ingenlath 表示，2022 年至 2023 年间，这家瑞典公司已售出约 13,000 辆汽车。 
+赫兹还采用“风险”模式，即完全拥有其购买的车辆，这与一些租赁公司使用的“回购”模式不同，在该模式中制造商同意重新购买车辆以固定价格。 
+Ingenlath 告诉FT，只要赫兹同意不过快或过低地出售其现有电动汽车库存，Polestar 就同意放弃购买全部 65,000 辆汽车的要求。事实上，虽然赫兹的二手车销售门户是 可以肯定的是，电动汽车的销售仍在蓬勃发展。 2023年美国插电式汽车销量超过100万辆，创下新纪录。汽车市场的总份额略低于 8%，高于 2022 年的 6%，根据凯利蓝皮书。尽管如此，许多制造商已经克服了对电动汽车投资的困境，需求比几年前有所疲软。这就是为什么你会看到许多公司暂停或撤回他们的一些承诺——比如赫兹。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24062128/hertz-pause-polestar-buy-ev-rental-car-fleet-resale</guid>
+      <pubDate>Mon, 05 Feb 2024 16:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>推特替代品大肆泄密</title>
+      <link>https://www.theverge.com/2024/2/5/24061997/twitter-alternative-spoutible-vulnerabilty</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+安全顾问兼 Have I Been Pwned 创建者 Troy Hunt 详细介绍了 Spoutible（Elon Musk 接管 Twitter 后出现的社交平台）API 中的一个漏洞，该漏洞可能允许黑客完全控制用户&#39; 账户。 
+有人向 Hunt 通报该漏洞后，他发现黑客可以利用 Spoutible 的 API 来获取用户的姓名、用户名和个人简介，以及他们的电子邮件、IP 地址和电话号码。 Spoutible 此后已解决了该漏洞，在其网站上发表了一篇文章表示没有泄露解密的密码或直接消息，同时确认“抓取的信息包括电子邮件地址和一些手机号码”。它邀请任何仍想使用该服务的人在东部时间下午 1 点参加“特别 Pod 会议”。 Spoutible 和 Hunt 都建议用户更改密码并重置 2FA。
+正如 Hunt 所提到的，这种情况并不完全罕见，正如 Facebook 和 Trello。
+
+
+这非常疯狂，您很少会看到 API 返回客户的 bcrypt 密码哈希值、2FA 机密以及可用于重置密码的令牌https://t.co/SSNVpcMGfn— Troy Hunt (@troyhunt) 2024 年 2 月 5 日
+
+
+然而，Hunt 发现了更令人担忧的事情：不良行为者还可以利用该漏洞获取用户密码的哈希版本。虽然它们受到 bcrypt 的保护，但短密码或弱密码可能相当容易破译，并且该服务阻止人们设置更难破解的较长密码。 
+最重要的是，Hunt 发现 API 返回了用于登录某人帐户的 2FA 代码，以及生成的重置令牌以帮助用户更改忘记的密码。这可以让黑客轻松访问并劫持某人的帐户，而无需提醒他们注意漏洞。
+根据 Hunt 的说法，该漏洞暴露了大约 207,000 名用户的电子邮件。正如 来自  的 2023 年 6 月报告所示，这几乎是整个平台上的所有人Wired 表明 Spoutible 拥有 240,000 个用户。
+您可以在我被黑了吗上检查您的信息是否被泄露。]]></description>
+      <guid>https://www.theverge.com/2024/2/5/24061997/twitter-alternative-spoutible-vulnerabilty</guid>
+      <pubDate>Mon, 05 Feb 2024 15:16:25 GMT</pubDate>
+    </item>
     <item>
       <title>平台游戏的凯西·牛顿 (Casey Newton) 畅谈在媒体大崩溃中幸存下来以及接下来会发生什么</title>
       <link>https://www.theverge.com/2024/2/5/24059524/platformer-casey-newton-substack-moderation-email-newsletters-media-layoffs</link>
@@ -29,136 +147,6 @@ Snap 首席执行官埃文·斯皮格尔 (Evan Spiegel) 为 2024 年设定了雄
 ]]></description>
       <guid>https://www.theverge.com/2024/2/5/24062044/snap-layoffs-10-percent-staff-snapchat</guid>
       <pubDate>Mon, 05 Feb 2024 14:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴黎投票打击SUV</title>
-      <link>https://www.theverge.com/2024/2/5/24061970/suv-parking-charges-paris-air-pollution-road-safety</link>
-      <description><![CDATA[&lt;图&gt;
-      
-“巴黎或多或少有SUV？”上面的海报鼓励巴黎人在 2 月 4 日星期日就此事进行投票。 |摄影：托马斯·萨姆森/法新社，盖蒂图片社
-
-巴黎人投票决定将外地 SUV 驾驶员的停车费提高两倍，作为该市解决道路安全、空气污染和气候变化问题的一部分。这些提案在周日的全民公投中以微弱优势获得通过，《华盛顿邮报》t 报道称，54.6% 的参与者投票赞成旨在减少市中心“重型、大型和污染性”车辆的措施。
-自 9 月 1 日起，汽油或混合动力 SUV 以及其他重量超过 1.6 吨（1.76 吨）的大型车辆在巴黎市中心停车将收取每小时 18 欧元（约合 19.40 美元）的费用，并且城市其他地区每小时 12 欧元（约合 12.90 美元）。新定价还适用于重量超过两吨（2.20 吨）的电动汽车。出租车和城市居民享有豁免，这意味着从市外前往巴黎的人将受到最大的影响。 根据公投的一张海报，只有十分之三的巴黎人拥有私人车辆。
-“巴黎正在转型，让人们呼吸得更好，生活得更好。”
-“我们这样做是为了减少污染，让我们的孩子更安全，因为这些汽车很危险，”巴黎市长 Anne Hidalgo 在上周的竞选活动中表示。 “巴黎正在自我转型，让人们呼吸得更好，生活得更好。”在 11 月 14 日发布到 Facebook 的视频中，伊达尔戈通过引用世界自然基金会 (WWF) 的一项研究，该研究发现 SUV 的污染程度高出 20%，死亡可能性高出两倍与小型传统汽车相比，碰撞中的行人。
-公投的投票率很低，巴黎登记选民的参与率仅为 5.7%。这次投票受到伦敦等其他首都城市的密切关注，这些城市在解决由 SUV 型汽车在全球日益受欢迎。周五，伦敦市长萨迪克·汗 (Sadiq Khan) 告诉  卫报：“我们总是审查全球各地的政策。我坚信窃取好的政策。如果其他城市正在做有效的事情，我们就会效仿，而不是糟糕地发明[新政策]。”
-提高 SUV 停车费是伊达尔戈为让巴黎对环境、行人和骑自行车者更加友好而采取的最新措施。巴黎官员改善了自行车基础设施 并宣布计划建立交通- 减少“宁静区”，例如减少进入市中心的车辆流量，以及去年在用户受伤和死亡人数上升后成功禁止租赁电动滑板车。伊达尔戈上周表示，取消租赁踏板车带来了一种“解放和平静的感觉”，巴黎旨在通过减少市中心 SUV 的数量来进一步增强这种感觉。]]></description>
-      <guid>https://www.theverge.com/2024/2/5/24061970/suv-parking-charges-paris-air-pollution-road-safety</guid>
-      <pubDate>Mon, 05 Feb 2024 12:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管执法者关闭了一些主要参与者，但勒索软件业务仍在蓬勃发展</title>
-      <link>https://www.theverge.com/2024/2/5/24059486/ransomware-victims-palo-alto-networks-unit-42</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：Beatrice Sala
-
-2023 年对于勒索软件组织来说是重要的一年，尽管世界各地的执法部门仍在继续打击攻击者。
-威胁情报公司 Palo Alto Networks 的 Unit 42 发现，勒索软件泄露网站报告的受害者数量增加了 49%，这些网站上来自不同勒索软件组织的帖子总计近 4,000 个。 Unit 42 表示，这一上升是由于利用零日漏洞的攻击造成的巨大影响，零日漏洞是开发人员尚未识别的安全缺陷。他们指出 MOVEit Transfer 软件遭到黑客攻击，美国政府已与 CL0P 勒索软件团伙建立联系。网络安全和基础设施安全局估计，此次黑客攻击损害了超过 3,000 个美国组织和全球 8,000 个组织。
-Unit 42 识别的勒索软件受害者中近一半来自美国，受影响最严重的行业是制造业、专业和法律服务以及高科技。 
-Unit 42 去年发现了 25 个提供勒索软件服务的新泄露站点。但它表示，至少有五家似乎已经关闭，因为它们在今年下半年没有新的职位。 Unit 42 表示，到 2023 年，大约两打新网站占勒索软件帖子总数的 25%。
-Unit 42 表示，尽管如此，一些勒索软件团体的突出表现也引起了执法部门的关注，并在多起案件中取得了成功。该组织赞扬执法部门在 2023 年扰乱 Hive 和 Ragnar Locker 等组织方面发挥的作用。Hive 勒索了 1 亿美元的赎金，根据欧洲执法部门。
-该报告跟踪了区块链数据公司 Chainaanalysis 的调查结果，该公司最近发布了其关于加密货币犯罪趋势的自己的报告。尽管根据初步调查结果，该公司发现 2023 年非法加密货币活动的总价值有所下降，但勒索软件收入却有所增加。 Chainaanalysis 表示，“勒索软件攻击者已经适应了组织网络安全的改进。”]]></description>
-      <guid>https://www.theverge.com/2024/2/5/24059486/ransomware-victims-palo-alto-networks-unit-42</guid>
-      <pubDate>Mon, 05 Feb 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bambu Lab 正在召回所有 A1 3D 打印机——在阅读本文之前请勿使用它们</title>
-      <link>https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/4/24061794/bambu-lab-a1-3d-printer-recall-heatbed-cable-damage</guid>
-      <pubDate>Mon, 05 Feb 2024 04:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软考虑在 PS5 上推出《夺宝奇兵》</title>
-      <link>https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：贝塞斯达
-
-Bethesda 即将推出的《夺宝奇兵》游戏也暂定在索尼 PlayStation 5 主机上发布。我们第一次看到《夺宝奇兵》和大圆在上个月微软的 Xbox 开发者直面活动期间，该活动宣布了 Xbox 和 PC 版。一位熟悉微软计划的消息人士告诉 The Verge，贝塞斯达也在考虑将 印第安纳琼斯与大圆带到 PS5。
-我们获悉，微软内部正在针对某些 Xbox 游戏推出一种新的多平台方法，该公司正在权衡哪些游戏将保持独占，以及哪些游戏未来将出现在 Switch 或 PS5 上。 《夺宝奇兵》似乎是新一波多平台游戏的一部分。
-虽然 Bethesda 将首先作为 Xbox 主机独占游戏推出《夺宝奇兵》游戏，但据我们所知，目前该游戏将拥有相当短的独占期。 PS5 的发布正在考虑几个月后进行，Bethesda 暂定于 2024 年 12 月发布 Xbox 和 PC 版本。
-《夺宝奇兵与大圆》的确切时间和平台可用性可能会发生变化，特别是因为微软针对 Xbox 游戏的新多平台方法尚未最终确定。微软一直在评估将某些 Xbox 独占游戏引入 PS5 和任天堂近几个月切换。据报道，盗贼之海和Hi-Fi Rush都在考虑跨平台，而且我们了解到微软也考虑将其他 Xbox 游戏引入竞争对手的游戏机。 p&gt;
-
-
-我可以确认 Hi-Fi Rush 数据矿是合法的，并且这些 T 恤纹理文件在游戏中。 Hi-Fi Rush 似乎即将登陆 PS5 和 Nintendo Switch https://t.co/hy6BUjOV4Z pic.twitter.com/WjgPk2bIqH— 汤姆·沃伦 (@tomwarren) 2024 年 2 月 1 日
-
-
-我们获悉，预计将在未来几周内发布针对非 Xbox 平台的 Hi-Fi Rush 公告。 数据挖掘的游戏资产暗示 PS5 和 Nintendo Switch 将于本周早些时候发布。 XboxEra也在报告 继 Xbox 和 PC 版游戏“破碎空间”扩展包发布后，微软计划将Starfield带到 PS5。
-去年我们在FTC 期间了解到诉微软案，印第安纳琼斯和大圆最初计划用于多个游戏机。贝塞斯达前全球出版主管皮特·海因斯 (Pete Hines) 作证称，迪士尼 签订了多台游戏机的合同，并且在微软收购 Bethesda 后，该交易被修改为 Xbox 游戏机独占。
-海因斯将这一变化归咎于将游戏移植到多个主机上可能会出现延迟，并补充说“你正在与许可人打交道，他会对你正在制作的内容提供大量反馈，添加你的日程安排上有很多时间。”
-《夺宝奇兵》在 PS5 上推出肯定会让人感到意外，但我们获悉，微软内部对于将哪些 Xbox 游戏引入竞争对手的游戏机仍存在激烈争论。现在看起来微软已经决定让一些 Xbox 游戏登陆 PS5 和 Nintendo Switch，但是 就像我上个月说的那样，细节决定成败。]]></description>
-      <guid>https://www.theverge.com/2024/2/4/24057433/microsoft-bethesda-indiana-jones-and-the-great-circle-ps5-release</guid>
-      <pubDate>Sun, 04 Feb 2024 22:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 是一种扣人心弦、悲惨的体验</title>
-      <link>https://www.theverge.com/24060504/threads-review-a-miserable-experience</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-有时你必须让自己经历一些痛苦的事情才能认识到你拥有它有多好。忍受最令人沮丧的事情可以获得很多好处：想听令人沮丧的消息吗？想感到焦虑和不安吗？想要离开时对世界感到绝望和愤世嫉俗吗？
-这就是观看 1984 年电视电影 Threads 的体验现已作为 Criterion Channel 的新后末日科幻系列的一部分进行直播。 （抱歉，你以为我说的是另一个叫做《Threads》的东西吗？）由米克·杰克逊（Mick Jackson）执导，小说家巴里·海因斯（Barry Hines）编剧的《Threads》在 BBC 播出时在英国引起了一种文化现象。这部电影毫不犹豫地清晰地描述了核辐射的后果，继承了《战争游戏》的遗产，这部伪纪录片在 1966 年就足以令人信服地认为它因“太恐怖了”（但随后被搬上影院）。如果Threads是战争游戏备受争议的翻版，那么它绝对有效。
-近四十年后，它仍然有效，而且《Threads》的观看难度也丝毫不减。这部电影制作于冷战期间，想象了美国和苏联之间的紧张局势白热化，工业城市谢菲尔德也陷入了危机。炸弹爆炸了，城市被夷为平地，而到那时，事情还没有变得那么糟糕。
-每当你认为事情变得更加黯淡时，电影就会找到办法。 
-Threads 在主题上是与 奥本海默比芭比娃娃（另一方面，芭比 + Poor Things将是一个有趣的组合）。如果说克里斯托弗·诺兰只是以时尚的方式一睹核后果的恐怖——在这段简短的镜头中，日本公民诡异地化为尘土，而希里安·墨菲则内疚地盯着镜头——那么《Threads》的整个后半段都在展示这种描述是多么简单化。事实证明，炸弹是最容易观察到的东西。
-尤其是在后半部分，Threads 毫不留情，在某些方面甚至有点朴素。砂砾、污垢、瓦砾、老鼠、吃老鼠的人——这在广播电视上播放是很了不起的。每当你认为事情已经变得更加惨淡时，电影就会找到办法。资源匮乏的英国政府迅速转向法西斯主义。辐射中毒的影响体现在许多身体特征上；而那些破烂的（抱歉）角色只是蒙混过关，而这部电影从未真正给他们一个应该继续前进的理由。
-但是 Threads 的承诺使其如此成功。再说一次，这部作品是在 80 年代中期制作的，它仍然比我多年来看过的任何电影和电视节目更令人难以忘怀。 Threads 模拟灾难场景，细节丰富。核冬天遮蔽了阳光，杀死了所有农作物；当数年后阳光再次出现时，其紫外线非常强烈，导致幸存者普遍患上白内障。这里确实没有什么好转，只有令人着迷的恐怖之后的令人着迷的恐怖。虽然很难看，但我保证它制作精良并且非常令人满意。 （之后，您可以观看 Criterion 的反节目，一系列猫电影.)
-在 Letterboxd 上，我的合作伙伴只对电影进行评分，但从不留下评论。看完Threads后，她写了第一个。上面简单地写着：“基督”。然后她给了四颗星。]]></description>
-      <guid>https://www.theverge.com/24060504/threads-review-a-miserable-experience</guid>
-      <pubDate>Sun, 04 Feb 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们现在如何获取新闻</title>
-      <link>https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter</guid>
-      <pubDate>Sun, 04 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iFixit 将 Vision Pro 拆开，露出其连接器、屏幕和风扇</title>
-      <link>https://www.theverge.com/2024/2/3/24059966/ifixit-apple-vision-pro-teardown-video</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：iFixit
-
-我们已经发现了 Apple Vision Pro 在上周，就像它有不是一个，而是两种不同的闪电式连接器。但现在您可以在 iFixit 的第一个拆解视频中看到更多内容，为问题提供一些答案，例如是什么促成了它重量，以及更换哪些部件可能非常昂贵。
-断开电池线和带臂的浅黄色闪电连接器非常简单，只需要一个 SIM 弹出工具。之后，拆卸对于苹果硬件来说是相当标准的：热风枪、撬动、到处都是螺丝、支架和连接器。
-
-
-图片：iFixit
-
-
-iFixit 的博客对该视频进行了补充，对 EyeSight 进行了深入分析，称其不是单个视频源，而是“一堆关于您眼睛的视频”。首先，OLED 面板显示“多面图像”，这些图像被分割，然后通过双凸透镜层，该层又通过另一个“类似双凸透镜”层来扩大图像以适合整个区域，然后通过辅助透镜，作为两个略有不同的图像，给您的眼睛带来 3D 效果。
-
-
-图片：iFixit
-Vision Pro，去掉了前玻璃。
-
-所有这些因素共同导致图像模糊、暗淡，许多评论者抱怨说，很难在 Vision Pro 的外部显示屏上真正看到眼睛。 
-
-
-Vision Pro 的 EyeSight 似乎是一个修复阿喀琉斯之踵的方法——一个有点令人毛骨悚然的功能有很多故障点。在我们拆解的第一部分中，我们研究了它的三层显示屏如何创建佩戴者眼睛的不可思议的 3D 视频。 https://t.co/RqWadVbN9U pic.twitter.com /uYONTB6WMF— iFixit (@iFixit) 2024 年 2 月 3 日
-
-
-在 iFixit 首席执行官凯尔·维恩斯 (Kyle Wiens) 的一条推文中，您可以看到 Vision Pro 和屏幕在没有外层的情况下的样子，去除外层也会暴露安装在外部的摄像头和传感器。视频的输入和输出速度都很快。但还有更多内容即将推出——iFixit 表示这款耳机对于一个视频来说太复杂了，并承诺稍后会发布一个视频来展示“这个兔子洞到底有多深”。 
-
-
-这个拆解变得越来越疯狂。 pic.twitter.com/OAuOQGhJqr—凯尔·维恩斯 (@kwiens) 2024 年 2 月 2 日
-
-
-美国东部时间 2024 年 2 月 3 日晚上 7:06 更新：添加了 iFixit 的 X 发布有关拆解的帖子并附有展开的碎片图片。 p&gt;
-美国东部时间 2024 年 2 月 4 日下午 1:35 更新：更新了 iFixit Vision Pro 的链接和更多详细信息 em&gt;拆解博客。]]></description>
-      <guid>https://www.theverge.com/2024/2/3/24059966/ifixit-apple-vision-pro-teardown-video</guid>
-      <pubDate>Sat, 03 Feb 2024 23:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vision Pro 的第一个 Reddit 评论位于</title>
-      <link>https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/3/24060419/reddit-vision-pro-user-reviews-launch</guid>
-      <pubDate>Sat, 03 Feb 2024 17:44:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

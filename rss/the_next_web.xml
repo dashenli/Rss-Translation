@@ -4,7 +4,14 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 05 Feb 2024 15:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 18:17:57 GMT</lastBuildDate>
+    <item>
+      <title>苏格兰初创公司将芬兰矿山改造成巨型重力电池</title>
+      <link>https://thenextweb.com/news/scottish-startup-gravitricity-energy-storage-battery</link>
+      <description><![CDATA[总部位于爱丁堡的初创公司 Gravitricity 将把欧洲最深的矿山之一变成非洲大陆首个重力储能系统。重力技术使用巨大的重物，在能源过剩时将其提升到矿井上，然后在需求高峰时再次释放回来 - 驱动涡轮机并将电力输送到电网。该系统可以根据需要快速释放大量电力或更慢地释放电力。 Gravitricity 最近签署了一项协议，将在芬兰赫尔辛基以北 450 公里处的小镇 Pyhäjärvi 的一个 1,444 米深的矿井安装其技术。…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/scottish-startup-gravitricity-energy-storage-battery</guid>
+      <pubDate>Mon, 05 Feb 2024 16:15:43 GMT</pubDate>
+    </item>
     <item>
       <title>英国未能就人工智能版权代码达成共识，对艺术家造成重大打击</title>
       <link>https://thenextweb.com/news/uk-ai-copyright-code-artists</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[本文最初由 Patrick Helm 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。有一次，有一个在线小测验，有 10 个问题。每个问题都显示一个微小的方法，需要猜测它是在 Ruby 核心语言中定义的，还是在 Rails 框架中定义的。 Matz 和 DHH 都没有得分 10/10。 Yukihiro Matsumoto，也称为 Matz，是 Ruby 语言的创建者。 David Heinemeier Hanson，又名 DHH，发明了…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/love-letter-rails-and-ruby</guid>
       <pubDate>Wed, 31 Jan 2024 14:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>不明确的战略阻碍了传统公司的人工智能发展</title>
-      <link>https://thenextweb.com/news/silo-ai-report-shared-data-practices</link>
-      <description><![CDATA[传统组织对人工智能寄予厚望，但战略缺陷严重制约其发展野心。这是来自芬兰初创公司 Silo AI 的一份新报告。该公司最近因建立具有多语言功能的大型模型（LLM）而成为头条新闻，但主要致力于将人工智能引入成熟的企业。这为它提供了进入该技术主流采用的窗口。新的研究描绘了一幅更详细的图景。该报告分析了各种传统企业和组织。 Silo 调查了各个行业的公司，从制造业、建筑业到金融服务和公共部门。尽管平均年龄为…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/silo-ai-report-shared-data-practices</guid>
-      <pubDate>Wed, 31 Jan 2024 13:04:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
