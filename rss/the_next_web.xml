@@ -4,7 +4,14 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 05 Feb 2024 12:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 15:15:11 GMT</lastBuildDate>
+    <item>
+      <title>英国未能就人工智能版权代码达成共识，对艺术家造成重大打击</title>
+      <link>https://thenextweb.com/news/uk-ai-copyright-code-artists</link>
+      <description><![CDATA[英国政府、AI公司、创意组织未能达成共识拟议的代码将为使用受版权保护的材料训练人工智能模型制定明确的指导方针。近一年来，知识产权局（IPO）一直在与微软、谷歌 DeepMind 和 Stability AI 等公司以及 BBC、大英图书馆和英国《金融时报》等各种艺术和新闻机构进行咨询。会谈的目的是编写一本关于文本和数据挖掘的规则手册，其中人工智能模型在人类制作的书籍、图像和电影等材料上进行训练…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/uk-ai-copyright-code-artists</guid>
+      <pubDate>Mon, 05 Feb 2024 12:41:15 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟成员国批准世界首部人工智能法</title>
       <link>https://thenextweb.com/news/eu-approves-ai-act</link>
@@ -22,7 +29,7 @@
     <item>
       <title>人工智能视觉和自主救生艇可能是海上救援的未来</title>
       <link>https://thenextweb.com/news/ai-autonomous-lifeboats-offshore-search-and-rescue</link>
-      <description><![CDATA[很少有人知道在海洋中工作的风险比萨姆·梅奥尔更好。梅奥尔从小就是一名水手，目睹了几起近海危险事故，其中一些是致命的。这就是吸引年轻水手在 2017 年创立 Zelim 的原因。这家初创公司的技术旨在使远程控制搜索和救援成为常态——让人们远离危险，同时最终拯救生命。总部位于爱丁堡的 Zelim 最近与海上风电巨头 Ocean Winds 签署了一项协议，在葡萄牙海岸附近的一个浮动风电场试验其人工智能驱动的落水人员检测技术。使用镜头…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[很少有人知道在海洋中工作的风险比萨姆·梅奥尔更好。梅奥尔从小就是一名水手，他亲眼目睹了几起海上危险事故，其中一些是致命的。这就是吸引年轻水手在 2017 年创立 Zelim 的原因。这家初创公司的技术旨在使远程控制搜索和救援成为常态——让人们远离危险，同时最终拯救生命。总部位于爱丁堡的 Zelim 最近与海上风电巨头 Ocean Winds 签署了一项协议，在葡萄牙海岸附近的一个浮动风电场试验其人工智能驱动的落水人员检测技术。使用镜头…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/ai-autonomous-lifeboats-offshore-search-and-rescue</guid>
       <pubDate>Fri, 02 Feb 2024 13:34:00 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>ESA 向国际空间站发送世界上第一台太空金属 3D 打印机</title>
       <link>https://thenextweb.com/news/esa-worlds-first-metal-3d-printer-space-iss</link>
-      <description><![CDATA[世界上第一台太空金属 3D 打印机正在前往国际空间站的途中（国际空间站），它将安装在欧空局的哥伦布模块中。其任务是证明该技术在轨道上的有效性，并为未来在火星和月球上的使用铺平道路。这台由空中客车公司开发的180公斤打印机将用于修理或制造工具、安装接口和机械零件。它可以打印高9厘米、宽5厘米的零件，整个过程持续约40小时。一旦安装在国际空间站上，3D 打印机…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[世界上第一台太空金属 3D 打印机正在前往国际空间站的途中（国际空间站），它将安装在欧空局的哥伦布模块中。其任务是证明该技术在轨道上的有效性，并为未来在火星和月球上的使用铺平道路。这台由空中客车公司开发的180公斤打印机将用于修理或制造工具、安装接口和机械零件。它可以打印高9厘米、宽5厘米的零件，整个过程持续约40小时。在国际空间站安装后，3D 打印机…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-worlds-first-metal-3d-printer-space-iss</guid>
       <pubDate>Thu, 01 Feb 2024 14:09:30 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>我写给 Rails（和 Ruby）的情书</title>
       <link>https://thenextweb.com/news/love-letter-rails-and-ruby</link>
-      <description><![CDATA[本文最初由 Patrick Helm 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。有一次，有一个在线小测验，有 10 个问题。每个问题都显示一个微小的方法，需要猜测它是在 Ruby 核心语言中定义的，还是在 Rails 框架中定义的。 Matz 和 DHH 的得分均未达到 10/10。 Yukihiro Matsumoto，也称为 Matz，是 Ruby 语言的创建者。 David Heinemeier Hanson，又名 DHH，发明了…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[本文最初由 Patrick Helm 发表在 .cult 上。 .cult 是一个位于柏林的开发者社区平台。我们撰写与职业相关的所有内容，制作原创纪录片，并分享大量来自世界各地的其他不为人知的开发人员故事。有一次，有一个在线小测验，有 10 个问题。每个问题都显示一个微小的方法，需要猜测它是在 Ruby 核心语言中定义的，还是在 Rails 框架中定义的。 Matz 和 DHH 都没有得分 10/10。 Yukihiro Matsumoto，也称为 Matz，是 Ruby 语言的创建者。 David Heinemeier Hanson，又名 DHH，发明了…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/love-letter-rails-and-ruby</guid>
       <pubDate>Wed, 31 Jan 2024 14:59:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[传统组织对人工智能寄予厚望，但战略缺陷严重制约其发展野心。这是来自芬兰初创公司 Silo AI 的一份新报告。该公司最近因建立具有多语言功能的大型模型（LLM）而成为头条新闻，但主要致力于将人工智能引入成熟的企业。这为它提供了进入该技术主流采用的窗口。新的研究描绘了一幅更详细的图景。该报告分析了各种传统企业和组织。 Silo 调查了各个行业的公司，从制造业、建筑业到金融服务和公共部门。尽管平均年龄为…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/silo-ai-report-shared-data-practices</guid>
       <pubDate>Wed, 31 Jan 2024 13:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络闪光和癫痫恶搞罪犯将在英国面临牢狱之灾</title>
-      <link>https://thenextweb.com/news/cyberflashing-epilepsy-trolling-offenders-face-prison-uk</link>
-      <description><![CDATA[截至今天，英国将网络闪光等行为定为犯罪行为，并且 —世界拳头——癫痫恶搞，违法者可能面临牢狱之灾。新的犯罪行为将作为《在线安全法案》的一部分生效，该法案是最近推出的一项法案，旨在保护人们免受非法或“有害”在线内容的侵害。网络闪光是指发送不需要的色情照片的行为。研究表明，大约一半的年轻女性（年龄在 18 至 25 岁之间）收到过未经请求的裸照。根据 2020 年的一项研究，18 岁以下女性的比例更高，达到 76%。现在，网络闪光罪犯…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/cyberflashing-epilepsy-trolling-offenders-face-prison-uk</guid>
-      <pubDate>Wed, 31 Jan 2024 12:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
