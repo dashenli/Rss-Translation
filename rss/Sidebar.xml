@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 09:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 12:24:23 GMT</lastBuildDate>
+    <item>
+      <title>使用着色器和 React Three Fiber 照亮焦散</title>
+      <link>https://blog.maximeheckel.com/posts/caustics-in-webgl/</link>
+      <description><![CDATA[有关如何为 React Three Fiber 项目构建焦散光效果的分步指南。
+]]></description>
+      <guid>https://blog.maximeheckel.com/posts/caustics-in-webgl/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SVG 滤镜制作工具</title>
+      <link>https://svgfm.chriskirknielsen.com/</link>
+      <description><![CDATA[SVGFM，SVG 过滤器的节点图生成器。
+]]></description>
+      <guid>https://svgfm.chriskirknielsen.com/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>无限工艺</title>
+      <link>https://neal.fun/infinite-craft/</link>
+      <description><![CDATA[Neal Agarwal 制作的一款关于制作的游戏。
+]]></description>
+      <guid>https://neal.fun/infinite-craft/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:24:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统是零利率现象吗？</title>
+      <link>https://daverupert.com/2024/01/are-design-systems-zero-interest-rate-phenomenon</link>
+      <description><![CDATA[去年，我们采访的一位投资者向我们发送了一条推文，表达了她对投资设计系统领域产品的犹豫。
+]]></description>
+      <guid>https://daverupert.com/2024/01/are-design-systems-zero-interest-rate-phenomenon</guid>
+      <pubDate>Mon, 05 Feb 2024 09:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师新闻已死</title>
+      <link>https://solomon.io/designer-news-is-dead/</link>
+      <description><![CDATA[设计师新闻已经死了。 Designer News 是产品设计师的在线社区。多年来，它是讨论软件设计的最佳论坛。
+]]></description>
+      <guid>https://solomon.io/designer-news-is-dead/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:19:02 GMT</pubDate>
+    </item>
     <item>
       <title>我是一个创意者。</title>
       <link>https://alistapart.com/article/i-am-a-creative/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://piccalil.li/blog/reality-check-3-building-out-a-layered-hero-grid-layout-from-dribbble/</guid>
       <pubDate>Wed, 31 Jan 2024 07:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>呼吁就 HTML 语义达成共识</title>
-      <link>https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/</link>
-      <description><![CDATA[HTML 应该很容易学习。当然，基础知识非常清楚，但我们应该如何在微妙的情况下做出正确的选择？
-]]></description>
-      <guid>https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/</guid>
-      <pubDate>Tue, 30 Jan 2024 19:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新设计科马克·麦卡锡残酷的“血脉”</title>
-      <link>https://thefoxisblack.com/redesigning-cormac-mccarthys-brutal-blood-meridian/</link>
-      <description><![CDATA[在过去的几年里，我感觉我的设计节奏已经放慢了。
-]]></description>
-      <guid>https://thefoxisblack.com/redesigning-cormac-mccarthys-brutal-blood-meridian/</guid>
-      <pubDate>Tue, 30 Jan 2024 19:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年度野生动物摄影师</title>
-      <link>https://www.thisiscolossal.com/2024/01/2023-wildlife-photography-contest/</link>
-      <description><![CDATA[年度野生动物摄影师大赛已举办到第 59 届，共收到来自 95 个国家的近 50,000 幅参赛作品。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/01/2023-wildlife-photography-contest/</guid>
-      <pubDate>Tue, 30 Jan 2024 19:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>调整字段大小就可以了！</title>
-      <link>https://polypane.app/blog/field-sizing-just-works/</link>
-      <description><![CDATA[字段大小是疯狂的。这是一个新的 CSS 属性，可以使输入和文本区域自动缩放到其内容的大小。
-]]></description>
-      <guid>https://polypane.app/blog/field-sizing-just-works/</guid>
-      <pubDate>Tue, 30 Jan 2024 19:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好的销售页面和更好的排版</title>
-      <link>https://pimpmytype.com/sales-page</link>
-      <description><![CDATA[通过更好地使用排版来设计令人信服的销售页面的五个技巧。
-]]></description>
-      <guid>https://pimpmytype.com/sales-page</guid>
-      <pubDate>Tue, 30 Jan 2024 19:25:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
