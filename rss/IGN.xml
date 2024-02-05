@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Mon, 05 Feb 2024 06:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 09:13:09 GMT</lastBuildDate>
+    <item>
+      <title>审判官评论</title>
+      <link>https://www.ign.com/articles/the-inquisitor-review</link>
+      <description><![CDATA[这是一个引人入胜的调查前提，但有太多的掌控。]]></description>
+      <guid>https://www.ign.com/articles/the-inquisitor-review</guid>
+      <pubDate>Mon, 05 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>据报道，《夺宝奇兵：大圆环》和《星域》正在考虑登陆 PS5</title>
       <link>https://www.ign.com/articles/indiana-jones-and-the-great-circle-and-possibly-starfield-are-reportedly-being-considered-for-ps5</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[开发商 Atlus 表示，《女神异闻录 3 Reload》短期内不会推出类似于《女神异闻录 4》的 Golden 版或《女神异闻录 5》的 Royal 版的扩展版本。]]></description>
       <guid>https://www.ign.com/articles/persona-3-reload-wont-get-an-expanded-golden-or-royal-edition-anytime-soon-dev-says</guid>
       <pubDate>Fri, 02 Feb 2024 16:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starfield 的下一次更新添加了 AMD 的 FSR 3 技术</title>
-      <link>https://www.ign.com/articles/starfields-next-update-adds-amds-fsr-3-tech</link>
-      <description><![CDATA[AMD 的 FSR 3 将于下周开始通过 Steam Beta 加入 Starfield，该功能将于本月晚些时候在下一次重大更新之前向所有 PC 玩家开放。]]></description>
-      <guid>https://www.ign.com/articles/starfields-next-update-adds-amds-fsr-3-tech</guid>
-      <pubDate>Fri, 02 Feb 2024 16:48:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

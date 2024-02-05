@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 05 Feb 2024 06:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 09:14:50 GMT</lastBuildDate>
+    <item>
+      <title>回顾Facebook在照片领域的20年以及它给社会带来的诸多重要问题</title>
+      <link>https://wired.jp/article/facebook-turns-20/</link>
+      <description><![CDATA[Facebook 于 2024 年 2 月 4 日庆祝成立 20 周年。 Facebook最初是一个在线学生名录，如今已成为全球最大的社交网络服务，它的历史也是一部互联网时代特有的问题的历史，例如过度使用个人信息、过滤泡沫和虚假新闻。]]></description>
+      <guid>https://wired.jp/article/facebook-turns-20/</guid>
+      <pubDate>Mon, 05 Feb 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开发者对苹果应用商店的“规则改变”感到失望。欧盟将做出什么决定？</title>
       <link>https://wired.jp/article/apple-app-store-sideloading-europe-dma/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧米茄与斯沃琪合作在2022年掀起热潮的“MoonSwatch”中似乎将出现一款以史努比为主题的新品。粉丝们抱有很高的期望，期待有一种特殊的设计。]]></description>
       <guid>https://wired.jp/article/snoopy-moonswatch-2024/</guid>
       <pubDate>Tue, 30 Jan 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的 Vision Pro 会成功吗？ “应用程序开发”的未来是关键</title>
-      <link>https://wired.jp/article/apps-made-the-iphone-theyre-missing-from-the-vision-pro/</link>
-      <description><![CDATA[苹果的混合现实（MR）耳机“Apple Vision Pro”将于二月份在美国发布，但目前与其兼容的应用程序很少。专家表示，由于设备价格高昂和开发环境受限，许多软件开发商正在采取观望态度。]]></description>
-      <guid>https://wired.jp/article/apps-made-the-iphone-theyre-missing-from-the-vision-pro/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
