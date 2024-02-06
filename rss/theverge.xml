@@ -4,7 +4,97 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Feb 2024 18:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 21:12:05 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 转型后的播客业务今年可能真正实现盈利</title>
+      <link>https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/6/24063821/spotify-earnings-profit-podcast-rogan-hot-pod-summit</guid>
+      <pubDate>Tue, 06 Feb 2024 20:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disney Plus 对密码共享的限制现已向美国订阅者推出</title>
+      <link>https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+不祥之兆 几个月来，迪士尼+终于开始采取措施，阻止美国订阅者与未付费服务的人分享密码。
+今天，迪士尼+开始发送电子邮件，通知订阅者其服务条款的新变化，其中包括使人们更难使用非登录凭据访问该服务。实际上是他们的。更新后的条款是在迪士尼+对其 加拿大订阅者以及Hulu发出类似通知几天后a&gt; 向用户通报其服务条款的变更以及未来几周内停止密码共享的计划。 
+与 Hulu 的服务条款一样，Disney Plus 协议的变更日期为 1 月 25 日，并且已对新客户生效。根据 Disney Plus 的电子邮件，现有订阅者预计新限制将于 3 月 14 日生效。
+“我们增加了对与家庭以外的人共享帐户的限制，并解释了我们如何评估您对这些限制的遵守情况，”电子邮件解释道。
+与推出 Hulu 新 TOS 的情况一样，迪士尼表示流媒体可以“分析您帐户的使用情况以确定是否遵守”新规则，但没有具体说明如何实施识别任何试图避开他们的人。虽然新条款表示可以在迪士尼的在线帮助中心找到有关该政策的更多信息，但目前似乎只有该公司如何定义“家庭”的相当简单的解释。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/6/24063799/disney-plus-password-crackdown-us</guid>
+      <pubDate>Tue, 06 Feb 2024 20:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 的首个 Vision Pro 测试版可让您拉近虚拟物品的距离</title>
+      <link>https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Vjeran Pavic / The Verge
+
+自 Apple Vision Pro 现已推出，它带来了一个修复程序，可以让耳机用户更接近 3D 空间中的物体。 
+在visionOS中，当您足够接近某个对象或应用程序窗口时，当您经过它时，它就会开始消失。但 The Verge 的一位工作人员表示，当玩诸如 STAK！，一款可以让你堆叠 3D 方块的游戏，距离很远，令人沮丧。
+
+
+
+
+
+
+Apple 的发行说明 对于visionOS beta 1.1更新，用户将“能够将立体场景重新定位得比以前更近，这将使与其中的对象更容易直接交互”。 
+除了此修复之外，据报道，Apple 还通过新 Beta 版启用了移动设备管理，其中还可能包括对 Microsoft Exchange 和 Google Workspace 的支持。 
+产品营销高级总监 Jeremy Butcher 告诉 TechCrunch，它认为企业空间是一个巨大的潜在市场。 Butcher 表示，这意味着“支持托管 Apple ID 等功能”和单点登录。 
+
+相关：
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/6/24063746/apple-vision-pro-first-beta-1-1-device-management</guid>
+      <pubDate>Tue, 06 Feb 2024 20:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是 WhatsApp 计划如何与其他消息应用程序互操作的方式</title>
+      <link>https://www.theverge.com/2024/2/6/24063705/whatsapp-interoperability-plans-eu-dma</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+WhatsApp 与许多其他主要科技平台一样，必须做出一些重大改变，以遵守欧盟的数字市场法案 (DMA)。其中一项变化是与其他消息平台的互操作性，WhatsApp 工程总监 Dick Brouwer 在接受采访时解释道。 &gt;有线。
+向互操作性的转变首先包括从一个人发送到另一个人的文本消息、图像、语音消息、视频和文件。理论上，这将允许用户通过 iMessage、Telegram、Google Messages 和 Signal 等第三方应用程序与 WhatsApp 上的人聊天，反之亦然。 
+
+然而，这一切都取决于其他公司是否加入，因为人们仍然担心 Meta 拥有的应用程序在开始整合其他服务时将如何保证消息的安全和加密。 
+正如《连线》所指出的，WhatsApp 希望与其连接的消息服务使用相同的信号协议来加密消息。 Meta 还对使用替代加密协议的应用程序开放，只要公司能够证明“它们达到了 WhatsApp 在其指南中概述的安全标准”。第三方服务在接入 WhatsApp 之前还必须与 Meta 签署合同，有关该协议的更多详细信息将于 3 月份发布。
+“在向第三方提供这种互操作性的简单方法与同时保护 WhatsApp 隐私、安全和完整性之间存在着真正的矛盾，”Brouwer 告诉 Wired。 “我认为我们对目前的进展非常满意。”
+WhatsApp 做出这一改变是因为 Meta 被视为 DMA 下的“数字看门人”。这意味着它必须遵循一套旨在促进不同数字服务之间竞争的规则。尽管 DMA 去年正式生效，但欧盟要求 Meta 等看门人在 2024 年 3 月之前遵守规定。我们仍然不知道这些变化是否只会在欧盟生效，或者是否会在世界其他地区生效。 The Verge 联系 WhatsApp 请求置评，但没有立即收到回复。
+我们了解了 WABetaInfo 去年发现了一个新的“第三方聊天”部分。这一发现与 Brouwer 告诉《连线》的内容相符，他说启用该功能的用户将在收件箱的新部分中收到来自其他平台的消息。 WhatsApp 计划在下个月透露更多有关其计划的信息，并将有“几个月”的时间来推出这一改变。]]></description>
+      <guid>https://www.theverge.com/2024/2/6/24063705/whatsapp-interoperability-plans-eu-dma</guid>
+      <pubDate>Tue, 06 Feb 2024 19:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>宜家的人工智能助手提供了设计灵感——至少它试图做到这一点</title>
+      <link>https://www.theverge.com/2024/2/6/24063626/ikea-ai-assistant-gpt-chatbot-home-design</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/6/24063626/ikea-ai-assistant-gpt-chatbot-home-design</guid>
+      <pubDate>Tue, 06 Feb 2024 19:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 MacBook 的最优惠价格</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <pubDate>Tue, 06 Feb 2024 19:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是我们能找到的耳机和无线耳塞的最佳优惠</title>
+      <link>https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats</guid>
+      <pubDate>Tue, 06 Feb 2024 18:57:18 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟提议到 2040 年将污染削减 90%</title>
       <link>https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy</link>
@@ -25,142 +115,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24062243/suicide-squad-kill-the-justice-league-review-ps5-xbox-pc</guid>
       <pubDate>Tue, 06 Feb 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vision Pro 的杀手级应用：Cyber​​truck 的影响力配件</title>
-      <link>https://www.theverge.com/2024/2/6/24063317/vision-pro-viral-videos-tesla-cybertruck-autopilot</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24063317/vision-pro-viral-videos-tesla-cybertruck-autopilot</guid>
-      <pubDate>Tue, 06 Feb 2024 15:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adam Neumann 被踢出 WeWork——现在他想买下它</title>
-      <link>https://www.theverge.com/2024/2/6/24063224/adam-neumann-wework-bankrupt-buy</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Shahar Azran / Getty Images
-
-在 WeWork 陷入困境五年后，联合创始人兼被罢免的首席执行官 Adam Neumann 现在制定了一项计划，将其收购以摆脱破产困境。 给 WeWork 顾问的一封信 由纽约时报获得， Neumann 和他的新房地产公司 Flow Global 表示有兴趣购买联合办公空间解决方案，但声称 WeWork 一直忽视获取更多信息以便提出出价的尝试。
-诺依曼和 自 2023 年 12 月以来，Flow Global 在 Dan Loeb 的对冲基金 Third Point 的资金帮助下一直在考虑收购 WeWork。然而，正如诺伊曼的律师亚历克斯·斯皮罗（埃隆·马斯克的代表人）写的信中指出的那样，WeWork 似乎对接受诺伊曼的潜在报价不感兴趣。
-“我们写这封信是为了表达我们对 WeWork 缺乏参与的失望，甚至没有向我的客户提供信息，这本是为所有利益相关者实现价值最大化的交易，”Spiro 写道。我想知道为什么。在诺伊曼的掌舵下，这家曾经市值 470 亿美元的公司 抛出了 2019 年首次公开募股的计划。大约在同一时间诺伊曼下台（但不是在上任之前当然是 17 亿美元的支出）。 
-日本科技公司软银 收购了 80% 的股份同年晚些时候，该公司成立了。但最终，新的领导层和资金不足以拯救公司，正如 WeWork 去年 11 月申请破产。尽管如此，诺依曼和他的投资者相信还是有希望的。
-“在混合工作世界中，对 WeWork 产品的需求应该比以往任何时候都更大......我的客户收购所提供的协同效应和管理专业知识可能会大大超过债务人的价值-单独的基础上，”信中写道。
-这封信没有详细说明 Neumann and Co. 实际愿意支付多少钱来收购 WeWork，但表示他们“准备好提交一份详细的提案”来购买 WeWork 或其资产。唯一阻碍他们的是 WeWork。正如信中所透露的，这家倒闭的公司已经在 2022 年 10 月拒绝了诺依曼提出的 10 亿美元融资提议——我认为这已经很说明问题了。]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24063224/adam-neumann-wework-bankrupt-buy</guid>
-      <pubDate>Tue, 06 Feb 2024 14:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰勒·斯威夫特 (Taylor Swift) 与埃隆·马斯克 (Elon Musk) 一起试图让跟踪名人飞机的学生保持沉默</title>
-      <link>https://www.theverge.com/2024/2/6/24063220/taylor-swift-jet-public-data-social-media</link>
-      <description><![CDATA[&lt;图&gt;
-      
-泰勒·斯威夫特 (Taylor Swift) 于 2012 年 3 月 4 日离开澳大利亚珀斯的珀斯机场。 |摄影：Faith Moran / GC Images
-
-泰勒·斯威夫特的律师威胁要对大学生杰克·斯威尼采取法律行动，他的社交媒体帐户分享有关私人飞机起降的公开信息，引起了名人和亿万富翁的愤怒。
-12 月，斯威夫特的律师向中佛罗里达大学大三学生斯威尼发送了一封停止函，根据华盛顿邮报。斯威尼向《华盛顿邮报》分享的这封信称，他的社交媒体账户造成了“直接且无法弥补的伤害，以及情感和身体上的痛苦”。它说，除非斯威尼停止“跟踪和骚扰行为”，否则艺术家将“别无选择，只能寻求任何和所有法律补救措施”。 
-“我认为重要的是要注意，我无意伤害任何人。事实上我认为斯威夫特有一些好歌。我相信透明度和公共信息。”斯威尼在给 The Verge 的电子邮件中写道。
-“我认为重要的是要注意，我无意伤害任何地方。事实上我认为斯威夫特有一些好歌。”
-这些账户共享美国联邦航空管理局已经公开的信息以及私人飞机广播的信号，斯威尼通过在社交媒体上发布信息让人们更容易访问这些信息。 
-除了私人飞机起降模式的数据外，Sweeney 还发布了对航班相关燃料使用和温室气体排放的估计。 “飞行耻辱”真正起飞于2018 年，瑞典开展了一场环保运动，敦促人们寻找污染较少的出行方式。瑞典活动家 Greta Thunberg 随后因采取而引起轰动两周海上旅程&lt; /a&gt; 参加次年在纽约举行的气候会议。 
-2022 年关于因乘坐 Swift 飞行而碳足迹最大的名人的报告 位于列表顶部。 “泰勒的飞机定期借给其他人。将大部分或全部这些旅行归因于她是明显错误的，”斯威夫特的代表回应当时。
-“她的团队的声明直接相互矛盾，”斯威尼在给 The Verge 的电子邮件中说道，引用了 2022 年的声明和最近发送给他的信。 “这一事件与 2022 年 12 月惊人地相似，当时马斯克发推文说他将对我采取法律行动。”
-斯威尼 在埃隆·马斯克之后从 Twitter 迁移到 Threads禁止他使用该平台，并指责该学生发布“暗杀坐标”。 2022 年末，斯威尼带着一个共享马斯克私人飞机数据的帐户返回 X，但带有 24 小时延误。他在 Threads、Instagram、Facebook、Bluesky 和其他社交媒体平台上运营多个帐户，专门用于保存马斯克和其他公众人物的飞行数据。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24063220/taylor-swift-jet-public-data-social-media</guid>
-      <pubDate>Tue, 06 Feb 2024 14:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能将如何改变手机以及整个互联网</title>
-      <link>https://www.theverge.com/2024/2/6/24063221/ai-search-arc-galaxy-s24-spatial-video-vergecast</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-Arc Search，来自 The Browser Company，是我们尝试过的更好的移动浏览器。至少就我们现在所知，它也对互联网构成了某种生存威胁。通过为您搜索网络，并在您每次提出问题并点击“为我浏览”时创建一个定制网页，Arc 以及 Perplexity 等其他专注于人工智能的搜索引擎可以改变一切，从 Google 的商业模式到我们最喜欢的博客的方式工作。
-这一集The Vergecast，&lt; /em&gt;我们与浏览器公司首席执行官 Josh Miller 讨论了浏览器和人工智能的所有问题。他认为，这里还有很多问题需要解决，但无论如何，网络正在发生变化，而且在很多方面，它都会变得更好。他绝对是对​​的，移动网络从来都不是伟大的，我们需要一种更好的方式在手机上使用互联网。
-
-然后我们与 Allison Johnson 聊了聊 — 还有什么？ - 人工智能！因为 AI 是三星 Galaxy S24 系列的故事，Allison 刚刚评论过。这些是 2024 年最重要的 Android 手机，它们在人工智能可以让您更轻松地使用手机并在您使用手机时为您提供新功能的想法上下了很大的赌注。电话实时翻译！神奇的照片编辑！慢动作所有事情！ 
-最后，通过 The Vergecast 热线（+1 866-VERGE11 或电子邮件 vergecast@theverge.com），我们尝试弄清楚您是否应该开始拍摄空间视频，甚至如果您无意购买 Vision Pro。
-如果您想进一步阅读我们在本集中讨论的所有内容，这里有一些不错的起点，首先是 Arc：
-
-Arc 搜索：新 iPhone结合浏览器、搜索和人工智能的应用
-
-Arc 浏览器是我一直在等待的 Chrome 替代品 
-
-在星系 S24 上：
-
-三星 Galaxy S24 Ultra 评测：所有这些和人工智能
-三星 Galaxy S24 和 S24 Plus 评测：明智的选择
-
-Vision Pro 和空间视频：
-
-
-Apple Vision Pro 评测：神奇，直到它不再 - The Verge&lt; /a&gt; 
-Meta&#39;s Quest 耳机添加空间视频和捏合控制可与 Vision Pro 竞争
-
-您希望每个人都了解的想法、问题、感受、S Pen 用途？在评论中告诉我们！
-]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24063221/ai-search-arc-galaxy-s24-spatial-video-vergecast</guid>
-      <pubDate>Tue, 06 Feb 2024 14:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>蓝天已准备好开放</title>
-      <link>https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol</guid>
-      <pubDate>Tue, 06 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 的新服务试图从网络上擦除您的数据</title>
-      <link>https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-Mozilla 正在推出一项名为 Mozilla Monitor Plus 的新付费订阅隐私监控服务。 Mozilla 表示，其年度订阅费用为每月 8.99 美元，它将自动在 190 多个网站上监视您的信息，在这些网站上，经纪人出售他们从社交媒体网站、应用程序和浏览器跟踪器等在线来源收集的信息，并且当您的信息找到后，它会自动尝试将其删除。 
-Mozilla Monitor 产品经理 Tony Cinotto 在一封电子邮件中告诉 The Verge，Mozilla 与一家公司合作 调用 Onerep 来执行这些扫描和后续删除请求。虽然请求通常需要 7 到 14 天的时间来处理，但他表示有时信息无法删除。他补充说，Mozilla 将继续尝试，但也会向 Plus 会员提供尝试自行删除的说明。 
-
-
-图片：Mozilla
-Mozilla Monitor 正在运行。
-
-Mozilla 表示，Basic Monitor 会员将获得免费扫描和一次性删除扫描，以及随后每月持续的数据代理扫描。付费订阅建立在 Mozilla Monitor（以前称为 Firefox Monitor）的免费暗网监控之上，该服务是 Mozilla 于 2018 年首次亮相。 Mozilla 在过去几年中提供了其他注重隐私的服务，例如 Mozilla VPN 和 Firefox Relay。 
-
-Mozilla 表示，其数据代理扫描可以在线查找详细信息，例如您的姓名、当前和以前的家庭住址，但补充说，它可以深入到犯罪记录、爱好或您孩子的学区。 
-此类服务相当常见，但大多数人并不熟知它们，搜索它们很可能会发现粗略的诈骗网站，因为它是合法的服务提供商，例如例如，删除我。这使得我们很难找出值得信赖的公司，而这正是 Mozilla 作为开源非营利 Mozilla 基金会隐私第一子公司的声誉可以提供帮助的地方。
-Mozilla Monitor Plus 现已推出，每月价格为 8.99 美元，而标准 Mozilla Monitor 仍然免费。
-更正时间：美国东部时间 2024 年 2 月 6 日上午 10:05：在一个实例中更正了 Firefox Monitor 的名称。 
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests</guid>
-      <pubDate>Tue, 06 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 说你最好公开你的人工智能假货，否则它可能会把它们拉下来</title>
-      <link>https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-随着世界各地选举季的临近，Meta 将在未来几个月开始为上传到 Facebook、Instagram 和 Threads 的人工智能生成照片添加标签。该公司还将开始惩罚那些不透露真实视频或音频是否是用人工智能制作的用户。
-Meta 全球事务总裁尼克·克莱格 (Nick Clegg) 在接受采访时表示，随着人工智能生成的媒体变得越来越难以辨别现实，这些举措旨在“刺激”科技行业。 白宫大力推动企业添加水印人工智能生成的内容。与此同时，根据克莱格的说法，Meta 正在构建工具来检测合成媒体，即使其元数据已被更改以混淆人工智能在其创作中的作用。
-Meta 已将“Imagined with AI”水印应用于使用其自己的Imagine AI 生成器创建的图像，并且该公司将开始对使用 Google、OpenAI、微软、Adobe、Midjourney 和 Shutterstock 工具制作的人工智能生成的照片进行同样的处理。克莱格表示，该行业在制定识别人工智能生成的视频和音频的标准方面还远远落后。尽管 Meta 对此类媒体如何被用来进行欺骗保持高度警惕，但该公司无法独自捕获所有信息。
-“对于那些担心视频、音频内容被设计为在选举前夕的政治重要问题上对公众进行实质性欺骗的人，我们将非常警惕， “ 他说。 “我是否认为有可能发生一些事情，无论它被发现或标记的速度有多快，但我们还是被指控犯了错误？是的，我认为这是可能的，即使不太可能。”
-
-
-边缘
-使用 Meta 免费工具制作的带水印的 AI 图像示例。
-
-Meta 一直在与 Partnership on AI 等组织合作，以现有的内容真实性计划为基础。 Adobe 最近发布了内容凭证系统，用于放置内容将出处信息放入图像的元数据中。在 扩展到音频文件 href=&quot;https://www.theverge.com/2023/8/29/23849107/synthid-google-deepmind-ai-image- detector&quot;&gt;发布图像测试版。 
-Clegg 表示，Meta 很快就会开始要求其用户披露何时使用 AI 制作真实的视频或音频帖子。如果他们不这样做，“将适用的处罚范围将涵盖从警告到删除”违规帖子的全部范围，他说。
-
-已经有很多由人工智能生成的政客帖子病毒式传播的例子，但克莱格淡化了这种现象在选举年席卷 Meta 平台的可能性。他说：“我认为你不太可能获得完全合成的具有非常重要政治意义的视频或音频，而我们不会很快看到这一点。” “我只是不认为事情会这样发展。”
-Meta 还开始内部测试根据其社区标准训练的大型语言模型 (LLM) 的使用，他说，称其为数以万计的人类版主的有效“分类机制”。 “这似乎是一种非常有效且相当精确的方法，可以确保升级给我们的人工审核员的内容确实是您需要人工判断的边缘情况。”]]></description>
-      <guid>https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads</guid>
-      <pubDate>Tue, 06 Feb 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
