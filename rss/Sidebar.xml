@@ -4,7 +4,15 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 15:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 18:20:06 GMT</lastBuildDate>
+    <item>
+      <title>UI 元素并不是那么简单</title>
+      <link>https://uxdesign.cc/ui-elements-are-not-so-elementary-958169627cb5</link>
+      <description><![CDATA[为了发挥作用，组件需要特定的结构。从视觉上看——它们没有。多年来，这一直在破坏切换流程。
+]]></description>
+      <guid>https://uxdesign.cc/ui-elements-are-not-so-elementary-958169627cb5</guid>
+      <pubDate>Wed, 07 Feb 2024 17:07:05 GMT</pubDate>
+    </item>
     <item>
       <title>老年人设计指南</title>
       <link>https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/</link>
@@ -116,14 +124,6 @@
 ]]></description>
       <guid>https://solomon.io/designer-news-is-dead/</guid>
       <pubDate>Mon, 05 Feb 2024 09:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一个创意者。</title>
-      <link>https://alistapart.com/article/i-am-a-creative/</link>
-      <description><![CDATA[A List Apart 创始人兼网页设计 OG Zeldman 思考灵感时刻。
-]]></description>
-      <guid>https://alistapart.com/article/i-am-a-creative/</guid>
-      <pubDate>Thu, 01 Feb 2024 20:04:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
