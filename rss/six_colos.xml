@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 06 Feb 2024 00:55:05 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 07 Feb 2024 15:13:52 GMT</lastBuildDate>
+    <item>
+      <title>Vision Pro 最大的缺点是其最清晰的成功之路（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2229127/vision-pro-shortcomings-fitness-maps-games.html</link>
+      <description><![CDATA[Vision Pro 的时代已经来临！
+到目前为止，评论已经出来，第一批采用者已经收到了他们的设备，任何想要演示空间计算未来的人都可以走进苹果商店并尝试苹果的耳机。…]]></description>
+      <guid>https://www.macworld.com/article/2229127/vision-pro-shortcomings-fitness-maps-games.html</guid>
+      <pubDate>Wed, 07 Feb 2024 14:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 498：跨越恐怖谷</title>
       <link>https://sixcolors.com/podcast/2024/02/upgrade-498-leap-the-uncanny-valley/</link>
@@ -31,7 +39,7 @@
       <title>本周 Apple：Gooooood mornnnnnnning，Vision Pro！ （会员帖）</title>
       <link>https://sixcolors.com/member/2024/02/this-week-in-apple-gooooood-mornnnnnning-vision-pro/</link>
       <description><![CDATA[
-就在这里！它在这里！就像二月初的圣诞节一样！当然，不是为了我，而是为了你们中的一些人。苹果对欧盟 DMA 立法的回应将继续出现在新闻中，直到……好吧，士气没有改善，所以很难说。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
+就在这里！它在这里！就像二月初的圣诞节一样！当然不是为了我，而是为了你们中的一些人。苹果对欧盟 DMA 立法的回应将继续出现在新闻中，直到……好吧，士气没有改善，所以很难说。… 这个故事仅供六色会员阅读。 成为会员即可访问独家故事、播客和社区。]]></description>
       <guid>https://sixcolors.com/member/2024/02/this-week-in-apple-gooooood-mornnnnnning-vision-pro/</guid>
       <pubDate>Fri, 02 Feb 2024 22:00:06 GMT</pubDate>
     </item>
@@ -76,7 +84,7 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
     <item>
       <title>（播客）顺时针 539：你们需要一些帮助</title>
       <link>https://sixcolors.com/podcast/2024/01/clockwise-539-you-folks-need-some-help/</link>
-      <description><![CDATA[剖析苹果的欧盟计划、我们掀起便携式显示器热潮的历程、我们使用的浏览器以及我们如何管理保存链接供以后使用。…]]></description>
+      <description><![CDATA[剖析苹果的欧盟计划、我们进入便携式显示器热潮的历程、我们使用的浏览器以及我们如何管理保存链接供以后使用。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/clockwise-539-you-folks-need-some-help/</guid>
       <pubDate>Wed, 31 Jan 2024 20:13:28 GMT</pubDate>
     </item>
@@ -111,15 +119,6 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
 Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音备忘录，然后向您发送一封带有完美转录的电子邮件。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/01/record-a-voice-memo-receive-it-as-an-email/</guid>
       <pubDate>Mon, 29 Jan 2024 17:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>解析 Apple 的 DMA 响应 ↦</title>
-      <link>https://sixcolors.com/link/2024/01/breaking-down-apples-dma-response/</link>
-      <description><![CDATA[在 MacStories，我们的朋友 John Voorhees 出色地打破了 Apple 在欧洲的新 App Store 法规：
-&lt;块引用&gt;
-  需要牢记这一点的一个推论是，苹果正在做出这些改变，因为根据欧盟法律，它必须这样做。…]]></description>
-      <guid>https://sixcolors.com/link/2024/01/breaking-down-apples-dma-response/</guid>
-      <pubDate>Mon, 29 Jan 2024 13:36:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
