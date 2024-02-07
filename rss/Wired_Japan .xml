@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 07 Feb 2024 00:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 03:15:36 GMT</lastBuildDate>
+    <item>
+      <title>当 Threads 与去中心化 SNS 结合使用时，会给用户带来什么变化？</title>
+      <link>https://wired.jp/article/meta-threads-fediverse-interoperability-rachel-lambert-interview/</link>
+      <description><![CDATA[今年，Meta 预计使 Threads 与 ActivityPub 兼容，并与 Fediverse 合作。一旦发生这种情况，Threads 用户将能够关注其他社交媒体帐户并创建在其他社交网络上可见的帖子。]]></description>
+      <guid>https://wired.jp/article/meta-threads-fediverse-interoperability-rachel-lambert-interview/</guid>
+      <pubDate>Wed, 07 Feb 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果Vision Pro能否成为“终极娱乐设备”？</title>
       <link>https://wired.jp/article/apple-vision-pro-watching-movies-nearly-impossible-problem/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>一系列裁员，年轻人在TikTok上晒出“被解雇的瞬间”</title>
       <link>https://wired.jp/article/the-stark-realities-of-posting-your-layoff-on-tiktok/</link>
-      <description><![CDATA[越来越多的用户在 TikTok 上发布自己被解雇的消息，或者他们对收到裁员通知的反应。尽管分享失业经历的举动引起了人们的共鸣，但旨在击败公司的帖子也有可能使与新雇主建立信任关系变得困难。]]></description>
+      <description><![CDATA[越来越多的用户在 TikTok 上发布自己被解雇的消息，或者他们对收到裁员通知的反应。虽然分享自己的失业经历会引起他人的共鸣，但旨在击败公司的帖子也有可能使与新雇主建立信任关系变得困难。]]></description>
       <guid>https://wired.jp/article/the-stark-realities-of-posting-your-layoff-on-tiktok/</guid>
       <pubDate>Sat, 03 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果人工智能最终有了意识，我们放弃了对创造力的垄断，人类的能力、个体的存在和自我意识将如何更新？]]></description>
       <guid>https://wired.jp/article/wired-futures-2023-ai/</guid>
       <pubDate>Wed, 31 Jan 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>只有泰勒·斯威夫特（Taylor Swift）可以击败深度伪造色情内容</title>
-      <link>https://wired.jp/article/taylor-swift-deepfake-porn-artificial-intelligence-pushback/</link>
-      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) 的露骨色情图片似乎是由生成人工智能创建的，在 X 上传播。她的粉丝的兄弟力量可能有助于将深度伪造色情内容的问题推向一个新阶段。]]></description>
-      <guid>https://wired.jp/article/taylor-swift-deepfake-porn-artificial-intelligence-pushback/</guid>
-      <pubDate>Wed, 31 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
