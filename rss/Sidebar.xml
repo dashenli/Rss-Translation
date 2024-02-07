@@ -4,7 +4,79 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 06:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 09:16:47 GMT</lastBuildDate>
+    <item>
+      <title>老年人设计指南</title>
+      <link>https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/</link>
+      <description><![CDATA[全球有 10 亿 60 岁或以上的人口，包容性比以往任何时候都更加重要。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有损CSS压缩的乐趣和损失（或利润）</title>
+      <link>https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/</link>
+      <description><![CDATA[去年年底，我有一个想法一直在我的脑海中酝酿。
+]]></description>
+      <guid>https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/</guid>
+      <pubDate>Wed, 07 Feb 2024 08:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画字体调色板</title>
+      <link>https://textlab.dev/posts/animating-font-palette</link>
+      <description><![CDATA[随着 Chrome 121 的发布，我们现在可以仅使用 CSS 在彩色字体中的字体调色板之间实现平滑过渡。
+]]></description>
+      <guid>https://textlab.dev/posts/animating-font-palette</guid>
+      <pubDate>Wed, 07 Feb 2024 08:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>认真的 Web 组件</title>
+      <link>https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html</link>
+      <description><![CDATA[在这篇（相当长的）文章中，我将回顾一下我如何构建 Ghola，一个为开发人员提供的调色板生成器。
+]]></description>
+      <guid>https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html</guid>
+      <pubDate>Wed, 07 Feb 2024 08:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>方形复选框的爱的记忆</title>
+      <link>https://tonsky.me/blog/checkbox/</link>
+      <description><![CDATA[用户界面中复选框和单选按钮的历史记录
+]]></description>
+      <guid>https://tonsky.me/blog/checkbox/</guid>
+      <pubDate>Tue, 06 Feb 2024 08:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>对比美学</title>
+      <link>https://rauno.me/craft/contrasting-aesthetics</link>
+      <description><![CDATA[我在博物馆欣赏的大部分艺术品都可以融入印刷、中世纪或图案等美学。
+]]></description>
+      <guid>https://rauno.me/craft/contrasting-aesthetics</guid>
+      <pubDate>Tue, 06 Feb 2024 08:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年索尼世界摄影奖庆祝童年欢乐</title>
+      <link>https://www.thisiscolossal.com/2024/02/sony-world-photo-awards/</link>
+      <description><![CDATA[从海底到云线上方，2024 年索尼世界摄影奖提供了真正的全球图像制作方法。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/02/sony-world-photo-awards/</guid>
+      <pubDate>Tue, 06 Feb 2024 08:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是如何被骗的</title>
+      <link>https://pluralistic.net/2024/02/05/cyber-dunning-kruger/</link>
+      <description><![CDATA[我被一个冒充银行的电话钓鱼者欺骗，他说服我交出我的信用卡号。
+]]></description>
+      <guid>https://pluralistic.net/2024/02/05/cyber-dunning-kruger/</guid>
+      <pubDate>Tue, 06 Feb 2024 08:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>乒乓球大战</title>
+      <link>https://pong-wars.vercel.app/</link>
+      <description><![CDATA[白天与黑夜、好与坏之间的永恒战斗。 
+]]></description>
+      <guid>https://pong-wars.vercel.app/</guid>
+      <pubDate>Tue, 06 Feb 2024 08:03:14 GMT</pubDate>
+    </item>
     <item>
       <title>使用着色器和 React Three Fiber 照亮焦散</title>
       <link>https://blog.maximeheckel.com/posts/caustics-in-webgl/</link>
@@ -52,78 +124,6 @@
 ]]></description>
       <guid>https://alistapart.com/article/i-am-a-creative/</guid>
       <pubDate>Thu, 01 Feb 2024 20:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 CSS 中的像素和 (r)em</title>
-      <link>https://techhub.iodigital.com/articles/going-beyond-pixels-and-rems-in-css/relative-length-units-based-on-font</link>
-      <description><![CDATA[目前有很多可用的 CSS 单元，但我们仍然主要依赖像素和 (r)em 来调整大小和字体。
-]]></description>
-      <guid>https://techhub.iodigital.com/articles/going-beyond-pixels-and-rems-in-css/relative-length-units-based-on-font</guid>
-      <pubDate>Thu, 01 Feb 2024 20:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Interop 2024 让网络变得更好</title>
-      <link>https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/</link>
-      <description><![CDATA[Interop 项目旨在通过鼓励浏览器引擎团队更深入地研究特定的重点领域来提高互操作性。 
-]]></description>
-      <guid>https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/</guid>
-      <pubDate>Thu, 01 Feb 2024 19:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件成功案例</title>
-      <link>https://jakelazaroff.com/words/the-web-component-success-story/</link>
-      <description><![CDATA[Web 组件不会掀起 Web 开发风暴，也不会向我们展示构建网站的唯一正确方法。
-]]></description>
-      <guid>https://jakelazaroff.com/words/the-web-component-success-story/</guid>
-      <pubDate>Thu, 01 Feb 2024 10:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>挖掘世界上最令人讨厌的字体 Comic Sans 的起源</title>
-      <link>https://www.itsnicethat.com/features/thomas-steeles-comic-sans-is-it-really-that-bad-publication-graphic-design-extract-310124</link>
-      <description><![CDATA[我们深入研究这种有争议的字体的历史，揭示其创作和早期使用的故事。
-]]></description>
-      <guid>https://www.itsnicethat.com/features/thomas-steeles-comic-sans-is-it-really-that-bad-publication-graphic-design-extract-310124</guid>
-      <pubDate>Thu, 01 Feb 2024 10:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>马达加斯加的这个陨石坑里面有什么？</title>
-      <link>https://www.youtube.com/watch?v=h42QVfrUVFw</link>
-      <description><![CDATA[通过卫星图像，我们在马达加斯加的一个奇怪的火山口内发现了一个村庄。 
-]]></description>
-      <guid>https://www.youtube.com/watch?v=h42QVfrUVFw</guid>
-      <pubDate>Wed, 31 Jan 2024 07:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>功能陷阱：为什么以功能为中心会损害您的产品</title>
-      <link>https://www.smashingmagazine.com/2024/01/feature-centricity-harming-product/</link>
-      <description><![CDATA[大多数产品团队通常采用以功能为中心的思维方式，发现它们很容易进行头脑风暴。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/01/feature-centricity-harming-product/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>赞美按钮</title>
-      <link>https://www.nubero.ch/blog/009/</link>
-      <description><![CDATA[在任何设计学科中，总会有某些趋势。这些趋势之一似乎是按钮现在被认为不酷。 
-]]></description>
-      <guid>https://www.nubero.ch/blog/009/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>大、漂亮、强大的焦点状态：focus-visible</title>
-      <link>https://daverupert.com/2024/01/focus-visible-love/</link>
-      <description><![CDATA[新的 :focus-visible 伪状态允许我为键盘用户创建更大、更粗、更明显的焦点状态。
-]]></description>
-      <guid>https://daverupert.com/2024/01/focus-visible-love/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>现实检验#3：从 Dribbble 构建分层英雄网格布局</title>
-      <link>https://piccalil.li/blog/reality-check-3-building-out-a-layered-hero-grid-layout-from-dribbble/</link>
-      <description><![CDATA[在这一版的现实检查中，我解决了一个有趣的网格布局，它还具有一些非常独特的背景图像处理。
-]]></description>
-      <guid>https://piccalil.li/blog/reality-check-3-building-out-a-layered-hero-grid-layout-from-dribbble/</guid>
-      <pubDate>Wed, 31 Jan 2024 07:29:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
