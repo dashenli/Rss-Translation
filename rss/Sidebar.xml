@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 18:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:16:02 GMT</lastBuildDate>
     <item>
       <title>UI 元素并不是那么简单</title>
       <link>https://uxdesign.cc/ui-elements-are-not-so-elementary-958169627cb5</link>
@@ -96,7 +96,7 @@
     <item>
       <title>SVG 滤镜制作工具</title>
       <link>https://svgfm.chriskirknielsen.com/</link>
-      <description><![CDATA[SVGFM，SVG 过滤器的节点图生成器。
+      <description><![CDATA[SVGFM，SVG 过滤器的节点图构建器。
 ]]></description>
       <guid>https://svgfm.chriskirknielsen.com/</guid>
       <pubDate>Mon, 05 Feb 2024 09:28:38 GMT</pubDate>

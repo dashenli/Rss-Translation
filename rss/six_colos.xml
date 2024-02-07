@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 07 Feb 2024 15:13:52 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 07 Feb 2024 21:14:04 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 481：你做得很好（删节版）</title>
+      <link>https://sixcolors.com/podcast/2024/02/the-rebound-481-youre-doing-a-great-job-abridged/</link>
+      <description><![CDATA[我们放弃剩余的时间。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/02/the-rebound-481-youre-doing-a-great-job-abridged/</guid>
+      <pubDate>Wed, 07 Feb 2024 19:10:38 GMT</pubDate>
+    </item>
     <item>
       <title>Vision Pro 最大的缺点是其最清晰的成功之路（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2229127/vision-pro-shortcomings-fitness-maps-games.html</link>
@@ -55,7 +62,7 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
       <title>蒂姆·库克嘲笑人工智能，但不会选择最喜欢的</title>
       <link>https://sixcolors.com/post/2024/02/tim-cook-teases-ai-but-wont-pick-favorites/</link>
       <description><![CDATA[
-苹果 2024 年第一财季的财报已经公布，现在我们知道这是该公司有史以来第二大、盈利最多的季度。也数个季度以来首次呈现同比增长，无疑温暖了各地金融分析师的金钱绿心。…]]></description>
+苹果 2024 年第一财季已入账，现在我们知道这是该公司有史以来第二大、利润最高的季度。也数个季度以来首次呈现同比增长，无疑温暖了各地金融分析师的金钱绿心。…]]></description>
       <guid>https://sixcolors.com/post/2024/02/tim-cook-teases-ai-but-wont-pick-favorites/</guid>
       <pubDate>Fri, 02 Feb 2024 02:35:18 GMT</pubDate>
     </item>
@@ -110,15 +117,6 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
 尽管从那时起我就继续使用 Bolt，但我敏锐地意识到它对蓝牙作为无线连接选择的依赖正在让人失望。…]]></description>
       <guid>https://sixcolors.com/post/2024/01/review-level-lock-brings-apple-home-key-support-to-the-stealth-smart-lock/</guid>
       <pubDate>Mon, 29 Jan 2024 22:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）录制语音备忘录，以电子邮件形式接收</title>
-      <link>https://sixcolors.com/feed-only/2024/01/record-a-voice-memo-receive-it-as-an-email/</link>
-      <description><![CDATA[
-“录制语音备忘录，以电子邮件形式接收。”
-Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音备忘录，然后向您发送一封带有完美转录的电子邮件。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/01/record-a-voice-memo-receive-it-as-an-email/</guid>
-      <pubDate>Mon, 29 Jan 2024 17:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
