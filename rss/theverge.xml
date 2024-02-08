@@ -4,7 +4,49 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Feb 2024 18:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 21:12:37 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局的新任务将研究太空中的微观浮游生物和气溶胶</title>
+      <link>https://www.theverge.com/2024/2/8/24066014/nasa-climate-mission-pace-satellite-launch</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24066014/nasa-climate-mission-pace-satellite-launch</guid>
+      <pubDate>Thu, 08 Feb 2024 19:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将 Linux 的 sudo 命令引入 Windows 11</title>
+      <link>https://www.theverge.com/2024/2/8/24066264/mirosoft-sudo-command-windows-11-feature</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Cory Hendrixson (YouTube)
+
+Windows 11 很快将拥有专为开发人员设计的内置 sudo 命令。 Sudo 是“超级用户 do”的缩写，广泛用于 Linux 和 macOS 等基于 Unix 的操作系统，用于以更高的安全权限运行程序或作为其他用户运行程序。例如，它对于想要测试脚本的开发人员很有用。
+Microsoft 在 Windows 中使用 sudo 来让开发人员直接从未提升的控制台会话运行提升的工具。 “对于想要提升命令而无需先打开新的提升控制台的用户来说，这是一种符合人体工程学且熟悉的解决方案，” Microsoft 产品经理 Jordi Adoumie 解释道。 
+
+
+图片：微软
+在 Windows 11 的未来版本中，可以在开发人员设置中控制 Sudo。
+
+Sudo 正在作为最新 Windows 11 的 Canary 版本现已推出，因此要到今年晚些时候才会在常规版本的 Windows 11 中提供。微软将允许 sudo 命令配置为三种模式：新窗口、禁用输入和内联。与 Linux 的 sudo 最相似的模式是内联，而其他模式则锁定更多。
+“在接下来的几个月里，我们将致力于扩展 Windows 版 Sudo 的文档，并将分享有关在“内联”配置中运行 sudo 的安全影响的更多详细信息，”Adoumie 说道。
+Microsoft 还在 GitHub 上开源了这个 sudo 项目，并计划分享有关该计划的更多信息在未来几个月内使用 sudo。
+在微软通过发布 Windows 10 中的完整 Linux 内核。该软件制造商还添加了 Windows 的 Bash shell, Windows 10 中的原生 OpenSSH，甚至将 Ubuntu、SUSE Linux 和 Fedora 带到了 Windows 应用商店。]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24066264/mirosoft-sudo-command-windows-11-feature</guid>
+      <pubDate>Thu, 08 Feb 2024 18:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>《堡垒之夜》正在赢得虚拟宇宙</title>
+      <link>https://www.theverge.com/24065901/fortnite-metaverse-disney-epic-partnership</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24065901/fortnite-metaverse-disney-epic-partnership</guid>
+      <pubDate>Thu, 08 Feb 2024 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bose QuietComfort Ultra 耳塞是我们测试过的最好的降噪耳机，价格最低</title>
+      <link>https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24065902/bose-quietcomfort-ultra-earbuds-dji-mini-2-se-drone-avatar-game-sale-deal</guid>
+      <pubDate>Thu, 08 Feb 2024 18:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>FCC 禁止使用人工智能生成的语音进行机器人呼叫</title>
       <link>https://www.theverge.com/2024/2/8/24066169/fcc-robocall-ai-voices-ban</link>
@@ -83,50 +125,6 @@ Uber 历史上首次在年底实现了其在叫车和送货业务上的收入超
 尽管如此，它仍然面临着世界各地的法律挑战。它最近宣布将斥资 3000 万美元在加州即将举行的竞选中选举友好的立法者。所有这些新利润有什么更好的用途？]]></description>
       <guid>https://www.theverge.com/2024/2/8/24065999/uber-earnings-profitable-year-net-income</guid>
       <pubDate>Thu, 08 Feb 2024 15:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>JBL Authentics 300 智能音箱评测：同时提供两个助手</title>
-      <link>https://www.theverge.com/24065942/jbl-authentics-300-speaker-review-alexa-google-assistant</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24065942/jbl-authentics-300-speaker-review-alexa-google-assistant</guid>
-      <pubDate>Thu, 08 Feb 2024 15:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>纳克鲁斯已准备好在派拉蒙 Plus 衍生剧的新预告片中亮相</title>
-      <link>https://www.theverge.com/24065972/knuckles-paramount-plus-series-sonic-3-trailer</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-派拉蒙最新的索尼克电影确实强化了它的名义刺猬没有他的朋友就什么都不是，但工作室的新指关节由伊德里斯·艾尔巴主演的衍生剧看起来会成为针鼹鼠如何（大部分）自己处理业务的一课。
-设置在《刺猬索尼克 2》和 即将上映的第三部电影，纳克鲁斯聚焦纳克鲁斯（伊德里斯·艾尔巴饰）的新生活蒙大拿州格林希尔斯，他、索尼克（本·施瓦茨饰）和塔尔斯（科琳·奥肖内西饰）在这里成了一个陌生的家庭。麦迪·沃卓斯基（蒂卡·森普特饰）多年来一直努力成为索尼克的好父母，但他很高兴能有像纳克鲁斯这样的人在身边，哪怕只是因为他真的能跟上刺猬的脚步。尽管纳克鲁斯很擅长让他的朋友疲惫不堪，但他也是一个渴望复仇的战士，并不适合小镇生活。
-从预告片来看，正是这一点促使他和小镇警察韦德·惠普尔（亚当·佩里饰）走进世界寻找有价值的对手。但当韦德和纳克鲁斯踏上自己的冒险之旅时，他们很快意识到，在《索尼克 2》之后，有相当多的前 Robotnik 员工热衷于将纳克鲁斯的力量武器化。预告片让它看起来像是剧中的反派（Scott Mescudi、埃莉·泰勒和罗里·麦肯）可能拥有消灭目标所需的天赋和实验技术。
-只有六集，指关节感觉不太像一部完整的衍生剧，而更像是一个坚实的故事块，旨在吸引粉丝，直到针鼹重新出现。大银幕第一次见到某只阴暗刺猬。但正是这种简洁，以及《纳克鲁斯》华丽的动作片，让该剧在 4 月 26 日在派拉蒙 Plus 上映时获得成功。
-
-]]></description>
-      <guid>https://www.theverge.com/24065972/knuckles-paramount-plus-series-sonic-3-trailer</guid>
-      <pubDate>Thu, 08 Feb 2024 15:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过为期一个月的 Paramount Plus 优惠，您可以免费观看超级碗比赛</title>
-      <link>https://www.theverge.com/2024/2/8/24065543/paramount-plus-showtime-super-bowl-deal-sale</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：PATRICK T. FALLON/法新社，盖蒂图片社
-
-您无需注册昂贵的有线电视套餐即可观看超级碗这周日。来自 Fubo 至 Philo TV 正在提供免费试用，而派拉蒙 Plus 可以说是提供最优惠的价格。 
-即日起至 2 月 10 日，新订阅者使用代码 JUNE 即可免费获得一个月的无广告 Paramount Plus（含 Showtime）。如果您读到本文太晚而错过了截止日期，当您使用代码 GOAT 时，Paramount Plus 将在超级碗当天再次提供相同的优惠。 
-
-此次促销活动意味着您将可以访问整个内容库，以便在大型游戏结束后继续娱乐。除了体育赛事直播外，Paramount Plus 和 Showtime 的目录还包括数千部电视节目和电影，例如《星际迷航》、《1923》、《a href=&quot;https://www. theverge.com/23654990/yellowjackets-season-2-review-showtime&quot;&gt;黄夹克、尖叫 VI、德克斯特&lt; a href=&quot;https://www.theverge.com/23655396/dungeons-and-dragons-honor-among-thieves-review&quot;&gt;地下城与龙龙：盗贼的荣誉，等等。只需确保在试用期结束之前取消试用期，即可真正免费观看所有内容。否则，您最终将每月支付 11.99 美元。
-]]></description>
-      <guid>https://www.theverge.com/2024/2/8/24065543/paramount-plus-showtime-super-bowl-deal-sale</guid>
-      <pubDate>Thu, 08 Feb 2024 15:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个类似 iPod 的按钮可能是一个很棒的智能家居控制器</title>
-      <link>https://www.theverge.com/24064662/linxura-smart-controller-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24064662/linxura-smart-controller-review</guid>
-      <pubDate>Thu, 08 Feb 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
