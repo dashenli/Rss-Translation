@@ -4,11 +4,25 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 08 Feb 2024 00:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 06:18:29 GMT</lastBuildDate>
+    <item>
+      <title>针对 Apple Watch 心率应用程序的诉讼以苹果胜诉告终</title>
+      <link>https://wired.jp/article/apple-watch-alivecor-lawsuit/</link>
+      <description><![CDATA[苹果因 Apple Watch 所使用的技术专利而遭遇一系列诉讼。一项反垄断诉讼指控苹果非法垄断 Apple Watch 心率应用程序的美国市场，该诉讼已被裁定对苹果有利。]]></description>
+      <guid>https://wired.jp/article/apple-watch-alivecor-lawsuit/</guid>
+      <pubDate>Thu, 08 Feb 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试了配备人工智能的下一代语音助手，对其功能感到惊讶。</title>
+      <link>https://wired.jp/article/fast-forward-tested-next-gen-ai-assistant/</link>
+      <description><![CDATA[当我要求下一代人工智能语音助手订阅《连线》时，它访问了正确的网页并找到了订阅表格。 Siri 和 Alexa 等虚拟助手如果配备了人工智能，将会变得更加强大。]]></description>
+      <guid>https://wired.jp/article/fast-forward-tested-next-gen-ai-assistant/</guid>
+      <pubDate>Thu, 08 Feb 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>SANU 为“家外之家”提供新选择；共同所有权模式加速再生努力</title>
       <link>https://wired.jp/article/sanu-2nd-home-co-owners/</link>
-      <description><![CDATA[订阅服务“SANU 第二个家”中添加了一个新选项，它允许您在大自然中租用“第二个家”。 SANU 如何通过共同所有权服务“共同所有者”加快努力保护大自然的丰富性？]]></description>
+      <description><![CDATA[订阅服务“SANU 第二个家”中添加了一个新选项，它允许您在大自然中租用“第二个家”。 SANU 如何通过共同所有权服务“共同所有者”加快努力保护丰富的大自然？]]></description>
       <guid>https://wired.jp/article/sanu-2nd-home-co-owners/</guid>
       <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>当 Threads 与去中心化 SNS 结合使用时，会给用户带来什么变化？</title>
       <link>https://wired.jp/article/meta-threads-fediverse-interoperability-rachel-lambert-interview/</link>
-      <description><![CDATA[今年，Meta 预计使 Threads 与 ActivityPub 兼容，并与 Fediverse 合作。一旦发生这种情况，Threads 用户将能够关注其他社交网络上的帐户并创建也将出现在其他社交网络上的帖子。]]></description>
+      <description><![CDATA[今年，Meta 预计使 Threads 与 ActivityPub 兼容，并与 Fediverse 合作。一旦发生这种情况，Threads 用户将能够关注其他社交媒体帐户并创建在其他社交网络上可见的帖子。]]></description>
       <guid>https://wired.jp/article/meta-threads-fediverse-interoperability-rachel-lambert-interview/</guid>
       <pubDate>Wed, 07 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>生成式人工智能热潮可能会带来“GPU 革命”</title>
       <link>https://wired.jp/article/fast-forward-chatgpt-hunger-energy-gpu-revolution/</link>
-      <description><![CDATA[ChatGPT 的出现加速了人工智能的繁荣，增加了对 GPU 的需求并推高了价格。在此背景下，初创公司不断涌现，试图从根本上重新思考芯片设计并基于新想法开发半导体。]]></description>
+      <description><![CDATA[由于ChatGPT的推出加速了AI热潮，GPU的需求增加，价格飙升。在此背景下，初创公司不断涌现，试图从根本上重新思考芯片设计并基于新想法开发半导体。]]></description>
       <guid>https://wired.jp/article/fast-forward-chatgpt-hunger-energy-gpu-revolution/</guid>
       <pubDate>Mon, 05 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[专家表示，用于模仿美国总统拜登的语音生成人工智能很可能是由初创公司 Eleven Labs 制造的。在总统选举前夕，人们继续担心防止人工智能技术被滥用的措施没有跟上步伐。]]></description>
       <guid>https://wired.jp/article/biden-robocall-deepfake-elevenlabs/</guid>
       <pubDate>Fri, 02 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门歌曲从 TikTok 中消失了吗？与环球音乐终止合约</title>
-      <link>https://wired.jp/article/tiktok-universal-music-group-umg-remove-songs/</link>
-      <description><![CDATA[在 TikTok 上创建视频时，您无法再从可以选择的音乐目录中选择泰勒·斯威夫特和比莉·艾利什等著名艺术家的歌曲。 TikTok 与环球音乐集团关于音乐付费和人工智能使用的谈判破裂。]]></description>
-      <guid>https://wired.jp/article/tiktok-universal-music-group-umg-remove-songs/</guid>
-      <pubDate>Thu, 01 Feb 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌负责审查AI伦理的部门已重组，引发产品开发可能仓促的担忧</title>
-      <link>https://wired.jp/article/google-splits-up-responsible-innovation-ai-team/</link>
-      <description><![CDATA[由于一位关键人物的离职，谷歌负责审查人工智能道德的重要团队的未来充满不确定性。这也引发了人们对产品开发可能变得危险的仓促的担忧。]]></description>
-      <guid>https://wired.jp/article/google-splits-up-responsible-innovation-ai-team/</guid>
-      <pubDate>Thu, 01 Feb 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
