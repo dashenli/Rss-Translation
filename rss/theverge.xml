@@ -4,7 +4,62 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Feb 2024 12:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 15:13:40 GMT</lastBuildDate>
+    <item>
+      <title>这个类似 iPod 的按钮可能是一个很棒的智能家居控制器</title>
+      <link>https://www.theverge.com/24064662/linxura-smart-controller-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24064662/linxura-smart-controller-review</guid>
+      <pubDate>Thu, 08 Feb 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个图像是一双鞋还是一块海绵？ TikTok 不确定</title>
+      <link>https://www.theverge.com/2024/2/8/24063809/tiktok-shop-product-discovery-fail-videos</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24063809/tiktok-shop-product-discovery-fail-videos</guid>
+      <pubDate>Thu, 08 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的人工智能现在有了一个新名字：Gemini</title>
+      <link>https://www.theverge.com/2024/2/8/24065553/google-gemini-ios-android-app-duet-bard</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24065553/google-gemini-ios-android-app-duet-bard</guid>
+      <pubDate>Thu, 08 Feb 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 通过新的 Windows 应用程序放弃 PC 上的 iTunes</title>
+      <link>https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Apple 正式推出 Apple TV、Apple Music，Apple 设备应用程序。这些应用最初是在预览版最后推出的今年，但苹果在与微软合作推出这些应用程序后现已删除了预览标签。 
+这三款应用与经过彻底修改的 iCloud for Windows 应用，旨在让 Windows 用户摆脱对 iTunes 的依赖，MacRumors。如果您使用 Apple TV、Apple Music 和 Apple 设备，则仅需要 iTunes 才能在 Windows 上访问播客和有声读物。
+
+
+图片：苹果
+Windows 上的 Apple TV 应用。
+
+Apple Music 应用提供对 iTunes 资料库的访问以及歌曲和专辑的购买。 Apple TV 还允许 Windows 用户观看 iTunes 库中的电影和电视节目以及订阅的流媒体内容。 Apple 设备允许 PC 用户备份或恢复 iPhone 和 iPad，以及将内容同步到这些设备。
+微软一直在与苹果合作开发这些应用程序，并且甚至欢迎它们在本周推出。 Microsoft 此前还推出了Windows 中的 iCloud 照片集成 ，能够将 iCloud 照片库直接链接到 Windows 11 上的内置照片应用程序。
+Apple 的新 Windows 应用仅可在运行 Windows 10 或 Windows 11 的基于 x86 的传统 PC 上使用，目前还没有迹象表明高通支持的 Windows 设备有 ARM64 版本。]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes</guid>
+      <pubDate>Thu, 08 Feb 2024 12:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 17.4 可能会修复苹果尴尬的视频反应功能</title>
+      <link>https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default</link>
+      <description><![CDATA[&lt;图&gt;
+      
+这些动画适合 FaceTime，但可能不适用于治疗远程医疗应用程序。 |图片：苹果
+
+Apple 似乎已准备好在即将推出的 iOS 17.4 和 iPadOS 17.4 更新中为开发者提供对其视频表情符号反应功能的更多控制，MacRumors 报告。该功能于去年发布 iOS 17 和 iPadOS 17（以及 macOS 14）时引入，可自动显示 3D 动画，例如 烟花和激光。据报道，iOS 17.4 提供了一个新的 API，允许第三方开发者关闭该功能。
+此次更新似乎是为了回应去年的报告，即默认打开的 3D 动画可能会在 不适当的情况，例如在线治疗课程。这是因为，除了出现在苹果自己的 FaceTime 服务中之外，这些动画还将出现在 Google Meet 等第三方视频会议应用程序中。 
+不恰当的表情符号触发显然足以让一家远程医疗提供商更新其常见问题解答以与它们保持距离。 “重要提示：这不是集成到我们的远程医疗平台中的功能，我们无法控制 iOS 的这些设置，” SimplePractice 的常见问题解答内容。用户还报告说，在线治疗通话开始时会出现类似的警告对话框。
+虽然最终用户已经可以关闭该功能，但MacRumors报道称，iOS 17.4 和 iPadOS 17.4 包含一个新的 API，供开发者在终端关闭该功能。 MacRumors 指出，目前尚不清楚 macOS 14.4 是否会出现类似的 API。与所有软件测试版一样，当更新预计下个月正式发布时，这些功能可能会发生变化。]]></description>
+      <guid>https://www.theverge.com/2024/2/8/24065865/ios-17-4-facetime-video-emoji-reaction-api-disable-default</guid>
+      <pubDate>Thu, 08 Feb 2024 12:37:37 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 和 TikTok 支付挑战费以资助欧盟新的 DSA</title>
       <link>https://www.theverge.com/2024/2/8/24065809/meta-european-union-digital-services-act-monitoring-compliance-charge-challenge</link>
@@ -12,7 +67,7 @@
       
 插图由 Nick Barclay / The Verge 绘制
 
-Meta 和 TikTok 正在挑战必须向欧盟监管机构支付的费用，这些监管机构的任务是执行《数字服务法》(DSA) 所要求的严格的新内容审核规则，两家公司均已向 The Verge 证实。 &gt;。尽管该费用上限为公司利润的 0.05%，但 Meta 并不高兴，因为亏损的公司在据称面临 1100 万欧元的困境时却不必支付费用，而 TikTok 也对其如何支付费用表示不满。经过计算用户数量，得出其报告的 390 万欧元费用。
+Meta 和 TikTok 正在挑战必须向欧盟监管机构支付的费用，这些监管机构的任务是执行《数字服务法》(DSA) 所要求的严格的新内容审核规则，两家公司均已向 The Verge 证实。 &gt;。尽管这笔费用的上限为公司利润的 0.05%，但 Meta 并不高兴，因为亏损的公司在据称面临 1100 万欧元的困境时却不必支付费用，而 TikTok 也对其如何支付费用表示不满。经过计算用户数量，得出其报告的 390 万欧元费用。
 “我们不同意计算这些费用的方法，”Meta 的 EMEA 政策通讯发言人 Ben Walters 告诉 The Verge。 “目前，记录亏损的公司不必支付费用，即使它们拥有庞大的用户群或承担更大的监管负担，这意味着一些公司无需支付任何费用，而其他公司则需要支付总额中不成比例的金额。”该挑战首先由Politico&lt; /em&gt;.
 “有些公司不支付任何费用，而其他公司则支付与总额不成比例的金额”&lt; /旁白&gt;
 “我们不同意这笔费用，并以多种理由提出上诉，包括使用有缺陷的第三方对我们每月活跃用户数量的估计作为计算总额的基础，”TikTok 的主管企业和政策沟通 摩根·埃文斯 (Morgan Evans) 告诉《The Verge》。 
@@ -44,7 +99,7 @@ DSA 于去年生效，公司需要在 2 月 17 日之前遵守该法案。不遵
 丹麦隐私监管机构 Datatilsysnet 裁定，丹麦各城市需要更多的隐私保证才能使用可能泄露儿童数据的 Google 服务，报告 BleepingComputer。该机构发现 (已翻译) Google “出于自身目的”使用 Chromebook 和 Google Workplace for Education 中的学生数据，这是欧洲隐私法所不允许的。
 市政当局需要在 3 月 1 日之前解释他们计划如何遵守停止向 Google 传输数据的命令，但从 8 月 1 日开始将无法这样做，这可能意味着分阶段进行完全淘汰 Chromebook。
 
-监管机构规定，除非法律发生变化或者 Google 提供了过滤学生信息的方法，否则市政当局不得发送 Google 数据。根据他们的解释，谷歌将其用于性能分析或功能开发等目的是一个问题，即使它不包括有针对性的广告。例如，很容易看出监管机构可能会对用于开发和改进人工智能功能的学生数据提出异议，这些数据越来越成为 Google Workspace 和 Chromebook。
+监管机构规定，除非法律发生变化或者 Google 提供了过滤学生信息的方法，否则市政当局不得发送 Google 数据。根据他们的解释，谷歌将其用于性能分析或功能开发等目的是一个问题，即使它不包括有针对性的广告。例如，很容易看出监管机构可能会对用于开发和改进人工智能功能的学生数据提出异议，这些数据越来越成为Google Workspace 和 Chromebook。
 Datatilsysnet 表示，各城市在批准当地学校使用 Google Workplace 教育版之前，实际上并没有对使用 Google Workplace 教育版的风险进行足够彻底的审查。到 2022 年，它要求 53 个市政府重新进行评估，作为撤销 该市之前的数据共享禁令赫尔辛格。作为该流程的一部分，他们需要了解 Google 如何使用其收集的学生信息以及将这些数据发送到何处，从而得出新的订单。
 
 
@@ -80,84 +135,10 @@ Datatilsysnet 表示，各城市在批准当地学校使用 Google Workplace 教
 
 迪士尼赢得了泰勒·斯威夫特 Eras Tour 电影的流媒体竞赛。今天下午公司宣布泰勒·斯威夫特 | Eras Tour（泰勒版） 将于 3 月 15 日开始在该服务上独家提供。 
 这被宣传为“首次完整的音乐会电影”，因为该版本将包括“Cardigan”和四首不属于戏剧电影的附加原声歌曲或 视频点播租赁，其本身附加了几首额外曲目。 
-《Eras Tour》电影在全球的票房收入超过 2.6 亿美元，足以使其成为有史以来最畅销的音乐会电影。它于 12 月发布了数字租赁服务，现在终于转向流媒体平台。它已在小屏幕上以 4K 分辨率提供，但令人失望的是 The Eras Tour 缺乏 HDR 演示 - 至少目前如此。到目前为止，尚未公布该电影的实体媒体版本。抱歉，4K 蓝光粉丝。
+《Eras Tour》电影在全球的票房收入超过 2.6 亿美元，足以使其成为有史以来最畅销的音乐会电影。它于 12 月发布了数字租赁服务，现在终于转向流媒体平台。它已经在小屏幕上以 4K 分辨率提供，但令人失望的是 The Eras Tour 缺乏 HDR 演示 - 至少目前如此。到目前为止，尚未公布该电影的实体媒体版本。抱歉，4K 蓝光粉丝。
 周日晚上，泰勒·斯威夫特 (Taylor Swift) 宣布了她的最新专辑《The Tortured Poets Department》，将于四月发行。这可能会为即将到来的国际巡演增添另一个“时代”，这场巡演在美国引起了文化轰动，粉丝们经常现场直播门票售罄的体育场演出的全部表演。如果您未能获取真实的门票，至少您很快就可以通过迪士尼+订阅来观看它。]]></description>
       <guid>https://www.theverge.com/2024/2/7/24065421/taylor-swift-eras-tour-streaming-disney-plus-announced</guid>
       <pubDate>Wed, 07 Feb 2024 21:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼向 Epic 投资 15 亿美元，打造与《堡垒之夜》相关的“持久宇宙”</title>
-      <link>https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Epic Games
-
-迪士尼和《堡垒之夜》制作商 Epic Games 正在联手打造所谓的“广阔且开放的游戏和娱乐宇宙”。作为公告的一部分，迪士尼透露将投资 15 亿美元购买 Epic 的股权。
-有关这个类似元宇宙的项目的详细信息看起来很稀疏，但迪士尼是这样解释的：
-除了提供世界一流的游戏体验并与《堡垒之夜》互操作之外，新的持久宇宙还将为消费者提供大量玩、观看、购买并参与迪士尼、皮克斯、漫威、《星球大战》、《阿凡达》等的内容、角色和故事。玩家、游戏玩家和粉丝将能够创造自己的故事和体验，以独特的迪士尼方式表达他们的粉丝，并以他们喜欢的方式彼此分享​​内容。这一切都将由虚幻引擎提供支持。
-这听起来很像 Epic 最近与乐高的合作。 2022 年，Epic 获得了 20 亿美元的投资 - 索尼与 KIRKBI（一家由乐高背后的家族掌舵的投资公司）分道扬镳，导致今年早些时候推出了生存游戏乐高堡垒之夜。这次发布是《堡垒之夜》新时代的一部分&lt; /a&gt;，Epic 大力推动游戏超越大逃杀的根源，将其转变为其他类型游戏和体验的平台。 乐高堡垒之夜的发布与Fortnite Festival（来自摇滚乐队的创作者的音乐游戏）和Rocket Racing（来自工作室的赛车手落后于火箭联盟）。
-
-这也远不是迪士尼和《堡垒之夜》之间的第一次合作，因为大量的《星球大战》、漫威和其他迪士尼角色已经已在游戏中亮相。早在 2020 年，就有 大逃杀游戏中的整个漫威主题季。
-Epic 已尽管迪士尼最近似乎缩减了在该领域的努力，但在谈到构建虚拟宇宙的概念时，他们的声音非常强烈，去年解雇了专门的元宇宙部门。 （Epic 最近还解雇了大量员工，削减了 16 名员工9 月份占员工总数的百分比。）
-“这标志着迪士尼有史以来最大规模地进入游戏世界，并提供了重要的增长和扩张机会，”迪士尼首席执行​​官鲍勃·艾格(Bob Iger)在一份声明中表示。 “我们迫不及待地想让粉丝以突破性的新方式体验他们喜爱的迪士尼故事和世界。” Epic 老板蒂姆·斯威尼 (Tim Sweeney) 补充道：“我们正在合作开展一些全新的事情，以建立一个持久、开放且可互操作的生态系统，将迪士尼和《堡垒之夜》社区聚集在一起。”
-尚不清楚这个虚拟宇宙何时首次亮相，但这次合作已经产生了一个有趣的公告：火箭联盟，它隶属于 Epic 旗下，即将推出曼达洛人主题更新，并配有 Grogu 汽车礼帽。
-美国东部时间 2 月 7 日下午 4:55 更新：文章更新了有关火箭联盟合作的详细信息。 ]]></description>
-      <guid>https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse</guid>
-      <pubDate>Wed, 07 Feb 2024 21:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我看到你的 67W USB-C 充电器，并为你提供了一个带有小 Macintosh 屏幕的充电器</title>
-      <link>https://www.theverge.com/2024/2/7/24065111/sharge-retro67-usbc-charger-mac</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/7/24065111/sharge-retro67-usbc-charger-mac</guid>
-      <pubDate>Wed, 07 Feb 2024 21:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 制作了一款 AI 图像工具，可让您通过描述图像进行编辑</title>
-      <link>https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-Apple 研究人员发布了一个新模型，让用户可以用简单的语言描述他们想要更改的内容无需接触照片编辑软件即可拍摄照片。
-Apple 与加州大学圣巴巴拉分校合作开发的 MGIE 模型可以通过文本提示对图像进行裁剪、调整大小、翻转和添加滤镜。 
-MGIE 代表 MLLM 引导图像编辑，可应用于简单和更复杂的图像编辑任务，例如修改照片中的特定对象，使其具有不同的形状或变得更亮。该模型融合了多模式语言模型的两种不同用途。首先，它学习如何解释用户提示。然后它“想象”编辑的样子（例如，要求照片中的天空更蓝就变成了提高图像天空部分的亮度）。
-使用 MGIE 编辑照片时，用户只需输入他们想要更改图片的内容即可。该论文使用了编辑意大利辣香肠披萨图像的示例。输入提示“使其更健康”会添加蔬菜配料。撒哈拉老虎的照片看起来很暗，但在告诉模型“添加更多对比度以模拟更多光线”后，图片显得更亮。 
-
-
-图片：苹果
-MGIE 论文的屏幕截图。
-
-“MGIE 不是简单但模糊的指导，而是得出明确的视觉感知意图并导致合理的图像编辑。我们从各个编辑方面进行了广泛的研究，并证明我们的 MGIE 在保持竞争效率的同时有效提高了性能。我们还相信 MLLM 引导的框架可以为未来的视觉和语言研究做出贡献，”研究人员在论文中表示。 
-Apple 通过 GitHub 提供 MGIE 供下载，同时还发布了有关 Hugging Face Spaces 的网络演示，报告VentureBeat。该公司没有透露其计划是什么该模型超出了研究范围。 
-一些图像生成平台，例如 OpenAI 的 DALL-E 3，可以对通过文本输入创建的图片执行简单的照片编辑任务。大多数人都求助于 Photoshop 的创造者 Adob​​e 来进行图像编辑，它也有自己的 AI 编辑模型。其 Firefly AI 模型增强了生成能力fill，将生成的背景添加到照片中。 
-与微软、Meta 或 Google 不同，苹果在生成式 AI 领域并不是一个重要的参与者，但苹果首席执行官蒂姆·库克表示该公司希望今年为其设备添加更多人工智能功能。去年 12 月，苹果研究人员发布了一个开源机器学习框架，名为MLX 使在 Apple Silicon 芯片上训练 AI 模型变得更加容易。 ]]></description>
-      <guid>https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model</guid>
-      <pubDate>Wed, 07 Feb 2024 19:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰田克服了对电动汽车的怀疑，在美国推出了一款三排电动 SUV</title>
-      <link>https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv</link>
-      <description><![CDATA[&lt;图&gt;
-      
-丰田正在其肯塔基州工厂投资 13 亿美元，以支持电动汽车的生产。
-
-丰田投入 13 亿美元其位于肯塔基州的工厂致力于“未来的电气化工作”，包括为美国市场生产一款目前未命名的三排电动 SUV。这一消息有点令人意外，因为世界上最大的汽车制造商也是最反对全行业转向电动汽车的制造商之一。 
-丰田表示，这笔资金将用于资助肯塔基州工厂的电动汽车装配线，以及北卡罗来纳州工厂提供的电动汽车电池的电池组组装。该公司表示将对其美国业务总共投资 170 亿美元，以支持向电动汽车的转型。 
-当然，这对环保主义者来说可能是一种冰冷的安慰，他们一直该公司反对美国努力减少空气污染物和温室气体排放，推动优先考虑混合动力汽车而非纯电动汽车的政策。它支持反对为工会制造的电动汽车提供 4,500 美元的税收抵免奖金。
-丰田凭借广受欢迎的普锐斯 (Prius) 成为电气化领域的早期先驱，该车证明了采用替代动力系统的车辆可能会大受欢迎，从而为特斯拉等公司铺平了道路。但此后该公司已远远落后于竞争对手。它在美国只销售两款纯电动汽车：丰田 bz4X 和雷克萨斯 RZ 450e。 
-最近美国电动汽车需求争论&lt; /a&gt; — 正在上升吗？坠落？扁平化？ ——这让丰田有机会对其优先考虑混合动力汽车而非纯电动汽车的战略表示幸灾乐祸。据《华尔街日报》报道，丰田董事长兼前首席执行官丰田章男最近在日本移动展上对记者表示：“人们终于看到了现实。” “有很多方法可以攀登实现碳中和的山峰。”
-这款三排 SUV 可能基于 丰田在 2023 年日本移动展上展示的电动陆地巡洋舰概念。这款七座概念车外观棱角分明，配有长引擎盖、俯冲式挡风玻璃和带有遮阳板尾灯设计的圆形后端。与 2024 年汽油动力陆地巡洋舰相比，它的车身更宽，高度更短。 
-]]></description>
-      <guid>https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv</guid>
-      <pubDate>Wed, 07 Feb 2024 19:46:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让你的艺术远离人工智能生成器</title>
-      <link>https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24063327/ai-art-protect-images-copyright-generators</guid>
-      <pubDate>Wed, 07 Feb 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
