@@ -4,20 +4,58 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Thu, 08 Feb 2024 16:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:01:49 GMT</lastBuildDate>
+    <item>
+      <title>为什么廉价、有效的腹泻治疗方法没有得到充分利用</title>
+      <link>https://www.nature.com/articles/d41586-024-00351-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00351-x</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日简报：隐藏在土星卫星土卫一内的海洋</title>
+      <link>https://www.nature.com/articles/d41586-024-00400-5</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00400-5</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何测试从地球登陆月球</title>
+      <link>https://www.nature.com/articles/d41586-024-00352-w</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00352-w</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用化学主力分离镜像分子</title>
+      <link>https://www.nature.com/articles/d41586-024-00384-2</link>
+      <description><![CDATA[
+                    &lt;图类=“图”&gt;
+ 
+  &lt;源类型=“图像/webp”/&gt;
+  
+  &lt;图标题&gt;
+   沙利度胺的两种对映体在体内具有不同的作用。图片来源：Alfred Pasieka/SPL 
+
+ 
+化学家已经证明，可以使用质谱法（一种通常用于通过质量识别分子的技术）来分离手性分子，这些手性分子以不同形式存在，具有相同的原子，但具有镜像结构，可以“不能相互叠加。
+今天在《科学》中描述的技术1，有一天可能会应用于药物发现。不同版本的手性分子（称为对映体）通常具有非常不同的特性。沙利度胺药物显示了这一悲剧性的后果：一种对映体是镇静剂，但另一种对映体在怀孕期间服用会导致先天性残疾。因此，分离对映体是药物发现的关键部分，但通常很费力。目前的方法需要专门的设备和针对每对对映体的不同协议。
+离子分开
+北京清华大学欧阳正领导的研究小组成功地利用质谱法分离了一类名为联萘三氟甲磺酸酯的手性分子的对映体。
+研究人员将这些螺旋桨形状的分子对放入质谱仪中，在那里它们被汽化、电离并传输到一个称为离子阱质量分析器的组件。然后，研究小组对离子施加交流电，根据其手性，使每种对映异构体沿着略有不同的路径旋转。
+“当它们与背景气体分子碰撞时，不同的对映体形式会因碰撞而受到不同的影响，”将它们分开的欧阳说。然后，当它们在光谱仪的另一端喷射时，离子一次出现一个，可以单独检测。该机器还可以确定混合物中每种对映体的比例 - 称为对映体过量 (e.e)，并以百分比表示。
+“化学家可以抽取粗反应产物作为样品，将其发送到质谱仪，获得 e.e. 和 e.e. 值。除了在一分钟内确认分子结构外，还可以识别对映体，”欧阳说。他补充道，一旦扩大规模，质谱系统还可以用于制备大量的对映体纯样品。
+“我喜欢这项工作，”英国曼彻斯特大学迈克尔·巴伯协作质谱中心主任 Perdita Barran 说道。她说，能够简单地分离对映体是一个“艰巨的任务”。 “分离对映体的首选方法与药物发现和设计相关，”她说。
+]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00384-2</guid>
+      <pubDate>Fri, 09 Feb 2024 12:01:49 GMT</pubDate>
+    </item>
     <item>
       <title>每日简报：圣托里尼火山爆发史前巨型爆炸</title>
       <link>https://www.nature.com/articles/d41586-024-00386-0</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-00386-0</guid>
       <pubDate>Thu, 08 Feb 2024 16:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过分析作者趋势来标记虚假研究论文</title>
-      <link>https://www.nature.com/articles/d41586-024-00344-w</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00344-w</guid>
-      <pubDate>Thu, 08 Feb 2024 12:02:32 GMT</pubDate>
     </item>
     <item>
       <title>涡轮增压 CAR-T 细胞利用癌细胞的技巧融化小鼠体内的肿瘤</title>
@@ -27,17 +65,24 @@
       <pubDate>Thu, 08 Feb 2024 12:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>每日简报：300年历史的海绵温度升高1.5°C</title>
-      <link>https://www.nature.com/articles/d41586-024-00366-4</link>
+      <title>通过分析作者趋势来标记虚假研究论文</title>
+      <link>https://www.nature.com/articles/d41586-024-00344-w</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00366-4</guid>
-      <pubDate>Wed, 07 Feb 2024 12:02:02 GMT</pubDate>
+      <guid>https://www.nature.com/articles/d41586-024-00344-w</guid>
+      <pubDate>Thu, 08 Feb 2024 12:02:32 GMT</pubDate>
     </item>
     <item>
       <title>人工智能聊天机器人在预测化学性质和反应方面展现出惊人的天赋</title>
       <link>https://www.nature.com/articles/d41586-024-00347-7</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-00347-7</guid>
+      <pubDate>Wed, 07 Feb 2024 12:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日简报：300年历史的海绵温度升高1.5°C</title>
+      <link>https://www.nature.com/articles/d41586-024-00366-4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00366-4</guid>
       <pubDate>Wed, 07 Feb 2024 12:02:02 GMT</pubDate>
     </item>
     <item>
@@ -81,34 +126,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-00321-3</guid>
       <pubDate>Mon, 05 Feb 2024 12:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个人工智能通过婴儿的眼睛看世界来学习语言</title>
-      <link>https://www.nature.com/articles/d41586-024-00288-1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00288-1</guid>
-      <pubDate>Fri, 02 Feb 2024 21:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日简报：针对中国母亲和婴儿的大规模研究的发现</title>
-      <link>https://www.nature.com/articles/d41586-024-00314-2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00314-2</guid>
-      <pubDate>Fri, 02 Feb 2024 12:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>癌症如何劫持神经系统生长和扩散</title>
-      <link>https://www.nature.com/articles/d41586-024-00240-3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00240-3</guid>
-      <pubDate>Thu, 01 Feb 2024 21:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国黑人教授数量一年内增加25%</title>
-      <link>https://www.nature.com/articles/d41586-024-00249-8</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00249-8</guid>
-      <pubDate>Thu, 01 Feb 2024 16:06:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
