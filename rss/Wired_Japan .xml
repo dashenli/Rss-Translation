@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 09 Feb 2024 06:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 09:15:21 GMT</lastBuildDate>
+    <item>
+      <title>音乐“盗版”再度抬头。最常用的方法取自YouTube</title>
+      <link>https://wired.jp/article/music-piracy-way-up/</link>
+      <description><![CDATA[一项研究显示，到 2023 年，盗版音乐网站的访问量将增加 13%。最常见的是访问从 YouTube 视频中提取和下载歌曲的网站。]]></description>
+      <guid>https://wired.jp/article/music-piracy-way-up/</guid>
+      <pubDate>Fri, 09 Feb 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌进化对话式人工智能“Gemini Advanced”的内容以及开始使用它的步骤</title>
+      <link>https://wired.jp/article/how-to-use-google-gemini-advanced-ai-chatbot/</link>
+      <description><![CDATA[谷歌已经开始提供“Gemini Advanced”来与“ChatGPT Plus”竞争，“ChatGPT Plus”是 OpenAI 对话式人工智能的高性能版本。让我解释一下如何使用它。]]></description>
+      <guid>https://wired.jp/article/how-to-use-google-gemini-advanced-ai-chatbot/</guid>
+      <pubDate>Fri, 09 Feb 2024 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌已将其对话式人工智能更新为 Gemini，并正在为搜索之后的下一步做好准备。</title>
       <link>https://wired.jp/article/google-prepares-for-a-future-where-search-isnt-king/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[为了响应欧洲的数字市场法案 (DMA)，Apple 进行了更改，允许欧洲用户从 App Store 以外的来源下载应用程序，并选择应用程序外支付选项。然而，一些人表示，苹果的新系统遇到了与其前身相同的问题。]]></description>
       <guid>https://wired.jp/article/apple-app-store-sideloading-europe-dma/</guid>
       <pubDate>Sun, 04 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一系列裁员，年轻人在TikTok上晒出“被解雇的瞬间”</title>
-      <link>https://wired.jp/article/the-stark-realities-of-posting-your-layoff-on-tiktok/</link>
-      <description><![CDATA[越来越多的用户在 TikTok 上发布自己被解雇的消息，或者他们对收到裁员通知的反应。虽然分享自己的失业经历会引起他人的共鸣，但旨在击败公司的帖子也有可能使与新雇主建立信任关系变得困难。]]></description>
-      <guid>https://wired.jp/article/the-stark-realities-of-posting-your-layoff-on-tiktok/</guid>
-      <pubDate>Sat, 03 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户对“沉默”的 TikTok 感到困惑。与环球音乐谈判破裂的影响</title>
-      <link>https://wired.jp/article/tiktok-no-sounds-taylor-swift-umg-licensing/</link>
-      <description><![CDATA[在该公司未能与环球音乐集团（UMG）达成续签许可协议后，包括泰勒·斯威夫特（Taylor Swift）在内的艺术家的歌曲从 TikTok 上消失。音乐是TikTok用户体验的重要元素，但未来它会发生什么？]]></description>
-      <guid>https://wired.jp/article/tiktok-no-sounds-taylor-swift-umg-licensing/</guid>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
