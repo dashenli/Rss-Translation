@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 09 Feb 2024 09:14:55 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Fri, 09 Feb 2024 21:13:25 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2024/02/kolide-36/</link>
+      <description><![CDATA[感谢 Kolide 本周赞助六色。 Kolide 帮助客户确保其设备合规，从而保证公司数据的安全。
+Kolide 最近发现网络责任保险问题有所增加。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/02/kolide-36/</guid>
+      <pubDate>Fri, 09 Feb 2024 19:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Vision Pro 评测：着眼未来</title>
       <link>https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/</link>
@@ -108,13 +116,6 @@ Whisper Memos 是一款 iPhone/Apple Watch 应用程序，可让您录制语音�
       <description><![CDATA[剖析苹果的欧盟计划、我们进入便携式显示器热潮的历程、我们使用的浏览器以及我们如何管理保存链接供以后使用。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/01/clockwise-539-you-folks-need-some-help/</guid>
       <pubDate>Wed, 31 Jan 2024 20:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Macworld 也迎来了 40 周年 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2222437/macworld-40th-anniversary.html</link>
-      <description><![CDATA[您可能知道，上周有一个重要的周年纪念日。但 Mac 并不是 1 月 24 日唯一一家跻身四强的受人尊敬的苹果相关机构。…]]></description>
-      <guid>https://www.macworld.com/article/2222437/macworld-40th-anniversary.html</guid>
-      <pubDate>Wed, 31 Jan 2024 15:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
