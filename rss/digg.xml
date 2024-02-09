@@ -4,13 +4,20 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Fri, 09 Feb 2024 15:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 18:16:44 GMT</lastBuildDate>
     <item>
-      <title>男性全职就业的神话</title>
-      <link>https://rss.digg.com/productivity/link/the-myth-of-mens-full-time-employment</link>
-      <description><![CDATA[你认为正常现象是毕业后立即加入劳动力队伍，工作五年，然后退休吗？再想一想。]]></description>
-      <guid>https://rss.digg.com/productivity/link/the-myth-of-mens-full-time-employment</guid>
-      <pubDate>Thu, 08 Feb 2024 14:16:09 GMT</pubDate>
+      <title>专家位置猜测者解释如何在信息很少甚至没有信息的情况下定位地点</title>
+      <link>https://rss.digg.com/digg-vids/link/rainbolt-image-find-no-info</link>
+      <description><![CDATA[Rainbolt 详细介绍了他在几乎没有上下文的情况下跟踪位置的方法——在本例中是一个具有最少视觉信息的游乐场。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/rainbolt-image-find-no-info</guid>
+      <pubDate>Thu, 08 Feb 2024 15:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>一天收入最高的副业排名</title>
+      <link>https://rss.digg.com/data-viz/link/highest-paying-side-hustles-single-day</link>
+      <description><![CDATA[平均而言，营销策略师一天的收入比美国任何其他副业者都多。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/highest-paying-side-hustles-single-day</guid>
+      <pubDate>Thu, 08 Feb 2024 14:53:40 GMT</pubDate>
     </item>
     <item>
       <title>美国评价最高的独立餐厅排名</title>
@@ -18,13 +25,6 @@
       <description><![CDATA[该国评价最高的三家独立餐馆中有两家是素食餐厅。]]></description>
       <guid>https://rss.digg.com/data-viz/link/US-highest-rated-independent-restaurants-ranked</guid>
       <pubDate>Thu, 08 Feb 2024 13:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我一家四口在 The Capital Grille 的晚餐上花了 460 美元。这家高档牛排连锁店现在是我们最喜欢的餐厅之一</title>
-      <link>https://rss.digg.com/insider/link/my-family-spent-460-on-dinner-at-the-capital-grille</link>
-      <description><![CDATA[特里·彼得斯 (Terri Peters) 和她的家人在 The Capital Grille 餐厅用餐，非常喜欢在这家高档牛排连锁店的体验。]]></description>
-      <guid>https://rss.digg.com/insider/link/my-family-spent-460-on-dinner-at-the-capital-grille</guid>
-      <pubDate>Thu, 08 Feb 2024 11:21:10 GMT</pubDate>
     </item>
     <item>
       <title>特雷西·查普曼的“快车”和本周其他最佳模因排名</title>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 07 Feb 2024 13:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>一位店主送给母亲的“慷慨”礼物，以及本周更多最温馨的故事</title>
+      <title>店主送给母亲的“慷慨”礼物，以及本周更多最温馨的故事</title>
       <link>https://rss.digg.com/internet-culture/link/positive-news-weekly-roundup</link>
       <description><![CDATA[一群小狗对碗里的苏打水感到惊讶。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/positive-news-weekly-roundup</guid>
@@ -104,11 +104,11 @@
       <pubDate>Fri, 02 Feb 2024 14:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>播放“翻转”</title>
-      <link>https://rss.digg.com/puzzmo/link/flipart</link>
-      <description><![CDATA[您的目标是旋转拼图，使拼图不重叠或突出，并且拼图框架内没有空白区域。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/flipart</guid>
-      <pubDate>Mon, 11 Dec 2023 20:28:39 GMT</pubDate>
+      <title>下“非常糟糕的国际象棋”</title>
+      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
+      <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
+      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
