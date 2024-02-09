@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 08 Feb 2024 15:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:50:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体] PostgreSQL 全球开发小组已发布所有受支持版本的更新 [...]</title>
-      <link>https://t.me/hn_summary/73308</link>
-      <description><![CDATA[PostgreSQL 16.2、15.6、14.11、13.14 和 12.18 已发布
-PostgreSQL 全球开发组已发布所有受支持的 PostgreSQL 版本的更新，包括版本 16.2、15.6、14.11、13.14 和 12.18。此版本解决了一个安全漏洞和超过 65 个报告的错误。该安全漏洞编号为 CVE-2024-0985，允许物化视图的非所有者执行任意 SQL 代码。此更新可确保用户确定的代码作为视图所有者运行。该版本还包括错误修复和改进，例如内存泄漏修复、查询规划器修复以及各种命令和功能的修复。建议用户更新后重新索引 GIN 索引。发行说明提供了有关更改的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/73308</guid>
-      <pubDate>Thu, 08 Feb 2024 15:12:51 GMT</pubDate>
+      <title>在本文中，Ken Thompson 回顾了他的职业生涯以及 UNIX 操作的发展 [...]</title>
+      <link>https://t.me/hn_summary/73398</link>
+      <description><![CDATA[肯·汤普森对信任信任的反思
+在本文中，Ken Thompson 回顾了他的职业生涯和 UNIX 操作系统的发展。他承认其他人的贡献，特别是他与丹尼斯·里奇的合作。汤普森还讨论了自我复制程序的概念，并展示了他在大学时编写的一个可以自我复制的程序。然后，他以他在 C 编译器中植入的错误为例，深入研究了软件中“特洛伊木马”的概念。汤普森最后强调了信任代码的重要性，并批评了媒体对黑客的美化。]]></description>
+      <guid>https://t.me/hn_summary/73398</guid>
+      <pubDate>Fri, 09 Feb 2024 00:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]学区定位器是一个 Python 工具，可映射 U [...]</title>
-      <link>https://t.me/hn_summary/73307</link>
-      <description><![CDATA[显示 HN：查找与街道地址关联的学区
-学区定位器是一个 Python 工具，可将美国给定的街道地址映射到其相应的学区。它使用美国人口普查局地理编码服务 API 进行地址地理编码，并使用 GeoPandas 对学区形状文件进行空间分析。该工具提供快速准确的查找，以确定特定地址的学区。它与其他项目的区别在于，它分别利用美国人口普查局地理编码服务 API 和 GeoPandas 进行精确的地址定位和准确的地区识别。该项目已获得 MIT 许可证的许可，并且可以通过在 GitHub 问题跟踪器中打开问题来获得支持。]]></description>
-      <guid>https://t.me/hn_summary/73307</guid>
-      <pubDate>Thu, 08 Feb 2024 15:10:44 GMT</pubDate>
+      <title>[媒体] 作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。</title>
+      <link>https://t.me/hn_summary/73397</link>
+      <description><![CDATA[显示 HN：84–24 恢复 80 年代永恒的故事经典
+作者分享了他们修复 20 世纪 80 年代老式 Macintosh 电脑的经验。最初，他们对计算机的功能和展示计算机的简约家具感到满意。然而，他们意识到一种名为“retrobright”的工艺，可以使泛黄的 ABS 塑料外壳恢复原来的颜色。作者决定在他们的 Macintosh 上尝试 Retrobright，但遇到了困难并且最终结果参差不齐。然后他们决定对塑料进行专业喷漆，成功​​恢复了计算机的外观。作者的结论是修复现已完成，正好赶上 Macintosh 诞生 40 周年。]]></description>
+      <guid>https://t.me/hn_summary/73397</guid>
+      <pubDate>Fri, 09 Feb 2024 00:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在西班牙政府委托调查藻华的一项研究中，Bieito [...]</title>
-      <link>https://t.me/hn_summary/73306</link>
-      <description><![CDATA[凤尾鱼性是一种自然力量
-在一项受西班牙政府委托调查藻华的研究中，比埃托·费尔南德斯·卡斯特罗和他的团队偶然发现了一个令人惊讶的发现：他们监测的湍流水实际上是由凤尾鱼狂欢引起的。凤尾鱼以其频繁而激烈的交配仪式而闻名，数以百万计的鱼紧密地聚集在一起。这种“疯狂的活动”会产生显着的湍流，这对于混合整个海洋的热量和营养物质至关重要。虽然之前的研究重点关注风、潮汐和洋流作为海洋混合的主要驱动因素，但这项研究表明，凤尾鱼产卵引起的骚动可能比之前想象的更重要，尤其是在较浅的水域。然而，需要更多的研究来充分了解海洋动物对海洋混合的影响程度。]]></description>
-      <guid>https://t.me/hn_summary/73306</guid>
-      <pubDate>Thu, 08 Feb 2024 15:04:33 GMT</pubDate>
+      <title>[媒体]在一场幽默的转折中，Waymo 的自动驾驶汽车与一辆 [...]</title>
+      <link>https://t.me/hn_summary/73396</link>
+      <description><![CDATA[展示 HN：TechCrunch 遇见洋葱
+有趣的是，Waymo 的自动驾驶汽车与一名骑自行车的人近距离接触，导致加州汽车监管机构展开调查。虽然骑自行车的人只受了轻伤，但这一事件引发了人们对乘坐机器人驾驶的汽车的安全性的质疑。这次事件提醒我们，即使在先进的技术和算法的世界里，也难免会发生意外。]]></description>
+      <guid>https://t.me/hn_summary/73396</guid>
+      <pubDate>Fri, 09 Feb 2024 00:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]杨百翰大学公共卫生教授罗比·钱尼 (Robbie Chaney) 进行的一项新研究揭示了明显的 [...]</title>
-      <link>https://t.me/hn_summary/73305</link>
-      <description><![CDATA[热图研究：女性晚上步行回家的情况不一样
-杨百翰大学公共卫生教授罗比·钱尼 (Robbie Chaney) 进行的一项新研究揭示了女性与男性夜间步行回家的体验存在明显差异。该研究使用热图来直观地表示参与者在观看校园区域图像时的注意力和焦点。研究发现，女性更关注图像外围的潜在安全隐患，而男性则更关注焦点或预期目的地。该研究强调了女性在夜间行走时为了安全而进行的持续环境扫描。研究结果强调，决策者在设计校园和社区环境时需要考虑男性和女性的不同经历和看法。]]></description>
-      <guid>https://t.me/hn_summary/73305</guid>
-      <pubDate>Thu, 08 Feb 2024 14:46:20 GMT</pubDate>
+      <title>[媒体]“container-shell”项目是一个 shell 脚本，它启动并附加沙盒 [...]</title>
+      <link>https://t.me/hn_summary/73395</link>
+      <description><![CDATA[显示 HN：container-shell – 容器作为类固醇的 chroot
+“container-shell”项目是一个 shell 脚本，它使用 Docker 启动并附加沙盒 shell，提供对当前目录或项目目录的访问。它将 chroot 的概念与容器相结合，创建一个用于使用或测试工具的沙盒环境。作者强调了使用容器来控制项目依赖性和影响的重要性，特别是考虑到最近的供应链攻击。该脚本的工作原理是启动一个带有保持活动循环的容器，并立即为其启动一个 shell。它可以与或不与 Shellfile 一起使用来配置 Docker 映像等设置。作者承认 Docker 的这种用法不是其预期目的，但表示它满足了他们的需求。他们还提到了未来支持 NixOS 的可能性。]]></description>
+      <guid>https://t.me/hn_summary/73395</guid>
+      <pubDate>Fri, 09 Feb 2024 00:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一次令人费解的事件中，阿拉巴马州一座 200 英尺高的无线电塔在没有任何踪迹的情况下消失了 [...]</title>
-      <link>https://t.me/hn_summary/73304</link>
-      <description><![CDATA[200英尺高的广播塔消失得无影无踪，广播电台感到困惑&lt; /a&gt;
-在一次令人费解的事件中，阿拉巴马州一座200英尺高的广播塔消失得无影无踪，令广播电台目瞪口呆。总经理布雷特·埃尔莫尔对此表示难以置信，称他在广播行业工作了 26 年，从未听说过这样的事情。该塔被盗贼偷走，他们通过切断固定电线将其拆除，并从财产中偷走了其他设备。埃尔莫尔发誓要与调查人员合作找出罪犯，因为这起盗窃案被视为联邦犯罪。广播电台将重建塔台，并已获得临时授权以其他方式继续广播。]]></description>
-      <guid>https://t.me/hn_summary/73304</guid>
-      <pubDate>Thu, 08 Feb 2024 14:39:10 GMT</pubDate>
+      <title>[媒体]Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化 [...]</title>
+      <link>https://t.me/hn_summary/73394</link>
+      <description><![CDATA[显示 HN：Nasium – 健身房跟踪应用
+Nasium 是一款健身房跟踪应用程序，提供一系列功能来帮助用户优化锻炼、防止受伤并实现健身目标。其中一项突出的功能是每周的肌肉活动概览，它允许用户随着时间的推移监控和分析他们的肌肉使用模式。这可以帮助用户识别趋势并定制他们的健身程序以获得最佳效果。另一个独特的功能是能够在一周内均匀分配肌肉活动，通过渐进式超负荷促进生长。该应用程序还提供定制的过滤器和搜索选项，以快速找到最喜欢的锻炼，从而更容易保持动力。此外，Nasium 允许用户立即开始锻炼课程，提供便利和效率。]]></description>
+      <guid>https://t.me/hn_summary/73394</guid>
+      <pubDate>Fri, 09 Feb 2024 00:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了被俄罗斯绑架的乌克兰年轻人的经历[...]</title>
-      <link>https://t.me/hn_summary/73303</link>
-      <description><![CDATA[被俄罗斯抓走，然后获救，乌克兰年轻人发声
-文章讨论了战争期间被俄罗斯绑架后来获救的乌克兰年轻人的经历。 16 岁时被带走的罗斯季斯拉夫·拉夫罗夫 (Rostislav Lavrov) 描述了因不唱俄罗斯国歌而受到惩罚并被关在小牢房里的情况。与弟弟失散的克谢尼娅·科尔丁 (Ksenia Koldin) 讲述了自己被洗脑并被迫接受俄罗斯公民身份的经历。文章重点介绍了慈善机构“拯救乌克兰”在拯救和为这些儿童提供支持方面所做的努力。争议在于俄罗斯绑架儿童人数众多，乌克兰官员认为报道的数字被低估。]]></description>
-      <guid>https://t.me/hn_summary/73303</guid>
-      <pubDate>Thu, 08 Feb 2024 14:37:03 GMT</pubDate>
+      <title>[媒体]加拿大政府正在采取行动打击汽车盗窃，禁止 Flipper Z [...]</title>
+      <link>https://t.me/hn_summary/73393</link>
+      <description><![CDATA[加拿大政府禁止 Flipper Zero 以打击汽车盗窃&lt; br/&gt;
+加拿大政府正在采取行动，通过禁止 Flipper Zero 设备来打击汽车盗窃。加拿大边境服务局 (CBSA) 将投资 2800 万加元，以增强调查和检查被盗车辆的能力，并加强调查和情报共享方面的合作。加拿大皇家骑警 (RCMP) 协调联邦、省和市警察部队之间的情报共享，并利用港口执法能力来识别加拿大边境的威胁。加拿大司法部将审查《刑法》的潜在修正案，以加强与汽车盗窃相关的法律框架。加拿大交通部将现代化车辆安全标准并识别货物装卸漏洞。加拿大创新、科学和经济发展部 (ISED) 将与企业和汽车行业合作开发新的解决方案，以保护车辆免遭盗窃，并禁止使用 Flipper Zero 等设备。]]></description>
+      <guid>https://t.me/hn_summary/73393</guid>
+      <pubDate>Fri, 09 Feb 2024 00:30:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者 Dusan 介绍自己是一名 Ruby 程序员，拥有超过 15 年的经验 [...]</title>
-      <link>https://t.me/hn_summary/73302</link>
-      <description><![CDATA[我将免费参与您的 Ruby 项目&lt; br/&gt;
-作者 Dusan 介绍自己是一名 Ruby 程序员，拥有超过 15 年的经验并且对该语言充满热情。他在 rubymule.com 上创建了一项服务，并提供工作机会每月最多可以免费使用 Ruby 项目 5 个小时。他相信 Ruby 是一个强大的工具，并希望帮助其他人充分利用它。 Dusan 拥有各种框架和库的经验，包括 Rails、Sinatra、RSpec 和 Capybara。首先，用户可以注册该服务，邀请 Dusan 作为其存储库的协作者，并通过电子邮件提交任务。作者强调，这是一个限量优惠，鼓励读者订阅并体验 Ruby 的好处。]]></description>
-      <guid>https://t.me/hn_summary/73302</guid>
-      <pubDate>Thu, 08 Feb 2024 14:23:53 GMT</pubDate>
+      <title>这个项目是关于一个可以用来对抗的自主机器人手臂。</title>
+      <link>https://t.me/hn_summary/73392</link>
+      <description><![CDATA[你可以与之对抗的自主机器人手臂&lt; br/&gt;
+这个项目是关于一个可以用来对抗的自主机器人手臂。该项目的目的是创造一种有趣的互动体验，用户可以在游戏中与机器人手臂竞争。作者提到，这个项目与其他项目不同，因为它使用计算机视觉和机器学习技术，使机械臂能够做出智能决策并调整其游戏策略。该项目可用于解决创建涉及与机器人手臂进行物理交互的引人入胜且具有挑战性的游戏的问题。]]></description>
+      <guid>https://t.me/hn_summary/73392</guid>
+      <pubDate>Fri, 09 Feb 2024 00:26:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]荷兰警察情报部门被发现非法监视耳鼻喉科 [...]</title>
-      <link>https://t.me/hn_summary/73301</link>
-      <description><![CDATA[荷兰警察情报部门非法监视整个人口群体 
-据情报和安全部门监督委员会（CTIVD）称，荷兰警察情报部门被发现非法监视整个人口群体。在 2022 年 2 月 23 日至 7 月 1 日期间进行的三项独立调查中，情报部门在没有正当理由的情况下监控整个社区，从而越界了。 CIVD 没有透露涉及哪些社区，但澄清说它是指基于种族、宗教信仰或职业群体等因素的人口群体。这一揭露引发了对议会情报和安全部门加强监督的呼声。]]></description>
-      <guid>https://t.me/hn_summary/73301</guid>
-      <pubDate>Thu, 08 Feb 2024 13:52:36 GMT</pubDate>
+      <title>[媒体] 医疗保险和医疗补助服务中心 (CMS) 已澄清，健康保险 [...]</title>
+      <link>https://t.me/hn_summary/73391</link>
+      <description><![CDATA[联邦政府向保险公司澄清，人工智能不能用于拒绝医疗保险承保
+医疗保险和医疗补助服务中心 (CMS) 澄清，健康保险公司不能使用算法或人工智能 (AI) 来确定医疗保险优惠计划会员的护理或拒绝承保。这一澄清是在针对 UnitedHealth 和 Humana 提起诉讼之后作出的，指控他们使用了一种名为 nH Predict 的有缺陷的人工智能工具来拒绝为老年患者提供护理。诉讼称，该工具对急性后护理需求的估计不准确，员工因偏离这些估计而受到纪律处分。 CMS 备忘录指出，承保范围决定必须基于患者个体情况，而不仅仅是算法预测。 CMS 还警告保险公司，人工智能工具可能会导致偏见和歧视永久化。]]></description>
+      <guid>https://t.me/hn_summary/73391</guid>
+      <pubDate>Fri, 09 Feb 2024 00:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]生活辅导行业正在蓬勃发展，估计价值 45.6 亿美元，[...]</title>
-      <link>https://t.me/hn_summary/73300</link>
-      <description><![CDATA[生活辅导行业的肮脏下流
-生活教练行业正在蓬勃发展，2019 年至 2022 年间，生活教练的价值估计达到 45.6 亿美元，生活教练的数量增加了 54%。疫情推动了这一增长，因为人们在危机和自我时期寻求指导和支持。 -反射。然而，该行业缺乏监管，导致不合格的掠夺性从业者利用弱势群体。一些客户报告称，他们在无效的课程和指导上花费了数千美元。虽然生活教练有认证机构，但进入该职业并没有法律标准。尽管存在风险，但许多人发现与生活教练一起工作的价值，并经历了积极的个人和职业成长。对于个人来说，在选择生活教练时要保持谨慎和怀疑，并在做出承诺之前寻求推荐和推荐，这一点很重要。]]></description>
-      <guid>https://t.me/hn_summary/73300</guid>
-      <pubDate>Thu, 08 Feb 2024 13:50:27 GMT</pubDate>
+      <title>[媒体] “konf”项目是 Go 程序的极简配置加载器。</title>
+      <link>https://t.me/hn_summary/73390</link>
+      <description><![CDATA[展示 HN：Go 的极简配置加载器&lt; br/&gt;
+“konf”项目是 Go 程序的极简配置加载器。它为 Go 程序提供了一种读取配置的方法，而无需绑定到特定的配置源。该项目提供了两个API：供应用程序作者读取配置的Config类型，以及供配置源库实现者使用的Loader和Watcher接口。这种解耦允许开发人员根据“konf.Config”编写代码，同时单独管理配置源。该项目支持各种配置源，例如环境变量、文件系统、标志和 AWS AppConfig。它还允许开发人员实现自己的自定义配置提供程序。该项目的灵感来自“viper”和“koanf”配置库。]]></description>
+      <guid>https://t.me/hn_summary/73390</guid>
+      <pubDate>Fri, 09 Feb 2024 00:18:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 开发的全新 AI 助手 Gemini Ultra 现已在 Google Bard 中提供。</title>
-      <link>https://t.me/hn_summary/73299</link>
-      <description><![CDATA[Gemini Ultra 现已在 Google Bard 中提供
-Gemini Ultra 是 Google 开发的全新 AI 助手，现已在 Google Bard 中提供。它是 Google One AI 高级计划的一部分，每月费用为 19.99 美元，包括两个月的免费试用期。该计划提供了现有 Google One Premium 计划的优势，例如 2TB 存储空间，以及 Google AI 的最新进展。 Gemini Ultra 很快就会集成到各种 Google 应用程序中，包括 Gmail、Docs、Slides 和 Sheets。谷歌已采取预防措施确保 Gemini 的安全性和可靠性，在发布前进行了广泛的信任和安全检查。此外，Gemini 正在推出新的移动体验，允许用户在手机上访问人工智能助手。在 Android 上，Gemini 充当协作助手，使用生成式 AI 帮助用户完成任务。可以通过 Gemini 应用程序或 Google Assistant 访问它，提供上下文帮助并轻松访问其功能。]]></description>
-      <guid>https://t.me/hn_summary/73299</guid>
-      <pubDate>Thu, 08 Feb 2024 13:26:12 GMT</pubDate>
+      <title>[媒体]Code Sync 是一款协作式实时代码编辑器，允许多个用户编码 [...]</title>
+      <link>https://t.me/hn_summary/73389</link>
+      <description><![CDATA[展示 HN：代码同步 – 实时代码编辑器 
+Code Sync 是一款协作式实时代码编辑器，允许多个用户在同一房间中一起编码。用户可以进入房间，共享唯一的房间 ID，并同时协作编写代码。该项目提供的功能包括实时协作代码编辑、语法突出显示、自动建议、代码更改的即时更新和同步、用户加入和离开事件的通知、多个主题以及全面的语言支持。它与其他项目的区别在于提供实时预览、用户状态列表、文件管理功能、群组聊天以及包括 React JS、Node.js、Express 和 Socket.io。该项目开放供贡献，并根据 MIT 许可证获得许可。]]></description>
+      <guid>https://t.me/hn_summary/73389</guid>
+      <pubDate>Fri, 09 Feb 2024 00:14:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
