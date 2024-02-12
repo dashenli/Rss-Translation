@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 12 Feb 2024 15:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:18:35 GMT</lastBuildDate>
+    <item>
+      <title>不要禁用表单控件</title>
+      <link>https://adrianroselli.com/2024/02/dont-disable-form-controls.html</link>
+      <description><![CDATA[这只是另一个可用性和可访问性专家，告诉作者不要做他们继续做的事情。 
+]]></description>
+      <guid>https://adrianroselli.com/2024/02/dont-disable-form-controls.html</guid>
+      <pubDate>Mon, 12 Feb 2024 18:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用现代 CSS 技术的高度可配置的开关组件</title>
+      <link>https://piccalil.li/blog/a-highly-configurable-switch-component-using-modern-css/</link>
+      <description><![CDATA[了解如何使用现代 CSS 构建高度可配置的开关组件。
+]]></description>
+      <guid>https://piccalil.li/blog/a-highly-configurable-switch-component-using-modern-css/</guid>
+      <pubDate>Mon, 12 Feb 2024 18:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel-Art.ai：人工智能像素艺术生成器</title>
+      <link>https://pixel-art.ai/</link>
+      <description><![CDATA[人工智能驱动的像素艺术生成器，可将您的愿景转化为像素完美的艺术作品。
+]]></description>
+      <guid>https://pixel-art.ai/</guid>
+      <pubDate>Mon, 12 Feb 2024 18:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threads 的用户体验衰落</title>
+      <link>https://uxdesign.cc/the-ux-of-threads-downfall-47e3dc64b51c</link>
+      <description><![CDATA[当快速入职妨碍长期保留时。
+]]></description>
+      <guid>https://uxdesign.cc/the-ux-of-threads-downfall-47e3dc64b51c</guid>
+      <pubDate>Mon, 12 Feb 2024 17:57:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在设计系统中显示头像组件的缩写</title>
+      <link>https://hey.georgie.nu/avatar-initials/</link>
+      <description><![CDATA[深入研究尽可能包容的解决方案，以在平台上显示用户姓名首字母。
+]]></description>
+      <guid>https://hey.georgie.nu/avatar-initials/</guid>
+      <pubDate>Mon, 12 Feb 2024 17:56:03 GMT</pubDate>
+    </item>
     <item>
       <title>对话框的基本用法和需要注意的问题</title>
       <link>https://frontendmasters.com/blog/basic-dialog-usage-and-gotchas-to-watch-for/</link>
@@ -80,50 +120,10 @@
     <item>
       <title>Airbnb 冬季重新设计的要点</title>
       <link>https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818</link>
-      <description><![CDATA[当 Airbnb 宣布新产品时，它是数月努力、思考和测试的结果。
+      <description><![CDATA[当 Airbnb 宣布新产品时，它是数月辛勤工作、思考和测试的结果。
 ]]></description>
       <guid>https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818</guid>
       <pubDate>Thu, 08 Feb 2024 16:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 元素并不是那么简单</title>
-      <link>https://uxdesign.cc/ui-elements-are-not-so-elementary-958169627cb5</link>
-      <description><![CDATA[为了发挥作用，组件需要特定的结构。从视觉上看——它们没有。多年来，这一直在破坏切换流程。
-]]></description>
-      <guid>https://uxdesign.cc/ui-elements-are-not-so-elementary-958169627cb5</guid>
-      <pubDate>Wed, 07 Feb 2024 17:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>老年人设计指南</title>
-      <link>https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/</link>
-      <description><![CDATA[全球有 10 亿 60 岁或以上的人口，包容性比以往任何时候都更加重要。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/02/guide-designing-older-adults/</guid>
-      <pubDate>Wed, 07 Feb 2024 08:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有损CSS压缩的乐趣和损失（或利润）</title>
-      <link>https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/</link>
-      <description><![CDATA[去年年底，我有一个想法一直在我的脑海中酝酿。
-]]></description>
-      <guid>https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/</guid>
-      <pubDate>Wed, 07 Feb 2024 08:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>动画字体调色板</title>
-      <link>https://textlab.dev/posts/animating-font-palette</link>
-      <description><![CDATA[随着 Chrome 121 的发布，我们现在可以仅使用 CSS 在彩色字体中的字体调色板之间实现平滑过渡。
-]]></description>
-      <guid>https://textlab.dev/posts/animating-font-palette</guid>
-      <pubDate>Wed, 07 Feb 2024 08:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>认真的 Web 组件</title>
-      <link>https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html</link>
-      <description><![CDATA[在这篇（相当长的）文章中，我将回顾一下我如何构建 Ghola，一个为开发人员提供的调色板生成器。
-]]></description>
-      <guid>https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html</guid>
-      <pubDate>Wed, 07 Feb 2024 08:16:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
