@@ -4,7 +4,43 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 12 Feb 2024 12:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 15:15:21 GMT</lastBuildDate>
+    <item>
+      <title>美国司法部的乔纳森·坎特表示，针对大型科技公司的反垄断斗争才刚刚开始</title>
+      <link>https://www.theverge.com/24067873/jonathan-kanter-doj-antitrust-google-policy-monopoly-big-tech</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24067873/jonathan-kanter-doj-antitrust-google-policy-monopoly-big-tech</guid>
+      <pubDate>Mon, 12 Feb 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>（机器人）旅行社的回归</title>
+      <link>https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24065179/ai-travel-agent-honeymoon-planning-chatgpt</guid>
+      <pubDate>Mon, 12 Feb 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在工作中</title>
+      <link>https://www.theverge.com/24054383/ai-work-business-automation-jobs-chatgpt</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+
+
+
+
+人工智能曾经是一个模棱两可的科幻比喻，现在已经成为一个模棱两可的商业流行语，因为每一种技术产品都竞相实现硅谷认为自互联网以来最伟大的创新。但在谈话中却忽略了有关人们构建和使用它的故事。如果大型语言模型和自动化系统确实会颠覆劳动力和资本，那么它在实践中到底是什么样子的呢？在本资料包中，我们将探讨人工智能当今的运作方式：人们如何使用它、它在哪里失败和在哪里成功，以及当我们说“人工智能”时它实际上意味着什么。 
+]]></description>
+      <guid>https://www.theverge.com/24054383/ai-work-business-automation-jobs-chatgpt</guid>
+      <pubDate>Mon, 12 Feb 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人不安的讣告垃圾邮件祸害</title>
+      <link>https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait</guid>
+      <pubDate>Mon, 12 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 正在为 Windows 11 开发自己的类似 DLSS 的升级程序</title>
       <link>https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature</link>
@@ -19,7 +55,7 @@
 汤姆·沃伦 / The Verge 的截图
 Windows 11 测试版本中发现了新的 AI 超分辨率功能。
 
-微软尚未正式宣布这项新的超分辨率功能，因此尚不清楚其具体如何工作，也不清楚是否需要任何特定硬件。 Nvidia 的 DLSS 利用其 RTX 系列显卡上附带的张量核心，而 AMD 的 FSR 和英特尔的 XeSS 均由各自的 GPU 硬件提供支持。
+微软尚未正式宣布这项新的超分辨率功能，因此尚不清楚其具体如何工作，也不清楚是否需要任何特定硬件。 Nvidia 的 DLSS 利用其 RTX 系列显卡上附带的张量核心，而 AMD 的 FSR 和英特尔的 XeSS 也都在竞争对手的 GPU 上运行。
 微软还在为 Windows 11 改进色彩管理功能，这对于最新一轮使用 HDR 的 OLED 显示器特别有用。 Windows 多年来一直缺乏良好的操作系统级色彩管理系统，导致 PC 游戏玩家不得不在看起来像 Windows 95 中附带的对话框中添加自定义颜色配置文件。
 
 
@@ -27,7 +63,8 @@ Windows 11 测试版本中发现了新的 AI 超分辨率功能。
 
 
 随着即将到来的变化，色彩管理将集成到 Windows 11 的主显示设置区域中，允许 PC 用户设置 sRGB 和 DCI-P3 的颜色配置文件。还有一个新功能可以自动控制这些不同的颜色配置文件。
-“自动颜色管理可确保您的应用和其他内容在此显示屏上具有准确的颜色，”微软在谈到此颜色管理功能时说道。不过，尚不清楚这是否能让 Windows 11 用户轻松更改伽玛曲线。希望这意味着微软将在 Windows 上对 HDR 支持进行更多投资，如果在系统范围内启用 HDR，这可能会导致桌面体验被淘汰。]]></description>
+“自动颜色管理可确保您的应用和其他内容在此显示屏上具有准确的颜色，”微软在谈到此颜色管理功能时说道。不过，尚不清楚这是否能让 Windows 11 用户轻松更改伽玛曲线。希望这意味着微软将在 Windows 上对 HDR 支持进行更多投资，如果在系统范围内启用 HDR，这可能会导致桌面体验被淘汰。
+更新，美国东部时间 2 月 12 日上午 7:45：已更新文章以阐明 FSR 和 XeSS 的可用性。]]></description>
       <guid>https://www.theverge.com/2024/2/12/24070426/microsoft-windows-11-dlss-ai-super-resolution-feature</guid>
       <pubDate>Mon, 12 Feb 2024 10:29:44 GMT</pubDate>
     </item>
@@ -45,9 +82,9 @@ Windows 11 测试版本中发现了新的 AI 超分辨率功能。
       
 
 需要一些特别的东西才能让人们像以前一样对漫威电影大肆宣传，以及 死侍《金刚狼》 ——该工作室的第一部 R 级斗篷电影——让它看起来恰到好处。
-在新预告片中，尚不清楚韦德·威尔逊（瑞恩·雷诺兹饰）和他的搭档凡妮莎（莫蕾娜·巴卡林饰）自《死侍 2》结束以来已经过去了多长时间，或者即使他们与那部电影中出现的角色完全相同。但当来自洛基时变管理局的装甲部队出现寻找死侍时，他对看到他们或被通过传送门带走并不感到惊讶。
-虽然死侍花了一点时间直接对着镜头谈论迪士尼的一切，TVA 特工 Paradox（马修·麦克费登饰）并没有解释是什么让雇佣兵如此特别。但从预告片中可以清楚地看出，雇佣兵被招募来从事特殊工作，这些工作将把他送到一个被毁坏的 20 世纪福克斯标志，表明死侍和《金刚狼》将以福克斯老片《X 战警》中的角色为主角。 
-到底谁会出现，谁也说不准，但预告片特意让金刚狼（休·杰克曼饰）远离镜头，这让影片看起来像是《死侍》和《死侍》。 7 月 26 日上映的《金刚狼》中的变种人数量可能比我们预期的要多。]]></description>
+在新预告片中，尚不清楚韦德·威尔逊（瑞恩·雷诺兹饰）和他的搭档凡妮莎（莫蕾娜·巴卡琳饰）自《死侍 2》结束以来已经过去了多长时间，或者即使他们与那部电影中出现的角色完全相同。但当洛基的时变管理局的装甲部队出现寻找死侍时，他对看到他们或被通过传送门带走并不感到惊讶。
+虽然死侍花了一点时间直接对着镜头谈论迪士尼的这一切，但 TVA 特工 Paradox（马修·麦克费登饰）并没有解释是什么让雇佣兵如此特别。但从预告片中可以清楚地看出，雇佣兵被招募来从事特殊工作，这些工作将把他送到一个被毁坏的 20 世纪福克斯标志，表明死侍和《金刚狼》将以福克斯老片《X 战警》中的角色为主角。 
+到底谁会出现，谁也说不准，但预告片特意让金刚狼（休·杰克曼饰）本人远离镜头，这让它看起来像是《死侍》和《死侍》。 7 月 26 日上映的《金刚狼》中的变种人数量可能比我们预期的要多。]]></description>
       <guid>https://www.theverge.com/2024/2/11/24070042/deadpool-and-wolverine-super-bowl-2024-trailer</guid>
       <pubDate>Mon, 12 Feb 2024 00:29:33 GMT</pubDate>
     </item>
@@ -58,11 +95,10 @@ Windows 11 测试版本中发现了新的 AI 超分辨率功能。
       
 超级碗商品在内华达州拉斯维加斯的 NFL 超级碗体验中心已准备就绪。 |摄影：Jamie Squire/Getty Images 
 
-这些是我们今年在超级碗比赛中看到的最好的广告。 又到了超级碗时间，这意味着也到了小狗碗和尼克频道充满粘液的广播。但除此之外，我们将拥有最大的所有人期待观看的广告集合。 
-我们可能不会看到太多加密广告，但我们可能会至少看到一些人工智能广告，而且你可以打赌苹果已经做好了准备带有 Vision Pro 广告。当然，公司希望从这些频繁的大预算广告中获得最大收益，因此已经有很多广告了。 
-在超级碗比赛之前，微软 为“大型游戏”发布了 Copilot AI 广告。 Google 为 Pixel 手机的人工智能Guided Frame 相机辅助功能提供了一个解决方案。我对帕特里克·斯图尔特 (Patrick Stewart) 跟着 Creed 的《Higher》唱歌感到矛盾，但派拉蒙 Plus 的超级碗广告可能是净商品。
-堪萨斯城酋长队将于美国东部时间本周日 2 月 11 日下午 6:30 迎战旧金山 49 人队。距离酋长队在 2020 年 NFL 冠军赛中击败 49 人队已经过去了四年，距离酋长队战胜费城老鹰队也已经过去了一年。 Apple Music 赞助的亚瑟小子中场秀应该是一场大制作。除非从东京起飞的航班出现任何问题，泰勒·斯威夫特将会在那里观看她的男友、酋长队近端锋特拉维斯·凯尔斯（Travis Kelce）的比赛，你可以打赌她的众多粉丝也会观看。 
-哥伦比亚广播公司 (CBS) 将转播今年的超级碗比赛，但您也可以在 Paramount Plus 上观看。 ]]></description>
+艺术、人工智能，以及介于两者之间的一切。 当泰勒·斯威夫特观看特拉维斯·凯尔斯和堪萨斯队时，2024 年超级碗、小狗碗和尼克频道充满粘液的广播来了又去。城市酋长队险胜旧金山 49 人队。尽管发生了这一切，但任何人都想观看的最大的广告系列再次上演。
+一些最大的广告是电影预告片。第一个 Deadpool &amp; 《金刚狼》预告片让我们短暂地瞥见了休·杰克曼，他最终穿上了让金刚狼出名的黄黑相间的套装。我们还看到了  的第一部预告片电影版的邪恶和Twister续集龙卷风。
+今年的广告片中科技含量较少 - 我们看到了小人工智能，一个网络安全性很低，也没有国家加密货币广告。 Apple Music 赞助了亚瑟小子的中场秀，该服务的广告中蒂姆·库克可能会向卢达克里斯发送脾气暴躁的短信。不过，Vision Pro 并未露面。我对帕特里克·斯图尔特 (Patrick Stewart) 跟着 Creed 的《Higher》唱歌感到矛盾，但派拉蒙 Plus 的超级碗广告可能是净商品。
+除了传统的无线和有线广播外，比赛还在 Paramount Plus、YouTube TV、Fubo 和 Hulu Plus Live TV 上进行了现场直播，这些电视均附带 通常 质量 问题 a&gt; 对于某些人来说。]]></description>
       <guid>https://www.theverge.com/24064740/super-bowl-2024-best-ads-trailers</guid>
       <pubDate>Mon, 12 Feb 2024 00:16:34 GMT</pubDate>
     </item>
@@ -101,71 +137,6 @@ iOS 17.4 Beta 版可让 iPhone 用户生成 Apple Cash 虚拟卡号，报告9to5
 对于经常使用 Apple Cash 的用户来说，这是一个很好的改变，因为尽管 Apple Pay 已被广泛采用，但仍有很多地方不支持它。现在，用户可以自动填写 Apple Cash 卡号，而无需将钱转入银行，当用户选择即时转账选项而不是免费的 1 - 3 个工作日转账选项时，这会收取少量费用。]]></description>
       <guid>https://www.theverge.com/2024/2/11/24069725/ios-17-3-beta-apple-cash-card-number-generator</guid>
       <pubDate>Sun, 11 Feb 2024 21:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 2024 年情人节礼物指南</title>
-      <link>https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner</link>
-      <description><![CDATA[&lt;图&gt;
-      
-        &lt;图标题&gt;Cath Virginia / The Verge |照片由盖蒂图片社拍摄
-
-我们提供各种比任何糖果都更甜的独特礼物，帮助您节省时间。 我们很容易陷入日常生活而忘记提醒我们所爱的人我们有多么在乎。虽然情人节肯定会让人感到畏缩，但它也鼓励我们这样做。毕竟，向您所爱的人赠送一份衷心的礼物可能是表达您的感激之情的更周到的方式之一。
-
-当然，我们知道找到合适的礼物可能需要时间，因此我们为您做了艰苦的工作。 The Verge 的创意人士齐聚一堂，提出了一长串情人节礼物创意，所有这些都比普通的泰迪熊或一盒巧克力更贴心。我们收录了一些感伤的精选 — 个性化钥匙扣，有人吗？ - 以及以 健身，游戏，烹饪，艺术，以及 文献。希望您能为名单上的每个人找到一些特别的东西 - 无论是您的伴侣、朋友、父母、孩子还是其他与您心心相印的人。
-
-]]></description>
-      <guid>https://www.theverge.com/24048257/valentines-day-2024-gift-ideas-boyfriend-girlfriend-couples-husband-wife-partner</guid>
-      <pubDate>Sun, 11 Feb 2024 21:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧金山一群人毁坏了一辆无人驾驶 Waymo 汽车</title>
-      <link>https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town</link>
-      <description><![CDATA[&lt;图&gt;
-      FriscoLive415
-
-昨晚太平洋时间晚上 9 点左右，在旧金山唐人街，一名男子跳上一辆 Waymo 无人驾驶出租车的引擎盖，砸碎了挡风玻璃，引起了阵阵掌声，随后人群围住了这辆车，并用喷漆覆盖了它，打破了该车的结构。其窗户，并最终将其着火。据 在The Autopian中报道，但那时火焰已经完全吞没了汽车。 
-目前，似乎没有任何媒体报道此次袭击的动机。 Waymo 代表桑迪·卡普 (Sandy Karp) 通过电子邮件告诉 The Verge，这辆全自动驾驶汽车在受到攻击时“没有搭载任何乘客”，有人向车内扔烟花，引发了火焰。旧金山警察局的公共信息官员 Robert Rueca 在给 The Verge 的一封电子邮件中证实，警方在太平洋时间“大约”晚上 8:50 做出反应，发现汽车已经着火，并补充说“没有报告”的伤害。” 
-FriscoLive415 YouTube 频道发布的视频显示了电动 Waymo Jaguar 烧毁的外壳。
-
-软件开发人员 Michael Vendi 发布的另一组视频展示了火势蔓延的场景。 
-
-
-现在正在旧金山发生。 Waymo汽车遭到破坏&amp;着火了 @sfchronicle pic.twitter .com/OEZYFiy6mv— 迈克尔·万迪 (@michael_vandi) 2024 年 2 月 11 日&lt; /a&gt;
-
-
-火灾发生的背景是旧金山居民与自动驾驶汽车运营商之间的紧张关系不断升温。加州 DMV 暂停了 Waymo 竞争对手 Cruise 的机器人出租车业务 其中一辆汽车相撞并拖拽了一辆去年，自动出租车曾在城市中造成混乱，阻塞交通或撞上一辆消防车。就在上周，一辆 Waymo 汽车撞到了一名骑自行车的人 据报道，他一直跟随一辆横穿道路的卡车。
-市政府官员和居民反对这些汽车去年获得了 24/7 运营的许可证，一些居民通过在汽车引擎盖上放置橙色锥体来使其无法移动以示抗议。 
-破坏和污损是人类经历中历史悠久的一部分，参见纽约市的地铁或古代被摧毁的庞贝城。科技公司在公共场合部署设备而不受惩罚时，被迫正视这种不可避免的情况。滑板车被扔进湖里，汽车被扔进湖里。 被行人殴打，并且在某些地方，无桩自行车共享单车被集体摧毁。 
-美国东部时间 2024 年 2 月 11 日下午 3:00 更新：更新了旧金山警察公共信息官 Robert Rueca 的归属。]]></description>
-      <guid>https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town</guid>
-      <pubDate>Sun, 11 Feb 2024 17:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交网络中最热门的新事物</title>
-      <link>https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter</guid>
-      <pubDate>Sun, 11 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《星球大战第一集：幽灵的威胁》将于五月再次上映</title>
-      <link>https://www.theverge.com/2024/2/10/24068931/star-wars-phantom-menace-theater-showings-25th-anniversary-may</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：卢卡斯影业/迪士尼
-
-当《星球大战前传 I：幽灵的威胁》于 2024 年 5 月 3 日重返影院时，吊舱竞赛、贸易谈判和达斯摩尔将再次出现在大银幕上. 回归是为了庆祝这部 1999 年电影上映 25 周年，报道帝国。 
-重返影院正值这部长期上映的系列电影的复兴时期。在过去的几年里，迪士尼通过诸如 &lt; em&gt;阿索卡、奥比-万·克诺比 和坏批次。海登·克里斯滕森在第二部电影和第三部电影中饰演阿纳金·天行者，在一次采访中告诉帝国，他在星球大战中的经历是“一次非常温暖的经历”，并且对今天，他们“感觉像是对我们所做工作的证明。”
-
-迪士尼和卢卡斯影业还聘请了海报艺术家 Matt Furgeson 为电影创作一张新海报。 
-
-
-每个传奇都有一个开始。《星球大战：幽灵威胁》今年已满 25 岁了！为了庆祝，这部电影将于 2024 年 5 月重返影院！我很高兴继续我的周年纪念单张海报和海报系列。被迪士尼公司聘用卢卡斯影业创造了这一新艺术。 pic.twitter.com/ajMpou0VJL—马特·弗格森 (@Cakes_Comics) 2024 年 2 月 10 日
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/2/10/24068931/star-wars-phantom-menace-theater-showings-25th-anniversary-may</guid>
-      <pubDate>Sat, 10 Feb 2024 23:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
