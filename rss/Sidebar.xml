@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 06:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 09:15:01 GMT</lastBuildDate>
+    <item>
+      <title>开发者对苹果新的应用商店规则进行公开反抗</title>
+      <link>https://www.wired.com/story/developers-revolt-apple-dma/</link>
+      <description><![CDATA[欧洲应用程序制造商情绪激动，将苹果比作“黑手党”，并向立法者施加压力，要求其采取行动。
+]]></description>
+      <guid>https://www.wired.com/story/developers-revolt-apple-dma/</guid>
+      <pubDate>Tue, 13 Feb 2024 07:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有艺术都是某物的复制品</title>
+      <link>https://www.chrbutler.com/2024-02-04</link>
+      <description><![CDATA[今天早上我和我的大孩子观看了一部关于艺术家和工程师 Peter Vogel 的短片。
+]]></description>
+      <guid>https://www.chrbutler.com/2024-02-04</guid>
+      <pubDate>Tue, 13 Feb 2024 07:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建完美的图标</title>
+      <link>https://blog.streamlinehq.com/evaluating-icons/</link>
+      <description><![CDATA[一个细致的系统，可确保您的图标完全可识别、一致且清晰。
+]]></description>
+      <guid>https://blog.streamlinehq.com/evaluating-icons/</guid>
+      <pubDate>Tue, 13 Feb 2024 07:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>故事书 8 测试版</title>
+      <link>https://storybook.js.org/blog/storybook-8-beta/</link>
+      <description><![CDATA[主要性能和兼容性改进。
+]]></description>
+      <guid>https://storybook.js.org/blog/storybook-8-beta/</guid>
+      <pubDate>Tue, 13 Feb 2024 07:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>塑造设计的未来</title>
+      <link>https://jarango.com/2024/02/04/shaping-the-future-of-design/</link>
+      <description><![CDATA[如何在普遍的变化中保持相关性。
+]]></description>
+      <guid>https://jarango.com/2024/02/04/shaping-the-future-of-design/</guid>
+      <pubDate>Tue, 13 Feb 2024 07:51:53 GMT</pubDate>
+    </item>
     <item>
       <title>不要禁用表单控件</title>
       <link>https://adrianroselli.com/2024/02/dont-disable-form-controls.html</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/</guid>
       <pubDate>Fri, 09 Feb 2024 07:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦航空局航空地图</title>
-      <link>https://www.beautifulpublicdata.com/faa-aviation-maps/</link>
-      <description><![CDATA[可能没有比联邦航空管理局的航空地图信息密度更高的产品了。
-]]></description>
-      <guid>https://www.beautifulpublicdata.com/faa-aviation-maps/</guid>
-      <pubDate>Thu, 08 Feb 2024 16:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发变得过于复杂，这可能是我们的错</title>
-      <link>https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/</link>
-      <description><![CDATA[当今可用的大量框架和工具给人的印象是 Web 开发可能变得过于复杂。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/</guid>
-      <pubDate>Thu, 08 Feb 2024 16:51:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动搜索：您应该选择哪种模式？</title>
-      <link>https://uxdesign.cc/mobile-search-which-pattern-should-you-choose-7bd379e8f02c</link>
-      <description><![CDATA[我们将尽力帮助您选择适合您的移动应用程序的最佳搜索选项。
-]]></description>
-      <guid>https://uxdesign.cc/mobile-search-which-pattern-should-you-choose-7bd379e8f02c</guid>
-      <pubDate>Thu, 08 Feb 2024 16:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>执行所需操作：以易于理解的方式指示必填字段</title>
-      <link>https://www.tpgi.com/doing-whats-required-indicating-mandatory-fields-in-an-accessible-way/</link>
-      <description><![CDATA[需要什么来表明该字段为必填字段？
-]]></description>
-      <guid>https://www.tpgi.com/doing-whats-required-indicating-mandatory-fields-in-an-accessible-way/</guid>
-      <pubDate>Thu, 08 Feb 2024 16:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbnb 冬季重新设计的要点</title>
-      <link>https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818</link>
-      <description><![CDATA[当 Airbnb 宣布新产品时，它是数月辛勤工作、思考和测试的结果。
-]]></description>
-      <guid>https://uxdesign.cc/key-takeaways-from-airbnbs-winter-redesign-c1de0efa7818</guid>
-      <pubDate>Thu, 08 Feb 2024 16:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
