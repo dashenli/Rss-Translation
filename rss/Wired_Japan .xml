@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 13 Feb 2024 00:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 03:16:11 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊云计算首席执行官表示，当前的生成式人工智能热潮类似于互联网泡沫</title>
+      <link>https://wired.jp/article/amazons-cloud-boss-selipsky-generative-ai-hype/</link>
+      <description><![CDATA[亚马逊网络服务首席执行官 Adam Selipsky 表示，当前的人工智能繁荣类似于互联网泡沫，当时一些公司被“估值过高”。他预测未来将出现多个主要的生成人工智能提供商。]]></description>
+      <guid>https://wired.jp/article/amazons-cloud-boss-selipsky-generative-ai-hype/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>未来 30 年的初创公司和工具：SZ MEMBERSHIP 上阅读次数最多的 5 篇文章（2024 年 1 月）</title>
       <link>https://wired.jp/article/5-most-read-stories-membership-january-2024/</link>
@@ -22,28 +29,28 @@
     <item>
       <title>关于人工智能和开源的争论：本月深圳会员精选文章（2024 年 2 月）</title>
       <link>https://wired.jp/article/membership-stories-february-2024/</link>
-      <description><![CDATA[在实现未来的媒体《WIRED》日本版的实验区“SZ Membership”中，2月份每周向会员发送的文章主题是“AI”、“SPACE”、“ EV”和“科学界的女性”。其中，我们将介绍一些值得注意的故事。]]></description>
+      <description><![CDATA[在实现未来的媒体《WIRED》日本版的实验区“SZ Membership”中，2月份每周向会员发送的文章主题是“AI”、“SPACE”、“ EV”和“科学界的女性”。我们将介绍一些最值得注意的故事。]]></description>
       <guid>https://wired.jp/article/membership-stories-february-2024/</guid>
       <pubDate>Sun, 11 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>热泵作为面向未来的解决方案：2024 年 1 月阅读次数最多的 10 个故事</title>
       <link>https://wired.jp/article/10-most-read-stories-january-2024/</link>
-      <description><![CDATA[以下是今年 1 月份在 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关全球最大技术贸易展 CES 2024 和热泵的主题。]]></description>
+      <description><![CDATA[以下是今年 1 月 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关世界最大技术贸易展 CES 2024 和热泵的主题。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-january-2024/</guid>
       <pubDate>Sun, 11 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Facebook诞生已经20年了。 “儿童安全”问题尚未得到解决。</title>
       <link>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</link>
-      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
+      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
       <guid>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</guid>
       <pubDate>Sat, 10 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>苹果自动驾驶汽车的开发正在幕后加速并进行测试。</title>
       <link>https://wired.jp/article/apple-ramped-up-autonomous-vehicle-testing-last-year/</link>
-      <description><![CDATA[据透露，苹果正在加速其自动驾驶汽车开发的测试运行，据说最早将于 2023 年在幕后进行。据记录数据显示，试运行距离比去年增加了约四倍。]]></description>
+      <description><![CDATA[据透露，苹果正在加速其自动驾驶汽车开发的测试运行，据说最早将于 2023 年在幕后进行。根据记录数据，试运行距离比去年增加了约四倍。]]></description>
       <guid>https://wired.jp/article/apple-ramped-up-autonomous-vehicle-testing-last-year/</guid>
       <pubDate>Sat, 10 Feb 2024 07:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>针对 Apple Watch 心率应用程序的诉讼以苹果胜诉告终</title>
       <link>https://wired.jp/article/apple-watch-alivecor-lawsuit/</link>
-      <description><![CDATA[苹果因 Apple Watch 所使用的技术专利而遭遇一系列诉讼。一项指控苹果公司非法垄断 Apple Watch 心率应用程序美国市场的反垄断诉讼已被裁定对苹果公司有利。]]></description>
+      <description><![CDATA[苹果因 Apple Watch 所使用的技术专利而遭遇一系列诉讼。一项反垄断诉讼指控苹果非法垄断 Apple Watch 心率应用程序的美国市场，该诉讼已被裁定对苹果有利。]]></description>
       <guid>https://wired.jp/article/apple-watch-alivecor-lawsuit/</guid>
       <pubDate>Thu, 08 Feb 2024 04:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当我要求下一代人工智能语音助手订阅《连线》时，它访问了正确的网页并找到了订阅表格。 Siri 和 Alexa 等虚拟助手如果配备了人工智能，将会变得更加强大。]]></description>
       <guid>https://wired.jp/article/fast-forward-tested-next-gen-ai-assistant/</guid>
       <pubDate>Thu, 08 Feb 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SANU 为“家外之家”提供新选择；共同所有权模式加速再生努力</title>
-      <link>https://wired.jp/article/sanu-2nd-home-co-owners/</link>
-      <description><![CDATA[订阅服务“SANU 第二个家”中添加了一个新选项，它允许您在大自然中租用“第二个家”。 SANU 如何通过共同所有权服务“共同所有者”加速保护丰富的大自然？]]></description>
-      <guid>https://wired.jp/article/sanu-2nd-home-co-owners/</guid>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
