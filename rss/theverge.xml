@@ -4,7 +4,57 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 13 Feb 2024 18:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 21:12:40 GMT</lastBuildDate>
+    <item>
+      <title>Sarah Silverman 对 OpenAI 的诉讼部分被驳回</title>
+      <link>https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+加州法院部分驳回了版权案件包括喜剧演员 Sarah Silverman 在内的多位作者对 OpenAI 提起诉讼，他们声称 OpenAI 的 ChatGPT 盗版了他们的作品。
+针对 OpenAI 的案件结合了 Silverman、Christopher Golden、Richard Kadrey、Paul Tremblay 和 Mona Awad。 （阿瓦德于八月退出诉讼。）它提出了六项索赔：直接侵犯版权；替代侵权；删除版权管理信息违反了《数字千年版权法》(DMCA)；不公平竞争;疏忽;和不当得利。 OpenAI 要求驳回所有指控，但第一个也是主要的投诉是：直接侵犯版权。 
+法院昨天就 OpenAI 的请求作出裁决，驳回除直接侵权索赔之外的所有索赔。在裁决中，法官 Araceli Martínez-Olguín 驳回了对替代版权侵权、违反 DMCA、疏忽和不当得利的指控。法院不相信原告关于不正当竞争行为的非法商业行为和欺诈行为的指控。它维持了不正当竞争的主张，即 OpenAI 没有征求他们的许可将其作品用于商业利润。 
+Martínez-Olguín 法官对几位作者的主张表示怀疑。她不相信 OpenAI 故意删除版权管理信息（例如标题和注册号）的指控，也不相信作者已证明经济损失——因为“原告在起诉书中没有任何地方指控被告复制和分发他们的书的副本。”法院表示，“未来知识产权受到损害的风险”的主张过于投机，无法考虑。 Martínez-Olguín 还强调，原告“并未声称 ChatGPT 的输出包含受版权保护的书籍的直接副本”，并且“必须显示输出与受版权保护的材料之间存在实质性相似性”。作者可以在 3 月 13 日之前提交对其原始投诉的更改。
+虽然 OpenAI 从法院赢得了一些让步，但关于 ChatGPT 直接侵犯作者版权的主要投诉仍然悬而未决。该诉讼中的许多其他索赔都取决于证明直接侵权。 
+Tremblay 于 6 月首次提起诉讼，据路透社报道。 Silverman 的起诉书还将 Meta（通过其大型语言模型 Llama 2）列为被告。这些诉讼指控 OpenAI 非法复制其受版权保护的作品来训练支持 ChatGPT 的大型语言模型。如果被要求总结原告所写的书籍，他们表示 ChatGPT 生成了准确的摘要，他们声称这表明了侵犯版权的意图。 
+OpenAI 面临多起来自作者的版权侵权诉讼，其中包括 作家协会以及乔治·R·R·马丁和约翰·格里沙姆等知名作家提出集体诉讼。 
+《纽约时报》还再次起诉 OpenAI 及其商业合作伙伴微软侵犯版权。
+]]></description>
+      <guid>https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit</guid>
+      <pubDate>Tue, 13 Feb 2024 20:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>迁徙动物面临的灭绝威胁越来越严重</title>
+      <link>https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report</guid>
+      <pubDate>Tue, 13 Feb 2024 20:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 正在获得“记忆”来记住你是谁以及你喜欢什么</title>
+      <link>https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+与 AI 聊天机器人交谈一段时间后会感觉有点像《土拨鼠之日》，因为您无数次告诉它您喜欢电子邮件的格式以及“本周末要做哪些有趣的事情”你已经做了六次了。 OpenAI 正在尝试解决这个问题，并大力个性化自己的机器人。它正在推出ChatGPT“内存”，这将使机器人能够记住以下信息：随着时间的推移，您和您的对话。
+内存以两种方式之一工作。你可以告诉 ChatGPT 记住一些关于你的具体信息：你总是用 Javascript 编写代码，你老板的名字是 Anna，你的孩子对红薯过敏。或者，ChatGPT 可以简单地尝试随着时间的推移获取这些详细信息，在您提出问题并获得答案时存储有关您的信息。无论哪种情况，ChatGPT 的目标都是感觉更加个性化并且更聪明一点，不需要每次都提醒。
+每个自定义 GPT 你使用的也会有它自己的记忆。 OpenAI以Books GPT为例：打开记忆功能，它可以自动记住你已经读过的书以及你最喜欢的类型。就此而言，GPT 存储区中有很多地方您可以想象内存可能有用。一旦 Tutor Me 了解您所知道的内容，它就可以提供更好的长期课程负荷；皮划艇可以直达您最喜欢的航空公司和酒店； GymStreak 可以跟踪您一段时间内的进度。 
+内存是 ChatGPT 迫切需要的功能 - 也是一个雷区
+从很多方面来说，内存都是 ChatGPT 迫切需要的功能。这也是一个完全的雷区。 OpenAI 的策略听起来很像其他互联网服务了解你的方式——他们观察你操作他们的服务，了解你搜索、点击、喜欢或其他什么内容，并随着时间的推移建立你的个人资料。 
+
+
+图片：OpenAI
+记忆中充满了关于你和你的生活的花絮。
+
+但是这种做法当然让很多人感到不舒服！许多用户已经对 OpenAI 收集他们的问题和信件并作为训练数据反馈到系统中以帮助进一步个性化机器人感到警惕； ChatGPT“了解”用户的想法既酷又令人毛骨悚然。
+OpenAI 表示，它让用户控制 ChatGPT 的记忆，并训练系统不记住敏感信息，例如有关您的健康信息。您可以随时询问 ChatGPT 它对您的了解，并告诉机器人忘记某些内容或在设置的新“管理内存”部分中将其删除。 OpenAI 还将临时聊天定位为一种隐身模式：一种在不影响 ChatGPT 对您的记忆的情况下进行快速对话的方式。您也可以在整个帐户中完全关闭它。
+默认情况下，内存将被打开，OpenAI 表示内存将用于未来训练其模型。 （使用 ChatGPT Enterprise 和 Teams 的公司不会将其数据发送回模型。）
+该公司在宣布该功能的博客文章中表示，目前，内存只是一项测试，向“一小部分”用户开放。但很容易想象，无论好坏，这可能会多快成为我们与 ChatGPT 交互方式的核心部分。机器人变得越来越聪明，而且它们很快就能了解我们。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history</guid>
+      <pubDate>Tue, 13 Feb 2024 18:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 的裁员注定了其最好的（非官方）音乐发现资源的失败</title>
       <link>https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource</link>
@@ -33,9 +83,9 @@
       
 图片：苹果
 
-Apple TV Plus 即将推出更多外星人。该流媒体服务已确认其科幻剧入侵将获得第三季，第二季于 10 月结束。关于新一季的细节不多——包括何时开始播出——但制作将于二月的某个时候开始。
-系列创作者西蒙·金伯格 (Simon Kinberg) 在一份声明中表示：“新一季将继续以《入侵》的规模、赌注和推进力为基础，同时保持我们的角色处于领先地位，中心，将他们聚集在一起，希望能给我们带来惊喜，最重要的是感动我们的观众，他们从第一天起就给予了我们难以置信的支持和鼓舞。”
-入侵最初于 2021 年首播； 缓慢启动后，稳步发展为故事，从人类地面角度报道了一次暴力的外星人入侵。 事情在第二季结局中真正开始联系起来。
+Apple TV Plus 即将推出更多外星人。该流媒体服务已确认其科幻剧入侵将获得第三季，第二季于 10 月结束。关于新一季的细节并不多——包括何时开始播出——但制作将于二月的某个时候开始。
+系列创作者西蒙·金伯格 (Simon Kinberg) 在一份声明中表示：“新一季将继续以《入侵》的规模、赌注和推进力为基础，同时保持我们的角色处于领先地位，中心，将他们聚集在一起，希望能够给我们带来惊喜，最重要的是感动我们的观众，他们从第一天起就给予了我们难以置信的支持和鼓舞。”
+入侵最初于 2021 年首播； 缓慢启动后，稳步发展为故事，从人类、地面的角度报道了一场暴力的外星人入侵。 事情在第二季结局中真正开始联系起来。
 该剧也是 Apple TV Plus 上日益丰富的科幻剧阵容的一部分，该剧阵容将随着 《星座》将于 2 月 21 日首播。]]></description>
       <guid>https://www.theverge.com/2024/2/13/24071887/invasion-apple-tv-plus-season-3</guid>
       <pubDate>Tue, 13 Feb 2024 16:42:34 GMT</pubDate>
@@ -62,7 +112,7 @@ Apple TV Plus 即将推出更多外星人。该流媒体服务已确认其科幻
       
 图片：Alex Parkin / The Verge
 
-密钥：它们是如何工作的？不，严肃地说。显然，业界越来越多地押注于万能钥匙作为密码的替代品，这是一种更安全、更用户友好的互联网使用方式。但尽管有这些好处，我们作为普通人类用户应该如何使用密钥并不总是很清楚。你是说这只是我手机上的一个东西？如果我丢失手机怎么办？如果你偷了我的手机怎么办？
+密码：它们是如何工作的？不，严肃地说。显然，业界越来越多地押注于万能钥匙作为密码的替代品，这是一种更安全、更用户友好的互联网使用方式。但尽管有这些好处，我们作为普通人类用户应该如何使用密钥并不总是很清楚。你是说这只是我手机上的一个东西？如果我丢失手机怎么办？如果你偷了我的手机怎么办？
 在这一集The Vergecast中，我们请来了一位专家：Anna Pobletts ，1Password 的无密码（有史以来最好的头衔？）负责人。她长期以来一直致力于所有密码后的事情，并且见过你能想到的每一个用例。她坚信万能钥匙是未来，但也对正确（和不太正确）的入门方式有一些想法。
 
 之后，我们与 The Verge 的  Victoria Song 讨论了可穿戴设备的现状。智能手表比以往任何时候都更好，但智能手表市场却比以往任何时候都小。还记得“可穿戴”何时不仅仅意味着手表吗？那个未来发生了什么？ Vee 对 Fossil 退出市场发表了看法， 智能戒指的兴起 等等。 
@@ -97,52 +147,6 @@ Apple Vision Pro 评测：神奇，直到它不再
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/2/13/24070568/roborock-q5-pro-vacuum-anker-soundcore-liberty-3-earbuds-magsafe-charger-deal-sale</guid>
       <pubDate>Tue, 13 Feb 2024 15:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>毕竟，远程学校停电可能会让纽约的孩子们度过下雪的一天</title>
-      <link>https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：YUKI IWAMURA/法新社，盖蒂图片社
-
-尽管纽约市的学校在预计周二大部分时间覆盖该地区的大雪之前关闭，但该市仍然要求孩子们远程上课。唯一的问题是：学校无法真正让远程学习系统正常运行。
-美国东部时间上午 8:22，纽约市公立学校X 上的帐号表示它“当前遇到需要 IBM 身份验证才能登录的服务问题”。该问题导致学生无法登录 Google 课堂远程上课，据当地新闻电台 PIX11 报道。 
-
-
-更新：IBM 增加了容量，并且正在整个系统中推出改进。⁰⁰上下文：IBM 提供支持来验证 NYCPS 用户登录到 NYCPS 系统（单点登录）并验证用户名和密码。 https://t.co/GkCuFzQAEd— 纽约市公立学校 (@NYCSchools) 2024 年 2 月 13 日
-
-
-系统似乎开始恢复上线，纽约市公立学校仍然发出美国东部时间上午 9:30 左右发布的更新称 IBM“已经增加了容量，并且正在对整个系统进行改进。”正如帖子中指出的，公立学校系统使用 IBM 来“验证”登录系统的用户，因此该市的学校可能没有为同时登录的数千名学生做好适当的准备。
-纽约市的学区已选择在新冠病毒大流行之后，用远程学习取代下雪天——这让学生们非常不满。亚当斯市长 周一告诉 PIX11。 “由于新冠疫情，我们的教育事业出现了倒退。我们不能让年轻人缺课。”如果系统今天早上发挥作用，亚当斯的话可能会产生更持久的影响。
-至少孩子们会尝到下雪的滋味——即使只有几个小时。
-]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071740/nyc-public-school-remote-learning-outage</guid>
-      <pubDate>Tue, 13 Feb 2024 15:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款偷偷摸摸的盗版应用程序在苹果应用商店中流行</title>
-      <link>https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071693/kimi-movie-piracy-app-store-trending-apple-iphone-ios</guid>
-      <pubDate>Tue, 13 Feb 2024 15:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Otter 正在让人工智能机器人成为群聊的一部分</title>
-      <link>https://www.theverge.com/2024/2/13/24071269/otter-generative-ai-meeting-transcripts-group-chat</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Otter 在频道中的 AI 聊天。 |图片：Otter AI
-
-自动转录服务 Otter 正在推出一项新的 AI 功能，让群组可以向聊天机器人询问有关过去会议中发生的情况。它从小组成员参加的所有会议中获取信息，并回答诸如“我们昨天决定了什么？”之类的提示。 
-该功能称为“频道中的人工智能聊天”，它基本上向群组开放了 Otter 的人工智能聊天，而不是现在的单用户体验。频道可以在 Otter 平台中找到，其功能很像 Slack 聊天。他们让人们与经常合作的人交谈并互相分享文字记录。 
-大多数生成式 AI 聊天功能（即搜索用户的议程或电子邮件的类型）通常仅在单个对话中可用，其中只有一个人与 AI 交互。但 Otter 表示，频道中的人工智能聊天可以让多人询问 Otter 的人工智能问题。 
-Otter 希望群聊功能能够让团队更快地合作，因为他们都可以讨论项目以从聊天机器人获取信息，而无需转到其他频道。
-Otter 还扩大了其 AI 聊天机器人可以从中提取数据的会议范围。此前，如果用户在访问特定记录时启动 Otter 的 AI 聊天机器人，聊天机器人只能回答有关该会议或对话的问题。 Otter 现在会将其扩展到用户拥有的所有会议和记录。
-该公司还添加了人工智能对话摘要，即使在会议正在进行时也能识别行动项目。 
-Otter 在过去几年中一直在添加生成式 AI 功能。它去年推出了一个聊天机器人这使得机器人能够为人们“参加”会议。 2022 年，它引入了会议摘要 到成绩单。作为 Otter 用户，我可以确认这些摘要的存在，尽管我尚未在平台上使用任何其他生成式 AI 功能。
-所有 AI 功能都将向所有 Otter 用户开放，包括免费的基本计划。]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071269/otter-generative-ai-meeting-transcripts-group-chat</guid>
-      <pubDate>Tue, 13 Feb 2024 15:06:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
