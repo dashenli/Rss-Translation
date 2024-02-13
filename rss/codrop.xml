@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 09 Feb 2024 18:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 15:15:25 GMT</lastBuildDate>
+    <item>
+      <title>集体#812</title>
+      <link>https://tympanus.net/codrops/collective/collective-812/</link>
+      <description><![CDATA[我是一个创意者。 * 现代客户端路由：导航 API * 不可翻译]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-812/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 15 个最佳网页设计资源和工具（免费和付费）</title>
+      <link>https://tympanus.net/codrops/2024/02/13/web-design-resources/</link>
+      <description><![CDATA[发现最好的免费&amp; 2024 年使用的优质网页设计工具和资源，包括 Brizy、Trafft、Get Illustrations 等。]]></description>
+      <guid>https://tympanus.net/codrops/2024/02/13/web-design-resources/</guid>
+      <pubDate>Tue, 13 Feb 2024 11:43:34 GMT</pubDate>
+    </item>
     <item>
       <title>集体#811</title>
       <link>https://tympanus.net/codrops/collective/collective-811/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>滚动显示 WebGL 图像</title>
       <link>https://tympanus.net/codrops/2024/02/07/on-scroll-revealing-webgl-image-explorations/</link>
-      <description><![CDATA[使用 React Three Fiber 探索 WebGL 中的滚动显示图像效果。]]></description>
+      <description><![CDATA[使用 React Three Fiber 探索滚动显示 WebGL 中图像的效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/02/07/on-scroll-revealing-webgl-image-explorations/</guid>
       <pubDate>Wed, 07 Feb 2024 13:57:51 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Tue, 30 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #55</title>
+      <title>励志网站综述#55</title>
       <link>https://tympanus.net/codrops/2024/01/27/inspirational-websites-roundup-55/</link>
       <description><![CDATA[查看我们 2024 年第一批非常优秀的网站设计。]]></description>
       <guid>https://tympanus.net/codrops/2024/01/27/inspirational-websites-roundup-55/</guid>
       <pubDate>Sat, 27 Jan 2024 15:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#807</title>
-      <link>https://tympanus.net/codrops/collective/collective-807/</link>
-      <description><![CDATA[WebGPU-kit * LoaderShip * Click Spark * 对 React 有点恼火]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-807/</guid>
-      <pubDate>Fri, 26 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有滚动驱动动画的实验性纯 CSS 轮播</title>
-      <link>https://tympanus.net/codrops/2024/01/24/experimental-css-only-carousels-with-scroll-driven-animations/</link>
-      <description><![CDATA[基于 Francesco Zagami 的设计，使用 CSS 滚动驱动动画制作的三个轮播实验。]]></description>
-      <guid>https://tympanus.net/codrops/2024/01/24/experimental-css-only-carousels-with-scroll-driven-animations/</guid>
-      <pubDate>Wed, 24 Jan 2024 13:11:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
