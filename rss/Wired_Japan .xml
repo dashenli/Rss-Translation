@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 14 Feb 2024 03:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 06:18:49 GMT</lastBuildDate>
+    <item>
+      <title>一款可以让你观看“盗版”电影的应用程序已经登陆苹果应用商店。</title>
+      <link>https://wired.jp/article/apple-app-store-kimi-piracy-movies/</link>
+      <description><![CDATA[据透露，一款允许用户观看“盗版”电影的应用程序已进入苹果应用商店。这一事件揭示了盗版内容如何在幕后继续传播、绕过严格打击的现实。]]></description>
+      <guid>https://wired.jp/article/apple-app-store-kimi-piracy-movies/</guid>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>马丁·斯科塞斯超级碗广告创作背后的秘密：除非外星人出现，否则人们不会从智能手机上抬起头来</title>
       <link>https://wired.jp/article/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>随着生成式人工智能及其功能和“副作用”的引入，编程发生了变化</title>
       <link>https://wired.jp/article/fast-forward-ai-rewiring-coders-brains-github-copilot/</link>
-      <description><![CDATA[数据显示，使用 Copilot（GitHub 上提供的编程支持服务）创建的所有代码中有一半是由人工智能生成的。另一方面，人工智能工具目前似乎不太可能取代人类开发人员。]]></description>
+      <description><![CDATA[数据显示，使用 GitHub 上提供的编程支持服务 Copilot 创建的代码中有一半现在是由人工智能生成的。另一方面，人工智能工具目前似乎不太可能取代人类开发人员。]]></description>
       <guid>https://wired.jp/article/fast-forward-ai-rewiring-coders-brains-github-copilot/</guid>
       <pubDate>Wed, 14 Feb 2024 01:00:00 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>一家不知名的中国制造商在极寒的“电动汽车续航里程竞赛”中击败了特斯拉，夺得了第一名。</title>
       <link>https://wired.jp/article/tesla-hiphi-ev-range-crown/</link>
-      <description><![CDATA[挪威汽车协会在夏季和冬季举办电动汽车“续航里程赛”。 2020年之后，特斯拉占据了市场主导地位，但今年冬天寒冷的环境中表现最好的却是一家名不见经传的中国厂商。]]></description>
+      <description><![CDATA[挪威汽车协会在夏季和冬季举办电动汽车“续航距离竞赛”。 2020年之后，特斯拉占据了市场主导地位，但今年冬天寒冷的环境中表现最好的却是一家名不见经传的中国厂商。]]></description>
       <guid>https://wired.jp/article/tesla-hiphi-ev-range-crown/</guid>
       <pubDate>Tue, 13 Feb 2024 07:00:00 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>未来 30 年的初创公司和工具：SZ MEMBERSHIP 上阅读次数最多的 5 篇文章（2024 年 1 月）</title>
       <link>https://wired.jp/article/5-most-read-stories-membership-january-2024/</link>
-      <description><![CDATA[我们将从 2024 年 1 月发布的 WIRED 会员服务“SZ MEMBERSHIP”日文版文章中，介绍阅读量最高的 5 个故事，例如在欧洲备受关注的初创公司和未来工具等。]]></description>
+      <description><![CDATA[我们将从 2024 年 1 月发布的 WIRED 会员服务“SZ MEMBERSHIP”日文版文章中，介绍阅读量最高的 5 个故事，例如在欧洲备受关注的初创公司和未来的工具。]]></description>
       <guid>https://wired.jp/article/5-most-read-stories-membership-january-2024/</guid>
       <pubDate>Mon, 12 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -64,14 +71,14 @@
     <item>
       <title>热泵作为面向未来的解决方案：2024 年 1 月阅读次数最多的 10 个故事</title>
       <link>https://wired.jp/article/10-most-read-stories-january-2024/</link>
-      <description><![CDATA[以下是今年 1 月 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关世界最大技术贸易展 CES 2024 和热泵的主题。]]></description>
+      <description><![CDATA[以下是今年 1 月份在 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关全球最大技术贸易展 CES 2024 和热泵的主题。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-january-2024/</guid>
       <pubDate>Sun, 11 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Facebook诞生已经20年了。 “儿童安全”问题尚未得到解决。</title>
       <link>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</link>
-      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
+      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
       <guid>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</guid>
       <pubDate>Sat, 10 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>坂本一隆 (Kazutaka Sakamoto) 所看到的内容创作的现状和未来，坂本一隆是 Netflix 源自日本的全球热门剧集的幕后推动者。</title>
       <link>https://wired.jp/article/netflix-japan-sakamoto-interview/</link>
-      <description><![CDATA[来自日本的 Netflix 原创作品纷纷风靡全球。这背后的人是 Netflix 内容副总裁坂本一隆 (Kazutaka Sakamoto)。我们询问了坂本是如何在 Netflix 聚集顶尖人才并创造出“制胜公式”的。]]></description>
+      <description><![CDATA[来自日本的 Netflix 原创作品纷纷风靡全球。这背后的人是 Netflix 内容副总裁坂本一隆 (Kazutaka Sakamoto)。我们询问了坂本，他是如何在 Netflix 聚集顶尖人才并创造出“制胜公式”的。]]></description>
       <guid>https://wired.jp/article/netflix-japan-sakamoto-interview/</guid>
       <pubDate>Sat, 10 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌已经开始提供“Gemini Advanced”来与“ChatGPT Plus”竞争，“ChatGPT Plus”是 OpenAI 对话式人工智能的高性能版本。让我解释一下如何使用它。]]></description>
       <guid>https://wired.jp/article/how-to-use-google-gemini-advanced-ai-chatbot/</guid>
       <pubDate>Fri, 09 Feb 2024 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌已将其对话式人工智能更新为 Gemini，并正在为搜索之后的下一步做好准备。</title>
-      <link>https://wired.jp/article/google-prepares-for-a-future-where-search-isnt-king/</link>
-      <description><![CDATA[谷歌已将其对话式人工智能“Bard”更名为“Gemini”。首席执行官桑达尔·皮查伊(Sundar Pichai)表示，此举旨在为一个无需使用搜索引擎即可处理任务的时代做好准备。]]></description>
-      <guid>https://wired.jp/article/google-prepares-for-a-future-where-search-isnt-king/</guid>
-      <pubDate>Fri, 09 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
