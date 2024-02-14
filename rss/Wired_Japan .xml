@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 14 Feb 2024 00:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 03:16:30 GMT</lastBuildDate>
+    <item>
+      <title>马丁·斯科塞斯超级碗广告创作背后的秘密：除非外星人出现，否则人们不会从智能手机上抬起头来</title>
+      <link>https://wired.jp/article/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/</link>
+      <description><![CDATA[传奇电影导演马丁·斯科塞斯为 2024 年超级碗制作了广告。他在接受《连线》采访时谈到了 30 秒讲故事、与女儿一起使用 TikTok、电影中的人工智能，以及他是否会获得 Vision Pro。]]></description>
+      <guid>https://wired.jp/article/martin-scorsese-interview-super-bowl-squarespace-commercial-alien-invasion/</guid>
+      <pubDate>Wed, 14 Feb 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着生成式人工智能及其功能和“副作用”的引入，编程发生了变化</title>
+      <link>https://wired.jp/article/fast-forward-ai-rewiring-coders-brains-github-copilot/</link>
+      <description><![CDATA[数据显示，使用 Copilot（GitHub 上提供的编程支持服务）创建的所有代码中有一半是由人工智能生成的。另一方面，人工智能工具目前似乎不太可能取代人类开发人员。]]></description>
+      <guid>https://wired.jp/article/fast-forward-ai-rewiring-coders-brains-github-copilot/</guid>
+      <pubDate>Wed, 14 Feb 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年值得关注的 18 款电动汽车</title>
       <link>https://wired.jp/article/best-evs-2024/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[谷歌已将其对话式人工智能“Bard”更名为“Gemini”。首席执行官桑达尔·皮查伊(Sundar Pichai)表示，此举旨在为一个无需使用搜索引擎即可处理任务的时代做好准备。]]></description>
       <guid>https://wired.jp/article/google-prepares-for-a-future-where-search-isnt-king/</guid>
       <pubDate>Fri, 09 Feb 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌会用“Gemini”更新其对话式AI并打入ChatGPT创造的市场吗？</title>
-      <link>https://wired.jp/article/google-rebrands-ai-chatbot-gemini/</link>
-      <description><![CDATA[谷歌已将其对话式人工智能“Bard”更名为“Gemini”，并开始提供付费服务，包括新的高性能版本“Gemini Advanced”。通过按月提供更多功能的套餐，该公司旨在打入 ChatGPT 开辟的市场。]]></description>
-      <guid>https://wired.jp/article/google-rebrands-ai-chatbot-gemini/</guid>
-      <pubDate>Thu, 08 Feb 2024 23:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与当地社区一起探索艺术作为“异托邦”的潜力：2024年札幌国际艺术节回顾</title>
-      <link>https://wired.jp/article/siaf2024-review/</link>
-      <description><![CDATA[札幌国际艺术节（SIAF2024）正在札幌的博物馆和公园举行，这些博物馆和公园都被白雪覆盖。来自10多个国家的约80位艺术家聚集在小川英明导演（Ars Electronica未来实验室共同代表/艺术家）的带领下，询问他们如何用自己的想象力回应音乐节的主题“LAST SNOW”？我会告诉你我的印象。]]></description>
-      <guid>https://wired.jp/article/siaf2024-review/</guid>
-      <pubDate>Thu, 08 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
