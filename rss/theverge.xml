@@ -4,9 +4,111 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Feb 2024 15:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 18:16:16 GMT</lastBuildDate>
     <item>
-      <title>Downpour 是一款新应用，可将您的照片变成游戏</title>
+      <title>苹果最新的原型人工智能工具可以使用文本描述为图像制作动画</title>
+      <link>https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions</link>
+      <description><![CDATA[&lt;图&gt;
+      
+输入到 Keyframer 中的 SVG 图像和文本描述会自动转换为动画代码。 |图片：苹果
+
+Apple 研究人员推出了 Keyframer，这是一款原型生成式 AI 动画工具，用户可以通过描述如何制作动画来为 2D 图像添加运动。 
+在 2 月 8 日发表的研究论文中，Apple 表示大型语言模型 (LLM) 是“尽管它们在其他创意媒介（如写作和图像生成）中展现出了潜力，但在动画领域“尚未得到充分开发”。由法学硕士支持的 Keyframer 工具被宣传为如何应用该技术的一个示例。
+利用 OpenAI 的 GPT4 作为其基本模型，Keyframer 可以采用可扩展矢量图形 (SVG) 文件（一种可以在不影响质量的情况下调整大小的插图格式）并生成 CSS 代码，以根据文字提示。您只需上传图像，在提示框中输入“让星星闪烁”之类的内容，然后点击生成即可。研究论文中提供的示例展示了土星插图如何在背景颜色之间转换，或显示星星在前景中淡入淡出。
+
+
+图片：苹果
+没有可用的视频，但这些逐帧比较是 Keyframer 功能的示例。
+
+用户可以在一个批次中制作多个动画设计，并在单独的窗口中调整颜色代码和动画持续时间等属性。无需任何编码经验，因为 Keyframer 会自动将这些更改转换为 CSS，但代码本身也是完全可编辑的。这种基于描述的方法比其他形式的人工智能生成动画简单得多，后者通常需要多个不同的应用程序和一些编码经验。
+
+
+图片：苹果
+Keyframer 的编辑工具相当有限，但至少您不需要了解代码即可使用它。
+
+一位参与苹果研究的专业动画设计师表示：“我内心有些担心这些工具会取代工作，因为潜力如此之大。但我认为了解它们并将它们用作动画师 - 这只是我们工具箱中的另一个工具。这只会提高我们的技能。这真是令人兴奋的事情。”
+仍然有很长的路要走。 Keyframer 尚未公开，Apple 研究论文中的用户研究仅包括 13 人，他们在试验该工具时只能使用两个简单的、预先选择的 SVG 图像。 
+Apple 在论文中还小心地提到了其局限性，指出 Keyframer 专注于基于 Web 的动画，例如加载序列、数据可视化和动画过渡。相比之下，您在电影和视频游戏中看到的动画类型过于复杂，无法仅使用描述来制作 - 至少目前是这样。
+Keyframer 是 Apple 近几个月宣布的几项生成式 AI 创新之一。去年 12 月，该公司推出了Human Gaussian Splats (HUGS)，它可以从视频剪辑中创建动画化的人类头像。上周，苹果还发布了 MGIE&lt; /a&gt;，一种新的 AI 模型，可以使用基于文本的描述来编辑图像。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions</guid>
+      <pubDate>Wed, 14 Feb 2024 16:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>漫威找到了神奇四侠</title>
+      <link>https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：漫威影业
+
+漫威计划如何推出神奇四侠 对于 MCU 来说还不清楚，但是当里德·理查兹出现时，他看起来会很像佩德罗·帕斯卡。
+以及关于其的公告《雷电》电影将于 2025 年 5 月 2 日上映，漫威今天透露，它终于找到了扮演神奇四侠的明星。尽管约翰·克拉辛斯基已经在《疯狂多元宇宙中的奇异博士》中扮演了里德·理查兹的化身，但帕斯卡将在《神奇四侠》中扮演这个角色，他将在其中扮演这个角色。凡妮莎·柯比（Vanessa Kirby）饰演苏·斯托姆（Sue Storm）/隐形女侠，约瑟夫·奎恩（Joseph Quinn）饰演约翰尼·斯托姆（Johnny Storm）/霹雳火，埃邦·莫斯-巴克拉克（Ebon Moss-Bachrach）饰演本·格林/石头人。
+就在帕斯卡的角色看似确定后几天就传来了选角消息在 SAG-AFTRA 个人资料中泄露和《神奇四侠》导演马特·沙克曼 (Matt Shakman) 的 Instagram 帖子，现已删除。目前还没有关于新神奇四侠将在即将上映的电影中对阵谁的消息，但我们预计该片将于 2025 年 7 月 25 日上映。]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal</guid>
+      <pubDate>Wed, 14 Feb 2024 16:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星 Galaxy S24 的首次更新可以让一切变得更加明亮</title>
+      <link>https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Jon Porter / The Verge
+
+Galaxy S24 手机将获得更多自定义选项，包括如何查看屏幕、拍照以及可能实时翻译电话。 
+三星增加了切换 Galaxy S24 型号“鲜艳度”的功能，以便用户可以选择更清晰的显示颜色。该公司表示，此次更新创造了“更加自然和可定制的观看体验”。 
+S24的相机也进行了升级，增强了变焦功能、人像模式、夜间摄影以及使用后置摄像头进行视频拍摄。 
+“根据您的反馈，通过即将推出的更新，我们的目标是通过先进的硬件和软件集成工作，在设备显示屏和相机上提供增强的选项和体验，”该公司在&lt; href=&quot;https://news.samsung.com/global/samsung-announces-galaxy-s24-series-update-offering-galaxy-users-more-choices&quot;&gt;声明。三星表示将于本月开始推出这些功能。 
+S24 的屏幕和摄像头已经显示了一些与之前型号相比的改进，包括纵向模式下的前景模糊。 
+该公司还将推出实时通话翻译功能。 Galaxy S24 是首批支持实时通话翻译功能的手机之一银河人工智能。三星并未详细说明此次更新，但表示“将继续发展 Galaxy 技术”，以实现无障碍通话的目标。 
+]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation</guid>
+      <pubDate>Wed, 14 Feb 2024 16:33:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 对人脸计算机的远大愿景可能比苹果更好</title>
+      <link>https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr</guid>
+      <pubDate>Wed, 14 Feb 2024 16:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是您现在可以获得的最佳 AirPods 优惠</title>
+      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
+      <pubDate>Wed, 14 Feb 2024 15:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini Advanced 与 Google 合作时给人印象最深刻</title>
+      <link>https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots</guid>
+      <pubDate>Wed, 14 Feb 2024 15:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果似乎正在破坏欧盟的 iPhone 网络应用程序</title>
+      <link>https://www.theverge.com/2024/2/14/24072764/apple-progressive-web-apps-eu-ios-17-4</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Apple 似乎将关闭在欧盟地区直接从 iPhone 主屏幕使用网络应用程序的功能。在 iOS 17.4 的前两个测试版中，欧盟内部对渐进式 Web 应用程序的支持似乎被打破，但今天开发者 Maximiliano Firtman 在 X 上的一篇帖子中表示，网络应用程序在昨天发布的第三个测试版中仍然处于关闭状态。 “目前，这是一个被故意禁用的功能，”Firtman 写道。
+现在，网络应用程序不再在全屏窗口中打开，而是在网络浏览器中打开，使它们更像快捷方式。 开发者Mysk发现，当你第一次选择Web应用程序时，会触发弹出窗口要求在您的默认网络浏览器中打开该应用程序。应用程序打开后，当您使用它时，浏览器的地址栏和工具栏仍保留在网络应用程序的底部。 
+
+
+iOS 17.4 beta 3 刚刚发布。 PWA 在欧盟仍然不起作用。发行说明没有提及为什么对欧盟用户禁用此主要功能。此外，多个“书签”与 Safari 共享同一会话，但清除 Safari 数据并不会清除状态pic.twitter.com/oDY8ABe7Ol— Mysk (@mysk_co) 2024 年 2 月 13 日
+
+
+正如MacRumors所述，在 Safari 中打开的网络应用程序不再提供通知或长期本地存储，导致一些用户在已安装的应用程序中遇到数据丢失和通知损坏的情况。
+iOS 17.4 包括针对欧盟用户的重大更改，这是 Apple 遵守《数字市场法案》计划的一部分。此次更新将带来 侧载和备用应用商店到 iOS 和 让第三方浏览器使用自己的引擎。
+Apple 此前曾将安装网络应用程序的功能视为 App Store 的替代方案，尽管网络应用程序的功能远不及此。由于现在将出现真正的替代应用程序商店，因此苹果可能会切断使用其他类似应用程序的体验的能力 - 这是它无法控制且无法从中赚钱的体验。苹果尚未回应 The Verge 的置评请求。
+开发人员开始注意到网络应用程序在最初的测试版中不再运行iOS 17.4 本月早些时候发布。损坏的网络应用程序当时似乎是一个小故障，但现在这个损坏的功能已经进入 iOS 17.4 的第三个测试版，这种可能性似乎不太可能。 iOS 17.4 的最终版本预计将在 3 月 6 日 DMA 开始执行之前发布。]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24072764/apple-progressive-web-apps-eu-ios-17-4</guid>
+      <pubDate>Wed, 14 Feb 2024 15:25:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Downpour 是一款可以将照片变成游戏的新应用</title>
       <link>https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android</guid>
@@ -51,85 +153,6 @@ Slack AI 将尝试根据之前的消息回答您的问题。
 Slack 表示，其使用的大型语言模型 (LLM) 直接托管在 Slack 内，并补充说“客户数据仍然是孤立的”，并且不会“用于为其他客户提供服务”。该公司还表示，不会使用客户数据来培训法学硕士。目前，Slack AI 仅提供美国和英国英语版本，对其他语言的支持和计划即将推出。]]></description>
       <guid>https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap</guid>
       <pubDate>Wed, 14 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行互联网的文本文件</title>
-      <link>https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders</guid>
-      <pubDate>Wed, 14 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo 的隐私浏览器添加了内置密码同步</title>
-      <link>https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption</link>
-      <description><![CDATA[&lt;图&gt;
-      DuckDuckGo 添加了新的“同步和同步”功能。其隐私优先浏览器的“备份”功能将在您的所有设备上保持密码、书签和收藏夹不变，而无需设置帐户。该公司表示，这与其一贯的说法一致，即不会跟踪您或收集您的数据。  数据是端到端加密的，并且“无法随时访问您的数据”。 
-DuckDuckGo 写道，数据应该“在大多数 Windows、Mac、Android 和 iPhone 设备上”同步，包括从 Chrome 等浏览器导入的数据。设置同步涉及扫描二维码（如果您使用的是移动设备）或输入字母数字代码（如果您使用的是计算机）。 
-
-
-图片：DuckDuckGo
-DuckDuckGo 使用恢复代码，以防您丢失设备。
-
-
-根据DuckDuckGo，您还可以设置单设备备份和同步。与身份验证应用程序一样，浏览器会为您提供一个带有恢复代码的 PDF，您可以使用该恢复代码创建加密密钥，以便在您的设备发生问题时获取您的数据。
-这解决了从 Chrome 等出于自身目的使用您的数据的浏览器切换到 DuckDuckGo 浏览器的主要障碍之一。说你想要使用一款尊重隐私的浏览器很容易，但密码仍然是最重要的，而且互联网的安全状况要求每个浏览器都是完全唯一的。 密码管理器很有帮助，但通过此更新，您不再需要连接如果您希望同步密码，请使用 DuckDuckGo 的外部密码管理器（或手动跟踪您的密码）。
-不过，DuckDuckGo 仍然不支持密钥。鉴于他们在不久的将来真正有机会更换密码 ，如果该公司想要向谷歌、微软或苹果等巨头的浏览器发起可行的挑战，它仍然有很多工作要做。]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption</guid>
-      <pubDate>Wed, 14 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 参与绘制全球太空甲烷排放地图的任务</title>
-      <link>https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change</guid>
-      <pubDate>Wed, 14 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软和 OpenAI 表示黑客正在使用 ChatGPT 来改进网络攻击</title>
-      <link>https://www.theverge.com/2024/2/14/24072706/microsoft-openai-cyberattack-tools-ai-chatgpt</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24072706/microsoft-openai-cyberattack-tools-ai-chatgpt</guid>
-      <pubDate>Wed, 14 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着游戏机进入“生命周期的最后阶段”，索尼未能实现 PS5 销售目标</title>
-      <link>https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings</link>
-      <description><![CDATA[&lt;图&gt;
-      
-最初的 PS5 与去年更薄的重新设计。 |摄影：Antonio G. Di Benedetto / The Verge
-
-索尼目前预计，与之前的预测相比，截至 3 月 31 日的 2023 财年 PS5 主机销量将减少 400 万台，彭博社报告。该修订是今天第三季度收益发布的一部分索尼将 PS5 的销量预期从 2500 万台下调至 2100 万台。
-虽然索尼第三季度 PS5 销量有所增长，从去年同期的 630 万台增至 820 万台，但彭博社指出，这大约是 100 万台低于之前的预测。尽管发布了大型第一方游戏《蜘蛛侠 2》、第三方游戏销量强劲，并且推出了 11 月推出更轻薄的 PS5。 
-“我们预计 PS5 硬件的年销售速度将从下一财年开始下降” 
-第三季度，索尼的游戏收入较去年同期增长 16%，达到 1.4 万亿日元（约合 93 亿美元），但营业收入下降 26%，至 861 亿日元（约 5.72 亿美元）归因于截至 12 月 31 日的第三季度的促销活动。
-据索尼称，随着游戏机四周年的临近，该公司计划将盈利能力置于销量之上。 “展望未来，PS5 将进入其生命周期的后期，”索尼高级副总裁 Naomi Matsuoka 在彭博社报道的评论中表示。 “因此，我们将更加重视盈利能力和销售额之间的平衡。因此，我们预计 PS5 硬件的年销售速度将从下财年开始下降。”索尼补充说，它没有计划在下一财年发布“任何新的主要现有特许经营游戏”。
-到 2024 年，主机市场的竞争只会变得更加激烈。今年晚些时候，微软预计将发布更新的 Xbox Series S 和 代号为 Brooklin 的无盘 Xbox Series X 存储量是现有型号的两倍，而任天堂预计还将发布后续作品&lt; /a&gt; 到它已有七年历史的 Switch 控制台。索尼也可能会推出自己的新硬件，传闻将于 2024 年底推出 PS5 Pro .]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24072692/sony-ps5-forecast-cut-q3-2023-earnings</guid>
-      <pubDate>Wed, 14 Feb 2024 09:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在试用 Vision Pro 后，马克·扎克伯格表示 Quest 3“是更好的产品”</title>
-      <link>https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3</guid>
-      <pubDate>Wed, 14 Feb 2024 00:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国专利局确认人工智能不能持有专利</title>
-      <link>https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-美国专利商标局 (USPTO) 坚持认为，人工智能系统不能被指定为发明人，但人类可以在创造专利发明的过程中使用人工智能工具，如果这样做就必须披露。
-该机构在一系列“聆听”巡演后发布了最新指南收集公众反馈。它指出，虽然人工智能系统和其他“非自然人”不能在专利申请中被列为发明人，但“自然人使用人工智能系统并不排除自然人有资格成为发明人。”寻求专利的人必须披露他们是否在发明过程中使用了人工智能，就像美国专利商标局要求所有申请人列出做出决定所需的所有重要信息一样。
-但是，为了能够注册专利，使用人工智能的人必须对发明的构思做出重大贡献。报告称，一个人只是要求人工智能系统创造一些东西并监督它，并不能使他们成为发明家。该办公室表示，仅仅向人工智能系统提出问题或“认可并欣赏”其输出作为一项优秀发明的人不能声称该专利享有盛誉。
-“然而，人们根据特定问题构建提示以从人工智能系统中引出特定解决方案的方式可能会显示出重大贡献，”美国专利商标局表示。 
-该办公室还表示，“维持对人工智能系统的‘智力统治’本身并不能使一个人成为发明家”——因此，仅仅监督或拥有一个能够创造事物的人工智能并不能让一个人成为发明家。意味着您可以为它们申请专利。
-2020 年，美国专利商标局 (USPTO) 在驳回研究员斯蒂芬·塞勒 (Stephen Thaler) 的请愿后裁定，只有“自然人”才能申请专利。泰勒在专利申请中作为发明人添加了他创建的人工智能系统 DABUS。美国法院维持专利局的决定。另一家联邦法院裁定人工智能系统不能被授予版权，遵循 Thaler 的单独应用程序，涉及人工智能生成的图像。
-美国专利商标局和美国版权局进行了一系列公众咨询，以制定在专利和版权申请中处理人工智能的新指南。]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance</guid>
-      <pubDate>Tue, 13 Feb 2024 22:30:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
