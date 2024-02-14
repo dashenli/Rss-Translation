@@ -4,7 +4,86 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Feb 2024 12:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 15:13:06 GMT</lastBuildDate>
+    <item>
+      <title>Downpour 是一款新应用，可将您的照片变成游戏</title>
+      <link>https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24071829/downpour-game-development-app-date-iphone-android</guid>
+      <pubDate>Wed, 14 Feb 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化能力主义</title>
+      <link>https://www.theverge.com/24066641/disability-ableism-ai-census-qalys</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24066641/disability-ableism-ai-census-qalys</guid>
+      <pubDate>Wed, 14 Feb 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack AI 就在这里，让您可以赶上冗长的话题和未读的消息</title>
+      <link>https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Slack
+
+Slack 正在推出一套内置 AI 功能，可提供话题摘要和频道回顾，同时还允许您提出有关工作中发生的情况的问题。工作场所管理平台首先开始测试Slack AI 去年，但现在它作为 Slack Enterprise 用户的付费附加组件推出。
+如果您在某人标记您的特定话题上落后了，您可以使用 Slack AI 获取对话的完整摘要，以及谁说了些什么。还有一种方法可以回顾频道中正在进行的讨论。
+
+
+图片：Slack
+您可以接收未读消息或特定时间范围内消息的摘要。
+
+您可以选择频道右上角的星形图标，让 Slack AI 仅汇总未读消息、过去 7 天内弹出的消息或在某个时间范围内发送的消息你的选择。当您外出几天并且需要了解工作中发生的事情时，这似乎特别有用。
+Slack AI 还可以让您询问有关您一直在从事的特定项目或工作场所政策的问题，假设 Slack 中提到了这些问题。该人工智能工具将使用“相关消息”来帮助您了解您想知道的任何主题，甚至可以用于定义工作场所 Slack 上使用的首字母缩略词。
+
+
+图片：Slack
+Slack AI 将尝试根据之前的消息回答您的问题。
+
+该平台的人工智能也将与插入 Slack 的其他一些应用程序集成，允许您执行一些操作，例如在链接预览中获取 Notion 文档的摘要，或询问有关 Box 中存储的内容的问题。 
+
+除了这一系列功能之外，Slack 表示它正在构建更多工具来总结信息并确定信息的优先级。它还创建了一个新的摘要功能，如果您没有时间滚动浏览数十条消息，该功能将提供您选择的频道的亮点。 Slack 还致力于 Einstein Copilot 的本机集成，它的人工智能聊天机器人可以为你给同事写消息。
+
+
+图片：Slack
+这是即将推出的摘要功能的早期介绍，这似乎非常有用。
+
+Slack 表示，其使用的大型语言模型 (LLM) 直接托管在 Slack 内，并补充说“客户数据仍然是孤立的”，并且不会“用于为其他客户提供服务”。该公司还表示，不会使用客户数据来培训法学硕士。目前，Slack AI 仅提供美国和英国英语版本，对其他语言的支持和计划即将推出。]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24070590/slack-ai-launch-thread-summaries-search-recap</guid>
+      <pubDate>Wed, 14 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行互联网的文本文件</title>
+      <link>https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders</guid>
+      <pubDate>Wed, 14 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo 的隐私浏览器添加了内置密码同步</title>
+      <link>https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption</link>
+      <description><![CDATA[&lt;图&gt;
+      DuckDuckGo 添加了新的“同步和同步”功能。其隐私优先浏览器的“备份”功能将在您的所有设备上保持密码、书签和收藏夹不变，而无需设置帐户。该公司表示，这与其一贯的说法一致，即不会跟踪您或收集您的数据。  数据是端到端加密的，并且“无法随时访问您的数据”。 
+DuckDuckGo 写道，数据应该“在大多数 Windows、Mac、Android 和 iPhone 设备上”同步，包括从 Chrome 等浏览器导入的数据。设置同步涉及扫描二维码（如果您使用的是移动设备）或输入字母数字代码（如果您使用的是计算机）。 
+
+
+图片：DuckDuckGo
+DuckDuckGo 使用恢复代码，以防您丢失设备。
+
+
+根据DuckDuckGo，您还可以设置单设备备份和同步。与身份验证应用程序一样，浏览器会为您提供一个带有恢复代码的 PDF，您可以使用该恢复代码创建加密密钥，以便在您的设备发生问题时获取您的数据。
+这解决了从 Chrome 等出于自身目的使用您的数据的浏览器切换到 DuckDuckGo 浏览器的主要障碍之一。说你想要使用一款尊重隐私的浏览器很容易，但密码仍然是最重要的，而且互联网的安全状况要求每个浏览器都是完全唯一的。 密码管理器很有帮助，但通过此更新，您不再需要连接如果您希望同步密码，请使用 DuckDuckGo 的外部密码管理器（或手动跟踪您的密码）。
+不过，DuckDuckGo 仍然不支持密钥。鉴于他们在不久的将来真正有机会更换密码 ，如果该公司想要向谷歌、微软或苹果等巨头的浏览器发起可行的挑战，它仍然有很多工作要做。]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption</guid>
+      <pubDate>Wed, 14 Feb 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 参与绘制全球太空甲烷排放地图的任务</title>
+      <link>https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change</guid>
+      <pubDate>Wed, 14 Feb 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微软和 OpenAI 表示黑客正在使用 ChatGPT 来改进网络攻击</title>
       <link>https://www.theverge.com/2024/2/14/24072706/microsoft-openai-cyberattack-tools-ai-chatgpt</link>
@@ -51,90 +130,6 @@
 美国专利商标局和美国版权局进行了一系列公众咨询，以制定在专利和版权申请中处理人工智能的新指南。]]></description>
       <guid>https://www.theverge.com/2024/2/13/24072241/ai-patent-us-office-guidance</guid>
       <pubDate>Tue, 13 Feb 2024 22:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰勒·斯威夫特 (Taylor Swift) 现在是播客影响者</title>
-      <link>https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24072282/taylor-swift-travis-kelce-podcast-new-heights-meghan-markle-spotify-trevor-noah</guid>
-      <pubDate>Tue, 13 Feb 2024 22:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛可能收购 Vizio 以赢得廉价电视之战</title>
-      <link>https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Jeffrey Greenberg/Universal Images Group via Getty Images
-
-据 来自《华尔街日报》的报道。与现有的 Onn 自家品牌相比，这笔交易将使该零售连锁店在与 Roku 和亚马逊的价格实惠的智能电视竞争时处于更有利的地位。它还将使沃尔玛能够访问 Vizio 智能电视平台收集的广泛客户数据，以及通过提供个性化广告和削减订阅费而创造的收入流。 
-在将 Roku 操作系统安装到其他电视上多年之后，Roku 去年终于推出了自己的智能电视系列，并加大力度计划于今年春天发布更昂贵的 Mini LED 电视。与此同时，亚马逊正在稳步建设推出 Fire TV 系列，同时还在电视操作系统上展开广告。
-
-
-图片：Roku
-沃尔玛可能会发现自己正在与 Roku 的智能电视竞争。
-
-沃尔玛与一家广告公司合作&lt; /a&gt; 去年在联网电视上提供个性化广告，并与 Roku 合作 2022 年在电视上提供可购物广告。
-此外，正如《华尔街日报》指出的那样，沃尔玛可以利用其对 Vizio 的所有权来销售商店电视上显示的广告。该公司已经对展示的电视品牌进行此操作在其商店内，甚至在自助结账通道上展示广告。 Vizio 和沃尔玛拒绝对该报道发表评论。
-]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor</guid>
-      <pubDate>Tue, 13 Feb 2024 22:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sarah Silverman 对 OpenAI 的诉讼部分被驳回</title>
-      <link>https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-加州法院部分驳回了版权案件包括喜剧演员 Sarah Silverman 在内的多位作者对 OpenAI 提起诉讼，他们声称 OpenAI 的 ChatGPT 盗版了他们的作品。
-针对 OpenAI 的案件结合了 Silverman、Christopher Golden、Richard Kadrey、Paul Tremblay 和 Mona Awad。 （阿瓦德于八月退出诉讼。）它提出了六项索赔：直接侵犯版权；替代侵权；删除版权管理信息违反了《数字千年版权法》(DMCA)；不公平竞争;疏忽;和不当得利。 OpenAI 要求驳回所有指控，但第一个也是主要的投诉是：直接侵犯版权。 
-法院昨天就 OpenAI 的请求作出裁决，驳回除直接侵权索赔之外的所有索赔。在裁决中，法官 Araceli Martínez-Olguín 驳回了对替代版权侵权、违反 DMCA、疏忽和不当得利的指控。法院不相信原告关于不正当竞争行为的非法商业行为和欺诈行为的指控。它维持了不正当竞争的主张，即 OpenAI 没有征求他们的许可将其作品用于商业利润。 
-Martínez-Olguín 法官对几位作者的主张表示怀疑。她不相信 OpenAI 故意删除版权管理信息（例如标题和注册号）的指控，也不相信作者已证明经济损失——因为“原告在起诉书中没有任何地方指控被告复制和分发他们的书的副本。”法院表示，“未来知识产权受到损害的风险”的主张过于投机，无法考虑。 Martínez-Olguín 还强调，原告“并未声称 ChatGPT 的输出包含受版权保护的书籍的直接副本”，并且“必须显示输出与受版权保护的材料之间存在实质性相似性”。作者可以在 3 月 13 日之前提交对其原始投诉的更改。
-虽然 OpenAI 从法院赢得了一些让步，但关于 ChatGPT 直接侵犯作者版权的主要投诉仍然悬而未决。该诉讼中的许多其他索赔都取决于证明直接侵权。 
-Tremblay 于 6 月首次提起诉讼，据路透社报道。 Silverman 的起诉书还将 Meta（通过其大型语言模型 Llama 2）列为被告。这些诉讼指控 OpenAI 非法复制其受版权保护的作品来训练支持 ChatGPT 的大型语言模型。如果被要求总结原告所写的书籍，他们表示 ChatGPT 生成了准确的摘要，他们声称这表明了侵犯版权的意图。 
-OpenAI 面临多起来自作者的版权侵权诉讼，其中包括 作家协会以及乔治·R·R·马丁和约翰·格里沙姆等知名作家提出集体诉讼。 
-《纽约时报》还再次起诉 OpenAI 及其商业合作伙伴微软侵犯版权。
-美国东部时间晚上 7:20 更正：该报道的副标题错误地指出作者无法证明侵犯版权。我们对这个错误感到遗憾。]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24072131/sarah-silverman-paul-tremblay-openai-chatgpt-copyright-lawsuit</guid>
-      <pubDate>Tue, 13 Feb 2024 20:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>迁徙动物面临的灭绝威胁越来越严重</title>
-      <link>https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071713/migration-animals-extinction-united-nation-report</guid>
-      <pubDate>Tue, 13 Feb 2024 20:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 正在获得“记忆”来记住你是谁以及你喜欢什么</title>
-      <link>https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-与 AI 聊天机器人交谈一段时间后会感觉有点像《土拨鼠之日》，因为您无数次告诉它您喜欢电子邮件的格式以及“本周末要做哪些有趣的事情”你已经做了六次了。 OpenAI 正在尝试解决这个问题，并大力个性化自己的机器人。它正在推出ChatGPT“内存”，这将使机器人能够记住以下信息：随着时间的推移，您和您的对话。
-内存以两种方式之一工作。你可以告诉 ChatGPT 记住一些关于你的具体信息：你总是用 Javascript 编写代码，你老板的名字是 Anna，你的孩子对红薯过敏。或者，ChatGPT 可以简单地尝试随着时间的推移获取这些详细信息，在您提出问题并获得答案时存储有关您的信息。无论哪种情况，ChatGPT 的目标都是感觉更加个性化并且更聪明一点，不需要每次都提醒。
-每个自定义 GPT 你使用的也会有它自己的记忆。 OpenAI以Books GPT为例：打开记忆功能，它可以自动记住你已经读过的书以及你最喜欢的类型。就此而言，GPT 存储区中有很多地方您可以想象内存可能有用。一旦 Tutor Me 了解您所知道的内容，它就可以提供更好的长期课程负荷；皮划艇可以直达您最喜欢的航空公司和酒店； GymStreak 可以跟踪您一段时间内的进度。 
-内存是 ChatGPT 迫切需要的功能 - 也是一个雷区
-从很多方面来说，内存都是 ChatGPT 迫切需要的功能。这也是一个完全的雷区。 OpenAI 的策略听起来很像其他互联网服务了解你的方式——他们观察你操作他们的服务，了解你搜索、点击、喜欢或其他什么内容，并随着时间的推移建立你的个人资料。 
-
-
-图片：OpenAI
-记忆中充满了关于你和你的生活的花絮。
-
-但是这种做法当然让很多人感到不舒服！许多用户已经对 OpenAI 收集他们的问题和信件并作为训练数据反馈到系统中以帮助进一步个性化机器人感到警惕； ChatGPT“了解”用户的想法既酷又令人毛骨悚然。
-OpenAI 表示，它让用户控制 ChatGPT 的记忆，并训练系统不记住敏感信息，例如有关您的健康信息。您可以随时询问 ChatGPT 它对您的了解，并告诉机器人忘记某些内容或在设置的新“管理内存”部分中将其删除。 OpenAI 还将临时聊天定位为一种隐身模式：一种在不影响 ChatGPT 对您的记忆的情况下进行快速对话的方式。您也可以在整个帐户中完全关闭它。
-默认情况下，内存将被打开，OpenAI 表示内存将用于未来训练其模型。 （使用 ChatGPT Enterprise 和 Teams 的公司不会将其数据发送回模型。）
-该公司在宣布该功能的博客文章中表示，目前，内存只是一项测试，向“一小部分”用户开放。但很容易想象，无论好坏，这可能会多快成为我们与 ChatGPT 交互方式的核心部分。机器人变得越来越聪明，而且它们很快就能了解我们。 ]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071106/chatgpt-memory-openai-ai-chatbot-history</guid>
-      <pubDate>Tue, 13 Feb 2024 18:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 的裁员注定了其最好的（非官方）音乐发现资源的失败</title>
-      <link>https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/13/24071916/every-noise-at-once-spotify-layoffs-music-discovery-resource</guid>
-      <pubDate>Tue, 13 Feb 2024 17:58:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
