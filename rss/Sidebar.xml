@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 09:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 12:24:40 GMT</lastBuildDate>
+    <item>
+      <title>为网络编写代码</title>
+      <link>https://mrmr.io/apple</link>
+      <description><![CDATA[苹果不需要开发者。
+]]></description>
+      <guid>https://mrmr.io/apple</guid>
+      <pubDate>Wed, 14 Feb 2024 08:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代客户端路由：导航 API</title>
+      <link>https://developer.chrome.com/docs/web-platform/navigation-api</link>
+      <description><![CDATA[了解导航 API，这是一个新的 API，它添加了改进的功能来构建单页应用程序。
+]]></description>
+      <guid>https://developer.chrome.com/docs/web-platform/navigation-api</guid>
+      <pubDate>Wed, 14 Feb 2024 08:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计 genAI 增强功能</title>
+      <link>https://uxdesign.cc/designing-genai-enhanced-features-6ccf42260828</link>
+      <description><![CDATA[通过智能内容增强和个性化提升用户体验。
+]]></description>
+      <guid>https://uxdesign.cc/designing-genai-enhanced-features-6ccf42260828</guid>
+      <pubDate>Wed, 14 Feb 2024 08:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>儿童设计实用指南</title>
+      <link>https://www.smashingmagazine.com/2024/02/practical-guide-design-children/</link>
+      <description><![CDATA[如何针对 3-12 岁的儿童进行设计，深入了解用户行为、家长考虑因素以及实用的用户体验指南。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/02/practical-guide-design-children/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将 Div 居中</title>
+      <link>https://www.joshwcomeau.com/css/center-a-div/</link>
+      <description><![CDATA[过去，将元素居中是 CSS 中最棘手的事情之一。 
+]]></description>
+      <guid>https://www.joshwcomeau.com/css/center-a-div/</guid>
+      <pubDate>Wed, 14 Feb 2024 08:22:53 GMT</pubDate>
+    </item>
     <item>
       <title>开发者对苹果新的应用商店规则进行公开反抗</title>
       <link>https://www.wired.com/story/developers-revolt-apple-dma/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://hey.georgie.nu/avatar-initials/</guid>
       <pubDate>Mon, 12 Feb 2024 17:56:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>对话框的基本用法和需要注意的问题</title>
-      <link>https://frontendmasters.com/blog/basic-dialog-usage-and-gotchas-to-watch-for/</link>
-      <description><![CDATA[HTML 中的元素是巨大的。我们现在已经得到了全面的支持，因此使用它是一个明智的计划。
-]]></description>
-      <guid>https://frontendmasters.com/blog/basic-dialog-usage-and-gotchas-to-watch-for/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>《科学美国人》品牌重塑</title>
-      <link>https://www.pentagram.com/work/scientific-american</link>
-      <description><![CDATA[重新设计美国最古老的连续出版杂志，重点关注科学研究和思想。
-]]></description>
-      <guid>https://www.pentagram.com/work/scientific-american</guid>
-      <pubDate>Fri, 09 Feb 2024 08:21:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monotype 2024 年字体趋势报告</title>
-      <link>https://www.printmag.com/design-news/monotype-type-trends-report-2024/</link>
-      <description><![CDATA[令人垂涎的 2024 年字体趋势报告即将出版。
-]]></description>
-      <guid>https://www.printmag.com/design-news/monotype-type-trends-report-2024/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 制作了一款 AI 图像工具，可让您通过描述图像进行编辑</title>
-      <link>https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model</link>
-      <description><![CDATA[它可以通过一些简单的说明调整照片大小。
-]]></description>
-      <guid>https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model</guid>
-      <pubDate>Fri, 09 Feb 2024 08:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>对全球设计体系的思考</title>
-      <link>https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/</link>
-      <description><![CDATA[戴夫和我刚刚让布拉德在 ShopTalk Show 上谈论他对全球设计系统的想法。 
-]]></description>
-      <guid>https://chriscoyier.net/2024/02/05/thoughts-on-a-global-design-system/</guid>
-      <pubDate>Fri, 09 Feb 2024 07:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
