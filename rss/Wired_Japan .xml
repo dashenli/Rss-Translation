@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 14 Feb 2024 06:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 09:15:23 GMT</lastBuildDate>
+    <item>
+      <title>“特斯拉标准”已成为北美电动汽车充电事实上的标准。如果Stellantis也被采用的话会发生什么？</title>
+      <link>https://wired.jp/article/tesla-wins-ev-charging-now-what/</link>
+      <description><![CDATA[拥有菲亚特和克莱斯勒等品牌的大型汽车制造商 Stellantis 宣布将遵守特斯拉电动汽车充电标准。特斯拉的充电标准实际上将成为北美的标准，但在创建真正优越的充电网络之前仍然存在挑战。]]></description>
+      <guid>https://wired.jp/article/tesla-wins-ev-charging-now-what/</guid>
+      <pubDate>Wed, 14 Feb 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一款可以让你观看“盗版”电影的应用程序已经登陆苹果应用商店。</title>
       <link>https://wired.jp/article/apple-app-store-kimi-piracy-movies/</link>
@@ -71,14 +78,14 @@
     <item>
       <title>热泵作为面向未来的解决方案：2024 年 1 月阅读次数最多的 10 个故事</title>
       <link>https://wired.jp/article/10-most-read-stories-january-2024/</link>
-      <description><![CDATA[以下是今年 1 月份在 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关全球最大技术贸易展 CES 2024 和热泵的主题。]]></description>
+      <description><![CDATA[我们将从今年 1 月在《WIRED.jp》上发表的文章中，介绍阅读量最高的 10 个故事，其中包括有关世界最大技术贸易展览会 CES 2024 和热泵的主题。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-january-2024/</guid>
       <pubDate>Sun, 11 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Facebook诞生已经20年了。 “儿童安全”问题尚未得到解决。</title>
       <link>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</link>
-      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
+      <description><![CDATA[马克·扎克伯格将在美国参议员的围追堵截下庆祝 Facebook 成立 20 周年。尽管如此，规范社交媒体的新法律距离出台仍有很长的路要走。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
       <guid>https://wired.jp/article/plaintext-20-years-facebook-lawmakers/</guid>
       <pubDate>Sat, 10 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>坂本一隆 (Kazutaka Sakamoto) 所看到的内容创作的现状和未来，坂本一隆是 Netflix 源自日本的全球热门剧集的幕后推动者。</title>
       <link>https://wired.jp/article/netflix-japan-sakamoto-interview/</link>
-      <description><![CDATA[来自日本的 Netflix 原创作品纷纷风靡全球。这背后的人是 Netflix 内容副总裁坂本一隆 (Kazutaka Sakamoto)。我们询问了坂本，他是如何在 Netflix 聚集顶尖人才并创造出“制胜公式”的。]]></description>
+      <description><![CDATA[来自日本的 Netflix 原创作品纷纷风靡全球。这背后的人是 Netflix 内容副总裁坂本一隆 (Kazutaka Sakamoto)。我们询问了坂本是如何在 Netflix 聚集顶尖人才并创造出“制胜公式”的。]]></description>
       <guid>https://wired.jp/article/netflix-japan-sakamoto-interview/</guid>
       <pubDate>Sat, 10 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一项研究显示，到 2023 年，盗版音乐网站的访问量将增加 13%。最常见的是访问从 YouTube 视频中提取和下载歌曲的网站。]]></description>
       <guid>https://wired.jp/article/music-piracy-way-up/</guid>
       <pubDate>Fri, 09 Feb 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌进化对话式人工智能“Gemini Advanced”的内容以及开始使用它的步骤</title>
-      <link>https://wired.jp/article/how-to-use-google-gemini-advanced-ai-chatbot/</link>
-      <description><![CDATA[谷歌已经开始提供“Gemini Advanced”来与“ChatGPT Plus”竞争，“ChatGPT Plus”是 OpenAI 对话式人工智能的高性能版本。让我解释一下如何使用它。]]></description>
-      <guid>https://wired.jp/article/how-to-use-google-gemini-advanced-ai-chatbot/</guid>
-      <pubDate>Fri, 09 Feb 2024 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
