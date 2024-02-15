@@ -4,7 +4,15 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 15 Feb 2024 09:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 12:24:35 GMT</lastBuildDate>
+    <item>
+      <title>高清晰度 CSS 颜色指南</title>
+      <link>https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide</link>
+      <description><![CDATA[CSS Color 4 为网络带来了广色域颜色工具和功能：更多颜色、操作功能和更好的渐变。
+]]></description>
+      <guid>https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide</guid>
+      <pubDate>Thu, 15 Feb 2024 11:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>量化138场国歌表演的魅力</title>
       <link>https://pudding.cool/2024/02/anthems/</link>
@@ -32,7 +40,7 @@
     <item>
       <title>特斯勒定律</title>
       <link>https://lawsofux.com/articles/2024/teslers-law/</link>
-      <description><![CDATA[了解固有的复杂性，并深入了解设计师如何有效地管理它。
+      <description><![CDATA[了解固有的复杂性，并深入了解设计师如何有效管理它。
 ]]></description>
       <guid>https://lawsofux.com/articles/2024/teslers-law/</guid>
       <pubDate>Thu, 15 Feb 2024 06:26:35 GMT</pubDate>
@@ -78,7 +86,7 @@
       <pubDate>Wed, 14 Feb 2024 08:22:53 GMT</pubDate>
     </item>
     <item>
-      <title>开发者对苹果新的应用商店规则进行公开反抗</title>
+      <title>开发者对苹果新的应用商店规则公开反抗</title>
       <link>https://www.wired.com/story/developers-revolt-apple-dma/</link>
       <description><![CDATA[欧洲应用程序制造商情绪激动，将苹果比作“黑手党”，并向立法者施加压力，要求其采取行动。
 ]]></description>
@@ -116,14 +124,6 @@
 ]]></description>
       <guid>https://jarango.com/2024/02/04/shaping-the-future-of-design/</guid>
       <pubDate>Tue, 13 Feb 2024 07:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要禁用表单控件</title>
-      <link>https://adrianroselli.com/2024/02/dont-disable-form-controls.html</link>
-      <description><![CDATA[这只是另一个可用性和可访问性专家，告诉作者不要做他们继续做的事情。 
-]]></description>
-      <guid>https://adrianroselli.com/2024/02/dont-disable-form-controls.html</guid>
-      <pubDate>Mon, 12 Feb 2024 18:02:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
