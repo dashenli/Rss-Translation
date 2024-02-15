@@ -4,7 +4,95 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Feb 2024 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:54:28 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 现在的价值超过亚马逊和 Alphabet</title>
+      <link>https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Nvidia 的市值于周三超越了 Alphabet，仅一天后就超越了亚马逊。彭博社报道称，这家芯片制造商的股票为 目前价值 1.83 万亿美元，超过 Google 所有者 1.82 美元的市值一根头发。这使得 Nvidia 成为人工智能热潮之后全球第四大最有价值的公司，仅次于微软（$3.04T）、苹果（$2.84T）和沙特阿美公司（Saudi Aramco）。该公司目前正在制造 H100 芯片，为当今使用的大多数法学硕士提供支持，包括 OpenAI 的 ChatGPT 以及来自 Microsoft、Meta 和 Amazon 的大多数 AI 项目。 
+全球最大的科技公司参与了AI芯片军备竞赛，他们每个人都希望创建自己的GPU芯片来推翻Nvidia的虚拟垄断。具有讽刺意味的是，正如彭博社指出的那样，英伟达人工智能芯片销量最高的公司也来自这些公司。这家总部位于圣克拉拉的公司即将发布 卓越的人工智能芯片 H200，比其前身具有更大的内存容量和带宽。本月早些时候，路透社报道称 Nvidia 已向一个致力于帮助其他公司的部门投资 300 亿美元制造自己的定制人工智能芯片。这意味着，即使公司选择构建自己的人工智能芯片，英伟达也可以从中分得一杯羹。 
+与此同时，英特尔和 AMD 等直接竞争对手正在开发自己的产品强大的芯片，可与 H200 相媲美。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24073384/nvidia-market-cap-passes-amazon-alphabet</guid>
+      <pubDate>Thu, 15 Feb 2024 00:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stability AI 试图通过新的图像生成 AI 模型保持领先地位</title>
+      <link>https://www.theverge.com/2024/2/14/24073253/stablity-ai-image-generation-stable-cascade-diffusion-model</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Stabie Cascade 艺术拼贴 |稳定性人工智能
+
+Stability AI 最新的图像生成模型是 Stable Cascade 承诺更快、更高效比其行业领先的前身稳定扩散功能更强大，稳定扩散是许多其他文本到图像生成人工智能工具的基础。 
+Stable Cascade 可以生成照片并提供其创建的确切图像的变体，或尝试提高现有图片的分辨率。其他文本到图像编辑功能包括修复和修复（模型将仅填充编辑图像的特定部分）以及精明边缘（用户可以仅使用现有图片的边缘来制作新照片）。 
+
+
+图片：稳定人工智能
+根据提示生成的稳定级联图像“拟人化企鹅坐在咖啡馆里读书、喝咖啡的电影照片。”
+
+新模型在 GitHub 上可供研究人员使用，但不可用于商业用途，并带来更多选择即使像谷歌甚至苹果这样的公司也发布了自己的图像生成模型。 
+与 Stability 的旗舰 Stable Diffusion 模型不同，Stable Cascade 不是一种大型语言模型 - 它是依赖于 Würstchen 架构，第一阶段（阶段 C）将文本提示压缩为潜在代码（或更小的代码片段），然后传递到阶段 A 和 B 以解码请求。 
+
+
+稳定性人工智能
+Stable Cascade 与其他模型的推理时间比较
+
+将请求分解为更小的位可以压缩请求，从而需要更少的内存（以及更少的训练时间在那些难以找到的 GPU 上）并且运行速度更快。同时“在快速对齐和美观质量方面”表现更好。创建图像大约需要 10 秒，而当前使用的 SDXL 模型需要 22 秒。 
+Stability AI 帮助普及了稳定扩散方法，并且也成为多起诉讼的主题，指控 Stable Diffusion 在未经权利持有者许可的情况下使用受版权保护的数据进行训练 - Getty Images 计划在英国针对 Stability AI 提起诉讼&lt; a href=&quot;https://www.theverge.com/2023/12/4/23988403/getty-lawsuit-stability-ai-copyright-infringement&quot;&gt;12 月接受审判。它开始通过订阅提供商业许可证12 月，该公司表示这是为其研究提供资金所必需的。 
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24073253/stablity-ai-image-generation-stable-cascade-diffusion-model</guid>
+      <pubDate>Wed, 14 Feb 2024 23:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您已经可以获得的最佳总统日优惠</title>
+      <link>https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24072881/best-presidents-day-sales-deals-2024-apple-tvs-gaming-headphones-smartwatches</guid>
+      <pubDate>Wed, 14 Feb 2024 23:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>据称恐怖分子正在 X 上购买蓝色支票</title>
+      <link>https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24073146/x-twitter-blue-check-hezbollah-terrorist-groups-sanctions</guid>
+      <pubDate>Wed, 14 Feb 2024 22:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉的最新更新针对寒冷天气问题</title>
+      <link>https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+特斯拉在其最新的车辆软件更新（2024.2.6）中推出了两项更改，这些更改似乎专门针对 1 月份极端寒冷天气期间导致汽车无法行驶的电池问题。其中一项新功能将告诉特斯拉驾驶员，他们的电池需要多长时间才能足够热以进行直流快速充电，而另一项功能将自动为充电端口除霜。
+根据更新的发行说明发布者不是Tesla 应用程序，当驾驶员使用汽车的导航功能到达充电站时，充电端口将自动开始升温。充电端口冻结可能是今年早些时候，在芝加哥的一场极端寒流中，司机们陷入了困境，特别是如果司机忘记遵循特斯拉的应对极端寒冷的建议。 
+
+另一个问题可能只是他们的汽车电池还没有准备好快速充电，因此有一个计时器告诉您需要多长时间才能让您的汽车准备好接受超级充电器便利。 
+不是特斯拉应用程序指出旧款特斯拉汽车会根据外部因素（包括驾驶历史或外部温度）调整电池续航里程估计，但无论出于何种原因，这都没有被纳入其中较新的型号。但通过此更新，续航里程估算将考虑电池的寿命。鉴于特斯拉过去其续航里程预估存在问题 ，这可能是朝着正确方向迈出的一步。 ]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24073215/tesla-update-battery-range-wear-supercharger-extreme-cold</guid>
+      <pubDate>Wed, 14 Feb 2024 22:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Build 2024 将于 5 月 21 日开始</title>
+      <link>https://www.theverge.com/2024/2/14/24073220/microsoft-build-event-schedule-may-21</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Microsoft 推文表示其年度开发者构建大会将于 5 月 21 日至 23 日在西雅图举行。该公告告诉每个人都期待听到有关“人工智能、副驾驶等”的最新消息。
+2023 年活动 标志着回到现场部分，今年的活动有望在西雅图和网上举行。去年，微软加大了人工智能的力度，现在包括为开发人员提供的工具，例如 Copilot Studio 和 Windows AI Studio，同时其人工智能野心 围绕 Windows 和 Microsoft 365 肯定会再次成为焦点。
+尚未发布今年聚会的活动时间表，该页面目前邀请潜在与会者签名向上了解注册何时开放。在消费者方面，微软即将告诉我们更多有关 Xbox 未来的明天，我们期待听到更多有关新 Surface 硬件的信息 在春季。
+
+
+❤️ Microsoft Build 热爱开发者！这里提醒您即将到来的 OOO，以确保您不会错过所有开发人员的喜爱！ https://t.co/BJU6UgBElm #MSBuild pic.twitter.com/q9yRJfyWIe— Microsoft 开发人员 (@msdev ) 2024 年 2 月 14 日
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/14/24073220/microsoft-build-event-schedule-may-21</guid>
+      <pubDate>Wed, 14 Feb 2024 21:25:25 GMT</pubDate>
+    </item>
     <item>
       <title>微软是时候打造 Xbox Steam Deck 了</title>
       <link>https://www.theverge.com/24073201/microsoft-xbox-handheld-steam-deck-editorial</link>
@@ -32,87 +120,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24073087/madame-web-review</guid>
       <pubDate>Wed, 14 Feb 2024 19:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果最新的原型人工智能工具可以使用文本描述为图像制作动画</title>
-      <link>https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions</link>
-      <description><![CDATA[&lt;图&gt;
-      
-输入到 Keyframer 中的 SVG 图像和文本描述会自动转换为动画代码。 |图片：苹果
-
-Apple 研究人员推出了 Keyframer，这是一款原型生成式 AI 动画工具，用户可以通过描述如何制作动画来为 2D 图像添加运动。 
-在 2 月 8 日发表的研究论文中，Apple 表示大型语言模型 (LLM) 是“尽管它们在其他创意媒介（如写作和图像生成）中展现出了潜力，但在动画领域“尚未得到充分开发”。由法学硕士支持的 Keyframer 工具被宣传为如何应用该技术的一个示例。
-利用 OpenAI 的 GPT4 作为其基本模型，Keyframer 可以采用可扩展矢量图形 (SVG) 文件（一种可以在不影响质量的情况下调整大小的插图格式）并生成 CSS 代码，以根据文字提示。您只需上传图像，在提示框中输入“让星星闪烁”之类的内容，然后点击生成即可。研究论文中提供的示例展示了土星插图如何在背景颜色之间转换，或显示星星在前景中淡入淡出。
-
-
-图片：苹果
-没有可用的视频，但这些逐帧比较是 Keyframer 功能的示例。
-
-用户可以在一个批次中制作多个动画设计，并在单独的窗口中调整颜色代码和动画持续时间等属性。无需任何编码经验，因为 Keyframer 会自动将这些更改转换为 CSS，但代码本身也是完全可编辑的。这种基于描述的方法比其他形式的人工智能生成动画简单得多，后者通常需要多个不同的应用程序和一些编码经验。
-
-
-图片：苹果
-Keyframer 的编辑工具相当有限，但至少您不需要了解代码即可使用它。
-
-一位参与苹果研究的专业动画设计师表示：“我内心有些担心这些工具会取代工作，因为潜力如此之大。但我认为了解它们并将它们用作动画师 - 这只是我们工具箱中的另一个工具。这只会提高我们的技能。这真是令人兴奋的事情。”
-仍然有很长的路要走。 Keyframer 尚未公开，Apple 研究论文中的用户研究仅包括 13 人，他们在试验该工具时只能使用两个简单的、预先选择的 SVG 图像。 
-Apple 在论文中还小心地提到了其局限性，指出 Keyframer 专注于基于 Web 的动画，例如加载序列、数据可视化和动画过渡。相比之下，您在电影和视频游戏中看到的动画类型过于复杂，无法仅使用描述来制作 - 至少目前是这样。
-Keyframer 是 Apple 近几个月宣布的几项生成式 AI 创新之一。去年 12 月，该公司推出了Human Gaussian Splats (HUGS)，它可以从视频剪辑中创建动画化的人类头像。上周，苹果还发布了 MGIE&lt; /a&gt;，一种新的 AI 模型，可以使用基于文本的描述来编辑图像。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24072917/apple-keyframer-ai-animation-tool-2d-images-text-descriptions</guid>
-      <pubDate>Wed, 14 Feb 2024 16:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>漫威找到了神奇四侠</title>
-      <link>https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：漫威影业
-
-漫威计划如何推出神奇四侠 对于 MCU 来说还不清楚，但是当里德·理查兹出现时，他看起来会很像佩德罗·帕斯卡。
-以及关于其的公告《雷电》电影将于 2025 年 5 月 2 日上映，漫威今天透露，它终于找到了扮演神奇四侠的明星。尽管约翰·克拉辛斯基已经在《疯狂多元宇宙中的奇异博士》中扮演了里德·理查兹的化身，但帕斯卡将在《神奇四侠》中扮演这个角色，他将在其中扮演这个角色。凡妮莎·柯比（Vanessa Kirby）饰演苏·斯托姆（Sue Storm）/隐形女侠，约瑟夫·奎恩（Joseph Quinn）饰演约翰尼·斯托姆（Johnny Storm）/霹雳火，埃邦·莫斯-巴克拉克（Ebon Moss-Bachrach）饰演本·格林/石头人。
-就在帕斯卡的角色看似确定后几天就传来了选角消息在 SAG-AFTRA 个人资料中泄露和《神奇四侠》导演马特·沙克曼 (Matt Shakman) 的 Instagram 帖子，现已删除。目前还没有关于新神奇四侠将在即将上映的电影中对阵谁的消息，但我们预计该片将于 2025 年 7 月 25 日上映。]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24072910/marvel-studios-fantastic-four-cast-pedro-pascal</guid>
-      <pubDate>Wed, 14 Feb 2024 16:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星 Galaxy S24 的首次更新可以让一切变得更加明亮</title>
-      <link>https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Jon Porter / The Verge
-
-Galaxy S24 手机将获得更多自定义选项，包括如何查看屏幕、拍照以及可能实时翻译电话。 
-三星增加了切换 Galaxy S24 型号“鲜艳度”的功能，以便用户可以选择更清晰的显示颜色。该公司表示，此次更新创造了“更加自然和可定制的观看体验”。 
-S24的相机也进行了升级，增强了变焦功能、人像模式、夜间摄影以及使用后置摄像头进行视频拍摄。 
-“根据您的反馈，通过即将推出的更新，我们的目标是通过先进的硬件和软件集成工作，在设备显示屏和相机上提供增强的选项和体验，”该公司在&lt; href=&quot;https://news.samsung.com/global/samsung-announces-galaxy-s24-series-update-offering-galaxy-users-more-choices&quot;&gt;声明。三星表示将于本月开始推出这些功能。 
-S24 的屏幕和摄像头已经显示了一些与之前型号相比的改进，包括纵向模式下的前景模糊。 
-该公司还将推出实时通话翻译功能。 Galaxy S24 是首批支持实时通话翻译功能的手机之一银河人工智能。三星并未详细说明此次更新，但表示“将继续发展 Galaxy 技术”，以实现无障碍通话的目标。 
-]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24072905/samsung-galaxy-s24-updates-display-screen-call-translation</guid>
-      <pubDate>Wed, 14 Feb 2024 16:33:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 对人脸计算机的远大愿景可能比苹果更好</title>
-      <link>https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr</guid>
-      <pubDate>Wed, 14 Feb 2024 16:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是您现在可以获得的最佳 AirPods 优惠</title>
-      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
-      <pubDate>Wed, 14 Feb 2024 15:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini Advanced 与 Google 合作时给人印象最深刻</title>
-      <link>https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/14/24066552/google-openai-gemini-ultra-chatgpt-chatbots</guid>
-      <pubDate>Wed, 14 Feb 2024 15:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
