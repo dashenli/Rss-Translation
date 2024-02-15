@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 14 Feb 2024 12:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:19:11 GMT</lastBuildDate>
+    <item>
+      <title>反射卷轴效果</title>
+      <link>https://tympanus.net/codrops/2024/02/15/reflection-scroll-effect/</link>
+      <description><![CDATA[装饰性反射效果，我们模拟反射页面并将其与内容一起滚动。]]></description>
+      <guid>https://tympanus.net/codrops/2024/02/15/reflection-scroll-effect/</guid>
+      <pubDate>Thu, 15 Feb 2024 14:33:49 GMT</pubDate>
+    </item>
     <item>
       <title>集体#812</title>
       <link>https://tympanus.net/codrops/collective/collective-812/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Heat.js * 对话框 * 平台倾斜 * TheJam.dev 2024]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-808/</guid>
       <pubDate>Tue, 30 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站综述#55</title>
-      <link>https://tympanus.net/codrops/2024/01/27/inspirational-websites-roundup-55/</link>
-      <description><![CDATA[查看我们 2024 年第一批非常优秀的网站设计。]]></description>
-      <guid>https://tympanus.net/codrops/2024/01/27/inspirational-websites-roundup-55/</guid>
-      <pubDate>Sat, 27 Jan 2024 15:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
