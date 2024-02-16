@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 16 Feb 2024 03:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 06:19:00 GMT</lastBuildDate>
+    <item>
+      <title>作为世界模拟器的视频生成模型</title>
+      <link>https://openai.com/research/video-generation-models-as-world-simulators</link>
+      <description><![CDATA[我们探索视频数据生成模型的大规模训练。 
+]]></description>
+      <guid>https://openai.com/research/video-generation-models-as-world-simulators</guid>
+      <pubDate>Fri, 16 Feb 2024 06:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>第 59 届年度野生动物摄影师大赛获奖者</title>
+      <link>https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest</link>
+      <description><![CDATA[真是太棒了：第 59 届年度野生动物摄影师大赛的获奖作品。
+]]></description>
+      <guid>https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest</guid>
+      <pubDate>Fri, 16 Feb 2024 06:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的下一代型号：Gemini 1.5</title>
+      <link>https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/</link>
+      <description><![CDATA[Gemini 1.5 显着增强了性能，在跨模式的长上下文理解方面取得了突破。
+]]></description>
+      <guid>https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/</guid>
+      <pubDate>Fri, 16 Feb 2024 05:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sora：从文本创建视频</title>
+      <link>https://openai.com/sora</link>
+      <description><![CDATA[Sora 是一个人工智能模型，可以根据文本指令创建现实且富有想象力的场景。
+]]></description>
+      <guid>https://openai.com/sora</guid>
+      <pubDate>Fri, 16 Feb 2024 05:52:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级碗广告的剖析</title>
+      <link>https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/</link>
+      <description><![CDATA[学习应用程序 Duolingo 厚颜无耻的五秒广告如何在拥挤的领域中脱颖而出。
+]]></description>
+      <guid>https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/</guid>
+      <pubDate>Fri, 16 Feb 2024 05:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>高清晰度 CSS 颜色指南</title>
       <link>https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.joshwcomeau.com/css/center-a-div/</guid>
       <pubDate>Wed, 14 Feb 2024 08:22:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者对苹果新的应用商店规则进行公开反抗</title>
-      <link>https://www.wired.com/story/developers-revolt-apple-dma/</link>
-      <description><![CDATA[欧洲应用程序制造商情绪激动，将苹果比作“黑手党”，并向立法者施加压力，要求其采取行动。
-]]></description>
-      <guid>https://www.wired.com/story/developers-revolt-apple-dma/</guid>
-      <pubDate>Tue, 13 Feb 2024 07:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有艺术都是某物的复制品</title>
-      <link>https://www.chrbutler.com/2024-02-04</link>
-      <description><![CDATA[今天早上我和我的大孩子观看了一部关于艺术家和工程师 Peter Vogel 的短片。
-]]></description>
-      <guid>https://www.chrbutler.com/2024-02-04</guid>
-      <pubDate>Tue, 13 Feb 2024 07:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建完美的图标</title>
-      <link>https://blog.streamlinehq.com/evaluating-icons/</link>
-      <description><![CDATA[一个细致的系统，可确保您的图标完全可识别、一致且清晰。
-]]></description>
-      <guid>https://blog.streamlinehq.com/evaluating-icons/</guid>
-      <pubDate>Tue, 13 Feb 2024 07:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>故事书 8 测试版</title>
-      <link>https://storybook.js.org/blog/storybook-8-beta/</link>
-      <description><![CDATA[主要性能和兼容性改进。
-]]></description>
-      <guid>https://storybook.js.org/blog/storybook-8-beta/</guid>
-      <pubDate>Tue, 13 Feb 2024 07:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>塑造设计的未来</title>
-      <link>https://jarango.com/2024/02/04/shaping-the-future-of-design/</link>
-      <description><![CDATA[如何在普遍的变化中保持相关性。
-]]></description>
-      <guid>https://jarango.com/2024/02/04/shaping-the-future-of-design/</guid>
-      <pubDate>Tue, 13 Feb 2024 07:51:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

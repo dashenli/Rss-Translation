@@ -4,11 +4,18 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 16 Feb 2024 03:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 06:17:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI新工具“Sora”可创建高清视频，将生成式AI推向新维度</title>
+      <link>https://wired.jp/article/openai-sora-generative-ai-video/</link>
+      <description><![CDATA[OpenAI 发布了一款名为“Sora”的新工具，可以使用文本指令生成高清视频。如果我们真的能够达到示例中所示的质量，这可能会成为通过指挥人工智能模型神奇地制作电影的时代的漫长倒计时的开始。]]></description>
+      <guid>https://wired.jp/article/openai-sora-generative-ai-video/</guid>
+      <pubDate>Fri, 16 Feb 2024 03:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>这部电影没有“情节”：天才阿里·阿斯特讲述的“Bo害怕”的本质</title>
       <link>https://wired.jp/article/beau-is-afraid-ari-aster-interview/</link>
-      <description><![CDATA[凭借《仲夏夜惊魂》成名的阿里·艾斯特执导的最新电影《博害怕》已在日本上映。我们询问了阿斯特对这部电影的看法，他说这是一次“脱离电影传统结构的小说式故事讲述”的尝试。]]></description>
+      <description><![CDATA[阿里·艾斯特 (Ari Aster) 的最新电影《Bo 害怕》已在日本上映，该片由曾凭借《仲夏夜惊魂》一举成名的阿里·艾斯特 (Ari Aster) 执导。我们询问了阿斯特对这部电影的看法，他说这是一次“像小说一样讲故事，打破电影传统结构”的尝试。]]></description>
       <guid>https://wired.jp/article/beau-is-afraid-ari-aster-interview/</guid>
       <pubDate>Fri, 16 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 15 Feb 2024 23:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>WhatsApp 的目标是实现消息应用程序之间的互操作性，并应对其面临的挑战</title>
+      <title>WhatsApp 的目标是实现消息应用程序之间的互操作性，并解决其面临的挑战</title>
       <link>https://wired.jp/article/whatsapp-interoperability-messaging/</link>
       <description><![CDATA[由于欧盟立法的变化，WhatsApp 和 Messenger 将不可避免地开始与其他消息应用程序互操作。然而，由于安全和隐私问题，与合作伙伴就未来运营进行协调似乎会很困难。]]></description>
       <guid>https://wired.jp/article/whatsapp-interoperability-messaging/</guid>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 15 Feb 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 已开始使用生成的人工智能来对抗虚假内容。还错过了什么？</title>
+      <title>Meta 已开始使用生成的人工智能来对抗虚假内容。什么仍然被忽视？</title>
       <link>https://wired.jp/article/meta-crack-down-ai-generated-fakes/</link>
-      <description><![CDATA[Meta 宣布，发布在 Facebook、Instagram 和 Threads 上的一些生成的 AI 图像将带有水印。但到目前为止，这项工作仅限于使用元合作公司的工具创建的项目。]]></description>
+      <description><![CDATA[Meta 宣布将开始为发布到 Facebook、Instagram 和 Threads 上的一些生成的人工智能图像添加水印标签。但到目前为止，这项工作仅限于使用元合作公司的工具创建的项目。]]></description>
       <guid>https://wired.jp/article/meta-crack-down-ai-generated-fakes/</guid>
       <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 14 Feb 2024 23:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>九段理惠《东京同情塔》回顾 | AI与人类共同创造的文学能否战胜“轻言”泛滥？</title>
+      <title>九段理惠《东京同情塔》回顾 | AI与人类共同创作的文学能否战胜“轻言”泛滥？</title>
       <link>https://wired.jp/article/book-review-tokyo-to-dojo-to/</link>
       <description><![CDATA[与AI合作出版的小说史上首次荣获芥川奖。但我们冷静一下。获奖作品《东京慈悲塔》是一部什么样的文学作品？通过解开其中的文字，我们应该能够抓住人工智能与人类对话的核心。]]></description>
       <guid>https://wired.jp/article/book-review-tokyo-to-dojo-to/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[挪威汽车协会在夏季和冬季举办电动汽车“续航里程赛”。 2020年之后，特斯拉占据了市场主导地位，但今年冬天寒冷的环境中表现最好的却是一家名不见经传的中国厂商。]]></description>
       <guid>https://wired.jp/article/tesla-hiphi-ev-range-crown/</guid>
       <pubDate>Tue, 13 Feb 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊云计算首席执行官表示，当前的生成式人工智能热潮类似于互联网泡沫</title>
-      <link>https://wired.jp/article/amazons-cloud-boss-selipsky-generative-ai-hype/</link>
-      <description><![CDATA[亚马逊网络服务首席执行官 Adam Selipsky 表示，当前的人工智能繁荣类似于互联网泡沫，当时一些公司被“估值过高”。他预测未来将出现多个主要的生成人工智能提供商。]]></description>
-      <guid>https://wired.jp/article/amazons-cloud-boss-selipsky-generative-ai-hype/</guid>
-      <pubDate>Tue, 13 Feb 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
