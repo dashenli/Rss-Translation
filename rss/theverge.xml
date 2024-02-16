@@ -4,7 +4,7 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Feb 2024 15:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 18:16:37 GMT</lastBuildDate>
     <item>
       <title>Wyze 停电导致人们无法使用安全摄像头</title>
       <link>https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline</link>
@@ -12,16 +12,105 @@
       
 图片：Wyze
 
-拥有安全摄像头、行车记录仪和其他智能家居设备的 Wyze 用户今天早上报告称，他们无法访问这些设备，并且其应用程序正在返回错误消息。 Wyze Discord 中的用户报告说，问题早在美国东部时间凌晨 4 点就开始出现，并且到美国东部时间上午 6 点，有关该问题的报告广泛出现根据 Down Detector&lt; /a&gt;.
+Wyze 用户今天早上报告称，他们无法访问智能家居设备，并且其应用程序返回了错误消息。 Wyze Discord 中的用户报告说，问题早在美国东部时间凌晨 4 点就开始出现，并且到美国东部时间上午 6 点，有关该问题的报告广泛出现，根据 Down Detector 的说法.
+就在美国东部时间下午 1 点之前，一些 Wyze 用户报告他们的设备已恢复在线。 Wyze 尚未确认解决方案，但在美国东部时间上午 10:24 发布的一份说明中表示：“我们意识到我们的 AWS 合作伙伴存在问题，该问题影响了设备连接并导致登录困难。我们正在与 AWS 合作解决问题，并采取措施缓解问题。”另一条消息于东部时间上午 11:57 发布，称他们正在继续解决该问题。
+目前，AWS 服务页面未报告任何中断。 
 Wyze 论坛帖子中有关服务中断的信息，用户表示他们无法通过该应用程序连接到他们的安全摄像头。相机似乎正在离线，用户无法通过应用程序控制他们的设备。其他人则表示，他们的应用程序正在崩溃，或者设备已从他们的帐户中消失。 
-Wyze 没有立即回复评论请求或了解问题原因的详细信息，但其客户服务论坛中的更新表明，截至美国东部时间上午 9:31，该公司已意识到这一问题并正在调查此事。 
-我们目前收到有关设备离线和登录困难的报告。我们目前正在调查该问题，一旦获得更多信息，我们将立即更新。感谢您的耐心等待。
-虽然客户服务部门向用户发送的一些消息将问题归咎于“合作伙伴服务”，但目前 AWS 并没有报告任何中断。 
-Wyze 制造流行的家庭安全设备，但过去曾发生过隐私事件。 2023 年，一些用户报告称他们能够看到来自其他人设备的摄像头信息，Wyze 将其归咎于网络缓存问题。在这种情况下，用户表示他们自己的设备消失了，并被其他人的设备取代——包括显示陌生人家中内部情况的信息流。 
-
-]]></description>
+Wyze 没有立即回复评论请求或提供有关问题原因的详细信息。
+Wyze 制造流行的家庭安全设备，但也发生过隐私事件，包括 2019 年数据泄露 和 严重的安全缺陷，该公司通过停止生产一系列旧设备而不召回它们来解决这些缺陷。去年，一些用户报告说他们能够看到来自其他人设备的摄像头信息，Wyze 将其归咎于网络缓存问题。在这种情况下，用户表示他们自己的设备消失了，并被其他人的设备取代——包括显示陌生人家中内部情况的信息流。 
+美国东部时间 12 月 16 日下午 1 点更新：添加了来自用户和 Wyze 的状态更新。]]></description>
       <guid>https://www.theverge.com/2024/2/16/24074799/wyze-outage-security-camera-smart-home-down-offline</guid>
-      <pubDate>Fri, 16 Feb 2024 15:11:27 GMT</pubDate>
+      <pubDate>Fri, 16 Feb 2024 18:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟严格的新监管规则将覆盖更多互联网领域</title>
+      <link>https://www.theverge.com/2024/2/16/24074933/european-union-digital-services-act-expansion-moderation-advertising</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+欧盟数字服务法案 (DSA) 是一项严厉的新法规，针对内容审核和在线广告制定了新规则，即将扩大到覆盖互联网的大片区域。从明天 2 月 17 日开始，除了必须遵守规则的 19 个超大型在线平台 (VLOP) 和超大型在线搜索引擎 (VLOSE) 之外，这些规则还将适用于所有在欧盟拥有用户的在线平台&lt; a href=&quot;https://www.theverge.com/23845672/eu-digital-services-act-explained&quot;&gt;自去年八月以来。
+此次扩展意味着 DSA 的义务将扩大到覆盖数千个在线平台。 美联社注释 这将包括 eBay 和 OnlyFans 等家喻户晓的名字，它们没有达到欧盟 VLOP 状态的 4500 万月活跃用户门槛。只有员工少于 50 名、年营业额低于 1000 万欧元（约合 1080 万美元）的小型服务机构才可以豁免。
+“从明天开始，《数字服务法》规则适用于欧盟用户访问的所有在线平台”&lt; /q&gt;
+DSA 的义务包括禁止根据未成年用户的个人数据向其投放广告，以及根据性偏好或宗教信仰等敏感数据向任何人投放广告。在内容审核方面，网站必须向用户提供内容或帐户审核的理由，并为他们提供投诉和质疑决定的方式。还有一些规则规定用户能够标记平台上发现的非法商品和服务。
+“从明天开始，数字服务法规则适用于欧盟用户访问的所有在线平台，”欧盟委员会的玛格丽特·维斯塔格 (Margrethe Vestager) 表示。 “用户、成员国和平台现在可以使用 DSA 下的工具来塑造一个更安全、更透明的在线世界。”
+目前必须遵守的 19 个现有 VLOP 和 VLOSE该法规包括 Facebook、Instagram、X、维基百科、YouTube 和 Google 搜索等。 12 月底，委员会在其名单中又添加了三个 VLOP（Pornhub、XVideos 和 Stripchat），这些平台必须在 4 月份之前遵守 DSA 对大型平台的最严格规则（尽管它们必须遵守从明天开始更广泛的一般要求）。
+DSA 还包括云提供商等托管服务的规则，这些规则需要为人们提供一种方式来通知他们服务中存在非法内容。即使像互联网服务提供商这样的中介服务也有义务提供透明度报告。
+虽然 DSA 仍然是一项新法规，但我们已经看到欧盟使用它来开设对 X 进行正式调查，除其他外，担心它可能促进了“非法内容的传播”在哈马斯对以色列发动恐怖袭击的背景下。”欧盟监管机构有能力对违反 DSA 规则的公司处以最高相当于其全球年营业额 6% 的罚款，甚至在万不得已的情况下阻止服务。
+虽然这个截止日期已经到来很久了，但人们担心欧盟成员国尚未准备好更广泛地执行 DSA 的规则。本周早些时候，Politico报道 只有三分之一的欧盟国家指定了当地监管机构（称为数字服务协调员），他们将负责处理用户投诉并在每个成员国普遍执行 DSA。]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24074933/european-union-digital-services-act-expansion-moderation-advertising</guid>
+      <pubDate>Fri, 16 Feb 2024 17:14:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，绝地：幸存者背后的工作室正在制作曼达洛游戏</title>
+      <link>https://www.theverge.com/2024/2/16/24074936/mandalorian-game-star-wars-respawn</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：迪士尼/卢卡斯影业
+
+根据 来自 Insider Gaming 的新报告、Respawn — Apex Legends 和 星球大战游戏，例如绝地：幸存者 - 正在开发一款第一人称游戏，让玩家扮演未指定的曼达洛赏金猎人的角色。关于这款游戏的细节并不多，据报道该游戏仍处于开发初期，但该报告声称它将是快节奏的，重点关注动作，并且不会是开放世界的体验。&lt; /p&gt;
+该消息与工作室之前的公告相符； 2022 年，Respawn 表示正在努力一款以星球大战宇宙为背景的第一人称射击游戏，但没有提供任何关于它的内容的细节。工作室的绝地武士系列帮助开启了星球大战游戏激动人心的新时代，卢卡斯影业聘请其他著名开发商制作原创游戏。目前，育碧正在开发开放世界犯罪游戏Star战争亡命之徒，而Quantic Dream 正在制作星球大战 Eclipse。
+当然，由于迪士尼+表演 (还有一个可爱的外星婴儿），正在改编成一部长片，有时类似于视频游戏本身。 2002 年，LucasArts 发布了一款类似主题的游戏，名为《星球大战：赏金猎人》，由詹戈·费特 (Jango Fett) 主演，而Din Djarin 之前曾在堡垒之夜中出现过。]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24074936/mandalorian-game-star-wars-respawn</guid>
+      <pubDate>Fri, 16 Feb 2024 16:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vision Pro 闪耀光芒</title>
+      <link>https://www.theverge.com/24074795/vision-pro-returns-xbox-future-gemini-open-ai-vergecast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24074795/vision-pro-returns-xbox-future-gemini-open-ai-vergecast</guid>
+      <pubDate>Fri, 16 Feb 2024 16:30:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果解禁了 Epic，以便它可以在欧盟开设 iOS 游戏商店</title>
+      <link>https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Epic 距离在欧盟开设 iOS 游戏商店又近了一步。作为2023 年回顾的一部分，Epic Games 宣布苹果已恢复其开发者帐户，这意味着用户终于可以再次在 iPhone 上下载《堡垒之夜》了。
+ Epic 于 1 月份首次宣布计划将其游戏商店和《堡垒之夜》引入 iOS，但尚不清楚苹果是否会授予其开发者帐户。 
+2020 年，在 Epic 开始使用自己的应用内支付选项后，苹果公司撤回了该公司的开发者帐户在《堡垒之夜》的 iOS 版本中，引发了一场漫长的法律斗争，关于苹果的行为是否反竞争的。但即使在审判结束后，两家公司都没有明显获胜，苹果仍然拒绝恢复 Epic 的开发者帐户。
+
+
+
+我将是第一个承认 Apple 在我们灾难性的反垄断斗争中采取的善意举措的人，即授予 Epic Games Scotland AB 一个开发者帐户，用于在欧洲根据《数字市场法》。 https://t.co/ocOdMReXh1—蒂姆·斯威尼 (@TimSweeneyEpic) 2024 年 2 月 16 日
+
+
+
+随着欧盟实施《数字市场法案》(DMA)，情况正在发生变化。新规则迫使苹果向欧盟的第三方应用商店开放其 iOS 生态系统。 Epic Games 表示计划今年在欧盟开设 iOS 店面。 
+“我将是第一个承认苹果公司在我们灾难性的反垄断斗争中采取的善意举措的人，即向 Epic Games Scotland AB 授予一个开发者帐户，用于在欧洲数字化运营 Epic Games Store 和 Fortnite市场法，”斯威尼在 X 上的一篇帖子中说道。
+尽管如此，Sweeney 和许多其他开发者仍然高度批评苹果的新政策。 Apple 为开发者推出的新费用设置他们决定走出苹果的围墙花园，这使得开发者将他们的应用程序放入第三方商店并使用其他支付方式的吸引力降低。
+美国东部时间 2 月 16 日下午 1:04 更新：添加了 Tim Sweeney 的声明。]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24074873/epic-apple-ios-developer-account-eu-games-store-fortnite</guid>
+      <pubDate>Fri, 16 Feb 2024 16:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼降噪 WF-1000XM5 总统日折扣近 80 美元</title>
+      <link>https://www.theverge.com/2024/2/16/24073856/sony-wf-wh-1000xm5-8bitdo-retro-mechanical-keyboard-xbox-series-s-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24073856/sony-wf-wh-1000xm5-8bitdo-retro-mechanical-keyboard-xbox-series-s-deal-sale</guid>
+      <pubDate>Fri, 16 Feb 2024 16:18:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，派拉蒙和康卡斯特正在考虑建立流媒体合作伙伴关系</title>
+      <link>https://www.theverge.com/2024/2/16/24074887/paramount-plus-peacock-partnership</link>
+      <description><![CDATA[&lt;图&gt;
+      
+派拉蒙
+
+两者Paramount Plus 和 Peacock&lt; /a&gt; 一直在努力吸引订阅者，以进一步巩固各自作为流媒体领域持久参与者的地位，但根据一份新报告，这些平台的母公司可能正在考虑建立独特的合作伙伴关系。
+《华尔街日报》报道称，康卡斯特和派拉蒙最近一直在讨论潜在的流媒体合作伙伴关系，派拉蒙 Plus 和 Peacock 可能会一起向订阅者提供服务一揽子交易。除了使访问这两个平台比购买单独订阅相对便宜之外，此次合作还将帮助康卡斯特和派拉蒙“节省大量成本——从节目制作到营销支出。”
+在迪士尼/ESPN、福克斯和华纳兄弟上周宣布他们共同创建专注于体育的新共享服务——这是更多工作室和网络开始关注的迹象非常认真地合作以在流媒体战争中生存。]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24074887/paramount-plus-peacock-partnership</guid>
+      <pubDate>Fri, 16 Feb 2024 16:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>十年后，斯派克·琼斯的《她》依然屹立不倒</title>
+      <link>https://www.theverge.com/24066233/her-ai-film-spike-jonze-joaquin-phoenix-scarlett-johansson</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24066233/her-ai-film-spike-jonze-joaquin-phoenix-scarlett-johansson</guid>
+      <pubDate>Fri, 16 Feb 2024 16:03:17 GMT</pubDate>
     </item>
     <item>
       <title>Xbox的未来：有关微软战略转变的所有新闻</title>
@@ -30,7 +119,7 @@ Wyze 制造流行的家庭安全设备，但过去曾发生过隐私事件。 20
       
 图片：The Verge
 
-从主机独占到传闻中的新硬件。 2 月 15 日，微软发布了官方 Xbox 播客的一集特别有趣的节目，其中概述了 公司的一个稍微新的方向。本集由 Microsoft Gaming 首席执行官 Phil Spencer、Xbox 游戏工作室负责人 Matt Booty 和 Xbox 总裁 Sarah Bond 主演，他们讨论了 Xbox 独占游戏即将登陆 PS5 和 Nintendo Switch, 最新的 Game Pass 订阅者数量，甚至（模糊的）下一代游戏机的未来计划。 
+从主机独占到传闻中的新硬件。 2 月 15 日，微软发布了官方 Xbox 播客的一集特别有趣的节目，其中概述了公司的一个稍微新的方向。本集由 Microsoft Gaming 首席执行官 Phil Spencer、Xbox 游戏工作室负责人 Matt Booty 和 Xbox 总裁 Sarah Bond 主演，他们讨论了 Xbox 独占游戏即将登陆 PS5 和 Nintendo Switch, 最新的 Game Pass 订阅者数量，甚至（模糊的）下一代游戏机的未来计划。 
 我们还有交谈的机会Spencer 了解这一切意味着什么 - 您可以在这里了解每一条新闻。
 
   @verge 微软正在为 PS5 和 Nintendo Switch 带来一些 Xbox 独占游戏。这是微软游戏业务内部更广泛战略转变的一部分，旨在将游戏发展到公司 Xbox 游戏机之外。 #xbox #microsoft #games #switch #tech  ♬ 原声- 边缘  
@@ -44,98 +133,6 @@ Wyze 制造流行的家庭安全设备，但过去曾发生过隐私事件。 20
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon</guid>
       <pubDate>Fri, 16 Feb 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnePlus 12R是一款具有旗舰倾向的500美元手机</title>
-      <link>https://www.theverge.com/24072383/oneplus-12r-review-screen-camera-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24072383/oneplus-12r-review-screen-camera-price</guid>
-      <pubDate>Fri, 16 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能消耗多少电量？</title>
-      <link>https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption</guid>
-      <pubDate>Fri, 16 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么苹果这么难分享Vision Pro？</title>
-      <link>https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties</guid>
-      <pubDate>Fri, 16 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读 Phil Spencer 关于“Xbox 无处不在”的 Microsoft 备忘录</title>
-      <link>https://www.theverge.com/2024/2/16/24074729/microsoft-phil-spencer-xbox-everywhere-memo</link>
-      <description><![CDATA[&lt;图&gt;
-      
-边缘
-
-微软昨天宣布 四款 Xbox 独占游戏即将登陆 PS5 和 Nintendo Switch，开放 一项让 Xbox 出现在更多屏幕上的新策略。就在微软发布重大公告前两个小时，微软游戏首席执行官 Phil Spencer 在给员工的内部备忘录中解释了公司的新 Xbox 愿景。
-The Verge 已获得该备忘录的副本。这是 Spencer 首次向员工全面概述“每个屏幕都是 Xbox”的新战略，此前本月早些时候的内部市政厅会议并未直接讨论多平台游戏问题。
-微软在昨天的官方 Xbox 播客中并未直接提到“Xbox 无处不在”或“每个屏幕都是 Xbox”，但这与该公司多年来一直在宣传的内容并没有太大不同。适用于跨游戏机、PC 和云游戏的 Xbox 游戏。这次最大的不同在于，愿景进行了调整，包括将这些 Xbox 游戏带到竞争对手的游戏机上。
-本周早些时候我与 Spencer 讨论了新的 Xbox 愿景，下一代硬件等等。您可以在此处阅读该采访，以及 Spencer 的 Microsoft 内部备忘录，如下：
-&lt;块引用&gt;
-太平洋时间今天中午，我们将发布官方 Xbox 播客的特别节目。
-在这一集中，Sarah Bond、Matt Booty 和我将与社区分享我们对 Xbox 未来的计划。我们还将讨论我们的愿景将如何使我们的玩家、创作者和整个行业受益。
-当我们审视媒体的现状时，我们发现玩家越来越多地在多种设备上进行游戏，但他们的体验是由平台孤岛造成的碎片化决定的。多设备玩家必须浏览多个身份、权利库、社区、钱包和奖励计划。同样，业界最大的特许经营权越来越多地跨多种设备发行，要求创作者构建和管理其游戏的多个实例，从而导致成本更高和社区分散。所有这些摩擦为我们满足多设备玩家和创作者的需求创造了巨大的机会。
-我们对游戏的未来有着不同的愿景。未来玩家可以跨设备获得统一的体验。未来，玩家可以轻松发现大量具有多种商业模式的游戏。未来，更多的创作者将有能力实现他们的创意愿景、接触全球受众、团结社区并取得商业成功。未来每个屏幕都是 Xbox。
-这是一个 Xbox 无处不在的未来，这与我们的承诺一致，即让玩家能够“在任何地方与你想要的人一起玩你想要的游戏。”
-]]></description>
-      <guid>https://www.theverge.com/2024/2/16/24074729/microsoft-phil-spencer-xbox-everywhere-memo</guid>
-      <pubDate>Fri, 16 Feb 2024 11:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌为非 Pixel 用户提供了一种避免等待最新测试的方法</title>
-      <link>https://www.theverge.com/2024/2/16/24074715/google-talk-to-a-live-representative-assistant-hold-phone-call</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Google 对搜索实验室中该功能的描述。 |图片：英镑
-
-Google 正在测试一项新的“与实时代表交谈”功能，该功能允许该公司的软件代表您致电企业、浏览其电话树、等待，然后在有电话时通知您一个可供您交谈的真人。该测试现已作为 搜索实验室实验性功能，由 X 用户 Sterling 发现。
-作为9to5Goo笔记，该功能听起来很像  Pixel 的“Hold for Me”，但具有几个关键优势。首先，它适用于所有手机，而不仅仅是 Pixel 3 及更新机型。其次，“与现场代表交谈”实际上可以代表您主动致电企业，而不是在您已经拨打电话并被置于保留状态后才启用。
-
-
-#Google 实验室添加了“与现场代表交谈”实验听起来像是 # 出色的“为我保留”功能GooglePixel。CC @9to5Google @NexusBen # GoogleLabs pic.twitter.com/GeW8wbAJRN— 斯特林 (@GreenShades9) 2024 年 2 月 15 日
-
-
-您可以通过搜索公司的客户支持号码来访问该功能，据 9to5Google 报道，如果该公司受支持，此时 Google 将显示“请求通话”按钮。支持的企业包括精选的美国航空公司、电信公司、零售商、保险和其他服务公司。您选择致电的原因，当有代表可以与您交谈时，Google 会在致电您之前提供有关其进度的短信更新。
-9to5Google 指出，该实验性功能在美国可通过 iOS 和 Android 上的 Google 应用以及 Chrome 桌面版使用。
-
-
-这不仅仅是“为我保留”。1.在启动“呼叫保持”之前，您无需拨号并浏览所有选项。2.您也许可以提前选择要联系的部门，这绝对是天赐之物。至少这是实现...... - Artem Russakovskii (@ArtemR) 2024 年 2 月 15 日&lt; /a&gt;
-
-]]></description>
-      <guid>https://www.theverge.com/2024/2/16/24074715/google-talk-to-a-live-representative-assistant-hold-phone-call</guid>
-      <pubDate>Fri, 16 Feb 2024 10:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软修复了窃取 Chrome 标签和数据的 Edge 浏览器错误</title>
-      <link>https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：The Verge
-
-微软修复了 Edge 浏览器再次出现异常的问题，这次是在未经同意的情况下自动从 Chrome 导入浏览数据和标签页。 我上个月亲自经历过该错误，当时我重新启动了电脑常规 Windows 更新和 Microsoft Edge 会自动打开，并显示更新前我正在使用的 Chrome 选项卡。
-我多次要求 Microsoft 解释为什么我自己和许多其他 Windows 用户会出现这种行为，但该公司拒绝发表评论。微软现已在最新的 Microsoft Edge 更新中悄悄发布了修复程序。以下是Microsoft 描述修复的方式：
-Edge 有一项功能，可以提供在每次启动时在用户同意的情况下从其他浏览器导入浏览器数据的选项。此功能的状态可能无法在多个设备上正确同步和显示。这是固定的。
-此修复表明用于控制浏览数据自动导入的设置未在设备之间正确同步和显示。我们已要求 Microsoft 更清楚地了解此问题的根本原因，但我们不会屏息以待回应。
-我确信微软不想在这里发表评论的部分原因是该公司长期以来一直使用我们从间谍软件开发人员那里看到的策略来推广其网络浏览器。虽然这个最新问题很可能是一个无辜的错误，但许多技巧中的一些 Microsoft 使用的每月 Windows 更新启动 Edge 未经许可将其固定到桌面和任务栏，并进行民意调查 或突然出现的提示阻止您下载 Chrome。
-Firefox 浏览器的创建者 Mozilla 最近委托撰写了一篇研究论文“调查微软的策略及其对消费者的影响。”该论文探讨了微软使用有害设计策略的情况，这些策略违反了公司自己的设计准则，并可能削弱竞争对手浏览器的竞争。 
-这些策略包括强制 Windows 11 用户使用 Edge 的巧妙方法，如果用户单击 Windows Widgets 面板或搜索结果中的链接，则忽略默认浏览器。微软还开始强制 Outlook 和去年，团队在 Edge 中打开链接，激怒了 IT 管理员。
-其中一些策略将通过欧洲经济区市场的数字市场法案 (DMA) 得到解决——其中包括欧盟国家以及冰岛、列支敦士登和挪威。 这些更改将允许这些市场中的 Windows 11 用户卸载 Edge，并允许 Google 等搜索提供商使用自己的自定义网络搜索来扩展主 Windows 搜索界面。 
-虽然 DMA 法规适用于 Windows，但 Microsoft 无需对 Edge、Bing 或 Microsoft Advertising 进行任何更改，因为它们免除 DMA 规则。 Mozilla 表示：“微软最近承诺停止一些强制选择其他浏览器的用户使用 Edge 的行为。” “不幸的是，这些变化仅涉及本报告中概述的一小部分策略。而且，更糟糕的是，它们只会部署给欧洲经济区的用户。”]]></description>
-      <guid>https://www.theverge.com/2024/2/16/24074712/microsoft-edge-automatic-chrome-import-data-bug-fix</guid>
-      <pubDate>Fri, 16 Feb 2024 09:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是目前最优惠的 iPad 优惠</title>
-      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
-      <pubDate>Thu, 15 Feb 2024 23:55:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
