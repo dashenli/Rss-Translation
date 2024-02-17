@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sat, 17 Feb 2024 00:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 03:14:22 GMT</lastBuildDate>
+    <item>
+      <title>《地狱潜水者 2》评论</title>
+      <link>https://www.ign.com/articles/helldivers-2-review</link>
+      <description><![CDATA[看起来这些虫子和机器人可以使用一些自由度。]]></description>
+      <guid>https://www.ign.com/articles/helldivers-2-review</guid>
+      <pubDate>Fri, 16 Feb 2024 23:55:12 GMT</pubDate>
+    </item>
     <item>
       <title>万代南梦宫透露取消了至少五款正在开发的游戏</title>
       <link>https://www.ign.com/articles/bandai-namco-reveals-it-canceled-at-least-five-in-development-games</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[关于购买新 Switch 所需了解的一切。]]></description>
       <guid>https://www.ign.com/articles/where-to-buy-nintendo-switch-consoles</guid>
       <pubDate>Fri, 16 Feb 2024 14:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palworld Dev 概述了反作弊计划，但承认正在努力跟上作弊者的步伐</title>
-      <link>https://www.ign.com/articles/palworld-dev-outlines-anti-cheat-plan-but-admits-its-struggling-to-keep-up-with-cheaters</link>
-      <description><![CDATA[Palworld 开发商 Pocketpair 解决了影响“带枪口袋妖怪”生存和制作游戏的猖獗作弊问题，并概述了为解决该问题而采取的一系列步骤。]]></description>
-      <guid>https://www.ign.com/articles/palworld-dev-outlines-anti-cheat-plan-but-admits-its-struggling-to-keep-up-with-cheaters</guid>
-      <pubDate>Fri, 16 Feb 2024 14:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
