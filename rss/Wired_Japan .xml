@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 16 Feb 2024 21:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:54:27 GMT</lastBuildDate>
+    <item>
+      <title>从密码到“密钥”，它们的实际可用性和用户身份验证的未来</title>
+      <link>https://wired.jp/article/stopped-using-passwords-passkeys/</link>
+      <description><![CDATA[越来越多的站点支持新的身份验证方法“Passkey”。如果效果良好，您将能够仅使用面部或指纹识别快速登录您的帐户。然而，它可能需要一段时间才能被广泛采用。]]></description>
+      <guid>https://wired.jp/article/stopped-using-passwords-passkeys/</guid>
+      <pubDate>Fri, 16 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>四款 Xbox 独家游戏将在其他平台上发售。微软未来的政策是什么？</title>
       <link>https://wired.jp/article/xbox-exclusives-diablo-iv-game-pass-march-28/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[数据显示，使用 Copilot（GitHub 上提供的编程支持服务）创建的所有代码中有一半是由人工智能生成的。另一方面，人工智能工具目前似乎不太可能取代人类开发人员。]]></description>
       <guid>https://wired.jp/article/fast-forward-ai-rewiring-coders-brains-github-copilot/</guid>
       <pubDate>Wed, 14 Feb 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年值得关注的 18 款电动汽车</title>
-      <link>https://wired.jp/article/best-evs-2024/</link>
-      <description><![CDATA[随着全球电动汽车销量接近1000万辆，特斯拉和比亚迪将在2023年竞争成为主要参与者。现在已经到了 2024 年，我们将介绍 18 款值得关注的车型。]]></description>
-      <guid>https://wired.jp/article/best-evs-2024/</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
