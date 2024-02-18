@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 12:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 15:13:07 GMT</lastBuildDate>
+    <item>
+      <title>奥斯卡提名医生：一名 13 岁女孩和她的父亲在被强奸后要求伸张正义</title>
+      <link>https://npr.org/sections/goatsandsoda/2024/02/18/1231793908/oscar-nommed-doc-a-13-year-old-and-her-dad-demand-justice-after-she-is-raped</link>
+      <description><![CDATA[在《杀死一只老虎》中，导演尼莎·帕胡贾讲述了一名女孩在印度村庄被轮奸的案件。村民们说她应该嫁给其中一名强奸犯。]]></description>
+      <guid>https://npr.org/sections/goatsandsoda/2024/02/18/1231793908/oscar-nommed-doc-a-13-year-old-and-her-dad-demand-justice-after-she-is-raped</guid>
+      <pubDate>Sun, 18 Feb 2024 13:39:58 GMT</pubDate>
+    </item>
     <item>
       <title>数以百万计的女性“肌肉不足”。这些食物有助于增强体力</title>
       <link>https://npr.org/sections/health-shots/2024/02/18/1231552773/protein-diet-muscle-strength-training-muscle-loss-women</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当美国人努力寻找负担得起的住房时，城市意识到自己的规则使得建造他们需要的房屋变得过于困难和昂贵。现在，一些城市正在努力改变这种状况。]]></description>
       <guid>https://npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities</guid>
       <pubDate>Sat, 17 Feb 2024 11:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于巴勒斯坦劳工被以色列拒之门外，印度工人排队在那里寻找工作</title>
-      <link>https://npr.org/2024/02/17/1229525320/india-israel-hamas-war-jobs-migrant-workers</link>
-      <description><![CDATA[10 月 7 日哈马斯支持的武装分子袭击以色列后，以色列暂停了大多数巴勒斯坦工人的工作许可，之后正在从印度招募熟练工人。]]></description>
-      <guid>https://npr.org/2024/02/17/1229525320/india-israel-hamas-war-jobs-migrant-workers</guid>
-      <pubDate>Sat, 17 Feb 2024 10:01:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
