@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 21:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:54:11 GMT</lastBuildDate>
+    <item>
+      <title>美国军方称在红海袭击了一艘胡塞武装水下船只</title>
+      <link>https://npr.org/2024/02/18/1232332875/houthi-underwater-vessel-red-sea</link>
+      <description><![CDATA[美国中央司令部表示，自 10 月份在该地区发动一系列袭击以来，这是首次观察到伊朗支持的叛乱组织使用无人水下船只。]]></description>
+      <guid>https://npr.org/2024/02/18/1232332875/houthi-underwater-vessel-red-sea</guid>
+      <pubDate>Sun, 18 Feb 2024 22:49:26 GMT</pubDate>
+    </item>
     <item>
       <title>FDA 批准了一种治疗严重食物过敏的药物，包括牛奶、鸡蛋和坚果</title>
       <link>https://npr.org/2024/02/18/1232304606/fda-approval-food-allergies-xolair</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国众议院对乌克兰的援助陷入僵局。副总统哈里斯表示，没有其他选择可以帮助乌克兰反击俄罗斯的入侵。]]></description>
       <guid>https://npr.org/2024/02/17/1232247360/kamala-harris-ukraine-zelenskyy</guid>
       <pubDate>Sat, 17 Feb 2024 14:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿列克谢·纳瓦尔尼的团队证实了他的死亡。他的母亲正在寻找他的尸体</title>
-      <link>https://npr.org/2024/02/17/1232243738/alexei-navalny-team-confirms-death-searching-for-body-russia</link>
-      <description><![CDATA[阿列克谢·纳瓦尔尼的发言人周六证实，这位俄罗斯反对派领导人在偏远的北极流放地死亡，并称他是“被谋杀”，但目前尚不清楚他的尸体在哪里。]]></description>
-      <guid>https://npr.org/2024/02/17/1232243738/alexei-navalny-team-confirms-death-searching-for-body-russia</guid>
-      <pubDate>Sat, 17 Feb 2024 13:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
