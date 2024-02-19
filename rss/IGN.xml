@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Mon, 19 Feb 2024 00:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 03:14:03 GMT</lastBuildDate>
+    <item>
+      <title>《Helldivers 2》开发者暂时将并发玩家上限限制在 450,000 人左右，以帮助服务器稳定</title>
+      <link>https://www.ign.com/articles/helldivers-2-devs-temporarily-cap-concurrent-players-to-around-450000-to-help-with-server-stability</link>
+      <description><![CDATA[《Helldivers 2》开发商 Arrowhead Game Studios 暂时将并发玩家上限限制为 450,000 人，以帮助服务器稳定性，同时努力“提高上限”并解决与其巨大成功发布相关的其他问题。]]></description>
+      <guid>https://www.ign.com/articles/helldivers-2-devs-temporarily-cap-concurrent-players-to-around-450000-to-help-with-server-stability</guid>
+      <pubDate>Mon, 19 Feb 2024 01:55:26 GMT</pubDate>
+    </item>
     <item>
       <title>每日优惠：《生化危机 4》、《超级马里奥奥德赛》、《异度神剑 3》</title>
       <link>https://www.ign.com/articles/daily-deals-resident-evil-4-super-mario-odyssey-xenoblade-chronicles-3</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[据报道，《星球大战绝地武士》和《Apex 英雄》开发商 Respawn Entertainment 正在开发一款第一人称曼达洛视频游戏。]]></description>
       <guid>https://www.ign.com/articles/star-wars-mandalorian-video-game-reportedly-in-the-works-at-respawn</guid>
       <pubDate>Fri, 16 Feb 2024 16:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在将《龙之信条 2》定价为 70 美元后，Capcom 现在考虑对视频游戏进行价格审查</title>
-      <link>https://www.ign.com/articles/after-pricing-dragons-dogma-2-70-capcom-is-now-considering-a-video-game-price-review</link>
-      <description><![CDATA[《龙之教条 2》是 Capcom 的第一款游戏，售价 70 美元，但听起来还会有更多游戏推出。]]></description>
-      <guid>https://www.ign.com/articles/after-pricing-dragons-dogma-2-70-capcom-is-now-considering-a-video-game-price-review</guid>
-      <pubDate>Fri, 16 Feb 2024 16:29:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

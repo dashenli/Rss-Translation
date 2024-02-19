@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 00:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 03:10:59 GMT</lastBuildDate>
     <item>
-      <title>J vs.</title>
-      <link>https://t.me/hn_summary/74879</link>
-      <description><![CDATA[J 与 K 举例 (2005)&lt; br/&gt;
-网页内容通过简单算术、列表操作、列表元素、索引、排序、列表聚合、函数组合和用户定义函数的示例来比较 J 和 K 编程语言。 J 由 JSoftware Inc. 开发，K 则由 Kx Inc. 开发，展示了完成类似任务的不同语法和方法。内容突出了每种语言的独特之处，例如 J 使用括号来改变顺序，K 使用符号进行运算。通过比较，可以深入了解这两种语言的优势和差异，供程序员探索。 （根据 39% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74879</guid>
-      <pubDate>Mon, 19 Feb 2024 00:39:30 GMT</pubDate>
+      <title>本文讨论从 Git 存储库提供网站而不克隆它，这是一种常见的问题 [...]</title>
+      <link>https://t.me/hn_summary/74896</link>
+      <description><![CDATA[从 Git 存储库提供网站服务而无需克隆 
+本文讨论从 Git 存储库提供网站而不克隆它，这是 Web 开发中的常见做法。作者解释了这通常是如何通过将更改推送到公共 Git 存储库的分支来完成的，然后由 Web 服务器提供服务。本文重点介绍了使用 Github Pages 作为示例。作者还提到了 domani 反向代理，它以前在本地克隆存储库，但现在支持在不克隆的情况下提供网站服务。此方法允许直接从 Git 存储库提供网站服务，无需本地副本，从而提供更高效、更简化的 Web 开发方法。 （根据 33% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74896</guid>
+      <pubDate>Mon, 19 Feb 2024 03:10:59 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，作者探讨了与欺诈相关的规模不经济的概念 [...]</title>
-      <link>https://t.me/hn_summary/74878</link>
-      <description><![CDATA[欺诈、垃圾邮件、支持和审核方面的规模不经济
-在本文中，作者探讨了与在线平台上的欺诈、垃圾邮件、支持和审核相关的规模不经济概念。他们认为，与较大平台相比，较小平台的诈骗、垃圾邮件和欺诈内容发生率往往较低。作者对“只有大公司才能有效处理审核和反垃圾邮件工作”的普遍看法提出了挑战，并列举了小公司在这些领域优于大公司的例子。他们还讨论了支持质量如何随着平台规模的增加而下降，以及用户对内容审核的分歧如何在较大的平台上变得更加普遍。作者批评了规模经济总是让用户受益的观点，并强调了小公司提供更好用户体验的例子。最终，本文对网络世界中越大越好的假设提出了质疑。 （根据故事文本的 4% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74878</guid>
-      <pubDate>Mon, 19 Feb 2024 00:35:26 GMT</pubDate>
+      <title>[媒体] 在 taylor.town 上的这篇文章中，作者探讨了清理 codebas 的概念 [...]</title>
+      <link>https://t.me/hn_summary/74895</link>
+      <description><![CDATA[用基本信息论清理你的代码库
+在这篇关于 taylor.town 的文章中，作者探讨了以下概念：使用基本信息理论清理代码库。通过测量文本文件中的“惊喜”，作者演示了如何估计熵并确定代码可读性需要改进的领域。本文深入研究了文本压缩技术，例如使用霍夫曼编码，并提供了如何为人类压缩代码的实际示例。作者还讨论了通过有效构建代码库并将相关概念分组在一起来保持代码可读性的重要性。总的来说，本文提供了关于优化代码库以提高效率和可读性的独特视角。]]></description>
+      <guid>https://t.me/hn_summary/74895</guid>
+      <pubDate>Mon, 19 Feb 2024 02:40:48 GMT</pubDate>
     </item>
     <item>
-      <title>为什么振幅是复数？</title>
-      <link>https://t.me/hn_summary/74877</link>
-      <description><![CDATA[为什么振幅是复数？ (2018)
-大自然对量子力学的选择让许多人质疑为什么振幅是复数。这篇文章深入研究了量子力学中复数的必要性，探讨了使用实数或四元数的含义。令人惊讶的是，虽然复数是许多量子现象的基础，但实数在大多数量子计算应用中就足够了。这篇文章强调了复数在均匀随机概率分布和量子态局部断层扫描等场景中的优雅和必要性。复数的独特性质可以更精确地确定量子态，展示了它们在量子世界中不可或缺的作用。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74877</guid>
-      <pubDate>Mon, 19 Feb 2024 00:20:19 GMT</pubDate>
+      <title>Web 内容的作者对 VPP 的性能和多功能性印象深刻 [...]</title>
+      <link>https://t.me/hn_summary/74894</link>
+      <description><![CDATA[FreeBSD 上的 VPP
+Web 内容的作者对 VPP（矢量数据包处理器）的性能和多功能性及其与 Cisco IOS/XR 设备的相似性印象深刻。 FreeBSD 基金会宣布于 2023 年将 VPP 移植到 FreeBSD 上。笔者使用不同的配置对 FreeBSD 14.0-RELEASE 进行了负载测试，发现性能没有想象中那么出色。 Xeon-D1518 处理器上的内核可以处理大约 1.2Mpps。本文提供了有关负载测试的设置和结果的详细信息，重点介绍了 FreeBSD 内核实现的挑战和性能指标。 （根据故事文本的 22% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74894</guid>
+      <pubDate>Mon, 19 Feb 2024 02:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国食品公司的卡车司机通过在全国范围内举行罢工，赢得了重大胜利， [...]</title>
-      <link>https://t.me/hn_summary/74876</link>
-      <description><![CDATA[Teamster 食品司机在全国范围内赢得了罢工 
-美国食品公司的卡车司机在全国范围内举行罢工，将纠察队延伸到全国两打以上的工厂，赢得了重大胜利。纠察队的激进策略导致公司运营陷入瘫痪，并迫使公司坐到谈判桌前。保护权利语言的使用使工人能够遵守主要纠察线并扩大冲突范围。这种战略方法，加上协调一致的讨价还价努力，已经为卡车司机带来了回报，带来了合同的重大收益，并为未来的谈判奠定了基础。芝加哥的成功将推动食品服务分销行业持续的组织活动。]]></description>
-      <guid>https://t.me/hn_summary/74876</guid>
-      <pubDate>Mon, 19 Feb 2024 00:16:15 GMT</pubDate>
+      <title>[媒体] 肩伤让我需要单手键盘后，我在 [...] 中找到了灵感</title>
+      <link>https://t.me/hn_summary/74893</link>
+      <description><![CDATA[一款易于使用的单手键盘，灵感来自 FrogPad 
+肩伤让我需要一个单手键盘后，我在 FrogPad 设计中找到了灵感。全尺寸单手键盘过于笨重且昂贵，因此我选择了带有名为“Frogger”的自定义布局的 Lily58 键盘。布局包括主要、次要字符、符号、功能和次要功能层。为了提高打字流畅度，我求助于打字导师，例如 Mario Teaches Typing 和 Typing of the Dead。马里奥的重复课程令人失望，但《死亡打字》独特的游戏玩法和不重复的单词提供了更有吸引力的学习体验。我已经分享了我的布局文件并鼓励其他人尝试并探索其他打字游戏以获得乐趣和改进。]]></description>
+      <guid>https://t.me/hn_summary/74893</guid>
+      <pubDate>Mon, 19 Feb 2024 02:28:39 GMT</pubDate>
     </item>
     <item>
-      <title>在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。</title>
-      <link>https://t.me/hn_summary/74875</link>
-      <description><![CDATA[开源游戏
-在 GitHub 上发现一系列精彩的开源游戏以及可用源代码。从基于浏览器的棋盘游戏（如 3D Hartwing Chess Set）到街机经典游戏（如 Asteroids 和 Breakout），每个游戏玩家都能找到适合自己的游戏。深入探索《暗黑破坏神 JavaScript》等 RPG 游戏和《BrowserQuest》等大型多人在线角色扮演游戏，或者通过《Ancient Beast》和《命令与征服》等游戏挑战您的策略技能。该合集凭借 Drunken Viking 和 Genetic Drift 等独特游戏展现了开源游戏开发者的创造力和创新精神。在 Project- 上探索、畅玩开源游戏世界并为之做出贡献Awesome.org。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74875</guid>
-      <pubDate>Sun, 18 Feb 2024 23:59:08 GMT</pubDate>
+      <title>[媒体] 什么是长上下文窗口？</title>
+      <link>https://t.me/hn_summary/74892</link>
+      <description><![CDATA[什么是长上下文窗口？
+Gemini 1.5 引入了突破性的长上下文窗口功能，允许模型一次处理多达 100 万个令牌，这是迄今为止任何大型基础模型中最长的上下文窗口。这项创新为人工智能模型在会话期间回忆信息、总结冗长的文档、分析大量的代码，甚至翻译罕见的语言开辟了新的可能性。该项目背后的 Google DeepMind 团队在深度学习方面取得了重大进展，超出了最初目标 10 倍。虽然 100 万代币上下文窗口目前处于私人预览阶段，但团队正在积极进行优化，以改善延迟并进一步扩展模型的功能。]]></description>
+      <guid>https://t.me/hn_summary/74892</guid>
+      <pubDate>Mon, 19 Feb 2024 02:24:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Synthical，这是一个将黑客新闻社区模型带入世界的平台 [...]</title>
-      <link>https://t.me/hn_summary/74874</link>
-      <description><![CDATA[显示 HN：与 HN 类似，但用于科学&lt; br/&gt;
-隆重推出 Synthical，这是一个将 Hacker News 社区模型带入科学世界的平台。我们的人工智能技术简化了复杂的文章，澄清了科学术语，并协助研究，使用户更容易了解并参与最新的科学发现。加入我们 Synthical.com，探索与人互动的新方式科学内容。]]></description>
-      <guid>https://t.me/hn_summary/74874</guid>
-      <pubDate>Sun, 18 Feb 2024 23:55:04 GMT</pubDate>
+      <title>在长篇大论中，作者表达了对苹果公司不承认美国的失望 [...]</title>
+      <link>https://t.me/hn_summary/74891</link>
+      <description><![CDATA[Vision Pro 上的 Mac 虚拟显示器需要相同的 Apple ID 
+作者在长篇大论中表达了对苹果公司缺乏对可用性挑战的认识以及他们独特的煤气灯品牌的失望。作者对 Sidecar（一项将 iPad 变成 Mac 的第二个显示器的功能）的失望源于要求这两种设备必须与同一个 Apple ID 关联。这给作者带来了一个问题，因为他使用工作配发的 Mac 并拥有自己的 iPad。作者还讨论了 Apple Vision Pro 的局限性，它需要与 Mac Virtual Display 相同的 Apple ID。尽管存在这种限制的技术原因，但作者建议苹果可以优先消除它以增加销量。]]></description>
+      <guid>https://t.me/hn_summary/74891</guid>
+      <pubDate>Mon, 19 Feb 2024 02:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]联邦贸易委员会已获得针对 Simple Health 的 1.95 亿美元判决 [...]</title>
-      <link>https://t.me/hn_summary/74873</link>
-      <description><![CDATA[FTC 获得 1.95 亿美元的判决并禁止 Simple Health 提供虚假保险
-联邦贸易委员会已对 Simple Health Plans LLC 及其首席执行官做出 1.95 亿美元的判决，罪名是通过虚假医疗保健计划欺骗消费者。法院发现，Simple Health 误导人们认为他们购买了全面的健康保险，而实际上他们没有支付医疗费用或无法获得必要的医疗保健。法院已禁止 Simple Health 及相关实体进行电话营销和营销医疗保健产品，并下令清算其资产以退还给消费者。首席合规官 Candida Girouard 也已和解指控，并被禁止销售医疗保健产品。该案例凸显了医疗保健行业消费者保护的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74873</guid>
-      <pubDate>Sun, 18 Feb 2024 23:51:00 GMT</pubDate>
+      <title>[媒体]本文深入探讨了游戏字体取证的迷人世界，揭示了 [...]</title>
+      <link>https://t.me/hn_summary/74890</link>
+      <description><![CDATA[游戏字体取证
+本文深入探讨了游戏字体取证的迷人世界，揭示了古代电脑游戏与其字体之间隐藏的联系。通过比较《Beneath Apple Manor》和《Hard Hat Mack》等游戏中使用的字体，作者揭示了令人惊讶的相似之处，这些相似之处表明苹果图形软件具有共同的起源。通过对游戏数据和字体结构的细致分析，作者发现了手工调整和转换，揭示了这些经典游戏的开发过程。这篇文章对游戏设计和排版的交叉提供了独特的视角，展示了可以揭示游戏中隐藏历史的复杂细节。 （根据故事文本的 42% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74890</guid>
+      <pubDate>Mon, 19 Feb 2024 02:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了 Nebula（一种网状 VPN）与类似软件的基准测试 [...]</title>
-      <link>https://t.me/hn_summary/74872</link>
-      <description><![CDATA[Nebula 不是最快的网状 VPN，但其他也不是&lt; /a&gt;
-本文讨论了自 2018 年以来网状 VPN Nebula 与类似软件的基准测试。作者强调了客观和公平测试的重要性，详细介绍了使用专用硬件和测试主机之间的多个流等指南。比较包括 Nebula、Netmaker、Tailscale 和 ZeroTier，突出了性能差异和状态数据包过滤的重要性。测试重点关注单向数据传输，表明 ZeroTier 的单线程特性限制了其与其他产品相比的性能。本文旨在提供持续的性能记录，并欢迎对其他项目进行测试的建议。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/74872</guid>
-      <pubDate>Sun, 18 Feb 2024 23:21:50 GMT</pubDate>
+      <title>[媒体]2013年，Londonist探索了代表伦敦这座充满活力的城市的多样色彩。</title>
+      <link>https://t.me/hn_summary/74889</link>
+      <description><![CDATA[伦敦色卡（2013）
+2013 年，Londonist 探索了代表伦敦这座充满活力的城市的多种色彩。从奥运会标志性的紫色到整个城市的微妙色调，这张色卡捕捉了伦敦独特调色板的精髓。这张图表紧跟模因潮流，以一种有趣且富有创意的方式来识别构成首都的各种色调。借助这本巧妙且丰富多彩的指南，探索伦敦的色彩，并以全新的视角看待这座城市。]]></description>
+      <guid>https://t.me/hn_summary/74889</guid>
+      <pubDate>Mon, 19 Feb 2024 02:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]几个世纪以来，加利福尼亚州在地图上被错误地描绘为一个岛屿，引发了法西斯 [...]</title>
-      <link>https://t.me/hn_summary/74871</link>
-      <description><![CDATA[数百年来，人们一直认为加利福尼亚是一个岛屿
-几个世纪以来，加利福尼亚州在地图上被错误地描绘成一个岛屿，引发了人们的迷恋和争论。 Glen McLaughlin 收集了 700 多张与该主题相关的地图，展示了这种持久的制图谬误。尽管在地理上与大陆相连，加州作为一个幅员辽阔、多元化的州的独特身份促成了这个神话。这种误解的根源可以追溯到西班牙小说中的一个虚构岛屿，导致西班牙和英国制图师之间长达数百年的争论。直到 1747 年，西班牙国王斐迪南六世才正式宣布“加利福尼亚不是一个岛屿”，结束了这个经久不衰的神话。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/74871</guid>
-      <pubDate>Sun, 18 Feb 2024 22:55:41 GMT</pubDate>
+      <title>[媒体] Tropy 是研究人员整理和注释照片的绝佳工具。</title>
+      <link>https://t.me/hn_summary/74888</link>
+      <description><![CDATA[Tropy：探索您的研究照片
+Tropy 是研究人员整理和注释照片的绝佳工具。借助其用户友好的注释工具，您可以轻松转录文档、选择图像细节并增强照片，以便更清晰地查看来源。这一独特的功能使 Tropy 与其他照片组织工具区分开来，使其成为任何进行研究的人的必备工具。使用 Tropy 以前所未有的方式探索您的研究照片！]]></description>
+      <guid>https://t.me/hn_summary/74888</guid>
+      <pubDate>Mon, 19 Feb 2024 02:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，作者反思了 DuckDuckGo 多年来的演变，曲 [...]</title>
-      <link>https://t.me/hn_summary/74870</link>
-      <description><![CDATA[有关 DuckDuckGo 未来的问题
-在这篇文章中，作者回顾了 DuckDuckGo 多年来的演变，质疑其未来的发展方向。虽然 DuckDuckGo 最初以其注重隐私的搜索引擎而闻名，但现已扩展到浏览器、应用程序和其他工具，导致人们对其主要产品感到困惑。作者指出搜索引擎最近缺乏改进，并推测了该公司多元化的动机。这篇文章对 DuckDuckGo 的潜在战略提出了疑问，包括与其他浏览器或搜索引擎竞争，或者可能完全放弃搜索。最后，作者强调了 DuckDuckGo 的核心产品是隐私，并想知道该公司将如何继续优先考虑其产品并通过其货币化。]]></description>
-      <guid>https://t.me/hn_summary/74870</guid>
-      <pubDate>Sun, 18 Feb 2024 22:34:32 GMT</pubDate>
+      <title>[媒体]什么是Woodshedding？</title>
+      <link>https://t.me/hn_summary/74887</link>
+      <description><![CDATA[什么是Woodshedding？掌握专注音乐练习的艺术
+Woodshedding 是掌握音乐的关键，它可以让音乐家磨练他们的技能并在深刻的层面上与观众建立联系。通过设定明确的目标，创造一个专注的练习环境，并结合刻意的练习技巧，音乐家可以充分利用他们的伐木课程。虽然伐木具有许多优点，例如提高的技术精度和增强的艺术表现力，但必须注意潜在的缺点，例如倦怠和视野狭隘。总体而言，woodshedding 是各种技能水平的音乐家提升其技艺并提供迷人表演的强大工具。]]></description>
+      <guid>https://t.me/hn_summary/74887</guid>
+      <pubDate>Mon, 19 Feb 2024 02:02:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
