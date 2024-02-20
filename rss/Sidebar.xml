@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 06:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 09:15:43 GMT</lastBuildDate>
+    <item>
+      <title>Spectrum 2 简介：我们对 Adob​​e 体验设计未来的愿景</title>
+      <link>https://medium.com/thinking-design/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design-a6c34441d2bb</link>
+      <description><![CDATA[Adobe 设计系统全面更新的预览。
+]]></description>
+      <guid>https://medium.com/thinking-design/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design-a6c34441d2bb</guid>
+      <pubDate>Tue, 20 Feb 2024 06:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年如何使用 Favicon：满足大多数需求的六个文件</title>
+      <link>https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs</link>
+      <description><![CDATA[现代网络网站图标的终极指南。
+]]></description>
+      <guid>https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs</guid>
+      <pubDate>Tue, 20 Feb 2024 06:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 首席执行官谈其出售给 Adob​​e 失败后的生活</title>
+      <link>https://www.theverge.com/2024/2/16/24075126/figma-ceo-dylan-field-interview-after-adobe</link>
+      <description><![CDATA[Figma 在生成式 AI 和开发模式上下了很大的赌注。
+]]></description>
+      <guid>https://www.theverge.com/2024/2/16/24075126/figma-ceo-dylan-field-interview-after-adobe</guid>
+      <pubDate>Tue, 20 Feb 2024 06:23:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动驱动的动画：您想要溢出：剪辑，而不是溢出：隐藏</title>
+      <link>https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/</link>
+      <description><![CDATA[如果您创建滚动驱动的动画，请检查 DOM 树中是否存在溢出：隐藏元素，并将其更改为溢出：剪辑。
+]]></description>
+      <guid>https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 组件清单</title>
+      <link>https://figmachecklists.com/</link>
+      <description><![CDATA[这些清单是为寻求提升 Figma 组件水平的设计师而设计的。
+]]></description>
+      <guid>https://figmachecklists.com/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>Tailwind 营销和错误信息引擎</title>
       <link>https://nuejs.org/blog/tailwind-misinformation-engine/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/</guid>
       <pubDate>Fri, 16 Feb 2024 05:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>高清晰度 CSS 颜色指南</title>
-      <link>https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide</link>
-      <description><![CDATA[CSS Color 4 为网络带来了广色域颜色工具和功能：更多颜色、操作功能和更好的渐变。
-]]></description>
-      <guid>https://developer.chrome.com/docs/css-ui/high-definition-css-color-guide</guid>
-      <pubDate>Thu, 15 Feb 2024 11:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>量化138场国歌表演的魅力</title>
-      <link>https://pudding.cool/2024/02/anthems/</link>
-      <description><![CDATA[我们将每位表演者的音调与标准进行比较，看看谁是终极天后。
-]]></description>
-      <guid>https://pudding.cool/2024/02/anthems/</guid>
-      <pubDate>Thu, 15 Feb 2024 06:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>复古类型学</title>
-      <link>https://kottke.org/24/02/vintage-typologies</link>
-      <description><![CDATA[Lost Found Art 是一家“专门从事雕塑装置和组合的设计公司。
-]]></description>
-      <guid>https://kottke.org/24/02/vintage-typologies</guid>
-      <pubDate>Thu, 15 Feb 2024 06:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解教育科技中的系统</title>
-      <link>https://medium.com/ux-of-edtech/seeing-the-systems-in-edtech-1d79dc43f907</link>
-      <description><![CDATA[建筑物、软件等复杂系统如何构建？教育由以不同速度变化的相互关联的层组成。
-]]></description>
-      <guid>https://medium.com/ux-of-edtech/seeing-the-systems-in-edtech-1d79dc43f907</guid>
-      <pubDate>Thu, 15 Feb 2024 06:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯勒定律</title>
-      <link>https://lawsofux.com/articles/2024/teslers-law/</link>
-      <description><![CDATA[了解固有的复杂性，并深入了解设计师如何有效地管理它。
-]]></description>
-      <guid>https://lawsofux.com/articles/2024/teslers-law/</guid>
-      <pubDate>Thu, 15 Feb 2024 06:26:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
