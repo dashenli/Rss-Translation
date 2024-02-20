@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Feb 2024 12:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:13:33 GMT</lastBuildDate>
     <item>
       <title>胶囊生成器</title>
       <link>https://www.producthunt.com/posts/capsulegen</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/capsulegen</guid>
       <pubDate>Tue, 20 Feb 2024 09:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vision Pro 的 IMAX</title>
-      <link>https://www.producthunt.com/posts/imax-for-vision-pro</link>
-      <description><![CDATA[
-            世界上最身临其境的电影体验
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/imax-for-vision-pro</guid>
-      <pubDate>Tue, 20 Feb 2024 06:14:05 GMT</pubDate>
     </item>
     <item>
       <title>抒情实验室</title>
@@ -160,6 +146,20 @@
       <pubDate>Sat, 17 Feb 2024 02:55:50 GMT</pubDate>
     </item>
     <item>
+      <title>禅法</title>
+      <link>https://www.producthunt.com/posts/zenfetch</link>
+      <description><![CDATA[
+            将笔记和浏览器历史记录转变为个人人工智能
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/zenfetch</guid>
+      <pubDate>Fri, 16 Feb 2024 16:12:28 GMT</pubDate>
+    </item>
+    <item>
       <title>忍者</title>
       <link>https://www.producthunt.com/posts/adninja</link>
       <description><![CDATA[
@@ -188,20 +188,6 @@
       <pubDate>Thu, 15 Feb 2024 11:40:13 GMT</pubDate>
     </item>
     <item>
-      <title>AdGen人工智能</title>
-      <link>https://www.producthunt.com/posts/adgen-ai</link>
-      <description><![CDATA[
-            利用 AI 创建 100 多个高性能广告变体
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/adgen-ai</guid>
-      <pubDate>Mon, 29 Jan 2024 05:45:37 GMT</pubDate>
-    </item>
-    <item>
       <title>俯卧撑任务</title>
       <link>https://www.producthunt.com/posts/pushup-quest</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pushup-quest</guid>
       <pubDate>Fri, 26 Jan 2024 22:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>乐高闪电</title>
+      <link>https://www.producthunt.com/posts/locofy-lightning</link>
+      <description><![CDATA[
+            Figma 设计到编码一键完成，具有大型设计模型
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/locofy-lightning</guid>
+      <pubDate>Mon, 15 Jan 2024 06:42:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

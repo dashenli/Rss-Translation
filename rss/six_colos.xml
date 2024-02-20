@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 20 Feb 2024 00:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:14:41 GMT</lastBuildDate>
+    <item>
+      <title>“Apple Vision Pro 上的视觉辅助功能”↦</title>
+      <link>https://sixcolors.com/link/2024/02/vision-accessibility-on-apple-vision-pro/</link>
+      <description><![CDATA[以下是从弱视用户角度对 Apple Vision Pro 进行的彻底调查：
+&lt;块引用&gt;
+  使用一种配置的校准无法与另一种配置正常配合（我可以从主视图启动一些应用程序，但不能启动其他应用程序）。...]]></description>
+      <guid>https://sixcolors.com/link/2024/02/vision-accessibility-on-apple-vision-pro/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 500：核心面/外围面</title>
       <link>https://sixcolors.com/podcast/2024/02/upgrade-500-core-face-peripheral-face/</link>
@@ -107,13 +116,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <description><![CDATA[我们最喜欢的 PC/Mac 应用程序；我们用于拍照、编辑和共享的应用程序；我们对 Vision Pro 角色的看法；以及在社交媒体潜在饱和的情况下我们对 Bluesky 的兴趣（或缺乏兴趣）。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/02/clockwise-540-i-did-something-bad/</guid>
       <pubDate>Thu, 08 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 481：你做得很好（删节版）</title>
-      <link>https://sixcolors.com/podcast/2024/02/the-rebound-481-youre-doing-a-great-job-abridged/</link>
-      <description><![CDATA[我们放弃剩余的时间。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/02/the-rebound-481-youre-doing-a-great-job-abridged/</guid>
-      <pubDate>Wed, 07 Feb 2024 19:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

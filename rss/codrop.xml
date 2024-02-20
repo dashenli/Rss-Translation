@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 20 Feb 2024 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:16:11 GMT</lastBuildDate>
+    <item>
+      <title>集体#814</title>
+      <link>https://tympanus.net/codrops/collective/collective-814/</link>
+      <description><![CDATA[CSS 是逻辑的 * CSS 项目样板 * Resn 的 2024 年情人节]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-814/</guid>
+      <pubDate>Tue, 20 Feb 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Ronin161 的产品组合 – 2024</title>
       <link>https://tympanus.net/codrops/2024/02/20/case-study-ronin161s-portfolio-2024/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 16 Feb 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#56</title>
+      <title>励志网站综述 #56</title>
       <link>https://tympanus.net/codrops/2024/02/16/inspirational-websites-roundup-56/</link>
       <description><![CDATA[精心挑选的新网站具有出色的设计，可以从中汲取灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/02/16/inspirational-websites-roundup-56/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用 React Three Fiber 探索滚动显示 WebGL 中图像的效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/02/07/on-scroll-revealing-webgl-image-explorations/</guid>
       <pubDate>Wed, 07 Feb 2024 13:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#810</title>
-      <link>https://tympanus.net/codrops/collective/collective-810/</link>
-      <description><![CDATA[方形复选框的可爱记忆 * 带有 Tailwind CSS 的流体悬停卡]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-810/</guid>
-      <pubDate>Tue, 06 Feb 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
