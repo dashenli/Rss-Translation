@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 20 Feb 2024 18:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:55:53 GMT</lastBuildDate>
+    <item>
+      <title>对话式人工智能将摧毁企业网络和应用程序：初创公司 Sierra 的创始人如是说</title>
+      <link>https://wired.jp/article/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/</link>
+      <description><![CDATA[人工智能初创公司 Sierra 正在开发企业可以用来与客户互动的聊天机器人。 AI如何“提升客户体验”？ 《连线》特约编辑史蒂文·利维询问了两位联合创始人。]]></description>
+      <guid>https://wired.jp/article/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/</guid>
+      <pubDate>Tue, 20 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用人工智能工具监控地铁站的乘客。伦敦实验的教训</title>
       <link>https://wired.jp/article/london-underground-ai-surveillance-documents/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[克雷格·赖特（Craig Wright）是一位计算机科学家，自称是比特币的发明者中本聪。关于其真实性的争论已经转移到法庭，审判最近已经开始。全世界都在关注押注比特币未来的决定的命运。]]></description>
       <guid>https://wired.jp/article/craig-wright-satoshi-nakamoto-trial/</guid>
       <pubDate>Sat, 17 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从密码到“密钥”，它们的实际可用性和用户身份验证的未来</title>
-      <link>https://wired.jp/article/stopped-using-passwords-passkeys/</link>
-      <description><![CDATA[越来越多的站点支持新的身份验证方法“Passkey”。如果效果良好，您将能够仅使用面部或指纹识别快速登录您的帐户。然而，它可能需要一段时间才能被广泛采用。]]></description>
-      <guid>https://wired.jp/article/stopped-using-passwords-passkeys/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
