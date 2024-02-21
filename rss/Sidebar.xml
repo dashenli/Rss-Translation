@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 06:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 09:17:49 GMT</lastBuildDate>
+    <item>
+      <title>CSS 是有逻辑的</title>
+      <link>https://geoffgraham.me/css-is-logical/</link>
+      <description><![CDATA[CSS 很奇怪，但并非不合逻辑。
+]]></description>
+      <guid>https://geoffgraham.me/css-is-logical/</guid>
+      <pubDate>Wed, 21 Feb 2024 08:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>鼓励垃圾数据的设计模式</title>
+      <link>https://css-irl.info/design-patterns-that-encourage-junk-data/</link>
+      <description><![CDATA[据估计，存储在云端的数据中有高达 88% 是 ROT（冗余、过时或琐碎）数据，或“暗数据”。
+]]></description>
+      <guid>https://css-irl.info/design-patterns-that-encourage-junk-data/</guid>
+      <pubDate>Wed, 21 Feb 2024 08:12:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Logo Rhythm，乐队徽标书</title>
+      <link>https://www.logodesignlove.com/logo-rhythm</link>
+      <description><![CDATA[专辑封面得到了所有的赞扬，但不起眼的乐队标志却从未完全得到应有的回报。到目前为止。
+]]></description>
+      <guid>https://www.logodesignlove.com/logo-rhythm</guid>
+      <pubDate>Wed, 21 Feb 2024 08:03:26 GMT</pubDate>
+    </item>
     <item>
       <title>Spectrum 2 简介：我们对 Adob​​e 体验设计未来的愿景</title>
       <link>https://medium.com/thinking-design/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design-a6c34441d2bb</link>
@@ -22,7 +46,7 @@
       <pubDate>Tue, 20 Feb 2024 06:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>Figma 首席执行官谈向 Adob​​e 出售失败后的生活</title>
+      <title>Figma 首席执行官谈其出售给 Adob​​e 失败后的生活</title>
       <link>https://www.theverge.com/2024/2/16/24075126/figma-ceo-dylan-field-interview-after-adobe</link>
       <description><![CDATA[Figma 在生成式 AI 和开发模式上下了很大的赌注。
 ]]></description>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest</guid>
       <pubDate>Fri, 16 Feb 2024 06:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的下一代型号：Gemini 1.5</title>
-      <link>https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/</link>
-      <description><![CDATA[Gemini 1.5 显着增强了性能，在跨模式的长上下文理解方面取得了突破。
-]]></description>
-      <guid>https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:57:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sora：从文本创建视频</title>
-      <link>https://openai.com/sora</link>
-      <description><![CDATA[Sora 是一个人工智能模型，可以根据文本指令创建现实且富有想象力的场景。
-]]></description>
-      <guid>https://openai.com/sora</guid>
-      <pubDate>Fri, 16 Feb 2024 05:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级碗广告的剖析</title>
-      <link>https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/</link>
-      <description><![CDATA[学习应用程序 Duolingo 厚颜无耻的五秒广告如何在拥挤的领域中脱颖而出。
-]]></description>
-      <guid>https://www.figma.com/blog/the-anatomy-of-duolingos-super-bowl-ad/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:49:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
