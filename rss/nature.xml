@@ -4,7 +4,14 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Tue, 20 Feb 2024 16:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 12:01:55 GMT</lastBuildDate>
+    <item>
+      <title>每日简报：小数点比我们想象的要早150年</title>
+      <link>https://www.nature.com/articles/d41586-024-00531-9</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00531-9</guid>
+      <pubDate>Wed, 21 Feb 2024 12:01:55 GMT</pubDate>
+    </item>
     <item>
       <title>恐龙命名200年：科学家呼吁彻底改革过时的系统</title>
       <link>https://www.nature.com/articles/d41586-024-00388-y</link>
@@ -102,41 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-00486-x</guid>
       <pubDate>Wed, 14 Feb 2024 12:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期痴呆症诊断：血液蛋白揭示高危人群</title>
-      <link>https://www.nature.com/articles/d41586-024-00418-9</link>
-      <description><![CDATA[&lt; /div&gt;
-                    &lt;图类=“图”&gt;
- 
-  &lt;源类型=“图像/webp”/&gt;
-  
-  &lt;图标题&gt;
-   对患有阿尔茨海默病（痴呆症最常见原因）的大脑进行计算机断层扫描。图片来源： Vsevolod Zviryk/科学图片库
-
-对大约 1,500 种血液蛋白的分析已经确定了生物标志物，可用于在诊断前 15 年内预测患痴呆症的风险。
-今天在自然衰老1，是朝着科学家几十年来一直在寻找的工具迈出的一步：可以在非常早期的症状前阶段检测阿尔茨海默病和其他形式的痴呆症的血液测试。
-研究人员筛查了英国生物银行 50,000 多名健康成年人的血液样本，其中 1,417 人在 14 年内患上了痴呆症。
-他们发现血液中四种蛋白质（GFAP、NEFL、GDF15 和 LTBP2）的高水平与痴呆症密切相关。
-伦敦大学学院的神经科学家阿曼达·赫斯勒格雷夫（Amanda Heslegrave）在给伦敦科学媒体中心的一份声明中说：“如果我们要在痴呆症的最早阶段采用疾病缓解疗法进行干预，就需要进行此类研究。” .
-晚期诊断
-根据世界卫生组织的数据，目前全球有超过 5500 万人患有痴呆症。
-人们通常只有在注意到记忆问题或其他症状时才会被诊断出来。那时，这种疾病可能已经发展多年。 “一旦我们诊断出来，就几乎为时已晚，”该研究的合著者、中国上海复旦大学的计算生物学家冯建峰说。 “而且这是不可能逆转的。”
-
-
-
-痴呆症风险与中年时期血蛋白失衡
-
-通过筛查 52,645 人血液样本中的 1,463 种蛋白质，作者发现 GFAP、NEFL、GDF15 和 LTBP2 水平升高与痴呆和阿尔茨海默病相关。对于一些患有痴呆症的参与者来说，这些蛋白质的血液水平在症状出现前十多年就超出了正常范围。
-GFAP 是一种为称为星形胶质细胞的神经细胞提供结构支持的蛋白质，已被提议作为阿尔​​茨海默病的诊断标记2，与 GDF15 一样 .
-最新研究发现，血液中 GFAP 水平较高的人患痴呆症的可能性是正常水平的人的两倍以上，患阿尔茨海默病的可能性是正常人的近三倍。
-作者使用机器学习来设计预测算法，将四种蛋白质生物标志物的水平与年龄、性别、教育水平和家族史等人口因素相结合。他们根据三分之二研究参与者的信息训练模型，并使用其余 17,549 人的数据测试其性能。
-该模型利用参与者被正式诊断前十多年的数据，预测了包括阿尔茨海默病在内的三种痴呆症亚型的发病率，准确率约为 90%。
-作者表示，他们的发现可用于开发血液测试，以识别有患痴呆症风险的人。其他研究人员警告说，新的生物标志物在用作临床筛查工具之前需要进一步验证。
-Heslegrave 表示，这项研究“需要进行复制，而生物标志物不仅能够帮助我们筛查疾病风险，而且能够区分疾病，这应该是我们的首要任务”。
-]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00418-9</guid>
-      <pubDate>Tue, 13 Feb 2024 16:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
