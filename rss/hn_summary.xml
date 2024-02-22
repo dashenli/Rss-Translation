@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 22 Feb 2024 12:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:07:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 标题：母亲们与比沙利度胺更大的丑闻作斗争</title>
-      <link>https://t.me/hn_summary/75476</link>
-      <description><![CDATA[母亲们对抗比沙利度胺更大的丑闻
-标题：母亲们与比沙利度胺更大的丑闻作斗争
-
-2009 年，当艾玛·墨菲了解到丙戊酸钠对未出生的孩子的有害影响时，她的生活发生了变化。他们与珍妮特·威廉姆斯 (Janet Williams) 一起成立了 In-Fact，以支持受该药物影响的家庭。他们不懈的竞选活动促成了一份建议对受害者进行赔偿的报告，并将这一丑闻比作沙利度胺。通过多年的诉讼和研究，他们发现了导致政府采取行动的关键证据。尽管遭遇挫折，他们仍继续为正义和提高认识而斗争。丙戊酸对儿童的影响是毁灭性的，凸显了对受影响家庭的问责和支持的迫切需要。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75476</guid>
-      <pubDate>Thu, 22 Feb 2024 12:17:40 GMT</pubDate>
+      <title>[媒体] 隆重推出 React-SSR-Mini，这是专为 Val Town 设计的 React 元框架。</title>
+      <link>https://t.me/hn_summary/75569</link>
+      <description><![CDATA[展示 HN：React-SSR-Mini – Val 的 React 元框架城镇
+隆重推出 React-SSR-Mini，这是专为 Val Town 设计的 React 元框架。该框架允许服务器端渲染并与 SQLite 无缝集成，以实现高效的数据管理。凭借表单处理和数据水合作用等功能，React-SSR-Mini 简化了开发流程并增强了用户体验。有争议的是，有些人可能认为使用 lodash-es 和 React@18.2.0 等外部依赖项可能会影响性能。然而，将 React 与 SQLite 结合的独特方法使 React-SSR-Mini 有别于传统框架。在 www.val.town&lt; 上体验 React-SSR-Mini 的强大功能/a&gt; 彻底改变您的 Web 开发之旅。]]></description>
+      <guid>https://t.me/hn_summary/75569</guid>
+      <pubDate>Thu, 22 Feb 2024 21:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.adrianriv.com 上的这篇文章中，作者深入研究了最小交易量的概念 [...]</title>
-      <link>https://t.me/hn_summary/75475</link>
-      <description><![CDATA[最小体积椭圆体
-在 www.adrianriv.com 上的这篇文章中，作者深入研究了最小体积椭球体的概念，探索如何将一组高维点包含在具有最小体积的椭球体中。这项研究背后的动机是代表鲁棒优化的“不确定性集”。这篇文章介绍了使用矩阵、替代参数化来表示椭球体，并将最小体积包围椭球体 (MVEE) 问题提出为凸优化问题。作者提供了详细的解释、数值示例以及对不同椭球参数化之间关系的见解。这篇文章最后讨论了如何找到包含给定点集的最小体积的椭球体。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75475</guid>
-      <pubDate>Thu, 22 Feb 2024 12:04:32 GMT</pubDate>
+      <title>[媒体]本文讨论了强迫法学硕士（大语言模型 [...]</title>
+      <link>https://t.me/hn_summary/75568</link>
+      <description><![CDATA[强迫法学硕士做和透露几乎任何事情
+本文讨论了强迫 LLM（大型语言模型）执行各种任务并泄露敏感信息的道德影响。作者深入研究了法学硕士超出其预期用途的潜在风险和后果，强调了人工智能领域制定道德准则和法规的必要性。争议在于围绕这些强大的语言模型的操纵和利用的道德困境。它是一篇发人深省的文章，阐明了与法学硕士合作时必须考虑的道德因素。]]></description>
+      <guid>https://t.me/hn_summary/75568</guid>
+      <pubDate>Thu, 22 Feb 2024 21:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Stepful 是一家由 Y Combinator 支持的公司，正在彻底改变联合医疗保健培训 [...]</title>
-      <link>https://t.me/hn_summary/75474</link>
-      <description><![CDATA[Stepful (YC S21) 正在纽约招聘一名产品工程师&lt; /a&gt;
-Stepful 是一家由 Y Combinator 支持的公司，通过提供数字化优先计划，正在彻底改变联合医疗保健培训，这些计划可以以五倍的速度和极低的成本为毕业生做好就业准备。毕业生主要来自代表性不足的社区，经过短短四个月的培训，收入就增加了 25%。他们现在正在纽约招聘一名产品工程师，致力于开发世界一流的学习体验、创新的职业服务、为内部员工提供支持、尖端的内容管理和数据管道。理想的候选人有动力产生影响，痴迷于解决复杂的问题，并热衷于加入一家处于早期阶段的公司。 Stepful 提供具有竞争力的薪资、股权方案和福利，并致力于多元化和包容性。]]></description>
-      <guid>https://t.me/hn_summary/75474</guid>
-      <pubDate>Thu, 22 Feb 2024 12:01:26 GMT</pubDate>
+      <title>Reflex 是一个用于用纯 Python 构建 Web 应用程序的开源框架，正在寻求全栈 e [...]</title>
+      <link>https://t.me/hn_summary/75567</link>
+      <description><![CDATA[Reflex (YC W23) 正在招聘 SWE 来从事开源工作Python 网络应用
+Reflex 是一个用纯 Python 构建 Web 应用程序的开源框架，正在旧金山/湾区寻找全栈工程师来开发面向用户的应用程序，并为他们的开源项目做出贡献。该角色涉及领导网站、托管服务和即将推出的应用程序生成平台的开发。职责包括设计和实现新功能、维护代码质量以及积极参与 Reflex 社区。这项工作提供了在快速发展的代码库上工作的机会，并在塑造框架的未来方面发挥关键作用。立即申请加入 Reflex 团队，并在 Web 开发领域产生有意义的影响。]]></description>
+      <guid>https://t.me/hn_summary/75567</guid>
+      <pubDate>Thu, 22 Feb 2024 21:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文探讨了 Ansible 三元过滤器的有趣用途，展示了示例 [...]</title>
-      <link>https://t.me/hn_summary/75473</link>
-      <description><![CDATA[Ansible 三元过滤器的有趣用途
-本文探讨了 Ansible 三元过滤器的有趣用法，展示了一些示例，例如根据详细级别显示命令输出、测试任务幂等性、基于正则表达式搜索进行过滤以及处理较旧的 Python 版本。作者强调了过滤器的多功能性，并为每个用例提供了代码片段。本文还讨论了替代方法，例如使用评论过滤器，并邀请读者分享他们自己对三元过滤器的独特用法。总的来说，本文深入探讨了 Ansible 功能的实际应用，提供见解和示例供读者探索。]]></description>
-      <guid>https://t.me/hn_summary/75473</guid>
-      <pubDate>Thu, 22 Feb 2024 11:57:19 GMT</pubDate>
+      <title>[媒体] 在 thenewsta 上的文章“揭开软件开发中不良代码的成本”中 [...]</title>
+      <link>https://t.me/hn_summary/75566</link>
+      <description><![CDATA[揭开软件开发中不良代码的成本&lt; br/&gt;
+在 thenewstack.io 上的文章“揭开软件开发中不良代码的成本”中，作者强调了不良代码对开发流程和整个软件生命周期的重大影响。该文章强调了与不良代码相关的成本不断增加，研究表明，五年内，这些成本可能高达 150 万美元或超过 27,000 开发时间。作者还讨论了日益严重的不良代码问题，开发人员面临倦怠和对效率的要求不断提高。本文建议采用“编写代码时保持清洁”的方法来确保交付高质量的软件并减轻技术债务。]]></description>
+      <guid>https://t.me/hn_summary/75566</guid>
+      <pubDate>Thu, 22 Feb 2024 20:57:19 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，请注意，AT&T 目前正在经历大范围的停电 [...]</title>
-      <link>https://t.me/hn_summary/75472</link>
-      <description><![CDATA[告诉 HN：AT&amp;T 目前出现中断
-大家好，根据 Twitter 的报道，请注意，AT&amp;T 目前正在美国各地经历大范围的停电。令人惊讶的是，AT&amp;T 网站目前并未提及此问题。请继续关注更新，我们将了解有关此次意外中断的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/75472</guid>
-      <pubDate>Thu, 22 Feb 2024 11:49:13 GMT</pubDate>
+      <title>耶鲁大学做出了有争议的决定，将 SAT 考试恢复为最佳方式 [...]</title>
+      <link>https://t.me/hn_summary/75565</link>
+      <description><![CDATA[耶鲁大学恢复 SAT 测试作为预测成功的最佳方式
+耶鲁大学做出了一项颇具争议的决定，即恢复 SAT 考试，将其作为预测新生成功的最佳方式。尽管大学越来越倾向于选择考试，但耶鲁大学认为标准化考试成绩仍然是评估申请者的一个有价值的工具。这一令人惊讶的举动与当前高等教育的叙述背道而驰，并引发了教育工作者和学生之间的争论。耶鲁大学的决定凸显了围绕标准化考试在大学招生中的作用正在进行的争论，并对考试可选政策的未来提出了疑问。]]></description>
+      <guid>https://t.me/hn_summary/75565</guid>
+      <pubDate>Thu, 22 Feb 2024 20:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔正在为其代工客户推出突破性的芯片技术，为客户带来光明 [...]</title>
-      <link>https://t.me/hn_summary/75471</link>
-      <description><![CDATA[英特尔未来代工技术一览
-英特尔正在为其代工客户推出突破性的芯片技术，让人们一睹未来数据中心处理器的风采。这些进步包括更密集的逻辑以及 3D 堆叠芯片内连接性增加 16 倍，标志着英特尔从生产自己的芯片过渡到代工厂的重大转变。 Clearwater Forest 服务器 CPU 中展示的新技术采用 3D 混合键合和背面供电等创新方法。此外，英特尔还推出了 RibbonFET 晶体管和第二代 EMIB 技术，为高性能计算的新时代奠定了基础。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75471</guid>
-      <pubDate>Thu, 22 Feb 2024 11:46:09 GMT</pubDate>
+      <title>[媒体]为什么多伦多应该“感到愤怒......”</title>
+      <link>https://t.me/hn_summary/75564</link>
+      <description><![CDATA[为什么多伦多应该对“不分青红皂白”感到“愤怒......”公交车站枪击事件
+在 www.thestar.com中，作者重点介绍了最近多伦多公交车站发生的枪击事件，呼吁社区团结起来表达愤怒。作者强调这些袭击是不分青红皂白的，造成无辜旁观者受伤和死亡。争议在于毫无意义的暴力和对人命的不尊重。文章敦促多伦多居民要求当局采取行动，解决这些枪击事件的根源，确保社区安全。]]></description>
+      <guid>https://t.me/hn_summary/75564</guid>
+      <pubDate>Thu, 22 Feb 2024 20:55:11 GMT</pubDate>
     </item>
     <item>
-      <title>美国手机信号中断</title>
-      <link>https://t.me/hn_summary/75470</link>
-      <description><![CDATA[美国 AT&amp;T、T-Mobile 和 Verizon 遭遇蜂窝网络中断用户
-周四，据报道，美国 AT&amp;T、T-Mobile 和 Verizon 用户遭遇蜂窝网络中断，DownDetector.com。 AT&amp;T 的断电次数峰值超过 31,000 次。此外，据报道 Verizon 和 T-Mobile 发生了 800 多次服务中断事件。停电原因尚不清楚，无线运营商尚未对此事发表评论。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/75470</guid>
-      <pubDate>Thu, 22 Feb 2024 11:44:04 GMT</pubDate>
+      <title>[媒体] 一名法官驳回了针对 Snapchat 将一名 12 岁女孩与 [...]</title>
+      <link>https://t.me/hn_summary/75563</link>
+      <description><![CDATA[Snapchat 不承担将 12 岁儿童与被定罪者联系起来的责任性犯罪者
+一名法官驳回了针对 Snapchat 的投诉，该投诉称 Snapchat 将一名 12 岁女孩与已定罪的性犯罪者联系起来，导致她遭受性侵犯。该诉讼称 Snapchat 的“快速添加”功能将女孩引向掠夺者，但法官裁定《通信规范法》第 230 条使 Snapchat 免于承担责任。这一决定与洛杉矶的一项裁决形成鲜明对比，该裁决认为 Snapchat 对将青少年与毒贩联系起来负有责任。法官的意见引起了人们对第 230 条范围广泛的担忧，表明需要采取立法行动。此案凸显了关于在线平台保护未成年人免受掠夺者侵害的责任的持续争论。]]></description>
+      <guid>https://t.me/hn_summary/75563</guid>
+      <pubDate>Thu, 22 Feb 2024 20:49:04 GMT</pubDate>
     </item>
     <item>
-      <title>GIMP 的最新版本 2.99.18 是高级版本发布之前的最终开发预览版。</title>
-      <link>https://t.me/hn_summary/75469</link>
-      <description><![CDATA[Gimp 2.99.18 发布：3.0 之前的最后一个开发预览
-GIMP 的最新版本 2.99.18 是备受期待的 3.0 版本之前的最终开发预览版。此版本引入了 Space Invasion 项目，重点关注软件内的颜色正确性和转换。此外，改进还包括非破坏性编辑功能、字体处理增强、画笔工具的自动扩展图层以及用于在画布上对齐图层的新捕捉选项。虽然此版本不稳定且不建议用于生产使用，但它让您可以一睹即将发布的 GIMP 3.0 版本中将包含的令人兴奋的更新和功能。 （根据 35% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75469</guid>
-      <pubDate>Thu, 22 Feb 2024 11:41:59 GMT</pubDate>
+      <title>[媒体]Reddit，流行的社交媒体公司，已在纽约证券交易所申请首次公开募股（IPO）。</title>
+      <link>https://t.me/hn_summary/75562</link>
+      <description><![CDATA[Reddit 文件将在纽约证券交易所上市，股票代码为 RDDT
+流行的社交媒体公司 Reddit 已在纽约证券交易所申请首次公开募股，股票代码为 RDDT。尽管该公司 2023 年的年销售额为 8.04 亿美元，但自成立以来一直出现净亏损。 Reddit 的目标是利用在线广告市场，计划扩大其搜索能力，到 2027 年解决搜索广告领域价值 7500 亿美元的机会。该公司成立于 2005 年，已筹集 13 亿美元资金，后估值为 10 美元十亿。然而，Reddit 在建立成功的在线广告业务方面面临着挑战，并且经历了用户增长的波动。]]></description>
+      <guid>https://t.me/hn_summary/75562</guid>
+      <pubDate>Thu, 22 Feb 2024 20:46:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 scorpiosoftware.net 上发现 Windows 投影文件系统 (ProjFS) 的隐藏瑰宝。</title>
-      <link>https://t.me/hn_summary/75468</link>
-      <description><![CDATA[投影文件系统
-在 scorpiosoftware.net。此功能允许您使用文件系统公开分层数据，从而提供与标准文件查看工具和 API 兼容等优势。了解如何从头开始构建 ProjFS 提供程序，使用 C++ 和回调来管理对象目录和文件。深入了解虚拟化初始化、启动和实现回调的技术细节。探索 ProjFS 在定制解决方案方面的潜力，并继续关注有关使用 Rust 等其他语言的未来帖子。发现 ProjFS 在现代 Windows 系统中的强大功能。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/75468</guid>
-      <pubDate>Thu, 22 Feb 2024 11:22:50 GMT</pubDate>
+      <title>[媒体] 在“没有人因解决从未发生过的问题而受到赞扬”中，作者光盘 [...]</title>
+      <link>https://t.me/hn_summary/75561</link>
+      <description><![CDATA[没有人因解决从未发生过的问题而获得荣誉 (2001) [pdf](https://news.ycombinator.com/item?id=39472693)
+在《没有人因解决从未发生过的问题而获得荣誉》一文中，作者讨论了在组织中实施流程改进计划的挑战和悖论。尽管对全面质量管理 (TQM) 等计划进行了大量投资，但许多努力未能产生显着成果。作者认为问题不在于所使用的具体工具，而在于这些程序如何与组织结构交互。他们提出了一个因果循环图来说明改进的动态，强调投资流程能力比简单地更加努力工作的重要性。本文提供了提高改进计划成功率的实用建议。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/75561</guid>
+      <pubDate>Thu, 22 Feb 2024 20:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：管理 Windows 操作系统的最简洁方法？</title>
-      <link>https://t.me/hn_summary/75467</link>
-      <description><![CDATA[询问 HN：管理 Windows 操作系统的最简洁方法？ 
-作者正在寻求有关如何为需要仅使用 Windows 软件的大学课程干净地管理 Windows 操作系统的建议。为了简单和高效，他们更喜欢避免使用点文件，而是像 NixOS 上那样寻找单个配置文件。他们正在考虑使用 PowerShell 脚本或所需状态配置，但不确定。他们还需要一个容器开发环境来避免依赖性问题，考虑使用 Docker 或 nx。作者欢迎任何有关有效管理 Windows 的提示或技巧。]]></description>
-      <guid>https://t.me/hn_summary/75467</guid>
-      <pubDate>Thu, 22 Feb 2024 11:19:44 GMT</pubDate>
+      <title>TL;DR：Hatchet 是一个开发者优先的即时工程平台，于 2 月 22 日推出。</title>
+      <link>https://t.me/hn_summary/75560</link>
+      <description><![CDATA[展示 HN：开源、开发者优先的提示工程平台&lt; /a&gt;
+TL;DR：Hatchet 是一个开发者优先的即时工程平台，于 2 月 22 日推出。它允许团队迭代提示、优化上下文并更快地调试 LLM 应用程序，并将更改写回代码库。该平台通过使提示能够存在于您的代码库中、提供工作流作为远程函数调用、错误处理和工作负载分配的代码，解决了现有提示工程工具的局限性。新功能包括 LLM 工作流程的 UI、完整的交互历史记录以及将更改同步到 Github。使用 Hatchet Python 快速入门存储库开始使用自托管实例。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75560</guid>
+      <pubDate>Thu, 22 Feb 2024 20:35:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
