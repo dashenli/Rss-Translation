@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 22 Feb 2024 21:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:54:29 GMT</lastBuildDate>
+    <item>
+      <title>开始将 Deepfakes 视为“酷”的人</title>
+      <link>https://wired.jp/article/ai-deepfakes-companies-executives-academics/</link>
+      <description><![CDATA[包括美国在内的许多国家都担心虚假信息的传播以及深度造假对选举造成的影响。另一方面，随着生成式人工智能工具的普及，它变得更容易使用，并且有人尝试将其融入新的、有吸引力的东西中。]]></description>
+      <guid>https://wired.jp/article/ai-deepfakes-companies-executives-academics/</guid>
+      <pubDate>Thu, 22 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>英特尔“复兴”场景押注AI领域</title>
       <link>https://wired.jp/article/intel-ai-reboot-future-us-chipmaking/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>“Galaxy S24”系列评测：顶级硬件与谷歌“智能”融合</title>
       <link>https://wired.jp/article/samsung-galaxy-s24-s24-plus-and-s24-ultra/</link>
-      <description><![CDATA[三星新智能手机型号“Galaxy S24”、“Galaxy S24+”和“Galaxy S24 Ultra”。当我们测试它的功能时，我们发现它是顶级硬件和谷歌“智能”的结合。然而，也存在一些“弱点”。]]></description>
+      <description><![CDATA[三星新智能手机型号“Galaxy S24”、“Galaxy S24+”和“Galaxy S24 Ultra”。当我们测试它的功能时，我们发现它是顶级硬件和谷歌智能的结合。然而，也存在一些“弱点”。]]></description>
       <guid>https://wired.jp/article/samsung-galaxy-s24-s24-plus-and-s24-ultra/</guid>
       <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>使用人工智能工具监控地铁站的乘客。伦敦实验的教训</title>
       <link>https://wired.jp/article/london-underground-ai-surveillance-documents/</link>
-      <description><![CDATA[《连线》获得的文件披露了伦敦交通局在全市车站进行的一项实验的细节。这是利用计算机视觉来检测犯罪活动、武器引入、跌落火车轨道、未经授权的登机等的尝试。]]></description>
+      <description><![CDATA[《连线》获得的文件揭示了伦敦交通局在全市车站进行的一项实验的细节。这是利用计算机视觉来检测犯罪活动、武器引入、跌落火车轨道、未经授权的登机等的尝试。]]></description>
       <guid>https://wired.jp/article/london-underground-ai-surveillance-documents/</guid>
       <pubDate>Tue, 20 Feb 2024 08:00:00 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>工程师们正在努力解决太空探测器航行者一号上的意外情况，以延长其寿命。</title>
       <link>https://wired.jp/article/nasa-voyager-one-space-probe-lost-contact/</link>
-      <description><![CDATA[自 1977 年以来一直在飞行的太空探测器旅行者一号发生了故障。显然，原因在于近 50 年前“最先进”的计算机，工程师们正在试图通过阅读当时的纸质文档来找到解决方案。]]></description>
+      <description><![CDATA[自 1977 年以来一直在飞行的太空探测器旅行者一号发生了故障。显然，原因在于近 50 年前“最先进”的计算机，工程师们正试图通过阅读当时的纸质文档来找到解决方案。]]></description>
       <guid>https://wired.jp/article/nasa-voyager-one-space-probe-lost-contact/</guid>
       <pubDate>Mon, 19 Feb 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>全球变暖对滑雪比赛影响巨大 高山滑雪世界杯“爆冷”背后的真相</title>
       <link>https://wired.jp/article/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/</link>
-      <description><![CDATA[高山滑雪世界杯男子回转比赛中出现了“冷门”，一名排名垫底的瑞士运动员夺得了冠军。据认为，异常天气条件导致的积雪融化是一个因素，并且有人指出，全球变暖可能使竞技雪上运动的未来变得不确定。]]></description>
+      <description><![CDATA[高山滑雪世界杯男子回转比赛中出现了“冷门”，一名瑞士运动员从最后一名获得了冠军。人们认为，异常天气条件导致的融雪是一个因素，并且有人指出，全球变暖可能使竞技雪上运动的未来变得不确定。]]></description>
       <guid>https://wired.jp/article/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/</guid>
       <pubDate>Mon, 19 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[微软正试图加强其家用游戏机“Xbox”业务，但一些人一直期待的便携式游戏机是否会出现呢？从官方播客中高管的评论中解读可能性。]]></description>
       <guid>https://wired.jp/article/give-us-an-xbox-handheld-already/</guid>
       <pubDate>Sun, 18 Feb 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新研究表明地下水正在迅速下降。含水层回灌技术在全球推广</title>
-      <link>https://wired.jp/article/the-worlds-essential-aquifers-are-in-deep-trouble/</link>
-      <description><![CDATA[一篇研究世界各地含水层的新学术论文揭示了令人震惊的结果：大面积地下水位正在迅速下降。在此背景下，世界各地正在逐步采取措施阻止资源枯竭。]]></description>
-      <guid>https://wired.jp/article/the-worlds-essential-aquifers-are-in-deep-trouble/</guid>
-      <pubDate>Sun, 18 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
