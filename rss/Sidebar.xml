@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 09:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 12:25:02 GMT</lastBuildDate>
+    <item>
+      <title>诚信设计：道德设计师的深色图案手册</title>
+      <link>https://raw.studio/blog/designing-with-integrity-the-ethical-designers-handbook-on-dark-patterns/</link>
+      <description><![CDATA[深色图案是一种欺骗性的设计策略，旨在操纵用户采取他们可能无意的行为。
+]]></description>
+      <guid>https://raw.studio/blog/designing-with-integrity-the-ethical-designers-handbook-on-dark-patterns/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>沙丘字体之谜</title>
+      <link>https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</link>
+      <description><![CDATA[为定义科幻小说系列及其作者弗兰克·赫伯特的视觉形象的字体命名
+]]></description>
+      <guid>https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</guid>
+      <pubDate>Fri, 23 Feb 2024 10:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>惊叹于数学家马克斯·布鲁克纳的数百个多面体模型</title>
+      <link>https://www.thisiscolossal.com/2024/02/max-bruckner-polyhedra/</link>
+      <description><![CDATA[德国学者马克斯·布鲁克纳（Max Brückner，1860-1934 年）生前因其出色的多面体模型收藏而受到赞誉。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/02/max-bruckner-polyhedra/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:21:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polypan 18：Polypane 门户简介</title>
+      <link>https://polypane.app/blog/polypane-18-introducing-polypane-portal/</link>
+      <description><![CDATA[借助 Polypane Portal，您现在可以在所有浏览器、引擎和设备上构建和测试您的网站，而无需离开 Polypane。
+]]></description>
+      <guid>https://polypane.app/blog/polypane-18-introducing-polypane-portal/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计啊！·学习设计的乐趣</title>
+      <link>https://arun.is/blog/design-ah/</link>
+      <description><![CDATA[来自日本的关于设计的教育节目的瑰宝。
+]]></description>
+      <guid>https://arun.is/blog/design-ah/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:19:50 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年度水下摄影师</title>
       <link>https://www.thisiscolossal.com/2024/02/underwater-photographer-of-the-year/</link>
@@ -72,7 +112,7 @@
     <item>
       <title>鼓励垃圾数据的设计模式</title>
       <link>https://css-irl.info/design-patterns-that-encourage-junk-data/</link>
-      <description><![CDATA[据估计，存储在云端的数据中有高达 88% 是 ROT（冗余、过时或琐碎）数据，或“暗数据”。
+      <description><![CDATA[据估计，存储在云端的数据中有高达 88% 是 ROT（冗余、过时或琐碎）数据，即“暗数据”。
 ]]></description>
       <guid>https://css-irl.info/design-patterns-that-encourage-junk-data/</guid>
       <pubDate>Wed, 21 Feb 2024 08:12:45 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.logodesignlove.com/logo-rhythm</guid>
       <pubDate>Wed, 21 Feb 2024 08:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spectrum 2 简介：我们对 Adob​​e 体验设计未来的愿景</title>
-      <link>https://medium.com/thinking-design/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design-a6c34441d2bb</link>
-      <description><![CDATA[Adobe 设计系统全面更新的预览。
-]]></description>
-      <guid>https://medium.com/thinking-design/introducing-spectrum-2-our-vision-for-the-future-of-adobe-experience-design-a6c34441d2bb</guid>
-      <pubDate>Tue, 20 Feb 2024 06:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年如何使用 Favicon：满足大多数需求的六个文件</title>
-      <link>https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs</link>
-      <description><![CDATA[现代网络网站图标的终极指南。
-]]></description>
-      <guid>https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs</guid>
-      <pubDate>Tue, 20 Feb 2024 06:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 首席执行官谈向 Adob​​e 出售失败后的生活</title>
-      <link>https://www.theverge.com/2024/2/16/24075126/figma-ceo-dylan-field-interview-after-adobe</link>
-      <description><![CDATA[Figma 在生成式 AI 和开发模式上下了很大的赌注。
-]]></description>
-      <guid>https://www.theverge.com/2024/2/16/24075126/figma-ceo-dylan-field-interview-after-adobe</guid>
-      <pubDate>Tue, 20 Feb 2024 06:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动驱动的动画：您想要溢出：剪辑，而不是溢出：隐藏</title>
-      <link>https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/</link>
-      <description><![CDATA[如果您创建滚动驱动的动画，请检查 DOM 树中是否存在溢出：隐藏元素，并将其更改为溢出：剪辑。
-]]></description>
-      <guid>https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 组件清单</title>
-      <link>https://figmachecklists.com/</link>
-      <description><![CDATA[这些清单是为寻求提升 Figma 组件水平的设计师而设计的。
-]]></description>
-      <guid>https://figmachecklists.com/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:10:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
