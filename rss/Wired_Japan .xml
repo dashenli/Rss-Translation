@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 24 Feb 2024 00:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 06:16:42 GMT</lastBuildDate>
+    <item>
+      <title>空间计算领域，应用竞争变成室内装饰和杂货 -- Vision Pro 开发者：MESON</title>
+      <link>https://wired.jp/article/apple-vision-pro-meson-sunnytune/</link>
+      <description><![CDATA[3D天气应用程序“SunnyTune”是MESON与Apple Vision Pro一起发布的。看似可爱的界面背后隐藏着一种全新的哲学，它更新了人类与计算之间的关系。]]></description>
+      <guid>https://wired.jp/article/apple-vision-pro-meson-sunnytune/</guid>
+      <pubDate>Sat, 24 Feb 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰入侵两年后，市政府数字平台支持受创伤公民的心理健康</title>
       <link>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[高山滑雪世界杯男子回转比赛中出现了“冷门”，一名瑞士运动员从最后一名获得了冠军。据认为，异常天气条件导致的积雪融化是一个因素，并且有人指出，全球变暖可能使竞技雪上运动的未来变得不确定。]]></description>
       <guid>https://wired.jp/article/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/</guid>
       <pubDate>Mon, 19 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>那个人就是比特币的发明者中本聪吗？法庭列举的矛盾及反驳内容</title>
-      <link>https://wired.jp/article/craig-wright-trial-cross-examination-bitcoin-satoshi/</link>
-      <description><![CDATA[法庭上正在就计算机科学家克雷格·赖特（Craig Wright）的说法的真实性展开辩论，他自称是比特币的发明者“中本聪”。在对证人的盘问过程中，“证据”中的矛盾被相继引用，赖特的避嫌主张不断变得复杂起来。]]></description>
-      <guid>https://wired.jp/article/craig-wright-trial-cross-examination-bitcoin-satoshi/</guid>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
