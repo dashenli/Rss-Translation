@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 23 Feb 2024 18:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:52:57 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰入侵两年后，市政府数字平台支持受创伤公民的心理健康</title>
+      <link>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</link>
+      <description><![CDATA[两年来俄罗斯的轰炸和炮击使数百万乌克兰人遭受心理健康问题。为了重建，基辅市已开始为有情感创伤的人们建立支持系统。]]></description>
+      <guid>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</guid>
+      <pubDate>Fri, 23 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>海面温度上升势不可挡，持续破纪录“极不正常”</title>
       <link>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[法庭上正在就计算机科学家克雷格·赖特（Craig Wright）的说法的真实性展开辩论，他自称是比特币的发明者“中本聪”。在对证人的盘问过程中，“证据”中的矛盾被相继引用，赖特的避嫌主张不断变得复杂起来。]]></description>
       <guid>https://wired.jp/article/craig-wright-trial-cross-examination-bitcoin-satoshi/</guid>
       <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>单次注射基因疗法即可恢复蛋白质，使先天性听力损失的儿童能够再次听到声音。</title>
-      <link>https://wired.jp/article/deaf-children-hear-gene-therapy/</link>
-      <description><![CDATA[到目前为止，除了人工耳蜗之外，还没有任何治疗方法可以部分恢复听力。世界各地的研究团队目前正在研究基因疗法，以恢复将音频信号从耳朵传输到大脑所需的蛋白质。]]></description>
-      <guid>https://wired.jp/article/deaf-children-hear-gene-therapy/</guid>
-      <pubDate>Sun, 18 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
