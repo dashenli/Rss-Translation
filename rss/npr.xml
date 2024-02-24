@@ -4,9 +4,16 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 00:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 03:15:18 GMT</lastBuildDate>
     <item>
-      <title>陪审团裁定全国步枪协会和韦恩·拉皮埃尔在民事腐败案中负有责任</title>
+      <title>纽约十字军总检察长再次获胜，全国步枪协会的裁决和特朗普的裁决</title>
+      <link>https://npr.org/2024/02/20/1232056652/new-york-attorney-general-letitia-james-trump-nra</link>
+      <description><![CDATA[纽约总检察长利蒂西亚·詹姆斯 (Letitia James) 因针对有权势的国家人物而享有盛誉。批评者称她的诉讼是出于政治动机，但她在法庭上不断获胜。]]></description>
+      <guid>https://npr.org/2024/02/20/1232056652/new-york-attorney-general-letitia-james-trump-nra</guid>
+      <pubDate>Sat, 24 Feb 2024 01:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>陪审团裁定全国步枪协会、韦恩·拉皮埃尔在民事腐败案中负有责任</title>
       <link>https://npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york</link>
       <description><![CDATA[枪支权利非营利组织的高管被指控将数百万全国步枪协会捐款用于私人奢侈品。陪审团裁定前首席执行官韦恩·拉皮埃尔 (Wayne LaPierre) 需承担超过 540 万美元的损失。]]></description>
       <guid>https://npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>在艺术家童年的家中发现塞尚海景壁画</title>
       <link>https://npr.org/2024/02/23/1233296339/cezanne-seascape-mural-discovered-at-artists-childhood-home</link>
-      <description><![CDATA[在法国普罗旺斯地区艾克斯的塞尚家族宅邸翻修过程中发现了这件以前不为人知的艺术品，扩展了人们对这位艺术家发展的了解。]]></description>
+      <description><![CDATA[在法国普罗旺斯艾克斯的塞尚家族宅邸翻修过程中发现了这件以前不为人知的艺术品，扩展了人们对这位艺术家发展的了解。]]></description>
       <guid>https://npr.org/2024/02/23/1233296339/cezanne-seascape-mural-discovered-at-artists-childhood-home</guid>
       <pubDate>Fri, 23 Feb 2024 18:02:35 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>塔克·卡尔森对弗拉基米尔·普京的采访显示了什么，隐藏了什么</title>
       <link>https://npr.org/2024/02/23/1233424762/tucker-carlson-putin-interview-analysis</link>
-      <description><![CDATA[塔克·卡尔森没有询问普京为何有这么多反对者最终被监禁和谋杀，也没有询问国际刑事法院对他因在乌克兰犯下战争罪而发出的逮捕令。]]></description>
+      <description><![CDATA[塔克·卡尔森没有询问普京为何有如此多的反对者最终被监禁和谋杀，也没有询问国际刑事法院对他在乌克兰犯下战争罪的逮捕令。]]></description>
       <guid>https://npr.org/2024/02/23/1233424762/tucker-carlson-putin-interview-analysis</guid>
       <pubDate>Fri, 23 Feb 2024 14:40:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[阿拉巴马州立法者提出法案，以澄清州最高法院关于冷冻胚胎是“儿童”的裁决。泄露的文件显示了一家中国公司为中国政府进行的黑客活动。]]></description>
       <guid>https://npr.org/2024/02/23/1233415950/alabama-ivf-bills-chinese-hacking-leak</guid>
       <pubDate>Fri, 23 Feb 2024 13:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登宣布对俄罗斯乌克兰战争和纳瓦尔尼之死实施500多项新制裁</title>
-      <link>https://npr.org/2024/02/23/1233410578/biden-russia-sanctions-ukraine-war-anniversary-navalny</link>
-      <description><![CDATA[拜登总统因俄罗斯乌克兰战争和俄罗斯反对派领导人阿列克谢·纳瓦尔尼之死宣布实施 500 多项新制裁。]]></description>
-      <guid>https://npr.org/2024/02/23/1233410578/biden-russia-sanctions-ukraine-war-anniversary-navalny</guid>
-      <pubDate>Fri, 23 Feb 2024 12:39:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
