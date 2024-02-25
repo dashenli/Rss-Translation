@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 06:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 09:11:10 GMT</lastBuildDate>
+    <item>
+      <title>奥本海默的电影主导美国演员工会奖，史翠珊则赢得终身奖</title>
+      <link>https://npr.org/2024/02/25/1233746940/oppenheimer-movie-dominates-sag-awards-while-streisand-wins-lifetime-prize</link>
+      <description><![CDATA[周六，奥本海默在美国演员工会奖 (SAG) 颁奖典礼上占据主导地位，几位获奖者向去年的演员罢工表示敬意。芭芭拉·史翠珊 (Barbra Streisand) 荣获终身成就奖。]]></description>
+      <guid>https://npr.org/2024/02/25/1233746940/oppenheimer-movie-dominates-sag-awards-while-streisand-wins-lifetime-prize</guid>
+      <pubDate>Sun, 25 Feb 2024 06:51:43 GMT</pubDate>
+    </item>
     <item>
       <title>美国和英国对也门胡塞武装18个目标进行打击</title>
       <link>https://npr.org/2024/02/24/1233732629/yemen-houthi-strikes-us-uk</link>
@@ -34,7 +41,7 @@
       <pubDate>Sat, 24 Feb 2024 20:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>黑莉称特朗普对黑人的“恶心”言论是“巨大的警告信号”</title>
+      <title>黑莉称特朗普对黑人的“恶心”评论是“巨大的警告信号”</title>
       <link>https://npr.org/2024/02/24/1233718517/nikki-haley-donald-trump-black-voters-race-election-day-sc</link>
       <description><![CDATA[尼基·黑利 (Nikki Haley) 表示，唐纳德·特朗普 (Donald Trump) 周五对黑人发表的煽动性言论更加证明他将在 11 月大选中伤害共和党。]]></description>
       <guid>https://npr.org/2024/02/24/1233718517/nikki-haley-donald-trump-black-voters-race-election-day-sc</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[警方称，周五，在加利福尼亚州中部一个农业区发生的一场迎头撞车事故中，七名乘坐面包车的农场工人和一辆皮卡车的司机丧生。]]></description>
       <guid>https://npr.org/2024/02/23/1233683691/8-men-killed-crash-central-california</guid>
       <pubDate>Sat, 24 Feb 2024 04:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>该公司表示，美国月球着陆器处于一侧，一些天线被遮盖</title>
-      <link>https://npr.org/2024/02/23/1233677833/lunar-lander-odysseus-sideways-moon</link>
-      <description><![CDATA[直觉机器公司官员周五表示，奥德修斯号——50多年来美国第一艘着陆器——在着陆时翻倒，最终在月球南极附近侧翻，阻碍了通讯。]]></description>
-      <guid>https://npr.org/2024/02/23/1233677833/lunar-lander-odysseus-sideways-moon</guid>
-      <pubDate>Sat, 24 Feb 2024 02:36:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
