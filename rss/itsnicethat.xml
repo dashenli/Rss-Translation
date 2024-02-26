@@ -3,8 +3,22 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 26 Feb 2024 09:16:06 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 26 Feb 2024 12:23:53 GMT</lastBuildDate>
+    <item>
+      <title>Lauren Graycar 优雅的字体由正方形、圆形和三角形分层而成</title>
+      <link>https://www.itsnicethat.com/articles/lauren-graycar-k73r-graphic-design-project-260224</link>
+      <description><![CDATA[这位洛杉矶设计师分享了 K.73r 字体是如何在如此严格的规则下制作的，以及为什么它以莫扎特的经典之一命名。]]></description>
+      <guid>https://www.itsnicethat.com/articles/lauren-graycar-k73r-graphic-design-project-260224</guid>
+      <pubDate>Mon, 26 Feb 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“希望与恐惧的混合体”：Katy Wang 和 Gabriel Greenough 激发了 Z 世代对气候变化的感受</title>
+      <link>https://www.itsnicethat.com/articles/katy-wang-gabriel-greenough-animation-project-260224</link>
+      <description><![CDATA[该动画使用印刷、绘画和扫描的重复混合媒体方法，庆祝自然世界的循环。]]></description>
+      <guid>https://www.itsnicethat.com/articles/katy-wang-gabriel-greenough-animation-project-260224</guid>
+      <pubDate>Mon, 26 Feb 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>POV：人工智能生成的专辑封面优先考虑病毒传播而不是创造力</title>
       <link>https://www.itsnicethat.com/articles/pov-ai-generated-album-covers-prioritise-virality-over-creativity-220224</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Refik Anadol 希望揭开人工智能的神秘面纱，超越生成艺术的“闪亮像素”</title>
       <link>https://www.itsnicethat.com/features/refik-anadol-echoes-of-the-earth-living-archive-ai-art-spotlight-210224</link>
-      <description><![CDATA[这位艺术家说，在他最新的研究和数据收集的史诗壮举中，如果你只是看到漂亮的图片，那么你还不够仔细。]]></description>
+      <description><![CDATA[这位艺术家表示，在他最新的研究和数据收集史诗般的壮举中，如果你只是看到漂亮的图片，那么你还不够仔细。]]></description>
       <guid>https://www.itsnicethat.com/features/refik-anadol-echoes-of-the-earth-living-archive-ai-art-spotlight-210224</guid>
       <pubDate>Wed, 21 Feb 2024 14:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[查看我们的姊妹网站 If You Could Jobs 上发布的每周职位汇总。]]></description>
       <guid>https://www.itsnicethat.com/news/if-you-could-jobs-190224</guid>
       <pubDate>Mon, 19 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>北田正太郎用纸偶制作他的滑稽小插曲</title>
-      <link>https://www.itsnicethat.com/articles/shotaro-kitada-animation-discover-190224</link>
-      <description><![CDATA[这位东京艺术家使用绳子和电机将他有趣的创作变为现实。]]></description>
-      <guid>https://www.itsnicethat.com/articles/shotaro-kitada-animation-discover-190224</guid>
-      <pubDate>Mon, 19 Feb 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰艺术委员会对“过度政治”艺术家的立场受到批评</title>
-      <link>https://www.itsnicethat.com/news/arts-council-england-relationship-framework-creative-industry-160224</link>
-      <description><![CDATA[这个政府资助的组织向艺术项目分配公共资金，最近改变了对政治事务的指导。]]></description>
-      <guid>https://www.itsnicethat.com/news/arts-council-england-relationship-framework-creative-industry-160224</guid>
-      <pubDate>Fri, 16 Feb 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
