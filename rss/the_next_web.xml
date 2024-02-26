@@ -3,8 +3,22 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 26 Feb 2024 15:15:40 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Mon, 26 Feb 2024 18:17:28 GMT</lastBuildDate>
+    <item>
+      <title>Mistral 与微软合作发布新的“顶级”人工智能模型</title>
+      <link>https://thenextweb.com/news/mistral-releases-new-ai-model-partners-microsoft</link>
+      <description><![CDATA[总部位于巴黎的 Mistral 成立不到一年，就推出了面向开发人员的新 AI 旗舰模型 Mistral Large——距离其首款模型 Mistral 7B 发布仅几个月。与它的前身非常相似，Mistral Large 是一个开源生成人工智能模型。据该初创公司称，它拥有“顶级”推理能力，并且精通代码和数学。它还支持多种语言，并且精通五种语言（英语、法语、德语、西班牙语和意大利语）。 “这对我们来说是一个重要的里程碑，因为这种多语言模型无与伦比的性能将继续突破界限……这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：Microsoft]]></description>
+      <guid>https://thenextweb.com/news/mistral-releases-new-ai-model-partners-microsoft</guid>
+      <pubDate>Mon, 26 Feb 2024 15:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种太阳能模块可以同时为您的房屋供电和供暖</title>
+      <link>https://thenextweb.com/news/hybrid-solar-module-power-and-heat-your-home</link>
+      <description><![CDATA[欧洲科学家开发出一种可以产生电力和热量的太阳能模块与此同时，低成本清洁能源发电的潜在突破。该装置由凹面镜和填充有光伏电池的薄玻璃管组成。当太阳光线照射到模块时，镜子将它们反射到管子上，从而发电。然后，管中产生的热量会加热沿着管道系统中太阳能电池背面流动的传输流体。这种温暖的液体可用于加热和冷却建筑物或用于这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/hybrid-solar-module-power-and-heat-your-home</guid>
+      <pubDate>Mon, 26 Feb 2024 14:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>随着深度造假恐惧的加剧，元工作组将打击欧盟选举虚假信息</title>
       <link>https://thenextweb.com/news/meta-taskforce-to-fight-eu-election-disinformation-as-deepfake-fears-grow</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[在看到其股价在一周内几乎翻倍后，Arm 进一步利用了对人工智能计算的需求。这家芯片设计公司今天宣布与美国自动驾驶汽车 (AV) 领域初创公司 Nuro 达成一项协议，该领域是 Arm 不断增长的市场。此次合作旨在加速自动驾驶汽车的商业化。 Arm 将把其著名的半导体 IP 引入 Nuro 的车辆，首先是这家初创公司的送货机器人。由于车内人数为零，这些自动驾驶汽车可以完全专注于外部道路危险，这为实现更广泛的自主性奠定了有用的基础。作为小型全电动机器，它们还需要最高效率…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/arm-nuro-deal-ai-chips-for-autonomous-vehicles</guid>
       <pubDate>Thu, 22 Feb 2024 14:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空工程师谈论她在火星上寻找生命的过程</title>
-      <link>https://thenextweb.com/news/space-engineer-life-on-mars</link>
-      <description><![CDATA[上周，美国宇航局的毅力号火星车发现了它的同伴，被击落的独创号直升机，在火星沙海波纹中的最后安息之地。这架飞机在一次粗暴着陆中遭受了无法挽回的损坏，但在此之前，它拍摄了令人惊叹的火星景观，风吹过的沙丘一直延伸到岩石山顶。尽管这艘飞船永远不会再次升空，但它是目前航天工业中“独创性”的象征。火星上的大气层比地球轻一百倍，因此可以在红色上飞行…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/space-engineer-life-on-mars</guid>
-      <pubDate>Thu, 22 Feb 2024 09:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>荷兰电动汽车充电初创公司筹集 2750 万欧元以发展欧洲网络</title>
-      <link>https://thenextweb.com/news/dutch-ev-charging-startup-grow-european-network</link>
-      <description><![CDATA[总部位于阿姆斯特丹的 Fastned 已筹集超过 2400 万欧元的新债券用于增长其快速充电网络遍布欧洲。投资者还从早期债券中筹集了 350 万欧元，使总资金超过 2750 万欧元。该初创公司成立于 2012 年，在荷兰、比利时、德国和法国等多个欧洲国家提供 280 多个快速充电站。去年一月，它还宣布将业务扩展到西班牙。驾驶员可以在大约 15 分钟内增加最多 300 公里的行驶里程，具体取决于电动汽车类型。值得注意的是，Fastned 使用太阳能和风能等可再生能源提供电力。 Fastned 提供…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/dutch-ev-charging-startup-grow-european-network</guid>
-      <pubDate>Wed, 21 Feb 2024 17:32:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
