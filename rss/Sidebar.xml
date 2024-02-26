@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 03:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 06:19:55 GMT</lastBuildDate>
+    <item>
+      <title>控制台.delight</title>
+      <link>https://frontendmasters.com/blog/console-delight/</link>
+      <description><![CDATA[每个人都知道可以使用 console.log() 来记录文本和变量。您知道吗，您还可以渲染（有限的）CSS、SVG，甚至 HTML？
+]]></description>
+      <guid>https://frontendmasters.com/blog/console-delight/</guid>
+      <pubDate>Mon, 26 Feb 2024 05:25:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么微软默认字体从 Calibri 更改为 Aptos 令一些用户感到不安</title>
+      <link>https://edition.cnn.com/2024/02/22/us/microsoft-default-font-aptos-calibri-cec/index.html</link>
+      <description><![CDATA[因字体变化而激动是不是有点可笑？是的。无论如何，我们很多人都这样做吗？另外，是的。
+]]></description>
+      <guid>https://edition.cnn.com/2024/02/22/us/microsoft-default-font-aptos-calibri-cec/index.html</guid>
+      <pubDate>Mon, 26 Feb 2024 05:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marcus Lemonis 出资 10,000 美元，根据规格重新设计 Overstock 的新 Beyond 徽标</title>
+      <link>https://www.fastcompany.com/91032933/marcus-lemonis-10000-overstock-beyond-logo-spec</link>
+      <description><![CDATA[这家前折扣零售商的新任董事长为其新的企业形象采取了预算路线。
+]]></description>
+      <guid>https://www.fastcompany.com/91032933/marcus-lemonis-10000-overstock-beyond-logo-spec</guid>
+      <pubDate>Mon, 26 Feb 2024 05:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS :has() 交互指南</title>
+      <link>https://ishadeed.com/article/css-has-guide/</link>
+      <description><![CDATA[关于 CSS :has() 选择器您需要了解的一切。
+]]></description>
+      <guid>https://ishadeed.com/article/css-has-guide/</guid>
+      <pubDate>Mon, 26 Feb 2024 05:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>棋盘游戏用户体验：包括技术</title>
+      <link>https://uxdesign.cc/board-game-ux-including-technology-7c33f1c44968</link>
+      <description><![CDATA[近年来，许多棋盘游戏已开始包含应用程序和其他技术。这是如何做到的？我们能从中学到什么？
+]]></description>
+      <guid>https://uxdesign.cc/board-game-ux-including-technology-7c33f1c44968</guid>
+      <pubDate>Mon, 26 Feb 2024 05:04:11 GMT</pubDate>
+    </item>
     <item>
       <title>诚信设计：道德设计师的深色图案手册</title>
       <link>https://raw.studio/blog/designing-with-integrity-the-ethical-designers-handbook-on-dark-patterns/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://danielcwilson.com/posts/mathematicss-powers/</guid>
       <pubDate>Thu, 22 Feb 2024 05:28:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>五年会员资格</title>
-      <link>https://craigmod.com/essays/memberships_year_five/</link>
-      <description><![CDATA[我已经运行特别项目会员计划五年了；这是我所知道的。
-]]></description>
-      <guid>https://craigmod.com/essays/memberships_year_five/</guid>
-      <pubDate>Wed, 21 Feb 2024 08:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的设计系统之旅：在飞行时建造飞机</title>
-      <link>https://anaselgendy.medium.com/my-design-system-journey-building-the-plane-while-flying-b496f7dfc1f3</link>
-      <description><![CDATA[我在跨职能团队的设计系统中面临的挑战。
-]]></description>
-      <guid>https://anaselgendy.medium.com/my-design-system-journey-building-the-plane-while-flying-b496f7dfc1f3</guid>
-      <pubDate>Wed, 21 Feb 2024 08:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 是有逻辑的</title>
-      <link>https://geoffgraham.me/css-is-logical/</link>
-      <description><![CDATA[CSS 很奇怪，但并非不合逻辑。
-]]></description>
-      <guid>https://geoffgraham.me/css-is-logical/</guid>
-      <pubDate>Wed, 21 Feb 2024 08:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>鼓励垃圾数据的设计模式</title>
-      <link>https://css-irl.info/design-patterns-that-encourage-junk-data/</link>
-      <description><![CDATA[据估计，存储在云端的数据中有高达 88% 是 ROT（冗余、过时或琐碎）数据，或“暗数据”。
-]]></description>
-      <guid>https://css-irl.info/design-patterns-that-encourage-junk-data/</guid>
-      <pubDate>Wed, 21 Feb 2024 08:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Logo Rhythm，乐队徽标书</title>
-      <link>https://www.logodesignlove.com/logo-rhythm</link>
-      <description><![CDATA[专辑封面得到了所有的赞扬，但不起眼的乐队标志却从未完全得到应有的回报。到目前为止。
-]]></description>
-      <guid>https://www.logodesignlove.com/logo-rhythm</guid>
-      <pubDate>Wed, 21 Feb 2024 08:03:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
