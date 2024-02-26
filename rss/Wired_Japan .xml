@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 25 Feb 2024 18:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:55:39 GMT</lastBuildDate>
+    <item>
+      <title>比特币的早期合作者在法庭上作证反对自称“中本聪”的人</title>
+      <link>https://wired.jp/article/craig-wright-trial-bitcoin-royalty-testimony/</link>
+      <description><![CDATA[克雷格·赖特 (Craig Wright) 是一位计算机科学家，长期以来一直称自己为“中本聪”，比特币的发明者。早期的合作者作为证人出现在审判中，证明其真实性。那个见证的内容是什么？]]></description>
+      <guid>https://wired.jp/article/craig-wright-trial-bitcoin-royalty-testimony/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
+      <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际应用的量子计算机来防御攻击？]]></description>
+      <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
+      <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克希望披露有关 Neuralink 脑植入临床试验的更多信息</title>
       <link>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>乌克兰入侵两年后，市政府数字平台支持受创伤公民的心理健康</title>
       <link>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</link>
-      <description><![CDATA[两年来俄罗斯的轰炸和炮击使数百万乌克兰人遭受心理健康问题。为了重建，基辅市已开始为有情感创伤的人们建立支持系统。]]></description>
+      <description><![CDATA[两年来俄罗斯的轰炸和炮击使数百万乌克兰人遭受心理健康问题。为了重建，基辅市已经开始为有情感创伤的人们建立一个支持系统。]]></description>
       <guid>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</guid>
       <pubDate>Fri, 23 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[社交媒体网站“Bluesky”以前只接受邀请，现在向公众开放，任何人都可以注册。让我们来解释一下注册这个新SNS 的具体步骤。]]></description>
       <guid>https://wired.jp/article/how-to-get-started-on-bluesky/</guid>
       <pubDate>Tue, 20 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让Apple Vision Pro佩戴起来更舒适？专家预计未来的改进点</title>
-      <link>https://wired.jp/article/apple-vision-pro-is-heavy-heres-how-to-fix-that/</link>
-      <description><![CDATA[苹果 Vision Pro MR 耳机的一些早期使用者抱怨该设备的重量和贴合度。我们询问了硬件专家，下一代版本如何提高佩戴舒适度。]]></description>
-      <guid>https://wired.jp/article/apple-vision-pro-is-heavy-heres-how-to-fix-that/</guid>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023年勒索软件攻击造成的损失创历史新高，支付总额达1600亿日元</title>
-      <link>https://wired.jp/article/ransomware-payments-2023-breaks-record/</link>
-      <description><![CDATA[勒索软件攻击会停止公司和组织的系统、加密数据并要求赎金来解密数据。据透露，这场灾难造成的总损失将在2023年跃升至1600亿日元的历史新高。]]></description>
-      <guid>https://wired.jp/article/ransomware-payments-2023-breaks-record/</guid>
-      <pubDate>Mon, 19 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
