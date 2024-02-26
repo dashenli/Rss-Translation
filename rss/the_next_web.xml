@@ -4,7 +4,21 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 26 Feb 2024 12:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:15:40 GMT</lastBuildDate>
+    <item>
+      <title>随着深度造假恐惧的加剧，元工作组将打击欧盟选举虚假信息</title>
+      <link>https://thenextweb.com/news/meta-taskforce-to-fight-eu-election-disinformation-as-deepfake-fears-grow</link>
+      <description><![CDATA[Meta 正在启动一个专门处理虚假信息的特别工作组以及六月欧盟选举前夕人工智能生成的滥用内容。社交媒体影响投票的力量是有据可查的。但人工智能的迅速崛起——只需按一下按钮就可以生成“深度伪造”的图像、文本和视频——引发了新的担忧，人们担心该技术将被用来扰乱今年世界各地的重大选举。 Meta 新的“运营中心”由公司内部情报专家团队领导，旨在“迅速识别潜在威胁”…这个故事还在继续 在下一个网络]]></description>
+      <guid>https://thenextweb.com/news/meta-taskforce-to-fight-eu-election-disinformation-as-deepfake-fears-grow</guid>
+      <pubDate>Mon, 26 Feb 2024 12:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 利用人工智能的力量来加速量子计算机</title>
+      <link>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</link>
+      <description><![CDATA[在新的研究中，Google DeepMind 已证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
+      <guid>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</guid>
+      <pubDate>Mon, 26 Feb 2024 12:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>这家初创公司将生物工程组织植入人体静脉植入物</title>
       <link>https://thenextweb.com/news/clexbio-bioengineers-human-veins</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[总部位于阿姆斯特丹的 Fastned 已筹集超过 2400 万欧元的新债券用于增长其快速充电网络遍布欧洲。投资者还从早期债券中筹集了 350 万欧元，使总资金超过 2750 万欧元。该初创公司成立于 2012 年，在荷兰、比利时、德国和法国等多个欧洲国家提供 280 多个快速充电站。去年一月，它还宣布将业务扩展到西班牙。驾驶员可以在大约 15 分钟内增加最多 300 公里的行驶里程，具体取决于电动汽车类型。值得注意的是，Fastned 使用太阳能和风能等可再生能源提供电力。 Fastned 提供…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/dutch-ev-charging-startup-grow-european-network</guid>
       <pubDate>Wed, 21 Feb 2024 17:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 为开发人员提供了一系列新的开放人工智能模型：Gemma</title>
-      <link>https://thenextweb.com/news/google-deepmind-unveils-gemma-open-models-ai-research</link>
-      <description><![CDATA[就在 Google DeepMind 推出其有史以来最强大的人工智能模型（备受争议的）几个月后Gemini——伦敦实验室发布了一个紧凑的后代：Gemma。 Gemma 以拉丁语中的“宝石”一词命名，是面向开发人员和研究人员的开放模型新系列。谷歌设计它们是为了经济高效的应用程序和软件构建。该公司首席执行官 Sundar Pichai 在 Twitter 上表示：“Gemma 在语言理解和推理基准方面表现出了强劲的性能，从今天开始在全球范围内上市。” Gemma 有两种大小 - 20 亿和 70 亿参数。它们中的每一个都经过预先训练和指令调整…这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：&lt; a href=&quot;https://thenextweb.com/company/google&quot;&gt;Google]]></description>
-      <guid>https://thenextweb.com/news/google-deepmind-unveils-gemma-open-models-ai-research</guid>
-      <pubDate>Wed, 21 Feb 2024 15:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 模型 Poro 为欧洲多语言法学硕士树立了新的里程碑</title>
-      <link>https://thenextweb.com/news/ai-model-poro-low-resource-language-multilingual-llms</link>
-      <description><![CDATA[ 位于赫尔辛基的 Silo AI 已完成 Poro 模型的训练 -其为低资源语言创建大型语言模型（LLM）的使命取得了新的里程碑。 Poro 以芬兰语“驯鹿”的意思命名，是开源多语言法学硕士家族中的第一个。该初创公司正在与图尔库大学和欧盟高性能语言技术（HPLT）项目一起构建模型。 Poro 是一个 342 亿参数模型，旨在处理英语、芬兰语和代码。它已经在包含 1 万亿个代币的数据集上进行了训练。 “我们与 Poro 一起证明的是，我们可以…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/ai-model-poro-low-resource-language-multilingual-llms</guid>
-      <pubDate>Wed, 21 Feb 2024 15:02:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
