@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 00:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 03:13:42 GMT</lastBuildDate>
+    <item>
+      <title>拜登表示，加沙可能会在周一实现停火。会谈仍在进行中</title>
+      <link>https://npr.org/2024/02/26/1234073209/biden-cease-fire-gaza-by-monday</link>
+      <description><![CDATA[谈判人员一直试图就临时停火达成协议，以将加沙扣押的人质移出该地区。拜登总统表示，他对一周内开始停火持乐观态度。]]></description>
+      <guid>https://npr.org/2024/02/26/1234073209/biden-cease-fire-gaza-by-monday</guid>
+      <pubDate>Tue, 27 Feb 2024 00:04:31 GMT</pubDate>
+    </item>
     <item>
       <title>内塔尼亚胡表示，无论停火与否，以色列都会在拉法采取行动</title>
       <link>https://npr.org/2024/02/26/1233766185/israel-hamas-gaza-ceasefire-rafah-netanyahu-mohammad-shtayyeh</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[埃及空荡荡的西奈半岛将为巴勒斯坦平民提供安全。但埃及担心难民可能永远不会被允许返回，并援引早期以色列-巴勒斯坦战争的痛苦历史。]]></description>
       <guid>https://npr.org/2024/02/26/1232826942/rafah-gaza-palestinians-egypt-border</guid>
       <pubDate>Mon, 26 Feb 2024 10:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是当风电场来到煤炭小镇时会发生什么</title>
-      <link>https://npr.org/2024/02/26/1233128242/coal-renewable-energy-west-virginia-inflation-reduction-act-climate</link>
-      <description><![CDATA[西弗吉尼亚州的凯瑟代表了美国能源生产的全国性转变。在一个世代以煤炭为生的小镇里，改变可能很困难。]]></description>
-      <guid>https://npr.org/2024/02/26/1233128242/coal-renewable-energy-west-virginia-inflation-reduction-act-climate</guid>
-      <pubDate>Mon, 26 Feb 2024 10:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
