@@ -4,7 +4,14 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:17:40 GMT</lastBuildDate>
+    <item>
+      <title>欧空局发布了卫星重新进入地球大气层时的最终图像</title>
+      <link>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</link>
+      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类整体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</guid>
+      <pubDate>Tue, 27 Feb 2024 15:33:12 GMT</pubDate>
+    </item>
     <item>
       <title>与俄罗斯有关的 LockBit 黑客重新出现，承诺投票给特朗普</title>
       <link>https://thenextweb.com/news/lockbit-ransomware-group-returns-supports-trump</link>
@@ -43,7 +50,7 @@
     <item>
       <title>谷歌 DeepMind 利用人工智能的力量来加速量子计算机</title>
       <link>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</link>
-      <description><![CDATA[在新的研究中，Google DeepMind 已证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
+      <description><![CDATA[在新的研究中，Google DeepMind 证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
       <guid>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</guid>
       <pubDate>Mon, 26 Feb 2024 12:24:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[总部位于阿姆斯特丹的 Booking.com 母公司面临创纪录的罚款西班牙反垄断监管机构，欧洲加大力度打击科技巨头，为小公司创造喘息空间。这家在线旅游巨头在周四的一份声明中表示，继 2022 年启动调查后，西班牙国家市场和竞争委员会 (CNMC) 发现 Booking Holdings 犯有反竞争行为。涉嫌的侵权行为包括阻止当地酒店集团在自己的网站上提供比在 Booking.com 上提供的价格更便宜的优惠。 Booking 面临 4.86 亿欧元的临时罚款，相当于…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/spain-booking-fine-antitrust-competition-eu-dma</guid>
       <pubDate>Fri, 23 Feb 2024 11:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客正在追捕名人。数字身份证可以提供帮助，但也有一些注意事项</title>
-      <link>https://thenextweb.com/news/digital-ids-can-protect-celebrities-from-hackers</link>
-      <description><![CDATA[说到网络攻击，名人背后有一个巨大的目标。想想 2023 年底的新闻，臭名昭著的黑客组织 Rhysida 宣布袭击了伦敦的一家私人医疗机构爱德华七世国王医院。这本身就已经够糟糕了，但真正让这一消息从“另一天，另一次攻击”中脱颖而出的是黑客声称已经获得了英国王室的敏感医疗数据。一百多年来，爱德华七世国王医院一直为这个家庭提供密切的护理，一直照顾着太后菲利普亲王，…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/digital-ids-can-protect-celebrities-from-hackers</guid>
-      <pubDate>Fri, 23 Feb 2024 08:00:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

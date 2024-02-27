@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:15:36 GMT</lastBuildDate>
     <item>
       <title>密歇根州的年轻选民对拜登“不坚定”；美国飞行员自焚身亡</title>
       <link>https://npr.org/2024/02/27/1234133714/up-first-newsletter-michigan-primary-uncomitted-biden-self-immolation-protest</link>
@@ -20,6 +20,13 @@
       <pubDate>Tue, 27 Feb 2024 13:13:08 GMT</pubDate>
     </item>
     <item>
+      <title>客串被用于政治宣传——通过欺骗相关明星</title>
+      <link>https://npr.org/2024/02/27/1234114383/cameo-is-being-used-for-political-propaganda-by-tricking-the-stars-involved</link>
+      <description><![CDATA[林赛·罗韩 (Lindsay Lohan) 和其他名人被骗呼吁推翻摩尔多瓦总统。这是 Cameo 应用程序被用于明显政治宣传活动的最新例子。]]></description>
+      <guid>https://npr.org/2024/02/27/1234114383/cameo-is-being-used-for-political-propaganda-by-tricking-the-stars-involved</guid>
+      <pubDate>Tue, 27 Feb 2024 10:03:19 GMT</pubDate>
+    </item>
+    <item>
       <title>疫情期间，年轻人服用抗抑郁药物的比例激增</title>
       <link>https://npr.org/2024/02/27/1234112068/antidepressants-youth-pandemic-study</link>
       <description><![CDATA[研究人员分析了 2016 年至 2022 年约 2.21 亿张处方样本，对象是 12 岁至 25 岁的美国人。这一增长在年轻女性和女孩中最为显着。]]></description>
@@ -29,22 +36,22 @@
     <item>
       <title>初选当天，密歇根州的年轻选民带头呼吁“不承诺”支持拜登</title>
       <link>https://npr.org/2024/02/27/1234106750/uncommitted-voters-michigan-primary-arab-muslim-dearborn-hamtramck-detroit</link>
-      <description><![CDATA[在密歇根州民主党初选中检查“未承诺”的运动引起了全国的关注。其核心是下一代活动家、领导人和选民。]]></description>
+      <description><![CDATA[检查密歇根州民主党初选“未承诺”的运动引起了全国范围的关注。其核心是下一代活动家、领导人和选民。]]></description>
       <guid>https://npr.org/2024/02/27/1234106750/uncommitted-voters-michigan-primary-arab-muslim-dearborn-hamtramck-detroit</guid>
       <pubDate>Tue, 27 Feb 2024 10:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>介词可以作为句子的结尾吗？韦氏词典说是的</title>
-      <link>https://npr.org/2024/02/27/1233663125/grammar-preposition-sentence-rule-myth-merriam-webster-dictionary</link>
-      <description><![CDATA[词典出版商对这种做法的指导引起了人们的愤怒。语法学家表示，编造的规则是对时间的极大浪费。并不是每个人都准备好放手。]]></description>
-      <guid>https://npr.org/2024/02/27/1233663125/grammar-preposition-sentence-rule-myth-merriam-webster-dictionary</guid>
-      <pubDate>Tue, 27 Feb 2024 10:00:39 GMT</pubDate>
     </item>
     <item>
       <title>您是否受到过天气灾害的经济影响？告诉我们这件事</title>
       <link>https://npr.org/2024/02/27/1233962278/have-you-been-financially-impacted-by-a-weather-disaster-tell-us-about-it</link>
       <description><![CDATA[您在洪水、野火、飓风或热浪之后经历过经济困难吗？ NPR 气候台希望了解此事。]]></description>
       <guid>https://npr.org/2024/02/27/1233962278/have-you-been-financially-impacted-by-a-weather-disaster-tell-us-about-it</guid>
+      <pubDate>Tue, 27 Feb 2024 10:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>韦氏词典说你可以用介词来结束句子。互联网断了</title>
+      <link>https://npr.org/2024/02/27/1233663125/grammar-preposition-sentence-rule-myth-merriam-webster-dictionary</link>
+      <description><![CDATA[词典出版商对这种做法的指导引起了人们的愤怒。语法学家表示，编造的规则是对时间的极大浪费。并不是每个人都准备好放手。]]></description>
+      <guid>https://npr.org/2024/02/27/1233663125/grammar-preposition-sentence-rule-myth-merriam-webster-dictionary</guid>
       <pubDate>Tue, 27 Feb 2024 10:00:39 GMT</pubDate>
     </item>
     <item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 27 Feb 2024 10:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>当一名92岁的老人开始被汽车拖行时，一名陌生人立即采取行动</title>
+      <title>当一名 92 岁老人被车拖走时，一名陌生人立即采取行动</title>
       <link>https://npr.org/2024/02/27/1234081328/stranger-kindness-unsung-hero</link>
       <description><![CDATA[当本·戈麦斯接到电话说他的母亲受了重伤时，他担心最坏的情况会发生。但当他到达医院时，他了解到一个陌生人的敏捷思维是如何拯救了她的。]]></description>
       <guid>https://npr.org/2024/02/27/1234081328/stranger-kindness-unsung-hero</guid>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 27 Feb 2024 10:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>债务、缺课和焦虑：气候驱动的灾难如何伤害大学生</title>
+      <title>债务、缺课和焦虑：气候引发的灾难如何伤害大学生</title>
       <link>https://npr.org/2024/02/27/1230002959/debt-missed-classes-and-anxiety-how-climate-driven-disasters-hurt-college-studen</link>
       <description><![CDATA[洪水、野火和飓风可能会给大学生带来长期的经济后果。随着气候变化使灾难变得更加普遍，越来越多的学生陷入困境。]]></description>
       <guid>https://npr.org/2024/02/27/1230002959/debt-missed-classes-and-anxiety-how-climate-driven-disasters-hurt-college-studen</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[露丝·戈特斯曼 (Ruth Gottesman) 是纽约市阿尔伯特·爱因斯坦医学院的儿科名誉教授。戈特斯曼已故的丈夫大卫在去世后将这笔钱留给了她。]]></description>
       <guid>https://npr.org/2024/02/27/1234107300/free-tuition-albert-einstein-college-medicine</guid>
       <pubDate>Tue, 27 Feb 2024 05:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是密歇根州 2024 年总统初选结果</title>
-      <link>https://npr.org/2024/02/27/1232756574/michigan-primary-election-results-2024</link>
-      <description><![CDATA[密歇根州总统初选投票于周二结束。实时关注结果。]]></description>
-      <guid>https://npr.org/2024/02/27/1232756574/michigan-primary-election-results-2024</guid>
-      <pubDate>Tue, 27 Feb 2024 05:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
