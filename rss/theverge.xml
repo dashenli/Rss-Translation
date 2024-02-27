@@ -4,7 +4,25 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Feb 2024 00:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 06:16:07 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 的免费版 GeForce Now 很快将在您等待游戏时显示广告</title>
+      <link>https://www.theverge.com/2024/2/26/24084338/nvidia-geforce-now-ads-free-tier</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Nvidia 的 GeForce Now 是一个跨多种设备的云游戏平台。 |图片：Nvidia
+    
+Nvidia 于 2 月 28 日星期三向 The Verge 透露，其云游戏服务 GeForce Now 的完全免费、无任何附加条件的试用版将稍显不那么划算。 &gt;，用户将开始看到广告。 
+它们仅适用于免费套餐 - 不适用于优先级或终极版 - 即使如此，听起来它们也不会中断您的游戏。 “免费用户在排队等待开始游戏时将开始看到长达两分钟的广告，”Nvidia 发言人 Stephanie Ngo 写道。
+目前，免费套餐通常需要在每个小时的免费游戏之前排队等待远程计算机释放 - 现在，我想也会有一些广告。英伟达表示，这些广告应该有助于支付免费服务的费用，并且预计这一变化“将随着时间的推移减少免费用户的平均等待时间。”
+
+我对 GeForce Now 免费套餐的问题从来不是它的队列，而是它是迄今为止该公司服务中最不令人印象深刻的版本，并且没有显示出云游戏的真正能力。为此，您确实需要尝试 GeForce Now Ultimate，它为您提供 云中 RTX 4080 的强大功能、大大降低的延迟以及现在支持 G-Sync 显示器。但目前它的费用仍然是每月 20 美元，并且没有免费试用。 
+我没有看到Nvidia 承诺的日票价格为 7.99 美元，这将有助于更好的试用，我正在向 Nvidia 询问此事。
+该公司计划于明天（即 2 月 27 日）向所有免费套餐用户发送电子邮件，让他们了解这些广告。 
+10 月份，Nvidia 提高了价格GeForce Now（美国以外的国家/地区）。英伟达表示，涨价“导致了其推出国家的运营成本增加”。 许多流媒体服务价格上涨，并引入了广告支持的层级 近几个月。]]></description>
+      <guid>https://www.theverge.com/2024/2/26/24084338/nvidia-geforce-now-ads-free-tier</guid>
+      <pubDate>Tue, 27 Feb 2024 03:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix 确认将停止向苹果老订户提供服务</title>
       <link>https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscriptions</link>
@@ -12,7 +30,7 @@
       
 插图由 Alex Castro / The Verge 绘制
 
-Netflix 向 The Verge 确认，它已开始停止长期订阅者的 Apple iTunes 计费计划，并要求他们直接使用信用卡或借记卡向 Netflix 付款。今天早些时候，Streamable 报道 Netflix 已开始告知“某些地区”的客户，但 Netflix 代表 Momo Zhu 向我们证实，所有“使用 iTunes 付款方式的基本计划会员”都需要直接注册。 
+Netflix 向 The Verge 确认，它已开始停止长期订阅者的 Apple iTunes 计费计划，并要求他们使用信用卡或借记卡直接向 Netflix 付款。今天早些时候，Streamable 报道 Netflix 已开始告知“某些地区”的客户，但 Netflix 代表 Momo Zhu 向我们证实，所有“使用 iTunes 付款方式的基本计划会员”都需要直接注册。 
 对于任何在 Netflix 停止通过 Apple 支付系统接受订阅之前注册的人来说，这都是一次不错的体验。 一个人今天在 X 上表示，他们多年来一直保持流媒体服务 9.99 美元的旧价格。 
 
 
@@ -116,23 +134,6 @@ Intuitive Machines 首席执行官史蒂夫·阿尔特穆斯 (Steve Altemus) 在
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24034551/floppy-disk-music-scene-underground-diy</guid>
       <pubDate>Mon, 26 Feb 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软与 Mistral 达成 OpenAI 之外的第二笔人工智能交易</title>
-      <link>https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-Microsoft 有 宣布与估值 20 亿欧元（约合 21 亿美元）的法国人工智能初创公司 Mistral 建立新的多年合作伙伴关系。 《金融时报》报道，此次合作将包括微软仅在微软投资超过 100 亿美元投入 OpenAI 合作伙伴关系。
-此次交易将使 Mistral 的开放和商业语言模型在微软的 Azure AI 平台上可用，这是继 OpenAI 之后第二家在 Azure 上提供商业语言模型的公司。与 OpenAI 合作伙伴关系非常相似，微软与 Mistral 的合作伙伴关系也将专注于下一代大型语言模型的开发和部署。
-Mistral 今天宣布推出一种新的 AI 模型，名为 Mistral Large。它的设计目的是与 OpenAI 的 GPT-4 模型进行更紧密的竞争。与 Mistral 之前的一些模型不同，它不会开源。 “Mistral Large 在常用基准测试中取得了优异的成绩，使其成为世界上排名第二的可通过 API 普遍使用的模型（仅次于 GPT-4），” 米斯特拉尔人工智能团队。
-Mistral 还有一个新的人工智能聊天机器人
-Mistral Large 可在欧洲托管的 Mistral 自己的基础架构上使用，或通过 Azure AI Studio 和 Azure 机器学习使用。 Mistral Small 也将于今天上市，与 Mistral 的 8x7B 型号相比，延迟有所改善。 Mistral 还发布了一款新的对话式聊天机器人 Le Chat，它基于 Mistral AI 的各种模型。
-Mistral 的模型通常是开源的，但与微软的合作意味着这家法国人工智能公司现在可以探索更多商业机会。不过，微软和米斯特拉尔都没有透露这项投资的细节。
-微软的投资是在其主要人工智能合作伙伴 OpenAI 经历了一段艰难时期几个月后进行的。 11 月 17 日，OpenAI 董事会突然宣布联合创始人首席执行官 Sam Altman 被解雇，但 Altman 回归几天后，即 11 月底，他出任 OpenAI 首席执行官。在整个动荡期间，微软成功地在控制 OpenAI 的非营利性董事会中获得了一个无投票权的观察员席位，使这家软件巨头能够更深入地了解 OpenAI 的内部运作，但在重大决策上没有投票权。]]></description>
-      <guid>https://www.theverge.com/2024/2/26/24083510/microsoft-mistral-partnership-deal-azure-ai</guid>
-      <pubDate>Mon, 26 Feb 2024 15:23:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
