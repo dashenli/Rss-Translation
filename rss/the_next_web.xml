@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Tue, 27 Feb 2024 06:17:03 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Tue, 27 Feb 2024 09:13:51 GMT</lastBuildDate>
+    <item>
+      <title>为什么 PHP 仍然是一种流行但存在争议的编程语言</title>
+      <link>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</link>
+      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</guid>
+      <pubDate>Tue, 27 Feb 2024 08:53:45 GMT</pubDate>
+    </item>
     <item>
       <title>Mistral 与微软合作发布新的“顶级”人工智能模型</title>
       <link>https://thenextweb.com/news/mistral-releases-new-ai-model-partners-microsoft</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[研究人员发现了一项与俄罗斯结盟的心理战活动，其中混合了间谍活动和虚假信息。 ，以及加拿大药房垃圾邮件。它还与上周在北极流放地去世的克里姆林宫批评者亚历克西·纳瓦尔尼（Alexi Navalny）有联系。心理战（PSYOP）是“心理行动”的军事术语，是由总部位于斯洛伐克的网络安全公司 ESET 的分析师发现的。他们将该活动命名为“Texonto 行动”。该行动通过垃圾邮件向乌克兰人传播与战争有关的虚假信息。通过两波信息，心理战散布了人们对食品、药品和取暖用品短缺的担忧——这是俄罗斯宣传的典型主题。除了虚假信息之外，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/new-russian-psyops-mix-disinformation-spam-and-navalny</guid>
       <pubDate>Thu, 22 Feb 2024 18:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 表示，与 Nuro 签署协议后，“软件正在成为汽车的驱动程序”</title>
-      <link>https://thenextweb.com/news/arm-nuro-deal-ai-chips-for-autonomous-vehicles</link>
-      <description><![CDATA[在看到其股价在一周内几乎翻倍后，Arm 进一步利用了对人工智能计算的需求。这家芯片设计公司今天宣布与美国自动驾驶汽车 (AV) 领域初创公司 Nuro 达成一项协议，该领域是 Arm 不断增长的市场。此次合作旨在加速自动驾驶汽车的商业化。 Arm 将把其著名的半导体 IP 引入 Nuro 的车辆，首先是这家初创公司的送货机器人。由于车内人数为零，这些自动驾驶汽车可以完全专注于外部道路危险，这为实现更广泛的自主性奠定了有用的基础。作为小型全电动机器，它们还需要最高效率…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/arm-nuro-deal-ai-chips-for-autonomous-vehicles</guid>
-      <pubDate>Thu, 22 Feb 2024 14:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

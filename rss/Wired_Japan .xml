@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 27 Feb 2024 06:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 09:14:01 GMT</lastBuildDate>
+    <item>
+      <title>产品点评：Work Louder 的键盘“Creator Board”布局特殊，非常适合创意工作</title>
+      <link>https://wired.jp/article/review-work-louder-creator-board/</link>
+      <description><![CDATA[Work Louder 的首款键盘具有“特殊布局”和“高度可定制性”。一旦掌握，它可以成为艺术家和创作者的绝佳工具。]]></description>
+      <guid>https://wired.jp/article/review-work-louder-creator-board/</guid>
+      <pubDate>Tue, 27 Feb 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>数据劳动力专业人员会因为培训人工智能而失业吗？</title>
       <link>https://wired.jp/article/remotasks-ai-expert-data-labor/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>海面温度上升势不可挡，持续破纪录“极不正常”</title>
       <link>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</link>
-      <description><![CDATA[全球海洋表面温度的上升速度继续快于研究人员的预期。这可能是更大飓风或海洋生态系统变化的不祥征兆。]]></description>
+      <description><![CDATA[全球海洋温度的上升速度继续快于研究人员的预期。这可能是更大飓风或海洋生态系统变化的不祥征兆。]]></description>
       <guid>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</guid>
       <pubDate>Fri, 23 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能初创公司 Sierra 正在开发企业可以用来与客户互动的聊天机器人。 AI如何“提升客户体验”？ 《连线》特约编辑史蒂文·利维询问了两位联合创始人。]]></description>
       <guid>https://wired.jp/article/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/</guid>
       <pubDate>Tue, 20 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能工具监控地铁站的乘客。伦敦实验的教训</title>
-      <link>https://wired.jp/article/london-underground-ai-surveillance-documents/</link>
-      <description><![CDATA[《连线》获得的文件披露了伦敦交通局在全市车站进行的一项实验的细节。这是利用计算机视觉来检测犯罪活动、武器引入、跌落火车轨道、未经授权的登机等的尝试。]]></description>
-      <guid>https://wired.jp/article/london-underground-ai-surveillance-documents/</guid>
-      <pubDate>Tue, 20 Feb 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
