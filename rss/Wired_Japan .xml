@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 26 Feb 2024 21:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:54:46 GMT</lastBuildDate>
+    <item>
+      <title>数据劳动力专业人员会因为培训人工智能而失业吗？</title>
+      <link>https://wired.jp/article/remotasks-ai-expert-data-labor/</link>
+      <description><![CDATA[Remotasks 等数据劳动平台为训练人工智能模型提供数据，越来越多地招募具有专业知识的人员，例如语言专家和物理学家。另一方面，有人担心这些人正在训练的人工智能会抢走他们的工作。]]></description>
+      <guid>https://wired.jp/article/remotasks-ai-expert-data-labor/</guid>
+      <pubDate>Mon, 26 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>比特币的早期合作者在法庭上作证反对自称“中本聪”的人</title>
       <link>https://wired.jp/article/craig-wright-trial-bitcoin-royalty-testimony/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
       <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际应用的量子计算机来防御攻击？]]></description>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>AI无法做到的“创造”的本质是感受“与人的联系”</title>
       <link>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</link>
-      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
+      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
       <guid>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</guid>
       <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>三天收集300亿升雨水，有望打造“海绵城市”</title>
       <link>https://wired.jp/article/los-angeles-just-proved-how-spongy-a-city-can-be/</link>
-      <description><![CDATA[经过三天的暴雨，洛杉矶利用蓄水“海绵”基础设施收集了约 300 亿升雨水。这个量足以供应10万户家庭一年的用水。]]></description>
+      <description><![CDATA[经过三天的暴雨，洛杉矶利用保水“海绵”基础设施收集了约 300 亿升雨水。这个量足以供应10万户家庭一年的用水。]]></description>
       <guid>https://wired.jp/article/los-angeles-just-proved-how-spongy-a-city-can-be/</guid>
       <pubDate>Thu, 22 Feb 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》获得的文件披露了伦敦交通局在全市车站进行的一项实验的细节。这是利用计算机视觉来检测犯罪活动、武器引入、跌落火车轨道、未经授权的登机等的尝试。]]></description>
       <guid>https://wired.jp/article/london-underground-ai-surveillance-documents/</guid>
       <pubDate>Tue, 20 Feb 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“蓝天”现已向公众开放，从注册到使用只需4步</title>
-      <link>https://wired.jp/article/how-to-get-started-on-bluesky/</link>
-      <description><![CDATA[社交媒体网站“Bluesky”以前只接受邀请，现在向公众开放，任何人都可以注册。让我们来解释一下注册这个新SNS 的具体步骤。]]></description>
-      <guid>https://wired.jp/article/how-to-get-started-on-bluesky/</guid>
-      <pubDate>Tue, 20 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
