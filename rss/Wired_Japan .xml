@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 27 Feb 2024 12:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:54:43 GMT</lastBuildDate>
+    <item>
+      <title>秘密发布谷歌发明的网站是否可以免受“现有技术”的影响？</title>
+      <link>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</link>
+      <description><![CDATA[免费网站 TDCommons 由 Google 运营，旨在保护不值得申请专利的发明。然而，即使是为了国防公开，也存在难以引起美国专利商标局注意等问题。]]></description>
+      <guid>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</guid>
+      <pubDate>Tue, 27 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>产品点评：Work Louder 的键盘“Creator Board”布局特殊，非常适合创意工作</title>
       <link>https://wired.jp/article/review-work-louder-creator-board/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>数据劳动力专业人员会因为培训人工智能而失业吗？</title>
       <link>https://wired.jp/article/remotasks-ai-expert-data-labor/</link>
-      <description><![CDATA[Remotasks 等为训练人工智能模型提供数据的数据劳动平台越来越多地招募具有专业知识的人员，例如语言专家和物理学家。另一方面，有人担心这些人正在训练的人工智能会抢走他们的工作。]]></description>
+      <description><![CDATA[Remotasks 等数据劳动平台为训练人工智能模型提供数据，越来越多地招募具有专业知识的人员，例如语言专家和物理学家。另一方面，有人担心这些人正在训练的人工智能会抢走他们的工作。]]></description>
       <guid>https://wired.jp/article/remotasks-ai-expert-data-labor/</guid>
       <pubDate>Mon, 26 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
       <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际应用的量子计算机来防御攻击？]]></description>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克希望披露有关 Neuralink 脑植入临床试验的更多信息</title>
       <link>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务信息披露的失望。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务的信息披露的失望。]]></description>
       <guid>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</guid>
       <pubDate>Sun, 25 Feb 2024 03:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>三天收集300亿升雨水，有望打造“海绵城市”</title>
       <link>https://wired.jp/article/los-angeles-just-proved-how-spongy-a-city-can-be/</link>
-      <description><![CDATA[经过三天的暴雨，洛杉矶利用蓄水“海绵”基础设施收集了约 300 亿升雨水。这个量足以供应10万户家庭一年的用水。]]></description>
+      <description><![CDATA[经过三天的暴雨，洛杉矶利用保水“海绵”基础设施收集了约 300 亿升雨水。这个量足以供应10万户家庭一年的用水。]]></description>
       <guid>https://wired.jp/article/los-angeles-just-proved-how-spongy-a-city-can-be/</guid>
       <pubDate>Thu, 22 Feb 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[三星新智能手机型号“Galaxy S24”、“Galaxy S24+”和“Galaxy S24 Ultra”。当我们测试它的功能时，我们发现它是顶级硬件和谷歌智能的结合。然而，也存在一些“弱点”。]]></description>
       <guid>https://wired.jp/article/samsung-galaxy-s24-s24-plus-and-s24-ultra/</guid>
       <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对话式人工智能将摧毁企业网络和应用程序：初创公司 Sierra 的创始人如是说</title>
-      <link>https://wired.jp/article/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/</link>
-      <description><![CDATA[人工智能初创公司 Sierra 正在开发企业可以用来与客户互动的聊天机器人。 AI如何“提升客户体验”？ 《连线》特约编辑史蒂文·利维询问了两位联合创始人。]]></description>
-      <guid>https://wired.jp/article/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/</guid>
-      <pubDate>Tue, 20 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

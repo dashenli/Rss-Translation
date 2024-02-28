@@ -4,7 +4,55 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Feb 2024 21:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:53:05 GMT</lastBuildDate>
+    <item>
+      <title>Eufy 的新型 360 度 4K 摄像机不需要 Wi-Fi 或电源插座</title>
+      <link>https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;尤菲
+
+Anker 的 Eufy 品牌已开始发售一款新型 4K 安全摄像头，该摄像头可提供 360 度视角、平移 344 度和倾斜最大 70 度。它还可以在没有有线网络或电源的情况下无限期运行。 
+这是因为除了 Wi-Fi 之外，249.99 美元 Eufy 4G LTE Cam S330 可以连接到附近的 LTE 塔，并配有可拆卸的太阳能电池板，据说在阳光下只需两个小时保持 36.2Wh 电池电量。据 Anker 称，由于电池充满电后可持续使用长达一个月，因此即使在雨季也能持续使用。
+
+从理论上讲，S330 似乎解决了我们之前遇到的许多痛点Eufy 和 Arlo 的支持 LTE 的摄像头，起始成本大致相同。虽然您可以将其完全安装在您的主要住所内部或外部以实现无线安全，但其设计和功能可以使其更适合您财产中的偏远区域 - 也许是在花园的远角、附近的储藏室或其他地区 Wi-Fi 无法到达。为了帮助这项事业，Eufy 表示它可以承受恶劣的温度和冷热环境（-4 到 122 华氏度）。
+它建立在Eufy Starlight，包含一张 EIOTClub SIM 卡它将自动在 Verizon、AT&amp;T 和 T-Mobile 之间跳转，具体取决于哪一个提供最强的 LTE 信号。在您用完 100MB 试用数据后，该功能的持续费用为每 2GB 19.90 美元或每 24GB 139.99 美元，但您也可以使用自己的 SIM 卡。 Eufy 估计，假设您没有大量流量不断触发记录，它每月会消耗大约 700MB 的数据。
+
+
+图片：Eufy
+
+4K 摄像机提供 8 倍变焦，并使用具有人工智能驱动的车辆和人体检测的活动区域，以减少生物和其他偶然活动的误报。传感器周围还有一个集成的 100 流明聚光灯，可以照亮 26 英尺外的区域。其安全功能还包括双向音频和发出警报的功能，所有这些都可以通过移动应用程序以及 Google Assistant 和 Amazon Alexa 语音控制进行控制。
+您可以将最多八个月的录制内容本地保存到随附的 32GB microSD 卡（相机最多支持 128GB 卡），但遗憾的是 S330 不与第三方 NAS 设备配合使用。它可以与 Eufy 售价 149.99 美元的 HomeBase 3 S380，它支持高达 16TB 的存储并支持面部识别。获得此特权的唯一问题是它要求您保持 Wi-Fi 模式。还值得注意的是，您只能使用该应用手动在 LTE 和 Wi-Fi 之间切换，因此您不能依赖它作为自动故障保护。]]></description>
+      <guid>https://www.theverge.com/2024/2/27/24085151/anker-eufy-4k-lte-cam-s330-features-price</guid>
+      <pubDate>Wed, 28 Feb 2024 00:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂起诉 Switch 模拟器 Yuzu“大规模促进盗版”</title>
+      <link>https://www.theverge.com/2024/2/27/24085075/nintendo-switch-emulator-yuzu-lawsuit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/2/27/24085075/nintendo-switch-emulator-yuzu-lawsuit</guid>
+      <pubDate>Tue, 27 Feb 2024 22:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 声称《泰晤士报》作弊，让 ChatGPT 反驳文章</title>
+      <link>https://www.theverge.com/2024/2/27/24084843/openai-new-york-times-dismiss-copyright-claims-lawsuit</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+OpenAI 在周一提交的动议中声称&lt; 《纽约时报》使用“欺骗性提示”让 ChatGPT 重复其内容。出于这个原因和其他原因，该公司请求纽约南部的美国地方法院驳回该店版权侵权诉讼中的几项索赔。
+OpenAI 声称《泰晤士报》利用了目前正在修复的一个错误，并且该媒体将文章直接发送给聊天机器人，让它逐字逐句地吐出段落。 “普通人不会以这种方式使用 OpenAI 的产品，”该公司引用 2023 年 4 月《泰晤士报》文章，标题为“真实人们使用人工智能的 35 种方式”现在。”这与 OpenAI 在其  中提出的论点非常相似一月份的公众回应。
+
+《泰晤士报》 首席律师 Ian Crosby 在一封电子邮件中告诉 The Verge，称该媒体的努力是黑客行为是一种错误的描述，该媒体“只是使用 OpenAI 的产品来寻找他们窃取和复制《纽约时报》版权作品的证据。”他补充说，OpenAI 并不否认“它在时效期限内未经许可复制了 Times 的作品。”
+时代去年 12 月起诉 OpenAI 和微软，声称这些公司根据其内容训练他们的人工智能模型，并且他们的聊天机器人可以逐字重现这些故事。该出版物声称这剥夺了其收入并损害了其与读者的关系。
+OpenAI 希望部分驳回《泰晤士报》的“直接侵犯版权的指控”，因为该指控是基于三年多前发生的复制行为。 ”它还要求法院驳回其他指控：OpenAI 促成了侵权；未能删除侵权信息；并通过挪用造成不公平竞争。 《纽约时报》诉讼还指控商标淡化、盗用普通法不公平竞争以及替代版权侵权索赔等罪名。
+OpenAI 类似 将莎拉·西尔弗曼 (Sarah Silverman) 和其他作者提起的诉讼中的投诉减少为单一的直接版权侵权索赔。尽管它的竞标非常成功，而且这一次也可能取得成功，但这两起诉讼并不是针对人工智能公司的唯一诉讼。像 OpenAI、Anthropic 和 Stability AI 这样的初创公司目前正在寻求不断扩大的法律诉讼，其中一些来自 经验丰富和诉讼组织，有时会发生数十年的版权纠纷。正如《The Verge》的 Nilay Patel 和 Sarah Jeong 最近在解码器播客上讨论，案例有颠覆甚至消灭新兴行业的潜力。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/27/24084843/openai-new-york-times-dismiss-copyright-claims-lawsuit</guid>
+      <pubDate>Tue, 27 Feb 2024 21:21:45 GMT</pubDate>
+    </item>
     <item>
       <title>神奇宝贝日购买多款 Nintendo Switch 游戏可节省 20 美元</title>
       <link>https://www.theverge.com/2024/2/27/24084528/best-pokemon-day-deals-legends-arceus-shining-pearl-brilliant-diamond-nintendo-switch-sale</link>
@@ -102,27 +150,6 @@ Sonos 即将推出的这些耳机有很多用途。首席执行官帕特里克·
 计划于 6 月初发布（据报道，Sonos 最初的目标是 5 月），不久之后我们就会知道 Sonos 计划如何在耳机市场中脱颖而出。彭博社表示，该公司已经在关注第二代型号，并可能推出自己的无线耳机，因为这些产品可能对喜欢入耳式耳机的消费者具有独特的吸引力。]]></description>
       <guid>https://www.theverge.com/2024/2/27/24084802/sonos-headphones-june-release-date-rumor-party-speaker</guid>
       <pubDate>Tue, 27 Feb 2024 18:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aqara 推出首款 Matter-over-Thread 智能锁，承诺支持 Home Key</title>
-      <link>https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/27/24084674/aqara-u200-matter-over-thread-smart-lock-apple-home-key</guid>
-      <pubDate>Tue, 27 Feb 2024 18:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Humane AI Pin 的效果比我预期的要好——直到它不起作用</title>
-      <link>https://www.theverge.com/24084444/humane-ai-pin-hands-on</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24084444/humane-ai-pin-hands-on</guid>
-      <pubDate>Tue, 27 Feb 2024 17:30:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GameStop 对《女神异闻录 5：策略版》和其他热门游戏进行 50% 折扣</title>
-      <link>https://www.theverge.com/2024/2/27/24083598/persona-5-tactica-google-nest-wifi-pro-apple-airtags-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/27/24083598/persona-5-tactica-google-nest-wifi-pro-apple-airtags-deal-sale</guid>
-      <pubDate>Tue, 27 Feb 2024 17:16:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

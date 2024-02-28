@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 27 Feb 2024 21:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:53:19 GMT</lastBuildDate>
+    <item>
+      <title>改变医疗勒索软件攻击：BlackCat 黑客在 FBI 破获后迅速卷土重来</title>
+      <link>https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/</link>
+      <description><![CDATA[两个月前，FBI“瓦解”了 BlackCat 勒索软件组织。他们已经回来了，他们最近的攻击导致美国各地的药店出现延误。]]></description>
+      <guid>https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/</guid>
+      <pubDate>Tue, 27 Feb 2024 22:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>我们在 MWC 2024 上看到的奇怪、古怪的小玩意和小工具</title>
       <link>https://www.wired.com/story/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Metalenz 的生物识别技术最终将为 Android 用户提供一种更安全的面部识别方式，甚至可以及时检查皮肤是否有癌变或测量空气质量。]]></description>
       <guid>https://www.wired.com/story/metalenz-polar-id-first-look/</guid>
       <pubDate>Mon, 26 Feb 2024 13:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>右翼争议如何破坏美国选举安全</title>
-      <link>https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/</link>
-      <description><![CDATA[参加选举的共和党人对于是否继续与网络安全和基础设施安全局合作打击黑客、网络虚假信息和投票站威胁存在分歧。]]></description>
-      <guid>https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/</guid>
-      <pubDate>Mon, 26 Feb 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
