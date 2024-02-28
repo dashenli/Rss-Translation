@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 27 Feb 2024 15:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:15:14 GMT</lastBuildDate>
+    <item>
+      <title>利用 2D 视错觉探索 3D 效果</title>
+      <link>https://tympanus.net/codrops/2024/02/28/exploring-3d-effects-with-2d-optical-illusions/</link>
+      <description><![CDATA[一个简短的教程，指导您通过 CSS 和 JavaScript 使用 2D 视错觉创建 3D 视觉效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/02/28/exploring-3d-effects-with-2d-optical-illusions/</guid>
+      <pubDate>Wed, 28 Feb 2024 11:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>集体#816</title>
       <link>https://tympanus.net/codrops/collective/collective-816/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我是一个创意者。 * 现代客户端路由：导航 API * 不可翻译]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-812/</guid>
       <pubDate>Tue, 13 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 15 个最佳网页设计资源和工具（免费和付费）</title>
-      <link>https://tympanus.net/codrops/2024/02/13/web-design-resources/</link>
-      <description><![CDATA[发现最好的免费&amp; 2024 年使用的优质网页设计工具和资源，包括 Brizy、Trafft、Get Illustrations 等。]]></description>
-      <guid>https://tympanus.net/codrops/2024/02/13/web-design-resources/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:43:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

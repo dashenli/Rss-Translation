@@ -4,7 +4,7 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 28 Feb 2024 09:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:14:52 GMT</lastBuildDate>
     <item>
       <title>《最终幻想VII重生》评测：带领粉丝踏上未知旅程的杰作</title>
       <link>https://wired.jp/article/final-fantasy-vii-rebirth-review-best-in-ages/</link>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 28 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>秘密发布谷歌发明的网站是否可以免受“现有技术”的影响？</title>
+      <title>一个秘密公开谷歌发明的网站可以保护其“现有技术”吗？</title>
       <link>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</link>
       <description><![CDATA[免费网站 TDCommons 由 Google 运营，旨在保护不值得申请专利的发明。然而，即使是为了国防公开，也存在难以引起美国专利商标局注意等问题。]]></description>
       <guid>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>数据劳动力专业人员会因为培训人工智能而失业吗？</title>
       <link>https://wired.jp/article/remotasks-ai-expert-data-labor/</link>
-      <description><![CDATA[Remotasks 等数据劳动平台为训练人工智能模型提供数据，越来越多地招募具有专业知识的人员，例如语言专家和物理学家。另一方面，有人担心这些人正在训练的人工智能会抢走他们的工作。]]></description>
+      <description><![CDATA[Remotasks 等为训练人工智能模型提供数据的数据劳动平台越来越多地招募具有专业知识的人员，例如语言专家和物理学家。另一方面，有人担心这些人正在训练的人工智能会抢走他们的工作。]]></description>
       <guid>https://wired.jp/article/remotasks-ai-expert-data-labor/</guid>
       <pubDate>Mon, 26 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
       <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来防御攻击？]]></description>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>AI无法做到的“创造”的本质是感受“与人的联系”</title>
       <link>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</link>
-      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
+      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
       <guid>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</guid>
       <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>英特尔“复兴”场景押注AI领域</title>
       <link>https://wired.jp/article/intel-ai-reboot-future-us-chipmaking/</link>
-      <description><![CDATA[美国最大的半导体制造商英特尔宣布将重启并扩大其代工业务，该业务以合同方式为其他公司制造芯片。现在拥有微软客户的英特尔是否能够再次加强与台积电等公司在台湾的合作？]]></description>
+      <description><![CDATA[美国最大的半导体制造商英特尔宣布将重启并扩大其代工业务，该业务以合同方式为其他公司制造芯片。欢迎微软成为客户的英特尔能否再次加强与台积电等公司在台湾的合作？]]></description>
       <guid>https://wired.jp/article/intel-ai-reboot-future-us-chipmaking/</guid>
       <pubDate>Thu, 22 Feb 2024 09:00:00 GMT</pubDate>
     </item>

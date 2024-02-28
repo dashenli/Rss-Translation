@@ -3,8 +3,22 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Wed, 28 Feb 2024 12:23:04 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 28 Feb 2024 15:14:37 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：Zeynep Yavuz 谈论欧洲科技、Mistral 和 SiloAI 发布新的法学硕士</title>
+      <link>https://thenextweb.com/news/podcast-zeynep-yavuz-mistral-siloai</link>
+      <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Andrii 和 Ioanna 谈论了多语言法学硕士、Mistral AI 的最新消息、一些董事会戏剧、语言学习理论以及介于两者之间的一些事情。节目嘉宾是全球风险投资公司 General Catalyst 的合伙人 Zeynep Yavuz，她讲述了她对欧洲金融科技、推动风险投资行业的最重要趋势等的看法。这里是…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/podcast-zeynep-yavuz-mistral-siloai</guid>
+      <pubDate>Wed, 28 Feb 2024 12:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟针对微软与米斯特拉尔交易的反垄断案件具有“决定性影响”</title>
+      <link>https://thenextweb.com/news/eu-antitrust-investigation-mistral-ai-microsoft</link>
+      <description><![CDATA[针对微软与法国初创公司 Mistral 的意外交易的反垄断调查将归结为法律专家表示，“决定性影响”的作用。微软周二透露，它将为此次合作投资 1500 万欧元。根据该协议的条款，米斯特拉尔可以访问这家美国科技巨头的超级计算机。作为回报，微软可以为 Azure 云客户提供该初创公司最新人工智能模型的访问权限。这些模型使 Mistral Europe 成为与微软另一家合作伙伴 OpenAI 最接近的竞争对手。但这两笔交易目前都受到欧盟竞争监管机构的审查。据欧盟委员会称，米斯特拉尔交易已加入“a href=&quot;https://thenextweb.com/news/eu-antitrust-investigation-mistral-ai-microsoft? utm_source=social&amp;utm_medium=feed&amp;utm_campaign=profeed&quot;&gt;这个故事在 The Next Web 上继续或者只是阅读有关以下内容的更多报道：微软]]></description>
+      <guid>https://thenextweb.com/news/eu-antitrust-investigation-mistral-ai-microsoft</guid>
+      <pubDate>Wed, 28 Feb 2024 11:59:56 GMT</pubDate>
+    </item>
     <item>
       <title>索拉是什么？一种新的生成人工智能工具可以改变视频制作，并放大风险</title>
       <link>https://thenextweb.com/news/what-is-sora-new-generative-ai-tool-video-production-risks</link>
@@ -15,14 +29,14 @@
     <item>
       <title>反刍的“美国派”给 GenAI 版权主张增添了酸味</title>
       <link>https://thenextweb.com/news/generative-ai-regurgitates-training-data-copyright-fair-use</link>
-      <description><![CDATA[Don McClean 总是不得不分享“美国派”。自 1971 年发行以来，这首热门歌曲已重新出现在麦当娜的翻唱、怪异阿尔·扬科维奇的模仿、韩国总统的小夜曲、漫威电影的次要情节，甚至中央情报局的酷刑技巧中。但如今，麦克林的主要模仿者甚至不是人类。你可以亲自审问罪魁祸首。只需加载 OpenAI 的 ChatGPT 并提示文本生成器“为一首关于音乐消亡的日子的歌曲写歌词”。该工具的输出总是会吐出《美国派》中的歌词或主题，有时甚至是相同的副歌。…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[Don McClean 总是不得不分享“美国派”。自 1971 年发行以来，这首热门歌曲重新出现在麦当娜的翻唱、怪异阿尔·扬科维奇的模仿、韩国总统的小夜曲、漫威电影的次要情节，甚至中央情报局的酷刑技巧中。但如今，麦克林的主要模仿者甚至不是人类。你可以亲自审问罪魁祸首。只需加载 OpenAI 的 ChatGPT 并提示文本生成器“为一首关于音乐消亡的日子的歌曲写歌词”。该工具的输出总是会吐出《美国派》中的歌词或主题，有时还会吐出相同的副歌。这…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/generative-ai-regurgitates-training-data-copyright-fair-use</guid>
       <pubDate>Tue, 27 Feb 2024 18:56:53 GMT</pubDate>
     </item>
     <item>
       <title>欧空局发布了卫星重新进入地球大气层时的最终图像</title>
       <link>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</link>
-      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类总体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类整体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2 比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</guid>
       <pubDate>Tue, 27 Feb 2024 15:33:12 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>为什么 PHP 仍然是一种流行但存在争议的编程语言</title>
       <link>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</link>
-      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：世界上只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</guid>
       <pubDate>Tue, 27 Feb 2024 08:53:45 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[Meta 正在启动一个专门处理虚假信息的特别工作组以及六月欧盟选举前夕人工智能生成的滥用内容。社交媒体影响投票的力量是有据可查的。但人工智能的迅速崛起——只需按一下按钮就可以生成“深度伪造”的图像、文本和视频——引发了新的担忧，人们担心该技术将被用来扰乱今年世界各地的重大选举。 Meta 新的“运营中心”由公司内部情报专家团队领导，旨在“迅速识别潜在威胁”…这个故事还在继续 在下一个网络]]></description>
       <guid>https://thenextweb.com/news/meta-taskforce-to-fight-eu-election-disinformation-as-deepfake-fears-grow</guid>
       <pubDate>Mon, 26 Feb 2024 12:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 利用人工智能的力量来加速量子计算机</title>
-      <link>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</link>
-      <description><![CDATA[在新的研究中，Google DeepMind 证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
-      <guid>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</guid>
-      <pubDate>Mon, 26 Feb 2024 12:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>这家初创公司将生物工程组织植入人体静脉植入物</title>
-      <link>https://thenextweb.com/news/clexbio-bioengineers-human-veins</link>
-      <description><![CDATA[挪威初创公司 ClexBio 正在对人体静脉进行生物工程植入，以植入患者体内。该公司与瑞士研发中心 CSEM 合作，建造了一个原型生物反应器来生长静脉。动物模型的临床前测试已经在进行中。根据早期结果，研究小组确信植入物不会引发患者的免疫反应。相反，它们变成与身体融合的功能组织。如果进一步的测试证明成功，植入物可以治疗严重的慢性静脉功能不全，这是一种由于静脉无法将血液输送到心脏而引起的痛苦状况。但静脉只是开始…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/clexbio-bioengineers-human-veins</guid>
-      <pubDate>Fri, 23 Feb 2024 17:43:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
