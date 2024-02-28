@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 28 Feb 2024 03:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 06:18:57 GMT</lastBuildDate>
+    <item>
+      <title>在 CSS 中玩转 Infinity</title>
+      <link>https://codersblock.com/blog/playing-with-infinity-in-css/</link>
+      <description><![CDATA[CSS 有一个无穷大的常数。当我第一次了解到这一点时，我的大脑里充满了各种荒谬的可能性。 
+]]></description>
+      <guid>https://codersblock.com/blog/playing-with-infinity-in-css/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:15:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>史蒂文·斯卡格斯《隐藏的因素》</title>
+      <link>https://www.logodesignlove.com/the-hidden-factor</link>
+      <description><![CDATA[艺术家通常将他们的工作视为图像的制作；平面设计师认为设计是通过图像和字体进行交流
+]]></description>
+      <guid>https://www.logodesignlove.com/the-hidden-factor</guid>
+      <pubDate>Wed, 28 Feb 2024 05:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>功能背后：内联设备框架</title>
+      <link>https://www.figma.com/blog/behind-the-feature-inline-device-frames/</link>
+      <description><![CDATA[直接在编辑器中将移动设备、平板电脑和手表界面的设计变为现实。
+]]></description>
+      <guid>https://www.figma.com/blog/behind-the-feature-inline-device-frames/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师需要为人工智能时代打造的 3 项能力</title>
+      <link>https://uxdesign.cc/the-3-capabilities-every-designer-needs-for-the-ai-era-e6cef9db2fd8</link>
+      <description><![CDATA[UX设计的逆推。
+]]></description>
+      <guid>https://uxdesign.cc/the-3-capabilities-every-designer-needs-for-the-ai-era-e6cef9db2fd8</guid>
+      <pubDate>Wed, 28 Feb 2024 05:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和设计系统</title>
+      <link>https://bradfrost.com/blog/post/ai-and-design-systems/</link>
+      <description><![CDATA[我们都既着迷又惶恐地看着大量人工智能工具继续席卷数字领域。
+]]></description>
+      <guid>https://bradfrost.com/blog/post/ai-and-design-systems/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:09:53 GMT</pubDate>
+    </item>
     <item>
       <title>产品设计正在超越用户体验，这是因为我们正处于经济疲软的时期</title>
       <link>https://dataanddesign.substack.com/p/product-design-is-overtaking-ux-and</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://uxdesign.cc/board-game-ux-including-technology-7c33f1c44968</guid>
       <pubDate>Mon, 26 Feb 2024 05:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>诚信设计：道德设计师的深色图案手册</title>
-      <link>https://raw.studio/blog/designing-with-integrity-the-ethical-designers-handbook-on-dark-patterns/</link>
-      <description><![CDATA[深色图案是一种欺骗性的设计策略，旨在操纵用户采取他们可能无意的行为。
-]]></description>
-      <guid>https://raw.studio/blog/designing-with-integrity-the-ethical-designers-handbook-on-dark-patterns/</guid>
-      <pubDate>Fri, 23 Feb 2024 10:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙丘字体之谜</title>
-      <link>https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</link>
-      <description><![CDATA[为定义科幻小说系列及其作者弗兰克·赫伯特的视觉形象的字体命名
-]]></description>
-      <guid>https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</guid>
-      <pubDate>Fri, 23 Feb 2024 10:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>惊叹于数学家马克斯·布鲁克纳的数百个多面体模型</title>
-      <link>https://www.thisiscolossal.com/2024/02/max-bruckner-polyhedra/</link>
-      <description><![CDATA[德国学者马克斯·布鲁克纳（Max Brückner，1860-1934 年）生前因其出色的多面体模型收藏而受到赞誉。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/02/max-bruckner-polyhedra/</guid>
-      <pubDate>Fri, 23 Feb 2024 10:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polypan 18：Polypane 门户简介</title>
-      <link>https://polypane.app/blog/polypane-18-introducing-polypane-portal/</link>
-      <description><![CDATA[借助 Polypane Portal，您现在可以在所有浏览器、引擎和设备上构建和测试您的网站，而无需离开 Polypane。
-]]></description>
-      <guid>https://polypane.app/blog/polypane-18-introducing-polypane-portal/</guid>
-      <pubDate>Fri, 23 Feb 2024 10:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计啊！·学习设计的乐趣</title>
-      <link>https://arun.is/blog/design-ah/</link>
-      <description><![CDATA[来自日本的关于设计的教育节目的瑰宝。
-]]></description>
-      <guid>https://arun.is/blog/design-ah/</guid>
-      <pubDate>Fri, 23 Feb 2024 10:19:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
