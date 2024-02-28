@@ -4,7 +4,7 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 28 Feb 2024 06:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 09:13:53 GMT</lastBuildDate>
     <item>
       <title>反刍的“美国派”给 GenAI 版权主张增添了酸味</title>
       <link>https://thenextweb.com/news/generative-ai-regurgitates-training-data-copyright-fair-use</link>
@@ -57,7 +57,7 @@
     <item>
       <title>谷歌 DeepMind 利用人工智能的力量来加速量子计算机</title>
       <link>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在新的研究中，Google DeepMind 证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
       <guid>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</guid>
       <pubDate>Mon, 26 Feb 2024 12:24:05 GMT</pubDate>
     </item>

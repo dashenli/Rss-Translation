@@ -4,7 +4,32 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 28 Feb 2024 03:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 09:12:54 GMT</lastBuildDate>
+    <item>
+      <title>谷歌首席执行官表示 Gemini AI 多样性错误“完全不可接受”</title>
+      <link>https://www.theverge.com/2024/2/28/24085445/google-ceo-gemini-ai-diversity-scandal-employee-memo</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;谷歌首席执行官桑达尔·皮查伊。 |插图由 Cath Virginia / The Verge 绘制
+
+Google Gemini AI 生成的历史上不准确的图像和文本“冒犯了我们的用户并表现出偏见”，首席执行官 Sundar Pichai 在 The Verge 获得的一份内部备忘录中告诉员工。 
+上周，在广泛发现该模型生成种族多元化、纳粹时代的德国士兵、非白人美国开国元勋，甚至不准确地描述了 Google 联合创始人的种族。尽管 Google 此后已就“未达标” 并表示正在努力重新启用图像生成在未来几周，周二的备忘录是首席执行官首次广泛解决这一争议。
+在备忘录中，首先由 Semafor 报道，Pichai 表示该公司一直在“昼夜不停地工作”，以解决“Gemini 应用程序中存在问题的文本和图像响应”。他并没有说谷歌已经解决了这个问题。 “人工智能并不完美，尤其是在行业发展的新兴阶段，但我们知道我们的门槛很高，无论需要多久，我们都会坚持下去，”他写道。
+
+您可以在下面阅读 Sundar Pichai 致 Google 员工的完整备忘录：
+&lt;块引用&gt;
+大家好
+我想解决 Gemini 应用程序（以前称为 Bard）中最近出现的文本和图像响应问题。我知道它的一些回复冒犯了我们的用户并表现出偏见 - 明确地说，这是完全不可接受的，我们错了。
+我们的团队一直在夜以继日地努力解决这些问题。我们已经看到各种提示的显着改进。人工智能并不完美，尤其是在行业发展的新兴阶段，但我们知道我们的门槛很高，无论需要多久，我们都会坚持下去。我们将回顾发生的事情并确保大规模修复它。
+我们组织全球信息并使其人人都能访问和使用的使命是神圣不可侵犯的。我们始终致力于在我们的产品中为用户提供有用、准确且公正的信息。这就是人们信任他们的原因。这必须成为我们所有产品的方法，包括我们新兴的人工智能产品。
+我们将推动一系列明确的行动，包括结构性变革、更新的产品指南、改进的发布流程、稳健的评估和红队以及技术建议。我们正在研究所有这些并将做出必要的改变。
+即使我们从这里的错误中吸取了教训，我们也应该以过去几周在 Al 中发布的产品和技术公告为基础。这包括我们的基础模型的一些基础性进步，例如我们的100万长上下文窗口突破和我们的开放模型都受到了好评。
+我们知道如何创造出被数十亿人和企业使用和喜爱的优秀产品，并且凭借我们的基础设施和研究专业知识，我们为人工智能浪潮提供了令人难以置信的跳板。让我们专注于最重要的事情：构建值得用户信任的有用产品。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/2/28/24085445/google-ceo-gemini-ai-diversity-scandal-employee-memo</guid>
+      <pubDate>Wed, 28 Feb 2024 06:23:45 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊的 Road House 重启被指控侵犯版权 - 以及人工智能语音克隆</title>
       <link>https://www.theverge.com/2024/2/27/24085264/amazon-road-house-reboot-lawsuit-ai-cloning-copyright-infringement</link>
@@ -144,13 +169,6 @@ OpenAI 和 Midjourney 没有立即回应 The Verge 的置评请求。 Automattic
 尽管苹果可能已经放弃了自动驾驶电动汽车的梦想，索尼和本田仍在努力开放预购 Afeela 明年将在北美推出具有自动驾驶功能的电动汽车，并于 2026 年推出。]]></description>
       <guid>https://www.theverge.com/2024/2/27/24084907/apple-electric-car-project-titan-shuts-down</guid>
       <pubDate>Tue, 27 Feb 2024 19:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>播客的数据规则得到刷新</title>
-      <link>https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/27/24084807/podcast-data-iab-spotify-gimlet-ringer-wamu-dcist</guid>
-      <pubDate>Tue, 27 Feb 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
