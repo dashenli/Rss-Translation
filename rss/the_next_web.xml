@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 28 Feb 2024 09:13:53 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Wed, 28 Feb 2024 12:23:04 GMT</lastBuildDate>
+    <item>
+      <title>索拉是什么？一种新的生成人工智能工具可以改变视频制作，并放大风险</title>
+      <link>https://thenextweb.com/news/what-is-sora-new-generative-ai-tool-video-production-risks</link>
+      <description><![CDATA[本月，OpenAI 宣布推出一款名为 Sora 的新生成式 AI 系统，该系统可生成文字提示的短视频。虽然 Sora 尚未向公众开放，但迄今为止发布的高质量样本已经引起了兴奋和担忧的反应。 OpenAI 发布的样本视频（该公司称这些视频是由 Sora 直接制作，未经修改）显示了提示的输出，例如“两艘海盗船在一杯咖啡内航行时互相战斗的逼真特写视频”和“加利福尼亚州的历史镜头”淘金热期间”。乍一看，这通常很难…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/what-is-sora-new-generative-ai-tool-video-production-risks</guid>
+      <pubDate>Wed, 28 Feb 2024 10:59:51 GMT</pubDate>
+    </item>
     <item>
       <title>反刍的“美国派”给 GenAI 版权主张增添了酸味</title>
       <link>https://thenextweb.com/news/generative-ai-regurgitates-training-data-copyright-fair-use</link>
@@ -15,7 +22,7 @@
     <item>
       <title>欧空局发布了卫星重新进入地球大气层时的最终图像</title>
       <link>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</link>
-      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类整体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类总体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</guid>
       <pubDate>Tue, 27 Feb 2024 15:33:12 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>为什么 PHP 仍然是一种流行但存在争议的编程语言</title>
       <link>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</link>
-      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：世界上只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</guid>
       <pubDate>Tue, 27 Feb 2024 08:53:45 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[挪威初创公司 ClexBio 正在对人体静脉进行生物工程植入，以植入患者体内。该公司与瑞士研发中心 CSEM 合作，建造了一个原型生物反应器来生长静脉。动物模型的临床前测试已经在进行中。根据早期结果，研究小组确信植入物不会引发患者的免疫反应。相反，它们变成与身体融合的功能组织。如果进一步的测试证明成功，植入物可以治疗严重的慢性静脉功能不全，这是一种由于静脉无法将血液输送到心脏而引起的痛苦状况。但静脉只是开始…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/clexbio-bioengineers-human-veins</guid>
       <pubDate>Fri, 23 Feb 2024 17:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 个具有独角兽潜力的快速增长的规模化企业——在 TNW 2024 上与它们见面</title>
-      <link>https://thenextweb.com/news/7-fast-growing-scaleups-unicorn-tnw-2024</link>
-      <description><![CDATA[虽然今年有许多创新公司参加 TNW Conference 2024，但我们已经创建了 7 个最热门的扩展的简短列表以供查看。尽管它们涵盖了一系列不同的行业，但它们都有一个共同点：独角兽潜力。通过我们的“闪亮之星”竞赛，专家评委对每位提名者进行了分析和评估，以了解哪些人有望成为下一个革命性的独角兽，实现快速增长，并在其行业中产生可持续的影响。从增长怪物到颠覆性创新者，以下是我们的选择： 未来的“愿景” 三家公司站稳了脚跟…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/7-fast-growing-scaleups-unicorn-tnw-2024</guid>
-      <pubDate>Fri, 23 Feb 2024 12:56:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
