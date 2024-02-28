@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 28 Feb 2024 00:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 03:15:11 GMT</lastBuildDate>
+    <item>
+      <title>拥有“透明”显示屏的笔记本电脑！？联想概念机“Project Crystal”有何用意？</title>
+      <link>https://wired.jp/article/lenovo-project-crystal-transparent-laptop-mwc-2024/</link>
+      <description><![CDATA[联想在 MWC 2024 上推出了一款概念笔记本电脑，可以让你透过显示屏看到东西。这款名为“Project Crystal”的设备揭示了联想探索移动设备未来的想法。]]></description>
+      <guid>https://wired.jp/article/lenovo-project-crystal-transparent-laptop-mwc-2024/</guid>
+      <pubDate>Wed, 28 Feb 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>秘密发布谷歌发明的网站是否可以免受“现有技术”的影响？</title>
       <link>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</link>
@@ -36,21 +43,21 @@
     <item>
       <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
       <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来防御攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克希望披露有关 Neuralink 脑植入临床试验的更多信息</title>
       <link>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务的信息披露的失望。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务信息披露的失望。]]></description>
       <guid>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</guid>
       <pubDate>Sun, 25 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AI无法做到的“创造”的本质是感受“与人的联系”</title>
       <link>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</link>
-      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
+      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑 Steven Levy 的见解。]]></description>
       <guid>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</guid>
       <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌于 2023 年 12 月发布了“Gemini”。仅仅两个月后，升级版本Gemini Pro 1.5就发布了。人工智能未来演进的基本要素是什么？我们采访了谷歌 DeepMind 首席执行官 Demis Hassabis。]]></description>
       <guid>https://wired.jp/article/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/</guid>
       <pubDate>Wed, 21 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Galaxy S24”系列评测：顶级硬件与谷歌“智能”融合</title>
-      <link>https://wired.jp/article/samsung-galaxy-s24-s24-plus-and-s24-ultra/</link>
-      <description><![CDATA[三星新智能手机型号“Galaxy S24”、“Galaxy S24+”和“Galaxy S24 Ultra”。当我们测试它的功能时，我们发现它是顶级硬件和谷歌智能的结合。然而，也存在一些“弱点”。]]></description>
-      <guid>https://wired.jp/article/samsung-galaxy-s24-s24-plus-and-s24-ultra/</guid>
-      <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

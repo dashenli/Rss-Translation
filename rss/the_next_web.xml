@@ -3,8 +3,8 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Wed, 28 Feb 2024 00:54:26 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 28 Feb 2024 03:14:51 GMT</lastBuildDate>
     <item>
       <title>反刍的“美国派”给 GenAI 版权主张增添了酸味</title>
       <link>https://thenextweb.com/news/generative-ai-regurgitates-training-data-copyright-fair-use</link>
@@ -15,7 +15,7 @@
     <item>
       <title>欧空局发布了卫星重新进入地球大气层时的最终图像</title>
       <link>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</link>
-      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类总体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[经过近 30 年的服务，欧洲航天局的 ERS-2 卫星重新进入地球2 月 21 日欧洲中部时间 18:17 左右在大气层中发射。ERS-2 于 1995 年发射，最初的任务寿命仅为三年，为地球观测设定了新标准，收集有关臭氧层、海洋温度和人类整体影响的宝贵数据在这个星球上。 2011年，出于对太空垃圾数量不断增加的担忧，欧空局决定启动卫星的脱轨过程。这一过程于上周结束。 ERS-2比欧空局的预测晚了大约六个小时返回地球。事实上，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-final-images-ers-2-satellite-re-enters-earths-atmosphere</guid>
       <pubDate>Tue, 27 Feb 2024 15:33:12 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>为什么 PHP 仍然是一种流行但存在争议的编程语言</title>
       <link>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</link>
-      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：世界上只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[对于 PHP，你可以说的一件事是它是持久的。与许多历史悠久的编程语言一样，它经常受到希望看到更新候选语言的开发人员的诽谤，但它也保留了许多支持者和实践者，这提醒了 C++ 发明者 Bjarne Stroustrup 的名言：只有两种语言的种类：人们抱怨的语言和没人使用的语言。 PHP 最初创建于 1993 年，旨在增强程序员 Rasmus Lerdorf 的网页，它最初并不是一种新的编程语言，而是有机发展的。它继续在其范围内进行调整这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/why-php-continues-to-be-a-popular-but-divisive-programming-language</guid>
       <pubDate>Tue, 27 Feb 2024 08:53:45 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>谷歌 DeepMind 利用人工智能的力量来加速量子计算机</title>
       <link>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</link>
-      <description><![CDATA[在新的研究中，Google DeepMind 已证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
+      <description><![CDATA[在新的研究中，Google DeepMind 证明其 AI 可以帮助加速量子计算机的发展——在结合两种最具颠覆性的技术方面又向前迈出了一步。 DeepMind 与英国 Quantinuum 合作解决了容错量子计算机的一个关键挑战：减少 T 门的数量。 T 门对于实现量子电路至关重要，量子电路是操纵量子位来生成算法的门网络。然而，T 门也是网络中最昂贵、资源最密集的门。为了解决这个问题，该团队开发了 AlphaTensor-Quantum，它是 DeepMind AlphaTensor 的扩展，即…这个故事在 The Next Web 继续或者只是阅读有关的更多报道：Google]]></description>
       <guid>https://thenextweb.com/news/google-deepmind-ai-to-accelerate-quantum-computers</guid>
       <pubDate>Mon, 26 Feb 2024 12:24:05 GMT</pubDate>
     </item>
