@@ -4,7 +4,21 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Wed, 28 Feb 2024 18:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 21:13:38 GMT</lastBuildDate>
+    <item>
+      <title>我们目前正处于几个黄金时代，这是您应该注意的</title>
+      <link>https://rss.digg.com/internet-culture/link/golden-age-pay-attention-reddit</link>
+      <description><![CDATA[从兴趣爱好到古代科学研究，人类现在正在粉碎它。]]></description>
+      <guid>https://rss.digg.com/internet-culture/link/golden-age-pay-attention-reddit</guid>
+      <pubDate>Tue, 27 Feb 2024 20:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在近十年后取消了电动汽车业务，并解雇了更多员工</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwOTA2MTgzMiwiZXhwIjoxNzA5NjY2NjM</link>
+      <description><![CDATA[该公司于 2014 年首次宣布该项目，并承诺推出一个闻所未闻的“完全自主”系统，没有方向盘或踏板。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwOTA2MTgzMiwiZXhwIjoxNzA5NjY2NjM</guid>
+      <pubDate>Tue, 27 Feb 2024 19:49:53 GMT</pubDate>
+    </item>
     <item>
       <title>世界上最快的 FPV 无人机现在可以与赛道上的一级方程式赛车正面交锋</title>
       <link>https://rss.digg.com/digg-vids/link/fastest-camera-drone-vs-f1-car-red-bull-verstappen-video</link>
@@ -62,20 +76,6 @@
       <pubDate>Sun, 25 Feb 2024 23:14:04 GMT</pubDate>
     </item>
     <item>
-      <title>这是一群我们只因为一张幸运照片才知道的巴克野生动物</title>
-      <link>https://rss.digg.com/internet-culture/link/unknown-objects-ideas-caught-camera-reddit</link>
-      <description><![CDATA[如果我们没有先进的技术和一点运气，我们可能永远不会知道一些非常酷的东西。]]></description>
-      <guid>https://rss.digg.com/internet-culture/link/unknown-objects-ideas-caught-camera-reddit</guid>
-      <pubDate>Fri, 23 Feb 2024 18:29:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 1800 年代以来全球生活条件发生了怎样的变化（可视化）</title>
-      <link>https://rss.digg.com/data-viz/link/living-conditions-improved-since-1800s-visualized</link>
-      <description><![CDATA[从儿童死亡率到识字水平，世界看起来与两个世纪前截然不同。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/living-conditions-improved-since-1800s-visualized</guid>
-      <pubDate>Fri, 23 Feb 2024 16:19:24 GMT</pubDate>
-    </item>
-    <item>
       <title>一位霹雳舞爸爸在网上辱骂他的女儿，以及本周的“一个主角”的更多内容</title>
       <link>https://rss.digg.com/one-main-character/link/one-main-character-breakdancing-dad-twitter-NYPD-dance</link>
       <description><![CDATA[包括对纽约警察局有专门舞蹈团的消息的回应。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Tue, 20 Feb 2024 18:43:24 GMT</pubDate>
     </item>
     <item>
-      <title>播放“咒语塔”</title>
-      <link>https://rss.digg.com/puzzmo/link/spelltower</link>
-      <description><![CDATA[通过在网格上拖动、单独点击每个字母或在键盘上键入来选择单词。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/spelltower</guid>
-      <pubDate>Mon, 11 Dec 2023 20:07:42 GMT</pubDate>
+      <title>播放“类型转换”</title>
+      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
+      <description><![CDATA[你的目标是把每一个字母都变得扎实。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
+      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
