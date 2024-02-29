@@ -4,13 +4,20 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 06:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 09:13:14 GMT</lastBuildDate>
+    <item>
+      <title>Family Dollar因仓库内出现啮齿动物而被罚款超过4000万美元</title>
+      <link>https://npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse</link>
+      <description><![CDATA[美国食品和药物管理局发现了死的和活的啮齿动物，以及它们的粪便和尿液。该仓库为400多家商店提供服务，经过熏蒸后，1200多只啮齿动物被消灭。]]></description>
+      <guid>https://npr.org/2024/02/29/1234751744/family-dollar-rodents-warehouse</guid>
+      <pubDate>Thu, 29 Feb 2024 06:38:33 GMT</pubDate>
+    </item>
     <item>
       <title>卫生官员建议美国老年人应再注射一次 COVID-19 疫苗</title>
       <link>https://npr.org/2024/02/28/1234749300/older-us-adults-covid-vaccine</link>
       <description><![CDATA[疾病预防控制中心表示，65 岁及以上的美国人应该再接种一剂 9 月份推出的更新疫苗——如果距离上次注射至少已经过去了四个月。]]></description>
       <guid>https://npr.org/2024/02/28/1234749300/older-us-adults-covid-vaccine</guid>
-      <pubDate>Thu, 29 Feb 2024 04:44:18 GMT</pubDate>
+      <pubDate>Thu, 29 Feb 2024 04:44:00 GMT</pubDate>
     </item>
     <item>
       <title>众议院议长迈克·约翰逊能否达成协议？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[密苏里州是美国堕胎禁令最严格的州之一。堕胎权支持者必须在 5 月之前收集超过 171,000 个签名，才能在今年秋天向选民展示这一问题。]]></description>
       <guid>https://npr.org/2024/02/28/1234278254/missouri-advocates-gather-signatures-for-abortion-legalization-but-gop-hurdle-lo</guid>
       <pubDate>Wed, 28 Feb 2024 16:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>超过 330,000 辆 Jeep 大切诺基被召回以解决方向盘问题</title>
-      <link>https://npr.org/2024/02/28/1234489633/jeep-grand-cherokee-recall-steering-wheel-chrysler</link>
-      <description><![CDATA[克莱斯勒正在召回超过 330,000 辆吉普大切诺基，因为方向盘问题可能导致驾驶员失去对车辆的控制。]]></description>
-      <guid>https://npr.org/2024/02/28/1234489633/jeep-grand-cherokee-recall-steering-wheel-chrysler</guid>
-      <pubDate>Wed, 28 Feb 2024 16:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

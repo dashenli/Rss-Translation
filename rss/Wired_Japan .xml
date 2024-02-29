@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 29 Feb 2024 00:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 09:15:08 GMT</lastBuildDate>
+    <item>
+      <title>英特尔CEO专访：为了实现戏剧性的“复兴”，英特尔正在应对人工智能开发竞争导致的半导体需求快速增长</title>
+      <link>https://wired.jp/article/intel-ceo-pat-gelsinger-ai-comeback/</link>
+      <description><![CDATA[英特尔宣布将重振其代工业务，该业务生产其他公司设计的半导体，并将投资最新的制造技术。我们采访了首席执行官帕特·基辛格 (Pat Gelsinger)，了解该公司在曾经落后的领域重新夺回领先制造商地位的战略。]]></description>
+      <guid>https://wired.jp/article/intel-ceo-pat-gelsinger-ai-comeback/</guid>
+      <pubDate>Thu, 29 Feb 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“苹果汽车”的梦想已经结束，这个决定背后的明显原因</title>
+      <link>https://wired.jp/article/rip-apple-car-this-is-why-it-died/</link>
+      <description><![CDATA[据透露，苹果计划结束一直在幕后进行的自动驾驶汽车开发项目。当我们探究其背后的背景时，科技公司独自开发和生产汽车的难度就显而易见了。]]></description>
+      <guid>https://wired.jp/article/rip-apple-car-this-is-why-it-died/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从透明笔记本电脑到手环式智能手机，最新产品将在 MWC 2024 上亮相</title>
+      <link>https://wired.jp/article/all-the-top-new-gadgets-at-mwc-2024/</link>
+      <description><![CDATA[世界移动通信大会（MWC）是全球最大的移动设备贸易展览会，将于2月26日（至29日）在巴塞罗那举行。我们将推出引人注目的新产品，包括与芭比娃娃合作的智能手机、透明笔记本电脑和手镯形智能手机。]]></description>
+      <guid>https://wired.jp/article/all-the-top-new-gadgets-at-mwc-2024/</guid>
+      <pubDate>Thu, 29 Feb 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蒂姆·库克 (Tim Cook) 对 Apple Vision Pro 未来的愿景及其所有隐藏的可能性</title>
       <link>https://wired.jp/article/tim-cook-apple-vision-pro/</link>
@@ -41,7 +62,7 @@
       <pubDate>Wed, 28 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一个秘密公开谷歌发明的网站可以保护其“现有技术”吗？</title>
+      <title>秘密发布谷歌发明的网站是否可以免受“现有技术”的影响？</title>
       <link>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</link>
       <description><![CDATA[免费网站 TDCommons 由 Google 运营，旨在保护不值得申请专利的发明。然而，即使是为了国防公开，也存在难以引起美国专利商标局注意等问题。]]></description>
       <guid>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</guid>
@@ -71,7 +92,7 @@
     <item>
       <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
       <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
+      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来防御攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
       <guid>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</guid>
       <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>空间计算领域，应用竞争变成室内装饰和杂货 -- Vision Pro 开发者：MESON</title>
-      <link>https://wired.jp/article/apple-vision-pro-meson-sunnytune/</link>
-      <description><![CDATA[3D天气应用程序“SunnyTune”是MESON与Apple Vision Pro一起发布的。看似可爱的界面背后隐藏着一种全新的哲学，它更新了人类与计算之间的关系。]]></description>
-      <guid>https://wired.jp/article/apple-vision-pro-meson-sunnytune/</guid>
-      <pubDate>Sat, 24 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰入侵两年后，市政府数字平台支持受创伤公民的心理健康</title>
-      <link>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</link>
-      <description><![CDATA[两年来俄罗斯的轰炸和炮击使数百万乌克兰人遭受心理健康问题。为了重建，基辅市已经开始为有情感创伤的人们建立一个支持系统。]]></description>
-      <guid>https://wired.jp/article/kyiv-tech-trauma-war-ptsd-mental-health-bloomberg-ukraine/</guid>
-      <pubDate>Fri, 23 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>海面温度上升势不可挡，持续破纪录“极不正常”</title>
-      <link>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</link>
-      <description><![CDATA[全球海洋温度的上升速度继续快于研究人员的预期。这可能是更大飓风或海洋生态系统变化的不祥征兆。]]></description>
-      <guid>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
