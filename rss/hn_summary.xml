@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 12:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:11:43 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 你知道有人成功地用牙刷运行了经典游戏《毁灭战士》吗？</title>
-      <link>https://t.me/hn_summary/76791</link>
-      <description><![CDATA[末日在牙刷上运行
-您是否知道有人设法让经典游戏《毁灭战士》在牙刷上运行？是的，你没有看错！这一令人印象深刻的壮举展示了实现这一壮举的个人的创造力和技术技能。令人惊奇的是，技术已经取得了如此大的进步，我们现在可以在这样的非常规设备上玩游戏。请观看我们 Twitter 页面上的视频，了解这一令人惊讶且独特的成就。谁知道将来我们还会看到哪些其他意想不到的设备来运行游戏！]]></description>
-      <guid>https://t.me/hn_summary/76791</guid>
-      <pubDate>Thu, 29 Feb 2024 12:19:14 GMT</pubDate>
+      <title>该网页内容讨论了高性能无锁环的设计和实现 - [...]</title>
+      <link>https://t.me/hn_summary/76817</link>
+      <description><![CDATA[具有连续预留的无锁环形缓冲区（2019）&lt; /a&gt;
+此 Web 内容讨论了 Andrea Lattuada 和 James Munns 设计和实现的用于跨线程通信的高性能无锁环形缓冲区。这篇文章介绍了循环缓冲区的基础知识、维护连续数据写入/读取的挑战以及直接内存访问 (DMA) 在嵌入式系统中的重要性。该设计从 BipBuffer 中汲取灵感，但引入了一种无需显式锁定即可处理并发的新方法。通过将每个协调变量与单个线程相关联，该设计简化了推理并减少了写入器和读取器线程之间的协调。这篇文章还强调了 DMA 在提高嵌入式系统和数据中心的数据传输效率和 CPU 利用率方面的重要性。 （根据 68% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76817</guid>
+      <pubDate>Thu, 29 Feb 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项有争议的举动中，德涅斯特河沿岸的亲俄罗斯官员呼吁莫斯科 [...]</title>
-      <link>https://t.me/hn_summary/76790</link>
-      <description><![CDATA[德涅斯特河左岸呼吁俄罗斯“保护”
-德涅斯特河沿岸的亲俄官员呼吁莫斯科提供“保护”，此举引发争议，引发美国和摩尔多瓦的担忧。该地区已经从摩尔多瓦独立了三十年，随着该地区紧张局势加剧，俄罗斯在那里驻扎了一千多名士兵。请求帮助抵御摩尔多瓦的压力之际，人们担心西南部会出现新的战线。摩尔多瓦亲欧洲政府将这一呼吁视为宣传，而美国则密切关注俄罗斯的行动。与乌克兰东部的冲突相比，德涅斯特河沿岸的局势被视为与俄罗斯在欧洲的潜在爆发点。]]></description>
-      <guid>https://t.me/hn_summary/76790</guid>
-      <pubDate>Thu, 29 Feb 2024 12:00:06 GMT</pubDate>
+      <title>作者分享了他们学习世界语、Toki Pona 的旅程，以及他们在 E [...]</title>
+      <link>https://t.me/hn_summary/76816</link>
+      <description><![CDATA[世界语、道本语、斯瓦希里语、印度尼西亚语
+作者分享了他们学习世界语、Toki Pona 的历程以及他们在世界语会议上的经历。他们对在世界语这种实际用途有限的语言上投入如此多的时间表示遗憾。他们还讨论了语言学家约翰·麦克沃特（John McWhorter）对斯瓦希里语和印度尼西亚语的赞扬，因为它们简单且广泛使用，是理想的语言。作者考虑将来学习其中一种语言或普通话，以便与更多母语人士交流。这个故事凸显了作者对语言的热情以及他们对有意义的沟通体验的追求。]]></description>
+      <guid>https://t.me/hn_summary/76816</guid>
+      <pubDate>Thu, 29 Feb 2024 15:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着 Plasma 6、Frameworks 的发布，KDE 桌面进行了重大修改 [...]</title>
-      <link>https://t.me/hn_summary/76789</link>
-      <description><![CDATA[KDE 桌面通过 Plasma 6 进行彻底改造&lt; br/&gt;
-随着 Plasma 6、Frameworks 6 和 Gear 24.02 的发布，KDE 桌面进行了重大修改，所有这些都基于 Qt 6 开发框架。此版本的重点是迁移到 Wayland、提高性能、安全性以及对新硬件的支持。 Plasma 6 引入了对默认设置的更改，包括切换为双击打开文件和调整滚动行为。在幕后，KDE Frameworks 6 专注于减少弃用的框架和依赖项。虽然 Plasma 6 可能不是一个重大更新，但它为未来的 KDE 开发奠定了坚实的基础。预计用户将顺利过渡到 Plasma 6，短期内仍将支持 X11。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76789</guid>
-      <pubDate>Thu, 29 Feb 2024 11:53:01 GMT</pubDate>
+      <title>在这项开创性的研究中，研究人员展示了虚幻引擎（一种视频游戏引擎）的使用 [...]</title>
+      <link>https://t.me/hn_summary/76815</link>
+      <description><![CDATA[使用虚幻引擎在原子级别渲染细胞内的蛋白质结构
+在这项开创性的研究中，研究人员展示了如何使用虚幻引擎（一种视频游戏引擎）来渲染细胞内原子水平的蛋白质结构。虽然 CryoET 可以识别细胞内的大分子，但在原子水平上可视化它们一直是一个挑战。通过利用这种创新方法，该团队展示了实时渲染复杂生物结构的能力，提供了一种独特的交互式方式来探索细胞环境。此外，他们还提供交互式导航工具和将 CryoET 数据转换为与游戏引擎兼容的格式的软件。这项研究为以前所未有的细节可视化细胞结构开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/76815</guid>
+      <pubDate>Thu, 29 Feb 2024 15:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文“使用潜在透明度的透明图像层扩散”中，Lvmin Zhan [...]</title>
-      <link>https://t.me/hn_summary/76788</link>
-      <description><![CDATA[使用潜在透明度的透明图像层扩散
-在论文《使用潜在透明度的透明图像层扩散》中，Lvmin 张及其同事介绍了 LayerDiffusion，这是一种使预训练的潜在扩散模型能够生成透明图像的方法。通过将可将 alpha 通道透明度编码到模型的潜在流形中的“潜在透明度”，他们能够生成单个透明图像或多个透明层，同时保持原始模型的质量。这种创新方法为各种应用开辟了可能性，例如前景/背景条件图层生成和图层内容的结构控制。用户研究表明，生成的透明图像的质量与真实的商业资产相当，与传统解决方案相比，用户更喜欢这种方法。]]></description>
-      <guid>https://t.me/hn_summary/76788</guid>
-      <pubDate>Thu, 29 Feb 2024 11:42:55 GMT</pubDate>
+      <title>[媒体] Show HN：猜骰子 – 哪一面获胜？</title>
+      <link>https://t.me/hn_summary/76814</link>
+      <description><![CDATA[显示 HN：猜骰子 – 哪一面获胜？
+标题：Show HN：猜骰子 – 哪一边落地？
+
+正在寻找一款有趣且简单的应用程序来打发时间？猜骰子就是最好的选择！该应用程序由 Indest 开发，允许用户猜测骰子的哪一面会落地。最好的部分？您的隐私受到保护，因为开发人员不会从应用程序收集任何数据。所以，现在就下载 Dice Guess 并开始测试您的运气吧！]]></description>
+      <guid>https://t.me/hn_summary/76814</guid>
+      <pubDate>Thu, 29 Feb 2024 14:56:21 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：为什么 HN 经常宕机？</title>
-      <link>https://t.me/hn_summary/76787</link>
-      <description><![CDATA[询问 HN：为什么 HN 经常宕机？ 
-news.ycombinator.com 上帖子的作者是质疑网站为何频繁宕机，遇到诸如“我们在满足您的请求时遇到一些问题。抱歉！”之类的问题一天多次，特别是在欧洲午餐时间。他们很好奇这些频繁停电背后的原因，想知道是由于维护工作还是其他问题。作者感到惊讶的是，该网站最近如此频繁地宕机，促使他们向黑客新闻社区寻求答案。]]></description>
-      <guid>https://t.me/hn_summary/76787</guid>
-      <pubDate>Thu, 29 Feb 2024 11:36:50 GMT</pubDate>
+      <title>[媒体]纽约市有缓解交通拥堵的计划吗？</title>
+      <link>https://t.me/hn_summary/76813</link>
+      <description><![CDATA[纽约市有缓解交通拥堵的计划吗？曼哈顿司机 15 美元通行费
+纽约市正在考虑对进入中央公园以南曼哈顿的司机征收 15 美元的通行费，以减少交通拥堵、空气污染，并为公共交通提供资金。该计划将使纽约成为美国第一个实行拥堵收费计划的城市，但遭到公立学校教师、企业主和郊区通勤者的反对。支持者认为，纽约的本质取决于可靠的公共交通，而批评者则担心这会对低收入居民、残疾人和夜班工人产生影响。该计划包括对某些车辆的豁免以及对低收入居民的折扣。]]></description>
+      <guid>https://t.me/hn_summary/76813</guid>
+      <pubDate>Thu, 29 Feb 2024 14:52:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 GarWin，这是一个免费且用户友好的数据库，您可以在其中浏览所有 [...]</title>
-      <link>https://t.me/hn_summary/76786</link>
-      <description><![CDATA[Show HN：我制作了 GarWin，一款免费且用户友好的 Garmin徽章数据库
-隆重推出 GarWin，这是一个免费且用户友好的数据库，您可以在其中浏览所有已知的 Garmin 徽章。告别无休止的搜索和混乱，GarWin 让您可以在一个方便的地方轻松查找和跟踪您的徽章。无论您是经验丰富的 Garmin 用户还是新手，该数据库都是所有徽章爱好者的必备工具。立即访问 garvv.in 开始轻松探索并收集徽章.]]></description>
-      <guid>https://t.me/hn_summary/76786</guid>
-      <pubDate>Thu, 29 Feb 2024 10:52:36 GMT</pubDate>
+      <title>FBI 一直在使用推送通知令牌来识别匿名用户，导致 ar [...]</title>
+      <link>https://t.me/hn_summary/76812</link>
+      <description><![CDATA[FBI 使用推送通知令牌来识别匿名用户&lt; br/&gt;
+联邦调查局一直在使用推送通知令牌来识别匿名用户，从而逮捕了与儿童性虐待材料和其他犯罪相关的案件中的嫌疑人。这项技术涉及从苹果和谷歌等科技公司获取推送代币，这些代币可用于追踪用户。虽然执法官员认为这种方法是打击犯罪的重要工具，但隐私倡导者担心滥用和监视的可能性。这种有争议的做法已被用于各种刑事案件，包括与恐怖主义、毒品，甚至国会大厦骚乱有关的案件。推送代币的使用引发了有关隐私和执法机构滥用的可能性的问题。]]></description>
+      <guid>https://t.me/hn_summary/76812</guid>
+      <pubDate>Thu, 29 Feb 2024 14:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>Hetzner 将于 2024 年 3 月改用新的计费模式，以使他们的产品更加用户友好。</title>
-      <link>https://t.me/hn_summary/76785</link>
-      <description><![CDATA[Hetzner 切换到新的计费模式
-Hetzner 将于 2024 年 3 月改用新的计费模式，以使他们的产品更加用户友好。新结构将包括许多产品的按小时计费，类似于云计费。在三月和四月的过渡期间，发票可能看起来有所不同，但每月价格将保持不变。现在将根据上个月使用的服务开具发票，产品上市后立即开始按小时计费。虽然大多数产品将按小时计费，但域名和 SSL 证书等一些例外情况将继续按年付款。客户将在每月的不同日期收到发票，以便更快地获得客户服务。]]></description>
-      <guid>https://t.me/hn_summary/76785</guid>
-      <pubDate>Thu, 29 Feb 2024 10:48:33 GMT</pubDate>
+      <title>在亚特兰大，三个企业房东拥有近 11% 的单户出租房屋，总计 [...]</title>
+      <link>https://t.me/hn_summary/76811</link>
+      <description><![CDATA[三家公司在佐治亚州亚特兰大拥有 19,000 套出租房屋 
+在亚特兰大，三个公司房东拥有近 11% 的单户出租房屋，总计超过 19,000 处房产。这种所有权的集中使这些公司对租户拥有巨大的市场影响力，从而导致了该市的经济适用房危机。有限责任公司复杂的所有权结构使得很难追踪财产与母公司之间的联系。由于管理层的层级关系，租户在与企业业主打交道时面临着挑战。在经济增长、经济适用房和宽松的租户保护的推动下，亚特兰大是美国最大的企业房东活动市场。佐治亚州立大学的研究人员旨在向公众公开他们的调查方法，以阐明这个问题。]]></description>
+      <guid>https://t.me/hn_summary/76811</guid>
+      <pubDate>Thu, 29 Feb 2024 14:33:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 艾美奖计算机代数系统是 scmutils 的 Clojure（脚本）实现 [...]</title>
-      <link>https://t.me/hn_summary/76784</link>
-      <description><![CDATA[艾美奖计算机代数系统
-艾美计算机代数系统是用于数学和物理研究的 scmutils 系统的 Clojure（脚本）实现。它提供符号计算、自动微分、数值积分以及微分几何和力学的研究。 Emmy 通过提供 TeX 渲染、表达式简化和大量通用数学运算而脱颖而出。它基于经典力学的结构和解释背后的引擎，并提供用于探索拉格朗日和哈密顿力学的 API。 Emmy 可以在 REPL 环境中交互使用，并支持复数和符号表达式。它旨在通过允许在现代环境中进行实验和协作来扩展 SICM 和 FDG 的影响范围。]]></description>
-      <guid>https://t.me/hn_summary/76784</guid>
-      <pubDate>Thu, 29 Feb 2024 10:28:24 GMT</pubDate>
+      <title>[媒体]谷歌正面临来自 30 多家欧洲媒体公司的 21 亿欧元诉讼，指控 [...]</title>
+      <link>https://t.me/hn_summary/76810</link>
+      <description><![CDATA[Google 因 30 多家欧洲媒体公司提起 2.1B 欧元诉讼
+谷歌正面临 30 多家欧洲媒体公司提起的 21 亿欧元诉讼，指控这家科技巨头存在不公平行为。这是在米斯特拉尔和微软之间达成一项有争议的人工智能协议的背景下发生的，突显了关于欧洲在科技行业中角色的持续争论。激烈的游说努力揭示了欧洲公司在不断变化的科技领域竞争所面临的挑战和机遇。]]></description>
+      <guid>https://t.me/hn_summary/76810</guid>
+      <pubDate>Thu, 29 Feb 2024 14:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>在《果冻沙拉的社会史》一书中，作者深入研究了 [...]</title>
-      <link>https://t.me/hn_summary/76783</link>
-      <description><![CDATA[果冻沙拉的社会史（2023）
-在《果冻沙拉的社会史》一书中，作者深入研究了这道标志性菜肴的迷人演变，将其根源追溯到中世纪的欧洲，并在 20 世纪的美国流行起来。从最初作为贵族美味的精英美食，到后来转变为家庭成就和效率的象征，果冻沙拉反映了时代不断变化的社会和文化景观。尽管果冻沙拉在 20 世纪 80 年代失宠，但它仍然是对过去时代的怀旧提醒，让人们深入了解女性在战后厨房中的角色以及工业化对美国食品体系的影响。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76783</guid>
-      <pubDate>Thu, 29 Feb 2024 10:20:18 GMT</pubDate>
+      <title>Apple TV Plus 计划将威廉·吉布森 (William Gibson) 的标志性赛博朋克小说《神经漫游者》改编成 10 部 [...]</title>
+      <link>https://t.me/hn_summary/76809</link>
+      <description><![CDATA[苹果正在将威廉·吉布森的《神经漫游者》改编成电视剧 
+Apple TV Plus 计划将威廉·吉布森的标志性赛博朋克小说《神经漫游者》改编成 10 集连续剧。该剧由制片人格雷厄姆·罗兰和导演 JD·迪拉德加盟，讲述超级黑客凯斯和他的搭档莫莉应对数字间谍活动和高风险犯罪的故事。这并不是《神经漫游者》的第一次改编，该剧最初于 1984 年首次亮相，它加入了 Apple TV Plus 上不断增长的科幻内容阵容。这一消息引起了该类型粉丝的兴奋，他们渴望看到这个经典故事将如何搬上银幕。]]></description>
+      <guid>https://t.me/hn_summary/76809</guid>
+      <pubDate>Thu, 29 Feb 2024 14:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>我很高兴向大家介绍我的新应用程序 www.explanations.app，它提供价格实惠的 STEM 导师 [...]</title>
-      <link>https://t.me/hn_summary/76782</link>
-      <description><![CDATA[Show HN：我制作了一个非常便宜的 STEM 辅导应用程序，YouTube问答风格
-我很高兴向大家介绍我的新应用程序，www.explanations.app，以独特的 YouTube 问答风格提供经济实惠的 STEM 辅导。学生可以提交问题并获得专家导师的详细解释，而所有这些费用只是传统辅导服务的一小部分。该应用程序正在彻底改变学生获得学术帮助的方式，使其比以往任何时候都更容易获得和方便。立即加入受益于这个创新平台的学习者社区。]]></description>
-      <guid>https://t.me/hn_summary/76782</guid>
-      <pubDate>Thu, 29 Feb 2024 10:16:14 GMT</pubDate>
+      <title>news.ycombinator.com 上帖子的作者正在 Google 恢复出厂设置后寻求帮助 [...]</title>
+      <link>https://t.me/hn_summary/76808</link>
+      <description><![CDATA[问 HN：Google 变砖了我死去兄弟的手机&lt; br/&gt;
+news.ycombinator.com 上帖子的作者是在 Google 的恢复出厂设置保护功能将他们无法使用已故兄弟的 Google Pixel 6 手机后，他们寻求帮助。尽管提交了死亡证明等文件，但谷歌的支持只提供了有限的选择，并建议获得美国法院的命令来解锁手机。作者对谷歌在此过程中缺乏同理心和透明度表示失望，甚至诉诸法律帮助并尝试各种方法绕过保护但没有成功。作者衷心请求通过使用手机来纪念他们的兄弟，这突显了他们面临的情感和技术挑战。]]></description>
+      <guid>https://t.me/hn_summary/76808</guid>
+      <pubDate>Thu, 29 Feb 2024 14:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
