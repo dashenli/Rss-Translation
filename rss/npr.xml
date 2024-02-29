@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 00:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 03:14:03 GMT</lastBuildDate>
+    <item>
+      <title>加纳议会通过反 LGBTQ+ 法案 可能将人监禁多年</title>
+      <link>https://npr.org/2024/02/28/1234713001/ghana-anti-lgbtq-bill-prison</link>
+      <description><![CDATA[该法案将 LGBTQ+ 群体成员及其支持者定为犯罪，包括促进和资助相关活动以及公开表达感情。]]></description>
+      <guid>https://npr.org/2024/02/28/1234713001/ghana-anti-lgbtq-bill-prison</guid>
+      <pubDate>Thu, 29 Feb 2024 00:41:36 GMT</pubDate>
+    </item>
     <item>
       <title>国会领导人达成协议以避免政府关闭</title>
       <link>https://npr.org/2024/02/28/1234679367/congress-spending-deal-government-shutdown</link>
@@ -29,7 +36,7 @@
     <item>
       <title>最高法院似乎对碰撞库存禁令感到困惑</title>
       <link>https://npr.org/2024/02/28/1234624487/supreme-court-seems-torn-over-bump-stock-ban</link>
-      <description><![CDATA[2018年，联邦政府出于这个原因禁止了碰撞枪托，但枪支爱好者在法庭上对这一规定提出质疑，认为只有国会有权颁布此类禁令。]]></description>
+      <description><![CDATA[2018年，联邦政府出于这个原因禁止了撞撞枪托，但枪支爱好者在法庭上对这一规定提出质疑，认为只有国会有权颁布此类禁令。]]></description>
       <guid>https://npr.org/2024/02/28/1234624487/supreme-court-seems-torn-over-bump-stock-ban</guid>
       <pubDate>Wed, 28 Feb 2024 21:49:39 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[81 岁的拜登总统是有史以来最年长的就任总统，选民们担心他太老了，无法连任第二个四年任期。]]></description>
       <guid>https://npr.org/2024/02/28/1234438761/biden-physical-report</guid>
       <pubDate>Wed, 28 Feb 2024 14:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>“未做出承诺”的选民向拜登发出有关加沙的信息；阿拉巴马州参议院采取行动保护体外受精</title>
-      <link>https://npr.org/2024/02/28/1234423416/up-first-newsletter-michigan-uncommitted-votes-alabama-ivf-bills</link>
-      <description><![CDATA[拜登和特朗普赢得了密歇根州的初选，但“未做出承诺”的选民向拜登传达了他对以色列的支持的信息。阿拉巴马州参议院的两项法案旨在保护该州的体外受精治疗。]]></description>
-      <guid>https://npr.org/2024/02/28/1234423416/up-first-newsletter-michigan-uncommitted-votes-alabama-ivf-bills</guid>
-      <pubDate>Wed, 28 Feb 2024 12:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
