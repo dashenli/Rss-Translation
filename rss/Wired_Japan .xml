@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 28 Feb 2024 21:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:54:28 GMT</lastBuildDate>
+    <item>
+      <title>蒂姆·库克 (Tim Cook) 对 Apple Vision Pro 未来的愿景及其所有隐藏的可能性</title>
+      <link>https://wired.jp/article/tim-cook-apple-vision-pro/</link>
+      <description><![CDATA[苹果想通过推出混合现实（MR）耳机“Apple Vision Pro”来创造什么样的未来？首席执行官蒂姆·库克和其他主要高管发表了讲话。]]></description>
+      <guid>https://wired.jp/article/tim-cook-apple-vision-pro/</guid>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星新款智能戒指“Galaxy Ring”专注于睡眠和健康而不是健身</title>
+      <link>https://wired.jp/article/samsung-galaxy-ring-mwc-2024/</link>
+      <description><![CDATA[随着智能戒指竞争的白热化，三星在 MWC 2024 上展示了 Galaxy Ring 实物。该产品可与 Galaxy Watch 配合使用以获取更多数据，而且出奇的轻巧且易于佩戴。]]></description>
+      <guid>https://wired.jp/article/samsung-galaxy-ring-mwc-2024/</guid>
+      <pubDate>Wed, 28 Feb 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《最终幻想VII重生》评测：带领粉丝踏上未知旅程的杰作</title>
       <link>https://wired.jp/article/final-fantasy-vii-rebirth-review-best-in-ages/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[全球海洋温度的上升速度继续快于研究人员的预期。这可能是更大飓风或海洋生态系统变化的不祥征兆。]]></description>
       <guid>https://wired.jp/article/ocean-temperatures-keep-shattering-records-and-stunning-scientists/</guid>
       <pubDate>Fri, 23 Feb 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始将 Deepfakes 视为“酷”的人</title>
-      <link>https://wired.jp/article/ai-deepfakes-companies-executives-academics/</link>
-      <description><![CDATA[包括美国在内的许多国家都担心虚假信息的传播以及深度造假对选举造成的影响。另一方面，随着生成式人工智能工具的普及，它变得更容易使用，并且有人尝试将其融入新的、有吸引力的东西中。]]></description>
-      <guid>https://wired.jp/article/ai-deepfakes-companies-executives-academics/</guid>
-      <pubDate>Thu, 22 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔“复兴”场景押注AI领域</title>
-      <link>https://wired.jp/article/intel-ai-reboot-future-us-chipmaking/</link>
-      <description><![CDATA[美国最大的半导体制造商英特尔宣布将重启并扩大其代工业务，该业务以合同方式为其他公司制造芯片。欢迎微软成为客户的英特尔能否再次加强与台积电等公司在台湾的合作？]]></description>
-      <guid>https://wired.jp/article/intel-ai-reboot-future-us-chipmaking/</guid>
-      <pubDate>Thu, 22 Feb 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
