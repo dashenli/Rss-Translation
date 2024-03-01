@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 01 Mar 2024 00:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 03:17:53 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 的未来在于社交媒体记忆</title>
+      <link>https://wired.jp/article/blueskys-future-is-social-medias-past/</link>
+      <description><![CDATA[社交媒体“Bluesky”向公众开放。不过，可用性和体验与旧的 Twitter 非常相似，我仍然感觉不到该平台的独特之处。会建立新的身份吗？]]></description>
+      <guid>https://wired.jp/article/blueskys-future-is-social-medias-past/</guid>
+      <pubDate>Fri, 01 Mar 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>由人类 iPS 细胞制成的“心脏类器官”的隐藏潜力，可作为后新冠时代心力衰竭风险的垫脚石</title>
       <link>https://wired.jp/article/heart-organoids-human-ips-cells/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
       <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
       <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克希望披露有关 Neuralink 脑植入临床试验的更多信息</title>
-      <link>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务信息披露的失望。]]></description>
-      <guid>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</guid>
-      <pubDate>Sun, 25 Feb 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
