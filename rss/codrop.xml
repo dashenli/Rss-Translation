@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 28 Feb 2024 15:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 15:16:55 GMT</lastBuildDate>
+    <item>
+      <title>集体#817</title>
+      <link>https://tympanus.net/codrops/collective/collective-817/</link>
+      <description><![CDATA[什么是实用优先 CSS？ * Hyperdiv * htmz * 404 个创意]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-817/</guid>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>利用 2D 视错觉探索 3D 效果</title>
       <link>https://tympanus.net/codrops/2024/02/28/exploring-3d-effects-with-2d-optical-illusions/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[装饰性反射效果，我们模拟反射页面并将其与内容一起滚动。]]></description>
       <guid>https://tympanus.net/codrops/2024/02/15/reflection-scroll-effect/</guid>
       <pubDate>Thu, 15 Feb 2024 14:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#812</title>
-      <link>https://tympanus.net/codrops/collective/collective-812/</link>
-      <description><![CDATA[我是一个创意者。 * 现代客户端路由：导航 API * 不可翻译]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-812/</guid>
-      <pubDate>Tue, 13 Feb 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
