@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:59:45 GMT</lastBuildDate>
+    <item>
+      <title>由人类 iPS 细胞制成的“心脏类器官”的隐藏潜力，可作为后新冠时代心力衰竭风险的垫脚石</title>
+      <link>https://wired.jp/article/heart-organoids-human-ips-cells/</link>
+      <description><![CDATA[有人指出，由于新型冠状病毒的影响，心力衰竭的风险可能会增加，而心脏类器官（即由 iPS 细胞制成的心脏组织）可能成为应对这一威胁的垫脚石。这种组织也被称为“迷你器官”，有可能彻底改变再生医学和定制医学。]]></description>
+      <guid>https://wired.jp/article/heart-organoids-human-ips-cells/</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>英特尔CEO专访：为了实现戏剧性的“复兴”，英特尔正在应对人工智能开发竞争导致的半导体需求快速增长</title>
       <link>https://wired.jp/article/intel-ceo-pat-gelsinger-ai-comeback/</link>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 28 Feb 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一个秘密公开谷歌发明的网站可以保护其“现有技术”吗？</title>
+      <title>一个秘密公开谷歌发明的网站可以保护“现有技术”吗？</title>
       <link>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</link>
       <description><![CDATA[免费网站 TDCommons 由 Google 运营，旨在保护不值得申请专利的发明。然而，即使是为了国防公开，也存在难以引起美国专利商标局注意等问题。]]></description>
       <guid>https://wired.jp/article/google-tdcommons-dpub-patents-prior-art/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[埃隆·马斯克 (Elon Musk) 宣布，Neuralink 临床试验中的受试者能够仅用大脑来移动电脑鼠标。然而，一些研究人员并没有掩饰他们对缺乏有关该公司脑植入业务信息披露的失望。]]></description>
       <guid>https://wired.jp/article/neuralink-brain-implant-elon-musk-transparency-first-patient-test-trial/</guid>
       <pubDate>Sun, 25 Feb 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI无法做到的“创造”的本质是感受“与人的联系”</title>
-      <link>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</link>
-      <description><![CDATA[谷歌的 Gemini 和其他生成人工智能可以简化创建文本和电子表格等任务。然而，人类和人工智能创造的东西之间存在一个重大区别。 《连线》杂志特约编辑史蒂文·利维的想法。]]></description>
-      <guid>https://wired.jp/article/plaintext-the-thing-ai-just-cant-do/</guid>
-      <pubDate>Sat, 24 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
