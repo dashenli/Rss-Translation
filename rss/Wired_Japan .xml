@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 01 Mar 2024 03:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 09:16:23 GMT</lastBuildDate>
+    <item>
+      <title>由于金属价格飙升，金属盗窃正在迅速增加，破坏了世界各地的社会基础设施。</title>
+      <link>https://wired.jp/article/metal-theft-epidemic-copper-steel/</link>
+      <description><![CDATA[从下水道管盖到铜电缆，各种金属制品在包括日本在内的世界各地都被盗窃。由于社会基础设施是由金属制成的，盗窃金属变得越来越容易，转售金属也成为一种利润丰厚的犯罪行为。]]></description>
+      <guid>https://wired.jp/article/metal-theft-epidemic-copper-steel/</guid>
+      <pubDate>Fri, 01 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bluesky 的未来在于社交媒体记忆</title>
       <link>https://wired.jp/article/blueskys-future-is-social-medias-past/</link>
@@ -34,9 +41,9 @@
       <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从透明笔记本电脑到手环式智能手机，最新产品将在 MWC 2024 上亮相</title>
+      <title>MWC 2024：从透明笔记本电脑到手环智能手机，值得关注的最新产品</title>
       <link>https://wired.jp/article/all-the-top-new-gadgets-at-mwc-2024/</link>
-      <description><![CDATA[世界移动通信大会（MWC）是全球最大的移动设备贸易展览会，将于2月26日（至29日）在巴塞罗那举行。我们将推出与芭比娃娃合作的智能手机、透明笔记本电脑和手镯形智能手机等引人注目的新产品。]]></description>
+      <description><![CDATA[全球最大的移动设备贸易展世界移动通信大会（MWC）将于2月26日至29日在巴塞罗那举行。我们将推出与芭比娃娃合作的智能手机、透明笔记本电脑和手镯形智能手机等引人注目的新产品。]]></description>
       <guid>https://wired.jp/article/all-the-top-new-gadgets-at-mwc-2024/</guid>
       <pubDate>Thu, 29 Feb 2024 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[克雷格·赖特 (Craig Wright) 是一位计算机科学家，长期以来一直称自己为“中本聪”，比特币的发明者。早期的合作者作为证人出现在审判中，证明其真实性。那个见证的内容是什么？]]></description>
       <guid>https://wired.jp/article/craig-wright-trial-bitcoin-royalty-testimony/</guid>
       <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么苹果要在 iMessage 中引入“后量子加密”</title>
-      <link>https://wired.jp/article/apple-pq3-post-quantum-encryption/</link>
-      <description><![CDATA[苹果公司宣布，iMessage 将配备量子加密协议“PQ3”，作为量子计算机到来后的安全措施。为什么我们现在开始使用尚未投入实际使用的量子计算机来保护自己免受攻击？]]></description>
-      <guid>https://wired.jp/article/apple-pq3-post-quantum-encryption/</guid>
-      <pubDate>Sun, 25 Feb 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
