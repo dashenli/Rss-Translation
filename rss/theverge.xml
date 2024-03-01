@@ -4,164 +4,134 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Mar 2024 15:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:17:14 GMT</lastBuildDate>
     <item>
-      <title>苹果车祸</title>
-      <link>https://www.theverge.com/2024/3/1/24087495/apple-car-supreme-court-tech-tiktok-universal-humane-pin-vergecast</link>
+      <title>现在苹果表示不会在欧盟禁用 iPhone 网络应用</title>
+      <link>https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal</link>
       <description><![CDATA[&lt;图&gt;
       
-图片：Alex Parkin / The Verge
+摄影：Dan Seifert / The Verge
 
-看来我们永远无法乘坐 Apple Car。经过十年的工作，看似无数的策略，以及据报道投资了 100 亿美元，苹果似乎汽车业务。早在 2014 年，正值自动驾驶炒作周期的顶峰，当电动汽车似乎即将占据主导地位时，一切似乎都如此简单。但事情很少会像你想象的那样发展。
-在这一集The Vergecast，我们聊聊Apple Car时代。我们知道什么，不知道什么，为什么苹果一开始想要制造一辆汽车，为什么乔尼·艾维和蒂姆·库克在假 Siri 的指导下进行了一场假汽车之旅，以及是否还有另一个轻率的项目更值得苹果投入时间和资源。 （提示：这是一个屏幕。也许是您拥有的最大的一个。）
+Apple 正在改变计划，停止支持安装 欧盟的渐进式网络应用。在开发者支持页面的更新中发现作者：9to5Mac，Apple 这么说将在 iOS 17.4 中“继续在欧盟提供现有的主屏幕 Web 应用程序功能”。
+不过，Apple 指出主屏幕应用程序仍将“直接构建在 Safari 使用的引擎 WebKit 上”。这意味着从 Google Chrome 或 Firefox 等第三方浏览器下载的网络应用程序可能无法由自己的引擎提供支持 - 尽管苹果添加了 在同一更新中支持欧盟的第三方浏览器引擎。
+“在欧盟 iOS 测试版中可能受到删除主屏幕网络应用程序影响的开发者和用户可以期待主屏幕网络应用程序的现有功能回归，并提供可用性苹果写道：“iOS 17.4 将于 3 月初发布。”
+苹果确认计划放弃 2 月份，欧盟推出了 iOS Web 应用程序，此举将阻止它们发送推送通知和存储数据，从而严重限制其功能。当时，苹果将这一决定归咎于《数字市场法案》(DMA)，因为它必须构建“一个全新的集成架构”，考虑到它必须做出的改变才能遵守 DMA，这种架构“不切实际” 。但现在，苹果表示，在“收到继续支持该功能的请求”后，它正在改变这一决定。 
+苹果放弃网络应用程序的举动引起了开发者和用户的批评。非营利组织 Open Web Advocacy 开始进行一项调查，以衡量有多少开发者会受到 iPhone Web 应用停用的影响。苹果的决定还接受欧盟委员会的审查 .]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal</guid>
+      <pubDate>Fri, 01 Mar 2024 17:23:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌削减了罢工的承包商团队</title>
+      <link>https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：Alex Castro / The Verge
 
-之后，The Verge 的 Lauren Feiner 加入节目谈论 本周的最高法院听证会，两个案件在一场关于言论自由、内容审核、第一修正案以及 YouTube 报纸到底有多大的辩论中汇集在一起将会。然后，我们都会闪电般地播放一轮科技新闻，谈论 AI 多样性 和 AI pin 以及为什么所有 TikTok 都是突然出奇的安静。
+代表 YouTube Music 承包商的工会声称，在工人进行长期罢工后，Google 终止了他们的合同。 
+代表承包商的 Alphabet 工人工会 (CWA) 表示，该团队由位于德克萨斯州奥斯汀的 Google 承包商 Cognizant 雇用的审核员组成，该公司负责批准 YouTube Music 的音乐内容。
+在通过电子邮件发送给 The Verge 的一份声明中，Google 发言人 Courtenay Mencini 坚持认为，裁员的决定不是他们自己做出的，而是 Cognizant 做出的，并表示：“合同我们与全国各地供应商的合作通常会在自然到期日结束。”
+超过 40 人的团队去年 2 月举行罢工，要求改变 Google 的重返工作岗位政策。工会表示，许多受雇远程工作的工人每小时工资仅为 19 美元，而且去办公室太贵了。
+Google 此前辩称，它不必与工人进行谈判，因为他们不是 Google 员工。但是，国家劳动关系委员会 (NLRB) 2023 年 3 月裁定，由于 Google 控制着承包商的福利、工作时间和工作方向，因此它被视为部分雇主。该公司提出上诉，NLRB 维持其裁决 今年一月。谷歌可以向联邦法院提起上诉。 
+“这是毁灭性的。多年来，我们一直在争取谷歌这个世界上最强大、资源最丰富的公司之一与我们谈判，以便我们能够谋生，以换取我们为改善他们的产品所做的工作。令人厌恶的是，谷歌在面对员工要求在工作中受到公平对待的微薄要求时却采取了这条道路，”承包商兼工会成员杰克·本尼迪克特在一份声明中表示。 
+YouTube Music 承包商并不是唯一反​​对 Google 承认他们为员工的群体。 CNBC 报道 NLRB 表示，谷歌可以被称为埃森哲工会承包商的部分雇主，埃森哲确实在谷歌搜索和 预重塑巴德。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors</guid>
+      <pubDate>Fri, 01 Mar 2024 17:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>去改变气氛吧，没有人会阻止你——可能</title>
+      <link>https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate</guid>
+      <pubDate>Fri, 01 Mar 2024 17:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼康和美国宇航局将在月球上安装无反光镜相机</title>
+      <link>https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission</guid>
+      <pubDate>Fri, 01 Mar 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的新有声读物等级只会比 Premium 节省一美元</title>
+      <link>https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Nick Barclay / The Verge
 
-
-
-如果您想了解更多有关我们在本集中讨论的主题的信息，可以从以下几个链接开始，从 Apple Car 开始：
-
-苹果电动汽车项目死了
-安息吧 Apple Car，我们几乎没有认识你们
-来自纽约时报：苹果注定失败的汽车项目背后：错误的开始和错误的转变
-
-
-以及 NetChoice 案例：
-
-最高法院听取有关未来的争论在线演讲：所有新闻
-最高法院即将对网络言论的未来做出裁决
-为什么 Uber 和 Etsy 在最高法院的社交媒体争论中如此频繁出现
-来自华盛顿邮报：这是 YouTube 报纸的重量，阿利托法官
-
-
-还有我们的闪电回合精选：
-
-Lauren Feiner 的选择：谷歌首席执行官表示 Gemini AI 多样性错误“完全不可接受” 
-David Pierce 的选择：人性化 AI Pin 的效果比我预期的要好 —直到没有 
-Nilay Patel 的选择：注意英语专业：现在您可以向 Google 文档添加手写笔记
-
-Nilay 的另一个选择：TikTok随着音乐版权之争的持续，我们正在删除更多歌曲
+Spotify 宣布一个新的订阅等级，“为图书爱好者提供更多的聆听选择。”但与经典的高级套餐相比，订阅者每月只能节省 1 美元。
+每月订阅费用为 9.99 美元，包括 15 个小时的有声读物免费收听时间，与经典的 Premium 计划相同。但 10.99 美元的 Premium 订阅者可以获得 15 小时的有声读物，加上无广告的音乐和播客 - 而有声读物计划仍然有音乐和播客服务的广告。本质上，有声读物听众支付几乎相同的费用，却获得一半的好处。
+有声读物计划也不会为读者增加任何额外福利。例如，如果我是一个有声读物爱好者，我可能每个月需要 15 个小时以上的时间。但 Spotify 正在限制高级订户和图书爱好者选项的收听限制。只需 12.99 美元，订阅者就可以额外购买 10 个小时 书籍（如果它们在计费周期之间用完）。新的层级几乎让人感觉它只是向潜在订阅者追加销售常规高级选项，而不是鼓励喜欢有声读物的人订阅该服务。
+Spotify 的选项库可能是一个好处。 Audible 的基本套餐价格为每月 7.95 美元，仅涵盖精选的有声读物，而 Spotify 则开放了 20 万种有声读物。另一方面，Audible 允许无限聆听。价格较高的 Audible 套餐价格为 14.95 美元，包括无限制收听基本计划图书馆，以及每月可购买任何您保留的书籍的积分。
+几个月来，出版界一直在酝酿对 Spotify 处理有声读物的方式的愤怒，尤其是在补偿方面。麦克米伦等一些出版商告诉作家，版税支付仅适用于他们的书的每次完整收听，根据彭博社 - 一个人听一本完整的 10 小时有声读物或两个人例如，每次听五个小时。这与其他模式不同，在其他模式中，无论听众消费多少，作者都会因购买其作品而获得报酬。 彭博社指出，不同的出版社可能对 Spotify 有不同的条款。
+一些人警告随着读者从购买书籍转向流媒体部分作品，流媒体模式将导致作者的报酬减少。 Spotify 有 声称自从首次推出为付费订阅者提供 15 小时免费收听服务。
 
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087495/apple-car-supreme-court-tech-tiktok-universal-humane-pin-vergecast</guid>
-      <pubDate>Fri, 01 Mar 2024 15:06:40 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/3/1/24087550/spotify-audiobook-access-tier-price-ads</guid>
+      <pubDate>Fri, 01 Mar 2024 16:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 (Elon Musk) 起诉 OpenAI 放弃造福人类的使命</title>
-      <link>https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission</link>
+      <title>纽约市正在为送货工人测试公共电动自行车充电站</title>
+      <link>https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires</link>
       <description><![CDATA[&lt;图&gt;
       
-插图由 Laura Normand / The Verge 绘制
+摄影：斯宾塞·普拉特/盖蒂图片社
 
-埃隆·马斯克 (Elon Musk) 正在起诉 OpenAI 及其首席执行官萨姆·奥尔特曼 (Sam Altman)，称其对利润的追求导致该公司放弃了开发造福人类的人工智能技术的创始使命。在向旧金山法院提起的诉讼中周四，马斯克声称 OpenAI 与微软的合作已经将该组织转变为微软“事实上的闭源子公司”，专注于利润最大化。
-根据诉讼，此类行为违反了马斯克（马斯克于 2015 年共同创立了 OpenAI，但不再保留该公司股份）与 OpenAI 总裁格雷格·布罗克曼 (Greg Brockman) 之间的创立协议，他致力于使该项目成为非营利性项目并将其技术开源。这些违规行为包括将 OpenAI 的 GPT-4 模型的设计保密，诉讼称这一决定“主要是出于商业考虑，而不是安全”，并且 GPT-4 模型现在是“事实上的微软专有”算法。”
+纽约市 周四开设了第一个公共电动自行车充电站，这是为期六个月的试点计划的一部分，旨在“支持安全的电动自行车使用并防止致命的锂-离子电池起火。”仅 2023 年，该市与电动自行车相关的火灾就造成 18 人死亡、150 人受伤，根据纽约时报。
+试点期间，位于东村库珀广场的新充电站将向 100 名送货员免费使用。该市计划“在未来几周内”在布鲁克林和曼哈顿开设另外四个车站。 
+“我们非常依赖送货工人，他们也应该能够依赖我们 - 无论这意味着争取公平报酬还是让他们的工作和生计更安全，”纽约市表示市长埃里克·亚当斯。
+劣质电动自行车电池因不安全的充电方式引发了多起致命火灾。消防部门对多辆电动自行车充电地点进行抽查发现 四分之三的危险事件发生在住宅楼内。 
+纽约市的人口密度、昂贵的租金和高昂的生活成本意味着有时会有多名送货员住在一间公寓里。 2 月份发生的一场导致一人死亡的火灾是由锂引起的-离子电池正在六名送货员共用的单元中充电。
+ 
 
-该诉讼旨在迫使 OpenAI 遵守其成立协议并“回归其开发 AGI 以造福人类的使命”，而不是让 Altman、Brockman 和微软——“最大的技术”受益。世界上的公司。”
-在共同创立 OpenAI 之前，马斯克一直批评人工智能进步可能给社会带来的风险，呼吁采取保障措施，以防止此类系统被用来取代人类。去年，马斯克和人工智能研究人员 签署了一封公开信，呼吁企业暂停“大型人工智能实验”。后来他开设了自己的人工智能公司 xAI，并在社交媒体平台 X 内推出了人工智能机器人。
-诉讼声称 GPT 2023 年 3 月发布的-4 模型 OpenAI 不仅具有推理能力，而且实际上“比普通人类更擅长推理”，在律师统一考试中取得了第 90 个百分点的成绩。据传该公司开发一种更先进的模型，称为“Q Star”，更有力地声称是真正的通用人工智能 (AGI)。
-Altman 被解雇（随后五天后重新聘用）2023 年，OpenAI 因含糊其辞声称他与董事会的沟通“阻碍了其履行职责的能力。”马斯克提起的诉讼称，在该事件发生后的几天里，Altman、布罗克曼和微软“利用了微软对 OpenAI 的巨大影响力”，用精心挑选的更能得到微软认可的替代方案来取代董事会成员。
-“新董事会成员缺乏丰富的人工智能专业知识，而且从信息和信念来看，他们在设计上缺乏能力独立决定 OpenAI 是否以及何时实现 AGI，以及何时开发出 AGI。诉讼称，该算法超出了微软许可的范围。 OpenAI 和 Microsoft 之间的合作关系目前正在接受监管机构的审查 英国，欧盟和美国进行评估他们的共同关系是否影响竞争。
+图片：纽约市
 
-]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087473/elon-musk-openai-lawsuit-nonprofit-mission</guid>
-      <pubDate>Fri, 01 Mar 2024 14:44:12 GMT</pubDate>
+
+还有一个问题 有兴趣参与该计划的送货工人可以填写意向表达表或参加入职培训事件。活动将于 2024 年 3 月 7 日下午 2 点至 5 点在库珀广场举行，并于 2024 年 3 月 8 日下午 2 点至 5 点在布鲁克林陆军码头举行。]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087494/new-york-city-ebike-public-charging-stations-delivery-workers-house-fires</guid>
+      <pubDate>Fri, 01 Mar 2024 16:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>大众ID.7评测：一款恰巧是轿车的高级电动汽车</title>
-      <link>https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos</link>
+      <title>Spotify 和 Epic 批评苹果 iOS 的改变是“对 DMA 的嘲弄”</title>
+      <link>https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos</guid>
-      <pubDate>Fri, 01 Mar 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/3/1/24087513/spotify-epic-european-commission-letter-apple-dma</guid>
+      <pubDate>Fri, 01 Mar 2024 16:02:39 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌正在阻止已取得 root 权限的 Android 设备上的 RCS</title>
-      <link>https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices</link>
+      <title>以下是您现在可以获得的最佳 AirPods 优惠</title>
+      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
+      <pubDate>Fri, 01 Mar 2024 15:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界移动大会要求我们想象一个手机可以满足我们需求的世界</title>
+      <link>https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087496/mobile-world-congress-mwc-2024-brain-ai-samsung-galaxy-ring-humane-pin</guid>
+      <pubDate>Fri, 01 Mar 2024 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fisker 警告称其现金即将耗尽，可能撑不过 2024 年</title>
+      <link>https://www.theverge.com/2024/3/1/24087516/fisker-ev-earnings-layoff-going-concern-warning</link>
       <description><![CDATA[&lt;图&gt;
       
-Google 表示正在采取措施防止其消息服务中出现垃圾邮件和滥用行为。 |图片：谷歌
+图片：菲斯克
 
-Google 正在打击已取得 root 权限的 Android 设备，阻止多人使用 Google Messages 中的 RCS 消息功能。拥有 Root 权限的手机（解锁对 Android 操作系统的特权访问权限的过程，例如越狱 iPhone）的用户已在 Google 上提交了多份报告消息支持页面、Reddit 和 &lt;过去几年的 href=&quot;https://xdaforums.com/t/rcs-chat-gone-in-latest-update.4653947/&quot;&gt;XDA 网络论坛 几个月，发现他们突然无法发送或接收 RCS 消息。
-Reddit 用户 u/joefuf 的一个示例显示 RCS点击发送按钮后，消息就会消失。一些报告还提到，Google Messages 没有表明 RCS 聊天不再有效，并且在 Google Messages 中仍然显示为已连接且正在运行。
-
-
-注意：用户报告称，如果操作系统已获得 root 权限或未通过 GMS 认证（与大多数自定义操作系统一样），Google 消息应用将不允许他们发送或接收 RCS 消息ROM）。Google Messages 似乎已实施 Play Integrity API 证明检查，因此请注意... pic.twitter.com/ IwEKJQ0Z2v— Mishaal Rahman (@MishaalRahman) 2024 年 2 月 29 日
-
-
-在发送给 Verge 的一份声明中，我们询问 Google 是否正在阻止获得 root 权限的设备使用 RCS，Google 通讯经理 Ivy Hunt 表示，该公司正在“确保发布消息/接收设备遵循 RCS 标准定义的操作措施”，以防止 Google Messages 上的垃圾邮件和滥用。换句话说，是的，Google 正在阻止 root 设备上的 RCS。
-“Google 轮流推出多种解决方案，以确保 Android 用户能够充分沟通，而无法访问一种通信协议的设备始终至少可以使用另一种协议，”Hunt 说道。 “在这种情况下，无法使用 RCS 的用户仍然可以访问短信和短信服务。彩信。”
-Google 的担忧有一定道理：RCS 消息传递面临着处理垃圾邮件的挑战&lt; /a&gt; 强制 Google 停用其 RCS 广告功能例如，2022 年的印度。 
-作为安全措施，某些服务（例如支付和银行应用程序，包括 Google Pay/电子钱包）将停止工作，如果它们检测到用户已对设备进行 root 操作，但这些服务通常会提供 警告消息，说明该设备不受支持。对于使用 Google Messages 遇到 RCS 问题的用户，显然不会提供此类警告。]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087418/google-messages-blocking-rcs-on-rooted-android-devices</guid>
-      <pubDate>Fri, 01 Mar 2024 12:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook将删除其新闻标签并停止向出版商支付新闻费用</title>
-      <link>https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/29/24087220/facebook-news-tab-united-states-australia</guid>
-      <pubDate>Fri, 01 Mar 2024 03:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合健康集团称 Blackcat 是医疗保健提供者拖欠工资的原因</title>
-      <link>https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/29/24087105/united-health-black-cat-ransom-ware-hospitals-payments</guid>
-      <pubDate>Fri, 01 Mar 2024 00:49:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sennheiser Momentum True Wireless 4评测：救赎听起​​来从未如此美好</title>
-      <link>https://www.theverge.com/24086715/sennheiser-momentum-true-wireless-4-earbuds-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24086715/sennheiser-momentum-true-wireless-4-earbuds-review</guid>
-      <pubDate>Thu, 29 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是《创：阿瑞斯》的初体验，将于 2025 年首映</title>
-      <link>https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：迪士尼
-
-第三部创电影即将上映。 迪士尼宣布将在创：阿瑞斯上制作 - 《创：战纪》的后续作品，其中该片本身是 1982 年原作的续集，于 1 月开始拍摄，计划于 2025 年首映。作为公告的一部分，该片的第一张图片也被发布。它确实具有《创》的氛围，但作为《命运》或《a href=&quot;https://www.theverge&quot; 等射击游戏的皮肤也不会显得格格不入。 com/2021/2/11/22276283/fortnite-tron-crossover-skins-light-cycles&quot;&gt;堡垒之夜。
-完整内容如下：
-
-
-图片：迪士尼
-
-据迪士尼称，这部新电影讲述的是“一个高度复杂的程序，阿瑞斯，他从数字世界被派往现实世界，执行一项危险的任务，标志着人类与人工智能的第一次相遇。”该片由约阿希姆·罗宁 (Joachim Rønning) 执导，他曾参与过《加勒比海盗》系列和《沉睡魔咒》续集的制作。虽然我们对这些角色了解不多，但演员阵容包括杰瑞德·莱托、格蕾塔·李、埃文·彼得斯、哈桑·明哈吉、朱迪·特纳-史密斯、阿图罗·卡斯特罗、卡梅隆·莫纳汉和吉莲·安德森。
-当然，真正悬而未决的问题是谁将制作配乐。]]></description>
-      <guid>https://www.theverge.com/2024/2/29/24087003/tron-ares-first-image-2025-release-date</guid>
-      <pubDate>Thu, 29 Feb 2024 22:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌浏览器将更多搜索放入搜索栏中</title>
-      <link>https://www.theverge.com/2024/2/29/24086893/google-search-suggestions-chrome-android-ios-images</link>
-      <description><![CDATA[&lt;图&gt;
-      
-        &lt;图标题&gt;谷歌
-
-如果您曾经打开过新的浏览器标签页但不知道要搜索什么内容，今天的 Chrome 更新可能会有所帮助。 
-首先，Chrome 上的 Google 搜索框现在将根据您开始输入之前的搜索结果显示建议的查询。在谷歌的示例中，之前搜索过韩国面条 japchae 的用户会在“人们也在搜索”标题下的搜索框旁边看到类似韩国菜肴的图像。一些搜索建议还将包含图像。 
-这并不是一个全新的功能。正如搜索引擎圆桌会议指出的那样，Google 开始测试 2020 年“人们还搜索”建议栏。
-The Verge 测试了更新后的 Chrome 搜索建议功能。输入“香蒜三明治食谱”会弹出其他人的类似搜索查询列表，例如“香蒜酱适合搭配什么三明治？”以及一块夏巴塔面包、香蒜酱和波伏洛干酪的图像。
-
-
-在 Google Chrome 上搜索“香蒜三明治食谱”的屏幕截图。
-
-另一项更改将影响与 Chrome 应用上的购物相关的搜索。在 Android 和 iOS 应用程序上，搜索框将显示“更广泛的产品和购物类别”的图像缩略图，而不仅仅是坚持搜索查询中的特定项目。在另一个 Google 示例中，搜索“波西米亚餐桌”的用户还将看到搜索框中弹出的相关搜索建议和图像，例如“波西米亚桌布”、“波西米亚桌布”等。 
-由于 Android 和 iOS 版本的搜索引擎都“改进了设备上的功能”，当您的手机 Wi-Fi 连接状况不佳时，Chrome 上甚至会弹出搜索建议。谷歌发言人约书亚·克鲁兹 (Joshua Cruz) 澄清，Chrome 将下载“轻量级只读模型”，以保持搜索建议发挥作用。 
-“通过此功能，Chrome 将从 Google 服务器下载一个轻量级只读模型，其中包含针对某个区域设置的最流行的搜索建议，并将该模型存储在用户目录中，以便 Chrome 可以当服务器建议无法及时从服务器返回（例如在网络状况不佳时）或不允许（例如在隐身模式下）时，向用户提供这些热门搜索建议。”Cruz 在给 The Verge 的电子邮件中写道。 
-是的，只读模型允许搜索建议在 Chrome 的隐身模式下使用之前下载的数据。]]></description>
-      <guid>https://www.theverge.com/2024/2/29/24086893/google-search-suggestions-chrome-android-ios-images</guid>
-      <pubDate>Thu, 29 Feb 2024 21:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Setapp 即将开放其仅限订阅的 iOS 应用商店</title>
-      <link>https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/2/29/24086792/setapp-subscription-only-ios-app-store</guid>
-      <pubDate>Thu, 29 Feb 2024 19:28:46 GMT</pubDate>
+电动汽车销量上升，但公司将其全部生存依赖于插电式电源做得不太好。生产困难、需求减弱和高利率正威胁着将其中一些从地图上删除。最新的例子是菲斯克公司，这家总部位于加州的公司雄心勃勃，但现金却在减少。 
+菲斯克表示，有“严重怀疑”该公司是否有足够的资金来度过这一年，该公司昨天在向美国证券交易委员会提交的文件中表示。因此，它开始了一场削减成本的热潮，解雇了 15% 的员工，同时四处寻求更多投资。菲斯克表示，“正在与现有票据持有人讨论对公司进行额外投资的可能性。”
+“我们意识到该行业已进入一个动荡且不可预测的时期。”&lt; /旁白&gt;
+“我们意识到该行业已进入一个动荡且不可预测的时期，”Fisker 首席执行官 Henrik Fisker 在一份声明中表示。 “有了这种认识并吸取 2023 年的经验教训，我们制定了一项计划来精简公司，为另一个困难的一年做准备。”
+该公司最近从特斯拉等直销模式转向特许经销商，据称这可以节省一些成本。因此，从事直销工作的员工最有可能被解雇。菲斯克还表示，将精简其运营，包括减少“实体足迹”，从而提高关闭办事处或销售地点的可能性。 
+尽管面临这些阻力，Fisker 表示仍希望实现增长，特别是如果 2024 年电动汽车销量比预期更好的话。菲斯克表示，该公司正在“与一家大型汽车制造商就一项潜在交易进行谈判，其中可能包括投资菲斯克、联合开发一个或多个电动汽车平台以及北美制造”。
+多年来，Henrik Fisker 一直宣扬销售人们买得起的电动汽车的福音。但该公司依靠奥地利梅赛德斯-奔驰和宝马合约制造商麦格纳斯太尔生产菲斯克海洋SUV的轻资产商业模式尚未取得成功。 
+尽管面临这些阻力，菲斯克表示仍希望实现增长
+去年，一位卖空者发布了一份爆炸性报告，声称菲斯克当前的现金余额与麦格纳斯太尔未公开的银行担保有关。它还声称Ocean的平台是基于也是由合同制造商制造的中国跨界车的平台。菲斯克否认了这一说法。 
+此外，质量仍然是一个问题。一些 Ocean 车主抱怨他们的电动汽车失去动力，还有人抱怨钥匙扣和引擎盖在行驶时突然打开出现故障，根据 TechCrunch。该公司声称已经通过软件更新解决了大部分问题。 
+过去一年，纯电动汽车公司的处境变得更加困难，因为一些客户以高昂的价格和不可靠的充电网络为由，不愿转向纯电动汽车。电动汽车销量仍在增长，但增速低于预期。与此同时，混合动力汽车的销量高于电池电动汽车。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087516/fisker-ev-earnings-layoff-going-concern-warning</guid>
+      <pubDate>Fri, 01 Mar 2024 15:18:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
