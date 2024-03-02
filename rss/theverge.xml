@@ -4,7 +4,146 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Mar 2024 21:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:52:22 GMT</lastBuildDate>
+    <item>
+      <title>Roblox 表示尚未屏蔽 Linux 或 Steam Deck，但据报道它已经在那里干杯了</title>
+      <link>https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+对于 Linux 上的 Roblox 粉丝来说是个坏消息 — 解决方法已经失效。 GamingOnLinux&lt; /em&gt; 报告最新版本的 Roblox “强制阻止它与 Wine 一起使用”，即使使用 Roblox 特定工具 添加了醋和葡萄汁。 Wine 是让许多 Windows 游戏在 Linux 系统上运行的兼容层。
+但 Roblox 声称这不是个人信息。发言人 Samantha Spielman 告诉 The Verge：“确认我们没有做出任何改变来专门阻止 Linux 或 Steam Deck，因为 Roblox 从未正式支持 Linux 或 Steam Deck。” 
+“我们正在不断改进 Hyperion 反作弊功能，因此作者所做的任何事情都可能不再与我们的反作弊系统兼容，”Spielman 补充道。
+“我们没有做出专门阻止 Linux 或 Steam Deck 的更改”&lt; /旁白&gt;
+我对 Roblox 的解决方法了解不够，无法判断该公司是否在吹毛求疵，但 Roblox 很可能只是切断了对 Wine 的非官方支持，因为它感觉到了&#39; d 被虐待。
+在 Roblox 开发者论坛中，一位员工解释 该公司实际上已经非官方支持 Wine 一段时间了——但非官方支持不会持续太久，因为有些人用它来进行逆向工程该公司的 Hyperion 反作弊并开发 Roblox 黑客。 
+“我们看到它被用于作弊，说实话，这令人心碎，因为这是我们开发人员的个人努力，假设人们会理解并且不会滥用它，”写道Bitdancer，根据 GamingOnLinux。 
+当用户询问 Linux 支持是否会持续更长时间时，他们回答说：“不幸的是，我们已经用尽了我们的选择。” 
+Epic Games 首席执行官 Tim Sweeney 曾说过出于同样的原因，他不会更新 Fortnite 以在 Steam Deck 上运行，因为来自自定义 Linux 内核的“对 Fortnite 规模的游戏的威胁模型”可能会击败反作弊。最近，他告诉我Steam Deck 需要“数千万用户”来证明其合理性。 
+没有人愿意告诉我为什么现有的反作弊软件如 Easy Anti-Cheat 和 BattlEye，两者都在 Steam Deck 上受支持并在游戏中使用，但它们本身还不够好。但现在许多主要游戏都采用了自定义反作弊系统作弊者变得越来越狡猾。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported</guid>
+      <pubDate>Sat, 02 Mar 2024 00:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot for OneDrive 将获取您的文件并对其进行汇总</title>
+      <link>https://www.theverge.com/2024/3/1/24088026/copilot-for-onedrive-file-find-summary-prompts-natural-language</link>
+      <description><![CDATA[&lt;图&gt;
+      
+边缘
+
+在 博客文章，微软让用户抢先了解了计划于 4 月底发布的 Copilot for OneDrive。 Copilot for OneDrive 将扮演某种研究助理的角色，能够从各种文件中查找、总结和提取信息。其中包括文本文档（Word 和富文本）、演示文稿、电子表格、HTML 页面、PDF 文件等。用户可以要求 Copilot 根据自己的喜好定制摘要，例如仅包含特定部分的要点或亮点。
+
+我们知道 OneDrive 即将进行人工智能改造自去年秋天以来，微软宣布了第三代云存储服务。该公司承诺，人工智能将使文件搜索变得更容易、更快捷，并且能够智能地总结和组织文档。例如，用户可以要求 Copilot 快速找到他们的税务文件或总结工作中无聊的 PowerPoint 演示文稿。 
+
+
+微软
+Copilot for OneDrive 的屏幕截图。 
+
+聊天机器人还能够响应 自然语言提示并回答有关用户文件内容的高度具体的问题。一些Microsoft 给出的示例包括要求 Copilot 列出一周的饮料销售量并按天将数据放入表格视图中。或者，要求它列出项目的优点和缺点，或显示最新或相关的文件。用户甚至可以向 Copilot 询问如何改进文档的建议。 
+OneDrive 上的 Copilot 还能够根据现有文件为用户创建大纲、表格和列表。给出的一些例子是：
+&lt;块引用&gt;
+• 使用 /sales-enablement.docx 作为参考，创建向新客户推销的大纲。
+• 对于这些选定的简历，创建一个表格，其中包含姓名、当前职位、经验年数、教育资格和当前位置。
+• 创建有关 Moonshot 项目的常见问题列表。
+
+OneDrive 用户将在本月晚些时候抢先体验 Copilot，届时 Microsoft 将推出 共享文档摘要。用户可以在共享之前添加 AI 生成的 Microsoft Word 文档摘要，收件人甚至可以在打开文档之前在电子邮件中阅读该摘要。 
+Copilot 将在 OneDrive 网页版上提供，或者通过 Microsoft Teams、OneDrive 和 SharePoint 中的文件查看器提供。拥有 Copilot for Microsoft 365 许可证的工作和学校客户将于 4 月下旬推出。 
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24088026/copilot-for-onedrive-file-find-summary-prompts-natural-language</guid>
+      <pubDate>Fri, 01 Mar 2024 23:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是目前最好的 Kindle 优惠</title>
+      <link>https://www.theverge.com/21539047/best-amazon-kindle-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21539047/best-amazon-kindle-deals</guid>
+      <pubDate>Fri, 01 Mar 2024 23:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threads 的 API 将于 6 月推出</title>
+      <link>https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+Threads 计划在与 Hootsuite、Sprinklr、Sprout Social、Social News Desk 和 Techmeme 等有限合作伙伴进行测试后，于 6 月底发布其 API。该 API 将使开发人员能够为 Threads 构建第三方应用程序，并允许网站直接发布到该平台。 
+Threads 开发人员 Jesse Chan 在社交平台上的帖子，稍后将提供更多功能。 
+
+
+
+在去年 10 月的一篇文章中，Instagram 负责人 Adam Mosseri 表示，该团队正在开发一个 API，而 担心 API 会导致 Threads 上出现更多发布者内容，而不是用户创建的帖子。
+多年来，用户一直使用 Hootsuite 和 Tweetbot 等第三方应用在 Twitter 或 Reddit 等社交媒体网站上发帖和互动。但在过去几年中，其中一些 网站通过删除 API 或提高 API 价格来反对第三方应用程序，强制关闭部分应用。 
+Bluesky 和 ​​Mastodon 等 Threads 的几个竞争对手从一开始就采用了第三方应用程序。例如，在 X 的 API 更改迫使 Tweetbot 关闭后，其创建者制作了 Ivory，一款类似 Tweetbot 的 Mastodon 应用程序。]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087915/threads-api-hootsuite-techmeme-third-party</guid>
+      <pubDate>Fri, 01 Mar 2024 22:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple TV Plus 添加了 50 多部电影，其中包括一些 4K 和 3D 电影</title>
+      <link>https://www.theverge.com/2024/3/1/24087912/apple-tv-plus-50-movies-now-available-4k-3d</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087912/apple-tv-plus-50-movies-now-available-4k-3d</guid>
+      <pubDate>Fri, 01 Mar 2024 22:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 表示将在本月底删除所有 Oculus 帐户</title>
+      <link>https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts</link>
+      <description><![CDATA[&lt;图&gt;
+      
+摄影：Becca Farsace / The Verge
+
+如果您仍未将 Oculus 帐户迁移到 Meta 帐户，您可能需要尽快执行此操作。该公司在发送给用户的电子邮件中表示，将于 2024 年 3 月 29 日删除 Oculus 帐户，阻止您重新激活或检索应用程序、应用内购买、商店积分等。如果您在此之前没有迁移到 Meta 帐户，您将丢失您的成就、好友列表以及使用 Oculus 帐户创建的任何内容。
+自 2020 年以来，Oculus 帐户一直在退出，当时该公司被称为 Facebook 开始要求新用户改为使用 Facebook 帐户注册。但是，它增加了创建元帐户的功能2022，为不想将 Facebook 帐户链接到 Quest 耳机的用户提供替代方案。 Meta 于 2023 年 1 月停止允许用户登录其 Oculus 帐户。如果您的 Quest 已在抽屉里积满灰尘，那么现在是将 Oculus 帐户迁移到 Meta 帐户的最后机会。
+
+
+Emma Roth / The Verge 的屏幕截图
+
+您可以通过前往此迁移您的帐户页面，然后使用您用于 Oculus 的同一电子邮件地址注册 Meta 帐户。从那里，您将能够访问保存到 Oculus 帐户的所有相同游戏、数据和其他购买内容。 
+The Verge 的一些人收到了这封电子邮件，其中包括我的几位同事，他们已经将 Oculus 帐户转换为 Meta。目前尚不清楚 Meta 是否错误地发送了这些电子邮件，也不清楚 Meta 帐户持有者是否需要采取任何行动。 The Verge 联系 Meta 请求提供更多信息，但没有立即收到回复。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087855/meta-delete-oculus-accounts</guid>
+      <pubDate>Fri, 01 Mar 2024 21:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于评级变化，Balatro 从一些游戏机店面中消失</title>
+      <link>https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Playtonic
+
+Balatro，纸牌游戏 现在每个人都在谈论 那不是命名为“女王之血”，显然是从某些国家/地区的主机店面中删除。该游戏的发行商 Playstack 解决了删除问题，将其归因于 Balatro 的评级突然从适合 3 岁及以上玩家的游戏变成了适合 18 岁及以上玩家的游戏。
+Playstack 写道，发生这一变化“是因为错误地认为该游戏‘包含突出的赌博图像和指导赌博的材料’。”Playstack 随后强烈否认 Balatro 包含任何形式的赌博，并确认其开发者“坚决反对赌博。”
+
+
+pic.twitter.com/MroeavYY9U - Playstack (@PlaystackGames) 2024 年 3 月 1 日
+
+
+在发给 The Verge 的电子邮件中，Playstack 公关经理 Wout van Halderen 详细介绍了受影响的游戏机和国家/地区，并写道：“欧洲大多数 Nintendo Switch 商店以及澳大利亚和新西兰都暂时受到影响。”亚洲的店面也受到监控，但 Playstack 尚未确认它们是否也受到影响。
+Van Halderen 还写道，Playstack 正在努力尽快让游戏在受影响的市场恢复。 
+“合乎逻辑的第一步是让游戏恢复当前 18+ 的评级，并从那里开始，”他写道。 “这可能意味着更新评级的补丁或额外的认证检查。”
+欧洲和亚洲严格的反赌博法规已经打击了许多可能没有明确包含赌博内容的游戏，而扑克游戏似乎尤其容易受到影响。 暗黑破坏神不朽做到了由于比利时或荷兰将战利品盒归类为赌博形式，因此未在比利时或荷兰推出。 Sunshine Shuffle 是一款以动物玩扑克为主题的叙事游戏，被暂时从北美任天堂 eShop 下架，并在韩国被彻底禁止，因为 其创作者开玩笑说这款游戏“教孩子们赌博。” 
+尽管 Balatro 出现了一些问题，Playstack 在其声明中写道，它预计 PC 店面不会受到影响，并且该游戏目前仍然可以在 Steam 上使用。]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087723/balatro-console-storefront-removal-steam-pc</guid>
+      <pubDate>Fri, 01 Mar 2024 21:49:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星 Galaxy Ring 电池续航时间可达 9 天</title>
+      <link>https://www.theverge.com/2024/3/1/24087820/samsung-galaxy-ring-battery-life-wearables</link>
+      <description><![CDATA[&lt;图&gt;
+      
+五到九天略好于该类别的平均水平。 |摄影：Allison Johnson / The Verge
+
+当我们得到一些该估算来自多个来源。 据9to5Google发现，韩国商店&lt;据《金融新闻》报道，三星数字健康副总裁 Hon Pak 博士在新闻发布会上向记者透露了这一数字。 Android Authority 还发现 TechM &lt; /em&gt;报告引用三星电子首席执行官 Roh Tae-moon 的话说，该戒指可用于最多九天。 
+
+但目前还不要对三星的电池预估抱有太多信心。 Oura Ring 声称电池续航时间长达 7 天，但在实践中，我只得到三到五个，因为我启用了连续的 SpO2 监测。 Galaxy Ring 很可能也是如此。我们不知道 Galaxy Ring 将如何使用其传感器。一些可穿戴设备定期读取数据以延长电池寿命；其他人连续采样；和其他人还给你选择的机会。通常，启用连续跟踪会导致电池寿命受到严重影响。 
+电池寿命还可能取决于您购买的戒指尺寸。对于智能手表，较小型号的电池寿命往往会稍短，因为它们无法在内部装入较大的电池。三星的 Galaxy Ring 也是如此，它有多种尺寸。
+无论如何，长达 9 天的电池续航时间对于那些厌倦了每天为智能手表充电的人来说可能很有吸引力。总体而言，这对智能戒指也具有吸引力。除了更小、更隐蔽之外，它们还缺乏耗电的显示屏。绝大多数也是被动跟踪器，除了同步数据外，不会与手机进行交互。 
+换句话说，如果属实的话那就大了！我们必须等到 Galaxy Ring 准备好供审阅者才能知道三星是否交付。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/1/24087820/samsung-galaxy-ring-battery-life-wearables</guid>
+      <pubDate>Fri, 01 Mar 2024 21:33:52 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克针对 OpenAI 的法律诉讼非常糟糕</title>
       <link>https://www.theverge.com/2024/3/1/24087937/elon-musk-suing-openai-nightmare-1l-contracts-exam</link>
@@ -18,95 +157,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24086859/spaceman-movie-review-netflix-adam-sandler</guid>
       <pubDate>Fri, 01 Mar 2024 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以以不到 200 美元的价格购买 Apple 的 iPad Magic Keyboard</title>
-      <link>https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087531/apple-ipad-magic-keyboard-dreamebot-l20-ultra-robot-vacuum-philips-hue-sale-deal</guid>
-      <pubDate>Fri, 01 Mar 2024 19:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>《沙丘：第二部分》对书中最具颠覆性的想法进行了尖锐的审视</title>
-      <link>https://www.theverge.com/24086957/dune-part-two-movie-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24086957/dune-part-two-movie-review</guid>
-      <pubDate>Fri, 01 Mar 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克破坏马特·莱文休假的简史</title>
-      <link>https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff</guid>
-      <pubDate>Fri, 01 Mar 2024 18:51:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>清洁能源正在增长，但地球供暖污染也在增长</title>
-      <link>https://www.theverge.com/2024/3/1/24087737/clean-energy-climate-change-emissions-peak-iea-report</link>
-      <description><![CDATA[&lt;图&gt;
-      
-米德湖，由美国西南部科罗拉多河上的大坝形成，2023 年 8 月 14 日观察到的容量为 47%。 |乔治·罗斯/盖蒂图片社拍摄
-
-2023 年现在可以夸耀一个可怕的记录：全球能源使用造成的导致地球变暖的二氧化碳排放量创下历史新高。
-自 2015 年通过《巴黎气候协议》以阻止全球变暖以来，已经过去近十年了。为了实现协议中最雄心勃勃的目标，各国应该到 2030 年大幅削减全球温室气体排放量，达到到本世纪中叶实现净零排放。
-但我们正在朝相反的方向前进。一项新的分析显示，2023 年与能源相关的排放量增加了 4.1 亿吨a&gt; 由国际能源署 (IEA) 制定。这大致相当于每年新增 1,000 多个燃气发电厂带来的污染.
-去年也恰好是有记录以来最热的一年
-部署清洁能源确实是一场与时间的赛跑。随着所有污染在我们的大气中积聚并吸收热量，全球气温正在上升。去年也恰好是最热的一年创历史新高，2023 年的气温可能会高于至少过去10 万年的气温年。其影响不仅限于高温，还包括更极端的干旱、火灾、风暴、洪水和其他因气候变化而变得更加严重的灾害。
-气候变化也让生产可再生能源变得更加困难，这让事情变得更加困难。 IEA 发现，严重干旱，尤其是美国和中国的严重干旱，导致 2023 年水电出现“异常短缺”。仅此一项就足以占去年排放量增长的 40%。 
-每当水力发电不足时，电网通常会利用化石燃料发电厂。如果没有水力发电的压力，去年电力部门的二氧化碳污染可能会下降。
-尽管如此，IEA 对清洁能源项目的稳步推进仍然充满信心。根据国际能源署的新报告，如果没有过去五年清洁能源技术的蓬勃发展（从太阳能电池板和风力涡轮机到电动汽车和热泵），二氧化碳污染将会增加三倍。
-“清洁能源转型在过去五年中经历了一系列压力测试，”IEA 执行董事法提赫·比罗尔 (Fatih Birol) 在 新闻稿今天。 “它已经证明了它的韧性。”
-]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087737/clean-energy-climate-change-emissions-peak-iea-report</guid>
-      <pubDate>Fri, 01 Mar 2024 18:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在苹果表示不会在欧盟禁用 iPhone 网络应用</title>
-      <link>https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Dan Seifert / The Verge
-
-Apple 正在改变计划，停止支持安装 欧盟的渐进式网络应用。在开发者支持页面的更新中发现作者：9to5Mac，Apple 这么说将在 iOS 17.4 中“继续在欧盟提供现有的主屏幕 Web 应用程序功能”。
-不过，Apple 指出主屏幕应用程序仍将“直接构建在 Safari 使用的引擎 WebKit 上”。这意味着从 Google Chrome 或 Firefox 等第三方浏览器下载的网络应用程序可能无法由自己的引擎提供支持 - 尽管苹果添加了 在同一更新中支持欧盟的第三方浏览器引擎。
-“在欧盟 iOS 测试版中可能受到删除主屏幕网络应用程序影响的开发者和用户可以期待主屏幕网络应用程序的现有功能回归，并提供可用性苹果写道：“iOS 17.4 将于 3 月初发布。”
-苹果确认计划放弃 2 月份，欧盟推出了 iOS Web 应用程序，此举将阻止它们发送推送通知和存储数据，从而严重限制其功能。当时，苹果将这一决定归咎于《数字市场法案》(DMA)，因为它必须构建“一个全新的集成架构”，考虑到它必须做出的改变才能遵守 DMA，这种架构“不切实际” 。但现在，苹果表示，在“收到继续支持该功能的请求”后，它正在改变这一决定。 
-苹果放弃网络应用程序的举动引起了开发者和用户的批评。非营利组织 Open Web Advocacy 开始进行一项调查，以衡量有多少开发者会受到 iPhone Web 应用停用的影响。苹果的决定还接受欧盟委员会的审查 .]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087666/apple-disable-iphone-web-apps-eu-reversal</guid>
-      <pubDate>Fri, 01 Mar 2024 17:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌削减了罢工的承包商团队</title>
-      <link>https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：Alex Castro / The Verge
-
-代表 YouTube Music 承包商的工会声称，在工人进行长期罢工后，Google 终止了他们的合同。 
-代表承包商的 Alphabet 工人工会 (CWA) 表示，该团队由位于德克萨斯州奥斯汀的 Google 承包商 Cognizant 雇用的审核员组成，该公司负责批准 YouTube Music 的音乐内容。
-在通过电子邮件发送给 The Verge 的一份声明中，Google 发言人 Courtenay Mencini 坚持认为，裁员的决定不是他们自己做出的，而是 Cognizant 做出的，并表示：“合同我们与全国各地供应商的合作通常会在自然到期日结束。”
-超过 40 人的团队去年 2 月举行罢工，要求改变 Google 的重返工作岗位政策。工会表示，许多受雇远程工作的工人每小时工资仅为 19 美元，而且去办公室太贵了。
-Cognizant 首席通讯官 Jeff DeMarrais 在给 The Verge 的电子邮件中表示，该团队将获得七周的工资，并有机会在 Cognizant 内找到另一个职位。
-Google 此前辩称，它不必与工人进行谈判，因为他们不是 Google 员工。但是，国家劳动关系委员会 (NLRB) 2023 年 3 月裁定，由于 Google 控制着承包商的福利、工作时间和工作方向，因此它被视为部分雇主。该公司提出上诉，NLRB 维持其裁决 今年一月。谷歌可以向联邦法院提起上诉。 
-“这是毁灭性的。多年来，我们一直在争取谷歌这个世界上最强大、资源最丰富的公司之一与我们谈判，以便我们能够谋生，以换取我们为改善他们的产品所做的工作。令人厌恶的是，谷歌在面对员工要求在工作中受到公平对待的微薄要求时却采取了这条道路，”承包商兼工会成员杰克·本尼迪克特在一份声明中表示。 
-YouTube Music 承包商并不是唯一反​​对 Google 承认他们为员工的群体。 CNBC 报道 NLRB 表示，谷歌可以被称为埃森哲工会承包商的部分雇主，埃森哲确实在谷歌搜索和 预重塑巴德。 
-美国东部时间 3 月 1 日下午 4:05 更新：添加了 Cognizant 的声明。]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087634/google-youtube-music-alphabet-union-strike-contractors</guid>
-      <pubDate>Fri, 01 Mar 2024 17:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>去改变气氛吧，没有人会阻止你——可能</title>
-      <link>https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24087552/solar-geoengineering-international-rules-stalemate</guid>
-      <pubDate>Fri, 01 Mar 2024 17:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼康和美国宇航局将在月球上安装无反光镜相机</title>
-      <link>https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24087610/nikon-nasa-hulc-handheld-universal-lunar-camera-artemis-moon-mission</guid>
-      <pubDate>Fri, 01 Mar 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
