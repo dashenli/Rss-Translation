@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 21:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 06:55:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在过去的 6 个月里，我们 Pythagora.ai 的团队一直致力于 GPT Pilot，这是一个真正的 A [...]</title>
-      <link>https://t.me/hn_summary/77393</link>
-      <description><![CDATA[我们在人工智能开发人员的 6 个月工作中学到了什么
-在过去 6 个月中，我们 Pythagora.ai 的团队在 GPT Pilot 工作，这是一个真正的人工智能开发人员，旨在自动化编码任务。一路走来，我们学到了宝贵的经验教训，例如人在循环中监督人工智能的重要性以及清晰的初始项目描述的必要性。令人惊讶的是，我们发现法学硕士在一次专注于一个问题并受益于详细日志和模块化代码时效果最佳。尽管面临挑战，我们仍然使用 GPT Pilot 成功创建了令人印象深刻的应用程序，例如 Prompt Lab，它增强了 OpenAI Playground 体验。请查看我们的博客，了解更多见解和我们所取得成就的示例。 （根据故事文本的 74% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77393</guid>
-      <pubDate>Sun, 03 Mar 2024 21:07:19 GMT</pubDate>
+      <title>[媒体]在一项具有里程碑意义的裁决中，巴黎上诉法院裁定 Orange 违反了 GP [...]</title>
+      <link>https://t.me/hn_summary/77465</link>
+      <description><![CDATA[法国法院就违反 GPL 行为发出损害赔偿金&lt; br/&gt;
+在一项具有里程碑意义的裁决中，巴黎上诉法院裁定 Orange 在不遵守许可条款的情况下使用 Entr’Ouvert 的 Lasso 软件违反了 GPL。法院命令 Orange 支付 50 万欧元的赔偿金和 15 万欧元的精神损失费。该案件始于 2010 年，重点是 Orange 在开发 service-public.fr 门户网站未遵守 GPL 要求。该裁决强调了尊重开源许可证的重要性以及不合规的后果。该判决为今后涉及GPL违规的案件开创了先例，凸显了数字时代保护知识产权的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77465</guid>
+      <pubDate>Mon, 04 Mar 2024 06:55:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍 Evo，这是由 Arc [...] 的研究人员开发的突破性 DNA 基础模型</title>
-      <link>https://t.me/hn_summary/77392</link>
-      <description><![CDATA[Evo：从分子到基因组规模的 DNA 基础建模 
-隆重推出 Evo，这是由 Arc Institute、斯坦福大学和 TogetherAI 的研究人员开发的突破性 DNA 基础模型。 Evo 是一个 70 亿参数模型，经过训练，可使用创新的 StripedHyena 架构以单核苷酸分辨率生成 DNA 序列。 Evo 可以预测基因的必要性，对 DNA、RNA 和蛋白质模式进行零次功能预测，甚至生成新型 CRISPR 系统。 Evo 能够生成全基因组规模的序列，有可能彻底改变药物发现、农业和可持续发展方面的生物研究和应用。然而，Evo 的安全和负责任的开发仍然是研究人员的首要任务。]]></description>
-      <guid>https://t.me/hn_summary/77392</guid>
-      <pubDate>Sun, 03 Mar 2024 21:05:15 GMT</pubDate>
+      <title>[媒体] 电影公司正在寻找与正在进行的 pi 中的 Redditor 相关的“洪流历史” [...]</title>
+      <link>https://t.me/hn_summary/77464</link>
+      <description><![CDATA[电影公司寻求与 Redditor 相关的“Torrent 历史记录” 
+在针对互联网提供商 RCN 的持续盗版诉讼中，电影公司正在寻找与 Redditor 相关的“洪流历史记录”。 Reddit 最初拒绝遵守索取订阅者信息的传票，但确实分享了与名为“ben125125”的用户相关的一些详细信息。电影制作人现在正在寻找 BitTorrent 活动、盗版网站访问和社交媒体帐户用户名等信息来支持他们的案件。法院尚未对该动议作出回应，但该文件提供了对电影公司寻求的证据类型的深入了解。争议在于侵犯隐私以及出于合法目的追求详细的个人信息。]]></description>
+      <guid>https://t.me/hn_summary/77464</guid>
+      <pubDate>Mon, 04 Mar 2024 06:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Meticulous 首席执行官 Gabriel 介绍了他们创建和维护 e2e 测试的工具 [...]</title>
-      <link>https://t.me/hn_summary/77391</link>
-      <description><![CDATA[Meticulous (YC S21) 正在招聘以消除 UI E2E 测试
-Meticulous 首席执行官 Gabriel 介绍了他们的工具，该工具可以为 Web 应用程序创建和维护 e2e 测试，无需开发人员干预，从而消除了不稳定的测试。该工具记录真实的用户会话以生成全面的测试套件，捕获 UI 错误和回归。该团队拥有顶级科技公司的经验，正在聘请一名创始工程师来塑造公司，并致力于构建一个用于重播会话的分布式系统。他们寻求技术精湛、具有 5 年以上经验、注重透明度和持续改进的协作型人才。 Meticulous 旨在彻底改变软件开发，正在寻找充满激情的工程师加入他们的团队。]]></description>
-      <guid>https://t.me/hn_summary/77391</guid>
-      <pubDate>Sun, 03 Mar 2024 21:04:11 GMT</pubDate>
+      <title>在 dl.pixelspark.nl，我们介绍了 WONNX，这是一种实时网络摄像头图像分类工具，支持 [...]</title>
+      <link>https://t.me/hn_summary/77463</link>
+      <description><![CDATA[使用 WebGPU 的 Wonnx 实时网络摄像头图像分类&lt; br/&gt;
+在 dl.pixelspark.nl 中，我们介绍了 WONNX，一个由 WebGPU 技术提供支持的实时网络摄像头图像分类工具。这一创新系统允许用户快速准确地对网络摄像头捕获的图像进行分类，使其成为各种应用的理想选择。通过在浏览器中启用 WebGPU，您可以亲身体验 WONNX 的强大功能。使用这款尖端工具，告别缓慢的图像分类过程，迎接实时结果。探索 WONNX 的可能性并彻底改变您今天的图像分类体验。]]></description>
+      <guid>https://t.me/hn_summary/77463</guid>
+      <pubDate>Mon, 04 Mar 2024 06:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果秘密的 Project Titan，即传闻已久的无人驾驶汽车项目，已经停止 [...]</title>
-      <link>https://t.me/hn_summary/77390</link>
-      <description><![CDATA[泰坦的崩溃：苹果注定失败的汽车项目的简史&lt; /a&gt;
-苹果秘密的“泰坦计划”（Project Titan）是传闻已久的无人驾驶汽车项目，经过近十年的猜测和期待，现已正式关闭。尽管最初令人兴奋并抱有很高的期望，但苹果进军汽车行业面临着无数的挑战和挫折，导致该项目最终失败。从高调的招聘到与汽车制造商失败的合作，Apple Car 的历程是一个关于野心和局限性的警示故事。随着公司将重点转向自动驾驶系统和软件，苹果汽车野心的未来仍然不确定。苹果汽车项目的兴衰提醒我们，即使是世界上最有价值的公司也无法包揽一切。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77390</guid>
-      <pubDate>Sun, 03 Mar 2024 21:01:07 GMT</pubDate>
+      <title>[媒体]金融学教授若昂·戈麦斯对美国 34 万亿美元的债务敲响警钟，[...]</title>
+      <link>https://t.me/hn_summary/77462</link>
+      <description><![CDATA[随着抵押贷款利率飙升至 7% 以上，34T 美元的债务将引发 2025 年崩溃&lt; /a&gt;
+金融学教授若昂·戈麦斯对美国 34 万亿美元的债务敲响了警钟，并预测如果不采取行动，美国将在 2025 年陷入崩溃。由于抵押贷款利率可能飙升至 7% 以上，摩根大通 (JPMorgan Chase) 的杰米·戴蒙 (Jamie Dimon) 和美国银行 (Bank of America) 的布莱恩·莫伊尼汉 (Brian Moynihan) 等专家敦促采取行动。尽管两党都对债务危机做出了贡献，但戈麦斯警告说，一方必须承担责任。解决方案？增长经济或削减开支，都是不受欢迎的选择。如果市场反叛，全球经济将受到影响，影响到每个人。戈麦斯强调现在解决这一问题的重要性，以避免未来发生金融灾难。]]></description>
+      <guid>https://t.me/hn_summary/77462</guid>
+      <pubDate>Mon, 04 Mar 2024 06:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]开源爱好者的激动人心的消息！</title>
-      <link>https://t.me/hn_summary/77389</link>
-      <description><![CDATA[2024 年 Google 编程之夏组织揭晓
-对于开源爱好者来说，这是一个令人兴奋的消息！ 2024 年 Google 编程之夏组织已经宣布，为新贡献者深入研究软件开发提供了独特的机会。参与者将与导师合作完成一个为期 12 周以上的项目，获得宝贵的经验并在开源社区中产生真正的影响。这个全球计划是在编码世界中学习和成长的绝佳方式。准备好加入才华横溢的 GSoC 贡献者行列，在技术的未来留下自己的印记。]]></description>
-      <guid>https://t.me/hn_summary/77389</guid>
-      <pubDate>Sun, 03 Mar 2024 20:57:01 GMT</pubDate>
+      <title>对于加州居民来说，这是个好消息 - 几乎该州所有水库的水位目前都高于 [...]</title>
+      <link>https://t.me/hn_summary/77461</link>
+      <description><![CDATA[几乎所有加州水库的水位均高于历史平均水平 
+对于加州居民来说，这是个好消息——几乎该州所有水库的水位目前都高于历史平均水平！这对于供水和保护工作来说是一个积极的信号。在 cdec.water 上查看每个水库的存储水平。 ca.gov 网站。尽管加州的水资源管理可能存在一些争议，但令人鼓舞的是，许多水库状况良好。随时了解情况并跟踪水位，以帮助支持该州的可持续用水实践。]]></description>
+      <guid>https://t.me/hn_summary/77461</guid>
+      <pubDate>Mon, 04 Mar 2024 05:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]牛津大学的科学家们发现，物理学的基本原理表明，就像[...]</title>
-      <link>https://t.me/hn_summary/77388</link>
-      <description><![CDATA[牛津科学家称物理学的基本原理是错误的 
-牛津大学的科学家发现，同性电荷相斥、异性电荷相吸的物理学基本原理可能并不总是成立。通过研究，他们发现溶液中带负电的二氧化硅微粒实际上可以相互吸引，形成六边形排列的簇。这一令人惊讶的发现挑战了长期以来的信念，并可能改变科学家理解药物稳定性和疾病发展等过程的方式。研究还表明，所用溶剂的类型会影响带电粒子之间的相互作用，水会导致带负电粒子之间的吸引力，而酒精会导致带正电粒子之间的吸引力。]]></description>
-      <guid>https://t.me/hn_summary/77388</guid>
-      <pubDate>Sun, 03 Mar 2024 20:55:58 GMT</pubDate>
+      <title>PG&E 在匹兹堡举办了 Coffee Connect 活动，以解决客户对近期利率的担忧 [...]</title>
+      <link>https://t.me/hn_summary/77460</link>
+      <description><![CDATA[PG&amp;E 声称加息与 $2.2B 上涨之间没有联系收入
+PG&amp;E 在匹兹堡举办了 Coffee Connect 活动，以解决客户对近期加息和利润增加的担忧。尽管 2023 年收入增长近 25%，达到 22 亿美元，但 PG&amp;E 声称，利率上涨与其利润之间没有直接联系。像凯伦·施奈德这样的长期纳税人对成本上升感到沮丧，并认为公用事业公司优先考虑股东而不是客户。 PG&amp;E 代表坚称，他们的财务状况对客户有利，可以改善基础设施，但许多人仍持怀疑态度。围绕 PG&amp;E 利润和加息的争议继续引发客户的愤怒和沮丧。]]></description>
+      <guid>https://t.me/hn_summary/77460</guid>
+      <pubDate>Mon, 04 Mar 2024 05:41:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] USB in a NutShell 是了解美国复杂性的综合指南 [...]</title>
-      <link>https://t.me/hn_summary/77387</link>
-      <description><![CDATA[USB 简述
-USB in a NutShell 是一本全面的指南，帮助您了解 USB 标准的复杂性，由于其大量文档，该标准可能会让人不知所措。作者对 USB 2.0 规范的关键章节进行了分解，重点介绍了与不同类型的开发人员最相关的部分。该标准涵盖数据流、电气信号、协议层和设备框架等各个方面。作者还讨论了 USB 速度的演变、总线拓扑的局限性以及主机控制器的作用。此外，本文还介绍了 USB 的独特功能，例如即插即用功能和动态可加载驱动程序。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77387</guid>
-      <pubDate>Sun, 03 Mar 2024 20:54:55 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者讨论了经济适用房被忽视的潜力 [...]</title>
+      <link>https://t.me/hn_summary/77459</link>
+      <description><![CDATA[《诺亚方舟》：自然发生的经济适用房
+在本文中，作者讨论了经济适用住房（例如旧复式公寓）被忽视的潜力。尽管表现不佳且租户到位，但这些房产为预算紧张的买家提供了经济高效的解决方案。作者对买家应该只关注分阶段上市的观点提出了质疑，并鼓励人们超越表面问题，看到结构和土地的真正价值。通过逐步解决简单的修复问题并将租户视为潜在资产，对于那些愿意跳出框框思考的人来说，这些房产可以成为明智的投资。]]></description>
+      <guid>https://t.me/hn_summary/77459</guid>
+      <pubDate>Mon, 04 Mar 2024 05:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/77386</link>
-      <description><![CDATA[美国寻求在日本、韩国的帮助下重振闲置造船厂
-为了与中国快速增长的海军造船业竞争，美国正在日本和韩国的帮助下寻求重振闲置的造船厂。美国海军部长卡洛斯·德尔·托罗最近访问了两国的造船厂，提议开展合作，让休眠的美国造船厂重新焕发活力。这一合作伙伴关系旨在利用亚洲资本、工程师和造船专业知识来支持美国海军工业。这一备受争议的举动凸显了海军建设领域日益激烈的竞争，而国家间的合作则是振兴美国造船厂的独特途径。]]></description>
-      <guid>https://t.me/hn_summary/77386</guid>
-      <pubDate>Sun, 03 Mar 2024 20:49:50 GMT</pubDate>
+      <title>在寒冷的星际空间中，分子反应由于低[...]而呈现出不寻常的特征。</title>
+      <link>https://t.me/hn_summary/77458</link>
+      <description><![CDATA[冷化学不同
+在寒冷的星际空间中，由于低温和量子力学效应，分子反应呈现出不寻常的特征。研究人员进行了实验来研究这些冷化学现象，重点关注氢离子和氨分子之间的反应。令人惊讶的是，他们发现，随着氨的碰撞能降低或旋转能增加，反应速率实际上有所增加，这与高温下的预期相反。这些发现挑战了传统的解释，并为星际云中的化学过程提供了新的见解。这些结果证实了理论预测，揭示了低温下的离子分子反应，并对理解寒冷、致密的星际分子云中的反应具有重要意义。]]></description>
+      <guid>https://t.me/hn_summary/77458</guid>
+      <pubDate>Mon, 04 Mar 2024 05:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Organic Maps 是一款免费的 Android 和 iOS 离线地图应用程序，使用 OpenStreetMap 开发 [...]</title>
-      <link>https://t.me/hn_summary/77385</link>
-      <description><![CDATA[有机地图是一款为旅行者提供的免费 Android 和 iOS 离线地图应用&lt; /a&gt;
-Organic Maps 是一款使用 OpenStreetMap 数据开发的免费 Android 和 iOS 离线地图应用程序，注重隐私、节省电池且不收取数据费用。它提供详细的地图、自行车和徒步旅行路线、海拔剖面图和语音导航。该项目是社区驱动的、无广告的、开源的，并有捐款支持开发。该应用程序尊重隐私，不跟踪或收集数据，并且没有广告或烦人的功能。该项目由捐款和赠款资助，重点关注隐私和自由。用户无需编码技能即可做出贡献。该项目根据 Apache 许可证获得许可，并遵循 CNCF 行为准则。]]></description>
-      <guid>https://t.me/hn_summary/77385</guid>
-      <pubDate>Sun, 03 Mar 2024 20:48:46 GMT</pubDate>
+      <title>[媒体] 争议正在 Reddit 社区的婴儿潮子社区中酝酿，因为 Bornbir 是一家公司规范 [...]</title>
+      <link>https://t.me/hn_summary/77457</link>
+      <description><![CDATA[Bornbir 使用生成 AI 攻击和人肉搜索婴儿潮子 Reddits 
+由于专门提供导乐服务的 Bornbir 被指控攻击和人肉搜索志愿者运营的“Novell2024 Bumps”Reddit 子版块，因此 Baby Bumps 子版块 Reddit 社区中的争议正在酝酿之中。 Bornbir 正在创建自己的 Reddit 子版块，指责原版版块存在不正当行为，同时没有披露自己的公司利益。他们一直在屏蔽和静音那些试图为自己辩护的成员，甚至在没有上下文的情况下发布了 Nov24Bumps Discord 的屏幕截图。据称，该公司还为未来几年保留了丰富的 Reddit 子版块，这引发了对其动机的质疑。随着错误信息和可疑策略的指控，情况正在升级。]]></description>
+      <guid>https://t.me/hn_summary/77457</guid>
+      <pubDate>Mon, 04 Mar 2024 05:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Mike Bostock 推出 Observable Framework 2.0 作为数据 p 的静态站点生成器 [...]</title>
-      <link>https://t.me/hn_summary/77384</link>
-      <description><![CDATA[Observable 框架中的有趣想法
-Mike Bostock 引入了 Observable Framework 2.0 作为数据项目、仪表板和报告的静态站点生成器。该框架允许将 JavaScript 无缝集成到 Markdown 中，从而创建具有反应性的交互式文档。显着的功能包括代码延迟加载、构建时缓存数据以及用于快速加载的数据加载机制。 Observable Framework 简化了文件格式，使其可以在任何文本编辑器和开源中进行编辑。与 Observable Notebooks 的比较突出了语言、反应性和文件格式复杂性方面的差异。这一创新框架为构建快速、交互式数据应用程序提供了强大的工具。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77384</guid>
-      <pubDate>Sun, 03 Mar 2024 20:41:41 GMT</pubDate>
+      <title>美国特种部队现在永久驻扎在台湾，这是一项大胆的举措，这与 [...]</title>
+      <link>https://t.me/hn_summary/77456</link>
+      <description><![CDATA[美国永久驻台训练团
+美国特种部队现在永久驻扎在台湾，这是一个大胆的举动，这与中国的“一个中国”政策相矛盾。第一特种部队大队正在具有战略意义的岛屿上训练台湾军队，协助收集有关中国动向的情报。美国国防部证实有30名士兵驻扎，强调支持台湾应对中国的威胁。在特朗普和拜登的领导下，美国加大了对台军售和训练力度，展现了对台湾安全的坚定承诺。这次有争议的部署标志着美台关系的重大转变，未来计划进行持续的军事合作和演习。]]></description>
+      <guid>https://t.me/hn_summary/77456</guid>
+      <pubDate>Mon, 04 Mar 2024 04:43:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
