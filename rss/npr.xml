@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 15:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 18:16:52 GMT</lastBuildDate>
+    <item>
+      <title>最高法院一致同意恢复特朗普在科罗拉多州的选票</title>
+      <link>https://npr.org/2024/03/04/1230453714/supreme-court-trump-colorado-ballot</link>
+      <description><![CDATA[这一决定是在法官们听取了这起政治敏感案件的口头辩论几周后做出的，该案件使高等法院陷入了 2024 年总统选举的中期。]]></description>
+      <guid>https://npr.org/2024/03/04/1230453714/supreme-court-trump-colorado-ballot</guid>
+      <pubDate>Mon, 04 Mar 2024 15:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>第一款非处方避孕药即将上市</title>
       <link>https://npr.org/sections/health-shots/2024/03/04/1235404522/opill-over-counter-birth-control-pill-contraceptive-shop</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 04 Mar 2024 12:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>女性在 #MeToo 时刻举报在炫目的法律科技活动中遭受性骚扰</title>
+      <title>她在一次技术会议上受到骚扰。现在其他女性正在分享#MeToo 时刻</title>
       <link>https://npr.org/2024/03/04/1234044153/metoo-legal-tech-legalweek</link>
       <description><![CDATA[受够了她们所认为的行业对男性越轨和掠夺行为的容忍，女性们开始亲自、在群聊和领英上讲述自己的故事。]]></description>
       <guid>https://npr.org/2024/03/04/1234044153/metoo-legal-tech-legalweek</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[副总统周日的言论是美国高级官员关于保护加沙平民的最强烈言论之一。]]></description>
       <guid>https://npr.org/2024/03/03/1235712368/kamala-harris-gaza-ceasefire-israel-aid</guid>
       <pubDate>Mon, 04 Mar 2024 02:25:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>NPR 谜题大师威尔·肖茨 (Will Shortz) 表示他正在中风康复中</title>
-      <link>https://npr.org/2024/03/03/1235697837/npr-puzzlemaster-will-shortz-stroke</link>
-      <description><![CDATA[肖茨最近几周缺席了 NPR 的《Sunday Puzzle》节目，他宣布缺席是由于二月初的中风。]]></description>
-      <guid>https://npr.org/2024/03/03/1235697837/npr-puzzlemaster-will-shortz-stroke</guid>
-      <pubDate>Sun, 03 Mar 2024 21:37:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
