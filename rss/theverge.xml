@@ -4,7 +4,28 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Mar 2024 18:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:54:07 GMT</lastBuildDate>
+    <item>
+      <title>iOS 上的 Google 云端硬盘搜索获得更好的过滤选项</title>
+      <link>https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：谷歌
+
+iOS 版 Google 云端硬盘现在可让您使用公司的文件类型、所有者和上次修改时间的下拉菜单过滤搜索周五在其工作区更新博客中写道。搜索前后会显示下拉菜单，相关的过滤器推荐以及用户类型也会显示。
+Google 表示，Google Workspace 客户和个人订阅者以及在 iOS 上拥有个人 Google 帐户的任何人都可以使用此更新。该功能尚未针对 Android 用户推出，但谷歌表示也会推出。 
+这是我制作的屏幕录像，用于展示其工作原理：
+
+
+屏幕录制：Wes Davis / The Verge
+正如年轻人所说，下拉菜单是最佳选择。
+
+新的过滤器更新让您在不知道文件位置时搜索和浏览文件变得更加愉快。例如，如果您知道要查找存储在云端硬盘中的视频，但不知道它的名称，则只需点击“视频”文件类型，然后在上次修改下选择“自定义范围”，然后搜索您想要的时间段。最后一次触碰它。我很乐意看到此更新，以便我可以按其他类型的日期或文件大小进行过滤。
+这是对 Google 之前方法的显着改进，之前的方法涉及过滤器建议和可滑动过滤器。事实证明，下拉菜单仍然是最好的。谁能想到？
+]]></description>
+      <guid>https://www.theverge.com/2024/3/3/24089633/google-drive-ios-search-filters-update</guid>
+      <pubDate>Sun, 03 Mar 2024 23:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>泰坦的崩溃：苹果注定失败的汽车项目的简史</title>
       <link>https://www.theverge.com/2024/3/3/24085995/apple-car-project-titan-timeline-driverless-ev-doomed</link>
@@ -124,26 +145,6 @@ CPUC 在其决定中写道，它拒绝了洛杉矶交通部 (LADOT) 就“有争
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24087604/iphone-app-permissions-how-to</guid>
       <pubDate>Sat, 02 Mar 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roblox 表示尚未封锁 Linux 或 Steam Deck，但据报道它已经在那里干杯了</title>
-      <link>https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：The Verge
-
-对于 Linux 上的 Roblox 粉丝来说是个坏消息 — 解决方法已经失效。 GamingOnLinux&lt; /em&gt; 报告最新版本的 Roblox “强制阻止它与 Wine 一起使用”，即使使用 Roblox 特定工具 添加了醋和葡萄汁。 Wine 是让许多 Windows 游戏在 Linux 系统上运行的兼容层。
-但 Roblox 声称这不是个人信息。发言人 Samantha Spielman 告诉 The Verge：“确认我们没有做出任何改变来专门阻止 Linux 或 Steam Deck，因为 Roblox 从未正式支持 Linux 或 Steam Deck。” 
-“我们正在不断改进 Hyperion 反作弊功能，因此作者所做的任何事情都可能不再与我们的反作弊系统兼容，”Spielman 补充道。
-“我们没有做出专门阻止 Linux 或 Steam Deck 的更改”&lt; /旁白&gt;
-我对 Roblox 的解决方法了解不够，无法判断该公司是否在吹毛求疵，但 Roblox 很可能只是切断了对 Wine 的非官方支持，因为它感觉到了&#39; d 被虐待。
-在 Roblox 开发者论坛中，一位员工解释 该公司实际上已经非官方支持 Wine 一段时间了——但非官方支持不会持续太久，因为有些人用它来进行逆向工程该公司的 Hyperion 反作弊并开发 Roblox 黑客。 
-“我们看到它被用于作弊，说实话，这令人心碎，因为这是我们开发人员的个人努力，假设人们会理解并且不会滥用它，”写道Bitdancer，根据 GamingOnLinux。 
-当用户询问 Linux 支持是否会持续更长时间时，他们回答说：“不幸的是，我们已经用尽了我们的选择。” 
-Epic Games 首席执行官 Tim Sweeney 曾说过出于同样的原因，他不会更新 Fortnite 以在 Steam Deck 上运行，因为来自自定义 Linux 内核的“对 Fortnite 规模的游戏的威胁模型”可能会击败反作弊。最近，他告诉我Steam Deck 需要“数千万用户”来证明其合理性。 
-没有人愿意告诉我为什么现有的反作弊软件如 Easy Anti-Cheat 和 BattlEye，两者都在 Steam Deck 上受支持并在游戏中使用，但它们本身还不够好。但现在许多主要游戏都采用了自定义反作弊系统作弊者变得越来越狡猾。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/1/24088114/roblox-linux-steam-deck-workarounds-wine-not-supported</guid>
-      <pubDate>Sat, 02 Mar 2024 00:22:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 21:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:53:29 GMT</lastBuildDate>
+    <item>
+      <title>NPR 谜题大师威尔·肖茨 (Will Shortz) 表示他正在中风康复中</title>
+      <link>https://npr.org/2024/03/03/1235697837/npr-puzzlemaster-will-shortz-stroke</link>
+      <description><![CDATA[肖茨最近几周缺席了 NPR 的《Sunday Puzzle》节目，他宣布缺席是由于二月初的中风。]]></description>
+      <guid>https://npr.org/2024/03/03/1235697837/npr-puzzlemaster-will-shortz-stroke</guid>
+      <pubDate>Sun, 03 Mar 2024 21:37:32 GMT</pubDate>
+    </item>
     <item>
       <title>凯特琳·克拉克 (Caitlin Clark) 超越皮特·马拉维奇 (Pete Maravich) 创造 NCAA 历史得分纪录</title>
       <link>https://npr.org/2024/03/03/1235690580/caitlin-clark-iowa-ncaa-record-pete-maravich</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[周六，美国军方开始向这片饱受战争蹂躏的飞地空投食物。援助组织表示，空运人道主义援助成本高昂且效率低下，无法替代陆运援助。]]></description>
       <guid>https://npr.org/2024/03/02/1235485952/gaza-aidrops-us-military-humanitarian-aid</guid>
       <pubDate>Sat, 02 Mar 2024 15:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>货船在被也门胡塞武装袭击近两周后在红海沉没</title>
-      <link>https://npr.org/2024/03/02/1235521730/red-sea-cargo-ship-sinks-houthis-rubymar</link>
-      <description><![CDATA[悬挂伯利兹国旗的 Rubymar 号是叛军针对以色列针对加沙地带哈马斯战争发起的第一艘被完全摧毁的船只。]]></description>
-      <guid>https://npr.org/2024/03/02/1235521730/red-sea-cargo-ship-sinks-houthis-rubymar</guid>
-      <pubDate>Sat, 02 Mar 2024 14:22:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
