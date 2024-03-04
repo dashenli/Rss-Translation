@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 04 Mar 2024 10:31:53 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 04 Mar 2024 12:29:34 GMT</lastBuildDate>
+    <item>
+      <title>摄影师 Female Pentimento 正在帮助互联网进入新世界</title>
+      <link>https://www.itsnicethat.com/features/female-pentimento-photography-digital-spotlight-040324</link>
+      <description><![CDATA[她的天堂般的摄影让她的观众为之着迷。在这里，我们谈论正念、平衡和在线图像制作的压力。]]></description>
+      <guid>https://www.itsnicethat.com/features/female-pentimento-photography-digital-spotlight-040324</guid>
+      <pubDate>Mon, 04 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“西蒙神父乐于接受挑战”； Wonderhood 品牌的 Soho 教堂咖啡店</title>
       <link>https://www.itsnicethat.com/articles/wonderhood-design-sacred-grounds-graphic-design-project-290224</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 29 Feb 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>新史瑞克：弗洛姆通过 3D 镜头重新想象民间传说故事</title>
+      <title>新史莱克：弗洛姆通过 3D 镜头重新想象民间传说故事</title>
       <link>https://www.itsnicethat.com/articles/fromm-faerdom-digital-project-290224</link>
       <description><![CDATA[这对数字二人组的最新项目是《Faerdom》，这是一组以遥远王国为背景的动画图像集，“英雄、圣人和神话和谐共存”。]]></description>
       <guid>https://www.itsnicethat.com/articles/fromm-faerdom-digital-project-290224</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>詹姆斯·巴尼特 (James Barnett) 讲述了他父母日常生活的非凡 TikTok 时间胶囊</title>
       <link>https://www.itsnicethat.com/articles/nicer-tuesdays-february-2024-james-barnett-270224</link>
-      <description><![CDATA[从母亲对烹饪的热爱到父亲的路怒症，这位电影制作人向我们讲述了他们在 TikTok 上的新名声，以及记录“对镜头漠不关心的最后一代人”的感受。]]></description>
+      <description><![CDATA[从母亲对烹饪的热爱到父亲的路怒症，这位电影制片人向我们讲述了他们在 TikTok 上的新名声，以及记录“对镜头漠不关心的最后一代人”的感受。]]></description>
       <guid>https://www.itsnicethat.com/articles/nicer-tuesdays-february-2024-james-barnett-270224</guid>
       <pubDate>Tue, 27 Feb 2024 14:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>斯瓦亚姆·帕雷克 (Swayam Parekh) 的无声漫画《温室》讲述了寻找自我的过程</title>
       <link>https://www.itsnicethat.com/articles/swayam-parekh-greenhouse-illustration-project-270224</link>
-      <description><![CDATA[在有时是一个艰难的过程中，插画家创作了她的无声漫画，目标受众是年轻人，但也是所有踏上自我发现之旅的人的来源。]]></description>
+      <description><![CDATA[在有时是一个艰难的过程中，这位插画家创作了她的无声漫画，目标受众是年轻人，但也是所有踏上自我发现之旅的人的来源。]]></description>
       <guid>https://www.itsnicethat.com/articles/swayam-parekh-greenhouse-illustration-project-270224</guid>
       <pubDate>Tue, 27 Feb 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Magpie Studio、XXIX 等的新鲜创意机会</title>
-      <link>https://www.itsnicethat.com/news/if-you-could-jobs-260224</link>
-      <description><![CDATA[查看发布到我们的姊妹网站“If You Could Jobs”上的所有最新职位。]]></description>
-      <guid>https://www.itsnicethat.com/news/if-you-could-jobs-260224</guid>
-      <pubDate>Mon, 26 Feb 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

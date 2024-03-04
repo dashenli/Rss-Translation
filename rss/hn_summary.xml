@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 10:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 12:25:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Mercury 是专为 Linux 和 Windows 设计的编译器优化的私有 Firefox 分支。</title>
-      <link>https://t.me/hn_summary/77477</link>
-      <description><![CDATA[Mercury – 编译器优化的私有 Firefox 分支
-Mercury 是专为 Linux 和 Windows 设计的编译器优化的私有 Firefox 分支。该分支以 Firefox 的版本控制系统 Mercurial 和 Mercury 元素命名，其性能比普通 Firefox 提高了 8-20%。详细修改可以在 PATCHES.md 文件中找到。安装非常简单，适用于 Linux 的 .zip 和 .deb 软件包以及适用于 Windows 的 .zips 和 .exe 安装程序。可以使用 MERCURY.bat（对于 Windows）和 ./RUN.sh（对于 Linux）创建可移植用户配置文件目录。一个独特的功能是能够使用提供的示例创建 .desktop 文件。感谢您使用 Mercury！]]></description>
-      <guid>https://t.me/hn_summary/77477</guid>
-      <pubDate>Mon, 04 Mar 2024 10:10:00 GMT</pubDate>
+      <title>[媒体] 这本关于 C/C++ 游戏编程的书旨在帮助新手编码人员理解 [...]</title>
+      <link>https://t.me/hn_summary/77494</link>
+      <description><![CDATA[C/C++ 游戏编程基础
+这本关于 C/C++ 游戏编程的书旨在帮助新手程序员了解专业游戏开发中使用的方法和技术。它侧重于加强解决问题的技能和基本的 C/C++ 技能，以及熟悉固定/受限硬件，这对于控制台开发至关重要。这本书引导读者了解日益复杂的游戏概念，同时强调尽管技术进步，核心方法仍然保持一致。主要功能包括增强编码人员的信心、引入不断发展的项目来强化概念、提供有关图形 API 的教程、揭开硬件的神秘面纱以及为读者提供成就感和改进动力。]]></description>
+      <guid>https://t.me/hn_summary/77494</guid>
+      <pubDate>Mon, 04 Mar 2024 12:25:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国政府敦促开发人员改用“内存安全的编程语言 [...]</title>
-      <link>https://t.me/hn_summary/77476</link>
-      <description><![CDATA[NSA 内存安全编程语言列表已更新
-美国政府敦促开发人员改用 Go、Rust 和 Java 等“内存安全编程语言”，以增强网络安全。由于内存安全问题，NSA 更新了推荐语言列表，排除了 C 和 C++。微软和谷歌的报告显示，内存安全问题是导致安全漏洞的主要原因。该报告强调了使用安全设计语言和改进软件安全指标的重要性。这项有争议的建议旨在将网络安全的责任从个人转移到更大的机构和政府，强调软件开发中主动风险管理的必要性。]]></description>
-      <guid>https://t.me/hn_summary/77476</guid>
-      <pubDate>Mon, 04 Mar 2024 09:59:53 GMT</pubDate>
+      <title>[媒体]旧金山正在通过采取措施创建一个完整的公共权力体系来创造历史，[...]</title>
+      <link>https://t.me/hn_summary/77493</link>
+      <description><![CDATA[111年后，SF终于推翻了PG&amp;E并创建了公共权力体系
+旧金山正在创造历史，采取措施创建一个完整的公共权力体系，并在征用权下扣押 PG&amp;E 的资产。此举兑现了一个世纪的承诺，可以提供更清洁、更便宜、更可靠的电力。尽管 PG&amp;E 努力推迟这一进程，但该市在市长 London Breed 和六名监管人员的支持下仍在向前推进。由于 PG&amp;E 的财产受到威胁，该公司可能会利用所有政治角度进行反​​击。该市的公共电力系统可以带来可观的收入，并为所有居民提供 100% 可再生能源。]]></description>
+      <guid>https://t.me/hn_summary/77493</guid>
+      <pubDate>Mon, 04 Mar 2024 12:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，雪莉·麦格雷戈 (Sheri McGregor) 揭示了虐待和疏远的悲惨现实 [...]</title>
-      <link>https://t.me/hn_summary/77475</link>
-      <description><![CDATA[成年儿童的虐待和疏远：一个悲伤的秘密 
-在这篇文章中，雪莉·麦格雷戈揭示了成年子女对其父母进行虐待和疏远的悲惨现实。这个问题往往是隐藏的，让父母觉得他们应该受到虐待。麦格雷戈鼓励父母认识到虐待行为并指出其本质，以便清楚地思考这种情况。她在她的书中提供了实用的建议和解决方案，《超越哭泣的更多答案和给疏远成年儿童父母的建议》。本文引起人们对一个有争议且经常被忽视的话题的关注，为面临这一困境的家长提供支持和指导。]]></description>
-      <guid>https://t.me/hn_summary/77475</guid>
-      <pubDate>Mon, 04 Mar 2024 09:36:44 GMT</pubDate>
+      <title>[媒体]Artisan AI (YC W24) 正在寻找工程副总裁加入我们的团队，因为我们正在变革 [...]</title>
+      <link>https://t.me/hn_summary/77492</link>
+      <description><![CDATA[Artisan AI (YC W24) 正在招聘 E 副总裁
+Artisan AI (YC W24) 正在寻找工程副总裁加入我们的团队，因为我们将通过类人数字工作者彻底改变未来的工作方式。我们的第一位 Artisan Ava 是一名 BDR，负责自动化外向销售流程。我们已经筹集了超过 400 万美元，并准备将我们的产品提升到一个新的水平。工程副总裁将领导我们的团队，确保最佳实践，管理资源，并帮助扩大我们的工程团队。必备技能包括 Python 熟练程度、B2B SaaS 经验和强大的系统设计直觉。福利包括无限制的 PTO、优质的健康保险和慷慨的股权。加入我们，共同实现打造千亿美元公司的使命！]]></description>
+      <guid>https://t.me/hn_summary/77492</guid>
+      <pubDate>Mon, 04 Mar 2024 12:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>与莎拉·哈特教授一起踏上探索数学和 [...]</title>
-      <link>https://t.me/hn_summary/77474</link>
-      <description><![CDATA[虚构世界的数学之旅 [pdf](https://news .ycombinator.com/item?id=39576156)
-与莎拉·哈特教授一起在她的讲座“虚构世界的数学之旅”中探索数学与小说的交叉点。从《格列佛游记到平地》，她深入研究了文学中描绘巨人、微小生物和替代维度背后的数学原理。探索方立方定律及其对海格或米克罗米加斯等虚构生物的物理限制的影响。通过巧妙的分析和引人入胜的例子，哈特教授阐明了数学如何增强我们对历史上作家所创造的幻想领域的理解。在这个引人入胜的讲座中探索数学和小说之间独特且发人深省的联系。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77474</guid>
-      <pubDate>Mon, 04 Mar 2024 09:29:36 GMT</pubDate>
+      <title>[媒体]英国外交部最近解密的文件揭露了英国的秘密 [...]</title>
+      <link>https://t.me/hn_summary/77491</link>
+      <description><![CDATA[绝密文件揭露英国在加纳政变中的角色&lt; br/&gt;
+英国外交部最近解密的文件揭露了英国对加纳总统夸梅·恩克鲁玛的秘密攻击，旨在推翻他并建立一个更加西方化的政府。这份标有“绝密”字样的报告由信息研究部于 1966 年撰写。该文件揭露了税务局的宣传工作，包括邮寄传单和发表反恩克鲁玛文章。恩克鲁玛的反殖民议程被英国视为“颠覆活动”，导致一系列针对他的秘密攻击。报告详细介绍了英国在 1966 年针对恩克鲁玛的政变中所扮演的角色，揭示了殖民历史的黑暗面。]]></description>
+      <guid>https://t.me/hn_summary/77491</guid>
+      <pubDate>Mon, 04 Mar 2024 11:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>了解如何有效使用 Git 和 GitHub 来改善团队内部的协作。</title>
-      <link>https://t.me/hn_summary/77473</link>
-      <description><![CDATA[以这种方式使用 Git 和 GitHub 可以更好地协作 
-了解如何有效使用 Git 和 GitHub 来改善团队内部的协作。通过遵循我们的分步指南，您可以简化工作流程、跟踪更改并轻松与团队成员就项目进行协作。探索分支、合并和解决冲突的最佳实践，以确保协作顺利进行。不要让 JavaScript 的缺乏阻碍您的进步 - 启用它并开始以这种方式获得使用 Git 和 GitHub 的好处。]]></description>
-      <guid>https://t.me/hn_summary/77473</guid>
-      <pubDate>Mon, 04 Mar 2024 09:19:24 GMT</pubDate>
+      <title>[媒体]在印度尼西亚，女性比男性盗版更多的音乐和电影，挑战传统 [...]</title>
+      <link>https://t.me/hn_summary/77490</link>
+      <description><![CDATA[在印度尼西亚，女性盗版的音乐和电影比男性多
+在印度尼西亚，女性比男性盗版更多的音乐和电影，挑战了传统的刻板印象。纽卡斯尔诺森比亚大学的最新研究表明，与男性相比，印度尼西亚女性更有可能盗版内容，而泰国的情况恰恰相反。该研究还强调了对海盗行为的态度差异，泰国海盗重视便利性，而印度尼西亚海盗则优先考虑更便宜的法律服务。这些研究结果表明，性别和地区差异在塑造盗版行为方面发挥着重要作用，敦促政策制定者在制定反盗版战略时考虑这些因素。]]></description>
+      <guid>https://t.me/hn_summary/77490</guid>
+      <pubDate>Mon, 04 Mar 2024 11:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《进化人类科学》上发表的一项开创性研究中，研究人员挑战 [...]</title>
-      <link>https://t.me/hn_summary/77472</link>
-      <description><![CDATA[科学家对贾里德·戴蒙德的大陆轴假说进行了测试 
-在《进化人类科学》上发表的一项开创性研究中，研究人员挑战了贾里德·戴蒙德的大陆轴假说，该假说表明欧亚大陆的东西方向为关键创新的传播提供了独特的优势。由生态学家和文化进化论者组成的团队发现，环境障碍会影响文化传播，但并不总是有利于欧亚大陆而不是其他大陆。这挑战了地理本身决定文化传播潜力的观点。该研究强调了文化传播的复杂性，并要求重新评估塑造人类社会的力量，强调需要考虑地理以外的多种因素。]]></description>
-      <guid>https://t.me/hn_summary/77472</guid>
-      <pubDate>Mon, 04 Mar 2024 08:41:11 GMT</pubDate>
+      <title>[媒体]内容讨论了数学、艺术和文学的交叉点，突出了[...]</title>
+      <link>https://t.me/hn_summary/77489</link>
+      <description><![CDATA[在艺术、音乐和写作中看到数学的理论家
+内容讨论了数学、艺术和文学的交叉点，强调了作者发现一组与 Coxeter 群书中的图表相匹配的图表的经验。作者思考了数学是被创造还是被发现的问题，与文学的创作过程相似。令人惊讶的元素是 J.R.R. 的一句话。托尔金讲述了他是如何想到霍比特人的想法的，并提出了霍比特人是他创造的还是发现的问题。争论的焦点在于数学到底是发明还是探索的产物。]]></description>
+      <guid>https://t.me/hn_summary/77489</guid>
+      <pubDate>Mon, 04 Mar 2024 11:47:13 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，我们怀旧地回顾了源代码控制工具的演变[...]</title>
-      <link>https://t.me/hn_summary/77471</link>
-      <description><![CDATA[二十年不算什么
-在本文中，我们怀旧地回顾了过去二十年源代码控制工具的演变，特别关注 Git 的崛起。从 CVS 和 Subversion 时代到目前 Git 的主导地位，我们探讨了 Linus Torvalds 的创作对开发人员工作流程和整个行业的影响。还讨论了有争议的分支模型，例如 git-flow 以及 GitOps 作为行业子集的出现。当我们思考 Git 之后的发展时，我们会考虑 Pijul 和 Fossil 等潜在竞争者，但就目前而言，Git 似乎在可预见的未来将继续占据主导地位。]]></description>
-      <guid>https://t.me/hn_summary/77471</guid>
-      <pubDate>Mon, 04 Mar 2024 08:38:06 GMT</pubDate>
+      <title>[媒体]这篇博文讨论了在 Stack Ex 上遇到错误答案的挫败感 [...]</title>
+      <link>https://t.me/hn_summary/77488</link>
+      <description><![CDATA[不正确的 Stack Exchange 答案让我生气
+这篇博文讨论了在 Stack Exchange 上遇到错误答案时的挫败感，特别是有关 systemd 和 sysvinit 的问题。作者指出，在现代 Debian 系统上，当系统实际使用 systemd 时，答案中提供的命令会错误地将系统识别为使用 sysvinit。作者很生气，因为问题被作为重复项关闭，所以他们无法发布正确答案。他们强调了 Stack Exchange 设计中的缺陷，即旧的、不正确的答案往往比新的、正确的答案获得更多的赞成票。这一争议激起了作者的愤怒和沮丧。]]></description>
+      <guid>https://t.me/hn_summary/77488</guid>
+      <pubDate>Mon, 04 Mar 2024 11:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>标题：振动背心为聋人翻译音乐</title>
-      <link>https://t.me/hn_summary/77470</link>
-      <description><![CDATA[振动背心为聋人翻译音乐
-标题：振动背心为聋人翻译音乐
-
-摘要： 一款突破性的振动背心已经被开发出来，可以帮助聋人体验音乐。这款背心将音乐转化为佩戴者身体可以感受到的振动，让他们享受歌曲的节奏和节拍。这项创新技术为聋人群体开辟了音乐欣赏的新世界，提供了独特的感官体验，弥合了声音和触觉之间的差距。围绕该设备的争议在于它是否真正捕捉到了听不见的人的音乐精髓，但它改善聋哑人生活的潜力是不可否认的。]]></description>
-      <guid>https://t.me/hn_summary/77470</guid>
-      <pubDate>Mon, 04 Mar 2024 08:27:58 GMT</pubDate>
+      <title>窗口图傅里叶变换是分析图结构信号的强大工具[...]</title>
+      <link>https://t.me/hn_summary/77487</link>
+      <description><![CDATA[窗口图傅里叶变换
+窗口图傅里叶变换是分析图结构数据信号的强大工具。这种创新方法可以将信号分解为频率分量，类似于传统的傅立叶变换，但适用于图形数据。通过将窗口函数应用于图形，研究人员可以专注于特定的感兴趣区域并从复杂网络中提取有价值的信息。这种方法有可能彻底改变各个领域的信号处理，为数据分析提供新的视角。探索加窗图傅立叶变换的可能性并释放图结构数据的潜力。]]></description>
+      <guid>https://t.me/hn_summary/77487</guid>
+      <pubDate>Mon, 04 Mar 2024 11:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LaVague 是一个旨在通过转换自然语言来自动化琐碎任务的项目 [...]</title>
-      <link>https://t.me/hn_summary/77469</link>
-      <description><![CDATA[显示 HN：LaVague – 从自然语言自动生成 Selenium 代码
-LaVague 是一个旨在通过使用 Selenium 代码生成将自然语言指令转换为浏览器交互来自动化琐碎任务的项目。它旨在通过自动执行重复且耗时的任务来腾出时间来进行更有意义的活动。 LaVague 通过提供透明且符合用户需求的人工智能助手而脱颖而出，该助手支持本地隐私和控制模型。它利用先进的人工智能技术和开源项目来确保效率和可靠性。该项目的路线图包括微调本地模型、改进代码生成的检索以及支持其他浏览器引擎。作者欢迎贡献和合作以进一步开发该项目。]]></description>
-      <guid>https://t.me/hn_summary/77469</guid>
-      <pubDate>Mon, 04 Mar 2024 08:22:51 GMT</pubDate>
+      <title>[媒体] 什么是 Schur 分解？</title>
+      <link>https://t.me/hn_summary/77486</link>
+      <description><![CDATA[什么是 Schur 分解？
+矩阵的 Schur 分解涉及分解，其中一部分是酉分解，另一部分是上三角分解，对角线项表示特征值。这种分解对于计算矩阵函数很有用，并且比乔丹规范形式更有效。在 MATLAB 中，可以使用 schur 函数计算 Schur 分解。对于大小为 n 的矩阵，该过程的成本约为 n^3 次。 Schur 分解是数值代数中的强大工具，在计算和数学中有多种应用。]]></description>
+      <guid>https://t.me/hn_summary/77486</guid>
+      <pubDate>Mon, 04 Mar 2024 11:43:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]上周在Google的士气危机将恶化，紧张局势与[...]</title>
-      <link>https://t.me/hn_summary/77468</link>
-      <description><![CDATA[  Google的士气危机即将变得更糟/&gt;
-上周在Google的士气危机将恶化，公司内部的紧张局势越来越高。预计即将到来的一周将带来更多挑战。订阅我们的时事通讯，了解最新动态。请访问我们的网站了解过去的问题并注册以直接在您的收件箱中接收未来的更新。围绕 Google 内部问题的争议肯定会让每个人都感到紧张。]]></description>
-      <guid>https://t.me/hn_summary/77468</guid>
-      <pubDate>Mon, 04 Mar 2024 07:45:34 GMT</pubDate>
+      <title>议员们担心，对预付费的担忧可能会推迟智能电表的推出。</title>
+      <link>https://t.me/hn_summary/77485</link>
+      <description><![CDATA[国会议员警告称，预付款担忧会推迟智能电表的推出
+议员们担心，对预付费的担忧可能会推迟智能电表的推出。能源供应商面临着安装更多智能电表的压力，导致一些客户感到有压力接受它们。这一争议凸显了政府目标对消费者选择和隐私的潜在负面影响。]]></description>
+      <guid>https://t.me/hn_summary/77485</guid>
+      <pubDate>Mon, 04 Mar 2024 11:41:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
