@@ -3,8 +3,22 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 04 Mar 2024 12:29:34 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 04 Mar 2024 15:16:33 GMT</lastBuildDate>
+    <item>
+      <title>Clémence Mira 凭借粗壮的“凹凸”线条再现了狂欢时的汗流浃背的享乐主义</title>
+      <link>https://www.itsnicethat.com/articles/clemence-mira-illustration-discover-040324</link>
+      <description><![CDATA[这位来自南特的插画家描绘了微小的太阳镜和繁忙的吸烟区，用她独特的风格捕捉夜店社区中心的生活。]]></description>
+      <guid>https://www.itsnicethat.com/articles/clemence-mira-illustration-discover-040324</guid>
+      <pubDate>Mon, 04 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Young Jerks 在包装和品牌设计中从“商业艺术的弱点”中汲取设计灵感</title>
+      <link>https://www.itsnicethat.com/articles/the-young-jerks-graphic-design-discover-040324</link>
+      <description><![CDATA[一个具有不敬的、短暂的美学的食品或饮料品牌？我们要两个。]]></description>
+      <guid>https://www.itsnicethat.com/articles/the-young-jerks-graphic-design-discover-040324</guid>
+      <pubDate>Mon, 04 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>摄影师 Female Pentimento 正在帮助互联网进入新世界</title>
       <link>https://www.itsnicethat.com/features/female-pentimento-photography-digital-spotlight-040324</link>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 29 Feb 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>让·朱利安 (Jean Jullien) 以幽默而敏锐的作品反驳负面新闻</title>
+      <title>让·朱利安 (Jean Jullien) 以幽默而敏锐的作品反击负面新闻</title>
       <link>https://www.itsnicethat.com/articles/nicer-tuesdays-february-2024-jean-jullien-290224</link>
       <description><![CDATA[这位平面设计师和插画家谈到了在商业和个人项目之间建立健康的平衡，他在实体展览与社交媒体上经常引起焦虑的分享之间的经验，以及他如何建立一个视觉字母表来克服不擅长绘画的问题。]]></description>
       <guid>https://www.itsnicethat.com/articles/nicer-tuesdays-february-2024-jean-jullien-290224</guid>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 28 Feb 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚历山大·卢维纳兹 (Alexandre Louvenaz) 笔下的大眼睛角色好奇又天真</title>
+      <title>亚历山大·卢维纳兹 (Alexandre Louvenaz) 笔下的大眼睛角色充满好奇心且天真无邪</title>
       <link>https://www.itsnicethat.com/articles/alexandre-louvenaz-animation-discover-280224</link>
       <description><![CDATA[这位来自里昂的艺术家创造了一个充满动图和短片的世界，避开自然，同时从我们的日常行为中汲取灵感。]]></description>
       <guid>https://www.itsnicethat.com/articles/alexandre-louvenaz-animation-discover-280224</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[该项目名为《来自法拉盛的王夫人》，讲述了一位热爱家庭、热爱衣服，但最重要的是热爱自己的女性的故事。]]></description>
       <guid>https://www.itsnicethat.com/articles/rachel-le-mrs-wang-from-flushing-photography-project-270224</guid>
       <pubDate>Tue, 27 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dad Agency 混合字体并倾向于单色来打造其高科技运动包并为其打造品牌</title>
-      <link>https://www.itsnicethat.com/articles/dad-agency-carrie-gere-supply-vest-graphic-design-project-270224</link>
-      <description><![CDATA[该产品和活动完全是内部创建的，证明了为什么少量的预算和有限的工具可以激发创造力。]]></description>
-      <guid>https://www.itsnicethat.com/articles/dad-agency-carrie-gere-supply-vest-graphic-design-project-270224</guid>
-      <pubDate>Tue, 27 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯瓦亚姆·帕雷克 (Swayam Parekh) 的无声漫画《温室》讲述了寻找自我的过程</title>
-      <link>https://www.itsnicethat.com/articles/swayam-parekh-greenhouse-illustration-project-270224</link>
-      <description><![CDATA[在有时是一个艰难的过程中，这位插画家创作了她的无声漫画，目标受众是年轻人，但也是所有踏上自我发现之旅的人的来源。]]></description>
-      <guid>https://www.itsnicethat.com/articles/swayam-parekh-greenhouse-illustration-project-270224</guid>
-      <pubDate>Tue, 27 Feb 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
