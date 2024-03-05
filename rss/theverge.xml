@@ -4,7 +4,131 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Mar 2024 18:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 21:13:03 GMT</lastBuildDate>
+    <item>
+      <title>如果苹果允许，Spotify 将向欧盟用户展示其 iOS 应用程序之外的定价选项</title>
+      <link>https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Nick Barclay / The Verge 绘制
+
+Spotify 不会推出之前计划为欧盟推出的应用内购买服务，至少现在不会。相反，如果苹果批准新提交的更新，它将尝试做下一个最好的事情：在应用程序内提供定价信息并将用户链接到其订阅选项。
+Spotify 告诉 The Verge，它计划做出这一改变，以回应欧盟委员会周一的裁决，对苹果公司处以 18.4 亿欧元（约合 20 亿美元）的罚款，罪名是“滥用其主导地位”在音乐流媒体应用分发业务中的地位”。欧盟委员会发现，苹果的反引导规则阻止开发者告诉用户“应用程序之外提供的替代且更便宜的音乐订阅服务”。
+欧盟委员会竞争主管玛格丽特·维斯塔格在新闻发布会上表示 认为这种做法是“非法的”，并命令苹果取消其针对音乐流媒体应用程序的反引导条款。她表示，苹果将“必须允许音乐流媒体开发者与自己的用户自由沟通”，让他们在应用程序中向用户提供定价信息。 苹果表示将上诉 这一决定并指责 Spotify 想要“改写 App Store 的规则”。
+
+
+图片：Spotify
+Spotify 的应用程序将包含有关其订阅内容及其费用的信息。
+
+Spotify 正在充分利用这一裁决。如果苹果批准这一变化，Spotify 将能够向欧盟的 iOS 用户提供有关其 Premium 订阅价格及其提供的不同功能的信息。它还将包括引导用户访问其网站以购买他们想要的订阅的链接。您可以在上面的图片中看到它的外观。
+今年早些时候，Spotify 宣布计划开始允许在欧盟的 iOS 应用程序上进行应用内购买，但在苹果透露其遵守欧盟数字市场法案 (DMA) 的计划后，它决定不立即跟进。 （DMA 的合规截止日期将于本周晚些时候到来。）Apple 计划的一部分包括一套新的商业条款允许开发者将他们的应用程序放在替代应用程序商店上并向Apple支付较低的佣金 - 但前提是应用程序下载 100 万次后，每年为每个应用安装支付 50 欧分。对于 Spotify 等大型免费增值应用程序来说，这笔费用可能会增加。
+
+ Apple 于 2022 年开始允许阅读器应用程序（包括 Spotify、Netflix 和 Kindle）在应用程序中包含指向其网站的链接。但是，Apple 仍然对阅读器应用程序在将用户引导至其链接时可以使用的语言进行控制，从而阻止他们告诉用户订阅费用是多少。
+Spotify 已向 Apple 发送了在其应用程序中引入定价信息的计划。由苹果公司决定接受或拒绝该提议，而这一次，欧盟委员会将仔细审查这一决定。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app</guid>
+      <pubDate>Tue, 05 Mar 2024 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在所有 Signal 用户都可以共享用户名而不是电话号码</title>
+      <link>https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+在作为测试版功能推出几周后，Signal 现已推出 在其加密消息服务上支持用户名，因此任何人都可以添加可选的用户名，将他们与其他人联系起来，而无需共享他们的电话号码。
+您可以前往您的设置并选择“个人资料”来创建用户名。创建唯一的用户名后，您可以生成二维码或链接，将人们指向您在应用程序中的用户名。其他用户也可以通过在新的聊天栏中输入您的用户名并发送消息来与您联系。正如Signal 的用户名常见问题解答页面中所述 ，您可以随时更改您的用户名，但其他用户将能够使用您以前的名称。首先发出信号 去年秋天开始测试用户名。
+
+
+图片：信号
+
+Signal 的用户名与其他社交平台上的帐户名不同，因为它们不能用作人们可以在 Signal 上识别您身份的登录名或句柄。相反，它们为人们提供了一种无需您的电话号码即可快速与您联系的方式。不过，您仍然需要一个电话号码来注册加密消息应用程序 - 是否要向其他人透露它完全取决于您。
+如果您决定创建用户名，它不会出现在您的个人资料详细信息页面或聊天中。除非您分享，否则其他用户将无法看到它。 Signal 首席产品官兰德尔·萨拉法 (Randall Sarafa) 在宣布推出该功能的帖子中写道：“换句话说，有人需要知道你确切的唯一用户名，才能在 Signal 上与你聊天。” “而且 Signal 不提供可搜索的用户名目录。”
+
+
+图片：信号
+
+除了用户名之外，Signal 还推出了其他一些方便的安全功能，包括一种让您限制谁可以在应用程序中使用您的电话号码找到您的方法。您可以阻止任何人在应用程序中向您发送消息或呼叫您，即使他们知道您的电话号码并且知道您正在使用 Signal，您也可以阻止任何知道您号码的人与您开始新的聊天。 
+如果用户尚未将您的电话号码保存在手机中，该应用也会默认开始隐藏您的电话号码。您可以随时通过前往您的设置并选择隐私&gt;来更改此设置。电话号码&gt;谁可以看到我的号码。 
+
+虽然分享您的用户名而不是电话号码可以使通过该应用向他人发送消息的私密性更高，但有些人可能会滥用此功能在应用程序上冒充其他人。为了减轻这种风险，Signal 建议用户应该比较 安全号码 — 唯一的代码，旨在帮助您验证您正在发消息的人。如果您与多个同名的人进行群聊，该应用程序还会显示一个横幅，并显示您是否与其他用户有任何共同的群聊。您可以在应用程序的 支持页面。
+美国东部时间 3 月 5 日下午 3:09 更新：更新以反映 Signal 用户名不再处于 Beta 测试阶段，现已广泛使用可用。]]></description>
+      <guid>https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta</guid>
+      <pubDate>Tue, 05 Mar 2024 20:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>位智很快就会向您发出有关减速带和急弯的警告</title>
+      <link>https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles</link>
+      <description><![CDATA[&lt;图&gt;
+      Waze 宣布了多项新功能，包括针对其本已繁忙的行车路线地图向停下来的急救人员发出警报。该功能现已推出，但其他功能（例如新的道路危险警告和更新的路线信息）将于本月在 iOS 和 Android 手机上推出，还有其他功能计划在今年晚些时候推出。 
+第一响应者警报功能会在地图上显示紧急车辆的闪烁图标，并告诉您距离有多远。就好像你前面明亮的频闪灯不足以作为指示器，或者你根本没有看路（好吧，也许有时你只是被困在一辆大卡车后面）。此功能现已面向美国、加拿大、墨西哥和法国的用户开放，其他国家/地区也将跟进。
+
+本月晚些时候，该应用将获得新的图标，警告有关减速带、急弯和收费站的信息，以及速度限制即将降低的警告。同样在本月，该应用程序正在改变当您踏上常用路线之一时显示实时路况和延误信息的方式。 
+
+
+图片：位智
+环岛不一定很难。
+
+对于 Android 用户（以及今年晚些时候的 iOS 用户）来说，本月末，一项新的交通圈辅助功能将告诉您使用哪条车道到达您想要退出的交通圈部分。是的，许多美国人需要这个。 Verge 读者们，请在评论部分保持温和。现在，如果应用程序能够告诉困惑的道路使用者何时让路，那么当您试图弄清楚其他司机是否真正理解轮到您走时，环岛就不再是一个怀疑和怀疑的地方了。
+几周后，Waze 还将为您提供有关停车场的详细信息，并允许您在应用程序中预订停车位，不过仅限于纽约市或蒙特利尔等某些城市。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles</guid>
+      <pubDate>Tue, 05 Mar 2024 20:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Max 正在参与大规模的流媒体密码打击行动</title>
+      <link>https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix</link>
+      <description><![CDATA[&lt;图&gt;
+      有线，华纳兄弟探索频道 (WBD) 正准备实施一套新的限制措施，旨在防止订户与不自行付费的人分享密码。在 摩根士丹利技术部发表讲话，媒体与在周一的电信会议上，WBD 全球流媒体和游戏负责人 JB Perrette 表示，该公司计划在 2024 年底的某个时候启动打击行动。
+“进入第二季度和第三季度，我们将在许多欧洲市场推出产品，”Perette 说。 “还有密码共享打击，显然 Netflix 在这方面实施得非常成功。我们将从今年晚些时候开始这样做，直到 25 年，这对我们来说是另一个增长机会。”
+Max 的决定是在 Disney Plus 和 Hulu 均更新了条款禁止用户与家庭以外的人共享登录凭据的服务。这些举措是为了回应 Netflix 在2023，以努力解决注册率停滞不前的问题——随着流媒体战争的成熟，许多平台现在都面临着这个问题。 Max 的密码打击可能会带来不少新注册，这可能会在短期内让股东满意。但 WBD 最近的另一部 ham-fisted试图整顿其财务状况，而且整个流媒体领域对消费者的敌意越来越大，下一次打击可能很容易成为赶走一些客户的事情。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix</guid>
+      <pubDate>Tue, 05 Mar 2024 18:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tidal 的订阅变得越来越简单、越来越便宜——是的，你没有看错</title>
+      <link>https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos</link>
+      <description><![CDATA[&lt;图&gt;
+      
+边缘
+
+Tidal 似乎认为没有足够多的人愿意每月支付 20 美元以上的费用来获得尽可能高的音频保真度。因此，从 4 月 10 日开始在美国，该公司将把现有的 HiFi 和 HiFi Plus 计划合并到一个订阅级别中，简称为“Tidal”。其费用与较便宜的每月 10.99 美元相同HiFi 计划做到了。
+从总体上看，这种新的、更简单的订阅模式仍将包括所有以前仅在 Plus 上提供的福利 - 高分辨率 FLAC、杜比全景声 (Dolby Atmos) 混音等层。是的，这意味着如果您是 HiFi Plus 用户，订阅服务实际上会变得更便宜。很难相信这个时代，对吧？现有客户将在四月份自动切换到 Tidal 级别。但有一些重要的事情需要注意。 
+首先，该公司指出，任何“在过去 90 天内”使用过该应用程序 DJ 集成功能的人每月将额外支付 9 美元，除非他们 调整订阅以删除 DJ 扩展。如果您忘记这样做，您仍将支付与 HiFi Plus 相同的 19.99 美元费用。附加费进展不太顺利 与一些真正利用了这些 DJ 集成的人一起。
+急救人员或军人不再可以节省
+学生计划将保持当前每月 4.99 美元的价格，但 Tidal 将完全取消其军事/急救人员折扣，并将从 6 月 10 日起取消当前客户的促销价格。 Tidal Free 也将永远消失。 “从 2024 年 4 月 10 日开始，Tidal 免费套餐的用户将需要切换到付费 Tidal 订阅才能继续享受 Tidal 的服务，”该公司 在其支持页面上写道，详细说明了这些更改。
+Apple Music 和 Amazon Music Unlimited 都将无损音乐质量作为其基本高级订阅的一部分，其价格完全相同，每月 10.99 美元。现在，Tidal 正在投入其大量的高分辨率曲目，而无需额外付费。 
+Spotify 仍然缺乏无损流媒体三承诺多年后。通过此举，Tidal 可能会试图阻止传闻中的“Supremium”Spotify 计划的最终推出，并避免潜在的用户流失。不管怎样，这都是为了在流媒体音乐领域保持竞争力——或者至少保持相关性。 Tidal 裁员 10 人12 月员工百分比以及其他裁员在母公司 Block。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos</guid>
+      <pubDate>Tue, 05 Mar 2024 18:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE Profile 和 Café 智能烤箱将获得新的食物识别功能</title>
+      <link>https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition</link>
+      <description><![CDATA[&lt;图&gt;
+      
+一些 GE Appliance 的 Café 壁挂炉现在可以识别其中的内容并为您建议烹饪模式。 |图片：GE Appliances
+
+如果您拥有智能 GE Appliances 壁挂炉，它将会变得更加智能。 Cookcam AI  是一项新功能，它使用人工智能来识别您放入烤箱的内容并为您计算出其余内容，因此您无需将鼠标悬停在它上面并担心会烧焦披萨。该公司表示，Cookcam AI 将选择 GE Profile 和 咖啡馆墙壁带有烤箱内摄像头的烤箱 -空中软件升级。
+Cookcam AI 将与 精确烹饪模式，这是大多数联网 GE Appliances 烤箱的功能，包括 Monogram、Café、GE Profile 和 GE 型号。精确烹饪模式允许引导式烹饪，引导您使用烤箱的触摸屏或 GE Appliances 的 SmartHQ 应用程序为您的菜肴正确设置设备。有了 Cookcam AI，您无需寻找正确的模式，它会为您做这件事。
+“一旦将食物放入烤箱并关闭门，摄像头就会拍摄烤箱腔的图像，并使用人工智能和机器学习来检测和识别食物，”该公司在一份声明中表示。新闻稿。然后，烤箱会在液晶触摸屏上显示推荐的精确烹饪模式，如果正确的话，您只需点击它即可开始烹饪。据 GE Appliances 称，烤箱随后会自动跟踪食物的进度，并可以根据需要修改温度并调整烹饪时间。
+
+
+图片：GE Appliances
+部分 GE Appliances 壁式烤箱很快将与 Cookcam AI 配合使用。对于双壁烤箱，该功能适用​​于顶部烤箱。
+
+最初，Cookcam AI 仅适用于五种菜肴：火鸡、饼干、披萨、蛋糕和布朗尼蛋糕。 GE Appliances 表示计划推出更多更新。 “我们才刚刚开始，期待未来继续推出更多食物类型，”GE Appliances 产品管理和内置烹饪执行总监 Rachael Schwartz 说道。
+此功能的实用性还有待观察，但它是我们的设备走向更加智能的一步，可能会导致更智能、更实用的厨房。食物识别并不新鲜——它是优秀但现已停产六月烤箱。三星最近推出了一项类似的功能，名为AI Pro Cooking 其定制壁式烤箱，它也使用摄像头并在监控食物的同时优化烹饪设置。
+虽然三星烤箱可以识别 80 种不同的菜肴和食材，而 GE Appliances 只能识别 5 种菜肴和食材，但您必须购买全新的烤箱才能获得三星的功能。 GE Appliances 表示免费的 Cookcam AI 更新将于本月底提供。
+]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition</guid>
+      <pubDate>Tue, 05 Mar 2024 18:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 17.4 现已推出，为全新欧洲做好准备</title>
+      <link>https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments</guid>
+      <pubDate>Tue, 05 Mar 2024 18:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>立法者提出法案，将惩罚托管 TikTok 的应用商店</title>
       <link>https://www.theverge.com/2024/3/5/24091278/congress-tiktok-bytedance-ban-divest-bill</link>
@@ -14,12 +138,13 @@
 
 在长时间暂缓国会的严格审查后，立法者正在再次尝试让 TikTok 与其中国母公司字节跳动断绝关系。
 众议院中国共产党特别委员会主席迈克·加拉格尔 (Mike Gallagher) (威斯康星州共和党) 和高级成员 Raja Krishnamoorthi (民主党-伊利诺伊州) 宣布推出保护周二，美国《外国对手控制应用程序法》。该法案目前已19 名立法者签署&lt; /a&gt;，将使分发由字节跳动控制的应用程序（包括 TikTok）违法，除非它们与这家中国科技巨头断绝关系。 
-该法案一旦颁布，将对分发 TikTok 和其他涵盖服务的应用商店和网络托管服务处以民事处罚，除非该应用与中国所有权分离。对违反法律的应用程序商店的处罚将通过“访问、维护或更新”外国对手应用程序的美国用户数量乘以 5,000 美元来计算。该法案将由美国司法部长执行。
+如果颁布，该法案将对分发 TikTok 和其他涵盖服务的应用商店和网络托管服务处以民事处罚，除非该应用与中国所有权分离。对违反法律的应用程序商店的处罚将通过“访问、维护或更新”外国对手应用程序的美国用户数量乘以 5,000 美元来计算。该法案将由美国司法部长执行。
 它还为总统指定了一个流程，指定来自中国、俄罗斯、伊朗和朝鲜等外国敌对国家的其他社交媒体公司受该法案的约束——这意味着指定公司拥有的应用程序是在美国分销的公司需要切断联系才能继续在那里运营。
 这是国会针对 TikTok 所有权带来的国家安全担忧采取的首次重大立法推动自参议院去年推出《限制法案》以来。该法案是在众议院能源和商业委员会就 TikTok 与中国的关系进行质询之后提出的，这标志着 国会山围绕 TikTok 禁令或强制撤资的想法达到顶峰。
 然而，对《限制法案》的影响范围及其授予行政部门的权力的担忧最终导致了这一问题的进展陷入停滞。
 制定新立法是为了避免潜在的宪法问题。例如，虽然它命名为字节跳动，但它是为了避免被视为对个别公司的惩罚而量身定制的。部分原因是该法案允许字节跳动有 165 天的期限，如果字节跳动在这段时间内剥离其应用程序，可以避免对其应用程序的禁令；它还创建了一个可以应用于其他应用程序的流程。 
-虽然 TikTok 由一家中国公司拥有，但该公司坚称将美国用户数据保存在国外的服务器上，并正在制定计划，让中国公司更无法获取美国数据字节跳动员工。许多议员表示担心，中国的国家安全法可能会迫使字节跳动交出有权访问美国用户的信息。
+虽然 TikTok 由一家中国公司所有，但该公司坚称将美国用户数据保存在国外的服务器上，并正在制定计划，让中国公司更无法获取美国数据字节跳动员工。许多议员表示担心，中国的国家安全法可能会迫使字节跳动交出有权访问的美国用户的信息。
+TikTok 发言人 Alex Haurek 在一份声明中表示，该法案“是对 TikTok 的彻底禁令，无论作者如何试图掩饰它。这项立法将践踏 1.7 亿美国人的第一修正案权利，并剥夺 500 万家小企业赖以发展和创造就业机会的平台。”
  www.theverge.com/2022/4/6/23012077/biden-tiktok-president-white-house-account-gen-z&quot;&gt;针对希望获得席位的候选人。 ]]></description>
       <guid>https://www.theverge.com/2024/3/5/24091278/congress-tiktok-bytedance-ban-divest-bill</guid>
       <pubDate>Tue, 05 Mar 2024 18:00:53 GMT</pubDate>
@@ -47,109 +172,10 @@ Windows 11 上的 Android 应用最初似乎是微软对苹果 M1 芯片和在 m
 沙丘：第二部分。 |图片：华纳兄弟影业
 
 寻找一些可看或可玩的内容有时感觉像是在工作 — 外面有太多东西在争夺您的空闲时间。无论您是前往剧院、浏览众多流媒体平台还是寻找新的视频游戏，都是如此。人们很容易因选择而不知所措。
-所以，正如我们几年来所做的那样 过去，我们将 2024 年所有我们最喜欢的版本收集到一个地方。目标是让您的决策变得更容易一些。这可能意味着突出显示从一部真正符合炒作的预期电影到&lt; a href=&quot;https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame&quot;&gt;一款风靡全球的独立游戏。
+所以，正如我们几年来所做的那样 过去，我们将 2024 年以来所有我们最喜欢的版本收集在一处。目标是让您的决策变得更容易一些。这可能意味着突出显示从一部真正符合炒作的预期电影到&lt; a href=&quot;https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame&quot;&gt;一款风靡全球的独立游戏。
 我们将全年更新此页面，继续了解电影、电视和游戏的最新动态，敬请关注。]]></description>
       <guid>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</guid>
       <pubDate>Tue, 05 Mar 2024 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook、Instagram 和 Threads 均已瘫痪</title>
-      <link>https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Nick Barclay / The Verge 绘制
-
-Facebook、Instagram 和 Threads 在持续约两个小时的中断后恢复上线。从美国东部时间上午 10 点左右开始，Meta 拥有的三个平台停止为许多用户提供服务。一些用户在登录 Meta Quest 耳机时也遇到了问题。 
-Facebook 使用户退出帐户，而 Instagram 用户无法刷新他们的动态，Threads 上显示一条消息：“抱歉，出了点问题。再试一次。”关于 DownDetector 的报告迅速飙升，全部三 平台，而网络跟踪器 NetBlocks 指出了该问题的全球影响。 WhatsApp 似乎没有受到影响并继续工作。
-Meta 在其状态页面上确认了该问题，消息的时间戳为美国东部时间上午 10:17，内容为：“我们发现一个影响 Facebook 登录的问题。我们的工程团队正在积极寻求尽快解决问题。”截至美国东部时间中午 12:07，状态页面显示 Meta 正在“从影响 Facebook 登录的早期中断中恢复，服务正在恢复中。”
-在联系 Facebook 寻求评论时，The Verge 引用了 Meta 通讯负责人的一份声明 Andy Stone 向 Threads 的主要竞争对手 X 发帖称，该公司“意识到人们在访问我们的服务时遇到了困难”。此后斯通发布了 X 上的更新，“对因阻止人们登录 Meta 服务的“技术问题”而造成的任何不便表示歉意。
-周二的中断让人想起类似的元中断 发生在 2021 年，当时配置问题导致崩溃访问 Facebook、Instagram 和 WhatsApp 几个小时。
-
-
-今天早些时候，技术问题导致人们难以访问我们的某些服务。我们尽快为所有受影响的人解决了该问题，对于给您带来的任何不便，我们深表歉意。 https://t.co/ybyyAZNAMn— 安迪·斯通 (@andymstone) 2024 年 3 月 5 日
-
-
-
-
-
-ℹ️ 注意：Facebook、Instagram 和 Messenger 目前在多个国家/地区遇到与登录会话相关的中断；与国家级互联网中断或过滤无关的事件 #FacebookDown #InstagramDown pic.twitter.com /o43kubxgMU— NetBlocks (@netblocks) 2024 年 3 月 5 日
-
-
-美国东部时间 3 月 5 日上午 11:02 更新：添加了来自 Meta 的问题确认。
-美国东部时间 3 月 5 日中午 12:06 更新：注意到 Meta 服务的访问正在改善。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091207/meta-outage-facebook-instagram-threads-down-signed-out</guid>
-      <pubDate>Tue, 05 Mar 2024 17:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 在 3 月份继续推出《Hades》的优秀独立游戏</title>
-      <link>https://www.theverge.com/2024/3/5/24091183/netflix-games-hades-release-date-ios-march</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Netflix
-
-Netflix 继续通过  增强其游戏阵容Hades 将于 3 月 19 日在 iOS 移动设备上发布。此次发布附带了一个精美的新预告片，重点介绍了移动控制如何在逃离地狱的 Roguelike 游戏中发挥作用，您可以预先注册该游戏这里。
-Hades 是 Netflix 不断增加的几款热门游戏中的最新一款。 您已经可以玩Oxenfree II， &gt;肯塔基零号公路、在你眼前和Spiritfarer，而武士零号、索尼克狂热Plus &gt; 和时空幻境将于今年某个时候推出。去年年底，Netflix 添加了侠盗猎车手三部曲，成为将其游戏直接流式传输到电视和 PC ，在英国、加拿大测试该程序，并选择美国的用户。
-不幸的是，Supergiant 仅在开发《Hades》的 iOS 版本。 抱歉，Android，在等待 Hades II将于今年某个时候推出抢先体验。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091183/netflix-games-hades-release-date-ios-march</guid>
-      <pubDate>Tue, 05 Mar 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌开始在搜索结果中消除更多垃圾邮件和人工智能</title>
-      <link>https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091099/google-search-high-quality-results-spam-ai-content</guid>
-      <pubDate>Tue, 05 Mar 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rad Power Bikes 首次推出防火电池以及四款新电动自行车型号</title>
-      <link>https://www.theverge.com/2024/3/5/24090135/rad-power-bikes-battery-safety-radster-radwagon</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24090135/rad-power-bikes-battery-safety-radster-radwagon</guid>
-      <pubDate>Tue, 05 Mar 2024 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将于本月晚些时候推出 Surface Pro 10 和 Surface Laptop 6</title>
-      <link>https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Amelia Holowaty Krales / The Verge
-
-微软计划在本月晚些时候推出新的 Surface 设备。熟悉微软计划的消息人士告诉 The Verge，该公司将于 3 月 21 日推出面向企业和商业客户的 Surface Pro 10 和 Surface Laptop 6 硬件。
-3 月份的活动将重点关注 Surface Pro 10 和 Surface Laptop 6 商业型号的小规格升级，但计划在今年春季对这两种设备的消费型号进行更大规模的重新设计。虽然商用 Surface Pro 10 将配备最新的英特尔芯片和熟悉的设计，但微软正在为消费者转向 Surface Pro 10 上的 OLED 显示屏。 
-Windows Central首次报道 OLED Surface Pro 10的详细信息，声称微软将推出本月晚些时候将推出新的 OLED 型号。据我们所知，微软不会在 3 月 21 日发布这款设备。三月份的活动重点是现有 Surface 型号的小型商业更新。
-消费类 Surface Pro 10 和 Surface Laptop 6 型号都将配备 Arm 处理器选项，从而使 Microsoft 能够更新这两款设备的设计。 Windows Central 报道称，Surface Laptop 6“将进行更显着的设计更新”，这要归功于更薄的显示屏边框、圆角、触觉触摸板以及两个 USB-C 和一个 USB-A 端口。 
-
-
-摄影：Amelia Holowaty Krales / The Verge
-Surface Laptop 6 应该缩小现有型号上的边框。
-
-Surface Pro 10 OLED 型号据称配备全新超宽前置网络摄像头、内置 NFC 读取器以及支持 HDR 内容的防反射 OLED 显示屏。据报道，微软将于 4 月发售 Surface Pro 10 和 Surface Laptop 6 的 Intel 变体，随后于 6 月发售 Arm 变体。 
-Surface Pro 10 和 Surface Laptop 6 的商业版和消费版都将配备 Microsoft 最新的 Copilot 键，这是针对 Windows 的更广泛的 AI 努力的一部分。微软尚未在今年发布的 Windows 11 更新中详细介绍人工智能功能的重大计划，但该公司很可能在即将召开的 Build 开发者大会上公布这一计划。
-据 Windows Central 报道，微软正在努力在 Windows 11 中更广泛地改善其 Copilot 体验，但它也在开发新的 AI Explorer 体验。它被描述为“高级副驾驶”，听起来像是一项功能，可以对您在 PC 上所做的一切进行分类，以便您可以在时间线中或使用自然语言搜索时刻。微软曾经在 Windows 10 中发布了时间轴功能，试图实现相同的目标，但这次它是由人工智能驱动的，并且可以在任何应用程序上运行。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091211/microsoft-surface-pro-10-surface-laptop-6-release-date-specs</guid>
-      <pubDate>Tue, 05 Mar 2024 16:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最大的流媒体电影和电视节目的发行日期和预告片</title>
-      <link>https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar</link>
-      <description><![CDATA[&lt;图&gt;
-      
-星座中的努米亚·拉佩斯 |图片：苹果
-
-从 Netflix 到 Disney Plus，再到 Max，以下是今年流媒体平台上最受期待的电影和电视节目的详细信息。  流媒体的大手笔黄金时代 已经结束，随着 2024 年开始，Netflix、迪士尼和 Prime Video 等服务将削减制作，提高价格，并投放广告。尽管如此，即使没有过去几年那么多的新节目和电影可以添加到你的狂看菜单中，但仍然有一些值得等待。 
-即使经过一两次合并（有传言称还会有更多合并），流媒体平台的名单仍然很长，包括 Netflix、Hulu、Paramount Plus、Prime Video、Apple TV Plus、Disney Plus 、孔雀、麦克斯和其他一些人。 
-值得期待的新版本包括Constellation（Apple TV Plus，2 月 21 日）、阿凡达：最后的气宗（2 月 22 日，Netflix）、政权（Max，3 月 3 日） 、Palm Royale（Apple TV Plus，3 月 20 日）、辐射（4 月 12 日，Prime Video），以及新一季或热门节目的衍生品，例如 Bridgerton、权力之环、 黄石、曼达洛人、黑客、叛徒 ，以及许多其他人。 
-以下是我们将在 2024 年观看的所有流媒体电影和电视节目的发行日期、预告片信息和预告片：
-]]></description>
-      <guid>https://www.theverge.com/24065499/netflix-disney-plus-max-release-date-trailer-streaming-calendar</guid>
-      <pubDate>Tue, 05 Mar 2024 16:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nothing Phone 2A 证明了周到的设计可以以实惠的价格实现</title>
-      <link>https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price</guid>
-      <pubDate>Tue, 05 Mar 2024 16:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

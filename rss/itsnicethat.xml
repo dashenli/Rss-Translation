@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Tue, 05 Mar 2024 15:15:58 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Tue, 05 Mar 2024 21:15:27 GMT</lastBuildDate>
+    <item>
+      <title>它们到底有多真实？凯拉·维特 (Kayla Witt) 描绘的加州通灵商店画作的内部</title>
+      <link>https://www.itsnicethat.com/articles/kayla-witt-psychic-shop-paintings-art-project-050324</link>
+      <description><![CDATA[一点人工智能、一点摄影和她的民间艺术根源——艺术家的选择对当今社会有何影响？]]></description>
+      <guid>https://www.itsnicethat.com/articles/kayla-witt-psychic-shop-paintings-art-project-050324</guid>
+      <pubDate>Tue, 05 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Studio Lob 为 Nonna 披萨餐厅设计的品牌庆祝了奶奶的西红柿……和她的假牙</title>
       <link>https://www.itsnicethat.com/articles/studio-lob-nonnas-pizza-graphic-design-project-050324</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 04 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在包装和品牌设计中，The Young Jerks 从“商业艺术的弱点”中汲取设计灵感</title>
+      <title>The Young Jerks 在包装和品牌设计中从“商业艺术的弱点”中汲取设计灵感</title>
       <link>https://www.itsnicethat.com/articles/the-young-jerks-graphic-design-discover-040324</link>
       <description><![CDATA[一个具有不敬的、短暂的美学的食品或饮料品牌？我们要两个。]]></description>
       <guid>https://www.itsnicethat.com/articles/the-young-jerks-graphic-design-discover-040324</guid>
@@ -101,13 +108,6 @@
       <link>https://www.itsnicethat.com/articles/william-mukui-sport-paintings-art-project-280224</link>
       <description><![CDATA[这位伦敦艺术家凭借快速的钢笔创作和缓慢而细致的水彩画，捕捉到了体育界的想象力。]]></description>
       <guid>https://www.itsnicethat.com/articles/william-mukui-sport-paintings-art-project-280224</guid>
-      <pubDate>Wed, 28 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚历山大·卢维纳兹 (Alexandre Louvenaz) 笔下的大眼睛角色好奇又天真</title>
-      <link>https://www.itsnicethat.com/articles/alexandre-louvenaz-animation-discover-280224</link>
-      <description><![CDATA[这位来自里昂的艺术家创造了一个充满动图和短片的世界，避开自然，同时从我们的日常行为中汲取灵感。]]></description>
-      <guid>https://www.itsnicethat.com/articles/alexandre-louvenaz-animation-discover-280224</guid>
       <pubDate>Wed, 28 Feb 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
