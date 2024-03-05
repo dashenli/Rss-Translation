@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Tue, 05 Mar 2024 06:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 09:13:13 GMT</lastBuildDate>
+    <item>
+      <title>探险：泥泞奔跑游戏评论</title>
+      <link>https://www.ign.com/articles/expeditions-a-mudrunner-game-review</link>
+      <description><![CDATA[探险：泥泞奔跑游戏并不能取代令人上瘾的雪地奔跑游戏，但其更未经驯服的荒野地图使其成为一种值得补充的体验。]]></description>
+      <guid>https://www.ign.com/articles/expeditions-a-mudrunner-game-review</guid>
+      <pubDate>Tue, 05 Mar 2024 07:00:34 GMT</pubDate>
+    </item>
     <item>
       <title>《WWE 2K24》评论</title>
       <link>https://www.ign.com/articles/wwe-2k24-review</link>
@@ -64,7 +71,7 @@
     <item>
       <title>Xbox Series X 上的《博德之门 3》有 4 张光盘，因为它仅超出 3 张光盘的限制 500MB</title>
       <link>https://www.ign.com/articles/baldurs-gate-3-on-xbox-series-x-comes-on-4-discs-because-its-just-500mb-over-the-limit-for-3</link>
-      <description><![CDATA[开发商 Larian 澄清说，Xbox 零售版《博德之门 3》有四张光盘。这是第一款以四张光盘发行的 Xbox Series X 游戏。]]></description>
+      <description><![CDATA[开发商拉里安（Larian）澄清说，《博德之门 3》的 Xbox 零售版有多达四张光盘。这是第一款以四张光盘发行的 Xbox Series X 游戏。]]></description>
       <guid>https://www.ign.com/articles/baldurs-gate-3-on-xbox-series-x-comes-on-4-discs-because-its-just-500mb-over-the-limit-for-3</guid>
       <pubDate>Mon, 04 Mar 2024 16:49:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Humble 推出的这款新《命运 2》捆绑包包含为期五年的扩展包和折扣 DLC。然而，该捆绑包很快就会过期。]]></description>
       <guid>https://www.ign.com/articles/humble-bundle-new-destiny-2-bundle-includes-every-expansion-so-far</guid>
       <pubDate>Mon, 04 Mar 2024 15:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软制作了海绵宝宝 Xbox Series X</title>
-      <link>https://www.ign.com/articles/microsoft-made-a-spongebob-squarepants-xbox-series-x</link>
-      <description><![CDATA[微软对特别版 Xbox 游戏机的喜爱在海绵宝宝 Xbox Series X 上得以延续。]]></description>
-      <guid>https://www.ign.com/articles/microsoft-made-a-spongebob-squarepants-xbox-series-x</guid>
-      <pubDate>Mon, 04 Mar 2024 15:27:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
