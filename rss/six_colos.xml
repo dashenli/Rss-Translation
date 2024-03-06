@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 06 Mar 2024 00:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 03:14:14 GMT</lastBuildDate>
+    <item>
+      <title>（播客）下游 64：仍然做一切</title>
+      <link>https://sixcolors.com/podcast/2024/03/downstream-64-still-do-everything/</link>
+      <description><![CDATA[新人负责 Netflix 的电影输出，这让我们思考该公司过去和未来的电影策略。 [Downstream+ 成员获得：Max 的新哈利波特方法，以及我们可以从 CW 的中等预算超级英雄电视方法中学到的经验教训。]…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/03/downstream-64-still-do-everything/</guid>
+      <pubDate>Wed, 06 Mar 2024 00:40:48 GMT</pubDate>
+    </item>
     <item>
       <title>创建更高分辨率的 Vision Pro 全景图 ↦</title>
       <link>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</link>
@@ -109,13 +116,6 @@
 Kolide 希望您的业务安全。可以将其想象为机场安检：有两条线，一条用于验证您的身份，另一条用于扫描您的随身行李。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/02/kolide-2-23/</guid>
       <pubDate>Fri, 23 Feb 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单复杂：苹果的三款体育应用</title>
-      <link>https://sixcolors.com/post/2024/02/simple-complexity-apples-trio-of-sports-apps/</link>
-      <description><![CDATA[从左到右：在新闻中设置收藏夹、在体育中监控比分、在电视中设置实时活动以及在主屏幕上显示实时活动。…]]></description>
-      <guid>https://sixcolors.com/post/2024/02/simple-complexity-apples-trio-of-sports-apps/</guid>
-      <pubDate>Fri, 23 Feb 2024 18:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
