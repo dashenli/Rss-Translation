@@ -3,8 +3,22 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Wed, 06 Mar 2024 09:14:34 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 06 Mar 2024 12:25:13 GMT</lastBuildDate>
+    <item>
+      <title>英国初创公司发射人工智能卫星，提供近乎实时的地球图像</title>
+      <link>https://thenextweb.com/news/uk-startup-ai-satellite-real-time-images-of-earth-spacex</link>
+      <description><![CDATA[英国太空科技初创公司 Open Cosmos 已成功启动一颗新型人工智能卫星可以提供近乎实时的地球视图。这颗名为“HAMMER”的卫星是“用于海洋监测和应急响应的高光谱人工智能”的缩写，周一由 SpaceX 猎鹰 9 号火箭成功送入轨道。其使命是提供大西洋彼岸的高分辨率成像，帮助当局监测海洋环境或应对发生的自然灾害。你猜对了，HAMMER 能力的关键是人工智能。通常情况下，对地观测卫星会将图像发送回地面进行处理，这可以采取…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/uk-startup-ai-satellite-real-time-images-of-earth-spacex</guid>
+      <pubDate>Wed, 06 Mar 2024 10:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>氨生产是肮脏的。这个“硝化器”可以清理它</title>
+      <link>https://thenextweb.com/news/green-ammonia-fertiliser-nitrolyzer-danish-startup</link>
+      <description><![CDATA[氨可能是最广为人知的家用清洁剂或化学物质让你的小便有臭味。然而，很少有人意识到，世界上一半的粮食生产依赖于少数几个国家生产的氨基肥料。这种透明、恶臭的化学物质主要是由水、空气和天然气在压力下过热而产生的，这一过程会排放大量二氧化碳。氨合成是迄今为止世界上最肮脏的化学制造过程，产生的二氧化碳约占全球的 1.8%。这比英国去年的总排放量还要多。为了清理…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/green-ammonia-fertiliser-nitrolyzer-danish-startup</guid>
+      <pubDate>Wed, 06 Mar 2024 09:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>酒店“中枢神经系统”背后的初创公司成为最新的荷兰独角兽</title>
       <link>https://thenextweb.com/news/amsterdam-based-mews-netherlands-newest-unicorn</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 05 Mar 2024 15:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>自动赛车有望让无人驾驶汽车在道路上更安全</title>
+      <title>自动赛车有望让无人驾驶汽车在路上更安全</title>
       <link>https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road</link>
       <description><![CDATA[赛车的刺激来自于无畏的车手瞬间的决定和大胆的超越。想象一下那个场景，但没有司机——只有汽车，由人工智能看不见的手引导。如果没有车手操纵赛道，赛车的热潮能否展开？事实证明是可以的。进入自动驾驶赛车领域，这个领域不仅涉及高速竞争，还突破自动驾驶汽车所能实现的极限并提高其安全性。一个多世纪前，汽车诞生之初，随着社会从马拉车转向机动车辆，公众对汽车产生了怀疑。这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[七个欧洲组织联手打造了一个原型海洋能源装置，该装置可以为热带岛屿提供几乎无限、稳定的可再生能源。该技术称为海洋热能转换（OTEC）。它利用阳光加热的地表水和寒冷的海洋深处之间的温差来发电。 OTEC 系统从温暖的地表水中传递热量，蒸发氨等低沸点流体，产生蒸汽，驱动涡轮机发电。当蒸气与从海洋深处抽出的冷海水接触时冷却并凝结，从而完成能量循环。该技术…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/new-ocean-thermal-energy-device-under-construction-in-canary-islands</guid>
       <pubDate>Mon, 04 Mar 2024 10:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>观点：对于政治家来说，人工智能将带来拯救或诅咒——但不会介于两者之间</title>
-      <link>https://thenextweb.com/news/politicians-are-ai-extremists</link>
-      <description><![CDATA[人工智能是万能药还是潘多拉魔盒？这个问题让英国政府产生了分歧。如果你去问副首相奥利弗·道登（Oliver Dowden），他就会向你灌输关于美好未来的承诺。道登昨天滔滔不绝地说，人工智能是一个“游戏规则改变者”，可以“彻底改变公共服务”。医疗保健、教育和预防犯罪都是技术转型的主要目标——而这仅仅是开始。 “我几乎可以永远覆盖公共行政的所有领域，”道登威胁道。 “因为公共部门的几乎所有领域都具有通过这些技术得到增强的潜力…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/politicians-are-ai-extremists</guid>
-      <pubDate>Fri, 01 Mar 2024 15:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>医生已经开始开出一种新的治疗方法：步行应用程序</title>
-      <link>https://thenextweb.com/news/doctors-prescribing-new-medical-treatment-walking-app</link>
-      <description><![CDATA[步行是最简单的锻炼形式，但它有巨大的好处。随着我们的生活方式变得越来越久坐，医生越来越多地开出步行的处方，以解决医疗问题和我们的整体健康问题。但患者怎样才能保持动力坚持下去呢？医生如何跟踪他们的进展？这就是立陶宛初创公司 Walk15 的用武之地。Walk15 成立于 2019 年，其使命是让人们参与体育活动。它提供了一个平台和一个应用程序，企业和个人可以用来创建和参与步数挑战，使用他们的步数解锁独家折扣，以及…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/doctors-prescribing-new-medical-treatment-walking-app</guid>
-      <pubDate>Fri, 01 Mar 2024 11:43:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
