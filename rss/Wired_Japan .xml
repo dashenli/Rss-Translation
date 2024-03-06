@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 06 Mar 2024 03:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 09:14:47 GMT</lastBuildDate>
+    <item>
+      <title>谷歌采取行动消除人工智能生成的“点击诱饵”</title>
+      <link>https://wired.jp/article/google-search-artificial-intelligence-clickbait-spam-crackdown/</link>
+      <description><![CDATA[谷歌修改了垃圾邮件政策，从搜索结果中排除人工智能生成的“点击诱饵”。预计这将导致劣质内容更难在搜索中显示。]]></description>
+      <guid>https://wired.jp/article/google-search-artificial-intelligence-clickbait-spam-crackdown/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>硬币大小、可持续使用50年的“核电池”是“真实的”吗？</title>
       <link>https://wired.jp/article/is-this-50-year-battery-for-real/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当韩国文学受到世界关注时，金朝烨作为一位崭露头角的科幻作家崭露头角。我们询问了她的创作过程，她用自己独特的方式将“SF”的概念转化为“人类故事”。]]></description>
       <guid>https://wired.jp/article/choyeop-kim-interview/</guid>
       <pubDate>Sat, 02 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克起诉 OpenAI 和萨姆·奥尔特曼，声称他们“放弃了人类使命”的真正含义</title>
-      <link>https://wired.jp/article/elon-musk-sues-sam-altman-openai/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 起诉了 OpenAI 和萨姆·奥尔特曼 (Sam Altman)。马斯克声称 OpenAI 已经“放弃”了其开发造福人类的人工智能（AI）的创始使命。]]></description>
-      <guid>https://wired.jp/article/elon-musk-sues-sam-altman-openai/</guid>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
