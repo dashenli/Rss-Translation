@@ -4,9 +4,167 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Mar 2024 21:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 00:53:46 GMT</lastBuildDate>
     <item>
-      <title>如果苹果允许，Spotify 将向欧盟用户展示其 iOS 应用程序之外的定价选项</title>
+      <title>微软援引录像机动议驳回《纽约时报》的人工智能诉讼</title>
+      <link>https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+录像机将始终引用该技术试图驳回《纽约报》的三项索赔要求时报对 OpenAI 和微软提起版权侵权诉讼。 
+
+《泰晤士报》起诉微软涉嫌复制其故事并使用这些数据来模仿其风格，但微软的律师现在辩称 OpenAI 的大型语言模型只是其中的最新模型。尽管存在滥用版权的可能性，但仍被视为合法的一长串技术。 “尽管《泰晤士报》有不同的观点，但版权法对大型语言模型的阻碍并不比对 VCR（或自动播放钢琴、复印机、个人电脑、互联网或搜索引擎）的阻碍更大，”其中一篇文章写道。 
+Susman Godfrey 合伙人兼《泰晤士报》首席法律顾问 Ian Crosby 告诉 The Verge，微软并没有否认它与 OpenAI 合作，复制出版物的故事。 “相反，它将法学硕士与录像机进行比较，尽管录像机制造商从未辩称有必要进行大规模版权侵权来制造他们的产品，”克罗斯比说。 
+
+微软还对《纽约时报》的指控提出质疑，即微软了解并通过使用 OpenAI 的 GPT 模型提供产品来诱导用户侵犯版权，认为《纽约时报》 &gt; 从未给出过 Copilot 用户直接侵权的示例。 “因此，《纽约时报》的共同侵权理论失败了，其失败的基础与四十年前对 VCR 的挑战失败的基础相同：它不恰当地寻求‘仅基于能够实质性合法使用的产品的设计或分销’来施加责任，”微软的动议指出。 
+微软还声称《泰晤士报》并没有证明微软故意从培训中删除版权管理信息（例如版权所有者的姓名），从而违反了《数字千年版权法》(DMCA)数据。微软指出，其他生成人工智能诉讼也使用了与《泰晤士报》相同的论点，驳回了这些指控，例如 作者包括莎拉·西尔弗曼，
+类似《泰晤士报》针对 OpenAI 和 Microsoft 的诉讼有 有可能重写生成式人工智能作为一个行业的持续发展方式。 OpenAI 也提出了自己的驳回动议；它声称《泰晤士报》 “欺骗”ChatGPT直接复制出版物中受版权保护的材料。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091719/microsoft-new-york-times-openai-motion-dismiss-copyright-lawsuit</guid>
+      <pubDate>Wed, 06 Mar 2024 00:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>推特音乐厂牌的法律麻烦可能会持续下去</title>
+      <link>https://www.theverge.com/2024/3/5/24091667/twitter-music-label-legal-trouble-lawsuit-nmpa</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+起诉 Twitter（现在是 X）侵犯版权的音乐唱片公司可以继续推进部分诉讼。在周二提交的文件中，美国地区法官 Aleta A. Trauger 部分否认了 X 驳回诉讼的动议，称目前尚不清楚“X Corp. 可能在多大程度上对其平台上用户的侵权行为承担责任”。
+去年，国家音乐出版协会 (NMPA) 代表环球音乐集团、Concord Music Group、Sony Music Publishing、Warner Chappell Music 和其他主要发行商起诉 X，索赔 2.5 亿美元。
+该诉讼称，X 由于未能对包含受版权保护的音乐的帖子采取行动，“滋生了大规模的版权侵权行为，损害了音乐创作者的利益”。甚至在埃隆·马斯克 (Elon Musk) 接管之前，X 上的版权问题就一直是一个问题，诉讼称 NMPA 从 2021 年 12 月开始“每周”向 Twitter 发送侵权通知。
+
+法院支持 NMPA 的部分主张，包括指控 X 通过其高级订阅“允许用户根据其反侵权政策支付更宽松的待遇”，该订阅允许用户上传更长时间视频。它还驳回了X提出的驳回国家药监局关于X未能及时回应索赔且未对“重复侵权者”采取适当行动的主张的动议。
+但是，法官同意驳回国家药监局关于 X 从事直接版权侵权的指控，并同意该平台对用户的直接侵权行为“承担连带责任”。
+“正如最高法院所承认的那样，‘直接侵权、共同侵权和替代责任之间的界限并没有明确划分，’”特劳格写道。 “本案提出的最终问题是，X Corp.是否以及在多大程度上可能对其平台上用户的侵权行为承担责任。”随着诉讼的进展，法官指出，X 对用户的监控“与该调查相关”，该平台“容忍侵权”的经济激励也是如此。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091667/twitter-music-label-legal-trouble-lawsuit-nmpa</guid>
+      <pubDate>Tue, 05 Mar 2024 23:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel 8a 可能会增加 256GB 存储空间，而且价格也会上涨</title>
+      <link>https://www.theverge.com/2024/3/5/24091314/google-pixel-8a-rumor-256-gb-four-colors-price-hike</link>
+      <description><![CDATA[&lt;图&gt;
+      
+这就是 Pixel 8a 的样子吗？ |图片：OnLeaks / Smartprix
+
+Pixel 8a 手机将获得新的 256GB 存储空间，至少根据从零售商处听到的消息 由通常可靠的德国科技新闻网站 WinFuture 提供。该网站的消息来源还表示，它将有四种颜色，例如 售价 499 美元的 Pixel 7a&lt; /a&gt;，但它的价格比那款手机贵很多，为 569.90 欧元，约合 618 美元。 
+根据 WinFuture 的消息来源，增强存储版本的价格将更高 — 630 欧元（约合 684 美元） — 与 普通 Pixel 8 的价格标签为 699 美元。然而，正如该网站指出的那样，这可能会发生变化。
+
+据报道，Pixel 8a 将有黑曜石色（黑色）、瓷器色（米色）、海湾色（浅蓝色）和薄荷色（浅绿色）。去年的 Pixel 7a 也有四种颜色，但仅作为 128GB 手机，唯一真正的升级选项是一些运营商提供的 5G 毫米波选项，价格比基本价格高 50 美元。有趣的是，文章称，只有黑色版本的手机列出了 256GB 版本。 
+之前的泄密称 8a 将与已发布的其他 Pixel 8 手机具有相似的外形，具有相似的曲线和两个后置摄像头，与该系列中现有的基本型号相同。它也有可能会配备相同的 Tensor G3 芯片，并且正如 WinFuture 今天所写的那样，还有 8GB RAM，就像 Pixel 8 一样。
+那么，最大的区别可能是尺寸，因为有传言称它是一款 6.1 英寸手机，而不是像 Pixel 8 这样的 6.3 英寸手机，但谷歌显然抛出了一个曲线球7a 赋予其更好的主摄像头 比 Pixel 7 更好。不能保证该公司今年会再次做同样的事情，但你永远不知道谷歌会不会这样做。也许它配备了更好的摄像头，但猴爪卷曲，因为它人为地限制了功能 手机完全有能力处理。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091314/google-pixel-8a-rumor-256-gb-four-colors-price-hike</guid>
+      <pubDate>Tue, 05 Mar 2024 23:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的长视频将继续存在</title>
+      <link>https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Nick Barclay / The Verge 绘制
+
+一年前，TikTok 为平台上的创作者推出了一种新的赚钱方式：制作更长的视频。仅限受邀者参与的创意计划，目前处于测试阶段，要求 TikTokers 发布超过一分钟的剪辑才有资格获得盈利，这表明该公司希望人们使用其平台的方式发生了转变。正是这种远离所谓的短视频风格的转变，才使得 TikTok 成为家喻户晓的名字。 
+TikTok 今天宣布该计划将未来，内容创作者将需要制作超过一分钟的视频才能通过该计划获利。之前的创作者基金对视频长度没有要求，11 月关闭。
+该公司表示，创作者奖励将根据“优化奖励公式”计算支出，重点关注原创性、游戏时长、搜索价值和受众参与度。创作者经常抱怨原创创作者基金的支出很低，有时每百万次观看只能赚取几美元。针对一分钟长视频的新基金有望纠正这一问题，TikTok 表示该计划将为创作者带来更高的报酬。 TikTok 表示，过去六个月创作者收入增长了 250%，每月收入 5 万美元的创作者数量增加了一倍。 
+正如我在一月份所写的&lt; /a&gt;，越来越难以区分 TikTok 的格式与经典 YouTube 视频的不同之处：在某些情况下，TikTok 的长度可达 30 分钟。该公司还鼓励创作者在以下位置发布横向视频：交换“提升”该内容的平台。换句话说：打造 TikTok 五年前所颠覆的长篇内容类型。随着 TikTok 鼓励更长的内容，几乎可以肯定的是，我们的内容将不再是 TikTok 所闻名的简洁、类似 Vine 的视频。
+在其他盈利新闻中，TikTok 还扩大了访问高级版的用户范围用于直播内容的类似于 Twitch 的功能。直播订阅现在将向非直播创作者开放，他们可以向粉丝收取“独家内容和福利”的费用。直播者可以出售徽章、表情和仅限订阅者的聊天等福利。
+该消息是在 TikTok 创作者峰会上宣布的，向内容创作者表明了该平台的优先事项，进而表明该公司希望创作者制作什么内容。如果您开始注意到喜爱的创作者的视频运行时间更长，或者当他们开始以水平剪辑形式上传内容时感到惊讶，那就跟着钱走吧。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24090583/tiktok-creator-rewards-program-monetization-subscriptions</guid>
+      <pubDate>Tue, 05 Mar 2024 22:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的 Quest 2 和 Pro 耳机现在具有躺着模式</title>
+      <link>https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Amelia Holowaty Krales / The Verge
+
+借助 v63 软件更新即将推出。 
+元测试躺着模式 去年年初公开预览，但删除了 之前的功能 v53 更新已为所有人提供。一月份，Meta 执行官 Mark Rabkin 告诉用户，“它会卷土重来”，至少现在是这样作为一个实验性选项，Meta 将来可能会更改或删除。
+
+许多用户在测试后被删除时感到不安，尤其是那些健康状况导致长时间直立佩戴耳机会感到疼痛或无法进行。对于其他用户来说，它的影响可能较小 - 大多数耳机建议 站起来或坐直，以防止恶心和其他不愉快的症状。 
+没有任何关于 Quest 3 是否会耳机还将包含辅助功能，尽管用户已经找到了创意方法让这些耳机在躺着时也能工作。 Apple 的 Vision Pro 耳机在用户处于仰卧位置（以及在黑暗中）时也可以工作，尽管它是 不完美）。 
+为了激活 Quest 耳机的躺着模式，用户应转到耳机上“设置”菜单下的“实验设置”选项卡，然后选择“躺着时使用应用程序”。 
+软件更新中还包括 Quest Cash，这是一款适用于 Meta Quest 商店的支付系统，将于本月晚些时候推出。用户可以为自己购买 Quest Cash 或作为礼物，它被宣传为父母可以允许孩子为自己购买应用程序的一种方式，但这种方式易于监控，并且具有内置预算上限。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091529/meta-quest-2-pro-update-lay-down-quest-cash-payment</guid>
+      <pubDate>Tue, 05 Mar 2024 22:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 播客现在包含文字记录</title>
+      <link>https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：苹果
+
+Apple 播客将自动生成文字记录 从今天开始播客，感谢 iPhone 和 iPad 的 17.4 更新。新的播客剧集发布后不久，转录内容将自动出现，而苹果将随着时间的推移将播客转录回目录。 
+播客文字记录是可搜索的，允许用户输入特定的单词或短语并跳到剧集的该部分。用户可以在“正在播放”屏幕的左下角找到各个播客剧集的文字记录。 
+
+
+图片：苹果
+文字记录现已发布在 Apple 播客上。
+
+Spotify 推出自动生成的文字记录后 去年秋天，苹果希望其原生播客播放器在功能方面保持不变也就不足为奇了。 
+虽然转录对用户来说很方便（对于耳聋或听力困难的人来说也是不容协商的），但许多播客对自动转录工具可能发生的错误持谨慎态度。苹果似乎已经为此做好了准备。不想使用 Apple 自动转录功能的播客可以选择上传自己的转录内容通过 RSS 标签或在 Apple Podcasts Connect 中获取优质剧集，或者他们可以在重新上传之前下载并编辑 Apple 的文字记录。 
+Apple 播客的文字记录将在 170 多个国家/地区提供，以英语、法语、德语和西班牙语编写，但不会将播客文字记录从一种语言翻译成另一种语言。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091555/apple-podcasts-transcripts-ios-17-4-update</guid>
+      <pubDate>Tue, 05 Mar 2024 21:42:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mill 价值 999 美元的高科技垃圾桶抛弃了订阅</title>
+      <link>https://www.theverge.com/2024/3/5/24091220/mill-smart-kitchen-trash-can-second-generation-price-specs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091220/mill-smart-kitchen-trash-can-second-generation-price-specs</guid>
+      <pubDate>Tue, 05 Mar 2024 21:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Yuzu 诉讼的影响开始，任天堂 DS 模拟器 Drastic 现已免费</title>
+      <link>https://www.theverge.com/2024/3/5/24091561/nintendo-lawsuit-fallout-yuzu</link>
+      <description><![CDATA[&lt;图&gt;
+      Nintendo Switch 模拟器一天后 Yuzu面对任天堂的诉讼彻底失败，目前尚不清楚仿真界的其他部分可能需要担心什么。但柚子和解协议已经拿走了任天堂 3DS 模拟器 Citra&lt; /a&gt; 放下它，这并不是社区出于谨慎而做出的唯一改变。
+热门 Nintendo DS 模拟器 Drastic 的开发商 刚刚使其应用在 Android 上完全免费（之前售价 4.99 美元），并且打算永久下架。 Exophase 在其官方 Discord 上写道，“我想明确表示，我没有任何形式的经济激励”，任天堂的举动只是“让整个过程变得更加紧迫”：
+
+
+肖恩·霍利斯特 / The Verge 的屏幕截图
+“我刚刚将 GPlay 上的应用程序更改为免费。我根本不打算把它放在那里太久。”Exophase 开始说道。
+
+同时，Steam Deck 的一个流行的 Discord 服务器至少暂时关闭了其整个模拟通道，并写道：“我们没有能力处理在 Yuzu 或模拟上举办讨论的潜在法律后果。这次”并为“需要审查”道歉。 
+
+
+肖恩·霍利斯特 / The Verge 的屏幕截图
+Steam Deck Discord 表示它“被胁迫做出了我们反对的决定”，但没有说明欺凌者是谁。
+
+当我寻找另一个 Nintendo Switch 模拟器 Ryujinx 的 Discord 服务器时，我发现它不再接受邀请。 边缘 和 Ars Technica 都已联系 Ryujinx 对 Yuzu 诉讼发表评论，但我们尚未收到回复。 
+
+
+肖恩·霍利斯特 / The Verge 的屏幕截图
+我想知道 Ryujinx 是否还好。
+
+另一个二阶效应：如果没有 Yuzu 和 Citra，像流行的 EmuDeck 这样的一体化仿真提供商必须在其他地方寻找底层仿真器。 EmuDeck 正在回退到 Ryujinx 进行 Nintendo Switch 模拟，并正在测试 Panda3DS 而不是 Citra：
+
+
+肖恩·霍利斯特 / The Verge 的屏幕截图
+“这不是一个好消息公告:(”EmuDeck 的首席开发人员写道。
+
+如果您看到或听到任天堂诉讼和 Yuzu 倒闭带来的任何其他影响，请通过 Sean@theverge.com 与我联系。我们想解释一下场景是否会发生变化以及如何发生变化。]]></description>
+      <guid>https://www.theverge.com/2024/3/5/24091561/nintendo-lawsuit-fallout-yuzu</guid>
+      <pubDate>Tue, 05 Mar 2024 21:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建和保存 Chrome 标签页组</title>
+      <link>https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23384844/chrome-google-tab-groups-create-save-how-to</guid>
+      <pubDate>Tue, 05 Mar 2024 21:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 即将测试苹果新的 App Store 政策</title>
       <link>https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app</link>
       <description><![CDATA[&lt;图&gt;
       
@@ -27,155 +185,6 @@ Spotify 正在充分利用这一裁决。如果苹果批准这一变化，Spotif
 Spotify 已向 Apple 发送了在其应用程序中引入定价信息的计划。由苹果公司决定接受或拒绝该提议，而这一次，欧盟委员会将仔细审查这一决定。]]></description>
       <guid>https://www.theverge.com/2024/3/5/24091430/spotify-links-pricing-information-iphone-eu-app</guid>
       <pubDate>Tue, 05 Mar 2024 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在所有 Signal 用户都可以共享用户名而不是电话号码</title>
-      <link>https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-在作为测试版功能推出几周后，Signal 现已推出 在其加密消息服务上支持用户名，因此任何人都可以添加可选的用户名，将他们与其他人联系起来，而无需共享他们的电话号码。
-您可以前往您的设置并选择“个人资料”来创建用户名。创建唯一的用户名后，您可以生成二维码或链接，将人们指向您在应用程序中的用户名。其他用户也可以通过在新的聊天栏中输入您的用户名并发送消息来与您联系。正如Signal 的用户名常见问题解答页面中所述 ，您可以随时更改您的用户名，但其他用户将能够使用您以前的名称。首先发出信号 去年秋天开始测试用户名。
-
-
-图片：信号
-
-Signal 的用户名与其他社交平台上的帐户名不同，因为它们不能用作人们可以在 Signal 上识别您身份的登录名或句柄。相反，它们为人们提供了一种无需您的电话号码即可快速与您联系的方式。不过，您仍然需要一个电话号码来注册加密消息应用程序 - 是否要向其他人透露它完全取决于您。
-如果您决定创建用户名，它不会出现在您的个人资料详细信息页面或聊天中。除非您分享，否则其他用户将无法看到它。 Signal 首席产品官兰德尔·萨拉法 (Randall Sarafa) 在宣布推出该功能的帖子中写道：“换句话说，有人需要知道你确切的唯一用户名，才能在 Signal 上与你聊天。” “而且 Signal 不提供可搜索的用户名目录。”
-
-
-图片：信号
-
-除了用户名之外，Signal 还推出了其他一些方便的安全功能，包括一种让您限制谁可以在应用程序中使用您的电话号码找到您的方法。您可以阻止任何人在应用程序中向您发送消息或呼叫您，即使他们知道您的电话号码并且知道您正在使用 Signal，您也可以阻止任何知道您号码的人与您开始新的聊天。 
-如果用户尚未将您的电话号码保存在手机中，该应用也会默认开始隐藏您的电话号码。您可以随时通过前往您的设置并选择隐私&gt;来更改此设置。电话号码&gt;谁可以看到我的号码。 
-
-虽然分享您的用户名而不是电话号码可以使通过该应用向他人发送消息的私密性更高，但有些人可能会滥用此功能在应用程序上冒充其他人。为了减轻这种风险，Signal 建议用户应该比较 安全号码 — 唯一的代码，旨在帮助您验证您正在发消息的人。如果您与多个同名的人进行群聊，该应用程序还会显示一个横幅，并显示您是否与其他用户有任何共同的群聊。您可以在应用程序的 支持页面。
-美国东部时间 3 月 5 日下午 3:09 更新：更新以反映 Signal 用户名不再处于 Beta 测试阶段，现已广泛使用可用。]]></description>
-      <guid>https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta</guid>
-      <pubDate>Tue, 05 Mar 2024 20:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>位智很快就会向您发出有关减速带和急弯的警告</title>
-      <link>https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles</link>
-      <description><![CDATA[&lt;图&gt;
-      Waze 宣布了多项新功能，包括针对其本已繁忙的行车路线地图向停下来的急救人员发出警报。该功能现已推出，但其他功能（例如新的道路危险警告和更新的路线信息）将于本月在 iOS 和 Android 手机上推出，还有其他功能计划在今年晚些时候推出。 
-第一响应者警报功能会在地图上显示紧急车辆的闪烁图标，并告诉您距离有多远。就好像你前面明亮的频闪灯不足以作为指示器，或者你根本没有看路（好吧，也许有时你只是被困在一辆大卡车后面）。此功能现已面向美国、加拿大、墨西哥和法国的用户开放，其他国家/地区也将跟进。
-
-本月晚些时候，该应用将获得新的图标，警告有关减速带、急弯和收费站的信息，以及速度限制即将降低的警告。同样在本月，该应用程序正在改变当您踏上常用路线之一时显示实时路况和延误信息的方式。 
-
-
-图片：位智
-环岛不一定很难。
-
-对于 Android 用户（以及今年晚些时候的 iOS 用户）来说，本月末，一项新的交通圈辅助功能将告诉您使用哪条车道到达您想要退出的交通圈部分。是的，许多美国人需要这个。 Verge 读者们，请在评论部分保持温和。现在，如果应用程序能够告诉困惑的道路使用者何时让路，那么当您试图弄清楚其他司机是否真正理解轮到您走时，环岛就不再是一个怀疑和怀疑的地方了。
-几周后，Waze 还将为您提供有关停车场的详细信息，并允许您在应用程序中预订停车位，不过仅限于纽约市或蒙特利尔等某些城市。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091139/google-waze-maps-new-alerts-speed-bumps-parking-traffic-circles</guid>
-      <pubDate>Tue, 05 Mar 2024 20:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Max 正在参与大规模的流媒体密码打击行动</title>
-      <link>https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix</link>
-      <description><![CDATA[&lt;图&gt;
-      有线，华纳兄弟探索频道 (WBD) 正准备实施一套新的限制措施，旨在防止订户与不自行付费的人分享密码。在 摩根士丹利技术部发表讲话，媒体与在周一的电信会议上，WBD 全球流媒体和游戏负责人 JB Perrette 表示，该公司计划在 2024 年底的某个时候启动打击行动。
-“进入第二季度和第三季度，我们将在许多欧洲市场推出产品，”Perette 说。 “还有密码共享打击，显然 Netflix 在这方面实施得非常成功。我们将从今年晚些时候开始这样做，直到 25 年，这对我们来说是另一个增长机会。”
-Max 的决定是在 Disney Plus 和 Hulu 均更新了条款禁止用户与家庭以外的人共享登录凭据的服务。这些举措是为了回应 Netflix 在2023，以努力解决注册率停滞不前的问题——随着流媒体战争的成熟，许多平台现在都面临着这个问题。 Max 的密码打击可能会带来不少新注册，这可能会在短期内让股东满意。但 WBD 最近的另一部 ham-fisted试图整顿其财务状况，而且整个流媒体领域对消费者的敌意越来越大，下一次打击可能很容易成为赶走一些客户的事情。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091397/max-password-sharing-crackdown-netflix</guid>
-      <pubDate>Tue, 05 Mar 2024 18:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tidal 的订阅变得越来越简单、越来越便宜——是的，你没有看错</title>
-      <link>https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos</link>
-      <description><![CDATA[&lt;图&gt;
-      
-边缘
-
-Tidal 似乎认为没有足够多的人愿意每月支付 20 美元以上的费用来获得尽可能高的音频保真度。因此，从 4 月 10 日开始在美国，该公司将把现有的 HiFi 和 HiFi Plus 计划合并到一个订阅级别中，简称为“Tidal”。其费用与较便宜的每月 10.99 美元相同HiFi 计划做到了。
-从总体上看，这种新的、更简单的订阅模式仍将包括所有以前仅在 Plus 上提供的福利 - 高分辨率 FLAC、杜比全景声 (Dolby Atmos) 混音等层。是的，这意味着如果您是 HiFi Plus 用户，订阅服务实际上会变得更便宜。很难相信这个时代，对吧？现有客户将在四月份自动切换到 Tidal 级别。但有一些重要的事情需要注意。 
-首先，该公司指出，任何“在过去 90 天内”使用过该应用程序 DJ 集成功能的人每月将额外支付 9 美元，除非他们 调整订阅以删除 DJ 扩展。如果您忘记这样做，您仍将支付与 HiFi Plus 相同的 19.99 美元费用。附加费进展不太顺利 与一些真正利用了这些 DJ 集成的人一起。
-急救人员或军人不再可以节省
-学生计划将保持当前每月 4.99 美元的价格，但 Tidal 将完全取消其军事/急救人员折扣，并将从 6 月 10 日起取消当前客户的促销价格。 Tidal Free 也将永远消失。 “从 2024 年 4 月 10 日开始，Tidal 免费套餐的用户将需要切换到付费 Tidal 订阅才能继续享受 Tidal 的服务，”该公司 在其支持页面上写道，详细说明了这些更改。
-Apple Music 和 Amazon Music Unlimited 都将无损音乐质量作为其基本高级订阅的一部分，其价格完全相同，每月 10.99 美元。现在，Tidal 正在投入其大量的高分辨率曲目，而无需额外付费。 
-Spotify 仍然缺乏无损流媒体三承诺多年后。通过此举，Tidal 可能会试图阻止传闻中的“Supremium”Spotify 计划的最终推出，并避免潜在的用户流失。不管怎样，这都是为了在流媒体音乐领域保持竞争力——或者至少保持相关性。 Tidal 裁员 10 人12 月员工百分比以及其他裁员在母公司 Block。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091308/tidal-subscription-price-cut-high-res-atmos</guid>
-      <pubDate>Tue, 05 Mar 2024 18:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>GE Profile 和 Café 智能烤箱将获得新的食物识别功能</title>
-      <link>https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition</link>
-      <description><![CDATA[&lt;图&gt;
-      
-一些 GE Appliance 的 Café 壁挂炉现在可以识别其中的内容并为您建议烹饪模式。 |图片：GE Appliances
-
-如果您拥有智能 GE Appliances 壁挂炉，它将会变得更加智能。 Cookcam AI  是一项新功能，它使用人工智能来识别您放入烤箱的内容并为您计算出其余内容，因此您无需将鼠标悬停在它上面并担心会烧焦披萨。该公司表示，Cookcam AI 将选择 GE Profile 和 咖啡馆墙壁带有烤箱内摄像头的烤箱 -空中软件升级。
-Cookcam AI 将与 精确烹饪模式，这是大多数联网 GE Appliances 烤箱的功能，包括 Monogram、Café、GE Profile 和 GE 型号。精确烹饪模式允许引导式烹饪，引导您使用烤箱的触摸屏或 GE Appliances 的 SmartHQ 应用程序为您的菜肴正确设置设备。有了 Cookcam AI，您无需寻找正确的模式，它会为您做这件事。
-“一旦将食物放入烤箱并关闭门，摄像头就会拍摄烤箱腔的图像，并使用人工智能和机器学习来检测和识别食物，”该公司在一份声明中表示。新闻稿。然后，烤箱会在液晶触摸屏上显示推荐的精确烹饪模式，如果正确的话，您只需点击它即可开始烹饪。据 GE Appliances 称，烤箱随后会自动跟踪食物的进度，并可以根据需要修改温度并调整烹饪时间。
-
-
-图片：GE Appliances
-部分 GE Appliances 壁式烤箱很快将与 Cookcam AI 配合使用。对于双壁烤箱，该功能适用​​于顶部烤箱。
-
-最初，Cookcam AI 仅适用于五种菜肴：火鸡、饼干、披萨、蛋糕和布朗尼蛋糕。 GE Appliances 表示计划推出更多更新。 “我们才刚刚开始，期待未来继续推出更多食物类型，”GE Appliances 产品管理和内置烹饪执行总监 Rachael Schwartz 说道。
-此功能的实用性还有待观察，但它是我们的设备走向更加智能的一步，可能会导致更智能、更实用的厨房。食物识别并不新鲜——它是优秀但现已停产六月烤箱。三星最近推出了一项类似的功能，名为AI Pro Cooking 其定制壁式烤箱，它也使用摄像头并在监控食物的同时优化烹饪设置。
-虽然三星烤箱可以识别 80 种不同的菜肴和食材，而 GE Appliances 只能识别 5 种菜肴和食材，但您必须购买全新的烤箱才能获得三星的功能。 GE Appliances 表示免费的 Cookcam AI 更新将于本月底提供。
-]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091218/ge-appliances-profile-cafe-wall-oven-food-recognition</guid>
-      <pubDate>Tue, 05 Mar 2024 18:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.4 现已推出，为全新欧洲做好准备</title>
-      <link>https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24090161/ios-17-4-update-released-dma-eu-third-party-app-store-nfc-payments</guid>
-      <pubDate>Tue, 05 Mar 2024 18:40:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>立法者提出法案，将惩罚托管 TikTok 的应用商店</title>
-      <link>https://www.theverge.com/2024/3/5/24091278/congress-tiktok-bytedance-ban-divest-bill</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Nick Barclay / The Verge 绘制
-
-在长时间暂缓国会的严格审查后，立法者正在再次尝试让 TikTok 与其中国母公司字节跳动断绝关系。
-众议院中国共产党特别委员会主席迈克·加拉格尔 (Mike Gallagher) (威斯康星州共和党) 和高级成员 Raja Krishnamoorthi (民主党-伊利诺伊州) 宣布推出保护周二，美国《外国对手控制应用程序法》。该法案目前已19 名立法者签署&lt; /a&gt;，将使分发由字节跳动控制的应用程序（包括 TikTok）违法，除非它们与这家中国科技巨头断绝关系。 
-如果颁布，该法案将对分发 TikTok 和其他涵盖服务的应用商店和网络托管服务处以民事处罚，除非该应用与中国所有权分离。对违反法律的应用程序商店的处罚将通过“访问、维护或更新”外国对手应用程序的美国用户数量乘以 5,000 美元来计算。该法案将由美国司法部长执行。
-它还为总统指定了一个流程，指定来自中国、俄罗斯、伊朗和朝鲜等外国敌对国家的其他社交媒体公司受该法案的约束——这意味着指定公司拥有的应用程序是在美国分销的公司需要切断联系才能继续在那里运营。
-这是国会针对 TikTok 所有权带来的国家安全担忧采取的首次重大立法推动自参议院去年推出《限制法案》以来。该法案是在众议院能源和商业委员会就 TikTok 与中国的关系进行质询之后提出的，这标志着 国会山围绕 TikTok 禁令或强制撤资的想法达到顶峰。
-然而，对《限制法案》的影响范围及其授予行政部门的权力的担忧最终导致了这一问题的进展陷入停滞。
-制定新立法是为了避免潜在的宪法问题。例如，虽然它命名为字节跳动，但它是为了避免被视为对个别公司的惩罚而量身定制的。部分原因是该法案允许字节跳动有 165 天的期限，如果字节跳动在这段时间内剥离其应用程序，可以避免对其应用程序的禁令；它还创建了一个可以应用于其他应用程序的流程。 
-虽然 TikTok 由一家中国公司所有，但该公司坚称将美国用户数据保存在国外的服务器上，并正在制定计划，让中国公司更无法获取美国数据字节跳动员工。许多议员表示担心，中国的国家安全法可能会迫使字节跳动交出有权访问的美国用户的信息。
-TikTok 发言人 Alex Haurek 在一份声明中表示，该法案“是对 TikTok 的彻底禁令，无论作者如何试图掩饰它。这项立法将践踏 1.7 亿美国人的第一修正案权利，并剥夺 500 万家小企业赖以发展和创造就业机会的平台。”
- www.theverge.com/2022/4/6/23012077/biden-tiktok-president-white-house-account-gen-z&quot;&gt;针对希望获得席位的候选人。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091278/congress-tiktok-bytedance-ban-divest-bill</guid>
-      <pubDate>Tue, 05 Mar 2024 18:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将于 2025 年停止在 Windows 11 子系统上运行 Android 应用</title>
-      <link>https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：微软
-
-微软将于明年在 Windows 11 中终止对其 Android 子系统的支持。软件巨头首先宣布近三年前，我们就通过 Amazon Appstore 将 Android 应用引入了 Windows 11，但这个适用于 Android 的 Windows 子系统现已从 2025 年 3 月 5 日起被弃用。
-“微软将终止对 Windows Subsystem for Android™️ (WSA) 的支持”，新的 来自 Microsoft 的支持文档。 “因此，从 2025 年 3 月 5 日开始，Windows 上的 Amazon Appstore 以及所有依赖 WSA 的应用程序和游戏将不再受支持。”
-如果您当前使用 Amazon Appstore 中的 Android 应用程序，那么您在支持截止日期之后仍可以继续访问这些应用程序，但一旦 Microsoft 发布新应用程序，您将无法下载任何新应用程序其 Android 子系统将于明年终止生命周期。 3 月 6 日（明天），Windows 11 用户将无法再从 Microsoft Store 搜索 Amazon Appstore 或关联的 Android 应用。
-微软在过去几年中不断更新其适用于 Android 的 Windows 子系统，这是一个令人惊讶的举动。亚马逊表示，它将与微软一起“为 Windows 11 上的亚马逊应用商店的开发者和客户提供平稳的支持体验”。 “2024 年 3 月 5 日之后，开发人员将无法再提交针对 Windows 11 的全新应用程序，但拥有现有应用程序的开发人员可以继续提交应用程序更新，直到 Windows 11 上的 Amazon Appstore 完全停止使用。”亚马逊说。
-Windows 11 上的 Android 应用最初似乎是微软对苹果 M1 芯片和在 macOS 上运行 iOS 应用取得进展的回应。微软与亚马逊合作，但如果你只是想在 Windows 上轻松下载流行的 Android 应用程序，但无法正式访问 Google Play 商店，体验总是很差。这可能是微软选择干脆取消 Windows 11 上 Android 应用的一个重要原因。]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091370/microsoft-windows-11-android-apps-end-of-support</guid>
-      <pubDate>Tue, 05 Mar 2024 17:43:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳娱乐</title>
-      <link>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</link>
-      <description><![CDATA[&lt;图&gt;
-      
-沙丘：第二部分。 |图片：华纳兄弟影业
-
-寻找一些可看或可玩的内容有时感觉像是在工作 — 外面有太多东西在争夺您的空闲时间。无论您是前往剧院、浏览众多流媒体平台还是寻找新的视频游戏，都是如此。人们很容易因选择而不知所措。
-所以，正如我们几年来所做的那样 过去，我们将 2024 年以来所有我们最喜欢的版本收集在一处。目标是让您的决策变得更容易一些。这可能意味着突出显示从一部真正符合炒作的预期电影到&lt; a href=&quot;https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame&quot;&gt;一款风靡全球的独立游戏。
-我们将全年更新此页面，继续了解电影、电视和游戏的最新动态，敬请关注。]]></description>
-      <guid>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</guid>
-      <pubDate>Tue, 05 Mar 2024 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

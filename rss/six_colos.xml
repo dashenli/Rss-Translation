@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 05 Mar 2024 00:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 00:54:49 GMT</lastBuildDate>
+    <item>
+      <title>创建更高分辨率的 Vision Pro 全景图 ↦</title>
+      <link>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</link>
+      <description><![CDATA[
+我最喜欢的 Vision Pro 功能之一是动态显示摄影全景图。身临其境的环境很棒，我喜欢现在可以捕捉立体视频，但我有一个巨大的全景库，可以追溯到 20 世纪 90 年代。…]]></description>
+      <guid>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</guid>
+      <pubDate>Wed, 06 Mar 2024 00:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>完整的文字记录已发布在 Apple 播客上</title>
+      <link>https://sixcolors.com/post/2024/03/full-transcripts-arrive-on-apple-podcasts/</link>
+      <description><![CDATA[（从左到右）：回放脚本，在脚本视图中选择一个段落，并分享播客中的引言。
+正如一月份所预言的那样，随着 iOS 17.4 的发布，Apple 的播客应用程序现在支持播客转录。…]]></description>
+      <guid>https://sixcolors.com/post/2024/03/full-transcripts-arrive-on-apple-podcasts/</guid>
+      <pubDate>Tue, 05 Mar 2024 23:44:32 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 502：走向色彩之路</title>
       <link>https://sixcolors.com/podcast/2024/03/upgrade-502-its-the-way-towards-colour/</link>
@@ -100,20 +116,6 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
       <description><![CDATA[从左到右：在新闻中设置收藏夹、在体育中监控比分、在电视中设置实时活动以及在主屏幕上显示实时活动。…]]></description>
       <guid>https://sixcolors.com/post/2024/02/simple-complexity-apples-trio-of-sports-apps/</guid>
       <pubDate>Fri, 23 Feb 2024 18:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 63：每个人都喜欢捆绑包</title>
-      <link>https://sixcolors.com/podcast/2024/02/downstream-63-everyone-loves-a-bundle/</link>
-      <description><![CDATA[迪士尼、福克斯和 WBD 宣布《Spulu》的影响仍在继续；剖析 HBO 的“上周今晚”YouTube 策略； Peacock 与纽约喷气机队有什么共同点？…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/02/downstream-63-everyone-loves-a-bundle/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 542：你不应该扔妖精</title>
-      <link>https://sixcolors.com/podcast/2024/02/clockwise-542-you-should-not-toss-leprechauns/</link>
-      <description><![CDATA[我们如何使用带屏幕的 HomePod、Apple 的新运动应用程序、Vision Pro 几周后的印象，以及我们使用 iPhone 的操作按钮的用途。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/02/clockwise-542-you-should-not-toss-leprechauns/</guid>
-      <pubDate>Wed, 21 Feb 2024 21:20:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
