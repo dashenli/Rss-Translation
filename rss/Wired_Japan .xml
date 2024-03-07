@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 07 Mar 2024 03:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 09:12:35 GMT</lastBuildDate>
+    <item>
+      <title>通过基因编辑“再生”猛犸象的计划取得进展，成功创造了大象 iPS 细胞</title>
+      <link>https://wired.jp/article/colossal-biosciences-mammoth/</link>
+      <description><![CDATA[一家利用基因编辑再生已灭绝猛犸象的美国初创公司宣布，已成功利用大象细胞创造出 iPS 细胞，可转化为所有类型的细胞。这为在实验室生产大象精子和卵子以及测试基因编辑打开了大门。]]></description>
+      <guid>https://wired.jp/article/colossal-biosciences-mammoth/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知道自己属于摩天大楼的哪个位置？通过数字孪生恢复城市空间中丢失的“物质性”</title>
+      <link>https://wired.jp/article/tokyo-node-xr-hackathon-award/</link>
+      <description><![CDATA[在东京虎之门之丘举办的世界罕见的 XR 黑客马拉松的大奖获得者已经确定。利用真实城市数字孪生数据的获奖作品将给我们带来怎样的城市新体验？]]></description>
+      <guid>https://wired.jp/article/tokyo-node-xr-hackathon-award/</guid>
+      <pubDate>Thu, 07 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来大型科技公司的影响力会怎样？数字市场法将在欧洲全面实施</title>
+      <link>https://wired.jp/article/europe-dma-breaking-open-big-tech/</link>
+      <description><![CDATA[监管主要科技公司活动的欧盟 (EU) 数字市场法案 (DMA) 将于 3 月 7 日起全面实施。其目的是通过向大公司开放服务来削弱它们的影响力，但一些人对其有效性持怀疑态度。]]></description>
+      <guid>https://wired.jp/article/europe-dma-breaking-open-big-tech/</guid>
+      <pubDate>Thu, 07 Mar 2024 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>1秒内回答的AI聊天机器人“Groq”的影响</title>
       <link>https://wired.jp/article/plaintext-groq-mindblowing-chatbot-answers-instantly/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[美国城市每天约有2000亿升雨水径流，但可以通过绿化城市并将其变成收集水的“海绵城市”来将其用作资源。]]></description>
       <guid>https://wired.jp/article/us-cities-could-be-capturing-billions-of-gallons-of-rain-a-day/</guid>
       <pubDate>Mon, 04 Mar 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克的OpenAI诉讼，其核心主张的内容“模糊”</title>
-      <link>https://wired.jp/article/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
-      <description><![CDATA[埃隆·马斯克对 OpenAI 和 Sam Altman 的诉讼是基于 OpenAI 已经开发出“通用人工智能”（AGI）并将其提供给微软的说法。然而，专家们对这些说法表示怀疑。]]></description>
-      <guid>https://wired.jp/article/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
-      <pubDate>Sun, 03 Mar 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MWC 2024：12 个值得关注的奇怪小玩意和技术，从割草机驱动的游戏到 ChatGPT 驱动的机器人</title>
-      <link>https://wired.jp/article/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/</link>
-      <description><![CDATA[2024 年世界移动通信大会 (MWC) 是全球最大的移动设备贸易展，展示了许多奇怪的小玩意。这里有 12 种值得关注的产品和技术，从割草机驱动的《DOOM》到带有 ChatGPT 的童趣机器人，再到电池寿命长达一周的巨型智能手机。]]></description>
-      <guid>https://wired.jp/article/weird-wacky-gizmos-and-gadgets-we-saw-at-mwc-2024/</guid>
-      <pubDate>Sun, 03 Mar 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府担心中国电动汽车可能对高速公路造成严重破坏</title>
-      <link>https://wired.jp/article/china-cars-national-security-threat-investigation/</link>
-      <description><![CDATA[中国汽车制造商正试图进入美国市场。作为回应，美国政府正在调查中国制造的汽车是否构成国家安全威胁。]]></description>
-      <guid>https://wired.jp/article/china-cars-national-security-threat-investigation/</guid>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
