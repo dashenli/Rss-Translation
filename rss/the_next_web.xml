@@ -4,7 +4,28 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Thu, 07 Mar 2024 12:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 15:14:45 GMT</lastBuildDate>
+    <item>
+      <title>互联网公司称，红海电缆因胡塞武装船只袭击而断锚</title>
+      <link>https://thenextweb.com/news/red-sea-cable-cut-by-anchor-from-houthi-ship-attack-says-internet-firm</link>
+      <description><![CDATA[红海多条海底通信电缆被切断周六，暂时影响了亚洲和欧洲之间流动的所有数据流量的四分之一。一些人指责胡塞叛军故意破坏电缆。该组织最近几周在红海对货船进行了多次袭击，但否认承担任何责任。然而，真实的情况看起来要复杂一些。德国互联网公司 DE-CIX 租用了其中一条受影响电缆的容量，据该公司称，损坏是由胡塞叛军袭击的一艘船上的锚造成的。英国拥有…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/red-sea-cable-cut-by-anchor-from-houthi-ship-attack-says-internet-firm</guid>
+      <pubDate>Thu, 07 Mar 2024 14:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>西班牙因隐私问题而叫停 Sam Altman 的眼球扫描初创公司 Worldcoin</title>
+      <link>https://thenextweb.com/news/spain-sam-altman-eyeball-scanning-worldcoin-ban-privacy-concerns</link>
+      <description><![CDATA[西班牙监管机构因担心该公司的眼球扫描技术而命令 Worldcoin 暂停运营可能会侵犯用户的隐私。 Worldcoin 由 OpenAI 首席执行官 Sam Altman 于 2019 年联合创立，使用球体扫描人们的眼睛，以换取数字 ID 和一些加密货币。根据西班牙隐私监管机构昨天发布的命令，世界币必须停止在该国收集和处理个人数据。它还必须停止处理之前在那里收集的任何数据。该机构在一份声明中表示，它收到了针对该公司的各种投诉，其中包括收集个人信息……这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/spain-sam-altman-eyeball-scanning-worldcoin-ban-privacy-concerns</guid>
+      <pubDate>Thu, 07 Mar 2024 12:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找加密“圣杯”的初创公司筹集了 7300 万美元</title>
+      <link>https://thenextweb.com/news/zama-holy-grail-cryptography-fully-homomorphic-encryption</link>
+      <description><![CDATA[法国初创公司 Zama 已筹集 7300 万美元，用于将密码学的“圣杯”商业化：完全同态加密（FHE）。 FHE 概念上很简单，但实际上很复杂，它可以对加密数据进行计算，而无需先对其进行解密。因此，公司可以在不查看客户信息的情况下提供服务。与此同时，用户不会注意到功能上的任何差异。为了可视化该过程，请将加密数据想象为一个上锁的盒子，将计算想象为油漆。通过在盒子上绘画，您还可以在里面的数据上绘画。但盒子内部的变化将不会被窥探。 “这意味着敏感信息可以…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/zama-holy-grail-cryptography-fully-homomorphic-encryption</guid>
+      <pubDate>Thu, 07 Mar 2024 12:21:29 GMT</pubDate>
+    </item>
     <item>
       <title>报告称，荷兰政府成立了秘密工作组，以将 ASML 留在荷兰</title>
       <link>https://thenextweb.com/news/dutch-government-task-force-asml-netherlands</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[氨可能是最广为人知的家用清洁剂或化学物质让你的小便有臭味。然而，很少有人意识到，世界上一半的粮食生产依赖于少数几个国家生产的氨基肥料。这种透明、恶臭的化学物质主要是由水、空气和天然气在压力下过热而产生的，这一过程会排放大量二氧化碳。氨合成是迄今为止世界上最肮脏的化学制造过程，产生的二氧化碳约占全球的 1.8%。这比英国去年的总排放量还要多。为了清理…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/green-ammonia-fertiliser-nitrolyzer-danish-startup</guid>
       <pubDate>Wed, 06 Mar 2024 09:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>酒店“中枢神经系统”背后的初创公司成为最新的荷兰独角兽</title>
-      <link>https://thenextweb.com/news/amsterdam-based-mews-netherlands-newest-unicorn</link>
-      <description><![CDATA[基于阿姆斯特丹的 Mews，一个基于云的物业管理系统 (PMS)，适用于酒店业已成为最新的荷兰独角兽。在新一轮融资中，这家初创公司（也是 TNW 社区成员）以 12 亿美元（11 亿欧元）的估值筹集了 1.1 亿美元（1.01 亿欧元）后获得了独角兽地位。 Mews 由前酒店经营者 Richard Valtr 于 2012 年创立，其使命是加速酒店行业的数字化转型。 Valtr 告诉 TNW：“数字化转型对于许多酒店品牌来说都是一个挑战，因为太多的品牌使用传统的本地技术来运行他们的系统。” “这阻碍了该行业的大量创新，并限制了…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/amsterdam-based-mews-netherlands-newest-unicorn</guid>
-      <pubDate>Tue, 05 Mar 2024 15:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动赛车有望让无人驾驶汽车在道路上更安全</title>
-      <link>https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road</link>
-      <description><![CDATA[赛车的刺激来自于无畏的车手瞬间的决定和大胆的超越。想象一下那个场景，但没有司机——只有汽车，由人工智能看不见的手引导。如果没有车手操纵赛道，赛车的热潮能否展开？事实证明是可以的。进入自动驾驶赛车领域，这个领域不仅涉及高速竞争，还突破自动驾驶汽车所能实现的极限并提高其安全性。一个多世纪前，汽车诞生之初，随着社会从马拉车转向机动车辆，公众对汽车产生了怀疑。这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road</guid>
-      <pubDate>Tue, 05 Mar 2024 14:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>女性科技如何缩小健康数据中的性别差距</title>
-      <link>https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data</link>
-      <description><![CDATA[从历史上看，女性的健康状况一直落后于男性，从而造成了持续存在的性别差距数据、研究和临床试验。女性科技创新浪潮可能最终会带来平衡。其中包括世界领先的节育应用程序 Natural Cycles 的联合创始人兼首席执行官 Elina Berglund。 “我们需要更多的公司专注于女性健康和女性问题，因为这最终将弥补性别差距，”她告诉 TNW。伯格伦德是瑞典粒子物理学家和企业家。值得注意的是，她是因这一发现而获得诺贝尔奖的团队的成员…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/how-femtech-closing-gender-gap-health-data</guid>
-      <pubDate>Tue, 05 Mar 2024 09:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
