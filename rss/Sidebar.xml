@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 09:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 12:25:32 GMT</lastBuildDate>
+    <item>
+      <title>功能背后：多重编辑的多重生命</title>
+      <link>https://www.figma.com/blog/behind-the-feature-the-multiple-lives-of-multi-edit/</link>
+      <description><![CDATA[我们时不时地发布一项功能，让我们想知道如果没有它我们该如何相处。 
+]]></description>
+      <guid>https://www.figma.com/blog/behind-the-feature-the-multiple-lives-of-multi-edit/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>POV：如果应用程序令人上瘾，这是设计师的责任吗？</title>
+      <link>https://www.itsnicethat.com/articles/pov-ethics-of-gamified-ux-digital-creative-industry-insights-070324</link>
+      <description><![CDATA[社交媒体应用上的习惯养成功能正在引发集体诉讼。但道德责任是否在于产品设计师？
+]]></description>
+      <guid>https://www.itsnicethat.com/articles/pov-ethics-of-gamified-ux-digital-creative-industry-insights-070324</guid>
+      <pubDate>Thu, 07 Mar 2024 09:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能的十几个想法</title>
+      <link>https://daverupert.com/2024/02/robo-barf/</link>
+      <description><![CDATA[人工智能。这是城里的话题（或者至少是今年）。最近几天我参加了数十场有关人工智能的对话。 
+]]></description>
+      <guid>https://daverupert.com/2024/02/robo-barf/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚里士多德——如何过上美好的生活</title>
+      <link>https://ralphammer.com/aristotle-how-to-live-a-good-life/</link>
+      <description><![CDATA[2400 年前，亚里士多德发现了如何快乐。他的《尼各马可伦理学》是一本美好生活的操作手册。
+]]></description>
+      <guid>https://ralphammer.com/aristotle-how-to-live-a-good-life/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helvetica 字体仍然是一个问题</title>
+      <link>https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/</link>
+      <description><![CDATA[三个奇怪地方的 CVE 以及安全处理和处理字体的独特问题。
+]]></description>
+      <guid>https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/</guid>
+      <pubDate>Thu, 07 Mar 2024 09:48:26 GMT</pubDate>
+    </item>
     <item>
       <title>无障碍黑暗</title>
       <link>https://html5accessibility.com/stuff/2024/03/03/accessibility-darkness-2/</link>
@@ -56,7 +96,7 @@
     <item>
       <title>“人工智能”和可访问的前端组件：细微差别是可以生成的吗？</title>
       <link>https://hidde.blog/ai-for-accessible-components/</link>
-      <description><![CDATA[法学硕士是帮助制作可访问的前端组件的有用工具吗？让我们找出答案。
+      <description><![CDATA[法学硕士是帮助制作可访问的前端组件的有用工具吗？让我们来看看吧。
 ]]></description>
       <guid>https://hidde.blog/ai-for-accessible-components/</guid>
       <pubDate>Tue, 05 Mar 2024 07:44:37 GMT</pubDate>
@@ -80,50 +120,10 @@
     <item>
       <title>为什么东京地铁会播放鸟哨声</title>
       <link>https://pantry.studio/blog/tokyo-metro</link>
-      <description><![CDATA[当日设计要点，以及如何将这种思维方式融入您的业务。
+      <description><![CDATA[当日设计要点，以及如何将这种思维方式融入到您的业务中。
 ]]></description>
       <guid>https://pantry.studio/blog/tokyo-metro</guid>
       <pubDate>Tue, 05 Mar 2024 07:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 CSS 工具提示和语音气泡（第 1 部分）</title>
-      <link>https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</link>
-      <description><![CDATA[在 CSS 中处理工具提示的方法有很多，尽管有些方法会因为它们需要的所有神奇数字而让人头疼。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shoop 标志由 Lizzie Frost 设计</title>
-      <link>https://www.logodesignlove.com/shoop</link>
-      <description><![CDATA[Shoop 标志就像 Shoop 的招牌菜一样温暖而诱人。由马德里平面设计师 Lizzie Frost 设计。
-]]></description>
-      <guid>https://www.logodesignlove.com/shoop</guid>
-      <pubDate>Mon, 04 Mar 2024 05:27:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kottke.org 重新设计，融入 2024 年氛围</title>
-      <link>https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes</link>
-      <description><![CDATA[嗯。最后。我对推出期待已久的（由我）重新设计的 kottke.org 感到无比高兴、宽慰和疲惫
-]]></description>
-      <guid>https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes</guid>
-      <pubDate>Mon, 04 Mar 2024 05:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对整个 CSS-Tricks 的看法</title>
-      <link>https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/</link>
-      <description><![CDATA[2022 年 3 月，我将 CSS-Tricks 卖给了 DigitalOcean。所以现在已经过去了大约2年。 
-]]></description>
-      <guid>https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 17.4 毕竟不会删除欧盟的主屏幕网络应用程序</title>
-      <link>https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/</link>
-      <description><![CDATA[上个月，Apple 确认 iOS 17.4 将取消对欧盟主屏幕网络应用程序的支持。 
-]]></description>
-      <guid>https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:24:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
