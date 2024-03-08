@@ -4,7 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 07 Mar 2024 21:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:55:05 GMT</lastBuildDate>
+    <item>
+      <title>我的 Windows 白鲸现在可以在我的 Mac 上运行 ↦</title>
+      <link>https://sixcolors.com/link/2024/03/my-windows-white-whale-now-runs-on-my-mac/</link>
+      <description><![CDATA[它并不漂亮，但从来都不是。重点是，它运行了！
+上个月，Dan 写了一篇关于使用 Apple 的游戏移植工具包和 Wine API 翻译工具在 Mac 上运行 PC 游戏的文章，所有这一切都是通过一个名为 Whisky 的易于使用的免费应用程序实现的。]]></description>
+      <guid>https://sixcolors.com/link/2024/03/my-windows-white-whale-now-runs-on-my-mac/</guid>
+      <pubDate>Thu, 07 Mar 2024 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>VisionOS 1.1 改进了角色，添加了 MDM 支持 ↦</title>
+      <link>https://sixcolors.com/link/2024/03/visionos-1-1-improves-personas-adds-mdm-support/</link>
+      <description><![CDATA[第一个主要的visionOS更新于周四发布，其中包含大量安全修复以及一些更实质性的界面更新：
+
+人物角色得到了改进，并且您可以使用新的辅助模式来免提捕捉人物角色。…]]></description>
+      <guid>https://sixcolors.com/link/2024/03/visionos-1-1-improves-personas-adds-mdm-support/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:26:32 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲给了苹果改变态度的机会……但它会吗？</title>
       <link>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</link>
@@ -25,7 +42,7 @@
       <title>M3 MacBook Air 评测：更多的是好东西</title>
       <link>https://sixcolors.com/post/2024/03/m3-macbook-air-review-more-of-a-good-thing/</link>
       <description><![CDATA[ 午夜 M3 MacBook Air 在合盖模式下驱动两台 Studio 显示器。
-随着 M2 MacBook Air 的发布，Apple 过去十年的权威笔记本电脑 MacBook Air 终于在 2022 年进行了外观重新设计。…]]></description>
+随着 M2 MacBook Air 的发布，苹果过去十年中最具影响力的笔记本电脑 MacBook Air 终于在 2022 年进行了外观重新设计。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/m3-macbook-air-review-more-of-a-good-thing/</guid>
       <pubDate>Thu, 07 Mar 2024 14:00:49 GMT</pubDate>
     </item>
@@ -56,7 +73,7 @@
       <title>我们还没有看到最后的 Apple Car（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</link>
       <description><![CDATA[再见，泰坦计划，我们从来不认识你。
-尽管苹果雄心勃勃的汽车项目可能已经被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
+尽管苹果雄心勃勃的汽车项目可能已被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
       <guid>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</guid>
       <pubDate>Wed, 06 Mar 2024 14:13:43 GMT</pubDate>
     </item>
@@ -71,7 +88,7 @@
       <title>创建更高分辨率的 Vision Pro 全景图 ↦</title>
       <link>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</link>
       <description><![CDATA[
-我最喜欢的 Vision Pro 功能之一是动态显示摄影全景图。身临其境的环境很棒，我喜欢现在可以捕捉立体视频，但我有一个巨大的全景库，可以追溯到 20 世纪 90 年代。…]]></description>
+我最喜欢的 Vision Pro 功能之一是全景照片的动态显示。身临其境的环境很棒，我喜欢现在可以捕捉立体视频，但我有一个巨大的全景库，可以追溯到 20 世纪 90 年代。…]]></description>
       <guid>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</guid>
       <pubDate>Wed, 06 Mar 2024 00:29:30 GMT</pubDate>
     </item>
@@ -102,25 +119,9 @@
       <title>Apple 更新 13 英寸和 15 英寸 MacBook Air，配备 M3 芯片，支持两个外部显示器</title>
       <link>https://sixcolors.com/post/2024/03/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/</link>
       <description><![CDATA[
-如果您一直在为苹果最受欢迎的笔记本电脑型号配备最新处理器做好准备，那么，是时候点燃蜡烛了。该公司周一宣布，它已使用 M3 处理器更新了 MacBook Air 系列，不仅带来了更快的性能，而且还提供了一项备受期待的新功能：支持两个外部显示器。…]]></description>
+如果您一直在为苹果最受欢迎的笔记本电脑型号准备最新的处理器做好准备，那么，是时候点燃蜡烛了。该公司周一宣布，它已使用 M3 处理器更新了 MacBook Air 系列，不仅带来了更快的性能，而且还提供了一项备受期待的新功能：支持两个外部显示器。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/apple-updates-13-and-15-inch-macbook-air-with-m3-chips/</guid>
       <pubDate>Mon, 04 Mar 2024 13:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>安息吧苹果汽车：并非所有的赌博都会有回报</title>
-      <link>https://sixcolors.com/post/2024/03/rip-apple-car-not-all-gambles-pay-off/</link>
-      <description><![CDATA[
-曾经有一段时间，Apple Car 似乎很有意义。十年前，当 Apple Watch 还只是一个谣言时（我还在一家杂志社工作），整个汽车行业似乎正处于巨大变革的边缘，而传统厂商并没有意识到这一点。准备好了。…]]></description>
-      <guid>https://sixcolors.com/post/2024/03/rip-apple-car-not-all-gambles-pay-off/</guid>
-      <pubDate>Fri, 01 Mar 2024 22:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）科利德</title>
-      <link>https://sixcolors.com/sponsor/2024/03/kolide-37/</link>
-      <description><![CDATA[感谢 Kolide 本周再次赞助六色。
-您可能听说过 2023 年 9 月发生的米高梅勒索软件攻击。但除了老虎机损坏和其他轶事之外，事实是这是一种新兴攻击方式的例子，我们肯定会看到更多。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/03/kolide-37/</guid>
-      <pubDate>Fri, 01 Mar 2024 19:48:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
