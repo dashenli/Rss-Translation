@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:24:42 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Fri, 08 Mar 2024 15:15:51 GMT</lastBuildDate>
+    <item>
+      <title>Sweaty Betty 放弃精品品牌以跟上现代态度</title>
+      <link>https://www.itsnicethat.com/news/fluoro-sweaty-betty-graphic-design-080324</link>
+      <description><![CDATA[时尚薄 sans 的时代已经一去不复返了；运动服品牌 Sweaty Betty 推出了 Fluoro 的标识系统，强调新的品牌信息“别出汗”。]]></description>
+      <guid>https://www.itsnicethat.com/news/fluoro-sweaty-betty-graphic-design-080324</guid>
+      <pubDate>Fri, 08 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>&Walsh 为一家新广告公司设计的五个标志在显微镜下模仿生物体</title>
       <link>https://www.itsnicethat.com/articles/and-walsh-qx-graphic-design-project-070324</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个具有不敬的、短暂的美学的食品或饮料品牌？我们要两个。]]></description>
       <guid>https://www.itsnicethat.com/articles/the-young-jerks-graphic-design-discover-040324</guid>
       <pubDate>Mon, 04 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>摄影师 Female Pentimento 正在帮助互联网进入新世界</title>
-      <link>https://www.itsnicethat.com/features/female-pentimento-photography-digital-spotlight-040324</link>
-      <description><![CDATA[她的天堂般的摄影让她的观众为之着迷。在这里，我们谈论正念、平衡和在线图像制作的压力。]]></description>
-      <guid>https://www.itsnicethat.com/features/female-pentimento-photography-digital-spotlight-040324</guid>
-      <pubDate>Mon, 04 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

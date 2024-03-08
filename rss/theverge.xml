@@ -4,7 +4,82 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Mar 2024 09:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 15:13:59 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 已收到 68,000 份 R2 预订</title>
+      <link>https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Rivian
+
+自推出以来不到 24 小时，Rivian R2 已经证明非常受欢迎。该公司首席执行官 RJ Scaringe 表示，这款售价 45,000 美元的中型电动 SUV 已经收到“超过 68,000 份预订”。 
+“我们很高兴看到这辆车与我们的社区产生如此强烈的共鸣！” Scaringe 在 X 上的一篇帖子中说道。
+Rivian 推出了 R2，以及更紧凑的 R3 和 R3X，周四在加利福尼亚州拉古纳海滩举行的活动中。新款电动汽车比该公司目前的产品系列更便宜，目前产品系列由 R1T 卡车和 R1S 组成，每款售价超过 70,000 美元。 
+当然，预订 R2 的门槛相当低&lt; /div&gt;
+可以肯定的是，预订 R2 的门槛相当低。根据 Rivian 的预订协议，押金仅需 100 美元，并且可全额退还。相比之下，特斯拉收取了 1,000 美元（也可退款），以便在 2016 年首次宣布 Model 3 时预订 Model 3。预订者没有义务在车辆上市时实际购买该车辆。 
+此外，Rivian 不一定能够将收到的 680 万美元预订现金直接转入其银行账户。根据该公司的服务条款，这笔钱“将由 Rivian 存放在专门用于预购的单独账户中，并在您执行最终销售协议时用于支付您所选车辆的最终销售价格。” 
+尽管如此，68,000 份预订表明至少有很多人渴望排队等待 Rivian R2 成为现实。该公司甚至还没有开放 R3 或 R3X 的预订，它们的价格比 R2 更便宜，而且引起的关注甚至更多。 
+Rivian 表示 R2 将于 2026 年上半年投入生产。该公司将日期从 2026 年底推迟到 暂停其位于佐治亚州价值 50 亿美元的工厂。 
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/3/8/24094270/rivian-r2-reservation-number-price-refund</guid>
+      <pubDate>Fri, 08 Mar 2024 14:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软称俄罗斯黑客在监视其高管后窃取了源代码</title>
+      <link>https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+微软 透露今年早些时候，俄罗斯国家支持的黑客一直在监视其高级领导团队一些成员的电子邮件帐户。现在，微软披露此次攻击来自 SolarWinds 攻击还导致一些源代码被盗，微软将其描述为持续攻击。
+“最近几周，我们发现有证据表明 Midnight Blizzard [Nobelium] 正在使用最初从我们公司电子邮件系统中泄露的信息来获取或试图获取未经授权的访问，”微软在  href=&quot;https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/&quot;&gt;博客文章。 “这包括访问公司的一些源代码存储库和内部系统。迄今为止，我们还没有发现任何证据表明 Microsoft 托管的面向客户的系统已受到损害。”
+尚不清楚访问了哪些源代码，但微软警告称，Nobelium 组织或“午夜暴雪”是微软指的是他们，现在正在尝试使用“已发现的不同类型的秘密”来尝试进一步破坏软件巨头，其潜在客户。微软表示：“其中一些机密是通过电子邮件在客户和微软之间共享的，当我们在泄露的电子邮件中发现这些机密时，我们已经并且正在联系这些客户，帮助他们采取缓解措施。”
+
+Nobelium 最初去年通过密码喷射攻击访问了微软的系统。这种类型的攻击是一种暴力方法，黑客利用大量潜在密码字典来攻击帐户。 Microsoft 配置了一个未启用双因素身份验证的非生产测试租户帐户，从而允许 Nobelium 获得访问权限。
+“在整个 Microsoft 中，我们增加了安全投资、跨企业协调和动员，并增强了我们的自我防御能力以及保护和强化我们的环境以抵御这种高级持续威胁的能力，”Microsoft 表示。 “我们已经并将继续实施额外的增强安全控制、检测和监控。”
+针对 Microsoft 的攻击最初发生在该公司宣布其 计划在严重的 Azure 云攻击后彻底检查其软件安全性。近年来，Microsoft 一直是数起备受瞩目的安全攻击的中心，其中包括 30,000 个组织的 由于 Microsoft Exchange Server 缺陷和中国黑客，电子邮件服务器在 2021 年遭到黑客攻击去年通过 Microsoft 云漏洞入侵美国政府电子邮件。
+微软仍在调查 Nobelium 对其系统的最新攻击。 “我们对午夜暴雪活动的积极调查正在进行中，我们的调查结果将继续发展，”微软表示。 “我们仍然致力于分享我们所学到的知识。”]]></description>
+      <guid>https://www.theverge.com/2024/3/8/24094287/microsoft-hack-russian-security-attack-stolen-source-code</guid>
+      <pubDate>Fri, 08 Mar 2024 14:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>与智能家居过去的幽灵共存</title>
+      <link>https://www.theverge.com/24073300/smart-home-new-house-old-tech</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24073300/smart-home-new-house-old-tech</guid>
+      <pubDate>Fri, 08 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《纽约时报》正通过法律手段打击 Wordle 克隆产品</title>
+      <link>https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs</link>
+      <description><![CDATA[&lt;图&gt;
+      
+一些开发者已经撤下了他们的Wordle克隆，以避免与纽约时报发生法律纠纷。 |摄影：Mike Kemp / 图片来自 Getty Images
+
+数百款受《Wordle》（流行的网络填字游戏）启发的游戏，由于《纽约时报》发布的版权删除规定而面临被删除的风险 /em&gt;. 据 404 Media 报道、纽约时报（早在 2022 年就收购了 Wordle）已就 Wordle 克隆产品提交了几份 DMCA 通知由 GitHub 编码人员创建，引用其对 Wordle 名称和受版权保护的游戏玩法的所有权，包括 5x6 磁贴布局和灰色、黄色和绿色配色方案。
+1 月份针对 非官方韩语和波斯尼亚语版本的游戏。本周还针对 Wirdle 提出了更多请求——由方言团体 I Hear Dee 在 2022 年创建的变体，旨在推广 Shaetlan 语言——以及 Reactle，一个使用 React、TypeScript 构建的开源 Wordle 克隆和顺风。据其开发商 Chase Wackerfuss 称，该游戏是在时代购买该游戏之前开发的。
+
+
+收到了 DMCA 请求，要求获得我于 2022 年在 Github 上制作的 Yorùbá Wordle 克隆...@nytimes 你们真是一个不严肃的组织。你们甚至不提供其他语言的 Wordle，而且我几乎可以肯定，如果我删除“Wordle”名称，无论如何我都会没事。疯狂。 pic.twitter.com/xVw7nrW5bZ— Báyọ̀ (@bayo_gbakinro) 2024 年 3 月 6 日
+
+
+Reactle 代码已被复制约 1,900 次，根据 GitHub，允许开发人员在此基础上创建各种受 Wordle 启发的游戏，这些游戏使用不同的语言、主题和视觉风格，其中一些404 Media 称其中与 Wordle“有很大不同”。针对 Reactle 的 DMCA 通知还针对从 GitHub 上的原始 Reactle 代码分叉的所有这些游戏，声称包含 Wordle 名称的衍生产品已被“恶意”制作，并且在 Reactle 存储库中“游戏玩法被完全复制”。许多在黑客新闻帖子上发表评论的开发者也声称自己已成为 DMCA 删除的目标。
+Reactle 程序员 Wackerfuss 已删除该游戏，并告诉404 Media他不想与泰晤士报打官司。
+在给 404 Media 的一份声明中，泰晤士报表示：
+《纽约时报》对个人创建类似文字游戏但不侵犯《纽约时报》的“Wordle”商标或受版权保护的游戏玩法没有异议。 《纽约时报》对一名 GitHub 用户和其他分享其代码的用户采取了行动，以捍卫其在 Wordle 中的知识产权。该用户创建了一个“Wordle 克隆”项目，指导其他人如何创建《泰晤士报》Wordle 游戏的山寨版本，其中包含许多相同的受版权保护的元素。结果，数百个网站开始出现山寨“Wordle”游戏，这些游戏在未经授权或许可的情况下使用了《泰晤士报》的“Wordle”商标和受版权保护的游戏玩法。
+有趣的是，Wordle有自己的因与 Lingo 有着惊人的相似之处而受到批评，Lingo 是一个 1980 年代的游戏节目，主要内容是玩家猜五项-字母单词，带有根据准确性改变颜色的网格。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/8/24094234/ny-times-wordle-clones-files-dmca-copyright-takedowns-knockoffs</guid>
+      <pubDate>Fri, 08 Mar 2024 13:59:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次拥有智能家居的笨手笨脚的困境</title>
+      <link>https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24062531/first-time-smart-home-nest-thermostat-govee</guid>
+      <pubDate>Fri, 08 Mar 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>《堡垒之夜》新一季将希腊诸神带入大逃杀</title>
       <link>https://www.theverge.com/2024/3/8/24093527/fortnite-chapter-5-season-2-greek-gods-battle-royale</link>
@@ -61,7 +136,7 @@
       <link>https://www.theverge.com/2024/3/7/24093716/ea-steam-classics-dungeon-keeper-simcity-populous</link>
       <description><![CDATA[&lt;图&gt;
       
-人口众多。 |图片来源：EA
+人口众多。 |图片：EA
 
 还没有最近 EA 有很多好消息，但这里有一些：该公司刚刚推出Steam 上的一堆经典游戏。新（旧）版本总共包括九款游戏，涵盖《地下城守护者》、《Populous》和《模拟城市》等系列。
 以下是完整列表：
@@ -87,88 +162,6 @@ Sid Meier 的半人马座阿尔法星行星包
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24090194/apple-m3-macbook-air-13-15-inch-2024-preorder-how-to-buy-release-date-price</guid>
       <pubDate>Thu, 07 Mar 2024 20:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian R2、R3 和 R3X 发布会：电动汽车公司更实惠的 SUV 来了</title>
-      <link>https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Abigail Bassett / The Verge
-
-R2 要到 2026 年才会上市销售，但这款小型电动 SUV 对于这家年轻公司来说是至关重要的产品。  多年来，Rivian 一直承诺生产一款更小、更实惠的电动 SUV，与价格更高的 R1T 和 R1S 车型并驾齐驱，这一天终于到来了。该公司公布了 R2 直播活动于 2024 年 3 月 7 日太平洋时间上午 10 点（东部时间下午 1 点）在加利福尼亚州拉古纳海滩举行。
-更实惠的 SUV 目标是在 2026 年上半年推出。它的起价为 45,000 美元，一次充电预计续航里程为 330 英里，0 至 60 英里每小时加速时间不到三秒。 Rivian 还展示了另一款小型车辆，R3跨界车和运动型 R3X 变体。
-
-  @verge 在备受期待的 R2 发布之后，Rivian 首席执行官推出了 R2 的兄弟产品 R3 及其性能配置 R3X。两者都是以较小的封装形式构建的，该公司致力于“让小型汽车感觉很大”#rivian #R2 #R3 #R3X #evs #carsoftiktok  ♬ 原声 - The Verge  
-
-这是 Rivian 的重要工具，在电动汽车销量增长普遍放缓的情况下，该公司一直在努力实现盈利。 Rivian 被称为“纯电动汽车”，这意味着它只生产电动汽车，没有任何内燃机，甚至没有混合动力汽车，可以在销量开始下滑时依靠。该公司已经历多轮裁员近年来，并警告称其销售额可能会在 2024 年保持平稳。
-R2 让我们一睹 Rivian 将如何应对这个更加不确定的未来。它会是该公司的特斯拉 Model 3 吗？只有时间会给出答案。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/5/24091079/rivian-r2-ev-launch-suv-price-live</guid>
-      <pubDate>Thu, 07 Mar 2024 20:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 推出 R3 和 R3X 电动 SUV 带来惊喜</title>
-      <link>https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-Rivian 借鉴了史蒂夫·乔布斯 (Steve Jobs) 的做法，并在今天于加利福尼亚州举行的 R2 揭晓活动中展示了“另一件事”。这真是令人震惊。 
-Rivian R3 是一款比 R2 稍短、更具运动感的电动 SUV，它将推出一款名为 R3X 的高性能版本。 Rivian 创始人兼首席执行官 RJ Scaringe 表示，R3“采用了 R2 平台的封装，并对其进行了缩小。”
-
-该公司表示，R3“的设计尺寸比 R2 更紧凑，而且价格更低”，但并未立即公布 R3 的价格。 R3 的预订将于稍后开始。 
-与方形的 R2 相比，R3 和 R3X 具有倾斜的后端。与 R2 一样，它将有两种电池尺寸，续航里程均超过 300 英里，从零到 60 英里/小时的加速时间为三秒。该公司表示，R3X 将具有“更多的动态能力，无论是公路还是越野”。 
-
-
-
-R3 和 R3X 将在 R2“不久”推出，“以确保 R2 的顺利推出和快速提升”，该公司表示。这是基于该公司同时推出 R1T、R1S 和 EDV 货车的“经验教训”。这些车辆在北美推出后还将推向国际市场，但具体时间表尚未公布。 
-与 R2 一样，R3 和 R3X 将采用 Rivian 的新型 4695 圆柱形电池，比 Tesla 的 4680 电池高 15 毫米。它将拥有直接内置于车辆中的特斯拉 NACS 充电端口的原生版本。 Rivian 表示，直流快速充电将在大约 30 分钟内将 R3 从 10% 充电到 80%。 
-
-该公司还承诺推出功能更强大的计算机，并配备包括 11 个摄像头和 5 个雷达的传感器套件。 R3 将具有“显着增强的自主能力”，尽管该公司没有具体说明它的自动化水平。 
-
-Scaringe 在活动期间强调的功能之一是后门窗可以升起，以提供额外的存储空间，尤其是长物品。 （他称其为“翻转玻璃”，但不清楚这是昵称还是更官方的名称。）与 R2 一样，后排座椅可平放以增加载货空间，他说这“为车内乘客创造了机会”。露营。”
-关于 R3 还有很多未知之处，但如果 R​​2 的目的是与特斯拉 Model Y 和福特野马 Mach-E 等大佬竞争，那么 R3 看起来更像是竞争对手韩国电动汽车，如现代 Ioniq 5 和起亚 EV6。 
-
-“这就是我们每一季在工作室里走来走去时的交通工具，你会说哦，我非常想要它，”斯卡林奇说。
-
-相关：
-
-
-
-美国东部时间 3 月 7 日下午 4:15 更新：“还有一件事”是史蒂夫·乔布斯 (Steve Jobs) Apple 演讲的标志。这个故事的先前版本错误地将其归因于埃隆·马斯克（他已使用过多次）。我们对这个错误感到遗憾。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs</guid>
-      <pubDate>Thu, 07 Mar 2024 19:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在马里奥日之前，一些最好的 Switch 游戏可享受 20 美元折扣</title>
-      <link>https://www.theverge.com/2024/3/7/24092444/mario-kart-8-deluxe-ugreen-magsafe-charging-stand-logitech-crayon-stylus-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/7/24092444/mario-kart-8-deluxe-ugreen-magsafe-charging-stand-logitech-crayon-stylus-deal-sale</guid>
-      <pubDate>Thu, 07 Mar 2024 18:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>《守望先锋 2》与《星际牛仔》的合作再次赢得了我的青睐</title>
-      <link>https://www.theverge.com/2024/3/7/24093455/overwatch-2-cowboy-bebop-collaboration</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：暴雪
-
-《守望先锋》 2 自推出以来已经进行了一些合作。首先是一拳超人合作&lt; /a&gt; 大拳头英雄末日铁拳获得了非常合适的埼玉皮肤。下一个跨界是针对韩国流行音乐粉丝的，《守望先锋》的杰出女性英雄从女子组合 Le Sserafim 获取皮肤。但在我看来，最新的合作是迄今为止最好的合作。 3... 2... 1... 让我们即兴演奏吧。
-3 月 12 日，《守望先锋 2》 将星际牛仔引入游戏，您将能够解锁  的皮肤Bebop 团队：斯派克·斯皮格尔 (Spike Spiegel) 饰演卡西迪 (Cassidy)、费伊·瓦伦丁 (Faye Valentine) 饰演艾什 (Ashe)、杰特·布莱克 (Jet Black) 饰演毛加 (Mauga)、艾德 (Ed) 饰演黑影 (Sombra)，而可爱的柯基犬艾因 (Ein) 则获得了破坏球皮肤。这些传奇皮肤的细节让我大吃一惊。卡西迪的枪是以斯派克标志性的剑鱼船为模型的。艾什的 Faye 皮肤改变了她的机器人伴侣（和终极能力）B.O.B.进入费耶的船“红尾号”。 
-除了皮肤之外，还将有各种Bebop主题喷雾、亮点介绍和表情。我非常确信Bebop的大多数最具标志性的时刻都会被纪念——如果没有潘趣和朱迪喷雾，我将会引起骚动——但是我希望《守望先锋》团队添加一些更深层次的剪辑，包括参考该剧 2001 年上映的精彩电影。
-最重要的是，这次合作将采用动漫传奇配乐中的音乐。可能启动《守望先锋》并听到“The Real Folk Blues”或“Spokey Dokey”或“Rush”的想法让我非常激动。尽管这款游戏自 2016 年推出以来一直牢牢地扎在我的心中，但我已经好几个月没有玩过《守望先锋 2》了，因为什锦 原因。
-但我回来就是为了这个。太空牛仔们，3 月 12 日起见。
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/3/7/24093455/overwatch-2-cowboy-bebop-collaboration</guid>
-      <pubDate>Thu, 07 Mar 2024 18:31:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian R2 揭晓：一款售价 45,000 美元的大众电动越野车</title>
-      <link>https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price</guid>
-      <pubDate>Thu, 07 Mar 2024 18:20:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
