@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 06:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 09:16:04 GMT</lastBuildDate>
+    <item>
+      <title>无障碍黑暗</title>
+      <link>https://html5accessibility.com/stuff/2024/03/03/accessibility-darkness-2/</link>
+      <description><![CDATA[昨晚在我的手机上浏览互联网时，进入了 #a11y 工业园区的中心地带。 
+]]></description>
+      <guid>https://html5accessibility.com/stuff/2024/03/03/accessibility-darkness-2/</guid>
+      <pubDate>Wed, 06 Mar 2024 07:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们需要谈谈雅各布</title>
+      <link>https://buttondown.email/practicaltips/archive/we-need-to-talk-about-jakob/</link>
+      <description><![CDATA[雅各布·尼尔森上周的一个早晨醒来后选择了暴力。
+]]></description>
+      <guid>https://buttondown.email/practicaltips/archive/we-need-to-talk-about-jakob/</guid>
+      <pubDate>Wed, 06 Mar 2024 07:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的盖茨比之旅的结束</title>
+      <link>https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/</link>
+      <description><![CDATA[胡安·迭戈·罗德里格斯反思了他停止使用 Gatsby 作为首选框架的决定。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/</guid>
+      <pubDate>Wed, 06 Mar 2024 06:58:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>arun.is 内部 · 相机插图</title>
+      <link>https://arun.is/blog/camera-illustrations/</link>
+      <description><![CDATA[我在摄影散文结尾处使用的相机插图的幕后花絮。
+]]></description>
+      <guid>https://arun.is/blog/camera-illustrations/</guid>
+      <pubDate>Wed, 06 Mar 2024 06:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>90%的设计师都招不到人？</title>
+      <link>https://matejlatin.com/blog/90-percent-of-designers-are-unhirable/</link>
+      <description><![CDATA[或者为什么你的千篇一律的投资组合不能切合它以及如何解决它
+]]></description>
+      <guid>https://matejlatin.com/blog/90-percent-of-designers-are-unhirable/</guid>
+      <pubDate>Wed, 06 Mar 2024 06:54:17 GMT</pubDate>
+    </item>
     <item>
       <title>Drams - 受 Dieter Rams 原则启发的 Framer 组件</title>
       <link>https://drams.framer.website/</link>
@@ -16,7 +56,7 @@
     <item>
       <title>“人工智能”和可访问的前端组件：细微差别是可以生成的吗？</title>
       <link>https://hidde.blog/ai-for-accessible-components/</link>
-      <description><![CDATA[法学硕士是帮助制作可访问的前端组件的有用工具吗？让我们来看看吧。
+      <description><![CDATA[法学硕士是帮助制作可访问的前端组件的有用工具吗？让我们找出答案。
 ]]></description>
       <guid>https://hidde.blog/ai-for-accessible-components/</guid>
       <pubDate>Tue, 05 Mar 2024 07:44:37 GMT</pubDate>
@@ -40,7 +80,7 @@
     <item>
       <title>为什么东京地铁会播放鸟哨声</title>
       <link>https://pantry.studio/blog/tokyo-metro</link>
-      <description><![CDATA[当日设计要点，以及如何将这种思维方式融入到您的业务中。
+      <description><![CDATA[当日设计要点，以及如何将这种思维方式融入您的业务。
 ]]></description>
       <guid>https://pantry.studio/blog/tokyo-metro</guid>
       <pubDate>Tue, 05 Mar 2024 07:15:22 GMT</pubDate>
@@ -78,52 +118,12 @@
       <pubDate>Mon, 04 Mar 2024 05:24:33 GMT</pubDate>
     </item>
     <item>
-      <title>毕竟 iOS 17.4 不会删除欧盟的主屏幕网络应用程序</title>
+      <title>iOS 17.4 毕竟不会删除欧盟的主屏幕网络应用程序</title>
       <link>https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/</link>
       <description><![CDATA[上个月，Apple 确认 iOS 17.4 将取消对欧盟主屏幕网络应用程序的支持。 
 ]]></description>
       <guid>https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/</guid>
       <pubDate>Mon, 04 Mar 2024 05:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅 CSS 底部锚定滚动区域</title>
-      <link>https://kittygiraudel.com/2024/02/26/css-only-bottom-anchored-scrolling-area/</link>
-      <description><![CDATA[假设您有一个可滚动区域，可以像提要一样显示按时间顺序排列的内容。
-]]></description>
-      <guid>https://kittygiraudel.com/2024/02/26/css-only-bottom-anchored-scrolling-area/</guid>
-      <pubDate>Fri, 01 Mar 2024 06:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 开关控件</title>
-      <link>https://webkit.org/blog/15054/an-html-switch-control/</link>
-      <description><![CDATA[我们非常高兴能够在 Safari 17.4 中引入新的 HTML 表单控件：开关。​​
-]]></description>
-      <guid>https://webkit.org/blog/15054/an-html-switch-control/</guid>
-      <pubDate>Fri, 01 Mar 2024 06:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是实用优先 CSS？</title>
-      <link>https://heydonworks.com/article/what-is-utility-first-css/</link>
-      <description><![CDATA[了解实用优先的 CSS 以及在此上下文中“实用”的含义
-]]></description>
-      <guid>https://heydonworks.com/article/what-is-utility-first-css/</guid>
-      <pubDate>Fri, 01 Mar 2024 06:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 JavaScript 膨胀</title>
-      <link>https://tonsky.me/blog/js-bloat/</link>
-      <description><![CDATA[每个网站下载的 JavaScript 代码的平均大小是多少？让我们来看看吧！
-]]></description>
-      <guid>https://tonsky.me/blog/js-bloat/</guid>
-      <pubDate>Fri, 01 Mar 2024 06:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>翼型</title>
-      <link>https://ciechanow.ski/airfoil/</link>
-      <description><![CDATA[互动文章解释机翼的物理原理以及飞机飞行的原理。
-]]></description>
-      <guid>https://ciechanow.ski/airfoil/</guid>
-      <pubDate>Fri, 01 Mar 2024 05:55:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
