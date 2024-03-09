@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 09 Mar 2024 03:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 06:19:08 GMT</lastBuildDate>
+    <item>
+      <title>搭载M3的MacBook Air 13英寸评测：成功进化，但缺乏新机型特有的果断</title>
+      <link>https://wired.jp/article/apple-macbook-air-13-inch-2024-review/</link>
+      <description><![CDATA[Apple 已使用其最新的专有芯片 M3 更新了 MacBook Air。性能和功能稳步提升，同时保留了M2搭载的旧型号的设计，但由于旧型号的完美程度很高，因此没有果断决定采用新型号。]]></description>
+      <guid>https://wired.jp/article/apple-macbook-air-13-inch-2024-review/</guid>
+      <pubDate>Sat, 09 Mar 2024 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部调查显示 Sam Altman 重返 OpenAI 董事会</title>
+      <link>https://wired.jp/article/sam-altman-is-reinstated-to-openais-board/</link>
+      <description><![CDATA[OpenAI 宣布，根据内部调查结果，首席执行官 Sam Altman 将重返董事会。同时，三名女性高管将从外部加入公司担任董事，旨在加强治理。]]></description>
+      <guid>https://wired.jp/article/sam-altman-is-reinstated-to-openais-board/</guid>
+      <pubDate>Sat, 09 Mar 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谁该为 Cyber​​truck 的“生锈”负责：2024 年 2 月阅读次数最多的 10 个故事</title>
       <link>https://wired.jp/article/10-most-read-stories-february-2024/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[初创公司 Groq 正在开发一款专用人工智能芯片和一个几乎可以立即回答问题的聊天机器人。我们向创建谷歌 TPU 的公司首席执行官询问了该技术将实现什么。]]></description>
       <guid>https://wired.jp/article/plaintext-groq-mindblowing-chatbot-answers-instantly/</guid>
       <pubDate>Thu, 07 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当地报纸网站传播大量“生成内容”，这是利用人工智能的“点击诱饵工厂”背后的秘密</title>
-      <link>https://wired.jp/article/iowa-newspaper-website-ai-generated-clickbait-factory/</link>
-      <description><![CDATA[由于某种原因，美国当地一家报纸的网站正在传播大量低质量的财经内容。为了解决这个谜团，出现了一个以波兰为中心的网络，该网络使用人工智能生成“点击诱饵”（钓鱼文章）。]]></description>
-      <guid>https://wired.jp/article/iowa-newspaper-website-ai-generated-clickbait-factory/</guid>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推动时尚的创意思维：本月深圳会员精选文章（2024 年 3 月）</title>
-      <link>https://wired.jp/article/membership-stories-march-2024/</link>
-      <description><![CDATA[实现未来的媒体《WIRED》日本版的实验领域《SZ Membership》3月份每周向会员发布的文章主题是《FOOD》 、“互联网”、“健康”和“创造力”。我们将介绍一些最值得注意的故事。]]></description>
-      <guid>https://wired.jp/article/membership-stories-march-2024/</guid>
-      <pubDate>Wed, 06 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
