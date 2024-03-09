@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 09 Mar 2024 18:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 21:12:59 GMT</lastBuildDate>
+    <item>
+      <title>加沙战争时期的蛋糕</title>
+      <link>https://npr.org/2024/03/09/1236883232/gaza-bakery-israel-hamas-war</link>
+      <description><![CDATA[拉法的一家专业面包店 Batool Cakes 已重新开业，以满足流离失所的巴勒斯坦人寻求蛋糕来庆祝战争期间生活的需求。]]></description>
+      <guid>https://npr.org/2024/03/09/1236883232/gaza-bakery-israel-hamas-war</guid>
+      <pubDate>Sat, 09 Mar 2024 18:01:08 GMT</pubDate>
+    </item>
     <item>
       <title>德克萨斯州直升机坠毁，两名国民警卫队成员和边境巡逻人员丧生</title>
       <link>https://npr.org/2024/03/09/1237184128/texas-helicopter-crash-national-guard-border-patrol-deaths</link>
@@ -99,16 +106,9 @@
     <item>
       <title>为什么《龙珠》的创作者鸟山明对动漫世界如此重要</title>
       <link>https://npr.org/2024/03/08/1237072321/akira-toriyama-dragon-ball-creator-dies-manga-anime</link>
-      <description><![CDATA[鸟山明去世，享年 68 岁。他因其畅销漫画系列龙珠而闻名于世，该漫画系列催生了热门动漫系列龙珠 Z、多部电影、和视频游戏。]]></description>
+      <description><![CDATA[鸟山明去世，享年 68 岁。他因畅销漫画系列龙珠而闻名于世，该漫画系列催生了热门动漫系列龙珠 Z、多部电影、和视频游戏。]]></description>
       <guid>https://npr.org/2024/03/08/1237072321/akira-toriyama-dragon-ball-creator-dies-manga-anime</guid>
       <pubDate>Fri, 08 Mar 2024 20:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着最后期限的临近，科罗拉多河各州在水资源共享方面仍存在很大差距</title>
-      <link>https://npr.org/2024/03/08/1237056819/as-a-deadline-approaches-colorado-river-states-are-still-far-apart-on-water-shar</link>
-      <description><![CDATA[在下周的最后期限之前，共享科罗拉多河的七个州已经公布了关于未来如何管理这条河的相互竞争的计划。]]></description>
-      <guid>https://npr.org/2024/03/08/1237056819/as-a-deadline-approaches-colorado-river-states-are-still-far-apart-on-water-shar</guid>
-      <pubDate>Fri, 08 Mar 2024 20:45:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
