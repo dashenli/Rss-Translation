@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 00:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 03:13:35 GMT</lastBuildDate>
+    <item>
+      <title>瑞典和加拿大恢复为联合国巴勒斯坦援助机构提供资金</title>
+      <link>https://npr.org/2024/03/09/1237222713/sweden-canada-aid-unrwa-gaza-palestinians</link>
+      <description><![CDATA[在以色列指控近东救济工程处数千名员工中的 12 人参与 10 月 7 日哈马斯袭击后，许多国家停止了资助。]]></description>
+      <guid>https://npr.org/2024/03/09/1237222713/sweden-canada-aid-unrwa-gaza-palestinians</guid>
+      <pubDate>Sun, 10 Mar 2024 02:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司表示，在半空中爆炸的门塞上找不到文件</title>
       <link>https://npr.org/2024/03/09/1237204488/boeing-door-plug-alaska-airlines-investigation</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在美国军方关于未经证实的 UFO 目击事件的最全面的报告中，国防部官员得出的结论是，大多数 1945 年以来的目击事件都源于普通事件。]]></description>
       <guid>https://npr.org/2024/03/08/1237100622/pentagon-ufo-report-no-evidence-alien-technology</guid>
       <pubDate>Fri, 08 Mar 2024 22:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇博克事件十年后，尼日利亚大规模绑架案卷土重来</title>
-      <link>https://npr.org/2024/03/08/1236994088/nigeria-school-kidnapping</link>
-      <description><![CDATA[短短一周内，尼日利亚就发生了两起大规模绑架事件。最近几天，在这个非洲人口最多的国家，数百名妇女和儿童被绑架。]]></description>
-      <guid>https://npr.org/2024/03/08/1236994088/nigeria-school-kidnapping</guid>
-      <pubDate>Fri, 08 Mar 2024 22:12:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
