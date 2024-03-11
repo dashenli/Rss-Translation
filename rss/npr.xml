@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 21:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:53:47 GMT</lastBuildDate>
+    <item>
+      <title>2024 年奥斯卡红毯造型</title>
+      <link>https://npr.org/sections/pictureshow/2024/03/10/1237289115/red-carpet-looks-from-the-2024-oscars</link>
+      <description><![CDATA[看看 2024 年奥斯卡颁奖典礼今年最令人难忘的红毯造型。]]></description>
+      <guid>https://npr.org/sections/pictureshow/2024/03/10/1237289115/red-carpet-looks-from-the-2024-oscars</guid>
+      <pubDate>Sun, 10 Mar 2024 20:45:20 GMT</pubDate>
+    </item>
     <item>
       <title>当美国援助船驶向加沙时，拜登再次警告内塔尼亚胡平民死亡</title>
       <link>https://npr.org/2024/03/10/1237266035/gaza-biden-netanyahu-humanitarian-aid</link>
@@ -41,17 +48,17 @@
       <pubDate>Sun, 10 Mar 2024 12:43:43 GMT</pubDate>
     </item>
     <item>
-      <title>作为哥伦比亚第一任左翼总统并不容易</title>
-      <link>https://npr.org/2024/03/10/1233908534/colombia-leftist-president-gustavo-petro-challenges</link>
-      <description><![CDATA[古斯塔沃·佩特罗面临着来自他认为哥伦比亚极度保守的深层政府的强烈反对。]]></description>
-      <guid>https://npr.org/2024/03/10/1233908534/colombia-leftist-president-gustavo-petro-challenges</guid>
-      <pubDate>Sun, 10 Mar 2024 12:00:18 GMT</pubDate>
-    </item>
-    <item>
       <title>工人阶级在拉塞尔·班克斯死后的《美国精神》中被淘汰</title>
       <link>https://npr.org/2024/03/10/1237083926/russell-banks-posthumous-novel-american-spirits</link>
       <description><![CDATA[这位已故作家经常描写工人阶级的孤独和孤立。他的新短篇小说集更加关注小镇生活的政治。]]></description>
       <guid>https://npr.org/2024/03/10/1237083926/russell-banks-posthumous-novel-american-spirits</guid>
+      <pubDate>Sun, 10 Mar 2024 12:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为哥伦比亚第一任左翼总统并不容易</title>
+      <link>https://npr.org/2024/03/10/1233908534/colombia-leftist-president-gustavo-petro-challenges</link>
+      <description><![CDATA[古斯塔沃·佩特罗面临着来自他认为哥伦比亚极度保守的深层政府的强烈反对。]]></description>
+      <guid>https://npr.org/2024/03/10/1233908534/colombia-leftist-president-gustavo-petro-challenges</guid>
       <pubDate>Sun, 10 Mar 2024 12:00:18 GMT</pubDate>
     </item>
     <item>
@@ -71,7 +78,7 @@
     <item>
       <title>拜登：内塔尼亚胡没有阻止加沙更多平民死亡，“伤害了以色列”</title>
       <link>https://npr.org/2024/03/10/1237221448/biden-netanyahu-hurting-israel-by-not-preventing-more-civilian-deaths-in-gaza</link>
-      <description><![CDATA[美国总统乔·拜登周六表示，他认为以色列总理本杰明·内塔尼亚胡在处理加沙哈马斯战争时“伤害以色列多于帮助以色列”。]]></description>
+      <description><![CDATA[美国总统乔·拜登周六表示，他认为以色列总理本雅明·内塔尼亚胡在处理加沙哈马斯战争时“伤害以色列多于帮助以色列”。]]></description>
       <guid>https://npr.org/2024/03/10/1237221448/biden-netanyahu-hurting-israel-by-not-preventing-more-civilian-deaths-in-gaza</guid>
       <pubDate>Sun, 10 Mar 2024 10:36:03 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[波音公司的一名高级官员告诉国会，员工广泛查找了门塞上的文件，但此类文件很可能从未存在过。]]></description>
       <guid>https://npr.org/2024/03/09/1237204488/boeing-door-plug-alaska-airlines-investigation</guid>
       <pubDate>Sat, 09 Mar 2024 21:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙战争时期的蛋糕</title>
-      <link>https://npr.org/2024/03/09/1236883232/gaza-bakery-israel-hamas-war</link>
-      <description><![CDATA[拉法的一家专业面包店 Batool Cakes 已重新开业，以满足流离失所的巴勒斯坦人寻求蛋糕来庆祝战争期间生活的需求。]]></description>
-      <guid>https://npr.org/2024/03/09/1236883232/gaza-bakery-israel-hamas-war</guid>
-      <pubDate>Sat, 09 Mar 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
