@@ -4,18 +4,25 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 11 Mar 2024 15:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 18:18:29 GMT</lastBuildDate>
+    <item>
+      <title>荷兰网络安全初创公司因在线攻击激增而获利 3600 万欧元</title>
+      <link>https://thenextweb.com/news/dutch-cybersecurity-startup-eye-36m</link>
+      <description><![CDATA[荷兰初创公司 Eye Security 已筹集 3600 万欧元，旨在保护欧洲企业来自网络犯罪分子。这家总部位于海牙的公司于 2020 年由一群荷兰情报和安全专家创立，为中小型公司提供网络保护、事件响应和网络保险服务。该轮融资由美国金融巨头摩根大通的私人投资部门摩根大通牵头，迄今为止，Eye Security 的融资总额达到 5750 万欧元。 Eye Security 计划利用这笔现金巩固其在荷兰、德国和比利时的业务。它还旨在扩展到其他欧洲国家。眼睛…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/dutch-cybersecurity-startup-eye-36m</guid>
+      <pubDate>Mon, 11 Mar 2024 15:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>观看：英国 DragonFire 激光武器的解密镜头</title>
       <link>https://thenextweb.com/news/declassified-footage-uk-dragonfire-laser-weapon</link>
-      <description><![CDATA[英国国防部 (MoD) 发布了 DragonFire 的解密镜头激光武器。 DragonFire 以光速发射高能光束。它非常精确，可以在一公里外炸毁硬币大小的目标。这段“前所未见”的镜头和图像显示了激光炮在赫布里底群岛（苏格兰海岸附近的一个偏远群岛）的一个地点上运行的情况。该视频还包括激光武器从空中击落军用无人机的 CGI 镜头——这是 DragonFire 潜在的现实生活用例之一。 DragonFire 正在开发用于…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[英国国防部 (MoD) 发布了 DragonFire 的解密镜头激光武器。 DragonFire 以光速发射高能光束。它非常精确，可以在一公里外炸毁硬币大小的目标。这段“前所未见”的镜头和图像显示了激光炮在赫布里底群岛（苏格兰海岸附近的一个偏远群岛）的一个地点上运行的情况。该视频还包括激光武器从空中击落军用无人机的 CGI 镜头——这是 DragonFire 潜在的现实生活用例之一。 DragonFire 正在开发用于这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/declassified-footage-uk-dragonfire-laser-weapon</guid>
       <pubDate>Mon, 11 Mar 2024 11:30:51 GMT</pubDate>
     </item>
     <item>
       <title>英国聚变初创公司使用巨型“枪”机器打破压力记录</title>
       <link>https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine</link>
-      <description><![CDATA[一家英国初创公司利用世界上最强的脉冲功率机器，因为它希望开辟一条更便宜、更快的聚变能源之路。第一光聚变以超过每秒 20 公里（72,000 公里/小时）的速度向一块石英晶体发射一枚射弹，产生高达 1.85 兆帕的压力，几乎是地核压力的四倍。该初创公司利用位于美国阿尔伯克基的核时代设备 Z Machine 实现了这一壮举。它的峰值功率为 80 万亿瓦，超过了世界上整个电网的峰值功率。这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[一家英国初创公司利用世界上最强的脉冲功率机器，因为它希望开辟一条更便宜、更快的聚变能源之路。第一光聚变以超过每秒 20 公里（72,000 公里/小时）的速度向一块石英晶体发射一枚射弹，产生高达 1.85 兆帕斯卡的压力，几乎是地核压力的四倍。该初创公司利用位于美国阿尔伯克基的核时代设备 Z Machine 实现了这一壮举。它的峰值功率为 80 万亿瓦（超过世界整个电网），它以电磁方式发射……这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/uk-fusion-startup-breaks-pressure-record-giant-gun-z-machine</guid>
       <pubDate>Fri, 08 Mar 2024 14:58:11 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[法国初创公司 Zama 已筹集 7300 万美元，用于将密码学的“圣杯”商业化：完全同态加密（FHE）。 FHE 概念上很简单，但实际上很复杂，它可以对加密数据进行计算，而无需先对其进行解密。因此，公司可以在不查看客户信息的情况下提供服务。与此同时，用户不会注意到功能上的任何差异。为了可视化该过程，请将加密数据想象为一个上锁的盒子，将计算想象为油漆。通过在盒子上绘画，您还可以在里面的数据上绘画。但盒子内部的变化将不会被窥探。 “这意味着敏感信息可以…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/zama-holy-grail-cryptography-fully-homomorphic-encryption</guid>
       <pubDate>Thu, 07 Mar 2024 12:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称，荷兰政府成立了秘密工作组，以将 ASML 留在荷兰</title>
-      <link>https://thenextweb.com/news/dutch-government-task-force-asml-netherlands</link>
-      <description><![CDATA[据报道，荷兰政府已成立一个秘密工作组，以将芯片巨头 ASML 留在荷兰。据 De Telegraaf 报道，该工作组被称为“贝多芬行动”，其成立是为了减轻 ASML 对当地商业环境的担忧。荷兰报纸援引匿名消息人士的话称，该公司正在考虑向荷兰以外地区扩张。法国被认为是一个潜在的目的地。这样的举动将产生深远的影响。 ASML 是欧洲最有价值的科技公司。它也是世界上唯一的 EUV 光刻机制造商，这对于生产最先进的计算机芯片至关重要。这些独特的功能…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/dutch-government-task-force-asml-netherlands</guid>
-      <pubDate>Wed, 06 Mar 2024 17:46:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
