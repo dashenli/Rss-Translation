@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 11 Mar 2024 18:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:53:56 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 503：我们拥有裁判、体育场和场地</title>
+      <link>https://sixcolors.com/podcast/2024/03/upgrade-503-we-own-the-refs-the-stadium-and-the-field/</link>
+      <description><![CDATA[我们讨论苹果公司在欧洲最近遭遇的令人尴尬和不必要的政策失误，然后解释 Jason 对 M3 MacBook Air 的全面审查如何成功地破坏了他的家庭网络。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/03/upgrade-503-we-own-the-refs-the-stadium-and-the-field/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:12:40 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）声音克隆已经跨越了恐怖谷</title>
       <link>https://sixcolors.com/feed-only/2024/03/voice-clones-have-crossed-the-uncanny-valley/</link>
@@ -15,7 +22,7 @@
       <pubDate>Mon, 11 Mar 2024 16:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>我把我的小型空间加热器放在 HomeKit 上</title>
+      <title>我把我的笨拙空间加热器放在 HomeKit 上</title>
       <link>https://sixcolors.com/post/2024/03/i-put-my-dumb-space-heater-on-homekit/</link>
       <description><![CDATA[
 我的工作空间显然是所谓的“无空调空间”，因为它是一个隔热程度较低的车库，无法使用我家的中央供暖系统。…]]></description>
@@ -41,7 +48,7 @@
       <title>我的 Windows 白鲸现在可以在我的 Mac 上运行 ↦</title>
       <link>https://sixcolors.com/link/2024/03/my-windows-white-whale-now-runs-on-my-mac/</link>
       <description><![CDATA[它并不漂亮，但从来都不是。重点是，它运行了！
-上个月，Dan 写了一篇有关使用 Apple 的游戏移植工具包和 Wine API 翻译工具在 Mac 上运行 PC 游戏的文章，所有这一切都是通过一个名为 Whisky 的易于使用的免费应用程序实现的。]]></description>
+上个月，Dan 写了一篇关于使用 Apple 的游戏移植工具包和 Wine API 翻译工具在 Mac 上运行 PC 游戏的文章，所有这一切都是通过一个名为 Whisky 的易于使用的免费应用程序实现的。]]></description>
       <guid>https://sixcolors.com/link/2024/03/my-windows-white-whale-now-runs-on-my-mac/</guid>
       <pubDate>Thu, 07 Mar 2024 23:34:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>欧洲给了苹果改变态度的机会……但它会吗？</title>
       <link>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</link>
-      <description><![CDATA[一项裁决对苹果公司来说并不好听：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
+      <description><![CDATA[一项裁决对苹果公司来说并不美妙：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
       <guid>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</guid>
       <pubDate>Thu, 07 Mar 2024 20:17:55 GMT</pubDate>
     </item>
@@ -105,7 +112,7 @@
       <title>我们还没有看到最后的 Apple Car（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</link>
       <description><![CDATA[再见，泰坦计划，我们从来不认识你。
-尽管苹果雄心勃勃的汽车项目可能已经被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
+尽管苹果雄心勃勃的汽车项目可能已被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
       <guid>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</guid>
       <pubDate>Wed, 06 Mar 2024 14:13:43 GMT</pubDate>
     </item>
@@ -115,14 +122,6 @@
       <description><![CDATA[新人负责 Netflix 的电影输出，这让我们思考该公司过去和未来的电影策略。 [Downstream+ 成员获得：Max 的新哈利波特方法，以及我们可以从 CW 的中等预算超级英雄电视方法中学到的经验教训。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/03/downstream-64-still-do-everything/</guid>
       <pubDate>Wed, 06 Mar 2024 00:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建更高分辨率的 Vision Pro 全景图 ↦</title>
-      <link>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</link>
-      <description><![CDATA[
-我最喜欢的 Vision Pro 功能之一是动态显示摄影全景图。身临其境的环境很棒，我喜欢现在可以捕捉立体视频，但我有一个巨大的全景库，可以追溯到 20 世纪 90 年代。…]]></description>
-      <guid>https://sixcolors.com/link/2024/03/creating-higher-resolution-vision-pro-panoramas/</guid>
-      <pubDate>Wed, 06 Mar 2024 00:29:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
