@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 12 Mar 2024 00:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 03:17:24 GMT</lastBuildDate>
+    <item>
+      <title>Android 面部识别系统 Polar ID 可能会超越苹果的 Face ID</title>
+      <link>https://wired.jp/article/metalenz-polar-id-first-look/</link>
+      <description><![CDATA[Metalenz的技术“Polar ID”是一项通过读取“偏振”信息实现面部识别的技术。尽管它仍处于开发阶段，但它有可能以比苹果 Face ID 更低的成本和更少的部件安装在 Android 智能手机中。]]></description>
+      <guid>https://wired.jp/article/metalenz-polar-id-first-look/</guid>
+      <pubDate>Tue, 12 Mar 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Airbnb全面禁止物业安装“室内监控摄像头”，隐私问题能否解决？</title>
       <link>https://wired.jp/article/airbnb-indoor-security-camera-ban/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于大气变化导致海冰减少和雪增加，创造了有利于北极通常不会发现的树木生长的条件。根据已发表的研究成果，长期以来备受关注的北极变暖问题的新机制正在被阐明。]]></description>
       <guid>https://wired.jp/article/arctic-trees-sea-ice-snow-warming/</guid>
       <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可能解决美国总统选举中潜伏的“AI假图”风险和应对措施不足的局面？</title>
-      <link>https://wired.jp/article/genai-images-election-fraud/</link>
-      <description><![CDATA[在美国总统选举中，有人指出人工智能产生的“假图像”存在流通、错误信息传播的风险。尽管提供新一代人工智能的公司表示已采取措施，但很明显，政客虚假图像等误导性内容仍在产生。]]></description>
-      <guid>https://wired.jp/article/genai-images-election-fraud/</guid>
-      <pubDate>Fri, 08 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
