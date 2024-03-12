@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 12 Mar 2024 00:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:14:13 GMT</lastBuildDate>
+    <item>
+      <title>苹果在欧盟增加了 iOS 应用程序的网络分发，并放宽了其他限制</title>
+      <link>https://sixcolors.com/post/2024/03/apple-adds-web-distribution-for-ios-apps-in-eu-loosens-other-restrictions/</link>
+      <description><![CDATA[对于 Apple 在欧盟来说，这几周是一场地震，该公司分发 iOS 应用程序的方式也在不断发展。周二，Apple 宣布了对其规则的一些进一步更改，所有这些更改都将对 iOS 应用市场产生重大变化。…]]></description>
+      <guid>https://sixcolors.com/post/2024/03/apple-adds-web-distribution-for-ios-apps-in-eu-loosens-other-restrictions/</guid>
+      <pubDate>Tue, 12 Mar 2024 19:23:52 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 503：我们拥有裁判、体育场和场地</title>
       <link>https://sixcolors.com/podcast/2024/03/upgrade-503-we-own-the-refs-the-stadium-and-the-field/</link>
@@ -22,7 +29,7 @@
       <pubDate>Mon, 11 Mar 2024 16:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>我把我的笨拙空间加热器放在 HomeKit 上</title>
+      <title>我把我的小型空间加热器放在 HomeKit 上</title>
       <link>https://sixcolors.com/post/2024/03/i-put-my-dumb-space-heater-on-homekit/</link>
       <description><![CDATA[
 我的工作空间显然是所谓的“无空调空间”，因为它是一个隔热程度较低的车库，无法使用我家的中央供暖系统。…]]></description>
@@ -32,7 +39,7 @@
     <item>
       <title>Epic 的 App Store 开发者帐户在欧洲再次恢复</title>
       <link>https://sixcolors.com/post/2024/03/epics-app-store-developer-account-restored-in-europe-once-again/</link>
-      <description><![CDATA[本周对于 Epic 来说就像坐过山车一样。据报道，该游戏制造商的瑞典分公司恢复了开发者帐户，以便该公司可以在欧洲推出替代应用程序市场，随后该公司再次被苹果禁止。…]]></description>
+      <description><![CDATA[本周对于 Epic 来说就像坐过山车一样。据报道，该游戏制造商的瑞典分公司恢复了其开发者帐户，以便该公司可以在欧洲推出其替代应用程序市场，随后该公司再次被苹果禁止。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/epics-app-store-developer-account-restored-in-europe-once-again/</guid>
       <pubDate>Fri, 08 Mar 2024 18:16:14 GMT</pubDate>
     </item>
@@ -40,7 +47,7 @@
       <title>（赞助商）魔法套索广告拦截</title>
       <link>https://sixcolors.com/sponsor/2024/03/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-2/</link>
       <description><![CDATA[感谢 Magic Lasso Adblock 赞助六色周。
-作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 – 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
+作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/03/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-2/</guid>
       <pubDate>Fri, 08 Mar 2024 17:00:10 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>欧洲给了苹果改变态度的机会……但它会吗？</title>
       <link>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</link>
-      <description><![CDATA[一项裁决对苹果公司来说并不美妙：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
+      <description><![CDATA[一项裁决对苹果公司来说并不好听：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
       <guid>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</guid>
       <pubDate>Thu, 07 Mar 2024 20:17:55 GMT</pubDate>
     </item>
@@ -112,16 +119,9 @@
       <title>我们还没有看到最后的 Apple Car（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</link>
       <description><![CDATA[再见，泰坦计划，我们从来不认识你。
-尽管苹果雄心勃勃的汽车项目可能已被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
+尽管苹果雄心勃勃的汽车项目可能已经被抛在了尘埃中，但这并不意味着它不是一次宝贵的经历，也不意味着它不会继续为公司带来一些红利。…]]></description>
       <guid>https://www.macworld.com/article/2256525/apple-car-legacy-lives-on.html</guid>
       <pubDate>Wed, 06 Mar 2024 14:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 64：仍然做一切</title>
-      <link>https://sixcolors.com/podcast/2024/03/downstream-64-still-do-everything/</link>
-      <description><![CDATA[新人负责 Netflix 的电影输出，这让我们思考该公司过去和未来的电影策略。 [Downstream+ 成员获得：Max 的新哈利波特方法，以及我们可以从 CW 的中等预算超级英雄电视方法中学到的经验教训。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/03/downstream-64-still-do-everything/</guid>
-      <pubDate>Wed, 06 Mar 2024 00:40:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
