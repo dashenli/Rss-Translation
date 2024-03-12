@@ -4,7 +4,174 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Mar 2024 21:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:13:55 GMT</lastBuildDate>
+    <item>
+      <title>Discord 向其聊天应用程序中嵌入的游戏和应用程序开放</title>
+      <link>https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：Alex Castro / The Verge
+
+Discord 很快将允许开发者构建可直接在其聊天应用程序中使用的新游戏和应用程序。几个月前，Discord 用户就已经可以使用精选的迷你游戏和应用程序，但从 3 月 18 日开始，所有 Discord 开发人员都将可以使用新的嵌入式应用程序 SDK，让他们可以构建这些特殊的嵌入式应用程序。
+Discord 使用其活动功能来支持 YouTube 等应用、推广扑克等迷你游戏，甚至鼓励用户玩共享白板体验。这些应用程序都以嵌入 iframe 的形式出现在 Discord 中，但到目前为止，它们仅限于选定的开发人员。
+
+
+图片：Discord
+我们将在 Discord 中看到更多的迷你游戏和应用。
+
+“很多 Discord 开发者都关注 Activity，想知道什么时候可以创建自己的 Activity，”Discord 在 博客文章。 “从 3 月 18 日开始，Discord 开发者将能够使用我们新的嵌入式应用 SDK 构建可直接在平台上玩的新游戏和体验。”
+SDK 将向更多开发者开放 Discord 的活动部分，因此我们一定会看到更多可以直接在 Discord 聊天中玩的小游戏。 “我们希望 Discord 能够成长为开发者完成这一切的最佳场所：构建、共享、分发、被发现以及通过他们的工作获利，”Discord 说。 “我们希望 Discord 成为您的应用程序的起点，在世界各地的人们的社区中找到一个家，并且可以在朋友之间轻松共享。”
+Discord 还在尝试一种允许用户将应用程序添加到其帐户的方法，以便他们可以跨服务器漫游。开发者将能够为帐户启用他们的应用程序，该实验将于 3 月 18 日与应用程序 SDK 一起启动。
+
+
+图片：Discord
+Discord 正在试验跨帐户和服务器漫游的应用程序。
+
+Discord 还恢复了其应用推介活动，开发者可以在这里推介原型应用创意并获得高达 30,000 美元的资金。 去年，一些人工智能工具以及一款艺术家应用程序、一款珊瑚礁摄像头应用程序赢得了一些资金，以及城市建设小游戏。
+所有这些以开发为中心的改进都是在 Discord 宣布其解雇 17% 的员工。 Discord 正在尝试新的开发者体验来提高用户增长，包括 与游戏开发商合作销售主题头像和个人资料效果。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers</guid>
+      <pubDate>Tue, 12 Mar 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roku 黑客入侵了 15,000 个帐户并在网上出售它们</title>
+      <link>https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+Roku 披露了一个漏洞，允许黑客访问 15,363 个帐户 和存储的信用卡信息，如 首先由Bleeping Computer报道。在发送给客户的通知中，Roku 表示黑客获取了登录信息并尝试在“有限数量”的实例中购买流媒体订阅。
+Roku 表示，黑客可能获得了之前第三方服务数据泄露事件中暴露的帐户信息。这种攻击称为撞库，黑客获取数据泄露中暴露的电子邮件和密码，并尝试在其他服务上进行组合。一旦获得帐户访问权限，Roku 黑客就会更改某些帐户的登录信息，从而获得完全控制权。 
+如果帐户存储了信用卡信息，黑客还可以在 Roku 内购买 Netflix、Max、Paramount Plus、Hulu、Peacock、Disney Plus 等服务的订阅。 Bleeping Computer 还发现，黑客在黑客市场上以每个帐户 50 美分左右的价格出售窃取的信息。
+一个可取之处是 Roku 帐户没有透露社会安全号码、全额付款帐号或出生日期。 Roku 表示，此后它已要求受影响的用户重置密码，“确保帐户免遭进一步未经授权的访问”。它还致力于取消和退款未经授权的购买。即使您没有受到此数据泄露的影响，仍然值得检查HaveIBeenPwned，看看您的任何凭据最近是否被泄露。更改 Roku 密码也没什么坏处。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info</guid>
+      <pubDate>Tue, 12 Mar 2024 14:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic 详细介绍了针对非游戏开发商的新虚幻引擎定价计划</title>
+      <link>https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Fortnite 开发商 Epic Games 将向非游戏开发商收取“每个席位”1,850 美元的年度订阅费，以使用其虚幻引擎，而不是基于版税的模型游戏开发商。该公司宣布了去年对其付款方案进行了更改&lt; /a&gt;，现在，它提供了该计划的详细信息，该计划将于 4 月下旬发布虚幻引擎 5.4 版后生效。
+这些变化不适用于游戏开发者，他们将继续通过对终身总收入超过 100 万美元的产品收取 5% 的版税来支付使用 Epic 工具的费用。相反，新的按席位（实际上是按用户）订阅费将适用于非游戏开发者，例如那些使用虚幻引擎制作线性内容（例如电影和电视节目、汽车信息娱乐系统或沉浸式体验）的开发者。作为不直接出售给客户的主题公园游乐设施。
+并非所有非游戏开发商都必须使用新的定价模式为虚幻引擎付费。 Epic 豁免年总收入低于 100 万美元的公司以及学生、教育工作者和“业余爱好者”。为虚幻引擎制作插件的公司可以继续免费使用；在这些情况下，Epic 将继续通过其虚幻引擎市场中的收入分成模式获得分成。
+1,850 美元的年费包括使用虚幻引擎以及 Epic 的 Twinmotion 实时可视化工具和 RealityCapture 摄影测量软件。 Epic 表示，它将在 2025 年底之前将其他工具捆绑在一起，然后将它们直接集成到虚幻引擎中，但它们也将单独提供，Twinmotion 每年 445 美元，RealityCapture 每年 1,250 美元。
+Epic 宣布计划在竞争对手 Unity 推出后几周推出新的定价模式 宣布 — 然后快速推出返回——一种有争议的按下载付费定价方案。与 Unity 回滚的定价模型一样，Epic 表示，其新定价模型将仅适用于使用最新版本引擎：虚幻引擎 5.4 制作的游戏。如果开发者使用的是 5.3 或更早版本，则在升级之前，定价更改将不适用。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture</guid>
+      <pubDate>Tue, 12 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩托罗拉最新的廉价手机看起来出奇的好</title>
+      <link>https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Moto G Power：现在具有 NFC 和无线充电功能。 |图片：摩托罗拉
+
+摩托罗拉最近推出的廉价手机因设计乏善可陈、毫无意义的额外摄像头和平庸的功能集而受到阻碍。但希望似乎就在眼前：2024 年的 Moto G Power 5G 和 Moto G 5G 看起来相当不错——至少在纸面上是这样。
+这两款手机最终都提供了 NFC（为什么它一开始就缺失了，这还是个谜），而且它们都配有漂亮的纯素皮革背板。它们甚至还包括一个 microSD 卡插槽和一个内置耳机插孔，这些便利的功能是大多数手机制造商多年前就放弃的。 G Power 5G 还首次配备了无线充电功能，这在任何廉价手机中都是罕见的功能。 Moto G 5G 起价为 199 美元，Moto G Power 5G 起价为 299 美元。
+价格较高的 Moto G Power 配备 6.7 英寸 1080p LCD，最大刷新率为 120Hz - 就我个人而言，我会选择刷新率较低、对比度更高的 OLED 面板，但价格为 300 美元电话你拿你能得到的。它采用中端联发科天玑 7020 芯片组和 8GB RAM，只有两个后置摄像头：一个具有光学稳定功能的 50 兆像素主摄像头和一个具有自动对焦功能的 8 兆像素超广角摄像头，可兼作微距摄像头。这里没有愚蠢的低分辨率深度传感器或微距摄像头，祝福摩托罗拉。 
+
+
+图片：摩托罗拉
+Moto G Power 有午夜蓝色（如图所示）和淡紫丁香色。
+
+G Power 支持高达 30W 的有线充电，但您必须单独购买充电器才能获得这些速度。支持高达 15W 的无线充电。其配备了一块 5,000mAh 的大电池，不过价格较低的 Moto G 5G 也配备了其中一块。有趣的事实：根据摩托罗拉与我分享的规格表的文件名，5G Power 的内部代号似乎是 Cancun，Moto G 的内部代号是 Fogo。我喜欢一些内部棒球。
+较低层的 Moto G 5G 采用高通 Snapdragon 4 Gen 1 芯片组，配备 4GB RAM，并配备 6.6 英寸 720p LCD，刷新率也为 120Hz。有一个 50 兆像素的主摄像头（还有一个 2 兆像素的宏），有线充电功率最高为 18 瓦。与 G Power 一样，它只是“防水”，并没有完全防尘或防水——不幸的是，但在预算级别中很正常。 
+
+
+图片：摩托罗拉
+Moto G 5G 只有一种颜色：鼠尾草绿。
+
+这里正在发生一些有希望的变化，但一如既往，很大程度上取决于执行。 我评测的最后一款中端摩托罗拉手机 充满了过时的软件，以至于我不愿意向任何人推荐它。我们不需要等太久就能知道答案：2024 年款 Moto G Power 将于 3 月 22 日开始在 Cricket Wireless 上市，随后很快就会在其他运营商上市，解锁版本将于 3 月 29 日上市。 2024 款 Moto G 5G 将于 3 月 21 日起首先在 T-Mobile 上市，其他运营商也将跟进。解锁版本需要等待一段时间：它将于 5 月 2 日发布。
+]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery</guid>
+      <pubDate>Tue, 12 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gazelle 在美国推出“第一款也是唯一一款”配备博世智能系统的 3 级电动自行车</title>
+      <link>https://www.theverge.com/24080048/gazelle-class-3-bosch-smart-system-us-specs-price</link>
+      <description><![CDATA[&lt;图&gt;
+      
+这款带高步架的皮带驱动 C380 HMB 不仅可以处理平坦的荷兰城市。 |图片：瞪羚
+
+行业巨头 Pon Holdings 旗下非常受欢迎的荷兰自行车品牌 Gazelle 正在美国推出首款 3 级电动自行车。 
+Gazelle 表示，其新款 Eclipse 是“美国第一款也是唯一一款配备 博世智能系统”，该系统将自行车的电机和电子设备与 Bosch Flow 应用程序完全集成，以实现个性化骑行，并且在很长一段时间后将收到持续的无线错误修复和功能更新购买。
+Eclipse 提供高步距和低步距框架，可轻松应对各种地形上的重载和山丘。它配备 60 毫米宽轮胎、前减震器、Shimano MT-420 四活塞液压盘式制动器、750 瓦时大型电池以及具有令人印象深刻的 85 牛米扭矩和 28 英里/小时最高速度的中驱 Bosh 电机。
+具体来说，这些电动自行车配备了博世性能系列的智能版本速度电机提供自动模式，可自动调整动力输出以补偿山坡或逆风，这与牛仔的自适应能力。它还具有步行辅助功能，可帮助将其推上山并防止回滚以及 Flow 应用程序中的路线规划。
+
+博世智能系统最近在 1.8 版中引入的一个潜在有用功能是“动态显示”模式，该模式会自动更改博世 Kiox 显示屏上显示的信息，以便始终向用户显示最相关的数据。骑士。攀登？它显示了您的力量、节奏和高度。下降？它会切换到专注于速度，然后再次切换以添加行驶距离和当您击中平地时的范围概览。当处于静止状态时，它会显示摘要信息，例如旅程的最大速度、行驶距离、海拔变化和剩余里程。 Kiox 现在还可以显示计划行程的清晰海拔图以及骑手的当前位置。
+
+
+图片：瞪羚
+采用低步距框架的链条驱动 Eclipse T11 HMB。
+
+Gazelle 的 Eclipse 电动自行车还配备了兼容 MIK 的后架以及集成的前后照明。它还配备了一个非常荷兰的咖啡馆锁（或环锁，如果您愿意的话），用螺栓固定在框架上以快速锁定后轮..
+Eclipse 有两种型号。 11 速 T11 HMB 是链条驱动型号，配有 Shimano Deore XT 变速器，价格为 5,499 美元。 Eclipse C380 HMB 是我选择的型号，尽管其价格稍高一些，为 5,999 美元，因为它具有盖茨皮带传动装置和平稳变速的 Enviolo CVT 无级轮毂。
+
+是的，这些价格很高，但这个价格仍然比 拥有一辆汽车的持续成本，这款 3 级电动自行车可以替代一些人。做点运动不是很好吗？
+]]></description>
+      <guid>https://www.theverge.com/24080048/gazelle-class-3-bosch-smart-system-us-specs-price</guid>
+      <pubDate>Tue, 12 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 Vergecast 流媒体草案</title>
+      <link>https://www.theverge.com/2024/3/12/24098343/best-streaming-services-2024-netflix-tiktok-max-disney-vergecast</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+跟上流媒体大战是一项艰苦的工作。电影和节目不断变化，每个人总是捆绑然后分拆，Paramount Plus 和 Hulu 等服务似乎都在快速增长，而且只是 勉强维持存在。
+这就是为什么，每年一次 The Vergecast，我们会花一点时间盘点流媒体格局。通过起草我们最喜欢的服务！我们的目标是弄清楚哪些服务有效，哪些无效，以及哪些服务可能在 12 个月后成为最热门的服务。 
+
+
+
+
+我们在 SXSW 的舞台上现场录制了这一集 — 感谢所有前来观看我们的人！ — 首先回顾一下去年的结果。它们在这里：
+
+
+Nilay Patel 的选择：TikTok、迪士尼捆绑包、带 Sunday Ticket 的 YouTube TV、Apple Music 以及他的朋友 Vipin 神奇的 Plex 服务器
+
+Alex Cranz 的精选：HBO Max、Paramount Plus / Showtime、Channels、Criterion 和 Apple One。她花最少钱的奖励选择：Xbox 云游戏
+
+大卫·皮尔斯的选择：YouTube Premium、Peacock、Netflix、Discovery Plus、Hulu with Live TV
+
+观众选出了去年的获胜者，我们开始了选秀。不过，今年我们改变了规则并添加了类别。因此，我们每个人都必须填写六个类别，而不是选择任何五种服务：
+
+
+便宜（等级必须低于 10 美元）
+
+奖项（必须赢得奥斯卡奖）
+
+4K（必须提供 4K 内容）
+
+现场（必须有一些现场元素）
+
+利基（必须是特定类型的服务）
+
+通配符（任何你想要的）
+
+一个小时后，我们降落在一些非常奇怪、令人惊讶、也许有先见之明、也许只是荒谬的地方。这是结果。 （听完之前不要看！）：
+
+
+
+
+
+Nilay 的选择：TikTok、Disney Bundle、Sony Bravia Core、YouTube TV with Sunday Ticket、MotorTrend TV 和 Max
+
+Alex 的精选：Peacock、Hulu、Netflix、Channels、Crunchyroll 和 Paramount Plus
+
+David 的选择：YouTube（含广告）、Apple TV Plus、Tubi、Prime Video、Criterion 和 Instagram Reels
+
+我们都认为我们赢得了选秀。观众也有明确的选择。但只有接下来的 12 个月才能告诉我们答案。谁知道呢？也许到 2025 年，这些服务中的一半都不会存在。也许体育类 Hulu 会成为明年的第一选秀。或者，Nilay 可能会继续选择 TikTok，并继续侥幸逃脱惩罚。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098343/best-streaming-services-2024-netflix-tiktok-max-disney-vergecast</guid>
+      <pubDate>Tue, 12 Mar 2024 12:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 允许直接从欧盟网站下载 iOS 应用</title>
+      <link>https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098334/apple-ios-web-distribution-eu-app-store-changes</guid>
+      <pubDate>Tue, 12 Mar 2024 12:44:00 GMT</pubDate>
+    </item>
     <item>
       <title>Midjourney 因涉嫌数据抓取而禁止所有 Stability AI 员工</title>
       <link>https://www.theverge.com/2024/3/11/24097495/midjourney-bans-stability-ai-employees-data-theft-outage</link>
@@ -34,102 +201,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/11/24097161/jbl-authentics-300-smart-speaker-nintendo-switch-oled-jabra-elite-10-earbuds-deal-sale</guid>
       <pubDate>Mon, 11 Mar 2024 18:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的健身追踪器</title>
-      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
-      <pubDate>Mon, 11 Mar 2024 16:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>总决赛第二季获得了新的游戏模式、私人比赛和更多小工具</title>
-      <link>https://www.theverge.com/2024/3/11/24097333/the-finals-season-2-new-game-mode-weapons-gadgets</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Embark Studios
-
-The Finals 是一款第一人称竞技场射击游戏，将于本周晚些时候进入第二季，推出新的 5v5 游戏模式、更多武器、新能力，甚至私人比赛。这是一款流行游戏的重大更新，以可破坏的环境为中心。
-新的 5v5 游戏模式 Power Shift 可能是最大的变化，两队玩家争夺一个平台的控制权（非常山丘之王）得分。平台本身会撕裂环境，并且可以被物体和能力晃动。在这种模式下，玩家甚至可以在轻型、中型和重型建筑之间切换，以更好地与敌方队伍竞争。
-
-
-图片：Embark Studios
-      &lt;图标题&gt;
-总决赛中的全新 5v5 游戏模式。
-
-
-说到三个不同的类别，Embark Studios 正在为其轻型、中型和重型类别引入新的武器和能力。这里有多种能力，必然会创造出与这个可破坏的环境互动的全新方式。 
-选择中级的玩家将获得新的去物质化能力，让你可以暂时擦除墙壁或天花板，让你可以在封闭你创建的洞之前射击穿过区域。媒介还将获得一个新的数据重塑工具，可以让你将敌人的地雷变成椅子，或者将敌人的炮塔变成桌子——这是摧毁防御的好方法。
-Heavys 获得了一个可以操纵重力的反重力立方体，这样里面的任何东西都会立即开始漂浮。是的，其中包括提款箱，所以这会让偷现金变得更加有趣。 Lights 拥有一个可部署的网关门户，允许您在两个位置之间快速传输。不过，任何人，包括敌人，都可以使用该门户。
-
-
-图片：Embark Studios
-去物质化器可以让你在墙壁和天花板上打临时孔。
-
-新武器包括轻型 93R 连发冲锋手枪、中型 FAMAS 连发突击步枪和重型 KS-23 霰弹枪。
-第二季的主题是游戏节目已被 CNS 黑客集合入侵。游戏中添加了一个小故障的霓虹灯风格城市地图，其中包括浮动几何图形，以混合你在竞技场周围跑酷的方式。
-对于那些希望看到更具竞争力的总决赛的人来说，Embark Studios 将在第 2 赛季中引入私人比赛。这对于 LAN 锦标赛或只是自定义比赛尤其重要一般的锦标赛。还有一个新的排名游戏联赛系统，带有奖励和职业发展系统。
-总决赛第 2 季将于 3 月 14 日在 PC、Xbox Series S / X 和 PlayStation 5 上发布。]]></description>
-      <guid>https://www.theverge.com/2024/3/11/24097333/the-finals-season-2-new-game-mode-weapons-gadgets</guid>
-      <pubDate>Mon, 11 Mar 2024 16:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能生成的食谱不会让你到达风味镇</title>
-      <link>https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24094774/ai-recipes-chatgpt-gemini-copyright</guid>
-      <pubDate>Mon, 11 Mar 2024 15:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>WB 的《任天堂明星大乱斗》风格的战斗机《Multiversus》将于 5 月推出</title>
-      <link>https://www.theverge.com/24097129/multiversus-release-date-warner-bros-games</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24097129/multiversus-release-date-warner-bros-games</guid>
-      <pubDate>Mon, 11 Mar 2024 15:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>保时捷 Taycan Turbo GT 在 Laguna Seca 创造新圈速记录</title>
-      <link>https://www.theverge.com/2024/3/11/24097177/porsche-taycan-turbo-gt-lap-time-record-laguna-seca</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：保时捷
-
-保时捷喜欢它的单圈记录，无论是在德国的纽博格林还是加利福尼亚的拉古纳塞卡。这些记录对这家德国汽车制造商意义重大，以至于有时编造新的只是为了打破它们。 
-不过，最新记录并非捏造。保时捷需要一些东西来夸耀其 Taycan 的车型扩展电动轿车，因此它将 Turbo GT 和带有 Weissach 套件的 Turbo GT 带到了 Laguna Seca 的 Weathertech 赛道，看看它们是否能够打破 Tesla Model S Plaid 创下的圈速记录。当然，他们做到了。否则，我现在可能不会写它。 
-保时捷开发车手 Lars Kern 仅用了 1 分 27.87 秒就在 Laguna Seca 跑完了一圈，打破了之前的 1 分 30.3 秒的纪录。 
-
-保时捷认为这要归功于新款 Turbo GT 车型，该车型可在 2.1 秒内达到 60 英里/小时，最高时速可达 190 英里/小时。魏斯阿赫套件拆除了后排座椅，减轻了 157 磅的额外重量，这也在新的单圈记录中发挥了作用。 
-新纪录于 2 月 23 日创下。几天后，科恩在世界著名的纽博格林赛道上跑出了 7 分 07.55 分的单圈时间，击败了 Model S Plaid 的时间为 7:25.231。
-汽车制造商喜欢炫耀，纽博格林北环赛道是主要战场之一。但多年来，赛道的极限大多已经被探索过，因此对于那些想要声称自己是 12.9 英里赛道上最快的公司来说，已经没有多少稀薄的空气了。
-
-两个版本的 Taycan Turbo GT 在更乐观的 WLTP 标准下均可提供约 340 英里的续航里程，并且通过将前置电机的输出与新的更强大的后置电机相结合，可提供 777 马力的连续输出。最大电流为 900 安培，高于 Turbo S 使用的 600 安培逆变器。
-启动控制启动可达到 1,019 马力的峰值功率输出。两款 Turbo GT 车型均采用与 Turbo S 相同的 96.0kWh 电池以及相同的两速变速箱，经过修改可支持高达 988 磅英尺的扭矩。 
-但新款 Taycan 变体不仅仅是为了炫耀；也适用于那些想成为赛道赛车手和记录创造者的人，他们可以从今天开始订购 Turbo GT（带或不带魏斯阿赫套件）。起始价格为 231,995 美元，因为这么快的价格永远不会便宜。 ]]></description>
-      <guid>https://www.theverge.com/2024/3/11/24097177/porsche-taycan-turbo-gt-lap-time-record-laguna-seca</guid>
-      <pubDate>Mon, 11 Mar 2024 15:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbnb 禁止使用室内安全摄像头</title>
-      <link>https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</link>
-      <description><![CDATA[&lt;图&gt;
-      
-尼克·巴克莱 / The Verge
-
-Airbnb 将不再允许房东使用室内安全摄像头，无论它们放置在何处或用于什么目的。在周一的更新中，Airbnb 表示，这一变化是为了“优先考虑《租户隐私》于 4 月 30 日生效。
-度假租赁应用之前让 房东在房源的“公共区域”安装安全摄像头，包括走廊、客厅和前门。 Airbnb 要求房东披露其房源中是否存在安全摄像头，并使其清晰可见，并禁止房东在卧室和浴室使用摄像头。
-但现在，房东根本无法使用室内安全摄像头。这一变化是在大量报道之后做出的。 www.foxnews.com/tech/ Couple-finds-hidden-camera-disguished-as-smoke- detector-in-florida-airbnb&quot;&gt;客人发现他们的出租屋内有隐藏摄像头，导致一些度假者扫描他们的房间是否有摄像头。
-Airbnb 的新政策还引入了针对室外安全摄像头的新规则，现在要求房东在房客预订房源之前披露其用途和位置。主人也不能使用室外摄像头来监视室内空间，也不能在“某些对隐私有很高期望的室外区域”使用它们，例如室外淋浴或桑拿浴室。 
-此外，房源还必须披露噪音分贝监测器，房东可能会使用该监测器来测量他们的出租屋内是否有派对 — Airbnb 在 2022 年禁止的内容。“这些更改是在与我们的房客、房东和隐私专家协商后做出的，我们将继续寻求反馈，以帮助确保我们的政策适用于我们的全球社区。”Airbnb 社区政策和合作伙伴主管 Juniper Downs 在一份声明中表示。 
-Airbnb 房东必须在 4 月底之前从其房源内移除安全摄像头。如果房客在此之后报告存在室内摄像头，Airbnb 表示将进行调查，并可能因此删除房东的房源或帐户。新政策仍然无法控制隐藏摄像头的存在，但至少可以让人安心一些，因为他们知道遵守规则的房东不能再在出租屋内的任何地方放置摄像头。]]></description>
-      <guid>https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</guid>
-      <pubDate>Mon, 11 Mar 2024 14:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mona Chalabi 讲述讲故事、数据的力量和报道巴勒斯坦</title>
-      <link>https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24093294/mona-chalabi-interview-palestine-gaza-data-viz</guid>
-      <pubDate>Mon, 11 Mar 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
