@@ -3,12 +3,19 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Tue, 12 Mar 2024 09:17:52 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Tue, 12 Mar 2024 12:24:06 GMT</lastBuildDate>
+    <item>
+      <title>今年的 Lovie 奖参赛作品开放，旨在表彰欧洲最优秀的数字创意</title>
+      <link>https://www.itsnicethat.com/news/lovie-awards-2024-creative-industry-media-partnership-120324</link>
+      <description><![CDATA[随着新类别认可负责任的人工智能和沉浸式艺术的创造力，并特别关注协作，为什么不参加今年的洛维奖呢？]]></description>
+      <guid>https://www.itsnicethat.com/news/lovie-awards-2024-creative-industry-media-partnership-120324</guid>
+      <pubDate>Tue, 12 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>索菲亚·内格里 (Sofia Negri) 的动画纪录片《滑板书》融合了真人表演和速写本场景</title>
       <link>https://www.itsnicethat.com/articles/sofia-negri-the-skatebook-animation-project-110324</link>
-      <description><![CDATA[这位伦敦动画师的短片在网上首映。在这次采访中，她讲述了这一过程中的压力和胜利。]]></description>
+      <description><![CDATA[这位伦敦动画师的短片在网上首映。在这次采访中，她讲述了这个过程中的压力和胜利。]]></description>
       <guid>https://www.itsnicethat.com/articles/sofia-negri-the-skatebook-animation-project-110324</guid>
       <pubDate>Mon, 11 Mar 2024 15:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 07 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在北村仁的极简主义绘画中，你会遇到可爱的狗屁股和圆滚滚的鹅</title>
+      <title>在 Jin Kitamura 的极简主义绘画中，你会遇到可爱的狗屁股和圆滚滚的鹅</title>
       <link>https://www.itsnicethat.com/articles/jin-kitamura-illustration-discover-060324</link>
       <description><![CDATA[“我在日常生活中寻找灵感，从我们周围平凡而美丽的事物中寻找灵感，”插画家说道。]]></description>
       <guid>https://www.itsnicethat.com/articles/jin-kitamura-illustration-discover-060324</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>娜塔莎·卢卡斯 (Natasha Lucas) 的和谐字体家族是由她的大学老导师推出的</title>
       <link>https://www.itsnicethat.com/articles/natasha-lucas-orca-minke-beluga-graphic-design-project-060324</link>
-      <description><![CDATA[这位平面设计师告诉我们，她“从平面设计师的角度看待字体设计”，那么她废弃的标志草图变成了字体系列，将如何与其他字体一起流行呢？]]></description>
+      <description><![CDATA[这位平面设计师告诉我们，她“从平面设计师的角度看待字体设计”，那么她废弃的徽标草图变成了字体系列，将如何与其他字体一起流行呢？]]></description>
       <guid>https://www.itsnicethat.com/articles/natasha-lucas-orca-minke-beluga-graphic-design-project-060324</guid>
       <pubDate>Wed, 06 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一点人工智能、一点摄影和她的民间艺术根源——艺术家的选择对当今社会有何影响？]]></description>
       <guid>https://www.itsnicethat.com/articles/kayla-witt-psychic-shop-paintings-art-project-050324</guid>
       <pubDate>Tue, 05 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Studio Lob 为 Nonna 披萨餐厅设计的品牌庆祝了奶奶的西红柿……和她的假牙</title>
-      <link>https://www.itsnicethat.com/articles/studio-lob-nonnas-pizza-graphic-design-project-050324</link>
-      <description><![CDATA[这个来自柏林工作室的充满乐趣的品牌包括番茄吉祥物、牙科图画、打字机字体，甚至还有刮刮卡。]]></description>
-      <guid>https://www.itsnicethat.com/articles/studio-lob-nonnas-pizza-graphic-design-project-050324</guid>
-      <pubDate>Tue, 05 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
