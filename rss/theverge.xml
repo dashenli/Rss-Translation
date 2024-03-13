@@ -4,7 +4,114 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Mar 2024 21:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 00:54:40 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity 将 Yelp 数据引入其聊天机器人</title>
+      <link>https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;Cath Virginia / The Verge |照片来自盖蒂图片社
+
+Perplexity 首席执行官 Aravind Srinivas 告诉 The Verge，许多人像常规搜索引擎一样使用聊天机器人。直接从源头提供有关他们寻找的事物（例如餐馆）的信息是有意义的。因此，当人们询问餐厅推荐时，它会在回复中整合 Yelp 的地图、评论和其他详细信息。
+“我们的根本动机是，我们一开始只是作为这个工具来吸引人们进行事实核查和研究。但研究可以针对任何事情，比如如果你是一个咖啡瘾君子，你会想知道哪里有好的咖啡店，”Srinivas 说。
+作为 The Verge 的 David Pierce 最近指出， Perplexity 在回答时如何混合文本和链接与 Copilot、Gemini 或 ChatGPT 等其他聊天机器人相比，问题已经成为一个卖点。 Srinivas 表示，考虑因素是该公司最终选择 Yelp 的部分原因。 Srinivas 表示，Yelp 的数据使 Perplexity 能够提供多种方式来提供答案，例如添加地图、照片，甚至引用评论。 
+
+
+图片：困惑
+
+回复包含指向企业 Yelp 页面的链接，以便用户可以查看更多评论或其他详细信息。 Perplexity 没有透露该交易的财务细节，并表示不会使用 Yelp 的数据来训练任何模型，因为该公司使用 GPT 和 Claude 2 等现有模型作为聊天机器人。
+该连接是 Yelp 的 Fusion 计划向第三方（包括 BMW）授权数据的一部分。 “通过将我们高度可信且丰富的本地数据集成到 Perplexity 中，我们能够为用户提供可靠的本地搜索结果，”业务和搜索高级副总裁 Chad Richard 说道。 Yelp 的企业发展，在给 The Verge 的电子邮件中。
+Perplexity 是最新一家与不断刷新的最新信息源达成协议的人工智能公司，尽管 Srinivas 指出它并未与 Yelp 合作，而是对其数据进行许可。据报道，Google 每年将向 Reddit 支付 6000 万美元以获取真实信息-时间数据并使用 Reddit 数据来训练其 AI 模型。 OpenAI 与像 Axel Springer 这样的新闻出版商签署了协议&lt; /a&gt; 获取训练数据。 
+其他聊天机器人也可以推荐咖啡馆和餐馆，但大部分数据来自从互联网上学习的信息模型，几乎就像它搜索用户一样。一些聊天机器人受益于能够访问已经聚合了企业信息的服务。例如，Google 的 Gemini 可以在提示时提供餐厅列表，并提供营业时间、菜单和地图等详细信息 因为它可以从 Google 地图中提取。 
+Perplexity 计划在未来进行更多类似的集成，并且它已经与答案引擎 WolframAlpha 配合用于数学计算。斯里尼瓦斯提供了一些潜在的例子，例如购物数据或财务数据的工作提供商。 
+
+
+图片：困惑
+Perplexity 的 Yelp 集成也可在移动设备上使用。
+]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai</guid>
+      <pubDate>Tue, 12 Mar 2024 22:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>收音机出现红色</title>
+      <link>https://www.theverge.com/2024/3/12/24098990/radio-public-layoffs-wbur-npr-rooster-teeth-zaslov-warner-brothers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098990/radio-public-layoffs-wbur-npr-rooster-teeth-zaslov-warner-brothers</guid>
+      <pubDate>Tue, 12 Mar 2024 22:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 开始让用户选择自己的审核过滤器</title>
+      <link>https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：蓝天
+
+Bluesky 很快将允许用户自定义其 Feed 中内容的审核方式。 社交平台宣布开源其审核工具 称为 Ozone，让开发者创建可供用户选择的额外审核服务。
+Bluesky 已经拥有专门的团队内容审核，以及用户必须遵循的一套自己的规则。然而，新系统将允许用户根据自己的喜好扩展审核内容，允许他们订阅额外的审核服务来标记、注释或隐藏某些类型的帖子。
+
+
+图片：蓝天
+这是订阅审核服务的样子。
+
+举个例子，Bluesky 表示有人可以使用 Ozone 创建专门阻止蜘蛛图像的审核服务。然后，用户可以订阅该服务，从他们的提要中删除蜘蛛的照片。他们还可以报告任何漏掉的蜘蛛图像，以便审核服务的创建者对其进行审查。
+“您可以构建各种不同的审核服务并自定义您的体验，以创建您想要的社区类型，”Bluesky 首席执行官 Jay Graber 在即将播出的一集中告诉 The Verge 解码器。 “除此之外，您将能够以不同的方式混合和匹配这些，我们已经为此推出了开源工具。”
+自定义过滤器将位于 Bluesky 现有审核之上，但第三方服务器将能够完全关闭 Bluesky 的审核。
+
+
+图片：蓝天
+这些是用户可以应用的自定义标签。
+
+Bluesky 表示创建审核工具类似于用户创建阻止列表的方式。主要区别在于审核服务不会与个人帐户绑定。相反，它将让多个人管理服务、审查报告队列并设置自定义标签。如果愿意，开发人员甚至可以创建自动化标签服务。 
+Ozone 今天开源，Bluesky 将在本周晚些时候推出启用审核工具的功能。
+“我认为这确实会推动行业的发展”，Graber 告诉 Decoder。 “据我所知，没有人完全按照我们之前所做的去做，即让任何第三方、任何用户或任何想要参与的人都可以参与这一节制——即使他们是非技术人员- 可以开始构建。”
+继 2023 年推出内测版后，Bluesky 逐渐添加了新功能，例如 自定义 feed 和 托管服务器的能力，具有 更多即将推出。 服务向所有人开放 2 月份，用户数量突破 500 万。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098920/bluesky-custom-moderation-filters-ozone</guid>
+      <pubDate>Tue, 12 Mar 2024 22:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道《X战警97》的创作者在首映前几周被漫威解雇</title>
+      <link>https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated</link>
+      <description><![CDATA[&lt;图&gt;
+      
+由漫威动画提供
+
+漫威影业解雇了即将上映的 Disney Plus 动画系列《X 战警 &#39;97》的创作者 Beau DeMayo，据好莱坞报道。德梅奥此前曾为另一部漫威剧集《月光骑士》、 制作并编剧，还曾参与过巫师、巫师：噩梦狼，和星际迷航：奇怪的新世界。据报道，解雇发生在上周早些时候，漫威和德梅奥的代表都没有对媒体的决定发表评论。 Marvel 也没有回应《The Verge》的置评请求。 
+考虑到 X-Men &#39;97 将于一周后（即 3 月 20 日）在 Disney+ 首映，德梅奥的离开时机很不寻常。德梅奥被认为是该剧整个第一季的创作者和执行制片人。据《THR》报道，他甚至已经完成了《X 战警 97》第二季的编剧工作，并正在与团队讨论第三季的事宜。 
+
+X 战警 &#39;97 延续了 1992 年至 1997 年播出的X 战警：动画系列的故事情节。配音演员回归新剧，包括莱诺尔·赞恩（扮演盗贼）、乔治·布扎（野兽）、卡尔·多德（金刚狼）、阿德里安·霍夫（夜行者）、克里斯·布里顿（险恶先生）和克里斯·波特（牌局）。 
+DeMayo 似乎已删除他的 Instagram 帐户，其中定期更新他与漫威的合作。他的免费、非明确的 OnlyFans 帐户也不再活跃，该帐户是 DeMayo 在参与 X-Men &#39;97&lt; 之前创建的/em&gt;.]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098946/marvel-x-men-97-creator-fired-disney-plus-animated</guid>
+      <pubDate>Tue, 12 Mar 2024 22:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 生成的 2024 年选举地狱</title>
+      <link>https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;Cath Virginia / The Verge |照片来自 Getty Images，内森·霍华德
+
+媒体操纵与技术创新的结合。 操纵图像、编辑视频、误导性自动电话——这些对于美国选举政治来说都不是什么新鲜事。但随着廉价生成型人工智能的出现，2024 年总统选举将成为选民与潜在操纵者之间前所未有的战场。选举周期将考验这些新技术的极限、公众不断发展的媒体素养的恢复能力，以及努力控制局势的监管机构的能力。 
+您可以阅读下面我们的所有报道。 ]]></description>
+      <guid>https://www.theverge.com/policy/24098798/2024-election-ai-generated-disinformation</guid>
+      <pubDate>Tue, 12 Mar 2024 22:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>国土安全部需要 1.01 亿美元来升级其边境监视塔</title>
+      <link>https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+如果国土安全部 (DHS) 如愿，国会将拨款超过 1,070 亿美元，用于在 2025 财年执行其执法制度。 冗长的预算请求中隐藏着 1.01 亿美元用于升级和维护网络首先由 The Intercept 注意到一个&gt;。根据其官方出版物，海关和边境保护局 ( CBP）希望完全整合这些系统通过人工智能。
+两党政客都有长期以来，CBP 的庞大系统被称为综合监视塔，它是一种虚拟墙，可以让特工更好地巡逻边境。尽管监视塔只占国土安全部庞大预算的一小部分，但该系统的资金几十年来一直在稳步增长。 
+根据拦截，国土安全部预计该系统将在 2034 年达到“全面运行能力”，届时沿线将有超过 1,000 个有人值守和无人值守的塔台美国的陆地边界。还有很长的路要走。据 电子前沿基金会。 
+长期目标是通过人工智能创建“更加自主”的边境巡逻队 
+在官方出版物中，该机构将其扩展的监控网络描述为“将徽章带回边境”的一种手段。长期目标是通过人工智能创建“更加自主”的边境巡逻队。 CBP 出版物指出，人工智能可用于“识别与移民群体互动的相关模式”，加强监视行动，并“预测对手的行动”。 （目前尚不清楚“对手”是谁。）
+去年 9 月，《国防日报》 报道国土安全部 计划购买 277 个新塔，用于监视 53 个不同的边境巡逻行动区域，并升级 191 个现有监视塔。三个公司将提供这些塔：先进技术系统公司、通用动力公司和以色列埃尔比特系统公司的子公司埃尔比特美国公司。
+国土安全部要求为 2025 年综合监控塔系统提供 1.01 亿美元资金，其中大部分将用于维护和维修。该请求指出，现有的 10 个远程视频监控系统塔需要升级，而 15 个综合固定塔需要更换过时的雷达系统。
+国土安全部自 2005 年以来一直断断续续地致力于监视塔的建设。其最初的尝试、耗资数十亿美元的安全边境倡议网络（简称 SBInet）却以失败告终2011 年废弃。 2014 年，海关和边境保护局授予埃尔比特一份价值 1.45 亿美元的合同，用于建造一个新的塔系统，从技术角度来看，该系统的效率要高得多，但仍然未能减少边境口岸。然而，正如我们在 2022 年报道的，该系统产生了一个具体结果：美墨边境加强监控已将移民推向更偏远、更危险的路线。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098881/dhs-border-ai-surveillance-towers-ist</guid>
+      <pubDate>Tue, 12 Mar 2024 21:51:00 GMT</pubDate>
+    </item>
     <item>
       <title>凯特·米德尔顿的照片丑闻是一次罕见且后果严重的失误</title>
       <link>https://www.theverge.com/2024/3/12/24098548/kate-middleton-royal-family-photoshop-manipulated-image</link>
@@ -39,102 +146,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23403065/apple-watch-low-power-battery-how-to</guid>
       <pubDate>Tue, 12 Mar 2024 16:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级汽车安全小组测试了 14 个部分自动化系统——只有一个通过</title>
-      <link>https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/12/24098394/iihs-partial-automated-test-rank-ford-gm-tesla</guid>
-      <pubDate>Tue, 12 Mar 2024 15:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来的三星 Galaxy 手表可能是真正的方形</title>
-      <link>https://www.theverge.com/24098339/samsung-galaxy-watch-square-smartwatch-wearable-design</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24098339/samsung-galaxy-watch-square-smartwatch-wearable-design</guid>
-      <pubDate>Tue, 12 Mar 2024 15:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord 向其聊天应用程序中嵌入的游戏和应用程序开放</title>
-      <link>https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：Alex Castro / The Verge
-
-Discord 很快将允许开发者构建可直接在其聊天应用程序中使用的新游戏和应用程序。几个月前，Discord 用户就已经可以使用精选的迷你游戏和应用程序，但从 3 月 18 日开始，所有 Discord 开发人员都将可以使用新的嵌入式应用程序 SDK，让他们可以构建这些特殊的嵌入式应用程序。
-Discord 使用其活动功能来支持 YouTube 等应用、推广扑克等迷你游戏，甚至鼓励用户玩共享白板体验。这些应用程序都以嵌入 iframe 的形式出现在 Discord 中，但到目前为止，它们仅限于选定的开发人员。
-
-
-图片：Discord
-我们将在 Discord 中看到更多的迷你游戏和应用。
-
-“很多 Discord 开发者都关注 Activity，想知道什么时候可以创建自己的 Activity，”Discord 在 博客文章。 “从 3 月 18 日开始，Discord 开发者将能够使用我们新的嵌入式应用 SDK 构建可直接在平台上玩的新游戏和体验。”
-SDK 将向更多开发者开放 Discord 的活动部分，因此我们一定会看到更多可以直接在 Discord 聊天中玩的小游戏。 “我们希望 Discord 能够成长为开发者完成这一切的最佳场所：构建、共享、分发、被发现以及通过他们的工作获利，”Discord 说。 “我们希望 Discord 成为您的应用程序的起点，在世界各地的人们的社区中找到一个家，并且可以在朋友之间轻松共享。”
-Discord 还在尝试一种允许用户将应用程序添加到其帐户的方法，以便他们可以跨服务器漫游。开发者将能够为帐户启用他们的应用程序，该实验将于 3 月 18 日与应用程序 SDK 一起启动。
-
-
-图片：Discord
-Discord 正在试验跨帐户和服务器漫游的应用程序。
-
-Discord 还恢复了其应用推介活动，开发者可以在这里推介原型应用创意并获得高达 30,000 美元的资金。 去年，一些人工智能工具以及一款艺术家应用程序、一款珊瑚礁摄像头应用程序赢得了一些资金，以及城市建设小游戏。
-所有这些以开发为中心的改进都是在 Discord 宣布其解雇 17% 的员工。 Discord 正在尝试新的开发者体验来提高用户增长，包括 与游戏开发商合作销售主题头像和个人资料效果。]]></description>
-      <guid>https://www.theverge.com/2024/3/12/24098262/discord-embedded-apps-games-sdk-developers</guid>
-      <pubDate>Tue, 12 Mar 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roku 黑客入侵了 15,000 个帐户并在网上出售它们</title>
-      <link>https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-Roku 披露了一个漏洞，允许黑客访问 15,363 个帐户 和存储的信用卡信息，如 首先由Bleeping Computer报道。在发送给客户的通知中，Roku 表示黑客获取了登录信息并尝试在“有限数量”的实例中购买流媒体订阅。
-Roku 表示，黑客可能获得了之前第三方服务数据泄露事件中暴露的帐户信息。这种攻击称为撞库，黑客获取数据泄露中暴露的电子邮件和密码，并尝试在其他服务上进行组合。一旦获得帐户访问权限，Roku 黑客就会更改某些帐户的登录信息，从而获得完全控制权。 
-如果帐户存储了信用卡信息，黑客还可以在 Roku 内购买 Netflix、Max、Paramount Plus、Hulu、Peacock、Disney Plus 等服务的订阅。 Bleeping Computer 还发现，黑客在黑客市场上以每个帐户 50 美分左右的价格出售窃取的信息。
-一个可取之处是 Roku 帐户没有透露社会安全号码、全额付款帐号或出生日期。 Roku 表示，此后它已要求受影响的用户重置密码，“确保帐户免遭进一步未经授权的访问”。它还致力于取消和退款未经授权的购买。即使您没有受到此数据泄露的影响，仍然值得检查HaveIBeenPwned，看看您的任何凭据最近是否被泄露。更改 Roku 密码也没什么坏处。]]></description>
-      <guid>https://www.theverge.com/2024/3/12/24098398/roku-hackers-breach-credit-card-info</guid>
-      <pubDate>Tue, 12 Mar 2024 14:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic 详细介绍了针对非游戏开发商的新虚幻引擎定价计划</title>
-      <link>https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-Fortnite 开发商 Epic Games 将向非游戏开发商收取“每个席位”1,850 美元的年度订阅费，以使用其虚幻引擎，而不是基于版税的模型游戏开发商。该公司宣布了去年对其付款方案进行了更改&lt; /a&gt;，现在，它提供了该计划的详细信息，该计划将于 4 月下旬发布虚幻引擎 5.4 版后生效。
-这些变化不适用于游戏开发者，他们将继续通过对终身总收入超过 100 万美元的产品收取 5% 的版税来支付使用 Epic 工具的费用。相反，新的按席位（实际上是按用户）订阅费将适用于非游戏开发者，例如那些使用虚幻引擎制作线性内容（例如电影和电视节目、汽车信息娱乐系统或沉浸式体验）的开发者。作为不直接出售给客户的主题公园游乐设施。
-并非所有非游戏开发商都必须使用新的定价模式为虚幻引擎付费。 Epic 豁免年总收入低于 100 万美元的公司以及学生、教育工作者和“业余爱好者”。为虚幻引擎制作插件的公司可以继续免费使用；在这些情况下，Epic 将继续通过其虚幻引擎市场中的收入分成模式获得分成。
-1,850 美元的年费包括使用虚幻引擎以及 Epic 的 Twinmotion 实时可视化工具和 RealityCapture 摄影测量软件。 Epic 表示，它将在 2025 年底之前将其他工具捆绑在一起，然后将它们直接集成到虚幻引擎中，但它们也将单独提供，Twinmotion 每年 445 美元，RealityCapture 每年 1,250 美元。
-Epic 宣布计划在竞争对手 Unity 推出后几周推出新的定价模式 宣布 — 然后快速推出返回——一种有争议的按下载付费定价方案。与 Unity 回滚的定价模型一样，Epic 表示，其新定价模型将仅适用于使用最新版本引擎：虚幻引擎 5.4 制作的游戏。如果开发者使用的是 5.3 或更早版本，则在升级之前，定价更改将不适用。]]></description>
-      <guid>https://www.theverge.com/2024/3/12/24098279/epic-unreal-engine-pricing-plan-non-game-developers-twinmotion-realitycapture</guid>
-      <pubDate>Tue, 12 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托罗拉最新的廉价手机看起来出奇的好</title>
-      <link>https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Moto G Power：现在具有 NFC 和无线充电功能。 |图片：摩托罗拉
-
-摩托罗拉最近推出的廉价手机因设计乏善可陈、毫无意义的额外摄像头和平庸的功能集而受到阻碍。但希望似乎就在眼前：2024 年的 Moto G Power 5G 和 Moto G 5G 看起来相当不错——至少在纸面上是这样。
-这两款手机最终都提供了 NFC（为什么它一开始就缺失了，这还是个谜），而且它们都配有漂亮的纯素皮革背板。它们甚至还包括一个 microSD 卡插槽和一个内置耳机插孔，这些便利的功能是大多数手机制造商多年前就放弃的。 G Power 5G 还首次配备了无线充电功能，这在任何廉价手机中都是罕见的功能。 Moto G 5G 起价为 199 美元，Moto G Power 5G 起价为 299 美元。
-价格较高的 Moto G Power 配备 6.7 英寸 1080p LCD，最大刷新率为 120Hz - 就我个人而言，我会选择刷新率较低、对比度更高的 OLED 面板，但价格为 300 美元电话你拿你能得到的。它采用中端联发科天玑 7020 芯片组和 8GB RAM，只有两个后置摄像头：一个具有光学稳定功能的 50 兆像素主摄像头和一个具有自动对焦功能的 8 兆像素超广角摄像头，可兼作微距摄像头。这里没有愚蠢的低分辨率深度传感器或微距摄像头，祝福摩托罗拉。 
-
-
-图片：摩托罗拉
-Moto G Power 有午夜蓝色（如图所示）和淡紫丁香色。
-
-G Power 支持高达 30W 的有线充电，但您必须单独购买充电器才能获得这些速度。支持高达 15W 的无线充电。其配备了一块 5,000mAh 的大电池，不过价格较低的 Moto G 5G 也配备了其中一块。有趣的事实：根据摩托罗拉与我分享的规格表的文件名，5G Power 的内部代号似乎是 Cancun，Moto G 的内部代号是 Fogo。我喜欢一些内部棒球。
-较低层的 Moto G 5G 采用高通 Snapdragon 4 Gen 1 芯片组，配备 4GB RAM，并配备 6.6 英寸 720p LCD，刷新率也为 120Hz。有一个 50 兆像素的主摄像头（还有一个 2 兆像素的宏），有线充电功率最高为 18 瓦。与 G Power 一样，它只是“防水”，并没有完全防尘或防水——不幸的是，但在预算级别中很正常。 
-
-
-图片：摩托罗拉
-Moto G 5G 只有一种颜色：鼠尾草绿。
-
-这里正在发生一些有希望的变化，但一如既往，很大程度上取决于执行。 我评测的最后一款中端摩托罗拉手机 充满了过时的软件，以至于我不愿意向任何人推荐它。我们不需要等太久就能知道答案：2024 年款 Moto G Power 将于 3 月 22 日开始在 Cricket Wireless 上市，随后很快就会在其他运营商上市，解锁版本将于 3 月 29 日上市。 2024 款 Moto G 5G 将于 3 月 21 日起首先在 T-Mobile 上市，其他运营商也将跟进。解锁版本需要等待一段时间：它将于 5 月 2 日发布。
-]]></description>
-      <guid>https://www.theverge.com/2024/3/12/24097606/motorola-moto-g-5g-power-price-screen-battery</guid>
-      <pubDate>Tue, 12 Mar 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
