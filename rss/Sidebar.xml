@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 06:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 09:16:56 GMT</lastBuildDate>
+    <item>
+      <title>通过版式保护城市</title>
+      <link>https://www.chicagomag.com/chicago-magazine/march-2024/preserving-the-city-through-typography/</link>
+      <description><![CDATA[波蒂奇公园的一位插画家每次保存芝加哥过去的一封信。
+]]></description>
+      <guid>https://www.chicagomag.com/chicago-magazine/march-2024/preserving-the-city-through-typography/</guid>
+      <pubDate>Wed, 13 Mar 2024 05:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>七巧板</title>
+      <link>https://www.trangram.com/</link>
+      <description><![CDATA[Trangram 是一个免费的一站式平台，用于创建、制作动画和共享动态图形。
+]]></description>
+      <guid>https://www.trangram.com/</guid>
+      <pubDate>Wed, 13 Mar 2024 05:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>梯度器</title>
+      <link>https://gradientor.app/</link>
+      <description><![CDATA[极简、美丽的径向背景生成器
+]]></description>
+      <guid>https://gradientor.app/</guid>
+      <pubDate>Wed, 13 Mar 2024 05:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>让电影海报值得博物馆收藏的设计师</title>
+      <link>https://www.nytimes.com/2024/03/12/arts/design/movie-posters-silence-of-lambs.html</link>
+      <description><![CDATA[您在电影院外看过 Dawn Baillie 的惊悚片、喜剧和戏剧海报。
+]]></description>
+      <guid>https://www.nytimes.com/2024/03/12/arts/design/movie-posters-silence-of-lambs.html</guid>
+      <pubDate>Wed, 13 Mar 2024 05:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>伟大的厕所品牌重塑</title>
+      <link>https://www.dwell.com/article/bailey-hikawa-toilet-seats-trone-toilet-trend-62247306</link>
+      <description><![CDATA[几十年来，厕所一直被视为最好不要被人注意的东西，现在设计师们正在让厕所再次变得有趣。
+]]></description>
+      <guid>https://www.dwell.com/article/bailey-hikawa-toilet-seats-trone-toilet-trend-62247306</guid>
+      <pubDate>Wed, 13 Mar 2024 05:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能将如何影响创意工具</title>
       <link>https://www.figma.com/blog/david-hoang-on-how-ai-will-influence-creative-tools</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://adrianroselli.com/2024/03/jakob-has-jumped-the-shark.html</guid>
       <pubDate>Mon, 11 Mar 2024 06:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>破词技巧</title>
-      <link>https://adrianroselli.com/2024/02/techniques-to-break-words.html</link>
-      <description><![CDATA[几天前，本吉·斯坦顿 (Benjy Stanton) 询问如何打破表格中的长单词。
-]]></description>
-      <guid>https://adrianroselli.com/2024/02/techniques-to-break-words.html</guid>
-      <pubDate>Fri, 08 Mar 2024 00:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Popover API 的菜单、吐司等</title>
-      <link>https://frontendmasters.com/blog/menus-toasts-and-more/</link>
-      <description><![CDATA[下拉菜单、菜单、工具提示、组合框、toasts - popover 属性将使构建各种 UI 组件变得更加容易。
-]]></description>
-      <guid>https://frontendmasters.com/blog/menus-toasts-and-more/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为所有受众设计：绘制食品的未来</title>
-      <link>https://stamen.com/designing-for-all-audiences-mapping-the-future-of-food/</link>
-      <description><![CDATA[当天气事件成为常态时会发生什么？
-]]></description>
-      <guid>https://stamen.com/designing-for-all-audiences-mapping-the-future-of-food/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 CSS 工具提示和语音气泡（第 2 部分）</title>
-      <link>https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/</link>
-      <description><![CDATA[Temani Afif 探索不同的 CSS 技术来创建工具提示形状。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>改造流体排版</title>
-      <link>https://clagnut.com/blog/2428/</link>
-      <description><![CDATA[作为即将到来的模式日演讲的一部分，我决定使用乌托邦流体排版重建新近重新设计的 Creative Boom 文章页面。
-]]></description>
-      <guid>https://clagnut.com/blog/2428/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:01:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
