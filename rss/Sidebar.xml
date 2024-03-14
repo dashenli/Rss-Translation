@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 14 Mar 2024 00:56:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 03:16:19 GMT</lastBuildDate>
+    <item>
+      <title>JSON 画布</title>
+      <link>https://jsoncanvas.org/</link>
+      <description><![CDATA[用于无限画布数据的开放文件格式。
+]]></description>
+      <guid>https://jsoncanvas.org/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>草书的奇怪案例</title>
+      <link>https://www.printmag.com/typography/the-curious-case-of-cursive/</link>
+      <description><![CDATA[克洛伊·戈登 (Chloe Gordon) 着眼于草书在社会和设计中的演变。
+]]></description>
+      <guid>https://www.printmag.com/typography/the-curious-case-of-cursive/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>包容性设计的下一波浪潮将影响心理健康</title>
+      <link>https://medium.com/@MicrosoftDesign/inclusive-designs-next-wave-breaks-for-mental-health-8a0ae1a83def</link>
+      <description><![CDATA[我们的认知多样性设计工具包延伸到了幸福感。
+]]></description>
+      <guid>https://medium.com/@MicrosoftDesign/inclusive-designs-next-wave-breaks-for-mental-health-8a0ae1a83def</guid>
+      <pubDate>Thu, 14 Mar 2024 02:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>值得博物馆收藏</title>
+      <link>https://vimeo.com/920605262</link>
+      <description><![CDATA[很难创作出值得博物馆收藏的艺术品。制作具有博物馆价值的广告更加困难。 
+]]></description>
+      <guid>https://vimeo.com/920605262</guid>
+      <pubDate>Thu, 14 Mar 2024 02:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球设计系统的下一步是什么</title>
+      <link>https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/</link>
+      <description><![CDATA[全球设计系统将提高全球网络体验的质量和可访问性。
+]]></description>
+      <guid>https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>通过版式保护城市</title>
       <link>https://www.chicagomag.com/chicago-magazine/march-2024/preserving-the-city-through-typography/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.404s.design/</guid>
       <pubDate>Tue, 12 Mar 2024 05:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>二月网络平台新功能</title>
-      <link>https://web.dev/blog/web-platform-02-2024</link>
-      <description><![CDATA[探索 2024 年 2 月期间在稳定版和 Beta 版网络浏览器中推出的一些有趣功能。
-]]></description>
-      <guid>https://web.dev/blog/web-platform-02-2024</guid>
-      <pubDate>Mon, 11 Mar 2024 06:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>倾盆大雨</title>
-      <link>https://downpour.games/</link>
-      <description><![CDATA[将照片、图画和文本拼贴在一起，然后将它们连接成一个互动故事。
-]]></description>
-      <guid>https://downpour.games/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>无外边距</title>
-      <link>https://kyleshevlin.com/no-outer-margin/</link>
-      <description><![CDATA[向组件最外层元素添加边距是一种反模式。
-]]></description>
-      <guid>https://kyleshevlin.com/no-outer-margin/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metalab：我们制作界面</title>
-      <link>https://www.metalab.com/</link>
-      <description><![CDATA[Metalab 的新作品集网站。
-]]></description>
-      <guid>https://www.metalab.com/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>雅各布跳过了鲨鱼</title>
-      <link>https://adrianroselli.com/2024/03/jakob-has-jumped-the-shark.html</link>
-      <description><![CDATA[雅各布·尼尔森的传奇故事。
-]]></description>
-      <guid>https://adrianroselli.com/2024/03/jakob-has-jumped-the-shark.html</guid>
-      <pubDate>Mon, 11 Mar 2024 06:10:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
