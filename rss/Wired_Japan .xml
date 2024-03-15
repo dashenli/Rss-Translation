@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 14 Mar 2024 21:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 03:15:48 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局的新卫星从太空观测浮游植物和气溶胶，展示了地球的未来</title>
+      <link>https://wired.jp/article/nasas-pace-observatory-launch-spacex-aerosols-plankton/</link>
+      <description><![CDATA[浮游植物和气溶胶乍一看似乎很小，但对气候变化有着重大影响。现在全球变暖已经到了危急的地步，科学家们正试图通过地球观测卫星PACE收集信息。]]></description>
+      <guid>https://wired.jp/article/nasas-pace-observatory-launch-spacex-aerosols-plankton/</guid>
+      <pubDate>Fri, 15 Mar 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币价格飙升、热情重燃的背后是什么？</title>
+      <link>https://wired.jp/article/bitcoin-price-record-economics/</link>
+      <description><![CDATA[比特币的价格继续创下历史新高。随着新热潮的蔓延，围绕其价格驱动因素的神话和误解也随之蔓延。]]></description>
+      <guid>https://wired.jp/article/bitcoin-price-record-economics/</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>该裁决结束了有关比特币创造者的争议，该男子“不是中本聪”。</title>
+      <link>https://wired.jp/article/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</link>
+      <description><![CDATA[英国高等法院裁定，自称比特币发明者“中本聪”的计算机科学家克雷格·赖特“不是中本聪”。尽管审判以不同寻常的速度结束，但赖特面临着更大的问题。]]></description>
+      <guid>https://wired.jp/article/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</guid>
+      <pubDate>Thu, 14 Mar 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>聊天机器人阻止数百万人在 Pornhub 上搜索虐待儿童视频</title>
       <link>https://wired.jp/article/pornhub-chatbot-csam-help/</link>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 11 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>全球变暖导致的海平面上升的影响越来越严重，美国沿海城市的地面沉降正在加剧。</title>
+      <title>全球变暖导致的海平面上升的影响日益严重，美国沿海城市的地面沉降正在加剧。</title>
       <link>https://wired.jp/article/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/</link>
       <description><![CDATA[很明显，由于全球变暖，除了海平面上升之外，美国 32 个沿海城市正在经历地面沉降。根据新的研究，这些协同效应可能会增加洪水的预期影响和成本。]]></description>
       <guid>https://wired.jp/article/cities-arent-prepared-for-a-crucial-part-of-sea-level-rise-theyre-also-sinking/</guid>
       <pubDate>Mon, 11 Mar 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电动汽车销量放缓，因此现在断定转型将很困难还为时过早</title>
-      <link>https://wired.jp/article/electric-vehicle-market-growth-sales-slump/</link>
-      <description><![CDATA[全球电动汽车 (EV) 销量正在放缓。尽管似乎确实存在阻力，但专家表示，正确的公共政策和制造商的努力对于实现向电动汽车的过渡至关重要。]]></description>
-      <guid>https://wired.jp/article/electric-vehicle-market-growth-sales-slump/</guid>
-      <pubDate>Mon, 11 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何关闭 LinkedIn 上的个人资料查看“足迹”和通知</title>
-      <link>https://wired.jp/article/linkedin-tells-people-if-you-look-at-their-profile-how-to-turn-that-off/</link>
-      <description><![CDATA[当您在 LinkedIn 上查看某人的个人资料时，默认设置是通知他们。通过更改此设置，您可以查看其他人的个人资料，而不会留下任何“足迹”。]]></description>
-      <guid>https://wired.jp/article/linkedin-tells-people-if-you-look-at-their-profile-how-to-turn-that-off/</guid>
-      <pubDate>Mon, 11 Mar 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“AI蠕虫”终于出现──突破ChatGPT和Gemini的多个安全点</title>
-      <link>https://wired.jp/article/here-come-the-ai-worms/</link>
-      <description><![CDATA[安全研究人员在测试环境中创建了他们所谓的“第一个生成人工智能蠕虫”。该蠕虫可以在生成的人工智能代理之间传播，窃取数据并发送垃圾邮件。]]></description>
-      <guid>https://wired.jp/article/here-come-the-ai-worms/</guid>
-      <pubDate>Sun, 10 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
