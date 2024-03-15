@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 14 Mar 2024 00:55:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 00:55:35 GMT</lastBuildDate>
+    <item>
+      <title>前 Meta 高管 Hugo Barra 谈 Vision Pro ↦</title>
+      <link>https://sixcolors.com/link/2024/03/formet-meta-exec-hugo-barra-on-vision-pro/</link>
+      <description><![CDATA[Hugo Barra，Meta 的 Oculus 前负责人，对他的 Vision Pro 体验有一篇很长的评论，非常值得一读。不要让有点煽动性的第一个标题（四个？！）…]]></description>
+      <guid>https://sixcolors.com/link/2024/03/formet-meta-exec-hugo-barra-on-vision-pro/</guid>
+      <pubDate>Thu, 14 Mar 2024 22:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Panic 的 Nova 进行远程 Python 脚本编写</title>
+      <link>https://sixcolors.com/post/2024/03/using-panics-nova-for-remote-python-scripting/</link>
+      <description><![CDATA[在 Nova 中的 Python 项目中进行粘性滚动，配有终端选项卡和 SFTP 侧边栏。
+我用 Python 编写脚本已经有几年了，它已经接管了我的很多远程自动化工作。…]]></description>
+      <guid>https://sixcolors.com/post/2024/03/using-panics-nova-for-remote-python-scripting/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:14:34 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 486：我正在吃高领毛衣</title>
       <link>https://sixcolors.com/podcast/2024/03/the-rebound-486-im-eating-a-turtleneck/</link>
@@ -104,23 +119,6 @@
   好吧，显然该过程的第一步是从 MacBook 上物理移除屏幕，对吧？…]]></description>
       <guid>https://sixcolors.com/link/2024/03/federico-viticcis-self-made-mac-convertible/</guid>
       <pubDate>Thu, 07 Mar 2024 17:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>M3 MacBook Air 评测：更多的是好东西</title>
-      <link>https://sixcolors.com/post/2024/03/m3-macbook-air-review-more-of-a-good-thing/</link>
-      <description><![CDATA[ 午夜 M3 MacBook Air 在合盖模式下驱动两台 Studio 显示器。
-随着 M2 MacBook Air 的发布，Apple 过去十年的权威笔记本电脑 MacBook Air 终于在 2022 年进行了外观重新设计。…]]></description>
-      <guid>https://sixcolors.com/post/2024/03/m3-macbook-air-review-more-of-a-good-thing/</guid>
-      <pubDate>Thu, 07 Mar 2024 14:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果汽车项目失败的内幕↦</title>
-      <link>https://sixcolors.com/link/2024/03/the-inside-story-of-apples-failed-car-project/</link>
-      <description><![CDATA[彭博社的马克·古尔曼 (Mark Gurman) 和德雷克·贝内特 (Drake Bennett) 详细讲述了苹果汽车项目的兴衰。这是我最喜欢的一点：
-&lt;块引用&gt;
-  新设计还融入了更传统的汽车界面：方向盘和踏板。…]]></description>
-      <guid>https://sixcolors.com/link/2024/03/the-inside-story-of-apples-failed-car-project/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:24:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
