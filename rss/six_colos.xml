@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 15 Mar 2024 00:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 18:18:16 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2024/03/kolide-38/</link>
+      <description><![CDATA[感谢 Kolide 本周赞助六色。
+我们中没有人像我们想象的那样擅长对深度赝品进行计时。即使是您的妈妈、老板或 IT 部门的任何人也可能无法区分其中的差异。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/03/kolide-38/</guid>
+      <pubDate>Fri, 15 Mar 2024 18:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>前 Meta 高管 Hugo Barra 谈 Vision Pro ↦</title>
       <link>https://sixcolors.com/link/2024/03/formet-meta-exec-hugo-barra-on-vision-pro/</link>
@@ -30,14 +38,14 @@
     <item>
       <title>（播客）顺时针 545：蛋糕和饼干</title>
       <link>https://sixcolors.com/podcast/2024/03/clockwise-545-cake-and-cookies/</link>
-      <description><![CDATA[我们希望在美国看到欧洲强制的技术变革、圆形智能手表与方形智能手表、我们彻底重置设备的频率以及我们对家庭自动化追求的程度。…]]></description>
+      <description><![CDATA[我们希望在美国看到欧洲规定的技术变革、圆形智能手表与方形智能手表、我们彻底重置设备的频率以及我们对家庭自动化追求的程度。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/03/clockwise-545-cake-and-cookies/</guid>
       <pubDate>Wed, 13 Mar 2024 20:33:10 GMT</pubDate>
     </item>
     <item>
       <title>苹果对欧盟法规的态度意味着这场闹剧不会很快结束（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2264246</link>
-      <description><![CDATA[如果苹果按自己的方式行事，它永远不会开放 App Store 进行竞争，永远不会提供应用程序侧载，永远不会允许应用程序开发人员链接到外部网站，并且可能永远不会减少从最初 30 个 App Store 购买的份额关税百分比。…]]></description>
+      <description><![CDATA[如果苹果按照自己的方式行事，它永远不会开放 App Store 进行竞争，永远不会提供应用程序侧载，永远不会允许应用程序开发人员链接到外部网站，并且可能永远不会减少从最初 30 个 App Store 购买的份额关税百分比。…]]></description>
       <guid>https://www.macworld.com/article/2264246</guid>
       <pubDate>Wed, 13 Mar 2024 15:39:11 GMT</pubDate>
     </item>
@@ -65,7 +73,7 @@
       <pubDate>Mon, 11 Mar 2024 16:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>我把我的笨拙空间加热器放在 HomeKit 上</title>
+      <title>我把我的小型空间加热器放在 HomeKit 上</title>
       <link>https://sixcolors.com/post/2024/03/i-put-my-dumb-space-heater-on-homekit/</link>
       <description><![CDATA[
 我的工作空间显然是所谓的“无空调空间”，因为它是一个隔热程度较低的车库，无法使用我家的中央供暖系统。…]]></description>
@@ -107,18 +115,9 @@
     <item>
       <title>欧洲给了苹果改变态度的机会……但它会吗？</title>
       <link>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</link>
-      <description><![CDATA[一项裁决对苹果公司来说并不美妙：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
+      <description><![CDATA[一项裁决对苹果公司来说并不好听：欧盟委员会本周对该公司处以 20 亿美元的罚款，理由是该公司违反了欧盟的反垄断法规，特别是在音乐流媒体应用程序的分发方面。… ]]></description>
       <guid>https://sixcolors.com/post/2024/03/europe-gives-apple-a-chance-to-change-its-tunebut-will-it/</guid>
       <pubDate>Thu, 07 Mar 2024 20:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Federico Viticci 自制的 Mac 敞篷车 ↦</title>
-      <link>https://sixcolors.com/link/2024/03/federico-viticcis-self-made-mac-convertible/</link>
-      <description><![CDATA[如果您还没有看过，那么，这是 Federico Viticci 关于探索不同形状的 macOS 和 iOS 设备的作品中早期出现的一句话：
-&lt;块引用&gt;
-  好吧，显然该过程的第一步是从 MacBook 上物理移除屏幕，对吧？…]]></description>
-      <guid>https://sixcolors.com/link/2024/03/federico-viticcis-self-made-mac-convertible/</guid>
-      <pubDate>Thu, 07 Mar 2024 17:28:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
