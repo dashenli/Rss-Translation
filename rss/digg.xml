@@ -4,7 +4,14 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Sun, 17 Mar 2024 09:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 12:22:27 GMT</lastBuildDate>
+    <item>
+      <title>电影史上最酷的十部电影外星人</title>
+      <link>https://rss.digg.com/movies-and-tv/link/coolest-alien-designs-movies-list</link>
+      <description><![CDATA[如果您需要一些深夜垃圾来表演，想要好好吓一跳，或者渴望看到硬核的外星人暴力，那么您来对地方了。]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/coolest-alien-designs-movies-list</guid>
+      <pubDate>Thu, 14 Mar 2024 14:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>喜剧演员完美地模仿了一个非常特殊的播客家伙</title>
       <link>https://rss.digg.com/digg-vids/link/podcast-bro-comedian-skit-video</link>
@@ -36,7 +43,7 @@
     <item>
       <title>互联网上的人们愿意承认的一系列令人震惊的黑暗个人秘密</title>
       <link>https://rss.digg.com/internet-culture/link/deep-dark-secret-confession-internet-reddit</link>
-      <description><![CDATA[从凶残的爷爷到出轨的父母性爱录像带，这些都是一些疯狂的忏悔。]]></description>
+      <description><![CDATA[从凶残的爷爷到出轨的父母性爱录像带，这些都是一些疯狂的自白。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/deep-dark-secret-confession-internet-reddit</guid>
       <pubDate>Wed, 13 Mar 2024 17:33:20 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 05 Mar 2024 16:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>播放“翻转”</title>
-      <link>https://rss.digg.com/puzzmo/link/flipart</link>
-      <description><![CDATA[您的目标是旋转拼图，使拼图不重叠或突出，并且拼图框架内没有空白区域。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/flipart</guid>
-      <pubDate>Mon, 11 Dec 2023 20:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>漫威宇宙角色的并排尺寸比较</title>
-      <link>https://rss.digg.com/digg-vids/link/a-side-by-side-size-comparison-of-characters-from-the-marvel-universe-s3Ehin504R</link>
-      <description><![CDATA[从最小到最大，这里可以方便地了解您最喜欢的超级英雄以及未来几年将威胁他们的角色。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/a-side-by-side-size-comparison-of-characters-from-the-marvel-universe-s3Ehin504R</guid>
-      <pubDate>Wed, 29 Mar 2023 20:36:28 GMT</pubDate>
+      <title>按年龄可视化美国人的平均剩余寿命</title>
+      <link>https://rss.digg.com/data-viz/link/US-life-expectancy-visualized</link>
+      <description><![CDATA[这张有点病态的美国人预期寿命图表显示了美国人平均还剩下多少时间，具体取决于他们的年龄。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/US-life-expectancy-visualized</guid>
+      <pubDate>Wed, 29 Nov 2023 14:57:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
