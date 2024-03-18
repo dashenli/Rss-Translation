@@ -4,7 +4,25 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Mar 2024 03:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 09:13:39 GMT</lastBuildDate>
+    <item>
+      <title>高通新款 8S Gen 3 针对非旗舰手机</title>
+      <link>https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai</link>
+      <description><![CDATA[&lt;图&gt;
+      
+是中高频吗？是不是比较高端？很难说。 |图片：高通
+
+高通刚刚推出了一款新芯片组，其设计的功能和价格略低于其当前旗舰产品。 Snapdragon 8S Gen 3 旨在将 8 Gen 3 的大部分功能（包括对设备上生成式 AI 模型的支持）引入到更实惠的手机中。它代表了顶级 8 系列芯片的新层次，但也有点令人困惑。
+在我们深入讨论之前，让我们先从简单的开始：8S Gen 3 包含一个与标准 8 Gen 3 类似的 GPU，但它少了一个性能核心并且运行频率较低— 主核心的运行频率高达 3.0GHz，而 8 Gen 3 的运行频率为 3.4GHz。新的 8S Gen 3 还使用上一代调制解调器 X70 5G，其中包括 Wi-Fi 7 支持。它还支持硬件加速光线追踪，因此逼真的游戏运行更流畅，这似乎是 如今手机旗舰的基准 .
+
+当然，还有人工智能。 8S Gen 3 支持设备上的多模式生成式 AI，并且可以运行多达 100 亿个参数的大型语言模型，其中包括 Llama 2 和 Gemini Nano 等。它不提供 Snapdragon 8 Gen 3 的所有 AI 功能，但支持 gen AI 虚拟助手和图像扩展。
+高通产品管理高级总监 Deepu John 解释道，每个 Snapdragon 高层都可以分为三个子类别。有 Snapdragon 8、7、6 和 4 系列芯片组，其中最多有三种不同的产品。这款“S”系列芯片位于标准 8 Gen 3 的下方，如果高通发布 8 Plus Gen 3，它将位于顶部。 
+自然有人工智能
+明白了吗？太棒了，当您记得手机制造商仍在使用 2022 年的旗舰产品 Snapdragon 8 Gen 2，用于非旗舰手机，例如 OnePlus 12R。还有 Snapdragon 7 Gen 3，位于 8S Gen 3 下方，尽管它只出现在少数手机中。高通似乎正在将高端手机市场切得很薄，也许是为了阻止原始设备制造商转向联发科的非旗舰设备。 
+无论如何，8S Gen 3 应该很快就会开始出现在市场上，尽管不是在美国容易销售的设备中。荣耀、iQOO、Realme、Redmi 和小米都表示将使用该平台，预计“未来几个月”将推出新设备。]]></description>
+      <guid>https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai</guid>
+      <pubDate>Mon, 18 Mar 2024 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>xAI 开源 Grok</title>
       <link>https://www.theverge.com/2024/3/17/24097810/xai-open-source-grok-musk-generative-ai-llm</link>
@@ -122,13 +140,6 @@ Meta 发言人告诉《华尔街日报》，“非法药物的销售违反了我
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24102027/ryuichi-sakamoto-opus-concert-film-neo-sora-interview</guid>
       <pubDate>Sat, 16 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bose 的 QuietComfort Ultra 降噪耳机以最低价格回归</title>
-      <link>https://www.theverge.com/2024/3/16/24101823/boses-quietcomfort-ultra-razer-kishi-google-nest-thermostat-v2-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/16/24101823/boses-quietcomfort-ultra-razer-kishi-google-nest-thermostat-v2-deal-sale</guid>
-      <pubDate>Sat, 16 Mar 2024 12:50:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
