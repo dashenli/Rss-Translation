@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Tue, 19 Mar 2024 12:24:45 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Tue, 19 Mar 2024 15:17:04 GMT</lastBuildDate>
+    <item>
+      <title>查看 Dorling Kindersley、Yrs Truly 等机构的工作机会</title>
+      <link>https://www.itsnicethat.com/news/if-you-could-jobs-190324</link>
+      <description><![CDATA[查看发布到我们姐妹网站“If You Could Jobs”上的所有最新职位。]]></description>
+      <guid>https://www.itsnicethat.com/news/if-you-could-jobs-190324</guid>
+      <pubDate>Tue, 19 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用插图作为教育和启发的工具？ Maisy Summer 分享她的智慧</title>
       <link>https://www.itsnicethat.com/articles/maisy-summer-education-illustration-project-190324</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[自闭症患者不仅喜欢火车和数学，他们还具有创造力。 Lylani Devorah 请求其他自闭症创意人士消除艺术中自闭症的神话，并讨论在富有想象力的行业中成为逻辑思考者所面临的挑战。]]></description>
       <guid>https://www.itsnicethat.com/features/autism-creative-industry-190324</guid>
       <pubDate>Tue, 19 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TwoPoints.Net 为 Donut Shop 家具构建混合搭配字体</title>
+      <link>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</link>
+      <description><![CDATA[TwoPoints.Net 建议，简单的编辑设计就足够了，而不是将注意力集中在广告活动上。]]></description>
+      <guid>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</guid>
+      <pubDate>Mon, 18 Mar 2024 16:15:00 GMT</pubDate>
     </item>
     <item>
       <title>“我们必须成为我们叙事的建筑师”：Adraint Khadafhi Bereal 记录黑人大学生活</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[插画家向我们介绍了他屡试不爽的创作梦幻和情感作品的方法。]]></description>
       <guid>https://www.itsnicethat.com/articles/hoi-chan-illustration-project-130324</guid>
       <pubDate>Wed, 13 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔夫·奥林斯 (Wolff Olins) 对迪卡侬进行品牌重塑，为该公司带来了第一个徽标</title>
-      <link>https://www.itsnicethat.com/articles/wolff-olins-decathlon-graphic-design-project-120324</link>
-      <description><![CDATA[如何为一个已有 48 年历史、只有文字商标的品牌创建一个形象？]]></description>
-      <guid>https://www.itsnicethat.com/articles/wolff-olins-decathlon-graphic-design-project-120324</guid>
-      <pubDate>Tue, 12 Mar 2024 16:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>林赛·佩里曼 (Lindsay Perryman) 的电影《上衣》探讨了非裔美国人接受上衣手术的亲密经历</title>
-      <link>https://www.itsnicethat.com/articles/lindsay-perryman-tops-film-project-120324</link>
-      <description><![CDATA[艺术家如何平衡自己的视野与为他人的表达创造空间？林赛·佩里曼有一个答案。]]></description>
-      <guid>https://www.itsnicethat.com/articles/lindsay-perryman-tops-film-project-120324</guid>
-      <pubDate>Tue, 12 Mar 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
