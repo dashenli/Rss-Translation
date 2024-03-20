@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 20 Mar 2024 03:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 15:16:35 GMT</lastBuildDate>
+    <item>
+      <title>使用 React Three Fiber 创建交互式 3D 凸出文本效果</title>
+      <link>https://tympanus.net/codrops/2024/03/20/creating-an-interactive-3d-bulge-text-effect-with-react-three-fiber/</link>
+      <description><![CDATA[探索如何使用 React Three Fiber 在文本上生成引人入胜的凸起效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/03/20/creating-an-interactive-3d-bulge-text-effect-with-react-three-fiber/</guid>
+      <pubDate>Wed, 20 Mar 2024 12:18:41 GMT</pubDate>
+    </item>
     <item>
       <title>集体#822</title>
       <link>https://tympanus.net/codrops/collective/collective-822/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[什么是实用优先 CSS？ * Hyperdiv * htmz * 404 个创意]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-818/</guid>
       <pubDate>Tue, 05 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#817</title>
-      <link>https://tympanus.net/codrops/collective/collective-817/</link>
-      <description><![CDATA[什么是实用优先 CSS？ * Hyperdiv * htmz * 404 个创意]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-817/</guid>
-      <pubDate>Fri, 01 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
