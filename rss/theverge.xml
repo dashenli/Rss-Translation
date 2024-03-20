@@ -4,7 +4,75 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 21:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:54:00 GMT</lastBuildDate>
+    <item>
+      <title>牛仔的第一辆全公路电动自行车是一头温柔的野兽</title>
+      <link>https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs</link>
+      <description><![CDATA[&lt;图&gt;
+      
+“蘑菇”状的牛仔十字架，倒置的前悬架清晰可见。 |摄影：Thomas Ricker / The Verge
+
+牛仔 — 独立且财务状况良好&lt; /a&gt; 精密和高度先进的电动自行车制造商 - 刚刚揭开了其第一款全公路自行车的面纱，让骑手可以更轻松地逃离鹅卵石城市街道，前往更绿色的牧场。
+为此，牛仔的新Cross 电动自行车配备更宽的 60 毫米轮胎，前叉和座杆内置悬架系统，以吸收沿途的颠簸。它还配备了抓地力更强的踏板，以避免在弹跳时脚打滑，还有一个大型 540Wh 可拆卸电池，最大续航里程为 120 公里（75 英里），以及一个集成后架，可以携带更多物品。 
+
+我花了一些时间在各种路面上试骑 Cross 电动自行车，从各方面来看，它确实都是一头野兽。首先，座椅悬架很豪华，我希望牛仔能将其延续到其产品线的其他产品中。倒置前叉悬架和更宽的轮胎也发挥了作用，使这款（非常）重的电动自行车在人行道、堆积的泥土和砾石上感觉绝对坚固。毫无疑问，我不会在下一次多日自行车旅行中选择 Cross，但它可以轻松地从城市自行车转变为休闲乡村冒险家。
+我认为这些自行车看起来也很棒。三种新的金属缎面漆颜色都是朴实的色调，包括稳重的深灰色、可爱的苔藓绿和“蘑菇”色，随着光线的变化，蘑菇色似乎从肮脏的银色变成柔和的紫色，再变成生锈的香槟金色。跨步框架上的顶管在电池周围分裂时也会产生有趣的浮动效果。
+此外，这款踏板辅助电动自行车（有跨步式或跨步式车架可供选择）由皮带驱动的 250W 后轮毂提供动力 自适应功率 电机，欧盟最高时速为 25 公里/小时，如 Cowboy 的其他电动自行车。
+Cross 也是 Cowboy 的第一款配备新的 Check My Bike 自诊断工具的电动自行车，该工具可让公司自动监控滚动计算机的运行状况，以延长骑手在路上的时间。该公司还在应用程序中添加了新的实时挑战游戏化功能，承诺创造“最有趣和最吸引人的骑行体验”。当然。
+
+所有这些功能都与 Cowboy 闻名的许多技术装饰相结合，例如碰撞检测、盗窃检测以及集成了 Google 地图导航的出色专有应用程序，该应用程序还使调度服务变得轻而易举。 
+Cowboy 推出时的定价为 3,499 欧元（约合 3,800 美元），最终上涨至 3,999 欧元。今天开始销售。]]></description>
+      <guid>https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs</guid>
+      <pubDate>Tue, 19 Mar 2024 23:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 首次展示了 Threads 的联邦多元化集成</title>
+      <link>https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Threads 即将进入联邦宇宙 - 我们刚刚从 Meta 本身首次正式了解了它的运作方式。在周二的 FediForum 会议上，Meta 的 Peter Cottle 展示了一个简短的演示，说明用户最终将如何能够将他们的帐户和帖子连接到联邦宇宙。该集成将允许用户通过 Threads 在不同平台上分享他们的帖子，让他们同时接触到多个受众。 Meta 只是旨在加入 fediverse 的众多平台之一，一组旨在实现彼此互操作的去中心化社交网络。
+正如您在下面的 FediForum 与 The Verge 分享的视频中看到的那样，Cottle 可以导航到他的 Threads 帐户设置并打开一个名为“fediverse 共享”的选项。然后，Meta 将显示一个弹出窗口，解释联邦宇宙到底是什么，以及一些免责声明，Meta 将向用户标记，以便他们知道自己正在进入什么。 
+
+首先，Meta 指出，用户需要拥有公开个人资料才能开启该功能，这是 Instagram 的头条Adam Mosseri 已经提到过。当前 alpha 测试中的用户也无法查看对其帖子的回复，只能看到他们获得的点赞。 Cottle 表示 Meta 正在“非常努力”地改变这一现状。
+此外，Meta 警告说，如果用户决定在 Threads 上删除某个帖子，Threads 无法“保证”该帖子会在其他链接平台上被删除。换句话说，您的帖子可能仍然在链接的 Mastodon 服务器上可见，即使您决定使用 Threads 删除它。
+“我认为这是我们今天使用的协议的一个缺点，但我认为重要的是要让人们知道，如果您发布某些内容而另一台服务器获取了副本，我们不一定会强制执行它，”科特尔说。 
+
+
+
+启用 fediverse 共享后，用户将能够发布到通过 ActivityPub 互操作的其他服务。 Cottle 表示，Threads 将“等待五分钟”，然后再将帖子发送到联邦宇宙，在此期间，用户有机会编辑或删除他们的帖子。如果 Threads 用户启用了 fediverse 共享，他们的个人资料将显示一个“药丸”图标，其他用户可以单击该图标来复制其 fediverse 用户名。 
+Cottle 演示了使用 Threads 向联邦发布帖子的过程，您已经可以看到他的帖子是如何联合的前往乳齿象。
+
+“我知道人们对 Meta 进入联邦宇宙有很多怀疑——这是完全可以理解的，”Cottle 说。 “我确实想呼吁，我认为团队中的每个人都有真正的良好意愿。我们真的很想成为社区的优秀成员，让人们能够体验联邦宇宙是什么。”
+FediForum 是一项在线活动，让开发者有机会展示他们在 Fediverse 中的工作成果。 FediForum 联合创始人之一约翰内斯·恩斯特 (Johannes Ernst) 告诉 The Verge：“这对他们有好处，对我们其他人来说也有好处，看看他们在做什么。” “他们对自己正在构建的内容和原因保持透明。” 
+Threads 去年开始测试 ActivityPub 集成，Mosseri 去年 12 月建议 Threads联邦宇宙的计划可能需要“一年的大部分时间”才能实现。本月早些时候，Threads 为 ActivityPub 协议的创建者之一 Evan Prodromou 提供了在 Threads 和 Mastodon 上发帖的能力。 Threads 还计划让用户关注非 Threads 联盟帐户，并让创作者将他们的关注者带到另一个平台。]]></description>
+      <guid>https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum</guid>
+      <pubDate>Tue, 19 Mar 2024 22:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Pixel 8A 可能会配备更亮的 120Hz 显示屏</title>
+      <link>https://www.theverge.com/2024/3/19/24106211/google-pixel-8a-120-hz-brighter-display-displayport</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：OnLeaks /智能奖
+
+Google Pixel 8A 可能配备 120Hz 显示屏，高于 Pixel 7A - 以及更亮的屏幕，根据卡米拉·沃伊切霍斯卡 (Kamila Wojciechowska) 的说法，她过去的泄密内容包括 预发布 Pixel Fold。 
+Google 2024 年 I/O 大会将于 定于 5 月 14 日，届时该公司可能会再次大量谈论人工智能。该公司也可能在此发布 Pixel 8A。
+为撰写Android Authority，Wojciechowska 表示，廉价 Pixel 手机系列的下一款产品将具有 1,400 尼特的峰值亮度，高于 7A 的 1,000 尼特，并且对通过 USB-C 的 DisplayPort 输出提供有限支持。这些可能都是对其前身的改进，但如果这个泄漏是准确的，它不会追随 7A 的领先地位，拥有比 Pixel 8 更好的相机系统，因为它表示谷歌正在将去年的相机转移到 8A 上。 
+
+过去的泄露 已提出建议 Pixel 8A 将采用 Pixel 8 的更新圆角、Tensor G3 芯片，并且它将继续是像 7A 一样的 6.1 英寸手机，所有这些都在今天 Wojciechowska 的泄露得到证实。总而言之，所有这些传闻中的变化可能会让 Pixel 8A 感觉更像是一个更小的（或者，正如有些人所说的，尺寸正确）和更便宜的 Pixel 8 版本，只是有不错的折扣。
+Google 为 Pixel 8 提供的 AI 功能数量少于 Pixel 8 Pro。 Wojciechowska 表示，新款 8A 中的 Tensor G3 将比驱动 Pixel 8 的 G3 稍厚、更热，因此最大的问题是，有多少 AI 功能将向更便宜的手机用户开放。]]></description>
+      <guid>https://www.theverge.com/2024/3/19/24106211/google-pixel-8a-120-hz-brighter-display-displayport</guid>
+      <pubDate>Tue, 19 Mar 2024 22:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是目前最优惠的 iPad 优惠</title>
+      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
+      <pubDate>Tue, 19 Mar 2024 21:25:54 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 的播客热潮可能会破灭</title>
       <link>https://www.theverge.com/2024/3/19/24106175/tiktok-ban-podcast-planet-money-everything-everywhere-instagram</link>
@@ -57,42 +125,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
       <pubDate>Tue, 19 Mar 2024 16:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐高 3,745 块 D&D 套装带有自己的可玩冒险</title>
-      <link>https://www.theverge.com/2024/3/19/24105862/lego-dungeons-and-dragons-pictures-price-release-date</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/19/24105862/lego-dungeons-and-dragons-pictures-price-release-date</guid>
-      <pubDate>Tue, 19 Mar 2024 16:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hackintosh 爱好者担心末日即将来临</title>
-      <link>https://www.theverge.com/2024/3/19/24105829/hackintosh-almost-dead-macos-sonoma-drivers</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Aleksandar Vacić
-
-多年来，一直有一个由技术修补者组成的专门社区，他们用 PC 硬件构建了非官方的“Mac”，或者成功让 macOS 在过去运行 Windows 的笔记本电脑上运行。但现在，其中一些狂热者认为 Hackintosh 的梦想变得越来越站不住脚。
-这篇博文，作者：Aleksandar Vacić，9to5Mac 重点介绍了一些似乎正在增长的困难那天。简而言之，macOS Sonoma 取消了对十年前英特尔 Mac 中发现的许多驱动程序的支持。 Vacić 表示，这些驱动程序是“许多功能齐全的 Hackintosh 构建的关键要素”。仍然可以将 Hackintosh 与 Sonoma 操作系统拼凑在一起，但您必须适应一些复杂的解决方法，这些解决方法可能会降低机器的整体安全性。目前，最好的建议是继续使用 macOS Ventura，这不会永远是一个现实的解决方案。
-这个博客中有一件特别让我印象深刻的事情：Vacić 提到，Hackintosh 场景在苹果发布一些构思最糟糕的 Mac 时才真正出现了。形式优先于功能。 MacBook Pro 是 美丽胜于肌肉，这甚至在你到达Mac Pro 垃圾桶。
-相比之下，今天的阵容非常强大：MacBook 电池续航时间更长 并且再次拥有普通键盘！甚至 Mac Mini 也在定期更新。然而，就在不久之前，人们还感觉 Mac 在苹果的优先列表中垫底。
-近年来，Hackintosh 机器配备了正确的组件甚至可以围绕 Apple Silicon Mac 运行。但随着保持这些机器运行的步骤变得越来越乏味——尤其是如果你坚持使用苹果最新的软件——人们不可避免地会感到疲劳，不再费心。 Hacker News 上的这条评论很好地总结了这种挫败感：“这些天我想使用 计算机，而不是花时间试图说服它工作。” Hackintoshes 有他们的时间和有价值的目标，但看起来时间已经快到了。]]></description>
-      <guid>https://www.theverge.com/2024/3/19/24105829/hackintosh-almost-dead-macos-sonoma-drivers</guid>
-      <pubDate>Tue, 19 Mar 2024 16:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>育碧让我与新的人工智能 NPC 进行真正的对话</title>
-      <link>https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024</guid>
-      <pubDate>Tue, 19 Mar 2024 16:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>电动汽车革命取决于即将出台的排放规则</title>
-      <link>https://www.theverge.com/2024/3/19/24105752/epa-emission-rule-electric-vehicle-transition-timeline</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/19/24105752/epa-emission-rule-electric-vehicle-transition-timeline</guid>
-      <pubDate>Tue, 19 Mar 2024 15:56:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
