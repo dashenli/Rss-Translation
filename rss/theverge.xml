@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 20 Mar 2024 00:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 06:16:22 GMT</lastBuildDate>
+    <item>
+      <title>Apex Legends 开发者确认电子竞技黑客事件，并通过“分层”更新进行回应</title>
+      <link>https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns</guid>
+      <pubDate>Wed, 20 Mar 2024 04:29:48 GMT</pubDate>
+    </item>
     <item>
       <title>牛仔的第一辆全公路电动自行车是一头温柔的野兽</title>
       <link>https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs</link>
@@ -33,18 +40,18 @@ Cowboy 推出时的定价为 3,499 欧元（约合 3,800 美元），最终上�
 插图：The Verge
 
 Threads 即将进入联邦宇宙 - 我们刚刚从 Meta 本身首次正式了解了它的运作方式。在周二的 FediForum 会议上，Meta 的 Peter Cottle 展示了一个简短的演示，说明用户最终将如何能够将他们的帐户和帖子连接到联邦宇宙。该集成将允许用户通过 Threads 在不同平台上分享他们的帖子，让他们同时接触到多个受众。 Meta 只是旨在加入 fediverse 的众多平台之一，一组旨在实现彼此互操作的去中心化社交网络。
-正如您在下面的 FediForum 与 The Verge 分享的视频中看到的那样，Cottle 可以导航到他的 Threads 帐户设置并打开一个名为“fediverse 共享”的选项。然后，Meta 将显示一个弹出窗口，解释联邦宇宙到底是什么，以及一些免责声明，Meta 将向用户标记，以便他们知道自己正在进入什么。 
+正如您在下面的 FediForum 与 The Verge 分享的视频中看到的那样，Cottle 可以导航到他的 Threads 帐户设置并打开一个名为“fediversesharing”的选项。然后，Meta 将显示一个弹出窗口，解释联邦宇宙到底是什么，以及一些免责声明，Meta 将向用户标记，以便他们知道自己正在进入什么。 
 
-首先，Meta 指出，用户需要拥有公开个人资料才能开启该功能，这是 Instagram 的头条Adam Mosseri 已经提到过。当前 alpha 测试中的用户也无法查看对其帖子的回复，只能看到他们获得的点赞。 Cottle 表示 Meta 正在“非常努力”地改变这一现状。
-此外，Meta 警告说，如果用户决定在 Threads 上删除某个帖子，Threads 无法“保证”该帖子会在其他链接平台上被删除。换句话说，您的帖子可能仍然在链接的 Mastodon 服务器上可见，即使您决定使用 Threads 删除它。
+首先，Meta 指出用户需要拥有公开个人资料才能开启该功能，这是 Instagram 的头条Adam Mosseri 已经提到过。当前 alpha 测试中的用户也无法查看对其帖子的回复，只能看到他们获得的点赞。 Cottle 表示 Meta 正在“非常努力”地改变这一现状。
+此外，Meta 警告说，如果用户决定在 Threads 上删除某个帖子，那么 Threads 无法“保证”该帖子会在其他链接平台上被删除。换句话说，您的帖子可能仍然在链接的 Mastodon 服务器上可见，即使您决定使用 Threads 删除它。
 “我认为这是我们今天使用的协议的一个缺点，但我认为重要的是要让人们知道，如果您发布某些内容而另一台服务器获取了副本，我们不一定会强制执行它，”科特尔说。 
 
 
 
 启用 fediverse 共享后，用户将能够发布到通过 ActivityPub 互操作的其他服务。 Cottle 表示，Threads 将“等待五分钟”，然后再将帖子发送到联邦宇宙，在此期间，用户有机会编辑或删除他们的帖子。如果 Threads 用户启用了 fediverse 共享，他们的个人资料将显示一个“药丸”图标，其他用户可以单击该图标来复制其 fediverse 用户名。 
-Cottle 演示了使用 Threads 向联邦发布帖子的过程，您已经可以看到他的帖子是如何联合的前往乳齿象。
+Cottle 演示了使用 Threads 向 Fediverse 发帖的过程，您已经可以看到他的帖子是如何联合的前往乳齿象。
 
-“我知道人们对 Meta 进入联邦宇宙有很多怀疑——这是完全可以理解的，”Cottle 说。 “我确实想呼吁，我认为团队中的每个人都有真正的良好意愿。我们真的很想成为社区的优秀成员，让人们能够体验联邦宇宙是什么。”
+“我知道人们对 Meta 进入联邦宇宙有很多怀疑——这是完全可以理解的，”Cottle 说。 “我确实想呼吁，我认为团队中的每个人都有很好的意图。我们真的很想成为社区的优秀成员，让人们能够体验联邦宇宙是什么。”
 FediForum 是一项在线活动，让开发者有机会展示他们在 Fediverse 中的工作成果。 FediForum 联合创始人之一约翰内斯·恩斯特 (Johannes Ernst) 告诉 The Verge：“这对他们有好处，对我们其他人来说也有好处，看看他们在做什么。” “他们对自己正在构建的内容和原因保持透明。” 
 Threads 去年开始测试 ActivityPub 集成，Mosseri 去年 12 月建议 Threads联邦宇宙的计划可能需要“一年的大部分时间”才能实现。本月早些时候，Threads 为 ActivityPub 协议的创建者之一 Evan Prodromou 提供了在 Threads 和 Mastodon 上发帖的能力。 Threads 还计划让用户关注非 Threads 联盟帐户，并让创作者将他们的关注者带到另一个平台。]]></description>
       <guid>https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum</guid>
@@ -59,7 +66,7 @@ Threads 去年开始测试 ActivityPub 集成，Mosseri 去年 12 月建议 Thre
 
 Google Pixel 8A 可能配备 120Hz 显示屏，高于 Pixel 7A - 以及更亮的屏幕，根据卡米拉·沃伊切霍斯卡 (Kamila Wojciechowska) 的说法，她过去的泄密内容包括 预发布 Pixel Fold。 
 Google 2024 年 I/O 大会将于 定于 5 月 14 日，届时该公司可能会再次大量谈论人工智能。该公司也可能在此发布 Pixel 8A。
-为撰写Android Authority，Wojciechowska 表示，廉价 Pixel 手机系列的下一款产品将具有 1,400 尼特的峰值亮度，高于 7A 的 1,000 尼特，并且对通过 USB-C 的 DisplayPort 输出提供有限支持。这些可能都是对其前身的改进，但如果这个泄漏是准确的，它不会追随 7A 的领先地位，拥有比 Pixel 8 更好的相机系统，因为它表示谷歌正在将去年的相机转移到 8A 上。 
+为撰写Android Authority，Wojciechowska 表示，廉价 Pixel 手机系列的下一款产品将具有 1,400 尼特的峰值亮度，高于 7A 的 1,000 尼特，并且对通过 USB-C 的 DisplayPort 输出提供有限支持。这些可能都是相对于其前身的改进，但如果这个泄漏是准确的，它不会追随 7A 的领先地位，拥有比 Pixel 8 更好的相机系统，因为它表示谷歌正在将去年的相机转移到 8A 上。 
 
 过去的泄露 已提出建议 Pixel 8A 将采用 Pixel 8 的更新圆角、Tensor G3 芯片，并且它将继续是像 7A 一样的 6.1 英寸手机，所有这些都在今天 Wojciechowska 的泄露得到证实。总而言之，所有这些传闻中的变化可能会让 Pixel 8A 感觉更像是一个更小的（或者，正如有些人所说的，尺寸正确）和更便宜的 Pixel 8 版本，只是有不错的折扣。
 Google 为 Pixel 8 提供的 AI 功能数量少于 Pixel 8 Pro。 Wojciechowska 表示，新款 8A 中的 Tensor G3 将比驱动 Pixel 8 的 G3 稍厚、更热，因此最大的问题是，有多少 AI 功能将向更便宜的手机用户开放。]]></description>
@@ -87,8 +94,8 @@ Google 为 Pixel 8 提供的 AI 功能数量少于 Pixel 8 Pro。 Wojciechowska 
       
 添加到《守望先锋》中的一些英雄 |图片：暴雪
 
-《守望先锋 2》英雄将不再需要通过 Battle Pass 或购买来解锁，从而减轻了现在免费团队 FPS 的苦差事。 从第 10 季开始，玩家将能够免费解锁所有现有和未来的英雄。其中包括 最新加入的英雄 Venture 《守望先锋》&lt; /em&gt; 下赛季的名单。 
-游戏新玩家仍需要完成首次用户体验&lt; /a&gt;.正如游戏总监 Aaron Keller 在最新的开发者更新中所解释的那样，只有当新手玩家解锁了《守望先锋》第一批英雄名单中的英雄后，所有《守望先锋 2》的英雄才可以供他们使用。视频。
+《守望先锋 2》英雄将不再需要通过战斗通行证或购买来解锁，从而减轻了现在免费团队 FPS 中的一些苦差事。 从第 10 季开始，玩家将能够免费解锁所有现有和未来的英雄。其中包括 最新加入的英雄 Venture 《守望先锋》&lt; /em&gt; 下赛季的名单。 
+游戏新玩家仍需要完成首次用户体验&lt; /a&gt;.正如游戏总监 Aaron Keller 在最新的开发者更新中所解释的那样，只有当新手玩家解锁了《守望先锋》第一批英雄名单中的英雄后，所有《守望先锋 2》的英雄才会可供他们使用。视频。
 
 免费英雄是游戏的回归，因为这些英雄是在《守望先锋 1》中自动授予的。但暴雪选择在发布之前为英雄付费 2022 年推出，作为免费游戏的同时货币化的一种方式。 
 对于在第 10 赛季中未购买战斗通行证的玩家，暴雪还将玩家在免费赛道中可以获得的金币数量从 540 个金币增加到 600 个金币。 
@@ -118,13 +125,6 @@ Google 为 Pixel 8 提供的 AI 功能数量少于 Pixel 8 Pro。 Wojciechowska 
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/19/24098381/ai-chatbots-election-misinformation-chatgpt-gemini-copilot-bing-claude</guid>
       <pubDate>Tue, 19 Mar 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前 MacBook 的最优惠价格</title>
-      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
-      <pubDate>Tue, 19 Mar 2024 16:46:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
