@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Wed, 20 Mar 2024 15:16:26 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Wed, 20 Mar 2024 18:19:01 GMT</lastBuildDate>
+    <item>
+      <title>POV：利用人体来创造类型，触及我们最深层的欲望</title>
+      <link>https://www.itsnicethat.com/articles/pov-the-human-alphabet-visual-trend-graphic-design-200324</link>
+      <description><![CDATA[在本周的 POV 中，设计总监 Jakob Weinettel 追溯了“人类字母表”的发展趋势，以及这种视觉语言如何充分说明设计师对人类形态的集体痴迷。]]></description>
+      <guid>https://www.itsnicethat.com/articles/pov-the-human-alphabet-visual-trend-graphic-design-200324</guid>
+      <pubDate>Wed, 20 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>默里奶酪品牌重塑让纽约奶酪销售商变得更好</title>
       <link>https://www.itsnicethat.com/articles/base-murrays-cheese-graphic-design-project-200324</link>
@@ -32,6 +39,13 @@
       <description><![CDATA[从 2013 年到 2022 年，当荷兰农民开始面临严厉的农业政策时，罗兰·伊金走遍了荷兰与德国边境，拍摄外墙以及生活在那里的人和动物。]]></description>
       <guid>https://www.itsnicethat.com/features/roland-icking-facade-photography-200324</guid>
       <pubDate>Wed, 20 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TwoPoints.Net 为 Donut Shop 家具构建混合搭配字体</title>
+      <link>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</link>
+      <description><![CDATA[TwoPoints.Net 建议，简单的编辑设计就足够了，而不是将注意力集中在广告活动上。]]></description>
+      <guid>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</guid>
+      <pubDate>Tue, 19 Mar 2024 16:15:00 GMT</pubDate>
     </item>
     <item>
       <title>Guap 杂志九年来为伦敦多样化的新兴创意人士提供平台</title>
@@ -69,13 +83,6 @@
       <pubDate>Tue, 19 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>TwoPoints.Net 为 Donut Shop 家具构建混合搭配字体</title>
-      <link>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</link>
-      <description><![CDATA[TwoPoints.Net 建议，简单的编辑设计就足够了，而不是将注意力集中在广告活动上。]]></description>
-      <guid>https://www.itsnicethat.com/articles/two-points-net-donut-shop-graphic-design-180324</guid>
-      <pubDate>Mon, 18 Mar 2024 16:15:00 GMT</pubDate>
-    </item>
-    <item>
       <title>“我们必须成为我们叙事的建筑师”：Adraint Khadafhi Bereal 记录黑人大学生活</title>
       <link>https://www.itsnicethat.com/articles/adraint-bereal-the-black-yearbook-publication-photography-project-180324</link>
       <description><![CDATA[摄影师的混合媒体方法揭示了美国各地大学黑人学生的多层次视角。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[该在线出版物由活动家组织 Artists + Allies x Hebron 创立，将巴勒斯坦的创造力置于最前沿。了解有关迄今为止平台上的七位艺术家的更多信息。]]></description>
       <guid>https://www.itsnicethat.com/articles/union-magazine-publication-project-180324</guid>
       <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫在 Zsófia Győrfi 不拘一格、令人眼花缭乱的插画世界里嬉戏，蜜蜂在庇护所</title>
-      <link>https://www.itsnicethat.com/articles/zsofia-gyorfi-art-illustration-discover-140324</link>
-      <description><![CDATA[插画家传达了她童年的记忆，但最终只是希望她的角色拟人化——他们的怪癖和个性。]]></description>
-      <guid>https://www.itsnicethat.com/articles/zsofia-gyorfi-art-illustration-discover-140324</guid>
-      <pubDate>Thu, 14 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
