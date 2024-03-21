@@ -4,11 +4,18 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 06:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 09:12:24 GMT</lastBuildDate>
+    <item>
+      <title>爱达荷州警方在博伊西医院伏击后寻找逃跑的囚犯和同谋</title>
+      <link>https://npr.org/2024/03/21/1239813457/idaho-police-search-for-escaped-inmate-and-accomplice-after-ambush-at-boise-hosp</link>
+      <description><![CDATA[警方称，爱达荷州一名白人至上主义监狱帮派成员和一名同伙在囚犯被从医院转移出来时发动连夜袭击，以释放他。]]></description>
+      <guid>https://npr.org/2024/03/21/1239813457/idaho-police-search-for-escaped-inmate-and-accomplice-after-ambush-at-boise-hosp</guid>
+      <pubDate>Thu, 21 Mar 2024 06:25:33 GMT</pubDate>
+    </item>
     <item>
       <title>加州选民通过了解决该州无家可归危机的提案 1</title>
       <link>https://npr.org/2024/03/21/1239811952/california-proposition-1-homeless</link>
-      <description><![CDATA[现在，各县必须将新闻税中约三分之二的资金用于为患有严重精神疾病或药物滥用问题的无家可归者提供住房和项目。]]></description>
+      <description><![CDATA[现在，各县必须将 2004 年颁布的税收中约三分之二的资金用于为患有严重精神疾病或药物滥用问题的无家可归者提供住房和项目。]]></description>
       <guid>https://npr.org/2024/03/21/1239811952/california-proposition-1-homeless</guid>
       <pubDate>Thu, 21 Mar 2024 05:33:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这项备受争议的新法律将允许德克萨斯州执法人员和法官非法逮捕和驱逐该国的人，而这些权力传统上属于联邦政府。]]></description>
       <guid>https://npr.org/2024/03/20/1239651676/sb4-texas-immigration-law</guid>
       <pubDate>Wed, 20 Mar 2024 17:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉巴马州州长签署 DEI 基金禁令，限制学校中的“分裂概念”</title>
-      <link>https://npr.org/2024/03/20/1239635678/alabama-dei-funding-ban-divisive-concepts</link>
-      <description><![CDATA[立法规定：“本法案中的任何内容都不得被解释为抑制或侵犯任何学生或雇员的第一修正案权利。”但其反对者表示，它就是这么做的。]]></description>
-      <guid>https://npr.org/2024/03/20/1239635678/alabama-dei-funding-ban-divisive-concepts</guid>
-      <pubDate>Wed, 20 Mar 2024 16:55:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
