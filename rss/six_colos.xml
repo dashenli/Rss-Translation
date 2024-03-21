@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 21 Mar 2024 18:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:15:00 GMT</lastBuildDate>
+    <item>
+      <title>Apple 的 M 系列处理器存在加密缺陷 ↦</title>
+      <link>https://sixcolors.com/link/2024/03/apples-m-series-processors-have-a-cryptographic-flaw/</link>
+      <description><![CDATA[Ars Technica 的 Dan Goodin 对 Apple M 系列处理器中最近发现的安全漏洞进行了精彩的（如果是技术性的）概述。基本上有一个系统试图预测将使用哪些内存地址以加快处理速度，但苹果的版本可能会意外泄漏数据：
+&lt;块引用&gt;
+  研究人员将这种攻击命名为 GoFetch，它使用的应用程序不需要 root 访问权限，只需要与 macOS 系统上安装的大多数第三方应用程序所需的相同用户权限。…]]></description>
+      <guid>https://sixcolors.com/link/2024/03/apples-m-series-processors-have-a-cryptographic-flaw/</guid>
+      <pubDate>Thu, 21 Mar 2024 19:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>美国与苹果：第一反应</title>
       <link>https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/</link>
@@ -38,7 +47,7 @@
       <title>是时候建设新机场了</title>
       <link>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</link>
       <description><![CDATA[&lt;图标题&gt;
-Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 Wi-Fi 6E 支持。 Wi-Fi 6E 意义重大，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
+Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是支持 Wi-Fi 6E。 Wi-Fi 6E 是一件大事，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</guid>
       <pubDate>Wed, 20 Mar 2024 16:35:58 GMT</pubDate>
     </item>
@@ -76,7 +85,7 @@ Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 W
     <item>
       <title>（播客）升级 504：音调 47</title>
       <link>https://sixcolors.com/podcast/2024/03/upgrade-504-tone-47/</link>
-      <description><![CDATA[苹果是否正在与谷歌合作开发人工智能？战略？我们分析这对苹果平台的未来可能意味着什么，以及为什么它可能很有意义。…]]></description>
+      <description><![CDATA[苹果是否正在与谷歌合作开发人工智能？战略？我们分析了这对苹果平台的未来可能意味着什么，以及为什么它可能很有意义。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/03/upgrade-504-tone-47/</guid>
       <pubDate>Mon, 18 Mar 2024 21:23:33 GMT</pubDate>
     </item>
@@ -111,13 +120,6 @@ Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 W
 我用 Python 编写脚本已经有几年了，它已经接管了我的很多远程自动化工作。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/using-panics-nova-for-remote-python-scripting/</guid>
       <pubDate>Thu, 14 Mar 2024 21:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 486：我正在吃高领毛衣</title>
-      <link>https://sixcolors.com/podcast/2024/03/the-rebound-486-im-eating-a-turtleneck/</link>
-      <description><![CDATA[播客前吃饭是一个错误。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/03/the-rebound-486-im-eating-a-turtleneck/</guid>
-      <pubDate>Wed, 13 Mar 2024 22:33:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
