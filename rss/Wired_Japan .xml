@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 20 Mar 2024 21:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:56:22 GMT</lastBuildDate>
+    <item>
+      <title>再见聊天机器人。欢迎来到人工智能代理时代</title>
+      <link>https://wired.jp/article/fast-forward-forget-chatbots-ai-agents-are-the-future/</link>
+      <description><![CDATA[人工智能代理的出现不仅可以编写代码，还可以规划问题解决、验证代码并实施。初创公司和大公司的开发重点正在从“只回答问题的聊天机器人”转向“能够实际执行任务的人工智能代理”。]]></description>
+      <guid>https://wired.jp/article/fast-forward-forget-chatbots-ai-agents-are-the-future/</guid>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 开发的人工智能模型的强大功能可以建议足球中的“完美”角球</title>
+      <link>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
+      <description><![CDATA[谷歌 DeepMind 开发了一种技术，利用人工智能分析利物浦足球俱乐部的足球比赛，帮助提高角球得分和防守的机会。希望通过运用到教练员的指导和指示中，能够为球队的胜利做出贡献。]]></description>
+      <guid>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
+      <pubDate>Wed, 20 Mar 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《最终幻想7重生》艾丽丝的命运引起粉丝的裂痕</title>
       <link>https://wired.jp/article/does-aerith-die-final-fantasy-vii-rebirth/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[最新的《加密货币犯罪趋势调查报告》显示，大多数涉及加密资产的犯罪，尤其是欺诈和逃避制裁，都涉及与美元挂钩的 Tether 等稳定币。]]></description>
       <guid>https://wired.jp/article/stablecoin-sanctions-violations-crypto-crime/</guid>
       <pubDate>Sun, 17 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼名人堂发明人兰尼·斯穆特开发的“可步行的VR空间”</title>
-      <link>https://wired.jp/article/lanny-smoot-disney-imagineer-lightsaber-holodeck/</link>
-      <description><![CDATA[如果您曾在迪士尼乐园见过光剑或惊叹于 BB-8，那么您已经体验过 Lanny Smoot 的作品。拥有 100 多项专利的斯穆特现在正试图在现实世界中建造一个全息甲板。]]></description>
-      <guid>https://wired.jp/article/lanny-smoot-disney-imagineer-lightsaber-holodeck/</guid>
-      <pubDate>Sat, 16 Mar 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼“α7CR”评测：极小的机身中蕴藏着最高水平的性能</title>
-      <link>https://wired.jp/article/sony-a7cr-review/</link>
-      <description><![CDATA[在索尼的数码单镜头相机中，α7CR是一款高分辨率全画幅紧凑型相机。它几乎没有弱点，是一款出色的相机，将最高水平的传感器和视频录制功能集成到一个小机身中。]]></description>
-      <guid>https://wired.jp/article/sony-a7cr-review/</guid>
-      <pubDate>Sat, 16 Mar 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
