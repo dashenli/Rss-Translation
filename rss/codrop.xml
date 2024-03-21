@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 20 Mar 2024 15:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:17:48 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：设计拥抱组合 – 2024</title>
+      <link>https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/</link>
+      <description><![CDATA[看看 Design Embraced 的 Anthony Goodwin 新作品集的代码和协作背后。]]></description>
+      <guid>https://tympanus.net/codrops/2024/03/21/case-study-design-embraced-portfolio-2024/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:52:27 GMT</pubDate>
+    </item>
     <item>
       <title>使用 React Three Fiber 创建交互式 3D 凸出文本效果</title>
       <link>https://tympanus.net/codrops/2024/03/20/creating-an-interactive-3d-bulge-text-effect-with-react-three-fiber/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 19 Mar 2024 10:33:50 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#57</title>
+      <title>励志网站综述 #57</title>
       <link>https://tympanus.net/codrops/2024/03/15/inspirational-websites-roundup-57/</link>
       <description><![CDATA[探索一系列新鲜的网站，每个网站都因其出色的设计而被选中，以激发您的灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/03/15/inspirational-websites-roundup-57/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[滚动上的实验性 3D 卡片堆叠动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/03/06/on-scroll-3d-stack-motion-effect/</guid>
       <pubDate>Wed, 06 Mar 2024 13:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#818</title>
-      <link>https://tympanus.net/codrops/collective/collective-818/</link>
-      <description><![CDATA[什么是实用优先 CSS？ * Hyperdiv * htmz * 404 个创意]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-818/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

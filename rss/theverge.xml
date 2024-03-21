@@ -4,120 +4,128 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:16:01 GMT</lastBuildDate>
     <item>
-      <title>阅读诉讼：美国诉苹果公司</title>
-      <link>https://www.theverge.com/2024/3/21/24107659/apple-doj-lawsuit-antitrust-documents-suing</link>
+      <title>谷歌正在为 Android 15 引入卫星消息功能</title>
+      <link>https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements</link>
       <description><![CDATA[&lt;图&gt;
       
-插图由 Nick Barclay / The Verge 绘制
+图片：The Verge / Android
 
-美国司法部今天宣布提起诉讼苹果非法垄断智能手机市场，并利用其地位“从消费者、开发者、内容创作者、艺术家、出版商、小企业和商人那里榨取更多金钱。”
-在88-在向美国新泽西州地区法院提起的页面诉讼中，司法部指控苹果公司正在使用各种不公平的策略来巩固其市场地位并限制创新。其中包括阻止所谓的“超级应用程序”，这将使客户更容易在智能手机平台之间切换，对游戏等内容的云流媒体服务实施有效禁止，降低跨平台消息应用程序的体验，限制兼容性手机上安装非苹果智能手表，并禁止第三方开发者访问 iPhone 的点击支付功能来提供自己的数字钱包。
-
-这起诉讼发生之际，由于欧盟数字市场法案。尽管欧洲监管机构决定不强迫苹果开放 iMessage，但该公司现在仍被要求允许欧盟 iPhone 上的第三方应用商店，并允许开发者使用该设备的点击支付功能。 
-查看下面司法部文件的全文：
+Google 针对 Android 15 的第二个开发者预览版已经发布，带来了期待已久的卫星连接支持，同时对非接触式支付、多语言识别、音量一致性以及通过应用与 PDF 交互进行了多项改进。 
+这些以开发人员为中心的测试版是可能的功能的试验场 将其纳入计划于今年晚些时候发布的最终公开版本中。据 Google 称，公共测试版应该在 4 月到 7 月之间进行测试。
 
 
-]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107659/apple-doj-lawsuit-antitrust-documents-suing</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:22 GMT</pubDate>
+图片：谷歌
+这是 Google 的 Android 15 发布时间表，可能会在今年 8 月至 10 月期间发布完整版本。
+
+最新的开发者预览版解决了 Android 用户遇到的一些麻烦和安全问题，例如让应用更加清楚为什么当设备使用卫星连接时某些服务可能不可用。这也是 Android 15 将配备卫星消息功能的首次官方确认，谷歌的新闻稿称，新预览版包括对“预加载的 RCS 应用程序以使用卫星连接来发送和接收消息”的支持。
+
+
+图片：谷歌
+Android 15 应在卫星连接启用时更加清晰地显示，并可能限制某些应用功能。
+
+应用程序引入了对屏幕录制检测的支持，使它们能够在用户的活动被记录时通知用户。使用 NFC 的应用程序的一键式非接触式支付的可靠性也得到了改进，Android 14 中引入的多语言音频识别也得到了改进，以避免用户在语言之间切换时漏词。
+翻盖手机上的小封面屏幕也应该变得更加有用，因为开发人员可以直接访问更多与其交互的方式，同时支持新的 CTA-2075 响度标准 应该可以帮助 Android 用户避免在内容之间切换时调整不一致的音量。最后，谷歌正在对应用程序中的 PDF 功能进行“实质性改进”，增加对受密码保护的文件、注释、表单编辑、搜索和副本选择的支持。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements</guid>
+      <pubDate>Thu, 21 Mar 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>司法部诉苹果：您需要了解的一切</title>
+      <title>Windows 11 中的记事本终于获得了拼写检查功能</title>
+      <link>https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature</link>
+      <description><![CDATA[&lt;图&gt;
+      
+错误的拼写很快将在记事本中成为过去。 |图片：微软
+
+微软正在为 Windows 11 上的记事本应用程序引入拼写检查功能。测试人员现在可以在记事本中访问新的拼写检查支持，该支持将于今年晚些时候向所有 Windows 11 用户提供。
+记事本中的拼写检查功能与 Microsoft Word 或 Microsoft Edge 浏览器中的拼写检查功能非常相似。拼写错误的单词会自动以红色下划线显示，您可以通过右键单击来修复错误以查看拼写建议。微软甚至添加了自动更正功能，因此当您继续输入时，错误就会被修复。记事本中的拼写检查也将支持多种语言，您可以忽略文档中的单词并将它们添加到字典中。
+“此功能默认对某些文件类型启用，但在日志文件和其他通常与编码相关的文件类型中默认关闭，”Windows Inbox Apps 首席产品经理主管 Dave Grochocki 说道。 在博客文章中&lt; /a&gt;. “您可以全局打开或关闭此设置，或者在记事本应用程序设置中为某些文件类型打开或关闭此设置，或者在上下文菜单中暂时为当前文件打开或关闭此设置。”
+记事本中的拼写检查是这款内置 Windows 11 应用程序的一系列改进中的最新功能。 Microsoft 在 12 月宣布将添加字符计数不久后，软件制造商添加了一个新的自动保存选项，让您可以关闭应用程序，而无需每次都提示保存，不久之后，您就可以使用记事本了。微软还添加了深色模式 到记事本，选项卡， Copilot AI 集成，甚至还有虚拟指尖陀螺.]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature</guid>
+      <pubDate>Thu, 21 Mar 2024 17:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果对超级应用程序的战争如何成为其反垄断斗争的中心</title>
+      <link>https://www.theverge.com/2024/3/21/24107633/apple-streaming-super-apps-doj-lawsuit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107633/apple-streaming-super-apps-doj-lawsuit</guid>
+      <pubDate>Thu, 21 Mar 2024 17:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国针对苹果公司的巨额反垄断诉讼的五个要点</title>
+      <link>https://www.theverge.com/2024/3/21/24107651/apple-us-antitrust-lawsuit-doj-five-takeaways</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107651/apple-us-antitrust-lawsuit-doj-five-takeaways</guid>
+      <pubDate>Thu, 21 Mar 2024 17:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>BMW Vision Neue Klasse X 拥有圆形电池、四个超级大脑和 3D 格栅</title>
+      <link>https://www.theverge.com/2024/3/21/24107631/bmw-vision-neue-klasse-x-concept-ev-super-brain-grille</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107631/bmw-vision-neue-klasse-x-concept-ev-super-brain-grille</guid>
+      <pubDate>Thu, 21 Mar 2024 17:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>带 USB-C 的第二代 AirPods Pro 售价降至 180 美元，创历史新低</title>
+      <link>https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal</guid>
+      <pubDate>Thu, 21 Mar 2024 16:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国诉苹果：你需要知道的一切</title>
       <link>https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates</link>
       <description><![CDATA[&lt;图&gt;
-      
-这是司法部 14 年来针对苹果的第三起反垄断案件。 |插图由 Nick Barclay / The Verge 绘制
-
-这一切都与苹果对智能手机市场的牢牢控制及其封闭的生态系统有关。 美国司法部对苹果提起诉讼，指控其违反反垄断法。更具体地说，此案围绕苹果如何利用其封闭的生态系统在 iPhone 上建立垄断地位展开。
-司法部指控苹果屏蔽“超级”应用程序、压制移动云流媒体服务、屏蔽跨平台消息应用程序、限制第三方数字钱包，甚至限制第三方智能手表的运行效果它的平台。这也是过去 14 年来司法部第三次起诉苹果违反反垄断法。 
+      美国司法部对苹果提起诉讼，指控其违反反垄断法。更具体地说，此案围绕苹果如何利用其封闭的生态系统在 iPhone 上建立垄断地位展开。
+司法部声称苹果屏蔽了“超级”应用程序，抑制移动云流媒体服务，阻止跨平台消息应用程序，限制第三方数字钱包，甚至限制第三方智能手表在其平台上的运行情况。这也是过去 14 年来司法部第三次起诉苹果违反反垄断法。 
+在宣布诉讼的新闻发布会上，代理 AG Lisa Monaco 说苹果的努力“扼杀了整个行业”。 对诉讼的回应苹果发言人 Fred Sainz 表示：“这起诉讼威胁到了我们的身份以及使苹果产品在激烈竞争的市场中脱颖而出的原则。”
 此案可能会产生广泛影响，考虑到司法部在 90 年代针对微软的案件持续了多久，我们可能需要一段时间才能看到解决方案。
+我们希望很快能听到案件双方的更多信息。
 有关 DOJ 诉 Apple 案件的所有新闻和更新如下。]]></description>
       <guid>https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates</guid>
-      <pubDate>Thu, 21 Mar 2024 14:30:54 GMT</pubDate>
+      <pubDate>Thu, 21 Mar 2024 16:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>美国起诉苹果</title>
-      <link>https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit</link>
+      <title>Converse 即将推出的 D&D 系列将推出复古角色扮演游戏</title>
+      <link>https://www.theverge.com/2024/3/21/24107668/dungeons-and-dragons-converse-anniversary-collection-chuck-taylor</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit</guid>
-      <pubDate>Thu, 21 Mar 2024 14:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/3/21/24107668/dungeons-and-dragons-converse-anniversary-collection-chuck-taylor</guid>
+      <pubDate>Thu, 21 Mar 2024 16:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>现在最值得购买的无线耳机</title>
-      <link>https://www.theverge.com/21309820/best-wireless-earbuds</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21309820/best-wireless-earbuds</guid>
-      <pubDate>Thu, 21 Mar 2024 14:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 的《三体问题》改编版传达了这本书的精神，但没有体现其才华</title>
-      <link>https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review</guid>
-      <pubDate>Thu, 21 Mar 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DoorDash 开始使用无人机运送培根</title>
-      <link>https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia</link>
+      <title>州立法者对同事进行深度造假，以证明深度造假是不好的</title>
+      <link>https://www.theverge.com/2024/3/21/24107787/deepfake-bill-georgia-colton-moore</link>
       <description><![CDATA[&lt;图&gt;
       
-培根的飞行。 |图片：Wing / DoorDash
+        &lt;图标题&gt;Cath Virginia / The Verge |照片来自盖蒂图片社
 
-DoorDash 今天宣布，将与 Alphabet 旗下的 Wing 无人机配送公司合作，在美国推出新的快餐配送试点项目。没错，朋友们。如果您足够幸运，住在弗吉尼亚州克里斯蒂安堡富兰克林北街 2355 号的 Wendy&#39;s 附近，您可以使用无人机送货上门。现在，这是 Hobby Lobby 的那家，而不是位于 Cracker Barrel 附近罗阿诺克街 2330 号的那家。 
-在给 The Verge 的电子邮件中，DoorDash 代表 Mattie Magdovitz 表示，无人机送货区域覆盖了 Christianburg Wendy&#39;s（同样由 Hobby Lobby 提供）“约 2.5 英里范围内的大多数家庭” ，而不是饼干桶）。她说，无人机送货需要直径大约两米的空地，比如车道，并且不能被“树木、建筑物或任何其他突出物体”阻挡。无人机运送的货物应在 10 至 30 分钟内送达，飞行速度约为 65 英里/小时。
-
-
-视频：DoorDash / Wing
-我看到一群野生无人机接管并成功经营了一家温迪店。
-
-大多数温迪菜单都符合资格，马格多维茨说，但“某些项目组合”可能“超出了体积和重量限制”才符合资格。不过，她表示，如果需要，DoorDash“将部署最多三架无人机来交付订单”。如果实在太大了，公司就会派一个普通的老人过来。她补充说，Drone dasher 的营业时间为周三至周日上午 10:30 至凌晨 4:30。 
+乔治州参议员科尔顿·摩尔 (Colton Moore) 强烈反对禁止政客深度造假的立法，最近公开支持一项旨在实现这一目标的法案。摩尔在最近的一段视频中表示：“绝大多数格鲁吉亚人认为，违背我的意愿使用我的个人特征是欺诈，但我们的法律目前并未反映出这一点。”只是摩尔从未说过这句话。该视频是深度伪造的——这正是摩尔的同事想要禁止的东西。该剪辑由该法案的共同发起人、州众议员布拉德·托马斯 (Brad Thomas) 创建，《卫报》报道。
+“如果人工智能可以用来让科尔顿·摩尔发言支持一项受欢迎的立法，”深度伪造视频继续说道，“它可以用来让你们中的任何人说出你们从未说过的话说。”
+该该法案将创造两种新的犯罪行为——欺诈性干预选举和招揽欺诈性犯罪干涉选举——可判处二至五年监禁或最高 50,000 美元的罚款。在 X 上，摩尔（真实的摩尔）将其描述为惩罚“发布模因”的“爱国者”的一种方式。 
 
 
-图片：DoorDash
-订购无人机送货。
-
-DoorDash 和 Wing 进行了一次自 2022 年以来，澳大利亚也有类似的合作伙伴关系，DoorDash 表示，这种合作关系已扩展到昆士兰州三个地点的“60 多家参与商户”。虽然这是 Wing 在美国与 DoorDash 的首次试点，但该公司与其他公司建立了更大的合作伙伴关系，包括 沃尔格林和沃尔玛。 
+绿诺 @BradforHD21 与 HB986 正试图让爱国者加入因发布像这样的模因而入狱。是时候吵架了。 pic.twitter.com/iElP9oRwTU— 参议员科尔顿·摩尔 (@realColtonMoore) 2024 年 2 月 26 日
 
 
-]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia</guid>
-      <pubDate>Thu, 21 Mar 2024 13:00:00 GMT</pubDate>
+实际上，立法要复杂一些。该法案针对的是“实质欺骗性媒体”——定义为“视频记录、视频文件、音频记录或 34 个音频文件、静止图像或静止图像文件”，这些媒体似乎描绘了并未真正发生的言论或行为——选举后 90 天内公布的政治人物。要成为具有实质欺骗性的媒体，它必须是“理性的观察者”认为是真实的。可以肯定的是，AI 生成的 Nikki Haley 骑在粉红犀牛背上的图像可能不算数。
+摩尔在佐治亚州政坛中是一个颇具争议的人物，甚至在他所在政党的成员中也是如此。去年秋天，他被逐出了州参议院的共和党核心小组，并于上周被禁止进入佐治亚州众议院。
+佐治亚州参议院新闻办公室没有立即回应置评请求。]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107787/deepfake-bill-georgia-colton-moore</guid>
+      <pubDate>Thu, 21 Mar 2024 16:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>摩托罗拉用臃肿的软件毁了一款不错的廉价手机</title>
-      <link>https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware</guid>
-      <pubDate>Thu, 21 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宜家推出两款价格实惠的 USB-C 充电器</title>
-      <link>https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features</link>
+      <title>《龙之屋》第二季的新预告片——复数——是在呼吁选边站队</title>
+      <link>https://www.theverge.com/24107714/house-of-the-dragon-season-two-trailer-release-date</link>
       <description><![CDATA[&lt;图&gt;
       
 
-宜家现出售 一对自己的 USB-C 充电器，起始价为只需 7.99 美元。 30W Sjöss 充电器配有一个 USB-C 端口，还有一个 45W 型号（也称为 Sjöss），有两个 USB-C 端口，售价 14.99 美元。这款双端口充电器一次使用一个端口时只能输出 45W 功率，同时插入两个端口时，每个设备的输出功率减半为 22W。 
-宜家的充电器兼容供电 (PD 3.0)、快速充电 (QC4+) 和可编程电源 (PPS) 规格。这两款充电器都配有一张彩色贴纸，可让您“个性化”它们——这对于孩子或室友很容易混淆的家庭非常有用。
-这里的大新闻是宜家的两款充电器非常实惠。在撰写本文时，Anker 最实惠的 单端口 USB-C 充电器的建议零售价为 13.99 美元，提供 20W 的电源，同时获得 30W 电源通常售价 19.99 美元（尽管目前两者都有折扣）。 Aukey 在线商店上也有类似的故事。 
-虽然您应该经常检查小字，了解您的设备需要以最快速度充电的充电标准（以及电压/电流），但 30W 应该足以为某些三星设备和 iPhone 快速充电，并且甚至与 Apple 为其 M2 供电的 MacBook Air 提供的底座充电器的功率相匹配。 45W 应该也能够处理一些快速充电设备 - 不过，再次请务必检查细则。]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features</guid>
-      <pubDate>Thu, 21 Mar 2024 11:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuralink 视频显示患者使用大脑植入物在笔记本电脑上下棋</title>
-      <link>https://www.theverge.com/2024/3/21/24107499/neuralink-human-trial-chess-video-brain-computer-interface</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107499/neuralink-human-trial-chess-video-brain-computer-interface</guid>
-      <pubDate>Thu, 21 Mar 2024 10:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控有人数统计</title>
-      <link>https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance</guid>
-      <pubDate>Wed, 20 Mar 2024 22:03:58 GMT</pubDate>
+《龙之家》第一季以坦格利安家族结束分为两个派别，准备发动全面战争来争夺铁王座，并在该剧的新第二季预告片，双方似乎都准备好烧毁整个世界以获得胜利。&lt; /p&gt;
+与本季对乔治·R·R·马丁的中篇小说《公主与女王，或者黑人与绿党》的进一步探索保持主题一致，HBO 推出了两部新 《龙之屋》预告片——一个“黑色”，另一个“绿色”——强调了雷妮拉公主（艾玛·达西饰）和阿利森特女王互相毁灭的计划。在两部预告片中，很明显，雷妮拉和阿利森特在各自的复仇欲望和害怕释放愤怒可能对更大的领域造成影响之间左右为难。 
+
+
+在伊耿二世（汤姆·格林-卡尼饰）成为新国王的过程中已经流了很多血，双方似乎都不愿意和平结束他们的冲突——尤其是当雷妮拉和阿利森特提醒他们的盟友宣誓支持他们。随着越来越多的家族拿起武器与绿党或黑党一起争夺维斯特洛的控制权，龙之院本赛季的死亡人数几乎肯定会更高，因为该剧将于 6 月 16 日回归。]]></description>
+      <guid>https://www.theverge.com/24107714/house-of-the-dragon-season-two-trailer-release-date</guid>
+      <pubDate>Thu, 21 Mar 2024 16:26:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
