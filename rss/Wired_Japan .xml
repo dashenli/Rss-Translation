@@ -4,7 +4,35 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 22 Mar 2024 03:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 09:15:47 GMT</lastBuildDate>
+    <item>
+      <title>苹果的iMessage加密是“虚伪”吗？美国司法部的主张和专家的论点</title>
+      <link>https://wired.jp/article/apple-doj-antitrust-imessage-encryption/</link>
+      <description><![CDATA[美国司法部起诉苹果公司违反反垄断法，指控该公司以“安全和隐私”为借口，在可能损害自身利益的情况下放弃这些产品。 iMessage 被引用为此类“反竞争行为”的一个例子。]]></description>
+      <guid>https://wired.jp/article/apple-doj-antitrust-imessage-encryption/</guid>
+      <pubDate>Fri, 22 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生产和销售培养肉是否犯罪？在商业化之前禁止它的运动</title>
+      <link>https://wired.jp/article/cultivated-meat-florida-ban/</link>
+      <description><![CDATA[美国几个州目前正在采取行动禁止养殖肉的生产和销售。关于实验室培育肉类的争论一直受到畜牧业和其他行业的抵制，目前正在走向极端，文化战争的紧张局势正在加剧。]]></description>
+      <guid>https://wired.jp/article/cultivated-meat-florida-ban/</guid>
+      <pubDate>Fri, 22 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A-POC ABLE ISSEY MIYAKE：关于连接原型和实现的创造力，或者“一块布”的扩展</title>
+      <link>https://wired.jp/article/vol52-a-poc-able-issey-miyake/</link>
+      <description><![CDATA[令世界惊讶的“TYPE-V Nature Architects项目”将于2023年春季在米兰商业化。使用算法和称为“蒸汽拉伸”的独特制造方法通过复杂的有机设计制成的原型将如何成为大众产品？]]></description>
+      <guid>https://wired.jp/article/vol52-a-poc-able-issey-miyake/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果“阻碍创新”：为何美国司法部就 iPhone 提起反垄断诉讼</title>
+      <link>https://wired.jp/article/doj-sues-apple-antitrust/</link>
+      <description><![CDATA[美国司法部等人于3月21日（美国时间）以涉嫌违反反垄断法为由对苹果提起诉讼。主要论点是，它利用iPhone在市场上的主导地位来扼杀竞争和创新。]]></description>
+      <guid>https://wired.jp/article/doj-sues-apple-antitrust/</guid>
+      <pubDate>Fri, 22 Mar 2024 03:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何免费释放 Gmail、Google 相册和 Google 云端硬盘中的空间</title>
       <link>https://wired.jp/article/how-to-free-up-storage-space-in-gmail/</link>
@@ -27,9 +55,9 @@
       <pubDate>Thu, 21 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube新规定要求披露使用生成人工智能的视频，“动画不适用”的儿童会发生什么</title>
+      <title>YouTube新规要求披露使用人工智能生成的视频，“动画不适用”的儿童会发生什么</title>
       <link>https://wired.jp/article/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</link>
-      <description><![CDATA[一项新法规已经制定，要求在 YouTube 上发布真实的视频，以明确说明生成的人工智能的使用。然而，随着动画被排除在名单之外，有人指出，儿童面临着接触低质量内容的风险。]]></description>
+      <description><![CDATA[一项新法规已经制定，要求 YouTube 上发布的真实视频清楚说明生成人工智能的使用。然而，随着动画被排除在名单之外，有人指出，儿童面临着接触低质量内容的风险。]]></description>
       <guid>https://wired.jp/article/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</guid>
       <pubDate>Thu, 21 Mar 2024 08:00:00 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>对人类进行大脑植入的Neuralink公布了第一个测试对象透露的“结果”</title>
       <link>https://wired.jp/article/neuralink-implant-first-human-patient-demonstration/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 Neuralink 正在开发脑机接口 (BCI)。接受大脑植入治疗的男性受试者首次在 X 的在线直播中透露了他的“结果”。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 Neuralink 正在开发脑机接口 (BCI)。接受脑部植入治疗的男性受试者首次在 X 的在线直播中透露了他的“结果”。]]></description>
       <guid>https://wired.jp/article/neuralink-implant-first-human-patient-demonstration/</guid>
       <pubDate>Thu, 21 Mar 2024 05:30:00 GMT</pubDate>
     </item>
@@ -55,9 +83,9 @@
       <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 DeepMind 开发的人工智能模型的力量可以建议足球中的“完美”角球</title>
+      <title>谷歌 DeepMind 开发的人工智能模型的强大功能可以建议足球中的“完美”角球</title>
       <link>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[谷歌 DeepMind 开发了一种技术，利用人工智能分析利物浦足球俱乐部的足球比赛，帮助提高进球和防守角球的机会。希望将其运用到教练员的指导和指示中，或许能够为球队的胜利做出贡献。]]></description>
+      <description><![CDATA[谷歌 DeepMind 开发了一种技术，利用人工智能分析利物浦足球俱乐部的足球比赛，帮助提高角球得分和防守的机会。希望通过运用到教练员的指导和指示中，能够为球队的胜利做出贡献。]]></description>
       <guid>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
       <pubDate>Wed, 20 Mar 2024 23:00:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Apple 发表了一篇关于名为 MM1 的新型多模态 AI 模型的论文，该模型可以处理文本和图像。研究指出，在生成式AI领域一直落后的苹果可能正在东山再起。]]></description>
       <guid>https://wired.jp/article/apples-mm1-ai-model-sleeping-giant-waking-up/</guid>
       <pubDate>Wed, 20 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来的食物？池塘水生植物“满江红”为何备受关注</title>
-      <link>https://wired.jp/article/get-ready-to-eat-pond-plants/</link>
-      <description><![CDATA[水生植物“卡罗来纳满江红”是一种蕨类植物，在吸收二氧化碳的同时生长速度惊人。研究表明，根据烹饪方式的不同，它们吃起来口感松脆、多汁，而且还有可能用作肥料或生物燃料。]]></description>
-      <guid>https://wired.jp/article/get-ready-to-eat-pond-plants/</guid>
-      <pubDate>Tue, 19 Mar 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[邀请名额] 见证“研究”与“艺术”交汇中出现的“未来图像”：“DE-SILO EXPERIMENT 2024”（4/13-14）将举行</title>
-      <link>https://wired.jp/article/de-silo-experiment-2024/</link>
-      <description><![CDATA[“DE-SILO EXPERIMENT 2024”将于4月举行，来自小说、音乐、视频、媒体艺术等不同流派和表现形式的4位研究人员和11位艺术家将合作创作新作品并进行表演。分别于13日和14日举行。我们将介绍本次活动的背景和亮点，该活动向 WIRED 会员开放。]]></description>
-      <guid>https://wired.jp/article/de-silo-experiment-2024/</guid>
-      <pubDate>Tue, 19 Mar 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“俄罗斯谷歌”Yandex 会在欧盟独立吗？出售俄罗斯业务，联合创始人探索欧洲活动</title>
-      <link>https://wired.jp/article/arkady-volozh-eu-sanctions-lifted/</link>
-      <description><![CDATA[被誉为俄罗斯谷歌的Yandex联合创始人最近被从欧盟制裁名单中除名。 Yandex 已经同意出售其俄罗斯业务，并且似乎有可能在欧洲卷土重来。]]></description>
-      <guid>https://wired.jp/article/arkady-volozh-eu-sanctions-lifted/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Nothing Phone (2a)》产品评论：经济实惠、时尚、高性能的智能手机</title>
-      <link>https://wired.jp/article/nothing-phone-2a-review/</link>
-      <description><![CDATA[使用价值 349 美元的 Nothing Phone (2a)，我毫不费力地报道了一个有很多事情要做的大型移动贸易展。即使使用相当频繁，电池在一天结束时仍然有充足的电量。]]></description>
-      <guid>https://wired.jp/article/nothing-phone-2a-review/</guid>
-      <pubDate>Mon, 18 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
