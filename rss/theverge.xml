@@ -4,7 +4,61 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Mar 2024 21:13:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:53:34 GMT</lastBuildDate>
+    <item>
+      <title>GitLab 确认已删除 Suyu，它是 Nintendo Switch 模拟器 Yuzu 的一个分支</title>
+      <link>https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown</link>
+      <description><![CDATA[&lt;图&gt;
+      
+        &lt;图标题&gt;Cath Virginia / The Verge |照片来自 Getty Images、The Verge
+
+任天堂可能不需要单独起诉模拟器的存在&lt; /a&gt; 将他们驱赶到更深的地下。今天，GitLab 在收到似乎是DMCA 删除请求形式的可怕电子邮件。 
+“GitLab 收到了权利持有者代表发出的 DMCA 删除通知，并遵循了我们的标准流程概述这里，”发言人克里斯汀·巴特勒告诉The Verge。 
+
+Suyu 是 Yuzu 的一个分支，任天堂成功起诉了模拟器，但这并不是说任天堂现在拥有了 Yuzu 代码的权利，甚至根本不是任天堂？ 在和解中，任天堂不一定赢得柚子代码的权利，GitLab 也没有告诉 The Verge，任天堂是此次事件的幕后黑手。 
+
+
+Suyu 贡献者收到的一封电子邮件。
+
+相反，正如您在上面的电子邮件中看到的 - Suyu 的 Discord 和 早些时候由 Overkill.wtf 发布 - 无论是谁发送了删除请求，都试图利用 Yuzu 涉嫌通过规避任天堂技术保护措施违反 DMCA 1201 的行为。哦，也许他们还巧妙地以非法贩运（也是 DMCA 1201 的一部分）来威胁 GitLab。
+我不是律师，但两年前有几位律师告诉我，DMCA 删除请求有效技术上应包含“对您声称受到侵权的版权作品的描述”，并且 DMCA 1201 与 DMCA 512 不同，后者涵盖删除请求。
+此外，Suyu 声称它不包含与 Yuzu 相同的规避措施。
+但那些律师还告诉我，有效或无效并不一定那么重要，因为像 GitLab 这样的平台不必托管任何它不想托管的东西。为了保护您可能根本不想保护的东西而推迟无效的 DMCA 删除请求可能不值得——特别是如果替代方案可能是任天堂向您提起实际诉讼。
+
+
+Suyu 的 GitLab 页面现在是什么样子。
+
+GitLab 没有立即回答有关在让用户有机会删除其项目或提交 DMCA 反通知之前禁用用户帐户是否符合公司政策的问题。GitLab 没有立即回答这个问题。该公司的在线手册没有说明为什么 GitLab 可能决定阻止或禁止用户使用其平台；只是“我们可以在适当的情况下禁用被举报用户的访问或终止其帐户。”
+Suyu 似乎已经找到了新家。大约一个小时前，其领导人写道：“我肯定会托管一份代码副本。”此时，另一位成员已经将存储库克隆到 git.suyu.dev。]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown</guid>
+      <pubDate>Fri, 22 Mar 2024 00:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>高通表示大多数 Windows 游戏应该可以在其未发布的 Arm 笔记本电脑上运行</title>
+      <link>https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games</guid>
+      <pubDate>Thu, 21 Mar 2024 22:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beetlejuice Beetlejuice 在第一部预告片中将死者带回家</title>
+      <link>https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+蒂姆·伯顿花了更好的部分过去十年谈论他如何准备与薇诺娜·瑞德和迈克尔·基顿。经过这么长时间，完美命名的 Beetlejuice Beetlejuice  终于重见天日了。
+故事发生在原版电影几年后，Beetlejuice Beetlejuice 遇见了莉迪亚·迪茨 (Ryder) 和她十几岁的女儿阿斯特丽德 (Astrid) (珍娜·奥尔特加饰)，两人回到了冬河 (Winter River) 的家中在突然失去家庭后，与莉迪亚的母亲迪莉娅（凯瑟琳·奥哈拉饰）在一起。目前还不清楚迪兹夫妇在新预告片中参加了谁的葬礼，也不清楚他们中的任何人对死者有何感想。 
+但是在阿斯特丽德发现冬季河的旧微缩模型和莉迪亚震惊地看着甲壳虫汁（基顿饰）从玩具大小的小镇中出现之间，预告片让我们看起来像是会观看当 Beetlejuice Beetlejuice 于 9 月 6 日上映时，伯顿的创作回到了来世。]]></description>
+      <guid>https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega</guid>
+      <pubDate>Thu, 21 Mar 2024 22:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国诉讼称苹果 CarPlay 也反竞争</title>
+      <link>https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key</guid>
+      <pubDate>Thu, 21 Mar 2024 21:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>明亮的云层能为我们赢得应对气候变化的时间吗？</title>
       <link>https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances</link>
@@ -51,7 +105,7 @@ Threads 正在美国、加拿大和日本推出联邦多元化集成测试版。
 
 图片：元
 
-不过，仍然存在一些限制。例如，测试版目前不允许用户查看来自联邦宇宙的回复和关注。 Meta 也不能保证当您在 Threads 上删除联合帖子时，它在其他共享平台上也会被删除。
+不过，仍然存在一些限制。例如，测试版目前不允许用户查看来自联邦宇宙的回复和关注。 Meta 也不能保证当您在 Threads 上删除联合帖子时，它在共享的其他平台上也会被删除。
 不过，在第一次去年测试其 ActivityPub 集成。您可以打开该功能，方法是前往您的 Threads 帐户设置，选择Fediverse 共享（测试版），并按照说明进行操作。 
 
 
@@ -60,14 +114,14 @@ Threads 正在美国、加拿大和日本推出联邦多元化集成测试版。
       <pubDate>Thu, 21 Mar 2024 18:21:08 GMT</pubDate>
     </item>
     <item>
-      <title>PlayStation Network 部分瘫痪</title>
+      <title>PlayStation Network 在部分中断数小时后恢复正常</title>
       <link>https://www.theverge.com/2024/3/21/24107918/playstation-network-outage-march-2024</link>
       <description><![CDATA[&lt;图&gt;
       
 插图由 Alex Castro / The Verge 绘制
 
-您的 PS5、PS4、PS3 和 Vita 可能看起来正常 - 但如果您遇到问题，那是因为索尼的 PlayStation Network 目前并不完全健康。索尼的网络服务状态页面全是红色，并且有一个DownDetector 的峰值表明部分中断大约在两小时前（美国东部时间中午 12 点左右）开始。 
-就我个人而言，我们仍然可以看到我们的朋友在线，可以玩需要网络身份验证的游戏、下载更新并访问 PlayStation Store，但有很多“无法加载数据”错误玩家个人资料下的消息，并且 PlayStation Store 的网络版无法加载。
+您的 PS5、PS4、PS3 和 Vita 可能看起来正常 - 但如果您遇到问题，那是因为索尼的 PlayStation Network 不完全健康。美国东部时间中午 12 点左右开始部分中断后，索尼的网络服务状态页面呈红色持续数小时。据报道，到美国东部时间下午 4:30，服务已恢复，现在已全部恢复正常。
+当时，我们仍然可以在线看到朋友、玩需要网络验证的游戏、下载更新以及访问 PlayStation Store，但出现了很多“无法加载数据”错误玩家个人资料下的消息，并且 PlayStation Store 的网络版本无法加载。
 当我尝试在 Hot Wheels Unleashed 中启动多人游戏时，出现以下通信错误：
 
 
@@ -75,7 +129,7 @@ Threads 正在美国、加拿大和日本推出联邦多元化集成测试版。
 “与 PlayStation Network 发生通信错误。”
 
 不过，我的同事乔安娜说她能够扮演一点Fall Guys。 
-索尼表示以下操作可能不起作用：
+索尼表示以下方法可能不起作用：
 
 “您可能无法登录或创建 PlayStation Network 帐户。”
 “您可能无法启动游戏、应用或网络功能。” 
@@ -83,9 +137,10 @@ Threads 正在美国、加拿大和日本推出联邦多元化集成测试版。
 “您可能难以在 PlayStation Store 上获取产品。”
 “您可能无法在 PlayStation Direct 上获取产品。”
 
-“游戏流媒体”也可能会出现故障。
-Nvidia GeForce Now 也刚刚出现了游戏流媒体中断，不过看起来可能会得到解决。
-Joanna Nelius 对这个故事做出了贡献。]]></description>
+“游戏流媒体”也可能出现故障。
+Nvidia GeForce Now 今天也出现了游戏流媒体中断，不过在我们首次发布此报道时该问题已得到解决。
+Joanna Nelius 对这个故事做出了贡献。
+更新，美国东部时间晚上 8:37：补充说服务已恢复。]]></description>
       <guid>https://www.theverge.com/2024/3/21/24107918/playstation-network-outage-march-2024</guid>
       <pubDate>Thu, 21 Mar 2024 18:13:12 GMT</pubDate>
     </item>
@@ -113,41 +168,6 @@ Android 15 应在卫星连接启用时更加清晰地显示，并可能限制某
 翻盖手机上的小封面屏幕也应该变得更加有用，因为开发人员可以直接访问更多与其交互的方式，同时支持新的 CTA-2075 响度标准 应该可以帮助 Android 用户避免在内容之间切换时调整不一致的音量。最后，谷歌正在对应用程序中的 PDF 功能进行“实质性改进”，增加对受密码保护的文件、注释、表单编辑、搜索和副本选择的支持。 ]]></description>
       <guid>https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements</guid>
       <pubDate>Thu, 21 Mar 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 中的记事本终于获得了拼写检查功能</title>
-      <link>https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature</link>
-      <description><![CDATA[&lt;图&gt;
-      
-错误的拼写很快将在记事本中成为过去。 |图片：微软
-
-微软正在为 Windows 11 上的记事本应用程序引入拼写检查功能。测试人员现在可以在记事本中访问新的拼写检查支持，该支持将于今年晚些时候向所有 Windows 11 用户提供。
-记事本中的拼写检查功能与 Microsoft Word 或 Microsoft Edge 浏览器中的拼写检查功能非常相似。拼写错误的单词会自动以红色下划线显示，您可以通过右键单击来修复错误以查看拼写建议。微软甚至添加了自动更正功能，因此当您继续输入时，错误就会被修复。记事本中的拼写检查也将支持多种语言，您可以忽略文档中的单词并将它们添加到字典中。
-“此功能默认对某些文件类型启用，但在日志文件和其他通常与编码相关的文件类型中默认关闭，”Windows Inbox Apps 首席产品经理主管 Dave Grochocki 说道。 在博客文章中&lt; /a&gt;. “您可以在全局或记事本应用程序设置中针对某些文件类型或在上下文菜单中临时针对当前文件打开或关闭此设置。”
-记事本中的拼写检查是这款内置 Windows 11 应用程序的一系列改进中的最新功能。 Microsoft 在 12 月宣布将添加字符计数不久后，软件制造商添加了一个新的自动保存选项，让您可以关闭应用程序，而无需每次都提示保存，不久之后，您就可以使用记事本了。微软还添加了深色模式 到记事本，选项卡， Copilot AI 集成，甚至还有虚拟指尖陀螺.]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature</guid>
-      <pubDate>Thu, 21 Mar 2024 17:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果对超级应用程序的战争如何成为其反垄断斗争的中心</title>
-      <link>https://www.theverge.com/2024/3/21/24107633/apple-streaming-super-apps-doj-lawsuit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107633/apple-streaming-super-apps-doj-lawsuit</guid>
-      <pubDate>Thu, 21 Mar 2024 17:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国针对苹果公司的巨额反垄断诉讼的五个要点</title>
-      <link>https://www.theverge.com/2024/3/21/24107651/apple-us-antitrust-lawsuit-doj-five-takeaways</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107651/apple-us-antitrust-lawsuit-doj-five-takeaways</guid>
-      <pubDate>Thu, 21 Mar 2024 17:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>BMW Vision Neue Klasse X 拥有圆形电池、四个超级大脑和 3D 格栅</title>
-      <link>https://www.theverge.com/2024/3/21/24107631/bmw-vision-neue-klasse-x-concept-ev-super-brain-grille</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/21/24107631/bmw-vision-neue-klasse-x-concept-ev-super-brain-grille</guid>
-      <pubDate>Thu, 21 Mar 2024 17:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
