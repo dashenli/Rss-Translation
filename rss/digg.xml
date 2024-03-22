@@ -4,7 +4,14 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Fri, 22 Mar 2024 12:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 15:14:35 GMT</lastBuildDate>
+    <item>
+      <title>一位农民在他们的奶牛面前假装晕倒——他们是这样回应的</title>
+      <link>https://rss.digg.com/digg-vids/link/cute-cows-funny-video</link>
+      <description><![CDATA[奥斯卡奖颁给了...]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/cute-cows-funny-video</guid>
+      <pubDate>Wed, 20 Mar 2024 15:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>这份 1984 年《沙丘》备忘单需要卷土重来</title>
       <link>https://rss.digg.com/movies-and-tv/link/dune-1984-glossary-terminology</link>
@@ -27,21 +34,14 @@
       <pubDate>Tue, 19 Mar 2024 22:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>看门人通过改造来宣传她的住户，以及本周更多最感人的故事</title>
-      <link>https://rss.digg.com/internet-culture/link/good-news-ramadan-rabbit-caretaker-makeover-twin-cookie-challenge-digg</link>
-      <description><![CDATA[一个小女孩在妈妈的特殊教训后学会了爱自己的名字。]]></description>
-      <guid>https://rss.digg.com/internet-culture/link/good-news-ramadan-rabbit-caretaker-makeover-twin-cookie-challenge-digg</guid>
-      <pubDate>Tue, 19 Mar 2024 20:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>男子收到食谱作为礼物，发现它是由人工智能编写的搞笑废话组成</title>
+      <title>男子收到食谱作为礼物，发现它是由可能是人工智能编写的搞笑废话组成</title>
       <link>https://rss.digg.com/internet-culture/link/ai-llm-cook-book-controversy-twitter-x</link>
       <description><![CDATA[无论是通过大型语言模型制作的，还是简单地懒翻译的，这本食谱绝对是一团糟。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/ai-llm-cook-book-controversy-twitter-x</guid>
       <pubDate>Tue, 19 Mar 2024 19:30:46 GMT</pubDate>
     </item>
     <item>
-      <title>狂看热门电视节目需要多长时间（可视化）</title>
+      <title>可视化狂看热门电视节目需要多长时间</title>
       <link>https://rss.digg.com/data-viz/link/how-long-binge-watch-best-TV-shows-runtime</link>
       <description><![CDATA[在看过《办公室》的总播放时间后，我永远不会分享我完整观看了该剧的次数。]]></description>
       <guid>https://rss.digg.com/data-viz/link/how-long-binge-watch-best-TV-shows-runtime</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>星球大战前传系列“侍僧”发布首支预告片，所有人都大肆宣传</title>
       <link>https://rss.digg.com/digg-vids/link/the-acolyte-trailer-disney-plus-star-wars-video</link>
-      <description><![CDATA[这部八集剧集将于 2024 年 6 月 4 日在 Disney Plus 上线，我们期待更多精彩的星球大战故事来填补《安道尔》各季之间的空白。]]></description>
+      <description><![CDATA[这部八集剧集将于 2024 年 6 月 4 日在 Disney+ 上线，我们期待更多精彩的星球大战故事来填补《安道尔》各季之间的空白。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/the-acolyte-trailer-disney-plus-star-wars-video</guid>
       <pubDate>Tue, 19 Mar 2024 15:53:17 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Sun, 17 Mar 2024 17:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>下“非常糟糕的国际象棋”</title>
-      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
-      <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
+      <title>播放“翻转”</title>
+      <link>https://rss.digg.com/puzzmo/link/flipart</link>
+      <description><![CDATA[您的目标是旋转拼图，使拼图不重叠或突出，并且拼图框架内没有空白区域。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/flipart</guid>
+      <pubDate>Mon, 11 Dec 2023 20:28:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

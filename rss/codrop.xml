@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 22 Mar 2024 12:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 15:15:54 GMT</lastBuildDate>
+    <item>
+      <title>集体#823</title>
+      <link>https://tympanus.net/codrops/collective/collective-823/</link>
+      <description><![CDATA[ThreePipe * JSON Canvas Spec * Lissajous 曲线 SVG 生成器]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-823/</guid>
+      <pubDate>Fri, 22 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述 #41</title>
       <link>https://tympanus.net/codrops/2024/03/22/ui-interactions-animations-roundup-41/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>网格项在悬停时显示动画</title>
       <link>https://tympanus.net/codrops/2024/03/13/grid-item-reveal-animation-on-hover/</link>
-      <description><![CDATA[网格项目的重新创建显示了悬停动画，如 Metalab 网站上所示。]]></description>
+      <description><![CDATA[网格项目的重新创建显示了悬停时的动画，如 Metalab 网站上所示。]]></description>
       <guid>https://tympanus.net/codrops/2024/03/13/grid-item-reveal-animation-on-hover/</guid>
       <pubDate>Wed, 13 Mar 2024 15:50:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[UVCanvas * 我在浏览器上提交的错误 * Nekoweb.org]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-820/</guid>
       <pubDate>Tue, 12 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#819</title>
-      <link>https://tympanus.net/codrops/collective/collective-819/</link>
-      <description><![CDATA[主屏幕优势 * 人工智能和设计系统 * CSS 基础：什么是 IACVT？]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-819/</guid>
-      <pubDate>Fri, 08 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
