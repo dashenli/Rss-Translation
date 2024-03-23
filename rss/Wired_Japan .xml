@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 22 Mar 2024 21:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:54:19 GMT</lastBuildDate>
+    <item>
+      <title>[时尚特别谈话活动]哪些工具是真正必要的？ - Akira Natsume（山和路）x Michiaki Matsushima（《WIRED》日文版）</title>
+      <link>https://wired.jp/article/vol53-talk-shonan-tsite/</link>
+      <description><![CDATA[山地装备制造商“Yama to Michi”的夏季发布纪念活动，通过徒步旅行，特别是UL（超轻）文化，不断质疑人类的工具是什么，并进一步深入研究时尚专刊最新一期《连线》杂志的封面决定在湘南举办！]]></description>
+      <guid>https://wired.jp/article/vol53-talk-shonan-tsite/</guid>
+      <pubDate>Fri, 22 Mar 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的iMessage加密是“虚伪”吗？美国司法部的主张和专家的论点</title>
       <link>https://wired.jp/article/apple-doj-antitrust-imessage-encryption/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[新兴电动汽车制造商 Rivian 宣布推出一款比之前车型更小、更实惠的电动 SUV。您打算如何让这款新车型“R2”取得成功？首席执行官 RJ Scaringe 谈到了公司降低成本的努力。]]></description>
       <guid>https://wired.jp/article/how-rivian-is-pulling-off-its-45k-electric-suv/</guid>
       <pubDate>Wed, 20 Mar 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果会在生成式人工智能领域卷土重来吗？新AI模型“MM1”提出的“逆转”场景</title>
-      <link>https://wired.jp/article/apples-mm1-ai-model-sleeping-giant-waking-up/</link>
-      <description><![CDATA[Apple 发表了一篇关于名为 MM1 的新型多模态 AI 模型的论文，该模型可以处理文本和图像。研究指出，在生成式AI领域一直落后的苹果可能正在东山再起。]]></description>
-      <guid>https://wired.jp/article/apples-mm1-ai-model-sleeping-giant-waking-up/</guid>
-      <pubDate>Wed, 20 Mar 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
