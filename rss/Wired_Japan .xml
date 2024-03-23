@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 23 Mar 2024 06:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:14:12 GMT</lastBuildDate>
+    <item>
+      <title>四封内部电子邮件的内容是苹果反垄断违规行为的关键</title>
+      <link>https://wired.jp/article/4-internal-apple-emails-helped-doj-build-antitrust-case/</link>
+      <description><![CDATA[美国司法部和其他机构起诉苹果公司违反反垄断法，起诉书援引四封内部电子邮件作为案件的关键。据说是有严格生态管理的意图，但到底是什么意思呢？让我们详细研究一下。]]></description>
+      <guid>https://wired.jp/article/4-internal-apple-emails-helped-doj-build-antitrust-case/</guid>
+      <pubDate>Sat, 23 Mar 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>POSTALCO：关于做衣服的难度（乐趣），或者身体和思想的自由</title>
       <link>https://wired.jp/article/vol52-to-set-your-body-free/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>[时尚特别谈话活动]哪些工具是真正必要的？ - Akira Natsume（山和路）x Michiaki Matsushima（《WIRED》日文版）</title>
       <link>https://wired.jp/article/vol53-talk-shonan-tsite/</link>
-      <description><![CDATA[山地装备制造商“Yama to Michi”的夏季发布纪念活动，通过徒步旅行，特别是UL（超轻）文化，不断质疑人类的工具是什么，并进一步深入研究时尚专刊最新一期《WIRED》的封面决定在湘南举办！]]></description>
+      <description><![CDATA[山地装备制造商“Yama to Michi”的夏季发布纪念活动，通过徒步旅行，特别是UL（超轻）文化，不断质疑人类的工具是什么，并进一步深入研究时尚专刊最新一期《连线》杂志的封面决定在湘南举办！]]></description>
       <guid>https://wired.jp/article/vol53-talk-shonan-tsite/</guid>
       <pubDate>Fri, 22 Mar 2024 23:00:00 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>生产和销售培养肉是否犯罪？在商业化之前禁止它的运动</title>
       <link>https://wired.jp/article/cultivated-meat-florida-ban/</link>
-      <description><![CDATA[美国几个州目前正在采取行动禁止生产和销售培养肉。关于实验室培育的肉类的争论一直受到畜牧业和其他行业的抵制，现在正走向极端，文化战争的紧张局势正在加剧。]]></description>
+      <description><![CDATA[美国几个州目前正在采取行动禁止养殖肉的生产和销售。关于实验室培育肉类的争论一直受到畜牧业和其他行业的抵制，目前正在走向极端，文化战争的紧张局势正在加剧。]]></description>
       <guid>https://wired.jp/article/cultivated-meat-florida-ban/</guid>
       <pubDate>Fri, 22 Mar 2024 08:00:00 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Thu, 21 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube新规定要求披露使用生成人工智能的视频，“动画不适用”的儿童会发生什么</title>
+      <title>YouTube 新规定要求披露使用生成人工智能的视频，“动画不适用”以及儿童可能发生的情况</title>
       <link>https://wired.jp/article/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</link>
-      <description><![CDATA[一项新法规已经制定，要求 YouTube 上发布的真实视频清楚说明生成人工智能的使用。然而，随着动画被排除在名单之外，有人指出，儿童面临着接触低质量内容的风险。]]></description>
+      <description><![CDATA[一项新法规已经制定，要求在 YouTube 上发布真实的视频，以明确说明生成的人工智能的使用。然而，随着动画被排除在名单之外，有人指出，儿童面临着接触低质量内容的风险。]]></description>
       <guid>https://wired.jp/article/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</guid>
       <pubDate>Thu, 21 Mar 2024 08:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>对人类进行大脑植入的Neuralink公布了第一个测试对象透露的“结果”</title>
       <link>https://wired.jp/article/neuralink-implant-first-human-patient-demonstration/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 Neuralink 正在开发脑机接口 (BCI)。接受大脑植入治疗的男性受试者首次在 X 的在线直播中透露了他的“结果”。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 Neuralink 正在开发脑机接口 (BCI)。接受脑部植入治疗的男性受试者首次在 X 的在线直播中透露了他的“结果”。]]></description>
       <guid>https://wired.jp/article/neuralink-implant-first-human-patient-demonstration/</guid>
       <pubDate>Thu, 21 Mar 2024 05:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能代理的出现不仅可以编写代码，还可以规划问题解决、验证代码并实施。初创公司和大公司的开发重点正在从“只回答问题的聊天机器人”转向“能够实际执行任务的人工智能代理”。]]></description>
       <guid>https://wired.jp/article/fast-forward-forget-chatbots-ai-agents-are-the-future/</guid>
       <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 开发的人工智能模型的力量可以建议足球中的“完美”角球</title>
-      <link>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[谷歌 DeepMind 开发了一种技术，利用人工智能分析利物浦足球俱乐部的足球比赛，帮助提高角球得分和防守的机会。希望将其运用到教练员的指导和指示中，或许能够为球队的胜利做出贡献。]]></description>
-      <guid>https://wired.jp/article/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
-      <pubDate>Wed, 20 Mar 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
