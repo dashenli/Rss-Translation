@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 24 Mar 2024 06:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 09:13:52 GMT</lastBuildDate>
+    <item>
+      <title>近300名被绑架的尼日利亚学童在被囚禁两周后获释</title>
+      <link>https://npr.org/2024/03/24/1240522044/nearly-300-abducted-nigerian-schoolchildren-freed-after-over-two-weeks-in-captiv</link>
+      <description><![CDATA[近 300 名被绑架的尼日利亚学童已获释，两周多前，孩子们在西北部卡杜纳州的学校被绑架，并走进森林。]]></description>
+      <guid>https://npr.org/2024/03/24/1240522044/nearly-300-abducted-nigerian-schoolchildren-freed-after-over-two-weeks-in-captiv</guid>
+      <pubDate>Sun, 24 Mar 2024 08:32:33 GMT</pubDate>
+    </item>
     <item>
       <title>普京向全国发表讲话，莫斯科音乐厅袭击事件造成的死亡人数上升至133人</title>
       <link>https://npr.org/2024/03/23/1240472960/moscow-concert-hall-attack-deaths-putin</link>
@@ -64,16 +71,9 @@
     <item>
       <title>普珥节 — 一个犹太节日，其结局常常被忽视</title>
       <link>https://npr.org/2024/03/23/1240037244/purim-a-festive-jewish-holiday-with-an-ending-often-ignored</link>
-      <description><![CDATA[正如《以斯帖记》中所记载的那样，这个欢乐的犹太节日庆祝犹太人从毁灭中逃脱。故事的一个鲜为人知的结局在中东战争时期被赋予了新的意义。]]></description>
+      <description><![CDATA[正如《以斯帖记》中所记载的那样，这个欢乐的犹太节日庆祝犹太人逃脱灭绝。故事的一个鲜为人知的结局在中东战争时期被赋予了新的意义。]]></description>
       <guid>https://npr.org/2024/03/23/1240037244/purim-a-festive-jewish-holiday-with-an-ending-often-ignored</guid>
       <pubDate>Sat, 23 Mar 2024 09:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄亥俄州一直是领头羊和战场：它现在告诉我们什么？</title>
-      <link>https://npr.org/2024/03/23/1240249291/ohio-bellwether-battleground-election</link>
-      <description><![CDATA[直到2020年，俄亥俄州都是模范领头羊州。那一年，俄亥俄州将绝大多数选票投给了当时的现任总统唐纳德·特朗普，但他仍然把白宫输给了乔·拜登。]]></description>
-      <guid>https://npr.org/2024/03/23/1240249291/ohio-bellwether-battleground-election</guid>
-      <pubDate>Sat, 23 Mar 2024 09:00:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
