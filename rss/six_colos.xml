@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:18:33 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 25 Mar 2024 21:13:58 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 505：废除草案：2024 年 iPad 草案</title>
+      <link>https://sixcolors.com/podcast/2024/03/upgrade-505-abolish-drafts-the-2024-ipad-draft/</link>
+      <description><![CDATA[美国司法部与欧盟委员会一起对苹果公司的法律麻烦做出了贡献；我们出人意料地先发制人，尝试通过草案来预测 iPad 的未来！…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/03/upgrade-505-abolish-drafts-the-2024-ipad-draft/</guid>
+      <pubDate>Mon, 25 Mar 2024 21:09:54 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）难以负担网络安全保险？这就是为什么。</title>
       <link>https://sixcolors.com/feed-only/2024/03/struggling-to-afford-cybersecurity-insurance-heres-why-2/</link>
@@ -70,7 +77,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <title>是时候建设新机场了</title>
       <link>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</link>
       <description><![CDATA[&lt;图标题&gt;
-Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 Wi-Fi 6E 支持。 Wi-Fi 6E 意义重大，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
+Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 Wi-Fi 6E 支持。 Wi-Fi 6E 是一件大事，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</guid>
       <pubDate>Wed, 20 Mar 2024 16:35:58 GMT</pubDate>
     </item>
@@ -111,15 +118,6 @@ Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 W
       <description><![CDATA[苹果是否正在与谷歌合作开发人工智能？战略？我们分析这对苹果平台的未来可能意味着什么，以及为什么它可能很有意义。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/03/upgrade-504-tone-47/</guid>
       <pubDate>Mon, 18 Mar 2024 21:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
-      <link>https://sixcolors.com/feed-only/2024/03/magic-lasso-adblock-youtube-ad-blocker-for-safari-12/</link>
-      <description><![CDATA[
-您想在 iPhone、iPad 和 Mac 上的 Safari 浏览器中屏蔽所有 YouTube 广告吗？
-然后下载Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/03/magic-lasso-adblock-youtube-ad-blocker-for-safari-12/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

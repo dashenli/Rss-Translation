@@ -4,7 +4,21 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 21:12:41 GMT</lastBuildDate>
+    <item>
+      <title>《3 Body Problem》的创作者希望与这本书进行“来回讨论”</title>
+      <link>https://www.theverge.com/24111515/3-body-problem-interview-david-benioff-alexander-woo-db-weiss-season-2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24111515/3-body-problem-interview-david-benioff-alexander-woo-db-weiss-season-2</guid>
+      <pubDate>Mon, 25 Mar 2024 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克完全相信“伟大的替代品”</title>
+      <link>https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon</guid>
+      <pubDate>Mon, 25 Mar 2024 20:38:46 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 的新选择退出设置限制了 Instagram 和 Threads 上政治的可见性</title>
       <link>https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads</link>
@@ -14,7 +28,7 @@
 
 Meta 的高管一段时间以来一直表示，他们不想在他们的应用中推送有关政治的帖子。现在，Instagram 和 Threads 中添加了限制“政治内容”推荐的选择退出设置。
 您可以在 Instagram 的“内容偏好设置”帐户设置下找到它。从那里，默认启用“限制来自您不关注的人的政治内容”。该设置也适用于 Threads，因为该应用与 Instagram 共享其帐户系统。
-Meta 将这一新设置定义为有利于用户选择，该公司表示，它不会限制人们选择关注的帐户的政治内容的覆盖范围。虽然这一变化于二月初首次宣布&lt; /a&gt;，Meta 发言人安迪·斯通 (Andy Stone) 向 The Verge 证实，它已于上周开始广泛推出。截至周一，该公司尚未发送任何应用内通知，提醒人们该设置以及默认情况下处于打开状态的事实。 
+Meta 将这一新设置定义为有利于用户选择，该公司表示，它不会限制人们选择关注的帐户中政治内容的影响范围。虽然这一变化于二月初首次宣布&lt; /a&gt;，Meta 发言人安迪·斯通 (Andy Stone) 向 The Verge 证实，它已于上周开始广泛推出。截至周一，该公司尚未发送任何应用内通知，提醒人们该设置以及默认情况下处于打开状态的事实。 
 
 
 亚历克斯·希思 / The Verge
@@ -28,7 +42,7 @@ Meta 将这一新设置定义为有利于用户选择，该公司表示，它不
       <pubDate>Mon, 25 Mar 2024 18:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>Razer 闪电般的 Huntsman V2 键盘降价至迄今为止最低价格</title>
+      <title>Razer 快如闪电的 Huntsman V2 键盘降价至迄今为止最低价格</title>
       <link>https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale</guid>
@@ -75,7 +89,7 @@ Nvidia 成为第一家H100 和即将推出的 H200 GPU。这些 Nvidia 芯片锁
       <pubDate>Mon, 25 Mar 2024 15:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 30 年来忘记更新此 Windows 功能</title>
+      <title>Microsoft 30 年来一直忘记更新此 Windows 功能</title>
       <link>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</link>
       <description><![CDATA[&lt;图&gt;
       
@@ -91,7 +105,7 @@ Plummer 随后创建了一个基本 UI，并将其作为临时解决方案添加
 
 
 如果您想知道为什么 Windows 中 FAT 卷的格式大小仅限于 32GB，这也可能部分归功于 Plummer。 “我还必须决定多少‘集群冗余’会太多，这最终会将 FAT 卷的格式大小限制为 32GB，”Plummer 承认。 “这个限制也是那天早上的一个任意选择，并且作为一个永久的副作用一直困扰着我们。” FAT 实际上支持高达 2TB 的卷，但即使 Microsoft 的操作系统能够正确读取这些较大的 FAT 驱动器，您也需要在 Windows 中使用第三方工具来创建此卷。
-尽管对 Windows UI 进行了多次修改，但自多年前在 Windows NT 中引入“格式”对话框以来，Microsoft 从未触及过该对话框。您仍然可以在最新版本的 Windows 中看到相当多的其他旧 Windows UI，但我猜测这个特定的格式只是“如果它没有损坏，就不要修复它”的简单情况。 ”]]></description>
+尽管对 Windows UI 进行了多次修改，但自多年前在 Windows NT 中引入“格式”对话框以来，微软从未触及过该对话框。您仍然可以在最新版本的 Windows 中看到相当多的其他旧 Windows UI，但我猜测这个特定的格式只是“如果它没有损坏，就不要修复它”的简单情况。 ”]]></description>
       <guid>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</guid>
       <pubDate>Mon, 25 Mar 2024 14:09:10 GMT</pubDate>
     </item>
@@ -116,28 +130,6 @@ Plummer 随后创建了一个基本 UI，并将其作为临时解决方案添加
 ]]></description>
       <guid>https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce</guid>
       <pubDate>Mon, 25 Mar 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 正在改进 Chrome 在 Windows 上的文本呈现效果</title>
-      <link>https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-Microsoft 已对 Chromium 进行了更改，这将改善 Windows 计算机上的文本渲染。经过多年的抱怨，Chrome 版本 124 最终将支持 Windows ClearType Text Tuner 的对比度和伽玛值，以便在 Google 浏览器中进行文本渲染。
-这一变化应该意味着 Chrome 最终将匹配这些改进Microsoft 为 Edge 打造了字体和文本渲染功能，因此您可以应用文本对比度增强和伽玛校正来提高网页上文本的可读性。 Chrome 使用 Skia 进行文本渲染，并使用硬编码的对比度和伽玛值，因此它没有获得 ClearType 必须提供的改进。
-Microsoft 的 ClearType 字体技术 长期以来一直在 Windows 中用于改进文本在屏幕上渲染，目的是使文本看起来像打印在一张纸上。现在，Neowin 发现了&lt; /a&gt; Microsoft 工程师已将 ClearType Text Tuner 支持集成到 Chrome 中，这样它就会像大多数浏览器一样接收对比度和伽玛的任何更改其他本机 Windows 应用程序。
-Microsoft 高级软件开发工程师 Kurt Catti-Schmidt 领导了这项工作。 Catti-Schmidt 一直致力于改进基于 Chromium 的浏览器上的文本渲染最近几个月，定期关注 Edge 和 Chrome 的辅助功能改进。
-这些最新的变化是 Microsoft 承诺改进 Windows 上基于 Chromium 的浏览器的一部分，该公司五年多前在自己的 Edge 浏览器中迁移到 Chromium。当时，微软表示将“提供我们的 Windows 平台专业知识，以改善 Windows 上所有基于 Chromium 的浏览器的体验”，这一承诺已经兑现。 Microsoft 帮助改进了 Chrome 中的滚动、触摸支持以及更多。]]></description>
-      <guid>https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements</guid>
-      <pubDate>Mon, 25 Mar 2024 12:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果、Meta 和谷歌成为欧盟 DMA 违规调查的目标</title>
-      <link>https://www.theverge.com/2024/3/25/24111232/european-commission-digital-markets-act-investigation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/25/24111232/european-commission-digital-markets-act-investigation</guid>
-      <pubDate>Mon, 25 Mar 2024 10:22:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
