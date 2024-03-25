@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 00:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 05:55:10 GMT</lastBuildDate>
     <item>
-      <title>询问 HN：设置自我管理的 Postgres 集群的最佳方式？</title>
-      <link>https://t.me/hn_summary/81110</link>
-      <description><![CDATA[询问 HN：设置自我管理的 Postgres 集群的最佳方式？ 
-标题：询问 HN：设置自我管理的 Postgres 集群的最佳方式？
-您是否希望在不使用 RDS 或 CloudSQL 的情况下在 Linux 计算机上设置 100 个 Postgres 集群？这些选项包括使用 apt/yum 进行传统安装、使用 Docker 或 Docker-compose 或利用 Kubernetes。分享您对有效管理 Postgres 集群的最佳方法的看法。加入 news.ycombinator.com 上的讨论，探索每种方法的优缺点。]]></description>
-      <guid>https://t.me/hn_summary/81110</guid>
-      <pubDate>Mon, 25 Mar 2024 00:26:44 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者讨论了编程语言中上下文的重要性[...]</title>
+      <link>https://t.me/hn_summary/81135</link>
+      <description><![CDATA[上下文：编程语言缺失的功能
+在本文中，作者讨论了编程语言中上下文的重要性，强调了函数如何依赖经常被忽视的隐式上下文。作者探讨了管理上下文的挑战并提出了解决方案，例如将所有内容作为函数参数传递。本文深入探讨了上下文感知编译器的概念，并研究了 Kotlin 的功能（例如 CoroutineContext 和 Context Receivers）如何解决上下文管理问题。作者还讨论了现实世界中缺乏完全支持上下文管理的可用于生产的语言，并提供了有关效应和协同效应的学术研究的见解。本文最后强调需要在编程语言中进行更明确的上下文管理，以实现更好的代码稳定性和可维护性。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81135</guid>
+      <pubDate>Mon, 25 Mar 2024 05:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>正在与任务瘫痪作斗争吗？</title>
-      <link>https://t.me/hn_summary/81109</link>
-      <description><![CDATA[AI ADHD 教练旨在帮助您开始任务 
-正在与任务瘫痪作斗争吗？ PlanRoadmap 的 AI ADHD 教练可通过个性化策略建议帮助您开始执行任务。借助我们专为支持多动症患者而设计的创新工具，告别拖延症，迎接生产力。让我们的人工智能教练指导您分解任务并制定成功路线图。掌控您的一天并轻松完成您的待办事项清单。请立即访问我们的网站，了解更多信息并开始您提高专注力和效率的旅程。]]></description>
-      <guid>https://t.me/hn_summary/81109</guid>
-      <pubDate>Mon, 25 Mar 2024 00:25:41 GMT</pubDate>
+      <title>[媒体]在最近的一次研讨会上，苹果推出了新的核心技术费，引发了争议 [...]</title>
+      <link>https://t.me/hn_summary/81134</link>
+      <description><![CDATA[苹果新核心技术费是核心技术羊毛 
+在最近的一次研讨会上，苹果推出了新的核心技术费，引发了开发者的争议。一位开发人员指出，在新结构下，即使是免费的开源应用程序也可能会产生高额费用。这笔费用引发了人们对苹果昂贵的硬件和开发者许可证的必要性的质疑。欧盟反垄断主管玛格丽特·维斯塔格(Margrethe Vestager)对这笔费用可能会阻碍《数字市场法案》的好处表示担忧。苹果的回应？ “敬请关注。”核心技术费在开发者社区引起轰动，许多人质疑其目的和对创新的影响。]]></description>
+      <guid>https://t.me/hn_summary/81134</guid>
+      <pubDate>Mon, 25 Mar 2024 05:39:01 GMT</pubDate>
     </item>
     <item>
-      <title>像 ChatGPT 这样的大型语言模型中新能力的出现可能并不那么不可预测 [...]</title>
-      <link>https://t.me/hn_summary/81108</link>
-      <description><![CDATA[大型语言模型的新兴能力只是海市蜃楼&lt; br /&gt;
-斯坦福大学研究人员发表的一篇新论文指出，像 ChatGPT 这样的大型语言模型中新能力的出现可能并不像之前想象的那么不可预测。虽然有些人将这些能力描述为“涌现的”，并将其比作物理学中的相变，但斯坦福大学的研究人员认为，这些突破只是研究人员衡量模型性能的结果。随着 GPT-3.5 和 GPT-4 等模型的规模和复杂性不断增长，它们的功能也在迅速扩展，但我们衡量其性能的方式可能会影响我们如何看待它们的能力。]]></description>
-      <guid>https://t.me/hn_summary/81108</guid>
-      <pubDate>Mon, 25 Mar 2024 00:21:36 GMT</pubDate>
+      <title>[媒体] 探索不朽水母 Turritopsis dohrnii 的不可思议的故事，这是一种微小的 [...]</title>
+      <link>https://t.me/hn_summary/81133</link>
+      <description><![CDATA[不朽的水母
+探索不朽水母 Turritopsis dohrnii 的不可思议的故事，这是一种微小的生物，具有在受到威胁时按下重置按钮并恢复到早期发育阶段的非凡能力。这个过程被称为转分化，因其在医学上的潜在应用而引起了科学家的关注。但这种水母不仅仅是幸存者，它还是侵略性的入侵者，搭乘货船环游世界。由于在大洋彼岸发现了基因相同的个体，这引发了关于死亡率和个性本质的问题。潜入不朽水母的迷人世界及其非凡能力。]]></description>
+      <guid>https://t.me/hn_summary/81133</guid>
+      <pubDate>Mon, 25 Mar 2024 05:33:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们介绍了 Explorer，这是一种结合了探索指南 [...]</title>
-      <link>https://t.me/hn_summary/81107</link>
-      <description><![CDATA[Explorer：文本强化学习的探索引导推理 
-在本文中，我们介绍了 Explorer，这是一种将探索引导推理与文本强化学习相结合的新颖方法，以提高自然语言处理模型的性能。通过将探索策略纳入学习过程，Explorer 能够在文本分类和情感分析等任务中取得更好的结果。我们的实验证明了这种方法的有效性，展示了其彻底改变文本强化学习领域的潜力。这种创新方法为增强 NLP 模型的能力并突破当前文本分析的界限开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/81107</guid>
-      <pubDate>Mon, 25 Mar 2024 00:20:33 GMT</pubDate>
+      <title>[媒体] 为什么选择 async/await 而不是线程？</title>
+      <link>https://t.me/hn_summary/81132</link>
+      <description><![CDATA[为什么选择 async/await 而不是线程？
+notgull.net 上的文章讨论了使用 async/await 之间的选择或者 Rust 中的并发线程。虽然线程更简单并且可以同时处理多个任务，但 async/await 允许用户空间并发性和可组合性，从而更容易处理 I/O 绑定函数。本文解释了 async/await 在处理超时方面的好处，并展示了如何使用它向函数添加超时。它强调了 Rust 中可组合性的强大功能，以及 async/await 如何增强此功能，使其成为高效处理复杂任务的宝贵工具。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81132</guid>
+      <pubDate>Mon, 25 Mar 2024 05:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>Tiny-autodiff 是 D 语言中的一个小型 autograd 库，它实现了反向传播 autodiff，perfe [...]</title>
-      <link>https://t.me/hn_summary/81106</link>
-      <description><![CDATA[Tiny-autodiff：D 中的小型 autograd 库 
-Tiny-autodiff 是 D 语言中的一个小型 autograd 库，它实现了反向传播 autodiff，非常适合构建小型神经网络。通过使用 DUB 轻松集成，它提供了用于值计算的简单示例用法和用于高效循环操作的 ChainSolver。该库还包括一个具有训练和测试功能的多层感知器示例，展示了其功能。令人惊讶的是，该库是根据 BSL 许可证获得许可的，因此可以供各种项目访问。总的来说，Tiny-autodiff 是 D 中神经网络开发的强大工具。]]></description>
-      <guid>https://t.me/hn_summary/81106</guid>
-      <pubDate>Mon, 25 Mar 2024 00:19:28 GMT</pubDate>
+      <title>[媒体] 在备受期待的 Netflix 首秀中，大卫·贝尼奥夫 (David Benioff) 和 D.B.</title>
+      <link>https://t.me/hn_summary/81131</link>
+      <description><![CDATA[《三体》评论：贝尼奥夫和韦斯的 Netflix 首秀很残酷哑巴
+在备受期待的 Netflix 首秀中，大卫·贝尼奥夫 (David Benioff) 和 D.B.韦斯以残酷的方式将刘慈欣的小说《三体》演绎得栩栩如生。第一季共八集，讲述了一群科学家在试图拯救世界和他们自己的同时面临神秘威胁的故事。尽管期望很高，贝尼奥夫和韦斯未能提供令人信服的改编作品，让观众感到失望。围绕这一改编的争议引发了小说粉丝的争论，许多人对平淡的执行感到失望。总体来说，《三体》没有达到预期目标，没有发挥出它的潜力。]]></description>
+      <guid>https://t.me/hn_summary/81131</guid>
+      <pubDate>Mon, 25 Mar 2024 05:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Windows NT 中的格式对话框是管理磁盘驱动器和分区的重要工具。</title>
-      <link>https://t.me/hn_summary/81105</link>
-      <description><![CDATA[Windows NT 中的格式对话框
-Windows NT 中的格式对话框是管理磁盘驱动器和分区的重要工具。它允许用户使用不同的文件系统（例如 NTFS 或 FAT）格式化驱动器，并自定义分配单元大小等设置。然而，围绕如果格式化过程不正确可能发生的潜在数据丢失存在争议。请务必仔细遵循说明，以避免丢失重要文件。请确保在您的浏览器上启用 JavaScript，以便在 twitter.com&lt; 上访问此基本功能/a&gt;.]]></description>
-      <guid>https://t.me/hn_summary/81105</guid>
-      <pubDate>Mon, 25 Mar 2024 00:18:24 GMT</pubDate>
+      <title>[媒体]20世纪中叶，巴布亚新几内亚遭受一种名为k的神秘疾病的困扰，[...]</title>
+      <link>https://t.me/hn_summary/81130</link>
+      <description><![CDATA[库鲁病：神秘疾病导致整个巴布亚新几内亚村庄没有妇女
+20 世纪中叶，巴布亚新几内亚遭受一种名为库鲁病的神秘疾病的困扰，导致整个村庄没有妇女。研究人员发现，库鲁病是通过福尔部落的太平盛宴传统传播的，他们在葬礼上吃掉已故亲人的尸体，导致朊病毒病。尽管库鲁病造成了恐惧和紧张，但迁徙模式仍在继续，其中女性偏向进入库鲁病高发地区。基因分析显示，女性幸存者携带基因变异，使她们对库鲁病具有抵抗力。该研究强调了流行病对基因进化和人类社会复杂性的影响。]]></description>
+      <guid>https://t.me/hn_summary/81130</guid>
+      <pubDate>Mon, 25 Mar 2024 05:25:40 GMT</pubDate>
     </item>
     <item>
-      <title>奥斯汀的比特币地下城是德克萨斯州中心地带的一个独特空间，比特币爱好者在这里 [...]</title>
-      <link>https://t.me/hn_summary/81104</link>
-      <description><![CDATA[奥斯汀的比特币地下
-奥斯汀的比特币地下城是德克萨斯州中心地带的一个独特空间，比特币爱好者聚集在这里工作、协作和社交。比特币共享区位于利特菲尔德大厦，白天充当联合办公空间，晚上充当地下比特币爱好者的聚会场所。奥斯汀的社区是多元化的，包括风险投资家、矿工、程序员和技术人员，他们都相信比特币是一种去中心化的货币网络。最近比特币价格的飙升给社区带来了新的热情，黑客马拉松和会议等活动吸引了来自世界各地的参与者。这座城市的自由主义友好政策和充满活力的科技场景使其成为不断发展的比特币运动的天然家园。 （根据 75% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81104</guid>
-      <pubDate>Mon, 25 Mar 2024 00:07:16 GMT</pubDate>
+      <title>所有被许可方请注意，DVD 格式/徽标许可计划将于 12 月结束 [...]</title>
+      <link>https://t.me/hn_summary/81129</link>
+      <description><![CDATA[DVD 格式/徽标许可计划将于 2024 年底终止
+所有被许可方请注意，DVD 格式/徽标许可计划将于 2024 年 12 月 31 日结束。这意味着不会颁发新许可证，也无需续订。自2025年1月1日起，任何制造商都可以生产DVD产品，无需许可证。请继续关注有关此新计划的更多详细信息。为 DVD 制作的新时代做好准备！]]></description>
+      <guid>https://t.me/hn_summary/81129</guid>
+      <pubDate>Mon, 25 Mar 2024 05:20:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文物有政治吗？</title>
-      <link>https://t.me/hn_summary/81103</link>
-      <description><![CDATA[文物有政治性吗？ [pdf](https://news.ycombinator.com/item?id= 39811287)
-在《文物有政治吗？》兰登·温纳探讨了这样一种观点：技术不是中立的，而是嵌入了政治品质。他认为机器和系统等技术制品有能力塑造社会并影响权力动态。获奖者深入研究了从核能到太阳能等各种技术的政治影响，强调了这些技术可以促进自由和社会公平或导致威权主义的方式。通过研究技术的社会起源和影响，温纳挑战了技术决定论的概念，并强调了理解人工制品的政治维度的重要性。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81103</guid>
-      <pubDate>Sun, 24 Mar 2024 23:44:04 GMT</pubDate>
+      <title>[媒体] Telnet 可能被认为已经过时，但仍有隐藏的世界等待探索 [...]</title>
+      <link>https://t.me/hn_summary/81128</link>
+      <description><![CDATA[Telnet 的失落世界 (2019)
+Telnet 可能被认为已经过时了，但仍然有一些隐藏的世界等待那些保持 Telnet 服务在线的人探索。从 ASCII 艺术版本的“星球大战”到 BOFH Excuse Server，Telnet 周围有一个完整的亚文化，提供复古的乐趣和惊喜。 Telehack.com 允许用户探索阿帕网并获得黑客技能，而其他 Telnet 服务器则提供国际象棋和双陆棋等经典游戏。尽管 Telnet 简单且缺乏安全性，但它仍然拥有忠实的追随者，开发人员创建了新的 Telnet 游戏。 Telnet 失落的世界可能很古老，但对于那些敢于探索它们的人来说，它们仍然充满怀旧和冒险的感觉。]]></description>
+      <guid>https://t.me/hn_summary/81128</guid>
+      <pubDate>Mon, 25 Mar 2024 04:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家在超冷氦气中创造了一个“量子龙卷风”来模拟这种情况[...]</title>
-      <link>https://t.me/hn_summary/81102</link>
-      <description><![CDATA[“量子龙卷风”让科学家能够模拟地球上的黑洞&lt; /a&gt;
-科学家们在超冷氦气中创造了一个“量子龙卷风”，以模拟旋转黑洞附近的条件。这项由诺丁汉大学研究人员领导的实验提供了对黑洞独特物理学的见解。通过研究超流氦中的微小表面波，研究小组观察到了与旋转黑洞附近类似的行为。这项实验在接近绝对零的温度下进行，揭示了量子龙卷风和黑洞引力之间令人着迷的相似之处。这项开创性的研究可能会导致人们更好地理解弯曲时空和黑洞周围的量子物理学。这项研究发表在《自然》杂志上，为研究复杂现象开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/81102</guid>
-      <pubDate>Sun, 24 Mar 2024 23:38:45 GMT</pubDate>
+      <title>[媒体] Bash 高级用户的秘密武器是 Bash shell 中的 vi 模式。</title>
+      <link>https://t.me/hn_summary/81127</link>
+      <description><![CDATA[Bash 高级用户的秘密武器
+Bash 高级用户的秘密武器是 Bash shell 中的 vi 模式。通过在命令历史记录中使用 vi 击键，用户可以快速高效地导航和编辑过去的命令。这种独特的方法将命令历史记录视为在 vi 中编辑的文本文件，这对于熟悉 vi 的人来说非常有用。要在 bash shell 中启用 vi 模式，用户只需在其主目录中创建一个具有特定设置的 .inputrc 文件。对于喜欢命令行界面的 Linux 用户来说，这个巧妙的技巧改变了游戏规则。在 stackoverflow 上的信息主题和 Bash 教程系列中查看有关此主题的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/81127</guid>
+      <pubDate>Mon, 25 Mar 2024 04:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>在 Uncanny Way Octopuses Play 的“She's Bouncing the Ball”中，作者探索了令人着迷的 [...]</title>
-      <link>https://t.me/hn_summary/81101</link>
-      <description><![CDATA[章鱼以不可思议的方式玩“她弹球”
-在 Uncanny Way Octopuses Play 的“She&#39;s Bouncing the Ball”中，作者探索了章鱼的迷人行为及其独特的顽皮性。通过一系列的轶事和观察，读者将踏上这些智慧生物的世界之旅，了解它们从事有趣活动的惊人能力。这篇文章强调了围绕动物玩耍这一概念的争议，并要求读者重新考虑他们对非人类智能的看法。这篇富有洞察力的文章揭示了章鱼顽皮的一面，并邀请读者欣赏它们行为的复杂性。]]></description>
-      <guid>https://t.me/hn_summary/81101</guid>
-      <pubDate>Sun, 24 Mar 2024 23:29:39 GMT</pubDate>
+      <title>在《大西洋月刊》一篇发人深省的文章中，作者反思了智能手机的影响 [...]</title>
+      <link>https://t.me/hn_summary/81126</link>
+      <description><![CDATA[智能手机孩子并不好
+在《大西洋月刊》一篇发人深省的文章中，作者反思了智能手机对年轻一代心理健康的影响。乔纳森·海特的研究表明，年轻人抑郁、焦虑和孤独感的增加与智能手机的广泛使用有直接关系。作者与他们的孩子雅各布进行了坦诚的对话，雅各布分享了关于智能手机如何塑造他们的社交互动和自我认知的见解。海特提出了一些实用的解决方案，例如推迟中学生使用智能手机和限制社交媒体访问，以解决这一日益严重的问题。这次对话揭示了数字时代养育子女的复杂性，以及采取集体行动保护我们的孩子免受过度屏幕时间负面影响的必要性。 （根据 37% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81126</guid>
+      <pubDate>Mon, 25 Mar 2024 03:56:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
