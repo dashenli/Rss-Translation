@@ -4,7 +4,65 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 12:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:14:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 30 年来忘记更新此 Windows 功能</title>
+      <link>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Windows 11 中的格式化驱动器对话框。 |汤姆·沃伦 / The Verge 截图
+
+近 30 年前的一个星期四早上，在微软雷德蒙德总部，一位软件开发人员签入了他正在开发的对话框的一些代码。这个盒子本来只是临时用的，所以他并不担心它很简单。只是，没有人抽出时间去改变它——直到今天，在 Windows 11 中它仍然是一样的。
+Dave Plummer，微软前开发人员，在 周末在 X 上发帖。
+“我们将大量的代码从 Windows 95 用户界面移植到 NT，而格式只是 Windows NT 与 Windows 95 有很大不同的领域之一，我们必须提出这一点带有一些自定义用户界面，”Plummer 说。 “我拿出一张纸，写下了格式化磁盘时可以做出的所有选项和选择，例如文件系统、标签、簇大小、压缩、加密等等。”
+Plummer 随后创建了一个基本 UI，并将其作为临时解决方案添加到 Windows NT 代码库中，“直到优雅的 UI 出现”。这种 UI 改进从未实现，近 30 年后，Plummer 的临时解决方案至今仍在 Windows 11 中使用。
+
+
+1994 年末，我在 Microsoft 的一个下雨的星期四早上写了这个“格式”对话框，我认为是这样。我们正在移植无数行代码从 Windows95 用户界面转移到 NT，而格式只是 WindowsNT 与... pic.twitter.com/PbrhQe0n3K— Dave W Plummer (@davepl1968) 2024 年 3 月 24 日
+
+
+如果您想知道为什么 Windows 中 FAT 卷的格式大小仅限于 32GB，这也可能部分归功于 Plummer。 “我还必须决定多少‘集群冗余’会太多，这最终会将 FAT 卷的格式大小限制为 32GB，”Plummer 承认。 “这个限制也是那天早上的一个任意选择，并且作为一个永久的副作用一直困扰着我们。” FAT 实际上支持高达 2TB 的卷，但即使 Microsoft 的操作系统能够正确读取这些较大的 FAT 驱动器，您也需要在 Windows 中使用第三方工具来创建此卷。
+尽管对 Windows UI 进行了多次修改，但自多年前在 Windows NT 中引入“格式”对话框以来，Microsoft 从未触及过该对话框。您仍然可以在最新版本的 Windows 中看到相当多的其他旧 Windows UI，但我猜测这个特定的格式只是“如果它没有损坏，就不要修复它”的简单情况。 ”]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</guid>
+      <pubDate>Mon, 25 Mar 2024 14:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bluesky 首席执行官 Jay Graber 表示，联盟是社交媒体的未来</title>
+      <link>https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview</guid>
+      <pubDate>Mon, 25 Mar 2024 14:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的购物经历告诉我们人工智能的前景</title>
+      <link>https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce</link>
+      <description><![CDATA[&lt;图&gt;
+      
+
+我们正处于快速、廉价、时尚服装的镀金时代。任何人都可以在网上购买昂贵服装的仿制品，这些服装以创纪录的速度送到家中，而且价格仅为原价的一小部分。这种做法使商品变得价格实惠——通常以牺牲产品制造工人的利益为代价——并养成了浪费和冲动的购物习惯。一位电子商务巨头，Shopify，估计 20% 到 30% 的在线购买商品被退货，而全国零售联合会表示大约有 18%在线订单的百分比被退回。 
+在线时装公司 Finesse 承诺改变这一现状。他们的动机是通过使用人工智能来营销和设计适合受众的服装，从而减少生产过剩。
+零售商已经拥抱生成式人工智能：eBay 卖家可以 自动生成产品描述，亚马逊承诺其AI 合身功能将帮助您找到合适的服装尺码，Shopify 推出了 AI 工具来编辑图像和编写网站文案。 Levi&#39;s 甚至按顺序对 AI 模型进行了实验来“增加多样性”，而不实际雇用不同的模特（不出所料，客户并不兴奋）。 
+但是人工智能真的可以帮助改善在线购物体验吗？在本期 Status Update 中，Verge 记者 Mia Sato 探讨了人工智能的使用如何改变零售业格局，以及购买人工智能设计的衣柜实际上是什么样的。 
+
+]]></description>
+      <guid>https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce</guid>
+      <pubDate>Mon, 25 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 正在改进 Chrome 在 Windows 上的文本呈现效果</title>
+      <link>https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Microsoft 已对 Chromium 进行了更改，这将改善 Windows 计算机上的文本渲染。经过多年的抱怨，Chrome 版本 124 最终将支持 Windows ClearType Text Tuner 的对比度和伽玛值，以便在 Google 浏览器中进行文本渲染。
+这一变化应该意味着 Chrome 最终将匹配这些改进Microsoft 为 Edge 打造了字体和文本渲染功能，因此您可以应用文本对比度增强和伽玛校正来提高网页上文本的可读性。 Chrome 使用 Skia 进行文本渲染，并使用硬编码的对比度和伽马值，因此它没有获得 ClearType 必须提供的改进。
+Microsoft 的 ClearType 字体技术 长期以来一直在 Windows 中用于改进文本在屏幕上渲染，目的是使文本看起来像打印在一张纸上。现在，Neowin 发现了&lt; /a&gt; Microsoft 工程师已将 ClearType Text Tuner 支持集成到 Chrome 中，这样它就会像大多数浏览器一样接收对比度和伽玛的任何更改其他本机 Windows 应用程序。
+Microsoft 高级软件开发工程师 Kurt Catti-Schmidt 领导了这项工作。 Catti-Schmidt 一直致力于改进基于 Chromium 的浏览器上的文本渲染最近几个月，定期关注 Edge 和 Chrome 的辅助功能改进。
+这些最新的变化是 Microsoft 承诺改进 Windows 上基于 Chromium 的浏览器的一部分，该公司五年多前在自己的 Edge 浏览器中迁移到 Chromium。当时，微软表示将“提供我们的 Windows 平台专业知识，以改善 Windows 上所有基于 Chromium 的浏览器的体验”，这一承诺已经兑现。 Microsoft 帮助改进了 Chrome 中的滚动、触摸支持以及更多。]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements</guid>
+      <pubDate>Mon, 25 Mar 2024 12:46:58 GMT</pubDate>
+    </item>
     <item>
       <title>苹果、Meta 和谷歌成为欧盟 DMA 违规调查的目标</title>
       <link>https://www.theverge.com/2024/3/25/24111232/european-commission-digital-markets-act-investigation</link>
@@ -46,41 +104,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24086612/elden-ring-shadow-of-the-erdtree-preorder-guide-dlc-deluxe-collectors-edition-figurine-deal</guid>
       <pubDate>Sun, 24 Mar 2024 16:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonos Roam 2 或将于 6 月推出</title>
-      <link>https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2</link>
-      <description><![CDATA[&lt;图&gt;
-      
-第一代 Roam 扬声器。 |克里斯·韦尔奇 / The Verge 摄
-
-Sonos 将于 6 月推出 Roam 无线 AirPlay 2 和蓝牙扬声器的后续产品，以及专门针对其便携式扬声器的新应用程序。这是彭博社的 Mark Gurman 的说法，他今天在他的Power On时事通讯中写道，该公司已经重新调整了硬件修复扬声器的蓝牙问题。 
-Gurman 表示，新应用程序还将支持该公司传闻中的 449 美元高端耳机，也可能在六月推出。然而，用户必须等待 Move 1 和 2 以及第一代 Roam 才能获得支持，因为据报道该公司在软件升级方面遇到了困难。 
-
-最初的 Roam 是一款坚固的扬声器，但有一些怪癖，比如没有通过蓝牙进行立体声配对，The Verge 的 Chris Welch 在 他的原始评论。正如他在报道 Sonos 路线图早在11月份，一些车主还抱怨其电池的长期耐用性。新款 Roam 预计将具有与 Era 100 和 300 扬声器类似的顶部触摸控制。除此之外，据报道，该公司的计划还包括电视机顶盒以及 Sub、Era 100 和 Sonos Arc soundbar 的更新版本，以支撑其硬件收入。]]></description>
-      <guid>https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2</guid>
-      <pubDate>Sun, 24 Mar 2024 14:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>最大的新大逃杀游戏已经为您的手机做好了准备</title>
-      <link>https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter</guid>
-      <pubDate>Sun, 24 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝尔金快速充电 Apple Watch 移动电源降价至迄今为止最优惠价格</title>
-      <link>https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale</guid>
-      <pubDate>Sat, 23 Mar 2024 17:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能吸顶灯对决：Aqara T1M 与 Nanoleaf Skylight</title>
-      <link>https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown</guid>
-      <pubDate>Sat, 23 Mar 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
