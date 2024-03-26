@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 09:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 12:25:26 GMT</lastBuildDate>
+    <item>
+      <title>前端解决方案：进度指示器</title>
+      <link>https://piccalil.li/blog/solution-009-progress-indicator/</link>
+      <description><![CDATA[我选择了一个小 Web 组件来逐步增强加载语句。
+]]></description>
+      <guid>https://piccalil.li/blog/solution-009-progress-indicator/</guid>
+      <pubDate>Tue, 26 Mar 2024 09:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lissajous 曲线 SVG 生成器</title>
+      <link>https://lissajous.eva.town/</link>
+      <description><![CDATA[生成并导出利萨如曲线的 SVG。 Eva Decker 的工具。
+]]></description>
+      <guid>https://lissajous.eva.town/</guid>
+      <pubDate>Tue, 26 Mar 2024 09:39:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>从墨水到像素再到墨水</title>
+      <link>https://manuelmoreale.com/from-ink-to-pixel-to-ink</link>
+      <description><![CDATA[我喜欢书。我喜欢读书，但我也喜欢把书当作物品。
+]]></description>
+      <guid>https://manuelmoreale.com/from-ink-to-pixel-to-ink</guid>
+      <pubDate>Tue, 26 Mar 2024 09:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓦</title>
+      <link>https://nemutas.github.io/azulejo/</link>
+      <description><![CDATA[用于生成图块图案的很酷的视觉实验。 
+]]></description>
+      <guid>https://nemutas.github.io/azulejo/</guid>
+      <pubDate>Tue, 26 Mar 2024 09:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机历史博物馆中的 Mac 40 周年</title>
+      <link>https://arun.is/blog/mac-at-40</link>
+      <description><![CDATA[我对计算机历史博物馆庆祝 Macintosh 40 周年的活动和快闪展览的回顾。
+]]></description>
+      <guid>https://arun.is/blog/mac-at-40</guid>
+      <pubDate>Tue, 26 Mar 2024 09:25:40 GMT</pubDate>
+    </item>
     <item>
       <title>响应式字体大小的公式</title>
       <link>https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.designspells.com/</guid>
       <pubDate>Fri, 22 Mar 2024 10:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自 Netflix 配置文件的洞察如何使我们的转化率翻倍</title>
-      <link>https://uxmag.com/articles/how-insight-from-netflix-profiles-doubled-our-conversions</link>
-      <description><![CDATA[Gett 移动团队的开箱即用设计流程。
-]]></description>
-      <guid>https://uxmag.com/articles/how-insight-from-netflix-profiles-doubled-our-conversions</guid>
-      <pubDate>Thu, 21 Mar 2024 11:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pentagram 为蒙特利湾水族馆进行全新品牌重塑，引起轰动</title>
-      <link>https://www.printmag.com/branding-identity-design/monterey-bay-aquarium-rebrand/</link>
-      <description><![CDATA[为庆祝成立 40 周年，这个热门的南加州目的地拥有了全新升级的品牌系统。
-]]></description>
-      <guid>https://www.printmag.com/branding-identity-design/monterey-bay-aquarium-rebrand/</guid>
-      <pubDate>Thu, 21 Mar 2024 11:33:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经这么老了：网络版</title>
-      <link>https://davidwalsh.name/im-so-old-1</link>
-      <description><![CDATA[时间是一件有趣的事情。我仍然记得发现 HTML、CSS 和 JavaScript 编码的经历。
-]]></description>
-      <guid>https://davidwalsh.name/im-so-old-1</guid>
-      <pubDate>Thu, 21 Mar 2024 11:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查所有/展开所有控件</title>
-      <link>https://adrianroselli.com/2024/03/check-all-expand-all-controls.html</link>
-      <description><![CDATA[可以批量操作其他控件的控件并不新鲜。
-]]></description>
-      <guid>https://adrianroselli.com/2024/03/check-all-expand-all-controls.html</guid>
-      <pubDate>Thu, 21 Mar 2024 11:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何让世界陷入刻板印象</title>
-      <link>https://restofworld.org/2023/ai-image-stereotypes/</link>
-      <description><![CDATA[世界其他地区分析了 3,000 张 AI 图像，以了解图像生成器如何可视化不同的国家和文化。
-]]></description>
-      <guid>https://restofworld.org/2023/ai-image-stereotypes/</guid>
-      <pubDate>Thu, 21 Mar 2024 11:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
