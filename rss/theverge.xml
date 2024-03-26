@@ -4,7 +4,39 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 21:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:53:44 GMT</lastBuildDate>
+    <item>
+      <title>微软任命了新的 Windows 和 Surface 负责人</title>
+      <link>https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri</guid>
+      <pubDate>Mon, 25 Mar 2024 23:51:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 的点对点登录系统是每月节省 5 美元的冒险方式</title>
+      <link>https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer</link>
+      <description><![CDATA[&lt;图&gt;
+      
+请不要注册此计划。 |插图由 Alex Castro / The Verge 绘制
+
+Telegram 提供一种新方式免费获得高级订阅：您所要做的就是自愿提供您的电话号码，以便将一次性密码 (OTP) 转发给其他用户。事实上，这听起来是一个糟糕的主意——特别是对于基于隐私的消息服务而言。
+X 用户 @AssembleDebug 在流行的俄语 Telegram 信息频道的英语版本上发现了有关新程序的详细信息一个&gt;。果然，Telegram 的服务条款中有一个部分概述了新的“点对点登录”或 P2PL 计划，该计划是目前仅在 Android 上和某些（未指定）位置提供。选择加入该计划，即表示您同意 Telegram 使用您的电话号码向登录其帐户的其他用户发送最多 150 条带有 OTP 的短信。每个月使用您的号码发送最低数量的 OTP，您都会获得一个月高级订阅的礼品代码。
+天哪，这听起来像是一个坏主意，首先是主要问题：每次使用您的电话号码发送 OTP 时，收件人都会看到您的电话号码。如果因此发生任何不愉快的事情，Telegram 的条款明确表明责任在你：
+因此，您理解并同意，对于通过 P2PL 获悉您的电话号码的用户采取不必要、未经授权或非法的行为而造成的任何不便、骚扰或伤害，Telegram 不承担任何责任.
+通过您的号码发送 OTP 后，收件人可能只会给您回复短信。参与 P2PL 计划的人们被告知不要给 OTP 的接收者发短信，即使他们先发了短信 — 但 Telegram 没有办法强制执行这一点，也没有办法限制人们回复 OTP 文本。这似乎是一个使用荣誉系统的特别糟糕的地方。
+Telegram 表示，它提供此程序是为了在某些地区更可靠地通过短信接收访问代码。更愤世嫉俗的解读可能是该公司试图避免通过短信发送代码收取费用 - 来自 X / Twitter 剧本的举措。事实上，如果您的运营商向您收取发送访问代码的费用，Telegram 承担零责任。 
+对于一家宣扬“革命性隐私政策”的公司来说，这完全不寻常。 Telegram 的全球用户群被该平台所吸引，因为它是一种无算法的信息分发方式，无论是 好与不太好。我们已联系 Telegram 征求对此新计划的评论，如果收到回复，我们将更新这篇文章。
+总而言之，仅仅为了每月节省 5 美元就需要冒很大的风险。我们的免费建议？如果您看到此优惠，请避开它​​。]]></description>
+      <guid>https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer</guid>
+      <pubDate>Mon, 25 Mar 2024 23:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是您仍然可以从亚马逊春季销售活动中获得的最佳优惠</title>
+      <link>https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices</guid>
+      <pubDate>Mon, 25 Mar 2024 21:10:54 GMT</pubDate>
+    </item>
     <item>
       <title>《3 Body Problem》的创作者希望与这本书进行“来回讨论”</title>
       <link>https://www.theverge.com/24111515/3-body-problem-interview-david-benioff-alexander-woo-db-weiss-season-2</link>
@@ -42,7 +74,7 @@ Meta 将这一新设置定义为有利于用户选择，该公司表示，它不
       <pubDate>Mon, 25 Mar 2024 18:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>Razer 快如闪电的 Huntsman V2 键盘降价至迄今为止最低价格</title>
+      <title>Razer 闪电般的 Huntsman V2 键盘降价至迄今为止最低价格</title>
       <link>https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale</guid>
@@ -87,49 +119,6 @@ Nvidia 成为第一家H100 和即将推出的 H200 GPU。这些 Nvidia 芯片锁
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/25/24087979/florida-desantis-social-media-age-verification-parental-consent-law</guid>
       <pubDate>Mon, 25 Mar 2024 15:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 30 年来一直忘记更新此 Windows 功能</title>
-      <link>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Windows 11 中的格式化驱动器对话框。 |汤姆·沃伦 / The Verge 截图
-
-近 30 年前的一个星期四早上，在微软雷德蒙德总部，一位软件开发人员签入了他正在开发的对话框的一些代码。这个盒子本来只是临时用的，所以他并不担心它很简单。只是，没有人抽出时间去改变它——直到今天，在 Windows 11 中它仍然是一样的。
-Dave Plummer，微软前开发人员，在 周末在 X 上发帖。
-“我们将大量的代码从 Windows 95 用户界面移植到 NT，而格式只是 Windows NT 与 Windows 95 有很大不同的领域之一，我们必须提出这一点带有一些自定义用户界面，”Plummer 说。 “我拿出一张纸，写下了格式化磁盘时可以做出的所有选项和选择，例如文件系统、标签、簇大小、压缩、加密等等。”
-Plummer 随后创建了一个基本 UI，并将其作为临时解决方案添加到 Windows NT 代码库中，“直到优雅的 UI 出现”。这种 UI 改进从未实现，近 30 年后，Plummer 的临时解决方案至今仍在 Windows 11 中使用。
-
-
-1994 年末，我在 Microsoft 的一个下雨的星期四早上写了这个“格式”对话框，我认为是这样。我们正在移植无数行代码从 Windows95 用户界面转移到 NT，而格式只是 WindowsNT 与... pic.twitter.com/PbrhQe0n3K— Dave W Plummer (@davepl1968) 2024 年 3 月 24 日
-
-
-如果您想知道为什么 Windows 中 FAT 卷的格式大小仅限于 32GB，这也可能部分归功于 Plummer。 “我还必须决定多少‘集群冗余’会太多，这最终会将 FAT 卷的格式大小限制为 32GB，”Plummer 承认。 “这个限制也是那天早上的一个任意选择，并且作为一个永久的副作用一直困扰着我们。” FAT 实际上支持高达 2TB 的卷，但即使 Microsoft 的操作系统能够正确读取这些较大的 FAT 驱动器，您也需要在 Windows 中使用第三方工具来创建此卷。
-尽管对 Windows UI 进行了多次修改，但自多年前在 Windows NT 中引入“格式”对话框以来，微软从未触及过该对话框。您仍然可以在最新版本的 Windows 中看到相当多的其他旧 Windows UI，但我猜测这个特定的格式只是“如果它没有损坏，就不要修复它”的简单情况。 ”]]></description>
-      <guid>https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog</guid>
-      <pubDate>Mon, 25 Mar 2024 14:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 首席执行官 Jay Graber 表示，联盟是社交媒体的未来</title>
-      <link>https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview</guid>
-      <pubDate>Mon, 25 Mar 2024 14:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的购物经历告诉我们人工智能的前景</title>
-      <link>https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce</link>
-      <description><![CDATA[&lt;图&gt;
-      
-
-我们正处于快速、廉价、时尚服装的镀金时代。任何人都可以在网上购买昂贵服装的仿制品，这些服装以创纪录的速度送到家中，而且价格仅为原价的一小部分。这种做法使商品变得价格实惠——通常以牺牲产品制造工人的利益为代价——并养成了浪费和冲动的购物习惯。一位电子商务巨头，Shopify，估计 20% 到 30% 的在线购买商品被退货，而全国零售联合会表示大约有 18%在线订单的百分比被退回。 
-在线时装公司 Finesse 承诺改变这一现状。他们的动机是通过使用人工智能来营销和设计适合受众的服装，从而减少生产过剩。
-零售商已经拥抱生成式人工智能：eBay 卖家可以 自动生成产品描述，亚马逊承诺其AI 合身功能将帮助您找到合适的服装尺码，Shopify 推出了 AI 工具来编辑图像和编写网站文案。 Levi&#39;s 甚至按顺序对 AI 模型进行了实验来“增加多样性”，而不实际雇用不同的模特（不出所料，客户并不兴奋）。 
-但是人工智能真的可以帮助改善在线购物体验吗？在本期 Status Update 中，Verge 记者 Mia Sato 探讨了人工智能的使用如何改变零售业格局，以及购买人工智能设计的衣柜实际上是什么样的。 
-
-]]></description>
-      <guid>https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce</guid>
-      <pubDate>Mon, 25 Mar 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

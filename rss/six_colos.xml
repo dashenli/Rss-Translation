@@ -3,8 +3,17 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 25 Mar 2024 21:13:58 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Tue, 26 Mar 2024 00:54:39 GMT</lastBuildDate>
+    <item>
+      <title>磁盘已满，无法恢复</title>
+      <link>https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/</link>
+      <description><![CDATA[&lt;图标题&gt;
+我小孩子的 MacBook Pro 已经满得无法挽救了。只需完全擦除就足够了，然后时间机器就让我们失望了。
+我爱我的孩子，但他们有时确实忘记了我的职业：回答问题并撰写有关人们在使用 Mac、iPhone 和 iPad 时遇到的最棘手问题的书籍。…]]></description>
+      <guid>https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/</guid>
+      <pubDate>Mon, 25 Mar 2024 23:46:36 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 505：废除草案：2024 年 iPad 草案</title>
       <link>https://sixcolors.com/podcast/2024/03/upgrade-505-abolish-drafts-the-2024-ipad-draft/</link>
@@ -77,7 +86,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <title>是时候建设新机场了</title>
       <link>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</link>
       <description><![CDATA[&lt;图标题&gt;
-Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 Wi-Fi 6E 支持。 Wi-Fi 6E 是一件大事，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
+Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 Wi-Fi 6E 支持。 Wi-Fi 6E 意义重大，因为它将 6GHz 频谱添加到我们都习惯的 2.4GHz 和 5GHz 频段。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/its-time-for-a-new-airport/</guid>
       <pubDate>Wed, 20 Mar 2024 16:35:58 GMT</pubDate>
     </item>
@@ -91,7 +100,7 @@ Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 W
     <item>
       <title>在 Apple in the Enterprise 2024 成绩单调查中寻找条目 ↦</title>
       <link>https://sixcolors.com/link/2024/03/seeking-entries-in-the-apple-in-the-enterprise-2024-report-card/</link>
-      <description><![CDATA[自 2021 年以来，六色一直在编制年度成绩单，重点关注 Apple 在大型组织（包括企业、教育和政府）中的表现。我们制定了一系列调查问题，旨在解决企业中有关苹果的大局问题，并且我们每年都会提出这些问题。…]]></description>
+      <description><![CDATA[自 2021 年以来，六色一直在编制年度成绩单，重点关注 Apple 在大型组织（包括企业、教育和政府）中的表现。我们制定了一系列调查问题，以解决有关苹果公司在企业中的总体问题，并且我们每年都会提出这些问题。…]]></description>
       <guid>https://sixcolors.com/link/2024/03/seeking-entries-in-the-apple-in-the-enterprise-2024-report-card/</guid>
       <pubDate>Tue, 19 Mar 2024 16:42:55 GMT</pubDate>
     </item>
@@ -111,13 +120,6 @@ Jason 最近评测了新款 M3 MacBook Air，新型号的一个关键功能是 W
   据知情人士透露，苹果公司正在就将谷歌的 Gemini 人工智能引擎内置到 iPhone 中进行谈判，这将为一项震撼人工智能行业的重磅协议奠定基础。…]]></description>
       <guid>https://sixcolors.com/link/2024/03/apple-may-work-with-google-on-a-i-features/</guid>
       <pubDate>Mon, 18 Mar 2024 21:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 504：音调 47</title>
-      <link>https://sixcolors.com/podcast/2024/03/upgrade-504-tone-47/</link>
-      <description><![CDATA[苹果是否正在与谷歌合作开发人工智能？战略？我们分析这对苹果平台的未来可能意味着什么，以及为什么它可能很有意义。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/03/upgrade-504-tone-47/</guid>
-      <pubDate>Mon, 18 Mar 2024 21:23:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
