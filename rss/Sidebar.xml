@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 06:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 09:16:01 GMT</lastBuildDate>
+    <item>
+      <title>响应式字体大小的公式</title>
+      <link>https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/</link>
+      <description><![CDATA[这个 CSS 现在是我制作的大多数网站的一部分。
+]]></description>
+      <guid>https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/</guid>
+      <pubDate>Mon, 25 Mar 2024 06:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Figma 中设计图标</title>
+      <link>https://blog.streamlinehq.com/designing-icons-in-figma/</link>
+      <description><![CDATA[Figma 中设计图标的权威指南，包含详细的分步说明和视频示例。
+]]></description>
+      <guid>https://blog.streamlinehq.com/designing-icons-in-figma/</guid>
+      <pubDate>Mon, 25 Mar 2024 06:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 CSS 中使用文本强调来增强文本的趣味性</title>
+      <link>https://www.amitmerchant.com/spicing-up-text-with-text-emphasis-in-css/</link>
+      <description><![CDATA[最近，我了解了一个我以前从未听说过的时尚 CSS 属性，它非常酷！
+]]></description>
+      <guid>https://www.amitmerchant.com/spicing-up-text-with-text-emphasis-in-css/</guid>
+      <pubDate>Mon, 25 Mar 2024 06:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有伪类的可访问表单</title>
+      <link>https://css-tricks.com/accessible-forms-with-pseudo-classes/</link>
+      <description><![CDATA[使用语义 HTML 和一个名为 :focus-within 的很棒的 CSS 伪类创建一个简单的联系表单。
+]]></description>
+      <guid>https://css-tricks.com/accessible-forms-with-pseudo-classes/</guid>
+      <pubDate>Mon, 25 Mar 2024 06:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>包容性 Sans</title>
+      <link>https://www.oliviaking.com/inclusive-sans</link>
+      <description><![CDATA[奥利维亚·金 (Olivia King) 为所有读者设计的文本字体，旨在提高可访问性和易读性。
+]]></description>
+      <guid>https://www.oliviaking.com/inclusive-sans</guid>
+      <pubDate>Mon, 25 Mar 2024 06:37:28 GMT</pubDate>
+    </item>
     <item>
       <title>排版的隐藏力量</title>
       <link>https://microsoft.design/articles/the-hidden-power-of-typography</link>
@@ -46,7 +86,7 @@
       <pubDate>Fri, 22 Mar 2024 10:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 配置文件的洞察如何使我们的转化率翻倍</title>
+      <title>来自 Netflix 配置文件的洞察如何使我们的转化率翻倍</title>
       <link>https://uxmag.com/articles/how-insight-from-netflix-profiles-doubled-our-conversions</link>
       <description><![CDATA[Gett 移动团队的开箱即用设计流程。
 ]]></description>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://restofworld.org/2023/ai-image-stereotypes/</guid>
       <pubDate>Thu, 21 Mar 2024 11:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>主页设计：5 个基本原则</title>
-      <link>https://www.nngroup.com/articles/homepage-design-principles/</link>
-      <description><![CDATA[有效的主页简单且易于访问，传达组织和网站的目的。
-]]></description>
-      <guid>https://www.nngroup.com/articles/homepage-design-principles/</guid>
-      <pubDate>Wed, 20 Mar 2024 03:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国野生动物摄影奖</title>
-      <link>https://www.thisiscolossal.com/2024/03/british-wildlife-photography-awards-2024/</link>
-      <description><![CDATA[2024 年英国野生动物摄影奖的获奖照片展示了不列颠群岛的美丽、奇观和脆弱的平衡。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/03/british-wildlife-photography-awards-2024/</guid>
-      <pubDate>Wed, 20 Mar 2024 03:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram — 运动识别系统</title>
-      <link>https://studiodumbar.com/work/instagram</link>
-      <description><![CDATA[Instagram 邀请 Studio Dumbar 合作进行下一阶段的扩展：创建一个充满活力、无所不包的运动系统。
-]]></description>
-      <guid>https://studiodumbar.com/work/instagram</guid>
-      <pubDate>Wed, 20 Mar 2024 03:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>活页书实验</title>
-      <link>https://pudding.cool/projects/flipbook</link>
-      <description><![CDATA[帮助绘制有史以来最长的翻书动画。
-]]></description>
-      <guid>https://pudding.cool/projects/flipbook</guid>
-      <pubDate>Wed, 20 Mar 2024 03:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>故事书8</title>
-      <link>https://storybook.js.org/blog/storybook-8/</link>
-      <description><![CDATA[更高级别的测试、性能和兼容性
-]]></description>
-      <guid>https://storybook.js.org/blog/storybook-8/</guid>
-      <pubDate>Wed, 20 Mar 2024 03:15:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
