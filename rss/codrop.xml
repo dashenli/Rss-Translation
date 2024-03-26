@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 25 Mar 2024 06:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:14:29 GMT</lastBuildDate>
+    <item>
+      <title>集体#824</title>
+      <link>https://tympanus.net/codrops/collective/collective-824/</link>
+      <description><![CDATA[如何在 CSS 中设置边框动画 * Astro DB：深入探讨 * 草书的奇妙案例]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-824/</guid>
+      <pubDate>Tue, 26 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>励志网站综述：Webflow 特别#2</title>
+      <link>https://tympanus.net/codrops/2024/03/26/inspirational-websites-roundup-webflow-special-2/</link>
+      <description><![CDATA[与 Webflow 合作，我们感到非常兴奋呈现本次综述，其中包括精心挑选的一些令人惊叹的网站。]]></description>
+      <guid>https://tympanus.net/codrops/2024/03/26/inspirational-websites-roundup-webflow-special-2/</guid>
+      <pubDate>Tue, 26 Mar 2024 11:27:45 GMT</pubDate>
+    </item>
     <item>
       <title>集体#823</title>
       <link>https://tympanus.net/codrops/collective/collective-823/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[Puter * 用游戏奖励您未来的客户 * Twitter 创意列表]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-821/</guid>
       <pubDate>Fri, 15 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格项在悬停时显示动画</title>
-      <link>https://tympanus.net/codrops/2024/03/13/grid-item-reveal-animation-on-hover/</link>
-      <description><![CDATA[网格项目的重新创建显示了悬停时的动画，如 Metalab 网站上所示。]]></description>
-      <guid>https://tympanus.net/codrops/2024/03/13/grid-item-reveal-animation-on-hover/</guid>
-      <pubDate>Wed, 13 Mar 2024 15:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#820</title>
-      <link>https://tympanus.net/codrops/collective/collective-820/</link>
-      <description><![CDATA[UVCanvas * 我在浏览器上提交的错误 * Nekoweb.org]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-820/</guid>
-      <pubDate>Tue, 12 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
