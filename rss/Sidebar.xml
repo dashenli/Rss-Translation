@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 12:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 15:17:02 GMT</lastBuildDate>
+    <item>
+      <title>提案：CSS 变量组</title>
+      <link>https://lea.verou.me/specs/var-groups/</link>
+      <description><![CDATA[CSS 变量组是一种在同一命名空间下定义多个属性并传递整个组的方法。
+]]></description>
+      <guid>https://lea.verou.me/specs/var-groups/</guid>
+      <pubDate>Wed, 27 Mar 2024 11:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能感受到节奏吗‽</title>
+      <link>https://nerdy.dev/css-logical-rhythm</link>
+      <description><![CDATA[Flex 和网格逻辑布局和逻辑道具使基线网格的概念成为国际现实。
+]]></description>
+      <guid>https://nerdy.dev/css-logical-rhythm</guid>
+      <pubDate>Wed, 27 Mar 2024 11:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 CSS 中设置边框动画</title>
+      <link>https://www.letsbuildui.dev/articles/how-to-animate-borders-in-css/</link>
+      <description><![CDATA[2024 年 CSS 边框动画的不同方法。
+]]></description>
+      <guid>https://www.letsbuildui.dev/articles/how-to-animate-borders-in-css/</guid>
+      <pubDate>Wed, 27 Mar 2024 11:36:14 GMT</pubDate>
+    </item>
     <item>
       <title>超越条形和线条：在开发工具中可视化数据的 7 种很酷的方法</title>
       <link>https://evilmartians.com/chronicles/beyond-bars-and-lines-7-cool-ways-to-visualize-data-in-your-dev-tool</link>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://www.oliviaking.com/inclusive-sans</guid>
       <pubDate>Mon, 25 Mar 2024 06:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>排版的隐藏力量</title>
-      <link>https://microsoft.design/articles/the-hidden-power-of-typography</link>
-      <description><![CDATA[设计选择如何影响感知和行为背后的科学
-]]></description>
-      <guid>https://microsoft.design/articles/the-hidden-power-of-typography</guid>
-      <pubDate>Fri, 22 Mar 2024 11:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>盒子型号和盒子尺寸</title>
-      <link>https://piccalil.li/blog/the-box-model-and-box-sizing/</link>
-      <description><![CDATA[我们正在研究 CSS 最重要的方面之一，以了解：盒子大小如何影响盒子模型。
-]]></description>
-      <guid>https://piccalil.li/blog/the-box-model-and-box-sizing/</guid>
-      <pubDate>Fri, 22 Mar 2024 11:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们渴望更健康的计算</title>
-      <link>https://arun.is/blog/healthy-computing/</link>
-      <description><![CDATA[纵观历史，计算能力的提高如何导致用户负担的增加。
-]]></description>
-      <guid>https://arun.is/blog/healthy-computing/</guid>
-      <pubDate>Fri, 22 Mar 2024 10:13:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

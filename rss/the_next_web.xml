@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 27 Mar 2024 12:25:48 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Wed, 27 Mar 2024 15:15:48 GMT</lastBuildDate>
+    <item>
+      <title>报告发现英国 150 万个工作岗位面临人工智能威胁</title>
+      <link>https://thenextweb.com/news/1-5m-uk-jobs-now-at-risk-ai-report</link>
+      <description><![CDATA[英国约 11% 的工作任务目前面临人工智能取代的风险，公共政策研究所 (IPPR) 的一份新报告发现。在最坏的情况下，这意味着 150 万个就业岗位的流失，而 GDP 却没有任何增长。 IPPR 的分析表明，这种影响对于常规认知任务（例如数据库管理）以及组织和战略任务（例如库存管理或调度）最为明显。后台、入门级和兼职工作是受影响最大的，其中中低工资员工面临的风险最大。 IPPR 绘制了一个…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/1-5m-uk-jobs-now-at-risk-ai-report</guid>
+      <pubDate>Wed, 27 Mar 2024 13:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>这块滑雪板是用纸制成的——它像梦一样被撕碎</title>
       <link>https://thenextweb.com/news/paper-snowboard-papershell-snowsurfing-sweden-circular-tech</link>
@@ -43,7 +50,7 @@
     <item>
       <title>ESA 将打造 ChatGPT 式地球观测数字助理</title>
       <link>https://thenextweb.com/news/esa-chatgpt-earth-observation-digital-assistant-chatbot</link>
-      <description><![CDATA[欧洲航天局 (ESA) 宣布将建立 ChatGPT-风格的数字助理可以帮助人类更好地解码复杂的地球观测数据。在该机构的地球观测创新和投资部门 Φ-lab (Phi-Lab) 的领导下，该聊天机器人将接受训练，以理解人类对地球的疑问，并以类似人类的答案做出回应。该实验室定于下个月启动该项目。卫星和气象站等地球观测工具每天都会收集有关我们地球的大量数据。这些信息大部分都是未标记的，这使得传统的机器学习算法很难这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧洲航天局 (ESA) 宣布将建立 ChatGPT-风格的数字助理可以帮助人类更好地解码复杂的地球观测数据。在该机构的地球观测创新和投资部门 Φ-lab (Phi-Lab) 的领导下，聊天机器人将接受训练，以理解人类对地球的疑问，并以类似人类的答案做出回应。该实验室定于下个月启动该项目。卫星和气象站等地球观测工具每天都会收集有关我们地球的大量数据。这些信息大部分都是未标记的，这使得传统的机器学习算法很难这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-chatgpt-earth-observation-digital-assistant-chatbot</guid>
       <pubDate>Tue, 26 Mar 2024 13:46:17 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[当瑞士联邦铁路 (SBB) 的工程师需要对一段轨道上，他们不再需要启动柴油发电机。他们可以将工具插入便携式电池。静音、无排放电池，还可为灯和测量仪器供电。 SBB 目前拥有大约 80 块由 Instagrid 生产的电池，Instagrid 是一家总部位于德国的快速发展的初创公司。焊接需要大量的能量爆发，因此电池必须有动力。 “这就是我们特别擅长的，即功率密度，”联合创始人 Andreas Sedlmayr 断言，这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/european-startups-making-batteries-punchy-portable</guid>
       <pubDate>Mon, 25 Mar 2024 14:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟首次根据 DMA 竞争法对苹果、谷歌和 Meta 进行调查</title>
-      <link>https://thenextweb.com/news/eu-investigates-apple-google-meta-first-ever-probe-dma</link>
-      <description><![CDATA[作为对大型科技公司的重大打击，欧盟正在调查谷歌母公司苹果公司Alphabet和 Meta 可能违反《数字市场法》(DMA) 制定的新规定。 DMA 的合规截止日期为 3 月 7 日，是一项具有里程碑意义的支持竞争法，旨在确保公司和消费者拥有公平的数字市场。为了建立公平的数字竞争环境，它为大型在线平台（称为“看门人”）制定了明确的权利和规则。当然，科技巨头三巨头完全属于该监管范围，并且这些公司已经采取措施这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：Apple]]></description>
-      <guid>https://thenextweb.com/news/eu-investigates-apple-google-meta-first-ever-probe-dma</guid>
-      <pubDate>Mon, 25 Mar 2024 13:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
