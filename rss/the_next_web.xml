@@ -3,8 +3,29 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Wed, 27 Mar 2024 15:15:48 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 27 Mar 2024 18:19:05 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：乌克兰初创公司、欧洲量子技术、Michiel Scheffer 谈 EIC 的未来</title>
+      <link>https://thenextweb.com/news/podcast-ukrainian-startups-european-quantum-tech-future-eic</link>
+      <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea、Tom（！）和 Andrii 谈论了乌克兰初创企业、无人机、信息安全、欧洲量子景观、反向人才流失等等。本次展会的嘉宾是欧洲创新理事会主席Michiel Scheffer。以下是本集中提到的故事和事情：俄罗斯媒体上充斥着隐藏的种族诽谤，人工智能揭示了欧洲宣言…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/podcast-ukrainian-startups-european-quantum-tech-future-eic</guid>
+      <pubDate>Wed, 27 Mar 2024 16:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>UCL 分拆项目投资 1000 万英镑，打造人工智能“超级大脑”，使 LLM 培训速度提高 100 倍</title>
+      <link>https://thenextweb.com/news/ucl-spinout-bags-10m-ai-super-brains-100x-faster-llm-training</link>
+      <description><![CDATA[UCL 衍生公司 Oriole Networks 已筹集 1000 万英镑种子资金用于构建人工智能“超级大脑”有望加速大型语言模型（LLM）的训练。这家初创公司由伦敦大学学院的科学家于 2023 年创立，开发了一种新方法，利用光的力量连接数千个人工智能芯片。这就形成了一个芯片网络，其中每个 GPU 的能力结合起来形成一个“超级大脑”。 Oriole Networks 首席执行官 James Regan 表示，这“可以直接连接大量节点，使其能够作为单个节点运行”这个故事还在继续 在下一个网络]]></description>
+      <guid>https://thenextweb.com/news/ucl-spinout-bags-10m-ai-super-brains-100x-faster-llm-training</guid>
+      <pubDate>Wed, 27 Mar 2024 16:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>科学家认为“集体人工智能”将类似于《星际迷航》中的博格——只是更好（希望如此）</title>
+      <link>https://thenextweb.com/news/collective-ai-will-resemble-star-trek-borg</link>
+      <description><![CDATA[领先的计算机科学家公布了类似于《星际迷航》物种的“集体人工智能”愿景博格。来自麻省理工学院、耶鲁大学和拉夫堡大学的研究人员在本周《自然机器智能》杂志上发表的一项研究中解释了这一概念。该论文描述了独立的人工智能单元不断获取新知识和技能。然后他们将通过网络共享信息。集体将共同将他们的见解转化为互惠互利。多种技能、想法和应用将逐步发展。因此，网络将快速学习完成新任务并响应变化。变革性技术将会出现。例如，网络安全系统，…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/collective-ai-will-resemble-star-trek-borg</guid>
+      <pubDate>Wed, 27 Mar 2024 14:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>报告发现英国 150 万个工作岗位面临人工智能威胁</title>
       <link>https://thenextweb.com/news/1-5m-uk-jobs-now-at-risk-ai-report</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[欧洲航天局 (ESA) 宣布将建立 ChatGPT-风格的数字助理可以帮助人类更好地解码复杂的地球观测数据。在该机构的地球观测创新和投资部门 Φ-lab (Phi-Lab) 的领导下，聊天机器人将接受训练，以理解人类对地球的疑问，并以类似人类的答案做出回应。该实验室定于下个月启动该项目。卫星和气象站等地球观测工具每天都会收集有关我们地球的大量数据。这些信息大部分都是未标记的，这使得传统的机器学习算法很难这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/esa-chatgpt-earth-observation-digital-assistant-chatbot</guid>
       <pubDate>Tue, 26 Mar 2024 13:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发人员薪资最高的欧洲城市</title>
-      <link>https://thenextweb.com/news/european-cities-highest-salaries-software-developers</link>
-      <description><![CDATA[对于任何想要在科技行业取得进步的人来说，成为一名软件开发人员是一个明智的选择— 您可以在从时尚到金融的各个行业工作，分析和解决复杂的问题，并对用户体验产生真正的影响。鉴于软件开发在许多领域都是必要的，该职位还提供了在欧洲旅行和测试工作环境的机会。根据欧盟统计局的数据，软件开发人员甚至名列在线招聘广告中最常见的 10 种职业名单之首。但是在欧洲哪里可以找到最多的…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/european-cities-highest-salaries-software-developers</guid>
-      <pubDate>Tue, 26 Mar 2024 11:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为慢性肾病打造“生物可穿戴设备”的初创公司净赚 230 万欧元</title>
-      <link>https://thenextweb.com/news/startup-building-biowearables-chronic-kidney-disease</link>
-      <description><![CDATA[&lt; br /&gt;总部位于巴黎的 Metyos 已筹集 230 万欧元的种子前资金，旨在利用其生物可穿戴技术改善慢性肾病患者的生活和健康结果。慢性肾病 (CKD) 影响着 10% 的人口，是全球增长第三快的死因。它还对医疗保健造成严重的财务影响，每年其治疗费用达 1400 亿欧元。为了对抗这种疾病，Metyos 开发了一种贴片形式的生物可穿戴传感器，它可以提供与 CKD 相关的生物标志物的实时读数。这些读数被输入初创公司的疾病管理平台，医生可以使用该平台这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/startup-building-biowearables-chronic-kidney-disease</guid>
-      <pubDate>Tue, 26 Mar 2024 08:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲初创公司正在制造既强大又便携的电池</title>
-      <link>https://thenextweb.com/news/european-startups-making-batteries-punchy-portable</link>
-      <description><![CDATA[当瑞士联邦铁路 (SBB) 的工程师需要对一段轨道上，他们不再需要启动柴油发电机。他们可以将工具插入便携式电池。静音、无排放电池，还可为灯和测量仪器供电。 SBB 目前拥有大约 80 块由 Instagrid 生产的电池，Instagrid 是一家总部位于德国的快速发展的初创公司。焊接需要大量的能量爆发，因此电池必须有动力。 “这就是我们特别擅长的，即功率密度，”联合创始人 Andreas Sedlmayr 断言，这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/european-startups-making-batteries-punchy-portable</guid>
-      <pubDate>Mon, 25 Mar 2024 14:18:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
