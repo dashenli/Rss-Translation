@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 06:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 09:16:24 GMT</lastBuildDate>
+    <item>
+      <title>定义大型语言模型中的体验质量</title>
+      <link>https://adobe.design/stories/process/defining-experience-quality-in-large-language-models</link>
+      <description><![CDATA[了解 Adob​​e Acrobat 最新生成式 AI 功能背后的设计策略。
+]]></description>
+      <guid>https://adobe.design/stories/process/defining-experience-quality-in-large-language-models</guid>
+      <pubDate>Thu, 28 Mar 2024 06:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>偏僻的</title>
+      <link>https://remote.madebyburo.com/</link>
+      <description><![CDATA[一个漂亮的登陆页面，带有旋转的动画地球仪。 
+]]></description>
+      <guid>https://remote.madebyburo.com/</guid>
+      <pubDate>Thu, 28 Mar 2024 06:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年条纹会议</title>
+      <link>https://stripesessions.com/</link>
+      <description><![CDATA[Stripe Sessions 是一个为期 2.5 天的面对面活动，讨论 Stripe 产品更新、重要的互联网经济趋势等。
+]]></description>
+      <guid>https://stripesessions.com/</guid>
+      <pubDate>Thu, 28 Mar 2024 06:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入探讨 Node.js 网站重新设计</title>
+      <link>https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign</link>
+      <description><![CDATA[我们在设计时非常谨慎，既致敬过去，又展望未来。
+]]></description>
+      <guid>https://nodejs.org/en/blog/announcements/diving-into-the-nodejs-website-redesign</guid>
+      <pubDate>Thu, 28 Mar 2024 06:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 颜色方案相关颜色与 light-dark()</title>
+      <link>https://web.dev/articles/light-dark</link>
+      <description><![CDATA[使用 light-dark() 函数定义对所使用的颜色方案做出反应的颜色。
+]]></description>
+      <guid>https://web.dev/articles/light-dark</guid>
+      <pubDate>Thu, 28 Mar 2024 06:24:30 GMT</pubDate>
+    </item>
     <item>
       <title>提案：CSS 变量组</title>
       <link>https://lea.verou.me/specs/var-groups/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://arun.is/blog/mac-at-40</guid>
       <pubDate>Tue, 26 Mar 2024 09:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式字体大小的公式</title>
-      <link>https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/</link>
-      <description><![CDATA[这个 CSS 现在是我制作的大多数网站的一部分。
-]]></description>
-      <guid>https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/</guid>
-      <pubDate>Mon, 25 Mar 2024 06:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Figma 中设计图标</title>
-      <link>https://blog.streamlinehq.com/designing-icons-in-figma/</link>
-      <description><![CDATA[Figma 中设计图标的权威指南，包含详细的分步说明和视频示例。
-]]></description>
-      <guid>https://blog.streamlinehq.com/designing-icons-in-figma/</guid>
-      <pubDate>Mon, 25 Mar 2024 06:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 CSS 中使用文本强调来增强文本的趣味性</title>
-      <link>https://www.amitmerchant.com/spicing-up-text-with-text-emphasis-in-css/</link>
-      <description><![CDATA[最近，我了解了一个我以前从未听说过的时尚 CSS 属性，它非常酷！
-]]></description>
-      <guid>https://www.amitmerchant.com/spicing-up-text-with-text-emphasis-in-css/</guid>
-      <pubDate>Mon, 25 Mar 2024 06:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有伪类的可访问表单</title>
-      <link>https://css-tricks.com/accessible-forms-with-pseudo-classes/</link>
-      <description><![CDATA[使用语义 HTML 和一个名为 :focus-within 的很棒的 CSS 伪类创建一个简单的联系表单。
-]]></description>
-      <guid>https://css-tricks.com/accessible-forms-with-pseudo-classes/</guid>
-      <pubDate>Mon, 25 Mar 2024 06:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>包容性 Sans</title>
-      <link>https://www.oliviaking.com/inclusive-sans</link>
-      <description><![CDATA[奥利维亚·金 (Olivia King) 为所有读者设计的文本字体，旨在提高可访问性和易读性。
-]]></description>
-      <guid>https://www.oliviaking.com/inclusive-sans</guid>
-      <pubDate>Mon, 25 Mar 2024 06:37:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
