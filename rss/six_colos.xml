@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 29 Mar 2024 18:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 21:14:07 GMT</lastBuildDate>
+    <item>
+      <title>苹果的沉浸式视频问题</title>
+      <link>https://sixcolors.com/post/2024/03/apples-immersive-video-problem/</link>
+      <description><![CDATA[
+周四，苹果公司推出了自 Vision Pro 推出以来的首个沉浸式视频，该视频时长五分钟，汇集了去年年底 MLS 杯季后赛的精彩片段。…]]></description>
+      <guid>https://sixcolors.com/post/2024/03/apples-immersive-video-problem/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:22:48 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）科利德</title>
       <link>https://sixcolors.com/sponsor/2024/03/kolide-39/</link>
@@ -29,10 +37,9 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <pubDate>Thu, 28 Mar 2024 21:30:32 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 的沉浸式 MLS 精彩片段于今天晚些时候首次亮相</title>
+      <title>Apple 沉浸式 MLS 精彩片段首次亮相</title>
       <link>https://sixcolors.com/post/2024/03/apples-immersive-mls-highlight-reel-debuts-later-today/</link>
-      <description><![CDATA[
-Apple 今天宣布，第一部针对 Vision Pro 的 Apple 沉浸式视频纪录片将于今晚（3 月 28 日）下午 6 点首映，其中收录了去年 MLS 季后赛的精彩片段…]]></description>
+      <description><![CDATA[Apple 周四宣布，第一部针对 Vision Pro 的 Apple 沉浸式视频纪录片将于 3 月 28 日下午 6 点首播，其中包含去年 MLS 季后赛的精彩片段…]]></description>
       <guid>https://sixcolors.com/post/2024/03/apples-immersive-mls-highlight-reel-debuts-later-today/</guid>
       <pubDate>Thu, 28 Mar 2024 16:19:13 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
   研究人员将这种攻击命名为 GoFetch，它使用的应用程序不需要 root 访问权限，只需要与 macOS 系统上安装的大多数第三方应用程序所需的相同用户权限。…]]></description>
       <guid>https://sixcolors.com/link/2024/03/apples-m-series-processors-have-a-cryptographic-flaw/</guid>
       <pubDate>Thu, 21 Mar 2024 19:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国与苹果：第一反应</title>
-      <link>https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/</link>
-      <description><![CDATA[周四，美国司法部、15 个州和哥伦比亚特区起诉了苹果公司。虽然我不是律师，但 30 年来我撰写了大量有关 Apple 的文章，并且刚刚阅读了完整投诉的全部 88 页。…]]></description>
-      <guid>https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/</guid>
-      <pubDate>Thu, 21 Mar 2024 17:12:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
