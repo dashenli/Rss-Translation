@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 12:25:40 GMT</lastBuildDate>
+    <item>
+      <title>关于 NBA 投篮数据的长篇阅读</title>
+      <link>https://www.aweebitofmapping.com/2024/03/a-long-read-about-nba-shot-data.html</link>
+      <description><![CDATA[我以前打篮球，做了很多数据分析和绘图。
+]]></description>
+      <guid>https://www.aweebitofmapping.com/2024/03/a-long-read-about-nba-shot-data.html</guid>
+      <pubDate>Fri, 29 Mar 2024 08:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>励志网站综述 #57</title>
+      <link>https://tympanus.net/codrops/2024/03/15/inspirational-websites-roundup-57/</link>
+      <description><![CDATA[发现一系列新鲜的网站，每个网站都因其出色的设计而被选中，以激发您的灵感。
+]]></description>
+      <guid>https://tympanus.net/codrops/2024/03/15/inspirational-websites-roundup-57/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>采用以用户为中心的方法重新设计导航</title>
+      <link>https://medium.com/wttj-tech/redesigning-navigation-with-a-user-centric-approach-e2e9a4c728ae</link>
+      <description><![CDATA[我们将详细介绍我们在设计这个新的导航菜单组件时所采取的每一步，并分享我们对整个体验的主要收获。
+]]></description>
+      <guid>https://medium.com/wttj-tech/redesigning-navigation-with-a-user-centric-approach-e2e9a4c728ae</guid>
+      <pubDate>Fri, 29 Mar 2024 08:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>arun.is 内部：目录</title>
+      <link>https://arun.is/blog/table-of-contents/</link>
+      <description><![CDATA[arun.is 上使用的目录组件背后的设计和开发过程。
+]]></description>
+      <guid>https://arun.is/blog/table-of-contents/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能如何重塑词汇：与该技术相关的最常用术语</title>
+      <link>https://journal.everypixel.com/ai-glossary</link>
+      <description><![CDATA[全面的词汇表，涵盖人工智能中最常用的术语以及近年来它们的使用如何增长
+]]></description>
+      <guid>https://journal.everypixel.com/ai-glossary</guid>
+      <pubDate>Fri, 29 Mar 2024 08:31:49 GMT</pubDate>
+    </item>
     <item>
       <title>定义大型语言模型中的体验质量</title>
       <link>https://adobe.design/stories/process/defining-experience-quality-in-large-language-models</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://janwillemtulp.github.io/parallel-lives/</guid>
       <pubDate>Wed, 27 Mar 2024 11:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端解决方案：进度指示器</title>
-      <link>https://piccalil.li/blog/solution-009-progress-indicator/</link>
-      <description><![CDATA[我选择了一个小 Web 组件来逐步增强加载语句。
-]]></description>
-      <guid>https://piccalil.li/blog/solution-009-progress-indicator/</guid>
-      <pubDate>Tue, 26 Mar 2024 09:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lissajous 曲线 SVG 生成器</title>
-      <link>https://lissajous.eva.town/</link>
-      <description><![CDATA[生成并导出利萨如曲线的 SVG。 Eva Decker 的工具。
-]]></description>
-      <guid>https://lissajous.eva.town/</guid>
-      <pubDate>Tue, 26 Mar 2024 09:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从墨水到像素再到墨水</title>
-      <link>https://manuelmoreale.com/from-ink-to-pixel-to-ink</link>
-      <description><![CDATA[我喜欢书。我喜欢读书，但我也喜欢把书当作物品。
-]]></description>
-      <guid>https://manuelmoreale.com/from-ink-to-pixel-to-ink</guid>
-      <pubDate>Tue, 26 Mar 2024 09:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>瓦</title>
-      <link>https://nemutas.github.io/azulejo/</link>
-      <description><![CDATA[用于生成图块图案的很酷的视觉实验。 
-]]></description>
-      <guid>https://nemutas.github.io/azulejo/</guid>
-      <pubDate>Tue, 26 Mar 2024 09:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机历史博物馆中的 Mac 40 周年</title>
-      <link>https://arun.is/blog/mac-at-40</link>
-      <description><![CDATA[我对计算机历史博物馆庆祝 Macintosh 40 周年的活动和快闪展览的回顾。
-]]></description>
-      <guid>https://arun.is/blog/mac-at-40</guid>
-      <pubDate>Tue, 26 Mar 2024 09:25:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
