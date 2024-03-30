@@ -4,12 +4,20 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 29 Mar 2024 21:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:53:37 GMT</lastBuildDate>
+    <item>
+      <title>PSA：MLB 应用程序不再在 Mac 上运行 ↦</title>
+      <link>https://sixcolors.com/link/2024/03/psa-the-mlb-app-doesnt-work-on-the-mac-anymore/</link>
+      <description><![CDATA[玩……球？
+几年前，我很高兴地报告说，您现在可以在 Apple Silicon Mac 上使用 MLB iPad 应用程序。虽然 MLB 的电视流媒体服务在网络上运行，但将所有内容都放在单独的应用程序中真是太好了。…]]></description>
+      <guid>https://sixcolors.com/link/2024/03/psa-the-mlb-app-doesnt-work-on-the-mac-anymore/</guid>
+      <pubDate>Sat, 30 Mar 2024 00:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的沉浸式视频问题</title>
       <link>https://sixcolors.com/post/2024/03/apples-immersive-video-problem/</link>
       <description><![CDATA[
-周四，苹果公司推出了自 Vision Pro 推出以来的首个沉浸式视频，该视频时长五分钟，汇集了去年年底 MLS 杯季后赛的精彩片段。…]]></description>
+周四，苹果推出了自 Vision Pro 推出以来的首个沉浸式视频，该视频时长五分钟，汇集了去年年底 MLS 杯季后赛的精彩片段。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/apples-immersive-video-problem/</guid>
       <pubDate>Fri, 29 Mar 2024 18:22:48 GMT</pubDate>
     </item>
@@ -58,7 +66,7 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <pubDate>Wed, 27 Mar 2024 18:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>当监管机构与苹果较量时谁是赢家？ （Macworld/杰森·斯内尔）</title>
+      <title>当监管机构与苹果较量时，谁会获胜？ （Macworld/杰森·斯内尔）</title>
       <link>https://www.macworld.com/article/2280258/who-wins-when-regulators-take-on-apple-maybe-no-one.html</link>
       <description><![CDATA[泰坦正在发生冲突。包括苹果在内的大型科技公司正面临来自欧盟委员会和美国司法部等政府实体的法律挑战。战线正在绘制。…]]></description>
       <guid>https://www.macworld.com/article/2280258/who-wins-when-regulators-take-on-apple-maybe-no-one.html</guid>
@@ -109,15 +117,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari 广告拦截器。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/03/magic-lasso-adblock-youtube-ad-blocker-for-safari-13/</guid>
       <pubDate>Fri, 22 Mar 2024 16:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 的 M 系列处理器存在加密缺陷 ↦</title>
-      <link>https://sixcolors.com/link/2024/03/apples-m-series-processors-have-a-cryptographic-flaw/</link>
-      <description><![CDATA[Ars Technica 的 Dan Goodin 对 Apple M 系列处理器中最近发现的安全漏洞进行了精彩的（如果是技术性的）概述。基本上有一个系统试图预测将使用哪些内存地址以加快处理速度，但苹果的版本可能会意外泄漏数据：
-&lt;块引用&gt;
-  研究人员将这种攻击命名为 GoFetch，它使用的应用程序不需要 root 访问权限，只需要与 macOS 系统上安装的大多数第三方应用程序所需的相同用户权限。…]]></description>
-      <guid>https://sixcolors.com/link/2024/03/apples-m-series-processors-have-a-cryptographic-flaw/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:35:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
