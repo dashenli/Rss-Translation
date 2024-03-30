@@ -4,7 +4,21 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 18:16:31 GMT</lastBuildDate>
+    <item>
+      <title>AT&T 确认数据泄露并重置了数百万客户密码</title>
+      <link>https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：The Verge
+
+AT&amp;T 已承认网上流传的数据泄露事件包含来自超过 760 万当前客户和 65百万前客户。该公司已重置受影响活跃客户的安全密码，并表示泄露的信息“可能包括全名、电子邮件地址、邮寄地址、电话号码、社会安全号码、出生日期、AT&amp;T 帐号和密码”。 
+AT&amp;T 正在通过“电子邮件或信件”联系受影响的客户，让他们知道其中包含哪些数据以及它为客户做了什么回应。 
+该公司承认泄露的数据是真实的——这是第一个泄露报告于 2021 年出现 - 仅在 TechCrunch 周一向 AT&amp;T 通报其加密密码存在漏洞之后才出现。密码通常是四位数的数字 PIN，用于在公司支持或店内验证的电话中确保帐户安全，安全研究人员的分析显示，密码“很容易破译”。 
+此常见问题解答表示，客户可以设置来自信用机构 Equifax、Experian 和 TransUnion 的免费欺诈警报。据 AT&amp;T 称，该数据集“似乎是 2019 年或更早的数据，不包含个人财务信息或通话记录。”该公司表示，正在与“外部网络安全专家合作分析情况”，到目前为止，还没有“授权访问其系统的证据”。 ]]></description>
+      <guid>https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy</guid>
+      <pubDate>Sat, 30 Mar 2024 17:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的 AirTags 暂时恢复到迄今为止的最佳价格</title>
       <link>https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale</link>
@@ -84,13 +98,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair</guid>
       <pubDate>Fri, 29 Mar 2024 17:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊正在为飞利浦 Hue 的 Festavia 灯串提供罕见优惠</title>
-      <link>https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale</guid>
-      <pubDate>Fri, 29 Mar 2024 17:50:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
