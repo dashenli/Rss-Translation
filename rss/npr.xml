@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 06:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 09:11:18 GMT</lastBuildDate>
+    <item>
+      <title>自由亚洲电台因员工安全问题关闭香港业务</title>
+      <link>https://npr.org/2024/03/30/1241824311/radio-free-asia-closes-hong-kong-office</link>
+      <description><![CDATA[在香港颁布了一项严格的新国家安全法（当地称为第 23 条）后，美国政府资助的自由亚洲电台将关闭其香港业务。]]></description>
+      <guid>https://npr.org/2024/03/30/1241824311/radio-free-asia-closes-hong-kong-office</guid>
+      <pubDate>Sat, 30 Mar 2024 06:13:45 GMT</pubDate>
+    </item>
     <item>
       <title>一部热门中国电视节目告诉我们什么是当今的中国</title>
       <link>https://npr.org/2024/03/29/1196980037/what-a-hit-chinese-tv-show-tells-us-about-china-today</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国环保署最终确定了重型卡车温室气体排放的最严格限制，该类别包括从公共汽车到垃圾车的所有车辆。]]></description>
       <guid>https://npr.org/2024/03/29/1241410274/emissions-heavy-duty-trucks-rule-epa</guid>
       <pubDate>Fri, 29 Mar 2024 13:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么爱达荷大学军乐队成员是康涅狄格州的英雄</title>
-      <link>https://npr.org/2024/03/29/1241585773/march-madness-yale-idaho-marching-band</link>
-      <description><![CDATA[当耶鲁大学的游行乐队无法参加疯狂三月时，爱达荷之声介入并迅速走红。一周后，康涅狄格州州长宣布设立“爱达荷大学日”。]]></description>
-      <guid>https://npr.org/2024/03/29/1241585773/march-madness-yale-idaho-marching-band</guid>
-      <pubDate>Fri, 29 Mar 2024 12:32:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
