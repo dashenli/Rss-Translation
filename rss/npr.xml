@@ -4,7 +4,21 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 15:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 18:14:27 GMT</lastBuildDate>
+    <item>
+      <title>美国奶牛首次检测出禽流感阳性</title>
+      <link>https://npr.org/2024/03/31/1241897770/bird-flu-dairy-cows-idaho-kansas-texas-michigan-new-mexico</link>
+      <description><![CDATA[德克萨斯州、堪萨斯州和密歇根州的牲畜被证实感染了该病毒，新墨西哥州和爱达荷州的牲畜检测结果也呈阳性。联邦官员表示，对公众的威胁很低。]]></description>
+      <guid>https://npr.org/2024/03/31/1241897770/bird-flu-dairy-cows-idaho-kansas-texas-michigan-new-mexico</guid>
+      <pubDate>Sun, 31 Mar 2024 17:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>《周六夜现场》向 NPR 小服务台派出一名实习生，恳求“别吵闹”</title>
+      <link>https://npr.org/2024/03/31/1241891854/snl-tiny-desk</link>
+      <description><![CDATA[本周末，《周六夜现场》在 NPR 的 Tiny Desk 上取笑，杨博文扮演了一名愤怒的实习生，他只想让乐队保持低调，这样他就可以回去工作了。]]></description>
+      <guid>https://npr.org/2024/03/31/1241891854/snl-tiny-desk</guid>
+      <pubDate>Sun, 31 Mar 2024 15:54:59 GMT</pubDate>
+    </item>
     <item>
       <title>亿万富翁在夏威夷乡村购买土地令当地人担忧</title>
       <link>https://npr.org/2024/03/31/1198911137/a-billionaires-land-purchases-in-rural-hawaii-have-locals-worried</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[1941 年，在对夏威夷海军基地的突然袭击中，来自弗吉尼亚州诺福克的大卫·沃克 (David Walker) 19 岁，当时日本鱼雷击沉了他的战列舰加利福尼亚号 (USS California)。]]></description>
       <guid>https://npr.org/2024/03/30/1241843461/pearl-harbor-dna-virginia-sailor</guid>
       <pubDate>Sat, 30 Mar 2024 22:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 最新数据泄露事件中在暗网上发现了数百万客户数据</title>
-      <link>https://npr.org/2024/03/30/1241863710/att-data-breach-dark-web</link>
-      <description><![CDATA[该提供商表示，在调查此次泄露事件时，他们已经重置了数据遭到泄露的经常账户持有人的密码，这是一系列电信公司数据泄露事件中的最新一起。]]></description>
-      <guid>https://npr.org/2024/03/30/1241863710/att-data-breach-dark-web</guid>
-      <pubDate>Sat, 30 Mar 2024 21:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州锡克教徒投票决定脱离印度独立</title>
-      <link>https://npr.org/2024/03/30/1241808874/sikh-independence-separatists-india-punjab-transnational-california</link>
-      <description><![CDATA[加州锡克教徒将举行公投，推动在印度建立独立国家]]></description>
-      <guid>https://npr.org/2024/03/30/1241808874/sikh-independence-separatists-india-punjab-transnational-california</guid>
-      <pubDate>Sat, 30 Mar 2024 12:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
