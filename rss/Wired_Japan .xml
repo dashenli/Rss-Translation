@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 31 Mar 2024 00:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 03:15:25 GMT</lastBuildDate>
+    <item>
+      <title>酒店安全危机：黑客发现即时解锁卡钥匙的方法</title>
+      <link>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</link>
+      <description><![CDATA[Saflock 系统是一种卡片钥匙，安装在全球 13,000 多家酒店的 300 万扇门上。发现该漏洞的黑客与制造商分享了详细信息。然而，制造商的系统改进根本没有跟上步伐。]]></description>
+      <guid>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</guid>
+      <pubDate>Sun, 31 Mar 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Sandales by Mame Kurogouchi：仔细发掘日本制造的潜力并超越它</title>
       <link>https://wired.jp/article/vol52-new-steps-mame-kurogouchi/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[德姆纳。 Balenciaga 的艺术总监无疑改变了时尚界。它改变了城市年轻人的着装方式，丰富了他们与音乐的关系，并将模式与游戏和虚拟世界联系起来。换句话说，他拥有预见时尚未来所必需的创造力。巴黎时装周之前进行了一次电子邮件采访。]]></description>
       <guid>https://wired.jp/article/vol52-balenciaga-demna/</guid>
       <pubDate>Thu, 28 Mar 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Courrèges 衬衫裙：如何更新未来的高级定制传统</title>
-      <link>https://wired.jp/article/vol52-new-steps-courreges/</link>
-      <description><![CDATA[时尚随着季节的推移稳步发展。就像进化压力一样。当然，步幅可能不同，或者差异可能很小，但在某些地方，新的想法和创造正在具体化并以细节的形式出现。例如，在巴黎的库雷日，妇女曾经获得解放。]]></description>
-      <guid>https://wired.jp/article/vol52-new-steps-courreges/</guid>
-      <pubDate>Thu, 28 Mar 2024 02:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
