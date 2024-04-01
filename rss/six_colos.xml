@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Sat, 30 Mar 2024 00:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:15:05 GMT</lastBuildDate>
+    <item>
+      <title>关于线程和联邦的简单解释 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/a-simple-explainer-on-threads-and-federation/</link>
+      <description><![CDATA[Matt Birchler 提供了一篇精彩而快速的入门读物，介绍了在 Threads 配置文件上启用联合的含义：
+&lt;块引用&gt;
+  我知道我对此进行了很多研究，但您实际上不需要拥有 Mastodon 帐户。…]]></description>
+      <guid>https://sixcolors.com/link/2024/04/a-simple-explainer-on-threads-and-federation/</guid>
+      <pubDate>Mon, 01 Apr 2024 14:49:40 GMT</pubDate>
+    </item>
     <item>
       <title>PSA：MLB 应用程序不再在 Mac 上运行 ↦</title>
       <link>https://sixcolors.com/link/2024/03/psa-the-mlb-app-doesnt-work-on-the-mac-anymore/</link>
@@ -109,14 +118,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <description><![CDATA[欧洲的数字市场法案仍然是一份不断赠送的礼物——苹果可能希望它能够回报这份礼物。欧盟委员会今天宣布，将对大型科技公司不遵守 DMA 的行为展开一系列调查，其中包括 Alphabet、Meta 和 Apple。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/ec-investigates-apple-and-other-tech-gatekeepers-over-dma-compliance/</guid>
       <pubDate>Mon, 25 Mar 2024 14:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
-      <link>https://sixcolors.com/sponsor/2024/03/magic-lasso-adblock-youtube-ad-blocker-for-safari-13/</link>
-      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助六种颜色。
-Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari 广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/03/magic-lasso-adblock-youtube-ad-blocker-for-safari-13/</guid>
-      <pubDate>Fri, 22 Mar 2024 16:00:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
