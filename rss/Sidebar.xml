@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 21:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:59:37 GMT</lastBuildDate>
     <item>
       <title>直接从 Figma 设计和导出响应式 HTML 电子邮件。</title>
       <link>https://www.figma.com/community/plugin/910671699871076601/emailify-html-email-builder</link>
@@ -12,6 +12,38 @@
 ]]></description>
       <guid>https://www.figma.com/community/plugin/910671699871076601/emailify-html-email-builder</guid>
       <pubDate>Mon, 01 Apr 2024 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何杀死级联</title>
+      <link>https://robinrendle.com/the-cascade/017-how-to-kill-the-cascade/</link>
+      <description><![CDATA[在这位博主看来，级联一直有这个明显的、可怕的缺陷。
+]]></description>
+      <guid>https://robinrendle.com/the-cascade/017-how-to-kill-the-cascade/</guid>
+      <pubDate>Mon, 01 Apr 2024 00:38:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>实现垂直表单控件</title>
+      <link>https://webkit.org/blog/15190/implementing-vertical-form-controls/</link>
+      <description><![CDATA[Safari 17.4 增加了对 macOS、iOS、iPadOS 和 VisionOS 上的表单控制元素的垂直书写模式支持。
+]]></description>
+      <guid>https://webkit.org/blog/15190/implementing-vertical-form-controls/</guid>
+      <pubDate>Mon, 01 Apr 2024 00:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 UI 设计师应该了解 Flexbox 和 CSS Grid</title>
+      <link>https://uxdesign.cc/why-ui-designers-should-understand-flexbox-and-css-grid-e236a9dec37a</link>
+      <description><![CDATA[或者再见，刚性的列网格布局。
+]]></description>
+      <guid>https://uxdesign.cc/why-ui-designers-should-understand-flexbox-and-css-grid-e236a9dec37a</guid>
+      <pubDate>Mon, 01 Apr 2024 00:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端开发的身份危机</title>
+      <link>https://www.ellyloel.com/blog/front-end-development-s-identity-crisis/</link>
+      <description><![CDATA[无论我上一个职位的头衔是什么，我都不是“全栈开发人员”。
+]]></description>
+      <guid>https://www.ellyloel.com/blog/front-end-development-s-identity-crisis/</guid>
+      <pubDate>Mon, 01 Apr 2024 00:33:14 GMT</pubDate>
     </item>
     <item>
       <title>关于 NBA 投篮数据的长篇阅读</title>
@@ -22,7 +54,7 @@
       <pubDate>Fri, 29 Mar 2024 08:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #57</title>
+      <title>励志网站综述#57</title>
       <link>https://tympanus.net/codrops/2024/03/15/inspirational-websites-roundup-57/</link>
       <description><![CDATA[发现一系列新鲜的网站，每个网站都因其出色的设计而被选中，以激发您的灵感。
 ]]></description>
@@ -92,38 +124,6 @@
 ]]></description>
       <guid>https://web.dev/articles/light-dark</guid>
       <pubDate>Thu, 28 Mar 2024 06:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>提案：CSS 变量组</title>
-      <link>https://lea.verou.me/specs/var-groups/</link>
-      <description><![CDATA[CSS 变量组是一种在同一命名空间下定义多个属性并传递整个组的方法。
-]]></description>
-      <guid>https://lea.verou.me/specs/var-groups/</guid>
-      <pubDate>Wed, 27 Mar 2024 11:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能感受到节奏吗‽</title>
-      <link>https://nerdy.dev/css-logical-rhythm</link>
-      <description><![CDATA[Flex 和网格逻辑布局和逻辑道具使基线网格的概念成为国际现实。
-]]></description>
-      <guid>https://nerdy.dev/css-logical-rhythm</guid>
-      <pubDate>Wed, 27 Mar 2024 11:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 CSS 中设置边框动画</title>
-      <link>https://www.letsbuildui.dev/articles/how-to-animate-borders-in-css/</link>
-      <description><![CDATA[2024 年 CSS 边框动画的不同方法。
-]]></description>
-      <guid>https://www.letsbuildui.dev/articles/how-to-animate-borders-in-css/</guid>
-      <pubDate>Wed, 27 Mar 2024 11:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越条形和线条：在开发工具中可视化数据的 7 种很酷的方法</title>
-      <link>https://evilmartians.com/chronicles/beyond-bars-and-lines-7-cool-ways-to-visualize-data-in-your-dev-tool</link>
-      <description><![CDATA[我们研究了 7 种显示数据的方法、每种方法的优缺点、现实生活中的用例，并且我们分享了更多您可能会使用每种方法的场景。
-]]></description>
-      <guid>https://evilmartians.com/chronicles/beyond-bars-and-lines-7-cool-ways-to-visualize-data-in-your-dev-tool</guid>
-      <pubDate>Wed, 27 Mar 2024 11:26:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
