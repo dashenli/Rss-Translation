@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 02 Apr 2024 06:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:14:01 GMT</lastBuildDate>
+    <item>
+      <title>XZ 后门：您需要了解的一切</title>
+      <link>https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/</link>
+      <description><![CDATA[一场令人震惊的供应链攻击的细节开始浮出水面，这场攻击让开源软件社区感到震惊。]]></description>
+      <guid>https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/</guid>
+      <pubDate>Tue, 02 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>隐身模式神话已完全揭开</title>
       <link>https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在购买新 iPhone 或更新到最新版本的 iOS 之前，请保存您的回忆。]]></description>
       <guid>https://www.wired.com/story/how-to-backup-your-iphone/</guid>
       <pubDate>Sun, 31 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何备份您的数字生活 (2024)：硬盘、基于云的工具和技巧</title>
-      <link>https://www.wired.com/story/how-to-back-up-your-digital-life/</link>
-      <description><![CDATA[备份很无聊，但它们可以拯救你的培根。以下是如何确保您的数据继续存在，即使您的电脑不再存在。]]></description>
-      <guid>https://www.wired.com/story/how-to-back-up-your-digital-life/</guid>
-      <pubDate>Sun, 31 Mar 2024 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
