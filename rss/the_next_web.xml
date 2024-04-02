@@ -4,7 +4,21 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Tue, 02 Apr 2024 12:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 15:14:55 GMT</lastBuildDate>
+    <item>
+      <title>英美就人工智能安全测试达成里程碑式协议</title>
+      <link>https://thenextweb.com/news/uk-us-landmark-deal-ai-safety-testing</link>
+      <description><![CDATA[继欧盟最近批准基于风险的人工智能法案之后，英国现已与美国合作共同制定人工智能安全测试程序和指南。作为跨大西洋协议的一部分，两国将结合各自的能力和专业知识，为最先进的人工智能模型和系统开发测试，并创建风险评估工具。该计划是使用可公开访问的模型执行至少一项协作测试练习。另一个目标是探索英国和美国人工智能安全研究所之间的人员交流。 “我们一直很明确…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/uk-us-landmark-deal-ai-safety-testing</guid>
+      <pubDate>Tue, 02 Apr 2024 13:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>NHS 推出向糖尿病患者泵送胰岛素的人工胰腺</title>
+      <link>https://thenextweb.com/news/nhs-artificial-pancreas-diabetes-patients</link>
+      <description><![CDATA[作为一项潜在的医疗保健变革举措，NHS 正在推出一种“人工胰腺” ”对于患有 1 型糖尿病的人来说。人工胰腺被称为混合闭环（HCL）系统，是一种能够显着自动化血糖和胰岛素水平管理的设备，这对于患有这种疾病的人来说是一个必要的过程。具体来说，该设备连续监测血糖（葡萄糖）水平，确定所需的胰岛素量，并将此信息传输到泵。这样，患者就不需要通过指尖采血或佩戴传统的血糖监测仪来不断监测自己。…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/nhs-artificial-pancreas-diabetes-patients</guid>
+      <pubDate>Tue, 02 Apr 2024 11:57:23 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟需要什么才能禁止 TikTok</title>
       <link>https://thenextweb.com/news/would-eu-us-ban-tiktok</link>
@@ -15,7 +29,7 @@
     <item>
       <title>数字正念有助于减少工作中技术压力的影响</title>
       <link>https://thenextweb.com/news/digital-mindfulness-reduce-effects-technostress-work</link>
-      <description><![CDATA[与技术相关的压力、超负荷和焦虑是当今工作场所的常见问题，可能是导致更高的倦怠和更差的健康状况。由于大流行后远程工作变得更加普遍，其中许多问题可能会增加。 2022 年，我与诺丁汉大学的同事一起回顾了有关数字化工作缺点的学术文献。我们回顾了过去十年的近 200 项研究，这些研究揭示了技术压力对健康产生负面影响以及相关的“数字工作场所的阴暗面”影响的大量证据。基于该研究，我们的下一项研究是，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[与技术相关的压力、超负荷和焦虑是当今工作场所的常见问题，潜在的导致更高的倦怠和更差的健康状况。由于大流行后远程工作变得更加普遍，其中许多问题可能会增加。 2022 年，我与诺丁汉大学的同事一起回顾了有关数字化工作缺点的学术文献。我们回顾了过去十年的近 200 项研究，这些研究揭示了技术压力对健康产生负面影响以及相关的“数字工作场所的阴暗面”影响的大量证据。基于该研究，我们的下一项研究是，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/digital-mindfulness-reduce-effects-technostress-work</guid>
       <pubDate>Fri, 29 Mar 2024 10:00:18 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea、Tom（！）和 Andrii 谈论了乌克兰初创企业、无人机、信息安全、欧洲量子景观、反向人才流失等等。本次展会的嘉宾是欧洲创新理事会主席Michiel Scheffer。以下是本集中提到的故事和事情：俄罗斯媒体上充斥着隐藏的种族诽谤，人工智能揭示了欧洲宣言…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/podcast-ukrainian-startups-european-quantum-tech-future-eic</guid>
       <pubDate>Wed, 27 Mar 2024 16:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>UCL 分拆项目投资 1000 万英镑，打造人工智能“超级大脑”，使 LLM 培训速度提高 100 倍</title>
-      <link>https://thenextweb.com/news/ucl-spinout-bags-10m-ai-super-brains-100x-faster-llm-training</link>
-      <description><![CDATA[UCL 衍生公司 Oriole Networks 已筹集 1000 万英镑种子资金用于构建人工智能“超级大脑”有望加速大型语言模型（LLM）的训练。这家初创公司由伦敦大学学院的科学家于 2023 年创立，开发了一种新方法，利用光的力量连接数千个人工智能芯片。这就形成了一个芯片网络，其中每个 GPU 的能力结合起来形成一个“超级大脑”。 Oriole Networks 首席执行官 James Regan 表示，这“可以直接连接大量节点，使其能够作为单个节点运行”这个故事继续 在下一个网络]]></description>
-      <guid>https://thenextweb.com/news/ucl-spinout-bags-10m-ai-super-brains-100x-faster-llm-training</guid>
-      <pubDate>Wed, 27 Mar 2024 16:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家认为“集体人工智能”将类似于《星际迷航》中的博格——只是更好（希望如此）</title>
-      <link>https://thenextweb.com/news/collective-ai-will-resemble-star-trek-borg</link>
-      <description><![CDATA[领先的计算机科学家公布了类似于《星际迷航》物种的“集体人工智能”愿景博格。来自麻省理工学院、耶鲁大学和拉夫堡大学的研究人员在本周《自然机器智能》杂志上发表的一项研究中解释了这一概念。该论文描述了独立的人工智能单元不断获取新知识和技能。然后他们将通过网络共享信息。集体将共同将他们的见解转化为互惠互利。多种技能、想法和应用将逐步发展。因此，网络将快速学习完成新任务并响应变化。变革性技术将会出现。例如，网络安全系统，…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/collective-ai-will-resemble-star-trek-borg</guid>
-      <pubDate>Wed, 27 Mar 2024 14:50:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
