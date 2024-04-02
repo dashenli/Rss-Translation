@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 02 Apr 2024 00:58:12 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Tue, 02 Apr 2024 18:17:10 GMT</lastBuildDate>
+    <item>
+      <title>MLB tvOS 应用程序添加了多视图，它是赢家</title>
+      <link>https://sixcolors.com/post/2024/04/mlb-tvos-app-adds-multiview-and-its-a-winner/</link>
+      <description><![CDATA[
+上周，我对 Apple 平台上的美国职业棒球大联盟 (Major League Baseball) 应用程序给予了很多严厉的关爱。 MLB VisionOS 应用程序确实存在缺陷，并且缺乏一些关键功能。…]]></description>
+      <guid>https://sixcolors.com/post/2024/04/mlb-tvos-app-adds-multiview-and-its-a-winner/</guid>
+      <pubDate>Tue, 02 Apr 2024 15:38:12 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 506：旧版何时？现在是遗产吗？</title>
       <link>https://sixcolors.com/podcast/2024/04/upgrade-506-legacy-when-legacy-now/</link>
@@ -111,13 +119,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 我爱我的孩子，但他们有时确实忘记了我的职业：回答问题并撰写有关人们在使用 Mac、iPhone 和 iPad 时遇到的最棘手问题的书籍。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/</guid>
       <pubDate>Mon, 25 Mar 2024 23:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 505：废除草案：2024 年 iPad 草案</title>
-      <link>https://sixcolors.com/podcast/2024/03/upgrade-505-abolish-drafts-the-2024-ipad-draft/</link>
-      <description><![CDATA[美国司法部与欧盟委员会一起对苹果公司的法律麻烦做出了贡献；我们出人意料地先发制人，尝试通过草案来预测 iPad 的未来！…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/03/upgrade-505-abolish-drafts-the-2024-ipad-draft/</guid>
-      <pubDate>Mon, 25 Mar 2024 21:09:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
