@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 12:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 15:12:42 GMT</lastBuildDate>
+    <item>
+      <title>照片：看到台湾地震的后果</title>
+      <link>https://npr.org/sections/pictureshow/2024/04/03/1242477869/photos-see-aftermath-taiwan-earthquake</link>
+      <description><![CDATA[台湾遭遇了四分之一世纪以来最强烈的地震。]]></description>
+      <guid>https://npr.org/sections/pictureshow/2024/04/03/1242477869/photos-see-aftermath-taiwan-earthquake</guid>
+      <pubDate>Wed, 03 Apr 2024 14:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>台湾在大地震中保持稳定；威斯康星州出现不满选民</title>
       <link>https://npr.org/2024/04/03/1242466130/wisconisn-primary-results-taiwan-earthquake-world-central-kitchen</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 03 Apr 2024 11:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>四月的东北风可能会给新英格兰大部分地区带来超过一英尺的积雪</title>
+      <title>四月的东北风可能会给新英格兰大部分地区带来超过一英尺的降雪</title>
       <link>https://npr.org/2024/04/03/1242382889/weather-storm-snow-new-england-coast-wind</link>
       <description><![CDATA[新英格兰人正准备迎接强风、危险的道路和停电。新英格兰南部和海岸线将主要降雨，可能还会有几英寸的降雪。]]></description>
       <guid>https://npr.org/2024/04/03/1242382889/weather-storm-snow-new-england-coast-wind</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>伊万·费多托夫九年前被飞人队选中。他这周刚出道</title>
       <link>https://npr.org/2024/04/03/1242347937/ivan-fedotov-nhl-philadelphia-flyers-russia</link>
-      <description><![CDATA[费城于2022年5月签下了费多托夫。但当费多托夫试图离开俄罗斯前往NHL时，他因被指控逃避服兵役而被拘留，并被迫入伍。]]></description>
+      <description><![CDATA[费城于2022年5月签下了费多托夫。但当费多托夫试图离开俄罗斯前往NHL时，他因被指控逃避服兵役义务而被拘留，并被迫入伍。]]></description>
       <guid>https://npr.org/2024/04/03/1242347937/ivan-fedotov-nhl-philadelphia-flyers-russia</guid>
       <pubDate>Wed, 03 Apr 2024 09:02:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[亚马逊表示，这项技术现在将被智能购物车所取代，智能购物车可以让顾客跳过结账队伍，还能实时查看他们的支出。]]></description>
       <guid>https://npr.org/2024/04/03/1242448552/amazon-remove-walk-out-technology</guid>
       <pubDate>Wed, 03 Apr 2024 06:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国最大的鸡蛋生产商检测到禽流感</title>
-      <link>https://npr.org/2024/04/03/1242445372/bird-flu-chicken-eggs</link>
-      <description><![CDATA[由于德克萨斯州一家工厂爆发疫情，加州缅因食品公司损失了约 190 万只鸡，占其鸡群的 3.6%。然而，疾病预防控制中心表示，一个人不太可能通过鸡蛋感染禽流感。]]></description>
-      <guid>https://npr.org/2024/04/03/1242445372/bird-flu-chicken-eggs</guid>
-      <pubDate>Wed, 03 Apr 2024 05:42:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
