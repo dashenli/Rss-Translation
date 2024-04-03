@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 02 Apr 2024 21:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:55:19 GMT</lastBuildDate>
+    <item>
+      <title>它会因热量而“变形”以适应您的身体。麻省理工学院提出的“4D针织连衣裙”</title>
+      <link>https://wired.jp/article/mit-4d-knit-dress/</link>
+      <description><![CDATA[时尚业面临着一次性库存和过剩库存的问题。作为一种解决方案，麻省理工学院 (MIT) 的一位设计师提出了一种 4D 针织连衣裙，该连衣裙使用一种特殊的线，加热时会变形。]]></description>
+      <guid>https://wired.jp/article/mit-4d-knit-dress/</guid>
+      <pubDate>Tue, 02 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌“隐身模式”诉讼达成和解，数十亿数据被删除</title>
+      <link>https://wired.jp/article/google-chrome-incognito-mode-data-deletion-settlement/</link>
+      <description><![CDATA[谷歌已同意在使用谷歌浏览器的隐身模式时删除数十亿与网络浏览相关的数据。通过诉讼可以清楚地看出，该浏览器功能并没有完全保护用户的隐私。]]></description>
+      <guid>https://wired.jp/article/google-chrome-incognito-mode-data-deletion-settlement/</guid>
+      <pubDate>Tue, 02 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>阅读加密世界关键人物 Chris Dixon 的新书《Read Write Own》：再给区块链一次机会</title>
       <link>https://wired.jp/article/sz-a-last-ditch-plan-to-save-the-crypto-industry/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>酒店安全危机：黑客发现即时解锁卡钥匙的方法</title>
       <link>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</link>
-      <description><![CDATA[Saflock 系统是一种卡片钥匙，安装在全球 13,000 多家酒店的 300 万扇门上。发现该漏洞的黑客与制造商分享了详细信息。然而，制造商的系统改进根本没有跟上。]]></description>
+      <description><![CDATA[Saflock 系统是一种卡片钥匙，安装在全球 13,000 多家酒店的超过 300 万扇门上。发现该漏洞的黑客与制造商分享了详细信息。然而，制造商的系统改进根本没有跟上。]]></description>
       <guid>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</guid>
       <pubDate>Sun, 31 Mar 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sandales by Mame Kurogouchi：仔细发掘日本制造的潜力并超越它</title>
-      <link>https://wired.jp/article/vol52-new-steps-mame-kurogouchi/</link>
-      <description><![CDATA[时尚随着季节的推移稳步发展。就像进化压力一样。当然，步幅可能会有所不同，或者可能会有细微的差异，但新的想法和创作在某个地方会具体化并以细节的形式出现。例如，Mame Kurogochi 的凉鞋既传统又创新。]]></description>
-      <guid>https://wired.jp/article/vol52-new-steps-mame-kurogouchi/</guid>
-      <pubDate>Sat, 30 Mar 2024 03:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build by IM MEN：如何用一块布料和最少的剪裁创造出免费的衣服？</title>
-      <link>https://wired.jp/article/vol52-new-steps-im-men/</link>
-      <description><![CDATA[时尚随着季节的推移稳步发展。就像进化压力一样。当然，步幅可能会有所不同，或者可能会有细微的差异，但新的想法和创作在某个地方会具体化并以细节的形式出现。 I&#39;m Men 的裤子和上衣也解构了服装。]]></description>
-      <guid>https://wired.jp/article/vol52-new-steps-im-men/</guid>
-      <pubDate>Sat, 30 Mar 2024 03:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
