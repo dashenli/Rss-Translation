@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 03 Apr 2024 00:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 03:15:35 GMT</lastBuildDate>
+    <item>
+      <title>使海洋和再生纤维变得更加透明的业务，材料工程公司 BIONIC 就是一个例子。</title>
+      <link>https://wired.jp/article/vol52-making-the-new-tide-bionic/</link>
+      <description><![CDATA[将废塑料回收成聚酯已不再是新鲜事。 BIONIC 负责收集废物，并为社区创造就业机会做出贡献。联合创始人蒂姆·库姆斯 (Tim Coombs) 告诉我们是什么让该公司成为一家严肃的企业。]]></description>
+      <guid>https://wired.jp/article/vol52-making-the-new-tide-bionic/</guid>
+      <pubDate>Wed, 03 Apr 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>它会因热量而“变形”以适应您的身体。麻省理工学院提出的“4D针织连衣裙”</title>
       <link>https://wired.jp/article/mit-4d-knit-dress/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[苹果公司在美国发布的混合现实（MR）设备Apple Vision Pro是苹果“2024技术”的早期例子，它展示了空间计算融入日常生活的时代的可能性。目前，尺寸和重量只是小问题。]]></description>
       <guid>https://wired.jp/article/apple-vision-pro-spatial-computing-future/</guid>
       <pubDate>Sun, 31 Mar 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>酒店安全危机：黑客发现即时解锁卡钥匙的方法</title>
-      <link>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</link>
-      <description><![CDATA[Saflock 系统是一种卡片钥匙，安装在全球 13,000 多家酒店的超过 300 万扇门上。发现该漏洞的黑客与制造商分享了详细信息。然而，制造商的系统改进根本没有跟上。]]></description>
-      <guid>https://wired.jp/article/saflok-hotel-lock-unsaflok-hack-technique/</guid>
-      <pubDate>Sun, 31 Mar 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
