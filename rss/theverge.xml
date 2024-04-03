@@ -4,7 +4,79 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Apr 2024 09:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 12:22:44 GMT</lastBuildDate>
+    <item>
+      <title>人工智能生成的歌曲越来越长，但不一定更好</title>
+      <link>https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Stable Audio 2.0 是 Stability AI 的音频生成模型，现在允许用户上传自己的音频样本，然后可以使用提示进行转换并创建 AI 生成的歌曲。但这些歌曲目前还不会赢得任何格莱美奖。 
+Stable Audio 的第一个版本 于 2023 年 9 月发布，只为一些付费用户提供最多 90 秒的时间，这意味着他们只能制作简短的声音片段来进行实验。 Stable Audio 2.0 提供了完整的三分钟声音剪辑——这是大多数广播友好歌曲的长度。所有上传的音频必须无版权。 
+与 OpenAI 的音频生成模型不同，语音引擎 仅向选定的一组用户开放，Stability AI 通过其网站以及即将推出的 API 免费并公开提供 Stable Audio。
+Stability AI 表示，Stable Audio 2.0 与其早期版本之间的一大区别是能够创作听起来像歌曲的歌曲，并包含前奏、进行和结尾。
+公司让我试了一下 Stable Audio，看看它是如何工作的，在我能够传达我内心的碧昂丝之前，还有很长的路要走。随着提示“具有美国氛围的民谣流行歌曲”（顺便说一句，我的意思是美国风格），Stable Audio 生成了一首歌曲，在某些部分，这首歌听起来确实属于我的 Mountain Vibes Listening Wednesday Morning Spotify 播放列表。但它还添加了我猜是人声的东西？另一位Verge记者声称这听起来像鲸鱼的声音。我更担心我不小心召唤了一个实体到我家。 
+这是歌曲：
+
+&lt;音频控制=&quot;&quot;&gt;
+
+
+
+理论上我可以调整音频以使其更符合我的聆听风格，因为 Stable Audio 2.0 中的新功能允许用户通过调整提示强度（即应遵循提示的程度）以及如何自定义他们的项目它将修改大部分上传的音频。用户还可以添加声音效果，例如人群的欢呼声或键盘敲击声。 
+撇开奇怪的格里高利鲸鱼噪音不谈，人工智能生成的歌曲仍然感觉毫无灵魂和怪异，这并不奇怪。我的同事韦斯·戴维斯听完后对此进行了反思一首由 Suno 生成的歌曲。 Meta 和 Google 等其他公司也一直在涉足人工智能音频生成领域，但尚未公开发布其模型，因为他们正在收集开发人员的反馈以应对毫无灵魂的声音问题。 
+Stability AI 在一份新闻稿中表示，Stable Audio 是根据 AudioSparx 的数据进行训练的，该库拥有超过 800,000 个音频文件的库。 Stability AI 坚持认为 AudioSparx 旗下的艺术家可以选择退出他们的材料来训练模型。对受版权保护的音频进行培训是 Stability AI 前音频副总裁 Ed Newton-Rex 在 Stable Audio 推出后不久就离开了公司。 Stability AI 表示，对于此版本，它与 Audible Magic 合作，利用其内容识别技术来跟踪和阻止受版权保护的材料进入该平台。
+Stable Audio 2.0 在让歌曲听起来像歌曲方面比以前的版本更好，但还没有完全实现。如果模型坚持添加某种声音，也许下一个版本会有更清晰的语言。 ]]></description>
+      <guid>https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds</guid>
+      <pubDate>Wed, 03 Apr 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到人工智能小工具时代</title>
+      <link>https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta</guid>
+      <pubDate>Wed, 03 Apr 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple MacBook Air M3 评测：小升级</title>
+      <link>https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review</guid>
+      <pubDate>Wed, 03 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国网络报告称微软本可以阻止中国云电子邮件黑客攻击</title>
+      <link>https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report</guid>
+      <pubDate>Wed, 03 Apr 2024 10:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 的 Copilot 获得 GPT-4 Turbo 升级并改进图像生成</title>
+      <link>https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer</link>
+      <description><![CDATA[&lt;图&gt;
+      微软是为 AI 支持的 Copilot 助手的企业订阅者推出优先访问 GPT-4 Turbo。这将解锁 Copilot 移动应用程序、网络、Windows 和 Edge 中对 OpenAI 最新模型的访问权限，作为 Copilot for Microsoft 365 的定价为每位用户每月 30 美元。
+当消费者订阅 Copilot Pro 时 已经可以访问 GPT-4 Turbo，使用 Copilot for Microsoft 365 的企业现在可以访问，并且每天的聊天数量和每次对话的轮数没有限制。
+GPT-4 Turbo 将在 Copilot for Microsoft 365 中提供，用于针对最新公共信息的 Web 查询，以及跨工作数据的使用，例如查询电子邮件、文档、会议等。 OpenAI 的最新模型还支持单个提示中最多 300 页的文本，使其更有能力分析文档。
+Microsoft 还为 Copilot for Microsoft 365 的企业订阅者改进了 Microsoft Designer 中的图像生成功能。本月晚些时候，您将能够每天创建 100 个图像，而不是之前每天 15 个图像的限制。该功能使用 OpenAI 的 DALL-E 3 模型，微软表示图像生成请求将“快速”，以减少图像创建的等待时间。]]></description>
+      <guid>https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer</guid>
+      <pubDate>Wed, 03 Apr 2024 09:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能乔治·卡林案和解，表演者要求更好的保护</title>
+      <link>https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections</link>
+      <description><![CDATA[&lt;图&gt;
+      
+作为和解协议的一部分，Dudesy 播客同意将这部据称由人工智能制作的喜剧特别节目下线。 |马克·荣格/盖蒂图片社拍摄
+
+乔治·卡林的遗产管理机构已与媒体公司达成和解，据称该媒体公司使用生成人工智能来模仿这位已故喜剧演员。这一决定是在代表 Billie Eilish、Nicki Minaj 和 Stevie Wonder 等艺术家的团体呼吁更好地保护表演者免遭人工智能技术模仿之际做出的。
+根据 《纽约时报》、Will Sasso 和 Chad Kultgen — Dudesy 播客创作者在 伪造的喜剧特别节目，标题为“乔治卡林：我很高兴我死了 ”——作为周二达成的和解协议的一部分，同意将违规内容下线，并且永远不会将其上传到任何平台上。萨索和库尔特根还同意，未经卡林遗产管理委员会事先批准，不会在他们制作的内容中使用卡林的声音或肖像。有关和解中任何货币兑换的信息尚未披露。
+“世界已经开始认识到人工智能工具固有的力量和潜在危险，它可以模仿声音，生成假照片并更改视频”
+卡林庄园的代表律师乔什·席勒 (Josh Schiller) 在周二向《纽约时报》发表的声明。 “这不是一个会自行消失的问题。它必须在法庭上受到迅速、有力的诉讼，而其技术被武器化的人工智能软件公司也必须承担一定程度的责任。”
+人工智能是否实际上被用来制作这部伪造的喜剧特辑周二，艺术家权利联盟——一个代表 200 多名音乐家的团体，其中包括 Frank Sinatra 和 Bob 的遗产马利 — 签署了一封公开信，呼吁科技公司避免开发可能取代人类表演者的人工智能工具。信中说：“如果不加以控制，人工智能将引发一场逐底竞争，这将降低我们工作的价值，并阻止我们获得公平的补偿。” “必须停止这种对人类创造力的攻击。”]]></description>
+      <guid>https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections</guid>
+      <pubDate>Wed, 03 Apr 2024 09:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲另类 iPhone 应用商店初探</title>
       <link>https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games</link>
@@ -20,7 +92,7 @@
 摄影：Jakub Porzycki/NurPhoto via Getty Images
 
 英特尔芯片制造部门 2023 年运营亏损累计 70 亿美元，路透社周二报道。这比 2022 年损失的 52 亿美元大幅增加，虽然 2023 年收入为 189 亿美元，但这一数字比前一年的 274.9 亿美元下降了 31%。
-但是，根据首席执行官帕特·基辛格 (Pat Gelsinger) 对投资者的评论，总亏损并不完全令人意外。基辛格表示，这些最新数据部分是英特尔过去在追赶其代工业务方面所犯错误的结果，这导致该芯片制造商将其全部晶圆生产的约 30% 外包给其他代工厂，例如英特尔目前最大的竞争对手之一台积电。 
+然而，根据首席执行官帕特·基辛格 (Pat Gelsinger) 对投资者的评论，总亏损并不完全令人意外。基辛格表示，这些最新数据部分是英特尔过去在追赶其代工业务方面所犯错误的结果，这导致该芯片制造商将其全部晶圆生产的约 30% 外包给其他代工厂，例如英特尔目前最大的竞争对手之一台积电。 
 但现在英特尔已投资使用极紫外 (EUV) 机器 来自荷兰公司 ASML，此前该公司决定不这样做。基辛格预计，这些工具的成本效益将帮助英特尔到 2027 年实现收支平衡。ASML 还在其网站上表示，其技术使英特尔等芯片代工厂能够更经济地扩大计算机芯片的大规模生产。 
 听起来英特尔可能及时做出了正确的决定。英特尔计划总共花费约 1000 亿美元在四个州建设或扩建其芯片代工厂。它还将从美国政府获得高达 85 亿美元的资金。但为了让一切按计划进行，英特尔需要说服企业使用其芯片制造服务。 Microsoft 最近签约成为代工客户，但是目前还不清楚几年内英特尔还需要多少家公司才能实现收支平衡（按计划）。]]></description>
       <guid>https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss</guid>
@@ -39,86 +111,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/4/2/24119413/robot-fry-cook-re-up-gas-station-florida-ai</guid>
       <pubDate>Tue, 02 Apr 2024 23:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最优惠的 Apple Watch 优惠</title>
-      <link>https://www.theverge.com/21289209/best-apple-watch-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21289209/best-apple-watch-deals</guid>
-      <pubDate>Tue, 02 Apr 2024 22:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登总统现在在联邦宇宙发帖</title>
-      <link>https://www.theverge.com/2024/4/2/24119353/joe-biden-threads-mastodon-activitypub-fediverse</link>
-      <description><![CDATA[&lt;图&gt;
-      目前由总统乔·拜登掌舵的美国官方总统 Threads 帐户已开始使用 Meta 的 ActivityPub 集成，使拜登成为第一位在去中心化网络协议上发帖的美国在任总统。如果您想关注主席的帖子，但又不想离开 Mastodon，可以关注 @potus@threads .net.
-帐户在 Threads 为美国、加拿大和日本的用户推出了测试版 ActivityPub 集成。 
-这是从 Mastodon 官方客户端查看的帐户：
-
-
-屏幕截图：Wes Davis / The Verge
-在 Mastodon 上查看的 Presidential Threads 帐户。
-
-拜登可能无法看到从联邦宇宙涌入的回复和关注，并且某些服务器阻止与Meta，并不是每个人都能看到他的帖子 - 因为当 Threads 上个月开放 beta 测试时，这些功能并不是 Threads 集成的一部分。但他的帖子是可用的，他会看到来自那里的点赞。或者无论如何，运行 Presidential Threads 帐户的人都会这样做。
-到目前为止，似乎只有拜登的美国总统官方账户开启了 Threads 的联邦多元化整合。吉尔·拜登博士和副总统卡马拉·哈里斯的账户都没有出现在搜索中。他们似乎还没有加入 Bluesky，这是一个运行在自己的 AT 协议上的竞争性去中心化社交网络，最近开放一般注册。
-]]></description>
-      <guid>https://www.theverge.com/2024/4/2/24119353/joe-biden-threads-mastodon-activitypub-fediverse</guid>
-      <pubDate>Tue, 02 Apr 2024 21:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果悄悄为 iPhone 12 添加 Qi2 充电功能</title>
-      <link>https://www.theverge.com/2024/4/2/24119203/apple-iphone-12-qi2-support-ios-update</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Antonio G. Di Benedetto / The Verge
-
-苹果从未提及，但 iPhone 12 在 上个月更新至 iOS 17.4。这意味着您可以充分利用已进入市场的 Qi2 认证充电器，这些充电器采用了 Apple MagSafe 技术的磁性附件和 15W 速度。
-
-Macworld 最初报道了 上周晚些时候的更新。它发布了自己的测试结果，同时贝尔金确认其 Qi2 充电器支持在更新的 iPhone 12 设备上进行 15W 充电。此后，Anker 已向 The Verge 确认其产品具有类似的兼容性，而 Apple 尚未回复评论请求。
-iPhone 12 是苹果首款配备 MagSafe 的手机，自 2020 年首次亮相以来就支持 15W 磁性 MagSafe 充电。 iPhone 13 和 14 Qi2 支持作为 iOS 17.2 的一部分，iPhone 15 拥有它盒子外面。此次更新意味着所有 MagSafe iPhone 现已获得 Qi2 认证。此前，除非使用昂贵的经过认证的 MagSafe 充电器，否则 iPhone 的无线充电功率仅限于 7.5W。
-]]></description>
-      <guid>https://www.theverge.com/2024/4/2/24119203/apple-iphone-12-qi2-support-ios-update</guid>
-      <pubDate>Tue, 02 Apr 2024 21:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国和英国将合作测试人工智能模型的安全威胁</title>
-      <link>https://www.theverge.com/2024/4/2/24119130/ai-us-uk-agreement-model-testing</link>
-      <description><![CDATA[&lt;图&gt;
-      
-        &lt;图标题&gt;Cath Virginia / The Verge |照片来自盖蒂图片社
-
-美国和英国同意共同合作来监控先进人工智能模型的安全风险。两国将合作研究并进行至少一项联合安全测试。 
-两国均表示，在使用人工智能模型时，安全是首要考虑的问题。美国总统乔·拜登关于人工智能的行政命令要求开发人工智能系统的公司报告安全测试结果。与此同时，英国首相 Rishi Sunak 宣布成立英国人工智能安全研究所，并表示 Google、Meta 和 OpenAI 等公司必须允许对其工具进行审查。
-两国人工智能安全研究所协议立即生效
-美国商务部长吉娜·雷蒙多 (Gina Raimondo) 表示，政府“致力于与其他国家发展类似的合作伙伴关系，以促进全球人工智能安全。” 
-“这种伙伴关系将加速我们两家机构应对各种风险的工作，无论是对我们的国家安全还是对我们更广泛的社会，”雷蒙多在一份声明中说。 
-通过该协议，两国承诺在技术研究、探索人员交流和共享信息方面进行合作。 
-美国和英国的一个潜在合作伙伴是欧盟，针对人工智能系统的使用通过了自己的全面法规。欧盟的人工智能法需要数年时间才能生效，该法要求运行强大人工智能模型的公司遵循安全标准。
-英国人工智能安全研究所是在 11 月全球人工智能峰会之前成立的，包括美国副总统卡马拉·哈里斯在内的多位世界领导人在会上讨论了如何跨境利用和监管该技术。 
-英国已开始对某些型号进行安全测试，但尚不清楚是否可以访问最近发布的版本。多个人工智能公司敦促英国人工智能安全研究所更加明确，明确模型被发现存在风险的时间表和后续步骤。 ]]></description>
-      <guid>https://www.theverge.com/2024/4/2/24119130/ai-us-uk-agreement-model-testing</guid>
-      <pubDate>Tue, 02 Apr 2024 20:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约市的人工智能枪支探测器几乎不起作用</title>
-      <link>https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway</link>
-      <description><![CDATA[&lt;图&gt;
-      
-        &lt;图标题&gt;Cath Virginia / The Verge |照片来自盖蒂图片社
-
-当纽约市市长埃里克·亚当斯宣布这座城市将上周在地铁站测试人工智能枪支探测器，他称赞这项技术“显然令人印象深刻”。但包括法律援助协会在内的批评者立即对试点项目表示怀疑——事实证明，他们的怀疑是对的。 
-
-根据公共记录请求，当该市于 2022 年在布朗克斯的一家医院安装 Evolv 扫描仪时，这些机器经常报告误报由地狱之门获得。在 Evolv 扫描仪运行的 7 个月内，194,000 次扫描中有 50,000 次产生了阳性警报，其中 85% 是误报。大多数实际的阳性结果是由警察触发的；只有 295 起事件是由携带刀、枪或报告中归类为“其他”的武器的平民引发的。
-Evolv 声称其配备人工智能的扫描仪使用“安全、超低频电磁场和先进传感器来检测隐藏的武器”。该公司首席执行官表示，这些机器可以检测任何类型的武器，从枪支到炸弹再到大型战术刀具。但 2022 年试点 - 以及行业测试 以及 行业测试  =&quot;https://www.bloomberg.com/news/articles/2023-10-13/ftc-probes-evolv-security-over-ai-weapons-screening-claims&quot;&gt;联邦贸易委员会和证券交易委员会，以及股东提起的集体诉讼 — Evolv 的扫描仪显示远没有广告宣传的那么有效。]]></description>
-      <guid>https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway</guid>
-      <pubDate>Tue, 02 Apr 2024 20:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>《最终幻想 VII 重生》最大的转折隐藏在一个微小的细节中</title>
-      <link>https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation</guid>
-      <pubDate>Tue, 02 Apr 2024 20:35:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
