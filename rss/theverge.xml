@@ -4,144 +4,162 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Apr 2024 18:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 21:12:21 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的“企业年”包括提高人工智能准确性的新工具</title>
+      <link>https://www.theverge.com/2024/4/4/24121355/openai-customize-finetune-gpt4-enterprise</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+OpenAI 的企业客户想要使用生成式人工智能，但想要提高准确性，也许可以通过 GPT-4 API 的新自定义选项。 
+它们包括连接到第三方平台以共享微调信息、在额外训练期间保存微调模型而无需重新训练整个模型的能力，以及用于比较模型性能的新用户界面和质量。 OpenAI API 于 2020 年推出，允许公司在其大型语言模型之上进行连接和构建，去年 8 月又推出了 开放 GPT-3.5 和最终 GPT-4 的微调。 
+高度定制的模型可以在内部提供更好的结果。他们还可以保持对公众的回应正常进行，并避免出现尴尬的情况，例如ChatGPT 支持的雪佛兰经销商的机器人表示将以 1 美元的价格出售一辆汽车。
+今天，OpenAI 首席运营官 Brad Lightcap 在彭博社采访中表示，2024 年是“企业年”，因为公司开始使用基础模型推出更多用例，并且 OpenAI看到了这个领域的“巨大增长”。 Lightcap 表示：“我们越来越感觉到，市场正将我们拉向真正的应用程序，通过广泛关注人工智能支持来提供真正的业务成果，我们已准备好为此为我们的客户提供支持。” 
+
+Lightcap 之前警告过高管不要指望人工智能能够解决所有问题，并警告说生成式人工智能仍处于实验阶段。
+OpenAI 还正式宣布了辅助微调，作为其自定义模型计划的一部分，OpenAI 员工帮助客户微调 GPT-4。 自定义模型计划允许选定的组织与 OpenAI 研究人员合作，根据其特定需求训练自定义 GPT-4 模型。 
+微调允许 GPT-4 等预训练模型通过更小、更具针对性的数据集（例如公司的投资组合）了解更多信息。第一个第三方集成是与 Weights &amp; 平台的集成。偏见。
+虽然 OpenAI 主要以 ChatGPT 闻名，它吸引了日常消费者和想要创建自己版本的聊天机器人的品牌，但该公司已与初创公司和更成熟的组织合作，推出人工智能驱动的应用程序和服务主流。 
+生成式 AI 时代的一些最早的宠儿，例如 文案平台 Jasper 和视频创作公司 Descript 使用 OpenAI 的模型构建了他们的服务。 ]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121355/openai-customize-finetune-gpt4-enterprise</guid>
+      <pubDate>Thu, 04 Apr 2024 21:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 将为 2024 年 Coachella 音乐节直播带来 NFL 风格的多画面观看</title>
+      <link>https://www.theverge.com/2024/4/4/24121421/youtube-tv-coachella-2024-multiview-four-stages-livestream</link>
+      <description><![CDATA[&lt;图&gt;
+      
+YouTube 的 Multiview 将允许 Coachella 粉丝在一个屏幕上观看四个额外的舞台。 |图片：YouTube
+
+今年 Coachella 音乐节的 YouTube 官方直播将采用许多足球迷熟悉的技术。多视图，允许观看者观看多个直播 该平台宣布，在同一屏幕上收听一个音频源时，任何 YouTube TV 应用程序上的电影节流媒体观众都可以观看该节目，无需订阅 YouTube TV。正如 NFL Sunday Ticket 上的多画面让观众可以同时观看四场不同的比赛一样，Coachella 的这项功能也将允许观众同时观看多达四个不同的舞台。观众可以在音频源之间切换并跳入和跳出全屏视图。总共有六个提要（或六个阶段）可供选择。今年的节日将在两个周末举行：4月12日至14日和4月19日至21日。 
+YouTube 和科切拉谷音乐艺术节的制作方 Goldenvoice 举办了一场独家内容合作伙伴关系至今已有 12 年，粉丝们可以在其官方 YouTube 频道上免费观看标志性音乐节的两个周末。 YouTube 支付许可费来独家直播该节日，然后从此类值得关注的活动产生的广告收入中获益。表演，例如 Beyonce 的 2018 年 两小时 Beychella组合或 Blackpink 去年表演的“Typa Girl”可以获得数百万次观看并且在社交媒体上流传数周。 
+鉴于 2024 年科切拉音乐节的销售额已达到 十多年来最慢，Vulture指出，该节日确实依赖于今年引起任何形式的额外关注。开售近四个月后，周末 2 门票仍可在 Coachella 官网购买，两个周末均提供普通门票和 VIP 门票仍然可以在 第三方转售网站。这对于加利福尼亚州印第奥举办的高容量音乐节来说是极不寻常的。两个周末的门票通常在短短几个小时内就售罄&lt; /a&gt; 或天。 
+解释今年门票销售低迷的一些理论包括价格高、今年阵容的质量以及一般节日疲劳。无论如何，科切拉音乐节的相当大一部分人今年都缺席了庆祝活动，无论是因为缺乏热情还是因为缺乏现金。这是否会吸引更多仍然好奇的 YouTube 观众观看 Coachella 音乐节，还有待观察。 
+
+]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121421/youtube-tv-coachella-2024-multiview-four-stages-livestream</guid>
+      <pubDate>Thu, 04 Apr 2024 21:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 上暂时无法显示人工智能生成的亚洲人</title>
+      <link>https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Kristen Radtke / The Verge 绘制
+
+昨天，我报道了 Meta 的 AI 图像生成器 让每个人都是亚洲人，即使文本提示指定了另一个种族。今天，我短暂地遇到了相反的问题：我无法使用与前一天相同的提示生成任何亚洲人。
+我昨天在 Instagram 上通过私信中提供的 AI 图像生成器进行了测试。经过数十次尝试，我无法使用“亚洲男人和白人朋友”和“亚洲男人和白人妻子”等提示生成一张准确的图像。该系统只有一次能够成功创建亚洲女性和白人男性的照片 - 它不断地将每个人都变成亚洲人。
+ 
+
+
+
+在我昨天最初寻求评论后，Meta 发言人要求提供有关我的故事的更多详细信息，例如我的截止日期。我回复了，但没有收到回复。今天，我很好奇问题是否已解决，或者系统是否仍然无法创建显示亚洲人和白人朋友的准确图像。我收到的不是大量种族不准确的图片，而是一条错误消息：“看起来出了问题。请稍后重试或尝试不同的提示。” 
+奇怪。我是否已经达到了制造假亚洲人的上限？我让一位Verge同事尝试过，她得到了相同的结果。 
+我尝试了其他有关亚洲人的更一般的提示，例如“穿西装的亚洲男人”、“亚洲女人购物”和“微笑的亚洲女人”。我收到的不是图像，而是相同的错误消息。我再次联系了 Meta 的沟通团队——有什么好处？让我来做个假亚洲人吧！ （在此期间，我也无法使用“穿西装的拉丁裔男子”和“穿西装的非裔美国人”等提示生成图像，我也向 Meta 询问了这些问题。）
+
+ 
+
+
+
+ 
+
+
+
+
+四十分钟后，我结束会议后，仍然没有收到 Meta 的回复。但到那时，Instagram 功能已经可以针对“亚洲男人”等简单提示进行操作了。对于我报道过的许多公司来说，在记者询问后默默地更改某些内容、纠正错误或删除某个功能是相当标准的。是我个人造成了人工智能产生的亚洲人暂时短缺吗？这只是时间上的巧合吗？ Meta 正在努力解决这个问题吗？我希望我知道，但 Meta 从未回答我的问题或提供解释。 
+无论 Meta 总部发生了什么，它仍然有一些工作要做 - 像“亚洲男人和白人女人”这样的提示现在会返回图像，但系统仍然搞砸了比赛并使他们同时出现亚洲人就像昨天一样。所以我想我们又回到了起点。我会密切关注事情的。
+Mia Sato / The Verge 的屏幕截图
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race</guid>
+      <pubDate>Thu, 04 Apr 2024 20:52:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roblox 高管表示，孩子们在该平台上赚钱是“一份礼物”</title>
+      <link>https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：Roblox
+
+Roblox 是世界上最受欢迎的游戏平台之一，它受到了批评者的严厉批评，他们指责其剥削用户，而其中绝大多数是儿童和青少年。在最近的采访中&lt; em&gt;Eurogamer 然而，Roblox 工作室负责人 Stefano Corazza 表示，该平台实际上是送给那些通过在该平台上创建游戏来赚钱的年轻开发者的一份礼物。平台。 
+“你可以说，‘好吧，我们正在剥削，你知道，童工，’对吧？或者你可以说：我们为世界各地的人们提供找到工作的能力，甚至是收入，”科拉扎说。 “所以我可以像，15 岁，在印度尼西亚，住在贫民窟，然后现在只需一台笔记本电脑，我就可以创造一些东西，赚钱，然后维持我的生活。” （接受采访时，一位身份不明的 Roblox 公关人员告诉 Eurogamer ，大多数在 Roblox 上赚钱的开发者都年满 18 岁。） p&gt;
+Roblox 上的第三方开发者以 Robux 支付报酬，Robux 是该平台的游戏货币，可以兑换成现金。正如 Eurogamer 所指出的，Roblox 也以远高于支付价格的价格出售 Robux：用户可以花费 12.50 美元购买 1,000 个 Robux，但也可以只需 3.50 美元即可兑现 1,000 Robux。用户还可以在互联网上的其他地方使用 Robux，包括 在线赌博网站，根据去年 8 月两位家长对 Roblox 提起的诉讼。
+Roblox 就其本身而言，最近向立法者提出了建议，作为证明其认真对待儿童安全的更广泛努力的一部分。 “显然，每个人都希望确保孩子的安全。”Roblox 首席执行官兼联合创始人 David Baszucki 告诉The Verge Alex Heath。 “这是我们一直关注的事情。因此，当立法者开始考虑法律时，我们希望成为他们的资源。”
+Baszucki 现在前往华盛顿特区，与立法者会面，讨论影响儿童互联网使用的立法 - 这也将影响 Roblox。]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor</guid>
+      <pubDate>Thu, 04 Apr 2024 20:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告：以色列使用人工智能识别加沙的轰炸目标</title>
+      <link>https://www.theverge.com/2024/4/4/24120352/israel-lavender-artificial-intelligence-gaza-ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24120352/israel-lavender-artificial-intelligence-gaza-ai</guid>
+      <pubDate>Thu, 04 Apr 2024 19:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnePlus Nord N30 5G 是我们最喜欢的廉价手机之一，立减 50 美元</title>
+      <link>https://www.theverge.com/2024/4/4/24121238/oneplus-nord-n30-5g-smartphone-deal-sale</link>
+      <description><![CDATA[&lt;图&gt;
+      
+OnePlus 的经济型手机售价仅比黑色星期五期间高出 20 美元。 |摄影：Allison Johnson / The Verge
+
+当 iPhone 15s 和 Galaxy S24s 占据商店货架和宣传单时，您很容易忘记 OnePlus Nord N30 5G 等价格实惠的冠军产品。这是我们最喜欢的 300 美元以下的廉价智能手机，今天，您可以节省更多。这款廉价智能手机的解锁型号售价降至 249.99 美元，网址为 亚马逊、百思买和直接来自 OnePlus，折扣 50 美元，仅比黑色星期五期间的历史最低价高出 20 美元。
+
+OnePlus Nord N30 5G 与 Pixel 7A 或 三星 Galaxy A54 5G&lt; /a&gt;.它比两者都要便宜得多，但在查看之后 ，我们发现它在大多数领域都表现得足够好，因此很难不向预算严重紧张的人推荐它。 
+它涵盖了任何配备 6.7 英寸 120Hz 显示屏的中端手机应具备的基本功能，高通 Snapdragon 695 芯片组，并通过 50W 快速充电实现全天电池续航。 OnePlus 还成功地提供了立体声扬声器和 NFC 芯片等必备功能，以及粉丝最喜欢的功能，而其他制造商却残忍地放弃了这些功能。其中包括一个用于插入一对有线耳机的 3.5 毫米端口和一个 microSD 卡插槽，后者可接受高达 1TB 的附加容量，以补充手机的 128GB 存储空间。
+
+有一些烦恼阻碍了 Nord N30 5G 的发展。首先，它的软件支持周期很快就要结束了；除了 Android 13 之外，它只会进行一项重大更新。相机体验也低于更昂贵的竞争对手——即中端 Google Pixel 手机，这是可以理解的。其三传感器系统包括 16 兆像素自拍相机、2 兆像素深度和微距传感器以及带像素合并功能的 108 兆像素主传感器。后者的 12 兆像素照片有足够的净空，让您可以使用 3 倍无损变焦进行拍摄。
+它在很多情况下都能拍出漂亮的照片（尤其是在光线充足的情况下），但我们发现 3 倍变焦照片很柔和，而且在弱光情况下表现不一致。不过，很高兴您能以这个价格选择，所以值得原谅。
+]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121238/oneplus-nord-n30-5g-smartphone-deal-sale</guid>
+      <pubDate>Thu, 04 Apr 2024 19:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的扫地机器人</title>
+      <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</guid>
+      <pubDate>Thu, 04 Apr 2024 18:42:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>星球大战的下一部动画选集探索黑暗面</title>
+      <link>https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus</link>
+      <description><![CDATA[&lt;图&gt;
+      
+图片：卢卡斯影业
+
+Disney Plus 正在将漫威和《星球大战》故事改编成动画选集，并且不会很快停止。最新的作品是《星球大战：帝国传说》，它是 2022 年《绝地武士传说》的后续作品，自然地探索了原力的黑暗面。该片将于 5 月 4 日在 Disney+ 开始播放。
+该系列将由六集组成，分为两个角色视角：夜姐妹摩根·埃尔斯贝斯（那些看过阿索卡的人）和前绝地巴里斯·奥菲（之前在克隆人的进攻&lt; /em&gt; 和克隆人战争）。据迪士尼称，该系列“重点关注主角生活中以前不为人知的事件。”
+《帝国传说》 加入了 Disney Plus 上越来越多的动画选集，其中包括 星球大战：幻象和漫威的What If...？，以及非特许系列，例如 非洲未来主义主题的Kizazi Moto：一代火。这也不是迪士尼+即将推出的唯一一个黑暗的《星球大战》故事； The Acolyte 将于 6 月 4 日开始直播.]]></description>
+      <guid>https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus</guid>
+      <pubDate>Thu, 04 Apr 2024 18:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disney Plus 密码共享打击行动将于 6 月开始</title>
+      <link>https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Alex Castro / The Verge 绘制
+
+Disney Plus 已经制定了规则来防止订阅者共享密码 - 但现在我们知道何时会开始要求用户付费共享密码。在 接受 CNBC 采访时，迪士尼首席执行​​官鲍勃·艾格 (Bob Iger) 表示，公司计划于 6 月“首次真正尝试密码共享”。
+Iger 表示，该服务将在“少数市场的少数国家/地区”开始推出，然后于 9 月份扩展到所有订阅者。迪士尼的反密码共享规则最初对新订阅者生效 于 1 月 25 日推出，并于 3 月 14 日向现有会员推出。 Netflix 成为第一个受到打击的流媒体服务2023 年，密码共享开始向用户收取每月 7.99 美元的额外费用，以添加家庭之外的额外观看者。
+
+在 2 月份的财报电话会议上，迪士尼首席财务官 休·约翰斯顿 (Hugh Johnston) 确认，“涉嫌不当共享”的订阅者将在今年夏天看到提示，要求他们注册自己的订阅。订阅者还可以支付“额外费用”添加家庭以外的成员，但迪士尼仍未提供任何有关费用的详细信息。
+
+Disney Plus 和 Hulu 合并应用程序于上月底推出，这是迪士尼试图吸引更多订阅者使用其 利润丰厚的流媒体捆绑。新合并的应用程序不仅整合了两种服务的内容，而且还结合您的观看历史记录以更好地为推荐提供信息。
+“我们对那些没有订阅 Hulu 的迪士尼订阅者的参与感到高兴，他们现在正在观看更多 Hulu 上的节目，包括《将军》，”艾格告诉 CNBC。 “我们必须增加参与度。我们需要技术工具来降低客户流失率，创造更高的粘性。这就像推荐引擎，可以更好地了解我们的客户。”
+正如我的同事所指出的David Pierce，迪士尼还致力于“统一身份，以便你在 Hulu 应用程序上的身份与你在 Disney Plus、ESPN 和有线电视盒上的身份相关联”——这是打击密码共享的重要工具。 Iger 对公司的流媒体业务制定了宏伟计划，包括 ESPN 的纯流媒体版本，并表示将在本财年末实现盈利。付费共享可能有助于进一步实现这一目标。]]></description>
+      <guid>https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june</guid>
+      <pubDate>Thu, 04 Apr 2024 18:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉将苹果拖入即将到来的致命自动驾驶仪碰撞试验</title>
       <link>https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial</guid>
       <pubDate>Thu, 04 Apr 2024 17:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>《阿凡达》的保罗·善亨·李希望与未来的粉丝们一起狂欢</title>
-      <link>https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview</guid>
-      <pubDate>Thu, 04 Apr 2024 17:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌扩展的“查找我的设备”网络可能会在几天内到达</title>
-      <link>https://www.theverge.com/2024/4/4/24120984/google-find-my-device-network-launch-date</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Vjeran Pavic / The Verge
-
-Google 期待已久的“查找我的设备”网络似乎即将推出。 9to5Google 发现的一封电子邮件&lt; /a&gt;，谷歌告诉用户它将在三天内启用该功能，该功能使用数百万其他 Android 设备的数据来查找丢失手机和配件的位置 - 类似于跟踪技术 由 Apple 和 Tile 使用。
-该电子邮件称，用户可以使用网络“在与设备断开连接时找到任何兼容的快速配对配件”或离线使用，包括耳塞、耳机和跟踪器、9to5Google 报告。它还补充说，启用该功能后，用户将在其设备上收到通知，并且用户可以通过在网络上查找我的设备选择退出网络。
-Google 首先宣布&lt; /a&gt; 将于 2023 年在 I/O 大会上扩展现有的“查找我的设备”网络。但是，Google 推迟了网络的启动，因为它正在等待 Apple 为所有跟踪设备推出未知跟踪器警报，而不仅仅是 AirTags。
-
-
-图片：Mishaal Rahman
-
-但苹果准备采用更广泛的iOS 17.5，Google 的“查找我的设备”网络的推出似乎迫在眉睫。一些Android 用户已经开始在最新的 Google Play 服务测试版中看到新的“查找离线设备”设置，因此我们可能很快就会看到正式推出。]]></description>
-      <guid>https://www.theverge.com/2024/4/4/24120984/google-find-my-device-network-launch-date</guid>
-      <pubDate>Thu, 04 Apr 2024 15:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Garmin 的新款心率追踪器与运动胸罩几乎完美搭配</title>
-      <link>https://www.theverge.com/24119970/garmin-hrm-fit-review-chest-strap-wearables-fitness</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24119970/garmin-hrm-fit-review-chest-strap-wearables-fitness</guid>
-      <pubDate>Thu, 04 Apr 2024 15:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰夫·范德米尔正在撰写第四本《Southern Reach》小说</title>
-      <link>https://www.theverge.com/2024/4/4/24120983/jeff-vandermeer-absolution-southern-reach-fourth-book</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Farrar、Straus 和 Giroux
-
-就像 X 区本身一样，令人费解的 Southern Reach 故事也将变得更加宏大。 杰夫·范德米尔已确认他正在创作该系列的第四部作品，迄今为止已包括《毁灭》、《权威》和《接受》三本书。 (第一个变成了导演亚历克斯·加兰 (Alex Garland) 拍摄的电影。）为了与头韵标题保持一致，新书将被称为赦免。它是 预计 10 月 22 日发布。
-赦免将于该系列首次推出十年后推出，它被宣传为原始三部曲的前传，该三部曲讲述了一种神秘、危险且不断扩大的现象X 领域。关于新书将涵盖哪些领域的详细信息并不多，但 VanderMeer 在一份声明中表示：
-&lt;块引用&gt;
-赦免是我写过的最离奇、最令人心碎、而且，是的，最有趣的小说。我并不打算在《南境》系列中写一本新小说——现在已经是四重奏了！我很高兴十年前就完成了它，尽管总是有一些关于 X 区的想法让我无法自拔。然后在过去的几年里，我得到了一系列的启示，这些启示为我打开了大门，并以一种我无法抗拒的力量将我拉了回来。
-这种体验是如此强烈，以至于我一整天、每一天都在不停地写，直到一个星期我茫然地环顾四周，意识到它已经完成了。真是令人兴奋。角色和场景的某些东西让我很容易、甚至无法抗拒地去追求它。我很高兴读者能和我一起回到 X 区 - 我认为他们会对自己的发现感到非常惊讶，有时甚至会感到震惊。
-
-作为公告的一部分 - 以及该系列十周年纪念 - 前三本书也将发布，并配有与赦免相匹配的新封面。 VanderMeer 的书籍往往拥有出色的封面艺术，但即使按照这些标准，插画家 Pablo Delcan 和艺术总监 Alex Merto 的这些新版再版看起来也很棒。它们将于 7 月 30 日上市，您可以在下面的图库中查看它们：
-]]></description>
-      <guid>https://www.theverge.com/2024/4/4/24120983/jeff-vandermeer-absolution-southern-reach-fourth-book</guid>
-      <pubDate>Thu, 04 Apr 2024 14:59:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特推迟推出下一代电动三排 SUV 和卡车</title>
-      <link>https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-福特正在推迟发布其 电动三排 SUV。它还将开始开发下一代电动卡车到 2026 年，将为生产的每款车型提供混合动力选项。
-这款未命名的 SUV 预计将于 2025 年在福特位于安大略省奥克维尔的工厂投入生产，该工厂目前正从汽油车生产转向电动汽车生产。福特给出了推迟的几个原因，其中包括希望等到三排SUV市场成熟后再推出自己的产品。 
-“额外的时间将使三排电动汽车的消费市场进一步发展，并使福特能够利用新兴的电池技术，目标是为客户提供更高的耐用性和更好的价值，”该公司表示。 
-这款未命名的 SUV 预计将于 2025 年开始生产
-虽然美国有 100 多种电动车型在售，但其中很少有三排 SUV，尽管它们很受家庭欢迎。 Tesla Model X、Rivian R1S 和 Kia EV9 以及 Tesla Model Y 的部分车型是为需要额外排的客户提供的少数车型之一。 
-福特还表示，将把仍在建设中的下一代电动卡车的开发工作推迟到 2026 年田纳西州 BlueOval 城市校园。该卡车原定于 2025 年开始投产。
-BlueOval 城市园区正在成为焦点，包括安装涂装车间和“近 4,000 吨冲压设备，将为福特下一代全新电动卡车生产钣金冲压件。”福特还致力于扩大其位于俄亥俄州埃文湖的装配厂，到十年中期将在那里生产下一代电动商用车。 
-这款电动卡车和 SUV 旨在代表福特继第一代 Mustang Mach-E、F-150 Lightning 和 E-Transit 货车之后的第二代电动汽车。福特首席执行官 Jim Farley 表示，第二代电动汽车将在前 12 个月内实现盈利。 
-福特还表示将推迟下一代电动卡车的研发工作至 2026 年
-虽然其下一代汽车被推迟，但其下一代电动汽车仍在开发中。福特表示，其新的经济型电动汽车系列的设计工作“继续”，网址为 公司的 Skunkworks 实验室，由前特斯拉设计师艾伦·克拉克 (Alan Clarke) 监督。福特表示，这家总部位于加州的团队正在“开发一种更小、低成本、盈利、灵活的电动汽车平台，能够大批量支持多辆汽车”。 
-与其他全球汽车制造商一样，福特正在努力完善电动汽车盈利模式。该公司负责监管电动汽车和软件产品的 Model e 部门报告称，2023 年最后一个季度亏损 16 亿美元。福特表示，将放慢在电动汽车上的投资步伐，以便更好地满足客户需求。 p&gt;
-福特报告了其 &lt;a href=&quot;https://www.theverge.com/2024/4/3/24119985/ford-q1-2024-sales-hybrid-gas-electric-mustang-昨天的第一季度销售数据，其中混合动力车尤其发挥了重要作用。该汽车制造商在 2024 年前三个月售出了 38,421 辆混合动力汽车，与 2023 年第一季度相比增长了 42%。其高油耗 SUV（Escape、Explorer、Expedition 和 Bronco）也创下了历史性的季度业绩，该公司称其为“有史以来最好的”。电动汽车销量同比增长 86%。&lt;/p&gt;]]></description>
-      <guid>https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay</guid>
-      <pubDate>Thu, 04 Apr 2024 14:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>三位“身体问题”明星探讨节目的大问题：你愿意按下按钮吗？</title>
-      <link>https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview</guid>
-      <pubDate>Thu, 04 Apr 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Windows 中自动执行任务</title>
-      <link>https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to</guid>
-      <pubDate>Thu, 04 Apr 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 很快将允许你控制它使用的 RAM 量</title>
-      <link>https://www.theverge.com/2024/4/4/24120867/microsoft-edge-ram-control-settings</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：The Verge
-
-Microsoft 正在为其 Edge 浏览器开发一项新功能，可让您限制其使用的 RAM 量。 Leopeva64 是最擅长寻找 Edge 新功能的人之一，他在浏览器的测试版本中发现了一个新的设置部分其中包含一个滑块，以便您可以限制 Edge 访问的 RAM 量。
-RAM 滑块似乎是针对 PC 游戏玩家的，因为 Edge 的 Canary 版本中有一个设置，可以让您在玩 PC 游戏时或一直玩游戏时限制 RAM 量。虽然滑块允许您在具有 16GB RAM 的系统上选择 1GB 到 16GB 之间，但微软警告说，“设置下限可能会影响浏览器速度。”我迫不及待地想目睹 Edge 试图在仅 1GB 的 RAM 上处理 100 多个选项卡的混乱情况。
-
-
-设置页面上的新部分可以让您控制 RAM Edge 可以使用的 RAM 量，您还可以选择是否仅在玩游戏时激活此控制还是始终激活： https://t.co/YiCu5igL0U pic.twitter.com /pE29PI6FfR—Leopeva64 (@Leopeva64) 2024 年 3 月 27 日
-
-
-目前尚不清楚 Microsoft 何时发布此功能，因为目前仅在 Edge 的 Canary 版本中进行测试。 RAM 滑块也可在浏览器必需品部分中找到，其中包括 Edge 的电源效率模式。 Microsoft 推出了 Edge 的电源/性能模式&lt; /a&gt; 几年前改善浏览器的 RAM、CPU 和电池使用情况。]]></description>
-      <guid>https://www.theverge.com/2024/4/4/24120867/microsoft-edge-ram-control-settings</guid>
-      <pubDate>Thu, 04 Apr 2024 12:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>iRobot 的新款 Roomba 吸尘器起价仅为 250 美元</title>
-      <link>https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：iRobot
-
-iRobot 正在其产品系列中添加两款新的经济型机器人真空吸尘器，旨在提供最佳的清洁基础功能，以更低的价格提供纯真空和二合一真空加拖把型号超过 300 美元。 
-取代 Roomba 694，iRobot 声称新的275 美元 Roomba 组合必备&lt; /a&gt; 真空吸尘器和拖把型号的吸力比其前身高出 20 倍，并且充满电后的预计电池寿命从 90 分钟增加到 120 分钟。
-
-Combo Essential 上的液体和吸力设置可在三个级别之间进行调整。它还具有 V 形多表面刷、边缘清扫刷和泵送式超细纤维拖把垫，可用于不同的表面。其他功能包括根据之前的作业建议的清洁时间表、在 iRobot Home 应用程序中显示清洁位置和持续时间等有用信息的报告，以及在您离开家时自动清洁的“我离开时清洁”设置。
-
-
-图片：iRobot
-可以在 iRobot Home 应用程序中找到“清洁地图”报告，显示 Roomba 已清洁了您家的面积。
-
-Roomba Combo Essential 还可以通过移除拖把垫在纯吸尘模式下运行，但如果您根本不使用拖把功能，您可以选择购买完全省略它的更便宜的版本。 
-
-售价 249.99 美元的 Roomba Vac Essential 机器人与 Combo Essential 型号一起推出，在纯真空包装中提供许多相同的功能。鉴于如今很少有竞争对手的 robovac 供应商提供纯真空产品，这是一个很好的接触。对于没有合适地板的顾客来说，拖把功能可能会被浪费，而释放的空间可以让吸尘器使用更长时间，而无需清空。
-
-遗憾的是，两款新的 Roomba Essential 型号均没有自动清空底座的选项。这有点令人失望，因为该功能在竞争对手 robovac 品牌.
-Roomba Combo Essential 机器人现已在美国、欧洲、中东和非洲上市：iRobot.com。该产品将于 4 月 7 日开始在部分美国零售商上市，然后于 4 月 12 日在加拿大上市。 Roomba Vac Essential 也将于 4 月 7 日起在部分美国零售商处发售，并于 4 月 12 日起在加拿大发售，但全球发售情况尚未披露。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date</guid>
-      <pubDate>Thu, 04 Apr 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
