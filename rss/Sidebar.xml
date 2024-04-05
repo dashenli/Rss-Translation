@@ -4,7 +4,39 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 06:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 09:15:23 GMT</lastBuildDate>
+    <item>
+      <title>GenAI Compass：用于设计生成式 AI 体验的 UX 框架</title>
+      <link>https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114</link>
+      <description><![CDATA[在 GenAI 中实施以人为本的设计思维。
+]]></description>
+      <guid>https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114</guid>
+      <pubDate>Fri, 05 Apr 2024 05:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>创意总监 Tim Lapetino 定义 Atari 的遗产</title>
+      <link>https://www.creativebloq.com/features/atari-creative-director-tim-lapetino-interview</link>
+      <description><![CDATA[这个复古游戏品牌的过去探索和光明的未来被嘲笑。
+]]></description>
+      <guid>https://www.creativebloq.com/features/atari-creative-director-tim-lapetino-interview</guid>
+      <pubDate>Fri, 05 Apr 2024 05:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用这些老式光标，像 1999 年一样上网冲浪</title>
+      <link>https://www.figma.com/blog/april-fun-day-cursors/</link>
+      <description><![CDATA[我们将它带回到我们最喜欢的数字设计时代。
+]]></description>
+      <guid>https://www.figma.com/blog/april-fun-day-cursors/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>狂野记忆电台</title>
+      <link>https://wild-memory-radio.wetransfer.com/</link>
+      <description><![CDATA[30 位顶尖创意人士讲述了对他们的工作产生持久影响的地方的记忆。
+]]></description>
+      <guid>https://wild-memory-radio.wetransfer.com/</guid>
+      <pubDate>Fri, 05 Apr 2024 05:29:28 GMT</pubDate>
+    </item>
     <item>
       <title>网站深入探讨：一个新的网站，一个新的未来</title>
       <link>https://xata.io/blog/website-deep-dive</link>
@@ -92,38 +124,6 @@
 ]]></description>
       <guid>https://linear.app/blog/how-we-redesigned-the-linear-ui</guid>
       <pubDate>Wed, 03 Apr 2024 09:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>改造您的传统设计系统以获得无与伦比的用户体验</title>
-      <link>https://www.browserlondon.com/blog/2024/04/02/transforming-your-legacy-design-system-for-an-unparalleled-user-experience/</link>
-      <description><![CDATA[在设计领域，平台很快就会过时。在这里，我们探讨如何轻松更新遗留设计系统。
-]]></description>
-      <guid>https://www.browserlondon.com/blog/2024/04/02/transforming-your-legacy-design-system-for-an-unparalleled-user-experience/</guid>
-      <pubDate>Tue, 02 Apr 2024 11:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>模型一直向下</title>
-      <link>https://knowingmachines.org/models-all-the-way</link>
-      <description><![CDATA[如果你想制作一个非常大的人工智能模型，你首先要找到一个非常大的训练集。
-]]></description>
-      <guid>https://knowingmachines.org/models-all-the-way</guid>
-      <pubDate>Tue, 02 Apr 2024 11:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师希望在成为自由职业者之前知道什么</title>
-      <link>https://www.fastcompany.com/90872978/what-designers-wish-theyd-known-before-going-freelance</link>
-      <description><![CDATA[有时，您需要来自经历过的人的一些建议。
-]]></description>
-      <guid>https://www.fastcompany.com/90872978/what-designers-wish-theyd-known-before-going-freelance</guid>
-      <pubDate>Tue, 02 Apr 2024 11:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>后中性主义：预示 Figma 的下一个美学精神</title>
-      <link>https://uxdesign.cc/foreshadowing-figmas-next-aesthetic-ethos-1b982bd431e6</link>
-      <description><![CDATA[有消息称 Solarpunk 已加入，至少 Figma 首席执行官 Dylan Field 是这样说的。
-]]></description>
-      <guid>https://uxdesign.cc/foreshadowing-figmas-next-aesthetic-ethos-1b982bd431e6</guid>
-      <pubDate>Tue, 02 Apr 2024 11:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
