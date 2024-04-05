@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 05 Apr 2024 00:56:57 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Fri, 05 Apr 2024 18:17:09 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）稍后收听</title>
+      <link>https://sixcolors.com/sponsor/2024/04/listen-later/</link>
+      <description><![CDATA[感谢 Listen Later 本周对六种颜色的赞助。
+稍后收听是一个非常聪明的主意。如果您像我一样，您会在一周内收集较长的文章，只是目前没有时间深入研究。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/04/listen-later/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 66：我们想要的没有改变</title>
       <link>https://sixcolors.com/podcast/2024/04/downstream-66-what-we-want-hasnt-changed/</link>
@@ -15,7 +23,7 @@
     <item>
       <title>另一个应用程序切换到订阅模式，激怒了用户 ↦</title>
       <link>https://sixcolors.com/link/2024/04/another-app-switches-to-a-subscription-model/</link>
-      <description><![CDATA[Voice Dream Reader 是备受推崇的 Mac 和 iOS 文本转语音阅读应用程序，是最新一款采用订阅模式的深受喜爱的应用程序，在此过程中激怒了其忠实的用户群。…]]></description>
+      <description><![CDATA[Voice Dream Reader 是备受推崇的 Mac 和 iOS 文本转语音阅读应用程序，是最新一款采用订阅模式的深受喜爱的应用程序，但在此过程中激怒了其忠实用户群。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/another-app-switches-to-a-subscription-model/</guid>
       <pubDate>Thu, 04 Apr 2024 18:36:43 GMT</pubDate>
     </item>
@@ -29,7 +37,7 @@
     <item>
       <title>（播客）顺时针548：我的伙伴是忍者</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</link>
-      <description><![CDATA[我们的物理媒体与数字媒体偏好、我们拥有（太多）丰富的科技产品、我们是否将手机放在保护套中，以及我们的日记习惯和方法。…]]></description>
+      <description><![CDATA[我们对物理媒体和数字媒体的偏好，我们拥有（太多）丰富的科技产品，我们是否将手机放在保护套中，以及我们的日记习惯和方法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</guid>
       <pubDate>Wed, 03 Apr 2024 19:21:08 GMT</pubDate>
     </item>
@@ -112,13 +120,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 作为 Apple 最佳体育合作伙伴之一，美国职业棒球大联盟 (Major League Baseball) 为 VisionOS 准备了一个演示应用程序，准备迎接新平台的首次亮相。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/mlb-for-visionos-strikes-out-on-opening-day/</guid>
       <pubDate>Thu, 28 Mar 2024 23:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 65：更多血清素</title>
-      <link>https://sixcolors.com/podcast/2024/03/downstream-65-more-serotonin/</link>
-      <description><![CDATA[这次有很多迪士尼！我们谈论迪士尼的重大继任问题、泰勒·斯威夫特的迪士尼+数据以及迪士尼在印度的交易。此外，还有关于 NFL 流媒体版权、Spulu 和 ESPN 作为流媒体聚合器的快速体育角。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/03/downstream-65-more-serotonin/</guid>
-      <pubDate>Thu, 28 Mar 2024 21:30:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
