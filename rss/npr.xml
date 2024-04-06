@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 15:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 18:14:27 GMT</lastBuildDate>
+    <item>
+      <title>以色列称已在加沙找到以色列人质埃拉德·卡齐尔的尸体</title>
+      <link>https://npr.org/2024/04/06/1243234224/israel-hostage-elad-katzir-gaza</link>
+      <description><![CDATA[47 岁的埃拉德·卡齐尔 (Elad Katzir) 来自加沙边境附近的基布兹尼尔奥兹 (Nir Oz)。 10 月 7 日，这个拥有 400 名居民的小社区是以色列受哈马斯领导的袭击者袭击最严重的社区之一。]]></description>
+      <guid>https://npr.org/2024/04/06/1243234224/israel-hostage-elad-katzir-gaza</guid>
+      <pubDate>Sat, 06 Apr 2024 17:38:30 GMT</pubDate>
+    </item>
     <item>
       <title>照片：以色列和加沙，战争进行 6 个月</title>
       <link>https://npr.org/sections/pictureshow/2024/04/06/1243045848/israel-gaza-hamas-6-months-war</link>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 06 Apr 2024 10:01:05 GMT</pubDate>
     </item>
     <item>
-      <title>以下是我们在以色列袭击加沙最大的医院 Al-Shifa 后发现的情况</title>
+      <title>这是我们在以色列袭击加沙最大的医院 Al-Shifa 后发现的情况</title>
       <link>https://npr.org/2024/04/06/1243045199/al-shifa-hospital-gaza-israel-raid-before-aftermath</link>
       <description><![CDATA[美国国家公共广播电台的照片显示，加沙地带最大的医院在以色列袭击后变成了废墟。以色列称围困行动只针对武装分子。巴勒斯坦人讲述了一个不同的故事。]]></description>
       <guid>https://npr.org/2024/04/06/1243045199/al-shifa-hospital-gaza-israel-raid-before-aftermath</guid>
@@ -63,17 +70,10 @@
     </item>
     <item>
       <title>很多孩子都看到了最后一次日全食。他们的记忆可能会让你大吃一惊</title>
-      <link>https://npr.org/2024/04/06/1242665610/children-total-solar-eclipse-remember-surprising</link>
+      <link>https://npr.org/sections/solar-eclipse/2024/04/06/1242665610/children-total-solar-eclipse-remember-surprising</link>
       <description><![CDATA[日全食追逐者表示，看到月亮遮住太阳、露出日冕，是一种改变生活的经历。另一方面，孩子们记得吃月饼。]]></description>
-      <guid>https://npr.org/2024/04/06/1242665610/children-total-solar-eclipse-remember-surprising</guid>
+      <guid>https://npr.org/sections/solar-eclipse/2024/04/06/1242665610/children-total-solar-eclipse-remember-surprising</guid>
       <pubDate>Sat, 06 Apr 2024 09:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在周六晚上的抽奖之前，强力球头奖攀升至 $1.3B</title>
-      <link>https://npr.org/2024/04/06/1243218992/powerball-prize-billion-jackpot-saturday-drawing</link>
-      <description><![CDATA[自从上次有人在元旦赢得强力球头奖以来，已经连续抽奖40次了。该头奖在美国彩票历史上排名第八。]]></description>
-      <guid>https://npr.org/2024/04/06/1243218992/powerball-prize-billion-jackpot-saturday-drawing</guid>
-      <pubDate>Sat, 06 Apr 2024 07:06:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
