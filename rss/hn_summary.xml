@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 15:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 20:50:05 GMT</lastBuildDate>
     <item>
-      <title>在此网络内容中，作者分享了他们在德国创办公司的经验，高 [...]</title>
-      <link>https://t.me/hn_summary/83364</link>
-      <description><![CDATA[如何在德国创办公司：14 个“简单”步骤和很多痛苦
-在此网络内容中，作者分享了他们在德国创办公司的经历，强调了缓慢、痛苦、有时甚至是破碎的过程。他们提供了 14 个步骤，首先提醒任何人都可以这样做，然后选择公司名称、寻找公证人以及注册公司。作者幽默地解决了官僚主义的障碍，例如公司名称的任意规则和初始股本的需要。尽管面临挑战，作者诙谐且平易近人的语气使整个过程看起来更容易管理。 （根据 41% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83364</guid>
-      <pubDate>Sun, 07 Apr 2024 15:07:12 GMT</pubDate>
+      <title>[媒体]人工智能不是你的朋友，它是隐藏在友好外表后面的掠夺者，出卖你的d [...]</title>
+      <link>https://t.me/hn_summary/83415</link>
+      <description><![CDATA[人工智能不是你的朋友
+人工智能不是你的朋友，它是隐藏在友好外表后面的掠夺者，将你的数据卖给最高出价者。自由经济建立在谎言和操纵之上，广告是人工智能的杀手级应用。这种自由经济对环境的影响是惊人的，大多数网页都充满了广告跟踪代码。尽管有大量的免费服务，人们却比以往任何时候都更加努力地工作，努力维持收支平衡。免费的真正成本很高，无论是在经济上还是在环境上。人工智能和广告是这个不可持续系统背后的驱动力。]]></description>
+      <guid>https://t.me/hn_summary/83415</guid>
+      <pubDate>Sun, 07 Apr 2024 20:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：适用于多种语言的全新跨平台 SDK 版本管理器。</title>
-      <link>https://t.me/hn_summary/83363</link>
-      <description><![CDATA[展示 HN：适用于多种语言的全新跨平台 SDK 版本管理器.
-该项目是一个跨平台的 SDK 版本管理器，适用于多种编程语言和工具，称为 version-manager(vm)。它旨在简化不同版本的SDK和工具的管理，而不需要插件。与 asdf-vm 等其他管理器不同，vm 支持多种语言，并且被设计为用户友好且稳定。它提供的功能包括快速文件下载、shell 自动完成以及在当前终端会话中的版本之间切换的能力。该项目的独特之处在于专注于常用的 SDK 和工具，避免包含需要编译的 SDK，并优先考虑预构建的二进制文件进行安装。]]></description>
-      <guid>https://t.me/hn_summary/83363</guid>
-      <pubDate>Sun, 07 Apr 2024 14:18:50 GMT</pubDate>
+      <title>[媒体] PumpkinOS 是 PalmOS 的重新实现，可在 x86 等现代架构上运行 [...]</title>
+      <link>https://t.me/hn_summary/83414</link>
+      <description><![CDATA[PumpkinOS，PalmOS 的重新实现
+PumpkinOS 是 PalmOS 的重新实现，可在 x86 和 ARM 等现代架构上运行。它不需要 PalmOS ROM 即可运行 m68K PalmOS 应用程序。该项目包括 Launcher、Preferences、Command 等应用程序以及 AddressBook 和 MemoPad 等 PIM 应用程序。目的是让大家了解 PumpkinOS 的未来。该项目已获得 GPL v3 许可，需要使用 MSYS2 或 gcc 等工具从源代码构建。实验性支持适用于 32 位 Windows 和基于 Linux 的操作系统。该项目还支持在 Windows、Linux 和 WSL 上使用 gdb 进行调试。]]></description>
+      <guid>https://t.me/hn_summary/83414</guid>
+      <pubDate>Sun, 07 Apr 2024 20:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>《制作 Vegemite 的冒险》是一段探索这种标志性澳大利亚酱的创作之旅。</title>
-      <link>https://t.me/hn_summary/83362</link>
-      <description><![CDATA[制作 Vegemite 的冒险
-《制作 Vegemite 的冒险》是一段探索这种标志性澳大利亚酱的创作之旅。该过程包括将酵母浆和麦芽汁煮沸，形成浓稠的深色糖浆，形成涂抹酱的基础。添加营养酵母和盐使混合物更加完整，其味道与马麦酱惊人地接近。味道测试揭示了 Vegemite 特有的咸味和鲜味，根据所使用的成分略有不同。作者探索了对配方的潜在调整，例如使用不同类型的啤酒浆并添加芹菜和洋葱提取物以获得更真实的风味。]]></description>
-      <guid>https://t.me/hn_summary/83362</guid>
-      <pubDate>Sun, 07 Apr 2024 14:03:42 GMT</pubDate>
+      <title>在《环球邮报》发表的一篇发人深省的文章中，基恩·伯奇 (Kean Birch) 认为，生成人工 [...]</title>
+      <link>https://t.me/hn_summary/83413</link>
+      <description><![CDATA[生成式人工智能根本就是浪费我们的时间和金钱
+基恩·伯奇（Kean Birch）在《环球邮报》发表的一篇发人深省的文章中认为，生成式人工智能是浪费时间和金钱。虽然像 ChatGPT 这样的技术可能有有趣的用途，但 Birch 强调了与生成人工智能相关的巨大社会成本和有限的收益。从环境问题到能源消耗，伯奇提出了有关人工智能投资真正价值的重要问题。他还警告人工智能垃圾邮件的潜在后果以及人工智能产生的错误信息的风险。 Birch 呼吁采取更加深思熟虑的人工智能开发方法，优先考虑解决实际的社会问题并吸收社会科学家的意见。]]></description>
+      <guid>https://t.me/hn_summary/83413</guid>
+      <pubDate>Sun, 07 Apr 2024 20:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是 pgmock，一个内存中的 PostgreSQL 模拟服务器，用于单元和 E2E 测试，[...]</title>
-      <link>https://t.me/hn_summary/83361</link>
-      <description><![CDATA[Show HN：我开源了我构建的内存 PostgreSQL正在进行端到端测试
-该项目是 pgmock，一个用于单元和 E2E 测试的内存 PostgreSQL 模拟服务器，完全在 Node.js 和浏览器上的 WebAssembly 中运行。它在 JavaScript 运行时内提供完整的功能兼容性，而无需依赖网络代理进行通信。作者提到 pgmock 是为与生产 PostgreSQL 环境同等功能而设计的，这与 pglite 等其他项目不同，后者性能更高，但功能集有限。该项目目前使用 x86 模拟器方法在 WebAssembly 中运行 Postgres，并计划在未来切换到本机 WASM。欢迎贡献，作者感谢 v86、Supabase、Snaplet 和 Stackframe 的贡献。]]></description>
-      <guid>https://t.me/hn_summary/83361</guid>
-      <pubDate>Sun, 07 Apr 2024 13:52:35 GMT</pubDate>
+      <title>Diffscope 是一款功能强大的工具，可以深入研究文件、档案、 [...]</title>
+      <link>https://t.me/hn_summary/83412</link>
+      <description><![CDATA[Diffscope – 深入比较文件、档案和目录&lt; /a&gt;
+Diffscope 是一个强大的工具，可以深入研究文件、档案和目录之间的差异。它可以比较各种格式，从 tarball 到 PDF，甚至 Firefox 扩展。它的与众不同之处在于它能够解压和转换二进制格式以进行比较。 diffscope 支持多种文件类型和格式，为分析差异提供了全面的解决方案。用户可以在线试用或通过多种方式安装。 diffscope 是作为“可重复构建”工作的一部分而开发的，是一款免费软件，拥有专门的贡献者社区，不断改进其功能。]]></description>
+      <guid>https://t.me/hn_summary/83412</guid>
+      <pubDate>Sun, 07 Apr 2024 20:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：2024 年最好的电子墨水阅读器？</title>
-      <link>https://t.me/hn_summary/83360</link>
-      <description><![CDATA[询问 HN：2024 年最佳电子墨水阅读器？
-作者正在寻求 2024 年最佳电子墨水阅读器的推荐，主要用于阅读 PDF，无需放大/缩小。他们优先考虑尺寸，喜欢更大的屏幕，但又不会太大。他们还希望在不依赖云应用程序的情况下轻松传输 PDF，更喜欢 USB 连接。其他要求包括户外可读性、良好的电池寿命和重量。记笔记不是优先事项。作者正在寻找满足这些特定需求和偏好的读者。]]></description>
-      <guid>https://t.me/hn_summary/83360</guid>
-      <pubDate>Sun, 07 Apr 2024 13:45:29 GMT</pubDate>
+      <title>欢迎来到我的简单三体问题模拟器！</title>
+      <link>https://t.me/hn_summary/83411</link>
+      <description><![CDATA[一个简单的三体问题模拟器
+欢迎来到我的简单三体问题模拟器！该模拟器可让您探索空间中相互作用的三个物体的动力学。您可以选择不同的轨道类型，例如随机轨道、欧拉轨道和拉格朗日轨道，甚至可以随时暂停和恢复模拟。尝试一下，看看这些物体如何在 2D 空间中相互作用。如果您发现这个模拟器有帮助或有趣，请不要忘记在 GitHub 上给我一个星星。使用这个独特的交互式工具探索三体问题的可能性和复杂性。]]></description>
+      <guid>https://t.me/hn_summary/83411</guid>
+      <pubDate>Sun, 07 Apr 2024 19:58:37 GMT</pubDate>
     </item>
     <item>
-      <title>与 NASA 一起独家观看 2024 年日全食，它将于 [...]</title>
-      <link>https://t.me/hn_summary/83359</link>
-      <description><![CDATA[NASA 直接报道 2024 年日食
-与 NASA 一起独家观看 4 月 8 日穿越北美的 2024 年日全食。从墨西哥到缅因州，NASA 将提供现场报道、专家评论和现场演示。不要错过这个在 NASA 直接报道下见证这一天体事件的独特机会。请于 2024 年 4 月 8 日星期一下午 1:00 收看。至下午 4:00 NASA+ 上的 EDT 为您带来难忘的体验。]]></description>
-      <guid>https://t.me/hn_summary/83359</guid>
-      <pubDate>Sun, 07 Apr 2024 13:41:26 GMT</pubDate>
+      <title>[媒体] danburzo.ro 上的文章讨论了如何处理 HTML 响应式图像，重点是 [...]</title>
+      <link>https://t.me/hn_summary/83410</link>
+      <description><![CDATA[如何看待 HTML 响应式图片
+danburzo.ro 上的文章讨论了如何处理 HTML 响应式图像，重点关注使用 srcset 和sized 属性来启用自适应图像。作者在网页设计的背景下解释了响应式图像的概念，并深入研究了图像密度和显示分辨率的复杂性。它们提供了以不同复杂程度（从基本图像标记到动态图像密度）实现响应式图像的示例和建议。本文深入探讨了浏览器如何选择最合适的图像源，并强调了显式宽度和高度属性对于最佳图像渲染的重要性。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83410</guid>
+      <pubDate>Sun, 07 Apr 2024 19:49:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 opt-models.org，我们深入研究了使用乐高积木进行优化编程的世界。</title>
-      <link>https://t.me/hn_summary/83358</link>
-      <description><![CDATA[Opt-Models：使用乐高积木进行优化编程简介 
-在 opt-models.org，我们深入研究这个世界使用乐高积木进行优化编程。从描述性分析到预测性分析，再到规范性分析，我们探索如何在商业世界中利用数学优化方法。加入我们，我们将揭开优化在现代数据科学管道中的作用，优化通常充当预测和描述性分析之后的规范性组成部分。探索乐高在建模和解决复杂问题方面的力量，并了解这种实践方法如何彻底改变我们进行优化编程的方式。通过 Opt-Models 探索可能性并释放您的创造力！]]></description>
-      <guid>https://t.me/hn_summary/83358</guid>
-      <pubDate>Sun, 07 Apr 2024 13:26:19 GMT</pubDate>
+      <title>[媒体]总理贾斯汀·特鲁多宣布投资 24 亿美元用于人工 [...]</title>
+      <link>https://t.me/hn_summary/83409</link>
+      <description><![CDATA[Justin Trudeau 宣布在加拿大投资 2.4B 美元 
+总理贾斯汀·特鲁多 (Justin Trudeau) 宣布向加拿大人工智能投资 24 亿美元，其中 20 亿美元用于设立一个基金，以提供计算能力和技术基础设施。政府计划就新的人工智能计算访问基金和扩大该行业的战略与业界进行磋商。此外，还将拨款 2 亿美元来促进人工智能在农业和医疗保健等领域的采用。拟议的《人工智能和数据法案》旨在更新隐私法并引入“高影响力”系统的义务。特鲁多的宣布正值保守党的批评之际，保守党领袖皮埃尔·普利耶夫呼吁结束碳定价并增加住房建设。特鲁多予以回击，捍卫自由党政策并强调专家建议的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83409</guid>
+      <pubDate>Sun, 07 Apr 2024 19:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]兑现了其提供价格实惠的电动汽车的承诺，导致投资者失望 [...]</title>
-      <link>https://t.me/hn_summary/83357</link>
-      <description><![CDATA[特斯拉“放弃经济型电动汽车计划”&lt; br/&gt;
-兑现其提供价格实惠的电动汽车的承诺，引起了投资者和消费者的失望。埃隆·马斯克决定取消预计售价为 25,000 美元的 Model 2 计划，导致特斯拉股价大幅下跌。此举与马斯克之前关于让大众使用电动汽车的声明相矛盾。该公司目前最便宜的车型 Model 3 售价为 39,000 美元，这让许多人质疑特斯拉对其最初使命的承诺。]]></description>
-      <guid>https://t.me/hn_summary/83357</guid>
-      <pubDate>Sun, 07 Apr 2024 13:24:16 GMT</pubDate>
+      <title>[媒体]Ashutosh Jogalekar 探索约翰·冯·奈 (John von Ne) 的多面知识钻石 [...]</title>
+      <link>https://t.me/hn_summary/83408</link>
+      <description><![CDATA[约翰·冯·诺伊曼在洛斯阿拉莫斯做了什么
+阿舒托什·乔加莱卡 (Ashutosh Jogalekar) 探索了约翰·冯·诺伊曼 (John von Neumann) 的多面智慧钻石，重点关注他对计算和核武器的贡献。尽管冯·诺依曼在曼哈顿计划期间只是洛斯阿拉莫斯的一个小角色，但他的影响力等于甚至超过了他的科学家同行。他从布达佩斯到普林斯顿的旅程展示了他的才华和多才多艺，在数学、经济学和博弈论方面做出了开创性的工作。冯·诺依曼在第二次世界大战期间参与制定指控和国防工作，突显了他将自己的智慧应用于实际问题的能力，在科学和技术领域留下了持久的遗产。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83408</guid>
+      <pubDate>Sun, 07 Apr 2024 19:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国人对经济感到沮丧，尽管数据显示经济在[...]</title>
-      <link>https://t.me/hn_summary/83356</link>
-      <description><![CDATA[拜登的经济政策让人们的生活变得更好——但没有人关心&lt; /a&gt;
-尽管数据显示在拜登的经济政策下经济正在蓬勃发展，但美国人仍对经济感到沮丧。 1.9 万亿美元的美国救援计划资助了清洁水和互联网接入等举措，为社区带来了真正的改变。但效果并没有想象中那么明显，导致公众热情不足。尽管拜登经济学在南卡罗来纳州消防站和宾夕法尼亚州社区等地产生了切实影响，但许多美国人仍然感受到高物价和工资停滞的压力。拜登面临的挑战在于缩小其政策的积极影响与公众对经济的看法之间的差距。]]></description>
-      <guid>https://t.me/hn_summary/83356</guid>
-      <pubDate>Sun, 07 Apr 2024 13:23:12 GMT</pubDate>
+      <title>[媒体]我们关于 H2O-Danube-1.8B 项目的技术报告提供了全面的概述 [...]</title>
+      <link>https://t.me/hn_summary/83407</link>
+      <description><![CDATA[H2O-Danube-1.8B技术报告
+我们关于 H2O-Danube-1.8B 项目的技术报告全面概述了我们在水质监测领域的研究成果。通过使用先进的传感器和数据分析技术，我们能够收集有关多瑙河健康状况的宝贵见解。我们的研究结果强调了持续监测的重要性以及人类活动对水质的潜在影响。该报告为致力于保护和保存水资源的研究人员和政策制定者提供了宝贵的资源。请浏览 arxiv.org 上的完整报告了解更多详情。]]></description>
+      <guid>https://t.me/hn_summary/83407</guid>
+      <pubDate>Sun, 07 Apr 2024 19:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 公共 DNS 致力于增强 DNS 安全性并保护用户免受 [...]</title>
-      <link>https://t.me/hn_summary/83355</link>
-      <description><![CDATA[Google 公共 DNS 抵御缓存中毒攻击的方法 
-Google Public DNS 致力于增强 DNS 安全性并保护用户免受缓存中毒攻击。通过实施 RFC 5452、DNS Cookie 和案例随机化等措施，我们显着降低了成功攻击的风险。此外，将 DNS-over-TLS 部署到权威域名服务器进一步提高了用户的安全性和隐私性。这些努力使 Google Public DNS 成为更加安全可靠的 DNS 解析服务，确保为全球用户提供更安全的互联网体验。我们将继续与 DNS 社区合作，进一步增强 DNS 安全性，并鼓励 DNS 服务器运营商采用这些安全机制。]]></description>
-      <guid>https://t.me/hn_summary/83355</guid>
-      <pubDate>Sun, 07 Apr 2024 12:48:59 GMT</pubDate>
+      <title>[媒体]Facebook 最近以网络钓鱼为由禁止了一个链接到一篇批评文章的网站 [...]</title>
+      <link>https://t.me/hn_summary/83406</link>
+      <description><![CDATA[Facebook 禁止链接到关键文章的网站，声称存在网络钓鱼
+Facebook 最近以网络钓鱼问题为由，禁止了一个链接到一篇批评文章的网站。该网站 bsky.app 是一个交互式 Web 应用程序，需要JavaScript。尽管声称存在网络钓鱼，但该禁令似乎是一个错误，因为有多个域，包括 thehandbasket.co，被错误分类。 Adam Mosseri 解决了这个问题，承认误报经常发生。这一事件凸显了在 Facebook 这样的大型平台上维持安全措施所面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/83406</guid>
+      <pubDate>Sun, 07 Apr 2024 19:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
