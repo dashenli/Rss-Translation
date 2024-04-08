@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sat, 06 Apr 2024 15:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:25:29 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：84—24</title>
+      <link>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</link>
+      <description><![CDATA[回顾《84—24》的制作过程。还原 80 年代永恒经典的故事。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</guid>
+      <pubDate>Mon, 08 Apr 2024 09:53:46 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站综述 #58</title>
       <link>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[ThreePipe * JSON Canvas Spec * Lissajous 曲线 SVG 生成器]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-823/</guid>
       <pubDate>Fri, 22 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 交互和动画综述 #41</title>
-      <link>https://tympanus.net/codrops/2024/03/22/ui-interactions-animations-roundup-41/</link>
-      <description><![CDATA[发现一系列新的用户界面动画和交互式设计，以激发您的创造力。]]></description>
-      <guid>https://tympanus.net/codrops/2024/03/22/ui-interactions-animations-roundup-41/</guid>
-      <pubDate>Fri, 22 Mar 2024 10:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

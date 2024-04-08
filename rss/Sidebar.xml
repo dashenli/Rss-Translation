@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 09:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:26:09 GMT</lastBuildDate>
+    <item>
+      <title>AI 驱动的编辑器</title>
+      <link>https://imperavi.com/redactor/?utm_source=sidebar</link>
+      <description><![CDATA[超现代的人工智能编辑器，具有强大的 API 功能、广泛的设置、优秀的文档和大量的集成示例。
+]]></description>
+      <guid>https://imperavi.com/redactor/?utm_source=sidebar</guid>
+      <pubDate>Mon, 08 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LogoFav - 策划标志灵感</title>
+      <link>https://www.logofav.com/</link>
+      <description><![CDATA[来自专家设计师的我们最喜欢的徽标集合。浏览 200 多个徽标，并且每天都会添加新徽标。
+]]></description>
+      <guid>https://www.logofav.com/</guid>
+      <pubDate>Mon, 08 Apr 2024 10:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duelity 是设计师的搏击俱乐部</title>
+      <link>https://duelity.co</link>
+      <description><![CDATA[发起一场决斗，设计你的作品，由人群选出获胜者。
+]]></description>
+      <guid>https://duelity.co</guid>
+      <pubDate>Mon, 08 Apr 2024 10:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>GenAI Compass：用于设计生成式 AI 体验的 UX 框架</title>
       <link>https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114</link>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://ishadeed.com/article/css-container-query-guide/</guid>
       <pubDate>Wed, 03 Apr 2024 11:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式 UI 和结果导向的设计</title>
-      <link>https://www.nngroup.com/articles/generative-ui/</link>
-      <description><![CDATA[GenUI 承诺高度个性化的界面 - 从为许多人设计到为个人量身定制的转变。
-]]></description>
-      <guid>https://www.nngroup.com/articles/generative-ui/</guid>
-      <pubDate>Wed, 03 Apr 2024 11:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024年精酿啤酒品牌趋势回顾</title>
-      <link>https://cododesign.com/2024-craft-beer-branding-trends/</link>
-      <description><![CDATA[深入探讨啤酒品牌和包装设计趋势。
-]]></description>
-      <guid>https://cododesign.com/2024-craft-beer-branding-trends/</guid>
-      <pubDate>Wed, 03 Apr 2024 11:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何重新设计线性 UI</title>
-      <link>https://linear.app/blog/how-we-redesigned-the-linear-ui</link>
-      <description><![CDATA[我们通过全面重新设计重新定义了 Linear 应用程序的基础层。
-]]></description>
-      <guid>https://linear.app/blog/how-we-redesigned-the-linear-ui</guid>
-      <pubDate>Wed, 03 Apr 2024 09:27:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
