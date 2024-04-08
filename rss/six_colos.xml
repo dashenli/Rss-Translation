@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 05 Apr 2024 18:17:09 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 08 Apr 2024 18:20:22 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）你们的安全措施比 TSA 还差吗？</title>
+      <link>https://sixcolors.com/feed-only/2024/04/are-you-worse-at-security-than-the-tsa-2/</link>
+      <description><![CDATA[您知道该怎么做：当您通过机场安检时，有两条线。其中，运输安全管理局 (TSA) 工作人员会确保您就是护照照片中的人。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/04/are-you-worse-at-security-than-the-tsa-2/</guid>
+      <pubDate>Mon, 08 Apr 2024 16:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）稍后收听</title>
       <link>https://sixcolors.com/sponsor/2024/04/listen-later/</link>
@@ -30,7 +37,7 @@
     <item>
       <title>Apple TV 值得比 tvOS 更好（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</link>
-      <description><![CDATA[年复一年，当苹果公司宣布年度更新时，一款操作系统最终会受到冷落。虽然 iOS、macOS 和 iPadOS 都在炫耀它们闪亮的新功能，但它们被忽视的兄弟却悲伤地坐在长凳上，等待它闪耀的机会——这个机会似乎永远不会到来。…]]></description>
+      <description><![CDATA[年复一年，当苹果公司宣布年度更新时，一款操作系统最终会受到冷落。虽然 iOS、macOS 和 iPadOS 都在炫耀它们闪亮的新功能，但它们被忽视的兄弟却悲伤地坐在长凳上，等待它闪耀的机会——一个似乎永远不会到来的机会。…]]></description>
       <guid>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</guid>
       <pubDate>Thu, 04 Apr 2024 13:10:08 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <title>（赞助商）使用 ListenLater.net 将文章变成播客</title>
       <link>https://sixcolors.com/feed-only/2024/04/turn-articles-into-podcasts-with-listenlater-net/</link>
       <description><![CDATA[&lt;图标题&gt;
-欢迎来到一个让您的阅读列表成为您的收听播放列表的世界。我们很高兴向您介绍 ListenLater.net — 一项创新服务，可将文章转换为播客，让您可以在您喜爱的播客应用程序中阅读您喜爱的内容。…]]></description>
+欢迎来到一个让您的阅读列表成为您的收听播放列表的世界。我们很高兴向您介绍 ListenLater.net — 一项创新服务，可将文章转换为播客，让您可以在您最喜欢的播客应用程序中阅读您最喜爱的内容。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/04/turn-articles-into-podcasts-with-listenlater-net/</guid>
       <pubDate>Mon, 01 Apr 2024 16:00:04 GMT</pubDate>
     </item>
@@ -112,14 +119,6 @@
 Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/03/kolide-39/</guid>
       <pubDate>Fri, 29 Mar 2024 16:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>MLB forvisionOS 在开幕日出局</title>
-      <link>https://sixcolors.com/post/2024/03/mlb-for-visionos-strikes-out-on-opening-day/</link>
-      <description><![CDATA[您无法关闭主窗口，但这还不是最糟糕的。
-作为 Apple 最佳体育合作伙伴之一，美国职业棒球大联盟 (Major League Baseball) 为 VisionOS 准备了一个演示应用程序，准备迎接新平台的首次亮相。…]]></description>
-      <guid>https://sixcolors.com/post/2024/03/mlb-for-visionos-strikes-out-on-opening-day/</guid>
-      <pubDate>Thu, 28 Mar 2024 23:41:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
