@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 12:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 15:14:56 GMT</lastBuildDate>
+    <item>
+      <title>分析经典赛车游戏中的 UX 和 UI 决策</title>
+      <link>https://uxdesign.cc/ui-breakdown-ridge-racer-type-4-3df11df52aa6</link>
+      <description><![CDATA[《Ridge Racer Type 4》的 UI/UX 是游戏设计的经典之作。
+]]></description>
+      <guid>https://uxdesign.cc/ui-breakdown-ridge-racer-type-4-3df11df52aa6</guid>
+      <pubDate>Mon, 08 Apr 2024 11:44:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>驯服 Shadow DOM：使用采用的样式表注入全局样式</title>
+      <link>https://southleft.com/insights/development/adopted-stylesheets/</link>
+      <description><![CDATA[了解如何利用所采用的样式表的力量来弥合 Web 组件的 Shadow DOM 和全局样式之间的差距。
+]]></description>
+      <guid>https://southleft.com/insights/development/adopted-stylesheets/</guid>
+      <pubDate>Mon, 08 Apr 2024 11:42:14 GMT</pubDate>
+    </item>
     <item>
       <title>AI 驱动的编辑器</title>
       <link>https://imperavi.com/redactor/?utm_source=sidebar</link>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://blog.pope.tech/2024/04/01/a-complete-guide-for-content-creators-to-start-making-accessible-content/</guid>
       <pubDate>Thu, 04 Apr 2024 10:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高工作效率的 12 个 Figma 技巧</title>
-      <link>https://uxdesign.cc/12-figma-tips-to-work-more-efficiently-2d9b60e2ab2d</link>
-      <description><![CDATA[我想分享我的 Figma 重要技巧，这些技巧帮助我变得更有条理并更快地进行批量设计编辑。
-]]></description>
-      <guid>https://uxdesign.cc/12-figma-tips-to-work-more-efficiently-2d9b60e2ab2d</guid>
-      <pubDate>Wed, 03 Apr 2024 11:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 容器查询交互式指南</title>
-      <link>https://ishadeed.com/article/css-container-query-guide/</link>
-      <description><![CDATA[立即了解如何使用 CSS 容器查询。
-]]></description>
-      <guid>https://ishadeed.com/article/css-container-query-guide/</guid>
-      <pubDate>Wed, 03 Apr 2024 11:25:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
