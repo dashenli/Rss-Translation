@@ -4,7 +4,39 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 00:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 03:17:41 GMT</lastBuildDate>
+    <item>
+      <title>设计是一个陷入困境的过程</title>
+      <link>https://robinrendle.com/notes/design-is-a-process-of-getting-stuck-</link>
+      <description><![CDATA[每当我在一个没有白板的房间里时，我都会感到被困住。
+]]></description>
+      <guid>https://robinrendle.com/notes/design-is-a-process-of-getting-stuck-</guid>
+      <pubDate>Tue, 09 Apr 2024 02:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>文字效果</title>
+      <link>https://texteffects.dev/</link>
+      <description><![CDATA[使用 CSS、HTML 和 JavaScript 探索文本效果世界的文章
+]]></description>
+      <guid>https://texteffects.dev/</guid>
+      <pubDate>Tue, 09 Apr 2024 02:18:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳米GL</title>
+      <link>https://www.nanogl.com/</link>
+      <description><![CDATA[探索 NanoGL，这是一个专门的 WebGL 框架，专为精通底层 WebGL 复杂性的经验丰富的开发人员而设计。 
+]]></description>
+      <guid>https://www.nanogl.com/</guid>
+      <pubDate>Tue, 09 Apr 2024 02:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新思考角色：用户体验设计中的同理心和包容性</title>
+      <link>https://uxdesign.cc/rethinking-personas-empathy-and-inclusion-in-ux-design-37145d2ee807</link>
+      <description><![CDATA[通过使用“待完成工作”和“同理心地图”等更具包容性的方法，我们可以创造出更有意义、更易于使用的产品。
+]]></description>
+      <guid>https://uxdesign.cc/rethinking-personas-empathy-and-inclusion-in-ux-design-37145d2ee807</guid>
+      <pubDate>Tue, 09 Apr 2024 02:16:59 GMT</pubDate>
+    </item>
     <item>
       <title>分析经典赛车游戏中的 UX 和 UI 决策</title>
       <link>https://uxdesign.cc/ui-breakdown-ridge-racer-type-4-3df11df52aa6</link>
@@ -92,38 +124,6 @@
 ]]></description>
       <guid>https://benjdd.com/posts/turn-images-into-contour-maps/</guid>
       <pubDate>Thu, 04 Apr 2024 10:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计代币在现代 Web 开发中的价值</title>
-      <link>https://southleft.com/insights/design-systems/the-value-of-design-tokens/</link>
-      <description><![CDATA[设计令牌是构建一致、可维护网站的秘诀。
-]]></description>
-      <guid>https://southleft.com/insights/design-systems/the-value-of-design-tokens/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 CSS 中的像素和 (r)em - 绝对长度单位</title>
-      <link>https://techhub.iodigital.com/articles/going-beyond-pixels-and-rems-in-css/absolute-length-units</link>
-      <description><![CDATA[CSS 单位系列的最后一部分将讨论绝对单位，即您最绝对想要避免的单位。
-]]></description>
-      <guid>https://techhub.iodigital.com/articles/going-beyond-pixels-and-rems-in-css/absolute-length-units</guid>
-      <pubDate>Thu, 04 Apr 2024 10:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>康威的希望游戏</title>
-      <link>https://alex.miller.garden/game-of-hope/</link>
-      <description><![CDATA[亚历山大·米勒的崛起寓言。
-]]></description>
-      <guid>https://alex.miller.garden/game-of-hope/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>内容创作者开始制作无障碍内容的完整指南</title>
-      <link>https://blog.pope.tech/2024/04/01/a-complete-guide-for-content-creators-to-start-making-accessible-content/</link>
-      <description><![CDATA[了解如何使用 WAVE 和可访问性基础知识将 Web 可访问性嵌入到您的流程中。
-]]></description>
-      <guid>https://blog.pope.tech/2024/04/01/a-complete-guide-for-content-creators-to-start-making-accessible-content/</guid>
-      <pubDate>Thu, 04 Apr 2024 10:49:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
