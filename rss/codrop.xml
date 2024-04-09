@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 08 Apr 2024 12:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 12:25:06 GMT</lastBuildDate>
+    <item>
+      <title>集体#828</title>
+      <link>https://tympanus.net/codrops/collective/collective-827/</link>
+      <description><![CDATA[徽标系统 * 设计系统数据库 * 引入 Babylon.js 7.0]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-827/</guid>
+      <pubDate>Tue, 09 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：84—24</title>
       <link>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[与 Webflow 合作，我们感到非常兴奋呈现本次综述，其中包括精心挑选的一些令人惊叹的网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/03/26/inspirational-websites-roundup-webflow-special-2/</guid>
       <pubDate>Tue, 26 Mar 2024 11:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#823</title>
-      <link>https://tympanus.net/codrops/collective/collective-823/</link>
-      <description><![CDATA[ThreePipe * JSON Canvas Spec * Lissajous 曲线 SVG 生成器]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-823/</guid>
-      <pubDate>Fri, 22 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
