@@ -4,187 +4,113 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:13:49 GMT</lastBuildDate>
     <item>
-      <title>谷歌的 Gemini 1.5 Pro 现在可以听到</title>
-      <link>https://www.theverge.com/2024/4/9/24124741/google-gemini-pro-imagen-updates-vertex</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-Google 对 Gemini 1.5 Pro 的更新提供了模型耳朵。该模型现在可以收听上传的音频文件，并从财报电话会议或视频音频等内容中生成信息，而无需参考书面文字记录。 
-在 Google Next 活动期间，Google 还宣布将通过其用于构建 AI 应用程序的平台 Vertex AI 首次向公众提供 Gemini 1.5 Pro。 Gemini 1.5 Pro 于 2 月份首次发布 .
-这个新版本的 Gemini Pro，应该是 Gemini家族的中等重量型号，在性能上已经超越了最大、最强大的型号Gemini Ultra。谷歌声称，Gemini 1.5 Pro 可以理解复杂的指令，无需微调模型。
-Gemini 1.5 Pro 不适用于无法访问 Vertex AI 的用户。目前，大多数人通过 Gemini 聊天机器人遇到 Gemini 语言模型。 Gemini Ultra 为 Gemini Advanced 聊天机器人提供支持，虽然它功能强大并且能够理解长命令，但它的速度不如 Gemini 1.5 Pro。
-Gemini 1.5 Pro 并不是 Google 唯一获得更新的大型 AI 模型。 Imagen 2，文本到图像生成模型有助于增强 Gemini 的图像生成功能，还将添加修复和修复功能，让用户可以添加或删除图像中的元素。 Google 还在以下网站上提供了SynthID 数字水印功能所有图片都是通过 Imagen 模型创建的。 SynthID 在图像上添加了一个对查看者不可见的水印，当通过检测工具查看时，该水印标记了其出处。 
-Imagen 的许多新功能，尤其是修复和修复，已经成为其他文本到图像模型的一部分，例如 Stability AI 的稳定级联 和 iStock 的 Getty 生成人工智能，更不用说 新款三星 Galaxy 手机。
-Google 表示，它还公开预览了一种将 AI 响应与 Google 搜索结合起来的方法，以便他们能够提供最新信息。大型语言模型产生的响应并不总是理所当然的，有时是故意的； Google 故意阻止 Gemini 回答问题与 2024 年美国大选相关。
-Gemini 最近还因受到批评生成历史上不准确的人物照片。 ]]></description>
-      <guid>https://www.theverge.com/2024/4/9/24124741/google-gemini-pro-imagen-updates-vertex</guid>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌认为，通过 Vids，它拥有了下一个重要的工作生产力工具</title>
-      <link>https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app</link>
+      <title>Beeper 刚刚被 Automattic 收购，该公司对消息传递的未来有宏伟的计划</title>
+      <link>https://www.theverge.com/2024/4/9/24124179/beeper-app-automattic-acquisition-matrix-messaging</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app</guid>
-      <pubDate>Tue, 09 Apr 2024 12:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/4/9/24124179/beeper-app-automattic-acquisition-matrix-messaging</guid>
+      <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔正在调查第 13 代和第 14 代酷睿 i9 处理器上的游戏崩溃问题</title>
-      <link>https://www.theverge.com/2024/4/9/24125036/intel-game-crash-13900k-14900k-fortnite-unreal-engine-investigation</link>
+      <title>《辐射》的电视剧播出时间比预期要早一些</title>
+      <link>https://www.theverge.com/2024/4/9/24125154/fallout-tv-show-early-release-date-amazon-prime-video</link>
       <description><![CDATA[&lt;图&gt;
       
-摄影：Tom Warren / The Verge
+图片：Prime Video
 
-英特尔最新第 13 代和第 14 代酷睿 i9 台式机处理器的用户注意到近几个月来游戏崩溃的情况有所增加。这种情况发生在《The Finals》、《Fortnite》和《铁拳 8》等游戏中，甚至导致 Epic Games 发布支持通知以鼓励英特尔酷睿i9 13900K 和 14900K 用户调整 BIOS 设置。
-现在，英特尔表示正在调查这些报告。英特尔发言人在给 ZDNet 韩国。
-崩溃的严重程度因游戏而异，有些游戏会产生“内存不足”错误，有些游戏只是退出到桌面，有些游戏会完全锁定机器。大多数受影响的游戏似乎都基于虚幻引擎，这可能表明英特尔需要解决稳定性问题。
-
-
-如果您的游戏在 13/14900k 上崩溃，这就是您的解决方法。重新发布以拯救玩家！ pic.twitter.com/3qQoOFTV1A— PowerGPU (@PowerGPU) 2024 年 2 月 26 日
+辐射的电视改编版将提前一天在 Prime Video 上推出。新系列现将于 2024 年 4 月 10 日星期三（东部时间晚上 9 点/太平洋时间下午 6 点）首播，而不是 4 月 11 日。
+饰演核废土幸存者食尸鬼的沃尔顿·戈金斯 (Walton Goggins) 周一宣布了这一消息，他表示提前首映是为了向粉丝们表示“感谢”。八集会同时出现在平台上，所以你可能得克制住自己不能一口气看完。
 
 
-似乎可以提高稳定性的唯一解决方法包括手动降频或降低英特尔处理器的电压。 Epic Games 建议在华硕、技嘉或 MSI 主板的 BIOS 设置中将 SVID 行为更改为 Intel Fail Safe。定制 PC 构建者Power GPU 建议降低性能核心比率限制，这似乎有助于提高某些游戏的稳定性。
-英特尔的调查是在 PCWorld 不得不更换 Core i9 13900K 处理器，以防止《堡垒之夜》在作家的 PC 上崩溃。我个人在 14900K 系统上经历过游戏崩溃的情况，降低性能核心比率限制可以改善我自己系统上的情况。英特尔目前仅确认调查，尚不清楚这些游戏崩溃的根本原因是什么。]]></description>
-      <guid>https://www.theverge.com/2024/4/9/24125036/intel-game-crash-13900k-14900k-fortnite-unreal-engine-investigation</guid>
-      <pubDate>Tue, 09 Apr 2024 10:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗技的新款无线键盘针对需要便携性的职业游戏玩家</title>
-      <link>https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date</link>
-      <description><![CDATA[&lt;图&gt;
-      
-罗技 G Pro X 60 Lightspeed 以紧凑的外形提供丰富的功能。 |图片：罗技
-
-罗技宣布推出 Pro X 60 Lightspeed，这是该公司首款采用紧凑型 60% 格式的无线游戏键盘。该键盘通过专注于游戏的罗技 G 子品牌发售，现已上市，售价 179 美元，有两种 GX 光学开关类型（触觉或线性）和三种颜色（黑色、白色或粉色）可供选择。
-定位为 罗技 G Pro X TKL Lightspeed，Pro X 60 包含许多相同的功能。用户可以获得三种连接选项：有线，使用随附的六英尺 USB-C 至 USB-C 充电线，或通过蓝牙或 Logitch 的 Lightspeed 适配器进行无线连接，后者提供 1000Hz 的轮询率。
-一个关键的区别是，与 Pro X TKL 不同，Pro X 60 不是机械键盘 - 它是光学键盘，因此手感不同。这两款键盘均不提供热插拔开关。 Pro X 60 的 GX 光学线性和触觉开关选项均具有 1.8 毫米驱动点和 4 毫米行程距离，驱动力分别为 50 克和 60 克。
-
-通过罗技 G Hub 软件中的新按键控制工具可以实现诸如分配宏快捷键、灯光和音频效果等其他自定义功能，按键重新映射能够为每个按键提供最多 15 个不同的功能功能。它还支持罗技的 Lightsync RGB 照明，开箱即用，该照明已预先编程为静态蓝色，以减少干扰，但可以进行自定义，以允许您选择颜色和照明序列，以通过 Pro X 60 的双镜头 PBT 键帽发光。通过无线 Lightspeed 连接并启用照明时，充满电后的电池续航时间约为 65 小时。
-罗技 G Pro X 60 还配备了一些优质功能，例如当手指放在 WASD 键上时可以轻松触及的音量滚轮、游戏模式开关侧面禁用了 Windows 键等在游戏时可能会分散注意力的按键，还有一个便携包，可以在旅途中携带键盘。这里的主要吸引力在于，所有这些功能和自定义功能都可以在如此便携的外形中使用 - 如果您喜欢竞技游戏并经常旅行，那么将它比全布局键盘更容易塞进包里。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date</guid>
-      <pubDate>Tue, 09 Apr 2024 07:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 表示，他的帖子更多的是“在经济上损害”X，而不是帮助它</title>
-      <link>https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it</guid>
-      <pubDate>Tue, 09 Apr 2024 02:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以在 Apple Vision Pro 中观看日食吗？</title>
-      <link>https://www.theverge.com/2024/4/8/24124638/watch-solar-eclipse-apple-vision-pro</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：苹果
-
-今天早上，想起我忘了订购日食眼镜，我大声想知道：观看今天的日食 Apple Vision Pro？我不是一个相机专家，但我似乎记得将相机对准太阳是不好的。然而，网上的答案差异很大，因此我向 The Verge 的 艾美奖获奖高级视频制作人 Becca Farsace 提出了问题。
-她的回答是 Vision Pro 很贵；它有很多摄像头；而且不值得冒这个风险。她补充道：“韦斯，你是一个自由的灵魂！你可以做任何你想做的事，但如果我在互联网上看到这个，我会很生气，因为有人花了那么多钱在外面这样做。”
-她是对的；我是一个自由的灵魂！接受挑战，贝卡。 
+FALLOUT，现已于 4 月 10 日下午 6 点抵达PT。 pic.twitter.com/a31D8Q5AqL — Prime 视频 (@PrimeVideo) 2024 年 4 月 9 日
 
 
-这是 Vision Pro 中日食的样子。
-
-好吧，好吧，也许一个朋友给了我一副日食眼镜。将它们放在 Vision Pro 的相机上，让我实现了邪恶的数字太阳凝视野心（顺便说一句，我已经畏缩了），而无需冒着我非常昂贵的耳机的风险。 
-所以，是的，您可以使用 Vision Pro 观看日食，只要您不介意视图中间弹出一条大的“跟踪失败”错误消息，告诉您这是外面太暗了。
-如果您也想将相机对准太阳（无论是否有日食），Becca 在下面的视频中提供了其他提示。
-
-      
-
-
- 
- 在 Instagram 上查看此帖子
-
- 
-   
-
-  &lt; /div&gt;
-
-   
-
-   
-The Verge (@verge) 分享的帖子
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/4/8/24124638/watch-solar-eclipse-apple-vision-pro</guid>
-      <pubDate>Tue, 09 Apr 2024 00:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉正在与在 Autopilot 事故中丧生的苹果工程师的家人达成和解</title>
-      <link>https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-
-  本周，特斯拉计划出庭为其 Autopilot 系统辩护，以应对非正常死亡指控，但看起来该公司将向苹果工程师 Wei“Walter”Huang 的家人支付报酬。 
-法庭文件显示，特斯拉正试图向黄氏家族确定潜在的和解付款金额。虽然尚不清楚该公司可能提供多少金额或和解协议包括哪些其他条款，但特斯拉的律师表示，双方已经同意和解协议，并希望其保密。 
-您可以阅读下面的该文档； 华盛顿邮报 和彭博社早些时候报道了这一消息。黄氏家族的律师没有立即回复我们的电子邮件。
-和解尚未获得法官批准。法庭文件显示，在作为本案被告的加州交通部有机会反对和解协议后，将于本周四（4 月 11 日）举行后续听证会，进一步讨论该和解协议。 
-
-黄的特斯拉 Model X 已确认2018 年 3 月，在加利福尼亚州山景城，当 Autopilot 撞上安全屏障时，他正在使用 Autopilot。事故发生后，他死亡。美国国家运输安全委员会（NTSB）发现，自动驾驶仪和分心驾驶都是导致事故的因素。 
-特斯拉原计划辩称黄当时正在手机上玩游戏，他有在通勤时间玩游戏的习惯，调查人员发现当时他手机上最前面的应用程序是游戏，但无法确定如果车辆撞毁时他真的在玩它。 特斯拉希望将苹果拖入审判 ，传唤该公司提供苹果知道他在玩游戏的证据，而苹果一直试图撤销该传票。 
-
-更新，美国东部时间晚上 7:35：添加了今天法庭记录的额外详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death</guid>
-      <pubDate>Mon, 08 Apr 2024 23:25:34 GMT</pubDate>
+《辐射》系列发生在核战争摧毁地球 200 年后，人们被迫进入地下避难所求生。影片讲述了三个不同的角色与受辐射的环境作斗争的故事：避难所居民露西·麦克莱恩（艾拉·珀内尔饰）、钢铁兄弟会成员马克西姆斯（亚伦·莫顿饰）和食尸鬼（戈金斯饰）。 
+其他配角包括莫伊塞斯·阿里亚斯、凯尔·麦克拉克伦、萨里塔·乔杜里、迈克尔·爱默生、莱斯利·乌加姆斯和扎克·切里。在等待该系列正式首播时，您可以查看一些辐射&lt; /em&gt; 预告片 Prime Video 已在过去几个月发布。 ]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24125154/fallout-tv-show-early-release-date-amazon-prime-video</guid>
+      <pubDate>Tue, 09 Apr 2024 14:47:26 GMT</pubDate>
     </item>
     <item>
       <title>Supercut 应用程序为 Vision Pro 带来精彩的 Netflix 内容</title>
       <link>https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos</link>
-      <description><![CDATA[&lt;图&gt;
-      
-Supercut 中的服务选择器。 |截图：Wes Davis / The Verge
-
-Netflix 去年表示，它有 没有计划为 Apple Vision Pro——考虑到它非常适合这项任务，这让用户感到失望。现在，名为 Supercut 的新应用程序将 Netflix 流媒体带到 Apple 耳机上，视频顶部和底部不再出现黑框栏；它还支持采用杜比全景声 (Dolby Atmos) 和杜比视界 (Dolby Vision) 的 4K 流媒体播放。
-Supercut 由开发者 Christian Privitelli 制作，提供播放控制，包括字幕、音频输出、播放速度以及快进或快退几秒的功能，此外还能够在配置文件之间动态切换。它甚至为您提供了一个视觉指示器，告诉您视频是否以一种或两种杜比格式输出，以及您的流媒体分辨率。 
-
-
-向 Supercut 打个招呼。 我的 Vision Pro Netflix 和 Prime Video 应用程序现已可以在 App Store 上下载。 pic.twitter.com/V9wKLnCSPy— 克里斯蒂安·普里维泰利 (@priva28_) 2024 年 4 月 6 日
-
-
-除此之外，该应用程序非常简单。除了 VisionOS 系统级环境之外，没有任何沉浸式环境，尽管Privitelli 发布表示他正在为 1.2 版本开发该环境。应用程序。显然，它将类似于出色的影院环境，到目前为止，这似乎是 Apple TV Plus 应用程序独有的。 
-
-
-我正在构建的影院环境现在可以实时更新反射和照明。感觉与 Apple tv 的 95% 一样，但可以与您想要的任何 swiftui 视图一起使用:)) pic.twitter.com/X0GcAOTqd0 — 克里斯蒂安·普里维泰利 (@priva28_) 2024 年 3 月 19 日
-
-
-除了 Netflix 之外，还有 Amazon Prime Video 的基本实现，它确实作为 iPad 应用程序存在于耳机上，但采用了信箱形式，就像 Safari 窗口中的 Netflix 一样。还有一个用于输入其他服务（例如 YouTube）的 URL 的空间。 
-
-Supercut 目前一次性付款金额为 4.99 美元。我只花了很短的时间浏览了这些功能并观看了几分钟的视频，但到目前为止，它似乎是 Vision Pro 上 Netflix 的一个有前途的替代品。现在，请原谅，我会在这里讽刺地观看&lt; em&gt;3 身体问题 与我的面部电脑有关。]]></description>
-      <guid>https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos</guid>
-      <pubDate>Mon, 08 Apr 2024 22:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>森海塞尔的新款健身耳机可以正确追踪心率</title>
-      <link>https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review</guid>
-      <pubDate>Mon, 08 Apr 2024 22:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos</guid>
+      <pubDate>Tue, 09 Apr 2024 14:39:27 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 距离推出 Instagram 竞争对手越来越近了</title>
-      <link>https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch</link>
+      <title>Aboard 应用程序与人工智能机器人的功能完全不同</title>
+      <link>https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management</guid>
+      <pubDate>Tue, 09 Apr 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peloton 现在是一家媒体公司，存在媒体公司的问题</title>
+      <link>https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history</guid>
+      <pubDate>Tue, 09 Apr 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fairbuds 降噪耳塞配有易于更换的电池</title>
+      <link>https://www.theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability</guid>
+      <pubDate>Tue, 09 Apr 2024 13:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Quest 3 耳机现在具有躺着模式</title>
+      <link>https://www.theverge.com/2024/4/9/24125090/meta-quest-3-v64-software-update-lying-down-mode-passthrough-video-external-microphone</link>
       <description><![CDATA[&lt;图&gt;
       
-插图由 Nick Barclay / The Verge 绘制
+照片：David Pierce / The Verge
 
-TikTok 计划发布一款新的照片共享应用程序，可在 Instagram 上使用。在通知中发送给用户，TikTok表示正在推出“一款新的照片发布应用程序”，名为TikTok Notes，如TechCrunch 早些时候报道。
-该通知称，它将把“现有和未来的公开 TikTok 照片帖子”分享到 TikTok Notes，同时还允许用户选择退出。 TechCrunch 发现了一个新的 photo.tiktok.com 网址（存档版本） /em&gt; 也曾短暂出现在网上，并提示您在 TikTok Notes 应用程序中打开帖子。从网站上包含的图像来看，您似乎也可以在照片旁边写下标题。
+感谢  的最新软件更新Meta Quest 3，Meta 最新的耳机现在具有躺着模式，上个月出现在 Quest 2 和 Pro 耳机中。 元社区帖子表示更新已开始周一推出 Quest 耳机。 
+要尝试一下，请转到“设置”&gt;“实验并切换躺下时使用应用程序。当你只想俯身看电影时，这应该是一个很好的功能 - 更昂贵的东西 Apple Vision Pro 在发布时就可以实现。但这对于那些有健康问题且无法保持直立的人来说也是一个福音长时间使用 Quest 设备。该功能去年在 v53 软件测试版中出现，但在更新推出之前已删除。
+
+除了让用户在接通电源时俯卧之外，Meta 表示它还改进了 Quest 3 的直通功能。该公司表示，它优化了其直通视频，以提高“感知分辨率”——基本上，像智能手机上那样的细粒度文本应该更清晰。该公司表示，它还改进了颜色、曝光、对比度和动态范围，因此您看到的内容将更好地匹配现实世界的颜色，并且该更新表示低光透过的颗粒感更少。
+Quest 3 现在还支持通过耳机的 USB-C 端口外接麦克风，并且应该支持带适配器的非 USB-C 麦克风。要使用它，用户需要通过转到“设置”&gt;“设置”进行切换。在那里进行实验并选择麦克风。 
+最后，对于所有耳机，Meta 的更新现在将允许使用 Meta Quest 应用程序的主播在摘下耳机时继续直播，而不是黑屏。该公司还表示，它正在测试 Horizo​​n Worlds 中的一项功能，该功能将允许用户直接从通用菜单中的 People 应用程序加入共享其位置和公共世界的朋友。 
+同样，更新昨天才开始推出 - 所以如果您还没有更新，请做好准备，因为它正在路上。 ]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24125090/meta-quest-3-v64-software-update-lying-down-mode-passthrough-video-external-microphone</guid>
+      <pubDate>Tue, 09 Apr 2024 13:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌首款基于 Arm 的 CPU 将在人工智能竞赛中挑战微软和亚马逊</title>
+      <link>https://www.theverge.com/2024/4/9/24125074/google-axion-arm-cpu-ai-chips-cloud-server-data-center</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Google 正在制造自己的基于 Arm 的定制 CPU，以支持其在数据中心的 AI 工作，并推出更强大版本的张量处理单元 (TPU) AI 芯片。 Google 全新基于 Arm 的 CPU，被称为 Axion，将用于在向 Google Cloud 商业客户推出之前支持 Google 的 AI 工作负载“今年晚些时候。”
+Axion 芯片已为 YouTube 广告、Google Earth Engine 和其他 Google 服务提供支持。 Google Cloud 副总裁兼计算和机器学习基础设施总经理 Mark Lohmeyer 在 对路透社的声明。 “Axion 建立在开放基础之上，但在任何地方使用 Arm 的客户都可以轻松采用 Axion，而无需重新架构或重新编写应用程序。”
+Google 表示，客户将能够在 Google Compute Engine、Google Kubernetes Engine、Dataproc、Dataflow、Cloud Batch 等云服务中使用 Axion CPU。 路透社报道称，基于 Axion Arm 的 CPU 的性能还将比“通用 Arm 芯片”高 30%，比英特尔现有处理器高 50%。
 
 
+图片：谷歌
+Google 基于 Axion Arm 的 CPU。
 
-在给 TechCrunch 的一份声明中，TikTok 表示，它正在“探索如何让我们的社区能够在这些格式的专用空间中通过照片和文本创作和分享他们的创造力”，但没有透露计划何时发布该应用程序。 The Verge 联系 TikTok 请求提供更多信息，但没有立即收到回复。
-我们第一次听说 TikTok 照片共享应用上个月，TheSpAndroid在应用程序中挖出了表明该应用程序正在运行的代码在一款名为 TikTok Photos 的应用程序上。 
-但现在，该应用似乎距离正式发布越来越近了，而且它可能会成为 Instagram 的有力竞争对手。 TikTok Notes 可能会预先填充 TikTok 用户已经分享的所有照片（考虑到大多数用户选择加入），这将使其不必吸引初始用户群。]]></description>
-      <guid>https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch</guid>
-      <pubDate>Mon, 08 Apr 2024 21:48:12 GMT</pubDate>
+Google 还在更新其 TPU AI 芯片，该芯片可用作 Nvidia GPU 的替代品，用于 AI 加速任务。 “TPU v5p 是下一代加速器，专门用于训练一些最大、要求最高的生成式 AI 模型。” 洛迈尔说道。单个 TPU v5p Pod 包含 8,960 个芯片，是 TPU v4 Pod 上芯片数量的两倍多。
+Google 在微软展示了专为其云基础设施设计的定制硅芯片。微软已经构建了自己的定制人工智能芯片来训练大型语言模型，并为云和人工智能工作负载构建了基于 Arm 的定制 CPU。多年来，亚马逊还通过自己的定制 CPU 提供基于 Arm 的服务器，最新的工作负载能够在 AWS 上使用 Graviton3 服务器。
+Google 不会向客户出售这些芯片，而是将它们提供给企业租用和使用的云服务。 “成为一家伟大的硬件公司与成为一家伟大的云公司或世界信息的伟大组织者有很大不同，”负责谷歌内部芯片业务的高管阿明·瓦达特 (Amin Vahdat) 在 给《华尔街日报》的声明 .
+与之前的微软和亚马逊一样，谷歌现在可以减少对英特尔和英伟达等合作伙伴的依赖，同时还可以在定制芯片上与他们竞争，以支持人工智能和云工作负载。]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24125074/google-axion-arm-cpu-ai-chips-cloud-server-data-center</guid>
+      <pubDate>Tue, 09 Apr 2024 13:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 禁令和 iPhone 垄断</title>
+      <link>https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast</guid>
+      <pubDate>Tue, 09 Apr 2024 13:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>DJI 为独奏创作者和工作室推出新款 Ronin 稳定器</title>
+      <link>https://www.theverge.com/2024/4/9/24125066/dji-ronin-rs4-pro-camera-gimbal-stabilizers-price-release-date</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/4/9/24125066/dji-ronin-rs4-pro-camera-gimbal-stabilizers-price-release-date</guid>
+      <pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
