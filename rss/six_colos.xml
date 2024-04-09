@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 08 Apr 2024 18:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:55:39 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 507：不同的社交</title>
+      <link>https://sixcolors.com/podcast/2024/04/upgrade-507-differently-social/</link>
+      <description><![CDATA[Casey Liss 与 Myke 一起讨论 Apple 为 VisionOS 设计的新空间角色，以及他们对来自……Gucci 的沉浸式体验的想法？此外，模拟器即将登陆 App Store，Myke 想要检查 Casey 的氛围。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/04/upgrade-507-differently-social/</guid>
+      <pubDate>Mon, 08 Apr 2024 22:10:01 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）你们的安全措施比 TSA 还差吗？</title>
       <link>https://sixcolors.com/feed-only/2024/04/are-you-worse-at-security-than-the-tsa-2/</link>
@@ -30,7 +37,7 @@
     <item>
       <title>另一个应用程序切换到订阅模式，激怒了用户 ↦</title>
       <link>https://sixcolors.com/link/2024/04/another-app-switches-to-a-subscription-model/</link>
-      <description><![CDATA[Voice Dream Reader 是备受推崇的 Mac 和 iOS 文本转语音阅读应用程序，是最新一款采用订阅模式的深受喜爱的应用程序，但在此过程中激怒了其忠实用户群。…]]></description>
+      <description><![CDATA[Voice Dream Reader 是备受推崇的 Mac 和 iOS 文本转语音阅读应用程序，是最新一款采用订阅模式的深受喜爱的应用程序，在此过程中激怒了其忠实的用户群。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/another-app-switches-to-a-subscription-model/</guid>
       <pubDate>Thu, 04 Apr 2024 18:36:43 GMT</pubDate>
     </item>
@@ -44,7 +51,7 @@
     <item>
       <title>（播客）顺时针548：我的伙伴是忍者</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</link>
-      <description><![CDATA[我们对物理媒体和数字媒体的偏好，我们拥有（太多）丰富的科技产品，我们是否将手机放在保护套中，以及我们的日记习惯和方法。…]]></description>
+      <description><![CDATA[我们的物理媒体与数字媒体偏好、我们拥有（太多）丰富的科技产品、我们是否将手机放在保护套中，以及我们的日记习惯和方法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</guid>
       <pubDate>Wed, 03 Apr 2024 19:21:08 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <title>（赞助商）使用 ListenLater.net 将文章变成播客</title>
       <link>https://sixcolors.com/feed-only/2024/04/turn-articles-into-podcasts-with-listenlater-net/</link>
       <description><![CDATA[&lt;图标题&gt;
-欢迎来到一个让您的阅读列表成为您的收听播放列表的世界。我们很高兴向您介绍 ListenLater.net — 一项创新服务，可将文章转换为播客，让您可以在您最喜欢的播客应用程序中阅读您最喜爱的内容。…]]></description>
+欢迎来到一个让您的阅读列表成为您的收听播放列表的世界。我们很高兴向您介绍 ListenLater.net — 一项创新服务，可将文章转换为播客，让您可以在您喜爱的播客应用程序中阅读您喜爱的内容。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/04/turn-articles-into-podcasts-with-listenlater-net/</guid>
       <pubDate>Mon, 01 Apr 2024 16:00:04 GMT</pubDate>
     </item>
@@ -111,14 +118,6 @@
 周四，苹果推出了自 Vision Pro 推出以来的首个沉浸式视频，该视频时长五分钟，汇集了去年年底 MLS 杯季后赛的精彩片段。…]]></description>
       <guid>https://sixcolors.com/post/2024/03/apples-immersive-video-problem/</guid>
       <pubDate>Fri, 29 Mar 2024 18:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）科利德</title>
-      <link>https://sixcolors.com/sponsor/2024/03/kolide-39/</link>
-      <description><![CDATA[感谢 Kolide 本周赞助六色。 Kolide 帮助客户确保其设备合规，从而保证公司数据的安全。
-Kolide 最近发现网络责任保险问题有所增加。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/03/kolide-39/</guid>
-      <pubDate>Fri, 29 Mar 2024 16:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
