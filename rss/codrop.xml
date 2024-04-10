@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 12:25:23 GMT</lastBuildDate>
+    <item>
+      <title>图像堆栈入口动画</title>
+      <link>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</link>
+      <description><![CDATA[具有不同动画的图像的圆形堆栈介绍。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:50:20 GMT</pubDate>
+    </item>
     <item>
       <title>集体#828</title>
       <link>https://tympanus.net/codrops/collective/collective-827/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 08 Apr 2024 09:53:46 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #58</title>
+      <title>励志网站综述#58</title>
       <link>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</link>
       <description><![CDATA[发现一系列充满活力的网站，每个网站都展示出色的设计，激发您的灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[如何在 CSS 中设置边框动画 * Astro DB：深入探讨 * 草书的奇妙案例]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-824/</guid>
       <pubDate>Tue, 26 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站综述：Webflow 特别#2</title>
-      <link>https://tympanus.net/codrops/2024/03/26/inspirational-websites-roundup-webflow-special-2/</link>
-      <description><![CDATA[与 Webflow 合作，我们感到非常兴奋呈现本次综述，其中包括精心挑选的一些令人惊叹的网站。]]></description>
-      <guid>https://tympanus.net/codrops/2024/03/26/inspirational-websites-roundup-webflow-special-2/</guid>
-      <pubDate>Tue, 26 Mar 2024 11:27:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
