@@ -3,12 +3,26 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:25:12 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Wed, 10 Apr 2024 15:16:35 GMT</lastBuildDate>
+    <item>
+      <title>设计师 Arthur Teboul Zaïne 采用建筑师的思维方式和方法</title>
+      <link>https://www.itsnicethat.com/articles/arthur-teboul-zaine-graphic-design-discover-100424</link>
+      <description><![CDATA[这位巴黎设计师“劫持机器”以实现介于数字和模拟之间的结果。]]></description>
+      <guid>https://www.itsnicethat.com/articles/arthur-teboul-zaine-graphic-design-discover-100424</guid>
+      <pubDate>Wed, 10 Apr 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hannah Robinson 从 20 世纪 50 年代的海报设计和她父亲的厕所幽默中汲取灵感</title>
+      <link>https://www.itsnicethat.com/articles/hannah-robinson-illustration-discover-100424</link>
+      <description><![CDATA[“如果我能对自己的作品咯咯笑，我就知道我做对了，”插画家说。]]></description>
+      <guid>https://www.itsnicethat.com/articles/hannah-robinson-illustration-discover-100424</guid>
+      <pubDate>Wed, 10 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>IED 是新思想家、创客和实干家的全球创意空间</title>
       <link>https://www.itsnicethat.com/articles/istituto-europeo-di-design-ied-sponsored-content-100424</link>
-      <description><![CDATA[欧洲设计学院 (IED) 教育网络在意大利、西班牙和巴西设有 11 个校区，其使命是倡导、培养和培养最新一代的创意创新者，寻找将我们所有人联系在一起的共同人性。表面。]]></description>
+      <description><![CDATA[欧洲设计学院 (IED) 教育网络在意大利、西班牙和巴西设有 11 个校区，其使命是倡导、培育和培育最新一代的创意创新者，寻找将我们所有人联系在一起的共同人性。表面。]]></description>
       <guid>https://www.itsnicethat.com/articles/istituto-europeo-di-design-ied-sponsored-content-100424</guid>
       <pubDate>Wed, 10 Apr 2024 09:30:00 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>在博洛尼亚儿童书展上为巴勒斯坦绘画以筹集资金并提高认识</title>
       <link>https://www.itsnicethat.com/articles/drawing-for-palestine-illustration-creative-industry-project-090424</link>
-      <description><![CDATA[此次展览和拍卖展出了 56 名插画家的原创艺术作品，此前还发表了一封公开信，呼吁采取行动并加大对巴勒斯坦的支持。]]></description>
+      <description><![CDATA[此次展览和拍卖展出了 56 名插画家的原创艺术作品，并在一封呼吁采取行动并加大对巴勒斯坦支持的公开信之后进行。]]></description>
       <guid>https://www.itsnicethat.com/articles/drawing-for-palestine-illustration-creative-industry-project-090424</guid>
       <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[多样化的活动包括问答、信息交流会议以及为那些想要实践和讨论空间的人提供的 TypeLab。]]></description>
       <guid>https://www.itsnicethat.com/news/the-cooper-union-typographics-festival-2024-graphic-design-event-sponsored-content-040424</guid>
       <pubDate>Thu, 04 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Studio Frith 的 Erotic Review 设计系统模仿性唤起时的身体</title>
-      <link>https://www.itsnicethat.com/articles/studio-frith-erotic-review-graphic-design-project-040424</link>
-      <description><![CDATA[重新推出的期刊希望满足新的读者——弗里斯提供了一个体现普遍性欲望的身份。]]></description>
-      <guid>https://www.itsnicethat.com/articles/studio-frith-erotic-review-graphic-design-project-040424</guid>
-      <pubDate>Thu, 04 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾玛·科尔曼谈裸体、史前影响和对扫描的痴迷</title>
-      <link>https://www.itsnicethat.com/articles/emma-kohlmann-watercolours-art-publication-project-040424</link>
-      <description><![CDATA[Anthology Editions 出版的一本新书详细介绍了这位艺术家的水彩作品。了解“令人难以置信的模拟”过程和 Elana Schlenker 的眼睛如何帮助它变得栩栩如生。]]></description>
-      <guid>https://www.itsnicethat.com/articles/emma-kohlmann-watercolours-art-publication-project-040424</guid>
-      <pubDate>Thu, 04 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

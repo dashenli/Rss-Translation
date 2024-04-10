@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:24:37 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 10 Apr 2024 15:16:07 GMT</lastBuildDate>
+    <item>
+      <title>马克斯·普朗克分拆公司筹集 2000 万欧元用于建造“仿星器”聚变机</title>
+      <link>https://thenextweb.com/news/german-startup-max-planck-proxima-fusion-stellarator</link>
+      <description><![CDATA[A德国初创公司已为一座奇特的扭曲反应堆获得了新的资金，该反应堆可能被证明是获得清洁、几乎无限的聚变能源的更快途径。 Proxima Fusion 已筹集 2000 万欧元，旨在将所谓的仿星聚变反应堆的设计变为现实。 Proxima Fusion 首席执行官兼联合创始人 Francesco Sciortino 博士表示：“我们正在努力在 2031 年之前交付一个持续运行的净能源生产示范装置，并在 2030 年代中期建造一个同类发电厂。”通过电子邮件告诉TNW。就像更著名的托卡马克一样，仿星器使用巨型磁铁限制等离子体。但不是在内部产生电流…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/german-startup-max-planck-proxima-fusion-stellarator</guid>
+      <pubDate>Wed, 10 Apr 2024 11:56:17 GMT</pubDate>
+    </item>
     <item>
       <title>Meta人工智能负责人：法学硕士永远无法达到人类智力水平</title>
       <link>https://thenextweb.com/news/meta-yann-lecun-ai-behind-human-intelligence</link>
@@ -43,7 +50,7 @@
     <item>
       <title>芬兰初创公司将与欧空局合作发射“软件定义”卫星</title>
       <link>https://thenextweb.com/news/finnish-startup-reorbit-launch-software-defined-satellite-esa</link>
-      <description><![CDATA[赫尔辛基初创公司 ReOrbit 正在为首次演示做准备其“软件支持”卫星。这标志着欧洲航天局 UKKO 计划的下一阶段，该计划与 ReOrbit 合作开发和测试下一代地球观测卫星技术。 （有趣的事实：Ukko 是芬兰神话中的天空、天气、丰收和雷霆之神）。 ReOrbit 的第一颗在轨演示卫星计划于 2025 年第二季度发射。这将是对该初创公司航空电子设备和软件堆栈的一次关键测试，旨在创建太空物联网网络。 “我们的目标是实现下一代更加模块化、互连的……这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[赫尔辛基初创公司 ReOrbit 正在为首次演示做准备其“软件支持”卫星。这标志着欧洲航天局 UKKO 计划的下一阶段，该计划与 ReOrbit 合作开发和测试地球观测卫星的下一代技术。 （有趣的事实：Ukko 是芬兰神话中的天空、天气、丰收和雷霆之神）。 ReOrbit 的第一颗在轨演示卫星计划于 2025 年第二季度发射。这将是对该初创公司航空电子设备和软件堆栈的一次关键测试，旨在创建太空物联网网络。 “我们的目标是实现下一代更加模块化、互连的……这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/finnish-startup-reorbit-launch-software-defined-satellite-esa</guid>
       <pubDate>Tue, 09 Apr 2024 10:15:29 GMT</pubDate>
     </item>
@@ -57,23 +64,16 @@
     <item>
       <title>AI时代开发者还需要学习编程语言吗？</title>
       <link>https://thenextweb.com/news/developers-learn-programming-languages-age-of-ai</link>
-      <description><![CDATA[如果，作为一名软件开发人员，您想知道什么是最流行的或目前业界薪酬最高的编程语言，总是有源源不断的调查和报告让您知道。对于开发人员的职业建议通常会建议在工作中不断学习至关重要。但如果人工智能可以根据一些简单的提示生成代码，那么学习编程语言是否就变得多余了呢？当然，英伟达首席执行官黄仁勋相信，后代根本不需要学习编程语言。 “我们的工作是创造计算技术，让任何人都不需要编程…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[如果，作为一名软件开发人员，您想知道什么是最流行的或目前业界薪酬最高的编程语言，总是有源源不断的调查和报告让您知道。对于开发人员的职业建议通常会建议在工作中不断学习至关重要。但如果人工智能可以根据一些简单的提示生成代码，那么学习编程语言是否就变得多余了呢？当然，英伟达首席执行官黄仁勋相信，后代根本不需要学习编程语言。 “我们的工作是创造计算技术，让任何人都不必编程…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/developers-learn-programming-languages-age-of-ai</guid>
       <pubDate>Tue, 09 Apr 2024 06:36:24 GMT</pubDate>
     </item>
     <item>
       <title>中美芯片大战进一步让荷兰半导体巨头ASML陷入困境</title>
       <link>https://thenextweb.com/news/us-china-chip-war-dutch-semiconductor-giant-asml</link>
-      <description><![CDATA[美国施压阻止ASML为其出售给中国的芯片制造机器提供服务正在加剧荷兰卷入不断升级的技术霸主地位的地缘政治竞赛。拜登政府实施与中国明确的技术和经济脱钩战略，出台了一系列彻底的出口规则，旨在限制北京获得关键芯片技术。但作为全球唯一一家先进芯片设备制造商，ASLM也一直处于美国遏制中国半导体产业的中心。 ASML 的现有限制 限制这家总部位于 Veldhoven 的公司向中国销售其最先进的机器…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[美国施压阻止ASML为其出售给中国的芯片制造机器提供服务正在加剧荷兰卷入不断升级的技术霸主地位的地缘政治竞赛。拜登政府实施与中国明确的技术和经济脱钩战略，出台了一系列彻底的出口规则，旨在限制北京获得关键芯片技术。但作为全球唯一一家先进芯片设备制造商，ASLM也一直处于美国遏制中国半导体行业的中心。 ASML 的现有限制 限制这家总部位于 Veldhoven 的公司向中国销售其最先进的机器…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/us-china-chip-war-dutch-semiconductor-giant-asml</guid>
       <pubDate>Mon, 08 Apr 2024 15:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 的新 AI 工具可根据您要求的任何设置或感觉创建播放列表</title>
-      <link>https://thenextweb.com/news/spotifys-new-ai-tool-creates-playlists</link>
-      <description><![CDATA[Spotify 正在进一步利用人工智能来提升其服务，其新功能使用户使用文本提示创建播放列表。该功能被称为 AI Playlist，目前处于测试阶段，可在 Android 和 iOS 设备上供澳大利亚和英国的高级订阅者使用。有趣的是，新工具超越了基于流派或艺术家的标准播放列表创建请求。相反，提示可以包括活动、颜色、地点和表情符号。与此同时，用户可以发挥创意，提出个性化建议，“给他们的大脑一个温暖的拥抱”，或者让他们感觉自己像电影的主角…这个故事在 The Next Web 继续&lt; br /&gt;或者只是阅读有关以下内容的更多报道：Spotify]]></description>
-      <guid>https://thenextweb.com/news/spotifys-new-ai-tool-creates-playlists</guid>
-      <pubDate>Mon, 08 Apr 2024 12:36:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

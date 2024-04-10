@@ -4,13 +4,20 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 15:15:39 GMT</lastBuildDate>
     <item>
-      <title>为什么这么多年轻人患癌症？</title>
-      <link>https://www.vox.com/the-highlight/24093360/early-cancer-young-adults-colon-stomach-research</link>
-      <description><![CDATA[癌症曾经是老年人的疾病。不再。]]></description>
-      <guid>https://www.vox.com/the-highlight/24093360/early-cancer-young-adults-colon-stomach-research</guid>
-      <pubDate>Mon, 08 Apr 2024 18:15:00 GMT</pubDate>
+      <title>IMDb 评论称有史以来最糟糕的电影续集</title>
+      <link>https://rss.digg.com/data-viz/link/worst-movie-sequels-ranked-imdb-reviews</link>
+      <description><![CDATA[这项研究利用 IMDb 的数据，对有史以来最令人失望的后续电影进行了排名。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/worst-movie-sequels-ranked-imdb-reviews</guid>
+      <pubDate>Tue, 09 Apr 2024 09:42:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯蒂芬·科尔伯特嘲笑特朗普奇异的日食广告</title>
+      <link>https://rss.digg.com/digg-vids/link/trump-solar-eclipse-stephen-colbert-video</link>
+      <description><![CDATA[在周一的日食之前，这位前总统分享了一段他巨大的头遮住阳光的视频——科尔伯特亲自调整了广告的准确性。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/trump-solar-eclipse-stephen-colbert-video</guid>
+      <pubDate>Tue, 09 Apr 2024 09:25:11 GMT</pubDate>
     </item>
     <item>
       <title>你可能不知道自己面临着多大的危险</title>
@@ -27,16 +34,9 @@
       <pubDate>Mon, 08 Apr 2024 17:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲平均每小时工资（地图）</title>
-      <link>https://rss.digg.com/data-viz/link/average-wages-europe-salaries-mapped</link>
-      <description><![CDATA[平均而言，卢森堡工人的时薪是所有分析国家中最高的。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/average-wages-europe-salaries-mapped</guid>
-      <pubDate>Mon, 08 Apr 2024 13:25:47 GMT</pubDate>
-    </item>
-    <item>
       <title>这对夫妇互相画肖像——而丈夫的作品难以描述</title>
       <link>https://rss.digg.com/digg-vids/link/couple-painting-portraits-funny-video</link>
-      <description><![CDATA[这家伙对他妻子的描绘有很多创作自由。]]></description>
+      <description><![CDATA[这家伙在描绘他妻子的过程中发挥了很多创作自由。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/couple-painting-portraits-funny-video</guid>
       <pubDate>Mon, 08 Apr 2024 08:43:21 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>我的未婚夫因更换机油而结束了我们长达 8 年的关系，以及本周更多的艰难关系故事</title>
       <link>https://rss.digg.com/relationships/link/fiance-oil-change-mistake-jealous-bf-no-girls-in-college</link>
-      <description><![CDATA[一对新婚夫妇在与丈夫结婚一周后后悔不已，因为丈夫放弃了蜜月去钓鱼。]]></description>
+      <description><![CDATA[一位新婚夫妇在与丈夫结婚一周后后悔不已，因为丈夫放弃了蜜月去钓鱼。]]></description>
       <guid>https://rss.digg.com/relationships/link/fiance-oil-change-mistake-jealous-bf-no-girls-in-college</guid>
       <pubDate>Fri, 05 Apr 2024 19:10:59 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Mon, 01 Apr 2024 20:17:20 GMT</pubDate>
     </item>
     <item>
-      <title>播放“类型转换”</title>
-      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
-      <description><![CDATA[你的目标是把每一个字母都变得扎实。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
-      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
+      <title>播放“咒语塔”</title>
+      <link>https://rss.digg.com/puzzmo/link/spelltower</link>
+      <description><![CDATA[通过在网格上拖动、单独点击每个字母或在键盘上键入来选择单词。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/spelltower</guid>
+      <pubDate>Mon, 11 Dec 2023 20:07:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
