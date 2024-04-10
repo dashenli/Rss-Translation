@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 09 Apr 2024 21:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:55:54 GMT</lastBuildDate>
+    <item>
+      <title>报名截止日期临近：Dos Monos举办新专辑聆听会《ATOM ALONE》（每次仅限1人！）</title>
+      <link>https://wired.jp/article/dosmonos-atomalone/</link>
+      <description><![CDATA[《Dos Monos》第二季终于要开始了。新专辑《Dos Atomos》（预定5月发行）试听会将于4月19日至23日在Azabudai Hills举办。这是一个相当不寻常的想法，每次只允许一个人参与，但这肯定是一次特殊的体验。如果您想申请，请抓紧时间。]]></description>
+      <guid>https://wired.jp/article/dosmonos-atomalone/</guid>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>电影《无边泳池》提出的“是什么让人类成为人类（以及人类是否必要？）”的问题：专访导演布兰登·柯南伯格</title>
+      <link>https://wired.jp/article/infinity-pool-interview/</link>
+      <description><![CDATA[布兰登·柯南伯格期待已久的第三部长片《无边泳池》终于在日本上映。在美国，它由 NEON 发行并红极一时。布兰登的父亲是加拿大大师大卫·柯南伯格，他继承了父亲早期作品中的身体恐怖和赛博朋克元素，同时也确立了自己独特的电影制作人的地位，他已经证明了自己正在构建一个世界。电影记者龙田敦子攻击布兰登·柯南伯格。]]></description>
+      <guid>https://wired.jp/article/infinity-pool-interview/</guid>
+      <pubDate>Tue, 09 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>实现分布式AI超级计算机的“光”——初创公司“Lightmatter”的挑战</title>
+      <link>https://wired.jp/article/build-a-better-ai-supercomputer-let-there-be-light/</link>
+      <description><![CDATA[OpenAI 和其他人工智能公司的领导者认为，新的突破需要新形式的计算机硬件。在这种情况下，“利用光将GPU相互连接”的技术引起了人们的关注。]]></description>
+      <guid>https://wired.jp/article/build-a-better-ai-supercomputer-let-there-be-light/</guid>
+      <pubDate>Tue, 09 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>智能手机对儿童心理健康有何影响？从反对的主张可以看出什么</title>
       <link>https://wired.jp/article/pete-etchells-jonathan-haidt-smartphones/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Garmin发布的Forerunner 165和Forerunner 165 Music是优秀的健身追踪器，包括血氧追踪、气压高度计等，还可以检查跑步和睡眠数据。]]></description>
       <guid>https://wired.jp/article/garmin-forerunner-165-review/</guid>
       <pubDate>Sat, 06 Apr 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉将于八月推出“自动驾驶出租车”。埃隆·马斯克的“战略转变”意味着什么</title>
-      <link>https://wired.jp/article/tesla-going-all-in-on-robotaxis/</link>
-      <description><![CDATA[埃隆·马斯克宣布，特斯拉将专注于开发自动驾驶技术，并将于 2024 年 8 月推出自动驾驶出租车车队。低成本电动汽车项目很有可能被取消，但这种战略变化意味着什么？]]></description>
-      <guid>https://wired.jp/article/tesla-going-all-in-on-robotaxis/</guid>
-      <pubDate>Sat, 06 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2岁以下婴儿乘坐飞机需要系安全带吗？波音737 MAX事故再次引发争论</title>
-      <link>https://wired.jp/article/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/</link>
-      <description><![CDATA[在日本和美国，两岁以下的婴儿不需要在飞机上占据座位。专家表示，改变这一规定将提高发生事故时儿童的安全，但一些研究指出，这实际上可能会增加死亡人数。]]></description>
-      <guid>https://wired.jp/article/boeing-373-max-infant-child-safety-flying-airplane-seatbelt/</guid>
-      <pubDate>Sat, 06 Apr 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>经纪人透露杰弗里·爱泼斯坦臭名昭著的“恋童癖岛”游客的位置数据</title>
-      <link>https://wired.jp/article/jeffrey-epstein-island-visitors-data-broker-leak/</link>
-      <description><![CDATA[杰弗里·爱泼斯坦 (Jeffrey Epstein) 是一名被定罪的性犯罪者，于 2019 年死亡，同时面临性交易和共谋指控。 《连线》杂志的一项调查显示，一名数据经纪人正在收集有关他臭名昭著的岛屿的游客位置的信息。]]></description>
-      <guid>https://wired.jp/article/jeffrey-epstein-island-visitors-data-broker-leak/</guid>
-      <pubDate>Sat, 06 Apr 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
