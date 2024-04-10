@@ -4,155 +4,153 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:17:59 GMT</lastBuildDate>
     <item>
-      <title>Meta的新型AI芯片运行速度比以前更快</title>
-      <link>https://www.theverge.com/2024/4/10/24125924/meta-mtia-ai-chips-algorithm-training</link>
+      <title>亚马逊将停止向开发者支付 Alexa 技能的费用</title>
+      <link>https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills</link>
       <description><![CDATA[&lt;图&gt;
       
-插图由 Nick Barclay / The Verge 绘制
+摄影：Jennifer Pattison Tuohy / The Verge
 
-Meta 承诺其下一代定制 AI 芯片将更加强大，能够更快地训练其排名模型。 
-Meta 训练和推理加速器 (MTIA) 旨在与 Meta 的排名和推荐模型完美配合。这些芯片可以帮助提高训练效率，并使推理（即实际的推理任务）变得更容易。 
-该公司在一篇博客文章中表示，MTIA 是其长期计划的重要组成部分，该计划旨在围绕如何在其服务中使用人工智能来构建基础设施。它希望设计的芯片能够与其当前的技术基础设施和 GPU 的未来进步相配合。 
-“实现我们对定制芯片的雄心意味着不仅要投资计算芯片，还要投资内存带宽、网络和容量以及其他下一代硬件系统，”Meta 在其帖子中表示。 
-Meta 宣布推出 MTIA v1 2023 年 5 月，专注于向数据中心提供这些芯片。下一代 MTIA 芯片也可能瞄准数据中心。 MTIA v1 预计要到 2025 年才会发布，但 Meta 表示这两款 MTIA 芯片现已投入生产。 
-目前，MTIA 主要训练排名和推荐算法，但 Meta 表示，最终目标是扩展芯片的功能，开始训练生成式 AI，例如 Llama 语言模型。 
-Meta 表示，新的 MTIA 芯片“从根本上专注于提供计算、内存带宽和内存容量的适当平衡。”该芯片将拥有 256MB 片上内存，频率为 1.3GHz，而 v1 的片上内存为 128MB 和 800GHz。 Meta 的早期测试结果显示，在公司评估的四种型号中，新芯片的性能比第一代版本好三倍。 
-据报道，Meta 计划开发其他人工智能芯片。 Artemis 就是这样一个项目，这是一款专门为推理而设计的芯片。 
-随着人工智能的使用，对计算能力的需求不断增加，其他人工智能公司一直在考虑制造自己的芯片。 Google 于 2017 年发布了新款 TPU 芯片，而微软发布了 Maia 100 芯片。 亚马逊也有其Trainium 2 芯片，其训练基础模型的速度比之前的版本快四倍。 
-购买强大芯片的竞争凸显了需要定制芯片来运行人工智能模型。对芯片的需求增长如此之快，以至于目前在人工智能芯片市场占据主导地位的英伟达价值 2 万亿美元。 ]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24125924/meta-mtia-ai-chips-algorithm-training</guid>
-      <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
+亚马逊很快将停止向开发人员支付为 Alexa 创造技能的费用。在 发现了一个通知作者：彭博&lt; /em&gt;，亚马逊告诉开发者，它将在 2024 年 6 月 30 日之后结束每月付款。
+亚马逊于 2017 年开始向流行 Alexa 技能的开发人员付费。该公司均提供每月向 Amazon Web Services (AWS) 和付费开发人员提供 100 美元的赠金基于他们的技能的受欢迎程度。虽然许多开发者并没有从他们的技能中赚到任何钱，少数人报告每月收入数千美元——至少在该计划开始时是这样。
+然而，据彭博社报道，亚马逊在 2020 年开始削减向开发者支付的金额，因为这些技能并没有为亚马逊带来大量收入。 
+这两个支付程序的关闭与亚马逊围绕 Alexa 的更广泛削减是一致的。去年，亚马逊随着公司继续推进 计划用人工智能“增强”Alexa 的能力。亚马逊还推出了大型语言模型 (LLM) 工具，开发人员可以使用这些工具来开发 AI支持 Alexa 体验。
+亚马逊发言人 Lauren Raemhild 告诉 The Verge，该公司现在专注于这些使用法学硕士的新工具。 “这些是 2017 年推出的较旧项目，旨在帮助对培养技能感兴趣的新开发人员加快进度，”Raemhild 说。 “这些旧程序已经完蛋了，所以我们决定取消它们。”
+据 Raemhild 称，不到 1% 的 Alexa 开发者仍在使用这两种奖励计划。开发者仍然可以通过-技能购买，允许用户通过开发者的技能为内容付费，但它可能不会取代直接从亚马逊支付的每月付款。]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills</guid>
+      <pubDate>Wed, 10 Apr 2024 18:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>《X 战警 97》的作曲家必须改进该剧的声音以纪念其根源</title>
-      <link>https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel</guid>
-      <pubDate>Wed, 10 Apr 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款奢华手表的厚度与意大利面条一样细</title>
-      <link>https://www.theverge.com/2024/4/10/24126095/bulgari-thinnest-watch-octo-finissimo-ultra-cosc</link>
+      <title>Apple Watch 可能成为下一个出色的 Game Boy 模拟器</title>
+      <link>https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit</link>
       <description><![CDATA[&lt;图&gt;
       
-图片：宝格丽
+屏幕截图：Wes Davis / The Verge
 
-意大利奢侈品牌宝格丽再次打破了世界最薄机械腕表的记录。其新的 宝格丽 Octo Finissimo Ultra COSC 腕表厚度仅为 1.7 毫米 - 与您的 典型的意大利面条，据报道之前由 Dezeen 编写。
-宝格丽长期以来一直保持着世界最薄腕表的记录，但在 2022 年发布Richard Mille 的 1.75 毫米 RM UP-01 法拉利腕表。其成果就是宝格丽 Octo Finissimo Ultra COSC，它配备了“优化的”40 毫米表壳，“比硬币还薄”。宝格丽设法将所有 170 个为可穿戴设备提供动力的组件安装在其表壳内，其中一些组件您可以在镂空表盘上看到。
+巧合的是，就在我熬夜玩恶魔城：悲伤咏叹调的几天后，该游戏的视频显然是在Apple Watch Ultra上玩的&lt; a href=&quot;https://wccftech.com/a-reddit-user-is-running-game-boy-advance-games-on-an-apple-watch-ultra-running-android/&quot;&gt;出现在我的屏幕上。我现在完全相信 Apple Watch 上的模拟器将是一种很好的游戏方式。
+遗憾的是，据我所知，App Store 上还没有 Apple Watch 模拟器——至少目前为止是这样。发布该视频的 Reddit 用户 R3V3RB_7 表示，该视频实际上显示了 一款运行 Android 的 35 美元 Apple Watch 仿制品，长期以来，Android 一直是智能手机（现在是智能手表）仿真的事实上的家园。
 
-宝格丽使用碳化钨作为手表的主板（手表的一部分，作为所有运动部件的基础），并使用钛金属作为表链、表耳和表圈。与宝格丽之前的纪录保持者不同，这款腕表是经过认证的天文台表。该认证由瑞士官方天文台（COSC）授予，表明该腕表经过了广泛的测试，以确保其走时准确。
 
-腕表背面刻有“datamatrix”字样，宝格丽董事总经理Antoine Pin 表示，它提供了“手表的数字体验”。它还允许所有者访问“有关产品的所有信息”，包括保修和用户手册。他没有具体说明此代码是否会将您链接到类似 宝格丽之前的超薄手表，不过。
-Octo Finissimo Ultra COSC 售价 590,000 美元。腕表仅生产 20 款，每款均配有可自动设置和上链腕表的表壳。我想我会推迟，直到宝格丽让这款手表像我的天使发意大利面一样薄。]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24126095/bulgari-thinnest-watch-octo-finissimo-ultra-cosc</guid>
-      <pubDate>Wed, 10 Apr 2024 14:15:29 GMT</pubDate>
+
+但是，自从苹果上周做出了令人惊讶的决定允许在全球 App Store 上使用模拟器。 应用程序审核指南没有指定针对任何一种操作系统的更改，因此理论上，开发人员可以提交模拟器平台。
+也许这看起来不切实际，但谁不喜欢微小 游戏 &lt; href=&quot;https://www.theverge.com/21519010/sega-game-gear-micro-review&quot;&gt;硬件？我很高兴能够将一个小屏幕绑在控制器上并在上面玩我最喜欢的横向卷轴冒险游戏。我们有理由认为这可能比在 iPhone 等设备上玩游戏更好。一方面，它很轻量级，而且您不需要花钱 在专用控制器上或处理尴尬的夹式手机支架。 
+当然，屏幕很小。即使它与真正的 Ultra 尺寸相匹配，它仍然比任天堂 2005 年微型手持设备 Game Boy Micro。但 Game Boy 游戏在小屏幕上看起来更好。我可能不会特意购买山寨 Apple Watch 来实现此目的，但我会在 Series 9 上下载 Game Boy 模拟器吗？是的，你敢打赌。
+这比在智能手表上玩《原神》更有意义，R3V3RB_7 似乎也做到了，并且取得了非常不错的结果：
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit</guid>
+      <pubDate>Wed, 10 Apr 2024 17:53:17 GMT</pubDate>
     </item>
     <item>
-      <title>这是新的 Sonos 应用程序，将于 5 月 7 日推出</title>
-      <link>https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features</link>
+      <title>众议院将就扩大无证窃听权限进行投票</title>
+      <link>https://www.theverge.com/2024/4/10/24126247/house-vote-fisa-section-702-reauthorization</link>
       <description><![CDATA[&lt;图&gt;
       
-插图：The Verge
+插图由 Alex Castro / The Verge 绘制
 
-据 The Verge 报道，Sonos 将于 5 月 7 日发布针对 Android 和 iOS 的移动应用程序的重大更新。根据熟悉该公司计划的人士提供的屏幕截图，该应用程序正在重新粉刷。 Sonos 还致力于简化产品设置并增强众多扬声器之间的连接性。与往常一样，如果公司在最后一刻遇到任何问题，具体发布日期可能会发生变化。
-改进后的应用程序将作为 Sonos S2 应用程序的更新推出，该公司于 2020 年发布，当时它剥离了一些最古老的产品，并将它们留在了旧的 S1 平台上。 
-它改变了当前的 S2 应用程序设计，放弃了底部导航选项卡并将所有内容放在一个中央主屏幕上。 Sonos 还添加了一些提高生活质量的功能，例如应用程序底部的持久搜索栏，可让用户快速查找音乐。现在可以从“正在播放”屏幕直接访问随机播放和重复按钮。无论您在应用程序中的哪个位置，都可以通过迷你播放器调整音量滑块。
-
-
-应用程序底部不再有选项卡。
-
-主屏幕也变得更加可定制，具有可滚动的播放列表和音乐服务轮播。用户将能够根据自己的需要重新排序，并将自己喜欢的播放列表直接放在主屏幕上。扬声器和条形音箱设置可通过“您的系统”部分进行访问。该应用程序的图标将从棕褐色背景切换为黑色，并带有白色文本的公司徽标。 
-Sonos 的应用经常受到一些客户的批评，尽管目前它在 App Store 上的平均评价为 4.4 星，在 Google Play 上的平均评价为 3.9 星。 
-
-彭博社之前曾报道过改进后的应用程序，其代号为 Passport。新软件将成为 Sonos 首款无线耳机的前身，预计零售价为 449 美元，并将与苹果、索尼、森海塞尔和其他品牌的高端型号竞争。 
-
-Sonos 耳机的主要卖点是与公司扬声器生态系统的深度集成。例如，Sonos soundbar 的用户将能够通过耳机无线收听电视音频。首席执行官 Patrick Spence 预计这款耳机将成为 Sonos 的下一个热门产品。 
-去年该公司推出了大量新硬件产品，包括时代 300、时代 100和 Move 2 蓝牙扬声器。但到目前为止，2024 年对 Sonos 来说相对平静。在经过多年的传闻之后，当耳机最终首次亮相时，这种情况将在未来几个月内发生变化。]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features</guid>
-      <pubDate>Wed, 10 Apr 2024 13:30:04 GMT</pubDate>
+众议院很快将在一项有争议的监视计划九天 到期之前就该计划的重新授权进行投票。将于 4 月 19 日到期的《外国情报监视法》第 702 条允许美国情报机构在没有搜查令的情况下监视外国通信——有时也会诱捕美国公民。
+之前有关 FISA 重新授权的谈判非常激烈，以至于众议院议长迈克·约翰逊 (Mike Johnson) 在 2 月份撤回了该法案的审议。争议的焦点在于旨在保护美国人隐私的条款：其中一项禁止数据经纪人向执法部门出售消费者数据，另一项则要求获得搜查令来搜查美国人的数据。这些修正案不在最新版本的法案中，于 4 月 5 日发布。尽管如此，众议院规则委员会周二推进了该法案。众议院多数党党鞭汤姆·埃默（明尼苏达州共和党）告诉Politico该法案将于周四进行投票。 
+每CQ点名，约翰逊在给同事的一封信中赞扬了最新版本的法案，称其中包含数十项“具体改革”，包括限制联邦调查局的新程序以及“在整个领域建立前所未有的透明度”。 FISA 流程。” 
+“如果我们的法案失败，我们将面临一个不可能的选择，并且可以预期参议院会以完全不包括任何改革的干净延期来干扰我们，”约翰逊写道。 “这显然是一个不可接受的选择。”
+其他立法者反驳了第 702 条是无证监视计划的观点。该机构允许情报机构在没有授权的情况下监视外国通信，这意味着任何与情报目标通信的美国人的通信最终也可能受到监视。 
+“如果您是美国人并且与 ISIS 通信，是的，如果我们监视 ISIS，您的通信将会被捕获，”众议员 Michael Turner（R-OH） ），情报委员会主席在CNN 采访。 “你会希望我们这样做。所有美国人都希望我们努力确保自己的安全。”
+目前尚不清楚约翰逊是否能够让党内其他成员就范。极端保守的自由核心小组的一些成员与自由主义者和进步民主党人一起倡导外国情报监视法案改革。前总统唐纳德·特朗普也介入了这场辩论。 “杀死国际情报安全局。它被非法用于针对我和其他许多人。他们监视我的竞选活动！！！”特朗普在 Truth Social 上发帖。 
+当二月份重新授权进行投票时，一些众议院共和党人称隐私修正案是不容谈判的。 “我们必须做出这些修正案，”众议院司法委员会主席、众议员吉姆·乔丹 (R-OH) 二月份告诉Politico。 “就像，我们不可能不拥有它们。”
+第 702 条上次更新是在 2018 年。
+美国东部时间 4 月 10 日下午 2:08 更正：由于编辑错误，本文在该法案最终投票之前发布会议呼吁就第 702 条更新法案的辩论开绿灯。文章的前一版本表示“众议院周三批准了该法案的辩论。”]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126247/house-vote-fisa-section-702-reauthorization</guid>
+      <pubDate>Wed, 10 Apr 2024 17:48:21 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 macOS 上查找任何文件</title>
-      <link>https://www.theverge.com/24126104/macos-apple-file-find-how-to</link>
+      <title>第一款已确认的 Playtron 游戏手持设备直接针对加密货币兄弟</title>
+      <link>https://www.theverge.com/2024/4/10/24126368/playtron-mysten-labs-suiplay-0x1-gaming-handheld</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24126104/macos-apple-file-find-how-to</guid>
-      <pubDate>Wed, 10 Apr 2024 13:11:43 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/4/10/24126368/playtron-mysten-labs-suiplay-0x1-gaming-handheld</guid>
+      <pubDate>Wed, 10 Apr 2024 17:47:02 GMT</pubDate>
     </item>
     <item>
-      <title>Roku Pro系列电视价格低廉、120Hz屏幕、创意巧妙</title>
-      <link>https://www.theverge.com/2024/4/10/24125460/roku-pro-series-tvs-now-available-features-price</link>
+      <title>一项新法案希望揭示人工智能训练数据的真实内容</title>
+      <link>https://www.theverge.com/2024/4/10/24126382/copyright-ai-bill-congress-schiff-training-data</link>
       <description><![CDATA[&lt;图&gt;
       
-图片：Roku
+插图：Cath Virginia / The Verge |照片：盖蒂图片社
 
-Roku“宣布”其 Pro-tier 系列电视 回到 CES，但当时几乎没有提供任何细节。但现在，我们已经坚定地进入了 2024 年电视开始实际发货的季节，因此今天，该公司将更多地分享这些型号与去年发布的自有品牌廉价电视的区别，以及其他制造商提供的许多 Roku 电视。 
-与 Roku 的其他产品一样，其吸引力都归结为简单性和易用性。这些电视将根据正在显示的内容自动调整和优化不同场景的画面（和亮度）。 Roku 将其版本称为“Smart Picture Max”，并表示其图像质量工程师非常注重性能。作为即将推出的操作系统更新的一部分，一个不太先进的版本 Roku Smart Picture 将出现在所有 Roku 电视（包括其他公司的电视）上。
-
-
-图片：Roku
-现在每台电视都做艺术，你没听到吗？
-
-我们已经知道 Roku Pro 系列将使用 Mini LED 面板，但现在该公司已确认它们将采用 120Hz 刷新率，以实现流畅的游戏体验。 Roku 还勾选了 AMD FreeSync Premium Pro、自动低延迟模式 (ALLM) 和 VRR 支持。他们还配备 Wi-Fi 6 以实现流畅的流媒体播放。至于 HDR，您将获得杜比视界 IQ 和 HDR10 Plus。
-
-Roku 还利用三星 Frame TV 的成功，推出了一项名为 Backdrops 的新功能。您可以从各种艺术作品中进行选择——“包括著名的经典作品、博物馆收藏、抽象设计等等”——在电视闲置时显示在电视上。至少目前，Backdrops 不需要任何费用，但在一次媒体吹风会上，该公司的高管暗示，随着时间的推移，他们可能会成为另一个货币化来源。 （三星对其 The Frame 上的艺术商店收取订阅费用。）
-Pro 系列电视将配备 Roku 的第二代 Voice Remote Pro，它现在具有背光按钮和可充电电池（支持 USB-C 充电），同时保留了自定义快捷按钮。这些电视配有侧向扬声器，并支持杜比全景声（Dolby Atmos），“提供宽广的电影音效”。 
-
- 
-
-图片：Roku
-遥控器现在具有动作激活背光按钮。
-
-
- 
-
-图片：Roku
-如果你丢失了它，电视上有一个按钮可以找到它。
-
-
-
-Roku 还在电视中加入了一些深思熟虑的元素。侧面有一个远程定位器按钮（形状像 Roku 遥控器），该公司将出售可选的 99.99 美元的超薄壁挂支架，该支架配有铰链和支架，让您的生活更轻松有时需要访问这些 HDMI 端口或其他硬件组件。 
-Roku Pro 系列电视即日起上市，有 55 英寸、65 英寸和 75 英寸尺寸，价格从 899.99 美元到 1,699.99 美元不等。显然，这些价格明显高于该公司之前的产品，但对于 Mini LED 产品来说，它们的定价仍然有些激进。您可以在亚马逊、百思买和沃尔玛订购。请继续关注未来几周的评测，看看 Roku 与海信、TCL 以及其他多年来一直推出令人印象深刻的 Mini LED 电视的公司相比如何。 ]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24125460/roku-pro-series-tvs-now-available-features-price</guid>
-      <pubDate>Wed, 10 Apr 2024 13:00:00 GMT</pubDate>
+一项新法案将迫使科技公司披露用于训练其人工智能模型的任何受版权保护的材料。
+众议员 Adam Schiff 提出的生成式 AI 版权披露法案 ( D-CA）将要求任何为人工智能制作训练数据集的人向版权登记处提交有关其内容的报告。报告应包含数据集中受版权保护的材料的详细摘要以及数据集的 URL（如果可公开获取）。此要求将扩展到对数据集所做的任何更改。
+公司必须在使用训练数据集的人工智能模型向公众发布之前“不迟于 30 天”提交报告。该法案不会追溯现有的人工智能平台，除非在其成为法律后对其训练数据集进行更改。 
+Schiff 的法案解决了自生成式 AI 兴起以来艺术家、作家和其他创作者一直抱怨的一个问题：AI 模型经常在未经许可的情况下使用受版权保护的材料进行训练。版权和人工智能一直很难导航，尤其是当问题出现时人工智能模型改变或模仿受保护内容的程度尚未确定。艺术家和作家诉诸诉讼 维护自己的权利。 
+AI 模型的开发人员声称他们的模型是根据公开数据进行训练的，但信息量巨大意味着他们不知道具体哪些数据受版权保护。 公司表示 任何受版权保护的材料均属于合理使用范围。与此同时，其中许多公司已开始为部分客户提供法律保障 如果他们发现自己因侵犯版权而被起诉。 
+希夫的法案获得了美国作家协会 (WGA)、美国唱片工业协会 (RIAA)、美国导演协会 (DGA)、美国演员协会等行业团体的支持电视和广播艺术家联合会 (SAG-AFTRA) 和作家协会。值得注意的是，美国电影协会 (MPA) 并未出现在支持者名单中，该协会通常支持 保护受版权保护的作品免遭盗版。 （披露：The Verge 的编辑人员与美国东部作家协会结成了工会。）
+其他团体也在寻求提高训练数据集的透明度。 Fairly Training 想要添加标签 人工智能模型，如果他们证明他们请求使用受版权保护的数据的许可。]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126382/copyright-ai-bill-congress-schiff-training-data</guid>
+      <pubDate>Wed, 10 Apr 2024 17:35:29 GMT</pubDate>
     </item>
     <item>
-      <title>我仍在尝试生成一个人工智能亚洲男人和白人女人</title>
-      <link>https://www.theverge.com/2024/4/10/24122072/ai-generated-asian-man-white-woman-couple-gemini-dalle-midjourney-tests</link>
+      <title>罗技出色的有线游戏鼠标今日降至 36 美元</title>
+      <link>https://www.theverge.com/2024/4/10/24126107/logitechs-g502-hero-hori-split-pad-compact-kasa-smart-plug-deal-sale</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24122072/ai-generated-asian-man-white-woman-couple-gemini-dalle-midjourney-tests</guid>
-      <pubDate>Wed, 10 Apr 2024 12:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/4/10/24126107/logitechs-g502-hero-hori-split-pad-compact-kasa-smart-plug-deal-sale</guid>
+      <pubDate>Wed, 10 Apr 2024 17:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>我后悔买了火爆的 TikTok 护肤棒</title>
-      <link>https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand</guid>
-      <pubDate>Wed, 10 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软在最新的安全错误中暴露了内部密码</title>
-      <link>https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity</link>
+      <title>福特野马 Mach-E 续航里程更远、充电更快、加速更快</title>
+      <link>https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging</link>
       <description><![CDATA[&lt;图&gt;
       
-        &lt;图标题&gt;Cath Virginia / The Verge |照片来自盖蒂图片社
+图片：福特
 
-据报道，微软上个月锁定了一台服务器，该服务器将微软员工的密码、密钥和凭证暴露给开放互联网，因为该公司面临着加强软件安全的越来越大的压力。 
-根据Techcrunch&lt; /em&gt;，SOCRadar（一家专门检测企业网络安全漏洞的公司）的三名安全研究人员发现，存储链接到 Microsoft Bing 搜索引擎的敏感数据的 Azure 托管服务器处于打开状态，没有密码保护，这意味着它可以任何人都可以在线访问。该服务器包含 Microsoft 员工用于访问内部系统的各种安全凭据，这些凭据位于各种脚本、代码和配置文件中。
-暴露的凭据“可能会导致更严重的数据泄露，并可能危及正在使用的服务。”
-研究人员之一 Can Yoleri 告诉 Techcrunch，黑客可能会利用这些暴露的数据来查找和访问 Microsoft 存储内部数据的其他区域，这“可能会导致更严重的数据泄露并可能危及正在使用的服务。”
-Microsoft 于 2 月 6 日收到有关该漏洞的通知，并于 3 月 5 日锁定该漏洞。目前尚不清楚在此期间是否有其他人访问过暴露的服务器。我们已联系微软征求意见，如果收到回复，我们将更新此报道。
-Microsoft 近年来面临多次网络安全事故，目前正在处理彻底改革其安全实践。本月早些时候，来自美国网络公司的评论安全审查委员会表示，微软本可以阻止其 Exchange Online 软件出现漏洞，该漏洞允许 中国黑客将在 2023 年访问美国政府电子邮件系统，指责这家科技巨头发展了一种“不重视企业安全投资和严格风险管理的企业文化”。 2022 年的另一起事件是  上传了 Microsoft 系统的敏感登录凭据GitHub 上有自己的员工。]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity</guid>
-      <pubDate>Wed, 10 Apr 2024 10:45:21 GMT</pubDate>
+福特推出了 2024 款野马 Mach-E，与过去的车型相比，续航里程更远、充电更快、加速更快。 
+福特是美国第二大电动汽车销售商，但在总销量方面仍远远落后于特斯拉。这家埃隆·马斯克 (Elon Musk) 经营的公司在美国的市场份额逐季下滑，但仍占据超过 50% 的电动汽车市场份额。因此，福特正在调整其旗舰电动汽车，以期提高其市场地位。 
+2024 Mach-E 现在将比以前的型号行驶约 10-20 英里 
+福特表示，2024 年款 Mach-E 现在将比之前的车型行驶约 10-20 英里。具有扩展电池续航里程的后轮驱动电机配置现在拥有 EPA 估计的总续航里程 320 英里，而标准电池版本将获得 250 英里的续航里程。福特将 2024 款野马 Mach-E GT 的续航里程列为 280 英里。 
+此外，它可以在 3.3 秒内从零加速到 60 英里/小时，福特称这比特斯拉 Model Y 和保时捷 Macan 4 Electric 都快，并且可以在 11.8 秒内冲刺四分之一英里。 114英里/小时。性能升级在 Mach-E GT 但新特别版的标准配置 电动 SUV 的拉力版。 
+插入直流快速充电器时，使用增程电池，2024 Mach-E 可以在 36.2 分钟内将电量从 10% 充电到 80%，比之前的型号快 8.8 分钟。
+今年早些时候，福特大幅削减 Mach-E 的价格，主要是为了回应 特斯拉降价。降价也反映了新的现实，即电动汽车销量没有增长。与前几年一样快，因为越来越多的客户寻求合适的价格，并且有更多证据表明充电基础设施将可靠地工作。
+福特还有撤回部分电动汽车投资和推迟了某些车型，因为它寻求扩大其混合动力产品。 ]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging</guid>
+      <pubDate>Wed, 10 Apr 2024 16:43:22 GMT</pubDate>
     </item>
     <item>
-      <title>消费者最终将看到大多数宽带计划都带有 FCC 规定的“营养标签”</title>
-      <link>https://www.theverge.com/2024/4/10/24125572/fcc-broadband-nutrition-labels-isp-deadline-today</link>
+      <title>Microsoft Build 将详细介绍 Arm 上的“下一代”Windows 和新的 AI 功能</title>
+      <link>https://www.theverge.com/2024/4/10/24126276/microsoft-windows-on-arm-next-generation-ai-features-build-event</link>
+      <description><![CDATA[&lt;图&gt;
+      
+微软的 Surface Pro X。 |摄影：Amelia Holowaty Krales / The Verge
+
+微软年度开发者大会 Microsoft Build 今年将重点关注 Windows on Arm 和新的 Windows AI 功能。 边缘 本周早些时候透露，一个特殊的 Microsoft Build 前一天的 Surface 和 AI 活动将重点关注通过全新 Arm 驱动的 Surface 设备和全新的 Windows AI 功能击败苹果 M3 驱动的 MacBook Air。现在，微软几乎证实了这一点。
+微软列出了今天的 Build 开发者会议，其中两场提到“ARM 上的下一代 Windows”和“全新的 Windows AI 功能。”下一代 Windows on Arm 会议将包括有关应用程序“行业领先性能”的详细信息，这可能是对微软在 CPU 性能和应用程序仿真方面击败苹果 M3 芯片的雄心的认可。
+同一场会议还将详细介绍“今年 Arm 驱动的 Windows 的新体验，例如利用 NPU 丰富功能的智能 Windows 应用程序”。这可能包括更多的 Windows AI 功能，这在另一个构建会议中有所暗示。微软在 Build 会议说明中表示：“我们展示了全新的功能，允许用户通过先进的人工智能功能与 Windows 上的数字生活进行更深入的交互。”
+这听起来很像传闻中的 Windows 11 中的 AI Explorer 功能，该功能旨在作为您可以在 PC 上调用的时间线。微软内部将此描述为一项功能，可让您“检索您在设备上见过或做过的任何事情。”
+其他 Microsoft Build 会议重点关注构建 Copilots，甚至是 AI 驱动的助手的插件。微软还将详细介绍带来 Windows 终端、开发人员主页&lt; /a&gt;、PowerToys 和 适用于 Linux 的 Windows 子系统走向生活。]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126276/microsoft-windows-on-arm-next-generation-ai-features-build-event</guid>
+      <pubDate>Wed, 10 Apr 2024 16:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>德克萨斯州正在用人工智能取代数千名人类考试评分员</title>
+      <link>https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine</link>
+      <description><![CDATA[&lt;图&gt;
+      
+TEA 预计通过使用其新的“自动评分引擎”每年节省 15 至 2000 万美元。 |图片：The Verge
+
+德克萨斯州本周参加州规定考试的学生被用作新的人工智能评分系统的小白鼠，该系统将取代该地区大多数人类评分者。
+德克萨斯论坛报&lt; /em&gt; 报道 德克萨斯州教育局 (TEA) 正在推出一种利用自然语言处理的“自动评分引擎”，该技术使 OpenAI 的 ChatGPT 等聊天机器人能够理解用户并与用户进行交流。 - 结束了有关德克萨斯州学术准备评估 (STAAR) 考试的问题。该机构预计，通过减少对临时人类评分员的需求，该系统每年可节省 15-2000 万美元，并计划今年雇用 2,000 名评分员，而 2023 年所需人数为 6,000 名。
+“我们希望保留尽可能多的构建的开放式响应，但它们需要的数量令人难以置信得分时间。”
+STAAR 考试用于测试三年级至八年级学生对核心课程的理解程度，去年进行了重新设计，减少了多项选择题的数量。现在，它包含的开放式问题增加了七倍，TEA 学生评估主任 Jose Rios 表示，该机构“希望保留尽可能多的构建开放式回答，但它们需要花费令人难以置信的时间才能评分。 ”
+根据 TEA 网站，新的评分系统使用 3,000 份已接受两轮人工评分的考试答案进行训练。一些安全网也已经实施——例如，所有计算机评分结果的四分之一将由人类重新评分，混淆人工智能系统的答案也将由人类重新评分（包括使用俚语或非英语回答）。
+虽然 TEA 乐观地认为人工智能将使其能够节省大量现金，但一些教育工作者并不那么热衷于看到它的实施。路易斯维尔独立学区负责人洛里·拉普 (Lori Rapp) 表示，2023 年 12 月，当自动评分系统有限使用时，该学区获得零分的构建答案“急剧增加”。“目前，我们无法确定是否存在是测试问题出了问题，还是新的自动评分系统出了问题。”拉普说。
+人工智能论文评分引擎并不是什么新鲜事。 来自主板的 2019 年报告  发现它们至少在 21 个州得到了不同程度的成功使用，尽管 TEA 似乎决心避免同样的声誉。 TEA 幻灯片上的小字还强调，其新的评分引擎是一个封闭的系统，本质上与人工智能不同，因为“人工智能是一台使用渐进式学习算法来适应的计算机，允许数据进行编程，本质上是自学。” 
+尝试在两者之间划清界限并不奇怪 - 没有教师短缺 教师 网上对生成式人工智能服务如何被用来作弊作业和作业感到绝望。按照这个新评分系统评分的学生可能很难接受他们认为“规则是为你而不是为我”在这里应用的。]]></description>
+      <guid>https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine</guid>
+      <pubDate>Wed, 10 Apr 2024 15:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网档案馆现保存阿鲁巴岛的历史</title>
+      <link>https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/4/10/24125572/fcc-broadband-nutrition-labels-isp-deadline-today</guid>
-      <pubDate>Wed, 10 Apr 2024 09:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation</guid>
+      <pubDate>Wed, 10 Apr 2024 15:30:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

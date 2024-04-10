@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:17:06 GMT</lastBuildDate>
+    <item>
+      <title>拜登正在接待日本的岸田。但新日铁交易并未提上议程</title>
+      <link>https://npr.org/2024/04/10/1243865587/biden-japan-kishida-state-dinner-steel-china</link>
+      <description><![CDATA[拜登总统和日本首相岸田文雄将宣布加强军事关系的努力，以及在太空探索和人工智能方面的合作。]]></description>
+      <guid>https://npr.org/2024/04/10/1243865587/biden-japan-kishida-state-dinner-steel-china</guid>
+      <pubDate>Wed, 10 Apr 2024 15:27:58 GMT</pubDate>
+    </item>
     <item>
       <title>乍一看汗尤尼斯，一座现已成为废墟的加沙城市</title>
       <link>https://npr.org/2024/04/10/1243605152/khan-younis-gaza-residents-return-israel-hamas-war</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[PFAS 化学品几十年来一直用于防水和防污的消费品，并与健康问题有关。]]></description>
       <guid>https://npr.org/sections/health-shots/2024/04/10/1243775736/epa-pfas-forever-chemicals-drinking-water-limits</guid>
       <pubDate>Wed, 10 Apr 2024 09:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府宣布了辨别真实声音和深度伪造音频竞赛的获胜者</title>
-      <link>https://npr.org/2024/04/10/1243772203/deepfake-audio-testing-contest-winners</link>
-      <description><![CDATA[四家组织因其工具帮助区分真实音频片段和深度赝品而赢得了 FTC 竞赛。获胜者的方法阐明了人工智能音频深度伪造所带来的挑战。]]></description>
-      <guid>https://npr.org/2024/04/10/1243772203/deepfake-audio-testing-contest-winners</guid>
-      <pubDate>Wed, 10 Apr 2024 09:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
