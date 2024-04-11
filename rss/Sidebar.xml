@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 15:17:54 GMT</lastBuildDate>
+    <item>
+      <title>Vercel 的设计工程：我们做什么以及如何做</title>
+      <link>https://vercel.com/blog/design-engineering-at-vercel</link>
+      <description><![CDATA[设计工程师将审美敏感性与技术技能融为一体。
+]]></description>
+      <guid>https://vercel.com/blog/design-engineering-at-vercel</guid>
+      <pubDate>Thu, 11 Apr 2024 11:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>气候图不太好</title>
+      <link>https://www.splinter.com/the-climate-charts-are-not-okay</link>
+      <description><![CDATA[图表看起来不对。这看起来像是一个恶意错误，或者像是两个独立的图表以某种邪恶的方式组合在一起。
+]]></description>
+      <guid>https://www.splinter.com/the-climate-charts-are-not-okay</guid>
+      <pubDate>Thu, 11 Apr 2024 11:29:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何仅使用 HTML 和 CSS 构建 Wordle？</title>
+      <link>https://scottjehl.com/posts/wordleish/</link>
+      <description><![CDATA[一个有趣的小表单验证和 CSS 选择器实验。
+]]></description>
+      <guid>https://scottjehl.com/posts/wordleish/</guid>
+      <pubDate>Thu, 11 Apr 2024 11:23:50 GMT</pubDate>
+    </item>
     <item>
       <title>使用 CSS 锚点定位绘制一条线来连接元素</title>
       <link>https://frontendmasters.com/blog/drawing-a-line-to-connect-elements-with-css-anchor-positioning/</link>
@@ -40,7 +64,7 @@
     <item>
       <title>分层切换：可选的 CSS Mixins</title>
       <link>https://kizu.dev/layered-toggles/</link>
-      <description><![CDATA[在本文中，我将分享太空和太空的下一次演变。循环切换，它允许我们在 CSS 中创建和应用可选的 mixins。
+      <description><![CDATA[在本文中，我将分享太空和太空的下一次演变。循环切换，它允许我们在 CSS 中创建和应用可选的 mixin。
 ]]></description>
       <guid>https://kizu.dev/layered-toggles/</guid>
       <pubDate>Wed, 10 Apr 2024 11:10:48 GMT</pubDate>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://uxdesign.cc/rethinking-personas-empathy-and-inclusion-in-ux-design-37145d2ee807</guid>
       <pubDate>Tue, 09 Apr 2024 02:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析经典赛车游戏中的 UX 和 UI 决策</title>
-      <link>https://uxdesign.cc/ui-breakdown-ridge-racer-type-4-3df11df52aa6</link>
-      <description><![CDATA[《Ridge Racer Type 4》的 UI/UX 是游戏设计的经典之作。
-]]></description>
-      <guid>https://uxdesign.cc/ui-breakdown-ridge-racer-type-4-3df11df52aa6</guid>
-      <pubDate>Mon, 08 Apr 2024 11:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>驯服 Shadow DOM：使用采用的样式表注入全局样式</title>
-      <link>https://southleft.com/insights/development/adopted-stylesheets/</link>
-      <description><![CDATA[了解如何利用所采用的样式表的力量来弥合 Web 组件的 Shadow DOM 和全局样式之间的差距。
-]]></description>
-      <guid>https://southleft.com/insights/development/adopted-stylesheets/</guid>
-      <pubDate>Mon, 08 Apr 2024 11:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 驱动的编辑器</title>
-      <link>https://imperavi.com/redactor/?utm_source=sidebar</link>
-      <description><![CDATA[超现代的人工智能编辑器，具有强大的 API 功能、广泛的设置、优秀的文档和大量的集成示例。
-]]></description>
-      <guid>https://imperavi.com/redactor/?utm_source=sidebar</guid>
-      <pubDate>Mon, 08 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
