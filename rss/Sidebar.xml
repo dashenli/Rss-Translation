@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 21:15:23 GMT</lastBuildDate>
     <item>
       <title>Vercel 的设计工程：我们做什么以及如何做</title>
       <link>https://vercel.com/blog/design-engineering-at-vercel</link>
@@ -64,7 +64,7 @@
     <item>
       <title>分层切换：可选的 CSS Mixins</title>
       <link>https://kizu.dev/layered-toggles/</link>
-      <description><![CDATA[在本文中，我将分享太空和太空的下一次演变。循环切换，它允许我们在 CSS 中创建和应用可选的 mixin。
+      <description><![CDATA[在本文中，我将分享太空和太空的下一次演变。循环切换，它允许我们在 CSS 中创建和应用可选的 mixins。
 ]]></description>
       <guid>https://kizu.dev/layered-toggles/</guid>
       <pubDate>Wed, 10 Apr 2024 11:10:48 GMT</pubDate>
