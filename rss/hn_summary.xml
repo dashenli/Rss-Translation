@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 18:14:52 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 厌倦了正则表达式的编写？</title>
-      <link>https://t.me/hn_summary/84009</link>
-      <description><![CDATA[显示 HN：Rgx.tools – 使用 GPT 从文本生成正则表达式&lt; /a&gt;
-厌倦了编写正则表达式吗？ Rgx.tools 就是您的最佳选择！这个创新工具使用人工智能根据您的输入生成干净、可读且高效的正则表达式。只需描述您需要提取的内容即可让奇迹发生。告别手动编写正则表达式的痛苦，让人工智能为您处理。使用 Rgx.tools，正则表达式从未如此简单。立即在 rgx.tools 上查看。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/84009</guid>
-      <pubDate>Thu, 11 Apr 2024 12:19:11 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，作者回应了 Norm Walsh 关于缓存的想法，强调 [...]</title>
+      <link>https://t.me/hn_summary/84064</link>
+      <description><![CDATA[缓存通常就足够了 (2003)
+在这篇文章中，作者回应了 Norm Walsh 关于缓存的想法，强调了区分特定产品和缓存技术的重要性。作者反驳了缓存无法填充的说法，并讨论了在缓存中“固定”表示的能力。他们还提到了基于规则集覆盖资源表示和映射 URI 的能力。作者承认当前缓存实现的局限性，但看到了功能和粒度改进的潜力。他们表示有兴趣听取其他人对此主题的想法，并建议中介机构可能在网络服务的未来中发挥重要作用。]]></description>
+      <guid>https://t.me/hn_summary/84064</guid>
+      <pubDate>Thu, 11 Apr 2024 18:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这个关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了各种 f [...]</title>
-      <link>https://t.me/hn_summary/84008</link>
-      <description><![CDATA[Go 中 I/O 基础
-在这篇关于 Go 中 I/O 基础知识的网页内容中，作者深入研究了处理输入和输出操作的各种函数和方法。它们涵盖了 io.Reader 和 io.Writer 等概念，演示了如何限制从数据源读取的字节数、将多个数据源合并为一个以及使用 io.MultiReader 和 io.MultiWriter 等函数。作者还探讨了 TeeReader 的行为，类似于 Linux 中的 tee 命令，并讨论了使用 io.Pipe 将需要 io.Reader 的代码与需要 io.Writer 的代码连接起来。内容包括代码示例和解释，重点介绍这些 I/O 函数在 Go 编程中的实际应用。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84008</guid>
-      <pubDate>Thu, 11 Apr 2024 12:15:07 GMT</pubDate>
+      <title>加州大学伯克利分校的语言学家约翰娜·尼科尔斯 (Johanna Nichols) 追踪了第一个 [...]</title>
+      <link>https://t.me/hn_summary/84063</link>
+      <description><![CDATA[北美的第一语言可以追溯到西伯利亚的两个群体
+加州大学伯克利分校的语言学家约翰娜·尼科尔斯（Johanna Nichols）将北美最早的语言追溯到西伯利亚的两个不同语言群体。利用统计技术和语言类型学，她发现这些语言是随着人们在冰河时代冰川事件期间跨越陆桥迁徙而进化的。尼科尔斯的研究揭示了北美语言的起源，揭示了原始语言的一些特征在当前的语言群体中得到了保留。这项开创性的研究挑战了之前有关该地区语言发展的假设。]]></description>
+      <guid>https://t.me/hn_summary/84063</guid>
+      <pubDate>Thu, 11 Apr 2024 18:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由于可持续农业计划的延误，英国农民在脱欧后陷入困境[...]</title>
-      <link>https://t.me/hn_summary/84007</link>
-      <description><![CDATA[英国农民希望获得基本收入来应对脱欧后的困境
-由于可持续农业计划的延迟和农业预算的支出不足，英国脱欧后的英国农民陷入困境。在英格兰，低订阅率让许多农民陷入困境，而在威尔士，针对预留土地用于自然和植树的计划爆发了抗议活动。现在，农民呼吁实行全民基本收入，以确保财务安全并能够试验自然友好型耕作方法。 BI4Farmers 活动团体已聚集了 100 多名支持者，倡导者强调 UBI 在支持农场工人和增强农业部门恢复力方面的潜力。由于农民面临不确定性和成本上升，这一有争议的提议正在获得关注。]]></description>
-      <guid>https://t.me/hn_summary/84007</guid>
-      <pubDate>Thu, 11 Apr 2024 12:11:04 GMT</pubDate>
+      <title>[媒体]鸟类是仅存的恐龙，喙鸟是唯一幸存的恐龙[...]</title>
+      <link>https://t.me/hn_summary/84062</link>
+      <description><![CDATA[为什么鸟类幸存下来，恐龙却灭绝了（2020）
+鸟类是仅存的恐龙，喙鸟是唯一在小行星撞击导致许多物种灭绝的事件中幸存下来的恐龙。鸟类喙的进化和牙齿的丧失可能是它们生存的关键因素，使它们能够在其他食物来源稀缺的情况下吃种子和坚果。鸟类数百万年来不断进化的特征决定了大规模灭绝事件期间的生与死。灭绝后的化石可能会揭示更多有关鸟类如何在复苏的世界中生存和繁衍的秘密。]]></description>
+      <guid>https://t.me/hn_summary/84062</guid>
+      <pubDate>Thu, 11 Apr 2024 18:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>19 世纪初，苏格兰出现了挑战传统的自由思想团体的崛起 [...]</title>
-      <link>https://t.me/hn_summary/84006</link>
-      <description><![CDATA[有责任心的不信者
-19世纪初，苏格兰自由思想团体兴起，挑战传统基督教信仰，引发了一场关于言论自由的斗争。在托马斯·芬利等人的领导下，这些“有良心的异教徒”面临着亵渎法的迫害。他们来自不同的背景，与大卫·休谟等以前的知识精英不同。自由思想者通过报纸、社团和书店组织起来，创造了一种社区意识和知识交流。尽管面临法律挑战，他们最终成功改变了公众舆论并结束了苏格兰的亵渎审判，与英格兰正在进行的起诉相比，这是一个重大转变。 （根据 54% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84006</guid>
-      <pubDate>Thu, 11 Apr 2024 12:04:59 GMT</pubDate>
+      <title>在中世纪的英格兰，七世纪银币的激增令历史学家感到困惑，直到 [...]</title>
+      <link>https://t.me/hn_summary/84061</link>
+      <description><![CDATA[拜占庭宝藏融化导致中世纪英格兰的银币繁荣
+在中世纪的英格兰，七世纪银币的激增令历史学家感到困惑，直到最近的研究表明，这些银币来自熔化的拜占庭宝藏。这种早期形式的量化宽松启动了英国经济，并建立了持续几个世纪的货币体系。这一发现是通过对硬币的化学分析得出的，揭示了中世纪时期经济的相互联系。这项研究由剑桥大学和牛津大学的学者领导，强调了历史上国际贸易和联系在塑造经济成功方面的重要性。研究结果发表在《古代》杂志上。]]></description>
+      <guid>https://t.me/hn_summary/84061</guid>
+      <pubDate>Thu, 11 Apr 2024 18:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Fern 是一家 YC 支持的初创公司，正在寻找一名前端工程师加入他们的小团队 [...]</title>
-      <link>https://t.me/hn_summary/84005</link>
-      <description><![CDATA[Fern (YC W23) 正在布鲁克林招聘一名前端工程师，纽约
-Fern 是一家由 YC 支持的初创公司，正在寻找一名前端工程师加入他们位于纽约布鲁克林的小团队。他们正在寻找具有强大 JavaScript 基础和 Next.js、React 和 TypeScript 背景、经验丰富的人才。该角色涉及开发新的面向用户的功能、与设计师合作完善 UI 系统、管理前端基础设施以及与客户建立关系。公司提供有竞争力的薪资、股权、福利和生活邻近奖金。 Fern 的技术堆栈包括 NextJS、Vercel、Express、FastAPI、Postgres DB 和 AWS。他们的目标是通过为 REST API 提供“条带级”SDK 和文档来简化 API 开发。 Fern 成立于 2022 年，专注于开源和客户满意度。]]></description>
-      <guid>https://t.me/hn_summary/84005</guid>
-      <pubDate>Thu, 11 Apr 2024 12:00:55 GMT</pubDate>
+      <title>斯坦利·库布里克是一位独特的导演，他对自己的电影拥有前所未有的控制力 [...]</title>
+      <link>https://t.me/hn_summary/84060</link>
+      <description><![CDATA[斯坦利·库布里克以自己的方式做到了
+斯坦利·库布里克是一位独特的导演，他对自己的电影从剧本到灯光再到宣传都有着前所未有的控制力。尽管他缺乏奥斯卡等传统荣誉，但他的电影受到广泛尊敬，并且涵盖了广泛的类型和主题。库布里克早年的特点是冷酷和自负，但随着事业的发展，他变得软化并成为一个更有趣的人物。由于他的强迫性质，他与同事的关系经常紧张，但许多人愿意忍受这种情况，以获得与他共事的机会。库布里克的遗产之一是无与伦比的创造力和远见。]]></description>
+      <guid>https://t.me/hn_summary/84060</guid>
+      <pubDate>Thu, 11 Apr 2024 17:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] iXsystems，最古老的 BSD 系统供应商，正在将其重点从 FreeBSD 转向 Lin [...]</title>
-      <link>https://t.me/hn_summary/84004</link>
-      <description><![CDATA[TrueNAS CORE 13 是 FreeBSD 版本的终结 
-iXsystems 是最古老的 BSD 系统供应商，通过推出 TrueNAS SCALE（一款针对 Kubernetes 用户的基于 Debian 的产品），将其重点从 FreeBSD 转向 Linux。此举标志着基于 FreeBSD 的产品 TrueNAS CORE 13 的终结。尽管 TrueNAS SCALE 取得了成功，但人们对 TrueNAS CORE 的未来及其延迟更新感到担忧。 iXsystems 源于 Berkeley Software Design, Inc.，其历史很复杂，涉及合并、收购和产品停产。优先考虑 Linux 而非 FreeBSD 的决定引发了人们对公司发展方向以及对用户潜在影响的质疑。]]></description>
-      <guid>https://t.me/hn_summary/84004</guid>
-      <pubDate>Thu, 11 Apr 2024 11:46:47 GMT</pubDate>
+      <title>隆重推出 Rerank 3，这是我们旨在彻底改变企业搜索的最新基础模型 [...]</title>
+      <link>https://t.me/hn_summary/84059</link>
+      <description><![CDATA[Cohere Rerank 3：高效搜索和检索的新基础模型&lt; /a&gt;
+隆重推出 Rerank 3，这是我们最新的基础模型，旨在彻底改变企业搜索和检索增强生成 (RAG) 系统。 Rerank 3 与任何数据库或搜索索引兼容，提供增强的搜索性能并降低成本，同时对延迟的影响最小。凭借 4k 上下文长度、多方面数据搜索和多语言覆盖等功能，Rerank 3 改变了企业搜索的游戏规则。此外，Elastic 的 Inference API 现在原生支持 Rerank 3，使企业可以更轻松地利用我们的高级检索模型。与我们一起通过 Rerank 3 释放数据的潜力。]]></description>
+      <guid>https://t.me/hn_summary/84059</guid>
+      <pubDate>Thu, 11 Apr 2024 17:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Cascade 是一个开源 SaaS 模板，旨在提供一种简约的方法 [...]</title>
-      <link>https://t.me/hn_summary/84003</link>
-      <description><![CDATA[显示 HN：Cascade – 付费 SaaS 样板的开源替代方案&lt; /a&gt;
-Cascade 是一个开源 SaaS 模板，旨在提供一种简约的技术选择方法，让用户从一开始就专注于编写业务逻辑。该项目的独特之处在于提供了简化的设置过程，唯一的要求是 .env 文件中的环境变量正确。 Cascade 利用各种开源和自托管工具，以及具有慷慨免费计划的 SaaS 选项，来支持身份验证、用户分析、错误跟踪等功能。作者对激励 Cascade 发展并做出贡献的各种个人和项目表示感谢。]]></description>
-      <guid>https://t.me/hn_summary/84003</guid>
-      <pubDate>Thu, 11 Apr 2024 11:32:41 GMT</pubDate>
+      <title>软件改进之旅通常始于热情，质量成为 [...]</title>
+      <link>https://t.me/hn_summary/84058</link>
+      <description><![CDATA[修复所有错误并不能解决所有问题 - 戴明之路挫败感
+软件改进之旅通常始于热情，质量成为重中之重。然而，当改进停滞甚至下降时，成功之路可能会遇到障碍。 W. Edwards Deming 的哲学强调了解决软件开发中的错误和“共同原因”问题的重要性。即使所有错误都已修复，这些常见原因问题（例如低效的数据访问模式或硬件配置不足）也可能会严重影响软件质量。要真正提高软件质量，必须像修复错误一样致力于解决系统设计和实现问题。]]></description>
+      <guid>https://t.me/hn_summary/84058</guid>
+      <pubDate>Thu, 11 Apr 2024 17:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果已向 92 个国家的 iPhone 用户发出威胁通知，警告他们 [...]</title>
-      <link>https://t.me/hn_summary/84002</link>
-      <description><![CDATA[Apple 在新警告中提醒 92 个国家/地区的用户注意雇佣兵攻击
-Apple 已向 92 个国家/地区的 iPhone 用户发出威胁通知，警告他们潜在的雇佣间谍软件攻击。该公司向这些国家的个人发出警报，敦促他们认真对待这一警告，因为他们可能会因为他们的身份或所做的事情而成为专门的目标。在此之前，印度曾发生过针对记者和政界人士的间谍软件攻击事件。苹果的高可信度警报基于内部威胁情报和调查，强调这些复杂攻击的严重性。这些警报的发布时间恰逢许多国家正在筹备选举，突显了国家资助的影响选举结果的持续威胁。]]></description>
-      <guid>https://t.me/hn_summary/84002</guid>
-      <pubDate>Thu, 11 Apr 2024 11:28:38 GMT</pubDate>
+      <title>在 osanseviero.github.io 上的这篇博文中，作者介绍了句子嵌入以及如何[...]</title>
+      <link>https://t.me/hn_summary/84057</link>
+      <description><![CDATA[句子嵌入简介
+在这篇关于 osanseviero.github.io 的博文中，作者介绍了句子嵌入以及如何在项目中使用它们。这篇文章涵盖了选择现有模型、评估方法和三个应用程序的标准：查找类似的 Quora 或 StackOverflow 问题、识别数据集中的类似项目以及在没有服务器的浏览器中运行搜索嵌入模型。这篇文章解释说，嵌入将信息表示为向量并捕获语义，从而更容易比较不同的信息。作者提供了使用句子转换器的代码示例来演示如何使用嵌入在数据库中查找类似问题。 （根据故事文本的 13% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84057</guid>
+      <pubDate>Thu, 11 Apr 2024 17:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Avi Wigderson，Advanc 研究所的计算科学家和数学家 [...]</title>
-      <link>https://t.me/hn_summary/84001</link>
-      <description><![CDATA[计算机科学家因随机性方面的开创性工作荣获图灵奖 
-普林斯顿高等研究院的计算科学家和数学家 Avi Wigderson 荣获 2023 年 A.M.图灵奖表彰他在计算随机性方面的开创性工作。这项享有盛誉的奖项以及 Google 颁发的 100 万美元奖金，旨在表彰 Wigderson 对计算理论的基础性贡献。他的研究重塑了我们对计算中随机性作用的理解，并对理论计算机科学产生了深远的影响。 Wigderson 在随机性方面的工作带来了算法效率的显着进步，并为包括密码学和凸优化在内的各个领域的新发展铺平了道路。]]></description>
-      <guid>https://t.me/hn_summary/84001</guid>
-      <pubDate>Thu, 11 Apr 2024 11:02:28 GMT</pubDate>
+      <title>我纯属运气地发现了 ZeroMQ 中的一个关键漏洞，类似于 XZ 后门传奇。</title>
+      <link>https://t.me/hn_summary/84056</link>
+      <description><![CDATA[我在 ZeroMQ 中发现了一个关键漏洞，主要是纯粹的运气
+我纯属运气地发现了 ZeroMQ 中的一个关键漏洞，类似于 XZ 后门传奇。在 Niantic 工作期间，我发现 ZeroMQ 的 CurveZMQ 协议中存在堆栈溢出漏洞。确认问题后，我修补了该问题并将其披露给 ZeroMQ 社区，后者很快推出了修复程序。这段经历让我反思了开源贡献和阅读代码的重要性。 XZ 后门传奇突出了攻击者对 Valgrind、模糊测试和禁用内锁的使用，为未来攻击的潜在障碍提供了见解。总的来说，这次经历强调了好奇心、代码阅读和安全措施在科技行业的价值。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84056</guid>
+      <pubDate>Thu, 11 Apr 2024 17:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ChaosPixels 是一个协作网站建设实验，用户可以在其中提交拉取请求 [...]</title>
-      <link>https://t.me/hn_summary/84000</link>
-      <description><![CDATA[展示 HN：ChaosPixels：协作网站建设实验&lt; br/&gt;
-ChaosPixels 是一个协作网站构建实验，用户可以提交拉取请求来修改网站的源代码，并每天合并和部署投票最高的 PR。用户可以通过购买提升来提高投票权。该项目旨在探索简单规则的不可预测结果，并有可能在线赚钱。作者强调保持积极的氛围，禁止在公关中发布非法、色情或赌博相关内容。该项目的与众不同之处在于专注于网站创建中的混乱和不可预测性。我们鼓励用户加入混乱，共同为构建一些很酷的东西做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/84000</guid>
-      <pubDate>Thu, 11 Apr 2024 10:55:19 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我讨论了 leptokurtic 和 platykurtic distri 之间的区别 [...]</title>
+      <link>https://t.me/hn_summary/84055</link>
+      <description><![CDATA[leptokurtic 和 platykurtic 之间的区别（2014）&lt; br/&gt;
+在这篇博文中，我讨论了尖峰分布和平峰分布之间的区别。虽然许多人将峰度描述为“尾部的厚度”，但我发现这种描述在分析直方图时毫无帮助。我更喜欢维基百科对峰度的定义作为“峰值”的度量。通过观察分布的形状以及中间的峰度或宽度，我们可以确定它是细峰型还是扁平峰型。查看提供的图表以了解此概念的实际应用。希望这个解释对其他在这个概念上苦苦挣扎的人有用。也欢迎分享您自己的技巧！]]></description>
+      <guid>https://t.me/hn_summary/84055</guid>
+      <pubDate>Thu, 11 Apr 2024 17:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
