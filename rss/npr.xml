@@ -4,7 +4,21 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 09:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:21:53 GMT</lastBuildDate>
+    <item>
+      <title>拜登将与日本、菲律宾举行峰会； FAFSA 延迟威胁大学入学</title>
+      <link>https://npr.org/2024/04/11/1244052308/up-first-newsletter-biden-japan-philippines-fafsa</link>
+      <description><![CDATA[拜登总统接待了日本和菲律宾领导人。填写 FAFSA 表格的高中生越来越少。]]></description>
+      <guid>https://npr.org/2024/04/11/1244052308/up-first-newsletter-biden-japan-philippines-fafsa</guid>
+      <pubDate>Thu, 11 Apr 2024 12:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是科学家对禽流感在牛群中传播的担忧</title>
+      <link>https://npr.org/sections/health-shots/2024/04/11/1243954362/bird-flu-spread-cattle-mutations-respiratory-human-risk</link>
+      <description><![CDATA[禽流感仍在奶牛中传播。科学家们正在密切关注该病毒如何变化以及这对其大流行潜力意味着什么。]]></description>
+      <guid>https://npr.org/sections/health-shots/2024/04/11/1243954362/bird-flu-spread-cattle-mutations-respiratory-human-risk</guid>
+      <pubDate>Thu, 11 Apr 2024 11:00:39 GMT</pubDate>
+    </item>
     <item>
       <title>在这个卢旺达村庄，种族灭绝的幸存者和肇事者比邻而居</title>
       <link>https://npr.org/2024/04/11/1243634497/rwanda-genocide-anniversary-reconciliation-remembrance</link>
@@ -41,13 +55,6 @@
       <pubDate>Thu, 11 Apr 2024 09:00:41 GMT</pubDate>
     </item>
     <item>
-      <title>偏远岛屿，菲律宾与中国的意志考验</title>
-      <link>https://npr.org/2024/04/11/1242978053/philippines-china-south-china-sea-thitu-island</link>
-      <description><![CDATA[大约 250 名菲律宾人生活在南中国海南沙群岛最大、人口最多的中业岛。但中国船只从未远离。]]></description>
-      <guid>https://npr.org/2024/04/11/1242978053/philippines-china-south-china-sea-thitu-island</guid>
-      <pubDate>Thu, 11 Apr 2024 09:00:39 GMT</pubDate>
-    </item>
-    <item>
       <title>这么长的紧身牛仔裤。下个周期再见</title>
       <link>https://npr.org/2024/04/11/1241145778/fashion-skinny-jeans-trends-vogue-quiet-luxury</link>
       <description><![CDATA[紧身牛仔裤已经过时，宽松的裤子流行。但它的意义远不止于此。这就是时尚潮流背后的逻辑和生命周期。]]></description>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 11 Apr 2024 09:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>日本将提供新的樱花树来替代华盛顿特区建设中损失的樱花树</title>
-      <link>https://npr.org/2024/04/11/1244042448/japan-cherry-trees-washington</link>
-      <description><![CDATA[日本将向美国提供 250 棵新樱花树，以帮助取代今年夏天施工人员修复首都潮汐盆地周围海堤时被拆除的数百棵樱花树。]]></description>
-      <guid>https://npr.org/2024/04/11/1244042448/japan-cherry-trees-washington</guid>
-      <pubDate>Thu, 11 Apr 2024 07:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟立法者批准对欧盟移民法进行全面改革</title>
-      <link>https://npr.org/2024/04/11/1244041078/european-union-migration-laws</link>
-      <description><![CDATA[欧盟立法者批准了对欧盟移民法的重大修改，希望结束多年的分裂，并在六月选举前剥夺极右翼赢得选票的竞选议题。]]></description>
-      <guid>https://npr.org/2024/04/11/1244041078/european-union-migration-laws</guid>
-      <pubDate>Thu, 11 Apr 2024 07:22:14 GMT</pubDate>
+      <title>偏远岛屿，菲律宾与中国的意志考验</title>
+      <link>https://npr.org/2024/04/11/1242978053/philippines-china-south-china-sea-thitu-island</link>
+      <description><![CDATA[大约 250 名菲律宾人生活在南中国海南沙群岛最大、人口最多的中业岛。但中国船只从未远离。]]></description>
+      <guid>https://npr.org/2024/04/11/1242978053/philippines-china-south-china-sea-thitu-island</guid>
+      <pubDate>Thu, 11 Apr 2024 09:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
