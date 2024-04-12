@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Fri, 12 Apr 2024 18:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 21:13:53 GMT</lastBuildDate>
+    <item>
+      <title>Apple Sports 的（糟糕）设计 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/the-poor-design-of-apple-sports/</link>
+      <description><![CDATA[博士。 Drang 为 Apple Sports 应用而来：
+&lt;块引用&gt;
+  分数只是优秀体育应用的一部分。体育应用程序不仅在您无法观看比赛并希望保持连接状态时使用，而且还可以使用它们（我认为更常用）来为您提供当前正在观看的比赛的背景信息。 ...]]></description>
+      <guid>https://sixcolors.com/link/2024/04/the-poor-design-of-apple-sports/</guid>
+      <pubDate>Fri, 12 Apr 2024 18:33:35 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）科利德</title>
       <link>https://sixcolors.com/sponsor/2024/04/kolide-40/</link>
@@ -27,7 +36,7 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
       <link>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</link>
       <description><![CDATA[彭博社的马克·古尔曼 (Mark Gurman) 又发表了一篇精彩的芯片独家报道，这次是关于 Mac 的未来：
 &lt;块引用&gt;
-  据知情人士透露，该公司五个月前发布了首款搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
+  据知情人士透露，该公司五个月前发布了第一批搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</guid>
       <pubDate>Thu, 11 Apr 2024 17:38:10 GMT</pubDate>
     </item>
@@ -48,7 +57,7 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
     <item>
       <title>（播客）顺时针549：成人的甜蜜</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-549-the-sweetness-of-adults/</link>
-      <description><![CDATA[彩色电子阅读器、我们在旅行时使用的应用程序和设备、我们拥有但不再需要的科技产品，以及我们将立即更换的科技产品。…]]></description>
+      <description><![CDATA[彩色电子阅读器、我们在旅行时使用的应用程序和设备、我们拥有但不再需要的科技产品，以及我们立即更换的科技产品。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-549-the-sweetness-of-adults/</guid>
       <pubDate>Wed, 10 Apr 2024 19:22:50 GMT</pubDate>
     </item>
@@ -71,7 +80,7 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
     <item>
       <title>MLB iPad 应用程序已更新，但在 Mac 上仍然损坏 ↦</title>
       <link>https://sixcolors.com/link/2024/04/mlb-ipad-app-updated-works-on-the-mac-again/</link>
-      <description><![CDATA[我们为期一周的棒球噩梦......继续？正如我在开幕当天所叙述的那样，iPad 版 MLB 应用程序（可在 Mac 上运行并且拥有它真是太棒了！）已停止在 Mac 上运行。…]]></description>
+      <description><![CDATA[我们为期一周的棒球噩梦......继续？正如我在开幕当天所叙述的那样，iPad 版 MLB 应用程序（可以在 Mac 上运行并且拥有它真是太棒了！）已经停止在 Mac 上运行。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/mlb-ipad-app-updated-works-on-the-mac-again/</guid>
       <pubDate>Wed, 10 Apr 2024 15:11:42 GMT</pubDate>
     </item>
@@ -110,13 +119,6 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
       <description><![CDATA[Voice Dream Reader 是备受推崇的 Mac 和 iOS 文本转语音阅读应用程序，是最新一款采用订阅模式的深受喜爱的应用程序，但在此过程中激怒了其忠实用户群。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/another-app-switches-to-a-subscription-model/</guid>
       <pubDate>Thu, 04 Apr 2024 18:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV 值得比 tvOS 更好（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</link>
-      <description><![CDATA[年复一年，当苹果公司宣布年度更新时，一款操作系统最终会受到冷落。虽然 iOS、macOS 和 iPadOS 都在炫耀它们闪亮的新功能，但它们被忽视的兄弟却悲伤地坐在长凳上，等待它闪耀的机会——这个机会似乎永远不会到来。…]]></description>
-      <guid>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</guid>
-      <pubDate>Thu, 04 Apr 2024 13:10:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
