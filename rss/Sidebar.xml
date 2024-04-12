@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:15:39 GMT</lastBuildDate>
+    <item>
+      <title>我们如何使用现代 CSS 来实现主题化</title>
+      <link>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css</link>
+      <description><![CDATA[我们已经开始了一个新项目，需要大量的创意主题，所以我制作了一个原型来测试一些想法。
+]]></description>
+      <guid>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css</guid>
+      <pubDate>Fri, 12 Apr 2024 12:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>最孤独的颜色</title>
+      <link>https://www.sherwin-williams.com/en-us/the-loneliest-color</link>
+      <description><![CDATA[来认识一下宣伟最孤独的颜色 Kingdom Gold SW 6698，看看这种被忽视的色调如何为您的空间增添新的色彩。
+]]></description>
+      <guid>https://www.sherwin-williams.com/en-us/the-loneliest-color</guid>
+      <pubDate>Fri, 12 Apr 2024 12:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么耶稣从不吃香蕉</title>
+      <link>https://www.atlasobscura.com/articles/food-origins-map</link>
+      <description><![CDATA[一项查明 151 种粮食作物原产地的研究表明，全球饮食中约 69% 是“外来的”。
+]]></description>
+      <guid>https://www.atlasobscura.com/articles/food-origins-map</guid>
+      <pubDate>Fri, 12 Apr 2024 12:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Penpot 的 CSS 网格布局：用超能力进行设计</title>
+      <link>https://www.smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/</link>
+      <description><![CDATA[Penpot 通过提供基于开放网络标准的免费开源设计工具，帮助设计人员和开发人员更好地合作。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/</guid>
+      <pubDate>Fri, 12 Apr 2024 12:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>5次“聪明”的文案变成了墓地幽默</title>
+      <link>https://uxdesign.cc/5-times-smart-copy-swung-into-graveyard-humor-0d2a7c5cf4f9?sk=a22b114f2e1dfaf4210ac6a6a2ae0397</link>
+      <description><![CDATA[茶、Fabulous app、斯特拉文斯基、意大利面和 Grammarly 有什么共同点？英语很蹩脚。
+]]></description>
+      <guid>https://uxdesign.cc/5-times-smart-copy-swung-into-graveyard-humor-0d2a7c5cf4f9?sk=a22b114f2e1dfaf4210ac6a6a2ae0397</guid>
+      <pubDate>Fri, 12 Apr 2024 12:07:38 GMT</pubDate>
+    </item>
     <item>
       <title>Vercel 的设计工程：我们做什么以及如何做</title>
       <link>https://vercel.com/blog/design-engineering-at-vercel</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://xkcd.com/2916/</guid>
       <pubDate>Wed, 10 Apr 2024 11:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何考虑 HTML 响应式图像</title>
-      <link>https://danburzo.ro/responsive-images-html/</link>
-      <description><![CDATA[srcset、尺寸、图片、来源以及它们的配合方式。
-]]></description>
-      <guid>https://danburzo.ro/responsive-images-html/</guid>
-      <pubDate>Tue, 09 Apr 2024 02:21:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计是一个陷入困境的过程</title>
-      <link>https://robinrendle.com/notes/design-is-a-process-of-getting-stuck-</link>
-      <description><![CDATA[每当我在一个没有白板的房间里时，我都会感到被困住。
-]]></description>
-      <guid>https://robinrendle.com/notes/design-is-a-process-of-getting-stuck-</guid>
-      <pubDate>Tue, 09 Apr 2024 02:19:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>文字效果</title>
-      <link>https://texteffects.dev/</link>
-      <description><![CDATA[使用 CSS、HTML 和 JavaScript 探索文本效果世界的文章
-]]></description>
-      <guid>https://texteffects.dev/</guid>
-      <pubDate>Tue, 09 Apr 2024 02:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>纳米GL</title>
-      <link>https://www.nanogl.com/</link>
-      <description><![CDATA[探索 NanoGL，这是一个专门的 WebGL 框架，专为精通底层 WebGL 复杂性的经验丰富的开发人员而设计。 
-]]></description>
-      <guid>https://www.nanogl.com/</guid>
-      <pubDate>Tue, 09 Apr 2024 02:17:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考角色：用户体验设计中的同理心和包容性</title>
-      <link>https://uxdesign.cc/rethinking-personas-empathy-and-inclusion-in-ux-design-37145d2ee807</link>
-      <description><![CDATA[通过使用“待完成工作”和“同理心地图”等更具包容性的方法，我们可以创造出更有意义、更易于使用的产品。
-]]></description>
-      <guid>https://uxdesign.cc/rethinking-personas-empathy-and-inclusion-in-ux-design-37145d2ee807</guid>
-      <pubDate>Tue, 09 Apr 2024 02:16:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
