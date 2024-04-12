@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:25:25 GMT</lastBuildDate>
+    <item>
+      <title>集体#829</title>
+      <link>https://tympanus.net/codrops/collective/collective-829/</link>
+      <description><![CDATA[CSS 容器查询交互式指南 * 重复]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-829/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>图像堆栈入口动画</title>
       <link>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 08 Apr 2024 09:53:46 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#58</title>
+      <title>励志网站综述 #58</title>
       <link>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</link>
       <description><![CDATA[发现一系列充满活力的网站，每个网站都展示出色的设计，激发您的灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[piecejs * 盒子模型和盒子大小 * Mantis * 框架领域指南]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-825/</guid>
       <pubDate>Fri, 29 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#824</title>
-      <link>https://tympanus.net/codrops/collective/collective-824/</link>
-      <description><![CDATA[如何在 CSS 中设置边框动画 * Astro DB：深入探讨 * 草书的奇妙案例]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-824/</guid>
-      <pubDate>Tue, 26 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
