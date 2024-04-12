@@ -4,13 +4,30 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:15:38 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2024/04/kolide-40/</link>
+      <description><![CDATA[感谢 Kolide 本周再次赞助六色。
+Kolide 希望您的业务安全。可以将其想象为机场安检：有两条线，一条用于验证您的身份，另一条用于扫描您的随身行李。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/04/kolide-40/</guid>
+      <pubDate>Fri, 12 Apr 2024 16:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>链，或在 macOS 中打开文件 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/the-chain-or-opening-files-in-macos/</link>
+      <description><![CDATA[Eclectic Light Company 的 Howard Oakley 深入探讨了 Mac 如何知道双击文件时要打开哪个应用程序：
+&lt;块引用&gt;
+  在经典 Mac OS 时代，这是使用臭名昭著的桌面数据库来完成的，该数据库通过文件和应用程序的创建者和类型（两个代码各包含四个字符）来识别文件和应用程序。…]]></description>
+      <guid>https://sixcolors.com/link/2024/04/the-chain-or-opening-files-in-macos/</guid>
+      <pubDate>Fri, 12 Apr 2024 15:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Gurman：忘记 M3，M4 正在路上 ↦</title>
       <link>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</link>
       <description><![CDATA[彭博社的马克·古尔曼 (Mark Gurman) 又发表了一篇精彩的芯片独家报道，这次是关于 Mac 的未来：
 &lt;块引用&gt;
-  据知情人士透露，该公司五个月前发布了第一批搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
+  据知情人士透露，该公司五个月前发布了首款搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</guid>
       <pubDate>Thu, 11 Apr 2024 17:38:10 GMT</pubDate>
     </item>
@@ -31,7 +48,7 @@
     <item>
       <title>（播客）顺时针549：成人的甜蜜</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-549-the-sweetness-of-adults/</link>
-      <description><![CDATA[彩色电子阅读器、我们在旅行时使用的应用程序和设备、我们拥有但不再需要的科技产品，以及我们立即更换的科技产品。…]]></description>
+      <description><![CDATA[彩色电子阅读器、我们在旅行时使用的应用程序和设备、我们拥有但不再需要的科技产品，以及我们将立即更换的科技产品。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-549-the-sweetness-of-adults/</guid>
       <pubDate>Wed, 10 Apr 2024 19:22:50 GMT</pubDate>
     </item>
@@ -97,23 +114,9 @@
     <item>
       <title>Apple TV 值得比 tvOS 更好（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</link>
-      <description><![CDATA[年复一年，当苹果公司宣布年度更新时，一款操作系统最终会受到冷落。虽然 iOS、macOS 和 iPadOS 都在炫耀它们闪亮的新功能，但它们被忽视的兄弟却悲伤地坐在长凳上，等待它闪耀的机会——一个似乎永远不会到来的机会。…]]></description>
+      <description><![CDATA[年复一年，当苹果公司宣布年度更新时，一款操作系统最终会受到冷落。虽然 iOS、macOS 和 iPadOS 都在炫耀它们闪亮的新功能，但它们被忽视的兄弟却悲伤地坐在长凳上，等待它闪耀的机会——这个机会似乎永远不会到来。…]]></description>
       <guid>https://www.macworld.com/article/2286656/is-tvos-the-least-loved-of-apples-platforms.html</guid>
       <pubDate>Thu, 04 Apr 2024 13:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针548：我的伙伴是忍者</title>
-      <link>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</link>
-      <description><![CDATA[我们对物理媒体和数字媒体的偏好，我们拥有（太多）丰富的科技产品，我们是否将手机放在保护套中，以及我们的日记习惯和方法。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/04/clockwise-548-my-partner-is-a-ninja/</guid>
-      <pubDate>Wed, 03 Apr 2024 19:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 489：我错过了什么？</title>
-      <link>https://sixcolors.com/podcast/2024/04/the-rebound-489-what-did-i-miss/</link>
-      <description><![CDATA[你们都知道日历。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/04/the-rebound-489-what-did-i-miss/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:21:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
