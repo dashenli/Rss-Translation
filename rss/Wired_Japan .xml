@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 11 Apr 2024 21:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 00:56:29 GMT</lastBuildDate>
+    <item>
+      <title>警方根据 DNA 生成嫌疑人的 3D 面孔，并通过面部识别工具进行运行。</title>
+      <link>https://wired.jp/article/parabon-nanolabs-dna-face-models-police-facial-recognition/</link>
+      <description><![CDATA[美国各地警察部门表示，通过面部识别工具运行根据 DNA 信息生成的面部 3D 模型来解决悬案是合法的。不过，警方以外的人士也对此举表示担忧，包括侵犯隐私和自由以及可能造成误捕。]]></description>
+      <guid>https://wired.jp/article/parabon-nanolabs-dna-face-models-police-facial-recognition/</guid>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>掠夺性麻雀 (Predatory Sparrow) 的足迹，这是一个挑战网络战极限的超强破坏性黑客组织。</title>
+      <link>https://wired.jp/article/sz-predatory-sparrow-cyberattack-timeline/</link>
+      <description><![CDATA[“掠夺性麻雀”黑客攻击多次导致数千个加油站瘫痪并引发一家钢厂火灾，现在正在对伊朗发起历史上最大胆的网络攻击。]]></description>
+      <guid>https://wired.jp/article/sz-predatory-sparrow-cyberattack-timeline/</guid>
+      <pubDate>Thu, 11 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在超过 2000 万份学生报告中检测到了生成人工智能的痕迹。使用的“线”应该是什么？</title>
       <link>https://wired.jp/article/student-papers-generative-ai-turnitin/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>非营利组织成为一个国家历史的官方档案馆。在加勒比天堂阿鲁巴岛的努力</title>
       <link>https://wired.jp/article/internet-archive-backed-up-aruba-caribbean-island/</link>
-      <description><![CDATA[非营利性互联网档案馆已成为荷兰王国成员国阿鲁巴岛档案馆的官方保管机构。用少量预算对材料进行数字化有很大好处，但依赖私人组织也存在风险。]]></description>
+      <description><![CDATA[非营利性互联网档案馆已成为荷兰王国成员国阿鲁巴岛档案馆的官方保管机构。以少量预算实现材料数字化有很大好处，但依赖私人组织也存在风险。]]></description>
       <guid>https://wired.jp/article/internet-archive-backed-up-aruba-caribbean-island/</guid>
       <pubDate>Wed, 10 Apr 2024 09:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[目前，移动性正在不断发展。艺术家 Namichie 在驾驶时思考汽车与生活的新关系。该系列的第三篇文章是比亚迪来自中国的电动SUV。]]></description>
       <guid>https://wired.jp/article/dont-look-back-in-vol03-byd-atto3/</guid>
       <pubDate>Tue, 09 Apr 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>令美国疯狂的日全食期间拍摄的 10 个令人印象深刻的场景</title>
-      <link>https://wired.jp/article/total-solar-eclipse-best-photos-2024/</link>
-      <description><![CDATA[当地时间4月8日，美国、加拿大、墨西哥等地区观测到日全食。以下是世纪天象表演中令人难忘的10个场景，让很多人兴奋不已。]]></description>
-      <guid>https://wired.jp/article/total-solar-eclipse-best-photos-2024/</guid>
-      <pubDate>Mon, 08 Apr 2024 23:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将“梦想之光”变成科技创新的工具。 NanoTerrace 凭借世界上第一个系统迎接“同步加速器辐射设施民主化”的挑战</title>
-      <link>https://wired.jp/article/nanoterasu-coalition/</link>
-      <description><![CDATA[NanoTerasu是宫城县新建的环形同步加速器辐射设施。这种可以分析纳米世界的超高性能“巨型显微镜”也是世界领先者，创建了一个名为“联盟”的机制，使技术广泛向公众开放。]]></description>
-      <guid>https://wired.jp/article/nanoterasu-coalition/</guid>
-      <pubDate>Mon, 08 Apr 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
