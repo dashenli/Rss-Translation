@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 21:10:00 GMT</lastBuildDate>
+    <item>
+      <title>以色列官员称伊朗对以色列发动无人机袭击</title>
+      <link>https://npr.org/2024/04/13/1244641489/iran-israel-drone-attack-middle-east-gaza</link>
+      <description><![CDATA[周六的发射是中东冲突的重大升级，此前伊朗领导人阿亚图拉·阿里·哈梅内伊誓言对早些时候针对伊朗驻叙利亚领事馆的袭击进行报复。]]></description>
+      <guid>https://npr.org/2024/04/13/1244641489/iran-israel-drone-attack-middle-east-gaza</guid>
+      <pubDate>Sat, 13 Apr 2024 20:40:26 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的下一个集会场地：曼哈顿法院</title>
       <link>https://npr.org/2024/04/13/1244289886/trumps-next-rally-arena-a-manhattan-courthouse</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[当局称，一名得克萨斯州半挂车司机将一辆偷来的 18 轮卡车撞向一栋公共安全大楼，他的商业驾驶执照更新被拒绝。司机被捕。]]></description>
       <guid>https://npr.org/2024/04/13/1244579636/semitrailer-crash-texas-public-safety-office</guid>
       <pubDate>Sat, 13 Apr 2024 07:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党人的目标是阻止非公民在联邦选举中投票。已经违法了</title>
-      <link>https://npr.org/2024/04/12/1244302080/trump-johnson-noncitizen-voting-bill</link>
-      <description><![CDATA[现实情况是，非公民已经被禁止在联邦选举中投票，而且大量研究发现这种情况几乎从未发生过。]]></description>
-      <guid>https://npr.org/2024/04/12/1244302080/trump-johnson-noncitizen-voting-bill</guid>
-      <pubDate>Fri, 12 Apr 2024 22:36:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
