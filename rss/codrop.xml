@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sun, 14 Apr 2024 11:21:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 12:25:26 GMT</lastBuildDate>
+    <item>
+      <title>桥接设计和代码：Penpot CSS 网格布局的力量</title>
+      <link>https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/</link>
+      <description><![CDATA[探索 Penpot，这是一个增强设计和开发团队合作的开源平台，现在采用 CSS 网格布局，可实现更强大、更高效的项目创建。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/</guid>
+      <pubDate>Mon, 15 Apr 2024 10:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述 #42</title>
       <link>https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[纪念网络诞生 35 周年：一封公开信 * 将图像转换为等高线图 * 如何启动 Google]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-826/</guid>
       <pubDate>Tue, 02 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新平衡设计和开发</title>
-      <link>https://tympanus.net/codrops/2024/04/01/re-balancing-design-and-development/</link>
-      <description><![CDATA[Codux 旨在弥合现代网络时代设计师和开发人员之间日益扩大的差距，营造一个创造力与代码相遇的协作环境。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/01/re-balancing-design-and-development/</guid>
-      <pubDate>Mon, 01 Apr 2024 18:43:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
