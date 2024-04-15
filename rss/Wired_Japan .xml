@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 15 Apr 2024 06:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 09:14:20 GMT</lastBuildDate>
+    <item>
+      <title>三宅洋一郎“从科幻小说中了解“智能”的未来” ─#1“智能居住在城市”</title>
+      <link>https://wired.jp/article/youichiro-miyake-sf-future-1/</link>
+      <description><![CDATA[游戏AI开发者三宅阳一郎以来自世界各地的动漫、游戏、小说、漫画、电影等科幻作品为立足点，放飞想象力，创造了一个在不久的将来非人类智能的AI。与人类共存的系列探索社会状况开始了！]]></description>
+      <guid>https://wired.jp/article/youichiro-miyake-sf-future-1/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“技术不会减少工作岗位”，但人工智能将如何改变工作岗位仍悬而未决</title>
       <link>https://wired.jp/article/ai-impact-on-work-mary-daly-interview/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[“掠夺性麻雀”黑客攻击多次导致数千个加油站瘫痪并引发一家钢厂火灾，现在正在对伊朗发起历史上最大胆的网络攻击。]]></description>
       <guid>https://wired.jp/article/sz-predatory-sparrow-cyberattack-timeline/</guid>
       <pubDate>Thu, 11 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在超过 2000 万份学生报告中检测到了生成人工智能的痕迹。使用的“线”应该是什么？</title>
-      <link>https://wired.jp/article/student-papers-generative-ai-turnitin/</link>
-      <description><![CDATA[提供人工智能写作检测工具的 Turnitin 宣布，大学生的报告可能包含大量人工智能生成的内容。然而，对于使用和不使用各种生成式人工智能软件的标准，学生和老师都还处于摸索阶段。]]></description>
-      <guid>https://wired.jp/article/student-papers-generative-ai-turnitin/</guid>
-      <pubDate>Thu, 11 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
