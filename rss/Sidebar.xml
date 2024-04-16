@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 09:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 12:24:46 GMT</lastBuildDate>
+    <item>
+      <title>如果您能够真正控制每个站点的深色模式会怎样？</title>
+      <link>https://www.bram.us/2024/04/13/what-if-you-had-real-control-over-light-mode-dark-mode-on-a-per-site-basis/</link>
+      <description><![CDATA[深色模式切换按钮应该是浏览器的一项功能。
+]]></description>
+      <guid>https://www.bram.us/2024/04/13/what-if-you-had-real-control-over-light-mode-dark-mode-on-a-per-site-basis/</guid>
+      <pubDate>Tue, 16 Apr 2024 11:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>折叠 DOM</title>
+      <link>https://www.joshwcomeau.com/react/folding-the-dom/</link>
+      <description><![CDATA[在这篇文章中，我们将探索一种可用于“折叠” DOM 节点的技术，就像在现实生活中折叠字母一样。
+]]></description>
+      <guid>https://www.joshwcomeau.com/react/folding-the-dom/</guid>
+      <pubDate>Tue, 16 Apr 2024 11:18:19 GMT</pubDate>
+    </item>
     <item>
       <title>缺口是新的保证金</title>
       <link>https://frontendmasters.com/blog/gap-is-the-new-margin/</link>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://scottjehl.com/posts/wordleish/</guid>
       <pubDate>Thu, 11 Apr 2024 11:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSS 锚点定位绘制一条线来连接元素</title>
-      <link>https://frontendmasters.com/blog/drawing-a-line-to-connect-elements-with-css-anchor-positioning/</link>
-      <description><![CDATA[万维网联盟 (W3C) 去年发布了 CSS 锚点定位的第一个公开工作草案，所以我想尝试一下。
-]]></description>
-      <guid>https://frontendmasters.com/blog/drawing-a-line-to-connect-elements-with-css-anchor-positioning/</guid>
-      <pubDate>Thu, 11 Apr 2024 11:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>组件库</title>
-      <link>https://component.gallery/</link>
-      <description><![CDATA[组件库是来自最佳设计系统的组件的集合。
-]]></description>
-      <guid>https://component.gallery/</guid>
-      <pubDate>Thu, 11 Apr 2024 11:21:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
