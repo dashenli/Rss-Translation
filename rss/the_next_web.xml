@@ -4,7 +4,21 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Tue, 16 Apr 2024 12:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:14:45 GMT</lastBuildDate>
+    <item>
+      <title>荷兰人造肉初创公司为“世界上最友善的汉堡”筹集了 4000 万欧元</title>
+      <link>https://thenextweb.com/news/dutch-cultivated-meat-burger-startup-mosa-funding</link>
+      <description><![CDATA[2013年，荷兰科学家马克·波斯特(Mark Post)揭开了世界上第一个人造肉的面纱电视直播中的汉堡——将实验室培育的肉类从科幻小说领域带入科学事实。波斯特最终把他的发明变成了一家名为 Mosa Meat 的初创公司。新企业承诺将“世界上最美味的汉堡”带到超市货架上。今天，Mosa Meat 宣布又获得 4000 万欧元融资——距离完成 8500 万美元 B 轮融资仅两个月。 Lowercarbon Capital 和 M Ventures 领投，现有投资者包括演员莱昂纳多·迪卡普里奥 (Leonardo DiCaprio)。新的资金来源正值美国政界人士掀起一种文化之际…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/dutch-cultivated-meat-burger-startup-mosa-funding</guid>
+      <pubDate>Tue, 16 Apr 2024 12:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国软件公司在欧盟证券交易所进行三年来最大规模的首次公开募股</title>
+      <link>https://thenextweb.com/news/software-firm-planisware-biggest-ipo-eu-stock-exchange-3-years</link>
+      <description><![CDATA[法国 SaaS 公司 Planisware 今日启动首次公开募股 (IPO)，达到估值11.1 亿欧元。这是过去三年来巴黎泛欧交易所最大规模的首次公开募股。 Planisware 由 Yves Humblot、Pierre Demonsant、Matthieu Delille 和 François Pelissolo 于 1996 年创立。 Planisware 提供用于企业项目组合管理的软件。该公司在全球拥有 500 多家蓝筹客户，包括百事可乐和辉瑞，拥有约 700 名员工。过去三年，该公司的综合收入以约 20% 的复合年增长率增长，EBITDA 利润率超过此故事继续下一个网络]]></description>
+      <guid>https://thenextweb.com/news/software-firm-planisware-biggest-ipo-eu-stock-exchange-3-years</guid>
+      <pubDate>Tue, 16 Apr 2024 11:49:54 GMT</pubDate>
+    </item>
     <item>
       <title>气候科技巨头殷拓集团 (EQT) 和逆向投资者 (Contrarian) 推出投资“剧本”</title>
       <link>https://thenextweb.com/news/climate-tech-eqt-venture-capital-startups-investment</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[听说过可验证盲量子计算的混合物质-光子实现吗？不？我们也没有，直到今天。但这可能会让“数以百万计的个人和公司”安全地访问下一代量子计算机，而不会暴露他们的任何数据。至少，根据牛津大学物理学家的科学家的说法。英国量子计算和模拟中心的一组研究人员声称，他们在连接两个独立的量子实体方面取得了重大里程碑——比如一个人在家通过接口和量子计算机服务器访问云——但没有透露身份;这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/oxford-breakthrough-entirely-secure-quantum-cloud-computing</guid>
       <pubDate>Thu, 11 Apr 2024 12:47:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲第一家养殖鱼类试点工厂在德国开业</title>
-      <link>https://thenextweb.com/news/bluu-seafood-cultivated-fish-european-plant</link>
-      <description><![CDATA[德国初创公司 Bluu Seafood 今天推出了欧洲第一个养殖鱼类试点工厂。汉堡的工厂让实验室种植的海鲜离市场又近了一步。 Bluu 此前曾在德国吕贝克的一个小实验室开发过这种有争议的食品。新工厂将工作范围扩大到 2,000 平方米的定制研究、生产和办公空间。该工厂的核心是用于培养大西洋鲑鱼和虹鳟鱼的肌肉、脂肪和组织细胞的新型发酵罐。目前的设备容量为 65 升。但 Bluu 表示，它们可以增加到 2,000 升，为种植更多的海产品提供空间。这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/bluu-seafood-cultivated-fish-european-plant</guid>
-      <pubDate>Thu, 11 Apr 2024 12:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲的开源状况</title>
-      <link>https://thenextweb.com/news/state-open-source-europe</link>
-      <description><![CDATA[开源正处于十字路口。在过去的几年里，风险投资直接或间接地支付了许多贡献者及其维持运转所需的大部分基础设施的费用。直到过去 24 个月左右，资金开始放缓，导致内部开发或用于开源的资金资源减少。公司突然必须证明自己的合理性，拥有真正的商业模式，削减成本，并从根本上开始向投资者回报一些东西。另一方面，这种计算导致了重新关注，商业头脑项目的新的纯开源分叉，以及a…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/state-open-source-europe</guid>
-      <pubDate>Thu, 11 Apr 2024 12:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
