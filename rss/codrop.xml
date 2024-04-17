@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 16 Apr 2024 12:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:18:13 GMT</lastBuildDate>
+    <item>
+      <title>一些滚动文本突出显示动画</title>
+      <link>https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/</link>
+      <description><![CDATA[基于滚动的文本突出显示动画的一些想法。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/</guid>
+      <pubDate>Wed, 17 Apr 2024 12:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>集体#830</title>
       <link>https://tympanus.net/codrops/collective/collective-830/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[NanoGL 指南 * 迭代器助手 * magick.css * dropflow]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-827-2/</guid>
       <pubDate>Fri, 05 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>版式中的滚动扩展图像动画</title>
-      <link>https://tympanus.net/codrops/2024/04/02/on-scroll-expanding-image-animation-within-typography/</link>
-      <description><![CDATA[一个动画实验，我们在滚动的某些印刷元素中扩展图像。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/02/on-scroll-expanding-image-animation-within-typography/</guid>
-      <pubDate>Tue, 02 Apr 2024 11:45:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

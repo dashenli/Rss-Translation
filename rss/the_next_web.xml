@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 17 Apr 2024 12:25:04 GMT</lastBuildDate>
+    <description>为 T 世代提供原创且自豪的观点</description>
+    <lastBuildDate>Wed, 17 Apr 2024 15:17:38 GMT</lastBuildDate>
+    <item>
+      <title>在有史以来最大规模的选举年，科技平台对选民操纵敞开大门</title>
+      <link>https://thenextweb.com/news/tech-ad-transparency-tools-miss-dsa</link>
+      <description><![CDATA[在欧盟的命令下，科技巨头推出了11款广告透明工具。根据 Mozilla 的一项新研究，它们都不适合用途。这些工具提供有关在线广告的数据库。通过探索存储库，研究人员可以识别广告背后的资助者和技术。至少，这是这个想法。欧盟数字服务法 (DSA) 是一项旨在保护在线环境的法律，图书馆对此负有义务。通过关注广告内容和定位，欧盟希望解决虚假信息和操纵问题。影响可能是全球性的。因为平台通常会响应国际…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/tech-ad-transparency-tools-miss-dsa</guid>
+      <pubDate>Wed, 17 Apr 2024 14:16:52 GMT</pubDate>
+    </item>
     <item>
       <title>空中出租车公司融资 1.1 亿美元，计划于 2026 年推出商业服务</title>
       <link>https://thenextweb.com/news/air-taxi-firm-raises-110m-plans-to-launch-commercial-service-in-2026</link>
@@ -50,7 +57,7 @@
     <item>
       <title>气候科技巨头殷拓集团 (EQT) 和逆向投资者 (Contrarian) 推出投资“剧本”</title>
       <link>https://thenextweb.com/news/climate-tech-eqt-venture-capital-startups-investment</link>
-      <description><![CDATA[超过 50 家欧洲风险投资公司和初创公司联手推出 Climate Brick——一种新的旨在快速跟踪绿色技术投资的社区。 Climate Brick 今天启动了，其创始人声称这是有史以来最全面的气候技术研究之一。该报告采访了 100 名气候专家和 3,000 家公司，为寻求规模化的气候技术初创公司提供了路线图。 Contrarian Ventures 合伙人、Climate Brick 成员之一 Rokas Peciulaitis 表示：“我们确实需要气候技术的通用词汇和手册，现在有了 Climate Brick，我们就拥有了。”这个故事还在继续 在下一个网络]]></description>
+      <description><![CDATA[超过 50 家欧洲风险投资公司和初创公司联手推出 Climate Brick——一种新的旨在快速跟踪绿色技术投资的社区。 Climate Brick 今天启动，其创始人声称这是有史以来最全面的气候技术研究之一。该报告采访了 100 名气候专家和 3,000 家公司，为寻求规模化的气候技术初创公司提供了路线图。 Contrarian Ventures 合伙人、Climate Brick 成员之一 Rokas Peciulaitis 表示：“我们确实需要气候技术的通用词汇和手册，现在有了 Climate Brick，我们就拥有了。”这个故事还在继续 在下一个网络]]></description>
       <guid>https://thenextweb.com/news/climate-tech-eqt-venture-capital-startups-investment</guid>
       <pubDate>Tue, 16 Apr 2024 07:00:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[太空迷的喜悦：你现在可以扮演宇航员在《堡垒之夜》中。您甚至可以与好友合作，根据欧洲航天局未来的真实任务建造月球栖息地。 《月球地平线》由 Epic Games 设计，背景设定在月球南极。由于可能存在水冰，这是月球上最适合人类居住的点。 Epic Games 与 ESA 的人类和机器人探索专家合作，为游戏创建了逼真的 3D 环境。这包括复制月球的微重力。在月球地平线中，您可以自由地这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/fortnite-esa-lunar-habitat-mission-game-epic-games</guid>
       <pubDate>Mon, 15 Apr 2024 12:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字显示器和“屏幕时代”的终结</title>
-      <link>https://thenextweb.com/news/digital-displays-end-screen-age</link>
-      <description><![CDATA[虽然人们常说我们生活在信息时代，但我喜欢这样称呼它还有一件事：屏幕年龄。在过去的七十年里，我们看到显示器几乎渗透到我们生活的方方面面。电视走进了我们的家，重塑了新闻和娱乐。紧随其后的是智能手机，它改变了沟通方式以及我们与世界互动的方式。这项技术以我们仍在努力解决的方式改变了世界，但它仍然没有讲述数字显示器的全部故事。除了这些划时代的例子之外，屏幕还有无数更小的方式……这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/digital-displays-end-screen-age</guid>
-      <pubDate>Mon, 15 Apr 2024 10:20:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
