@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:56:53 GMT</lastBuildDate>
+    <item>
+      <title>人工智能驱动的非玩家角色创造游戏的未来</title>
+      <link>https://wired.jp/article/artificial-intelligence-ai-non-player-characters-npcs-future/</link>
+      <description><![CDATA[开发者对于人工智能对游戏行业的影响既兴奋又紧张。与此同时，大型游戏公司育碧正在开发一种名为“Neo NPC（非玩家角色）”的人工智能角色，可以与玩家实时互动。]]></description>
+      <guid>https://wired.jp/article/artificial-intelligence-ai-non-player-characters-npcs-future/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用伊朗袭击以色列的虚假视频正在疯传</title>
+      <link>https://wired.jp/article/iran-israel-attack-viral-fake-content/</link>
+      <description><![CDATA[据称与伊朗袭击以色列有关的虚假信息正在 X 上传播。除了使用生成式人工智能创建的视频和照片之外，还有一些完全不相关的内容（例如从过去的冲突中重复使用的视频和照片）被冒充为来自当前事件的情况。]]></description>
+      <guid>https://wired.jp/article/iran-israel-attack-viral-fake-content/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人性化的“爱拼”评测：功能还少，目前无法替代智能手机</title>
+      <link>https://wired.jp/article/sz-humane-ai-pin-review/</link>
+      <description><![CDATA[Humane的可穿戴设备“爱品”去年发布后就引起了广泛关注。然而，当我们最近测试实际机器时，它的功能有限，而且人工智能答案的准确性也各不相同。在这一点上，还不足以取代智能手机。]]></description>
+      <guid>https://wired.jp/article/sz-humane-ai-pin-review/</guid>
+      <pubDate>Tue, 16 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>什么是再生公司？ — 扩展运动的概述，从其三个原则到其业务领域</title>
       <link>https://wired.jp/article/the-regenerative-company-en/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[近年来，创新产品层出不穷的奢华腕表世界，正在经历一场更加“实质性”的演变。在此背景下，我们想介绍在“2024年日内瓦钟表与奇迹（W&amp;W）”高级钟表展上发现的八款值得关注的型号。]]></description>
       <guid>https://wired.jp/article/best-of-watches-wonders-2024/</guid>
       <pubDate>Sat, 13 Apr 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>禽流感正在以前所未有的规模向哺乳动物传播</title>
-      <link>https://wired.jp/article/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/</link>
-      <description><![CDATA[禽流感（H5N1）正在肆虐，哺乳动物之间的感染正以前所未有的规模蔓延。由于粮食安全已经受到影响，研究人员越来越多地呼吁建立紧急监测系统。]]></description>
-      <guid>https://wired.jp/article/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/</guid>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在XZ Utils中安装后门的神秘人“贾坦”的真实身份是什么？专家推理</title>
-      <link>https://wired.jp/article/jia-tan-xz-backdoor/</link>
-      <description><![CDATA[遭到挫败的 XZ Utils 供应链攻击是酝酿多年的。多项线索揭示了植入恶意代码者背后的一个国家黑客组织的身份。]]></description>
-      <guid>https://wired.jp/article/jia-tan-xz-backdoor/</guid>
-      <pubDate>Fri, 12 Apr 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从主编到SZ会员：《时尚的去未来》SZ通讯VOL.231</title>
-      <link>https://wired.jp/article/sz-newsletter-231/</link>
-      <description><![CDATA[时尚结合了令人兴奋的创造力和臭名昭著的污染产业结构，我们如何才能拆除这个未来并重建一个新的未来？主编发给 SZ 会员的周末通讯。]]></description>
-      <guid>https://wired.jp/article/sz-newsletter-231/</guid>
-      <pubDate>Fri, 12 Apr 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
