@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 09:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:26:12 GMT</lastBuildDate>
+    <item>
+      <title>引领未来：汽车用户体验的新愿景</title>
+      <link>https://bootcamp.uxdesign.cc/steering-the-future-a-new-vision-for-car-ux-1243843f289d</link>
+      <description><![CDATA[关于如何改善汽车界面中的用户体验的几句话和想法。
+]]></description>
+      <guid>https://bootcamp.uxdesign.cc/steering-the-future-a-new-vision-for-car-ux-1243843f289d</guid>
+      <pubDate>Thu, 18 Apr 2024 11:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发工具提示与技巧</title>
+      <link>https://frontendmasters.com/blog/devtools-tips-tricks/</link>
+      <description><![CDATA[前端开发人员花费大量时间在浏览器的开发工具中工作。 
+]]></description>
+      <guid>https://frontendmasters.com/blog/devtools-tips-tricks/</guid>
+      <pubDate>Thu, 18 Apr 2024 11:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Campfire 中的现代 CSS 模式</title>
+      <link>https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/</link>
+      <description><![CDATA[深入了解 37signals 如何使用现代功能、普通 CSS 以及无框架或预处理器构建 ONCE/Campfire。
+]]></description>
+      <guid>https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/</guid>
+      <pubDate>Thu, 18 Apr 2024 11:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS404</title>
+      <link>https://ios404.com/</link>
+      <description><![CDATA[iOS 缺失的网络功能。
+]]></description>
+      <guid>https://ios404.com/</guid>
+      <pubDate>Thu, 18 Apr 2024 11:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>维持互联网运转的隐形航海业</title>
+      <link>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</link>
+      <description><![CDATA[一名船员如何冒着辐射、风暴和洋流的风险，将日本从数字隔离中拯救出来。
+]]></description>
+      <guid>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</guid>
+      <pubDate>Thu, 18 Apr 2024 11:12:39 GMT</pubDate>
+    </item>
     <item>
       <title>标志系统：探索 400 多个标志设计</title>
       <link>https://logosystem.co/</link>
@@ -32,7 +72,7 @@
     <item>
       <title>案例研究：84—24</title>
       <link>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</link>
-      <description><![CDATA[《84—24》制作过程一探究竟。修复 80 年代永恒经典的故事。
+      <description><![CDATA[《84—24》的制作过程一探究竟。修复 80 年代永恒经典的故事。
 ]]></description>
       <guid>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</guid>
       <pubDate>Wed, 17 Apr 2024 12:05:47 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.joshwcomeau.com/react/folding-the-dom/</guid>
       <pubDate>Tue, 16 Apr 2024 11:18:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>缺口是新的保证金</title>
-      <link>https://frontendmasters.com/blog/gap-is-the-new-margin/</link>
-      <description><![CDATA[2020 年，Max Stoiber 写下了辛辣的《保证金被认为有害》。
-]]></description>
-      <guid>https://frontendmasters.com/blog/gap-is-the-new-margin/</guid>
-      <pubDate>Mon, 15 Apr 2024 00:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个少年</title>
-      <link>https://pudding.cool/2024/03/teenagers/</link>
-      <description><![CDATA[观看数百名青少年成长为成年人 - 看看他们的生活如何发展
-]]></description>
-      <guid>https://pudding.cool/2024/03/teenagers/</guid>
-      <pubDate>Mon, 15 Apr 2024 00:50:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>艺术智慧</title>
-      <link>https://design.google/library/artistic-intelligence</link>
-      <description><![CDATA[创意人员如何将复杂的概念转化为视觉语言
-]]></description>
-      <guid>https://design.google/library/artistic-intelligence</guid>
-      <pubDate>Mon, 15 Apr 2024 00:49:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师应该编码吗？</title>
-      <link>https://bradfrost.com/blog/post/should-designers-code/</link>
-      <description><![CDATA[啊，是的，这个老栗子。它像早春的水仙花一样可靠地绽放。
-]]></description>
-      <guid>https://bradfrost.com/blog/post/should-designers-code/</guid>
-      <pubDate>Mon, 15 Apr 2024 00:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 服务器组件中的 CSS</title>
-      <link>https://www.joshwcomeau.com/react/css-in-rsc/</link>
-      <description><![CDATA[当核心 React 团队公布他们对 React 未来的愿景时，我最喜欢的一些库被打乱了。
-]]></description>
-      <guid>https://www.joshwcomeau.com/react/css-in-rsc/</guid>
-      <pubDate>Mon, 15 Apr 2024 00:44:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
