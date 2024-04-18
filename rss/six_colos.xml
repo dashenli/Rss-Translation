@@ -3,8 +3,16 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 18 Apr 2024 00:55:17 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Thu, 18 Apr 2024 18:18:18 GMT</lastBuildDate>
+    <item>
+      <title>苹果模拟器的大转变对每个人都有好处</title>
+      <link>https://sixcolors.com/post/2024/04/apples-emulator-about-face-is-good-for-everyone/</link>
+      <description><![CDATA[
+在苹果改变模拟器规则后不到两周，Riley Testut 的 Delta 游戏模拟器在推出后 12 小时内就攀升至美国应用商店第一名。…]]></description>
+      <guid>https://sixcolors.com/post/2024/04/apples-emulator-about-face-is-good-for-everyone/</guid>
+      <pubDate>Thu, 18 Apr 2024 15:20:01 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 融入企业：2024 年成绩单</title>
       <link>https://sixcolors.com/post/2024/04/apple-in-the-enterprise-a-2024-report-card/</link>
@@ -13,7 +21,7 @@
       <pubDate>Wed, 17 Apr 2024 21:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）顺时针 550：系好安全带，忘记我的电子邮件</title>
+      <title>（播客）顺时针 550：系好安全带，忘掉我的电子邮件</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-550-strap-in-and-forget-my-email/</link>
       <description><![CDATA[早期的网络怀旧和令人难忘的在线体验，我们拥有或审查过的最令人失望的技术产品，我们对技术故障排除的坚持，以及我们仍在使用的最古老的技术。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-550-strap-in-and-forget-my-email/</guid>
@@ -79,7 +87,7 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
       <link>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</link>
       <description><![CDATA[彭博社的马克·古尔曼 (Mark Gurman) 又发表了一篇精彩的芯片独家报道，这次是关于 Mac 的未来：
 &lt;块引用&gt;
-  据知情人士透露，该公司五个月前发布了首款搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
+  据知情人士透露，该公司五个月前发布了第一批搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</guid>
       <pubDate>Thu, 11 Apr 2024 17:38:10 GMT</pubDate>
     </item>
@@ -112,13 +120,6 @@ Kolide 希望您的业务安全。可以将其想象为机场安检：有两条�
   路透社收集了六家公司的数据，证实当出现选择屏幕时，许多欧盟用户会更换 Chrome 或 Safari 等默认浏览器，转而选择更注重隐私的选项。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/report-dmas-browser-choice-requirement-benefiting-third-party-browsers/</guid>
       <pubDate>Wed, 10 Apr 2024 18:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 490：救援机器人</title>
-      <link>https://sixcolors.com/podcast/2024/04/the-rebound-490-rescue-robot/</link>
-      <description><![CDATA[我们并不是对技术感到愤怒，只是感到失望。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/04/the-rebound-490-rescue-robot/</guid>
-      <pubDate>Wed, 10 Apr 2024 18:22:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
