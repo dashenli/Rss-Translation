@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:54:03 GMT</lastBuildDate>
+    <item>
+      <title>Bethesda 悄悄从 Ghostwire: Tokyo 中删除 Denuvo DRM</title>
+      <link>https://www.ign.com/articles/bethesda-quietly-removes-denuvo-drm-from-ghostwire-tokyo</link>
+      <description><![CDATA[作为最近更新的一部分，Bethesda 和 Tango Gameworks 已悄然从 PC 版《幽灵线：东京》中删除了 Denuvo DRM 技术。]]></description>
+      <guid>https://www.ign.com/articles/bethesda-quietly-removes-denuvo-drm-from-ghostwire-tokyo</guid>
+      <pubDate>Wed, 17 Apr 2024 21:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>EA 的《黑豹》似乎是一个基于职位发布的开放世界沙盒</title>
       <link>https://www.ign.com/articles/eas-black-panther-appears-to-be-an-open-world-sandbox-based-on-job-posting</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[需要更多存储空间？]]></description>
       <guid>https://www.ign.com/articles/best-ps5-ssd</guid>
       <pubDate>Wed, 17 Apr 2024 14:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 4 月任天堂独立世界展示会：一切已公布</title>
-      <link>https://www.ign.com/articles/nintendo-indie-world-showcase-april-2024-everything-announced</link>
-      <description><![CDATA[以下是任天堂在 2024 年首届独立世界展示会上宣布的所有内容。]]></description>
-      <guid>https://www.ign.com/articles/nintendo-indie-world-showcase-april-2024-everything-announced</guid>
-      <pubDate>Wed, 17 Apr 2024 14:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
