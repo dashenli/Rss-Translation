@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 18 Apr 2024 06:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:15:16 GMT</lastBuildDate>
+    <item>
+      <title>科技领袖大声呼吁人工智能监管，但为何对其内容没有达成共识</title>
+      <link>https://wired.jp/article/tech-ai-regulation-bill/</link>
+      <description><![CDATA[萨姆·奥尔特曼和其他科技高管呼吁美国政府监管人工智能。然而，即使在主张这一点的人中，对于如何监管​​人工智能也没有达成共识。像欧洲那样的人工智能监管法律可以实现这一点吗？]]></description>
+      <guid>https://wired.jp/article/tech-ai-regulation-bill/</guid>
+      <pubDate>Thu, 18 Apr 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>接受脑植入手术的患者数量将“巨大”：BCI外科医生谈论未来</title>
       <link>https://wired.jp/article/your-next-job-bci-surgeon/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一些公司正在部署人工智能来取代人类，而另一些公司则利用人工智能来增强员工队伍。一些公司正在招聘新人。 《连线》杂志向旧金山联邦储备银行行长玛丽·戴利询问了她对人工智能与人类未来工作关系的看法。]]></description>
       <guid>https://wired.jp/article/ai-impact-on-work-mary-daly-interview/</guid>
       <pubDate>Mon, 15 Apr 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI“GPT Store”正在擦出版权新火花</title>
-      <link>https://wired.jp/article/openai-gpt-store-triggering-copyright-complaints/</link>
-      <description><![CDATA[一家丹麦出版商要求 OpenAI 删除 GPT 商店中的一些未经许可使用其受版权保护的材料创建的机器人。 OpenAI 可能会面临其他版权所有者的类似诉讼。]]></description>
-      <guid>https://wired.jp/article/openai-gpt-store-triggering-copyright-complaints/</guid>
-      <pubDate>Sun, 14 Apr 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
