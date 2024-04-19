@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:25:06 GMT</lastBuildDate>
+    <item>
+      <title>集体#831</title>
+      <link>https://tympanus.net/codrops/collective/collective-831/</link>
+      <description><![CDATA[调试器工具包 * Deco.cx * 展平贝塞尔曲线和圆弧]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-831/</guid>
+      <pubDate>Fri, 19 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一些滚动文本突出显示动画</title>
       <link>https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[发现一系列充满活力的网站，每个网站都展示出色的设计，激发您的灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/</guid>
       <pubDate>Sat, 06 Apr 2024 11:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#827</title>
-      <link>https://tympanus.net/codrops/collective/collective-827-2/</link>
-      <description><![CDATA[NanoGL 指南 * 迭代器助手 * magick.css * dropflow]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-827-2/</guid>
-      <pubDate>Fri, 05 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
