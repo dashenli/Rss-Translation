@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:12:32 GMT</lastBuildDate>
+    <item>
+      <title>欢迎使用最新的 iroh 版本 0.14.0，您现在可以仅使用节点 ID 拨打世界！</title>
+      <link>https://t.me/hn_summary/85292</link>
+      <description><![CDATA[Iroh 0.14.0 – 拨打世界
+欢迎使用最新的 iroh 版本 0.14.0，您现在可以仅使用节点 ID 拨打世界！感谢 @frando、@rklaehn 和 @frando 开发的 iroh-dns-server a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;@arnazeh，可以轻松通过DNS查找节点信息。新的中继服务器具有更快的连接握手速度，从而加快了与较远中继的连接速度。然而，这意味着它们无法与 0.13.0 节点通信，因此旧中继将在另外 4 周内保持活动状态。我们还引入了一个 API 来管理作者，并将 redb 更新到 v2 以获得更好的性能。查看 0.15.0 里程碑中的完整变更日志和即将推出的功能！]]></description>
+      <guid>https://t.me/hn_summary/85292</guid>
+      <pubDate>Fri, 19 Apr 2024 03:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]伊丽莎白·汉纳 (Elizabeth Hanna)，一位被美国糖尿病协会 (ADA) 解雇的化学家，提交了一份 [...]</title>
+      <link>https://t.me/hn_summary/85291</link>
+      <description><![CDATA[化学家因不为糖尿病患者推荐 Splenda 沙拉而被 ADA 解雇&lt; /a&gt;
+被美国糖尿病协会 (ADA) 解雇的化学家伊丽莎白·汉纳 (Elizabeth Hanna) 提起诉讼，指控该组织向她施压，要求她认可含有 Splenda（一种有争议的人造甜味剂）的食谱。 ADA 否认了这些指控，该机构从制药和食品行业的赞助商那里获得了数百万美元的资金。汉纳的诉讼描绘了一个更关心企业利益而不是美国糖尿病患者健康的组织的形象。这场争议凸显了 Splenda 的潜在危险以及 ADA 可疑的饮食建议。此案例揭示了围绕 ADA 与企业赞助商的关系及其对公共健康影响的持续争论。]]></description>
+      <guid>https://t.me/hn_summary/85291</guid>
+      <pubDate>Fri, 19 Apr 2024 03:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我是 Noemie，我来这里是为了向创始人分享一些 O1 签证技巧。</title>
+      <link>https://t.me/hn_summary/85290</link>
+      <description><![CDATA[针对创始人的 O1 签证黑客
+大家好，我是 Noemie，我来这里是为了向创始人分享一些 O1 签证技巧。与普遍看法相反，您不需要诺贝尔奖或资金就有资格获得 O1 签证。它对创始人友好，也是获得绿卡的垫脚石。关键是通过独家会员资格、评委角色、高薪、奖项和对公司的重大贡献来讲述故事并展示您的成就。质量胜于数量至关重要。美国是创业的最佳地点，所以带着梦想来吧，像 1776 年一样扩大规模。让我们一起完成移民流程，让您的创业梦想成为现实！ 🦅🇺🇸]]></description>
+      <guid>https://t.me/hn_summary/85290</guid>
+      <pubDate>Fri, 19 Apr 2024 02:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在奥斯汀，开发商自 [...] 以来一直在学生宿舍中建造无窗卧室。</title>
+      <link>https://t.me/hn_summary/85289</link>
+      <description><![CDATA[开发商在奥斯汀建造了无窗卧室
+在奥斯汀，开发商至少从 2002 年起就利用建筑规范的漏洞在学生宿舍建造无窗卧室。德克萨斯大学奥斯汀分校教授胡安·米罗一直主张卧室必须有窗户，理由是自然光对心理健康有益。像朱莉娅·马哈维尔这样的学生发现自己住在没有窗户的房间里，感到与世隔绝和沮丧。围绕无窗卧室的争议导致奥斯汀新开发项目禁止建造无窗卧室。争论仍在继续，一些人主张“借用光”解决方案，而另一些人则主张将自然光作为一项人权。]]></description>
+      <guid>https://t.me/hn_summary/85289</guid>
+      <pubDate>Fri, 19 Apr 2024 01:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>社会是否陷入了死亡螺旋？</title>
+      <link>https://t.me/hn_summary/85288</link>
+      <description><![CDATA[社会是否陷入了死亡螺旋？模拟社会消亡和逆转
+本文探讨了社会中“死亡螺旋效应”的概念，将社会衰退与公司组织衰退进行了比较。文章使用“蚂蚁磨坊”的比喻，讨论了功能失调的行为如何导致螺旋式下降，从而导致不平等加剧、独裁主义以及战争、饥荒和流行病等潜在危机。作者借鉴心理学、社会学和管理学的理论，提出了社会衰落崩溃和逆转的理论模型。文章还强调了早期预警信号的重要性以及社会变革扭转死亡螺旋和促进繁荣的必要性。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85288</guid>
+      <pubDate>Fri, 19 Apr 2024 01:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]丹尼尔·韦伯斯特·华莱士（Daniel Webster Wallace），也被称为“80 约翰”，是一名前奴隶，他反抗奇怪的事情 [...]</title>
+      <link>https://t.me/hn_summary/85287</link>
+      <description><![CDATA[成为牛仔、牧场主和德克萨斯州的前奴隶图例
+丹尼尔·韦伯斯特·华莱士（Daniel Webster Wallace），也被称为“80 约翰”，曾是一名奴隶，后来克服困难，成为德克萨斯州的传奇牛仔和牧场主。尽管当时种族关系紧张，华莱士通过他的辛勤工作和养牛方面的专业知识赢得了白人同行的尊重。他积累了财富，建立了一个成功的牧场，并为社区做出了重大贡献。华莱士的故事揭示了旧西部牛仔文化的多样性，不同种族的男人经常一起工作并互相尊重。他的遗产虽然基本上被遗忘了，但却证明了他在逆境中取得的非凡成就。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85287</guid>
+      <pubDate>Fri, 19 Apr 2024 01:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在严峻的现实中，乌克兰正在输掉战争，原因是军队士气低落、缺乏 [...]</title>
+      <link>https://t.me/hn_summary/85286</link>
+      <description><![CDATA[为什么乌克兰会输掉战争
+严峻的现实是，乌克兰因军队士气低落、缺乏先进武器、战场损失惨重而正在输掉战争。年轻人正在逃避兵役并在夜总会消磨时光，而不是参军。泽连斯基总统正试图团结公民和士兵，但军官们私下承认，更多损失是不可避免的。西方领导人帮助乌克兰的行动未能成功，这让乌克兰人感到疲倦和烦躁。如果局势不尽快扭转，目前的乌克兰可能会成为过去。形势严峻，弗拉基米尔·普京比以往任何时候都更接近他的目标。]]></description>
+      <guid>https://t.me/hn_summary/85286</guid>
+      <pubDate>Fri, 19 Apr 2024 01:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>SeaMonkey 一体化互联网应用程序套件为所有 [...]</title>
+      <link>https://t.me/hn_summary/85285</link>
+      <description><![CDATA[SeaMonkey 一体化互联网应用套件&lt; br /&gt;
+SeaMonkey 一体式互联网应用程序套件为您的所有在线需求提供了全面的解决方案。 SeaMonkey 集网络浏览器、高级电子邮件客户端、新闻组和提要阅读器、IRC 聊天和 HTML 编辑器于一体，非常适合高级用户、网络开发人员和企业用户。 SeaMonkey 基于 Mozilla Firefox 源代码构建，并得到 SeaMonkey 协会的支持。最新版本 SeaMonkey 2.53.18.2 可供免费下载多种语言。我们鼓励用户参与讨论和报告问题，以帮助改进产品。]]></description>
+      <guid>https://t.me/hn_summary/85285</guid>
+      <pubDate>Fri, 19 Apr 2024 01:09:26 GMT</pubDate>
+    </item>
     <item>
       <title>在本文中，我分享了一些不应该成为秘密的开发者工具秘密。</title>
       <link>https://t.me/hn_summary/85284</link>
@@ -20,71 +84,6 @@
 美国国会委员会公布了巴西法院的机密命令，披露社交媒体平台 X 上的账户被暂停，引发了有关所谓审查制度的争议。亿万富翁老板埃隆·马斯克与巴西最高法院法官亚历山大·德·莫赖斯发生冲突，将这些命令等同于审查制度。对传播假新闻和威胁的“数字民兵”的调查范围已扩大到包括那些煽动针对总统博尔索纳罗选举失败的抗议活动的人。马斯克藐视法庭命令的行为导致了有关妨碍和煽动的调查。该命令的发布引发了人们对政府审查和言论自由的担忧，对美国保守派产生了影响。]]></description>
       <guid>https://t.me/hn_summary/85283</guid>
       <pubDate>Fri, 19 Apr 2024 00:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国空军和 DARPA 通过展示 [...]</title>
-      <link>https://t.me/hn_summary/85282</link>
-      <description><![CDATA[美国空军表示人工智能控制的 F-16 一直在与人类
-美国空军和 DARPA 取得了突破性成就，证明人工智能软件可以驾驶改装的 F-16 战斗机与人类飞行员进行缠斗。这是通过在 X-62A VISTA 测试平台飞机上实施机器学习而实现的。该人工智能软件在飞行模拟器中战胜了人类飞行员，展示了其在自主空对空作战中的潜力。然而，挑战在于如何让人工智能能够解释和验证，让军事人员和航空当局信任它。该团队的努力被公认为著名的科利尔奖杯的决赛入围者之一，凸显了自主航空的变革性影响。]]></description>
-      <guid>https://t.me/hn_summary/85282</guid>
-      <pubDate>Fri, 19 Apr 2024 00:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《愚蠢的信息》中，作者深入探讨了信息的力量 [...]</title>
-      <link>https://t.me/hn_summary/85281</link>
-      <description><![CDATA[这是信息，愚蠢的
-在《愚蠢的信息》一书中，作者深入探讨了 21 世纪信息的力量，强调了政府、媒体组织、教育机构和技术公司所施加的控制。搜索引擎对选举的影响，尤其是谷歌的主导地位，是一个关键焦点，研究人员罗伯特·爱泼斯坦关于有偏见的搜索排名改变选民偏好的研究结果引发了争议。作者还探讨了主流媒体对选举的影响以及这种影响在数字时代的延伸。随着 2024 年选举的临近，社交媒体、深度造假、人工智能和虚假信息在影响选举结果方面的作用是可预期的，这引发了人们对搜索引擎影响力的主流新闻报道的质疑。]]></description>
-      <guid>https://t.me/hn_summary/85281</guid>
-      <pubDate>Fri, 19 Apr 2024 00:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国通货膨胀率在 2022 年达到 7% 以上的峰值，但此后已降至 3% 以下，后 [...]</title>
-      <link>https://t.me/hn_summary/85280</link>
-      <description><![CDATA[租金是美联储抑制美国通胀的“最大绊脚石”
-
-美国通胀率在 2022 年达到 7% 以上的峰值，但此后降至 3% 以下，住房是剩余通胀压力的主要罪魁祸首。租金是推动通胀的关键因素，导致美联储在降息方面犹豫不决。芝加哥联储主席奥斯坦·古尔斯比指出，住房通胀并没有像预期的那样迅速下降，对抑制通胀构成了重大挑战。住房成本的这种意外趋势是美联储控制通胀的“最大绊脚石”。]]></description>
-      <guid>https://t.me/hn_summary/85280</guid>
-      <pubDate>Fri, 19 Apr 2024 00:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]为什么叫丝带？</title>
-      <link>https://t.me/hn_summary/85279</link>
-      <description><![CDATA[为什么叫功能区？ （2005）
-2005 年，在重新设计 Outlook 2003 的 UI 时，该团队最初将该功能命名为“WunderBar”，然后确定了正式名称“Navigation Pane”。然而，“丝带”这个词是在一次头脑风暴会议上偶然创造的，灵感来自于中世纪卷轴的概念。尽管是不同的 UI 机制，但这个名称一直沿用至今。丝带命名背后的故事展示了产品命名的不可预测性，以及有时即使是一个愚蠢的想法也可能最终成为产品标识的持久部分。]]></description>
-      <guid>https://t.me/hn_summary/85279</guid>
-      <pubDate>Fri, 19 Apr 2024 00:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]卡萨布兰卡不仅仅是一部电影，它就是电影。</title>
-      <link>https://t.me/hn_summary/85278</link>
-      <description><![CDATA[一遍又一遍地播放：卡萨布兰卡是如何制作的（2018） 
-卡萨布兰卡不仅仅是一部电影，它就是电影。从鼓舞人心的伍迪·艾伦到诺拉·艾芙隆，它是一块文化试金石。影评人可能会嗤之以鼻，但这部电影的影响是不可否认的。演员大多是移民，他们将自己的故事搬上银幕，增加了叙事的深度。匈牙利犹太人导演迈克尔·柯蒂斯通过辛辣和炼金术创作了一部杰作。尽管他的方法很严厉，但这部电影的魔力依然闪耀。 《卡萨布兰卡》的遗产继续存在，挑战评论家和观众超越其阵营声誉并欣赏其永恒的主题。]]></description>
-      <guid>https://t.me/hn_summary/85278</guid>
-      <pubDate>Fri, 19 Apr 2024 00:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在《微积分变得简单》的序言中，作者挑战了微积分难以 [...]</title>
-      <link>https://t.me/hn_summary/85277</link>
-      <description><![CDATA[微积分变得简单
-在《微积分变得简单》的序言中，作者挑战了微积分很难的观念，指出许多技巧实际上相当简单。作者批评高等数学教科书使这门学科看起来比实际情况更复杂，而是旨在为像他们这样的“傻瓜”简化概念。通过掌握简单的部分，作者相信微积分的其余部分将变得更易于管理。作者不讲难点、直白地呈现主题的做法既令人惊讶又巧妙。]]></description>
-      <guid>https://t.me/hn_summary/85277</guid>
-      <pubDate>Fri, 19 Apr 2024 00:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]中国近一半主要城市正在下沉，部分地区低于海平面[...]</title>
-      <link>https://t.me/hn_summary/85276</link>
-      <description><![CDATA[中国近一半的主要城市正在下沉 - 有些“迅速”&lt; /a&gt;
-中国近一半的主要城市正在下沉，一些地区正在迅速下降到海平面以下。这对居住在沿海的数百万居民构成了严重威胁。这个问题并非中国独有，世界许多其他地区也面临着类似的问题。地下水枯竭、建筑物重量和人类活动是导致地面沉降的因素。东京和上海等城市已经实施了成功的缓解策略。随着城市下沉，气候变化导致全球海平面上升，产生双重打击效应。随着城市不断下沉，堤防系统可能是一种经济高效的解决方案，可以防止洪水泛滥。]]></description>
-      <guid>https://t.me/hn_summary/85276</guid>
-      <pubDate>Thu, 18 Apr 2024 23:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 经过十年在科技领域赋予女性权力后，Women Who Code 宣布关闭 [...]</title>
-      <link>https://t.me/hn_summary/85275</link>
-      <description><![CDATA[代码关闭的女性
-经过十年在科技领域赋予女性权力后，Women Who Code 因资金挑战宣布关闭。该组织于 2011 年在旧金山成立，在全球范围内拥有超过 360,000 名会员，举办活动、颁发奖学金并提供就业机会，产生了重大影响。尽管关闭，但信息很明确——支持科技领域女性的使命必须继续下去。董事会和 Teal 团队向所有参与该运动的人表示感谢，并鼓励成员继续推动科技行业的多样性和包容性。社区精神将历久弥新，激励未来的努力。]]></description>
-      <guid>https://t.me/hn_summary/85275</guid>
-      <pubDate>Thu, 18 Apr 2024 23:40:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
