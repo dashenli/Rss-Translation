@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 06:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 09:16:55 GMT</lastBuildDate>
+    <item>
+      <title>世界新闻摄影大赛记录战争、移民和破坏</title>
+      <link>https://www.thisiscolossal.com/2024/04/world-press-photos-2024/</link>
+      <description><![CDATA[从以色列在加沙的战争到全球气温迅速变暖，去年全球各地遭受了令人难以置信的破坏。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/04/world-press-photos-2024/</guid>
+      <pubDate>Fri, 19 Apr 2024 05:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Speedometer 3.0：迄今为止衡量浏览器性能的最佳方法</title>
+      <link>https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/</link>
+      <description><![CDATA[Apple 的 WebKit 团队很高兴推出 Speedometer 3.0，这是一个更好地反映当今 Web 的重大更新。
+]]></description>
+      <guid>https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/</guid>
+      <pubDate>Fri, 19 Apr 2024 05:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>锚点位置工具</title>
+      <link>https://anchor-tool.com/</link>
+      <description><![CDATA[新 CSS 锚点定位功能的 Chrome Canary 演示。 
+]]></description>
+      <guid>https://anchor-tool.com/</guid>
+      <pubDate>Fri, 19 Apr 2024 05:52:55 GMT</pubDate>
+    </item>
     <item>
       <title>CSS 中的滑动 3D 图像框架</title>
       <link>https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</link>
@@ -88,7 +112,7 @@
     <item>
       <title>案例研究：84—24</title>
       <link>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</link>
-      <description><![CDATA[《84—24》的制作过程一探究竟。修复 80 年代永恒经典的故事。
+      <description><![CDATA[《84—24》制作过程一探究竟。修复 80 年代永恒经典的故事。
 ]]></description>
       <guid>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</guid>
       <pubDate>Wed, 17 Apr 2024 12:05:47 GMT</pubDate>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://www.thisiscolossal.com/2024/04/lorenz-oken-natural-history/</guid>
       <pubDate>Wed, 17 Apr 2024 12:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>马里奥遇见帕累托</title>
-      <link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
-      <description><![CDATA[了解如何使用帕累托前沿方法找到最佳的《马里奥赛车 8》版本。
-]]></description>
-      <guid>https://www.mayerowitz.io/blog/mario-meets-pareto</guid>
-      <pubDate>Tue, 16 Apr 2024 11:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>faces.js</title>
-      <link>https://zengm.com/facesjs/</link>
-      <description><![CDATA[用于生成基于矢量的卡通面孔的 JavaScript 库。
-]]></description>
-      <guid>https://zengm.com/facesjs/</guid>
-      <pubDate>Tue, 16 Apr 2024 11:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客文章，按睡眠排序</title>
-      <link>https://breckyunits.com/sleepWriting.html</link>
-      <description><![CDATA[您是否检查过您的写作行为与睡眠之间的相关性？
-]]></description>
-      <guid>https://breckyunits.com/sleepWriting.html</guid>
-      <pubDate>Tue, 16 Apr 2024 11:26:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
