@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 00:51:09 GMT</lastBuildDate>
     <item>
-      <title>[媒体]为了满足 Android 设备上对更高质量视频日益增长的需求，Goog [...]</title>
-      <link>https://t.me/hn_summary/85407</link>
-      <description><![CDATA[YouTube 默认转为 AV1，令部分 Android 用户感到失望
-为了满足 Android 设备对更高质量视频日益增长的需求，Google 通过名为“libdav1d”的新解码器引入了对 AV1 编解码器的支持。虽然此更新为许多 Android 手机带来了更好的编解码器支持，但 YouTube 决定默认使用新解码器，这引起部分用户担心由于缺乏硬件加速支持可能会影响电池续航。此举是继 Netflix 在 2020 年做出类似决定后做出的，即将 AV1 作为 Android 设备流媒体的新标准。随着用户适应这一变化，围绕 YouTube 决定的争议可能最终会平息。]]></description>
-      <guid>https://t.me/hn_summary/85407</guid>
-      <pubDate>Fri, 19 Apr 2024 21:04:13 GMT</pubDate>
+      <title>[媒体]摘要：Fly.io 的快速卷遇到 I/O 性能问题，导致 [...]</title>
+      <link>https://t.me/hn_summary/85435</link>
+      <description><![CDATA[某些卷速度很慢，我们找到了原因&lt; br /&gt;
+摘要：Fly.io 的快速卷正在经历 I/O性能问题，导致深入调查发现了与交换设备相关的错误。该错误导致一些飞行器无法正确节流，从而导致性能下降。通过修复速率限制和代码处理，Fly.io 解决了问题，并正在致力于改进遥测技术，以更好地检测潜在问题。尽管存在该错误，Fly.io 仍然致力于提供高性能托管并鼓励用户报告任何问题以便及时解决。]]></description>
+      <guid>https://t.me/hn_summary/85435</guid>
+      <pubDate>Sat, 20 Apr 2024 00:51:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国环保署第三次允许在全国范围内销售更高浓度的乙醇 [...]</title>
-      <link>https://t.me/hn_summary/85406</link>
-      <description><![CDATA[美国环保局再次允许夏季销售高乙醇汽油混合物
-由于全球冲突影响燃料供应，美国环保署连续第三个夏天允许在全国范围内销售更高比例的乙醇。这一决定受到了中西部生物燃料行业和政界人士的赞扬，他们认为乙醇对农民、消费者和环境都有好处。然而，环保人士对乙醇生产中碳排放量增加表示担忧。更高的混合比例预计消费者的成本将低于目前 10% 的混合比例，并且已被批准用于较新的车辆。这项临时豁免是为了应对持续的全球冲突和美国炼油能力的下降。]]></description>
-      <guid>https://t.me/hn_summary/85406</guid>
-      <pubDate>Fri, 19 Apr 2024 20:51:06 GMT</pubDate>
+      <title>[媒体] 由于海岸侵蚀，楠塔基特岛豪华海滨住宅的价格下降了 75%，[...]</title>
+      <link>https://t.me/hn_summary/85434</link>
+      <description><![CDATA[由于侵蚀担忧冲走价值，海滨房价下跌 75%&lt; /a&gt;
+由于海岸侵蚀，楠塔基特岛的豪华海滨住宅价格下跌了 75%，但一位纽约居民仍在出价。海平面上升令人担忧，近 40% 生活在沿海地区的美国人面临气候驱动的天气威胁。一些居民正在采取行动，例如建造沙丘，而公司则提供浮动房屋等解决方案。请随时关注我们的时事通讯，了解绿色黑客和炫酷的清洁技术更新。]]></description>
+      <guid>https://t.me/hn_summary/85434</guid>
+      <pubDate>Sat, 20 Apr 2024 00:43:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mozilla 终于开始在 Linu 上为 Firefox 提供官方 ARM64/AArch64 二进制文件 [...]</title>
-      <link>https://t.me/hn_summary/85405</link>
-      <description><![CDATA[Mozilla 开始提供 Firefox ARM64 Linux 二进制文件
-Mozilla 终于开始为 Linux 上的 Firefox 提供官方 ARM64/AArch64 二进制文件，这是用户期待已久的举动。虽然 Firefox 已在 AArch64 Linux 和 Windows ARM64 上可用，但 Linux ARM64 构建已留给第三方。 Mozilla 开始针对 ARM64 构建 Firefox Nightly，并计划在全面测试后扩展到发布版本和 ESR 版本。我们鼓励用户下载并测试新的 ARM64 Firefox Nightly 二进制文件，以帮助提高稳定性和可靠性。这标志着 ARM64 上的 Firefox 向前迈出了重要一步，尽管有些人可能认为它早就该发生了。]]></description>
-      <guid>https://t.me/hn_summary/85405</guid>
-      <pubDate>Fri, 19 Apr 2024 20:49:01 GMT</pubDate>
+      <title>[媒体]美国正面临着独特的挑战，人口增长放缓，导致 [...]</title>
+      <link>https://t.me/hn_summary/85433</link>
+      <description><![CDATA[美国特别不适合应对人口下降的问题
+美国正面临着独特的挑战，人口增长放缓，导致伊利诺伊州开罗等许多城镇的衰落。人口减少正在引发经济和社会问题，企业倒闭，学校陷入困境，公共服务对剩余居民来说变得更加昂贵。美国政府的权力下放加剧了这些问题，因为地方当局在税收收入不断减少的情况下难以维持服务。吸引新居民的努力，比如向远程工作者提供补助，可能会对一些地方有所帮助，但总的来说，如果人口增长不加快，该国将面临困难的未来。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85433</guid>
+      <pubDate>Sat, 20 Apr 2024 00:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>告诉 HN：有没有想过申请 YC？</title>
-      <link>https://t.me/hn_summary/85404</link>
-      <description><![CDATA[告诉 HN：有没有想过申请 YC？这个周末做S24
-您正在考虑申请 Y Combinator 吗？不要犹豫，这个周末就为即将到来的 S24 批次做吧。如果您曾经怀疑过自己的资格或认为现在还为时过早，请再想一想。 YC 正在寻找能够学习和成长的潜在创始人，无论他们处于旅程的哪个阶段。申请过程很简单，奖励可以改变生活。不要让自我怀疑阻碍你。抓住机会，在周一之前提交您的申请，看看这个机会可以带您去哪里。 YC 就像蛇梯游戏中的梯子，看不到蛇。立即申请，看看它会带您走向何方。]]></description>
-      <guid>https://t.me/hn_summary/85404</guid>
-      <pubDate>Fri, 19 Apr 2024 20:47:57 GMT</pubDate>
+      <title>[媒体] Paul Hsieh 的关于第六代 x86 CPU 比较的网页内容深入探讨了 [...]</title>
+      <link>https://t.me/hn_summary/85432</link>
+      <description><![CDATA[第六代 x86 CPU 比较
+Paul Hsieh 有关第六代 x86 CPU 比较的网页内容深入探讨了 Intel P-II、AMD K6 和 Cyrix 6x86MX 架构的复杂性。他重点介绍了 K6 P-II 和 6x86MX 理念的独特组合，强调短延迟和 RISC 操作。对K6简单而复杂的流水线设计、分支预测机制和浮点性能进行了深入分析。令人惊讶的是，K6 的分支预测准确率高达 95%，优于 P-II。 K6 比 P-II 更快地执行 FPU 操作的能力是一个值得注意的启示。谢家华的详细比较为精通技术的读者提供了宝贵的见解，欢迎评论和反馈。 （根据故事文本的 14% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85432</guid>
+      <pubDate>Sat, 20 Apr 2024 00:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Greptile 是管理 Git 存储库的游戏规则改变者。</title>
-      <link>https://t.me/hn_summary/85403</link>
-      <description><![CDATA[通过 Web UI 询问有关 Git 存储库的问题&lt; br /&gt;
-Greptile 是管理 Git 存储库的游戏规则改变者。我对我的 Github 存储库提出问题并用简单的英语获得清晰、简洁的答案是多么容易感到震惊。但真正让我印象深刻的是它能够生成美人鱼图来帮助我更好地理解代码结构。对于任何希望简化开发流程并深入了解项目的人来说，该工具都是必备工具。在 greptile.com 上查看，看看它能带来什么改变适合您的工作流程。]]></description>
-      <guid>https://t.me/hn_summary/85403</guid>
-      <pubDate>Fri, 19 Apr 2024 20:43:52 GMT</pubDate>
+      <title>[媒体]贝尔格莱德的下水道正在污染欧洲著名的多瑙河，未处理的污水被排入[...]</title>
+      <link>https://t.me/hn_summary/85431</link>
+      <description><![CDATA[棕色多瑙河：贝尔格莱德的下水道如何污染欧洲著名的河流 
+贝尔格莱德的下水道正在污染欧洲著名的多瑙河，未经处理的污水直接排入水中。这种做法是塞尔维亚首都独有的，给当地渔民造成了严重的污染和困扰。尽管承诺改善情况，包括计划修建废水处理厂，但进展缓慢，最后期限一再延长。随着河流生态系统的变化以及人们对污染造成的健康危害的担忧，环境影响是显而易见的。解决这一问题的紧迫性是显而易见的，但需要采取具体行动来保护多瑙河的未来。]]></description>
+      <guid>https://t.me/hn_summary/85431</guid>
+      <pubDate>Sat, 20 Apr 2024 00:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经过深思熟虑，我做出了退出我的 invo 的艰难决定 [...]</title>
-      <link>https://t.me/hn_summary/85402</link>
-      <description><![CDATA[Moxie：我不再参与 Signal 
-经过深思熟虑，我做出了退出 Signal 的艰难决定。虽然我很感激有机会成为这样一个创新平台的一部分，但我觉得现在是我追求其他事业的时候了。我对未来感到兴奋，并感谢 Signal 社区的支持。感谢您的理解。 #Moxie #Signal #NewBeginnings]]></description>
-      <guid>https://t.me/hn_summary/85402</guid>
-      <pubDate>Fri, 19 Apr 2024 20:42:49 GMT</pubDate>
+      <title>[媒体] llama.com 上的 Llama 3 与其前身 Llama 相比，提供了更少的审查体验，L [...]</title>
+      <link>https://t.me/hn_summary/85430</link>
+      <description><![CDATA[Llama 3 未经过审查
+ollama.com 上的 Llama 3 与其相比，提供了更少审查的体验Llama 3 的前身是 Llama 2。由于错误拒绝率显着降低，Llama 3 现在可以参与更广泛主题的讨论。比较 Llama 3 和 Llama 2 之间的提示的示例表明，Llama 3 在处理诸如在机场消磨时间、格式化硬盘以及讨论由世界上所有铀制成的核弹的潜在破坏性等请求方面的能力有所提高。 Llama 3 大胆而深入的反应使其成为一个令人着迷的人工智能互动工具。]]></description>
+      <guid>https://t.me/hn_summary/85430</guid>
+      <pubDate>Sat, 20 Apr 2024 00:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们探讨了如何利用 Google AI Studi 的多模式功能 [...]</title>
-      <link>https://t.me/hn_summary/85401</link>
-      <description><![CDATA[Gemini 1.5 Pro 和 Google AI Studio 入门 
-在本文中，我们将探讨如何利用 Google AI Studio 1.5 Pro 的多模式功能。一个突出的功能是能够处理各种文件类型，如图像、视频、音频和 Google Drive 文件，使开发人员能够有效地测试想法和排除故障。例如，通过将聊天提示与视频相结合进行摘要，模型可以分析视频内容并提供摘要。这种独特的功能使 Google AI Studio 与 OpenAI 等其他 AI Playgrounds 区分开来，为交互式和动态 AI 项目开辟了新的可能性。立即探索 Gemini 1.5 Pro 和 Google AI Studio 的潜力！]]></description>
-      <guid>https://t.me/hn_summary/85401</guid>
-      <pubDate>Fri, 19 Apr 2024 20:33:43 GMT</pubDate>
+      <title>[媒体] 在这部关于多光标代码编辑的动画介绍中，作者探索了 po [...]</title>
+      <link>https://t.me/hn_summary/85429</link>
+      <description><![CDATA[多光标代码编辑：动画介绍&lt; br /&gt;
+在这个多光标代码编辑的动画介绍中，作者探索了在 VS Code 中使用 Command D 使文本编辑中的重复更改更加高效的强大功能。作者演示了如何导航文本、查找模式、匹配非统一模式、选择所有匹配项、跳过实例、匹配换行符以及执行大小写转换。作者强调 Command D 在多光标编辑方面的简单性和实用性，使其成为提高编码任务生产力的宝贵工具。总的来说，这篇文章提供了在 VS Code 中利用 Command D 来实现更高效的代码编辑的实用技巧和技术。]]></description>
+      <guid>https://t.me/hn_summary/85429</guid>
+      <pubDate>Fri, 19 Apr 2024 23:51:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]克里姆林宫支持的行为者正在加紧努力，在美国之前传播虚假信息 [...]</title>
-      <link>https://t.me/hn_summary/85400</link>
-      <description><![CDATA[克里姆林宫支持的行为者在美国大选前散布虚假信息 
-克里姆林宫支持的行为者正在美国大选前加紧传播虚假信息，重点是减少对乌克兰的支持并播下国内分裂的种子。微软分析师发现了几个与俄罗斯政府有关联的独特的以影响力为目的的组织参与了这些活动。这些团体在这个选举周期中不太活跃，可能是因为初选季节竞争较少。最多产的组织与俄罗斯总统政府有关，凸显了俄罗斯影响力活动的集权性质。这些演员以英语观众为目标，推动对乌克兰及其总统的负面描述。这些策略包括通过受控网站网络传播虚假新闻文章。]]></description>
-      <guid>https://t.me/hn_summary/85400</guid>
-      <pubDate>Fri, 19 Apr 2024 20:21:36 GMT</pubDate>
+      <title>[媒体]在这篇文章中，作者深入探讨了家庭规模与家庭规模之间的关系[...]</title>
+      <link>https://t.me/hn_summary/85428</link>
+      <description><![CDATA[家庭规模和住房存量
+在本文中，作者深入研究了家庭规模与住房存量之间的关系，挑战了人均住房处于历史最高水平意味着不存在供应危机的普遍说法。作者强调了由于孩子减少而导致的家庭规模下降，并强调需要增加住房供应以适应不断变化的人口结构。文章还讨论了空置率对住房指标的影响，并批评了反对某些类型住房的观点阻碍了经济适用房的进展。作者警告围绕住房政策的文化和经济斗争以及在问题恶化之前解决该问题的重要性。]]></description>
+      <guid>https://t.me/hn_summary/85428</guid>
+      <pubDate>Fri, 19 Apr 2024 23:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。</title>
-      <link>https://t.me/hn_summary/85399</link>
-      <description><![CDATA[不作恶 (Google)
-谷歌以前的座右铭“不作恶”是该公司企业行为准则的重要组成部分。这是 Google 员工 Paul Buchheit 在 2000 年代初期提出的建议，旨在将 Google 与竞争对手区分开来。这句座右铭后来被纳入谷歌 2004 年的 IPO 招股说明书中。然而，随着时间的推移，这句座右铭的含义和相关性受到质疑，批评者用它来强调谷歌有争议的行为，例如避税。 2021 年，三名谷歌前员工甚至提起诉讼，声称谷歌因公开反对不道德行为而解雇他们，违反了自己的座右铭。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85399</guid>
-      <pubDate>Fri, 19 Apr 2024 20:15:31 GMT</pubDate>
+      <title>[媒体]huggingface.co 上的 Llama 3 70B Llamafiles 存储库提供可执行权重调用 [...]</title>
+      <link>https://t.me/hn_summary/85427</link>
+      <description><![CDATA[LLaMA 3 70B Llama文件
+huggingface.co 上的 Llama 3 70B Llamafiles 存储库提供了名为适用于各种操作系统的 llamafiles。这些文件可以在 AMD64 和 ARM64 系统上运行，并针对对话用例进行了优化。这些模型由 Meta 开发，有 8B 和 70B 尺寸，并使用 Mozilla Ocho 推出的名为 llamafile 的新格式。这些模型接受了超过 15 万亿个数据的训练，旨在用于英语的商业和研究用途。这些模型在各种基准测试中表现出了令人印象深刻的性能，展示了它们在自然语言生成任务中的有效性。 （根据故事文本的 39% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85427</guid>
+      <pubDate>Fri, 19 Apr 2024 23:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英特尔在14A节点上下了大赌注，旨在通过其处理器赢得客户 [...]</title>
-      <link>https://t.me/hn_summary/85398</link>
-      <description><![CDATA[英特尔 14A 魔弹：定向自组装 (DSA)
-英特尔在14A节点上下了很大的赌注，旨在通过其工艺技术赢得客户。使高数值孔径光刻变得经济的关键在于定向自组装（DSA），这是一种能够大幅降低光刻成本的灵丹妙药。 DSA 利用嵌段共聚物在光刻引导下自组装成精确的图案。这项创新技术有可能彻底改变芯片制造，但十多年来一直停留在研究阶段。英特尔采用 DSA 可以给他们带来竞争优势，但也存在风险。这对行业的影响是巨大的，潜在的应用不仅仅限于前沿逻辑的关键层。]]></description>
-      <guid>https://t.me/hn_summary/85398</guid>
-      <pubDate>Fri, 19 Apr 2024 20:14:25 GMT</pubDate>
+      <title>[媒体]由三打科学家签署的一份新声明认为，鱼类、两栖动物、软体动物 [...]</title>
+      <link>https://t.me/hn_summary/85426</link>
+      <description><![CDATA[科学家认为，忽视整个动物世界的意识是“不负责任的”
+三打科学家签署的一份新声明认为，鱼类、两栖动物、软体动物和昆虫是有感知力的，这引发了人们对动物意识的质疑。纽约大学发表的这一声明引发了科学家们关于人类想象力在理解动物感知方面的局限性的争论。虽然有些人担心夸大证据，但另一些人则认为哺乳动物、鸟类和其他潜在生物的意识有强有力的科学支持。最近的研究显示了令人惊讶的发现，例如章鱼感到疼痛和蜜蜂表现出玩耍行为。该宣言强调需要考虑福利风险并利用证据来应对这些风险。]]></description>
+      <guid>https://t.me/hn_summary/85426</guid>
+      <pubDate>Fri, 19 Apr 2024 23:31:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
