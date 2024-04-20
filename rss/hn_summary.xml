@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 00:51:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:12:54 GMT</lastBuildDate>
     <item>
-      <title>[媒体]摘要：Fly.io 的快速卷遇到 I/O 性能问题，导致 [...]</title>
-      <link>https://t.me/hn_summary/85435</link>
-      <description><![CDATA[某些卷速度很慢，我们找到了原因&lt; br /&gt;
-摘要：Fly.io 的快速卷正在经历 I/O性能问题，导致深入调查发现了与交换设备相关的错误。该错误导致一些飞行器无法正确节流，从而导致性能下降。通过修复速率限制和代码处理，Fly.io 解决了问题，并正在致力于改进遥测技术，以更好地检测潜在问题。尽管存在该错误，Fly.io 仍然致力于提供高性能托管并鼓励用户报告任何问题以便及时解决。]]></description>
-      <guid>https://t.me/hn_summary/85435</guid>
-      <pubDate>Sat, 20 Apr 2024 00:51:09 GMT</pubDate>
+      <title>[媒体]经过深思熟虑，我们做出了关闭《邮报新闻》的艰难决定[...]</title>
+      <link>https://t.me/hn_summary/85471</link>
+      <description><![CDATA[我们将在未来几周内关闭发布新闻
+经过深思熟虑，我们做出了在未来几周内关闭《邮报新闻》的艰难决定。我们要感谢忠实读者多年来的支持。这个决定并不是轻易做出的，但我们相信这是我们公司前进的最佳行动方针。我们很高兴有机会为我们的社区服务并向读者提供新闻和信息。我们感谢您在此过渡期间的理解。感谢您成为《华盛顿邮报》大家庭的一员。]]></description>
+      <guid>https://t.me/hn_summary/85471</guid>
+      <pubDate>Sat, 20 Apr 2024 06:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于海岸侵蚀，楠塔基特岛豪华海滨住宅的价格下降了 75%，[...]</title>
-      <link>https://t.me/hn_summary/85434</link>
-      <description><![CDATA[由于侵蚀担忧冲走价值，海滨房价下跌 75%&lt; /a&gt;
-由于海岸侵蚀，楠塔基特岛的豪华海滨住宅价格下跌了 75%，但一位纽约居民仍在出价。海平面上升令人担忧，近 40% 生活在沿海地区的美国人面临气候驱动的天气威胁。一些居民正在采取行动，例如建造沙丘，而公司则提供浮动房屋等解决方案。请随时关注我们的时事通讯，了解绿色黑客和炫酷的清洁技术更新。]]></description>
-      <guid>https://t.me/hn_summary/85434</guid>
-      <pubDate>Sat, 20 Apr 2024 00:43:04 GMT</pubDate>
+      <title>[媒体] Zilog 宣布终止一系列 Z80 产品的生产，其中包括 Z84C00 [...]</title>
+      <link>https://t.me/hn_summary/85470</link>
+      <description><![CDATA[Z80 CPU 和外设已停产
+Zilog 宣布终止一系列 Z80 产品的生命周期，包括 Z84C00 系列和 Z84C10 MPU 等外设。这标志着自 1976 年以来一直存在的 Z80 时代的结束。爱好者和复古系统爱好者需要在 2024 年 6 月 14 日之前备货，因为这些组件将不再可用。然而，eZ80 仍将生产，以确保 Z80 架构的传统得以延续。虽然未来构建基于 Z80 的系统可能会更加困难，但 Z80、6502 和 8051 架构的时代将会持续下去。]]></description>
+      <guid>https://t.me/hn_summary/85470</guid>
+      <pubDate>Sat, 20 Apr 2024 05:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国正面临着独特的挑战，人口增长放缓，导致 [...]</title>
-      <link>https://t.me/hn_summary/85433</link>
-      <description><![CDATA[美国特别不适合应对人口下降的问题
-美国正面临着独特的挑战，人口增长放缓，导致伊利诺伊州开罗等许多城镇的衰落。人口减少正在引发经济和社会问题，企业倒闭，学校陷入困境，公共服务对剩余居民来说变得更加昂贵。美国政府的权力下放加剧了这些问题，因为地方当局在税收收入不断减少的情况下难以维持服务。吸引新居民的努力，比如向远程工作者提供补助，可能会对一些地方有所帮助，但总的来说，如果人口增长不加快，该国将面临困难的未来。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/85433</guid>
-      <pubDate>Sat, 20 Apr 2024 00:40:00 GMT</pubDate>
+      <title>[媒体] 在我的 25 年工程职业回顾中，我反思了我的选择和经历 [...]</title>
+      <link>https://t.me/hn_summary/85469</link>
+      <description><![CDATA[我的25年工程生涯回顾
+在我的 25 年工程职业生涯回顾中，我反思了塑造我的旅程的选择和经历。从对抗拖延和竞争到拥抱协作和日记，我为有抱负的工程师分享了宝贵的见解。我强调了设定明确目标、养成阅读习惯和寻求指导的重要性，并为应对工程职业的复杂性提供了实用的建议。我强调工作与生活平衡、人际网络和个人成长的重要性，鼓励读者从错误中吸取教训，努力不断进步。和我一起踏上这段反省之旅，探索四分之一个世纪以来在工程领域学到的经验教训和获得的智慧。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85469</guid>
+      <pubDate>Sat, 20 Apr 2024 05:48:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Paul Hsieh 的关于第六代 x86 CPU 比较的网页内容深入探讨了 [...]</title>
-      <link>https://t.me/hn_summary/85432</link>
-      <description><![CDATA[第六代 x86 CPU 比较
-Paul Hsieh 有关第六代 x86 CPU 比较的网页内容深入探讨了 Intel P-II、AMD K6 和 Cyrix 6x86MX 架构的复杂性。他重点介绍了 K6 P-II 和 6x86MX 理念的独特组合，强调短延迟和 RISC 操作。对K6简单而复杂的流水线设计、分支预测机制和浮点性能进行了深入分析。令人惊讶的是，K6 的分支预测准确率高达 95%，优于 P-II。 K6 比 P-II 更快地执行 FPU 操作的能力是一个值得注意的启示。谢家华的详细比较为精通技术的读者提供了宝贵的见解，欢迎评论和反馈。 （根据故事文本的 14% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85432</guid>
-      <pubDate>Sat, 20 Apr 2024 00:38:56 GMT</pubDate>
+      <title>[媒体]该项目是为开发人员编制的通知基础设施 API 列表，位于 [...]</title>
+      <link>https://t.me/hn_summary/85468</link>
+      <description><![CDATA[显示 HN：为开发者提供的通知基础设施 API 编译列表
+该项目是为开发人员整理的通知基础设施 API 列表，包括 courier 等平台。 com，engagespot.co，knock.app 和 novu.com。它还包括实时 API 提供商，例如 ically.com 和 pusher.com，营销传播提供商，例如 braze.com 和 customer.io，推送通知 API，例如 firebase.google.com 和 pushengage.com，聊天 API，例如 comechat.com 和 sendbird.com，电子邮件 API，如 mailgun.com 和 sendgrid.com，以及 AMQP 提供商，例如 cloudamqp.com 和 aws.amazon.com/amazon-mq。作者旨在为开发者提供支持 API 集成的通知基础设施提供商的完整列表，以便于与其应用程序轻松集成。]]></description>
+      <guid>https://t.me/hn_summary/85468</guid>
+      <pubDate>Sat, 20 Apr 2024 05:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]贝尔格莱德的下水道正在污染欧洲著名的多瑙河，未处理的污水被排入[...]</title>
-      <link>https://t.me/hn_summary/85431</link>
-      <description><![CDATA[棕色多瑙河：贝尔格莱德的下水道如何污染欧洲著名的河流 
-贝尔格莱德的下水道正在污染欧洲著名的多瑙河，未经处理的污水直接排入水中。这种做法是塞尔维亚首都独有的，给当地渔民造成了严重的污染和困扰。尽管承诺改善情况，包括计划修建废水处理厂，但进展缓慢，最后期限一再延长。随着河流生态系统的变化以及人们对污染造成的健康危害的担忧，环境影响是显而易见的。解决这一问题的紧迫性是显而易见的，但需要采取具体行动来保护多瑙河的未来。]]></description>
-      <guid>https://t.me/hn_summary/85431</guid>
-      <pubDate>Sat, 20 Apr 2024 00:24:49 GMT</pubDate>
+      <title>[媒体] 该项目是 Windows 95 经典纸牌游戏的忠实翻拍，旨在 [...]</title>
+      <link>https://t.me/hn_summary/85467</link>
+      <description><![CDATA[纸牌：Windows 95 原版的正宗翻拍&lt; br /&gt;
+该项目是对 Windows 95 中经典纸牌游戏的忠实重制，旨在保留原始游戏体验并修复一些小错误。作者花费了大量的精力来复制原版游戏的所有设定和动画，使其尽可能接近原作。该项目因注重真实性和对细节的关注而与众不同，作者对他们的娱乐表达了自豪。该项目花了一年多的时间才完成，尽管 Java Swing 遇到了一些挑战，但作者还是表达了对这个过程的喜爱。]]></description>
+      <guid>https://t.me/hn_summary/85467</guid>
+      <pubDate>Sat, 20 Apr 2024 04:46:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] llama.com 上的 Llama 3 与其前身 Llama 相比，提供了更少的审查体验，L [...]</title>
-      <link>https://t.me/hn_summary/85430</link>
-      <description><![CDATA[Llama 3 未经过审查
-ollama.com 上的 Llama 3 与其相比，提供了更少审查的体验Llama 3 的前身是 Llama 2。由于错误拒绝率显着降低，Llama 3 现在可以参与更广泛主题的讨论。比较 Llama 3 和 Llama 2 之间的提示的示例表明，Llama 3 在处理诸如在机场消磨时间、格式化硬盘以及讨论由世界上所有铀制成的核弹的潜在破坏性等请求方面的能力有所提高。 Llama 3 大胆而深入的反应使其成为一个令人着迷的人工智能互动工具。]]></description>
-      <guid>https://t.me/hn_summary/85430</guid>
-      <pubDate>Sat, 20 Apr 2024 00:01:38 GMT</pubDate>
+      <title>[媒体]以色列一直处于在冲突中使用面部识别技术的最前沿[...]</title>
+      <link>https://t.me/hn_summary/85466</link>
+      <description><![CDATA[以色列在加沙及其他地区使用面部识别系统&lt; br /&gt;
+以色列一直处于在冲突地区（尤其是加沙）使用面部识别技术的最前沿。该国开发了多种系统，如红狼、蓝狼和狼群，用于扫描和拘留涉嫌与哈马斯有联系的巴勒斯坦人。士兵们被激励通过游戏化系统收集尽可能多的生物识别数据，从而导致非人化和任意限制。这些系统缺乏问责制和准确性，引发了人们对侵犯人权行为的担忧。尽管存在已知的不准确之处，以色列政府仍然依赖这些技术，利用人工智能来逃避责任。在冲突地区使用面部识别会引发严重的道德和法律问题。]]></description>
+      <guid>https://t.me/hn_summary/85466</guid>
+      <pubDate>Sat, 20 Apr 2024 04:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这部关于多光标代码编辑的动画介绍中，作者探索了 po [...]</title>
-      <link>https://t.me/hn_summary/85429</link>
-      <description><![CDATA[多光标代码编辑：动画介绍&lt; br /&gt;
-在这个多光标代码编辑的动画介绍中，作者探索了在 VS Code 中使用 Command D 使文本编辑中的重复更改更加高效的强大功能。作者演示了如何导航文本、查找模式、匹配非统一模式、选择所有匹配项、跳过实例、匹配换行符以及执行大小写转换。作者强调 Command D 在多光标编辑方面的简单性和实用性，使其成为提高编码任务生产力的宝贵工具。总的来说，这篇文章提供了在 VS Code 中利用 Command D 来实现更高效的代码编辑的实用技巧和技术。]]></description>
-      <guid>https://t.me/hn_summary/85429</guid>
-      <pubDate>Fri, 19 Apr 2024 23:51:32 GMT</pubDate>
+      <title>询问 HN：是什么让您禁用广告拦截器？</title>
+      <link>https://t.me/hn_summary/85465</link>
+      <description><![CDATA[询问 HN：是什么让您禁用广告拦截器？ 
+标题：询问 HN：是什么让您禁用广告拦截器？
+您是否厌倦了广告拦截器和网站之间要求您将其列入白名单的持续斗争？许多人认为，如果没有广告拦截器，互联网几乎无法使用，但有例外吗？分享您在广告拦截器上列入白名单的网站（如果有）。令人惊讶的是，作者承认没有任何人被列入白名单。加入 news.ycombinator.com 上的讨论，分享您的想法对这场正在进行的辩论的想法。]]></description>
+      <guid>https://t.me/hn_summary/85465</guid>
+      <pubDate>Sat, 20 Apr 2024 04:05:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，作者深入探讨了家庭规模与家庭规模之间的关系[...]</title>
-      <link>https://t.me/hn_summary/85428</link>
-      <description><![CDATA[家庭规模和住房存量
-在本文中，作者深入研究了家庭规模与住房存量之间的关系，挑战了人均住房处于历史最高水平意味着不存在供应危机的普遍说法。作者强调了由于孩子减少而导致的家庭规模下降，并强调需要增加住房供应以适应不断变化的人口结构。文章还讨论了空置率对住房指标的影响，并批评了反对某些类型住房的观点阻碍了经济适用房的进展。作者警告围绕住房政策的文化和经济斗争以及在问题恶化之前解决该问题的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85428</guid>
-      <pubDate>Fri, 19 Apr 2024 23:48:27 GMT</pubDate>
+      <title>[媒体] 在 Zed 系列可扩展语言支持的第一部分中，@maxdeviant 和 th [...]</title>
+      <link>https://t.me/hn_summary/85464</link>
+      <description><![CDATA[Zed 中的可扩展语言支持
+在 Zed 可扩展语言支持系列的第一部分中，@maxdeviant 和作者开始了一个使 Zed 可扩展的项目，重点关注语言支持。他们集成了用于基于语法的分析的 Tree-sitter 和用于语义理解的语言服务器协议。分布式 Tree-sitter 解析器的挑战催生了使用 WebAssembly 的独特解决方案，结合了本机代码和 wasm 代码以确保安全性和性能。 Tree-sitter 库中添加了新的 API 以支持这种方法。 Zed 社区很快就接受了该功能，提供了 67 种语言扩展。在Zed的扩展系统中成功使用wasm为未来的发展奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/85464</guid>
+      <pubDate>Sat, 20 Apr 2024 03:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]huggingface.co 上的 Llama 3 70B Llamafiles 存储库提供可执行权重调用 [...]</title>
-      <link>https://t.me/hn_summary/85427</link>
-      <description><![CDATA[LLaMA 3 70B Llama文件
-huggingface.co 上的 Llama 3 70B Llamafiles 存储库提供了名为适用于各种操作系统的 llamafiles。这些文件可以在 AMD64 和 ARM64 系统上运行，并针对对话用例进行了优化。这些模型由 Meta 开发，有 8B 和 70B 尺寸，并使用 Mozilla Ocho 推出的名为 llamafile 的新格式。这些模型接受了超过 15 万亿个数据的训练，旨在用于英语的商业和研究用途。这些模型在各种基准测试中表现出了令人印象深刻的性能，展示了它们在自然语言生成任务中的有效性。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85427</guid>
-      <pubDate>Fri, 19 Apr 2024 23:42:23 GMT</pubDate>
+      <title>[媒体] 鼓机已经改变了音乐制作的游戏规则，但是如果我们将 [...]</title>
+      <link>https://t.me/hn_summary/85463</link>
+      <description><![CDATA[一款看起来像 Teenage Engineering 的虚拟鼓机
+鼓机已经改变了音乐制作的游戏规则，但如果我们将这种乐趣带入 Web 开发呢？ Toddle.dev 引入了 Web Media，这是一个允许您控制的包媒体播放，非常适合创建虚拟鼓机。这款鼓机的灵感来自 Teenage Engineering，可让您调整节拍、音量并分享您的创作。完全内置于 toddle 中，无需自定义 JavaScript，它易于使用节拍按钮、速度旋钮以及不同鼓组部件的选项。您甚至可以分享您的节拍或复制 URL 来展示您的创作。让您的创造力尽情发挥，创造出超越基本网络应用程序的独特内容。]]></description>
+      <guid>https://t.me/hn_summary/85463</guid>
+      <pubDate>Sat, 20 Apr 2024 03:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由三打科学家签署的一份新声明认为，鱼类、两栖动物、软体动物 [...]</title>
-      <link>https://t.me/hn_summary/85426</link>
-      <description><![CDATA[科学家认为，忽视整个动物世界的意识是“不负责任的”
-三打科学家签署的一份新声明认为，鱼类、两栖动物、软体动物和昆虫是有感知力的，这引发了人们对动物意识的质疑。纽约大学发表的这一声明引发了科学家们关于人类想象力在理解动物感知方面的局限性的争论。虽然有些人担心夸大证据，但另一些人则认为哺乳动物、鸟类和其他潜在生物的意识有强有力的科学支持。最近的研究显示了令人惊讶的发现，例如章鱼感到疼痛和蜜蜂表现出玩耍行为。该宣言强调需要考虑福利风险并利用证据来应对这些风险。]]></description>
-      <guid>https://t.me/hn_summary/85426</guid>
-      <pubDate>Fri, 19 Apr 2024 23:31:16 GMT</pubDate>
+      <title>[媒体]大卫·辛克莱 (David Sinclair) 是一位著名的生物黑客、哈佛大学教授，他在 [...]</title>
+      <link>https://t.me/hn_summary/85462</link>
+      <description><![CDATA[生物黑客运动中的内战
+著名生物黑客、哈佛大学教授戴维·辛克莱（David Sinclair）宣扬衰老是一种可治疗疾病的观点，在这场运动中引发了争议。尽管他具有影响力且外表年轻，但前同事仍因其可疑的补充剂和声称而谴责他是“万金油推销员”。生物黑客界曾经被视为长寿之路，但现在对辛克莱的方法和研究的有效性存在分歧。布拉德·斯坦菲尔德博士和彼得·阿提亚博士等批评家认为，辛克莱对自噬和禁食的关注可能不会带来长期好处，甚至可能有害。由于生物黑客运动正在努力应对内部冲突和医学界的怀疑，生物黑客的未来仍然不确定。]]></description>
+      <guid>https://t.me/hn_summary/85462</guid>
+      <pubDate>Sat, 20 Apr 2024 03:27:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
