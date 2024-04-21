@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 18:16:30 GMT</lastBuildDate>
+    <item>
+      <title>永游传编年史：百英雄评论</title>
+      <link>https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review</link>
+      <description><![CDATA[这款角色扮演游戏是一部庞大的史诗，但起步缓慢。]]></description>
+      <guid>https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-review</guid>
+      <pubDate>Sun, 21 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>每日优惠：Arctis Nova Pro、Granblue Fantasy: Relink、Super Mario RPG</title>
       <link>https://www.ign.com/articles/daily-deals-acrtis-nova-pro-granblue-fantasy-relink-super-mario-rpg</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《星露谷物语》的 1.6.4 更新现已在 PC 上发布，带来了一系列令人印象深刻的错误修复、生活质量改进和新鲜内容，并从游戏的随机名称生成器中删除了两个“不合适的名称”。]]></description>
       <guid>https://www.ign.com/articles/stardew-valley-164-update-inappropriate-names</guid>
       <pubDate>Fri, 19 Apr 2024 14:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>IGN 英国播客 745：我们最喜欢的 5 小时或更少的游戏</title>
-      <link>https://www.ign.com/articles/ign-uk-podcast-745-our-favourite-5-hours-or-less-games</link>
-      <description><![CDATA[《内战》、《植物庄园》以及我们精选的可在五小时内完成的最佳游戏。]]></description>
-      <guid>https://www.ign.com/articles/ign-uk-podcast-745-our-favourite-5-hours-or-less-games</guid>
-      <pubDate>Fri, 19 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
