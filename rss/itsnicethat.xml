@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:15:59 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 22 Apr 2024 18:19:34 GMT</lastBuildDate>
+    <item>
+      <title>大自然是一位艺术家！ AKQA 为庞大的 Spotify 和联合国项目所做的设计，听起来不错</title>
+      <link>https://www.itsnicethat.com/articles/sounds-right-akqa-spotify-un-earth-day-project-220424</link>
+      <description><![CDATA[该项目以充满活力的色彩强调濒临灭绝的物种并扩大生态系统，呼应自然的奇迹。]]></description>
+      <guid>https://www.itsnicethat.com/articles/sounds-right-akqa-spotify-un-earth-day-project-220424</guid>
+      <pubDate>Mon, 22 Apr 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>耶稣·洛佩兹 (Jesus Lopez) 重塑墨西哥精品酒店品牌，以反映当地历史和景观</title>
       <link>https://www.itsnicethat.com/articles/jesus-lopez-champ-hotel-graphic-design-project-220424</link>
@@ -36,7 +43,7 @@
     <item>
       <title>POV：设计行业似乎缺乏谦逊。这背后到底是什么？</title>
       <link>https://www.itsnicethat.com/articles/pov-humility-in-the-design-industry-creative-industry-180424</link>
-      <description><![CDATA[我们采访了一位知名设计师，希望发起一场新运动，吸引同行更多的开放性、透明度和脆弱性。能成功吗？]]></description>
+      <description><![CDATA[我们采访了一位资深设计师，他希望发起一场新运动，让同行们更加开放、透明和坦诚。他能成功吗？]]></description>
       <guid>https://www.itsnicethat.com/articles/pov-humility-in-the-design-industry-creative-industry-180424</guid>
       <pubDate>Thu, 18 Apr 2024 15:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>选美新时代：杰克·凯尼恩拍摄拉姆斯盖特小姐</title>
       <link>https://www.itsnicethat.com/articles/jack-kenyon-miss-ramsgate-photography-project-150424</link>
-      <description><![CDATA[摄影师将活动现场的照片与经典的校园照片式肖像相结合，展示了这场盛会如何更注重社区而非完美。]]></description>
+      <description><![CDATA[摄影师将活动现场的照片与经典的学校照片般的肖像相结合，展示了这场选美比赛更多的是关于社区而不是完美。]]></description>
       <guid>https://www.itsnicethat.com/articles/jack-kenyon-miss-ramsgate-photography-project-150424</guid>
       <pubDate>Mon, 15 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>成立新的研究驱动型洞察部门真是太好了</title>
-      <link>https://www.itsnicethat.com/news/insights-launch-creative-industry-150424</link>
-      <description><![CDATA[除了发表文章和内容外，该团队还向希望增强内部创造力的品牌和机构提供其在分析视觉趋势方面的专业知识以及对全球创意社区的理解。]]></description>
-      <guid>https://www.itsnicethat.com/news/insights-launch-creative-industry-150424</guid>
-      <pubDate>Mon, 15 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
