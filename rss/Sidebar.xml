@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 12:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 15:16:39 GMT</lastBuildDate>
     <item>
       <title>展平贝塞尔曲线和圆弧</title>
       <link>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</link>
@@ -70,7 +70,7 @@
       <pubDate>Fri, 19 Apr 2024 05:52:55 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 中的滑动 3D 图像框架</title>
+      <title>在 CSS 中滑动 3D 图像框架</title>
       <link>https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</link>
       <description><![CDATA[在 CSS 中创建 3D 效果并不是一个全新的概念，但典型的方法是在标记中使用其他元素。
 ]]></description>
