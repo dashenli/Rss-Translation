@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 09:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:28:13 GMT</lastBuildDate>
+    <item>
+      <title>展平贝塞尔曲线和圆弧</title>
+      <link>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</link>
+      <description><![CDATA[可以将贝塞尔曲线展平为线段，而无需采用递归细分。
+]]></description>
+      <guid>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>主要使用 CSS 进行运动提取</title>
+      <link>https://javier.xyz/blog/motion-extraction-with-mostly-css</link>
+      <description><![CDATA[使用 CSS 从视频中提取运动的简单方法。
+]]></description>
+      <guid>https://javier.xyz/blog/motion-extraction-with-mostly-css</guid>
+      <pubDate>Mon, 22 Apr 2024 09:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用现代 CSS 测试 HTML</title>
+      <link>https://heydonworks.com/article/testing-html-with-modern-css/</link>
+      <description><![CDATA[CSS 可以成为一个很棒的 HTML 测试工具，尤其是在 2024 年
+]]></description>
+      <guid>https://heydonworks.com/article/testing-html-with-modern-css/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何使用现代 CSS 来实现主题化</title>
+      <link>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/</link>
+      <description><![CDATA[我们已经开始了一个新项目，需要大量的创意主题，所以我制作了一个原型来测试一些想法。
+]]></description>
+      <guid>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/</guid>
+      <pubDate>Mon, 22 Apr 2024 09:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个时代的终结：写代码的女性结束</title>
+      <link>https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing</link>
+      <description><![CDATA[Women Who Code 是一个社区团体，由旧金山的一个工程师小组于 2011 年创立。
+]]></description>
+      <guid>https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing</guid>
+      <pubDate>Mon, 22 Apr 2024 09:31:50 GMT</pubDate>
+    </item>
     <item>
       <title>世界新闻摄影大赛记录战争、移民和破坏</title>
       <link>https://www.thisiscolossal.com/2024/04/world-press-photos-2024/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</guid>
       <pubDate>Thu, 18 Apr 2024 11:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志系统：探索 400 多个标志设计</title>
-      <link>https://logosystem.co/</link>
-      <description><![CDATA[通过探索这个真实和虚构的徽标库获得灵感。
-]]></description>
-      <guid>https://logosystem.co/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>致力于 BCWA 新身份</title>
-      <link>https://medium.com/four-nine-digital/working-on-the-bcwa-new-identity-32f35158a248</link>
-      <description><![CDATA[举重标志重新设计的案例研究。 
-]]></description>
-      <guid>https://medium.com/four-nine-digital/working-on-the-bcwa-new-identity-32f35158a248</guid>
-      <pubDate>Wed, 17 Apr 2024 12:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设计射击游戏中的巨型机器人</title>
-      <link>https://medium.com/my-games-company/how-to-design-giant-robots-in-shooters-a-comprehensive-war-robots-retrospective-c2d3246bfd03</link>
-      <description><![CDATA[全面的战争机器人回顾展。
-]]></description>
-      <guid>https://medium.com/my-games-company/how-to-design-giant-robots-in-shooters-a-comprehensive-war-robots-retrospective-c2d3246bfd03</guid>
-      <pubDate>Wed, 17 Apr 2024 12:07:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：84—24</title>
-      <link>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</link>
-      <description><![CDATA[《84—24》制作过程一探究竟。修复 80 年代永恒经典的故事。
-]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/08/case-study-84-24/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>翻阅这本庞大的 19 世纪地图集，共 5,000 多页</title>
-      <link>https://www.thisiscolossal.com/2024/04/lorenz-oken-natural-history/</link>
-      <description><![CDATA[洛伦兹·奥肯 (Lorenz Oken) 的地图集总共超过 5,000 页，描绘了从昆虫、鱼类到鸟类和植物的已知物种。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/04/lorenz-oken-natural-history/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:02:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
