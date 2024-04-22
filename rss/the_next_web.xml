@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 22 Apr 2024 06:18:47 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Mon, 22 Apr 2024 09:16:07 GMT</lastBuildDate>
+    <item>
+      <title>地球日：Ecosia 推出世界上第一个发电浏览器</title>
+      <link>https://thenextweb.com/news/earth-day-ecosia-launches-energy-generating-browser</link>
+      <description><![CDATA[今天 — 世界地球日 — 非盈利搜索引擎Ecosia 推出了“地球上最环保的浏览器”，旨在为客户提供比 Google Chrome 或 Apple Safari 更可持续的替代品。就像 Ecosia 的搜索引擎一样，您使用浏览器的次数越多，您帮助种植的树木就越多。这家总部位于柏林的公司表示，自 2009 年以来，它已经种植了 2 亿棵树。新浏览器将由 Ecosia 自己的太阳能发电厂的可再生能源提供动力。事实上，该公司表示，该浏览器实际上会产生绿色能源——每个用户每天浏览 25 瓦时。这就够了…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/earth-day-ecosia-launches-energy-generating-browser</guid>
+      <pubDate>Mon, 22 Apr 2024 08:20:16 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲初创公司欢欣鼓舞——风险投资再次上升</title>
       <link>https://thenextweb.com/news/european-vc-funding-increasing</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[荷兰芯片机械制造商 ASML 报告称，在半导体行业放缓和地缘政治紧张局势加剧的情况下销售额和利润均下降。这家欧洲最有价值的科技公司的订单在 2024 年第一季度降至 36 亿欧元，低于上一季度的 92 亿欧元。其净利润也下降至 12 亿欧元，与 2023 年第四季度相比下降了 37%。“我们认为 2024 年是一个过渡期，”ASML 总裁兼首席执行官 Peter Wennink 在一份声明中表示。温尼克预计今年下半年将更加强劲，“这与行业从低迷中持续复苏的情况一致”。有趣的是，中国是 ASML 最大的市场…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/china-still-asml-biggest-market-falling-sales-drop-profit</guid>
       <pubDate>Wed, 17 Apr 2024 15:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在有史以来最大规模的选举年，科技平台对选民操纵敞开大门</title>
-      <link>https://thenextweb.com/news/tech-ad-transparency-tools-miss-dsa</link>
-      <description><![CDATA[在欧盟的命令下，科技巨头推出了11款广告透明工具。根据 Mozilla 的一项新研究，它们都不适合用途。这些工具提供有关在线广告的数据库。通过探索存储库，研究人员可以识别广告背后的资助者和技术。至少，这是这个想法。欧盟数字服务法 (DSA) 是一项旨在保护在线环境的法律，图书馆对此负有义务。通过关注广告内容和定位，欧盟希望解决虚假信息和操纵问题。影响可能是全球性的。因为平台通常会响应国际…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/tech-ad-transparency-tools-miss-dsa</guid>
-      <pubDate>Wed, 17 Apr 2024 14:16:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
