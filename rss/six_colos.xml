@@ -4,13 +4,36 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:57:02 GMT</lastBuildDate>
+    <item>
+      <title>维持互联网漂浮的海底电缆 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/the-undersea-cables-that-keep-the-internet-afloat/</link>
+      <description><![CDATA[The Verge 的 Josh Dzieza 讲述了一个关于修复海底光缆以保持数据在世界各地流动的人们的精彩故事：
+&lt;块引用&gt;
+  世界正处于电缆热潮之中，每年都会宣布多条新的跨洋线路。…]]></description>
+      <guid>https://sixcolors.com/link/2024/04/the-undersea-cables-that-keep-the-internet-afloat/</guid>
+      <pubDate>Mon, 22 Apr 2024 22:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>作者兼 Mac 管理员 Charles Edge 去世 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/author-and-mac-admin-charles-edge-has-died/</link>
+      <description><![CDATA[今天早上我刚刚得到消息，查尔斯·埃奇 (Charles Edge) 去世了，他在企业报告卡中帮助推动了苹果公司的发展，并积极参与了我上周发布的今年版本的报告。…]]></description>
+      <guid>https://sixcolors.com/link/2024/04/author-and-mac-admin-charles-edge-has-died/</guid>
+      <pubDate>Mon, 22 Apr 2024 22:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）升级 509：节省罚款</title>
+      <link>https://sixcolors.com/podcast/2024/04/upgrade-509-save-the-fines/</link>
+      <description><![CDATA[世界上最重要的电子阅读器播客回归，但我们也花时间讨论复古游戏模拟器的吸引力、iPad 和 iPhone 谣言，以及苹果皮革替代材料可能结束的情况。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/04/upgrade-509-save-the-fines/</guid>
+      <pubDate>Mon, 22 Apr 2024 21:03:51 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/feed-only/2024/04/magic-lasso-adblock-youtube-ad-blocker-for-safari-14/</link>
       <description><![CDATA[
-您想在 iPhone、iPad 和 Mac 上的 Safari 浏览器中屏蔽所有 YouTube 广告吗？
-然后下载Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
+您想在 iPhone、iPad 和 Mac 上的 Safari 中屏蔽所有 YouTube 广告吗？
+然后下载 Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/04/magic-lasso-adblock-youtube-ad-blocker-for-safari-14/</guid>
       <pubDate>Mon, 22 Apr 2024 18:42:46 GMT</pubDate>
     </item>
@@ -41,7 +64,7 @@
       <title>苹果模拟器的大转变对每个人都有好处</title>
       <link>https://sixcolors.com/post/2024/04/apples-emulator-about-face-is-good-for-everyone/</link>
       <description><![CDATA[
-在苹果改变模拟器规则后不到两周，Riley Testut 的 Delta 游戏模拟器在推出后 12 小时内就攀升至美国应用商店第一名。…]]></description>
+在 Apple 更改模拟器规则后不到两周，Riley Testut 的 Delta 游戏模拟器在推出 12 小时内就攀升至美国 App Store 排名第一。…]]></description>
       <guid>https://sixcolors.com/post/2024/04/apples-emulator-about-face-is-good-for-everyone/</guid>
       <pubDate>Thu, 18 Apr 2024 15:20:01 GMT</pubDate>
     </item>
@@ -96,32 +119,6 @@
   分数只是优秀体育应用的一部分。体育应用程序不仅在您无法观看比赛并希望保持连接状态时使用，而且还可以使用它们（我认为更常用）来为您提供当前正在观看的比赛的背景信息。 ...]]></description>
       <guid>https://sixcolors.com/link/2024/04/the-poor-design-of-apple-sports/</guid>
       <pubDate>Fri, 12 Apr 2024 18:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）科利德</title>
-      <link>https://sixcolors.com/sponsor/2024/04/kolide-40/</link>
-      <description><![CDATA[感谢 Kolide 本周再次赞助六色。
-Kolide 希望您的业务安全。可以将其想象为机场安检：有两条线，一条用于验证您的身份，另一条用于扫描您的随身行李。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/04/kolide-40/</guid>
-      <pubDate>Fri, 12 Apr 2024 16:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>链，或在 macOS 中打开文件 ↦</title>
-      <link>https://sixcolors.com/link/2024/04/the-chain-or-opening-files-in-macos/</link>
-      <description><![CDATA[Eclectic Light Company 的 Howard Oakley 深入探讨了 Mac 如何知道双击文件时要打开哪个应用程序：
-&lt;块引用&gt;
-  在经典 Mac OS 时代，这是使用臭名昭著的桌面数据库来完成的，该数据库通过文件和应用程序的创建者和类型（两个代码各包含四个字符）来识别文件和应用程序。…]]></description>
-      <guid>https://sixcolors.com/link/2024/04/the-chain-or-opening-files-in-macos/</guid>
-      <pubDate>Fri, 12 Apr 2024 15:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gurman：忘记 M3，M4 正在路上 ↦</title>
-      <link>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</link>
-      <description><![CDATA[彭博社的马克·古尔曼 (Mark Gurman) 又发表了一篇精彩的芯片独家报道，这次是关于 Mac 的未来：
-&lt;块引用&gt;
-  据知情人士透露，该公司五个月前发布了首款搭载 M3 芯片的 Mac，目前已经接近生产下一代 M4 处理器。…]]></description>
-      <guid>https://sixcolors.com/link/2024/04/gurman-forget-the-m3-the-m4-is-on-the-way/</guid>
-      <pubDate>Thu, 11 Apr 2024 17:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

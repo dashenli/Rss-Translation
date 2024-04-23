@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>日本连线</title>
+    <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:57:24 GMT</lastBuildDate>
+    <item>
+      <title>世界上最强大的开源人工智能模型诞生的内幕</title>
+      <link>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</link>
+      <description><![CDATA[初创公司Databricks发布了DBRX，这是一种开源大规模语言模型，超越了Meta的Llama 2和Elon Musk的Grok AI，并接近OpenAI的GPT-4。]]></description>
+      <guid>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</guid>
+      <pubDate>Mon, 22 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>朝鲜工人是否参与了美国和日本的动漫制作？在服务器上发现“绝密文件”的内容</title>
       <link>https://wired.jp/article/north-korea-amazon-max-animation-exposed-server/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[SZ会员周末参观了本周在西班牙毕尔巴鄂举办的全球食品大会“FOOD 4 FUTURE”，通过向世界展示日本食品创新的潜力，我们再次问自己食品的后未来是什么。通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-232/</guid>
       <pubDate>Fri, 19 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[2024年版]你应该在Nintendo Switch上玩的33款游戏</title>
-      <link>https://wired.jp/article/best-nintendo-switch-games/</link>
-      <description><![CDATA[发布七年多后，Nintendo Switch 上仍然不断出现新游戏。如果您想知道接下来要玩哪一款，我们整理了一份精彩游戏列表。我们来看看推荐的游戏，从百人大逃杀游戏到最新的马里奥游戏。]]></description>
-      <guid>https://wired.jp/article/best-nintendo-switch-games/</guid>
-      <pubDate>Fri, 19 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,22 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:11:22 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Tue, 23 Apr 2024 00:55:14 GMT</lastBuildDate>
+    <item>
+      <title>英国将寻求庇护者驱逐到卢旺达的计划已获得议会批准</title>
+      <link>https://npr.org/2024/04/22/1246368505/uk-rwanda-sunak-deportation-bill-migrants</link>
+      <description><![CDATA[英国政府推动该计划是为了阻止寻求庇护者乘船前往英国。但联合国人权办公室警告航空当局不要参与。]]></description>
+      <guid>https://npr.org/2024/04/22/1246368505/uk-rwanda-sunak-deportation-bill-migrants</guid>
+      <pubDate>Mon, 22 Apr 2024 23:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 禁令有望成为法律，但事情并没有那么简单。下一步是什么？</title>
+      <link>https://npr.org/2024/04/22/1246391855/tiktok-ban-congress-biden-china-lawsuit</link>
+      <description><![CDATA[参议院准备通过众议院周末提出的法案。拜登总统将签署该协议。 TikTok 表示，此后，这场战斗将转移到法庭。]]></description>
+      <guid>https://npr.org/2024/04/22/1246391855/tiktok-ban-congress-biden-china-lawsuit</guid>
+      <pubDate>Mon, 22 Apr 2024 22:59:03 GMT</pubDate>
+    </item>
     <item>
       <title>美国为何要向乌克兰提供援助？</title>
       <link>https://npr.org/2024/04/22/1196980598/why-should-the-u-s-send-aid-to-ukraine</link>
@@ -27,7 +41,7 @@
       <pubDate>Mon, 22 Apr 2024 17:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>开国元勋们的“少数人统治”理念在今天依然鲜活存在</title>
+      <title>开国元勋们的“少数统治”概念如何在今天依然有效</title>
       <link>https://npr.org/2024/04/22/1246297603/ari-berman-minority-rule-electoral-college</link>
       <description><![CDATA[记者阿里·伯曼表示，国父们创建了一个将权力集中在少数精英手中的制度，而他们的决定仍然影响着今天的美国民主。]]></description>
       <guid>https://npr.org/2024/04/22/1246297603/ari-berman-minority-rule-electoral-college</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[周五，斯威夫特发行了她的第 11 张专辑《The Tortured Poets Department》，这一天，她打破了 Spotify 单日专辑播放量最多的纪录，突破了 3 亿。]]></description>
       <guid>https://npr.org/2024/04/22/1246318828/taylor-swift-tortured-poets-spotify</guid>
       <pubDate>Mon, 22 Apr 2024 15:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特琳·克拉克 (Caitlin Clark) 和 Fever 的狂热席卷了 WNBA，提高了门票价格和球衣销量</title>
-      <link>https://npr.org/2024/04/22/1246308836/caitlin-clark-indiana-fever-wnba-tickets-venues</link>
-      <description><![CDATA[观看凯特琳·克拉克 (Caitlin Clark) 与印第安纳热队 (Indiana Fever) 比赛的需求量猛增。在她首次亮相 WNBA 之前，门票销量猛增，一些球队正在将比赛迁至更大的场地。]]></description>
-      <guid>https://npr.org/2024/04/22/1246308836/caitlin-clark-indiana-fever-wnba-tickets-venues</guid>
-      <pubDate>Mon, 22 Apr 2024 14:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列“欺骗”GPS以阻止攻击，但它也让飞机、船只和应用程序失效</title>
-      <link>https://npr.org/2024/04/22/1245847903/israel-gps-spoofing</link>
-      <description><![CDATA[GPS“欺骗”向卫星发送错误的位置信号以阻止火箭和导弹。它还增加了依赖该系统的飞机、船舶和技术的风险。]]></description>
-      <guid>https://npr.org/2024/04/22/1245847903/israel-gps-spoofing</guid>
-      <pubDate>Mon, 22 Apr 2024 14:02:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
