@@ -4,7 +4,14 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:25:29 GMT</lastBuildDate>
+    <item>
+      <title>美国各州的租金价格和无家可归率的可视化</title>
+      <link>https://rss.digg.com/data-viz/link/rent-prices-homelessness-rates-by-state-us</link>
+      <description><![CDATA[租房成本与无房人数之间是否存在相关性？]]></description>
+      <guid>https://rss.digg.com/data-viz/link/rent-prices-homelessness-rates-by-state-us</guid>
+      <pubDate>Fri, 19 Apr 2024 10:14:33 GMT</pubDate>
+    </item>
     <item>
       <title>前偷车贼解释如何防止您的车辆被盗</title>
       <link>https://rss.digg.com/digg-vids/link/car-thief-methods-prevent-vehicle-being-stolen-video</link>
@@ -78,7 +85,7 @@
     <item>
       <title>这位女士对被称为“天生丽质”的反应已经疯传</title>
       <link>https://rss.digg.com/digg-vids/link/woman-natural-beauty-response-tiktok-video</link>
-      <description><![CDATA[“我的化妆品足够给一锅炒锅调味了。”]]></description>
+      <description><![CDATA[“我的化妆品足够给一锅该死的锅调味了。”]]></description>
       <guid>https://rss.digg.com/digg-vids/link/woman-natural-beauty-response-tiktok-video</guid>
       <pubDate>Wed, 17 Apr 2024 09:56:33 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 16 Apr 2024 14:56:27 GMT</pubDate>
     </item>
     <item>
-      <title>我女朋友的怪癖正在成为一个破坏交易的因素，以及本周更多的不稳定的关系故事</title>
-      <link>https://rss.digg.com/relationships/link/wedding-drama-relationship-dating-bedroom-advice</link>
-      <description><![CDATA[一位女士努力拒绝邀请一位超级有问题的客人参加她的婚礼。]]></description>
-      <guid>https://rss.digg.com/relationships/link/wedding-drama-relationship-dating-bedroom-advice</guid>
-      <pubDate>Sun, 14 Apr 2024 12:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>下“非常糟糕的国际象棋”</title>
-      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
-      <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
+      <title>播放“类型转换”</title>
+      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
+      <description><![CDATA[你的目标是把每一个字母都变得扎实。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
+      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

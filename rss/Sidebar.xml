@@ -4,7 +4,15 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:27:08 GMT</lastBuildDate>
+    <item>
+      <title>适合您的设计系统的正确代码</title>
+      <link>https://www.figma.com/blog/introducing-code-connect</link>
+      <description><![CDATA[今天，我们宣布推出 Code Connect 测试版，该功能旨在通过使代码更易于访问来提高设计系统的采用率。
+]]></description>
+      <guid>https://www.figma.com/blog/introducing-code-connect</guid>
+      <pubDate>Tue, 23 Apr 2024 08:28:29 GMT</pubDate>
+    </item>
     <item>
       <title>JS裸体日</title>
       <link>https://js-naked-day.org/</link>
@@ -116,14 +124,6 @@
 ]]></description>
       <guid>https://ai.meta.com/blog/meta-llama-3/</guid>
       <pubDate>Fri, 19 Apr 2024 04:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>引领未来：汽车用户体验的新愿景</title>
-      <link>https://bootcamp.uxdesign.cc/steering-the-future-a-new-vision-for-car-ux-1243843f289d</link>
-      <description><![CDATA[关于如何改善汽车界面中的用户体验的几句话和想法。
-]]></description>
-      <guid>https://bootcamp.uxdesign.cc/steering-the-future-a-new-vision-for-car-ux-1243843f289d</guid>
-      <pubDate>Thu, 18 Apr 2024 11:16:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
