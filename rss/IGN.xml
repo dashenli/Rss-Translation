@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:13:55 GMT</lastBuildDate>
+    <item>
+      <title>Nintendo Switch 系统更新 18.0.1 修复了 Wi-Fi 问题，并且提高了总体稳定性</title>
+      <link>https://www.ign.com/articles/nintendo-switch-system-update-1801-fixes-wi-fi-issue-and-yes-makes-general-stability-improvements</link>
+      <description><![CDATA[Nintendo Switch 更新版本 18.0.1 现已发布。查看补丁说明。]]></description>
+      <guid>https://www.ign.com/articles/nintendo-switch-system-update-1801-fixes-wi-fi-issue-and-yes-makes-general-stability-improvements</guid>
+      <pubDate>Tue, 23 Apr 2024 08:31:50 GMT</pubDate>
+    </item>
     <item>
       <title>邪恶者不息抢先体验评测</title>
       <link>https://www.ign.com/articles/no-rest-for-the-wicked-review-early-access</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 22 Apr 2024 23:29:25 GMT</pubDate>
     </item>
     <item>
-      <title>《Zenless Zone 0》的发布日期可能因 App Store 错误而泄露</title>
+      <title>App Store 上的 Zenless Zone 0 发布日期可能被错误泄露</title>
       <link>https://www.ign.com/articles/zenless-zone-zero-release-date-may-have-been-leaked-by-mistake-on-app-store</link>
       <description><![CDATA[苹果应用商店泄露了 HoYoverse 的《Zenless Zone Zero》的发布日期，称该游戏将于 7 月 3 日发布。]]></description>
       <guid>https://www.ign.com/articles/zenless-zone-zero-release-date-may-have-been-leaked-by-mistake-on-app-store</guid>
@@ -43,12 +50,12 @@
     <item>
       <title>最佳 6 人棋盘游戏 (2024)</title>
       <link>https://www.ign.com/articles/best-6-player-board-games</link>
-      <description><![CDATA[并非所有棋盘游戏都适合每个群体。但如果您正在寻找一款适合六人玩的游戏，我们可以满足您的需求。]]></description>
+      <description><![CDATA[并非所有棋盘游戏都适合每个群体。但如果您正在寻找一款可供六名玩家一起玩的游戏，我们可以满足您的需求。]]></description>
       <guid>https://www.ign.com/articles/best-6-player-board-games</guid>
       <pubDate>Mon, 22 Apr 2024 19:19:02 GMT</pubDate>
     </item>
     <item>
-      <title>模组制作者利用泄露的源代码让《GTA 5》在 Switch 上运行</title>
+      <title>模组制作者利用泄露的源代码让 GTA 5 在 Switch 上运行</title>
       <link>https://www.ign.com/articles/modders-use-leaked-source-code-to-get-gta-5-running-on-switch</link>
       <description><![CDATA[使用泄露的源代码，改装小组 Superstar South 让《GTA 5》在 Nintendo Switch 上运行。]]></description>
       <guid>https://www.ign.com/articles/modders-use-leaked-source-code-to-get-gta-5-running-on-switch</guid>
@@ -85,30 +92,23 @@
     <item>
       <title>今日 Nintendo Switch 最佳优惠（2024 年 4 月）</title>
       <link>https://www.ign.com/articles/best-nintendo-switch-deals</link>
-      <description><![CDATA[现在有一些令人难以置信的新 Nintendo Switch 优惠活动正在进行，因此我们精心挑选了我们最喜欢的优惠与您分享。这是我们发现的。]]></description>
+      <description><![CDATA[现在有一些令人难以置信的新任天堂 Switch 优惠正在发生，所以我们精心挑选了我们最喜欢的优惠与您分享。这是我们发现的。]]></description>
       <guid>https://www.ign.com/articles/best-nintendo-switch-deals</guid>
       <pubDate>Mon, 22 Apr 2024 15:54:00 GMT</pubDate>
     </item>
     <item>
       <title>想亲吻克鲁克巴格沼泽的老太婆吗？开发者表示《巫师 3》模组支持即将到来，“自己动手制作”</title>
       <link>https://www.ign.com/articles/want-to-kiss-the-crones-of-crookbag-bog-make-it-yourself-says-dev-as-witcher-3-mod-support-arrives</link>
-      <description><![CDATA[《巫师 3：狂猎》的官方 Mod 支持现已推出抢先体验版，伴随着它的到来，CD Projekt Red 开发商还推出了亲吻弯背沼泽老妪的微妙挑战。]]></description>
+      <description><![CDATA[《巫师 3：狂猎》的官方 Mod 支持现已推出抢先体验版，伴随着它的到来，CD Projekt Red 开发商还推出了亲吻弯背沼泽老太婆的微妙挑战。]]></description>
       <guid>https://www.ign.com/articles/want-to-kiss-the-crones-of-crookbag-bog-make-it-yourself-says-dev-as-witcher-3-mod-support-arrives</guid>
       <pubDate>Mon, 22 Apr 2024 15:52:18 GMT</pubDate>
     </item>
     <item>
       <title>超级猴子球香蕉隆隆声：以下是每个版本的内容</title>
       <link>https://www.ign.com/articles/super-monkey-ball-banana-rumble-release-date-collectors-edition</link>
-      <description><![CDATA[预购《超级猴子球：香蕉隆隆》所需了解的所有信息，包括每个版本的内容、发布时间、价格等等。]]></description>
+      <description><![CDATA[预购《超级猴子球：香蕉大战》所需了解的所有信息，包括每个版本的内容、发布时间、售价等。]]></description>
       <guid>https://www.ign.com/articles/super-monkey-ball-banana-rumble-release-date-collectors-edition</guid>
       <pubDate>Mon, 22 Apr 2024 15:44:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 4 人棋盘游戏</title>
-      <link>https://www.ign.com/articles/best-board-games-for-4-players</link>
-      <description><![CDATA[当您和三个朋友正在寻找棋盘游戏来打发时间时，别再犹豫了。]]></description>
-      <guid>https://www.ign.com/articles/best-board-games-for-4-players</guid>
-      <pubDate>Mon, 22 Apr 2024 15:35:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,39 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:16:56 GMT</lastBuildDate>
+    <item>
+      <title>JS裸体日</title>
+      <link>https://js-naked-day.org/</link>
+      <description><![CDATA[网络应该在没有 JavaScript 的情况下工作。
+]]></description>
+      <guid>https://js-naked-day.org/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的形态</title>
+      <link>https://www.shapeof.ai/</link>
+      <description><![CDATA[探索人工智能驱动的世界中的模式和体验将如何变化
+]]></description>
+      <guid>https://www.shapeof.ai/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品设计丢失</title>
+      <link>https://designsystems.international/ideas/product-design-is-lost</link>
+      <description><![CDATA[产品设计领域如何迷失方向——以及如何找回方向
+]]></description>
+      <guid>https://designsystems.international/ideas/product-design-is-lost</guid>
+      <pubDate>Tue, 23 Apr 2024 06:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我们发明 CSS Grid Level 3，又名“砖石”布局</title>
+      <link>https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/</link>
+      <description><![CDATA[如果您制作网站多年，您就会知道使用 CSS 浮动来布局网页是多么令人沮丧。
+]]></description>
+      <guid>https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>展平贝塞尔曲线和圆弧</title>
       <link>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</link>
@@ -92,38 +124,6 @@
 ]]></description>
       <guid>https://bootcamp.uxdesign.cc/steering-the-future-a-new-vision-for-car-ux-1243843f289d</guid>
       <pubDate>Thu, 18 Apr 2024 11:16:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发工具提示与技巧</title>
-      <link>https://frontendmasters.com/blog/devtools-tips-tricks/</link>
-      <description><![CDATA[前端开发人员花费大量时间在浏览器的开发工具中工作。 
-]]></description>
-      <guid>https://frontendmasters.com/blog/devtools-tips-tricks/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Campfire 中的现代 CSS 模式</title>
-      <link>https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/</link>
-      <description><![CDATA[深入了解 37signals 如何使用现代功能、普通 CSS 以及无框架或预处理器构建 ONCE/Campfire。
-]]></description>
-      <guid>https://dev.37signals.com/modern-css-patterns-and-techniques-in-campfire/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS404</title>
-      <link>https://ios404.com/</link>
-      <description><![CDATA[iOS 缺失的网络功能。
-]]></description>
-      <guid>https://ios404.com/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>维持互联网运转的隐形航海业</title>
-      <link>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</link>
-      <description><![CDATA[一名船员如何冒着辐射、风暴和洋流的风险，将日本从数字隔离中拯救出来。
-]]></description>
-      <guid>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</guid>
-      <pubDate>Thu, 18 Apr 2024 11:12:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

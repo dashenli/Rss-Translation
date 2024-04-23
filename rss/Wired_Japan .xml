@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:15:55 GMT</lastBuildDate>
+    <item>
+      <title>将人类排除在音乐之外！？用AI自动生成黑金属，音乐单位DADABOTS创造的异世界</title>
+      <link>https://wired.jp/article/black-metal-generative-ai-dadabots/</link>
+      <description><![CDATA[随着人工智能生成的浪潮蔓延到音乐世界，发行黑金属、死亡金属等人工智能自动生成的音乐的音乐单位DADABOTS备受关注。这项活动提出了“将人类排除在音乐之外”这一颇具争议的口号，到底是什么活动呢？]]></description>
+      <guid>https://wired.jp/article/black-metal-generative-ai-dadabots/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音应用程序“Airchat”正在席卷硅谷</title>
+      <link>https://wired.jp/article/airchat-app-social-audio/</link>
+      <description><![CDATA[Airchat 是一款应用程序，可让您发布音频而不是文本并与其他用户进行非实时交互。自4月中旬发布以来，吸引了大量用户。然而，困扰音频社交网站 Clubhouse 的同样问题已经出现在这个应用程序中。]]></description>
+      <guid>https://wired.jp/article/airchat-app-social-audio/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>META向其他公司“开放”其混合现实设备操作系统，空间计算是否会形成新的竞争轴？</title>
       <link>https://wired.jp/article/meta-horizon-os/</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 23 Apr 2024 05:53:51 GMT</pubDate>
     </item>
     <item>
-      <title>世界上最强大的开源人工智能模型诞生的内幕</title>
+      <title>世界上最强大的开源人工智能模型的诞生</title>
       <link>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</link>
       <description><![CDATA[初创公司Databricks发布了DBRX，这是一种开源大规模语言模型，超越了Meta的Llama 2和Elon Musk的Grok AI，并接近OpenAI的GPT-4。]]></description>
       <guid>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>可以在不侵犯版权的情况下构建人工智能模型——第一个获得法律和道德“正确”认证的大规模语言模型</title>
       <link>https://wired.jp/article/proof-you-can-train-ai-without-slurping-copyrighted-content/</link>
-      <description><![CDATA[OpenAI 声称，如果不使用受版权保护的内容，“不可能”创建良​​好的人工智能模型。然而，非盗版的大规模语言模型（LLM）的出现以及公共领域数据集的日益使用表明了相反的情况。]]></description>
+      <description><![CDATA[OpenAI 声称，如果不使用受版权保护的内容，“不可能”创建良​​好的人工智能模型。然而，非无版权的大规模语言模型（LLM）的出现以及公共领域数据集的日益使用表明了相反的情况。]]></description>
       <guid>https://wired.jp/article/proof-you-can-train-ai-without-slurping-copyrighted-content/</guid>
       <pubDate>Mon, 22 Apr 2024 08:00:00 GMT</pubDate>
     </item>
@@ -43,14 +57,14 @@
     <item>
       <title>NVIDIA 首席执行官黄仁勋谈论 AI 超级计算机的未来</title>
       <link>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</link>
-      <description><![CDATA[科技行业对 NVIDIA 的 GPU 非常着迷。我们采访了引领AI淘金热的充满活力的CEO黄仁勋，询问了解决GPU短缺的前景、AI革命的进展、中国和竞争对手公司的存在以及他私人的各种事情。生活。]]></description>
+      <description><![CDATA[科技行业对 NVIDIA 的 GPU 非常着迷。我们采访了引领AI淘金热的充满活力的CEO黄仁勋，询问了解决GPU短缺的前景、AI革命的进展、中国和竞争对手公司的存在以及有关他私人的各种事情。生活。]]></description>
       <guid>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</guid>
       <pubDate>Sun, 21 Apr 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>斯德哥尔摩时尚 3：为什么我们要佩戴 ALL BLUES 珠宝</title>
       <link>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</link>
-      <description><![CDATA[不知不觉中，这座城市不断涌现出独特的时尚品牌。瑞典斯德哥尔摩。在一个连时尚之都都称不上的城市，这怎么可能呢？我去见他，想知道原因。关于 All Blues 珠宝和商店，这是一个充满简单、强烈和道德之美的地方。]]></description>
+      <description><![CDATA[不知不觉中，这座城市不断涌现出独特的时尚品牌。瑞典斯德哥尔摩。在一个连时尚之都都称不上的城市，这怎么可能呢？我去见他，想知道原因。关于 All Blues 的珠宝和商店，这是一个充满简单、强烈和道德之美的地方。]]></description>
       <guid>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</guid>
       <pubDate>Sun, 21 Apr 2024 03:00:00 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>苹果改变零件更换规则，让 iPhone 更容易维修</title>
       <link>https://wired.jp/article/apple-iphone-parts-pairing-right-to-repair/</link>
-      <description><![CDATA[为了应对美国一些州的法规，苹果最近修改了 iPhone 维修系统。从今年秋天开始，您将可以使用某些型号的旧 Apple 零件来维修您的 iPhone。但维修权倡导者表示，这只是最低限度。]]></description>
+      <description><![CDATA[为了应对美国部分州的法规，苹果最近修改了 iPhone 维修系统。从今年秋天开始，您将可以使用某些型号的旧 Apple 零件来维修您的 iPhone。但维修权倡导者表示，这只是最低限度。]]></description>
       <guid>https://wired.jp/article/apple-iphone-parts-pairing-right-to-repair/</guid>
       <pubDate>Sat, 20 Apr 2024 23:00:00 GMT</pubDate>
     </item>
@@ -83,9 +97,9 @@
       <pubDate>Sat, 20 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>重新思考“合成”与“共鸣”，重新演绎安魂曲：涩谷敬一郎谈“Android Opera”的目标</title>
+      <title>重新思考“合成”与“共鸣”，重新演绎《安魂曲》：涩谷敬一郎谈《Android Opera》的目标</title>
       <link>https://wired.jp/article/keiichiro-shibuya-android-opera-tokyo-mirror/</link>
-      <description><![CDATA[2024年6月18日，继《Super Angles》（2021年首演）和2022年迪拜电影节在东京举行约六年后，《Android Opera》将首次在东京举行。由“MIRROR”两部分组成，您可以在其中看到机器人“Alter”与传统佛教音乐“Shomyo”之间的互动。在可以说是活动高潮的一晚公演之前，“会长”涩谷庆一郎有何感想？]]></description>
+      <description><![CDATA[2024年6月18日，继《Super Angles》（2021年首演）和2022年迪拜演出之后，时隔约6年在东京举行。影片由“镜子”两部分组成，其中您可以看到机器人“Alter”与传统佛教音乐“Shomyo”之间的互动。在这场可以说是活动高潮的仅一晚的公演之前，“会长”涩谷敬一郎有何想法？]]></description>
       <guid>https://wired.jp/article/keiichiro-shibuya-android-opera-tokyo-mirror/</guid>
       <pubDate>Sat, 20 Apr 2024 08:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[精心挑选的可与 Google 文档一起使用的键盘快捷键。通过学习节省时间的技巧来提高您的工作效率。]]></description>
       <guid>https://wired.jp/article/best-google-docs-keyboard-shortcuts-productivity/</guid>
       <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>被迫大规模裁员的特斯拉面临的困境以及身份危机的严重性</title>
-      <link>https://wired.jp/article/tesla-robotaxi-pivot-china/</link>
-      <description><![CDATA[特斯拉宣布裁员 10%，是有史以来规模最大的一次裁员。企业面临与中国制造商竞争加剧等挑战，面临身份危机，下一步需要着眼于完全自动驾驶时代。]]></description>
-      <guid>https://wired.jp/article/tesla-robotaxi-pivot-china/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币“减半”已至，矿商被迫应对</title>
-      <link>https://wired.jp/article/bitcoin-miners-halving/</link>
-      <description><![CDATA[“减半”预计将于 2024 年 4 月 20 日发生，届时比特币挖矿获得的奖励将会减少。为了准备这一四年一度的“大事件”，矿业公司被迫采取多样化收入来源、加强加工能力等措施。]]></description>
-      <guid>https://wired.jp/article/bitcoin-miners-halving/</guid>
-      <pubDate>Fri, 19 Apr 2024 22:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
