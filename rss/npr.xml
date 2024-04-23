@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:13:14 GMT</lastBuildDate>
     <item>
       <title>加沙团结抗议席卷美国大学； SCOTUS 处理星巴克工会案件</title>
       <link>https://npr.org/2024/04/23/1246560844/up-first-newsletter-gaza-protest-college-columbia-starbucks-supreme-court-union</link>
@@ -15,7 +15,7 @@
     <item>
       <title>联合卫理公会将再次讨论 LGBTQ 神职人员和同性婚礼</title>
       <link>https://npr.org/2024/04/23/1245103759/lgbtq-clergy-same-sex-weddings-united-methodists</link>
-      <description><![CDATA[联合卫理公会正在举行自疫情以来的首次总会大会，并将考虑是否改变有关 LGBTQ 问题的政策。]]></description>
+      <description><![CDATA[联合卫理公会正在举行自疫情以来的第一次总会大会，并将考虑是否改变有关 LGBTQ 问题的政策。]]></description>
       <guid>https://npr.org/2024/04/23/1245103759/lgbtq-clergy-same-sex-weddings-united-methodists</guid>
       <pubDate>Tue, 23 Apr 2024 09:13:04 GMT</pubDate>
     </item>
@@ -48,13 +48,6 @@
       <pubDate>Tue, 23 Apr 2024 09:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>新的联邦拨款旨在支持选举。许多投票官员没有看到一毛钱</title>
-      <link>https://npr.org/2024/04/23/1246372144/election-funding-dhs-grants</link>
-      <description><![CDATA[当宣布数十亿美元的联邦拨款计划的一部分将用于选举安全时，投票官员欢呼雀跃。但在许多情况下，分配并没有按计划进行。]]></description>
-      <guid>https://npr.org/2024/04/23/1246372144/election-funding-dhs-grants</guid>
-      <pubDate>Tue, 23 Apr 2024 09:00:50 GMT</pubDate>
-    </item>
-    <item>
       <title>经过 26,000 条公众意见后，FTC 将就禁止竞争协议的规则进行投票</title>
       <link>https://npr.org/2024/04/23/1246430110/noncompete-agreements-ftc-ban-lina-khan</link>
       <description><![CDATA[联邦贸易委员会将于周二投票决定是否发布禁止竞争协议的最终规则。拜登政府辩称，竞业禁止损害工人并抑制竞争。]]></description>
@@ -69,10 +62,17 @@
       <pubDate>Tue, 23 Apr 2024 09:00:50 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年选举地图上值得关注的州</title>
-      <link>https://npr.org/2024/04/23/1246359499/2024-electoral-map</link>
-      <description><![CDATA[NPR 的选举地图将各州分为七类：摇摆州、倾向共和党、倾向民主党、可能共和党、可能民主党、安全共和党和安全民主党。]]></description>
-      <guid>https://npr.org/2024/04/23/1246359499/2024-electoral-map</guid>
+      <title>新的联邦拨款旨在支持选举。许多投票官员没有看到一毛钱</title>
+      <link>https://npr.org/2024/04/23/1246372144/election-funding-dhs-grants</link>
+      <description><![CDATA[当宣布数十亿美元的联邦拨款计划的一部分将用于选举安全时，投票官员欢呼雀跃。但在许多情况下，分配并没有按计划进行。]]></description>
+      <guid>https://npr.org/2024/04/23/1246372144/election-funding-dhs-grants</guid>
+      <pubDate>Tue, 23 Apr 2024 09:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>前《国家询问报》出版商在封口费审判中作证指控唐纳德·特朗普</title>
+      <link>https://npr.org/2024/04/23/1246435476/david-pecker-trump-trial</link>
+      <description><![CDATA[大卫·佩克 (David Pecker) 此前曾配合联邦调查，调查向两名声称在 2016 年总统大选前与特朗普有染的女性支付的款项。]]></description>
+      <guid>https://npr.org/2024/04/23/1246435476/david-pecker-trump-trial</guid>
       <pubDate>Tue, 23 Apr 2024 09:00:20 GMT</pubDate>
     </item>
     </channel>
