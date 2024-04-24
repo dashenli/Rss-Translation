@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 12:30:05 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
+      <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
+      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充简约的设计选择。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</guid>
+      <pubDate>Wed, 24 Apr 2024 09:25:21 GMT</pubDate>
+    </item>
     <item>
       <title>滚动显示模糊文本</title>
       <link>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>UI 交互和动画综述 #42</title>
       <link>https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/</link>
-      <description><![CDATA[来自 Dribbble 的最佳镜头的新鲜动作设计合集，让您的创造力源源不断。]]></description>
+      <description><![CDATA[Dribbble 的最佳镜头的新鲜动作设计合集，让您的创造力源源不断。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/</guid>
       <pubDate>Sun, 14 Apr 2024 09:33:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[具有不同动画的图像的圆形堆栈介绍。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</guid>
       <pubDate>Wed, 10 Apr 2024 10:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#828</title>
-      <link>https://tympanus.net/codrops/collective/collective-827/</link>
-      <description><![CDATA[徽标系统 * 设计系统数据库 * 引入 Babylon.js 7.0]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-827/</guid>
-      <pubDate>Tue, 09 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
