@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 06:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 09:16:31 GMT</lastBuildDate>
+    <item>
+      <title>认识 Ritmo，Musixmatch 的跨平台设计系统</title>
+      <link>https://medium.com/musixmatch-blog/meet-ritmo-musixmatch-cross-platform-design-system-9f6296c5ed81</link>
+      <description><![CDATA[当 Musixmatch 最初踏上音乐和科技行业之旅时，它主要将自己定位为音乐播放器。
+]]></description>
+      <guid>https://medium.com/musixmatch-blog/meet-ritmo-musixmatch-cross-platform-design-system-9f6296c5ed81</guid>
+      <pubDate>Wed, 24 Apr 2024 07:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>一生的改变</title>
+      <link>https://the-tardigrade.com/projects/climate-future/</link>
+      <description><![CDATA[给下一代留下对更美好星球的希望。
+]]></description>
+      <guid>https://the-tardigrade.com/projects/climate-future/</guid>
+      <pubDate>Wed, 24 Apr 2024 07:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>为您的字体选择完美的图标</title>
+      <link>https://blog.streamlinehq.com/choosing-the-perfect-icons-for-your-typeface/</link>
+      <description><![CDATA[关于如何配对图标和字体以创建一致的视觉语言的简单指南。
+]]></description>
+      <guid>https://blog.streamlinehq.com/choosing-the-perfect-icons-for-your-typeface/</guid>
+      <pubDate>Wed, 24 Apr 2024 07:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>点击轮 JS</title>
+      <link>https://www.clickwheeljs.com/</link>
+      <description><![CDATA[使用此 JavaScript 库将 Ipod 滚轮添加到任何网站。
+]]></description>
+      <guid>https://www.clickwheeljs.com/</guid>
+      <pubDate>Wed, 24 Apr 2024 07:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果对 CarPlay 的冒险赌注</title>
+      <link>https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/</link>
+      <description><![CDATA[随着苹果汽车项目的取消，苹果对 CarPlay 的战略是什么以及汽车制造商如何应对？
+]]></description>
+      <guid>https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/</guid>
+      <pubDate>Wed, 24 Apr 2024 07:18:53 GMT</pubDate>
+    </item>
     <item>
       <title>适合您的设计系统的正确代码</title>
       <link>https://www.figma.com/blog/introducing-code-connect</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing</guid>
       <pubDate>Mon, 22 Apr 2024 09:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界新闻摄影大赛记录战争、移民和破坏</title>
-      <link>https://www.thisiscolossal.com/2024/04/world-press-photos-2024/</link>
-      <description><![CDATA[从以色列在加沙的战争到全球气温迅速变暖，去年全球各地遭受了令人难以置信的破坏。
-]]></description>
-      <guid>https://www.thisiscolossal.com/2024/04/world-press-photos-2024/</guid>
-      <pubDate>Fri, 19 Apr 2024 05:56:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speedometer 3.0：迄今为止衡量浏览器性能的最佳方法</title>
-      <link>https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/</link>
-      <description><![CDATA[Apple 的 WebKit 团队很高兴推出 Speedometer 3.0，这是一个更好地反映当今 Web 的重大更新。
-]]></description>
-      <guid>https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/</guid>
-      <pubDate>Fri, 19 Apr 2024 05:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>锚点位置工具</title>
-      <link>https://anchor-tool.com/</link>
-      <description><![CDATA[新 CSS 锚点定位功能的 Chrome Canary 演示。 
-]]></description>
-      <guid>https://anchor-tool.com/</guid>
-      <pubDate>Fri, 19 Apr 2024 05:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 中的滑动 3D 图像框架</title>
-      <link>https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</link>
-      <description><![CDATA[在 CSS 中创建 3D 效果并不是一个全新的概念，但典型的方法是在标记中使用其他元素。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/04/sliding-3d-image-frames-css/</guid>
-      <pubDate>Fri, 19 Apr 2024 04:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Llama 3 简介：迄今为止最有能力的公开法学硕士</title>
-      <link>https://ai.meta.com/blog/meta-llama-3/</link>
-      <description><![CDATA[今天，我们将推出 Meta Llama 3，它是我们下一代最先进的开源大型语言模型。
-]]></description>
-      <guid>https://ai.meta.com/blog/meta-llama-3/</guid>
-      <pubDate>Fri, 19 Apr 2024 04:54:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
