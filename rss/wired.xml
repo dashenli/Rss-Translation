@@ -3,8 +3,22 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:13:29 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Wed, 24 Apr 2024 00:55:39 GMT</lastBuildDate>
+    <item>
+      <title>非竞争已死——科技工作者可以自由流动</title>
+      <link>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</link>
+      <description><![CDATA[美国联邦贸易委员会的一项新规则使大多数经常用于约束科技工人的竞业禁止协议无效。它可以释放更高的工资以及更多的创业和创新。]]></description>
+      <guid>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</guid>
+      <pubDate>Tue, 23 Apr 2024 23:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉承诺推出“更实惠的车型”和“Cyber​​cab”</title>
+      <link>https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的汽车制造商周二告诉投资者，销量和收入有所下降，但新的“更实惠的车型”将在 2025 年中期之前推出，比原计划要早。]]></description>
+      <guid>https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/</guid>
+      <pubDate>Tue, 23 Apr 2024 21:45:39 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Hulu 上最好的 35 部节目</title>
       <link>https://www.wired.com/story/best-tv-shows-hulu-this-week/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>国家安全内部人士对人工智能的危险进行了计算</title>
       <link>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</link>
-      <description><![CDATA[颇具影响力的智库兰德公司首席执行官贾森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他破坏工具变得更加容易。]]></description>
+      <description><![CDATA[颇具影响力的智库兰德公司首席执行官杰森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他毁灭性工具变得更加容易。]]></description>
       <guid>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</guid>
       <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Change Healthcare 最终承认向勒索软件黑客付费，但仍面临患者数据泄露</title>
-      <link>https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/</link>
-      <description><![CDATA[该公司姗姗来迟地承认，它已向网络犯罪分子支付了勒索费用，而且患者数据最终还是出现在暗网上。]]></description>
-      <guid>https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/</guid>
-      <pubDate>Tue, 23 Apr 2024 03:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>植物性肉类蓬勃发展。半身像来了</title>
-      <link>https://www.wired.com/story/plant-based-meat-sales-2023/</link>
-      <description><![CDATA[美国纯素肉的销量呈下降趋势，各公司都在努力赢回顾客。]]></description>
-      <guid>https://www.wired.com/story/plant-based-meat-sales-2023/</guid>
-      <pubDate>Mon, 22 Apr 2024 17:06:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

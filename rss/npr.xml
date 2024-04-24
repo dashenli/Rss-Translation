@@ -4,9 +4,23 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:54:45 GMT</lastBuildDate>
     <item>
-      <title>扰乱 GPS：新型电子战争迷雾</title>
+      <title>特斯拉利润大幅下滑。埃隆·马斯克 (Elon Musk) 仍全力开发机器人出租车</title>
+      <link>https://npr.org/2024/04/23/1246643864/tesla-earnings-elon-musk-robotaxi</link>
+      <description><![CDATA[特斯拉的销量下降。它正在削减汽车价格并裁员。然而，首席执行官埃隆·马斯克仍然看好自动驾驶和电池供电的未来。]]></description>
+      <guid>https://npr.org/2024/04/23/1246643864/tesla-earnings-elon-musk-robotaxi</guid>
+      <pubDate>Tue, 23 Apr 2024 23:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普凭借“Truth Social”应用获得额外 12 亿美元意外之财</title>
+      <link>https://npr.org/2024/04/23/1246645808/truth-social-shares-windfall-trump-media-technology-group</link>
+      <description><![CDATA[作为当前协议的一部分，特朗普将获得其社交媒体公司特朗普媒体与科技集团的额外股份。但他仍然无法兑现。]]></description>
+      <guid>https://npr.org/2024/04/23/1246645808/truth-social-shares-windfall-trump-media-technology-group</guid>
+      <pubDate>Tue, 23 Apr 2024 21:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>扰乱的 GPS：新的电子战争迷雾</title>
       <link>https://npr.org/2024/04/23/1196980604/scrambled-gps-the-new-electronic-fog-of-war</link>
       <description><![CDATA[两个故事讲述了我们对 GPS 的依赖如何在经历战争的地区成为问题。在乌克兰，电网使用 GPS 成为一种负担。在今天的中东，GPS“欺骗”导致了从飞机导航到互联网约会等各种问题。]]></description>
       <guid>https://npr.org/2024/04/23/1196980604/scrambled-gps-the-new-electronic-fog-of-war</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>近东救济工程处的报告得出结论，以色列没有提供雇员好战的证据</title>
       <link>https://npr.org/2024/04/23/1246613547/unrwa-israel-hamas-gaza-war</link>
-      <description><![CDATA[联合国委托进行的独立审查并无权调查以色列的另一项指控，即十几名近东救济工程处员工参与了 10 月 7 日哈马斯领导的对以色列的袭击。]]></description>
+      <description><![CDATA[联合国委托进行的独立审查没有权力调查以色列的另一项指控，即十几名近东救济工程处雇员参与了 10 月 7 日哈马斯领导的针对以色列的袭击。]]></description>
       <guid>https://npr.org/2024/04/23/1246613547/unrwa-israel-hamas-gaza-war</guid>
       <pubDate>Tue, 23 Apr 2024 18:53:36 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[随着针对加沙战争的校园抗议活动蔓延至美国各地，紧张局势高度加剧。最高法院将审理有关支持工会的星巴克员工的案件。]]></description>
       <guid>https://npr.org/2024/04/23/1246560844/up-first-newsletter-gaza-protest-college-columbia-starbucks-supreme-court-union</guid>
       <pubDate>Tue, 23 Apr 2024 11:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合卫理公会将再次讨论 LGBTQ 神职人员和同性婚礼</title>
-      <link>https://npr.org/2024/04/23/1245103759/lgbtq-clergy-same-sex-weddings-united-methodists</link>
-      <description><![CDATA[联合卫理公会正在举行自疫情以来的首次总会大会，并将考虑是否改变有关 LGBTQ 问题的政策。]]></description>
-      <guid>https://npr.org/2024/04/23/1245103759/lgbtq-clergy-same-sex-weddings-united-methodists</guid>
-      <pubDate>Tue, 23 Apr 2024 09:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>塑料污染条约的谈判陷入僵局。美国可以做得更多吗？</title>
-      <link>https://npr.org/2024/04/23/1246293403/plastic-pollution-un-treaty-negotiations-waste-fossil-fuels-climate-change</link>
-      <description><![CDATA[批评人士称，美国一直不愿意在全球协议中推动大幅减少塑料垃圾的措施。]]></description>
-      <guid>https://npr.org/2024/04/23/1246293403/plastic-pollution-un-treaty-negotiations-waste-fossil-fuels-climate-change</guid>
-      <pubDate>Tue, 23 Apr 2024 09:01:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
