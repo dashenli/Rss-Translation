@@ -4,7 +4,7 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 24 Apr 2024 09:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:16:25 GMT</lastBuildDate>
     <item>
       <title>《TikTok禁令法案》在美国参议院通过，未来会发生什么？</title>
       <link>https://wired.jp/article/senate-tiktok-ban/</link>
@@ -15,12 +15,12 @@
     <item>
       <title>换脸、实时深度伪造浪漫骗局终于来了</title>
       <link>https://wired.jp/article/yahoo-boys-real-time-deepfake-scams/</link>
-      <description><![CDATA[让我们看看精明的骗子“雅虎男孩”是如何利用任何人都可以使用的人工智能换脸技术来实施爱情骗局的。]]></description>
+      <description><![CDATA[让我们来看看被称为“雅虎男孩”的精明骗子如何利用任何人都可以使用的人工智能换脸技术来实施爱情骗局。]]></description>
       <guid>https://wired.jp/article/yahoo-boys-real-time-deepfake-scams/</guid>
       <pubDate>Wed, 24 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉加速“经济型电动汽车”计划，并将自动驾驶出租车命名为“Cyber​​Cab”</title>
+      <title>特斯拉加速“经济适用电动车”计划，自动驾驶出租车将命名为“Cyber​​cab”</title>
       <link>https://wired.jp/article/tesla-promises-more-affordable-vehicles-cybercab/</link>
       <description><![CDATA[特斯拉4月23日（美国时间）透露，正在加快新车型计划，其中包括“更实惠的车型”。新的进展在一系列困难中引起了人们的关注，例如透露已经公布的自动驾驶出租车的名称。]]></description>
       <guid>https://wired.jp/article/tesla-promises-more-affordable-vehicles-cybercab/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>将人类排除在音乐之外！？用AI自动生成黑金属，音乐单位DADABOTS创造的异世界</title>
       <link>https://wired.jp/article/black-metal-generative-ai-dadabots/</link>
-      <description><![CDATA[随着人工智能生成的浪潮蔓延到音乐世界，发行黑金属、死亡金属等人工智能自动生成的音乐的音乐单位DADABOTS备受关注。这项活动提出了“将人类排除在音乐之外”这一颇具争议的口号，到底是什么活动呢？]]></description>
+      <description><![CDATA[随着人工智能生成的浪潮蔓延到音乐世界，发行黑金属、死亡金属等人工智能自动生成的音乐的音乐单位DADABOTS备受关注。到底是什么活动提出了“将人类排除在音乐之外”这一颇具争议的口号？]]></description>
       <guid>https://wired.jp/article/black-metal-generative-ai-dadabots/</guid>
       <pubDate>Tue, 23 Apr 2024 08:00:00 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 23 Apr 2024 05:53:51 GMT</pubDate>
     </item>
     <item>
-      <title>世界上最强大的开源人工智能模型的诞生</title>
+      <title>世界上最强大的开源人工智能模型诞生的内幕</title>
       <link>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</link>
       <description><![CDATA[初创公司Databricks发布了DBRX，这是一种开源大规模语言模型，超越了Meta的Llama 2和Elon Musk的Grok AI，并接近OpenAI的GPT-4。]]></description>
       <guid>https://wired.jp/article/sz-dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>朝鲜工人是否参与了美国和日本的动漫制作？在服务器上发现“绝密文件”的内容</title>
       <link>https://wired.jp/article/north-korea-amazon-max-animation-exposed-server/</link>
-      <description><![CDATA[在位于朝鲜 IP 地址的服务器上发现了数千个与动画相关的文件，包括来自美国和日本的作品。据信，朝鲜工人通过中国幌子公司参与了这部动漫的制作，这突显了筹集资金以避免国际制裁的一种方式。]]></description>
+      <description><![CDATA[在位于朝鲜 IP 地址的服务器上发现了数千个与动画相关的文件，包括来自美国和日本的作品。朝鲜工人似乎通过中国幌子公司参与了这部动画的制作，这突显了筹集资金以避免国际制裁的一种方式。]]></description>
       <guid>https://wired.jp/article/north-korea-amazon-max-animation-exposed-server/</guid>
       <pubDate>Mon, 22 Apr 2024 09:00:00 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>NVIDIA 首席执行官黄仁勋谈论 AI 超级计算机的未来</title>
       <link>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</link>
-      <description><![CDATA[科技行业对 NVIDIA 的 GPU 非常着迷。我们采访了引领AI淘金热的充满活力的CEO黄仁勋，询问了解决GPU短缺的前景、AI革命的进展、中国和竞争对手公司的存在以及有关他私人的各种事情。生活。]]></description>
+      <description><![CDATA[科技界对 NVIDIA 的 GPU 非常着迷。我们采访了引领AI淘金热的充满活力的CEO黄仁勋，询问了解决GPU短缺的前景、AI革命的进展、中国和竞争对手公司的存在以及有关他私人的各种事情。生活。]]></description>
       <guid>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</guid>
       <pubDate>Sun, 21 Apr 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>斯德哥尔摩时尚 3：为什么我们要佩戴 ALL BLUES 珠宝</title>
       <link>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</link>
-      <description><![CDATA[不知不觉中，这座城市不断涌现出独特的时尚品牌。瑞典斯德哥尔摩。在一个连时尚之都都称不上的城市，这怎么可能呢？我去见他，想知道原因。关于 All Blues 的珠宝和商店，这是一个充满简单、强烈和道德之美的地方。]]></description>
+      <description><![CDATA[不知不觉中，这座城市不断涌现出独特的时尚品牌。瑞典斯德哥尔摩。在一个连时尚之都都称不上的城市，这怎么可能呢？我去见他，想知道原因。关于 All Blues 珠宝和商店，这是一个充满简单、强烈和道德之美的地方。]]></description>
       <guid>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</guid>
       <pubDate>Sun, 21 Apr 2024 03:00:00 GMT</pubDate>
     </item>
