@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:14:44 GMT</lastBuildDate>
+    <item>
+      <title>伊丽莎白·沃伦呼吁打击加密货币在儿童性虐待中的作用</title>
+      <link>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</link>
+      <description><![CDATA[美国参议员呼吁对加密货币在支付在线儿童性虐待图像方面的作用进行新的审查，他们称这个问题已经恶化。]]></description>
+      <guid>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>耶鲁方法智能锁评论：神奇的开门能力</title>
+      <link>https://www.wired.com/review/yale-approach-lock-review/</link>
+      <description><![CDATA[耶鲁大学的第一个门锁适配器在感应到您回家时会神奇地解锁您的门。]]></description>
+      <guid>https://www.wired.com/review/yale-approach-lock-review/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在路由器上设置 VPN 来保护您的家庭 Wi-Fi 网络</title>
+      <link>https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/</link>
+      <description><![CDATA[通过在路由器上运行虚拟专用网络，为您的智能家居小工具、流媒体盒和家中的每台设备添加额外的安全性和隐私性。]]></description>
+      <guid>https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dreame X30 Ultra 评测：带有弯曲臂和可拆卸拖把垫的扫地机器人</title>
+      <link>https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/</link>
+      <description><![CDATA[想要一个可以拖地的扫地机器人，但又不想让湿垫拖在地毯上？ Dreame X30 Ultra 是昂贵的解决方案。]]></description>
+      <guid>https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eufy X10 Pro Omni评测：出色的拖地能力和不错的AI智能</title>
+      <link>https://www.wired.com/review/eufy-x10-pro-omni/</link>
+      <description><![CDATA[我很遗憾地通知您，对于 Eufy 的中端人工智能扫地机器人来说，800 美元是一个不错的价格。]]></description>
+      <guid>https://www.wired.com/review/eufy-x10-pro-omni/</guid>
+      <pubDate>Thu, 25 Apr 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何清洁咖啡研磨机 (2024)</title>
+      <link>https://www.wired.com/story/how-to-clean-a-coffee-grinder/</link>
+      <description><![CDATA[清洁咖啡研磨机有点麻烦，但这样做会大大改善您日常咖啡的味道。这也比您想象的要容易得多。]]></description>
+      <guid>https://www.wired.com/story/how-to-clean-a-coffee-grinder/</guid>
+      <pubDate>Thu, 25 Apr 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Home Depot 和 Lowe's 的 14 种最后一刻工具优惠：电动工具、庭院工具、手动工具</title>
       <link>https://www.wired.com/story/home-depot-lowes-spring-sale-2024/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[消息人士怀疑中国是有针对性地利用思科安全设备中两个零日漏洞的幕后黑手。]]></description>
       <guid>https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</guid>
       <pubDate>Wed, 24 Apr 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登总统签署可能禁止 TikTok 的法案</title>
-      <link>https://www.wired.com/story/biden-sign-tiktok-ban/</link>
-      <description><![CDATA[该法律将给予 TikTok 一年时间从其中国所有者字节跳动剥离。]]></description>
-      <guid>https://www.wired.com/story/biden-sign-tiktok-ban/</guid>
-      <pubDate>Wed, 24 Apr 2024 15:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>医生将心脏泵和猪肾移植结合起来进行突破性手术</title>
-      <link>https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/</link>
-      <description><![CDATA[在此类手术中，一名 54 岁的新泽西州妇女在接受心脏泵后接受了基因工程猪肾和胸腺，这是此类手术的首例。]]></description>
-      <guid>https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/</guid>
-      <pubDate>Wed, 24 Apr 2024 15:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>18 个最佳便携式电池充电器（2024 年）：适用于手机、iPad、笔记本电脑等</title>
-      <link>https://www.wired.com/gallery/best-portable-chargers-power-banks/</link>
-      <description><![CDATA[使用这些手持移动电源让您的手机、平板电脑、笔记本电脑和其他电子产品保持运行。]]></description>
-      <guid>https://www.wired.com/gallery/best-portable-chargers-power-banks/</guid>
-      <pubDate>Wed, 24 Apr 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 款最佳 Wi-Fi 路由器 (2024)：预算、游戏、Mesh</title>
-      <link>https://www.wired.com/gallery/best-wifi-routers/</link>
-      <description><![CDATA[不要遭受缓冲之苦。无论您的需求或预算如何，这些经过有线测试的系统都可以在您的家中提供可靠的互联网。]]></description>
-      <guid>https://www.wired.com/gallery/best-wifi-routers/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 项最佳 VPN 服务 (2024)：适用于路由器、PC、iPhone、Android 等</title>
-      <link>https://www.wired.com/story/best-vpn/</link>
-      <description><![CDATA[它无法解决您所有的隐私问题，但虚拟专用网络可以使您不再成为黑客的诱惑目标。]]></description>
-      <guid>https://www.wired.com/story/best-vpn/</guid>
-      <pubDate>Wed, 24 Apr 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日产毛茸茸的机器人 Iruyo 木偶在您开车时安慰哭泣的宝宝</title>
-      <link>https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</link>
-      <description><![CDATA[Iruyo 是 Nissan 的新产品，它使用双向摄像头、麦克风和许多可爱的东西来将您与后座上的宝宝联系起来。]]></description>
-      <guid>https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

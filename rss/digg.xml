@@ -4,7 +4,14 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:15:53 GMT</lastBuildDate>
+    <item>
+      <title>自 2010 年以来幸福感增幅最大的国家排名</title>
+      <link>https://rss.digg.com/data-viz/link/countries-world-happiness-scores-since-2010-ranked</link>
+      <description><![CDATA[这些国家的幸福指数在过去 13 年中增长最快。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/countries-world-happiness-scores-since-2010-ranked</guid>
+      <pubDate>Tue, 23 Apr 2024 11:02:26 GMT</pubDate>
+    </item>
     <item>
       <title>为什么美国人不会做一件能降低高物价的事情</title>
       <link>https://www.businessinsider.com/hate-spending-consumers-economic-sentiment-retail-sales-inflation-gdp-growth-2024-4?utm_source=digg&amp;utm_medium=social&amp;utm_campaign=standard-post</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[我们还没有达到这一目标，但我们正在接近医学、自然灾害检测等领域的一些巨大进步。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/scientific-breakthroughs-new-vaccines-earthquakes-reddit</guid>
       <pubDate>Mon, 22 Apr 2024 18:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>按职位划分的最高棒球薪水可视化</title>
-      <link>https://rss.digg.com/data-viz/link/mlb-top-salaries-position-2024-highest-salaries</link>
-      <description><![CDATA[从数据来看，一支球队中收入最高的职位往往是先发投手和打外野的大棒。除非你是A，而且你不付钱给任何人。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/mlb-top-salaries-position-2024-highest-salaries</guid>
-      <pubDate>Mon, 22 Apr 2024 17:51:13 GMT</pubDate>
     </item>
     <item>
       <title>这些人生活在维多利亚时代——这是他们对未来的警告</title>
@@ -43,7 +43,7 @@
     <item>
       <title>只有在美国，你在旧货购物时才会遇到这种情况</title>
       <link>https://rss.digg.com/digg-vids/link/thrift-shopping-gone-wrong-video</link>
-      <description><![CDATA[“我想说，今天连衣裙区很流行，但到底是怎么回事，”蒂安娜·雷奈 (Tiana Renay) 说。]]></description>
+      <description><![CDATA[“我本来想说，今天的连衣裙区很热闹，但这到底是怎么回事？”Tiana Renay 说道。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/thrift-shopping-gone-wrong-video</guid>
       <pubDate>Mon, 22 Apr 2024 15:30:36 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Fri, 19 Apr 2024 08:24:42 GMT</pubDate>
     </item>
     <item>
-      <title>播放“咒语塔”</title>
-      <link>https://rss.digg.com/puzzmo/link/spelltower</link>
-      <description><![CDATA[通过在网格上拖动、单独点击每个字母或在键盘上键入来选择单词。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/spelltower</guid>
-      <pubDate>Mon, 11 Dec 2023 20:07:42 GMT</pubDate>
+      <title>下“非常糟糕的国际象棋”</title>
+      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
+      <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
+      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
