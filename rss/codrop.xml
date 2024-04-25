@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:22:55 GMT</lastBuildDate>
+    <item>
+      <title>励志网站综述 #59</title>
+      <link>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</link>
+      <description><![CDATA[探索我们精心挑选的设计的最新网站系列，让您了解最新趋势。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
       <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>一些滚动文本突出显示动画</title>
       <link>https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/</link>
-      <description><![CDATA[基于滚动的文本突出显示动画的一些想法。]]></description>
+      <description><![CDATA[一些基于滚动的文本突出显示动画的想法。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/</guid>
       <pubDate>Wed, 17 Apr 2024 12:13:22 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[CSS 容器查询交互式指南 * 重复]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-829/</guid>
       <pubDate>Fri, 12 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像堆栈入口动画</title>
-      <link>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</link>
-      <description><![CDATA[具有不同动画的图像的圆形堆栈介绍。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/</guid>
-      <pubDate>Wed, 10 Apr 2024 10:50:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

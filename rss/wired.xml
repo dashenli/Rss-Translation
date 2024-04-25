@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>提要：全部最新</title>
+    <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:20:19 GMT</lastBuildDate>
     <item>
-      <title>不知何故，这只价值 10,000 美元的喷火机器狗在 48 个州完全合法</title>
+      <title>Home Depot 和 Lowe's 的 14 种最后一刻工具优惠：电动工具、庭院工具、手动工具</title>
+      <link>https://www.wired.com/story/home-depot-lowes-spring-sale-2024/</link>
+      <description><![CDATA[趁着还可以，用从电动工具到草坪用具等各种优惠来装饰你的家、院子和车库。]]></description>
+      <guid>https://www.wired.com/story/home-depot-lowes-spring-sale-2024/</guid>
+      <pubDate>Thu, 25 Apr 2024 12:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试您对互联网缩略语的了解</title>
+      <link>https://www.wired.com/story/gadget-lab-podcast-641/</link>
+      <description><![CDATA[本周，我们将探讨彼此对早期互联网、移动时代和人工智能热潮中常见缩写词的了解。因此，启动你的法学硕士，发送 RCS，并告诉你的 BBS 朋友游戏正在进行中。]]></description>
+      <guid>https://www.wired.com/story/gadget-lab-podcast-641/</guid>
+      <pubDate>Thu, 25 Apr 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登团队通过即将到来的 TikTok 禁令发帖</title>
+      <link>https://www.wired.com/story/biden-is-still-posting-on-tiktok/</link>
+      <description><![CDATA[总统乔·拜登可能已将 TikTok 禁令法案签署为法律，但他的竞选活动仍在这款中国拥有的应用程序上活跃。]]></description>
+      <guid>https://www.wired.com/story/biden-is-still-posting-on-tiktok/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook 和 Instagram 上充斥着露骨的“AI 女友”广告</title>
+      <link>https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/</link>
+      <description><![CDATA[《连线》发现，Meta 的社交平台上投放了数千个广告，宣传露骨的“AI 女友”应用程序。一些人类性工作者表示，该平台对自己的帖子进行更严厉的监管，这是不公平的。]]></description>
+      <guid>https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知何故，这只价值 10,000 美元的火焰喷射器机器狗在 48 个州完全合法</title>
       <link>https://www.wired.com/story/thermonator-flame-thrower-robot-dog/</link>
       <description><![CDATA[认识恒温器。它的射程可达 30 英尺，并具有蓝牙功能。]]></description>
       <guid>https://www.wired.com/story/thermonator-flame-thrower-robot-dog/</guid>
@@ -36,7 +64,7 @@
     <item>
       <title>“ArcaneDoor”网络间谍入侵思科防火墙以访问政府网络</title>
       <link>https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</link>
-      <description><![CDATA[消息人士怀疑中国是针对性利用思科安全设备两个零日漏洞的幕后黑手。]]></description>
+      <description><![CDATA[消息人士怀疑中国是有针对性地利用思科安全设备中两个零日漏洞的幕后黑手。]]></description>
       <guid>https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</guid>
       <pubDate>Wed, 24 Apr 2024 16:00:00 GMT</pubDate>
     </item>
@@ -62,16 +90,16 @@
       <pubDate>Wed, 24 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>12 款最佳 Wi-Fi 路由器（2024 年）：预算、游戏、网状网络</title>
+      <title>12 款最佳 Wi-Fi 路由器 (2024)：预算、游戏、Mesh</title>
       <link>https://www.wired.com/gallery/best-wifi-routers/</link>
-      <description><![CDATA[不要忍受缓冲。无论您的需求或预算如何，这些经过 WIRED 测试的系统都能为您的家庭提供可靠的互联网服务。]]></description>
+      <description><![CDATA[不要遭受缓冲之苦。无论您的需求或预算如何，这些经过有线测试的系统都可以在您的家中提供可靠的互联网。]]></description>
       <guid>https://www.wired.com/gallery/best-wifi-routers/</guid>
       <pubDate>Wed, 24 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>5 种最佳 VPN 服务 (2024)：适用于路由器、PC、iPhone、Android 等</title>
+      <title>5 项最佳 VPN 服务 (2024)：适用于路由器、PC、iPhone、Android 等</title>
       <link>https://www.wired.com/story/best-vpn/</link>
-      <description><![CDATA[它无法解决您所有的隐私问题，但虚拟专用网络可以让您不再成为黑客的诱惑目标。]]></description>
+      <description><![CDATA[它无法解决您所有的隐私问题，但虚拟专用网络可以使您不再成为黑客的诱惑目标。]]></description>
       <guid>https://www.wired.com/story/best-vpn/</guid>
       <pubDate>Wed, 24 Apr 2024 13:30:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Iruyo 是 Nissan 的新产品，它使用双向摄像头、麦克风和许多可爱的东西来将您与后座上的宝宝联系起来。]]></description>
       <guid>https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</guid>
       <pubDate>Wed, 24 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>兔子的AI助手来了。很快，可穿戴相机也将成为现实</title>
-      <link>https://www.wired.com/story/rabbit-r1-launch-event-nyc/</link>
-      <description><![CDATA[《连线》杂志参加了该公司的发布会，客户在会上拿起了第一台 R1，并了解到了一款“全视”的人工智能设备。]]></description>
-      <guid>https://www.wired.com/story/rabbit-r1-launch-event-nyc/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 的创作者经济凝视深渊</title>
-      <link>https://www.wired.com/story/senate-vote-tiktok-creator-economy-staring-into-the-abyss/</link>
-      <description><![CDATA[美国参议院投票通过了一项法案，该法案可能会在一年内禁止 TikTok，从而使依赖该平台的创作者和企业陷入不确定的未来。]]></description>
-      <guid>https://www.wired.com/story/senate-vote-tiktok-creator-economy-staring-into-the-abyss/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当网络骚扰发生在你身上时如何处理</title>
-      <link>https://www.wired.com/story/how-to-deal-with-online-harassment/</link>
-      <description><![CDATA[如果您的提及、收件箱和私信中充斥着仇恨评论，这里是您度过难关所需的技术和心理工具。]]></description>
-      <guid>https://www.wired.com/story/how-to-deal-with-online-harassment/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能建造下一个德罗宁的对决</title>
-      <link>https://www.wired.com/story/delorean-showdown/</link>
-      <description><![CDATA[凯特·德洛林 (Kat DeLorean) 的父亲的标志性跑车穿越时空进入电影史几十年后，她希望打造一款现代翻拍版。只有一个问题：其他人拥有她名字上的商标。]]></description>
-      <guid>https://www.wired.com/story/delorean-showdown/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
