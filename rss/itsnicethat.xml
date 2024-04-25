@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It’s Nice That 坚信创意灵感属于每个人</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:17:22 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Thu, 25 Apr 2024 18:18:49 GMT</lastBuildDate>
+    <item>
+      <title>Headspace 彻底改变视觉识别，成为心理健康全能者</title>
+      <link>https://www.itsnicethat.com/articles/italic-studio-headspace-graphic-design-project-250424</link>
+      <description><![CDATA[该平台尝试了新的插图和自定义字体，以帮助其作为严肃的心理健康教练服务参与竞争。]]></description>
+      <guid>https://www.itsnicethat.com/articles/italic-studio-headspace-graphic-design-project-250424</guid>
+      <pubDate>Thu, 25 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>时代的标志：Jeffrey Sincich 的绗缝作品展现了日常生活中的艺术</title>
       <link>https://www.itsnicethat.com/articles/jeffrey-sincich-art-project-250424</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Studio Leichtfried 深思熟虑的身份将数字系统与模拟体验结合起来</title>
+      <title>Studio Leichtfried 的深思熟虑的身份将数字系统与模拟体验结合在一起</title>
       <link>https://www.itsnicethat.com/articles/studio-leichtfried-graphic-design-discover-240424</link>
       <description><![CDATA[这家总部位于维也纳的工作室为从电影院到园丁等众多客户创作了作品，并将合作视为项目成功的关键。]]></description>
       <guid>https://www.itsnicethat.com/articles/studio-leichtfried-graphic-design-discover-240424</guid>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 24 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>摄影师 Kevin Faingnaert 以电影般的视角描绘西班牙的埃尔罗西奥朝圣之旅</title>
+      <title>摄影师 Kevin Faingnaert 用电影般的灯光描绘了西班牙的埃尔罗西奥朝圣之旅</title>
       <link>https://www.itsnicethat.com/articles/kevin-faingnaert-el-rocio-photography-project-240424</link>
       <description><![CDATA[摄影师分享了自己沉浸在富有感染力的社区氛围中，拍出一张至今仍让他“不寒而栗”的照片的经历。]]></description>
       <guid>https://www.itsnicethat.com/articles/kevin-faingnaert-el-rocio-photography-project-240424</guid>
@@ -101,13 +108,6 @@
       <link>https://www.itsnicethat.com/news/if-you-could-jobs-220424</link>
       <description><![CDATA[查看发布到我们姐妹网站“If You Could Jobs”上的所有最新职位。]]></description>
       <guid>https://www.itsnicethat.com/news/if-you-could-jobs-220424</guid>
-      <pubDate>Mon, 22 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe MAX London 直播让您无论身在何处都能观看比赛动态</title>
-      <link>https://www.itsnicethat.com/articles/adobe-max-london-2024-event-sponsored-content-220424</link>
-      <description><![CDATA[对于那些无法获得现场演出门票的人，请不要担心：Adobe MAX 直播就在这里。]]></description>
-      <guid>https://www.itsnicethat.com/articles/adobe-max-london-2024-event-sponsored-content-220424</guid>
       <pubDate>Mon, 22 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>

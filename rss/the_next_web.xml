@@ -3,10 +3,17 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:16:20 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Thu, 25 Apr 2024 18:18:18 GMT</lastBuildDate>
     <item>
-      <title>欧洲利用深度学习让工业机器人更安全</title>
+      <title>NetScout 称，亲乌克兰政府当选后，波兰的网络攻击激增</title>
+      <link>https://thenextweb.com/news/cyberattacks-poland-surge-after-election</link>
+      <description><![CDATA[去年年底波兰政府更迭后，网络攻击者袭击了波兰。根据网络安全公司 NetScout 的观察，到 2023 年底，DDoS 攻击几乎是该国平均水平的四倍。当法律与正义党（PiS）在去年的波兰大选中失去多数席位时，这一激增就开始了。自 2015 年以来，法律与正义党一直统治该国。取而代之的是联合政府，并重申支持乌克兰防御俄罗斯入侵。 NetScout 将这些进展描述为对手的“完美风暴”。几个黑客活动团伙立即发起了一连串网络攻击。最著名的组织是 NoName057，该组织…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/cyberattacks-poland-surge-after-election</guid>
+      <pubDate>Thu, 25 Apr 2024 17:51:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲利用深度学习让工业机器人让同事更安全</title>
       <link>https://thenextweb.com/news/europe-taps-deep-learning-make-industrial-robots-safer</link>
       <description><![CDATA[欧洲对工业机器人的需求正在不断增长，尤其是在自动化优势的推动下。然而，在确保安全的同时确保与人类的无缝协作仍面临着持续的挑战。为了解决这个问题，由欧洲大学、技术加速器和私人研究实验室组成的联盟正在启动 RoboSAPIENs 项目。其目的是建立必要的安全机制，特别关注自适应工业机器人——一类自主机器人，无需重新编程即可学习新行为，并适应系统结构或环境的变化。一个引人注目的野心针对的是自适应机器人的一个大问题：…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/europe-taps-deep-learning-make-industrial-robots-safer</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>如果你想进入人工智能领域，需要学习的顶级编程语言</title>
       <link>https://thenextweb.com/news/top-programming-languages-learn-ai</link>
-      <description><![CDATA[可以肯定地说，生成式人工智能的时代已经真正到来，并正在迅速改变我们所知的工作世界。根据世界经济论坛的《2023 年就业前景报告》，超过 75% 的公司希望在未来五年内采用人工智能等技术，因此该领域的职业机会激增也就不足为奇了，尤其是对于开发人员而言。但哪种编程语言引领潮流？毫无疑问，Python 是人工智能开发中最受关注的语言。然而，一个优秀的程序员几乎可以在任何领域使用人工智能......这个故事继续在 The Next Web]]></description>
+      <description><![CDATA[可以肯定地说，生成式人工智能的时代已经真正到来了我们正在迅速改变我们所知道的工作世界。根据世界经济论坛的 2023 年就业未来报告，超过 75% 的公司希望在未来五年内采用人工智能等技术，因此该领域的职业机会呈爆炸式增长也就不足为奇了，尤其是对于开发人员而言。但哪种编程语言处于领先地位呢？ Python 毫无疑问是最受关注的人工智能开发语言。然而，一名优秀的程序员几乎可以在任何领域使用人工智能这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/top-programming-languages-learn-ai</guid>
       <pubDate>Wed, 24 Apr 2024 09:07:29 GMT</pubDate>
     </item>
     <item>
       <title>世界首颗商业科学卫星将于 2025 年发射</title>
       <link>https://thenextweb.com/news/blue-skies-space-science-satellites-launch-2025</link>
-      <description><![CDATA[一家英国初创公司筹集资金后，计划在 2025 年将科学卫星发射到太空新鲜的200万英镑。蓝天太空为观星者制定了独特的商业计划。该公司表示，它们将是有史以来第一颗通过会员模式直接向研究人员提供数据的科学卫星。这种方法为探索宇宙的秘密提供了一条新途径。目前，研究人员依靠美国宇航局和欧洲航天局等政府机构来获取太空数据。不幸的是，这种供应无法满足需求。例如，詹姆斯·韦伯望远镜收到了 1,600 个观测时间请求。其中只有 249 人入选。这相当于…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[一家英国初创公司筹集资金后，计划在 2025 年将科学卫星发射到太空新鲜的200万英镑。蓝天太空为观星者制定了独特的商业计划。该公司表示，它们将是有史以来第一颗通过会员模式直接向研究人员提供数据的科学卫星。这种方法为探索宇宙的秘密提供了一条新途径。目前，研究人员依靠美国宇航局和欧洲航天局等政府机构来获取太空数据。不幸的是，这种供应不能满足需求。例如，詹姆斯·韦伯望远镜收到了 1,600 个观测时间请求。其中只有 249 人被选中。这相当于…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/blue-skies-space-science-satellites-launch-2025</guid>
       <pubDate>Tue, 23 Apr 2024 23:01:03 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 23 Apr 2024 15:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟威胁在今天结束前暂停 TikTok 的“令人上瘾”功能</title>
+      <title>欧盟威胁将在今天结束前暂停 TikTok 的“令人上瘾”的功能</title>
       <link>https://thenextweb.com/news/eu-ban-tiktok-lite</link>
       <description><![CDATA[昨天，欧盟向TikTok发出最后通牒。这家中国社交媒体应用程序只有 24 小时的时间来概述与其新应用程序 TikTok Lite 相关的心理健康风险，否则将面临巨额每日罚款。这是欧盟根据《数字服务法》（DSA）对 TikTok 进行的第二次调查。 DSA 是一项新法律，旨在保护用户免受有害或非法在线内容的侵害。它要求像 TikTok 这样的大型平台在推出任何重大新功能之前提交风险评估。欧盟对这家中国公司的最新抱怨是针对 TikTok Lite。常规应用程序的准系统版本…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-ban-tiktok-lite</guid>
       <pubDate>Tue, 23 Apr 2024 14:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>数百名用户起诉 Grindr 涉嫌将其 HIV 数据出售给广告商</title>
-      <link>https://thenextweb.com/news/grindr-sued-lawsuit-for-selling-their-hiv-data-advertisers</link>
-      <description><![CDATA[Grindr 正在被起诉。 LGBTQ+ 约会应用程序被指控与广告商共享用户的医疗数据。这些数据包括他们的艾滋病毒状况。英国奥斯汀海斯律师事务所昨天向伦敦高等法院提起诉讼。该集体诉讼代表了该应用程序的数百名用户。 Austen Hays 声称，总部位于美国的 Grindr 在未经用户同意的情况下向第三方出售敏感数据，违反了英国数据保护法。除了医学事实之外，这还包括有关人们的种族、性生活和性取向的信息。 “我们的客户对他们的高度敏感和私人信息在未经许可的情况下被分享而经历了巨大的痛苦这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/grindr-sued-lawsuit-for-selling-their-hiv-data-advertisers</guid>
-      <pubDate>Tue, 23 Apr 2024 10:31:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
