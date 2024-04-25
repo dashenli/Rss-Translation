@@ -4,11 +4,39 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:59:18 GMT</lastBuildDate>
+    <item>
+      <title>《京都水本》视角下的现代共同与未来城市形象：松田法子系列：“走向人与地球的共建”</title>
+      <link>https://wired.jp/article/shore-travelogue-04/</link>
+      <description><![CDATA[水是我们在城市生活所必需的自然资本。在京都市，作为城市基础的水利基础设施是如何形成的？京都府立大学副教授松田法子所著的《人与地球共建：海滨游记》系列的第四期，我们将讨论京都流域的发现和认识的传播，京都用水的历史与现状，对城市未来形象的思考。]]></description>
+      <guid>https://wired.jp/article/shore-travelogue-04/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>住房方面也有创新。用“通过软件进化的家”来更新人们的生活：系列 The Next Innovators (6) HOMMA 本间刚</title>
+      <link>https://wired.jp/article/the-next-innovators-6-takeshi-homma/</link>
+      <description><![CDATA[为了改变这个世界，有人不断挑战常识，开辟未开发的道路，创造出无人想象的未来。在“下一个创新者”系列的第六部分中，智能家居技术公司 HOMMA 的创始人兼首席执行官 Tsuyoshi Honma 探讨了这种能量的来源。我们向他询问了 HOMMA 对所有日常琐事都实现自动化的世界的愿景。]]></description>
+      <guid>https://wired.jp/article/the-next-innovators-6-takeshi-homma/</guid>
+      <pubDate>Wed, 24 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>思科防火墙设备成为黑客攻击的目标。零日威胁针对多个政府网络</title>
+      <link>https://wired.jp/article/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</link>
+      <description><![CDATA[据透露，思科网络设备中的一个漏洞被一群国家支持的黑客利用来渗透多个政府网络。专家指出，未来针对网络边缘设备的攻击有可能继续增加。]]></description>
+      <guid>https://wired.jp/article/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</guid>
+      <pubDate>Wed, 24 Apr 2024 22:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“变形金刚”和改变AI历史的8名谷歌员工</title>
+      <link>https://wired.jp/article/sz-eight-google-employees-invented-modern-ai-transformers-paper/</link>
+      <description><![CDATA[他们八个人偶然相遇，被一个想法所吸引，一起写了一篇关于现在传奇的变形金刚的论文。这项研究成为近代技术史上最重要的突破。]]></description>
+      <guid>https://wired.jp/article/sz-eight-google-employees-invented-modern-ai-transformers-paper/</guid>
+      <pubDate>Wed, 24 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《TikTok禁止法》被总统签署成为法律，TikTok强烈反对将其视为“禁令”</title>
       <link>https://wired.jp/article/biden-sign-tiktok-ban/</link>
-      <description><![CDATA[美国总统乔·拜登签署了一项禁止 TikTok 在美国运营的法案，并将其纳入法律。如果中国母公司字节跳动不出售该业务，最早可能在 2025 年被禁止在美国运营。]]></description>
+      <description><![CDATA[乔·拜登总统签署了一项禁止 TikTok 在美国运营的法案，该法案成为法律。如果中国母公司字节跳动不出售该业务，最早可能在 2025 年被禁止在美国运营。]]></description>
       <guid>https://wired.jp/article/biden-sign-tiktok-ban/</guid>
       <pubDate>Wed, 24 Apr 2024 21:00:00 GMT</pubDate>
     </item>
@@ -27,7 +55,7 @@
       <pubDate>Wed, 24 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉加速“买得起的电动汽车”计划，自动驾驶出租车将命名为“Cyber​​cab”</title>
+      <title>特斯拉加速“经济适用电动车”计划，自动驾驶出租车将命名为“Cyber​​cab”</title>
       <link>https://wired.jp/article/tesla-promises-more-affordable-vehicles-cybercab/</link>
       <description><![CDATA[特斯拉4月23日（美国时间）透露，正在加快新车型计划，其中包括“更实惠的车型”。新的进展在一系列困难中引起了人们的关注，例如透露已经公布的自动驾驶出租车的名称。]]></description>
       <guid>https://wired.jp/article/tesla-promises-more-affordable-vehicles-cybercab/</guid>
@@ -78,37 +106,9 @@
     <item>
       <title>朝鲜工人是否参与了美国和日本的动漫制作？在服务器上发现“绝密文件”的内容</title>
       <link>https://wired.jp/article/north-korea-amazon-max-animation-exposed-server/</link>
-      <description><![CDATA[在位于朝鲜 IP 地址的服务器上发现了数千个与动画相关的文件，包括来自美国和日本的作品。据信，朝鲜工人通过中国幌子公司参与了这部动画的制作，这凸显了一种筹集资金以避免国际制裁的方法。]]></description>
+      <description><![CDATA[在位于朝鲜 IP 地址的服务器上发现了数千个与动画相关的文件，包括来自美国和日本的作品。朝鲜工人似乎通过中国幌子公司参与了这部动画的制作，这突显了筹集资金以避免国际制裁的一种方式。]]></description>
       <guid>https://wired.jp/article/north-korea-amazon-max-animation-exposed-server/</guid>
       <pubDate>Mon, 22 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以在不侵犯版权的情况下构建人工智能模型——第一个获得法律和道德“正确”认证的大规模语言模型</title>
-      <link>https://wired.jp/article/proof-you-can-train-ai-without-slurping-copyrighted-content/</link>
-      <description><![CDATA[OpenAI 声称，如果不使用受版权保护的内容，“不可能”创建良​​好的人工智能模型。然而，非无版权的大规模语言模型（LLM）的出现以及公共领域数据集的日益使用表明了相反的情况。]]></description>
-      <guid>https://wired.jp/article/proof-you-can-train-ai-without-slurping-copyrighted-content/</guid>
-      <pubDate>Mon, 22 Apr 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>脑植入物的下一个挑战是“人工视觉”</title>
-      <link>https://wired.jp/article/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/</link>
-      <description><![CDATA[几个研究小组正在开发能让盲人获得粗略视觉信息的设备。尽管仍处于实验阶段，预计还需要一些时间，但一位参与者表示，他们参与“是为了下一代”。]]></description>
-      <guid>https://wired.jp/article/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 首席执行官黄仁勋谈论 AI 超级计算机的未来</title>
-      <link>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</link>
-      <description><![CDATA[科技界对 NVIDIA 的 GPU 非常着迷。我们采访了引领AI淘金热的充满活力的CEO黄仁勋，询问了解决GPU短缺的前景、AI革命的进展、中国和竞争对手公司的存在以及他私人的各种事情。生活。]]></description>
-      <guid>https://wired.jp/article/sz-nvidia-hardware-is-eating-the-world-jensen-huang/</guid>
-      <pubDate>Sun, 21 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯德哥尔摩时尚 3：为什么我们要佩戴 ALL BLUES 珠宝</title>
-      <link>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</link>
-      <description><![CDATA[不知不觉中，这座城市不断涌现出独特的时尚品牌。瑞典斯德哥尔摩。在一个连时尚之都都称不上的城市，这怎么可能呢？我去见他，想知道原因。关于 All Blues 的珠宝和商店，这是一个充满简单、强烈和道德之美的地方。]]></description>
-      <guid>https://wired.jp/article/stockholm-alt-fashion-city-allblues/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
