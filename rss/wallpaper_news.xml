@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>壁纸 RSS 源</title>
+    <title>壁纸 RSS 订阅</title>
     <link>https://www.wallpaper.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:17:39 GMT</lastBuildDate>
+    <item>
+      <title>超现实、不可思议、诱人：走进 Graham Little 的世界</title>
+      <link>https://www.wallpaper.com/art/exhibitions-shows/graham-little-flag-art-foundation-new-york</link>
+      <description><![CDATA[苏格兰艺术家 Graham Little 在纽约 FLAG 艺术基金会举办他的首次美国回顾展]]></description>
+      <guid>https://www.wallpaper.com/art/exhibitions-shows/graham-little-flag-art-foundation-new-york</guid>
+      <pubDate>Thu, 25 Apr 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maniera 画廊的石上纯弥 (Junya Ishigami) 设计与他的建筑一样空灵</title>
+      <link>https://www.wallpaper.com/design-interiors/junya-Ishigami-maniera-gallery-belgium</link>
+      <description><![CDATA[继该系列在米兰设计周期间推出后，石上纯也 (Junya Ishigami) 在比利时 Maniera 画廊展出了新家具（截至 2024 年 8 月 31 日）]]></description>
+      <guid>https://www.wallpaper.com/design-interiors/junya-Ishigami-maniera-gallery-belgium</guid>
+      <pubDate>Thu, 25 Apr 2024 05:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reciprocal House 提供了伦敦扩建的不寻常案例</title>
+      <link>https://www.wallpaper.com/architecture/residential/reciprocal-house-gianni-botsford-london-uk</link>
+      <description><![CDATA[Gianni Botsford 设计的互惠住宅取代了伦敦北部的维多利亚式建筑，保留了诺曼·福斯特早期的扩建部分，并将整体带入了 21 世纪]]></description>
+      <guid>https://www.wallpaper.com/architecture/residential/reciprocal-house-gianni-botsford-london-uk</guid>
+      <pubDate>Thu, 25 Apr 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>实用的男士时尚将提升您的日常生活</title>
       <link>https://www.wallpaper.com/fashion-beauty/utilitarian-mens-fashion-ss-2024</link>
@@ -22,7 +43,7 @@
     <item>
       <title>Vipp 的斯堪的纳维亚宾馆在荒野景观中提供时尚的环境</title>
       <link>https://www.wallpaper.com/travel/hotels/vipp-cold-hawaii-guesthouse-denmark</link>
-      <description><![CDATA[Vipp Cold Hawaii 是一家斯堪的纳维亚风格的宾馆，由建筑工作室 Hahn Lavsen 设计，位于丹麦的 Thy 国家公园]]></description>
+      <description><![CDATA[Vipp Cold Hawaii 是一家斯堪的纳维亚宾馆，由建筑工作室 Hahn Lavsen 设计，位于丹麦的蒂国家公园]]></description>
       <guid>https://www.wallpaper.com/travel/hotels/vipp-cold-hawaii-guesthouse-denmark</guid>
       <pubDate>Wed, 24 Apr 2024 15:00:00 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[Neuraé 是一个新的神经科学护肤品牌，利用皮肤和大脑之间的联系]]></description>
       <guid>https://www.wallpaper.com/fashion-beauty/neurae-french-skincare-can-change-your-emotions</guid>
       <pubDate>Wed, 24 Apr 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 2024 年特纳奖入围艺术家</title>
-      <link>https://www.wallpaper.com/art/turner-prize-2024-artists</link>
-      <description><![CDATA[2024 年特纳奖入围艺术家包括 Pio Abad、Claudette Johnson、Jasleen Kaur 和 Delaine Le Bas]]></description>
-      <guid>https://www.wallpaper.com/art/turner-prize-2024-artists</guid>
-      <pubDate>Wed, 24 Apr 2024 10:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西森林之家将艺术注入现代主义风格的当代设计中</title>
-      <link>https://www.wallpaper.com/architecture/residential/brazilian-forest-house-fgmf-brazil</link>
-      <description><![CDATA[巴西森林屋由 FGMF 在圣保罗北部设计，将自然与艺术融为一体]]></description>
-      <guid>https://www.wallpaper.com/architecture/residential/brazilian-forest-house-fgmf-brazil</guid>
-      <pubDate>Wed, 24 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等候室灵感：米兰设计周 Studiooutte 电影 Sala D’Attesa 内部</title>
-      <link>https://www.wallpaper.com/design-interiors/studioutte-waiting-room-milan-design-week</link>
-      <description><![CDATA[Studioutte 的 Sala D’Attesa 在 2024 年米兰设计周期间在诺洛上演，是一个融合了不同设计敏感性的场景室内设计]]></description>
-      <guid>https://www.wallpaper.com/design-interiors/studioutte-waiting-room-milan-design-week</guid>
-      <pubDate>Wed, 24 Apr 2024 08:00:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

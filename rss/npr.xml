@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:16:56 GMT</lastBuildDate>
     <item>
       <title>梅多斯、朱利安尼和 2020 年 11 名“假选举人”在亚利桑那州被起诉</title>
       <link>https://npr.org/2024/04/24/1236998675/arizona-fake-elector-charges</link>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 24 Apr 2024 23:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院对最新堕胎案的激烈争论</title>
+      <title>最高法院就最新堕胎案展开激烈辩论</title>
       <link>https://npr.org/2024/04/24/1246946015/supreme-court-abortion-emtala</link>
       <description><![CDATA[问题在于联邦和州法律之间关于孕妇必须如何在急诊室接受治疗的冲突。]]></description>
       <guid>https://npr.org/2024/04/24/1246946015/supreme-court-abortion-emtala</guid>
@@ -36,16 +36,9 @@
     <item>
       <title>泰勒·斯威夫特本周创下了新纪录。乙烯基的那种。</title>
       <link>https://npr.org/2024/04/24/1246923245/taylor-swift-tortured-poets-department-spotify-vinyl</link>
-      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) 的最新专辑成为首张单周 Spotify 播放量突破 10 亿次的专辑，同时还打破了另一项纪录。]]></description>
+      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) 的最新专辑成为首个单周 Spotify 播放量突破 10 亿次的专辑，同时还打破了另一项纪录。]]></description>
       <guid>https://npr.org/2024/04/24/1246923245/taylor-swift-tortured-poets-department-spotify-vinyl</guid>
       <pubDate>Wed, 24 Apr 2024 21:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在佛罗里达州，人们逃离不断高涨的反移民情绪</title>
-      <link>https://npr.org/2024/04/24/1236631178/in-florida-an-exodus-of-people-fleeing-rising-anti-immigrant-sentiment</link>
-      <description><![CDATA[大约一年前，佛罗里达州通过了该国最严格的移民法之一。这导致一些社区出现人员外流。那些留下来的人说，这让生活变得可怕。]]></description>
-      <guid>https://npr.org/2024/04/24/1236631178/in-florida-an-exodus-of-people-fleeing-rising-anti-immigrant-sentiment</guid>
-      <pubDate>Wed, 24 Apr 2024 20:45:42 GMT</pubDate>
     </item>
     <item>
       <title>加沙男孩在寻求援助时被以色列军队射杀，为自己的生命而战</title>
@@ -55,7 +48,14 @@
       <pubDate>Wed, 24 Apr 2024 20:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>生活在加沙的一个孩子的故事</title>
+      <title>在佛罗里达州，人们逃离不断高涨的反移民情绪</title>
+      <link>https://npr.org/2024/04/24/1236631178/in-florida-an-exodus-of-people-fleeing-rising-anti-immigrant-sentiment</link>
+      <description><![CDATA[近一年前，佛罗里达州通过了美国最严格的移民法之一。这导致一些社区出现大量移民外流。留下来的人说，这让他们的生活变得可怕。]]></description>
+      <guid>https://npr.org/2024/04/24/1236631178/in-florida-an-exodus-of-people-fleeing-rising-anti-immigrant-sentiment</guid>
+      <pubDate>Wed, 24 Apr 2024 20:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙儿童的故事</title>
       <link>https://npr.org/2024/04/24/1196980634/the-story-of-one-child-living-in-gaza</link>
       <description><![CDATA[随着以色列对哈马斯的战争继续进行，加沙的儿童正在遭受苦难。据联合国称，自 10 月以来已有超过 25,000 名儿童死亡或受伤。每十分钟就有一个孩子。我们听说其中一名儿童，一名十二岁男孩在加沙受伤。 有关这场冲突各方的更多报道，请访问 npr.org/中东更新]]></description>
       <guid>https://npr.org/2024/04/24/1196980634/the-story-of-one-child-living-in-gaza</guid>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 24 Apr 2024 17:37:51 GMT</pubDate>
     </item>
     <item>
-      <title>拜登签署针对乌克兰、以色列和台湾的950亿美元军事援助计划</title>
+      <title>拜登签署对乌克兰、以色列和台湾的950亿美元军事援助计划</title>
       <link>https://npr.org/2024/04/24/1246839045/biden-signs-95-billion-military-aid-package-for-ukraine-israel-and-taiwan</link>
-      <description><![CDATA[乌克兰将获得大部分武器，因为它正努力对抗俄罗斯的强大火力。该法案还包括向以色列提供更多武器，并为加沙提供人道主义援助。]]></description>
+      <description><![CDATA[乌克兰将获得大部分武器，以对抗俄罗斯压倒性的火力。该法案还包括向以色列提供更多武器，以及向加沙提供人道主义援助。]]></description>
       <guid>https://npr.org/2024/04/24/1246839045/biden-signs-95-billion-military-aid-package-for-ukraine-israel-and-taiwan</guid>
       <pubDate>Wed, 24 Apr 2024 16:41:12 GMT</pubDate>
     </item>

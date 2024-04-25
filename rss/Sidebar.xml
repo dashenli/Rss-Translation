@@ -4,7 +4,31 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:20:15 GMT</lastBuildDate>
+    <item>
+      <title>2024 年前端开发人员/工程师手册</title>
+      <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
+      <description><![CDATA[2024年前端职业概述。
+]]></description>
+      <guid>https://frontendmasters.com/guides/front-end-handbook/2024/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>可能破坏 CSS 中纵横比的因素</title>
+      <link>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</link>
+      <description><![CDATA[CSS 具有宽高比属性，自 2021 年左右以来已得到全面支持。
+]]></description>
+      <guid>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>影响 2024 年 GenAI 市场的主要趋势和预测</title>
+      <link>https://journal.everypixel.com/genai-market-trends</link>
+      <description><![CDATA[探索塑造人工智能行业的主要趋势，重点关注版权法、许可以及内容创作中生成式人工智能的道德使用。
+]]></description>
+      <guid>https://journal.everypixel.com/genai-market-trends</guid>
+      <pubDate>Thu, 25 Apr 2024 04:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>认识 Ritmo，Musixmatch 的跨平台设计系统</title>
       <link>https://medium.com/musixmatch-blog/meet-ritmo-musixmatch-cross-platform-design-system-9f6296c5ed81</link>
@@ -56,7 +80,7 @@
     <item>
       <title>JS裸体日</title>
       <link>https://js-naked-day.org/</link>
-      <description><![CDATA[网络应该无需 JavaScript 即可运行。
+      <description><![CDATA[网络应该在没有 JavaScript 的情况下工作。
 ]]></description>
       <guid>https://js-naked-day.org/</guid>
       <pubDate>Tue, 23 Apr 2024 06:33:51 GMT</pubDate>
@@ -100,30 +124,6 @@
 ]]></description>
       <guid>https://javier.xyz/blog/motion-extraction-with-mostly-css</guid>
       <pubDate>Mon, 22 Apr 2024 09:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用现代 CSS 测试 HTML</title>
-      <link>https://heydonworks.com/article/testing-html-with-modern-css/</link>
-      <description><![CDATA[CSS 可以成为一个很棒的 HTML 测试工具，尤其是在 2024 年
-]]></description>
-      <guid>https://heydonworks.com/article/testing-html-with-modern-css/</guid>
-      <pubDate>Mon, 22 Apr 2024 09:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何使用现代 CSS 来实现主题化</title>
-      <link>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/</link>
-      <description><![CDATA[我们已经开始了一个新项目，需要大量的创意主题，所以我制作了一个原型来测试一些想法。
-]]></description>
-      <guid>https://piccalil.li/blog/how-were-approaching-theming-with-modern-css/</guid>
-      <pubDate>Mon, 22 Apr 2024 09:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个时代的终结：写代码的女性结束</title>
-      <link>https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing</link>
-      <description><![CDATA[Women Who Code 是一个社区团体，由旧金山的一个工程师小组于 2011 年创立。
-]]></description>
-      <guid>https://womenwhocode.com/blog/the-end-of-an-era-women-who-code-closing</guid>
-      <pubDate>Mon, 22 Apr 2024 09:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
