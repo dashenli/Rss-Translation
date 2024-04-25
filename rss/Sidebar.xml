@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 06:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 09:15:46 GMT</lastBuildDate>
+    <item>
+      <title>副车架</title>
+      <link>https://www.subframe.com/</link>
+      <description><![CDATA[Subframe 是一款设计到代码的工具，可让您在几分钟内构建出令人惊叹的 UI。
+]]></description>
+      <guid>https://www.subframe.com/</guid>
+      <pubDate>Thu, 25 Apr 2024 05:16:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 属性与 DOM 属性</title>
+      <link>https://jakearchibald.com/2024/attributes-vs-properties/</link>
+      <description><![CDATA[它们完全不同，但经常耦合。
+]]></description>
+      <guid>https://jakearchibald.com/2024/attributes-vs-properties/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:53:56 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年前端开发人员/工程师手册</title>
       <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
@@ -14,7 +30,7 @@
       <pubDate>Thu, 25 Apr 2024 04:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>可能破坏 CSS 中纵横比的因素</title>
+      <title>CSS 中可能破坏宽高比的因素</title>
       <link>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</link>
       <description><![CDATA[CSS 具有宽高比属性，自 2021 年左右以来已得到全面支持。
 ]]></description>
@@ -24,7 +40,7 @@
     <item>
       <title>影响 2024 年 GenAI 市场的主要趋势和预测</title>
       <link>https://journal.everypixel.com/genai-market-trends</link>
-      <description><![CDATA[探索塑造人工智能行业的主要趋势，重点关注版权法、许可以及内容创作中生成式人工智能的道德使用。
+      <description><![CDATA[探索塑造人工智能行业的关键趋势，重点关注版权法、许可以及生成式人工智能在内容创作中的道德使用。
 ]]></description>
       <guid>https://journal.everypixel.com/genai-market-trends</guid>
       <pubDate>Thu, 25 Apr 2024 04:45:04 GMT</pubDate>
@@ -62,7 +78,7 @@
       <pubDate>Wed, 24 Apr 2024 07:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>苹果对 CarPlay 的冒险赌注</title>
+      <title>苹果对 CarPlay 的冒险押注</title>
       <link>https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/</link>
       <description><![CDATA[随着苹果汽车项目的取消，苹果对 CarPlay 的战略是什么以及汽车制造商如何应对？
 ]]></description>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/</guid>
       <pubDate>Tue, 23 Apr 2024 06:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>展平贝塞尔曲线和圆弧</title>
-      <link>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</link>
-      <description><![CDATA[可以将贝塞尔曲线展平为线段，而无需采用递归细分。
-]]></description>
-      <guid>https://minus-ze.ro/posts/flattening-bezier-curves-and-arcs/</guid>
-      <pubDate>Mon, 22 Apr 2024 09:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>主要使用 CSS 进行运动提取</title>
-      <link>https://javier.xyz/blog/motion-extraction-with-mostly-css</link>
-      <description><![CDATA[使用 CSS 从视频中提取运动的简单方法。
-]]></description>
-      <guid>https://javier.xyz/blog/motion-extraction-with-mostly-css</guid>
-      <pubDate>Mon, 22 Apr 2024 09:36:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

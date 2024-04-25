@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>壁纸 RSS 订阅</title>
+    <title>壁纸 RSS 源</title>
     <link>https://www.wallpaper.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Apr 2024 06:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 09:13:45 GMT</lastBuildDate>
+    <item>
+      <title>南亚利桑那州在洛斯米利克斯 (Los Milics) 体验软木塞葡萄园</title>
+      <link>https://www.wallpaper.com/travel/los-milics-winery-southern-arizona</link>
+      <description><![CDATA[Los Milics 酒庄由 Chen + Suchart Studio 设计，坐落在野马山脚下的葡萄藤丛中]]></description>
+      <guid>https://www.wallpaper.com/travel/los-milics-winery-southern-arizona</guid>
+      <pubDate>Thu, 25 Apr 2024 09:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>西班牙设计工作室 Masquespacio 的新总部是一座充满色彩的历史豪宅</title>
+      <link>https://www.wallpaper.com/design-interiors/masquespacio-design-studio-valencia-spain</link>
+      <description><![CDATA[设计工作室 Masquespacio 展示了其新住宅和办公室，这是位于巴伦西亚附近一栋经过精美翻新的历史别墅中的大胆而独特的空间]]></description>
+      <guid>https://www.wallpaper.com/design-interiors/masquespacio-design-studio-valencia-spain</guid>
+      <pubDate>Thu, 25 Apr 2024 07:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>超现实、不可思议、诱人：走进 Graham Little 的世界</title>
       <link>https://www.wallpaper.com/art/exhibitions-shows/graham-little-flag-art-foundation-new-york</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[探索爱彼、欧米茄、香奈儿和帝舵等品牌的新款深色腕表]]></description>
       <guid>https://www.wallpaper.com/watches-jewellery/dark-watches</guid>
       <pubDate>Wed, 24 Apr 2024 12:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maruni 的新系列将日本技术与朴素的功能融为一体</title>
-      <link>https://www.wallpaper.com/design-interiors/maruni-salone-del-mobile-2024-new-launches</link>
-      <description><![CDATA[Maruni 的新系列在 2024 年米兰国际家具展上亮相，其中包括由该品牌艺术总监 Naoto Fukasawa 以及 Cecilie Manz 和 Jasper Morrison 设计的家具]]></description>
-      <guid>https://www.wallpaper.com/design-interiors/maruni-salone-del-mobile-2024-new-launches</guid>
-      <pubDate>Wed, 24 Apr 2024 11:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuraé：认识可以改变你情绪的法国新护肤品牌</title>
-      <link>https://www.wallpaper.com/fashion-beauty/neurae-french-skincare-can-change-your-emotions</link>
-      <description><![CDATA[Neuraé 是一个新的神经科学护肤品牌，利用皮肤和大脑之间的联系]]></description>
-      <guid>https://www.wallpaper.com/fashion-beauty/neurae-french-skincare-can-change-your-emotions</guid>
-      <pubDate>Wed, 24 Apr 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
