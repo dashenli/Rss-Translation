@@ -3,8 +3,29 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:17:13 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Thu, 25 Apr 2024 21:14:58 GMT</lastBuildDate>
+    <item>
+      <title>Nintendo Switch OLED 现在有罕见的 25 美元折扣</title>
+      <link>https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/</link>
+      <description><![CDATA[任天堂的顶级掌上游戏机几乎不打折，这使得这个小折扣非常有吸引力。]]></description>
+      <guid>https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/</guid>
+      <pubDate>Thu, 25 Apr 2024 20:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络中立回归到一个截然不同的互联网</title>
+      <link>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</link>
+      <description><![CDATA[FCC 以 3 比 2 的投票结果恢复了特朗普政府期间消失的网络中立规则。]]></description>
+      <guid>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</guid>
+      <pubDate>Thu, 25 Apr 2024 19:42:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 Hulu 上的 30 部最佳电影</title>
+      <link>https://www.wired.com/story/best-movies-hulu-right-now/</link>
+      <description><![CDATA[从《Poor Things》到《沙丘：第一部分》，以下是您现在需要在 Hulu 上观看的所有内容。]]></description>
+      <guid>https://www.wired.com/story/best-movies-hulu-right-now/</guid>
+      <pubDate>Thu, 25 Apr 2024 19:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>13 个最佳户外安全摄像头 (2024)：电池供电、LTE、无需订阅</title>
       <link>https://www.wired.com/gallery/best-outdoor-security-cameras/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>不，一个神秘人物并没有为哥伦比亚学生抗议者购买帐篷</title>
       <link>https://www.wired.com/story/conspiracy-tents-student-protests-gaza/</link>
-      <description><![CDATA[关于外部势力资助和策划哥伦比亚大学和纽约大学抗议活动的阴谋已经在网上蔓延开来，主要是在 X 上。]]></description>
+      <description><![CDATA[关于外部势力资助和策划哥伦比亚大学和纽约大学抗议活动的阴谋论已在网络上传播开来，主要是在 X 上。]]></description>
       <guid>https://www.wired.com/story/conspiracy-tents-student-protests-gaza/</guid>
       <pubDate>Thu, 25 Apr 2024 16:55:47 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[清洁咖啡研磨机有点麻烦，但这样做会大大改善您日常咖啡的味道。这也比您想象的要容易得多。]]></description>
       <guid>https://www.wired.com/story/how-to-clean-a-coffee-grinder/</guid>
       <pubDate>Thu, 25 Apr 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Home Depot 和 Lowe's 的 14 种最后一刻工具优惠：电动工具、庭院工具、手动工具</title>
-      <link>https://www.wired.com/story/home-depot-lowes-spring-sale-2024/</link>
-      <description><![CDATA[趁着还可以，用从电动工具到草坪用具等各种优惠来装饰你的家、院子和车库。]]></description>
-      <guid>https://www.wired.com/story/home-depot-lowes-spring-sale-2024/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试您对互联网缩略语的了解</title>
-      <link>https://www.wired.com/story/gadget-lab-podcast-641/</link>
-      <description><![CDATA[本周，我们将探讨彼此对早期互联网、移动时代和人工智能热潮中常见缩写词的了解。因此，启动你的法学硕士，发送 RCS，并告诉你的 BBS 朋友游戏正在进行中。]]></description>
-      <guid>https://www.wired.com/story/gadget-lab-podcast-641/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登团队通过即将到来的 TikTok 禁令发帖</title>
-      <link>https://www.wired.com/story/biden-is-still-posting-on-tiktok/</link>
-      <description><![CDATA[总统乔·拜登可能已将 TikTok 禁令法案签署为法律，但他的竞选活动仍在这款中国拥有的应用程序上活跃。]]></description>
-      <guid>https://www.wired.com/story/biden-is-still-posting-on-tiktok/</guid>
-      <pubDate>Thu, 25 Apr 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
