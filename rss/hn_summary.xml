@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:10:45 GMT</lastBuildDate>
     <item>
-      <title>询问 HN：这篇 HN 文章有何进展？</title>
-      <link>https://t.me/hn_summary/86580</link>
-      <description><![CDATA[询问 HN：这篇 HN 文章有何进展？ 
-最近我在HN的头版看到一篇文章，有30个点赞，但由于某种原因，我无法发表评论。没有标记，那是怎么回事？还有其他人遇到这个问题吗？这很令人费解，我很好奇这背后是否有原因。让我们来讨论一下，看看这篇神秘的 HN 文章到底是怎么回事。]]></description>
-      <guid>https://t.me/hn_summary/86580</guid>
-      <pubDate>Fri, 26 Apr 2024 15:02:05 GMT</pubDate>
+      <title>您是否正在为 Postgres 的臃肿而苦苦挣扎？</title>
+      <link>https://t.me/hn_summary/86657</link>
+      <description><![CDATA[Postgres 膨胀最小化
+您是否正在为 Postgres 的臃肿而苦苦挣扎？了解数据如何存储在 Postgres 表中以及清理如何帮助最大限度地减少膨胀。清理对于释放空间和保持数据库效率至关重要。了解如何调整 autovacuum 参数、识别膨胀以及优化数据库以获得更好的性能。不要让膨胀减慢您的数据库 - 通过这些专家提示和技巧来控制。使用 Supabase CLI 探索 Postgres 膨胀最小化的世界，并确保您的数据库平稳运行。]]></description>
+      <guid>https://t.me/hn_summary/86657</guid>
+      <pubDate>Fri, 26 Apr 2024 21:10:45 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 的 Mac 过去常常会定期增加基础内存，直到 2011 年蒂姆·库克 (Tim Cook) 接任首席执行官为止，他 [...]</title>
-      <link>https://t.me/hn_summary/86579</link>
-      <description><![CDATA[蒂姆·库克 (Tim Cook) 上任后，苹果的常规 Mac 基本 RAM 提升结束了
-正如 David Schaub 的图表所示，在 Tim Cook 于 2011 年接任首席执行官之前，苹果 Mac 的基本内存一直在不断提升。每两年增加一次内存的趋势在库克的领导下结束了。虽然市场趋势和技术变化可能可以解释这种停滞状态，但苹果对更高内存配置收取过高费用以及不允许购买后升级 RAM 的策略引发了争议。该公司转向统一内存，并将 Mac 上的 8GB 与竞争对手系统上的 16GB 进行比较，加剧了争论。所有即将推出的 iPhone 16 机型可能配备 8GB RAM，这进一步引发了人们对苹果内存策略的质疑。]]></description>
-      <guid>https://t.me/hn_summary/86579</guid>
-      <pubDate>Fri, 26 Apr 2024 15:01:01 GMT</pubDate>
+      <title>[媒体]谷歌已经达到了一个重要的里程碑，它正式成为一家价值 2 万亿美元的公司，m [...]</title>
+      <link>https://t.me/hn_summary/86656</link>
+      <description><![CDATA[Google 正式成为一家价值 2T 美元的公司
+谷歌已经达到了一个重要的里程碑，它正式成为一家价值 2 万亿美元的公司，成为全球第四大最有价值的上市公司。尽管面临着生成式人工智能和日益严格的监管的挑战，谷歌还是对其搜索和人工智能策略做出了重大改变，带来了积极的财务成果。该公司公布 2024 年第一季度利润 237 亿美元，收入 805 亿美元，搜索和广告收入同比增长 14%。谷歌还专注于人工智能工具货币化、改善搜索体验以及挑战 TikTok 和 Instagram Reels 等竞争对手。该公司的成功带来了有史以来的首次股息和 700 亿美元的股票回购。]]></description>
+      <guid>https://t.me/hn_summary/86656</guid>
+      <pubDate>Fri, 26 Apr 2024 21:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]发表在《科学》杂志上的研究提供了强有力的证据，证明保护行动是[...]</title>
-      <link>https://t.me/hn_summary/86578</link>
-      <description><![CDATA[保护行动可有效扭转生物多样性丧失
-发表在《科学》杂志上的这项研究提供了强有力的证据，证明保护行动可以有效阻止和扭转生物多样性丧失，超过 44,000 个物种面临灭绝的风险。对 186 项研究的荟萃分析发现，保护区和入侵物种管理等保护干预措施在大多数情况下改善了生物多样性。即使干预措施没有成功，也可以为未来的努力获得宝贵的知识。该研究强调需要增加对自然保护的投资，因为全球国内生产总值高度依赖于自然。这些发现为生物多样性保护的未来带来了希望。]]></description>
-      <guid>https://t.me/hn_summary/86578</guid>
-      <pubDate>Fri, 26 Apr 2024 14:42:52 GMT</pubDate>
+      <title>[媒体]Trellis 是一家由 Y Combinator 支持的初创公司，正在寻找一名创始工程师来开发一个 [...]</title>
+      <link>https://t.me/hn_summary/86655</link>
+      <description><![CDATA[Trellis (YC W24) 正在聘请 Founding Eng 为非结构化数据构建雪花数据
+Trellis 是一家由 Y Combinator 支持的初创公司，正在寻找一位创始工程师来开发一种突破性的解决方案，用于将非结构化数据转换为符合 SQL 的表。这项创新技术允许用户以自然语言定义模式，并对复杂的数据源（例如财务文档和电子邮件）运行 SQL 查询。凭借确保准确性的 AI 引擎，领先企业正在使用 Trellis 来释放客户数据中的隐藏收入、增强 RAG 应用程序并用关键信息丰富其数据仓库。这个彻底改变数据分析和决策流程的机会不容错过。]]></description>
+      <guid>https://t.me/hn_summary/86655</guid>
+      <pubDate>Fri, 26 Apr 2024 21:01:34 GMT</pubDate>
     </item>
     <item>
-      <title>汽车保险费率正在上升，事实证明汽车正在秘密监视人们 [...]</title>
-      <link>https://t.me/hn_summary/86577</link>
-      <description><![CDATA[汽车保险费率飙升，因为汽车暗中监视人们
-汽车保险费率正在上升，事实证明汽车正在秘密监视人们以收集数据，然后将其出售给保险公司。通用汽车一直面临着来自客户的联邦诉讼，这些客户在不知不觉中被跟踪，并因此导致费率上涨。该行业缺乏透明度和监管令人担忧，消费者在不知情的情况下受到监控，数据也被出售给可疑经纪人。尽管存在丑闻，但隐私法律和法规的缺乏使得这些做法继续不受控制。这个故事揭示了汽车行业监控和数据收集的令人担忧的现实。]]></description>
-      <guid>https://t.me/hn_summary/86577</guid>
-      <pubDate>Fri, 26 Apr 2024 14:41:47 GMT</pubDate>
+      <title>[媒体]波音公司和美国宇航局正在准备进行历史性的星际客机航天器载人发射[...]</title>
+      <link>https://t.me/hn_summary/86654</link>
+      <description><![CDATA[波音和 NASA 推进历史性的载人发射新航天器
+波音公司和 NASA 正在为历史性的 Starliner 宇宙飞船载人发射做准备，该航天器定于 5 月 6 日与 NASA 宇航员苏尼·威廉姆斯 (Suni Williams) 和布奇·威尔莫 (Butch Wilmore) 一起升空。尽管经历了多年的挫折和延误，这次任务仍然标志着该计划的一个重要里程碑。波音和 SpaceX 之间的竞争在 2020 年出现转机，SpaceX 的 Crew Dragon 领先。波音公司面临着挑战，包括航天器降落伞和易燃胶带的问题。尽管存在这些障碍，宇航员对航天器即将执行的任务的能力和安全措施充满信心。]]></description>
+      <guid>https://t.me/hn_summary/86654</guid>
+      <pubDate>Fri, 26 Apr 2024 20:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Floorp Twitter 帐户因违反 Twitter 政策而被暂停。</title>
-      <link>https://t.me/hn_summary/86576</link>
-      <description><![CDATA[Floorp Twitter 帐户已暂停
-Floorp Twitter 帐户因违反 Twitter 政策而被暂停。该帐户因其有争议且经常引起分歧的内容而闻名，引发了其追随者之间的辩论和讨论。虽然有些人认为该帐户是娱乐和幽默的来源，但其他人则认为其内容令人反感且不恰当。此次停职让许多人对弗洛普在社交媒体上的未来以及审查制度对言论自由的影响感到好奇。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/86576</guid>
-      <pubDate>Fri, 26 Apr 2024 14:40:43 GMT</pubDate>
+      <title>[媒体] 在这项研究中，我们探讨了与 IPv6 地址相关的潜在隐私风险。</title>
+      <link>https://t.me/hn_summary/86653</link>
+      <description><![CDATA[坏苹果可能会破坏您的 IPv6 隐私
+在本研究中，我们探讨了与 IPv6 地址相关的潜在隐私风险。通过分析网络中单个恶意节点的行为，我们演示了它如何利用 IPv6 地址的独特结构来损害所有其他节点的隐私。我们的研究结果强调了实施适当的安全措施来防范此类攻击的重要性，并强调需要提高对 IPv6 网络中存在的漏洞的认识。这项研究揭示了 IPv6 隐私中以前被忽视的一个方面，并强调了解决这些问题以保护用户数据的重要性。]]></description>
+      <guid>https://t.me/hn_summary/86653</guid>
+      <pubDate>Fri, 26 Apr 2024 20:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2024 年，信息检索的格局正在发生巨大变化。</title>
-      <link>https://t.me/hn_summary/86575</link>
-      <description><![CDATA[2024 年我的搜索方式
-2024 年，信息检索的格局正在发生巨大变化。老公司正在衰落，社交媒体正在消亡，谷歌充满了广告和 SEO 操纵。然而，新一波独立搜索引擎正在兴起，它们配备了人工智能并准备提供高质量的结果。 Kagi 就是这样的引擎之一，它曾面临争议，但提供了出色的搜索结果和亲用户的商业模式。 Marginalia 由一个人在他的公寓中运营，专注于非商业内容并深入探讨互联网知识。 Perplexity 是一种新的法学硕士工具，对于技术搜索和总结复杂论文非常有用。搜索的未来是特定任务的，大搜索时代即将结束。]]></description>
-      <guid>https://t.me/hn_summary/86575</guid>
-      <pubDate>Fri, 26 Apr 2024 14:39:40 GMT</pubDate>
+      <title>[媒体]摄影师杰米·麦格雷戈·史密斯展示了他最喜欢的野兽派和现代主义教堂 [...]</title>
+      <link>https://t.me/hn_summary/86652</link>
+      <description><![CDATA[野兽派教堂
+摄影师杰米·麦格雷戈·史密斯在他的著作《神圣的现代性》中展示了他最喜欢的野兽派和现代主义教堂。该书收录了欧洲 100 座教堂的 139 张照片，旨在突出这些非传统建筑的独特之美和建筑创新。麦格雷戈·史密斯的工作始于维也纳的沃特鲁巴教堂，激发了他对现代主义教堂建筑的兴趣。书中的教堂摆脱了传统的形式和象征主义，拥抱大胆、朴素和挑衅的美学。麦格雷戈·史密斯 (McGregor Smith) 选择的 12 座最喜欢的教堂包括来自意大利、德国、奥地利、瑞士、英国和波兰的令人惊叹的教堂，每座教堂都有自己的创意和发人深省的设计。]]></description>
+      <guid>https://t.me/hn_summary/86652</guid>
+      <pubDate>Fri, 26 Apr 2024 20:47:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文作者对 Ubuntu 24.04 LTS 非常失望，因为 [...]</title>
-      <link>https://t.me/hn_summary/86574</link>
-      <description><![CDATA[我对 Ubuntu 24.04 非常失望
-本文作者对 Ubuntu 24.04 LTS 非常失望，因为它故意取消了使用官方应用商店安装 deb 文件的功能。 Ubuntu 的母公司 Canonical 似乎正在将他们的“通用打包格式”Snaps 推向 Debian 的 deb 软件包。这一变化让用户感到沮丧，尤其是那些寻求用户友好体验的 Linux 新手。作者批评Canonical无视用户反馈，故意让deb包安装变得困难，最终质疑该公司提供积极用户体验的承诺。]]></description>
-      <guid>https://t.me/hn_summary/86574</guid>
-      <pubDate>Fri, 26 Apr 2024 14:38:35 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 曾经是电动汽车行业的领头羊，如今却面临着挑战 [...]</title>
+      <link>https://t.me/hn_summary/86651</link>
+      <description><![CDATA[特斯拉等电动汽车制造商因市场停滞而被迫降价
+埃隆·马斯克(Elon Musk)旗下的特斯拉(Tesla)曾经是电动汽车行业的领头羊，但现在却面临着销量下降和股价下跌的挑战。这种放缓反映了电动汽车市场的更广泛趋势，在大流行期间的最初激增之后，销量增长放缓。政府在塑造该行业方面发挥着重要作用，补贴和法规影响着不同国家的销售。制造商也感受到了压力，一些制造商抱怨转向电动汽车的速度。尽管面临挑战，但从长远来看，来自中国汽车制造商的竞争和较低价格的潜力可能会让消费者受益。]]></description>
+      <guid>https://t.me/hn_summary/86651</guid>
+      <pubDate>Fri, 26 Apr 2024 20:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>巴拉吉·斯里尼瓦桑 (Balaji Srinivasan) 呼吁科技“退出民主”并控制地方政府 [...]</title>
-      <link>https://t.me/hn_summary/86573</link>
-      <description><![CDATA[Balaji Srinivasan 呼吁科技“退出民主”并夺取地方政府
-巴拉吉·斯里尼瓦桑（Balaji Srinivasan）呼吁科技“退出民主”并控制地方政府，并提议建立一个科技治理的城市，忠于科技公司的公民组成一个名为“灰人”的新政治部落。这个有争议的想法涉及公民穿着印有比特币或埃隆·马斯克等标志的灰色T恤，获得特殊的身份证以独家进入灰色控制的城市区域，并通过资助每周的“警察宴会”与警方结成联盟。斯里尼瓦桑认为，拥抱警察并将他们纳入科技公司的安全部门对于这一运动的成功至关重要。]]></description>
-      <guid>https://t.me/hn_summary/86573</guid>
-      <pubDate>Fri, 26 Apr 2024 14:37:30 GMT</pubDate>
+      <title>[媒体]字节跳动一直在加强对其美国 TikTok 业务的控制，中国员工 [...]</title>
+      <link>https://t.me/hn_summary/86650</link>
+      <description><![CDATA[面对禁令，字节跳动加强对美国 TikTok 业务的控制&lt; /a&gt;
+字节跳动一直在加强对其美国 TikTok 业务的控制，将中国员工转移到美国，并针对表现不佳的美国员工进行重组。尽管美国政府施压要求其母公司字节跳动剥离，但这两个实体之间的整合只会加深。前员工透露，这些公司本质上是一样的，越来越多的中国员工在 TikTok 中担任领导职务。随着中美之间的紧张局势持续升级，集成程度引发了对该应用程序所有权和潜在国家安全风险的担忧。]]></description>
+      <guid>https://t.me/hn_summary/86650</guid>
+      <pubDate>Fri, 26 Apr 2024 20:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>Google 对 YouTube 上新的“暂停广告”所取得的积极成果感到兴奋，这些广告正在 [...]</title>
-      <link>https://t.me/hn_summary/86572</link>
-      <description><![CDATA[Google 对在 上向您展示广告的新方式感到非常兴奋YouTube
-谷歌对其在 YouTube 上的新“暂停广告”取得的积极成果感到兴奋，该广告正在智能电视上进行测试。尽管用户对该平台上当前的广告不满意，但谷歌对这些非干扰性广告的潜力持乐观态度。该公司认为，暂停广告正在推动强劲的品牌提升效果，并从广告商那里获得高价。虽然更广泛推广的时间表尚不清楚，但 YouTube 用户可能很快就会在视频播放过程中看到这些广告。请继续关注这种创新广告格式的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/86572</guid>
-      <pubDate>Fri, 26 Apr 2024 14:36:26 GMT</pubDate>
+      <title>[媒体]阿尔伯特·爱因斯坦：为什么是社会主义？</title>
+      <link>https://t.me/hn_summary/86649</link>
+      <description><![CDATA[阿尔伯特·爱因斯坦：为什么是社会主义？
+在《为什么是社会主义？》阿尔伯特·爱因斯坦深入研究了倡导社会主义的伦理和科学原因。他认为，当前基于资本私有制的经济体系导致不平等、剥削和缺乏社会凝聚力。爱因斯坦强调社会在塑造个人方面的重要性，并强调需要更公平地分配资源。他批评资本主义将利润置于人类福祉之上，并呼吁建立一个优先考虑集体利益的制度。爱因斯坦发人深省的分析要求读者重新考虑支配我们生活的社会结构。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86649</guid>
+      <pubDate>Fri, 26 Apr 2024 20:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>三名妇女在新墨西哥州一家无证水疗中心接受流行的“吸血鬼面部护理”后感染了艾滋病毒，她们 [...]</title>
-      <link>https://t.me/hn_summary/86571</link>
-      <description><![CDATA[三名女性在未经许可的水疗中心因肮脏的“吸血鬼面部护理”而感染艾滋病毒&lt; /a&gt;
-三名妇女在新墨西哥州一家无证水疗中心接受流行的“吸血鬼面部护理”后感染了艾滋病毒，这是首次将整容手术与艾滋病毒爆发联系起来。水疗中心的环境令人震惊，包括未包​​装的注射器、未贴标签的血管和重复使用的设备。店主被指控并被判入狱。调查发现五起病例与水疗中心有关，感染密切相关。感染的严重程度各不相同，一名妇女因患有艾滋病定义的疾病而住院。由于客户记录不完整，调查面临挑战，凸显了识别新的艾滋病毒传播来源的重要性。]]></description>
-      <guid>https://t.me/hn_summary/86571</guid>
-      <pubDate>Fri, 26 Apr 2024 14:21:19 GMT</pubDate>
+      <title>[媒体] 在这篇有关 Arm 平台优化程序的博文中，作者讨论了技术 [...]</title>
+      <link>https://t.me/hn_summary/86648</link>
+      <description><![CDATA[针对 Arm 平台优化您的程序
+在这篇关于优化 Arm 平台程序的博客文章中，作者讨论了创建性能更好的程序的技术和技巧。他们强调了内存别名和“restrict”关键字、内存延迟、利用整数与浮点运算以及编译器中的自动向量化的重要性。作者强调了修改循环布局对于自动矢量化友好的程序和高效的数据布局的重要性。通过理解这些概念并利用 Arm 架构的强大功能，程序员可以显着提高程序的性能。该博文提供了进一步学习路径的链接，以获取有关优化 Arm 平台程序的更深入信息。]]></description>
+      <guid>https://t.me/hn_summary/86648</guid>
+      <pubDate>Fri, 26 Apr 2024 20:13:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
