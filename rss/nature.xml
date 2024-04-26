@@ -4,7 +4,21 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:01:56 GMT</lastBuildDate>
+    <item>
+      <title>美国奶牛感染禽流感：牛奶供应安全吗？</title>
+      <link>https://www.nature.com/articles/d41586-024-01221-2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-01221-2</guid>
+      <pubDate>Fri, 26 Apr 2024 12:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国国立卫生研究院博士后和博士生加薪可能会对美国产生连锁反应</title>
+      <link>https://www.nature.com/articles/d41586-024-01242-x</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-01242-x</guid>
+      <pubDate>Fri, 26 Apr 2024 12:01:56 GMT</pubDate>
+    </item>
     <item>
       <title>微型结肠和大脑“类器官”揭示了癌症和其他疾病</title>
       <link>https://www.nature.com/articles/d41586-024-01199-x</link>
@@ -95,36 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-01110-8</guid>
       <pubDate>Wed, 17 Apr 2024 12:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日简报：为什么有些人总是迷路</title>
-      <link>https://www.nature.com/articles/d41586-024-01120-6</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-01120-6</guid>
-      <pubDate>Wed, 17 Apr 2024 12:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算中的随机性赢得了计算机科学“诺贝尔奖”</title>
-      <link>https://www.nature.com/articles/d41586-024-01055-y</link>
-      <description><![CDATA[&lt; /div&gt;
-                    &lt;图类=“图”&gt;
- 
-  &lt;源类型=“图像/webp”/&gt;
-  
-  &lt;图标题&gt;
-   Avi Wigderson 因其对计算理论的基础性贡献而获得图灵奖。图片来源：Dan Komoda
-
-计算理论领域的领导者是 A. M. 图灵奖的最新获得者，该奖有时被称为计算机科学的“诺贝尔奖”。
-新泽西州普林斯顿高等研究院 (IAS) 的 Avi Wigderson 以跨多个学科的工作而闻名，并且已经三年前分享了数学最高奖项阿贝尔奖。
-他因“对计算理论的基础性贡献，包括重塑我们对随机性在计算中的作用的理解，以及他数十年来在理论计算机科学领域的智力领导”而获得图灵奖，美国计算机协会 (ACM) ）于 4 月 10 日在纽约市宣布。
-“我非常高兴，我根本没想到会这样，”威格德森告诉《自然》杂志。 “我从社区得到了如此多的爱和赞赏，所以我不需要奖品。”
-“一股巨大的智力力量”
-Wigderson 1956 年出生于以色列海法。他曾就读于位于海法的以色列理工学院 Technion，后来又就读于普林斯顿大学；他自 1999 年起就在 IAS 工作。他以计算复杂性（研究某些问题本质上解决起来很慢，即使在原理上）和计算随机性方面的研究而闻名。许多实用算法会做出随机选择以更有效地实现其目标；在 20 世纪 90 年代的一系列开创性研究中，Wigderson 和他的合作者表明，传统的确定性算法原则上可以与“随机”算法大致一样高效1。结果有助于证实随机算法可以与确定性算法一样准确。
-“Wigderson 是理论计算机科学领域的一支杰出的智力力量，”ACM 主席雅尼斯·约安尼迪斯 (Yannis Ioannidis) 在一份声明中说道。除了威格德森的学术成就外，ACS 还称赞他的“友善、热情和慷慨”，这使他成为全球数百名研究人员的导师或与他们合作。维格德森承认，他是该学科知识乐趣的“大力传播者”——他写了一本关于该学科的流行书，并成功出版了这本书在他的网站上免费提供。 “我认为这个领域很棒，我很乐意向任何人解释它。”
-图灵奖以著名的英国数学家和密码破译者艾伦·图灵（1912-54 年）的名字命名，他在 20 世纪 30 年代奠定了现代计算的概念基础。维格德森说：“我对数学感到非常熟悉。”他补充说，作为一种智力活动，理论计算机科学与数学没有什么区别。 “我们像数学家一样证明定理。”
-]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-01055-y</guid>
-      <pubDate>Wed, 10 Apr 2024 16:05:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
