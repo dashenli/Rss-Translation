@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:58:59 GMT</lastBuildDate>
     <item>
       <title>副车架</title>
       <link>https://www.subframe.com/</link>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 25 Apr 2024 04:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>前端开发人员/工程师手册 2024</title>
+      <title>2024 年前端开发人员/工程师手册</title>
       <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
       <description><![CDATA[2024年前端职业概述。
 ]]></description>
@@ -32,7 +32,7 @@
     <item>
       <title>CSS 中可能破坏宽高比的因素</title>
       <link>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</link>
-      <description><![CDATA[CSS 具有纵横比属性，自 2021 年左右以来已获得全面支持。
+      <description><![CDATA[CSS 具有宽高比属性，自 2021 年左右以来已得到全面支持。
 ]]></description>
       <guid>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</guid>
       <pubDate>Thu, 25 Apr 2024 04:47:57 GMT</pubDate>
