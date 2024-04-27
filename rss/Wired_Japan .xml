@@ -4,7 +4,35 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 00:56:47 GMT</lastBuildDate>
+    <item>
+      <title>人工智能助手可以记住人类忘记的一切。</title>
+      <link>https://wired.jp/article/humans-forget-ai-assistants-remember-everything/</link>
+      <description><![CDATA[数字人工智能助理可以访问智能手机上记录的所有内容，可以记住您通常会忘记的生活细节。然而，让人工智能记录你生活的一切也会暴露你的隐私。]]></description>
+      <guid>https://wired.jp/article/humans-forget-ai-assistants-remember-everything/</guid>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复后的“网络中立”规则真的能生效吗？</title>
+      <link>https://wired.jp/article/fcc-net-neutrality-rules-vote/</link>
+      <description><![CDATA[特朗普政府期间废除的互联网中立规则最近已恢复。但在电信环境发生巨大变化和选举之年，似乎很难确定它是否会继续存在，或者是否会成为一场永恒的监管之战的一部分。]]></description>
+      <guid>https://wired.jp/article/fcc-net-neutrality-rules-vote/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软在生成式人工智能货币化竞赛中领先于谷歌</title>
+      <link>https://wired.jp/article/microsoft-google-earnings-generative-ai/</link>
+      <description><![CDATA[谷歌母公司 Alphabet 和微软公布了 1 月至 3 月期间的财务业绩。两家公司都表现良好，但到目前为止，似乎只有微软在生成式人工智能上的赌注开始获得回报。]]></description>
+      <guid>https://wired.jp/article/microsoft-google-earnings-generative-ai/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>主编致SZ会员：“离开‘可持续的未来’”SZ通讯VOL.233</title>
+      <link>https://wired.jp/article/sz-newsletter-233/</link>
+      <description><![CDATA[如果我们的目标是“可持续的未来”，似乎有必要重新定义可持续性。本周地球日为深圳会员提供的时事通讯。]]></description>
+      <guid>https://wired.jp/article/sz-newsletter-233/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix 日剧《忍之家》幕后花絮，美国导演讲述的关于身份和家庭的故事</title>
       <link>https://wired.jp/article/house-of-ninjas-dave-boyle-interview/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[据透露，思科网络设备中的一个漏洞被一群国家支持的黑客利用来渗透多个政府网络。专家指出，未来针对网络边缘设备的攻击有可能继续增加。]]></description>
       <guid>https://wired.jp/article/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</guid>
       <pubDate>Wed, 24 Apr 2024 22:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“变形金刚”和改变AI历史的8名谷歌员工</title>
-      <link>https://wired.jp/article/sz-eight-google-employees-invented-modern-ai-transformers-paper/</link>
-      <description><![CDATA[他们八个人偶然相遇，被一个想法所吸引，一起写了一篇关于现在传奇的变形金刚的论文。这项研究成为近代技术史上最重要的突破。]]></description>
-      <guid>https://wired.jp/article/sz-eight-google-employees-invented-modern-ai-transformers-paper/</guid>
-      <pubDate>Wed, 24 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《TikTok禁止法》被总统签署成为法律，TikTok强烈反对将其视为“禁令”</title>
-      <link>https://wired.jp/article/biden-sign-tiktok-ban/</link>
-      <description><![CDATA[乔·拜登总统签署了一项禁止 TikTok 在美国运营的法案，该法案成为法律。如果中国母公司字节跳动不出售该业务，最早可能在 2025 年被禁止在美国运营。]]></description>
-      <guid>https://wired.jp/article/biden-sign-tiktok-ban/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《TikTok禁令法案》在美国参议院通过，未来会发生什么？</title>
-      <link>https://wired.jp/article/senate-tiktok-ban/</link>
-      <description><![CDATA[美国参议院通过了一项法案，禁止 TikTok 在美国运营，除非其出售业务。拜登总统已表示有意签署该法案，未来前景备受关注。]]></description>
-      <guid>https://wired.jp/article/senate-tiktok-ban/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>换脸、实时深度伪造浪漫骗局终于来了</title>
-      <link>https://wired.jp/article/yahoo-boys-real-time-deepfake-scams/</link>
-      <description><![CDATA[让我们来看看被称为“雅虎男孩”的精明骗子如何利用任何人都可以使用的人工智能换脸技术来实施爱情骗局。]]></description>
-      <guid>https://wired.jp/article/yahoo-boys-real-time-deepfake-scams/</guid>
-      <pubDate>Wed, 24 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
