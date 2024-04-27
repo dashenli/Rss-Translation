@@ -4,11 +4,11 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 12:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 15:14:30 GMT</lastBuildDate>
     <item>
       <title>级联和特异性入门</title>
       <link>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</link>
-      <description><![CDATA[开发人员经常担心的问题是，如果您在编写 CSS 时使用正确的思维模型，级联和特异性实际上非常简单。
+      <description><![CDATA[开发人员常常担心，如果在编写 CSS 时使用正确的思维模型，级联和特殊性实际上非常简单。
 ]]></description>
       <guid>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</guid>
       <pubDate>Fri, 26 Apr 2024 12:40:33 GMT</pubDate>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 04:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年前端开发人员/工程师手册</title>
+      <title>前端开发人员/工程师手册 2024</title>
       <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
       <description><![CDATA[2024年前端职业概述。
 ]]></description>
