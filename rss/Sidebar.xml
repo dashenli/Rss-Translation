@@ -4,17 +4,17 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:14:41 GMT</lastBuildDate>
     <item>
       <title>级联和特异性入门</title>
       <link>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</link>
-      <description><![CDATA[开发人员常常担心，如果在编写 CSS 时使用正确的思维模型，级联和特殊性实际上非常简单。
+      <description><![CDATA[开发人员经常担心的问题是，如果您在编写 CSS 时使用正确的思维模型，级联和特异性实际上非常简单。
 ]]></description>
       <guid>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</guid>
       <pubDate>Fri, 26 Apr 2024 12:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>HTMX 太酷了，我自己动手做了</title>
+      <title>HTMX 太酷了，我自己做了一个</title>
       <link>https://dbushell.com/2024/04/16/htmx-and-modern-javascript/</link>
       <description><![CDATA[我拒绝 JavaScript UI 库。
 ]]></description>
