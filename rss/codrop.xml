@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>共生属</title>
+    <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:17:19 GMT</lastBuildDate>
+    <item>
+      <title>最近的设计发现：紧凑型导航</title>
+      <link>https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/</link>
+      <description><![CDATA[网站菜单的一小部分，紧凑且可打开成漂亮的盒子或形状。]]></description>
+      <guid>https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/</guid>
+      <pubDate>Sun, 28 Apr 2024 15:48:23 GMT</pubDate>
+    </item>
     <item>
       <title>集体#833</title>
       <link>https://tympanus.net/codrops/collective/collective-833/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
       <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
-      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充极简的设计选择。]]></description>
+      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充简约的设计选择。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</guid>
       <pubDate>Wed, 24 Apr 2024 09:25:21 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>集体#832</title>
       <link>https://tympanus.net/codrops/collective/collective-832/</link>
-      <description><![CDATA[仅使用 CSS 即可显示菜单 * 揭秘 Shadow DOM * ClickWheel.js]]></description>
+      <description><![CDATA[仅使用 CSS 即可查看菜单 * 揭秘 Shadow DOM * ClickWheel.js]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-832/</guid>
       <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索 Penpot，这是一个增强设计和开发团队合作的开源平台，现在采用 CSS 网格布局，可实现更强大、更高效的项目创建。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/</guid>
       <pubDate>Mon, 15 Apr 2024 10:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 交互和动画综述 #42</title>
-      <link>https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/</link>
-      <description><![CDATA[Dribbble 的最佳镜头的新鲜动作设计合集，让您的创造力源源不断。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/</guid>
-      <pubDate>Sun, 14 Apr 2024 09:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
