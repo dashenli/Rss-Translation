@@ -3,8 +3,17 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:12:56 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Mon, 29 Apr 2024 15:15:14 GMT</lastBuildDate>
+    <item>
+      <title>iPad 加入 iPhone 的 DMA 领域 ↦</title>
+      <link>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</link>
+      <description><![CDATA[The Verge 的 Jess Weatherbed：
+&lt;块引用&gt;
+  经过近八个月的调查，调查苹果的 iPadOS 是否拥有足够的市场力量以保证更严格的监管，欧盟委员会现已根据其旗舰数字市场法案 (DMA) 规则将 iPad 操作系统指定为“看门人”服务。&lt; /blockquote&gt;...]]></description>
+      <guid>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</guid>
+      <pubDate>Mon, 29 Apr 2024 13:57:52 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/sponsor/2024/04/magic-lasso-adblock-youtube-ad-blocker-for-safari-15/</link>
@@ -37,7 +46,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
     <item>
       <title>罗技以某种方式将鼠标软件推向新低 ↦</title>
       <link>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</link>
-      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的精彩故事：
+      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的故事：
 &lt;块引用&gt;
   我不知道我多么不希望我的鼠标软件包含与 ChatGPT 相关的功能……更不用说带有内置按钮来启动提示的鼠标了。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</guid>
@@ -84,7 +93,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <pubDate>Fri, 19 Apr 2024 21:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>一切都需要成为广告吗？</title>
+      <title>一切都必须是广告吗？</title>
       <link>https://sixcolors.com/post/2024/04/does-everything-need-to-be-an-ad/</link>
       <description><![CDATA[就像 Apple 的 Aerial 屏幕保护程序一样雄伟，不是吗？
 越来越多的大型科技公司争夺我们眼前的每一个像素，这些公司试图从广告和促销中榨取几分钱。…]]></description>
@@ -112,13 +121,6 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <description><![CDATA[2021 年，设备管理初创公司 Kandji 与 Six Colors 接洽，委托其在我们的成绩单系列中添加一个新条目，重点关注 Apple 在大型组织（包括企业、教育和政府）中的表现。…]]></description>
       <guid>https://sixcolors.com/post/2024/04/apple-in-the-enterprise-a-2024-report-card/</guid>
       <pubDate>Wed, 17 Apr 2024 21:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 550：系好安全带，忘记我的电子邮件</title>
-      <link>https://sixcolors.com/podcast/2024/04/clockwise-550-strap-in-and-forget-my-email/</link>
-      <description><![CDATA[早期的网络怀旧和令人难忘的在线体验，我们拥有或审查过的最令人失望的技术产品，我们对技术故障排除的坚持，以及我们仍在使用的最古老的技术。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/04/clockwise-550-strap-in-and-forget-my-email/</guid>
-      <pubDate>Wed, 17 Apr 2024 19:29:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
