@@ -3,26 +3,33 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Mon, 29 Apr 2024 03:14:55 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Mon, 29 Apr 2024 06:17:50 GMT</lastBuildDate>
+    <item>
+      <title>为什么中国在虚假信息方面如此糟糕</title>
+      <link>https://www.wired.com/story/china-bad-at-disinformation/</link>
+      <description><![CDATA[中国政府支持的虚假宣传活动已经大规模进行了七年——但却无人关注。]]></description>
+      <guid>https://www.wired.com/story/china-bad-at-disinformation/</guid>
+      <pubDate>Mon, 29 Apr 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最佳双筒望远镜（2024 年）：尼康、星特朗、施华洛世奇、蔡司</title>
       <link>https://www.wired.com/story/best-binoculars/</link>
-      <description><![CDATA[无论您是在观鸟还是观看棒球，我们都会细分价格和规格，为您找到最合适的一副。]]></description>
+      <description><![CDATA[无论您是观鸟还是观看棒球，我们都会根据价格和规格来为您找到最合适的一双。]]></description>
       <guid>https://www.wired.com/story/best-binoculars/</guid>
       <pubDate>Sun, 28 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>11 个最佳睡袋（2024 年）：超轻、适合汽车露营者、温暖天气、适合儿童</title>
       <link>https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/</link>
-      <description><![CDATA[无论您是攀登山峰还是带家人去当地公园，我们都能找到适合各种温度、预算和露营探险的最佳睡袋。]]></description>
+      <description><![CDATA[无论您是攀登山峰还是带家人去当地的公园，我们都能找到适合各种温度、预算和露营探险的最佳睡袋。]]></description>
       <guid>https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/</guid>
       <pubDate>Sun, 28 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>11 款最佳智能笔记本和智能笔（2024 年）：平板电脑、数字笔和可重复使用的书籍</title>
       <link>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</link>
-      <description><![CDATA[这些巧妙的工具将手写笔记的便利与以数字方式保存笔记的功能结合在一起。]]></description>
+      <description><![CDATA[这些漂亮的工具结合了手动记笔记的便利性和数字保存笔记的功能。]]></description>
       <guid>https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/</guid>
       <pubDate>Sun, 28 Apr 2024 13:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[另外：泄露的细节告诉我们更多关于新款 Google Pixel 8A 的信息，Freitag 的环保袋完全可回收，是时候拆开一大堆科技缩写词了。]]></description>
       <guid>https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/</guid>
       <pubDate>Sat, 27 Apr 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>三分之一的美国人生活在空气污染危险的地区</title>
-      <link>https://www.wired.com/story/one-in-three-americans-live-in-areas-with-dangerous-air-pollution/</link>
-      <description><![CDATA[气候变化正在增加人们遭受有害污染的天数，对本已处于不利地位的社区造成的影响最大。]]></description>
-      <guid>https://www.wired.com/story/one-in-three-americans-live-in-areas-with-dangerous-air-pollution/</guid>
-      <pubDate>Sat, 27 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
