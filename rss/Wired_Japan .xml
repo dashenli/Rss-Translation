@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>连线日本</title>
+    <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:16:05 GMT</lastBuildDate>
+    <item>
+      <title>植物性肉类替代品的繁荣已经结束。价格、减排和口味方面面临的挑战</title>
+      <link>https://wired.jp/article/plant-based-meat-sales-2023/</link>
+      <description><![CDATA[在冠状病毒大流行期间，植物性肉类替代品的销量猛增，但最近在美国的销量陷入停滞。因此，植物性肉类替代品制造商正试图用类似肉类的替代品来吸引消费者。]]></description>
+      <guid>https://wired.jp/article/plant-based-meat-sales-2023/</guid>
+      <pubDate>Mon, 29 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>你能在行驶的火车车顶上奔跑吗？基于物理的验证结果</title>
       <link>https://wired.jp/article/can-you-really-run-on-top-of-a-train/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果我们的目标是“可持续的未来”，似乎有必要重新定义可持续性。本周地球日为深圳会员提供的时事通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-233/</guid>
       <pubDate>Fri, 26 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 日剧《忍之家》幕后花絮，美国导演讲述的关于身份和家庭的故事</title>
-      <link>https://wired.jp/article/house-of-ninjas-dave-boyle-interview/</link>
-      <description><![CDATA[《忍者之家》是日本 Netflix 的一部电视剧，因其完全原创的故事而受到全世界的关注。最初的想法是由片中主演加来健人撰写，美国人戴夫·博伊尔负责导演和剧本。这部独特​​的作品以忍者这一古老的日本主题为主题，并探讨了它是如何变成现实的。现代日本的普遍性和创新性的作品，你指导了我吗？我们向导演博伊尔询问了这部电影的幕后创作过程。]]></description>
-      <guid>https://wired.jp/article/house-of-ninjas-dave-boyle-interview/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
