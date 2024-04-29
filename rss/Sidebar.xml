@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 00:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 03:17:00 GMT</lastBuildDate>
     <item>
       <title>级联和特异性入门</title>
       <link>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</link>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 04:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年前端开发人员/工程师手册</title>
+      <title>前端开发人员/工程师手册 2024</title>
       <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
       <description><![CDATA[2024年前端职业概述。
 ]]></description>
@@ -72,7 +72,7 @@
     <item>
       <title>CSS 中可能破坏宽高比的因素</title>
       <link>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</link>
-      <description><![CDATA[CSS 具有宽高比属性，自 2021 年左右以来已得到全面支持。
+      <description><![CDATA[CSS 具有纵横比属性，自 2021 年左右以来已获得全面支持。
 ]]></description>
       <guid>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</guid>
       <pubDate>Thu, 25 Apr 2024 04:47:57 GMT</pubDate>
@@ -112,7 +112,7 @@
     <item>
       <title>点击轮 JS</title>
       <link>https://www.clickwheeljs.com/</link>
-      <description><![CDATA[使用此 JavaScript 库将 Ipod 滚轮添加到任何网站。
+      <description><![CDATA[使用此 javascript 库将 Ipod Wheel 添加到任何网站。
 ]]></description>
       <guid>https://www.clickwheeljs.com/</guid>
       <pubDate>Wed, 24 Apr 2024 07:20:40 GMT</pubDate>
