@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科多普</title>
+    <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:17:19 GMT</lastBuildDate>
+    <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
+    <lastBuildDate>Tue, 30 Apr 2024 12:25:43 GMT</lastBuildDate>
+    <item>
+      <title>集体#834</title>
+      <link>https://tympanus.net/codrops/collective/collective-834/</link>
+      <description><![CDATA[检测 CSS * MarkdownDown * Hono 中的 JavaScript 支持]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-834/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最近的设计发现：紧凑型导航</title>
       <link>https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/</link>
@@ -20,23 +27,23 @@
       <pubDate>Fri, 26 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #59</title>
+      <title>励志网站综述#59</title>
       <link>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</link>
       <description><![CDATA[探索我们精心挑选的设计的最新网站系列，让您了解最新趋势。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</guid>
       <pubDate>Thu, 25 Apr 2024 11:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
+      <title>案例研究：Gabriel Contassot 的投资组合——2024 年</title>
       <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
-      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充简约的设计选择。]]></description>
+      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充极简的设计选择。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</guid>
       <pubDate>Wed, 24 Apr 2024 09:25:21 GMT</pubDate>
     </item>
     <item>
       <title>滚动显示模糊文本</title>
       <link>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</link>
-      <description><![CDATA[受 Rauno 的“模糊显示”启发，滚动上的模糊文本显示动画。]]></description>
+      <description><![CDATA[受 Rauno 的“模糊显示”启发的滚动模糊文本显示动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</guid>
       <pubDate>Tue, 23 Apr 2024 13:08:52 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[JavaScript Signals 标准提案 * Awesome-Code-AI * 老式光标]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-830/</guid>
       <pubDate>Tue, 16 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>桥接设计和代码：Penpot CSS 网格布局的力量</title>
-      <link>https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/</link>
-      <description><![CDATA[探索 Penpot，这是一个增强设计和开发团队合作的开源平台，现在采用 CSS 网格布局，可实现更强大、更高效的项目创建。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/</guid>
-      <pubDate>Mon, 15 Apr 2024 10:17:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
