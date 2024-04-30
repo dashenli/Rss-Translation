@@ -4,7 +4,56 @@
     <title>科特克网站</title>
     <link>http://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来一直是优质超文本产品的家园</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:16:11 GMT</lastBuildDate>
+    <item>
+      <title>有点像明星的二重身</title>
+      <link>https://kottke.org/24/04/art-celebrity-doppelgangers</link>
+      <description><![CDATA[博福德·德莱尼 (Beauford Delaney) 的霍华德·斯旺森肖像 (1967) 出现在MoMA 在 Chrome 中的新标签扩展，我是就像，“杰瑞·宋飞？！”
+有许多名人都有艺术分身 -罗伯特·德尼罗和约翰·卡拉辛斯基的作品尤其出色。这些你注意到了吗？
+标签： 艺术 · 博福德·德莱尼 · 杰瑞·宋飞
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/04/art-celebrity-doppelgangers</guid>
+      <pubDate>Tue, 30 Apr 2024 20:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>丹尼尔·雷德克利夫的可爱简介。 &#8220;如果有一个最佳地点...</title>
+      <link>https://kottke.org/24/04/0044517-a-lovely-profile-of-danie</link>
+      <description><![CDATA[A丹尼尔·雷德克利夫的可爱简介。 “如果能在他妈的怪异、陌生和几乎令人不安之间找到一个最佳平衡点，与健康、认真和非常真诚之间找到一个最佳平衡点，那么这就是我真正喜欢做的事情。”
+
+        
+
+        
+
+         💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/04/0044517-a-lovely-profile-of-danie</guid>
+      <pubDate>Tue, 30 Apr 2024 20:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>詹姆斯韦伯太空望远镜最近以“前所未有的细节”捕捉到了马头星云......</title>
+      <link>https://kottke.org/24/04/0044516-the-jwst-recently-capture</link>
+      <description><![CDATA[詹姆斯韦伯太空望远镜最近以“前所未有的细节”拍摄到了马头星云。
+
+        
+
+        
+
+         💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/04/0044516-the-jwst-recently-capture</guid>
+      <pubDate>Tue, 30 Apr 2024 19:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>据美联社报道，缉毒局将把大麻重新分类为……</title>
+      <link>https://kottke.org/24/04/0044515-the-ap-is-reporting-that</link>
+      <description><![CDATA[据美联社报道，DEA 将在一个“历史性的转变”。
+
+        
+
+        
+
+         💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/04/0044515-the-ap-is-reporting-that</guid>
+      <pubDate>Tue, 30 Apr 2024 18:47:24 GMT</pubDate>
+    </item>
     <item>
       <title>AI图像反馈环路</title>
       <link>https://kottke.org/24/04/ai-image-feedback-loop</link>
@@ -13,7 +62,7 @@
 这是最后一张图片：
 
 像这样的递归艺术有着悠久的历史 - 请参阅 Alvin Lucier 的 I 《我坐在 1969 年的房间里》 — 但 Hodgin 的项目也暗示了人工智能公司在寻求使其训练数据不受人工智能创建的材料影响时所面临的挑战。 Ted Jiang 鼓励我们“思考ChatGPT 作为网络上所有文本的模糊 jpeg 格式”：
-它保留了 Web 上的大部分信息，就像 jpeg 保留更高分辨率图像的大部分信息一样，但是，如果您正在寻找精确的位序列，你不会找到它；你得到的只是一个近似值。但是，由于近似值以语法文本的形式呈现（ChatGPT 擅长创建这种形式），因此通常是可以接受的。您仍然看到模糊的 jpeg，但模糊的发生方式不会使整个图片看起来不那么清晰。
+它保留了 Web 上的大部分信息，就像 jpeg 保留了更高分辨率图像的大部分信息一样，但是，如果您正在寻找精确的位序列，你不会找到它；你得到的只是一个近似值。但是，由于近似值以语法文本的形式呈现（ChatGPT 擅长创建这种形式），因此通常是可以接受的。您仍然看到模糊的 jpeg，但模糊的发生方式不会使整个图片看起来不那么清晰。
 我们已经知道如果您递归保存 JPEG，您会得到什么…
 
 另请参阅La Demoiselle d’Instagram、我坐在一个房间里（带着摄像机），Google 图片搜索递归，以及 与卡尔决斗。
@@ -31,7 +80,7 @@
       <pubDate>Tue, 30 Apr 2024 15:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>我喜欢看这些遗传算法的东西。“该程序使用一个简单的......</title>
+      <title>我喜欢看这些遗传算法的东西。 &#8220;该程序使用一个简单的...</title>
       <link>https://kottke.org/24/04/0044508-i-love-watching-these-gen</link>
       <description><![CDATA[我喜欢看这些遗传算法的东西。 “该程序使用简单的遗传算法，将随机的两轮形状一代又一代地进化成汽车。”
 
@@ -62,11 +111,15 @@
       <pubDate>Tue, 30 Apr 2024 13:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>由人工智能想象的 20 世纪 50 年代真人版《辛普森一家》。来自...</title>
+      <title>人工智能想象的 20 世纪 50 年代真人版《辛普森一家》。来自...</title>
       <link>https://kottke.org/24/04/0044507-a-live-action-1950s-versi</link>
-      <description><![CDATA[由人工智能想象的 20 世纪 50 年代真人版《辛普森一家》。与 50 年代《飞出个未来》 和 巴黎世家的《哈利波特》 出自同一人之手。
+      <description><![CDATA[由 AI 想象的 1950 年代真人版《辛普森一家》。来自制作50年代飞出个未来和Balenciaga 的《哈利·波特》。
 
-💬 加入 kottke.org 上的讨论 →]]></description>
+        
+
+        
+
+         💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/04/0044507-a-live-action-1950s-versi</guid>
       <pubDate>Mon, 29 Apr 2024 20:19:41 GMT</pubDate>
     </item>
@@ -75,7 +128,7 @@
       <link>https://kottke.org/24/04/letter-to-the-person-who-carved-his-initials-into-the-oldest-living-longleaf-pine-in-north-america</link>
       <description><![CDATA[一首诗，作者：马修·奥尔兹曼。开始：
 告诉我没有它会怎样
-好奇心，没有敬畏之心。扬帆起航
+好奇，没有敬畏。扬帆起航
 清澈的水面上，翻白眼
 摇曳的海藻礁
 在你下方，忽略闪烁
@@ -105,7 +158,7 @@
       <pubDate>Mon, 29 Apr 2024 18:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>使用 MovieCart，您可以创建可播放完整长度的 Atari 2600 卡带...</title>
+      <title>使用 MovieCart，您可以创建可播放全长的 Atari 2600 盒式磁带...</title>
       <link>https://kottke.org/24/04/0044506-with-moviecart-you-can-cr</link>
       <description><![CDATA[使用 MovieCart，您可以创建可播放完整电影的 Atari 2600 盒式磁带。 “操纵杆控制亮度、音量和飞梭位置。控制台开关控制黑白、十秒倒带和完全倒带。
 
@@ -136,63 +189,6 @@
          💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/04/0044503-murdle-volume-1-a-book</guid>
       <pubDate>Mon, 29 Apr 2024 16:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我把 1 月 6 日的事情归咎于 Facebook。”亚伦·索金正在写续集……</title>
-      <link>https://kottke.org/24/04/0044502-i-blame-facebook-for-janu</link>
-      <description><![CDATA[“我把 1 月 6 日的事情归咎于 Facebook。” 亚伦·索金正在撰写《社交》的续集网络。 “Facebook 的增长与诚信之间应该存在持续的紧张关系。没有。这只是成长。
-
-        
-
-        
-
-         💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/04/0044502-i-blame-facebook-for-janu</guid>
-      <pubDate>Mon, 29 Apr 2024 15:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正处于中型电视的黄金时代</title>
-      <link>https://kottke.org/24/04/were-in-the-golden-age-of-mid-tv</link>
-      <description><![CDATA[电视评论家詹姆斯·波尼沃齐克 为《纽约时报》撰文：
-另一方面，Mid TV 几乎不可能很糟糕，原因与它无法成为伟大作品的原因相同。它通常是上一代突破性电视的回响（因此《权力的游戏》的高潮和低谷被《龙之屋》的忠实性所取代）。或者它是由非常了解如何制作电视的专业人士制作的，因此错过了制作伟大艺术的先决条件，即训练自己忘记事情是如何做的，从而想出自己的方式。
-Mid 不是一个具有普遍定义的严格流派。但它是当你提高电视的制作价值并降低其野心时得到的东西。它让你想起你曾经非常喜欢的东西。它用伟大的演员阵容代替了伟大的想法。（你真的很喜欢另一部作品中的明星！你不敢相信他们请来了梅丽尔·斯特里普！）
-Mid 是根据一本著名的书或电影或谋杀案改编的。Mid 在大屏幕上看起来很棒。（尽管出于某种原因，一切都是蓝色的。）Mid 在多个国家实地拍摄。Mid 可能可以缩短几集。不过，Mid 还不错。已经足够好了。
-最重要的是，《Mid》很简单。它并不简单——它表明它的作者读过书。但故事情节很熟悉。情节和主题重复。你不必像看《火线》那样一心一意地沉浸其中。这是一部你可以一边看一边叠衣服的高端电视剧。
-正中要害。虽然我也同意Alan Sepinwall 的这个警告：
-我只会对这篇优秀的 Poniewozik 文章提出异议，因为并非所有的《Mid》电视剧都是平等的。 Poker Face 和 Mr. &amp; Mrs. Smith 就是他们想要的那种节目的典范。我宁愿看那些节目，也不愿看那些不懂如何制作电视节目的人的疯狂举动。
-对我来说，Mid TV 的问题在于将其与真正的好电视节目区分开来——找到那些你实际上不想边看边叠衣服的节目。我曾几次被那些我认为会很有挑战性和有趣的节目搞得焦头烂额——我想到了 Constellation、1899 和 Mrs. Davis——但它们却过于激进（以至于让我反感）。
-还有两点想法，来自 Poniewozik 文章的评论部分。我喜欢这个关于特异性的内容：
-Shogun 是今年迄今为止上映的最佳节目，这与其艺术视野的 *特异性* 有很大关系。这里提到的所有“中等”节目都试图同时实现太多目标，或者吸引太多人群，从而产生太大影响。它们是内容，不是艺术。
-这是一个矛盾的事实，如果你想创造一些真正与人（甚至很多人）产生联系的东西，你必须让它变得具体或个性化（或两者兼而有之）。Shōgun 是我要看的节目清单中的首位（看完五部节目后，我会stinge 观看）。
-我是电视剧作家。我因一部标志性的 HBO 节目而获奖。我可以告诉你，95% 的责任都归咎于那些高管，他们现在太害怕丢掉工作，所以他们就直接走到中间——如果你愿意的话，就走到中间。对他们之前看过的节目说“是”比冒险尝试一些不同寻常的事情要容易得多。
-是的，他们正在使用人工智能给我们“笔记”。我感到非常幸运，能够在这种媒介中工作，当时它仍然奖励真正的创造力。
-听起来不错。
-标签： Alan Sepinwall · 艺术 · James Poniewozik · 电视
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/04/were-in-the-golden-age-of-mid-tv</guid>
-      <pubDate>Mon, 29 Apr 2024 14:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>蹩脚的联邦立法如何鼓励美国汽车制造商制造和销售......</title>
-      <link>https://kottke.org/24/04/0044499-how-crappy-federal-legisl</link>
-      <description><![CDATA[糟糕的联邦立法如何鼓励美国汽车制造商制造和销售更大的汽车、卡车和 SUV，它们更危险，对气候也更不利。
-
-        
-
-        
-
-         💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/04/0044499-how-crappy-federal-legisl</guid>
-      <pubDate>Mon, 29 Apr 2024 14:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>卢浮宫想把《蒙娜丽莎》放在自己的房间里……</title>
-      <link>https://kottke.org/24/04/0044498-the-louvre-wants-to-put</link>
-      <description><![CDATA[卢浮宫希望将蒙娜丽莎放在自己的房间里，以改善游客体验。这是我的建议：两个房间，一个有蒙娜丽莎（限时入场，禁止拍照），另一个有假的（自由进入，自拍，拍照等）
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/04/0044498-the-louvre-wants-to-put</guid>
-      <pubDate>Mon, 29 Apr 2024 13:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:12:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体]英国成为第一个禁止默认错误密码的国家，创造了历史[...]</title>
-      <link>https://t.me/hn_summary/87172</link>
-      <description><![CDATA[英国成为第一个禁止在物联网设备上使用默认错误密码的国家
-继 2016 年由 Mirai 僵尸网络引发的重大网络攻击之后，英国成为第一个禁止物联网设备默认错误密码的国家，创造了历史。新法律《2022 年产品安全和电信基础设施法案》为制造商设定了最低安全标准，并要求默认安装唯一密码。不遵守规定可能会导致罚款或产品召回。这项开创性的立法旨在保护消费者免受网络威胁，并确保他们的个人隐私、数据和财务安全。其他国家/地区也在考虑类似的法律，但英国在物联网安全方面处于领先地位。]]></description>
-      <guid>https://t.me/hn_summary/87172</guid>
-      <pubDate>Tue, 30 Apr 2024 15:00:06 GMT</pubDate>
+      <title>[媒体] 美国联邦贸易委员会正在对制药公司发起挑战，挑战“六月 [...]</title>
+      <link>https://t.me/hn_summary/87268</link>
+      <description><![CDATA[FTC 对包括诺和诺德在内的 10 家制药商持有的“垃圾”专利提出质疑臭氧
+联邦贸易委员会正在通过挑战“垃圾”专利来对付制药公司，其中包括诺和诺德公司为 Ozempic 等药物持有的专利。这些专利阻碍了竞争并推高了药品价格，特别是治疗 2 型糖尿病和哮喘等药物的价格。联邦贸易委员会的行动是拜登政府为让美国人更负担得起医疗保健而做出的更广泛努力的一部分。对涉嫌专利滥用的打击是拜登总统 2024 年连任竞选的重点。联邦贸易委员会对这些专利的挑战旨在确保所有美国人及时获得创新且负担得起的药物。]]></description>
+      <guid>https://t.me/hn_summary/87268</guid>
+      <pubDate>Tue, 30 Apr 2024 21:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Google 上搜索“Delta Emulator”时，请务必小心，因为顶部结果可能会导致 [...]</title>
-      <link>https://t.me/hn_summary/87171</link>
-      <description><![CDATA[Google 搜索“Delta Emulator”显示恶意软件为首要结果
-在 Google 上搜索“Delta Emulator”时，请务必小心，因为最上面的结果可能会将您引向恶意软件。 Delta 是一款流行的 iOS 应用程序，可让您在设备上玩经典视频游戏。然而，一些恶意网站设法操纵搜索结果，诱骗用户下载有害软件而不是合法模拟器。在下载任何内容之前，请务必仔细检查该网站，以避免成为此骗局的受害者。确保安全并在 Delta 模拟器上畅玩您最喜爱的复古游戏！]]></description>
-      <guid>https://t.me/hn_summary/87171</guid>
-      <pubDate>Tue, 30 Apr 2024 14:56:59 GMT</pubDate>
+      <title>[媒体] 恶意 Python 代码获得执行是软件开发人员环境中的严重威胁 [...]</title>
+      <link>https://t.me/hn_summary/87267</link>
+      <description><![CDATA[恶意Python代码获得执行
+获得执行的恶意 Python 代码是软件开发人员环境中的严重威胁，攻击者瞄准开源软件依赖项以实现任意代码执行。威胁行为者使用各种方法来利用漏洞，包括运行加密货币挖矿程序、窃取机密或加密数据以获取赎金。 Phylum 提供了一个检测、报告和阻止恶意包的解决方案，提供了 GitHub、GitLab、Azure Pipelines 和 Bitbucket Pipelines 的集成。通过使用锁定文件、监视依赖关系并防止任意代码执行，开发人员可以保护其环境免受这些攻击。 Phylum 的社区版可用于自动化软件供应链安全并确保使用可信的开源代码。]]></description>
+      <guid>https://t.me/hn_summary/87267</guid>
+      <pubDate>Tue, 30 Apr 2024 21:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 26 岁的芬兰男子 Julius "Zeekill" Kivimäki 被判处六年以上徒刑 [...]</title>
-      <link>https://t.me/hn_summary/87170</link>
-      <description><![CDATA[大规模勒索心理治疗患者的男子被判六年徒刑 
-26 岁的芬兰男子 Julius“Zeekill”Kivimäki 因侵入一家在线心理治疗诊所、泄露患者记录以及试图勒索诊所和患者而被判处六年以上监禁。 Kivimäki 是一名臭名昭著的犯罪黑客，此前曾参与网络犯罪，并在袭击后逃离该国。尽管行为严重，但根据芬兰法律，Kivimäki 很可能只服刑一半。该诊所的前首席执行官也因违规行为被起诉，暴露了该公司安全措施的薄弱。该案件凸显了敏感患者数据的脆弱性以及网络犯罪的后果。]]></description>
-      <guid>https://t.me/hn_summary/87170</guid>
-      <pubDate>Tue, 30 Apr 2024 14:41:51 GMT</pubDate>
+      <title>[媒体]Svelte 5 目前处于候选发布阶段，这表明该框架的设计 [...]</title>
+      <link>https://t.me/hn_summary/87266</link>
+      <description><![CDATA[Svelte 5 候选版本 (RC)
+Svelte 5 现在处于候选发布阶段，这表明该框架的设计已基本确定，没有重大错误。虽然尚未准备好投入生产，但现在是尝试的好时机。新功能包括用于反应性的符文、改进的事件处理、组件片段和本机 TypeScript 支持。 Svelte 4 中的组件将与 Svelte 5 一起使用，只有少数例外。最终，对 Svelte 4 功能的支持将被逐步取消。稳定版本的发布日期尚不确定，但将根据需要进行更新。请继续关注 Svelte 团队的更多更新和改进。]]></description>
+      <guid>https://t.me/hn_summary/87266</guid>
+      <pubDate>Tue, 30 Apr 2024 21:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>树莓派 5 对比</title>
-      <link>https://t.me/hn_summary/87169</link>
-      <description><![CDATA[Raspberry Pi 5 与 Intel N100 迷你 PC 比较 
-Raspberry Pi 5 Arm SBC 现在在性能方面是一些英特尔系统的有力竞争者，而英特尔的 Alder Lake-N 系列，特别是英特尔处理器 N100，提供了一种经济实惠且高效的选择，可以在价格、形式等方面挑战 Arm 系统。因数和功耗。本次比较深入探讨了 Raspberry Pi 5 和 Intel N100 迷你 PC 的规格、性能基准和定价，突出了各自的独特特性和功能。这两种选择之间的争论最终归结为特定的用户需求，Raspberry Pi 5 在某些项目中表现出色，而英特尔 N100 迷你 PC 为通用计算任务提供了更好的性能。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/87169</guid>
-      <pubDate>Tue, 30 Apr 2024 14:38:46 GMT</pubDate>
+      <title>[媒体] 美国国家公路交通安全管理局已正式要求，所有需要 [...]</title>
+      <link>https://t.me/hn_summary/87265</link>
+      <description><![CDATA[美国所有汽车很快都必须具备自动避碰功能
+美国国家公路交通安全管理局已正式规定，到 2029 年 9 月 1 日，美国所有新车都必须具备自动紧急制动功能，能够避免时速 62 英里的碰撞。但是，某些车辆有豁免，推出时间推迟，禁用该系统的方法也各不相同。汽车制造商不确定他们能否达到这一激进的目标，人们对更高速度下的可靠性表示担忧。新法规还引发了有关误报和幻影制动事件的问题。尽管出于良好的意图，但这些系统的有效性仍有待观察。看看汽车制造商如何应对这一挑战将会很有趣。]]></description>
+      <guid>https://t.me/hn_summary/87265</guid>
+      <pubDate>Tue, 30 Apr 2024 21:04:31 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，字节码虚拟机不仅限于通用编程语言 [...]</title>
-      <link>https://t.me/hn_summary/87168</link>
-      <description><![CDATA[令人惊讶的地方的字节码虚拟机
-令人惊讶的是，字节码虚拟机不仅限于 JavaScript 或 Python 等通用编程语言。它们也可以在意想不到的地方找到，比如 Linux 内核内部的 eBPF 扩展机制。 eBPF 最初是为网络数据包过滤而设计的，现已发展成为带有 JIT 编译器的通用内核虚拟机。此外，字节码解释器还可以在 GDB 等调试工具中用于评估表达式，甚至可以在 WinRAR 等文件压缩实用程序中使用，其中使用称为 RarVM 的字节码编码来进行数据转换。这些非常规用途展示了字节码虚拟机技术的多功能性和灵活性。]]></description>
-      <guid>https://t.me/hn_summary/87168</guid>
-      <pubDate>Tue, 30 Apr 2024 14:36:40 GMT</pubDate>
+      <title>[媒体] 在 media.com 上这篇发人深省的文章中，作者深入探讨了 l [...]</title>
+      <link>https://t.me/hn_summary/87264</link>
+      <description><![CDATA[LLM作为n维空间中的n维对象
+在 medium.com 上这篇发人深省的文章中，作者深入探讨了语言模型的概念是 n 维空间中的 n 维对象。他们认为，语言模型，无论是基于符号的还是基于神经网络的，都可以表示为多维空间中的复杂对象。对提示的理解就像导航该对象的表面，通过微调和重新训练修改其拓扑。作者质疑仅语言模型是否足以进行认知和推理，这表明可能有必要进行更广泛的概括。这种独特的视角挑战了关于语言模型及其在人工智能中的作用的传统观点。]]></description>
+      <guid>https://t.me/hn_summary/87264</guid>
+      <pubDate>Tue, 30 Apr 2024 21:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Reddit 用户发现该平台充满了转发整个帖子的机器人 [...]</title>
-      <link>https://t.me/hn_summary/87167</link>
-      <description><![CDATA[Reddit 充满了机器人：帖子逐条评论转发，10 个月稍后
-Reddit 用户发现该平台充满了机器人，这些机器人会在几个月后逐条评论地重新发布整个帖子。这一消息在用户中引发了争议，他们担心网站上互动的真实性。一位用户甚至发现自己的评论在 10 个月后被重新发布，引发了人们对这些机器人的目的和影响的质疑。这一发现揭示了 Reddit 上自动化活动的普遍性以及对用户参与度和信任的潜在影响。这种机器人活动的程度令人惊讶，并引发了有关在线社区未来的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/87167</guid>
-      <pubDate>Tue, 30 Apr 2024 14:28:33 GMT</pubDate>
+      <title>[媒体]ASML 印刷了第一个 10nm [...]</title>
+      <link>https://t.me/hn_summary/87263</link>
+      <description><![CDATA[ASML 使用高数值孔径 EUV 工具对第一片晶圆进行图案化，出货量第二高-NA扫描仪
+ASML 使用其高数值孔径 EUV 原型系统印刷了首批 10 纳米图案，在光刻领域实现了一个重要里程碑。该公司还向一位未透露姓名的客户交付了第二套高数值孔径 EUV 系统。英特尔计划将这些工具用于自己的研发，并计划在 2026 年至 2027 年之前大规模生产采用英特尔 14A 技术的芯片。其他领先的芯片制造商也对高数值孔径 EUV 工具表现出兴趣，这些工具有望提供更精细的分辨率和更高的晶体管密度。业界正在密切关注ASML在这一尖端技术方面的进展。]]></description>
+      <guid>https://t.me/hn_summary/87263</guid>
+      <pubDate>Tue, 30 Apr 2024 21:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]总统哈维尔·米莱认为阿根廷月度通胀率将下降[...]</title>
-      <link>https://t.me/hn_summary/87166</link>
-      <description><![CDATA[米雷称阿根廷4月CPI将降至10%以下&lt; /a&gt;
-总统哈维尔·米莱认为，阿根廷4月份月通胀率将降至10%以下，表明政府政策有效。米莱在接受 LN+ 电话采访时表示，工资增长速度开始超过通胀率，这表明在对抗物价上涨的斗争中取得了进展。这种对国家经济形势的乐观前景是阿根廷未来稳定的积极信号。]]></description>
-      <guid>https://t.me/hn_summary/87166</guid>
-      <pubDate>Tue, 30 Apr 2024 14:26:29 GMT</pubDate>
+      <title>[媒体] Kubernetes 作为调度程序 vs.</title>
+      <link>https://t.me/hn_summary/87262</link>
+      <description><![CDATA[Kubernetes 作为调度程序与 API 代理&lt; br /&gt;
+Kubernetes 不再只是一个容器编排器；而是一个容器编排器。它现在面临管理云服务和数据库等外部资源的挑战。这种扩展带来了重大的安全挑战，需要转向零信任安全模型。传统的 RBAC 方法难以跨不同安全域映射权限，因此难以确保合规性和安全性。 Otterize 提供了一种解决方案，通过使用基于意图的访问控制 (IBAC) 自动化 IAM 策略，简化安全管理并确保持续合规性。通过将安全性视为代码并将其集成到开发生命周期中，Otterize 提供了一种可扩展且适应性强的方法来保护 Kubernetes 环境。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/87262</guid>
+      <pubDate>Tue, 30 Apr 2024 21:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]布鲁斯·佩伦斯 (Bruce Perens) 以开源工作而闻名，他正在尝试第三个“不可能”的任务 [...]</title>
-      <link>https://t.me/hn_summary/87165</link>
-      <description><![CDATA[Bruce Perens 试图实现第三件不可能的事情&lt; br /&gt;
-以开源工作而闻名的 Bruce Perens 正在通过开发开放后零成本许可证来尝试第三个“不可能”的壮举。该许可证旨在解决开源开发人员面临的财务挑战，确保他们的工作得到补偿。 Perens 认为，当前的开源许可已经产生了问题，导致像 HashiCorp 这样的公司放弃传统许可。 Post-Open 许可证要求每年从 Post-Open 软件赚取超过 500 万美元的公司支付其收入的 1% 来支持开发人员。佩伦斯承认面临的挑战，但对其新许可方法的潜在影响保持乐观。]]></description>
-      <guid>https://t.me/hn_summary/87165</guid>
-      <pubDate>Tue, 30 Apr 2024 14:25:25 GMT</pubDate>
+      <title>[媒体] 由于“网络安全事件”，加拿大西部的伦敦药店仍处于关闭状态 [...]</title>
+      <link>https://t.me/hn_summary/87261</link>
+      <description><![CDATA[网络安全事件导致 London Drugs 商店继续关闭&lt; br /&gt;
+由于“网络安全事件”，加拿大西部的伦敦药店仍然关闭，没有提供重新开业的时间表。该公司正在与网络安全专家合作调查数据泄露的程度。顾客仍然可以亲自获得紧急药房护理，但电话线路已中断。该事件突显了加拿大网络犯罪日益猖獗，专家强调了积极主动的网络安全措施的重要性。网络安全专家乔恩·弗格森表示，此次泄露可能涉及勒索软件或数据泄露，并强调公司和个人需要更新软件并使用双因素身份验证来防范此类攻击。]]></description>
+      <guid>https://t.me/hn_summary/87261</guid>
+      <pubDate>Tue, 30 Apr 2024 21:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>经过多年的无所作为，各州终于开始解决住房危机，因为缺乏负担 [...]</title>
-      <link>https://t.me/hn_summary/87164</link>
-      <description><![CDATA[经过几十年的无所作为，各州终于开始加强住房建设
-经过多年的无所作为，各州终于开始解决住房危机，因为缺乏经济适用房导致无家可归者不断增加。随着国会和拜登总统关注住房负担能力，俄勒冈州、佛罗里达州和加利福尼亚州等州正在更新分区法规并提高住房建设要求。然而，并非所有州级法案都同样有效，有些法案力度较弱，不太可能产生重大影响。实施和遵守是关键，因为反对者可能会在法庭上挑战新法律或寻找漏洞。专家表示，全州政策通过后，可能需要三到五年才能看到住房生产的真正变化。]]></description>
-      <guid>https://t.me/hn_summary/87164</guid>
-      <pubDate>Tue, 30 Apr 2024 14:11:15 GMT</pubDate>
+      <title>Rama 是一个强大的编程平台，展示了 Clojure 在革命方面的功能 [...]</title>
+      <link>https://t.me/hn_summary/87260</link>
+      <description><![CDATA[Rama 证明了 Clojure 的力量&lt; br /&gt;
+Rama 是一个强大的编程平台，展示了 Clojure 彻底改变后端开发的能力。 Rama 以新的编程语言和范例为核心，用最少的代码简化了端到端后端的创建。该平台强调不变性和数据结构导向，以及无缝混合范例的能力，使其与众不同。 Rama 与 Clojure 的集成可实现平滑的互操作性和高效的执行。虽然 Clojure 的原则已被证明可以简化软件开发，但 Rama 更进一步，解决了构建端到端后端的所有方面问题，使其成为行业游戏规则的改变者。加入 #rama 频道中有关 Clojure Slack 的讨论。]]></description>
+      <guid>https://t.me/hn_summary/87260</guid>
+      <pubDate>Tue, 30 Apr 2024 20:59:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]特斯拉首席执行官埃隆·马斯克 (Elon Musk) 出人意料地宣布裁员约 500 名员工 [...]</title>
-      <link>https://t.me/hn_summary/87163</link>
-      <description><![CDATA[特斯拉将解雇所有从事超级充电站和新车工作的人员
-特斯拉首席执行官埃隆·马斯克 (Elon Musk) 出人意料地宣布裁员约 500 名负责超级充电网络、新车开发和公共政策团队的员工。尽管该公司一度在电动汽车市场占据强势地位，但最近的季度业绩显示销售额和利润率不断萎缩。解雇关键高管及其团队（包括电动汽车充电总监）的决定引发了人们对特斯拉基础设施未来的质疑。马斯克对降低成本和员工人数的关注让许多人对公司的方向感到好奇，特别是当竞争对手开始在电动汽车市场迎头赶上时。]]></description>
-      <guid>https://t.me/hn_summary/87163</guid>
-      <pubDate>Tue, 30 Apr 2024 14:09:10 GMT</pubDate>
+      <title>在这项研究中，我们通过评估 [...]</title>
+      <link>https://t.me/hn_summary/87259</link>
+      <description><![CDATA[用陪审团取代法官：用模型小组评估 LLM 一代&lt; /a&gt;
+在这项研究中，我们通过使用一组模型评估不同代法律语言模型（LLM）的表现，探讨了在法律体系中用陪审团取代法官的想法。通过比较法学硕士做出法律判断的准确性和效率，我们的目的是确定它们是否可以有效替代人类法官。我们的研究结果表明，虽然法学硕士在某些领域表现出希望，但在实施此类系统之前必须考虑其能力的局限性。这个有争议的话题引发了有关技术在法律领域中的作用的重要问题。]]></description>
+      <guid>https://t.me/hn_summary/87259</guid>
+      <pubDate>Tue, 30 Apr 2024 20:58:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

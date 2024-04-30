@@ -4,11 +4,11 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 18:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:16:29 GMT</lastBuildDate>
     <item>
-      <title>使用人工智能减少网上仇恨言论</title>
+      <title>利用人工智能减少网络仇恨言论</title>
       <link>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</link>
-      <description><![CDATA[利用人工智能减少打击网络仇恨言论所带来的情感压力。
+      <description><![CDATA[利用人工智能来减少打击在线仇恨言论所造成的情感损失。
 ]]></description>
       <guid>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</guid>
       <pubDate>Tue, 30 Apr 2024 06:55:16 GMT</pubDate>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 30 Apr 2024 06:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学中最难的问题：居中</title>
+      <title>计算机科学中最难的问题：事物中心化</title>
       <link>https://tonsky.me/blog/centering/</link>
       <description><![CDATA[不知何故，我们忘记了如何使矩形居中，必须找到回来的路
 ]]></description>
@@ -32,7 +32,7 @@
     <item>
       <title>使用 React Three Fiber 构建交互式 3D 活动徽章</title>
       <link>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</link>
-      <description><![CDATA[查看完整的工作演示，了解我们如何使用 React Three Fiber 和 React- Three-rapier 构建交互式 Vercel Ship &#39;24 徽章。
+      <description><![CDATA[查看完整的工作演示，了解我们如何使用 React Three Fiber 和 React- Three-rapier 构建交互式 Vercel Ship ’24 徽章。
 ]]></description>
       <guid>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</guid>
       <pubDate>Tue, 30 Apr 2024 06:45:36 GMT</pubDate>
@@ -56,7 +56,7 @@
     <item>
       <title>双刃剑：人工智能在 UI/UX 设计中的伦理影响</title>
       <link>https://medium.com/@pepper_square/ai-in-ui-ux-design-14e5a8858d6f</link>
-      <description><![CDATA[UI/UX 设计对人工智能的影响并不陌生。
+      <description><![CDATA[UI/UX 设计对 AI 的影响并不陌生。
 ]]></description>
       <guid>https://medium.com/@pepper_square/ai-in-ui-ux-design-14e5a8858d6f</guid>
       <pubDate>Mon, 29 Apr 2024 06:37:02 GMT</pubDate>
@@ -78,9 +78,9 @@
       <pubDate>Mon, 29 Apr 2024 06:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>Airchat 炒作：但是等等，Clubhouse 发生了什么？</title>
+      <title>Airchat 的炒作：但是等等，Clubhouse 怎么了？</title>
       <link>https://uxdesign.cc/what-happened-to-clubhouse-%EF%B8%8F-35228a6bbca4</link>
-      <description><![CDATA[简要介绍一下曾经风靡一时的语音社交媒体应用 Clubhouse 的崛起、衰落和卷土重来。
+      <description><![CDATA[简要了解一度火爆的纯语音社交媒体应用程序 Clubhouse 的兴起、衰落和尝试卷土重来。
 ]]></description>
       <guid>https://uxdesign.cc/what-happened-to-clubhouse-%EF%B8%8F-35228a6bbca4</guid>
       <pubDate>Mon, 29 Apr 2024 06:16:07 GMT</pubDate>
@@ -88,7 +88,7 @@
     <item>
       <title>级联和特异性入门</title>
       <link>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</link>
-      <description><![CDATA[开发人员经常担心的问题是，如果您在编写 CSS 时使用正确的思维模型，级联和特异性实际上非常简单。
+      <description><![CDATA[开发人员常常担心，如果您在编写 CSS 时使用正确的思维模型，级联和特异性实际上非常简单。
 ]]></description>
       <guid>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</guid>
       <pubDate>Fri, 26 Apr 2024 12:40:33 GMT</pubDate>
