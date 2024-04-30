@@ -4,11 +4,91 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 06:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:17:21 GMT</lastBuildDate>
+    <item>
+      <title>使用人工智能减少网上仇恨言论</title>
+      <link>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</link>
+      <description><![CDATA[利用人工智能来减少打击在线仇恨言论所造成的情感损失。
+]]></description>
+      <guid>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</guid>
+      <pubDate>Tue, 30 Apr 2024 06:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>排版主管做什么的？</title>
+      <link>https://adobe.design/stories/our-people/what-does-a-head-of-typography-do-tim-brown</link>
+      <description><![CDATA[蒂姆·布朗讨论了排版的工艺和实践，以及推动字体走向未来的愿景。
+]]></description>
+      <guid>https://adobe.design/stories/our-people/what-does-a-head-of-typography-do-tim-brown</guid>
+      <pubDate>Tue, 30 Apr 2024 06:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机科学中最难的问题：居中</title>
+      <link>https://tonsky.me/blog/centering/</link>
+      <description><![CDATA[不知何故，我们忘记了如何使矩形居中，必须找到回来的路
+]]></description>
+      <guid>https://tonsky.me/blog/centering/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React Three Fiber 构建交互式 3D 活动徽章</title>
+      <link>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</link>
+      <description><![CDATA[查看完整的工作演示，了解我们如何使用 React Three Fiber 和 React- Three-rapier 构建交互式 Vercel Ship &#39;24 徽章。
+]]></description>
+      <guid>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</guid>
+      <pubDate>Tue, 30 Apr 2024 06:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>交替样式查询</title>
+      <link>https://kizu.dev/alternating-style-queries/</link>
+      <description><![CDATA[随着容器样式查询的出现，现在是对其进行更多实验的好时机。
+]]></description>
+      <guid>https://kizu.dev/alternating-style-queries/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测 CSS 中的 JavaScript 支持</title>
+      <link>https://ryanmulligan.dev/blog/detect-js-support-in-css/</link>
+      <description><![CDATA[我已经意识到脚本 CSS 媒体功能，但我仍然认为缺乏跨浏览器支持。
+]]></description>
+      <guid>https://ryanmulligan.dev/blog/detect-js-support-in-css/</guid>
+      <pubDate>Mon, 29 Apr 2024 06:38:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>双刃剑：人工智能在 UI/UX 设计中的伦理影响</title>
+      <link>https://medium.com/@pepper_square/ai-in-ui-ux-design-14e5a8858d6f</link>
+      <description><![CDATA[UI/UX 设计对人工智能的影响并不陌生。
+]]></description>
+      <guid>https://medium.com/@pepper_square/ai-in-ui-ux-design-14e5a8858d6f</guid>
+      <pubDate>Mon, 29 Apr 2024 06:37:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计似曾相识</title>
+      <link>https://stuffandnonsense.co.uk/blog/design-deja-vu</link>
+      <description><![CDATA[在设计的时候，我有一种似曾相识的感觉，我以前也做过这样的布局。
+]]></description>
+      <guid>https://stuffandnonsense.co.uk/blog/design-deja-vu</guid>
+      <pubDate>Mon, 29 Apr 2024 06:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码的性质</title>
+      <link>https://natureofcode.com/</link>
+      <description><![CDATA[Daniel Shiffman 的关于使用 JavaScript 模拟自然系统的书的新版本，可在线免费获取。 
+]]></description>
+      <guid>https://natureofcode.com/</guid>
+      <pubDate>Mon, 29 Apr 2024 06:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Airchat 炒作：但是等等，Clubhouse 发生了什么？</title>
+      <link>https://uxdesign.cc/what-happened-to-clubhouse-%EF%B8%8F-35228a6bbca4</link>
+      <description><![CDATA[简要了解一度火爆的纯语音社交媒体应用程序 Clubhouse 的兴起、衰落和尝试卷土重来。
+]]></description>
+      <guid>https://uxdesign.cc/what-happened-to-clubhouse-%EF%B8%8F-35228a6bbca4</guid>
+      <pubDate>Mon, 29 Apr 2024 06:16:07 GMT</pubDate>
+    </item>
     <item>
       <title>级联和特异性入门</title>
       <link>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</link>
-      <description><![CDATA[开发人员常常担心级联和特殊性，但如果在编写 CSS 时使用正确的思维模型，它们实际上非常简单。
+      <description><![CDATA[开发人员经常担心的问题是，如果您在编写 CSS 时使用正确的思维模型，级联和特异性实际上非常简单。
 ]]></description>
       <guid>https://piccalil.li/blog/a-primer-on-the-cascade-and-specificity</guid>
       <pubDate>Fri, 26 Apr 2024 12:40:33 GMT</pubDate>
@@ -44,86 +124,6 @@
 ]]></description>
       <guid>https://pudding.cool/projects/flipbook/</guid>
       <pubDate>Fri, 26 Apr 2024 11:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>副车架</title>
-      <link>https://www.subframe.com/</link>
-      <description><![CDATA[Subframe 是一种从设计到代码的工具，可让您在几分钟内构建令人惊叹的 UI。
-]]></description>
-      <guid>https://www.subframe.com/</guid>
-      <pubDate>Thu, 25 Apr 2024 05:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 属性与 DOM 属性</title>
-      <link>https://jakearchibald.com/2024/attributes-vs-properties/</link>
-      <description><![CDATA[它们完全不同，但经常耦合。
-]]></description>
-      <guid>https://jakearchibald.com/2024/attributes-vs-properties/</guid>
-      <pubDate>Thu, 25 Apr 2024 04:53:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年前端开发人员/工程师手册</title>
-      <link>https://frontendmasters.com/guides/front-end-handbook/2024/</link>
-      <description><![CDATA[2024年前端职业概述。
-]]></description>
-      <guid>https://frontendmasters.com/guides/front-end-handbook/2024/</guid>
-      <pubDate>Thu, 25 Apr 2024 04:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 中可能破坏宽高比的因素</title>
-      <link>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</link>
-      <description><![CDATA[CSS 具有宽高比属性，自 2021 年左右以来已得到全面支持。
-]]></description>
-      <guid>https://frontendmasters.com/blog/things-that-can-break-aspect-ratio-in-css/</guid>
-      <pubDate>Thu, 25 Apr 2024 04:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年影响 GenAI 市场的主要趋势和预测</title>
-      <link>https://journal.everypixel.com/genai-market-trends</link>
-      <description><![CDATA[探索塑造人工智能行业的主要趋势，重点关注版权法、许可以及内容创作中生成式人工智能的道德使用。
-]]></description>
-      <guid>https://journal.everypixel.com/genai-market-trends</guid>
-      <pubDate>Thu, 25 Apr 2024 04:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 Ritmo，Musixmatch 的跨平台设计系统</title>
-      <link>https://medium.com/musixmatch-blog/meet-ritmo-musixmatch-cross-platform-design-system-9f6296c5ed81</link>
-      <description><![CDATA[当 Musixmatch 最初踏上音乐和科技行业之旅时，它主要将自己定位为音乐播放器。
-]]></description>
-      <guid>https://medium.com/musixmatch-blog/meet-ritmo-musixmatch-cross-platform-design-system-9f6296c5ed81</guid>
-      <pubDate>Wed, 24 Apr 2024 07:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>一生的改变</title>
-      <link>https://the-tardigrade.com/projects/climate-future/</link>
-      <description><![CDATA[让子孙后代对更美好的地球抱有希望。
-]]></description>
-      <guid>https://the-tardigrade.com/projects/climate-future/</guid>
-      <pubDate>Wed, 24 Apr 2024 07:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为你的字体选择完美的图标</title>
-      <link>https://blog.streamlinehq.com/choosing-the-perfect-icons-for-your-typeface/</link>
-      <description><![CDATA[关于如何配对图标和字体以创建一致的视觉语言的简单指南。
-]]></description>
-      <guid>https://blog.streamlinehq.com/choosing-the-perfect-icons-for-your-typeface/</guid>
-      <pubDate>Wed, 24 Apr 2024 07:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击轮 JS</title>
-      <link>https://www.clickwheeljs.com/</link>
-      <description><![CDATA[使用此 JavaScript 库将 Ipod 滚轮添加到任何网站。
-]]></description>
-      <guid>https://www.clickwheeljs.com/</guid>
-      <pubDate>Wed, 24 Apr 2024 07:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果对 CarPlay 的冒险押注</title>
-      <link>https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/</link>
-      <description><![CDATA[随着苹果汽车项目的取消，苹果对 CarPlay 的战略是什么以及汽车制造商如何应对？
-]]></description>
-      <guid>https://www.theturnsignalblog.com/apples-risky-bet-on-carplay/</guid>
-      <pubDate>Wed, 24 Apr 2024 07:18:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
