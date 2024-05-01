@@ -4,11 +4,18 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 01 May 2024 12:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:15:49 GMT</lastBuildDate>
+    <item>
+      <title>2024 年迄今为止我们读过的最佳书籍</title>
+      <link>https://www.newyorker.com/best-books-2024</link>
+      <description><![CDATA[我们的编辑和评论家评论著名的新小说、非小说和诗歌。]]></description>
+      <guid>https://www.newyorker.com/best-books-2024</guid>
+      <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>工作很糟糕。什么可以挽救它？</title>
       <link>https://www.newyorker.com/books/under-review/work-sucks-what-could-salvage-it</link>
-      <description><![CDATA[新书探讨了我们生活中的工作场所，以及历史上人们如何试图改变它。]]></description>
+      <description><![CDATA[新书探讨了工作在我们生活中的地位以及历史上人们如何尝试改变它。]]></description>
       <guid>https://www.newyorker.com/books/under-review/work-sucks-what-could-salvage-it</guid>
       <pubDate>Wed, 01 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>海伦·文德勒的慷慨胸怀</title>
       <link>https://www.newyorker.com/culture/postscript/helen-vendlers-generous-mind</link>
-      <description><![CDATA[这位教授兼评论家将因其杰出的著作而被人们铭记，但教学才是她才华的体现。]]></description>
+      <description><![CDATA[这位教授和评论家将因其精彩的著作而被人们铭记，但教学使她的天才脱颖而出。]]></description>
       <guid>https://www.newyorker.com/culture/postscript/helen-vendlers-generous-mind</guid>
       <pubDate>Tue, 30 Apr 2024 15:53:26 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 30 Apr 2024 15:14:53 GMT</pubDate>
     </item>
     <item>
-      <title>我这个中年妇女开会迟到的原因</title>
+      <title>我，一个中年女人，迟到的原因</title>
       <link>https://www.newyorker.com/humor/shouts-murmurs/reasons-why-i-a-middle-aged-woman-am-late-to-this-meeting</link>
       <description><![CDATA[我忘记了时间的流逝，沉思着我辜负了孩子们的种种方式。]]></description>
       <guid>https://www.newyorker.com/humor/shouts-murmurs/reasons-why-i-a-middle-aged-woman-am-late-to-this-meeting</guid>
@@ -83,14 +90,14 @@
       <pubDate>Mon, 29 Apr 2024 14:43:37 GMT</pubDate>
     </item>
     <item>
-      <title>费丝·林戈尔德的《桑尼之桥，1986》</title>
+      <title>菲斯·林戈尔德的《桑尼桥，1986》</title>
       <link>https://www.newyorker.com/culture/cover-story/cover-story-2024-05-06</link>
       <description><![CDATA[这位已故艺术家的作品通过生动、富有创意的设计让人回想起她的开拓精神。]]></description>
       <guid>https://www.newyorker.com/culture/cover-story/cover-story-2024-05-06</guid>
       <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何扮演普京</title>
+      <title>如何玩转普京</title>
       <link>https://www.newyorker.com/magazine/2024/05/06/how-to-play-putin</link>
       <description><![CDATA[讲述俄罗斯总统崛起故事的戏剧《爱国者》的主演威尔·基恩和迈克尔·斯图巴研究了普京如何打乒乓球以及他的手为何颤抖。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/06/how-to-play-putin</guid>
@@ -101,13 +108,6 @@
       <link>https://www.newyorker.com/magazine/2024/05/06/breaking-a-ramadan-fast-with-ramy-youssef</link>
       <description><![CDATA[一群富有创造力的人——大卫·伯恩、辛西娅·尼克松、黛布拉·温格——聚集在布什威克，庆祝一场奢华的桥梁开斋节。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/06/breaking-a-ramadan-fast-with-ramy-youssef</guid>
-      <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>简要的书评</title>
-      <link>https://www.newyorker.com/magazine/2024/05/06/knife-a-travel-guide-to-the-middle-ages-neighbors-and-other-stories-and-butter</link>
-      <description><![CDATA[《刀》、《中世纪旅行指南》、《邻居和其他故事》和《黄油》。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/05/06/knife-a-travel-guide-to-the-middle-ages-neighbors-and-other-stories-and-butter</guid>
       <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>

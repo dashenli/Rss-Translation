@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>壁纸 RSS 订阅</title>
+    <title>壁纸 RSS 源</title>
     <link>https://www.wallpaper.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 12:24:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:13:21 GMT</lastBuildDate>
+    <item>
+      <title>多米诺广场：布鲁克林的彩虹色摩天大楼是安娜贝尔·赛尔多夫 (Annabelle Selldorf) 的第一座大楼</title>
+      <link>https://www.wallpaper.com/architecture/residential/one-domino-square-annabelle-selldorf-brooklyn-new-york-usa</link>
+      <description><![CDATA[我们采访了纽约建筑师安娜贝尔·塞尔多夫 (Annabelle Selldorf)，她在威廉斯堡的多米诺广场上建造了她的第一座住宅摩天大楼，公寓现已上市]]></description>
+      <guid>https://www.wallpaper.com/architecture/residential/one-domino-square-annabelle-selldorf-brooklyn-new-york-usa</guid>
+      <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ginspiration：美味的优质杜松子酒，只是滋补品</title>
+      <link>https://www.wallpaper.com/entertaining/food-drink/best-premium-gin</link>
+      <description><![CDATA[饮料专家尼尔·里德利 (Neil Ridley) 探索目前酒吧后面的植物富矿，了解优质杜松子酒品牌]]></description>
+      <guid>https://www.wallpaper.com/entertaining/food-drink/best-premium-gin</guid>
+      <pubDate>Wed, 01 May 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Jaipur Rugs 推出与 Chanel 纱线制造商 Vimar 的合作1991</title>
       <link>https://www.wallpaper.com/design-interiors/jaipur-rugs-vimar1991-milan-design-week</link>
@@ -20,14 +34,14 @@
       <pubDate>Wed, 01 May 2024 10:20:54 GMT</pubDate>
     </item>
     <item>
-      <title>Studio Lenca 在马盖特以缤纷色彩向萨尔瓦多传统致敬</title>
+      <title>Studio Lenca 在马盖特以缤纷色彩向萨尔瓦多文化传统致敬</title>
       <link>https://www.wallpaper.com/art/exhibitions-shows/studio-lenca-leave-to-remain-margate</link>
       <description><![CDATA[伦卡工作室考虑马盖特卡尔弗里德曼画廊“离开以留下”的界限]]></description>
       <guid>https://www.wallpaper.com/art/exhibitions-shows/studio-lenca-leave-to-remain-margate</guid>
       <pubDate>Wed, 01 May 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>安缦小屋快闪店开业，着眼于可持续发展</title>
+      <title>安缦度假小屋快闪店开业，着眼于可持续发展</title>
       <link>https://www.wallpaper.com/travel/hotels/aman-cabana-pop-up-shop-luxury-frontiers</link>
       <description><![CDATA[与 Luxury Frontiers 合作，在泰国普吉岛安缦普瑞 (Amanpuri) 开设全新安缦小屋快闪店，该店即将在其他地方推出]]></description>
       <guid>https://www.wallpaper.com/travel/hotels/aman-cabana-pop-up-shop-luxury-frontiers</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>这个新的当代油漆品牌是天才的（画笔）一笔</title>
       <link>https://www.wallpaper.com/design-interiors/bleo-collective-new-paint-collection</link>
-      <description><![CDATA[Blēo 调色板是您墙面涂料设计理念的答案，因为新的斯堪的纳维亚涂料品牌与当今的设计梦想家合作，包括 Sabine Marcelis、Ronan Bouroullec、Muller Van Severen 等]]></description>
+      <description><![CDATA[Blēo 调色板是您墙壁涂料设计理念的答案，因为新的斯堪的纳维亚涂料品牌与当今的设计梦想家合作，包括 Sabine Marcelis、Ronan Bouroullec、Muller Van Severen 等]]></description>
       <guid>https://www.wallpaper.com/design-interiors/bleo-collective-new-paint-collection</guid>
       <pubDate>Wed, 01 May 2024 06:00:53 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>威尼斯新 Vincenzo De Cotiis 基金会以光线和历史为指导</title>
       <link>https://www.wallpaper.com/design-interiors/vincenzo-de-cotiis-foundation-venice</link>
-      <description><![CDATA[威尼斯 Vincenzo De Cotiis 基金会开幕，捕捉意大利设计师当代故事的精髓]]></description>
+      <description><![CDATA[Vincenzo De Cotiis 基金会在威尼斯开业，捕捉意大利设计师当代故事讲述的精髓]]></description>
       <guid>https://www.wallpaper.com/design-interiors/vincenzo-de-cotiis-foundation-venice</guid>
       <pubDate>Wed, 01 May 2024 04:00:20 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[马雷克·赖克曼 (Marek Reichman) 谈论阿斯顿·马丁 (Aston Martin) 打造的迈阿密新住宅，这是该品牌的新设计展示品]]></description>
       <guid>https://www.wallpaper.com/architecture/residential/aston-martin-miami-residences-tower-usa</guid>
       <pubDate>Tue, 30 Apr 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>完善您的耳朵护理：专家的穿耳技巧</title>
-      <link>https://www.wallpaper.com/watches-jewellery/expert-piercing-tips-and-where-to-get-pierced</link>
-      <description><![CDATA[高级珠宝品牌专家提供的穿孔提示，包括在耳朵的哪个位置穿孔]]></description>
-      <guid>https://www.wallpaper.com/watches-jewellery/expert-piercing-tips-and-where-to-get-pierced</guid>
-      <pubDate>Tue, 30 Apr 2024 16:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 游戏开发商 Rare 的新办公室低碳且时尚</title>
-      <link>https://www.wallpaper.com/architecture/xbox-game-developer-rare-office-rkd-architects-uk</link>
-      <description><![CDATA[Barn X 是游戏开发商 Rare 团队的新中心，旨在使微软子公司成为地球上最环保的游戏制造商]]></description>
-      <guid>https://www.wallpaper.com/architecture/xbox-game-developer-rare-office-rkd-architects-uk</guid>
-      <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

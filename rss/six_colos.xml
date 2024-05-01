@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:57:40 GMT</lastBuildDate>
+    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
+    <lastBuildDate>Wed, 01 May 2024 15:14:38 GMT</lastBuildDate>
+    <item>
+      <title>新款 iPad Pro 即将夺得平板电脑桂冠（以及你的钱）（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2319895/ipad-pro-let-loose-event-oled-display-processor-accessories.html</link>
+      <description><![CDATA[iPad，还记得吗？苹果公司发布新款平板电脑已经有一分钟了（准确地说，大约是 807,690 分钟），但所有迹象都表明，全新型号产品将作为下周 5 月 7 日苹果主题演讲的一部分推出。…]]></description>
+      <guid>https://www.macworld.com/article/2319895/ipad-pro-let-loose-event-oled-display-processor-accessories.html</guid>
+      <pubDate>Wed, 01 May 2024 13:35:21 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 510：杰森很酷 GOTO 10</title>
       <link>https://sixcolors.com/podcast/2024/04/upgrade-510-jason-is-cool-goto-10/</link>
@@ -21,7 +28,7 @@
       <pubDate>Mon, 29 Apr 2024 18:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>iPad 加入 iPhone 的 DMA 领域 ↦</title>
+      <title>iPad 加入 iPhone 的 DMA 行列 ↦</title>
       <link>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</link>
       <description><![CDATA[The Verge 的 Jess Weatherbed：
 &lt;块引用&gt;
@@ -61,7 +68,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
     <item>
       <title>罗技以某种方式将鼠标软件推向新低 ↦</title>
       <link>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</link>
-      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的精彩故事：
+      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的故事：
 &lt;块引用&gt;
   我不知道我多么不希望我的鼠标软件包含与 ChatGPT 相关的功能……更不用说带有内置按钮来启动提示的鼠标了。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</guid>
@@ -108,19 +115,12 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <pubDate>Fri, 19 Apr 2024 21:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>一切都需要成为广告吗？</title>
+      <title>一切都必须是广告吗？</title>
       <link>https://sixcolors.com/post/2024/04/does-everything-need-to-be-an-ad/</link>
       <description><![CDATA[就像 Apple 的 Aerial 屏幕保护程序一样雄伟，不是吗？
 越来越多的大型科技公司争夺我们眼前的每一个像素，这些公司试图从广告和促销中榨取几分钱。…]]></description>
       <guid>https://sixcolors.com/post/2024/04/does-everything-need-to-be-an-ad/</guid>
       <pubDate>Thu, 18 Apr 2024 21:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 67：派拉蒙、孔雀、豆荚中的豌豆</title>
-      <link>https://sixcolors.com/podcast/2024/04/downstream-67-paramount-peacock-peas-in-a-pod/</link>
-      <description><![CDATA[流媒体战争是否即将进入最后阶段？我们讨论了 Peacock 和 Paramount+ 的命运，并考虑了一年后 Max 改名后的情况。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/04/downstream-67-paramount-peacock-peas-in-a-pod/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
