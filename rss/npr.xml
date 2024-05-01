@@ -3,8 +3,36 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Wed, 01 May 2024 15:12:40 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Wed, 01 May 2024 18:16:34 GMT</lastBuildDate>
+    <item>
+      <title>美联储维持利率在23年高位</title>
+      <link>https://npr.org/2024/05/01/1248454950/federal-reserve-inflation-interest-rates</link>
+      <description><![CDATA[美联储周三维持利率不变，因通胀仍顽固地高于美联储 2% 的目标。投资者现在认为利率可能要到九月或更晚才会开始下降。]]></description>
+      <guid>https://npr.org/2024/05/01/1248454950/federal-reserve-inflation-interest-rates</guid>
+      <pubDate>Wed, 01 May 2024 18:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登为 317,000 名艺术学院学生免除超过 60 亿美元的贷款</title>
+      <link>https://npr.org/2024/05/01/1248473475/art-institutes-student-loan-forgiveness-debt-relief</link>
+      <description><![CDATA[拜登总统宣布为现已关闭的艺术学校的学生提供救济，称他们“伪造数据，故意误导学生，并欺骗借款人承担巨额债务。”]]></description>
+      <guid>https://npr.org/2024/05/01/1248473475/art-institutes-student-loan-forgiveness-debt-relief</guid>
+      <pubDate>Wed, 01 May 2024 16:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国各地针对以色列加沙战争的抗议活动升级，加州大学洛杉矶分校爆发暴力事件</title>
+      <link>https://npr.org/2024/05/01/1248433624/protests-campus-ucla-universities-israel-gaza-palestinians</link>
+      <description><![CDATA[洛杉矶亲巴勒斯坦和亲以色列团体的成员发生冲突，有报道称有人使用烟花和胡椒喷雾。在其他地方，大学正在拆除营地并逮捕学生。]]></description>
+      <guid>https://npr.org/2024/05/01/1248433624/protests-campus-ucla-universities-israel-gaza-palestinians</guid>
+      <pubDate>Wed, 01 May 2024 16:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特召回 Maverick 皮卡，因为尾灯可能会变暗，增加撞车风险</title>
+      <link>https://npr.org/2024/05/01/1248461353/ford-recall-maverick-pickups-tail-lights-crash-risk</link>
+      <description><![CDATA[福特正在美国召回近 243,000 辆 Maverick 小型皮卡，因为尾灯可能无法点亮。此次召回涉及 2022 年至 2024 年车型的某些皮卡。]]></description>
+      <guid>https://npr.org/2024/05/01/1248461353/ford-recall-maverick-pickups-tail-lights-crash-risk</guid>
+      <pubDate>Wed, 01 May 2024 15:36:36 GMT</pubDate>
+    </item>
     <item>
       <title>梅杰·泰勒·格林计划下周投票罢免众议院议长约翰逊</title>
       <link>https://npr.org/2024/05/01/1248433401/marjorie-taylor-greene-motion-to-vacate-house-speaker-mike-johnson</link>
@@ -20,9 +48,9 @@
       <pubDate>Wed, 01 May 2024 13:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>哦亲爱的！婴儿用品！为什么说明书这么不清楚？</title>
+      <title>哦天哪！婴儿用品！为什么说明书这么不清楚？</title>
       <link>https://npr.org/sections/health-shots/2024/05/01/1248245258/baby-gear-instruction-manuals-how-to</link>
-      <description><![CDATA[当然，新手父母都是一群焦虑的人。但旨在保证婴儿安全和健康的设备的使用手册令人望而生畏，并加剧了焦虑。为什么他们如此混乱？]]></description>
+      <description><![CDATA[当然，新手父母们都很焦虑。但那些用于保护婴儿安全和健康的设备的说明书却让人望而生畏，增加了他们的焦虑。为什么说明书这么让人困惑呢？]]></description>
       <guid>https://npr.org/sections/health-shots/2024/05/01/1248245258/baby-gear-instruction-manuals-how-to</guid>
       <pubDate>Wed, 01 May 2024 13:01:03 GMT</pubDate>
     </item>
@@ -34,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 12:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>什么是“集体生活”？它适合我吗？</title>
+      <title>什么是“共同生活”？它适合我吗？</title>
       <link>https://npr.org/2024/05/01/1248216390/what-is-communal-living-and-is-it-right-for-me</link>
       <description><![CDATA[住在合作公寓、公社、团体住宅和“有意社区”的人们分享了四个问题，在迈出这一步之前，你应该问自己。]]></description>
       <guid>https://npr.org/2024/05/01/1248216390/what-is-communal-living-and-is-it-right-for-me</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[许多联邦法官获得免费房间和前往豪华度假村参加法律会议的旅行补贴。 NPR 发现，数十名法官没有完全披露他们获得的福利。]]></description>
       <guid>https://npr.org/2024/05/01/1247512187/federal-judges-disclosures-luxury-trips</guid>
       <pubDate>Wed, 01 May 2024 09:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些教职员工如何通过行动和言语捍卫学生抗议者</title>
-      <link>https://npr.org/2024/05/01/1248099600/campus-protests-faculty-arrests-letters-no-confidence-votes</link>
-      <description><![CDATA[席卷大学校园的抗议活动不仅仅涉及学生。教授们越来越多地抵制他们认为侵犯学生言论自由权的大学管理部门。]]></description>
-      <guid>https://npr.org/2024/05/01/1248099600/campus-protests-faculty-arrests-letters-no-confidence-votes</guid>
-      <pubDate>Wed, 01 May 2024 09:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于许多密苏里州天主教徒来说，堕胎权意味着在信仰和政治之间做出选择</title>
-      <link>https://npr.org/2024/05/01/1247845799/missouri-catholics-abortion-church-ballot-measure-vote</link>
-      <description><![CDATA[该州将成为十一月堕胎权的重要战场。研究表明，大多数美国天主教徒支持堕胎权——尽管教会领导层并不支持。]]></description>
-      <guid>https://npr.org/2024/05/01/1247845799/missouri-catholics-abortion-church-ballot-measure-vote</guid>
-      <pubDate>Wed, 01 May 2024 09:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州为期六周的堕胎禁令现已生效，限制了整个南方的堕胎禁令</title>
-      <link>https://npr.org/2024/05/01/1247990353/florida-6-week-abortion-ban-south</link>
-      <description><![CDATA[佛罗里达州一直是南方堕胎的主要入口。现在，该地区的居民以及该地区的数千人在怀孕六周后将不得不到其他地方寻求堕胎护理。]]></description>
-      <guid>https://npr.org/2024/05/01/1247990353/florida-6-week-abortion-ban-south</guid>
-      <pubDate>Wed, 01 May 2024 09:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>基督教保守派努力应对共和党对亚利桑那州堕胎禁令立场的转变</title>
-      <link>https://npr.org/2024/05/01/1248273158/christian-conservatives-wrestle-trump-kari-lake-arizona-abortion-ban</link>
-      <description><![CDATA[在前总统唐纳德·特朗普和亚利桑那州共和党参议员候选人卡里·莱克与该法律保持距离后，一些堕胎权反对者不知道他们可以依靠谁。]]></description>
-      <guid>https://npr.org/2024/05/01/1248273158/christian-conservatives-wrestle-trump-kari-lake-arizona-abortion-ban</guid>
-      <pubDate>Wed, 01 May 2024 09:00:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
