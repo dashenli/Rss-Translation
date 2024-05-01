@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 18:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:13:09 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
@@ -48,21 +48,35 @@
       <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 版 Arc</title>
-      <link>https://www.producthunt.com/posts/arc-for-windows</link>
+      <title>排序</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
       <description><![CDATA[
-            您一直在等待的 Chrome 替代品
+            即时 AI SEO 关键词研究生成器
           
 
 讨论
             |
             链接
 ]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 01:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 版圆弧</title>
+      <link>https://www.producthunt.com/posts/arc-for-windows</link>
+      <description><![CDATA[
+您期待已久的 Chrome 替代品
+
+
+讨论
+|
+链接
+]]></description>
       <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
       <pubDate>Tue, 30 Apr 2024 19:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>Sprig 反馈</title>
+      <title>小枝反馈</title>
       <link>https://www.producthunt.com/posts/sprig-feedback</link>
       <description><![CDATA[
             在您的产品或网站中捕获持续反馈
@@ -132,20 +146,6 @@
       <pubDate>Tue, 30 Apr 2024 08:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>燕尾频道</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[
-            将用户反馈转化为实时见解
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Tue, 30 Apr 2024 05:11:25 GMT</pubDate>
-    </item>
-    <item>
       <title>马厩钱</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[
@@ -188,7 +188,7 @@
       <pubDate>Mon, 22 Apr 2024 20:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>Loom 人工智能工作流程</title>
+      <title>Loom AI 工作流程</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[
             只需点击一下即可将任何 Loom 视频转换为可共享的文档

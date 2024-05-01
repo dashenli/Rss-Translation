@@ -3,8 +3,22 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 01 May 2024 15:14:38 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 01 May 2024 21:14:03 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 552：剧透：始终是 DNS</title>
+      <link>https://sixcolors.com/podcast/2024/05/clockwise-552-spoiler-its-always-dns/</link>
+      <description><![CDATA[我们希望 Apple 如何实施 GenAI、我们的家庭网络故障排除流程、我们当前使用的 iPad 型号以及哪些功能会促使升级，以及我们对帐户登录集中化的看法（例如 Apple 和 Google 的观点） .…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/clockwise-552-spoiler-its-always-dns/</guid>
+      <pubDate>Wed, 01 May 2024 19:23:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 493：马克·古尔曼蜜罐</title>
+      <link>https://sixcolors.com/podcast/2024/05/the-rebound-493-mark-gurman-honeypot/</link>
+      <description><![CDATA[Dan 回来讨论我们的 iPad 活动预测、Lex 游戏的最新动态以及 Moltz 规避 iCloud 注销问题的怪异技巧。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-493-mark-gurman-honeypot/</guid>
+      <pubDate>Wed, 01 May 2024 18:23:44 GMT</pubDate>
+    </item>
     <item>
       <title>新款 iPad Pro 即将夺得平板电脑桂冠（以及你的钱）（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2319895/ipad-pro-let-loose-event-oled-display-processor-accessories.html</link>
@@ -28,7 +42,7 @@
       <pubDate>Mon, 29 Apr 2024 18:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>iPad 加入 iPhone 的 DMA 行列 ↦</title>
+      <title>iPad 与 iPhone 一起进军 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</link>
       <description><![CDATA[The Verge 的 Jess Weatherbed：
 &lt;块引用&gt;
@@ -68,7 +82,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
     <item>
       <title>罗技以某种方式将鼠标软件推向新低 ↦</title>
       <link>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</link>
-      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的故事：
+      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的精彩故事：
 &lt;块引用&gt;
   我不知道我多么不希望我的鼠标软件包含与 ChatGPT 相关的功能……更不用说带有内置按钮来启动提示的鼠标了。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</guid>
@@ -84,7 +98,7 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
       <pubDate>Mon, 22 Apr 2024 22:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>作者兼 Mac 管理员 Charles Edge 去世 ↦</title>
+      <title>作者兼 Mac 管理员 Charles Edge 已去世 ↦</title>
       <link>https://sixcolors.com/link/2024/04/author-and-mac-admin-charles-edge-has-died/</link>
       <description><![CDATA[今天早上我刚刚得到消息，查尔斯·埃奇 (Charles Edge) 去世了，他在企业报告卡中帮助推动了苹果公司的发展，并积极参与了我上周发布的今年版本的报告。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/author-and-mac-admin-charles-edge-has-died/</guid>
@@ -105,22 +119,6 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
 然后下载Magic Lasso Adblock – 专为您设计的广告拦截器。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/04/magic-lasso-adblock-youtube-ad-blocker-for-safari-14/</guid>
       <pubDate>Mon, 22 Apr 2024 18:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>评测：Zoom H6essential 言出必行</title>
-      <link>https://sixcolors.com/post/2024/04/review-zoom-h6essential-talks-the-talk-and-walks-the-walk/</link>
-      <description><![CDATA[
-我使用 Zoom 录音机很多年了，包括几年前我在这里写过的 Podtrac P4。我在背包中携带 Zoom H4n Pro 进行无线电现场工作。…]]></description>
-      <guid>https://sixcolors.com/post/2024/04/review-zoom-h6essential-talks-the-talk-and-walks-the-walk/</guid>
-      <pubDate>Fri, 19 Apr 2024 21:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切都必须是广告吗？</title>
-      <link>https://sixcolors.com/post/2024/04/does-everything-need-to-be-an-ad/</link>
-      <description><![CDATA[就像 Apple 的 Aerial 屏幕保护程序一样雄伟，不是吗？
-越来越多的大型科技公司争夺我们眼前的每一个像素，这些公司试图从广告和促销中榨取几分钱。…]]></description>
-      <guid>https://sixcolors.com/post/2024/04/does-everything-need-to-be-an-ad/</guid>
-      <pubDate>Thu, 18 Apr 2024 21:42:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>可混搭</title>
+    <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
 创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
 媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
 在旧金山设有办事处。</description>
-    <lastBuildDate>Wed, 01 May 2024 17:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 20:27:49 GMT</lastBuildDate>
+    <item>
+      <title>《无霜》的演员们选择了他们的终极早餐阵容</title>
+      <link>https://mashable.com/video/unfrosted-christian-slater-max-greenfield-sarah-cooper</link>
+      <description><![CDATA[Mashable 监制马克·斯泰森 (Mark Stetson) 加入《Unfrosted》演员阵容，参与一场“选择你的小队”游戏。]]></description>
+      <guid>https://mashable.com/video/unfrosted-christian-slater-max-greenfield-sarah-cooper</guid>
+      <pubDate>Wed, 01 May 2024 19:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>夏季电影预览：你应该知道的每部电影</title>
+      <link>https://mashable.com/article/summer-movie-preview-2024</link>
+      <description><![CDATA[查看我们的 2024 年夏季最佳电影日历 - 以及观看时间。]]></description>
+      <guid>https://mashable.com/article/summer-movie-preview-2024</guid>
+      <pubDate>Wed, 01 May 2024 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 的 ChatGPT 竞争对手 Claude 现已在 iOS 上推出</title>
+      <link>https://mashable.com/article/anthropic-chatgpt-rival-claude-now-available-on-ios</link>
+      <description><![CDATA[Anthropic 宣布为 Claude 推出免费 iOS 应用程序。以下是它与竞争对手 ChatGPT 的比较]]></description>
+      <guid>https://mashable.com/article/anthropic-chatgpt-rival-claude-now-available-on-ios</guid>
+      <pubDate>Wed, 01 May 2024 18:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>三星 Galaxy Tab S6 Lite 立减 80 美元，在可靠的平板电脑上工作和娱乐</title>
       <link>https://mashable.com/article/may-1-samsung-galaxy-tab-s6-lite-deal</link>
-      <description><![CDATA[三星 Galaxy Tab S6 Lite 在亚马逊的售价为 249.99 美元，低于平时的 329.99 美元。这是 24% 的折扣。]]></description>
+      <description><![CDATA[三星 Galaxy Tab S6 Lite 在亚马逊上的售价为 249.99 美元，低于通常的 329.99 美元。折扣幅度为 24%。]]></description>
       <guid>https://mashable.com/article/may-1-samsung-galaxy-tab-s6-lite-deal</guid>
       <pubDate>Wed, 01 May 2024 16:05:52 GMT</pubDate>
     </item>
@@ -23,7 +44,7 @@
       <pubDate>Wed, 01 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rabbit R1 更新延长电池寿命</title>
+      <title>Rabbit R1 更新延长了电池寿命</title>
       <link>https://mashable.com/article/rabbit-r1-update-battery-life</link>
       <description><![CDATA[Rabbit 神秘的小人工智能助手无法充电，但希望新的软件更新可以解决这个问题。]]></description>
       <guid>https://mashable.com/article/rabbit-r1-update-battery-life</guid>
@@ -53,7 +74,7 @@
     <item>
       <title>亚马逊目前正在销售大量游戏显示器</title>
       <link>https://mashable.com/article/may-1-gaming-monitor-deals</link>
-      <description><![CDATA[自 5 月 1 日起，您在亚马逊购买 Sceptre、ASUS 和 Acer 等品牌的游戏显示器可享受高达 30% 的折扣。]]></description>
+      <description><![CDATA[自 5 月 1 日起，您可以在亚马逊上以高达 30% 的折扣购买 Sceptre、ASUS 和 Acer 等品牌的游戏显示器。]]></description>
       <guid>https://mashable.com/article/may-1-gaming-monitor-deals</guid>
       <pubDate>Wed, 01 May 2024 15:27:52 GMT</pubDate>
     </item>
@@ -67,7 +88,7 @@
     <item>
       <title>即使您选择不共享训练数据，ChatGPT 现在也会保存聊天记录</title>
       <link>https://mashable.com/article/openai-chatgpt-saves-chat-history-opted-out-sharing-training-data</link>
-      <description><![CDATA[OpenAI 宣布，ChatGPT Free 和 Plus 用户不再需要选择与模型共享他们的训练数据来访问他们的聊天记录。]]></description>
+      <description><![CDATA[OpenAI 宣布 ChatGPT Free 和 Plus 用户不再需要选择与模型共享训练数据来访问他们的聊天历史记录。]]></description>
       <guid>https://mashable.com/article/openai-chatgpt-saves-chat-history-opted-out-sharing-training-data</guid>
       <pubDate>Wed, 01 May 2024 15:01:02 GMT</pubDate>
     </item>
@@ -91,27 +112,6 @@
       <description><![CDATA[导演汉娜·马克斯和作家约翰·格林讨论了他们如何在《海龟一路向下》中传达强迫症和焦虑症的生活感受。]]></description>
       <guid>https://mashable.com/video/turtles-all-the-way-down-ocd-john-green</guid>
       <pubDate>Wed, 01 May 2024 13:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>《The Idea of​​ You》中安妮·海瑟薇引用拉娜·德尔·雷的歌曲来激励观众追随自己的内心</title>
-      <link>https://mashable.com/video/the-idea-of-you-anne-hathaway-michael-showalter</link>
-      <description><![CDATA[安妮·海瑟薇与尼古拉斯·加利津、迈克尔·肖沃尔特、罗宾·李和凯茜·舒尔曼一起讨论了我们社会中老年女性与年轻男性约会的耻辱。]]></description>
-      <guid>https://mashable.com/video/the-idea-of-you-anne-hathaway-michael-showalter</guid>
-      <pubDate>Wed, 01 May 2024 12:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 2024 年马德里公开赛弗里茨与塞伦多洛的比赛</title>
-      <link>https://mashable.com/article/fritz-cerundolo-madrid-open-live-stream-for-free</link>
-      <description><![CDATA[在世界任何地方免费在线观看 2024 年马德里公开赛泰勒·弗里茨 (Taylor Fritz) 对阵弗朗西斯科·塞伦多洛 (Francisco Cerundolo) 的比赛。]]></description>
-      <guid>https://mashable.com/article/fritz-cerundolo-madrid-open-live-stream-for-free</guid>
-      <pubDate>Wed, 01 May 2024 11:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 2024 年马德里公开赛卢布廖夫对阵阿尔卡拉斯的比赛</title>
-      <link>https://mashable.com/article/rublev-alcaraz-madrid-open-live-stream-for-free</link>
-      <description><![CDATA[在世界任何地方免费在线观看 2024 年马德里公开赛安德烈·鲁布列夫 (Andrey Rublev) 对阵卡洛斯·阿尔卡拉斯 (Carlos Alcaraz) 的比赛。]]></description>
-      <guid>https://mashable.com/article/rublev-alcaraz-madrid-open-live-stream-for-free</guid>
-      <pubDate>Wed, 01 May 2024 10:58:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
