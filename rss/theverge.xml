@@ -4,7 +4,7 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 01:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:19:13 GMT</lastBuildDate>
     <item>
       <title>原来 Rabbit R1 一直只是一个 Android 应用程序</title>
       <link>https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a</link>
@@ -16,14 +16,17 @@
 在Android Authority，Mishaal Rahman 成功在 Google Pixel 6A 上下载 Rabbit 的启动器 APK。经过一些调整，他能够像在 Rabbit 自己的设备上一样运行该应用程序。使用音量增大键代替 R1 的单个硬件按钮，他能够设置一个帐户并开始向其提问，就像他使用 199 美元的 R1 一样。 
 
 天哪。 
-Rahman 指出该应用程序可能不提供与 R1 相同的所有功能。用他的话说：“Rabbit R1 的启动器应用程序旨在预装在固件中，并被授予多项特权、系统级权限——我们只能授予其中一些权限——因此，如果我们尝试，某些功能可能会失败”。但事实上，该软件在近两年前就在中端手机上运行，​​这表明它与普通的 Android 应用程序有更多共同点。
+Rahman 指出该应用程序可能不提供与 R1 相同的所有功能。用他的话说：“Rabbit R1 的启动器应用程序旨在预装在固件中，并被授予多项特权、系统级权限——我们只能授予其中一些权限——因此，如果我们尝试这样做，某些功能可能会失败”。但事实上，该软件在近两年前就在中端手机上运行，​​这表明它与普通的 Android 应用程序有更多的共同点。 
+Rabbit 创始人兼首席执行官 Jesse Lyu 不同意这种描述。他向 The Verge 发表了一份冗长的声明，我们在下面部分引用了它 - 它是 如果您想完整阅读，也已发布到 Rabbit 的 X 帐户。 
+“rabbit r1 不是 Android 应用程序...rabbit 操作系统和 LAM 在云上运行，具有非常定制的 AOSP 和较低级别的固件修改，因此是一个没有适当操作系统的本地盗版 APK云端点将无法访问我们的服务。 rabbit OS是为r1定制的，我们不支持第三方客户端。” 
 R1 并不孤单； Humane 的 AI pin 似乎运行在 Android 开源版本上软件也是如此。但现在最热门的是 R1，因为第一批评论已经开始陆续流出，而且 它们并不好，鲍勃。 Rabbit 发布了首次软件更新今天早些时候解决了一些投诉，包括快速耗尽的电池。 这个问题在更新后似乎得到了更好的控制；今天早上下载更新后，我的 R1 的闲置电池性能得到了极大改善。
-但更大的问题是，当手机存在时，R1 并没有做足够有用的事情来证明它的存在。我们已联系 Rabbit 征求对此的评论，如果该公司发表声明，我们将更新本文。与此同时，这个人工智能小工具似乎可以毕竟只是一个应用程序。]]></description>
+但更大的问题是，当手机存在时，R1 并没有做足够有用的事情来证明它的存在。看起来这个 AI 小工具 可能只是一个应用程序毕竟。
+美国东部时间 4 月 30 日晚上 11:23 更新：添加了 Rabbit 首席执行官 Jesse Lyu 的声明。]]></description>
       <guid>https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a</guid>
-      <pubDate>Tue, 30 Apr 2024 22:58:05 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 03:23:28 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 17.5 beta 可让您在 iPhone 维修期间保持“查找”功能</title>
+      <title>iOS 17.5 beta 让你在 iPhone 维修期间保持“查找”功能</title>
       <link>https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta</link>
       <description><![CDATA[&lt;图&gt;
       
@@ -92,7 +95,7 @@ TLC
       
 这可能是启动今年 Google I/O 的完美动力。 |插图：The Verge / Shutterstock
 
-我根本不知道对于 Google Phone 应用即将推出的为 Android 拨号器添加音效的更新有何感受。首次被发现是 测试版更新的一部分，由 9to5Google，该应用程序可能很快会让您点击六个“音频表情符号”按钮之一来播放通话双方都可以听到的简短声音片段。
+我根本不知道对于即将向 Android 拨号器添加音效的 Google Phone 应用即将推出的更新有何感受。首次被发现是 测试版更新的一部分，由 9to5Google，该应用程序可能很快会让您点击六个“音频表情符号”按钮之一来播放通话双方都可以听到的简短声音片段。
 有鼓掌、大笑、哭泣（悲伤、滑动的长号）、派对、鼓声（ba-dum ts）和......大便，发出放屁的声音。您可以在通话期间通过点击拨号器溢出菜单中的选项或使用位于底部的小标志来访问这些按钮。
 我体内潜伏的青少年想要与一位值得信赖的朋友至少尝试一次便便按钮，他不会因为我的幽默感有问题而与我断绝关系。就我个人而言，我更愿意在谈话中听到这些声音（放屁除外）作为有机的、真实的反应。在新鲜感很快消失后，谁会真正从这个功能中得到有意义的使用？
 
@@ -115,7 +118,7 @@ TLC
 根据出版物，在其人工智能模型中使用受版权保护的材料的公司“必须获得出版商的同意才能使用其内容，并为此类使用支付公允价值。” 
 投诉指向公司高管（尤其是 OpenAI 首席执行官 Sam Altman）的评论，即人工智能模型无法在没有受版权保护的材料的情况下进行训练。投诉还指出，OpenAI 展示了绕过付费墙的能力，其商店包含提供相同功能的 GPT，并且 AI 模型可以阻止聊天机器人吐出受版权保护的作品，但 OpenAI 很少部署 该功能。 
 该诉讼呼应了许多相同的主张其他新闻机构在起诉 OpenAI 和微软时提出。 纽约时报 于 12 月提起诉讼，声称 ChatGPT 逐字复制其新闻报道。数字新闻网站 The Intercept、AlterNet 和 Raw Story 提交了他们的 二月份自己采取法律行动。 
-OpenAI 试图驳回《纽约时报》的诉讼，称该出版物操纵 ChatGPT 忠实地复制其作品。与此同时，微软援引VCR声称人工智能模型仅仅是工具，理论上可以用来侵犯版权，但“能够进行实质性的合法使用。”
+OpenAI 试图驳回《纽约时报》的诉讼，称该出版物操纵 ChatGPT 忠实地复制其作品。与此同时，微软援引VCR声称人工智能模型仅仅是工具，理论上可以用来侵犯版权，但“能够进行实质性的合法使用”。
 ]]></description>
       <guid>https://www.theverge.com/2024/4/30/24145603/ai-openai-microsoft-new-york-daily-news-sue-copyright</guid>
       <pubDate>Tue, 30 Apr 2024 21:41:47 GMT</pubDate>
