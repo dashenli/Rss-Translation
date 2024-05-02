@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 02 May 2024 15:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:19:07 GMT</lastBuildDate>
+    <item>
+      <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
+      <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
+      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
+      <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
+      <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>极右翼极端主义民兵如何在 Facebook 上组织</title>
+      <link>https://www.wired.com/story/far-right-militias-extremism-facebook/</link>
+      <description><![CDATA[国会大厦骚乱之后，极右翼民兵组织正在使用 Facebook 进行组织，而且他们并不担心被 Meta 禁止。]]></description>
+      <guid>https://www.wired.com/story/far-right-militias-extremism-facebook/</guid>
+      <pubDate>Thu, 02 May 2024 15:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 件最佳雨衣（2024 年）：便宜、环保、徒步旅行和跑步</title>
+      <link>https://www.wired.com/story/best-rain-jackets/</link>
+      <description><![CDATA[祸不单行。以下是我们为寒冷潮湿的日子挑选的产品，以及专家解读产品规格的技巧。]]></description>
+      <guid>https://www.wired.com/story/best-rain-jackets/</guid>
+      <pubDate>Thu, 02 May 2024 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人脸识别公司的漏洞暴露了生物识别技术的隐患</title>
+      <link>https://www.wired.com/story/outabox-facial-recognition-breach/</link>
+      <description><![CDATA[Outabox 是一家为酒吧和俱乐部扫描人脸的澳大利亚公司，该公司遭受了一次泄露，这表明向公司提供生物识别数据存在问题。]]></description>
+      <guid>https://www.wired.com/story/outabox-facial-recognition-breach/</guid>
+      <pubDate>Thu, 02 May 2024 15:24:21 GMT</pubDate>
+    </item>
     <item>
       <title>7 个最佳数码相框 (2024)：高分辨率和自然</title>
       <link>https://www.wired.com/gallery/best-digital-picture-frames/</link>
-      <description><![CDATA[通过这些连接的显示器，将您的照片从手机上显示在您的朋友和家人面前。]]></description>
+      <description><![CDATA[通过这些连接的显示器，将您的照片从手机上呈现在您的朋友和家人面前。]]></description>
       <guid>https://www.wired.com/gallery/best-digital-picture-frames/</guid>
       <pubDate>Thu, 02 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>Loopy Pro 评测：最好的 iPad 音乐录制软件</title>
       <link>https://www.wired.com/story/loopy-pro-rave/</link>
-      <description><![CDATA[我们花了很多时间尝试大多数可以在 iPad 上制作音乐的应用程序，而这个循环站、DAW 和采样器组合是最好的免费（和付费）应用程序。]]></description>
+      <description><![CDATA[我们已经花了很多时间在 iPad 上制作音乐的大多数可用应用程序上，而这个循环站、DAW 和采样器组合是最好的免费（和付费）应用程序。]]></description>
       <guid>https://www.wired.com/story/loopy-pro-rave/</guid>
       <pubDate>Thu, 02 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -48,16 +76,16 @@
       <pubDate>Thu, 02 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>华硕 Zenbook 14 OLED (2024) 评测：性价比高</title>
+      <title>华硕 Zenbook 14 OLED（2024 款）评测：性价比高</title>
       <link>https://www.wired.com/review/asus-zenbook-14-oled-2024/</link>
-      <description><![CDATA[这款超轻 14 英寸笔记本电脑的价格不到 1,000 美元，如果您能忽略这些怪癖的话，对于学生来说是一个不错的选择。]]></description>
+      <description><![CDATA[这款超轻 14 英寸笔记本电脑售价不到 1,000 美元，如果您可以忽略它的缺点，对于学生来说是一个不错的选择。]]></description>
       <guid>https://www.wired.com/review/asus-zenbook-14-oled-2024/</guid>
       <pubDate>Thu, 02 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>考虑购买混合动力汽车吗？听好了</title>
+      <title>正在考虑购买混合动力汽车？听好了</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-642/</link>
-      <description><![CDATA[本周，我们将讨论有关混合动力汽车的所有知识：不同技术的工作原理、如何保持充电以及哪些汽车最适合不同的生活方式。]]></description>
+      <description><![CDATA[本周，我们将讨论有关混合动力汽车的所有知识：不同技术如何工作、如何保持充电以及哪些汽车最适合不同的生活方式。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-642/</guid>
       <pubDate>Thu, 02 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -71,44 +99,16 @@
     <item>
       <title>当浪漫作家被 Google 文档锁定时会发生什么</title>
       <link>https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/</link>
-      <description><![CDATA[三月份，一位有抱负的作家收到了一条令人不安的消息：她所有正在创作的作品都无法再访问。接下来发生的事情是每个作家最担心的事情。]]></description>
+      <description><![CDATA[今年 3 月，一位有志于成为作家的人收到了一条令人不安的消息：她正在创作的所有作品都无法访问了。接下来发生的事情是每个作家最害怕的事情。]]></description>
       <guid>https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/</guid>
       <pubDate>Thu, 02 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能的不性感未来是企业应用程序</title>
       <link>https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/</link>
-      <description><![CDATA[一些推出了热门生成式人工智能产品的初创公司目前正在缩小其产品范围，试图让它们对商业客户更有用。]]></description>
+      <description><![CDATA[一些推出热门生成式人工智能产品的初创公司现在正在缩小其产品范围，试图使其对商业客户更有用。]]></description>
       <guid>https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/</guid>
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>极端主义民兵正在 100 多个 Facebook 群组中进行协调</title>
-      <link>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</link>
-      <description><![CDATA[独家报道显示，自 1 月 6 日事件发生以来，民兵极端主义团体和档案在 1 月 6 日事件之后一直保持低调，并在 Facebook 上悄然重组并加大招募力度和言论力度。]]></description>
-      <guid>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</guid>
-      <pubDate>Thu, 02 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰杀手级无人机初创行业内部</title>
-      <link>https://www.wired.com/story/ukraine-drone-startups-russia/</link>
-      <description><![CDATA[乌克兰需要小型无人机来对抗俄罗斯军队，并且正在国内引导自己的产业。]]></description>
-      <guid>https://www.wired.com/story/ukraine-drone-startups-russia/</guid>
-      <pubDate>Thu, 02 May 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着特斯拉超级充电桩的质疑不断，填补电力缺口的竞赛已经开始</title>
-      <link>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</link>
-      <description><![CDATA[该公司决定取消充电基础设施建设团队的决定正值电动汽车行业的一个微妙时期。其他玩家都渴望接续特斯拉的脚步。]]></description>
-      <guid>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</guid>
-      <pubDate>Thu, 02 May 2024 00:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sidechat 如何煽动大学校园抗议的火焰</title>
-      <link>https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/</link>
-      <description><![CDATA[在大学校园言论自由和以色列与哈马斯持续战争的紧张局势中，匿名社交媒体应用 Sidechat 已成为恶意言论的温床。]]></description>
-      <guid>https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/</guid>
-      <pubDate>Wed, 01 May 2024 21:38:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
