@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 02 May 2024 06:18:13 GMT</lastBuildDate>
+    <description>为 T 世代提供原创且自豪的观点</description>
+    <lastBuildDate>Thu, 02 May 2024 09:15:30 GMT</lastBuildDate>
+    <item>
+      <title>Kubernetes 十周年之际，专家预测云原生的未来</title>
+      <link>https://thenextweb.com/news/the-future-of-cloud-native-kubernetes</link>
+      <description><![CDATA[六月，Kubernetes 庆祝十岁生日。该系统现已被全球数十万家公司广泛使用，以扩展其应用程序以满足需求，甚至很难记住它存在之前的时间。但曾经有一段时间，还有其他的选择，我什至记得使用过其中的一些。尽管已经相对成熟，许多大型开发团队和公司仍然尚未开始迁移到 Kubernetes，或者正处于迁移过程中。但对于许多喜欢生活在边缘的开发人员来说，10 年的技术…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/the-future-of-cloud-native-kubernetes</guid>
+      <pubDate>Thu, 02 May 2024 08:05:30 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰部长担心中国拥有Anteryon会带来“国家安全风险”</title>
       <link>https://thenextweb.com/news/dutch-national-security-risk-chinese-acquisition-of-anteryon</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 01 May 2024 15:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>TNW 播客：Alexandra Balkova 谈 VC 的状况；适合所有人的人工智能计算</title>
+      <title>TNW 播客：Alexandra Balkova 谈 VC 现状；人工智能计算让每个人都能用上</title>
       <link>https://thenextweb.com/news/podcast-alexandra-balkova-vc-ai-compute</link>
       <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea 和 Andrii 讨论了人工智能计算的可用性、Getir 即将离开欧洲、德国游戏开发商的大量现金以及介于两者之间的一些事情。节目嘉宾是 Startup Wise Guys 的普通合伙人兼投资组合主管 Alexandra Balkova。在里加 TechChill 录制的采访中，亚历山德拉谈到了当前的状态这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/podcast-alexandra-balkova-vc-ai-compute</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[英国《金融时报》（全面披露 — The 所有者） Next Web）已与 OpenAI 签署了协议。这家美国公司将使用英国出版商的内容来训练其生成人工智能模型。这笔交易是 OpenAI 与 Axel Springer、美联社和世界报等全球新闻出版商之间一系列新合作关系中的最新一项。该公司没有透露任何合同的财务条款。仅在 2023 年，就有数百页的诉讼和无数文章指责科技公司窃取艺术家和出版商的作品来训练他们的人工智能模型。 OpenAI 已纳入…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/openai-models-train-financial-times-content</guid>
       <pubDate>Mon, 29 Apr 2024 14:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国新网络安全法将使弱密码成为过去</title>
-      <link>https://thenextweb.com/news/new-uk-cybersecurity-law-weak-passwords-thing-of-past</link>
-      <description><![CDATA[根据英国新的网络安全法，消费类智能设备不能再允许使用弱且易于猜测的密码，例如“admin”或“12345”。这是英国为保护消费者免受黑客和网络攻击而要求的一套最低安全标准的一部分。该法律涵盖了所有具有互联网或网络连接功能的智能设备，从电视、手机到游戏机、联网冰箱和智能门铃。此类产品的制造商还必须发布联系方式，以便用户可以报告错误和其他问题。此外，他们需要对时间保持透明…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/new-uk-cybersecurity-law-weak-passwords-thing-of-past</guid>
-      <pubDate>Mon, 29 Apr 2024 11:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
