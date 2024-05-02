@@ -4,7 +4,14 @@
     <title>本周的世界</title>
     <link>https://www.economist.com/the-world-this-week/</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:26:07 GMT</lastBuildDate>
+    <item>
+      <title>本周封面</title>
+      <link>https://www.economist.com/the-world-this-week/2024/05/02/this-weeks-covers</link>
+      <description><![CDATA[我们如何看待世界]]></description>
+      <guid>https://www.economist.com/the-world-this-week/2024/05/02/this-weeks-covers</guid>
+      <pubDate>Thu, 02 May 2024 12:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>政治</title>
       <link>https://www.economist.com/the-world-this-week/2024/04/25/politics</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 11 Apr 2024 14:43:35 GMT</pubDate>
     </item>
     <item>
-      <title>KAL的卡通</title>
+      <title>KAL的漫画</title>
       <link>https://www.economist.com/the-world-this-week/2024/04/11/kals-cartoon</link>
       <description><![CDATA[]]></description>
       <guid>https://www.economist.com/the-world-this-week/2024/04/11/kals-cartoon</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.economist.com/the-world-this-week/2024/04/04/business</guid>
       <pubDate>Thu, 04 Apr 2024 12:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>政治</title>
-      <link>https://www.economist.com/the-world-this-week/2024/04/04/politics</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.economist.com/the-world-this-week/2024/04/04/politics</guid>
-      <pubDate>Thu, 04 Apr 2024 12:46:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
