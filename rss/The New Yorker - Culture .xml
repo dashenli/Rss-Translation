@@ -3,10 +3,17 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Thu, 02 May 2024 12:26:12 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Thu, 02 May 2024 15:17:30 GMT</lastBuildDate>
     <item>
-      <title>为什么体育电影总是获胜</title>
+      <title>每日漫画：5 月 2 日，星期四</title>
+      <link>https://www.newyorker.com/cartoons/daily-cartoon/thursday-may-2nd-technology-potential</link>
+      <description><![CDATA[“当然，这项技术有可能毁灭人类，但从积极的一面来看，它可以让一些幸运的早期投资者赚到数十亿美元。”]]></description>
+      <guid>https://www.newyorker.com/cartoons/daily-cartoon/thursday-may-2nd-technology-potential</guid>
+      <pubDate>Thu, 02 May 2024 13:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么体育电影总能获胜</title>
       <link>https://www.newyorker.com/podcast/critics-at-large/why-the-sports-movie-always-wins</link>
       <description><![CDATA[卢卡·瓜达尼诺 (Luca Guadagnino) 的《挑战者》和去年的《铁爪》等电影展现了男性气质的时代精神。它们是否标志着故事类型的转变？]]></description>
       <guid>https://www.newyorker.com/podcast/critics-at-large/why-the-sports-movie-always-wins</guid>
@@ -34,17 +41,17 @@
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>哥伦比亚大学校园陷入危机</title>
-      <link>https://www.newyorker.com/magazine/portfolio/05/13/columbias-campus-in-crisis</link>
-      <description><![CDATA[哥伦比亚大学的异议和反抗场面，数十名学生因参加支持巴勒斯坦的抗议活动而被捕。]]></description>
-      <guid>https://www.newyorker.com/magazine/portfolio/05/13/columbias-campus-in-crisis</guid>
-      <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>从各方面来说，《替罪羊》都是反重力的乐趣</title>
       <link>https://www.newyorker.com/magazine/2024/05/13/the-fall-guy-movie-review</link>
       <description><![CDATA[这部由特技演员转型为导演的大卫·雷奇执导的动作喜剧，由瑞恩·高斯林和艾米莉·布朗特主演，讲述了一名特技演员的故事，虽然取得了成功，但不要指望人物塑造。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/13/the-fall-guy-movie-review</guid>
+      <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哥伦比亚大学校园陷入危机</title>
+      <link>https://www.newyorker.com/magazine/2024/05/13/columbias-campus-in-crisis</link>
+      <description><![CDATA[哥伦比亚大学的异议和反抗场景，数十名学生因参加支持巴勒斯坦的抗议活动而被捕。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/05/13/columbias-campus-in-crisis</guid>
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 02 May 2024 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《挑战者》本质上是一部拍摄精良的广告</title>
+      <title>《挑战者》本质上是一个拍摄精良的广告</title>
       <link>https://www.newyorker.com/culture/cultural-comment/challengers-is-essentially-a-well-shot-commercial</link>
       <description><![CDATA[因为这部电影没什么可说的，观众可以自由地只关注氛围——这恰好是导演卢卡·瓜达尼诺最出色的领域。]]></description>
       <guid>https://www.newyorker.com/culture/cultural-comment/challengers-is-essentially-a-well-shot-commercial</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[批评者认为《The Tortured Poets Department》听起来太像斯威夫特之前的专辑了。粉丝们认为这就是重点。]]></description>
       <guid>https://www.newyorker.com/culture/cultural-comment/why-normal-music-reviews-no-longer-make-sense-for-taylor-swift</guid>
       <pubDate>Tue, 30 Apr 2024 22:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>乔治亚州一名官员迫于特朗普压力准备再次大选</title>
-      <link>https://www.newyorker.com/podcast/political-scene/georgias-secretary-of-state-prepares-for-another-election</link>
-      <description><![CDATA[佐治亚州国务卿布拉德·拉芬斯佩格 (Brad Raffensperger) 拒绝为唐纳德·特朗普 (Donald Trump) 在 2020 年“寻找”选票。在威胁之下，他表示他已准备好让选民在 2024 年投票。]]></description>
-      <guid>https://www.newyorker.com/podcast/political-scene/georgias-secretary-of-state-prepares-for-another-election</guid>
-      <pubDate>Tue, 30 Apr 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
