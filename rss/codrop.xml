@@ -3,10 +3,17 @@
   <channel>
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Thu, 02 May 2024 12:26:07 GMT</lastBuildDate>
+    <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
+    <lastBuildDate>Fri, 03 May 2024 12:25:51 GMT</lastBuildDate>
     <item>
-      <title>使用 WebGL 对纹理过渡和程序径向噪声进行建模</title>
+      <title>集体#835</title>
+      <link>https://tympanus.net/codrops/collective/collective-835/</link>
+      <description><![CDATA[每个前端开发人员都应该知道的延迟数字 * 将 React 放入浏览器 * Franken UI]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-835/</guid>
+      <pubDate>Fri, 03 May 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 WebGL 建模纹理过渡和程序径向噪声</title>
       <link>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</link>
       <description><![CDATA[探索两种视觉效果的 WebGL 实验：3D 罐头模型上的纹理过渡和程序径向噪声场。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</guid>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 01 May 2024 10:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站汇总：Webflow 特别版#3</title>
+      <title>励志网站综述：Webflow 特别#3</title>
       <link>https://tympanus.net/codrops/2024/04/30/inspirational-websites-roundup-webflow-special-3/</link>
       <description><![CDATA[与 Webflow 合作，我们感到非常兴奋呈现本次综述，其中包括精心挑选的一些令人惊叹的网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/30/inspirational-websites-roundup-webflow-special-3/</guid>
@@ -29,14 +36,14 @@
     <item>
       <title>集体#834</title>
       <link>https://tympanus.net/codrops/collective/collective-834/</link>
-      <description><![CDATA[检测 CSS 中的 JavaScript 支持 * MarkdownDown * Hono]]></description>
+      <description><![CDATA[检测 CSS * MarkdownDown * Hono 中的 JavaScript 支持]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-834/</guid>
       <pubDate>Tue, 30 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最近的设计发现：紧凑型导航</title>
       <link>https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/</link>
-      <description><![CDATA[一些网站菜单的小集合，它们紧凑且可以以漂亮的框或形状打开。]]></description>
+      <description><![CDATA[网站菜单的一小部分，紧凑且可打开成漂亮的盒子或形状。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/</guid>
       <pubDate>Sun, 28 Apr 2024 15:48:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[受 Rauno 的“模糊显示”启发，滚动上的模糊文本显示动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</guid>
       <pubDate>Tue, 23 Apr 2024 13:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#832</title>
-      <link>https://tympanus.net/codrops/collective/collective-832/</link>
-      <description><![CDATA[仅使用 CSS 即可显示菜单 * 揭秘 Shadow DOM * ClickWheel.js]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-832/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
