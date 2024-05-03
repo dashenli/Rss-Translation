@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>可混搭</title>
+    <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
 创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
 媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
 在旧金山设有办事处。</description>
-    <lastBuildDate>Fri, 03 May 2024 17:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 20:39:12 GMT</lastBuildDate>
+    <item>
+      <title>微软向执法部门表示：不得使用 Azure OpenAI 进行面部识别</title>
+      <link>https://mashable.com/article/microsoft-bans-us-police-from-using-ai-facial-recognition</link>
+      <description><![CDATA[在新的行为准则更新中，微软对执法机构使用人工智能进行面部识别提出了更明确的禁令。]]></description>
+      <guid>https://mashable.com/article/microsoft-bans-us-police-from-using-ai-facial-recognition</guid>
+      <pubDate>Fri, 03 May 2024 20:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 5 月最佳笔记本电脑优惠，包括两台 M2 MacBook Air，价格创历史新低</title>
+      <link>https://mashable.com/article/best-laptop-deals</link>
+      <description><![CDATA[以下是截至 5 月 4 日的最佳笔记本电脑优惠列表，其中包括两台 M2 Apple MacBook Air 和一台低于 300 美元的戴尔 PC。]]></description>
+      <guid>https://mashable.com/article/best-laptop-deals</guid>
+      <pubDate>Fri, 03 May 2024 18:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 5 月 7 日 iPad 发布会：最后一刻的预测</title>
+      <link>https://mashable.com/article/apple-may-7-ipad-event-predictions</link>
+      <description><![CDATA[以下是迄今为止我们对 5 月 7 日 Apple 活动的了解。]]></description>
+      <guid>https://mashable.com/article/apple-may-7-ipad-event-predictions</guid>
+      <pubDate>Fri, 03 May 2024 18:16:52 GMT</pubDate>
+    </item>
     <item>
       <title>据传 ChatGPT 搜索引擎将于下周推出</title>
       <link>https://mashable.com/article/chatgpt-search-announcement-what-we-know</link>
@@ -16,7 +37,7 @@
       <pubDate>Fri, 03 May 2024 17:14:33 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 18 预计将获得 3 项新的人工智能功能，包括 Siri 总结文本</title>
+      <title>iOS 18 有望推出 3 项新的 AI 功能，包括 Siri 总结你的短信</title>
       <link>https://mashable.com/article/ios-18-ai-features</link>
       <description><![CDATA[iOS 18 正准备推出一套全新的人工智能功能，以跟上人工智能竞赛的步伐。]]></description>
       <guid>https://mashable.com/article/ios-18-ai-features</guid>
@@ -25,7 +46,7 @@
     <item>
       <title>阵亡将士纪念日销售已经开始——以下是您需要了解的信息</title>
       <link>https://mashable.com/article/best-early-memorial-day-deals</link>
-      <description><![CDATA[阵亡将士纪念日周末可能要到 5 月 24 日才开始，但是什么时候才能阻止提前开始销售呢？今年也不例外——这里有您需要了解的有关 2024 年阵亡将士纪念日最佳促销活动的所有信息。]]></description>
+      <description><![CDATA[阵亡将士纪念日周末可能要到 5 月 24 日才开始，但这什么时候才能阻止提前开始销售呢？今年也不例外——这里有您需要了解的有关 2024 年阵亡将士纪念日最佳促销活动的所有信息。]]></description>
       <guid>https://mashable.com/article/best-early-memorial-day-deals</guid>
       <pubDate>Fri, 03 May 2024 17:04:50 GMT</pubDate>
     </item>
@@ -58,7 +79,7 @@
       <pubDate>Fri, 03 May 2024 16:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>以不到 200 美元的价格购买刚刚发布的 Beats Solo 4 耳机</title>
+      <title>以低于 200 美元的价格购买刚刚发布的 Beats Solo 4 耳机</title>
       <link>https://mashable.com/article/may-3-beats-solo-4-headphones</link>
       <description><![CDATA[5月2日，Beats发布了全新Beats Solo 4耳机。在亚马逊购买新款耳罩式耳机，价格不到 200 美元。]]></description>
       <guid>https://mashable.com/article/may-3-beats-solo-4-headphones</guid>
@@ -72,7 +93,7 @@
       <pubDate>Fri, 03 May 2024 16:03:21 GMT</pubDate>
     </item>
     <item>
-      <title>根据与 One Direction 的接近程度对 August Moon 的歌曲进行排名</title>
+      <title>根据《August Moon》歌曲与 One Direction 的接近程度对它们进行排名</title>
       <link>https://mashable.com/article/idea-of-you-songs-one-direction-ranked</link>
       <description><![CDATA[《The Idea of​​ You》姊妹专辑《August Moon》中的所有歌曲均按照与 One Direction 的相似度进行排名。]]></description>
       <guid>https://mashable.com/article/idea-of-you-songs-one-direction-ranked</guid>
@@ -91,27 +112,6 @@
       <description><![CDATA[从今天（5 月 3 日）到星期日（5 月 5 日），在乐高商店的星球大战日促销活动中购物即可赢取免费礼物、套装优惠并赚取乐高 Insider 积分。]]></description>
       <guid>https://mashable.com/article/may-3-lego-star-wars-day-sale-deals</guid>
       <pubDate>Fri, 03 May 2024 14:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 正在改变屏蔽方式以遏制滥用</title>
-      <link>https://mashable.com/article/x-twitter-fixing-block</link>
-      <description><![CDATA[X（原 Twitter）正在改变平台上的阻止方式，以减少平台上的滥用。]]></description>
-      <guid>https://mashable.com/article/x-twitter-fixing-block</guid>
-      <pubDate>Fri, 03 May 2024 11:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doja Cat 以不同音乐风格即兴创作随机歌曲，令人印象深刻</title>
-      <link>https://mashable.com/video/doja-cat-improvising-musical-styles</link>
-      <description><![CDATA[多贾猫出现在《今夜秀》中，并与吉米·法伦玩了一场“音乐类型挑战”游戏。]]></description>
-      <guid>https://mashable.com/video/doja-cat-improvising-musical-styles</guid>
-      <pubDate>Fri, 03 May 2024 11:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 2024 年意大利公开赛</title>
-      <link>https://mashable.com/article/italian-open-2024-live-stream-for-free</link>
-      <description><![CDATA[从世界任何地方免费直播 2024 年意大利公开赛。]]></description>
-      <guid>https://mashable.com/article/italian-open-2024-live-stream-for-free</guid>
-      <pubDate>Fri, 03 May 2024 11:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
