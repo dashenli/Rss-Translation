@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>连线日本</title>
+    <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 03 May 2024 01:01:03 GMT</lastBuildDate>
+    <description>wired.jp 最新消息</description>
+    <lastBuildDate>Fri, 03 May 2024 03:17:02 GMT</lastBuildDate>
     <item>
-      <title>特斯拉关闭充电桩部门，这是否是充电服务行业的“机遇”？</title>
+      <title>《DJI Avata 2》评测：入门FPV无人机的最佳选择</title>
+      <link>https://wired.jp/article/dji-avata-2-drone-review/</link>
+      <description><![CDATA[DJI Avata 2 是一款让您以第一人称视角享受飞行乐趣的 FPV 无人机，是一款让您享受刺激飞行同时降低所需驾驶技能的产品。该套件控制器和护目镜的组合使其成为 FPV 飞行入门指南的完美选择。]]></description>
+      <guid>https://wired.jp/article/dji-avata-2-drone-review/</guid>
+      <pubDate>Fri, 03 May 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉关闭电动汽车充电器部门，这是否是充电服务行业的机会？</title>
       <link>https://wired.jp/article/tesla-supercharger-pullback-filling-the-power-gap/</link>
       <description><![CDATA[特斯拉关闭了其电动汽车快速充电设施超级充电部门，并裁员数百人。特斯拉充电插头标准已成为美国事实上的标准，而随着政府主导的扩大充电网络计划的进展，该行业正受到多方面的影响。]]></description>
       <guid>https://wired.jp/article/tesla-supercharger-pullback-filling-the-power-gap/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>开放人工智能与封闭人工智能的竞争随着元“Llama 3”的发布而正式开始</title>
       <link>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。也许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
+      <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。或许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
       <guid>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
       <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>随着生成式人工智能的进步，社交机器人世界加速面临“恐怖谷”</title>
+      <title>随着生成人工智能的进步，面临“恐怖谷”的社交机器人世界加速发展</title>
       <link>https://wired.jp/article/ai-dolls-for-older-adults/</link>
       <description><![CDATA[作为老年人互动“数字朋友”的社交机器人越来越受到关注。尽管市场仍处于早期阶段并且存在许多挑战，但随着生成式人工智能的进步，对话机器人的发展可能会加速。]]></description>
       <guid>https://wired.jp/article/ai-dolls-for-older-adults/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>摄影师“完美照片”背后的秘密：纪录片《摄影师：取景器背后的世界》拍摄的幕后花絮</title>
       <link>https://wired.jp/article/national-geographic-photographer-docuseries/</link>
-      <description><![CDATA[国家地理频道推出的新系列《摄影师：取景器之外的世界》是一部记录摄影师对“完美镜头”追求的纪录片。许多照片的背后都隐藏着不为人知的斗争秘密。]]></description>
+      <description><![CDATA[国家地理频道推出的新系列《摄影师：取景器之外的世界》是一部捕捉摄影师对“完美镜头”追求的纪录片。许多照片的背后都隐藏着不为人知的斗争秘密。]]></description>
       <guid>https://wired.jp/article/national-geographic-photographer-docuseries/</guid>
       <pubDate>Wed, 01 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>探索我们、服装和社会之间联系的 5 本书：《连线图书指南》</title>
       <link>https://wired.jp/article/yoshiaki-misago-books-2024-spring/</link>
-      <description><![CDATA[结合最新一期《连线》杂志的时尚特辑，解读处于转折点的时尚现状，并思考其可能性，五本书揭示了行业的未来形态和难以企及的未来。看部分服装将在“阅览室”发表，由主办方美砂义明精选。]]></description>
+      <description><![CDATA[结合最新一期《连线》杂志的时尚特辑，解读处于转折点的时尚现状，并思考其可能性，五本书籍揭示了行业的未来形态和硬道理。主办方美砂义明精选的服装部分将在阅览室发表。]]></description>
       <guid>https://wired.jp/article/yoshiaki-misago-books-2024-spring/</guid>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果您曾经在亚马逊上搜索廉价科技产品，您可能会遇到从未听说过的品牌名称、数十种看起来完全相同的产品以及大量做作的评论。根据 Fakespot 的数据，电杀虫剂尤其引人注目。]]></description>
       <guid>https://wired.jp/article/sz-bug-zappers-are-swarming-on-amazon/</guid>
       <pubDate>Tue, 30 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>每当科波拉的《大都会》被说是一部烂片时，我认为它实际上是一部必看的电影。</title>
-      <link>https://wired.jp/article/the-quest-to-save-megalopolis-starts-now/</link>
-      <description><![CDATA[许多好莱坞人士表示，弗朗西斯·福特·科波拉耗时 40 年拍摄的大片《特大城市》不太可能取得票房成功。但最好的科幻作品会让观众感到困惑，而历史名著往往一开始就难以理解。]]></description>
-      <guid>https://wired.jp/article/the-quest-to-save-megalopolis-starts-now/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
