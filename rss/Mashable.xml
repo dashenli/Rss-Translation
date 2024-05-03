@@ -1,14 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Mashable</title>
+    <title>可混搭</title>
     <link>https://mashable.com/feeds/rss/all</link>
-    <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Fri, 03 May 2024 13:37:42 GMT</lastBuildDate>
+    <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
+创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
+媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
+在旧金山设有办事处。</description>
+    <lastBuildDate>Fri, 03 May 2024 17:38:29 GMT</lastBuildDate>
     <item>
-      <title>X 正在改变阻止方式以遏制滥用</title>
+      <title>据传 ChatGPT 搜索引擎将于下周推出</title>
+      <link>https://mashable.com/article/chatgpt-search-announcement-what-we-know</link>
+      <description><![CDATA[“search.chatgpt.com”的域名和安全证书已经创建，这引发了人们对 OpenAI 的 ChatGPT 专用搜索页面即将推出的猜测。]]></description>
+      <guid>https://mashable.com/article/chatgpt-search-announcement-what-we-know</guid>
+      <pubDate>Fri, 03 May 2024 17:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 预计将获得 3 项新的人工智能功能，包括 Siri 总结文本</title>
+      <link>https://mashable.com/article/ios-18-ai-features</link>
+      <description><![CDATA[iOS 18 正准备推出一套全新的人工智能功能，以跟上人工智能竞赛的步伐。]]></description>
+      <guid>https://mashable.com/article/ios-18-ai-features</guid>
+      <pubDate>Fri, 03 May 2024 17:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>阵亡将士纪念日销售已经开始——以下是您需要了解的信息</title>
+      <link>https://mashable.com/article/best-early-memorial-day-deals</link>
+      <description><![CDATA[阵亡将士纪念日周末可能要到 5 月 24 日才开始，但是什么时候才能阻止提前开始销售呢？今年也不例外——这里有您需要了解的有关 2024 年阵亡将士纪念日最佳促销活动的所有信息。]]></description>
+      <guid>https://mashable.com/article/best-early-memorial-day-deals</guid>
+      <pubDate>Fri, 03 May 2024 17:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>只需 2 美元即可在 Xbox 上畅玩《星球大战：中队》</title>
+      <link>https://mashable.com/article/may-3-star-wars-squadrons-xbox-deal</link>
+      <description><![CDATA[自 5 月 3 日起，在 Microsoft Store for Xbox 上购买“星球大战：中队”只需 1.99 美元。这比正常价格 39.99 美元低了 38 美元。]]></description>
+      <guid>https://mashable.com/article/may-3-star-wars-squadrons-xbox-deal</guid>
+      <pubDate>Fri, 03 May 2024 16:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 麻烦、Meta 的人工智能女友问题和 Doja Coin</title>
+      <link>https://mashable.com/video/u-need-to-know-this-tiktok-meta</link>
+      <description><![CDATA[从 TikTok 的禁令困境到太空中漂浮的神秘物体，主持人乔什·伯斯坦 (Josh Burstein) 带领我们踏上本周热门故事的喜剧之旅。]]></description>
+      <guid>https://mashable.com/video/u-need-to-know-this-tiktok-meta</guid>
+      <pubDate>Fri, 03 May 2024 16:40:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>用银河 Casetify 装备庆祝星球大战日</title>
+      <link>https://mashable.com/article/may-3-casetify-star-wars-collection</link>
+      <description><![CDATA[自 5 月 3 日起，购买《星球大战》和 Casetify 合作款新手机、iPad 或 AirPods 保护壳以及其他几款基于科幻系列的定制配件。]]></description>
+      <guid>https://mashable.com/article/may-3-casetify-star-wars-collection</guid>
+      <pubDate>Fri, 03 May 2024 16:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊今日特惠：以不到 200 美元的价格购买时尚的 Samsung Jet 75 Pet 吸尘器</title>
+      <link>https://mashable.com/article/amazon-deals-of-the-day-samsung-jet-75-pet-may-3</link>
+      <description><![CDATA[5 月 3 日亚马逊当天最优惠的商品包括 Samsung Jet 75 Pet 吸尘器、Nespresso VertuoPlus、Nanit Pro 等。]]></description>
+      <guid>https://mashable.com/article/amazon-deals-of-the-day-samsung-jet-75-pet-may-3</guid>
+      <pubDate>Fri, 03 May 2024 16:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>以不到 200 美元的价格购买刚刚发布的 Beats Solo 4 耳机</title>
+      <link>https://mashable.com/article/may-3-beats-solo-4-headphones</link>
+      <description><![CDATA[5月2日，Beats发布了全新Beats Solo 4耳机。在亚马逊购买新款耳罩式耳机，价格不到 200 美元。]]></description>
+      <guid>https://mashable.com/article/may-3-beats-solo-4-headphones</guid>
+      <pubDate>Fri, 03 May 2024 16:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Amazon Nespresso 机器上购买全新咖啡可享受高达 35% 的折扣</title>
+      <link>https://mashable.com/article/may-3-nespresso-machine-deal</link>
+      <description><![CDATA[自 5 月 3 日起，您在 Amazon 上可享受 Nespresso 机器高达 35% 的折扣，包括 Nespresso VertoPlus 和 Nespresso Vertuo Next Deluxe。]]></description>
+      <guid>https://mashable.com/article/may-3-nespresso-machine-deal</guid>
+      <pubDate>Fri, 03 May 2024 16:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据与 One Direction 的接近程度对 August Moon 的歌曲进行排名</title>
+      <link>https://mashable.com/article/idea-of-you-songs-one-direction-ranked</link>
+      <description><![CDATA[《The Idea of​​ You》姊妹专辑《August Moon》中的所有歌曲均按照与 One Direction 的相似度进行排名。]]></description>
+      <guid>https://mashable.com/article/idea-of-you-songs-one-direction-ranked</guid>
+      <pubDate>Fri, 03 May 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>庆祝自慰五月，享受 Lovers、Lovehoney、Fun Factory 等优惠</title>
+      <link>https://mashable.com/article/masturbation-may-2024-deals</link>
+      <description><![CDATA[今天是自慰五月，您知道这意味着什么：Lovers、Lovehoney 等品牌的情趣玩具、配件和润滑油都有折扣。]]></description>
+      <guid>https://mashable.com/article/masturbation-may-2024-deals</guid>
+      <pubDate>Fri, 03 May 2024 15:52:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过这些乐高商店优惠庆祝星球大战日</title>
+      <link>https://mashable.com/article/may-3-lego-star-wars-day-sale-deals</link>
+      <description><![CDATA[从今天（5 月 3 日）到星期日（5 月 5 日），在乐高商店的星球大战日促销活动中购物即可赢取免费礼物、套装优惠并赚取乐高 Insider 积分。]]></description>
+      <guid>https://mashable.com/article/may-3-lego-star-wars-day-sale-deals</guid>
+      <pubDate>Fri, 03 May 2024 14:58:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 正在改变屏蔽方式以遏制滥用</title>
       <link>https://mashable.com/article/x-twitter-fixing-block</link>
-      <description><![CDATA[X（前身为 Twitter）正在改变平台上屏蔽的工作方式，以减少平台上的滥用行为。]]></description>
+      <description><![CDATA[X（原 Twitter）正在改变平台上的阻止方式，以减少平台上的滥用。]]></description>
       <guid>https://mashable.com/article/x-twitter-fixing-block</guid>
       <pubDate>Fri, 03 May 2024 11:25:48 GMT</pubDate>
     </item>
@@ -22,93 +109,9 @@
     <item>
       <title>如何免费在线观看 2024 年意大利公开赛</title>
       <link>https://mashable.com/article/italian-open-2024-live-stream-for-free</link>
-      <description><![CDATA[在世界任何地方均可免费直播 2024 年意大利公开赛。]]></description>
+      <description><![CDATA[从世界任何地方免费直播 2024 年意大利公开赛。]]></description>
       <guid>https://mashable.com/article/italian-open-2024-live-stream-for-free</guid>
       <pubDate>Fri, 03 May 2024 11:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 2024 年环意自行车赛</title>
-      <link>https://mashable.com/uk/deals/giro-italia-live-stream-for-free</link>
-      <description><![CDATA[从世界任何地方免费直播 2024 年环意自行车赛。]]></description>
-      <guid>https://mashable.com/uk/deals/giro-italia-live-stream-for-free</guid>
-      <pubDate>Fri, 03 May 2024 10:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 2024 年马德里公开赛弗里茨对阵卢布列夫的比赛</title>
-      <link>https://mashable.com/article/fritz-rublev-madrid-open-live-stream-for-free</link>
-      <description><![CDATA[在世界任何地方免费在线观看 2024 年马德里公开赛泰勒·弗里茨 (Taylor Fritz) 对阵安德烈·卢布列夫 (Andrey Rublev) 的比赛。]]></description>
-      <guid>https://mashable.com/article/fritz-rublev-madrid-open-live-stream-for-free</guid>
-      <pubDate>Fri, 03 May 2024 10:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>微小的变形贴纸可检测术后并发症</title>
-      <link>https://mashable.com/video/shape-shifting-stickers-surgery-medical-tech</link>
-      <description><![CDATA[这些可溶解的装置“标记”器官以监测异常活动，并有助于检测术后并发症。]]></description>
-      <guid>https://mashable.com/video/shape-shifting-stickers-surgery-medical-tech</guid>
-      <pubDate>Fri, 03 May 2024 10:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>《We Are Lady Parts》第二季预告片见证乐队进入反派时代</title>
-      <link>https://mashable.com/video/we-are-lady-parts-season-2-trailer</link>
-      <description><![CDATA[尼达·曼佐尔 (Nida Manzoor) 备受赞誉的喜剧系列《We Are Lady Parts》第二季回归。观看预告片。]]></description>
-      <guid>https://mashable.com/video/we-are-lady-parts-season-2-trailer</guid>
-      <pubDate>Fri, 03 May 2024 10:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>柯南·奥布莱恩采访他的“Hot Ones”医生就像你想象的一样愚蠢</title>
-      <link>https://mashable.com/video/conan-o-brien-hot-ones-dr-arroyo-interview</link>
-      <description><![CDATA[柯南·奥布莱恩在最新一集的播客中采访了他的“Hot Ones”医生阿罗约医生。]]></description>
-      <guid>https://mashable.com/video/conan-o-brien-hot-ones-dr-arroyo-interview</guid>
-      <pubDate>Fri, 03 May 2024 10:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Watch Series 9 与 SE：智能手表怀疑论者对两者进行了 13 天的测试</title>
-      <link>https://mashable.com/article/apple-watch-series-9-vs-watch-se</link>
-      <description><![CDATA[我是一名智能手表怀疑论者，我测试了 Apple Watch Series 9 和 SE 两周。前者真的值得多花 150 美元吗？]]></description>
-      <guid>https://mashable.com/article/apple-watch-series-9-vs-watch-se</guid>
-      <pubDate>Fri, 03 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纽约时报》5 月 3 日的迷你填字游戏答案</title>
-      <link>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-3-2024</link>
-      <description><![CDATA[纽约时报 2024 年 5 月 3 日版迷你填字游戏每条线索的答案。]]></description>
-      <guid>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-3-2024</guid>
-      <pubDate>Fri, 03 May 2024 09:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费在线观看 F1 直播</title>
-      <link>https://mashable.com/uk/deals/formula-1-live-stream-for-free</link>
-      <description><![CDATA[从世界任何地方免费直播 F1。]]></description>
-      <guid>https://mashable.com/uk/deals/formula-1-live-stream-for-free</guid>
-      <pubDate>Fri, 03 May 2024 09:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>《地狱七日》是继《挑战者》之后的完美观看</title>
-      <link>https://mashable.com/article/seven-days-in-hell-challengers</link>
-      <description><![CDATA[安迪·萨姆伯格和基特·哈灵顿主演了网球纪录片《地狱七日》，讲述了为期一天的温布尔登比赛。]]></description>
-      <guid>https://mashable.com/article/seven-days-in-hell-challengers</guid>
-      <pubDate>Fri, 03 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你会说 Python 吗？这款售价 25 美元的套装可让你在家学习编程</title>
-      <link>https://mashable.com/deals/may-3-premium-python-course</link>
-      <description><![CDATA[5 月 5 日之前，以 24.97 美元（原价 120 美元）的价格购买此 Python 编程包。]]></description>
-      <guid>https://mashable.com/deals/may-3-premium-python-course</guid>
-      <pubDate>Fri, 03 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过这个 30 美元的捆绑包增强您的 ChatGPT 和 Gemini AI 技能</title>
-      <link>https://mashable.com/deals/may-3-complete-chatgpt-course</link>
-      <description><![CDATA[2024 年完整 ChatGPT 和 Gemini AI 高级电子学位让您可以访问 65 个视频讲座。了解如何将 AI 用于文本、图像、自动化等。]]></description>
-      <guid>https://mashable.com/deals/may-3-complete-chatgpt-course</guid>
-      <pubDate>Fri, 03 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看这款面向自由职业者的 44.97 美元人工智能税务应用程序，并获得 3 年订阅</title>
-      <link>https://mashable.com/deals/may-3-flyfin-tax-app</link>
-      <description><![CDATA[FlyFin 是一款面向自由职业者和小企业主的人工智能税务应用程序。让这个工具跟踪费用、查找扣除额、计算付款等等。]]></description>
-      <guid>https://mashable.com/deals/may-3-flyfin-tax-app</guid>
-      <pubDate>Fri, 03 May 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
