@@ -3,10 +3,18 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Thu, 02 May 2024 21:14:24 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Fri, 03 May 2024 01:00:30 GMT</lastBuildDate>
     <item>
-      <title>Apple 2024 年第二季度业绩：营收 908 亿美元，服务创纪录</title>
+      <title>这是蒂姆：苹果 2024 年第二季度分析师电话会议完整记录</title>
+      <link>https://sixcolors.com/post/2024/05/this-is-tim-transcript-of-apples-q2-2024-analyst-call/</link>
+      <description><![CDATA[
+周四，苹果公布了季度财务业绩，这只能意味着一件事：苹果首席执行官蒂姆·库克和首席财务官卢卡·马埃斯特里是时候与他们最喜欢的金融分析师进行预定的电话通话了。…&lt; /p&gt;]]></description>
+      <guid>https://sixcolors.com/post/2024/05/this-is-tim-transcript-of-apples-q2-2024-analyst-call/</guid>
+      <pubDate>Thu, 02 May 2024 21:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年第二季度苹果业绩：营收 908 亿美元，服务创纪录</title>
       <link>https://sixcolors.com/post/2024/05/2024-q1-apple-results-90-8-billion-revenue-services-record/</link>
       <description><![CDATA[苹果周四公布了 2024 年第二财季的财务业绩。该公司实现收入 908 亿美元（较去年同期下降 4%），利润 236 亿美元。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/2024-q1-apple-results-90-8-billion-revenue-services-record/</guid>
@@ -38,7 +46,7 @@
     <item>
       <title>（播客）反弹 493：马克·古尔曼蜜罐</title>
       <link>https://sixcolors.com/podcast/2024/05/the-rebound-493-mark-gurman-honeypot/</link>
-      <description><![CDATA[Dan 回来讨论我们的 iPad 活动预测、Lex 游戏的最新动态以及 Moltz 规避 iCloud 注销问题的怪异技巧。…]]></description>
+      <description><![CDATA[Dan 回来讨论我们对 iPad 活动的预测、Lex 游戏的最新动态以及 Moltz 规避 iCloud 注销问题的一个奇怪技巧。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/the-rebound-493-mark-gurman-honeypot/</guid>
       <pubDate>Wed, 01 May 2024 18:23:44 GMT</pubDate>
     </item>
@@ -59,17 +67,17 @@
     <item>
       <title>模拟一切，Apple</title>
       <link>https://sixcolors.com/post/2024/04/emulate-all-the-things-apple/</link>
-      <description><![CDATA[Lode Runner 在 Mac 上的 Virtual II 中运行，其中允许所有模拟。
-就这样，Apple 在 App Store 中接受了复古游戏模拟器。…]]></description>
+      <description><![CDATA[Lode Runner 在 Mac 上的 Virtual II 中运行，允许所有模拟。
+就这样，Apple 在 App Store 中推出了复古游戏模拟器。…]]></description>
       <guid>https://sixcolors.com/post/2024/04/emulate-all-the-things-apple/</guid>
       <pubDate>Mon, 29 Apr 2024 18:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>iPad 与 iPhone 一起进军 DMA ↦</title>
+      <title>iPad 加入 iPhone 的 DMA 领域 ↦</title>
       <link>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</link>
-      <description><![CDATA[The Verge 的 Jess Weatherbed：
-&lt;块引用&gt;
-  经过近八个月的调查，调查苹果的 iPadOS 是否拥有足够的市场力量以保证更严格的监管，欧盟委员会现已根据其旗舰数字市场法案 (DMA) 规则将 iPad 操作系统指定为“看门人”服务。&lt; /blockquote&gt;...]]></description>
+      <description><![CDATA[Jess Weatherbed 在 The Verge 撰文：
+
+经过近八个月的调查，欧盟委员会确定苹果的 iPadOS 是否拥有足够的市场力量以保证更严格的监管，现在已将 iPad 操作系统指定为其旗舰《数字市场法》（DMA）规则下的守门人服务。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/the-ipad-joins-the-iphone-in-dma-land/</guid>
       <pubDate>Mon, 29 Apr 2024 13:57:52 GMT</pubDate>
     </item>
@@ -91,34 +99,25 @@ Magic Lasso Adblock 是适用于您的 iPhone、iPad 和 Mac 的最佳 Safari �
     <item>
       <title>（播客）顺时针 551：Clippy Vibes</title>
       <link>https://sixcolors.com/podcast/2024/04/clockwise-551-clippy-vibes/</link>
-      <description><![CDATA[Meta 在其眼镜中添加了人工智能、我们对按时间顺序与算法时间线的看法、我们如何寻找软件工具以及美国的 TikTok 禁令。…]]></description>
+      <description><![CDATA[Meta 在其眼镜中添加了人工智能、我们对时间顺序与算法时间线的想法、我们如何寻找软件工具以及美国的 TikTok 禁令。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/clockwise-551-clippy-vibes/</guid>
       <pubDate>Wed, 24 Apr 2024 20:15:01 GMT</pubDate>
     </item>
     <item>
       <title>（播客）反弹 492：onlyjames.fans</title>
       <link>https://sixcolors.com/podcast/2024/04/the-rebound-492-onlyjames-fans/</link>
-      <description><![CDATA[一辆为思想而设计的自行车，为你的脸而设计的 iPad。…]]></description>
+      <description><![CDATA[一辆自行车代表着你的心灵，一台 iPad 代表着你的脸。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/04/the-rebound-492-onlyjames-fans/</guid>
       <pubDate>Wed, 24 Apr 2024 17:14:41 GMT</pubDate>
     </item>
     <item>
       <title>罗技以某种方式将鼠标软件推向新低 ↦</title>
       <link>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</link>
-      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的精彩故事：
+      <description><![CDATA[Stephen Hackett 有一个关于罗技对其 Mac 鼠标软件所做的事情的故事：
 &lt;块引用&gt;
   我不知道我多么不希望我的鼠标软件包含与 ChatGPT 相关的功能……更不用说带有内置按钮来启动提示的鼠标了。…]]></description>
       <guid>https://sixcolors.com/link/2024/04/logitech-somehow-takes-mouse-software-to-a-new-low/</guid>
       <pubDate>Wed, 24 Apr 2024 17:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>维持互联网漂浮的海底电缆 ↦</title>
-      <link>https://sixcolors.com/link/2024/04/the-undersea-cables-that-keep-the-internet-afloat/</link>
-      <description><![CDATA[The Verge 的 Josh Dzieza 讲述了一个关于修复海底光缆以保持数据在世界各地流动的人们的精彩故事：
-&lt;块引用&gt;
-  世界正处于电缆热潮之中，每年都会宣布多条新的跨洋线路。…]]></description>
-      <guid>https://sixcolors.com/link/2024/04/the-undersea-cables-that-keep-the-internet-afloat/</guid>
-      <pubDate>Mon, 22 Apr 2024 22:44:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
