@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>提要：全部最新</title>
+    <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Sat, 04 May 2024 15:13:52 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Sat, 04 May 2024 18:15:52 GMT</lastBuildDate>
     <item>
       <title>10 款最佳便携式烤架（2024 年）：木炭、丙烷、电动等</title>
       <link>https://www.wired.com/story/best-portable-grills/</link>
-      <description><![CDATA[我们烧烤了数周，寻找适合公路旅行或小型家庭使用的木炭和丙烷烤架。]]></description>
+      <description><![CDATA[我们花了数周时间进行烧烤，以找到适合公路旅行或小型家庭使用的木炭和丙烷烤架。]]></description>
       <guid>https://www.wired.com/story/best-portable-grills/</guid>
       <pubDate>Sat, 04 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -41,9 +41,9 @@
       <pubDate>Sat, 04 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>最佳电视安装选项：支架、壁挂支架、角支架、电动支架</title>
+      <title>最佳电视安装选项：支架、壁挂式、角式安装、电动安装</title>
       <link>https://www.wired.com/story/best-options-for-mounting-a-tv/</link>
-      <description><![CDATA[电视支架已经进化了，将你的新电视机从娱乐支架上拿下来的其他选择也已经进化了。]]></description>
+      <description><![CDATA[电视支架不断发展，让您的大型新电视机离开娱乐展台的所有其他选择也不断发展。]]></description>
       <guid>https://www.wired.com/story/best-options-for-mounting-a-tv/</guid>
       <pubDate>Sat, 04 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一种新的监控工具入侵边境城镇</title>
+      <title>新型监控工具入侵边境城镇</title>
       <link>https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/</link>
       <description><![CDATA[另外：暗杀阴谋、人工智能安全法案、雨云计划的揭露以及更多本周的顶级安全新闻。]]></description>
       <guid>https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/</guid>
