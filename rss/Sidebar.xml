@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Sat, 04 May 2024 18:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:14:41 GMT</lastBuildDate>
     <item>
       <title>泽尔曼肉类标志由红点工作室设计</title>
       <link>https://www.logodesignlove.com/zelman-meats</link>
@@ -24,15 +24,15 @@
     <item>
       <title>Figma 中的版式变量在这里</title>
       <link>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</link>
-      <description><![CDATA[以及 Figma 框架活动中的所有其他新内容。
+      <description><![CDATA[以及 Figma 框架活动中的其他所有新内容。
 ]]></description>
       <guid>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</guid>
       <pubDate>Thu, 02 May 2024 07:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 砌体的替代提案</title>
+      <title>CSS masonry 的替代方案</title>
       <link>https://developer.chrome.com/blog/masonry</link>
-      <description><![CDATA[以不同规范定义砌体和网格的提案。
+      <description><![CDATA[关于在不同规范中定义砌体和网格的建议。
 ]]></description>
       <guid>https://developer.chrome.com/blog/masonry</guid>
       <pubDate>Thu, 02 May 2024 07:23:00 GMT</pubDate>
@@ -48,7 +48,7 @@
     <item>
       <title>自修改变量：inherit() 解决方法</title>
       <link>https://kizu.dev/self-modifying-variables/</link>
-      <description><![CDATA[样式查询将打开许多大门。
+      <description><![CDATA[样式查询将打开许多扇门。
 ]]></description>
       <guid>https://kizu.dev/self-modifying-variables/</guid>
       <pubDate>Wed, 01 May 2024 11:40:00 GMT</pubDate>
@@ -88,7 +88,7 @@
     <item>
       <title>使用人工智能减少网上仇恨言论</title>
       <link>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</link>
-      <description><![CDATA[利用人工智能来减少打击在线仇恨言论所造成的情感损失。
+      <description><![CDATA[利用人工智能减少打击网络仇恨言论所带来的情感压力。
 ]]></description>
       <guid>https://uxdesign.cc/case-study-mitigating-hate-speech-online-using-ai-204b555a91d7</guid>
       <pubDate>Tue, 30 Apr 2024 06:55:16 GMT</pubDate>
@@ -102,7 +102,7 @@
       <pubDate>Tue, 30 Apr 2024 06:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学中最难的问题：居中</title>
+      <title>计算机科学中最难的问题：事物中心化</title>
       <link>https://tonsky.me/blog/centering/</link>
       <description><![CDATA[不知何故，我们忘记了如何使矩形居中，必须找到回来的路
 ]]></description>
