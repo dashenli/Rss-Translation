@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sat, 04 May 2024 06:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:14:30 GMT</lastBuildDate>
     <item>
       <title>Rabbit R1 评测：跳过这个人工智能驱动的硬件助手</title>
       <link>https://www.wired.com/review/rabbit-r1/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>汽车制造商希望汽车配备调幅收音机。国会即将要求他们</title>
       <link>https://www.wired.com/story/am-radio-cars-law-requires/</link>
-      <description><![CDATA[一项受欢迎的法案将迫使汽车公司在车辆中免费安装调幅收音机，尽管驾驶员的兴趣下降并且存在潜在的电磁干扰。]]></description>
+      <description><![CDATA[一项受欢迎的法案将迫使汽车公司在车辆上免费安装 AM 收音机，尽管驾驶员对此的兴趣正在减少，而且可能会产生电磁干扰。]]></description>
       <guid>https://www.wired.com/story/am-radio-cars-law-requires/</guid>
       <pubDate>Fri, 03 May 2024 17:35:02 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>Brane X 扬声器：尺寸紧凑，家庭影院音效</title>
       <link>https://www.wired.com/review/brane-x/</link>
-      <description><![CDATA[这款紧凑但功能强大的扬声器可让您在任何地方体验真正的低音炮的刺激。]]></description>
+      <description><![CDATA[这款紧凑但功能强大的扬声器让您几乎可以在任何地方带来真正低音炮的刺激。]]></description>
       <guid>https://www.wired.com/review/brane-x/</guid>
       <pubDate>Fri, 03 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -83,17 +83,17 @@
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
-      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
-      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
-      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
       <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
       <description><![CDATA[企业家 Jeff Lawson 计划重振备受尊敬的讽刺媒体 The Onion，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
       <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>零碎的加密货币挖矿公司 CoreWeave 如何转型成为价值数十亿美元的人工智能热潮支柱</title>
+      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
+      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
+      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -104,9 +104,9 @@
       <pubDate>Fri, 03 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在晚上关掉电子设备以便安然入睡</title>
+      <title>如何在晚上关闭你的电子设备以便入睡</title>
       <link>https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/</link>
-      <description><![CDATA[消除嘟嘟声和杂音，休息一下以进行改变。]]></description>
+      <description><![CDATA[停止嘟嘟声和嘟嘟声，休息一会儿。]]></description>
       <guid>https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/</guid>
       <pubDate>Fri, 03 May 2024 12:00:00 GMT</pubDate>
     </item>
