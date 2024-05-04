@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>全球|大西洋组织</title>
+    <title>全球 | 大西洋</title>
     <link>https://www.theatlantic.com/international/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 18:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:23:23 GMT</lastBuildDate>
+    <item>
+      <title>委内瑞拉真的要入侵圭亚那吗？</title>
+      <link>https://www.theatlantic.com/international/archive/2024/05/venezuela-guyana-essequibo-border-dispute-referendum/678173/?utm_source=feed</link>
+      <description><![CDATA[两个拉丁美洲国家之间发生战争几乎是不可想象的。俄罗斯对乌克兰的入侵也是如此。]]></description>
+      <guid>https://www.theatlantic.com/international/archive/2024/05/venezuela-guyana-essequibo-border-dispute-referendum/678173/?utm_source=feed</guid>
+      <pubDate>Sat, 04 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>瓦格纳在非洲做什么？</title>
       <link>https://www.theatlantic.com/international/archive/2024/05/wagner-africa-russia-mercenary/678258/?utm_source=feed</link>
@@ -29,7 +36,7 @@
     <item>
       <title>伊朗是一个国家还是一个事业？</title>
       <link>https://www.theatlantic.com/international/archive/2024/05/iran-irgc-attack-israel/678247/?utm_source=feed</link>
-      <description><![CDATA[在长达数十年的有关德黑兰外交政策的斗争中，理论家们正在赢得胜利。]]></description>
+      <description><![CDATA[这些理论家正在赢得一场长达数十年的关于德黑兰外交政策的斗争。]]></description>
       <guid>https://www.theatlantic.com/international/archive/2024/05/iran-irgc-attack-israel/678247/?utm_source=feed</guid>
       <pubDate>Wed, 01 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>印度是独裁国家吗？</title>
       <link>https://www.theatlantic.com/international/archive/2024/04/india-autocracy/678172/?utm_source=feed</link>
-      <description><![CDATA[民主规范的侵蚀并不是从纳伦德拉·莫迪开始的。]]></description>
+      <description><![CDATA[民主规范的侵蚀并非始于纳伦德拉·莫迪。]]></description>
       <guid>https://www.theatlantic.com/international/archive/2024/04/india-autocracy/678172/?utm_source=feed</guid>
       <pubDate>Fri, 26 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>智利令人惊叹的国家公园</title>
       <link>https://www.theatlantic.com/photo/2024/04/photos-chiles-amazing-national-parks/678166/?utm_source=feed</link>
-      <description><![CDATA[智利多个国家公园的图像，涵盖了各种各样的环境]]></description>
+      <description><![CDATA[智利几个国家公园的图像，涵盖各种环境]]></description>
       <guid>https://www.theatlantic.com/photo/2024/04/photos-chiles-amazing-national-parks/678166/?utm_source=feed</guid>
       <pubDate>Wed, 24 Apr 2024 18:55:12 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[以色列和巴勒斯坦问题必须重新界定和调整。]]></description>
       <guid>https://www.theatlantic.com/international/archive/2024/04/israel-palestine-gaza-war-only-path-forward/678087/?utm_source=feed</guid>
       <pubDate>Wed, 17 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>普通伊朗人不希望与以色列发生战争</title>
-      <link>https://www.theatlantic.com/international/archive/2024/04/iran-war-israel-missile-strikes-drones/678066/?utm_source=feed</link>
-      <description><![CDATA[伊朗人民知道他们的主要敌人在国内。]]></description>
-      <guid>https://www.theatlantic.com/international/archive/2024/04/iran-war-israel-missile-strikes-drones/678066/?utm_source=feed</guid>
-      <pubDate>Sun, 14 Apr 2024 11:39:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
