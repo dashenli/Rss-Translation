@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>The Verge - 所有文章</title>
+    <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 21:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 00:55:44 GMT</lastBuildDate>
+    <item>
+      <title>微软需要一些时间来“完善”Windows 中 Copilot AI 的更新</title>
+      <link>https://www.theverge.com/2024/5/3/24148473/windows-11-insider-copilot-preview-beta-dev-channel</link>
+      <description><![CDATA[&lt;图&gt;
+      
+边缘
+
+微软的 最新的 Windows Insider 博客文章表示，在测试 Windows 11 中的新 Copilot 功能时，“我们决定暂停这些体验的推出，以便根据用户反馈进一步完善它们。”对于已经拥有该功能的人来说，“Windows 中的 Copilot 将继续按预期工作，同时我们将继续与 Windows Insiders 一起发展新想法。” 
+微软持有5 月 20 日举行的人工智能活动，这将是展示更多未来发展的好时机，并且在将 2024 年定为“人工智能 PC 年”之后，Windows 键盘上的新 Copilot 键，有很多值得期待的地方。
+
+我们期待看到搭载高通 Snapdragon X Elite 处理器的新款 Surface 笔记本电脑，这些处理器在 Arm 上运行 Windows，并与苹果 M3 驱动的 MacBook Air 竞争。与此同时，Windows 预计将推出新功能包含一个类似于旧版 Windows 10 的 AI Explorer 应用 时间轴功能可以记住您正在做什么，并允许用户跨不同设备接取任务，并发挥“每个人的副驾驶”的想法。 
+
+
+
+汤姆·沃伦 / The Verge 的截图
+工作中的副驾驶动画图标
+
+微软最近在预览版中测试的 Copilot 功能包括 Copilot 任务栏图标以动画形式显示 AI 助手何时可以提供帮助。然后，您可以将鼠标图标悬停在其上以查看您的选项，例如获取 AI 生成的文本摘要。
+
+
+图片：微软
+Copilot 在自己的应用程序窗口中
+
+另一个允许 Windows 中的 Copilot 从侧边栏弹出并进入普通应用程序窗口，用户可以调整该窗口的大小和移动。此功能开始推出到 三月份的金丝雀频道。 
+新版本将发布到 开发 和 Beta 频道修复了 Copilot 在重启后意外自动启动的问题。文件资源管理器中选项卡的右键菜单中还有一个新的快捷方式，允许用户复制当前选项卡。但对于那些密切关注任务管理器的人来说，最重要的一点是 微软已更新了单位以正确反映内存速度，从去年的 MHz 变为支持 DDR 的 MT/s 计数。
+]]></description>
+      <guid>https://www.theverge.com/2024/5/3/24148473/windows-11-insider-copilot-preview-beta-dev-channel</guid>
+      <pubDate>Fri, 03 May 2024 23:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌禁止广告商推广深度伪造色情服务</title>
+      <link>https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Google 长期以来一直禁止露骨色情广告，但到目前为止，该公司尚未禁止广告商宣传人们可以用来制作深度伪造色情内容的服务 以及其他形式的生成裸体。这种情况即将改变。 
+Google 目前禁止广告商宣传“露骨的性内容”，谷歌将其定义为“旨在引起性欲的文字、图像、音频或图形性行为视频”。 新政策现在禁止投放以下服务的广告：帮助用户创建此类内容，无论是通过改变一个人的形象还是生成一个新的形象。
+这项变更将于 5 月 30 日生效，禁止“宣传经过修改或生成的露骨或包含裸露内容的合成内容”，例如指导人们如何使用的网站和应用创建深度伪造色情内容。 
+“此更新是为了明确禁止提供创建深度伪造色情内容或合成裸体内容的服务的广告，”Google 发言人 Michael Aciman 告诉 The Verge。
+Aciman 表示，任何违反其政策的广告都将被删除，并补充说该公司结合使用人工审核和自动化系统来执行这些政策。根据该公司的 年度广告安全报告。 
+此更改是首次报告的由 404 Media 提供。正如 404 所指出的，虽然 Google 已经禁止广告商宣传露骨的色情内容，但一些促进深度伪造色情内容创作的应用程序已经通过在 Google 广告或 Google Play 中将自己宣传为非色情内容来绕过这一规定店铺。例如，一款换脸应用程序并没有在 Google Play 商店上将自己宣传为露骨色情，而是在色情网站上进行了宣传。 
+非自愿的深度伪造色情内容近年来已成为一个持续存在的问题。 去年 12 月，两名佛罗里达州中学生被捕涉嫌制作人工智能生成的同学裸照。就在本周，一名 57 岁的匹兹堡男子 因拥有深度伪造的儿童性虐待材料而被判处 14 年以上监禁。去年，联邦调查局发布了一份咨询关于勒索计划的“增加”，其中涉及用人工智能生成的裸体勒索人们。虽然许多人工智能模型让用户很难（如果不是不可能的话）创建人工智能生成的裸体，一些服务允许用户生成色情内容。
+可能很快就会针对深度伪造色情内容采取立法行动。上个月，众议院和参议院引入了《反抗法案》，该法案将建立一个程序，通过该程序，“数字伪造”的受害者可以起诉那些未经同意而制作或分发深度伪造品的人。 ]]></description>
+      <guid>https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes</guid>
+      <pubDate>Fri, 03 May 2024 23:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>LG 奇特的公文包电视几乎与迄今为止的最优惠价格相当</title>
+      <link>https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale</guid>
+      <pubDate>Fri, 03 May 2024 22:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动驾驶激光雷达制造商 Luminar 裁员 20%</title>
+      <link>https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle</guid>
+      <pubDate>Fri, 03 May 2024 21:22:40 GMT</pubDate>
+    </item>
     <item>
       <title>环境新闻受到攻击</title>
       <link>https://www.theverge.com/2024/5/3/24148088/environmental-journalism-attack-unesco-report-press-freedom</link>
@@ -102,66 +163,6 @@ DoorDash 在下单后提高小费的做法是该公司对送货司机新的 17.9
 虽然 PSN 帐户是免费且注册速度快的，但玩家确实有理由感到不安。 PSN 并非在所有地方都可用，此举可能会将某些国家/地区的玩家永久锁定在游戏之外。玩家也表达了对其数据安全的担忧。索尼最近遭受了数据泄露，但信息被盗的对象是员工，而不是客户。]]></description>
       <guid>https://www.theverge.com/2024/5/3/24148144/helldivers-2-steam-psn-account-link-review-bombing</guid>
       <pubDate>Fri, 03 May 2024 17:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>海信推出售价 999 美元的 CanvasTV，作为三星 Frame 的更便宜的竞争对手</title>
-      <link>https://www.theverge.com/2024/5/3/24148080/hisense-cheaper-canvastv-samsung-frame</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：海信
-
-海信是 推出 CanvasTV，这是一款磨砂电视，旨在展示艺术品和照片，让它在不使用时与您的其他装饰融为一体。如果听起来类似于 The Frame by Samsung&lt; /a&gt;，那是因为它确实如此——但不同的是 CanvasTV 的起价便宜了几百美元。
-CanvasTV 有 55 英寸和 65 英寸两种尺寸，每种售价分别为 999 美元和 1,299 美元。为了进行比较，The Frame 55 英寸的售价为 1,499 美元，65 英寸的售价为 1,999 美元。与 The Frame 一样，海信 CanvasTV 也提供 4K QLED 防眩光显示屏。它还配备 144Hz 刷新率、用于环境光适应的 RGB 传感器和多声道 2.0.2 环绕声。
-
-
-图片：海信
-
-CanvasTV 预装了“涵盖抽象、现代和文艺复兴风格”的艺术作品。您还可以通过点击遥控器上的“艺术模式”按钮在显示艺术品和个人照片之间切换。电视配有运动传感器，可以检测房间内的人员，从而在周围无人时关闭电视。 
-去年，海信展示了配备框架的CES 期间的 M1 系列电视，然后推出遮罩，中国推出的55英寸艺术电视R7，配有可拆卸支架。 
-
-虽然 LG 提供 “图库模式”一些电视可以展示艺术品（以及展示 NFT 的能力&lt; /a&gt;）和许多其他智能电视制造商都推出了各种画廊应用程序，如果您必须拥有一款旨在使用艺术来隐藏在众目睽睽之下的产品，那么海信的 CanvasTV 将是美国最便宜的选择 - 至少目前是这样。
-除了壁挂支架外，海信还为 CanvasTV 配备了柚木框架，但您可以将其更换为单独出售的可互换的白色或胡桃木框架。 CanvasTV 将于今年夏天上市。
-美国东部时间 5 月 3 日下午 1:56 更新：更新了定价信息。]]></description>
-      <guid>https://www.theverge.com/2024/5/3/24148080/hisense-cheaper-canvastv-samsung-frame</guid>
-      <pubDate>Fri, 03 May 2024 16:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州实验室种植肉类禁令背后的阴谋论</title>
-      <link>https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis</link>
-      <description><![CDATA[&lt;图&gt;
-      
-摄影：Paul Hennessy / SOPA Images / LightRocket via Getty Images
-
-佛罗里达州州长 Ron DeSantis 于周三签署了一项法案 禁止在该州销售实验室培育的肉类。该立法是对该州养牛业的明确施舍：该州农业专员表示，这是为了保护“我们令人难以置信的农民和美国农业的完整性”。但德桑蒂斯的声明清楚地表明，就像他所钟爱的许多其他事业一样，实验室培育的肉类禁令是一个文化战争问题。
-“今天，佛罗里达州正在反击全球精英的计划，该计划迫使世界各地吃培养皿中生长的肉或虫子，以实现他们的独裁目标，”德桑蒂斯 当天在一份声明中表示法案已签署。一份新闻稿宣称佛罗里达州正在“采取行动阻止世界经济论坛强迫世界食用实验室培育的肉类和昆虫的目标”，这暗示了一些右翼人士已经流行的边缘阴谋论。
-实际上，实验室种植的或“培育的”肉大多数消费者还无法使用。与肉类替代品不同，培育肉是由动物细胞制成的。美国食品和药物管理局只批准了 Upside Food 和 Good Meat 这两家公司的实验室培育肉类，这两家公司都没有在商店销售其产品。 2023 年，两家餐厅开始供应实验室培育的肉类：China Chilcano，主厨 José Andrés 的 位于华盛顿特区的高端秘鲁餐厅，以及 Bar Crenn，旧金山的米其林星级餐厅。两家餐厅这项禁令可以被认为是一种先发制人的努力，以确保事情保持这种状态——而且很可能是这样——但它也是对德桑蒂斯基地中相信阴谋的某些人的警告。关于所谓的“全球主义者”强迫我们吃虫子、住在豆荚里的理论。这一理论通常被称为“大重置”，于 2020 年首次兴起。它以世界经济论坛的一项倡议命名，该倡议敦促各国政府利用疫情来促进可持续发展。右翼评论员将“大重置”倡议与 2016 年世界经济论坛关于昆虫蛋白的博客文章和 2013 年联合国出版的一本关于昆虫养殖的书混为一谈。 
-最终，佛罗里达州对实验室培育肉类的禁令与昆虫蛋白或世界经济论坛无关 - 但德桑蒂斯当然希望选民认为它与此相关。]]></description>
-      <guid>https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis</guid>
-      <pubDate>Fri, 03 May 2024 16:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T Turbo 将以每月 7 美元的价格提升您的服务</title>
-      <link>https://www.theverge.com/2024/5/3/24147641/att-turbo-prioritization-performance-data</link>
-      <description><![CDATA[&lt;图&gt;
-      
-运营商又来了。 |插图：The Verge
-
-AT&amp;T 为其部分套餐提供了新的可选功能。它称为 Turbo，每月 7 美元，它为一系列产品提供“更好的速度和稳定性”通过将您的数据计划升级为“性能数据”来提供服务。 AT&amp;T 将其定位为一个附加组件，以帮助满足游戏等要求苛刻的应用程序。好的，但是“性能数据”到底是什么？有点不清楚。但我们可以根据它不是什么将其拼凑在一起。
-如果您希望 Turbo 能够帮助提升预付费或入门级后付费计划的服务，我有坏消息。它仅适用于 AT&amp;T 的少数后付费套餐：Unlimited Premium PL、Unlimited Extra EL 和 Unlimited Elite。它们已经是 AT&amp;T 最高档、最昂贵的套餐之一，提供大量热点数据和“优质数据”，在网络繁忙时不会出现速度减慢的情况。此外，Turbo 仅适用于您的套餐包含的数据分配 - 如果您用完热点或高级数据，您的速度仍然会变慢。
-Turbo 未使用下一代L4S 等技术也可以使连接更加稳定。 AT&amp;T 消费产品高级副总裁 Erin Scarborough 表示，“目前尚未使用 L4S 技术，但我们计划在未来继续推进和发展 AT&amp;T Turbo。”
-移动设备报告表明 Turbo 只是将客户提升到更高的服务级别，即所谓的服务质量等级指标 (QCI)。在幕后，无线网络将这些优先级分配给不同类型的网络流量。一些 AT&amp;T 客户发现他们的无线数据 QCI 水平最近下降了 &gt;一层。那么 AT&amp;T 是否只是向人们兜售以前包含在其计划中的速度？ 
-AT&amp;T 毫不奇怪地 声称情况并非如此。 Scarborough 解释道：“虽然 AT&amp;T Turbo 目前分配给了之前分配过我们一些消费者流量的 QCI，但我们对其进行了重大修改，并增加了网络资源和 AT&amp;T Turbo 流量的相对权重，从而创造了更高的性能水平比我们以前为消费者提供的要高。”很好。
-这仍然不能完全解释什么是性能数据，但如果没有别的，整件事都在提醒您，无线运营商的条款总是比表面上看到的更多。 别理我开始“无限制”。
-]]></description>
-      <guid>https://www.theverge.com/2024/5/3/24147641/att-turbo-prioritization-performance-data</guid>
-      <pubDate>Fri, 03 May 2024 16:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读 Satya Nadella 关于将安全放在首位的 Microsoft 备忘录</title>
-      <link>https://www.theverge.com/24148033/satya-nadella-microsoft-security-memo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24148033/satya-nadella-microsoft-security-memo</guid>
-      <pubDate>Fri, 03 May 2024 15:46:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
