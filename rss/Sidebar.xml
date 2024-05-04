@@ -3,8 +3,8 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Sat, 04 May 2024 12:24:58 GMT</lastBuildDate>
+    <description>每个工作日的五个最佳设计链接。</description>
+    <lastBuildDate>Sat, 04 May 2024 15:15:49 GMT</lastBuildDate>
     <item>
       <title>泽尔曼肉类标志由红点工作室设计</title>
       <link>https://www.logodesignlove.com/zelman-meats</link>
@@ -24,7 +24,7 @@
     <item>
       <title>Figma 中的版式变量在这里</title>
       <link>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</link>
-      <description><![CDATA[以及 Figma 框架活动中的所有其他新内容。
+      <description><![CDATA[以及 Figma 框架活动中的其他所有新内容。
 ]]></description>
       <guid>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</guid>
       <pubDate>Thu, 02 May 2024 07:24:00 GMT</pubDate>
@@ -102,7 +102,7 @@
       <pubDate>Tue, 30 Apr 2024 06:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学中最难的问题：居中</title>
+      <title>计算机科学中最难的问题：事物中心化</title>
       <link>https://tonsky.me/blog/centering/</link>
       <description><![CDATA[不知何故，我们忘记了如何使矩形居中，必须找到回来的路
 ]]></description>
@@ -112,7 +112,7 @@
     <item>
       <title>使用 React Three Fiber 构建交互式 3D 活动徽章</title>
       <link>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</link>
-      <description><![CDATA[查看完整的工作演示，了解我们如何使用 React Three Fiber 和 react-three-rapier 构建交互式 Vercel Ship ’24 徽章。
+      <description><![CDATA[查看完整的工作演示，了解我们如何使用 React Three Fiber 和 React- Three-rapier 构建交互式 Vercel Ship &#39;24 徽章。
 ]]></description>
       <guid>https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber</guid>
       <pubDate>Tue, 30 Apr 2024 06:45:36 GMT</pubDate>
