@@ -4,17 +4,17 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Sun, 05 May 2024 18:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 21:13:32 GMT</lastBuildDate>
     <item>
-      <title>泽尔曼肉类标志由红点工作室设计</title>
+      <title>Zelman Meats 徽标由 Red Dot Studio 设计</title>
       <link>https://www.logodesignlove.com/zelman-meats</link>
-      <description><![CDATA[Zelman Meats 徽标由 Red Dot Studio 的 Sam Lachlan 设计，标志着位于伦敦骑士桥的 Misha Zelman 牛排馆。
+      <description><![CDATA[Zelman Meats 徽标由 Red Dot Studio 的 Sam Lachlan 设计，标识了位于伦敦骑士桥的 Misha Zelman 牛排馆。
 ]]></description>
       <guid>https://www.logodesignlove.com/zelman-meats</guid>
       <pubDate>Thu, 02 May 2024 07:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>AI图像反馈环路</title>
+      <title>AI 图像反馈循环</title>
       <link>https://kottke.org/24/04/ai-image-feedback-loop</link>
       <description><![CDATA[数据艺术家 Robert Hodgin 最近在 Midjourney 和 ChatGPT-4 之间创建了一个反馈循环。
 ]]></description>
@@ -30,9 +30,9 @@
       <pubDate>Thu, 02 May 2024 07:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>CSS 砌体的替代提案</title>
+      <title>CSS masonry 的替代方案</title>
       <link>https://developer.chrome.com/blog/masonry</link>
-      <description><![CDATA[以不同规范定义砌体和网格的提案。
+      <description><![CDATA[关于在不同规范中定义砌体和网格的建议。
 ]]></description>
       <guid>https://developer.chrome.com/blog/masonry</guid>
       <pubDate>Thu, 02 May 2024 07:23:00 GMT</pubDate>
@@ -48,7 +48,7 @@
     <item>
       <title>自修改变量：inherit() 解决方法</title>
       <link>https://kizu.dev/self-modifying-variables/</link>
-      <description><![CDATA[样式查询将打开许多扇门。
+      <description><![CDATA[样式查询将打开许多大门。
 ]]></description>
       <guid>https://kizu.dev/self-modifying-variables/</guid>
       <pubDate>Wed, 01 May 2024 11:40:00 GMT</pubDate>
@@ -102,9 +102,9 @@
       <pubDate>Tue, 30 Apr 2024 06:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学中最难的问题：居中</title>
+      <title>计算机科学中最难的问题：使事物居中</title>
       <link>https://tonsky.me/blog/centering/</link>
-      <description><![CDATA[不知何故，我们忘记了如何将矩形居中，必须找到返回的方法
+      <description><![CDATA[不知何故，我们忘记了如何使矩形居中，必须找到回来的路
 ]]></description>
       <guid>https://tonsky.me/blog/centering/</guid>
       <pubDate>Tue, 30 Apr 2024 06:51:09 GMT</pubDate>
@@ -120,7 +120,7 @@
     <item>
       <title>交替样式查询</title>
       <link>https://kizu.dev/alternating-style-queries/</link>
-      <description><![CDATA[随着容器样式查询的出现，现在是对其进行更多实验的好时机。
+      <description><![CDATA[随着容器样式查询的出现，现在是使用它们进行更多实验的好时机。
 ]]></description>
       <guid>https://kizu.dev/alternating-style-queries/</guid>
       <pubDate>Tue, 30 Apr 2024 06:44:50 GMT</pubDate>
