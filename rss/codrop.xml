@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科多普</title>
+    <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Sun, 05 May 2024 12:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:16:23 GMT</lastBuildDate>
     <item>
       <title>集体#835</title>
       <link>https://tympanus.net/codrops/collective/collective-835/</link>
@@ -64,12 +64,12 @@
     <item>
       <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
       <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
-      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充简约的设计选择。]]></description>
+      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充极简的设计选择。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</guid>
       <pubDate>Wed, 24 Apr 2024 09:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>滚动显示模糊文本</title>
+      <title>滚动时显示模糊文本</title>
       <link>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</link>
       <description><![CDATA[受 Rauno 的“模糊显示”启发，滚动上的模糊文本显示动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/23/blurry-text-reveal-on-scroll/</guid>

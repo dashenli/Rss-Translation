@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Sun, 05 May 2024 12:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:14:17 GMT</lastBuildDate>
+    <item>
+      <title>PS5 Pro：我们所知道的有关 PlayStation 下一代游戏机的一切</title>
+      <link>https://www.ign.com/articles/ps5-pro-everything-we-know</link>
+      <description><![CDATA[您会购买索尼的高端 PS5 吗？]]></description>
+      <guid>https://www.ign.com/articles/ps5-pro-everything-we-know</guid>
+      <pubDate>Sun, 05 May 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>每日优惠：《星球大战绝地：幸存者》、《乐高星球大战：天行者传奇》、《乐高星球大战儿童》</title>
       <link>https://www.ign.com/articles/daily-deals-star-wars-jedi-survivor-lego-star-wars-the-skywalker-saga-lego-star-wars-the-child</link>
@@ -20,17 +27,17 @@
       <pubDate>Sat, 04 May 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何按顺序玩佳能星球大战游戏</title>
-      <link>https://www.ign.com/articles/star-wars-games-in-order-canon-timeline</link>
-      <description><![CDATA[这些游戏正式成为星球大战宇宙的一部分。]]></description>
-      <guid>https://www.ign.com/articles/star-wars-games-in-order-canon-timeline</guid>
-      <pubDate>Sat, 04 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>被遗忘的宝石：传说中的食人魔之战</title>
       <link>https://www.ign.com/articles/forgotten-gems-the-legendary-ogre-battle</link>
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/forgotten-gems-the-legendary-ogre-battle</guid>
+      <pubDate>Sat, 04 May 2024 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何按顺序玩佳能星球大战游戏</title>
+      <link>https://www.ign.com/articles/star-wars-games-in-order-canon-timeline</link>
+      <description><![CDATA[这些游戏正式成为星球大战宇宙的一部分。]]></description>
+      <guid>https://www.ign.com/articles/star-wars-games-in-order-canon-timeline</guid>
       <pubDate>Sat, 04 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 20:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>Arrowhead 首席执行官就《地狱潜行者 2》在 Steam 上遭遇评论轰炸道歉：“我只想制作出色的游戏”</title>
+      <title>Arrowhead 首席执行官就《地狱潜水者 2》在 Steam 上遭到评论轰炸而道歉：“我只是想制作出色的游戏”</title>
       <link>https://www.ign.com/articles/arrowhead-ceo-apologizes-amid-helldivers-2-review-bombing</link>
       <description><![CDATA[在索尼宣布玩家必须将其 Steam 帐户链接到 PlayStation 网络帐户才能继续玩游戏后，Arrowhead 首席执行官 Johan Pilestedt 在 Steam 评论轰炸中向《Helldivers 2》玩家道歉。]]></description>
       <guid>https://www.ign.com/articles/arrowhead-ceo-apologizes-amid-helldivers-2-review-bombing</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>在社区强烈抗议后，Riot 声称新的英雄联盟反作弊软件不会使 PC 变砖</title>
       <link>https://www.ign.com/articles/riot-assures-players-that-new-league-of-legends-anti-cheat-software-is-not-bricking-pcs</link>
-      <description><![CDATA[Riot Games 公开回应了有关《英雄联盟》新反作弊软件 Vanguard 正在破坏玩家 PC 设备的指控。]]></description>
+      <description><![CDATA[Riot Games 公开回应了有关《英雄联盟》新反作弊软件 Vanguard 正在破坏玩家 PC 设备的说法。]]></description>
       <guid>https://www.ign.com/articles/riot-assures-players-that-new-league-of-legends-anti-cheat-software-is-not-bricking-pcs</guid>
       <pubDate>Fri, 03 May 2024 17:51:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这些是最适合团体的游戏，从轻松愉快的派对游戏到供朋友一起制定策略的书呆子棋盘游戏！]]></description>
       <guid>https://www.ign.com/articles/best-board-games-for-parties-and-large-groups</guid>
       <pubDate>Fri, 03 May 2024 14:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年您可以买到的最佳 PS5 SSD</title>
-      <link>https://www.ign.com/articles/best-ps5-ssd</link>
-      <description><![CDATA[需要更多存储空间？]]></description>
-      <guid>https://www.ign.com/articles/best-ps5-ssd</guid>
-      <pubDate>Fri, 03 May 2024 14:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

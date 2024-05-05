@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg 热门新闻</title>
+    <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Sun, 05 May 2024 12:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:15:36 GMT</lastBuildDate>
+    <item>
+      <title>你可能永远不会参加 NHL，除非你出生在这片奇怪的土地上</title>
+      <link>https://rss.digg.com/sports/link/hockey-births-north-america-nhl-reddit</link>
+      <description><![CDATA[曲棍球运动员的队伍蜿蜒曲折，从大海延伸到波光粼粼的大海。]]></description>
+      <guid>https://rss.digg.com/sports/link/hockey-births-north-america-nhl-reddit</guid>
+      <pubDate>Wed, 01 May 2024 18:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年夏天上映的十部最精彩的电视节目</title>
+      <link>https://rss.digg.com/movies-and-tv/link/summer-tv-preview-guide-netflix-hulu-disney-apple</link>
+      <description><![CDATA[暑期档的重磅剧目不少，最值得期待的莫过于全新剧了。]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/summer-tv-preview-guide-netflix-hulu-disney-apple</guid>
+      <pubDate>Wed, 01 May 2024 17:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚皮肤癌公益广告将严重毁掉你的整个夏天</title>
+      <link>https://rss.digg.com/digg-vids/link/scary-skin-cancer-the-dark-side-of-tanning-Australian-psa-video</link>
+      <description><![CDATA[看完这个我真的能感觉到我的皮肤在起鸡皮疙瘩。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/scary-skin-cancer-the-dark-side-of-tanning-Australian-psa-video</guid>
+      <pubDate>Wed, 01 May 2024 16:58:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>房屋装修期间你不应该做的一切</title>
+      <link>https://www.businessinsider.com/home-renovation-nightmare-home-improvement-contractors-consumer-protection-contract-law-2024-5?utm_source=digg&amp;utm_medium=social&amp;utm_campaign=standard-post</link>
+      <description><![CDATA[作者想要的只是一个漂亮的避暑别墅。他们得到的是价值 50 万美元的合同法课程。]]></description>
+      <guid>https://www.businessinsider.com/home-renovation-nightmare-home-improvement-contractors-consumer-protection-contract-law-2024-5?utm_source=digg&amp;utm_medium=social&amp;utm_campaign=standard-post</guid>
+      <pubDate>Wed, 01 May 2024 16:14:17 GMT</pubDate>
+    </item>
     <item>
       <title>美国各州薪酬最高的工作与全国平均水平的比较</title>
       <link>https://rss.digg.com/data-viz/link/highest-paying-jobs-US-states-vs-national-average</link>
@@ -13,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 15:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>这种古怪的文艺复兴时期公平饮酒传统确实不适合在工作场所进行</title>
+      <title>这种奇特的文艺复兴时期的公平饮酒传统是严重不科学的</title>
       <link>https://rss.digg.com/digg-vids/link/renaissance-fair-drinking-video</link>
       <description><![CDATA[你只知道这之后情侣就分手了。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/renaissance-fair-drinking-video</guid>
@@ -27,18 +55,11 @@
       <pubDate>Wed, 01 May 2024 15:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>在摄像机拍到他这样做后，他将永远不会再出现在电视直播中</title>
+      <title>摄像机拍到他这样做后，他将永远不会再出现在电视直播中</title>
       <link>https://rss.digg.com/digg-vids/link/live-tv-audience-mistakes-hilarious-epic-fail-video</link>
-      <description><![CDATA[更糟糕的是，这件事发生了两次。]]></description>
+      <description><![CDATA[更糟糕的是，这样的事情发生了两次。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/live-tv-audience-mistakes-hilarious-epic-fail-video</guid>
       <pubDate>Wed, 01 May 2024 15:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周评论：《替罪羊》、《我看到电视发光》和《驯鹿宝宝》都是获奖者</title>
-      <link>https://rss.digg.com/movies-and-tv/link/the-fall-guy-challengers-i-saw-the-tv-glow-knuckles-rebel-moon-baby-reindeer-reviews-rt</link>
-      <description><![CDATA[过去的一周给我们带来了《挑战者》、《指关节》和很多值得一看的好东西。忘记夏天了，大家都应该待在室内！]]></description>
-      <guid>https://rss.digg.com/movies-and-tv/link/the-fall-guy-challengers-i-saw-the-tv-glow-knuckles-rebel-moon-baby-reindeer-reviews-rt</guid>
-      <pubDate>Wed, 01 May 2024 14:09:28 GMT</pubDate>
     </item>
     <item>
       <title>美国各州和城市中产阶级所需的收入</title>
@@ -46,20 +67,6 @@
       <description><![CDATA[有六个城市的收入超过 30 万美元仍可跻身中产阶级。]]></description>
       <guid>https://rss.digg.com/finance/link/middle-class-income-america-states-cities</guid>
       <pubDate>Wed, 01 May 2024 11:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的妻子希望我停止给妈妈寄钱，以及其他家庭闹剧故事</title>
-      <link>https://rss.digg.com/relationships/link/family-drama-relationship-advice-marriage-help-coumn-Reddit-digg-roundup</link>
-      <description><![CDATA[公开母乳喂养导致婚纱照被剪裁，两姐妹闹翻。]]></description>
-      <guid>https://rss.digg.com/relationships/link/family-drama-relationship-advice-marriage-help-coumn-Reddit-digg-roundup</guid>
-      <pubDate>Tue, 30 Apr 2024 20:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>一张残酷图表显示美国各行业失业率</title>
-      <link>https://rss.digg.com/data-viz/link/us-unemployment-industry-chart-reddit</link>
-      <description><![CDATA[农业工人的失业率是教育和医疗保健工人的三倍多。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/us-unemployment-industry-chart-reddit</guid>
-      <pubDate>Tue, 30 Apr 2024 19:18:44 GMT</pubDate>
     </item>
     <item>
       <title>她只是想坐在飞溅区——接下来发生的事情并没有出现在宣传册中</title>
@@ -76,13 +83,6 @@
       <pubDate>Tue, 30 Apr 2024 16:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年暑期档十部最受期待电影排名</title>
-      <link>https://rss.digg.com/movies-and-tv/link/2024-summer-movie-preview-releases-deadpool-wolverine</link>
-      <description><![CDATA[这个夏天并没有很多选择，但如果有一些游戏出现，那么我们会很高兴。]]></description>
-      <guid>https://rss.digg.com/movies-and-tv/link/2024-summer-movie-preview-releases-deadpool-wolverine</guid>
-      <pubDate>Tue, 30 Apr 2024 14:12:17 GMT</pubDate>
-    </item>
-    <item>
       <title>这些美国城镇几乎无人居住</title>
       <link>https://digg.com/real-estate/link/america-ghost-towns-losing-population-cities-ranked-T1kSfLp4GA#comments</link>
       <description><![CDATA[自 2010 年以来，美国有三个城镇的人口已降至零，其他城镇的人口也在减少。]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Mon, 29 Apr 2024 19:05:44 GMT</pubDate>
     </item>
     <item>
-      <title>您将见过的六部最荒唐、最不可预测的黑色喜剧</title>
+      <title>你将看到的六部最荒谬、最不可预测的黑色喜剧</title>
       <link>https://rss.digg.com/movies-and-tv/link/best-surreal-absurdist-dark-comedies-for-adults</link>
       <description><![CDATA[这些电影很有趣、非常怪异和黑暗，而且很有可能让你坐在沙发上说：“世界上到底发生了什么事？”]]></description>
       <guid>https://rss.digg.com/movies-and-tv/link/best-surreal-absurdist-dark-comedies-for-adults</guid>
