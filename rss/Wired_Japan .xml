@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>日本连线</title>
+    <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 05 May 2024 09:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:25:03 GMT</lastBuildDate>
     <item>
       <title>“Amazfit Balance”评测：健身追踪器设计出色，但功能和设置存在问题</title>
       <link>https://wired.jp/article/amazfit-balance-review/</link>
@@ -15,19 +15,19 @@
     <item>
       <title>保姆机器人“Iruyo”安抚开车时不停哭泣的孩子</title>
       <link>https://wired.jp/article/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</link>
-      <description><![CDATA[日产汽车有限公司与 TBWA\HAKUHODO 和 Akachan Honpo 合作开发的保姆机器人概念模型，利用传感技术读取孩子的面部表情并对父母的声音做出反应。]]></description>
+      <description><![CDATA[日产汽车有限公司与 TBWA\HAKUHODO 和 Akachan Honpo 合作开发的保姆机器人概念模型，利用传感技术读取孩子的面部表情，并在驾驶员无法直接照顾孩子时对父母的声音做出反应。会支持你的。]]></description>
       <guid>https://wired.jp/article/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</guid>
       <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>风力发电维修技术人员在现场做什么工作？退伍军人讲述“高空作业”的现实</title>
       <link>https://wired.jp/article/it-takes-guts-to-fix-wind-turbines-for-a-living/</link>
-      <description><![CDATA[随着可再生能源的利用加速，全球风电场的数量不断增加。维护风力涡轮机的维修工程师是稳定运行不可或缺的。什么样的工作涉及高空作业？一位拥有13年经验的老兵说道。]]></description>
+      <description><![CDATA[随着可再生能源的利用加速，全球风力发电厂的数量不断增加。维护风力涡轮机的维修工程师是稳定运行不可或缺的。什么样的工作涉及高空作业？一位拥有13年经验的老兵说道。]]></description>
       <guid>https://wired.jp/article/it-takes-guts-to-fix-wind-turbines-for-a-living/</guid>
       <pubDate>Sat, 04 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果您将相机的 ISO 感光度最大化，您会看到什么样的世界？日本摄影师发送的日常生活“噪音图形”</title>
+      <title>如果您将相机的 ISO 感光度最大化，您会看到什么样的世界？日本摄影师发来的日常生活“噪音图形”</title>
       <link>https://wired.jp/article/iso1638400-photographs/</link>
       <description><![CDATA[“ISO感光度”表示相机捕捉光线的能力。如果这个值增加到最大，将会预测出一个什么样的世界？一位日本摄影师继续在作品中分享他以这种方式捕捉到的世界。]]></description>
       <guid>https://wired.jp/article/iso1638400-photographs/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>索尼“PULSE Elite无线耳机”评测：功能齐全，PS5最佳选择之一</title>
       <link>https://wired.jp/article/sony-playstation-pulse-elite-review/</link>
-      <description><![CDATA[索尼的「PULSE Elite 无线耳机」是一款音质良好的多功能游戏耳机。它与 PlayStation 5 特别兼容，可能是最好的选择。]]></description>
+      <description><![CDATA[索尼的“PULSE Elite 无线耳机”是一款具有良好音质的多功能游戏耳机。它特别兼容 PlayStation 5，可能是最好的选择。]]></description>
       <guid>https://wired.jp/article/sony-playstation-pulse-elite-review/</guid>
       <pubDate>Sat, 04 May 2024 02:00:00 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>主编致SZ会员：“过度旅游的未来”SZ通讯VOL.234</title>
       <link>https://wired.jp/article/sz-newsletter-234/</link>
-      <description><![CDATA[威尼斯将开始收取“入场费”，纽约将开始收取“拥堵税”。世界各地的城市都挤满了居民和游客。为来自镰仓的 SZ 会员准备的黄金周时事通讯，镰仓是日本过度旅游日益严重的城市之一。]]></description>
+      <description><![CDATA[威尼斯将开始收取“入场费”，纽约将开始收取“拥堵税”。世界各地的城市都挤满了居民和游客。为来自镰仓的 SZ 会员提供的黄金周时事通讯，镰仓是日本过度旅游日益严重的城市之一。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-234/</guid>
       <pubDate>Fri, 03 May 2024 22:00:00 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>当太阳能水泵将沙漠变成农田时，它们正在迅速耗尽地下水。</title>
       <link>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</link>
-      <description><![CDATA[干旱地区的农民正在转向低成本的太阳能水泵将水输送到他们的田地。太阳能水泵消除了对化石燃料的需求并增加了农作物产量，但与此同时，世界各地的含水层正在枯竭。]]></description>
+      <description><![CDATA[干旱地区的农民正在转向使用低成本的太阳能水泵将水输送到他们的田地。太阳能泵消除了对化石燃料的需求并增加了农作物产量，但它们也耗尽了世界各地的含水层。]]></description>
       <guid>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</guid>
       <pubDate>Thu, 02 May 2024 22:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>探索章鱼智力揭示的研究领域“空白”——“阐明了！” 《章鱼的神秘世界》研究员访谈</title>
       <link>https://wired.jp/article/secrets-of-the-octopus-alexandra-schnell-interview/</link>
-      <description><![CDATA[迪士尼和国家地理正在庆祝地球月，这是人们思考地球的时刻。 《章鱼的神秘世界》开始播出发行。我们向影片中出现的海洋生物学家询问了他对动物智力、动物智力对饮食文化的影响以及动物福利和敏感性的研究。]]></description>
+      <description><![CDATA[在地球月期间，当我们思考地球时，迪士尼和国家地理频道发布了《解释！ 《章鱼的神秘世界》开始播出发行。我们向影片中出现的海洋生物学家询问了他对动物智力、动物智力对饮食文化的影响以及动物福利和敏感性的研究。]]></description>
       <guid>https://wired.jp/article/secrets-of-the-octopus-alexandra-schnell-interview/</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>

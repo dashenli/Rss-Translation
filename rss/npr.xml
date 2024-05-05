@@ -3,19 +3,47 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 05 May 2024 09:14:08 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Sun, 05 May 2024 12:21:57 GMT</lastBuildDate>
     <item>
-      <title>当火箭落下时，一些以色列公民无处可躲</title>
+      <title>内塔尼亚胡内阁投票决定关闭半岛电视台驻以色列办事处</title>
+      <link>https://www.npr.org/2024/05/05/1249205453/netanyahus-cabinet-votes-to-close-al-jazeera-offices-in-israel</link>
+      <description><![CDATA[以色列总理本雅明·内塔尼亚胡周日表示，以色列政府已一致投票决定关闭卡塔尔所属广播公司半岛电视台的当地办事处。]]></description>
+      <guid>https://www.npr.org/2024/05/05/1249205453/netanyahus-cabinet-votes-to-close-al-jazeera-offices-in-israel</guid>
+      <pubDate>Sun, 05 May 2024 11:21:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>原版《哈利·波特》书籍封面艺术有望打破拍卖纪录</title>
+      <link>https://www.npr.org/2024/05/05/1249190713/harry-potter-book-cover-art-auction</link>
+      <description><![CDATA[苏富比 6 月 26 日拍卖托马斯·泰勒为《哈利·波特与魔法石》绘制的水彩插图，预计售价为 400,000 至 600,000 美元。]]></description>
+      <guid>https://www.npr.org/2024/05/05/1249190713/harry-potter-book-cover-art-auction</guid>
+      <pubDate>Sun, 05 May 2024 10:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰泽连斯基在东正教复活节致辞中称上帝是对抗俄罗斯的“盟友”</title>
+      <link>https://www.npr.org/2024/05/05/1249207522/ukraines-zelenskyy-calls-god-an-ally-against-russia-in-orthodox-easter-message</link>
+      <description><![CDATA[总统弗拉基米尔·泽伦斯基在复活节讲话中敦促乌克兰人团结起来祈祷，并称上帝是与俄罗斯战争的“盟友”。]]></description>
+      <guid>https://www.npr.org/2024/05/05/1249207522/ukraines-zelenskyy-calls-god-an-ally-against-russia-in-orthodox-easter-message</guid>
+      <pubDate>Sun, 05 May 2024 09:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥发现的尸体可能是失踪的美国人和两名澳大利亚人</title>
+      <link>https://www.npr.org/2024/05/05/1249210266/bodies-found-in-mexico-likely-those-of-missing-american-and-two-australians</link>
+      <description><![CDATA[官员称，在墨西哥下加利福尼亚州地区发现的三具尸体很可能是上周末在野营旅行中失踪的两名澳大利亚人和一名美国人。]]></description>
+      <guid>https://www.npr.org/2024/05/05/1249210266/bodies-found-in-mexico-likely-those-of-missing-american-and-two-australians</guid>
+      <pubDate>Sun, 05 May 2024 09:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>当火箭弹落下时，一些以色列公民无处可藏</title>
       <link>https://www.npr.org/2024/05/05/1248915615/israel-bedouin-rockets-bomb-shelters</link>
-      <description><![CDATA[虽然以色列的大多数建筑物都被要求设有防空洞，但分区第 22 条规定使贝都因村民得不到保护。]]></description>
+      <description><![CDATA[虽然以色列的大多数建筑物都被要求设有防空洞，但分区的第 22 条规定使贝都因村民得不到保护。]]></description>
       <guid>https://www.npr.org/2024/05/05/1248915615/israel-bedouin-rockets-bomb-shelters</guid>
       <pubDate>Sun, 05 May 2024 09:01:13 GMT</pubDate>
     </item>
     <item>
       <title>特勤局称司机撞上白宫大门后死亡</title>
       <link>https://www.npr.org/2024/05/05/1249213141/driver-dies-after-crashing-into-white-house-perimeter-gate</link>
-      <description><![CDATA[执法部门表示，周六晚，一辆汽车撞上白宫大门，导致一名司机死亡，但此次致命碰撞“仅作为交通事故”进行调查。]]></description>
+      <description><![CDATA[周六晚上，一辆汽车撞上白宫大门，一名司机死亡，但执法当局表示，这起致命碰撞“仅作为交通事故”进行调查。]]></description>
       <guid>https://www.npr.org/2024/05/05/1249213141/driver-dies-after-crashing-into-white-house-perimeter-gate</guid>
       <pubDate>Sun, 05 May 2024 08:54:18 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[这位 NCAA 历史得分王在周五晚上印第安纳狂热队对阵达拉斯翼队的比赛中首次参加职业比赛。克拉克的21分令人印象深刻，但不足以获胜。]]></description>
       <guid>https://www.npr.org/2024/05/04/1249178636/caitlin-clark-wnba-debut</guid>
       <pubDate>Sat, 04 May 2024 17:20:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Zillow Gone Wild”为 HGTV 带来了古怪的房地产列表</title>
-      <link>https://www.npr.org/2024/05/04/1248711088/zillow-gone-wild-tv-series-hgtv-max-instagram</link>
-      <description><![CDATA[Zillow Gone Wild 于 2020 年成立，是一个专门发布稀奇古怪房产的 Instagram 帐户。该节目重点关注在某种程度上违背日常期望的房屋。]]></description>
-      <guid>https://www.npr.org/2024/05/04/1248711088/zillow-gone-wild-tv-series-hgtv-max-instagram</guid>
-      <pubDate>Sat, 04 May 2024 16:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大警方逮捕了杀害锡克分离主义领导人的三名嫌疑人</title>
-      <link>https://www.npr.org/2024/05/04/1249178635/sikh-separatist-leader-nijjar-death-canada-arrests</link>
-      <description><![CDATA[警方称，去年 6 月，他们逮捕了三名涉嫌杀害哈迪普·辛格·奈贾尔 (Hardeep Singh Nijjar) 的印度公民，此案成为印度与印度外交争端的焦点。]]></description>
-      <guid>https://www.npr.org/2024/05/04/1249178635/sikh-separatist-leader-nijjar-death-canada-arrests</guid>
-      <pubDate>Sat, 04 May 2024 15:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛出售的超过 16,000 磅碎牛肉因存在大肠杆菌风险而被召回</title>
-      <link>https://www.npr.org/2024/05/04/1249172053/walmart-ground-beef-recall-e-coli-cargill</link>
-      <description><![CDATA[嘉吉公司表示，出于“高度谨慎”的考虑，公司将召回 4 月底生产并在美国东部沃尔玛门店销售的几种碎牛肉产品。]]></description>
-      <guid>https://www.npr.org/2024/05/04/1249172053/walmart-ground-beef-recall-e-coli-cargill</guid>
-      <pubDate>Sat, 04 May 2024 14:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有些城市允许非公民参加地方选举投票。他们的投票率相当低</title>
-      <link>https://www.npr.org/2024/05/04/1248787453/noncitizen-voting-local-elections-vermont</link>
-      <description><![CDATA[一些城市，例如佛蒙特州的三个城市，允许非美国公民在地方选举中投票。在这些地方，非公民投票率仍然很低，因为非公民投票是一个有争议的全国性问题。]]></description>
-      <guid>https://www.npr.org/2024/05/04/1248787453/noncitizen-voting-local-elections-vermont</guid>
-      <pubDate>Sat, 04 May 2024 12:21:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
