@@ -3,8 +3,8 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Sun, 05 May 2024 06:19:12 GMT</lastBuildDate>
+    <description>每个工作日的五个最佳设计链接。</description>
+    <lastBuildDate>Sun, 05 May 2024 09:16:52 GMT</lastBuildDate>
     <item>
       <title>泽尔曼肉类标志由红点工作室设计</title>
       <link>https://www.logodesignlove.com/zelman-meats</link>
@@ -38,7 +38,7 @@
       <pubDate>Thu, 02 May 2024 07:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>密码：破碎的梦想</title>
+      <title>万能钥匙：破碎的梦想</title>
       <link>https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/</link>
       <description><![CDATA[我认为是时候为万能钥匙倒出一把了。 
 ]]></description>
@@ -56,7 +56,7 @@
     <item>
       <title>波兰悖论</title>
       <link>https://matthewstrom.com/writing/the-polish-paradox/</link>
-      <description><![CDATA[你打磨得越多，你看到的就越少。
+      <description><![CDATA[打磨得越多，看得越少。
 ]]></description>
       <guid>https://matthewstrom.com/writing/the-polish-paradox/</guid>
       <pubDate>Wed, 01 May 2024 11:38:28 GMT</pubDate>
@@ -64,7 +64,7 @@
     <item>
       <title>图片优势效应：利用视觉的力量</title>
       <link>https://www.nngroup.com/articles/picture-superiority-effect/</link>
-      <description><![CDATA[人们通常对视觉的记忆比对文字的记忆更好。
+      <description><![CDATA[人们通常比文字更容易记住视觉效果。
 ]]></description>
       <guid>https://www.nngroup.com/articles/picture-superiority-effect/</guid>
       <pubDate>Wed, 01 May 2024 11:35:06 GMT</pubDate>
@@ -72,7 +72,7 @@
     <item>
       <title>使用 CSS 网格打印音乐</title>
       <link>https://cruncher.ch/blog/printing-music-with-css-grid/</link>
-      <description><![CDATA[音乐符号应该像网络上的文本一样易于理解和流畅。 CSS 网格帮助我们实现这一目标。
+      <description><![CDATA[音乐符号应该像网络上的文本一样易于访问和流畅。CSS Grid 可以帮助我们实现这一目标。
 ]]></description>
       <guid>https://cruncher.ch/blog/printing-music-with-css-grid/</guid>
       <pubDate>Wed, 01 May 2024 11:33:00 GMT</pubDate>

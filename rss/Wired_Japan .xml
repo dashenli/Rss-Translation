@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 05 May 2024 06:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:15:57 GMT</lastBuildDate>
+    <item>
+      <title>“Amazfit Balance”评测：健身追踪器设计出色，但功能和设置存在问题</title>
+      <link>https://wired.jp/article/amazfit-balance-review/</link>
+      <description><![CDATA[“Amazfit Balance”是一款健身追踪器，号称是“平衡身心的平衡手表”。它拥有出色的设计和足够的测量能力，但在功能和设置方面似乎落后于Garmin等竞争对手。]]></description>
+      <guid>https://wired.jp/article/amazfit-balance-review/</guid>
+      <pubDate>Sun, 05 May 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>保姆机器人“Iruyo”安抚开车时不停哭泣的孩子</title>
       <link>https://wired.jp/article/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</link>
@@ -69,16 +76,16 @@
       <pubDate>Fri, 03 May 2024 00:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>开放与封闭AI的竞争随着元“Llama 3”的发布而正式开始</title>
+      <title>开放人工智能与封闭人工智能的竞争随着元“Llama 3”的发布而正式开始</title>
       <link>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。也许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
+      <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。或许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
       <guid>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
       <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>当太阳能水泵将沙漠变成农田时，它们正在迅速耗尽地下水。</title>
       <link>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</link>
-      <description><![CDATA[干旱地区的农民正在转向使用低成本的太阳能水泵将水输送到他们的田地。太阳能水泵消除了对化石燃料的需求并增加了农作物产量，但与此同时，世界各地的含水层正在枯竭。]]></description>
+      <description><![CDATA[干旱地区的农民正在转向低成本的太阳能水泵将水输送到他们的田地。太阳能水泵消除了对化石燃料的需求并增加了农作物产量，但与此同时，世界各地的含水层正在枯竭。]]></description>
       <guid>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</guid>
       <pubDate>Thu, 02 May 2024 22:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>探索章鱼智力揭示的研究领域“空白”——“阐明了！” 《章鱼的神秘世界》研究员访谈</title>
       <link>https://wired.jp/article/secrets-of-the-octopus-alexandra-schnell-interview/</link>
-      <description><![CDATA[在地球月期间，当我们思考地球时，迪士尼和国家地理频道发布了《解释！ 《章鱼的神秘世界》开始播出发行。我们向影片中出现的海洋生物学家询问了他对动物智力、动物智力对饮食文化的影响以及动物福利和敏感性的研究。]]></description>
+      <description><![CDATA[迪士尼和国家地理正在庆祝地球月，这是人们思考地球的时刻。 《章鱼的神秘世界》开始播出发行。我们向影片中出现的海洋生物学家询问了他对动物智力、动物智力对饮食文化的影响以及动物福利和敏感性的研究。]]></description>
       <guid>https://wired.jp/article/secrets-of-the-octopus-alexandra-schnell-interview/</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着生成式人工智能的进步，社交机器人世界加速面临“恐怖谷”</title>
-      <link>https://wired.jp/article/ai-dolls-for-older-adults/</link>
-      <description><![CDATA[作为老年人互动“数字朋友”的社交机器人越来越受到关注。尽管市场仍处于早期阶段并且存在许多挑战，但随着生成式人工智能的进步，对话机器人的发展可能会加速。]]></description>
-      <guid>https://wired.jp/article/ai-dolls-for-older-adults/</guid>
-      <pubDate>Wed, 01 May 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
