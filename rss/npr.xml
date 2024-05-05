@@ -3,8 +3,15 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 05 May 2024 15:13:49 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Sun, 05 May 2024 18:15:05 GMT</lastBuildDate>
+    <item>
+      <title>主演《泰坦尼克号》和《指环王》的伯纳德·希尔去世，享年 79 岁</title>
+      <link>https://www.npr.org/2024/05/05/1249238752/bernard-hill-titanic-lord-of-the-rings-dies-at-79</link>
+      <description><![CDATA[这位英国演员在 1997 年的电影《泰坦尼克号》中扮演了爱德华约翰史密斯船长，并在《指环王》三部曲中扮演了洛汗国王希优顿。]]></description>
+      <guid>https://www.npr.org/2024/05/05/1249238752/bernard-hill-titanic-lord-of-the-rings-dies-at-79</guid>
+      <pubDate>Sun, 05 May 2024 17:44:52 GMT</pubDate>
+    </item>
     <item>
       <title>内塔尼亚胡政府投票决定关闭半岛电视台驻以色列办事处</title>
       <link>https://www.npr.org/2024/05/05/1249205453/netanyahus-cabinet-votes-to-close-al-jazeera-offices-in-israel</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 05 May 2024 09:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>当火箭落下时，一些以色列公民无处可躲</title>
+      <title>当火箭落下时，以色列贝都因人无处可躲</title>
       <link>https://www.npr.org/2024/05/05/1248915615/israel-bedouin-rockets-bomb-shelters</link>
       <description><![CDATA[虽然以色列的大多数建筑物都被要求设有防空洞，但分区第 22 条规定使贝都因村民得不到保护。]]></description>
       <guid>https://www.npr.org/2024/05/05/1248915615/israel-bedouin-rockets-bomb-shelters</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[市长声称“外部煽动者”本周在曼哈顿两个校园升级了抗议活动，随后市政府官员发布数据称，被捕的 282 人中有 134 人不是学生。]]></description>
       <guid>https://www.npr.org/2024/05/04/1249188864/nyc-columbia-city-college-gaza-protests-palestinian-campus</guid>
       <pubDate>Sat, 04 May 2024 20:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特琳·克拉克 (Caitlin Clark) 在 WNBA 首秀中大放异彩，季前赛门票全部售罄</title>
-      <link>https://www.npr.org/2024/05/04/1249178636/caitlin-clark-wnba-debut</link>
-      <description><![CDATA[这位 NCAA 历史得分王在周五晚上印第安纳狂热队对阵达拉斯翼队的比赛中首次参加职业比赛。克拉克的21分令人印象深刻，但不足以获胜。]]></description>
-      <guid>https://www.npr.org/2024/05/04/1249178636/caitlin-clark-wnba-debut</guid>
-      <pubDate>Sat, 04 May 2024 17:20:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
