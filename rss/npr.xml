@@ -3,8 +3,22 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sat, 04 May 2024 21:12:10 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Sun, 05 May 2024 00:59:08 GMT</lastBuildDate>
+    <item>
+      <title>米斯蒂克·丹 (Mystik Dan) 以微弱优势赢得肯塔基德比 (Kentucky Derby)</title>
+      <link>https://www.npr.org/2024/05/04/1249206141/kentucky-derby-winner-mystik-dan</link>
+      <description><![CDATA[周六，Mystik Dan 在一场势均力敌的比赛中赢得了第 150 场比赛的冠军。]]></description>
+      <guid>https://www.npr.org/2024/05/04/1249206141/kentucky-derby-winner-mystik-dan</guid>
+      <pubDate>Sat, 04 May 2024 23:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>著名画家、极简主义先驱 Frank Stella 去世，享年 87 岁</title>
+      <link>https://www.npr.org/2024/05/04/1112027057/frank-stella-dead-art-minimalist</link>
+      <description><![CDATA[Frank Stella 是美国领先的极简主义艺术家之一，也是 20 世纪 60 年代初极简主义运动的先驱。该运动挑战了艺术应该具有代表性的观念。]]></description>
+      <guid>https://www.npr.org/2024/05/04/1112027057/frank-stella-dead-art-minimalist</guid>
+      <pubDate>Sat, 04 May 2024 22:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>纽约市表示，在两次亲巴勒斯坦校园抗议活动中被捕的人中有一半不是学生</title>
       <link>https://www.npr.org/2024/05/04/1249188864/nyc-columbia-city-college-gaza-protests-palestinian-campus</link>
@@ -48,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 12:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>她在 1970 年肯特州立大学枪击事件中幸存。这是她给学生活动人士的信息</title>
+      <title>她在 1970 年肯特州立大学枪击案中幸存下来。以下是她对学生活动人士的寄语</title>
       <link>https://www.npr.org/2024/05/04/1249023924/kent-state-shooting-activists-protests-survivor</link>
       <description><![CDATA[1970 年 5 月 4 日，俄亥俄州国民警卫队向肯特州立大学的学生开枪，造成四人死亡、九人受伤。一名现在在那里任教的前学生回顾了那一天，并为抗议者提供了课程。]]></description>
       <guid>https://www.npr.org/2024/05/04/1249023924/kent-state-shooting-activists-protests-survivor</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[医生的典型假期活动是什么？工作。一项新的研究发现，大多数医生在典型的休息日也会工作。在这篇文章中，一位家庭医生思考了为什么会出现这种情况以及为什么它很重要。]]></description>
       <guid>https://www.npr.org/sections/health-shots/2024/05/04/1247608167/doctors-physicians-pto-vacation-struggle-breaks-burnout</guid>
       <pubDate>Sat, 04 May 2024 11:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰里·宋飞 (Jerry Seinfeld) 和喜剧演员的悲惨历史以及“政治正确性”</title>
-      <link>https://www.npr.org/sections/codeswitch/2024/05/04/1249034786/jerry-seinfeld-comedy-politics</link>
-      <description><![CDATA[杰里·宋飞 (Jerry Seinfeld) 成为一系列将喜剧之死（以及其他社会弊病）归咎于“政治正确性”的公众人物中的最新一个。但这个词实际上指的是什么呢？]]></description>
-      <guid>https://www.npr.org/sections/codeswitch/2024/05/04/1249034786/jerry-seinfeld-comedy-politics</guid>
-      <pubDate>Sat, 04 May 2024 10:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片：全国校园抗议活动持续进行，部分抗议演变成暴力事件</title>
-      <link>https://www.npr.org/sections/pictureshow/2024/05/04/1248904667/campus-protests-photos</link>
-      <description><![CDATA[NPR 成员电台的摄影记者本周记录了全国学院和大学校园的抗议活动。]]></description>
-      <guid>https://www.npr.org/sections/pictureshow/2024/05/04/1248904667/campus-protests-photos</guid>
-      <pubDate>Sat, 04 May 2024 10:01:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
