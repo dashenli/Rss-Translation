@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Mon, 06 May 2024 06:18:45 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Mon, 06 May 2024 09:15:47 GMT</lastBuildDate>
     <item>
-      <title>如何在出售手机前将其恢复出厂设置</title>
+      <title>他们在监狱里购买了平板电脑，却发现自己的承诺落空了</title>
+      <link>https://www.wired.com/story/electronic-tablets-in-federal-prisons-chat-apps-disabled/</link>
+      <description><![CDATA[出售手持平板电脑的目的是希望监狱里的人可以使用它们与亲人保持联系。但《连线》杂志的一项调查发现，联邦监狱禁用了平板电脑的聊天应用程序。]]></description>
+      <guid>https://www.wired.com/story/electronic-tablets-in-federal-prisons-chat-apps-disabled/</guid>
+      <pubDate>Mon, 06 May 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
+      <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
+      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
+      <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
+      <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vodafone Pro II Ultra Hub 评测：带 4G 备份的 Wi-Fi 6E</title>
+      <link>https://www.wired.com/review/vodafone-pro-ii-ultra-hub/</link>
+      <description><![CDATA[随着沃达丰在英国提供具有备份移动网络服务的 Wi-Fi 6E Ultra Hub，ISP 提供的路由器正在得到改进。]]></description>
+      <guid>https://www.wired.com/review/vodafone-pro-ii-ultra-hub/</guid>
+      <pubDate>Mon, 06 May 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在出售手机之前将其恢复出厂设置</title>
       <link>https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/</link>
       <description><![CDATA[升级到闪亮的新设备？以下是将旧手机恢复至出厂设置的方法。]]></description>
       <guid>https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/</guid>
@@ -20,7 +41,7 @@
       <pubDate>Sun, 05 May 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>索尼 CRE-E10 评测：全面的助听器</title>
+      <title>索尼 CRE-E10 评测：功能全面的助听器</title>
       <link>https://www.wired.com/review/sony-cre-e10-hearing-aids/</link>
       <description><![CDATA[索尼的 CRE-E10 助听器具有较长的电池寿命、高品质的音频和类似耳塞式的设计。]]></description>
       <guid>https://www.wired.com/review/sony-cre-e10-hearing-aids/</guid>
@@ -41,7 +62,7 @@
       <pubDate>Sun, 05 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>翻译技术令人惊叹，但有时却并非如此</title>
+      <title>翻译技术是惊人的，除非它不是</title>
       <link>https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/</link>
       <description><![CDATA[我们可以使用手机上的简单应用程序进行跨语言的令人惊讶的深入对话。但即使这些应用程序从人工智能中获得了新的推动力，它们仍然可能会导致一些尴尬的时刻。]]></description>
       <guid>https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/</guid>
@@ -55,9 +76,9 @@
       <pubDate>Sun, 05 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>10 款最佳便携式烤架（2024 年）：木炭、丙烷、电动等</title>
+      <title>10 款最佳便携式烤架（2024 年）：木炭烤架、丙烷烤架、电烤架等</title>
       <link>https://www.wired.com/story/best-portable-grills/</link>
-      <description><![CDATA[我们烧烤了数周，寻找适合公路旅行或小型家庭使用的木炭和丙烷烤架。]]></description>
+      <description><![CDATA[我们烧烤了几周，才找到适合公路旅行或小型家庭的木炭和丙烷烤架。]]></description>
       <guid>https://www.wired.com/story/best-portable-grills/</guid>
       <pubDate>Sat, 04 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Sat, 04 May 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ambient Weather WS-5000 评论：出色的气象站</title>
+      <title>Ambient Weather WS-5000 评测：出色的气象站</title>
       <link>https://www.wired.com/review/ambient-weather-ws-5000/</link>
       <description><![CDATA[Ambient Weather WS-5000 是送给那些在不知道露点和风速的情况下无法离开家的亲人的完美礼物。]]></description>
       <guid>https://www.wired.com/review/ambient-weather-ws-5000/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[使用 Fitbit 的任何智能设备或智能手表来更好地了解您的睡眠情况以及如何改善睡眠。]]></description>
       <guid>https://www.wired.com/story/how-to-track-your-sleep-using-your-fitbit/</guid>
       <pubDate>Sat, 04 May 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳电视安装选项：支架、壁挂式、角式安装、电动安装</title>
-      <link>https://www.wired.com/story/best-options-for-mounting-a-tv/</link>
-      <description><![CDATA[电视支架不断发展，让您的大型新电视机离开娱乐展台的所有其他选择也不断发展。]]></description>
-      <guid>https://www.wired.com/story/best-options-for-mounting-a-tv/</guid>
-      <pubDate>Sat, 04 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>22 款星球大战玩具和游戏庆祝五四</title>
-      <link>https://www.wired.com/gallery/best-star-wars-gifts/</link>
-      <description><![CDATA[这些是银河系中最好的星球大战礼物，适合从学徒粉丝到绝地大师的所有人。]]></description>
-      <guid>https://www.wired.com/gallery/best-star-wars-gifts/</guid>
-      <pubDate>Sat, 04 May 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家公司正在澳大利亚内陆地区建造巨型压缩空气电池</title>
-      <link>https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/</link>
-      <description><![CDATA[Hydrostor 是压缩空气储能领域的领导者，计划于今年年底前在新南威尔士州破土动工建造一座 200 兆瓦的发电厂。随后，该公司希望在加利福尼亚州建设一座 500 兆瓦的设施。]]></description>
-      <guid>https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/</guid>
-      <pubDate>Sat, 04 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

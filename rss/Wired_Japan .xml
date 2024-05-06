@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 06 May 2024 06:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:16:56 GMT</lastBuildDate>
+    <item>
+      <title>数字民主是通过多元化技术实现的——摘自与日本经济学家 Glenn Weil 的一次会议</title>
+      <link>https://wired.jp/article/glen-weyl-talk-2024/</link>
+      <description><![CDATA[一项名为“多元化”的全球运动正在引起人们的关注，该运动利用技术实现协作多样性和民主。其核心成员之一格伦·韦尔 (Glenn Weil) 来到日本，并在 Plurality Tokyo 的赞助下举行了一次宝贵的会议。]]></description>
+      <guid>https://wired.jp/article/glen-weyl-talk-2024/</guid>
+      <pubDate>Mon, 06 May 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国制造的自动驾驶系统到底有多厉害？三大厂商电动车“进化”现状</title>
       <link>https://wired.jp/article/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>如果您将相机的 ISO 感光度最大化，您会看到什么样的世界？日本摄影师发送的日常生活“噪音图形”</title>
       <link>https://wired.jp/article/iso1638400-photographs/</link>
-      <description><![CDATA[“ISO感光度”表示相机捕捉光线的能力。如果这个值增加到最大，将会预测出一个什么样的世界？一位日本摄影师继续在作品中分享他以这种方式捕捉到的世界。]]></description>
+      <description><![CDATA[“ISO感光度”表示相机捕捉光线的能力。如果这个值增加到最大，将会预测出一个什么样的世界？一位日本摄影师继续在他的作品中分享这样捕捉到的世界。]]></description>
       <guid>https://wired.jp/article/iso1638400-photographs/</guid>
       <pubDate>Sat, 04 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。或许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
       <guid>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
       <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>当太阳能水泵将沙漠变成农田时，它们正在迅速耗尽地下水。</title>
-      <link>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</link>
-      <description><![CDATA[干旱地区的农民正在转向低成本的太阳能水泵将水输送到他们的田地。太阳能水泵消除了对化石燃料的需求并增加了农作物产量，但与此同时，世界各地的含水层正在枯竭。]]></description>
-      <guid>https://wired.jp/article/sz-solar-energy-farming-depleting-worlds-groundwater-india/</guid>
-      <pubDate>Thu, 02 May 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
