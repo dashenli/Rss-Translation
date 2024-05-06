@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg 热门新闻</title>
+    <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Mon, 06 May 2024 12:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:15:33 GMT</lastBuildDate>
+    <item>
+      <title>我的同事想拿太多饼干，以及本周最佳工作剧的更多内容</title>
+      <link>https://rss.digg.com/productivity/link/coworker-office-drama-stories-blog-advice-column-digg-reddit-roundup</link>
+      <description><![CDATA[一位女士思考自己是否真的在工作会议上发脾气了。]]></description>
+      <guid>https://rss.digg.com/productivity/link/coworker-office-drama-stories-blog-advice-column-digg-reddit-roundup</guid>
+      <pubDate>Wed, 01 May 2024 20:47:44 GMT</pubDate>
+    </item>
     <item>
       <title>你可能永远不会在 NHL 打球，除非你出生在这片奇怪的土地上</title>
       <link>https://rss.digg.com/sports/link/hockey-births-north-america-nhl-reddit</link>
@@ -15,9 +22,16 @@
     <item>
       <title>今年夏天上映的十部最精彩的电视节目</title>
       <link>https://rss.digg.com/movies-and-tv/link/summer-tv-preview-guide-netflix-hulu-disney-apple</link>
-      <description><![CDATA[暑期档的重磅剧目不少，最值得期待的都是全新剧。]]></description>
+      <description><![CDATA[暑期档的重磅剧目不少，最值得期待的莫过于全新剧了。]]></description>
       <guid>https://rss.digg.com/movies-and-tv/link/summer-tv-preview-guide-netflix-hulu-disney-apple</guid>
       <pubDate>Wed, 01 May 2024 17:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们都有这样一个朋友，总是忽视自己敏感的胃</title>
+      <link>https://rss.digg.com/digg-vids/link/sensitive-stomach-lactose-intolerant-diarrhea-funny-reaction-video</link>
+      <description><![CDATA[“呃，你为什么让我吃那么多食物，我发誓我再也不会吃东西了，”莎拉·克莱特在短剧中说道。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/sensitive-stomach-lactose-intolerant-diarrhea-funny-reaction-video</guid>
+      <pubDate>Wed, 01 May 2024 17:25:24 GMT</pubDate>
     </item>
     <item>
       <title>澳大利亚皮肤癌公益广告将严重毁掉你的整个夏天</title>
@@ -34,9 +48,9 @@
       <pubDate>Wed, 01 May 2024 16:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>美国各州薪酬最高的工作与全国平均水平的比较</title>
+      <title>美国各州薪酬最高的工作与全国平均水平</title>
       <link>https://rss.digg.com/data-viz/link/highest-paying-jobs-US-states-vs-national-average</link>
-      <description><![CDATA[加州的手工艺艺术家赚得盆满钵满。]]></description>
+      <description><![CDATA[加州的手工艺艺术家收入颇丰。]]></description>
       <guid>https://rss.digg.com/data-viz/link/highest-paying-jobs-US-states-vs-national-average</guid>
       <pubDate>Wed, 01 May 2024 15:58:29 GMT</pubDate>
     </item>
@@ -46,13 +60,6 @@
       <description><![CDATA[你只知道这之后情侣就分手了。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/renaissance-fair-drinking-video</guid>
       <pubDate>Wed, 01 May 2024 15:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们省钱的九种极端方法</title>
-      <link>https://rss.digg.com/internet-culture/link/save-money-extreme-cost-living-reddit</link>
-      <description><![CDATA[生活成本危机使一些人不遗余力地减少预算。]]></description>
-      <guid>https://rss.digg.com/internet-culture/link/save-money-extreme-cost-living-reddit</guid>
-      <pubDate>Wed, 01 May 2024 15:16:30 GMT</pubDate>
     </item>
     <item>
       <title>在摄像机拍到他这样做后，他将永远不会再出现在电视直播中</title>
@@ -83,13 +90,6 @@
       <pubDate>Tue, 30 Apr 2024 16:23:03 GMT</pubDate>
     </item>
     <item>
-      <title>这些美国城镇几乎无人居住</title>
-      <link>https://digg.com/real-estate/link/america-ghost-towns-losing-population-cities-ranked-T1kSfLp4GA#comments</link>
-      <description><![CDATA[自 2010 年以来，美国有三个城镇的人口已降至零，其他城镇的人口也在减少。]]></description>
-      <guid>https://digg.com/real-estate/link/america-ghost-towns-losing-population-cities-ranked-T1kSfLp4GA#comments</guid>
-      <pubDate>Tue, 30 Apr 2024 08:27:30 GMT</pubDate>
-    </item>
-    <item>
       <title>这十首歌曲失去了自己的身份，现在我们只能想到它们来自的电影</title>
       <link>https://rss.digg.com/movies-and-tv/link/movies-song-memory-tied-reddit</link>
       <description><![CDATA[即使这首歌本身就是一首冰冷的果酱，电影或营销活动中的标志性使用也可以重写我们的感官记忆。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Mon, 29 Apr 2024 13:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>我的老板与通灵师召开全员会议以解决公司的负能量以及其他咨询专栏问题是否合法</title>
-      <link>https://rss.digg.com/good-question/link/was-it-legal-for-my-boss-to-set-up-an-all-staff-meeting-with-a-spiritualist-to-address-negative-energy-in-the-company-and-other-advice-column-questions</link>
-      <description><![CDATA[本周，一名员工被要求参加一次全员“大扫除”；一名写信人因要求男友偿还 3,128 美元的贷款而感到紧张；一名母亲在多年疏远后嘲笑女儿的外表。]]></description>
-      <guid>https://rss.digg.com/good-question/link/was-it-legal-for-my-boss-to-set-up-an-all-staff-meeting-with-a-spiritualist-to-address-negative-energy-in-the-company-and-other-advice-column-questions</guid>
-      <pubDate>Sun, 28 Apr 2024 18:32:49 GMT</pubDate>
+      <title>下“非常糟糕的国际象棋”</title>
+      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
+      <description><![CDATA[与普通国际象棋不同，在“非常糟糕的国际象棋”中，棋子的分配是随机的，而不是镜像的。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
+      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
