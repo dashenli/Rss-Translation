@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 06 May 2024 18:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 12:26:33 GMT</lastBuildDate>
+    <item>
+      <title>集体#836</title>
+      <link>https://tympanus.net/codrops/collective/collective-836/</link>
+      <description><![CDATA[酷查询 * 无尽的工具 * 微小的世界地图 * 发射和绽放]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-836/</guid>
+      <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>设计发现：细节悬停在图像上</title>
       <link>https://tympanus.net/codrops/2024/05/06/design-finds-detail-hovers-on-images/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>使用 WebGL 对纹理过渡和程序径向噪声进行建模</title>
       <link>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</link>
-      <description><![CDATA[探索两种视觉效果的 WebGL 实验：3D 罐头模型上的纹理过渡和程序径向噪声场。]]></description>
+      <description><![CDATA[一个探索两种视觉效果的 WebGL 实验：3D 罐模型上的纹理转换和程序径向噪声场。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</guid>
       <pubDate>Thu, 02 May 2024 10:22:21 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 26 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述 #59</title>
+      <title>励志网站综述#59</title>
       <link>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</link>
       <description><![CDATA[探索我们精心挑选的设计的最新网站系列，让您了解最新趋势。]]></description>
       <guid>https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/</guid>
       <pubDate>Thu, 25 Apr 2024 11:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Gabriel Contassot 的投资组合 — 2024 年</title>
-      <link>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</link>
-      <description><![CDATA[了解 Gabriel 2024 年作品集网站的制作过程，用微妙的动画补充极简的设计选择。]]></description>
-      <guid>https://tympanus.net/codrops/2024/04/24/case-study-gabriel-contassots-portfolio-2024/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:25:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
