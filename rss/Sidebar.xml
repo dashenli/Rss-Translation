@@ -4,9 +4,9 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 07 May 2024 18:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:15:21 GMT</lastBuildDate>
     <item>
-      <title>我如何采访产品设计师</title>
+      <title>我如何面试产品设计师</title>
       <link>https://uxdesign.cc/how-i-interview-product-designers-b096441e5607</link>
       <description><![CDATA[我以前曾参加过面试团队，但这是我第一次担任招聘经理。这是一次很好的学习经历。
 ]]></description>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>结合 :has() 和 select 实现更强大的条件样式</title>
+      <title>结合 :has() 并选择以获得更好的条件样式</title>
       <link>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</link>
       <description><![CDATA[Amit Sheen 演示了如何使用 :has() 有条件地应用样式。
 ]]></description>
@@ -30,7 +30,7 @@
       <pubDate>Tue, 07 May 2024 02:32:02 GMT</pubDate>
     </item>
     <item>
-      <title>弹出框 API 在这里</title>
+      <title>Popover API 就在这里</title>
       <link>https://frontendmasters.com/blog/popover-api-is-here/</link>
       <description><![CDATA[此 API 允许您在所有内容之上打开一个元素，无论它位于 DOM 中的什么位置，并且没有任何特定的样式。
 ]]></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Figma 中的版式变量在这里</title>
       <link>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</link>
-      <description><![CDATA[以及 Figma 框架活动中的所有其他新内容。
+      <description><![CDATA[以及 Figma 框架活动中的其他所有新内容。
 ]]></description>
       <guid>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</guid>
       <pubDate>Thu, 02 May 2024 07:24:00 GMT</pubDate>
