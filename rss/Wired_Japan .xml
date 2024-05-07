@@ -3,8 +3,22 @@
   <channel>
     <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 06 May 2024 21:14:59 GMT</lastBuildDate>
+    <description>wired.jp 最新消息</description>
+    <lastBuildDate>Tue, 07 May 2024 00:58:27 GMT</lastBuildDate>
+    <item>
+      <title>如果你买不起房子，就买一部分——房地产部分所有权服务正在迅速增加</title>
+      <link>https://wired.jp/article/fractional-home-ownership-startups/</link>
+      <description><![CDATA[在据说正陷入房地产危机的美国，房价持续飙升，越来越多的人买不起房。与此同时，住宅部分所有权和部分投资业务正在增长，并且出现了许多提供相关服务的初创公司。]]></description>
+      <guid>https://wired.jp/article/fractional-home-ownership-startups/</guid>
+      <pubDate>Mon, 06 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你能救一个人 80 万日元，你就赚钱了：一次体现有效利他主义的 GiveWell 采访</title>
+      <link>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</link>
+      <description><![CDATA[当旨在最大化慈善事业的效率和影响力的有效利他主义陷入自我怀疑的螺旋时，相信定量分析的理想主义者埃利·哈森菲尔德想要捐赠巨额资金仍然迎合了欲望。硅谷的富人。]]></description>
+      <guid>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</guid>
+      <pubDate>Mon, 06 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>数字民主是通过多元化技术实现的——摘自与日本经济学家 Glenn Weil 的一次会议</title>
       <link>https://wired.jp/article/glen-weyl-talk-2024/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[DJI Avata 2 是一款让您以第一人称视角享受飞行乐趣的 FPV 无人机，是一款让您享受刺激飞行同时降低所需驾驶技能的产品。该套件控制器和护目镜的组合使其成为 FPV 飞行入门指南的完美选择。]]></description>
       <guid>https://wired.jp/article/dji-avata-2-drone-review/</guid>
       <pubDate>Fri, 03 May 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉关闭充电桩部门，这是否是充电服务行业的“机遇”？</title>
-      <link>https://wired.jp/article/tesla-supercharger-pullback-filling-the-power-gap/</link>
-      <description><![CDATA[特斯拉关闭了其电动汽车快速充电设施超级充电部门，并裁员数百人。特斯拉充电插头标准已成为美国事实上的标准，而随着政府主导的扩大充电网络计划的进展，该行业正受到多方面的影响。]]></description>
-      <guid>https://wired.jp/article/tesla-supercharger-pullback-filling-the-power-gap/</guid>
-      <pubDate>Fri, 03 May 2024 00:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放人工智能与封闭人工智能的竞争随着元“Llama 3”的发布而正式开始</title>
-      <link>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 最新的开源 AI 模型“Llama 3”可免费使用，其性能与 OpenAI 的“GPT-4”类似。或许用不了多久，开源人工智能就会超越 ChatGPT 和谷歌的 Gemini 等闭源人工智能。]]></description>
-      <guid>https://wired.jp/article/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
