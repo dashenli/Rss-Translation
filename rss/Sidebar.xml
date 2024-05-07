@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 07 May 2024 12:27:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:17:18 GMT</lastBuildDate>
     <item>
       <title>我如何采访产品设计师</title>
       <link>https://uxdesign.cc/how-i-interview-product-designers-b096441e5607</link>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>结合 :has() 和 select 实现更强大的条件样式</title>
+      <title>结合 :has() 并选择以获得更好的条件样式</title>
       <link>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</link>
       <description><![CDATA[Amit Sheen 演示了如何使用 :has() 有条件地应用样式。
 ]]></description>
@@ -30,7 +30,7 @@
       <pubDate>Tue, 07 May 2024 02:32:02 GMT</pubDate>
     </item>
     <item>
-      <title>Popover API 就在这里</title>
+      <title>弹出框 API 在这里</title>
       <link>https://frontendmasters.com/blog/popover-api-is-here/</link>
       <description><![CDATA[此 API 允许您在所有内容之上打开一个元素，无论它位于 DOM 中的什么位置，并且没有任何特定的样式。
 ]]></description>
@@ -38,9 +38,9 @@
       <pubDate>Tue, 07 May 2024 02:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>使用 color-mix() 制作灰色阴影</title>
+      <title>使用 color-mix() 的灰色阴影</title>
       <link>https://css-irl.info/shades-of-grey-with-color-mix/</link>
-      <description><![CDATA[在构建网站时，无论你的调色板是什么，拥有几种灰色都会很方便。
+      <description><![CDATA[在构建网站时，无论您的调色板如何，使用几种灰色阴影都会很方便。
 ]]></description>
       <guid>https://css-irl.info/shades-of-grey-with-color-mix/</guid>
       <pubDate>Tue, 07 May 2024 02:23:06 GMT</pubDate>
@@ -64,7 +64,7 @@
     <item>
       <title>WebAIM：2024 年总统竞选中的网络可访问性</title>
       <link>https://webaim.org/blog/2024-campaign-site-accessibility/</link>
-      <description><![CDATA[ 我们已通过 AIM（“无障碍影响”）测试序列运行 2024 年总统候选人的竞选网站。
+      <description><![CDATA[ 我们已经通过 AIM（“可访问性影响”）测试序列运行了 2024 年总统候选人的竞选网站。
 ]]></description>
       <guid>https://webaim.org/blog/2024-campaign-site-accessibility/</guid>
       <pubDate>Mon, 06 May 2024 02:16:06 GMT</pubDate>
@@ -104,7 +104,7 @@
     <item>
       <title>Figma 中的版式变量在这里</title>
       <link>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</link>
-      <description><![CDATA[以及 Figma 框架活动中的所有其他新内容。
+      <description><![CDATA[以及 Figma 框架活动中的其他所有新内容。
 ]]></description>
       <guid>https://medium.com/@joeyabanks/typography-variables-in-figma-are-here-50eb8993274e</guid>
       <pubDate>Thu, 02 May 2024 07:24:00 GMT</pubDate>
@@ -118,7 +118,7 @@
       <pubDate>Thu, 02 May 2024 07:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>密码：破碎的梦想</title>
+      <title>万能钥匙：破碎的梦想</title>
       <link>https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/</link>
       <description><![CDATA[我认为是时候为万能钥匙倒出一把了。 
 ]]></description>
