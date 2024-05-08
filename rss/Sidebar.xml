@@ -3,8 +3,8 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 08 May 2024 15:17:07 GMT</lastBuildDate>
+    <description>每个工作日的五个最佳设计链接。</description>
+    <lastBuildDate>Wed, 08 May 2024 18:20:50 GMT</lastBuildDate>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -24,7 +24,7 @@
     <item>
       <title>蝉鸣升起：2024 年罕见双重亮相的视觉指南</title>
       <link>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</link>
-      <description><![CDATA[当蝉以 200 多年来从未出现过的历史性出现首次亮相时，我们可以期待以下结果。
+      <description><![CDATA[蝉将迎来历史性的首次亮相，这是 200 多年来从未发生过的事情，以下是可以预见的。
 ]]></description>
       <guid>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</guid>
       <pubDate>Wed, 08 May 2024 11:49:31 GMT</pubDate>
@@ -32,13 +32,13 @@
     <item>
       <title>保持一致：开发工具 UI 的 5 种基本设计模式</title>
       <link>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</link>
-      <description><![CDATA[如果您不熟悉开发工具设计，这篇文章提供了现实生活中的 UI 示例和分析，以便您可以在创纪录的时间内开始工作。
+      <description><![CDATA[如果您是开发工具设计新手，这篇文章提供了真实的 UI 示例和分析，以便您可以在创纪录的时间内开始。
 ]]></description>
       <guid>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</guid>
       <pubDate>Wed, 08 May 2024 06:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>案例研究：塞拉。金融应用程序的身份和产品设计</title>
+      <title>案例研究：Serra。金融应用程序的标识和产品设计</title>
       <link>https://blog.tubikstudio.com/case-study-identity-product-design-financial-app/</link>
       <description><![CDATA[金融应用程序 Serra 的品牌标识和用户体验设计的创意流程。
 ]]></description>
@@ -46,7 +46,7 @@
       <pubDate>Wed, 08 May 2024 06:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>我如何采访产品设计师</title>
+      <title>我如何面试产品设计师</title>
       <link>https://uxdesign.cc/how-i-interview-product-designers-b096441e5607</link>
       <description><![CDATA[我以前曾参加过面试团队，但这是我第一次担任招聘经理。这是一次很好的学习经历。
 ]]></description>
@@ -56,7 +56,7 @@
     <item>
       <title>2024 年初的 Web 组件</title>
       <link>https://chrisburnell.com/note/early-2024-web-components/</link>
-      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这里是我今年迄今为止构建并使用的三个组件。
+      <description><![CDATA[创建可重复使用的 Web 组件给我带来了很多乐趣，下面是我今年迄今为止构建并使用的三个组件。
 ]]></description>
       <guid>https://chrisburnell.com/note/early-2024-web-components/</guid>
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>

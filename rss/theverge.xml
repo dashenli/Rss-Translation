@@ -4,7 +4,108 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 08 May 2024 15:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 18:18:15 GMT</lastBuildDate>
+    <item>
+      <title>谷歌 DeepMind 的新人工智能可以模拟 DNA、RNA 和“所有生命的分子”</title>
+      <link>https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图：The Verge
+
+Google DeepMind 正在推出其人工智能模型的改进版本，该模型不仅可以预测蛋白质的结构，还可以预测“所有生命分子”的结构。 新模型 AlphaFold 3 的工作将为研究人员提供帮助在医学、农业、材料科学和药物开发领域测试潜在的发现。
+AlphaFold 的早期版本仅预测蛋白质的结构。 AlphaFold 3 的功能更胜一筹，它可以对 DNA、RNA 和称为配体的较小分子进行建模，从而扩展了模型的科学用途能力。 
+DeepMind 表示，与之前的模型相比，新模型的预测准确性提高了 50%。 DeepMind 首席执行官 Demis Hassabis 在一次简报中告诉记者：“AlphaFold 2 是结构生物学领域的一个重要里程碑时刻，并开启了各种令人惊叹的研究。” “AlphaFold 3 是在使用人工智能理解和建模生物学方面迈出的一步。”
+AlphaFold 3 有一个分子结构库。研究人员输入他们想要组合的分子列表，然后 AlphaFold 3 使用扩散方法生成新结构的 3D 模型。 Diffusion 与稳定扩散等 AI 图像生成器用于组合照片的 AI 系统类型相同。
+
+DeepMind 表示，Hassabis 创立的药物发现公司 Isomorphic Labs 一直在使用 AlphaFold 3 进行内部项目。到目前为止，该模型帮助 Isomorphic Labs 提高了对新疾病目标的理解。
+除了模型之外，DeepMind 还向一些研究人员提供研究平台 AlphaFold Server免费。该服务器由 AlphaFold 3 提供支持，让科学家能够生成生物分子结构预测，无论他们的计算能力如何。 Hassabis 表示，该服务器可用于学术、非商业用途，但 Isomorphic Labs 正在与制药合作伙伴合作，将 AlphaFold 模型用于药物发现项目。
+Google 表示正在与科学界和政策领导者合作，以负责任的方式部署该模型。谷歌 在一篇论文中表示，一些生物安全专家认为人工智能模型可以“降低威胁行为者的障碍，并使他们与其他技术相结合，设计和改造更具传染性或有害性的病原体和毒素。”
+该公司表示，甚至在 AlphaFold 3 推出之前，它就与领域专家以及生物安全、研究和行业专家合作，找出围绕 AlphaFold 3 的风险。]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold</guid>
+      <pubDate>Wed, 08 May 2024 17:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber 尚未走出困境</title>
+      <link>https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers</guid>
+      <pubDate>Wed, 08 May 2024 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在这里预订 Apple 最新的 iPad Air 和 iPad Pro</title>
+      <link>https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to</guid>
+      <pubDate>Wed, 08 May 2024 16:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很遗憾地通知您，LinkedIn 的游戏非常有趣</title>
+      <link>https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint</guid>
+      <pubDate>Wed, 08 May 2024 16:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国阻止向华为销售芯片后英特尔预计收入将受到打击</title>
+      <link>https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+根据一份新报告，英特尔预计对中国的新出口限制将影响其下一季度的收入。财务申报。
+美国商务部周二表示，已撤销向受制裁的中国公司华为出口芯片的某些许可证。英特尔在其文件中表示，商务部周二通知了许可证变更，并表示该变更影响了“向中国客户出口消费相关产品，立即生效”。英特尔在文件中没有列出华为的名字。英特尔表示，其 2024 年第二季度的收入仍将在最初确定的 125 亿美元至 135 亿美元范围内，但低于中点。
+自 2019 年以来，华为一直被列入美国贸易黑名单，这限制了其在未经政府批准的情况下从美国公司购买零部件的能力。自那以后，中美之间的紧张关系以及尖端技术的竞争愈演愈烈，尤其是随着生成式人工智能的兴起。例如，美国制定了旨在限制可用于人工智能的先进芯片流入中国的规则。
+英特尔将“美国和中国的地缘政治和贸易紧张局势”以及“中国大陆和台湾之间日益加剧的紧张局势”列为其业务面临的风险。高通也向华为供应芯片，并此前警告称，鉴于当时有报道称美国商务部正在考虑停止向华为发放新的销售许可证，高通“预计今年之后不会再从华为获得产品收入”。]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked</guid>
+      <pubDate>Wed, 08 May 2024 16:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 iPhone 快捷方式复制了 Android 的最佳新功能</title>
+      <link>https://www.theverge.com/2024/5/8/24151918/google-app-shortcut-circle-to-search-google-lens-ios</link>
+      <description><![CDATA[&lt;图&gt;
+      
+插图由 Samar Haddad / The Verge 绘制
+
+Android 最好的新功能之一“圈子搜索”，遗憾的是 iPhone 用户无法使用。但谷歌推出的解决方案本质上复制了该功能，这让苹果粉丝大吃一惊。
+Google 的 Google Lens 设计经理 Minsang Choi 在帖子中分享了新的 iOS 快捷方式 X 上的功能旨在利用 iPhone 15 Pro 设备上的操作按钮。激活后，该快捷方式会截取您正在查看的任何内容的屏幕截图，并立即将其导入 Google 应用程序并运行 Lens 扫描。 “这基本上就是 Circle to Search，但速度更快，”Choi 感叹道。
+ 
+
+GIF：Umar Shakir / The Verge
+正在运行的 Google 应用快捷方式。
+
+
+在 9to5Mac 上结束，作者 Abner Li 发现支持 Back Tap 的 iPhone 也可以使用该快捷方式。通过辅助功能，您可以双击或三次 iPhone 背面，激活放大镜等系统功能，打开手电筒，或者在这种情况下运行 iOS 快捷方式。
+如果您想使用 Back Tap 尝试新的“圈子搜索”功能，请首先确认您拥有运行最新 iOS 的 iPhone 6S 或更新机型，然后：
+
+在您的 iPhone 上安装 Google 应用（如果您尚未安装）。 
+安装此适用于 iOS 的 Google 应用快捷方式。
+前往“设置”&gt;辅助功能&gt;然后在“身体和运动”部分下选择“触摸”。
+滚动到“触摸”菜单底部，然后选择“返回轻按”。
+选择双击或三次（双击更容易激活，但也更容易出现意外触发）。
+向下滚动到“快捷方式”部分，然后选择“搜索您的屏幕截图”。
+
+现在，当您在手机上浏览时，只需轻按手机背面，快捷方式就会自动截取屏幕截图并运行 Google Lens 扫描。它不像 Android 那样精确，你只需圈出你想要的内容，但它确实有效！]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24151918/google-app-shortcut-circle-to-search-google-lens-ios</guid>
+      <pubDate>Wed, 08 May 2024 15:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok禁令：有关试图禁止该视频平台的所有新闻</title>
+      <link>https://www.theverge.com/23651507/tiktok-ban-us-news</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge |照片由 Brendan Hoffman、Getty Images 拍摄
+
+以下是有关一项新法律要求母公司字节跳动出售其平台的所有新闻汇总。 乔·拜登总统于 4 月 24 日签署了一项法案，如果中国公司字节跳动不在一年内出售该平台，该法案将禁止其旗下的短视频应用 TikTok。从该日起，字节跳动有九个月的时间剥离该应用，如果总统对其进展感到满意，可能会延长三个月。 5 月 7 日，TikTok 就可能的禁令起诉政府，称该法律违宪，并声称其“将一个单一的、有名无实的言论平台永久地、全国性地禁止，并禁止每个美国人参与一个拥有全球超过 10 亿人的独特在线社区。”
+在关于禁止 TikTok 的讨论中，美国和国际政界人士指责它是宣传工具和安全风险。强制出售 TikTok 的尝试始于特朗普政府时期，最终在 4 月下旬的立法推动下取得成功。
+在该法律签署之前，美国各地颁布了一系列 TikTok 禁令，禁止该应用在与大学和州、地方和联邦各级政府硬件相关的设备上使用。
+
+  @verge 尽管拜登总统签署了 TikTok“禁令”法案，但他的连任竞选活动仍将继续使用该平台。 #tiktokban #tiktok #biden #podcast #tech  ♬ 原声 - The Verge  
+
+虽然一些专家表示，没有证据表明该应用程序造成的损害或对用户隐私的风险超过我们在 Facebook 或谷歌等公司看到的情况，但政客们还是成功通过了一项措施，如果他们不能迫使 TikTok 与字节跳动分离，他们将完全禁止 TikTok。
+请继续阅读有关美国可能禁止 TikTok 的所有最新消息。]]></description>
+      <guid>https://www.theverge.com/23651507/tiktok-ban-us-news</guid>
+      <pubDate>Wed, 08 May 2024 15:10:11 GMT</pubDate>
+    </item>
     <item>
       <title>Stack Overflow 正在为程序员提供有关人工智能的答案，无论他们喜欢与否</title>
       <link>https://www.theverge.com/2024/5/8/24151906/stack-overflow-ai-protest-posts-deleted-restored</link>
@@ -28,7 +129,7 @@ Stack Overflow 没有立即回复对此报道发表评论的请求。
       <pubDate>Wed, 08 May 2024 15:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>世界上最大的碳去除工厂已建成，更大的工厂正在建设中</title>
+      <title>全球最大的碳去除工厂已建成，更大的工厂正在建设中</title>
       <link>https://www.theverge.com/2024/5/8/24151905/mammoth-carbon-removal-direct-air-capture-climeworks</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/5/8/24151905/mammoth-carbon-removal-direct-air-capture-climeworks</guid>
@@ -44,7 +145,7 @@ Stack Overflow 没有立即回复对此报道发表评论的请求。
 任天堂正在以自己的方式拥抱速通世界方式。该公司宣布推出适用于 Switch 的新 NES 游戏系列，名为“任天堂世界锦标赛：NES 版”，但不同之处在于该捆绑包完全围绕“真正快速”的游戏而打造。 p&gt;
 该系列包含 13 款不同的游戏 - 包括《银河战士》、《塞尔达传说》和大量的《超级马里奥兄弟》 - 但不是在整个过程中，玩家的任务是完成“经典大片的一小部分”，目标是获得尽可能好的时间。任天堂表示，其中包含的游戏中有超过 150 个基于时间的挑战，并且该系列将包括单人游戏模式和最多支持 8 名玩家的本地多人游戏模式。 Switch Online 订户还可以访问“世界锦标赛模式，在每周轮换的五项挑战中提交自己的最佳成绩，争夺全球排行榜上的一席之地。”
 （如果任天堂世界锦标赛的名字听起来很熟悉，那是因为它取自任天堂不定期举办的电子竞技锦标赛&lt; /a&gt;.)
-这个集合听起来有点像 NES Remix，采用您以前可能玩过很多次的游戏，并通过新的挑战对其进行调整，让它们感觉不同。它也严重依赖怀旧情绪，正如实体版所示，其中包括一个（无法使用的）金色 NES 卡带。
+这个集合听起来有点像 NES Remix，采用您之前可能玩过很多次的游戏，并通过新的挑战对其进行调整，让它们感觉不同。它也非常依赖怀旧，正如实体版所示，其中包括一个（无法使用的）金色 NES 卡带。
  
 
 图片：任天堂
@@ -53,84 +154,6 @@ Stack Overflow 没有立即回复对此报道发表评论的请求。
 任天堂世界锦标赛：NES 版将于 7 月 18 日在 Switch 上发布。]]></description>
       <guid>https://www.theverge.com/2024/5/8/24151970/nintendo-world-championships-nes-edition-switch-release-date</guid>
       <pubDate>Wed, 08 May 2024 14:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 Prime Video 广告将变得更具侵入性</title>
-      <link>https://www.theverge.com/2024/5/8/24151951/amazon-prime-video-pause-trivia-ads-announcement</link>
-      <description><![CDATA[&lt;图&gt;
-      
-新的 Prime Video 广告格式将于今年晚些时候推出。 |插图由 Alex Castro / The Verge 绘制
-
-距离亚马逊投放广告还不到四个月其 Prime Video 流媒体服务中的广告，但这家零售巨头已经引入了更烦人的促销策略，例如每当有人按下暂停按钮时就会显示广告。 
-周二，亚马逊宣布将于今年晚些时候推出三种新的 Prime Video 广告格式，以吸引订阅者在观看内容时购买促销商品。可购物的轮播很快就会出现在节目和电影的广告时段，向观众展示他们可以在亚马逊上购买的产品的“滑动阵容”。这实质上使该广告成为内另一个广告的广告，如果与之互动，它甚至会“自动暂停”，以便让观看者有时间浏览。
-电视节目、电影和体育直播还将展示互动品牌问答广告，这些广告可以提供“像亚马逊购物积分”这样的奖励，并暂停广告，显示半透明的叠加层，让观看者可以直接添加促销内容产品到他们的亚马逊购物车。亚马逊表示，这种叠加层只会在视频暂停时出现，但也指出暂停广告“将参与机会扩展到传统广告中断之外。”
-
-Hulu 推出了类似的暂停激活广告功能早在 2019 年，现在就受到了 YouTube。亚马逊没有具体说明何时推出这些新的广告格式，只是说它们将在“即将到来的广播年”推出——通常于 8 月 31 日结束。
-想要获得无广告体验的 Prime Video 用户必须在现有订阅的基础上每月额外向亚马逊支付 2.99 美元才能获得此特权，但很多人显然没有这样做。亚马逊表示，其更便宜的广告支持层平均每月覆盖超过 2 亿全球客户。该公司尚未透露其拥有多少 Prime Video 订阅者，但亚马逊表示其在全球拥有 2 亿订阅者 2021 年整个 Prime 会员计划。]]></description>
-      <guid>https://www.theverge.com/2024/5/8/24151951/amazon-prime-video-pause-trivia-ads-announcement</guid>
-      <pubDate>Wed, 08 May 2024 14:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Sonos 应用程序缺少很多功能，人们不满意</title>
-      <link>https://www.theverge.com/2024/5/8/24151704/sonos-new-app-bad-reviews-missing-features</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/5/8/24151704/sonos-new-app-bad-reviews-missing-features</guid>
-      <pubDate>Wed, 08 May 2024 14:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以购买的最好的即时相机</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <pubDate>Wed, 08 May 2024 14:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>总统乔·拜登将宣布在威斯康星州失败的富士康工厂建立人工智能数据中心</title>
-      <link>https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden</guid>
-      <pubDate>Wed, 08 May 2024 14:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV Plus 正在成为流媒体科幻小说的最佳场所</title>
-      <link>https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation</guid>
-      <pubDate>Wed, 08 May 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX 表示大多数客户将收回所有资金</title>
-      <link>https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：The Verge
-
-FTX 表示，大多数受加密货币交易所倒闭影响的客户将收回所有资金。破产公司的破产律师表示他们已经收集了&lt; /a&gt; 资产价值高达 163 亿美元，超过了偿还公司估计 110 亿美元债务所需的金额。
-FTX 首席重组官约翰·雷三世 (John Ray III) 表示，该公司“很高兴能够提出第 11 章计划，考虑返还 100% 的破产索赔金额。” 
-一旦法院批准该计划，FTX 将在 60 天内开始分配资金。客户将收到 FTX 崩溃时其资产价值的金额。 FTX 的律师今年早些时候表示，他们希望客户“最终已全额付款。”
-加密货币交易所已提交于 2022 年 11 月申请破产，而前首席执行官 Sam Bankman-Fried - 现任职于 25 年监禁 — 辞职。这让雷不得不收拾残局，他说比他也参与过的安然会计丑闻更糟糕。
-FTX 的重组团队仍然通过出售公司资产（包括其持有人工智能初创公司 Anthropic 价值 8.84 亿美元的股份。]]></description>
-      <guid>https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt</guid>
-      <pubDate>Wed, 08 May 2024 13:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉因自动驾驶索赔的证券和电汇欺诈而受到调查</title>
-      <link>https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：Cath Virginia / The Verge；摄影：STR / NurPhoto、Getty Images
-
-司法部正在调查特斯拉是否围绕其自动驾驶汽车索赔实施证券和电汇欺诈，路透社今天报道，援引三位熟悉此事的消息人士的话。 
-调查，这是第一次该事件于 2022 年 10 月报道，但至少从 2021 年底就开始发生，涉及华盛顿和旧金山的联邦检察官，他们正在调查特斯拉高管是否通过对其自动驾驶能力做出未经证实的声明而误导了消费者、投资者和监管机构。现在，调查人员似乎将注意力集中在针对该公司的具体指控上：证券和电汇欺诈。 
-据路透社报道，调查正在特别调查特斯拉首席执行官埃隆·马斯克(Elon Musk)的言论。多年来，马斯克一直承诺全自动特斯拉汽车即将推出，同时也承认他经常设定过于乐观的时间表。与此同时，该公司先进的驾驶辅助功能，自动驾驶仪和全自动驾驶，并不能使车辆实现自动驾驶，并要求驾驶员将手放在方向盘上，眼睛盯着路面。
-据路透社报道，调查正在调查特斯拉首席执行官埃隆·马斯克 (Elon Musk) 在特别
-特斯拉允许客户对尚未准备好广泛发布的产品进行 Beta 测试，一再突破安全界限。使用 Autopilot 的特斯拉车辆已遭受多次召回，并涉及 多年来发生了数百起事故，其中数十起事故是致命的。 最近的召回，适用于迄今为止售出的每一辆特斯拉，现在都受到了新调查因其未能防止驾驶员误操作并纠正第一次召回中发现的缺陷。 
-电汇欺诈涉及在州际通信中欺骗客户，而证券欺诈涉及误导投资者。路透社称，美国证券交易委员会也在调查特斯拉是否在有关自动驾驶汽车的沟通中撒谎。 
-据说司法部也是调查特斯拉的车辆续航里程声明。特斯拉的客户长期以来一直抱怨该公司列出的车辆系列往往与汽车的实际能力不符。 
-在最新的证券备案文件中，特斯拉承认“定期”收到美国证券交易委员会和司法部的传票和信息请求，其中一些涉及自动驾驶仪和全自动驾驶。 
-“据我们所知，在任何正在进行的调查中，没有政府机构得出任何不当行为发生的结论，”该公司表示。 ]]></description>
-      <guid>https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving</guid>
-      <pubDate>Wed, 08 May 2024 12:56:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

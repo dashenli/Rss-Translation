@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>下一个网络</title>
+    <title>下一代网络</title>
     <link>https://thenextweb.com</link>
-    <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 08 May 2024 15:15:47 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Wed, 08 May 2024 18:19:38 GMT</lastBuildDate>
+    <item>
+      <title>荷兰 VC Capital Mills 投资德国无代码初创公司 Innoloft</title>
+      <link>https://thenextweb.com/news/dutch-vc-capital-mills-invests-no-code-startup-innoloft</link>
+      <description><![CDATA[无代码初创公司 Innoloft 在荷兰风险投资公司 Capital Mills 领投的新一轮融资中筹集了 200 万欧元。这是该公司首次投资德国公司。Innoloft 的无代码平台使企业无需任何编程知识即可构建 Web 应用程序。这家初创公司成立于 2019 年，目前拥有超过 70,000 名终端用户，客户包括德国电信、亚琛大学和德国各州政府。借助新资金，Innoloft 计划加速产品开发并扩大用户群。作为一家 B2B 软件公司，这家初创公司完全符合 Capital Mills 的投资重点。这家风险投资公司提供两种类型的投资…This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/dutch-vc-capital-mills-invests-no-code-startup-innoloft</guid>
+      <pubDate>Wed, 08 May 2024 15:41:02 GMT</pubDate>
+    </item>
     <item>
       <title>来认识一下“有史以来最活跃的勒索软件团伙”LockBit 的头目</title>
       <link>https://thenextweb.com/news/meet-the-leader-of-lockbit-the-most-active-ransomware-gang-ever</link>
@@ -13,14 +20,14 @@
       <pubDate>Wed, 08 May 2024 14:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>神经元大小的脑植入物可以帮助盲人重见光明</title>
+      <title>神经元大小的大脑植入物可以帮助盲人重见光明</title>
       <link>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</link>
-      <description><![CDATA[一组研究人员制造了一种视觉植入物，其中的微型电极与神经元大小相当，旨在帮助盲人重见光明。视觉植入物的研发最早出现在 20 世纪 90 年代。该技术针对的是眼部受损但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。但尽管该解决方案具有潜力，现有方法仍受到电极尺寸过大和金属腐蚀的限制。研究团队声称已经解决了这两个挑战。一种新的纳米尺寸植入物 Vision 植入物包含向大脑发送信号的电极......This story continued at The Next Web]]></description>
+      <description><![CDATA[一组研究人员用神经元大小的微型电极构建了视觉植入物，寻求帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼睛受到损伤但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。尽管该解决方案具有潜力，但现有方法仍受到大尺寸电极和金属腐蚀的限制。研究小组声称已经解决了这两个挑战。新型纳米级植入物视觉植入物包含向大脑发送信号的电极…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</guid>
       <pubDate>Wed, 08 May 2024 13:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士初创公司为开发人员推出后量子加密库</title>
+      <title>瑞士初创公司为开发人员推出后量子密码学库</title>
       <link>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</link>
       <description><![CDATA[Terra Quantum 今天发布了其 TQ42 密码学库 - 一套开源的抗量子技术旨在帮助开发人员和企业保护数据免受当前和未来网络安全威胁的算法。新的密码学库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于多种应用程序，包括移动、网络、物联网和云。该库现在可以通过 GitHub 存储库获取。据这家初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中找到的算法重点关注…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</guid>
@@ -41,9 +48,9 @@
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>干杯：这款德国啤酒由回收废水酿造</title>
+      <title>自下而上：这种德国啤酒是由回收废水制成的</title>
       <link>https://thenextweb.com/news/xylem-german-wastewater-beer</link>
-      <description><![CDATA[Reuse Brew 是一款经典的德国啤酒，但有一点不同——它是由回收的废水制成的。这款啤酒是德国南部城市魏森堡、美国水技术公司 Xylem 和慕尼黑工业大学 (TUM) 合作的成果。具体来说，是慕尼黑工业大学的啤酒和饮料技术系（我为什么没有在那里学习？！）。虽然污水酿造的想法可能难以接受，但赛莱默确保我们在添加麦芽、啤酒花和酵母之前过滤掉所有有害物质。首先，机器将臭氧注入废水中。然后将污泥通过…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[Reuse Brew 是一款经典的德国啤酒，但有一点不同——它是由回收的废水制成的。这种啤酒是德国南部城市魏森堡、美国水技术公司 Xylem 和慕尼黑工业大学 (TUM) 合作的成果。具体来说，就是 TUM 的酿酒和饮料技术系（我为什么不去那里学习？！）。虽然污水酿造的想法可能难以接受，但 Xylem 确保在添加麦芽、啤酒花和酵母之前，所有不好的东西都被过滤掉。首先，机器将臭氧注入废水中。然后污泥被…这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/xylem-german-wastewater-beer</guid>
       <pubDate>Tue, 07 May 2024 14:41:08 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>英国 Wayve 在欧洲有史以来最大的人工智能融资轮中筹集了 10 亿美元</title>
       <link>https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles</link>
-      <description><![CDATA[Wayve，一家总部位于伦敦的初创公司，致力于自动驾驶人工智能系统车辆，已筹集 10 亿美元。这轮巨额融资标志着欧洲人工智能初创公司最大的单笔投资。日本企业集团软银与科技巨头英伟达和微软一起领投了本轮融资。 Wayve 没有透露投资后的估值。 Wayve 于 2017 年在剑桥成立，正在为自动驾驶汽车开发所谓的嵌入式人工智能系统。与 ChatGPT 等纯软件人工智能不同，实体人工智能充当车辆等物理对象的大脑。它让他们能够自己观察、思考和驾驶。该技术也适用于机器人或任何机器人这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[Wayve 是一家总部位于伦敦的初创公司，致力于开发自动驾驶汽车的人工智能系统，已筹集 10 亿美元。这轮巨额融资是欧洲人工智能初创公司获得的最大单笔投资。日本企业集团软银与科技巨头 Nvidia 和微软共同领投了这轮融资。Wayve 在投资后并未透露其估值。 Wayve 成立于 2017 年，总部位于剑桥，正在开发用于自动驾驶汽车的所谓具身人工智能系统。与 ChatGPT 等纯软件人工智能不同，具身人工智能是车辆等物理对象的大脑。它让它们能够自行观察、思考和驾驶。该技术也适用于机器人或任何…本报道在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles</guid>
       <pubDate>Tue, 07 May 2024 11:02:33 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[生成式人工智能的力量进一步点燃了先进人形机器人的竞赛，承诺更强大的机器能够学习和应对未知的环境和挑战。在全球范围内竞争日益激烈的情况下，总部位于瑞士的模仿者也加入了竞争者行列。该初创公司已筹集 250 万美元（230 万欧元）的种子前融资，将首款由 GenAI 驱动的协作机器人推向市场。 imit 是苏黎世联邦理工学院的衍生品，由三名研究机器人和人工智能交叉领域的研究人员于 2024 年创立。为了解决劳动力短缺问题，该团队开发了一款人形机器人手，这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-collaborative-robots-genai-humanoid-hand</guid>
       <pubDate>Tue, 07 May 2024 06:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒂尔堡的 Winston 先生为其酒店 POS 系统筹集了 60 万欧元</title>
-      <link>https://thenextweb.com/news/mr-winston-raises-e600k-hospitality-pos-system</link>
-      <description><![CDATA[总部位于蒂尔堡的 Mr. Winston 已筹集 600,000 欧元以进一步发展其酒店业POS系统并拓展到更多市场。该初创公司成立于 2015 年，提供基于云的 POS 解决方案，可在所有设备和操作系统（例如 iOS 和 Android）上运行。 POS 还具有额外的模块，包括预订、二维码订购和厨房屏幕。 “我们的竞争对手缺乏这种针对用户的灵活性，”Mr. Winston 的创始人兼首席技术官 Koen Lavrijssen 告诉 TNW。温斯顿先生在荷兰拥有数百名客户，最近又扩展到欧洲另外五个国家，包括德国和西班牙。 2023 年，初创公司…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/mr-winston-raises-e600k-hospitality-pos-system</guid>
-      <pubDate>Mon, 06 May 2024 16:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
