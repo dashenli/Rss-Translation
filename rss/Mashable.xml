@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Mashable</title>
+    <title>可混搭</title>
     <link>https://mashable.com/feeds/rss/all</link>
-    <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
-创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
-媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
-在旧金山设有办事处。</description>
-    <lastBuildDate>Tue, 07 May 2024 20:30:30 GMT</lastBuildDate>
+    <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
+    <lastBuildDate>Tue, 07 May 2024 23:31:01 GMT</lastBuildDate>
+    <item>
+      <title>今天的“Wordle”：这是 5 月 8 日的答案提示</title>
+      <link>https://mashable.com/article/wordle-today-answer-may-8-2024</link>
+      <description><![CDATA[这是 5 月 8 日“Wordle”#1054 的答案，以及一些提示、技巧和线索来帮助您自己解决问题。]]></description>
+      <guid>https://mashable.com/article/wordle-today-answer-may-8-2024</guid>
+      <pubDate>Tue, 07 May 2024 23:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何预订新款 Apple Pencil Pro</title>
+      <link>https://mashable.com/article/apple-pencil-pro-preorder</link>
+      <description><![CDATA[苹果公司在 5 月 7 日的 iPad 活动期间发布了 Apple Pencil Pro。现在可以以 129 美元的价格预订，并于 5 月 15 日发货。]]></description>
+      <guid>https://mashable.com/article/apple-pencil-pro-preorder</guid>
+      <pubDate>Tue, 07 May 2024 21:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何预订新款 Apple Magic Keyboard</title>
+      <link>https://mashable.com/article/apple-magic-keyboard-2024-preorder</link>
+      <description><![CDATA[苹果终于推出了带功能键的妙控键盘。11 英寸或 13 英寸 iPad Pro 的预购价格分别为 299 美元或 349 美元。]]></description>
+      <guid>https://mashable.com/article/apple-magic-keyboard-2024-preorder</guid>
+      <pubDate>Tue, 07 May 2024 21:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何预订新款 iPad Air</title>
+      <link>https://mashable.com/article/ipad-air-2024-preorder</link>
+      <description><![CDATA[新款 2024 iPad Air 有两种不同尺寸和升级的 M2 芯片。您可以在此处预订苹果新款平板电脑。]]></description>
+      <guid>https://mashable.com/article/ipad-air-2024-preorder</guid>
+      <pubDate>Tue, 07 May 2024 20:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里预订新款 Apple iPad Pro (2024)</title>
+      <link>https://mashable.com/article/ipad-pro-2024-preorder</link>
+      <description><![CDATA[新款 Apple iPad Pro 2024（起价 999 美元）的两种尺寸均可在 5 月 15 日发布之前在多家零售商处接受预订。]]></description>
+      <guid>https://mashable.com/article/ipad-pro-2024-preorder</guid>
+      <pubDate>Tue, 07 May 2024 20:38:48 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T、Verizon 和 T-Mobile 对 FCC 宣战</title>
       <link>https://mashable.com/article/att-verizon-t-mobile-challenge-fcc-location-data-fine</link>
@@ -18,12 +50,12 @@
     <item>
       <title>iPad Pro 2024 现已配备“串联 OLED”：这是一件大事的 5 个原因</title>
       <link>https://mashable.com/article/ipad-pro-oled-display-5-benefits</link>
-      <description><![CDATA[iPad Pro 2024 配备了新的 OLED 显示屏，但这对你意味着什么？]]></description>
+      <description><![CDATA[iPad Pro 2024 配备了新的 OLED 显示屏，但这对您意味着什么？]]></description>
       <guid>https://mashable.com/article/ipad-pro-oled-display-5-benefits</guid>
       <pubDate>Tue, 07 May 2024 19:33:56 GMT</pubDate>
     </item>
     <item>
-      <title>iPad Pro 2024 上手体验：新的“纳米纹理玻璃”与没有它的玻璃相比如何</title>
+      <title>iPad Pro 2024 上手体验：新型“纳米纹理玻璃”与没有它的玻璃相比如何</title>
       <link>https://mashable.com/article/ipad-pro-2024-first-impressions</link>
       <description><![CDATA[Mashable 拿到了新款 iPad Pro，事实证明，“iPod Nano”的比喻非常准确。]]></description>
       <guid>https://mashable.com/article/ipad-pro-2024-first-impressions</guid>
@@ -53,7 +85,7 @@
     <item>
       <title>iPad Air 与 iPad Pro：2024 年新款机型有何区别？</title>
       <link>https://mashable.com/article/ipad-air-vs-ipad-pro-2024</link>
-      <description><![CDATA[苹果公司于 5 月 7 日星期二在“Let Loose”直播中展示了新款 iPad Air 和 iPad Pro，它们的 M2 和 M4 芯片以及其他差异使它们是截然不同的机器。]]></description>
+      <description><![CDATA[苹果周二在 5 月 7 日的“Let Loose”直播中展示了新款 iPad Air 和 iPad Pro，它们的 M2 和 M4 芯片以及其他差异标志着它们是完全不同的机器。]]></description>
       <guid>https://mashable.com/article/ipad-air-vs-ipad-pro-2024</guid>
       <pubDate>Tue, 07 May 2024 18:08:40 GMT</pubDate>
     </item>
@@ -63,13 +95,6 @@
       <description><![CDATA[随着苹果最新 iPad Air 和 iPad Pro 的发布，iPad 10 代的最低起价已降至 349 美元。]]></description>
       <guid>https://mashable.com/article/ipad-10th-generation-price-drop</guid>
       <pubDate>Tue, 07 May 2024 17:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何预订新款 Apple Magic Keyboard</title>
-      <link>https://mashable.com/article/apple-magic-keyboard-2024-preorder</link>
-      <description><![CDATA[苹果终于推出了带有功能键的妙控键盘。预订 11 英寸或 13 英寸 iPad Pro 的价格分别为 299 美元或 349 美元。]]></description>
-      <guid>https://mashable.com/article/apple-magic-keyboard-2024-preorder</guid>
-      <pubDate>Tue, 07 May 2024 16:53:40 GMT</pubDate>
     </item>
     <item>
       <title>如何在 Google I/O 大会之前预订 Google Pixel 8a</title>
@@ -84,34 +109,6 @@
       <description><![CDATA[自 5 月 7 日起，亚马逊的宠物日优惠将持续 48 小时，为宠物科技、玩具、床上用品等提供折扣。]]></description>
       <guid>https://mashable.com/article/amazon-pet-day-2024</guid>
       <pubDate>Tue, 07 May 2024 16:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您外出时，使用这些宠物相机可享受高达 35% 的折扣，了解狗狗在做什么</title>
-      <link>https://mashable.com/article/amazon-pet-day-2024-pet-camera-deals</link>
-      <description><![CDATA[截至 5 月 7 日，亚马逊宠物日期间，多款宠物相机可享受高达 35% 的折扣。]]></description>
-      <guid>https://mashable.com/article/amazon-pet-day-2024-pet-camera-deals</guid>
-      <pubDate>Tue, 07 May 2024 16:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么互联网将 Met Gala 与“饥饿游戏”进行比较</title>
-      <link>https://mashable.com/article/met-gala-2024-hunger-games</link>
-      <description><![CDATA[2024 年的 Met Gala 也有一些相似之处，因为人道主义危机和大学抗议活动仍在继续。]]></description>
-      <guid>https://mashable.com/article/met-gala-2024-hunger-games</guid>
-      <pubDate>Tue, 07 May 2024 16:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何预订新款 Apple iPad Pro (2024)</title>
-      <link>https://mashable.com/article/ipad-pro-2024-preorder</link>
-      <description><![CDATA[新款 Apple iPad Pro 2024（起价 999 美元）的两种尺寸均可在 5 月 15 日发布之前在 Apple Store 接受预订。]]></description>
-      <guid>https://mashable.com/article/ipad-pro-2024-preorder</guid>
-      <pubDate>Tue, 07 May 2024 16:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 在 iPad 活动期间宣布的所有内容，包括新款 OLED iPad Pro</title>
-      <link>https://mashable.com/article/apple-event-2024-ipad-everything-announced</link>
-      <description><![CDATA[苹果最终展示了四款具有一些时髦新功能的新 iPad，结束了数月的猜测。]]></description>
-      <guid>https://mashable.com/article/apple-event-2024-ipad-everything-announced</guid>
-      <pubDate>Tue, 07 May 2024 16:16:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

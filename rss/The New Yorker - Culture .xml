@@ -4,9 +4,9 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 07 May 2024 21:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:50:01 GMT</lastBuildDate>
     <item>
-      <title>每日漫画：5 月 7 日，星期二</title>
+      <title>每日漫画：5 月 7 日星期二</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-may-7th-alumni-association</link>
       <description><![CDATA[“我谨代表校友会，祝贺你们毕业！今天你愿意为母校捐款吗？”]]></description>
       <guid>https://www.newyorker.com/cartoons/daily-cartoon/tuesday-may-7th-alumni-association</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>巨大蝉出现的奇特乐趣</title>
       <link>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</link>
-      <description><![CDATA[像吹叶机一样响亮，像数学一样神奇，这些昆虫即将占领大地。]]></description>
+      <description><![CDATA[像吹叶机一样响亮，像数学一样神奇，昆虫即将占领大地。]]></description>
       <guid>https://www.newyorker.com/science/elements/the-peculiar-delights-of-the-enormous-cicada-emergence</guid>
       <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -48,6 +48,13 @@
       <pubDate>Mon, 06 May 2024 15:34:12 GMT</pubDate>
     </item>
     <item>
+      <title>邮件</title>
+      <link>https://www.newyorker.com/magazine/2024/05/13/letters-from-the-may-13-2024-issue</link>
+      <description><![CDATA[信件回应了路易斯·梅南德关于法官斯蒂芬·布雷耶新书的文章和埃里克·拉赫关于纽约市卫生专员杰西卡·蒂施的文章。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/05/13/letters-from-the-may-13-2024-issue</guid>
+      <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>简要的书评</title>
       <link>https://www.newyorker.com/magazine/2024/05/13/shakespeares-sisters-limitarianism-rough-trade-and-leaving</link>
       <description><![CDATA[《莎士比亚的姐妹》、《限制主义》、《粗暴的贸易》和《离开》。]]></description>
@@ -62,16 +69,9 @@
       <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>邮件</title>
-      <link>https://www.newyorker.com/magazine/2024/05/13/letters-from-the-may-13-2024-issue</link>
-      <description><![CDATA[信件回应了路易斯·梅南德关于法官斯蒂芬·布雷耶新书的文章和埃里克·拉赫关于纽约市卫生专员杰西卡·蒂施的文章。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/05/13/letters-from-the-may-13-2024-issue</guid>
-      <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>西蒙·里奇谈友谊和超级反派</title>
       <link>https://www.newyorker.com/books/this-week-in-fiction/simon-rich-05-13-24</link>
-      <description><![CDATA[作者讨论了他的故事“我们并没有那么不同，你和我”。]]></description>
+      <description><![CDATA[作者讨论了他的故事“我们并没有什么不同，你和我。”]]></description>
       <guid>https://www.newyorker.com/books/this-week-in-fiction/simon-rich-05-13-24</guid>
       <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -90,13 +90,6 @@
       <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们要把精神病标签变成身份</title>
-      <link>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</link>
-      <description><![CDATA[所以你属于自闭症谱系障碍，或者你患有边缘性人格障碍，或者你是一个反社会者：一旦你确定自己就是这样的人，你就与一个非常摇摇欲坠的诊断系统息息相关。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</guid>
-      <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>毛里齐奥·卡特兰的武装艺术助手</title>
       <link>https://www.newyorker.com/magazine/2024/05/13/maurizio-cattelans-armed-art-helpers</link>
       <description><![CDATA[为了制作目前在高古轩画廊出售的镀金钢板，这位意大利艺术家聘请了有执照的射手，在杰夫·昆斯等观众面前用子弹打孔。]]></description>
@@ -104,9 +97,16 @@
       <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一位一流的驯兽师正在为他的电影首秀准备一只大丹犬</title>
+      <title>为什么我们要把精神病标签变成身份</title>
+      <link>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</link>
+      <description><![CDATA[所以你属于自闭症谱系障碍，或者你患有边缘性人格障碍，或者你是一个反社会者：一旦你确定自己就是这样的人，你就与一个非常摇摇欲坠的诊断系统息息相关。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities</guid>
+      <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一流动物训练师为大丹犬的电影首秀做准备</title>
       <link>https://www.newyorker.com/magazine/2024/05/13/an-a-list-animal-trainer-prepares-a-great-dane-for-his-film-debut</link>
-      <description><![CDATA[比尔·宝隆尼曾与猪、鹅和蝴蝶进行过研究。他最近为必应在改编自西格丽德·努涅斯的《朋友》中的主演角色做准备。]]></description>
+      <description><![CDATA[比尔·宝隆尼曾与猪、鹅和蝴蝶进行过研究。他最近为必应在西格丽德·努涅斯的《朋友》改编剧中的主演角色做准备。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/13/an-a-list-animal-trainer-prepares-a-great-dane-for-his-film-debut</guid>
       <pubDate>Mon, 06 May 2024 10:00:00 GMT</pubDate>
     </item>

@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Tue, 07 May 2024 21:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:49:18 GMT</lastBuildDate>
+    <item>
+      <title>在不久的将来，超能力的人形机器人会在汽车工厂工作吗？ ：2024 年 4 月阅读次数最多的 10 个故事</title>
+      <link>https://wired.jp/article/10-most-read-stories-april-2024/</link>
+      <description><![CDATA[以下是今年 4 月在 WIRED.jp 上发布的 10 个阅读量最高的故事，其中包括有关波士顿动力公司的人形机器人和 Cyber​​truck 召回的主题。]]></description>
+      <guid>https://wired.jp/article/10-most-read-stories-april-2024/</guid>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能将彻底改变企业和求职者因应聘量大、选择不明确而烦恼的求职流程。</title>
+      <link>https://wired.jp/article/recruiters-ai-application-overload/</link>
+      <description><![CDATA[Indeed 和 LinkedIn 等公司正在实施人工智能技术来改善招聘和求职流程。然而，大规模应用存在缺陷，而且人工智能的判断标准不明确，所以目前一些招聘经理似乎选择走模拟路线。]]></description>
+      <guid>https://wired.jp/article/recruiters-ai-application-overload/</guid>
+      <pubDate>Tue, 07 May 2024 23:09:19 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌发布“Pixel 8a”，支持AI功能，价格亲民</title>
       <link>https://wired.jp/article/google-pixel-8a/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[苹果公司已经发布了新产品，例如号称有史以来最薄的新款 iPad Pro、有两种尺寸的 iPad Air，以及改进了可操作性的 Apple Pencil Pro。这些新阵容揭示了苹果在其活动邀请中传递的信息。]]></description>
       <guid>https://wired.jp/article/apple-ipad-pro-m4-ipad-air-event/</guid>
       <pubDate>Tue, 07 May 2024 16:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将彭罗斯瓦片转换为量子纠错码：量子计算机开发的新发现</title>
-      <link>https://wired.jp/article/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</link>
-      <description><![CDATA[两位研究人员证明了彭罗斯瓦片（一种在数学家和其他研究人员中众所周知的非周期性瓦片）与量子纠错之间的数学联系。对于没有周期性图案的形状来保护量子信息意味着什么？]]></description>
-      <guid>https://wired.jp/article/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</guid>
-      <pubDate>Tue, 07 May 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
       <title>波音公司的Starliner宇宙飞船即将发射期待已久的载人飞行</title>
@@ -43,7 +50,7 @@
     <item>
       <title>如果你能救一个人 80 万日元，你就赚钱了：一次体现有效利他主义的 GiveWell 采访</title>
       <link>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</link>
-      <description><![CDATA[当旨在最大化慈善事业的效率和影响力的有效利他主义陷入自我怀疑的螺旋时，相信定量分析的理想主义者埃利·哈森菲尔德想要捐赠巨额资金仍然迎合了欲望。硅谷的富人。]]></description>
+      <description><![CDATA[当旨在最大化慈善事业效率和影响力的有效利他主义陷入自我怀疑的螺旋时，相信定量分析的理想主义者埃利·哈森菲尔德想要捐赠巨额资金仍然迎合了人们的愿望。硅谷的富人。]]></description>
       <guid>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</guid>
       <pubDate>Mon, 06 May 2024 22:00:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>中国制造的自动驾驶系统到底有多厉害？三大厂商电动车“进化”现状</title>
       <link>https://wired.jp/article/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</link>
-      <description><![CDATA[中国的电动汽车 (EV) 制造商正在稳步发展其自动驾驶技术。我们在公共道路上试驾了三大制造商的电动汽车，以了解它们的动力到底有多大。]]></description>
+      <description><![CDATA[中国的电动汽车（EV）制造商正在稳步发展其自动驾驶技术。我们在公共道路上试驾了三大制造商的电动汽车，以了解它们的动力到底有多大。]]></description>
       <guid>https://wired.jp/article/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</guid>
       <pubDate>Mon, 06 May 2024 02:00:00 GMT</pubDate>
     </item>
@@ -85,30 +92,23 @@
     <item>
       <title>保姆机器人“Iruyo”安抚开车时不停哭泣的孩子</title>
       <link>https://wired.jp/article/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</link>
-      <description><![CDATA[日产汽车有限公司与 TBWA\HAKUHODO 和 Akachan Honpo 合作开发的保姆机器人概念模型，利用传感技术读取孩子的面部表情并对父母的声音做出反应。]]></description>
+      <description><![CDATA[日产汽车有限公司与 TBWA\HAKUHODO 和 Akachan Honpo 合作开发的保姆机器人概念模型，利用传感技术读取孩子的面部表情，并在驾驶员无法直接照顾孩子时对父母的声音做出反应。会支持你的。]]></description>
       <guid>https://wired.jp/article/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/</guid>
       <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>风力发电维修技术人员在现场做什么工作？退伍军人讲述“高空作业”的现实</title>
       <link>https://wired.jp/article/it-takes-guts-to-fix-wind-turbines-for-a-living/</link>
-      <description><![CDATA[随着可再生能源的利用加速，全球风电场的数量不断增加。维护风力涡轮机的维修工程师是稳定运行不可或缺的。什么样的工作涉及高空作业？一位拥有13年经验的老兵说道。]]></description>
+      <description><![CDATA[随着可再生能源的利用加速，全球风力发电厂的数量不断增加。维护风力涡轮机的维修工程师是稳定运行不可或缺的。什么样的工作涉及高空作业？一位拥有13年经验的老兵说道。]]></description>
       <guid>https://wired.jp/article/it-takes-guts-to-fix-wind-turbines-for-a-living/</guid>
       <pubDate>Sat, 04 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果您将相机的 ISO 感光度最大化，您会看到什么样的世界？日本摄影师发来的日常生活“噪音图形”</title>
+      <title>如果您将相机的 ISO 感光度最大化，您会看到什么样的世界？日本摄影师发送的日常生活“噪音图形”</title>
       <link>https://wired.jp/article/iso1638400-photographs/</link>
       <description><![CDATA[“ISO感光度”表示相机捕捉光线的能力。如果这个值增加到最大，将会预测出一个什么样的世界？一位日本摄影师继续在作品中分享他以这种方式捕捉到的世界。]]></description>
       <guid>https://wired.jp/article/iso1638400-photographs/</guid>
       <pubDate>Sat, 04 May 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼“PULSE Elite无线耳机”评测：功能齐全，PS5最佳选择之一</title>
-      <link>https://wired.jp/article/sony-playstation-pulse-elite-review/</link>
-      <description><![CDATA[索尼的「PULSE Elite 无线耳机」是一款音质良好的多功能游戏耳机。它与 PlayStation 5 特别兼容，可能是最好的选择。]]></description>
-      <guid>https://wired.jp/article/sony-playstation-pulse-elite-review/</guid>
-      <pubDate>Sat, 04 May 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
