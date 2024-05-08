@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>The Verge - 所有文章</title>
+    <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 08 May 2024 06:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:24:49 GMT</lastBuildDate>
+    <item>
+      <title>微软正在通过新的 Copilot AI 功能“将每个人变成快速工程师”</title>
+      <link>https://www.theverge.com/2024/5/8/24151847/microsoft-copilot-rewrite-prompt-feature-microsoft-365</link>
+      <description><![CDATA[&lt;图&gt;
+      
+边缘
+
+微软正在尝试解决为生成式人工智能提供良好提示的问题，旨在将每个人都变成提示工程师。在接下来的几个月中，Copilot for Microsoft 365（向 Office 应用添加 AI 助手的付费服务）将更新为新的自动完成功能，该功能可提供改进 AI 提示的建议。
+如果您开始创建提示，Copilot 很快就会提供额外的详细信息来完成提示，以改善您生成的任何内容或您提出的问题的最终结果。因此，如果您开始输入“摘要”，Copilot 将显示用于摘要收件箱中最后 10 封未读电子邮件的选项，或与您的 Office 数据相关的其他任务。
+
+
+图片：微软
+Copilot for Microsoft 365 即将推出的自动完成功能。
+
+Microsoft 还在 Copilot for Microsoft 365 中开发一项新的“详细说明您的提示”功能，该功能将从本质上重写您创建的任何提示。当您希望 Copilot 对文件执行操作，但您不完全确定什么级别的详细信息将有助于充分利用提示时，这应该会有所帮助。
+“凭借其新的重写功能，Copilot 只需单击一个按钮即可将基本提示变成丰富的提示，将每个人都变成提示工程师，”微软人工智能公司副总裁 Jared Spataro 说道。工作，在博客文章中。 Microsoft 365 的 Copilot 还将很快包含一个新的“Catch Up”聊天界面，该界面会突出显示即将举行的会议并显示文档和其他相关信息，以帮助您为会议做好准备。 
+
+
+图片：微软
+Copilot for Microsoft 365 中全新的详细提示功能。
+
+Microsoft 还将允许 Copilot for Microsoft 365 订阅者在 Copilot Lab 中创建、发布和管理提示，这些提示可以为企业中的各个团队量身定制。这将使分享有用的提示供同事使用变得更加容易。
+微软正在展示这些即将推出的 Copilot for Microsoft 365 功能以及最新的年度工作趋势指数，该指数今年是微软和 LinkedIn 关于工作中人工智能状况的联合报告。微软对 31 个国家/地区的 31,000 人进行了调查，分析了 LinkedIn 上的招聘趋势，并查看了 Microsoft 365 的数据，以提供有关企业中人工智能使用情况的一些统计数据。 
+
+
+图片：微软
+微软表示 75% 的人已经在工作中使用人工智能。
+
+“随着人工智能在工作场所变得无处不在，员工和企业都面临着巨大的压力，”斯帕塔罗说。 “疫情期间加快的工作节奏和强度并未缓解，因此员工正在将自己的人工智能带到工作中。”微软声称 78% 的人工智能用户正在将自己的人工智能工具投入工作，而不是等待组织推出工具。
+微软还声称“人工智能高级用户”正在崛起，这是一种采用人工智能来节省工作时间的员工。 “与怀疑论者相比，人工智能高级用户从根本上重新调整了他们的工作方式，重新构想了业务流程，每天节省了 30 分钟以上的时间，”Spataro 说道。
+微软发布这份自私报告之际，正值该公司面临投资者的压力，要求其表明其在人工智能领域的巨额投资将产生回报。 Azure 和其他云服务的收入增长了 31% 微软最近一个季度，来自 AI 服务的收入贡献了 7 个百分点——AI 影响较上一季度有所增加。]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24151847/microsoft-copilot-rewrite-prompt-feature-microsoft-365</guid>
+      <pubDate>Wed, 08 May 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国详细说明保护儿童免受“有毒算法”侵害的要求</title>
+      <link>https://www.theverge.com/2024/5/8/24151834/uk-ofcom-online-safety-act-protect-children-toxic-algorithms-meta-tiktok</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Hugo Herrera 为 The Verge 绘制的插图
+
+英国呼吁搜索和社交媒体公司“驯服有毒算法”，向儿童推荐有害内容，否则将面临数十亿美元的罚款。 周三，英国媒体监管机构 Ofcom 概述了其《在线安全法》规则，包括严格的年龄检查和内容审核，旨在更好地保护未成年人在线，符合即将到来的数字安全法律。 
+“我们提议的准则将确保儿童安全的责任明确地交给了科技公司，”Ofcom 首席执行官梅兰妮·道斯 (Melanie Dawes) 说道。 “他们需要驯服激进的算法，这些算法会在个性化信息流中向儿童推送有害内容，并引入年龄检查，以便儿童获得适合其年龄的体验。”
+
+
+科技公司必须采取行动保护上网儿童。 严重有害的内容已经影响儿童的在线体验太久了 - 并且可能产生毁灭性的后果。➡️ 滑动以了解我们希望公司采取的建议措施。 — Ofcom (@Ofcom) 2024 年 5 月 8 日
+
+
+具体而言，Ofcom 希望防止儿童接触与饮食失调、自残、自杀、色情内容以及任何被判定为暴力、仇恨或虐待的内容相关的内容。平台还必须保护儿童免受在线欺凌和危险在线挑战的促销，并允许他们对他们不想看到的内容留下负面反馈，以便他们可以更好地管理自己的信息流。 
+底线：Ofcom 表示，平台很快将不得不屏蔽在英国被视为有害的内容，即使这意味着“阻止儿童访问整个网站或应用程序”。
+《在线安全法案》允许 Ofcom 处以最高 1800 万英镑（约合 2240 万美元）或公司全球收入 10% 的罚款——以较高者为准。这意味着 Meta、谷歌和 TikTok 等大公司面临支付大笔费用的风险。 Ofcom 警告称，不遵守规定的公司“可能会面临执法行动。”
+公司必须在 7 月 17 日之前对 Ofcom 的提案做出回应，然后才能将代码提交给议会。监管机构将于 2025 年春季发布最终版本，此后平台将有三个月的时间来遵守。]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24151834/uk-ofcom-online-safety-act-protect-children-toxic-algorithms-meta-tiktok</guid>
+      <pubDate>Wed, 08 May 2024 10:54:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>戴姆勒的无人驾驶半挂卡车将于 2027 年上路</title>
+      <link>https://www.theverge.com/2024/5/8/24151391/daimler-truck-autonomous-demonstrator-torc-waymo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24151391/daimler-truck-autonomous-demonstrator-torc-waymo</guid>
+      <pubDate>Wed, 08 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brilliant 价值 400 美元的智能开关目前仍在工作......</title>
+      <link>https://www.theverge.com/2024/5/8/24150346/brilliant-smart-home-lighting-out-of-business</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/8/24150346/brilliant-smart-home-lighting-out-of-business</guid>
+      <pubDate>Wed, 08 May 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>以下是最新 iPad Pro 与新款 iPad Air（以及之前型号）的比较</title>
       <link>https://www.theverge.com/24091213/apple-ipad-air-2024-pro-specs-comparison</link>
@@ -69,99 +138,18 @@ OpenAI 多年来一直致力于检测人工智能生成的内容。然而，在 
     <item>
       <title>压缩式笔记本电脑 RAM 快速、高效且可升级</title>
       <link>https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：iFixit
-
-第一台配备 LPCAMM2 内存的笔记本电脑终于问世了。 iFixit 的工作人员拿到了 Lenovo ThinkPad P1（第 7 代），它在 LPCAMM2 模块中使用 LPDDR5X 内存，只需从笔记本电脑主板上拧下螺丝即可升级或更换该模块。
-与大多数现代笔记本电脑中现有的 LPDDR 内存相比，这是一个重大变化。这种类型的内存通常焊接到主板上，使得升级更加困难。 LPCAMM2（或低功耗压缩附加内存模块）提供模块化功能，同时又不损失 LPDDR 的功效。
-
-传统 DDR RAM 使用插入主板的 SODIMM 内存条，与台式电脑非常相似。正如 iFixit 指出的那样，LPDDR 的能效要高得多，但需要直接焊接到主板上，尽可能靠近处理器。到目前为止，制造商必须在可升级 RAM 和节能 RAM 之间做出选择。 LPCAMM2 试图通过用螺钉而不是焊接来固定主板来消除差异。与 SODIMM 内存条不同的是，每个 LPCAMM2 模块都是双通道，因此您只需要一个，而不是两个。
-如 iFixit 发布的动手视频所示，您可以通过拆下笔记本电脑的后背并取出电池来更换联想新款 ThinkPad P1 中的 LPCAMM2。从那里，您可以通过卸下三个十字头螺钉取出 LPCAMM2。 
-除了美光之外，三星和威刚也参与了 LPCAMM2 的开发。这有望意味着如果您的内存配备了微不足道的 8GB RAM，但我们可能不能指望每个制造商都会做出这种转变。]]></description>
-      <guid>https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit</guid>
-      <pubDate>Tue, 07 May 2024 20:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 Sonos Roam 2 便携式扬声器</title>
-      <link>https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：The Verge
-
-Sonos 即将推出的最重要的硬件产品无疑是其期待已久的 Sonos Ace 耳机。它们将标志着该公司在一个大规模（且竞争激烈）的新类别中的首次亮相。但春季和夏季始终是新款便携式音箱的上市季节，Sonos 并没有忘记这部分业务。
-该公司一直在开发 Sonos Roam 的续作&lt; /a&gt;，它三年前发布的微型便携式扬声器。我已经获得了预发布的 Sonos Roam 2 的图像，可以分享更多有关它与原始型号之间的差异的信息，原始型号因电池性能不可靠和其他问题而受到一些用户的批评。 
-就设计而言，Roam 2 基本上是第一代扬声器的翻版。它们之间的主要区别在于“Sonos”徽标现在与扬声器的颜色相匹配，正如您在这个黑色单元上看到的那样；原件上是白色的。 
-
-
-图片：The Verge
-Roam 2 有一个用于蓝牙配对的专用按钮。
-
-续集的另一个独特之处是产品背面现在有两个按钮。其中之一是专用的蓝牙配对按钮。是的，您可以将 Roam 2 与任何手机或其他音频源配对，无需首先使用 Sonos 应用程序在家庭 Wi-Fi 上进行初始设置。值得庆幸的是，Sonos 取消了这一令人讨厌的要求，这不是这是消费者在使用绝大多数其他蓝牙扬声器时必须面对的障碍。
-几个月前，彭博社首次报道了 Roam 2，表明新的 Roam 将配备电容式音量滑块与 Era 100、Era 300 和 Move 2 类似。但我可以确认最终设计具有与之前相同的物理控件，没有滑块。改进的控制布局可能在早期就经过测试，但在设备的开发过程中被放弃。有些人将 Roam 用作淋浴扬声器，而电容式按钮并不适合这种情况。
-
-至于 Sonos 为提高整体硬件可靠性而进行的任何内部驱动程序改进或更改，我目前还无法透露。但我预计 Roam 2 的价格与其前身大致相同，并具有许多相同的主要优点：其中之一是能够在整个家庭 Sonos 扬声器系统的其余部分共享蓝牙音频。 
-我仍然非常喜欢更大的（尺寸和声音） Move 2，在几个月的使用过程中没有给我带来任何麻烦。但每当 Roam 2 真正上市时，我在评测第一代扬声器时都会留意它所积累的负面反馈。
-Sonos 今天下午将公布第二季度财务收益，随后将召开分析师电话会议。我将倾听首席执行官 Patrick Spence 和公司其他高管的任何有趣花絮。]]></description>
-      <guid>https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive</guid>
-      <pubDate>Tue, 07 May 2024 19:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛由谷歌支持的流媒体盒和智能音箱组合上线</title>
-      <link>https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：沃尔玛
-
-沃尔玛在产品 泄露到现实世界并间歇性地出现在商店网站上。
-新款 Onn 4K Pro，零售价 49.88 美元，配备了新功能，包括内置 Google Assistant 智能扬声器、杜比视界 + Atmos、HDR 以及带有蓝色“免费电视”大按钮的遥控器，可巧妙地将您指向 Google 的 FAST 频道以及 a 可自定义星形按钮 可以启动应用程序或更改电视输入。
-
-
-图片：沃尔玛
-您会得到一个桶形插头电源，而不是直接交流电源或 USB-C，但至少您会得到一条附带的 HDMI 电缆。
-
-
-
-图片：沃尔玛
-这不是“魔法”——它是可自定义按钮。
-
-这款方形黑色机顶盒不会藏在娱乐中心 — 它配有麦克风，工作原理就像带有 Google Assistant 的 Nest Mini。您可以要求 Onn 4K Pro 播放 YouTube 视频或打开智能家居中的灯等，全部免提。它看起来也像 Nest Mini，具有嵌入式网状织物盖和一排四个 LED。
-虽然 Onn 4K Pro 不是 Google 制造的，但它确实感觉像是 49.99 美元的继承者Chromecast with Google TV，早在 2020 年就推出了。相比之下， Onn 4K Pro 具有更灵活的 Wi-Fi 6 加以太网连接，而 Chromecast 仅具有 Wi-Fi 5。Onn 还具有更多 RAM（3GB 与 2GB）、更多内部存储（32GB 与 8GB），并可让您通话无需手持遥控器即可说出“Hey Google” - 价格相同。]]></description>
-      <guid>https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available</guid>
-      <pubDate>Tue, 07 May 2024 19:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在新 iPhone 上设置 eSIM</title>
-      <link>https://www.theverge.com/23449775/esim-iphone-14-how-to-verizon-att-t-mobile</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23449775/esim-iphone-14-how-to-verizon-att-t-mobile</guid>
-      <pubDate>Tue, 07 May 2024 18:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊为其送货车队增加 50 辆电动卡车以减少污染</title>
-      <link>https://www.theverge.com/2024/5/7/24151187/amazon-electric-truck-volvo-first-middle-last-mile</link>
       <description><![CDATA[
 
-图片：亚马逊
+图片：iFixit
 
-亚马逊正在加州部署 50 辆电池电动重型卡车，该公司声称这是美国最大的此类车队。该公司表示，新卡车代表了其消除全球运营污染使命的重要一步 — — 尽管其碳排放量近年来激增。 
-亚马逊表示，卡车将被整合到第一英里运营中，其中货物从港口的集装箱船运送到配送中心，以及中间英里运营，其中包裹从配送中心运输到配送中心。从那里，包裹将被装载到亚马逊的最后一英里车队中，其中一部分是 Rivian 生产的电动送货车。
+首款配备 LPCAMM2 内存的笔记本电脑终于问世了。 iFixit 的工作人员拿到了联想 ThinkPad P1 (Gen 7)，它在 LPCAMM2 模块中使用 LPDDR5X 内存，您只需从笔记本电脑主板上拧下螺丝即可。
+这与大多数现代笔记本电脑中现有的 LPDDR 内存相比有很大变化。这种类型的内存通常焊接在主板上，因此升级起来更加困难。LPCAMM2（低功耗压缩连接内存模块）提供模块化，同时又不损失 LPDDR 的功率效率。
 
-
-
-重型卡车由沃尔沃 VNR 生产，沃尔沃 VNR 是瑞典汽车制造商的一个部门，生产 8 级牵引拖车。沃尔沃生产多种车型，续航里程可达 275 英里，电池容量为 565kWh，充电时间为 90 分钟，从零到 80%。牵引能力最高可达 66,000 磅，具体取决于车型，牵引重量越大，电池续航里程可能会受到负面影响。
-部分新卡车将作为亚马逊短途运输车队的一部分，将洛杉矶港和长滩港货船上卸下的货物运送到其位于加利福尼亚州圣菲斯普林斯的配送中心。预计年底前将有十几辆卡车投入使用。 
-
-
-
-对于中程服务，亚马逊预计将部署 35 辆电动卡车，在配送中心和多个不同地点（包括分拣中心、空运设施和配送中心）之间运送货物。从那里，包裹将被亚马逊的送货车接走，开始最后的旅程。 
-“我们很自豪能够在加州推出迄今为止规模最大的电动重型车队，”亚马逊全球运营副总裁 Udit Madan 在一份声明中表示。 
-亚马逊表示将到 2040 年实现碳中和。但考虑到该公司温室气体排放的规模，这可能是一个挑战。 2022 年，亚马逊产生了 7127 万公吨二氧化碳当量，较上一年略有下降，但仍高于该公司首次承诺实现碳中和的 2019 年。 
-同年，亚马逊与 Rivian 达成巨额交易，购买了 10 万辆电动送货车。自那时以来，Rivian 已交付了大约 10,000 辆电动送货车——但同时结束了与这家电子商务巨头的独家交易，使其能够将其货车出售给其他车队所有者。
-可以肯定的是，运送亚马逊、联邦快递和 UPS 包裹的绝大多数卡车和货车都由化石燃料驱动。许多公司都计划为其车队提供电气化，但如今道路上真正的电动汽车数量微乎其微。
-]]></description>
-      <guid>https://www.theverge.com/2024/5/7/24151187/amazon-electric-truck-volvo-first-middle-last-mile</guid>
-      <pubDate>Tue, 07 May 2024 18:00:00 GMT</pubDate>
+传统 DDR RAM 使用插入主板的 SODIMM 内存条，就像台式电脑一样。正如 iFixit 指出的那样，LPDDR 的功率效率更高，但需要直接焊接到主板上，尽可能靠近处理器。到目前为止，制造商必须在可升级 RAM 和节能 RAM 之间做出选择。LPCAMM2 试图通过使用螺丝而不是焊接与主板紧密贴合来平衡差异。与 SODIMM 内存条不同的是，每个 LPCAMM2 模块都是双通道的，因此您只需要一个，而不是两个。
+如 iFixit 发布的动手视频所示，您可以通过卸下笔记本电脑的背板然后取出电池来更换联想新款 ThinkPad P1 中的 LPCAMM2。然后，您可以通过卸下三个十字槽螺钉来取出 LPCAMM2。
+除了 Micron，三星 和 ADATA 也正在加入 LPCAMM2。这意味着，如果你的电脑配备了可怜的8GB RAM，你将能够升级内存，但我们可能无法指望每个制造商都会做出这种转变。]]></description>
+      <guid>https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit</guid>
+      <pubDate>Tue, 07 May 2024 20:33:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

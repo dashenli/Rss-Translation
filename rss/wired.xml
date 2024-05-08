@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Wed, 08 May 2024 09:14:47 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Wed, 08 May 2024 12:25:04 GMT</lastBuildDate>
+    <item>
+      <title>职业倦怠正在促使员工使用人工智能——即使他们的老板不知道</title>
+      <link>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</link>
+      <description><![CDATA[新数据显示，无论老板是否愿意，人们都在工作中使用人工智能。但推动变革的是绝望，而不是创新。]]></description>
+      <guid>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</guid>
+      <pubDate>Wed, 08 May 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delonghi Specialista Arte Evo 冷萃浓缩咖啡机评论：有点奇怪</title>
+      <link>https://www.wired.com/review/delonghi-specialista-arte-evo-espresso-machine-with-cold-brew/</link>
+      <description><![CDATA[冷萃功能有点令人失望，但只要你稍加帮助，这款 De&#39;Longhi 咖啡机就能制作出美味的浓缩咖啡。]]></description>
+      <guid>https://www.wired.com/review/delonghi-specialista-arte-evo-espresso-machine-with-cold-brew/</guid>
+      <pubDate>Wed, 08 May 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一次（奇怪的）采访：与俄罗斯军方有关联的黑客攻击美国水务设施</title>
+      <link>https://www.wired.com/story/cyber-army-of-russia-interview/</link>
+      <description><![CDATA[尽管俄罗斯网络军声称已经影响了美国的“思想和心灵”，但专家表示，该网络破坏组织似乎只是在向国内观众大肆宣传其黑客行为。]]></description>
+      <guid>https://www.wired.com/story/cyber-army-of-russia-interview/</guid>
+      <pubDate>Wed, 08 May 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>来吧，为什么新的 Apple Pencil Pro 不向后兼容？</title>
       <link>https://www.wired.com/story/apple-pencil-pro-not-backward-compatible/</link>
@@ -22,14 +43,14 @@
     <item>
       <title>气候抗议中坚决阻止特斯拉</title>
       <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
-      <description><![CDATA[随着抗议活动的加剧，特斯拉在德国的超级工厂已暂时停止生产。]]></description>
+      <description><![CDATA[随着抗议活动加剧，特斯拉位于德国的超级工厂暂时停止生产。]]></description>
       <guid>https://www.wired.com/story/tesla-forest-protest-environment-sham/</guid>
       <pubDate>Tue, 07 May 2024 20:10:45 GMT</pubDate>
     </item>
     <item>
       <title>FCC 堵住最终网络中立令中的“快车道”漏洞</title>
       <link>https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/</link>
-      <description><![CDATA[该机构发布了最终命令，澄清为消费者提供的付费互联网“快速通道”违反了其网络中立规则。它还保证新规则不会抢占国家宽带负担能力计划。]]></description>
+      <description><![CDATA[该机构发布了最终命令，澄清为消费者提供的付费互联网“快车道”违反了其网络中立规则。它还保证新规则不会抢占国家宽带负担能力计划。]]></description>
       <guid>https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/</guid>
       <pubDate>Tue, 07 May 2024 19:59:33 GMT</pubDate>
     </item>
@@ -57,14 +78,14 @@
     <item>
       <title>TikTok 起诉美国政府，要求其停止潜在的禁令</title>
       <link>https://www.wired.com/story/tiktok-ban-lawsuit-government-first-amendment/</link>
-      <description><![CDATA[TikTok 在周二提起的诉讼中表示，TikTok 禁令或撤资法违反了第一修正案。]]></description>
+      <description><![CDATA[TikTok 在周二提起的诉讼中表示，TikTok 禁令或撤资法违反了《第一修正案》。]]></description>
       <guid>https://www.wired.com/story/tiktok-ban-lawsuit-government-first-amendment/</guid>
       <pubDate>Tue, 07 May 2024 17:09:26 GMT</pubDate>
     </item>
     <item>
       <title>Google Pixel 8A：新闻、规格、功能、价格、发布日期</title>
       <link>https://www.wired.com/story/google-pixel-8a/</link>
-      <description><![CDATA[该公司的精致中端 Android 手机搭载了旗舰级 Tensor G3 芯片组。这款手机是在下周 Google I/O 大会之前发布的。]]></description>
+      <description><![CDATA[该公司精致的中端 Android 手机配备了其旗舰 Tensor G3 芯片组。这款手机是在下周的 Google I/O 大会之前发布的。]]></description>
       <guid>https://www.wired.com/story/google-pixel-8a/</guid>
       <pubDate>Tue, 07 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>7 款最佳阴蒂吸力玩具（2024 年）：吸力振动器、空气脉冲玩具等</title>
       <link>https://www.wired.com/gallery/best-clitoral-suction-toys/</link>
-      <description><![CDATA[阴蒂吸力性玩具的世界每天都在变得越来越大。我们已经测试了数十个，这些是我们的最爱。]]></description>
+      <description><![CDATA[阴蒂吸力性玩具的世界日益扩大。我们已经测试了数十个，这些是我们的最爱。]]></description>
       <guid>https://www.wired.com/gallery/best-clitoral-suction-toys/</guid>
       <pubDate>Tue, 07 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>涉嫌 LockBit 勒索软件的主谋已被查明</title>
-      <link>https://www.wired.com/story/lockbitsupp-lockbit-ransomware/</link>
-      <description><![CDATA[执法官员表示，他们已经查明、制裁并起诉了 LockBitSupp 的幕后黑手，该人是 LockBit 价值 5 亿美元的黑客攻击的核心管理员。]]></description>
-      <guid>https://www.wired.com/story/lockbitsupp-lockbit-ransomware/</guid>
-      <pubDate>Tue, 07 May 2024 14:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 种最佳婴儿背带（2024 年）：裹带、背带和背包</title>
-      <link>https://www.wired.com/gallery/best-baby-carriers/</link>
-      <description><![CDATA[这些是最好的包裹物、背带和吊带，可帮助您将婴儿带到任何地方。]]></description>
-      <guid>https://www.wired.com/gallery/best-baby-carriers/</guid>
-      <pubDate>Tue, 07 May 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 款最佳电子阅读器（2024 年）：Kindle、Nook、Kobo</title>
-      <link>https://www.wired.com/gallery/best-ereaders/</link>
-      <description><![CDATA[这些经过 WIRED 测试的平板电脑可让您将世界图书馆带到任何地方。]]></description>
-      <guid>https://www.wired.com/gallery/best-ereaders/</guid>
-      <pubDate>Tue, 07 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
