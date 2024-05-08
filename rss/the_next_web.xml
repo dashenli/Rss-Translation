@@ -3,17 +3,31 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 08 May 2024 12:26:17 GMT</lastBuildDate>
+    <description>为 T 世代提供原创且自豪的观点</description>
+    <lastBuildDate>Wed, 08 May 2024 15:15:47 GMT</lastBuildDate>
     <item>
-      <title>瑞士初创公司为开发人员推出后量子密码学库</title>
+      <title>来认识一下“有史以来最活跃的勒索软件团伙”LockBit 的头目</title>
+      <link>https://thenextweb.com/news/meet-the-leader-of-lockbit-the-most-active-ransomware-gang-ever</link>
+      <description><![CDATA[网络犯罪猎人揭露了 LockBit 的所谓领导人，该网络被称为“最勒索软件组织非常活跃。” LockBit 因持有受害者数据以勒索赎金和勒索软件即服务而臭名昭著，从而将恶意软件授权给其他黑客。据欧洲刑警组织称，该团伙是 2022 年全球部署最频繁的勒索软件的幕后黑手，造成了价值数十亿欧元的损失。备受瞩目的受害者包括美国航空航天巨头波音公司、英国皇家邮政和德国汽车巨头大陆集团。然而，俄罗斯实体显然没有出现在目标清单中。因此，该团伙的幕后黑手是俄罗斯人也就不足为奇了……这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/meet-the-leader-of-lockbit-the-most-active-ransomware-gang-ever</guid>
+      <pubDate>Wed, 08 May 2024 14:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经元大小的脑植入物可以帮助盲人重见光明</title>
+      <link>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</link>
+      <description><![CDATA[一组研究人员制造了一种视觉植入物，其中的微型电极与神经元大小相当，旨在帮助盲人重见光明。视觉植入物的研发最早出现在 20 世纪 90 年代。该技术针对的是眼部受损但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。但尽管该解决方案具有潜力，现有方法仍受到电极尺寸过大和金属腐蚀的限制。研究团队声称已经解决了这两个挑战。一种新的纳米尺寸植入物 Vision 植入物包含向大脑发送信号的电极......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</guid>
+      <pubDate>Wed, 08 May 2024 13:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士初创公司为开发人员推出后量子加密库</title>
       <link>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</link>
       <description><![CDATA[Terra Quantum 今天发布了其 TQ42 密码学库 - 一套开源的抗量子技术旨在帮助开发人员和企业保护数据免受当前和未来网络安全威胁的算法。新的密码学库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于多种应用程序，包括移动、网络、物联网和云。该库现在可以通过 GitHub 存储库获取。据这家初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中找到的算法重点关注…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</guid>
       <pubDate>Wed, 08 May 2024 12:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>法国人工智能公司Holistic 斥资 2 亿美元收购 Sonio 显示出成功风险</title>
+      <title>法国人工智能领域为 Holistic 举杯 2 亿美元，Sonio 出售显示成功风险</title>
       <link>https://thenextweb.com/news/french-ai-startup-holistic-funding-sonio-acquisition</link>
       <description><![CDATA[法国新兴的人工智能场景因初创公司的巨额投资而再次得到提振整体性。然而，在庆祝活动中，医疗科技公司 Sonio 的出售却对成功的危险发出了警告。彭博社周二披露了整体资金。据报道，这家总部位于巴黎的公司在一轮融资中筹集了 2 亿美元（1.86 亿欧元），该公司估值为 3.7 亿美元（3.44 亿欧元）。 Holistic 对现金有宏伟的计划。据彭博社报道，这家初创公司希望建立“多代理”模型，以实现不同人工智能系统和“真正的 AGI 功能”之间的交互。 Holistic 还拥有一支引人注目的领导团队。它包括四个…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/french-ai-startup-holistic-funding-sonio-acquisition</guid>
@@ -27,7 +41,7 @@
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>自下而上：这种德国啤酒是由回收废水制成的</title>
+      <title>干杯：这款德国啤酒由回收废水酿造</title>
       <link>https://thenextweb.com/news/xylem-german-wastewater-beer</link>
       <description><![CDATA[Reuse Brew 是一款经典的德国啤酒，但有一点不同——它是由回收的废水制成的。这款啤酒是德国南部城市魏森堡、美国水技术公司 Xylem 和慕尼黑工业大学 (TUM) 合作的成果。具体来说，是慕尼黑工业大学的啤酒和饮料技术系（我为什么没有在那里学习？！）。虽然污水酿造的想法可能难以接受，但赛莱默确保我们在添加麦芽、啤酒花和酵母之前过滤掉所有有害物质。首先，机器将臭氧注入废水中。然后将污泥通过…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/xylem-german-wastewater-beer</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>蒂尔堡的 Winston 先生为其酒店 POS 系统筹集了 60 万欧元</title>
       <link>https://thenextweb.com/news/mr-winston-raises-e600k-hospitality-pos-system</link>
-      <description><![CDATA[总部位于蒂尔堡的 Winston 先生已筹集 600,000 欧元以进一步发展其酒店业POS系统并拓展到更多市场。该初创公司成立于 2015 年，提供基于云的 POS 解决方案，可在所有设备和操作系统（例如 iOS 和 Android）上运行。 POS 还具有额外的模块，包括预订、二维码订购和厨房屏幕。 “我们的竞争对手缺乏这种针对用户的灵活性，”Mr. Winston 的创始人兼首席技术官 Koen Lavrijssen 告诉 TNW。温斯顿先生在荷兰拥有数百名客户，最近又扩展到欧洲另外五个国家，包括德国和西班牙。 2023 年，初创公司…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[总部位于蒂尔堡的 Mr. Winston 已筹集 600,000 欧元以进一步发展其酒店业POS系统并拓展到更多市场。该初创公司成立于 2015 年，提供基于云的 POS 解决方案，可在所有设备和操作系统（例如 iOS 和 Android）上运行。 POS 还具有额外的模块，包括预订、二维码订购和厨房屏幕。 “我们的竞争对手缺乏这种针对用户的灵活性，”Mr. Winston 的创始人兼首席技术官 Koen Lavrijssen 告诉 TNW。温斯顿先生在荷兰拥有数百名客户，最近又扩展到欧洲另外五个国家，包括德国和西班牙。 2023 年，初创公司…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/mr-winston-raises-e600k-hospitality-pos-system</guid>
       <pubDate>Mon, 06 May 2024 16:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞典初创公司获得欧盟资助打印有机室内太阳能电池板</title>
-      <link>https://thenextweb.com/news/swedish-startup-eu-funding-print-organic-indoor-solar-panels</link>
-      <description><![CDATA[欧盟已向瑞典初创公司 Epishine 领导的财团拨款 330 万欧元。该小组的使命是促进有机太阳能电池板的发展。在这种情况下，有机是指碳基太阳能电池板。这些太阳能电池板不使用硅来导电，而是使用有机分子。有机太阳能电池非常轻、便宜、半透明、可印刷且灵活。它们还可以将室内光转化为电能。这可能是通过打开的窗户射入的阳光，也可能是完全人造的光，例如 LED 或卤素灯泡。缺点是有机太阳能电池板的降解速度要快得多…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/swedish-startup-eu-funding-print-organic-indoor-solar-panels</guid>
-      <pubDate>Mon, 06 May 2024 15:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类面临两大生存危机——气候危机和人工智能。一个可以帮助解决另一个吗？</title>
-      <link>https://thenextweb.com/news/can-ai-help-solve-climate-crisis</link>
-      <description><![CDATA[在我写这篇文章时，关于人工智能发展的两种截然不同的规定——即生成式人工智能——正在欧洲和英国议会中通过。英国的做法非常简单——寻求确保人工智能公司符合管理科技公司的现有法律。相比之下，欧盟的做法，如White＆amp;案例分析描述，这是一项全新的立法，并且是基于风险的——旨在应对开发更先进的人工智能所带来的最严重的风险。无论是数据抓取、侵犯个人自由，还是假新闻和选举参与。 …这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/can-ai-help-solve-climate-crisis</guid>
-      <pubDate>Mon, 06 May 2024 14:27:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
