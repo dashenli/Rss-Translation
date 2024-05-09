@@ -3,12 +3,12 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 09 May 2024 09:15:46 GMT</lastBuildDate>
+    <description>T 世代的原创且自以为是的观点</description>
+    <lastBuildDate>Thu, 09 May 2024 12:26:03 GMT</lastBuildDate>
     <item>
       <title>推动聊天机器人发展的关键技术</title>
       <link>https://thenextweb.com/news/key-technologies-chatbot-evolution</link>
-      <description><![CDATA[这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[我们大多数人都熟悉客户服务门户、政府部门以及 Google Bard 和 OpenAI 的 ChatGPT 等服务中的聊天机器人。它们方便、易用且随时可用，因此在网络上的各种应用程序中的使用越来越广泛。不幸的是，由于依赖静态训练数据，大多数当前的聊天机器人都受到限制。这些系统输出的数据可能已经过时，限制了我们获取查询的实时信息的能力。它们还存在上下文理解、不准确、处理复杂查询以及对我们不断变化的需求的适应性有限等问题。为了克服这些问题，需要先进的技术......这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/key-technologies-chatbot-evolution</guid>
       <pubDate>Thu, 09 May 2024 07:00:40 GMT</pubDate>
     </item>
@@ -29,12 +29,12 @@
     <item>
       <title>神经元大小的大脑植入物可以帮助盲人重见光明</title>
       <link>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</link>
-      <description><![CDATA[一组研究人员用神经元大小的微型电极构建了视觉植入物，寻求帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼睛受到损伤但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。尽管该解决方案具有潜力，但现有方法仍受到大尺寸电极和金属腐蚀的限制。研究小组声称已经解决了这两个挑战。新型纳米级植入物视觉植入物包含向大脑发送信号的电极…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[一组研究人员制造了一种视觉植入物，其中的微型电极与神经元大小相当，旨在帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼部受损但视觉皮层（大脑的视觉中心）活跃并能够接收信号的患者。但尽管该解决方案具有潜力，现有方法仍受到电极尺寸过大和金属腐蚀的限制。研究团队声称已经解决了这两个挑战。一种新的纳米尺寸植入物 Vision 植入物包含向大脑发送信号的电极......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</guid>
       <pubDate>Wed, 08 May 2024 13:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士初创公司为开发人员推出后量子加密库</title>
+      <title>瑞士初创公司为开发人员推出后量子密码学库</title>
       <link>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</link>
       <description><![CDATA[Terra Quantum 今天发布了其 TQ42 密码学库 - 一套开源的抗量子技术旨在帮助开发人员和企业保护数据免受当前和未来网络安全威胁的算法。新的密码学库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于多种应用程序，包括移动、网络、物联网和云。该库现在可以通过 GitHub 存储库获取。据这家初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中找到的算法重点关注…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>英国金融科技公司为人工智能筹集了 8 亿英镑，该人工智能可以决定你可以借多少钱</title>
       <link>https://thenextweb.com/news/uk-fintech-raises-800m-ai-how-much-money-you-can-borrow</link>
-      <description><![CDATA[AI 扫描你的银行交易数据具有一定程度的侵入性，我很难接受——更不用说接受我自己的交易信息了。但这项技术至少在贷款领域可以带来好处。Abound 就是这样。这家总部位于伦敦的初创公司刚刚为其贷款平台筹集了 8 亿英镑，该平台使用 AI 来确定贷款金额。 Abound 的 AI 被称为 Render，它分析客户的全部银行交易数据（从收入到支出明细），以了解他们的个人财务状况，这与传统的信用检查不同。然后，​​Render 计算出客户每月能够偿还的金额。…本报道将在 The Next Web 继续报道或者阅读更多关于：金融科技的报道]]></description>
+      <description><![CDATA[我发现人工智能扫描您的银行交易数据会带来一定程度的侵入性很难接受——更不用说拥抱我自己的交易信息了。但这项技术可以带来好处，至少在贷款领域是这样。输入丰富。这家总部位于伦敦的初创公司刚刚为其使用人工智能确定贷款金额的贷款平台筹集了 8 亿英镑。 Abound 的人工智能被称为 Render，它可以分析客户的完整银行交易数据（从收入到支出细节），以了解他们的个人财务状况，这与传统的信用检查不同。然后，Render 计算客户每月能够偿还的金额。…这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：金融科技]]></description>
       <guid>https://thenextweb.com/news/uk-fintech-raises-800m-ai-how-much-money-you-can-borrow</guid>
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
     </item>
