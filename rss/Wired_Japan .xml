@@ -3,19 +3,33 @@
   <channel>
     <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 08 May 2024 21:17:13 GMT</lastBuildDate>
+    <description>wired.jp 最新消息</description>
+    <lastBuildDate>Thu, 09 May 2024 00:58:07 GMT</lastBuildDate>
+    <item>
+      <title>为什么“Apple Pencil Pro”只能与最新的iPad系列一起使用？</title>
+      <link>https://wired.jp/article/apple-pencil-pro-not-backward-compatible/</link>
+      <description><![CDATA[Apple 的新款手写笔 Apple Pencil Pro 只能与最新的 iPad Pro 和 iPad Air 一起使用。此外，最新的 iPad Pro 不支持当前的 Apple Pencil（第 2 代）。为什么会发生这种情况？]]></description>
+      <guid>https://wired.jp/article/apple-pencil-pro-not-backward-compatible/</guid>
+      <pubDate>Wed, 08 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到科技封建时代——云农奴和现代封建领主</title>
+      <link>https://wired.jp/article/sz-yanis-varoufakis-technofeudalism-interview/</link>
+      <description><![CDATA[希腊前财政部长雅尼斯·瓦鲁法基斯 (Yanis Varoufakis) 的新书《技术封建主义》认为，苹果和 Meta 等大型科技公司正在破坏资本主义，并将用户视为中世纪农奴。]]></description>
+      <guid>https://wired.jp/article/sz-yanis-varoufakis-technofeudalism-interview/</guid>
+      <pubDate>Wed, 08 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepMind宣布的“AlphaFold 3”的隐藏潜力，一种加速药物发现的新人工智能</title>
       <link>https://wired.jp/article/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌 DeepMind 发布了最新版本的人工智能 AlphaFold 3，可以预测蛋白质的三维结构。通过应用图像生成人工智能技术，已经实现了分子相互作用的高精度预测，预计这些进步将加速药物发现。]]></description>
+      <description><![CDATA[谷歌 DeepMind 发布了最新版本的人工智能 AlphaFold 3，可以预测蛋白质的三维结构。通过应用图像生成人工智能技术，已经实现了对分子相互作用的高精度预测，预计这些进步将加速药物发现。]]></description>
       <guid>https://wired.jp/article/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 21:15:00 GMT</pubDate>
     </item>
     <item>
       <title>【先到先得预告邀请】描绘《美丽巴黎》背后的愤怒与希望：专访《巴蒂蒙5：不受欢迎的人》导演</title>
       <link>https://wired.jp/article/batiment-5-ladj-ly-interview/</link>
-      <description><![CDATA[拉吉·李是一位崭露头角的法国电影导演，凭借《悲惨世界》的作品获得高度赞誉。他的新片《巴蒂蒙 5：不受欢迎的人》将于 5 月 24 日在日本上映，故事发生在以明信片般的美景而闻名的巴黎郊区。我们向导演询问了这部电影，这部电影描绘了工人阶级移民所面临的令人震惊的现实。]]></description>
+      <description><![CDATA[拉吉·李是一位崭露头角的法国电影导演，他因《悲惨世界》而获得高度赞誉。他的新片《巴蒂蒙 5：不受欢迎的人》将于 5 月 24 日在日本上映，故事发生在以明信片般的美景而闻名的巴黎郊区。我们向导演询问了这部电影的情况，这部电影描绘了工人阶级移民所面临的令人震惊的现实。]]></description>
       <guid>https://wired.jp/article/batiment-5-ladj-ly-interview/</guid>
       <pubDate>Wed, 08 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>期待已久的 Roguelike 游戏《HADES II》续作，从抢先体验版看出魅力与潜力</title>
       <link>https://wired.jp/article/hades-2-early-access-launch-release-date/</link>
-      <description><![CDATA[广受好评的 Roguelike 游戏《HADES II》的续作，现已发布 PC 抢先体验版。新作在继承前作传统的同时又不断进化，虽然还不是完整的产品版本，但魅力十足。]]></description>
+      <description><![CDATA[广受好评的 Roguelike 游戏《HADES II》的续作，现已发布 PC 抢先体验版。新游戏在继承前作传统的同时不断发展，虽然还不是完整的产品，但仍然具有足够的魅力。]]></description>
       <guid>https://wired.jp/article/hades-2-early-access-launch-release-date/</guid>
       <pubDate>Wed, 08 May 2024 03:30:00 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>谷歌发布“Pixel 8a”，支持AI功能，价格亲民</title>
       <link>https://wired.jp/article/google-pixel-8a/</link>
-      <description><![CDATA[谷歌发布了一款新的低价 Android 智能手机型号 Pixel 8a。虽然价格合理，但由于支持基于人工智能的“编辑魔法”和“语音橡皮擦魔法”等高级功能，它很可能会受到欢迎。]]></description>
+      <description><![CDATA[谷歌发布了一款新的低价 Android 智能手机型号 Pixel 8a。虽然价格合理，但由于支持基于人工智能的“编辑魔法”和“语音橡皮擦魔法”等高级功能，因此很可能会受到欢迎。]]></description>
       <guid>https://wired.jp/article/google-pixel-8a/</guid>
       <pubDate>Tue, 07 May 2024 17:00:00 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Mon, 06 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果你能救一个人80万日元，你就赚钱了：体现有效利他主义的GiveWell采访</title>
+      <title>如果你能救一个人 80 万日元，你就赚钱了：一次体现有效利他主义的 GiveWell 采访</title>
       <link>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</link>
       <description><![CDATA[当旨在最大化慈善事业的效率和影响力的有效利他主义陷入自我怀疑的螺旋时，相信定量分析的理想主义者埃利·哈森菲尔德（Elie Hassenfield）想要捐赠巨额资金仍然迎合了愿望。硅谷的富人。]]></description>
       <guid>https://wired.jp/article/sz-elie-hassenfeld-givewell-ea/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[一项名为“多元化”的全球运动正在引起人们的关注，该运动利用技术实现协作多样性和民主。其核心成员之一格伦·韦尔 (Glenn Weil) 来到日本，并在 Plurality Tokyo 的赞助下举行了一次宝贵的会议。]]></description>
       <guid>https://wired.jp/article/glen-weyl-talk-2024/</guid>
       <pubDate>Mon, 06 May 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国制造的自动驾驶系统到底有多厉害？三大厂商电动车“进化”现状</title>
-      <link>https://wired.jp/article/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</link>
-      <description><![CDATA[中国的电动汽车 (EV) 制造商正在稳步发展其自动驾驶技术。我们在公共道路上试驾了三大制造商的电动汽车，以了解它们的动力到底有多大。]]></description>
-      <guid>https://wired.jp/article/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</guid>
-      <pubDate>Mon, 06 May 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宜家为游戏玩家打造的独特而贴心的生活空间设计</title>
-      <link>https://wired.jp/article/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/</link>
-      <description><![CDATA[宜家的游戏家具系列“BRäNNBOLL”。其设计可让您在玩游戏时沉浸在游戏中，并且与内饰融为一体，融入了适合玩家姿势的低吊设计等功能，以及允许其用于多种用途的功能。]]></description>
-      <guid>https://wired.jp/article/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/</guid>
-      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
