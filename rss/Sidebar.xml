@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 09 May 2024 00:59:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 03:17:15 GMT</lastBuildDate>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -22,7 +22,7 @@
       <pubDate>Wed, 08 May 2024 11:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>蝉鸣：2024 年罕见蝉鸣双现的视觉指南</title>
+      <title>蝉鸣升起：2024 年罕见双重亮相的视觉指南</title>
       <link>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</link>
       <description><![CDATA[当蝉以 200 多年来从未出现过的历史性出现首次亮相时，我们可以期待以下结果。
 ]]></description>
@@ -32,7 +32,7 @@
     <item>
       <title>保持一致：开发工具 UI 的 5 种基本设计模式</title>
       <link>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</link>
-      <description><![CDATA[如果您是开发工具设计新手，这篇文章提供了真实的 UI 示例和分析，以便您可以在创纪录的时间内开始。
+      <description><![CDATA[如果您不熟悉开发工具设计，这篇文章提供了现实生活中的 UI 示例和分析，以便您可以在创纪录的时间内开始工作。
 ]]></description>
       <guid>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</guid>
       <pubDate>Wed, 08 May 2024 06:10:26 GMT</pubDate>
@@ -56,13 +56,13 @@
     <item>
       <title>2024 年初的 Web 组件</title>
       <link>https://chrisburnell.com/note/early-2024-web-components/</link>
-      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这是我今年迄今为止构建并使用的三个组件。
+      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这里是我今年迄今为止构建并使用的三个组件。
 ]]></description>
       <guid>https://chrisburnell.com/note/early-2024-web-components/</guid>
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>结合 :has() 和 select 实现更强大的条件样式</title>
+      <title>结合 :has() 并选择以获得更好的条件样式</title>
       <link>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</link>
       <description><![CDATA[Amit Sheen 演示了如何使用 :has() 有条件地应用样式。
 ]]></description>
@@ -72,7 +72,7 @@
     <item>
       <title>弹出框 API 在这里</title>
       <link>https://frontendmasters.com/blog/popover-api-is-here/</link>
-      <description><![CDATA[此 API 允许您在所有内容之上打开一个元素，无论它位于 DOM 中的什么位置，也无需任何特殊样式。
+      <description><![CDATA[此 API 允许您在所有内容之上打开一个元素，无论它位于 DOM 中的什么位置，并且没有任何特定的样式。
 ]]></description>
       <guid>https://frontendmasters.com/blog/popover-api-is-here/</guid>
       <pubDate>Tue, 07 May 2024 02:23:42 GMT</pubDate>
@@ -96,7 +96,7 @@
     <item>
       <title>Ryan Dahl：从 Node.js 和 Deno 到“现代”JSR 注册表</title>
       <link>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</link>
-      <description><![CDATA[Node.js 和 Deno 的创建者有一个新使命：保护 JavaScript 包免受恶意用户的侵害。
+      <description><![CDATA[Node.js 和 Deno 的创建者有了新的使命：保护 JavaScript 包免受恶意用户的攻击。&lt;​​/p&gt;
 ]]></description>
       <guid>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</guid>
       <pubDate>Mon, 06 May 2024 02:16:51 GMT</pubDate>
@@ -104,7 +104,7 @@
     <item>
       <title>WebAIM：2024 年总统竞选中的网络可访问性</title>
       <link>https://webaim.org/blog/2024-campaign-site-accessibility/</link>
-      <description><![CDATA[ 我们已通过 AIM（“无障碍影响”）测试序列运行 2024 年总统候选人的竞选网站。
+      <description><![CDATA[ 我们已经通过 AIM（“可访问性影响”）测试序列运行了 2024 年总统候选人的竞选网站。
 ]]></description>
       <guid>https://webaim.org/blog/2024-campaign-site-accessibility/</guid>
       <pubDate>Mon, 06 May 2024 02:16:06 GMT</pubDate>
