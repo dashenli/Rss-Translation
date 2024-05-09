@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>挖掘热门故事</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Thu, 09 May 2024 18:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 21:17:55 GMT</lastBuildDate>
+    <item>
+      <title>如何判断阴谋论是否可能是错误的</title>
+      <link>https://rss.digg.com/human-nature/link/how-to-tell-if-a-conspiracy-theory-is-probably-false</link>
+      <description><![CDATA[阴谋论比比皆是。你应该相信什么——你怎么知道？]]></description>
+      <guid>https://rss.digg.com/human-nature/link/how-to-tell-if-a-conspiracy-theory-is-probably-false</guid>
+      <pubDate>Tue, 07 May 2024 13:38:17 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Met Gala：互联网对盛会最佳着装和最差着装的反应</title>
       <link>https://rss.digg.com/internet-culture/link/met-gala-2024-memes-reactions-garden-of-time</link>
-      <description><![CDATA[今年的主题是“时间花园”，一些名人与会者比其他人更理解这项作业。]]></description>
+      <description><![CDATA[今年的主题是“时间花园”，一些出席活动的名人比其他人更了解这个任务。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/met-gala-2024-memes-reactions-garden-of-time</guid>
       <pubDate>Tue, 07 May 2024 08:26:06 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>新款 iPad Air、iPad Pro 和 M4 芯片在拥挤的 Apple 活动中发布</title>
       <link>https://rss.digg.com/tech/link/apple-may-2024-ipad-let-loose-event-live-stream-blog</link>
-      <description><![CDATA[点播观看整个活动，或者通过我们对活动的完整报道重新体验一切。]]></description>
+      <description><![CDATA[点播观看整个活动，或通过我们对活动的完整报道重温一切。]]></description>
       <guid>https://rss.digg.com/tech/link/apple-may-2024-ipad-let-loose-event-live-stream-blog</guid>
       <pubDate>Mon, 06 May 2024 17:51:50 GMT</pubDate>
     </item>
     <item>
-      <title>如今，微型住宅比豪宅更胜一筹——看看这个杰作</title>
+      <title>现在的小房子已经超越了豪宅——看看这个杰作</title>
       <link>https://rss.digg.com/digg-vids/link/beautiful-new-tiny-homes-2024-video</link>
       <description><![CDATA[但一个缺点是浴室的位置......]]></description>
       <guid>https://rss.digg.com/digg-vids/link/beautiful-new-tiny-homes-2024-video</guid>
@@ -83,18 +90,11 @@
       <pubDate>Fri, 03 May 2024 15:28:49 GMT</pubDate>
     </item>
     <item>
-      <title>评论家对杰瑞·宋飞 (Jerry Seinfeld) 的电影《Unfrosted》的最糟糕的评价</title>
+      <title>影评人对杰瑞·宋飞的《无霜》电影最糟糕的评价</title>
       <link>https://rss.digg.com/movies-and-tv/link/unfrosted-jerry-seinfeld-netflix-reviews-rt-critics</link>
       <description><![CDATA[杰里·宋飞 (Jerry Seinfeld) 在 Netflix 上拍摄的关于果馅饼的新电影《无霜》(Unfrosted) 遭到了评论家的严厉批评。]]></description>
       <guid>https://rss.digg.com/movies-and-tv/link/unfrosted-jerry-seinfeld-netflix-reviews-rt-critics</guid>
       <pubDate>Fri, 03 May 2024 15:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>老师冒险问孩子们这个俚语是否仍然流行，结果被敲响了警钟</title>
-      <link>https://rss.digg.com/digg-vids/link/gen-alpha-z-millennials-slang-funny-video</link>
-      <description><![CDATA[看来Z世代已经过时了。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/gen-alpha-z-millennials-slang-funny-video</guid>
-      <pubDate>Thu, 02 May 2024 17:52:01 GMT</pubDate>
     </item>
     <item>
       <title>这座巴尔的摩联排别墅是 50 年代的社交俱乐部。查看更新后的房屋内部</title>

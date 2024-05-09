@@ -3,8 +3,8 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 09 May 2024 18:20:17 GMT</lastBuildDate>
+    <description>每个工作日提供五个最佳设计链接。</description>
+    <lastBuildDate>Thu, 09 May 2024 21:20:03 GMT</lastBuildDate>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -54,9 +54,9 @@
       <pubDate>Tue, 07 May 2024 02:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>从 2024 年初开始的 Web 组件</title>
+      <title>2024 年初的 Web 组件</title>
       <link>https://chrisburnell.com/note/early-2024-web-components/</link>
-      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这是我今年迄今为止构建并使用的三个组件。
+      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这里是我今年迄今为止构建并使用的三个组件。
 ]]></description>
       <guid>https://chrisburnell.com/note/early-2024-web-components/</guid>
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
@@ -120,7 +120,7 @@
     <item>
       <title>关于 CSS 特异性的误解</title>
       <link>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</link>
-      <description><![CDATA[为了消除一些混乱，这里列出了有关 CSS 特异性的误解。
+      <description><![CDATA[为了消除一些困惑，这里列出了关于 CSS 中特殊性的误解。
 ]]></description>
       <guid>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</guid>
       <pubDate>Mon, 06 May 2024 01:59:59 GMT</pubDate>
