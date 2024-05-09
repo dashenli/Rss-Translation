@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>动态：全部最新</title>
+    <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 09 May 2024 15:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:17:56 GMT</lastBuildDate>
+    <item>
+      <title>使用 Anthropic 的 Claude 聊天机器人的 6 个实用技巧</title>
+      <link>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</link>
+      <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用程序。我们询问了该公司的产品设计主管如何充分利用人工智能助手。]]></description>
+      <guid>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</guid>
+      <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阴谋席卷校园抗议</title>
+      <link>https://www.wired.com/story/campus-protests-gaza-conspiracy/</link>
+      <description><![CDATA[上周，警察部门在支持巴勒斯坦的抗议活动中突袭了全国各地的大学校园，虚假信息和阴谋失控。]]></description>
+      <guid>https://www.wired.com/story/campus-protests-gaza-conspiracy/</guid>
+      <pubDate>Thu, 09 May 2024 15:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在阿拉巴马州出售实验室培育的肉类，你可能会入狱</title>
+      <link>https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/</link>
+      <description><![CDATA[任何在阿拉巴马州销售或制造人造肉罪名成立的人将面临三个月监禁和 500 美元罚款。]]></description>
+      <guid>https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/</guid>
+      <pubDate>Thu, 09 May 2024 15:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>12 个最佳振动器 (2024)：便宜、强大、灵活</title>
+      <link>https://www.wired.com/gallery/best-vibrators/</link>
+      <description><![CDATA[性别？我根本不认识她！无论您拥有什么，这些工具都能为所有人带来良好的氛围。]]></description>
+      <guid>https://www.wired.com/gallery/best-vibrators/</guid>
+      <pubDate>Thu, 09 May 2024 15:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>8 项最佳在线照片打印服务 (2024)：提示、打印质量等</title>
       <link>https://www.wired.com/story/best-photo-printing-services/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>宏碁 Chromebook Plus 514 评测：一款出色的经济型笔记本电脑</title>
       <link>https://www.wired.com/review/acer-chromebook-plus-514/</link>
-      <description><![CDATA[这款 Chromebook 的价格不到 400 美元，您找不到比它更强大的主力了。]]></description>
+      <description><![CDATA[这款 Chromebook 售价不到 400 美元，而且性能非常强大。]]></description>
       <guid>https://www.wired.com/review/acer-chromebook-plus-514/</guid>
       <pubDate>Thu, 09 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>Hulu 的新“黑推特”系列纪录片一睹为快</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-643/</link>
-      <description><![CDATA[本周，新纪录片系列《黑色推特：一段人民的历史》的编剧、导演和执行制片人向我们讲述了他们如何将社区的活力带入小屏幕。]]></description>
+      <description><![CDATA[本周，新纪录片系列《黑人推特：人民的历史》的编剧、导演和执行制片人向我们讲述了他们如何将社区的活力搬上小银幕。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-643/</guid>
       <pubDate>Thu, 09 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>OpenAI 正在“探索”如何负责任地生成人工智能色情内容</title>
       <link>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</link>
-      <description><![CDATA[OpenAI 发布了关于希望 ChatGPT 内的人工智能技术如何运作的指南草案，并透露它正在探索如何“负责任地”生成露骨内容。]]></description>
+      <description><![CDATA[OpenAI 发布了 ChatGPT 内部 AI 技术如何运作的指导方针草案，并透露正在探索如何“负责任地”生成露骨内容。]]></description>
       <guid>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
       <pubDate>Wed, 08 May 2024 19:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦调查局高级官员敦促特工在美国境内使用无证窃听</title>
-      <link>https://www.wired.com/story/fbi-section-702-us-person-queries-email/</link>
-      <description><![CDATA[《连线》杂志获得的一封来自联邦调查局副局长保罗·阿巴特的内部电子邮件，要求员工在一个有争议的间谍计划数据库中搜索“美国人”，而调查人员曾多次滥用该数据库。]]></description>
-      <guid>https://www.wired.com/story/fbi-section-702-us-person-queries-email/</guid>
-      <pubDate>Wed, 08 May 2024 17:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯的影响力运动正在利用大学校园抗议</title>
-      <link>https://www.wired.com/story/russian-influence-campaign-exploiting-college-campus-protests/</link>
-      <description><![CDATA[一个与克里姆林宫结盟的名为“Doppelganger”的网络利用真实新闻网站的伪造版本来传播亲巴勒斯坦和亲以色列的虚假信息。]]></description>
-      <guid>https://www.wired.com/story/russian-influence-campaign-exploiting-college-campus-protests/</guid>
-      <pubDate>Wed, 08 May 2024 17:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX债权人称支付交易是“一种侮辱”并计划反抗</title>
-      <link>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</link>
-      <description><![CDATA[FTX 计划向其前加密货币客户偿还超过他们在最新破产提案中损失的数十亿美元的资金。但无论如何，有些人会拒绝它。]]></description>
-      <guid>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</guid>
-      <pubDate>Wed, 08 May 2024 17:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 件母亲节最后一刻礼物超值优惠 (2024)</title>
-      <link>https://www.wired.com/story/last-minute-mothers-day-gifts-deals-2024/</link>
-      <description><![CDATA[妈妈需要 KitchenAid 或新耳机吗？亚马逊和塔吉特有售一些我们最喜欢的装备。]]></description>
-      <guid>https://www.wired.com/story/last-minute-mothers-day-gifts-deals-2024/</guid>
-      <pubDate>Wed, 08 May 2024 16:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

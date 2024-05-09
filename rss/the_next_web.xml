@@ -4,9 +4,23 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 09 May 2024 15:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:18:58 GMT</lastBuildDate>
     <item>
-      <title>TNW 播客：Peter Sarlin 谈欧洲人工智能；我们来谈谈碳捕获</title>
+      <title>研究人员警告说，“死亡机器人”和“数字来世产业”有可能困扰生者</title>
+      <link>https://thenextweb.com/news/deadbots-digital-afterlife-warning</link>
+      <description><![CDATA[人工智能伦理学家呼吁针对新兴的“数字来世”行业采取紧急保障措施。人们的担忧集中在模仿死者的外表、言语和性格的聊天机器人上。这些人工智能克隆被称为“死亡机器人”或“悲伤机器人”，它们根据死者的数据进行训练。然后，他们提供与死者虚拟娱乐的模拟互动。剑桥大学的研究人员表示，这种“死后存在”可能会造成社会和心理伤害。他们的新研究强调了一些风险。其中之一涉及使用死亡机器人进行广告。通过模仿失去的亲人，死亡机器人可以操纵脆弱的幸存者购买产品。另一个问题涉及治疗应用。研究人员…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/deadbots-digital-afterlife-warning</guid>
+      <pubDate>Thu, 09 May 2024 17:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士已成为信息战的武器</title>
+      <link>https://thenextweb.com/news/llms-generative-ai-information-warfare-weapon</link>
+      <description><![CDATA[与俄罗斯有关的宣传网络引发了人们对信息战新武器的警惕：大语言模型（LLM）。该操作是由两名瑞典计算机科学家创立的威胁情报公司 Recorded Future 发现的。 3 月初，该公司发现一个名为 CopyCop 的网络利用法学硕士来操纵主流媒体的新闻。 CopyCop 利用即时工程，针对特定受众和政治偏见定制内容。这些文章通过不真实的美国、英国和法国新闻网站发表，涵盖了有争议的国内和国际问题。话题范围从英国穆斯林之间的紧张关系到俄罗斯对乌克兰的战争。文章…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/llms-generative-ai-information-warfare-weapon</guid>
+      <pubDate>Thu, 09 May 2024 15:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>TNW 播客：Peter Sarlin 谈欧洲的人工智能；我们来谈谈碳捕获</title>
       <link>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</link>
       <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea 和 Andrii 讨论了蛋白粉和碳捕获、欧洲对星链的潜在答案、迪士尼的研发部门、可以保持打开的浏览器选项卡数量等等。节目嘉宾是 Silo AI 首席执行官兼创始人 Peter Sarlin。他对欧洲人工智能生态系统及其未来有一些强烈的看法，我们对此进行了详细讨论 -…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>瑞士初创公司为开发人员推出后量子密码学库</title>
       <link>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</link>
-      <description><![CDATA[Terra Quantum 今天发布了其 TQ42 密码学库 - 一套开源的抗量子技术旨在帮助开发人员和企业保护数据免受当前和未来网络安全威胁的算法。新的密码学库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于多种应用程序，包括移动、网络、物联网和云。该库现在可以通过 GitHub 存储库获取。据这家初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中找到的算法重点关注…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[Terra Quantum 今天发布了其 TQ42 加密库，这是一套开源的抗量子算法，旨在帮助开发人员和企业保护数据免受当前和未来的网络安全威胁。新的加密库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于各种应用程序，包括移动、网络、物联网和云。该库现在可通过 GitHub 存储库获取。据该初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中的算法专注于......本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</guid>
       <pubDate>Wed, 08 May 2024 12:00:59 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[我发现人工智能扫描您的银行交易数据会带来一定程度的侵入性很难接受——更不用说拥抱我自己的交易信息了。但这项技术可以带来好处，至少在贷款领域是这样。输入丰富。这家总部位于伦敦的初创公司刚刚为其使用人工智能确定贷款金额的贷款平台筹集了 8 亿英镑。 Abound 的人工智能被称为 Render，它可以分析客户的完整银行交易数据（从收入到支出细节），以了解他们的个人财务状况，这与传统的信用检查不同。然后，Render 计算客户每月能够偿还的金额。…这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：金融科技]]></description>
       <guid>https://thenextweb.com/news/uk-fintech-raises-800m-ai-how-much-money-you-can-borrow</guid>
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>干杯：这款德国啤酒由回收废水酿造</title>
-      <link>https://thenextweb.com/news/xylem-german-wastewater-beer</link>
-      <description><![CDATA[Reuse Brew 是一款经典的德国啤酒，但有一点不同——它是由回收的废水制成的。这款啤酒是德国南部城市魏森堡、美国水技术公司 Xylem 和慕尼黑工业大学 (TUM) 合作的成果。具体来说，是慕尼黑工业大学的啤酒和饮料技术系（我为什么没有在那里学习？！）。虽然污水酿造的想法可能难以接受，但赛莱默确保我们在添加麦芽、啤酒花和酵母之前过滤掉所有有害物质。首先，机器将臭氧注入废水中。然后将污泥通过…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/xylem-german-wastewater-beer</guid>
-      <pubDate>Tue, 07 May 2024 14:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于电子产品增速放缓，德国芯片巨头下调 2024 年预测</title>
-      <link>https://thenextweb.com/news/chip-giant-infineon-lowers-2024-forecast-electronics-slowdown</link>
-      <description><![CDATA[欧洲最大芯片制造商之一英飞凌下调了营收其主要目标市场的需求“疲软”。这家德国公司目前预计收入为 151 亿欧元，上下浮动 4 亿欧元。这比之前预测的 160 亿欧元有所下降，上下浮动了 5 亿欧元。 2024年第二季度，英飞凌营收较上一季度下降2%，实现33.6亿欧元。但同比下降 12%。 2024年第一季度营收也较2023年第四季度下降11%。英飞凌首席执行官Jochen Hanebeck表示，…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/chip-giant-infineon-lowers-2024-forecast-electronics-slowdown</guid>
-      <pubDate>Tue, 07 May 2024 12:55:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
