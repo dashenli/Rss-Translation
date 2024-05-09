@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Thu, 09 May 2024 06:19:16 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Thu, 09 May 2024 09:15:46 GMT</lastBuildDate>
+    <item>
+      <title>推动聊天机器人发展的关键技术</title>
+      <link>https://thenextweb.com/news/key-technologies-chatbot-evolution</link>
+      <description><![CDATA[这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/key-technologies-chatbot-evolution</guid>
+      <pubDate>Thu, 09 May 2024 07:00:40 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰 VC Capital Mills 投资德国无代码初创公司 Innoloft</title>
       <link>https://thenextweb.com/news/dutch-vc-capital-mills-invests-no-code-startup-innoloft</link>
@@ -22,12 +29,12 @@
     <item>
       <title>神经元大小的大脑植入物可以帮助盲人重见光明</title>
       <link>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</link>
-      <description><![CDATA[一组研究人员用神经元大小的微型电极构建了视觉植入物，寻求帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼睛受到损伤但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。尽管该解决方案具有潜力，但现有方法仍受到电极尺寸大和金属腐蚀的限制。研究小组声称已经解决了这两个挑战。新型纳米级植入物视觉植入物包含向大脑发送信号的电极…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[一组研究人员用神经元大小的微型电极构建了视觉植入物，寻求帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼睛受到损伤但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。尽管该解决方案具有潜力，但现有方法仍受到大尺寸电极和金属腐蚀的限制。研究小组声称已经解决了这两个挑战。新型纳米级植入物视觉植入物包含向大脑发送信号的电极…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</guid>
       <pubDate>Wed, 08 May 2024 13:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士初创公司为开发人员推出后量子密码学库</title>
+      <title>瑞士初创公司为开发人员推出后量子加密库</title>
       <link>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</link>
       <description><![CDATA[Terra Quantum 今天发布了其 TQ42 密码学库 - 一套开源的抗量子技术旨在帮助开发人员和企业保护数据免受当前和未来网络安全威胁的算法。新的密码学库为开发人员提供了后量子算法以及安全和密钥管理功能。它们可用于多种应用程序，包括移动、网络、物联网和云。该库现在可以通过 GitHub 存储库获取。据这家初创公司称，它提供了用户友好的 API、可扩展的架构以及密钥生成和文件删除功能等基本安全功能。具体来说，存储库中找到的算法重点关注…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-post-quantum-cryptography-library-open-source</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>英国金融科技公司为人工智能筹集了 8 亿英镑，该人工智能可以决定你可以借多少钱</title>
       <link>https://thenextweb.com/news/uk-fintech-raises-800m-ai-how-much-money-you-can-borrow</link>
-      <description><![CDATA[我发现人工智能扫描您的银行交易数据会带来一定程度的侵入性很难接受——更不用说拥抱我自己的交易信息了。但这项技术可以带来好处，至少在贷款领域是这样。输入丰富。这家总部位于伦敦的初创公司刚刚为其使用人工智能确定贷款金额的贷款平台筹集了 8 亿英镑。 Abound 的人工智能被称为 Render，它可以分析客户的完整银行交易数据（从收入到支出细节），以了解他们的个人财务状况，这与传统的信用检查不同。然后，Render 计算客户每月能够偿还的金额。…这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：金融科技]]></description>
+      <description><![CDATA[AI 扫描你的银行交易数据具有一定程度的侵入性，我很难接受——更不用说接受我自己的交易信息了。但这项技术至少在贷款领域可以带来好处。Abound 就是这样。这家总部位于伦敦的初创公司刚刚为其贷款平台筹集了 8 亿英镑，该平台使用 AI 来确定贷款金额。 Abound 的 AI 被称为 Render，它分析客户的全部银行交易数据（从收入到支出明细），以了解他们的个人财务状况，这与传统的信用检查不同。然后，​​Render 计算出客户每月能够偿还的金额。…本报道将在 The Next Web 继续报道或者阅读更多关于：金融科技的报道]]></description>
       <guid>https://thenextweb.com/news/uk-fintech-raises-800m-ai-how-much-money-you-can-borrow</guid>
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>由于电子产品增速放缓，德国芯片巨头下调 2024 年预测</title>
       <link>https://thenextweb.com/news/chip-giant-infineon-lowers-2024-forecast-electronics-slowdown</link>
-      <description><![CDATA[欧洲最大芯片制造商之一英飞凌下调了营收其主要目标市场的需求“疲软”。这家德国公司目前预计收入为 151 亿欧元，上下浮动 4 亿欧元。这比之前预测的 160 亿欧元有所下降，上下浮动了 5 亿欧元。 2024 年第二季度，英飞凌营收较上一季度下降 2%，实现 33.6 亿欧元。但同比下降 12%。与2023年最后一个季度相比，2024年第一季度的收入也下降了11%。英飞凌首席执行官Jochen Hanebeck表示，…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[欧洲最大芯片制造商之一英飞凌下调了营收其主要目标市场的需求“疲软”。这家德国公司目前预计收入为 151 亿欧元，上下浮动 4 亿欧元。这比之前预测的 160 亿欧元有所下降，上下浮动了 5 亿欧元。 2024年第二季度，英飞凌营收较上一季度下降2%，实现33.6亿欧元。但同比下降 12%。 2024年第一季度营收也较2023年第四季度下降11%。英飞凌首席执行官Jochen Hanebeck表示，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/chip-giant-infineon-lowers-2024-forecast-electronics-slowdown</guid>
       <pubDate>Tue, 07 May 2024 12:55:45 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Wayve，一家总部位于伦敦的初创公司，致力于自动驾驶人工智能系统车辆，已筹集 10 亿美元。这轮巨额融资标志着欧洲人工智能初创公司最大的单笔投资。日本企业集团软银与科技巨头英伟达和微软一起领投了本轮融资。 Wayve 没有透露投资后的估值。 Wayve 于 2017 年在剑桥成立，正在为自动驾驶汽车开发所谓的嵌入式人工智能系统。与 ChatGPT 等纯软件人工智能不同，实体人工智能充当车辆等物理对象的大脑。它让他们能够自己观察、思考和驾驶。该技术也适用于机器人或任何机器人这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles</guid>
       <pubDate>Tue, 07 May 2024 11:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士初创公司利用 GenAI 人形手开发协作机器人</title>
-      <link>https://thenextweb.com/news/swiss-startup-collaborative-robots-genai-humanoid-hand</link>
-      <description><![CDATA[生成式人工智能的力量进一步点燃了先进人形机器人的竞赛，承诺更强大的机器能够学习和应对未知的环境和挑战。在全球竞争日益激烈的情况下，总部位于瑞士的模仿者也加入了竞争者行列。该初创公司已筹集 250 万美元（230 万欧元）的种子前融资，将首款由 GenAI 驱动的协作机器人推向市场。 imit 是苏黎世联邦理工学院的衍生品，由三名研究机器人和人工智能交叉领域的研究人员于 2024 年创立。为了解决劳动力短缺问题，该团队开发了一款人形机器人手，这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/swiss-startup-collaborative-robots-genai-humanoid-hand</guid>
-      <pubDate>Tue, 07 May 2024 06:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
