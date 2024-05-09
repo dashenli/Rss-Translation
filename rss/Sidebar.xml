@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 09 May 2024 03:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:20:21 GMT</lastBuildDate>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -96,7 +96,7 @@
     <item>
       <title>Ryan Dahl：从 Node.js 和 Deno 到“现代”JSR 注册表</title>
       <link>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</link>
-      <description><![CDATA[Node.js 和 Deno 的创建者有了新的使命：保护 JavaScript 包免受恶意用户的攻击。&lt;​​/p&gt;
+      <description><![CDATA[Node.js 和 Deno 的创建者有一个新使命：保护 JavaScript 包免受恶意用户的侵害。
 ]]></description>
       <guid>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</guid>
       <pubDate>Mon, 06 May 2024 02:16:51 GMT</pubDate>
@@ -104,7 +104,7 @@
     <item>
       <title>WebAIM：2024 年总统竞选中的网络可访问性</title>
       <link>https://webaim.org/blog/2024-campaign-site-accessibility/</link>
-      <description><![CDATA[ 我们已经通过 AIM（“可访问性影响”）测试序列运行了 2024 年总统候选人的竞选网站。
+      <description><![CDATA[ 我们已通过 AIM（“无障碍影响”）测试序列运行 2024 年总统候选人的竞选网站。
 ]]></description>
       <guid>https://webaim.org/blog/2024-campaign-site-accessibility/</guid>
       <pubDate>Mon, 06 May 2024 02:16:06 GMT</pubDate>
