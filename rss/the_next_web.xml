@@ -3,8 +3,15 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Thu, 09 May 2024 12:26:03 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Thu, 09 May 2024 15:17:04 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：Peter Sarlin 谈欧洲人工智能；我们来谈谈碳捕获</title>
+      <link>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</link>
+      <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea 和 Andrii 讨论了蛋白粉和碳捕获、欧洲对星链的潜在答案、迪士尼的研发部门、可以保持打开的浏览器选项卡数量等等。节目嘉宾是 Silo AI 首席执行官兼创始人 Peter Sarlin。他对欧洲人工智能生态系统及其未来有一些强烈的看法，我们对此进行了详细讨论 -…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</guid>
+      <pubDate>Thu, 09 May 2024 11:49:54 GMT</pubDate>
+    </item>
     <item>
       <title>推动聊天机器人发展的关键技术</title>
       <link>https://thenextweb.com/news/key-technologies-chatbot-evolution</link>
@@ -29,7 +36,7 @@
     <item>
       <title>神经元大小的大脑植入物可以帮助盲人重见光明</title>
       <link>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</link>
-      <description><![CDATA[一组研究人员制造了一种视觉植入物，其中的微型电极与神经元大小相当，旨在帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼部受损但视觉皮层（大脑的视觉中心）活跃并能够接收信号的患者。但尽管该解决方案具有潜力，现有方法仍受到电极尺寸过大和金属腐蚀的限制。研究团队声称已经解决了这两个挑战。一种新的纳米尺寸植入物 Vision 植入物包含向大脑发送信号的电极......This story continued at The Next Web]]></description>
+      <description><![CDATA[一组研究人员用神经元大小的微型电极构建了视觉植入物，寻求帮助盲人重见光明。视觉植入物的发展最早出现在 20 世纪 90 年代。该技术针对的是眼睛受到损伤但视觉皮层（大脑的视觉中心）活跃且能够接收信号的患者。尽管该解决方案具有潜力，但现有方法仍受到大尺寸电极和金属腐蚀的限制。研究小组声称已经解决了这两个挑战。新型纳米级植入物视觉植入物包含向大脑发送信号的电极…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/neuron-sized-brain-implant-help-blind-people-see</guid>
       <pubDate>Wed, 08 May 2024 13:04:06 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 07 May 2024 16:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>自下而上：这种德国啤酒是由回收废水制成的</title>
+      <title>干杯：这款德国啤酒由回收废水酿造</title>
       <link>https://thenextweb.com/news/xylem-german-wastewater-beer</link>
       <description><![CDATA[Reuse Brew 是一款经典的德国啤酒，但有一点不同——它是由回收的废水制成的。这款啤酒是德国南部城市魏森堡、美国水技术公司 Xylem 和慕尼黑工业大学 (TUM) 合作的成果。具体来说，是慕尼黑工业大学的啤酒和饮料技术系（我为什么没有在那里学习？！）。虽然污水酿造的想法可能难以接受，但赛莱默确保我们在添加麦芽、啤酒花和酵母之前过滤掉所有有害物质。首先，机器将臭氧注入废水中。然后将污泥通过…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/xylem-german-wastewater-beer</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[欧洲最大芯片制造商之一英飞凌下调了营收其主要目标市场的需求“疲软”。这家德国公司目前预计收入为 151 亿欧元，上下浮动 4 亿欧元。这比之前预测的 160 亿欧元有所下降，上下浮动了 5 亿欧元。 2024年第二季度，英飞凌营收较上一季度下降2%，实现33.6亿欧元。但同比下降 12%。 2024年第一季度营收也较2023年第四季度下降11%。英飞凌首席执行官Jochen Hanebeck表示，…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/chip-giant-infineon-lowers-2024-forecast-electronics-slowdown</guid>
       <pubDate>Tue, 07 May 2024 12:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国 Wayve 在欧洲有史以来最大的人工智能融资轮中筹集了 10 亿美元</title>
-      <link>https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles</link>
-      <description><![CDATA[Wayve，一家总部位于伦敦的初创公司，致力于自动驾驶人工智能系统车辆，已筹集 10 亿美元。这轮巨额融资标志着欧洲人工智能初创公司最大的单笔投资。日本企业集团软银与科技巨头英伟达和微软一起领投了本轮融资。 Wayve 没有透露投资后的估值。 Wayve 于 2017 年在剑桥成立，正在为自动驾驶汽车开发所谓的嵌入式人工智能系统。与 ChatGPT 等纯软件人工智能不同，实体人工智能充当车辆等物理对象的大脑。它让他们能够自己观察、思考和驾驶。该技术也适用于机器人或任何机器人这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles</guid>
-      <pubDate>Tue, 07 May 2024 11:02:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

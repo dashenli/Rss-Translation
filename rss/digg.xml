@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>挖掘热门故事</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Thu, 09 May 2024 12:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 15:16:38 GMT</lastBuildDate>
+    <item>
+      <title>地球上最令人讨厌的工作场所软件</title>
+      <link>https://www.businessinsider.com/everyone-hates-workday-human-resources-customer-service-software-fortune-500-2024-5?utm_source=digg&amp;utm_medium=social&amp;utm_campaign=standard-post</link>
+      <description><![CDATA[它给每个人带来了繁重的工作。那么为什么财富 500 强中一半以上的公司都使用它呢？]]></description>
+      <guid>https://www.businessinsider.com/everyone-hates-workday-human-resources-customer-service-software-fortune-500-2024-5?utm_source=digg&amp;utm_medium=social&amp;utm_campaign=standard-post</guid>
+      <pubDate>Mon, 06 May 2024 19:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过这次彻底改造后，赛博卡车实际上看起来不错</title>
+      <link>https://rss.digg.com/digg-vids/link/cybertruck-extreme-makeover-gold-24k-Daytons</link>
+      <description><![CDATA[摩卡咖啡包裹并适合 24k 金代顿。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/cybertruck-extreme-makeover-gold-24k-Daytons</guid>
+      <pubDate>Mon, 06 May 2024 18:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>新款 iPad Air、iPad Pro 和 M4 芯片在拥挤的 Apple 活动中发布</title>
+      <link>https://rss.digg.com/tech/link/apple-may-2024-ipad-let-loose-event-live-stream-blog</link>
+      <description><![CDATA[点播观看整个活动，或者通过我们对活动的完整报道重新体验一切。]]></description>
+      <guid>https://rss.digg.com/tech/link/apple-may-2024-ipad-let-loose-event-live-stream-blog</guid>
+      <pubDate>Mon, 06 May 2024 17:51:50 GMT</pubDate>
+    </item>
     <item>
       <title>现在的小房子已经超越了豪宅——看看这个杰作</title>
       <link>https://rss.digg.com/digg-vids/link/beautiful-new-tiny-homes-2024-video</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[更让人心烦意乱的是她选择的两张专辑。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/buying-vinyl-epic-fail-little-girl-video</guid>
       <pubDate>Mon, 06 May 2024 16:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些电视节目会让你开怀大笑，同时扭曲你对现实的看法</title>
-      <link>https://rss.digg.com/movies-and-tv/link/best-docu-reality-tv-shows-list-nathan-fielder-john-wilson</link>
-      <description><![CDATA[什么是脚本化的，什么不是？]]></description>
-      <guid>https://rss.digg.com/movies-and-tv/link/best-docu-reality-tv-shows-list-nathan-fielder-john-wilson</guid>
-      <pubDate>Mon, 06 May 2024 13:37:30 GMT</pubDate>
     </item>
     <item>
       <title>汤姆·布雷迪烤肉中最好和最糟糕的时刻</title>
@@ -48,14 +62,14 @@
       <pubDate>Fri, 03 May 2024 20:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>父母向孩子隐瞒的八个惊人秘密</title>
+      <title>父母向孩子隐瞒的八个令人瞠目结舌的秘密</title>
       <link>https://rss.digg.com/internet-culture/link/parents-secret-lies-hide-reddit</link>
-      <description><![CDATA[令人震惊的是，我们才是真正不理解的人，而不是我们的父母。]]></description>
+      <description><![CDATA[在令人震惊的事件转变中，我们才是不理解的人——而不是我们的父母。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/parents-secret-lies-hide-reddit</guid>
       <pubDate>Fri, 03 May 2024 15:28:49 GMT</pubDate>
     </item>
     <item>
-      <title>影评人对杰瑞·宋飞的《无霜》电影最糟糕的评价</title>
+      <title>影评人对杰里·宋飞的《无霜》电影最糟糕的评价</title>
       <link>https://rss.digg.com/movies-and-tv/link/unfrosted-jerry-seinfeld-netflix-reviews-rt-critics</link>
       <description><![CDATA[杰里·宋飞 (Jerry Seinfeld) 在 Netflix 上拍摄的关于果馅饼的新电影《无霜》(Unfrosted) 遭到了评论家的严厉批评。]]></description>
       <guid>https://rss.digg.com/movies-and-tv/link/unfrosted-jerry-seinfeld-netflix-reviews-rt-critics</guid>
@@ -69,14 +83,7 @@
       <pubDate>Fri, 03 May 2024 10:32:27 GMT</pubDate>
     </item>
     <item>
-      <title>警察局可笑的电子健身形象，以及本周的“一个主角”的更多内容</title>
-      <link>https://rss.digg.com/one-main-character/link/one-main-character-twitter-jerry-seinfeld-dave-busters-kent-police</link>
-      <description><![CDATA[戴夫&amp;巴斯特想涉足赌博业。可能会出什么问题？]]></description>
-      <guid>https://rss.digg.com/one-main-character/link/one-main-character-twitter-jerry-seinfeld-dave-busters-kent-police</guid>
-      <pubDate>Fri, 03 May 2024 08:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>老师冒险问她的孩子们这个俚语是否仍然流行，却被敲响了警钟</title>
+      <title>老师冒险问孩子们这个俚语是否仍然流行，结果被敲响了警钟</title>
       <link>https://rss.digg.com/digg-vids/link/gen-alpha-z-millennials-slang-funny-video</link>
       <description><![CDATA[看来Z世代已经过时了。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/gen-alpha-z-millennials-slang-funny-video</guid>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 02 May 2024 11:53:22 GMT</pubDate>
     </item>
     <item>
-      <title>这种奇特的文艺复兴时期的公平饮酒传统是严重不适宜饮酒的</title>
-      <link>https://rss.digg.com/digg-vids/link/renaissance-fair-drinking-video</link>
-      <description><![CDATA[你只知道这之后情侣就分手了。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/renaissance-fair-drinking-video</guid>
-      <pubDate>Wed, 01 May 2024 15:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>播放“咒语塔”</title>
-      <link>https://rss.digg.com/puzzmo/link/spelltower</link>
-      <description><![CDATA[通过在网格上拖动、单独点击每个字母或在键盘上键入来选择单词。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/spelltower</guid>
-      <pubDate>Mon, 11 Dec 2023 20:07:42 GMT</pubDate>
+      <title>下“非常糟糕的国际象棋”</title>
+      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
+      <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
+      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
