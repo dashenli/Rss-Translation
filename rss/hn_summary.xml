@@ -1,89 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 10 May 2024 02:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:15:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]乌克兰战争引发了无人机技术的快速创新，乌克兰 en [...]</title>
-      <link>https://t.me/hn_summary/88838</link>
-      <description><![CDATA[乌克兰战争正在推动无人机技术的快速创新 
-乌克兰战争引发了无人机技术的快速创新，乌克兰工程师和外行在无人机改进、反无人机技术、人工技术、电子战和无人机扫雷等方面开发出新发明。创新的步伐令人眼花缭乱，乌克兰人使用跳频调制解调器来击败俄罗斯干扰机，并开发无需飞行员即可操作的自主无人机。这种对创新的推动引发了关于赋予无人机杀伤能力的法律和道德问题，但一家公司的首席执行官认为，有必要领先于入侵的敌人。乌克兰持续的冲突正在推动无人机技术的突破性进步，这可能永远改变战争的性质。]]></description>
-      <guid>https://t.me/hn_summary/88838</guid>
-      <pubDate>Fri, 10 May 2024 02:50:02 GMT</pubDate>
+      <title>隆重推出 Intale.ai 的 MamaRap，这是一种以个性化方式庆祝母亲节的革命性方式 [...]</title>
+      <link>https://t.me/hn_summary/88873</link>
+      <description><![CDATA[展示 HN：MamaRap – 人工智能为母亲生成的个性化音乐视频&lt; /a&gt;
+Intale.ai 隆重推出 MamaRap，这是庆祝母亲节的革命性方式带有人工智能生成的个性化音乐视频。忘记传统的礼物和鲜花，给你的妈妈一首定制的说唱歌曲，她会像一首舒缓的诗篇一样珍惜它。只需回忆特殊时刻，选择一个节奏，然后观看 Intale 将您的回忆变成抒情杰作。搭配音乐视频，这份礼物一定会让她感到特别和被爱。访问 Intale.ai 制作一份非凡且纯粹的艺术礼物，让这个母亲节成为她永远不会忘记的一天。]]></description>
+      <guid>https://t.me/hn_summary/88873</guid>
+      <pubDate>Fri, 10 May 2024 09:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇博客文章深入探讨了 Rust 中用于 ind 的磁盘支持哈希图的实现 [...]</title>
-      <link>https://t.me/hn_summary/88837</link>
-      <description><![CDATA[为不可变日志数据建立节省空间的索引
-这篇博文深入研究了 Rust 中磁盘支持的哈希图的实现，用于在 Seq 诊断产品中索引高基数谓词。这种独特的方法可以有效地存储和检索诊断事件记录，重点是在处理大量数据的同时最大限度地减少存储空间。通过使用磁盘支持的哈希图而不是高基数索引的传统位图，系统可以有效地处理跟踪 ID 等动态值。这篇文章详细介绍了磁盘支持的哈希图在磁盘上的布局，并将其性能与其他方法进行了比较，展示了其在减少存储空间和保持查询效率方面的有效性。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88837</guid>
-      <pubDate>Fri, 10 May 2024 02:47:56 GMT</pubDate>
+      <title>您是否厌倦了花费数小时为社交媒体帐户创建内容？</title>
+      <link>https://t.me/hn_summary/88872</link>
+      <description><![CDATA[展示 HN：我制作了一个人工智能社交媒体管理器来自动化内容创建
+您是否厌倦了花费数小时为社交媒体帐户创建内容？别再犹豫了！借助 AI Engager，您可以自动为 Facebook 页面和 Twitter 个人资料创建内容。只需连接您的帐户，填写一份简单的表格即可向人工智能提供信息，并进行微调以获得成功。密切关注人工智能助手的表现并根据需要进行更改。告别手动内容创建，让 AI Engager 为您完成工作。请访问 www.aiengager.com 立即开始。]]></description>
+      <guid>https://t.me/hn_summary/88872</guid>
+      <pubDate>Fri, 10 May 2024 08:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“ppstep”项目是一个交互式 C/C++ 预处理器宏调试器，旨在 [...]</title>
-      <link>https://t.me/hn_summary/88836</link>
-      <description><![CDATA[ppstep：交互式 C/C++ 预处理器宏调试器&lt; br/&gt;
-“ppstep”项目是一个交互式 C/C++ 预处理器宏调试器，旨在帮助用户导航和理解复杂的宏代码。它旨在通过提供可视化和逐步执行宏扩展和重新扫描过程的工具来解决编写和调试宏的挑战。用户可以在特定宏上设置断点，查看待处理扩展的回溯，以及在预处理期间交互式地定义或取消定义宏。该项目的独特之处在于提供了通过预处理进行单步执行的可视化界面，以及在预处理过程中动态评估和操作宏的能力。]]></description>
-      <guid>https://t.me/hn_summary/88836</guid>
-      <pubDate>Fri, 10 May 2024 02:38:49 GMT</pubDate>
+      <title>[媒体]受 Van Halen 乐队启发，一个英国组织采取了一项巧妙的举措，隐藏了一瓶免费的 [...]</title>
+      <link>https://t.me/hn_summary/88871</link>
+      <description><![CDATA[三个月后领取隐藏在小字中的免费葡萄酒 
+受 Van Halen 乐队启发，英国一家组织采取了巧妙的举措，在其隐私政策小字中隐藏了一瓶免费葡萄酒。三个月后发现隐藏优惠的幸运接收者获得了一瓶 Château de Sales 2013/14 年份波美侯葡萄酒作为奖励。该组织的创始人尼尔德尔先生承认，这种策略是用来测试人们是否关注他们的政策。这种独特的方法凸显了阅读细则和关注细节的重要性，因为您永远不知道其中可能隐藏着什么惊喜。]]></description>
+      <guid>https://t.me/hn_summary/88871</guid>
+      <pubDate>Fri, 10 May 2024 08:44:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《大西洋月刊》一篇发人深省的文章中，作者深入探讨了有争议的[...]</title>
-      <link>https://t.me/hn_summary/88835</link>
-      <description><![CDATA[没有人知道大学是用来做什么的
-在《大西洋月刊》发表的一篇发人深省的文章中，作者深入探讨了一个有争议的问题，即大学行政职位的指数级增长，远远超过了教师职位的增长。这种由帝国建设和任务膨胀驱动的行政臃肿导致高等教育机构的使命缺乏明确性。作者强调了这一趋势对学术自由、教师怨恨和机构关注的影响。这篇文章还谈到了大学在平衡言论自由和校园安全等相互竞争的优先事项时面临的挑战。最后，作者认为，行政角色的激增不仅导致大学成本上升，而且削弱了教学和研究的核心功能。]]></description>
-      <guid>https://t.me/hn_summary/88835</guid>
-      <pubDate>Fri, 10 May 2024 02:37:44 GMT</pubDate>
+      <title>[媒体]日本颁布修订法，要求迅速删除诽谤性社交媒体帖子，要求 [...]</title>
+      <link>https://t.me/hn_summary/88870</link>
+      <description><![CDATA[日本颁布修订后的快速删除社交媒体帖子的法律
+日本制定了一项修改后的法律，要求快速删除诽谤性社交媒体帖子，要求Facebook和X等平台有明确的删除标准和联系点。这一举措是在面临网络仇恨的木村花悲惨自杀之后采取的。该法律旨在通过确保帖子的及时删除和透明度来帮助诽谤受害者。如果帖子将在指定时间范围内删除，运营商现在必须通知用户。该法案已获得议会两院通过，将于一年内生效。这一进展突显了日本在打击网络诽谤和保护个人免受有害内容侵害方面所做的努力。]]></description>
+      <guid>https://t.me/hn_summary/88870</guid>
+      <pubDate>Fri, 10 May 2024 08:31:45 GMT</pubDate>
     </item>
     <item>
-      <title>在这门自然语言处理课程中，学生将深入研究诸如线性等主题[...]</title>
-      <link>https://t.me/hn_summary/88834</link>
-      <description><![CDATA[CS388：自然语言处理
-在本自然语言处理课程中，学生将深入研究线性分类、情感分析、神经网络、词嵌入、语言建模、变压器以及 BERT 和 seq2seq LM 等预训练模型等主题。有争议的是，该课程还涵盖了词嵌入的偏差和分类的公平性，解决了 NLP 中重要的伦理考虑。令人惊讶的是，该课程包括有关自注意力机制和变压器架构的前沿研究，展示了该领域的最新进展。重点关注结构化预测和句法解析，学生将全面了解 NLP 技术和应用。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/88834</guid>
-      <pubDate>Fri, 10 May 2024 02:28:36 GMT</pubDate>
+      <title>[媒体] 标题：巨大的太阳黑子 15 个地球向地球发射强大的 X 级耀斑</title>
+      <link>https://t.me/hn_summary/88869</link>
+      <description><![CDATA[巨大的太阳黑子 15 个地球宽向地球发射强大的 X 级耀斑
+标题：巨大的太阳黑子 15 个地球向地球发射强大的 X 级耀斑
+
+AR3664 是太阳表面的一个巨大黑子，已成为本次太阳周期中最大、最活跃的黑子之一。科学家们发出了 AR3664 太阳耀斑风险增加的警告，AR3664 不负众望，发射了强大的太阳耀斑，其中包括巨大的 X 级耀斑。这次耀斑导致欧洲和非洲短波无线电停电。这个太阳黑子从地球上无需放大即可看到，可与 1859 年卡林顿太阳黑子相媲美，卡林顿太阳黑子因引发重大地磁风暴而闻名。虽然卡林顿级太阳风暴每 40 到 60 年发生一次，但没有证据表明 AR3664 会发生新的卡林顿事件。]]></description>
+      <guid>https://t.me/hn_summary/88869</guid>
+      <pubDate>Fri, 10 May 2024 08:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]来自美国宇航局詹姆斯韦伯太空望远镜的令人兴奋的消息，因为它暗示了[...]的可能性</title>
-      <link>https://t.me/hn_summary/88833</link>
-      <description><![CDATA[韦伯暗示岩石系外行星周围可能存在大气层
-来自美国宇航局詹姆斯·韦伯太空望远镜的激动人心的消息暗示，岩石系外行星 55 Cancri e 周围可能存在大气层。这位艺术家的概念让我们一睹这个神秘星球的面貌。这一发现能否让我们更好地了解系外行星的大气层和太阳系以外的生命潜力？请继续关注科学家们不断揭开宇宙的秘密。]]></description>
-      <guid>https://t.me/hn_summary/88833</guid>
-      <pubDate>Fri, 10 May 2024 02:27:30 GMT</pubDate>
+      <title>[媒体]十分之七的欧洲人认为他们的国家接纳了太多移民，其中 85% [...]</title>
+      <link>https://t.me/hn_summary/88868</link>
+      <description><![CDATA[十分之七的欧洲人认为他们的国家接纳了太多移民&lt; /a&gt;
+十分之七的欧洲人认为他们的国家接纳了太多移民，其中 85% 的人认为欧盟需要打击非正常移民。令人惊讶的是，在去年非正常入境人数最多的意大利，只有 44% 的人认为移民是一个问题。各个国家的担忧各不相同，其中健康、乌克兰战争和环境是最重要的。尽管存在经济担忧，73% 的人对个人未来持乐观态度。调查还揭示了欧洲人身份认同上的分歧，只有 9% 的人感觉自己更像欧洲人而不是民族人。气候变化是 82% 欧洲人最关心的问题，他们支持政府主导的应对措施。]]></description>
+      <guid>https://t.me/hn_summary/88868</guid>
+      <pubDate>Fri, 10 May 2024 08:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项开创性的研究中，研究人员发现了麻风病传播赌注的证据[...]</title>
-      <link>https://t.me/hn_summary/88832</link>
-      <description><![CDATA[在中世纪的英格兰，麻风病在红松鼠/人之间传播，基因组证据
-在一项开创性的研究中，研究人员发现了麻风病在中世纪英格兰的红松鼠和人类之间传播的证据。通过基因分析，他们确定红松鼠是麻风病的第一个古代动物宿主，揭示了这种疾病的复杂历史。研究结果表明，中世纪时期麻风毒株在人类和红松鼠之间独立循环，挑战了之前关于该疾病传播的假设。这一发现强调了在了解麻风病等人畜共患疾病的持续存在时考虑动物宿主的重要性，这对我们今天对疾病传播的理解具有重要意义。]]></description>
-      <guid>https://t.me/hn_summary/88832</guid>
-      <pubDate>Fri, 10 May 2024 02:24:25 GMT</pubDate>
+      <title>[媒体] 一切就开始了。</title>
+      <link>https://t.me/hn_summary/88867</link>
+      <description><![CDATA[就开始了。 OpenAI 考虑 NSFW AI 模型输出
+OpenAI 发布了模型安全指南，包括不提供 NSFW 内容的指南，但也在考虑允许在适合年龄的环境中生成 NSFW 内容。考虑到人工智能和成人内容的历史，此举并不令人意外，但引发了人们的疑问：付费客户将如何应对违规请求的限制。 OpenAI 强调其对防止深度伪造和保护儿童的承诺，但他们将如何平衡安全工作与客户对成人内容的需求还有待观察。争议在于OpenAI的安全措施与客户期望之间可能存在冲突。]]></description>
+      <guid>https://t.me/hn_summary/88867</guid>
+      <pubDate>Fri, 10 May 2024 08:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在奶酪世界中，加工奶酪找到了独特的地位，为人们提供了便利。</title>
-      <link>https://t.me/hn_summary/88831</link>
-      <description><![CDATA[加工奶酪的两极分化世界（FDA 定义） 
-在奶酪世界中，加工奶酪找到了独特的地位，提供便利且价格实惠，使其成为厨房主食。虽然它们可能不具有天然奶酪的手工吸引力，但其奶油般的可融化性和一致的质地赢得了许多人的青睐。尽管加工奶酪的成分和制造工艺受到批评，但它在均衡饮食中占有一席之地。了解营养的差异使您能够做出明智的选择。因此，下次您在加工奶酪和天然奶酪之间进行选择时，请考虑您的烹饪需求、预算和饮食偏好。在下面的评论中分享您喜欢如何使用加工奶酪。]]></description>
-      <guid>https://t.me/hn_summary/88831</guid>
-      <pubDate>Fri, 10 May 2024 02:23:20 GMT</pubDate>
+      <title>[媒体]我没想到会在预订 Airbnb 时偶然发现全国范围内的骗局，但这就是 [...]</title>
+      <link>https://t.me/hn_summary/88866</link>
+      <description><![CDATA[我无意中发现了 Airbnb 上的假房东在全国范围内实施的骗局
+我没想到在预订 Airbnb 时会遇到全国范围内的骗局，但事实确实如此。在收到来自我的主机的可疑电子邮件后，我进行了一些挖掘并发现了一个运行复杂计划的假主机网络。这些骗子利用窃取的照片和虚假个人资料来引诱毫无戒心的客人并快速赚钱。围绕这一消息的争议令人震惊，对任何使用短期租赁平台的人来说都是一个警示。预订下次住宿时请保持知情并保持警惕。]]></description>
+      <guid>https://t.me/hn_summary/88866</guid>
+      <pubDate>Fri, 10 May 2024 08:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Google Photos 正在测试“图库”选项卡的重新设计，将其重命名为“Collections”。</title>
-      <link>https://t.me/hn_summary/88830</link>
-      <description><![CDATA[Google 相册正在测试“收藏集”重新设计，这会掩盖你的图库
-谷歌照片正在测试“库”选项卡的重新设计，将其重命名为“收藏集”。对这个新用户界面的反应并不积极，用户怀念以前的布局。新的设计功能自动生成人员、在此设备上、相册、文档和地点的分组，需要额外的步骤来访问本地文件夹。自 2022 年以来，谷歌一直在尝试改造该图书馆，但遭到强烈反对，并取消了之前的设计。新“集合”选项卡的可用性有限，表明它仍处于测试阶段，允许 Google 收集反馈并可能做出更改。]]></description>
-      <guid>https://t.me/hn_summary/88830</guid>
-      <pubDate>Fri, 10 May 2024 02:22:14 GMT</pubDate>
+      <title>[媒体]唐纳德·特朗普向美国石油高管提出一项协议，震惊全国：捐赠 1 美元 [...]</title>
+      <link>https://t.me/hn_summary/88865</link>
+      <description><![CDATA[特朗普承诺，如果美国石油老板捐赠 10 亿美元，他将废除气候法 –报告
+唐纳德·特朗普向美国石油高管提出了一项震惊全国的协议：为他的连任竞选捐赠 10 亿美元，并且他将废除乔·拜登的环境法规。在海湖庄园的晚宴上，特朗普承诺增加石油钻探，消除阿拉斯加北极地区的障碍，并扭转减少汽车污染的规定。环保组织谴责这一明目张胆的交易，担心交换条件和潜在的贿赂行为。尽管存在法律问题，特朗普的民意支持率依然强劲，石油公司高管正在起草行政命令，为可能的连任做准备。相比之下，拜登政府在清洁能源和公共卫生方面采取了300多项行动。]]></description>
+      <guid>https://t.me/hn_summary/88865</guid>
+      <pubDate>Fri, 10 May 2024 07:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 摘要：finallyfocused.org 上的文章探讨了 ADHD 大脑如何处理糖 [...]</title>
-      <link>https://t.me/hn_summary/88829</link>
-      <description><![CDATA[多动症大脑如何以不同的方式处理糖
-摘要：finallyfocused.org 上的文章探讨了 ADHD 大脑的处理方式对糖的看法有所不同，强调影响多动症症状的不是糖本身，而是它的代谢方式。研究表明，多动症患者某些大脑区域的葡萄糖代谢较低，导致注意力、运动和冲动问题。此外，多动症儿童在摄入葡萄糖后，大脑中关键化学物质（如肾上腺素和去甲肾上腺素）的水平较低。文章还讨论了多动症、肥胖和饮食失调之间的联系，强调了平衡的葡萄糖供应对于最佳大脑功能的重要性。作者 James M. Greenblatt 博士提供了管理多动症儿童糖摄入量的实用技巧。]]></description>
-      <guid>https://t.me/hn_summary/88829</guid>
-      <pubDate>Fri, 10 May 2024 02:19:08 GMT</pubDate>
+      <title>[媒体] 赛车手需要在长途比赛中保持水分，因此车内补水系统 [...]</title>
+      <link>https://t.me/hn_summary/88864</link>
+      <description><![CDATA[赛车驾驶员车载补水和排尿系统
+赛车手需要在长途比赛中保持水分，因此车内补水系统至关重要。这些系统包括装满水和营养物质的瓶子，通过软管连接到驾驶员的头盔。但是上厕所的时间呢？据报道，在 F1 比赛中，车手会在西装里撒尿，有策略地等待直道。越野赛车手可以使用导尿管，男性使用类似避孕套的装置，女性使用尿袋。一些疯狂的说法表明，F1 车队开发了一种带有储液器的导管系统，可以将尿液喷射到排气管中。虽然这可能不是真的，但车手在比赛中为保持舒适而付出的努力是令人着迷的。]]></description>
+      <guid>https://t.me/hn_summary/88864</guid>
+      <pubDate>Fri, 10 May 2024 07:29:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
