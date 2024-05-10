@@ -3,8 +3,15 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Fri, 10 May 2024 18:19:44 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Fri, 10 May 2024 21:16:22 GMT</lastBuildDate>
+    <item>
+      <title>美国通过了针对 TikTok 的禁令。为什么？</title>
+      <link>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-united-states-passed-a-ban-on-tiktok-why</link>
+      <description><![CDATA[TikTok 是社交媒体的杀手级应用，还是敌人发送的特洛伊木马？对最近的禁令有两种看法。此外，还有洗碗机里的三文鱼，以及 TikTok 的更多烹饪亮点。]]></description>
+      <guid>https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-united-states-passed-a-ban-on-tiktok-why</guid>
+      <pubDate>Fri, 10 May 2024 19:29:49 GMT</pubDate>
+    </item>
     <item>
       <title>内莉·鲍尔斯失败的挑衅</title>
       <link>https://www.newyorker.com/books/under-review/nellie-bowless-failed-provocations</link>
@@ -15,7 +22,7 @@
     <item>
       <title>事后诸葛亮如何扭曲我们对披头士乐队“顺其自然”的看法</title>
       <link>https://www.newyorker.com/culture/the-front-row/how-hindsight-distorts-our-view-of-the-beatles-in-let-it-be</link>
-      <description><![CDATA[这部由彼得·杰克逊重新修复的纪录片通常被视为乐队解散的记录，但它同时也是一份自由灵感的记录。]]></description>
+      <description><![CDATA[这部由彼得·杰克逊重新修复的纪录片通常被视为乐队解散的记录，但它同样也是随心所欲的灵感的记录。]]></description>
       <guid>https://www.newyorker.com/culture/the-front-row/how-hindsight-distorts-our-view-of-the-beatles-in-let-it-be</guid>
       <pubDate>Fri, 10 May 2024 15:34:48 GMT</pubDate>
     </item>
@@ -101,13 +108,6 @@
       <link>https://www.newyorker.com/podcast/political-scene/the-pure-chaos-inside-donald-trumps-criminal-trial</link>
       <description><![CDATA[特约撰稿人埃里克·拉赫 (Eric Lach) 表示，由于法院颁布的禁言令，这位前总统必须坐下来听几个小时的“时而乏味、时而尴尬、时而对他不利的证据”。]]></description>
       <guid>https://www.newyorker.com/podcast/political-scene/the-pure-chaos-inside-donald-trumps-criminal-trial</guid>
-      <pubDate>Thu, 09 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>结束西弗吉尼亚州煤炭主导地位的渐进式运行</title>
-      <link>https://www.newyorker.com/news/the-political-scene/the-workingman-and-the-company-store</link>
-      <description><![CDATA[进步的竞选活动能否打破煤炭行业对西弗吉尼亚州政治的控制？]]></description>
-      <guid>https://www.newyorker.com/news/the-political-scene/the-workingman-and-the-company-store</guid>
       <pubDate>Thu, 09 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>

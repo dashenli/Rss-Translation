@@ -3,8 +3,15 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Fri, 10 May 2024 18:17:41 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Fri, 10 May 2024 21:14:48 GMT</lastBuildDate>
+    <item>
+      <title>《Hades 2》：我们的 8 个最佳入门技巧</title>
+      <link>https://www.wired.com/story/hades-2-best-tips-beginners/</link>
+      <description><![CDATA[我们的《哈迪斯 II》初学者指南目前处于抢先体验阶段，其中包含在《Supergiant》续作开场时间内为您提供帮助的建议。]]></description>
+      <guid>https://www.wired.com/story/hades-2-best-tips-beginners/</guid>
+      <pubDate>Fri, 10 May 2024 19:28:54 GMT</pubDate>
+    </item>
     <item>
       <title>“TunnelVision”攻击使几乎所有 VPN 都容易受到间谍攻击</title>
       <link>https://www.wired.com/story/tunnelvision-vpn-attack/</link>
@@ -20,21 +27,21 @@
       <pubDate>Fri, 10 May 2024 16:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>婚礼和迎婴派对最佳登记处（2024 年）：建议和提示</title>
+      <title>最佳婚礼和迎婴会登记处（2024 年）：建议和提示</title>
       <link>https://www.wired.com/story/best-registries-for-weddings-baby-showers/</link>
       <description><![CDATA[结婚了？有孩子了吗？通过在线注册，获得纪念里程碑的礼物会更容易，但并非所有礼物都是平等的。]]></description>
       <guid>https://www.wired.com/story/best-registries-for-weddings-baby-showers/</guid>
       <pubDate>Fri, 10 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>地球即将以死蝉为食</title>
+      <title>地球即将迎来死蝉盛宴</title>
       <link>https://www.wired.com/story/periodical-cicada-emergence-illinois/</link>
       <description><![CDATA[两窝蝉，XIX 和 XIII，221 年来首次同时出现。他们正在为鸟类、树木和人类带来一生难忘的盛宴。]]></description>
       <guid>https://www.wired.com/story/periodical-cicada-emergence-illinois/</guid>
       <pubDate>Fri, 10 May 2024 15:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>36 份最佳毕业礼物 (2024)：献给大学毕业生</title>
+      <title>36 件最佳毕业礼物（2024 年）：送给大学毕业生</title>
       <link>https://www.wired.com/gallery/best-graduation-gift-ideas-2024/</link>
       <description><![CDATA[用有用的小工具、户外装备、订阅和现代便利设施来敲响他们的特殊里程碑。]]></description>
       <guid>https://www.wired.com/gallery/best-graduation-gift-ideas-2024/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Eureka E10 评论：一个可爱的笨机器人真空吸尘器</title>
       <link>https://www.wired.com/review/eureka-e10/</link>
-      <description><![CDATA[Eureka 组合机器人既能吸尘又能拖地。它吸尘效果不错，但拖地效果不佳，而且它的家庭地图绘制能力也很一般。]]></description>
+      <description><![CDATA[尤里卡的组合机器人既可以吸尘又可以拖地。它的吸尘工作做得很好，但拖地却很马虎，而且它的家庭地图绘制能力也很平庸。]]></description>
       <guid>https://www.wired.com/review/eureka-e10/</guid>
       <pubDate>Fri, 10 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Neuralink 在其第一个人脑机接口植入物上遇到了机械问题。其新颖的设计可能使其更容易出现故障。]]></description>
       <guid>https://www.wired.com/story/neuralinks-brain-implant-issues/</guid>
       <pubDate>Thu, 09 May 2024 20:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么黑人推特的声音值得拯救</title>
-      <link>https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/</link>
-      <description><![CDATA[十多年来，黑人推特一直是文化引擎。它也可能随时消失。]]></description>
-      <guid>https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/</guid>
-      <pubDate>Thu, 09 May 2024 19:18:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
