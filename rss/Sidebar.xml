@@ -4,7 +4,87 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 10 May 2024 03:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:19:46 GMT</lastBuildDate>
+    <item>
+      <title>酷查询</title>
+      <link>https://www.csscade.com/cool-queries</link>
+      <description><![CDATA[CSS 可以做很多与查询相关的事情，这非常简洁。
+]]></description>
+      <guid>https://www.csscade.com/cool-queries</guid>
+      <pubDate>Fri, 10 May 2024 04:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户体验的代理时代</title>
+      <link>https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b</link>
+      <description><![CDATA[数字体验的未来就在眼前 - 但它正在被分解成微观的用例。
+]]></description>
+      <guid>https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b</guid>
+      <pubDate>Fri, 10 May 2024 04:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>易读性的基础知识</title>
+      <link>https://www.nubero.ch/blog/011/</link>
+      <description><![CDATA[非印刷师的简短指南。
+]]></description>
+      <guid>https://www.nubero.ch/blog/011/</guid>
+      <pubDate>Fri, 10 May 2024 04:52:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>流场</title>
+      <link>https://emildziewanowski.com/flowfields/</link>
+      <description><![CDATA[不使用计算流体动力学的复杂流场。
+]]></description>
+      <guid>https://emildziewanowski.com/flowfields/</guid>
+      <pubDate>Fri, 10 May 2024 04:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>无尽的工具</title>
+      <link>https://endlesstools.io/</link>
+      <description><![CDATA[用于创建 3D 资产、社交媒体关键视觉效果、身份元素以及其他营销和设计需求的无编码工具。
+]]></description>
+      <guid>https://endlesstools.io/</guid>
+      <pubDate>Fri, 10 May 2024 04:43:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Popover API 登陆 Baseline</title>
+      <link>https://web.dev/blog/popover-api</link>
+      <description><![CDATA[popover API 登陆所有现代浏览器引擎。
+]]></description>
+      <guid>https://web.dev/blog/popover-api</guid>
+      <pubDate>Thu, 09 May 2024 04:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据新闻领域的人工智能</title>
+      <link>https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/</link>
+      <description><![CDATA[上个月，我在 Big Local News 在斯坦福大学举办的大规模故事发现数据新闻会议上发表了演讲。
+]]></description>
+      <guid>https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/</guid>
+      <pubDate>Thu, 09 May 2024 04:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>发射和光晕</title>
+      <link>https://www.donmccurdy.com/2024/04/27/emission-and-bloom</link>
+      <description><![CDATA[解释发射和光晕后处理效果之间的关系，以及如何在实时 3D 场景中有效地使用它们。
+]]></description>
+      <guid>https://www.donmccurdy.com/2024/04/27/emission-and-bloom</guid>
+      <pubDate>Thu, 09 May 2024 04:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 JavaScript 的五个基本知识将有助于非 JS 的 Web 设计师</title>
+      <link>https://frontendmasters.com/blog/5-things-designers-can-do-with-javascript/</link>
+      <description><![CDATA[假设您不了解 JavaScript。您是一名网页设计师，主要关注 UI 和 UX。 
+]]></description>
+      <guid>https://frontendmasters.com/blog/5-things-designers-can-do-with-javascript/</guid>
+      <pubDate>Thu, 09 May 2024 04:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>肉身人类的人工智能安全：旋风之旅</title>
+      <link>https://aisafety.dance/</link>
+      <description><![CDATA[您一站式了解人​​工智能和人工智能的所有核心思想。人工智能安全！
+]]></description>
+      <guid>https://aisafety.dance/</guid>
+      <pubDate>Thu, 09 May 2024 04:23:45 GMT</pubDate>
+    </item>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -24,7 +104,7 @@
     <item>
       <title>蝉鸣升起：2024 年罕见双重亮相的视觉指南</title>
       <link>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</link>
-      <description><![CDATA[蝉将迎来历史性的首次亮相，这是 200 多年来从未发生过的事情，以下是可以预见的。
+      <description><![CDATA[当蝉以 200 多年来从未出现过的历史性出现首次亮相时，我们可以期待以下结果。
 ]]></description>
       <guid>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</guid>
       <pubDate>Wed, 08 May 2024 11:49:31 GMT</pubDate>
@@ -44,86 +124,6 @@
 ]]></description>
       <guid>https://blog.tubikstudio.com/case-study-identity-product-design-financial-app/</guid>
       <pubDate>Wed, 08 May 2024 06:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何采访产品设计师</title>
-      <link>https://uxdesign.cc/how-i-interview-product-designers-b096441e5607</link>
-      <description><![CDATA[我以前曾参加过面试团队，但这是我第一次担任招聘经理。这是一次很好的学习经历。
-]]></description>
-      <guid>https://uxdesign.cc/how-i-interview-product-designers-b096441e5607</guid>
-      <pubDate>Tue, 07 May 2024 02:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年初的 Web 组件</title>
-      <link>https://chrisburnell.com/note/early-2024-web-components/</link>
-      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这是我今年迄今为止构建并使用的三个组件。
-]]></description>
-      <guid>https://chrisburnell.com/note/early-2024-web-components/</guid>
-      <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>结合 :has() 和 select 实现更强大的条件样式</title>
-      <link>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</link>
-      <description><![CDATA[Amit Sheen 演示了如何使用 :has() 有条件地应用样式。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</guid>
-      <pubDate>Tue, 07 May 2024 02:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>弹出框 API 在这里</title>
-      <link>https://frontendmasters.com/blog/popover-api-is-here/</link>
-      <description><![CDATA[此 API 允许您在所有内容之上打开一个元素，无论它位于 DOM 中的什么位置，并且没有任何特定的样式。
-]]></description>
-      <guid>https://frontendmasters.com/blog/popover-api-is-here/</guid>
-      <pubDate>Tue, 07 May 2024 02:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 color-mix() 的灰色阴影</title>
-      <link>https://css-irl.info/shades-of-grey-with-color-mix/</link>
-      <description><![CDATA[在构建网站时，无论您的调色板如何，使用几种灰色阴影都会很方便。
-]]></description>
-      <guid>https://css-irl.info/shades-of-grey-with-color-mix/</guid>
-      <pubDate>Tue, 07 May 2024 02:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络地图</title>
-      <link>https://graph.henryn.ca/</link>
-      <description><![CDATA[Henry Nguyen 对 50,000 个网站的可视化。
-]]></description>
-      <guid>https://graph.henryn.ca/</guid>
-      <pubDate>Mon, 06 May 2024 02:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ryan Dahl：从 Node.js 和 Deno 到“现代”JSR 注册表</title>
-      <link>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</link>
-      <description><![CDATA[Node.js 和 Deno 的创建者有一个新使命：保护 JavaScript 包免受恶意用户的侵害。
-]]></description>
-      <guid>https://thenewstack.io/ryan-dahl-from-node-js-and-deno-to-the-modern-jsr-registry/</guid>
-      <pubDate>Mon, 06 May 2024 02:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebAIM：2024 年总统竞选中的网络可访问性</title>
-      <link>https://webaim.org/blog/2024-campaign-site-accessibility/</link>
-      <description><![CDATA[ 我们已通过 AIM（“无障碍影响”）测试序列运行 2024 年总统候选人的竞选网站。
-]]></description>
-      <guid>https://webaim.org/blog/2024-campaign-site-accessibility/</guid>
-      <pubDate>Mon, 06 May 2024 02:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>平均年龄（再来一次）</title>
-      <link>https://www.alexmurrell.co.uk/articles/the-age-of-average-encore</link>
-      <description><![CDATA[向音乐流媒体的转变导致歌曲越来越短，音乐的旋律越来越不多样化，歌词越来越重复。
-]]></description>
-      <guid>https://www.alexmurrell.co.uk/articles/the-age-of-average-encore</guid>
-      <pubDate>Mon, 06 May 2024 02:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 CSS 特异性的误解</title>
-      <link>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</link>
-      <description><![CDATA[为了消除一些混乱，这里列出了有关 CSS 特异性的误解。
-]]></description>
-      <guid>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</guid>
-      <pubDate>Mon, 06 May 2024 01:59:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
