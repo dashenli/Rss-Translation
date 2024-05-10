@@ -3,8 +3,29 @@
   <channel>
     <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 09 May 2024 21:18:46 GMT</lastBuildDate>
+    <description>wired.jp 最新消息</description>
+    <lastBuildDate>Fri, 10 May 2024 03:16:43 GMT</lastBuildDate>
+    <item>
+      <title>“Met Gala”因一系列名人“假照片”而成为生成式人工智能目标的简单原因</title>
+      <link>https://wired.jp/article/met-gala-deepfakes-katy-perry-rihanna/</link>
+      <description><![CDATA[时尚节“MET GALA”刚一举办，社交媒体上就接连发布了利用生成式AI制作的名人假照片。原因非常简单。]]></description>
+      <guid>https://wired.jp/article/met-gala-deepfakes-katy-perry-rihanna/</guid>
+      <pubDate>Fri, 10 May 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对 iPhone 的间谍软件问题在全球范围内变得越来越严重。您可以采取哪些措施来保护您的设备</title>
+      <link>https://wired.jp/article/apple-iphone-spyware-101/</link>
+      <description><![CDATA[Apple 已警告 92 个国家/地区的 iPhone 用户，他们正成为间谍软件的目标。该公司已在 150 多个国家/地区检测到间谍软件攻击。很难判断您的设备是否被感染，但您可以采取一些措施来保护自己。]]></description>
+      <guid>https://wired.jp/article/apple-iphone-spyware-101/</guid>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WeWork 回购失败后 Adam Neumann 的新公司 Flow 会成为竞争对手吗？</title>
+      <link>https://wired.jp/article/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
+      <description><![CDATA[WeWork 创始人 Adam Neumann 回购这家破产公司的尝试实际上已经结束。他的新公司 Flow 为居民开发带有社区和工作空间的租赁住房，有可能与 WeWork 竞争。]]></description>
+      <guid>https://wired.jp/article/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</guid>
+      <pubDate>Thu, 09 May 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 正在探索“正确”生成人工智能色情内容的方法</title>
       <link>https://wired.jp/article/openai-is-exploring-how-to-responsibly-generate-ai-porn/</link>
@@ -15,12 +36,12 @@
     <item>
       <title>匿名社交网站“Sidechat”在因抗议活动而震动的美国大学中煽动仇恨言论</title>
       <link>https://wired.jp/article/how-sidechat-fanned-the-flames-of-university-campus-protests/</link>
-      <description><![CDATA[反对以色列在巴勒斯坦继续军事行动的抗议示威活动在美国大学变得越来越活跃。 Sidechat 是一个匿名社交媒体平台，已成为学生活动人士讨论的论坛。仇恨言论在这里盛行现在是一个严重的问题。]]></description>
+      <description><![CDATA[反对以色列在巴勒斯坦继续军事行动的抗议示威活动在美国大学变得更加活跃。 Sidechat 是一个匿名社交媒体平台，已成为学生活动人士讨论的论坛。仇恨言论在这里盛行现在是一个严重的问题。]]></description>
       <guid>https://wired.jp/article/how-sidechat-fanned-the-flames-of-university-campus-protests/</guid>
       <pubDate>Thu, 09 May 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>寻找外星生命的乌云；行星的气体真的是生物特征吗？</title>
+      <title>寻找外星生命的乌云，行星的气体真的是生物特征吗？</title>
       <link>https://wired.jp/article/search-for-alien-life-biosignatures-gas-atmosphere/</link>
       <description><![CDATA[检测地球以外行星上的生命形式的一种已知方法是分析行星大气中的气体。但最近关于金星上磷化氢检测和其他例子的争论使人们对这种方法的有效性产生了怀疑。]]></description>
       <guid>https://wired.jp/article/search-for-alien-life-biosignatures-gas-atmosphere/</guid>
@@ -36,21 +57,21 @@
     <item>
       <title>欢迎来到科技封建时代——云农奴和现代封建领主</title>
       <link>https://wired.jp/article/sz-yanis-varoufakis-technofeudalism-interview/</link>
-      <description><![CDATA[希腊前财政部长亚尼斯·瓦鲁法基斯 (Yanis Varoufakis) 的新书《技术封建主义》认为，苹果和 Meta 等大型科技公司正在破坏资本主义，并将用户视为中世纪的农奴。]]></description>
+      <description><![CDATA[希腊前财政部长雅尼斯·瓦鲁法基斯 (Yanis Varoufakis) 的新书《技术封建主义》认为，苹果和 Meta 等大型科技公司正在破坏资本主义，并将用户视为中世纪农奴。]]></description>
       <guid>https://wired.jp/article/sz-yanis-varoufakis-technofeudalism-interview/</guid>
       <pubDate>Wed, 08 May 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DeepMind宣布的“AlphaFold 3”的隐藏潜力，一种加速药物发现的新人工智能</title>
       <link>https://wired.jp/article/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌 DeepMind 发布了最新版本的人工智能 AlphaFold 3，可以预测蛋白质的三维结构。通过应用图像生成人工智能技术，已经实现了分子相互作用的高精度预测，预计这些进步将加速药物发现。]]></description>
+      <description><![CDATA[谷歌 DeepMind 发布了最新版本的人工智能 AlphaFold 3，可以预测蛋白质的三维结构。通过应用图像生成人工智能技术，可以实现对分子相互作用的高精度预测，预计这些进步将加速药物发现。]]></description>
       <guid>https://wired.jp/article/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 21:15:00 GMT</pubDate>
     </item>
     <item>
       <title>描绘《美丽巴黎》背后的愤怒与希望之光：专访《巴蒂蒙5：不受欢迎的人》导演</title>
       <link>https://wired.jp/article/batiment-5-ladj-ly-interview/</link>
-      <description><![CDATA[拉吉·李是一位崭露头角的法国电影导演，凭借《悲惨世界》的作品获得高度赞誉。他的新片《巴蒂蒙 5：不受欢迎的人》将于 5 月 24 日在日本上映，故事发生在以明信片般的美景而闻名的巴黎郊区。我们向导演询问了这部电影的情况，这部电影描绘了工人阶级移民所面临的令人震惊的现实。]]></description>
+      <description><![CDATA[拉吉·李是一位崭露头角的法国电影导演，他因《悲惨世界》而获得高度赞誉。他的新片《巴蒂蒙 5：不受欢迎的人》将于 5 月 24 日在日本上映，故事发生在以明信片般的美景而闻名的巴黎郊区。我们向导演询问了这部电影的情况，这部电影描绘了工人阶级移民所面临的令人震惊的现实。]]></description>
       <guid>https://wired.jp/article/batiment-5-ladj-ly-interview/</guid>
       <pubDate>Wed, 08 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>期待已久的 Roguelike 游戏《HADES II》续作，从抢先体验版看出魅力与潜力</title>
       <link>https://wired.jp/article/hades-2-early-access-launch-release-date/</link>
-      <description><![CDATA[广受好评的 Roguelike 游戏《HADES II》的续作，现已发布 PC 抢先体验版。新作在继承前作传统的同时又不断进化，虽然还不是完整的产品版本，但魅力十足。]]></description>
+      <description><![CDATA[广受好评的 Roguelike 游戏《HADES II》的续作，现已发布 PC 抢先体验版。新游戏在继承前作传统的同时不断发展，虽然还不是完整的产品，但仍然具有足够的魅力。]]></description>
       <guid>https://wired.jp/article/hades-2-early-access-launch-release-date/</guid>
       <pubDate>Wed, 08 May 2024 03:30:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Indeed 和 LinkedIn 等公司正在实施人工智能技术来改善招聘和求职流程。然而，大规模应用存在缺陷，而且人工智能的判断标准不明确，所以目前一些招聘经理似乎选择走模拟路线。]]></description>
       <guid>https://wired.jp/article/recruiters-ai-application-overload/</guid>
       <pubDate>Tue, 07 May 2024 23:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌发布“Pixel 8a”，支持AI功能，价格亲民</title>
-      <link>https://wired.jp/article/google-pixel-8a/</link>
-      <description><![CDATA[谷歌发布了一款新的低价 Android 智能手机型号 Pixel 8a。虽然价格合理，但由于支持基于人工智能的“编辑魔法”和“语音橡皮擦魔法”等高级功能，因此很可能会受到欢迎。]]></description>
-      <guid>https://wired.jp/article/google-pixel-8a/</guid>
-      <pubDate>Tue, 07 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果宣布的所有新产品，从苹果最薄的新款 iPad Pro 到 Apple Pencil Pro</title>
-      <link>https://wired.jp/article/apple-ipad-pro-m4-ipad-air-event/</link>
-      <description><![CDATA[苹果公司已经发布了新产品，例如号称有史以来最薄的新款 iPad Pro、有两种尺寸的 iPad Air，以及改进了可操作性的 Apple Pencil Pro。这些新阵容揭示了苹果在其活动邀请中传递的信息。]]></description>
-      <guid>https://wired.jp/article/apple-ipad-pro-m4-ipad-air-event/</guid>
-      <pubDate>Tue, 07 May 2024 16:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司的Starliner宇宙飞船即将发射期待已久的载人飞行</title>
-      <link>https://wired.jp/article/watch-boeing-starliner-launch-livestream/</link>
-      <description><![CDATA[波音公司研制的载人航天器“星际客机”(Starliner)的首次载人试飞预定起飞。对于因事故和其他问题而陷入困境的波音公司来说，这是一次期待已久的发射。]]></description>
-      <guid>https://wired.jp/article/watch-boeing-starliner-launch-livestream/</guid>
-      <pubDate>Tue, 07 May 2024 01:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

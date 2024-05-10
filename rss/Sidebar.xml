@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 10 May 2024 00:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:17:50 GMT</lastBuildDate>
     <item>
       <title>关于突出显示文本的简要说明</title>
       <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
@@ -24,7 +24,7 @@
     <item>
       <title>蝉鸣升起：2024 年罕见双重亮相的视觉指南</title>
       <link>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</link>
-      <description><![CDATA[当蝉以 200 多年来从未出现过的历史性出现首次亮相时，我们可以期待以下结果。
+      <description><![CDATA[蝉将迎来历史性的首次亮相，这是 200 多年来从未发生过的事情，以下是可以预见的。
 ]]></description>
       <guid>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</guid>
       <pubDate>Wed, 08 May 2024 11:49:31 GMT</pubDate>
@@ -54,15 +54,15 @@
       <pubDate>Tue, 07 May 2024 02:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>从 2024 年初开始的 Web 组件</title>
+      <title>2024 年初的 Web 组件</title>
       <link>https://chrisburnell.com/note/early-2024-web-components/</link>
-      <description><![CDATA[创建可重复使用的 Web 组件给我带来了很多乐趣，下面是我今年迄今为止构建并使用的三个组件。
+      <description><![CDATA[创建可重用的 Web 组件给我带来了很多乐趣，所以这是我今年迄今为止构建并使用的三个组件。
 ]]></description>
       <guid>https://chrisburnell.com/note/early-2024-web-components/</guid>
       <pubDate>Tue, 07 May 2024 02:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>结合 :has() 并选择以获得更好的条件样式</title>
+      <title>结合 :has() 和 select 实现更强大的条件样式</title>
       <link>https://www.smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</link>
       <description><![CDATA[Amit Sheen 演示了如何使用 :has() 有条件地应用样式。
 ]]></description>
@@ -110,7 +110,7 @@
       <pubDate>Mon, 06 May 2024 02:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>平均年龄（安可）</title>
+      <title>平均年龄（再来一次）</title>
       <link>https://www.alexmurrell.co.uk/articles/the-age-of-average-encore</link>
       <description><![CDATA[向音乐流媒体的转变导致歌曲越来越短，音乐的旋律越来越不多样化，歌词越来越重复。
 ]]></description>
@@ -120,7 +120,7 @@
     <item>
       <title>关于 CSS 特异性的误解</title>
       <link>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</link>
-      <description><![CDATA[为了消除一些困惑，这里列出了关于 CSS 中特殊性的误解。
+      <description><![CDATA[为了消除一些混乱，这里列出了有关 CSS 特异性的误解。
 ]]></description>
       <guid>https://www.bram.us/2024/05/05/misconceptions-about-css-specificity/</guid>
       <pubDate>Mon, 06 May 2024 01:59:59 GMT</pubDate>
