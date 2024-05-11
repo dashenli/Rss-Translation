@@ -4,7 +4,14 @@
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sat, 11 May 2024 03:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 06:17:19 GMT</lastBuildDate>
+    <item>
+      <title>防御寄生虫</title>
+      <link>https://www.wired.com/story/parasites-worms-climate-change-rfk/</link>
+      <description><![CDATA[没有寄生虫，大自然就无法运转，而气候变化正在导致一些寄生虫灭绝。当它们开始消失时会发生什么？]]></description>
+      <guid>https://www.wired.com/story/parasites-worms-climate-change-rfk/</guid>
+      <pubDate>Sat, 11 May 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Google I/O 大会有何期待以及如何观看</title>
       <link>https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>由于罕见的太阳风暴，美国各地都可以看到北极光</title>
       <link>https://www.wired.com/story/geomagnetic-storm-aurora-night-sky/</link>
-      <description><![CDATA[从太阳喷出的三股带电粒子爆发合并成一股波，可能导致从莫斯科到俄克拉荷马城都可以看到明亮的极光。]]></description>
+      <description><![CDATA[从太阳喷射出的三股带电粒子爆发合并成一股波，可能导致从莫斯科到俄克拉荷马城都可以看到明亮的极光。]]></description>
       <guid>https://www.wired.com/story/geomagnetic-storm-aurora-night-sky/</guid>
       <pubDate>Fri, 10 May 2024 21:31:20 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>5 个最佳 USB 集线器 (2024)：USB-C、USB-A、便携式</title>
       <link>https://www.wired.com/gallery/best-usb-hubs/</link>
-      <description><![CDATA[放弃加密狗。这些多端口适配器最大限度地增加了笔记本电脑的选择。]]></description>
+      <description><![CDATA[抛弃加密狗。这些多端口适配器使您的笔记本电脑的选择最大化。]]></description>
       <guid>https://www.wired.com/gallery/best-usb-hubs/</guid>
       <pubDate>Fri, 10 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用久经考验的榨汁机保持水分，提供清爽的日间饮料和亮眼的晚间饮料。]]></description>
       <guid>https://www.wired.com/gallery/best-juicers/</guid>
       <pubDate>Fri, 10 May 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eureka E10 评论：一个可爱的笨机器人真空吸尘器</title>
-      <link>https://www.wired.com/review/eureka-e10/</link>
-      <description><![CDATA[尤里卡的组合机器人既可以吸尘又可以拖地。它的吸尘工作做得很好，但拖地却很马虎，而且它的家庭地图绘制能力也很平庸。]]></description>
-      <guid>https://www.wired.com/review/eureka-e10/</guid>
-      <pubDate>Fri, 10 May 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
