@@ -4,7 +4,21 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Mon, 13 May 2024 15:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:17:19 GMT</lastBuildDate>
+    <item>
+      <title>欧盟的 JEDI 超级计算机是世界上最节能的 HPC 系统</title>
+      <link>https://thenextweb.com/news/eu-jedi-supercomputer-most-energy-efficient-hpc-system-world</link>
+      <description><![CDATA[在绿色转型方面，欧盟正在大谈一场。尽管脱碳在多个领域遭到了强烈的政治抵制，但事实证明，一个领域无疑是成功的——EuroHPC 超级计算机的能源效率。这家欧洲合资企业的第一台百亿亿次超级计算机 JUPITER 目前正在德国北莱茵-威斯特法伦州的于利希研究中心建造。它的第一个前驱模块被命名为 JEDI（如果你问我们，这个消息显然应该在 5 月 4 日发布）并于 4 月份安装。除了为一些书呆子提供终极缩写机会之外，Jupiter Exascale 开发仪器…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/eu-jedi-supercomputer-most-energy-efficient-hpc-system-world</guid>
+      <pubDate>Mon, 13 May 2024 15:57:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告称半导体巨头 Arm 将于明年推出人工智能芯片</title>
+      <link>https://thenextweb.com/news/semiconductor-giant-arm-launch-ai-chips-next-year</link>
+      <description><![CDATA[总部位于英国的 Arm 是全球芯片市场的主要参与者之一，据报道，该公司计划进军人工智能芯片的开发。 Arm 设计（主要）消费电子芯片的构建架构，并将其授权给高通和英伟达等半导体巨头。该公司声称其技术为市场上 99% 的高端智能手机提供支持。日本软银集团持有这家芯片设计公司 90% 的股份。据《日经亚洲》报道，软银集团向人工智能芯片迈进是其成为人工智能领域一股力量的雄心的一部分。论文称，Arm 将设立专门的 AI…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/semiconductor-giant-arm-launch-ai-chips-next-year</guid>
+      <pubDate>Mon, 13 May 2024 15:38:52 GMT</pubDate>
+    </item>
     <item>
       <title>英国完成全球首次量子导航飞行，可取代 GPS</title>
       <link>https://thenextweb.com/news/uk-quantum-navigation-world-first-flight-replace-gps</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[与俄罗斯有关的宣传网络引发了人们对信息战新武器的警惕：大语言模型（LLM）。该操作是由两名瑞典计算机科学家创立的威胁情报公司 Recorded Future 发现的。 3 月初，该公司发现一个名为 CopyCop 的网络利用法学硕士来操纵主流媒体的新闻。 CopyCop 利用即时工程，针对特定受众和政治偏见定制内容。这些文章通过不真实的美国、英国和法国新闻网站发表，涵盖了有争议的国内和国际问题。话题范围从英国穆斯林之间的紧张关系到俄罗斯对乌克兰的战争。文章…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/llms-generative-ai-information-warfare-weapon</guid>
       <pubDate>Thu, 09 May 2024 15:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>TNW 播客：Peter Sarlin 谈欧洲人工智能；我们来谈谈碳捕获</title>
-      <link>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</link>
-      <description><![CDATA[欢迎来到 TNW 播客的新一集 — 我们讨论的节目欧洲技术生态系统的最新发展以及对业内一些最有趣的人士的专题采访。在今天的节目中，Linnea 和 Andrii 讨论了蛋白粉和碳捕获、欧洲对星链的潜在答案、迪士尼的研发部门、可以保持打开的浏览器选项卡数量等等。节目嘉宾是 Silo AI 首席执行官兼创始人 Peter Sarlin。他对欧洲人工智能生态系统及其未来有一些强烈的看法，我们对此进行了详细讨论 -…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/peter-sarlin-silo-ai-carbon-capture</guid>
-      <pubDate>Thu, 09 May 2024 11:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>推动聊天机器人发展的关键技术</title>
-      <link>https://thenextweb.com/news/key-technologies-chatbot-evolution</link>
-      <description><![CDATA[这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/key-technologies-chatbot-evolution</guid>
-      <pubDate>Thu, 09 May 2024 07:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
