@@ -3,8 +3,15 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice that 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 13 May 2024 12:27:17 GMT</lastBuildDate>
+    <description>It's Nice 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 13 May 2024 15:17:48 GMT</lastBuildDate>
+    <item>
+      <title>血汗与泪水：乔迪·埃文斯对酷儿、创造力和硬移植的看法</title>
+      <link>https://www.itsnicethat.com/articles/jody-evans-blood-sweat-and-tears-photography-project-130524</link>
+      <description><![CDATA[继他们最近在写真书咖啡馆推出新书并首次个展之后，我们与乔迪·埃文斯聊了聊他们第一本出版的写真集。]]></description>
+      <guid>https://www.itsnicethat.com/articles/jody-evans-blood-sweat-and-tears-photography-project-130524</guid>
+      <pubDate>Mon, 13 May 2024 11:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>周的快照动画强调植物的“简单”形状和运动</title>
       <link>https://www.itsnicethat.com/articles/chou-illustration-animation-discover-130524</link>
@@ -15,7 +22,7 @@
     <item>
       <title>大卫·威尔逊和巴克为梅布尔制作的新音乐视频“重写”了罪恶的概念</title>
       <link>https://www.itsnicethat.com/articles/david-wilson-buck-look-at-my-body-part-ii-animation-film-project-100524</link>
-      <description><![CDATA[花花公子翻唱即兴重复段、玛丽莲·梦露参考资料和夏娃的苹果：这首歌和视频着眼于媒体如何代表和消费身体。]]></description>
+      <description><![CDATA[花花公子翻唱即兴重复段、玛丽莲·梦露参考资料和夏娃的苹果：这首歌曲和视频着眼于媒体如何代表和消费身体。]]></description>
       <guid>https://www.itsnicethat.com/articles/david-wilson-buck-look-at-my-body-part-ii-animation-film-project-100524</guid>
       <pubDate>Fri, 10 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们的美国特约编辑从这场规模庞大、忙碌但充满灵感的活动中挑选了一些亮点，其中充满了开创性的印刷品。]]></description>
       <guid>https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-new-york-art-book-fair-publication-event-070524</guid>
       <pubDate>Tue, 07 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Airbnb Icons 一起在 Up house 中漂流，或在 X-Mansion 中学习战斗</title>
-      <link>https://www.itsnicethat.com/news/airbnb-icons-launch-up-house-advertising-film-030524</link>
-      <description><![CDATA[继芭比梦幻屋和怪物史莱克高地沼泽设计住宿体验取得巨大成功之后，Airbnb 宣布推出 11 种全新的手工住宿和体验。]]></description>
-      <guid>https://www.itsnicethat.com/news/airbnb-icons-launch-up-house-advertising-film-030524</guid>
-      <pubDate>Fri, 03 May 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
