@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 13 May 2024 03:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 08:53:48 GMT</lastBuildDate>
     <item>
-      <title>通过麻省理工学院游戏实验室的“A Slower Speed of [...]体验狭义相对论的令人费解的世界</title>
-      <link>https://t.me/hn_summary/89265</link>
-      <description><![CDATA[较慢的光速 – 麻省理工学院游戏实验室&lt; br/&gt;
-通过麻省理工学院游戏实验室的“较慢的光速”体验狭义相对论的令人费解的世界。这款第一人称游戏原型要求玩家在 3D 空间中导航，同时拾取减慢光速的球体，从而展现多普勒效应和时间膨胀等视觉效果。使用开源工具包 OpenRelativity，玩家可以探索游戏背后的物理原理，甚至可以在 Twitter 上分享他们的体验。该游戏具有易于上手的游戏玩法和先进的图形，将娱乐性与教育价值结合在一起，为所有人带来独特且引人入胜的体验。通过“较慢的光速”以全新的方式探索宇宙。]]></description>
-      <guid>https://t.me/hn_summary/89265</guid>
-      <pubDate>Mon, 13 May 2024 03:09:11 GMT</pubDate>
+      <title>[媒体] LoopyTools 是一款革命性的在线工具，可让用户轻松转换图像，[...]</title>
+      <link>https://t.me/hn_summary/89287</link>
+      <description><![CDATA[显示 HN：免费图像、视频或音频格式转换器 – Loopytools。 com
+LoopyTools 是一款革命性的在线工具，允许用户轻松免费地将图像、视频或音频文件转换为不同的格式。凭借用户友好的界面和闪电般的处理速度，LoopyTools 使任何人只需点击几下即可轻松转换媒体文件。无论您需要将 JPEG 转换为 PNG、MP4 转换为 GIF，还是 MP3 转换为 WAV，LoopyTools 都能满足您的需求。告别昂贵的软件和复杂的转换过程 - 立即尝试 LoopyTools，体验免费、无忧的文件转换的便利。]]></description>
+      <guid>https://t.me/hn_summary/89287</guid>
+      <pubDate>Mon, 13 May 2024 08:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“GNU Make Extensions”项目旨在增强 Make 的功能 - [...]</title>
-      <link>https://t.me/hn_summary/89264</link>
-      <description><![CDATA[展示 HN：让 GNU 成为更好的任务运行程序 
-GitHub 上的“GNU Make Extensions”项目旨在通过为 Makefile 提供有用的扩展来增强基于 Make 的项目的功能。这些扩展简化了任务并提高了 GNU Make 作为任务运行程序的整体使用率。该项目的独特之处在于完全用 GNU Make 编写，使其可以嵌入 GNU Make 之外的零依赖项。它包括自动描述和帮助消息中包含许可证等功能，以及用于检查程序存在和加载环境变量的扩展。作者承认 GNU Make 最初并不是打算用作任务运行程序，但发现它对于此目的很有用。]]></description>
-      <guid>https://t.me/hn_summary/89264</guid>
-      <pubDate>Mon, 13 May 2024 03:03:05 GMT</pubDate>
+      <title>Boxwood 是一个用 JavaScript 编写的服务器端模板引擎，其目标是允许 tem [...]</title>
+      <link>https://t.me/hn_summary/89286</link>
+      <description><![CDATA[显示 HN：Boxwood – JavaScript 的简单模板引擎&lt; /a&gt;
+Boxwood 是一个用 JavaScript 编写的服务器端模板引擎，其目标是允许模板拆分为组件、自动缩小和散列每个组件的 CSS、内联关键 CSS、导入依赖项、支持 i18n 并有利于 SEO。这是一个只有一个文件和大约 700 行代码的小项目，可以很容易地用熟悉的语法开始。该项目的与众不同之处在于，它提供了一种简单而有效的方法来使用呈现为 HTML 的节点树来创建模板。它还在自述文件中包含使用和测试的示例。]]></description>
+      <guid>https://t.me/hn_summary/89286</guid>
+      <pubDate>Mon, 13 May 2024 08:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>本文深入探讨了 IPv6 地址计划的历史和演变，强调了 [...]</title>
-      <link>https://t.me/hn_summary/89263</link>
-      <description><![CDATA[IPv6 前缀长度
-本文深入探讨了 IPv6 地址计划的历史和演变，重点介绍了从固定边界到可变长度站点前缀的转变。它质疑 IPv6 架构中 64/64 位边界的持久性，并探讨网络运营商之间站点前缀长度的分布。令人惊讶的是，数据显示 /64 前缀最常见，/56 和 /60 也很常见。本文还讨论了子网在网络架构中的使用以及子网划分对网络效率的影响。总体而言，它为现代互联网环境中的 IPv6 地址分配和子网行为提供了宝贵的见解。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89263</guid>
-      <pubDate>Mon, 13 May 2024 02:59:59 GMT</pubDate>
+      <title>[媒体] 所罗门·谢列舍夫斯基 (Solomon Shereshevsky) 是一个拥有非凡记忆力的人，过着充满大学生活的生活 [...]</title>
+      <link>https://t.me/hn_summary/89285</link>
+      <description><![CDATA[助记符之死
+所罗门·谢列舍夫斯基（Solomon Shereshevsky）是一个拥有非凡记忆力的人，他的一生充满了独特的经历和能力。他无限制地记住一切的能力让周围的人感到惊讶，这导致了神经心理学家亚历山大·卢里亚（Alexander Luria）的测试。谢列舍夫斯基极端的联觉和记忆宫殿技术的运用造就了他非凡的记忆力。他的童年记忆在塑造他非凡能力的过程中发挥了重要作用。尽管谢列舍夫斯基从未实现成为英雄的梦想，但他的记忆力却留下了持久的遗产。他的故事是对记忆力量和人类思维的一次精彩探索。]]></description>
+      <guid>https://t.me/hn_summary/89285</guid>
+      <pubDate>Mon, 13 May 2024 08:26:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Sonos 最近发布了对其应用程序的重大重新设计，旨在提供个性化 [...]</title>
-      <link>https://t.me/hn_summary/89262</link>
-      <description><![CDATA[Sonos 表示推出广受批评的应用程序重新设计需要“勇气”
-Sonos 最近发布了对其应用程序的重大重新设计，旨在提供个性化的聆听体验。然而，该更新因删除功能和引入错误而受到广泛批评，导致社交媒体上出现投诉。尽管收到负面反馈，Sonos 仍为重新设计进行了辩护，称重建核心产品需要“勇气”。该公司正在努力在未来几个月内解决缺失的功能，并承诺在未来推出令人兴奋的创新。用户呼吁 Sonos 回滚更新，直到新应用程序更加充实。这次重新设计代表了 Sonos 在努力增强用户体验方面迈出了雄心勃勃的一步。]]></description>
-      <guid>https://t.me/hn_summary/89262</guid>
-      <pubDate>Mon, 13 May 2024 02:58:53 GMT</pubDate>
+      <title>[媒体] 在 deviparikh.medium.com 上的“Calendar, Not Todos (2018)”中，作者强调了我 [...]</title>
+      <link>https://t.me/hn_summary/89284</link>
+      <description><![CDATA[日历，而非待办事项 (2018)
+在 deviparikh.medium.com 上的“日历，而不是待办事项 (2018)”中，作者强调了使用日历进行时间管理而不是依赖待办事项列表的重要性。作者将他们的专业成就归功于良好的时间管理，并就如何有效管理时间提供了直接和规范性的建议。这篇文章是为了回应时间管理建议的请求而写的，旨在帮助更广泛的受众从作者的见解中受益。作者的直接方法和对使用日历进行组织的关注可能会挑战传统的待办事项列表方法。]]></description>
+      <guid>https://t.me/hn_summary/89284</guid>
+      <pubDate>Mon, 13 May 2024 08:17:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.shuttle.rs 上的这篇文章中，我们深入研究了高级 Rust 特征和泛型。</title>
-      <link>https://t.me/hn_summary/89261</link>
-      <description><![CDATA[高级 Rust 特征和泛型简介
-在这篇关于 www.shuttle.rs 的文章中，我们深入研究了分为高级 Rust 特征和泛型。我们介绍了编写特征、针对不同类型实现特征以及处理特征一致性的基础知识。这篇文章还探讨了发送和同步等标记特征，这些特征确保了 Rust 中的某些保证。标记特征在 Rust 生态系统中发挥着至关重要的作用，为并发性和线程安全性提供了保证。此外，我们还讨论了对象特征和动态调度，强调了使用特征对象的好处和挑战。总的来说，这篇文章全面介绍了这些高级 Rust 概念，使其成为 Rust 开发人员的宝贵资源。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/89261</guid>
-      <pubDate>Mon, 13 May 2024 02:24:37 GMT</pubDate>
+      <title>[媒体] 保护您在网页上的电子邮件地址免受垃圾邮件机器人的侵害至关重要，但传统的我 [...]</title>
+      <link>https://t.me/hn_summary/89283</link>
+      <description><![CDATA[通过 SVG 而不是 JavaScript 保护您的电子邮件地址&lt; br /&gt;
+保护网页上的电子邮件地址免受垃圾邮件机器人的侵害至关重要，但涉及 HTML、CSS 和 JavaScript 的传统方法有其局限性。本文介绍了一种使用 SVG 有效隐藏电子邮件地址的独特方法。基于 SVG 的技术允许标准的 mailto 链接，即使在 JavaScript 关闭的情况下也能工作，并且隐藏像图像一样的内容，同时保持像文本一样的可复制性。通过在 HTML 文档中嵌入 SVG 图形文档，您可以在不依赖 JavaScript 的情况下保护您的电子邮件地址。这种创新方法提供了一种新方法来保护您的电子邮件地址免受简单垃圾邮件机器人的侵害。]]></description>
+      <guid>https://t.me/hn_summary/89283</guid>
+      <pubDate>Mon, 13 May 2024 07:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的开源 YouTube 到 MP3 下载器项目是一个 Windows 窗体应用程序 [...]</title>
-      <link>https://t.me/hn_summary/89260</link>
-      <description><![CDATA[开源 YouTube 到 MP3 下载器
-GitHub 上的开源 YouTube 到 MP3 下载器项目是一个 C# 语言的 Windows 窗体应用程序，允许用户轻松地将 YouTube 视频下载为 MP3 文件。通过输入 YouTube URL 并单击下载按钮，该应用程序使用 YoutubeExplode 来获取和下载视频，并通过实时进度条向用户更新下载状态。然后，该应用程序使用 MediaToolkit 将视频转换为 MP3，允许用户选择 MP3 文件的保存位置。该过程完成后会弹出完成通知，提供一种用户友好的方式直接从桌面将 YouTube 视频转换为 MP3。]]></description>
-      <guid>https://t.me/hn_summary/89260</guid>
-      <pubDate>Mon, 13 May 2024 02:00:24 GMT</pubDate>
+      <title>[媒体] 为什么要在黑暗中创作艺术？</title>
+      <link>https://t.me/hn_summary/89282</link>
+      <description><![CDATA[为什么要在黑暗中创作艺术？
+在西班牙 Las Chimeneas 洞穴的深处，18,000 年前的古代雄鹿木炭画吸引着游客。为什么我们的祖先在旧石器时代晚期的黑暗洞穴中创造出这种艺术之谜多年来一直困扰着研究人员。理论范围从萨满教仪式到原始书写系统，每种理论都为这些古代艺术家背后的动机提供了独特的视角。这篇文章深入研究了人类视觉感知的复杂性，探讨了我们的大脑如何解释视觉信息和幻想性视错觉现象。这表明我们的祖先可能在洞穴的阴影中看到了动物，利用自然特征将他们的艺术变为现实。 （根据 69% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/89282</guid>
+      <pubDate>Mon, 13 May 2024 07:16:53 GMT</pubDate>
     </item>
     <item>
-      <title>Archie Search 是一个 Web 前端界面，用于在串行端口搜索 Archie 服务器。</title>
-      <link>https://t.me/hn_summary/89259</link>
-      <description><![CDATA[Archie 搜索
-Archie Search 是一个 Web 前端界面，用于在串行端口搜索 Archie 服务器。这种 ArchiePlex 表单由 Martijn Koster 开发，允许用户在 Internet 上的匿名 FTP 站点上查找文件。该站点提供有关可用站点、文件和目录数量的信息，以及数据库统计信息。系统状态和 Prospero 服务器详细信息也会显示。用户可以访问数据库转储来查看站点、端口、IP 地址和索引。请联系串行端口以获取更多信息。]]></description>
-      <guid>https://t.me/hn_summary/89259</guid>
-      <pubDate>Mon, 13 May 2024 01:48:15 GMT</pubDate>
+      <title>Meticulous 是一家总部位于伦敦的 YC 公司，正在通过消除 [...]</title>
+      <link>https://t.me/hn_summary/89281</link>
+      <description><![CDATA[Meticulous (YC S21) 正在招聘以消除 E2E UI 测试
+Meticulous 是一家总部位于伦敦的 YC 公司，通过其创新工具消除了 E2E UI 测试的需要，正在彻底改变前端测试。通过被动记录真实用户会话并在 PR 提交时重播它们，Meticulous 可以捕获 UI 错误和回归，而无需开发人员编写单个测试。该团队由来自顶级科技公司的工程师组成，正在寻找一名创始工程师来帮助构建技术并塑造公司文化。如果您是一位技术出色的工程师，并且强烈渴望改进和协作，Meticulous 希望收到您的来信。请通过 gabe 的 CEO Gabriel 联系，地址为Precious dot ai，主题行中请注明“HN”。]]></description>
+      <guid>https://t.me/hn_summary/89281</guid>
+      <pubDate>Mon, 13 May 2024 07:01:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科技爱好者的激动人心的消息！</title>
-      <link>https://t.me/hn_summary/89258</link>
-      <description><![CDATA[Geekbench 6 中 M4 接近 4000/15000
-对于科技爱好者来说，这是一个令人兴奋的消息！最新的 Geekbench 6 结果显示，M4 处理器得分接近 4000（满分 15000），展示了其令人印象深刻的性能能力。这是 M4 的一个重要里程碑，凸显了其与市场上其他顶级处理器竞争的潜力。请继续关注有关技术领域这一突破性发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/89258</guid>
-      <pubDate>Mon, 13 May 2024 01:47:10 GMT</pubDate>
+      <title>[媒体] NPM 包“is-even”是一个简单的工具，如果给定的数字是偶数，则返回 true。</title>
+      <link>https://t.me/hn_summary/89280</link>
+      <description><![CDATA[NPM 软件包每周下载量甚至超过 14 万次 
+NPM 包“is-even”是一个简单的工具，如果给定的数字是偶数，则返回 true。每周下载量超过 14 万次，对于想要快速检查数字是否为偶数的开发人员来说，它是一个受欢迎的选择。该软件包由 Jon Schlinkert 开发，易于安装并与 npm 一起使用。欢迎贡献，并且可以通过 GitHub 存储库提交错误或功能请求。该软件包已根据 MIT 许可证获得许可，因此可供各种项目使用。凭借其简单的功能和高下载量，“is-even”对于许多开发人员来说是一个有价值的工具。]]></description>
+      <guid>https://t.me/hn_summary/89280</guid>
+      <pubDate>Mon, 13 May 2024 06:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Numbeo 网站上查看 2024 年各国生活成本指数。</title>
-      <link>https://t.me/hn_summary/89257</link>
-      <description><![CDATA[2024 年各国生活成本指数 – Numbeo&lt; br/&gt;
-在 Numbeo 网站上查看 2024 年按国家/地区划分的生活成本指数。该快照提供了当前指数的一瞥，包括租金、杂货、餐厅价格以及当地购买力。令人惊讶的是，百慕大以高生活成本指数位居榜首，而也门和古巴等国家排名较低。有争议的是，美国和瑞士也出现在其中，展示了世界各地不同的生活成本。探索数据，了解不同国家/地区在支出和购买力方面的比较。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89257</guid>
-      <pubDate>Mon, 13 May 2024 01:46:06 GMT</pubDate>
+      <title>[媒体] BC省网络攻击归咎于国家行为者</title>
+      <link>https://t.me/hn_summary/89279</link>
+      <description><![CDATA[国家行为者被指责对 BC 省进行网络攻击政府系统
+BC省公共服务部门负责人透露，某个国家或国家资助的行为者试图通过网络攻击破坏政府系统。州长戴维·伊比宣布了这起袭击事件，目前正在调查以确定涉及的州。公共安全部长迈克·法恩沃斯 (Mike Farnworth) 保证，不会泄露任何敏感信息，也不会要求赎金。这次网络攻击非常复杂，专家将其与外国联系起来。袭击背后的动机仍不清楚。政府每年在网络安全方面的支出超过 2500 万美元，并与联邦合作伙伴密切合作。指示工作人员更改密码，并在安全措施到位后通知公众。]]></description>
+      <guid>https://t.me/hn_summary/89279</guid>
+      <pubDate>Mon, 13 May 2024 06:30:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]澳大利亚初创公司 AMSL Aero 正在测试氢动力电动飞机 Vertiia，[...]</title>
-      <link>https://t.me/hn_summary/89256</link>
-      <description><![CDATA[氢动力飞机获得首个商业订单
-澳大利亚初创公司 AMSL Aero 正在测试一款氢动力电动飞机 Vertiia，这是 AirLink 的第一个商业订单。这项创新技术可以彻底改变航空旅行，其电池可以为小型飞机提供动力，使用氢气可以飞行 1,000 公里。该飞机像直升机一样起飞，像飞机一样飞行，其灵感来自澳大利亚发明家劳伦斯·哈格雷夫。 AMSL Aero 还在开发用于空中消防的无人驾驶飞机。到 2043 年，每年无人机飞行次数将达到 6000 万次，澳大利亚航空业的未来正在寻求可持续且高效的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/89256</guid>
-      <pubDate>Mon, 13 May 2024 01:22:54 GMT</pubDate>
+      <title>GNU LibreJS 是基于 GNU IceCat 和 Mozilla 的浏览器的免费插件，可阻止非自由非 [...]</title>
+      <link>https://t.me/hn_summary/89278</link>
+      <description><![CDATA[GNU LibreJS：阻止 JavaScript 陷阱
+GNU LibreJS 是基于 GNU IceCat 和 Mozilla 的浏览器的免费插件，它阻止非自由的非平凡的 JavaScript，同时允许自由和平凡的 JavaScript。它旨在解决 Richard Stallman 的文章“JavaScript 陷阱”中强调的 JavaScript 问题。用户可以从 GNU 网站或 Mozilla Add-ons 网站下载安装程序，感兴趣的人可以获取源文件。我们鼓励网站管理员自由设置 JavaScript，以尊重用户的自由。 LibreJS 的开发是志愿者的努力，欢迎贡献。该软件由 Ruben Rodriguez 和 Yuchen Pei 根据 GNU 通用公共许可证维护。]]></description>
+      <guid>https://t.me/hn_summary/89278</guid>
+      <pubDate>Mon, 13 May 2024 05:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
