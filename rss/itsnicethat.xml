@@ -3,12 +3,19 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Mon, 13 May 2024 09:17:04 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Mon, 13 May 2024 12:27:17 GMT</lastBuildDate>
+    <item>
+      <title>周的快照动画强调植物的“简单”形状和运动</title>
+      <link>https://www.itsnicethat.com/articles/chou-illustration-animation-discover-130524</link>
+      <description><![CDATA[这些循环动画展示了人类、动物和绿色植物之间的联系。]]></description>
+      <guid>https://www.itsnicethat.com/articles/chou-illustration-animation-discover-130524</guid>
+      <pubDate>Mon, 13 May 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>大卫·威尔逊和巴克为梅布尔制作的新音乐视频“重写”了罪恶的概念</title>
       <link>https://www.itsnicethat.com/articles/david-wilson-buck-look-at-my-body-part-ii-animation-film-project-100524</link>
-      <description><![CDATA[花花公子翻唱即兴重复段、玛丽莲·梦露参考资料和夏娃的苹果：这首歌曲和视频着眼于媒体如何代表和消费身体。]]></description>
+      <description><![CDATA[花花公子翻唱即兴重复段、玛丽莲·梦露参考资料和夏娃的苹果：这首歌和视频着眼于媒体如何代表和消费身体。]]></description>
       <guid>https://www.itsnicethat.com/articles/david-wilson-buck-look-at-my-body-part-ii-animation-film-project-100524</guid>
       <pubDate>Fri, 10 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[继芭比梦幻屋和怪物史莱克高地沼泽设计住宿体验取得巨大成功之后，Airbnb 宣布推出 11 种全新的手工住宿和体验。]]></description>
       <guid>https://www.itsnicethat.com/news/airbnb-icons-launch-up-house-advertising-film-030524</guid>
       <pubDate>Fri, 03 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skittles 品牌的更新是对糖果的怀旧和荒诞品质的“荒谬”认可</title>
-      <link>https://www.itsnicethat.com/articles/elmwood-skittles-graphic-design-project-020524</link>
-      <description><![CDATA[Elmwood London 提升了 Skittles 在实体和数字领域的影响力，而且很有趣。]]></description>
-      <guid>https://www.itsnicethat.com/articles/elmwood-skittles-graphic-design-project-020524</guid>
-      <pubDate>Thu, 02 May 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
