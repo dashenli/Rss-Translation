@@ -4,11 +4,25 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sun, 12 May 2024 21:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:59:43 GMT</lastBuildDate>
+    <item>
+      <title>墨西哥城地铁系统因土地下沉面临危机</title>
+      <link>https://wired.jp/article/mexico-city-metro-sinking-subsidence/</link>
+      <description><![CDATA[在墨西哥首都，不同地方的土地下沉速度不同，危及城市基础设施的稳定性。这对于公共交通来说也是个坏消息。]]></description>
+      <guid>https://wired.jp/article/mexico-city-metro-sinking-subsidence/</guid>
+      <pubDate>Sun, 12 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何防止您的数据被用于训练人工智能</title>
+      <link>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</link>
+      <description><![CDATA[有些应用程序允许您阻止您的内容被用来训练生成人工智能。以下是如何从 ChatGPT 和 Google Gemini 等公司手中夺回控制权（至少在某种程度上）。]]></description>
+      <guid>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</guid>
+      <pubDate>Sun, 12 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最后一刻预测：高级人工智能助手和下一代操作系统会出现吗？ Google 将在“Google I/O 2024”上宣布什么</title>
       <link>https://wired.jp/article/google-io-2024-how-to-watch-what-to-expect/</link>
-      <description><![CDATA[谷歌将于5月14日（美国时间）召开开发者大会“Google I/O”，并将在主题演讲期间公布新技术和软件。我们期待有关人工智能的新消息，甚至可能暗示 Gemini 将如何与 iOS 合作。]]></description>
+      <description><![CDATA[谷歌将于5月14日（美国时间）召开开发者大会“Google I/O”，并将在主题演讲中公布新技术和软件。我们期待有关人工智能的新消息，甚至可能暗示 Gemini 将如何与 iOS 合作。]]></description>
       <guid>https://wired.jp/article/google-io-2024-how-to-watch-what-to-expect/</guid>
       <pubDate>Sun, 12 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>“受人喜爱的建筑”不仅仅由设计创造：系列 The Next Innovators (7) Maki Onishi + Yuki Momota / o+h</title>
       <link>https://wired.jp/article/the-next-innovators-7-maki-onishi-and-yuki-hyakuda/</link>
-      <description><![CDATA[为了改变这个世界，有人不断挑战常识，开辟未开发的道路，创造出无人想象的未来。 “The Next Innovators”系列的第七部分探讨了这种能量的来源，由建筑单位 o+h 的 Maki Onishi 和 Yuki Momota 主演。我们向两位曾担任 2023 年威尼斯双年展国际建筑展日本馆策展人的两位询问了建筑的未来。]]></description>
+      <description><![CDATA[为了改变这个世界，有人不断挑战常识，开辟未开发的道路，创造出无人想象的未来。接近这种能量来源的“下一个创新者”系列的第七部分是建筑单位 o+h 的 Maki Onishi 和 Yuki Hyakuta。我们向两位曾担任 2023 年威尼斯双年展国际建筑展日本馆策展人的两位询问了建筑的未来。]]></description>
       <guid>https://wired.jp/article/the-next-innovators-7-maki-onishi-and-yuki-hyakuda/</guid>
       <pubDate>Sat, 11 May 2024 23:00:00 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>相机智能手机呈现出“相机本身”的维度，小米开启了新视野</title>
       <link>https://wired.jp/article/xiaomi-14-ultra-leica-camera/</link>
-      <description><![CDATA[中国小米将向日本市场推出配备与徕卡联合开发相机的高性能智能手机“小米14 Ultra”。该产品已经达到了可以称为“相机本身”的水平，拥有高性能传感器和能够进行广角到高倍光学变焦的四个镜头。]]></description>
+      <description><![CDATA[中国小米将向日本市场推出配备与徕卡联合开发相机的高性能智能手机“小米14 Ultra”。它是一款已经达到了可以称为“相机本身”的水平的产品，拥有高性能传感器和能够进行广角到高倍光学变焦的四个镜头。]]></description>
       <guid>https://wired.jp/article/xiaomi-14-ultra-leica-camera/</guid>
       <pubDate>Sat, 11 May 2024 07:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[苹果公司已警告 92 个国家的 iPhone 用户，他们正成为间谍软件的目标。该公司已在 150 多个国家/地区检测到间谍软件攻击。很难判断您的设备是否被感染，但您可以采取一些措施来保护自己。]]></description>
       <guid>https://wired.jp/article/apple-iphone-spyware-101/</guid>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeWork 回购失败后 Adam Neumann 的新公司 Flow 会成为竞争对手吗？</title>
-      <link>https://wired.jp/article/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
-      <description><![CDATA[WeWork 创始人 Adam Neumann 回购这家破产公司的尝试实际上已经结束。他的新公司 Flow 为居民开发带有社区和工作空间的租赁住房，有可能与 WeWork 竞争。]]></description>
-      <guid>https://wired.jp/article/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</guid>
-      <pubDate>Thu, 09 May 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 正在探索“正确”生成人工智能色情内容的方法</title>
-      <link>https://wired.jp/article/openai-is-exploring-how-to-responsibly-generate-ai-porn/</link>
-      <description><![CDATA[OpenAI 发布了一份模型规范草案，描述了它希望生成式人工智能如何工作。该规范强调，OpenAI 正在寻找一种方法，以“正确”的方式负责任地生成包含色情内容等露骨内容的内容。]]></description>
-      <guid>https://wired.jp/article/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
-      <pubDate>Thu, 09 May 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
