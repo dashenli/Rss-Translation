@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 13 May 2024 15:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 12:27:40 GMT</lastBuildDate>
+    <item>
+      <title>集体#838</title>
+      <link>https://tympanus.net/codrops/collective/collective-838/</link>
+      <description><![CDATA[TypeSpec * 设计系统的可组合性 * 精致 UI 的小型实验室]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-838/</guid>
+      <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>案例研究：Vendredi 协会</title>
+      <link>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</link>
+      <description><![CDATA[仅仅可见已经不够了。这一切都是为了利用注意力。然后一起前进。已同步。]]></description>
+      <guid>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</guid>
+      <pubDate>Tue, 14 May 2024 10:40:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 SVGator 轻松创建 Lottie 动画（无限免费导出）</title>
       <link>https://tympanus.net/codrops/2024/05/13/how-to-easily-create-lottie-animations-with-svgator-unlimited-free-exports/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[每个前端开发人员都应该知道的延迟数字 * 将 React 放入浏览器 * Franken UI]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-835/</guid>
       <pubDate>Fri, 03 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 WebGL 对纹理过渡和程序径向噪声进行建模</title>
-      <link>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</link>
-      <description><![CDATA[探索两种视觉效果的 WebGL 实验：3D 罐头模型上的纹理过渡和程序径向噪声场。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/</guid>
-      <pubDate>Thu, 02 May 2024 10:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebGPU 中的反应扩散计算着色器</title>
-      <link>https://tympanus.net/codrops/2024/05/01/reaction-diffusion-compute-shader-in-webgpu/</link>
-      <description><![CDATA[了解如何使用 WebGPU 计算着色器创建反应扩散模式。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/01/reaction-diffusion-compute-shader-in-webgpu/</guid>
-      <pubDate>Wed, 01 May 2024 10:20:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
