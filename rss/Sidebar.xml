@@ -4,7 +4,87 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 14 May 2024 06:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 09:17:53 GMT</lastBuildDate>
+    <item>
+      <title>React 无头 UI v2.0</title>
+      <link>https://tailwindcss.com/blog/headless-ui-v2</link>
+      <description><![CDATA[我们刚刚发布了 React 的 Headless UI v2.0，其中包含大量新内容。
+]]></description>
+      <guid>https://tailwindcss.com/blog/headless-ui-v2</guid>
+      <pubDate>Tue, 14 May 2024 07:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>运输船：Vercel Conf 的粒子着色器效果背后</title>
+      <link>https://basement.studio/blog/shipping-ship-behind-the-particle-shader-effect-for-vercel-s-conf</link>
+      <description><![CDATA[看看我们如何在我们为 Vercel Ship 创建的粒子着色器效果中体现这种精神。
+]]></description>
+      <guid>https://basement.studio/blog/shipping-ship-behind-the-particle-shader-effect-for-vercel-s-conf</guid>
+      <pubDate>Tue, 14 May 2024 06:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级范围语法</title>
+      <link>https://cssence.com/2024/superior-range-syntax/</link>
+      <description><![CDATA[关于改进的视口大小媒体查询的另一件事。
+]]></description>
+      <guid>https://cssence.com/2024/superior-range-syntax/</guid>
+      <pubDate>Tue, 14 May 2024 06:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 2023 现状调查结果</title>
+      <link>https://2023.stateofhtml.com/</link>
+      <description><![CDATA[有关 HTML 生态系统最新趋势的年度调查的最新版本现已发布。 
+]]></description>
+      <guid>https://2023.stateofhtml.com/</guid>
+      <pubDate>Tue, 14 May 2024 06:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您需要自定义 @property 而不是 CSS 变量的时代</title>
+      <link>https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</link>
+      <description><![CDATA[Preethi Sam 通过一个示例演示了自定义属性比变量更适合的情况。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</guid>
+      <pubDate>Tue, 14 May 2024 06:54:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 春季更新</title>
+      <link>https://openai.com/index/spring-update/</link>
+      <description><![CDATA[引入 GPT-4o 并在 ChatGPT 中免费提供更多功能。
+]]></description>
+      <guid>https://openai.com/index/spring-update/</guid>
+      <pubDate>Mon, 13 May 2024 06:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作 CSS 形状的现代指南</title>
+      <link>https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/</link>
+      <description><![CDATA[在这份综合指南中，Temani Afif 探索了使用尽可能最小、最灵活的代码创建常见形状的不同技术。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/</guid>
+      <pubDate>Mon, 13 May 2024 06:46:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>人道网络宣言</title>
+      <link>https://humanewebmanifesto.com/</link>
+      <description><![CDATA[我们需要建立一个更好的网络。一个由人类创造并为人类服务的网络。
+]]></description>
+      <guid>https://humanewebmanifesto.com/</guid>
+      <pubDate>Mon, 13 May 2024 06:46:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 useDeferredValue 进行 Snappy UI 优化</title>
+      <link>https://www.joshwcomeau.com/react/use-deferred-value/</link>
+      <description><![CDATA[useDeferredValue 是最被低估的 React hook 之一。 
+]]></description>
+      <guid>https://www.joshwcomeau.com/react/use-deferred-value/</guid>
+      <pubDate>Mon, 13 May 2024 06:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂的棍子</title>
+      <link>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</link>
+      <description><![CDATA[工具的兴起适用于一切，但没有什么特别的。
+]]></description>
+      <guid>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</guid>
+      <pubDate>Mon, 13 May 2024 06:43:49 GMT</pubDate>
+    </item>
     <item>
       <title>酷查询</title>
       <link>https://www.csscade.com/cool-queries</link>
@@ -44,86 +124,6 @@
 ]]></description>
       <guid>https://endlesstools.io/</guid>
       <pubDate>Fri, 10 May 2024 04:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Popover API 登陆 Baseline</title>
-      <link>https://web.dev/blog/popover-api</link>
-      <description><![CDATA[popover API 登陆所有现代浏览器引擎。
-]]></description>
-      <guid>https://web.dev/blog/popover-api</guid>
-      <pubDate>Thu, 09 May 2024 04:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据新闻领域的人工智能</title>
-      <link>https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/</link>
-      <description><![CDATA[上个月，我在 Big Local News 在斯坦福大学举办的大规模故事发现数据新闻会议上发表了演讲。
-]]></description>
-      <guid>https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/</guid>
-      <pubDate>Thu, 09 May 2024 04:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>发射和光晕</title>
-      <link>https://www.donmccurdy.com/2024/04/27/emission-and-bloom</link>
-      <description><![CDATA[解释发射和光晕后处理效果之间的关系，以及如何在实时 3D 场景中有效地使用它们。
-]]></description>
-      <guid>https://www.donmccurdy.com/2024/04/27/emission-and-bloom</guid>
-      <pubDate>Thu, 09 May 2024 04:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 JavaScript 的五个基本知识将有助于非 JS 的 Web 设计师</title>
-      <link>https://frontendmasters.com/blog/5-things-designers-can-do-with-javascript/</link>
-      <description><![CDATA[假设您不了解 JavaScript。您是一名网页设计师，主要关注 UI 和 UX。 
-]]></description>
-      <guid>https://frontendmasters.com/blog/5-things-designers-can-do-with-javascript/</guid>
-      <pubDate>Thu, 09 May 2024 04:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>肉身人类的人工智能安全：旋风之旅</title>
-      <link>https://aisafety.dance/</link>
-      <description><![CDATA[您一站式了解人​​工智能和人工智能的所有核心思想。人工智能安全！
-]]></description>
-      <guid>https://aisafety.dance/</guid>
-      <pubDate>Thu, 09 May 2024 04:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于突出显示文本的简要说明</title>
-      <link>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</link>
-      <description><![CDATA[如果您打算设置浏览器突出显示的文本样式，则必须为其提供足够的对比度。
-]]></description>
-      <guid>https://adrianroselli.com/2024/05/a-brief-note-on-highlighted-text.html</guid>
-      <pubDate>Wed, 08 May 2024 11:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能驱动的设计模式的兴起</title>
-      <link>https://uxdesign.cc/the-rise-of-generative-ai-driven-design-patterns-177cb1380b23</link>
-      <description><![CDATA[生成式人工智能的进步如何帮助塑造功能设计的未来，从增强内容交互到更明智的决策。
-]]></description>
-      <guid>https://uxdesign.cc/the-rise-of-generative-ai-driven-design-patterns-177cb1380b23</guid>
-      <pubDate>Wed, 08 May 2024 11:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>蝉鸣升起：2024 年罕见双重亮相的视觉指南</title>
-      <link>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</link>
-      <description><![CDATA[当蝉以 200 多年来从未出现过的历史性出现首次亮相时，我们可以期待以下结果。
-]]></description>
-      <guid>https://edition.cnn.com/interactive/2024/04/us/periodical-cicada-2024-visual-guide-scn-dg/</guid>
-      <pubDate>Wed, 08 May 2024 11:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>保持一致：开发工具 UI 的 5 种基本设计模式</title>
-      <link>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</link>
-      <description><![CDATA[如果您不熟悉开发工具设计，这篇文章提供了现实生活中的 UI 示例和分析，因此您可以在创纪录的时间内开始工作。
-]]></description>
-      <guid>https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis</guid>
-      <pubDate>Wed, 08 May 2024 06:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：塞拉。金融应用程序的身份和产品设计</title>
-      <link>https://blog.tubikstudio.com/case-study-identity-product-design-financial-app/</link>
-      <description><![CDATA[金融应用程序 Serra 的品牌标识和用户体验设计的创意流程。
-]]></description>
-      <guid>https://blog.tubikstudio.com/case-study-identity-product-design-financial-app/</guid>
-      <pubDate>Wed, 08 May 2024 06:10:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,12 +3,26 @@
   <channel>
     <title>这很好</title>
     <link>https://www.itsnicethat.com/articles.atom</link>
-    <description>It's Nice 坚信创意灵感适合每个人</description>
-    <lastBuildDate>Tue, 14 May 2024 06:21:26 GMT</lastBuildDate>
+    <description>It's Nice that 坚信创意灵感适合每个人</description>
+    <lastBuildDate>Tue, 14 May 2024 09:17:11 GMT</lastBuildDate>
     <item>
-      <title>本周《如果你能》：在 Buff Motion、日常生活实践等领域发现机会</title>
+      <title>拉各斯的观点：尼日利亚酷儿艺术家不惜一切代价扩大 LGBTQ+ 的声音</title>
+      <link>https://www.itsnicethat.com/articles/the-view-from-lagos-queer-lgbtq-nigerian-art-140524</link>
+      <description><![CDATA[在他的第一篇专栏中，我们的拉各斯记者 Ugonna-Ora Owoh 采访了尼日利亚艺术家，他们违反了反 LGBTQ+ 法律，以创作表达自己故事的艺术。]]></description>
+      <guid>https://www.itsnicethat.com/articles/the-view-from-lagos-queer-lgbtq-nigerian-art-140524</guid>
+      <pubDate>Tue, 14 May 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高航近距离接触电子游戏角色并为他们作画</title>
+      <link>https://www.itsnicethat.com/articles/gao-hang-you-see-you-are-also-simulated-art-project-140524</link>
+      <description><![CDATA[这位艺术家仍然记得他第一次接触 3D 视频游戏时所感受到的震撼，从那时起他就一直试图重温它。]]></description>
+      <guid>https://www.itsnicethat.com/articles/gao-hang-you-see-you-are-also-simulated-art-project-140524</guid>
+      <pubDate>Tue, 14 May 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周《如果你能》：在 Buff Motion、日常生活实践等中发现机会</title>
       <link>https://www.itsnicethat.com/news/if-you-could-jobs-130524</link>
-      <description><![CDATA[查看发布到我们姐妹网站“If You Could Jobs”上的所有最新职位。]]></description>
+      <description><![CDATA[查看我们的姊妹网站“If You Could Jobs”上发布的所有最新职位。]]></description>
       <guid>https://www.itsnicethat.com/news/if-you-could-jobs-130524</guid>
       <pubDate>Mon, 13 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>Bre Furlong 的《半空》很好地总结了母乳喂养</title>
       <link>https://www.itsnicethat.com/articles/bre-furlong-half-empty-photography-project-090524</link>
-      <description><![CDATA[该照片系列的重点是母乳喂养的人都非常熟悉的蜉蝣，使其具有相关性和情感上的挑衅性。]]></description>
+      <description><![CDATA[该系列照片的重点是母乳喂养的人都非常熟悉的蜉蝣，使其具有相关性和情感上的挑衅性。]]></description>
       <guid>https://www.itsnicethat.com/articles/bre-furlong-half-empty-photography-project-090524</guid>
       <pubDate>Thu, 09 May 2024 10:30:00 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>Frontify 的新访谈系列中，创意专家回答了您关于 AI 的紧迫问题</title>
       <link>https://www.itsnicethat.com/articles/frontify-being-creative-in-an-ai-world-creative-industry-sponsored-content-070523</link>
-      <description><![CDATA[随附的指南包括有关如何使用机器学习来增强创造力而不是使其失效的技巧，并深入探讨了为什么人工智能永远不应该取代人类联系。]]></description>
+      <description><![CDATA[随附的指南包括有关如何使用机器学习来增强创造力而不是使其失效的提示，并深入探讨了为什么人工智能永远不应该取代人类联系。]]></description>
       <guid>https://www.itsnicethat.com/articles/frontify-being-creative-in-an-ai-world-creative-industry-sponsored-content-070523</guid>
       <pubDate>Tue, 07 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>weeseventeen、Found 等的新创意机会</title>
-      <link>https://www.itsnicethat.com/news/if-you-could-jobs-070524</link>
-      <description><![CDATA[查看发布到我们姐妹网站“If You Could Jobs”上的所有最新职位。]]></description>
-      <guid>https://www.itsnicethat.com/news/if-you-could-jobs-070524</guid>
-      <pubDate>Tue, 07 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>剖析不完美：Stefano Colferai 有趣的日常生活定格动画的内部</title>
-      <link>https://www.itsnicethat.com/articles/stefano-colferai-animation-project-070424</link>
-      <description><![CDATA[挖鼻孔、与 FOMO 作斗争、制作花生酱和果冻，并尝试倒立。这位艺术家动画师让日常生活变得有趣超现实。]]></description>
-      <guid>https://www.itsnicethat.com/articles/stefano-colferai-animation-project-070424</guid>
-      <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
