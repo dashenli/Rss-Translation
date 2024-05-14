@@ -3,8 +3,15 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 13 May 2024 21:16:24 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Tue, 14 May 2024 00:59:04 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 512：优点是小船</title>
+      <link>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</link>
+      <description><![CDATA[新款 iPad Pro 来了，Jason 与 Federico Viticci 一起讨论新型号、Jason 的评论以及 iPadOS 的局限性。斯蒂芬·哈克特加入节目并不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</guid>
+      <pubDate>Mon, 13 May 2024 21:11:48 GMT</pubDate>
+    </item>
     <item>
       <title>M4 iPad Pro 评测：我们又来了</title>
       <link>https://sixcolors.com/post/2024/05/m4_ipad_pro_review/</link>
@@ -69,7 +76,7 @@
     <item>
       <title>（播客）升级 511：抱抱你真好</title>
       <link>https://sixcolors.com/podcast/2024/05/upgrade-511-youre-nice-to-hold/</link>
-      <description><![CDATA[Jason（纽约）和 Myke（伦敦）都已试用了新 iPad，并在此报告所有详细信息。我们讨论 M4 的惊喜、iPad Air 的选择、iPad Pro 的使用案例，并为 Lawyer Up 节省一点时间。…]]></description>
+      <description><![CDATA[Jason（纽约）和 Myke（伦敦）都已经试用了新 iPad，并在此报告所有详细信息。我们讨论 M4 的惊喜、iPad Air 的选择、iPad Pro 的使用案例，并为 Lawyer Up 节省一点时间。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-511-youre-nice-to-hold/</guid>
       <pubDate>Wed, 08 May 2024 00:05:19 GMT</pubDate>
     </item>
@@ -112,13 +119,6 @@
       <description><![CDATA[以下是根据苹果 2024 年第二季度财务业绩发布后分析师与高管的电话会议得出的一些不同看法。对于苹果营收持平、利润超过 200 亿美元的“无聊”季度，仍然有一些花絮。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/parsing-apples-quarterly-statements-from-ai-to-india/</guid>
       <pubDate>Fri, 03 May 2024 22:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 68：温柔的嗡嗡声</title>
-      <link>https://sixcolors.com/podcast/2024/05/downstream-68-gentle-hum/</link>
-      <description><![CDATA[我们重新审视了狂放与每周发布的哲学——因为它很复杂。 [Downstream+ 成员还可以听到我们讨论派拉蒙的未来、复杂的 NBA 版权谈判以及更多 RSN 戏剧。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/downstream-68-gentle-hum/</guid>
-      <pubDate>Fri, 03 May 2024 22:39:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
