@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Wed, 15 May 2024 06:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 09:18:03 GMT</lastBuildDate>
+    <item>
+      <title>移动环境的一切都将因“双子座”而彻底改变：谷歌高管谈AI驱动的Android进化</title>
+      <link>https://wired.jp/article/google-io-gemini-on-android-circle-to-search/</link>
+      <description><![CDATA[在谷歌开发者大会“Google I/O”上，利用人工智能的新功能陆续发布。未来Android移动操作系统将会带来怎样的演变？我问了两位谷歌高管。]]></description>
+      <guid>https://wired.jp/article/google-io-gemini-on-android-circle-to-search/</guid>
+      <pubDate>Wed, 15 May 2024 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI首席科学家领衔“奥特曼开枪大戏”，引发涟漪 首席科学家宣布辞职</title>
       <link>https://wired.jp/article/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在墨西哥首都，不同地方的土地下沉速度不同，危及城市基础设施的稳定性。这对于公共交通来说也是个坏消息。]]></description>
       <guid>https://wired.jp/article/mexico-city-metro-sinking-subsidence/</guid>
       <pubDate>Sun, 12 May 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止您的数据被用于训练人工智能</title>
-      <link>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</link>
-      <description><![CDATA[有些应用程序允许您阻止您的内容被用来训练生成人工智能。以下是如何从 ChatGPT 和 Google Gemini 等公司手中夺回控制权（至少在某种程度上）。]]></description>
-      <guid>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</guid>
-      <pubDate>Sun, 12 May 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
