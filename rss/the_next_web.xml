@@ -3,8 +3,22 @@
   <channel>
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
-    <description>T 世代的原创且自以为是的观点</description>
-    <lastBuildDate>Wed, 15 May 2024 09:17:51 GMT</lastBuildDate>
+    <description>T 世代的原创且自信的观点</description>
+    <lastBuildDate>Wed, 15 May 2024 12:28:31 GMT</lastBuildDate>
+    <item>
+      <title>与英特尔不同，台积电不出售 ASML 的新芯片制造机器</title>
+      <link>https://thenextweb.com/news/unlike-intel-tsmc-isnt-sold-asml-new-chipmaking-machines</link>
+      <description><![CDATA[当英特尔在 ASML 最新的高 NA EUV 芯片制造机上押下重注时，台湾半导体巨头台积电正在考虑选择退出。周二在阿姆斯特丹举行的一次会议上，台积电高级副总裁张凯文告诉记者，ASML 的新设备价格太高。这家荷兰芯片制造商的高数值孔径 EUV 机器代表了下一代极紫外 (EUV) 光刻技术，该技术利用光在硅晶圆上绘制芯片设计。据 ASML 称，这些机器可以制造更快、更节能的芯片。据报道，它们的成本约为 3.5 亿欧元 - 相比之下…这个故事在 The Next Web 继续或者只是阅读有关以下内容的更多报道：英特尔]]></description>
+      <guid>https://thenextweb.com/news/unlike-intel-tsmc-isnt-sold-asml-new-chipmaking-machines</guid>
+      <pubDate>Wed, 15 May 2024 11:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>芬兰初创企业即将获得“所有欧盟官方语言”的法学硕士学位</title>
+      <link>https://thenextweb.com/news/silo-ai-launches-multilingual-viking-llm</link>
+      <description><![CDATA[一家芬兰初创公司今天推出了多语言人工智能模型，这是迈向该公司表示，每种欧盟语言的法学硕士。总部位于赫尔辛基的 Silo AI 将新的大型语言模型称为 Viking 7B。它涵盖丹麦语、芬兰语、冰岛语、挪威语和瑞典语，以及英语和编程语言。评估表明所有北欧语言的性能都是一流的 - 并且不影响英语输出。 Silo AI 首席执行官 Peter Sarlin 告诉 TNW，他的公司现在正朝着最终目标“走在正确的轨道上”。 “此版本标志着我们不断努力开发高性能语言的重要一步…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/silo-ai-launches-multilingual-viking-llm</guid>
+      <pubDate>Wed, 15 May 2024 10:11:00 GMT</pubDate>
+    </item>
     <item>
       <title>软件开发人员发展职业生涯应考虑的 7 个认证</title>
       <link>https://thenextweb.com/news/7-certifications-software-developers-grow-career</link>
@@ -22,12 +36,12 @@
     <item>
       <title>挪威初创公司训练人工智能预测自然灾害</title>
       <link>https://thenextweb.com/news/norwegian-startup-7analytics-training-ai-predict-floods</link>
-      <description><![CDATA[挪威初创公司 7Analytics 已获得 400 万欧元资金，用于帮助预测下一次大洪水或山体滑坡。这家总部位于卑尔根的公司利用从天气到土地利用等各种数据的大量数据来训练机器学习算法。然后，人工智能学会以米级精度预测自然灾害将如何发生。天气预报会告诉您暴风雨即将来临的时间，而 7Analytics 会准确告诉您这场暴风雨中的水将如何流过您的社区。这些见解显示在仪表板上。企业和政府可以使用该平台来衡量建筑物或道路等个人资产的风险。 …这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[挪威初创公司 7Analytics 已获得 400 万欧元资金，用于帮助预测下一次大洪水或山体滑坡。这家总部位于卑尔根的公司利用从天气到土地利用等各种数据的大量数据来训练机器学习算法。然后，人工智能学会以米级精度预测自然灾害将如何发生。天气预报会告诉您暴风雨即将来临的时间，而 7Analytics 会准确告诉您这场暴风雨中的水将如何流经您的社区。这些见解显示在仪表板上。企业和政府可以使用该平台来衡量建筑物或道路等个人资产的风险。 …这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/norwegian-startup-7analytics-training-ai-predict-floods</guid>
       <pubDate>Wed, 15 May 2024 06:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲，遇见 Claude：Anthropic 的 ChatGPT 竞争对手终于在欧盟上市</title>
+      <title>欧洲，遇见 Claude：Anthropic 的 ChatGPT 竞争对手终于在欧盟推出</title>
       <link>https://thenextweb.com/news/europe-meet-claude-anthropics-chatgpt-rival-finally-available-in-the-eu</link>
       <description><![CDATA[从今天开始，欧洲用户可以访问亚马逊支持的人工智能初创公司 Claude Anthropic 真正的 ChatGPT 竞争者。有一些公司名称已成为生成式人工智能出现的代名词。随着 ChatGPT 变得家喻户晓，OpenAI 可能拥有先发优势。然而，其他人也一直在忙于磨练他们的技术和算法。当 Anthropic 在 2024 年 3 月首次向公众发布其最新的大语言模型（LLM）家族 Claude 3 时，我们 TNW 编辑团队自然非常兴奋地尝试它。唉，我们的尝试遭到了挫败，因为我们面临着…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/europe-meet-claude-anthropics-chatgpt-rival-finally-available-in-the-eu</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[在绿色转型方面，欧盟正在大谈一场。尽管脱碳在多个领域遭到了强烈的政治抵制，但事实证明，一个领域无疑是成功的——EuroHPC 超级计算机的能源效率。这家欧洲合资企业的第一台百亿亿次超级计算机 JUPITER 目前正在德国北莱茵-威斯特法伦州的于利希研究中心建造。它的第一个前驱模块被命名为 JEDI（如果你问我们，这个消息显然应该在 5 月 4 日发布）并于 4 月份安装。除了为一些书呆子提供终极缩写机会之外，Jupiter Exascale 开发仪器…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-jedi-supercomputer-most-energy-efficient-hpc-system-world</guid>
       <pubDate>Mon, 13 May 2024 15:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称半导体巨头 Arm 将于明年推出人工智能芯片</title>
-      <link>https://thenextweb.com/news/semiconductor-giant-arm-launch-ai-chips-next-year</link>
-      <description><![CDATA[总部位于英国的 Arm 是全球芯片市场的主要参与者之一，据报道，该公司计划进军人工智能芯片的开发。 Arm 设计（主要）消费电子芯片的构建架构，并将其授权给高通和英伟达等半导体巨头。该公司声称其技术为市场上 99% 的高端智能手机提供支持。日本软银集团持有这家芯片设计公司 90% 的股份。据《日经亚洲》报道，软银集团向人工智能芯片迈进是其成为人工智能领域一股力量的雄心的一部分。论文称，Arm 将设立专门的 AI…这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/semiconductor-giant-arm-launch-ai-chips-next-year</guid>
-      <pubDate>Mon, 13 May 2024 15:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国完成全球首次量子导航飞行，可取代 GPS</title>
-      <link>https://thenextweb.com/news/uk-quantum-navigation-world-first-flight-replace-gps</link>
-      <description><![CDATA[英国政府资助的英国财团已成功测试了所谓的“不可干扰”量子飞行中的导航技术。地缘政治紧张局势和战争导致 GPS 干扰成为扰乱敌方通信和导航的一种手段。这可能会对军事和民用运输以及定位服务造成干扰。基于量子的导航系统称为定位、导航和授时（PNT）。其开发商是量子技术公司 Infleqtion 的英国子公司，与航空航天公司 BAE Systems 和国防技术承包商 QinetiQ 等合作。所讨论的技术包括 Infleqtion 的 Tiqker 光学原子钟，以及这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/uk-quantum-navigation-world-first-flight-replace-gps</guid>
-      <pubDate>Mon, 13 May 2024 13:21:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
