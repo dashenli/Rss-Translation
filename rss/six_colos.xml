@@ -4,13 +4,27 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 15 May 2024 15:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 21:16:15 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 554：Dealee Bobs</title>
+      <link>https://sixcolors.com/podcast/2024/05/clockwise-554-dealee-bobs/</link>
+      <description><![CDATA[我们的 Apple Watch 交互频率、对 Spotify 的“日列表”和我们理想的播放列表名称的想法、对 Google I/O 上的 Google AI 功能的兴趣，以及“One Bag Travel”的基本旅行技术。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/clockwise-554-dealee-bobs/</guid>
+      <pubDate>Wed, 15 May 2024 20:15:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 495：用一片奶酪实现反弹</title>
+      <link>https://sixcolors.com/podcast/2024/05/the-rebound-495-get-that-down-to-one-slice-of-cheese/</link>
+      <description><![CDATA[我们对人工智能事件、iPad 和 John Ternus 的反应。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-495-get-that-down-to-one-slice-of-cheese/</guid>
+      <pubDate>Wed, 15 May 2024 18:16:48 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 辅助功能预览：Speech、CarPlay 和 Vision Pro 的更多内容</title>
       <link>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</link>
       <description><![CDATA[​
-Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
-今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年对传统视觉、声音和身体/运动类别的扩展。 p&gt;]]></description>
+Vision Pro 的实时字幕可将口语转换为屏幕上的文本。
+Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度庆祝活动，延续了去年的扩展，超越了传统的视觉、声音和身体/运动类别。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</guid>
       <pubDate>Wed, 15 May 2024 14:00:08 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <title>（赞助商）回顾米高梅黑客事件的烟雾和镜子</title>
       <link>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</link>
       <description><![CDATA[&lt;图标题&gt;
-2023 年 9 月的米高梅黑客攻击很快成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道了坏掉的老虎机、愤怒的酒店客人，以及引发这一切的米高梅服务台致命的网络钓鱼电话。…]]></description>
+2023 年 9 月的米高梅黑客攻击很快成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道了坏掉的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台致命的网络钓鱼电话。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
       <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
     </item>
@@ -65,7 +79,7 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
       <link>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</link>
       <description><![CDATA[感谢 Magic Lasso Adblock 赞助六色周。
-作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
+作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 – 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</guid>
       <pubDate>Fri, 10 May 2024 16:00:25 GMT</pubDate>
     </item>
@@ -106,22 +120,6 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <description><![CDATA[苹果公司宣布周二是 iPad 历史上自 2010 年推出该产品以来最重要的日子。我不确定我是否会走那么远。诚然，这是一件大事，但 2015 年第一代 iPad Pro 和 Apple Pencil 的发布以及 2018 年重新设计的 iPad Pro 和 Apple Pencil 2 的发布也是如此。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/some-hands-on-ipad-event-impressions/</guid>
       <pubDate>Wed, 08 May 2024 02:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 511：抱抱你真好</title>
-      <link>https://sixcolors.com/podcast/2024/05/upgrade-511-youre-nice-to-hold/</link>
-      <description><![CDATA[Jason（纽约）和 Myke（伦敦）都已试用了新 iPad，并在此报告所有详细信息。我们讨论 M4 的惊喜、iPad Air 的选择、iPad Pro 的使用案例，并为 Lawyer Up 节省一点时间。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/upgrade-511-youre-nice-to-hold/</guid>
-      <pubDate>Wed, 08 May 2024 00:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 在新款 iPad Pro 机型中采用 M4 芯片 ↦</title>
-      <link>https://sixcolors.com/link/2024/05/apples-binning-m4-chips-in-the-new-ipad-pro-models/</link>
-      <description><![CDATA[韦斯·戴维斯 (Wes Davis) 在 The Verge 上撰文：
-&lt;块引用&gt;
-  新发布的 iPad Pro 隐藏了苹果在今天的活动中没有提及的一个偷偷摸摸的升级选项。当你支付 600 美元从 256GB 基本型号 iPad Pro 升级到 1TB 版本时，苹果不仅将 RAM 增加了一倍，还内置了更快的芯片，从九核 M4 芯片开始到 10 核版本。...]]></description>
-      <guid>https://sixcolors.com/link/2024/05/apples-binning-m4-chips-in-the-new-ipad-pro-models/</guid>
-      <pubDate>Tue, 07 May 2024 19:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
