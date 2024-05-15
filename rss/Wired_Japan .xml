@@ -3,10 +3,10 @@
   <channel>
     <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 15 May 2024 03:18:30 GMT</lastBuildDate>
+    <description>来自wired.jp的最新消息</description>
+    <lastBuildDate>Wed, 15 May 2024 06:19:36 GMT</lastBuildDate>
     <item>
-      <title>主导“奥特曼解雇大戏”的OpenAI首席科学家引发涟漪 首席科学家宣布辞职</title>
+      <title>OpenAI首席科学家领衔“奥特曼开枪大戏”，引发涟漪 首席科学家宣布辞职</title>
       <link>https://wired.jp/article/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</link>
       <description><![CDATA[OpenAI 首席科学家 Ilya Satskyvar 宣布将离开公司。新版ChatGPT发布仅一天后，这一突如其来的消息就在业界引起了轩然大波。]]></description>
       <guid>https://wired.jp/article/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</guid>
@@ -55,9 +55,9 @@
       <pubDate>Tue, 14 May 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>配备M4的iPad Pro评测：更薄、更轻、更强大，但好处尚不清楚</title>
+      <title>搭载M4的“iPad Pro”评测：更薄、更轻、更强大，但优势尚不明确</title>
       <link>https://wired.jp/article/apple-ipad-pro-m4-2024-review/</link>
-      <description><![CDATA[苹果的 iPad Pro 现已进入第七代，更薄、更轻，有两种屏幕尺寸：11 英寸和 13 英寸。虽然通过安装“M4”芯片，性能有了很大的提升，但在易用性上并没有太大的区别，给人的感觉是有点令人失望。]]></description>
+      <description><![CDATA[苹果的 iPad Pro 现已进入第七代，更薄、更轻，有两种屏幕尺寸：11 英寸和 13 英寸。虽然随着“M4”芯片的加入，性能有了显着提升，但在可用性上并没有太大的区别，这给人的感觉有点令人失望。]]></description>
       <guid>https://wired.jp/article/apple-ipad-pro-m4-2024-review/</guid>
       <pubDate>Tue, 14 May 2024 06:30:00 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 14 May 2024 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>东京大学与索尼打造的“跨界课堂”：跨界未来共创社交协作课程开课了！</title>
+      <title>东京大学与索尼打造的“跨界课堂”：跨界未来共创社交协作课程开启！</title>
       <link>https://wired.jp/article/creative-futurists-initiative/</link>
       <description><![CDATA[东京大学研究生院信息研究科与索尼集团合作推出“跨境未来共创社会协作课程”。课程的主题是超越学术和领域界限，创造新的创造力。本课程的一部分内容将在课程开始前举行的启动研讨会上解读。]]></description>
       <guid>https://wired.jp/article/creative-futurists-initiative/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>ChatGPT 已经变得更加“人性化”。 OpenAI最新模型“GPT-4o”的强大功能</title>
       <link>https://wired.jp/article/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</link>
-      <description><![CDATA[OpenAI发布了新的AI模型“GPT-4o”。通过在这个新模型上运行 ChatGPT，可以与聊天机器人进行流畅、自然的语音对话。这种情况比以往任何时候都更加丰富情感，让人想起人类。]]></description>
+      <description><![CDATA[OpenAI 宣布了新的人工智能模型“GPT-4o”。通过在这个新模型上运行 ChatGPT，可以与聊天机器人进行流畅、自然的语音对话。这种情况比以往任何时候都更加丰富情感，让人想起人类。]]></description>
       <guid>https://wired.jp/article/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
       <pubDate>Mon, 13 May 2024 22:40:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>如何防止您的数据被用于训练人工智能</title>
       <link>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</link>
-      <description><![CDATA[有些应用程序允许您阻止您的内容被用于训练生成人工智能。以下是如何从 ChatGPT 和 Google Gemini 等公司手中夺回控制权（至少在某种程度上）。]]></description>
+      <description><![CDATA[有些应用程序允许您阻止您的内容被用来训练生成人工智能。以下是如何从 ChatGPT 和 Google Gemini 等公司手中夺回控制权（至少在某种程度上）。]]></description>
       <guid>https://wired.jp/article/sz-how-to-stop-your-data-from-being-used-to-train-ai/</guid>
       <pubDate>Sun, 12 May 2024 22:00:00 GMT</pubDate>
     </item>
