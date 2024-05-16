@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 16 May 2024 01:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 03:19:07 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能是完全无耻的。我想成为它</title>
+      <link>https://www.wired.com/story/generative-ai-totally-shameless/</link>
+      <description><![CDATA[我最喜欢的是让人工智能成为一场灾难的品质：如果它看到一个空间，它就会用废话填满它。
+]]></description>
+      <guid>https://www.wired.com/story/generative-ai-totally-shameless/</guid>
+      <pubDate>Wed, 15 May 2024 02:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>活跃用户入职</title>
+      <link>https://lawsofux.com/articles/2024/onboarding-for-active-users/</link>
+      <description><![CDATA[新手引导的设计应考虑到活跃用户，以便在整个产品体验过程中提供指导。
+]]></description>
+      <guid>https://lawsofux.com/articles/2024/onboarding-for-active-users/</guid>
+      <pubDate>Wed, 15 May 2024 02:36:12 GMT</pubDate>
+    </item>
     <item>
       <title>React 无头 UI v2.0</title>
       <link>https://tailwindcss.com/blog/headless-ui-v2</link>
@@ -78,9 +94,9 @@
       <pubDate>Mon, 13 May 2024 06:44:16 GMT</pubDate>
     </item>
     <item>
-      <title>复杂的棍棒</title>
+      <title>复杂的棍子</title>
       <link>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</link>
-      <description><![CDATA[各种工具的兴起，但没有什么特别的。
+      <description><![CDATA[工具的兴起适用于一切，但没有什么特别的。
 ]]></description>
       <guid>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</guid>
       <pubDate>Mon, 13 May 2024 06:43:49 GMT</pubDate>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://www.nubero.ch/blog/011/</guid>
       <pubDate>Fri, 10 May 2024 04:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>流场</title>
-      <link>https://emildziewanowski.com/flowfields/</link>
-      <description><![CDATA[不使用计算流体动力学的复杂流场。
-]]></description>
-      <guid>https://emildziewanowski.com/flowfields/</guid>
-      <pubDate>Fri, 10 May 2024 04:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>无尽的工具</title>
-      <link>https://endlesstools.io/</link>
-      <description><![CDATA[用于创建 3D 资产、社交媒体关键视觉效果、身份元素以及其他营销和设计需求的无编码工具。
-]]></description>
-      <guid>https://endlesstools.io/</guid>
-      <pubDate>Fri, 10 May 2024 04:43:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
