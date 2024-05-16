@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 16 May 2024 03:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 06:17:50 GMT</lastBuildDate>
+    <item>
+      <title>人工智能幻觉示例及其发生原因</title>
+      <link>https://journal.everypixel.com/ai-hallucination-examples</link>
+      <description><![CDATA[人工智能的复活节彩蛋：模因引用、重复、偏见和其他人工智能幻觉
+]]></description>
+      <guid>https://journal.everypixel.com/ai-hallucination-examples</guid>
+      <pubDate>Thu, 16 May 2024 05:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共情节</title>
+      <link>https://perthirtysix.com/communal-plot-daily-poll</link>
+      <description><![CDATA[以交互方式回复每日民意调查，并实时查看您的回复与其他人的回复相比如何！
+]]></description>
+      <guid>https://perthirtysix.com/communal-plot-daily-poll</guid>
+      <pubDate>Wed, 15 May 2024 02:38:42 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智能是完全无耻的。我想成为它</title>
       <link>https://www.wired.com/story/generative-ai-totally-shameless/</link>
@@ -96,7 +112,7 @@
     <item>
       <title>复杂的棍子</title>
       <link>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</link>
-      <description><![CDATA[工具的兴起适用于一切，但没有什么特别的。
+      <description><![CDATA[各种工具的兴起，但没有什么特别的。
 ]]></description>
       <guid>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</guid>
       <pubDate>Mon, 13 May 2024 06:43:49 GMT</pubDate>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://www.csscade.com/cool-queries</guid>
       <pubDate>Fri, 10 May 2024 04:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户体验的代理时代</title>
-      <link>https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b</link>
-      <description><![CDATA[数字体验的未来就在眼前 - 但它正在被分解成微观的用例。
-]]></description>
-      <guid>https://uxdesign.cc/the-agentic-era-of-ux-4b58634e410b</guid>
-      <pubDate>Fri, 10 May 2024 04:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>易读性的基础知识</title>
-      <link>https://www.nubero.ch/blog/011/</link>
-      <description><![CDATA[非印刷师的简短指南。
-]]></description>
-      <guid>https://www.nubero.ch/blog/011/</guid>
-      <pubDate>Fri, 10 May 2024 04:52:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
