@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 16 May 2024 18:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 21:16:53 GMT</lastBuildDate>
     <item>
       <title>苹果宣布推出新的辅助功能，包括眼动追踪</title>
       <link>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</link>
@@ -14,7 +14,7 @@
       <pubDate>Thu, 16 May 2024 05:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>经典的边界半径建议，加上一个不寻常的技巧</title>
+      <title>经典的边框半径建议，加上一个不寻常的技巧</title>
       <link>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</link>
       <description><![CDATA[当您使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素的半径。 
 ]]></description>
@@ -86,7 +86,7 @@
       <pubDate>Wed, 15 May 2024 02:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>React 无头 UI v2.0</title>
+      <title>React 的 Headless UI v2.0</title>
       <link>https://tailwindcss.com/blog/headless-ui-v2</link>
       <description><![CDATA[我们刚刚发布了 React 的 Headless UI v2.0，其中包含大量新内容。
 ]]></description>
@@ -96,7 +96,7 @@
     <item>
       <title>运输船：Vercel Conf 的粒子着色器效果背后</title>
       <link>https://basement.studio/blog/shipping-ship-behind-the-particle-shader-effect-for-vercel-s-conf</link>
-      <description><![CDATA[看看我们如何在我们为 Vercel Ship 创建的粒子着色器效果中体现这种精神。
+      <description><![CDATA[看看我们为 Vercel Ship 创建的粒子着色器效果如何将这种精神变为现实。
 ]]></description>
       <guid>https://basement.studio/blog/shipping-ship-behind-the-particle-shader-effect-for-vercel-s-conf</guid>
       <pubDate>Tue, 14 May 2024 06:59:18 GMT</pubDate>
