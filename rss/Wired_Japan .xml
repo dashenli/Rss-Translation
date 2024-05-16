@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 16 May 2024 06:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:15:26 GMT</lastBuildDate>
+    <item>
+      <title>Android中安装的所有安全功能，提供针对智能手机盗窃的“全方位”对策。</title>
+      <link>https://wired.jp/article/android-15-theft-detection-lock/</link>
+      <description><![CDATA[谷歌将在其移动操作系统Android中添加各种基于人工智能的安全功能，以针对迅速增加的智能手机盗窃案提供“全方位”保护。我们将推出一系列对策，包括检测抢夺和锁定设备的功能，并隔离重要数据以防止其被窃取。]]></description>
+      <guid>https://wired.jp/article/android-15-theft-detection-lock/</guid>
+      <pubDate>Thu, 16 May 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从智能手表的新操作系统到在电视上引入人工智能，Android平台演变的要点</title>
       <link>https://wired.jp/article/google-io-android-ecosystem-updates-new-features/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[东京大学研究生院信息研究科与索尼集团合作推出“跨境未来共创社会协作课程”。课程的主题是超越学术和领域界限，创造新的创造力。课程的一部分将在课程开始前举行的启动研讨会上解读。]]></description>
       <guid>https://wired.jp/article/creative-futurists-initiative/</guid>
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 已经变得更加“人性化”。 OpenAI最新模型“GPT-4o”的强大功能</title>
-      <link>https://wired.jp/article/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</link>
-      <description><![CDATA[OpenAI发布了新的AI模型“GPT-4o”。通过在这个新模型上运行 ChatGPT，用户可以与聊天机器人进行流畅、自然的语音对话。这种情况比以往任何时候都更加丰富情感，让人想起人类。]]></description>
-      <guid>https://wired.jp/article/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
-      <pubDate>Mon, 13 May 2024 22:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

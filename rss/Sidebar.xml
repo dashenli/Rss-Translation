@@ -4,14 +4,62 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 16 May 2024 06:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:16:15 GMT</lastBuildDate>
+    <item>
+      <title>苹果宣布推出新的辅助功能，包括眼动追踪</title>
+      <link>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</link>
+      <description><![CDATA[Apple 今天宣布将于今年晚些时候推出新的辅助功能，包括眼动追踪、音乐触觉和声音快捷方式。
+]]></description>
+      <guid>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</guid>
+      <pubDate>Thu, 16 May 2024 05:54:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>经典的边框半径建议，加上一个不寻常的技巧</title>
+      <link>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</link>
+      <description><![CDATA[当您使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素的半径。 
+]]></description>
+      <guid>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</guid>
+      <pubDate>Thu, 16 May 2024 05:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>表情符号的历史：失踪的岁月</title>
+      <link>https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/</link>
+      <description><![CDATA[在研究老式日本绘图软件时，我遇到了一些内置草图或手写备忘录功能的设备。
+]]></description>
+      <guid>https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/</guid>
+      <pubDate>Thu, 16 May 2024 05:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界为何失去色彩？</title>
+      <link>https://uxmag.com/articles/why-is-the-world-losing-color</link>
+      <description><![CDATA[生产力、极简主义和单色配色方案的时代。
+]]></description>
+      <guid>https://uxmag.com/articles/why-is-the-world-losing-color</guid>
+      <pubDate>Thu, 16 May 2024 05:48:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 砌体</title>
+      <link>https://piccalil.li/blog/masonry-and-tabbing</link>
+      <description><![CDATA[我担心的是 Tab 键行为，而不是 CSS 砌体的语法和名称。
+]]></description>
+      <guid>https://piccalil.li/blog/masonry-and-tabbing</guid>
+      <pubDate>Thu, 16 May 2024 05:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌正在重新设计其搜索引擎——从头到尾都是人工智能</title>
+      <link>https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview</link>
+      <description><![CDATA[输出：10 个蓝色链接。在：所有人工智能的一切。
+]]></description>
+      <guid>https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview</guid>
+      <pubDate>Wed, 15 May 2024 05:41:15 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能幻觉示例及其发生原因</title>
       <link>https://journal.everypixel.com/ai-hallucination-examples</link>
       <description><![CDATA[人工智能的复活节彩蛋：模因引用、重复、偏见和其他人工智能幻觉
 ]]></description>
       <guid>https://journal.everypixel.com/ai-hallucination-examples</guid>
-      <pubDate>Thu, 16 May 2024 05:40:26 GMT</pubDate>
+      <pubDate>Wed, 15 May 2024 05:40:26 GMT</pubDate>
     </item>
     <item>
       <title>公共情节</title>
@@ -76,54 +124,6 @@
 ]]></description>
       <guid>https://www.smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</guid>
       <pubDate>Tue, 14 May 2024 06:54:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 春季更新</title>
-      <link>https://openai.com/index/spring-update/</link>
-      <description><![CDATA[引入 GPT-4o 并在 ChatGPT 中免费提供更多功能。
-]]></description>
-      <guid>https://openai.com/index/spring-update/</guid>
-      <pubDate>Mon, 13 May 2024 06:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作 CSS 形状的现代指南</title>
-      <link>https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/</link>
-      <description><![CDATA[在这份综合指南中，Temani Afif 探索了使用尽可能最小、最灵活的代码创建常见形状的不同技术。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/05/modern-guide-making-css-shapes/</guid>
-      <pubDate>Mon, 13 May 2024 06:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>人道网络宣言</title>
-      <link>https://humanewebmanifesto.com/</link>
-      <description><![CDATA[我们需要建立一个更好的网络。一个由人类创造并为人类服务的网络。
-]]></description>
-      <guid>https://humanewebmanifesto.com/</guid>
-      <pubDate>Mon, 13 May 2024 06:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 useDeferredValue 进行 Snappy UI 优化</title>
-      <link>https://www.joshwcomeau.com/react/use-deferred-value/</link>
-      <description><![CDATA[useDeferredValue 是最被低估的 React hook 之一。 
-]]></description>
-      <guid>https://www.joshwcomeau.com/react/use-deferred-value/</guid>
-      <pubDate>Mon, 13 May 2024 06:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>复杂的棍子</title>
-      <link>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</link>
-      <description><![CDATA[各种工具的兴起，但没有什么特别的。
-]]></description>
-      <guid>https://uxdesign.cc/complicated-sticks-6ce8bec56b43</guid>
-      <pubDate>Mon, 13 May 2024 06:43:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>酷查询</title>
-      <link>https://www.csscade.com/cool-queries</link>
-      <description><![CDATA[CSS 可以做很多与查询相关的事情，这非常简洁。
-]]></description>
-      <guid>https://www.csscade.com/cool-queries</guid>
-      <pubDate>Fri, 10 May 2024 04:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
