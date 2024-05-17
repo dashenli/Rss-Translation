@@ -3,8 +3,15 @@
   <channel>
     <title>一切</title>
     <link>https://www.newyorker.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Fri, 17 May 2024 12:25:45 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Fri, 17 May 2024 15:16:35 GMT</lastBuildDate>
+    <item>
+      <title>每日漫画：5 月 17 日星期五</title>
+      <link>https://www.newyorker.com/cartoons/daily-cartoon/friday-may-17th-have-a-moment</link>
+      <description><![CDATA[“请问，您有时间谈谈尼克斯队吗？”]]></description>
+      <guid>https://www.newyorker.com/cartoons/daily-cartoon/friday-may-17th-have-a-moment</guid>
+      <pubDate>Fri, 17 May 2024 13:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>理查德·布罗迪谈洪尚秀的危机艺术家故事</title>
       <link>https://www.newyorker.com/culture/goings-on/richard-brody-on-hong-sangsoos-stories-of-artists-in-crisis</link>
@@ -20,14 +27,14 @@
       <pubDate>Fri, 17 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>弗朗西斯·福特·科波拉的“大都市”中令人着迷的城市扩张</title>
+      <title>弗朗西斯·福特·科波拉的《特大城市》中令人着迷的城市扩张</title>
       <link>https://www.newyorker.com/magazine/2024/05/27/megalopolis-movie-review-francis-ford-coppola</link>
       <description><![CDATA[阔别十三年后，一位伟大的美国导演带着对一座需要复兴的城市和世界的雄心勃勃的愿景回归。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/05/27/megalopolis-movie-review-francis-ford-coppola</guid>
       <pubDate>Fri, 17 May 2024 00:18:40 GMT</pubDate>
     </item>
     <item>
-      <title>论特朗普和 2024 年选举游戏规则改变者的难以捉摸的幻想</title>
+      <title>关于特朗普和 2024 年选举游戏规则改变者的难以捉摸的幻想</title>
       <link>https://www.newyorker.com/news/letter-from-bidens-washington/on-trump-and-the-elusive-fantasy-of-a-2024-election-game-changer</link>
       <description><![CDATA[随着大选辩论和前总统刑事判决的临近，有什么能感动不动摇的美国选民呢？]]></description>
       <guid>https://www.newyorker.com/news/letter-from-bidens-washington/on-trump-and-the-elusive-fantasy-of-a-2024-election-game-changer</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>肯德里克·拉马尔、德雷克和牛肉的好处</title>
       <link>https://www.newyorker.com/podcast/critics-at-large/kendrick-lamar-drake-and-the-benefits-of-beef</link>
-      <description><![CDATA[两位说唱界大腕之间的不和很快升级为相互诽谤。一场基于工艺的冲突如何演变为一场意义深远的冲突？]]></description>
+      <description><![CDATA[两位说唱界大腕之间的不和很快升级为相互诽谤运动。一场基于工艺的冲突如何演变为一场意义深远的冲突？]]></description>
       <guid>https://www.newyorker.com/podcast/critics-at-large/kendrick-lamar-drake-and-the-benefits-of-beef</guid>
       <pubDate>Thu, 16 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 16 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>关于养育子女，没人告诉你的事</title>
+      <title>没有人告诉你关于育儿的事情</title>
       <link>https://www.newyorker.com/humor/shouts-murmurs/what-no-one-tells-you-about-parenting</link>
       <description><![CDATA[当您给孩子喂食时，孩子的身体会将食物转化为排泄物（将您的孩子翻过来以确认这一点）。]]></description>
       <guid>https://www.newyorker.com/humor/shouts-murmurs/what-no-one-tells-you-about-parenting</guid>
@@ -99,15 +106,8 @@
     <item>
       <title>现在是气候选举</title>
       <link>https://www.newyorker.com/news/daily-comment/its-a-climate-election-now</link>
-      <description><![CDATA[据报道，特朗普向化石燃料高管提供了数十亿美元的报价，这表明今年是拯救地球的关键一年。]]></description>
+      <description><![CDATA[据报道，特朗普向化石燃料企业高管提供数十亿美元的援助，表明今年是拯救地球的关键一年。]]></description>
       <guid>https://www.newyorker.com/news/daily-comment/its-a-climate-election-now</guid>
-      <pubDate>Wed, 15 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到我的前男友迎新活动</title>
-      <link>https://www.newyorker.com/humor/shouts-murmurs/welcome-to-my-ex-boyfriend-orientation</link>
-      <description><![CDATA[吃点肉桂面包吧。他们是爱的劳动。但我已经习惯了劳动——例如，在我们求爱期间，所有主要落在我身上的情感劳动。]]></description>
-      <guid>https://www.newyorker.com/humor/shouts-murmurs/welcome-to-my-ex-boyfriend-orientation</guid>
       <pubDate>Wed, 15 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
