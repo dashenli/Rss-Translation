@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 15 May 2024 15:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 12:25:40 GMT</lastBuildDate>
+    <item>
+      <title>集体#839</title>
+      <link>https://tympanus.net/codrops/collective/collective-839/</link>
+      <description><![CDATA[基于时间的 CSS 动画 * 2024 年初的 Web 组件 * 分形玻璃生成器]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-839/</guid>
+      <pubDate>Fri, 17 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述 #43</title>
       <link>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 10 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>精选字体，让您的网页设计经得起未来考验</title>
+      <title>精选字体，让您的网页设计永不过时</title>
       <link>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</link>
       <description><![CDATA[一小部分字体，非常适合让您的网页设计保持永恒和前瞻性。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[酷查询 * 无尽的工具 * 微小的世界地图 * 发射和绽放]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-836/</guid>
       <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计发现：细节悬停在图像上</title>
-      <link>https://tympanus.net/codrops/2024/05/06/design-finds-detail-hovers-on-images/</link>
-      <description><![CDATA[一组不同的图像效果，可揭示有关悬停的更多信息。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/06/design-finds-detail-hovers-on-images/</guid>
-      <pubDate>Mon, 06 May 2024 14:47:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

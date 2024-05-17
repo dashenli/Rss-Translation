@@ -4,7 +4,14 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 17 May 2024 09:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 12:23:38 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 恢复了旧的奖励制度——“我们搞砸了”</title>
+      <link>https://www.theverge.com/2024/5/17/24158848/reddit-brings-back-award-system-gold-coins-messed-up</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/17/24158848/reddit-brings-back-award-system-gold-coins-messed-up</guid>
+      <pubDate>Fri, 17 May 2024 11:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>Twitter 现在正式更名为 X.com</title>
       <link>https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch</link>
@@ -15,7 +22,7 @@
 前身为 Twitter 的社交网络已正式在其所有核心系统中采用 X.com。这意味着在浏览器中输入 twitter.com 现在将重定向到埃隆·马斯克喜欢的域，或者应该。在发布时，我们看到的结果多种多样，具体取决于浏览器选择以及您是否登录。
 X 登录页面底部现在还会显示一条消息，内容为：“我们通知您，我们正在更改我们的 URL，但您的隐私和数据保护设置保持不变。”&lt; /p&gt;
 域名转换是埃隆·马斯克 (Elon Musk) 重塑公司品牌过程中比较尴尬的方面之一。尽管 X 的许多方面很久以前就迁移到了新品牌 - 包括 其官方帐号，其移动应用及其“X Premium”（fka Blue）订阅 - 自 twitter.com “https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon&quot;&gt;马斯克正式启动了向 X 的切换。 
-网址开始更改早在去年八月，当时一些 Verge 工作人员就能够从X 的 iOS 应用程序内的共享表。这种笨拙的转变是网络钓鱼攻击的礼物，
+网址开始更改早在去年 8 月，当时一些 Verge 工作人员就能够复制 x.com 链接X 的 iOS 应用程序内的共享表。这种笨拙的转变是网络钓鱼攻击的礼物，
 
 所有核心系统现已位于 https://t.co/bOUOek5Cvy pic.twitter.com/cwWu3h2vzr—埃隆·马斯克 (@elonmusk) 2024 年 5 月 17 日
 
@@ -40,7 +47,7 @@ X 登录页面底部现在还会显示一条消息，内容为：“我们通知
 插图：The Verge
 
 周四晚上，许多 iPhone 用户（包括 The Verge 的一些用户）在尝试通过 iMessage 发送短信时看到了“未送达”标志。人们在多个无线运营商（Verizon、AT&amp;T 和 T-Mobile）、国家/地区甚至各大洲报告了该问题。
-在问题发生时，Apple 服务状态页面没有显示任何问题迹象，但现在它已在事后更新，反映了已解决的问题，即“用户无法使用此服务” iMessage、Apple Messages for Business、FaceTime 和 HomeKit 的“服务”。根据该说明，问题从下午 5:39 左右一直持续到下午 6:35。
+Apple 服务状态页面在问题发生时并未显示任何问题迹象，但现在已在事后更新，反映了已解决的问题，即“用户无法使用此服务” iMessage、Apple Messages for Business、FaceTime 和 HomeKit 的“服务”。根据该说明，问题从下午 5:39 左右一直持续到下午 6:35。
 
 
 屏幕截图：Apple.com
@@ -62,7 +69,7 @@ Google 很快将向学校提供 Gemini AI 的访问权限——专门针对 18 �
 Google 将在 Workspace for Education 帐户中提供额外的 Gemini 数据隐私保护，无需额外付费。然而，这确实意味着依赖较旧的 Gemini 1.0 Pro 型号，而不是像 Gemini 1.5 Pro 这样更新的型号 或 Flash，旨在提供更准确的答案。
 Gemini for Google Workspace 将于 5 月 23 日推出，将为机构提供两个套餐。第一个是成本较低的 Gemini Education，有每月使用限制，第二个是 Education Premium，它开放对 Workspace AI 工具的完全访问，并具有其他功能，例如 Google Meet 的 AI 笔记/摘要以及数据丢失预防。
 
-Chromebook，教育领域的大卖家也获得了新的辅助功能，可以帮助失明或弱视人士。在接下来的几个月中，当您与“随选朗读”结合使用时，Chromebook 上的屏幕放大器将能够跟随您大声朗读的内容。此外，您还可以增大光标并关闭闪烁的文本指示器。]]></description>
+Chromebook，教育领域的大卖家也获得了新的辅助功能，可以帮助失明或视力不佳的人。在接下来的几个月中，当您与“随选朗读”结合使用时，Chromebook 上的屏幕放大镜将能够跟随您大声朗读的内容。此外，您还可以增大光标并关闭闪烁的文本指示器。]]></description>
       <guid>https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook</guid>
       <pubDate>Thu, 16 May 2024 21:58:23 GMT</pubDate>
     </item>
@@ -75,7 +82,7 @@ Chromebook，教育领域的大卖家也获得了新的辅助功能，可以帮�
 
 根据 &lt; 看到的一份内部备忘录，在美国拥有数百家报纸的媒体公司 Gannett 正在启动一项新计划，在记者报道的顶部添加人工智能生成的要点。 em&gt;边缘。
 人工智能功能在报道中被标记为“关键点”，它使用自动化技术来创建出现在标题下方的摘要。文章底部包含免责声明，内容如下：“本文顶部的要点是在人工智能 (AI) 的帮助下创建的，并在发表前由记者审阅。文章的其他部分不是使用人工智能生成的。”该备忘录日期为 5 月 14 日，并指出此时参与是可选的。
-摘要似乎已上线关于《今日美国》的一些报道 在线（甘尼特拥有《今日美国》报纸）。备忘录称，人工智能生成的摘要“旨在增强报告流程并提升观众体验”，该备忘录还指出，为该工具提供支持的人工智能模型经过了九个月的内部培训.
+摘要似乎已上线一些今日美国报道 在线（甘尼特拥有《今日美国》报纸）。备忘录称，人工智能生成的摘要“旨在增强报告流程并提升观众体验”，该备忘录还指出，为该工具提供支持的人工智能模型经过了九个月的内部培训.
 “该文件不言而喻”，Gannett 发言人 Lark-Marie Anton 在一封电子邮件中表示。
 Gannett 此前曾在一些事件中尝试过人工智能内容，但该公司在出现令人尴尬的失误后很快就收回了主意。去年八月，甘尼特拔掉了插头在读者嘲笑写作的尴尬之后，人工智能生成的体育赛事回顾。 10 月份，该公司消费品网站 Reviewed 的 Gannett 员工声称，在线出现的内容是 使用人工智能制作。正如我去年报道的那样，制作该作品的第三方营销公司也是 《体育画报》人工智能争议，其中人工智能生成的作者被视为作家。当时，甘尼特坚称产品评论不是用人工智能工具创建的。
 添加人工智能生成的摘要之际，当地工会成员对有关人工智能使用的拟议合同语言表示担忧。据 Digiday 报道，民主党和民主党的工会工人已加入工会。纽约州罗彻斯特的 Chronicle 惊讶地发现，在讨价还价期间，他们的合同中添加了一条条款：“人工智能 (AI) 可用于生成新闻内容。” 
@@ -123,13 +130,13 @@ TikTok 的爆炸性流行引起了无数其他公司的关注——从 Meta 和 
     <item>
       <title>GTA VI：有关 Rockstar 侠盗猎车手系列下一部作品的所有新闻</title>
       <link>https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games</link>
-      <description><![CDATA[
+      <description><![CDATA[&lt;图&gt;
+      
+GTA 6 艺术作品 |图片：Rockstar Games
 
-《侠盗猎车手 6》艺术 | 图片：Rockstar Games
-
-作为十年来最受期待的游戏之一，它的热度从未如此之高。 自《侠盗猎车手 VI》发布以来，已经过去了十年，经历了两代游戏机。但那个时代已经过去了。 Rockstar 宣布将于 2023 年 12 月 5 日星期二太平洋时间上午 6 点/东部时间上午 9 点发布该游戏的首部预告片。不幸的是，早期的泄密事件促使该公司比计划提前半天以上发布了预告片，透露侠盗猎车手 VI将把该系列带回罪恶都市，并展示了一位新主角露西亚。
-尽管 Rockstar Games 对该系列下一部作品的期待保持沉默，但由于一名黑客泄露了 90 个视频素材，我们对游戏的外观确实有了一些了解。 2022 年，Lapsus$ 黑客团伙成员 Arion Kurtaj 泄露了这些视频，2023 年，伦敦陪审团裁定他应对此行为负责。
-在预告片全球首映前几天，还有另一份未经证实的报道称，最近的 GTA VI 泄露了该游戏的一小部分地图，据称来自 Rockstar 员工的孩子。]]></description>
+对于这十年来最受期待的游戏之一来说，炒作从未如此之高。 自《GTA V》发布以来已经过去了十年又两代主机 /em&gt;.但那个时代已经结束了。 Rockstar 宣布将于 2023 年 12 月 5 日星期二上午 6 点（太平洋时间）/上午 9 点（东部时间）发布该游戏的首个预告片。不幸的是，早期的泄密促使该公司比计划提前半天以上发布预告片，透露侠盗猎车手VI将把该系列带回罪恶都市，并展示了新的主角露西亚。
+虽然 Rockstar Games 对该系列下一部作品的预期保持沉默，但由于黑客泄露了 90 个视频，我们确实对这款游戏有了一些了解。材料。 2022 年，Lapsus$ 黑客团伙成员 Arion Kurtaj 泄露了这些视频，2023 年，伦敦陪审团认定他应对该行为负责。
+ “https://www.ign.com/articles/grand-theft-auto-6-leaks-may-have-just-come-from-a-rockstar-employees-son&quot;&gt;据称来自 Rockstar 员工的孩子。 ]]></description>
       <guid>https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games</guid>
       <pubDate>Thu, 16 May 2024 21:03:36 GMT</pubDate>
     </item>
@@ -148,25 +155,6 @@ TikTok 的爆炸性流行引起了无数其他公司的关注——从 Meta 和 
 ]]></description>
       <guid>https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025</guid>
       <pubDate>Thu, 16 May 2024 21:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>两兄弟被指控盗窃价值 2500 万美元的加密货币</title>
-      <link>https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge
-
-周二，两兄弟被联邦拘留，据称他们在短短几秒钟内窃取了价值约 2500 万美元的加密货币 ，这是对以太坊区块链的“首次操纵”。检察官称，兄弟俩——安东·佩雷尔-布埃诺 (Anton Peraire-Bueno) 和詹姆斯·佩雷尔-布埃诺 (James Peraire-Bueno)——在麻省理工学院学习数学和计算机科学，利用他们在“美国最负盛名的大学之一”获得的技能“利用以太坊区块链的完整性来欺诈性地获取”资金。兄弟俩被指控犯有 电信欺诈、密谋实施电信欺诈和密谋实施洗钱。
-“不幸的是，被告的指控罪行无法与司法部检察官和国税局特工匹敌，他们破获了这一史无前例的电信欺诈和洗钱阴谋，”副检察长丽莎·摩纳哥在一份新闻稿中表示。。
-指控文件称，尽管抢劫只在几秒钟内完成，但兄弟俩花了数月时间策划。起诉书称，Peraire-Bueno 兄弟“精心策划并执行”了这次攻击，攻击始于 2022 年 12 月的某个时候。据称，兄弟俩创建了“一份在线文档”，列出了他们的四步计划：1) 诱饵、2) 揭开区块的神秘面纱、3) 搜索和 4) 传播。
-起诉书称，兄弟俩“通过使用空壳公司、中间加密货币地址、外汇交易所和隐私层网络，以隐藏身份的方式建立了一系列以太坊验证器”。他们据称瞄准了三名交易员——检察官声称，他们提前几个月就研究了他们的行为——并设置了“一系列测试交易或‘诱饵交易’”来吸引交易员使用的机器人。
-检察官声称，兄弟俩利用了以太坊代码中的一个漏洞，该漏洞现已得到修补。司法部的新闻稿称：“通过这样做，他们以欺诈手段获得了待处理的私人交易的访问权限，并利用该访问权限更改某些交易并获取受害者的加密货币。”
-
-在窃取了价值约 2500 万美元的加密货币后，Peraire-Bueno 兄弟据称通过几家空壳公司洗钱。在被指控盗窃后的几周内，这对兄弟的在线搜索历史包括“顶级加密货币律师”、“美国诉讼时效有多长”、“欺诈性的以太坊访问数据库”和“洗钱诉讼时效”。指控文件称，一名受害者及其律师在 2023 年 4 月至 6 月期间多次联系 Peraire-Bueno 兄弟，以太坊的一名代表也是如此。
-
-根据司法部的说法，如果罪名成立，每人将因三项罪名面临最高 20 年的监禁。]]></description>
-      <guid>https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers</guid>
-      <pubDate>Thu, 16 May 2024 20:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
