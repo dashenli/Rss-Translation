@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 16 May 2024 21:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 00:59:21 GMT</lastBuildDate>
+    <item>
+      <title>围绕 DNA 合成的新规定能否防止恶意创建？</title>
+      <link>https://wired.jp/article/synthetic-dna-us-biden-regulation/</link>
+      <description><![CDATA[4月底，美国政府宣布了有关DNA合成安全的新规定。该技术被滥用的风险早已被指出，但最新法规要求 DNA 合成仪识别有问题的基因序列顺序并评估其客户的合法性。]]></description>
+      <guid>https://wired.jp/article/synthetic-dna-us-biden-regulation/</guid>
+      <pubDate>Thu, 16 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为技术设计者介绍技术哲学【第八期】：来自东方思想的心灵上传</title>
+      <link>https://wired.jp/article/series-philosophy-of-technology-8/</link>
+      <description><![CDATA[“技术哲学”是在商业和创造力中运用最新技术时必不可少的知识。在该系列的第八部分中，我们最终将仔细研究“技术多样性”。这次，我们从模拟假设和思维上传来考虑技术的多样性。]]></description>
+      <guid>https://wired.jp/article/series-philosophy-of-technology-8/</guid>
+      <pubDate>Thu, 16 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Android中包含的所有安全功能，提供“全方位”的智能手机防盗保护</title>
       <link>https://wired.jp/article/android-15-theft-detection-lock/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[苹果的 iPad Pro 现已进入第七代，更薄、更轻，有两种屏幕尺寸：11 英寸和 13 英寸。虽然通过安装“M4”芯片，性能有了很大的提升，但在易用性上并没有太大的区别，给人的感觉是有点令人失望。]]></description>
       <guid>https://wired.jp/article/apple-ipad-pro-m4-2024-review/</guid>
       <pubDate>Tue, 14 May 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼和华纳联手创建视频分发服务，将“重塑”有线电视</title>
-      <link>https://wired.jp/article/disney-and-warner-bros-discovery-just-reinvented-cable/</link>
-      <description><![CDATA[迪士尼和华纳兄弟探索频道联手宣布计划在美国销售 Disney+、Hulu 和 Max 套装。这一改变视频分发服务力量平衡的举措让人感觉像是回到了有线电视时代。]]></description>
-      <guid>https://wired.jp/article/disney-and-warner-bros-discovery-just-reinvented-cable/</guid>
-      <pubDate>Tue, 14 May 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>东京大学与索尼打造的“跨界课堂”：跨界未来共创社交协作课程开启！</title>
-      <link>https://wired.jp/article/creative-futurists-initiative/</link>
-      <description><![CDATA[东京大学情报研究科与索尼集团合作推出“跨境未来共创社会协作课程”。课程的主题是超越学术和领域界限，创造新的创造力。课程的一部分将在课程开始前举行的启动研讨会上解读。]]></description>
-      <guid>https://wired.jp/article/creative-futurists-initiative/</guid>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

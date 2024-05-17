@@ -3,12 +3,21 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 15 May 2024 21:16:15 GMT</lastBuildDate>
+    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
+    <lastBuildDate>Fri, 17 May 2024 00:58:56 GMT</lastBuildDate>
+    <item>
+      <title>从头到尾都是伪造的↦</title>
+      <link>https://sixcolors.com/link/2024/05/its-forgery-all-the-way-down/</link>
+      <description><![CDATA[Cabel Sasser 博客上的另一个令人难以置信的故事，这个故事是关于一个所谓的老式苹果员工徽章：
+&lt;块引用&gt;
+  哇。有人在出售苹果员工 #10 的员工徽章？！…]]></description>
+      <guid>https://sixcolors.com/link/2024/05/its-forgery-all-the-way-down/</guid>
+      <pubDate>Thu, 16 May 2024 23:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 554：Dealee Bobs</title>
       <link>https://sixcolors.com/podcast/2024/05/clockwise-554-dealee-bobs/</link>
-      <description><![CDATA[我们的 Apple Watch 交互频率、对 Spotify 的“日列表”和我们理想的播放列表名称的想法、对 Google I/O 上的 Google AI 功能的兴趣，以及“One Bag Travel”的基本旅行技术。…]]></description>
+      <description><![CDATA[我们与 Apple Watch 的互动频率、对 Spotify“Daylists”的看法和我们理想的播放列表名称、对 Google I/O 上 Google AI 功能的兴趣，以及“一包旅行”必备的旅行技术。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/clockwise-554-dealee-bobs/</guid>
       <pubDate>Wed, 15 May 2024 20:15:50 GMT</pubDate>
     </item>
@@ -20,11 +29,11 @@
       <pubDate>Wed, 15 May 2024 18:16:48 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 辅助功能预览：Speech、CarPlay 和 Vision Pro 的更多内容</title>
+      <title>Apple 辅助功能预览：语音、CarPlay 和 Vision Pro 的更多内容</title>
       <link>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</link>
       <description><![CDATA[​
-Vision Pro 的实时字幕可将口语转换为屏幕上的文本。
-Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度庆祝活动，延续了去年的扩展，超越了传统的视觉、声音和身体/运动类别。…]]></description>
+Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
+今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年传统视觉、声音和身体/运动类别之外的扩展。 p&gt;]]></description>
       <guid>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</guid>
       <pubDate>Wed, 15 May 2024 14:00:08 GMT</pubDate>
     </item>
@@ -38,9 +47,9 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
     <item>
       <title>“为什么 iPadOS 仍然没有做好基础工作” ↦</title>
       <link>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</link>
-      <description><![CDATA[我在 iPad Pro 评测中链接到了这一点，但以防万一您错过了这一点，Federico Viticci 为所有撰写有关 iPadOS 的人提供了一项服务，并详细说明了我们所说的“iPad 硬件令人失望”的含义。通过其软件”：
-&lt;块引用&gt;
-  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。…]]></description>
+      <description><![CDATA[我在我的 iPad Pro 评论中链接到了此内容，但如果您错过了，Federico Viticci 为所有撰写有关 iPadOS 的人提供了服务，并详细描述了我们所说的“iPad 硬件因其软件而失败”的含义：
+
+在我们的社区中，我们经常听到有关 iPadOS 的问题以及像我这样的人在使用该平台时遇到的障碍，但我过去曾犯过想当然地认为背景是理所当然的错误，并假设您，亲爱的读者，也确切地知道我在说什么。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</guid>
       <pubDate>Tue, 14 May 2024 16:21:26 GMT</pubDate>
     </item>
@@ -70,8 +79,8 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
     <item>
       <title>（赞助商）回顾米高梅黑客事件的烟雾和镜子</title>
       <link>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</link>
-      <description><![CDATA[&lt;图标题&gt;
-2023 年 9 月的米高梅黑客攻击很快成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道了坏掉的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台致命的网络钓鱼电话。…]]></description>
+      <description><![CDATA[
+2023 年 9 月的米高梅黑客攻击迅速成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道损坏的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台的致命网络钓鱼电话。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
       <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
     </item>
@@ -106,20 +115,13 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
       <pubDate>Wed, 08 May 2024 18:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>iPad 系列现在有意义吗？是与否</title>
+      <title>iPad 的产品线现在还合理吗？是也不是</title>
       <link>https://sixcolors.com/post/2024/05/does-the-ipad-lineup-make-sense-now-yes-and-no/</link>
       <description><![CDATA[&lt;图标题&gt;
 自从史蒂夫·乔布斯 (Steve Jobs) 推出著名的两乘二网格苹果设备以来，苹果迷就一直试图将公司的产品线塞进整齐的小盒子中。1 
 近年来，iPad 产品线似乎异常复杂且难以界定。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/does-the-ipad-lineup-make-sense-now-yes-and-no/</guid>
       <pubDate>Wed, 08 May 2024 15:34:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad 活动的一些实践印象</title>
-      <link>https://sixcolors.com/post/2024/05/some-hands-on-ipad-event-impressions/</link>
-      <description><![CDATA[苹果公司宣布周二是 iPad 历史上自 2010 年推出该产品以来最重要的日子。我不确定我是否会走那么远。诚然，这是一件大事，但 2015 年第一代 iPad Pro 和 Apple Pencil 的发布以及 2018 年重新设计的 iPad Pro 和 Apple Pencil 2 的发布也是如此。…]]></description>
-      <guid>https://sixcolors.com/post/2024/05/some-hands-on-ipad-event-impressions/</guid>
-      <pubDate>Wed, 08 May 2024 02:18:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
