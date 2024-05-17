@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 17 May 2024 15:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 18:21:17 GMT</lastBuildDate>
     <item>
       <title>工具和感觉</title>
       <link>https://nathanbeck.eu/essays/tooling-and-feeling/</link>
@@ -24,7 +24,7 @@
     <item>
       <title>伪造的苹果员工徽章</title>
       <link>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</link>
-      <description><![CDATA[这是一个简短而警示性的故事。 Eric Vitiello 发现的这场 eBay 拍卖立即引起了我的注意。
+      <description><![CDATA[这是一个简短而警示性的故事。Eric Vitiello 发现的这个 eBay 拍卖立即引起了我的注意。
 ]]></description>
       <guid>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</guid>
       <pubDate>Fri, 17 May 2024 05:09:19 GMT</pubDate>
@@ -32,7 +32,7 @@
     <item>
       <title>基于时间的 CSS 动画</title>
       <link>https://yuanchuan.dev/time-based-css-animations</link>
-      <description><![CDATA[在我之前的文章《CSS 动画的时间统一》中，我记录了一种使用时间刻度而不是关键帧来制作 CSS 动画的方法。
+      <description><![CDATA[在我之前的文章《CSS 动画的时间统一》中，我介绍了一种使用时间刻度而不是关键帧来实现 CSS 动画的方法。
 ]]></description>
       <guid>https://yuanchuan.dev/time-based-css-animations</guid>
       <pubDate>Fri, 17 May 2024 05:05:36 GMT</pubDate>
@@ -56,7 +56,7 @@
     <item>
       <title>经典的边界半径建议，加上一个不寻常的技巧</title>
       <link>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</link>
-      <description><![CDATA[当你使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素。
+      <description><![CDATA[当您使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素的半径。 
 ]]></description>
       <guid>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</guid>
       <pubDate>Thu, 16 May 2024 05:52:27 GMT</pubDate>
@@ -94,9 +94,9 @@
       <pubDate>Wed, 15 May 2024 05:41:15 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能幻觉示例及其发生原因</title>
+      <title>人工智能幻觉示例及其发生的原因</title>
       <link>https://journal.everypixel.com/ai-hallucination-examples</link>
-      <description><![CDATA[人工智能的复活节彩蛋：模因引用、重复、偏见和其他人工智能幻觉
+      <description><![CDATA[人工智能的彩蛋：模因引用、重复、偏见和其他人工智能幻觉
 ]]></description>
       <guid>https://journal.everypixel.com/ai-hallucination-examples</guid>
       <pubDate>Wed, 15 May 2024 05:40:26 GMT</pubDate>
@@ -112,7 +112,7 @@
     <item>
       <title>生成式人工智能是完全无耻的。我想成为它</title>
       <link>https://www.wired.com/story/generative-ai-totally-shameless/</link>
-      <description><![CDATA[我最喜欢的是人工智能的这种灾难性特质：如果它看到一个空间，它就会用无意义的东西填充它。
+      <description><![CDATA[我最喜欢的是让人工智能成为一场灾难的品质：如果它看到一个空间，它就会用废话填满它。
 ]]></description>
       <guid>https://www.wired.com/story/generative-ai-totally-shameless/</guid>
       <pubDate>Wed, 15 May 2024 02:37:22 GMT</pubDate>
