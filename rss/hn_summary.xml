@@ -1,96 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 18 May 2024 12:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 18:17:08 GMT</lastBuildDate>
     <item>
-      <title>[媒体]在最近关于气候变化的讨论中，数百名科学家警告说，我们[...]</title>
-      <link>https://t.me/hn_summary/90265</link>
-      <description><![CDATA[天主教播客和乔丹·彼得森气候科学 101 不及格&lt; br /&gt;
-在最近关于气候变化的讨论中，数百名科学家警告说，我们不太可能实现防止灾难性全球变暖所需的气候目标。地球平均气温预计将上升3摄氏度，远远超过2.5摄氏度的可控阈值。这将导致严重的后果，包括大范围的饥饿、难以估量的经济成本以及与高温相关的死亡人数增加。尽管有这些警告，一些人仍然持怀疑态度。拜占庭天主教播客马特·弗拉德（Matt Fradd）受到乔丹·彼得森（Jordan Peterson）的影响，驳斥了科学共识，声称气候行动损害了穷人。他的论点充满了精心挑选的数据和修辞天赋，强调了就气候变化进行有效沟通和公众教育的迫切需要。]]></description>
-      <guid>https://t.me/hn_summary/90265</guid>
-      <pubDate>Sat, 18 May 2024 12:13:59 GMT</pubDate>
+      <title>《纽约客》最近发布了一项长达 13,000 字的全面调查，详细审查了 [...]</title>
+      <link>https://t.me/hn_summary/90293</link>
+      <description><![CDATA[《纽约客》地理封锁露西·莱特比的故事与英国法院发生冲突&lt; /a&gt;
+《纽约客》最近发表了一篇长达 13,000 字的全面调查，详细审查了英国护士露西·莱特比 (Lucy Letby) 的刑事案件，她因在工作场所杀害 7 名婴儿而被定罪。该报告表明，由于急于将莱比描绘成本质上恶毒的人，因此忽视了对证据的重大怀疑。这项调查对多年来令英国公众深感不安的案件的普遍说法提出了挑战。值得注意的是，《纽约客》在英国对这篇报道进行了地理封锁，这可能是由于英国法院施加的法律限制，这给该出版物的调查结果增添了一层争议。]]></description>
+      <guid>https://t.me/hn_summary/90293</guid>
+      <pubDate>Sat, 18 May 2024 18:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：新泽西州通勤列车窗户清洁难题</title>
-      <link>https://t.me/hn_summary/90264</link>
-      <description><![CDATA[新泽西州通勤火车窗户清洁难题
-标题：新泽西州通勤火车窗户清洁难题
+      <title>[媒体] 会计行业正面临严重的人才流失，因为经验丰富的会计师 [...]</title>
+      <link>https://t.me/hn_summary/90292</link>
+      <description><![CDATA[随着人们离开会计行业，人工智能正在接管会计工作
+随着经验丰富的会计师转向金融、人力资源和银行业，会计行业正面临严重的人才流失。这种转变，加上进入该领域的新毕业生人数减少，对该行业构成了生存威胁。白领阶层普遍担心人工智能 (AI) 会导致失业，但像 Puzzle 这样的初创公司正在利用人工智能来解决人才短缺问题。Puzzle 由 Sasha Orloff 创立，提供针对初创公司的现代会计软件包，与金融科技工具集成以提供实时财务可见性并自动执行核心任务。这种创新方法有助于初创公司做出明智的财务决策并负责任地扩大规模，从而有可能改变会计格局。
 
-两年多来，新泽西州交通局一直在努力解决火车车窗阴暗的问题，但仍然没有明确的解决方案。该问题于 2022 年秋季被发现，尽管尝试洗手，但问题仍然存在。此问题影响两代 NJ Transit 的多层车辆。该机构目前尚未决定是花费 800 万美元更换数百辆火车车厢的窗户，还是尝试罗格斯大学工程学院提出的实验性清洁解决方案。值得注意的是，如果您通过网站上的链接购买产品或注册帐户，NJ.com 可能会获得补偿。]]></description>
-      <guid>https://t.me/hn_summary/90264</guid>
-      <pubDate>Sat, 18 May 2024 12:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]周二，荷兰法院判处程序员 Alexey Pertsev 五年监禁 [...]</title>
-      <link>https://t.me/hn_summary/90263</link>
-      <description><![CDATA[Tornado Cash 程序员被定罪：隐私不是犯罪
-周二，荷兰法院以洗钱罪判处程序员 Alexey Pertsev 五年监禁，理由是他开发了“Tornado Cash”软件，该软件可以实现匿名和不可追踪的加密交易。法院辩称，该软件“专门为犯罪分子设计”，因为它允许被盗的加密货币在 36 起案件中匿名流通。海盗党欧洲议会议员 Patrick Breyer 批评了这项裁决，警告称，它将合法的匿名定为犯罪，并可能对其他以隐私为重点的技术的程序员产生更广泛的影响。Breyer 强调，数字隐私不应被定为犯罪，并将其比作现金交易提供的财务自由。他认为，只关注某些人对自由的滥用是一种破坏自由的专制主义做法。]]></description>
-      <guid>https://t.me/hn_summary/90263</guid>
-      <pubDate>Sat, 18 May 2024 12:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对围绕赫菲斯托斯计划和戴森球体正在进行的讨论感到兴奋，特别是 [...]</title>
-      <link>https://t.me/hn_summary/90262</link>
-      <description><![CDATA[七位戴森球候选者
-我对围绕赫菲斯托斯计划和戴森领域正在进行的讨论感到兴奋，特别是阿尔·杰克逊和亚历克斯·托利的见解。他们提出了资源密集度较低的戴森球的替代品。尽管进行了大量搜索，我们只发现了七种潜在的戴森球候选者。 Hephaistos 项目最新的 2024 年论文使用 Gaia DR3、2MASS 和 WISE 的数据来完善这些候选者。这些物体表现出中红外过量，表明潜在的戴森球体，但也可能是罕见的 M 矮星碎片盘或其他天体物理现象。搜寻仍在继续，光学光谱学有望阐明这些有趣的发现。如果戴森球存在，那也是极其罕见的，但发现一个戴森球将是革命性的。]]></description>
-      <guid>https://t.me/hn_summary/90262</guid>
-      <pubDate>Sat, 18 May 2024 11:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“恐慌神话”中，Palladium 杂志探讨了公众 [...]</title>
-      <link>https://t.me/hn_summary/90261</link>
-      <description><![CDATA[恐慌神话（2021）
-在“恐慌神话”中，Palladium 杂志探讨了公众恐慌是灾难期间最大威胁这一根深蒂固的信念，这一叙事源于 1950 年的电影街头恐慌。这种信念影响了灾难管理策略，强调叙事控制以防止公众恐惧。文章批评了这种做法，强调了这种做法如何导致在 COVID-19 大流行期间反应延迟，特别是在武汉和美国，官员们淡化了该病毒以避免恐慌。与担忧相反，封锁并没有导致大规模歇斯底里或混乱。这部作品将这种对人群的恐惧追溯到古斯塔夫·勒邦 (Gustave Le Bon) 1895 年的作品《人群》，该作品将人群描述为非理性且危险的。这种观点影响了 20 世纪早期的军事战略，尤其是空袭防御，并在现代灾害管理中持续存在，但往往不利于有效应对。 （根据故事文本的 46% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90261</guid>
-      <pubDate>Sat, 18 May 2024 11:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetBSD 已正式禁止人工智能生成的代码包含在提交中。</title>
-      <link>https://t.me/hn_summary/90260</link>
-      <description><![CDATA[NetBSD 禁止提交 AI 生成的代码
-NetBSD 已正式禁止人工智能生成的代码包含在提交中。该决定强调了在提交日志中清楚记录更改原因的重要性。我们鼓励贡献者详细说明更改的内容和原因，重点关注“原因”，因为“内容”通常可以从差异中推断出来。该指南强调需要提供信息丰富的提交消息，将有用的示例（例如“正确初始化迭代器以修复内存处理中很少触发的错误”）与模糊的示例（例如“修复了一些内容”）进行了对比。此外，如果更改修复了问题报告 (PR)，则应使用模板“PR 类别/错误 ID”进行记录。该政策还强调了注意代码是否已被其他人审查的重要性。禁止人工智能生成代码的举措是一个重要且有些争议的举措，凸显了人们对人工智能在代码开发中的可靠性和问责制的担忧。]]></description>
-      <guid>https://t.me/hn_summary/90260</guid>
-      <pubDate>Sat, 18 May 2024 11:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 ACCSS/NCSC/Surf 研讨会上关于“网络安全与社会”的演讲中，我 [...]</title>
-      <link>https://t.me/hn_summary/90259</link>
-      <description><![CDATA[网络安全：战前现实检验&lt; br /&gt;
-在 ACCSS/NCSC/Surf 研讨会上关于“网络安全与社会”的演讲中，我旨在对网络安全的现状进行清醒的现实检验，强调其战争层面。根据我在 Fox-IT、PowerDNS 和监管机构方面的丰富经验，我强调了俄罗斯等国家行为者所构成的日益严重的威胁。值得注意的是，我讨论了震网病毒对伊朗铀设施的攻击以及俄罗斯在入侵乌克兰期间禁用 Viasat 调制解调器的情况。我强调了强大的基础设施、有限的依赖性以及在危机中随机应变的能力的重要性。令人惊讶的是，欧盟主动出台了几项新法律来加强网络安全，类似于泰坦尼克号后的造船法规。 （根据故事文本的 31% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/90259</guid>
-      <pubDate>Sat, 18 May 2024 11:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.gov.uk</title>
-      <link>https://t.me/hn_summary/90258</link>
-      <description><![CDATA[软件供应商行为准则：征求意见 
-标题：软件供应商行为准则：征求意见
-网站：www.gov.uk
+争议：文章强调了会计师对被人工智能取代的恐惧，这是该行业中一个有争议的问题。
 
-英国政府正在就拟议的软件供应商行为准则征求公众意见。该举措旨在提高软件行业的透明度、安全性和问责制。磋商邀请利益相关者分享他们对准则各个方面的看法，包括数据保护和道德考虑。值得注意的是，政府强调平衡创新与用户安全的重要性。此次征集意见代表了朝着营造更安全的数字环境迈出的积极一步。咨询期已开放，反馈可以通过 GOV.UK 网站。]]></description>
-      <guid>https://t.me/hn_summary/90258</guid>
-      <pubDate>Sat, 18 May 2024 10:59:11 GMT</pubDate>
+独特/巧妙：Puzzle 将人工智能与金融科技工具相结合，为初创公司创建了一个全面的金融智能平台，这是解决会计人才短缺问题的巧妙方法。]]></description>
+      <guid>https://t.me/hn_summary/90292</guid>
+      <pubDate>Sat, 18 May 2024 18:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tegelwippen 2024：整个荷兰 Wipt</title>
-      <link>https://t.me/hn_summary/90257</link>
-      <description><![CDATA[Tilewippen
-Tegelwippen 2024：整个荷兰 Wipt
+      <title>[媒体] 网址：www.businessinsider.com</title>
+      <link>https://t.me/hn_summary/90291</link>
+      <description><![CDATA[Google 员工的薪酬如此之高，普通人需要几十年才能赶上向上
+标题：谷歌员工的薪酬如此之高，普通人需要几十年才能赶上
+网站：www.businessinsider.com
 
-NK Tegelwippen 将于 3 月 21 日至 10 月 31 日举行！荷兰的每个人都可以通过拆除自己的前花园、后花园或外立面花园的瓷砖来参与。全国各地的城市相互竞争，但冠军不仅仅是竞争。它有一个更高的共同目标：让荷兰更加适应气候变化。通过用草、花坛、树木和立面花园代替瓷砖，土地在炎热的日子里变得凉爽，对昆虫和动物更有吸引力，而且更加美丽。从灰色到绿色，每个人都变得更快乐、更健康！提交您清除的图块并参与！]]></description>
-      <guid>https://t.me/hn_summary/90257</guid>
-      <pubDate>Sat, 18 May 2024 10:59:08 GMT</pubDate>
+谷歌员工的薪酬丰厚，工资远远超过全国平均水平。例如，云销售职位的起薪从 50,000 美元到 302,000 美元不等，而技术操作的起价为 47,000 美元，管理助理的起价为 67,509 美元。这些数字与美国的年收入中位数相当，约为 57,200 美元。然而，2022 年谷歌员工的总薪酬中位数为 279,802 美元，其中顶级软件工程师的基本工资高达 718,000 美元，奖金高达 605,000 美元。这使他们跻身收入最高的 1% 之列。值得注意的是，一些工程师的总薪酬（包括股权和奖金）接近 100 万美元。这种差异引发了人们对 Google 员工所认为的“公平公正”薪酬的质疑。]]></description>
+      <guid>https://t.me/hn_summary/90291</guid>
+      <pubDate>Sat, 18 May 2024 18:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在文章“Ilya Sutskever：学习这 30 篇论文，了解 M 中 90% 的重要内容”中 [...]</title>
-      <link>https://t.me/hn_summary/90256</link>
-      <description><![CDATA[Ilya Sutskever：学习这 30 篇论文，了解 [当今机器学习领域] 90% 的重要内容(https://news.ycombinator.com/item?id=40397806)
-在 arc.net 上的文章“Ilya Sutskever：学习这 30 篇论文，了解当今机器学习领域 90% 的重要内容”中，作者深入探讨了机器学习领域杰出人物 Ilya Sutskever 推荐的用于理解该领域核心概念的重要研究论文。这篇文章重点介绍了 Sutskever 精心挑选的列表，他认为该列表囊括了机器学习领域的大部分重大进步和基础知识。文章还涉及“咖啡自动机”这一有趣的概念，这是一个隐喻框架，用于说明封闭系统中复杂性的兴衰。这种独特的类比提供了一种巧妙的方式来理解机器学习模型中复杂性的动态。]]></description>
-      <guid>https://t.me/hn_summary/90256</guid>
-      <pubDate>Sat, 18 May 2024 10:55:01 GMT</pubDate>
+      <title>[媒体]中国为什么生产这么多出口商品？</title>
+      <link>https://t.me/hn_summary/90290</link>
+      <description><![CDATA[为什么中国生产这么多出口商品？
+拜登最近对中国制造的商品征收高额关税，促使其他国家考虑采取类似措施，这标志着全球贸易动态的重大转变。这次“第二次中国冲击”反映了人们对中国巨额贸易顺差及其对全球制造业影响的担忧。该博客探讨了为什么中国在经济放缓的情况下仍出口如此之多，并将其归因于大规模的房地产泡沫破灭以及随后为维持就业而进行的工业扩张。理论包括政府补贴导致的产能过剩以及主导全球制造业的战略目标。中国领导人认为这是比较优势的自然结果，尽管批评者认为这是对全球经济平衡和安全的威胁。该博客表明，中国的行动可能是获得地缘政治和军事优势的更广泛战略的一部分。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90290</guid>
+      <pubDate>Sat, 18 May 2024 17:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]黑色是日本萎靡茶农的新绿色吗？</title>
+      <link>https://t.me/hn_summary/90289</link>
+      <description><![CDATA[黑色是日本萎靡茶农的新绿色吗？
+茨城县佐岛市的茶农花水道雄在一次品酒会上发现学龄前儿童对红茶的偏好令人惊讶。这一发现促使他和他的妻子 Akiko 将农场的生产多样化，从只生产绿茶到包括红茶（称为 wakōcha）。自 20 世纪 90 年代以来，日本的茶叶消费量减少了一半，和光茶为该行业提供了潜在的复兴机会。与绿茶不同，和光茶的生产不受监管，可以采用创造性和多样化的方法来产生独特的风味。尽管它新颖且具有潜力，但提高国内和国际上对 wakōcha 的认识和兴趣仍然是一项挑战。]]></description>
+      <guid>https://t.me/hn_summary/90289</guid>
+      <pubDate>Sat, 18 May 2024 17:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自马萨诸塞州昆西的护士凯伦·麦克唐纳 (Karen McDonough) 震惊地发现她的家被强制拆除 [...]</title>
+      <link>https://t.me/hn_summary/90288</link>
+      <description><![CDATA[僵尸第二抵押贷款即将来临，威胁着数千个美国人的房屋
+来自马萨诸塞州昆西的护士凯伦·麦克多诺 (Karen McDonough) 震惊地发现，她的房子因“僵尸”第二抵押贷款而被取消赎回权，她相信在 2008 年房地产市场崩溃后，她的房子已经被免除了。和许多美国人一样，麦克多诺修改了她的抵押贷款，并被告知她的第二笔贷款已被注销。然而，收债人现在正在恢复这些旧贷款，通常会增加利息和费用，导致丧失抵押品赎回权。美国国家公共广播电台的调查显示，这种做法很普遍，在纽约和马里兰州等州已有数千起此类案件。房价上涨推动了经济复苏，使这些旧债务为投资者带来了利润。 ARC Private Equity 联合创始人戴维·戈登 (David Gordon) 为这种做法辩护，称投资者应得回报，尽管他声称正在与房主进行谈判。这种情况凸显了抵押贷款修改的不稳定性质以及2008年金融危机的长期影响。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90288</guid>
+      <pubDate>Sat, 18 May 2024 17:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]《关于先进人工智能安全的国际科学报告：中期报告》[...]</title>
+      <link>https://t.me/hn_summary/90287</link>
+      <description><![CDATA[关于先进人工智能安全性的国际科学报告 [pdf](https ://news.ycombinator.com/item?id=40400438)
+《关于高级人工智能安全性的国际科学报告：中期报告》全面综合了有关高级人工智能系统相关功能和风险的现有研究。该报告由 Yoshua Bengio 教授担任主席，由国际专家小组撰写，深入探讨了通用人工智能如何获得其功能、人工智能发展的最新趋势以及快速发展的潜力。它还概述了评估人工智能系统的方法，包括案例研究、基准测试和对抗性攻击。已确定的主要风险包括恶意使用、虚假信息、网络犯罪以及劳动力市场影响和环境问题等系统性风险。值得注意的是，该报告强调了人工智能系统中透明度、审计和解决偏见的重要性。该报告不代表任何个人或政府的观点，而是旨在对人工智能安全研究的现状提供一个平衡的概述。 （根据故事文字的 2% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/90287</guid>
+      <pubDate>Sat, 18 May 2024 17:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：明基 RD280UA：3:2 宽高比的“编程显示器”</title>
+      <link>https://t.me/hn_summary/90286</link>
+      <description><![CDATA[BenQ RD280UA：3:2宽高比“编程显示器”&lt; /a&gt;
+标题：BenQ RD280UA：3:2宽高比的“编程显示器”
+
+BenQ RD280UA 是一款专为程序员设计的专用显示器，具有独特的 3:2 宽高比。一项突出的功能是内置的 MoonHalo Bias Light，可以使用 Display Pilot 2 软件轻松控制。这种集成允许用户轻松调整各种灯光设置，例如开关、亮度、色温、灯光模式和不间断模式，从而增强整体用户体验。 MoonHalo 和显示器之间的无缝同步尤其巧妙，提供了可根据个人喜好进行微调的定制照明环境。]]></description>
+      <guid>https://t.me/hn_summary/90286</guid>
+      <pubDate>Sat, 18 May 2024 17:19:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>加布里埃尔·L.</title>
+      <link>https://t.me/hn_summary/90285</link>
+      <description><![CDATA[免费、支持 Linux 的自托管 64 位 RISC-V 计算机一个FPGA
+Gabriel L. Somlo 的项目旨在使用 FPGA 创建完全值得信赖、免费/开源、支持 Linux 的自托管 64 位 RISC-V 计算机。目标是确保硬件和软件完全透明且可审计，仅依赖免费/开源工具进行创建。这种方法通过使用 FPGA 来降低与硬件后门相关的风险，与 ASIC 相比，FPGA 提供了更安全、更可检查的制造流程。该项目强调了所有编译器和工具链都是免费/开源并能够在系统本身上运行的重要性。这种综合方法可确保高水平的可信度和安全性。 
+
+令人惊讶的是，该项目巧妙地利用了 FPGA 组件的规律性来促进目视检查，增强了针对硬件攻击的安全性。]]></description>
+      <guid>https://t.me/hn_summary/90285</guid>
+      <pubDate>Sat, 18 May 2024 17:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网址：www.ntnbr.com</title>
+      <link>https://t.me/hn_summary/90284</link>
+      <description><![CDATA[我组织了一场占地 20 英亩的夺旗游戏
+标题：我组织了一场20英亩的夺旗比赛
+站点：www.ntnbr.com
+
+这是我如何主持有史以来最史诗般的夺旗游戏的故事。朋友建议我在高中毕业前多搞点恶作剧，受到启发，我决定在当地的一个公园组织一场大型比赛。在观看了 YouTube 上的一个系列节目（其中四个人在日本各地玩“夺旗”游戏）后，我被这个想法迷住了。我精心策划了这次活动，选择了礼堂海岸而不是齐尔克公园，因为它的地形和规模更好。我邀请了 31 位朋友，购买了价值 120 美元的装备，包括腰旗橄榄球腰带和运动用球。该游戏具有独特的规则，例如中立区和使用操场球作为旗帜。尽管人们期待更多的进攻，但防守占主导地位，事实证明耐力比速度更重要。这次活动非常成功，我计划在 UT Austin 举办更多比赛。
+
+令人惊讶的是：微冻苹果竟然是一个美味的意外。
+独特之处：使用操场上的球作为旗帜，为传统游戏增添了乐趣。]]></description>
+      <guid>https://t.me/hn_summary/90284</guid>
+      <pubDate>Sat, 18 May 2024 17:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
