@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 18 May 2024 00:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 03:16:11 GMT</lastBuildDate>
+    <item>
+      <title>从通用到拉逆转：思考多维世界的设计（第 2 部分）</title>
+      <link>https://wired.jp/article/sz-pluriverse-escobar-mizuno-2/</link>
+      <description><![CDATA[主编采访的第二部分，我们向设计研究员水野大二郎询问拉反向（多世界）设计的可能性，该部分基于人类学家阿图罗·埃斯科巴（Arturo Escobar）的“多世界设计”关于过渡。]]></description>
+      <guid>https://wired.jp/article/sz-pluriverse-escobar-mizuno-2/</guid>
+      <pubDate>Sat, 18 May 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Google 搜索的“AI 概述”您需要了解的内容</title>
+      <link>https://wired.jp/article/google-ai-overviews-how-to-use-how-to-turn-off/</link>
+      <description><![CDATA[Google 搜索已开始在美国全面推出一项名为 AI Overviews 的新功能，该功能使用 AI 生成和显示搜索结果摘要。考虑到生成的人工智能可能会显示不准确的信息，这可能会导致搜索结果的可靠性下降。]]></description>
+      <guid>https://wired.jp/article/google-ai-overviews-how-to-use-how-to-turn-off/</guid>
+      <pubDate>Sat, 18 May 2024 01:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>“Twitter”这个名字彻底消失的那一天</title>
       <link>https://wired.jp/article/twitter-dead-x-elon-musk/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[OpenAI 首席科学家 Ilya Satskyvar 宣布将离开公司。新版ChatGPT发布仅一天后，这一突如其来的消息就在业界引起了轩然大波。]]></description>
       <guid>https://wired.jp/article/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</guid>
       <pubDate>Wed, 15 May 2024 02:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 在“Google I/O 2024”上宣布的 7 件事</title>
-      <link>https://wired.jp/article/everything-google-announced-at-io-2024/</link>
-      <description><![CDATA[谷歌在其开发者大会 Google I/O 上的主题演讲都是关于人工智能的。从多模式聊天机器人到新的人工智能搜索功能，再到 Google Workspace 和 Gemini 集成，以下七件事值得关注。]]></description>
-      <guid>https://wired.jp/article/everything-google-announced-at-io-2024/</guid>
-      <pubDate>Wed, 15 May 2024 00:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有效利他主义的消亡</title>
-      <link>https://wired.jp/article/sz-deaths-of-effective-altruism/</link>
-      <description><![CDATA[有效利他主义是硅谷宣扬在世界上最大限度地行善的宗教，但随着山姆·班克曼-弗里德 (Sam Bankman-Fried) 因欺诈和洗钱罪被判处 25 年徒刑，我想知道这个宗教是否终结了？]]></description>
-      <guid>https://wired.jp/article/sz-deaths-of-effective-altruism/</guid>
-      <pubDate>Tue, 14 May 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

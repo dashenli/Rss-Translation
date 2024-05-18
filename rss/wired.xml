@@ -3,8 +3,8 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Sat, 18 May 2024 00:57:04 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Sat, 18 May 2024 03:15:04 GMT</lastBuildDate>
     <item>
       <title>罗技 Pro X 60 键盘评测：最好、最亮、现在更小</title>
       <link>https://www.wired.com/review/logitech-pro-x-60/</link>
@@ -20,9 +20,9 @@
       <pubDate>Fri, 17 May 2024 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 上目前最佳的 43 部电影（2024 年 5 月）</title>
+      <title>目前 Netflix 上最好的 43 部电影（2024 年 5 月）</title>
       <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
-      <description><![CDATA[《城市猎人》、《Suzume》和《太空人》只是您本月应该在 Netflix 上观看的几部电影。]]></description>
+      <description><![CDATA[本月您应该在 Netflix 上观看的几部电影包括《城市猎人》、《小苏梅》和《太空人》。]]></description>
       <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
       <pubDate>Fri, 17 May 2024 19:00:00 GMT</pubDate>
     </item>
@@ -34,14 +34,14 @@
       <pubDate>Fri, 17 May 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>艾滋病毒疫苗带来新希望</title>
+      <title>HIV疫苗的新希望</title>
       <link>https://www.wired.com/story/hiv-vaccine-broadly-neutralizing-antibodies/</link>
       <description><![CDATA[一种试验疫苗已成功产生针对艾滋病毒所需的低水平抗体。这是预防感染的第一步，但也是急需的一步。]]></description>
       <guid>https://www.wired.com/story/hiv-vaccine-broadly-neutralizing-antibodies/</guid>
       <pubDate>Fri, 17 May 2024 17:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 收购战已拉开帷幕——但可能没有赢家</title>
+      <title>收购 TikTok 的竞赛已经开始，但可能没有赢家</title>
       <link>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</link>
       <description><![CDATA[投资者有兴趣购买 TikTok，以便它可以避免美国的禁令。但即使字节跳动接受，收购也远非简单。]]></description>
       <guid>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>OpenAI 的长期人工智能风险团队已解散</title>
       <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
-      <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
+      <description><![CDATA[《连线》杂志证实，专注于研究人工智能生存危机的整个 OpenAI 团队要么已经辞职，要么被其他研究小组吸收。]]></description>
       <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
       <pubDate>Fri, 17 May 2024 14:54:19 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 17 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>是时候相信人工智能炒作了</title>
+      <title>是时候相信人工智能的炒作了</title>
       <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
       <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
       <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
