@@ -3,13 +3,20 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 17 May 2024 18:19:32 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Sat, 18 May 2024 00:57:59 GMT</lastBuildDate>
+    <item>
+      <title>（播客）下游 69：支付看门人费用</title>
+      <link>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</link>
+      <description><![CDATA[为什么“伟大的重新捆绑”不是电缆束的回归？重新调整流媒体节目的人才报酬方式；派拉蒙在风中扭曲；斯普鲁有了真名； NFL 与 Netflix 达成协议；钻石体育遭到质疑。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</guid>
+      <pubDate>Sat, 18 May 2024 00:36:47 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）科利德</title>
       <link>https://sixcolors.com/sponsor/2024/05/kolide-41/</link>
-      <description><![CDATA[感谢 Kolide 本周再次赞助 Six Colors。
-您可能听说过 2023 年 9 月的 MGM 勒索软件攻击。但除了损坏的老虎机和其他轶事之外，事实上，这是一种新兴攻击方式的例子，我们肯定会看到更多。…]]></description>
+      <description><![CDATA[感谢 Kolide 本周再次赞助六色。
+您可能听说过 2023 年 9 月发生的米高梅勒索软件攻击。但除了老虎机损坏和其他轶事之外，事实是这是一种新兴攻击方式的例子，我们肯定会看到更多。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/05/kolide-41/</guid>
       <pubDate>Fri, 17 May 2024 16:00:20 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
       <pubDate>Tue, 14 May 2024 16:17:55 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 512：优点是小船</title>
+      <title>（播客）升级 512：小船才是利器</title>
       <link>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</link>
       <description><![CDATA[新款 iPad Pro 来了，Jason 与 Federico Viticci 一起讨论新型号、Jason 的评论以及 iPadOS 的局限性。斯蒂芬·哈克特加入节目并不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</guid>
@@ -87,8 +94,8 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
     <item>
       <title>（赞助商）回顾米高梅黑客事件的烟雾和镜子</title>
       <link>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</link>
-      <description><![CDATA[
-2023 年 9 月的米高梅黑客攻击迅速成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道损坏的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台的致命网络钓鱼电话。…]]></description>
+      <description><![CDATA[&lt;图标题&gt;
+2023 年 9 月的米高梅黑客攻击很快成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道了坏掉的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台致命的网络钓鱼电话。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
       <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
     </item>
@@ -96,7 +103,7 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
       <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
       <link>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</link>
       <description><![CDATA[感谢 Magic Lasso Adblock 赞助六色周。
-作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 – 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
+作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</guid>
       <pubDate>Fri, 10 May 2024 16:00:25 GMT</pubDate>
     </item>
@@ -111,16 +118,9 @@ Apple 今年的无障碍功能预览，恰逢全球无障碍宣传日的年度�
     <item>
       <title>（播客）顺时针 553：爱、医疗和愤怒的律师</title>
       <link>https://sixcolors.com/podcast/2024/05/clockwise-553-love-medical-care-and-an-angry-lawyer/</link>
-      <description><![CDATA[我们如何向人们推荐 iPad，Apple 是否应该停止举办活动，我们完美的聊天机器人会执行哪一项任务，以及我们对 Apple Pencil 的感受。…]]></description>
+      <description><![CDATA[我们如何向人们推荐 iPad，苹果是否应该停止举办活动，我们完美的聊天机器人会执行哪一项任务，以及我们对 Apple Pencil 的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/clockwise-553-love-medical-care-and-an-angry-lawyer/</guid>
       <pubDate>Wed, 08 May 2024 19:08:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 494：Ya Burnt、大卫·科波菲尔</title>
-      <link>https://sixcolors.com/podcast/2024/05/the-rebound-494-ya-burnt-david-copperfield/</link>
-      <description><![CDATA[约翰·特努斯 (John Ternus) 的精彩活动。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-494-ya-burnt-david-copperfield/</guid>
-      <pubDate>Wed, 08 May 2024 18:08:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
