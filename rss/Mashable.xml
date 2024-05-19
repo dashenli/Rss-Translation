@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>可混搭</title>
+    <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
-    <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
-创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
-媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
-在旧金山设有办事处。</description>
-    <lastBuildDate>Sat, 18 May 2024 23:33:49 GMT</lastBuildDate>
+    <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
+    <lastBuildDate>Sun, 19 May 2024 02:34:30 GMT</lastBuildDate>
     <item>
-      <title>亚马逊今日特惠：以不到 200 美元的价格购买时尚的 Samsung Jet 75 Pet 吸尘器</title>
+      <title>今天的“Wordle”：这是 5 月 19 日的答案提示</title>
+      <link>https://mashable.com/article/wordle-today-answer-may-19-2024</link>
+      <description><![CDATA[以下是 5 月 19 日“Wordle”#1065 的答案，以及一些帮助您自行解决问题的提示、技巧和线索。]]></description>
+      <guid>https://mashable.com/article/wordle-today-answer-may-19-2024</guid>
+      <pubDate>Sun, 19 May 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>今日纽约时报连线：查看 5 月 19 日的提示和答案</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-may-19-2024</link>
+      <description><![CDATA[Connections 是《纽约时报》的一款文字游戏，旨在寻找“单词之间的共同点”。如何解决这个难题。]]></description>
+      <guid>https://mashable.com/article/nyt-connections-hint-answer-today-may-19-2024</guid>
+      <pubDate>Sun, 19 May 2024 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊今日特卖：三星 Jet 75 Pet 直立式吸尘器售价不到 200 美元</title>
       <link>https://mashable.com/article/amazon-deals-of-the-day-samsung-jet-75-pet-may-3</link>
-      <description><![CDATA[5 月 3 日亚马逊当天最优惠的商品包括 Samsung Jet 75 Pet 吸尘器、Nespresso VertuoPlus、Nanit Pro 等。]]></description>
+      <description><![CDATA[5 月 3 日，亚马逊当日最优惠商品包括三星 Jet 75 Pet 直立式吸尘器、Nespresso VertuoPlus、Nanit Pro 等。]]></description>
       <guid>https://mashable.com/article/amazon-deals-of-the-day-samsung-jet-75-pet-may-3</guid>
       <pubDate>Sat, 18 May 2024 22:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊今日特惠：0 美元即可获得 3 个月的 Kindle Unlimited</title>
+      <title>今日亚马逊特惠：0 美元即可获得 3 个月的 Kindle Unlimited</title>
       <link>https://mashable.com/article/amazon-deals-of-the-day-kindle-unlimited-may-9</link>
       <description><![CDATA[5 月 9 日亚马逊当天最优惠的商品包括 Kindle Unlimited、AirPods Max、Kindle Scribe 和 ASUS Vivobook Go 12。]]></description>
       <guid>https://mashable.com/article/amazon-deals-of-the-day-kindle-unlimited-may-9</guid>
@@ -30,14 +41,14 @@
       <pubDate>Sat, 18 May 2024 21:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>什么是多利西斯？我尝试了 4chan 约会应用程序。</title>
+      <title>Duolicious 是什么？我试用了 4chan 约会应用。</title>
       <link>https://mashable.com/article/duolicious-4chan-femcel-dating-app</link>
       <description><![CDATA[使用 4chan 约会应用程序 Duolicious 感觉如何。]]></description>
       <guid>https://mashable.com/article/duolicious-4chan-femcel-dating-app</guid>
       <pubDate>Sat, 18 May 2024 20:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>《纽约时报》5 月 18 日的迷你填字游戏答案</title>
+      <title>《纽约时报》 5 月 18 日迷你填字游戏答案</title>
       <link>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-18-2024</link>
       <description><![CDATA[纽约时报 2024 年 5 月 18 日版迷你填字游戏每条线索的答案。]]></description>
       <guid>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-18-2024</guid>
@@ -58,7 +69,7 @@
       <pubDate>Sat, 18 May 2024 16:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>任务控制中心正“焦急地”试图拯救一艘飞往水星的航天器</title>
+      <title>任务控制中心正在“焦急地”尝试拯救一艘飞往水星的航天器</title>
       <link>https://mashable.com/article/mercury-mission-bepicolombo-thrust-problem</link>
       <description><![CDATA[一艘飞往水星的欧洲和日本联合航天器遇到了推力问题，可能会危及任务的未来。]]></description>
       <guid>https://mashable.com/article/mercury-mission-bepicolombo-thrust-problem</guid>
@@ -79,7 +90,7 @@
       <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>只需 25 美元即可在 Mac 上永久使用 MS Office</title>
+      <title>只需 25 美元即可永久在 Mac 上获得 MS Office</title>
       <link>https://mashable.com/deals/may-18-mso-19</link>
       <description><![CDATA[Microsoft Office Home &amp; Business 2019 Mac 版仅售 24.97 美元（原价 229 美元），截至 5 月 22 日。]]></description>
       <guid>https://mashable.com/deals/may-18-mso-19</guid>
@@ -93,24 +104,10 @@
       <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>只需 100 美元即可为您的汽车购买适用于 Apple 和 Android 的智能显示屏</title>
+      <title>只需 100 美元即可为您的汽车购买兼容 Apple 和 Android 的智能显示屏</title>
       <link>https://mashable.com/deals/may-18-wireless-car-display</link>
-      <description><![CDATA[这款 9 英寸无线车载显示器兼容 Apple CarPlay 和 Android Auto，目前售价 99.97 美元（原价 179.99 美元），截止 5 月 22 日。]]></description>
+      <description><![CDATA[这款兼容 Apple CarPlay 和 Android Auto 的 9 英寸无线车载显示器现价 99.97 美元（原价 179.99 美元），截止日期为 5 月 22 日。]]></description>
       <guid>https://mashable.com/deals/may-18-wireless-car-display</guid>
-      <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用此扩展坞可连接多达 13 台设备，只需 50 美元</title>
-      <link>https://mashable.com/deals/may-18-docking-station</link>
-      <description><![CDATA[这款 13 合 1 双 HDMI 扩展坞现价 49.99 美元（原价 70 美元）。]]></description>
-      <guid>https://mashable.com/deals/may-18-docking-station</guid>
-      <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么当巨大的太阳风暴袭击我们的星球时地球人是安全的</title>
-      <link>https://mashable.com/article/northern-lights-aurora-solar-storms-not-harmful</link>
-      <description><![CDATA[当太阳风暴和日冕物质抛射撞击地球并产生北极光时，人们会受到地球磁场和大气层的物理保护，免受辐射。]]></description>
-      <guid>https://mashable.com/article/northern-lights-aurora-solar-storms-not-harmful</guid>
       <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
