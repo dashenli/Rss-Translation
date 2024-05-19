@@ -3,8 +3,8 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Sun, 19 May 2024 03:15:46 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Sun, 19 May 2024 06:16:41 GMT</lastBuildDate>
     <item>
       <title>“魔法联盟”：迪士尼乐园人物投票成立工会</title>
       <link>https://www.npr.org/2024/05/18/1252038293/disney-union-election-parade-characters-actors-equity-vote</link>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 19 May 2024 01:47:48 GMT</pubDate>
     </item>
     <item>
-      <title>加沙的一名美国医生希望拜登总统知道“我们不安全”</title>
+      <title>加沙的一名美国医生希望拜登总统知道“我们并不安全”</title>
       <link>https://www.npr.org/2024/05/18/1252324720/american-doctor-gaza-israel-hospital-interview</link>
       <description><![CDATA[亚当·哈马威博士是一名前美国陆军战外科医生，目前在加沙。他说他主要治疗的是平民，而不是战斗人员：“主要是儿童，许多妇女，许多老人。”]]></description>
       <guid>https://www.npr.org/2024/05/18/1252324720/american-doctor-gaza-israel-hospital-interview</guid>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 18 May 2024 19:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>以色列战争内阁成员表示，如果没有计划取代哈马斯，他将辞职</title>
+      <title>以色列战时内阁成员表示，如果没有计划取代哈马斯，他将辞职</title>
       <link>https://www.npr.org/2024/05/18/1252325103/member-of-israeli-war-cabinet-threatens-to-quit-if-gaza-plan-doesnt-change</link>
       <description><![CDATA[战争内阁成员本尼·甘茨的最后通牒反映了以色列领导层对总理本雅明·内塔尼亚胡及其极右翼政治伙伴的处理方式的不满。]]></description>
       <guid>https://www.npr.org/2024/05/18/1252325103/member-of-israeli-war-cabinet-threatens-to-quit-if-gaza-plan-doesnt-change</guid>
@@ -43,14 +43,14 @@
     <item>
       <title>陷入困境的波音公司 Starliner 航天器发射再次推迟</title>
       <link>https://www.npr.org/2024/05/18/1252311564/nasa-boeing-starliner-launch-delayed-international-space-station</link>
-      <description><![CDATA[氦气泄漏导致计划的发射推迟至 5 月 25 日。波音公司往返国际空间站的宇航员往返计划一直问题重重。]]></description>
+      <description><![CDATA[氦气泄漏将原计划的发射推迟到 5 月 25 日。波音公司运送宇航员往返国际空间站的计划一直存在问题。]]></description>
       <guid>https://www.npr.org/2024/05/18/1252311564/nasa-boeing-starliner-launch-delayed-international-space-station</guid>
       <pubDate>Sat, 18 May 2024 15:13:59 GMT</pubDate>
     </item>
     <item>
       <title>皮特·麦克洛斯基的一生提醒我们，长久以来的政治如何在当下继续存在</title>
       <link>https://www.npr.org/2024/05/18/1252143554/pete-mccloskey-dead</link>
-      <description><![CDATA[麦克洛斯基的故事既有深厚的根源，又有不断增长的相关性。他于本月去世，享年 96 岁，早已淡出了人们的视线，但他一直愿意倡导的问题却一如既往地引人注目。]]></description>
+      <description><![CDATA[麦克洛斯基的故事有着深厚的渊源和不断增长的相关性。他于本月去世，享年 96 岁，早已淡出了人们的视线，但他一直愿意倡导的问题却一如既往地引人注目。]]></description>
       <guid>https://www.npr.org/2024/05/18/1252143554/pete-mccloskey-dead</guid>
       <pubDate>Sat, 18 May 2024 13:24:42 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Sat, 18 May 2024 13:06:13 GMT</pubDate>
     </item>
     <item>
-      <title>其他国家有更好的防晒霜。这就是为什么我们在美国买不到它们的原因</title>
+      <title>其他国家有更好的防晒霜。这就是我们在美国买不到它们的原因。</title>
       <link>https://www.npr.org/sections/health-shots/2024/05/18/1251919831/sunscreen-effective-better-ingredients-fda</link>
-      <description><![CDATA[皮肤癌是美国最常见的癌症，我们需要尽可能获得的所有保护。那么，为什么在这里获得更新、更有效的成分如此难以获得批准呢？]]></description>
+      <description><![CDATA[皮肤癌是美国最常见的癌症，我们需要尽可能多地保护自己。那么为什么在美国获得更新、更有效的成分批准如此困难呢？]]></description>
       <guid>https://www.npr.org/sections/health-shots/2024/05/18/1251919831/sunscreen-effective-better-ingredients-fda</guid>
       <pubDate>Sat, 18 May 2024 11:01:09 GMT</pubDate>
     </item>
