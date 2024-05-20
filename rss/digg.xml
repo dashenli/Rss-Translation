@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>挖掘热门故事</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Mon, 20 May 2024 15:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 18:19:53 GMT</lastBuildDate>
     <item>
-      <title>互联网被这名男子的音调不清的励志视频激怒</title>
+      <title>这些爱尔兰孩子制作了一首舞曲，而且难度非常大</title>
+      <link>https://rss.digg.com/digg-vids/link/irish-children-song-rte-video</link>
+      <description><![CDATA[准备好在今天剩下的时间里把这个记在脑子里。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/irish-children-song-rte-video</guid>
+      <pubDate>Fri, 17 May 2024 11:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位认为女性应该成为“家庭主妇”的足球运动员，以及本周的“一个主角”的更多内容</title>
+      <link>https://rss.digg.com/one-main-character/link/one-main-character-harrison-butker-bus-hammock-assassins-creed</link>
+      <description><![CDATA[公交车上吊床上的一名男子确实引起了互联网的关注。]]></description>
+      <guid>https://rss.digg.com/one-main-character/link/one-main-character-harrison-butker-bus-hammock-assassins-creed</guid>
+      <pubDate>Fri, 17 May 2024 09:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>她记录了女儿工作的头两天——事情是这样的</title>
+      <link>https://rss.digg.com/digg-vids/link/gen-z-at-work-funny-cute-video</link>
+      <description><![CDATA[我的第一份工作是在赛百味，隔壁养老院的居民会嘲笑我什么都做不好。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/gen-z-at-work-funny-cute-video</guid>
+      <pubDate>Thu, 16 May 2024 20:40:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>她问了父亲一个不可能的问题——他的回答会融化你的心</title>
+      <link>https://rss.digg.com/digg-vids/link/father-daughter-cute-heartwarming-story-video</link>
+      <description><![CDATA[“如果你只能救掉溺水的我或妈妈，你会怎么做？”她问。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/father-daughter-cute-heartwarming-story-video</guid>
+      <pubDate>Thu, 16 May 2024 20:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个男人的音聋励志视频激怒了互联网</title>
       <link>https://rss.digg.com/digg-vids/link/travel-vacation-epic-fail-funny-video</link>
       <description><![CDATA[“你得有多缺钱，又有多富有才能上传这样的内容？”一位人士评论道。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/travel-vacation-epic-fail-funny-video</guid>
@@ -18,13 +46,6 @@
       <description><![CDATA[您以前可能已经放弃了所有这些职业道路。]]></description>
       <guid>https://rss.digg.com/productivity/link/unexpected-good-jobs-career-reddit</guid>
       <pubDate>Thu, 16 May 2024 15:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>No Doubt 1992 年专辑发布会证明格温·史蒂芬尼 (Gwen Stefani) 注定会成为明星</title>
-      <link>https://rss.digg.com/digg-vids/link/no-doubt-gwen-stefani-1992-whisky-a-go-go-video</link>
-      <description><![CDATA[No Doubt 在西好莱坞臭名昭著的 Whiskey a Go Go 现场表演，让观众正确品味了他们的第一张录音室专辑。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/no-doubt-gwen-stefani-1992-whisky-a-go-go-video</guid>
-      <pubDate>Thu, 16 May 2024 12:55:15 GMT</pubDate>
     </item>
     <item>
       <title>查尔斯国王的新肖像以及本周其他最佳模因排名</title>
@@ -50,7 +71,7 @@
     <item>
       <title>我们什么时候停止寻找新音乐？统计分析</title>
       <link>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</link>
-      <description><![CDATA[我们的音乐品味什么时候会停滞不前？]]></description>
+      <description><![CDATA[我们的音乐品味什么时候停滞不前了？]]></description>
       <guid>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</guid>
       <pubDate>Wed, 15 May 2024 19:10:34 GMT</pubDate>
     </item>
@@ -62,18 +83,11 @@
       <pubDate>Wed, 15 May 2024 17:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>九首杀手贝斯线会让你忘记歌曲的其余部分</title>
+      <title>九个杀手级的低音线会让你忘记这首歌的其余部分</title>
       <link>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</link>
       <description><![CDATA[贝斯线经常淡出背景，但有时它们非常棒，可以接管一切。]]></description>
       <guid>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</guid>
       <pubDate>Wed, 15 May 2024 14:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国空气污染最严重的城市排名</title>
-      <link>https://rss.digg.com/data-viz/link/most-polluted-cities-US-ranked</link>
-      <description><![CDATA[美国污染最严重的城市PM2.5平均浓度为18.8微克/立方米。世界卫生组织建议的空气质量限值为 5 µg/m3。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/most-polluted-cities-US-ranked</guid>
-      <pubDate>Wed, 15 May 2024 12:48:02 GMT</pubDate>
     </item>
     <item>
       <title>这八种症状促使癌症幸存者去看医生</title>
@@ -83,20 +97,6 @@
       <pubDate>Tue, 14 May 2024 15:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>如何计算安全辞职需要多少钱</title>
-      <link>https://rss.digg.com/digg-vids/link/your-rich-bff-vivian-tu-video</link>
-      <description><![CDATA[这是有数字的，而且可能没有你想象的那么疯狂。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/your-rich-bff-vivian-tu-video</guid>
-      <pubDate>Mon, 13 May 2024 17:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你的朋友在你家里找到（或没有找到）这些东西时，他们正在评判你</title>
-      <link>https://rss.digg.com/internet-culture/link/judge-house-home-appartment-reddit</link>
-      <description><![CDATA[如果你有这些东西，你几乎肯定会引起一些侧目。]]></description>
-      <guid>https://rss.digg.com/internet-culture/link/judge-house-home-appartment-reddit</guid>
-      <pubDate>Mon, 13 May 2024 15:22:15 GMT</pubDate>
-    </item>
-    <item>
       <title>纽约-都柏林门户网站因“不当”行为以及更多本周最奇怪的世界新闻而关闭</title>
       <link>https://rss.digg.com/internet-culture/link/weird-news-stories-new-york-dublin-portal-fake-restaurant-reviews-tokyo-raccoons</link>
       <description><![CDATA[一名英国人因在一家泰国餐厅充斥虚假一星评论而面临起诉。]]></description>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 10 May 2024 11:28:49 GMT</pubDate>
     </item>
     <item>
-      <title>下“非常糟糕的国际象棋”</title>
+      <title>玩“非常糟糕的象棋”</title>
       <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
       <description><![CDATA[与普通国际象棋不同，在“Really Bad Chess”中，棋子分配是随机的，而不是镜像的。]]></description>
       <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
