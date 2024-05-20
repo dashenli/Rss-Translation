@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg 热门新闻</title>
+    <title>挖掘热门故事</title>
     <link>https://digg.com</link>
-    <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Mon, 20 May 2024 06:19:29 GMT</lastBuildDate>
+    <description>Digg - 互联网上现在正在讨论什么</description>
+    <lastBuildDate>Mon, 20 May 2024 09:18:26 GMT</lastBuildDate>
     <item>
       <title>这里是普通毕业生可以租得起最多房产的地方</title>
       <link>https://rss.digg.com/real-estate/link/graduate-cities-affordable-rent-median-salary</link>
@@ -15,7 +15,7 @@
     <item>
       <title>九首杀手贝斯线会让你忘记歌曲的其余部分</title>
       <link>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</link>
-      <description><![CDATA[低音线通常会逐渐消失在背景中，但有时它们的效果非常好，以至于可以主导一切。]]></description>
+      <description><![CDATA[贝斯线经常淡出背景，但有时它们非常棒，可以接管一切。]]></description>
       <guid>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</guid>
       <pubDate>Wed, 15 May 2024 14:51:25 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 13 May 2024 15:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>这座加州住宅隐藏着一些丰富多彩的秘密。看看里面</title>
+      <title>这个加州的家隐藏着一些丰富多彩的秘密。看看里面</title>
       <link>https://rss.digg.com/real-estate/link/San-Luis-Obispo-california-home-photos</link>
       <description><![CDATA[该房产荣获圣路易斯美丽家园奖，挂牌价不到 200 万美元。]]></description>
       <guid>https://rss.digg.com/real-estate/link/San-Luis-Obispo-california-home-photos</guid>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 12 May 2024 10:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>纽约-都柏林门户网站因“不当”行为以及更多本周最奇怪的世界新闻而关闭</title>
+      <title>纽约-都柏林门户网站因“不当”行为而关闭，以及本周最奇怪的世界新闻</title>
       <link>https://rss.digg.com/internet-culture/link/weird-news-stories-new-york-dublin-portal-fake-restaurant-reviews-tokyo-raccoons</link>
       <description><![CDATA[一名英国人因在一家泰国餐厅充斥虚假一星评论而面临起诉。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/weird-news-stories-new-york-dublin-portal-fake-restaurant-reviews-tokyo-raccoons</guid>
