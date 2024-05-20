@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg 热门新闻</title>
+    <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Mon, 20 May 2024 18:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 21:13:31 GMT</lastBuildDate>
+    <item>
+      <title>在这个有争议的笑话之后，她将永远无法再次在亚利桑那州表演</title>
+      <link>https://rss.digg.com/digg-vids/link/Liza-Treyger-comedian-video</link>
+      <description><![CDATA[没人能把这个给梅根麦凯恩看，我想成为那个人。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/Liza-Treyger-comedian-video</guid>
+      <pubDate>Fri, 17 May 2024 16:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>大卫·莱特曼以最具标志性的方式结束了斯蒂芬·科尔伯特的采访问题</title>
+      <link>https://rss.digg.com/digg-vids/link/david-letterman-stephen-colbert-afterlife-video</link>
+      <description><![CDATA[在参加科尔伯特提问时，莱特曼以专业的喜剧风格巧妙地回避了一个严肃的问题。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/david-letterman-stephen-colbert-afterlife-video</guid>
+      <pubDate>Fri, 17 May 2024 15:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周评论：《Megalopolis》、《The Strangers》、《IF》和《Back To Black》</title>
+      <link>https://rss.digg.com/movies-and-tv/link/weekly-reviews-megalopolis-the-strangers-if-babes-back-to-black</link>
+      <description><![CDATA[这周都是电影，而且大多数都是……真的很糟糕？]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/weekly-reviews-megalopolis-the-strangers-if-babes-back-to-black</guid>
+      <pubDate>Fri, 17 May 2024 13:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>这些爱尔兰孩子制作了一首舞曲，而且难度非常大</title>
       <link>https://rss.digg.com/digg-vids/link/irish-children-song-rte-video</link>
@@ -15,30 +36,9 @@
     <item>
       <title>一位认为女性应该成为“家庭主妇”的足球运动员，以及本周的“一个主角”的更多内容</title>
       <link>https://rss.digg.com/one-main-character/link/one-main-character-harrison-butker-bus-hammock-assassins-creed</link>
-      <description><![CDATA[公交车上吊床上的一名男子确实引起了互联网的关注。]]></description>
+      <description><![CDATA[公交车上一名躺在吊床上的男子确实激发了互联网的想象力。]]></description>
       <guid>https://rss.digg.com/one-main-character/link/one-main-character-harrison-butker-bus-hammock-assassins-creed</guid>
       <pubDate>Fri, 17 May 2024 09:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>她记录了女儿工作的头两天——事情是这样的</title>
-      <link>https://rss.digg.com/digg-vids/link/gen-z-at-work-funny-cute-video</link>
-      <description><![CDATA[我的第一份工作是在赛百味，隔壁养老院的居民会嘲笑我什么都做不好。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/gen-z-at-work-funny-cute-video</guid>
-      <pubDate>Thu, 16 May 2024 20:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>她问了父亲一个不可能的问题——他的回答会融化你的心</title>
-      <link>https://rss.digg.com/digg-vids/link/father-daughter-cute-heartwarming-story-video</link>
-      <description><![CDATA[“如果你只能救掉溺水的我或妈妈，你会怎么做？”她问。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/father-daughter-cute-heartwarming-story-video</guid>
-      <pubDate>Thu, 16 May 2024 20:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个男人的音聋励志视频激怒了互联网</title>
-      <link>https://rss.digg.com/digg-vids/link/travel-vacation-epic-fail-funny-video</link>
-      <description><![CDATA[“你得有多缺钱，又有多富有才能上传这样的内容？”一位人士评论道。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/travel-vacation-epic-fail-funny-video</guid>
-      <pubDate>Thu, 16 May 2024 19:11:43 GMT</pubDate>
     </item>
     <item>
       <title>与当前（痛苦的）工作相比，您实际上可能更喜欢九种职业</title>
@@ -71,7 +71,7 @@
     <item>
       <title>我们什么时候停止寻找新音乐？统计分析</title>
       <link>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</link>
-      <description><![CDATA[我们的音乐品味什么时候停滞不前了？]]></description>
+      <description><![CDATA[我们的音乐品味什么时候会停滞不前？]]></description>
       <guid>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</guid>
       <pubDate>Wed, 15 May 2024 19:10:34 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 15 May 2024 17:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>九个杀手级的低音线会让你忘记这首歌的其余部分</title>
+      <title>九首杀手贝斯线会让你忘记歌曲的其余部分</title>
       <link>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</link>
       <description><![CDATA[贝斯线经常淡出背景，但有时它们非常棒，可以接管一切。]]></description>
       <guid>https://rss.digg.com/music/link/best-bass-lines-ever-music-reddit</guid>
