@@ -4,7 +4,14 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Mon, 20 May 2024 01:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 12:28:24 GMT</lastBuildDate>
+    <item>
+      <title>集体#840</title>
+      <link>https://tympanus.net/codrops/collective/collective-840/</link>
+      <description><![CDATA[介绍 CSS 锚点定位 API * 高级范围语法 * 最佳意图障碍（ARIA 版）]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
+      <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>集体#839</title>
       <link>https://tympanus.net/codrops/collective/collective-839/</link>
@@ -13,9 +20,9 @@
       <pubDate>Fri, 17 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>UI 交互和动画综述 #43</title>
+      <title>UI 交互和动画综述#43</title>
       <link>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</link>
-      <description><![CDATA[探索我们最新的动态设计系列，其中包含来自 Dribbble 的最佳镜头，以激发您的创造力。]]></description>
+      <description><![CDATA[探索我们最新的动作设计系列，其中包含 Dribbble 的最佳镜头，让您的创造力源源不断。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</guid>
       <pubDate>Wed, 15 May 2024 10:53:52 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>使用 React Three Fiber 探索 3D 文本扭曲效果</title>
       <link>https://tympanus.net/codrops/2024/05/08/exploring-a-3d-text-distortion-effect-with-react-three-fiber/</link>
-      <description><![CDATA[关于如何在 React Three Fiber 中创建漂亮的扭曲文本环效果的快速教程。]]></description>
+      <description><![CDATA[有关如何在 React Three Fiber 中创建漂亮的扭曲文本环效果的快速教程。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/08/exploring-a-3d-text-distortion-effect-with-react-three-fiber/</guid>
       <pubDate>Wed, 08 May 2024 14:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#836</title>
-      <link>https://tympanus.net/codrops/collective/collective-836/</link>
-      <description><![CDATA[酷查询 * 无尽的工具 * 微小的世界地图 * 发射和绽放]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-836/</guid>
-      <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

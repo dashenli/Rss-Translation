@@ -4,7 +4,29 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 21 May 2024 03:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 12:25:40 GMT</lastBuildDate>
+    <item>
+      <title>Aqara新款智能插座可根据电量触发场景</title>
+      <link>https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price</link>
+      <description><![CDATA[&lt;图&gt;
+      
+Aqara 墙壁插座 H2 可以根据实时电量使用情况触发场景。 |图片：Aqara
+
+Aqara 刚刚发布了售价 39.99 欧元的墙壁插座 H2 ，它为欧洲使用的标准 16A 墙壁插座提供一对一的智能替代品。它的派对技巧是能够监控连接设备和电器的实时用电量，以启动家庭自动化。
+例如，如果您在睡觉时为手机充电，您可以在 H2 启动后立即自动激活夜间场景 - 手臂运动探测器、锁门、关闭百叶窗和关灯开始拉动超过 10W 的功率。或者，它可以检测洗衣周期何时结束，从而关闭机器并向您发送通知 - 这样您就不必不断地听它发出蜂鸣声，直到您最终因为购买了廉价的入门级洗衣机而带着深深的遗憾走上楼你已经开始讨厌博斯了（是的：这就是我）。
+墙壁插座 H2 基于 Zigbee 3.0 构建，不像 Eve 的智能插座那样的 Thread，但如果您有兼容的 Aqara 集线器（例如 已安装新 M3。即使没有 Matter，Aqara 的集线器也能确保与 Apple Home、Alexa、Google Home、Samsung SmartThings、Home Assistant 和其他智能家居解决方案的兼容性。
+ 
+
+图片：Aqara
+Aqara H2 适合标准 55 毫米壁板。
+
+
+H2 可以在高达 3840W 的定义阈值下自动停用电源。一旦功率低于用户定义的 0W 至 2W 负载并持续超过 30 分钟，它还可以关闭插孔，这可以提高电池充电安全性和某些电池的使用寿命。它设计用于在单插座或多插座配置中安装标准 55 毫米壁板。设备本身的 LED 灯可以配置为显示当前状态或完全关闭。
+Aqara 的能源管理方法类似于 宜家最近宣布Energy Insights 功能和 Inspelning 能源监控智能插头，因为它目前采用了专有方法。希望它们都能与 Matter 的  配合使用新能源监控能力即将到来。对家庭能源消耗的智能控制不仅有可能使家庭变得更加智能，而且可以减少能源使用并节省资金。
+售价 39.99 欧元（约合 43 美元）的 Aqara Wall Outlet H2 将于 5 月 30 日起在部分欧洲国家/地区发售。]]></description>
+      <guid>https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price</guid>
+      <pubDate>Tue, 21 May 2024 09:25:15 GMT</pubDate>
+    </item>
     <item>
       <title>斯嘉丽·约翰逊 (Scarlett Johansson) 告诉 OpenAI 不要使用她的声音，但她还是不高兴他们这么做了</title>
       <link>https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action</link>
@@ -22,7 +44,7 @@
 沃尔沃推出了首款“量产型”自动驾驶卡车，它是与 Aurora 合作，这是一家由 Google、Uber 和 Tesla 前高管创立的自动驾驶技术公司。 
 该卡车基于沃尔沃的新型 VNL 打造，这是一款专为长途运输而设计的 8 级半挂卡车。该卡车的自动驾驶版本配备了一系列传感器和摄像头，为 Aurora 的 4 级自动驾驶系统提供动力，使卡车能够在无人驾驶的情况下运行。两家公司表示，这款卡车是为 Aurora 的自动驾驶硬件和软件堆栈“专门设计和制造的”。 
 “这款卡车是我们标准化全球自动驾驶技术平台的第一款，这将使我们能够在未来推出更多车型，为所有沃尔沃集团卡车品牌以及其他地区和用例带来自动驾驶功能”，沃尔沃自主解决方案总裁尼尔斯·耶格（Nils Jaeger）在一份声明中表示。 
-该卡车基于沃尔沃全新 VNL 打造，这是一款专为长途运输而设计的 8 级半挂卡车
+该卡车基于沃尔沃全新 VNL 打造，这是一款专为长途运输打造的 8 级半挂卡车
 专用车辆的理念对于自动驾驶卡车的大规模生产非常重要，如果公司想要获得巨额资金回报，这一点至关重要我们投资了 AV 开发。这些卡车将在沃尔沃位于弗吉尼亚州都柏林的新河谷工厂生产，该工厂是该公司全球最大的工厂。 
 沃尔沃生产了全球约 10% 的 8 级卡车，该公司于 2018 年首次开始与 Aurora 合作开发自动驾驶卡车解决方案。两家公司已在公共道路上测试了他们的技术，Aurora 已在商业道路上行驶了 150 万英里。 
 
@@ -76,7 +98,7 @@ PayPal 发言人向 Business Insider 表示，该公司一年前终止了 2,500 
 损坏的数据库到底意味着什么？
 
 这显然是一个隐私问题。它提出了一些合理的问题：苹果如何存储照片数据，以及 iPhone 用户是否能真正相信他们删除的数据确实被删除了。 The Verge 已多次联系苹果公司就此事发表公开评论，但尚未收到回复。这样做至少可以阐明为什么会发生这个错误，已经采取了哪些措施来修复它，以及它正在采取哪些措施来确保这种情况不会再次发生。不过，苹果尚未对此做出回应。 
-令人不安的是，只要苹果保持沉默，我们就不知道这个错误会蔓延到什么程度。一些 iPhone 用户报告删除的语音邮件也发生了同样的情况。该错误仅影响使用 iCloud 照片备份的用户吗？另一篇帖子声称，旧照片出现在已出售给他人的 iPad 上。今天的所有修复都证实了这个错误确实存在，它是一个问题，并且与数据库损坏有关。而且，忽视对此事公开评论的请求并不能让人相信这种情况不会再次发生。
+令人不安的是，只要苹果保持沉默，我们就不知道这个错误会蔓延到什么程度。一些 iPhone 用户报告删除的语音邮件也发生了同样的情况。该错误仅影响使用 iCloud 照片备份的用户吗？另一篇帖子声称，旧照片出现在已出售给他人的 iPad 上。今天的所有修复都证实了这个错误确实存在，它是一个问题，并且与数据库损坏有关。忽视对此事公开评论的请求并不能让人相信这种情况不会再次发生。
 
 当然，您可以将眼镜推到鼻子上并说：“实际上，在被覆盖之前，任何文件都不会被真正删除......”虽然这是事实，但理性的客户会期望这样的情况当苹果说删除的文件是永久删除时，这种事情根本不可能发生。
 错误和失误时有发生。网络安全研究人员一直在发现错误和漏洞。通常，他们会在问题被利用之前向相关公司报告问题，只有在问题得到修复后才披露漏洞。如果苹果想等到漏洞被修复以防止不良行为者利用这一情况，那是合理的。然而，这并不意味着他们就可以在这个问题上永远保持沉默。 
@@ -87,18 +109,18 @@ PayPal 发言人向 Business Insider 表示，该公司一年前终止了 2,500 
     <item>
       <title>OpenAI 正在通过听起来像她的 ChatGPT 声音与斯嘉丽·约翰逊“对话”</title>
       <link>https://www.theverge.com/2024/5/20/24161108/openai-scarlett-johanson-chatgpt-her-sky</link>
-      <description><![CDATA[&lt;图&gt;
-      
+      <description><![CDATA[
+
 图片：OpenAI
 
-OpenAI 表示，在公司成立后，它已与斯嘉丽约翰逊的代表取得了联系在 ChatGPT 上删除了其中一个声音，因为听起来与这位女演员太相似。
-“我们一直在与 ScarJo 的团队进行对话，因为似乎存在一些混乱。我们希望认真对待反馈并倾听他们的担忧。”OpenAI 模型行为主管 Joanne Jang 说道。 
-Johansson 此后回复了她自己的声明，说道：“去年 9 月，我收到了 Sam Altman 的邀请，他想聘请我为当前的 ChatGPT 4.0 系统配音……经过深思熟虑并出于个人原因，我拒绝了这个邀请。九个月后，我的朋友、家人和公众都注意到名为“Sky”的最新系统听起来多么像我。” Altman 和 OpenAI 坚称 Sky 的声音“不是斯嘉丽约翰逊的”，并表示，“我们对约翰逊女士感到抱歉，我们没有更好地沟通。”
-OpenAI 取消了 ChatGPT 上的默认语音之一 Sky，上周它因听起来像电影《她》中智能语音助手 Johansson 的声音而成为头条新闻。 。 OpenAI 首席技术官 Mira Murati 在 The Verge 中向 The Verge 表示上周接受采访时表示，该公司无意模仿约翰逊性感的人工智能助手。 
-Jang 是为聊天机器人提供声音的演员选拔团队的一员，他表示人们可能会听到 Johansson 的角色与 OpenAI 的声音之间的相似之处 ，因为很少有相似之处说服女性语音助手的例子。 Jang 说，Siri 和 Alexa 等其他语音助手“听起来仍然像机器人”。
-ChatGPT 从去年开始就有声音，但 Sky 的声音直到上周才获得关注，当时该公司通过其 GPT-4o 模型。 Jang 表示，用户可以提示他们选择的声音具有个性，因此 Sky 或 ChatGPT 上的任何其他声音可以是活泼的、更有节制的，甚至是悲伤的，具体取决于用户和他们最常联系的个性。
-“我们希望用户感到轻松，”Jang 说，定制对于让用户感到自然的体验非常重要。 “我们知道他们想要一种[不会让用户]必须假装成别人的产品。”
-5 月 20 日更新：添加了 Scarlett Johansson 和 OpenAI 首席执行官 Sam Altman 的声明摘录。]]></description>
+OpenAI 表示，在该公司删除了斯嘉丽约翰逊的一位配音后，该公司已与斯嘉丽约翰逊的代表取得联系ChatGPT 的发音与女演员太相似。
+“我们一直在与 ScarJo 的团队交谈，因为似乎存在一些混淆。我们希望认真对待反馈并听取他们的担忧，”OpenAI 模型行为负责人 Joanne Jang 说。
+约翰逊此后发表了自己的声明，她说：“去年 9 月，我收到了 Sam Altman 的邀请，他想聘请我为当前的 ChatGPT 4.0 系统配音……经过深思熟虑并出于个人原因，我拒绝了这个提议。九个月后，我的朋友、家人和公众都注意到，名为“Sky”的最新系统听起来多么像我。” Altman 和 OpenAI 坚称 Sky 的声音“不是斯嘉丽约翰逊的”，并表示“我们很抱歉没能更好地与约翰逊女士沟通。”
+OpenAI 撤下了 ChatGPT 上的默认声音之一 Sky，因为它的声音与约翰逊在电影《她》中扮演的智能语音助手一模一样，上周登上头条新闻。OpenAI 首席技术官 Mira Murati 在上周的一次采访中告诉 The Verge，该公司无意模仿约翰逊性感的人工智能助手。 
+Jang 是负责为聊天机器人挑选配音演员的团队成员之一，他表示，人们可能会听到约翰逊的角色 与 OpenAI 的声音有相似之处，因为目前很少有令人信服的女性语音助手。Jang 说，其他语音助手，如 Siri 和 Alexa，“听起来仍然像机器人”。
+ChatGPT 自去年以来就有了声音，但 Sky 的声音直到上周才引起人们的关注，当时该公司通过其 GPT-4o 模型让语音助手更具表现力。 Jang 表示，用户可以让他们选择的声音具有个性，因此 Sky 或 ChatGPT 上的任何其他声音都可以是活泼的、更有分寸的，甚至是悲伤的，这取决于用户和他们最能产生共鸣的个性。
+“我们希望用户感到轻松自在，”Jang 说道，而定制对于让用户感觉自然的体验至关重要。“我们知道他们想要一种 [不会让用户] 假装成别人的产品。”
+5 月 20 日更新： 添加了斯嘉丽·约翰逊和 OpenAI 首席执行官 Sam Altman 的声明摘录。]]></description>
       <guid>https://www.theverge.com/2024/5/20/24161108/openai-scarlett-johanson-chatgpt-her-sky</guid>
       <pubDate>Mon, 20 May 2024 21:29:16 GMT</pubDate>
     </item>
@@ -114,7 +136,7 @@ ChatGPT 从去年开始就有声音，但 Sky 的声音直到上周才获得关�
 
 Lunar Lake 芯片将配备 CPU、集成 Xe2 GPU 和神经处理单元 (NPU)。英特尔表示，与前代 Meteor Lake 处理器相比，Lunar Lake 处理器的人工智能性能是其三倍。这是因为它的 NPU 能够每秒执行超过 40 兆兆次运算 (TOPS)，这与 Meteor Lake 芯片包含在一系列已经上市的 AI PC 中。
 英特尔计划将其 Lunar Lake 芯片引入 20 多家笔记本电脑制造商的 80 多种新笔记本电脑设计中，目标是到今年年底出货 4000 万台 AI PC 处理器。 
-我们肯定会在下个月的 Computex 期间听到更多有关 Lunar Lake 的信息，以及它在 AI PC 战场上与 AMD Zen 5 和高通 Oryon 的竞争地位，以及 八月份的 Hot Chips 会议。]]></description>
+我们肯定会在下个月的 Computex 期间听到更多有关 Lunar Lake 的信息，以及它在 AI PC 战场上与 AMD Zen 5 和高通 Oryon 的对比以及 八月份的 Hot Chips 会议。]]></description>
       <guid>https://www.theverge.com/2024/5/20/24161095/intel-ai-lunar-lake-cpu-release</guid>
       <pubDate>Mon, 20 May 2024 21:14:21 GMT</pubDate>
     </item>
@@ -139,18 +161,11 @@ Lunar Lake 芯片将配备 CPU、集成 Xe2 GPU 和神经处理单元 (NPU)。�
 图片：三星
 这就是泛银河系的协同作用。 
 
-16 英寸型号有两个版本：一种配备最高端的 Snapdragon X Elite 处理器（最高可达 4.2GHz）和 1TB 存储空间，售价 1,749.99 美元，另一种配备相同版本处理器为 14 英寸，存储空间为 512GB，售价 1,449.99 美元。它们的显示屏规格与 14 英寸相同，只是更大。除了两个 USB 4 Type-C 端口、HDMI 2.1 和组合音频之外，每款 16 英寸产品还配有一个 USB 3.2 Type-A 端口和一个 microSD 卡插槽。两者均重 3.4 磅。
+16 英寸型号有两个版本：一种配备最高端的 Snapdragon X Elite 处理器（最高可达 4.2GHz）和 1TB 存储空间，售价 1,749.99 美元，另一种配备相同版本处理器为 14 英寸，存储容量为 512GB，售价 1,449.99 美元。它们的显示屏规格与 14 英寸相同，只是更大。除了两个 USB 4 Type-C 端口、HDMI 2.1 和组合音频之外，每款 16 英寸产品还配有一个 USB 3.2 Type-A 端口和一个 microSD 卡插槽。两者均重 3.4 磅。
 根据三星新闻稿中的规格，这三款电脑的 RAM 上限均为 16GB，这是 Copilot Plus PC 的最低配置，感觉有点微不足道。它们确实包括三星的 Knox 安全飞地和一系列可让它们与三星 Galaxy 手机共享数据的功能。协同作用！
 您应该可以从 5 月 20 日开始预订这三款产品。如上所述，三星推出了一款免费的预算 50 英寸电视，通常价格为 379 美元，预购售完即止。 ]]></description>
       <guid>https://www.theverge.com/2024/5/20/24161018/samsung-copilot-plus-pc-free-tv-preorder</guid>
       <pubDate>Mon, 20 May 2024 20:28:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里预订 Microsoft 新款 Surface Laptop 和 Surface Pro</title>
-      <link>https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability</guid>
-      <pubDate>Mon, 20 May 2024 19:59:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
