@@ -3,8 +3,15 @@
   <channel>
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
-    <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Tue, 21 May 2024 06:19:00 GMT</lastBuildDate>
+    <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
+    <lastBuildDate>Tue, 21 May 2024 09:15:15 GMT</lastBuildDate>
+    <item>
+      <title>塞娜的传奇：地狱之刃 II 评论</title>
+      <link>https://www.ign.com/articles/senuas-saga-hellblade-ii-review</link>
+      <description><![CDATA[《塞娜的传奇：地狱之刃 II》是另一场值得维京人体验的感官盛宴，满足了前作设定的高标准，尽管它从未真正达到过标准。]]></description>
+      <guid>https://www.ign.com/articles/senuas-saga-hellblade-ii-review</guid>
+      <pubDate>Tue, 21 May 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《王国之心》系列将于下个月登陆 Steam</title>
       <link>https://www.ign.com/articles/kingdom-hearts-series-coming-to-steam-next-month</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Wingspan：棋盘游戏购买指南</title>
       <link>https://www.ign.com/articles/wingspan-board-game-buying-guide</link>
-      <description><![CDATA[您需要了解的所有信息才能充分体验棋盘游戏 Wingspan 的乐趣，包括每个扩展包中包含的内容及其可用位置。]]></description>
+      <description><![CDATA[为了充分利用棋盘游戏《Wingspan》，您需要了解的所有信息，包括每个扩展包中的内容以及它们的可用位置。]]></description>
       <guid>https://www.ign.com/articles/wingspan-board-game-buying-guide</guid>
       <pubDate>Mon, 20 May 2024 19:44:53 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 20 May 2024 16:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>立即最佳 PS5 和 PlayStation 优惠（2024 年 5 月）</title>
+      <title>目前最佳 PS5 和 PlayStation 优惠（2024 年 5 月）</title>
       <link>https://www.ign.com/articles/best-playstation-ps5-deals</link>
       <description><![CDATA[以下是您现在可以找到的所有绝对最佳的 PS5 和 PlayStation 优惠。]]></description>
       <guid>https://www.ign.com/articles/best-playstation-ps5-deals</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>死亡球代码 2024 年 5 月</title>
       <link>https://www.ign.com/articles/death-ball-codes-may-2024</link>
-      <description><![CDATA[使用此死亡球代码列表来获取免费宝石。]]></description>
+      <description><![CDATA[使用此死亡球代码列表可获得免费宝石。]]></description>
       <guid>https://www.ign.com/articles/death-ball-codes-may-2024</guid>
       <pubDate>Mon, 20 May 2024 15:32:00 GMT</pubDate>
     </item>
     <item>
       <title>《MultiVersus》预告片首次曝光《十三号星期五》中的杰森·沃里斯和《黑客帝国》中的特工史密斯</title>
       <link>https://www.ign.com/articles/multiversus-trailer-reveals-first-look-at-jason-voorhees-from-friday-the-13th-and-agent-smith-from-the-matrix</link>
-      <description><![CDATA[MultiVersus 发布了一部新的电影预告片，其中透露了两个新的可玩角色：《十三号星期五》中的 Jason Voorhees 和《黑客帝国》中的特工史密斯。]]></description>
+      <description><![CDATA[MultiVersus 发布了新的电影发布预告片，展示了两个新的可玩角色：来自《十三号星期五》的 Jason Voorhees 和来自《黑客帝国》的特工史密斯。]]></description>
       <guid>https://www.ign.com/articles/multiversus-trailer-reveals-first-look-at-jason-voorhees-from-friday-the-13th-and-agent-smith-from-the-matrix</guid>
       <pubDate>Mon, 20 May 2024 13:48:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Arkane Austin 可能已被微软关闭，但《耻辱》和《掠食》开发商的灵魂却有着无法轻易摧毁的根基。]]></description>
       <guid>https://www.ign.com/articles/microsoft-destroyed-arkane-austin-but-the-studios-soul-is-indestructible</guid>
       <pubDate>Mon, 20 May 2024 12:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>《使命召唤现代战争 3》和《战区》第 4 季高达联动确认</title>
-      <link>https://www.ign.com/articles/call-of-duty-modern-warfare-3-and-warzone-season-4-gundam-crossover-confirmed</link>
-      <description><![CDATA[动视暴雪已确认，随着第 4 季的推出，高达联动版将出现在《使命召唤：现代战争 3》和《战区》中。]]></description>
-      <guid>https://www.ign.com/articles/call-of-duty-modern-warfare-3-and-warzone-season-4-gundam-crossover-confirmed</guid>
-      <pubDate>Mon, 20 May 2024 10:41:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

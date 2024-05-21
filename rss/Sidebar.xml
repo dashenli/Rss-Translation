@@ -3,8 +3,8 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 21 May 2024 06:21:33 GMT</lastBuildDate>
+    <description>每个工作日提供五个最佳设计链接。</description>
+    <lastBuildDate>Tue, 21 May 2024 09:17:40 GMT</lastBuildDate>
     <item>
       <title>手机可以告诉您什么是好的设计</title>
       <link>https://uxdesign.cc/what-telephones-can-tell-you-about-good-design-6c24885ca7e9</link>
@@ -64,7 +64,7 @@
     <item>
       <title>伪造的苹果员工徽章</title>
       <link>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</link>
-      <description><![CDATA[这是一个简短而警示性的故事。 Eric Vitiello 发现的这场 eBay 拍卖立即引起了我的注意。
+      <description><![CDATA[这是一个简短而警示性的故事。Eric Vitiello 发现的这个 eBay 拍卖立即引起了我的注意。
 ]]></description>
       <guid>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</guid>
       <pubDate>Fri, 17 May 2024 05:09:19 GMT</pubDate>
@@ -72,7 +72,7 @@
     <item>
       <title>基于时间的 CSS 动画</title>
       <link>https://yuanchuan.dev/time-based-css-animations</link>
-      <description><![CDATA[在我之前的文章《CSS 动画的时间统一》中，我介绍了一种使用时间刻度而不是关键帧来实现 CSS 动画的方法。
+      <description><![CDATA[在我之前的文章《CSS 动画的时间统一》中，我记录了一种使用时间刻度而不是关键帧来制作 CSS 动画的方法。
 ]]></description>
       <guid>https://yuanchuan.dev/time-based-css-animations</guid>
       <pubDate>Fri, 17 May 2024 05:05:36 GMT</pubDate>
@@ -96,7 +96,7 @@
     <item>
       <title>经典的边界半径建议，加上一个不寻常的技巧</title>
       <link>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</link>
-      <description><![CDATA[当您使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素的半径。 
+      <description><![CDATA[当你使用 border-radius 嵌套元素时，内部元素需要的半径小于外部元素。
 ]]></description>
       <guid>https://frontendmasters.com/blog/the-classic-border-radius-advice-plus-an-unusual-trick/</guid>
       <pubDate>Thu, 16 May 2024 05:52:27 GMT</pubDate>
@@ -104,7 +104,7 @@
     <item>
       <title>表情符号的历史：失踪的岁月</title>
       <link>https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/</link>
-      <description><![CDATA[在研究日本老式绘图软件时，我发现一些设备内置了草图或手写备忘录功能。
+      <description><![CDATA[在研究老式日本绘图软件时，我遇到了一些内置草图或手写备忘录功能的设备。
 ]]></description>
       <guid>https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/</guid>
       <pubDate>Thu, 16 May 2024 05:50:33 GMT</pubDate>
