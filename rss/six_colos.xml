@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Mon, 20 May 2024 18:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 00:58:50 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 513：我不摇滚任何东西</title>
+      <link>https://sixcolors.com/podcast/2024/05/upgrade-513-i-do-not-rock-anything/</link>
+      <description><![CDATA[Myke 重返节目，对 iPad Pro 进行个人评测，我们还讨论了 Apple 的无障碍功能公告、令人担忧的 Apple AI 报告，以及有关今年和明年 iPhone 的一些令人费解的传言。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/upgrade-513-i-do-not-rock-anything/</guid>
+      <pubDate>Mon, 20 May 2024 21:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）声音克隆已经跨越了恐怖谷</title>
       <link>https://sixcolors.com/feed-only/2024/05/voice-clones-have-crossed-the-uncanny-valley-2/</link>
@@ -69,7 +76,7 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <pubDate>Wed, 15 May 2024 13:23:11 GMT</pubDate>
     </item>
     <item>
-      <title>“为什么 iPadOS 仍然没有做好基础工作” ↦</title>
+      <title>‘为什么 iPadOS 仍然没有掌握好基本功能’ ↦</title>
       <link>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</link>
       <description><![CDATA[我在 iPad Pro 评测中链接到了这一点，但以防万一您错过了这一点，Federico Viticci 为所有撰写 iPadOS 的人提供了一项服务，并详细说明了我们所说的“iPad 硬件令人失望”的含义。通过其软件”：
 &lt;块引用&gt;
@@ -89,7 +96,7 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
     <item>
       <title>（播客）升级 512：优点是小船</title>
       <link>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</link>
-      <description><![CDATA[新款 iPad Pro 已经上市，Jason 与 Federico Viticci 一起讨论了新型号、Jason 的评论以及 iPadOS 的局限性。Stephen Hackett 也参加了节目，不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
+      <description><![CDATA[新款 iPad Pro 来了，Jason 与 Federico Viticci 一起讨论新型号、Jason 的评论以及 iPadOS 的局限性。斯蒂芬·哈克特加入节目并不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</guid>
       <pubDate>Mon, 13 May 2024 21:11:48 GMT</pubDate>
     </item>
@@ -103,8 +110,8 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
     <item>
       <title>（赞助商）回顾米高梅黑客事件的烟雾和镜子</title>
       <link>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</link>
-      <description><![CDATA[&lt;图标题&gt;
-2023 年 9 月的米高梅黑客攻击很快成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道了坏掉的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台致命的网络钓鱼电话。…]]></description>
+      <description><![CDATA[
+2023 年 9 月的米高梅黑客攻击迅速成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道损坏的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台的致命网络钓鱼电话。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
       <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
     </item>
@@ -115,14 +122,6 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
 作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</guid>
       <pubDate>Fri, 10 May 2024 16:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad Pro 的 M4 芯片如何为 iPhone 和 Mac 开辟新道路 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2328018/m4-chip-ipad-pro-mac-iphone-a18.html</link>
-      <description><![CDATA[嗯，速度很快。
-去年 10 月推出的 M3 芯片已经是昨天的新闻了。我们生活在一个 M4 世界，这要归功于令人惊讶的宣布：新款 iPad Pro 采用 Apple 下一代芯片。…]]></description>
-      <guid>https://www.macworld.com/article/2328018/m4-chip-ipad-pro-mac-iphone-a18.html</guid>
-      <pubDate>Thu, 09 May 2024 18:46:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 20 May 2024 21:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 01:00:10 GMT</lastBuildDate>
     <item>
-      <title>手机可以告诉您什么是好的设计</title>
+      <title>手机可以告诉您哪些关于优秀设计的信息</title>
       <link>https://uxdesign.cc/what-telephones-can-tell-you-about-good-design-6c24885ca7e9</link>
       <description><![CDATA[按键式键盘的故事。
 ]]></description>
@@ -14,9 +14,9 @@
       <pubDate>Mon, 20 May 2024 06:06:27 GMT</pubDate>
     </item>
     <item>
-      <title>编码我的手写内容</title>
+      <title>编写我的手写代码</title>
       <link>https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript</link>
-      <description><![CDATA[我是如何做到的以及我正在用它做什么。
+      <description><![CDATA[我是如何做到的以及我用它做了什么。
 ]]></description>
       <guid>https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript</guid>
       <pubDate>Mon, 20 May 2024 06:01:49 GMT</pubDate>
@@ -32,7 +32,7 @@
     <item>
       <title>关于合规性与可读性：使用 CSS 生成文本颜色</title>
       <link>https://lea.verou.me/blog/2024/contrast-color/</link>
-      <description><![CDATA[我们可以通过已经广泛发布的CSS功能来模拟即将推出的CSS对比度颜色()函数吗？ 
+      <description><![CDATA[我们可以通过已经广泛发布的 CSS 功能模拟即将推出的 CSScontrast-color() 函数吗？
 ]]></description>
       <guid>https://lea.verou.me/blog/2024/contrast-color/</guid>
       <pubDate>Mon, 20 May 2024 05:58:13 GMT</pubDate>
@@ -88,7 +88,7 @@
     <item>
       <title>苹果宣布推出新的辅助功能，包括眼动追踪</title>
       <link>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</link>
-      <description><![CDATA[Apple 今天宣布将于今年晚些时候推出新的辅助功能，包括眼动追踪、音乐触觉和语音快捷键。
+      <description><![CDATA[Apple 今天宣布将于今年晚些时候推出新的辅助功能，包括眼动追踪、音乐触觉和声音快捷方式。
 ]]></description>
       <guid>https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/</guid>
       <pubDate>Thu, 16 May 2024 05:54:10 GMT</pubDate>
@@ -102,7 +102,7 @@
       <pubDate>Thu, 16 May 2024 05:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>表情符号历史：消失的岁月</title>
+      <title>表情符号的历史：失踪的岁月</title>
       <link>https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/</link>
       <description><![CDATA[在研究老式日本绘图软件时，我遇到了一些内置草图或手写备忘录功能的设备。
 ]]></description>
