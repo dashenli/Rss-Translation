@@ -3,8 +3,23 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 22 May 2024 15:16:54 GMT</lastBuildDate>
+    <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
+    <lastBuildDate>Wed, 22 May 2024 18:20:02 GMT</lastBuildDate>
+    <item>
+      <title>WWDC 上人工智能的注意事项</title>
+      <link>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</link>
+      <description><![CDATA[想象一下这个。 （乔·罗森斯蒂尔插图）
+在过去的一年里，科技行业利用人工智能做事的压力确实越来越大。…]]></description>
+      <guid>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</guid>
+      <pubDate>Wed, 22 May 2024 15:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 的未来即将到来，但它会让你付出高昂的代价 (Macworld/Jason Snell)</title>
+      <link>https://www.macworld.com/article/2340417/iphone-ultra-features-thin-design-price.html</link>
+      <description><![CDATA[考虑到 iPhone 取得的巨大成功，今天的情况有点难以置信，但在该产品的早期，只有一款 iPhone 型号在售。…]]></description>
+      <guid>https://www.macworld.com/article/2340417/iphone-ultra-features-thin-design-price.html</guid>
+      <pubDate>Wed, 22 May 2024 15:39:47 GMT</pubDate>
+    </item>
     <item>
       <title>Vision Pro 的“假设”将于下周推出 ↦</title>
       <link>https://sixcolors.com/link/2024/05/what-if-for-vision-pro-to-arrive-next-week/</link>
@@ -22,7 +37,7 @@
       <pubDate>Mon, 20 May 2024 21:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）语音克隆已经跨越了恐怖谷</title>
+      <title>（赞助商）声音克隆已经跨越了恐怖谷</title>
       <link>https://sixcolors.com/feed-only/2024/05/voice-clones-have-crossed-the-uncanny-valley-2/</link>
       <description><![CDATA[
 现在，不要生气，但是 -你并不像你想象的那样擅长对深度赝品进行计时。 b&gt; 
@@ -33,7 +48,7 @@
     <item>
       <title>（播客）下游 69：支付看门人费用</title>
       <link>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</link>
-      <description><![CDATA[为什么“伟大的重新捆绑”不是电缆束的回归？重新调整流媒体节目的人才报酬方式；派拉蒙在风中扭曲；斯普鲁有了真名； NFL 与 Netflix 达成协议；钻石体育遭到质疑。…]]></description>
+      <description><![CDATA[为什么“伟大的重新捆绑”不是电缆束的回归；重新调整流媒体节目的人才报酬方式；派拉蒙在风中扭曲；斯普鲁有了真名； NFL 与 Netflix 达成协议；钻石体育遭到质疑。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</guid>
       <pubDate>Sat, 18 May 2024 00:36:47 GMT</pubDate>
     </item>
@@ -62,7 +77,7 @@
       <pubDate>Wed, 15 May 2024 20:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）反弹 495：用一片奶酪实现反弹</title>
+      <title>（播客）反弹 495：归结为一片奶酪</title>
       <link>https://sixcolors.com/podcast/2024/05/the-rebound-495-get-that-down-to-one-slice-of-cheese/</link>
       <description><![CDATA[我们对人工智能事件、iPad 和 John Ternus 的反应。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/the-rebound-495-get-that-down-to-one-slice-of-cheese/</guid>
@@ -73,7 +88,7 @@
       <link>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</link>
       <description><![CDATA[​
 Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
-今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年传统视觉、声音和身体/运动类别之外的扩展。 p&gt;]]></description>
+今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年对传统视觉、声音和身体/运动类别的扩展。 p&gt;]]></description>
       <guid>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</guid>
       <pubDate>Wed, 15 May 2024 14:00:08 GMT</pubDate>
     </item>
@@ -89,7 +104,7 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <link>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</link>
       <description><![CDATA[我在 iPad Pro 评测中链接到了这一点，但以防万一您错过了这一点，Federico Viticci 为所有撰写 iPadOS 的人提供了一项服务，并详细说明了我们所说的“iPad 硬件令人失望”的含义。通过其软件”：
 &lt;块引用&gt;
-  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。...]]></description>
+  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</guid>
       <pubDate>Tue, 14 May 2024 16:21:26 GMT</pubDate>
     </item>
@@ -105,24 +120,9 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
     <item>
       <title>（播客）升级 512：优点是小船</title>
       <link>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</link>
-      <description><![CDATA[新款 iPad Pro 来了，Jason 与 Federico Viticci 一起讨论新型号、Jason 的评论以及 iPadOS 的局限性。斯蒂芬·哈克特加入节目并不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
+      <description><![CDATA[新款 iPad Pro 已经上市，Jason 与 Federico Viticci 一起讨论了新型号、Jason 的评论以及 iPadOS 的局限性。Stephen Hackett 也参加了节目，不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</guid>
       <pubDate>Mon, 13 May 2024 21:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>M4 iPad Pro 评测：我们又来了</title>
-      <link>https://sixcolors.com/post/2024/05/m4_ipad_pro_review/</link>
-      <description><![CDATA[苹果的硬件和芯片团队确实处于领先地位。新款 M4 iPad Pro 是一块时尚的平板电脑，拥有集中的计算能力，隐藏在精美的 OLED 显示屏后面。…]]></description>
-      <guid>https://sixcolors.com/post/2024/05/m4_ipad_pro_review/</guid>
-      <pubDate>Mon, 13 May 2024 21:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）回顾米高梅黑客事件的烟雾和镜子</title>
-      <link>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</link>
-      <description><![CDATA[
-2023 年 9 月的米高梅黑客攻击迅速成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道损坏的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台的致命网络钓鱼电话。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
-      <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
