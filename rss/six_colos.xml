@@ -3,17 +3,26 @@
   <channel>
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
-    <description>Apple、技术和其他内容，作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Tue, 21 May 2024 00:58:50 GMT</lastBuildDate>
+    <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
+    <lastBuildDate>Wed, 22 May 2024 15:16:54 GMT</lastBuildDate>
+    <item>
+      <title>Vision Pro 的“假设”将于下周推出 ↦</title>
+      <link>https://sixcolors.com/link/2024/05/what-if-for-vision-pro-to-arrive-next-week/</link>
+      <description><![CDATA[&lt;图标题&gt;
+观察者正在使用 Vision Pro 进行观看。
+今天，漫威和工业光魔发布了即将上映的《假设》的预告片。几周前刚刚宣布的沉浸式故事，以及（惊喜！）…]]></description>
+      <guid>https://sixcolors.com/link/2024/05/what-if-for-vision-pro-to-arrive-next-week/</guid>
+      <pubDate>Wed, 22 May 2024 15:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 513：我不摇滚任何东西</title>
       <link>https://sixcolors.com/podcast/2024/05/upgrade-513-i-do-not-rock-anything/</link>
-      <description><![CDATA[Myke 重返节目，对 iPad Pro 进行个人评测，我们还讨论了 Apple 的无障碍功能公告、令人担忧的 Apple AI 报告，以及有关今年和明年 iPhone 的一些令人费解的传言。…]]></description>
+      <description><![CDATA[Myke 重返节目，发表他个人的 iPad Pro 评测，我们讨论了 Apple 的辅助功能公告、令人担忧的 Apple AI 报告，以及有关今年和明年未来 iPhone 的一些神秘传言。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-513-i-do-not-rock-anything/</guid>
       <pubDate>Mon, 20 May 2024 21:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）声音克隆已经跨越了恐怖谷</title>
+      <title>（赞助商）语音克隆已经跨越了恐怖谷</title>
       <link>https://sixcolors.com/feed-only/2024/05/voice-clones-have-crossed-the-uncanny-valley-2/</link>
       <description><![CDATA[
 现在，不要生气，但是 -你并不像你想象的那样擅长对深度赝品进行计时。 b&gt; 
@@ -76,11 +85,11 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
       <pubDate>Wed, 15 May 2024 13:23:11 GMT</pubDate>
     </item>
     <item>
-      <title>‘为什么 iPadOS 仍然没有掌握好基本功能’ ↦</title>
+      <title>“为什么 iPadOS 仍然没有做好基础工作” ↦</title>
       <link>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</link>
       <description><![CDATA[我在 iPad Pro 评测中链接到了这一点，但以防万一您错过了这一点，Federico Viticci 为所有撰写 iPadOS 的人提供了一项服务，并详细说明了我们所说的“iPad 硬件令人失望”的含义。通过其软件”：
 &lt;块引用&gt;
-  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。…]]></description>
+  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。...]]></description>
       <guid>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</guid>
       <pubDate>Tue, 14 May 2024 16:21:26 GMT</pubDate>
     </item>
@@ -114,14 +123,6 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
 2023 年 9 月的米高梅黑客攻击迅速成为近年来最臭名昭著的勒索软件攻击之一。记者和网络安全专家纷纷报道损坏的老虎机、愤怒的酒店客人以及引发这一切的米高梅服务台的致命网络钓鱼电话。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/looking-past-the-smoke-and-mirrors-of-the-mgm-hack-2/</guid>
       <pubDate>Mon, 13 May 2024 16:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：Safari 中的网页浏览速度提高 2.0 倍</title>
-      <link>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</link>
-      <description><![CDATA[感谢 Magic Lasso Adblock 赞助六色周。
-作为原生 Safari 扩展程序，Magic Lasso 可以阻止所有侵入性广告、跟踪器和烦恼 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/05/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-16/</guid>
-      <pubDate>Fri, 10 May 2024 16:00:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

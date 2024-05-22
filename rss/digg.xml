@@ -4,13 +4,20 @@
     <title>挖掘热门故事</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Wed, 22 May 2024 12:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:16:54 GMT</lastBuildDate>
     <item>
-      <title>福克斯新闻中针对女性的臭名昭著的规则正在改变。你只需要知道去哪里找</title>
-      <link>https://slate.com/life/2024/05/fox-news-laura-ingraham-women-anchors.html?via=rss</link>
-      <description><![CDATA[腿仍然无处不在。金发女郎占主导地位。但微小的变化正在发生。]]></description>
-      <guid>https://slate.com/life/2024/05/fox-news-laura-ingraham-women-anchors.html?via=rss</guid>
-      <pubDate>Mon, 20 May 2024 10:01:23 GMT</pubDate>
+      <title>今年戛纳电影节最受关注的六部电影</title>
+      <link>https://rss.digg.com/movies-and-tv/link/cannes-2024-lineup-megalopolis-horizon-furiosa-anora-kinds-of-kindness</link>
+      <description><![CDATA[不幸的是，有一些大牌导演的电影遭到了批评。]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/cannes-2024-lineup-megalopolis-horizon-furiosa-anora-kinds-of-kindness</guid>
+      <pubDate>Mon, 20 May 2024 14:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>与老年人相比，年轻人最不幸福的国家排名</title>
+      <link>https://rss.digg.com/data-viz/link/countries-happiness-young-vs-old-generations</link>
+      <description><![CDATA[在世界某些地区，年轻一代比老一代更不幸福。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/countries-happiness-young-vs-old-generations</guid>
+      <pubDate>Mon, 20 May 2024 11:20:12 GMT</pubDate>
     </item>
     <item>
       <title>《周六夜现场》的科林·乔斯特被骗拿他的妻子斯嘉丽·约翰逊开玩笑</title>
@@ -83,14 +90,7 @@
       <pubDate>Thu, 16 May 2024 11:57:45 GMT</pubDate>
     </item>
     <item>
-      <title>查尔斯国王的新肖像以及本周其他最佳模因排名</title>
-      <link>https://rss.digg.com/memes-ranked/link/best-memes-ranked-king-charles-portrait-chauffeur-jimmy-fallon-caitlin-clark</link>
-      <description><![CDATA[这是描述英国在位君主的一种方式。]]></description>
-      <guid>https://rss.digg.com/memes-ranked/link/best-memes-ranked-king-charles-portrait-chauffeur-jimmy-fallon-caitlin-clark</guid>
-      <pubDate>Thu, 16 May 2024 08:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们什么时候停止寻找新音乐？统计分析</title>
+      <title>我们什么时候会停止寻找新音乐？统计分析</title>
       <link>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</link>
       <description><![CDATA[我们的音乐品味什么时候会停滞不前？]]></description>
       <guid>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</guid>
@@ -104,11 +104,11 @@
       <pubDate>Fri, 10 May 2024 11:28:49 GMT</pubDate>
     </item>
     <item>
-      <title>播放“类型转换”</title>
-      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
-      <description><![CDATA[你的目标是把每一个字母都变得扎实。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
-      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
+      <title>播放“咒语塔”</title>
+      <link>https://rss.digg.com/puzzmo/link/spelltower</link>
+      <description><![CDATA[通过在网格上拖动、单独点击每个字母或在键盘上键入来选择单词。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/spelltower</guid>
+      <pubDate>Mon, 11 Dec 2023 20:07:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
