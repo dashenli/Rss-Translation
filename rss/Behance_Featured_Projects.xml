@@ -3,8 +3,15 @@
   <channel>
     <title>特色项目</title>
     <link>http://www.behance.net</link>
-    <description>最新项目</description>
-    <lastBuildDate>Wed, 22 May 2024 05:43:19 GMT</lastBuildDate>
+    <description>最新项目在</description>
+    <lastBuildDate>Wed, 22 May 2024 09:00:43 GMT</lastBuildDate>
+    <item>
+      <title>硅谷</title>
+      <link>https://www.behance.net/gallery/164041719/Silicon-Valley</link>
+      <description><![CDATA[ HBO 上的《硅谷》是我最喜欢的节目，所以我决定以我最喜欢的角色为主角创作一幅粉丝插画。这幅作品的独特之处在于它可以分成多个独立的部分，同时仍保留相同的整体含义]]></description>
+      <guid>https://www.behance.net/gallery/164041719/Silicon-Valley</guid>
+      <pubDate>Wed, 22 May 2024 08:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>La Plage No.14 - 餐厅和餐厅鸡尾酒吧/品牌推广</title>
       <link>https://www.behance.net/gallery/195893059/La-Plage-No14-Restaurant-Cocktail-Bar-Branding</link>
@@ -15,7 +22,7 @@
     <item>
       <title>冰川河流的颜色？冰岛</title>
       <link>https://www.behance.net/gallery/199014827/COLORS-OF-GLACIAL-RIVERS-Iceland</link>
-      <description><![CDATA[ “冰川河流的色彩”是由视觉艺术家兼美术摄影师 Jan Erik Waider 创作的航空摄影系列。这些图像展示了冰岛的各种冰川河流，是在 2020 年至 2024 年期间使用飞机或无人机拍摄的。]]></description>
+      <description><![CDATA[ “冰川河流的色彩”是视觉艺术家兼美术摄影师 Jan Erik Waider 的航空摄影系列。这些图像展示了冰岛的各种冰川河流，是在 2020 年至 2024 年期间使用飞机或无人机拍摄的。]]></description>
       <guid>https://www.behance.net/gallery/199014827/COLORS-OF-GLACIAL-RIVERS-Iceland</guid>
       <pubDate>Wed, 22 May 2024 00:00:06 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 20 May 2024 01:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>IST |品牌推广与网站</title>
+      <title>IST |品牌与网站</title>
       <link>https://www.behance.net/gallery/165148487/IST-Branding-Website</link>
       <description><![CDATA[]]></description>
       <guid>https://www.behance.net/gallery/165148487/IST-Branding-Website</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.behance.net/gallery/198589953/Its-A-Light-Thing</guid>
       <pubDate>Sat, 18 May 2024 21:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>滑板</title>
-      <link>https://www.behance.net/gallery/198084635/Skateboard</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.behance.net/gallery/198084635/Skateboard</guid>
-      <pubDate>Sat, 18 May 2024 10:30:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
