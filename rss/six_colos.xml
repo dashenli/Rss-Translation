@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Apple、技术和其他内容 作者：Jason Snell 和 Dan Moren</description>
-    <lastBuildDate>Wed, 22 May 2024 18:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 21:16:37 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 555：我对自己撒谎</title>
+      <link>https://sixcolors.com/podcast/2024/05/clockwise-555-i-lie-to-myself/</link>
+      <description><![CDATA[我们会在 iPad 上执行多项任务吗？人工智能的哪些用途实际上对我们有帮助？另外，我们使用的电子邮件应用程序以及我们是否尝试过克隆我们的声音。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/clockwise-555-i-lie-to-myself/</guid>
+      <pubDate>Wed, 22 May 2024 20:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 496：时光旅行的爸爸：游戏</title>
+      <link>https://sixcolors.com/podcast/2024/05/the-rebound-496-time-traveling-dad-the-game/</link>
+      <description><![CDATA[如何解决像 iPadOS 这样的问题？…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-496-time-traveling-dad-the-game/</guid>
+      <pubDate>Wed, 22 May 2024 18:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>WWDC 上人工智能的注意事项</title>
       <link>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</link>
@@ -48,7 +62,7 @@
     <item>
       <title>（播客）下游 69：支付看门人费用</title>
       <link>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</link>
-      <description><![CDATA[为什么“伟大的重新捆绑”不是电缆束的回归；重新调整流媒体节目的人才报酬方式；派拉蒙在风中扭曲；斯普鲁有了真名； NFL 与 Netflix 达成协议；钻石体育遭到质疑。…]]></description>
+      <description><![CDATA[为什么“伟大的重新捆绑”不是电缆束的回归？重新调整流媒体节目的人才报酬方式；派拉蒙在风中扭曲；斯普鲁有了真名； NFL 与 Netflix 达成协议；钻石体育遭到质疑。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/downstream-69-pay-the-gatekeeper/</guid>
       <pubDate>Sat, 18 May 2024 00:36:47 GMT</pubDate>
     </item>
@@ -88,12 +102,12 @@
       <link>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</link>
       <description><![CDATA[​
 Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
-今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年对传统视觉、声音和身体/运动类别的扩展。 p&gt;]]></description>
+今年 Apple 推出的无障碍功能预览，旨在比一年一度的全球无障碍意识日庆祝活动提前一天，延续了去年传统视觉、声音和身体/运动类别之外的扩展。 p&gt;]]></description>
       <guid>https://sixcolors.com/post/2024/05/apple-accessibility-preview-more-for-speech-carplay-and-vision-pro/</guid>
       <pubDate>Wed, 15 May 2024 14:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>我们正处于苹果的后 iPad 时代吗？ （Macworld/丹·莫伦）</title>
+      <title>我们是否正处于苹果的后 iPad 时代？（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2333320/ipad-stuck-between-rock-hard-place.html</link>
       <description><![CDATA[关于新款 iPad Pro 的共识是：硬件比以往任何时候都更强大、更令人印象深刻，但它仍然在很大程度上受到未能跟上的软件的阻碍。…]]></description>
       <guid>https://www.macworld.com/article/2333320/ipad-stuck-between-rock-hard-place.html</guid>
@@ -102,27 +116,11 @@ Vision Pro 的实时字幕可将口述文字转换为屏幕上的文本。
     <item>
       <title>“为什么 iPadOS 仍然没有做好基础工作” ↦</title>
       <link>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</link>
-      <description><![CDATA[我在 iPad Pro 评测中链接到了这一点，但以防万一您错过了这一点，Federico Viticci 为所有撰写 iPadOS 的人提供了一项服务，并详细说明了我们所说的“iPad 硬件令人失望”的含义。通过其软件”：
-&lt;块引用&gt;
-  在我们的社区中，我们经常听说 iPadOS 的问题以及像我这样的人在该平台上工作时遇到的障碍，但我过去一直有罪，因为我认为上下文是理所当然的，并假设您，亲爱的读者，也知道这正是我所说的。…]]></description>
+      <description><![CDATA[我在我的 iPad Pro 评论中链接到了此内容，但如果您错过了，Federico Viticci 为所有撰写有关 iPadOS 的人提供了服务，并详细描述了我们所说的“iPad 硬件因其软件而失败”的含义：
+
+在我们的社区中，我们经常听到有关 iPadOS 的问题以及像我这样的人在使用该平台时遇到的障碍，但我过去曾犯过想当然地认为背景是理所当然的错误，并假设您，亲爱的读者，也确切地知道我在说什么。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/why-ipados-still-doesnt-get-the-basics-right/</guid>
       <pubDate>Tue, 14 May 2024 16:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad Pro 宣言一如既往 ↦</title>
-      <link>https://sixcolors.com/link/2024/05/the-ipad-pro-manifesto-same-as-it-ever-was/</link>
-      <description><![CDATA[史蒂夫·特劳顿-史密斯 (Steve Troughton-Smith) 详细介绍了 iPadOS 所缺乏的所有方面……这并不是第一次：
-&lt;块引用&gt;
-  你可以总结过去十年里的每一次 iPad 评论：iPad 硬件正在写支票，而其操作系统根本无法兑现。…]]></description>
-      <guid>https://sixcolors.com/link/2024/05/the-ipad-pro-manifesto-same-as-it-ever-was/</guid>
-      <pubDate>Tue, 14 May 2024 16:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 512：优点是小船</title>
-      <link>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</link>
-      <description><![CDATA[新款 iPad Pro 已经上市，Jason 与 Federico Viticci 一起讨论了新型号、Jason 的评论以及 iPadOS 的局限性。Stephen Hackett 也参加了节目，不是为了粉碎一些创意梦想，而是为了回答你的问题。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/upgrade-512-pros-are-the-little-boats/</guid>
-      <pubDate>Mon, 13 May 2024 21:11:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
