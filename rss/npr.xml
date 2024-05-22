@@ -3,8 +3,15 @@
   <channel>
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR 新闻、音频和播客。报道重大新闻、国家和世界新闻、政治、商业、科学、技术以及重大国家和世界事件的扩展报道。</description>
-    <lastBuildDate>Wed, 22 May 2024 03:16:13 GMT</lastBuildDate>
+    <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
+    <lastBuildDate>Wed, 22 May 2024 06:18:05 GMT</lastBuildDate>
+    <item>
+      <title>当局称龙卷风摧毁了爱荷华州的一个小镇并造成多人死亡</title>
+      <link>https://www.npr.org/2024/05/22/1252846041/tornado-iowa-deaths</link>
+      <description><![CDATA[周二，一场强大的龙卷风席卷了爱荷华州的一个小镇，造成房屋被毁、树木被吹碎、汽车被撞毁，造成一片荒凉的景象，造成多人死亡，至少十几人受伤。]]></description>
+      <guid>https://www.npr.org/2024/05/22/1252846041/tornado-iowa-deaths</guid>
+      <pubDate>Wed, 22 May 2024 04:23:27 GMT</pubDate>
+    </item>
     <item>
       <title>11 月将堕胎列入投票的州</title>
       <link>https://www.npr.org/2024/05/21/1198912363/abortion-election-ban-states-reproductive-rights</link>
@@ -57,23 +64,16 @@
     <item>
       <title>特朗普不会在纽约封口费审判中作证</title>
       <link>https://www.npr.org/2024/05/21/1252665767/trumps-trials-hush-money</link>
-      <description><![CDATA[前总统唐纳德·特朗普的辩护已结束，标志着证人证词结束，为陪审团审议铺平了道路。陪审团可能会在下周三开始审议。]]></description>
+      <description><![CDATA[前总统唐纳德·特朗普的辩护已经结束，这标志着证人证词的结束，并为陪审团审议铺平了道路。陪审团可能会在下周三开始审议。]]></description>
       <guid>https://www.npr.org/2024/05/21/1252665767/trumps-trials-hush-money</guid>
       <pubDate>Tue, 21 May 2024 15:27:07 GMT</pubDate>
     </item>
     <item>
       <title>拜登谴责国际刑事法院对以色列领导人发出逮捕令的请求；目标降价</title>
       <link>https://www.npr.org/2024/05/21/1252631480/up-first-newsletter-icc-israel-hamas-arrest-warrants-target-price-cuts</link>
-      <description><![CDATA[拜登总统称对以色列领导人的逮捕令请求“令人愤慨”。  Target 正在降低 5,000 种常见产品的价格。]]></description>
+      <description><![CDATA[拜登总统称对以色列领导人的逮捕令请求“令人愤慨”。塔吉特正在降低 5,000 种常见产品的价格。]]></description>
       <guid>https://www.npr.org/2024/05/21/1252631480/up-first-newsletter-icc-israel-hamas-arrest-warrants-target-price-cuts</guid>
       <pubDate>Tue, 21 May 2024 11:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>他在游轮上生病了。在他登上救援船之前，他们把账单递给了他</title>
-      <link>https://www.npr.org/sections/health-shots/2024/05/21/1252428534/he-fell-ill-on-a-cruise-before-he-boarded-the-rescue-boat-they-handed-him-the-bi</link>
-      <description><![CDATA[一名来自密歇根州的男子在癫痫发作后从游轮上撤离。首先，他耗尽了银行账户的资金来支付医疗费用。]]></description>
-      <guid>https://www.npr.org/sections/health-shots/2024/05/21/1252428534/he-fell-ill-on-a-cruise-before-he-boarded-the-rescue-boat-they-handed-him-the-bi</guid>
-      <pubDate>Tue, 21 May 2024 09:01:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
