@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 23 May 2024 03:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 06:21:24 GMT</lastBuildDate>
+    <item>
+      <title>申请者在申请设计职位时如何脱颖而出？</title>
+      <link>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</link>
+      <description><![CDATA[设计招聘经理对他们在简历和作品集中寻找什么的见解
+]]></description>
+      <guid>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</guid>
+      <pubDate>Thu, 23 May 2024 06:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户界面设计的未来是什么样的？</title>
+      <link>https://www.browserlondon.com/blog/2024/05/22/future_of_user_interface_design/</link>
+      <description><![CDATA[从 AR/VR 和 AR/VR 探索用户界面设计的未来人工智能到基于手势的交互以及 Neuralink 对人类交互的潜在影响。
+]]></description>
+      <guid>https://www.browserlondon.com/blog/2024/05/22/future_of_user_interface_design/</guid>
+      <pubDate>Thu, 23 May 2024 06:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>辉煌的品牌更新</title>
+      <link>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</link>
+      <description><![CDATA[我们与 Koto 合作更新我们的品牌，以更好地与年轻专业人士受众保持一致。
+]]></description>
+      <guid>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</guid>
+      <pubDate>Thu, 23 May 2024 06:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pigment CSS 简介：下一代 CSS-in-JS</title>
+      <link>https://mui.com/blog/introducing-pigment-css/</link>
+      <description><![CDATA[Pigment CSS 提供了显着的性能提升以及 RSC 和 App Router 支持。
+]]></description>
+      <guid>https://mui.com/blog/introducing-pigment-css/</guid>
+      <pubDate>Thu, 23 May 2024 06:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新设计</title>
+      <link>https://reactstyle.vercel.app/</link>
+      <description><![CDATA[向 React 组件添加 CSS 样式的最简单方法。
+]]></description>
+      <guid>https://reactstyle.vercel.app/</guid>
+      <pubDate>Thu, 23 May 2024 06:02:02 GMT</pubDate>
+    </item>
     <item>
       <title>各个国家最容易被误读的品牌</title>
       <link>https://businessfinancing.co.uk/most-mispronounced-brands/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/</guid>
       <pubDate>Tue, 21 May 2024 10:52:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机可以告诉您什么是好的设计</title>
-      <link>https://uxdesign.cc/what-telephones-can-tell-you-about-good-design-6c24885ca7e9</link>
-      <description><![CDATA[按键式键盘的故事。
-]]></description>
-      <guid>https://uxdesign.cc/what-telephones-can-tell-you-about-good-design-6c24885ca7e9</guid>
-      <pubDate>Mon, 20 May 2024 06:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码我的手写内容</title>
-      <link>https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript</link>
-      <description><![CDATA[我是如何做到的以及我正在用它做什么。
-]]></description>
-      <guid>https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript</guid>
-      <pubDate>Mon, 20 May 2024 06:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 CSS 媒体查询</title>
-      <link>https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/</link>
-      <description><![CDATA[Juan Diego Rodriguez 解释了为什么媒体查询在响应式布局中仍然占据着至关重要的作用。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/</guid>
-      <pubDate>Mon, 20 May 2024 05:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于合规性与可读性：使用 CSS 生成文本颜色</title>
-      <link>https://lea.verou.me/blog/2024/contrast-color/</link>
-      <description><![CDATA[我们可以通过已经广泛发布的CSS功能来模拟即将推出的CSS对比度颜色()函数吗？ 
-]]></description>
-      <guid>https://lea.verou.me/blog/2024/contrast-color/</guid>
-      <pubDate>Mon, 20 May 2024 05:58:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码和像素</title>
-      <link>https://codeandpixels.fm/</link>
-      <description><![CDATA[关于将像素转化为代码的播客。
-]]></description>
-      <guid>https://codeandpixels.fm/</guid>
-      <pubDate>Mon, 20 May 2024 05:57:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
