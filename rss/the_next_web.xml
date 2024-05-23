@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>下一个网络</title>
+    <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Thu, 23 May 2024 06:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:16:57 GMT</lastBuildDate>
+    <item>
+      <title>荷兰网络警察追踪到世界上最严重的僵尸网络之一的加密货币盗窃案</title>
+      <link>https://thenextweb.com/news/eset-dutch-police-discover-ebury-malware-in-cryptocurrency</link>
+      <description><![CDATA[经过多年破坏计算机服务器以诈骗数百万美元后，臭名昭著的运营商到 2021 年，Ebury 僵尸网络已经陷入阴影。突然，它们突然重新出现。新证据是在荷兰警方调查期间浮出水面的。荷兰国家高科技犯罪部门（NHTCU）已收到加密货币失窃报告。在受害者的服务器上，网络警察发现了一个熟悉的敌人：Ebury。  这一发现揭示了该恶意软件的新目标。 Ebury 已涉足窃取比特币钱包和信用卡详细信息的多元化业务。 NHTCU 向斯洛伐克网络安全公司 ESET 寻求帮助。该请求…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/eset-dutch-police-discover-ebury-malware-in-cryptocurrency</guid>
+      <pubDate>Thu, 23 May 2024 07:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>芬兰初创企业获得全球首家真菌蛋白工厂全额资助</title>
+      <link>https://thenextweb.com/news/enifer-funds-mycoprotein-factory-fungal-proteins</link>
+      <description><![CDATA[芬兰规模化项目 Enifer 将在为这个价值 3300 万欧元的网站获得全额资金。这家未来工厂将把食品工业的副产品转化为一种名为 Pekilo 的成分。 Pekilo 发明于 20 世纪 70 年代，是世界上第一个商业化的真菌蛋白——一种源自天然真菌的食物来源。  Pekilo 具有低碳足迹和最小的土地需求，有望成为肉类蛋白的可持续替代品。该物质以前被用作动物饲料，但最近经过精炼供人类食用。 Enifer 现在计划将该成分推向大众市场。新工厂是…这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/enifer-funds-mycoprotein-factory-fungal-proteins</guid>
+      <pubDate>Thu, 23 May 2024 05:45:50 GMT</pubDate>
+    </item>
     <item>
       <title>AI翻译独角兽DeepL获得3亿美元新投资，估值达到20亿美元</title>
       <link>https://thenextweb.com/news/ai-translation-deepl-reaches-2b-valuation-new-300m-investment</link>
-      <description><![CDATA[DeepL，总部位于科隆的独角兽，一直与机器翻译巨头相媲美谷歌翻译今天宣布获得 3 亿美元（2.77 亿欧元）的新投资，估值达到 20 亿美元。这家初创公司诞生于在线词典 Linguee，由 Jarek Kutylowski 于 2017 年创立，他同时担任该公司的首席执行官。 DeepL 提供免费和优质的人工智能翻译服务，特别关注 B2B 产品，该公司认为该领域的需求最大。它现在涵盖 32 种语言，拥有 100,000 名企业用户。该列表包括 Nikkei、Coursera 和 Deutsche Bahn 等。此次投资经历了一段显着增长期…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[DeepL 是一家总部位于科隆的独角兽公司，一直与谷歌翻译等机器翻译巨头竞争，今天，该公司宣布获得 3 亿美元（2.77 亿欧元）的新投资，估值达到 20 亿美元。该初创公司源于在线词典 Linguee，由 Jarek Kutylowski 于 2017 年创立，他同时担任该公司的首席执行官。DeepL 提供免费和高级 AI 翻译服务，特别关注 B2B 产品，该公司认为这类产品需求最大。它现在涵盖 32 种语言，拥有 100,000 名商业用户。其中包括日经新闻、Coursera 和德国铁路等。此次投资是在该公司经历了一段显着增长期之后进行的......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/ai-translation-deepl-reaches-2b-valuation-new-300m-investment</guid>
       <pubDate>Wed, 22 May 2024 15:46:53 GMT</pubDate>
     </item>
     <item>
       <title>新的全球人工智能安全承诺呼应欧盟基于风险的方法</title>
       <link>https://thenextweb.com/news/global-ai-safety-commitment-echo-eu-risk-approach</link>
-      <description><![CDATA[对于人工智能政策制定者来说，这是忙碌的一周。欧盟已就其人工智能法案达成协议。与此同时，在韩国首尔，16 家世界领先的公司签署了“前沿人工智能安全承诺”，一些国家承诺共同努力减轻与该技术相关的风险。  如果说过去的一年是世界对人工智能觉醒的一年，这还算轻描淡写。 ChatGPT 于 2022 年底推出，使之前的幕后技术跃入餐桌和议会厅等场所的对话中。  突然之间，世界末日的未来…这个故事在 The Next Web 继续]]></description>
+      <description><![CDATA[对于人工智能政策制定者来说，这是忙碌的一周。欧盟已就其人工智能法案达成协议。与此同时，在韩国首尔，16 家世界领先的公司签署了“前沿人工智能安全承诺”，一些国家承诺共同努力降低与该技术相关的风险。说过去的一年是世界对人工智能觉醒的一年，这是一种轻描淡写。2022 年底推出的 ChatGPT 将一项之前幕后的技术推向了餐桌和议会大厅的对话中。突然之间，世界末日的未来......这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/global-ai-safety-commitment-echo-eu-risk-approach</guid>
       <pubDate>Wed, 22 May 2024 15:32:16 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 22 May 2024 14:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>TNW 播客：Peter Garraghan 谈人工智能网络安全；欧洲聊天机器人大战</title>
+      <title>TNW 播客：Peter Garraghan 的人工智能网络安全；欧洲的聊天机器人战争</title>
       <link>https://thenextweb.com/news/cybersecurity-ai-peter-garraghan-chatbot-wars-europe</link>
       <description><![CDATA[欢迎收看 TNW 播客的新一集 — 该节目其中我们讨论欧洲技术生态系统的最新发展，并对业内一些最有趣的人士进行专题采访。在今天的节目中，Linnea 和 Andrii 谈论了多语言法学硕士、Raspberry Pi、OpenAI 和 Scarlett Johansson、AI 撰写的论文等等。节目嘉宾是 Mindgard 首席执行官兼联合创始人 Peter Garraghan。我们讨论了生成人工智能的安全问题、对其的潜在攻击，以及企业今天可以采取哪些措施来至少保证相当的安全。以下是故事和事情…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/cybersecurity-ai-peter-garraghan-chatbot-wars-europe</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[欧盟人工智能法案将于下个月在收到最终结果后生效欧洲理事会的橡皮图章。部长们今天批准了一项关于这项具有里程碑意义的法律的政治协议，该法律被誉为世界上第一个关于人工智能的全面规则。该法律采用基于风险的监管方法。最严格的限制仅适用于“高风险”系统，从汽车到执法工具。被指定为“不可接受”的部署（例如社会信用评分）将被完全禁止。尽管欧盟制定了这些规则，但它们将适用于在欧盟内提供服务或产品的任何公司。这引起了硅谷的恐慌…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/eu-approves-ai-act-2</guid>
       <pubDate>Tue, 21 May 2024 15:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国初创公司 Pasqal 签署沙特阿拉伯第一台量子计算机协议</title>
-      <link>https://thenextweb.com/news/french-startup-pasqal-aramco-deal-saudi-arabia-first-quantum-computer</link>
-      <description><![CDATA[在过去的几年里，海湾国家一直在石油钱用来买数千个最新的人工智能芯片。然而，到目前为止，他们在投资量子技术方面相对安静。现在这种情况开始改变。昨天，总部位于马西的初创公司 Pasqal 宣布已与沙特阿拉伯石油集团 Aramco 签署协议，在该国安装第一台量子计算机。根据协议，Pasqal 将在 2025 年下半年之前交付并安装 200 个量子比特的系统。Pasqal 成立于 2019 年，目前正在商业化。这个故事还在继续在下一个网络]]></description>
-      <guid>https://thenextweb.com/news/french-startup-pasqal-aramco-deal-saudi-arabia-first-quantum-computer</guid>
-      <pubDate>Tue, 21 May 2024 13:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士初创公司创建用于按需细胞治疗制造的模块化设备</title>
-      <link>https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing</link>
-      <description><![CDATA[总部位于瑞士的 Limula 今天宣布筹集 680 万美元（6.2 欧元） mn）进一步开发其技术，旨在实现细胞疗法制造的自动化。基因和细胞疗法已成为治疗癌症、帕金森氏症和阿尔茨海默氏症等危及生命或难以治疗的疾病的一种有前途的治疗方法。这种疗法将健康的基因和细胞植入体内，以修复或替换受损基因和细胞的功能障碍。但尽管这些治疗有潜在的好处，但其高昂的成本（高达 425 万美元）也带来了重大的可及性障碍。这家瑞士初创公司由 Yann Pierson 博士、Luc Henry 博士和 Thomas Eaton 博士于 2020 年创立，致力于取代过时的产品……这个故事在 The Next Web 继续]]></description>
-      <guid>https://thenextweb.com/news/swiss-startup-modular-device-on-demand-cell-therapy-manufacturing</guid>
-      <pubDate>Tue, 21 May 2024 13:19:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

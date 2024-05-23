@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 23 May 2024 06:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:17:11 GMT</lastBuildDate>
+    <item>
+      <title>斯嘉丽约翰逊抗议 OpenAI 的“相似”合成声音，这个问题似乎可能会闹上法庭</title>
+      <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
+      <description><![CDATA[Sky是OpenAI为ChatGPT开发的合成语音，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的AI助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
+      <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
+      <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉汽车面临被盗风险，新安全装置易遭黑客攻击</title>
+      <link>https://wired.jp/article/tesla-ultra-wideband-radio-relay-attacks/</link>
+      <description><![CDATA[一种称为“中继攻击”的盗窃方法，可放大汽车遥控钥匙的无线电波以解锁或启动汽车。下一代无线技术中发现了一个可破解的漏洞，原本有望成为解决方案，中国研究团队在一辆新款特斯拉汽车上进行了演示。]]></description>
+      <guid>https://wired.jp/article/tesla-ultra-wideband-radio-relay-attacks/</guid>
+      <pubDate>Thu, 23 May 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“门户”再次“打开”。站在纽约和都柏林两边我学到了什么</title>
       <link>https://wired.jp/article/new-york-dublin-portal-reopening/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[微软于 5 月 20 日（美国时间）配合开发者大会“Microsoft Build”举行发布会，发布了强调基于 AI 的功能和 Windows 11 新特性的全新“Surface”系列笔记本电脑。]]></description>
       <guid>https://wired.jp/article/everything-announced-microsoft-surface-event-2024/</guid>
       <pubDate>Mon, 20 May 2024 22:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究结果：在城市植树可以减少酷热造成的死亡</title>
-      <link>https://wired.jp/article/city-trees-save-lives/</link>
-      <description><![CDATA[在全球变暖加剧的城市地区，树木提供的阴凉具有显着的降温效果。一项新的研究表明，在洛杉矶种植更多树木等措施可以将与高温相关的急诊室就诊次数减少三分之二。]]></description>
-      <guid>https://wired.jp/article/city-trees-save-lives/</guid>
-      <pubDate>Mon, 20 May 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府对中国制造的电动汽车加征100%关税是否会成功？</title>
-      <link>https://wired.jp/article/new-ev-china-tariffs-biden/</link>
-      <description><![CDATA[美国宣布计划对中国制造的电动汽车（EV）征收100%关税。由于美国汽车制造商很难销售电动汽车，而且许多公司依赖中国制造的原材料，这项政策会因祸得福吗？]]></description>
-      <guid>https://wired.jp/article/new-ev-china-tariffs-biden/</guid>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
