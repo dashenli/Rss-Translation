@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>可混搭</title>
+    <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
-    <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
-创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
-媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
-在旧金山设有办事处。</description>
-    <lastBuildDate>Thu, 23 May 2024 11:07:19 GMT</lastBuildDate>
+    <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
+    <lastBuildDate>Thu, 23 May 2024 13:48:09 GMT</lastBuildDate>
+    <item>
+      <title>了解专为解决劳动力短缺问题而设计的自动打磨机器人</title>
+      <link>https://mashable.com/video/sanding-robot</link>
+      <description><![CDATA[Scan &amp; Sand 旨在承担对人类更危险的任务，并帮助解决日益严重的劳动力短缺问题。]]></description>
+      <guid>https://mashable.com/video/sanding-robot</guid>
+      <pubDate>Thu, 23 May 2024 13:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>“购买伦敦”遭到了彻底的猛烈抨击。 Netflix 也加入进来。</title>
+      <link>https://mashable.com/article/buying-london-netflix</link>
+      <description><![CDATA[这是“推销日落”，但把它放在伦敦。 Netflix 的《买下伦敦》受到了一些不好的评价，但该公司仍拥有它。]]></description>
+      <guid>https://mashable.com/article/buying-london-netflix</guid>
+      <pubDate>Thu, 23 May 2024 12:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>《比佛利山警探：艾克塞尔·F》预告片：艾迪·墨菲的系列电影回归，热度飙升</title>
+      <link>https://mashable.com/video/beverly-hills-cop-axel-foley-trailer</link>
+      <description><![CDATA[《比佛利山刑警：阿克塞尔·F》预告片预告了艾迪·墨菲的系列回归。手表。]]></description>
+      <guid>https://mashable.com/video/beverly-hills-cop-axel-foley-trailer</guid>
+      <pubDate>Thu, 23 May 2024 12:24:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 刚刚宣布了一系列用于广告的新 AI 工具</title>
+      <link>https://mashable.com/article/tiktok-symphony-ai-ad-generator</link>
+      <description><![CDATA[TikTok 的新品牌人工智能套件有助于生成广告。]]></description>
+      <guid>https://mashable.com/article/tiktok-symphony-ai-ad-generator</guid>
+      <pubDate>Thu, 23 May 2024 11:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>以太坊因 ETF 的关键决定而升温。这是您需要了解的内容。</title>
+      <link>https://mashable.com/article/ethereum-eth-etf-explained</link>
+      <description><![CDATA[以太坊是按市值计算的第二大加密货币，由于即将出台的 ETF 决策，其价格和兴趣正在升温。]]></description>
+      <guid>https://mashable.com/article/ethereum-eth-etf-explained</guid>
+      <pubDate>Thu, 23 May 2024 11:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>斯蒂芬·科尔伯特对拜登竞选团队的“模因页面”经理提出了建议</title>
       <link>https://mashable.com/video/stephen-colbert-biden-meme-page-manager</link>
@@ -18,21 +50,21 @@
     <item>
       <title>《纽约时报》5 月 23 日的迷你填字游戏答案</title>
       <link>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-23-2024</link>
-      <description><![CDATA[纽约时报 2024 年 5 月 23 日版迷你填字游戏每条线索的答案。]]></description>
+      <description><![CDATA[2024 年 5 月 23 日《纽约时报》迷你填字游戏每个线索的答案。]]></description>
       <guid>https://mashable.com/article/nyt-mini-crossword-clues-answers-may-23-2024</guid>
       <pubDate>Thu, 23 May 2024 09:20:01 GMT</pubDate>
     </item>
     <item>
-      <title>总是忘记密码？这个价值 30 美元的数字保险库就是您的答案。</title>
+      <title>总是忘记密码？这个 30 美元的数字金库就是您的答案。</title>
       <link>https://mashable.com/deals/may-23-sticky-password</link>
       <description><![CDATA[Sticky Password Premium 终身访问优惠价为 29.99 美元（原价 199.99 美元），截至 5 月 31 日。在您的所有设备上生成、存储和共享安全登录信息。]]></description>
       <guid>https://mashable.com/deals/may-23-sticky-password</guid>
       <pubDate>Thu, 23 May 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>只需 17 美元即可终身使用 Plantum AI 植物识别应用程序</title>
+      <title>仅需 17 美元即可终身使用 Plantum AI 植物识别应用程序</title>
       <link>https://mashable.com/deals/may-23-plantum-app</link>
-      <description><![CDATA[阵亡将士纪念日期间，Plantum 终身订阅仅需 16.97 美元（原价 59.99 美元），截止日期为 5 月 31 日。]]></description>
+      <description><![CDATA[阵亡将士纪念日当天，Plantum 终身订阅仅需 16.97 美元（原价 59.99 美元），截止到 5 月 31 日。]]></description>
       <guid>https://mashable.com/deals/may-23-plantum-app</guid>
       <pubDate>Thu, 23 May 2024 09:00:00 GMT</pubDate>
     </item>
@@ -51,7 +83,7 @@
       <pubDate>Thu, 23 May 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>这很艰难，但我们在 Max 上找到了 25 部最佳电影</title>
+      <title>虽然很难，但我们找到了 Max 上最好的 25 部电影</title>
       <link>https://mashable.com/article/best-movies-hbo-max</link>
       <description><![CDATA[从《沙丘：第二部分》到《芭比娃娃》再到《千与千寻》，以下是 Max 上 24 部最佳电影的不同样本。立即在 Max 上播放它们。]]></description>
       <guid>https://mashable.com/article/best-movies-hbo-max</guid>
@@ -60,7 +92,7 @@
     <item>
       <title>Amazon Prime 上的 22 部最佳节目立即免费串流</title>
       <link>https://mashable.com/article/amazon-prime-best-tv-shows</link>
-      <description><![CDATA[就精彩电视剧而言，《了不起的麦瑟尔夫人》、《杰克·瑞恩》、《伦敦生活》和《好兆头》均位列 Amazon Prime Video 的最佳之列。]]></description>
+      <description><![CDATA[《了不起的麦瑟尔夫人》、《杰克·瑞恩》、《伦敦生活》和《好兆头》都是 Amazon Prime Video 上最好的电视节目之一。]]></description>
       <guid>https://mashable.com/article/amazon-prime-best-tv-shows</guid>
       <pubDate>Thu, 23 May 2024 09:00:00 GMT</pubDate>
     </item>
@@ -74,44 +106,9 @@
     <item>
       <title>以不到 64 英镑的价格获得 Microsoft Office Professional 2021 的终身访问权限</title>
       <link>https://mashable.com/uk/deals/may-23-microsoft-office-2021</link>
-      <description><![CDATA[在有限的时间内，您可以花费 63.54 英镑获取 Microsoft Office Professional 2021 for Windows 的终身许可证。]]></description>
+      <description><![CDATA[在限定时间内，您可以花费 63.54 英镑获取适用于 Windows 的 Microsoft Office Professional 2021 的终身许可证。]]></description>
       <guid>https://mashable.com/uk/deals/may-23-microsoft-office-2021</guid>
       <pubDate>Thu, 23 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天的“Wordle”：这是 5 月 23 日的答案提示</title>
-      <link>https://mashable.com/article/wordle-today-answer-may-23-2024</link>
-      <description><![CDATA[以下是 5 月 23 日“Wordle”#1069 的答案，以及一些帮助您自行解决问题的提示、技巧和线索。]]></description>
-      <guid>https://mashable.com/article/wordle-today-answer-may-23-2024</guid>
-      <pubDate>Thu, 23 May 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>今日纽约时报连线：查看 5 月 23 日的提示和答案</title>
-      <link>https://mashable.com/article/nyt-connections-hint-answer-today-may-23-2024</link>
-      <description><![CDATA[Connections 是《纽约时报》的一款文字游戏，旨在寻找“单词之间的共同点”。如何解决这个难题。]]></description>
-      <guid>https://mashable.com/article/nyt-connections-hint-answer-today-may-23-2024</guid>
-      <pubDate>Thu, 23 May 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何关闭 iPhone 14</title>
-      <link>https://mashable.com/article/how-to-turn-off-iphone-14</link>
-      <description><![CDATA[如何通过几个简单的步骤关闭你的 iPhone 14（或任何带有面容 ID 的 iPhone），但如何关闭 iPhone 14 Pro 的 Always-On Display。]]></description>
-      <guid>https://mashable.com/article/how-to-turn-off-iphone-14</guid>
-      <pubDate>Wed, 22 May 2024 23:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 的 X 很快就会删除公众点赞</title>
-      <link>https://mashable.com/article/elon-musk-x-twitter-remove-public-likes</link>
-      <description><![CDATA[X 表示，埃隆·马斯克的社交媒体平台上的公众“点赞”功能很快就会消失，这样用户就可以平静地点赞“前卫”的帖子。]]></description>
-      <guid>https://mashable.com/article/elon-musk-x-twitter-remove-public-likes</guid>
-      <pubDate>Wed, 22 May 2024 22:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 可能会将这些新表情符号带到 iPhone 上，其中包括这个“眼袋”表情符号</title>
-      <link>https://mashable.com/article/apple-ios-18-new-emoji-baggy-eyes</link>
-      <description><![CDATA[可能会有一批新的表情符号即将推出，其中一个完美地描绘了我们现在的感受。]]></description>
-      <guid>https://mashable.com/article/apple-ios-18-new-emoji-baggy-eyes</guid>
-      <pubDate>Wed, 22 May 2024 19:33:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
