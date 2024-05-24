@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 24 May 2024 09:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:27:31 GMT</lastBuildDate>
     <item>
       <title>超越盒子</title>
       <link>https://humanparts.medium.com/beyond-boxes-24858bc409aa</link>
@@ -32,7 +32,7 @@
     <item>
       <title>排队——排队策略的交互式研究</title>
       <link>https://encore.dev/blog/queueing</link>
-      <description><![CDATA[在本博客中，我们将进行一次互动之旅，以了解处理 HTTP 请求的常见排队策略。
+      <description><![CDATA[在此博客中，我们将进行一次互动之旅，以了解处理 HTTP 请求的常见排队策略。
 ]]></description>
       <guid>https://encore.dev/blog/queueing</guid>
       <pubDate>Fri, 24 May 2024 05:44:06 GMT</pubDate>

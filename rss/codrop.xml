@@ -4,7 +4,21 @@
     <title>共生属</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Wed, 22 May 2024 18:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 12:26:55 GMT</lastBuildDate>
+    <item>
+      <title>集体#841</title>
+      <link>https://tympanus.net/codrops/collective/collective-841/</link>
+      <description><![CDATA[🎉 GAAD * 16 天的无障碍意识 * 法学硕士如何工作，无需数学即可解释 * 在某些时候，JavaScript 变得很好]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-841/</guid>
+      <pubDate>Fri, 24 May 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>励志网站综述#60</title>
+      <link>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</link>
+      <description><![CDATA[探索我们最新精选的网站，其精心设计的设计让您紧跟最新潮流。]]></description>
+      <guid>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</guid>
+      <pubDate>Fri, 24 May 2024 10:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>集体#840</title>
       <link>https://tympanus.net/codrops/collective/collective-840/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>集体#838</title>
       <link>https://tympanus.net/codrops/collective/collective-838/</link>
-      <description><![CDATA[TypeSpec * 设计系统的可组合性 * 精致 UI 的小型实验室]]></description>
+      <description><![CDATA[TypeSpec * 设计系统中的可组合性 * 精细 UI 小型实验室]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-838/</guid>
       <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[CSS 砌体的替代提案 * 使用 CSS 网格打印音乐 * CSS 继承]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-837/</guid>
       <pubDate>Fri, 10 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>精选字体，让您的网页设计永不过时</title>
-      <link>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</link>
-      <description><![CDATA[一小部分字体，非常适合让您的网页设计保持永恒和前瞻性。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</guid>
-      <pubDate>Fri, 10 May 2024 10:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React Three Fiber 探索 3D 文本扭曲效果</title>
-      <link>https://tympanus.net/codrops/2024/05/08/exploring-a-3d-text-distortion-effect-with-react-three-fiber/</link>
-      <description><![CDATA[关于如何在 React Three Fiber 中创建漂亮的扭曲文本环效果的快速教程。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/08/exploring-a-3d-text-distortion-effect-with-react-three-fiber/</guid>
-      <pubDate>Wed, 08 May 2024 14:20:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

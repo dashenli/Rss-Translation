@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>连线日本</title>
+    <title>日本连线</title>
     <link>https://wired.jp</link>
-    <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 24 May 2024 09:16:19 GMT</lastBuildDate>
+    <description>来自wired.jp的最新消息</description>
+    <lastBuildDate>Fri, 24 May 2024 12:26:30 GMT</lastBuildDate>
     <item>
       <title>一项革命性的实验通过用光子轰击质子来揭示质子的内部结构</title>
       <link>https://wired.jp/article/the-quest-to-map-the-inside-of-the-proton/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>斯嘉丽约翰逊抗议 OpenAI 的“相似”合成声音，这个问题似乎可能会闹上法庭</title>
       <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果此事在法庭上受到质疑，问题可能是“公开权”。]]></description>
+      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
       <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>为了应对人工智能的风险，美国、日本等国家已经开始构建全球安全研究机构网络。</title>
       <link>https://wired.jp/article/us-forming-global-ai-safety-network-key-allies/</link>
-      <description><![CDATA[美国政府宣布计划建立一个横跨美国、英国、日本和加拿大等盟国的全球人工智能安全研究机构网络，以限制人工智能技术的风险。然而，挑战依然存在，例如一些国家的政府可能不同意。]]></description>
+      <description><![CDATA[美国政府宣布计划建立一个涵盖美国、英国、日本和加拿大等盟国的全球人工智能安全研究机构网络，以限制人工智能技术的风险。然而，挑战依然存在，例如一些国家的政府可能不同意。]]></description>
       <guid>https://wired.jp/article/us-forming-global-ai-safety-network-key-allies/</guid>
       <pubDate>Tue, 21 May 2024 21:30:00 GMT</pubDate>
     </item>
