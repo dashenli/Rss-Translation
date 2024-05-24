@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 24 May 2024 03:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 06:21:04 GMT</lastBuildDate>
+    <item>
+      <title>排队——排队策略的交互式研究</title>
+      <link>https://encore.dev/blog/queueing</link>
+      <description><![CDATA[在本博客中，我们将进行一次互动之旅，以了解处理 HTTP 请求的常见排队策略。
+]]></description>
+      <guid>https://encore.dev/blog/queueing</guid>
+      <pubDate>Fri, 24 May 2024 05:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>SolidStart：细粒度反应性走向全栈</title>
+      <link>https://start.solidjs.com/</link>
+      <description><![CDATA[SolidStart 是一个 JavaScript 框架，旨在构建 SolidJS 应用程序并将其部署到各种提供商。
+]]></description>
+      <guid>https://start.solidjs.com/</guid>
+      <pubDate>Fri, 24 May 2024 05:39:21 GMT</pubDate>
+    </item>
     <item>
       <title>申请者在申请设计职位时如何脱颖而出？</title>
       <link>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</link>
@@ -30,7 +46,7 @@
       <pubDate>Thu, 23 May 2024 06:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>Pigment CSS 简介：下一代 CSS-in-JS</title>
+      <title>介绍 Pigment CSS：下一代 CSS-in-JS</title>
       <link>https://mui.com/blog/introducing-pigment-css/</link>
       <description><![CDATA[Pigment CSS 提供了显着的性能提升以及 RSC 和 App Router 支持。
 ]]></description>
@@ -46,7 +62,7 @@
       <pubDate>Thu, 23 May 2024 06:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>各个国家发音最错误的品牌</title>
+      <title>各个国家最容易被误读的品牌</title>
       <link>https://businessfinancing.co.uk/most-mispronounced-brands/</link>
       <description><![CDATA[两家法国公司拥有世界上两个发音最错误的品牌名称：金融家法国兴业银行和汽车公司标致。 
 ]]></description>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://csscade.com/baseline/</guid>
       <pubDate>Tue, 21 May 2024 10:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI密度</title>
-      <link>https://matthewstrom.com/writing/ui-density/</link>
-      <description><![CDATA[UI 密度意味着什么以及如何设计。
-]]></description>
-      <guid>https://matthewstrom.com/writing/ui-density/</guid>
-      <pubDate>Tue, 21 May 2024 10:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 起诉独立游戏模拟器 Delta 复制其徽标</title>
-      <link>https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/</link>
-      <description><![CDATA[Adobe 针对 Delta 推出了与其自己的徽标太相似的徽标。
-]]></description>
-      <guid>https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/</guid>
-      <pubDate>Tue, 21 May 2024 10:52:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

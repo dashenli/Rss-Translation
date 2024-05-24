@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>日本连线</title>
+    <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 24 May 2024 03:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 06:20:15 GMT</lastBuildDate>
     <item>
       <title>一项革命性的实验通过用光子轰击质子来揭示质子的内部结构</title>
       <link>https://wired.jp/article/the-quest-to-map-the-inside-of-the-proton/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>斯嘉丽约翰逊抗议 OpenAI 的“相似”合成声音，这个问题似乎可能会闹上法庭</title>
       <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果此事在法庭上受到质疑，问题可能是“公开权”。]]></description>
+      <description><![CDATA[Sky是OpenAI为ChatGPT开发的合成语音，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的AI助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
       <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌寻求通过人工智能增加收入，还将在搜索自动生成的“AI概览”中放置广告</title>
+      <title>谷歌希望通过人工智能提高利润，还将在搜索自动生成的“人工智能概述”中放置广告</title>
       <link>https://wired.jp/article/google-search-ai-overviews-ads/</link>
       <description><![CDATA[谷歌宣布将在“AI Overviews”上展示广告，该应用程序使用人工智能生成并显示搜索结果摘要。在生成式人工智能广泛普及的时代，这是对作为最大收入来源的广告业务的一次尝试。]]></description>
       <guid>https://wired.jp/article/google-search-ai-overviews-ads/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>谷歌新广告工具旨在利用人工智能生成模特穿着衣服的图像</title>
       <link>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和TikTok在购物领域展开竞争。]]></description>
+      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和 TikTok 在购物领域展开竞争。]]></description>
       <guid>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 22:30:00 GMT</pubDate>
     </item>
