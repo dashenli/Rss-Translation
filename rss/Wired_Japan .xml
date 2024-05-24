@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Thu, 23 May 2024 21:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 00:59:36 GMT</lastBuildDate>
+    <item>
+      <title>“iPhone”的终结</title>
+      <link>https://wired.jp/article/the-end-of-iphone/</link>
+      <description><![CDATA[Ken Segal 在 1998 年发布苹果电脑时将其命名为 iMac，他认为苹果不应该继续使用 i Mac。]]></description>
+      <guid>https://wired.jp/article/the-end-of-iphone/</guid>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类的策划，为人类服务，为算法提供了庇护所</title>
+      <link>https://wired.jp/article/latest-online-culture-war-is-humans-vs-algorithms/</link>
+      <description><![CDATA[我们中的许多人可能认为 Instagram 和 TikTok 似乎以一种令人毛骨悚然的方式了解我们。随着人们对社交媒体自动管理的强烈反对，不依赖算法的新人类平台正在出现。]]></description>
+      <guid>https://wired.jp/article/latest-online-culture-war-is-humans-vs-algorithms/</guid>
+      <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有可能让孩子摆脱智能手机的束缚吗？</title>
+      <link>https://wired.jp/article/sz-can-we-get-kids-off-smartphones/</link>
+      <description><![CDATA[我们知道社交媒体对于需要大量离线时间和自由的年轻人来说是不利的。尽管如此，家长们并没有表现出团结起来解决这个问题的意愿。]]></description>
+      <guid>https://wired.jp/article/sz-can-we-get-kids-off-smartphones/</guid>
+      <pubDate>Thu, 23 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>斯嘉丽约翰逊抗议 OpenAI 的“相似”合成声音，这个问题似乎可能会闹上法庭</title>
       <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[中国电动汽车制造商比亚迪旗下豪华品牌“燕湾”的混合动力SUV“U8”拥有多种“特殊能力”。它可以原地360度旋转，甚至可以像船一样漂浮在水面上。]]></description>
       <guid>https://wired.jp/article/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/</guid>
       <pubDate>Tue, 21 May 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国高等法院认定，自称中本聪“伪造了大量证据”</title>
-      <link>https://wired.jp/article/craig-wright-lied-faked-evidence-bitcoin-judge-says/</link>
-      <description><![CDATA[计算机科学家克雷格·赖特声称自己是比特币的发明者中本聪，但被英国高等法院完全否认。英国高等法院得出结论，他伪造了大量证据来支持他的主张。]]></description>
-      <guid>https://wired.jp/article/craig-wright-lied-faked-evidence-bitcoin-judge-says/</guid>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“精疲力竭”的员工在老板不知情的情况下依赖人工智能</title>
-      <link>https://wired.jp/article/ai-workers-burnout-microsoft-linkedin/</link>
-      <description><![CDATA[新数据显示，无论老板是否愿意，员工都在使用人工智能。这种变化似乎源于工人们的绝望，而不是创新。]]></description>
-      <guid>https://wired.jp/article/ai-workers-burnout-microsoft-linkedin/</guid>
-      <pubDate>Mon, 20 May 2024 23:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软宣布的所有新产品和功能，从新款 Surface 笔记本电脑到 Windows 11 的 AI 功能</title>
-      <link>https://wired.jp/article/everything-announced-microsoft-surface-event-2024/</link>
-      <description><![CDATA[微软于 5 月 20 日（美国时间）配合开发者大会“Microsoft Build”举行发布会，发布了强调基于 AI 的功能和 Windows 11 新特性的全新“Surface”系列笔记本电脑。]]></description>
-      <guid>https://wired.jp/article/everything-announced-microsoft-surface-event-2024/</guid>
-      <pubDate>Mon, 20 May 2024 22:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
