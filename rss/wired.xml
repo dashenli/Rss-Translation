@@ -3,8 +3,22 @@
   <channel>
     <title>提要：全部最新</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Fri, 24 May 2024 18:18:40 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Fri, 24 May 2024 21:13:19 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊 Prime 上目前最佳的 34 部节目（2024 年 5 月）</title>
+      <link>https://www.wired.com/story/best-shows-amazon-prime/</link>
+      <description><![CDATA[《Outer Range》、《辐射》和《史密斯夫妇》只是本周您应该在 Amazon Prime Video 上观看的几部影片。]]></description>
+      <guid>https://www.wired.com/story/best-shows-amazon-prime/</guid>
+      <pubDate>Fri, 24 May 2024 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon Prime 目前 18 部最佳电影（2024 年 5 月）</title>
+      <link>https://www.wired.com/story/best-amazon-prime-movies/</link>
+      <description><![CDATA[《The Idea of​​ You》、《Road House》和《Bottoms》只是您本周应该观看 Amazon Prime Video 的几部电影。]]></description>
+      <guid>https://www.wired.com/story/best-amazon-prime-movies/</guid>
+      <pubDate>Fri, 24 May 2024 19:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们会看到这些疯狂的北极光？</title>
       <link>https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>33 项 REI 周年纪念促销优惠 (2024)：健身追踪器、帐篷、睡袋、耳机、电动自行车</title>
       <link>https://www.wired.com/story/rei-anniversary-sale-may-2024/</link>
-      <description><![CDATA[现在是一年中拿起夏日乐趣所需的所有帐篷、炉灶、睡袋和装备的最佳时机。请记住，优惠在阵亡将士纪念日结束。]]></description>
+      <description><![CDATA[这是一年中购买帐篷、炉子、睡袋和夏日玩乐所需装备的最佳时机。请记住，优惠将于阵亡将士纪念日结束。]]></description>
       <guid>https://www.wired.com/story/rei-anniversary-sale-may-2024/</guid>
       <pubDate>Fri, 24 May 2024 14:14:57 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Fri, 24 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>曲速引擎的突破让《星际迷航》更近一步</title>
+      <title>曲速引擎的突破让《星际迷航》更接近了一点</title>
       <link>https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/</link>
       <description><![CDATA[物理学家已经弄清楚曲速驱动器是如何工作的——即使它比星际旅行更有助于我们理解重力。]]></description>
       <guid>https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>法官暗示计划遏制谷歌非法 Play 商店垄断</title>
       <link>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</link>
-      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团裁定该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
+      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团发现该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
       <guid>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</guid>
       <pubDate>Thu, 23 May 2024 23:56:25 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[《参赛者》、《拉什莫尔》和《杯酒人生》只是您现在需要在 Hulu 上观看的几部电影。]]></description>
       <guid>https://www.wired.com/story/best-movies-hulu-right-now/</guid>
       <pubDate>Thu, 23 May 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登的新进口规则也将打击电动自行车电池</title>
-      <link>https://www.wired.com/story/biden-tariffs-ebike-batteries/</link>
-      <description><![CDATA[关税对自行车行业的影响仍然悬而未决。]]></description>
-      <guid>https://www.wired.com/story/biden-tariffs-ebike-batteries/</guid>
-      <pubDate>Thu, 23 May 2024 17:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>他训练警察打击加密货币犯罪，并据称经营价值 1 亿美元的暗网毒品市场</title>
-      <link>https://www.wired.com/story/lin-rui-siang-incognito-market/</link>
-      <description><![CDATA[23 岁的林瑞祥 (Lin Ru-siang) 被指控经营 Incognito 黑市、勒索自己网站的用户，然后将自己重塑为合法的加密货币犯罪专家，他的奇怪旅程。]]></description>
-      <guid>https://www.wired.com/story/lin-rui-siang-incognito-market/</guid>
-      <pubDate>Thu, 23 May 2024 17:24:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
