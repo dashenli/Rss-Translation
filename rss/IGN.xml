@@ -3,8 +3,22 @@
   <channel>
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
-    <description>此提要包含 IGN 最新 20 篇有关游戏的文章</description>
-    <lastBuildDate>Fri, 24 May 2024 15:15:10 GMT</lastBuildDate>
+    <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
+    <lastBuildDate>Fri, 24 May 2024 18:17:53 GMT</lastBuildDate>
+    <item>
+      <title>据传新的 Astro Bot 游戏将在未来两周内发布</title>
+      <link>https://www.ign.com/articles/new-astro-bot-game-rumored-to-be-announced-in-the-next-two-weeks</link>
+      <description><![CDATA[据传，索尼将在未来几周内发布一款适用于 PlayStation 5 的新 Astro Bot 游戏。]]></description>
+      <guid>https://www.ign.com/articles/new-astro-bot-game-rumored-to-be-announced-in-the-next-two-weeks</guid>
+      <pubDate>Fri, 24 May 2024 17:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日优惠：生化危机 4、48 英寸 UltraGear 4K 显示器、Nintendo Switch</title>
+      <link>https://www.ign.com/articles/daily-deals-resident-evil-4-48-ultragear-4k-monitor-nintendo-switch</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/daily-deals-resident-evil-4-48-ultragear-4k-monitor-nintendo-switch</guid>
+      <pubDate>Fri, 24 May 2024 17:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>育碧正在努力修复 XDefiant 被破坏的热门歌曲注册问题</title>
       <link>https://www.ign.com/articles/ubisoft-working-to-fix-xdefiants-busted-hit-registration</link>
@@ -15,14 +29,14 @@
     <item>
       <title>IGN 英国播客 750：阴囊、直立和其他好孩子</title>
       <link>https://www.ign.com/articles/ign-uk-podcast-750-scrotus-erectus-and-other-good-boys</link>
-      <description><![CDATA[《福瑞欧萨：疯狂的麦克斯传奇》、《地狱之刃 2》、《神魔》和《怪物》。]]></description>
+      <description><![CDATA[《福瑞奥莎：疯狂的麦克斯传奇》、《地狱之刃 2》、《Alters》和《怪物》。]]></description>
       <guid>https://www.ign.com/articles/ign-uk-podcast-750-scrotus-erectus-and-other-good-boys</guid>
       <pubDate>Fri, 24 May 2024 13:05:00 GMT</pubDate>
     </item>
     <item>
       <title>改变者：第一次预览</title>
       <link>https://www.ign.com/articles/the-alters-the-first-preview</link>
-      <description><![CDATA[我们亲身体验了《改变者》及其科幻生存方式，一切都是为了创造你自己的复制品。]]></description>
+      <description><![CDATA[我们亲身体验了《The Alters》及其科幻生存故事，其中全部内容都是关于创造自己的复制品。]]></description>
       <guid>https://www.ign.com/articles/the-alters-the-first-preview</guid>
       <pubDate>Fri, 24 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -34,9 +48,9 @@
       <pubDate>Fri, 24 May 2024 12:54:37 GMT</pubDate>
     </item>
     <item>
-      <title>呼啸波开发者解决了玩家报告其设备过热的启动问题</title>
+      <title>《呼啸浪潮》开发商解决玩家报告设备过热导致的启动问题</title>
       <link>https://www.ign.com/articles/wuthering-waves-developer-addresses-launch-issues-as-players-report-their-devices-are-overheating</link>
-      <description><![CDATA[《呼啸浪潮》的开发商已就游戏的失败发布致歉，并向玩家提供补偿。]]></description>
+      <description><![CDATA[《呼啸波涛》的开发商已为其发行过程​​中遇到的困难道歉，并向玩家提供补偿。]]></description>
       <guid>https://www.ign.com/articles/wuthering-waves-developer-addresses-launch-issues-as-players-report-their-devices-are-overheating</guid>
       <pubDate>Fri, 24 May 2024 11:35:47 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>顽皮狗老板尼尔·德鲁克曼表示人工智能将“彻底改变内容的创建方式”</title>
       <link>https://www.ign.com/articles/naughty-dog-boss-neil-druckmann-says-ai-will-revolutionize-how-content-is-being-created</link>
-      <description><![CDATA[顽皮狗老板尼尔·德鲁克曼表示，人工智能将“彻底改变”视频游戏开发过程，但警告说，这项有争议的技术存在“道德问题”。]]></description>
+      <description><![CDATA[顽皮狗老板尼尔·德鲁克曼表示，人工智能将“彻底改变”视频游戏开发流程，但他警告称，这项备受争议的技术存在“道德问题”。]]></description>
       <guid>https://www.ign.com/articles/naughty-dog-boss-neil-druckmann-says-ai-will-revolutionize-how-content-is-being-created</guid>
       <pubDate>Fri, 24 May 2024 10:03:13 GMT</pubDate>
     </item>
@@ -69,46 +83,32 @@
       <pubDate>Fri, 24 May 2024 06:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>《模拟人生 4》承诺修复更多错误并提高性能以应对社区的不满</title>
-      <link>https://www.ign.com/articles/the-sims-4-promises-more-bug-fixes-performance-improvements-in-response-to-community-frustration</link>
-      <description><![CDATA[《模拟人生 4》承诺会进行更多定期更新，以解决导致粉丝“非常沮丧”的错误和性能问题，第一个更新将在本月晚些时候推出。]]></description>
-      <guid>https://www.ign.com/articles/the-sims-4-promises-more-bug-fixes-performance-improvements-in-response-to-community-frustration</guid>
-      <pubDate>Thu, 23 May 2024 20:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>IGN Plus Games：在 Steam 上领取“冬季计划”的钥匙！</title>
-      <link>https://www.ign.com/articles/ign-plus-games-claim-a-key-for-project-winter-on-steam</link>
+      <title>刀片球代码 2024 年 5 月</title>
+      <link>https://www.ign.com/articles/blade-ball-codes-may-2024</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/ign-plus-games-claim-a-key-for-project-winter-on-steam</guid>
-      <pubDate>Thu, 23 May 2024 19:00:00 GMT</pubDate>
+      <guid>https://www.ign.com/articles/blade-ball-codes-may-2024</guid>
+      <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《命运 2》最终形态揭晓基思·大卫 (Keith David) 饰演萨瓦拉指挥官</title>
-      <link>https://www.ign.com/articles/destiny-2-the-final-shape-reveals-first-listen-of-keith-david-as-commander-zavala</link>
-      <description><![CDATA[去年三月，原演员兰斯·雷迪克去世后，Bungie 首次让粉丝们听到基思·大卫在《命运 2》中饰演指挥官萨瓦拉。]]></description>
-      <guid>https://www.ign.com/articles/destiny-2-the-final-shape-reveals-first-listen-of-keith-david-as-commander-zavala</guid>
-      <pubDate>Thu, 23 May 2024 18:34:15 GMT</pubDate>
+      <title>动漫背水一战代码 2024 年 5 月</title>
+      <link>https://www.ign.com/articles/anime-last-stand-codes-may-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/anime-last-stand-codes-may-2024</guid>
+      <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>PlayStation 高管表示人工智能对于想要“全面个性化”的 Z 世代和 Alpha 世代游戏玩家来说非常重要</title>
-      <link>https://www.ign.com/articles/playstation-exec-says-ai-is-important-to-gen-z-and-gen-alpha-gamers-who-want-personalization-across-everything</link>
-      <description><![CDATA[一位 PlayStation 高管表示，开发用于视频游戏的人工智能对于寻求“一切个性化”的 Z 世代和 Alpha 世代游戏玩家来说非常重要。]]></description>
-      <guid>https://www.ign.com/articles/playstation-exec-says-ai-is-important-to-gen-z-and-gen-alpha-gamers-who-want-personalization-across-everything</guid>
-      <pubDate>Thu, 23 May 2024 17:39:24 GMT</pubDate>
+      <title>输入灵魂代码 2024 年 5 月</title>
+      <link>https://www.ign.com/articles/type-soul-codes-may-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/type-soul-codes-may-2024</guid>
+      <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《战锤 40,000：Rogue Trader》首个 DLC 扩展包已发布，新增 Steam 牌组支持</title>
-      <link>https://www.ign.com/articles/warhammer-40000-rogue-traders-first-dlc-expansion-announced-steam-deck-support-added</link>
-      <description><![CDATA[Owlcat Games 在 Warhammer Skulls 展示会上发布了其广受欢迎的角色扮演游戏《战锤 40,000：Rogue Trader》的首个 DLC 扩展包。]]></description>
-      <guid>https://www.ign.com/articles/warhammer-40000-rogue-traders-first-dlc-expansion-announced-steam-deck-support-added</guid>
-      <pubDate>Thu, 23 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《战锤 40,000：机械教 2》发布首支预告片</title>
-      <link>https://www.ign.com/articles/warhammer-40000-mechanicus-2-announced-with-debut-trailer</link>
-      <description><![CDATA[广受好评的回合制战术战锤 40,000 游戏 Mechanicus 即将推出续集，并在 Warhammer Skulls 展示会上发布了首发预告片并宣布推出续集。]]></description>
-      <guid>https://www.ign.com/articles/warhammer-40000-mechanicus-2-announced-with-debut-trailer</guid>
-      <pubDate>Thu, 23 May 2024 17:00:00 GMT</pubDate>
+      <title>Shindo 生活密码 2024 年 5 月</title>
+      <link>https://www.ign.com/articles/shindo-life-codes-may-2024</link>
+      <description><![CDATA[查看当前可用的所有 Shindo Life 代码。]]></description>
+      <guid>https://www.ign.com/articles/shindo-life-codes-may-2024</guid>
+      <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
