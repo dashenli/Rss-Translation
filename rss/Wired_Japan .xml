@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Fri, 24 May 2024 00:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 03:16:53 GMT</lastBuildDate>
+    <item>
+      <title>一项革命性的实验通过用光子轰击质子来揭示质子的内部结构</title>
+      <link>https://wired.jp/article/the-quest-to-map-the-inside-of-the-proton/</link>
+      <description><![CDATA[一项长期前景广阔的实验利用光来伪装重力，首次揭示了组成原子的质子内部的能量、力和压力的分布。]]></description>
+      <guid>https://wired.jp/article/the-quest-to-map-the-inside-of-the-proton/</guid>
+      <pubDate>Fri, 24 May 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“iPhone”的终结</title>
       <link>https://wired.jp/article/the-end-of-iphone/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>斯嘉丽约翰逊抗议 OpenAI 的“相似”合成声音，这个问题似乎可能会闹上法庭</title>
       <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[Sky是OpenAI为ChatGPT开发的合成语音，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的AI助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
+      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果此事在法庭上受到质疑，问题可能是“公开权”。]]></description>
       <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>谷歌新广告工具旨在利用人工智能生成模特穿着衣服的图像</title>
       <link>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和 TikTok 在购物领域展开竞争。]]></description>
+      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和TikTok在购物领域展开竞争。]]></description>
       <guid>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 22:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ChatGPT的最新版本基于OpenAI公布的最新AI模型“GPT-4o”。该声音与电影《她》中斯嘉丽约翰逊饰演的人工智能助手的声音惊人相似，但据透露，在约翰逊本人投诉后，该声音已被暂停使用。]]></description>
       <guid>https://wired.jp/article/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/</guid>
       <pubDate>Tue, 21 May 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>浮如舟、行如水！？国产豪华SUV“养湾U8”的全部特技</title>
-      <link>https://wired.jp/article/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/</link>
-      <description><![CDATA[中国电动汽车制造商比亚迪旗下豪华品牌“燕湾”的混合动力SUV“U8”拥有多种“特殊能力”。它可以原地360度旋转，甚至可以像船一样漂浮在水面上。]]></description>
-      <guid>https://wired.jp/article/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/</guid>
-      <pubDate>Tue, 21 May 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
