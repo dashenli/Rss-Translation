@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>壁纸 RSS 订阅</title>
+    <title>壁纸 RSS 源</title>
     <link>https://www.wallpaper.com</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 00:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 03:16:14 GMT</lastBuildDate>
     <item>
-      <title>2024 年墨尔本设计周激活全城意想不到的空间</title>
+      <title>呼啸的风 (Whistling Wind) 是一处偏远的加拿大度假小屋，可让您与大自然重新建立联系</title>
+      <link>https://www.wallpaper.com/architecture/residential/whistling-wind-akb-ontario-canada</link>
+      <description><![CDATA[呼啸风屋是位于安大略省偏远岛屿上的一处优雅的度假胜地，它以现代的方式重新诠释了当地的方言]]></description>
+      <guid>https://www.wallpaper.com/architecture/residential/whistling-wind-akb-ontario-canada</guid>
+      <pubDate>Sat, 25 May 2024 02:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年墨尔本设计周激活了城市中意想不到的空间</title>
       <link>https://www.wallpaper.com/design-interiors/melbourne-design-week-2024-best-of</link>
       <description><![CDATA[2024 年墨尔本设计周（至 6 月 2 日）回归，主题为“设计你想要的世界”]]></description>
       <guid>https://www.wallpaper.com/design-interiors/melbourne-design-week-2024-best-of</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Evan Kinori 诚实的家具设计体现了简约、精致的乡村美感</title>
       <link>https://www.wallpaper.com/design-interiors/evan-kinori-furniture-design-apple-elm-cotton</link>
-      <description><![CDATA[Evan Kinori 在 JDJ 画廊展出“苹果、榆树、棉花”（展至 2024 年 5 月 26 日），标志着这位设计师从时尚领域拓展到家具领域]]></description>
+      <description><![CDATA[Evan Kinori 在 JDJ 画廊展出“苹果、榆木、棉花”（至 2024 年 5 月 26 日），标志着设计师从时尚扩展到家具]]></description>
       <guid>https://www.wallpaper.com/design-interiors/evan-kinori-furniture-design-apple-elm-cotton</guid>
       <pubDate>Fri, 24 May 2024 09:00:41 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>艺术家 Abdur Ra​​hman Muhammad 重新设计“Ghana Must Go”包袋以考虑移民问题</title>
       <link>https://www.wallpaper.com/art/exhibitions-shows/artist-abdur-rahman-muhammad-reframes-the-ghana-must-go-bag-to-consider-migration</link>
-      <description><![CDATA[阿卜杜勒·拉赫曼·穆罕默德 (Abdur Ra​​hman Muhammad) 在阿克拉 ADA 画廊展出的《探索者的寓言》中，将“加纳必须去”的包包浸入油中，作为移民的有力象征]]></description>
+      <description><![CDATA[阿卜杜勒·拉赫曼·穆罕默德 (Abdur Ra​​hman Muhammad) 在阿克拉 ADA 画廊展出的《探索者的寓言》中，将“加纳必须走”的包包浸入油中，作为移民的有力象征]]></description>
       <guid>https://www.wallpaper.com/art/exhibitions-shows/artist-abdur-rahman-muhammad-reframes-the-ghana-must-go-bag-to-consider-migration</guid>
       <pubDate>Fri, 24 May 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>巨大的捷克粮仓改造以修复、干预和庆祝为核心</title>
+      <title>捷克大型粮仓改建以修复、干预和庆祝为核心</title>
       <link>https://www.wallpaper.com/architecture/grain-silo-conversion-automatic-mills-proks-prikryl-pardubice-czech-republic</link>
       <description><![CDATA[粮仓改造自动磨坊是由 Prokš Přikryl architekti 设计的帕尔杜比采市的新文化中心，也是对重要工业建筑的巧妙改造]]></description>
       <guid>https://www.wallpaper.com/architecture/grain-silo-conversion-automatic-mills-proks-prikryl-pardubice-czech-republic</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[长期运行的 D-Lux 系列是徕卡对“入门级”技术的认可。最新的 D-Lux 8 更新了这款高品质袖珍相机的镜头、机身和软件]]></description>
       <guid>https://www.wallpaper.com/tech/leicas-d-lux-8-continues-a-long-tradition-of-simple-streamlined-point-and-shoot-cameras</guid>
       <pubDate>Thu, 23 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新款起亚 EV3 展示了韩国品牌大胆的美学方法如何在任何规模上发挥作用</title>
-      <link>https://www.wallpaper.com/transportation/kia-ev3-revealed</link>
-      <description><![CDATA[新推出的起亚 EV3 拥有更大的 EV9 的所有厚实、几何吸引力，但封装紧凑而巧妙]]></description>
-      <guid>https://www.wallpaper.com/transportation/kia-ev3-revealed</guid>
-      <pubDate>Thu, 23 May 2024 12:17:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
