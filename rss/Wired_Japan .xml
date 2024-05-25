@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>日本连线</title>
+    <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Sat, 25 May 2024 03:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:19:52 GMT</lastBuildDate>
     <item>
       <title>研究结果显示，减肥药 Ugobi 的减肥效果可持续 4 年</title>
       <link>https://wired.jp/article/weight-loss-from-wegovy-sustained-for-up-to-four-years-trial-shows/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>斯嘉丽·约翰逊抗议 OpenAI 的“相似”合成语音，这个问题似乎可能会闹上法庭</title>
       <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
+      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果此事在法庭上受到质疑，问题可能是“公开权”。]]></description>
       <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>谷歌新广告工具旨在利用人工智能生成模特穿着衣服的图像</title>
       <link>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和TikTok在购物领域展开竞争。]]></description>
+      <description><![CDATA[谷歌宣布推出一款面向广告商的工具，利用人工智能生成不同肤色和体型穿着服装的模特图像，并将其显示在搜索结果中。这是将生成式人工智能应用于广告的努力的一部分，旨在与亚马逊和 TikTok 在购物领域展开竞争。]]></description>
       <guid>https://wired.jp/article/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 22:30:00 GMT</pubDate>
     </item>

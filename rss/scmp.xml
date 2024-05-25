@@ -3,8 +3,15 @@
   <channel>
     <title>香港 - 南华早报</title>
     <link>https://www.scmp.com/rss/2/feed</link>
-    <description>来自《南华早报》香港版的突发新闻、分析和观点。</description>
-    <lastBuildDate>Sat, 25 May 2024 03:15:23 GMT</lastBuildDate>
+    <description>南华早报香港版的突发新闻、分析和观点。</description>
+    <lastBuildDate>Sat, 25 May 2024 06:17:29 GMT</lastBuildDate>
+    <item>
+      <title>新界鸸鹋追捕4小时后被香港野生动物官员在停车场抓获</title>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3264081/emu-spotted-racing-hong-kong-motorists-strolling-housing-estate-and-wetland-park?utm_source=rss_feed</link>
+      <description><![CDATA[渔农自然护理署于上午 11 时 28 分抓获大型不会飞的鸟类，数小时前，警方接获鸸鹋在新界横行的报告。]]></description>
+      <guid>https://www.scmp.com/news/hong-kong/society/article/3264081/emu-spotted-racing-hong-kong-motorists-strolling-housing-estate-and-wetland-park?utm_source=rss_feed</guid>
+      <pubDate>Sat, 25 May 2024 03:30:28 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士透露，香港打造九龙寨城展览的梦想破灭了，原因是布景被毁</title>
       <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3264062/hong-kongs-dream-creating-kowloon-walled-city-exhibit-hit-movie-dashed-after-source-reveals-sets?utm_source=rss_feed</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[37 岁的马修·特里克特 (Matthew Trickett) 原定出庭，但周日被发现死在伯克郡梅登黑德的一个公园里。]]></description>
       <guid>https://www.scmp.com/news/hong-kong/law-and-crime/article/3264021/hong-kong-uk-spying-row-charges-dropped-against-matthew-trickett-suspect-found-dead-earlier-court?utm_source=rss_feed</guid>
       <pubDate>Fri, 24 May 2024 11:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>牙科监管机构寻求与香港大学学生会面，以消除对强制实习提案的误解</title>
-      <link>https://www.scmp.com/news/hong-kong/education/article/3264020/dental-regulator-seeks-meeting-university-hong-kong-students-clear-air-over-mandatory-internship?utm_source=rss_feed</link>
-      <description><![CDATA[香港牙医理事会也因十年来未能解决香港大学牙科学院课程中明显的弱点而受到立法者的批评。]]></description>
-      <guid>https://www.scmp.com/news/hong-kong/education/article/3264020/dental-regulator-seeks-meeting-university-hong-kong-students-clear-air-over-mandatory-internship?utm_source=rss_feed</guid>
-      <pubDate>Fri, 24 May 2024 11:11:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
