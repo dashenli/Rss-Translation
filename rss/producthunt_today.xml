@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <title>Product Hunt——每天最好的新产品</title>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 12:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:14:27 GMT</lastBuildDate>
     <item>
       <title>炼金术</title>
       <link>https://www.producthunt.com/posts/alchemyze</link>
       <description><![CDATA[
-            人工智能驱动的股票评级和股票市场洞察
+            人工智能驱动的股票评级和股市洞察
           
 
 讨论
@@ -62,7 +62,7 @@
       <pubDate>Fri, 24 May 2024 17:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>Lemon Squeezy 费用计算器</title>
+      <title>柠檬挤压费用计算器</title>
       <link>https://www.producthunt.com/posts/lemon-squeezy-fee-calculator</link>
       <description><![CDATA[
             费用计算器可快速确定费用和您的利润
@@ -163,12 +163,12 @@
       <title>TrackerJam</title>
       <link>https://www.producthunt.com/posts/trackerjam</link>
       <description><![CDATA[
-            自动浏览器网络时间跟踪
-          
+自动浏览器网页时间跟踪
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/trackerjam</guid>
       <pubDate>Mon, 20 May 2024 19:19:54 GMT</pubDate>
@@ -191,18 +191,18 @@
       <title>OutyPlay</title>
       <link>https://www.producthunt.com/posts/outyplay</link>
       <description><![CDATA[
-            参加体育比赛，创建您自己的游戏和锦标赛
-          
+加入体育比赛，创建自己的游戏和锦标赛
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/outyplay</guid>
       <pubDate>Sun, 05 May 2024 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>Stacks - 您的搜索助手</title>
+      <title>Stacks - 您的搜索副驾驶</title>
       <link>https://www.producthunt.com/posts/stacks-your-search-co-pilot</link>
       <description><![CDATA[
             搜索您的浏览器和社交书签
