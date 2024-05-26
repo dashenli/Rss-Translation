@@ -4,42 +4,32 @@
     <title>边缘 - 所有帖子</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 26 May 2024 15:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 18:16:41 GMT</lastBuildDate>
     <item>
       <title>苹果的 WWDC 可能会包括人工智能生成的表情符号和 OpenAI 合作伙伴关系</title>
       <link>https://www.theverge.com/2024/5/26/24165040/apple-wwdc-2024-ai-openai-ios-18-macos-15-iphone-macbook</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图：The Verge
-
-苹果最终将在 WWDC 2024 上讲述自己的人工智能故事，但这可能并不意味着 Google，微软，或OpenAI。相反，苹果可能会在这次活动中推出基本的人工智能功能，例如转录语音备忘录或自动生成的表情符号，并宣布与 OpenAI 建立传闻中的合作伙伴关系，根据 Mark Gurman 的 Power On 时事通讯今天的彭博社。 
-最近有传言称，苹果将允许聊天机器人更深入地集成到其操作系统中，OpenAI 似乎通过 ChatGPT 首次突破了这一点。但苹果仍在与谷歌达成协议 根据 Gurman 的说法，对 Gemini 做同样的事情。还有传言称与 Anthropic 交谈。 （在 OpenAI 最近的 斯嘉丽·约翰逊的争吵。）除了这些潜在的合作伙伴关系意味着什么之外，苹果的方法显然会注重实用性。
-
-据报道，该公司计划宣布对设备上 Spotlight 搜索、通过 Safari 进行互联网搜索的人工智能改进，以及通知摘要、网站和文本的“智能回顾”或写作等新功能电子邮件和短信的建议。该公司还可能使用人工智能来修饰照片并根据你发短信的内容即时生成表情符号——这种功能似乎一直会给这些公司带来麻烦。 （参见 Meta 的 持枪 Waluigi AI贴纸或 Google 的不恰当的种族多元化纳粹图片.)
-Apple 可以基于 Apple 自己的大型语言模型，以及 Apple Watch 上更好的 Siri 功能，为 Siri 展示更好、更自然的声音。古尔曼写道，只要有可能，苹果的设备将在本地完成所有这些工作，但对于复杂的任务，它们会将处理工作转移到苹果自己的基于 M2 Ultra 的服务器上。总的来说，他表示“去年左右发布的”设备将获得大部分新的设备人工智能功能。
-Gurman 表示，除了 AI 功能外，该公司还可能宣布 iOS 18 功能，让用户将应用程序图标更改为不同的颜色。现在，使用 iOS Shortcuts 应用程序也可以实现类似的操作，但我肯定欢迎更简单的方法。这是除了另一款即将推出的传闻 iPhone 主屏幕更改最终将允许用户将应用程序图标放置在他们想要的任何位置，而不是 iOS 强制从上到下、从左到右的排列。下一步是什么？ 自定义启动器？ 
-]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/5/26/24165040/apple-wwdc-2024-ai-openai-ios-18-macos-15-iphone-macbook</guid>
       <pubDate>Sun, 26 May 2024 15:03:11 GMT</pubDate>
     </item>
     <item>
       <title>在虚拟世界中看到真实世界</title>
       <link>https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast</link>
-      <description><![CDATA[
-
+      <description><![CDATA[&lt;图&gt;
+      
 图片：Samar Haddad / The Verge
 
-从最早的像素化游戏到如今极其逼真的体验，飞行模拟器一直在突破视频游戏中视觉再现的界限。让太空看起来不错是一回事；而忠实地重现 747 的驾驶舱以及它可能飞行的整个世界则完全是另一回事。
-在这期The Vergecast中，这是我们关于电子游戏五感系列的第四期也是最后一期，我们邀请了Polygon 的Charlie Hall来帮助我们理解飞行模拟的当前最新水平。 Hall 曾经在 VR 中花了四个多月时间绘制《精英：危险》中银河系边缘的地图，他在虚拟驾驶舱方面的经验比大多数人都要丰富。我们想知道专业人士如何设置他们的模拟器以获得最真实的体验，以及为什么让虚拟世界看起来像真实世界如此复杂。
+从最早的像素化游戏到当今极其逼真的体验，飞行模拟器一直在突破视频游戏中视觉再现的界限。让空间看起来漂亮是一回事，但让空间看起来更美好是一回事。忠实地再现 747 的驾驶舱以及它可能飞行的整个世界完全是另一回事。
+The Vergecast的这一集， 在我们关于视频游戏五种感官的系列的第四部分也是最后一部分中，我们询问了 Polygon Charlie Hall 帮助我们了解飞行模拟的当前技术水平。 Hall 曾在 VR 中度过了四个多月 在精英：危险中绘制银河系边缘，比大多数人拥有更多的虚拟驾驶舱经验。我们想知道专业人士如何设置模拟器以获得最真实的体验，以及为什么让虚拟世界看起来像真实世界如此复杂。
 
 
-Hall 认为，虽然 VR 和 XR 耳机在未来为更逼真的体验带来了很大的希望，但当今最好的虚拟驾驶舱仍然由多显示器设置和耗电的 GPU 组成。无论您在家中玩游戏还是在美国空军运行官方F-22 Raptor 和 F-35 Lightning 模拟器，情况都是如此。这些设置的最佳版本可能很难令人相信……直到您亲眼看到它。
-如果您想了解有关我们在本集中介绍的主题的更多信息，以下是一些入门链接：
+Hall 指出，虽然 VR 和 XR 耳机在未来为提供更真实的体验带来了很大希望，但当今最好的虚拟驾驶舱仍然由多显示器设置和电源组成。饥饿的 GPU。无论您是在家里玩还是在运行官方 美国空军的 F-22 猛禽和 F-35 闪电模拟器。这些设置的最佳版本可能很难相信......除非您亲眼目睹。
+如果您想了解更多有关我们在本集中介绍的主题的信息，可以通过以下一些链接开始：
 
-是时候打造您梦想中的驾驶舱了
-Microsoft Flight Simulator 最需要的功能是合作
-我作为星际公民的第一次杀戮
-如果 Microsoft Flight Simulator 让您渴望空战，请尝试这款飞行模拟游戏
+是时候建造你梦想的驾驶舱了
+微软飞行模拟器最需要的功能是合作
+我作为星际公民的第一次杀戮&lt; /a&gt;
+如果《微软飞行模拟》让您渴望空战，那么接下来试试这款飞行模拟
 
 ]]></description>
       <guid>https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast</guid>
@@ -60,18 +50,18 @@ Microsoft Flight Simulator 最需要的功能是合作
       <pubDate>Sun, 26 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ventje 将大众 ID Buzz 变成了一款非常迷人的电动露营车</title>
+      <title>Ventje 将大众的 ID Buzz 变成了一款非常迷人的电动露营车</title>
       <link>https://www.theverge.com/24158082/id-buzz-ventje-camper-review-price-specs</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24158082/id-buzz-ventje-camper-review-price-specs</guid>
       <pubDate>Sun, 26 May 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube Music 可让您通过在 Android 手机上哼唱来进行搜索</title>
+      <title>YouTube Music 可以让你通过在 Android 手机上哼唱来进行搜索</title>
       <link>https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android</link>
       <description><![CDATA[&lt;图&gt;
       
-点击上面圆圈中的波形图标，即可使用声音进行搜索。 |截图：YouTube Music
+点击上方圆圈中的波形图标，以声音进行搜索。 |截图：YouTube Music
 
 Android YouTube 音乐应用正在推出一项功能，它既像 Shazam，又像你的朋友，当你在哼着小酒吧之前说“嘿，那首歌是什么……”时。该功能可让您哼唱、吹口哨、唱歌或播放歌曲录音来弄清楚它是什么。
 如果您有这项新功能，您会在点击应用右上角的搜索按钮时出现的麦克风图标旁边看到一个新的波形图标。点击此按钮，应用程序将开始监听。也不算太破烂！当我测试时，它能够以不可思议的速度识别实际录音，使其成为 Shazam 的绝佳替代品。 
@@ -96,7 +86,7 @@ Android YouTube 音乐应用正在推出一项功能，它既像 Shazam，又像
 呃，我接受了。
 
 我在这里吹着 Meat Loaf 的“Bat Out of Hell”口哨。至少芬兰发金属复古乐队 Reckless Love 至少还算不错吧？
-对于失误我不能责怪太多。我向它扔了一些歌曲，我猜大多数人不会从几秒钟的哼唱中听出来。总体而言，它运行速度很快，可能比 Google Assistant 已经有很多年了。据报道，人们发现哼唱搜索近几个月来，iOS 版 YouTube Music 也出现了，不过它似乎还没有广泛普及。
+对于失误我不能责怪太多。我向它扔了一些歌曲，我猜大多数人不会从几秒钟的哼唱中听出来。总体而言，它运行速度很快，可能比 Google Assistant 已经有很多年了。据报道，人们发现哼唱搜索近几个月来，iOS 版 YouTube Music 也出现了这种情况，不过它似乎还没有广泛普及。
 
 ]]></description>
       <guid>https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android</guid>
@@ -124,7 +114,7 @@ Phoenix Digital 创始人 David Schaefer 将驳回陪审团的裁决，并在必
       <pubDate>Sat, 25 May 2024 19:21:19 GMT</pubDate>
     </item>
     <item>
-      <title>最好的阵亡将士纪念日销售正在进行中</title>
+      <title>最佳阵亡将士纪念日促销现已开始</title>
       <link>https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics</guid>
@@ -146,7 +136,7 @@ Phoenix Digital 创始人 David Schaefer 将驳回陪审团的裁决，并在必
       <pubDate>Sat, 25 May 2024 15:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>使用近 28 年的 ICQ 即将关闭</title>
+      <title>ICQ 在近 28 年后关闭</title>
       <link>https://www.theverge.com/2024/5/25/24164579/icq-shut-down-june</link>
       <description><![CDATA[&lt;图&gt;
       
@@ -156,7 +146,7 @@ ICQ 是早期即时通讯服务之一，例如 AOL Instant Messenger 或 MSN Mes
 当然，我们这些达到一定年龄的人可能还记得“呃哦！”当您收到消息时会播放警报。
 
 ICQ 由以色列公司 Mirabilis 于 1996 年创立，AOL 于 1998 年收购。 ICQ 的注册用户一度达到 1 亿，至少根据 2001 年时代华纳发布，该公司一年前以众所周知的注定失败的合并。 AOL 将该服务出售给 Digital Sky Technologies，该公司于 2010 年拥有 VK（当时称为 Mail.ru）。
-现代版本的 ICQ 的工作方式和功能似乎与其他通讯应用程序（例如 WhatsApp 或 Telegram）一样。大概是我从 2023 年 3 月的 互联网档案快照&lt; /a&gt; 的 iOS 应用商店列表，因为该应用程序显然已从 Apple 的数字商店和 Google 的 Play 商店中消失（并且似乎 已经好几个月了）。看来 ICQ 已经开发了一段时间了——也许 VK 只是让它正式化而已。
+现代版本的 ICQ 的工作方式和功能似乎与其他通讯应用程序（例如 WhatsApp 或 Telegram）一样。大概是我从 2023 年 3 月的 互联网档案快照&lt; /a&gt; 的 iOS 应用程序商店列表，因为该应用程序显然已从 Apple 的数字商店和 Google 的 Play 商店中消失（并且似乎 已经好几个月了）。看来 ICQ 已经开发了一段时间了——也许 VK 只是让它正式化而已。
 ]]></description>
       <guid>https://www.theverge.com/2024/5/25/24164579/icq-shut-down-june</guid>
       <pubDate>Sat, 25 May 2024 14:55:04 GMT</pubDate>
