@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>挖掘热门故事</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Sun, 26 May 2024 12:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 15:15:56 GMT</lastBuildDate>
+    <item>
+      <title>《SNL》第 49 季的最佳草图</title>
+      <link>https://rss.digg.com/movies-and-tv/link/best-snl-sketches-season-49-beavis-butthead</link>
+      <description><![CDATA[今年的第 49 赛季有起有落，但最终赢家只有一个。]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/best-snl-sketches-season-49-beavis-butthead</guid>
+      <pubDate>Wed, 22 May 2024 13:38:46 GMT</pubDate>
+    </item>
     <item>
       <title>在美国这些城市，租房成本比拥有房屋还要高</title>
       <link>https://rss.digg.com/real-estate/link/renting-vs-owning-home-cost-us-cities</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 16:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>互联网无法满足这个女人从街上的孩子那里买来的漫画</title>
+      <title>互联网对这本女人从街头小孩手里买来的漫画爱不释手</title>
       <link>https://rss.digg.com/internet-culture/link/danger-sausage-twitter-kids-comic</link>
       <description><![CDATA[“危险香肠”在网上流行的原因非常可爱。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/danger-sausage-twitter-kids-comic</guid>
@@ -95,13 +102,6 @@
       <description><![CDATA[研究每个美国人看起来都合适的复古镜头。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/nobody-used-to-be-fat-American-1970-video</guid>
       <pubDate>Fri, 17 May 2024 17:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们什么时候停止寻找新音乐？统计分析</title>
-      <link>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</link>
-      <description><![CDATA[我们的音乐品味什么时候会停滞不前？]]></description>
-      <guid>https://rss.digg.com/stat-significant/link/when-do-we-stop-finding-new-music-analysis</guid>
-      <pubDate>Wed, 15 May 2024 19:10:34 GMT</pubDate>
     </item>
     <item>
       <title>播放“翻转”</title>
