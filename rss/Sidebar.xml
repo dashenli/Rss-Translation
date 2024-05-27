@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 27 May 2024 03:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:22:01 GMT</lastBuildDate>
+    <item>
+      <title>“Act On Press”——约翰·卡马克 (John Carmack) 的热门 UI</title>
+      <link>https://www.youtube.com/watch?v=yaMGtiPckAQ</link>
+      <description><![CDATA[约翰·卡马克的这条推文让我思考。就像，真的在思考。 onMouseDown 可能是我将来的首选。
+]]></description>
+      <guid>https://www.youtube.com/watch?v=yaMGtiPckAQ</guid>
+      <pubDate>Mon, 27 May 2024 05:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们现在有了容器查询，但我们真的在使用它们吗？</title>
+      <link>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</link>
+      <description><![CDATA[CSS 开发人员实现了终极梦想：容器查询。但现在他们已经来了，我们真的能接触到他们吗？
+]]></description>
+      <guid>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</guid>
+      <pubDate>Mon, 27 May 2024 05:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新思考在 Web 上调整文本大小</title>
+      <link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
+      <description><![CDATA[Airbnb 在改善需要更大文本尺寸的房东和客人的网络可访问性方面取得了重大进展。
+]]></description>
+      <guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
+      <pubDate>Mon, 27 May 2024 05:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>隆重推出 Spotify Mix，我们的全新独家字体</title>
+      <link>https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/</link>
+      <description><![CDATA[我们正在推出新的定制字体：Spotify Mix。
+]]></description>
+      <guid>https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/</guid>
+      <pubDate>Mon, 27 May 2024 05:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统组件的可供性</title>
+      <link>https://www.voorhoede.nl/en/blog/affordance-design-system-components/</link>
+      <description><![CDATA[通过使用可供性原则，设计系统变得更易于使用且更加灵活，使开发人员可以更轻松地构建 Web 应用程序。 
+]]></description>
+      <guid>https://www.voorhoede.nl/en/blog/affordance-design-system-components/</guid>
+      <pubDate>Mon, 27 May 2024 05:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>超越盒子</title>
       <link>https://humanparts.medium.com/beyond-boxes-24858bc409aa</link>
@@ -16,7 +56,7 @@
     <item>
       <title>用几行 CSS 实现 Popover 元素进入和退出动画</title>
       <link>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</link>
-      <description><![CDATA[为元素创建进入和退出动画一直是一件繁琐的事情。
+      <description><![CDATA[为元素创建进入和退出动画一直很乏味。 
 ]]></description>
       <guid>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</guid>
       <pubDate>Fri, 24 May 2024 05:50:32 GMT</pubDate>
@@ -70,7 +110,7 @@
       <pubDate>Thu, 23 May 2024 06:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>介绍 Pigment CSS：下一代 CSS-in-JS</title>
+      <title>Pigment CSS 简介：下一代 CSS-in-JS</title>
       <link>https://mui.com/blog/introducing-pigment-css/</link>
       <description><![CDATA[Pigment CSS 提供了显着的性能提升以及 RSC 和 App Router 支持。
 ]]></description>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://reactstyle.vercel.app/</guid>
       <pubDate>Thu, 23 May 2024 06:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>各个国家最容易被误读的品牌</title>
-      <link>https://businessfinancing.co.uk/most-mispronounced-brands/</link>
-      <description><![CDATA[两家法国公司拥有世界上两个发音最错误的品牌名称：金融家法国兴业银行和汽车公司标致。 
-]]></description>
-      <guid>https://businessfinancing.co.uk/most-mispronounced-brands/</guid>
-      <pubDate>Wed, 22 May 2024 03:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cally：小型、功能丰富的日历组件</title>
-      <link>https://wicky.nillia.ms/cally/</link>
-      <description><![CDATA[用于选择单个日期或日期范围的开源日历组件。与框架无关、可主题化、可本地化、可访问。
-]]></description>
-      <guid>https://wicky.nillia.ms/cally/</guid>
-      <pubDate>Wed, 22 May 2024 03:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVG 查看器</title>
-      <link>https://www.svgviewer.dev/</link>
-      <description><![CDATA[SVG Viewer 是一个用于查看、编辑和优化 SVG 的在线工具。
-]]></description>
-      <guid>https://www.svgviewer.dev/</guid>
-      <pubDate>Wed, 22 May 2024 03:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>精选字体，让您的网页设计永不过时</title>
-      <link>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</link>
-      <description><![CDATA[一小部分字体，非常适合让您的网页设计保持永恒和前瞻性。
-]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/</guid>
-      <pubDate>Wed, 22 May 2024 03:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否使用正确的键盘进行设计？</title>
-      <link>https://uxdesign.cc/are-you-designing-with-the-right-keyboard-ab2f02df42b6</link>
-      <description><![CDATA[iOS 和 Android 键盘指南。
-]]></description>
-      <guid>https://uxdesign.cc/are-you-designing-with-the-right-keyboard-ab2f02df42b6</guid>
-      <pubDate>Wed, 22 May 2024 02:51:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
