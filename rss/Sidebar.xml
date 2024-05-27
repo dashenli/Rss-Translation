@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 27 May 2024 18:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 21:16:09 GMT</lastBuildDate>
     <item>
       <title>“按新闻行事”——John Carmack 对 UI 的热门看法</title>
       <link>https://www.youtube.com/watch?v=yaMGtiPckAQ</link>
@@ -14,7 +14,7 @@
       <pubDate>Mon, 27 May 2024 05:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>我们现在有了容器查询，但我们真的在使用它们吗？</title>
+      <title>我们现在有了容器查询，但是我们实际上在使用它们吗？</title>
       <link>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</link>
       <description><![CDATA[CSS 开发人员实现了终极梦想：容器查询。但现在他们已经来了，我们真的能接触到他们吗？
 ]]></description>
@@ -24,7 +24,7 @@
     <item>
       <title>重新思考在 Web 上调整文本大小</title>
       <link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
-      <description><![CDATA[Airbnb 在改善需要更大文本尺寸的房东和客人的网络可访问性方面取得了重大进展。
+      <description><![CDATA[Airbnb 在改善需要更大文本尺寸的房东和房客的网络可访问性方面取得了重大进展。
 ]]></description>
       <guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
       <pubDate>Mon, 27 May 2024 05:05:02 GMT</pubDate>
