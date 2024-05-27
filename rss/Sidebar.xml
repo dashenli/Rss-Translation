@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 27 May 2024 01:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 03:18:08 GMT</lastBuildDate>
     <item>
       <title>超越盒子</title>
       <link>https://humanparts.medium.com/beyond-boxes-24858bc409aa</link>
@@ -16,7 +16,7 @@
     <item>
       <title>用几行 CSS 实现 Popover 元素进入和退出动画</title>
       <link>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</link>
-      <description><![CDATA[为元素创建进入和退出动画一直很乏味。 
+      <description><![CDATA[为元素创建进入和退出动画一直是一件繁琐的事情。
 ]]></description>
       <guid>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</guid>
       <pubDate>Fri, 24 May 2024 05:50:32 GMT</pubDate>
@@ -64,13 +64,13 @@
     <item>
       <title>辉煌的品牌更新</title>
       <link>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</link>
-      <description><![CDATA[我们与 Koto 合作更新我们的品牌，以更好地迎合年轻专业人士的受众。
+      <description><![CDATA[我们与 Koto 合作更新我们的品牌，以更好地与年轻专业人士受众保持一致。
 ]]></description>
       <guid>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</guid>
       <pubDate>Thu, 23 May 2024 06:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>Pigment CSS 简介：下一代 CSS-in-JS</title>
+      <title>介绍 Pigment CSS：下一代 CSS-in-JS</title>
       <link>https://mui.com/blog/introducing-pigment-css/</link>
       <description><![CDATA[Pigment CSS 提供了显着的性能提升以及 RSC 和 App Router 支持。
 ]]></description>
