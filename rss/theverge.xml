@@ -1,157 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>边缘 - 所有帖子</title>
+    <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 28 May 2024 18:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 21:14:31 GMT</lastBuildDate>
+    <item>
+      <title>Telegram 推出应用内 Copilot 机器人</title>
+      <link>https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+Microsoft 添加了 消息应用程序 Telegram 中的官方 Copilot 机器人，它允许用户搜索、提问和与 AI 聊天机器人交谈。 
+Copilot for Telegram 目前处于测试阶段，但对于移动或桌面上的 Telegram 用户免费。人们可以像在消息应用程序上进行常规对话一样与 Copilot for Telegram 聊天。 Copilot for Telegram 是 Microsoft 的官方机器人（确保它是带有复选标记 和用户名 @CopilotOfficialBot 的机器人）。现在有几家 AI 公司允许您通过消息应用程序访问他们的 LLM。Meta 将 Meta AI 添加到其聊天应用程序中，包括 Messenger、WhatsApp 和 Instagram 消息传递，您可以在 Android 手机上的 Google Messages 中与 Gemini 聊天。 
+要访问 Copilot for Telegram，我首先必须搜索 Copilot Bot。然后它要求我与 Microsoft 分享我的 Telegram 电话号码，这感觉很奇怪，因为我以前专门使用 Telegram 与隐私狂热的加密货币创始人交谈，并且该应用程序以其其严格的隐私政策而自豪。 
+
+
+截图：The Verge
+Copilot for Telegram 手机版。
+
+Copilot for Telegram 与其他 Copilot 并无太大区别，但确实有一些限制。它仅限于文本请求，无法生成图像。它可以搜索互联网信息。微软在博客文章中表示，Copilot for Telegram 可以推荐电影观​​看、生成新的锻炼计划、帮助完成编码任务、翻译对话以及在互联网上快速查找事实。每天有 30 次回合限制，这意味着用户和 Copilot 只能进行 30 次来回交流。
+微软一直在扩展其 Copilots，将 AI 助手引入其许多产品中。有适用于商业应用程序的 Copilot、内置 Copilot 的 PC、适用于 Microsoft 365 的 Copilot，以及付费版本，每月只需 20 美元即可访问最新的 AI 模型。
+]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot</guid>
+      <pubDate>Tue, 28 May 2024 20:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌不会对潜在的大规模搜索泄漏事件发表评论</title>
+      <link>https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo</guid>
+      <pubDate>Tue, 28 May 2024 20:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软的“自动超级分辨率” DLSS 竞争对手并非高通独有</title>
+      <link>https://www.theverge.com/2024/5/28/24166413/microsoft-windows-auto-super-resolution-sr-qualcomm-npu-dlss-fsr</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166413/microsoft-windows-auto-super-resolution-sr-qualcomm-npu-dlss-fsr</guid>
+      <pubDate>Tue, 28 May 2024 19:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>PayPal 正在根据您的 Venmo 数据构建广告网络</title>
+      <link>https://www.theverge.com/2024/5/28/24166381/paypal-building-ad-network-transaction-data</link>
+      <description><![CDATA[
+
+图片：Hugo Herrera / The Verge
+
+PayPal 正在推出 基于大量客户交易数据构建的广告平台。据《华尔街日报》报道，该公司的新广告业务将涵盖 PayPal 及其姊妹应用 Venmo 的购买信息和客户消费习惯。
+PayPal 聘请了 Uber Advertising 前副总裁兼总经理 Mark Grether 来领导其广告业务。 “如果你在网上购买产品，我们知道谁在哪里购买产品，我们可以利用这些数据，”格雷瑟在给《华尔街日报》的一份声明中说。他还表示，PayPal 将接收在商店使用其信用卡的客户的购物数据。
+PayPal 发言人告诉《华尔街日报》，该公司将默认收集客户数据，同时还提供选择退出的功能。当被问及 PayPal 将收集哪些类型的数据时，发言人 Taylor Watson 告诉《The Verge》，该广告平台仍处于“早期阶段”，该公司还没有“明确的答案”。 “除了广告业务，PayPal 还将建立透明、易于使用的隐私控制，”沃森说。
+作为其最新收益报告的一部分，PayPal 透露，它在 2024 年第一季度处理了来自 4.27 亿客户的 650 万笔交易。PayPal 表示，新平台将帮助商家“有效地销售更多产品和服务”，同时向客户展示相关产品。今年早些时候，PayPal 展示了其高级优惠平台，该平台使用人工智能分析客户购买情况并帮助商家创建个性化优惠。 
+PayPal 远非唯一一家根据交易信息销售广告的公司。今年 1 月，《消费者报告》的一项研究显示，Facebook 从数千家不同的公司获取有关用户的信息，其中包括沃尔玛和亚马逊等零售商。 摩根大通 (JPMorgan Chase) 也宣布，正在创建一个基于客户支出数据的广告网络，而Visa 也在采取类似举措。当然，这还不包括跟踪购物应用记录你的线下购买行为。]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166381/paypal-building-ad-network-transaction-data</guid>
+      <pubDate>Tue, 28 May 2024 19:08:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款乐高 Apple Store 设计作品堪称完美</title>
+      <link>https://www.theverge.com/2024/5/28/24166361/lego-apple-store-build-idea-concept-legotruman-2a2a</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166361/lego-apple-store-build-idea-concept-legotruman-2a2a</guid>
+      <pubDate>Tue, 28 May 2024 18:38:03 GMT</pubDate>
+    </item>
     <item>
       <title>因安全问题辞职的 OpenAI 研究员加入 Anthropic</title>
       <link>https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research</link>
-      <description><![CDATA[&lt;图&gt;
-      
+      <description><![CDATA[
+
 插图：The Verge
 
-Jan Leike，OpenAI 重要研究员，本月早些时候以“安全问题”为由辞职，根据 Leike 的，已加入竞争对手 Anthropic“致力于可扩展的监督、从弱到强的泛化和自动对齐研究” =&quot;https://x.com/janleike/status/1795497960509448617&quot;&gt;在 X 上发布。
-Anthropic 将自己定位为 OpenAI 的对立面：一家致力于谨慎进步的公益公司。据《金融时报》报道，该公司由离职的前 OpenAI 员工创立， &gt;，因为他们相信 OpenAI 偏离了它的使命是开发更安全、更道德的人工智能，并在与微软 10 亿美元的交易后变得过于关注商业利益。对于那些关注人工智能电视剧的人来说，雷克加入 Anthropic 并不令人意外。
-“我们早就应该认真对待 AGI 的影响了。我们必须优先考虑尽可能地为他们做好准备，”雷克在关于他辞职的后续帖子中说道 几周前。 “只有这样，我们才能确保 AGI 造福全人类。”
+Jan Leike 是 OpenAI 的重要研究员，他早些时候辞职本月，以“安全问题”为由，与竞争对手 Anthropic 联手“开展可扩展监督、弱到强泛化和自动对齐研究”，根据 Leike 在 X 上发布的帖子。
+Anthropic 将自己定位为 OpenAI 的对立面：一家致力于谨慎进步的公益公司。据《金融时报》报道，该公司由前 OpenAI 员工创立，这些员工于 离职，因为他们 认为 OpenAI 偏离了其使命，即开发更安全、更符合道德的人工智能，并且在微软 10 亿美元交易后过于关注商业利益。对于那些关注人工智能大戏的人来说，Leike 加入 Anthropic 并不令人意外。
+“我们早就应该认真对待 AGI 的影响了。我们必须尽最大努力做好应对准备，”几周前，Leike 在关于他辞职的后续帖子中说道。“只有这样，我们才能确保 AGI 造福全人类。”
 
-Leike 之前曾在 OpenAI 的“Superalignment”团队工作，这似乎与他在 Anthropic 的角色相符，确保智能系统的设计符合人类价值观。雷克在宣布辞职后的帖子中批评 OpenAI 没有提供足够的计算资源来确保成功。
-就 Anthropic 而言，它采用“宪法人工智能”，通过收集公众意见并整合来自《联合国世界人权宣言》等来源的概念，将道德原则纳入人工智能模型的训练中，例如&lt; a href=&quot;https://fortune.com/2023/12/02/aws-investment-anthropic-cloud-generative-ai-nvidia-openai/&quot;&gt;我之前报告过。
-另一个值得注意的离开 OpenAI 的人是其联合创始人 Ilya Sutskever，他于本月初离职，并据报道，自 11 月领导针对首席执行官萨姆·奥尔特曼 (Sam Altman) 的政变失败以来，他就一直缺席。尽管 Sutskever 辞职并且尚未表明他的下一步行动，但他的价值观与 Anthropic 一致，这使其成为他与 Leike 一起的合理目的地。]]></description>
+
+Leike 之前曾在 OpenAI 的“Superalignment”团队工作，这似乎与他在 Anthropic 的角色一致，确保智能系统的设计符合人类价值观。在宣布辞职后的帖子中，Leike 批评 OpenAI 没有提供足够的计算资源来确保成功。就 Anthropic 而言，它采用了“宪法 AI”，通过收集公众意见并整合联合国《世界人权宣言》等来源的概念，将道德原则纳入 AI 模型的训练中，正如我之前报道过。
+OpenAI 的另一个引人注目的离职是其联合创始人 Ilya Sutskever，他于本月初离职，据报道自从去年 11 月领导一场针对首席执行官 Sam Altman 的失败政变以来，Sutskever 一直缺席办公室。尽管 Sutskever 已辞职，尚未表明下一步行动，但他的价值观与 Anthropic 一致，因此与 Leike 一样，Anthropic 也是他的理想去处。]]></description>
       <guid>https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research</guid>
       <pubDate>Tue, 28 May 2024 18:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 向所有用户推出新的可玩游戏</title>
+      <title>YouTube 向所有用户推出全新 Playables 游戏</title>
       <link>https://www.theverge.com/2024/5/28/24166363/youtube-games-playables-youtube-premium</link>
-      <description><![CDATA[&lt;图&gt;
-      
+      <description><![CDATA[
+
 图片：YouTube
 
-现在每个人都开始涉足游戏。 YouTube 加入了缓慢增长的游戏计划公司行列，在移动设备和桌面设备上推出 Playables 计划。要玩，只需访问 YouTube 网站或 Android / iOS 应用程序，然后在侧边栏中查找“Playables”即可。 YouTube 将允许玩家保存进度并跟踪高分。有超过 75 种游戏可供选择，包括国际象棋和填字游戏以及更流行的休闲手机游戏，例如《愤怒的小鸟对决！》、《Trivia Crack》和《割绳子》 。
-YouTube 去年开始进军游戏领域，向 YouTube Premium 订阅者提供试玩内容。最初阶段的游戏数量少得多，而且持续的时间也相对有限，该阶段于今年 3 月结束。
-提供一系列休闲游戏已成为科技公司吸引或留住用户的更流行的方式之一。 LinkedIn 最近推出了显然非常有趣的游戏产品。 纽约时报&lt; /em&gt;、赫斯特，甚至Netflix 已将所有添加的游戏作为其常规服务的一部分。甚至 YouTube 的母公司谷歌也在 2019 年通过 Google Stadia 云游戏订阅服务尝试涉足游戏领域。三年多后，Google 关闭Stadia 将于 2023 年关闭。
+现在每个人都在玩游戏。 YouTube 加入了拥有游戏计划的缓慢增长的公司名单，在移动设备和桌面上推出其 Playables 计划。要玩游戏，只需访问 YouTube 的网站或 Android / iOS 应用，然后在侧边栏中查找 Playables。YouTube 将允许玩家保存他们的进度并跟踪高分。有超过 75 款游戏可供选择，包括国际象棋和填字游戏，以及更受欢迎的休闲手机游戏，如Angry Birds Showdown！、Trivia Crack 和 Cut the Rope。
+YouTube 去年开始进军游戏领域，向 YouTube Premium 订阅用户提供 Playables。初始阶段的游戏数量要少得多，而且只持续了相对有限的时间，该阶段于今年 3 月结束。
+提供一系列休闲游戏已成为科技公司吸引或留住订阅者的更受欢迎方式之一。LinkedIn 最近推出了一些游戏产品，似乎非常有趣。 《纽约时报》、赫斯特，甚至 Netflix 都将游戏添加为其常规服务的一部分。甚至 YouTube 的母公司谷歌也在 2019 年尝试了游戏，推出了 Google Stadia 云游戏订阅服务。三年多一点的时间后，谷歌于 2023 年关闭了 Stadia。
 
 ]]></description>
       <guid>https://www.theverge.com/2024/5/28/24166363/youtube-games-playables-youtube-premium</guid>
       <pubDate>Tue, 28 May 2024 18:01:23 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Epic 对苹果的诉讼不肯罢休</title>
+      <title>为什么 Epic 对苹果的诉讼不会停止</title>
       <link>https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments</guid>
       <pubDate>Tue, 28 May 2024 17:33:01 GMT</pubDate>
     </item>
     <item>
-      <title>您仍然可以获得阵亡将士纪念日的最佳优惠</title>
+      <title>您仍然可以获得的最佳阵亡将士纪念日优惠</title>
       <link>https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics</guid>
       <pubDate>Tue, 28 May 2024 16:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>Opera 将 Google 的 Gemini 添加到其浏览器中</title>
+      <title>Opera 将 Google Gemini 添加到其浏览器中</title>
       <link>https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai</link>
-      <description><![CDATA[&lt;图&gt;
-      
-插图由 Alex Castro / The Verge 绘制
-
-Opera 浏览器用户可以获得更多最新信息和更多对话式响应将 Google 的 Gemini AI 模型集成到其现有的 Aria AI 扩展中。 
-Aria，去年发布，就像人工智能助手一样，回答用户的查询、编写代码和执行其他任务。 Opera 表示，Aria 并不依赖一种 AI 模型来响应用户，而是选择它认为最适合特定任务的 AI 模型。通过这种新的集成，Aria 可以利用 Gemini，该公司称 Gemini 为 Opera 用户提供“高性能的最新信息”。 
-Aria 可在所有 Opera 浏览器上使用，包括其游戏浏览器 Opera GX。 
-Gemini 系列大型语言模型&lt; /a&gt; 由多个不同大小和功能的模型组成。 Gemini Nano 是最小的，主要面向手机等设备。 Gemini Pro 1.5 和 Gemini Pro 1.5 闪存 属于中等尺寸，Gemini Ultra 是 Google 最强大的型号。 Gemini Pro 和 Gemini Ultra 为 Gemini 聊天机器人提供支持。 
-
-通过新的集成，Opera 用户可以听到 Aria “以对话式的方式”大声朗读其响应。 Google 的文本转音频 AI 模型以类似于 ChatGPT 的朗读功能，从聊天机器人读取结果。 （曾经有语音 Sky，OpenAI 最近推出了&lt; /a&gt;.) 
-这并不是 Opera 第一次与 Google 的 AI 模型合作。 Aria 四月份使用 Google 的 Imagen 2 添加了图像生成功能模型，它允许用户直接从 Opera 浏览器生成图片。]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai</guid>
-      <pubDate>Tue, 28 May 2024 16:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>保时捷首款混合动力 911“深度”集成了 CarPlay，但不是下一代类型</title>
-      <link>https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay</link>
-      <description><![CDATA[&lt;图&gt;
-      
-图片：保时捷
-
-保时捷宣布推出 2025 款保时捷 911 Carrera GTS，这是其首款混合动力电动车型，据称这款车可以在 2.9 秒内从零加速到 60 英里/小时，最高时速可达 194 英里/小时。 
-仪表板中还采用了一些新技术，包括 12.6 英寸曲面显示屏上的全数字仪表组，现在可以显示来自 CarPlay 的信息，据称 CarPlay 已“更深入地集成到车辆中”。 ” 
-但保时捷的“全数字驾驶舱”似乎并不是苹果的下一代无线 CarPlay 于 2022 年宣布，保时捷和阿斯顿·马丁最近表示将首先来到他们的汽车。保时捷发言人 Frank Weissman 通过电子邮件告诉 The Verge，“这与我们在最新的 Cayenne、Panamera 和电动 Macan 车型上推出的设置类似”。 
-
-
-图片：保时捷
-仪表板有更多的 CarPlay，但也没有那么多。
-
-在这些车辆中，CarPlay 在数字仪表盘中显示信息，但它的嵌入程度不足以控制里程表或 HVAC 等核心功能。韦斯曼还确认该车将提供 Android Auto 连接功能。 
-
-
-图片：保时捷
-911 Carrera GTS 是一款混合动力车，但它并不是您想象的那样。
-
-除了仪表盘屏幕外，仪表板中央还有一个 10.9 英寸显示屏，驾驶员可以在其中自定义驾驶模式并调整驾驶员辅助功能。该公司表示，Spotify 和 Apple Music 等应用程序是保时捷通讯管理信息娱乐系统的原生应用。视频流也可用（当汽车停放时）。
-
-新款 911 并不是大多数人通常认为的混合动力车。它配备了 1.9kWh 的锂离子电池，保时捷称其尺寸和重量与典型的 12 伏汽车电池相当。它由“新开发的 3.6 升水平对置发动机”提供动力，用于为新型电动涡轮增压器和汽车空调压缩机等设备提供动力。这可能意味着一些燃油效率的提高，但该公司没有提供任何此类声明，正如汽车和驾驶员在其公司 T-Hybrid 平台的文章。
-保时捷 911 Carrera GTS 的后轮和全轮驱动 Coupe 和 Cabriolet 版本现已可供订购，起价 164,900 美元。]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay</guid>
-      <pubDate>Tue, 28 May 2024 16:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 10 代 iPad 首次跌破 300 美元</title>
-      <link>https://www.theverge.com/2024/5/28/24166180/amazon-apple-ipad-samsung-galaxy-buds-2-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166180/amazon-apple-ipad-samsung-galaxy-buds-2-deal-sale</guid>
-      <pubDate>Tue, 28 May 2024 16:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果想知道你是否因为耳鸣而听到声音</title>
-      <link>https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data</link>
       <description><![CDATA[
 
-图片：The Verge
+插图由 Alex Castro / The Verge 提供
 
-根据一项由苹果公司赞助的研究，参与该研究的人中，超过 77% 的人在人生的某个阶段都经历过耳鸣，初步数据。约有 15% 的人表示，他们每天都受到耳鸣的影响，听到别人听不到的铃声或其他声音。
-在一项同类调查中，密歇根大学的研究人员收集了自 2019 年以来超过 16 万名参与者的数据，这些参与者回答了调查问题并在 Apple 的研究应用程序上完成了听力评估。目标是研究通过耳机接触声音的影响，耳鸣如何影响人们，并可能开发出控制症状的新方法。 
-“我们通过 Apple 听力研究了解到人们耳鸣经历的趋势可以帮助我们更好地了解风险最高的群体，进而有助于指导减少与之相关影响的努力，”密歇根大学环境健康科学教授 Rick Neitzel 在一份新闻稿中表示。
-“我们通过 Apple 听力研究了解到人们耳鸣经历的趋势可以帮助我们更好地了解风险最高的群体”
-耳鸣是一个普遍存在的问题，会影响日常生活。相比之下，根据美国国家耳聋和其他交流障碍研究所 (NIDCD) 的估计，美国约有 10% 的成年人患有某种形式的耳鸣。
-但是，人们患耳鸣的方式（可能由接触巨大噪音引起）可能会随着人们使用的设备而改变。耳鸣过去更多地与工作中接触大量噪音的工人有关。在过去十年中，戴着耳机听音乐、参加音乐会或体育赛事以及其他“娱乐性”噪音接触已成为研究人员更大的担忧。先前的研究表明，对于居住在城市地区的人来说，听音乐可能是噪音暴露的最大来源。苹果的 iPod、智能手机和耳机无疑在这一趋势中发挥了一定作用。
-不出所料，“噪音创伤”——苹果称之为“暴露于过高的噪音水平”——是新研究中发现的耳鸣参与者的主要原因。在苹果支持的研究中，大约 10% 的人表示耳鸣影响了他们清晰地听到声音的能力。研究人员还发现，耳鸣发作的持续时间“显著增加”随着年龄的增长。近 36% 的 55 岁或以上参与者会经历持续性耳鸣，而所有成年人中这一比例为 14.7%。为了应对这种情况，超过一半的参与者求助于噪音机或自然声音来控制耳鸣。
-密歇根大学在其网站上表示，这项研究可以“帮助开发新产品，以优化您的听力体验并降低听力损失的可能性”。苹果公司将其设备的一些功能宣传为“苹果产品可以提供帮助”的方式，例如使用 Apple Watch 上的噪音应用程序，当周围的噪音达到可能存在风险的水平时，您会收到通知。
-这项听力研究是通过 Apple Research 应用程序运行的三个正在进行的项目之一（另外两个与心脏健康和月经周期有关）。听力研究的参与者必须是居住在美国的成年人。他们不需要使用 Apple 耳机即可参与研究，除了针对 AirPods Max、AirPods Pro、AirPods 或 EarPods 校准的某些音调和耳鸣练习。
+Opera 浏览器用户可以获得更多最新信息和更多对话响应，因为它将 Google 的 Gemini AI 模型集成到其现有的 Aria AI 扩展中。 
+Aria，去年发布，就像一个 AI 助手，可以回答用户查询、编写代码和执行其他任务。据 Opera 称，Aria 不依赖一种 AI 模型来响应用户，而是选择它认为最适合特定任务的 AI 模型。通过这种新的集成，Aria 可以利用 Gemini，该公司表示，Gemini 为 Opera 用户“提供高性能的最新信息”。 
+Aria 可在所有 Opera 浏览器上使用，包括其游戏浏览器 Opera GX。 
+Gemini 大型语言模型系列 Gemini 系列由多个大小和功能各异的模型组成。Gemini Nano 是最小的，主要面向手机等设备。Gemini Pro 1.5 和 Gemini Pro 1.5 Flash 尺寸中等，而 Gemini Ultra 是 Google 功能最强大的型号。Gemini Pro 和 Gemini Ultra 为 Gemini 聊天机器人提供动力。 
 
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data</guid>
-      <pubDate>Tue, 28 May 2024 15:17:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐高首个《塞尔达传说》套装是由 2,500 块积木组成的大德库树</title>
-      <link>https://www.theverge.com/2024/5/28/24166162/lego-legend-of-zelda-set-preorder-great-deku-tree</link>
-      <description><![CDATA[&lt;图&gt;
-      
-乐高大德库树套装。 |图片：乐高
-
-谣言是真的：乐高终于制作了塞尔达传说套装。大德库树二合一包括 2,500 块部件，现已接受预订，售价 299.99 美元，将于 9 月开始发货。&lt; /p&gt;
-
-该套装涵盖两款不同的塞尔达游戏：时之笛和荒野之息，让您构建夏季绿叶或春季粉色樱花的大德库树。它具有多个版本的林克，包括身着时之笛的绿色时之英雄外套的林克作为儿童和成人，以及身着荒野之息的蓝色的林克冠军外衣。
-根据乐高的说法，Great Deku Tree 套装将具有互动功能，包括为树的面部表情设置动画的能力。该套装还包括骷髅头、koroks、挥舞着他标志性沙球的 Hestu、仙女和塞尔达公主本人。
-
-
-打造传奇。 #LEGO #TheLegendofZelda pic.twitter.com/uKGa0iQoKF—乐高 (@LEGO_Group) 2024 年 5 月 28 日
-
-
-包括《动物森友会》、《马里奥》和《大金刚》在内的几款任天堂作品近年来都获得了乐高的待遇。需求一直被压抑：乐高多年来一直拒绝粉丝提交的《塞尔达传说》主题套装创意，甚至于 2022 年彻底禁止《塞尔达传说》提交。 “许可冲突”。然而，关于官方塞尔达乐高套装的传言去年 2 月开始出现。]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166162/lego-legend-of-zelda-set-preorder-great-deku-tree</guid>
-      <pubDate>Tue, 28 May 2024 14:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chromebook Plus 笔记本电脑将配备 Google Gemini</title>
-      <link>https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp</guid>
-      <pubDate>Tue, 28 May 2024 14:18:39 GMT</pubDate>
+通过新的集成，Opera 用户可以听到 Aria 以“类似对话的方式”大声朗读其回复。Google 的文本转音频 AI 模型以类似于 ChatGPT 的朗读功能的方式为 Aria 的朗读功能提供支持，该功能可读取聊天机器人的结果。 （其中曾经出现过 语音天空，OpenAI 最近将其撤下。）
+这不是 Opera 第一次与谷歌的人工智能模型合作。Aria 在 4 月份使用谷歌的 Imagen 2 模型添加了图像生成功能，该模型可让用户直接从 Opera 浏览器生成图片。]]></description>
+      <guid>https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai</guid>
+      <pubDate>Tue, 28 May 2024 16:40:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

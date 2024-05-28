@@ -3,12 +3,12 @@
   <channel>
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
-    <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 28 May 2024 18:21:12 GMT</lastBuildDate>
+    <description>每个工作日提供五个最佳设计链接。</description>
+    <lastBuildDate>Tue, 28 May 2024 21:16:53 GMT</lastBuildDate>
     <item>
       <title>使用 HTML 的最新控件进行切换</title>
       <link>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</link>
-      <description><![CDATA[HTML 可能会通过向复选框输入添加 switch 属性来获得一种本机方法。
+      <description><![CDATA[HTML 可能通过向复选框输入添加 switch 属性来获得一种原生方法。
 ]]></description>
       <guid>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</guid>
       <pubDate>Tue, 28 May 2024 11:53:33 GMT</pubDate>
@@ -16,55 +16,55 @@
     <item>
       <title>2025 年世界运动会徽标</title>
       <link>https://www.logodesignlove.com/the-world-games-2025-logo</link>
-      <description><![CDATA[2025年世界运动会标志是由约翰·菲尔利在成都体育赛事国际标志大赛后设计的。
+      <description><![CDATA[2025 年世界运动会会徽由约翰·费尔利 (John Fairley) 在成都体育赛事国际会徽竞赛后设计。
 ]]></description>
       <guid>https://www.logodesignlove.com/the-world-games-2025-logo</guid>
       <pubDate>Tue, 28 May 2024 05:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>现在所有浏览器都支持屏幕唤醒锁定 API</title>
+      <title>所有浏览器均支持屏幕唤醒锁定 API</title>
       <link>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</link>
-      <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主要浏览器 - Chrome、Safari 和 Firefox。
+      <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主流浏览器 - Chrome、Safari 和 Firefox。
 ]]></description>
       <guid>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</guid>
       <pubDate>Tue, 28 May 2024 05:53:55 GMT</pubDate>
     </item>
     <item>
-      <title>老狗，新 CSS 技巧</title>
+      <title>老方法，新 CSS 技巧</title>
       <link>https://mxb.dev/blog/old-dogs-new-css-tricks/</link>
-      <description><![CDATA[过去几年推出了许多新的 CSS 功能，但实际使用率仍然很低。 
+      <description><![CDATA[最近几年 CSS 功能不断涌现，但实际使用率仍然很低。
 ]]></description>
       <guid>https://mxb.dev/blog/old-dogs-new-css-tricks/</guid>
       <pubDate>Tue, 28 May 2024 05:48:36 GMT</pubDate>
     </item>
     <item>
-      <title>以下是我们从第一个 HTML 现状调查中了解到的内容</title>
+      <title>以下是我们从第一次 HTML 调查中了解到的信息</title>
       <link>https://frontendmasters.com/blog/state-of-html-2023-results-2/</link>
-      <description><![CDATA[主要发现包括数据列表功能的流行以及对表单元素的不满，尤其是样式问题。
+      <description><![CDATA[主要发现包括数据列表功能的流行度以及对表单元素的不满，尤其是样式问题。
 ]]></description>
       <guid>https://frontendmasters.com/blog/state-of-html-2023-results-2/</guid>
       <pubDate>Tue, 28 May 2024 05:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>“按新闻行动”——John Carmack 对 UI 的热门看法</title>
+      <title>“Act On Press”——John Carmack 对 UI 的热门看法</title>
       <link>https://www.youtube.com/watch?v=yaMGtiPckAQ</link>
-      <description><![CDATA[约翰·卡马克的这条推文让我思考。就像，真的在思考。 onMouseDown 可能是我将来的首选。
+      <description><![CDATA[约翰·卡马克的这条推文让我陷入思考。真的在思考。onMouseDown 可能就是我未来的首选。
 ]]></description>
       <guid>https://www.youtube.com/watch?v=yaMGtiPckAQ</guid>
       <pubDate>Mon, 27 May 2024 05:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>我们现在有了容器查询，但我们真的在使用它们吗？</title>
+      <title>我们现在有了容器查询，但是我们实际上在使用它们吗？</title>
       <link>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</link>
-      <description><![CDATA[CSS 开发人员实现了终极梦想：容器查询。但现在他们已经来了，我们真的能接触到他们吗？
+      <description><![CDATA[CSS 开发人员实现了终极梦想：容器查询。但既然它们已经存在，我们真的能实现它们吗？
 ]]></description>
       <guid>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</guid>
       <pubDate>Mon, 27 May 2024 05:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>重新思考在 Web 上调整文本大小</title>
+      <title>重新思考 Web 上的文本大小调整</title>
       <link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
-      <description><![CDATA[Airbnb 在改善需要更大文本尺寸的房东和房客的网络可访问性方面取得了重大进展。
+      <description><![CDATA[Airbnb 在改善需要更大文本尺寸的房东和客人的网络可访问性方面取得了重大进展。
 ]]></description>
       <guid>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
       <pubDate>Mon, 27 May 2024 05:05:02 GMT</pubDate>
@@ -72,15 +72,15 @@
     <item>
       <title>推出我们的全新独家字体 Spotify Mix</title>
       <link>https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/</link>
-      <description><![CDATA[我们正在推出新的定制字体：Spotify Mix。
+      <description><![CDATA[我们推出了新的定制字体：Spotify Mix。
 ]]></description>
       <guid>https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/</guid>
       <pubDate>Mon, 27 May 2024 05:03:11 GMT</pubDate>
     </item>
     <item>
-      <title>设计系统组件的可供性</title>
+      <title>设计系统组件中的可供性</title>
       <link>https://www.voorhoede.nl/en/blog/affordance-design-system-components/</link>
-      <description><![CDATA[通过使用可供性原则，设计系统变得更易于使用且更加灵活，使开发人员可以更轻松地构建 Web 应用程序。 
+      <description><![CDATA[通过使用可供性原则，设计系统变得更易于使用、更灵活，使开发人员可以更轻松地构建 Web 应用程序。
 ]]></description>
       <guid>https://www.voorhoede.nl/en/blog/affordance-design-system-components/</guid>
       <pubDate>Mon, 27 May 2024 05:01:10 GMT</pubDate>
@@ -94,15 +94,15 @@
       <pubDate>Fri, 24 May 2024 05:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>用几行 CSS 实现 Popover 元素进入和退出动画</title>
+      <title>只需几行 CSS 即可实现 Popover 元素的进入和退出动画</title>
       <link>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</link>
-      <description><![CDATA[为元素创建进入和退出动画一直很乏味。 
+      <description><![CDATA[为元素创建进入和退出动画一直是一件繁琐的事情。
 ]]></description>
       <guid>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</guid>
       <pubDate>Fri, 24 May 2024 05:50:32 GMT</pubDate>
     </item>
     <item>
-      <title>针点</title>
+      <title>精确定位</title>
       <link>https://informationisbeautiful.net/visualizations/most-common-pin-codes/</link>
       <description><![CDATA[最常见的 4 位 PIN 码的数据可视化。
 ]]></description>
@@ -112,13 +112,13 @@
     <item>
       <title>排队——排队策略的交互式研究</title>
       <link>https://encore.dev/blog/queueing</link>
-      <description><![CDATA[在本博客中，我们将进行一次互动之旅，以了解处理 HTTP 请求的常见排队策略。
+      <description><![CDATA[在此博客中，我们将进行一次互动之旅，以了解处理 HTTP 请求的常见排队策略。
 ]]></description>
       <guid>https://encore.dev/blog/queueing</guid>
       <pubDate>Fri, 24 May 2024 05:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>SolidStart：细粒度反应性走向全栈</title>
+      <title>SolidStart：细粒度反应性全面普及</title>
       <link>https://start.solidjs.com/</link>
       <description><![CDATA[SolidStart 是一个 JavaScript 框架，旨在构建 SolidJS 应用程序并将其部署到各种提供商。
 ]]></description>

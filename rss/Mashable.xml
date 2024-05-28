@@ -1,59 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>可混搭</title>
+    <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
-    <description>Mashable 是面向互联一代的新闻、信息和资源的领先来源。关于数字化重要性的 Mashable 报告
-创新以及它如何赋予和激励世界各地的人们。 Mashable 每月有 2500 万独立访客和 1000 万社交用户
-媒体追随者已成为参与度最高的在线新闻社区之一。 Mashable 成立于 2005 年，总部位于纽约
-在旧金山设有办事处。</description>
-    <lastBuildDate>Tue, 28 May 2024 17:18:01 GMT</lastBuildDate>
+    <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
+    <lastBuildDate>Tue, 28 May 2024 19:48:30 GMT</lastBuildDate>
     <item>
-      <title>在阵亡将士纪念日促销期间以 29.97 美元的价格购买这款 BentoStack 技术配件收纳盒</title>
+      <title>iOS 18：据报道，AI 生成的自定义表情符号即将登陆 iPhone</title>
+      <link>https://mashable.com/article/apple-iphone-ios-18-ai-generated-emojis</link>
+      <description><![CDATA[iPhone 用户很快就能利用苹果 iOS 18 的一项新功能来创建自己的 AI 表情符号。]]></description>
+      <guid>https://mashable.com/article/apple-iphone-ios-18-ai-generated-emojis</guid>
+      <pubDate>Tue, 28 May 2024 18:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的电话号码是多少？</title>
+      <link>https://mashable.com/article/what-is-my-phone-number</link>
+      <description><![CDATA[您是否突然忘记了自己的电话号码？幸运的是，您的手机可以帮到您。]]></description>
+      <guid>https://mashable.com/article/what-is-my-phone-number</guid>
+      <pubDate>Tue, 28 May 2024 18:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用这款儿童 3D 打印机按需打印玩具，价格不到 350 美元</title>
+      <link>https://mashable.com/deals/may-28-toybox-printer</link>
+      <description><![CDATA[购买 Toybox 3D 打印机豪华套装可节省 90 美元，内含八种打印机食用颜色]]></description>
+      <guid>https://mashable.com/deals/may-28-toybox-printer</guid>
+      <pubDate>Tue, 28 May 2024 17:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要错过阵亡将士纪念日的 Ninja Dragon Blade K 4K 无人机特惠，仅售 69.97 美元</title>
+      <link>https://mashable.com/deals/may-28-ninja-dragon</link>
+      <description><![CDATA[截至 5 月 31 日，购买 Ninja Dragon Blade K 4K 无人机可节省 100 美元。]]></description>
+      <guid>https://mashable.com/deals/may-28-ninja-dragon</guid>
+      <pubDate>Tue, 28 May 2024 17:36:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>以 300 美元的价格购买 A 级翻新 MacBook Air</title>
+      <link>https://mashable.com/deals/may-28-macbook-air-refurbished</link>
+      <description><![CDATA[截至 5 月 31 日阵亡将士纪念日，您可以以 299.97 美元（原价 599 美元）的价格购买一台 A 级翻新 Apple MacBook Air。]]></description>
+      <guid>https://mashable.com/deals/may-28-macbook-air-refurbished</guid>
+      <pubDate>Tue, 28 May 2024 17:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>在阵亡将士纪念日促销期间，这款 BentoStack 技术配件收纳盒售价 29.97 美元</title>
       <link>https://mashable.com/deals/may-28-bentostack</link>
-      <description><![CDATA[这款 BentoStack 技术配件收纳盒可享优惠，截至 5 月 31 日特价为 29.97 美元。]]></description>
+      <description><![CDATA[这款 BentoStack 科技配件整理器优惠价为 29.97 美元，截止 5 月 31 日。]]></description>
       <guid>https://mashable.com/deals/may-28-bentostack</guid>
       <pubDate>Tue, 28 May 2024 17:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 视频疯传，长达 4 小时的作品痛斥迪士尼星球大战酒店</title>
+      <title>YouTube 视频在长达 4 小时的报道中猛烈抨击迪士尼的星球大战酒店</title>
       <link>https://mashable.com/article/star-wars-hotel-viral-video-youtube</link>
-      <description><![CDATA[迪士尼银河星际巡洋舰酒店已经关闭。但 YouTuber 珍妮·尼克尔森 (Jenny Nicholson) 的一段病毒视频却因各种错误的原因又重新出现在新闻中。]]></description>
+      <description><![CDATA[迪士尼的银河星际巡洋舰酒店已经关闭。但 YouTuber Jenny Nicholson 的一段热门视频却让这家酒店因种种错误原因再次成为新闻热点。]]></description>
       <guid>https://mashable.com/article/star-wars-hotel-viral-video-youtube</guid>
       <pubDate>Tue, 28 May 2024 17:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 现在可以“读取”手机照片中的文本 - 如何使用新功能</title>
+      <title>Windows 11 现在可以“读取”手机照片中的文字——如何使用新功能</title>
       <link>https://mashable.com/article/windows-11-phone-link-copy-text</link>
-      <description><![CDATA[使用 Windows PC 的用户很快就可以复制和粘贴手机拍摄的照片中的文本。]]></description>
+      <description><![CDATA[使用 Windows PC 的用户很快就能从手机拍摄的照片中复制和粘贴文本。]]></description>
       <guid>https://mashable.com/article/windows-11-phone-link-copy-text</guid>
       <pubDate>Tue, 28 May 2024 16:55:56 GMT</pubDate>
     </item>
     <item>
-      <title>阵亡将士纪念日笔记本电脑优惠仍然有效，最高可享受 1,600 美元的折扣</title>
+      <title>阵亡将士纪念日笔记本电脑优惠仍在进行中，最高可优惠 1,600 美元</title>
       <link>https://mashable.com/article/memorial-day-laptop-deals-2024</link>
-      <description><![CDATA[截至 5 月 28 日，您仍然可以获得 HP、Lenovo 等品牌的阵亡将士纪念日笔记本电脑大优惠。]]></description>
+      <description><![CDATA[截至 5 月 28 日，您仍然可以获得 HP、联想等品牌的阵亡将士纪念日笔记本电脑的大量优惠。]]></description>
       <guid>https://mashable.com/article/memorial-day-laptop-deals-2024</guid>
       <pubDate>Tue, 28 May 2024 16:38:04 GMT</pubDate>
     </item>
     <item>
-      <title>Apple iPad（第 10 代）目前在亚马逊的售价低于 300 美元，这是我们见过的最低价格</title>
+      <title>苹果 iPad（第 10 代）目前在亚马逊上的售价不到 300 美元，这是我们见过的最低价</title>
       <link>https://mashable.com/article/may-28-apple-ipad-deal</link>
-      <description><![CDATA[Apple iPad（第 10 代）在 Amazon 上仅售 299.99 美元。这是 14% 的折扣。]]></description>
+      <description><![CDATA[Apple iPad（第 10 代）在亚马逊上仅售 299.99 美元。折扣 14%。]]></description>
       <guid>https://mashable.com/article/may-28-apple-ipad-deal</guid>
       <pubDate>Tue, 28 May 2024 16:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>阵亡将士纪念日促销期间，30 多种最佳户外购物优惠仍在继续</title>
+      <title>阵亡将士纪念日大促销期间，30 多种最佳户外用品值得购买</title>
       <link>https://mashable.com/article/memorial-day-outdoor-deals-2024</link>
-      <description><![CDATA[截至 5 月 28 日，亚马逊、REI 和 Solo Stove 等主要零售商仍在进行阵亡将士纪念日促销活动，以优惠价格购买户外装备。]]></description>
+      <description><![CDATA[阵亡将士纪念日大促销将于 5 月 28 日结束，亚马逊、REI 和 Solo Stove 等主要零售商的户外装备促销活动仍在进行中，您可以享受优惠。]]></description>
       <guid>https://mashable.com/article/memorial-day-outdoor-deals-2024</guid>
       <pubDate>Tue, 28 May 2024 16:36:09 GMT</pubDate>
     </item>
     <item>
-      <title>4 款最智能的 Roomba 以创纪录的低价格回归</title>
+      <title>4 款最智能的 Roomba 再次创下历史新低</title>
       <link>https://mashable.com/article/may-28-roomba-j-series-deals</link>
-      <description><![CDATA[将小型避障技术带回家，Roomba Combo j7+ 售价 699 美元，Combo j5+ 售价 449 美元等。]]></description>
+      <description><![CDATA[Roomba Combo j7+（售价 699 美元）、Combo j5+（售价 449 美元）等均将小型避障技术带回家。]]></description>
       <guid>https://mashable.com/article/may-28-roomba-j-series-deals</guid>
       <pubDate>Tue, 28 May 2024 16:11:18 GMT</pubDate>
     </item>
@@ -65,53 +97,18 @@
       <pubDate>Tue, 28 May 2024 15:44:01 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊阵亡将士纪念日最优惠耳机：AirPods、Beats、JBL 等仍在进行中</title>
+      <title>亚马逊阵亡将士纪念日最佳耳机特卖：AirPods、Beats、JBL 等仍在销售中</title>
       <link>https://mashable.com/deals/best-memorial-day-headphones-deals-amazon</link>
-      <description><![CDATA[截至 5 月 28 日，亚马逊的阵亡将士纪念日促销活动仍在继续，并且有很多耳机超值优惠。我们汇总了最好的产品，其中包括 Apple AirPods Max 立减 60 美元。]]></description>
+      <description><![CDATA[截至 5 月 28 日，亚马逊阵亡将士纪念日促销仍在进行中，耳机优惠多多。我们汇总了最优惠的耳机，包括 Apple AirPods Max 立减 60 美元。]]></description>
       <guid>https://mashable.com/deals/best-memorial-day-headphones-deals-amazon</guid>
       <pubDate>Tue, 28 May 2024 15:35:53 GMT</pubDate>
     </item>
     <item>
-      <title>赶快在亚马逊购买 Samsung Galaxy Buds 2，享受超过 50% 的折扣</title>
+      <title>赶紧在亚马逊以超过 50% 的折扣购买三星 Galaxy Buds 2</title>
       <link>https://mashable.com/article/may-28-samsung-galaxy-buds-deal</link>
-      <description><![CDATA[三星 Galaxy Buds 2 耳机在亚马逊的售价仅为 69.99 美元，低于正常价格 149.99 美元。这是 53% 的折扣。]]></description>
+      <description><![CDATA[三星 Galaxy Buds 2 耳机在亚马逊上的售价仅为 69.99 美元，低于正常价格 149.99 美元。折扣幅度高达 53%。]]></description>
       <guid>https://mashable.com/article/may-28-samsung-galaxy-buds-deal</guid>
       <pubDate>Tue, 28 May 2024 15:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊今日特惠：第 10 代 iPad 跌至历史新低 299.99 美元</title>
-      <link>https://mashable.com/article/amazon-deals-of-the-day-apple-ipad-10th-gen-may-28</link>
-      <description><![CDATA[5 月 28 日亚马逊当天最优惠的商品包括 Apple iPad、三星 Galaxy Buds 2、亚马逊 50 英寸 Fire TV 和亚马逊 Fire HD 10 平板电脑。]]></description>
-      <guid>https://mashable.com/article/amazon-deals-of-the-day-apple-ipad-10th-gen-may-28</guid>
-      <pubDate>Tue, 28 May 2024 15:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何取消孔雀</title>
-      <link>https://mashable.com/article/how-to-cancel-peacock</link>
-      <description><![CDATA[以下是取消《办公室》流媒体服务 Peacock 的分步指南。]]></description>
-      <guid>https://mashable.com/article/how-to-cancel-peacock</guid>
-      <pubDate>Tue, 28 May 2024 15:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>阵亡将士纪念日机器人吸尘器优惠仍在进行中——这些是最好的</title>
-      <link>https://mashable.com/article/memorial-day-robot-vacuum-deals-2024</link>
-      <description><![CDATA[截至 5 月 28 日，多家零售商仍在进行阵亡将士纪念日扫地机器人促销活动。查看我们的首选。]]></description>
-      <guid>https://mashable.com/article/memorial-day-robot-vacuum-deals-2024</guid>
-      <pubDate>Tue, 28 May 2024 14:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 推出 6 款全新 Chromebook，其中包括具有更多 AI 功能的全新 Chromebook Plus 笔记本电脑</title>
-      <link>https://mashable.com/article/new-chromebooks-chromebook-plus-laptops-2024</link>
-      <description><![CDATA[谷歌周二发布了六款新的 Chromebook 和 Chromebook Plus 笔记本电脑。以下是对每种不同型号的规格和功能的详细了解。]]></description>
-      <guid>https://mashable.com/article/new-chromebooks-chromebook-plus-laptops-2024</guid>
-      <pubDate>Tue, 28 May 2024 14:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊阵亡将士纪念日促销活动仍在进行中，包括科技、夏季用品、家居用品等商品的优惠</title>
-      <link>https://mashable.com/article/amazon-memorial-day-2024-deals</link>
-      <description><![CDATA[亚马逊阵亡将士纪念日促销，科技、电子产品等商品仍可享受高达 40% 的折扣]]></description>
-      <guid>https://mashable.com/article/amazon-memorial-day-2024-deals</guid>
-      <pubDate>Tue, 28 May 2024 14:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
