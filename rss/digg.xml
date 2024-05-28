@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>挖掘热门故事</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 现在互联网正在谈论什么</description>
-    <lastBuildDate>Tue, 28 May 2024 15:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 18:19:12 GMT</lastBuildDate>
+    <item>
+      <title>Mais Oui，伊登洛克角酒店开展“宫殿态度”培训</title>
+      <link>https://airmail.news/issues/2024-5-18/faultless-towers</link>
+      <description><![CDATA[每位员工都必须参加这项课程，旨在让那些高调的客人感觉自己像皇室贵族。航空邮件的记者了解到了内部情况。]]></description>
+      <guid>https://airmail.news/issues/2024-5-18/faultless-towers</guid>
+      <pubDate>Fri, 24 May 2024 14:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌搜索已死，人工智能是罪魁祸首</title>
+      <link>https://rss.digg.com/internet-culture/link/google-ai-search-memes-fails</link>
+      <description><![CDATA[由于不准确的人工智能垃圾和广告优先于实际搜索结果（和事实），在谷歌上查找东西现在是一种愚蠢且毫无意义的努力。]]></description>
+      <guid>https://rss.digg.com/internet-culture/link/google-ai-search-memes-fails</guid>
+      <pubDate>Fri, 24 May 2024 14:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲尔·哈特曼 (Phil Hartman) 在 1990 年的 SNL 节目中完美地将特朗普扮演为一个花心骗子</title>
+      <link>https://rss.digg.com/digg-vids/link/phil-hartman-donald-trump-snl-video</link>
+      <description><![CDATA[特朗普的缺陷即使在三十年前就已经非常明显，而菲尔·哈特曼的表现却为人们所铭记。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/phil-hartman-donald-trump-snl-video</guid>
+      <pubDate>Fri, 24 May 2024 13:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“命运之轮”参赛者的辛辣猜测让人大吃一惊</title>
+      <link>https://rss.digg.com/digg-vids/link/wheel-of-fortune-right-in-the-butt-video</link>
+      <description><![CDATA[帕特·萨贾克（Pat Sajak）泰然自若，一位参赛者简直不敢相信，观众们也很喜欢。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/wheel-of-fortune-right-in-the-butt-video</guid>
+      <pubDate>Fri, 24 May 2024 13:33:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>八种免费的好东西</title>
+      <link>https://rss.digg.com/internet-culture/link/best-free-things-ever-reddit</link>
+      <description><![CDATA[事实证明，“一分钱一分货”并不总是完全正确的。]]></description>
+      <guid>https://rss.digg.com/internet-culture/link/best-free-things-ever-reddit</guid>
+      <pubDate>Thu, 23 May 2024 17:30:50 GMT</pubDate>
+    </item>
     <item>
       <title>每个州最受欢迎的暑假目的地，已绘制</title>
       <link>https://rss.digg.com/data-viz/link/top-summertime-destinations-vacation-america-europe</link>
@@ -13,18 +48,11 @@
       <pubDate>Thu, 23 May 2024 17:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>用这个伸展动作彻底排便，最终释放肠道</title>
+      <title>使用此伸展运动进行大便，最终释放肠道</title>
       <link>https://rss.digg.com/digg-vids/link/stretch-help-constipation-ibs-video</link>
       <description><![CDATA[刺激排便，有助于缓解胃痛、IBS 并改善骨盆健康。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/stretch-help-constipation-ibs-video</guid>
       <pubDate>Thu, 23 May 2024 16:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒂姆·波顿期待已久的《Beetlejuice Beetlejuice》续集发布新预告片</title>
-      <link>https://rss.digg.com/digg-vids/link/beetlejuice-beetlejuice-trailer-video-winona-ryder</link>
-      <description><![CDATA[迈克尔·基顿回归饰演甲壳虫汁，与薇诺娜·瑞德、凯瑟琳·奥哈拉、珍娜·奥尔特加、威廉·达福等人一起出演蒂姆·伯顿导演 88 年电影的续集《甲壳虫汁》。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/beetlejuice-beetlejuice-trailer-video-winona-ryder</guid>
-      <pubDate>Thu, 23 May 2024 16:40:19 GMT</pubDate>
     </item>
     <item>
       <title>“白痴”男子试图用身体猛击虎鲸，以及更多本周最奇怪的世界新闻</title>
@@ -34,9 +62,9 @@
       <pubDate>Thu, 23 May 2024 13:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>四季奥兰多宝贝，以及本周其他最佳表情包排名</title>
+      <title>奥兰多宝贝四个季节以及本周其他最佳模因排名</title>
       <link>https://rss.digg.com/memes-ranked/link/best-memes-ranked-four-seasons-orlando-baby-match-my-freak-lebron-scream</link>
-      <description><![CDATA[以一些标志性的二人​​组为特色，他们始终匹配彼此的怪胎。]]></description>
+      <description><![CDATA[一些标志性的二人​​组一直与彼此的怪胎相匹配。]]></description>
       <guid>https://rss.digg.com/memes-ranked/link/best-memes-ranked-four-seasons-orlando-baby-match-my-freak-lebron-scream</guid>
       <pubDate>Thu, 23 May 2024 08:31:05 GMT</pubDate>
     </item>
@@ -48,16 +76,16 @@
       <pubDate>Wed, 22 May 2024 19:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼《星球大战酒店》惨败的十大理由</title>
+      <title>迪士尼星球大战酒店惨败的十大原因</title>
       <link>https://rss.digg.com/internet-culture/link/star-wars-Galactic-Starcruiser-Jenny-Nicholson-failure-video</link>
-      <description><![CDATA[珍妮·尼克尔森因分享她在星球大战：银河星际巡洋舰度假村的噩梦经历而走红。这是一个细分。]]></description>
+      <description><![CDATA[珍妮·尼克尔森因分享她在《星球大战：银河星际巡洋舰》度假村的噩梦经历而走红。这是一个细分。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/star-wars-Galactic-Starcruiser-Jenny-Nicholson-failure-video</guid>
       <pubDate>Wed, 22 May 2024 17:21:51 GMT</pubDate>
     </item>
     <item>
       <title>真实连环杀手的八次令人反胃的经历</title>
       <link>https://rss.digg.com/internet-culture/link/real-meet-serial-killer-experience-reddit</link>
-      <description><![CDATA[陌生人分享在最终成为杀人犯的人周围生活和工作的感受。]]></description>
+      <description><![CDATA[陌生人分享与最终成为杀人犯的人一起生活和工作的感受。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/real-meet-serial-killer-experience-reddit</guid>
       <pubDate>Wed, 22 May 2024 16:51:33 GMT</pubDate>
     </item>
@@ -69,39 +97,11 @@
       <pubDate>Wed, 22 May 2024 10:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>男人被诅咒的卧室之旅，以及更多精彩迷你秀，您可以在手机上观看</title>
+      <title>参观男人的诅咒卧室，以及更多可以在手机上观看的精彩迷你节目</title>
       <link>https://rss.digg.com/internet-culture/link/best-online-shows-boy-room-subway-takes-recess-therapy-meet-cutes-nyc</link>
       <description><![CDATA[想在旅途中快速观看有趣的内容吗？我们已经为您提供了保障。]]></description>
       <guid>https://rss.digg.com/internet-culture/link/best-online-shows-boy-room-subway-takes-recess-therapy-meet-cutes-nyc</guid>
       <pubDate>Wed, 22 May 2024 10:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>该视频展示了父母沉迷于手机时错过的东西</title>
-      <link>https://rss.digg.com/digg-vids/link/parenting-phone-use-kids-video</link>
-      <description><![CDATA[“你可能认为你的孩子不会接受，但他们确实接受了。”]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/parenting-phone-use-kids-video</guid>
-      <pubDate>Wed, 22 May 2024 08:47:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的妻子不想让我退休，以及本周最佳戏剧作品的更多内容</title>
-      <link>https://rss.digg.com/productivity/link/retirement-work-drama-weekly-column-roundup-series-digg-May-2024</link>
-      <description><![CDATA[一对订婚的夫妇作为新同事，努力寻找平衡。]]></description>
-      <guid>https://rss.digg.com/productivity/link/retirement-work-drama-weekly-column-roundup-series-digg-May-2024</guid>
-      <pubDate>Tue, 21 May 2024 20:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们凄美的遗言发人深省，提醒人们生命转瞬即逝</title>
-      <link>https://rss.digg.com/internet-culture/link/dying-last-words-fear-death-reddit</link>
-      <description><![CDATA[人们分享他们的朋友和家人在去世前所说的令人心寒的最后一句话。]]></description>
-      <guid>https://rss.digg.com/internet-culture/link/dying-last-words-fear-death-reddit</guid>
-      <pubDate>Tue, 21 May 2024 19:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年戛纳电影节最受关注的六部电影</title>
-      <link>https://rss.digg.com/movies-and-tv/link/cannes-2024-lineup-megalopolis-horizon-furiosa-anora-kinds-of-kindness</link>
-      <description><![CDATA[不幸的是，有一些大牌导演的电影遭到了批评。]]></description>
-      <guid>https://rss.digg.com/movies-and-tv/link/cannes-2024-lineup-megalopolis-horizon-furiosa-anora-kinds-of-kindness</guid>
-      <pubDate>Mon, 20 May 2024 14:02:49 GMT</pubDate>
     </item>
     <item>
       <title>播放“类型转换”</title>
