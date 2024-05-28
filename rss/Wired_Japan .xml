@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>来自wired.jp的最新消息</description>
-    <lastBuildDate>Mon, 27 May 2024 21:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 00:59:54 GMT</lastBuildDate>
+    <item>
+      <title>从“PS2风格”滤镜到像素艺术，从“科技怀旧”中看出什么</title>
+      <link>https://wired.jp/article/technostalgia/</link>
+      <description><![CDATA[从最近“PS2风格滤镜”的流行趋势开始，回归90年代至2000年代风格的视觉效果已成为过去几年的趋势。数字文化研究员伯努瓦·帕洛（Benoit Palo）和策展人维也纳·金（Vienna Kim）认为，这种趋势是一种“技术怀旧”形式，是对现代技术的反应。]]></description>
+      <guid>https://wired.jp/article/technostalgia/</guid>
+      <pubDate>Mon, 27 May 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用电的力量放大味道，“电盐勺”改变味觉“常识”</title>
+      <link>https://wired.jp/article/electric-salt-spoon/</link>
+      <description><![CDATA[利用微弱电流增强味道的“电盐勺”于5月20日发售。这款勺子可以让您在不牺牲盐含量的情况下吃到美味的低钠食物。我立即尝试了一下，看看用电放大后味道如何。]]></description>
+      <guid>https://wired.jp/article/electric-salt-spoon/</guid>
+      <pubDate>Mon, 27 May 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>连接大脑和计算机的技术在中国取得进展引发担忧</title>
       <link>https://wired.jp/article/china-brain-computer-interfaces-neuralink-neucyber-neurotech/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>“去增长”能拯救地球吗？</title>
       <link>https://wired.jp/article/sz-can-slowing-down-save-the-planet/</link>
-      <description><![CDATA[马克思主义研究者兼哲学家齐藤晃平在今年以英文出版的《人类世的资本》一书中拒绝经济增长，并呼吁接受不同形式的富裕。有没有效果呢？ 《纽约客》的评论。]]></description>
+      <description><![CDATA[马克思主义研究者兼哲学家斋藤晃平在今年以英文出版的《人类世的资本》一书中拒绝了经济增长，并呼吁接受一种不同形式的富裕。有没有效果呢？ 《纽约客》的评论。]]></description>
       <guid>https://wired.jp/article/sz-can-slowing-down-save-the-planet/</guid>
       <pubDate>Sun, 26 May 2024 22:00:00 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>人类的策划，为人类服务，为算法提供了庇护所</title>
       <link>https://wired.jp/article/latest-online-culture-war-is-humans-vs-algorithms/</link>
-      <description><![CDATA[我们中的许多人可能认为 Instagram 或 TikTok 似乎非常了解我们。随着人们对社交媒体自动管理的强烈反对，不依赖算法的新人类平台正在出现。]]></description>
+      <description><![CDATA[我们中的许多人可能认为 Instagram 和 TikTok 似乎以一种令人毛骨悚然的方式了解我们。随着人们对社交媒体自动管理的强烈反对，不依赖算法的新人类平台正在出现。]]></description>
       <guid>https://wired.jp/article/latest-online-culture-war-is-humans-vs-algorithms/</guid>
       <pubDate>Thu, 23 May 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们能让孩子摆脱智能手机的束缚吗？</title>
-      <link>https://wired.jp/article/sz-can-we-get-kids-off-smartphones/</link>
-      <description><![CDATA[我们知道社交媒体对于需要大量离线时间和自由的年轻人来说是不利的。尽管如此，家长们并没有表现出团结起来解决这个问题的意愿。]]></description>
-      <guid>https://wired.jp/article/sz-can-we-get-kids-off-smartphones/</guid>
-      <pubDate>Thu, 23 May 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯嘉丽·约翰逊抗议 OpenAI 的“相似”合成语音，这个问题似乎可能会闹上法庭</title>
-      <link>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[OpenAI 为 ChatGPT 开发的合成语音 Sky，因用户抱怨其听起来与电影中斯嘉丽·约翰逊扮演的 AI 助手的声音一模一样而被暂停。如果问题闹上法庭，问题可能是“公开权”。]]></description>
-      <guid>https://wired.jp/article/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
-      <pubDate>Thu, 23 May 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
