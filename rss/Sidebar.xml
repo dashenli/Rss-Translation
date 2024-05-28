@@ -4,7 +4,15 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 28 May 2024 12:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:16:43 GMT</lastBuildDate>
+    <item>
+      <title>使用 HTML 的最新控件进行切换</title>
+      <link>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</link>
+      <description><![CDATA[HTML 可能正在通过向复选框输入添加 switch 属性来获得一种原生方法。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</guid>
+      <pubDate>Tue, 28 May 2024 11:53:33 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年世界运动会徽标</title>
       <link>https://www.logodesignlove.com/the-world-games-2025-logo</link>
@@ -14,9 +22,9 @@
       <pubDate>Tue, 28 May 2024 05:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>现在所有浏览器都支持屏幕唤醒锁定 API</title>
+      <title>所有浏览器现在都支持屏幕唤醒锁定 API</title>
       <link>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</link>
-      <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主要浏览器 - Chrome、Safari 和 Firefox。
+      <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主流浏览器 - Chrome、Safari 和 Firefox。
 ]]></description>
       <guid>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</guid>
       <pubDate>Tue, 28 May 2024 05:53:55 GMT</pubDate>
@@ -46,7 +54,7 @@
       <pubDate>Mon, 27 May 2024 05:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>我们现在有了容器查询，但我们真的在使用它们吗？</title>
+      <title>我们现在有了容器查询，但是我们实际上在使用它们吗？</title>
       <link>https://frontendmasters.com/blog/weve-got-container-queries-now-but-are-we-actually-using-them/</link>
       <description><![CDATA[CSS 开发人员实现了终极梦想：容器查询。但现在他们已经来了，我们真的能接触到他们吗？
 ]]></description>
@@ -88,7 +96,7 @@
     <item>
       <title>用几行 CSS 实现 Popover 元素进入和退出动画</title>
       <link>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</link>
-      <description><![CDATA[为元素创建进入和退出动画一直是一件繁琐的事情。
+      <description><![CDATA[为元素创建进入和退出动画一直很乏味。 
 ]]></description>
       <guid>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</guid>
       <pubDate>Fri, 24 May 2024 05:50:32 GMT</pubDate>
@@ -96,7 +104,7 @@
     <item>
       <title>针点</title>
       <link>https://informationisbeautiful.net/visualizations/most-common-pin-codes/</link>
-      <description><![CDATA[最常见的 4 位 PIN 码的数据可视化。
+      <description><![CDATA[最常见的 4 位数 PIN 码的数据可视化。
 ]]></description>
       <guid>https://informationisbeautiful.net/visualizations/most-common-pin-codes/</guid>
       <pubDate>Fri, 24 May 2024 05:47:21 GMT</pubDate>
@@ -116,14 +124,6 @@
 ]]></description>
       <guid>https://start.solidjs.com/</guid>
       <pubDate>Fri, 24 May 2024 05:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>申请者在申请设计职位时如何脱颖而出？</title>
-      <link>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</link>
-      <description><![CDATA[设计招聘经理对他们在简历和作品集中寻找什么的见解
-]]></description>
-      <guid>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</guid>
-      <pubDate>Thu, 23 May 2024 06:11:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

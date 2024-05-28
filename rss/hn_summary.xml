@@ -4,102 +4,101 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 28 May 2024 08:30:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:13:33 GMT</lastBuildDate>
     <item>
-      <title>网站：www.file0.dev</title>
-      <link>https://t.me/hn_summary/91836</link>
-      <description><![CDATA[显示 HN：我厌倦了 S3 及其周围的所有废话
-标题：显示 HN：我厌倦了 S3 及其周围的所有废话
-网站：www.file0.dev
+      <title>[媒体] 硫传输和沉积模型 (STEM) 于 1976 年开发，已显着 [...]</title>
+      <link>https://t.me/hn_summary/91865</link>
+      <description><![CDATA[与时俱进的空气质量模型 
+1976 年开发的硫传输和沉积模型 (STEM) 极大地增进了我们对空气质量及其与气候相互作用的理解。 STEM 最初专注于硫污染，现已发展到包括臭氧和颗粒物等其他污染物。它的简单性、稳定性和灵活性使其成为科学研究和政策制定的宝贵工具。 STEM 支持了许多现场实验，例如 NASA 的 TRACE-P，并为卫星任务和国际模型比对研究做出了贡献。持续更新旨在将 STEM 与下一代气象和气候模型相结合，确保其在解决新出现的环境问题（包括环境正义）方面的持续相关性和实用性。
 
-我厌倦了使用 Amazon S3 的复杂性和挫败感。以下是一段代码，演示了如何设置 S3 客户端并应用存储桶策略以允许公众访问特定对象。该过程包括使用必要的凭据创建 S3 客户端、定义存储桶策略，然后发送命令以将此策略应用于存储桶。这个例子强调了管理 S3 配置和权限的繁琐性，这对开发人员来说可能是一个很大的痛点。]]></description>
-      <guid>https://t.me/hn_summary/91836</guid>
-      <pubDate>Tue, 28 May 2024 08:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]中国科学家取得了突破性的医学成就，治愈了一名患者的糖尿病 [...]</title>
-      <link>https://t.me/hn_summary/91835</link>
-      <description><![CDATA[中国科学家研发出糖尿病治疗方法，患者3个月内无需胰岛素&lt; /a&gt;
-中国科学家利用创新的细胞疗法治愈了一名糖尿病患者，这是一项突破性的医学成就。该疗法由上海长征医院、分子细胞科学卓越中心和仁济医院的团队开发，详细介绍在《细胞发现》杂志上。该患者于 2021 年 7 月接受了细胞移植，在十一周内不再使用胰岛素，并在第二年停止服用口服药物。这种开创性的疗法涉及将外周血单核细胞转化为“种子细胞”，以重建胰岛组织，利用人体的再生能力。这一突破可以显着减轻中国的医疗负担，中国有 1.4 亿人患有糖尿病。然而，还需要进一步的研究来验证这些发现。]]></description>
-      <guid>https://t.me/hn_summary/91835</guid>
-      <pubDate>Tue, 28 May 2024 08:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到 Doctor DOS Betamax 的 DOS 网站 (2024) www.chebucto.ns.ca！</title>
-      <link>https://t.me/hn_summary/91834</link>
-      <description><![CDATA[Doctor DOS Betamax 的 DOS 网站 (2024)
-欢迎访问 Doctor DOS Betamax 的 DOS 网站 (2024) www.chebucto .ns.ca！该网站是 DOS 爱好者的宝库，提供有关 DOS 如何通过批处理文件自动化来提高速度和效率的见解。发现五打方法来提高您的 DOS 技术，并探索大量的 DOS 文件扩展名。该网站揭穿了常见的 DOS 误解，并为学生提供了有关字符和符号的全面指南。了解退出代码、程序开关和 DOS 变量。享受一点 DOS 幽默，并浏览推荐的 DOS 书籍、杂志和全球 DOS 资源的广泛链接的精选列表。]]></description>
-      <guid>https://t.me/hn_summary/91834</guid>
-      <pubDate>Tue, 28 May 2024 08:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Tesmon Platform 是一个综合工具，结合了 Postman 的功能，[...]</title>
-      <link>https://t.me/hn_summary/91833</link>
-      <description><![CDATA[显示 HN：Tesmon 平台 == Postman + Cypress + RestAssured + 数据库+ 更多
-Tesmon Platform 是一款综合工具，将 Postman、Cypress、RestAssured 和数据库管理的功能结合到一个平台中。提供的示例演示了如何使用 POST 请求创建工作区。该请求包括指定 JSON 内容的标头和包含工作区详细信息的正文。 URL 是使用占位符动态构建的。通过一系列测试验证响应，确保状态代码为 201、响应包含 ID、名称和摘要与预期值匹配。 Tesmon 将多个测试工具集成到单个平台中的能力既独特又巧妙，显着简化了测试流程。]]></description>
-      <guid>https://t.me/hn_summary/91833</guid>
-      <pubDate>Tue, 28 May 2024 07:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]一张如此稀有且有价值的专辑，以至于只有少数人听过它，它将 [...]</title>
-      <link>https://t.me/hn_summary/91832</link>
-      <description><![CDATA[在澳大利亚展出的最稀有专辑
-这张专辑如此稀有且珍贵，以至于只有少数人听过它，它将在澳大利亚一家画廊展出，让公众品尝到超级独家的曲目。装在一个华丽的银盒里的《少林往事》是武当派历时六年秘密录制的，被设计成一件精美的艺术品。仅存在一个 CD 副本。这支嘻哈先锋乐队的这张唱片是有史以来最昂贵的唱片，现已借给塔斯马尼亚的新旧艺术博物馆（莫娜）。 6 月的 10 多天里，Mona 将举办小型聆听派对，公众可以聆听精选的 30 分钟专辑样本。这张专辑是“Namedropping”展览的一部分，该展览探讨了地位、恶名和“人类的追求”。 “每隔一段时间，这个星球上的一个物体就会拥有超越其物质环境的神秘属性，”莫娜策展事务总监贾罗德·罗林斯 (Jarrod Rawlins) 说道。 “少林往事不仅仅是一张专辑，所以……我知道我必须把它纳入这次展览。” Wu-Tang Clan 于 90 年代初在史坦顿岛成立，据说永远彻底改变了嘻哈音乐 - 但也以其暴力和露骨的色情歌词而闻名。 《少林往事》于 2006 年至 2013 年间在纽约录制并在马拉喀什制作，其中包括该乐队的九名幸存成员，并以流行艺术家 Cher 和《权力的游戏》女演员 Carice Van Houten 为主角。该团体认为在线流媒体和盗版已经降低了音乐的价值，并希望采用“400 年前文艺复兴风格的音乐方法，将其作为委托商品提供”。它包括一个手工雕刻的镍盒和一份皮革装订的手稿，其中包含歌词和真品证书 - 以及所有者在 88 年内不得发行 31 首曲目的法律条件。制片人 RZA 将其比作毕加索艺术品或古埃及文物。 “这是一张独特的原创作品，而不是专辑的母版，”他在 2015 年专辑发售时说道。因此，地球上只有少数人听过这 31 首曲目的片段。 2015 年，一群潜在买家和媒体聆听了一段 13 分钟的片段，名誉扫地的制药公司高管 Martin Shkreli 以 200 万美元（160 万英镑，300 万澳元）购买了这张专辑，并在 YouTube 上播放了音乐片段以示庆祝唐纳德·特朗普 (Donald Trump) 2016 年大选获胜。 Shkreli 后来在被判欺骗投资者罪后，于 2018 年被迫将其移交给美国检察官，随后又将其出售给了数字艺术团体 Pleasr。 Pleasr 在一份声明中表示，Mona 聆听派对将于 6 月 15 日至 24 日举行，帮助实现了该集团“将一张单张专辑打造成艺术品的大胆愿景”。莫娜以其挑衅性的展览而闻名 - 最近一个名为“女士休息室”的展览在成为备受瞩目的反歧视案件的中心后引起了国际关注。]]></description>
-      <guid>https://t.me/hn_summary/91832</guid>
-      <pubDate>Tue, 28 May 2024 07:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“我们构建事件驱动应用程序的方式被误导”中，作者批评 [...]</title>
-      <link>https://t.me/hn_summary/91831</link>
-      <description><![CDATA[我们构建事件驱动应用程序的方式被误导了
-在“我们构建事件驱动应用程序的方式被误导”一文中，作者批评了事件驱动应用程序中普遍使用的编排模式，强调了其复杂性和维护挑战。他们提倡编排器模式，将流程管理集中在工作流服务中，提供更好的解耦、更容易理解和更简单地处理复杂的工作流。作者介绍了Infinitic，这是一个旨在通过提供必要的样板代码来简化编排器模式的实现的框架，从而使开发人员能够专注于业务逻辑。 Infinitic 利用 Apache Pulsar 并承诺出色的可扩展性、弹性和内置错误管理，使其成为现代事件驱动应用程序的引人注目的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/91831</guid>
-      <pubDate>Tue, 28 May 2024 07:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] sleeplessbeastie.eu 上的文章“如何删除无用的本地化”指导用户 [...]</title>
-      <link>https://t.me/hn_summary/91830</link>
-      <description><![CDATA[如何删除无用的本地化
-在 sleeplessbeastie.eu 上，文章“如何删除无用的本地化”指导用户安装和配置 localepurge 软件包，通过删除不必要的本地化来释放磁盘空间。该过程首先更新软件包索引并安装 localepurge。然后，用户配置要保留的区域设置，并决定是否在软件包安装期间使用 localepurge 以及是否应删除本地化的手册页。配置存储在 /etc/locale.nopurge 中，用户可以调整设置，例如显示已释放的磁盘空间或启用详细输出。在紧急情况下，提供命令来重新创建手册页索引缓存并重新安装软件包以修复丢失的区域设置。 
+令人惊讶/独特：该模型能够适应并在数十年中保持相关性，支持历史和前沿研究，这一点尤其值得注意。
 
-令人惊讶/聪明：本文提供了一个详细的脚本来重新安装软件包并修复丢失的语言环境，确保用户可以从任何事故中恢复。]]></description>
-      <guid>https://t.me/hn_summary/91830</guid>
-      <pubDate>Tue, 28 May 2024 07:11:41 GMT</pubDate>
+有争议的：这篇文章没有强调任何具体的争议。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91865</guid>
+      <pubDate>Tue, 28 May 2024 15:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>网站：rachelbythebay.com</title>
-      <link>https://t.me/hn_summary/91829</link>
-      <description><![CDATA[如此多的 Feed 阅读器，如此多的行为
-标题：如此多的 feed 阅读器，如此多的行为
-网站：rachelbythebay.com
-
-自从我开始向频繁点击 feed 的客户提供 429 服务以来，已经一年多了，从那时起，发生了很多事情，大部分都是积极的。提要软件的用户和作者已经伸出援手，有时会提交错误报告或功能请求以进行改进。然而，一些问题仍然存在。例如，一位读者通过不发送 1800 年起的日期进行了改进，但现在发送了不正确的 If-Modified-Since 标头。每隔 2 分钟就会有一次命中，导致我直接格挡。许多读者过于频繁地进行投票，这是不必要的，而且会适得其反。令人惊讶的是，尽管明确的元数据指示了正确的路径，但某些程序仍会猜测提要 URL。我提出了一个“提要阅读器正确性评分”系统来改善行为，但它需要开发人员的承诺。更大的教训是：不要衡量是否没有人会根据结果采取行动。]]></description>
-      <guid>https://t.me/hn_summary/91829</guid>
-      <pubDate>Tue, 28 May 2024 07:10:36 GMT</pubDate>
+      <title>[媒体]上周，我辞去了美国内政部的职务 [...]</title>
+      <link>https://t.me/hn_summary/91864</link>
+      <description><![CDATA[我作为一名犹太裔美国人因加沙问题从拜登政府辞职
+上周，我辞去了美国内政部的职务，成为第一位公开抗议拜登总统支持加沙种族灭绝的犹太政治任命官员，那里有超过 35,000 名巴勒斯坦人被杀害。我做出这一决定的原因是，我相信拜登已经将犹太人的安全武器化，以避免对他在冲突中所扮演的角色承担责任。我的犹太传统以迫害和生存为标志，这迫使我公开反对持续的暴力。我对犹太和巴勒斯坦活动人士的共同努力感到鼓舞，并对拜登拒绝呼吁停火或结束对加沙的围困感到沮丧。这届政府曾经是希望的象征，现在让我作为一个美国犹太人感到不安全。]]></description>
+      <guid>https://t.me/hn_summary/91864</guid>
+      <pubDate>Tue, 28 May 2024 15:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我怀念 BSD/Linux。</title>
-      <link>https://t.me/hn_summary/91828</link>
-      <description><![CDATA[我怀念 BSD/Linux
-我怀念 BSD/Linux。或者是 GNU/Unix？无论如何，我怀念无休止的 Fvwm 重新配置和自定义 Linux 内核补丁集的日子。2007 年的工作和 2012 年的 MacBook 将 Linux 和 FreeBSD 推到了我操作系统使用的边缘。我的复古办公室设置包括一个回收的 2003 年 Windows XP/Linux 双版本，但由于它局限于我的家庭办公室，我很少使用它。现代 macOS 的臃肿、响应迟钝的服务和侵入性更新让我感到沮丧。尽管我渴望一个更具可配置性的操作系统，但苹果的硬件很难被忽视。我的下一台笔记本电脑会是非苹果的吗？时间会证明一切。]]></description>
-      <guid>https://t.me/hn_summary/91828</guid>
-      <pubDate>Tue, 28 May 2024 07:08:31 GMT</pubDate>
+      <title>[媒体]您是否想过参与到 [...] 之外的移动生态系统中会是什么样子？</title>
+      <link>https://t.me/hn_summary/91863</link>
+      <description><![CDATA[最后一个替代大型科技的新开源移动生态系统
+您是否想过在大型科技巨头的监视之外参与移动生态系统会是什么样子？欢迎来到 Mobifree，这是一个以人为本、符合道德的替代方案，倡导隐私、协作和包容性。 F-Droid 是用户和开发者权利的长期倡导者，很高兴成为这个新生态系统的一部分。 Mobifree 旨在为 Android 应用程序提供去中心化的分发系统，为用户提供真正的选择和隐私。世界各地的政府和监管机构正在采取措施遏制大型科技公司的主导地位，而 Mobifree 准备利用这些机会打造更公平、更可持续的移动体验。欢迎访问 f-droid.org 加入我们这一激动人心的运动.]]></description>
+      <guid>https://t.me/hn_summary/91863</guid>
+      <pubDate>Tue, 28 May 2024 15:03:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gleam 1.2.0 发布：容错 Gleam</title>
-      <link>https://t.me/hn_summary/91827</link>
-      <description><![CDATA[Gleam 1.2.0 版本 – 容错 Gleam&lt; br /&gt;
-Gleam 1.2.0 发布：容错 Gleam
+      <title>[媒体] T-Mobile 收购美国大部分地区</title>
+      <link>https://t.me/hn_summary/91862</link>
+      <description><![CDATA[T-Mobile 以 4.4 亿美元的交易收购 U.S. Cellular 的大部分股权​​&lt; /a&gt;
+T-Mobile 宣布计划以 44 亿美元的交易收购 U.S. Cellular 的大部分股权​​，其中包括现金和高达 20 亿美元的债务。此次收购将使 T-Mobile 接管 U.S. Cellular 的商店、部分频谱资产和客户。该交易旨在增强农村地区的覆盖范围并改善美国移动客户的连接。值得注意的是，U.S. Cellular 将保留 70% 的频谱和信号塔，并向 T-Mobile 租赁另外 2,100 个信号塔的空间。该交易预计将于 2025 年中期完成。此前，T-Mobile 最近以 13.5 亿美元收购了 Mint Mobile 的母公司 Ka&#39;ena。]]></description>
+      <guid>https://t.me/hn_summary/91862</guid>
+      <pubDate>Tue, 28 May 2024 14:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在这篇题为“向 HN 展示：获得 LLM Observabil 所需的只是 Prometheus 和 Jaeger”的文章中 [...]</title>
+      <link>https://t.me/hn_summary/91861</link>
+      <description><![CDATA[显示 HN：您只需要 Prometheus 和 Jaeger 即可实现 LLM 可观测性&lt; /a&gt;
+在这篇题为“Show HN：All you need is Prometheus and Jaeger for LLM Observability”的文章中，作者介绍了一个使用 Prometheus 和 Jaeger 监控大型语言模型 (LLM) 和向量数据库的综合仪表板。该仪表板采用 OpenLIT 构建，可跟踪 OpenTelemetry 跟踪和指标，从而提供对 LLM 和 VectorDB 请求率的见解。这些面板配置为显示实时数据，并带有颜色编码的阈值以便于解释。独特的功能包括与 OpenLIT 的集成以及使用 Prometheus 进行数据源。提供了文档和 GitHub 链接以供进一步探索。值得注意的是，该设置旨在用户友好且高度可定制。 （根据故事文本的 8% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91861</guid>
+      <pubDate>Tue, 28 May 2024 14:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]爱情咒语和致命的尖叫：曼德拉草插图（Ca.</title>
+      <link>https://t.me/hn_summary/91860</link>
+      <description><![CDATA[爱情咒语和致命的尖叫声：曼德拉草插图（约 650– 1927）
+曼德拉草的根、叶和黄色果实含有致幻的托烷生物碱，可引起从视力模糊到呕吐等一系列症状。大剂量时，这些生物碱会起到麻醉剂的作用，导致暂时性麻痹、意识不清、谵妄和幻觉。从历史上看，曼德拉草在古代被用作麻醉剂，正如莫德·格里夫（Maud Grieve）在《现代草药》（1931）中所指出的那样，患者在手术前咀嚼曼德拉草的根部。此外，它还因其催吐、催情和镇静作用而受到重视，可以治疗风湿病和忧郁症等疾病。公元前 400 年左右的希波克拉底建议在葡萄酒中加入小剂量的酒，以缓解深度抑郁和焦虑。]]></description>
+      <guid>https://t.me/hn_summary/91860</guid>
+      <pubDate>Tue, 28 May 2024 14:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]OpenAI 成立了一个新的安全团队，由首席执行官 Sam Altman 领导，董事会成员 [...]</title>
+      <link>https://t.me/hn_summary/91859</link>
+      <description><![CDATA[OpenAI 拥有一个新的安全团队 – 由 Sam Altman 管理
+OpenAI 成立了一个新的安全团队，由首席执行官 Sam Altman 领导，董事会成员包括 Adam D’Angelo 和 Nicole Seligman。该团队将为 OpenAI 项目的关键安全决策提供建议。他们的首要任务是评估和增强 OpenAI 的安全流程，向董事会（包括安全团队的所有三名领导者）展示他们的发现。此举是在联合创始人 Ilya Sutskever 和 Jan Leike 等关键人物离职后做出的，他们批评该公司将产品开发置于安全之上。此外，OpenAI 正在测试一种新的 AI 模型，但尚未确认它是否是 GPT-5。有争议的是，OpenAI 的新 ChatGPT 语音 Sky 听起来像斯嘉丽约翰逊，后者否认参与其中，引起了人工智能爱好者的担忧。尽管组建了新的安全团队，但人们对 OpenAI 解决安全问题的承诺仍然存在疑问。]]></description>
+      <guid>https://t.me/hn_summary/91859</guid>
+      <pubDate>Tue, 28 May 2024 14:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 弗吉尼亚州干草市场。</title>
+      <link>https://t.me/hn_summary/91858</link>
+      <description><![CDATA[道路规划者拥抱非常规交叉路口
+在弗吉尼亚州干草市场，司机在接近 66 号州际公路非传统钻石分叉立交桥 (DDI) 时可能会感到迷失方向，他们会短暂地靠道路左侧行驶。 DDI 由交通工程师 Gilbert Chlewicki 发明，旨在通过消除迎面而来的交通冲突，使左转更安全、更高效。尽管最初存在怀疑和安全担忧，但该设计已被证明是有效的，可将碰撞事故减少 40-50%，并缓解交通拥堵。虽然一些司机仍然感到担忧，但另一些司机则称赞其效率。 DDI 于 2009 年首次在密苏里州实施，现已在美国各地广泛应用，Chlewicki 继续在交通设计方面进行创新。]]></description>
+      <guid>https://t.me/hn_summary/91858</guid>
+      <pubDate>Tue, 28 May 2024 14:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：grooved.okat.best</title>
+      <link>https://t.me/hn_summary/91857</link>
+      <description><![CDATA[显示 HN：我制作了一个免费的应用程序来校准您的转盘，只需播放歌曲
+标题：Show HN：我制作了一个免费的应用程序，只需播放歌曲即可校准您的转盘
+网站：grooved.okat.best
 
-Gleam 1.2.0 版本由 Louis Pilfold 于 2024 年 5 月 27 日发布，为语言服务器和开发人员体验带来了重大改进。关键更新包括容错编译，允许编译器继续过去的错误并提供全面的反馈，从而增强语言服务器的响应能力和准确性。该版本还引入了更好的导入语句自动完成、管道运算符的单行管道，以及针对 use 表达式和类型/值混合的改进错误消息。此外，它还具有断言详尽性检查、无法访问代码检测和增强的十六进制集成等功能。值得注意的是，编译器现在可以防止 Erlang 模块名称冲突，确保开发更加顺利。
+免费，无广告。
 
-争议方面：
-- 没有突出显示。
+您是否曾经觉得现代文案写作已经变得过于自我意识，用真正的幽默换取了表面上的乐趣？就像公司已经采用了“眨眼我们也很有趣！”方法，充满了没有切中要害的双关语。对于大型企业来说，这种趋势似乎格格不入，让他们在相关性方面的尝试显得空洞。
 
-独特/聪明的功能：
-- 容错编译通过在不停止进程的情况下提供全面的错误反馈，显着改善了开发人员的工作流程。 （根据 78% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/91827</guid>
-      <pubDate>Tue, 28 May 2024 07:04:26 GMT</pubDate>
+另一方面，我创建了 Grooved，这是一款可以帮助您轻松校准转盘的应用程序。只需播放一首歌曲，使用 Grooved 对其进行分析，然后调整您的转盘即可。该应用程序在本地处理所有内容，确保您的隐私。与其他应用程序不同，Grooved 不需要您的电话号码，只需扫描二维码即可下载。目前，Grooved for Android 处于内测阶段，计划于 6 月发布。在 Mastodon 或 Twitter 上关注我以获取更新。]]></description>
+      <guid>https://t.me/hn_summary/91857</guid>
+      <pubDate>Tue, 28 May 2024 14:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]标题：素食可显着降低癌症、心脏病和死亡的风险</title>
+      <link>https://t.me/hn_summary/91856</link>
+      <description><![CDATA[素食可显着降低患癌症、心脏病和死亡的风险
+标题：素食可显着降低癌症、心脏病和死亡的风险
+
+网站：www.cnn.com
+
+CNN — 根据对 20 多年研究的综合分析，采用纯素、素食或乳蛋素食可以显着降低患癌症、心脏病和心血管疾病早逝的风险。这篇“伞”综述综合了众多研究的结果，强调了植物性饮食对各种癌症以及血压和胆固醇等心血管危险因素的保护作用。然而，不良的饮食选择可能会削弱这些好处，例如食用果汁和精制谷物等不健康的植物性食品。值得注意的是，该研究发现对孕妇没有任何好处，这是一个有趣的发现，值得进一步研究。此外，素食者和纯素食者需要确保摄入足够的某些营养素，例如维生素 B12、铁和蛋白质，这些营养素在动物产品中更容易获得。]]></description>
+      <guid>https://t.me/hn_summary/91856</guid>
+      <pubDate>Tue, 28 May 2024 13:54:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

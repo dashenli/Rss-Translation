@@ -4,7 +4,14 @@
     <title>下一个网络</title>
     <link>https://thenextweb.com</link>
     <description>T 世代的原创且自信的观点</description>
-    <lastBuildDate>Tue, 28 May 2024 12:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:15:35 GMT</lastBuildDate>
+    <item>
+      <title>欧盟与澳大利亚在与中国的科技竞争中达成关键矿产供应协议</title>
+      <link>https://thenextweb.com/news/eu-australia-deal-critical-minerals-supply-tensions-china</link>
+      <description><![CDATA[随着西方努力减少对中国的依赖，欧盟和澳大利亚出击共同建设关键矿产供应链的协议，这对于绿色和数字化转型至关重要。两国之间的谅解备忘录将寻求实现欧盟供应多元化并促进澳大利亚国内部门的发展。欧盟竞争主管玛格丽特·维斯塔格（Margrethe Vestager）四月份表示：“在一个以技术为动力的世界中，领导者是那些控制着最关键技术及其供应链的人。” “芯片、电池、电动汽车：我们的竞争力必然取决于我们的能力……这个故事在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/eu-australia-deal-critical-minerals-supply-tensions-china</guid>
+      <pubDate>Tue, 28 May 2024 12:40:41 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Rust 成为开发人员最喜欢的编程语言</title>
       <link>https://thenextweb.com/news/why-rust-developers-favourite-programming-language</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 27 May 2024 14:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>问题不在于你，而在于团队：当个人生产力不够时</title>
+      <title>不是你，而是团队：当个人生产力不够时</title>
       <link>https://thenextweb.com/news/team-personal-productivity-isnt-enough</link>
       <description><![CDATA[在完美的世界中，我们会通过整齐地浏览有序的任务列表。我们需要几个小时的深度工作来完成其中的一半。然后，我们会与同事悠闲地共进午餐，然后继续缩减清单，直到下午 5:30 准时完成最后一项任务。当我们离开（或断开连接）这一天并骑着神奇的独角兽去欢乐时光时，我们会充满满足感。但这是现实世界，最后一刻的会议可能是一封电子邮件…这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/team-personal-productivity-isnt-enough</guid>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 24 May 2024 14:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊与芬兰 IQM 合作提供其首个欧盟量子计算服务</title>
+      <title>亚马逊利用芬兰的 IQM 提供其首个欧盟量子计算服务</title>
       <link>https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service</link>
       <description><![CDATA[IQM Garnet 是一款 20 量子比特量子处理单元 (QPU)，现已通过亚马逊网络服务 (AWS) 提供，这是欧盟第一台可通过 AWS 云访问的量子计算机。芬兰量子硬件初创公司 IQM 位于芬兰赫尔辛基郊外。 AWS 此前曾与 IonQ、Oxford Quantum Circuits、QuEra 和 Rigetti 合作推出其名为 Braket 的量子云服务，但这将是第一个在欧盟境内托管的 AWS 量子处理器。这也意味着这是亚马逊的量子服务首次在其 AWS 欧洲（斯德哥尔摩）区域向最终用户开放。它…本报道将在 The Next Web 继续或者阅读有关亚马逊的更多报道]]></description>
       <guid>https://thenextweb.com/news/amazon-iqm-first-eu-quantum-computer-cloud-service</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[科技巨头 ASML 与荷兰之间的新协议增强了荷兰成为全球芯片强国的希望埃因霍温科技大学 (TU/e)。两人今天承诺在未来 10 年内斥资 1.8 亿欧元用于半导体研究。除了投资之外，两人还致力于扩大联合研究，并为该行业培养更多的博士生。 ASML 还将为 TU/e 的新“洁净室”提供资金，这是一个用于制造芯片的受控环境。这些计划为埃因霍温市的科技中心 ​​Brainport 提供了新的动力。埃因霍温理工大学赞扬该合作伙伴关系对该地区的贡献这个故事在 The Next Web 继续]]></description>
       <guid>https://thenextweb.com/news/asml-creating-chip-hub-in-eindhoven</guid>
       <pubDate>Thu, 23 May 2024 14:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲的“黑暗宇宙”望远镜分享第一个科学数据和新的宇宙图像</title>
-      <link>https://thenextweb.com/news/esa-euclid-telescope-release-first-space-data-images</link>
-      <description><![CDATA[探索“黑暗宇宙”的太空任务已发布其第一份科学数据 - 并且五张新的外星快照。这些观测结果由欧洲航天局 (ESA) 的欧几里得望远镜捕捉到，描绘出一幅前所未见的宇宙图景。它们还为天体的特性提供了新的见解。据欧空局称，这些图像至少比地面望远镜拍摄的图像清晰四倍。它们描绘了五个不同的空间物体： 在暗物质晕内运行的阿贝尔 2764 星系区域 梅西耶 78 恒星形成区域 NGC 6744 螺旋星系 多拉多星系群 这个故事在下一个网络继续]]></description>
-      <guid>https://thenextweb.com/news/esa-euclid-telescope-release-first-space-data-images</guid>
-      <pubDate>Thu, 23 May 2024 10:01:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
