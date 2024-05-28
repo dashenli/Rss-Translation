@@ -4,9 +4,41 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 28 May 2024 06:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 09:17:11 GMT</lastBuildDate>
     <item>
-      <title>“按新闻行动”——John Carmack 对 UI 的热门看法</title>
+      <title>2025 年世界运动会徽标</title>
+      <link>https://www.logodesignlove.com/the-world-games-2025-logo</link>
+      <description><![CDATA[2025年世界运动会标志是由约翰·菲尔利在成都体育赛事国际标志大赛后设计的。
+]]></description>
+      <guid>https://www.logodesignlove.com/the-world-games-2025-logo</guid>
+      <pubDate>Tue, 28 May 2024 05:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在所有浏览器都支持屏幕唤醒锁定 API</title>
+      <link>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</link>
+      <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主要浏览器 - Chrome、Safari 和 Firefox。
+]]></description>
+      <guid>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</guid>
+      <pubDate>Tue, 28 May 2024 05:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>老方法，新 CSS 技巧</title>
+      <link>https://mxb.dev/blog/old-dogs-new-css-tricks/</link>
+      <description><![CDATA[过去几年推出了许多新的 CSS 功能，但实际使用率仍然很低。 
+]]></description>
+      <guid>https://mxb.dev/blog/old-dogs-new-css-tricks/</guid>
+      <pubDate>Tue, 28 May 2024 05:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是我们从第一个 HTML 现状调查中了解到的内容</title>
+      <link>https://frontendmasters.com/blog/state-of-html-2023-results-2/</link>
+      <description><![CDATA[主要发现包括数据列表功能的流行度以及对表单元素的不满，尤其是样式问题。
+]]></description>
+      <guid>https://frontendmasters.com/blog/state-of-html-2023-results-2/</guid>
+      <pubDate>Tue, 28 May 2024 05:46:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Act On Press”——约翰·卡马克 (John Carmack) 的热门 UI</title>
       <link>https://www.youtube.com/watch?v=yaMGtiPckAQ</link>
       <description><![CDATA[约翰·卡马克的这条推文让我陷入思考。真的在思考。onMouseDown 可能就是我未来的首选。
 ]]></description>
@@ -30,7 +62,7 @@
       <pubDate>Mon, 27 May 2024 05:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>推出我们的全新独家字体 Spotify Mix</title>
+      <title>隆重推出 Spotify Mix，我们的全新独家字体</title>
       <link>https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/</link>
       <description><![CDATA[我们正在推出新的定制字体：Spotify Mix。
 ]]></description>
@@ -56,7 +88,7 @@
     <item>
       <title>用几行 CSS 实现 Popover 元素进入和退出动画</title>
       <link>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</link>
-      <description><![CDATA[为元素创建进入和退出动画一直是一件繁琐的事情。
+      <description><![CDATA[为元素创建进入和退出动画一直很乏味。 
 ]]></description>
       <guid>https://pawelgrzybek.com/popover-element-entry-and-exit-animations-in-a-few-lines-of-css/</guid>
       <pubDate>Fri, 24 May 2024 05:50:32 GMT</pubDate>
@@ -64,7 +96,7 @@
     <item>
       <title>针点</title>
       <link>https://informationisbeautiful.net/visualizations/most-common-pin-codes/</link>
-      <description><![CDATA[最常见的 4 位数 PIN 码的数据可视化。
+      <description><![CDATA[最常见的 4 位 PIN 码的数据可视化。
 ]]></description>
       <guid>https://informationisbeautiful.net/visualizations/most-common-pin-codes/</guid>
       <pubDate>Fri, 24 May 2024 05:47:21 GMT</pubDate>
@@ -86,44 +118,12 @@
       <pubDate>Fri, 24 May 2024 05:39:21 GMT</pubDate>
     </item>
     <item>
-      <title>申请者在申请设计职位时如何脱颖而出？</title>
+      <title>应聘设计类职位时，应聘者如何才能脱颖而出？</title>
       <link>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</link>
       <description><![CDATA[设计招聘经理对他们在简历和作品集中寻找什么的见解
 ]]></description>
       <guid>https://adobe.design/stories/our-people/ask-adobe-design-how-can-applicants-stand-out-when-applying-to-design-jobs</guid>
       <pubDate>Thu, 23 May 2024 06:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户界面设计的未来是什么样的？</title>
-      <link>https://www.browserlondon.com/blog/2024/05/22/future_of_user_interface_design/</link>
-      <description><![CDATA[从 AR/VR 和 AR/VR 探索用户界面设计的未来人工智能到基于手势的交互以及 Neuralink 对人类交互的潜在影响。
-]]></description>
-      <guid>https://www.browserlondon.com/blog/2024/05/22/future_of_user_interface_design/</guid>
-      <pubDate>Thu, 23 May 2024 06:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>出色的品牌重塑</title>
-      <link>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</link>
-      <description><![CDATA[我们与 Koto 合作更新我们的品牌，以更好地迎合我们的年轻专业人士受众。
-]]></description>
-      <guid>https://pcho.medium.com/a-brilliant-brand-refresh-4af021c11486</guid>
-      <pubDate>Thu, 23 May 2024 06:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pigment CSS 简介：下一代 CSS-in-JS</title>
-      <link>https://mui.com/blog/introducing-pigment-css/</link>
-      <description><![CDATA[Pigment CSS 提供了显着的性能提升以及 RSC 和 App Router 支持。
-]]></description>
-      <guid>https://mui.com/blog/introducing-pigment-css/</guid>
-      <pubDate>Thu, 23 May 2024 06:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新设计</title>
-      <link>https://reactstyle.vercel.app/</link>
-      <description><![CDATA[向 React 组件添加 CSS 样式的最简单方法。
-]]></description>
-      <guid>https://reactstyle.vercel.app/</guid>
-      <pubDate>Thu, 23 May 2024 06:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
