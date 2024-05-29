@@ -4,11 +4,11 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 29 May 2024 01:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 03:18:10 GMT</lastBuildDate>
     <item>
       <title>使用 HTML 的最新控件进行切换</title>
       <link>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</link>
-      <description><![CDATA[HTML 可能正在通过向复选框输入添加 switch 属性来获得一种原生方法。
+      <description><![CDATA[HTML 可能通过向复选框输入添加 switch 属性来获得一种原生方法。
 ]]></description>
       <guid>https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</guid>
       <pubDate>Tue, 28 May 2024 11:53:33 GMT</pubDate>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 28 May 2024 05:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>所有浏览器现在都支持屏幕唤醒锁定 API</title>
+      <title>所有浏览器均支持屏幕唤醒锁定 API</title>
       <link>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</link>
       <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主流浏览器 - Chrome、Safari 和 Firefox。
 ]]></description>
