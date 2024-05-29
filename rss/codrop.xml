@@ -1,42 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>共生属</title>
+    <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自 2009 年以来一直为网络专业人士提供灵感并了解最新动态</description>
-    <lastBuildDate>Tue, 28 May 2024 18:20:27 GMT</lastBuildDate>
+    <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
+    <lastBuildDate>Wed, 29 May 2024 15:18:38 GMT</lastBuildDate>
+    <item>
+      <title>悬停运动简介动画</title>
+      <link>https://tympanus.net/codrops/2024/05/29/hover-motion-intro-animation/</link>
+      <description><![CDATA[网格上的小悬停运动效果和介绍动画。]]></description>
+      <guid>https://tympanus.net/codrops/2024/05/29/hover-motion-intro-animation/</guid>
+      <pubDate>Wed, 29 May 2024 13:42:16 GMT</pubDate>
+    </item>
     <item>
       <title>集体#842</title>
       <link>https://tympanus.net/codrops/collective/collective-842-2/</link>
-      <description><![CDATA[网络平台状态 * BYOBC * 表情符号历史：缺失的岁月 * Handheld Design®]]></description>
+      <description><![CDATA[Web 平台状态 * BYOBC * 表情符号历史：缺失的岁月 * 手持设计®]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-842-2/</guid>
       <pubDate>Tue, 28 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述：Webflow Special #4</title>
+      <title>励志网站汇总：Webflow 特刊#4</title>
       <link>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</link>
-      <description><![CDATA[与 Webflow 合作，我们感到非常兴奋呈现本次综述，其中包括精心挑选的一些令人惊叹的网站。]]></description>
+      <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</guid>
       <pubDate>Tue, 28 May 2024 08:02:23 GMT</pubDate>
     </item>
     <item>
       <title>集体#841</title>
       <link>https://tympanus.net/codrops/collective/collective-841/</link>
-      <description><![CDATA[🎉 GAAD * 16 天的无障碍意识 * 法学硕士如何工作，无需数学即可解释 * 在某些时候，JavaScript 变得很好]]></description>
+      <description><![CDATA[🎉 GAAD * 16 天无障碍意识 * 无需数学即可解释 LLM 的工作原理 * 在某些时候，JavaScript 变得很好]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-841/</guid>
       <pubDate>Fri, 24 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站综述#60</title>
+      <title>励志网站汇总#60</title>
       <link>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</link>
-      <description><![CDATA[探索我们最新精选的网站，这些网站采用精心设计的设计，让您与最新趋势保持同步。]]></description>
+      <description><![CDATA[探索我们最新精选的网站，其精心设计的设计让您紧跟最新潮流。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</guid>
       <pubDate>Fri, 24 May 2024 10:56:02 GMT</pubDate>
     </item>
     <item>
       <title>集体#840</title>
       <link>https://tympanus.net/codrops/collective/collective-840/</link>
-      <description><![CDATA[介绍 CSS 锚点定位 API * 高级范围语法 * 最佳意图障碍（ARIA 版）]]></description>
+      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越范围语法 * 最佳意图屏障（ARIA 版）]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
       <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -48,32 +55,25 @@
       <pubDate>Fri, 17 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>UI 交互和动画综述 #43</title>
+      <title>UI 交互和动画综述#43</title>
       <link>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</link>
-      <description><![CDATA[探索我们最新的动作设计系列，其中包含 Dribbble 的最佳镜头，让您的创造力源源不断。]]></description>
+      <description><![CDATA[探索我们最新的动态设计系列，其中包含来自 Dribbble 的最佳镜头，以激发您的创造力。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</guid>
       <pubDate>Wed, 15 May 2024 10:53:52 GMT</pubDate>
     </item>
     <item>
       <title>集体#838</title>
       <link>https://tympanus.net/codrops/collective/collective-838/</link>
-      <description><![CDATA[TypeSpec * 设计系统的可组合性 * 精致 UI 的小型实验室]]></description>
+      <description><![CDATA[TypeSpec * 设计系统中的可组合性 * 精细 UI 小型实验室]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-838/</guid>
       <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>案例研究：Vendredi 协会</title>
+      <title>案例研究：Vendredi Society</title>
       <link>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</link>
-      <description><![CDATA[仅仅可见已经不够了。这一切都是为了利用注意力。然后一起前进。已同步。]]></description>
+      <description><![CDATA[光是引人注目已经不够了。关键在于吸引注意力。然后一起前进。同步。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</guid>
       <pubDate>Tue, 14 May 2024 10:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 SVGator 轻松创建 Lottie 动画（无限制免费导出）</title>
-      <link>https://tympanus.net/codrops/2024/05/13/how-to-easily-create-lottie-animations-with-svgator-unlimited-free-exports/</link>
-      <description><![CDATA[SVGator 引入了 Lottie 文件支持，提供了一个易于使用的平台，用于免费创建和导出 Lottie 动画。在本指南中了解如何创建、编辑 Lottie 动画并从中受益。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/13/how-to-easily-create-lottie-animations-with-svgator-unlimited-free-exports/</guid>
-      <pubDate>Mon, 13 May 2024 14:31:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
