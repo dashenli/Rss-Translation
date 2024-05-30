@@ -4,7 +4,21 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 30 May 2024 06:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 09:16:15 GMT</lastBuildDate>
+    <item>
+      <title>人工智能如何影响 2024 年大选</title>
+      <link>https://www.wired.com/story/generative-ai-global-elections/</link>
+      <description><![CDATA[2024 年将有 60 多个国家举行选举。全年，《连线》杂志将追踪这些竞选活动中及周边人工智能的每一次使用实例。]]></description>
+      <guid>https://www.wired.com/story/generative-ai-global-elections/</guid>
+      <pubDate>Thu, 30 May 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 选举项目方法论和提交信息</title>
+      <link>https://www.wired.com/story/ai-election-project-methodology-and-submission-information/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wired.com/story/ai-election-project-methodology-and-submission-information/</guid>
+      <pubDate>Thu, 30 May 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“史上最大僵尸网络”与数十亿美元被盗新冠疫情救助资金有关</title>
       <link>https://www.wired.com/story/911-s5-botnet-arrest/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[它们很贵，但你可以将这些立方体形状的摄像头无线连接到一个流中，并通过罗技的直观应用程序进行控制。]]></description>
       <guid>https://www.wired.com/review/logitech-mevo-core/</guid>
       <pubDate>Tue, 28 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员如何破解价值 300 万美元的加密钱包 11 年之久的密码</title>
-      <link>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</link>
-      <description><![CDATA[由于十年前版本的 RoboForm 密码管理器存在缺陷，再加上一些运气，研究人员得以挖掘出包含一笔财富的加密钱包的密码。]]></description>
-      <guid>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</guid>
-      <pubDate>Tue, 28 May 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anduril 正在实现五角大楼的致命无人机群梦想</title>
-      <link>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</link>
-      <description><![CDATA[美国军方旨在通过制造与人类合作、以群体方式压倒防御的自主攻击无人机来保持其主导地位。]]></description>
-      <guid>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</guid>
-      <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
