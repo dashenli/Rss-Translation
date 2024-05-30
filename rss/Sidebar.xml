@@ -4,7 +4,7 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 30 May 2024 09:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 12:28:18 GMT</lastBuildDate>
     <item>
       <title>熟悉与新奇</title>
       <link>https://lawsofux.com/articles/2024/familiar-vs-novel/</link>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 28 May 2024 05:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>所有浏览器现在都支持屏幕唤醒锁定 API</title>
+      <title>所有浏览器均支持屏幕唤醒锁定 API</title>
       <link>https://web.dev/blog/screen-wake-lock-supported-in-all-browsers?hl=en</link>
       <description><![CDATA[屏幕唤醒锁定 API 已正式登陆所有主流浏览器 - Chrome、Safari 和 Firefox。
 ]]></description>
