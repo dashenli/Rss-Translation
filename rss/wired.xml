@@ -4,7 +4,14 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 29 May 2024 21:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:59:15 GMT</lastBuildDate>
+    <item>
+      <title>“史上最大僵尸网络”与数十亿美元被盗新冠疫情救助资金有关</title>
+      <link>https://www.wired.com/story/911-s5-botnet-arrest/</link>
+      <description><![CDATA[美国称，一名中国公民操作了“911 S5”僵尸网络，该网络包括全球各地的计算机，用于提交数十万份欺诈性的新冠索赔和传播 CSAM 等犯罪活动。]]></description>
+      <guid>https://www.wired.com/story/911-s5-botnet-arrest/</guid>
+      <pubDate>Wed, 29 May 2024 21:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>我花了一个小时体验 Marvel 的 Apple Vision Pro“如果……会怎样？”。我仍然不确定为什么</title>
       <link>https://www.wired.com/story/marvel-apple-vision-pro-what-if/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>Chromebook 将获得 Gemini 和新的 Google AI 功能</title>
       <link>https://www.wired.com/story/google-brings-gemini-to-chrome-os-and-chromebooks/</link>
-      <description><![CDATA[Google 为 ChromeOS 带来了 Gemini 和一系列人工智能功能，今年将推出约 7 款新 Chromebook。]]></description>
+      <description><![CDATA[Google 为 ChromeOS 带来了 Gemini 和一系列人工智能功能，今年将推出大约 7 款新 Chromebook。]]></description>
       <guid>https://www.wired.com/story/google-brings-gemini-to-chrome-os-and-chromebooks/</guid>
       <pubDate>Tue, 28 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国军方旨在通过制造与人类合作、以群体方式压倒防御的自主攻击无人机来保持其主导地位。]]></description>
       <guid>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</guid>
       <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>警察现在只是在打击网络犯罪分子</title>
-      <link>https://www.wired.com/story/cop-cybercriminal-hacker-psyops/</link>
-      <description><![CDATA[警方正在对勒索软件团伙采取微妙的心理行动，以在他们中间播下不信任的种子，并诱使他们从暗处现身。]]></description>
-      <guid>https://www.wired.com/story/cop-cybercriminal-hacker-psyops/</guid>
-      <pubDate>Tue, 28 May 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

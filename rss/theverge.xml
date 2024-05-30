@@ -4,7 +4,76 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 29 May 2024 21:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:59:00 GMT</lastBuildDate>
+    <item>
+      <title>Netflix 的下一部游戏节目是《百万美元的秘密》</title>
+      <link>https://www.theverge.com/2024/5/29/24167453/netflix-million-dollar-secret-game-show</link>
+      <description><![CDATA[
+
+Peter Serafinowicz 将主持“百万美元的秘密”。|照片：Kate Green / Getty Images for Paramount Pictures UK
+
+Netflix 即将推出一部名为百万美元的秘密的新游戏节目。 Netflix 表示，这部八集系列剧将让 11 名参赛者争夺第 12 名获得 100 万美元奖金的选手，以成为最后一个站着的人（并赢得该奖金）。
+该节目似乎针对的是同一群观众，他们让同样反乌托邦风格的鱿鱼游戏：挑战成为 2023 年下半年Netflix 上观看次数排名第 15 的电视节目，观看次数超过 3300 万（足以略微超过CoComelonS1、金装律师S1、和《王冠》第六季，但仍远不及CoComelon第八季）。
+Netflix 写道，一旦 100 万美元的奖金获得者被另一名参赛者发现并淘汰，奖金就归他们所有。但这需要一些策略：早早找到奖金的玩家将成为其他所有人的目标，但如果他们等待，他们找到奖金获得者的机会就会减少。Netflix 显然称其为“策略和联盟的游戏”。
+英国演员彼得·塞拉菲诺维茨将主持百万美元的秘密。如果你不知道塞拉菲诺维茨的名字，你可能知道他的脸。例如，他在《僵尸肖恩》中饰演肖恩脾气暴躁、有责任心的室友（后来又饰演了淋浴僵尸），并在亚马逊过早取消的The Tick中饰演同名蓝色英雄。Netflix 尚未透露该节目何时首播。]]></description>
+      <guid>https://www.theverge.com/2024/5/29/24167453/netflix-million-dollar-secret-game-show</guid>
+      <pubDate>Wed, 29 May 2024 23:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌确认泄露的搜索文件是真实的</title>
+      <link>https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+谷歌今天证实，2,500 份泄露的谷歌内部文件中充满了有关该公司收集数据的详细信息，这些文件是真实的。到目前为止，谷歌拒绝对这些材料发表评论。
+这些文件详细说明了谷歌正在跟踪的数据，其中一些数据可能用于其严密保护的搜索排名算法。这些文件提供了前所未有的——尽管仍然模糊的——视角，让我们得以一窥塑造网络的最重要的系统之一的内幕。
+“我们会警告不要根据脱离背景、过时或不完整的信息对搜索做出不准确的假设，”谷歌发言人戴维斯·汤普森在一封电子邮件中告诉The Verge。 “我们分享了大量有关搜索工作原理以及我们的系统权衡的因素类型的信息，同时还努力保护我们的搜索结果的完整性，防止其被操纵。”
+搜索引擎优化 (SEO) 专家 Rand Fishkin 和 Mike King 首次披露了泄露材料的存在，他们于本周早些时候分别发布了对这些文件及其内容的初步分析。谷歌没有回应The Verge昨天就泄密真实性提出的多次置评请求。
+此次泄密可能会在整个 SEO 行业引起波澜
+泄露的材料表明，谷歌收集并可能使用公司代表表示不会影响谷歌搜索网页排名的数据，例如点击次数、Chrome 用户数据等。数千页的文件充当了谷歌员工的信息存储库，但目前尚不清楚详细数据中的哪些部分实际上用于对搜索内容进行排名——这些信息可能是过时的、仅用于培训目的，或者被收集但并未专门用于搜索。这些文件也没有透露不同元素在搜索中的权重，如果有的话。
+尽管如此，公开的信息可能会在搜索引擎优化 (SEO)、营销和出版行业引起波澜。谷歌通常对其搜索算法的工作原理高度保密，但这些文件——以及美国司法部反垄断案的最新证词——更清楚地表明了谷歌在对网站进行排名时考虑的信号。
+谷歌在搜索方面做出的选择对任何依赖网络开展业务的人都有深远的影响，从小型独立出版商到餐厅到网上商店。反过来，一群希望破解密码或超越算法的人出现了，他们有时会给出相互矛盾的答案。谷歌的含糊其辞和含糊其辞并没有起到什么作用，但内部文件的涌入至少让我们了解到这家主宰网络的公司在想什么。]]></description>
+      <guid>https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation</guid>
+      <pubDate>Wed, 29 May 2024 22:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义 GPT 向 ChatGPT 用户免费开放</title>
+      <link>https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Free ChatGPT 用户现在可以访问自定义 GPT、分析图表、询问有关照片的问题，以及添加的其他功能GPT-4o 于 5 月初发布。 
+模型和 Web 响应、数据分析、图表创建、视觉、文件上传、内存和自定义 GPT 等功能仅供付费用户（ChatGPT Plus、Teams 和 Enterprise）使用，但现在向使用 ChatGPT 的任何人开放。 
+虽然免费的 ChatGPT 用户可以发现和使用自定义 GPT（以前仅供付费订阅者使用），但他们无法创建自己的 GPT。我们已经使用的 ChatGPT 定制版本包括按需词典和宜家购物指南。定制 GPT 的制造商还可以参与 OpenAI 于 3 月开始测试的收入分享计划。 
+通过访问数据分析和图表创建，用户可以将 OneDrive 和 Google Drive 数据连接到 ChatGPT，以便更快地进行分析并制作可自定义的图表。
+不过，付费用户还有另一个优势：消息限制更少。当免费用户使用 GPT-4o 达到消息或对话限制时，他们将自动恢复到 GPT-3.5。 
+无论用户处于哪个层级，他们都不会听到的一个功能是备受争议的 Sky 声音，。OpenAI 撤下了该声音，值得注意的是，它与斯嘉丽约翰逊在《她》中的表演相似，但 ChatGPT 上仍然可以使用其其他声音。]]></description>
+      <guid>https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free</guid>
+      <pubDate>Wed, 29 May 2024 22:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Home 仍在重新添加因 Sonos 诉讼而丢失的音频功能</title>
+      <link>https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit</link>
+      <description><![CDATA[
+
+未来又回来了，宝贝。 |照片：Dan Seifert / The Verge
+
+经过几年的法律纠纷，您可以再次使用 Google Home 应用和 Google Assistant 控制分组扬声器。该功能于上周悄悄加入到 Android 15 beta 2中，现在它正在向所有人推出，因此用户不必再从他们的 Android 手机上一次调整一个扬声器的音量了。
+在 Google Home 应用程序中，当您在多个扬声器上播放音乐时，您应该能够从应用程序中的“正在播放”屏幕调整音量，只需像平常一样调整音量即可——与 Google Assistant 兼容的智能扬声器也是如此。该公司表示，以后将有其他方式访问其“群组音量控制”功能，包括从 Android 智能手机锁定屏幕或 Google Nest Hub 等智能显示器。 
+
+在 Sonos 于 2022 年 赢得针对谷歌的专利诉讼后，谷歌被迫删除一些多房间音频功能。但去年，美国地区法官推翻了之前的裁决，并指责 Sonos 是专利流氓。谷歌没有浪费任何时间，而是迅速着手将功能重新带入其生态系统，让用户一次将扬声器合并到多个扬声器组中。 
+
+
+截图：Wes Davis / The Verge
+在 Android（左）和 iOS（右）上的 Google Home 应用中控制群组音量。
+
+Google 通常会随着时间的推移推出新功能，但该公司在 Nest Community 帖子中并未提及有关此更改的任何信息，因此它可能只是打开了服务器端开关，为所有人启用此功能。尽管它特别提到了 Android 版 Google Home 应用，但在 iOS 应用中调整扬声器组的音量也是可行的——尽管没有花哨的“正在播放”用户界面，也没有使用手机音量按钮控制音量的功能（除非您专门从打开输出选择器的 YouTube Music 应用等中执行此操作）。
+我应该注意，我们无法在智能手机上使用 Google Assistant 来更改扬声器组的音量。谷歌没有立即回应要求提供更多信息的请求。]]></description>
+      <guid>https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit</guid>
+      <pubDate>Wed, 29 May 2024 21:58:17 GMT</pubDate>
+    </item>
     <item>
       <title>《最终幻想 VII 重生》首次折扣优惠 15 美元</title>
       <link>https://www.theverge.com/2024/5/29/24167183/final-fantasy-vii-rebirth-deal-sale-ps5</link>
@@ -16,9 +85,9 @@
 
 最终幻想 VII 重生 — 计划中的三部曲中的第二部游戏 — 已经在 PlayStation 5 上发布几个月了，值得继续这一旅程，尤其是在 亚马逊、百思买 和 GameStop。
 
-Rebirth 紧接着原作，克劳德·斯特莱夫带领他的战友们在广阔的开放世界中寻找萨菲罗斯。后者提出了一种自私的、威胁人类的方法来阻止心怀恶意和粗心大意的神罗公司剥夺地球的自然能源，这显然不会让一群正直的主角们接受。
-与 PS1 原版相比，Square Enix 将米德加（事实上是该地区命脉的大都市）周围的城市扩大到如此广泛，以至于许多标志性地点现在都具有几十年前不可能达到的丰富性和深度。
-由于大量的附加内容和迷你游戏（包括卡牌战斗、陆行鸟赛跑和偶尔的谜题），世界上也有很多事情要做。有些人可能会觉得它有点太多了，就像安德鲁·韦伯斯特在The Verge的评论中所说的那样，但如果你只对主线剧情感兴趣的话，大部分内容基本上都可以跳过。我还没有开始深入研究它，因为我还在品味 2020 年的重制版，但我从不少我信任的爱好者那里听说，他们发誓Rebirth 很有可能争夺年度最佳游戏。
+Rebirth 紧接着原作，克劳德·斯特莱夫带领他的战友们在广阔的开放世界中寻找萨菲罗斯。后者提出了一种自私的、威胁人类的方法来阻止心怀恶意和粗心大意的神罗公司剥夺地球的自然能源，而这显然不会让一群正直的主角们接受。
+与 PS1 原版相比，Square Enix 将米德加（事实上是该地区命脉的大都市）周围的城市扩展得如此之广，以至于许多标志性地点现在都具有几十年前不可能达到的丰富性和深度。
+由于大量的附加内容和迷你游戏（包括卡牌战斗、陆行鸟赛跑和偶尔的谜题），世界上也有很多事情要做。有些人可能会觉得它有点太多了，就像安德鲁·韦伯斯特在The Verge的评论中所说的那样，但如果你只对主线剧情感兴趣的话，大部分内容基本上可以跳过。我还没有开始深入研究它，因为我还在品味 2020 年的重制版，但我从不少我信任的爱好者那里听说，他们发誓重生很有可能争夺年度最佳游戏。
 ]]></description>
       <guid>https://www.theverge.com/2024/5/29/24167183/final-fantasy-vii-rebirth-deal-sale-ps5</guid>
       <pubDate>Wed, 29 May 2024 20:45:49 GMT</pubDate>
@@ -98,68 +167,6 @@ GIF：Google
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24166583/marvel-what-if-immersive-story-apple-vision-pro-interactive</guid>
       <pubDate>Wed, 29 May 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 表示，它删除了包括来自以色列和中国的六个影响力活动</title>
-      <link>https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel</link>
-      <description><![CDATA[
-
-插图：Nick Barclay / The Verge
-
-Meta 表示，它严厉打击了其平台上的宣传活动，其中包括利用人工智能影响政治话语并制造出某些观点得到更广泛支持的假象，据其 季度威胁报告今天发布。一些活动推动有关时事的政治叙事，包括来自以色列和伊朗的活动，这些活动发布支持以色列政府的帖子。
-这些网络使用 Facebook 和 Instagram 账户试图影响世界各地的政治议程。这些活动——其中一些也来自孟加拉国、中国和克罗地亚——使用虚假账户发布支持政治运动的帖子、宣传虚假新闻媒体或评论合法新闻机构的帖子。
-例如，一个源自中国的网络由数十个 Instagram 和 Facebook 账户、页面和群组组成，用于针对全球锡克教社区，Meta 说。另一个追溯到以色列的活动使用了 500 多个 Facebook 和 Instagram 账户，冒充当地犹太学生、非裔美国人和“关心”的公民，赞扬以色列的军事行动并讨论校园反犹太主义等类型的内容。 
-Meta 写道，这两个网络分享的部分内容很可能是使用生成式 AI 工具创建的。Meta 发现，中国竞选团队的账户分享了 AI 生成的图片，以色列竞选团队发布了 AI 生成的评论。报告称，目前，由 AI 驱动的影响力活动还不够复杂，无法逃避现有的检测系统。
-社交媒体平台上经常发现影响力活动。早在 5 月，TikTok 就表示已在其平台上发现并破坏了十几个此类网络，其中一个被追踪到来自中国。]]></description>
-      <guid>https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel</guid>
-      <pubDate>Wed, 29 May 2024 18:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Halide 开发人员推出适用于 iPhone 的专业视频应用 Kino</title>
-      <link>https://www.theverge.com/2024/5/29/24167144/kino-iphone-video-app-prores-log</link>
-      <description><![CDATA[
-
-Kino 应用的自定义录制设置。 |图片：Lux
-
-Lux 的 Halide 应用因其易于使用的专业级功能而受到摄影师的欢迎，现在它推出了 Kino，这是一款专门用于 iPhone 的视频捕捉应用，同样专注于支持专业人士所需的功能。
-Halide 旨在利用新款 iPhone 上的 Apple RAW 摄影支持，而 Kino 则瞄准 iPhone 15 Pro 对以 Log 格式编码的 ProRes 视频的支持。如果您不知道那是什么或从未听说过色彩分级，以下是我们对 15 Pro 的评论中的描述：“这是摄像师喜欢的超平面色彩配置文件，因为它可以让他们更好地控制最终产品的外观。”我们的视频制作人 Vjeran Pavic 可以讲得更详细。
-Kino 将在 App Store 上架，截至周五的优惠价为 9.99 美元，之后将升至 19.99 美元。
-
-
-图片：Lux
-Kino 应用中即时调色预设。
-
-
-Kino 的一大特色是“即时调色”，它允许用户使用调色预设拍摄素材。您还可以在 Kino 应用程序中以 Apple Log 格式录制，稍后预览/添加预设。Kino 还具有 AutoMotion，可“自动选择最佳曝光设置以实现电影运动模糊。”
-
-
-图像：Lux
-
-Kino 还具有添加 LUT（查找表）的功能，可让您使用数学公式改变素材的外观。您甚至可以添加自己的自定义 LUT，这是 Apple 的 Final Cut Pro iPad 应用程序中明显缺失的功能。
-据开发人员称，“我们的任何应用程序都不会收集或收集数据，也不会分析您的视频和照片”，并且其中也没有生成式 AI 训练。虽然 Log 支持是 iPhone 15 Pro 独有的功能，但它可以在运行 iOS 17 或更高版本的任何设备上运行。]]></description>
-      <guid>https://www.theverge.com/2024/5/29/24167144/kino-iphone-video-app-prores-log</guid>
-      <pubDate>Wed, 29 May 2024 18:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼撤回对 Neil Druckmann 的采访，理由是“存在重大错误和不准确之处”</title>
-      <link>https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction</guid>
-      <pubDate>Wed, 29 May 2024 18:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>核委员会称两名三星工人受到辐射</title>
-      <link>https://www.theverge.com/2024/5/29/24167101/samsung-investigated-radiation-factory-workers-exposed-south-korea</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-韩国 核安全与安保委员会 (NSSC) 宣布，三星两名员工于 5 月 27 日接受 X 射线照射后入院，目前正接受调查。据 CNBC 报道，此次辐射发生在三星位于首尔以南约 25 英里的器兴芯片工厂。。
-这两名员工在使用一台用 X 射线对材料进行分析的机器时受到了辐射。 NSSC 在新闻稿中写道，两人均因手指受到辐射而出现“异常症状”。该机构表示，两人的血液检测结果正常，但计划进行后续检测。该机器的使用显然已被暂停，该机构表示计划查明他们到底受到了多少辐射。
-三星在给 CNBC 的一份声明中表示，这些员工“手上意外暴露了 X 射线”。该公司进一步告诉该媒体，它支持员工的治疗，并正在与当局合作。同时，NSSC 表示，如果发现三星违反了任何安全法，它将采取进一步措施。
-这并不是三星第一次被指控涉及其员工的辐射暴露。 韩国政府将 2012 年夺去该公司一名前员工生命的癌症与其在该公司一家工厂工作期间接触辐射和化学物质联系起来。 2015 年，该公司向工厂中罹患癌症的工人道歉，并设立基金对这些工人以及已故前雇员的家属进行赔偿。]]></description>
-      <guid>https://www.theverge.com/2024/5/29/24167101/samsung-investigated-radiation-factory-workers-exposed-south-korea</guid>
-      <pubDate>Wed, 29 May 2024 18:03:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
