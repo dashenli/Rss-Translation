@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 29 May 2024 21:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 01:00:41 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺流 70：他们偷走了你的大脑</title>
+      <link>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</link>
+      <description><![CDATA[如果 WBD 失去 NBA，WBD 会采取其他策略，我们会回复大量听众来信，而 Julia 也会发布一些重大的职业新闻。[Downstream+ 订阅者还可以听到我们讨论 Netflix 潜在的体育未来以及广播电视的面貌变化。]…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</guid>
+      <pubDate>Thu, 30 May 2024 23:04:56 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 556：米卡，我们可能会打架</title>
       <link>https://sixcolors.com/podcast/2024/05/clockwise-556-mikah-we-might-fight/</link>
@@ -54,7 +61,7 @@
       <title>（赞助商）买不起网络安全保险？原因如下。</title>
       <link>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</link>
       <description><![CDATA[
-9 月，米高梅度假村遭受1 亿美元黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
+当米高梅度假村在 9 月遭受1 亿美元的黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</guid>
       <pubDate>Mon, 27 May 2024 16:00:19 GMT</pubDate>
     </item>
@@ -86,7 +93,7 @@ Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
     <item>
       <title>是的，Mac 上的安全擦除是安全的 ↦</title>
       <link>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</link>
-      <description><![CDATA[最近有很多关于照片中错误的信息被曝光，这个错误导致一些已删除的内容重新出现在图库中，其中包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
+      <description><![CDATA[最近有很多关于照片中错误信息的讨论，该错误导致一些已删除的项目重新出现在图库中，包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</guid>
       <pubDate>Thu, 23 May 2024 17:33:25 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@ Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
 在过去的一年里，科技行业面临着越来越大的压力，要求它们利用 AI 做事情。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</guid>
       <pubDate>Wed, 22 May 2024 15:43:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 的未来即将到来，但代价将十分高昂 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2340417/iphone-ultra-features-thin-design-price.html</link>
-      <description><![CDATA[考虑到 iPhone 的巨大成功，今天可能很难相信，但在该产品问世初期，只有一种 iPhone 型号在售。…]]></description>
-      <guid>https://www.macworld.com/article/2340417/iphone-ultra-features-thin-design-price.html</guid>
-      <pubDate>Wed, 22 May 2024 15:39:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
