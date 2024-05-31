@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 30 May 2024 01:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 12:28:05 GMT</lastBuildDate>
+    <item>
+      <title>集体#843</title>
+      <link>https://tympanus.net/codrops/collective/collective-842/</link>
+      <description><![CDATA[UI 密度 * 扁平星球 * 魔法 UI * NocoBase * CSS :has()，上帝选择器]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-842/</guid>
+      <pubDate>Fri, 31 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>悬停运动简介动画</title>
       <link>https://tympanus.net/codrops/2024/05/29/hover-motion-intro-animation/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 28 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站汇总：Webflow 特别版#4</title>
+      <title>励志网站汇总：Webflow 特刊#4</title>
       <link>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</link>
       <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>集体#840</title>
       <link>https://tympanus.net/codrops/collective/collective-840/</link>
-      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越范围语法 * 最佳意图屏障（ARIA 版）]]></description>
+      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越的范围语法 * 最佳意图屏障（ARIA 版）]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
       <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[TypeSpec * 设计系统中的可组合性 * 精细 UI 小型实验室]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-838/</guid>
       <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Vendredi Society</title>
-      <link>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</link>
-      <description><![CDATA[光是引人注目已经不够了。关键在于吸引注意力。然后一起前进。同步。]]></description>
-      <guid>https://tympanus.net/codrops/2024/05/14/case-study-vendredi-society/</guid>
-      <pubDate>Tue, 14 May 2024 10:40:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
