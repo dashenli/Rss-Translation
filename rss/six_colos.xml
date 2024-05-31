@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 31 May 2024 06:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 18:19:37 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）科利德</title>
+      <link>https://sixcolors.com/sponsor/2024/05/kolide-43/</link>
+      <description><![CDATA[感谢 Kolide 本周赞助 Six Colors。Kolide 帮助其客户保持设备合规，从而保证其公司数据的安全。
+Kolide 最近发现网络责任保险问题有所增加。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/05/kolide-43/</guid>
+      <pubDate>Fri, 31 May 2024 16:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>让电池更换更加简单 ↦</title>
       <link>https://sixcolors.com/link/2024/05/making-battery-replacements-easier/</link>
@@ -114,13 +122,6 @@ Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
       <description><![CDATA[最近有很多关于照片中错误的信息被曝光，这个错误导致一些已删除的内容重新出现在图库中，其中包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</guid>
       <pubDate>Thu, 23 May 2024 17:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 555：我对自己撒谎</title>
-      <link>https://sixcolors.com/podcast/2024/05/clockwise-555-i-lie-to-myself/</link>
-      <description><![CDATA[我们会在 iPad 上同时执行多项任务吗？我们觉得哪些 AI 用途有用？此外，我们使用的电子邮件应用以及我们是否尝试过克隆自己的声音。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/clockwise-555-i-lie-to-myself/</guid>
-      <pubDate>Wed, 22 May 2024 20:30:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
