@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 31 May 2024 12:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 15:18:16 GMT</lastBuildDate>
+    <item>
+      <title>本周荷兰科技</title>
+      <link>https://thenextweb.com/news/this-week-in-dutch-tech-3</link>
+      <description><![CDATA[星期五终于到了，本周荷兰的科技新闻汇总也到了。我们经历了七天充满活力的数字发展。从银行黑客和 Booking 假冒到恶意软件和模因，五月底充满了各种活动。以下是我们挑选的最热门故事、初创公司和演讲。   我们正在写的内容 ESA 卫星将荷兰技术发射到太空研究气候变化 荷兰、法国和德国领导“有史以来最大规模”的僵尸网络刺杀行动 我们正在读的内容 Geert Wilders 的深度伪造通过 Meta 和 X 过滤器（BNR） 消费者协会称 Booking 以虚假折扣和不完整的价格误导客户（NL Times）…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/this-week-in-dutch-tech-3</guid>
+      <pubDate>Fri, 31 May 2024 12:31:31 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉供应商意法半导体将在意大利建造价值 50 亿欧元的电动汽车芯片工厂</title>
       <link>https://thenextweb.com/news/stmicroelectronics-building-ev-chip-fab-italy</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[荷兰科技公司已将一颗用于分析气候变化的卫星送入太空。EarthCARE 航天器是欧洲航天局 (ESA) 与日本 JAXA 合作开发的，今天搭载 SpaceX Falcon 9 号火箭升空。该任务配备了四种仪器，旨在发掘有关云和气溶胶对气候影响的新见解。荷兰科技在这些计划中占有重要地位。一项关键贡献来自总部位于海牙的研究机构 TNO。这家非营利组织共同创建了 EarthCARE 的多光谱成像仪 (MSI)，它将生成有关云和气溶胶的数据。卫星上的两个摄像头......这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/esa-satellite-launches-dutch-tech-into-space-to-study-climate-change</guid>
       <pubDate>Wed, 29 May 2024 14:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着幻觉逐渐消失，人工智能正在深入研究科学研究</title>
-      <link>https://thenextweb.com/news/iris-reducing-ai-hallucinations-in-scientific-research</link>
-      <description><![CDATA[科学研究已成为人工智能最有前途的应用之一。它也成为最具争议的应用之一。在世界各地，科技公司正在将人工智能的分析能力转化为学术工具。渐渐地，它们进入了研究过程的每个阶段。如今，科学家可以使用 TLDR 来总结研究论文，使用 Litmaps 来查找研究空白，使用 Consensus 来发现专家学者的见解，使用 HeyScience 进行同行评审。投资者对这一进展的兴趣日益浓厚。去年，Elicit 研究工作流程系统在推出后的几个月内筹集了 900 万美元，而加州另一家初创公司 NobleAI 则获得了 1700 万欧元的融资…这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/iris-reducing-ai-hallucinations-in-scientific-research</guid>
-      <pubDate>Wed, 29 May 2024 12:13:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
