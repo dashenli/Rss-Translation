@@ -4,7 +4,25 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 31 May 2024 01:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:19:54 GMT</lastBuildDate>
+    <item>
+      <title>让电池更换更加简单 ↦</title>
+      <link>https://sixcolors.com/link/2024/05/making-battery-replacements-easier/</link>
+      <description><![CDATA[Nick Heer 链接到 Jeff Johnson 的一篇关于 Apple 更换 MacBook 电池的繁琐政策的文章，指出了移动设备的基本事实：
+
+…最终所有设备的电池都需要更换。…]]></description>
+      <guid>https://sixcolors.com/link/2024/05/making-battery-replacements-easier/</guid>
+      <pubDate>Fri, 31 May 2024 04:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>南极的网速很慢 ↦</title>
+      <link>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</link>
+      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在在家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下工作效果很差的信息：
+
+在南极可以下载，但会受到独特的限制。…]]></description>
+      <guid>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</guid>
+      <pubDate>Fri, 31 May 2024 03:27:40 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺流 70：他们偷走了你的大脑</title>
       <link>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</link>
@@ -61,7 +79,7 @@
       <title>（赞助商）买不起网络安全保险？原因如下。</title>
       <link>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</link>
       <description><![CDATA[
-当米高梅度假村在 9 月遭受1 亿美元的黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
+9 月，米高梅度假村遭受1 亿美元黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</guid>
       <pubDate>Mon, 27 May 2024 16:00:19 GMT</pubDate>
     </item>
@@ -93,7 +111,7 @@ Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
     <item>
       <title>是的，Mac 上的安全擦除是安全的 ↦</title>
       <link>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</link>
-      <description><![CDATA[最近有很多关于照片中错误信息的讨论，该错误导致一些已删除的项目重新出现在图库中，包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
+      <description><![CDATA[最近有很多关于照片中错误的信息被曝光，这个错误导致一些已删除的内容重新出现在图库中，其中包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</guid>
       <pubDate>Thu, 23 May 2024 17:33:25 GMT</pubDate>
     </item>
@@ -103,21 +121,6 @@ Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
       <description><![CDATA[我们会在 iPad 上同时执行多项任务吗？我们觉得哪些 AI 用途有用？此外，我们使用的电子邮件应用以及我们是否尝试过克隆自己的声音。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/clockwise-555-i-lie-to-myself/</guid>
       <pubDate>Wed, 22 May 2024 20:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 496：时间旅行爸爸：游戏</title>
-      <link>https://sixcolors.com/podcast/2024/05/the-rebound-496-time-traveling-dad-the-game/</link>
-      <description><![CDATA[如何解决像 iPadOS 这样的问题？…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-496-time-traveling-dad-the-game/</guid>
-      <pubDate>Wed, 22 May 2024 18:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>WWDC 上关于 AI 的注意事项</title>
-      <link>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</link>
-      <description><![CDATA[想象一下。（照片插图由 Joe Rosensteel 提供）
-在过去的一年里，科技行业面临着越来越大的压力，要求它们利用 AI 做事情。…]]></description>
-      <guid>https://sixcolors.com/post/2024/05/the-dos-and-donts-of-ai-at-wwdc/</guid>
-      <pubDate>Wed, 22 May 2024 15:43:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
