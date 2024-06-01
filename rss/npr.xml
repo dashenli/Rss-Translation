@@ -4,9 +4,16 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sat, 01 Jun 2024 12:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 15:12:49 GMT</lastBuildDate>
     <item>
-      <title>折扣又流行起来，因为美国人厌倦了支付更多费用</title>
+      <title>在历史性选举中，南非非国大首次失去多数席位</title>
+      <link>https://www.npr.org/2024/06/01/nx-s1-4987616/south-africa-election-results</link>
+      <description><![CDATA[在南非，执政党非洲人国民大会首次失去绝对多数席位，这是一个令人震惊的时刻。]]></description>
+      <guid>https://www.npr.org/2024/06/01/nx-s1-4987616/south-africa-election-results</guid>
+      <pubDate>Sat, 01 Jun 2024 12:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>折扣又流行起来了，因为美国人厌倦了支付更高的价格</title>
       <link>https://www.npr.org/2024/06/01/nx-s1-4987202/discounting-is-back-in-fashion-as-americans-get-tired-of-paying-more</link>
       <description><![CDATA[由于购物者抵制价格上涨，四月份消费者支出仅小幅上涨。]]></description>
       <guid>https://www.npr.org/2024/06/01/nx-s1-4987202/discounting-is-back-in-fashion-as-americans-get-tired-of-paying-more</guid>
@@ -20,17 +27,17 @@
       <pubDate>Sat, 01 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宇航员乘坐波音公司的新星际飞船时遭遇延误和行李丢失</title>
-      <link>https://www.npr.org/2024/05/31/g-s1-2265/starliner-launch-astronauts-boeing-spacecraft-missing-luggage</link>
-      <description><![CDATA[波音星际客机的发射比计划晚了几年，美国宇航局不得不卸下机组人员的行李箱，为最后一刻的货物腾出空间。]]></description>
-      <guid>https://www.npr.org/2024/05/31/g-s1-2265/starliner-launch-astronauts-boeing-spacecraft-missing-luggage</guid>
-      <pubDate>Sat, 01 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亲巴勒斯坦抗议者高呼“起义”口号。但这意味着什么？</title>
       <link>https://www.npr.org/2024/06/01/nx-s1-4958278/intifada-chants-pro-palestinian-protests-israel</link>
       <description><![CDATA[呼吁“起义”的口号一直是亲巴勒斯坦学生抗议活动的一大特色。这是一个充满感情色彩的词语，持反对以巴冲突观点的人对它的用法有不同的看法。]]></description>
       <guid>https://www.npr.org/2024/06/01/nx-s1-4958278/intifada-chants-pro-palestinian-protests-israel</guid>
+      <pubDate>Sat, 01 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇航员乘坐波音公司的新星际飞船时遭遇延误和行李丢失</title>
+      <link>https://www.npr.org/2024/05/31/g-s1-2265/starliner-launch-astronauts-boeing-spacecraft-missing-luggage</link>
+      <description><![CDATA[波音星际客机的发射比计划晚了几年，美国宇航局不得不卸下机组人员的行李箱，为最后一刻的货物腾出空间。]]></description>
+      <guid>https://www.npr.org/2024/05/31/g-s1-2265/starliner-launch-astronauts-boeing-spacecraft-missing-luggage</guid>
       <pubDate>Sat, 01 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -43,7 +50,7 @@
     <item>
       <title>佛蒙特州成为第一个要求石油公司赔偿气候变化损害的州</title>
       <link>https://www.npr.org/2024/06/01/g-s1-2359/vermont-first-state-oil-companies-pay-climate-change-damages</link>
-      <description><![CDATA[该州的共和党州长允许该法案在没有他签署的情况下成为法律。此举是在该州遭受夏季灾难性洪水和其他极端天气造成的破坏之后做出的。]]></description>
+      <description><![CDATA[该州的共和党州长允许该法案在未经他签署的情况下成为法律。此举是在该州遭受夏季灾难性洪水和其他极端天气破坏之后做出的。]]></description>
       <guid>https://www.npr.org/2024/06/01/g-s1-2359/vermont-first-state-oil-companies-pay-climate-change-damages</guid>
       <pubDate>Sat, 01 Jun 2024 05:19:49 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>《2000 头骡子》选举阴谋论电影发行商道歉</title>
       <link>https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology</link>
-      <description><![CDATA[塞勒姆传媒发行了《2,000 骡子》，该片声称民主党密谋窃取 2020 年大选结果。现在该公司已道歉，并将停止该片的任何未来发行。]]></description>
+      <description><![CDATA[塞勒姆传媒发行了《2,000 骡子》，该片声称民主党密谋窃取 2020 年大选。现在该公司已道歉，并将停止该片的任何未来发行。]]></description>
       <guid>https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology</guid>
       <pubDate>Fri, 31 May 2024 22:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>极光会回来吗？</title>
-      <link>https://www.npr.org/2024/05/31/nx-s1-4987130/auroras-northern-lights-solar-sun</link>
-      <description><![CDATA[五月初带来美丽夜空的同一太阳区正在卷土重来。但一位太空气象专家告诉 NPR，情况已经发生了变化。]]></description>
-      <guid>https://www.npr.org/2024/05/31/nx-s1-4987130/auroras-northern-lights-solar-sun</guid>
-      <pubDate>Fri, 31 May 2024 19:58:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
