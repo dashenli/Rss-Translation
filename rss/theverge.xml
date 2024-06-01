@@ -4,7 +4,22 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Jun 2024 01:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 03:17:47 GMT</lastBuildDate>
+    <item>
+      <title>The Verge 的 2024 年父亲节礼物指南</title>
+      <link>https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge, Getty Images
+
+我们精心挑选了一系列适合所有父亲的礼物，从桌面游戏和工具到我们最喜欢的一些科技产品。 在父亲节与亲爱的老爸共度时光确实可能这是你能送给他的最好的礼物，但我敢打赌，在 6 月 16 日星期日，他不会拒绝 Garmin 或一套花哨的工具。毕竟，谁能抵挡完美装备的诱惑呢？
+
+如果你不知道下个月该送什么给你爸爸（或任何父亲形象），我们已经收集了一系列久经考验的礼物创意，每一种都得到了 Verge 工作人员的大力认可。我们为父亲们推荐的产品涵盖了整个科技领域，从豪华降噪耳机和超便携式壁式充电器到基于 Android 的电子书阅读器，和你的智能手机一样小。我们甚至为那些拒绝长大的父亲提供了一些模拟选择和建议，因为说实话，乐高套装在过去十年里只变得更好了。
+随意使用下面的过滤器在价格点之间跳转。如果您仍在为父亲、丈夫、伴侣、爷爷等寻找完美的礼物，请务必仔细阅读我们完整的礼品指南。
+]]></description>
+      <guid>https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets</guid>
+      <pubDate>Sat, 01 Jun 2024 01:18:00 GMT</pubDate>
+    </item>
     <item>
       <title>Live Nation 花了 11 天才确认 Ticketmaster 大规模数据泄露事件</title>
       <link>https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation</link>
@@ -145,29 +160,6 @@ Cath Virginia / The Verge |图片来自 Getty Images
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/5/31/24167893/sony-days-of-play-sale-2024-ps5-slim-digital-edition-psvr-2-games-deal</guid>
       <pubDate>Fri, 31 May 2024 18:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 的新召回功能已被破解，可在不受支持的硬件上运行</title>
-      <link>https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware</link>
-      <description><![CDATA[
-
-图片：微软
-
-微软上周发布了新款 Copilot Plus PC，旨在为 Windows 带来新一波 AI 功能仅用于新笔记本电脑。现在，不到两周后，Windows 爱好者已经成功破解了微软的旗舰AI 驱动的 Recall 功能，以便在不受支持的硬件上运行。
-Recall 利用新 Copilot Plus PC 上的本地 AI 模型在后台运行，并拍摄您在 PC 上执行或看到的任何内容的快照。然后，您将获得一个可以浏览的时间线，并能够搜索 PC 上的照片、文档、对话或其他任何内容。微软将 Recall 定位为需要在新 PC 上配备最新的神经处理单元 (NPU)，但实际上您可以在较旧的 Arm 驱动硬件上运行它。
-Windows 观察者 Albacore 已 创建了一个名为 Amperage 的工具，该工具可在具有较旧的 Qualcomm Snapdragon 芯片、Microsoft 的 SQ 处理器或 Ampere 芯片组的设备上启用 Recall。您需要在其中一台 Windows on Arm 设备上安装最新的 Windows 11 24H2 更新，然后该工具将解锁并启用 Recall。
-目前，这仅适用于较旧的 Windows on Arm 硬件，但鉴于 Copilot Plus PC 即将由 AMD 和英特尔推出，我们可能会在未来几周或几个月内看到它更广泛地解锁。微软目前仅发布了适用于 Windows on Arm 平台的 AI 组件，这是在英特尔和 AMD 驱动的硬件上运行该平台的限制因素。
-
-
-这是 Windows 11 的 Recall 功能的首次启动体验。目前，它可以解锁以在无需专用 NPU 的 ARM 设备上的 Windows 上运行，因此我预计我们很快也会在常规 x64 设备上看到它解锁 pic.twitter.com/YGvOlwVI5u— Tom Warren (@tomwarren) 2024 年 5 月 31 日
-
-
-从技术上讲，您可以在 x86 设备上解锁 Recall，但在 Microsoft 发布启动和运行所需的 x64 AI 组件之前，该应用程序不会发挥太大作用。有传言称 AMD 和英特尔都即将发布 Copilot Plus PC，因此微软为这些机器提供的 AI 组件可能很快就会出现。今天早些时候，我设法在 x64 Windows 11 虚拟机上运行了 Recall，只是为了测试初始的首次运行体验。
-我们可能很快就会看到更多微软的 Copilot Plus PC 功能被移植到现有硬件上。Recall 被解锁以在更老的 Arm 硬件上运行，这无疑会引发疑问，为什么微软要将这项功能和许多其他 AI 驱动的 Windows 功能限制在具有每秒可执行超过 40 万亿次操作 (TOPS) 的 NPU 的新设备上。
-微软可能会辩称，40 TOPS 的要求为未来 AI 驱动的体验设定了基准，超越了 Recall、Image Cocreator 和微软上周展示的其他 AI 功能。它还确保这些功能在单独的 NPU 上运行，而不是接管 CPU 和 GPU 并缩短笔记本电脑的电池寿命。但现实情况是，Copilot Plus PC 也是为微软及其 OEM 合作伙伴设计的，用于在IDC 估计今年 PC 销量将随着支持 AI 的 PC 的出现而增长。
-]]></description>
-      <guid>https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware</guid>
-      <pubDate>Fri, 31 May 2024 16:27:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
