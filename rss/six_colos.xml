@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 31 May 2024 18:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 18:20:33 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）Magic Lasso Adblock：极其私密和安全的 Safari 网页浏览</title>
+      <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-5/</link>
+      <description><![CDATA[
+在线隐私不仅仅是您应该希望的事情，也是您应该期待的事情。您应该确保您的浏览历史记录保持私密，并且不会被广告网络收集。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-5/</guid>
+      <pubDate>Mon, 03 Jun 2024 16:00:57 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）科利德</title>
       <link>https://sixcolors.com/sponsor/2024/05/kolide-43/</link>
@@ -25,7 +33,7 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
     <item>
       <title>南极的网速很慢 ↦</title>
       <link>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</link>
-      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在在家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下工作效果很差的信息：
+      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在已回家，但这里有一篇意外的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下运行效果很差的信息：
 
 在南极可以下载，但会受到独特的限制。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</guid>
@@ -115,13 +123,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/apple-explains-resurrected-photos-bug/</guid>
       <pubDate>Fri, 24 May 2024 13:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，Mac 上的安全擦除是安全的 ↦</title>
-      <link>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</link>
-      <description><![CDATA[最近有很多关于照片中错误的信息被曝光，这个错误导致一些已删除的内容重新出现在图库中，其中包括一些（明显的）错误信息，这些信息夸大了整个故事。…]]></description>
-      <guid>https://sixcolors.com/link/2024/05/yes-secure-erase-on-mac-is-secure/</guid>
-      <pubDate>Thu, 23 May 2024 17:33:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
