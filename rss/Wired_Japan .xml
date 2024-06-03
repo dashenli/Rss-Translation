@@ -4,9 +4,23 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 02 Jun 2024 21:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 01:01:03 GMT</lastBuildDate>
     <item>
-      <title>新SNS“Maven”消除追随者，旨在机缘巧合和深入讨论</title>
+      <title>“小型人工智能模型”会成为计算的未来吗？</title>
+      <link>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</link>
+      <description><![CDATA[微软的新研究表明，可以创建在智能手机和笔记本电脑上运行的微型人工智能模型，而不会影响性能。这项技术有潜力为人工智能开辟新的用途。]]></description>
+      <guid>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</guid>
+      <pubDate>Sun, 02 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建称为人工智能聊天机器人的“数字变形”</title>
+      <link>https://wired.jp/article/sz-the-lifelike-illusions-of-ai/</link>
+      <description><![CDATA[几十年来，动画师、玩具设计师和视频游戏开发者一直在创造充满活力的角色。现在，当我们对人工智能聊天机器人有同样的感觉时，那里发生了什么？]]></description>
+      <guid>https://wired.jp/article/sz-the-lifelike-illusions-of-ai/</guid>
+      <pubDate>Sun, 02 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新SNS“Maven”消除追随者，旨在偶然发现和深入讨论</title>
       <link>https://wired.jp/article/maven-social-network-that-eliminates-followers-and-stress/</link>
       <description><![CDATA[Maven 是一个由 Twitter 联合创始人埃文·威廉姆斯 (Evan Williams) 支持的新社交网络，旨在取消关注者和点赞，并使用算法来鼓励偶遇和深入讨论。]]></description>
       <guid>https://wired.jp/article/maven-social-network-that-eliminates-followers-and-stress/</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>从 Fitbit 到 Garmin，再到 Apple Watch。 15 款健身追踪器（按功能分类）</title>
       <link>https://wired.jp/gallery/best-fitness-tracker/</link>
-      <description><![CDATA[跑步、户外活动、睡眠追踪等各种功能的健身追踪器层出不穷。 《连线》编辑部负责产品评论的编辑们整理了一系列满足各种需求的“最佳”产品。]]></description>
+      <description><![CDATA[跑步、户外活动、睡眠追踪等各种功能的健身追踪器层出不穷。 《连线》编辑部负责产品评论的编辑们整理出了一系列满足各种需求的“最佳”产品。]]></description>
       <guid>https://wired.jp/gallery/best-fitness-tracker/</guid>
       <pubDate>Sun, 02 Jun 2024 01:00:00 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Sat, 01 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>学校这个社会缩影中质疑“真理”的意义：专访电影《Arifureta Classroom》导演</title>
+      <title>社会缩影——学校里“真相”的意义被质疑——专访电影《阿丽贝塔教室》导演</title>
       <link>https://wired.jp/article/das-lehrerzimmer-ilker-catak/</link>
       <description><![CDATA[德国电影《平凡的教室》描绘了初中发生盗窃案后学校秩序崩溃的故事。这部获得第 96 届奥斯卡金像奖国际故事片奖提名、将于 2024 年 5 月 17 日在日本上映的悬疑惊悚片描绘的共同威胁是什么？我问导演。]]></description>
       <guid>https://wired.jp/article/das-lehrerzimmer-ilker-catak/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>“文字、疯狂、力量”：科幻小说家吉上亮在《疯狂的麦克斯：福瑞奥莎》试映会上的经历</title>
       <link>https://wired.jp/article/furiosa-a-mad-max-saga-ryo-yoshigami/</link>
-      <description><![CDATA[电影《疯狂的麦克斯：愤怒》今天上映。 IMAX、4D、杜比影院、ScreenX...相信很多读者都想知道在哪里可以观看。最近，“一直选择IMAX”的科幻作家吉上亮在预览活动中体验了ULTRA 4DX。如果说前作是《Mad》，那么本作就是《Word》，请欣赏吉上写的这篇全速报告。]]></description>
+      <description><![CDATA[电影《疯狂的麦克斯：愤怒》今天上映。 IMAX、4D、杜比影院、ScreenX...相信很多读者都想知道在哪里可以观看。最近，“我通常选择IMAX”的科幻作家吉上亮在预览活动中体验了ULTRA 4DX。如果说前作是《Mad》，那么本作就是《Word》，请欣赏吉上写的这篇全速报告。]]></description>
       <guid>https://wired.jp/article/furiosa-a-mad-max-saga-ryo-yoshigami/</guid>
       <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[脑机接口（BCI）由埃隆·马斯克的 Neuralink 开发。我们请第一位测试对象，一位30岁的男性，讲述他仅通过思考来操作电脑的经历，以及尽管四肢瘫痪仍能独立的经历。]]></description>
       <guid>https://wired.jp/article/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</guid>
       <pubDate>Wed, 29 May 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何打造一座对艺术家和创作者开放的城市：杉山修和《Hills》的挑战</title>
-      <link>https://wired.jp/article/mori-building-ou-sugiyama/</link>
-      <description><![CDATA[东京创意城市的新形态正在以虎之门之丘的TOKYO NODE为起点诞生，例如Rhizomatiks x ELEVENPLAY、蜷川实花的体验式展览以及开放城市数据的XR黑客马拉松。这件事的主谋是森大厦的杉山修。]]></description>
-      <guid>https://wired.jp/article/mori-building-ou-sugiyama/</guid>
-      <pubDate>Wed, 29 May 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《兔子R1》评测：设计吸引人，但实用性仍存问题</title>
-      <link>https://wired.jp/article/rabbit-r1-review/</link>
-      <description><![CDATA[Rabbit 的人工智能设备“R1”现已上市，它只需与你交谈或指向你即可执行任务。我使用了一周后决定现在不是购买它的时候。很难找到它的用途。]]></description>
-      <guid>https://wired.jp/article/rabbit-r1-review/</guid>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
