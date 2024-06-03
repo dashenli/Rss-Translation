@@ -4,7 +4,23 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 12:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 15:17:42 GMT</lastBuildDate>
+    <item>
+      <title>线性方法：固执己见的软件</title>
+      <link>https://www.figma.com/blog/the-linear-method-opinionated-software/</link>
+      <description><![CDATA[Linear 团队如何构建产品，以及指导其工作的原则和流程
+]]></description>
+      <guid>https://www.figma.com/blog/the-linear-method-opinionated-software/</guid>
+      <pubDate>Mon, 03 Jun 2024 12:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么闹钟设计讲究人性</title>
+      <link>https://uxdesign.cc/why-alarm-clock-design-speaks-about-humanity-d85efa17c627</link>
+      <description><![CDATA[一场响亮的冒险。
+]]></description>
+      <guid>https://uxdesign.cc/why-alarm-clock-design-speaks-about-humanity-d85efa17c627</guid>
+      <pubDate>Mon, 03 Jun 2024 12:28:48 GMT</pubDate>
+    </item>
     <item>
       <title>逐步增强的 Popover 切换提示</title>
       <link>https://css-irl.info/progressively-enhanced-popover-toggletips/</link>
@@ -108,22 +124,6 @@
 ]]></description>
       <guid>https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/</guid>
       <pubDate>Thu, 30 May 2024 07:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>熟悉与新奇</title>
-      <link>https://lawsofux.com/articles/2024/familiar-vs-novel/</link>
-      <description><![CDATA[了解何时可以接受新颖性设计，甚至可能有利于新颖性设计。
-]]></description>
-      <guid>https://lawsofux.com/articles/2024/familiar-vs-novel/</guid>
-      <pubDate>Wed, 29 May 2024 12:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>手持设计：发现一流的移动设计灵感。</title>
-      <link>https://handheld.design/</link>
-      <description><![CDATA[每周精选最精美的移动设计灵感。
-]]></description>
-      <guid>https://handheld.design/</guid>
-      <pubDate>Wed, 29 May 2024 12:26:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
