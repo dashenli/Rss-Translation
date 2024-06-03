@@ -4,7 +4,7 @@
     <title>网页设计师仓库</title>
     <link>https://www.webdesignerdepot.com</link>
     <description>网页设计资源和教程</description>
-    <lastBuildDate>Mon, 03 Jun 2024 08:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 12:22:26 GMT</lastBuildDate>
     <item>
       <title>2024 年 6 月的 3 个基本设计趋势</title>
       <link>https://www.webdesignerdepot.com/design-trends-june-2024/</link>
@@ -20,11 +20,25 @@
       <pubDate>Mon, 20 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>如何减少网站的碳足迹</title>
+      <link>https://www.webdesignerdepot.com/reduce-website-carbon-footprints/</link>
+      <description><![CDATA[平均而言，每次浏览一个网页都会产生 4.61 克二氧化碳；对于整个网站而言，每年会产生数百公斤二氧化碳。]]></description>
+      <guid>https://www.webdesignerdepot.com/reduce-website-carbon-footprints/</guid>
+      <pubDate>Thu, 16 May 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
       <title>2024 年 5 月 20 个最佳新网站</title>
       <link>https://www.webdesignerdepot.com/best-websites-may-2024/</link>
       <description><![CDATA[欢迎阅读 5 月份最佳网站合集。本月，我们将重点介绍适合年轻人的彩色网站、适合成熟人士的单色网站，以及（令人惊讶的是）SWF 风格的加载屏幕。]]></description>
       <guid>https://www.webdesignerdepot.com/best-websites-may-2024/</guid>
       <pubDate>Mon, 13 May 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能是否已经扼杀了用户测试？</title>
+      <link>https://www.webdesignerdepot.com/ai-user-testing/</link>
+      <description><![CDATA[网页设计师使用用户测试来评估网站的功能和整体用户体验 (UX)。收集反馈的方法多种多样，但归根结底都是观察用户如何与 UI (用户界面) 交互。]]></description>
+      <guid>https://www.webdesignerdepot.com/ai-user-testing/</guid>
+      <pubDate>Wed, 08 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
       <title>2024 年 5 月，为设计师提供的激动人心的新工具</title>
@@ -46,20 +60,6 @@
       <description><![CDATA[就像网页设计一样，字体设计也遵循潮流。虽然总有空间容纳令人兴奋的局外人，但我们往往会在相似的时间看到类似的字体发布。]]></description>
       <guid>https://www.webdesignerdepot.com/best-fonts-april-2024/</guid>
       <pubDate>Mon, 29 Apr 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 5 月的 3 个基本设计趋势</title>
-      <link>https://www.webdesignerdepot.com/essential-design-trends-may-2024/</link>
-      <description><![CDATA[集成导航元素、交互式排版和数字套印是本月流行的三种网站设计趋势。让我们通过一些有趣的示例来了解每种设计趋势。]]></description>
-      <guid>https://www.webdesignerdepot.com/essential-design-trends-may-2024/</guid>
-      <pubDate>Mon, 22 Apr 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何撰写世界一流的网络内容</title>
-      <link>https://www.webdesignerdepot.com/write-web-content/</link>
-      <description><![CDATA[网络写作与所有其他格式都不同。我们通常不会在网上进行任何深度阅读；我们只是扫读。]]></description>
-      <guid>https://www.webdesignerdepot.com/write-web-content/</guid>
-      <pubDate>Wed, 17 Apr 2024 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
