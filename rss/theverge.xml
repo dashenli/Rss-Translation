@@ -4,7 +4,30 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 00:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:16:11 GMT</lastBuildDate>
+    <item>
+      <title>AMD 下一代 AI 笔记本电脑处理器也有新名字</title>
+      <link>https://www.theverge.com/2024/6/2/24168951/amd-ryzen-ai-9-300-series-hx-laptop-processors</link>
+      <description><![CDATA[
+
+图片：AMD
+
+AMD 在 2024 年台北国际电脑展上宣布推出用于生成式 AI 工作负载的下一代 Ryzen 笔记本电脑处理器：Ryzen AI 300 系列。这是其顶级 Ryzen 9 芯片的全新品牌。新的命名约定仍然包括AMD 于 2022 年推出的 HX 后缀，但它并不表明该芯片消耗多少瓦的功率。相反，HX 将简单地指“堆栈顶部”或最好和最快的 Ryzen AI 300 芯片。
+新的 Ryzen AI 芯片基于 AMD 最新的神经、集成显卡和通用处理架构构建：NPU 为 XDNA2，iGPU 为 RDNA 3.5，现在最多有 16 个计算单元，CPU 为 Zen 5。该系列的前两款处理器是 Ryzen AI 9 HX 370 和 Ryzen AI 9 365。两者都有 50 TOPS NPU，但 HX 版本是两者中高端的。 
+Ryzen AI 9 HX 370 是一款 12 核/24 线程芯片，最大时钟速度为 5.1GHz，缓存为 36MB，配备 Radeon 890M 显卡。Ryzen AI 9 365 是一款 10 核/12 线程芯片，最大时钟速度为 5.0GHz，缓存为 34 MB，配备 Radeon 880M 显卡。 
+与已经上市或即将上市的其他 NPU 配置芯片相比，Ryzen AI 9 300 系列似乎也拥有最多的 TOPS。 高通的骁龙 X 系列拥有 45 TOPS，苹果的 M4 拥有 38，而 AMD 的上一代 Ryzen 8040 系列芯片只有 16。英特尔的 Meteor Lake Ultra 7 165H 拥有大约 10 TOPS（但即将推出的 Lunar Lake 是据称将实现公平竞争）。
+AMD 声称其 XDNA2 NPU 的计算能力是上一代的五倍，能效是上一代的两倍，这要归功于其独特的 FP16“块”或 NPU 架构，该架构无需量化即可处理 8 位性能 (INT8) 和 16 位精度 (FP16) 生成 AI 工作负载。量化是提高 AI 模型能效的常用方法（高通在其智能手机芯片中使用了这种方法），或将大型数据集中的输入值转换为较小数据集中的输出值。不幸的是，它也会降低 AI 模型的准确性。但据称，AMD 的新芯片无需任何转换即可运行这两种类型的数学方程式，因此 AI 工作负载将得到快速而准确的处理。
+从 2024 年 7 月开始，Ryzen AI 300 将出现在微软最近的 Surface 活动上宣布的一些相同的 Copilot Plus PC（笔记本电脑）：华硕 Vivobook S 15 和 HP OmniBook。其他笔记本电脑 AI 笔记本电脑包括 MSI 的 Stealth A16、Summit A16、Prestige A16 和 Creator A16；华硕的 Zenbook S 16、Vivobook S 14 和 16、ProArt P16/X13、Rog Zephyrus G16 和 Tuf A14/A16 游戏笔记本电脑；以及联想的更多 ThinkBook、ThinkPad 和 Yoga。]]></description>
+      <guid>https://www.theverge.com/2024/6/2/24168951/amd-ryzen-ai-9-300-series-hx-laptop-processors</guid>
+      <pubDate>Mon, 03 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 的首款 Zen 5 CPU 是“怪物”Ryzen 9 9950X</title>
+      <link>https://www.theverge.com/2024/6/2/24168544/amd-zen-5-ryzen-9-9950x-cpu-computex-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/2/24168544/amd-zen-5-ryzen-9-9950x-cpu-computex-2024</guid>
+      <pubDate>Mon, 03 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Computex 2024 展会活动</title>
       <link>https://www.theverge.com/2024/6/2/24168856/computex-2024-convention-news-announcements</link>
@@ -127,20 +150,6 @@ Nvidia 自己的 AI 助手还可以优化和调整 PC 设置，包括提供过�
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/2/24168870/nvidia-sff-ready-enthusiast-geforce-card</guid>
       <pubDate>Sun, 02 Jun 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用手机拍摄视频的更好方法</title>
-      <link>https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer</guid>
-      <pubDate>Sun, 02 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>华硕 ROG Ally X 正式发布——我先睹为快</title>
-      <link>https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld</guid>
-      <pubDate>Sun, 02 Jun 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

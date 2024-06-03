@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 03 Jun 2024 01:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:17:20 GMT</lastBuildDate>
+    <item>
+      <title>如果美国所有汽车都是电动汽车，我们需要多少个电动汽车充电站？</title>
+      <link>https://wired.jp/article/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</link>
+      <description><![CDATA[预计美国汽车将在20年左右实现完全电动化。如果现在美国所有汽车都可以转换为电动汽车，那么全国还需要增加多少个充电站？使用美国版“连线”进行的思想实验。]]></description>
+      <guid>https://wired.jp/article/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</guid>
+      <pubDate>Mon, 03 Jun 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“小型人工智能模型”会成为计算的未来吗？</title>
       <link>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[许多评论家对引起关注的兔子和人性化AI小玩意给予了严厉的评价（连线也不例外）。即使生成式人工智能达到顶峰，现实仍然是很难在硬件开发方面与主要科技公司进行平等竞争。]]></description>
       <guid>https://wired.jp/article/generative-ai-doesnt-make-hardware-less-hard/</guid>
       <pubDate>Wed, 29 May 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大脑植入物的“多任务处理”——Neuralink 的第一个测试对象问道</title>
-      <link>https://wired.jp/article/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</link>
-      <description><![CDATA[脑机接口（BCI）由埃隆·马斯克的 Neuralink 开发。我们请第一位测试对象，一位30岁的男性，讲述他仅通过思考来操作电脑的经历，以及尽管四肢瘫痪仍能独立的经历。]]></description>
-      <guid>https://wired.jp/article/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</guid>
-      <pubDate>Wed, 29 May 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
