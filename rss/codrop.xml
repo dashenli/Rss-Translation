@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 31 May 2024 12:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 12:28:31 GMT</lastBuildDate>
+    <item>
+      <title>集体#844</title>
+      <link>https://tympanus.net/codrops/collective/collective-844/</link>
+      <description><![CDATA[排队 * matcha.css * Namviek * 图形游戏]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-844/</guid>
+      <pubDate>Tue, 04 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>集体#843</title>
       <link>https://tympanus.net/codrops/collective/collective-842/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 28 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>励志网站汇总：Webflow 特刊#4</title>
+      <title>励志网站汇总：Webflow 特别版#4</title>
       <link>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</link>
       <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/28/inspirational-websites-roundup-webflow-special-4/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>集体#840</title>
       <link>https://tympanus.net/codrops/collective/collective-840/</link>
-      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越的范围语法 * 最佳意图屏障（ARIA 版）]]></description>
+      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越范围语法 * 最佳意图屏障（ARIA 版）]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
       <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索我们最新的动态设计系列，其中包含来自 Dribbble 的最佳镜头，以激发您的创造力。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/</guid>
       <pubDate>Wed, 15 May 2024 10:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#838</title>
-      <link>https://tympanus.net/codrops/collective/collective-838/</link>
-      <description><![CDATA[TypeSpec * 设计系统中的可组合性 * 精细 UI 小型实验室]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-838/</guid>
-      <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
