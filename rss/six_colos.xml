@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 03 Jun 2024 18:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 01:00:44 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 515：2024 年 WWDC 主题演讲稿</title>
+      <link>https://sixcolors.com/podcast/2024/06/upgrade-515-the-wwdc-keynote-draft-2024/</link>
+      <description><![CDATA[现在是我们第九次年度竞赛的时间了，竞赛的主题是 Apple WWDC 主题演讲！会宣布什么？会一直都是 AI 吗？…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/upgrade-515-the-wwdc-keynote-draft-2024/</guid>
+      <pubDate>Mon, 03 Jun 2024 21:32:48 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：极其私密和安全的 Safari 网页浏览</title>
       <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-5/</link>
@@ -114,15 +121,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 我们当中没有人像我们想象的那样擅长识别深度伪造。甚至你的妈妈、你的老板或你 IT 部门的任何人都可能无法分辨出其中的区别。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/05/kolide-42/</guid>
       <pubDate>Fri, 24 May 2024 16:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果解释照片复活漏洞 ↦</title>
-      <link>https://sixcolors.com/link/2024/05/apple-explains-resurrected-photos-bug/</link>
-      <description><![CDATA[在接受 9to5Mac 的 Chance Miller 采访时，Apple 解释了导致旧照片自发出现在某些用户图库中的问题（已在最近的 iOS 17.5.1 更新中修复）：
-
-Apple 向我证实，此事不应归咎于 iCloud Photos。…]]></description>
-      <guid>https://sixcolors.com/link/2024/05/apple-explains-resurrected-photos-bug/</guid>
-      <pubDate>Fri, 24 May 2024 13:12:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
