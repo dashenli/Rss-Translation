@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 04 Jun 2024 03:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 06:22:29 GMT</lastBuildDate>
+    <item>
+      <title>锚链接以及如何让它们变得棒极了</title>
+      <link>https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/</link>
+      <description><![CDATA[锚链接（也称为跳转链接）是提供页内导航的一种简单方法。
+]]></description>
+      <guid>https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/</guid>
+      <pubDate>Tue, 04 Jun 2024 06:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>扁平行星</title>
+      <link>https://emildziewanowski.com/flat-planets/</link>
+      <description><![CDATA[探索如何创建行星来装饰天空盒。
+]]></description>
+      <guid>https://emildziewanowski.com/flat-planets/</guid>
+      <pubDate>Tue, 04 Jun 2024 05:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始的承诺</title>
+      <link>https://www.joshwcomeau.com/javascript/promises/</link>
+      <description><![CDATA[“Promises” API 是现代 JavaScript 中令人惊讶的棘手部分。
+]]></description>
+      <guid>https://www.joshwcomeau.com/javascript/promises/</guid>
+      <pubDate>Tue, 04 Jun 2024 05:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 长度单位</title>
+      <link>https://css-tricks.com/css-length-units/</link>
+      <description><![CDATA[一份全面的指南，涵盖 CSS 用于在尺寸、空间、时间甚至声音方面调整元素大小的九种长度。
+]]></description>
+      <guid>https://css-tricks.com/css-length-units/</guid>
+      <pubDate>Tue, 04 Jun 2024 05:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git 的工作原理</title>
+      <link>https://wizardzines.com/zines/git/</link>
+      <description><![CDATA[如果你使用 git 多年，但仍然感到困惑，那么这本杂志就是为你准备的！
+]]></description>
+      <guid>https://wizardzines.com/zines/git/</guid>
+      <pubDate>Tue, 04 Jun 2024 05:53:37 GMT</pubDate>
+    </item>
     <item>
       <title>线性方法：固执己见的软件</title>
       <link>https://www.figma.com/blog/the-linear-method-opinionated-software/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://teresaibarra.com/texts/</guid>
       <pubDate>Fri, 31 May 2024 08:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式视频现已可用。这些功能可以使其更好地发挥作用</title>
-      <link>https://scottjehl.com/posts/rwd-video/</link>
-      <description><![CDATA[响应式视频已成为标准，并可再次在各个浏览器上运行，但我的愿望清单上仍有一些功能需要添加。
-]]></description>
-      <guid>https://scottjehl.com/posts/rwd-video/</guid>
-      <pubDate>Thu, 30 May 2024 08:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作 CSS 计时器</title>
-      <link>https://frontendmasters.com/blog/how-to-make-a-css-timer/</link>
-      <description><![CDATA[让我们看看如何使用 CSS 作为 JavaScript 的有效替代方案来创建简单的计时器。 
-]]></description>
-      <guid>https://frontendmasters.com/blog/how-to-make-a-css-timer/</guid>
-      <pubDate>Thu, 30 May 2024 08:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 动画的新魔法</title>
-      <link>https://chasem.co/2024/05/css-animations/</link>
-      <description><![CDATA[CSS 中有两个新功能，可以让您在实现动画时更轻松地进一步避免使用 JavaScript。
-]]></description>
-      <guid>https://chasem.co/2024/05/css-animations/</guid>
-      <pubDate>Thu, 30 May 2024 08:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>参观埃姆斯研究所</title>
-      <link>https://arun.is/blog/eames-institute/</link>
-      <description><![CDATA[在埃姆斯无限好奇心研究所，我罕见地一睹了传奇设计师雷和查尔斯·埃姆斯的创作遗产。
-]]></description>
-      <guid>https://arun.is/blog/eames-institute/</guid>
-      <pubDate>Thu, 30 May 2024 07:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI 组件的决策树</title>
-      <link>https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/</link>
-      <description><![CDATA[UI 组件决策树的实际示例以及如何有效地使用它们。
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/</guid>
-      <pubDate>Thu, 30 May 2024 07:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
