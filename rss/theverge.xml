@@ -4,7 +4,51 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 00:59:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 03:16:32 GMT</lastBuildDate>
+    <item>
+      <title>官方称 MSI Claw 8 AI Plus 配备华硕匹配的 80Wh 电池和英特尔 Lunar Lake</title>
+      <link>https://www.theverge.com/2024/6/3/24170904/msi-claw-8-ai-plus-lunar-lake-battery-computex</link>
+      <description><![CDATA[
+
+这不是 MSI Claw 8 AI Plus，而是原版 Fallout 版本。（我在边缘使用了生成扩展，因为图像裁剪得不好。） |图片：MSI
+
+在发布首款游戏掌上电脑并受到恶评（这是我的）仅三个月后，MSI 就已宣布了可能的替代产品。 “MSI Claw 8 AI Plus”将其平淡无奇的英特尔 Meteor Lake 芯片换成了全新的 Lunar Lake 芯片，同时将其 7 英寸、1080p 120Hz 可变分辨率屏幕换成了更大的 8 英寸屏幕。
+也许更重要的是，它将配备高达 80 瓦时的电池，MSI 告诉The Verge — 将其与最近宣布的Asus ROG Ally X 并列成为 PC 游戏掌上电脑中电池容量最大的产品。 MSI 营销专家 Anne Lee 写道，尽管屏幕更大，但它仍将提供带有 VRR 的平滑 120Hz 刷新率。 
+Claw 还将提供第二个具有 Thunderbolt 4 功能的 USB-C 端口，就像华硕一样，将配备壁挂式充电器，而不是原来的双线充电器，并将增强“LB/RB 按钮的触感”。
+MSI 没有提供任何其他细节或新手持设备的单张图片，只告诉我们该公司将在 Computex 上发布更多信息 - 目前正在台湾台北举行的 PC 展会。但截至今天，我们知道 英特尔的 Lunar Lake 的 GPU 性能比 Meteor Lake 高出 50%，并且其 Xe2 GPU 需要的功率更少，以实现相同的性能——尽管英特尔没有标注其图表轴，所以我们不知道具体是多少。
+
+
+图片：英特尔
+“Meteor Lake H” 是 MSI 原装芯片Claw。
+
+MSI 今天确实宣布了 Claw 的另一个版本：限量版Fallout版本，看起来有点像游戏中的 Pip-Boy 腕戴式电脑，但不幸的是，它基于原版 7 英寸 MSI Claw，采用 Meteor Lake，而不是 Lunar Lake。因此，除非有很多Fallout + Claw 的铁杆粉丝，否则我预计这款产品在到货时也会同样卖不动。不过，MSI 的新闻稿称，它将拥有“业内最大的电池”，所以也许里面会有一两个惊喜？
+如果你想知道，是的，我一直在用最新的 BIOS 和驱动程序重新测试原版 MSI Claw，但我还没有发现足够的性能提升来改变我的建议。]]></description>
+      <guid>https://www.theverge.com/2024/6/3/24170904/msi-claw-8-ai-plus-lunar-lake-battery-computex</guid>
+      <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是 Lunar Lake——英特尔彻底改造的 AI 笔记本电脑芯片，抛弃了内存条</title>
+      <link>https://www.theverge.com/2024/6/3/24169115/intel-lunar-lake-architecture-platform-feature-reveal</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/3/24169115/intel-lunar-lake-architecture-platform-feature-reveal</guid>
+      <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软裁员影响 HoloLens 和 Azure 云团队</title>
+      <link>https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+周一，微软宣布裁员，据报道将影响约 1,000 名员工。正如CNBC 先前报道的那样，致力于 HoloLens 2 的混合现实部门是受影响的领域之一。另外，Business Insider 报道称，Azure for Operators 和 Mission Engineering 也裁员“数百人”。
+微软发言人 Craig Cincotta 在发给The Verge的电子邮件声明中表示，“今天早些时候，我们宣布重组微软的混合现实组织。我们仍然全力支持国防部的 IVAS 计划，并将继续提供尖端技术来支持我们的士兵。此外，我们将继续投资 W365，以覆盖更广泛的混合现实硬件生态系统。我们将继续销售 HoloLens 2，同时支持现有的 HoloLens 2 客户和合作伙伴。”
+此轮裁员发生在微软裁员超过 10,000 人一年多之后，首席执行官 Satya Nadella 表示该公司正在改变其硬件产品组合。此后，微软完成了对动视暴雪的收购，在人工智能方面投入巨资，最近又开始推动“人工智能电脑”，新一轮的 Surface 设备均采用高通芯片。
+
+“组织和员工调整是我们业务管理必要且常规的一部分。我们将继续优先考虑并投资于未来的战略增长领域，并为我们的客户和合作伙伴提供支持，”Cincotta 表示。
+微软于 2021 年成立了 Azure for Operators 和任务工程部门以涵盖“登月计划”，例如 Azure Space 部门寻求与 SpaceX 等公司合作并推出盒装便携式数据中心。该小组的其他团队致力于电信支持等项目，并致力于量子计算。]]></description>
+      <guid>https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs</guid>
+      <pubDate>Tue, 04 Jun 2024 01:14:39 GMT</pubDate>
+    </item>
     <item>
       <title>Snowflake 称没有证据表明攻击者入侵其平台以攻击 Ticketmaster</title>
       <link>https://www.theverge.com/2024/6/3/24170876/snowflake-ticketmaster-santander-data-breach-details</link>
@@ -106,77 +150,6 @@ Project PI 工作原理的示例。
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date</guid>
       <pubDate>Mon, 03 Jun 2024 17:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐高的月球着陆器套装以罕见折扣出售（更新：已售罄）</title>
-      <link>https://www.theverge.com/2024/6/3/24170539/amazon-lego-creator-expert-10266-nasa-apollo-11-lunar-lander-deal-sale</link>
-      <description><![CDATA[
-
-只需 80 美元即可购买该套装。 | 图片：Lego
-
-6 月 3 日更新：亚马逊的闪电交易已售罄。阿波罗 11 号着陆器仍可在亚马逊购买，但只能按全价购买。
-乐高刚刚发布的大型 Barad-dûr 套装非常酷，我不会撒谎。然而，它售价 460 美元，有超过 5,000 个零件，并不适合所有人。如果您正在寻找一份优质父亲节礼物，同时又不会花费太多金钱和时间，那么乐高的 NASA 阿波罗 11 号登月舱套装可能是更好的选择。通常价格为 99.99 美元，现在，它以亚马逊闪电交易的形式出售，价格为79.99 美元（减 20 美元）。这是该套装今年的最佳价格，仅比其历史最低价低 10 美元。
-
-
-图片：乐高
-该套装具有可拆卸的下降和上升阶段。
-
-
-该套装与 NASA 共同开发，于 2017 年发布2019 年，为庆祝阿波罗 11 号任务 50 周年而举办的乐高积木套装。阿波罗 11 号任务也被称为首次将人类送上月球的任务。该套装由 1,087 件积木组成，其中包含着陆器的复制品，组装完成后，您可以将其展示在设计为类似月球表面的乐高底座上。 
-
-
-图片：乐高
-细节丰富的内部结构以及一名小宇航员。
-
-乐高还加入了许多其他细节，让任务栩栩如生，从美国国旗到着陆器上升段一半的内部。甚至还有两名小宇航员和他们爬下的月球着陆器梯子。这是一个非常有趣的作品，值得花一个下午来制作。总而言之，这是一套非常独特的办公室或家居装饰。 
-
-]]></description>
-      <guid>https://www.theverge.com/2024/6/3/24170539/amazon-lego-creator-expert-10266-nasa-apollo-11-lunar-lander-deal-sale</guid>
-      <pubDate>Mon, 03 Jun 2024 17:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在即将涨价之前，您只需花费 20 美元即可购买一年的 Peacock Premium</title>
-      <link>https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-孔雀可能不是最大的流媒体服务，但有了这样的交易，它绝对感觉是最渴求的服务之一（并且对您有利）。这是因为，使用优惠券代码 STREAMTHEDEAL，新订阅者只需 19.99 美元（优惠 30 美元），即可在 6 月 30 日前订阅 NBCUniversal 的流媒体一年。
-
-当前促销活动针对广告支持的 Peacock Premium 套餐，其中包括所有内容2024 年巴黎奥运会报道、2024-2025 赛季周日夜赛、WWE 优质现场活动以及各种节目和电影。真的，对于仅 20 美元来说，这已经相当多了，不过，如果你是那种喜欢频繁使用流媒体服务或从一笔交易跳到另一笔交易的人，你应该确保在一年后向你收取全价之前关闭自动续订。
-这笔交易时机绝佳的另一个原因是Peacock 的价格将在下个月上涨。因此，如果上述自动续订明年上线，年度高级计划将花费 79.99 美元，而不是现在通常的 59.99 美元。哎哟。
-
-除了五彩缤纷的流水鸟，还有更多优惠
-
-
-Eufy 的 Smart Scale P2 Pro 在 亚马逊 上售价 44.99 美元（优惠 35 美元），只需点击页面上的优惠券即可。这款 Wi-Fi 和蓝牙连接的浴室秤可以测量肌肉质量、骨骼密度以及体重。
-索尼的 PlayStation Days of Play 促销活动将持续到 6 月 12 日，现在是购买一些数字 PlayStation 5 游戏或重新订阅 PlayStation Plus 的好时机。您可以节省更多费用的一种方法是使用打折的 PlayStation Store 电子礼品卡购买这些数字商品。即日起至美国东部时间 6 月 6 日上午 7 点，Eneba 将在结账时使用代码 DaysOfPlayUS，为各种 PlayStation Store 数字礼品卡 额外提供 13.5% 的折扣。
-HyperX Pulsefire Core 目前售价仅为 10.50 美元（约优惠 19 美元），售价为 亚马逊。这是一款相当简洁的有线游戏鼠标，带有发光徽标，但只需 10 美元左右，您就可以在相当轻巧的鼠标中获得七个按钮和可编程宏。（它的重量仅为 87 克。）
-
-Belkin 的 MagSafe 3 合 1 无线充电支架，是我们最喜欢的 Apple 家用多充电器之一，在亚马逊 上降价至 109.99 美元（减价 40 美元）。树形支架可为您的手机充电高达 15W，同时将其抬高到一个合适的角度，方便您在办公桌前观看。您还可以使用它为 AirPods 充电，同时为旁边的兼容 Apple Watch 快速充电。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale</guid>
-      <pubDate>Mon, 03 Jun 2024 17:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的月球探测器正在从月球背面取回样本</title>
-      <link>https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing</link>
-      <description><![CDATA[
-
-5 月 3 日，长征五号运载火箭将嫦娥六号探测器发射升空。 |照片：CFOTO / Future Publishing via Getty Images
-
-中国嫦娥六号飞船成功降落在月球背面——并计划首次将土壤和岩石样本带回地球。
-据中国国家航天局 (CNSA) 报道，探测器于北京时间上午 6:23 降落在背对地球的月球南极——艾特肯盆地。它在着陆前使用激光 3D 扫描和自动避障系统来探测障碍物。您可以在下面嵌入的视频中看到探测器小心翼翼地降落到月球表面。 
-
-
-视频：中国国家航天局
-
-嫦娥六号将用大约两天的时间，用铲子和钻头从月球表面采集样本。该探测器还搭载了欧洲航天局、法国和意大利的有效载荷，中国航天局表示“这些载荷将按计划工作并执行科学探索任务。”
-一旦完成样本采集，嫦娥六号探测器将把一个装有样品的太空舱发射到月球轨道，并与嫦娥六号轨道器对接，并于 6 月 25 日返回地球。
-中国于 2019 年首次将航天器降落在月球背面，随后又将嫦娥五号飞船将于 2020 年从月球近侧采集样本。前往月球远端的旅程更具挑战性，因为月球会阻挡通信信号，而且地形更加崎岖。]]></description>
-      <guid>https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing</guid>
-      <pubDate>Mon, 03 Jun 2024 17:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
