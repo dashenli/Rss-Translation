@@ -4,7 +4,30 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 05 Jun 2024 15:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:19:11 GMT</lastBuildDate>
+    <item>
+      <title>微软、苹果和人工智能 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</link>
+      <description><![CDATA[Charles Stross 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其 Recall 功能来招致灾难：
+
+Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
+      <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果的许多最新产品都存在一个主题 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/theres-a-thread-running-through-many-of-apples-latest-products-2/</link>
+      <description><![CDATA[不，不是 Meta 的社交网络平台：Thread，智能家居无线电芯片。1 你知道的，苹果悄悄地把它放在了 HomePods、iPhone 15 机型和 *ahem* 一些 Apple TV 中。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/theres-a-thread-running-through-many-of-apples-latest-products-2/</guid>
+      <pubDate>Wed, 05 Jun 2024 15:15:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果的人工智能机遇：成为房间里的成年人（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2356542</link>
+      <description><![CDATA[WWDC 24 即将到来，每个人都期待着它完全围绕人工智能展开。随着科技界的目光重新转向苹果，还有很多工作要做。…]]></description>
+      <guid>https://www.macworld.com/article/2356542</guid>
+      <pubDate>Wed, 05 Jun 2024 15:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>苹果对网站的屏幕使用时间限制很容易被规避 ↦</title>
       <link>https://sixcolors.com/link/2024/06/apples-screen-time-restrictions-on-websites-are-easily-circumvented/</link>
@@ -65,7 +88,7 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
     <item>
       <title>南极的网速很慢 ↦</title>
       <link>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</link>
-      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在在家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下工作效果很差的信息：
+      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在已回家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下运行效果很差的信息：
 
 在南极可以下载，但会受到独特的限制。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</guid>
@@ -101,27 +124,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
 漫威影业和 ILM 为 Vision Pro 推出的“假如……？——沉浸式故事”于周四作为免费应用推出，它既不是沉浸式视频，也不是游戏。…]]></description>
       <guid>https://sixcolors.com/post/2024/05/review-what-if-shows-off-the-vision-pros-strengths/</guid>
       <pubDate>Wed, 29 May 2024 19:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 497：从零到永不</title>
-      <link>https://sixcolors.com/podcast/2024/05/the-rebound-497-between-zero-and-never/</link>
-      <description><![CDATA[所有适合打印的 Apple 新闻。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/the-rebound-497-between-zero-and-never/</guid>
-      <pubDate>Wed, 29 May 2024 17:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果看不见的突破和看得见的突破一样美丽（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2348650/apple-invisible-breakthroughs-ipad-pro-oled-computational-photography-ai.html</link>
-      <description><![CDATA[技术改进有点像去看电影或魔术表演：你想要惊叹，但当你看不到幕后发生的事情时效果会最好。…]]></description>
-      <guid>https://www.macworld.com/article/2348650/apple-invisible-breakthroughs-ipad-pro-oled-computational-photography-ai.html</guid>
-      <pubDate>Wed, 29 May 2024 11:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 514：欧洲胡须</title>
-      <link>https://sixcolors.com/podcast/2024/05/upgrade-514-european-beard/</link>
-      <description><![CDATA[是时候进行 Vision Pro 检查了。我们如何使用它，Apple 应该如何销售它？此外，一些欧盟应用市场开发者只想回家。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/upgrade-514-european-beard/</guid>
-      <pubDate>Mon, 27 May 2024 20:28:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
