@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 04 Jun 2024 15:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 15:17:21 GMT</lastBuildDate>
+    <item>
+      <title>网格项目上的推送动画</title>
+      <link>https://tympanus.net/codrops/2024/06/05/push-animation-on-grid-items/</link>
+      <description><![CDATA[基于 Rémi Clauss 概念的网格动画，其中网格项移动到相对于其初始位置的特定位置。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/05/push-animation-on-grid-items/</guid>
+      <pubDate>Wed, 05 Jun 2024 13:34:48 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Oscar Pico 投资组合——2024 年</title>
       <link>https://tympanus.net/codrops/2024/06/04/case-study-oscar-pico-portfolio-2024/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>集体#841</title>
       <link>https://tympanus.net/codrops/collective/collective-841/</link>
-      <description><![CDATA[🎉 GAAD * 16 天无障碍意识 * 无需数学即可解释 LLM 的工作原理 * 在某些时候，JavaScript 变得很好]]></description>
+      <description><![CDATA[🎉 GAAD * 16 天无障碍意识 * LLM 的工作原理，无需数学解释 * 在某种程度上，JavaScript 变得很好]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-841/</guid>
       <pubDate>Fri, 24 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[介绍 CSS 锚点定位 API * 卓越范围语法 * 最佳意图屏障（ARIA 版）]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
       <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#839</title>
-      <link>https://tympanus.net/codrops/collective/collective-839/</link>
-      <description><![CDATA[基于时间的 CSS 动画 * 2024 年初的 Web 组件 * 分形玻璃生成器]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-839/</guid>
-      <pubDate>Fri, 17 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

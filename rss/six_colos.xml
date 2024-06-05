@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 05 Jun 2024 01:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 15:16:13 GMT</lastBuildDate>
+    <item>
+      <title>苹果对网站的屏幕使用时间限制很容易被规避 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/apples-screen-time-restrictions-on-websites-are-easily-circumvented/</link>
+      <description><![CDATA[华尔街日报的 Joanna Stern 描述了 Apple 的屏幕使用时间家长控制如何存在一个简单的安全漏洞，允许不受限制的网络访问：
+
+我尝试了一些 Apple 设备。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/apples-screen-time-restrictions-on-websites-are-easily-circumvented/</guid>
+      <pubDate>Wed, 05 Jun 2024 14:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>微软的召回功能是一场安全“灾难”↦</title>
       <link>https://sixcolors.com/link/2024/06/microsofts-recall-feature-is-a-security-disaster/</link>
@@ -113,14 +122,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <description><![CDATA[是时候进行 Vision Pro 检查了。我们如何使用它，Apple 应该如何销售它？此外，一些欧盟应用市场开发者只想回家。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/upgrade-514-european-beard/</guid>
       <pubDate>Mon, 27 May 2024 20:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）买不起网络安全保险？原因如下。</title>
-      <link>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</link>
-      <description><![CDATA[
-当米高梅度假村在 9 月遭受1 亿美元的黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</guid>
-      <pubDate>Mon, 27 May 2024 16:00:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
