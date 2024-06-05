@@ -4,7 +4,35 @@
     <title>Android 管理局</title>
     <link>https://www.androidauthority.com</link>
     <description>Android 新闻、评论、使用方法</description>
-    <lastBuildDate>Tue, 04 Jun 2024 21:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 00:58:00 GMT</lastBuildDate>
+    <item>
+      <title>OPPO 的下一代旗舰产品可能会配备更强大的变焦镜头</title>
+      <link>https://www.androidauthority.com/oppo-find-x8-ultra-camera-leak-3448856/</link>
+      <description><![CDATA[我们刚刚第一次了解了有关 Find X8 Ultra 相机设置的详细信息。]]></description>
+      <guid>https://www.androidauthority.com/oppo-find-x8-ultra-camera-leak-3448856/</guid>
+      <pubDate>Tue, 04 Jun 2024 22:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔 Lunar Lake 现已上市，RAM 内置其中，这对英特尔来说简直太疯狂了</title>
+      <link>https://www.androidauthority.com/intel-lunar-lake-3448845/</link>
+      <description><![CDATA[您读得对：Lunar Lake 系统的 RAM 将无法升级，因为它将内置于 SoC 中。]]></description>
+      <guid>https://www.androidauthority.com/intel-lunar-lake-3448845/</guid>
+      <pubDate>Tue, 04 Jun 2024 21:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能业内人士呼吁行业安全和举报人保护（更新：OpenAI 的回应）</title>
+      <link>https://www.androidauthority.com/openai-google-open-letter-3448787/</link>
+      <description><![CDATA[人工智能公司的现任和前任员工在一封公开信中表达了对行业安全的担忧。]]></description>
+      <guid>https://www.androidauthority.com/openai-google-open-letter-3448787/</guid>
+      <pubDate>Tue, 04 Jun 2024 21:29:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 中断后，我安装了一个永远不会宕机的离线 AI 聊天机器人</title>
+      <link>https://www.androidauthority.com/llama-3-vs-chatgpt-3448849/</link>
+      <description><![CDATA[通过保证正常运行时间和隐私，本地 AI 聊天机器人可提供 ChatGPT 无法提供的安全网。]]></description>
+      <guid>https://www.androidauthority.com/llama-3-vs-chatgpt-3448849/</guid>
+      <pubDate>Tue, 04 Jun 2024 21:18:40 GMT</pubDate>
+    </item>
     <item>
       <title>Apple HomePod 2 的 42% 折扣让其他交易望尘莫及</title>
       <link>https://www.androidauthority.com/apple-homepod-2-deal-3448828/</link>
@@ -39,13 +67,6 @@
       <description><![CDATA[目前尚不清楚该功能何时会公开推出。]]></description>
       <guid>https://www.androidauthority.com/google-keep-window-resize-3448776/</guid>
       <pubDate>Tue, 04 Jun 2024 19:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能业内人士的公开信：呼吁安全、透明和举报人保护</title>
-      <link>https://www.androidauthority.com/openai-google-open-letter-3448787/</link>
-      <description><![CDATA[人工智能公司的现任和前任员工在一封公开信中表达了对行业安全的担忧。]]></description>
-      <guid>https://www.androidauthority.com/openai-google-open-letter-3448787/</guid>
-      <pubDate>Tue, 04 Jun 2024 19:00:54 GMT</pubDate>
     </item>
     <item>
       <title>有证据表明，与最初推出相比，谷歌缩减了 AI 概览搜索结果</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[距离 iPhone 16 发布还有几个月的时间，但我们已经知道很多了。]]></description>
       <guid>https://www.androidauthority.com/apple-iphone-16-3368121/</guid>
       <pubDate>Tue, 04 Jun 2024 16:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果降级 iPad Air M2 且未告知买家（更新：苹果声明）</title>
-      <link>https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/</link>
-      <description><![CDATA[更新：苹果确认 GPU 规格表存在混淆，但没有解释原因。]]></description>
-      <guid>https://www.androidauthority.com/apple-downgraded-ipad-air-m2-3448329/</guid>
-      <pubDate>Tue, 04 Jun 2024 16:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有 Apple TV 吗？告别 Netflix 支持</title>
-      <link>https://www.androidauthority.com/apple-tvs-dropping-netflix-support-3448712/</link>
-      <description><![CDATA[如果您拥有一台十年之久的 Apple TV，那么现在可能是时候升级到新型号了。]]></description>
-      <guid>https://www.androidauthority.com/apple-tvs-dropping-netflix-support-3448712/</guid>
-      <pubDate>Tue, 04 Jun 2024 15:20:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星修复 Google Play 系统更新后应用程序运行缓慢的问题</title>
-      <link>https://www.androidauthority.com/samsung-fix-for-slow-apps-3448705/</link>
-      <description><![CDATA[修复方法比您预期的要简单。]]></description>
-      <guid>https://www.androidauthority.com/samsung-fix-for-slow-apps-3448705/</guid>
-      <pubDate>Tue, 04 Jun 2024 14:59:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

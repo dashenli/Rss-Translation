@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 04 Jun 2024 01:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 01:00:01 GMT</lastBuildDate>
+    <item>
+      <title>微软的召回功能是一场安全“灾难”↦</title>
+      <link>https://sixcolors.com/link/2024/06/microsofts-recall-feature-is-a-security-disaster/</link>
+      <description><![CDATA[The Verge 的 Tom Warren 对 Windows 新功能“Recall”所固有的安全问题进行了很好的总结，该功能会记录你所做的每一件事（这可能会出什么问题？）…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/microsofts-recall-feature-is-a-security-disaster/</guid>
+      <pubDate>Wed, 05 Jun 2024 00:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>调酒师有新主人了 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</link>
+      <description><![CDATA[MacRumors 的 Juli Clover 报道称，备受推崇的 Mac 实用程序 Bartender 显然已被长期开发人员 Ben Surtees 出售，新主人最近重新签署了该应用程序，但尚未通知客户有关这一变化：
+
+在一些 Reddit 用户看到 MacUpdater 发出的警告后，这笔交易被曝光，警告他们 Bartender 背后的公司已被悄悄替换。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</guid>
+      <pubDate>Tue, 04 Jun 2024 23:43:28 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 515：2024 年 WWDC 主题演讲稿</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-515-the-wwdc-keynote-draft-2024/</link>
@@ -40,7 +56,7 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
     <item>
       <title>南极的网速很慢 ↦</title>
       <link>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</link>
-      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在已回家，但这里有一篇意外的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下运行效果很差的信息：
+      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在在家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下工作效果很差的信息：
 
 在南极可以下载，但会受到独特的限制。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</guid>
@@ -85,7 +101,7 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <pubDate>Wed, 29 May 2024 17:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的隐形突破与看得见的突破同样美丽（Macworld/Dan Moren）</title>
+      <title>苹果看不见的突破和看得见的突破一样美丽（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2348650/apple-invisible-breakthroughs-ipad-pro-oled-computational-photography-ai.html</link>
       <description><![CDATA[技术改进有点像去看电影或魔术表演：你想要惊叹，但当你看不到幕后发生的事情时效果会最好。…]]></description>
       <guid>https://www.macworld.com/article/2348650/apple-invisible-breakthroughs-ipad-pro-oled-computational-photography-ai.html</guid>
@@ -102,25 +118,9 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <title>（赞助商）买不起网络安全保险？原因如下。</title>
       <link>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</link>
       <description><![CDATA[
-9 月，米高梅度假村遭受1 亿美元黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
+当米高梅度假村在 9 月遭受1 亿美元的黑客攻击时，首席执行官 Bill Hornbuckle并不太担心收入损失，因为网络保险会承担这笔费用。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/05/struggling-to-afford-cybersecurity-insurance-heres-why-3/</guid>
       <pubDate>Mon, 27 May 2024 16:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kobo Libra 色彩评测：颜色鲜艳，但代价是什么？</title>
-      <link>https://sixcolors.com/post/2024/05/kobo-libra-colour-review-color-but-at-what-cost/</link>
-      <description><![CDATA[
-我的所有计算设备（除了一台）都配有彩色显示屏。我最后一次定期使用没有彩色显示屏的计算机大概是在 20 世纪 90 年代中期。…]]></description>
-      <guid>https://sixcolors.com/post/2024/05/kobo-libra-colour-review-color-but-at-what-cost/</guid>
-      <pubDate>Fri, 24 May 2024 21:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）科利德</title>
-      <link>https://sixcolors.com/sponsor/2024/05/kolide-42/</link>
-      <description><![CDATA[感谢 Kolide 本周赞助 Six Colors。
-我们当中没有人像我们想象的那样擅长识别深度伪造。甚至你的妈妈、你的老板或你 IT 部门的任何人都可能无法分辨出其中的区别。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/05/kolide-42/</guid>
-      <pubDate>Fri, 24 May 2024 16:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

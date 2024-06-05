@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 04 Jun 2024 21:15:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 01:00:45 GMT</lastBuildDate>
+    <item>
+      <title>为什么中国在虚假信息宣传方面如此糟糕</title>
+      <link>https://wired.jp/article/china-bad-at-disinformation/</link>
+      <description><![CDATA[自中国政府领导的大规模虚假信息运动开始以来已经过去了七年。然而，即使到了生成式人工智能时代，似乎还没有取得任何成果。今年是全球大选年，会有多大程度的干扰和影响？]]></description>
+      <guid>https://wired.jp/article/china-bad-at-disinformation/</guid>
+      <pubDate>Tue, 04 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能是一个黑匣子吗？ Anthropic 的研究团队面临着阐明其机制的挑战。</title>
+      <link>https://wired.jp/article/sz-anthropic-black-box-ai-research-neurons-features/</link>
+      <description><![CDATA[人工神经网络如何得出结论的大部分内容仍然是一个黑匣子，即使对于创建该系统的人来说也是如此。但五月，Anthropic 的研究人员宣布他们找到了一些线索。]]></description>
+      <guid>https://wired.jp/article/sz-anthropic-black-box-ai-research-neurons-features/</guid>
+      <pubDate>Tue, 04 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我不相信“TikTok禁令”：美国创作者态度调查</title>
       <link>https://wired.jp/article/most-us-tiktok-creators-dont-think-a-ban-will-happen/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[德国电影《平凡的教室》描绘了初中发生盗窃事件后学校秩序崩溃的故事。这部获得第 96 届奥斯卡金像奖国际故事片奖提名、将于 2024 年 5 月 17 日在日本上映的悬疑惊悚片描绘的共同威胁是什么？我问导演。]]></description>
       <guid>https://wired.jp/article/das-lehrerzimmer-ilker-catak/</guid>
       <pubDate>Sat, 01 Jun 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 新产品和 OpenAI 的发展方向：2024 年 5 月阅读次数最多的 10 个故事</title>
-      <link>https://wired.jp/article/10-most-read-stories-may-2024/</link>
-      <description><![CDATA[从今年 5 月发表在《WIRED.jp》的文章中，我们将介绍 10 个阅读量最高的故事，包括与 Apple 新产品和 OpenAI 最新 AI 模型“GPT-4o”相关的主题。]]></description>
-      <guid>https://wired.jp/article/10-most-read-stories-may-2024/</guid>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动生成搜索结果摘要的“AI Overviews”显示“错误信息”，即谷歌承认的问题内容</title>
-      <link>https://wired.jp/article/google-ai-overview-search-issues/</link>
-      <description><![CDATA[人们发现，谷歌搜索的“人工智能概述”（使用人工智能生成和显示搜索结果的概述）正在生成错误的答案，谷歌承认了这一点并进行了技术改进。另一方面，网上流传的“答案错误案例”也明显包含虚假答案。]]></description>
-      <guid>https://wired.jp/article/google-ai-overview-search-issues/</guid>
-      <pubDate>Fri, 31 May 2024 23:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
