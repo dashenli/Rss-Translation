@@ -4,7 +4,46 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Jun 2024 00:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 12:26:03 GMT</lastBuildDate>
+    <item>
+      <title>微软重新开启 Windows 10 Beta 测试，以测试“新功能”和改进</title>
+      <link>https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features</link>
+      <description><![CDATA[
+
+照片由 Chris Welch / The Verge 拍摄
+
+微软将于 2025 年 10 月终止对 Windows 10 的支持，但该公司现在采取了不同寻常的举措，重新开放其 Windows 10 测试版程序以测试新功能和改进。 
+Windows 10 已经获得了最初仅在 Windows 11 中提供的 AI Copilot 功能，并且可能很快就会获得其他功能。“为了根据需要为 Windows 10 带来新功能和更多改进，我们需要一个与 Windows Insiders 一起进行积极功能开发的地方，”微软的 Windows Insider 团队在博客文章中解释道。“所以今天，我们为目前使用 Windows 10 的 Windows Insiders 开放了 Beta 频道。”
+微软尚未透露下一步计划测试哪些其他 Windows 10 功能，但 Windows Insiders 可以选择加入 Beta 频道以尽早获得这些功能。至关重要的是，Windows 10 的支持终止日期为 2025 年 10 月 14 日，这一日期仍未改变。“加入 Windows 10 PC 的 Beta 频道不会改变这一点，”微软表示。
+微软去年年底改变了对 Windows 10 新功能的想法
+微软最初表示去年已完成 Windows 10 的主要更新，之后它改变了方法，为大约 16 个月后将不再正式支持的操作系统带来更多功能。该软件巨头将这一变化描述为“确保每个人都能从他们当前的 Windows PC 中获得最大价值”的一种方式。
+Windows 10 的消费者也将首次获得付费安全更新，一旦操作系统在 2025 年 10 月停止支持。微软最近透露，企业需要为一年的安全更新支付每台设备 61 美元的费用。第二年，这笔费用翻倍至 122 美元，然后在第三年再次翻倍至 244 美元。消费者安全更新的定价尚未公布，微软承诺“将在稍后公布”。
+微软继续尝试让消费者升级到 Windows 11，但由于 Windows 11 的严格硬件要求和微软在其最新操作系统中大力推广的安全措施，数百万台 PC 无法正式升级到 Windows 11。 Windows 11 仅支持 2018 年以后发布的 CPU 和支持 TPM 安全芯片的设备。
+Windows 11 的使用率落后于 Windows 10，StatCounter 列出，截至 2024 年 5 月，Windows 11 在所有 Windows 版本市场份额中占近 28%。Windows 10 在 2015 年发布九年后，仍然占据 68% 的份额。]]></description>
+      <guid>https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features</guid>
+      <pubDate>Wed, 05 Jun 2024 10:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dexcom G7 现在可让您在 Apple Watch 上监测实时血糖</title>
+      <link>https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech</link>
+      <description><![CDATA[
+
+Dexcom G7 能够将实时血糖读数直接发送到手腕上。 |图片：Dexcom
+
+从今天开始，Dexcom G7 连续血糖监测仪 (CGM) 用户将能够直接从 Apple Watch 监测他们的实时血糖数据。 
+根据 Dexcom 的新闻稿，直接连接到 Apple Watch 功能是用户最需要的功能之一。一旦与 Apple Watch 配对，G7 将使用其自己的专用蓝牙连接将血糖读数和个性化警报发送到手腕上。这意味着，如果您想查看数据，您不必拿出手机，手机也不必随身携带。例如，G7 用户在跑步/散步时不带手机，或者手机在另一个房间充电时，仍然可以获取实时数据。以前，G7 的 Apple Watch 应用允许您使用表盘复杂功能，但同步数据会延迟三个小时。
+ 
+
+图片：Dexcom
+您还可以在手腕上接收警报。
+
+
+这更像是查看数据和接收警报的辅助方式，而不是智能手机或 Dexcom 接收器的替代品。您仍然需要一部兼容的 iPhone 来初始设置 G7 CGM 并将其与 Apple Watch 配对。与家人和朋友共享数据还需要您的手机在 20 英尺范围内。如果您想在 Apple Health 应用程序中更全面地查看血糖数据以及其他指标（例如活动、月经周期、睡眠等），您还需要您的手机。
+在发布时，Direct to Apple Watch 功能将在美国、英国和爱尔兰推出。该功能将于本月晚些时候推广到其他市场，但 Dexcom 并未具体说明是哪些市场。对该功能感兴趣的人应将 Dexcom G7 应用程序更新至 2.1 版，并且至少需要运行 watchOS 10 或更高版本的 Apple Watch Series 6。他们还必须拥有运行 iOS 17 或更高版本的 iPhone。
+值得注意的是，此功能更多的是使现有的 CGM 更方便使用的一步，而不是使智能手表成为独立的、非侵入式的血糖监测工具。 （虽然许多公司都在积极投资这项技术，但我们仍然不太可能很快看到它。）沿着这条思路，Dexcom 最近还宣布它已获得 FDA 批准，用于Stelo CGM，这是一款面向非胰岛素依赖型 2 型糖尿病患者的非处方设备。 Stelo 于CES 2024 上推出，预计将于今年夏天晚些时候上市。]]></description>
+      <guid>https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech</guid>
+      <pubDate>Wed, 05 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 和 Verizon 中断电话通话的故障已经结束</title>
       <link>https://www.theverge.com/2024/6/4/24171656/att-verizon-outage-dropped-calls</link>
@@ -125,35 +164,6 @@ Apple Books 将让您轻松购买 Reese 的最新最爱。
 6 月 4 日，美国东部时间下午 4:33 更新：添加了 YouTube 支持页面。]]></description>
       <guid>https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug</guid>
       <pubDate>Tue, 04 Jun 2024 18:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Quest 很快将允许你通过其网络浏览器观看 Netflix</title>
-      <link>https://www.theverge.com/2024/6/4/24171322/meta-quest-3-netflix-browser</link>
-      <description><![CDATA[
-
-图片：Meta
-
-Netflix 并未更新其 Meta Quest 应用，但 Meta 的 做下一件最好的事情：添加网络浏览器支持。这意味着您可以通过 Quest 的浏览器应用以高质量流式传输 Netflix，让您可以在平面 2D 屏幕或曲面视图之间切换，让您感觉仿佛身处影院。
-在 Quest 上观看 Netflix 确实没有什么好办法。 Netflix 于 2019 年为 Quest 推出了一款应用程序，但该应用程序将视频分辨率限制在微不足道的 480p，并且尚未收到任何最新更新。到目前为止，Quest 的浏览器应用程序也阻止用户观看 Netflix。
-为了解决这个问题，一些用户尝试侧载 Netflix 的 Android 应用程序，而其他用户则选择通过 Quest 虚拟桌面模式下的浏览器访问 Netflix。但现在浏览器应用程序将在“未来几天”支持 Netflix，因此应该不需要变通方法。Apple Vision Pro 同样没有专用的 Netflix 应用程序，迫使用户通过 Safari 观看服务。 
-Meta 还推出了对背景音频的支持，这样即使你最小化正在播放的 2D 应用，你也能继续听音乐。它还在 Quest 3 上改进了直通，同时还支持外部麦克风和新的腕部按钮。]]></description>
-      <guid>https://www.theverge.com/2024/6/4/24171322/meta-quest-3-netflix-browser</guid>
-      <pubDate>Tue, 04 Jun 2024 18:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Woot 推出 Nintendo Switch OLED 一日优惠，立减 35 美元</title>
-      <link>https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale</link>
-      <description><![CDATA[
-
-照片由 Cameron Faulkner / The Verge 拍摄
-
-Woot 仅在今天（6 月 4 日）以 314.99 美元（优惠 35 美元）的价格出售 Nintendo Switch OLED 型号。任天堂的 Switch 游戏机的高级版促销将持续到今晚东部时间午夜或 Woot 售完为止。而且 Woot 这次可能不会缺货，因为对 Switch 的需求不像以前那么旺盛了。任天堂已经售出了如此多的 Switch 游戏机，以至于感觉每个想要的人——以及他们的父母——现在肯定都拥有一台了。
-Switch 确实在七年前问世，任天堂确认将于 2025 年 4 月宣布继任者。但即使 Switch 感觉相当过时，这并不意味着它在 2024 年不值得购买。如果你从未拥有过 Switch，那么有大量的游戏可供选择，而配备出色 7 英寸屏幕的 OLED 型号是享受它们的最佳方式之一（如果你喜欢以便携/手持模式玩游戏）。 Switch 庞大的游戏库中包含的游戏现在感觉就像是机构本身，例如 Mario Kart 8 Deluxe 和 Super Smash Bros. Ultimate 以及 大量去年推出的 3A 级优秀游戏 和一些 非常棒的独立游戏 最近刚刚发布。
-
-所以，不要就此放弃 Switch OLED，即使我们都渴望拥有 Switch 2 或 Super Switch，或者任天堂选择的任何称呼，并且即将宣布完全向后兼容和升级。 （请允许我一边幻想，一边在自己的 Switch OLED 上玩超级马里奥兄弟奇迹，谢谢。）
-]]></description>
-      <guid>https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale</guid>
-      <pubDate>Tue, 04 Jun 2024 18:13:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 05 Jun 2024 09:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 12:28:37 GMT</lastBuildDate>
+    <item>
+      <title>设计系统回顾</title>
+      <link>https://kyleshevlin.com/design-system-retrospective/</link>
+      <description><![CDATA[我正在构建另一个设计系统。以下是我学到的东西、我后悔的决定以及我这次做的不同的事情。
+]]></description>
+      <guid>https://kyleshevlin.com/design-system-retrospective/</guid>
+      <pubDate>Wed, 05 Jun 2024 11:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>美丽、无趣、没有灵魂</title>
+      <link>https://uxdesign.cc/beautiful-boring-and-without-soul-342ea9f08a64</link>
+      <description><![CDATA[我们如何让我们的数字花园充满生机？
+]]></description>
+      <guid>https://uxdesign.cc/beautiful-boring-and-without-soul-342ea9f08a64</guid>
+      <pubDate>Wed, 05 Jun 2024 11:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师参与报告</title>
+      <link>https://matejlatin.com/blog/designer-engagement-report/</link>
+      <description><![CDATA[设计师面临的三大问题：没有研究、没有设计策略、没有职业发展。
+]]></description>
+      <guid>https://matejlatin.com/blog/designer-engagement-report/</guid>
+      <pubDate>Wed, 05 Jun 2024 11:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有感知的设计：人工智能和用户体验的下一章</title>
+      <link>https://bigmedium.com/speaking/sentient-design-josh-clark-talk.html</link>
+      <description><![CDATA[Josh Clark 介绍了 Sentient Design，这是智能界面和 AI 介导体验的未来。
+]]></description>
+      <guid>https://bigmedium.com/speaking/sentient-design-josh-clark-talk.html</guid>
+      <pubDate>Wed, 05 Jun 2024 11:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teenage Engineering 设计了一个博物馆展览</title>
+      <link>https://arun.is/blog/art-of-noise/</link>
+      <description><![CDATA[我参观旧金山现代艺术博物馆噪音艺术展的摄影随笔。
+]]></description>
+      <guid>https://arun.is/blog/art-of-noise/</guid>
+      <pubDate>Wed, 05 Jun 2024 11:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>锚链接以及如何让它们变得棒极了</title>
       <link>https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://ishadeed.com/article/the-gap/</guid>
       <pubDate>Mon, 03 Jun 2024 00:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>从隐性意图演变为显性设计规则</title>
-      <link>https://uxdesign.cc/evolving-from-implicit-intent-to-explicit-design-rules-f7d2dfac0be0</link>
-      <description><![CDATA[现在是时候认清我们在设计网站、原生应用和 Web 应用时实际在做什么了。
-]]></description>
-      <guid>https://uxdesign.cc/evolving-from-implicit-intent-to-explicit-design-rules-f7d2dfac0be0</guid>
-      <pubDate>Fri, 31 May 2024 08:39:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年前端状态调查</title>
-      <link>https://stateoffrontend2024.typeform.com/survey</link>
-      <description><![CDATA[在这项有关前端开发的 10 分钟调查中分享你的观点
-]]></description>
-      <guid>https://stateoffrontend2024.typeform.com/survey</guid>
-      <pubDate>Fri, 31 May 2024 08:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>不，人工智能用户研究并非“聊胜于无”——它甚至更糟糕</title>
-      <link>https://uxmag.com/articles/no-ai-user-research-is-not-better-than-nothing-its-much-worse</link>
-      <description><![CDATA[综合见解不是研究。它们是破坏产品利润的最快途径。
-]]></description>
-      <guid>https://uxmag.com/articles/no-ai-user-research-is-not-better-than-nothing-its-much-worse</guid>
-      <pubDate>Fri, 31 May 2024 08:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>赞美基本功</title>
-      <link>https://www.smashingmagazine.com/2024/05/in-praise-of-the-basics/</link>
-      <description><![CDATA[学习前端 Web 开发的“基础知识”或基本原理意味着什么？
-]]></description>
-      <guid>https://www.smashingmagazine.com/2024/05/in-praise-of-the-basics/</guid>
-      <pubDate>Fri, 31 May 2024 08:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析我和前男友的短信</title>
-      <link>https://teresaibarra.com/texts/</link>
-      <description><![CDATA[Facebook 允许您下载您曾经发送过的所有消息（以 JSON 文件形式）。
-]]></description>
-      <guid>https://teresaibarra.com/texts/</guid>
-      <pubDate>Fri, 31 May 2024 08:24:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
