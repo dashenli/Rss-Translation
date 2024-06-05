@@ -4,13 +4,27 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 05 Jun 2024 18:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 21:16:38 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 557：我喜欢欢呼声</title>
+      <link>https://sixcolors.com/podcast/2024/06/clockwise-557-i-love-the-whoop/</link>
+      <description><![CDATA[我们对 WWDC 感到兴奋的事情、我们正在使用的最古老的技术、我们如何存储数码照片以及我们是否会记日记。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/clockwise-557-i-love-the-whoop/</guid>
+      <pubDate>Wed, 05 Jun 2024 20:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 498：D 代表失望</title>
+      <link>https://sixcolors.com/podcast/2024/06/the-rebound-498-the-d-is-for-disappointment/</link>
+      <description><![CDATA[将 D 放回 WWDC。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-498-the-d-is-for-disappointment/</guid>
+      <pubDate>Wed, 05 Jun 2024 19:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>微软、苹果和人工智能 ↦</title>
       <link>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</link>
-      <description><![CDATA[Charles Stross 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其 Recall 功能来招致灾难：
+      <description><![CDATA[查尔斯·斯特罗斯 (Charles Stross) 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其召回功能来招致灾难：
 
-Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
+召回功能已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
       <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
     </item>
@@ -49,7 +63,7 @@ Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前�
       <link>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</link>
       <description><![CDATA[MacRumors 的 Juli Clover 报道称，备受推崇的 Mac 实用程序 Bartender 显然已被长期开发人员 Ben Surtees 出售，新主人最近重新签署了该应用程序，但尚未通知客户有关这一变化：
 
-在一些 Reddit 用户看到 MacUpdater 发出的警告后，这笔交易被曝光，警告他们 Bartender 背后的公司已被悄悄替换。…]]></description>
+一些 Reddit 用户看到 MacUpdater 发出的警告，告知他们 Bartender 背后的公司已被悄悄替换，这笔交易因此曝光。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</guid>
       <pubDate>Tue, 04 Jun 2024 23:43:28 GMT</pubDate>
     </item>
@@ -107,23 +121,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <description><![CDATA[我们的视频游戏偏好和习惯、对 Nomad 带有 Find My 的新型薄型 Qi 可充电追踪卡的看法、我们如何在旅途中连接非 iPhone 设备以及我们对即将到来的 WWDC 的三大软件期望。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/clockwise-556-mikah-we-might-fight/</guid>
       <pubDate>Wed, 29 May 2024 19:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>收到一封朋友用人工智能写的信 ↦</title>
-      <link>https://sixcolors.com/link/2024/05/getting-a-letter-from-a-friend-written-with-ai/</link>
-      <description><![CDATA[Panic 设计师 Neven Mrgan 发表了一篇引人入胜的博客文章，讲述了收到朋友的 AI 来信的感受：
-
-我究竟应该如何区分有用的功能（“将这件红衬衫变成绿色”）和令人反感的接管（“以 Barney Bubbles 的风格生成专辑封面，屡获殊荣”）？…]]></description>
-      <guid>https://sixcolors.com/link/2024/05/getting-a-letter-from-a-friend-written-with-ai/</guid>
-      <pubDate>Wed, 29 May 2024 19:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：“如果？”展示了 Vision Pro 的优势</title>
-      <link>https://sixcolors.com/post/2024/05/review-what-if-shows-off-the-vision-pros-strengths/</link>
-      <description><![CDATA[
-漫威影业和 ILM 为 Vision Pro 推出的“假如……？——沉浸式故事”于周四作为免费应用推出，它既不是沉浸式视频，也不是游戏。…]]></description>
-      <guid>https://sixcolors.com/post/2024/05/review-what-if-shows-off-the-vision-pros-strengths/</guid>
-      <pubDate>Wed, 29 May 2024 19:00:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
