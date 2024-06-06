@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 06:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 09:18:18 GMT</lastBuildDate>
+    <item>
+      <title>Cara，一款对人工智能持怀疑态度的艺术家作品集应用程序，用户数量飙升至数十万</title>
+      <link>https://www.thisiscolossal.com/2024/06/cara-app/</link>
+      <description><![CDATA[一款新的社交媒体应用希望为艺术家们提供一个分享原创作品的平台，并密切监控不允许的人工智能创作。
+]]></description>
+      <guid>https://www.thisiscolossal.com/2024/06/cara-app/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:53:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>励志网站汇总#60</title>
+      <link>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</link>
+      <description><![CDATA[探索我们最新精选的网站，这些网站具有精心策划的设计，让您与最新趋势保持同步。
+]]></description>
+      <guid>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:52:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形游戏</title>
+      <link>https://graphgame.sabrina.dev/</link>
+      <description><![CDATA[测试您对神经网络理解的最佳方法！
+]]></description>
+      <guid>https://graphgame.sabrina.dev/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种现代的浏览器支持方法</title>
+      <link>https://clearleft.com/thinking/a-modern-approach-to-browser-support</link>
+      <description><![CDATA[就在最近，我们交付给客户的一些前端代码正在进行验收测试。
+]]></description>
+      <guid>https://clearleft.com/thinking/a-modern-approach-to-browser-support</guid>
+      <pubDate>Thu, 06 Jun 2024 06:49:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 好转了吗？</title>
+      <link>https://johannesippen.com/2024/canva-goes-professional/</link>
+      <description><![CDATA[你阿姨的玩具有志于成为一个严肃的设计工具。
+]]></description>
+      <guid>https://johannesippen.com/2024/canva-goes-professional/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:47:31 GMT</pubDate>
+    </item>
     <item>
       <title>设计系统回顾</title>
       <link>https://kyleshevlin.com/design-system-retrospective/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://wizardzines.com/zines/git/</guid>
       <pubDate>Tue, 04 Jun 2024 05:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>线性方法：固执己见的软件</title>
-      <link>https://www.figma.com/blog/the-linear-method-opinionated-software/</link>
-      <description><![CDATA[Linear 团队如何构建产品，以及指导其工作的原则和流程
-]]></description>
-      <guid>https://www.figma.com/blog/the-linear-method-opinionated-software/</guid>
-      <pubDate>Mon, 03 Jun 2024 12:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么闹钟设计讲究人性</title>
-      <link>https://uxdesign.cc/why-alarm-clock-design-speaks-about-humanity-d85efa17c627</link>
-      <description><![CDATA[一场响亮的冒险。
-]]></description>
-      <guid>https://uxdesign.cc/why-alarm-clock-design-speaks-about-humanity-d85efa17c627</guid>
-      <pubDate>Mon, 03 Jun 2024 12:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>逐步增强的 Popover 切换提示</title>
-      <link>https://css-irl.info/progressively-enhanced-popover-toggletips/</link>
-      <description><![CDATA[CSS 锚点定位规范使我们能够将元素相对于锚点进行定位，无论它们位于网页中的哪个位置。
-]]></description>
-      <guid>https://css-irl.info/progressively-enhanced-popover-toggletips/</guid>
-      <pubDate>Mon, 03 Jun 2024 00:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>爆米花戏剧</title>
-      <link>https://world.hey.com/jorge/the-popover-drama-48e317b3</link>
-      <description><![CDATA[弹出窗口闹剧始于一条推文，推文内容是 HEY 日历弹出窗口在受限制的互联网连接上加载缓慢。
-]]></description>
-      <guid>https://world.hey.com/jorge/the-popover-drama-48e317b3</guid>
-      <pubDate>Mon, 03 Jun 2024 00:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>差距</title>
-      <link>https://ishadeed.com/article/the-gap/</link>
-      <description><![CDATA[CSS gap 解决的痛点探究。
-]]></description>
-      <guid>https://ishadeed.com/article/the-gap/</guid>
-      <pubDate>Mon, 03 Jun 2024 00:43:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
