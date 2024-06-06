@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 01:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 03:18:01 GMT</lastBuildDate>
+    <item>
+      <title>WIRED FASHION with VOGUE：一场谈论多元未来和时尚、拓展想象力的活动将于6月22日星期六在涩谷PARCO举行！</title>
+      <link>https://wired.jp/article/futures-x-fashion-2024/</link>
+      <description><![CDATA[复数未来=“未来”中的时尚是什么？ 为了纪念日本版杂志《WIRED》VOL.52《FASHION FUTURE AH!》的出版，决定在涩谷PARCO举办为期一天的公开录音活动。总共将抽签选出130人受邀参加演讲会特别观看区和见面会。]]></description>
+      <guid>https://wired.jp/article/futures-x-fashion-2024/</guid>
+      <pubDate>Thu, 06 Jun 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“AI Overviews”，总结搜索结果，“抄袭”文章内容</title>
       <link>https://wired.jp/article/google-ai-overview-search-results-copied-my-original-work/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>“人工智能概述”中总结搜索结果的“错误信息问题”凸显了生成式人工智能的根本局限性。</title>
       <link>https://wired.jp/article/google-ai-overviews-broken-how-ai-works/</link>
-      <description><![CDATA[Google 搜索的“AI 概览”（使用 AI 生成并显示搜索结果概览）出现问题，导致 Google 回应生成错误答案的问题。这个问题再次凸显了生成式人工智能当前的局限性，它有时会表现出虚假或错误。]]></description>
+      <description><![CDATA[Google 搜索的“AI 概览”（使用 AI 生成并显示搜索结果概览）出现问题，导致 Google 需要处理该问题。这个问题再次凸显了生成式人工智能当前的局限性，它有时会表现出虚假或错误。]]></description>
       <guid>https://wired.jp/article/google-ai-overviews-broken-how-ai-works/</guid>
       <pubDate>Mon, 03 Jun 2024 23:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大约20年内，美国的汽车预计将实现完全电动化。如果现在美国所有汽车都可以转换为电动汽车，那么全国还需要增加多少个充电站？使用美国版“连线”进行的思想实验。]]></description>
       <guid>https://wired.jp/article/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</guid>
       <pubDate>Mon, 03 Jun 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“小型人工智能模型”会成为计算的未来吗？</title>
-      <link>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</link>
-      <description><![CDATA[微软的新研究表明，可以创建在智能手机和笔记本电脑上运行的微型人工智能模型，而不会影响性能。这项技术有潜力为人工智能开辟新的用途。]]></description>
-      <guid>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</guid>
-      <pubDate>Sun, 02 Jun 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
