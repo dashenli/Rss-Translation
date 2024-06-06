@@ -4,7 +4,14 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 18:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 19:11:22 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 用户对新政策模糊的 AI 影响感到愤怒</title>
+      <link>https://mashable.com/article/adobe-users-outaged-new-policy-trains-ai-their-work</link>
+      <description><![CDATA[Adobe 已向用户通报一项新政策，称其可以访问用户内容以“改进其服务和软件”。用户对这可能意味着使用他们的内容来训练人工智能感到愤怒。]]></description>
+      <guid>https://mashable.com/article/adobe-users-outaged-new-policy-trains-ai-their-work</guid>
+      <pubDate>Thu, 06 Jun 2024 18:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>如何在没有有线电视的情况下观看 2024 年托尼奖直播</title>
       <link>https://mashable.com/article/how-to-watch-tony-awards</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[SpaceX 的星际飞船超越了之前的三次试飞，在重返地球大气层时承受了最大加热。]]></description>
       <guid>https://mashable.com/article/spacex-starship-fourth-launch-reentry</guid>
       <pubDate>Thu, 06 Jun 2024 15:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>据传 iOS 18 邮件应用将获得 3 个新功能，包括“智能回复”功能</title>
-      <link>https://mashable.com/article/ios-18-mail-rumored-3-features</link>
-      <description><![CDATA[据报道，iOS 18 邮件应用程序将为 iPhone 用户推出三项新功能，包括新的“智能回复”功能。]]></description>
-      <guid>https://mashable.com/article/ios-18-mail-rumored-3-features</guid>
-      <pubDate>Thu, 06 Jun 2024 14:57:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
