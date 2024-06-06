@@ -4,7 +4,35 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 05 Jun 2024 21:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 01:00:30 GMT</lastBuildDate>
+    <item>
+      <title>“AI Overviews”，总结搜索结果，“抄袭”文章内容</title>
+      <link>https://wired.jp/article/google-ai-overview-search-results-copied-my-original-work/</link>
+      <description><![CDATA[谷歌搜索的“人工智能概述”使用人工智能生成和显示搜索结果摘要，在为搜索词生成的摘要中“抄袭”了《连线》的文章。这到底是什么意思？]]></description>
+      <guid>https://wired.jp/article/google-ai-overview-search-results-copied-my-original-work/</guid>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>非洲人民的数字“国家”、“Afropolitan”所瞄准的新经济区的未来和形态</title>
+      <link>https://wired.jp/article/afropolitan-founders-interview/</link>
+      <description><![CDATA[通过互联网创建虚拟“新国家”的运动正在世界各地蔓延。其中之一是“Afropolitan”，旨在建设“非洲人的数字国家”。这个项目对非洲人民意味着什么？将取得什么成果？我们询问了两位联合创始人。]]></description>
+      <guid>https://wired.jp/article/afropolitan-founders-interview/</guid>
+      <pubDate>Wed, 05 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音成功发射航天器“星际客机”将为未来航天发展带来什么</title>
+      <link>https://wired.jp/article/boeing-starliner-launch/</link>
+      <description><![CDATA[美国时间6月5日上午，波音公司载人飞船Starliner首次载人试飞成功。即使在国际空间站（ISS）结束运行后，这种新型航天器预计仍将作为运输工具发挥重要作用。]]></description>
+      <guid>https://wired.jp/article/boeing-starliner-launch/</guid>
+      <pubDate>Wed, 05 Jun 2024 22:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到“激光战争”时代</title>
+      <link>https://wired.jp/article/laser-wars-us-military-laser-weapons/</link>
+      <description><![CDATA[随着无人机和导弹攻击的急剧增加，激光武器终于被部署在战场上。今年春天，美军还公开宣布部署激光武器，暴露其实际上是在“轰炸”敌人。]]></description>
+      <guid>https://wired.jp/article/laser-wars-us-military-laser-weapons/</guid>
+      <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 员工在公开信中警告“忽视风险和报复的文化”</title>
       <link>https://wired.jp/article/openai-right-to-warn-open-letter-ai-risk/</link>
@@ -20,7 +48,7 @@
       <pubDate>Wed, 05 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么中国在虚假信息宣传方面表现如此糟糕</title>
+      <title>为什么中国在虚假信息宣传方面如此糟糕</title>
       <link>https://wired.jp/article/china-bad-at-disinformation/</link>
       <description><![CDATA[自中国政府领导的大规模虚假信息运动开始以来已经过去了七年。然而，即使到了生成式人工智能时代，似乎还没有取得任何成果。今年是全球大选年，会有多大程度的干扰和影响？]]></description>
       <guid>https://wired.jp/article/china-bad-at-disinformation/</guid>
@@ -43,14 +71,14 @@
     <item>
       <title>WeWork的重启将是对未来工作的考验</title>
       <link>https://wired.jp/article/wework-bankruptcy-future-of-work/</link>
-      <description><![CDATA[因财务困难而申请破产的WeWork的振兴计划已获得批准。通过以“适当的规模”运营来重振空间的努力也将成为预测联合办公空间业务的未来前景和“工作方式的未来”的考验。]]></description>
+      <description><![CDATA[因财务困难而申请破产的WeWork的振兴计划已获得批准。通过“适当规模”运营来重振空间的努力也将成为预测联合办公空间业务未来前景和“工作方式的未来”的考验。]]></description>
       <guid>https://wired.jp/article/wework-bankruptcy-future-of-work/</guid>
       <pubDate>Mon, 03 Jun 2024 23:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>总结搜索结果的“人工智能概述”中的“错误信息问题”凸显了生成式人工智能的根本局限性。</title>
+      <title>“人工智能概述”中总结搜索结果的“错误信息问题”凸显了生成式人工智能的根本局限性。</title>
       <link>https://wired.jp/article/google-ai-overviews-broken-how-ai-works/</link>
-      <description><![CDATA[Google 搜索的“AI 概览”（使用 AI 生成并显示搜索结果概览）出现问题，导致 Google 回应生成错误答案的问题。这个问题再次凸显了生成式人工智能当前的局限性，它有时会揭示谎言或错误。]]></description>
+      <description><![CDATA[Google 搜索的“AI 概览”（使用 AI 生成并显示搜索结果概览）出现问题，导致 Google 回应生成错误答案的问题。这个问题再次凸显了生成式人工智能当前的局限性，它有时会表现出虚假或错误。]]></description>
       <guid>https://wired.jp/article/google-ai-overviews-broken-how-ai-works/</guid>
       <pubDate>Mon, 03 Jun 2024 23:00:00 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>如果美国所有汽车都是电动汽车，我们需要多少个电动汽车充电站？</title>
       <link>https://wired.jp/article/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</link>
-      <description><![CDATA[预计美国汽车将在20年左右实现完全电动化。如果目前美国所有汽车都可以转换为电动汽车，那么全国还需要增加多少个充电站？使用美国版“连线”进行的思想实验。]]></description>
+      <description><![CDATA[大约20年内，美国的汽车预计将实现完全电动化。如果现在美国所有汽车都可以转换为电动汽车，那么全国还需要增加多少个充电站？使用美国版“连线”进行的思想实验。]]></description>
       <guid>https://wired.jp/article/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/</guid>
       <pubDate>Mon, 03 Jun 2024 02:00:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[微软的新研究表明，可以创建在智能手机和笔记本电脑上运行的微型人工智能模型，而不会影响性能。这项技术有潜力为人工智能开辟新的用途。]]></description>
       <guid>https://wired.jp/article/pocket-sized-ai-models-unlock-new-era-of-computing/</guid>
       <pubDate>Sun, 02 Jun 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建称为人工智能聊天机器人的“数字变形”</title>
-      <link>https://wired.jp/article/sz-the-lifelike-illusions-of-ai/</link>
-      <description><![CDATA[几十年来，动画师、玩具设计师和视频游戏开发者一直在创造充满活力的角色。现在，当我们对人工智能聊天机器人有同样的感觉时，那里发生了什么？]]></description>
-      <guid>https://wired.jp/article/sz-the-lifelike-illusions-of-ai/</guid>
-      <pubDate>Sun, 02 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新SNS“Maven”消除追随者，旨在偶然发现和深入讨论</title>
-      <link>https://wired.jp/article/maven-social-network-that-eliminates-followers-and-stress/</link>
-      <description><![CDATA[Maven 是一个由 Twitter 联合创始人埃文·威廉姆斯 (Evan Williams) 等人支持的新社交网络，旨在取消关注者和点赞，转而使用算法来鼓励偶遇和更深入的讨论。]]></description>
-      <guid>https://wired.jp/article/maven-social-network-that-eliminates-followers-and-stress/</guid>
-      <pubDate>Sun, 02 Jun 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Fitbit 到 Garmin，再到 Apple Watch。 15 款健身追踪器（按功能分类）</title>
-      <link>https://wired.jp/gallery/best-fitness-tracker/</link>
-      <description><![CDATA[跑步、户外活动、睡眠追踪等各种功能的健身追踪器层出不穷。 《连线》编辑部负责产品评论的编辑们整理出了一系列满足各种需求的“最佳”产品。]]></description>
-      <guid>https://wired.jp/gallery/best-fitness-tracker/</guid>
-      <pubDate>Sun, 02 Jun 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本《连线》编辑部评选出 2024 年 5 月发表的 5 篇著名文章</title>
-      <link>https://wired.jp/article/editors-5-stories-may-2024/</link>
-      <description><![CDATA[从5月份发表在《WIRED.jp》上的文章中，我们将介绍五个引起我们注意的故事，包括关于多维世界设计的对话以及医生讨论的空间计算的可能性。]]></description>
-      <guid>https://wired.jp/article/editors-5-stories-may-2024/</guid>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
