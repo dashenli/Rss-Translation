@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Wed, 05 Jun 2024 15:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 12:28:36 GMT</lastBuildDate>
+    <item>
+      <title>UI 交互和动画综述#44</title>
+      <link>https://tympanus.net/codrops/2024/06/06/ui-interactions-animations-roundup-44/</link>
+      <description><![CDATA[查看我们最新的动态设计系列，其中包含来自 Dribbble 的最佳选择，以激发您的创造力。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/06/ui-interactions-animations-roundup-44/</guid>
+      <pubDate>Thu, 06 Jun 2024 10:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>网格项目上的推送动画</title>
       <link>https://tympanus.net/codrops/2024/06/05/push-animation-on-grid-items/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索我们最新精选的网站，其精心设计的设计让您紧跟最新潮流。]]></description>
       <guid>https://tympanus.net/codrops/2024/05/24/inspirational-websites-roundup-60/</guid>
       <pubDate>Fri, 24 May 2024 10:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#840</title>
-      <link>https://tympanus.net/codrops/collective/collective-840/</link>
-      <description><![CDATA[介绍 CSS 锚点定位 API * 卓越范围语法 * 最佳意图屏障（ARIA 版）]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-840/</guid>
-      <pubDate>Tue, 21 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
