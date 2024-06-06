@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 06 Jun 2024 03:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:19:24 GMT</lastBuildDate>
+    <item>
+      <title>Swift 6 将会是一次重大的、不为人知的变化 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/swift-6-will-be-a-big-under-the-radar-change/</link>
+      <description><![CDATA[Howard Oakley 表示，对于改变 Apple 平台上应用程序结构的重大变化，很少会有人大肆宣传：
+
+不要被 Apple 长长的 macOS 15 新功能列表中的营销炒作所迷惑。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/swift-6-will-be-a-big-under-the-radar-change/</guid>
+      <pubDate>Thu, 06 Jun 2024 16:47:22 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 557：我喜欢欢呼声</title>
       <link>https://sixcolors.com/podcast/2024/06/clockwise-557-i-love-the-whoop/</link>
@@ -63,7 +72,7 @@ Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前�
       <link>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</link>
       <description><![CDATA[MacRumors 的 Juli Clover 报道称，备受推崇的 Mac 实用程序 Bartender 显然已被长期开发人员 Ben Surtees 出售，新主人最近重新签署了该应用程序，但尚未通知客户有关这一变化：
 
-在一些 Reddit 用户看到 MacUpdater 发出的警告后，这笔交易被曝光，警告他们 Bartender 背后的公司已被悄悄替换。…]]></description>
+一些 Reddit 用户看到 MacUpdater 发出的警告，告知他们 Bartender 背后的公司已被悄悄替换，这笔交易因此曝光。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</guid>
       <pubDate>Tue, 04 Jun 2024 23:43:28 GMT</pubDate>
     </item>
@@ -114,13 +123,6 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
       <description><![CDATA[如果 WBD 失去 NBA，WBD 会采取其他策略，我们会回复大量听众来信，而 Julia 也会发布一些重大的职业新闻。[Downstream+ 订阅者还可以听到我们讨论 Netflix 潜在的体育未来以及广播电视的面貌变化。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</guid>
       <pubDate>Thu, 30 May 2024 23:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 556：米卡，我们可能会打架</title>
-      <link>https://sixcolors.com/podcast/2024/05/clockwise-556-mikah-we-might-fight/</link>
-      <description><![CDATA[我们的视频游戏偏好和习惯、对 Nomad 带有 Find My 的新型薄型 Qi 可充电追踪卡的看法、我们如何在旅途中连接非 iPhone 设备以及我们对即将到来的 WWDC 的三大软件期望。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/clockwise-556-mikah-we-might-fight/</guid>
-      <pubDate>Wed, 29 May 2024 19:50:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
