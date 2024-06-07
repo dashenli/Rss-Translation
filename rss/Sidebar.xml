@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 09:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 12:29:21 GMT</lastBuildDate>
+    <item>
+      <title>消防栓目录</title>
+      <link>https://www.dayroselane.com/hydrants</link>
+      <description><![CDATA[由公共基础设施创建的公共领域设计资源。
+]]></description>
+      <guid>https://www.dayroselane.com/hydrants</guid>
+      <pubDate>Fri, 07 Jun 2024 11:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 CSS 的自定义范围滑块（带运动功能）</title>
+      <link>https://www.bram.us/2024/06/06/css-only-custom-range-slider-with-motion/</link>
+      <description><![CDATA[@property + 计数器 + 锚定 + 滚动驱动动画 = 😍
+]]></description>
+      <guid>https://www.bram.us/2024/06/06/css-only-custom-range-slider-with-motion/</guid>
+      <pubDate>Fri, 07 Jun 2024 11:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>客场球衣以丁丁为灵感，向漫画家埃尔热致敬</title>
+      <link>https://www.tintin.com/en/news/6069/tintin-inspired-away-kit-homage-to-cartoonist-herge</link>
+      <description><![CDATA[比利时红魔和红色火焰队推出新主场球衣。
+]]></description>
+      <guid>https://www.tintin.com/en/news/6069/tintin-inspired-away-kit-homage-to-cartoonist-herge</guid>
+      <pubDate>Fri, 07 Jun 2024 11:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>前部品牌</title>
+      <link>https://medium.com/smith-diction/branding-anterior-e95efdfffc3c</link>
+      <description><![CDATA[医疗保险AI公司品牌案例分析。
+]]></description>
+      <guid>https://medium.com/smith-diction/branding-anterior-e95efdfffc3c</guid>
+      <pubDate>Fri, 07 Jun 2024 10:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>微调文本输入</title>
+      <link>https://garrettdimon.com/journal/posts/fine-tuning-text-inputs</link>
+      <description><![CDATA[快速概述我们可以添加到表单字段的属性，以便向浏览器提供提示并改善访问者的用户体验。
+]]></description>
+      <guid>https://garrettdimon.com/journal/posts/fine-tuning-text-inputs</guid>
+      <pubDate>Fri, 07 Jun 2024 10:55:49 GMT</pubDate>
+    </item>
     <item>
       <title>Cara，一款对人工智能持怀疑态度的艺术家作品集应用程序，用户数量飙升至数十万</title>
       <link>https://www.thisiscolossal.com/2024/06/cara-app/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://arun.is/blog/art-of-noise/</guid>
       <pubDate>Wed, 05 Jun 2024 11:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>锚链接以及如何让它们变得棒极了</title>
-      <link>https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/</link>
-      <description><![CDATA[锚链接（也称为跳转链接）是提供页内导航的一种简单方法。
-]]></description>
-      <guid>https://codersblock.com/blog/anchor-links-and-how-to-make-them-awesome/</guid>
-      <pubDate>Tue, 04 Jun 2024 06:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>扁平行星</title>
-      <link>https://emildziewanowski.com/flat-planets/</link>
-      <description><![CDATA[探索创建行星来装饰天空盒。
-]]></description>
-      <guid>https://emildziewanowski.com/flat-planets/</guid>
-      <pubDate>Tue, 04 Jun 2024 05:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始的承诺</title>
-      <link>https://www.joshwcomeau.com/javascript/promises/</link>
-      <description><![CDATA[“Promises” API 是现代 JavaScript 中令人惊讶的棘手部分。
-]]></description>
-      <guid>https://www.joshwcomeau.com/javascript/promises/</guid>
-      <pubDate>Tue, 04 Jun 2024 05:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 长度单位</title>
-      <link>https://css-tricks.com/css-length-units/</link>
-      <description><![CDATA[一份全面的指南，涵盖 CSS 用于在尺寸、空间、时间甚至声音方面调整元素大小的九种长度。
-]]></description>
-      <guid>https://css-tricks.com/css-length-units/</guid>
-      <pubDate>Tue, 04 Jun 2024 05:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 的工作原理</title>
-      <link>https://wizardzines.com/zines/git/</link>
-      <description><![CDATA[如果你使用 git 多年，但仍然感到困惑，那么这本杂志就是为你准备的！
-]]></description>
-      <guid>https://wizardzines.com/zines/git/</guid>
-      <pubDate>Tue, 04 Jun 2024 05:53:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
