@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 06 Jun 2024 18:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 18:20:54 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）Magic Lasso Adblock：极其私密和安全的 Safari 网页浏览</title>
+      <link>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-6/</link>
+      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助 Six Colors。
+Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 中的所有侵入性广告、跟踪器和骚扰 - 阻止您被网络上的广告跟踪。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-6/</guid>
+      <pubDate>Fri, 07 Jun 2024 16:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>Swift 6 将会是一次重大的、不为人知的变化 ↦</title>
       <link>https://sixcolors.com/link/2024/06/swift-6-will-be-a-big-under-the-radar-change/</link>
@@ -31,9 +39,9 @@
     <item>
       <title>微软、苹果和人工智能 ↦</title>
       <link>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</link>
-      <description><![CDATA[Charles Stross 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其 Recall 功能来招致灾难：
+      <description><![CDATA[查尔斯·斯特罗斯 (Charles Stross) 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其召回功能来招致灾难：
 
-Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
+召回功能已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
       <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
     </item>
@@ -111,18 +119,11 @@ Kolide 最近发现网络责任保险问题有所增加。…]]></description>
     <item>
       <title>南极的网速很慢 ↦</title>
       <link>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</link>
-      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在在家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下工作效果很差的信息：
+      <description><![CDATA[我很喜欢 Brr 博客，它是由一位 IT 专家在南极洲待了一年期间撰写的。作者现在已回家，但这里有一篇惊喜的额外帖子，里面充满了有关南极洲互联网速度有多慢以及为什么现代软件在慢速连接下运行效果很差的信息：
 
 在南极可以下载，但会受到独特的限制。…]]></description>
       <guid>https://sixcolors.com/link/2024/05/slow-internet-at-the-south-pole/</guid>
       <pubDate>Fri, 31 May 2024 03:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺流 70：他们偷走了你的大脑</title>
-      <link>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</link>
-      <description><![CDATA[如果 WBD 失去 NBA，WBD 会采取其他策略，我们会回复大量听众来信，而 Julia 也会发布一些重大的职业新闻。[Downstream+ 订阅者还可以听到我们讨论 Netflix 潜在的体育未来以及广播电视的面貌变化。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/05/downstream-70-they-stole-your-brain/</guid>
-      <pubDate>Thu, 30 May 2024 23:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
