@@ -4,7 +4,25 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Jun 2024 18:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 21:12:41 GMT</lastBuildDate>
+    <item>
+      <title>洛根在《死侍与金刚狼》第三部预告片中表现得非常恼火</title>
+      <link>https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men</link>
+      <description><![CDATA[
+
+死侍和金刚狼在 《死侍与金刚狼》中。|截图：YouTube
+
+在《死侍》和《金刚狼》的预告片中，几乎没有任何迹象表明，当死侍开始讲述电影中打破第四面墙的多元宇宙恶作剧时，金刚狼对死侍除了厌恶和恼怒之外没有任何感觉。休·杰克曼 (Hugh Jackman) 的脸庞随着时间的推移变得越来越棱角分明，这似乎更适合代表洛根。
+新预告片比前两部更倾向于片段和俏皮话。也许是因为漫威和迪士尼已经为这部电影设定了情感赌注，首先是死侍（瑞恩·雷诺兹），然后是金刚狼。这部电影全是有关鸡巴的笑话，脾气暴躁的杰克曼皱着眉头，怒不可遏，怒目圆睁。
+
+根据导演肖恩·利维的说法，这“不是《死侍 3》，他最近告诉Screen Rant 这是“一场双人角色冒险”。即便如此，莫瑞娜·巴卡琳、罗伯·德兰尼、莱斯利·厄加姆斯和卡兰·索尼将回归，重新出演前两部电影中的角色，还有其他几位演员。该片将于 7 月 26 日上映。
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men</guid>
+      <pubDate>Sat, 08 Jun 2024 19:06:15 GMT</pubDate>
+    </item>
     <item>
       <title>Wholesome Direct 2024 最可爱的游戏</title>
       <link>https://www.theverge.com/24171620/wholesome-direct-2024-sgf-trailers-news</link>
@@ -88,19 +106,19 @@ MSI Claw。 |照片由 Sean Hollister / The Verge 拍摄
 
 当我在 5 月 18 日的评论中称 MSI Claw 令人尴尬时，一位评论者指出他们的基准测试分数比我高。果然：在我进行基准测试和我们发布之间，MSI 推出了新的图形驱动程序和 BIOS 更新。 
 我现在已经测试了这些更新。在我的一些测试中，它们表现更好。在其他测试中，我发现它们实际上更糟！总的来说，它们丝毫没有改变我的结论：MSI Claw 是当今消费级手持游戏电脑中表现最差的选择，你应该避开它。 
-下面，您将看到我在相同游戏中，在所有 Claw 的标准功率模式下的新基准测试结果。在几乎每个测试中，您都会看到 Claw 在速度上远远落后于竞争对手，同时使用更多功率。
+下面，您将看到我在相同游戏中，在所有 Claw 标准功率模式下的新基准测试结果。在几乎每个测试中，您都会看到 Claw 在速度上远远落后于竞争对手，同时使用更多功率。
 
 更糟糕的是，我仍然发现 Claw 在要求苛刻的游戏中在可玩和完全无法玩之间变化很大，而较便宜的 Steam Deck 则没有问题。在《古墓丽影：暗影》中，我看到游戏在一个没有敌人的洞穴中反复莫名其妙地下降到只有 20fps，在 720p 和中等规格下，然后过了一会儿才恢复到稳定的 60fps。 
-我在Cyber​​punk 2077中也看到了类似的情况，尽管 MSI Claw 在更新后通常在该游戏中具有更高的帧速率。
-而且，在电源模式方面，我现在还看到 Claw 的一些非常奇怪的行为。您可能认为 MSI 的“性能”模式比“平衡”模式更快，对吗？这不是我在Cyber​​punk 2077中看到的——当我仔细观察帧速率下降时，我注意到它们总是与意外的功率下降同时发生。 
+我在Cyber​​punk 2077中也看到了类似的情况，尽管 MSI Claw 在更新后通常在该游戏中具有更高的帧率。
+而且，在电源模式方面，我现在还看到 Claw 的一些非常奇怪的行为。您可能认为 MSI 的“性能”模式比“平衡”模式更快，对吗？这不是我在Cyber​​punk 2077中看到的——当我仔细观察帧率下降时，我注意到它们总是与意外的功率下降同时发生。 
 
 
 
 虽然英特尔 Meteor Lake 芯片在平衡模式下的功耗相当稳定，为 30 瓦，但在性能模式下，它试图达到 35、36 甚至 37 瓦——但无法维持，一次又一次地降至 29 瓦。插入 USB-C 电源后，性能模式效果更好，持续消耗 37 至 45 瓦的功率。遗憾的是，额外的功率并没有改善《赛博朋克》的性能。
 如果您看到的分数比我高，我强烈建议您再运行该基准测试三到四次，因为看起来 MSI 现在在您切换电源模式后，芯片的运行速度会不可持续地加快一段时间，然后又会减速。华硕 ROG Ally 也有同样的问题，在开始计算之前，我总是不得不在那里多运行几次基准测试，这样我就不会因为异常值而影响平均值。当我第一次评测 Claw 时，我不需要这样做。
-值得称赞的是，MSI 和英特尔至少在 Dave the Diver 中可以流畅地以 60fps 的速度运行，只有偶尔的掉线，这与我最初的评测不同。
+值得称赞的是，MSI 和英特尔至少现在可以流畅地玩 Dave the Diver，速度为 60fps，偶尔会掉线，这与我最初的评测不同。
 
-总的来说，我认为 MSI Claw 根本就不应该出售。我很高兴当它刚推出时，我从来没有想过要买一个。我会觉得自己被骗了，就像在 MSI 自己的论坛上说他们感觉被骗了的用户一样，现在 MSI 在原版发布不到三个月后就宣布了不是一个，而是两个改进版本。 
+总的来说，我认为 MSI Claw 根本就不应该发售。我很高兴在它刚推出时，我从来没有想过要买一台。我会觉得自己被骗了，就像在 MSI 自己的论坛上说他们感觉被骗了的用户一样，现在 MSI 在原版发布不到三个月后就宣布了不是一个，而是两个改进版本。 
 该公司在给评论者警告任何人的机会之前就将其出售，这肯定无济于事。
 如果 MSI 认真对待手持设备领域，并且听起来该公司是，我认为它应该为原始 Claw 的买家提供以旧换新计划。如果你想解决这个问题，MSI，让他们以大幅折扣选择今年秋季的修订版之一。]]></description>
       <guid>https://www.theverge.com/2024/6/8/24174086/msi-claw-updates-review-addendum</guid>
@@ -114,18 +132,11 @@ MSI Claw。 |照片由 Sean Hollister / The Verge 拍摄
       <pubDate>Sat, 08 Jun 2024 00:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>Devolver 的独立游戏展上出现了黑帮、邪教和一档令人毛骨悚然的真人秀节目</title>
+      <title>Devolver 的独立游戏展上，有黑帮、邪教和一档令人毛骨悚然的真人秀节目</title>
       <link>https://www.theverge.com/24171195/devolver-digital-direct-2024-summer-game-fest-news-trailers</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24171195/devolver-digital-direct-2024-summer-game-fest-news-trailers</guid>
       <pubDate>Sat, 08 Jun 2024 00:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者日展示的 10 款最佳游戏</title>
-      <link>https://www.theverge.com/24171651/day-of-the-devs-showcase-summer-game-fest-2024-best</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24171651/day-of-the-devs-showcase-summer-game-fest-2024-best</guid>
-      <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
