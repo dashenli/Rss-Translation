@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 09 Jun 2024 03:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 06:19:23 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能作为新的音乐聆听媒体：德井奈央的《续：人工智能创造》</title>
+      <link>https://wired.jp/article/series-nao-tokui-a-continuation-of-computational-creativity-and-beyond-3/</link>
+      <description><![CDATA[艺术家德井奈绪 (Nao Tokui) 的系列作品乘着快速变化的人工智能技术的浪潮，在考虑我们与人工智能关系的理想未来的同时，他受到人工智能技术的支配，有时甚至抵制它。在第三场会议中，我们将回顾人工智能音乐生成系统的定位，并解释寻找一个新词来代替“生成”以唤起创作行为的重要性。]]></description>
+      <guid>https://wired.jp/article/series-nao-tokui-a-continuation-of-computational-creativity-and-beyond-3/</guid>
+      <pubDate>Sun, 09 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生活在“现在就在这里”的拉姆·达斯在去世时留下的最后一课</title>
       <link>https://wired.jp/article/the-day-ram-dass-died/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌搜索的“AI Overviews”使用人工智能生成和显示搜索结果摘要，在为搜索词生成的摘要中“抄袭”了《连线》的文章。这到底是什么意思？]]></description>
       <guid>https://wired.jp/article/google-ai-overview-search-results-copied-my-original-work/</guid>
       <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>非洲人民的数字“国家”、“Afropolitan”所瞄准的新经济区的未来和形态</title>
-      <link>https://wired.jp/article/afropolitan-founders-interview/</link>
-      <description><![CDATA[通过互联网创建虚拟“新国家”的运动正在世界各地蔓延。其中一项倡议是“Afropolitan”，旨在为非洲人建立一个“数字国家”。这个项目对非洲人民意味着什么？将取得什么成果？我们询问了两位联合创始人。]]></description>
-      <guid>https://wired.jp/article/afropolitan-founders-interview/</guid>
-      <pubDate>Wed, 05 Jun 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
