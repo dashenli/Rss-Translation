@@ -4,7 +4,55 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Mon, 10 Jun 2024 18:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 21:16:14 GMT</lastBuildDate>
+    <item>
+      <title>科蒂诺是大棕榈泉地区的一个“迪士尼故事生活™社区”……</title>
+      <link>https://kottke.org/24/06/0044775-cotino-is-a-storyliving-b</link>
+      <description><![CDATA[科蒂诺是大棕榈泉地区的一个“迪士尼故事生活”社区。“公园、小路和长廊将体现迪士尼幻想工程的想象力。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044775-cotino-is-a-storyliving-b</guid>
+      <pubDate>Mon, 10 Jun 2024 20:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能现在也能毁掉电影</title>
+      <link>https://kottke.org/24/06/ai-can-ruin-movies-now-too</link>
+      <description><![CDATA[
+YouTuber Nerrel 批评詹姆斯·卡梅隆发布了《异形》和《真实的谎言》的 4K 重制版，而这些重制版被 AI 清理得一塌糊涂。
+最好的 4k 版本往往遵循一个非常简单的模板：清理和扫描底片，修复任何明显的损坏迹象，并恢复颜色以匹配原始分级，除此之外尽可能少地进行干预。这个过程不应该是为了让风格现代化或强迫电影看起来像数字视频。35 毫米胶片能够提供令人难以置信的图像质量，而 4k 是第一个能够提供大部分细节的家庭格式——这应该足够了。制作精良的 4k 就像拥有原始底片的原始副本，可以在自己的家中观看，该胶片的完整数据——颗粒和细节——都以数字方式永久保存。这就是深度学习算法的问题——它们无法保留细节。他们尽力猜测一个物体应该是什么，然后从他们的数字混蛋那里拉出新的细节，并将它们涂抹在屏幕上。
+如果好莱坞和它最好的导演之一对他们的电影不够关心，以至于不能把电影做好，他们怎么能说服我们关心他们的电影呢？
+标签： 人工智能 · 电影学校 · 好莱坞 · 詹姆斯·卡梅隆 · 电影 · 视频
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/ai-can-ruin-movies-now-too</guid>
+      <pubDate>Mon, 10 Jun 2024 20:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Verge：苹果开发者大会上的 13 个最大公告，包括他们的……</title>
+      <link>https://kottke.org/24/06/0044784-the-verge-the-13-biggest</link>
+      <description><![CDATA[The Verge：苹果开发者大会的 13 项重大公告，包括他们的 AI 计划和新的操作系统功能。
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044784-the-verge-the-13-biggest</guid>
+      <pubDate>Mon, 10 Jun 2024 19:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>“在美国，枪支自杀的次数比枪支杀人的次数还多......</title>
+      <link>https://kottke.org/24/06/0044777-there-have-been-more-gun</link>
+      <description><![CDATA[“过去 25 年来，美国每年的枪支自杀事件都比枪支杀人案多。然而，自杀对社区造成的伤害在全国枪支辩论中很少被提及。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044777-there-have-been-more-gun</guid>
+      <pubDate>Mon, 10 Jun 2024 19:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>“大象会互相呼唤名字，听到其他大象的声音时会做出回应......</title>
+      <link>https://kottke.org/24/06/0044778-elephants-call-each-other</link>
+      <description><![CDATA[“根据新研究，大象会互相呼唤名字，当它们听到别人呼唤自己的名字时，就会做出反应。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044778-elephants-call-each-other</guid>
+      <pubDate>Mon, 10 Jun 2024 18:46:57 GMT</pubDate>
+    </item>
     <item>
       <title>1982 年 DC 漫画风格指南</title>
       <link>https://kottke.org/24/06/1982-dc-comics-style-guide</link>
@@ -92,7 +140,7 @@
       <title>曼哈顿的阴影地形图</title>
       <link>https://kottke.org/24/06/a-shaded-relief-map-of-manhattan</link>
       <description><![CDATA[
-使用美国地质调查局的激光雷达数据和一个名为 ReliefViz 的网站，一位 Reddit 用户创建了这张漂亮的曼哈顿（及周边地区）蓝色和灰度阴影浮雕地图。值得点击探索全尺寸图像。
+Reddit 用户使用美国地质调查局的激光雷达数据和一个名为 ReliefViz 的网站创建了这张漂亮的曼哈顿（及周边地区）蓝灰阴影地形图。值得点击探索全尺寸图像。
 标签： 城市 · 曼哈顿 · 地图
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/06/a-shaded-relief-map-of-manhattan</guid>
@@ -106,54 +154,6 @@
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/06/0044761-a-uk-research-team-has</guid>
       <pubDate>Thu, 06 Jun 2024 21:29:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jamie xx 的新专辑《In Waves》将于 9 月发行……</title>
-      <link>https://kottke.org/24/06/0044764-new-album-from-jamie-xx</link>
-      <description><![CDATA[Jamie xx 的新专辑《In Waves》将于 9 月 20 日发行。In Waves。“我想同时制作一些有趣、快乐和内省的东西。”
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044764-new-album-from-jamie-xx</guid>
-      <pubDate>Thu, 06 Jun 2024 20:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>从博物馆和图书馆免费下载彩色书籍</title>
-      <link>https://kottke.org/24/06/download-free-coloring-books-from-museums-and-libraries</link>
-      <description><![CDATA[
-
-
-
-由纽约医学院主办，#ColorOurCollections 是每年收集的来自博物馆和图书馆收藏的彩色书籍。您可以免费从网站下载今年的彩色书籍（以及过去几年的彩色书籍）。 （来自 开放文化）
-标签： 艺术 · 设计 · 地图
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/download-free-coloring-books-from-museums-and-libraries</guid>
-      <pubDate>Thu, 06 Jun 2024 18:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年后每个父母和孩子之间的每次谈话......</title>
-      <link>https://kottke.org/24/06/0044740-every-conversation-betwee</link>
-      <description><![CDATA[大学毕业一年后，父母与孩子之间的每一次对话。“父母：欢迎回家！孩子：操纵欲强！父母：等等。什么？孩子：有毒！父母：谁？我？孩子：自恋者！父母：你一直在说话，但没有动词。”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044740-every-conversation-betwee</guid>
-      <pubDate>Thu, 06 Jun 2024 18:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>主演计算机：电影和电视中使用的计算机目录……</title>
-      <link>https://kottke.org/24/06/0044733-starring-the-computer-a-c</link>
-      <description><![CDATA[Starring the Computer：电影和电视节目中使用的计算机目录。例如：“Andor 的第一集有一个经过大量改装的 Tandy TRS-80 Model III。”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044733-starring-the-computer-a-c</guid>
-      <pubDate>Thu, 06 Jun 2024 15:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>《疯狂鸭子》是我最喜欢的 Looney Tunes 卡通片之一。有些...</title>
-      <link>https://kottke.org/24/06/0044759-duck-amuck-is-one-of</link>
-      <description><![CDATA[Duck Amuck 是我最喜欢的 Looney Tunes 卡通片之一。一些经典的打破第四面墙的动画。
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044759-duck-amuck-is-one-of</guid>
-      <pubDate>Thu, 06 Jun 2024 14:55:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
