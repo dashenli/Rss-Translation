@@ -4,147 +4,211 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Jun 2024 15:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:19:14 GMT</lastBuildDate>
     <item>
-      <title>泄露的 Google Pixel Watch 3 渲染图显示它将变得更厚但不会更大</title>
-      <link>https://www.theverge.com/2024/6/10/24175247/google-pixel-watch-3-leak-renders-rumors-41mm</link>
+      <title>Apple Intelligence：iPhone 和 Mac 上即将推出的每项全新 AI 功能</title>
+      <link>https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac</link>
       <description><![CDATA[
 
-这些 Pixel Watch 3 渲染图看起来与之前的型号一模一样。 | 图片：91mobiles / OnLeaks
 
-Google Pixel Watch 3 渲染图显然已经泄露，除了设计略显厚重之外，看起来没有太大变化。正如91mobiles和OnLeaks所披露的，后者上个月揭露了三星传闻中的“Ultra”Galaxy Watch，Pixel Watch 3可能会采用稍厚的表壳，以容纳新的307mAh电池，略高于Pixel Watch 2的304mAh。
-不幸的是，对于希望屏幕更大的粉丝来说，泄漏的信息仅显示了41毫米的尺寸和1.2英寸的显示屏，就像谷歌目前的 Pixel Watch 2 一样。不过，据 9to5Google 报道，谷歌还在开发一款更大的 45 毫米手表，预计将于今年晚些时候推出。
-泄漏中列出的尺寸（以及 3D 旋转视频）为 40.79 x 40.73 x 14 毫米，而 Pixel Watch 2 为 41 x 41 x 12.3 毫米。无论尺寸如何，今年推出的任何新款 Google 可穿戴设备都可能搭载 Wear OS 5，Google 表示这将有助于延长电池寿命。
-
-
-图片：91mobiles / OnLeaks
-那里有新的传感器吗？
+Apple 在 WWDC 2024 上宣布了“Apple Intelligence”，这是针对 iPhone、Mac 等设备的一套全新 AI 功能的名称。 
+这家曾经拒绝在谈论其机器学习功能时使用“人工智能”一词的公司现在在其所有平台上都增强了 AI。该公司一直落后于谷歌和微软等公司，这些公司在 2022 年 OpenAI 公开披露 Apple Intelligence 后，就开始凭借自己的生成式 AI 功能领先。现在，它正在努力追赶。
+Apple Intelligence 将在应用程序中为您采取行动
+苹果表示，其 AI 功能将能够在应用程序中为您做事。它将能够管理您的通知，自动为您编写内容，或总结邮件和其他应用程序中的文本。该公司还表示，它可以执行一些操作，例如引用一个应用程序来执行另一个应用程序的操作，例如要求它播放您的伴侣发送给您的播客。
+当然，这是苹果，所以它必须有一个隐私故事。该公司表示，其 AI 功能将在设备上处理以保护信息的私密性。但您需要 A17 Pro 或 M 系列芯片才能利用它。不过，故事的一部分也在于“语义索引”，它会在需要时抓取个人信息，并在各个应用程序中显示这些信息。
+但当人工智能功能需要进入云端时，苹果表示它将进入所谓的“私有云”，并且数据永远不会存储在服务器上，苹果表示它永远无法访问这些数据。它表示，独立专家将核实苹果的说法是否属实。 
 
 
+正在开发……请查看我们的实时博客了解最新详情。
 
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-Pixel Watch 2 的背面。
 
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24175247/google-pixel-watch-3-leak-renders-rumors-41mm</guid>
-      <pubDate>Mon, 10 Jun 2024 15:06:37 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac</guid>
+      <pubDate>Mon, 10 Jun 2024 18:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>这是世界上第一个使用空间音频拨打的电话</title>
-      <link>https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced</link>
+      <title>苹果为 Apple TV Plus 提供的 InSight 功能会告诉你那位演员是谁</title>
+      <link>https://www.theverge.com/2024/6/10/24175423/apple-tv-plus-features-tvos-wwdc</link>
       <description><![CDATA[
 
-诺基亚首席执行官 Pekka Lundmark 与芬兰数字化和新技术大使 Stefan Lindström 进行了通话。 | 图片：诺基亚
 
-诺基亚首次使用 3D 空间音频进行音频和视频通话，该公司于周一宣布。它使用 3GPP 沉浸式视频和音频服务 (IVAS) 编解码器通过蜂窝网络拨打电话，让呼叫者能够“实时听到空间声音”。
-IVAS 编解码器 是 5G Advanced，这是即将推出的 5G 网络升级，可以提供更快的速度、更高的能源效率、更准确的基于蜂窝的定位等。目前，通过蜂窝网络拨打的所有电话都是单声道的，这意味着音频被压缩成单个通道。另一方面，空间音频使声音听起来像是来自不同的方向，因为它们是通过多个通道传递的。
+Apple 的 tvOS（运行在该公司 Apple TV 流媒体设备上的软件）很少成为 WWDC 的关注焦点。但今年秋天它仍将获得一些新功能。
 
-一些应用程序（如 Apple Music、Netflix 和 Disney Plus）提供空间音频，以获得更逼真的聆听体验——但仅限于受支持的聆听设备。诺基亚告诉路透社，IVAS 编解码器可以在“绝大多数”配备至少两个麦克风的智能手机中启用空间音频。诺基亚总裁 Jenni Lukander 表示：“这现在正变得标准化……因此网络提供商、芯片组制造商、手机制造商可以开始在其产品中实施它。”
-诺基亚只是致力于将 IVAS 编解码器引入 5G Advanced 的公司之一。但是，正如路透社指出的那样，我们可能还要过几年才会在我们的蜂窝网络上看到更具沉浸感的音频和视频通话。]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced</guid>
-      <pubDate>Mon, 10 Jun 2024 14:31:50 GMT</pubDate>
+Apple TV 的“增强对话”功能，随 iOS 17 一起推出，现在将使用机器学习来实现“更高的语音清晰度”，Apple 传感和连接副总裁 Ron Huang 在今天的 WWDC 活动期间表示。增强对话功能可将对话与背景噪音分开，以便您能更好地听到音效和音乐中说的话，该功能还将出现在更多电视扬声器和接收器以及 AirPods 和其他蓝牙设备上。之前，只有搭配第二代 HomePod 的 Apple TV 4K 才有此功能。
+Apple TV Plus 的新 InSight 功能将显示演员和节目配乐的详细信息，因此您可以直接从遥控器将曲目添加到 Apple Music。该功能还可以与 iPhone 一起用作电视遥控器。但是，InSight 仅限于 Apple TV Plus 原创节目和电影。
+另一个新功能是，您可以将字幕设置为在电视静音或跳回时自动显示。
+该公司还增加了对 21:9 投影仪的支持，因此您可以“完全按照导演的意图”观看宽屏电影。还有一款新的史努比屏幕保护程序即将推出，当您的电视处于空闲状态时，它可以让这只顽皮的小狗通过动画活跃起来。 
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24175423/apple-tv-plus-features-tvos-wwdc</guid>
+      <pubDate>Mon, 10 Jun 2024 18:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>Cohere 首席执行官艾丹·戈麦斯表示，人工智能将比你想象的更快地赚钱</title>
-      <link>https://www.theverge.com/24173858/ai-cohere-aidan-gomez-money-revenue-llm-transformers-enterprise-stochastic-parrot</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24173858/ai-cohere-aidan-gomez-money-revenue-llm-transformers-enterprise-stochastic-parrot</guid>
-      <pubDate>Mon, 10 Jun 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的人工智能机遇在于大局</title>
-      <link>https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024</guid>
-      <pubDate>Mon, 10 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何观看苹果 2024 年 WWDC</title>
-      <link>https://www.theverge.com/2024/6/10/24171216/apple-wwdc-2024-date-time-how-to-watch</link>
+      <title>苹果发布 macOS Sequoia，支持 iPhone 镜像和一系列其他更新</title>
+      <link>https://www.theverge.com/2024/6/10/24170586/macos-15-mac-apple-ai-wwdc-2024</link>
       <description><![CDATA[
 
-插图：The Verge
+照片：Allison Johnson / The Verge
 
-Apple 制定了 AI 计划，我们终于可以听到更多消息了 于 6 月 10 日在今年的全球开发者大会期间发布。如果您不是前往加利福尼亚州库比蒂诺现场观看 WWDC 2024 的幸运儿之一，您可以于美国东部时间下午 1 点在 YouTube、Apple TV 应用程序或 Apple 活动页面 上观看主题演讲。
-该公司预计将在下一次重大 iOS 更新中公布大量新 AI 功能，包括语音备忘录转录、即时生成的自定义表情符号以及 Siri 改进，其中包括能够控制单个应用功能。 
+苹果周一在 WWDC 2024 上正式发布了 macOS 15 Sequoia，具有 iPhone 镜像、连续性更新、自动窗口平铺 — 终于 — 和跨平台的密码应用程序。开发人员测试版现已推出，公开测试版将于本月推出。 
+操作系统的首批功能之一是 iPhone 镜像，它可让您通过 Mac 控制手机。您将在 Mac 上收到手机通知以及音频直通。终于，您的手机有了非触摸屏界面！
+使用镜像时，您的 iPhone 保持锁定状态，即使在
 
-许多功能将在设备上运行，但有些将转移到云端，据报道，苹果将使用M2 Ultra 驱动服务器——这几乎肯定会成为该公司隐私宣传的一部分。该公司还预计将宣布与 OpenAI 达成一项新协议，让 ChatGPT 能够更深入地访问 iOS。
-AI 将成为重头戏，但苹果可能会宣传其他非 AI 改进，其中包括 Apple Photos、iOS 和 macOS 设置应用以及控制中心的 UI 更新。信息可能会获得一项新功能，有点像全屏效果（想想烟花或五彩纸屑），但适用于短信中的单个单词。据报道，苹果将为 Vision Pro 宣布推出 visionOS 2.0，其中包含新功能和第一方应用程序的原生版本，而这些应用程序迄今为止仅作为 iPad 应用程序提供。 
-彭博社记者马克·古尔曼 (Mark Gurman) 在最新一期的Power On中告诉订阅者，该公司不会在 WWDC 2024 上推出任何新硬件。敬请关注 6 月 10 日美国东部时间下午 1 点在 YouTube 或 Apple 网站 上播出的直播。当然，请关注 The Verge，我们将在那里为您带来最重要的新闻。
-]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24171216/apple-wwdc-2024-date-time-how-to-watch</guid>
-      <pubDate>Mon, 10 Jun 2024 11:00:00 GMT</pubDate>
+
+照片：Allison Johnson / The Verge
+iPhone 镜像将您的手机放在您的Mac。
+
+Apple 还更新了 Safari，增加了一系列新功能，包括突出显示 - 使用机器学习来检测页面上有趣的内容，以及阅读器模式的新增功能，包括摘要和目录，大概也是通过机器学习生成的。它还具有用于页面视频内容的查看器模式。
+
+Keychain 正在进行重大更新，推出了一款新的跨平台密码应用，可以存储许多新类型的帐户凭据，包括 Wi-Fi 密码、密钥、验证码和共享密码。它将在 iOS、iPad、Mac、VisionOS 和 Windows 上提供。 
+
+
+照片：Allison Johnson / The Verge
+Passwords 现在支持的所有密码类型。
+
+
+
+
+
+
+
+
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24170586/macos-15-mac-apple-ai-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>Frontier 黑客威胁泄露至少 75 万客户的私人数据</title>
-      <link>https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom</link>
+      <title>苹果发布 iPadOS 18</title>
+      <link>https://www.theverge.com/2024/6/10/24140821/apple-ipados-18-features-updates-apps-wwdc-2024</link>
       <description><![CDATA[
 
-RansomHub 勒索组织已声称对 4 月 14 日针对 Frontier 的网络攻击负责。 |插图：Beatrice Sala
+图片：Apple
 
-Frontier Communications 透露，在 4 月 14 日的网络攻击后，超过 750,000 名客户的信息（包括全名和社会安全号码）在数据泄露中被曝光。黑客声称拥有更多信息，除非 Frontier 支付赎金，否则他们会公布这些信息。
-根据 Frontier 提交给缅因州总检察长办公室的通知样本，此次攻击使黑客能够访问 Frontier 系统中 751,895 名客户的个人数据。 Frontier 已通知受影响的客户，并为他们提供了一年的免费信用监控和身份盗窃服务，但表示“不相信”客户的财务信息在此次泄密事件中被泄露。
-Bleeping Computer 报道称，RansomHub 勒索组织 声称对 6 月 4 日的袭击事件负责，并威胁称，除非 Frontier 在 6 月 14 日之前回应他们的要求，否则他们将泄露其涉嫌窃取的 5GB 客户数据。该组织声称，被盗数据集包含 200 万 Frontier 客户的信息，包括他们的全名、实际地址、出生日期、社会安全号码、电子邮件地址、信用评分和电话号码。
-Frontier 表示，在袭击发生后，它加强了网络安全，并通知了监管机构和执法部门。一份证券文件显示，该公司被迫关闭部分系统以遏制事件发生。]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom</guid>
-      <pubDate>Mon, 10 Jun 2024 10:08:14 GMT</pubDate>
+Apple 在 WWDC 2024 主题演讲 期间提供了 iPadOS 18 的预览，简要介绍了最新的平板电脑软件的版本。与往年一样，新更新将于秋季发布，今天将提供开发者测试版，下个月将提供公开测试版。 
+软件更新最终为 Apple 平板电脑添加了内置计算器。这意味着 iPad 用户将不再需要下载第三方应用，这些应用通常充斥着广告，而且很少针对 iPad 的较大尺寸进行优化，只需执行简单的数学计算即可。
+
+
+图片：Apple
+Apple Pencil 可以在您写完数学题后解答数学题。
+
+新计算器还可以与 Apple Pencil 配合使用，因此您可以在写完数学题后解答数学题。用触控笔书写。Apple 还推出了 Smart Script，它使用机器学习在您书写时改善文本的外观。它还能够重现您自己的手写风格、为您进行拼写检查，并将键入的文本转换为您自己的风格。
+
+
+图片：Apple
+您可以个性化您的主屏幕。
+
+即将推出的软件更新还将引入一些新的 iOS 18 功能，包括个性化主屏幕的新方法和自定义控制中心。它还添加了一个可自定义的浮动选项卡，使导航应用程序变得更加容易。
+一个月前，苹果更新了其 iPad 产品线，推出了几款新平板电脑，包括搭载 M4 的 iPad Pro 和搭载 M2 的 iPad Air。高端 Pro 机型首次采用 OLED 显示屏，而 iPad Air 则有两种尺寸：11 英寸和 13 英寸。
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24140821/apple-ipados-18-features-updates-apps-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:55:23 GMT</pubDate>
     </item>
     <item>
-      <title>Xbox 主管：“我认为我们也应该有一款掌上游戏机”</title>
-      <link>https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024</link>
+      <title>苹果时隔 14 年推出 iPad 计算器应用</title>
+      <link>https://www.theverge.com/2024/6/10/24175487/ipad-calculator-app-ipados18-pencil-apple-wwdc2024</link>
       <description><![CDATA[
 
-运行在 ROG Ally 上的 Xbox 应用程序。 | 照片由 Tom Warren / The Verge 拍摄
+图片：Apple
 
-微软 Xbox 主管 Phil Spencer 几个月来一直在暗示可能会推出 Xbox 手持设备。今年早些时候，他在点赞了 X 上提到这款新硬件可能性的帖子后，表示自己是“掌上游戏机的忠实粉丝”，。现在，在接受 IGN 采访时，Spencer 表示：“我认为我们也应该有一款掌上游戏机。”
-这是迄今为止微软正在开发 Xbox 掌上游戏机的最大暗示，而这早已是传闻已久的事情。“我们在硬件领域的未来非常光明。团队围绕不同外形和不同游戏方式所做的工作让我非常兴奋，”Spencer 说道。 “今天是关于游戏的……但我们会有时间出来讨论更多关于平台的问题。”
-
-当被问及 Xbox 掌上游戏机是否会串流游戏或在本地玩游戏时，Spencer 进一步暗示微软正在考虑真正的掌上游戏设备，而不是像 PlayStation Portal 这样的设备。“我喜欢我的 ROG Ally、我的联想 Legion Go 和我的 Steam Deck。我认为能够在本地玩游戏非常重要，”Spencer 说。
-今年早些时候，Spencer 谈到希望在掌上游戏 PC 上实现紧凑型 Xbox 模式。“我希望能够以全屏模式启动 Xbox 应用程序，但采用紧凑模式，”Spencer 在 Polygon 采访 中说道。“就像我希望打开电视时感觉像 Xbox 的仪表板一样。[除了我想要] 在这些设备上。”
-我怀疑微软正在开发的是一款基于 Windows 的 Xbox 掌上游戏机，但它能够运行 Xbox 游戏和完整的 Xbox 仪表板。今年早些时候，我在 The Vergecast 上讨论过，我 理想中的 Xbox 掌上电脑。它的核心是运行 Windows，但从不向你展示这一点，所以它看起来和感觉起来都像 Xbox 游戏机，但如果你想运行 Steam 游戏或 Xbox 游戏，你可以。
-这需要微软以一种我们从未见过的方式将 Xbox 和 Windows 合并在一起，但随着Xbox 的未来看起来很像 PC，这比以往任何时候都更加不可避免。
-]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024</guid>
-      <pubDate>Mon, 10 Jun 2024 08:19:42 GMT</pubDate>
+iPad 终于在 iPadOS 18 中获得了计算器应用。Apple 刚刚在 WWDC 2024 上宣布了这款备受期待的应用。
+从表面上看，这款应用看起来很像您可能熟悉的 iOS 计算器。但它也支持 Apple Pencil，这意味着你可以写下数学问题，然后应用程序会通过 Apple 称为 Math Notes 的功能来解决它​​们。 
+iPad 计算器的到来并不完全令人意外，因为今年早些时候就有传言称该应用程序将登陆 Apple 的平板电脑。但很高兴这款应用终于上线了，尤其是在苹果两年前在 iPadOS 16 中为 iPad 添加天气应用之后。
+iPadOS 18 还包括一项名为“智能脚本”的功能，可让您的手写内容更易于阅读，以及iOS 18 中包含的一些个性化更新。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24175487/ipad-calculator-app-ipados18-pencil-apple-wwdc2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:54:47 GMT</pubDate>
     </item>
     <item>
-      <title>Xbox 首席执行官确认更多游戏将登陆其他平台</title>
-      <link>https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview</link>
+      <title>苹果 AirPods 升级，配备强大的辅助功能</title>
+      <link>https://www.theverge.com/2024/6/10/24173874/apple-airpods-new-features-wwdc-2024</link>
       <description><![CDATA[
 
-插图：The Verge
 
-Xbox 首席执行官 Phil Spencer 已确认，微软自己的更多游戏将登陆其他平台，例如 PS5 和 Nintendo Switch。微软今年早些时候透露，四款 Xbox 独占游戏将在 PS5 上推出，部分游戏将在 Nintendo Switch 上推出，粉丝们不禁想知道这是否只有四款游戏，还是会有更多游戏推出。Spencer 借此机会在昨天接受 IGN 采访时澄清了这个谜团。
-“我们对 Xbox 客户的承诺是，您将有机会购买或订阅该游戏，我们将在其他屏幕上支持该游戏，”Spencer 说。 “您将在更多平台上看到更多我们的游戏，我们认为这对我们正在打造的系列游戏有利，我们从玩家那里看到了这一点，玩家喜欢玩游戏。”
+与过去几年一样，Apple 今天概述了即将推出的新软件功能，这些功能将加入该公司目前的 AirPods 耳塞和耳机系列。
+Apple 正在推出 Siri Interactions，其中包括 AirPods 的新手势控制，以便以新的方式控制 Siri。您可以摇头表示“是”或“否”来回应，而无需使用语音，这在嘈杂的环境中特别有用。
+AirPods Pro 正在获得新的语音隔离技术，该技术利用 H2 芯片和机器学习来隔离和增强语音质量，同时消除风等背景噪音，以便听众可以清楚地听到您的声音。
+还有新的个性化空间音频和动态头部跟踪功能，现在支持游戏。首批支持该功能的游戏之一是 iOS 上的《极品飞车移动版》。 Apple 正在添加一个新 API，以便开发人员可以利用个性化空间音频和新的高品质 16 位、48kHz 音频，通过 AirPods Pro 进行游戏聊天。
 
-几个月前，斯宾塞否认微软的 Xbox 独占策略发生了变化，现在确认将有更多游戏登陆竞争对手平台。“我们决定将四款游戏带到其他游戏机上，只有四款游戏。 “这不会改变我们基本的独家战略，”Spencer 今年早些时候在 Xbox 播客中说道。微软昨晚在其大型展示活动中发布了一系列新 Xbox 游戏，其中《毁灭战士：黑暗时代》和《战争机器：E-Day》是新的“全球首发”大作。不过，微软整晚都没有用到的一个词是独家。我注意到，几个月来，该公司一直在回避这个词。微软旗下的 Arkane Lyon 于去年年底的游戏大奖上发布了其Blade游戏，但并未提及 Xbox 独占性。
-今年早些时候，我们还首次看到了 Bethesda 的新游戏Indiana Jones and the Great Circle，虽然 Xbox 和 PC 已确认为发布平台，但并未提及独占性。据我所知，微软一直在考虑在 PS5 上推出《夺宝奇兵》，而 Xbox 计划在今年晚些时候推出该游戏几个月后。
-所有这些决定都是微软内部“Project Latitude”的一部分，这是一个秘密项目，我最近在每周记事本通讯中详细介绍了该项目。微软正在考虑为竞争对手的平台推出多款游戏，包括最近发布的Senua’s Saga: Hellblade II 游戏。 您可以在此处阅读有关 Project Latitude 的更多信息。
-IGN 没有进一步向 Spencer 施压，要求他说明 Xbox 多平台计划，微软在展示期间从未提及竞争对手平台，从而在很大程度上避开了房间里的大象。相反，它专注于大量游戏预告片，最终带来了我多年来见过的最好的 Xbox 展示之一。
-]]></description>
-      <guid>https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview</guid>
-      <pubDate>Mon, 10 Jun 2024 07:59:59 GMT</pubDate>
+
+图片：Apple
+
+游戏个性化空间音频可与 AirPods（第 3 代）配合使用， AirPods Pro 和 AirPods Max。AirPods Pro 用户在游戏过程中的音频延迟也更低。新功能将在今年秋季晚些时候的软件更新中推出。
+在之前的 WWDC 主题演讲中，Apple 宣布了自适应音频和对话检测等 AirPods 功能，以及一系列以可访问性为重点的新功能。
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24173874/apple-airpods-new-features-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:43:48 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的下一个模糊想法：智能家居机器人</title>
-      <link>https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors</guid>
-      <pubDate>Sun, 09 Jun 2024 18:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 宣布《战争机器：E-Day》</title>
-      <link>https://www.theverge.com/24172052/gears-6-xbox-summer-game-fest-trailer</link>
+      <title>iOS 18 为其 iMessage 应用程序引入了卫星功能</title>
+      <link>https://www.theverge.com/2024/6/10/24175479/ios-18-satellite-imessage-wwdc-2024</link>
       <description><![CDATA[
 
-图片：微软游戏工作室
+图片：Apple
 
-世界又一次陷入疯狂。在夏季游戏节的 Xbox 游戏展示会上，微软发布了科幻射击游戏系列的最新作品：《战争机器 E-Day》。该游戏由 Xbox 的内部工作室 The Coalition 开发，该工作室致力于《战争机器》系列的所有相关工作。该游戏目前尚未确定发布日期，但它是基于虚幻引擎 5 构建的。
-该预告片让人回想起经典的《疯狂世界》广告，该广告是原版《战争机器》的广告。E-Day 的背景设定在第一个《战争机器》的 14 年前，并“讲述了塞拉岛上第一次出现 Locust 的故事”。它再次由马库斯·菲尼克斯主演，并被誉为起源故事。
-这将是自 2019 年 Gears 5 以来该系列的第一部作品，这是微软计划将该系列转变为与 Halo 相媲美的多媒体系列的一部分。到目前为止，这一切还没有完全计划好，尽管 2020 年有一部名为 Gears Tactics 的战略衍生作品，并且 Netflix 宣布计划制作一部真人电影和一部动画剧集，故事背景设定在 Gears 宇宙中。（还有一款 Funko Pop 风格的手机游戏，于 2021 年关闭。）]]></description>
-      <guid>https://www.theverge.com/24172052/gears-6-xbox-summer-game-fest-trailer</guid>
-      <pubDate>Sun, 09 Jun 2024 18:25:26 GMT</pubDate>
+Apple 的 iOS 18 在 WWDC。
+借助这项新功能，即使没有传统的互联网连接，那些离网的人也应该能够与亲人联系。该功能将在 iPhone 14 和更新至 iOS 18 的较新手机上提供。
+
+
+图片：Apple
+您很快就可以安排消息了。
+
+这是 Apple 在其年度开发者活动期间推出的众多新 iMessage 功能之一。很快，用户还可以安排消息并使用任何表情符号进行点击回复。您还可以创建新的消息效果，Apple 现在提供新的格式，包括加粗、下划线、删除线和斜体。
+Messages 甚至终于获得了 RCS 支持。
+
+
+
+其他新的 iOS 18 更新包括更加可自定义的主屏幕和新的隐私功能，这些功能需要身份验证才能使用单个应用程序。
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24175479/ios-18-satellite-imessage-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果发布 watchOS 11，带来全新训练模式和实时活动</title>
+      <link>https://www.theverge.com/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc</link>
+      <description><![CDATA[
+
+休息日！！！ 
+
+Apple 刚刚在 WWDC 2024 上发布了其智能手表平台的最新版本 watchOS 11。开发人员将从今天开始对其进行调整，而公开测试版将于下个月某个时候发布。与往年一样，最终公开版本预计将于今年秋季与新款 Apple Watch 一起发布。 
+与往常一样，每个版本的 watchOS 都带有新的健康功能。今年，我们将获得一种训练模式，该模式会收集个人数据和指标，以了解锻炼的强度和持续时间如何影响您的身体。您还可以为锻炼添加“努力评级”。此模式还可以让您了解是否应该更加努力或退后一步。是的，这包括休息日。 
+那些一直要求在 Apple Watch 上休息几天的人也会很高兴地知道，生病或受伤不会再打断连续记录。具体来说，你现在可以在活动环上暂停。你还可以根据一周中的哪一天调整你的活动环目标。
+还将有一个新的 Vitals 应用程序，让你一目了然地了解“重要的健康指标”，以及新的怀孕周期跟踪功能，可以显示你的孕龄。当某些指标（如心率）超出你的正常范围时，该应用程序还会突出显示。
+随着 watchOS 11 的推出，Apple Watch 也将加入实时活动。还将有新的安全功能，因此如果你深夜跑步，你的朋友将能够密切关注你。对于锻炼，这将自动发生。这与去年在 Pixel Watch 2 上推出的安全功能类似。
+去年，Apple 推出了智能堆栈，作为将小部件放在最显眼位置的重大重新设计的一部分。 watchOS 11 将在此基础上添加翻译或天气小部件，当它认为您需要时即可显示。
+
+
+照片表盘正在进行改造。
+
+令人惊讶的是，今年没有太多新的表盘。相反，苹果强调了全新设计的照片表盘。 
+今年将是 Apple Watch 的 10 周年，有传言称苹果可能会全力推出一个特殊的“X”版本，就像它为 iPhone 所做的那样。话虽如此，软件更新并不总是预示着硬件可能会发生哪些变化。例如，苹果将去年的 watchOS 10 称为一次“里程碑式”更新，因为它改进了用户界面，将更多精力放在了小部件上，但对 Series 9 的实际硬件影响不大。
+正在开发……请查看 我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc</guid>
+      <pubDate>Mon, 10 Jun 2024 17:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>佳能为 Apple Vision Pro 的空间视频制作了特殊镜头</title>
+      <link>https://www.theverge.com/2024/6/10/24175468/canon-eos-spatial-lens-apple-wwdc-2024-announcement</link>
+      <description><![CDATA[
+
+
+苹果在 WWDC 2024 上宣布，佳能正在为其 EOS R7 相机制作一款外观时尚的新镜头，专为为 Vision Pro 耳机创建空间视频内容而设计。这与新的 visionOS 2 更新同时推出，该更新为照片应用带来了对空间图像的更多强调。
+这并不是佳能第一次为其 EOS 系列制造这样的单一用途双镜头阵列。它目前拥有VR 系统，配备 RF 5.2mm f/2.8 L 双鱼眼镜头，与 EOS R5 C、R5 和 R6 Mark II 兼容。新的空间镜头是 RF-S 7.8mm f/4 STM 镜头，这意味着它是专为 R7 等裁剪传感器机身设计的镜头。
+正在开发……请查看我们的实时博客了解最新详情。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24175468/canon-eos-spatial-lens-apple-wwdc-2024-announcement</guid>
+      <pubDate>Mon, 10 Jun 2024 17:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 的新游戏模式使其速度更快、响应更灵敏</title>
+      <link>https://www.theverge.com/2024/6/10/24175466/iphone-game-mode-performance-frame-rate-optimization-wwdc-2024</link>
+      <description><![CDATA[
+
+图片：Apple
+
+作为 iOS 18 的一部分，Apple 将游戏模式引入 iOS 设备。该新功能于周一在 WWDC 2024 上宣布。
+苹果软件主管 Craig Federighi 表示，当游戏模式开启时，你的设备将最大限度地减少后台活动，以最大限度地提高帧速率，并提高 AirPods 和游戏控制器的响应能力。去年，Apple 在 macOS Sonoma 中添加了类似的游戏模式，但它要求您拥有带有 Apple Silicon 的 Mac。
+
+在 iOS 中添加游戏模式只是 Apple 鼓励人们在 iPhone 上玩高保真游戏的最新举措。可供玩的大型游戏库越来越多，例如《刺客信条：幻影》和《生化危机 7：村庄》。Capcom 周一还宣布，《生化危机 7》即将在 iOS（以及 iPad 和 Mac）上推出。月，并且《生化危机 2》重制版正在为 Apple 平台开发中。]]></description>
+      <guid>https://www.theverge.com/2024/6/10/24175466/iphone-game-mode-performance-frame-rate-optimization-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 17:31:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
