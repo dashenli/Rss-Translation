@@ -4,105 +4,106 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 15:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 21:13:08 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：www.scientificamerican.com</title>
-      <link>https://t.me/hn_summary/94382</link>
-      <description><![CDATA[有些失眠症患者在睡着时以为自己醒着
-标题：有些失眠症患者在睡着时以为自己醒着
-网站：www.scientificamerican.com
+      <title>[媒体] 高盛研究预测，到 2030 年，数据中心的电力需求将激增 160%，推动 [...]</title>
+      <link>https://t.me/hn_summary/94440</link>
+      <description><![CDATA[人工智能有望推动数据中心电力需求增长 160%
 
-作者：Francine Russo
+高盛研究预测，到 2030 年，在人工智能革命的推动下，数据中心的电力需求将激增 160%。目前，ChatGPT 查询消耗的电量几乎是谷歌搜索的 10 倍。数据中心目前消耗的电力占全球电力的 1-2%，到 2020 年可能会增加到 3-4%，碳排放量将翻一番。美国和欧洲的电力需求将大幅增长，到 2030 年，美国数据中心将消耗全国电力的 8%。欧洲需要超过 1 万亿欧元来升级电网。尽管效率有所提高，但人工智能使用的增加将增加电力消耗和排放，促使人们大量投资可再生能源和核能。]]></description>
+      <guid>https://t.me/hn_summary/94440</guid>
+      <pubDate>Tue, 11 Jun 2024 21:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Raspberry Pi 已成功从一家私人控股公司转型为一家上市公司 [...]</title>
+      <link>https://t.me/hn_summary/94439</link>
+      <description><![CDATA[Raspberry Pi 在伦敦证券交易所上市，募资 2.115 亿美元
+Raspberry Pi 已成功从一家私人控股公司转型为伦敦证券交易所的上市公司，在首次公开募股 (IPO) 中筹集了 2.115 亿美元。此次 IPO 取得了巨大成功，股价收盘价比开盘价高出近 50%。首席执行官兼联合创始人 Eben Upton 将此次活动描述为将加速产品开发的“分水岭时刻”。自 2012 年推出首款单板计算机以来，Raspberry Pi 已出货 6000 万台，并获得了索尼和 Arm 等公司的私人投资。IPO 资金将支持向新兴市场的扩张和更高价位产品变体的开发。尽管未来仍不确定，但 IPO 标志着 Raspberry Pi 的新篇章。]]></description>
+      <guid>https://t.me/hn_summary/94439</guid>
+      <pubDate>Tue, 11 Jun 2024 21:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.theguardian.com</title>
+      <link>https://t.me/hn_summary/94438</link>
+      <description><![CDATA[Deepfakes 可能很危险，但不会损害我们的选举
+标题：Deepfakes 可能很危险，但不会损害我们的选举
+网站：www.theguardian.com
 
-新研究表明，主观失眠症患者可能实际上经历了 REM 睡眠中断，尽管脑部扫描结果显示他们没有睡着。这种疾病的特征是快速眼动睡眠期间出现短暂的兴奋，无法安然入睡和沉浸式做梦。这种中断的快速眼动与创伤后应激障碍和焦虑等疾病有关，使患者更容易受到情绪困扰。目前的治疗方法，如失眠认知行为疗法 (CBTi) 可能并不适用于所有人，但睡眠限制有望奏效。研究人员还在探索药物干预措施，以减轻快速眼动睡眠期间去甲肾上腺素爆发的影响。了解这些睡眠模式的差异可以为受影响的人提供缓解并可能改善睡眠质量。]]></description>
-      <guid>https://t.me/hn_summary/94382</guid>
-      <pubDate>Tue, 11 Jun 2024 15:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在《符号智能》一书中，作者探讨了设计更好的符号如何能够带来重大意义 [...]</title>
-      <link>https://t.me/hn_summary/94381</link>
-      <description><![CDATA[符号智能 (2022)
-在《符号智能》中，作者探讨了如何通过将人类直觉与机器智能相结合，设计更好的符号可以显著增强我们的创造性工作流程。这篇文章分为三篇文章，首先介绍了各种符号，重点介绍了书写系统、数学符号以及舞蹈和音乐符号等专业符号如何塑造我们的思维。作者认为，好的符号将抽象概念转化为具体形式，使复杂的想法更容易操作和理解。这篇文章还深入探讨了可计算符号，特别是像 Wolfram 语言这样的编程语言，它利用现代计算来交互地表示和操作符号。作者建议，投资于媒体原生编程语言可能会彻底改变我们处理各种信息的方式。
 
-争议点：作者认为，更好的符号，而不是自动化工具，是提高我们智力的关键，这可能会挑战当前对技术自动化的重视。
+英国脱欧公投前 16 天，选民登记系统崩溃，原因是电视辩论后申请人数意外激增，而非俄罗斯的干预。尽管国家网络安全中心进行了彻底调查，但议会委员会后来在没有证据的情况下暗示可能存在外国干预。这一事件凸显了选举公正性很容易受到质疑。尽管俄罗斯曾试图干预西方选举，但其努力大多无效。虽然 Deepfakes 是一个新问题，但同样未能对选举产生重大影响。真正的危险在于毫无根据的干涉指控，这可能会削弱公众对选举过程的信任。]]></description>
+      <guid>https://t.me/hn_summary/94438</guid>
+      <pubDate>Tue, 11 Jun 2024 20:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] archive.org 上提供的“VLSI 系统简介”是一份全面的资源，可供您参考 [...]</title>
+      <link>https://t.me/hn_summary/94437</link>
+      <description><![CDATA[VLSI 系统简介
+archive.org 上的“VLSI 系统简介”是了解超大规模集成 (VLSI) 技术基础知识的综合资源。这本电子书深入探讨了 VLSI 系统的设计、架构和实现，为读者提供了驾驭这一复杂领域的基本知识。该资源的一个独特功能是其浏览器内图书阅读器，它提供剧院模式以增强阅读体验。但是，用户必须确保在其浏览器中启用 JavaScript 才能使用此功能。这一要求对于某些人来说可能只是一点不便，但它显著提高了电子书的可用性。]]></description>
+      <guid>https://t.me/hn_summary/94437</guid>
+      <pubDate>Tue, 11 Jun 2024 20:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 今天，我们很高兴地宣布，我们将通过联合主席继续与 Mistral AI 合作 [...]</title>
+      <link>https://t.me/hn_summary/94436</link>
+      <description><![CDATA[Mistral AI 以 60 亿美元的估值筹集 6.4 亿美元
+今天，我们很高兴宣布继续与 Mistral AI 合作，共同领导其 6 亿欧元的 B 轮融资，使该公司的估值达到 60 亿美元。Mistral 在短短一年内迅速崛起，凸显了欧洲在全球人工智能复兴中的关键作用。他们的开源方法推动他们走在人工智能创新的前沿，这得益于杰出的欧洲人才以及谦逊和雄心勃勃的文化。Mistral 行业领先的开放模式正在为人工智能产品创新和安全研究树立新的标准。通过 La Plateforme 和 Le Chat 等计划，Mistral 正在帮助企业和企业家改变行业并开拓新市场。我们相信 Mistral 的前沿 AI 为欧洲提供了一个独特的机会，使其能够超越传统的 SaaS 并充分利用其垂直优势。他们的开放、便携平台对于提高 AI 的弹性至关重要，这与我们的全球弹性论文相一致。我们很高兴支持 Mistral 解决复杂全球问题的使命，并邀请所有人与他们一起构建高信任度、高完整性的应用程序。]]></description>
+      <guid>https://t.me/hn_summary/94436</guid>
+      <pubDate>Tue, 11 Jun 2024 20:54:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Oracle、微软和 OpenAI 正在合作扩展 Microsoft Azure AI 平台 [...]</title>
+      <link>https://t.me/hn_summary/94435</link>
+      <description><![CDATA[OpenAI 选择 Oracle 云基础设施来扩展 Microsoft Azure AI 平台
+Oracle、Microsoft 和 OpenAI 正在合作扩展 Microsoft Azure AI 平台，将其与 Oracle 云基础设施 (OCI) 集成，从而增强 OpenAI 的能力。以 ChatGPT 而闻名的 OpenAI 每月为超过 1 亿用户提供服务。OpenAI 首席执行官 Sam Altman 对此次合作表示热情，并强调了 OCI 在扩展 Azure 平台方面的作用。Oracle 董事长兼首席技术官 Larry Ellison 强调了 OCI 卓越的 AI 基础设施，吸引了 OpenAI 等领导者。OCI 的先进功能支持各个行业的 AI 创新，提供可扩展的解决方案，最高可达 64k NVIDIA GPU 和超低延迟网络。此次合作旨在加速全球 AI 模型的训练和部署。]]></description>
+      <guid>https://t.me/hn_summary/94435</guid>
+      <pubDate>Tue, 11 Jun 2024 20:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2013年，我在读硕士期间，在一家技术咨询公司进行了暑期实习[...]</title>
+      <link>https://t.me/hn_summary/94434</link>
+      <description><![CDATA[我的第一个生产错误
+2013 年，在我攻读硕士学位期间，我在汽车行业的一家技术咨询公司进行了暑期实习。该公司有一个硬件演示器，展示了使用 1:43 比例的 Kyosho dNaNo 玩具车通过摄像头跟踪的自动驾驶算法。当引入新的、更快的摄像头时，用于跟踪的卡尔曼滤波器变得迟缓，导致汽车在屏幕上几乎不动。在调试混乱的 C++ 代码后，我发现了这个问题：预处理器指令中缺少“.0”导致帧速率被解释为整数，使采样时间为零。通过将帧速率定义为浮点数来解决这个问题解决了这个问题，改进了跟踪系统。经验教训：避免对常量使用 #define；改用 static constexpr。尽管如此，自那以后我工作过的每家公司都违反了这一教训。]]></description>
+      <guid>https://t.me/hn_summary/94434</guid>
+      <pubDate>Tue, 11 Jun 2024 20:51:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：Swift Static Linux SDK</title>
+      <link>https://t.me/hn_summary/94433</link>
+      <description><![CDATA[Swift Static Linux SDK
+标题：Swift Static Linux SDK
 
-独特见解：将 Wolfram 语言作为直接表示图像和交互式输出的媒体原生编程语言的讨论特别具有创新性，表明编程语言将超越传统基于文本的限制。（基于 36% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/94381</guid>
-      <pubDate>Tue, 11 Jun 2024 15:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 Hacker News 上发帖的最佳时间是什么时候？</title>
-      <link>https://t.me/hn_summary/94380</link>
-      <description><![CDATA[在 Hacker News 上发帖的最佳时间是什么时候？（2017 年）
-在本周的讲座中，我们探讨了初创公司如何利用社交媒体推广其产品并评估市场需求，重点关注 Y Combinator 旗下以技术为中心的社交新闻网站 Hacker News。用户发布链接，然后其他人点赞或评论。鉴于每日提交量巨大，脱颖而出可能具有挑战性。受 Reddit 发帖时间分析的启发，我使用 Google 的 BigQuery 对 2015-2016 年的 Hacker News 帖子进行了一项研究，过滤掉点赞数少于 3 的帖子。通过 Tableau 可视化，数据显示活动在周中达到高峰，UTC 下午 5 点至下午 6 点之间参与度最高，尤其是在周一和周三。这表明时机可以显著影响 Hacker News 上帖子的成功。]]></description>
-      <guid>https://t.me/hn_summary/94380</guid>
-      <pubDate>Tue, 11 Jun 2024 15:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：briferer.cloud</title>
-      <link>https://t.me/hn_summary/94379</link>
-      <description><![CDATA[自助服务仪表板
-标题：自助服务仪表板
-网站：briefer.cloud
+网站：www.swift.org
 
-自助服务仪表板经常在销售宣传中被吹捧，但它们在实践中很少能按预期发挥作用。工程师和数据科学家最终成为主要用户，违背了“自助服务”的目的。核心问题不是 SQL 的复杂性；而是业务利益相关者对数据语义缺乏理解。即使是下拉菜单和复选框等简化界面或高级文本到 SQL 工具也会失败，因为它们没有解决这个根本差距。真正的解决方案是为技术人员提供更好的工具，以更有效地支持业务利益相关者。这包括利用 LLM、提供灵活的数据处理工具以及创建易于共享的数据应用程序。作者正在开发这样一种工具，强调实用的解决方案而不是误导性的承诺。
+Swift 不仅适用于 Apple 平台；它还支持 Linux 和 Windows。从历史上看，Swift 中的 Linux 程序需要在目标系统上安装 Swift 运行时和依赖项，从而导致不同 Linux 发行版之间的兼容性问题。Swift Static Linux SDK 通过启用完全静态链接的可执行文件（没有外部依赖项）解决了这个问题，确保了所有 Linux 发行版之间的兼容性。此 SDK 可在 Swift 支持的任何平台上使用，允许在 macOS 上进行开发并在 Linux 服务器上部署。静态链接仅包含必要的代码，消除了运行时开销和版本控制问题，但会导致可执行文件更大、内存使用率更高。SDK 使用 Musl C 库，因为它具有出色的静态链接支持和宽松的许可。请注意，SDK 需要来自 swift.org 的开源工具链，不能使用 Xcode 工具链。只需一个简单的命令即可轻松安装，并且 SDK 支持为 x86-64 和 ARM64 机器构建二进制文件。使用 C 库的软件包可能需要进行调整以导入 Musl 模块而不是 Glibc。
 
-争议：自助式 BI 工具无法像广告宣传的那样发挥作用的说法挑战了业界的普遍说法。
+贡献者：Alastair Houghton，他在 Apple 从事 Swift 和 Objective-C 语言运行时工作。]]></description>
+      <guid>https://t.me/hn_summary/94433</guid>
+      <pubDate>Tue, 11 Jun 2024 20:49:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《1870 年至 2015 年一切事物的回报率》一书中，作者探讨了总体回报率 [...]</title>
+      <link>https://t.me/hn_summary/94432</link>
+      <description><![CDATA[《1870-2015 年一切资产的回报率》（2019 年）
+在《1870-2015 年一切资产的回报率》一书中，作者探讨了 16 个发达经济体 145 年间各种资产类别（包括住房、股票、债券和票据）的总实际回报率。他们引入了一个全面的新数据集，揭示了几个关键发现：
 
-独特/聪明：建议将 LLM 授予技术人员而不是业务利益相关者，这是提高 BI 效率的一种新方法。]]></description>
-      <guid>https://t.me/hn_summary/94379</guid>
-      <pubDate>Tue, 11 Jun 2024 15:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 斯托克空间公司成功点火其第一级火箭发动机，标志着 [...]</title>
-      <link>https://t.me/hn_summary/94378</link>
-      <description><![CDATA[Stoke Space 启动其雄心勃勃的主发动机
-Stoke Space 已成功启动其第一级火箭发动机，这对这家雄心勃勃的发射公司来说是一个重要的里程碑。6 月 5 日，该公司在华盛顿州摩西湖的设施进行了测试，发动机点火两秒钟，性能正常。该发动机是 Nova 火箭的一部分，基于全流量分级燃烧技术，这是一种复杂而高效的设计，之前只有 SpaceX 的 Raptor 发动机展示过这种设计。Stoke 的目标是让 Nova 实现完全可重复使用，采用新颖的第二级设计，配备 30 个推进器和一个再生冷却隔热罩。首席执行官 Andy Lapsa 承认存在挑战，但相信完全可重复使用是该行业的未来。该公司还与美国太空部队合作翻新卡纳维拉尔角 14 号发射台。]]></description>
-      <guid>https://t.me/hn_summary/94378</guid>
-      <pubDate>Tue, 11 Jun 2024 15:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 截至 6 月 10 日，任天堂已正式停止对 Switch 游戏机的支持 [...]</title>
-      <link>https://t.me/hn_summary/94377</link>
-      <description><![CDATA[三家游戏机制造商现已放弃 X 集成
-截至 6 月 10 日，任天堂已正式停止支持 Switch 游戏机与 X（前身为 Twitter）的集成，微软和索尼去年也采取了类似举措。此次移除是 18.1.0 更新的一部分，它消除了将 X 帐户链接或将游戏内截图直接发布到该平台的能力。虽然任天堂没有说明原因，但这可能与 X 的新 API 定价有关，企业客户的起价为每月 42,000 美元。有趣的是，尽管 X Gaming 现已删除的帖子声称与任天堂建立了牢固的合作伙伴关系，但三家主要游戏机制造商现已切断了与该平台的直接联系。]]></description>
-      <guid>https://t.me/hn_summary/94377</guid>
-      <pubDate>Tue, 11 Jun 2024 14:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 国际货币基金组织第一副总裁在最近于瑞士举行的人工智能峰会上的讲话中 [...]</title>
-      <link>https://t.me/hn_summary/94376</link>
-      <description><![CDATA[IMF 严厉警告 AI 可能将经济衰退演变为经济危机
-IMF 第一副总裁 Gita Gopinath 最近在瑞士举行的 AI 峰会上发表讲话，警告称，人工智能对经济和金融市场的破坏性影响可能要等到经济衰退发生后才会完全显现，并可能升级为严重的经济危机。Gopinath 强调，虽然围绕 AI 风险的讨论主要集中在隐私、安全和错误信息上，但 AI 加剧下一次经济衰退的风险尚未得到充分探索。她指出，AI 可能导致大量失业，尤其是在发达经济体，并可能在经济低迷期间破坏金融市场和供应链的稳定。为了减轻这些风险，Gopinath 建议制定政策，不要过分偏向自动化而非人类工人，加强教育和技能培训，并建立更强大的社会安全网。她强调，政府和政策制定者需要迅速采取行动，为劳动力市场的重大混乱做好准备，确保全球经济能够抵御人工智能的侵袭。]]></description>
-      <guid>https://t.me/hn_summary/94376</guid>
-      <pubDate>Tue, 11 Jun 2024 14:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.kyushu-u.ac.jp</title>
-      <link>https://t.me/hn_summary/94375</link>
-      <description><![CDATA[视觉兔子错觉研究取得重大进展
-标题：视觉兔子错觉研究取得重大进展
-网站：www.kyushu-u.ac.jp
+1. 风险回报：住宅房地产和股票显示出类似的高实际总收益（每年约 7%），住房波动性低于股票。
+2. 安全回报：债券和票据的实际回报波动性很大，通常比风险资产更大，在世界大战和滞胀时期会大幅下降。
+3. 风险溢价：风险溢价长期波动性很大，波动幅度很大，没有明显的长期趋势。
+4. 历史背景：该研究为当前的低实际利率提供了历史先例，有助于政策制定者和研究人员。
 
-九州大学的研究人员在理解视觉兔子错觉方面取得了重大进展，参与者误以为第二次闪光位于第一次和最后一次闪光之间的中点附近。无论第二次闪光的实际位置如何，即使它在中点上方或下方，都会发生这种现象。大脑会整体处理快速闪光，从而将感知重组为更简单的模式。该研究的第一作者 Sheryl Anne Manaligod de Jesus 解释说，这种被称为后验的错觉表明未来事件如何影响我们对过去事件的看法。这引发了人们对目击者证词可靠性的质疑。该团队计划通过比较人类和人工智能的反应并探索注意力对错觉的影响来进一步调查。Hiroyuki Ito 教授强调这些错觉带来的乐趣，尽管需要更多的研究才能完全理解它们。]]></description>
-      <guid>https://t.me/hn_summary/94375</guid>
-      <pubDate>Tue, 11 Jun 2024 14:45:02 GMT</pubDate>
+有争议的方面：尽管住房波动性较低，但住房和股票的回报相似，挑战了传统的资产风险和回报观点。
+
+独特见解：该数据集广泛的历史覆盖范围和对住房回报的纳入为研究提供了新颖的视角长期资产表现。（基于 5% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/94432</guid>
+      <pubDate>Tue, 11 Jun 2024 20:43:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 垃圾邮件、垃圾......</title>
-      <link>https://t.me/hn_summary/94374</link>
-      <description><![CDATA[垃圾邮件、垃圾……垃圾？“僵尸互联网”背后的最新一波人工智能
-您的电子邮件收件箱里满是垃圾邮件，您的信箱里满是垃圾邮件。现在，您的网络浏览器也有自己的烦恼：垃圾。“垃圾”是指人工智能生成的内容，它们会扰乱互联网，模仿人造材料来吸引广告收入并操纵搜索引擎排名。这些内容通常毫无帮助，有时甚至非常不准确，就像人工智能生成的带有危险建议的觅食书籍一样。术语“垃圾”旨在突出这个问题，就像“垃圾邮件”对不想要的电子邮件所做的那样。垃圾的兴起导致了“僵尸互联网”，其中机器人和人工智能生成的内容压倒了真正的人类互动。社交媒体平台和广告商越来越担心，因为用户很难区分真实内容和合成内容。谷歌最近将人工智能生成的答案整合到搜索结果中的举动引发了进一步的争论，引发了人们对在线内容未来的质疑。]]></description>
-      <guid>https://t.me/hn_summary/94374</guid>
-      <pubDate>Tue, 11 Jun 2024 14:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Firefox 127 是 Mozilla 的最新版本，它提供了增强的性能、改进 [...]</title>
-      <link>https://t.me/hn_summary/94373</link>
-      <description><![CDATA[Firefox 127
-Firefox 127 是 Mozilla 的最新版本，提供增强的性能、改进的安全功能和更直观的用户界面。此版本包含的更新使浏览速度更快、更安全，具有高级跟踪保护和简化的设计，可增强用户体验。此外，Firefox 127 还为开发人员引入了新工具，使创建和调试 Web 应用程序变得更加容易。下载最新版本以利用这些改进并确保您的浏览体验既高效又安全。访问 www.mozilla.org 开始使用。]]></description>
-      <guid>https://t.me/hn_summary/94373</guid>
-      <pubDate>Tue, 11 Jun 2024 14:40:49 GMT</pubDate>
+      <title>[媒体] Google Books Ngram Viewer 允许用户直观地看到短语在书籍中出现的频率 [...]</title>
+      <link>https://t.me/hn_summary/94431</link>
+      <description><![CDATA[Google Books ngram viewer 文档
+Google Books Ngram Viewer 允许用户直观地查看选定年份图书语料库中短语的频率。通过输入短语，用户可以查看趋势并比较不同语料库（如“英式英语”或“英语小说”）的使用情况。该工具支持通配符搜索、词形变化搜索、不区分大小写的搜索、词性标记和 ngram 组合等高级功能。例如，通配符搜索可以显示短语后最常见的单词，而词形变化搜索可以显示单词的不同语法形式。查看器还允许结合多种功能的复杂查询。值得注意的是，美式英语和英式英语语料库的结果可能会有很大差异。（基于 53% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/94431</guid>
+      <pubDate>Tue, 11 Jun 2024 20:43:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
