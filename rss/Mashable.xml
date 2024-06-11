@@ -4,7 +4,14 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 00:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 01:06:33 GMT</lastBuildDate>
+    <item>
+      <title>纽约时报今日连线：查看 6 月 11 日的提示和答案</title>
+      <link>https://mashable.com/article/nyt-connections-hint-answer-today-june-11-2024</link>
+      <description><![CDATA[《Connections》是一款纽约时报文字游戏，游戏的目的是找到“单词之间的共同点”。如何解决这个难题。]]></description>
+      <guid>https://mashable.com/article/nyt-connections-hint-answer-today-june-11-2024</guid>
+      <pubDate>Tue, 11 Jun 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果以自己的方式进入人工智能时代</title>
       <link>https://mashable.com/article/apple-wwdc-keynote-2024-ai</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 Apple 的 WWDC 2024 上，该公司宣布将 ChatGPT 集成到 Apple 设备中。以下是详细信息。]]></description>
       <guid>https://mashable.com/article/apple-openai-chatgpt-integration-announced-wwdc-2024</guid>
       <pubDate>Mon, 10 Jun 2024 19:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果改进 Siri，添加大量 AI 功能</title>
-      <link>https://mashable.com/article/siri-revamp-apple-wwdc</link>
-      <description><![CDATA[苹果为 Siri 添加了新的 AI 功能，让这个语音助手能够比以前做更多的事情。]]></description>
-      <guid>https://mashable.com/article/siri-revamp-apple-wwdc</guid>
-      <pubDate>Mon, 10 Jun 2024 19:03:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
