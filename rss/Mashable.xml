@@ -4,7 +4,28 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 20:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:06:25 GMT</lastBuildDate>
+    <item>
+      <title>苹果以自己的方式进入人工智能时代</title>
+      <link>https://mashable.com/article/apple-wwdc-keynote-2024-ai</link>
+      <description><![CDATA[苹果正在让人工智能进入其围墙花园——一个更名后的版本，Apple Intelligence。ChatGPT 将为其提供支持，但安全至关重要。]]></description>
+      <guid>https://mashable.com/article/apple-wwdc-keynote-2024-ai</guid>
+      <pubDate>Mon, 10 Jun 2024 23:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence 仅支持这些设备：你的设备在列表中吗？</title>
+      <link>https://mashable.com/article/apple-intelligence-supported-devices-wwdc-2024</link>
+      <description><![CDATA[看看您的 iPhone、Mac 或 iPad 是否支持 Apple 在 WWDC 2024 上宣布的新 AI。]]></description>
+      <guid>https://mashable.com/article/apple-intelligence-supported-devices-wwdc-2024</guid>
+      <pubDate>Mon, 10 Jun 2024 21:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 的《十日谈》预告片是 60 秒的放荡场景</title>
+      <link>https://mashable.com/video/netflix-the-decameron-teaser</link>
+      <description><![CDATA[Netflix 发布了《十日谈》的预告片，这是凯瑟琳·乔丹根据 14 世纪短篇小说集改编的黑色喜剧系列。]]></description>
+      <guid>https://mashable.com/video/netflix-the-decameron-teaser</guid>
+      <pubDate>Mon, 10 Jun 2024 20:59:46 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 即将到来，但哪些 iPhone 将支持它？</title>
       <link>https://mashable.com/article/ios-18-supported-devices-apple-wwdc-2024</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[苹果为 Siri 添加了新的 AI 功能，让这个语音助手能够比以前做更多的事情。]]></description>
       <guid>https://mashable.com/article/siri-revamp-apple-wwdc</guid>
       <pubDate>Mon, 10 Jun 2024 19:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 18 于 WWDC 2024 上发布：7 项新功能，包括 Apple Intelligence</title>
-      <link>https://mashable.com/article/ipados-18-announced-apple-wwdc-keynote-2024</link>
-      <description><![CDATA[iPadOS 18 已在 WWDC 2024 上发布。以下是其主要功能的概述。]]></description>
-      <guid>https://mashable.com/article/ipados-18-announced-apple-wwdc-keynote-2024</guid>
-      <pubDate>Mon, 10 Jun 2024 18:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 通过 Apple Intelligence 开启 AI 新时代</title>
-      <link>https://mashable.com/article/apple-intelligence-ai-siri-wwdc-2024</link>
-      <description><![CDATA[在 WWDC 2024 上，苹果发布了 Apple Intelligence，宣告 AI 和 Siri 的新时代到来。]]></description>
-      <guid>https://mashable.com/article/apple-intelligence-ai-siri-wwdc-2024</guid>
-      <pubDate>Mon, 10 Jun 2024 18:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的 Cycle Tracking 应用程序可添加妊娠周龄</title>
-      <link>https://mashable.com/article/wwdc-2024-apple-health-cycle-tracker-gestational-age</link>
-      <description><![CDATA[苹果在 WWDC 2024 上宣布：iOS 18 中的周期追踪功能将添加怀孕期间的妊娠年龄。]]></description>
-      <guid>https://mashable.com/article/wwdc-2024-apple-health-cycle-tracker-gestational-age</guid>
-      <pubDate>Mon, 10 Jun 2024 18:32:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 10 Jun 2024 21:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 01:02:06 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能的（无聊）未来在于企业应用程序</title>
+      <link>https://wired.jp/article/sz-unsexy-future-generative-ai-enterprise-apps/</link>
+      <description><![CDATA[许多生成式人工智能初创公司现在意识到，他们未来必须“生成”资金。解决这一问题的一个办法是，首先消除生成式人工智能产生的“幻觉”，然后缩小接收服务订单的目标企业范围。]]></description>
+      <guid>https://wired.jp/article/sz-unsexy-future-generative-ai-enterprise-apps/</guid>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>稻波正彦谈空间计算：“网络空间”的大门会打开（这一次）吗？</title>
+      <link>https://wired.jp/article/vol53-when-atoms-meet-bits/</link>
+      <description><![CDATA[从信息到体验。空间计算预计迟早会带来如此重大的变化。这是怎样的技术和理念？为了了解更多关于它的起源、潜力、用例等的信息，我们拜访了人体增强工程专家 Masahiko Inami。]]></description>
+      <guid>https://wired.jp/article/vol53-when-atoms-meet-bits/</guid>
+      <pubDate>Mon, 10 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从人工智能驱动的 Siri 到进化的新操作系统，Apple 在 WWDC 2024 上宣布的 13 件事</title>
+      <link>https://wired.jp/article/everything-apple-announced-wwdc-2024/</link>
+      <description><![CDATA[苹果开发者大会“WWDC 2024”已经开始，公布了多项使用AI的新功能和新操作系统。从Apple Intelligence到新的Siri，从下一代iOS到visionOS 2，这里有您需要了解的一切。]]></description>
+      <guid>https://wired.jp/article/everything-apple-announced-wwdc-2024/</guid>
+      <pubDate>Mon, 10 Jun 2024 22:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果终于充分利用了生成式人工智能。 “利润”与“苹果智能”带来的新挑战</title>
       <link>https://wired.jp/article/apple-intelligence-ios-wwdc/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[当苹果公司的蒂姆·库克在宣布“Apple Vision Pro”时使用“空间计算”这个词时，它突然引起了人们的关注。它到底意味着什么？我们将解释最新一期日本版《连线》杂志中的“空间计算”。]]></description>
       <guid>https://wired.jp/article/vol53-spatial-computing-101/</guid>
       <pubDate>Fri, 07 Jun 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>主编致SZ会员：“科技乌托邦的未来”SZ通讯VOL.239</title>
-      <link>https://wired.jp/article/sz-newsletter-239/</link>
-      <description><![CDATA[一切都由人工智能解决的世界真的是乌托邦吗？ 从马克思到技术自由主义者，本周的深圳会员时事通讯探讨了通往后稀缺经济的各种路径。]]></description>
-      <guid>https://wired.jp/article/sz-newsletter-239/</guid>
-      <pubDate>Fri, 07 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 CRISPR 改良风味的“基因组编辑沙拉”将于今年秋天向公众推出</title>
-      <link>https://wired.jp/article/gene-edited-salad-greens-fall-pairwise-bayer-crispr-gmo/</link>
-      <description><![CDATA[芥菜是一种叶类蔬菜，营养丰富，但味道辛辣、苦涩。因此，利用基因组编辑技术“CRISPR”，开发了芥菜，以减少味道，使其更容易食用，同时保持相同的营养价值。这种芥菜预计最早从 2024 年秋季开始分发给美国的普通消费者。]]></description>
-      <guid>https://wired.jp/article/gene-edited-salad-greens-fall-pairwise-bayer-crispr-gmo/</guid>
-      <pubDate>Fri, 07 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷你EV专用车型“Aceman”将成为预测电气化未来的试金石</title>
-      <link>https://wired.jp/article/mini-aceman/</link>
-      <description><![CDATA[BMW MINI 产品线中新增了纯电动车型 MINI ACEMAN，并已在日本发布。新车型重新诠释了EV时代Mini特有的驾驶体验，或将成为电动化未来的试金石。]]></description>
-      <guid>https://wired.jp/article/mini-aceman/</guid>
-      <pubDate>Fri, 07 Jun 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
