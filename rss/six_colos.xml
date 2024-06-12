@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 12 Jun 2024 15:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 21:15:24 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 558：乘客公主</title>
+      <link>https://sixcolors.com/podcast/2024/06/clockwise-558-passenger-princess/</link>
+      <description><![CDATA[我们最喜欢的 Apple Intelligence 功能、WWDC 2024 上错失的最大机会、我们最期待的 iOS 18 功能，以及我们对平淡无奇的 iPadOS 公告的反应。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/clockwise-558-passenger-princess/</guid>
+      <pubDate>Wed, 12 Jun 2024 20:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 499：玻璃毁灭性武器</title>
+      <link>https://sixcolors.com/podcast/2024/06/the-rebound-499-weapons-of-glass-destruction/</link>
+      <description><![CDATA[突发新闻。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-499-weapons-of-glass-destruction/</guid>
+      <pubDate>Wed, 12 Jun 2024 18:51:51 GMT</pubDate>
+    </item>
     <item>
       <title>Sequoia 虚拟机允许登录 iCloud ↦</title>
       <link>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</link>
@@ -15,7 +29,7 @@
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
+      <title>苹果终于让你随心所欲了（有点儿像 Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
       <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
       <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
@@ -24,7 +38,7 @@
     <item>
       <title>（播客）升级 516：我正在压抑自己的感情</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</link>
-      <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
+      <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。而在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</guid>
       <pubDate>Wed, 12 Jun 2024 02:43:47 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
     <item>
       <title>Swift 6 将会是一次重大的、不为人知的变化 ↦</title>
       <link>https://sixcolors.com/link/2024/06/swift-6-will-be-a-big-under-the-radar-change/</link>
-      <description><![CDATA[Howard Oakley 表示，对于改变 Apple 平台上应用程序结构的重大变化，很少会有人大肆宣传：
+      <description><![CDATA[Howard Oakley 表示，对于改变 Apple 平台上应用程序结构的重大变化，几乎没有人会大肆宣传：
 
 不要被 Apple 长长的 macOS 15 新功能列表中的营销炒作所迷惑。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/swift-6-will-be-a-big-under-the-radar-change/</guid>
@@ -106,22 +120,6 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
 我尝试了一些 Apple 设备。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/apples-screen-time-restrictions-on-websites-are-easily-circumvented/</guid>
       <pubDate>Wed, 05 Jun 2024 14:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的召回功能是一场安全“灾难”↦</title>
-      <link>https://sixcolors.com/link/2024/06/microsofts-recall-feature-is-a-security-disaster/</link>
-      <description><![CDATA[The Verge 的 Tom Warren 对 Windows 新功能“Recall”所固有的安全问题进行了很好的总结，该功能会记录你所做的每一件事（这可能会出什么问题？）…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/microsofts-recall-feature-is-a-security-disaster/</guid>
-      <pubDate>Wed, 05 Jun 2024 00:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>调酒师有新主人了 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</link>
-      <description><![CDATA[MacRumors 的 Juli Clover 报道称，备受推崇的 Mac 实用程序 Bartender 显然已被长期开发人员 Ben Surtees 出售，新主人最近重新签署了该应用程序，但尚未通知客户有关这一变化：
-
-在一些 Reddit 用户看到 MacUpdater 发出的警告后，这笔交易被曝光，警告他们 Bartender 背后的公司已被悄悄替换。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</guid>
-      <pubDate>Tue, 04 Jun 2024 23:43:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
