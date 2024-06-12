@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 12 Jun 2024 03:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 15:15:17 GMT</lastBuildDate>
+    <item>
+      <title>Sequoia 虚拟机允许登录 iCloud ↦</title>
+      <link>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</link>
+      <description><![CDATA[Ars Technica 的 Andrew Cunningham 在 WWDC 开发者公告中发现了一个小细节：
+
+只要您的主机操作系统是 macOS 15 或更新版本，并且您的客户操作系统是 macOS 15 或更新版本，虚拟机现在就可以登录并使用 iCloud 和其他 Apple ID 相关服务，就像直接在硬件上运行时一样。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</guid>
+      <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
+      <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
+      <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
+      <pubDate>Wed, 12 Jun 2024 14:45:21 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 516：我正在压抑自己的感情</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</link>
@@ -62,9 +78,9 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
     <item>
       <title>微软、苹果和人工智能 ↦</title>
       <link>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</link>
-      <description><![CDATA[Charles Stross 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其 Recall 功能来招致灾难：
+      <description><![CDATA[查尔斯·斯特罗斯 (Charles Stross) 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其召回功能来招致灾难：
 
-Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
+召回功能已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
       <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
     </item>
@@ -106,21 +122,6 @@ Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前�
 在一些 Reddit 用户看到 MacUpdater 发出的警告后，这笔交易被曝光，警告他们 Bartender 背后的公司已被悄悄替换。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/bartender-has-a-new-owner/</guid>
       <pubDate>Tue, 04 Jun 2024 23:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 515：2024 年 WWDC 主题演讲稿</title>
-      <link>https://sixcolors.com/podcast/2024/06/upgrade-515-the-wwdc-keynote-draft-2024/</link>
-      <description><![CDATA[现在是我们第九次年度竞赛的时间了，竞赛的主题是 Apple WWDC 主题演讲！会宣布什么？会一直都是 AI 吗？…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/upgrade-515-the-wwdc-keynote-draft-2024/</guid>
-      <pubDate>Mon, 03 Jun 2024 21:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：极其私密和安全的 Safari 网页浏览</title>
-      <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-5/</link>
-      <description><![CDATA[
-在线隐私不仅仅是您应该希望的事情，也是您应该期待的事情。您应该确保您的浏览历史记录保持私密，并且不会被广告网络收集。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-5/</guid>
-      <pubDate>Mon, 03 Jun 2024 16:00:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
