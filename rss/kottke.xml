@@ -4,7 +4,47 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Wed, 12 Jun 2024 15:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:21:08 GMT</lastBuildDate>
+    <item>
+      <title>国际象棋中最罕见的举动是什么？</title>
+      <link>https://kottke.org/24/06/whats-the-rarest-move-in-chess</link>
+      <description><![CDATA[
+YouTuber Paralogical 下载了超过 50 亿场国际象棋比赛的数据，以找到国际象棋中最罕见的走法。轻微剧透：在分析的任何一场比赛中，都有许多可能走法没有出现。所使用的数据和分析程序可在 Github 上找到：
+这是一段用于分析国际象棋 .pgn 文件的小代码，目的是找到“最罕见”的走法国际象棋中的走法。
+也就是说，给定大量输入游戏（例如来自 lichess 的每个评级游戏）以 pgn 格式给出的最罕见走法符号（标准代数符号）。
+但是，由于有许多走法从未发生过，因此这更多的是对各种类型的走法进行计数和分类，而不是找到一种特定的罕见走法。
+标签： 国际象棋 · 游戏 · 视频
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/whats-the-rarest-move-in-chess</guid>
+      <pubDate>Wed, 12 Jun 2024 17:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>大卫·皮尔斯 (David Pierce) 在拉斯维加斯报道 Excel 世界锦标赛。“那里...</title>
+      <link>https://kottke.org/24/06/0044801-david-pierce-reports-on-t</link>
+      <description><![CDATA[David Pierce 在拉斯维加斯报道 Excel 世界锦标赛。 “竞争激烈的 Excel 有一个不可避免的怪异之处：电子表格并不好玩。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044801-david-pierce-reports-on-t</guid>
+      <pubDate>Wed, 12 Jun 2024 17:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>向经理询问有关一名在面试期间告诉面试官的人的最新消息......</title>
+      <link>https://kottke.org/24/06/0044800-ask-a-manager-update-abou</link>
+      <description><![CDATA[向经理询问最新消息，有位男士在一次面试中对面试官说“也许她作为开发人员犯了错误，但因为我实际上上过这方面的学校，所以我没有遇到过这个问题。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044800-ask-a-manager-update-abou</guid>
+      <pubDate>Wed, 12 Jun 2024 16:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>此主题有很多很好的回应：“什么是某人......</title>
+      <link>https://kottke.org/24/06/0044796-lots-of-good-responses-to</link>
+      <description><![CDATA[很多对这个帖子的积极回应：“一个从未经历过贫穷的人会不明白什么？” 例如，贫穷有多昂贵，比如因为手头没有每月的现金而需要支付更多的每日地铁票。
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044796-lots-of-good-responses-to</guid>
+      <pubDate>Wed, 12 Jun 2024 15:56:20 GMT</pubDate>
+    </item>
     <item>
       <title>当然，Kenji López-Alt 的一位朋友发明了一台电脑……</title>
       <link>https://kottke.org/24/06/0044797-of-course-kenji-lopez-alt</link>
@@ -112,44 +152,6 @@ NPR 最近邀请 Chaka Khan 到办公室参加 Tiny Desk 音乐会。
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/06/0044776-an-in-depth-look-at-the</guid>
       <pubDate>Tue, 11 Jun 2024 16:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>从地球上看不同行星取代月球</title>
-      <link>https://kottke.org/24/06/the-view-from-earth-of-different-planets-replacing-the-moon-1</link>
-      <description><![CDATA[如果火星绕地球的距离与月球相同，那会是什么样子？海王星呢？还是木星？像这样：
-
-另请参阅土星环下的地球会是什么样子。 （来自 @stevenstrogatz）
-[这是一篇 2012 年 8 月发表的经典帖子。]
-标签： 天文学 · 地球 · 太空 · 永恒帖子 · 视频]]></description>
-      <guid>https://kottke.org/24/06/the-view-from-earth-of-different-planets-replacing-the-moon-1</guid>
-      <pubDate>Tue, 11 Jun 2024 16:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>WWDC 上展示的“即将登陆 Apple TV+”短片包含一些令人着迷的内容……</title>
-      <link>https://kottke.org/24/06/0044785-the-coming-to-apple-tv</link>
-      <description><![CDATA[WWDC 上展示的“即将登陆 Apple TV+”短片包含《Severance》和《Silo》第二季的一些诱人首发片段。
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044785-the-coming-to-apple-tv</guid>
-      <pubDate>Tue, 11 Jun 2024 15:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Three Bags Full》讲述的是一群绵羊解开凶手之谜的故事，已被改编...</title>
-      <link>https://kottke.org/24/06/0044779-three-bags-full-about-a</link>
-      <description><![CDATA[《Three Bags Full》讲述了一群羊寻找凶手的故事，已被改编成电影，由 Craig Mazin（切尔诺贝利）编剧，休·杰克曼和艾玛·汤普森主演。这本 2005 年出版的书去年在 Bluesky 上引起了不小的轰动。
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044779-three-bags-full-about-a</guid>
-      <pubDate>Tue, 11 Jun 2024 14:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>对可爱的顶级捕食者熊进行科学研究：如果不是朋友，......</title>
-      <link>https://kottke.org/24/06/0044780-a-scientific-investigatio</link>
-      <description><![CDATA[对可爱的顶级捕食者熊进行的科学研究：如果不是朋友，为什么是朋友形？“熊的一些特征——尤其是它们胖乎乎的圆脸——也可能让我们想起我们自己的婴儿。”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044780-a-scientific-investigatio</guid>
-      <pubDate>Mon, 10 Jun 2024 21:30:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

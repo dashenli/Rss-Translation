@@ -4,7 +4,35 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 12 Jun 2024 12:27:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:20:29 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：2024 年 TNW 大会幕后花絮；荷兰芯片、丹麦媒体、中国互联网</title>
+      <link>https://thenextweb.com/news/behind-the-scenes-of-tnw-conference-2024-dutch-chips-danish-media-chinese-internet</link>
+      <description><![CDATA[﻿欢迎收听 TNW Podcast 的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的节目中，Ioanna 和 Andrii 讨论了荷兰和欧洲芯片行业的最新发展、丹麦媒体和 OpenAI、我们的空间导航技能、中国互联网的消失等等。节目嘉宾是 TNW 活动总监 Zach Butler，他将讨论即将举行的 TNW 会议及其相关事宜，并留下深刻印象......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/behind-the-scenes-of-tnw-conference-2024-dutch-chips-danish-media-chinese-internet</guid>
+      <pubDate>Wed, 12 Jun 2024 14:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>TNW 大会 2024：打造全球首个获得医学批准的避孕应用程序</title>
+      <link>https://thenextweb.com/news/tnw-conference-2024-worlds-first-medically-cleared-contraceptive-app-natural-cycles</link>
+      <description><![CDATA[距离 6 月 20 日和 21 日在阿姆斯特丹举行的 TNW 会议仅剩一周多一点的时间，我们将重点介绍一些我们最期待的会议。今年我非常期待的一场演讲触及了我非常关心的一个目标：利用技术改变医疗保健应用。如果您和我一样对这个话题感兴趣，那么请务必不要错过 Elina Berglund 的演讲“周期表：自然避孕算法”。演讲将于活动第二天在 TNW 会谈舞台上进行…本报道将在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/tnw-conference-2024-worlds-first-medically-cleared-contraceptive-app-natural-cycles</guid>
+      <pubDate>Wed, 12 Jun 2024 13:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stability AI 推出 Stable Diffusion 3，这是其“迄今为止最复杂的图像生成模型”</title>
+      <link>https://thenextweb.com/news/stability-ai-launches-stable-diffusion-3-image-generator</link>
+      <description><![CDATA[Stability AI 今天推出了 Stable Diffusion 3 Medium，这家英国初创公司称其为“迄今为止最先进的文本转图像开放模型”。SD3 Medium 由 20 亿个参数组成，承诺无需复杂的工作流程即可获得照片级逼真的结果。至关重要的是，该模型可以在单个消费者系统上运行时生成这些图像。 Stability 表示，它还克服了手和脸中常见的伪影。该公司构建了 SD3 Medium 来理解涉及空间关系、构图元素、动作和风格的复杂提示。排版也得到了增强。Stability 将文本生成的准确性描述为“前所未有”。该公司将这些改进归功于 Diffusion Transformer 架构。另一个核心吸引力是模型的大小。…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/stability-ai-launches-stable-diffusion-3-image-generator</guid>
+      <pubDate>Wed, 12 Jun 2024 13:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Black Semiconductor 为石墨烯芯片融资 2.544 亿欧元，助力欧洲市场</title>
+      <link>https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector</link>
+      <description><![CDATA[在全球半导体领导地位的竞争中，一家位于亚琛的初创公司为其芯片技术筹集了 2.544 亿欧元，这对德国乃至欧洲的半导体行业来说都是一个巨大的推动。丹尼尔·沙尔 (Daniel Schall) 和塞巴斯蒂安·沙尔 (Sebastian Schall) 兄弟于 2020 年创立了 Black Semiconductor，将其从亚琛大学分离出来。这家初创公司正在开发一种新型芯片连接技术，该技术使用石墨烯，这是一种由 Andre Geim 和 Konstantin Novoselov 于 2010 年发现的新材料。石墨烯因其非凡的特性而被誉为“神奇材料”。这是因为它是科学界已知的最薄、最坚固的材料，并且是一种极好的......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector</guid>
+      <pubDate>Wed, 12 Jun 2024 12:08:53 GMT</pubDate>
+    </item>
     <item>
       <title>报告发现，欧洲电信业在量子技术应用方面处于领先地位</title>
       <link>https://thenextweb.com/news/european-telecoms-quantum-adoption</link>
@@ -43,37 +71,9 @@
     <item>
       <title>英国初创公司利用人工智能发现用于电动汽车的新型无稀土磁铁</title>
       <link>https://thenextweb.com/news/uk-startup-ai-to-discover-new-materials-rare-earth-free-magnet</link>
-      <description><![CDATA[一家英国初创公司使用人工智能算法来识别一种以前未知的无稀土磁铁，这可能为我们发现和创造新材料带来突破。总部位于伦敦的 Materials Nexus 使用其机器学习算法来识别和分析超过 1 亿种可以生产出可行的无稀土磁铁的材料组合。这家初创公司称其成功的秘诀就是 MagNex。它是一种不含镝和钕等稀土元素的永磁体。它的创造者表示，与同类稀土元素磁铁相比，它的生产成本更低，碳排放量更少…This story continued at The Next Web]]></description>
+      <description><![CDATA[一家位于英国的初创公司使用人工智能算法来识别一种以前未知的无稀土磁铁，这可能为我们发现和创造新材料带来突破。总部位于伦敦的 Materials Nexus 使用其机器学习算法来识别和分析超过 1 亿种可以生产出可行的无稀土磁铁的材料组合。这家初创公司称其成功的秘诀就是 MagNex。它是一种不含镝和钕等稀土元素的永磁体。它的创造者表示，与同类稀土元素磁铁相比，它的生产成本更低，碳排放量更少…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/uk-startup-ai-to-discover-new-materials-rare-earth-free-magnet</guid>
       <pubDate>Tue, 11 Jun 2024 11:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>你需要了解的有关麻省理工学院开发的最新编程语言 Finch 的一切</title>
-      <link>https://thenextweb.com/news/everything-know-about-finch-latest-programming-language-mit</link>
-      <description><![CDATA[今年 5 月，麻省理工学院的一个研究小组宣布了一种新的编程语言。其创建者称，Finch 是“一种简单的字节码解释型、纯面向对象、基于原型、动态类型的编程语言”。不要将其与同名的瑞典金融科技混淆，这是一种受到 Smalltalk、Self 和 Javascript 启发的语言。尤其是，Finch 简化了并发和并行程序的创建，强调轻量级进程和消息传递，类似于 Erlang 等语言。它还旨在更易于访问和学习。结构化数据的形式存在挑战，而 Finch 旨在解决......本文继续，请访问 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/everything-know-about-finch-latest-programming-language-mit</guid>
-      <pubDate>Tue, 11 Jun 2024 09:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>荷兰房屋建筑平台获得 110 万欧元资金帮助解决住房危机</title>
-      <link>https://thenextweb.com/news/dutch-home-building-platform-haaven-solve-housing-crisis</link>
-      <description><![CDATA[就在上个月，《卫报》将阿姆斯特丹的住房危机描述为“下一个层次”。整个欧洲的情况也好不到哪里去。整个大陆的房价和租金都在飙升，住房短缺的情况令人震惊。一家荷兰初创公司希望改变这种状况——至少对于那些愿意踏上建造自己的绿色家园之旅的人来说——并且刚刚获得了 110 万欧元的种子前资金来帮助它实现这一目标。Haaven 是一个数字平台，它将客户与可持续预制房屋的建造者、建筑师和建筑商联系起来，使这一过程......这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/dutch-home-building-platform-haaven-solve-housing-crisis</guid>
-      <pubDate>Tue, 11 Jun 2024 07:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告：荷兰是欧盟领先的创业生态系统</title>
-      <link>https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu</link>
-      <description><![CDATA[荷兰是欧盟排名第一的创业生态系统，超越巴黎和柏林。这是根据 Startup Genome 发布的 2024 年全球创业生态系统报告 (GSER) 得出的结论，该报告将荷兰排在全球第 14 位。根据该报告，该国在 2021 年下半年至 2023 年期间的生态系统价值已达到 960 亿美元，远高于 294 亿美元的全球平均水平。在同一时期，荷兰诞生了六家独角兽企业，包括 Mambu 和 bunq。2024 年，该国已经增加了两家：金融科技初创公司 Datasnipper 和物业管理系统 Mews。在资金方面，去年，荷兰风险投资支持的初创公司筹集了......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/netherlands-leading-startup-ecosystem-eu</guid>
-      <pubDate>Mon, 10 Jun 2024 15:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟推出人工智能地球“数字孪生”</title>
-      <link>https://thenextweb.com/news/eu-launches-ai-powered-digital-twin-of-the-earth</link>
-      <description><![CDATA[欧盟委员会今天推出了“目的地地球”（DestinE）的第一个版本，这是一个由人工智能驱动的模拟器，旨在提高气候预测的准确性。DestinE 的第一个版本包括两个模型：一个用于极端天气事件，另一个用于气候变化适应。这些模型将非常详细地监测、模拟和预测地球气候。欧盟反垄断负责人玛格丽特·维斯塔格 (Margrethe Vestager) 表示：“DestinE 意味着我们可以观察环境挑战，从而帮助我们预测未来情景——这是我们以前从未做过的。”DestinE 由欧洲高性能计算机 (EuroHPC) 提供支持，包括芬兰的 LUMI 超级计算机。…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/eu-launches-ai-powered-digital-twin-of-the-earth</guid>
-      <pubDate>Mon, 10 Jun 2024 13:25:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
