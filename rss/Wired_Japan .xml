@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 12 Jun 2024 06:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 09:17:03 GMT</lastBuildDate>
+    <item>
+      <title>不要让对科技公司的不信任导致你误判人工智能的潜力</title>
+      <link>https://wired.jp/article/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/</link>
+      <description><![CDATA[难怪有些人对各大科技公司的人工智能发展政策不信任。然而，有必要将这一点与人工智能对世界的影响有多大分开来考虑。]]></description>
+      <guid>https://wired.jp/article/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/</guid>
+      <pubDate>Wed, 12 Jun 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《Sonos Ace》评测：佩戴舒适、享受最高音质的耳机</title>
       <link>https://wired.jp/article/sonos-ace-review/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[世界上的一切都已被建模，从选举到经济到气候再到冠状病毒。我们将考虑统计建模的可能性和局限性，统计建模作为人工智能、空间计算和世界数字孪生的引擎，现在变得越来越重要。]]></description>
       <guid>https://wired.jp/article/sz-how-much-of-the-world-is-it-possible-to-model/</guid>
       <pubDate>Sun, 09 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能作为新的音乐聆听媒体：德井奈央的《续：人工智能创造》</title>
-      <link>https://wired.jp/article/series-nao-tokui-a-continuation-of-computational-creativity-and-beyond-3/</link>
-      <description><![CDATA[艺术家德井奈绪 (Nao Tokui) 的系列作品乘着快速变化的人工智能技术的浪潮，在考虑我们与人工智能关系的理想未来的同时，他受到人工智能技术的支配，有时甚至抵制它。在第三部分中，我们将回顾人工智能音乐生成系统的定位，并解释寻找一个新词来代替“生成”以唤起创作行为的重要性。]]></description>
-      <guid>https://wired.jp/article/series-nao-tokui-a-continuation-of-computational-creativity-and-beyond-3/</guid>
-      <pubDate>Sun, 09 Jun 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
