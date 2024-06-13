@@ -4,7 +4,19 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:01:40 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻的诞生</title>
+      <link>https://kottke.org/24/06/the-birth-of-breaking-news-1</link>
+      <description><![CDATA[1869 年，美国横贯大陆铁路在犹他州建成，这也是快讯新闻的诞生地。快讯新闻通过电报传递，采用了一种巧妙的方案：著名的金钉子和银锤分别连接到电报机上，这样当锤子敲击钉子时，电路就接通了，新闻就沿着电报线迅速传到了全国各地。1
+
+当你听到横贯大陆铁路建成的消息时，你在哪里？
+至少，这是计划。据说挥锤者没有击中尖峰，所以电报员不得不发送“完成”消息。↩
+[这是一篇来自 2015 年 6 月的经典帖子。]
+标签： 新闻 · 电报 · 永恒帖子 · 美国 · 视频]]></description>
+      <guid>https://kottke.org/24/06/the-birth-of-breaking-news-1</guid>
+      <pubDate>Wed, 12 Jun 2024 21:25:12 GMT</pubDate>
+    </item>
     <item>
       <title>你是 NPC 吗？（或者你有自由意志？）</title>
       <link>https://kottke.org/24/06/are-you-an-npc-or-do-you-have-free-will</link>
@@ -151,15 +163,6 @@ NPR 最近邀请 Chaka Khan 到办公室参加 Tiny Desk 音乐会。
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/06/0044787-neutrinos-hold-the-keys-t</guid>
       <pubDate>Tue, 11 Jun 2024 18:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>越野骑行者 Laura Killingbeck 认真思考“是人还是熊？”......</title>
-      <link>https://kottke.org/24/06/0044788-backcountry-biker-laura-k</link>
-      <description><![CDATA[越野骑行者 Laura Killingbeck 深思熟虑地参与了“人还是熊？”的辩论。“我实际上是一个离开人类，与熊一起生活在大自然中的女人。这就是我真实的生活。”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/0044788-backcountry-biker-laura-k</guid>
-      <pubDate>Tue, 11 Jun 2024 18:07:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
