@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Thu, 13 Jun 2024 03:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 06:18:22 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局称其误发出了用于训练目的的紧急信号</title>
+      <link>https://www.npr.org/2024/06/13/g-s1-4180/nasa-emergency-signal-space-station</link>
+      <description><![CDATA[美国宇航局的模拟演练意外在该机构的直播中播出。美国宇航局表示，所有机组人员都健康、安全，并为定于周四进行的太空行走做好准备。]]></description>
+      <guid>https://www.npr.org/2024/06/13/g-s1-4180/nasa-emergency-signal-space-station</guid>
+      <pubDate>Thu, 13 Jun 2024 05:53:21 GMT</pubDate>
+    </item>
     <item>
       <title>美国公民自由联盟就拜登政府在南部边境采取的新行政行动起诉拜登政府</title>
       <link>https://www.npr.org/2024/06/12/nx-s1-5003722/aclu-sues-over-biden-border-executive-action</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[以色列与黎巴嫩真主党之间的跨境交火在长达 8 个月的加沙战争中达到新高：许多人担心这可能会引发全面战争]]></description>
       <guid>https://www.npr.org/2024/06/12/nx-s1-5003127/a-view-from-both-sides-of-the-israel-lebanon-border</guid>
       <pubDate>Wed, 12 Jun 2024 20:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国总统和外交政策</title>
-      <link>https://www.npr.org/2024/06/12/nx-s1-4995108/u-s-presidents-and-foreign-policy</link>
-      <description><![CDATA[外交政策也许不是选民最关心的问题，但它却是美国总统职责的重要组成部分。]]></description>
-      <guid>https://www.npr.org/2024/06/12/nx-s1-4995108/u-s-presidents-and-foreign-policy</guid>
-      <pubDate>Wed, 12 Jun 2024 20:16:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

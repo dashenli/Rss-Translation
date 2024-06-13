@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 13 Jun 2024 03:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 06:20:02 GMT</lastBuildDate>
+    <item>
+      <title>皇家莎士比亚剧团眼中的戏剧未来</title>
+      <link>https://wired.jp/article/vol53-we-are-all-newcomers-rsc/</link>
+      <description><![CDATA[八年前，英国皇家莎士比亚剧团（RSC）成立了数字开发部门。看似很长的时间，但考虑到剧团将在2025年庆祝成立150周年，可以说很短。这样一家享有盛誉的剧院公司如何进行数字表达？]]></description>
+      <guid>https://wired.jp/article/vol53-we-are-all-newcomers-rsc/</guid>
+      <pubDate>Thu, 13 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>斯沃琪“MoonSwatch”现将推出3款以地球为主题的款式</title>
       <link>https://wired.jp/article/swatch-drops-three-new-earth-based-moonswatches-we-want-two-of-them/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[苹果开发者大会“WWDC 2024”已经开始，公布了多项使用AI的新功能和新操作系统。从Apple Intelligence到新的Siri，从下一代iOS到visionOS 2，这里有您需要了解的一切。]]></description>
       <guid>https://wired.jp/article/everything-apple-announced-wwdc-2024/</guid>
       <pubDate>Mon, 10 Jun 2024 22:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果终于充分利用了生成式人工智能。 “利润”与“苹果智能”带来的新挑战</title>
-      <link>https://wired.jp/article/apple-intelligence-ios-wwdc/</link>
-      <description><![CDATA[苹果在开发者大会“WWDC 2024”上宣布全面使用生成式人工智能。在 iPhone、iPad 和 Mac 上广泛推出的人工智能功能可能会给用户带来巨大的好处，但也给苹果带来了新的挑战。]]></description>
-      <guid>https://wired.jp/article/apple-intelligence-ios-wwdc/</guid>
-      <pubDate>Mon, 10 Jun 2024 20:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
