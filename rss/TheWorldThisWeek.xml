@@ -4,7 +4,14 @@
     <title>本周世界</title>
     <link>https://www.economist.com/the-world-this-week/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 15:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 15:26:07 GMT</lastBuildDate>
+    <item>
+      <title>本周封面</title>
+      <link>https://www.economist.com/the-world-this-week/2024/06/13/this-weeks-cover</link>
+      <description><![CDATA[我们如何看待世界]]></description>
+      <guid>https://www.economist.com/the-world-this-week/2024/06/13/this-weeks-cover</guid>
+      <pubDate>Thu, 13 Jun 2024 11:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>KAL的漫画</title>
       <link>https://www.economist.com/the-world-this-week/2024/06/06/kals-cartoon</link>
@@ -101,13 +108,6 @@
       <link>https://www.economist.com/the-world-this-week/2024/05/16/politics</link>
       <description><![CDATA[]]></description>
       <guid>https://www.economist.com/the-world-this-week/2024/05/16/politics</guid>
-      <pubDate>Thu, 16 May 2024 13:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>商业</title>
-      <link>https://www.economist.com/the-world-this-week/2024/05/16/business</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.economist.com/the-world-this-week/2024/05/16/business</guid>
       <pubDate>Thu, 16 May 2024 13:32:44 GMT</pubDate>
     </item>
     </channel>
