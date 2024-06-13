@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 13 Jun 2024 01:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:20:22 GMT</lastBuildDate>
+    <item>
+      <title>将你的网站从 Apple 的 AI 爬虫中排除</title>
+      <link>https://sixcolors.com/post/2024/06/excluding-your-website-from-apples-ai-crawler/</link>
+      <description><![CDATA[本周，苹果发布的一项颇具争议的公告是，它通过开放网络等内容训练了其基础模型，并将其作为即将推出的 Apple Intelligence 功能的基础。…]]></description>
+      <guid>https://sixcolors.com/post/2024/06/excluding-your-website-from-apples-ai-crawler/</guid>
+      <pubDate>Thu, 13 Jun 2024 18:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Casey Liss 的夏季项目 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/casey-lisss-summer-project/</link>
+      <description><![CDATA[本周，我有机会与我的朋友 Casey Liss 共度了一段时光，他向我（以及 Stephen Hackett，因为我们是我们这个更大的技术宅朋友群中的三个超级大学橄榄球迷）讲述了他今年夏天所做的事情。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/casey-lisss-summer-project/</guid>
+      <pubDate>Thu, 13 Jun 2024 16:13:35 GMT</pubDate>
+    </item>
     <item>
       <title>visionOS 2 虽小但很有前景</title>
       <link>https://sixcolors.com/post/2024/06/visionos-2-offers-small-but-promising-steps-forward/</link>
@@ -37,7 +51,7 @@
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果终于让你随心所欲了（有点儿像 Macworld/Dan Moren）</title>
+      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
       <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
       <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
@@ -105,20 +119,6 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
 Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
       <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的许多最新产品都存在一个主题 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/theres-a-thread-running-through-many-of-apples-latest-products-2/</link>
-      <description><![CDATA[不，不是 Meta 的社交网络平台：Thread，智能家居无线电芯片。1 你知道的，苹果悄悄地把它放在了 HomePods、iPhone 15 机型和 *ahem* 一些 Apple TV 中。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/theres-a-thread-running-through-many-of-apples-latest-products-2/</guid>
-      <pubDate>Wed, 05 Jun 2024 15:15:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的人工智能机遇：成为房间里的成年人（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2356542</link>
-      <description><![CDATA[WWDC 24 即将到来，每个人都期待着它完全围绕人工智能展开。随着科技界的目光重新转向苹果，还有很多工作要做。…]]></description>
-      <guid>https://www.macworld.com/article/2356542</guid>
-      <pubDate>Wed, 05 Jun 2024 15:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
