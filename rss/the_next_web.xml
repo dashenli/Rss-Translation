@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 14 Jun 2024 12:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 15:18:07 GMT</lastBuildDate>
+    <item>
+      <title>本周荷兰科技新闻：TNW 会议版</title>
+      <link>https://thenextweb.com/news/this-week-dutch-tech-tnw-conference-edition</link>
+      <description><![CDATA[星期五终于到了，本周来自荷兰的科技新闻汇总也到了！距离 6 月 20 日和 21 日在阿姆斯特丹举行的 TNW 会议还有不到七天的时间，本次汇总有一个新亮点：我们的编辑团队挑选了此次活动中不容错过的演讲者和演讲！但在此之前，让我们先深入了解一下新闻。新闻要闻阿姆斯特丹因“问卷调查不合格”暂停共享货运电动自行车服务 Cargoroo（TNW）报告：荷兰是欧盟领先的创业生态系统（TNW）荷兰房屋建筑平台获得 110 万欧元资金，帮助解决住房危机（TNW）荷兰投资 1300 万欧元…本报道在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/this-week-dutch-tech-tnw-conference-edition</guid>
+      <pubDate>Fri, 14 Jun 2024 11:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Highview Power 获得 3 亿英镑投资，打造英国首个液态空气电池</title>
+      <link>https://thenextweb.com/news/highview-power-funding-uk-liquid-air-battery</link>
+      <description><![CDATA[英国扩张企业 Highview Power 已获得 3 亿英镑资金，用于在曼彻斯特建设液态空气储存厂。英国政府的基础设施银行领投了此轮融资。投资银行高盛、英国能源公司 Centrica 和矿业巨头力拓也参与其中。这项投资是对一项新兴技术的认可，该技术可以帮助英国摆脱对天然气和煤炭等污染严重的基本负荷电力来源的依赖。集团首席执行官 Chris O’Shea 表示：“我们必须探索新的创新方法来储存能源，这样当没有风吹、没有太阳照耀时，我们也能有电可用”This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/highview-power-funding-uk-liquid-air-battery</guid>
+      <pubDate>Fri, 14 Jun 2024 10:58:40 GMT</pubDate>
+    </item>
     <item>
       <title>TNW 大会 2024：让倒下的电动自行车巨星 VanMoof 重获新生</title>
       <link>https://thenextweb.com/news/tnw-conference-2024-ebike-startup-vanmoof</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[Stability AI 今天推出了 Stable Diffusion 3 Medium，这家英国初创公司称其为“迄今为止最先进的文本转图像开放模型”。SD3 Medium 由 20 亿个参数组成，承诺无需复杂的工作流程即可获得照片级逼真的结果。至关重要的是，该模型可以在单个消费者系统上运行时生成这些图像。 Stability 表示，它还克服了手和脸中常见的伪影。该公司构建了 SD3 Medium 来理解涉及空间关系、构图元素、动作和风格的复杂提示。排版也得到了增强。Stability 将文本生成的准确性描述为“前所未有”。该公司将这些改进归功于 Diffusion Transformer 架构。另一个核心吸引力是模型的大小。…这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/stability-ai-launches-stable-diffusion-3-image-generator</guid>
       <pubDate>Wed, 12 Jun 2024 13:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black Semiconductor 为石墨烯芯片融资 2.544 亿欧元，助力欧洲市场</title>
-      <link>https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector</link>
-      <description><![CDATA[在全球半导体领导地位的竞争中，一家位于亚琛的初创公司为其芯片技术筹集了 2.544 亿欧元，这对德国乃至欧洲的半导体行业来说都是一个巨大的推动。丹尼尔·沙尔 (Daniel Schall) 和塞巴斯蒂安·沙尔 (Sebastian Schall) 兄弟于 2020 年创立了 Black Semiconductor，将其从亚琛大学分离出来。这家初创公司正在开发一种新型芯片连接技术，该技术使用石墨烯，这是一种由 Andre Geim 和 Konstantin Novoselov 于 2010 年发现的新材料。石墨烯因其非凡的特性而被誉为“神奇材料”。这是因为它是科学界已知的最薄、最坚固的材料，并且是一种极好的......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/black-semiconductor-raises-e254-4m-graphene-based-chips-boost-european-sector</guid>
-      <pubDate>Wed, 12 Jun 2024 12:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告发现，欧洲电信业在量子技术应用方面处于领先地位</title>
-      <link>https://thenextweb.com/news/european-telecoms-quantum-adoption</link>
-      <description><![CDATA[说到量子技术，大多数人可能还在想象几十年后的事情。但是，正如今天发布的一份新报告显示，量子已经到来——尤其是在电信行业。经过多年局限于研究机构的渐进式进展，新兴的量子技术领域已开始获得商业发展势头。虽然大多数发展都与量子计算领域及其未来前景有关，但量子技术还有许多其他用例——如今已经适用。电信是量子应用的驱动力量子通信，包括网络和加密形式，…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/european-telecoms-quantum-adoption</guid>
-      <pubDate>Wed, 12 Jun 2024 09:58:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
