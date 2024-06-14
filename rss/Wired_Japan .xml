@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 14 Jun 2024 06:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:16:26 GMT</lastBuildDate>
+    <item>
+      <title>蓝光不是原因吗？ 您应该避免在睡前使用智能手机的真正原因</title>
+      <link>https://wired.jp/article/blue-light-smartphone-screen-sleep/</link>
+      <description><![CDATA[多项研究表明，智能手机屏幕发出的蓝光不会干扰睡眠。然而，限制睡前使用智能手机还有其他原因。]]></description>
+      <guid>https://wired.jp/article/blue-light-smartphone-screen-sleep/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于 Apple Vision Pro 您需要了解的信息，现已在日本发售</title>
       <link>https://wired.jp/article/apple-vision-pro-what-you-need-to-know/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Apple 专有的人工智能技术 Apple Intelligence 将使许多应用程序和服务变得更加智能。然而，虽然生成式人工智能普遍存在问题，但苹果公司有一个重要的使命，那就是让它顺利运行。]]></description>
       <guid>https://wired.jp/article/apple-intelligence-ios-macos-ai-openai/</guid>
       <pubDate>Tue, 11 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI工具的安全性如何？ 与新“工作伙伴”相关的安全风险</title>
-      <link>https://wired.jp/article/ai-workplace-privacy-security/</link>
-      <description><![CDATA[OpenAI 的 ChatGPT 和 Microsoft 的 Copilot 等生成式 AI 工具正在成为日常工作中不可或缺的一部分。不过，从隐私和安全考虑的角度来看，也确实有一些要点需要牢记。]]></description>
-      <guid>https://wired.jp/article/ai-workplace-privacy-security/</guid>
-      <pubDate>Tue, 11 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
