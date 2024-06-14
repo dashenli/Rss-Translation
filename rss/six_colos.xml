@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 13 Jun 2024 21:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 01:01:00 GMT</lastBuildDate>
+    <item>
+      <title>好的，这是 Apple Intelligence</title>
+      <link>https://sixcolors.com/post/2024/06/ok-fine-heres-apple-intelligence/</link>
+      <description><![CDATA[
+很明显，苹果不想参与其中。
+多年来，该公司一直拒绝使用“人工智能”这个词来描述其所做的事情。…]]></description>
+      <guid>https://sixcolors.com/post/2024/06/ok-fine-heres-apple-intelligence/</guid>
+      <pubDate>Thu, 13 Jun 2024 23:29:34 GMT</pubDate>
+    </item>
     <item>
       <title>将你的网站从 Apple 的 AI 爬虫中排除</title>
       <link>https://sixcolors.com/post/2024/06/excluding-your-website-from-apples-ai-crawler/</link>
@@ -60,7 +69,7 @@
     <item>
       <title>（播客）升级 516：我正在压抑自己的感情</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</link>
-      <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。而在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
+      <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</guid>
       <pubDate>Wed, 12 Jun 2024 02:43:47 GMT</pubDate>
     </item>
@@ -110,15 +119,6 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
       <description><![CDATA[将 D 放回 WWDC。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/the-rebound-498-the-d-is-for-disappointment/</guid>
       <pubDate>Wed, 05 Jun 2024 19:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软、苹果和人工智能 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</link>
-      <description><![CDATA[Charles Stross 撰写了一篇令人耳目一新的怀疑专栏文章，探讨了人工智能炒作、苹果如何领先一段时间以及微软为何似乎通过启用其 Recall 功能来招致灾难：
-
-Recall 已经引起了数据保护监管机构的注意；我怀疑，以目前的形式，它将一蹶不振，而那些定于 6 月 18 日推出的 CoPilot+ PC 将会匆忙进行大修。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/microsoft-apple-and-ai/</guid>
-      <pubDate>Wed, 05 Jun 2024 16:37:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

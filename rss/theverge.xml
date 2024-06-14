@@ -4,9 +4,129 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 21:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:59:55 GMT</lastBuildDate>
     <item>
-      <title>特斯拉股东批准了埃隆·马斯克的巨额薪酬方案——还有什么疑问吗？</title>
+      <title>雅虎在新的人工智能新闻应用中复活了 Artifact</title>
+      <link>https://www.theverge.com/2024/6/13/24177980/yahoo-news-app-launch-artifact-ai-architecture</link>
+      <description><![CDATA[
+
+当你可以通过人工智能生成要点时，为什么要阅读这篇文章？ |图片：雅虎
+
+Artifact 已死，雅虎版 Artifact 万岁。 Artifact 是一款新闻聚合应用，由 Instagram 联合创始人 Kevin Systrom 和 Mike Krieger 打造。Artifact 背后的架构将继续存在于全新 Yahoo 新闻应用中。
+全新 Yahoo 新闻应用现已在 iOS 和 Android 上提供下载，它根据用户的兴趣为他们提供由 AI 驱动的个性化新闻推送，而一项名为“关键要点”的功能可以在读者感觉太长不看时提供新闻文章的要点摘要。
+Yahoo 新闻应用的其他功能包括“热门故事”，它会挑选热门故事供用户阅读，并将很快包括关键要点摘要。您可以屏蔽带有不想要的关键字的故事，也可以根据您的喜好过滤掉某些发布商。和 Artifact 一样，雅虎新闻也允许您标记诸如clickbaity 标题之类的内容，然后让 AI 将它们重写为更好的内容。
+雅虎于 4 月以未公开的金额收购了 Artifact，从而避免了其彻底消亡。 Artifact 曾试图将其打造成一个类似 Twitter 的社交媒体平台，但在其最初目标是成为“文本版 TikTok”，但在生命的最后阶段，它有点迷失了自己。雅虎尚未表示将恢复 Artifact 的所有社交功能，但新应用允许您与好友分享文章摘录。它还具有游戏化的“连续阅读”功能和徽章，您可以向其他人展示您的阅读习惯。
+雅虎还将新闻应用中的部分内容带到雅虎新闻在线主页。从今天开始，该网站将采用新布局，突出显示热门新闻、提供个性化推荐并显示热门话题。新的主页体验是可选的。
+]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24177980/yahoo-news-app-launch-artifact-ai-architecture</guid>
+      <pubDate>Fri, 14 Jun 2024 00:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软无所不知的 Recall AI 功能被推迟</title>
+      <link>https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay</link>
+      <description><![CDATA[
+
+图片：微软
+
+微软计划下周推出新款 Copilot Plus 电脑，但这款电脑将取消备受争议的 Recall 功能，该功能会截取您在新笔记本电脑上执行的所有操作的屏幕截图。该软件制造商暂时搁置 Recall，以便通过 Windows Insider 计划对其进行测试，此前该公司最初承诺将 Recall 作为一项可选功能发布，并提供额外的安全改进。“我们正在调整 Recall 的发布模式，以利用 Windows Insider 社区的专业知识，确保体验符合我们对质量和安全的高标准，”微软在更新的博客文章中表示。“当 Recall（预览版）在 Windows Insider 计划中可用时，我们将发布一篇博客文章，详细介绍如何获取预览版。”
+这意味着 Recall 甚至不会最初提供给 Windows Insider 或任何购买 Copilot Plus PC 的人。我今天早些时候在记事本中写道，Windows 工程师正在争分夺秒地测试和实施安全改进，以便在 6 月 18 日推出 Copilot Plus PC。现在，微软基本上承认它需要更多时间来测试 Recall 的安全改进。
+
+
+GIF：微软
+Windows Recall 功能。
+
+微软首次上个月，该公司在即将推出的 Copilot Plus PC 中推出了 Recall 功能，但自那时起，隐私权倡导者和安全专家一直在警告，如果不进行改变，Recall 可能会给网络安全带来“灾难”。微软上周承诺对 Recall 进行三项重大更新，包括将 AI 驱动的功能变为可选体验（而非默认开启）、加密数据库以及通过 Windows Hello 进行身份验证。
+Recall 使用 Windows 11 内置的本地 AI 模型来截取您在计算机上看到或执行的几乎所有操作的屏幕截图，然后让您能够搜索和检索您看到的内容。可探索的时间轴可让您滚动浏览这些快照，以回顾您在 PC 上某一天所做的事情。Recall 中的所有内容都设计为在设备上保持本地和私密，因此不会使用任何数据来训练微软的 AI 模型。
+微软决定推迟 Recall 是在副董事长兼总裁布拉德·史密斯今天在众议院国土安全委员会作证之后不久做出的。 史密斯表示，作为其安全未来计划 (SFI) 的一部分，微软将安全置于一切之上。“这甚至比公司在人工智能方面的工作更重要，”史密斯说。
+史密斯还透露，微软将把安全作为所有员工两年一次的评估流程的强制性部分。 “通过这一改变，网络安全将被考虑在每位员工的年度奖金和薪酬中，”史密斯说。
+我今天早些时候在记事本中报告过Recall 最初是在微软的大规模 SFI 改革开始之前创建的。Recall 是在微软秘密开发的，甚至没有在 Windows Insiders 上公开测试过。微软随后发现了 Recall 的一些安全问题，并在最近几个月开始开发和测试对体验的更改。它现在显然需要更多时间来确保这些变化符合其将安全置于 AI 和其他一切之上的承诺。
+]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay</guid>
+      <pubDate>Thu, 13 Jun 2024 23:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国国家安全局前局长加入 OpenAI 董事会</title>
+      <link>https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety</link>
+      <description><![CDATA[
+
+照片：NSA
+
+OpenAI 已任命美国陆军退役将军、前国家安全局 (NSA) 局长 Paul M. Nakasone 为其董事会成员，该公司于周四宣布。 
+中曾根被前总统唐纳德·特朗普提名领导国家安全局，并于 2018 年至今年 2 月期间担任该机构负责人。在中曾根离开美国国家安全局之前，他撰写了一篇专栏文章，支持续签《外国情报监视法》第 702 条，该监视计划最终于 4 月获得国会重新授权。
+
+OpenAI 表示，中曾根将加入其安全与安保委员会，该委员会于 4 月宣布成立。 ，由首席执行官 Sam Altman 领导，“这是首要任务”。Nakasone 将“为 OpenAI 做出贡献，以更好地了解如何通过快速检测和应对网络安全威胁来利用人工智能来加强网络安全。”
+OpenAI 最近与安全相关的离职人员包括联合创始人兼首席科学家 Ilya Sutskever，他在 Sam Altman 11 月被解雇并最终被解职中发挥了关键作用，以及 Jan Leike 在 X 上表示，“安全文化和流程已经让位于闪亮的产品。”
+
+“人工智能有可能对人们的生活产生巨大的积极影响，但只有安全地构建和部署这些创新，它才能发挥这种潜力，”董事会主席 Bret Taylor 在一份声明中表示。 “中曾根将军在网络安全等领域无与伦比的经验将有助于指导 OpenAI 实现其使命，即确保通用人工智能造福全人类。” 
+OpenAI 的董事会现在包括中曾根、Altman、Adam D’Angelo、Larry Summers、Bret Taylor、Sue Desmond-Hellmann 博士、Nicole Seligman 和 Fidji Simo。微软的 Dee Templeton 也拥有无投票权的观察员席位。]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety</guid>
+      <pubDate>Thu, 13 Jun 2024 22:36:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦政府依据《管制物质法》逮捕 Adderall 远程医疗首席执行官</title>
+      <link>https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud</guid>
+      <pubDate>Thu, 13 Jun 2024 22:23:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，亚马逊的新款 Alexa 远远落后</title>
+      <link>https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune</guid>
+      <pubDate>Thu, 13 Jun 2024 22:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果的 Sunny 在新预告片中让每个人都看起来像是嫌疑犯</title>
+      <link>https://www.theverge.com/24177191/apple-tv-sunny-trailer</link>
+      <description><![CDATA[
+
+Apple
+
+来自Apple TV Plus 即将推出的剧集《阳光灿烂的日子》的早期照片几乎没有让人怀疑它是一部喜剧，但该剧的新预告片让它看起来像这也是一部扎实（虽然有点滑稽）的侦探故事，让你猜不透。
+《桑尼》以半未来主义的现代日本为背景，讲述了坂本苏西（拉什达·琼斯饰）着手揭开丈夫马萨（西岛秀俊饰）被推定死亡的真相。马萨的飞机在神秘的情况下坠毁，尸体失踪，桑尼的生活已经让她感到奇怪，因为她已经适应了寡妇的新身份。但当 Masa 的同事带着一个名叫 Sunny（Joanna Sotomura 饰）的摇头家用机器人出现在 Suzie 家门口作为丧亲礼物时，事情开始变得更加奇怪。
+当 Suzie 和 Sunny 了解到 Masa 向家人隐瞒的秘密生活时，悲伤肯定会在 Sunny 更具戏剧性的时刻中发挥作用。但预告片中有足够多的笑话和奇怪的转折，让 Sunny 看起来像是一个值得在 7 月 10 日首播时收看的神秘故事。
+]]></description>
+      <guid>https://www.theverge.com/24177191/apple-tv-sunny-trailer</guid>
+      <pubDate>Thu, 13 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 为高级订阅用户扩展了 AI 求职功能</title>
+      <link>https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers</link>
+      <description><![CDATA[
+
+照片由 Justin Sullivan / Getty Images 拍摄
+
+LinkedIn 正在推出新的 AI 功能，帮助用户寻找工作，定制简历，甚至从 AI 聊天机器人那里获得建议。但这些新功能是有代价的，因为它们将在全球范围内以英语开始向 Premium 订阅者开放。
+一款工具可让您通过用自然语言输入提示来搜索 LinkedIn 上的职位。在一篇博文中，LinkedIn 首席产品官 Tomer Cohen 举了一个例子，“帮我在底特律找一份薪水至少 110,000 美元的远程营销工作。”如果结果不错，我认为这是一种寻找潜在工作的有效方法。
+
+
+GIF：LinkedIn
+
+LinkedIn 还可以审查您的简历，并针对特定职位提供个性化的改进建议。您将能够上传简历、获得反馈并“与 AI 进行交互编辑”，LinkedIn 的 Rohan Rajiv 在一篇博文中说道。还有一个工具可以帮助您在 AI 的帮助下“从头开始”构建求职信。
+这些功能添加到 LinkedIn 在去年年底开始测试的其他 Premium 专属 AI 功能中，其中包括从 LinkedIn 提要中总结帖子的功能。
+LinkedIn 不仅仅使用 AI 来帮助您找工作。它还开始试用少数专家的 AI 角色，你可以与他们交谈，以了解更多有关商业主题的信息。（它们看起来有点像 LinkedIn 对 Meta 的基于名人的聊天机器人的看法。）“你收到的回复是由专家培训的，代表了针对每个学习者独特需求的个性化见解的融合，”科恩说。讲师名单包括 Alicia Reece、Anil Gupta、Gemma Leigh Roberts 博士和 Lisa Gates。
+该公司还承诺将使用生成式 AI 更广泛地改进平台的搜索功能，尽管它没有分享太多具体细节。 “借助我们新的搜索功能，每次搜索互动都变得更加智能——无论您是想找人、探索工作机会、开展拓展活动还是寻求知识和答案，”Cohen 说道。“AI 将彻底改变我们的搜索功能，让您能够直接通过 LinkedIn 搜索探索任何主题的深度和广度。”Cohen 承诺搜索增强功能将在“未来几周内”推出。]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers</guid>
+      <pubDate>Thu, 13 Jun 2024 21:27:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌延长受粉色垂直线困扰的 Pixel 8 手机维修计划</title>
+      <link>https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch</link>
+      <description><![CDATA[
+
+照片由 Allison Johnson / The Verge 拍摄
+
+Google 已在其 Pixel 帮助社区门户上宣布它正在扩展 Pixel 8 的维修计划，适用于显示垂直线条和闪烁的手机。此政策更新允许 Pixel 8 所有者在购买后长达三年的保修期内修复此问题，如果他们的手机“显示从显示屏底部到顶部的垂直线条或显示屏闪烁”。 
+不过，Google 并不承诺每部出现此问题的手机都符合条件——Google 或授权维修合作伙伴需要根据您的手机序列号确定它是否符合延长条件。 
+Pixel 8 Pro 不包含在此次修复扩展中，但有用户声称它可以显示自己的垂直线。
+谷歌有过用户遇到故障、错误的历史，以及 Pixel 手机中的其他怪异之处 — — 甚至可以追溯到最早的几代 Pixel和它们的 Nexus 前辈。事实上，在 2023 年底推出 Pixel 8 和 8 Pro 后不久，用户报告称，他们的显示屏出现了类似波纹的物理缺陷。 
+如果没有这样的延长，谷歌的标准硬件保修仍然只能持续一年，尽管该公司现在承诺为所有 Pixel 8 手机提供七年的软件操作系统和安全更新，包括更便宜的 Pixel 8A。]]></description>
+      <guid>https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch</guid>
+      <pubDate>Thu, 13 Jun 2024 21:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉股东批准伊隆·马斯克的巨额薪酬方案</title>
       <link>https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt</guid>
@@ -30,94 +150,6 @@
 这并不是本周出现的唯一一起股东诉讼。一家机构投资者起诉该公司，声称马斯克利用内幕信息出售特斯拉股票赚取了数十亿美元。]]></description>
       <guid>https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete</guid>
       <pubDate>Thu, 13 Jun 2024 20:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉 2024 年股东大会：有关埃隆·马斯克 500 亿美元薪酬的所有新闻</title>
-      <link>https://www.theverge.com/2024/6/13/24177816/tesla-shareholder-elon-musk-pay-package-vote-news</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-此次投票被视为对马斯克在特斯拉动荡时期的领导力的一次公投。  特斯拉 2024 年的股东大会与过去的会议略有不同。投资者被要求对伊隆·马斯克的巨额薪酬方案发表意见，据估计，该薪酬方案高达 500 亿美元。 
-但这并不是股东第一次投票决定是否批准马斯克不寻常的薪酬方案。今年早些时候，特拉华州一名法院法官在股东诉讼中裁定马斯克 560 亿美元的薪酬无效。 
-
-
-特斯拉的两项股东决议目前都以较大优势通过！♥️♥️ 感谢您的支持！！ ♥️♥️ pic.twitter.com/udf56VGQdo— 埃隆·马斯克 (@elonmusk) 2024 年 6 月 13 日
-
-
-股东还将就将特斯拉法定住所从特拉华州迁至德克萨斯州以及重新任命两名董事会成员的提议进行投票：詹姆斯·默多克和埃隆的兄弟金巴尔·马斯克。 
-此次投票被广泛视为对马斯克在特斯拉动荡领导地位的一次公投。散户投资者普遍支持马斯克，而一些机构股东则表示他们会反对该计划，称其过分。 
-马斯克威胁说，如果他得不到更多特斯拉股票，他将停止特斯拉在人工智能和机器人方面的工作。特斯拉董事会暗示，如果薪酬方案未获批准，他可能会完全离开公司。 ]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177816/tesla-shareholder-elon-musk-pay-package-vote-news</guid>
-      <pubDate>Thu, 13 Jun 2024 20:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究表明，我们或许不需要捕获那么多碳</title>
-      <link>https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry</guid>
-      <pubDate>Thu, 13 Jun 2024 19:49:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GuliKit 的防漂移霍尔效应摇杆即将登陆 PS5、PS4、Xbox 和 Switch Pro 游戏手柄</title>
-      <link>https://www.theverge.com/2024/6/13/24177912/gulikit-hall-effect-dualsense-dualshock-4-xbox-series-switch-joystick</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177912/gulikit-hall-effect-dualsense-dualshock-4-xbox-series-switch-joystick</guid>
-      <pubDate>Thu, 13 Jun 2024 19:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 将允许你在桌面 Chrome 上通过扫描代码使用 Apple Pay</title>
-      <link>https://www.theverge.com/2024/6/13/24177851/apple-ios-18-pay-chrome-scanning-code-wwdc-2024</link>
-      <description><![CDATA[
-
-图片：Apple
-
-据 报道，Apple 正在推出一种在非 Safari 桌面网络浏览器上使用 Apple Pay 的方式， MacRumors，这意味着您很快就能使用 Apple 的支付服务在桌面 Chrome、Firefox 甚至 Windows PC 上购买东西。
-Apple 在面向开发者的 WWDC 2024 视频中展示了它的工作原理。如果您使用的桌面浏览器不是 Safari，并且您看到了 Apple Pay 按钮，您将能够单击该按钮以调出一个特殊代码，您可以使用运行 iOS 18 的 iPhone 扫描该代码。如果您扫描该代码，系统将提示您在 iPhone 上完成交易。
-
-
-图片：Apple
-
-在桌面上，Apple Pay 迄今为止仅限于 Mac 上的 Safari。得益于这些更新，根据您使用的浏览器和硬件，您可能会开始在网络上看到更多 Apple Pay 按钮。
-Apple 的视频还为开发人员提供了有关 iOS 18 在 Apple Wallet 中重新设计的活动门票的详细信息。这些变化和其他一些变化将于今年秋季在 iPhone 上推出。]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177851/apple-ios-18-pay-chrome-scanning-code-wwdc-2024</guid>
-      <pubDate>Thu, 13 Jun 2024 19:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款 LED 面具可将你的脸隐藏在令人毛骨悚然的像素化微笑后面</title>
-      <link>https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji</guid>
-      <pubDate>Thu, 13 Jun 2024 18:29:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后，Apple Watch 可以让你休息</title>
-      <link>https://www.theverge.com/2024/6/13/24175506/apple-watch-watchos-11-rest-days-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24175506/apple-watch-watchos-11-rest-days-wearables</guid>
-      <pubDate>Thu, 13 Jun 2024 18:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>遭遇阻力后，福特降低经销商对电动汽车的要求</title>
-      <link>https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued</link>
-      <description><![CDATA[
-
-现在任何经销商都可以销售福特电动汽车。 | 图片：Umar Shakir / The Verge
-
-福特的 Model E 经销商认证计划正在被剥离，以允许所有地点访问电动汽车库存。 据 CNBC 报道，福特正在修改其要求经销商投资高达 120 万美元进行认证的策略，其中包括强制性的现场电动汽车充电器、升级和高级员工培训。
-在给The Verge的一封电子邮件中，福特 Model E 首席运营官 Marin Gjaja 写道，从 7 月 1 日开始，该公司将“将电动汽车销售和服务扩展到其所有 2,800 家美国经销商”，这将取代2022 年首次推出的 Model E 经销商计划。 Gjaja 写道，大约有 1,400 家经销商加入了旧计划。
-上个月在经销商会议上，有传言称，取消电动汽车认证要求的举措正在进行中。福特与经销商之间发生了争执，因为被指控违反了州特许经营法，同时随着特斯拉等热门电动汽车的销售放缓而失去影响力——尽管福特自己的电动汽车和混合动力汽车销量上升。
-旧计划多达三分之二的福特经销商之前同意签署电动汽车“认证”标签。它包括高级（也是最昂贵的）“精英”级别和只需要最高 500,000 美元投资的标准级别。标准层最初每年仅提供约 25 辆电动汽车，而精英层则会获得更多。
-福特最初希望经销商安装多个充电器，其中一些可供公众使用，但由于阻力，该汽车制造商在 11 月修改了这些要求。现在，没有安装电动汽车充电器的要求，客户可能会在经销商处忍受更困难的交付流程，其中一些经销商无论如何都反对销售电动汽车的想法。]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued</guid>
-      <pubDate>Thu, 13 Jun 2024 18:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院暂时维持堕胎药的使用权</title>
-      <link>https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court</guid>
-      <pubDate>Thu, 13 Jun 2024 17:48:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
