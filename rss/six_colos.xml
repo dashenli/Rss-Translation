@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 14 Jun 2024 03:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 18:20:21 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）Magic Lasso Adblock：专为您打造的 Safari 广告拦截器</title>
+      <link>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-4/</link>
+      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助 Six Colors。
+作为原生 Safari 扩展程序，Magic Lasso 可阻止所有侵入性广告、跟踪器和干扰 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-4/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>好的，这是 Apple Intelligence</title>
       <link>https://sixcolors.com/post/2024/06/ok-fine-heres-apple-intelligence/</link>
@@ -60,7 +68,7 @@
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果终于让你随心所欲了（有点儿像 Macworld/Dan Moren）</title>
+      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
       <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
       <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
@@ -112,13 +120,6 @@ Magic Lasso 从一开始就设计为保护您的隐私，它可以阻止 Safari 
       <description><![CDATA[我们对 WWDC 感到兴奋的事情、我们正在使用的最古老的技术、我们如何存储数码照片以及我们是否会记日记。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/clockwise-557-i-love-the-whoop/</guid>
       <pubDate>Wed, 05 Jun 2024 20:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 498：D 代表失望</title>
-      <link>https://sixcolors.com/podcast/2024/06/the-rebound-498-the-d-is-for-disappointment/</link>
-      <description><![CDATA[将 D 放回 WWDC。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-498-the-d-is-for-disappointment/</guid>
-      <pubDate>Wed, 05 Jun 2024 19:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
