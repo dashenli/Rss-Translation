@@ -4,9 +4,32 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 21:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 00:59:45 GMT</lastBuildDate>
     <item>
-      <title>在 Gamers Nexus 调查之后，华硕如何整顿其客户支持</title>
+      <title>英特尔表示仍未找到解决 i9 台式机芯片崩溃问题的真正方法</title>
+      <link>https://www.theverge.com/2024/6/14/24178751/intel-raptor-lake-crash-fix-etvb-not-yet</link>
+      <description><![CDATA[
+
+受影响的英特尔处理器之一。 |照片由 Tom Warren / The Verge 拍摄
+
+几个月来，英特尔最高端的台式机游戏处理器一直存在一种奇怪的倾向偶尔会导致游戏崩溃——尽管你可能已经看到今天早些时候的情况，但英特尔表示，它还没有为其第 13 代和第 14 代英特尔酷睿 i9“Raptor Lake”和“Raptor Lake S”芯片提供最终修复。
+
+“与最近的媒体报道相反，英特尔没有确认了根本原因，并正在与合作伙伴一起继续调查用户报告的有关未锁定的英特尔酷睿第 13 代和第 14 代 (K/KF/KS) 台式机处理器不稳定问题，”英特尔发言人 Thomas Hannaford 在一份声明中写道。 
+声明继续写道：“新闻报道中提到的微代码补丁修复了英特尔在调查不稳定报告时发现的 eTVB 错误。虽然这个问题可能会导致不稳定，但并不是根本原因。”
+英特尔的官方声明引用（并部分证实）Igor’s Lab今天早些时候获得的泄露的英特尔内部文件。这些文件表明，问题的一部分在于英特尔的芯片一直在错误地对自己的内核进行超频，使用一项名为增强热速度提升 (eTVB) 的功能，即使他们应该知道他们的运行温度太高而无法这样做。 
+泄露的文件开头写道：“根本原因是与 eTVB 功能相关的微代码算法中的值不正确。”它继续写道：
+
+第 13 代和第 14 代 K SKU 处理器的故障分析 (FA) 表明，由于累积暴露于升高的核心电压，受影响处理器的最低工作电压发生了变化。英特尔® 分析已确定导致此问题的一个确认因素是处理器的电压输入升高，这是由于之前的 BIOS 设置允许处理器在高温下以涡轮频率和电压运行。由于默认工作电压和频率较低，前几代英特尔® K SKU 处理器对此类设置的敏感度较低。
+英特尔® 要求所有客户在 2024 年 7 月 19 日之前将 BIOS 更新为微代码 0x125 或更高版本。
+此微代码包含一个 eTVB 修复程序，该修复程序可解决一个问题，即使处理器温度已超过 eTVB 阈值，该问题也可能允许处理器进入更高性能状态。
+
+尽管英特尔确认 eTVB 可能是问题的一部分，但显然它不是整个问题的“根本原因”。
+希望我们能尽快得到全面修复。]]></description>
+      <guid>https://www.theverge.com/2024/6/14/24178751/intel-raptor-lake-crash-fix-etvb-not-yet</guid>
+      <pubDate>Fri, 14 Jun 2024 22:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>华硕在 Gamers Nexus 调查后声称正在彻底改革客户支持</title>
       <link>https://www.theverge.com/2024/6/14/24178785/asus-customer-support-gamers-nexus</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/14/24178785/asus-customer-support-gamers-nexus</guid>
@@ -138,13 +161,6 @@ HomeKit 用户纷纷在帖子中表达了他们对这一举措的喜悦，其中
 但随着 iOS 18 的推出，Apple Home 用户终于将获得许多人一直要求的控制权。如果您不想等到秋季 Apple 发布 iOS 18，您可以立即下载开发者测试版。请注意：您需要在所有 Home 中枢上安装该程序才能运行，如果您想要一个运行顺畅的智能家居，这可能不是一个好主意。]]></description>
       <guid>https://www.theverge.com/2024/6/14/24178482/apple-home-ios18-preferred-home-hub</guid>
       <pubDate>Fri, 14 Jun 2024 17:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆想要什么，特斯拉就能得到什么</title>
-      <link>https://www.theverge.com/2024/6/14/24178617/musk-tesla-pay-shareholder-vote</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/14/24178617/musk-tesla-pay-shareholder-vote</guid>
-      <pubDate>Fri, 14 Jun 2024 16:53:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

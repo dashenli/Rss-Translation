@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 14 Jun 2024 15:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 01:01:10 GMT</lastBuildDate>
+    <item>
+      <title>一位人工智能艺术家揭露了我们崩溃的食物体系——以及解决办法</title>
+      <link>https://thenextweb.com/news/ai-artist-exposes-broken-food-system-tnw-conference</link>
+      <description><![CDATA[本文采访了 Jeroen van der Most，他将于 6 月 21 日在 TNW 大会上发言。请在此处查看完整的活动日程。生成式人工智能的繁荣对艺术家来说是一把双刃剑。一方面，这项技术有可能取代人类创作者未来的工作，同时又会无偿利用他们的旧作品作为训练数据。另一方面，人工智能为艺术家提供了强大的新工具。对于 Jeroen van der Most 来说，它们还赋予了他最新的主题：蔬菜。这位荷兰人是人工智能艺术的先驱。他的作品可以追溯到当前的文本转图像之前......这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/ai-artist-exposes-broken-food-system-tnw-conference</guid>
+      <pubDate>Fri, 14 Jun 2024 16:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>四项创新助力欧洲能源转型——减少对中国的依赖</title>
+      <link>https://thenextweb.com/news/tech-innovation-europe-energy-transition-cut-reliance-on-china</link>
+      <description><![CDATA[2023 年，核能、风能和太阳能等清洁能源产量达到创纪录水平，满足欧盟三分之二以上的电力需求。欧盟安全研究所的一份新报告警告说，尽管取得了进展，但欧盟必须优先投资创新清洁技术，以减少对中国的依赖。众所周知，欧洲依赖中国和其他外国大国供应从太阳能电池板、电池到半导体等各种产品。但欧盟到底应该把钱投在哪里呢？“虽然值得更多关注的有前途的技术不胜枚举，但有限的资源要求优先考虑，”…本报道在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/tech-innovation-europe-energy-transition-cut-reliance-on-china</guid>
+      <pubDate>Fri, 14 Jun 2024 15:20:47 GMT</pubDate>
+    </item>
     <item>
       <title>本周荷兰科技新闻：TNW 会议版</title>
       <link>https://thenextweb.com/news/this-week-dutch-tech-tnw-conference-edition</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[﻿欢迎收听 TNW 播客的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的节目中，Ioanna 和 Andrii 讨论了荷兰和欧洲芯片行业的最新发展、丹麦媒体和 OpenAI、我们的空间导航技能、中国互联网的消失等等。节目嘉宾是 TNW 活动总监 Zach Butler，他将讨论即将举行的 TNW 会议及其相关事宜，并留下深刻印象......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/behind-the-scenes-of-tnw-conference-2024-dutch-chips-danish-media-chinese-internet</guid>
       <pubDate>Wed, 12 Jun 2024 14:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>TNW 大会 2024：打造全球首个获得医学批准的避孕应用程序</title>
-      <link>https://thenextweb.com/news/tnw-conference-2024-worlds-first-medically-cleared-contraceptive-app-natural-cycles</link>
-      <description><![CDATA[距离 6 月 20 日和 21 日在阿姆斯特丹举行的 TNW 会议仅剩一周多一点的时间，我们将重点介绍一些我们最期待的会议。今年我非常期待的一场演讲触及了我非常关心的一个目标：利用技术改变医疗保健应用。如果您和我一样对这个话题感兴趣，那么请务必不要错过 Elina Berglund 的演讲“周期表：自然避孕算法”。演讲将于活动第二天在 TNW 会谈舞台上进行…本报道将在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/tnw-conference-2024-worlds-first-medically-cleared-contraceptive-app-natural-cycles</guid>
-      <pubDate>Wed, 12 Jun 2024 13:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stability AI 推出 Stable Diffusion 3，这是其“迄今为止最复杂的图像生成模型”</title>
-      <link>https://thenextweb.com/news/stability-ai-launches-stable-diffusion-3-image-generator</link>
-      <description><![CDATA[Stability AI 今天推出了 Stable Diffusion 3 Medium，这家英国初创公司称其为“迄今为止最先进的文本转图像开放模型”。SD3 Medium 由 20 亿个参数组成，承诺无需复杂的工作流程即可获得照片级逼真的结果。至关重要的是，该模型可以在单个消费者系统上运行时生成这些图像。 Stability 表示，它还克服了手和脸中常见的伪影。该公司构建了 SD3 Medium 来理解涉及空间关系、构图元素、动作和风格的复杂提示。排版也得到了增强。Stability 将文本生成的准确性描述为“前所未有”。该公司将这些改进归功于 Diffusion Transformer 架构。另一个核心吸引力是模型的大小。…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/stability-ai-launches-stable-diffusion-3-image-generator</guid>
-      <pubDate>Wed, 12 Jun 2024 13:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

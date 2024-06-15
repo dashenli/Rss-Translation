@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 14 Jun 2024 21:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 01:01:19 GMT</lastBuildDate>
+    <item>
+      <title>苹果试图展示的“人工智能作为一种功能”的价值</title>
+      <link>https://wired.jp/article/apple-intelligence-ai-feature-not-product/</link>
+      <description><![CDATA[随着越来越多的公司将生成式人工智能本身作为产品出售，苹果正在通过 Apple Intelligence 推动将“人工智能作为一种功能”集成到操作系统和设备中。苹果能否通过计划于今年秋季进行的重大操作系统改革来展示其价值？]]></description>
+      <guid>https://wired.jp/article/apple-intelligence-ai-feature-not-product/</guid>
+      <pubDate>Fri, 14 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从主编到SZ会员：《家的记忆-去未来》SZ通讯VOL.240</title>
+      <link>https://wired.jp/article/sz-newsletter-240/</link>
+      <description><![CDATA[本周为深圳会员提供的时事通讯都是关于记忆的，从拜登总统的 G7 峰会到新一代视频人工智能。]]></description>
+      <guid>https://wired.jp/article/sz-newsletter-240/</guid>
+      <pubDate>Fri, 14 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蓝光不是原因吗？ 您应该避免在睡前使用智能手机的真正原因</title>
       <link>https://wired.jp/article/blue-light-smartphone-screen-sleep/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[苹果专有的人工智能“Apple Intelligence”将于今年年底在操作系统中实施，但仅适用于最新型号。在iPhone销售停滞的情况下，预计这将是鼓励用户升级到新机型的决定性打击。]]></description>
       <guid>https://wired.jp/article/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/</guid>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 发布“线索”一探 ChatGPT 工作原理</title>
-      <link>https://wired.jp/article/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
-      <description><![CDATA[在前员工批评其技术开发立场几天后，OpenAI 发表了一篇关于其人工智能模型如何工作的研究论文。该公司似乎正在努力提高其人工智能模型的可测试性，并表明其对该技术相关风险的严肃态度。]]></description>
-      <guid>https://wired.jp/article/openai-offers-a-peek-inside-the-guts-of-chatgpt/</guid>
-      <pubDate>Tue, 11 Jun 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出Apple Intelligence的苹果公司有一个重要使命，就是让它毫无问题地运行。</title>
-      <link>https://wired.jp/article/apple-intelligence-ios-macos-ai-openai/</link>
-      <description><![CDATA[Apple 专有的人工智能技术 Apple Intelligence 将使许多应用程序和服务变得更加智能。然而，虽然生成式人工智能普遍存在问题，但苹果公司有一个重要的使命，那就是让它顺利运行。]]></description>
-      <guid>https://wired.jp/article/apple-intelligence-ios-macos-ai-openai/</guid>
-      <pubDate>Tue, 11 Jun 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
