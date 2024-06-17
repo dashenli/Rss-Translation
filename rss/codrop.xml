@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Sun, 16 Jun 2024 09:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 15:18:29 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Chromatic 和 Playwright 对网站进行视觉测试</title>
+      <link>https://tympanus.net/codrops/2024/06/17/how-to-visual-test-websites-with-chromatic-and-playwright/</link>
+      <description><![CDATA[了解如何使用 Chromatic 和 Playwright 对网站进行视觉测试，以确保 Web 界面保持视觉一致且无错误。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/17/how-to-visual-test-websites-with-chromatic-and-playwright/</guid>
+      <pubDate>Mon, 17 Jun 2024 09:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>集体#847</title>
       <link>https://tympanus.net/codrops/collective/collective-847/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[排队 * matcha.css * Namviek * 图形游戏]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-844/</guid>
       <pubDate>Tue, 04 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#843</title>
-      <link>https://tympanus.net/codrops/collective/collective-842/</link>
-      <description><![CDATA[UI 密度 * 扁平星球 * 魔法 UI * NocoBase * CSS :has()，上帝选择器]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-842/</guid>
-      <pubDate>Fri, 31 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
