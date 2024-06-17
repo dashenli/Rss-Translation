@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 17 Jun 2024 18:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 21:15:59 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 517：也许用日语更吸引人</title>
+      <link>https://sixcolors.com/podcast/2024/06/upgrade-517-maybe-its-catchier-in-japanese/</link>
+      <description><![CDATA[欢乐之夏已经到来，但在大型 WWDC 之后，我们还有很多工作要做。因此，本周我们分享了更多关于 Apple 新 AI 战略的想法，并讨论了我们收到的有关上周发生的事情的大量反馈。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/upgrade-517-maybe-its-catchier-in-japanese/</guid>
+      <pubDate>Mon, 17 Jun 2024 20:34:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Pay Later，稍后意味着永不 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/apple-pay-later-where-later-means-never/</link>
+      <description><![CDATA[9to5Mac 的 Chance Miller 报道称，苹果已搁置其“先买后付”功能：
+
+苹果表示，这一变化从今天开始生效。拥有 Apple Pay Later 贷款的现有用户仍可通过 Wallet 应用进行管理。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/apple-pay-later-where-later-means-never/</guid>
+      <pubDate>Mon, 17 Jun 2024 19:18:56 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-youtube-ad-blocker-for-safari-16/</link>
@@ -62,7 +78,7 @@
       <pubDate>Thu, 13 Jun 2024 16:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>visionOS 2 虽小但前景光明</title>
+      <title>visionOS 2 虽小但很有前景</title>
       <link>https://sixcolors.com/post/2024/06/visionos-2-offers-small-but-promising-steps-forward/</link>
       <description><![CDATA[编辑 Bora Bora 中的主视图。
 我刚从库比蒂诺回来，有很多事情要考虑。但在那之前，我想先介绍一下大家都在谈论的内容：visionOS 2。…]]></description>
@@ -93,7 +109,7 @@
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
+      <title>苹果终于让你随心所欲了（有点儿像 Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
       <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
       <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
@@ -105,22 +121,6 @@
       <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。而在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</guid>
       <pubDate>Wed, 12 Jun 2024 02:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：专为您打造的 Safari 广告拦截器</title>
-      <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-3/</link>
-      <description><![CDATA[
-您想尝试一款易于设置、易于更新且在需要时提供专业功能的广告拦截器吗？…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-3/</guid>
-      <pubDate>Mon, 10 Jun 2024 16:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Siri 的最大优势可能在于边缘</title>
-      <link>https://sixcolors.com/post/2024/06/siris-biggest-gains-might-be-found-at-the-edges/</link>
-      <description><![CDATA[
-也许，我们即将迎来一件大事。早在 2011 年，苹果就凭借语音驱动的 Siri 助手开创了先河，但多年来，Siri 的发展轨迹一直曲折而令人沮丧。…]]></description>
-      <guid>https://sixcolors.com/post/2024/06/siris-biggest-gains-might-be-found-at-the-edges/</guid>
-      <pubDate>Fri, 07 Jun 2024 21:35:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
