@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 17 Jun 2024 21:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 18:20:53 GMT</lastBuildDate>
+    <item>
+      <title>苹果拒绝公证模拟器应用程序↦</title>
+      <link>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</link>
+      <description><![CDATA[这件事显然发生在 WWDC 之前，所以我错过了，但它值得大家关注。Apple 拒绝了 UTM 模拟器应用，不仅是在全球应用商店，而且欧盟所有第三方应用商店也拒绝对其进行公证。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</guid>
+      <pubDate>Tue, 18 Jun 2024 16:32:14 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 517：也许用日语更吸引人</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-517-maybe-its-catchier-in-japanese/</link>
@@ -109,18 +116,11 @@
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果终于让你随心所欲了（有点儿像 Macworld/Dan Moren）</title>
+      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
       <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
       <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
       <pubDate>Wed, 12 Jun 2024 14:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 516：我正在压抑自己的感情</title>
-      <link>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</link>
-      <description><![CDATA[Jason 在库比蒂诺现场直播了他对 Apple WWDC 重大公告的反应。而在伦敦，Myke 则对 Apple 的一些有争议的选择发表了自己的看法。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/upgrade-516-im-suppressing-my-feelings/</guid>
-      <pubDate>Wed, 12 Jun 2024 02:43:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
