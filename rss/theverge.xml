@@ -4,7 +4,25 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Jun 2024 01:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 09:15:59 GMT</lastBuildDate>
+    <item>
+      <title>Meta 发布 Threads API，供开发人员构建“独特的集成”</title>
+      <link>https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Threads API 现已推出，并有望于 6 月底推出。免费 API 将允许开发人员在 Threads 中构建“独特的集成”，甚至可能为 Meta 的竞争对手（之前称为 Twitter）开发第三方应用程序。
+“人们现在可以通过 API 发布帖子，获取自己的内容，并利用我们的回复管理功能来设置回复和引用控件，检索对其帖子的回复，隐藏、取消隐藏或回复特定回复，”Threads 工程总监 Jesse Chen 解释道。
+
+
+
+Chen 表示，对 Threads 帖子的洞察是“我们对 API 最期待的功能之一”，因此 Meta 允许开发人员通过 API 查看 Threads 帖子的浏览量、点赞量、回复量、转发量和引用量。 Meta 已发布了大量文档，介绍开发人员如何开始使用 Threads API，甚至还有一个开源 Threads API GitHub 上的示例应用程序。
+Meta 已与少数开发人员一起测试 Threads API：Grabyo、Hootsuite、Social News Desk、Sprinklr、Sprout Social 和 Techmeme。这些测试集成已允许 Techmeme 等网站自动发布到 Threads，或允许 Sprout 和 Hootsuite 客户将 Threads 帖子输入社交媒体管理平台。
+我们现在正在等待，看看开发人员是否能够使用这个未连接到社交媒体管理平台的新 API 轻松构建第三方 Threads 应用程序。现有的 fediverse beta 可以帮助实现这一点，允许 Threads 用户通过 Mastodon 客户端访问帖子并将内容共享到 Mastodon 服务器。不过，fediverse 集成的当前测试版不允许用户查看来自 fediverse 的回复和关注，因此作为第三方 Threads 应用程序的替代品，它还远未具备完整的功能。]]></description>
+      <guid>https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability</guid>
+      <pubDate>Tue, 18 Jun 2024 08:45:56 GMT</pubDate>
+    </item>
     <item>
       <title>《模拟人生》竞争对手《Life by You》已被取消</title>
       <link>https://www.theverge.com/2024/6/17/24180574/life-by-you-canceled-sims</link>
@@ -116,14 +134,14 @@ Pentax 17 使用内置 25mm f/3.5 镜头（相当于 35mm/全画幅相机上的 
       <pubDate>Mon, 17 Jun 2024 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>T-Mobile 被要求停止宣传“价格锁定”保证，因为该保证不会锁定您的价格</title>
+      <title>T-Mobile 被要求停止宣传“价格锁定”保证，该保证不会锁定您的价格</title>
       <link>https://www.theverge.com/2024/6/17/24180177/t-mobile-price-lock-stop-advertising-5g-home-internet-service</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
 T-Mobile 被要求停止宣传其 5G 互联网服务的“价格锁定”政策几个月前才刚刚涨价。周一，美国国家广告部 (NAD) 建议 T-Mobile 停止或修改该声明，以解释其“与‘价格锁定’有何不同”。
-NAD 是非营利性 BBB 国家计划的一部分，负责评估广告行业提出的声明。AT&amp;T 对价格锁定声明提出了质疑，该声明出现在印刷品、在线和电视上的众多广告中。在每个例子中，价格锁定声明下方的描述都说：“如果我们提高您的互联网费率，您将获得我们最后一个月的服务。” NAD 认为，这种披露与“价格锁定”声明的主要信息相矛盾，因为 T-Mobile 实际上并没有锁定客户的价格，并且只有在 T-Mobile 提高账单时才会保证他们获得一个月的免费服务。 
+美国国家广告部是非营利性 BBB 国家计划的一部分，负责评估广告行业提出的声明。AT&amp;T 对价格锁定声明提出了质疑，该声明出现在印刷品、在线和电视上的众多广告中。在每个例子中，价格锁定声明下方的描述都说：“如果我们提高您的互联网费率，我们将免费提供您最后一个月的服务。” NAD 认为，这种披露与“价格锁定”声明的主要信息相矛盾，因为 T-Mobile 实际上并没有锁定客户的价格，并且只有在 T-Mobile 提高账单时才会保证他们免费使用一个月的服务。 
 NAD 建议 T-Mobile 更改其声明以解释这一点，或者完全停止宣传。过去，T-Mobile 经常宣传某些互联网和移动计划附带价格锁定保证，这是为了防止 T-Mobile 在客户签约后提高其月费。 
 然而，T-Mobile 1 月份针对新客户更改了此政策，如果价格上涨，仅提供一个月的免费服务。大约在同一时间，T-Mobile 提高了其 5G 家庭互联网服务的价格。后来，该公司提高了所有移动套餐的价格。T-Mobile 计划遵守 NAD 的决定，但它告诉 NAD，相关广告“恰当地传达了其价格锁定政策的慷慨条款。”]]></description>
       <guid>https://www.theverge.com/2024/6/17/24180177/t-mobile-price-lock-stop-advertising-5g-home-internet-service</guid>
@@ -135,23 +153,6 @@ NAD 建议 T-Mobile 更改其声明以解释这一点，或者完全停止宣传
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/17/24180353/apple-carplay-wireless-system-features</guid>
       <pubDate>Mon, 17 Jun 2024 19:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​在 Apple Pay Later 上线数月后关闭该服务</title>
-      <link>https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Apple 正在关闭其先买后付服务 Apple Pay Later，该公司向 9to5Mac 证实。该服务可让您获得“稍后付款”贷款，可在六周内分四次付款，该服务于 2023 年 10 月才在美国全面推出。苹果表示，用户将能够在今年晚些时候使用 Apple Pay 结账时向信用卡、借记卡和贷方申请“分期贷款​​”。
-
-以下是苹果向 9to5Mac 提供的完整未签名声明：
-从今年晚些时候开始，全球用户在使用 Apple Pay 结账时将能够获得通过信用卡和借记卡以及贷方提供的分期贷款。随着这项新的全球分期贷款服务的推出，我们将不再在美国提供 Apple Pay。我们的重点仍然是通过 Apple Pay 为用户提供简单、安全和私密的支付选项，这一解决方案将使我们能够与支持 Apple Pay 的银行和贷方合作，为全球更多地方的更多用户提供灵活的支付方式。
-Apple 并未立即回复 The Verge 的置评请求。一份 Apple 支持文档 指出“Apple Pay Later 不再提供新贷款”，但表示“现有的 Apple Pay Later 贷款和购买不受影响。”
-Apple Pay Later 最初与 iOS 16 一起发布，但它并不是 iOS 16 初始版本的一部分。该公司于 2023 年 3 月向“随机选定的用户”推出了早期访问邀请，然后于 10 月在美国广泛推出该服务。
-更新，6 月 17 日：添加了支持文档中的详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch</guid>
-      <pubDate>Mon, 17 Jun 2024 18:54:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
