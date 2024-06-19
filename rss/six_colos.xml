@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 21:15:59 GMT</lastBuildDate>
+    <item>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
+      <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
+      <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 559：这是一个强大的表情符号</title>
+      <link>https://sixcolors.com/podcast/2024/06/clockwise-559-this-is-a-powerful-emoji/</link>
+      <description><![CDATA[Apple 计划推出更便宜的 Vision Pro，我们对覆盖 CG 广告、管理订阅和我们最喜欢的表情符号的感受如何。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/clockwise-559-this-is-a-powerful-emoji/</guid>
+      <pubDate>Wed, 19 Jun 2024 18:55:35 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 500：第 1000 集</title>
       <link>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</link>
@@ -105,20 +119,6 @@
 我刚从库比蒂诺回来，有很多事情要考虑。但在那之前，我想先介绍一下大家都在谈论的内容：visionOS 2。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/visionos-2-offers-small-but-promising-steps-forward/</guid>
       <pubDate>Wed, 12 Jun 2024 21:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 558：乘客公主</title>
-      <link>https://sixcolors.com/podcast/2024/06/clockwise-558-passenger-princess/</link>
-      <description><![CDATA[我们最喜欢的 Apple Intelligence 功能、WWDC 2024 上错失的最大机会、我们最期待的 iOS 18 功能，以及我们对平淡无奇的 iPadOS 公告的反应。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/clockwise-558-passenger-princess/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 499：玻璃毁灭性武器</title>
-      <link>https://sixcolors.com/podcast/2024/06/the-rebound-499-weapons-of-glass-destruction/</link>
-      <description><![CDATA[突发新闻。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-499-weapons-of-glass-destruction/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:51:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

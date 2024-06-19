@@ -4,9 +4,22 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 21:14:56 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 前首席科学家正在创办一家新的人工智能公司</title>
+      <title>更新你的 Windows PC 以避免严重的 Wi-Fi 漏洞</title>
+      <link>https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+如果您一直在推迟下一次 Windows 更新，现在是时候安装它了。上周，微软修补了 Windows 11 和 Windows 10 中一个相当严重的漏洞，该漏洞可能会使您的 PC 在连接到公共 Wi-Fi 网络时面临风险，The Register 早些时候发现了这一点。
+该漏洞 (CVE-2024-30078) 可让黑客将恶意数据包部署到连接到相同 Wi-Fi 网络的设备，例如机场、咖啡店、酒店甚至工作场所。从那里，黑客可以远程运行命令并访问系统 - 所有这些都无需任何用户交互或身份验证。微软于 6 月 11 日将该补丁作为其每月安全更新的一部分推出。
+微软已将该漏洞标记为“重要”，这是该公司对安全漏洞的第二高严重性评级。即使您不打算近期将笔记本电脑带到咖啡店，也不应该推迟此补丁。]]></description>
+      <guid>https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability</guid>
+      <pubDate>Wed, 19 Jun 2024 19:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 前首席科学家正在创办一家新的 AI 公司</title>
       <link>https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence</link>
       <description><![CDATA[
 
@@ -122,16 +135,9 @@ AT&amp;T Unlimited Choice、Choice II、Choice Enhanced、Unlimited &amp;More �
 AT&amp;T Unlimited Plus、Plus Enhanced、Unlimited &amp;More Premium 和 AT&amp;T Unlimited (with TV) 计划现在将包括 100GB 高速数据和 60GB 热点数据。
 
 AT&amp;T 表示，联网汽车计划仍将具有相同的高速数据优势，但不会获得热点数据。
-一些客户可能会通过放弃旧计划并切换到以下计划之一来省钱AT&amp;T 的新“无限”计划， Ars Technica 指出。AT&amp;T 目前的“无限”计划单条线路每月收费从 65.99 美元到 85.99 美元不等，另加税费。]]></description>
+一些客户可能会通过放弃旧计划并切换到其中一个来省钱AT&amp;T 的新“无限”计划， Ars Technica 指出。AT&amp;T 目前的“无限”计划单线每月价格从 65.99 美元到 85.99 美元不等，另加税费。]]></description>
       <guid>https://www.theverge.com/2024/6/19/24181668/att-raise-price-unlimited-plan-retired</guid>
       <pubDate>Wed, 19 Jun 2024 13:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你想让 Apple Home “神奇地”解锁你的门，你需要一把新的智能锁</title>
-      <link>https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024</guid>
-      <pubDate>Wed, 19 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
