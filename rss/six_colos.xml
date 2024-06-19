@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 19 Jun 2024 15:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:19:10 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 500：第 1000 集</title>
+      <link>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</link>
+      <description><![CDATA[5 件 500 元。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</guid>
+      <pubDate>Wed, 19 Jun 2024 17:54:44 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的失败表明其野心是有限的 (Macworld/Jason Snell)</title>
       <link>https://www.macworld.com/article/2371369/apples-failures-show-limits-of-its-ambition.html</link>
@@ -112,15 +119,6 @@
       <description><![CDATA[突发新闻。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/the-rebound-499-weapons-of-glass-destruction/</guid>
       <pubDate>Wed, 12 Jun 2024 18:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sequoia 虚拟机允许登录 iCloud ↦</title>
-      <link>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</link>
-      <description><![CDATA[Ars Technica 的 Andrew Cunningham 在 WWDC 开发者公告中发现了一个小细节：
-
-只要您的主机操作系统是 macOS 15 或更新版本，并且您的客户操作系统是 macOS 15 或更新版本，虚拟机现在就可以登录并使用 iCloud 和其他 Apple ID 相关服务，就像直接在硬件上运行时一样。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
