@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 18 Jun 2024 18:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 15:16:46 GMT</lastBuildDate>
+    <item>
+      <title>苹果的失败表明其野心是有限的 (Macworld/Jason Snell)</title>
+      <link>https://www.macworld.com/article/2371369/apples-failures-show-limits-of-its-ambition.html</link>
+      <description><![CDATA[苹果是一个巨头。我们中的一些人可能还记得它曾经濒临破产，但如今，它每天创造数千亿美元的收入，市值超过三万亿美元。…]]></description>
+      <guid>https://www.macworld.com/article/2371369/apples-failures-show-limits-of-its-ambition.html</guid>
+      <pubDate>Wed, 19 Jun 2024 13:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>苹果拒绝公证模拟器应用程序↦</title>
       <link>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</link>
@@ -114,13 +121,6 @@
 只要您的主机操作系统是 macOS 15 或更新版本，并且您的客户操作系统是 macOS 15 或更新版本，虚拟机现在就可以登录并使用 iCloud 和其他 Apple ID 相关服务，就像直接在硬件上运行时一样。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/sequoia-virtual-machines-allow-logging-in-to-icloud/</guid>
       <pubDate>Wed, 12 Jun 2024 14:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果终于允许你按照自己的方式行事了（有点类似 Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</link>
-      <description><![CDATA[作为一家公司，Apple 一直推崇将“个人”融入“个人电脑”的价值。从早期对抗 IBM 和米色盒子的巨无霸，到最近推出的 iPhone、Apple Watch 和 AirPods 等极具个人特色的设备。…]]></description>
-      <guid>https://www.macworld.com/article/2364378/ios-18-customization-has-its-limits-wwdc.html</guid>
-      <pubDate>Wed, 12 Jun 2024 14:45:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

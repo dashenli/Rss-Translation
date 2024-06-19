@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 15:17:46 GMT</lastBuildDate>
+    <item>
+      <title>类似终端排版的悬停动画</title>
+      <link>https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/</link>
+      <description><![CDATA[一些有趣的类似终端的字符悬停动画，用于文本行。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/</guid>
+      <pubDate>Wed, 19 Jun 2024 13:53:52 GMT</pubDate>
+    </item>
     <item>
       <title>集体#848</title>
       <link>https://tympanus.net/codrops/collective/collective-848/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[查看我们最新的动态设计系列，其中包含来自 Dribbble 的最佳选择，以激发您的创造力。]]></description>
       <guid>https://tympanus.net/codrops/2024/06/06/ui-interactions-animations-roundup-44/</guid>
       <pubDate>Thu, 06 Jun 2024 10:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格项目上的推送动画</title>
-      <link>https://tympanus.net/codrops/2024/06/05/push-animation-on-grid-items/</link>
-      <description><![CDATA[基于 Rémi Clauss 概念的网格动画，其中网格项移动到相对于其初始位置的特定位置。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/05/push-animation-on-grid-items/</guid>
-      <pubDate>Wed, 05 Jun 2024 13:34:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
