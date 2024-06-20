@@ -4,7 +4,31 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Jun 2024 21:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:59:13 GMT</lastBuildDate>
+    <item>
+      <title>Snapchat AI 将提示变成新镜头</title>
+      <link>https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens</link>
+      <description><![CDATA[
+
+图片：Snapchat
+
+Snapchat 提供了早期预览其即将推出的设备 AI 模型，能够使用增强现实 (AR) 改变用户周围环境。新模型最终将允许创作者将文本提示变成自定义镜头——这可能会为一些疯狂的造型打开大门，供他们尝试并发送给朋友。
+您可以在下面的 GIF 中看到这种情况，该 GIF 显示了一个人的衣服和背景根据提示“50 年代科幻电影”实时变换。据 TechCrunch 报道，用户将在未来几个月内开始看到采用这种新模型的镜头，而创作者可以在今年年底前开始使用该模型制作镜头。
+
+
+GIF： Snapchat
+
+此外，Snapchat 正在推出一套新的 AI 工具，可让创作者更轻松地制作自定义增强现实 (AR) 效果。最新的 Lens Studio 更新 现已提供部分工具，其中包括新脸部效果，创作者可以编写提示或上传图像来创建自定义镜头，彻底改变用户的脸部。 
+该套件还包括一项名为“沉浸式 ML”的功能，该功能可“实时对用户的脸部、身体和周围环境进行逼真的变换”。 Lens Studio 中即将推出的其他 AI 工具允许镜头创作者根据文本或图像提示生成 3D 资源、创建面罩和纹理，以及制作模仿用户表情的 3D 角色头部。
+
+
+图片：Snapchat
+这是 Snapchat 使用提示“马蒂斯风格绘画”的“沉浸式 ML”效果。
+
+在过去的一年里，Snapchat 推出了多项新的 AI 功能，其中包括一种让订阅者向好友发送 AI 生成的快照的方式。Snapchat 还于去年向所有用户推出了一款由 ChatGPT 提供支持的 AI 聊天机器人。]]></description>
+      <guid>https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens</guid>
+      <pubDate>Wed, 19 Jun 2024 21:26:22 GMT</pubDate>
+    </item>
     <item>
       <title>更新你的 Windows PC 以避免严重的 Wi-Fi 漏洞</title>
       <link>https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability</link>
@@ -99,17 +123,19 @@ OpenAI 联合创始人兼前首席科学家 Ilya Sutskever 正在创办一家专
       <pubDate>Wed, 19 Jun 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pornhub 将因年龄验证法规封锁另外两个州</title>
+      <title>Pornhub 将因年龄验证法规封锁另外五个州</title>
       <link>https://www.theverge.com/2024/6/19/24181690/pornhub-indiana-kentucky-block-age-verification</link>
       <description><![CDATA[
 
 The Verge
 
-Pornhub 计划屏蔽访问其在印第安纳州和肯塔基州的网站，以响应旨在防止儿童访问成人网站的年龄验证法律。该网站目前已切断至少六个州的访问权限，以抗议类似的年龄验证法律，这些法律已迅速蔓延至美国保守派各州。
-据《印第安纳首府纪事报》报道，印第安纳州将于 6 月 27 日失去访问权限，而据《肯塔基公共广播电台》报道，肯塔基州将于 7 月 10 日失去访问权限。
-Pornhub 表示，由于担心新法律会侵犯隐私，它正在屏蔽对其网站的访问。这些法律通常要求成年人上传某种形式的政府身份证件，以证明他们已年满 18 岁。电子前沿基金会批评这些法律是“监视系统”，可能会导致敏感数据被滥用或被盗。该组织去年写道：“这种计划将使我们进一步走向一个默认收集和出售我们私人数据的互联网。”
-Pornhub 的母公司 Aylo 告诉《首都纪事报》，它支持年龄验证，但认为现行法律“无效、杂乱无章且危险”。该公司去年在路易斯安那州实施了基于身份的年龄验证，并表示流量因此下降了 80%。 Aylo 认为，该政策将驱使消费者访问不遵守法律的网站，否则可能无法审核其内容。
-到目前为止，Pornhub 的访问已被以下州屏蔽：德克萨斯州、北卡罗来纳州、蒙大拿州、密西西比州、弗吉尼亚州、阿肯色州和犹他州。Aylo 尚未立即回应 The Verge 的评论请求。]]></description>
+Pornhub 计划屏蔽印第安纳州、爱达荷州、堪萨斯州、肯塔基州和内布拉斯加州对其网站的访问，以响应旨在防止儿童访问成人网站的年龄验证法律。该网站目前已切断了超过六个州的访问，以抗议类似的年龄验证法律，这些法律已迅速蔓延至美国保守派各州。
+Pornhub 母公司 Aylo 的一位发言人表示，印第安纳州、爱达荷州和堪萨斯州将于 6 月 28 日失去访问权限，肯塔基州将于 6 月 10 日失去访问权限，内布拉斯加州将于 7 月 17 日失去访问权限。出于安全考虑，这位发言人要求只透露自己的姓名为 Ian。Ian 表示，此次停播将适用于 Aylo 的所有成人网站，其中包括十多个其他品牌。
+Aylo 表示，由于新法律涉及隐私问题，它正在阻止对其网站的访问。这些法律通常要求成年人上传某种形式的政府身份证件来证明他们已满 18 岁。电子前沿基金会批评这些法律是“监视系统”，可能会导致敏感数据的滥用或盗窃。该组织去年写道：“这种计划将使我们进一步走向一个默认收集和出售私人数据的互联网。”
+
+Aylo 告诉印第安纳州首都纪事报 ，它支持年龄验证，但认为现行法律“无效、随意且危险”。该公司去年在路易斯安那州实施了基于身份的年龄验证，并表示流量因此下降了 80%。 Aylo 认为，该政策将驱使消费者访问不遵守法律的网站，否则可能无法审核其内容。
+到目前为止，Pornhub 的访问已被以下州封锁：德克萨斯州、北卡罗来纳州、蒙大拿州、密西西比州、弗吉尼亚州、阿肯色州和犹他州。
+更新，6 月 19 日：这个故事最初报道了 Pornhub 在印第安纳州和肯塔基州封锁访问的计划；它已扩展到涵盖爱达荷州、堪萨斯州和内布拉斯加州的禁令，并包括 Aylo 发言人的评论。该发言人还表示，三个州的关闭时间为 6 月 28 日，而不是最初根据 Pornhub 网站上的通知所说的 6 月 27 日。]]></description>
       <guid>https://www.theverge.com/2024/6/19/24181690/pornhub-indiana-kentucky-block-age-verification</guid>
       <pubDate>Wed, 19 Jun 2024 14:20:00 GMT</pubDate>
     </item>
@@ -119,25 +145,6 @@ Pornhub 的母公司 Aylo 告诉《首都纪事报》，它支持年龄验证，
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games</guid>
       <pubDate>Wed, 19 Jun 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 上调旧版“无限量”套餐价格</title>
-      <link>https://www.theverge.com/2024/6/19/24181668/att-raise-price-unlimited-plan-retired</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-AT&amp;T 正在提高那些继续使用旧的、已退役的“无限”数据计划的客户的价格。 
-8 月份，多条线路计划的客户账单可能会上涨 20 美元。该公司在其网站上表示：“这是每月的总涨幅，而不是每条线路的涨幅。”只有一条线路的客户每月的费用将上涨 10 美元。
-AT&amp;T 表示，作为涨价的回报，它将为客户提供更多的高速数据和热点数据。这应该可以让人们保留他们原有的套餐，但可以享受一些额外的福利。 
-
-AT&amp;T Unlimited Choice、Choice II、Choice Enhanced、Unlimited &amp;More 和 Unlimited Value 计划现在将包括 75GB 高速数据和 30GB 热点数据。
-AT&amp;T Unlimited Plus、Plus Enhanced、Unlimited &amp;More Premium 和 AT&amp;T Unlimited (with TV) 计划现在将包括 100GB 高速数据和 60GB 热点数据。
-
-AT&amp;T 表示，联网汽车计划仍将具有相同的高速数据优势，但不会获得热点数据。
-一些客户可能会通过放弃旧计划并切换到其中一个来省钱AT&amp;T 的新“无限”计划， Ars Technica 指出。AT&amp;T 目前的“无限”计划单线每月价格从 65.99 美元到 85.99 美元不等，另加税费。]]></description>
-      <guid>https://www.theverge.com/2024/6/19/24181668/att-raise-price-unlimited-plan-retired</guid>
-      <pubDate>Wed, 19 Jun 2024 13:39:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
