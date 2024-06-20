@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 20 Jun 2024 06:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 09:17:02 GMT</lastBuildDate>
+    <item>
+      <title>英国网络安全初创公司 PQShield 为后量子密码学筹集 3700 万美元</title>
+      <link>https://thenextweb.com/news/uk-cybersecurity-startup-pqshield-raises-37m-for-post-quantum-cryptography</link>
+      <description><![CDATA[领先的后量子密码学 (PQC) 初创公司 PQShield 今天宣布 B 轮融资 3700 万美元。在第一批 PQC 标准于几周后发布之前，组织和企业都在加紧做好“量子准备”。虽然当今的 NISQ 时代的量子计算机对传统加密手段并不构成威胁，但未来的机器已被 NSA 等机构视为对网络安全的威胁。一旦量子计算机变得足够强大，它们就可以破解大多数加密方案。因此需要后量子密码学。PQC 旨在开发即使受到网络攻击也能保持安全的新型加密系统…本故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/uk-cybersecurity-startup-pqshield-raises-37m-for-post-quantum-cryptography</guid>
+      <pubDate>Thu, 20 Jun 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 TNW 大会的展望</title>
       <link>https://thenextweb.com/news/what-to-expect-tnw-conference-2024</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果要用一个词来形容过去几年欧洲的科技发展，那一定是“颠覆性”。虽然这个词听起来有些陈词滥调，但我选择这个词是出于很多原因。从积极的角度来看，欧洲科技在 2020 年代初“颠覆”了许多关键行业，最引人注目的是生命科学、能源转型和深度科技——这些行业本身就是相当“颠覆性”的行业，其目标是为世界带来积极影响。值得注意的是，虽然深度科技是欧洲的一个重要机遇领域，但它也面临着挑战，主要是由于某些领域缺乏政府资金......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/how-startups-marketing-and-communications-strategies-are-shifting-in-the-us-and-europe</guid>
       <pubDate>Tue, 18 Jun 2024 07:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们需要教育专用的小语言AI模型</title>
-      <link>https://thenextweb.com/news/why-need-education-specific-small-language-ai-models</link>
-      <description><![CDATA[本文采访了 Dan Rosensweig，他将于 6 月 20 日在 TNW 大会上发言。请在此处查看完整的活动日程。人工智能有可能让教育变得更好。但当 ChatGPT 于 2022 年推出时，它引起了学校和学术界的恐慌。该人工智能模型能够回答任何问题并撰写任何文本，但很快就被谴责为作弊工具——并且破坏了学习。快进到 2024 年，恐慌已经停止，教育部门已经认识到大型语言模型 (LLM) 的潜力，可以为学生提供支持——这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/why-need-education-specific-small-language-ai-models</guid>
-      <pubDate>Mon, 17 Jun 2024 16:59:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
