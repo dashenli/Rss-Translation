@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 21 Jun 2024 18:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 21:16:05 GMT</lastBuildDate>
+    <item>
+      <title>苹果：由于 DMA，一些新功能不会在欧盟推出 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/apple-some-new-features-wont-come-to-eu-due-to-the-dma/</link>
+      <description><![CDATA[苹果公司宣布，由于欧洲法规，其最近在 WWDC 上宣布的一些功能今年将不会在欧盟推出。彭博社的 Samuel Stolton 和 Mark Gurman 报道：
+
+Apple Inc.…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/apple-some-new-features-wont-come-to-eu-due-to-the-dma/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:55:10 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock</title>
       <link>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-youtube-ad-blocker-for-safari-17/</link>
@@ -16,7 +25,7 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
     <item>
       <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
-      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 在舞台上为 The Talk Show Live 采访了 Apple 高管，他多年来一直都是这么做的。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
       <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
     </item>
@@ -44,7 +53,7 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
     <item>
       <title>苹果拒绝公证模拟器应用程序↦</title>
       <link>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</link>
-      <description><![CDATA[这件事显然发生在 WWDC 之前，所以我错过了，但它值得大家关注。Apple 拒绝了 UTM 模拟器应用，不仅是在全球应用商店，而且还拒绝了欧盟所有第三方应用商店的认证。…]]></description>
+      <description><![CDATA[这件事显然发生在 WWDC 之前，所以我错过了，但它值得大家关注。Apple 拒绝了 UTM 模拟器应用，不仅是在全球应用商店，而且欧盟所有第三方应用商店也拒绝对其进行公证。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</guid>
       <pubDate>Tue, 18 Jun 2024 16:32:14 GMT</pubDate>
     </item>
@@ -112,13 +121,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <description><![CDATA[本周，苹果发布的一项颇具争议的公告是，它通过开放网络等内容训练了其基础模型，并将其作为即将推出的 Apple Intelligence 功能的基础。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/excluding-your-website-from-apples-ai-crawler/</guid>
       <pubDate>Thu, 13 Jun 2024 18:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Casey Liss 的夏季项目 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/casey-lisss-summer-project/</link>
-      <description><![CDATA[本周，我有机会与我的朋友 Casey Liss 共度了一段时光，他向我（以及 Stephen Hackett，因为我们是我们这个更大的技术宅朋友群中的三个超级大学橄榄球迷）讲述了他今年夏天所做的事情。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/casey-lisss-summer-project/</guid>
-      <pubDate>Thu, 13 Jun 2024 16:13:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
