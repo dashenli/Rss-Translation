@@ -4,7 +4,147 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Jun 2024 15:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 18:19:33 GMT</lastBuildDate>
+    <item>
+      <title>苹果或因欧盟的大型科技法而推迟其在欧盟的人工智能功能</title>
+      <link>https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma</link>
+      <description><![CDATA[
+
+插图：Cath Virginia / The Verge
+
+Apple 表示即将推出的功能，例如其 Apple Intelligence 生成式 AI 工具、iPhone 镜像和 SharePlay 屏幕共享今年可能无法在欧盟使用，正如彭博 先前报道的那样。
+为什么？苹果公司表示，欧盟法律对控制大型在线平台的“守门人”提出了严格要求，以防止反竞争行为。最近，有传言称，苹果和 Meta 可能很快会因违反 DMA 而面临指控。 
+
+据 Apple 称，DMA 要求规定这些看门人必须允许第三方公司与其服务进行互操作，这可能会“迫使”在隐私和安全方面做出妥协。
+以下是 Apple 发言人 Fred Sainz 发给 The Verge 的声明：
+
+两周前，Apple 推出了数百项新功能，我们很高兴将这些功能带给全球用户。我们非常希望让所有用户都能使用这些技术。然而，由于《数字市场法案》（DMA）带来的监管不确定性，我们认为今年我们无法向欧盟用户推出其中三项功能——iPhone Mirroring、SharePlay 屏幕共享增强功能和 Apple Intelligence。
+具体来说，我们担心 DMA 的互操作性要求可能会迫使我们以危及用户隐私和数据安全的方式损害我们产品的完整性。我们致力于与欧盟委员会合作，试图找到一种解决方案，使我们能够在不损害欧盟客户安全的情况下向其提供这些功能。
+
+具体是什么引起了人们的担忧尚不清楚，但仅 Apple Intelligence 就涵盖了 Siri、Genmoji 的升级、管理通知、跨不同应用程序执行脚本操作以及文本生成和摘要。Sainz 还重申，Apple Intelligence 将于今年夏天进行 Beta 测试，而 iPhone 镜像和扩展的 SharePlay 屏幕共享功能将于周一在开发者 Beta 版中推出。]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma</guid>
+      <pubDate>Fri, 21 Jun 2024 17:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的首次收购是一家企业数据初创公司</title>
+      <link>https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+根据周五博客文章，OpenAI 已收购企业分析初创公司 Rockset，以“为我们跨产品的检索基础设施提供支持”。 
+一位发言人告诉彭博社，此次收购是 OpenAI 首次整合公司技术和团队。两家公司没有透露收购条款。迄今为止，Rockset 已筹集了 1.05 亿美元的资金。
+“Rockset 的基础设施使公司能够将其数据转化为可操作的情报，”OpenAI 首席运营官 Brad Lightcap 在一份声明中表示。 “我们很高兴通过将 Rockset 的基础集成到 OpenAI 产品中，为我们的客户带来这些好处。”
+
+“Rockset 将成为 OpenAI 的一部分，并为 OpenAI 产品套件的检索基础设施提供支持，”Rockset 首席执行官 Venkat Venkataramani 在 Rockset 博客文章中表示。“我们将帮助 OpenAI 解决 AI 应用大规模面临的数据库难题。”
+Venkataramani 表示，目前的 Rockset 客户不会经历“立即的变化”，公司将逐步将他们从该平台上转移出去。据彭博社报道，Rockset 团队的“部分”成员将转投 OpenAI。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup</guid>
+      <pubDate>Fri, 21 Jun 2024 17:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 越来越像 Yelp</title>
+      <link>https://www.theverge.com/2024/6/21/24183085/tiktok-location-page-categories-travel-recommendations</link>
+      <description><![CDATA[
+
+Nick Barclay / The Verge 插图
+
+TikTok 既是算法电视，又是 Nextdoor 群组，而且越来越多地成为旅行社——该平台似乎正在倾向于这一角色。
+用户已经能够标记他们的地理位置一段时间了，但现在，该公司似乎已经改进了某些地点（如波士顿、纽约和德克萨斯州）的登陆页面。现在，TikTok 不仅显示标记该位置的视频，还创建了“食品和饮料”、“酒店”和“购物”等类别，其中包含相关视频。
+单击标有“探索更多地点”的按钮会打开 Apple Maps 集成，显示该地区已在 TikTok 帖子中标记的企业地图。地图下方是位置列表，其中包含其地址、价格水平以及企业在 TikTok 上有多少标签等详细信息。它看起来不像 For You 页面，更像是 Yelp 或旅游网站。
+
+
+
+屏幕截图：TikTok
+
+
+
+
+
+TikTok 并未立即回应关于这些功能何时推出的评论请求，但它们似乎相对较新。更新后的位置页面并非适用于所有标记区域。
+在过去几年中，TikTok 已经变得与其他平台相似——在某些情况下，它已经成功取代了竞争对手，至少对于年轻人来说是这样。 TikTok 还不是完美的 Google 搜索替代品，但当视频走红时，它确实为当地餐馆带来大量生意。就我个人而言，我并不会真的使用 Yelp 这样的网站来寻找值得尝试的新餐馆；我只是在 TikTok 上搜索推荐。同样，旅游在该平台上也占有重要地位（有没有人见过宣传其“TikTok名人”地位的企业？），而该公司决定将此类内容聚集并组织在一个地方，感觉就像是对此的认可。
+付费网红内容泛滥，让人很难完全信任TikTok——说实话，还有其他社交媒体平台——的推荐。但如果你已经在TikTok上滚动浏览，并看到了你计划去的一个城市的餐厅推荐？TikTok打赌用户可能会接受它们。]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183085/tiktok-location-page-categories-travel-recommendations</guid>
+      <pubDate>Fri, 21 Jun 2024 17:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和增强现实的下一步发展</title>
+      <link>https://www.theverge.com/2024/6/21/24183015/meta-apple-ar-vr-ai-ilya-sutskever-perplexity</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183015/meta-apple-ar-vr-ai-ilya-sutskever-perplexity</guid>
+      <pubDate>Fri, 21 Jun 2024 17:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 10.99 美元的“基本”套餐不再提供有声读物</title>
+      <link>https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks</link>
+      <description><![CDATA[
+
+图片：Nick Barclay / The Verge
+
+Spotify 刚刚宣布将在美国涨价，但在周五，它宣布新的 Basic 计划，恢复每月 10.99 美元的套餐。这项新服务可为您提供与 11.99 美元的 Premium Individual 套餐相同的无广告音乐收听特权，但您无法获得 Premium 套餐中每月 15 小时的有声读物收听时间。 
+去年，Spotify 将 Premium 的费用从每月 9.99 美元（该服务十多年前在美国推出的价格）提高到每月 10.99 美元。现在 Premium 的费用比这个还要高出一美元，新的 Basic 计划似乎表明 Spotify 看到了对更便宜的选项的需求，该选项放弃了有声读物。它还创建了仅限音乐的服务，价格与 Apple Music 和 Tidal 每月 10.99 美元的计划相同。
+Spotify 还提供每月 9.99 美元的 Audiobooks Access Tier，每月为您提供 15 小时的有声读物时间，但如果您想听音乐在该计划中，您将必须听到广告。]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks</guid>
+      <pubDate>Fri, 21 Jun 2024 15:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部判处五名男子有罪，因为他们经营一个充斥着盗版电视节目的 Netflix 克隆版</title>
+      <link>https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy</link>
+      <description><![CDATA[
+
+图片：TC Sottek / The Verge
+
+经过多年追捕一群盗版倡导者非法托管和播放数千部被盗电视节目，司法部做出了一系列定罪。
+周四，司法部宣布，负责运营 Netflix 山寨版 Jetflicks 的五名男子，已被判犯有多项侵犯版权和隐瞒洗钱罪，最终可能导致入狱。这五名被告（连同另外三名个人）于2019 年首次受到指控，当时美国政府辩称，他们非法运营的流媒体服务导致 Netflix、Amazon Prime 和 Hulu 等公司损失数百万美元的收入。
+只需每月 9.99 美元，Jetflicks 即可让其订户观看超过 180,000 集各种电视节目，这些节目最初是从各种盗版网站下载的，随后上传到该公司位于拉斯维加斯的服务器。据检察官称，Jetflicks 凭借其订阅模式赚取了数百万美元，但随着支付处理器问题和工作室反对意见的逐渐出现，该公司试图转型，伪装成一家专注于航空媒体的组织。
+“当版权持有人的投诉和支付服务提供商的问题威胁到这家价值数百万美元的非法企业倒闭时，被告试图将 Jetflicks 伪装成一家航空娱乐公司，”联邦调查局华盛顿外勤办公室助理主任 David Sundberg 表示。
+被定罪后，达尔曼面临最高 48 年的监禁，而其他被告最高面临 5 年的监禁，但正式的宣判日期尚未确定。]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy</guid>
+      <pubDate>Fri, 21 Jun 2024 15:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆马斯克与其大脑植入公司高管又有了一个秘密孩子</title>
+      <link>https://www.theverge.com/2024/6/21/24183083/elon-musk-secret-child-shivon-zilis-exec-neuralink</link>
+      <description><![CDATA[
+
+插图：Kristen Radtke / The Verge；图片：Getty Images
+
+埃隆·马斯克（Elon Musk）长期宣扬世界所谓人口减少危机的说法，据彭博社报道，他与大脑植入公司 Neuralink 的一位高管又生了一个孩子。据报道，Neuralink 总监 Shivon Zilis 今年早些时候与马斯克生下了孩子。
+马斯克已经 与 Zilis 育有一对双胞胎，这是 Business Insider在 2022 年挖掘出一份法庭文件后发现的。 他与 音乐家 Grimes 和前任所生的 6 个孩子，据我们所知，总共有 12 个孩子。周四，马斯克转发了一张图表，声称欧洲正遭受“生育危机”，并表示“文明可能会以一声巨响或一声呜咽（在成人纸尿裤中）结束。”
+
+据彭博社报道，马斯克过去曾多次重复这句话，包括在 2022 年接受塔克·卡尔森采访时，以及 5 月在米尔肯研究所会议的一次采访中。他告诉卡尔森“出生率下降是文明面临的最大危险。” 2021 年，马斯克的非营利组织向奥斯汀大学捐赠了 1000 万美元，以资助研究人类人口的研究小组“人口福祉倡议”。
+此前，有多份报告指控马斯克在工作场所和与下属有不当行为。 《华尔街日报》最近的一篇报道称，马斯克与一名前 SpaceX 实习生发生了性关系，后者后来成为该公司的高管之一。据《华尔街日报》报道，另一名员工表示，她多次拒绝了马斯克与他生孩子的要求。
+
+上周，八名前 SpaceX 工程师对马斯克提起诉讼，称这位亿万富翁“故意并有目的地创造了一个不受欢迎的敌对工作环境，因为他在工作场所插入了卑鄙的性照片、表情包和贬低女性和/或 LGBTQ+ 社区的评论。”该投诉与 SpaceX 过去的歧视和指控相呼应，其中包括一次性骚扰事件，其中一次事件是马斯克涉嫌向一名空乘人员提出性要求。
+]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183083/elon-musk-secret-child-shivon-zilis-exec-neuralink</guid>
+      <pubDate>Fri, 21 Jun 2024 15:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tidal 正在改进其无损和沉浸式音频格式</title>
+      <link>https://www.theverge.com/2024/6/21/24183037/tidal-mqa-flac-dolby-atmos-spatial-audio</link>
+      <description><![CDATA[
+
+Tidal 正在放弃对 MQA 的支持。 | 图片：The Verge
+
+发烧友的重大新闻：Tidal 正在改变其音频格式。从 7 月 24 日开始，Tidal 将放弃对 Master Quality Authenticated (MQA) 和 360 Reality Audio 格式的支持。展望未来，流媒体服务表示 FLAC 将成为立体声的默认格式，而杜比全景声将成为沉浸式声音的首选格式。
+Tidal 允许用户以三个音频质量等级进行流式传输：低、高和最高。低质量使用 AAC 文件，最高可达 320kbps。高质量提供 CD 质量的无损 FLAC 文件。而最高质量则更胜一筹，提供 MQA 和更高分辨率的 FLAC 文件。最高质量等级是放弃 MQA 的决定至关重要的地方——这对长期使用 Tidal 的用户来说可能并不奇怪。
+
+Tidal 是少数支持 MQA 格式流式传输的服务之一。 MQA 的主要优势在于，您可以保留出色的音频质量，但文件大小比 FLAC 更小。问题是 MQA 文件需要特殊的硬件或软件才能播放。去年，Tidal 推出了一种新的 HiRes FLAC 格式，这标志着 MQA 在 Tidal 上的日子屈指可数。（HiRes FLAC 只是指比标准 CD 质量更大的 FLAC 文件的一种花哨说法。）Tidal 不仅推出了这种新格式，还将 HiRes FLAC 设为Max 质量流媒体的首选默认格式。更糟糕的是，去年，MQA 格式背后的公司在英国进入破产程序，相当于申请破产。
+根据 Tidal 的常见问题解答，这些格式决定似乎是为了优先考虑访问和成本。例如，该公司表示之所以选择杜比全景声 (Dolby Atmos)，是因为它具有广泛的“兼容设备、目录可用性和艺术家对该格式的采用”。虽然许多发烧友喜欢索尼的 360 Reality Audio 格式，但它并没有被广泛采用。Tidal 还表示，它将使用 FLAC 进行立体声播放，因为它是开源的，这意味着艺术家不必通过第三方。此外，与 FLAC 不同，MQA 是一种专有格式，这意味着需要支付许可费用。
+对于拥有 MQA 曲目或专辑的 Tidal 用户，这些文件将自动替换为 Tidal 提供的最高质量的 FLAC 版本。这也适用于下载用于离线播放的 MQA 文件。同时，360 Reality Audio 文件将变灰，无法进行流式传输。
+Tidal 表示“没有进一步改变我们提供的音频格式的计划”。然而，这一变化是在该公司最近决定降低订阅价格之后不久发生的，价格从每月 20 美元以上降至 10.99 美元。该公司还决定将其 HiFi 和 HiFi Plus 计划合并为一个层级。]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24183037/tidal-mqa-flac-dolby-atmos-spatial-audio</guid>
+      <pubDate>Fri, 21 Jun 2024 15:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买三星上一代 The Frame 电视可节省数百美元</title>
+      <link>https://www.theverge.com/2024/6/21/24182398/woot-samsung-the-frame-tv-polaroid-go-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/21/24182398/woot-samsung-the-frame-tv-polaroid-go-deal-sale</guid>
+      <pubDate>Fri, 21 Jun 2024 15:24:34 GMT</pubDate>
+    </item>
     <item>
       <title>首个 iPhone 游戏流媒体服务带来数百款授权复古游戏</title>
       <link>https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming</link>
@@ -12,130 +152,14 @@
 
 Antstream Arcade 让 iPhone 上的复古游戏变得更加简单，因为它可以访问授权游戏库。 |图片：Antstream
 
-去年，在欧盟数字市场法案 (DMA) 实施后，Apple 在其 App Store 中为游戏流媒体服务打开了大门，但正如下周在 iOS 和 iPadOS 上推出的首个此类服务将迎合铁杆复古游戏玩家，Cult of Mac 指出的那样。
+去年，欧盟《数字市场法案》（DMA）实施后，苹果在其 App Store 中为游戏流媒体服务打开了大门，但正如Cult of Mac指出的那样，首个将于下周在 iOS 和 iPadOS 上推出的此类服务将迎合铁杆复古游戏玩家。
 Antstream 已经在 Xbox、Windows、Android 和亚马逊设备等多个平台上可用，它拥有目录包含超过 1,300 个可按需玩的复古游戏，包括 Missile Command、Sam &amp; Max Hit the Road、Asteroids 和 Super Star Wars: Return of the Jedi。
-现在有 几款出色的复古游戏模拟器 可用于 Apple 的移动设备，包括 Delta、RetroArch 和PPSSPP，专注于 PlayStation Portable。这些模拟器的挑战在于它们不包含任何游戏。它们依赖于 ROM，即经典视频游戏的数字副本，在使用和获取它们时会遇到复杂的法律问题。
+现在有几款出色的复古游戏模拟器可用于 Apple 的移动设备，包括Delta、RetroArch 和PPSSPP，专注于 PlayStation Portable。这些模拟器的挑战在于它们不包含任何游戏。它们依赖于 ROM，即经典视频游戏的数字副本，在使用和获取它们时会遇到复杂的法律问题。
 Antstream 拥有一个合法授权的复古游戏库，类似于 Evercade 系列 游戏机，因此用户不必访问网络的黑暗角落来获取自己的游戏。 
-有数百款来自古老平台的游戏，例如 Commodore 64、ZX Spectrum 和 Commodore Amiga，但您只能找到 28 款 Atari 2600 游戏、5 款 Game Boy 游戏、2 款原始 PlayStation 游戏和 42 款 Super Nintendo 游戏。因此，即使 Antstream 服务提供 1,300 多款游戏，您可能也需要深入挖掘才能找到您真正想玩的游戏。
+有数百款来自古老平台的游戏，例如 Commodore 64、ZX Spectrum 和 Commodore Amiga，但您只能找到 28 款 Atari 2600 游戏、5 款 Game Boy 游戏、2 款原始 PlayStation 游戏和 42 款 Super Nintendo 游戏。因此，即使 Antstream 服务提供 1,300 多款游戏，您可能仍需要深入挖掘才能找到您真正想玩的游戏。
 尽管我们很喜欢 SNES 上的超级星球大战三部曲，但这可能不足以证明 Antstream 订阅的价格是合理的。在 6 月 27 日登陆 App Store 后的有限时间内，订阅价格将降至每月 3.99 美元或每年 29.99 美元，这比 Antstream 通常收取的标准每月 4.99 美元或每年 39.99 美元略便宜。]]></description>
       <guid>https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming</guid>
       <pubDate>Fri, 21 Jun 2024 15:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>《权力的游戏》对媒体做了什么</title>
-      <link>https://www.theverge.com/24181763/game-of-thrones-journalism-media-recaps</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24181763/game-of-thrones-journalism-media-recaps</guid>
-      <pubDate>Fri, 21 Jun 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊全新 AI 语音助手 Alexa 每月费用或高达 10 美元</title>
-      <link>https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription</link>
-      <description><![CDATA[
-
-亚马逊于 2 月推出了支持 Alexa 的全新 Echo Hub。|照片由 Jennifer Pattison Tuohy / The Verge 拍摄
-
-去年，亚马逊前设备和服务高级副总裁 David Limp 暗示将对功能更强大的 Alexa 版本收费——现在我们对它的价格有了大致了解。路透社的一份报告称，亚马逊的人工智能增强版 Alexa 每月费用可能在 Prime 会员费的基础上增加 5 至 10 美元。
-消息人士告诉路透社，亚马逊计划于 8 月推出新版 Alexa，这是彻底改造语音助手的“绝望尝试”。付费版 Alexa 可能不需要用户在与助手交谈时一直说“Alexa”。据报道，它将能够在一次提示中完成多个请求，例如撰写简短的电子邮件和从 Uber Eats 订购外卖。 
-
-据路透社报道，更先进的 Alexa 还可以提供“向用户学习”并创建例程的能力，例如当客户的闹钟响起时打开客户的咖啡壶。这与 CNBC 上个月的报道相吻合，该报道称亚马逊计划推出不附带 Prime 的 Alexa 订阅服务。
-这并不意味着亚马逊将放弃免费版 Alexa。据路透社报道，亚马逊仍计划用提供新生成 AI 功能的版本取代基本版本，但更高级的 Alexa 将需要付费。据路透社报道，AI Alexa 将允许客户询问购物建议，例如他们应该为登山旅行购买哪种帽子和手套。这与亚马逊的 AI 购物聊天机器人 Rufus 可以提供的信息类似。
-当联系到亚马逊发表评论时，亚马逊向 The Verge 指出了它向路透社提供的声明：“我们已经将生成式 AI 集成到 Alexa 的不同组件中，并且正在努力大规模实施——在全球家庭中已有超过 5 亿台支持 Alexa 的环境设备中——以便为我们的客户提供更加主动、个性化和值得信赖的帮助。”
-在过去的一年里，亚马逊一直在努力改造其 AI 助手，以跟上 OpenAI、谷歌和微软的 AI 聊天机器人的步伐。甚至连苹果也加入了人工智能游戏，其全新版 Siri 即将在 iOS 18 上推出。亚马逊已经开始测试其新 AI Alexa 的元素，用户只要说“Alexa，我们聊聊吧”就可以加入等待名单。]]></description>
-      <guid>https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription</guid>
-      <pubDate>Fri, 21 Jun 2024 13:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软降低了新款 Copilot Plus 电脑上 Copilot 的实用性</title>
-      <link>https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa</link>
-      <description><![CDATA[
-
-图片：Microsoft
-
-Microsoft 本周早些时候推出了其 Copilot Plus PC 系列，它们都配备了新的 键盘上的专用 Copilot 键。这是 30 年来 Windows 键盘的首次重大变化，但现在该键所做的只是启动 Copilot 的渐进式 Web 应用 (PWA) 版本。
-Web 应用甚至不再像去年的以前的 Copilot 体验那样集成到 Windows 中，因此您无法再使用 Copilot 来控制 Windows 11 设置或将其停靠为侧边栏。它实际上只是一个 PWA。微软甚至删除了这些新的 Copilot Plus PC 上的 Copilot 键盘快捷键，因此 WINKEY + C 没有任何作用。
-我希望微软能够将 Copilot 键演变成可以像 Windows 键一样使用的东西，与其他键组合以启动应用程序的快捷方式，甚至是 Windows 中的 AI 功能。这将使其比仅仅启动 PWA 更有用。
-
-
-截图来自 Tom Warren / The Verge
-Copilot PWA 不与 Windows 设置集成。
-
-微软尚未解释为何将 Copilot 从 Windows 中更集成的体验更改为无法再控制 Windows 设置的 Web 应用程序。 Windows Insider 团队在最近的博客文章中表示：“我们还将改进 Windows 上的 Copilot 体验，使其成为一款固定在任务栏上的应用。这使用户能够获得传统应用体验的好处，包括调整窗口大小、移动和捕捉窗口的能力——这是我们在预览 Windows 中的 Copilot 时听到的用户反馈。”
-微软表示，由于这些变化，它将能够“更敏捷地开发和优化”Copilot 体验，因此也许我们会看到一些未来的变化，使这种功能回归变得有意义。在此之前，新的 Copilot 键将取代新款 Copilot Plus 电脑键盘上的菜单键（应用程序键），而且微软还将 Copilot 应用程序固定到任务栏，这样您甚至不需要使用专用键。]]></description>
-      <guid>https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa</guid>
-      <pubDate>Fri, 21 Jun 2024 09:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink Mini 为背包客提供太空互联网</title>
-      <link>https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price</guid>
-      <pubDate>Fri, 21 Jun 2024 07:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 援引第一修正案</title>
-      <link>https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment</guid>
-      <pubDate>Thu, 20 Jun 2024 22:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星 Galaxy Buds 3 泄露，展示了类似 AirPods 的设计</title>
-      <link>https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design</link>
-      <description><![CDATA[
-
-图片：@TEQHNIKACROSS on X
-
-三星的下一代 Galaxy Buds 具有 据传该款耳机与 AirPods 很像，而最新泄露的渲染图让这种对比比以往更加清晰。据称，这些渲染图是在韩国零售商 Coupang上发现的，它们表明三星可能会放弃球形耳机，转而采用具有类似 AirPods 的耳机柄、类似 AirPods 的通风口，甚至类似 AirPods 的外壳的无线耳机。
-我制作了一个图像滑块，以便您可以将其中一个渲染图与 Apple 第二代 AirPods Pro 的照片进行比较。三星新款耳机的最大区别在于金属银色和一些更有棱角的特征。
-
-如果这确实是三星耳机的新外观——三星显然正在开发 Galaxy Buds 3 的标准版和 Pro 版，均带有耳机柄——这将标志着该公司与之前的设计语言有很大不同，因为Galaxy Buds 2 Pro和Galaxy Buds FE 更圆润，没有耳机柄。
-我们不知道这些新耳机何时发布，但该公司通常会举办夏季 Unpacked 活动，所以也许它们会在那里亮相。]]></description>
-      <guid>https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design</guid>
-      <pubDate>Thu, 20 Jun 2024 21:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 正在取消使用虚假位置购买的 Premium 订阅</title>
-      <link>https://www.theverge.com/2024/6/20/24182686/youtube-premium-subscriptions-vpn-canceled</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-如果您在费用较低的国家/地区使用虚拟专用网络 (VPN) 购买 YouTube Premium，您的订阅可能会被取消。在过去几天里，几位 用户使用过此技巧，并报告其订阅被自动取消，正如Android Police 早些时候报道的那样。
-解决方法是使用 VPN 将您的位置更改为以较低价格提供 YouTube Premium 的国家/地区。例如，在美国，YouTube Premium 每月收费 13.99 美元，可无广告访问视频、YouTube 音乐和离线下载，但在阿根廷每月只需 1.05 美元（869 阿根廷比索）。但现在，YouTube 似乎正在打击那些实际上并不居住在这些国家的订阅者。
-
-
-
-YouTube 发言人 Paul Pennington 在向 The Verge 发表的声明中表示，该公司已“建立系统”来确定其用户的位置。“如果注册国家与用户访问 YouTube 的国家不匹配，我们会要求会员将其账单信息更新为其当前居住的国家，”Pennington 说。不过，他并没有透露 YouTube 是否已经开始使用欺骗性位置自动取消订阅。
-鉴于 YouTube 已经开始打击广告拦截器，因此该平台也开始追求更便宜的 Premium 订阅也就不足为奇了。]]></description>
-      <guid>https://www.theverge.com/2024/6/20/24182686/youtube-premium-subscriptions-vpn-canceled</guid>
-      <pubDate>Thu, 20 Jun 2024 21:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Embracer Group 认为人工智能将“赋能”游戏开发者</title>
-      <link>https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers</link>
-      <description><![CDATA[
-
-图片：Crystal Dynamics
-
-Embracer Group 是一家游戏巨头，拥有《指环王》和《古墓丽影》等大作的版权，该公司详细介绍了其在游戏开发中使用人工智能的想法 在其最新年度报告中。
-该企业集团最近将其拆分为三个独立公司，并采用了一项“集团 AI 政策”，据称该政策基于“赋权”的概念。虽然报告没有包含政策文本，但报告的“风险和缓解概述”部分中有一段文字似乎总结了其对人工智能的立场：
-
-人工智能能够通过提高资源效率、增加智能行为、个性化和优化游戏体验来大幅增强游戏开发。通过利用人工智能，我们可以创造更具吸引力和沉浸感的体验，为每个玩家提供独特、动态和个性化的体验。我们还看到了人工智能在游戏开发速度、物流和规划方面的巨大机遇。 Embracer Group 也了解使用 AI 的潜在风险。
-我们的目标是通过 AI 应用程序为员工赋能。
-
-开发人员对在游戏制作中使用 AI以及 AI 可能影响他们的工作表示担忧。鉴于该公司最近裁员，这些担忧可能对 Embracer 的任何 AI 计划都特别高。但 Embracer 隐私和 AI 治理负责人 Tomas Hedman 表示，该公司不想用 AI 代替人类。
-“我们不想用 AI 取代人类，我们想赋予他们权力，”Hedman 在报告中发表声明称。“这是我们以人为本的方法的核心，旨在利用 AI 的潜力。”Hedman 还认为，通过降低制作游戏的门槛，AI 可以“向更广泛的开发者群体开放编码”。
-话虽如此，Embracer 认为它需要采用 AI 来保持竞争力。在热图中，Embracer 将“未实施 AI”列为潜在的“重大”风险。该公司表示：“在 Embracer Group 内部不使用 AI 执行相关任务将导致我们失去竞争力并被竞争对手超越。” Embracer 还将 AI 治理视为一种潜在风险，并指出 AI 的使用“受一般和特定法律和要求的约束。”]]></description>
-      <guid>https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers</guid>
-      <pubDate>Thu, 20 Jun 2024 19:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约禁止青少年食用“成瘾食品”</title>
-      <link>https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms</guid>
-      <pubDate>Thu, 20 Jun 2024 19:07:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
