@@ -4,7 +4,30 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 09:15:37 GMT</lastBuildDate>
+    <item>
+      <title>10015 Tools 在 ProductHunt 上线啦！🚀</title>
+      <link>https://feed.indiehackers.world/post/da53dc01b2</link>
+      <description><![CDATA[大家好，
+我一直致力于开发 10015.io，这是一个结合了各种类别工具的平台。今天，我很高兴地宣布它现在已在 ProductHunt 上架！🚀 我非常感谢您的支持，并将随时向您通报我们的进展。
+https://www.producthunt.com/posts/10015-tools
+点赞进度：
+2 小时 9 分钟后：46 票点赞
+谢谢！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/da53dc01b2</guid>
+      <pubDate>Fri, 21 Jun 2024 09:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试了 APIToolkit：一个 API 监控平台：以下是我学到的东西</title>
+      <link>https://feed.indiehackers.world/post/79aa4ab69d</link>
+      <description><![CDATA[而且由于 APIToolkit 会监视对我的 API 发出的请求，并为每个请求提供多个指标的数据点，所以我可以随意犯错，哈哈……
+如果您有 API 或正在构建一些 API，请尝试一下，然后告诉我它有多大帮助。
+这是 APIToolkit 的链接
+Discord Indiehackers Chat广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/79aa4ab69d</guid>
+      <pubDate>Fri, 21 Jun 2024 07:27:20 GMT</pubDate>
+    </item>
     <item>
       <title>零售业中的机器学习产品匹配</title>
       <link>https://feed.indiehackers.world/post/e0b78b2a94</link>
@@ -174,24 +197,6 @@ PS。我将在几天后编辑帖子，在帖子中分享发布后的说明。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9a93179248</guid>
       <pubDate>Wed, 19 Jun 2024 20:46:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的下一次创业寻找合作伙伴</title>
-      <link>https://feed.indiehackers.world/post/b2f07ec441</link>
-      <description><![CDATA[我的名字是 Geoffrey Callaghan，我是 fabform.io veilmail.io 和 https://emailscraper.xyz 的创建者
-我是一名高级软件工程师，拥有 20 年的商业软件开发和产品创建经验。
-我希望为我的下一个创业公司合作。我很乐意听到您的意见。您可以通过 https://veilmail.io/irish-geoff 与我联系
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b2f07ec441</guid>
-      <pubDate>Wed, 19 Jun 2024 20:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否曾经参与过有专职 DBA 的项目？</title>
-      <link>https://feed.indiehackers.world/post/5a2a445639</link>
-      <description><![CDATA[www.sqlsensei.net
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/5a2a445639</guid>
-      <pubDate>Wed, 19 Jun 2024 18:01:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
