@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 01:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 03:18:08 GMT</lastBuildDate>
+    <item>
+      <title>什么是莱赛尔纤维？ “环保”纤维的特点及问题</title>
+      <link>https://wired.jp/article/what-is-lyocell-fabric/</link>
+      <description><![CDATA[莱赛尔纤维是一种由木浆制成的再生纤维，与其他人造纤维相比，对环境的影响较小。从可持续发展的角度来看，它仍然不完美，但这是朝着正确方向迈出的一步。]]></description>
+      <guid>https://wired.jp/article/what-is-lyocell-fabric/</guid>
+      <pubDate>Fri, 21 Jun 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么人工智能没有取代工人？ 大型科技公司裁员的背景</title>
       <link>https://wired.jp/article/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 20 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>有线耳机却能蓝牙连接！？廉价产品隐藏“问题”的原因</title>
+      <title>有线耳机却蓝牙连接！？廉价产品隐藏“问题”的原因</title>
       <link>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</link>
       <description><![CDATA[一些廉价的有线耳机实际上通过蓝牙进行无线连接，而不是使用有线连接。为什么在地球上？]]></description>
       <guid>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>2024 年总统竞选：连“正义统治”都岌岌可危的总统选举</title>
       <link>https://wired.jp/article/the-age-of-post-reagan-30/</link>
-      <description><![CDATA[在传统的总统选举中，五月和六月将是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和名副其实的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
+      <description><![CDATA[在传统的总统选举中，五月和六月是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和名副其实的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
       <guid>https://wired.jp/article/the-age-of-post-reagan-30/</guid>
       <pubDate>Wed, 19 Jun 2024 09:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>菲斯克申请破产后的曲折历史</title>
       <link>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</link>
-      <description><![CDATA[陷入财务困境的电动汽车制造商菲斯克被迫申请破产。尽管该公司推出了一款雄心勃勃的电动SUV，但这是质量问题以及与主要制造商合作失败的综合结果。]]></description>
+      <description><![CDATA[电动汽车制造商菲斯克陷入财务困境，被迫申请破产。尽管该公司推出了一款雄心勃勃的电动SUV，但这是质量问题以及与主要制造商合作失败的综合结果。]]></description>
       <guid>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</guid>
       <pubDate>Tue, 18 Jun 2024 22:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能聊天机器人正在竞选美国市长，引起轰动。然而，真正的候选人是一个自称“在人工智能指令下移动的身体”的人，但他是否会被允许参选的问题仍然悬而未决。]]></description>
       <guid>https://wired.jp/article/ai-bot-running-for-mayor-wyoming/</guid>
       <pubDate>Mon, 17 Jun 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI训练数据集中未经许可使用儿童照片</title>
-      <link>https://wired.jp/article/ai-tools-are-secretly-training-on-real-childrens-faces/</link>
-      <description><![CDATA[人权非政府组织的一项调查显示，用于训练人工智能的开源数据集中，未经许可使用了 170 多张巴西儿童的图像和详细个人信息。由于这些数据只占总数的一小部分，因此很可能从世界各地收集了类似的图像。]]></description>
-      <guid>https://wired.jp/article/ai-tools-are-secretly-training-on-real-childrens-faces/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
