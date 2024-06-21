@@ -4,9 +4,23 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 20 Jun 2024 21:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 01:00:45 GMT</lastBuildDate>
     <item>
-      <title>有线耳机却蓝牙连接！？廉价产品隐藏“问题”的原因</title>
+      <title>为什么人工智能没有取代工人？ 大型科技公司裁员的背景</title>
+      <link>https://wired.jp/article/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
+      <description><![CDATA[人工智能还没有达到可以取代工人的程度。尽管如此，在开发人工智能的竞赛中，大型科技公司已经失去了数千个工作岗位。]]></description>
+      <guid>https://wired.jp/article/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
+      <pubDate>Thu, 20 Jun 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为技术设计者介绍技术哲学【第9期】：对日本宇宙技术的思考──技术的“阿瓦伊”</title>
+      <link>https://wired.jp/article/series-philosophy-of-technology-9/</link>
+      <description><![CDATA[“技术哲学”是在商业和创造力中运用最新技术时必不可少的知识。万物有灵论和哆啦A梦通常被称为日本的技术观，但这是系列的第九部分，该系列询问这些是否真的是日本的“空间艺术”。]]></description>
+      <guid>https://wired.jp/article/series-philosophy-of-technology-9/</guid>
+      <pubDate>Thu, 20 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有线耳机却能蓝牙连接！？廉价产品隐藏“问题”的原因</title>
       <link>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</link>
       <description><![CDATA[一些廉价的有线耳机实际上通过蓝牙进行无线连接，而不是使用有线连接。为什么在地球上？]]></description>
       <guid>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>2024 年总统竞选：连“正义统治”都岌岌可危的总统选举</title>
       <link>https://wired.jp/article/the-age-of-post-reagan-30/</link>
-      <description><![CDATA[在传统的总统选举中，五月和六月是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和名副其实的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
+      <description><![CDATA[在传统的总统选举中，五月和六月将是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和名副其实的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
       <guid>https://wired.jp/article/the-age-of-post-reagan-30/</guid>
       <pubDate>Wed, 19 Jun 2024 09:00:00 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>菲斯克申请破产后的曲折历史</title>
       <link>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</link>
-      <description><![CDATA[电动汽车制造商菲斯克陷入财务困境，被迫申请破产。尽管该公司推出了一款雄心勃勃的电动SUV，但这是质量问题以及与主要制造商合作失败的综合结果。]]></description>
+      <description><![CDATA[陷入财务困境的电动汽车制造商菲斯克被迫申请破产。尽管该公司推出了一款雄心勃勃的电动SUV，但这是质量问题以及与主要制造商合作失败的综合结果。]]></description>
       <guid>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</guid>
       <pubDate>Tue, 18 Jun 2024 22:30:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[人权非政府组织的一项调查显示，用于训练人工智能的开源数据集中，未经许可使用了 170 多张巴西儿童的图像和详细个人信息。由于这些数据只占总数的一小部分，因此很可能从世界各地收集了类似的图像。]]></description>
       <guid>https://wired.jp/article/ai-tools-are-secretly-training-on-real-childrens-faces/</guid>
       <pubDate>Mon, 17 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“AI教练”支持求职，LinkedIn加速引入生成式AI工具</title>
-      <link>https://wired.jp/article/linkedin-ai-features-career-coach-chatbot/</link>
-      <description><![CDATA[LinkedIn 正在加速推出利用生成式人工智能的支持工具。最近推出的产品包括一个接受了流行职业教练专业知识训练的聊天机器人，以及一个可以纠正简历和求职信的人工智能工具。]]></description>
-      <guid>https://wired.jp/article/linkedin-ai-features-career-coach-chatbot/</guid>
-      <pubDate>Mon, 17 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现实能模拟到什么程度呢？</title>
-      <link>https://wired.jp/article/sz-can-the-world-be-simulated/</link>
-      <description><![CDATA[游戏引擎旨在模仿现实世界的机制，现在用于电影、建筑、军事模拟，甚至虚拟宇宙的创建。通过对 Epic Games 首席执行官 Tim Sweeney 等人的采访，揭示了现实的未来。]]></description>
-      <guid>https://wired.jp/article/sz-can-the-world-be-simulated/</guid>
-      <pubDate>Sun, 16 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
