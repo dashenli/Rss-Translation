@@ -4,11 +4,32 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 21:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 01:00:58 GMT</lastBuildDate>
+    <item>
+      <title>度过混乱的“希望”和“关怀”：连接欧洲和东京的艺术家聚会</title>
+      <link>https://wired.jp/article/kontonniai-report/</link>
+      <description><![CDATA[人类能否实现一个充满关爱的社会？ 即使在难以到达的偏远地区，是否有可能通过技术和艺术的力量相互支持？ 我们报道了“爱/混沌中的邂逅”事件，该事件成为了这一希望的中心。]]></description>
+      <guid>https://wired.jp/article/kontonniai-report/</guid>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能通过“Claude 3.5 Sonnet”向前迈出了一步，但世界仍在等待“大跃进”。</title>
+      <link>https://wired.jp/article/were-still-waiting-for-the-next-big-leap-in-ai/</link>
+      <description><![CDATA[Anthropic 宣布了其最新的人工智能模型 Claude 3.5 Sonnet。虽然进展是有益的，但它是渐进的，让人们对诸如震惊世界的 GPT-4 等重大突破充满希望。]]></description>
+      <guid>https://wired.jp/article/were-still-waiting-for-the-next-big-leap-in-ai/</guid>
+      <pubDate>Fri, 21 Jun 2024 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从主编到SZ会员：《机器人的未来》SZ通讯VOL.241</title>
+      <link>https://wired.jp/article/sz-newsletter-241/</link>
+      <description><![CDATA[涩谷敬一郎的《Android Opera Tokyo》时隔六年首次在日本登场的《世界末日与末日之后》，领先于超智能的“Novacene”时代与人类共存。 本周 SZ 会员通讯。]]></description>
+      <guid>https://wired.jp/article/sz-newsletter-241/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>配备人工智能的微型卫星从太空探测野火</title>
       <link>https://wired.jp/article/cubesat-ai-detects-bushfires/</link>
-      <description><![CDATA[澳大利亚科学家开发出一种技术，通过利用卫星上的人工智能在太空中进行图像分析和数据压缩，检测丛林大火的速度比以前快 500 倍。预计该系统不仅可用于早期发现野火，还可作为其他自然灾害的预警系统。]]></description>
+      <description><![CDATA[澳大利亚科学家开发出一种技术，通过在卫星上使用人工智能在太空中进行图像分析和数据压缩，可以比以前更快地检测森林火灾 500 倍。预计该系统不仅可用于早期发现野火，还可作为其他自然灾害的预警系统。]]></description>
       <guid>https://wired.jp/article/cubesat-ai-detects-bushfires/</guid>
       <pubDate>Fri, 21 Jun 2024 08:00:00 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Thu, 20 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>有线耳机却蓝牙连接！？廉价产品隐藏“问题”的原因</title>
+      <title>有线耳机却能蓝牙连接！？廉价产品隐藏“问题”的原因</title>
       <link>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</link>
       <description><![CDATA[一些廉价的有线耳机实际上通过蓝牙进行无线连接，而不是使用有线连接。为什么在地球上？]]></description>
       <guid>https://wired.jp/article/some-cheap-wired-headphones-are-actually-using-bluetooth/</guid>
@@ -78,7 +99,7 @@
     <item>
       <title>2024 年总统竞选：连“正义统治”都岌岌可危的总统选举</title>
       <link>https://wired.jp/article/the-age-of-post-reagan-30/</link>
-      <description><![CDATA[在传统的总统选举中，五月和六月是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和字面上的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
+      <description><![CDATA[在传统的总统选举中，五月和六月将是通过初选聆听候选人声音的时期。然而，这一次，看似黑帮的“特朗普家族”和名副其实的“拜登家族”之间的戏剧（戏剧化事件）引起了人们的关注。民主正在崩溃，法治正处于被推翻的边缘。设计思想家池田纯一解释了这场战斗的命运。]]></description>
       <guid>https://wired.jp/article/the-age-of-post-reagan-30/</guid>
       <pubDate>Wed, 19 Jun 2024 09:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[血小板通过促进血液凝固来帮助愈合伤口。保质期短是一个问题，但美国研究小组成功开发出一种可以长期保存的人工合成血小板替代品。]]></description>
       <guid>https://wired.jp/article/synthetic-artificial-blood-platelets/</guid>
       <pubDate>Wed, 19 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>全新胶片相机型号 PENTAX 17 肩负着下一代的重任</title>
-      <link>https://wired.jp/article/pentax-17-film-camera/</link>
-      <description><![CDATA[理光影像宣布推出一款新的胶片相机型号：PENTAX 17。胶片相机等新产品的推出备受关注，尤其是在 Z 世代中，也起到了将模拟相机特有的乐趣和技术传递给下一代的作用。]]></description>
-      <guid>https://wired.jp/article/pentax-17-film-camera/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论苹果如何称呼它，Apple Intelligence 仍然是强大的人工智能。</title>
-      <link>https://wired.jp/article/plaintext-apple-intelligence-is-ai/</link>
-      <description><![CDATA[苹果在 6 月的“WWDC 2024”上宣布了自己的人工智能“Apple Intelligence”。试图证明一家公司的人工智能方法比竞争对手更安全、更好或更有用可能只是一种幻想。]]></description>
-      <guid>https://wired.jp/article/plaintext-apple-intelligence-is-ai/</guid>
-      <pubDate>Wed, 19 Jun 2024 01:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲斯克申请破产后的曲折历史</title>
-      <link>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</link>
-      <description><![CDATA[电动汽车制造商菲斯克陷入财务困境，被迫申请破产。尽管该公司推出了一款雄心勃勃的电动SUV，但这是质量问题以及与主要制造商合作失败的综合结果。]]></description>
-      <guid>https://wired.jp/article/fisker-reaches-end-of-the-road-files-for-bankruptcy/</guid>
-      <pubDate>Tue, 18 Jun 2024 22:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
