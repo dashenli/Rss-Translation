@@ -4,27 +4,82 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Jun 2024 12:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 15:16:01 GMT</lastBuildDate>
+    <item>
+      <title>大型唱片公司起诉“BBL Drizzy”背后的人工智能公司</title>
+      <link>https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner</guid>
+      <pubDate>Mon, 24 Jun 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数十辆特斯拉 Cyber​​truck 被一个非常不喜欢伊隆·马斯克的人破坏</title>
+      <link>https://www.theverge.com/2024/6/24/24184698/tesla-cybertruck-vandal-deface-elon-musk</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/24/24184698/tesla-cybertruck-vandal-deface-elon-musk</guid>
+      <pubDate>Mon, 24 Jun 2024 14:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SwitchBot 的廉价通用遥控器也能控制你的智能家居</title>
+      <link>https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth</link>
+      <description><![CDATA[
+
+SwitchBot 通用遥控器可控制红外、蓝牙，甚至 Matter 兼容的智能家居设备。 |图片：SwitchBot
+
+SwitchBot 的全新配备屏幕的通用遥控器不仅可以控制您的家庭娱乐中心。借助对蓝牙和 Matter 的支持，遥控器还应能够操作智能家居设备，而无需用户拿起智能手机。
+对于那些难以密切关注从吊扇到灯泡等各种设备所包含的无数遥控器的人来说，SwitchBot 通用遥控器目前通过红外线支持“多达 83,934 个遥控器型号”，其代码库每六个月更新一次。
+该遥控器还兼容 SwitchBot 的其他智能家居设备，包括其 robovacs 和窗帘控制器以及蓝牙控制的设备，这是许多独立智能灯泡所选择的。 Apple TV 和 Fire TV 将在发布时得到支持，但 Roku 和 Android TV 用户必须等待未来的更新才能使遥控器与他们的硬件兼容。
+SwitchBot 的最新配件并不是唯一一款与智能家居设备兼容的通用遥控器。售价 258 美元的 Haptique RS90 通过 Kickstarter 众筹活动向消费者推出，承诺提供类似的功能。但 SwitchBot 的产品更具吸引力，其便宜得多的 59.99 美元价格，并且支持 Matter。
+
+要控制其他智能家居品牌的 Matter 兼容设备，确实需要通用遥控器与该公司的 SwitchBot 协同工作Hub 2 或 Hub Mini，对于那些尚未在家中使用其中一个集线器的人来说，这将增加遥控器的价格。
+
+
+图片：SwitchBot
+您无法通过其屏幕操作 SwitchBot 通用遥控器，但它确实有一个类似 iPod 的滚轮用于浏览菜单。
+
+SwitchBot 通用遥控器上的 2.4 英寸 LCD 屏幕应该可以让用户更方便地浏览一长串可控设备，但您无法触摸它。所有控制都通过物理按钮和触摸式滚轮进行操作，让人想起早期的 iPod 型号。如果您丢失了它，您不必在家里的所有沙发垫中寻找。SwitchBot 应用程序具有“查找我的遥控器”功能，该功能会使通用遥控器发出声音，以便更轻松地找到它。
+2,000mAh 电池承诺长达 150 天的电池寿命，但这是基于“平均每天使用 10 分钟的屏幕”，这似乎并不多。用户可能会发现他们更频繁地为 SwitchBot 通用遥控器充电，但这仍然比在它没电时手忙脚乱地寻找一对新的 AAA 电池更方便。]]></description>
+      <guid>https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth</guid>
+      <pubDate>Mon, 24 Jun 2024 14:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 的 Greg Peters 谈新文化备忘录以及广告、人工智能和游戏的定位</title>
+      <link>https://www.theverge.com/24182520/netflix-co-ceo-memo-ads-subscription-price-decoder-podcast-interview</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24182520/netflix-co-ceo-memo-ads-subscription-price-decoder-podcast-interview</guid>
+      <pubDate>Mon, 24 Jun 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify 为商家提供的 AI “Sidekick” 聊天机器人现已进入早期试用阶段</title>
+      <link>https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition</link>
+      <description><![CDATA[
+
+Shopify Sidekick 聊天机器人的宣传图片。 | 图片：Shopify
+
+Shopify 表示，其新的 AI“Sidekick”聊天机器人已正式推出抢先体验版，这是该公司周一宣布的“2024 年夏季版”更新的一部分。 
+Sidekick 是该公司去年首次发布的，它可作为商家的支持聊天机器人，帮助他们完成诸如制作折扣代码、生成有关商店的报告或提出博客文章创意等任务。当然，这听起来很像典型的 AI 聊天机器人，但它似乎是一种获得帮助或协助的有效方式，尤其是如果 Shopify 继续根据商家需求定制聊天机器人的话。
+Sidekick 已在数千家 Shopify 商店上线，但目前仅限于在北美拥有英语商店的商家，Shopify 产品副总裁 Vanessa Lee 在接受 The Verge 采访时表示。如果你没有 Sidekick 并且想尝试一下，你可以加入候补名单。Lee 表示，该公司希望推出其他语言和其他地区的版本。 
+Shopify 还发布了一些其他以 AI 为重点的公告。其中之一就是 AI 驱动的产品分类，似乎可以为商家节省大量时间。在您创建产品列表时，Shopify 的技术可以自动建议有关该产品的分类法（用于使列表更容易被发现的分类法），这些分类法可能适合该产品，这样您就不必自己输入。如果 Shopify 的建议不正确，您可以手动更改。 
+
+
+图片：Shopify
+
+另一个 AI 工具将为通过 Shopify Inbox 收到的客户聊天提供建议回复。目前，这些回复只是建议，这意味着商家必须最终确定并实际发送回复。 Lee 表示，Shopify 愿意考虑让客户与代表商家发言的 AI 聊天机器人聊天，但目前，该公司选择让人类参与其中，“直到我们非常有信心不会发生任何事情。”
+Shopify 还将其 AI 驱动的图像生成器于 1 月推出引入其 iOS 和 Android 应用程序，并让商家在Shopify 管理员的更多地方使用它。该公司表示，Shopify 商家在六个月内保存了超过 100 万张 AI 生成的图像。]]></description>
+      <guid>https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition</guid>
+      <pubDate>Mon, 24 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制造不会污染环境的电动汽车轮胎</title>
+      <link>https://www.theverge.com/2024/6/24/24183327/ev-tire-pollution-enso-us-factory-investment</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/24/24183327/ev-tire-pollution-enso-us-factory-investment</guid>
+      <pubDate>Mon, 24 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果是第一家被指控违反欧盟 DMA 规则的公司</title>
       <link>https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling</link>
-      <description><![CDATA[
-
-苹果再次成为欧盟竞争政策的焦点。 | Cath Virginia / The Verge
-
-监管机构在周一的初步裁决中表示，苹果应用商店的“操纵”政策违反了旨在鼓励竞争的欧盟《数字市场法》。欧盟委员会还对苹果在欧洲支持其他 iOS 市场展开了新调查，包括向开发者收取的核心技术费用。
-“我们的初步立场是，苹果不完全允许操纵，”欧洲竞争政策负责人玛格丽特·维斯塔格 (Margrethe Vestager) 表示。 “引导是确保应用开发者减少对守门人应用商店的依赖，并让消费者了解更好的优惠的关键。”
-根据 DMA，苹果和其他所谓的守门人必须允许应用开发者免费引导消费者使用其应用商店以外的优惠。Alphabet、亚马逊、苹果、字节跳动、Meta 和微软是六家必须自 2024 年 3 月起完全遵守规则的守门人。
-在欧盟竞争管理局于 3 月启动几项调查后，苹果是第一家根据 DMA 规则受到指控的公司。 （Meta 和谷歌也因不合规而受到审查。）苹果有时间在 2025 年 3 月之前对欧盟委员会的初步评估做出回应，然后才能做出最终裁决。苹果可能会因侵权被处以高达其全球年收入 10% 的罚款，根据去年的数据，罚款金额将达到 380 亿美元。对于重复侵权，这一数字将增加到 20%。
-此前，苹果曾因 App Store 的反操纵做法被欧盟反垄断监管机构罚款 18.4 亿欧元（约 20 亿美元），该案发生在 DMA 之前。该罚款源于 2020 年诉讼，该诉讼是在 Spotify 提起反垄断投诉后宣布的。
-
-
-今天我们开启一个新案件 + 我们根据 DMA 对 @Apple 采取初步调查结果。 我们担心苹果的新商业模式会让应用程序开发商难以作为替代市场来运营。在 iOS 上接触他们的最终用户。更多️：https://t.co/nYm5fW61jp— Margrethe Vestager (@vestager) 2024 年 6 月 24 日
-
-
-欧盟委员会还对苹果支持替代 iOS 应用商店展开了新的诉讼。调查的重点是存在争议的核心技术费、用户安装第三方市场所需的繁琐多步骤流程以及苹果对开发者的资格要求。
-“我们还针对苹果所谓的核心技术费以及允许第三方应用商店和侧载的各种规则对苹果提起了诉讼，”Vestager 表示。“开发者社区和消费者都渴望提供应用商店的替代方案。我们将进行调查，以确保苹果不会破坏这些努力。”
-周五，苹果将 DMA 相关的“监管不确定性”归咎于今年推迟向欧洲用户推出 iOS 18 的基石功能。苹果公司将此归咎为互操作性要求可能会损害用户隐私和数据安全。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling</guid>
       <pubDate>Mon, 24 Jun 2024 10:27:26 GMT</pubDate>
     </item>
@@ -48,58 +103,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review</guid>
       <pubDate>Sun, 23 Jun 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我后悔买了 PlayStation VR2</title>
-      <link>https://www.theverge.com/2024/6/23/24183482/psvr-2-regret</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/23/24183482/psvr-2-regret</guid>
-      <pubDate>Sun, 23 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>全新升级的 Windows PC 终于问世</title>
-      <link>https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer</guid>
-      <pubDate>Sun, 23 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>甚至《Elden Ring》的游戏总监也知道 Erdtree 太难了</title>
-      <link>https://www.theverge.com/24183692/hidetaka-miyazaki-interview-shadow-of-the-erdtree-difficulty</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24183692/hidetaka-miyazaki-interview-shadow-of-the-erdtree-difficulty</guid>
-      <pubDate>Sat, 22 Jun 2024 14:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 对高级视频编码的押注</title>
-      <link>https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron</guid>
-      <pubDate>Sat, 22 Jun 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>向人工智能助手打字可能是最佳选择</title>
-      <link>https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants</guid>
-      <pubDate>Sat, 22 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 仍需为加州提供固定电话服务</title>
-      <link>https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-AT&amp;T 无法停止为加州各地客户提供固定电话服务。据 周四 的一项裁决，加州公用事业委员会 (CPUC) 拒绝了 AT&amp;T 提出的解除其最后承运人 (COLR) 义务的请求，正如 Ars Technica 和 CBS 先前报道的那样新闻。。
-自 1996 年以来，AT&amp;T 就已在加利福尼亚州获得 COLR 称号，确保该州的每个人都能享受到价格合理、可靠的电话服务。加利福尼亚州的一些人（尤其是那些住在偏远地区的人）已经开始依赖他们的固定电话服务，因为即使停电或蜂窝服务不可用，他们也可以拨打紧急电话。
-今年早些时候，AT&amp;T 要求 CPUC 解除其作为指定运营商的职责，理由是移动服务和 VoIP 广泛可用。 AT&amp;T 在请求中辩称，COLR 的“经济理由”已不复存在，因为全州都有“价格合理”且“基于先进技术”的替代语音服务。该公司补充说，它“承担了维护和运营”铜线固定电话网络的大量成本，而竞争对手则不必这样做。AT&amp;T 表示，它将继续在没有替代服务的地区提供固定电话服务。
-“AT&amp;T 未能证明有愿意并能够充当 COLR 的替代提供商。”
-然而，CPUC 拒绝了 AT&amp;T 的请求。该机构表示，“AT&amp;T 未能证明有愿意并能够充当 COLR 的替代提供商。”该决定还引用了公众评论者提出的移动服务和 VoIP 的“不可靠性”。 AT&amp;T 正在推动制定新规则，以改变加州指定 COLR 的方式。
-“任何客户都将享受语音和 911 服务，”AT&amp;T 加州总裁 Marc Blakeman 在发给The Verge的电子邮件声明中表示。“我们完全致力于让客户保持联系，同时与州领导人合作制定政策，创造一个深思熟虑的过渡，为所有加州人带来现代通信。”
-对蜂窝服务可靠性的担忧并非毫无根据。今年 2 月，AT&amp;T 的服务瘫痪，全国范围内有数千人无法使用服务，而本月早些时候的一个问题导致Verizon 和 AT&amp;T 客户之间的通话中断。]]></description>
-      <guid>https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr</guid>
-      <pubDate>Fri, 21 Jun 2024 22:51:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
