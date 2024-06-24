@@ -4,13 +4,31 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 24 Jun 2024 15:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 18:19:56 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 518：拥有很多钱并不意味着你就是一家银行</title>
+      <link>https://sixcolors.com/podcast/2024/06/upgrade-518-having-lots-of-money-doesnt-make-you-a-bank/</link>
+      <description><![CDATA[Apple 放弃了部分金融服务，并改变了 Vision 硬件方法，该公司与欧盟的关系也进入了新阶段。在欢乐夏日，我们来看看当前的 iPhone 主屏幕。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/upgrade-518-having-lots-of-money-doesnt-make-you-a-bank/</guid>
+      <pubDate>Mon, 24 Jun 2024 16:50:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>（赞助商）使用 ListenLater.net 将文章转换为播客</title>
+      <link>https://sixcolors.com/feed-only/2024/06/transform-articles-into-podcasts-with-listenlater-net/</link>
+      <description><![CDATA[
+
+想象一下将您的阅读列表变成一个收听播放列表。使用 ListenLater.net，您最喜欢的阅读内容将以引人入胜的播客形式出现在您首选的播客应用中。
+
+您是否曾发现过一篇有趣的文章，但却没有时间阅读它？…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/06/transform-articles-into-podcasts-with-listenlater-net/</guid>
+      <pubDate>Mon, 24 Jun 2024 16:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
+      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
 
-今天，欧盟委员会告知苹果公司，其初步意见是其 App Store 规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
+今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
@@ -32,9 +50,9 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <pubDate>Fri, 21 Jun 2024 18:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀节目</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
-      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 在舞台上为 The Talk Show Live 采访了 Apple 高管，他多年来一直都是这么做的。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
       <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
     </item>
@@ -106,23 +124,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
 神经多样性用户也发现了 AVP 的价值。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/new-york-magazine-lauds-vision-pros-accessibility/</guid>
       <pubDate>Fri, 14 Jun 2024 19:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock</title>
-      <link>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-4/</link>
-      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助 Six Colors。
-作为原生 Safari 扩展，Magic Lasso 可阻止所有侵入性广告、跟踪器和干扰 - 让您在所有设备上体验更快、更干净、更安全的体验。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/06/magic-lasso-adblock-the-safari-ad-blocker-built-for-you-4/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的，这是 Apple Intelligence</title>
-      <link>https://sixcolors.com/post/2024/06/ok-fine-heres-apple-intelligence/</link>
-      <description><![CDATA[
-很明显，苹果不想参与其中。
-多年来，该公司一直拒绝使用“人工智能”这个词来描述其所做的事情。…]]></description>
-      <guid>https://sixcolors.com/post/2024/06/ok-fine-heres-apple-intelligence/</guid>
-      <pubDate>Thu, 13 Jun 2024 23:29:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
