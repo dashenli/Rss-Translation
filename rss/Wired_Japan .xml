@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 24 Jun 2024 01:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 03:17:34 GMT</lastBuildDate>
+    <item>
+      <title>为什么建筑系学生学习电影和游戏的数字建筑</title>
+      <link>https://wired.jp/article/vol53-we-are-all-newcomers-ucl/</link>
+      <description><![CDATA[著名建筑学院伦敦大学巴特利特学院的研究生项目设立了一个研究电影和游戏等数字空间建筑的新项目。在那里，学生和教师寻求拓展一个没有身体限制的世界的可能性。]]></description>
+      <guid>https://wired.jp/article/vol53-we-are-all-newcomers-ucl/</guid>
+      <pubDate>Mon, 24 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>三菱地所再生社区 东京挑战成为“再生城市”</title>
       <link>https://wired.jp/article/regenerative-community-tokyo/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>人们担心勒索软件攻击变得更加激进，并蔓延到“现实生活中的暴力”</title>
       <link>https://wired.jp/article/state-of-ransomware-2024/</link>
-      <description><![CDATA[2024 年，以系统、个人信息和其他数据为“人质”并要求赎金的勒索软件攻击变得更加激烈。安全专家甚至警告说，这些威胁可能会激进化为现实世界的暴力。]]></description>
+      <description><![CDATA[2024 年，以系统、个人信息和其他数据为“人质”并要求赎金的勒索软件攻击变得更加激烈。安全专家甚至警告说，这些威胁可能会变得激进，演变成现实世界的暴力。]]></description>
       <guid>https://wired.jp/article/state-of-ransomware-2024/</guid>
       <pubDate>Sun, 23 Jun 2024 22:30:00 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>生物识别数据泄露的风险并非每个人独有。印度令人震惊地大规模泄露包括警察在内的个人指纹和面部图像</title>
       <link>https://wired.jp/article/police-face-recognition-biometrics-leak-india/</link>
-      <description><![CDATA[包括数千名印度警察的指纹、面部图像、签名在内的大量个人信息被泄露并“走私”到网上。随着生物特征认证在全球范围内的传播，这些风险绝不是每个人独有的。]]></description>
+      <description><![CDATA[包括数千名印度警察在内的大量个人信息，包括指纹、面部图像和签名，在网上被泄露和“走私”。随着生物特征认证在全球范围内的传播，这些风险绝不是每个人独有的。]]></description>
       <guid>https://wired.jp/article/police-face-recognition-biometrics-leak-india/</guid>
       <pubDate>Sun, 23 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>将DNA发射到月球！？艺术探索死后“我们留下的东西”的可能性</title>
+      <title>将DNA发射到月球！？艺术探索死后“我们留下什么”的可能性</title>
       <link>https://wired.jp/article/siaf2024-amy-karle-interview/</link>
-      <description><![CDATA[旧金山艺​​术家艾米·卡尔审视我们这个时代的数字来世。这也是通过将人类 DNA 发射到月球（计划最早于 2024 年第四季度发射）实现的。她想通过作品传达什么信息？]]></description>
+      <description><![CDATA[旧金山艺​​术家艾米·卡尔审视我们这个时代的数字来世。那就是将人类 DNA 发射到月球（计划最早于 2024 年第四季度发射）。她想通过作品传达什么信息？]]></description>
       <guid>https://wired.jp/article/siaf2024-amy-karle-interview/</guid>
       <pubDate>Sun, 23 Jun 2024 03:00:00 GMT</pubDate>
     </item>
@@ -78,37 +85,30 @@
     <item>
       <title>生成式人工智能凭借“Claude 3.5 Sonnet”向前迈出了一步，但世界仍在等待“大跃进”。</title>
       <link>https://wired.jp/article/were-still-waiting-for-the-next-big-leap-in-ai/</link>
-      <description><![CDATA[Anthropic 宣布了其最新的人工智能模型 Claude 3.5 Sonnet。这一进展虽然有益，但却是渐进的，提高了人们对重大突破的期望，比如震惊世界的 GPT-4 的到来。]]></description>
+      <description><![CDATA[Anthropic 宣布了其最新的人工智能模型 Claude 3.5 Sonnet。虽然进展是有益的，但它是渐进的，让人们对重大突破充满希望，比如震惊世界的 GPT-4 的到来。]]></description>
       <guid>https://wired.jp/article/were-still-waiting-for-the-next-big-leap-in-ai/</guid>
       <pubDate>Fri, 21 Jun 2024 23:30:00 GMT</pubDate>
     </item>
     <item>
       <title>从主编到SZ会员：《机器人的未来》SZ通讯VOL.241</title>
       <link>https://wired.jp/article/sz-newsletter-241/</link>
-      <description><![CDATA[涩谷敬一郎的《Android Opera Tokyo》时隔六年首次在日本演出的《世界末日与末日之后》仅一晚，领先于《Novacene》时代” 超级智能与人类共存的地方。 本周的 SZ 会员时事通讯。]]></description>
+      <description><![CDATA[涩谷敬一郎的《Android Opera Tokyo》时隔六年首次在日本演出的《世界末日与末日之后》仅一晚，领先于《Novacene》时代” 超级智能与人类共存的地方。 本周为 SZ 会员提供的时事通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-241/</guid>
       <pubDate>Fri, 21 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>配备人工智能的微型卫星从太空探测野火</title>
       <link>https://wired.jp/article/cubesat-ai-detects-bushfires/</link>
-      <description><![CDATA[澳大利亚科学家开发出一种技术，通过利用卫星上的人工智能在太空中进行图像分析和数据压缩，检测丛林大火的速度比以前快 500 倍。预计该系统不仅可用于早期发现野火，还可作为其他自然灾害的预警系统。]]></description>
+      <description><![CDATA[澳大利亚科学家开发出一种技术，通过利用卫星上的人工智能在太空中进行图像分析和数据压缩，检测丛林大火的速度比以前快500倍。预计该系统不仅可用于早期发现野火，还可作为其他自然灾害的预警系统。]]></description>
       <guid>https://wired.jp/article/cubesat-ai-detects-bushfires/</guid>
       <pubDate>Fri, 21 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>缝纫机和新型水晶 LED 显示屏：伦敦时装学院的未来技能</title>
       <link>https://wired.jp/article/vol53-we-are-all-newcomers-ual/</link>
-      <description><![CDATA[在每个人都可以自学时尚的时代，大学存在的理由是什么？ 作为伦敦艺术大学 (UAL) 一部分的伦敦时装学院的答案是，其使命是弥合快速变化的技术、学生和时装业之间的差距。]]></description>
+      <description><![CDATA[在每个人都可以自学时尚的时代，大学存在的理由是什么？ 隶属于伦敦艺术大学 (UAL) 的伦敦时装学院的答案是，其使命是弥合快速变化的技术、学生和时装业之间的差距。]]></description>
       <guid>https://wired.jp/article/vol53-we-are-all-newcomers-ual/</guid>
       <pubDate>Fri, 21 Jun 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是莱赛尔纤维？ “环保”纤维的特点及问题</title>
-      <link>https://wired.jp/article/what-is-lyocell-fabric/</link>
-      <description><![CDATA[莱赛尔纤维是一种由木浆制成的再生纤维，与其他人造纤维相比，对环境的影响较小。从可持续发展的角度来看，它仍然不完美，但这是朝着正确方向迈出的一步。]]></description>
-      <guid>https://wired.jp/article/what-is-lyocell-fabric/</guid>
-      <pubDate>Fri, 21 Jun 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
