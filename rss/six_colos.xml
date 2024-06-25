@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 25 Jun 2024 15:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 18:20:51 GMT</lastBuildDate>
+    <item>
+      <title>总结 Bartender 的替代品 ↦</title>
+      <link>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</link>
+      <description><![CDATA[在 Bartender 被出售后，我一直想写一篇菜单栏实用程序的比较，但 Niléane 抢先了一步：
+
+如果您对 Bartender 的信任因为这一系列事件而动摇，您可能正在寻找替代方案。…]]></description>
+      <guid>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</guid>
+      <pubDate>Tue, 25 Jun 2024 17:02:43 GMT</pubDate>
+    </item>
     <item>
       <title>为编排应用时代做好准备</title>
       <link>https://sixcolors.com/post/2024/06/preparing-for-the-era-of-orchestrated-apps/</link>
@@ -34,9 +43,9 @@
     <item>
       <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
+      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
 
-今天，欧盟委员会告知苹果公司，其初步意见是其 App Store 规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
+今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
@@ -58,9 +67,9 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <pubDate>Fri, 21 Jun 2024 18:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀节目</title>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
-      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 在舞台上为 The Talk Show Live 采访了 Apple 高管，他多年来一直都是这么做的。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
       <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
     </item>
@@ -116,13 +125,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
 然后下载 Magic Lasso Adblock ——专为您设计的广告拦截器。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-youtube-ad-blocker-for-safari-16/</guid>
       <pubDate>Mon, 17 Jun 2024 16:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 71：米什加斯山脉</title>
-      <link>https://sixcolors.com/podcast/2024/06/downstream-71-mountain-of-mishegas/</link>
-      <description><![CDATA[Vulture 的 Josef Adalian 与 Jason 一起讨论了最新交易失败后派拉蒙的命运，华纳兄弟探索频道 (Warner Bros. Discovery) 开始实施体育版权 B 计划，而 Joe 则向我们介绍了他在 Vulture 上的流媒体排名。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/downstream-71-mountain-of-mishegas/</guid>
-      <pubDate>Sat, 15 Jun 2024 01:16:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
