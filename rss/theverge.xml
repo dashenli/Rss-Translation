@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 03:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:19:41 GMT</lastBuildDate>
+    <item>
+      <title>2024 年亚马逊 Prime Day 将于 7 月 16 日和 17 日举行</title>
+      <link>https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale</guid>
+      <pubDate>Tue, 25 Jun 2024 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>EcoFlow 的新型太阳能发电机是一款便携式发电机</title>
       <link>https://www.theverge.com/2024/6/24/24182250/ecoflow-delta-pro-3-price-specs-blackout-generator-van-rv</link>
@@ -69,10 +76,10 @@ Google 还将 Gemini 功能推广到 Docs、Sheets、Slides 和 Drive 的侧面�
 
 照片由 Vjeran Pavic / The Verge 拍摄
 
-Apple 可能最终允许复古视频游戏模拟器在 App Store 上架，但本月，该公司拒绝了 iDOS 3（流行 DOS 模拟器的新版本）和 UTM SE（一款一款可在 iOS 上模拟 Windows 等操作系统的应用。Apple 表示，这两款新应用均违反了应用审核指南 4.7，该指南允许使用复古游戏模拟器。
-iDOS 3 的开发者 Chaoji Li 与 The Verge 分享了 Apple 拒绝该应用的部分理由。Apple 的通知称：“该应用提供了模拟器功能，但并未专门模拟复古游戏机。” “根据指南 4.7，只有复古游戏机的模拟器才是合适的。”
+Apple 可能最终允许复古视频游戏模拟器在 App Store 上架，但本月，该公司拒绝了 iDOS 3（流行 DOS 模拟器的新版本）和 UTM SE（一款一款可在 iOS 上模拟 Windows 等操作系统的应用。苹果表示，这两款新应用均违反了应用审核指南 4.7，该指南允许使用复古游戏模拟器。
+iDOS 3 的开发者 Chaoji Li 与 The Verge 分享了苹果拒绝该应用的部分理由。苹果的通知称：“该应用提供了模拟器功能，但并未专门模拟复古游戏机。” “根据指南 4.7，只有复古游戏机的模拟器才是合适的。”
 “当我询问我应该做哪些改变才能符合要求时，他们不知道，当我问什么是复古游戏机时，他们也不知道，”Li 在一篇博文中说道。 “这仍然是老套的不合理答案，类似于‘我们看到它就知道它了’。”
-UTM 在 X 上发布了关于其被拒绝的消息。“App Store 审查委员会认定‘PC 不是游戏机’，尽管 PC 上有复古的 Windows / DOS 游戏，UTM SE 可以在其中运行，”根据帖子。
+UTM 在 X 上发布了关于其被拒绝的消息。“App Store 审查委员会认定‘PC 不是游戏机’，尽管 UTM SE 可以在 PC 上运行复古的 Windows / DOS 游戏，”根据帖子。
 UTM 还指出，Apple 禁止 UTM SE 被公证为第三方应用商店因为该应用显然违反了指南 2.5.2。该规则规定，应用必须是独立的，不能执行“引入或更改应用（包括其他应用）特性或功能”的代码。
 Apple 通常不允许即时 (JIT) 编译。然而，有点令人困惑的是，UTM 表示 UTM SE 不包含即时编译。此外，苹果澄清说，准则 4.7 允许应用程序提供“未嵌入二进制文件的某些软件”，这是“仅适用于 App Store 应用程序的例外”，但 UTM SE 并不符合这一条件，UTM 在后续帖子中表示。
 苹果没有回复置评请求。 
@@ -122,28 +129,6 @@ OG Deck 甚至可以玩一些大型开放世界游戏，例如 Elden Ring 及其
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/6/24/24185013/homeland-security-china-artificial-intelligence-priorities-memo-mayorkas</guid>
       <pubDate>Mon, 24 Jun 2024 20:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 错误地将真实照片标记为“由人工智能制作”</title>
-      <link>https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-多位摄影师是抱怨 Meta 错误地将“AI 制作”标签添加到他们拍摄的真实照片中，TechCrunch 报道。
-过去几个月，几位摄影师分享了相关示例，Meta 最近将前白宫摄影师 Pete Souza 拍摄的篮球比赛照片标记为 AI 生成的。在另一个近期的例子中，Meta 错误地将标签添加到加尔各答骑士队赢得印度板球超级联赛锦标赛的 Instagram 照片。有趣的是，与 Souza 的照片一样，该标签仅在移动设备上查看图像时显示，而不是在网络上显示。
-Souza 说他试图取消选中该标签，但未能成功。他推测，在将图像保存为 JPEG 图像之前，使用 Adob​​e 的裁剪工具和拼合图像可能会触发 Meta 的算法。
-
-然而，据 PetaPixel 报道，当摄影师使用 Adob​​e 的生成填充等生成 AI 工具去除哪怕是最小的物体时，Meta 也会错误地将真实照片标记为 AI。该出版物使用 Photoshop 的生成填充工具从图像中去除斑点，然后 Meta 在 Instagram 上将其标记为 AI 生成。然而，奇怪的是，当 PetaPixel 将文件上传回 Photoshop，然后将其复制并粘贴到黑色文档中保存时，Meta 并没有添加“使用 AI 制作”标签。
-多位摄影师表达了他们的不满，认为如此小的编辑被不公平地标记为 AI 生成。
-“如果‘修饰过的’照片是‘使用 AI 制作的’，那么这个词实际上就没有意义，”摄影师 Noah Kalina 在 Threads 上写道。 “如果他们真的想保护人们，他们还不如自动给每张照片贴上‘不是真实表现’的标签。”
-Meta 发言人 Kate McLaughlin 在向 The Verge 发表的声明中表示，该公司已经意识到了这个问题，并正在评估其方法，“以便 [其] 标签能够反映图像中使用的 AI 数量。”
-“我们依赖其他公司在其工具的内容中包含的行业标准指标，因此我们正在积极与这些公司合作改进流程，以便我们的标签方法符合我们的意图，”McLaughlin 补充道。
-2 月，Meta 宣布将开始在照片上添加“使用 AI 制作”标签今年选举季前，Facebook、Instagram 和 Threads 上上传了一系列照片。具体来说，该公司表示将为使用谷歌、OpenAI、微软、Adobe、Midjourney 和 Shutterstock 的工具制作的 AI 生成照片添加标签。
-Meta 尚未透露触发“使用 AI 制作”标签的具体原因，但所有这些公司都已经（或正在努力）将元数据添加到图像文件中以表示使用 AI 工具，这是 Meta 识别 AI 生成照片的一种方式。例如，Adobe 去年发布其内容凭证系统时，开始将有关内容来源的信息添加到元数据中。
-]]></description>
-      <guid>https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels</guid>
-      <pubDate>Mon, 24 Jun 2024 18:21:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
