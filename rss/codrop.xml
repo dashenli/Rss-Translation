@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 21 Jun 2024 12:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 15:18:30 GMT</lastBuildDate>
+    <item>
+      <title>励志网站汇总：Webflow 特刊 #5</title>
+      <link>https://tympanus.net/codrops/2024/06/25/inspirational-websites-roundup-webflow-special-5/</link>
+      <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/25/inspirational-websites-roundup-webflow-special-5/</guid>
+      <pubDate>Tue, 25 Jun 2024 14:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#850</title>
+      <link>https://tympanus.net/codrops/collective/collective-850/</link>
+      <description><![CDATA[菜单设计清单 * STL Twister * DGM.js * ASCII Silhouettify]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-850/</guid>
+      <pubDate>Tue, 25 Jun 2024 12:14:23 GMT</pubDate>
+    </item>
     <item>
       <title>集体#849</title>
       <link>https://tympanus.net/codrops/collective/collective-849/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[差距 * 计算机之外的设计 * 为什么 6 年后我不再使用 GraphQL * Fusion]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-846/</guid>
       <pubDate>Tue, 11 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：ToyFight——2024 年</title>
-      <link>https://tympanus.net/codrops/2024/06/11/case-study-toyfight-2024/</link>
-      <description><![CDATA[新 ToyFight 网站的设计和开发概况。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/11/case-study-toyfight-2024/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#845</title>
-      <link>https://tympanus.net/codrops/collective/collective-845/</link>
-      <description><![CDATA[Three.js 着色语言 * CSS 动画的新魔法 * 逐步增强的 Popover Toggletips]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-845/</guid>
-      <pubDate>Fri, 07 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

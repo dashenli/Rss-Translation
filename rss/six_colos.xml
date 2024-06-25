@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 24 Jun 2024 18:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 15:17:18 GMT</lastBuildDate>
+    <item>
+      <title>为编排应用时代做好准备</title>
+      <link>https://sixcolors.com/post/2024/06/preparing-for-the-era-of-orchestrated-apps/</link>
+      <description><![CDATA[Apple 的 WWDC 2024 中的 App Intents 幻灯片。
+我们还需要几年时间才能真正看到 Apple 通过 Apple Intelligence 采用全系统 AI 功能的影响。…]]></description>
+      <guid>https://sixcolors.com/post/2024/06/preparing-for-the-era-of-orchestrated-apps/</guid>
+      <pubDate>Tue, 25 Jun 2024 13:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 518：拥有很多钱并不意味着你就是一家银行</title>
       <link>https://sixcolors.com/podcast/2024/06/upgrade-518-having-lots-of-money-doesnt-make-you-a-bank/</link>
@@ -26,9 +34,9 @@
     <item>
       <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
+      <description><![CDATA[欧盟委员会就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
 
-今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
+今天，欧盟委员会告知苹果公司，其初步意见是其 App Store 规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
@@ -80,7 +88,7 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
     <item>
       <title>苹果拒绝公证模拟器应用程序↦</title>
       <link>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</link>
-      <description><![CDATA[这件事显然发生在 WWDC 之前，所以我错过了，但它值得大家关注。Apple 拒绝了 UTM 模拟器应用，不仅是在全球应用商店，而且还拒绝了欧盟所有第三方应用商店的认证。…]]></description>
+      <description><![CDATA[这件事显然发生在 WWDC 之前，所以我错过了，但它值得大家关注。Apple 拒绝了 UTM 模拟器应用，不仅是在全球应用商店，而且欧盟所有第三方应用商店也拒绝对其进行公证。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/apple-refuses-to-notarize-emulator-app/</guid>
       <pubDate>Tue, 18 Jun 2024 16:32:14 GMT</pubDate>
     </item>
@@ -115,15 +123,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <description><![CDATA[Vulture 的 Josef Adalian 与 Jason 一起讨论了最新交易失败后派拉蒙的命运，华纳兄弟探索频道 (Warner Bros. Discovery) 开始实施体育版权 B 计划，而 Joe 则向我们介绍了他在 Vulture 上的流媒体排名。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/downstream-71-mountain-of-mishegas/</guid>
       <pubDate>Sat, 15 Jun 2024 01:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纽约杂志》称赞 Vision Pro 的可访问性 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/new-york-magazine-lauds-vision-pros-accessibility/</link>
-      <description><![CDATA[作家安德鲁·利兰（Andrew Leland）的回忆录《盲人之国》（The Country of the Blind）去年获得了评论界的一致好评，他为《纽约》杂志撰写了一篇专题文章，介绍了 Apple Vision Pro 如何为视力低下、肢体差异和认知障碍人士提供无障碍便利：
-
-神经多样性用户也发现了 AVP 的价值。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/new-york-magazine-lauds-vision-pros-accessibility/</guid>
-      <pubDate>Fri, 14 Jun 2024 19:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
