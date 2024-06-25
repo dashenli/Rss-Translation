@@ -4,20 +4,20 @@
     <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 互联网上现在正在讨论什么</description>
-    <lastBuildDate>Tue, 25 Jun 2024 09:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:27:04 GMT</lastBuildDate>
+    <item>
+      <title>这三个大都市地区的房价上涨了 15% 以上</title>
+      <link>https://rss.digg.com/real-estate/link/home-price-increases-metro-areas-us</link>
+      <description><![CDATA[某个大都市地区的房屋销售价格比 2023 年高出了惊人的 21%。]]></description>
+      <guid>https://rss.digg.com/real-estate/link/home-price-increases-metro-areas-us</guid>
+      <pubDate>Fri, 21 Jun 2024 15:54:04 GMT</pubDate>
+    </item>
     <item>
       <title>海蒂·克鲁姆在“Hot Ones”节目中品尝“Da Bomb”，立即脱掉上衣</title>
       <link>https://rss.digg.com/digg-vids/link/heidi-klum-top-off-hot-ones-video</link>
       <description><![CDATA[在大家最喜欢的以鸡翅为主题的访谈节目的拍摄过程中，事情变得异常激烈。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/heidi-klum-top-off-hot-ones-video</guid>
       <pubDate>Fri, 21 Jun 2024 13:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2000 年左右，娃娃脸的埃米纳姆在 SNL 节目中表演了一段搞笑的老派说唱</title>
-      <link>https://rss.digg.com/digg-vids/link/eminem-snl-weekend-update-2000-video</link>
-      <description><![CDATA[随着埃米纳姆开始占领音乐舞台，这首对老派嘻哈音乐的充满爱意的模仿歌曲展现了他对这种音乐类型的真挚热爱。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/eminem-snl-weekend-update-2000-video</guid>
-      <pubDate>Fri, 21 Jun 2024 12:59:50 GMT</pubDate>
     </item>
     <item>
       <title>女子起诉男友未送她去机场，本周最奇怪的世界新闻还有更多</title>
@@ -46,13 +46,6 @@
       <description><![CDATA[焦英·萨默斯 (Jiaoying Summers) 不是一部 PC 漫画，她要与整个国家争吵。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/Jiaoying-Summers-comedian-video</guid>
       <pubDate>Thu, 20 Jun 2024 18:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的幽默感如何随着年龄而改变？统计分析</title>
-      <link>https://rss.digg.com/stat-significant/link/how-does-our-sense-of-humor-change-with-age-a-statistical-analysis</link>
-      <description><![CDATA[我们的喜剧情感是如何随着时间的推移而形成和转变的？]]></description>
-      <guid>https://rss.digg.com/stat-significant/link/how-does-our-sense-of-humor-change-with-age-a-statistical-analysis</guid>
-      <pubDate>Thu, 20 Jun 2024 17:10:58 GMT</pubDate>
     </item>
     <item>
       <title>男子在法国跳蚤市场买了一台 60 年前的相机，却发现里面有未冲洗的胶卷——接下来发生的事情非同寻常</title>
@@ -90,6 +83,13 @@
       <pubDate>Thu, 20 Jun 2024 09:35:14 GMT</pubDate>
     </item>
     <item>
+      <title>卫生纸、规划、汗流浃背的奶酪：节日期间我们的注意事项</title>
+      <link>https://rss.digg.com/culture/link/festival-dos-donts-summer-tips</link>
+      <description><![CDATA[今年夏天要去参加音乐节吗？请务必先阅读这些提示。]]></description>
+      <guid>https://rss.digg.com/culture/link/festival-dos-donts-summer-tips</guid>
+      <pubDate>Tue, 18 Jun 2024 10:04:07 GMT</pubDate>
+    </item>
+    <item>
       <title>八个让我们对技术支持感到难过的 IT 噩梦故事</title>
       <link>https://rss.digg.com/tech/link/wild-it-tech-support-stories-reddit</link>
       <description><![CDATA[很多办公室职员连基本的故障排除能力都没有，这并不奇怪，但这些故事却让我们感到抓狂。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Mon, 17 Jun 2024 13:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>玩“非常糟糕的象棋”</title>
-      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
-      <description><![CDATA[与普通国际象棋不同，在“非常糟糕的国际象棋”中，棋子的分配是随机的，而不是镜像的。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
+      <title>玩“Typeshift”</title>
+      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
+      <description><![CDATA[您的目标是使每个字母都变得坚实。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
+      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
