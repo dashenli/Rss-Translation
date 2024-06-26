@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Wed, 26 Jun 2024 09:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 12:29:44 GMT</lastBuildDate>
+    <item>
+      <title>创建发光文本选框动画</title>
+      <link>https://tympanus.net/codrops/2024/06/26/creating-a-glowing-text-marquee-animation/</link>
+      <description><![CDATA[了解如何仅使用 HTML 和 CSS 创建具有跑马灯效果的发光 SV​​G 文本动画。]]></description>
+      <guid>https://tympanus.net/codrops/2024/06/26/creating-a-glowing-text-marquee-animation/</guid>
+      <pubDate>Wed, 26 Jun 2024 09:55:49 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站汇总：Webflow 特刊 #5</title>
       <link>https://tympanus.net/codrops/2024/06/25/inspirational-websites-roundup-webflow-special-5/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[介绍如何利用有符号距离场 (SDF) 的功能在 WebGL 中绘制形状并创建交互式效果，例如镜头模糊。]]></description>
       <guid>https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/</guid>
       <pubDate>Wed, 12 Jun 2024 09:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#846</title>
-      <link>https://tympanus.net/codrops/collective/collective-846/</link>
-      <description><![CDATA[差距 * 计算机之外的设计 * 为什么 6 年后我不再使用 GraphQL * Fusion]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-846/</guid>
-      <pubDate>Tue, 11 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
