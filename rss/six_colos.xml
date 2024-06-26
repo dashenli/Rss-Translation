@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 25 Jun 2024 18:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 15:17:49 GMT</lastBuildDate>
+    <item>
+      <title>Apple Vision SE 是空间计算成功的关键吗？（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2377065/apples-vision-strategy-comes-into-focus.html</link>
+      <description><![CDATA[尽管 Apple Intelligence 可能已经成为本月全球开发者大会主题演讲的焦点，但苹果去年的重大公告并没有被完全遗忘。…]]></description>
+      <guid>https://www.macworld.com/article/2377065/apples-vision-strategy-comes-into-focus.html</guid>
+      <pubDate>Wed, 26 Jun 2024 12:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>总结 Bartender 的替代品 ↦</title>
       <link>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</link>
@@ -43,9 +50,9 @@
     <item>
       <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
+      <description><![CDATA[欧盟委员会就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
 
-今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
+今天，欧盟委员会告知苹果公司，其初步意见是其 App Store 规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
@@ -67,9 +74,9 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <pubDate>Fri, 21 Jun 2024 18:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀节目</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
-      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 在舞台上为 The Talk Show Live 采访了 Apple 高管，他多年来一直都是这么做的。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
       <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
     </item>
@@ -116,15 +123,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
 苹果表示，这一变化从今天开始生效。拥有 Apple Pay Later 贷款的现有用户仍可通过 Wallet 应用进行管理。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/apple-pay-later-where-later-means-never/</guid>
       <pubDate>Mon, 17 Jun 2024 19:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
-      <link>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-youtube-ad-blocker-for-safari-16/</link>
-      <description><![CDATA[
-您想在 iPhone、iPad 和 Mac 上的 Safari 中屏蔽所有 YouTube 广告吗？
-然后下载 Magic Lasso Adblock ——专为您设计的广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/06/magic-lasso-adblock-youtube-ad-blocker-for-safari-16/</guid>
-      <pubDate>Mon, 17 Jun 2024 16:00:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
