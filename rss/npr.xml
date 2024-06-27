@@ -4,7 +4,21 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Thu, 27 Jun 2024 03:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:19:06 GMT</lastBuildDate>
+    <item>
+      <title>丹麦将对产气的牛和猪征收碳税，这是第一个这样做的国家</title>
+      <link>https://www.npr.org/2024/06/27/nx-s1-5021147/denmark-carbon-tax-cows-pigs-farms-worlds-first</link>
+      <description><![CDATA[自 2020 年以来，甲烷水平上升尤为迅速。联合国环境规划署称，牲畜排放的甲烷约占人类排放总量的 32%。]]></description>
+      <guid>https://www.npr.org/2024/06/27/nx-s1-5021147/denmark-carbon-tax-cows-pigs-farms-worlds-first</guid>
+      <pubDate>Thu, 27 Jun 2024 06:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊成为第五家市值达到 2 万亿美元的美国公司</title>
+      <link>https://www.npr.org/2024/06/27/g-s1-6525/amazon-2-trillion-stock-market-value</link>
+      <description><![CDATA[过去 12 个月，亚马逊的股价上涨了 52%，部分原因是人们对该公司在人工智能方面的投资热情高涨。]]></description>
+      <guid>https://www.npr.org/2024/06/27/g-s1-6525/amazon-2-trillion-stock-market-value</guid>
+      <pubDate>Thu, 27 Jun 2024 05:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>玻利维亚正在酝酿军事政变，军队和坦克已上街</title>
       <link>https://www.npr.org/2024/06/26/nx-s1-5020661/a-military-coup-attempt-is-underway-in-bolivia-with-troops-and-tanks-on-the-streets</link>
@@ -29,7 +43,7 @@
     <item>
       <title>朱利安·阿桑奇的认罪协议对揭露政府机密的记者意味着什么</title>
       <link>https://www.npr.org/2024/06/26/nx-s1-5019518/what-julian-assanges-plea-deal-means-for-journalists-who-expose-government-secrets</link>
-      <description><![CDATA[朱利安·阿桑奇因发布机密文件而避免了在美国接受审判或进一步监禁，但他的认罪协议表明记者不能指望逃避因发布此类政府机密而受到的起诉。]]></description>
+      <description><![CDATA[朱利安·阿桑奇因发布机密文件而避免了在美国接受审判或进一步监禁，但他的认罪协议表明记者不能指望因发布此类政府机密而逃避起诉。]]></description>
       <guid>https://www.npr.org/2024/06/26/nx-s1-5019518/what-julian-assanges-plea-deal-means-for-journalists-who-expose-government-secrets</guid>
       <pubDate>Wed, 26 Jun 2024 22:29:59 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[保险公司承保的药品数量比 2010 年少，而且患者需要经过更多环节才能获得这些药品，而且需要支付更多费用。GoodRx 的一份报告记录了这些问题。]]></description>
       <guid>https://www.npr.org/2024/06/26/nx-s1-5018655/insurance-covers-fewer-drugs-than-in-2010-and-theyre-harder-to-get</guid>
       <pubDate>Wed, 26 Jun 2024 22:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>医疗团体对以色列禁止从加沙撤离的禁令提出质疑。以色列会屈服吗？</title>
-      <link>https://www.npr.org/sections/goats-and-soda/2024/06/26/nx-s1-5020522/gaza-israel-medical-evacuations-war</link>
-      <description><![CDATA[据联合国和其他组织称，以色列禁止大多数加沙患者撤离接受治疗。现在，以色列允许一群儿童患者及其监护人撤离。]]></description>
-      <guid>https://www.npr.org/sections/goats-and-soda/2024/06/26/nx-s1-5020522/gaza-israel-medical-evacuations-war</guid>
-      <pubDate>Wed, 26 Jun 2024 21:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>政变失败后，军队逃离玻利维亚政府大楼，将军被拘留</title>
-      <link>https://www.npr.org/2024/06/26/nx-s1-5020668/bolivia-coup-attempt</link>
-      <description><![CDATA[玻利维亚将军胡安·何塞·苏尼加 (Juan José Zúñiga) 似乎是这场叛乱的幕后黑手，在司法部长对他展开调查后，他被逮捕。目前还不清楚对他的指控是什么。]]></description>
-      <guid>https://www.npr.org/2024/06/26/nx-s1-5020668/bolivia-coup-attempt</guid>
-      <pubDate>Wed, 26 Jun 2024 21:28:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
