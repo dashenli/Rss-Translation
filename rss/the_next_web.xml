@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 27 Jun 2024 09:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:27:38 GMT</lastBuildDate>
+    <item>
+      <title>欧盟向 4 家人工智能初创公司奖励 100 万欧元和 800 万个超级计算小时</title>
+      <link>https://thenextweb.com/news/eu-awards-1-million-euro-8-million-supercomputing-hours-ai-startups</link>
+      <description><![CDATA[欧盟超级计算机联盟昨日宣布了人工智能初创企业大赛的获胜者。四家公司将瓜分 100 万欧元，以及世界一流高性能计算机系统的宝贵正常运行时间，以训练他们的模型。训练和运行人工智能需要大量的计算资源。例如，作为与 OpenAI 交易的一部分，微软为其新投资打造了世界上最强大的超级计算机之一 Eagle。埃隆·马斯克正计划为他的新人工智能初创公司 xAI 打造一台基于 Nvidia 的大型超级计算机。欧盟一直在努力争取所谓的“数字主权”，这已不是什么秘密。令人恐惧…本报道在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/eu-awards-1-million-euro-8-million-supercomputing-hours-ai-startups</guid>
+      <pubDate>Thu, 27 Jun 2024 08:43:58 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟向四家人工智能初创公司奖励 10 亿欧元和 800 万小时超级计算时间</title>
       <link>https://thenextweb.com/news/eu-awards-1-billion-euro-8-million-supercomputing-hours-ai-startups</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[虽然 Stability AI 最新的图像生成模型 Stable Diffusion 3 可能取得了成功，但该公司幕后的情况却略显动荡。然而，随着今天的融资公告，眼前的财务困境似乎暂时结束了。在创始人兼首席执行官 Emad Mostaque 因管理不善和财富杂志所称的“投资者叛变”于 3 月离职后，接近该公司的消息人士上个月报道称，Stability AI 正在考虑出售。（据记录显示，Mostaque 本人表示，他离开是为了追求“去中心化的人工智能”。）他们离破产有多近......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/stable-diffusion-live-stability-ai-confirms-rescue-deal-new-ceo</guid>
       <pubDate>Tue, 25 Jun 2024 16:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 为欧洲 AI 初创企业设立的新加速器可能是好事，也可能是坏事</title>
-      <link>https://thenextweb.com/news/metas-new-accelerator-european-ai-startups-blessing-or-curse</link>
-      <description><![CDATA[在科技巨头与欧盟关系紧张的背景下，Meta 宣布在欧洲推出第二家 AI 初创企业加速器。该加速器面向希望将开源基础模型（如 Llama 和 Mistral 7B）集成到其产品中的初创企业。为了实施该计划，Meta 再次与托管机器学习模型和工具的美国开源平台 Hugging Face 以及 AI 基础设施的欧洲云提供商 Scaleway 合作。该计划将首先选择五家处于 MVP（最小可行产品）或产品阶段的初创公司。入围者将接受 Meta 人工智能研究团队的技术指导…This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/metas-new-accelerator-european-ai-startups-blessing-or-curse</guid>
-      <pubDate>Tue, 25 Jun 2024 14:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

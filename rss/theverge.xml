@@ -4,7 +4,30 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 09:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:26:22 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 正尝试与各大唱片公司达成 AI 音乐交易</title>
+      <link>https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner</link>
+      <description><![CDATA[
+
+YouTube 预计将在今年晚些时候推出新的 AI 工具，这些工具将通过这些交易进行训练。 |插图由 Alex Castro / The Verge 提供
+
+去年，YouTube 推出了一项生成式 AI 功能，可以制作出 Charli XCX、John Legend 和 T-Pain 等著名艺术家风格的音乐。现在，YouTube 正在请求各大唱片公司允许其克隆更多音乐家。据《金融时报》报道，谷歌旗下的视频平台将向环球音乐集团 (UMG)、索尼音乐娱乐和华纳唱片支付“一笔现金”，以换取他们授权歌曲来合法训练其 AI 音乐工具。
+
+YouTube 告诉《金融时报》，它不打算扩大 Dream Track——在测试阶段仅得到 10 位艺术家的支持——但证实它“正在与唱片公司就其他实验进行对话”。据报道，该平台旨在从“数十位”艺术家那里获得音乐许可，这些音乐将用于训练 YouTube 计划在今年晚些时候推出的新 AI 工具。YouTube 愿意为这些许可支付的费用尚未披露，但报告称，这些费用很可能是一次性付款，而不是基于版税的安排。
+
+无论如何，艺术家和代表他们的唱片公司都可能需要一些说服力。索尼音乐已广泛警告人工智能公司不要“未经授权使用”其内容，而由于对人工智能生成音乐的保护不足导致许可谈判破裂，UMG 愿意暂时从 TikTok 撤下其全部音乐目录。早在 1 月份，超过 200 名艺术家（包括 Billie Eilish、Pearl Jam 和 Katy Perry）也呼吁科技公司停止使用 AI“侵犯和贬低人类艺术家的权利”。
+就在这些讨论的消息发布的几天前，代表索尼、华纳和环球等唱片公司的美国唱片业协会 (RIAA) 分别对两家顶级生成 AI 音乐公司提起了侵犯版权诉讼。唱片公司声称，Suno 和 Udio 的作品是“大规模未经许可的录音复制”而成，RIAA 要求对每次侵权行为赔偿高达 15 万美元。]]></description>
+      <guid>https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner</guid>
+      <pubDate>Thu, 27 Jun 2024 10:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber 将向你支付 1,000 美元，让你在五周内放弃你的汽车</title>
+      <link>https://www.theverge.com/2024/6/27/24186713/uber-ditch-car-challenge-cities-rules</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/6/27/24186713/uber-ditch-car-challenge-cities-rules</guid>
+      <pubDate>Thu, 27 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌翻译将支持超过 110 种新语言</title>
       <link>https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages</link>
@@ -147,31 +170,6 @@ Temu 是 Apple App Store 和 Google Play Store 上排名第一的免费购物应
 Temu、Google 和 Apple 未立即回应置评请求。]]></description>
       <guid>https://www.theverge.com/2024/6/26/24186673/arkansas-ag-lawsuit-temu-pinduoduo-malware</guid>
       <pubDate>Wed, 26 Jun 2024 20:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解百思买、塔吉特、沃尔玛等的价格匹配政策</title>
-      <link>https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</guid>
-      <pubDate>Wed, 26 Jun 2024 20:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>一组 R1 越狱者发现 Rabbit 代码中存在巨大安全漏洞</title>
-      <link>https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase</link>
-      <description><![CDATA[
-
-研究人员表示，Rabbit 让安全数据容易受到恶意攻击者的攻击。&lt;​​/em&gt; |照片：David Pierce / The Verge
-
-Rabbit 及其 R1 AI 小工具再次受到攻击，而且比我们发现其启动器实际上可以作为 Android 应用程序安装时严重得多。一个名为 Rabbitude 的开发人员和研究人员表示，他们发现了 API 密钥硬编码在公司的代码库中，使敏感信息面临落入不当之手的风险。 
-这些密钥实际上提供了对 Rabbit 的第三方服务帐户的访问权限，例如其文本转语音提供商 ElevenLabs 和 — 经 404 Media  证实 — 该公司的 SendGrid 帐户，这是它从其 rabbit.tech 域发送电子邮件的方式。据 Rabbitude 称，它对这些 API 密钥（尤其是 ElevenLabs API）的访问意味着它可以访问 R1 设备给出的每个响应。这真是糟糕透顶。
-
-Rabbitude 昨天发表了一篇文章，称其在一个月前就获得了密钥的访问权限，但尽管知道有泄露事件发生，Rabbit 并未采取任何措施来保护信息。自那时起，该组织表示其对大多数密钥的访问权限已被撤销，这表明该公司已轮换了密钥，但截至今天早些时候，它仍可访问 SendGrid 密钥。 
-Rabbit 回应了我们的评论请求，向我们指出了周三中午发布的其网站上的一个页面。公司发言人 Ryan Fenwick 表示，公司将更新该页面以“提供可用的更新”。其网站上的声明呼应了 Rabbit 昨天在其 Discord 频道上发布的帖子，称它正在调查该事件，但尚未发现“我们的关键系统或客户数据安全受到任何损害”。
-继今年春季大肆宣传推出之后，Rabbit R1 表现令人失望。电池续航时间很差，功能设置很简陋，而且其 AI 生成的响应经常包含错误。该公司发布了软件更新，以快速修复电池耗尽等错误，此后一直在发布更新，但 R1 的核心问题（过度承诺和大量交付不足）仍然没有改变。像这样的严重安全漏洞使得重新赢得公众信任变得更加困难。
-更新，6 月 26 日：在 Rabbit 网站上添加了一个支持页面的链接，其中包含其对安全漏洞的回应。
-]]></description>
-      <guid>https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase</guid>
-      <pubDate>Wed, 26 Jun 2024 19:48:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
