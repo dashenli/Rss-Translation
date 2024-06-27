@@ -4,7 +4,16 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Wed, 26 Jun 2024 21:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 15:19:03 GMT</lastBuildDate>
+    <item>
+      <title>冷静下来 — 您的手机不会监听您的对话。它只是...</title>
+      <link>https://kottke.org/24/06/0044883-calm-down-your-phone</link>
+      <description><![CDATA[冷静下来——你的手机并没有在监听你的对话。它只是在追踪你输入的所有内容、你使用的每个应用程序、你访问的每个网站以及你在现实世界中去过的每个地方。“所以不要担心。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/06/0044883-calm-down-your-phone</guid>
+      <pubDate>Thu, 27 Jun 2024 15:12:29 GMT</pubDate>
+    </item>
     <item>
       <title>白色死神</title>
       <link>https://kottke.org/24/06/the-white-death</link>
@@ -153,16 +162,6 @@ Huck 几年前为 Weideman 和他的作品做过简介前。
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/06/0044871-ac-lamberty-writes-about-</guid>
       <pubDate>Tue, 25 Jun 2024 18:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级马里奥兄弟，打字机版</title>
-      <link>https://kottke.org/24/06/super-mario-bros-the-typewriter-edition</link>
-      <description><![CDATA[
-Super Moxio Bros 是使用打字机字符完成的原版 Super Mario Bros 世界 1-1 的一个版本。我没有仔细检查，但很有可能我从 waxy.org 获得了此链接。
-标签： remix · 超级马里奥兄弟 · 视频游戏
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/06/super-mario-bros-the-typewriter-edition</guid>
-      <pubDate>Tue, 25 Jun 2024 17:47:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
