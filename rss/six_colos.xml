@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 28 Jun 2024 01:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 15:16:06 GMT</lastBuildDate>
+    <item>
+      <title>苹果的 Vision 平台需要做的不仅仅是降低成本</title>
+      <link>https://sixcolors.com/post/2024/06/apples-vision-platform-needs-to-do-more-than-get-cheaper/</link>
+      <description><![CDATA[
+Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这是 Apple 打持久战的一个例子，多年来一直试图构建可穿戴计算平台。…]]></description>
+      <guid>https://sixcolors.com/post/2024/06/apples-vision-platform-needs-to-do-more-than-get-cheaper/</guid>
+      <pubDate>Fri, 28 Jun 2024 13:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺流 72：从残骸中打捞出来的鱼叉枪</title>
       <link>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</link>
@@ -103,7 +111,7 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <pubDate>Fri, 21 Jun 2024 18:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀节目</title>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
       <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
@@ -115,13 +123,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <description><![CDATA[Apple 计划推出更便宜的 Vision Pro，我们对覆盖 CG 广告、管理订阅和我们最喜欢的表情符号的感受如何。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/clockwise-559-this-is-a-powerful-emoji/</guid>
       <pubDate>Wed, 19 Jun 2024 18:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 500：第 1000 集</title>
-      <link>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</link>
-      <description><![CDATA[5 件 500 元。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:54:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
