@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 26 Jun 2024 21:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 01:01:37 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺流 72：从残骸中打捞出来的鱼叉枪</title>
+      <link>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</link>
+      <description><![CDATA[电视评论家蒂姆·古德曼 (Tim Goodman) 应邀讨论 WBD 和派拉蒙 (Paramount) 的混乱局面，并介绍他在 Substack 上的最新动态。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</guid>
+      <pubDate>Thu, 27 Jun 2024 23:23:13 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 560：我不喜欢失望</title>
       <link>https://sixcolors.com/podcast/2024/06/clockwise-560-i-dont-like-it-when-im-disappointed/</link>
@@ -72,9 +79,9 @@
     <item>
       <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
       <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
+      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
 
-今天，欧盟委员会告知苹果公司，其初步意见是其 App Store 规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
+今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
@@ -115,13 +122,6 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <description><![CDATA[5 件 500 元。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/the-rebound-500-episode-1000/</guid>
       <pubDate>Wed, 19 Jun 2024 17:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的失败表明其野心是有限的 (Macworld/Jason Snell)</title>
-      <link>https://www.macworld.com/article/2371369/apples-failures-show-limits-of-its-ambition.html</link>
-      <description><![CDATA[苹果是一个巨头。我们中的一些人可能还记得它曾经濒临破产，但如今，它每天创造数千亿美元的收入，市值超过三万亿美元。…]]></description>
-      <guid>https://www.macworld.com/article/2371369/apples-failures-show-limits-of-its-ambition.html</guid>
-      <pubDate>Wed, 19 Jun 2024 13:30:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
