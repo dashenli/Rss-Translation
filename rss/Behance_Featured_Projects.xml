@@ -4,7 +4,16 @@
     <title>特色项目</title>
     <link>http://www.behance.net</link>
     <description>最新项目</description>
-    <lastBuildDate>Fri, 28 Jun 2024 17:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:22:09 GMT</lastBuildDate>
+    <item>
+      <title>货运 TMS 系统 - SaaS 和 UI UX 设计</title>
+      <link>https://www.behance.net/gallery/199111429/Cargo-TMS-System-SaaS-UI-UX-Design</link>
+      <description><![CDATA[ Cargo 是一种飞机装载管理系统，可帮助航空公司优化货物装载操作。它提供了一个可视化界面，用于将货物装载到飞机上，同时考虑重量、尺寸和安全限制。
+
+该应用程序智能地分配飞机货舱内的包裹，根据尺寸、重量和目的地优化空间利用率。这种动态分配可最大限度地减少空置空间，最大限度地提高每个航班的载货能力。]]></description>
+      <guid>https://www.behance.net/gallery/199111429/Cargo-TMS-System-SaaS-UI-UX-Design</guid>
+      <pubDate>Fri, 28 Jun 2024 18:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>“47” - 四十七 - 快乐咖啡</title>
       <link>https://www.behance.net/gallery/199813631/47-FORTY-SEVEN-CAFE-JOYEUX</link>
@@ -113,13 +122,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.behance.net/gallery/201755955/SAKE-SHOW-BCN-24</guid>
       <pubDate>Wed, 26 Jun 2024 05:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿特拉斯</title>
-      <link>https://www.behance.net/gallery/201691615/ATLAS</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.behance.net/gallery/201691615/ATLAS</guid>
-      <pubDate>Wed, 26 Jun 2024 01:01:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
