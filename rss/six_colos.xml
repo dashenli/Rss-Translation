@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 28 Jun 2024 15:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 18:19:09 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）ListenLater.net</title>
+      <link>https://sixcolors.com/sponsor/2024/06/listenlater-net/</link>
+      <description><![CDATA[感谢 ListenLater.net 本周赞助《六色》。
+ListenLater.net 是一个聪明的想法——它将您的阅读列表变成播客播放列表。我整个星期都在收集较长的文章，而我现在没有时间深入研究这些文章——它们经常在混乱中被遗失。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/06/listenlater-net/</guid>
+      <pubDate>Fri, 28 Jun 2024 16:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的 Vision 平台需要做的不仅仅是降低成本</title>
       <link>https://sixcolors.com/post/2024/06/apples-vision-platform-needs-to-do-more-than-get-cheaper/</link>
@@ -111,18 +119,11 @@ Magic Lasso Adblock 是一款适用于 iPhone、iPad 和 Mac 的出色 Safari �
       <pubDate>Fri, 21 Jun 2024 18:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀</title>
+      <title>Sandwich 如何在 Vision Pro 上以 3D 形式直播脱口秀节目</title>
       <link>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</link>
-      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 像往年一样在舞台上为 The Talk Show Live 采访了 Apple 高管。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
+      <description><![CDATA[在上周的 WWDC 庆祝活动中，John Gruber 在舞台上为 The Talk Show Live 采访了 Apple 高管，他多年来一直都是这么做的。这一次有所不同，因为在家中使用 Vision Pro 的人可以通过 Sandwich Vision 的 Theater 应用观看活动直播，并通过 SpatialGen 进行流媒体播放。…]]></description>
       <guid>https://sixcolors.com/post/2024/06/how-sandwich-streamed-the-talk-show-live-in-3d-on-vision-pro/</guid>
       <pubDate>Wed, 19 Jun 2024 20:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 559：这是一个强大的表情符号</title>
-      <link>https://sixcolors.com/podcast/2024/06/clockwise-559-this-is-a-powerful-emoji/</link>
-      <description><![CDATA[Apple 计划推出更便宜的 Vision Pro，我们对覆盖 CG 广告、管理订阅和我们最喜欢的表情符号的感受如何。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/clockwise-559-this-is-a-powerful-emoji/</guid>
-      <pubDate>Wed, 19 Jun 2024 18:55:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

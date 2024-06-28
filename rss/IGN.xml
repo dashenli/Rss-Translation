@@ -4,7 +4,35 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Fri, 28 Jun 2024 15:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 18:17:32 GMT</lastBuildDate>
+    <item>
+      <title>GOG 的《生化危机 2》PC 移植版基于 1998 年的原版 PC 版，而非 Sourcenext 版</title>
+      <link>https://www.ign.com/articles/gogs-resident-evil-2-pc-port-based-on-the-original-1998-port-not-the-sourcenext-version</link>
+      <description><![CDATA[GOG 已确认，即将推出的《生化危机 2》GOG 版本基于 1998 年发布的 PC 端口，而不是 Sourcenext 开发的 2006 年版本。]]></description>
+      <guid>https://www.ign.com/articles/gogs-resident-evil-2-pc-port-based-on-the-original-1998-port-not-the-sourcenext-version</guid>
+      <pubDate>Fri, 28 Jun 2024 17:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>《对马岛之魂》和《地平线：西部之禁》成为首批支持 AMD FSR 3.1 的游戏</title>
+      <link>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</link>
+      <description><![CDATA[AMD 终于发布了其 FSR 3.1 技术，前五款游戏均支持由 Nixxes 开发的 PlayStation PC 端口。]]></description>
+      <guid>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</guid>
+      <pubDate>Fri, 28 Jun 2024 16:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konami 的《合金装备》系列制作人表示再次与小岛秀夫合作是“梦想”</title>
+      <link>https://www.ign.com/articles/konamis-metal-gear-series-producer-says-it-would-be-a-dream-to-work-with-hideo-kojima-again</link>
+      <description><![CDATA[小岛秀夫九年前离开了 Konami 和《合金装备》，但对于现在制作该系列的人来说，让这位传奇开发者重返公司是一个“梦想”。]]></description>
+      <guid>https://www.ign.com/articles/konamis-metal-gear-series-producer-says-it-would-be-a-dream-to-work-with-hideo-kojima-again</guid>
+      <pubDate>Fri, 28 Jun 2024 15:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>大学橄榄球 25：EA Sports 公布排名前 25 的球队</title>
+      <link>https://www.ign.com/articles/college-football-25-best-overall-rated-teams</link>
+      <description><![CDATA[大学橄榄球 25：EA Sports 揭晓排名前 25 的球队。]]></description>
+      <guid>https://www.ign.com/articles/college-football-25-best-overall-rated-teams</guid>
+      <pubDate>Fri, 28 Jun 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>IGN 英国播客 755：宫崎骏的米其林之星</title>
       <link>https://www.ign.com/articles/ign-uk-podcast-755-miyazakis-michelin-star</link>
@@ -36,12 +64,12 @@
     <item>
       <title>《Elden Ring：暗影之厄德利》难度是否过高？</title>
       <link>https://www.ign.com/articles/is-elden-ring-shadow-of-the-erdree-too-difficult</link>
-      <description><![CDATA[《暗影之埃德特里》受到了专业评论家的热烈追捧，但也有不少玩家对《Elden Ring》DLC 的难度表示不满。他们说它太难是对的吗？]]></description>
+      <description><![CDATA[《Shadow of the Erdtree》受到了专业评论家的热烈追捧，但也有不少玩家对《Elden Ring》DLC 的难度表示不满。他们说它太难是对的吗？]]></description>
       <guid>https://www.ign.com/articles/is-elden-ring-shadow-of-the-erdree-too-difficult</guid>
       <pubDate>Fri, 28 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>原版《奇异人生》开发商推迟新游戏发布以避免推出新版《奇异人生》</title>
+      <title>原版《奇异人生》开发商推迟推出新游戏以避免推出新版《奇异人生》</title>
       <link>https://www.ign.com/articles/original-life-is-strange-dev-delays-new-game-to-avoid-new-life-is-strange</link>
       <description><![CDATA[为了避免与新游戏《奇异人生》发生冲突，Don’t Nod 已将其即将推出的游戏《Lost Records: Bloom &amp; Rage》的发布时间从 2024 年第三季度推迟到 2025 年初。]]></description>
       <guid>https://www.ign.com/articles/original-life-is-strange-dev-delays-new-game-to-avoid-new-life-is-strange</guid>
@@ -55,60 +83,32 @@
       <pubDate>Fri, 28 Jun 2024 10:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊的《古墓丽影》和《指环王》视频游戏透露“距离上映并不遥远”</title>
+      <title>亚马逊的《古墓丽影》和《指环王》视频游戏透露“距离我们不远了”</title>
       <link>https://www.ign.com/articles/amazons-tomb-raider-and-lord-of-the-rings-video-game-reveals-not-too-far-away</link>
       <description><![CDATA[亚马逊宣布推出《古墓丽影》和《指环王》电子游戏已经有一段时间了，听起来粉丝们还得等待一段时间才能知道结果。]]></description>
       <guid>https://www.ign.com/articles/amazons-tomb-raider-and-lord-of-the-rings-video-game-reveals-not-too-far-away</guid>
       <pubDate>Fri, 28 Jun 2024 10:03:24 GMT</pubDate>
     </item>
     <item>
-      <title>Palworld 樱岛地图现已推出</title>
-      <link>https://www.ign.com/articles/palworld-sakurajima-island-map</link>
+      <title>独家！《猎杀：决战》-《暗影召唤》黑胶唱片在 IGN 商店接受预订</title>
+      <link>https://www.ign.com/articles/exclusive-hunt-showdown-shadows-calling-vinyl-up-for-pre-order-at-ign-store</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/palworld-sakurajima-island-map</guid>
-      <pubDate>Thu, 27 Jun 2024 20:46:52 GMT</pubDate>
+      <guid>https://www.ign.com/articles/exclusive-hunt-showdown-shadows-calling-vinyl-up-for-pre-order-at-ign-store</guid>
+      <pubDate>Fri, 28 Jun 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>育碧首席执行官谴责《刺客信条：暗影危机》引发的针对开发者的“仇恨行为”</title>
-      <link>https://www.ign.com/articles/ubisoft-ceo-condemns-hateful-acts-against-developers-following-ac-shadows-backlash</link>
-      <description><![CDATA[育碧首席执行官 Yves Guillemot 谈到了针对其员工和合作伙伴的“恶意和人身网络攻击”，并称这是他目前对游戏行业的主要担忧之一。]]></description>
-      <guid>https://www.ign.com/articles/ubisoft-ceo-condemns-hateful-acts-against-developers-following-ac-shadows-backlash</guid>
-      <pubDate>Thu, 27 Jun 2024 19:57:42 GMT</pubDate>
+      <title>刀刃球代码 2024 年 6 月</title>
+      <link>https://www.ign.com/articles/blade-ball-codes-june-2024</link>
+      <description><![CDATA[使用这些 2024 年 6 月有效的 Blade Ball 代码可获得奖金和奖励，包括在大厅免费旋转轮盘和开箱券。]]></description>
+      <guid>https://www.ign.com/articles/blade-ball-codes-june-2024</guid>
+      <pubDate>Thu, 27 Jun 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>育碧首席执行官确认将推出多款《刺客信条》重制版</title>
-      <link>https://www.ign.com/articles/ubisoft-ceo-confirms-multiple-assassins-creed-remakes-are-on-the-way</link>
-      <description><![CDATA[据首席执行官 Yves Guillemot 称，育碧正在制作多款《刺客信条》重制版。]]></description>
-      <guid>https://www.ign.com/articles/ubisoft-ceo-confirms-multiple-assassins-creed-remakes-are-on-the-way</guid>
-      <pubDate>Thu, 27 Jun 2024 19:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elden Ring DLC​​ 中所有 Erdtree 之影：Scadutree 碎片位置</title>
-      <link>https://www.ign.com/articles/shadow-of-the-erdtree-scadutree-fragment-locations-elden-ring-dlc</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/shadow-of-the-erdtree-scadutree-fragment-locations-elden-ring-dlc</guid>
-      <pubDate>Thu, 27 Jun 2024 18:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elden Ring 的“让我单挑她”现在改为“让我单挑他”，这对穿刺者梅斯默来说将带来可怕的后果</title>
-      <link>https://www.ign.com/articles/elden-rings-let-me-solo-her-is-now-let-me-solo-him-with-dire-consequences-for-messmer-the-impaler</link>
-      <description><![CDATA[《Elden Ring》社区中最出色的合作英雄“让我单挑她”已将自己重新命名为“让我单挑他”，似乎将目光瞄准了“暗影 Erdtree”中最强大的 Boss 之一：穿刺者梅斯默。]]></description>
-      <guid>https://www.ign.com/articles/elden-rings-let-me-solo-her-is-now-let-me-solo-him-with-dire-consequences-for-messmer-the-impaler</guid>
-      <pubDate>Thu, 27 Jun 2024 18:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>FromSoftware 母公司遭勒索软件团伙攻击，威胁公布内部数据</title>
-      <link>https://www.ign.com/articles/fromsoftware-parent-company-hacked-by-ransomware-gang-threatening-to-release-internal-data</link>
-      <description><![CDATA[FromSoftware 母公司角川集团承认遭受了重大网络攻击，日本热门视频共享服务 Niconico 是受攻击最严重的部门之一。目前尚不清楚此次攻击对 Elden Ring 开发商的影响程度（如果有的话）。]]></description>
-      <guid>https://www.ign.com/articles/fromsoftware-parent-company-hacked-by-ransomware-gang-threatening-to-release-internal-data</guid>
-      <pubDate>Thu, 27 Jun 2024 17:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 PS5 或 PC 的最快 2TB PCI-E 4.0 M.2 NVMe SSD 之一现已发售</title>
-      <link>https://www.ign.com/articles/one-of-the-fastest-2tb-pcie-m2-nvme-ssds-for-ps5-or-pc-is-on-sale-today</link>
-      <description><![CDATA[仅需 105 美元即可获得]]></description>
-      <guid>https://www.ign.com/articles/one-of-the-fastest-2tb-pcie-m2-nvme-ssds-for-ps5-or-pc-is-on-sale-today</guid>
-      <pubDate>Thu, 27 Jun 2024 17:35:00 GMT</pubDate>
+      <title>动漫 Last Stand 代码 2024 年 6 月</title>
+      <link>https://www.ign.com/articles/anime-last-stand-codes-june-2024</link>
+      <description><![CDATA[使用我们 2024 年 6 月的新且有效的 Anime Last Stand 代码列表为自己赢得一些免费奖励。]]></description>
+      <guid>https://www.ign.com/articles/anime-last-stand-codes-june-2024</guid>
+      <pubDate>Thu, 27 Jun 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
