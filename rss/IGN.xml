@@ -4,7 +4,21 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sat, 29 Jun 2024 15:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 21:13:13 GMT</lastBuildDate>
+    <item>
+      <title>2024 年您一定会喜欢的廉价棋盘游戏</title>
+      <link>https://www.ign.com/articles/best-cheap-board-games</link>
+      <description><![CDATA[这些棋盘游戏和纸牌游戏不会花费太多，所以预算有限不是问题。]]></description>
+      <guid>https://www.ign.com/articles/best-cheap-board-games</guid>
+      <pubDate>Sat, 29 Jun 2024 19:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日特惠：HyperX CloudX、街头霸王 6、弹丸论破 Decadence 等</title>
+      <link>https://www.ign.com/articles/daily-deals-hyperx-cloudx-street-fighter-6-danganronpa-decadence-and-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/daily-deals-hyperx-cloudx-street-fighter-6-danganronpa-decadence-and-more</guid>
+      <pubDate>Sat, 29 Jun 2024 16:55:01 GMT</pubDate>
+    </item>
     <item>
       <title>最初的司机如何彻底颠覆自由漫游脚本</title>
       <link>https://www.ign.com/articles/how-the-original-driver-flipped-the-free-roaming-script-forever</link>
@@ -18,6 +32,13 @@
       <description><![CDATA[今年 4 月，在新加坡开设新的开发工作室后，IGN 采访了 SNK 总裁兼首席执行官松原健二，谈论了公司未来的计划。]]></description>
       <guid>https://www.ign.com/articles/beyond-beat-em-ups-how-snk-aims-to-become-a-top-10-game-publisher</guid>
       <pubDate>Sat, 29 Jun 2024 00:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年即将发布的所有 Nintendo Switch 游戏</title>
+      <link>https://www.ign.com/articles/all-upcoming-nintendo-switch-games</link>
+      <description><![CDATA[正在倒计时 Switch 上的最后一场比赛。]]></description>
+      <guid>https://www.ign.com/articles/all-upcoming-nintendo-switch-games</guid>
+      <pubDate>Fri, 28 Jun 2024 23:02:00 GMT</pubDate>
     </item>
     <item>
       <title>《爱丽丝：疯狂回归》如何在其创始人去世很久之后在互联网上重获新生</title>
@@ -62,7 +83,7 @@
       <pubDate>Fri, 28 Jun 2024 17:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>《对马岛之魂》和《地平线：西部之禁》成为首批支持 AMD FSR 3.1 的游戏</title>
+      <title>《对马岛之魂》和《地平线：西部之禁》是首批支持 AMD FSR 3.1 的游戏</title>
       <link>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</link>
       <description><![CDATA[AMD 终于发布了其 FSR 3.1 技术，前五款游戏均支持由 Nixxes 开发的 PlayStation PC 端口。]]></description>
       <guid>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[大学橄榄球 25：EA Sports 揭晓排名前 25 的球队。]]></description>
       <guid>https://www.ign.com/articles/college-football-25-best-overall-rated-teams</guid>
       <pubDate>Fri, 28 Jun 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IGN 英国播客 755：宫崎骏的米其林之星</title>
-      <link>https://www.ign.com/articles/ign-uk-podcast-755-miyazakis-michelin-star</link>
-      <description><![CDATA[《Elden Ring：Shadow of the Erdtree》、《The Bear 第三季》和《街头霸王 6》。]]></description>
-      <guid>https://www.ign.com/articles/ign-uk-podcast-755-miyazakis-michelin-star</guid>
-      <pubDate>Fri, 28 Jun 2024 14:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zenless Zone Zero：最终预览</title>
-      <link>https://www.ign.com/articles/zenless-zone-zero-preview</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/zenless-zone-zero-preview</guid>
-      <pubDate>Fri, 28 Jun 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elden Ring 开发者 FromSoftware 建议关闭鼠标控制应用以提高 Shadow of the Erdtree 帧率</title>
-      <link>https://www.ign.com/articles/elden-ring-dev-fromsoftware-suggests-turning-off-mouse-control-apps-to-improve-shadow-of-the-erdtree-frame-rate</link>
-      <description><![CDATA[FromSoftware 警告玩家，在玩《Elden Ring》的《Shadow of the Erdtree DLC》时遇到的性能问题可能是由后台运行的计算机鼠标软件引起的。]]></description>
-      <guid>https://www.ign.com/articles/elden-ring-dev-fromsoftware-suggests-turning-off-mouse-control-apps-to-improve-shadow-of-the-erdtree-frame-rate</guid>
-      <pubDate>Fri, 28 Jun 2024 13:06:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
