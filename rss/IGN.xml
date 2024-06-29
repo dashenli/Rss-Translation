@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sat, 29 Jun 2024 12:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 15:13:20 GMT</lastBuildDate>
+    <item>
+      <title>最初的司机如何彻底颠覆自由漫游脚本</title>
+      <link>https://www.ign.com/articles/how-the-original-driver-flipped-the-free-roaming-script-forever</link>
+      <description><![CDATA[有史以来最雄心勃勃的驾驶游戏之一已经问世 25 年。]]></description>
+      <guid>https://www.ign.com/articles/how-the-original-driver-flipped-the-free-roaming-script-forever</guid>
+      <pubDate>Sat, 29 Jun 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>超越 Beat 'Em Ups：SNK 志在成为十大发行商</title>
       <link>https://www.ign.com/articles/beyond-beat-em-ups-how-snk-aims-to-become-a-top-10-game-publisher</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 28 Jun 2024 17:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>《对马岛之魂》和《地平线：西部之禁》是首批支持 AMD FSR 3.1 的游戏</title>
+      <title>《对马岛之魂》和《地平线：西部之禁》成为首批支持 AMD FSR 3.1 的游戏</title>
       <link>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</link>
       <description><![CDATA[AMD 终于发布了其 FSR 3.1 技术，前五款游戏均支持由 Nixxes 开发的 PlayStation PC 端口。]]></description>
       <guid>https://www.ign.com/articles/ghost-of-tsushima-and-horizon-forbidden-west-among-the-first-games-supporting-amd-fsr-31</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[FromSoftware 警告玩家，在玩《Elden Ring》的《Shadow of the Erdtree DLC》时遇到的性能问题可能是由后台运行的计算机鼠标软件引起的。]]></description>
       <guid>https://www.ign.com/articles/elden-ring-dev-fromsoftware-suggests-turning-off-mouse-control-apps-to-improve-shadow-of-the-erdtree-frame-rate</guid>
       <pubDate>Fri, 28 Jun 2024 13:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>英雄传说：黎明之痕评论</title>
-      <link>https://www.ign.com/articles/the-legend-of-heroes-trails-through-daybreak-review</link>
-      <description><![CDATA[长期连载的 JRPG 系列中新篇章的一个令人兴奋的开始。]]></description>
-      <guid>https://www.ign.com/articles/the-legend-of-heroes-trails-through-daybreak-review</guid>
-      <pubDate>Fri, 28 Jun 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
