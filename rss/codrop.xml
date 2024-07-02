@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 28 Jun 2024 12:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 15:16:35 GMT</lastBuildDate>
+    <item>
+      <title>使用带有 OGL 和 GLSL 着色器的 WebGL 实现渐进式模糊效果</title>
+      <link>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</link>
+      <description><![CDATA[了解如何使用 WebGL、OGL 和 GLSL 着色器创建有趣的渐进模糊效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#852</title>
+      <link>https://tympanus.net/codrops/collective/collective-852/</link>
+      <description><![CDATA[htmx 2.0.0 * The Okay Dev（测试版）* 了解 SPF、DKIM 和 DMARC]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-852/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>集体#851</title>
       <link>https://tympanus.net/codrops/collective/collective-851/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[弹窗戏剧 * 坚定不移的自主托管 * 创造日光：Devex]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-848/</guid>
       <pubDate>Tue, 18 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站汇总#61</title>
-      <link>https://tympanus.net/codrops/2024/06/18/inspirational-websites-roundup-61/</link>
-      <description><![CDATA[查看我们最新挑选的具有精彩设计的网站，让您随时了解最新趋势。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/18/inspirational-websites-roundup-61/</guid>
-      <pubDate>Tue, 18 Jun 2024 09:32:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Chromatic 和 Playwright 对网站进行视觉测试</title>
-      <link>https://tympanus.net/codrops/2024/06/17/how-to-visual-test-websites-with-chromatic-and-playwright/</link>
-      <description><![CDATA[了解如何使用 Chromatic 和 Playwright 对网站进行视觉测试，以确保 Web 界面保持视觉一致且无错误。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/17/how-to-visual-test-websites-with-chromatic-and-playwright/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:22:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

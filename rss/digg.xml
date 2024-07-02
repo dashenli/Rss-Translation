@@ -4,7 +4,21 @@
     <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 互联网上现在正在讨论什么</description>
-    <lastBuildDate>Tue, 02 Jul 2024 12:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 15:15:39 GMT</lastBuildDate>
+    <item>
+      <title>拜登-特朗普辩论：好的、坏的和丑陋的</title>
+      <link>https://rss.digg.com/politics/link/trump-biden-presidential-debate-2024-reactions-memes</link>
+      <description><![CDATA[两位候选人在辩论中都表现出了各自最糟糕的一面。]]></description>
+      <guid>https://rss.digg.com/politics/link/trump-biden-presidential-debate-2024-reactions-memes</guid>
+      <pubDate>Fri, 28 Jun 2024 12:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>法院披露鲁迪·朱利安尼在亚马逊疯狂购物的购买记录</title>
+      <link>https://rss.digg.com/digg-vids/link/Rudy-Giuliani-Amazon-spending-revealed-404-media-video</link>
+      <description><![CDATA[从他的破产法庭文件中，我们可以看到朱利安尼花了数千美元，同时仍欠大约 20 个人或实体 1.53 亿美元。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/Rudy-Giuliani-Amazon-spending-revealed-404-media-video</guid>
+      <pubDate>Thu, 27 Jun 2024 20:42:15 GMT</pubDate>
+    </item>
     <item>
       <title>爸爸们想成为水上滑道故障的英雄，但最终却成了湿漉漉的傻瓜</title>
       <link>https://rss.digg.com/digg-vids/link/Six-Flags-Fiesta-Texas-Gully-Washer-Ride-Malfunction-Video</link>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 27 Jun 2024 12:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>您所在州最流行的非法药物有哪些？</title>
+      <title>您所在州最流行的非法药物是哪种？</title>
       <link>https://rss.digg.com/data-viz/link/illegal-drugs-state-us-reddit</link>
       <description><![CDATA[西海岸确实喜欢致幻剂。]]></description>
       <guid>https://rss.digg.com/data-viz/link/illegal-drugs-state-us-reddit</guid>
@@ -69,13 +83,6 @@
       <pubDate>Tue, 25 Jun 2024 14:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>这处价值 6800 万美元的房产适合超级恶棍。四处看看</title>
-      <link>https://rss.digg.com/real-estate/link/oakley-founder-house-beverly-hills-supervillain-photos</link>
-      <description><![CDATA[这座野兽派建筑位于比佛利山庄，是我们见过的最狂野的房屋之一。]]></description>
-      <guid>https://rss.digg.com/real-estate/link/oakley-founder-house-beverly-hills-supervillain-photos</guid>
-      <pubDate>Tue, 25 Jun 2024 11:13:10 GMT</pubDate>
-    </item>
-    <item>
       <title>富人脱离现实的九种令人愤怒的方式</title>
       <link>https://rss.digg.com/internet-culture/link/wealthy-rich-out-touch-reddit</link>
       <description><![CDATA[当你达到一定的财富水平时，你就与其他人脱离了束缚。]]></description>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 24 Jun 2024 15:43:37 GMT</pubDate>
     </item>
     <item>
-      <title>埃马纽埃尔·马克龙喝了太多开胃酒吗？</title>
-      <link>https://airmail.news/issues/2024-6-22/coup-de-disgrace</link>
-      <description><![CDATA[法国对于总统在夏季奥运会前几周呼吁提前举行选举感到困惑。]]></description>
-      <guid>https://airmail.news/issues/2024-6-22/coup-de-disgrace</guid>
-      <pubDate>Sat, 22 Jun 2024 17:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩“非常糟糕的象棋”</title>
-      <link>https://rss.digg.com/puzzmo/link/really-bad-chess</link>
-      <description><![CDATA[与普通国际象棋不同，在“非常糟糕的国际象棋”中，棋子的分配是随机的，而不是镜像的。]]></description>
-      <guid>https://rss.digg.com/puzzmo/link/really-bad-chess</guid>
-      <pubDate>Mon, 11 Dec 2023 20:23:12 GMT</pubDate>
+      <title>玩“Typeshift”</title>
+      <link>https://rss.digg.com/puzzmo/link/typeshift</link>
+      <description><![CDATA[您的目标是使每个字母都变得坚实。]]></description>
+      <guid>https://rss.digg.com/puzzmo/link/typeshift</guid>
+      <pubDate>Mon, 11 Dec 2023 20:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
