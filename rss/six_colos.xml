@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 02 Jul 2024 21:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:16:42 GMT</lastBuildDate>
+    <item>
+      <title>嘿 Siri？不，我不是说你。（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2384132</link>
+      <description><![CDATA[我们即将进入 Apple Intelligence 时代，它有望彻底改变我们使用 Apple 设备的方式。最重要的是，将 Apple Intelligence 添加到 Siri 有望解决 Apple“智能”助手的许多令人沮丧的问题。…]]></description>
+      <guid>https://www.macworld.com/article/2384132</guid>
+      <pubDate>Wed, 03 Jul 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>MacStories 呼吁限制人工智能训练 ↦</title>
       <link>https://sixcolors.com/link/2024/07/macstories-calls-for-restraints-on-ai-training/</link>
@@ -116,15 +123,6 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
 今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
       <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果：由于 DMA，一些新功能不会在欧盟推出 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/apple-some-new-features-wont-come-to-eu-due-to-the-dma/</link>
-      <description><![CDATA[苹果公司宣布，由于欧洲法规，其最近在 WWDC 上宣布的一些功能今年将不会在欧盟推出。彭博社的 Samuel Stolton 和 Mark Gurman 报道：
-
-Apple Inc.…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/apple-some-new-features-wont-come-to-eu-due-to-the-dma/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:55:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
