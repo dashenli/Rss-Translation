@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 02 Jul 2024 15:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:29:09 GMT</lastBuildDate>
+    <item>
+      <title>UI 交互和动画综述#45</title>
+      <link>https://tympanus.net/codrops/2024/07/03/ui-interactions-animations-roundup-45/</link>
+      <description><![CDATA[来自 Dribbble 的全新运动设计和动画灵感选择。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/03/ui-interactions-animations-roundup-45/</guid>
+      <pubDate>Wed, 03 Jul 2024 09:52:43 GMT</pubDate>
+    </item>
     <item>
       <title>使用带有 OGL 和 GLSL 着色器的 WebGL 实现渐进式模糊效果</title>
       <link>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一些有趣的类似终端的字符悬停动画，用于文本行。]]></description>
       <guid>https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/</guid>
       <pubDate>Wed, 19 Jun 2024 13:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#848</title>
-      <link>https://tympanus.net/codrops/collective/collective-848/</link>
-      <description><![CDATA[弹窗戏剧 * 坚定不移的自主托管 * 创造日光：Devex]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-848/</guid>
-      <pubDate>Tue, 18 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

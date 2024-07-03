@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:28:17 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：从卫星跟踪和太空监管到多模式人工智能等等</title>
+      <link>https://thenextweb.com/news/satellite-tracking-space-regulation-multimodal-ai</link>
+      <description><![CDATA[欢迎收听 TNW Podcast 的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的节目中，我们将介绍 2024 年 TNW 大会上录制的两段采访，采访对象是两位在科技行业不同领域工作的杰出女性。节目的第一位嘉宾是 Chiara Manfletti，她对太空有很多看法，包括碎片问题、卫星技术、监管等等。在本集的第二部分中，您将听到…本故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/satellite-tracking-space-regulation-multimodal-ai</guid>
+      <pubDate>Wed, 03 Jul 2024 10:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 可能很快在法国遭遇反垄断指控</title>
       <link>https://thenextweb.com/news/why-nvidia-could-be-hit-antitrust-charges-france</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[总部位于埃因霍温的初创公司 Axelera 已筹集 6800 万美元，希望将其 AI 芯片业务推向全球。主要投资者之一是半导体巨头三星电子的风险投资部门三星 Catalyst。 Axelera 正在开发被称为人工智能处理单元 (AIPU) 的芯片，这种芯片可在机器人和无人机等设备中实现计算机视觉和生成式人工智能。这些芯片促进了所谓的边缘人工智能——即人工智能模型部署在设备内部，而不是通过云端连接到设备。Axelera 不仅开发了 AIPU，还开发了运行它们的软件。这家名为 Metis 的初创公司声称，它是世界上最强大的人工智能芯片......本报道将在 The Next Web 继续报道或者阅读有关三星的更多报道]]></description>
       <guid>https://thenextweb.com/news/samsung-backs-axelera-worlds-most-powerful-ai-chip-for-edge-devices</guid>
       <pubDate>Fri, 28 Jun 2024 10:30:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>林恩·康威 (Lynn Conway) 终于因推动芯片设计走向未来而获得认可</title>
-      <link>https://thenextweb.com/news/lynn-conway-recognition-chip-design-future</link>
-      <description><![CDATA[Lynn Conway 可能保持着从被不公平解雇到收到道歉之间最长的记录。1968 年，IBM（现在每年 6 月的骄傲月都会用彩虹旗覆盖其徽标）在 Conway 表达变性意图时解雇了她。她于 2024 年 6 月 9 日去世，享年 86 岁。IBM 最终向这位如今声名鹊起的计算专家道歉，但直到 52 年后，康威才 82 岁。尽管康威在 IBM 担任跨性别女性的开端并不顺利，但她很快以跨性别后的名字找到了一份新工作......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/lynn-conway-recognition-chip-design-future</guid>
-      <pubDate>Fri, 28 Jun 2024 10:30:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

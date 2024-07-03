@@ -4,16 +4,58 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:26:52 GMT</lastBuildDate>
+    <item>
+      <title>我在政府的快速在线测试版的帮助下，仅用一周时间就更新了我的美国护照</title>
+      <link>https://www.theverge.com/2024/7/3/24190366/us-passport-online-renewal-beta-fast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24190366/us-passport-online-renewal-beta-fast</guid>
+      <pubDate>Wed, 03 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 被勒令停止使用巴西个人数据训练其人工智能</title>
+      <link>https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data</link>
+      <description><![CDATA[
+
+巴西监管机构表示，Meta 的“过度和不合理的障碍”使用户难以选择退出 AI 培训。 |插图：Nick Barclay / The Verge
+
+巴西数据保护机构 (ANPD) 已禁止 Meta 使用巴西个人数据训练其人工智能模型，理由是“存在严重损害和给用户带来困难的风险”。这一决定是在 Meta 于 5 月份更新隐私政策之后做出的，该社交媒体巨头授权自己使用来自巴西的 Facebook、Messenger 和 Instagram 公开数据（包括帖子、图片和标题）进行 AI 训练。
+这一决定是在人权观察组织上个月发布的一份报告之后做出的，该报告发现，LAION-5B（用于训练 AI 模型的最大图像标题数据集之一）包含巴西儿童的个人可识别照片，使他们面临深度伪造的风险和其他剥削。
+据美联社报道，ANPD 告诉该国官方公报，该政策“对巴西用户的基本权利造成严重且无法挽回或难以修复的损害，具有迫在眉睫的风险”。该地区是 Meta 最大的市场之一，据 ANPD 称，仅在 Facebook 上就有 1.02 亿巴西用户账户。该机构周二发布的通知给了 Meta 五个工作日的时间来遵守命令，否则将面临每天 50,000 雷亚尔（约 8,808 美元）的罚款。
+Meta 在给美联社的一份声明中表示，其更新后的政策“符合巴西的隐私法律法规”，而这项裁决“对创新和人工智能开发竞争来说是倒退，并进一步推迟了人工智能为巴西人民带来的好处。”虽然 Meta 表示用户可以选择不使用自己的数据来训练 AI，但 ANPD 表示，目前存在“过度且不合理的障碍”，使得这样做变得困难。
+Meta 也受到了欧盟监管机构的类似反对，导致该公司暂停计划在欧洲 Facebook 和 Instagram 帖子上训练其 AI 模型。然而，Meta 更新的数据收集政策已在美国生效，而美国缺乏类似的用户隐私保护。]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data</guid>
+      <pubDate>Wed, 03 Jul 2024 10:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 刚刚推出了一款注重隐私的 Google Docs 替代品</title>
+      <link>https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google</link>
+      <description><![CDATA[
+
+Proton Docs 可以进行评论、协作以及许多其他 Google Docs 功能。 |图片：Proton
+
+Proton Docs 看起来与 Google Docs 非常 相似：白页、顶部的格式化工具栏、实时指示器显示文档中的人员，其姓名附加在光标上，等等。这并不奇怪，原因如下。首先，Google Docs 非常受欢迎，而且设计文档编辑器的方式本来就有限。其次，Proton Docs 在很大程度上是 Google Docs 的所有优点的结合体 — 只是没有 Google 加入。
+Docs 于今天在 Proton Drive 内推出，是 Proton 以隐私为重点的套件中的最新应用工作工具。这家最初以电子邮件客户端起家的公司现在还拥有日历、文件存储系统、密码管理器等。将 Docs 添加到生态系统中对 Proton 来说很有意义，因为它试图与 Microsoft Office 和 Google Workspace 竞争，而且在 Proton 于 4 月收购 Standard Notes之后，这一举措似乎很快就会实现。不过，Proton 公关经理 Will Moore 告诉我，标准 Notes 不会消失——Docs 只是借用了一些功能。
+Proton Docs 的第一个版本似乎具备了文档编辑器的大部分功能：富文本选项、实时协作编辑和多媒体支持。（如果 Proton 能够比 Google 更好地处理图像嵌入，那么它可能会凭借这一点大获成功。）目前，它仅适用于网络和桌面，不过 Moore 告诉我，它最终会登陆其他平台。“Google 拥有的一切都在我们的路线图中，”他说。
+
+
+图片：Proton
+想象一下 Google Docs... 就是这样。您知道 Proton Docs 是什么样子的。
+
+由于这是 Proton 产品，因此安全性至关重要：该公司表示，每个文档、按键甚至光标移动都是实时端到端加密的。 Proton 长期以来一直承诺永远不会出售或以其他方式使用您的用户数据，现在人们对您的文档和信息如何用于训练 AI 模型存在很多疑问，这可能会吸引比以往任何时候都多的人。（值得一提的是，Google 表示它也不会使用您的内容来训练其模型。）
+Proton 只是众多试图提供以隐私为重点的 Google 和 Microsoft 替代方案的公司之一，到目前为止，它们都没有削弱这些公司的主导地位。但 Proton 的产品在过去几年中有了很大的改进，并且越来越接近提供一些用户可能需要切换的所有功能。 （缺少一个大东西？电子表格。祝愿 Proton 能成功拿下 Excel。）]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google</guid>
+      <pubDate>Wed, 03 Jul 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DJI 进军电动自行车和驱动系统领域</title>
       <link>https://www.theverge.com/2024/7/3/24190557/dji-avinox-amflow-e-bike-mountain-bike-price-specs</link>
       <description><![CDATA[
 
-Amflow PL 电动自行车的分解图，显示了 Avinox 驱动系统。 |图片：DJI
+Amflow PL 电动自行车的分解图，显示了 Avinox 驱动系统。 |图片：大疆
 
-DJI 正凭借其新的 Avinox 驱动系统和 Amflow 电动自行车品牌大力进军电动自行车领域。这家以无人机闻名的公司将在年底前推出其首款电动自行车——碳纤维 Amflow PL 电动山地车，配备中置驱动 Avinox 电机和快速充电电池。这款电动自行车重量相对较轻，但功能强大且智能，应该会引起博世和 Specialized 等竞争对手的注意。
-作为 DJI 全新 Avinox 驱动系统的展示，Amflow PL 电动自行车具有令人印象深刻的 120Nm 最大扭矩和 1000W 按需增压功率，可克服最陡峭的斜坡。除此之外，其“非常安静”的中置驱动电机额定输出功率为 250W，峰值功率为 850W。使用 Amflow 的 2A/508W GaN 充电器，其可拆卸的 800Wh 电池可以在 1.5 小时内从零快速充电至 75%。 
+大疆正大力进军电动自行车领域，推出全新 Avinox 驱动系统和 Amflow 电动自行车品牌。这家以无人机闻名的公司将在年底前推出其首款电动自行车——碳纤维Amflow PL 电动山地车，配备中置驱动 Avinox 电机和快速充电电池。这款电动自行车重量相对较轻，但集成了众多智能和强大功能，应该会引起博世和 Specialized 等竞争对手的关注。
+作为 DJI 全新 Avinox 驱动系统的展示，Amflow PL 电动自行车具有令人印象深刻的 120Nm 最大扭矩和 1000W 按需增压功率，可克服最陡峭的斜坡。此外，其“非常安静”的中置驱动电机额定输出功率为 250W，峰值功率为 850W。使用 Amflow 的 2A/508W GaN 充电器时，其可拆卸的 800Wh 电池可以在 1.5 小时内从零快速充电至 75%。 
 尽管拥有如此强大的动力和电池容量，Amflow PL 的重量仅为 19.2 公斤（略高于 42 磅），这在一定程度上要归功于 2.27 公斤的碳纤维车架和 2.52 公斤的 Avinox 驱动系统。
 
 
@@ -102,40 +144,6 @@ Snapchat Plus 订阅用户将获得一项新功能，该功能允许您设计自
 高级 Snapchat 用户很快还将看到他们的宠物在聊天时陪伴他们的 Bitmoji，以及能够发布在几分之一秒内过期的简短快照（最快 0.10 秒）。所有用户都将获得一个“镜子”，让您可以在自定义 Bitmoji 时使用手机的自拍相机查看自己。此外，还有新的AI镜头即将推出，其中一个镜头可以把你重新想象成一个五岁的孩子——这对于那些因为某种不幸的原因而没有自己幼儿照片的人来说实际上可能很有用。]]></description>
       <guid>https://www.theverge.com/2024/7/2/24190995/snapchat-snap-map-app-update</guid>
       <pubDate>Tue, 02 Jul 2024 21:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastodon 为 fediverse 的记者推出内置署名功能</title>
-      <link>https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse</link>
-      <description><![CDATA[
-
-图片：Mastodon
-
-如果您使用 Mastodon，您可能会注意到新作者署名与文章一起出现 — 包括来自The Verge的文章。点击署名，您将直接跳转到作者的 fediverse 帐户，这样您就可以跟踪他们的作品，无论它发布在哪里。
-目前，您只能在 mastodon.social 和其他使用最新 Mastodon 夜间版本的实例上看到此功能。您可以在这篇文章中看到作者署名如何出现在文章下方，该文章将您链接到 Mastodon 首席执行官 Eugen Rochko 的个人资料。
-
-
-图片：Mastodon
-
-
-署名不必链接到作者的 Mastodon 帐户。它还可以指向某人在 Threads、Flipboard、带有 ActivityPub 的 WordPress、PeerTube 和其他网站上的个人资料。为了实现这一点，Mastodon 表示它创建了一个新的 OpenGraph 标签，该标签规定了网页在 Mastodon 等网站上的预览方式，但也指出出版商需要直接联系 Mastodon 才能添加他们的作者。
-除了 The Verge，来自 MacRumors 和 MacStories 的故事也将包含可点击的署名。 Mastodon 也在努力向更多媒体开放该功能，但目前需要“人工审核”，以防止“恶意网站将用户伪装成作者”。不过，Mastodon 计划在未来推出“自助系统”来管理作者可能出现的网站。
-尽管目前尚未广泛推出，但它确实是一种快速找出谁写了一篇文章并在多个平台上查看他们的其他作品的好方法。]]></description>
-      <guid>https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse</guid>
-      <pubDate>Tue, 02 Jul 2024 21:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最好的 Apple Watch 优惠</title>
-      <link>https://www.theverge.com/21289209/best-apple-watch-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21289209/best-apple-watch-deals</guid>
-      <pubDate>Tue, 02 Jul 2024 20:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 因涉嫌抄袭苹果设计遭批评而撤下 AI 工具</title>
-      <link>https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy</guid>
-      <pubDate>Tue, 02 Jul 2024 20:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
