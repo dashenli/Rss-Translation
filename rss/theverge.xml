@@ -4,7 +4,105 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 18:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 21:14:43 GMT</lastBuildDate>
+    <item>
+      <title>目前 MacBook 的最佳优惠</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <pubDate>Wed, 03 Jul 2024 21:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twilio 警告 Authy 双因素应用用户“威胁行为者”掌握了他们的电话号码</title>
+      <link>https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+Twilio 表示，有人获取了与其双因素身份验证服务 (2FA) Authy 相关的电话号码，因为 TechCrunch 早些时候报道过。 Twilio 在周一发布的安全警报中警告称，“威胁行为者”可能会尝试使用被盗的电话号码进行网络钓鱼攻击和其他诈骗。
+此次事件是 2022 年数据泄露事件之后发生的，当时一场网络钓鱼活动诱骗员工泄露了他们的登录凭据。 攻击者访问了 163 个 Twilio 帐户的数据，并成功访问和注册了 93 个 Authy 帐户上的其他设备。
+Twilio 将此泄漏追溯到“未经身份验证的端点”，此后它已对其进行了保护。上周，威胁行为者 ShinyHunters 在暗网上发布了一份来自 Authy 帐户的 3300 万个电话号码的列表。正如 BleepingComputer 所指出的 ，威胁行为者似乎通过将大量电话号码列表输入 Authy 不安全的 API 端点来获取信息，然后该端点将验证这些电话号码是否与该应用程序相关联。
+“我们鼓励所有 Authy 用户保持警惕，并提高对所收到短信的警惕性，”Twilio 写道。它补充说，“没有证据表明威胁行为者获得了 Twilio 系统或其他敏感数据的访问权限”，并且 Authy 帐户没有受到损害。 Twilio 建议用户更新 Android 和 iOS 上的 Authy 应用（Authy 桌面应用已停用）。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach</guid>
+      <pubDate>Wed, 03 Jul 2024 21:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克·扎克伯格尝试六窗口 Quest VR 多任务处理</title>
+      <link>https://www.theverge.com/2024/7/3/24191722/meta-quest-horizon-os-67-multitasking-update</link>
+      <description><![CDATA[
+
+此次更新将混合现实空间计算带入 Meta Quest 3 的主流。 |图片：Meta
+
+马克·扎克伯格周三宣布 Horizo​​n OS 67 版 正在推出一项实验性功能，允许 Quest 用户使用最多 6 个虚拟窗口进行多任务处理。一旦启用（通过转到“设置”，然后转到“实验”，并将其打开），您将能够将三个窗口停靠在 Meta 所称的“铰链”布局中，同时可以自由放置和调整最多三个窗口的大小，无论您身在何处。
+该功能可在Quest Pro、Quest 2和Quest 3上使用，但当您在混合现实模式下使用 Quest 3 时，该功能特别好用。增强现实支持与 Apple Vision Pro 的体验类似。有了额外的窗口，Quest 用户现在有了更多选择，并且据报道，他们能够走得更远而不会丢失窗口。
+还有一个“剧院视图”按钮，可以快速隔离和放大任何一个窗口，同时调暗其他窗口。它可与 Horizo​​n OS 中的浏览器、视频播放器和其他 2D 应用和窗口配合使用。
+
+
+
+Meta 还添加了一个新的 Horizo​​n Feed 部分，其中突出显示了来自精选创作者的内容，例如 A Wolf in VR 和 SteveKnows。它被定位为一种发现新应用和游戏的更具社交性的方法。您将能够点赞帖子并与朋友分享。
+
+
+图片：Meta
+
+版本 67 中的其他更改包括滑动打字以更轻松地输入文本、二维码扫描以设置 Wi-Fi 访问（仅适用于 Quest 3）、Quest Pro 上眼动追踪性能的改进，以及可以设置“请勿打扰”模式的持续时间。如果您没有立即看到更新，请继续查看，因为 Meta 表示这是一个逐步推出的过程。
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191722/meta-quest-horizon-os-67-multitasking-update</guid>
+      <pubDate>Wed, 03 Jul 2024 20:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦贸易委员会正在调查那些吓跑你、剥夺你维修权利的 PC 制造商</title>
+      <link>https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair</guid>
+      <pubDate>Wed, 03 Jul 2024 19:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nothing 的首款 CMF 手机可通过拨号和支架附件进行定制</title>
+      <link>https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser</guid>
+      <pubDate>Wed, 03 Jul 2024 19:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 ChatGPT Mac 应用程序以纯文本形式存储对话</title>
+      <link>https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+直到周五，OpenAI 最近推出的 ChatGPT macOS 应用都存在一个潜在的令人担忧的安全问题：很容易找到存储在计算机上的聊天记录并以纯文本形式阅读。这意味着，如果恶意行为者或恶意应用程序可以访问您的计算机，他们就可以轻松读取您与 ChatGPT 的对话及其所包含的数据。 
+正如 Pedro José Pereira Vieito 在 Threads 上 所展示的那样，访问的便利意味着可以让另一个应用程序访问这些文件并在对话发生后立即向您显示对话文本。Pereira Vieito 与我分享了他制作的应用程序，我使用它制作了一个视频，展示了该应用程序如何通过单击按钮读取我的 ChatGPT 对话。我还能够通过更改文件名在计算机上找到这些文件并查看对话文本。
+
+
+
+在The Verge就此问题联系 OpenAI 后，该公司发布了一个更新，称其对聊天进行了加密。“我们已意识到这个问题，并已发布了一个新版本的应用程序，可对这些对话进行加密，”OpenAI 发言人 Taya Christianson 在给The Verge的一份声明中表示。“我们致力于提供有益的用户体验，同时随着技术的发展保持我们的高安全标准。” 
+下载更新后，Pereira Vieito 的应用程序不再对我有用，我无法以纯文本形式查看对话。
+我问 Pereira Vieito 他是如何发现原始问题的。“我很好奇为什么 [OpenAI] 选择不使用应用程序沙盒保护，最后检查了他们存储应用程序数据的位置，”他说。OpenAI 仅通过其自己的网站提供 ChatGPT macOS 应用程序，这意味着该应用程序不必遵循适用于通过 Mac App Store 分发的软件的 Apple 沙盒要求。 
+
+除非您选择退出，否则 OpenAI 可能会审查 ChatGPT 对话以确保安全并训练其模型。但是，您不会期望将这种特权扩展到获得访问权限并知道在哪里查找的未知第三方。
+当然，情况可能会更糟——此应用仍然没有存储您在计算机上看到的所有内容的纯文本。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text</guid>
+      <pubDate>Wed, 03 Jul 2024 19:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blumhouse 的《Afraid》将人工智能恐怖带入智能家居</title>
+      <link>https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house</link>
+      <description><![CDATA[
+
+索尼
+
+索尼和 Blumhouse 的《极度恐惧》由导演克里斯·韦茨执导，可能不会暗示你不应该如此多的智能设备监视和监听您在家里所做的一切。但这部电影的首支预告片可能会让你思考，如果人工智能驱动的物联网打着提供帮助的幌子，决定对你造成什么影响。
+《M3gan》专注于未来人形消费机器人的出现，而《恐惧》则讲述了一个毫无戒心的家庭在家中安装智能中心后，他们的生活如何被颠覆的故事。当柯蒂斯 (约翰·赵饰) 和他的妻子 (凯瑟琳·沃特斯顿饰) 被选中试用 AIA（一款类似 HomePod / Ring / Siri 的设备）时，他们都不确定该对它抱有怎样的期望，但他们很快就发现自己被它能够帮助他们完成没有时间完成的任务的能力所吸引。 
+AIA 到处都有传感器，而且它不断获取有关家庭的信息，一旦它接管支付账单和确保孩子们做家务，它就很容易成为他们生活中令人安心的存在。 
+但《恐惧》的新预告片透露，在 AIA 令人愉悦的外表下，编程比普通消费者想象的要更具攻击性，虽然这台机器似乎并不想伤害它的主人，但它确实让人感觉这台机器计划成为不仅仅是每个人的小工具中的声音。整个预告片都充满了智能屋（1999 年迪士尼频道原创电影）的氛围，这本身就足够让人期待了。但当恐惧于 8 月 30 日首映时，它可能会引发一个问题，即 Blumhouse 是否可能正在考虑未来推出娃娃/房屋交叉场景。]]></description>
+      <guid>https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house</guid>
+      <pubDate>Wed, 03 Jul 2024 18:30:53 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊推出 Astro 商业机器人不到一年就遭遇失败</title>
       <link>https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds</link>
@@ -33,107 +131,6 @@ Google 正在让广告商更轻松地披露政治广告是否包含 AI 生成的
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/3/24191483/sonos-beam-ray-soundbar-refurbished-ipad-air-deal-sale</guid>
       <pubDate>Wed, 03 Jul 2024 17:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>漫威《假如……？》系列将迎来第三季</title>
-      <link>https://www.theverge.com/2024/7/3/24191652/what-if-season-three-cancellation</link>
-      <description><![CDATA[
-
-图片：漫威影业
-
-Disney Plus 的《假如……？》的前提是制作 随着漫威工作室不断推出真人项目，动画系列可能会无限期播出，但看起来这个多元宇宙大故事的这一章即将结束。
-但是如果……？ 第三季尚未确定首播日期，《娱乐周刊》报道，这将是该系列的最后一部，该系列由杰弗里·赖特饰演守望者乌阿图，海莉·阿特维尔饰演佩吉·卡特船长。在本周的漫威新官方播客节目中，假如……？ 执行制片人布拉德·温德鲍姆将即将到来的这一季描述为“三部曲的完结”，并暗示它将“在多元宇宙的探索上超越前两季”。
-值得注意的是，假如……？的结束正值漫威多元宇宙传奇的轨迹——电影和系列的集合，以 2027 年的复仇者联盟：秘密战争为蓝本——由于像马赫沙拉·阿里的《刀锋战士》这样的电影。凯文·费奇最近断言，新的《神奇四侠》电影将引入另一个平行宇宙，这表明我们可能至少还要经历几年的 MCU 多元宇宙恶作剧。但是《假如……？》即将结束，这很容易成为（有希望的）迹象，表明该工作室终于准备好告别这个时代了。]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191652/what-if-season-three-cancellation</guid>
-      <pubDate>Wed, 03 Jul 2024 16:46:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择购买哪款 Apple Watch</title>
-      <link>https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to</guid>
-      <pubDate>Wed, 03 Jul 2024 16:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>比 Boox Palma 更便宜、更奇特的电子阅读器替代品</title>
-      <link>https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone</link>
-      <description><![CDATA[
-
-您可以在网上以 125 美元左右的价格购买小米 Moaan InkPalm Plus。 |图片：小米
-
-似乎每个人都迷恋 Boox Palma，包括我们自己的 David Pierce，但 280 美元的价格对于电子阅读器来说太贵了。对于另一种与更大的电子阅读器相似但体积更小、更便宜的选择，John Moltz 在 Six Colors 上查看了售价 125 美元的小米 Moaan InkPalm Plus。 
-有一些值得注意的妥协，比如反光屏幕可能会让用户难以避开眩光，从 AliExpress 订购，以及一个过时的 Android 11 操作系统，该操作系统尚未完全从中文翻译成英文。
-
-该显示屏也比现在 Kindle、Kobos 甚至 Boox Palma 上的 300ppi 电子纸面板落后了几年，配备 5.84 英寸 E Ink 屏幕，分辨率仅为 276ppi。 InkPalm Plus 也只有 2GB RAM、64GB 存储空间和 2250mAh 电池，而 Palma 有 6GB RAM、128GB 存储空间和 3,950mAh 电池。
-Boox Palma 的存储空间可以使用 microSD 卡进一步扩展，并且它拥有麦克风和 16MP 摄像头，但正如 Moltz 指出的那样，您可能不会用它们来拍摄甚至观看视频。]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone</guid>
-      <pubDate>Wed, 03 Jul 2024 15:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 放弃其矿产机器人农业初创公司</title>
-      <link>https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs</link>
-      <description><![CDATA[
-
-Mineral 的自动“植物车”可以通过与前行业合作伙伴的许可找到新家。 |图片：Alphabet
-
-据报道，由于行业竞争激烈、利润微薄，Alphabet 正在放弃其矿产机器人农业初创公司。据彭博社报道，谷歌母公司将把部分农业技术授权给浆果生产商 Driscoll’s，该公司过去几年一直在研究 Mineral 开发的自动“植物车”，用于研究农作物、土壤和其他环境因素。
-彭博社称，它获得了一份备忘录，其中 Mineral 宣布计划将其技术“转移到农业生态系统，以最大限度地发挥人工智能在农业领域的影响”，并确认“Mineral 将不再是 Alphabet 旗下的公司”。据报道，除了与 Driscoll’s 达成协议外，Mineral 还与之前合作过的公司进行了许可谈判。
-Mineral 去年从 Alphabet 的 X 实验室 毕业后被分拆为一家独立子公司，该实验室是之前推出谷歌眼镜和 Waymo 自动驾驶汽车部门的实验部门。据彭博社报道，在“很明显”公司在 Alphabet 的领导下不再有未来之后，Mineral 的员工近几个月一直在努力寻找继续工作的方法。
-
-
-交易的财务条款尚未披露。Driscoll’s 全球研发高级副总裁 Scott Komar 告诉彭博社，应该给予 Driscoll’s 永久使用 Mineral 技术的许可。“我们对 Alphabet 决定改变方向感到非常失望，”Komar 告诉该出版物。“我们与 Mineral 团队的合作非常愉快，从我们的角度来看，他们刚刚起步。然后突然之间，你知道，计划就改变了。”
-虽然 Alphabet 已经向“登月”实验室项目投入了数十亿美元美元——包括鱼类追踪摄像头，杂货配送无人机和互联网提供气球——大多数都在努力实现商业可行性。该公司于 2021 年 关闭了其互联网气球公司 Loon，并于今年 1 月在该部门经历一波裁员潮之后 转向外部投资者为其 X 项目提供资金。]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs</guid>
-      <pubDate>Wed, 03 Jul 2024 15:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 用户数一年内突破 1.75 亿</title>
-      <link>https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-一年半前，Threads 还只是马克·扎克伯格眼中的一颗新星。 
-现在，埃隆·马斯克的 X 的竞争对手每月活跃用户已超过 1.75 亿，Meta 首席执行官于周三宣布。
-他的声明是在 Threads 即将迎来一周年之际发布的。当它于 2023 年 7 月 5 日登陆 App Store时，马斯克对以前称为 Twitter 的服务进行了破坏，并怂恿扎克伯格进行从未发生过的笼中比赛。一年后，Threads 仍在稳步增长——尽管速度不如其大规模发布那么快而马斯克自接手以来就没有分享过 X 的可比指标。
-
-
-
-与任何社交网络一样，尤其是对于 Threads 来说，每月用户只是增长故事的一部分。值得注意的是，与 Facebook、WhatsApp 和 Instagram 不同，Meta 尚未公布每日用户数量。这一遗漏表明 Threads 仍然从尚未成为常规用户的人那里获得大量过路流量。
-最近几个月，我从 Meta 员工那里听说，该应用的大部分增长仍来自 Instagram 内部的推广。这两款应用共享相同的帐户系统，预计不会改变。
-即便如此，对于一款推出一年的应用来说，每月 1.75 亿用户也并不值得一提，尤其是考虑到 Meta 多年来在推出独立应用实验方面表现不佳。扎克伯格对我和其他人持开放态度，他认为 Threads很有可能成为该公司的下一个十亿用户应用程序。据我所知，为了保持增长势头，Meta 专注于它认为有机会从 X 手中夺取更多市场份额的市场——例如日本。
-目前，Threads 在财务上仍是 Meta 的亏损产品，但它肯定有能力无限期地为其提供资金。在内部，我听说高管们正在考虑明年某个时候在 Threads 中启用广告，尽管具体计划仍未确定。很容易看出 Threads 如何融入 Instagram 现有的广告系统。鉴于 Meta 有意降低政治优先级并鼓励轻松的内容，对于寻求比 X 更安全的品牌替代品的广告商来说，它可能是一个有吸引力的地方。
-“如果它变得非常非常大，那就太好了，但我实际上更感兴趣的是它是否具有文化相关性，以及它是否拥有数亿用户，”Instagram 负责人 Adam Mosseri 说，Threads 首次推出时告诉我。一年后，该应用在文化方面肯定还有更多进步空间。但事实上它仍在增长，这意味着 Meta 有实现这一目标的跑道。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg</guid>
-      <pubDate>Wed, 03 Jul 2024 14:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 的“专业搜索”人工智能升级使其在数学和研究方面表现更佳</title>
-      <link>https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Perplexity 已对其 Pro Search AI 工具进行了重大升级，据称该工具“能够理解问题何时需要规划，逐步实现目标，并综合更高效地提供深入的答案。”
-Perplexity 网站上的 Pro Search 网站上 列举了 Pro Search 的功能示例，其中包括查询在冰岛或芬兰观赏北极光的最佳时间。它将研究过程分为三个搜索：在冰岛和芬兰观赏北极光的最佳时间；冰岛的最佳观赏地点；芬兰的最佳观赏地点。然后，它提供了详细的答案，涵盖了问题的所有方面，包括何时何地在任一国家观赏北极光。 
-
-
-GIF：Perplexity
-Perplexity 的升级工具可以分解复杂的查询。
-
-
-Perplexity 的 AI 搜索工具还可以根据名为 Pages 的功能提示生成详细报告。但最近来自Wired的报道和福布斯指责Perplexity抄袭，Wired的一篇报道称，这个自称“答案引擎”的公司是一个“胡说八道的机器”，它的动画歪曲了它正在做的事情，数据抓取工具绕过了robots.txt 文件。
-除了进行更彻底的研究之外，Perplexity 表示 Search Pro 现在还具有更高级的数学和编程功能，可以提高其分析数据、调试代码和生成内容的能力。如果您想亲自尝试，可以使用免费帐户每天进行五次搜索。Perplexity 还以每月 20 美元的订阅费提供每天 600 次 Pro 搜索。]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant</guid>
-      <pubDate>Wed, 03 Jul 2024 14:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 最喜欢的棋盘游戏和视频游戏</title>
-      <link>https://www.theverge.com/24190259/board-video-games-console-pc-tabletop-emulators</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24190259/board-video-games-console-pc-tabletop-emulators</guid>
-      <pubDate>Wed, 03 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
