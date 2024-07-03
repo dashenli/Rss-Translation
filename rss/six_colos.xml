@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 03 Jul 2024 15:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 18:19:08 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 502：我不想考虑任何事情</title>
+      <link>https://sixcolors.com/podcast/2024/07/the-rebound-502-i-dont-wanna-think-about-anything/</link>
+      <description><![CDATA[你好，黑暗，我的老朋友。我们又来聊聊科技了。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-502-i-dont-wanna-think-about-anything/</guid>
+      <pubDate>Wed, 03 Jul 2024 16:21:55 GMT</pubDate>
+    </item>
     <item>
       <title>嘿 Siri？不，我不是说你。（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2384132</link>
@@ -114,15 +121,6 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
 您是否曾发现过一篇有趣的文章，但却没有时间阅读它？…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/06/transform-articles-into-podcasts-with-listenlater-net/</guid>
       <pubDate>Mon, 24 Jun 2024 16:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟委员会初步裁定苹果违反 DMA ↦</title>
-      <link>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</link>
-      <description><![CDATA[欧盟委员会已就 3 月份发起的一项 DMA 不合规调查发布了初步裁决：
-
-今天，欧盟委员会告知苹果公司，其初步意见是其应用商店规则违反了《数字市场法案》(DMA)，因为这些规则阻止应用开发商自由引导消费者通过其他渠道获取优惠和内容。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/preliminary-ruling-from-the-ec-declares-apple-is-violating-the-dma/</guid>
-      <pubDate>Mon, 24 Jun 2024 12:56:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
