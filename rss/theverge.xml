@@ -4,7 +4,66 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 15:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 18:18:18 GMT</lastBuildDate>
+    <item>
+      <title>谷歌可能会通过 Pixel 9 解决指纹扫描仪问题</title>
+      <link>https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor</link>
+      <description><![CDATA[
+
+解锁下一代 Google Pixel 手机应该不会那么闹剧。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+据 Android Authority 报道，谷歌即将推出的 Pixel 9 系列将配备更快、更可靠的超声波指纹扫描仪。它将用能够读取湿指纹或油指纹的新技术取代谷歌在 Pixel 6上推出的光学屏下指纹传感器。
+这一转变还可以解决一些问题 用户在尝试解锁 Pixel 设备时遇到的 普遍 问题，有些人表示光线水平和手指干燥会影响先前光学读取器的可靠性。光学扫描仪是读取指纹的最古老方法。它们的工作原理是将光线照射到用户的手指上，然后目视检测表面的图案和脊线——这意味着任何变化（如污垢或瑕疵）都可能干扰该过程。
+
+相比之下，超声波传感器通过反射超声波脉冲来更准确地读取指纹，这也可以避免用户在夜间解锁手机时被弄瞎。据可靠爆料人 Kamila Wojciechowska 称，Pixel 9 将使用高通的 3D Sonic Gen 2 (QFS4008)，与 三星 Galaxy S24 Ultra 上的型号相同。
+
+Android Authority 表示，新的超声波指纹扫描仪将在除 即将推出的 Fold 2，预计将保留其当前基于电源按钮的指纹传感器。我们可能会在 8 月 13 日的 Google Pixel 9 硬件活动 期间了解更多信息。]]></description>
+      <guid>https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor</guid>
+      <pubDate>Thu, 04 Jul 2024 16:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊 Kindle 电子书下载功能已损坏</title>
+      <link>https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers</link>
+      <description><![CDATA[
+
+照片由 Sheena Vasani / The Verge 拍摄
+
+持续的中断导致亚马逊 Kindle 用户无法将新书和之前购买的书籍下载到他们的电子阅读器上。根据亚马逊支持论坛上版主回复用户报告的问题，该公司已经意识到了这个问题并且“正在努力解决”。尝试其他故障排除步骤（例如重置设备）无法解决问题，因此用户可能需要暂时等待。
+Good e-Reader 于周三报告了该问题，并注意到亚马逊支持的回复称这是“服务器问题”的结果，“电子书至少需要 48 小时才能再次开始下载，但可能会更长时间。”
+The Verge 已联系亚马逊了解详情，如果我们发现任何其他详细信息，我们将更新此帖子。
+Reddit 分享了他们的 Kindle 的类似问题，在亚马逊的支持论坛上，有几份报告称 Kindle 只能下载书籍的标题和封面，然后进度指示器会停留在 1%。此次中断似乎还影响了用户尝试使用 Libby 从 Overdrive 下载到 Kindle 设备的书籍。但是，将书籍下载到 iOS 和 Android 亚马逊 Kindle 应用程序不会受到影响。
+这一最新问题出现一周前，Reddit 上的几位 Kindle 用户报告了亚马逊“发送到 Kindle”功能的问题，该功能允许将电子书和文档侧载到电子阅读器上，而无需将其插入计算机。一些用户收到错误消息，告知他们文件“由于服务错误无法交付”，而本周早些时候，该主题中的其他用户仍然看到该服务存在问题。]]></description>
+      <guid>https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers</guid>
+      <pubDate>Thu, 04 Jul 2024 16:56:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊 Fire HD 10 平板电脑对 Prime 会员可享受近 50% 的折扣</title>
+      <link>https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale</guid>
+      <pubDate>Thu, 04 Jul 2024 16:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nike 的自动系带 Adapt BB 运动鞋将失去其远程控制移动应用程序</title>
+      <link>https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app</link>
+      <description><![CDATA[
+
+8 月 6 日之后，Nike Adapt 用户将无法再下载随附的移动应用程序。 |照片由 Felicia Shivakumar / The Verge 拍摄
+
+尽管《回到未来》三部曲一直很受欢迎，并启发了 HyperAdapt 1.0 和 Air Mags 中的自动系带技术，耐克宣布其“不再推出 Adapt 鞋的新版本”。现在，用于控制售价 350 美元的第三代耐克自动系带运动鞋的 Adapt BB 移动应用程序将于下个月从 Google Play 和 iPhone App Store 中消失。
+如果没有该应用程序，所有者可以使用运动鞋上的物理按钮来打开和关闭它们，检查电池状态，收紧或松开鞋带，并保存单个预设，但无法调整鞋子的灯光。
+
+运动鞋上的电动鞋带Nike Adapt BB 篮球鞋，由 Jayson Tatum 和 Luka Doncic 等运动员穿着，可通过运动鞋上的按钮或蓝牙进行调节。该应用程序还允许用户配置三种松紧度预设并调整鞋子上的 LED 灯颜色 - 这些功能将继续适用于已在手机上安装该应用程序的 Adapt BB 用户。
+然而，8 月 6 日之后，耐克警告用户“将无法将该应用程序移动到新设备，并且未来的 iOS 更新可能会限制或终止功能，或者可能会从您的设备中完全删除该应用程序。”
+耐克决定停用该应用程序再次提醒人们设计智能服装的挑战。大多数消费者可能已经习惯了每隔几年就升级一次智能手机，但一双电子鞋或一件智能牛仔夹克可能会在公司停止销售产品后很长一段时间内留在某人的衣柜里。
+当一家公司选择停止为不再赚钱的产品支付维护和继续开发应用程序的费用时，这并不完全令人惊讶，但这并不能减轻你五年前穿的运动鞋失去功能的痛苦。
+
+
+我们的 2019亲身体验 Nike Adapt BBs。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app</guid>
+      <pubDate>Thu, 04 Jul 2024 15:29:44 GMT</pubDate>
+    </item>
     <item>
       <title>微软午夜暴雪源代码泄露事件也影响到了联邦机构</title>
       <link>https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets</link>
@@ -12,7 +71,7 @@
 
 插图作者：Amelia Holowaty Krales / The Verge
 
-3 月，微软通知美国退伍军人事务部，称其受到了安全漏洞的影响，该漏洞使俄罗斯据彭博社报道，一个名为“午夜暴雪”的黑客组织窃取了该公司的部分源代码。该组织已经被归咎于早前的SolarWinds 攻击，该组织被指控监视微软高级领导团队的电子邮件帐户，并试图利用在那里获得的机密来制造更多的安全漏洞。
+3 月，微软通知美国退伍军人事务部，称其受到了安全漏洞的影响，该漏洞使俄罗斯据彭博社报道，一个名为“午夜暴雪”的黑客组织窃取了该公司部分源代码。该组织已经被归咎于早前的SolarWinds 攻击，该组织被指控监视微软高级领导团队的电子邮件帐户，并试图利用在那里获得的机密来制造更多的安全漏洞。
 VA 部门发现 Midnight暴雪在 1 月份左右使用一组被盗凭证访问了 Microsoft Cloud 测试环境。VA 官员告诉 Bloomberg，该帐户仅被访问了一秒钟，大概是为了查看凭证是否有效 - 凭证随后已更新。
 
 据 Bloomberg 报道，微软还通知美国全球媒体署，其部分数据可能已被盗。据信该机构持有的安全数据和敏感的个人身份信息并未受到泄露。和平队也收到了 Midnight Blizzard 漏洞的通知，但告诉 Bloomberg，它能够“缓解漏洞”。微软尚未透露哪些客户受到了此次攻击的影响。
@@ -109,58 +168,6 @@ Z Flip 6 的封面屏幕解释器模式。
 ]]></description>
       <guid>https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak</guid>
       <pubDate>Thu, 04 Jul 2024 01:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦贸易委员会禁止竞业禁止协议的禁令可能面临威胁</title>
-      <link>https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction</link>
-      <description><![CDATA[
-
-插图来自 The Verge | 照片来自 Getty Images
-
-联邦法官可能会阻止联邦贸易委员会即将颁布的竞业禁止协议禁令生效。竞业禁止协议旨在使员工难以跳槽到其他公司的类似职位或创办自己的企业，这在科技公司内部尤其是一个有争议的问题。
-该禁令原定于 9 月 4 日生效，但周三，法官 Ada Brown 在针对 FTC 的诉讼中发布了初步禁令。对于那些原告，FTC 的禁令将不再于 9 月 4 日生效。布朗表示，她计划“在 2024 年 8 月 30 日或之前”对他们向 FCC 提出的全部挑战作出裁决，这可能会阻止联邦贸易委员会在全国范围内阻止竞业禁止协议。
-税务公司 Ryan LLC 在禁令于 4 月宣布的同一天对联邦贸易委员会提起诉讼，理由是该禁令是“未经授权、违宪的企图，旨在消除长期存在的私人经济安排。”自该诉讼提起以来，美国商会和商业圆桌会议等组织都加入了诉讼。布朗写道，她之所以批准初步禁令，是因为原告“很有可能在挑战联邦贸易委员会的竞业禁止规则的案情上胜诉”。
-联邦贸易委员会发言人道格拉斯·法拉尔在一份声明中表示：“联邦贸易委员会坚持我们明确的权力，并以法规和先例为依据，颁布这项规则。” “我们将继续努力，让勤劳的美国人摆脱非法的竞业禁止，这些禁止会减少创新、抑制经济增长、困住工人并破坏美国人的经济自由。”
-联邦贸易委员会以 3-2 票通过了该禁令。当时，联邦贸易委员会辩称，该禁令将允许每年创建 8,500 多家新企业。
-7 月 3 日更新：添加了联邦贸易委员会的声明，并澄清了联邦贸易委员会的禁令何时生效或不生效。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction</guid>
-      <pubDate>Thu, 04 Jul 2024 00:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 的 2024 年亚马逊 Prime Day 指南</title>
-      <link>https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024</link>
-      <description><![CDATA[
-
-Hugo Herrera 为 The Verge 绘制的插图
-
-2024 年亚马逊 Prime Day 即将到来。为期两天的年度超级大减价将于 7 月 16 日开始，持续至 7 月 17 日，为亚马逊 Prime 订阅用户带来大量折扣、促销和独家优惠。这可能不是我们今年看到的唯一一次 Prime Day 活动——亚马逊最近已开始在秋季举办第二次购物活动——但它很可能仍然是今年除黑色星期五和网络星期一之外以折扣价购买一系列科技产品的最佳机会之一。
-与往年一样，我们重点介绍了各种 Verge 认可的小工具和小玩意儿的最佳优惠，从最新的笔记本电脑和 OLED 电视到可以让您的硬木地板像客厅地毯一样一尘不染的机器人吸尘器。我们还收集了沃尔玛和塔吉特等竞争零售商的反 Prime Day 优惠，以及充分利用 48 小时活动的一系列实用技巧和窍门。
-降价肯定是短暂的，但如果你动作够快，你可能可以在蛋酒还没端上来之前就把一些商品从你的节日愿望清单上划掉。]]></description>
-      <guid>https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024</guid>
-      <pubDate>Wed, 03 Jul 2024 23:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您已经可以获得的最佳 Prime Day 优惠</title>
-      <link>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</guid>
-      <pubDate>Wed, 03 Jul 2024 22:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您需要了解的所有智能家居新闻、评论和小工具</title>
-      <link>https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets</link>
-      <description><![CDATA[
-
-照片由 Jennifer Pattison Tuohy / The Verge 拍摄
-
-在通往智能家居的道路上，穿梭于各种平台、生态系统、协议和小工具的迷宫中是一项全职工作。 （我应该知道；这是我的。） 智能家居前景广阔。它可以让生活更加便捷，当你走进房间时，灯会亮起，当你靠近时，门会解锁，机器人会清洁你的地板。它还可以让你的家更安全、更节能，甚至更有趣。 （您是否尝试过让 Alexa 为您传送信息？）
-尽管智能家居有很多好处，但它也可能很复杂、令人困惑，并且有时甚至令人抓狂。要跟上所有变化也很困难。每天都有新的小工具问世，旧产品有了新功能，并且有很多种不同的方法来打开智能灯泡。
-如果您需要指南，我在这里就是为您服务的。
-在这里，我将发布最新的智能家居评论、指南、新闻和观点，介绍联网家庭中发生的一切。关注此页面可了解 Apple、亚马逊、三星、谷歌、Home Assistant 以及其他公司在其智能家居平台方面的动态。我会随时向您通报所有最新技术，包括 Matter、Thread、Sidewalk、UWB — 以及经典老物件。当然，我还会报道所有最新电子产品的新闻以及家居科技领域的最新动态。]]></description>
-      <guid>https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets</guid>
-      <pubDate>Wed, 03 Jul 2024 21:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
