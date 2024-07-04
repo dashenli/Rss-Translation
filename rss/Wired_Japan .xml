@@ -4,18 +4,46 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 04 Jul 2024 06:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 09:17:23 GMT</lastBuildDate>
+    <item>
+      <title>《Beats Solo 4》评测：没有什么特色，但悦耳的声音让你无法移开耳朵</title>
+      <link>https://wired.jp/article/beats-solo-4-review/</link>
+      <description><![CDATA[Beats Solo 4 是一款紧凑型贴耳式无线耳机。值得注意的是，虽然不具备降噪功能，但音质出色，可播放长达50小时。]]></description>
+      <guid>https://wired.jp/article/beats-solo-4-review/</guid>
+      <pubDate>Thu, 04 Jul 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>【网络研讨会召开！ 】 空间计算时代“表达”的新视野：JACKSON kaki×藤仓麻子×庄子it</title>
+      <link>https://wired.jp/article/spatial-computing-the-forgotten-space-event/</link>
+      <description><![CDATA[随着“空间计算”技术的社会应用及其向城市的扩展迅速推进，手上有这个工具的艺术家现在在想什么？ 全力探讨空间计算的可能性的《连线》VOL.53日版讨论的三位艺术家重聚：JACKSON kaki、藤仓麻子、庄子（Dos Monos） 。不要错过这个扩展剧集，其中讨论了空间计算中被忽视的问题以及艺术家的角色！]]></description>
+      <guid>https://wired.jp/article/spatial-computing-the-forgotten-space-event/</guid>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 调查 Perplexity。抓取方式是否违反服务条款？</title>
+      <link>https://wired.jp/article/aws-perplexity-bot-scraping-investigation/</link>
+      <description><![CDATA[在《连线》报道称，据信与 Perplexity 相关的 IP 地址被用来抓取主要媒体网站后，亚马逊的云部门 AWS 发起了一项调查。这是因为该 IP 地址与 AWS 托管的基础设施关联。]]></description>
+      <guid>https://wired.jp/article/aws-perplexity-bot-scraping-investigation/</guid>
+      <pubDate>Wed, 03 Jul 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从大型科技公司“拯救”人工智能：用户拥有的开源人工智能的潜力</title>
+      <link>https://wired.jp/article/sz-user-owned-ai-illia-polosukhin-open-source-web3/</link>
+      <description><![CDATA[Ilya Poroskin 是论文的作者之一，该论文介绍了“变形金刚”模型，该模型引发了当前生成人工智能的突破。他关注目前主要科技公司主导的以利润为导向的人工智能发展，并试图创造“用户拥有的人工智能”。]]></description>
+      <guid>https://wired.jp/article/sz-user-owned-ai-illia-polosukhin-open-source-web3/</guid>
+      <pubDate>Wed, 03 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《Among Us》的开发商已经开始帮助陷入困境的游戏创作者。</title>
       <link>https://wired.jp/article/outersloth-innersloth-among-us-indie-games-survival/</link>
-      <description><![CDATA[随着游戏行业面临困难时期，小型开发商正在努力筹集资金。流行游戏“Among Us”的开发商 Innersloth 已通过设立基金来提供帮助。]]></description>
+      <description><![CDATA[随着游戏行业陷入困境，小型开发商正在努力筹集资金。流行游戏“Among Us”的开发商 Innersloth 已通过设立基金来提供帮助。]]></description>
       <guid>https://wired.jp/article/outersloth-innersloth-among-us-indie-games-survival/</guid>
       <pubDate>Wed, 03 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>镜子、倒影、甚至相互渗透的未来：涩谷敬一郎的机器人歌剧《MIRROR》凯旋东京演出回顾</title>
       <link>https://wired.jp/article/android-opera-review/</link>
-      <description><![CDATA[6月18日，机器人歌剧《镜子》凯旋东京演出仅一晚。策展人兼评论家鹿田幸子对涩谷庆一郎的这场表演进行了评论。涩谷庆一郎是一位实现了许多宏伟项目的音乐家，解构了歌剧，将其转变为机器人，并致力于重新创造它。]]></description>
+      <description><![CDATA[6月18日，机器人歌剧《镜子》凯旋东京演出仅一晚。策展人兼评论家鹿田幸子对涩谷庆一郎的这场表演进行了评论。涩谷庆一郎是一位实现了许多宏伟项目的音乐家，他解构了歌剧，将其转变为机器人，并致力于重新创造它。]]></description>
       <guid>https://wired.jp/article/android-opera-review/</guid>
       <pubDate>Wed, 03 Jul 2024 03:00:00 GMT</pubDate>
     </item>
@@ -29,21 +57,21 @@
     <item>
       <title>针对奥运需求的 Airbnb 和想要监管私人住宿的巴黎市，谁将成为“赢家”？</title>
       <link>https://wired.jp/article/airbnbs-olympics-push-paris/</link>
-      <description><![CDATA[随着法国巴黎对私人住宿的监管越来越严格，Airbnb 正在积极抢占奥运需求。 “胜利女神”会向哪边微笑呢？]]></description>
+      <description><![CDATA[随着法国巴黎对私人住宿的监管越来越严格，Airbnb 正在积极争取奥运需求。 “胜利女神”会向哪边微笑呢？]]></description>
       <guid>https://wired.jp/article/airbnbs-olympics-push-paris/</guid>
       <pubDate>Tue, 02 Jul 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>荷兰建筑师 Koen Orthuis 设想了一个未来漂浮在水面上的漂浮城市。</title>
       <link>https://wired.jp/article/sz-a-dutch-architects-vision-of-cities-that-float-on-water/</link>
-      <description><![CDATA[随着气候变化引起的暴雨和风暴潮等严重灾害变得越来越普遍，如果在水上建造房屋比拼命保护土地免受水侵害更安全、更耐用呢？ 建筑师 Orthuis 认为荷兰应该将面临洪水风险的土地归还给水。]]></description>
+      <description><![CDATA[随着气候变化造成的暴雨和风暴潮等严重灾害变得越来越普遍，如果在水上建造房屋比拼命保护土地免受水侵害更安全、更耐用呢？ 建筑师 Orthuis 认为荷兰应该将面临洪水风险的土地归还给水。]]></description>
       <guid>https://wired.jp/article/sz-a-dutch-architects-vision-of-cities-that-float-on-water/</guid>
       <pubDate>Tue, 02 Jul 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>灵感来自侏罗纪公园。美国研究团队开发出在玻璃状聚合物中长期存储DNA和数据的技术</title>
       <link>https://wired.jp/article/dna-polymer-preservation/</link>
-      <description><![CDATA[受电影《侏罗纪公园》的启发，研究人员开发出一种类似琥珀的聚合物，可以在室温下长期保存 DNA。它还可以应用于数据存储，有潜力成为未来可以半永久存储各种信息的存储系统。]]></description>
+      <description><![CDATA[受电影《侏罗纪公园》的启发，研究人员开发出一种类似琥珀的聚合物，可以在室温下长期保存 DNA。它还可以应用于数据存储，有潜力成为未来可以半永久存储各种信息的存储设备。]]></description>
       <guid>https://wired.jp/article/dna-polymer-preservation/</guid>
       <pubDate>Tue, 02 Jul 2024 09:00:00 GMT</pubDate>
     </item>
@@ -55,7 +83,7 @@
       <pubDate>Tue, 02 Jul 2024 08:31:14 GMT</pubDate>
     </item>
     <item>
-      <title>隐藏城市的幕后：探讨空间计算中被忽视的点：JACKSON kaki x Asako Fujikura x Zhuangziit</title>
+      <title>隐藏城市的幕后：探索空间计算中被忽视点的讨论：JACKSON kaki x Asako Fujikura x Zhuangzi it</title>
       <link>https://wired.jp/article/vol53-the-forgotten-space/</link>
       <description><![CDATA[在没有屏幕、空间本身成为媒介的未来，“表达”将如何更新？探索三位艺术家的观点，他们追求在物理和数字之间来回穿梭的前沿表达：JACKSON Kaki、Asako Fujikura 和 Zhuangziit (Dos Monos)。]]></description>
       <guid>https://wired.jp/article/vol53-the-forgotten-space/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[在欧洲，Meta Platforms 强迫用户在没有广告的付费计划和需要个人信息的广告免费服务之间进行选择，而这受到《数字市场法案》(DMA) 的约束，欧盟委员会对此表示认为。违规。如果梅塔无法提出替代方案，他可能会面临巨额罚款。]]></description>
       <guid>https://wired.jp/article/metas-pay-for-privacy-model-is-illegal-says-eu/</guid>
       <pubDate>Mon, 01 Jul 2024 22:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>瓦茨拉夫·施米尔，现代“知识巨人”和“怀疑一切”的价值</title>
-      <link>https://wired.jp/article/sz-persons-vaclav-smil-and-the-value-of-doubt/</link>
-      <description><![CDATA[瓦茨拉夫·施米尔 (Vaclav Schmil) 因《数字不会说谎》和《发明与创新》等众多作品而闻名，他出版了一本新书《SIZE》。一位重视可验证事实的老式科学家谈论对全球环境厄运和技术乐观的预测。]]></description>
-      <guid>https://wired.jp/article/sz-persons-vaclav-smil-and-the-value-of-doubt/</guid>
-      <pubDate>Mon, 01 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>车主开始继续驾驶已停业的菲斯克电动汽车。</title>
-      <link>https://wired.jp/article/fisker-went-bankrupt-what-do-its-ev-owners-do-next/</link>
-      <description><![CDATA[新兴电动汽车制造商菲斯克被迫申请破产。希望继续驾驶电动汽车的菲斯克车主成立了一个非营利组织，并开始致力于解决维护、维修和其他问题。]]></description>
-      <guid>https://wired.jp/article/fisker-went-bankrupt-what-do-its-ev-owners-do-next/</guid>
-      <pubDate>Mon, 01 Jul 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>感受性存在于太空中吗？ ──关于意识、人工智能和空间计算的对话：金井亮太 x 丰田圭介</title>
-      <link>https://wired.jp/article/vol53-the-qualia-in-space/</link>
-      <description><![CDATA[随着人工智能的快速发展，现在关于AI是否能够有意识存在很多争论。那么，当空间计算的关键“空间AI”充满我们的日常生活时，意识会在所有“地方”诞生吗？]]></description>
-      <guid>https://wired.jp/article/vol53-the-qualia-in-space/</guid>
-      <pubDate>Mon, 01 Jul 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技界最受欢迎的小说家之一罗宾·斯隆谈论语言的元意义</title>
-      <link>https://wired.jp/article/the-tech-worlds-greatest-living-novelist-robin-sloan-goes-meta/</link>
-      <description><![CDATA[罗宾·斯隆（Robin Sloan）是最早采用人工智能创作方法的人之一，他发布了他的最新作品——一本谈论科幻小说的科幻小说。在每个单词都是由大规模语言模型编写的时代，斯隆现在正在寻找最人性化的小说。]]></description>
-      <guid>https://wired.jp/article/the-tech-worlds-greatest-living-novelist-robin-sloan-goes-meta/</guid>
-      <pubDate>Sun, 30 Jun 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
