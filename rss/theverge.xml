@@ -4,7 +4,37 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 12:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 15:15:10 GMT</lastBuildDate>
+    <item>
+      <title>微软午夜暴雪源代码泄露事件也影响到了联邦机构</title>
+      <link>https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets</link>
+      <description><![CDATA[
+
+插图作者：Amelia Holowaty Krales / The Verge
+
+3 月，微软通知美国退伍军人事务部，称其受到了安全漏洞的影响，该漏洞使俄罗斯据彭博社报道，一个名为“午夜暴雪”的黑客组织窃取了该公司的部分源代码。该组织已经被归咎于早前的SolarWinds 攻击，该组织被指控监视微软高级领导团队的电子邮件帐户，并试图利用在那里获得的机密来制造更多的安全漏洞。
+VA 部门发现 Midnight暴雪在 1 月份左右使用一组被盗凭证访问了 Microsoft Cloud 测试环境。VA 官员告诉 Bloomberg，该帐户仅被访问了一秒钟，大概是为了查看凭证是否有效 - 凭证随后已更新。
+
+据 Bloomberg 报道，微软还通知美国全球媒体署，其部分数据可能已被盗。据信该机构持有的安全数据和敏感的个人身份信息并未受到泄露。和平队也收到了 Midnight Blizzard 漏洞的通知，但告诉 Bloomberg，它能够“缓解漏洞”。微软尚未透露哪些客户受到了此次攻击的影响。
+“随着调查的继续，我们一直在联系客户，通知他们是否与被访问的微软公司电子邮件帐户通信过，”微软发言人 Jeff Jones 对 The Verge 表示。“我们将继续协调、支持和协助我们的客户采取缓解措施。”
+在去年午夜暴风雪袭击之前，在“一系列安全故障”发生后，微软已经宣布正在彻底改革其网络安全工作。最近，这家软件巨头表示，它正在将安全作为其“首要任务”，试图重建已经失去的信任。]]></description>
+      <guid>https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets</guid>
+      <pubDate>Thu, 04 Jul 2024 14:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲爱的 Roku，你毁了我的电视</title>
+      <link>https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off</guid>
+      <pubDate>Thu, 04 Jul 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>又是一个科幻流媒体大热的夏天</title>
+      <link>https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple</guid>
+      <pubDate>Thu, 04 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kobo 出色的彩色电子阅读器因锁定而受阻</title>
       <link>https://www.theverge.com/2024/7/4/24158251/kobo-libra-clara-colour-e-reader-review</link>
@@ -105,7 +135,7 @@ Z Flip 6 的封面屏幕解释器模式。
 
 Hugo Herrera 为 The Verge 绘制的插图
 
-2024 年亚马逊 Prime Day 即将到来。为期两天的年度超级大减价将于 7 月 16 日开始，持续至 7 月 17 日，为亚马逊 Prime 订阅用户带来大量折扣、促销和独家优惠。这可能不是我们今年看到的唯一一次 Prime Day 活动——亚马逊最近已开始在秋季举办第二次购物活动——但它很可能仍然是今年除黑色星期五和网络星期一之外获得一系列科技产品折扣的最佳机会之一。
+2024 年亚马逊 Prime Day 即将到来。为期两天的年度超级大减价将于 7 月 16 日开始，持续至 7 月 17 日，为亚马逊 Prime 订阅用户带来大量折扣、促销和独家优惠。这可能不是我们今年看到的唯一一次 Prime Day 活动——亚马逊最近已开始在秋季举办第二次购物活动——但它很可能仍然是今年除黑色星期五和网络星期一之外以折扣价购买一系列科技产品的最佳机会之一。
 与往年一样，我们重点介绍了各种 Verge 认可的小工具和小玩意儿的最佳优惠，从最新的笔记本电脑和 OLED 电视到可以让您的硬木地板像客厅地毯一样一尘不染的机器人吸尘器。我们还收集了沃尔玛和塔吉特等竞争零售商的反 Prime Day 优惠，以及充分利用 48 小时活动的一系列实用技巧和窍门。
 降价肯定是短暂的，但如果你动作够快，你可能可以在蛋酒还没端上来之前就把一些商品从你的节日愿望清单上划掉。]]></description>
       <guid>https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024</guid>
@@ -125,61 +155,12 @@ Hugo Herrera 为 The Verge 绘制的插图
 
 照片由 Jennifer Pattison Tuohy / The Verge 拍摄
 
-在通往智能家居的道路上，穿梭于各种平台、生态系统、协议和小工具的迷宫中是一项全职工作。 （我应该知道；这是我的。） 智能家居前景广阔。它可以让生活更加便捷，当你走进房间时，灯会亮起，门当你靠近时会解锁，机器人会清洁你的地板。它还可以让你的家更安全、更节能，甚至更有趣。 （您是否尝试过让 Alexa 为您传送信息？）
-尽管智能家居有很多好处，但它也可能很复杂、令人困惑，并且有时甚至令人抓狂。要跟上所有的变化也很困难。每天都有新的小工具问世，旧产品有了新功能，并且有很多种不同的方法来打开智能灯泡。
+在通往智能家居的道路上，穿梭于各种平台、生态系统、协议和小工具的迷宫中是一项全职工作。 （我应该知道；这是我的。） 智能家居前景广阔。它可以让生活更加便捷，当你走进房间时，灯会亮起，当你靠近时，门会解锁，机器人会清洁你的地板。它还可以让你的家更安全、更节能，甚至更有趣。 （您是否尝试过让 Alexa 为您传送信息？）
+尽管智能家居有很多好处，但它也可能很复杂、令人困惑，并且有时甚至令人抓狂。要跟上所有变化也很困难。每天都有新的小工具问世，旧产品有了新功能，并且有很多种不同的方法来打开智能灯泡。
 如果您需要指南，我在这里就是为您服务的。
 在这里，我将发布最新的智能家居评论、指南、新闻和观点，介绍联网家庭中发生的一切。关注此页面可了解 Apple、亚马逊、三星、谷歌、Home Assistant 以及其他公司在其智能家居平台方面的动态。我会随时向您通报所有最新技术，包括 Matter、Thread、Sidewalk、UWB — 以及经典老物件。当然，我还会报道所有最新电子产品的新闻以及家居科技领域的最新动态。]]></description>
       <guid>https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets</guid>
       <pubDate>Wed, 03 Jul 2024 21:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game Boy 相机即将重获新生，成为一款糟糕的网络摄像头</title>
-      <link>https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo</link>
-      <description><![CDATA[
-
-使用 Game Boy 摄像头作为网络摄像头时，您不必担心头发会是什么样子。它总是看起来很糟糕。 |屏幕截图：结语
-
-这款已有 26 年历史的 Game Boy Camera 仍然受到一些追求低保真美感的摄影师的青睐，很快，它就可以兼作网络摄像头，让任何想要在视频通话中看起来像是一团低分辨率像素混乱的人都可以使用它。
-这可以通过使用 GB Operator 来实现：这是一个 USB 底座，可容纳 Game Boy、Game Boy Color 和 Game Boy Advance 卡带通过名为 Playback 的应用程序和开源 mGBA 模拟器在电脑上（或 Steam Deck）播放。该底座还可以备份保存的游戏数据或轻松提取 Game Boy 相机拍摄的照片。
-其背后的公司 Epilogue 在 X 上分享了一段关于新功能的简短视频，并告诉Time Extension，“我们现在有来自 Game Boy 相机的实时视频，但仍需要微调一些东西并允许配置选项。”
-它还将这项新功能描述为“您将拥有的最差和最好的网络摄像头”。
-
-
-来自辉煌的 16 千像素团队的问好！即将在您附近的 GB 运营商处推出。 pic.twitter.com/nFjiQxn9DO— Epilogue (@meet_epilogue) 2024 年 7 月 2 日
-
-
-
-之前尝试将 Game Boy 相机变成网络摄像头需要一堆硬件，包括一台 Super Nintendo、一个 Super Game Boy 卡带、一个设备将复合视频信号转换为 HDMI，并为 PC 配备视频采集卡。Epilogue 的解决方案看起来更简单，几乎无痛——除了那些被迫通过数码摄影遗物观看同事直播的人。
-
-
-时尚、超级、透明：SN Operator 的第一张官方图片✨！ pic.twitter.com/3r8CO8tbHX— Epilogue (@meet_epilogue) 2024 年 5 月 26 日
-
-
-除了以 Game Boy 为重点的 GB Operator 之外，Epilogue 最近还分享了即将推出的 SN Operator 的首批图片，该 SN Operator 提供相同的功能和 PC 连接，但适用于 Super Nintendo 卡带。目前尚​​无关于 SN Operator 何时发布的详细信息，“即将推出”是 GB Operator 升级的唯一时间表。]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo</guid>
-      <pubDate>Wed, 03 Jul 2024 21:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前 MacBook 的最佳优惠</title>
-      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
-      <pubDate>Wed, 03 Jul 2024 21:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twilio 警告 Authy 双因素应用用户“威胁行为者”掌握了他们的电话号码</title>
-      <link>https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-Twilio 表示，有人获取了与其双因素身份验证服务 (2FA) Authy 相关的电话号码，因为 TechCrunch 早些时候报道过。 Twilio 在周一发布的安全警报中警告称，“威胁行为者”可能会尝试使用被盗的电话号码进行网络钓鱼攻击和其他诈骗。
-此次事件是 2022 年数据泄露事件之后发生的，当时一场网络钓鱼活动诱骗员工泄露了他们的登录凭据。 攻击者访问了 163 个 Twilio 帐户的数据，并成功访问和注册了 93 个 Authy 帐户上的其他设备。
-Twilio 将此泄漏追溯到“未经身份验证的端点”，此后它已对其进行了保护。上周，威胁行为者 ShinyHunters 在暗网上发布了一份来自 Authy 帐户的 3300 万个电话号码的列表。正如 BleepingComputer 所指出的 ，威胁行为者似乎通过将大量电话号码列表输入 Authy 不安全的 API 端点来获取信息，然后该端点将验证这些电话号码是否与该应用程序相关联。
-“我们鼓励所有 Authy 用户保持警惕，并提高对所收到短信的警惕性，”Twilio 写道。它补充说，“没有证据表明威胁行为者获得了 Twilio 系统或其他敏感数据的访问权限”，并且 Authy 帐户没有受到损害。 Twilio 建议用户更新 Android 和 iOS 上的 Authy 应用（Authy 桌面应用已停用）。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach</guid>
-      <pubDate>Wed, 03 Jul 2024 21:10:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Wed, 03 Jul 2024 12:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 15:17:05 GMT</lastBuildDate>
+    <item>
+      <title>Lummi：永远告别枯燥无味的照片</title>
+      <link>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</link>
+      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像来增强创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</guid>
+      <pubDate>Thu, 04 Jul 2024 12:27:07 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述#45</title>
       <link>https://tympanus.net/codrops/2024/07/03/ui-interactions-animations-roundup-45/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[年轻设计师的 5 个残酷事实 * 锚点位置工具 * “点” 自定义元素]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-849/</guid>
       <pubDate>Fri, 21 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似终端排版的悬停动画</title>
-      <link>https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/</link>
-      <description><![CDATA[一些有趣的类似终端的字符悬停动画，用于文本行。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/</guid>
-      <pubDate>Wed, 19 Jun 2024 13:53:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
