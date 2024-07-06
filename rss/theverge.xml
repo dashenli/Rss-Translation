@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Jul 2024 18:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:18:14 GMT</lastBuildDate>
+    <item>
+      <title>电动自行车旅行：四天 250 英里的旅行经验教训</title>
+      <link>https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review</guid>
+      <pubDate>Sat, 06 Jul 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Notes 在 iPhone 上创建 PDF</title>
       <link>https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to</link>
@@ -85,22 +92,6 @@ YouTube 的支持页面表示，如果歌曲难以删除，“删除歌曲”工
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness</guid>
       <pubDate>Fri, 05 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌可能会通过 Pixel 9 解决指纹扫描仪问题</title>
-      <link>https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor</link>
-      <description><![CDATA[
-
-解锁下一代 Google Pixel 手机应该不会那么闹剧。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-据 Android Authority 报道，谷歌即将推出的 Pixel 9 系列将配备更快、更可靠的超声波指纹扫描仪。它将用能够读取湿指纹或油指纹的新技术取代谷歌在 Pixel 6上推出的光学屏下指纹传感器。
-这一转变还可以解决一些问题 用户在尝试解锁 Pixel 设备时遇到的 普遍 问题，有些人表示光线水平和手指干燥会影响先前光学读取器的可靠性。光学扫描仪是读取指纹的最古老方法。它们的工作原理是将光线照射到用户的手指上，然后目视检测表面的图案和脊线——这意味着任何变化（如污垢或瑕疵）都可能干扰该过程。
-
-相比之下，超声波传感器通过反射超声波脉冲来更准确地读取指纹，这也可以避免用户在夜间解锁手机时被弄瞎。据可靠爆料人 Kamila Wojciechowska 称，Pixel 9 将使用高通的 3D Sonic Gen 2 (QFS4008)，与 三星 Galaxy S24 Ultra 上的型号相同。
-
-Android Authority 表示，新的超声波指纹扫描仪将在除 即将推出的 Fold 2，预计将保留其当前基于电源按钮的指纹传感器。我们可能会在 8 月 13 日的 Google Pixel 9 硬件活动 期间了解更多信息。]]></description>
-      <guid>https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor</guid>
-      <pubDate>Thu, 04 Jul 2024 16:59:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
