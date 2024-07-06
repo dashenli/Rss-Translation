@@ -4,7 +4,28 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Fri, 05 Jul 2024 21:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:58:23 GMT</lastBuildDate>
+    <item>
+      <title>德克萨斯州和佛罗里达州接连发生鲨鱼袭击事件，造成 4 人受伤</title>
+      <link>https://www.npr.org/2024/07/05/nx-s1-5030334/shark-attacks-texas-florida</link>
+      <description><![CDATA[自 7 月 4 日起的一天内，沿海水域被鲨鱼咬伤的人数异常多。专家表示，单单鲨鱼袭击事件增加并不会引起担忧。]]></description>
+      <guid>https://www.npr.org/2024/07/05/nx-s1-5030334/shark-attacks-texas-florida</guid>
+      <pubDate>Fri, 05 Jul 2024 23:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>朝鲜人在财富 500 强企业获得工作，以资助核武器计划</title>
+      <link>https://www.npr.org/2024/07/05/nx-s1-5009286/north-koreans-got-jobs-at-fortune-500-companies-to-fund-the-nuclear-weapons-program</link>
+      <description><![CDATA[美国政府和私营部门正在努力解决一个棘手的问题。朝鲜 IT 工作者和黑客正在渗透财富 500 强企业，为朝鲜政权的核武器计划提供资金。]]></description>
+      <guid>https://www.npr.org/2024/07/05/nx-s1-5009286/north-koreans-got-jobs-at-fortune-500-companies-to-fund-the-nuclear-weapons-program</guid>
+      <pubDate>Fri, 05 Jul 2024 21:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么宫内节育器对女性来说仍然如此神秘？看看资金、医生和政治</title>
+      <link>https://www.npr.org/2024/07/05/nx-s1-5028086/why-are-iuds-still-such-a-mystery-to-women-look-at-funding-doctors-and-politics</link>
+      <description><![CDATA[宫内节育器是一种安全可靠的避孕方式，但许多人都很难找到有关该装置的简单答案。NPR 的 Ailsa Chang 与 Mia Armstrong-Lopez 进行了交谈，后者为 Slate 撰写了这篇文章。]]></description>
+      <guid>https://www.npr.org/2024/07/05/nx-s1-5028086/why-are-iuds-still-such-a-mystery-to-women-look-at-funding-doctors-and-politics</guid>
+      <pubDate>Fri, 05 Jul 2024 21:44:43 GMT</pubDate>
+    </item>
     <item>
       <title>谁支持拜登？我们正在跟踪</title>
       <link>https://www.npr.org/2024/07/05/g-s1-8551/biden-support-tracker</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[6 月份，美国雇主新增就业岗位 206,000 个，较上月略有放缓。失业率小幅上升至 4.1%。]]></description>
       <guid>https://www.npr.org/2024/07/05/nx-s1-5027835/u-s-employers-added-206-000-in-june-a-slowdown-but-more-than-forecasters-expected</guid>
       <pubDate>Fri, 05 Jul 2024 20:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国新政府由凯尔·史塔默爵士领导</title>
-      <link>https://www.npr.org/2024/07/05/nx-s1-5030136/the-u-k-has-a-new-government-with-sir-keir-starmer-at-the-helm</link>
-      <description><![CDATA[随着基尔·斯塔默爵士领导的工党在历史性选举中获胜，英国有了新政府和新首相。]]></description>
-      <guid>https://www.npr.org/2024/07/05/nx-s1-5030136/the-u-k-has-a-new-government-with-sir-keir-starmer-at-the-helm</guid>
-      <pubDate>Fri, 05 Jul 2024 20:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登总统今天的采访对他的 2024 年竞选具有重大意义</title>
-      <link>https://www.npr.org/2024/07/05/nx-s1-5028578/biden-interview-debate</link>
-      <description><![CDATA[民主党人和捐赠者正在关注拜登总统如何回答美国广播公司 (ABC) 的乔治·斯蒂芬诺普洛斯 (George Stephanopoulos) 的问题。如果他表现不佳，可能会加剧党内对他是否应该继续参选的担忧。]]></description>
-      <guid>https://www.npr.org/2024/07/05/nx-s1-5028578/biden-interview-debate</guid>
-      <pubDate>Fri, 05 Jul 2024 18:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>法院和监管机构正在探讨“售后回租”交易是否实际上是贷款</title>
-      <link>https://www.npr.org/2024/07/05/g-s1-8516/sale-leaseback-deals-are-they-loans</link>
-      <description><![CDATA[法院正在处理这样一个问题：售后回租交易是否更像是抵押贷款而非直接销售，因此应像贷款一样进行监管。]]></description>
-      <guid>https://www.npr.org/2024/07/05/g-s1-8516/sale-leaseback-deals-are-they-loans</guid>
-      <pubDate>Fri, 05 Jul 2024 18:04:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
