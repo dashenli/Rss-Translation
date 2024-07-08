@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Sun, 07 Jul 2024 03:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 21:16:14 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 520：残酷的夏天</title>
+      <link>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</link>
+      <description><![CDATA[关于苹果与 Epic 和欧盟之争的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</guid>
+      <pubDate>Mon, 08 Jul 2024 21:04:06 GMT</pubDate>
+    </item>
     <item>
       <title>我会让我的人工智能给你的人工智能发邮件</title>
       <link>https://sixcolors.com/post/2024/07/ill-have-my-ai-email-your-ai/</link>
@@ -53,7 +60,7 @@
     <item>
       <title>（赞助商）ListenLater.net</title>
       <link>https://sixcolors.com/sponsor/2024/06/listenlater-net/</link>
-      <description><![CDATA[感谢 ListenLater.net 本周赞助 Six Colors。
+      <description><![CDATA[感谢 ListenLater.net 本周赞助《六色》。
 ListenLater.net 是一个聪明的想法——它将您的阅读列表变成播客播放列表。我整个星期都在收集较长的文章，而我现在没有时间深入研究这些文章——它们经常在混乱中被遗失。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/06/listenlater-net/</guid>
       <pubDate>Fri, 28 Jun 2024 16:00:19 GMT</pubDate>
@@ -69,7 +76,7 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
     <item>
       <title>（播客）顺流 72：从残骸中打捞出来的鱼叉枪</title>
       <link>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</link>
-      <description><![CDATA[电视评论家蒂姆·古德曼 (Tim Goodman) 应邀讨论 WBD 和派拉蒙 (Paramount) 的混乱局面，并介绍他在 Substack 上的最新动态。…]]></description>
+      <description><![CDATA[电视评论家蒂姆·古德曼 (Tim Goodman) 受邀讨论 WBD 和派拉蒙 (Paramount) 的混乱局面，并介绍他在 Substack 上的最新动态。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</guid>
       <pubDate>Thu, 27 Jun 2024 23:23:13 GMT</pubDate>
     </item>
@@ -110,14 +117,6 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
 如果您对 Bartender 的信任因为这一系列事件而动摇，您可能正在寻找替代方案。…]]></description>
       <guid>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</guid>
       <pubDate>Tue, 25 Jun 2024 17:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为编排应用时代做好准备</title>
-      <link>https://sixcolors.com/post/2024/06/preparing-for-the-era-of-orchestrated-apps/</link>
-      <description><![CDATA[Apple 的 WWDC 2024 中的 App Intents 幻灯片。
-我们还需要几年时间才能真正看到 Apple 通过 Apple Intelligence 采用全系统 AI 功能的影响。…]]></description>
-      <guid>https://sixcolors.com/post/2024/06/preparing-for-the-era-of-orchestrated-apps/</guid>
-      <pubDate>Tue, 25 Jun 2024 13:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
