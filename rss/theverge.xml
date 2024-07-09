@@ -4,166 +4,142 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jul 2024 15:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:19:21 GMT</lastBuildDate>
     <item>
-      <title>华盛顿邮报制作了一个人工智能聊天机器人来回答有关气候的问题</title>
-      <link>https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot</link>
-      <description><![CDATA[
-
-图片：《华盛顿邮报》
-
-《华盛顿邮报》 正在其主页、应用程序和文章中植入一个以气候为重点的全新 AI 聊天机器人。这款名为“气候答案”的实验性工具将利用该媒体的广泛报道来回答有关气候变化、环境、可持续能源等问题。
-你可以向聊天机器人提出一些问题，包括“我应该为我的家安装太阳能电池板吗？”或“美国哪里的海平面上升最快？”就像我们见过的其他人工智能聊天机器人一样，它会使用经过训练的信息提供摘要。在这种情况下，气候答案使用《华盛顿邮报》气候版块中的文章（最早可追溯到 2016 年该版块推出时）来回答问题。 
-
-
-图片：华盛顿邮报
-
-“我们有很多创新和原创的报道，”华盛顿邮报首席技术官 Vineet Khosla 在接受 The Verge 采访时表示。 “在我们多年来所做的数据丰富的报道中，我们写的东西中隐藏着一个答案。”
-在答案下面，你会发现聊天机器人用来生成答案的文章链接，以及它从中提取信息的相关片段。该工具基于 OpenAI 的一个大型语言模型，但《华盛顿邮报》也在试验 Mistral 和 Meta 的 Llama 的人工智能模型。 
-
-
-图片：华盛顿邮报
-
-当被问及是否存在误传的可能性时，Khosla 表示，Climate Answers 不会对没有答案的问题做出回应。“与其他答案服务不同，我们确实将其融入经过验证的新闻报道中，”Khosla 说道。“如果我们不知道答案，我宁愿说‘我不知道’，也不愿编造答案。”但是，我们计划在今天推出该工具时试用它，以了解它的防护措施。《华盛顿邮报》并不是唯一一家依靠其信息档案来支持 AI 聊天机器人的新闻机构。今年 3 月，《金融时报》开始测试Ask FT，这是一个聊天机器人，订阅者可以使用它来获取与该机构报道相关主题的答案。与此同时，其他出版商，如新闻集团、Axel Springer、Dotdash Meredith 和 The Verge 的母公司， href=&quot;https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic&quot;&gt;Vox Media 已与 OpenAI 建立许可合作伙伴关系。
-《华盛顿邮报》 一直在逐步扩大其对人工智能的使用；据 Khosla 称，该媒体还为其部分文章推出了人工智能摘要。尽管《华盛顿邮报》的新聊天机器人目前只能回答与气候相关的问题，但 Khosla 并没有排除将其扩展到该媒体报道的其他主题的可能性。“我们绝对希望这个实验能够扩展并扩展到《华盛顿邮报》所做的一切，”Khosla 说。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot</guid>
-      <pubDate>Tue, 09 Jul 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sling TV 是最新一款带有烦人暂停广告的流媒体服务</title>
-      <link>https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable</link>
-      <description><![CDATA[
-
-图片：Sling TV
-
-根据 来自其母公司 Dish 的公告。但如果您不想，您不必处理这些额外的广告——Sling TV 分享的暂停广告示例表示您可以从设置菜单中“关闭暂停广告”。
-在一个越来越难以摆脱侵入性暂停广告的行业中，这让人松了一口气。想停止节目以仔细查看屏幕上的某些内容吗？或者也许您想欣赏一下您最喜欢的演员的特写镜头？好吧，暂停广告几乎使这成为不可能，因为它们通常会占据整个或部分屏幕。
-
-
-GIF：Sling TV
-暂停广告可以包含视频或静态内容。
-
-许多一些服务已开始使用暂停广告，其中包括 Peacock、Amazon Prime Video、Max、YouTube 和 Hulu（后者因在暂停期间播放 Charmin 卫生纸熊而臭名昭著）。此外，据 Marketing Brew 报道，Netflix 可能是下一个加入暂停广告潮流的公司。
-与其他流媒体一样，Sling TV 也倾向于通过广告来获得更多收入。该服务的暂停广告格式将允许广告商展示视频或静态内容，甚至可以包含将观众链接到产品的二维码。您可以按任意按钮继续观看您正在观看的内容。
-虽然暂停广告很可怕，但很高兴看到 Sling TV 为用户提供了退出的选择——其他流媒体请注意。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable</guid>
-      <pubDate>Tue, 09 Jul 2024 14:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 的下一场直播活动是乔·罗根 (Joe Rogan) 的喜剧特辑</title>
-      <link>https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august</link>
-      <description><![CDATA[
-
-照片由 Chris Unger/Zuffa LLC 通过 Getty Images 拍摄
-
-Netflix 继续进军现场活动，这次将推出 Joe Rogan 的喜剧特辑。该活动名为“Burn the Boats”，将于美国东部时间 8 月 3 日晚上 10 点在德克萨斯州圣安东尼奥进行现场直播。 Netflix 表示，这将是罗根六年来的第一部喜剧特辑，也是播客和前Fear Factor主持人与该流媒体的第三次合作；他之前曾在 2016 年和 2018 年发布了两场录制的活动。
-
-这一声明尤其引人注目，因为 Netflix 继续将现场活动作为其服务的重要组成部分。此前，该公司已经制作了克里斯·洛克 (Chris Rock) 和约翰·木兰尼 (John Mulaney) 的喜剧特辑，去年，该公司制作了喜剧特辑，开始涉足体育直播。到目前为止，它已经与NFL和WWE签署了广播协议，并且还将直播拳击和竞食。
-该公司还采取措施，使其产品多样化，而不仅仅是流媒体通过在其目录中添加游戏，并计划于明年推出沉浸式娱乐和零售体验。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august</guid>
-      <pubDate>Tue, 09 Jul 2024 14:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 和阿里安娜·赫芬顿正在合作开发“AI 健康教练”</title>
-      <link>https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health</link>
+      <title>如何管理 Chromebook 上已删除的文件</title>
+      <link>https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health</guid>
-      <pubDate>Tue, 09 Jul 2024 14:16:28 GMT</pubDate>
+      <guid>https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to</guid>
+      <pubDate>Tue, 09 Jul 2024 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>《角斗士 II》首支预告片：罗马必须陷落</title>
-      <link>https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer</link>
+      <title>《吸血鬼幸存者》即将登陆 Apple Arcade</title>
+      <link>https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends</link>
       <description><![CDATA[
 
-艾丹·莫纳汉
+这是 Steam 上《吸血鬼幸存者》的屏幕截图。它仍然有效地传达了实际玩游戏时的绝对混乱。 |图片：Poncle
 
-24 年后，雷德利·斯科特带着《角斗士》的续集回归，续集的新预告片承诺将有面包、马戏团和一桶桶鲜血。
-《角斗士 II》的故事发生在第一部电影的几十年后，讲述了一个新的传奇故事，讲述了如今已长大成人的卢修斯·维鲁斯（保罗·梅斯卡尔饰）如何成为一名被奴役的角斗士，尽管他是罗马帝国的前继承人。虽然卢修斯可以清楚地回忆起童年的一些时刻，但当他与权力掮客马克里努斯（丹泽尔·华盛顿饰）相遇时，他对母亲露西拉（康妮·尼尔森饰）的记忆似乎已经淡忘了。
-作为一名武器和战士交易员，马克里努斯在卢修斯在斗兽场与犀牛搏斗时看到了他身上的巨大潜力。但尽管卢修斯擅长杀死动物，他真正想要的是推翻罗马本身——或者至少是它的新领导人，盖塔皇帝（约瑟夫·奎因）、卡拉卡拉皇帝（弗雷德·赫钦格）和马库斯·阿卡西乌斯将军（佩德罗·帕斯卡）。
-在沙土投掷、咆哮的人群和激烈的战斗之间，预告片让《角斗士 II》看起来就像第一部电影的粉丝们一直渴望的那样。当《角斗士 II》于 11 月 22 日上映时，这部电影与《魔法坏女巫》争夺票房霸主地位将会非常有趣。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer</guid>
-      <pubDate>Tue, 09 Jul 2024 14:06:50 GMT</pubDate>
+吸血鬼幸存者是一款热门的弹幕生存游戏，玩家需要对抗成群的像素化怪物，该游戏将于 8 月 1 日登陆 Apple Arcade，苹果周二宣布。
+该游戏已经在 iOS 上免费提供，但这个新版本（技术上称为吸血鬼幸存者 Plus）将无广告并包含两个 DLC 包，Legacy of the Moonspell 和 Tides of the Foscari，玩家通常必须单独购买。您还可以在一台 iOS 设备上与最多四人玩多人游戏。
+Apple 还透露了即将登陆 Apple Arcade 的另外两款游戏。Temple Run: Legends，也将于 8 月 1 日上市，根据 Apple 的新闻稿，它是“热门系列中第一款基于关卡的跑酷游戏”，拥有超过 500 个关卡。（如果您只是想尽可能长时间地奔跑，还有无限奔跑模式。）Castle Crumble，一款让您摧毁城堡的益智游戏，将于 8 月 29 日更新以支持 Vision Pro。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends</guid>
+      <pubDate>Tue, 09 Jul 2024 17:35:22 GMT</pubDate>
     </item>
     <item>
-      <title>Vergecast 创建了一家科技公司</title>
-      <link>https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle</link>
+      <title>索尼 PS5 DualSense Edge Pro 控制器现优惠 24 美元</title>
+      <link>https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale</link>
       <description><![CDATA[
 
-图片：Alex Parkin / The Verge
+照片由 Amelia Holowaty Krales / The Verge 拍摄
 
-欢迎参加 The Vergecast Inc. 董事会成立大会。今天议程上唯一的项目是什么？打造宇宙历史上最伟大的科技公司。我们将从世界各地的科技公司借用、窃取和购买最好的产品和业务，以提供最好的产品线。钱不是问题，尽管我们希望在某个时候赚一些钱。让我们开始吧。
-在这期The Vergecast中，我们的联合主持人 Nilay Patel、Alex Cranz 和 David Pierce 放下麦克风和耳机，穿上西装领带，花了一个小时创办一家科技公司。 （向The Big Picture致敬，为格式提供一些灵感。）规则很简单：我们可以从我们选择的每个类别中挑选一个产品，但我们只能从给定的公司中挑选一个产品。在练习结束时，我们将列出小工具、应用程序、B2B 赚钱工具等。
+索尼面向专业人士的 PlayStation 5 控制器几乎从未从 199.99 美元的高价位降价，但值得庆幸的是，今天的情况略有不同。您可以通过沃尔玛的在线专享优惠，以 174.99 美元（约优惠 24 美元）的价格购买 DualSense Edge，将这款专业游戏手柄的价格降至迄今为止的最低价。
 
-在阅读下面的列表之前，请务必先听一下，因为它会完全破坏整个情节。 
-但如果你想复习一下，以下是 The Vergecast Inc. 的官方产品阵容：
+DualSense Edge 的亮点在于它与 PS5 完美无缺的软件集成。您可以微调最多四个配置文件，每个配置文件都有您自己的个人调整，例如摇杆灵敏度和自定义后按钮控制，并且可以轻松地在运行中切换配置文件。Edge 还具有标准 DualSense 的所有触觉和功能，以及诸如触发锁定、可互换的摇杆顶盖和两种样式的后拨片/按钮等附加功能。
+现在，对于如此昂贵的控制器来说，DualSense Edge 确实存在一些值得注意的缺点，例如电池寿命略显不足，并且摇杆像每个 PS5 都配备的更便宜的同类产品一样容易漂移。不过，索尼至少内置了一些可以弥补这些缺点的功能，比如一条很长的 USB 充电线，它有一个巧妙的锁定机制，还有用户可更换的摇杆模块，如果你的摇杆出现问题，你可以稍后花 20 美元购买（如果你有没有发现它们有库存，当然）。
 
-智能手机：Apple iPhone
-平板电脑：Amazon Kindle
-PC：联想的产品阵容
-可穿戴设备：Meta 的 Quest 和智能眼镜
-耳机 — 抱歉，“音频解决方案”：索尼的产品阵容
-应用平台：Adobe Creative Cloud
-消息应用：Google Chat
-流媒体服务：TikTok
-万能小工具：富士 X100
-我们要收购的初创公司：Anthropic
-
-
-
-
-您认为我们做对了什么？我们遗漏了什么？请告诉我们，我们会在下次会议前提请董事会注意。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle</guid>
-      <pubDate>Tue, 09 Jul 2024 13:30:52 GMT</pubDate>
+Edge 的此次促销是沃尔玛大型促销活动的一部分，与亚马逊即将于 7 月 16 日和 17 日举行的 Prime Day 活动相对应。这场富有想象力的“沃尔玛特卖”活动将持续到 7 月 11 日，除了 DualSense Edge 之外，还有值得注意的促销活动，例如 M1 MacBook Air 售价 649 美元。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale</guid>
+      <pubDate>Tue, 09 Jul 2024 17:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 将允许你在播客节目上发表评论</title>
-      <link>https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments</link>
-      <description><![CDATA[
-
-图片：Nick Barclay / The Verge
-
-Spotify 正在推出在播客上发表评论的功能。该公司已经允许 Spotify 播客提供民意调查和问答，因此这项新功能可以为创作者提供与观众互动的新方式。
-评论默认为私密（类似于问答回复），因此创作者必须批准他们想要出现的每条评论。创作者可以选择为整个节目或特定剧集提供评论，如果他们根本不想允许评论，他们可以选择退出该功能。
-
-
-图片：Spotify
-
-Spotify 播客产品副总裁 Maya Prohovnik 表示，从周二开始，创作者可以在 Spotify for Podcasters 网络应用上管理评论，这是经过改进的 Spotify for Podcasters 移动应用的一部分，该应用将在未来几天分阶段推出。Prohovnik 表示，从周二开始，播客听众的评论也将在大多数 Spotify 市场分阶段推出。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments</guid>
-      <pubDate>Tue, 09 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托罗拉 2024 年的 Razr Plus 是一款非常有趣的翻盖手机，但也有同样的缺陷</title>
-      <link>https://www.theverge.com/24191156/motorola-razr-plus-2024-review-screen-battery-camera</link>
+      <title>共和党不会停止试图取消拜登的电动汽车税收抵免</title>
+      <link>https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24191156/motorola-razr-plus-2024-review-screen-battery-camera</guid>
-      <pubDate>Tue, 09 Jul 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo</guid>
+      <pubDate>Tue, 09 Jul 2024 17:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>Etsy 在与 Temu 和亚马逊竞争时失去了“手工”和“复古”标签</title>
-      <link>https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change</link>
+      <title>美国联邦贸易委员会称匿名消息应用程序未能阻止“猖獗的网络欺凌”</title>
+      <link>https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa</guid>
+      <pubDate>Tue, 09 Jul 2024 16:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>极端高温和飓风贝丽尔在德克萨斯州造成灾难性连环袭击</title>
+      <link>https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas</guid>
+      <pubDate>Tue, 09 Jul 2024 16:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Razer 击败 Wooting，为 PC 游戏提供快速新键盘功能</title>
+      <link>https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy</link>
       <description><![CDATA[
 
-插图由 Alex Castro / The Verge 提供
+图片：Razer
 
-Etsy 长期以来一直销售属于以下两个类别之一的物品：手工制作或复古。现在，这种相当狭窄的分类正在发生变化。
-今天宣布的一项政策更新为 Etsy 上出售的商品创建了四个新分类：“制造”、“设计”、“精心挑选”和“采购”。所有产品都需要属于这四个类别之一才有资格在该平台上销售。
-古董物品——Etsy 产品的主打产品——将归入“精心挑选”类别。珠子或粘土等工艺品被视为“采购”。陶瓷艺术家手工制作的花瓶属于“制造”类别，而数字插图则被视为卖家“设计”。这些类别将在 Etsy 产品列表中可见。
-该公司表示，这在实践中不会改变任何事情——以前禁止的事情，例如转售他人制作的物品，在新政策下仍然不被允许政策。
-“这里一致的主题是物品融入了人性化元素，因为这就是 Etsy 的魅力所在，”首席执行官 Josh Silverman 在一段视频信息中说道。该公司表示，新类别的目标是向购物者提供更多有关物品制作方式以及卖家如何参与制作过程的详细信息。
-Etsy 与亚马逊或 Temu 等其他市场有所不同，强调自己是一个寻找由工匠制作或策展人挑选的独特物品的地方。但多年来，该公司已经放松了关于什么才算“手工制作”的规定。
-2013 年，该公司宣布将允许卖家使用外部生产帮助。例如，在新冠疫情期间兜售布口罩的卖家可以与服装厂签约进行实际缝纫，平面设计师可以使用按需印刷服务制作印有自己作品的 T 恤，而不必自己进行丝网印刷。
-此次扩张为该平台带来了更广泛的创意，但沮丧的店主表示，这也为骗子和直销商打开了大门——这些卖家购买廉价、批量生产的产品，并在 Etsy 上冒充手工制作。大批量生产商品的增加是2022 年 Etsy 卖家罢工期间的一个核心投诉，制造商表示该公司没有采取足够措施来清除违反手工制作政策。 Etsy 还试图抵御 Temu 等超低价在线零售商的崛起，推出新的网站功能和华丽的超级碗广告来尝试做到这一点。
-多年来，保留手工制作的人性化部分一直是 Etsy 的名片，这对公司来说是一个关键时刻。与其他在线平台一样，Etsy 也发现合成的人工智能生成内容悄悄进入其产品列表，尽管明显有人工智能工具的痕迹，但仍然被列为“手工制作”。引入新类别是为了向购物者保证他们购买的是人工制作或挑选的产品。这也是一种缓解实际工匠担忧的方式，他们长期以来一直抱怨自己被排挤：先是被直销商排挤，现在是被机器人排挤。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change</guid>
-      <pubDate>Tue, 09 Jul 2024 12:59:20 GMT</pubDate>
+Razer 今日为其 Huntsman V3 Pro 键盘推出了全新 Snap Tap 模式，旨在吸引竞技游戏玩家。 Snap Tap 与 Wooting 承诺的 Rappy Snappy 功能非常相似，其工作原理是在两个选定的按键之间优先考虑最新输入，以允许 Counter-Strike 2 和 Valorant  玩家更快地进行反击。
+Snap Tap 模式意味着您在扫射时不必释放前一个按键，因此如果您为 Snap Tap 启用 A 和 D，那么扫射几乎可以立即完成，从而改善电子竞技游戏中的方向变化和移动。差别只有几毫秒，但这足以让你比对手更快杀死对手。
+“Snap Tap 模式直接集成到固件中，无需抬起初始键即可实现即时方向变化，”Razer 表示。 “这种无缝过渡在竞技游戏中至关重要，即使是毫秒也会影响游戏结果，这使得 Snap Tap 模式成为 Huntsman V3 Pro 系列改变游戏规则的功能。”
+
+
+图片：Razer
+不使用 Snap Tap 进行扫射。
+
+
+
+图片：Razer
+使用 Snap Tap 扫射。
+
+Razer 的 Snap Tap 是在 Wooting 宣布其 Rappy Snappy 几个月后推出的功能，用于即将推出的 80HE 键盘。Wooting 还计划将 Rappy Snappy 引入其现有的 60E 键盘，该键盘被广泛认为是市场上最好的游戏键盘之一。Wooting 首次将快速触发概念引入游戏键盘，Razer、SteelSeries、Keychron 和许多其他公司都已效仿。
+令人惊讶的是，Razer 率先将 Wooting 已经宣布的功能推向市场，但尽管近几个月来一再承诺推出 Rappy Snappy 的 60HE 测试版，但该公司尚未发布它。Wooting 预计将于 8 月推出其首批配备 Rappy Snappy 的全新 80HE 键盘。
+Razer 正在推出 Snap Tap 作为 Huntsman V3 Pro 系列的软件更新，包括全尺寸、无数字键盘和 60% 型号。您需要最新版本的 Synapse 和固件更新才能启用 Snap Tap。Razer 表示这是一个“分阶段的软件更新”，因此可能还需要几天时间才能为所有 Huntsman V3 Pro 用户提供。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy</guid>
+      <pubDate>Tue, 09 Jul 2024 16:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>搬家前如何从旧电脑中取出文件</title>
-      <link>https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to</guid>
-      <pubDate>Tue, 09 Jul 2024 12:30:00 GMT</pubDate>
+      <title>《时间劫匪》的首个 Apple TV Plus 预告片开启了时间抢劫</title>
+      <link>https://www.theverge.com/24194900/time-bandits-trailer-apple-tv-plus-terry-gilliam</link>
+      <description><![CDATA[
+
+图片：Apple
+
+在《Time Bandits》的官方预告片中，Taika Waititi 和 Jemaine 主演的全新 Apple TV Plus 系列克莱门特似乎对这部 1981 年电影中梦幻般的伪现实的每一点都深感陶醉。该剧讲述了一个名叫凯文（卡尔-艾尔·塔克饰）的年轻人的故事，他在自己的房间里发现了一个时间门户，并与一群穿越时空的盗贼取得了联系。该剧将于 7 月 24 日在 Apple TV Plus 订阅用户中首播，共 10 集。
+虽然该剧改编自特里·吉列姆的时间劫匪，但预告片清楚地表明，这部剧也是一部独树一帜的作品，拥有不同的角色、时间段和情境。该节目颇受争议的是，时间盗贼原本完全由一群小人物扮演，而演员则包括丽莎·库卓 (Lisa Kudrow) 和 Rune Temte。 
+但服装和奇幻环境看起来很相似，如果比吉列姆杂乱的（以一种好的方式）视觉风格干净得多，奇思妙想似乎基本完好无损。
+
+Apple TV Plus 最近有很多其他类型的节目，从多元宇宙神秘暗物质到侦探系列糖。它还增加了该服务的不断增长的高预算科幻内容库。时间劫匪作为授权财产脱颖而出，而苹果公司在其制作中大多避免这样做。
+除了塔克，其他时间劫匪明星包括丽莎·库卓、鲁内·特姆特、泰格·墨菲、罗杰·让·恩森吉尤姆瓦和基拉·汤普森。]]></description>
+      <guid>https://www.theverge.com/24194900/time-bandits-trailer-apple-tv-plus-terry-gilliam</guid>
+      <pubDate>Tue, 09 Jul 2024 16:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 让识别和离开可疑群聊变得更加容易</title>
+      <link>https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam</link>
+      <description><![CDATA[
+
+图片：Meta
+
+很快，当 WhatsApp 用户被陌生人添加到群聊中时，该群组将显示一个“上下文卡”，其中包含关键信息，例如群组创建者、创建时间、群组描述以及用户是否由 WhatsApp 联系人列表中的某人添加。该功能的目的是更好地保护用户免受群组消息中的垃圾邮件或诈骗活动的侵害。 
+还有一个按钮可让用户快速离开群组消息，以及有关 WhatsApp 安全工具的其他信息的链接。 
+
+
+图片：Meta
+新的上下文卡让 WhatsApp 用户在加入群聊时能够快速识别危险信号。
+
+新功能类似于 WhatsApp 用户当前收到陌生人单独消息时的体验，允许用户避免与他们宁愿避开的人聊天，并更快地识别他们是否已被添加到 进行诈骗的团体或从事其他欺诈活动。
+根据 WhatsApp 的新闻稿，群聊上下文卡已经开始在全球范围内推出，并将在“未来几周内”向所有用户开放。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam</guid>
+      <pubDate>Tue, 09 Jul 2024 16:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>这可能是你拥有稀有的任天堂 PlayStation 控制器的最后机会</title>
+      <link>https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes</link>
+      <description><![CDATA[
+
+图片：Heritage Auctions
+
+2020 年，一款从未发布的任天堂 PlayStation 游戏机的稀有原型机  以 360,000 美元的价格售出拍卖。另一台设备可能永远找不到了，但任天堂和索尼合作失败的第二个原型控制器将于 8 月拍卖。
+Nintendo PlayStation 是索尼首次尝试打入游戏市场。它或多或少是一款升级了 CD-ROM 驱动器的超级任天堂游戏机，允许游戏整合索尼专有超级光盘格式的更多多媒体内容。
+任天堂于 1991 年宣布与飞利浦合作后，双方的合作破裂，人们认为 200 台任天堂 PlayStation 原型机已全部被毁 — — 至少直到 2015 年有一台原型机出现，最终在拍卖会上售出给 Pets.com 和 Toys.com 的创始人。
+Heritage Auctions 尚未透露第二次 Nintendo PlayStation 拍卖的出处，但将原型控制器描述为“具有 Super Nintendo 控制器的熟悉外壳，但正面印有深灰色的‘Sony PlayStation’”。尽管“背面有一些小凹痕”，但原型“状况非常好”，但 Heritage Auctions 无法确认它是否能正常使用，因为它设计用于的控制台极其稀缺。因此，中标者将不会获得任何回报。
+比在哪里发现这个原型更大的问题是它将卖多少钱。 2020 年，超级马里奥兄弟的密封副本以 114,000 美元的价格售出，不到一年后，另一份副本以 660,000 美元的价格售出。但与超级马里奥兄弟的副本相比，花这么多钱买一款你从未打算玩的游戏似乎很划算。 2021 年以惊人的 200 万美元的价格售出。
+从那时起，对复古收藏品的需求一直没有降温，虽然这个控制器的价格可能不如任天堂 PlayStation 游戏机那么高，但它仍然是极其罕见的硬件，可能永远不会再出现。
+根据 Heritage Auctions 的说法，对该原型的竞标将于 8 月 2 日开始，并于 8 月 24 日结束，届时我们将了解一个可能无法使用的控制器对一位幸运竞标者的价值。]]></description>
+      <guid>https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes</guid>
+      <pubDate>Tue, 09 Jul 2024 15:41:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

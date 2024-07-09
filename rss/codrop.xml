@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 05 Jul 2024 12:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:21:57 GMT</lastBuildDate>
+    <item>
+      <title>使用自定义 Three.js 材质创建动画位移球体</title>
+      <link>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</link>
+      <description><![CDATA[了解如何使用 Three.js 和 React Three Fiber 的自定义着色器创建动画、位移球体。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</guid>
+      <pubDate>Tue, 09 Jul 2024 14:05:05 GMT</pubDate>
+    </item>
     <item>
       <title>集体#853</title>
       <link>https://tympanus.net/codrops/collective/collective-853/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何仅使用 HTML 和 CSS 创建具有跑马灯效果的发光 SV​​G 文本动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/06/26/creating-a-glowing-text-marquee-animation/</guid>
       <pubDate>Wed, 26 Jun 2024 09:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站汇总：Webflow 特刊 #5</title>
-      <link>https://tympanus.net/codrops/2024/06/25/inspirational-websites-roundup-webflow-special-5/</link>
-      <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
-      <guid>https://tympanus.net/codrops/2024/06/25/inspirational-websites-roundup-webflow-special-5/</guid>
-      <pubDate>Tue, 25 Jun 2024 14:24:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

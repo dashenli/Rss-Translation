@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 08 Jul 2024 21:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:20:38 GMT</lastBuildDate>
+    <item>
+      <title>苹果超越全球个人电脑增长 ↦</title>
+      <link>https://sixcolors.com/link/2024/07/apple-outpaces-global-pc-growth/</link>
+      <description><![CDATA[分析机构 Canalys 更新了其全球 PC 市场份额统计数据，尽管 PC 行业实际上同比增长了 3.4%，但苹果的销售额在此期间增长了 6%：
+
+苹果稳居第四位，出货量为 550 万台，占据 9% 的市场份额，与去年同期相比增长了 6%。…]]></description>
+      <guid>https://sixcolors.com/link/2024/07/apple-outpaces-global-pc-growth/</guid>
+      <pubDate>Tue, 09 Jul 2024 15:50:16 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 520：残酷的夏天</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</link>
@@ -37,7 +46,7 @@
     <item>
       <title>嘿 Siri？不，我不是说你。（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2384132</link>
-      <description><![CDATA[我们即将进入 Apple Intelligence 时代，它有望极大地改变我们使用 Apple 设备的方式。最重要的是，将 Apple Intelligence 添加到 Siri 有望解决 Apple“智能”助手的许多令人沮丧的问题。…]]></description>
+      <description><![CDATA[我们即将进入 Apple Intelligence 时代，它有望彻底改变我们使用 Apple 设备的方式。最重要的是，将 Apple Intelligence 添加到 Siri 有望解决 Apple“智能”助手的许多令人沮丧的问题。…]]></description>
       <guid>https://www.macworld.com/article/2384132</guid>
       <pubDate>Wed, 03 Jul 2024 14:00:00 GMT</pubDate>
     </item>
@@ -76,7 +85,7 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
     <item>
       <title>（播客）顺流 72：从残骸中打捞出来的鱼叉枪</title>
       <link>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</link>
-      <description><![CDATA[电视评论家蒂姆·古德曼 (Tim Goodman) 受邀讨论 WBD 和派拉蒙 (Paramount) 的混乱局面，并介绍他在 Substack 上的最新动态。…]]></description>
+      <description><![CDATA[电视评论家蒂姆·古德曼 (Tim Goodman) 应邀讨论 WBD 和派拉蒙 (Paramount) 的混乱局面，并介绍他在 Substack 上的最新动态。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/downstream-72-harpoon-gun-salvaged-from-the-wreckage/</guid>
       <pubDate>Thu, 27 Jun 2024 23:23:13 GMT</pubDate>
     </item>
@@ -108,15 +117,6 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
       <description><![CDATA[尽管 Apple Intelligence 可能已经成为本月全球开发者大会主题演讲的焦点，但苹果去年的重大公告并没有被完全遗忘。…]]></description>
       <guid>https://www.macworld.com/article/2377065/apples-vision-strategy-comes-into-focus.html</guid>
       <pubDate>Wed, 26 Jun 2024 12:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>总结 Bartender 的替代品 ↦</title>
-      <link>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</link>
-      <description><![CDATA[在 Bartender 被出售后，我一直想写一篇菜单栏实用程序的比较，但 Niléane 抢先了一步：
-
-如果您对 Bartender 的信任因为这一系列事件而动摇，您可能正在寻找替代方案。…]]></description>
-      <guid>https://sixcolors.com/link/2024/06/rounding-up-bartender-alternatives/</guid>
-      <pubDate>Tue, 25 Jun 2024 17:02:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
