@@ -4,7 +4,44 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Jul 2024 21:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 01:01:37 GMT</lastBuildDate>
+    <item>
+      <title>为什么你的飞利浦 Hue 灯泡会随机将亮度设置为 100%</title>
+      <link>https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter</link>
+      <description><![CDATA[
+
+飞利浦 Hue 智能 LED 灯泡装备。 |图片：飞利浦
+
+您的飞利浦 Hue 智能灯泡是否似乎出现了问题，即使您已将其调暗，也会随机调至最大亮度？飞利浦 Hue 母公司 Signify 已意识到这一问题，并已找出根本原因，并告诉 The Verge 最快将于下周发布修复程序。 
+“经过广泛分析，我们发现了与 Matter 智能家居标准的互操作性问题，其中随机的临时无线电通信中断被错误地识别为传统开关电源切换，从而将低亮度灯光调至最大亮度，”Signify 第三方发言人 Kate Helander 告诉 The Verge。 
+
+Matter 应该是一个智能家居标准，但它在实践中却变得更加棘手——去年年底，我们在使用飞利浦 Hue 和 Matter 时遇到了相当大的麻烦。
+在这种情况下，尚不清楚哪个团体应该对此负责——我们已经要求 Matter 背后的连接标准联盟发表评论——但至少你不必等待很长时间解决方案。“该问题的永久修复正在进行中，并将在下周推出，”Signify 告诉我们。
+如果您等不及，该公司表示您可以在此期间断开 Hue Bridge 与 Matter 的连接。“请注意，您可能需要在手机设置以及您正在使用的 Matter 控制器应用程序中执行此操作，”Signify 写道。
+根据 Signify 的说法，该问题仅影响“一小部分用户”。
+顺便说一句，我的同事 Jennifer Pattison Tuohy 最近更新了她关于与 Matter 配合使用的每款智能家居设备的指南。]]></description>
+      <guid>https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter</guid>
+      <pubDate>Mon, 08 Jul 2024 22:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的 24.99 美元月付计划涵盖 Quest 3 和 Quest Plus</title>
+      <link>https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription</link>
+      <description><![CDATA[
+
+照片：David Pierce / The Verge
+
+Meta 是 现提供免息每月 24.99 美元的付款计划，以购买其 Quest 3 VR 耳机，以及价值两年的 Meta Quest Plus 游戏订阅和延长保修。该起价适用于 128GB 型号，但每月多付 10 美元即可获得 512GB 版本。无论你选择哪种方式，你都可以比单独购买所有产品少支付近 200 美元。
+贷款由 Affirm 提供，这是近年来出现的最知名的先买后付服务之一。此“先玩后付”套餐可以帮助 Meta 将耳机送到那些不愿意预付全款的人手中，但这也是Quest Plus 服务的促销活动，该服务每月会将两款游戏添加到您的库中，只要您保持订阅，这些游戏就会保留在那里。 
+
+
+屏幕截图：Meta
+Meta 将该计划作为耳机本身的折扣。
+
+Meta 的月付款计划与我们近年来看到的其他硬件和服务捆绑计划相似，例如 Xbox All Access，微软曾使用来推广 Game Pass。此外，还有苹果的基于贷款的 iPhone 升级计划，该计划将 AppleCare Plus 纳入套餐，以及谷歌提供的 Pixel Pass 手机和服务订阅，但在潜在用户升级到来之前取消。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription</guid>
+      <pubDate>Mon, 08 Jul 2024 22:02:56 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 iPhone 上创建 PDF</title>
       <link>https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to</link>
@@ -122,46 +159,6 @@ Xbox TV 应用也可在三星电视和显示器上使用。
 Xbox 应用程序在亚马逊 Fire TV Sticks 上的推出标志着此类应用程序首次在三星电视和显示器以外的设备上推出。微软一直倾向于将其 Xbox TV 应用程序安装在更多设备上，而不是生产云游戏硬件。微软还与 Meta 合作推出了一款适用于 Quest VR 耳机的 Xbox Cloud Gaming 应用程序，我希望未来能看到这款 Xbox 应用程序继续出现在更多设备上。]]></description>
       <guid>https://www.theverge.com/2024/7/8/24194333/microsoft-xbox-tv-app-xbox-cloud-gaming-amazon-fire-tv-stick-available-download</guid>
       <pubDate>Mon, 08 Jul 2024 17:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的 Echo Spot 回归，音质更出色，但没有摄像头</title>
-      <link>https://www.theverge.com/2024/7/8/24194272/amazon-echo-spot-alexa-smart-speaker</link>
-      <description><![CDATA[
-
-Echo Spot |图片：亚马逊
-
-在2024 年 Prime Day 到来之际，亚马逊推出了其与 Alexa 连接的智能扬声器/闹钟的升级版——Echo Spot。与2017 年推出的版本类似，这款产品设计为放在床头柜上，可通过小型触摸屏或语音命令进行控制，但亚马逊通过移除摄像头解决了我们对该设备最大的抱怨。
-这款产品也将以较低的价格推出。 2017 年版 Echo Spot 的发布价为 149.99 美元，而 2024 年版 Echo Spot 的正常价格为 79.99 美元，从现在起至 Prime Day（7 月 16 日至 17 日），Amazon Prime 会员可享受 44.99 美元的优惠。
-
-
-图片：亚马逊
-
-
-亚马逊承诺，新款半圆形扬声器全面升级硬件，具有“更出色的视觉效果和更出色的音质”。它还能够设置和控制智能家居中的 Matter 设备，就像 Echo Dot 和 Echo Pop 一样，还可以通过 Wi-Fi（2.4 和 5GHz）、Amazon Sidewalk 和低功耗蓝牙网状网络进行连接。
-还有一个硬件按钮可以关闭麦克风，还有物理音量控制按钮，这一次，它添加了蓝色选项，以及白色和黑色。显示屏可以设置为六种配色方案之一（橙色、紫色、洋红色、黄绿色、青绿色和蓝色），还有可自定义的钟面。
-
-
-图片：亚马逊
-
-它还包含许多动画，与天气等问题的回答、早上好/晚上好以及其他提示相关。 
-与往常一样，Alexa 搭配是这里的明星，其例程可以触发兼容智能家居设备之间的多个操作、来自其他 Alexa 设备的音频插入以及来自兼容智能门铃的警报。
-这款产品的方形 2.83 英寸、240 x 320 像素触摸屏显示屏不适用于视频通话或流媒体视频等。但是，当您想要使用 Alexa 打开或关闭灯时，它仍然可以控制音乐播放或弹出一些点击控件。
-我们需要亲自试一试，才能知道这款在 2019 年后消失的设备是否值得回归，但至少这一次，如果您想买一个摄像头，您不必决定是否在卧室里放一个。]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194272/amazon-echo-spot-alexa-smart-speaker</guid>
-      <pubDate>Mon, 08 Jul 2024 17:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>女巫在《阿加莎·阿隆》的第一部预告片中再次出现</title>
-      <link>https://www.theverge.com/24194262/agatha-all-along-trailer</link>
-      <description><![CDATA[
-
-图片由 Marvel Television 提供
-
-Marvel 花了几个月的时间推出新名字《阿加莎一直 》让人很难猜测该工作室的第一部《旺达幻视》衍生作品会有什么惊喜，但从第一部预告片来看，这似乎是一部有希望的恐怖片。
-虽然《旺达幻视》的结局让人觉得阿加莎·哈克尼斯可能会被留在她自己的噩梦情景喜剧中，但《阿加莎一直》的新预告片显示，她一直被困在一部《东城鬼魂》风格的犯罪剧中，相信自己是一名追捕杀手的侦探。有趣的是，考虑到疯狂多元宇宙中的事件，旺达·马克西莫夫的名字在阿加莎遇到里奥·维达尔（奥布瑞·普拉扎饰）之前曾短暂出现在阿加莎的虚假现实中——里奥·维达尔是一位鼓励她摆脱幻想的新女巫。但目前尚不清楚旺达是否还在某个地方，预告片清楚地表明，阿加莎失去了魔法，需要整个女巫团的帮助才能恢复。
-与旺达幻视相比，阿加莎始终似乎有望成为一部更黑暗、更恐怖的漫威项目，这可能会使其成为该工作室近期较新颖的作品之一。但预告片 — — 就像魅力广告 — — 可能会具有欺骗性，我们直到 9 月 18 日节目首播时才会知道《阿加莎一直都在》究竟有什么新花样。]]></description>
-      <guid>https://www.theverge.com/24194262/agatha-all-along-trailer</guid>
-      <pubDate>Mon, 08 Jul 2024 16:52:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
