@@ -4,142 +4,163 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jul 2024 18:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 21:15:52 GMT</lastBuildDate>
     <item>
-      <title>如何管理 Chromebook 上已删除的文件</title>
-      <link>https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to</guid>
-      <pubDate>Tue, 09 Jul 2024 18:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>《吸血鬼幸存者》即将登陆 Apple Arcade</title>
-      <link>https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends</link>
+      <title>美国司法部查获俄罗斯政府运营的“机器人农场”</title>
+      <link>https://www.theverge.com/2024/7/9/24195228/doj-bot-farm-rt-russian-government-namecheap</link>
       <description><![CDATA[
 
-这是 Steam 上《吸血鬼幸存者》的屏幕截图。它仍然有效地传达了实际玩游戏时的绝对混乱。 |图片：Poncle
+插图由 Alex Castro / The Verge 提供
 
-吸血鬼幸存者是一款热门的弹幕生存游戏，玩家需要对抗成群的像素化怪物，该游戏将于 8 月 1 日登陆 Apple Arcade，苹果周二宣布。
-该游戏已经在 iOS 上免费提供，但这个新版本（技术上称为吸血鬼幸存者 Plus）将无广告并包含两个 DLC 包，Legacy of the Moonspell 和 Tides of the Foscari，玩家通常必须单独购买。您还可以在一台 iOS 设备上与最多四人玩多人游戏。
-Apple 还透露了即将登陆 Apple Arcade 的另外两款游戏。Temple Run: Legends，也将于 8 月 1 日上市，根据 Apple 的新闻稿，它是“热门系列中第一款基于关卡的跑酷游戏”，拥有超过 500 个关卡。（如果您只是想尽可能长时间地奔跑，还有无限奔跑模式。）Castle Crumble，一款让您摧毁城堡的益智游戏，将于 8 月 29 日更新以支持 Vision Pro。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends</guid>
-      <pubDate>Tue, 09 Jul 2024 17:35:22 GMT</pubDate>
+美国司法部周二宣布，其查封了两个域名 以及 900 多个社交媒体账户，它声称这些账户是“人工智能增强型”俄罗斯机器人农场的一部分。许多账户被设计成看起来像是美国人的账户，并发布了有关俄乌战争的内容，包括俄罗斯总统普京为俄罗斯入侵乌克兰辩护的视频。
+司法部声称，俄罗斯国家媒体 RT 的一名员工是该机器人农场的幕后黑手。RT 领导层批准了一项计划，使用机器人农场“大规模传播信息”，扩大该出版物在社交媒体上的影响力，”一名联邦调查局特工在一份宣誓书中指控。证词称，为了建立机器人农场，该员工从亚利桑那州的 Namecheap 公司购买了两个域名，然后用于创建两个电子邮件服务器。证词和司法部称，这些服务器随后用于创建 968 个电子邮件地址，这些地址又用于设置社交媒体账户。 
+证词称，2023 年初，俄罗斯联邦安全局 (FSB) 的一名成员创建了一个私人情报组织，其成员包括 RT 的副主编和其他员工。司法部在一份声明中声称，该组织的真正目的是“推进 FSB 和俄罗斯政府的使命，包括通过机器人农场创建的社交媒体账户传播虚假信息”。换句话说，美国司法部称，其目标不是扩大 RT 的受众，而是利用 RT 的机器人网络代表俄罗斯政府传播虚假信息。
+根据美国、加拿大和荷兰政府发布的联合网络安全咨询，该行动主要集中在 X 上，其个人资料由 Meliorator 创建，Meliorator 是一种“支持人工智能的机器人农场生成和管理软件”。网络安全咨询声称，Meliorator 拥有一种旨在绕过 X 验证方法的混淆技术。
+每个机器人的个人资料都有一个基于原型或角色的身份或“灵魂”。他们被赋予了传记信息、政治意识形态和位置。例如，一个账户自称是明尼阿波利斯的比特币爱好者和言论自由绝对主义者，反对新世界秩序。“思想”选项卡允许操作员根据机器人的灵魂或原型控制它们的在线行为。 
+据称该计划违反了《紧急经济权力法》，该法允许总统对某些外国行为者和政府实施经济制裁。根据《IEEPA》，行政部门实施了一系列命令和法规，以管理美国人与俄罗斯国民和俄罗斯政府的交易，包括一项行政命令，禁止美国人在未经财政部授权的情况下“向或为其利益”特别指定国民提供资金、商品或服务。
+调查正在进行中。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195228/doj-bot-farm-rt-russian-government-namecheap</guid>
+      <pubDate>Tue, 09 Jul 2024 21:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>索尼 PS5 DualSense Edge Pro 控制器现优惠 24 美元</title>
-      <link>https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale</link>
+      <title>购买一对 Joy-Con 控制器即可免费获得超级马里奥派对</title>
+      <link>https://www.theverge.com/2024/7/9/24194944/super-mario-party-joy-con-switch-bundle-deal-sale</link>
+      <description><![CDATA[
+
+这款游戏虽然老旧，但很好玩，尤其是多人一起玩的时候。 |屏幕截图：任天堂
+
+如果您突然或预计需要 Joy-Con 替换件或额外的控制器来补充 Nintendo Switch 附带的一对控制器，那么正在进行的沃尔玛特卖活动就是您想要去的地方。直到 7 月 11 日，该零售商都以 69 美元（优惠 31 美元）的价格出售红色和蓝色 Joy-Con 与一份《超级马里奥派对》 捆绑销售。 Joy-Con 控制器本身的零售价大约是这个价钱，而这款游戏在促销时的价格通常在 40 到 50 美元左右，所以这款游戏实际上是免费的。
+
+Super Mario Party for Switch（这是其悠久历史上的第 11 款游戏，尽管还有一款更新的游戏Mario Party Superstars）提供四人游戏乐趣，有 80 种不同的迷你游戏，从赛车和体育到益智游戏和角斗士风格的隆隆声。这里有各种新旧棋盘和游戏供您享受，所有游戏都只需每个玩家一个 Joy-Con 即可玩（包括大量使用控制器运动功能的游戏）。您可以与最多四人一起玩自由或团队游戏，无论您是在线还是举办沙发合作之夜。
+
+Super Mario Party 有各种有趣的任天堂角色供您玩。当然，您有马里奥、路易吉、库巴和桃子公主等标志性角色，但您也会找到来自热门系列的角色，如动物之森、Splatoon 和 塞尔达传说。您可以获得几个独特的骰子块，每个骰子块都具有特殊能力或更高的概率来掷出您需要的数字。 
+要获胜，您需要在回合或时间限制到期之前获得比对手更多的星星。当您在棋盘上移动时，您将获得奖励和强化道具，它们可能帮助您落在有利可图的方格上，从而为您赢得更多星星。您也可能会落在对您的困境没有太大帮助的方格上。
+在基于技能的迷你游戏、您可能在棋盘上随机掷骰子时遇到的提升和破坏以及可以完全扭转局势的最后一刻的波动之间，超级马里奥派对 的每场游戏都感觉不一样。与亲人一起玩时要小心——随着你们不断算计，你们的友好竞争很可能会变得有点激烈。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194944/super-mario-party-joy-con-switch-bundle-deal-sale</guid>
+      <pubDate>Tue, 09 Jul 2024 20:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国政客被指为人工智能 实际上是真人</title>
+      <link>https://www.theverge.com/2024/7/9/24195005/reform-uk-candidate-election-ai-bot-mark-matlock</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+右翼改革英国党候选人马克·马特洛克在《独立报》 中澄清说，他是一名真人，而不是 AI 机器人，正如一些人所怀疑的那样。 
+也许是因为竞选图片中光滑、超光滑的皮肤，或者是 Matlock 显然错过了选举计票等事件——但本周早些时候，X 上的一个帖子质疑 Matlock 是否存在。“我们可能正处于巨大丑闻的边缘，”帖子写道。
+
+
+我们可能正处于巨大丑闻的边缘。有人怀疑改革派派出的选举候选人不是真人。有没有证据表明 Mark Matlock（Clapham 和 Brixton Hill 的候选人）确实存在？他看起来像是 AI 生成的。 pic.twitter.com/0wJcR4HZXG— Dr Bella (@Dr_BellaR) 2024 年 7 月 8 日
+
+
+人工智能生成的政治候选人并非完全不可能：在这次选举中，一家人工智能公司的高管利用人工智能角色竞选英国议会议员。他显然输了，仅获得 179 票。
+然而，马特洛克是一名人类候选人，他在选举期间显然病得很重。
+“选举之夜前三天我得了肺炎，我锻炼身体吃维生素，这样我就可以参加选举，但根本行不通。选举之夜我甚至站都站不起来，”他告诉《独立报》。马特洛克还向该媒体提供了引起关注的原始照片，称背景被删除，领带的颜色也变了。不过，这张照片确实有一种橡胶般的、不可思议的外观，这已经与人工智能联系在一起了——尤其是马特洛克的头发和皮肤。对于所有民选官员来说，这似乎是一个很好的教训：不要以 Midjourney 结果的方式编辑您的照片，以获得“年轻、看起来没有威胁性的政客”。 
+美国和国外的 2024 年选举已经感受到了人工智能工具激增的影响，但目前，我们还没有看到人工智能机器人取代人类政客。 （公平地说，有些人可能更喜欢这样。）令人信服的政客真实深度伪造比以往任何时候都更容易制作，总统乔·拜登的声音被克隆以阻止人们投票，这是一个值得注意的事件。还有一个问题是如何处理使用人工智能工具制作的政治广告——谷歌本月早些时候表示，它将自动为广告商标记为人工智能生成的政治广告创建披露。
+正如《卫报》报道的那样指出，一些改革派英国候选人在网上几乎没有提供任何关于自己的详细信息，这可能加剧了人们对马特洛克的猜测。因此，如果您打算近期竞选公职，请注意：出席活动、与选民互动并保持公开形象。当然，不要再编辑照片了。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195005/reform-uk-candidate-election-ai-bot-mark-matlock</guid>
+      <pubDate>Tue, 09 Jul 2024 20:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以从沃尔玛竞争对手 Prime Day 促销中获得的最优惠价格</title>
+      <link>https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale</guid>
+      <pubDate>Tue, 09 Jul 2024 20:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel Watch 3 可能会配备超宽带和更亮的屏幕</title>
+      <link>https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels</link>
       <description><![CDATA[
 
 照片由 Amelia Holowaty Krales / The Verge 拍摄
 
-索尼面向专业人士的 PlayStation 5 控制器几乎从未从 199.99 美元的高价位降价，但值得庆幸的是，今天的情况略有不同。您可以通过沃尔玛的在线专享优惠，以 174.99 美元（约优惠 24 美元）的价格购买 DualSense Edge，将这款专业游戏手柄的价格降至迄今为止的最低价。
+Google 的 Pixel Watch 3 可能拥有更亮的 2,000 尼特显示屏、更小的边框和超宽带 (UWB) 芯片，根据 Android Authority 的一份新报告。这不仅仅是一个新的显示屏和芯片——Pixel Watch 还可能获得电池升级。据传，45 毫米 Pixel Watch 将配备 420mAh 电池，高于去年手表的 306mAh，而 41 毫米型号的电池容量仅​​为 310mAh。
+上周末，一份 FCC 文件似乎证实 Pixel Watch 3 将配备 UWB 芯片。（FCC 文件去年驳回了 Pixel Watch 2 的这一想法。）UWB 芯片使用短而高频的无线突发进行精确的位置感应，这意味着 Watch 3 可以更容易地在 Google 的最近升级了“查找我的设备”网络。这项技术还出现在其他设备中如智能锁和汽车，如果您有与之链接的 UWB 设备，它们会在您在附近时对您做出反应。
 
-DualSense Edge 的亮点在于它与 PS5 完美无缺的软件集成。您可以微调最多四个配置文件，每个配置文件都有您自己的个人调整，例如摇杆灵敏度和自定义后按钮控制，并且可以轻松地在运行中切换配置文件。Edge 还具有标准 DualSense 的所有触觉和功能，以及诸如触发锁定、可互换的摇杆顶盖和两种样式的后拨片/按钮等附加功能。
-现在，对于如此昂贵的控制器来说，DualSense Edge 确实存在一些值得注意的缺点，例如电池寿命略显不足，并且摇杆像每个 PS5 都配备的更便宜的同类产品一样容易漂移。不过，索尼至少内置了一些可以弥补这些缺点的功能，比如一条很长的 USB 充电线，它有一个巧妙的锁定机制，还有用户可更换的摇杆模块，如果你的摇杆出现问题，你可以稍后花 20 美元购买（如果你有没有发现它们有库存，当然）。
+如果传言属实，这表明 Pixel Watch 系列又有显著改进，此前 Pixel Watch 2 获得了更好的健康追踪功能，电池比第一版更大。但只有一种尺寸，它看起来并不像它应该的那样轻，而且The Verge的维多利亚·宋在评测它两天后就出现了神秘的划痕，这让她对其耐用性产生了质疑。目前尚不清楚 Watch 3 是否会解决所有这些问题——但如果你想保持乐观，这听起来都是个好消息。
 
-Edge 的此次促销是沃尔玛大型促销活动的一部分，与亚马逊即将于 7 月 16 日和 17 日举行的 Prime Day 活动相对应。这场富有想象力的“沃尔玛特卖”活动将持续到 7 月 11 日，除了 DualSense Edge 之外，还有值得注意的促销活动，例如 M1 MacBook Air 售价 649 美元。
+
+
 ]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale</guid>
-      <pubDate>Tue, 09 Jul 2024 17:35:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels</guid>
+      <pubDate>Tue, 09 Jul 2024 19:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>共和党不会停止试图取消拜登的电动汽车税收抵免</title>
-      <link>https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo</link>
+      <title>夏季运动会的亮点是一只非常出色的狗在玩 16 位棒球</title>
+      <link>https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo</guid>
-      <pubDate>Tue, 09 Jul 2024 17:33:51 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog</guid>
+      <pubDate>Tue, 09 Jul 2024 19:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会称匿名消息应用程序未能阻止“猖獗的网络欺凌”</title>
-      <link>https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa</link>
+      <title>这款折叠键盘里面藏着一台 AMD Ryzen 7 PC</title>
+      <link>https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard</link>
+      <description><![CDATA[
+
+您可以将这台电脑放入口袋中。 |图片：玲珑
+
+除了显示器之外什么都有的无头便携式电脑在那些不想满足于无法轻松升级的笔记本电脑的发烧友中越来越受欢迎——现在中国制造商玲珑正通过这款折叠键盘电脑更进一步。
+Tom’s Hardware 指出了该公司发布的演示文稿，其中展示了一款微型电脑，让人想起了当时流行的折叠无线键盘类似 PalmPilot 的 PDA。但这款产品要厚得多，配备了 AMD Ryzen 7 8840U 处理器、16GB 或 32GB 内存、高达 1TB 的 SSD 存储和 Wi-Fi 6 连接，此外还有蓝牙和 16,000mAh 可充电电池。
+
+Linglong 建议将这款微型 PC 与 AR 或 VR 眼镜配对，以创建一个真正便携的工作站（他们甚至听说过三星 DeX 吗？）。但它也可以使用三个 USB 端口之一连接到固定显示器，其中两个是 USB-C。
+
+
+图片：玲珑
+玲珑折叠键盘电脑的分解图显示一侧有一个冷却风扇。
+
+
+据称，这款便携式电脑的电池续航时间长达 10 小时，可用于轻量级桌面工作或长达 6 小时的视频观看，比其他一些产品更具吸引力，因为它不需要在每次移动时完全关闭。不幸的是，虽然玲珑计划以 412 美元至 495 美元的价格出售这款键盘 PC，具体取决于规格，但该公司表示，它只向 beta 测试人员提供 200 台，没有更广泛的零售可用性时间表。
+在个人计算的早期，Apple II 和 Commodore 64 等 PC 本质上是这款键盘 PC 的更大版本。尽管我们已经看到了几种将整个 PC 塞进键盘的现代尝试——最便宜的是 Pentaform Abacus 和 定制 CJ64——玲珑的解决方案对于那些优先考虑便携性的人来说更有吸引力。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard</guid>
+      <pubDate>Tue, 09 Jul 2024 19:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的暗网监控服务即将向所有用户免费开放</title>
+      <link>https://www.theverge.com/2024/7/9/24194970/google-one-free-dark-web-monitoring</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+自去年以来，Google 一直在监控暗网泄密事件窃取 Google One 订阅者的帐号信息，例如电话号码和实际地址。但是，从本月晚些时候开始，谷歌的暗网报告将向所有拥有谷歌账户的人开放。
+根据关于此次过渡的谷歌支持页面，这项免费服务将成为谷歌“结果Google 表示此举将创建一个“综合解决方案，帮助用户保护他们的在线状态”。 
+
+
+Jennifer Pattison Tuohy / The Verge 的截图
+Google One 用户（比如我）正在失去暗网监控的好处——但一个版本即将免费提供给每个 Google 用户。
+
+当然，有几项服务——既有付费的也有免费的，比如 Have I Been Pwned? — 会扫描暗网中的数据并向您发送警报。但对于 Google 用户来说，将该公司的两项监控功能合并到一个地方以查看潜在的个人信息泄露是有意义的。 
+这确实意味着，去年春天为超过 1 亿付费 Google One 用户（起价为每月 1.99 美元）添加的两项福利均已被取消。上个月，谷歌宣布其另一项新增服务，即 Google One 的 VPN，将于今年晚些时候关闭。 
+这些不太可能是人们最初注册 Google One 的原因，但看到这些好处消失而价格却没有相应下降，可能会令人沮丧。
+注册 Google One 的主要原因是为您的 Google 帐户获得更多存储空间，包括照片和 Gmail 存储空间。虽然还有其他好处 - 包括高级 Google Meet 视频通话功能、与最多 5 人共享存储空间的能力以及 Google 日历中增强的约会安排 - 但没有一个是那么引人注目的。您可能会考虑为 Google 的 Gemini 人工智能功能付费，但这些功能需要 更高级别的 Google One，起价为每月 19.99 美元。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194970/google-one-free-dark-web-monitoring</guid>
+      <pubDate>Tue, 09 Jul 2024 19:22:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>HP 正在放弃其“诱饵转换”打印机 DRM — 但仅限于 LaserJets</title>
+      <link>https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner</link>
+      <description><![CDATA[
+
+受影响的 HP LaserJet 打印机之一。 |图片：HP
+
+去年 5 月，我告诉过你，惠普最畅销的打印机如何通过其卑鄙的 HP Plus 计划将你终身锁定在公司自己的订阅墨水上，无法取消。但惠普已决定至少从未来的激光打印机上消除这些束缚。 
+“今后我们将不再为任何 LaserJet 系列产品提供 HP+，”发言人 Nick Lucido 告诉 The Verge。
+
+Druckerchannel报道，HP 还悄悄停止了所有直接要求订阅 HP Plus 的廉价“e”系列 LaserJet 打印机，并且 HP 确认也将停止其激光打印机碳粉的 Instant Ink 订阅。 （现有客户不会受到影响。）但 HP 的 e 系列喷墨打印机（如我所写的那款）及其 Instant Ink 订阅将继续存在，而且 HP 几乎肯定会继续尝试阻止第三方墨盒。
+为什么只是 LaserJets，为什么是现在？HP 表示这是为了帮助商业客户。“我们了解到，IT 管理办公环境中的一些客户无法满足 HP+ 的云连接要求，”Lucido 写道。但我想知道这是否也与 Brother 有关——该公司其Verge推荐的激光打印机不玩这些人质游戏。
+Jess Weatherbed 和 Umar Shakir 补充报道]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner</guid>
+      <pubDate>Tue, 09 Jul 2024 19:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果的《阳光姐妹淘》是一部悲伤却带着微笑的犯罪剧情片</title>
+      <link>https://www.theverge.com/24194360/apple-tv-plus-sunny-review</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa</guid>
-      <pubDate>Tue, 09 Jul 2024 16:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>极端高温和飓风贝丽尔在德克萨斯州造成灾难性连环袭击</title>
-      <link>https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas</guid>
-      <pubDate>Tue, 09 Jul 2024 16:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Razer 击败 Wooting，为 PC 游戏提供快速新键盘功能</title>
-      <link>https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy</link>
-      <description><![CDATA[
-
-图片：Razer
-
-Razer 今日为其 Huntsman V3 Pro 键盘推出了全新 Snap Tap 模式，旨在吸引竞技游戏玩家。 Snap Tap 与 Wooting 承诺的 Rappy Snappy 功能非常相似，其工作原理是在两个选定的按键之间优先考虑最新输入，以允许 Counter-Strike 2 和 Valorant  玩家更快地进行反击。
-Snap Tap 模式意味着您在扫射时不必释放前一个按键，因此如果您为 Snap Tap 启用 A 和 D，那么扫射几乎可以立即完成，从而改善电子竞技游戏中的方向变化和移动。差别只有几毫秒，但这足以让你比对手更快杀死对手。
-“Snap Tap 模式直接集成到固件中，无需抬起初始键即可实现即时方向变化，”Razer 表示。 “这种无缝过渡在竞技游戏中至关重要，即使是毫秒也会影响游戏结果，这使得 Snap Tap 模式成为 Huntsman V3 Pro 系列改变游戏规则的功能。”
-
-
-图片：Razer
-不使用 Snap Tap 进行扫射。
-
-
-
-图片：Razer
-使用 Snap Tap 扫射。
-
-Razer 的 Snap Tap 是在 Wooting 宣布其 Rappy Snappy 几个月后推出的功能，用于即将推出的 80HE 键盘。Wooting 还计划将 Rappy Snappy 引入其现有的 60E 键盘，该键盘被广泛认为是市场上最好的游戏键盘之一。Wooting 首次将快速触发概念引入游戏键盘，Razer、SteelSeries、Keychron 和许多其他公司都已效仿。
-令人惊讶的是，Razer 率先将 Wooting 已经宣布的功能推向市场，但尽管近几个月来一再承诺推出 Rappy Snappy 的 60HE 测试版，但该公司尚未发布它。Wooting 预计将于 8 月推出其首批配备 Rappy Snappy 的全新 80HE 键盘。
-Razer 正在推出 Snap Tap 作为 Huntsman V3 Pro 系列的软件更新，包括全尺寸、无数字键盘和 60% 型号。您需要最新版本的 Synapse 和固件更新才能启用 Snap Tap。Razer 表示这是一个“分阶段的软件更新”，因此可能还需要几天时间才能为所有 Huntsman V3 Pro 用户提供。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy</guid>
-      <pubDate>Tue, 09 Jul 2024 16:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>《时间劫匪》的首个 Apple TV Plus 预告片开启了时间抢劫</title>
-      <link>https://www.theverge.com/24194900/time-bandits-trailer-apple-tv-plus-terry-gilliam</link>
-      <description><![CDATA[
-
-图片：Apple
-
-在《Time Bandits》的官方预告片中，Taika Waititi 和 Jemaine 主演的全新 Apple TV Plus 系列克莱门特似乎对这部 1981 年电影中梦幻般的伪现实的每一点都深感陶醉。该剧讲述了一个名叫凯文（卡尔-艾尔·塔克饰）的年轻人的故事，他在自己的房间里发现了一个时间门户，并与一群穿越时空的盗贼取得了联系。该剧将于 7 月 24 日在 Apple TV Plus 订阅用户中首播，共 10 集。
-虽然该剧改编自特里·吉列姆的时间劫匪，但预告片清楚地表明，这部剧也是一部独树一帜的作品，拥有不同的角色、时间段和情境。该节目颇受争议的是，时间盗贼原本完全由一群小人物扮演，而演员则包括丽莎·库卓 (Lisa Kudrow) 和 Rune Temte。 
-但服装和奇幻环境看起来很相似，如果比吉列姆杂乱的（以一种好的方式）视觉风格干净得多，奇思妙想似乎基本完好无损。
-
-Apple TV Plus 最近有很多其他类型的节目，从多元宇宙神秘暗物质到侦探系列糖。它还增加了该服务的不断增长的高预算科幻内容库。时间劫匪作为授权财产脱颖而出，而苹果公司在其制作中大多避免这样做。
-除了塔克，其他时间劫匪明星包括丽莎·库卓、鲁内·特姆特、泰格·墨菲、罗杰·让·恩森吉尤姆瓦和基拉·汤普森。]]></description>
-      <guid>https://www.theverge.com/24194900/time-bandits-trailer-apple-tv-plus-terry-gilliam</guid>
-      <pubDate>Tue, 09 Jul 2024 16:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 让识别和离开可疑群聊变得更加容易</title>
-      <link>https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam</link>
-      <description><![CDATA[
-
-图片：Meta
-
-很快，当 WhatsApp 用户被陌生人添加到群聊中时，该群组将显示一个“上下文卡”，其中包含关键信息，例如群组创建者、创建时间、群组描述以及用户是否由 WhatsApp 联系人列表中的某人添加。该功能的目的是更好地保护用户免受群组消息中的垃圾邮件或诈骗活动的侵害。 
-还有一个按钮可让用户快速离开群组消息，以及有关 WhatsApp 安全工具的其他信息的链接。 
-
-
-图片：Meta
-新的上下文卡让 WhatsApp 用户在加入群聊时能够快速识别危险信号。
-
-新功能类似于 WhatsApp 用户当前收到陌生人单独消息时的体验，允许用户避免与他们宁愿避开的人聊天，并更快地识别他们是否已被添加到 进行诈骗的团体或从事其他欺诈活动。
-根据 WhatsApp 的新闻稿，群聊上下文卡已经开始在全球范围内推出，并将在“未来几周内”向所有用户开放。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194908/whatsapp-group-chats-context-card-spam</guid>
-      <pubDate>Tue, 09 Jul 2024 16:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>这可能是你拥有稀有的任天堂 PlayStation 控制器的最后机会</title>
-      <link>https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes</link>
-      <description><![CDATA[
-
-图片：Heritage Auctions
-
-2020 年，一款从未发布的任天堂 PlayStation 游戏机的稀有原型机  以 360,000 美元的价格售出拍卖。另一台设备可能永远找不到了，但任天堂和索尼合作失败的第二个原型控制器将于 8 月拍卖。
-Nintendo PlayStation 是索尼首次尝试打入游戏市场。它或多或少是一款升级了 CD-ROM 驱动器的超级任天堂游戏机，允许游戏整合索尼专有超级光盘格式的更多多媒体内容。
-任天堂于 1991 年宣布与飞利浦合作后，双方的合作破裂，人们认为 200 台任天堂 PlayStation 原型机已全部被毁 — — 至少直到 2015 年有一台原型机出现，最终在拍卖会上售出给 Pets.com 和 Toys.com 的创始人。
-Heritage Auctions 尚未透露第二次 Nintendo PlayStation 拍卖的出处，但将原型控制器描述为“具有 Super Nintendo 控制器的熟悉外壳，但正面印有深灰色的‘Sony PlayStation’”。尽管“背面有一些小凹痕”，但原型“状况非常好”，但 Heritage Auctions 无法确认它是否能正常使用，因为它设计用于的控制台极其稀缺。因此，中标者将不会获得任何回报。
-比在哪里发现这个原型更大的问题是它将卖多少钱。 2020 年，超级马里奥兄弟的密封副本以 114,000 美元的价格售出，不到一年后，另一份副本以 660,000 美元的价格售出。但与超级马里奥兄弟的副本相比，花这么多钱买一款你从未打算玩的游戏似乎很划算。 2021 年以惊人的 200 万美元的价格售出。
-从那时起，对复古收藏品的需求一直没有降温，虽然这个控制器的价格可能不如任天堂 PlayStation 游戏机那么高，但它仍然是极其罕见的硬件，可能永远不会再出现。
-根据 Heritage Auctions 的说法，对该原型的竞标将于 8 月 2 日开始，并于 8 月 24 日结束，届时我们将了解一个可能无法使用的控制器对一位幸运竞标者的价值。]]></description>
-      <guid>https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes</guid>
-      <pubDate>Tue, 09 Jul 2024 15:41:11 GMT</pubDate>
+      <guid>https://www.theverge.com/24194360/apple-tv-plus-sunny-review</guid>
+      <pubDate>Tue, 09 Jul 2024 18:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
