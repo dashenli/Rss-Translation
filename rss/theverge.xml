@@ -4,140 +4,166 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jul 2024 12:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 15:15:04 GMT</lastBuildDate>
     <item>
-      <title>当您搬家时，您会如何处理这些书？</title>
-      <link>https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter</guid>
-      <pubDate>Tue, 09 Jul 2024 12:00:00 GMT</pubDate>
+      <title>华盛顿邮报制作了一个人工智能聊天机器人来回答有关气候的问题</title>
+      <link>https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot</link>
+      <description><![CDATA[
+
+图片：《华盛顿邮报》
+
+《华盛顿邮报》 正在其主页、应用程序和文章中植入一个以气候为重点的全新 AI 聊天机器人。这款名为“气候答案”的实验性工具将利用该媒体的广泛报道来回答有关气候变化、环境、可持续能源等问题。
+你可以向聊天机器人提出一些问题，包括“我应该为我的家安装太阳能电池板吗？”或“美国哪里的海平面上升最快？”就像我们见过的其他人工智能聊天机器人一样，它会使用经过训练的信息提供摘要。在这种情况下，气候答案使用《华盛顿邮报》气候版块中的文章（最早可追溯到 2016 年该版块推出时）来回答问题。 
+
+
+图片：华盛顿邮报
+
+“我们有很多创新和原创的报道，”华盛顿邮报首席技术官 Vineet Khosla 在接受 The Verge 采访时表示。 “在我们多年来所做的数据丰富的报道中，我们写的东西中隐藏着一个答案。”
+在答案下面，你会发现聊天机器人用来生成答案的文章链接，以及它从中提取信息的相关片段。该工具基于 OpenAI 的一个大型语言模型，但《华盛顿邮报》也在试验 Mistral 和 Meta 的 Llama 的人工智能模型。 
+
+
+图片：华盛顿邮报
+
+当被问及是否存在误传的可能性时，Khosla 表示，Climate Answers 不会对没有答案的问题做出回应。“与其他答案服务不同，我们确实将其融入经过验证的新闻报道中，”Khosla 说道。“如果我们不知道答案，我宁愿说‘我不知道’，也不愿编造答案。”但是，我们计划在今天推出该工具时试用它，以了解它的防护措施。《华盛顿邮报》并不是唯一一家依靠其信息档案来支持 AI 聊天机器人的新闻机构。今年 3 月，《金融时报》开始测试Ask FT，这是一个聊天机器人，订阅者可以使用它来获取与该机构报道相关主题的答案。与此同时，其他出版商，如新闻集团、Axel Springer、Dotdash Meredith 和 The Verge 的母公司， href=&quot;https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic&quot;&gt;Vox Media 已与 OpenAI 建立许可合作伙伴关系。
+《华盛顿邮报》 一直在逐步扩大其对人工智能的使用；据 Khosla 称，该媒体还为其部分文章推出了人工智能摘要。尽管《华盛顿邮报》的新聊天机器人目前只能回答与气候相关的问题，但 Khosla 并没有排除将其扩展到该媒体报道的其他主题的可能性。“我们绝对希望这个实验能够扩展并扩展到《华盛顿邮报》所做的一切，”Khosla 说。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot</guid>
+      <pubDate>Tue, 09 Jul 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>罗技售价 80 美元的超级电容游戏鼠标是其有史以来功能最丰富的鼠标</title>
-      <link>https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay</guid>
-      <pubDate>Tue, 09 Jul 2024 07:01:00 GMT</pubDate>
+      <title>Sling TV 是最新一款带有烦人暂停广告的流媒体服务</title>
+      <link>https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable</link>
+      <description><![CDATA[
+
+图片：Sling TV
+
+根据 来自其母公司 Dish 的公告。但如果您不想，您不必处理这些额外的广告——Sling TV 分享的暂停广告示例表示您可以从设置菜单中“关闭暂停广告”。
+在一个越来越难以摆脱侵入性暂停广告的行业中，这让人松了一口气。想停止节目以仔细查看屏幕上的某些内容吗？或者也许您想欣赏一下您最喜欢的演员的特写镜头？好吧，暂停广告几乎使这成为不可能，因为它们通常会占据整个或部分屏幕。
+
+
+GIF：Sling TV
+暂停广告可以包含视频或静态内容。
+
+许多一些服务已开始使用暂停广告，其中包括 Peacock、Amazon Prime Video、Max、YouTube 和 Hulu（后者因在暂停期间播放 Charmin 卫生纸熊而臭名昭著）。此外，据 Marketing Brew 报道，Netflix 可能是下一个加入暂停广告潮流的公司。
+与其他流媒体一样，Sling TV 也倾向于通过广告来获得更多收入。该服务的暂停广告格式将允许广告商展示视频或静态内容，甚至可以包含将观众链接到产品的二维码。您可以按任意按钮继续观看您正在观看的内容。
+虽然暂停广告很可怕，但很高兴看到 Sling TV 为用户提供了退出的选择——其他流媒体请注意。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable</guid>
+      <pubDate>Tue, 09 Jul 2024 14:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>Hulu 之前曾让很多人无法使用，但现在问题已经解决</title>
-      <link>https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming</link>
+      <title>Netflix 的下一场直播活动是乔·罗根 (Joe Rogan) 的喜剧特辑</title>
+      <link>https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august</link>
+      <description><![CDATA[
+
+照片由 Chris Unger/Zuffa LLC 通过 Getty Images 拍摄
+
+Netflix 继续进军现场活动，这次将推出 Joe Rogan 的喜剧特辑。该活动名为“Burn the Boats”，将于美国东部时间 8 月 3 日晚上 10 点在德克萨斯州圣安东尼奥进行现场直播。 Netflix 表示，这将是罗根六年来的第一部喜剧特辑，也是播客和前Fear Factor主持人与该流媒体的第三次合作；他之前曾在 2016 年和 2018 年发布了两场录制的活动。
+
+这一声明尤其引人注目，因为 Netflix 继续将现场活动作为其服务的重要组成部分。此前，该公司已经制作了克里斯·洛克 (Chris Rock) 和约翰·木兰尼 (John Mulaney) 的喜剧特辑，去年，该公司制作了喜剧特辑，开始涉足体育直播。到目前为止，它已经与NFL和WWE签署了广播协议，并且还将直播拳击和竞食。
+该公司还采取措施，使其产品多样化，而不仅仅是流媒体通过在其目录中添加游戏，并计划于明年推出沉浸式娱乐和零售体验。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august</guid>
+      <pubDate>Tue, 09 Jul 2024 14:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 和阿里安娜·赫芬顿正在合作开发“AI 健康教练”</title>
+      <link>https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health</guid>
+      <pubDate>Tue, 09 Jul 2024 14:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>《角斗士 II》首支预告片：罗马必须陷落</title>
+      <link>https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer</link>
+      <description><![CDATA[
+
+艾丹·莫纳汉
+
+24 年后，雷德利·斯科特带着《角斗士》的续集回归，续集的新预告片承诺将有面包、马戏团和一桶桶鲜血。
+《角斗士 II》的故事发生在第一部电影的几十年后，讲述了一个新的传奇故事，讲述了如今已长大成人的卢修斯·维鲁斯（保罗·梅斯卡尔饰）如何成为一名被奴役的角斗士，尽管他是罗马帝国的前继承人。虽然卢修斯可以清楚地回忆起童年的一些时刻，但当他与权力掮客马克里努斯（丹泽尔·华盛顿饰）相遇时，他对母亲露西拉（康妮·尼尔森饰）的记忆似乎已经淡忘了。
+作为一名武器和战士交易员，马克里努斯在卢修斯在斗兽场与犀牛搏斗时看到了他身上的巨大潜力。但尽管卢修斯擅长杀死动物，他真正想要的是推翻罗马本身——或者至少是它的新领导人，盖塔皇帝（约瑟夫·奎因）、卡拉卡拉皇帝（弗雷德·赫钦格）和马库斯·阿卡西乌斯将军（佩德罗·帕斯卡）。
+在沙土投掷、咆哮的人群和激烈的战斗之间，预告片让《角斗士 II》看起来就像第一部电影的粉丝们一直渴望的那样。当《角斗士 II》于 11 月 22 日上映时，这部电影与《魔法坏女巫》争夺票房霸主地位将会非常有趣。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer</guid>
+      <pubDate>Tue, 09 Jul 2024 14:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vergecast 创建了一家科技公司</title>
+      <link>https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle</link>
+      <description><![CDATA[
+
+图片：Alex Parkin / The Verge
+
+欢迎参加 The Vergecast Inc. 董事会成立大会。今天议程上唯一的项目是什么？打造宇宙历史上最伟大的科技公司。我们将从世界各地的科技公司借用、窃取和购买最好的产品和业务，以提供最好的产品线。钱不是问题，尽管我们希望在某个时候赚一些钱。让我们开始吧。
+在这期The Vergecast中，我们的联合主持人 Nilay Patel、Alex Cranz 和 David Pierce 放下麦克风和耳机，穿上西装领带，花了一个小时创办一家科技公司。 （向The Big Picture致敬，为格式提供一些灵感。）规则很简单：我们可以从我们选择的每个类别中挑选一个产品，但我们只能从给定的公司中挑选一个产品。在练习结束时，我们将列出小工具、应用程序、B2B 赚钱工具等。
+
+在阅读下面的列表之前，请务必先听一下，因为它会完全破坏整个情节。 
+但如果你想复习一下，以下是 The Vergecast Inc. 的官方产品阵容：
+
+智能手机：Apple iPhone
+平板电脑：Amazon Kindle
+PC：联想的产品阵容
+可穿戴设备：Meta 的 Quest 和智能眼镜
+耳机 — 抱歉，“音频解决方案”：索尼的产品阵容
+应用平台：Adobe Creative Cloud
+消息应用：Google Chat
+流媒体服务：TikTok
+万能小工具：富士 X100
+我们要收购的初创公司：Anthropic
+
+
+
+
+您认为我们做对了什么？我们遗漏了什么？请告诉我们，我们会在下次会议前提请董事会注意。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle</guid>
+      <pubDate>Tue, 09 Jul 2024 13:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 将允许你在播客节目上发表评论</title>
+      <link>https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments</link>
+      <description><![CDATA[
+
+图片：Nick Barclay / The Verge
+
+Spotify 正在推出在播客上发表评论的功能。该公司已经允许 Spotify 播客提供民意调查和问答，因此这项新功能可以为创作者提供与观众互动的新方式。
+评论默认为私密（类似于问答回复），因此创作者必须批准他们想要出现的每条评论。创作者可以选择为整个节目或特定剧集提供评论，如果他们根本不想允许评论，他们可以选择退出该功能。
+
+
+图片：Spotify
+
+Spotify 播客产品副总裁 Maya Prohovnik 表示，从周二开始，创作者可以在 Spotify for Podcasters 网络应用上管理评论，这是经过改进的 Spotify for Podcasters 移动应用的一部分，该应用将在未来几天分阶段推出。Prohovnik 表示，从周二开始，播客听众的评论也将在大多数 Spotify 市场分阶段推出。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments</guid>
+      <pubDate>Tue, 09 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩托罗拉 2024 年的 Razr Plus 是一款非常有趣的翻盖手机，但也有同样的缺陷</title>
+      <link>https://www.theverge.com/24191156/motorola-razr-plus-2024-review-screen-battery-camera</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24191156/motorola-razr-plus-2024-review-screen-battery-camera</guid>
+      <pubDate>Tue, 09 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Etsy 在与 Temu 和亚马逊竞争时失去了“手工”和“复古”标签</title>
+      <link>https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-Hulu 发生故障，周一深夜，Down Detector 上记录了多达 50,000 份报告。目前还没有迹象表明是什么原因导致了此次中断，但 X 上的官方 Hulu 支持帐号承认了这一问题，并在美国东部时间晚上 11:15 左右发布了客户帖子，表示：“我们的开发人员已经采取措施，缓解中断问题。请重启您的设备以开始流式传输，如果您遇到任何其他问题，请告知我们。”
-并非所有人都在访问 Hulu 时遇到问题，但对于那些遇到问题的人来说，社交媒体上的帖子 表示他们要么无法登录，要么在 Hulu 的网站或流媒体应用上看不到任何内容。这个问题似乎并不只影响那些已经或尚未关联 Hulu 和 Disney Plus 账户的用户，而且目前还不清楚这个问题是否与某些地区有关。 
-Hulu 的支持信息没有提供任何其他详细信息，说明为什么这么多人无法使用这项服务，但如果您希望看完The Bear第三季或该服务独有的其他内容，那么您现在应该可以重新上线了。
-
-
-很抱歉给您带来麻烦！我们现在已经为您提供保障！我们的开发人员能够实施更改以缓解中断。请重新启动您的设备以开始流式传输，如果您遇到任何其他问题，请告诉我们。— Hulu 支持 (@hulu_support) 2024 年 7 月 9 日
-
-
-更新，7 月 8 日：注意到该问题似乎已得到解决。]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming</guid>
-      <pubDate>Tue, 09 Jul 2024 03:22:34 GMT</pubDate>
+Etsy 长期以来一直销售属于以下两个类别之一的物品：手工制作或复古。现在，这种相当狭窄的分类正在发生变化。
+今天宣布的一项政策更新为 Etsy 上出售的商品创建了四个新分类：“制造”、“设计”、“精心挑选”和“采购”。所有产品都需要属于这四个类别之一才有资格在该平台上销售。
+古董物品——Etsy 产品的主打产品——将归入“精心挑选”类别。珠子或粘土等工艺品被视为“采购”。陶瓷艺术家手工制作的花瓶属于“制造”类别，而数字插图则被视为卖家“设计”。这些类别将在 Etsy 产品列表中可见。
+该公司表示，这在实践中不会改变任何事情——以前禁止的事情，例如转售他人制作的物品，在新政策下仍然不被允许政策。
+“这里一致的主题是物品融入了人性化元素，因为这就是 Etsy 的魅力所在，”首席执行官 Josh Silverman 在一段视频信息中说道。该公司表示，新类别的目标是向购物者提供更多有关物品制作方式以及卖家如何参与制作过程的详细信息。
+Etsy 与亚马逊或 Temu 等其他市场有所不同，强调自己是一个寻找由工匠制作或策展人挑选的独特物品的地方。但多年来，该公司已经放松了关于什么才算“手工制作”的规定。
+2013 年，该公司宣布将允许卖家使用外部生产帮助。例如，在新冠疫情期间兜售布口罩的卖家可以与服装厂签约进行实际缝纫，平面设计师可以使用按需印刷服务制作印有自己作品的 T 恤，而不必自己进行丝网印刷。
+此次扩张为该平台带来了更广泛的创意，但沮丧的店主表示，这也为骗子和直销商打开了大门——这些卖家购买廉价、批量生产的产品，并在 Etsy 上冒充手工制作。大批量生产商品的增加是2022 年 Etsy 卖家罢工期间的一个核心投诉，制造商表示该公司没有采取足够措施来清除违反手工制作政策。 Etsy 还试图抵御 Temu 等超低价在线零售商的崛起，推出新的网站功能和华丽的超级碗广告来尝试做到这一点。
+多年来，保留手工制作的人性化部分一直是 Etsy 的名片，这对公司来说是一个关键时刻。与其他在线平台一样，Etsy 也发现合成的人工智能生成内容悄悄进入其产品列表，尽管明显有人工智能工具的痕迹，但仍然被列为“手工制作”。引入新类别是为了向购物者保证他们购买的是人工制作或挑选的产品。这也是一种缓解实际工匠担忧的方式，他们长期以来一直抱怨自己被排挤：先是被直销商排挤，现在是被机器人排挤。]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change</guid>
+      <pubDate>Tue, 09 Jul 2024 12:59:20 GMT</pubDate>
     </item>
     <item>
-      <title>为什么你的飞利浦 Hue 灯泡会随机将亮度设置为 100%</title>
-      <link>https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter</link>
-      <description><![CDATA[
-
-飞利浦 Hue 智能 LED 灯泡装备。 |图片：飞利浦
-
-您的飞利浦 Hue 智能灯泡是否似乎出现了问题，即使您已将其调暗，也会随机调至最大亮度？飞利浦 Hue 母公司 Signify 已意识到这一问题，并已找出根本原因，并告诉 The Verge 最快将于下周发布修复程序。 
-“经过广泛分析，我们发现了与 Matter 智能家居标准的互操作性问题，其中随机的临时无线电通信中断被错误地识别为传统开关电源切换，从而将低亮度灯光调至最大亮度，”Signify 第三方发言人 Kate Helander 告诉 The Verge。 
-
-Matter 应该是一个智能家居标准，但它在实践中却变得更加棘手——去年年底，我们在使用飞利浦 Hue 和 Matter 时遇到了相当大的麻烦。
-在这种情况下，尚不清楚哪个团体应该对此负责——我们已经要求 Matter 背后的连接标准联盟发表评论——但至少你不必等待很长时间解决方案。“该问题的永久修复正在进行中，并将在下周推出，”Signify 告诉我们。
-如果您等不及，该公司表示您可以在此期间断开 Hue Bridge 与 Matter 的连接。“请注意，您可能需要在手机设置以及您正在使用的 Matter 控制器应用程序中执行此操作，”Signify 写道。
-根据 Signify 的说法，该问题仅影响“一小部分用户”。
-顺便说一句，我的同事 Jennifer Pattison Tuohy 最近更新了她关于与 Matter 配合使用的每款智能家居设备的指南。]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter</guid>
-      <pubDate>Mon, 08 Jul 2024 22:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的 24.99 美元月付计划涵盖 Quest 3 和 Quest Plus</title>
-      <link>https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription</link>
-      <description><![CDATA[
-
-照片：David Pierce / The Verge
-
-Meta 是 现提供免息每月 24.99 美元的付款计划，以购买其 Quest 3 VR 耳机，以及价值两年的 Meta Quest Plus 游戏订阅和延长保修。该起价适用于 128GB 型号，但每月多付 10 美元即可获得 512GB 版本。无论你选择哪种方式，你都可以比单独购买所有产品少支付近 200 美元。
-贷款由 Affirm 提供，这是近年来出现的最知名的先买后付服务之一。此“先玩后付”套餐可以帮助 Meta 将耳机送到那些不愿意预付全款的人手中，但这也是Quest Plus 服务的促销活动，该服务每月会将两款游戏添加到您的库中，只要您保持订阅，这些游戏就会保留在那里。 
-
-
-屏幕截图：Meta
-Meta 将该计划作为耳机本身的折扣。
-
-Meta 的月付款计划与我们近年来看到的其他硬件和服务捆绑计划相似，例如 Xbox All Access，微软曾使用来推广 Game Pass。此外，还有苹果的基于贷款的 iPhone 升级计划，该计划将 AppleCare Plus 纳入套餐，以及谷歌提供的 Pixel Pass 手机和服务订阅，但在潜在用户升级到来之前取消。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription</guid>
-      <pubDate>Mon, 08 Jul 2024 22:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iPhone 上创建 PDF</title>
-      <link>https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to</link>
+      <title>搬家前如何从旧电脑中取出文件</title>
+      <link>https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to</guid>
-      <pubDate>Mon, 08 Jul 2024 20:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 推出了一款新的“动态”变色壁纸</title>
-      <link>https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple</link>
-      <description><![CDATA[
-
-想象一下这张壁纸，但随后它会改变颜色。 |图片：Apple
-
-iOS 18 的第三个开发者测试版包含一个可以改变颜色的默认 iOS 18 壁纸的“动态”版本，据 9to5Mac 报道。之前的测试版有 四种颜色选项（以及暗模式对应选项）的壁纸，但这个新的动态选项会随着时间的推移在颜色之间发生变化。 
-查看泄密者 ShrimpApplePro 的这段视频，看看壁纸和一些色彩变化。我认为它看起来不错！
-
-
-默认 iOS 18 壁纸现在有一个动态选项根据一天中的时间更改 ig pic.twitter.com/ejCtVVG4lQ— ShrimpApplePro ずっと真夜中でいいのに (@VNchocoTaco) 7 月 8 日， 2024
-
-
-新的动态壁纸只是 iOS 18 中推出的一系列新自定义功能之一：您还可以为主屏幕应用程序图标着色并将它们放置在您想要的位置。据 9to5Mac 报道，借助这个新的测试版，一些第三方应用程序也获得了暗模式应用程序图标。但是，这些功能目前仅在 iOS 18 开发者测试版中可用，您可以按照我们的指南立即安装。Apple 承诺将在 7 月某个时候推出公开测试版，而完整的 iOS 18 版本将于今年秋季发布。
-周一，该公司还发布了 iPadOS 18、watchOS 11、visionOS 2 和 tvOS 18 的新开发者测试版。]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple</guid>
-      <pubDate>Mon, 08 Jul 2024 20:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>M1 MacBook Air 价格降至 649 美元的历史最低点</title>
-      <link>https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale</link>
-      <description><![CDATA[
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-笔记本电脑最优惠价格再次限时回归，因为沃尔玛 正在以 649 美元（优惠 250 美元）的价格出售 M1 MacBook Air。沃尔玛目前要求Walmart Plus 订阅才能获得折扣价，但其他所有人都可以在今天美国东部时间下午 5 点/太平洋时间下午 2 点从零售商网站进入并购买。
-
-自 3 月新款 M3 Air 首次亮相后不久，我们还没有见过价格降到这么低。从那时起，沃尔玛几乎成为 M1 MacBook Air 的独家销售商，通常从 2020 年开始以 700 美元左右的价格出售这款 13 英寸笔记本电脑。尽管这款老款 MacBook 已有近四年历史，并且仅提供 256GB 存储空间和 8GB RAM 的基本配置，但它仍然是一款非常适合日常工作和一些非常轻松的创意工作的机器。它的较新同类产品已经凭借 MagSafe 充电器、较新的 M 芯片和更好的性能超越了它，但 M1 Air 及其出色的电池寿命/待机时间（仅需 650 美元）很难被超越。
-
-尽管年代久远，M1 MacBook Air 仍将获得 macOS 15 Sequoia，并配备全新的 Apple Intelligence AI功能。很难说第一代 M 处理器将如何处理 AI 任务，尤其是因为 Apple 之外没有人在 Mac 甚至 iPhone 上演示过这些功能。无论如何，M1 Air 多年来一直是我们的笔记本电脑购买指南中的首选推荐，只是被自己的直接继任者推翻。如果你能以如此低的价格买到它，它似乎还是值得的。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale</guid>
-      <pubDate>Mon, 08 Jul 2024 20:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>您已经可以获得的最佳 Prime Day 优惠</title>
-      <link>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</guid>
-      <pubDate>Mon, 08 Jul 2024 18:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Affinity 与 Adob​​e 竞争的创意套件现可免费使用六个月</title>
-      <link>https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement</link>
-      <description><![CDATA[
-
-Affinity 表示，用户在六个月免费试用后“没有义务”购买该软件。 |图片：Affinity
-
-设计软件开发商 Serif 为其 Affinity 创意套件推出了新的六个月免费试用，该套件被公认为是 Adob​​e 专业设计应用程序的少数可行替代品之一。 此优惠有效期为 Affinity Photo、Affinity Designer 和 Affinity Publisher 即日起在 Mac、Windows PC 和 iPad 上推出。
-Affinity 采用一次性购买定价模式，在厌倦了支付定期订阅费用的创意人士中赢得了一批忠实的粉丝。 Affinity 单个桌面应用程序的起价为 69.99 美元，整个套件的起价为 164.99 美元，目前另有一项单独优惠，为客户提供所有永久许可证 50% 的折扣。 
-此次折扣以及为期六个月的免费试用可能旨在缓解人们的担忧，即 Affinity 在今年早些时候被 Canva 收购后将改变其定价模式。“我们说‘尝试一切，不花钱’，因为我们知道做出改变可能是一大步，尤其是对于忙碌的专业人士来说，”Affinity 首席执行官 Ashley Hewson 表示。 “任何参加试用的人都绝对没有购买的义务。”
-在今天发布的Decoder 采访中，Canva 首席执行官 Melanie Perkins拒绝将其产品描述为 Adob​​e Creative Cloud 的完整替代品。不过，她表示，设计市场“有点像一场一马之争，我认为这对任何人都没有好处……我认为，在专业设计师市场上能够有另一种选择对每个人都有好处。”
-]]></description>
-      <guid>https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement</guid>
-      <pubDate>Mon, 08 Jul 2024 18:05:59 GMT</pubDate>
+      <guid>https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to</guid>
+      <pubDate>Tue, 09 Jul 2024 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
