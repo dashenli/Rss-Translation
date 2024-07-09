@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 09 Jul 2024 06:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 09:16:11 GMT</lastBuildDate>
+    <item>
+      <title>苹果董事支持 Swift 取代 C++ 作为首选编程语言</title>
+      <link>https://thenextweb.com/news/apple-director-swift-c-programming-language</link>
+      <description><![CDATA[说到编程语言，往往是最新的语言最受关注。但根据 Apple 语言和运行时总监 Ted Kremenek 的说法，程序员应该摆脱编程的中坚力量 C++，转而选择 Swift。 “Swift 的安全性、速度和易用性，加上内置的 C 和 C++ 互操作性，意味着 Swift 是继任 C++ 的最佳选择，”Kremenek 说。 本周招聘 3 个开发人员职位 软件开发人员 F/M，Lyric Management Integrations，法国 全栈开发人员（所有性别），Mazars GmbH &amp; Co. KG，杜塞尔多夫 软件开发人员，InTraffic，沃尔登 甚至白宫也建议程序员转向内存安全编程......本故事在 The Next Web 上继续或者只是阅读有关：Apple 的更多报道]]></description>
+      <guid>https://thenextweb.com/news/apple-director-swift-c-programming-language</guid>
+      <pubDate>Tue, 09 Jul 2024 07:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰 LUMO Labs 为欧洲影响力初创企业推出 1 亿欧元基金</title>
       <link>https://thenextweb.com/news/netherlands-lumo-labs-launches-fund-european-impact-startups</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 08 Jul 2024 12:32:41 GMT</pubDate>
     </item>
     <item>
-      <title>ITER 问题凸显初创企业和政府之间融合的必要性</title>
+      <title>ITER 问题凸显初创企业与政府之间融合的必要性</title>
       <link>https://thenextweb.com/news/iter-delay-fusion-startups-press-on-in-pursuit-of-near-limitless-energy</link>
       <description><![CDATA[ITER 原本计划建造世界上最大的实验性聚变反应堆，但现在又被推迟了。这个耗资 250 亿欧元的巨型项目要到 2034 年才会启动，2039 年开始发电，比原计划晚了近十年。 2006 年，包括英国、美国、中国和俄罗斯在内的 35 个国家启动了 ITER 项目，以证明核聚变能源的科学和技术可行性。但最终，初创公司可能会抢先一步。随着私营公司竞相将核聚变能源商业化，越来越明显的是，ITER 将承担更多的支持角色。但这并不意味着它已经过时了。ITER 是历史上最伟大的核聚变项目之一......本故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/iter-delay-fusion-startups-press-on-in-pursuit-of-near-limitless-energy</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Cowboy 首次进军电动自行车行业游戏领域。这家比利时电动自行车制造商推出了三款游戏——Race、Burn 和 Push——让您可以与其他骑手在一系列现实生活中的挑战中一决高下。在 Race 中，您将与另一位骑手在 500 米短跑中竞争。你们的第一场对决将与一位具有相似统计数据的陌生人对抗。但每赢一场，你的对手就会变得更强大一点。Burn 是一分钟的激烈卡路里燃烧器，而 Push 则测试您将踏板功率连续 15 秒保持在特定阈值以上的能力。比赛不是现场直播…这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/cowboy-launches-ebike-game</guid>
       <pubDate>Thu, 04 Jul 2024 05:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国报告显示，英国在 GenAI 专利方面领先欧洲，但德国正在迎头赶上</title>
-      <link>https://thenextweb.com/news/uk-tops-europe-ai-patents-un-study</link>
-      <description><![CDATA[英国在生成式人工智能专利申请方面领先欧洲，但德国正在缩小差距。这是根据世界知识产权组织 (WIPO) 的最新数据得出的结论，WIPO 是一个跟踪专利的联合国机构。 WIPO 今天发布了一份报告，涵盖了截至 2023 年的十年间 54,000 项 GenAI 发明。其中超过 25% 是在去年出现的。研究结果表明，中国在该领域已建立起领先地位。在过去十年间，中国提交了超过 38,000 项 GenAI 专利。这比排名第二的美国（6,276 项）高出六倍之多。排在第三的是......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/uk-tops-europe-ai-patents-un-study</guid>
-      <pubDate>Wed, 03 Jul 2024 16:56:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
