@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 12:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 15:15:50 GMT</lastBuildDate>
+    <item>
+      <title>天文学家发现一个隐藏在恒星群中的神秘黑洞</title>
+      <link>https://www.npr.org/2024/07/10/nx-s1-5033974/rare-black-hole-intermediate-size-hubble-star-cluster</link>
+      <description><![CDATA[《自然》杂志的一篇报道称，天文学家可能发现了一个他们长期寻找的中等大小的黑洞。]]></description>
+      <guid>https://www.npr.org/2024/07/10/nx-s1-5033974/rare-black-hole-intermediate-size-hubble-star-cluster</guid>
+      <pubDate>Wed, 10 Jul 2024 15:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>在北约，拜登的目标是证明怀疑者是错误的。而且，未成年人应该购买无酒精饮料吗？</title>
       <link>https://www.npr.org/2024/07/10/g-s1-9083/up-first-newsletter-biden-nato-minors-zero-proof-drinks-non-alcoholic</link>
@@ -34,17 +41,17 @@
       <pubDate>Wed, 10 Jul 2024 11:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗曾试图在美国本土杀死她。阴谋失败了，但她却生活在伊朗的阴影下</title>
-      <link>https://www.npr.org/2024/07/10/g-s1-8835/masih-alinejad-iran</link>
-      <description><![CDATA[2022 年，据称伊朗策划了一项阴谋，雇佣一名杀手在纽约刺杀伊朗政权批评者 Masih Alinejad。威胁不断让她的生活天翻地覆。]]></description>
-      <guid>https://www.npr.org/2024/07/10/g-s1-8835/masih-alinejad-iran</guid>
-      <pubDate>Wed, 10 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>这些猴子“出了名的好胜”，直到飓风玛丽亚摧毁了它们的家园</title>
       <link>https://www.npr.org/2024/07/09/g-s1-6734/rhesus-macaques-hurricane-maria-changed-monkey-society</link>
       <description><![CDATA[圣地亚哥岛上的恒河猴以不宽容、等级森严和具有攻击性而闻名。2017 年的飓风玛丽亚摧毁了它们的家园后，猴子们的社会发生了惊人的变化。]]></description>
       <guid>https://www.npr.org/2024/07/09/g-s1-6734/rhesus-macaques-hurricane-maria-changed-monkey-society</guid>
+      <pubDate>Wed, 10 Jul 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>她是伊朗暗杀阴谋的目标。她现在生活在伊朗的阴影下</title>
+      <link>https://www.npr.org/2024/07/10/g-s1-8835/masih-alinejad-iran</link>
+      <description><![CDATA[2022 年，据称伊朗策划了一项阴谋，雇佣一名杀手在纽约刺杀伊朗政权批评者 Masih Alinejad。威胁不断让她的生活天翻地覆。]]></description>
+      <guid>https://www.npr.org/2024/07/10/g-s1-8835/masih-alinejad-iran</guid>
       <pubDate>Wed, 10 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在佐治亚州这个战场州，任何人都可以更轻松地质疑无永久地址选民的选民登记。批评人士称，无家可归的选民可能会被噤声。]]></description>
       <guid>https://www.npr.org/2024/07/10/nx-s1-5025177/georgia-law-now-makes-it-easier-for-citizens-to-challenge-a-voters-eligibility</guid>
       <pubDate>Wed, 10 Jul 2024 09:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能对电力的渴求</title>
-      <link>https://www.npr.org/2024/07/10/nx-s1-5028558/artificial-intelligences-thirst-for-electricity</link>
-      <description><![CDATA[人工智能是耗电大户。谷歌表示，其温室气体排放量在五年内增长了近 50%，主要是因为人工智能数据中心的电力供应不足。]]></description>
-      <guid>https://www.npr.org/2024/07/10/nx-s1-5028558/artificial-intelligences-thirst-for-electricity</guid>
-      <pubDate>Wed, 10 Jul 2024 09:09:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
