@@ -4,7 +4,64 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jul 2024 21:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 01:02:52 GMT</lastBuildDate>
+    <item>
+      <title>Adam Mosseri 表示，Instagram 将坚持推出短视频</title>
+      <link>https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri</guid>
+      <pubDate>Tue, 09 Jul 2024 22:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将提高 Xbox Game Pass Ultimate 的价格并推出新的“标准”级别</title>
+      <link>https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+微软计划在 9 月再次提高 Xbox Game Pass Ultimate 的价格，同时推出一项新的“标准”订阅服务，其中不包括首日访问第一方 Xbox 游戏的权利。 Xbox 制造商已开始向 Xbox Game Pass Ultimate 订阅用户发送电子邮件，警告其价格将从 9 月 12 日开始上涨至每月 19.99 美元，比目前每月 16.99 美元的价格上涨 3 美元。
+PC Game Pass 订阅用户也将在 9 月份看到价格上涨，服务费用将从每月 9.99 美元上涨至 11.99 美元，并可继续访问首日游戏。如果您身处美国境外，并且想知道价格上涨会如何影响您自己的订阅，微软提供了所有全球价格变动的完整列表。
+此次价格上涨发生在微软计划将《使命召唤：黑色行动 6》和其他大型第一方 Xbox 游戏添加到其游戏之前今年晚些时候，微软将为 Xbox Game Pass 服务提供更多功能。此次涨价将主要影响 Ultimate 订阅用户，他们占 Game Pass 订阅用户的绝大多数，距离上一次 Game Pass 涨价仅一年多一点，每月涨价 1-2 美元。
+除了 Ultimate 和 PC Game Pass 涨价外，微软还将为新用户提供 Xbox Game Pass Standard 订阅的新选项，不包括首日游戏，每月价格为 14.99 美元。现有订阅者将继续使用现有的 Xbox Game Pass 主机订阅，但新的 Game Pass 订阅者从 7 月 10 日开始将无法选择主机选项，直到新的 Game Pass Standard 订阅可用。微软表示，Xbox Game Pass Standard“将在未来几个月内推出”。
+新的标准选项还包括在线游戏机多人游戏访问，这是 Xbox Game Pass for Console 以前所缺乏的。现有的 Xbox Game Pass for Console 订阅者从 9 月 18 日起最多只能堆叠 13 个月，但这不会影响现有的堆叠。
+我在 5 月份透露，在围绕将使命召唤添加到服务中的争论中，微软正考虑再次提高 Xbox Game Pass Ultimate 的价格。顶级产品的价格上涨将有助于抵消微软将动视的《使命召唤》系列添加到 Game Pass 的影响，自微软正式添加《使命召唤》系列以来，人们一直对此抱有很大的期待。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription</guid>
+      <pubDate>Tue, 09 Jul 2024 22:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以买到的最好的即时相机</title>
+      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
+      <pubDate>Tue, 09 Jul 2024 22:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>起诉 GitHub Copilot 的开发人员在法庭上遭受重大打击</title>
+      <link>https://www.theverge.com/2024/7/9/24195233/github-ai-copyright-coding-lawsuit-microsoft-openai</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 |图片来自 Getty Images
+
+据The Register早些时候报道，一名法官驳回了一群开发人员在 2022 年提起的版权诉讼中对 GitHub、微软和 OpenAI 提出的几乎所有索赔。在上周公布的一份法院命令中，加州一名法官仅保留两项诉讼：一项指控这些公司违反开源许可证，另一项指控他们违反合同。
+最初的诉讼对这三人提出了 22 项指控，指控他们允许人工智能驱动的 GitHub Copilot 编码助手对开发人员的工作进行培训，从而违反了版权法。GitHub 的所有者微软使用 OpenAI 的技术来支持该工具。这三家公司在 1 月份均要求法院驳回诉讼，但法官 Jon Tigar 拒绝了他们的请求。
+然而，Tigar 法官的最新裁决对 GitHub Copilot 违反《数字千年版权法》（DMCA）的指控造成了沉重打击，该公司建议使用未经适当归属的代码。尽管法院此前裁定 Copilot 建议的代码与原始来源不够接近，但修改后的投诉版本对 GitHub 的重复检测过滤器 提出了质疑，用户可以打开该过滤器来“检测并抑制”与 GitHub 上找到的公共代码相匹配的 Copilot 建议。
+修改后的诉讼称，GitHub 为用户提供了在关闭过滤器时“接收相同代码”的选项。它还引用了一项研究，该研究展示了人工智能模型如何“记忆”和复述部分训练数据，其中可能包括受版权保护的代码。
+
+这在法庭上站不住脚，因为 Tigar 法官裁定 GitHub 涉嫌从开发人员那里复制的代码与他们的原创作品不够相似。他还提到了所引用研究的一部分，其中称 GitHub Copilot“很少在良性情况下发出记忆的代码”。Tigar 法官以偏见驳回了这一指控，这意味着开发人员不能重新提出索赔。法院还驳回了惩罚性赔偿以及以不当得利形式进行金钱救济的请求。
+这并不意味着诉讼已经结束。诉讼可能会继续，开发商可能会提出有关违反合同和开源许可的索赔。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/9/24195233/github-ai-copyright-coding-lawsuit-microsoft-openai</guid>
+      <pubDate>Tue, 09 Jul 2024 22:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>锂离子电池存在一个永远存在的化学问题</title>
+      <link>https://www.theverge.com/24194493/forever-chemicals-pfas-lithium-ion-ev-rechargeable-batteries</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24194493/forever-chemicals-pfas-lithium-ion-ev-rechargeable-batteries</guid>
+      <pubDate>Tue, 09 Jul 2024 21:16:56 GMT</pubDate>
+    </item>
     <item>
       <title>美国司法部查获俄罗斯政府运营的“机器人农场”</title>
       <link>https://www.theverge.com/2024/7/9/24195228/doj-bot-farm-rt-russian-government-namecheap</link>
@@ -87,80 +144,6 @@ Google 的 Pixel Watch 3 可能拥有更亮的 2,000 尼特显示屏、更小的
 ]]></description>
       <guid>https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels</guid>
       <pubDate>Tue, 09 Jul 2024 19:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>夏季运动会的亮点是一只非常出色的狗在玩 16 位棒球</title>
-      <link>https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog</guid>
-      <pubDate>Tue, 09 Jul 2024 19:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款折叠键盘里面藏着一台 AMD Ryzen 7 PC</title>
-      <link>https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard</link>
-      <description><![CDATA[
-
-您可以将这台电脑放入口袋中。 |图片：玲珑
-
-除了显示器之外什么都有的无头便携式电脑在那些不想满足于无法轻松升级的笔记本电脑的发烧友中越来越受欢迎——现在中国制造商玲珑正通过这款折叠键盘电脑更进一步。
-Tom’s Hardware 指出了该公司发布的演示文稿，其中展示了一款微型电脑，让人想起了当时流行的折叠无线键盘类似 PalmPilot 的 PDA。但这款产品要厚得多，配备了 AMD Ryzen 7 8840U 处理器、16GB 或 32GB 内存、高达 1TB 的 SSD 存储和 Wi-Fi 6 连接，此外还有蓝牙和 16,000mAh 可充电电池。
-
-Linglong 建议将这款微型 PC 与 AR 或 VR 眼镜配对，以创建一个真正便携的工作站（他们甚至听说过三星 DeX 吗？）。但它也可以使用三个 USB 端口之一连接到固定显示器，其中两个是 USB-C。
-
-
-图片：玲珑
-玲珑折叠键盘电脑的分解图显示一侧有一个冷却风扇。
-
-
-据称，这款便携式电脑的电池续航时间长达 10 小时，可用于轻量级桌面工作或长达 6 小时的视频观看，比其他一些产品更具吸引力，因为它不需要在每次移动时完全关闭。不幸的是，虽然玲珑计划以 412 美元至 495 美元的价格出售这款键盘 PC，具体取决于规格，但该公司表示，它只向 beta 测试人员提供 200 台，没有更广泛的零售可用性时间表。
-在个人计算的早期，Apple II 和 Commodore 64 等 PC 本质上是这款键盘 PC 的更大版本。尽管我们已经看到了几种将整个 PC 塞进键盘的现代尝试——最便宜的是 Pentaform Abacus 和 定制 CJ64——玲珑的解决方案对于那些优先考虑便携性的人来说更有吸引力。]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard</guid>
-      <pubDate>Tue, 09 Jul 2024 19:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的暗网监控服务即将向所有用户免费开放</title>
-      <link>https://www.theverge.com/2024/7/9/24194970/google-one-free-dark-web-monitoring</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-自去年以来，Google 一直在监控暗网泄密事件窃取 Google One 订阅者的帐号信息，例如电话号码和实际地址。但是，从本月晚些时候开始，谷歌的暗网报告将向所有拥有谷歌账户的人开放。
-根据关于此次过渡的谷歌支持页面，这项免费服务将成为谷歌“结果Google 表示此举将创建一个“综合解决方案，帮助用户保护他们的在线状态”。 
-
-
-Jennifer Pattison Tuohy / The Verge 的截图
-Google One 用户（比如我）正在失去暗网监控的好处——但一个版本即将免费提供给每个 Google 用户。
-
-当然，有几项服务——既有付费的也有免费的，比如 Have I Been Pwned? — 会扫描暗网中的数据并向您发送警报。但对于 Google 用户来说，将该公司的两项监控功能合并到一个地方以查看潜在的个人信息泄露是有意义的。 
-这确实意味着，去年春天为超过 1 亿付费 Google One 用户（起价为每月 1.99 美元）添加的两项福利均已被取消。上个月，谷歌宣布其另一项新增服务，即 Google One 的 VPN，将于今年晚些时候关闭。 
-这些不太可能是人们最初注册 Google One 的原因，但看到这些好处消失而价格却没有相应下降，可能会令人沮丧。
-注册 Google One 的主要原因是为您的 Google 帐户获得更多存储空间，包括照片和 Gmail 存储空间。虽然还有其他好处 - 包括高级 Google Meet 视频通话功能、与最多 5 人共享存储空间的能力以及 Google 日历中增强的约会安排 - 但没有一个是那么引人注目的。您可能会考虑为 Google 的 Gemini 人工智能功能付费，但这些功能需要 更高级别的 Google One，起价为每月 19.99 美元。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24194970/google-one-free-dark-web-monitoring</guid>
-      <pubDate>Tue, 09 Jul 2024 19:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP 正在放弃其“诱饵转换”打印机 DRM — 但仅限于 LaserJets</title>
-      <link>https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner</link>
-      <description><![CDATA[
-
-受影响的 HP LaserJet 打印机之一。 |图片：HP
-
-去年 5 月，我告诉过你，惠普最畅销的打印机如何通过其卑鄙的 HP Plus 计划将你终身锁定在公司自己的订阅墨水上，无法取消。但惠普已决定至少从未来的激光打印机上消除这些束缚。 
-“今后我们将不再为任何 LaserJet 系列产品提供 HP+，”发言人 Nick Lucido 告诉 The Verge。
-
-Druckerchannel报道，HP 还悄悄停止了所有直接要求订阅 HP Plus 的廉价“e”系列 LaserJet 打印机，并且 HP 确认也将停止其激光打印机碳粉的 Instant Ink 订阅。 （现有客户不会受到影响。）但 HP 的 e 系列喷墨打印机（如我所写的那款）及其 Instant Ink 订阅将继续存在，而且 HP 几乎肯定会继续尝试阻止第三方墨盒。
-为什么只是 LaserJets，为什么是现在？HP 表示这是为了帮助商业客户。“我们了解到，IT 管理办公环境中的一些客户无法满足 HP+ 的云连接要求，”Lucido 写道。但我想知道这是否也与 Brother 有关——该公司其Verge推荐的激光打印机不玩这些人质游戏。
-Jess Weatherbed 和 Umar Shakir 补充报道]]></description>
-      <guid>https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner</guid>
-      <pubDate>Tue, 09 Jul 2024 19:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的《阳光姐妹淘》是一部悲伤却带着微笑的犯罪剧情片</title>
-      <link>https://www.theverge.com/24194360/apple-tv-plus-sunny-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24194360/apple-tv-plus-sunny-review</guid>
-      <pubDate>Tue, 09 Jul 2024 18:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

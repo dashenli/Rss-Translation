@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 09 Jul 2024 21:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 01:04:09 GMT</lastBuildDate>
+    <item>
+      <title>谷歌搜索算法将基于人工智能的“抄袭”排名高于原始文章</title>
+      <link>https://wired.jp/article/google-search-ai-spam-original-reporting-news-results/</link>
+      <description><![CDATA[谷歌宣布了一项新的垃圾邮件政策，从其搜索结果中删除低质量内容。然而，在“谷歌搜索”和“谷歌新闻”的搜索结果中，存在人工智能“抄袭”文章的显示位置高于原创文章的情况。]]></description>
+      <guid>https://wired.jp/article/google-search-ai-spam-original-reporting-news-results/</guid>
+      <pubDate>Tue, 09 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>替你和粉丝聊天，OnlyFans的秘密承包商兼职</title>
       <link>https://wired.jp/article/sz-i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Epic Games 指责苹果公司“拒绝”其应用程序商店（苹果应用程序商店的替代品）。这是一场关于谁拥有向数亿用户“控制应用程序销售”的更大斗争的一部分。]]></description>
       <guid>https://wired.jp/article/epic-games-lashes-out-at-apple-over-app-store-rejection/</guid>
       <pubDate>Sat, 06 Jul 2024 09:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>watchOS 11 中值得关注的六项新功能，以及用于管理您的健康和训练的新应用程序和指标</title>
-      <link>https://wired.jp/article/apple-watchos-watchos-11-top-new-features/</link>
-      <description><![CDATA[Apple Watch 的下一个操作系统 watchOS 11 将于 2024 年秋季推出，但这一次会添加哪些新功能呢？以下是值得关注的六个新功能。]]></description>
-      <guid>https://wired.jp/article/apple-watchos-watchos-11-top-new-features/</guid>
-      <pubDate>Sat, 06 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
