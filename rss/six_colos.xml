@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 10 Jul 2024 03:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:27:56 GMT</lastBuildDate>
+    <item>
+      <title>苹果的下一代 HomePod 可能会改变我们对 Siri 的所有认知（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2390634/apples-real-siri-bet-is-a-homepod-with-a-screen.html</link>
+      <description><![CDATA[在今年的全球开发者大会上，苹果公司对其主要平台给予了些许关注：iOS、iPadOS、macOS、watchOS——甚至 tvOS 也受到了一些关注。但有一款设备却缺席了：HomePod。…]]></description>
+      <guid>https://www.macworld.com/article/2390634/apples-real-siri-bet-is-a-homepod-with-a-screen.html</guid>
+      <pubDate>Wed, 10 Jul 2024 12:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果不再担任 OpenAI 董事会席位 ↦</title>
+      <link>https://sixcolors.com/link/2024/07/apple-no-longer-taking-openai-board-seat/</link>
+      <description><![CDATA[Camilla Hodgson 和 George Hammond 在《金融时报》（付费版）撰文：
+
+据一位知情人士透露，作为将 ChatGPT 集成到 iPhone 制造商设备中的协议的一部分，苹果原本有望在 OpenAI 董事会中扮演观察员的角色，但苹果不会这样做。…]]></description>
+      <guid>https://sixcolors.com/link/2024/07/apple-no-longer-taking-openai-board-seat/</guid>
+      <pubDate>Wed, 10 Jul 2024 10:46:54 GMT</pubDate>
+    </item>
     <item>
       <title>TUAW 再次回归，成为一个由人工智能生成的僵尸垃圾网站 ↦</title>
       <link>https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/</link>
@@ -104,21 +120,6 @@ Vision Pro 并不是如今许多人应该购买的产品，这并不奇怪。这
       <description><![CDATA[基于语音的虚拟助手的可靠功能、我们假设的美国互联网立法、Apple 的新密码应用程序对我们的密码管理的影响以及我们与法学硕士分享私密想法的舒适度。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/06/clockwise-560-i-dont-like-it-when-im-disappointed/</guid>
       <pubDate>Wed, 26 Jun 2024 20:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 501：曼德拉效应表情符号</title>
-      <link>https://sixcolors.com/podcast/2024/06/the-rebound-501-mandela-effect-emoji/</link>
-      <description><![CDATA[Betas、欧盟和frfrrrfrffrrrrrrffffrrrrfff。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/06/the-rebound-501-mandela-effect-emoji/</guid>
-      <pubDate>Wed, 26 Jun 2024 19:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：Moaan InkPalm Plus 很奇怪，便宜，小巧，是我喜欢的电子阅读器</title>
-      <link>https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/</link>
-      <description><![CDATA[Moaan InkPalm Plus 和 Kobo Clara HD。
-我，John Moltz，作为全球领先的 iPhone mini 超级粉丝，也想使用小型电子阅读器，这可能并不奇怪。…]]></description>
-      <guid>https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/</guid>
-      <pubDate>Wed, 26 Jun 2024 16:12:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
