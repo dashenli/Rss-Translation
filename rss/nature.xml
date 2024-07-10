@@ -4,7 +4,37 @@
     <title>自然网</title>
     <link>https://www.nature.com/</link>
     <description>nature.com - 由RSS屋精心整理(https://rss.mifaw.com)</description>
-    <lastBuildDate>Tue, 09 Jul 2024 21:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 16:09:41 GMT</lastBuildDate>
+    <item>
+      <title>科学家编辑活体小鼠肠道细菌的基因</title>
+      <link>https://www.nature.com/articles/d41586-024-02238-3</link>
+      <description><![CDATA[
+
+
+
+
+对小鼠肠道细菌进行基因调整一直是一项挑战。图片来源：Robert F. Bukaty/AP via Alamy
+
+科学家设计了一种基因编辑工具，可以修改活小鼠肠道微生物组中的细菌种群1。
+该工具是一种“碱基编辑器”，可修改小鼠肠道内 90% 以上大肠杆菌菌落中的目标基因，而不会使修改后的基因产生可能有害的自身副本。“我们梦想着能够做到这一点，”合成生物学家 Xavier Duportet 说道，他是巴黎生物技术公司 Eligo Bioscience 的联合创始人。该研究结果今天发表在《自然》杂志上。
+一些研究小组试图对小鼠的肠道细菌进行基因调整，但在体内实现这一目标一直具有挑战性。4,3,2。到目前为止，碱基编辑器（将一个核苷酸碱基与另一个核苷酸碱基交换，例如将 A 转换为 G）不会破坏 DNA 双链，但无法对目标细菌群体进行足够多的修改，无法发挥作用。这是因为它们所用的载体只针对实验室培养的细菌中常见的靶向受体。
+创新的交付系统
+为了解决这些障碍，Duportet 和他的同事设计了一种交付载体，使用噬菌体（一种感染细菌的病毒）的成分来瞄准在肠道环境中表达的几个大肠杆菌受体。该载体携带一个碱基编辑器，该编辑器针对特定的大肠杆菌基因。研究人员还改进了该系统，以防止编辑后的基因复制和传播。
+研究小组将碱基编辑器植入小鼠体内，并用它将大肠杆菌基因中的 A 改为 G，该基因产生 β-内酰胺酶 - 这种酶会导致细菌对多种抗生素产生耐药性。在动物接受治疗约八小时后，约 93% 的目标细菌已被编辑。
+研究人员随后对碱基编辑器进行了调整，以便它可以修改大肠杆菌基因，该基因产生的蛋白质被认为在多种神经退行性疾病和自身免疫性疾病中发挥作用。在小鼠接受治疗三周后，编辑后的细菌比例徘徊在 70% 左右。在实验室中，科学家还可以使用该工具编辑大肠杆菌和肺炎克雷伯菌菌株，这两种菌株可导致肺炎感染。这表明，该编辑系统可以适应不同的细菌菌株和物种。
+德国维尔茨堡亥姆霍兹 RNA 感染研究所的化学工程师 Chase Beisel 表示，这种碱基编辑系统代表着开发可直接在肠道内修改细菌的工具的“重大飞跃”。他补充说，这项研究“开启了编辑微生物以对抗疾病的可能性，同时防止工程 DNA 扩散”。
+Duportet 和他的同事的下一步是开发具有微生物组驱动疾病的小鼠模型，以测量特定的基因编辑是否对它们的健康产生有益影响。
+]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02238-3</guid>
+      <pubDate>Wed, 10 Jul 2024 16:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>减肥药如何引起恶心：新发现为研制更好的药物带来希望</title>
+      <link>https://www.nature.com/articles/d41586-024-02254-3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02254-3</guid>
+      <pubDate>Wed, 10 Jul 2024 16:09:40 GMT</pubDate>
+    </item>
     <item>
       <title>如果禽流感引发人类大流行，你过去的免疫力可能会有所帮助</title>
       <link>https://www.nature.com/articles/d41586-024-02170-6</link>
@@ -20,17 +50,17 @@
       <pubDate>Tue, 09 Jul 2024 16:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>每日简报：小鼠研究表明脊髓液会引起耳部偏头痛</title>
-      <link>https://www.nature.com/articles/d41586-024-02257-0</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02257-0</guid>
-      <pubDate>Tue, 09 Jul 2024 12:04:36 GMT</pubDate>
-    </item>
-    <item>
       <title>前 Meta 科学家首次推出巨型 AI 蛋白质设计模型</title>
       <link>https://www.nature.com/articles/d41586-024-02214-x</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-02214-x</guid>
+      <pubDate>Tue, 09 Jul 2024 12:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日简报：小鼠研究表明脊髓液会引起耳部偏头痛</title>
+      <link>https://www.nature.com/articles/d41586-024-02257-0</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02257-0</guid>
       <pubDate>Tue, 09 Jul 2024 12:04:36 GMT</pubDate>
     </item>
     <item>
@@ -41,17 +71,17 @@
       <pubDate>Mon, 08 Jul 2024 21:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>每日简报：重型火箭恢复欧洲进入太空的能力</title>
-      <link>https://www.nature.com/articles/d41586-024-02240-9</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02240-9</guid>
-      <pubDate>Mon, 08 Jul 2024 16:08:29 GMT</pubDate>
-    </item>
-    <item>
       <title>科学家们对法国大选中极右翼的失败感到宽慰，但他们仍然面临不确定性</title>
       <link>https://www.nature.com/articles/d41586-024-02260-5</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-02260-5</guid>
+      <pubDate>Mon, 08 Jul 2024 16:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日简报：重型火箭恢复欧洲进入太空的能力</title>
+      <link>https://www.nature.com/articles/d41586-024-02240-9</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02240-9</guid>
       <pubDate>Mon, 08 Jul 2024 16:08:29 GMT</pubDate>
     </item>
     <item>
@@ -62,7 +92,7 @@
       <pubDate>Mon, 08 Jul 2024 12:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>偏头痛的病因是什么？“脑电暂停”研究提供线索</title>
+      <title>偏头痛的病因是什么？“脑瘫”研究提供线索</title>
       <link>https://www.nature.com/articles/d41586-024-02222-x</link>
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-02222-x</guid>
@@ -95,35 +125,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.nature.com/articles/d41586-024-02194-y</guid>
       <pubDate>Wed, 03 Jul 2024 21:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>西方科学家更有可能发表被拒论文，而且发表速度更快</title>
-      <link>https://www.nature.com/articles/d41586-024-02142-w</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02142-w</guid>
-      <pubDate>Wed, 03 Jul 2024 12:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么驱使蚊子嗜血？它们的激素</title>
-      <link>https://www.nature.com/articles/d41586-024-02126-w</link>
-      <description><![CDATA[
-
-
-
-
-雌蚊子渴望血液以帮助卵子发育。图片来源：Isaac Fontana/EPA-EFE/Shutterstock
-
-根据一项发表的研究，一对激素协同作用，激活或抑制蚊子对血液的渴望今天1。
-这些发现揭示了驱动蚊子对人类和其他动物的吸引力的可能机制，这一机制至今仍是一个谜。 “这一发现可能为防止蚊子繁殖和疾病传播提供新的杀虫剂靶点，”中国科学院动物研究所昆虫学家邹震说。
-大多数蚊子物种的雌性——包括携带引起登革热、黄热病和寨卡病毒的病毒的埃及伊蚊——以动物血液为食以发育卵子。但是一旦它们吃了血，它们对血液的胃口就会停止，直到它们产卵之后。
-雅典佐治亚大学的昆虫学家迈克尔·斯特兰德 (Michael Strand) 想要更好地了解控制这种吸引周期的机制。他注意到，当蚊子寻找宿主时，昆虫肠道中产生的一种名为神经肽 F (NPF) 的激素水平会激增，而在它们吸食血液后，这种激素就会消失。 “这促使我们研究这种激素的存在是否是蚊子吸血的驱动因素，”斯特兰德说。
-斯特兰德与同事分析了蚊子的肠内分泌细胞，这种细胞在胃肠道中产生激素。正如预期的那样，NPF 水平在蚊子吸血前飙升，在吸血六小时后下降。蚊子对人类的吸引力与这种激素波动相匹配：它们在吸血当天对人类的手没有兴趣，但在产卵后直奔人类的手。“这几乎是完美的镜像，”斯特兰德说。
-接下来，研究人员敲除了雌性蚊子中产生 NPF 的基因，发现这降低了它们对人类的吸引力。当他们向这些变异蚊子体内注射激素后，它们恢复了对人类的兴趣，但对携带卵的蚊子几乎没有影响。
-研究小组还发现，某些延伸到肠道的神经元会产生另一种名为 RYamide 的激素，这种激素可以调节昆虫的摄食行为。就像 NPF 水平在吸血后下降一样，RYamide 水平也会上升。在没有卵的蚊子中，注射 RYamide 会降低它们的 NPF 水平，并抑制它们对人类宿主的吸引力，而对照组蚊子（具有天然激素水平）则会迅速向人类手部靠近。这表明 NPF 和 RYamide 共同作用，刺激和抑制蚊子对宿主的吸引力。
-Strand 和他的同事计划研究与宿主吸引力有关的其他分子因素，以构建更完整的图景。“生活从来都不简单，”他说。
-]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02126-w</guid>
-      <pubDate>Tue, 02 Jul 2024 12:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
