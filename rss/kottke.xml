@@ -4,7 +4,16 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Thu, 11 Jul 2024 18:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 21:18:02 GMT</lastBuildDate>
+    <item>
+      <title>区域代码也是 HTTP 响应标头。例如，404（不...</title>
+      <link>https://kottke.org/24/07/0044943-area-codes-that-are-also</link>
+      <description><![CDATA[也是 HTTP 响应标头的区号。例如，404（未找到）是亚特兰大的区号，406（不可接受）是蒙大拿州的区号。
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/07/0044943-area-codes-that-are-also</guid>
+      <pubDate>Thu, 11 Jul 2024 19:34:50 GMT</pubDate>
+    </item>
     <item>
       <title>阅读米兰达·朱莉的《All Fours》</title>
       <link>https://kottke.org/24/07/reading-miranda-julys-all-fours</link>
@@ -44,7 +53,7 @@ Miranda July，All Fours（Libby 上还有一个相当大的免费样本）
     <item>
       <title>死亡谷的气温持续达到 129°F。“微风只会让情况变得更糟……</title>
       <link>https://kottke.org/24/07/0044938-enduring-129f-in-death-va</link>
-      <description><![CDATA[死亡谷持续 129°F。“微风只会让情况变得更糟，它会吹散稀薄而脆弱的冷空气大气层，而冷空气是由数百万个毛孔通过出汗产生的。你的心跳越来越快。你的认知开始模糊。”
+      <description><![CDATA[死亡谷持续 129°F。“微风只会让情况变得更糟，它会吹散稀薄而脆弱的冷空气，而冷空气是由数百万个毛孔通过出汗产生的。你的心跳越来越快。你的认知开始模糊。”
 
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/07/0044938-enduring-129f-in-death-va</guid>
@@ -159,15 +168,6 @@ Vox 也有一篇关于《头脑特工队 2》情绪科学的非常有趣的文�
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/07/0044908-if-dragons-were-real-how</guid>
       <pubDate>Tue, 09 Jul 2024 21:40:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>听起来完全错误的真实陈述：斯蒂芬库里无法旋转篮球......</title>
-      <link>https://kottke.org/24/07/0044932-true-statement-that-sound</link>
-      <description><![CDATA[听起来完全错误的真实陈述：斯蒂芬·库里无法用手指旋转篮球（没有 Globetrotter 的帮助）。
-
-💬 ​​加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/07/0044932-true-statement-that-sound</guid>
-      <pubDate>Tue, 09 Jul 2024 20:49:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
