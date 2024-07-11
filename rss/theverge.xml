@@ -4,7 +4,54 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Jul 2024 12:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 15:15:14 GMT</lastBuildDate>
+    <item>
+      <title>谷歌称 Gemini AI 正在让其机器人变得更加智能</title>
+      <link>https://www.theverge.com/2024/7/11/24196402/google-deepmind-gemini-1-5-pro-robot-navigation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24196402/google-deepmind-gemini-1-5-pro-robot-navigation</guid>
+      <pubDate>Thu, 11 Jul 2024 14:28:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>这家气候科技初创公司希望捕获碳并帮助数据中心降温</title>
+      <link>https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google</guid>
+      <pubDate>Thu, 11 Jul 2024 14:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型火箭爱好者正在学习如何垂直着陆</title>
+      <link>https://www.theverge.com/2024/7/11/24195913/rockets-hobbies-spacex-falcon-9-model-rockets-landings</link>
+      <description><![CDATA[
+
+Aryan Kapoor 花了三年时间才让模型火箭垂直降落。 |截图：YouTube
+
+Joe Barnard（或 BPS.Space）和 Aryan Kapoor 是两位模型火箭爱好者，他们多年来一直致力于通过创新方式推动这项爱好的发展，以精确操纵模型火箭并使其垂直降落，而不是仅仅看着它们在发射后降落伞返回地球。尽管经历了许多失败和挫折，他们还是成功地在规模小得多的情况下，在没有数十亿美元资金的情况下，重现了 SpaceX 猎鹰 9 号的着陆能力。
+巴纳德在大学学习的是音乐制作，而不是航空航天工程。他花了七年时间设计、建造和完善各种定制组件，包括用于模型火箭发动机的定制推力矢量机构。
+依靠一对减速以提高运动精度的伺服电机，火箭发动机的推力可以在各个方向上倾斜多达五度。当与传感器和定制软件配合使用时，该机制可使巴纳德火箭在整个飞行过程中保持垂直。
+
+通过结合使用 3D 打印和机加工金属零件，巴纳德还开发了一种控制固体燃料火箭发动机产生的推力的方法，这种发动机一旦点火就没有关闭开关。一对可调节的陶瓷桨叶闭合可偏转发动机的排气并减少产生的升力，从而实现高度可控的着陆。
+正如 Hackaday 最近分享的那样，卡普尔是一名高中生，过去三年来，他一直以 JRD Propulsion 的昵称追求着同样的目标。卡普尔的火箭采用与巴纳德火箭相同的推力矢量方法，但使用气压计和加速度计的飞行数据来准确确定何时需要启动第二台发动机以确保安全着陆。
+
+卡普尔火箭的着陆支架也比巴纳德火箭的简单得多。它们不会缩回，但每个支架都巧妙地使用连接到橡皮筋的塑料注射器来吸收粗糙着陆的冲击力，从而提高火箭保持直立的机会。
+SpaceX 和其他公司一直在寻求可重复使用的火箭，以提高太空发射的经济性。但对于业余爱好者来说，垂直降落火箭的挑战已经足够了——如果你看到其他人尝试类似的事情，请在评论中告诉我们。]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24195913/rockets-hobbies-spacex-falcon-9-model-rockets-landings</guid>
+      <pubDate>Thu, 11 Jul 2024 14:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>查姆之王</title>
+      <link>https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo</guid>
+      <pubDate>Thu, 11 Jul 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能设计应用程序让我的新公寓看起来很奇怪</title>
+      <link>https://www.theverge.com/24171559/ai-design-app-chatgpt-ikea-spacely-decoratly</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24171559/ai-design-app-chatgpt-ikea-spacely-decoratly</guid>
+      <pubDate>Thu, 11 Jul 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>这是 Sonos 的下一款旗舰条形音箱</title>
       <link>https://www.theverge.com/2024/7/11/24195947/sonos-lasso-soundbar-photos-features-leak</link>
@@ -52,9 +99,10 @@ Stellantis 闲置的贝尔维迪尔装配厂是因获得 3.34 亿美元补助而
 “这项投资将创造数千个高薪、工会参与的制造业岗位”
 这笔资金是美国能源部去年年底宣布的一项更大规模的 155 亿美元计划的一部分，该计划旨在将现有制造设施改造成电动汽车和清洁汽车装配厂。该笔资金是作为《2022 年通胀削减法案》的一部分批准的，该法案是拜登总统具有里程碑意义的气候立法。 
 将进行改造的一些工厂包括位于伊利诺伊州贝尔维迪尔的一家闲置的 Stellantis 工厂，该工厂将使用 3.34 亿美元的补助资金改造成电动汽车装配厂。（Stellantis 和全美汽车工人联合会宣布了一项协议，于今年早些时候重新开放该工厂。）Stellantis 还将获得额外的 2.5 亿美元，用于改造其位于印第安纳州科科莫的变速箱工厂，以生产电驱动模块。 
-通用汽车将获得 5 亿美元，将其位于密歇根州兰辛的 25 年历史工厂改建为生产电动车型的工厂。哈雷戴维森位于宾夕法尼亚州约克的工厂将获得 8900 万美元，成为一家电动摩托车装配厂。生产校车的蓝鸟公司将获得 7900 万美元，用于升级位于佐治亚州福特谷的一座 60 万平方英尺的工厂，以生产电动巴士。
+通用汽车将获得 5 亿美元，将其位于密歇根州兰辛的 25 年历史工厂改建为生产电动车型的工厂。宾夕法尼亚州约克的哈雷戴维森工厂也生产电动摩托车，将获得 8900 万美元的扩建资金，用于未来的电动汽车生产。生产校车的蓝鸟公司将获得 7900 万美元，用于升级位于佐治亚州福特谷的一座 60 万平方英尺的工厂，用于生产电动巴士。 
 官员表示，拨款的先决条件之一是，这笔钱必须用于保留和创造汽车行业新的工会工作岗位。拜登在声明中明确表示，这些拨款“将有助于确保汽车行业的未来由美国工会工人在美国创造”。UAW 已在拜登的连任竞选中为其背书。 
-总统已将电动汽车作为其气候平台的核心部分，批准了数十亿美元的新支出，用于激励购车者和安装充电站。前总统唐纳德·特朗普已承诺，如果拜登在 11 月获胜，他将踩下对电动汽车支出的刹车，众议院共和党人已通过多项法案，废除政府的电动汽车税收抵免计划。]]></description>
+总统已将电动汽车作为其气候平台的核心部分，批准了数十亿美元的新支出，用于激励购车者和安装充电站。前总统唐纳德·特朗普已承诺，如果拜登在 11 月获胜，他将踩下对电动汽车支出的刹车，众议院共和党人已通过多项法案，废除政府的电动汽车税收抵免计划。 
+7 月 11 日更新： 宾夕法尼亚州约克市的哈雷戴维森工厂已开始生产电动摩托车，并将利用补助金扩大未来电动汽车的生产。本文的先前版本对此进行了错误陈述。]]></description>
       <guid>https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding</guid>
       <pubDate>Thu, 11 Jul 2024 09:00:00 GMT</pubDate>
     </item>
@@ -65,83 +113,12 @@ Stellantis 闲置的贝尔维迪尔装配厂是因获得 3.34 亿美元补助而
 
 Starlink Mini 可由便携式 USB 电池供电。 |图片：SpaceX
 
-SpaceX 的 Starlink Mini 天线 — 埃隆·马斯克 (Elon Musk) 称其“将改变世界” — 现在已可供美国所有人使用。这款小型太空互联网套件将天线和 Wi-Fi 路由器巧妙地集成到一个防风雨套件中，该套件比之前的 Starlink 套件小得多，耗电量也更少。这款笔记本电脑大小的一体式天线甚至可以直接由功率为 100W（20V/5A）的 USB-PD 移动电源供电。 
-最初，Starlink Mini 仅作为美国现有住宅用户的附加服务提供。现在，自推出以来仅几周时间，它就已面向希望无论在哪里开店都能保持联系的广泛货车司机和数字游民开放。
-Starlink Mini 硬件售价 599 美元，提供区域和迷你漫游服务。在北美，区域服务每月收费 150 美元，可无限量使用便携式数据，可选择按 GB 支付移动使用费用。迷你漫游每月仅需 50 美元，但仅限于 50GB 的便携式或移动数据，额外数据按 GB 收费。这两项服务都可以在冒险之间暂停。]]></description>
+SpaceX 的 Starlink Mini 天线 — 埃隆·马斯克 (Elon Musk) 称其“将改变世界” — 现在已可供美国所有人使用。这款小型太空互联网套件将天线和 Wi-Fi 路由器巧妙地集成到一个防风雨套件中，该套件比之前的 Starlink 套件小得多，耗电量也更少。 
+这款笔记本电脑大小的一体式天线甚至可以直接由 100W（20V/5A）的 USB-PD 电源供电 - 这意味着使用小型移动电源时可以使用一小时，而连接到太阳能发电机时可以使用几天。 
+最初，Starlink Mini 仅作为美国现有住宅用户的附加组件提供。现在，自推出仅几周以来，它就可供广泛的面包车和数字游民使用，无论他们在哪里开店，他们都希望保持联系。
+Starlink Mini 硬件售价 599 美元，提供区域和 Mini Roam 服务。北美地区每月收费 150 美元，可无限量使用便携式数据，可选择按 GB 计费，以用于移动使用。Mini Roam 每月仅需 50 美元，但北美大陆的便携式或移动数据量限制为 50GB，超出部分则按 GB 计费。这两项服务都可以在冒险之间暂停。]]></description>
       <guid>https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs</guid>
       <pubDate>Thu, 11 Jul 2024 06:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redbox 的光盘租赁服务已结束</title>
-      <link>https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate</link>
-      <description><![CDATA[
-
-照片由 Mario Tama/Getty Images 拍摄
-
-据 Lowpass 的 Janko Roettgers 和 华尔街日报。该公司的律师表示，心灵鸡汤娱乐公司将解雇其剩余的 1,000 名员工并清算其业务，包括流媒体业务和多年来出租 DVD、蓝光和视频游戏的 24,000 多个光盘亭。
-据 Roettgers 称，法官 Thomas Horan 表示，“没有办法继续支付员工工资、支付任何账单，否则将无法为本案提供资金。它已经无可救药地破产了……考虑到至少还存在挪用员工托管资金的可能性，有充分的理由将此案改判。”
-
-除了运营 Redbox，心灵鸡汤娱乐还管理着 Crackle 和 Screen Media 等品牌。 （请注意，心灵鸡汤娱乐公司是心灵鸡汤有限责任公司的一部分；据《华尔街日报》报道，这家大公司不属于这起破产案。） 
-心灵鸡汤娱乐公司没有立即回复置评请求。
-Roettgers 一直在为《The Verge》报道 Redbox 及其母公司最近的麻烦，包括未能支付欠 NBCUniversal 的数百万美元款项， 原始破产申请，以及 Chicken Soup 未能为 Redbox 员工发放工资。]]></description>
-      <guid>https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate</guid>
-      <pubDate>Wed, 10 Jul 2024 23:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州的数字身份证应用程序突然消失</title>
-      <link>https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-佛罗里达州公路安全和机动车管理局 (FLHSMV) 已关闭其数字身份证应用程序，即适用于 iPhone 和 Android 的 Florida Smart ID手机。该部门通过电子邮件向用户发送了删除该应用程序的邮件，并表示正在寻找另一家供应商，帮助其在“2025 年初”之前恢复该服务，据 9to5Mac 报道。
-该州将其 Smart ID 应用程序推广为一种非接触式方式，用于在商店或与警察交谈时出示年龄或身份证明，但现在它已经消失了。根据南佛罗里达太阳哨兵报去年的报道，使用它的人并不多，在1700多万持照司机中，只有95,000人激活了它，许多警察部门表示他们也没有使用它。
-国务院已在其网站上发布了此声明：
-佛罗里达州智能身份证应用程序将由新的供应商进行更新和改进。目前，佛罗里达州公路安全和机动车管理局正在从应用商店中移除当前的佛罗里达智能身份证应用程序。请发送电子邮件至 FloridaSmartID@flhsmv.gov 以接收未来可用性通知。
-
-
-我已经使用佛罗里达智能身份证一段时间了，刚刚突然收到一封电子邮件，说他们正在与新供应商重新开发，因此虚拟身份证要到 2025 年才能使用。真是的。佛罗里达真是一团糟。— Korin Reid (@korinreid) 2024 年 7 月 10 日
-
-
-该机构报告了该服务存在的问题，该服务在 6 月底关闭之前，显然是在 7 月初。
-其他州，如路易斯安那州和纽约州是越来越多采用数字身份证的州之一。佛罗里达州等州通过自己的应用提供该服务，而马里兰州和亚利桑那州等其他州则支持添加到 Google Wallet 或 Apple Wallet。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down</guid>
-      <pubDate>Wed, 10 Jul 2024 23:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>您已经可以获得的最佳 Prime Day 优惠</title>
-      <link>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales</guid>
-      <pubDate>Wed, 10 Jul 2024 23:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期的苹果科技博主震惊地发现他们的名字和作品已被人工智能僵尸化</title>
-      <link>https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan</guid>
-      <pubDate>Wed, 10 Jul 2024 22:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>受《动物之森》启发的 Nintendo Switch Lite 降价至迄今为止的最佳价格</title>
-      <link>https://www.theverge.com/2024/7/10/24195708/walmart-nintendo-switch-lite-timmy-tommys-aloha-edition-animal-crossing-deal-sale</link>
-      <description><![CDATA[
-
-沃尔玛的独家 Switch Lite 交易包括《动物之森：新视野》的数字副本。 |图片：任天堂
-
-从超值优惠的 MacBook 到 Super Mario Party Joy-Con 捆绑包, 沃尔玛的竞争对手 Prime Day 促销活动给我们带来了一些相当不错的优惠。今天，我们将重点介绍另一个活动，如果您正在寻找可以让孩子（或您自己）在这个夏天玩得开心的东西，那么这个活动非常适合您。现在，您可以在沃尔玛购买动物之森主题的 Nintendo Switch Lite ，价格为仅需 $159（优惠 41 美元），这是我们在 Timmy &amp; 上看到的最优惠价格Tommy 的 Aloha Edition 套装，包含《动物之森：新地平线》的数字版。
-
-Nintendo Switch Lite 可以玩许多与标准 Switch 和 升级版 OLED 型号，具有类似的电池寿命和性能。但是，它无法连接到电视或播放需要可拆卸 Joy-Con 控制器的游戏。这款无支架手持设备尺寸为 5.5 英寸，比其混合兄弟产品更轻更小，如果您想在旅行时娱乐自己，它将是更好的选择。显示屏的分辨率与标准型号相同，但考虑到尺寸减小，它看起来更清晰；由于包含合适的方向键，它还具有更好的控制功能。 
-
-值得一提的是，任天堂计划明年发布一款所谓的“Switch 2”。 Switch Lite 现在已经很旧了，不过如果你想玩在最近的 Nintendo Direct 大会上宣布的任何即将推出的游戏，它仍然值得一买——包括《塞尔达传说：智慧的回声》和《马里奥与精灵》。 Luigi：兄弟会，两款游戏都将于秋季上市。
-
-阅读我们的 Nintendo Switch Lite 评论。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/10/24195708/walmart-nintendo-switch-lite-timmy-tommys-aloha-edition-animal-crossing-deal-sale</guid>
-      <pubDate>Wed, 10 Jul 2024 20:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
