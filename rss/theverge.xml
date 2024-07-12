@@ -4,7 +4,89 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:01:02 GMT</lastBuildDate>
+    <item>
+      <title>以人工智能为重点的《COPIED法案》将使删除数字水印成为非法行为</title>
+      <link>https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 |图片来自 Getty Images
+
+两党参议员提出了一项新法案，以便更轻松地验证和检测人工智能生成的内容，并保护记者和艺术家的作品不被人工智能模型未经许可吞噬。
+《内容来源保护和防止编辑和深度伪造媒体完整性法案》（已复制）法案）将指示美国国家标准与技术研究所 (NIST) 制定标准和指南，帮助证明内容来源并检测合成内容，例如通过水印。它还指示该机构制定安全措施以防止篡改，并要求用于创意或新闻内容的 AI 工具允许用户附加有关其来源的信息，并禁止删除这些信息。根据该法案，此类内容也不能用于训练 AI 模型。
+内容所有者，包括广播公司、艺术家和报纸，可以起诉他们认为未经许可使用其材料或篡改认证标记的公司。州检察长和联邦贸易委员会也可以执行该法案，该法案的支持者表示，该法案禁止任何人“删除、禁用或篡改内容来源信息”，但某些安全研究目的除外。
+
+这是参议院开始了解和监管人工智能技术的最新一轮法案。参议院多数党领袖查克·舒默 (D-NY) 领导了一项为参议院制定人工智能路线图的努力，但他明确表示，新法律将由各个委员会制定。 《COPIED法案》的优势在于，它拥有一个强大的委员会领导人作为提案人，即参议院商务委员会主席玛丽亚·坎特韦尔（Maria Cantwell，华盛顿州民主党）。参议院人工智能工作组成员马丁·海因里希（Martin Heinrich，新墨西哥州民主党）和商务委员会成员玛莎·布莱克本（Marsha Blackburn，田纳西州共和党）也领导着该法案。
+包括美国演员工会和电视和广播艺人联合会、美国唱片业协会、新闻/媒体联盟和艺术家权利联盟等在内的多家出版和艺术家团体发表声明，对该法案的出台表示赞赏。
+“人工智能能够以惊人的准确度为表演者制作数字形象，这对我们成员的经济和声誉福祉以及自决权构成了现实威胁，”美国演员工会和电视和广播艺人联合会全国执行董事兼首席谈判代表邓肯·克拉布特里-爱尔兰在一份声明中表示。 “我们需要一个完全透明和负责任的人工智能及其创造内容的供应链，以保护每个人控制其面部、声音和角色使用的基本权利。”
+
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists</guid>
+      <pubDate>Thu, 11 Jul 2024 22:58:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 将如何确定其 AI 系统有多强大</title>
+      <link>https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+OpenAI 已经创建了一个内部量表，以跟踪其大型语言模型在人工智能（具有类似人类智能的人工智能）方面取得的进展，发言人 告诉彭博社。
+如今的聊天机器人，比如 ChatGPT，都处于第 1 级。OpenAI 声称它已经接近第 2 级，第 2 级定义为能够以博士学位水平解决基本问题的系统。第 3 级是指能够代表用户采取行动的人工智能代理。第 4 级涉及能够创造新创新的人工智能。第 5 级是实现 AGI 的最后一步，是能够执行整个组织工作的人工智能。OpenAI 之前将 AGI 定义为“一个高度自主的系统，在大多数具有经济价值的任务上超越人类。” 
+OpenAI 的独特结构围绕着实现 AGI 的使命，而 OpenAI 如何定义 AGI 非常重要。该公司表示，“如果一个价值观一致、注重安全的项目在 OpenAI 之前接近构建 AGI”，它承诺不会与该项目竞争，并放弃一切来协助。OpenAI 的章程对此的措辞含糊不清，为营利性实体（由非营利组织管理）留下了判断的空间，但 OpenAI 可以测试自己和竞争对手的规模可以帮助更清楚地决定何时实现 AGI。
+不过，AGI 仍然遥不可及：如果能实现 AGI，将需要价值数十亿美元的计算能力。专家甚至 OpenAI 的时间表都大相径庭。 2023 年 10 月，OpenAI 首席执行官 Sam Altman 表示我们“还有五年左右的时间”才能达到 AGI。
+这个新的评分标准虽然仍在开发中，但在 OpenAI 宣布与洛斯阿拉莫斯国家实验室合作的第二天就推出了，该合作旨在探索 GPT-4o 等先进 AI 模型如何安全地协助生物科学研究。洛斯阿拉莫斯的一位项目经理负责国家安全生物学项目，并在确保与 OpenAI 的合作中发挥了重要作用，他告诉 The Verge，目标是测试 GPT-4o 的能力，并为美国政府建立一套安全和其他因素。最终，可以根据这些因素测试公共或私人模型，以评估他们自己的模型。
+5 月，OpenAI 解散了其安全团队，此前该团队的负责人、OpenAI 联合创始人 Ilya Sutskever 离开了公司。 OpenAI 的主要研究员 Jan Leike 在一篇帖子中声称“公司安全文化和流程已经退居次要地位，而闪亮的产品则占据了次要地位”，随后不久辞职。尽管 OpenAI 否认了这一说法，但有些人担心，如果公司真的实现了 AGI，这意味着什么。
+
+OpenAI 尚未提供有关如何将模型分配到这些内部级别的详细信息（并拒绝了 The Verge 的置评请求）。然而，据彭博社报道，公司领导人在周四的全体会议上展示了一个使用 GPT-4 AI 模型的研究项目，并相信该项目展示了一些表现出类似人类推理能力的新技能。 
+这个量表有助于对进步做出严格的定义，而不是任人解释。例如，OpenAI 首席技术官 Mira Murati 在 6 月份的一次采访中表示，其实验室中的模型并不比公众已有的模型好多少。与此同时，首席执行官 Sam Altman 在去年年底表示，该公司最近“揭开了无知之幕”，这意味着这些模型的智能程度显著提高。]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are</guid>
+      <pubDate>Thu, 11 Jul 2024 22:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>《过山车之星》续集让你可以建造自己的水上乐园</title>
+      <link>https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides</link>
+      <description><![CDATA[
+
+图片：Frontier Developments
+
+过山车之星的续集不再只是建造最好的主题公园：它还涉及水上乐园。续集将于今年秋季推出，最终将让您建造一切，从波浪池和漂流河到定制水滑梯。
+您还可以为自己的水上体验配备更衣室、日光浴床、救生员等。Planet Coaster 2 在其前身的基础上增加了新的建筑和路径工具，以及可以为您的客人带来新体验的高级事件序列系统。还有新的游乐设施、风景和主题。
+Planet Coaster 2 的另一个巧妙功能是能够与朋友一起创建共享主题公园 - 但您不能同时在公园里建造。 开发人员表示，您可以“一次跳一个”进入共享公园，然后“保存您的进度，以便其他寻求刺激的人能够根据您的变化继续前进”，这有点令人失望。
+
+
+图片：Frontier Developments
+
+与前作一样，Planet Coaster 2 将提供三种游戏模式：职业、沙盒和挑战模式。它还将在今年晚些时候在 PC、Xbox Series X | S 和 PlayStation 5 上推出。
+如果您还没有尝试过 Frontier Developments 的 Planet Coaster、Planet Zoo 甚至 Jurassic World Evolution 2，我强烈推荐它们。您可能无法逃脱在过山车（或动物园）大亨中可以做的一些事情，但它们同样容易迷失。]]></description>
+      <guid>https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides</guid>
+      <pubDate>Thu, 11 Jul 2024 21:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最值得购买的电子书阅读器</title>
+      <link>https://www.theverge.com/23769068/best-ebook-readers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23769068/best-ebook-readers</guid>
+      <pubDate>Thu, 11 Jul 2024 21:52:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Pixel 9：迄今为止的所有泄漏和谣言</title>
+      <link>https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera</link>
+      <description><![CDATA[
+
+泄露的 Pixel 9、9 Pro 和 9 Pro XL。 |图片：Rozetked
+
+Pixel 再次被泄露，这一次，看起来更大的 Pixel 9 Pro ‘XL’ 即将在 8 月推出，而且很快就会推出。 我们可能 永远不知道为什么谷歌不能在发布之前保密其 Pixel 手机，但 2024 年我们又有了新的泄露。他们早在 1 月份就发布了新的 Pixel 9，据说将有三种尺寸。然后，在2 月，我们得到了 Pixel Fold 2，它可能被称为 Pixel 9 Pro Fold。
+官方消息是 谷歌将于 8 月 13 日举办“Made by Google” Pixel 活动。这个时机表明，谷歌可能会比通常的 10 月发布时间提前推出新的 Pixel 9 和 9 Pro 系列 ，这可能会让它在预计 9 月发布的 iPhone 16 之前占据领先地位。然而，这意味着目前旗舰 Pixel 8 系列的曝光时间将会缩短——感觉就像刚刚评测过一样！
+谷歌似乎正在为更大的 Pixel 9 Pro 重新使用“XL”绰号，这是它在 2020 年推出 Pixel 5 时放弃的。从泄露的图片来看，Pixel 9 Pro 和 9 Pro XL 将具有相同的摄像头系统，因此与前几年不同，那些喜欢更容易握持的设备的人不必选择相机较差的非 Pro Pixel。
+根据 Dealabs 和 Android Authority 的报道，所有新硬件的价格也可能会略有上涨。
+向下滚动查看所有传言，包括未来的平板电脑，不可避免的Pixel 9A 和手表。]]></description>
+      <guid>https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera</guid>
+      <pubDate>Thu, 11 Jul 2024 21:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>苹果 AirPods Max 售价首次跌破 400 美元</title>
       <link>https://www.theverge.com/2024/7/11/24196451/apple-airpods-max-noise-canceling-headphones-deal-sale</link>
@@ -92,84 +174,6 @@ Arduino 即插即用套件包含有关如何使用每个组件的教程，以及
 即插即用套件还兼容 Arduino 生态系统中的所有硬件和软件，包括允许用户分享项目创意的 Arduino Cloud 平台。完成这七个项目后，他们就可以找到下一个创作的灵感。]]></description>
       <guid>https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational</guid>
       <pubDate>Thu, 11 Jul 2024 17:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>《大西洋月刊》为何与 OpenAI 签署协议</title>
-      <link>https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts</guid>
-      <pubDate>Thu, 11 Jul 2024 17:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，特斯拉将其自动驾驶出租车的发布时间推迟至 10 月</title>
-      <link>https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-特斯拉直到 10 月才会公布其长期承诺的全自动机器人出租车，以便让公司的工程团队有更多时间建造和测试原型，彭博社报道。 
-该活动原定于 8 月 8 日举行，特斯拉首席执行官埃隆·马斯克在今年早些时候宣布了这一消息，当时外界质疑该公司对更实惠的电动汽车的承诺。 
-彭博社称，特斯拉内部已将推迟的消息传达给员工，但尚未公开宣布。马斯克尚未发布有关 X 延迟的任何信息。 
-8 月就到此为止
-在今年早些时候的一次财报电话会议上，马斯克重申了他的信念，即特斯拉不是一家传统的汽车公司，而是一家人工智能和机器人公司。面对投资者关于平价电动汽车的尖锐问题，马斯克回答说：“真的，我们应该被视为一家人工智能机器人公司。如果你把特斯拉仅仅看作一家汽车公司……那就错了。” 
-马斯克一直在暗示特斯拉推出自动驾驶出租车的可能性。他推测特斯拉车主可以通过派出自己的自动驾驶汽车接送乘客来赚取收入。该公司甚至预览了特斯拉应用程序中内置的叫车功能。 
-但马斯克关于全自动驾驶汽车的许多预测未能实现。如今，特斯拉的自动驾驶仪和全自动驾驶系统要求驾驶员注意路况，并随时准备在需要时接管控制。驾驶员还要对驾驶辅助启动时发生的任何碰撞负责——该公司正在应对多起因致命事故而引发的非正常死亡诉讼。 
-与此同时，Waymo 和其他几家公司目前正在美国几个城市运营全自动机器人出租车。 
-在收益报告中，特斯拉表示机器人出租车将是“专用的”，这是自动驾驶汽车行业的一个术语，用来描述从头开始打造的自动驾驶汽车，这些汽车通常缺乏方向盘和踏板等传统控制装置。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october</guid>
-      <pubDate>Thu, 11 Jul 2024 16:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们最喜欢的一款扫地机器人在 Prime Day 前夕销量跌至历史最低点</title>
-      <link>https://www.theverge.com/2024/7/11/24195814/irobot-roomba-j7-plus-apple-earpods-usb-c-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24195814/irobot-roomba-j7-plus-apple-earpods-usb-c-deal-sale</guid>
-      <pubDate>Thu, 11 Jul 2024 16:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Shorts 添加了 TikTok 风格的人工画外音</title>
-      <link>https://www.theverge.com/2024/7/11/24195934/youtube-shorts-new-features-voiceover-auto-captions</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-YouTube 宣布了YouTube Shorts 的一系列新功能，其中一些功能现已推出，例如新的文本转语音视频旁白，可让您添加人工画外音。在 TikTok 上，这些是有时令人吃惊的机器人声音，您在宣传视频中经常听到。
-事实上，添加它们的过程与 TikTok 的过程非常相似：创建一些文本后，您将点击 Shorts 中位于屏幕左上角的新“添加语音”图标，然后选择您想要的声音。YouTube 目前只提供四种声音可供选择，而 TikTok 有……更多。
-
-
-图片：YouTube
-看看 YouTube Shorts 的新字幕工具。
-
-YouTube 表示，它还推出了自动生成的字幕，您可以将其添加到视频中，而无需切换到 CapCut 等其他应用。与现有的 YouTube Shorts 手动文本叠加功能一样，您可以使用所选的字体和颜色更改字幕的样式。
-
-
-GIF：YouTube
-
-该公司还添加了一组新的Minecraft效果——绿屏游戏主题背景和一个名为 Minecraft Rush 的迷你游戏。
-这些新功能是视频平台相互弯曲的整体趋势的一部分，就像室内植物争夺同一束阳光一样。 YouTube 经常会模仿 TikTok 的功能，比如常规 Shorts 动态中的实时视频预览。而 TikTok 则不断延长视频的长度。就 YouTube 而言，将 Shorts TikTok 化的努力似乎取得了成效，无论是对 YouTube 还是其创作者而言（或者说无论如何，四分之一的人）。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24195934/youtube-shorts-new-features-voiceover-auto-captions</guid>
-      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verizon 的 Total Wireless 预付费品牌现提供五年价格保证</title>
-      <link>https://www.theverge.com/2024/7/11/24196382/verizon-total-wireless-prepaid-five-year-price-lock</link>
-      <description><![CDATA[
-
-新的圆形Total Wireless徽标。 |图片：Total Wireless
-
-Total Wireless 是 Verizon 旗下的一个预付费品牌，现在提供五年价格锁定无限数据计划。该公司正在推出一项新协议，其徽标和客户促销活动宣传“每月不到 30 美元”，但您需要四条线路才能实现每条线路的价格。
-对于 Total 上的一条线路，您将每月支付 50 美元即可获得无限数据，包括访问 Verizon 的 5G UWB 网络，而且该公司承诺“速度不会通过网络管理降低”。价格包含税费。
-
-
-图片：Total Wireless
-Total Wireless 将其功能与 Metro 和 Cricket 进行比较。
-
-相比之下，另一个 Verizon 预付费品牌 Visible 在一定时间后从 5G 带宽降至 LTE使用“无限”数据。Total 和 Visible 只是 Verizon 旗下八个预付费品牌中的两个，其他品牌包括 Straight Talk、Tracfone、Simple Mobile、SafeLink、Walmart Family Mobile 和 Verizon Prepaid。
-要享受 Total Wireless 五年价格锁定优惠，您必须是新客户，并且在过去 90 天内未曾激活过该运营商的线路。请记住，价格锁定是针对基本月费，而不是自动付款广告中的价格，并且不包括您注册时获得的任何其他折扣。]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24196382/verizon-total-wireless-prepaid-five-year-price-lock</guid>
-      <pubDate>Thu, 11 Jul 2024 15:15:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

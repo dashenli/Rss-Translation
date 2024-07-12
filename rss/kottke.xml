@@ -4,7 +4,19 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:02:49 GMT</lastBuildDate>
+    <item>
+      <title>斧头的巧妙之处</title>
+      <link>https://kottke.org/24/07/the-cleverness-of-the-axe</link>
+      <description><![CDATA[
+前几天我偶然发现了樵夫与树系列寓言的一个版本，它与历史上的这一时刻特别相关：
+森林在缩小，但树木却一直投票支持斧头；因为斧头很聪明，他让树木相信，由于他的手柄是木头做的，所以他就是树木中的一员。
+或者也许它总是引起共鸣，因为它的一些变体已经流传了数千年。
+上面三联画中的插图由费迪南德·霍德勒绘制。
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/07/the-cleverness-of-the-axe</guid>
+      <pubDate>Thu, 11 Jul 2024 23:42:28 GMT</pubDate>
+    </item>
     <item>
       <title>区域代码也是 HTTP 响应标头。例如，404（不...</title>
       <link>https://kottke.org/24/07/0044943-area-codes-that-are-also</link>
@@ -159,15 +171,6 @@ Vox 也有一篇关于《头脑特工队 2》情绪科学的非常有趣的文�
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/07/0044931-the-international-astrono</guid>
       <pubDate>Wed, 10 Jul 2024 14:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果龙是真实存在的，那么喷火是如何发生的？“龙可以画...</title>
-      <link>https://kottke.org/24/07/0044908-if-dragons-were-real-how</link>
-      <description><![CDATA[如果龙是真实存在的，那么喷火会如何进行？ “龙可以利用放屁虫使用的某些化学物质。这种昆虫已经进化出适合储存过氧化氢的储存器”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/07/0044908-if-dragons-were-real-how</guid>
-      <pubDate>Tue, 09 Jul 2024 21:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

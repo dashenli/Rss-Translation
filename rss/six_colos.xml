@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 11 Jul 2024 15:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:02:02 GMT</lastBuildDate>
+    <item>
+      <title>（播客）下游 73：必看电视节目</title>
+      <link>https://sixcolors.com/podcast/2024/07/downstream-73-must-stream-tv/</link>
+      <description><![CDATA[Vulture 的 Josef Adalian 回来讨论出售派拉蒙的影响，以及该公司下一步可能的发展方向。我们还再次考虑了那个经典的流媒体问题——狂看还是不狂看？…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/downstream-73-must-stream-tv/</guid>
+      <pubDate>Thu, 11 Jul 2024 23:55:44 GMT</pubDate>
+    </item>
     <item>
       <title>苹果将​​在欧盟启用第三方 NFC 支付 ↦</title>
       <link>https://sixcolors.com/link/2024/07/apple-to-enable-third-party-nfc-payments-in-the-eu/</link>
@@ -72,7 +79,7 @@
     <item>
       <title>（播客）升级 520：残酷的夏天</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</link>
-      <description><![CDATA[关于苹果与 Epic 和欧盟之争的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
+      <description><![CDATA[关于苹果与 Epic 和欧盟的争斗的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</guid>
       <pubDate>Mon, 08 Jul 2024 21:04:06 GMT</pubDate>
     </item>
@@ -113,13 +120,6 @@
 互联网作为一种文化机构所面临的危险是真实存在的，而且其发展速度与人工智能技术本身一样快。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/macstories-calls-for-restraints-on-ai-training/</guid>
       <pubDate>Tue, 02 Jul 2024 19:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 519：智能三位一体</title>
-      <link>https://sixcolors.com/podcast/2024/07/upgrade-519-the-intelligent-trinity/</link>
-      <description><![CDATA[在收到一些有关 Vision Pro 未来的反馈后，我们讨论了苹果在欧盟的冒险经历、Siri 不可避免的分裂，以及一个令人好奇的新 AirPods 传闻。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/upgrade-519-the-intelligent-trinity/</guid>
-      <pubDate>Mon, 01 Jul 2024 21:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
