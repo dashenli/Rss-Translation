@@ -4,7 +4,14 @@
     <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 15:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:21:19 GMT</lastBuildDate>
+    <item>
+      <title>如何在 InDesign 中使用标签</title>
+      <link>https://design.tutsplus.com/tutorials/quick-tip-indesign-working-with-tabs--vector-4612</link>
+      <description><![CDATA[]]></description>
+      <guid>https://design.tutsplus.com/tutorials/quick-tip-indesign-working-with-tabs--vector-4612</guid>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 Affinity Designer 中创建画板</title>
       <link>https://design.tutsplus.com/tutorials/how-to-create-an-artboard-in-affinity-designer--cms-108772</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-draw-an-arrow-in-photoshop--cms-41071</guid>
       <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Vanilla JavaScript 创建 Chrome 扩展程序</title>
-      <link>https://webdesign.tutsplus.com/how-to-create-a-chrome-extension-with-vanilla-javascript--cms-108762t</link>
-      <description><![CDATA[]]></description>
-      <guid>https://webdesign.tutsplus.com/how-to-create-a-chrome-extension-with-vanilla-javascript--cms-108762t</guid>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
