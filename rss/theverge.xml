@@ -4,7 +4,23 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 01:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:20:03 GMT</lastBuildDate>
+    <item>
+      <title>任天堂塞尔达主题“海拉鲁版” Switch Lite 终于开放预购</title>
+      <link>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</link>
+      <description><![CDATA[
+
+为了获得这样的遗物，你会与加农多夫对峙十次吗？ |图片：任天堂
+
+“Hyrule Edition” Nintendo Switch Lite 的预购刚刚开始，这款产品是为了纪念即将推出的塞尔达传说：智慧的回声。 Best Buy 目前正在接受限量版游戏机的订单，售价为 209.99 美元，将于 9 月 26 日发布。您仍需单独购买《智慧回声》，但特别版游戏机确实包含 12 个月的 Nintendo Switch Online + 扩展包个人订阅（价值 49.99 美元）。
+
+
+游戏机采用金色色调搭配黑色装饰——这是符合海利亚皇室的标志性组合。贵族家族的标志性徽章装饰在背面，而正面的右下角则印有一个较小的三角力量符号。这款游戏与其他 Switch Lite 游戏并无太大区别，但考虑到《智慧回声》是第一款真正以塞尔达公主为主角的《塞尔达传说》游戏，即使你已经拥有任天堂的专用掌上游戏机，这款游戏也可能会吸引你购买它。
+与此同时，任天堂的高级订阅套餐提供在线游戏、基于云的保存，以及玩 Game Boy、Game Boy Advance、NES、SNES、N64 甚至世嘉 Genesis 时代的经典游戏的能力。其中包括备受赞誉的《塞尔达传说》系列游戏，如《塞尔达传说：时之笛》、《塞尔达传说：梅祖拉的假面》和《塞尔达传说：众神的三角力量》。毋庸置疑，每当您怀旧时，这都是重温该系列根源的绝佳方式。
+]]></description>
+      <guid>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</guid>
+      <pubDate>Fri, 12 Jul 2024 03:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>以人工智能为重点的《COPIED法案》将使删除数字水印成为非法行为</title>
       <link>https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists</link>
@@ -153,27 +169,6 @@ Arm 的技术基于 AMD 的 FidelityFX Super Resolution 2 (FSR 2)，它使用时
 这并不意味着 Max 会因为新素材而受到伤害，但 WBD 似乎可以通过坚持已经奏效的做法来节省大量时间和金钱。]]></description>
       <guid>https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy</guid>
       <pubDate>Thu, 11 Jul 2024 18:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你不会搞砸 Arduino 的新 DIY 电子套件</title>
-      <link>https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational</link>
-      <description><![CDATA[
-
-使用 Plug and Make Kit 套件可以构建七种不同的基于 Arduino 的设备。 |图片：Arduino
-
-Arduino 的新入门套件包含电子元件，无需了解任何焊接或接线知识即可连接。它类似于 LittleBits 的电子积木，让孩子们可以轻松学习电子产品，但目标受众是年龄较大的初学者，他们最终渴望使用 Arduino 做更多事情。
-售价 87.36 美元的 Arduino 即插即用套件 配备了一个 Arduino UNO R4 WiFi 微型计算机，具有蓝牙功能和自己的内置 12 x 8 LED 矩阵显示屏，以及七个不同的 Modulino 组件，这些组件都可以使用卡入单向连接器端口的电缆进行连接，确保不会出现任何错误接线。
-
-
-图片：Arduino
-该套件包括一个 Arduino 微型计算机和七个不同的电子元件，每个元件都提供不同的功能。
-
-捆绑的 Modulinos 包括一个可调节旋钮、一排可调光 LED、一个运动传感器、一个飞行时间距离传感器、一个蜂鸣器、一个温度计和湿度传感器以及一组三个按钮。为了保持井然有序，所有组件（包括 Arduino）都可以使用随附的螺钉固定到底板上。
-Arduino 即插即用套件包含有关如何使用每个组件的教程，以及如何组装它们以构建七种设备的分步说明，例如视频游戏控制器、合成器、非触摸式灯和电子沙漏计时器。
-
-即插即用套件还兼容 Arduino 生态系统中的所有硬件和软件，包括允许用户分享项目创意的 Arduino Cloud 平台。完成这七个项目后，他们就可以找到下一个创作的灵感。]]></description>
-      <guid>https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational</guid>
-      <pubDate>Thu, 11 Jul 2024 17:47:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
