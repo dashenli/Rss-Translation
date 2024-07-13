@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sat, 13 Jul 2024 03:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 06:18:18 GMT</lastBuildDate>
+    <item>
+      <title>拜登试图重振竞选活动，猛烈抨击特朗普和媒体</title>
+      <link>https://www.npr.org/2024/07/12/nx-s1-5038111/biden-trump-press-detroit-speech</link>
+      <description><![CDATA[在底特律，拜登总统制定了第二任期前 100 天的计划，严厉抨击他的对手，并指责媒体报道他的失误。]]></description>
+      <guid>https://www.npr.org/2024/07/12/nx-s1-5038111/biden-trump-press-detroit-speech</guid>
+      <pubDate>Sat, 13 Jul 2024 03:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟因蓝色检查和广告将伊隆马斯克的 X 告上法庭</title>
       <link>https://www.npr.org/2024/07/12/g-s1-9944/eu-takes-elon-musks-x-to-court-over-blue-checks-and-ads</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这些星系的奇特名称掩盖了它们的实际年龄：就企鹅星系和蛋星系而言，蛋星系先出现。]]></description>
       <guid>https://www.npr.org/2024/07/12/g-s1-9941/webb-telescope-penguin-egg-galaxies</guid>
       <pubDate>Fri, 12 Jul 2024 21:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何像国会一样进行投资</title>
-      <link>https://www.npr.org/2024/07/12/nx-s1-5035506/how-to-invest-like-congress</link>
-      <description><![CDATA[交易员们正在利用公开数据来追踪哪些议员报告了股市大幅上涨。我们试图模仿他们。]]></description>
-      <guid>https://www.npr.org/2024/07/12/nx-s1-5035506/how-to-invest-like-congress</guid>
-      <pubDate>Fri, 12 Jul 2024 21:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
