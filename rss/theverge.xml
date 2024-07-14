@@ -4,7 +4,40 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Jul 2024 01:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 03:17:29 GMT</lastBuildDate>
+    <item>
+      <title>在最初拒绝之后，苹果已批准了 iOS 的第一个 PC 模拟器</title>
+      <link>https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios</link>
+      <description><![CDATA[
+
+来自 App Store 列表的 UTM SE 图片。 |截图：UTM SE
+
+苹果批准了 UTM SE，这是一款用于模拟计算机运行经典软件和游戏的应用程序。几周前，该公司拒绝并禁止其在欧盟的第三方应用商店中上架。该应用程序现在可免费使用，适用于 iOS、iPadOS 和 visionOS。
+在 Apple 6 月份拒绝该应用程序后，开发人员表示不会继续尝试，因为该应用程序“体验不佳”。今天，UTM 感谢 AltStore 团队的帮助，并赞扬了另一位开发人员“其 QEMU TCTI 实现对于此无 JIT 构建至关重要。”
+
+
+屏幕截图：UTM SE
+UTM SE 不包含任何虚拟机，但可以帮助您找到它们。
+
+与其他模拟器一样App Store，开箱即用的 UTM SE 功能并不多。它不附带任何操作系统，但该应用确实链接到 UTM 的网站，该网站提供了从 Windows XP 到 Windows 11 模拟的指南，以及预构建的虚拟 Linux 机器的下载。 UTM SE App Store 页面的一张屏幕截图中列出了 Mac OS 9.2.1 和 DOS。
+以下是 UTM SE 的 App Store 描述：
+
+UTM SE 是一款 PC 模拟器，可让您运行经典软件和老式游戏。
+* 支持图形的 VGA 模式和纯文本操作系统的终端模式
+* 模拟 x86、PPC 和 RISC-V 架构
+* 运行预构建的机器或从头开始创建自己的配置
+* 基于功能强大且广泛使用的模拟器 QEMU 构建
+
+
+
+我们很高兴地宣布，UTM SE 已在 iOS 和 visionOS App Store 上免费提供（即将在 AltStore PAL 上推出）！感谢 AltStore 团队的帮助，感谢 Apple 重新考虑他们的政策。https://t.co/HAV5JnT5GO— UTM (@UTMapp) 2024 年 7 月 13 日
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios</guid>
+      <pubDate>Sun, 14 Jul 2024 01:24:57 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克支持特朗普，X 上枪击阴谋论盛行</title>
       <link>https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending</link>
@@ -12,13 +45,13 @@
 
 插图：The Verge
 
-今天下午新闻爆出后不久，有关特朗普集会枪击案的阴谋论开始在 X 上浮现，该平台向用户宣传包括“#falseflag”和“staged”等话题。 X 老板埃隆·马斯克坚定地提倡社交媒体平台上的“言论自由”——其中可能包括上述错误信息。
+今天下午新闻爆出后不久，有关唐纳德·特朗普集会枪击事件的阴谋论开始在 X 上浮现，该平台向用户宣传包括“#falseflag”和“staged”等话题。 X 老板埃隆·马斯克坚定地提倡社交媒体平台上的“言论自由”——其中可能包括上述错误信息。
 枪击事件发生后，马斯克发帖表示，他将“全力支持”前总统。彭博社昨天报道，马斯克向支持特朗普的超级政治行动委员会捐款，为连任努力提供了“相当可观的金额”。近年来，马斯克的观点越来越保守，宣扬“大替代”阴谋论，支持白人自豪感。他的支持增加了硅谷日益强大的声音，为他的竞选活动做宣传。
 其他主要平台似乎在很大程度上避免宣传错误信息
 在 X 上，关于枪击事件的热门话题都没有特别有力或连贯的阴谋论；点击浏览，你会发现很多 X 用户的短帖，说枪击事件看起来是假的或是一种噱头。 （两者都没有证据。）但通过将主题放入 X 的热门话题区域，阴谋论就被更多人关注了。
 在枪击事件发生后，其他主要社交媒体平台似乎处理得更好。YouTube 发布了新闻片段，并将搜索结果主要指向新闻报道和经过验证的创作者。Facebook 的搜索结果主要指向新闻媒体；该平台在 2018 年删除了其热门话题部分，原因是对其策划的不断抱怨。帖子偶尔会在事件的热门话题上显示与阴谋相关的帖子，但它们似乎并没有持续出现。
 X 没有回复置评请求。给其新闻团队发送的电子邮件自动回复说：“现在很忙，请稍后再查看。”
-不过，该公司似乎正在接受其作为讨论中心的角色——无论准确与否。即使阴谋论主题继续流行，X 的官方账户发布了一条简短的消息，今天晚上只说了一句“全球城镇广场”。]]></description>
+不过，该公司似乎正在接受其作为讨论中心的角色——无论是否准确。即使阴谋论主题继续流行，X 的官方账户发布了一条简短的消息，今天晚上只说了一句“全球城镇广场”。]]></description>
       <guid>https://www.theverge.com/2024/7/13/24198049/trump-x-shooting-conspiracy-theories-trending</guid>
       <pubDate>Sun, 14 Jul 2024 00:55:17 GMT</pubDate>
     </item>
@@ -43,8 +76,8 @@ X 没有回复置评请求。给其新闻团队发送的电子邮件自动回复
 
 图片：HBO
 
-在 Julio Torres 的系列作品《Fantasmas》中，未来的生存是一场错综复杂、由公司控制的游戏，玩家需要将自己的身份输入机器。 《Fantasmas》的前卫怪异和实用艺术——Max 的新系列作品，由《Problemista 作家创作/ 导演 Julio Torres — 让它看起来比大多数其他关于生活在充满机器人的近未来的电视节目更加异想天开和轻松。但除了讲述一位被误解的艺术家试图在一个对创造力充满敌意的世界中生存的故事之外，Fantasmas的第一季还是今年对我们通常称之为“（过于）在线”的痛苦体验最精彩的审视之一。
-Fantasmas首次介绍了多学科艺术家 Julio (Torres)，租金早已逾期，在收到房东多封威胁信后，他发现自己迫切需要一份存在证明身份证才能保住他的公寓。在《Fantasmas》对纽约市的强化演绎中，如果你能提供社会安全号码、信用评分，或者证明自己是像碧昂丝一样的杰出人士，那么获得一个人的存在证明就很容易了。
+在 Julio Torres 的系列作品《Fantasmas》中，未来的生存是一场错综复杂、由公司控制的游戏，玩家需要将自己的身份输入机器。 《Fantasmas》的前卫怪异和实用艺术——Max 的新系列作品，由《Problemista 作家创作/ 导演 Julio Torres — 让这部剧看起来比大多数其他关于生活在机器人充斥的近未来的电视剧更加异想天开和轻松愉快。但除了讲述一位被误解的艺术家试图在一个对创造力充满敌意的世界中生存的故事之外，Fantasmas的第一季还是今年对我们通常称之为“（过于）在线”的痛苦体验最精彩的审视之一。
+Fantasmas首次介绍了多学科艺术家 Julio (Torres)，租金早已逾期，在收到房东多封威胁信后，他发现自己迫切需要一份存在证明身份证才能保住自己的公寓。在《Fantasmas》对纽约市的强化演绎中，如果你能提供社会安全号码、信用评分，或者证明自己是像碧昂丝一样的杰出人士，那么获得一个人的存在证明就很容易了。
 但除了胡里奥的经纪人瓦内斯贾（马丁内·古铁雷斯饰）——“J”不发音——很少有人能欣赏他设计透明蜡笔和与水体交流（蒂尔达·斯文顿饰）等物品的天赋。虽然身份证对于自由生活和找工作来说是必不可少的，但必须证明自己存在的想法对胡里奥来说是如此令人难以置信，以至于他坚持原则上不带身份证。
 
 因为胡里奥的机器人助手 Bibo (Joe Rumrill) 并没有试图杀死他，而他对公寓的需求变成了《幻想曲》讲述了寻找一只丢失的牡蛎形耳环的故事，它看起来和感觉起来都不像最近其他关于反乌托邦未来的故事。但该剧关于 Zappos 成为电影制片厂和埃克森美孚进入多户房地产业务的笑话都强调了人们的生活已经陷入了企业拥有的系统的程度，而像“存在证明”这样的技术也为这些系统提供了支持。
@@ -100,23 +133,6 @@ Meta 周五表示，前总统唐纳德·特朗普将不再因其 Facebook 和 In
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi</guid>
       <pubDate>Fri, 12 Jul 2024 20:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在你的 iPhone 可以拥有 Notes 应用和记事本</title>
-      <link>https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory</link>
-      <description><![CDATA[
-
-iPhone 的另一侧有一个 Notes 应用。 |图片：Moft
-
-Moft 即将推出一款新的 MagSafe 配件，可在 iPhone 背面添加一个真正的记事本和笔。该公司的新款“Snap Flow”看起来像一个纤薄的磁性折纸支架（就像 Moft 所著称的那个），但打开后就像一本书一样，里面是一张纸垫和一支非常漂亮的圆珠笔，可以神奇地折叠成棱柱形。
-很难相信在 2024 年会有这样一款产品，让你在使用革命性的袖珍计算设备作为剪贴板的同时手写笔记。有时，手机和其他应用程序会阻碍我在 Notes 应用程序中写下故事想法，以免它永远消失，所以用传统的方式记下想法可能会很好。
-
-
-Snap Flow 有可再填充的记事本纸、一个夹子，这样你就可以用一张纸作为待办事项列表，还有一个“文件夹”部分，你可以在其中放置想要保存以备后用的笔记。您可以使用 Snap Flow 的支架功能将 iPhone 或纸垫放在桌子上，以便轻松浏览笔记。
-Moft 已经 在 Kickstarter 上为 Snap Flow 筹集了超过 100,000 美元的资金，轻松超过了其 10,000 美元的目标。如果您想支持这款配件，Moft 在 Kickstarter 中收取 39 美元，比最终零售价 49 美元低 20%。该公司计划在 9 月发货 Kickstarter 订单。
-就我个人而言，我会继续使用 Notes 应用程序。但如果 Moft 真的制作了 Snap Flow 的便签版本，我可能会感兴趣。]]></description>
-      <guid>https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory</guid>
-      <pubDate>Fri, 12 Jul 2024 20:28:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
