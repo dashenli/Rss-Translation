@@ -4,9 +4,33 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Jul 2024 15:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 21:13:01 GMT</lastBuildDate>
     <item>
-      <title>人工智能记忆机器内部</title>
+      <title>关于第 13 代、第 14 代英特尔 CPU 崩溃的投诉现在有数据支持</title>
+      <link>https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe</link>
+      <description><![CDATA[
+
+照片由 Tom Warren / The Verge 拍摄
+
+Alderon Games 是恐龙 MMOPath of Titans 的开发商，该公司表示正在将其英特尔为 AMD 提供第 13 代和第 14 代服务器，并敦促其他托管游戏服务器的服务器也这样做。Alderon 创始人 Matthew Cassells 在上周的一篇博客文章中写道，开发商遇到了“严重”的不稳定问题，到目前为止，任何修复都无法扭转这一问题。
+Cassells 写道，Alderon 使用其崩溃报告工具记录了游戏玩家 CPU 上的“数千次崩溃”，并表示处理器也会损坏 SSD 和内存。他补充说，根据他的团队的经验，100% 受影响的 CPU“会随着时间的推移而恶化，最终失效”。相反，卡塞尔斯在博客中引用的虚幻引擎解压工具制造商 RAD Game Tools 表示“只有一小部分”处理器受到影响。
+
+有消息称，英特尔的 i9-13900K 和 i9-14900K CPU 正在破坏存储和内存，并导致使用它们的服务器崩溃，这是该事件的新转折，该公司于 4 月份开始调查使用该芯片的家用电脑上游戏崩溃的情况。超频设置不当的主板曾被英特尔列为罪魁祸首，但正如 Level1Techs 在上面的视频中指出的那样，这并没有考虑到服务器硬件上出现的崩溃，服务器硬件应该设置得更保守一些。
+
+
+图片：[DE]Glen / Warframe 论坛
+
+英特尔的芯片占据了 Warframe 开发人员的崩溃图表的大部分内容。
+
+
+本周早些时候，一位 Warframe 开发人员在游戏论坛上写道，其记录的“几乎所有”崩溃都来自第 13 代和第 14 代英特尔处理器的驱动程序故障。他确实指出，在安装了最近的 BIOS 更新后，一名员工的游戏机上出现的故障停止了，尽管英特尔在 6 月份表示，它解决的问题并不是不稳定的根本原因。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe</guid>
+      <pubDate>Sun, 14 Jul 2024 19:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI记忆机器内部</title>
       <link>https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast</link>
       <description><![CDATA[
 
@@ -17,9 +41,9 @@
 
 在本期The Vergecast中，我们采访了一位长期致力于解决这一问题的人：Limitless 的首席执行官 Dan Siroker。我们讨论了如何打造出色的记忆辅助工具，我们将来如何使用它们，以及为什么它如此难以做好。
 我们还讨论了这一切的人性方面——当我们不再忘记事情时，我们的生活会有什么变化？当记忆实际上是由 AI 模型完成时，记住朋友的生日会有什么不同吗？这些工具真的会在工作之外发挥作用吗？像 Limitless 这样的工具正在快速出现并快速改进，我们必须弄清楚如何与它们共存。
-如果您想了解有关我们在本集中讨论的所有内容的更多信息，以下是一些入门链接：
+如果您想了解有关我们在本集中讨论的所有内容的更多信息，以下是一些可帮助您入门的链接：
 
-来自纽约时报：无法在脑海中看到图像？你并不孤单。
+摘自纽约时报：无法在脑海中看到图像？你并不孤单。
 
 Limitless AI：一款用于记住会议的新型可穿戴设备和应用程序
 Recall 是微软解锁 PC 未来的钥匙
@@ -110,8 +134,8 @@ X 没有回复置评请求。给其新闻团队发送的电子邮件自动回复
 
 图片：HBO
 
-在 Julio Torres 的系列作品《Fantasmas》中，未来的生存是一场错综复杂、由公司控制的游戏，玩家需要将自己的身份输入机器。 《Fantasmas》的前卫怪异和实用艺术——Max 的新系列作品，由《Problemista 作家创作/ 导演 Julio Torres — 让它看起来比大多数其他关于生活在充满机器人的近未来的电视节目更加异想天开和轻松。但除了讲述一位被误解的艺术家试图在一个对创造力充满敌意的世界中生存的故事之外，Fantasmas的第一季还是今年对我们通常称之为“（过于）在线”的痛苦体验最精彩的审视之一。
-Fantasmas首次介绍了多学科艺术家 Julio (Torres)，租金早已逾期，在收到房东多封威胁信后，他发现自己迫切需要一份存在证明身份证才能保住他的公寓。在《Fantasmas》对纽约市的强化演绎中，如果你能提供社会安全号码、信用评分，或者证明自己是像碧昂丝一样的杰出人士，那么获得一个人的存在证明就很容易了。
+在 Julio Torres 的系列作品《Fantasmas》中，未来的生存是一场错综复杂、由公司控制的游戏，玩家需要将自己的身份输入机器。 《Fantasmas》的前卫怪异和实用艺术——Max 的新系列作品，由《Problemista 作家创作/ 导演 Julio Torres — 让这部剧看起来比大多数其他关于生活在机器人充斥的近未来的电视剧更加异想天开和轻松愉快。但除了讲述一位被误解的艺术家试图在一个对创造力充满敌意的世界中生存的故事之外，Fantasmas的第一季还是今年对我们通常称之为“（过于）在线”的痛苦体验最精彩的审视之一。
+Fantasmas首次介绍了多学科艺术家 Julio (Torres)，租金早已逾期，在收到房东多封威胁信后，他发现自己迫切需要一份存在证明身份证才能保住自己的公寓。在《Fantasmas》对纽约市的强化演绎中，如果你能提供社会安全号码、信用评分，或者证明自己是像碧昂丝一样的杰出人士，那么获得一个人的存在证明就很容易了。
 但除了胡里奥的经纪人瓦内斯贾（马丁内·古铁雷斯饰）——“J”不发音——很少有人能欣赏他设计透明蜡笔和与水体交流（蒂尔达·斯文顿饰）等物品的天赋。虽然身份证对于自由生活和找工作来说是必不可少的，但必须证明自己存在的想法对胡里奥来说是如此令人难以置信，以至于他坚持原则上不带身份证。
 
 因为胡里奥的机器人助手 Bibo (Joe Rumrill) 并没有试图杀死他，而他对公寓的需求变成了《幻想曲》讲述了寻找一只丢失的牡蛎形耳环的故事，它看起来和感觉起来都不像最近其他关于反乌托邦未来的故事。但该剧关于 Zappos 成为电影制片厂和埃克森美孚进入多户房地产业务的笑话都强调了人们的生活已经陷入了企业拥有的系统的程度，而像“存在证明”这样的技术也为这些系统提供了支持。
@@ -137,13 +161,6 @@ Fantasmas 第一季现在正在 Max 上播放。]]></description>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview</guid>
       <pubDate>Sat, 13 Jul 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Engwe P20 折叠电动自行车评测：1000 美元可买很多东西</title>
-      <link>https://www.theverge.com/24194819/engwe-p20-folding-e-bike-review-price-range-features</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24194819/engwe-p20-folding-e-bike-review-price-range-features</guid>
-      <pubDate>Sat, 13 Jul 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
