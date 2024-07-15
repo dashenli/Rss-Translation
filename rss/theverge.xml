@@ -4,7 +4,22 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Jul 2024 01:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 03:18:58 GMT</lastBuildDate>
+    <item>
+      <title>据报道，谷歌正计划收购其有史以来最大的初创企业</title>
+      <link>https://www.theverge.com/2024/7/14/24198613/google-wiz-acquisition-talks-23-billion-cloud-cybersecurity</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+据华尔街日报报道，谷歌正考虑斥资 230 亿美元收购云网络安全初创公司 Wiz，其合作伙伴包括亚马逊和甲骨文Journal。这笔交易几乎是 2012 年谷歌收购摩托罗拉移动公司所花费金额的两倍，是谷歌收购其他公司以来支付的最高金额。
+据该公司称，总部位于纽约市的 Wiz 为企业领域提供“孤立的安全工具和扫描仪”。Wiz 写道，它“通过在云环境之间创建一个标准化层”来保护企业云基础设施，让企业“快速识别和消除关键风险”。收购这样一家公司似乎特别针对看起来越来越脆弱的微软，该公司最近经历了多起备受瞩目的安全漏洞。
+
+Google Cloud 老板 Thomas Kurian 一直是此次收购的推动者，据《纽约时报》报道。如果成功，它将有助于巩固谷歌作为安全云平台的声誉。这似乎是其在 2022 年斥资 5 亿美元收购另一家云安全初创公司以及以 54 亿美元收购 Mandiant 背后的想法，Mandiant 于当年晚些时候发现了 SolarWinds 黑客攻击。
+据《纽约时报》称，该交易可能会失败，并有可能引发美国监管机构的审查。拜登政府主持了重大的反垄断行动，包括美国司法部就谷歌与苹果的搜索交易提起的诉讼，以及美国联邦贸易委员会阻止微软收购动视的失败努力。]]></description>
+      <guid>https://www.theverge.com/2024/7/14/24198613/google-wiz-acquisition-talks-23-billion-cloud-cybersecurity</guid>
+      <pubDate>Mon, 15 Jul 2024 02:39:05 GMT</pubDate>
+    </item>
     <item>
       <title>希望这个新的派拉蒙标志不会持续太久</title>
       <link>https://www.theverge.com/2024/7/14/24198505/paramount-global-skydance-logo-redesign-merger</link>
@@ -52,7 +67,7 @@
 插图：Amelia Holowaty Krales / The Verge
 
 AT&amp;T 向一名黑客支付了约 370,000 美元，以删除 客户数据被盗，这是今年早些时候黑客攻击的一部分。据Wired今日报道，黑客随后提供了一段视频来证明他们已经删除了数据。
-据报道，AT&amp;T 通过一个名为 Reddington 的中间人进行谈判，该中间人代表 ShinyHunters 黑客组织的成员行事。据《连线》杂志报道，黑客最初要求支付 100 万美元，后来 AT&amp;T 将其降到这个数额，并于 5 月 17 日以比特币支付。 
+据报道，AT&amp;T 通过一个名为 Reddington 的中间人进行谈判，该中间人代表 ShinyHunters 黑客组织的成员行事。据《Wired》报道，黑客最初要求支付 100 万美元，后来 AT&amp;T 将其降到这个数额，并于 5 月 17 日以比特币支付。 
 
 据该媒体报道，雷丁顿表示，他认为 AT&amp;T 支付赎金后，唯一完整的数据副本已被删除，但可能仍有部分摘录在外。雷丁顿曾因参与谈判而获得 AT&amp;T 的报酬。据报道，雷丁顿还表示，他也与其他几家公司就黑客问题进行了谈判。
 在 AT&amp;T 宣布此次入侵之前，据报道 Ticketmaster 和 Santander Bank 也遭到入侵，入侵者是第三方云存储公司 Snowflake 员工的登录凭据被盗。据《Wired》报道，在 Ticketmaster 遭受攻击后，黑客使用脚本同时攻击了可能超过 160 家公司。
@@ -85,7 +100,7 @@ Cassells 写道，Alderon 使用其崩溃报告工具记录了游戏玩家 CPU �
       <pubDate>Sun, 14 Jul 2024 19:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能记忆机器内部</title>
+      <title>AI记忆机器内部</title>
       <link>https://www.theverge.com/2024/7/14/24197107/ai-memory-recall-limitless-gemini-vergecast</link>
       <description><![CDATA[
 
@@ -96,9 +111,9 @@ Cassells 写道，Alderon 使用其崩溃报告工具记录了游戏玩家 CPU �
 
 在本期The Vergecast中，我们采访了一位长期致力于解决这一问题的人：Limitless 的首席执行官 Dan Siroker。我们讨论了如何打造出色的记忆辅助工具，我们将来如何使用它们，以及为什么它如此难以做好。
 我们还讨论了这一切的人性方面——当我们不再忘记事情时，我们的生活会有什么变化？当记忆实际上是由 AI 模型完成时，记住朋友的生日会有什么不同吗？这些工具真的会在工作之外发挥作用吗？像 Limitless 这样的工具正在快速出现并快速改进，我们必须弄清楚如何与它们共存。
-如果您想了解有关我们在本集中讨论的所有内容的更多信息，以下是一些入门链接：
+如果您想了解有关我们在本集中讨论的所有内容的更多信息，以下是一些可帮助您入门的链接：
 
-来自纽约时报：无法在脑海中看到图像？你并不孤单。
+摘自纽约时报：无法在脑海中看到图像？你并不孤单。
 
 Limitless AI：一款用于记住会议的新型可穿戴设备和应用程序
 Recall 是微软解锁 PC 未来的钥匙
@@ -112,7 +127,7 @@ Notion AI 可以自动为您撰写笔记、议程和博客文章
       <pubDate>Sun, 14 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一款超便宜、外观漂亮的 Android 手机</title>
+      <title>一款外观精美、价格超便宜的 Android 手机</title>
       <link>https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter</guid>
@@ -181,27 +196,6 @@ X 没有回复置评请求。给其新闻团队发送的电子邮件自动回复
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/13/24197209/kobo-elipsa-2e-ebook-reader-google-pixel-watch-2-deal-sale</guid>
       <pubDate>Sat, 13 Jul 2024 14:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fantasmas 对未来的设想是一个反乌托邦的梦境</title>
-      <link>https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia</link>
-      <description><![CDATA[
-
-图片：HBO
-
-在 Julio Torres 的系列作品《Fantasmas》中，未来的生存是一场错综复杂、由公司控制的游戏，玩家需要将自己的身份输入机器。 《Fantasmas》的前卫怪异和实用艺术——Max 的新系列作品，由《Problemista 作家创作/ 导演 Julio Torres — 让这部剧看起来比大多数其他关于生活在机器人充斥的近未来的电视剧更加异想天开和轻松愉快。但除了讲述一位被误解的艺术家试图在一个对创造力充满敌意的世界中生存的故事之外，Fantasmas的第一季还是今年对我们通常称之为“（过于）在线”的痛苦体验最精彩的审视之一。
-Fantasmas首次介绍了多学科艺术家 Julio (Torres)，租金早已逾期，在收到房东多封威胁信后，他发现自己迫切需要一份存在证明身份证才能保住自己的公寓。在《Fantasmas》对纽约市的强化演绎中，如果你能提供社会安全号码、信用评分，或者证明自己是像碧昂丝一样的杰出人士，那么获得一个人的存在证明就很容易了。
-但除了胡里奥的经纪人瓦内斯贾（马丁内·古铁雷斯饰）——“J”不发音——很少有人能欣赏他设计透明蜡笔和与水体交流（蒂尔达·斯文顿饰）等物品的天赋。虽然身份证对于自由生活和找工作来说是必不可少的，但必须证明自己存在的想法对胡里奥来说是如此令人难以置信，以至于他坚持原则上不带身份证。
-
-因为胡里奥的机器人助手 Bibo (Joe Rumrill) 并没有试图杀死他，而他对公寓的需求变成了《幻想曲》讲述了寻找一只丢失的牡蛎形耳环的故事，它看起来和感觉起来都不像最近其他关于反乌托邦未来的故事。但该剧关于 Zappos 成为电影制片厂和埃克森美孚进入多户房地产业务的笑话都强调了人们的生活已经陷入了企业拥有的系统的程度，而像“存在证明”这样的技术也为这些系统提供了支持。
-虽然Fantasmas并没有采用黑客帝国式的人类与机器战斗的叙事，但随着胡里奥遇到其他怪人，比如切斯特（托马斯·马托斯饰）——一个出租车司机，用他的一人拼车服务反对优步——不愿签署“存在证明”，它更容易被理解为一个关于抵制整个人性商品化的故事。
-Fantasmas通过使用一系列荒诞短剧来构建一个完整的奇幻世界，抵消了其更深层次主题的分量胡里奥。他的社交媒体经理是个矮小的侏儒，拒绝接受任何反馈，而他对耳环的搜寻将他带到了一家前同性恋仓鼠夜总会，该夜总会现已改建成一个小型 CVS。该剧既陶醉于自己的愚蠢，也陶醉于自己的聪明，这也是为什么它很少让人觉得是在居高临下地告诉你信任社交媒体算法的危险（多米尼克·杰克逊）。
-
-《Fantasmas》可能看起来很疯狂（积极），情节是关于吸食灵魂的恶魔在 Grindr 上欺骗男人，以及穿着裙子上厕所，但该剧将它们呈现为人们随着时间的推移和不断的鼓励而习惯于接受新常态的东西。
-最后一点尤其以一种令人着迷的方式让胡里奥的旅程感觉非常类似于互联网上充斥着各种噪音，而这些噪音实际上只是为了吸引人们的参与，而不是给你真正想要的东西。但在我们这样一个如此热衷于抓住一切机会制造噪音的世界里，Fantasmas 愿意嘲笑它，让这部剧成为一部令人惊讶的夏季电视佳作。
-Fantasmas 第一季现在正在 Max 上播放。]]></description>
-      <guid>https://www.theverge.com/24195902/fantasmas-hbo-max-dystopia</guid>
-      <pubDate>Sat, 13 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
