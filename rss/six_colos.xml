@@ -4,7 +4,29 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 15 Jul 2024 18:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 21:16:17 GMT</lastBuildDate>
+    <item>
+      <title>首次亮相：iPadOS 18 公开测试版</title>
+      <link>https://sixcolors.com/post/2024/07/first-look-ipados-18-public-beta/</link>
+      <description><![CDATA[iPadOS 18 公开测试版现已发布。Dan Moren 对它与 iOS 18 共享的所有功能都有初步印象，但有一些功能是 iPad 独有的。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/first-look-ipados-18-public-beta/</guid>
+      <pubDate>Mon, 15 Jul 2024 20:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次亮相：macOS Sequoia 公开测试版</title>
+      <link>https://sixcolors.com/post/2024/07/first-look-macos-sequoia-public-beta/</link>
+      <description><![CDATA[macOS Sequoia 现已推出公开测试版，预计将于今年秋季发布，与 7 月份的大多数 macOS 测试版相比，它的开发进度更为顺利。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/first-look-macos-sequoia-public-beta/</guid>
+      <pubDate>Mon, 15 Jul 2024 20:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次亮相：iOS 18 公开测试版</title>
+      <link>https://sixcolors.com/post/2024/07/first-look-ios-18-public-beta/</link>
+      <description><![CDATA[六个主屏幕：安迪·沃霍尔，让你心碎吧。
+最终，对 18 首次公开测试版的反应可能更多地是关于那里没有什么，而不是那里有什么。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/first-look-ios-18-public-beta/</guid>
+      <pubDate>Mon, 15 Jul 2024 20:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 521：我能把菠萝放进任何东西里</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</link>
@@ -38,7 +60,7 @@
       <link>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</link>
       <description><![CDATA[除了这是绝对最佳的技术疯狂之外，我不知道该说什么。
 
-这意味着在我的下一次飞行中，我可以通过我的飞行里程账户完全访问互联网。…]]></description>
+这意味着在我的下一次飞行中，我可以通过我的飞行里程帐户完全访问互联网。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</guid>
       <pubDate>Thu, 11 Jul 2024 10:49:00 GMT</pubDate>
     </item>
@@ -93,31 +115,9 @@
     <item>
       <title>（播客）升级 520：残酷的夏天</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</link>
-      <description><![CDATA[关于苹果与 Epic 和欧盟之争的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
+      <description><![CDATA[关于苹果与 Epic 和欧盟的争斗的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</guid>
       <pubDate>Mon, 08 Jul 2024 21:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我会让我的人工智能给你的人工智能发邮件</title>
-      <link>https://sixcolors.com/post/2024/07/ill-have-my-ai-email-your-ai/</link>
-      <description><![CDATA[
-我最喜欢的电影之一《天才医院》中有一个笑话，感觉它直接适用于我们今天正在进行的许多人工智能讨论。（这是一部 80 年代的电影，所以它不是一个场景——它是一个蒙太奇，背景音乐是​​ The Comsat Angels 的“I’m Falling”。）…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/ill-have-my-ai-email-your-ai/</guid>
-      <pubDate>Fri, 05 Jul 2024 21:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 561：阴谋论破产</title>
-      <link>https://sixcolors.com/podcast/2024/07/clockwise-561-conspiracy-theory-bankruptcy/</link>
-      <description><![CDATA[我们的应用程序惯例、我们对智能戒指的感受、我们家中其他最智能的科技产品，以及我们如何随时了解信息而不会陷入厄运。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/clockwise-561-conspiracy-theory-bankruptcy/</guid>
-      <pubDate>Wed, 03 Jul 2024 19:22:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 502：我不想考虑任何事情</title>
-      <link>https://sixcolors.com/podcast/2024/07/the-rebound-502-i-dont-wanna-think-about-anything/</link>
-      <description><![CDATA[你好，黑暗，我的老朋友。我们又来聊聊科技了。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-502-i-dont-wanna-think-about-anything/</guid>
-      <pubDate>Wed, 03 Jul 2024 16:21:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
