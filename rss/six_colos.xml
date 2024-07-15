@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 12 Jul 2024 18:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:20:49 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 521：我能把菠萝放进任何东西里</title>
+      <link>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</link>
+      <description><![CDATA[Jason 和 Myke 采访了 Vision Pro 的《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</guid>
+      <pubDate>Mon, 15 Jul 2024 16:09:55 GMT</pubDate>
+    </item>
     <item>
       <title>我给苹果开的药方：聘请一些监察员</title>
       <link>https://sixcolors.com/post/2024/07/my-prescription-for-apple-hire-some-ombudspeople/</link>
@@ -31,7 +38,7 @@
       <link>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</link>
       <description><![CDATA[除了这是绝对最佳的技术疯狂之外，我不知道该说什么。
 
-这意味着在我的下一次飞行中，我可以通过我的飞行里程帐户完全访问互联网。…]]></description>
+这意味着在我的下一次飞行中，我可以通过我的飞行里程账户完全访问互联网。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</guid>
       <pubDate>Thu, 11 Jul 2024 10:49:00 GMT</pubDate>
     </item>
@@ -86,7 +93,7 @@
     <item>
       <title>（播客）升级 520：残酷的夏天</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</link>
-      <description><![CDATA[关于苹果与 Epic 和欧盟的争斗的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
+      <description><![CDATA[关于苹果与 Epic 和欧盟之争的消息越来越多，苹果也加强了与 OpenAI 的联系，但所有的争议都让我们思考，是什么让我们在困难时期对科技保持兴奋。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-520-cruel-summer/</guid>
       <pubDate>Mon, 08 Jul 2024 21:04:06 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@
       <description><![CDATA[你好，黑暗，我的老朋友。我们又来聊聊科技了。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/the-rebound-502-i-dont-wanna-think-about-anything/</guid>
       <pubDate>Wed, 03 Jul 2024 16:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿 Siri？不，我不是说你。（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2384132</link>
-      <description><![CDATA[我们即将进入 Apple Intelligence 时代，它有望彻底改变我们使用 Apple 设备的方式。最重要的是，将 Apple Intelligence 添加到 Siri 有望解决 Apple“智能”助手的许多令人沮丧的问题。…]]></description>
-      <guid>https://www.macworld.com/article/2384132</guid>
-      <pubDate>Wed, 03 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
