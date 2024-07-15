@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Mon, 15 Jul 2024 06:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 09:17:51 GMT</lastBuildDate>
+    <item>
+      <title>法国 AI 初创公司推出首个专门针对广告文案的法学硕士学位</title>
+      <link>https://thenextweb.com/news/french-startup-adcreative-launches-llm-for-advertising-copy</link>
+      <description><![CDATA[法国初创公司 AdCreative.ai 推出了一种专为广告构建的新型大型语言模型。该系统名为 AdLLM Spark，旨在制作在每个主要广告平台上都具有高转化率的广告文字。AdCreative.ai 表示，LLM 结合了两个独特的功能：即时文本生成和准确的性能预测。该初创公司与 Nvidia 合作，使用真实的广告文案训练该模型。训练数据涵盖了 AdCreative.ai 为其 2,000,000 名用户生成的每一条文本。它包括来自八个领先广告平台的信息：Facebook、Instagram、Google、YouTube、LinkedIn、Microsoft、Pinterest 和 TikTok。除了广告文案外，数据集还包含 8.4 亿行…This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/french-startup-adcreative-launches-llm-for-advertising-copy</guid>
+      <pubDate>Mon, 15 Jul 2024 07:00:43 GMT</pubDate>
+    </item>
     <item>
       <title>阿丽亚娜 6 号能否将欧洲的航天技术初创企业打造为全球强国？</title>
       <link>https://thenextweb.com/news/ariane-6-impact-on-european-spacetech-startups</link>
@@ -15,7 +22,7 @@
     <item>
       <title>软银收购陷入困境的英国人工智能芯片开发商 Graphcore</title>
       <link>https://thenextweb.com/news/softbank-troubled-british-chipamker-graphcore</link>
-      <description><![CDATA[日本科技集团软银又收购了一家英国芯片公司。这一次，它收购了位于布里斯托尔的人工智能处理器开发商 Graphcore，过去一年来，该公司的生存受到了质疑。此次收购正值投资者竞相支持人工智能领域的下一个大事件之际。此外，一些大型科技公司认为自己的内部人工智能能力不足，一直在四处寻找可以弥补这些不足并在竞争中占据优势的收购对象。他们似乎越来越多地将目光投向欧洲寻找潜在目标。就在本周，…这个故事还在继续在 The Next Web]]></description>
+      <description><![CDATA[日本科技集团软银又收购了一家英国芯片公司。这一次，它收购了位于布里斯托尔的人工智能处理器开发商 Graphcore，过去一年来，该公司的生存受到了质疑。此次收购正值投资者竞相支持人工智能领域的下一个大事件之际。此外，大型科技公司认为自己的内部人工智能能力不足，一直在四处寻找可以弥补这些不足并在竞争中占据优势的收购对象。他们似乎越来越多地将目光投向欧洲寻找潜在目标。就在本周，…这个故事还在继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/softbank-troubled-british-chipamker-graphcore</guid>
       <pubDate>Fri, 12 Jul 2024 11:09:51 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国芯片制造商 AMD 已同意以 6.65 亿美元（6.14 亿欧元）收购芬兰初创公司 Silo AI，后者是欧洲领先的人工智能公司之一。AMD 于周三宣布了全现金交易。这家加州公司将此次收购描述为“迈向提供端到端人工智能解决方案的重要一步”。它还将为 AMD 提供新工具，以与 Nvidia 的高性能芯片竞争。Silo 自称是“欧洲最大的私人人工智能实验室”。该公司以构建大型语言模型 (LLM) 而闻名——尤其是针​​对资源匮乏的语言。今年 5 月，这家初创公司推出了一个涵盖丹麦语、芬兰语、冰岛语、挪威语和瑞典语以及英语的 LLM 课程…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/us-chipmaker-amd-buys-silo-ai</guid>
       <pubDate>Wed, 10 Jul 2024 14:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>TNW 播客：Daniel Keiper-Knorr 谈初创企业和融资；欧洲核聚变发电再次推迟</title>
-      <link>https://thenextweb.com/news/daniel-keiper-knorr-speedinvest-fusion-power-europe</link>
-      <description><![CDATA[﻿ 欢迎收听 TNW Podcast 的新一期。在本期节目中，我们将讨论欧洲技术生态系统的最新发展，并采访一些业内最有趣的人。在今天的节目中，安德烈谈到了欧洲的核聚变能源、“软盘之战”等。节目嘉宾是 Speedinvest 的普通合伙人 Daniel Keiper-Knorr，他将分享他对欧洲早期创业生态系统、市场整合过程以及相关领域的一些看法。以下是本期节目中提到的故事和内容：ITER 问题暴露了对......的需求本故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/daniel-keiper-knorr-speedinvest-fusion-power-europe</guid>
-      <pubDate>Wed, 10 Jul 2024 13:56:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
