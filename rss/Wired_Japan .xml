@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 16 Jul 2024 06:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 09:17:48 GMT</lastBuildDate>
+    <item>
+      <title>正在进行运行聊天机器人以创建通用机器人的实验</title>
+      <link>https://wired.jp/article/quest-ai-chatbots-a-hand-arm-robots/</link>
+      <description><![CDATA[一家美国初创公司正在尝试使用 ChatGPT 等聊天机器人来操作机械臂。目标是创造一个具有通用能力的机器人，能够灵活响应各种指令。]]></description>
+      <guid>https://wired.jp/article/quest-ai-chatbots-a-hand-arm-robots/</guid>
+      <pubDate>Tue, 16 Jul 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>用“Apple Vision Pro”体验漫威世界——“沉浸式故事”的挑战与可能性</title>
       <link>https://wired.jp/article/marvel-apple-vision-pro-what-if/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>亚马逊《Echo Spot（2024年发布）》评测：简单且功能齐全的“智能手表”</title>
       <link>https://wired.jp/article/amazon-echo-spot-2024-review/</link>
-      <description><![CDATA[亚马逊发布了一款带有小显示屏的半球形智能音箱新型号“Echo Spot”（2024 年发布）。它的特点是简单，可以一目了然地查看天气和时间，而且它似乎可以作为一块占用空间很小的“智能手表”，让您也可以享受音乐。]]></description>
+      <description><![CDATA[亚马逊发布了一款带有小显示屏的半球形智能音箱新型号“Echo Spot”（2024 年发布）。它的特点是简单，可以一目了然地查看天气和时间，并且它看起来像一块占用空间很小的“智能手表”，可以让您享受音乐。]]></description>
       <guid>https://wired.jp/article/amazon-echo-spot-2024-review/</guid>
       <pubDate>Sun, 14 Jul 2024 01:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“老年”不是不可避免的吗？ 诺奖学者谈“返老还童”研究现状及我们能做的</title>
-      <link>https://wired.jp/article/aging-might-not-be-inevitable-wired-health-venki-ramakrishnan/</link>
-      <description><![CDATA[人们相信衰老有其生物学基础。相比之下，诺贝尔化学奖获得者、生物学家文卡特拉曼·拉马克里希南 (Venkatraman Ramakrishnan) 认为，衰老并非不可避免，我们或许可以通过改变生物学来克服衰老的局限性。]]></description>
-      <guid>https://wired.jp/article/aging-might-not-be-inevitable-wired-health-venki-ramakrishnan/</guid>
-      <pubDate>Sat, 13 Jul 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
