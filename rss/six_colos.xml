@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 17 Jul 2024 18:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 21:15:17 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 563：好奇心</title>
+      <link>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</link>
+      <description><![CDATA[我们主要在哪里输入文本（智能手机、平板电脑或计算机）、我们作为演讲者或与会者与用户组的互动、我们在 iPhone 基座中保存的应用程序及其原因，以及我们如何使用 Apple Pay。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</guid>
+      <pubDate>Wed, 17 Jul 2024 18:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 504：威士忌和股票的绝佳选择</title>
       <link>https://sixcolors.com/podcast/2024/07/the-rebound-504-excellent-choices-in-whiskey-and-stocks/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>苹果的人工智能计划可能会将权力重新交到用户手中（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2400818</link>
-      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况不再如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
+      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况并非如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
       <guid>https://www.macworld.com/article/2400818</guid>
       <pubDate>Wed, 17 Jul 2024 16:00:09 GMT</pubDate>
     </item>
@@ -74,7 +81,7 @@
       <link>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</link>
       <description><![CDATA[除了这是绝对最佳的技术疯狂之外，我不知道该说什么。
 
-这意味着在我的下一次飞行中，我可以通过我的飞行里程账户完全访问互联网。…]]></description>
+这意味着在我的下一次飞行中，我可以通过我的飞行里程帐户完全访问互联网。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</guid>
       <pubDate>Thu, 11 Jul 2024 10:49:00 GMT</pubDate>
     </item>
@@ -107,15 +114,6 @@
 据一位知情人士透露，作为将 ChatGPT 集成到 iPhone 制造商设备中的协议的一部分，苹果原本有望在 OpenAI 董事会中扮演观察员的角色，但苹果不会这样做。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/apple-no-longer-taking-openai-board-seat/</guid>
       <pubDate>Wed, 10 Jul 2024 10:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>TUAW 再次回归，成为一个由人工智能生成的僵尸垃圾网站 ↦</title>
-      <link>https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/</link>
-      <description><![CDATA[通过 Christina Warren，一些自称 Web Orange Limited 的家伙收购了非官方 Apple 博客——Apple 博客的经典参与者——并将其变成了一个由 AI 生成的垃圾博客帖子，就像一个真实的博客一样：
-
-非官方 Apple 博客 (TUAW) 自 2004 年 12 月 5 日成立以来，一直是 Apple 相关新闻的基石。…]]></description>
-      <guid>https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/</guid>
-      <pubDate>Tue, 09 Jul 2024 20:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
