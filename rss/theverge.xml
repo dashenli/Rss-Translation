@@ -4,134 +4,153 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 17 Jul 2024 15:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 18:19:01 GMT</lastBuildDate>
     <item>
-      <title>最佳预算机器人吸尘器</title>
-      <link>https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop</guid>
-      <pubDate>Wed, 17 Jul 2024 15:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊设备 Prime Day 最佳优惠</title>
-      <link>https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024</guid>
-      <pubDate>Wed, 17 Jul 2024 15:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的 Designer 应用程序登陆 iOS 和 Android，具备 AI 编辑和创作功能</title>
-      <link>https://www.theverge.com/2024/7/17/24200294/microsoft-designer-app-launch-windows-ios-android-features</link>
+      <title>一项研究发现，谷歌的人工智能结果出现的频率越来越低</title>
+      <link>https://www.theverge.com/2024/7/17/24200544/google-ai-overviews-report</link>
       <description><![CDATA[
 
-图片：Microsoft
+插图：The Verge
 
-Microsoft 的 AI 驱动 Designer 应用即将推出 预览版，目前适用于 iOS 和 Android 用户。Microsoft Designer 可让您使用模板创建自定义图像、贴纸、贺卡、邀请函等。 Designer 还可以使用 AI 编辑图像并重新设计其样式或创建图像拼贴画。
-Designer 最初可在网络上使用或通过 Microsoft Edge使用，已预览近一年。现在，任何拥有个人 Microsoft 帐户的人都可以免费使用它，并且它是 Windows 的一款应用，iOS 和 Android。移动应用程序包括创建图像并随时随地编辑图像的功能。
-
-
-图片：Microsoft
-Microsoft Designer 编辑器视图。
-
-Microsoft Designer 包含用于生成图像的常用文本提示，但还有大量模板可供您用来创建贺卡、社交媒体帖子、图标、壁纸、彩色书页等内容。 Designer 还包含一个头像创建器，它会提示您在移动版应用上使用它。
-您还可以使用 Designer 通过 AI 编辑图像，从而重新设计现有图像或使用装饰性 AI 生成的边框对其进行框定。Designer 还具有编辑和删除背景、从图像中删除人物或物体的功能，以及向图像添加文本和品牌等功能。
-虽然 Microsoft Designer 目前作为独立应用提供，但 Microsoft 也已通过 Copilot 在 Word 和 PowerPoint 等应用中提供 Designer。 Copilot Pro 订阅者可以直接在 Word 和 PowerPoint 中创建图像和设计，而 Microsoft 很快将为 Word 文档添加新的横幅图像生成器。
-
-
-图片：Microsoft
-Microsoft 在 Designer 中有一个 AI 头像模式。
-
-Windows Insiders 今日还将在 Windows 11 上的照片应用中访问 Designer，其功能包括擦除对象、删除背景、自动裁剪和滤镜均可直接在照片中使用。微软一直在测试将图片从照片发送到 Designer，但现在它正在将这些功能集成到照片中，这样您就不必离开应用程序了。类似功能也将很快在 Microsoft Edge 上推出。
-Microsoft Designer 推出预览版，提供 15 个免费每日增强功能，可用于创建或编辑 AI 驱动的图像和设计。微软 Office 产品组企业副总裁 Sumit Chauhan 表示：“无论何时，只要您在 Designer 应用中创建或编辑图像或设计，以及 Designer 与 Microsoft 应用中的集成，都会自动使用加速功能。您可以升级到 Copilot Pro 订阅，每天可获得 100 次加速功能。”]]></description>
-      <guid>https://www.theverge.com/2024/7/17/24200294/microsoft-designer-app-launch-windows-ios-android-features</guid>
-      <pubDate>Wed, 17 Jul 2024 15:00:00 GMT</pubDate>
+根据 SEO 公司最近的一项研究，谷歌最近几周似乎减少了其 AI 生成的搜索结果。
+这些数据由 BrightEdge 收集并于 2020 年 6 月 23 日报道。 Search Engine Land 的 研究表明，AI Overviews 出现在 6 月 1 日的查询比例从 11% 下降到 6 月 30 日的 7%。 BrightEdge 的数据还表明，AI Overviews 引用 Reddit 和 Quora 的次数比以前大幅减少。
+自 5 月份推出 AI Overviews以来，谷歌不得不做出改变以解决奇怪的结果，例如建议您在披萨上涂胶水（似乎是从 Reddit 帖子中摘录的）并建议您吃石头（似乎是从The Onion的一篇文章中摘录的）。作为回应，谷歌为 AI 概览辩护，但表示已实施调整，例如限制 AI 概览中用户生成内容的使用，并添加更好的工具来检测不应获得 AI 概览的无意义查询。
+谷歌发言人 Ashley Thompson 告诉The Verge，研究结果“并未反映我们所看到的情况”，并批评了该研究的方法。汤普森还表示，BrightEdge 的研究似乎将选择加入“AI 概览及更多”作为 Google 实验性搜索实验室功能的用户与未选择加入的用户混为一谈。（汤普森表示，选择加入搜索实验室中的 AI 概览的用户将在更多搜索结果中看到它们。）
+“我们设计 AI 概览是为了在查询中显示它们，它们对查询有帮助，并且提供超出结果页面现有功能的价值，并且它们会继续显示在大量搜索中，”汤普森说。“正如我们所分享的，我们将继续改进显示 AI 概览的时间和方式，以使其尽可能有用，包括最近的一些技术更新，以提高响应质量。”
+AI 概览是 Google 的一项重要举措。如果人们不喜欢或不信任它们，他们可能会转而使用Microsoft、OpenAI和Perplexity等竞争对手的产品，这对搜索引擎来说可能是一个巨大的损失。谷歌对《AI 概览》持乐观态度——首席执行官 Sundar Pichai 在 5 月份接受主编 Nilay Patel 采访时表示，人们“对《AI 概览》的反应非常积极”——但该公司仍在进行一些微调。]]></description>
+      <guid>https://www.theverge.com/2024/7/17/24200544/google-ai-overviews-report</guid>
+      <pubDate>Wed, 17 Jul 2024 17:57:37 GMT</pubDate>
     </item>
     <item>
-      <title>凯迪拉克为其汽油动力的 Escalade 打造了一款电动汽车</title>
-      <link>https://www.theverge.com/2024/7/17/24198989/cadillac-escalade-refresh-2025-screen-ev-power-doors</link>
+      <title>部分最佳一体式机器人吸尘器在 Prime Day 期间可享受高达 50% 的折扣</title>
+      <link>https://www.theverge.com/2024/7/17/24200515/best-robot-vacuum-amazon-prime-day-deals</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/17/24198989/cadillac-escalade-refresh-2025-screen-ev-power-doors</guid>
-      <pubDate>Wed, 17 Jul 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/17/24200515/best-robot-vacuum-amazon-prime-day-deals</guid>
+      <pubDate>Wed, 17 Jul 2024 17:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 Prime Day 游戏优惠</title>
-      <link>https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24198226/amazon-prime-day-2024-best-gaming-deals-controller-headset-accessories</guid>
-      <pubDate>Wed, 17 Jul 2024 14:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国今年将开始给宠物喂食实验室培育的肉</title>
-      <link>https://www.theverge.com/2024/7/17/24200412/uk-lab-grown-cultivated-meat-pet-food-approval-meatly</link>
+      <title>这款保护壳可让你的 Apple Watch 变身微型 iPod</title>
+      <link>https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel</link>
       <description><![CDATA[
 
-图片：Meatly
+来吧，这有多可爱。 | 图片：TinyPod
 
-英国现在是第一个批准销售实验室培育肉类的欧洲国家，但其第一批实验对象是宠物而非人类消费者。 
-英国动植物健康署和环境、食品和农村事务部批准总部位于伦敦的初创公司 Meatly 生产实验室培育的宠物食品，该机构称此项批准是“人造肉行业的一大飞跃”。
-“宠物主人迫切需要一种更好的方式来喂养他们的猫和狗肉，”Meatly 首席执行官 Owen Ensor 在一份声明中表示，该公司的人造宠物食品将使他们能够“以一种对我们的地球和其他动物更友好的方式”来喂养宠物。
-Meatly 表示，它计划今年推出其首款从鸡细胞中培育的宠物食品的商业样品，然后专注于在未来三年内降低成本并扩大工业生产规模。 
-生产实验室培育的肉类通常非常昂贵且耗时。人们越来越担心饲养牲畜对环境的影响，这推动了解决这些问题的努力，研究表明，仅宠物食品行业对气候的影响就与莫桑比克或菲律宾相似。
-虽然新加坡、以色列和美国大部分地区已批准将人工培育的肉类产品供人类食用，但该行业受到规模问题和政治审查的阻碍。
-人工培育的肉类可能需要数年时间才能对更广泛的农业行业产生有意义的影响，而且当 Meatly 的产品上架时，价格可能不会便宜。如果您知道该公司声称其最终的实验室培育鸡肉产品“不含转基因成分”，您是否会更愿意支付溢价？
+如果您最近对旧 iPod 感到怀旧，那么，我有个好消息要告诉您。 TinyPod 是一个可以装在 Apple Watch 上的外壳（无表带），这样您就可以拿着它，像您最喜欢的老式 MP3 播放器一样使用它。 售价 79 美元的版本包括一个滚轮，可以物理转动手表的数字表冠。只需 29 美元，您就可以得到一个没有滚轮的外壳，但有一个切口，这样您就可以直接访问数字表冠。
+但 TinyPod 不仅仅是一种将手表变成可爱的媒体播放器的方式——它旨在让您的手表成为手机的更强大的伴侣。最近，我们看到了各种各样的小工具和简约手机，它们承诺帮助您断开连接，同时仍让您与基本功能保持连接。但总体而言，它们动力不足、操作繁琐，或者不够智能，无法派上用场，而我们所熟知的智能手机仍然坚不可摧。 
 
+
+图片：TinyPod
+背面有一个开口，这意味着您无需将手表从表壳中取出即可为其充电。
+
+这就是为什么 TinyPod 的“如果你不能打败他们，就加入他们”的立场如此吸引人的原因。它不是手机的替代品，而是公司称之为“远离手机的手机”。虽然您可以将任何旧款 Apple Watch 放入保护壳中，但这一概念最适合蜂窝型号。您可以放下手机，同时仍可访问短信、通话、移动支付和音乐播放等基本功能 - 极简主义手机梦想。
+如果这一切让您想起了几年前出现的受 iPod Nano 启发的手表保护壳概念。尽管声称“即将推出”，但这款保护套似乎并未上市。Kang 的保护套也更像是一种怀旧之情，因为滚轮无法使用。
+TinyPod 似乎更接近现实——根据该公司的网站，它将于“今年夏天”发货，您可以现在订购三种不同尺寸的保护套。]]></description>
+      <guid>https://www.theverge.com/2024/7/17/24200520/tinypod-apple-watch-accessory-ipod-case-scroll-wheel</guid>
+      <pubDate>Wed, 17 Jul 2024 17:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个飞行机器人需要一个拥抱</title>
+      <link>https://www.theverge.com/2024/7/17/24200522/drone-uav-research-crash-landing-epfl-robots</link>
+      <description><![CDATA[
+
+EPFL 研究人员从蝙蝠和猫头鹰那里汲取灵感，设计出一款可以优雅坠毁的飞行机器人。 |图片：自然
+
+研究人员不再寻找跑道，而是制造了一种无人驾驶飞行器 (UAV)，它可以通过撞上树木或电线杆并将其抓地力强的机翼包裹住它们来防止坠落。这是一种非传统的方法，但可以使监视或检查设备更容易地放置在难以到达的区域。
+这款无人机的设计者来自瑞士联邦理工学院 (EPFL) 的智能系统实验室，他们将其称为 PercHug，这是另一种模仿自然界中的行为的机器人：蝙蝠和猫头鹰用翅膀飞行，爬树或栖息在树上。
+PercHug 机器人设计有两用铰链机翼，机翼保持刚性和伸展状态，使无人机能够飞行，但在释放张力线时也会变得灵活。
+
+
+图片：EPFL
+无人机前部的弯曲机头有助于重新定位无人机，以便利用其灵活的机翼抓住结构。
+
+正如最近发表在《自然》杂志上的一篇论文所解释的那样，这款重量轻 550 克的无人机无人机采用“上翻机头设计”，当无人机在坠毁后开始坠落时，该设计可使无人机重新调整垂直方向。撞击的冲击力还会释放拉力线，使无人机的弹簧式机翼缠绕在结构上并保持停留状态 — 大多数情况下都是如此。
+即使在机翼外段添加了鱼钩以改善抓地力，PercHug 无人机也只有 73% 的时间能够成功附着在树或杆子上。而且这还是在测试中，无人机在短暂、平稳的滑行后发生了撞击。
+通过重新利用机翼实现停留安全着陆的独特方法消除了对额外着陆机制的需求。这将使无人机重量更轻，从而有可能扩大其有效载荷能力以及在瞄准树木之前可以飞行多远。
+在无人机部署昂贵的设备（如传感器或摄像头）之前，需要更高的成功率。研究人员还计划通过航空电子设备和控制面来扩展无人机的功能，因为就目前的形式而言，它只是一架手动发射的滑翔机，没有转向能力。他们还想找到一种方法让它自行脱离并再次飞上天空。]]></description>
+      <guid>https://www.theverge.com/2024/7/17/24200522/drone-uav-research-crash-landing-epfl-robots</guid>
+      <pubDate>Wed, 17 Jul 2024 17:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prime Day 最佳充电设备优惠</title>
+      <link>https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/good-deals/24199348/best-amazon-prime-day-2024-chargers-power-banks-batteries-deal-sale</guid>
+      <pubDate>Wed, 17 Jul 2024 17:19:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Verge 员工最喜欢的一些电子产品的 Prime Day 最佳优惠</title>
+      <link>https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/16/24199150/amazon-prime-day-deals-tech-staff-favorites-gifts-accessories</guid>
+      <pubDate>Wed, 17 Jul 2024 17:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取 YouTube 视频的成绩单</title>
+      <link>https://www.theverge.com/24198846/youtube-video-transcribe-text-how-to</link>
+      <description><![CDATA[
+
+插图由 Samar Haddad / The Verge 提供
+
+当我编辑和撰写“操作方法”文章时，我有时也会发现自己需要操作方法指导。但是，当我搜索有关某种困难的钩针针法的指导时，手边有详细的文字说明通常会有所帮助，这样我就不用坐下来一遍又一遍地观看视频了。
+为此，YouTube 提供了自动生成的成绩单。成绩单不仅在您想要在观看视频时查看文字滚动内容时有用，而且在之后还可以作为参考点。例如，如果您没有时间或耐心看完整个视频，那么您只需浏览成绩单即可了解主题的要点并将其保存以供将来参考。
+以下是查找和使用 YouTube 成绩单功能的方法：
+打开您要观看的视频。在视频下方的描述中，查找...更多链接并选择它。
+
+
+屏幕截图：YouTube
+
+点击 ...more 链接后​​，您将看到一个标有 显示成绩单 的按钮。
+
+
+
+查看说明的末尾（如果需要，请向下滚动) 以获取 成绩单 标题，然后单击 显示成绩单 按钮。
+您将返回到页面顶部。右上角现在将有一个 成绩单 框，其中包含视频的完整成绩单，并与音频一起滚动。
+成绩单将带有时间戳，但如果您发现这会分散注意力，您可以在桌面应用程序上删除它们，方法是选择成绩单右上角的三个点，然后单击 切换时间戳。
+
+
+
+屏幕截图：YouTube
+带有时间戳的成绩单将出现在 YouTube 视频的侧面。
+
+如果您想在其他地方使用文本，只需使用光标突出显示要保存的部分，然后复制并粘贴即可。 （注意：我通常使用粘贴并匹配样式或不带格式粘贴，以避免任何广告或其他元素随转录一起复制。）
+您也可以使用 YouTube 的移动应用创建转录本 - 但虽然查找转录本的说明大致相同，但您无法删除时间戳。我也无法复制/粘贴文本（如果有办法做到这一点，请在评论中告诉我）。
+还有一点需要注意：任何使用过 YouTube 自动生成的隐藏式字幕或转录本的人都知道，文本有时会不准确到令人捧腹的地步。如果您正在寻找更准确的转录本，您可以尝试Google 的 Recorder 应用，该应用内置于其 Pixel 手机中，但可用于其他 Android 手机。我比较了两者，虽然文本的准确性大致相同，但 Recorder 添加了实际的句子结构（句号、大写字母等），使其更容易阅读。
+还有许多适用于 Android 和 iOS 设备的第三方应用程序可供您试用，但大多数都不是免费的。]]></description>
+      <guid>https://www.theverge.com/24198846/youtube-video-transcribe-text-how-to</guid>
+      <pubDate>Wed, 17 Jul 2024 16:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>“人工智能教母”的新创业公司估值已达 10 亿美元</title>
+      <link>https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures</link>
+      <description><![CDATA[
+
+照片由 Kimberly White/Getty Images for WIRED 拍摄
+
+被誉为“人工智能教母”的著名计算机科学家李飞飞创建了一家名为 World Labs 的初创公司。据《金融时报》报道，在短短四个月内，其估值已超过 10 亿美元。《金融时报》报道。
+World Labs 希望利用类似人类的视觉数据处理能力，使 AI 具有高级推理能力，路透社 5 月报道。使其变得像人类一样的研究仍在进行中，就像 ChatGPT 试图用生成式人工智能所做的那样。
+李最出名的是她对计算机视觉的贡献，计算机视觉是人工智能的一个分支，致力于帮助机器解释和理解视觉信息。她还带头开发了 ImageNet，这是一个用于视觉对象识别研究的广泛视觉数据库。李于 2017 年至 2018 年担任 Google Cloud 的人工智能主管，目前为白宫人工智能工作组提供建议。
+“[世界实验室] 正在开发一种理解三维物理世界的模型；一位了解李飞飞研究的匿名风险投资家告诉《金融时报》，“人工智能本质上是物体的尺寸、事物的位置和作用”。
+这可能会促进机器人、增强现实和虚拟现实等各个领域的工作
+这家初创公司已经进行了两轮融资，最新一轮融资额约为 1 亿美元，由 Andreessen Horowitz 和人工智能基金 Radical Ventures（李飞飞去年加入该基金并成为其合伙人）提供支持。李在斯坦福大学部分休假期间创立了 World Labs，她还担任该大学以人为本的人工智能研究所的联合主任。
+在四月份的一次 Ted Talk 中，李进一步解释了她的初创公司将致力于推进的研究领域，其中包括能够将图像和文本真实地推断到三维环境中并根据这些预测采取行动的算法，使用一种称为“空间智能”的概念。这可以促进机器人、增强现实、虚拟现实和计算机视觉等各个领域的工作。如果这些能力继续以李飞飞雄心勃勃的计划发展，它就有可能改变医疗保健和制造业等行业。
+对世界实验室的投资反映了一种趋势，风险投资家热切地与雄心勃勃的人工智能公司结盟，这种趋势受到 OpenAI 的 ChatGPT 意外成功的推动，ChatGPT 迅速实现了超过 800 亿美元的估值。
 ]]></description>
-      <guid>https://www.theverge.com/2024/7/17/24200412/uk-lab-grown-cultivated-meat-pet-food-approval-meatly</guid>
-      <pubDate>Wed, 17 Jul 2024 14:43:39 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/17/24200496/ai-fei-fei-li-world-labs-andreessen-horowitz-radical-ventures</guid>
+      <pubDate>Wed, 17 Jul 2024 16:56:19 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年亚马逊 Prime 会员日提供的最佳 Apple 优惠</title>
-      <link>https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024</link>
+      <title>一家定制贴纸打印机发送了一条支持特朗普的群发短信，激怒了其客户</title>
+      <link>https://www.theverge.com/2024/7/17/24200441/sticker-mule-trump-endorsement-rally-shooting</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24196778/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2024</guid>
-      <pubDate>Wed, 17 Jul 2024 14:30:30 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/17/24200441/sticker-mule-trump-endorsement-rally-shooting</guid>
+      <pubDate>Wed, 17 Jul 2024 16:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>诉讼称，OpenAI 首席执行官 Sam Altman 价值 2700 万美元的豪宅是一个“柠檬房”，泳池漏水</title>
-      <link>https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge；Getty Images
-
-Sam Altman 价值 2700 万美元的旧金山豪华住宅显然问题重重，从漏水的无边际泳池到将未经处理的污水排放到房产上的故障管道。这是根据一项诉讼得出的结论，该诉讼旧金山标准报称，该报称 Altman 购买了一座“劣质建筑”，“普遍存在粗制滥造和偷工减料的情况”。
-这座占地 9,500 平方英尺的庄园位于旧金山标志性的伦巴底街，俯瞰城市和海湾。正如您在房屋导览中看到的，它的一些主要特色包括悬挂在房屋边缘的四边形无边泳池、通向车库的“蝙蝠洞”，以及使用回收雨水灌溉广阔花园和冲洗房屋内厕所的系统。
-
-但这座价值 2700 万美元的豪宅可能并不像宣传的那样好。在上周向旧金山法院提起的诉讼中，Altman 的法律团队声称房地产开发商 Troon Pacific“谎称该房产状况最高”，以便“尽快”出售。原告还指控开发商未能聘请合格的承包商，其中一些承包商据称因未按时获得报酬而“报复”，“用承包商的袋子和碎片填满排水和下水道管道”。这种“粗制滥造”的工艺导致去年 8 月游泳池漏水，大量水涌入房屋的下层，造成“该区域的石膏天花板破裂”和“霉菌大面积出现”，如诉讼中所述。Altman 的法律团队估计修复游泳池的费用将超过 400 万美元，这还不包括“未连接的浴室下水道管道将未经处理的污水倾倒在地面上”、“大量泄漏的灌溉管道”、“天窗渗水”等问题。Altman 并不是唯一一个对 Troon Pacific 的工作提出质疑的人。 5 月，开发商被勒令向投资者偿还 5000 万美元，这些投资者资助了旧金山的一个房屋翻新项目，但该项目从未完工，而该公司据称中饱私囊。
-目前，在诉讼进行期间，Altman 可能不得不处理一些家务上的不便。但也许他可以请求 ChatGPT 帮助解决一些问题——或者更好的是，给他一些关于如何寻找新住处的建议。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai</guid>
-      <pubDate>Wed, 17 Jul 2024 14:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>家得宝病毒式巨型骨架进行了一些升级，并带来了许多新朋友</title>
-      <link>https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton</link>
-      <description><![CDATA[
-
-图片：家得宝
-
-五年前，家得宝偶然发现了一个病毒式传播的热门产品，它就是一个 12 英尺高的骷髅，绰号为 Skelly。在一些社区，全年都可以看到这种高耸的万圣节装饰，它出现在无数的表情包和TikTok中，并且仍然很受欢迎——它于 4 月重新开售，很快就售罄。现在，该公司将略微更新的骷髅版本带回市场，作为万圣节生物阵容的一部分，这些生物都配备了 LED 和电子动画，该公司希望让这款不死生物大热卖产品保持活力。
-Skelly 仍然是中心产品。这款骷髅重新上架，但略作了调整：现在那些令人毛骨悚然的 LED 眼睛可以自定义，有八种不同的预设，因此您可以让 Skelly 在多个节日保持时尚。例如，其中一个选项是给他配上心形眼睛，非常适合情人节。如果您拥有旧版本，您可以以 29.98 美元的价格购买新眼罩套件，这意味着 Skelly 现在是模块化的。Home Depot 还将出售限量版“伺服 Skelly”，由电机驱动。它的价格为 379 美元，而基本型号的价格为 299 美元，并且仅在线提供。
- 
-
-图片：Home Depot
-看着 Skelly 的眼睛。
-
-
-LED 和伺服电机在其余产品线中随处可见，Home Depot 似乎正试图通过纯粹的过度来超越自己。这里有 12 英尺高、看起来像漂浮的动画死神、6.5 英尺高的掘墓人和 7 英尺高的海盗，他们的眼睛由伺服控制，四处乱转，还有一只会向毫无戒心的讨糖果者咆哮的狼。家得宝还扩大了其授权业务，推出了 3.5 英尺高的恰奇娃娃，它可以带着恰到好处的疯狂笑容，还有 7 英尺高的弗兰肯斯坦怪物，以环球影业的版本为原型。
-完整系列包含的内容远不止我提到的这些，您可以查看更多详细信息 就在这里。 Home Depot 表示，这些产品将在劳动节前上架，但“许多”产品将于 7 月 18 日一大早开始在线销售。（预计美国东部时间上午 5 点至 6 点左右开始销售。）
-
-至少，这一系列产品是每个行业如何热销的一个例子。这家出售锤子和 4x4 木板的大型商店现在因万圣节而闻名，这全都归功于一具巨大的骷髅，它成为了文化的试金石，以至于 Home Depot 全力投入到这个节日中。今年的阵容不仅规模庞大，而且通过在线演示和在纽约沉睡谷村举行的现场活动向媒体揭晓。像大多数续集一样，目标似乎是越大越好——尽管很难超越一个大骨架的迷人简洁性。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/17/24199821/home-depot-halloween-2024-skelly-skeleton</guid>
-      <pubDate>Wed, 17 Jul 2024 14:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能家居设备 Prime Day 最佳优惠</title>
-      <link>https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs</link>
+      <title>您仍然可以获得的最佳 Prime Day 技术优惠</title>
+      <link>https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/16/24199019/amazon-prime-day-best-smart-home-deals-robot-vacuums-video-doorbells-smart-bulbs</guid>
-      <pubDate>Wed, 17 Jul 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/24200040/amazon-prime-day-best-tech-deals-gadgets-2024</guid>
+      <pubDate>Wed, 17 Jul 2024 16:35:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
