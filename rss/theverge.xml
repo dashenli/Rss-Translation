@@ -4,7 +4,32 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Jul 2024 09:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 12:31:21 GMT</lastBuildDate>
+    <item>
+      <title>Meta 不会在欧盟发布其多模式 Llama AI 模型</title>
+      <link>https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations</link>
+      <description><![CDATA[
+
+Nick Barclay / The Verge 插图
+
+Meta 表示，由于监管方面的担忧，它不会在欧盟推出即将推出的多模式 AI 模型（能够处理视频、音频、图像和文本）。尽管该模型是在开放许可下发布的，但该决定将阻止欧洲公司使用多式联运模型。
+“我们将在未来几个月内发布多式联运 Llama 模型，但由于欧洲监管环境的不可预测性，我们不会在欧盟发布，”Meta 发言人 Kate McLaughlin 对 The Verge 表示。
+就在上周，欧盟根据其严格的新《人工智能法案》最终确定了人工智能公司的合规期限。在欧盟运营的科技公司通常必须在 2026 年 8 月之前遵守有关版权、透明度和预测性警务等人工智能使用的规定。
+Meta 的决定是在苹果采取类似举措之后做出的，苹果最近表示，由于对Apple Intelligence推出的担忧，它可能会将欧盟排除在其数字市场法案。Meta 还停止了在欧盟发布其 AI 助手的计划，并且暂停了其在巴西的生成 AI 工具——这两项举措均是因为人们对数据保护合规性提出了担忧。 
+据报道，Meta 的 Llama 3 模型的纯文本版本仍将在欧盟推出
+Meta 表示，其多模式 AI 模型将用于Meta Ray-Ban 智能眼镜等产品中。 据 Axios 报道，Meta 被欧盟拒绝的现象还将延续到未来的多模态 AI 模型发布，但不包括更大的纯文本版本的 Llama 3 模型，Meta 表示 将 为欧盟客户提供该模型。
+这仍然让欧盟以外希望提供使用这些模型的产品和服务的公司陷入困境，因为他们将被禁止在世界上最大的经济市场之一提供这些产品和服务。
+截至本文撰写时，欧盟尚未对 Meta 的决定发表评论。苹果公司可能限制其人工智能部署的决定遭到欧盟竞争事务专员玛格丽特·维斯塔格（Margrethe Vestager）的严厉批评。]]></description>
+      <guid>https://www.theverge.com/2024/7/18/24201041/meta-multimodal-llama-ai-model-launch-eu-regulations</guid>
+      <pubDate>Thu, 18 Jul 2024 12:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flintlock 几乎可以成为适合新手的优秀《黑暗之魂》</title>
+      <link>https://www.theverge.com/24200542/flintlock-the-siege-of-dawn-review-ps5-xbox-steam</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24200542/flintlock-the-siege-of-dawn-review-ps5-xbox-steam</guid>
+      <pubDate>Thu, 18 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Lilium 与沙特阿拉伯达成最多 100 架 eVTOL 飞机的销售协议</title>
       <link>https://www.theverge.com/2024/7/18/24200657/lilium-saudia-airlines-deal-evtol-sales</link>
@@ -115,20 +140,6 @@ Moment 的 iPhone 手机壳一直很受欢迎，其兼容 MagSafe 的 iPhone 15 
 7 月 17 日更新：更新定价 并增加了几项新优惠，包括针对 Google Pixel 8 Pro、三星 Galaxy S24 和 OnePlus Open 的优惠。]]></description>
       <guid>https://www.theverge.com/24199272/amazon-prime-day-phone-deals-accessories-2024</guid>
       <pubDate>Thu, 18 Jul 2024 00:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>仍有 100 美元或以下优惠的最佳 Prime Day 优惠</title>
-      <link>https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24196835/amazon-prime-day-cheap-tech-best-deals-under-100</guid>
-      <pubDate>Thu, 18 Jul 2024 00:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是我们在亚马逊 Prime Day 上找到的笔记本电脑最佳优惠</title>
-      <link>https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/16/24199021/amazon-prime-day-laptop-deals-chromebook</guid>
-      <pubDate>Wed, 17 Jul 2024 23:23:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
