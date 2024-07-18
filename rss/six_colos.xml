@@ -4,7 +4,17 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 17 Jul 2024 21:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 01:02:20 GMT</lastBuildDate>
+    <item>
+      <title>阴天转 10 ↦</title>
+      <link>https://sixcolors.com/link/2024/07/overcast-turns-10/</link>
+      <description><![CDATA[
+我过去十年选择的播客播放器刚刚庆祝了它的 10 周年纪念日。以下是 Overcast 的唯一所有者 Marco Arment：
+
+今天，在 Overcast 1.0十周年之际，我很高兴推出对 iOS 应用程序大部分内容的完全重写和重新设计，旨在将 Overcast 带入下一个十年——甚至更远。…]]></description>
+      <guid>https://sixcolors.com/link/2024/07/overcast-turns-10/</guid>
+      <pubDate>Wed, 17 Jul 2024 22:13:32 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 563：好奇心</title>
       <link>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</link>
@@ -22,7 +32,7 @@
     <item>
       <title>苹果的人工智能计划可能会将权力重新交到用户手中（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2400818</link>
-      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况并非如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
+      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况不再如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
       <guid>https://www.macworld.com/article/2400818</guid>
       <pubDate>Wed, 17 Jul 2024 16:00:09 GMT</pubDate>
     </item>
@@ -81,7 +91,7 @@
       <link>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</link>
       <description><![CDATA[除了这是绝对最佳的技术疯狂之外，我不知道该说什么。
 
-这意味着在我的下一次飞行中，我可以通过我的飞行里程帐户完全访问互联网。…]]></description>
+这意味着在我的下一次飞行中，我可以通过我的飞行里程账户完全访问互联网。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</guid>
       <pubDate>Thu, 11 Jul 2024 10:49:00 GMT</pubDate>
     </item>
@@ -105,15 +115,6 @@
       <description><![CDATA[在今年的全球开发者大会上，苹果公司对其主要平台给予了些许关注：iOS、iPadOS、macOS、watchOS——甚至 tvOS 也受到了一些关注。但有一款设备却缺席了：HomePod。…]]></description>
       <guid>https://www.macworld.com/article/2390634/apples-real-siri-bet-is-a-homepod-with-a-screen.html</guid>
       <pubDate>Wed, 10 Jul 2024 12:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果不再担任 OpenAI 董事会席位 ↦</title>
-      <link>https://sixcolors.com/link/2024/07/apple-no-longer-taking-openai-board-seat/</link>
-      <description><![CDATA[Camilla Hodgson 和 George Hammond 在《金融时报》（付费版）撰文：
-
-据一位知情人士透露，作为将 ChatGPT 集成到 iPhone 制造商设备中的协议的一部分，苹果原本有望在 OpenAI 董事会中扮演观察员的角色，但苹果不会这样做。…]]></description>
-      <guid>https://sixcolors.com/link/2024/07/apple-no-longer-taking-openai-board-seat/</guid>
-      <pubDate>Wed, 10 Jul 2024 10:46:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
