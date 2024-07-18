@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 15:18:41 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Three.js 中的着色器在滚动时创建扭曲和颗粒效果</title>
+      <link>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</link>
+      <description><![CDATA[了解如何使用 Three.js 着色器在滚动时创建扭曲和颗粒效果，并将 HTML 图像与 WebGL 同步。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</guid>
+      <pubDate>Thu, 18 Jul 2024 12:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Three.js 着色语言创建液体光线行进场景</title>
       <link>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Lummi：永远告别枯燥无味的照片</title>
       <link>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</link>
-      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像来增强创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
+      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像增强了创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</guid>
       <pubDate>Thu, 04 Jul 2024 12:27:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[htmx 2.0.0 * The Okay Dev（测试版）* 了解 SPF、DKIM 和 DMARC]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-852/</guid>
       <pubDate>Tue, 02 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#851</title>
-      <link>https://tympanus.net/codrops/collective/collective-851/</link>
-      <description><![CDATA[CSS 中的内联条件？* 遮罩图像非常方便 * Omnivore]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-851/</guid>
-      <pubDate>Fri, 28 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
