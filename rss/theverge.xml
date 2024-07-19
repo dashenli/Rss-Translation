@@ -4,7 +4,157 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:16:04 GMT</lastBuildDate>
+    <item>
+      <title>星巴克移动订购服务遭遇 CrowdStrike BSOD 中断</title>
+      <link>https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage</link>
+      <description><![CDATA[
+
+照片由 Jakub Porzycki / NurPhoto via Getty Images 拍摄
+
+看，在这场给航空公司、银行、超市、电视台和无数企业带来严重影响的全球性停电事件中，无法用智能手机从星巴克订购一杯 Trenta 冰咖啡只是一点小麻烦。但是，您可以将公司的移动订购系统添加到此 CrowdStrike BSOD 情况的受害者名单中。
+
+
+我现在受到了个人影响，因为我不得不口头订购星巴克拿铁并排队。我有权获得赔偿吗？ pic.twitter.com/ClVO81mIyK— Sherrod DeGrippo (@sherrod_im) 2024 年 7 月 19 日
+
+
+
+
+星巴克关门了。 pic.twitter.com/bsFwSgx155— NoneShallPass (@bfrahm73) 2024 年 7 月 19 日
+
+
+星巴克应用程序本身正在运行，但目前所有地点都无法提前订购。看起来有些星巴克门店已经（暂时）完全关闭，以避免在情况好转之前处理这种技术麻烦。 
+
+
+图片：@itsataries (Twitter)
+是的，这会减少早高峰。
+
+不管怎样，截至发稿时，Dunkin 的移动订购系统似乎运行顺畅。 CrowdStrike 已经 部署了修复程序，以解决今天在全球范围内引起麻烦的漏洞，该公司的首席执行官 发表了道歉。 
+恐怕今天您就得在没有星巴克星积分的情况下生活了。把不便当作动力。拿出那台在厨房橱柜里积满灰尘的冷泡咖啡机——或者支持当地的咖啡店，也许。我们会渡过难关的。]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage</guid>
+      <pubDate>Fri, 19 Jul 2024 14:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 是什么？发生了什么？</title>
+      <link>https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+周五早上，一些最大的航空公司、电视广播公司、银行和其他基本服务陷入停顿，因为大规模中断席卷全球。此次中断导致全球大量 Windows 机器出现蓝屏死机，而这只与一家软件公司有关：CrowdStrike。
+CrowdStrike 在帮助公司发现和预防安全漏洞方面发挥着重要作用，自称拥有“最快的平均时间”来检测威胁。自 2011 年成立以来，这家总部位于德克萨斯州的公司一直在协助调查重大网络攻击，例如 2014 年索尼影业黑客攻击事件，以及 2015 年和 2016 年俄罗斯对民主党全国委员会的网络攻击。截至周四晚上，CrowdStrike 的估值已超过 830 亿美元。
+
+它根据 CrowdStrike 网站 的数据，该公司还拥有约 29,000 名客户，其中 500 多家跻身财富 1000 强。
+但正是这种受欢迎程度，让它在出现问题时处于造成严重破坏的地位，今天早上，使用 CrowdStrike 和基于 Windows 的硬件的系统大量脱机。CrowdStrike 首席执行官乔治·库尔茨 (George Kurtz) 周五表示，该公司“正在积极与受 Windows 主机单个内容更新中发现的缺陷影响的客户合作”，同时强调该问题与网络攻击无关。它也不会影响 Mac 或 Linux 机器。
+7 月 19 日的中断与 CrowdStrike 的旗舰 Falcon 平台有关，该平台是一种基于云的解决方案，将多种安全解决方案整合到一个中心，包括防病毒功能、端点保护、威胁检测和实时监控，以防止未经授权访问公司的系统。
+有问题的更新似乎在核心 Windows 操作系统上安装了有缺陷的软件，导致系统陷入启动循环。系统显示一条错误消息，提示“Windows 似乎未正确加载”，同时让用户选择尝试故障排除方法或重新启动 PC。许多公司，包括这家印度航空公司，都采用了传统的手工操作方式。
+
+“我们的软件高度互联且相互依赖，”独立网络安全研究员、顾问兼《网络安全哲学》一书作者 Lukasz Olejnik 告诉The Verge。“但总的来说，存在大量单点故障，尤其是当组织中存在软件单一文化时。”
+尽管 CrowdStrike 已经部署了修复程序，但让一切正常运行并非易事。 Olejnik 告诉 The Verge，这个问题可能需要“几天甚至几周”才能解决，因为 IT 管理员可能必须对设备进行物理访问才能让它们重新工作。恢复速度取决于公司 IT 团队的规模和资源。“某些特定情况下的系统可能无法恢复，但我认为大多数系统都会恢复，”Olejnik 补充道。]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod</guid>
+      <pubDate>Fri, 19 Jul 2024 14:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>哎呀，特朗普和 X 侵犯了版权</title>
+      <link>https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+周四共和党全国代表大会第四天也是最后一晚，标有“特朗普团队推广”字样的“特朗普2024”横幅出现在X（前身为推特）的“最新动态”摘要上方。
+虽然#Trump2024 标签暂时显示了美国旗帜，点击它会产生动画“hashfetti”效果，旗帜如雨点般落下，正是附在#MAGA 热门话题上的图标吸引了我们的眼球。
+ 
+
+图片：X.com
+附在 #MAGA 上的特朗普“hashmoji”。
+
+
+它暂时展示了一张现已闻名的图片的低分辨率版本，图片显示特朗普在上周末的竞选活动中遭遇暗杀企图后，举起拳头，被特勤局特工扶起来。然而，从那个角度拍摄的照片看起来就像美联社及其摄影师 Evan Vucci 所拥有的照片。。
+当被问及哈希标记时，美联社通讯副总裁 Lauren Easton 回应说：“这不是我们照片的授权使用”，照片“仅供编辑使用”。
+“美联社为 Evan Vucci 的照片感到自豪，并认识到其影响力。此外，我们保留对这张有力图片的权利，”Easton 本周早些时候写道，以回应其未经许可在 T 恤、咖啡杯和其他物品上使用。
+
+
+屏幕截图：X.com
+“Hashfetti。”
+
+在回应The Verge的询问时，有人通过 X 出版社的电子邮件账户回复，但没有附上姓名，称 hashmoji 和 hashfetti 动画是“可商业化的产品”。根据X 商业博客上的一篇文章，自去年在 Louis Vuitton 的广告活动中首次亮相以来，这种动画效果已被 30 多个品牌使用。
+该账户没有回答有关AP是否已授权其图像用于此用途或确认此市售产品的购买者的问题。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji</guid>
+      <pubDate>Fri, 19 Jul 2024 13:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 和 Microsoft：有关全球 IT 中断的所有最新消息</title>
+      <link>https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking</link>
+      <description><![CDATA[
+
+图片：Microsoft
+
+全球 IT 中断导致航班停飞，并导致周五凌晨伦敦证券交易所和其他系统中断。 从医疗保健到银行、航空旅行等行业都在努力应对影响 Microsoft Windows 的全球 IT 中断周五凌晨，个人电脑和服务器连接到 CrowdStrike 安全平台——这可能需要一段时间才能完全解决。
+总部位于美国的网络安全公司 CrowdStrike 周五表示，错误的更新是罪魁祸首，而不是“安全事件或网络攻击”，根据首席执行官乔治·库尔茨在 X 上的帖子。银行、航空公司、电视广播公司和超市的系统突然重启，显示蓝屏死机 (BSOD) 错误，可能需要重新启动进入安全模式才能修复。
+数千个航班被延误或取消，一些企业现在正慢慢开始恢复运营。库尔茨告诉 NBC 新闻，系统恢复“可能还需要一段时间”。]]></description>
+      <guid>https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking</guid>
+      <pubDate>Fri, 19 Jul 2024 13:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT 管理员如何解决 Windows 蓝屏死机问题</title>
+      <link>https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix</guid>
+      <pubDate>Fri, 19 Jul 2024 13:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Quest 头显的发布日期已经确定</title>
+      <link>https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets</link>
+      <description><![CDATA[
+
+报道中没有提到 Ventura，据传这是一款价格更实惠的耳机，预计于 2024 年推出。 |照片由 Becca Farsace / The Verge 拍摄
+
+尽管最近Reality Labs 部门裁员，但 Meta 仍在全力推进 2026 年推出 Quest 4 和 2027 年推出更高端耳机的计划，The Information报道。
+虽然该报告没有透露太多有关硬件的信息，但这是我们第一次听说这些设备的具体时间表。据称，Quest 4 将有标准版和高级版，内部称为“Pismo Low”和“Pismo High”。与此同时，代号为“La Jolla”的高端版本将于 2027 年推出，旨在与 Apple Vision Pro 竞争。报告中未提及 Ventura，这是一款更实惠的耳机，The Verge 之前报道可能会在今年晚些时候推出。
+
+除了 Quest 耳机外，Meta 预计还将推出一款带有真正显示屏的 AR 眼镜。然而，The Information 报告指出，人们对这些眼镜存在一些疑问。与目前的 Ray-Ban Meta 智能眼镜 不同，据报道，这副眼镜的重量将达到 70 克，由于显示屏的原因，其设计“笨重”。报告指出，这种笨重意味着它们可能不会带有 Ray-Ban 品牌。据称，Ray-Ban 的母公司 EssilorLuxottica 并不是该品牌的粉丝。
+如果属实，那么笨重设计的问题也就不足为奇了。大多数带显示屏的 AR 眼镜都面临着同样的问题。目前，将显示屏缩小到可以舒适佩戴的尺寸，同时保持最低限度的电池寿命和电量是一项挑战。因此，大多数尝试推出 AR 眼镜的公司都把时尚抛在了一边——而时尚本身已经成为阻碍消费者采用的一大障碍。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets</guid>
+      <pubDate>Fri, 19 Jul 2024 13:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>小工具越来越奇怪了——iPhone 主屏幕也一样</title>
+      <link>https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast</guid>
+      <pubDate>Fri, 19 Jul 2024 13:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球重大 IT 故障导致数千架航班暂时停飞</title>
+      <link>https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage</guid>
+      <pubDate>Fri, 19 Jul 2024 13:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星因质量问题暂停 Galaxy Buds 3 Pro 发货</title>
+      <link>https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues</link>
+      <description><![CDATA[
+
+照片由 Chris Welch / The Verge 拍摄
+
+由于收到有关质量控制的投诉，三星已暂时停止向零售商发货其新款 Galaxy Buds 3 Pro。在 7 月 24 日全面发布之前收到无线耳机的早期客户报告说，耳塞很脆弱，取下时容易断裂。
+在给 Android Authority 的一份声明中，三星证实了暂停发货的消息，声明中三星表示已“暂时停止向分销渠道交付 Galaxy Buds 3 Pro 设备”，以便在产品交付给客户之前进行质量控制评估。该公司表示：“对于由此造成的任何不便，我们深表歉意”，并指示已经收到耳机的客户联系三星支持或访问最近的三星服务中心。
+
+
+GIF：Zuyoni Tech
+
+在三星推迟发布之前，Zuyoni TechYouTube 频道也遇到了这个问题发货量。
+
+
+亚马逊在官方确认之前撤下了 Galaxy Buds 3 Pro 的列表，而三星在其自己的网站上将发布日期推迟到 8 月 28 日。三星还已向其韩国国内市场发布了一份声明，该公司对产品质量控制问题表示道歉。
+从三星更新的网络列表中，我们可以推断订单将于 8 月底开始发货，但 Android Authority 发布的一封客户电子邮件为客户提供了取消订单的机会。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues</guid>
+      <pubDate>Fri, 19 Jul 2024 12:56:48 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌将于下个月清理“低质量”安卓应用程序</title>
       <link>https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps</link>
@@ -14,162 +164,9 @@ Google 正在打击功能无用的 Android 应用。 | 插图由 Alex Castro / T
 
 Google 正在提高对 Android 应用的最低质量要求，并将很快从 Play Store 中删除那些不符合预期的应用。根据该公司最新垃圾邮件政策更新，自 8 月 31 日起，那些“功能和内容有限”的应用（例如纯文本应用、单一壁纸应用或设计为什么都不做的应用）将不再允许在 Play Store 上架。
 这些限制与现有的限制相结合，禁止无响应、无法安装、崩溃或以其他方式运行异常的损坏应用。 Google 表示，它已添加额外要求以“确保应用能够满足 Play 目录的提升标准，并通过优质功能吸引用户。”
-Google 此前曾努力更好地监管其 Play Store 上托管的应用。据 Android Authority 指出，2023 年，有多达 228 万个应用因违反政策和危及用户安全而被屏蔽。谷歌还表示，同年已封禁了 33.3 万个“不良”Google Play 账户，原因是这些账户屡次严重违反政策，且存在欺诈和恶意软件问题。]]></description>
+Google 此前曾努力更好地监管其 Play Store 上托管的应用。据 Android Authority 指出，2023 年，有多达 228 万个应用因违反政策和危及用户安全而被禁用。谷歌还表示，同年已禁止 33.3 万个“不良”Google Play 账户，原因是这些账户屡次严重违反政策，且存在欺诈和恶意软件问题。]]></description>
       <guid>https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps</guid>
       <pubDate>Fri, 19 Jul 2024 11:26:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的缩短链接将于明年停止使用</title>
-      <link>https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-如果您在 2019 年关闭之前使用过 Google 的 URL 缩短服务 goo.gl，请注意 - 这些链接将于 2025 年 8 月 25 日停止工作。Google 在一篇博文中宣布，“是时候关闭 Google URL Shortener 的服务部分了”，并且明年任何 https://goo.gl/* 格式的链接都将响应 404 错误。
-在关闭之前，goo.gl 链接将于 2024 年 8 月 23 日开始显示一个插页，通知用户“此链接在不久的将来将不再有效”。此消息最初将出现在“现有链接的百分比”中，随着截止日期的临近，该百分比将会增加。然而，Google 鼓励开发人员尽快更新受影响的链接，因为此插页可能会导致链接重定向中断。
-
-
-图片：Google
-这是 8 月 23 日之后开始在 goo.gl 链接上弹出的插页。
-
-当Google 宣布2018 年，该公司宣布关闭 goo.gl，并鼓励开发者迁移到 Firebase 动态链接 (FDL)，而该功能此后也已弃用。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201734/google-url-link-shortening-service-shut-down-support</guid>
-      <pubDate>Fri, 19 Jul 2024 09:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows BSOD 严重问题导致银行、航空公司和广播公司下线</title>
-      <link>https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue</guid>
-      <pubDate>Fri, 19 Jul 2024 07:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 批评微软 Xbox Game Pass 标准版“降级”并涨价</title>
-      <link>https://www.theverge.com/2024/7/18/24201576/ftc-microsoft-xbox-game-pass-price-increases-standard-tier</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-美国联邦贸易委员会 (FTC) 严厉批评微软提高 Xbox Game Pass 价格 在向美国第九巡回上诉法院提交的文件中。微软上周透露，它正在提高 PC Game Pass 和 Xbox Game Pass Ultimate 的价格，并计划很快推出新的 Game Pass Standard 层，但第一天无法访问第一方 Xbox 游戏。
-FTC 称这个新的 Game Pass Standard 层是“降级产品”，因为新的 Game Pass 用户将无法注册 10.99 美元的 Game Pass for Console，其中包括第一天的游戏访问权限。相反，Xbox Game Pass Standard 的定价为 14.99 美元，不包括首日游戏，但将包括在线多人游戏。
-“微软的价格上涨和产品降级——加上微软通过裁员减少对产出和产品质量的投资——是一家公司在合并后行使市场力量的标志，”FTC 在今天的一份文件中表示。“产品降级——从微软的新服务中删除最有价值的游戏——再加上现有用户的价格上涨，正是 FTC 所指控的合并对消费者造成的伤害。”
-该文件是 FTC 对地方法院去年决定不阻止微软收购 Activision Blizzard 提起的上诉的一部分。微软于 10 月完成了其687 亿美元的交易，但第九巡回上诉法院仍未对联邦贸易委员会的上诉作出裁决。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201576/ftc-microsoft-xbox-game-pass-price-increases-standard-tier</guid>
-      <pubDate>Thu, 18 Jul 2024 23:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox Live 在严重中断后恢复</title>
-      <link>https://www.theverge.com/2024/7/18/24201568/xbox-live-down-outage-account-sign-in-error</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Xbox Live 大面积中断持续数小时的问题现已解决。该问题导致玩家无法登录其帐户并下载或玩在线游戏。 “用户应该能够再次登录、匹配和完成购买，”Xbox 支持于美国东部时间晚上 11:24 在 X 上表示。“感谢您的支持！”
-Xbox 早些时候在其状态页面上确认了“重大”Xbox Live 中断，截至美国东部时间下午 6:57，警告玩家他们可能会遇到登录用户资料或断开连接的问题。美国东部时间晚上 8:20，Xbox 还表示中断正在影响 Xbox 商店和订阅。根据状态消息，“您可能无法立即购买游戏。”
-对于可以在游戏机上登录其帐户的玩家，在线连接的游戏无法连接并显示自己的 Xbox 登录错误，而其他人则报告了远程播放等功能的问题。
-微软还在处理其他几起看似无关的中断。截至美国东部时间周四下午 5:56，该公司报告了“美国中部地区的多项 Azure 服务”存在问题。截至周五早上，数千台 Windows 计算机还遇到了蓝屏死机 (BSOD) 问题，导致全球一些银行、航空公司和广播公司下线。
-
-
-用户应该能够再次登录、匹配和完成购买。感谢您的支持！ https://t.co/KMrDd3Bkpw— Xbox 支持 (@XboxSupport) 2024 年 7 月 19 日
-
-
-此次中断是本月早些时候发生的另一起中断事件，导致用户无法玩在线游戏并持续了数小时。 
-7 月 19 日更新：添加了有关解决方案和其他 Microsoft 中断的详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201568/xbox-live-down-outage-account-sign-in-error</guid>
-      <pubDate>Thu, 18 Jul 2024 23:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌双子座人工智能将全面覆盖巴黎奥运会转播</title>
-      <link>https://www.theverge.com/2024/7/18/24201440/google-paris-2024-olympic-games-ai-gemini-ads-sponsor</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-谷歌已经为自己赢得了“美国队官方人工智能赞助商”的称号，当 2024 年奥运会转播于 7 月 26 日开始时，你会经常想起这一点。 NBCUniversal 与 Google 的合作将使该公司的许多 AI 功能在活动期间成为焦点。
-直播将包括 Google 地图对凡尔赛宫、罗兰加洛斯球场和水上运动中心等场馆的 3D 视图，以及每个地点将举办哪些活动的花絮。这些图像取自过去几年添加到地图中的沉浸式视图，这些视图使用照片级逼真的模型来表示某些地标和感兴趣的区域。
-
- 
-
-图片：谷歌
-
-
- 
-
-图片：谷歌
-
-
-
-
-作为推广Gemini 和谷歌的其他人工智能工具，播音员和评论员将通过尝试回答奥运会和残奥会的问题，将谷歌搜索人工智能概览压缩到广播片段中。在这和AI 生成的 Al Michaels 回顾之间，希望一切都比它告诉我们在披萨上加胶水或说我们应该曝光相机中的所有胶卷以解决卡纸问题时更好。
-除此之外，喜剧演员 Leslie Jones 将请 Gemini 帮助她学习一项新运动，以及其他脚本活动，而五名奥运会和残奥会运动员将使用 Gemini 出现在“社交视频和深夜宣传片”中，Google Lens、Circle to Search 和 Google Maps Immersive View 探索巴黎。
-披露：拥有 NBCUniversal 的康卡斯特也是 The Verge母公司 Vox Media 的投资者。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201440/google-paris-2024-olympic-games-ai-gemini-ads-sponsor</guid>
-      <pubDate>Thu, 18 Jul 2024 22:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 希望强制运营商在 60 天内解锁手机</title>
-      <link>https://www.theverge.com/2024/7/18/24201455/fcc-carriers-unlock-cell-phones-jail-calls-e-rate-hotspots-schools</link>
-      <description><![CDATA[
-
-照片由 Tom Williams / CQ-Roll Call, Inc 通过 Getty Images 拍摄
-
-美国联邦通信委员会希望规范消费者解锁手机以便更换运营商所需等待的时间。 
-该机构周四一致投票通过了一项拟议规则制定通知，要求移动服务提供商在激活后 60 天内解锁客户的手机。该提案尚处于早期阶段——拟议规则制定通知在漫长的起草和修订规则过程之前开始了公众评论期——但 FCC 希望它能促进消费者的选择和移动服务提供商之间的竞争。 
-委员们正在征求意见，看看拟议规则是否应适用于现有或未来的服务合同，以及如果二级市场上有更多手机上市，它将如何影响小型移动服务提供商和经销商。
-等待时间和解锁要求因运营商而异，FCC 在一份新闻稿中表示，这给客户带来了困惑。例如，AT&amp;T 表示，如果客户已全额付清手机费用或完成付款计划，则可以在激活手机后的 60 天内解锁手机。Boost Mobile 表示，一旦客户完成手机付款，它就会解锁手机。
-FCC 还在 7 月的公开会议上就其他几项举措进行了投票。其中，投票通过了最终规则，允许学校和图书馆使用联邦 E-Rate 资金向学生、学校工作人员和图书馆用户借出 Wi-Fi 热点。这是主席 Jessica Rosenworcel 通过扩大 E-Rate 计划缩小数字鸿沟的努力的一部分，该计划为学校和图书馆提供互联网和电信服务的折扣。
-该机构还批准了规则，以削减监狱电话费用并禁止某些费用，这些费用会抬高寻求联系亲人的囚犯的费用。例如，监狱中语音通话每分钟的价格上限为 6 美分，而不是 14 美分；中型监狱中语音通话每分钟的价格上限为 7 美分，而不是 21 美分。此外，根据监狱的类型或规模，视频通话费率上限为 11 到 25 美分。]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201455/fcc-carriers-unlock-cell-phones-jail-calls-e-rate-hotspots-schools</guid>
-      <pubDate>Thu, 18 Jul 2024 22:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在消息再次泄露之前发布了 Pixel 9 Pro Fold</title>
-      <link>https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai</link>
-      <description><![CDATA[
-
-图片：谷歌
-
-在发布 Pixel 9 Pro 几小时后，谷歌就展示了 Pixel 9 Pro Fold 附有简短的 Gemini 预告视频。与 Pixel 手机的标准配置一样，这些设备已在互联网上泄露，但至少现在我们可以结束对 Google 下一款可折叠 Android 手机的外观或名称的猜测。
-Google 的预告视频清楚地展示了后置摄像头模块的双层镜头以及外部屏幕和铰链。 
-
-
-
-
-
-
-图片：Google
-Pixel 9 Pro Fold
-
-要确认第一款 Fold 的升级的其他规格和详细信息，我们可能需要等待8 月 13 日谷歌的硬件活动。在那里，我们将看到这款手机、9 Pro、Pixel Watch 3 以及其他剩余产品。
-您可以从 Google 的在线商店 注册以获取有关 Pixel 9 系列的信息 - 今天早些时候的页面仅展示了 Pro，但现在也有了 Pro Fold。]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201491/google-pixel-9-pro-fold-release-date-ai</guid>
-      <pubDate>Thu, 18 Jul 2024 21:17:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>请停止在线购买蝙蝠标本</title>
-      <link>https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24200842/bat-online-sale-study-etsy-ebay-amazon</guid>
-      <pubDate>Thu, 18 Jul 2024 20:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 对广告越来越适应</title>
-      <link>https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-Netflix 在过去几个月中新增了 800 万全球订阅用户，因此这家流媒体服务商将注意力转向了其广告支持计划 — — 这是有充分理由的。根据周四发布的第二季度收益报告结果，在有广告的市场中，经济实惠的套餐目前占所有新注册用户的 45% 以上。
-作为推动订阅者使用其广告计划的努力的一部分，Netflix 于本月初开始逐步淘汰其在加拿大和英国针对现有订阅者提供的最便宜的无商业广告计划。该公司计划接下来在美国和法国停止该计划。 Netflix 还开始测试暂停广告，当您停止观看时，该广告就会出现在您的屏幕上。
-
-“我们的广告收入增长良好，并正在成为我们业务更有意义的贡献者，”收益报告写道。“短期挑战（和中期机遇）是，我们的扩张速度快于我们将不断增长的广告资源货币化的能力。”
-在过去的几个月里，Netflix 增加了《布里奇顿》第三季，这是该平台最大的节目之一。。。它还计划在今年推出一系列直播内容，包括乔·罗根 (Joe Rogan) 喜剧特辑、乔伊·切斯特纳特 (Joey Chestnut) 和小林尊 (Takeru Kobayashi) 之间的热狗大赛、杰克·保罗 (Jake Paul) 与迈克·泰森 (Mike Tyson) 之战，以及现场 NFL 比赛，以及明年即将推出的WWE Monday Night Raw。 Netflix 还将在今年晚些时候推出其新的Squid Game多人游戏，同时推出该节目的第二季。
-从明年开始，Netflix 将从根本上改变其衡量增长的方式。它不会在每个季度末透露增加了多少订阅用户，而只会提供按地区划分的收入明细。Netflix 表示，这一变化“反映了业务的演变”，因为流媒体将注意力转向广告和留住订阅用户。]]></description>
-      <guid>https://www.theverge.com/2024/7/18/24201360/netflix-earnings-q2-2024-ads-advertising</guid>
-      <pubDate>Thu, 18 Jul 2024 20:27:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
