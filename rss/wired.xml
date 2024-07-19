@@ -4,7 +4,14 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 19 Jul 2024 06:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:15:18 GMT</lastBuildDate>
+    <item>
+      <title>与 CrowdStrike 相关的大规模 Microsoft 中断导致全球各地的计算机瘫痪</title>
+      <link>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
+      <description><![CDATA[网络安全公司 Crowdstrike 的软件更新似乎无意中破坏了全球 IT 系统。]]></description>
+      <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Hulu 上最佳 31 部电影（2024 年 7 月）</title>
       <link>https://www.wired.com/story/best-movies-hulu-right-now/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用 Privacy、Revolut 甚至您当前银行的虚拟卡服务来保密您的真实信用卡详细信息。]]></description>
       <guid>https://www.wired.com/story/how-to-shop-with-virtual-credit-cards/</guid>
       <pubDate>Thu, 18 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify，别再试图成为社交媒体应用了</title>
-      <link>https://www.wired.com/story/spotify-podcast-comments-social-media/</link>
-      <description><![CDATA[音乐流媒体服务在播客下添加了评论功能。它到底是为谁准备的？]]></description>
-      <guid>https://www.wired.com/story/spotify-podcast-comments-social-media/</guid>
-      <pubDate>Thu, 18 Jul 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
