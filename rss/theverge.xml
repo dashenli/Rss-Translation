@@ -4,169 +4,142 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 15:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:19:24 GMT</lastBuildDate>
     <item>
-      <title>星巴克移动订购服务遭遇 CrowdStrike BSOD 中断</title>
-      <link>https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage</link>
-      <description><![CDATA[
-
-照片由 Jakub Porzycki / NurPhoto via Getty Images 拍摄
-
-看，在这场给航空公司、银行、超市、电视台和无数企业带来严重影响的全球性停电事件中，无法用智能手机从星巴克订购一杯 Trenta 冰咖啡只是一点小麻烦。但是，您可以将公司的移动订购系统添加到此 CrowdStrike BSOD 情况的受害者名单中。
-
-
-我现在受到了个人影响，因为我不得不口头订购星巴克拿铁并排队。我有权获得赔偿吗？ pic.twitter.com/ClVO81mIyK— Sherrod DeGrippo (@sherrod_im) 2024 年 7 月 19 日
-
-
-
-
-星巴克关门了。 pic.twitter.com/bsFwSgx155— NoneShallPass (@bfrahm73) 2024 年 7 月 19 日
-
-
-星巴克应用程序本身正在运行，但目前所有地点都无法提前订购。看起来有些星巴克门店已经（暂时）完全关闭，以避免在情况好转之前处理这种技术麻烦。 
-
-
-图片：@itsataries (Twitter)
-是的，这会减少早高峰。
-
-不管怎样，截至发稿时，Dunkin 的移动订购系统似乎运行顺畅。 CrowdStrike 已经 部署了修复程序，以解决今天在全球范围内引起麻烦的漏洞，该公司的首席执行官 发表了道歉。 
-恐怕今天您就得在没有星巴克星积分的情况下生活了。把不便当作动力。拿出那台在厨房橱柜里积满灰尘的冷泡咖啡机——或者支持当地的咖啡店，也许。我们会渡过难关的。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201885/starbucks-mobile-orders-unavailable-crowdstrike-outage</guid>
-      <pubDate>Fri, 19 Jul 2024 14:51:54 GMT</pubDate>
+      <title>看看这个巨大的翻盖手机屏幕</title>
+      <link>https://www.theverge.com/2024/7/19/24201791/xiaomi-mix-fold-4-flip-smartphone-china-water-resistance</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201791/xiaomi-mix-fold-4-flip-smartphone-china-water-resistance</guid>
+      <pubDate>Fri, 19 Jul 2024 17:49:17 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 是什么？发生了什么？</title>
-      <link>https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-周五早上，一些最大的航空公司、电视广播公司、银行和其他基本服务陷入停顿，因为大规模中断席卷全球。此次中断导致全球大量 Windows 机器出现蓝屏死机，而这只与一家软件公司有关：CrowdStrike。
-CrowdStrike 在帮助公司发现和预防安全漏洞方面发挥着重要作用，自称拥有“最快的平均时间”来检测威胁。自 2011 年成立以来，这家总部位于德克萨斯州的公司一直在协助调查重大网络攻击，例如 2014 年索尼影业黑客攻击事件，以及 2015 年和 2016 年俄罗斯对民主党全国委员会的网络攻击。截至周四晚上，CrowdStrike 的估值已超过 830 亿美元。
-
-它根据 CrowdStrike 网站 的数据，该公司还拥有约 29,000 名客户，其中 500 多家跻身财富 1000 强。
-但正是这种受欢迎程度，让它在出现问题时处于造成严重破坏的地位，今天早上，使用 CrowdStrike 和基于 Windows 的硬件的系统大量脱机。CrowdStrike 首席执行官乔治·库尔茨 (George Kurtz) 周五表示，该公司“正在积极与受 Windows 主机单个内容更新中发现的缺陷影响的客户合作”，同时强调该问题与网络攻击无关。它也不会影响 Mac 或 Linux 机器。
-7 月 19 日的中断与 CrowdStrike 的旗舰 Falcon 平台有关，该平台是一种基于云的解决方案，将多种安全解决方案整合到一个中心，包括防病毒功能、端点保护、威胁检测和实时监控，以防止未经授权访问公司的系统。
-有问题的更新似乎在核心 Windows 操作系统上安装了有缺陷的软件，导致系统陷入启动循环。系统显示一条错误消息，提示“Windows 似乎未正确加载”，同时让用户选择尝试故障排除方法或重新启动 PC。许多公司，包括这家印度航空公司，都采用了传统的手工操作方式。
-
-“我们的软件高度互联且相互依赖，”独立网络安全研究员、顾问兼《网络安全哲学》一书作者 Lukasz Olejnik 告诉The Verge。“但总的来说，存在大量单点故障，尤其是当组织中存在软件单一文化时。”
-尽管 CrowdStrike 已经部署了修复程序，但让一切正常运行并非易事。 Olejnik 告诉 The Verge，这个问题可能需要“几天甚至几周”才能解决，因为 IT 管理员可能必须对设备进行物理访问才能让它们重新工作。恢复速度取决于公司 IT 团队的规模和资源。“某些特定情况下的系统可能无法恢复，但我认为大多数系统都会恢复，”Olejnik 补充道。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201864/crowdstrike-outage-explained-microsoft-windows-bsod</guid>
-      <pubDate>Fri, 19 Jul 2024 14:20:02 GMT</pubDate>
+      <title>NetChoice 的裁决已经影响到法院如何考虑社交媒体法律</title>
+      <link>https://www.theverge.com/2024/7/19/24200737/scotus-netchoice-opinion-impact-california-x-bonta</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24200737/scotus-netchoice-opinion-impact-california-x-bonta</guid>
+      <pubDate>Fri, 19 Jul 2024 17:45:33 GMT</pubDate>
     </item>
     <item>
-      <title>哎呀，特朗普和 X 侵犯了版权</title>
-      <link>https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji</link>
+      <title>适合健身的 Beats Fit Pro 已跌至历史最低点</title>
+      <link>https://www.theverge.com/2024/7/19/24201348/apple-beats-fit-pro-earbuds-hbo-max-subscription-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201348/apple-beats-fit-pro-earbuds-hbo-max-subscription-deal-sale</guid>
+      <pubDate>Fri, 19 Jul 2024 17:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的最新模型将阻止“忽略所有先前的指令”漏洞</title>
+      <link>https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201414/openai-chatgpt-gpt-4o-prompt-injection-instruction-hierarchy</guid>
+      <pubDate>Fri, 19 Jul 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何观看年度最大格斗游戏锦标赛 Evo 2024</title>
+      <link>https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch</link>
       <description><![CDATA[
 
-图片：The Verge
+照片：Stephanie Lindgren
 
-周四共和党全国代表大会第四天也是最后一晚，标有“特朗普团队推广”字样的“特朗普2024”横幅出现在X（前身为推特）的“最新动态”摘要上方。
-虽然#Trump2024 标签暂时显示了美国旗帜，点击它会产生动画“hashfetti”效果，旗帜如雨点般落下，正是附在#MAGA 热门话题上的图标吸引了我们的眼球。
- 
-
-图片：X.com
-附在 #MAGA 上的特朗普“hashmoji”。
+Evo 2024 将于 7 月 19 日星期五开始，拉开一个周末的序幕，这是世界上最激烈的格斗游戏比赛之一。今年，将有超过 10,000 名玩家参加一系列游戏，使其成为有史以来规模最大的 Evo，同时也创下了规模最大的电子竞技锦标赛的记录。
+Evo 的规模越来越大，随着锦标赛中最受欢迎的游戏新版本的发布，参与人数不断增加。 《街头霸王 6》 去年在 Evo 上首次亮相，并拥有该系列历史上最多的参赛者。今年，真人快打 1 和铁拳 8 都将首次在 Evo 上亮相。除了这些重量级人物之外，Evo 2024 的其他特色游戏还包括《Guilty Gear Strive》、《Granblue Fantasy Versus: Rising》、《街头霸王 III：3rd Strike》、《拳皇 XV》和《Under Night In-Birth II Sys: Celes》。（听着……我也不明白，但这是一款动漫格斗游戏，这些游戏非常精彩。）
+以下是所有特色游戏及其参与者人数的细分。
 
 
-它暂时展示了一张现已闻名的图片的低分辨率版本，图片显示特朗普在上周末的竞选活动中遭遇暗杀企图后，举起拳头，被特勤局特工扶起来。然而，从那个角度拍摄的照片看起来就像美联社及其摄影师 Evan Vucci 所拥有的照片。。
-当被问及哈希标记时，美联社通讯副总裁 Lauren Easton 回应说：“这不是我们照片的授权使用”，照片“仅供编辑使用”。
-“美联社为 Evan Vucci 的照片感到自豪，并认识到其影响力。此外，我们保留对这张有力图片的权利，”Easton 本周早些时候写道，以回应其未经许可在 T 恤、咖啡杯和其他物品上使用。
+图片：EVO
 
+比赛于太平洋时间上午 10 点/东部时间下午 1 点在 Evo 的七个 Twitch 频道上开始。一些游戏，例如《拳皇 XV》和《真人快打 1》，将于 7 月 20 日星期六举行总决赛，而《街头霸王 6》和《铁拳 8》等大型锦标赛将于周日结束。您可以在此处查看完整的赛事安排。
 
-屏幕截图：X.com
-“Hashfetti。”
+除了精选游戏外，Evo 2024 还将举办社区展示锦标赛，展示那些深受喜爱但不一定像《街头霸王》和《铁拳》等大作那样受欢迎的游戏。有超过 17 场锦标赛，以《骷髅女孩》、《龙珠斗士Z》、《魂能 VI》和《杀手本能》等游戏为特色。虽然这些游戏不会在 Evo 主频道上播出，但您可以查看社区展示观看指南此处，了解何时何地观看这些锦标赛。
+现在是成为格斗游戏迷的最佳时机。Evo 等活动的观众人数众多，声音响亮，动作易于理解——这是《英雄联盟》和《守望先锋 2》等其他电子竞技无法比拟的。即使你对格斗游戏或电子竞技不太感兴趣，Evo 仍然是最值得观看的娱乐活动之一。 
 
-在回应The Verge的询问时，有人通过 X 出版社的电子邮件账户回复，但没有附上姓名，称 hashmoji 和 hashfetti 动画是“可商业化的产品”。根据X 商业博客上的一篇文章，自去年在 Louis Vuitton 的广告活动中首次亮相以来，这种动画效果已被 30 多个品牌使用。
-该账户没有回答有关AP是否已授权其图像用于此用途或确认此市售产品的购买者的问题。
 ]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201567/trump-shooting-ap-photo-copyright-x-twitter-hashmoji</guid>
-      <pubDate>Fri, 19 Jul 2024 13:29:07 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/19/24201924/how-to-watch-evo-2024-schedule-twitch</guid>
+      <pubDate>Fri, 19 Jul 2024 16:48:17 GMT</pubDate>
     </item>
     <item>
       <title>CrowdStrike 和 Microsoft：有关全球 IT 中断的所有最新消息</title>
       <link>https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking</link>
       <description><![CDATA[
 
-图片：Microsoft
+图片：The Verge
 
-全球 IT 中断导致航班停飞，并导致周五凌晨伦敦证券交易所和其他系统中断。 从医疗保健到银行、航空旅行等行业都在努力应对影响 Microsoft Windows 的全球 IT 中断周五凌晨，个人电脑和服务器连接到 CrowdStrike 安全平台——这可能需要一段时间才能完全解决。
-总部位于美国的网络安全公司 CrowdStrike 周五表示，错误的更新是罪魁祸首，而不是“安全事件或网络攻击”，根据首席执行官乔治·库尔茨在 X 上的帖子。银行、航空公司、电视广播公司和超市的系统突然重启，显示蓝屏死机 (BSOD) 错误，可能需要重新启动进入安全模式才能修复。
+周五凌晨，全球 IT 中断导致航班停飞，并导致伦敦证券交易所和其他系统中断。 从医疗保健到银行、航空旅行等行业都在努力应对全球 IT 中断，周五凌晨，连接到 CrowdStrike 安全平台的 Microsoft Windows PC 和服务器受到影响。完全解决这些蓝屏死机 (BSOD) 错误可能需要一段时间，标准修复需要进入安全模式，但微软现在建议重启受 CrowdStrike 故障影响的系统最多 15 次即可让它们恢复正常运行。
+总部位于美国的网络安全公司 CrowdStrike 周五表示，故障更新是罪魁祸首，而不是“安全事件或网络攻击”，根据 首席执行官 George Kurtz 在 X 上发布的帖子。银行、航空公司、电视广播公司、超市，甚至星巴克的系统都因该问题而崩溃。
 数千个航班被延误或取消，一些企业现在正慢慢开始恢复运营。库尔茨告诉 NBC 新闻，系统恢复“可能还需要一段时间”。]]></description>
       <guid>https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking</guid>
-      <pubDate>Fri, 19 Jul 2024 13:28:00 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 15:56:21 GMT</pubDate>
     </item>
     <item>
-      <title>IT 管理员如何解决 Windows 蓝屏死机问题</title>
-      <link>https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix</guid>
-      <pubDate>Fri, 19 Jul 2024 13:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Quest 头显的发布日期已经确定</title>
-      <link>https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets</link>
+      <title>联邦调查局仅用 40 分钟就破解了特朗普集会枪击案凶手的手机</title>
+      <link>https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite</link>
       <description><![CDATA[
 
-报道中没有提到 Ventura，据传这是一款价格更实惠的耳机，预计于 2024 年推出。 |照片由 Becca Farsace / The Verge 拍摄
+图片：Kristen Radtke / The Verge
 
-尽管最近Reality Labs 部门裁员，但 Meta 仍在全力推进 2026 年推出 Quest 4 和 2027 年推出更高端耳机的计划，The Information报道。
-虽然该报告没有透露太多有关硬件的信息，但这是我们第一次听说这些设备的具体时间表。据称，Quest 4 将有标准版和高级版，内部称为“Pismo Low”和“Pismo High”。与此同时，代号为“La Jolla”的高端版本将于 2027 年推出，旨在与 Apple Vision Pro 竞争。报告中未提及 Ventura，这是一款更实惠的耳机，The Verge 之前报道可能会在今年晚些时候推出。
+FBI 使用 。
+FBI 匹兹堡办事处的调查人员首先尝试使用 Cellebrite 工具打开 Thomas Matthew Crooks 的手机，但未能成功。知情人士告诉 Bloomberg，这部手机于周日被送往弗吉尼亚州匡蒂科的 FBI 实验室，特工们在那里打电话给 Cellebrite 的联邦团队。Cellebrite 向 FBI 发送了一个尚未发布的工具，该工具仍在开发中，能够在 40 分钟内解锁 Crooks 的手机。
+The Verge 已联系 Cellebrite 征求意见。 FBI 拒绝置评。
+FBI 能够如此迅速地解锁骗子的手机，体现了近年来移动设备取证工具 (MDTF) 的进步——但调查人员无法使用目前市场上的工具破解手机，这一事实表明操作系统的发展可以迅速使这些工具过时。
+骗子有一部运行 Android 操作系统的较新的三星手机。 404 Media 获得的 Cellebrite 内部文件显示，目前市场上的 Cellebrite 工具无法解锁许多运行 iOS 17.4 或更新版本的手机，以及已关闭的 Google Pixel 6、7 和 8 手机。
+在周三与国会议员的简报会中，FBI 表示，Crooks 搜索了前总统唐纳德·特朗普公开露面的日期，以及据多家媒体报道，Crooks 还查询了芝加哥民主党全国代表大会的日期。据报道，Crooks 还查阅了知名人物，包括 FBI 局长 Christopher Wray 和司法部长 Merrick Garland。
+据媒体报道，FBI 官员还表示，他们发现了一个他们认为属于 Crooks 的 Steam 个人资料，Crooks 在枪击事件发生前发布了一条不祥的警告信息，上面写着：“7 月 13 日将是我的首映式，请关注它的进展。”CNN 后来报道，调查人员现在认为该账户是假的。]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201935/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-cellebrite</guid>
+      <pubDate>Fri, 19 Jul 2024 15:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克·扎克伯格称特朗普的握拳动作是“我一生中见过的最酷的动作之一”</title>
+      <link>https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass</guid>
+      <pubDate>Fri, 19 Jul 2024 15:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 称其新款笔记本电脑芯片可以击败苹果——但仍需证明这一点</title>
+      <link>https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event</guid>
+      <pubDate>Fri, 19 Jul 2024 15:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软关于 CrowdStrike 中断的问题：您是否尝试过将其关闭然后再打开？（15 次）</title>
+      <link>https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc</link>
+      <description><![CDATA[
 
-除了 Quest 耳机外，Meta 预计还将推出一款带有真正显示屏的 AR 眼镜。然而，The Information 报告指出，人们对这些眼镜存在一些疑问。与目前的 Ray-Ban Meta 智能眼镜 不同，据报道，这副眼镜的重量将达到 70 克，由于显示屏的原因，其设计“笨重”。报告指出，这种笨重意味着它们可能不会带有 Ray-Ban 品牌。据称，Ray-Ban 的母公司 EssilorLuxottica 并不是该品牌的粉丝。
-如果属实，那么笨重设计的问题也就不足为奇了。大多数带显示屏的 AR 眼镜都面临着同样的问题。目前，将显示屏缩小到可以舒适佩戴的尺寸，同时保持最低限度的电池寿命和电量是一项挑战。因此，大多数尝试推出 AR 眼镜的公司都把时尚抛在了一边——而时尚本身已经成为阻碍消费者采用的一大障碍。
+图片：Channel 4 / Talkback Thames
+
+您关闭后又重新打开了吗？微软今天呼应了 IT 部门和 The IT Crowd 的这句熟悉的话，将其作为修复有缺陷的 CrowdStrike 更新的推荐方法，该更新今天导致数千台 Windows PC 和服务器瘫痪。
+在 微软 Azure 中断页面的支持说明中，该公司表示，它从客户那里听说多次重启虚拟机和 PC 可能会有所帮助。微软表示：“我们收到客户反馈，可能需要多次重启（报告多达 15 次），但总体反馈是，重启是现阶段有效的故障排除步骤。”
+
+如果重启机器 15 次不起作用，微软建议采用许多IT 管理员今天一直在使用的解决方法，即删除有故障的 CrowdStrike 驱动程序。对于 Microsoft Azure 虚拟机，IT 管理员应该可以更轻松地安装磁盘并尝试删除错误文件，而不必将机器启动到安全模式。
+我们从一些 IT 管理员那里听说重新启动确实可以解决问题。令人惊讶的是，历史上最严重的全球 IT 中断之一只需将其关闭并重新打开即可解决。一个 meme 拯救了一切。
+
+
+注册 Tom Warren 的 Notepad，这是一份每周通讯，揭示了微软在 AI、游戏和计算领域开创性押注背后的秘密和战略。订阅即可将最新内容直接发送到您的收件箱。
+
+
+每月
+$7/月
+将每期 Notepad 直接发送到您的收件箱。第一个月免费。
+开始试用
+
+
+年度
+70 美元/年
+以折扣价获得一年的 Notepad。第一个月免费。
+开始试用
+
+
+捆绑包
+100 美元/person/year
+获取一年的 Notepad 和 Command Line。第一个月免费。 
+同时订阅
+
+
+我们接受信用卡、Apple Pay 和 Google Pay。
+
 ]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201784/meta-quest-4-la-jolla-dates-vr-headsets</guid>
-      <pubDate>Fri, 19 Jul 2024 13:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>小工具越来越奇怪了——iPhone 主屏幕也一样</title>
-      <link>https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast</guid>
-      <pubDate>Fri, 19 Jul 2024 13:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球重大 IT 故障导致数千架航班暂时停飞</title>
-      <link>https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage</guid>
-      <pubDate>Fri, 19 Jul 2024 13:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星因质量问题暂停 Galaxy Buds 3 Pro 发货</title>
-      <link>https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues</link>
-      <description><![CDATA[
-
-照片由 Chris Welch / The Verge 拍摄
-
-由于收到有关质量控制的投诉，三星已暂时停止向零售商发货其新款 Galaxy Buds 3 Pro。在 7 月 24 日全面发布之前收到无线耳机的早期客户报告说，耳塞很脆弱，取下时容易断裂。
-在给 Android Authority 的一份声明中，三星证实了暂停发货的消息，声明中三星表示已“暂时停止向分销渠道交付 Galaxy Buds 3 Pro 设备”，以便在产品交付给客户之前进行质量控制评估。该公司表示：“对于由此造成的任何不便，我们深表歉意”，并指示已经收到耳机的客户联系三星支持或访问最近的三星服务中心。
-
-
-GIF：Zuyoni Tech
-
-在三星推迟发布之前，Zuyoni TechYouTube 频道也遇到了这个问题发货量。
-
-
-亚马逊在官方确认之前撤下了 Galaxy Buds 3 Pro 的列表，而三星在其自己的网站上将发布日期推迟到 8 月 28 日。三星还已向其韩国国内市场发布了一份声明，该公司对产品质量控制问题表示道歉。
-从三星更新的网络列表中，我们可以推断订单将于 8 月底开始发货，但 Android Authority 发布的一封客户电子邮件为客户提供了取消订单的机会。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues</guid>
-      <pubDate>Fri, 19 Jul 2024 12:56:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将于下个月清理“低质量”安卓应用程序</title>
-      <link>https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps</link>
-      <description><![CDATA[
-
-Google 正在打击功能无用的 Android 应用。 | 插图由 Alex Castro / The Verge 提供
-
-Google 正在提高对 Android 应用的最低质量要求，并将很快从 Play Store 中删除那些不符合预期的应用。根据该公司最新垃圾邮件政策更新，自 8 月 31 日起，那些“功能和内容有限”的应用（例如纯文本应用、单一壁纸应用或设计为什么都不做的应用）将不再允许在 Play Store 上架。
-这些限制与现有的限制相结合，禁止无响应、无法安装、崩溃或以其他方式运行异常的损坏应用。 Google 表示，它已添加额外要求以“确保应用能够满足 Play 目录的提升标准，并通过优质功能吸引用户。”
-Google 此前曾努力更好地监管其 Play Store 上托管的应用。据 Android Authority 指出，2023 年，有多达 228 万个应用因违反政策和危及用户安全而被禁用。谷歌还表示，同年已禁止 33.3 万个“不良”Google Play 账户，原因是这些账户屡次严重违反政策，且存在欺诈和恶意软件问题。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24201756/google-play-store-update-purge-low-quality-android-apps</guid>
-      <pubDate>Fri, 19 Jul 2024 11:26:25 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/19/24201927/microsoft-crowdstrike-update-fix-turn-off-on-pc</guid>
+      <pubDate>Fri, 19 Jul 2024 15:34:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

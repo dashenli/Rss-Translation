@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 18 Jul 2024 15:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:21:46 GMT</lastBuildDate>
+    <item>
+      <title>集体#855</title>
+      <link>https://tympanus.net/codrops/collective/collective-855/</link>
+      <description><![CDATA[剪辑路径的魔力 * Framer Motion Theatre * 2024 年文本渲染状态]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-855/</guid>
+      <pubDate>Fri, 19 Jul 2024 17:04:45 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Three.js 中的着色器在滚动时创建扭曲和颗粒效果</title>
       <link>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Lummi：永远告别枯燥无味的照片</title>
       <link>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</link>
-      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像增强了创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
+      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像来增强创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</guid>
       <pubDate>Thu, 04 Jul 2024 12:27:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 WebGL、OGL 和 GLSL 着色器创建有趣的渐进模糊效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</guid>
       <pubDate>Tue, 02 Jul 2024 11:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#852</title>
-      <link>https://tympanus.net/codrops/collective/collective-852/</link>
-      <description><![CDATA[htmx 2.0.0 * The Okay Dev（测试版）* 了解 SPF、DKIM 和 DMARC]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-852/</guid>
-      <pubDate>Tue, 02 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
