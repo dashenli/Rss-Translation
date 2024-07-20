@@ -4,7 +4,64 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 18:18:08 GMT</lastBuildDate>
+    <item>
+      <title>如何更轻松地单手使用手机</title>
+      <link>https://www.theverge.com/24201413/iphone-android-ios-samsung-one-hand-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24201413/iphone-android-ios-samsung-one-hand-how-to</guid>
+      <pubDate>Sat, 20 Jul 2024 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软称 CrowdStrike 的错误更新导致 850 万台 Windows 设备崩溃</title>
+      <link>https://www.theverge.com/2024/7/20/24202527/crowdstrike-microsoft-windows-bsod-outage</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+CrowdStrike 的错误更新导致全球技术灾难，周五影响了 850 万台 Windows 设备，据微软。微软表示，这“不到所有 Windows 计算机的百分之一”，但足以给零售商、银行、航空公司和许多其他行业以及依赖它们的每个人带来问题。
+
+另外，CrowdStrike 周五发布的技术故障进一步解释了发生的事情以及为什么这么多系统同时受到影响。
+CrowdStrike 的故障解释了问题核心的配置文件：
+上面提到的配置文件称为“频道文件”，并且是 Falcon 传感器使用的行为保护机制的一部分。频道文件的更新是传感器操作的正常部分，并且每天发生几次，以响应 CrowdStrike 发现的新策略、技术和程序。这不是一个新的过程；该架构自 Falcon 成立之初就已存在。
+
+CrowdStrike 解释说，该文件不是内核驱动程序，而是负责“Falcon 如何评估 Windows 系统上的命名管道 1 执行”。安全研究员兼 Objective See 创始人 Patrick Wardle 表示，该解释与他和其他人提供的有关崩溃原因的早期分析一致，因为问题文件“C-00000291-“触发了导致操作系统崩溃的逻辑错误”（通过 CSAgent.sys）。” 
+
+
+我不使用 Windows，但这里有一些关于 CrowdStrike 的 CSAgent.sys 崩溃原因的（初始）详细信息故障指令：mov r9d，[r8]R8：未映射地址...取自指针数组（保存在 RAX 中），索引 RDX（0x14 * 0x8）保存无效内存地址@_JohnHammond pic.twitter.com/oqlAVwSlJj— Patrick Wardle (@patrickwardle) 2024 年 7 月 19 日
+
+
+CrowdStrike 博客中的其他摘录进一步解释了问题所在：
+2024 年 7 月 19 日 04:09 UTC，作为正在进行的运营的一部分，CrowdStrike 向 Windows 系统发布了传感器配置更新。传感器配置更新是 Falcon 平台保护机制的持续组成部分。此配置更新触发了逻辑错误，导致受影响的系统崩溃和蓝屏 (BSOD)。
+哪些系统受到影响以及何时受到影响：
+运行适用于 Windows 7.11 及更高版本的 Falcon 传感器的系统，如果在 04:09 UTC 至 05:27 UTC 期间下载了更新的配置，则容易发生系统崩溃。
+Wardle 指出，无论任何旨在阻止此类自动更新的设置如何，CrowdStrike 的渠道文件更新都会被推送到计算机。
+
+
+随着 CrowdStrike 继续与客户和合作伙伴合作解决此事件，我们的团队撰写了有关今天事件的技术概述。随着调查的进展，我们将继续更新我们的调查结果。https://t.co/xIDlV7yKVh— George Kurtz (@George_Kurtz) 2024 年 7 月 20 日
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/20/24202527/crowdstrike-microsoft-windows-bsod-outage</guid>
+      <pubDate>Sat, 20 Jul 2024 17:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以预订任天堂的塞尔达主题“海拉鲁版” Switch Lite</title>
+      <link>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</link>
+      <description><![CDATA[
+
+为了获得这样的遗物，你会与加农多夫对峙 10 次吗？ | 图片：任天堂
+
+现在是成为塞尔达传说粉丝的好时机。一部根据该系列目前正在制作的真人电影，任天堂最近宣布该系列的下一款主线游戏《智慧的回声》将于今年晚些时候在 Nintendo Switch 上推出。
+为了纪念这一时刻，任天堂计划推出“Hyrule Edition” Switch Lite，现已在 Best Buy 开启预购，GameStop，以及 Target 售价为 209.99 美元，将于 9 月 26 日发布。您仍需单独购买Echoes of Wisdom，但特别版游戏机确实包含 12 个月的 Nintendo Switch Online + 扩展包个人订阅（价值 49.99 美元）作为奖励。
+
+游戏机采用金色色调搭配黑色装饰——这是符合海利亚王室的标志性组合。贵族家族的标志性徽章装饰在游戏机的后部，您会在游戏机的右下角看到一个较小的三角力量符号。它与其他 Switch Lite 相比并没有什么太大区别，但考虑到《智慧的回声》是第一款真正以塞尔达公主为主角的《塞尔达传说》游戏，即使你已经拥有任天堂的专用掌上游戏机，这个机会也可能会让你选择它。
+
+与此同时，任天堂的高级订阅套餐提供了在线游戏、基于云的保存，以及玩 Game Boy、Game Boy Advance、NES、SNES、N64 甚至世嘉 Genesis 时代的经典老游戏的能力。其中包括备受赞誉的《塞尔达传说》系列游戏，如《塞尔达传说：时之笛》、《塞尔达传说：梅祖拉的假面》和《塞尔达传说：众神的三角力量》。毋庸置疑，每当您怀旧时，这都是重温游戏根源的绝佳方式。
+ 7 月 20 日更新：已更新，包括指向其他​​零售商的链接，特别是 GameStop 和 Target。Brandon Widder 也为本文做出了贡献。]]></description>
+      <guid>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</guid>
+      <pubDate>Sat, 20 Jul 2024 16:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>Capcom 的《Kunitsu-Gami》将塔防策略与社区组织的核心相结合</title>
       <link>https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom</link>
@@ -78,45 +135,6 @@ Bethesda 工人将成为马里兰州 CWA Local 2108 和德克萨斯州 CWA Local
 路透社去年的一份报告称，联邦调查局在入侵事件发生前六个月就知道了赌场黑客的存在，尽管知道“至少十几名成员”的身份，但该机构仍“努力”阻止他们。]]></description>
       <guid>https://www.theverge.com/2024/7/19/24202142/uk-teen-mgm-hack-arrested-fbi</guid>
       <pubDate>Fri, 19 Jul 2024 20:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否热爱模拟赛车，愿意花费 2,499 美元购买方向盘？</title>
-      <link>https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas</link>
-      <description><![CDATA[
-
-方向盘采用手工制作的碳纤维外壳，坚固而轻便。 |图片：Sim-Lab
-
-Sim-Lab 刚刚发布了一款新的2,499 美元的方向盘，据称这是刘易斯·汉密尔顿驾驶梅赛德斯-AMG 马石油一级方程式车队赛车时使用的方向盘的“尽可能真实”的复制品。这是一款可爱的硬件，但提醒您，真正投入到模拟器中可能会对您的预算造成危险。
-如果这个价格标签让您大吃一惊，那就别费心去买了。您不能只将方向盘插入 PC 并驶上蒙特利尔的模拟街道。它需要连接到轴基上，轴基将方向盘的转动动作和按钮输入转换为赛车游戏，同时还提供力反馈。这些也可能花费您几千美元，而且这款方向盘不包含力反馈。
-
-Sim-Lab 的新方向盘为何如此昂贵？首先，它是梅赛德斯-AMG 马石油一级方程式车队的官方授权，该车队分享了其用于为其价值数百万美元的汽车制造方向盘的计算机辅助设计 (CAD) 数据。 Sim-Lab 的方向盘与赛车非常接近，您无需在明年刘易斯·汉密尔顿转投法拉利车队时取代他成为车队车手。
-
-方向盘主体也是手工制作的碳纤维外壳。这不仅有助于减轻 1,240 克的重量，而且还确保其非常坚固，因此轴距提供的振动和阻力可以精确地传递到游戏玩家的手中。当您以超过 150 英里/小时的速度转向模拟弯道时，它不会吱吱作响和弯曲。
-方向盘上分布着 9 个旋转拨盘、12 个按钮、2 个开关、碳纤维换挡拨片、防静电硅橡胶握把和 25 个可控 RGB LED，可一目了然地提供遥测数据。如果这些数据还不够的话，方向盘中央还配备了一块 4.3 英寸的 LCD 屏幕，其数据布局与梅赛德斯 F1 车手看到的一致。
-对我们大多数人来说，这似乎是一种奢侈的挥霍，但对于努力重现真实 F1 体验的赛车模拟游戏迷来说，唯一似乎缺少的就是赛车工程师 Bono 告诉他们“好了，刘易斯，现在是锤子时间了。”]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24202067/sim-lab-formula-one-racing-gaming-mercedes-amg-petronas</guid>
-      <pubDate>Fri, 19 Jul 2024 20:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crypto 首席执行官因发表支持政治暴力和驱逐出境的帖子而辞职</title>
-      <link>https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24202046/ryan-selkis-messari-steps-down-donald-trump-x</guid>
-      <pubDate>Fri, 19 Jul 2024 20:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 重新设计的 Quest 应用重点关注 Horizo​​n Worlds</title>
-      <link>https://www.theverge.com/2024/7/19/24202090/meta-quest-app-horizon-mobile-app-update</link>
-      <description><![CDATA[
-
-图片：Meta
-
-Meta 正在推出 Quest 移动应用的改进版本，使其与其 3D 社交平台 Horizo​​n Worlds 更加紧密地联系在一起。该应用现名为 Meta Horizo​​n，带有一个新选项卡，可让您通过手机完成任务并自定义头像。 
-您还可以使用该应用探索和加入新世界，以及与 Horizo​​n Worlds 中的朋友联系，该应用于去年 9 月在移动设备和网络上推出。 Meta 表示，此更新不会带走现有应用中的任何功能，您仍然可以使用它来设置 Quest 耳机并浏览 Meta Horizo​​n Store 中的应用库。
-Meta Horizo​​n 应用的另一个小更新是增加了亮模式，让您可以随时轻松地在亮暗之间切换。本月初，Meta 还在移动应用中推出了新的推送，其中包含来自创作者的内容。
-此次更新是 Meta希望扩大 Horizo​​n Worlds 及其对 VR 行业的掌控。今年 4 月，Meta 宣布计划将其头戴式耳机操作系统（名为 Horizo​​n OS）授权给联想和华硕等公司。它还将开始在 Meta Horizo​​n Store 中更突出地展示实验性的 App Lab 游戏，并试图让开发者更轻松地将他们的移动游戏引入 Horizo​​n OS。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24202090/meta-quest-app-horizon-mobile-app-update</guid>
-      <pubDate>Fri, 19 Jul 2024 19:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
