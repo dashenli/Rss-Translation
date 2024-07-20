@@ -4,11 +4,32 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 01:02:58 GMT</lastBuildDate>
+    <item>
+      <title>利用Windows系统故障的“诈骗”已经发生。</title>
+      <link>https://wired.jp/article/crowdstrike-outage-support-scams/</link>
+      <description><![CDATA[据透露，因 CrowdStrike 软件更新导致 Windows 系统故障而出现“协助系统恢复”和“销售修复工具”等诈骗行为。]]></description>
+      <guid>https://wired.jp/article/crowdstrike-outage-support-scams/</guid>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球Windows机器大规模故障，安全软件“缺陷”造成严重破坏</title>
+      <link>https://wired.jp/article/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
+      <description><![CDATA[世界各地的公司和组织的 Windows 机器出现故障，导致大规模的系统故障。据信，安全公司 CrowdStrike 的软件更新中存在缺陷是造成此次停电的原因，此次停电造成了航班取消和医疗设施中断等毁灭性影响。]]></description>
+      <guid>https://wired.jp/article/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
+      <pubDate>Fri, 19 Jul 2024 22:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从主编到SZ会员：“模仿的去未来化”SZ通讯VOL.245</title>
+      <link>https://wired.jp/article/sz-newsletter-vol245/</link>
+      <description><![CDATA[WIRED 首届时尚活动“WIRED Fashion with VOGUE”的灵感源自雷内·吉拉德 (Rene Girard) 的“渴望他人欲望”的模仿理论与一本关于初创公司的经典书籍之间的联系。主编每周通讯。]]></description>
+      <guid>https://wired.jp/article/sz-newsletter-vol245/</guid>
+      <pubDate>Fri, 19 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴黎市长在奥运会前塞纳河游泳的“真正目的”</title>
       <link>https://wired.jp/article/paris-mayor-defies-poo-threats-to-swim-in-seine-and-prove-a-point/</link>
-      <description><![CDATA[奥运会前夕，市长安妮·伊达尔戈在塞纳河进行了游泳活动。市长提出的“让河流可以游泳”的目标并不是游泳比赛的短期目标，而是从根本上净化和恢复河流。]]></description>
+      <description><![CDATA[在即将举办奥运会的巴黎，市长安妮·伊达尔戈在塞纳河里进行了游泳。市长提出的“让河流可以游泳”的目标并不是游泳比赛的短期目标，而是从根本上净化和恢复河流。]]></description>
       <guid>https://wired.jp/article/paris-mayor-defies-poo-threats-to-swim-in-seine-and-prove-a-point/</guid>
       <pubDate>Fri, 19 Jul 2024 09:00:00 GMT</pubDate>
     </item>
@@ -22,19 +43,19 @@
     <item>
       <title>月球下发现的空洞可能对地表探索有用</title>
       <link>https://wired.jp/article/moon-tunnels-caves-astronauts-moon-colony/</link>
-      <description><![CDATA[由意大利特伦托大学领导的一个国际研究小组最近发表的研究结果显示，月球下方存在类似洞穴的空洞。这一发现对于建造未来的月球基地至关重要。]]></description>
+      <description><![CDATA[由意大利特伦托大学领导的一个国际研究小组最近发表的研究结果显示，月球下方存在类似洞穴的空洞。这一发现对于未来月球基地的建设至关重要。]]></description>
       <guid>https://wired.jp/article/moon-tunnels-caves-astronauts-moon-colony/</guid>
       <pubDate>Thu, 18 Jul 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI发布“GPT-4o mini”，利用小型AI模型加速降低成本</title>
       <link>https://wired.jp/article/openai-gpt-4o-mini/</link>
-      <description><![CDATA[OpenAI 发布了一款小型 AI 模型“GPT-4o mini”。该公司的目标是随着包括开源模型在内的竞争模型的增加，以更低的成本使自己的模型更易于使用。]]></description>
+      <description><![CDATA[OpenAI 发布了一款小型 AI 模型“GPT-4o mini”。该公司的目标是随着包括开源模型在内的竞争模型数量的增加，以更低的成本使自己的模型更易于使用。]]></description>
       <guid>https://wired.jp/article/openai-gpt-4o-mini/</guid>
       <pubDate>Thu, 18 Jul 2024 21:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI宣布“提高AI透明度的技术”，但仍不足以提高安全性</title>
+      <title>OpenAI宣布“提高人工智能透明度的技术”，但仍不足以提高安全性</title>
       <link>https://wired.jp/article/openai-safety-transparency-research/</link>
       <description><![CDATA[OpenAI 宣布了一项新技术，可提高人工智能 (AI) 逻辑思维的“透明度”。这个想法是通过让两个人工智能模型交互来提高透明度，但专家和前员工指出了监控人工智能的重要性。]]></description>
       <guid>https://wired.jp/article/openai-safety-transparency-research/</guid>
@@ -64,14 +85,14 @@
     <item>
       <title>人工智能规划未来的那一天：从语言模型到复杂系统</title>
       <link>https://wired.jp/article/sz-can-an-ai-make-plans/</link>
-      <description><![CDATA[像ChatGPT这样的大规模语言模型现在拥有惊人的解决问题能力和抽象思维，但另一方面，它们并不擅长想象未来，比如无法解决简单的计算问题。研究人员现在将注意力转向另一个具有规划功能的系统，而不是 GPT-5。]]></description>
+      <description><![CDATA[像ChatGPT这样的大规模语言模型现在拥有惊人的解决问题能力和抽象思维，但另一方面，它们并不擅长想象融入未来的东西，比如无法解决简单的计算问题。研究人员现在将注意力转向另一个具有规划功能的系统，而不是 GPT-5。]]></description>
       <guid>https://wired.jp/article/sz-can-an-ai-make-plans/</guid>
       <pubDate>Wed, 17 Jul 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>首次举办“Japan Metaverse Awards 2024”，加速Metaverse领域的落地、开发和商业化！</title>
       <link>https://wired.jp/article/japan-metaverse-awards-2024/</link>
-      <description><![CDATA[这将是首次设立奖项来表彰推动元宇宙领域创新挑战、新社会实施、发展和商业化的个人和项目。该活动由Metaverse Japan赞助，报名截止至8月24日。我们希望鼓励所有《连线》读者参与其中。]]></description>
+      <description><![CDATA[这将是首次设立奖项来表彰在元宇宙领域推动创新挑战、新社会实施、发展和商业化的个人和项目。该活动由Metaverse Japan赞助，报名截止日期为8月24日。我们希望鼓励所有《连线》读者参与其中。]]></description>
       <guid>https://wired.jp/article/japan-metaverse-awards-2024/</guid>
       <pubDate>Wed, 17 Jul 2024 08:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[今天创建的 Microsoft Word 文档可能会在 20 年后变质并变得无法使用。我们来介绍一下存储文档、图像等数字数据时应该注意的三点。]]></description>
       <guid>https://wired.jp/article/how-to-properly-archive-your-digital-files/</guid>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索时尚的“多元未来” | 《WIRED Fashion with VOGUE》报道</title>
-      <link>https://wired.jp/article/futures-x-fashion-report/</link>
-      <description><![CDATA[6月在涩谷PARCO举办的活动“WIRED Fashion with VOGUE”由以“Futures x Fashion”为主题的四场谈话会、聚会和SNS内容组成。我们为您带来了一个场地的报告，该场地非常成功，甚至还有站立的空间。]]></description>
-      <guid>https://wired.jp/article/futures-x-fashion-report/</guid>
-      <pubDate>Tue, 16 Jul 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类策展人创造下一代数字文化</title>
-      <link>https://wired.jp/article/sz-the-new-generation-of-online-culture-curators/</link>
-      <description><![CDATA[在充满算法和人工智能的数字世界中，我们需要人工指导来帮助我们辨别哪些内容值得关注。随着轻浮“网红”时代的远去，什么样的下一代策展人将重新受到关注？]]></description>
-      <guid>https://wired.jp/article/sz-the-new-generation-of-online-culture-curators/</guid>
-      <pubDate>Tue, 16 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用聊天机器人的实验正在进行中，以创建通用机器人</title>
-      <link>https://wired.jp/article/quest-ai-chatbots-a-hand-arm-robots/</link>
-      <description><![CDATA[一家美国初创公司正在尝试使用 ChatGPT 等聊天机器人来操作机械臂。目标是创造一个具有通用能力的机器人，能够灵活响应各种指令。]]></description>
-      <guid>https://wired.jp/article/quest-ai-chatbots-a-hand-arm-robots/</guid>
-      <pubDate>Tue, 16 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
