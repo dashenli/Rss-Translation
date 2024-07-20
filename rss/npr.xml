@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sat, 20 Jul 2024 18:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 21:12:32 GMT</lastBuildDate>
+    <item>
+      <title>IT 中断影响全球数百万人，中断仍在继续</title>
+      <link>https://www.npr.org/2024/07/20/g-s1-12487/crowdstrike-microsoft-outage-update</link>
+      <description><![CDATA[机场、医院和银行表示，在网络安全公司 CrowdStrike 向微软 Windows 系统提供的软件更新失败后，它们正在恢复。]]></description>
+      <guid>https://www.npr.org/2024/07/20/g-s1-12487/crowdstrike-microsoft-outage-update</guid>
+      <pubDate>Sat, 20 Jul 2024 18:57:39 GMT</pubDate>
+    </item>
     <item>
       <title>无人机袭击特拉维夫一天后，以色列袭击了也门胡塞武装目标</title>
       <link>https://www.npr.org/2024/07/20/nx-s1-5047310/israel-strikes-houthi-targets-yemen</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[共和党全国代表大会在密尔沃基开幕时，一场大规模抗议活动就此拉开帷幕。但到了周末，人们的情绪已经转变，开始关注共和党全国代表大会对当地社区的影响。]]></description>
       <guid>https://www.npr.org/2024/07/20/nx-s1-5044765/protests-surrounded-the-rnc-though-in-lower-numbers-than-expected</guid>
       <pubDate>Sat, 20 Jul 2024 11:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>马德里各地的新标识反映出西班牙对过度旅游的抵制</title>
-      <link>https://www.npr.org/2024/07/20/nx-s1-5045684/pushback-against-over-tourism-in-spain-is-reflected-in-new-signs-across-madrid</link>
-      <description><![CDATA[旅游业对西班牙经济至关重要，但批评人士认为该国过于依赖旅游业。]]></description>
-      <guid>https://www.npr.org/2024/07/20/nx-s1-5045684/pushback-against-over-tourism-in-spain-is-reflected-in-new-signs-across-madrid</guid>
-      <pubDate>Sat, 20 Jul 2024 11:57:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
