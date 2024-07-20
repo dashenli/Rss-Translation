@@ -4,7 +4,28 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 20 Jul 2024 01:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 03:17:29 GMT</lastBuildDate>
+    <item>
+      <title>全球范围内的 Windows 失败也对无现金社会造成了严重破坏。</title>
+      <link>https://wired.jp/article/microsoft-crowdstrike-outage-cash/</link>
+      <description><![CDATA[即使在无现金社会中，全球范围内的 Windows 系统故障也造成了严重破坏。世界各地的一些商店被迫做出选择：要么限制只支付现金，要么关门直至系统恢复。]]></description>
+      <guid>https://wired.jp/article/microsoft-crowdstrike-outage-cash/</guid>
+      <pubDate>Sat, 20 Jul 2024 02:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于新型冠状病毒变种“KP.3”您需要了解的信息</title>
+      <link>https://wired.jp/article/covid-19-kp3-flirt-variant/</link>
+      <description><![CDATA[新型冠状病毒变种“KP.3”的感染正在迅速蔓延。它是一种名为“FLiRT”的突变株，作为Omicron株“JN.1”的后代而诞生，它比之前的主流突变株具有更强的传染性，同时还具有逃避疫苗抗体的能力。是做。]]></description>
+      <guid>https://wired.jp/article/covid-19-kp3-flirt-variant/</guid>
+      <pubDate>Sat, 20 Jul 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是导致 Windows 大规模故障的“缺陷”导致世界各地系统崩溃的原因</title>
+      <link>https://wired.jp/article/crowdstrike-outage-update-windows/</link>
+      <description><![CDATA[由 CrowdStrike 软件中的“缺陷”导致的全球 Windows 系统故障。内核驱动程序错误是如何导致世界各地的计算机崩溃的？]]></description>
+      <guid>https://wired.jp/article/crowdstrike-outage-update-windows/</guid>
+      <pubDate>Sat, 20 Jul 2024 01:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>利用Windows系统故障的“诈骗”已经发生。</title>
       <link>https://wired.jp/article/crowdstrike-outage-support-scams/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[像ChatGPT这样的大规模语言模型现在拥有惊人的解决问题能力和抽象思维，但另一方面，它们并不擅长想象融入未来的东西，比如无法解决简单的计算问题。研究人员现在将注意力转向另一个具有规划功能的系统，而不是 GPT-5。]]></description>
       <guid>https://wired.jp/article/sz-can-an-ai-make-plans/</guid>
       <pubDate>Wed, 17 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次举办“Japan Metaverse Awards 2024”，加速Metaverse领域的落地、开发和商业化！</title>
-      <link>https://wired.jp/article/japan-metaverse-awards-2024/</link>
-      <description><![CDATA[这将是首次设立奖项来表彰在元宇宙领域推动创新挑战、新社会实施、发展和商业化的个人和项目。该活动由Metaverse Japan赞助，报名截止日期为8月24日。我们希望鼓励所有《连线》读者参与其中。]]></description>
-      <guid>https://wired.jp/article/japan-metaverse-awards-2024/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止智能手机电池劣化并延长其使用寿命</title>
-      <link>https://wired.jp/article/how-to-charge-phone-faster-adaptive-charging/</link>
-      <description><![CDATA[如果长时间使用智能手机，电池会随着时间的推移而老化，电池寿命也会变短。让我们介绍一种设置方法来防止这种情况发生。]]></description>
-      <guid>https://wired.jp/article/how-to-charge-phone-faster-adaptive-charging/</guid>
-      <pubDate>Wed, 17 Jul 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何正确保存您的数字文件并确保其寿命</title>
-      <link>https://wired.jp/article/how-to-properly-archive-your-digital-files/</link>
-      <description><![CDATA[今天创建的 Microsoft Word 文档可能会在 20 年后变质并变得无法使用。我们来介绍一下存储文档、图像等数字数据时应该注意的三点。]]></description>
-      <guid>https://wired.jp/article/how-to-properly-archive-your-digital-files/</guid>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
