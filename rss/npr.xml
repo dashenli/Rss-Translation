@@ -4,9 +4,30 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 18:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 21:11:56 GMT</lastBuildDate>
     <item>
-      <title>拜登因民主党疑虑退出 2024 年连任竞选</title>
+      <title>卡马拉·哈里斯承诺在拜登支持后“赢得并赢得”提名</title>
+      <link>https://www.npr.org/2024/07/21/g-s1-12531/kamala-harris-joe-biden-drops-out-dnc</link>
+      <description><![CDATA[拜登总统宣布不再寻求民主党总统候选人提名后，他支持副总统卡马拉·哈里斯。哈里斯表示，她希望团结民主党。]]></description>
+      <guid>https://www.npr.org/2024/07/21/g-s1-12531/kamala-harris-joe-biden-drops-out-dnc</guid>
+      <pubDate>Sun, 21 Jul 2024 20:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会民主党人赞扬拜登的领导能力，而共和党人则呼吁他下台</title>
+      <link>https://www.npr.org/2024/07/21/g-s1-12516/congressional-reaction-biden-not-seeking-reelection</link>
+      <description><![CDATA[国会山的民主党人赞扬拜登总统结束总统竞选活动，但共和党领导人却利用这一决定要求拜登辞职。]]></description>
+      <guid>https://www.npr.org/2024/07/21/g-s1-12516/congressional-reaction-biden-not-seeking-reelection</guid>
+      <pubDate>Sun, 21 Jul 2024 19:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登总统退出总统竞选</title>
+      <link>https://www.npr.org/2024/07/21/nx-s1-5047873/president-biden-is-stepping-down-from-the-presidential-race</link>
+      <description><![CDATA[拜登总统表示他退出总统竞选并支持副总统卡马拉·哈里斯。]]></description>
+      <guid>https://www.npr.org/2024/07/21/nx-s1-5047873/president-biden-is-stepping-down-from-the-presidential-race</guid>
+      <pubDate>Sun, 21 Jul 2024 18:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登退出 2024 年连任竞选，支持哈里斯为候选人</title>
       <link>https://www.npr.org/2024/07/21/nx-s1-5024253/biden-drops-out-2024-presidential-election</link>
       <description><![CDATA[拜登总统宣布将停止竞选总统，寻求连任，这让 2024 年民主党大选的竞争变得异常激烈。]]></description>
       <guid>https://www.npr.org/2024/07/21/nx-s1-5024253/biden-drops-out-2024-presidential-election</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[加沙战争使黎巴嫩境内的逊尼派和什叶派武装团体更加团结。许多人担心，黎巴嫩与以色列边境的战斗可能会将该国拖入战争。]]></description>
       <guid>https://www.npr.org/2024/07/21/nx-s1-5047348/at-the-funeral-of-a-senior-hamas-leader-pride-and-hope-for-the-future</guid>
       <pubDate>Sun, 21 Jul 2024 12:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南最资深的政治领导人去世，党内出现真空</title>
-      <link>https://www.npr.org/2024/07/21/nx-s1-5046341/vietnams-most-senior-political-leader-has-died-leaving-behind-a-vacuum-in-the-party</link>
-      <description><![CDATA[越南是世界上仅存的共产主义政权之一，其长期在位的领导人的去世对这个国家和地区意味着什么？]]></description>
-      <guid>https://www.npr.org/2024/07/21/nx-s1-5046341/vietnams-most-senior-political-leader-has-died-leaving-behind-a-vacuum-in-the-party</guid>
-      <pubDate>Sun, 21 Jul 2024 12:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crowdstrike 中断扰乱了许多行业。医院尤其容易受到影响</title>
-      <link>https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable</link>
-      <description><![CDATA[我们来看看 CrowdStrike 更新如何影响了医院，它导致了航空公司和银行的大规模通信中断。]]></description>
-      <guid>https://www.npr.org/2024/07/21/nx-s1-5046700/the-crowdstrike-outage-disrupted-many-industries-hospitals-were-especially-vulnerable</guid>
-      <pubDate>Sun, 21 Jul 2024 12:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>一位政治分析家解释总统竞选的下一步走向</title>
-      <link>https://www.npr.org/2024/07/21/nx-s1-5046364/a-political-analyst-explains-whats-next-for-the-presidential-race</link>
-      <description><![CDATA[NPR 的 Ayesha Rascoe 与政治评论员 Charlie Sykes 谈论了他对目前两会期间总统竞选状况的看法。]]></description>
-      <guid>https://www.npr.org/2024/07/21/nx-s1-5046364/a-political-analyst-explains-whats-next-for-the-presidential-race</guid>
-      <pubDate>Sun, 21 Jul 2024 12:02:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
