@@ -4,7 +4,59 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Jul 2024 12:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:15:32 GMT</lastBuildDate>
+    <item>
+      <title>全视人工智能网络摄像头</title>
+      <link>https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai</link>
+      <description><![CDATA[
+
+图片：Samar Haddad 为 The Verge 拍摄
+
+在 AI 无限可能的用途中，“从 Kylie Jenner 的声音克隆人那里获得自拍建议”似乎既完全不合常理，又相当不可避免。所以当然它确实存在。它不是一个广泛使用的应用程序，至少目前还不是；这是艺术家和程序员Dries Depoorter的一项实验。
+通过访问 OpenAI 和 ElevenLabs 的几个 API，并掌握一点 Python 知识，你也可以提高你的自拍水平。该应用程序将通过你的网络摄像头拍照，然后将其提供给 ChatGPT，并提示以詹纳女士的声音询问有趣的建议。文本输出随后被传递给自拍达人的 ElevenLabs 语音克隆，并弹出建议：
+“好吧，喜欢这种坦率的氛围，但让我们添加一些戏剧性。转向光线，摘下耳机，想一些神秘的想法来增添情趣，因为光线就是一切，宝贝。”
+
+在这期The Vergecast中，我们探索了 Depoorter 一直在创造的带有 AI 色彩的世界。Kylie Jenner 自拍机器人只是冰山一角：在他的整个职业生涯中，Depoorter 已经建造了各种古怪而挑衅的装置和在线实验。有一款时钟可以告诉你你已经活了多久；一款手机充电器只有闭上眼睛时才可以使用；一款移动聊天应用，只有手机电量低于 5%时才可以使用。
+不过，他最令人惊讶的作品是关于人工智能和监控的。在他的项目中，Depoorter 从世界各地获取不安全的网络摄像头镜头，并利用它们跟踪名人、抓捕当场闯红灯者、让政客保持诚实，并且通常让你质疑自己的隐私和匿名性。
+我们与 Depoorter 谈论了他如何创作作品、他如何看待人工智能的未来，以及他如何回应那些看到他的作品并想将其转化为商业的人。这是一次疯狂的对话，所以请查看上面的内容。要查看 Dries 的所有作品，请前往他的作品集。]]></description>
+      <guid>https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai</guid>
+      <pubDate>Sun, 21 Jul 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 推出了一个用于处理 Windows 中断的新指导中心</title>
+      <link>https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+CrowdStrike 发布了新的“补救和指导中心”，用于收集与其错误更新相关的详细信息，周五，全球 850 万台 Windows 电脑崩溃。 
+该页面包含有关导致中断的原因、受影响的系统以及首席执行官 George Kurtz 的声明的技术信息。它还包含指向 Bitlocker 密钥恢复过程的链接以及指向有关处理中断的各种第三方供应商页面的链接。 
+
+该页面指向有关使用可启动 USB 密钥的知识库文章（只有登录的客户才能访问）。微软昨天发布了这样一款工具，可以自动删除导致机器蓝屏的问题通道文件。
+CrowdStrike 还昨天发布了一篇博客，警告称威胁行为者一直在利用这种情况传播恶意软件，使用“名为 crowdstrike-hotfix.zip 的恶意 ZIP 存档”。 
+ZIP 存档包含一个 HijackLoader 负载，执行后会加载 RemCos。值得注意的是，ZIP 存档中的西班牙语文件名和说明表明，此活动可能针对的是拉丁美洲 (LATAM) 的 CrowdStrike 客户。
+博客后面的内容：
+在内容更新问题之后，已发现多个冒充 CrowdStrike 的域名抢注域名。此活动标志着首次观察到威胁行为者利用 Falcon 内容问题分发针对 LATAM 的 CrowdStrike 客户的恶意文件的实例。 
+CrowdStrike 表示，组织应仅通过官方渠道直接与 CrowdStrike 的代表合作，并且应仅使用其支持团队提供的指导。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/21/24202923/crowdstrike-remediation-guidance-hub-windows-bsods-outage-malware</guid>
+      <pubDate>Sun, 21 Jul 2024 14:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过支持特朗普，埃隆·马斯克正在拿特斯拉的未来赌博</title>
+      <link>https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/21/24202062/elon-musk-donald-trump-endorsement-tesla-ev-tax-credit</guid>
+      <pubDate>Sun, 21 Jul 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suunto 的新耳机终于让我领略了骨传导的魅力</title>
+      <link>https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review</guid>
+      <pubDate>Sun, 21 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>两款必备的 Android 新应用</title>
       <link>https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer</link>
@@ -15,14 +67,7 @@
     <item>
       <title>微软发布恢复工具帮助修复受 CrowdStrike 问题影响的 Windows 机器</title>
       <link>https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-微软发布了一款恢复工具，旨在帮助 IT 管理员修复受到 CrowdStrike 故障影响的 Windows 计算机更新导致周五 850 万台 Windows 设备崩溃。该工具可创建可启动的 USB 驱动器，IT 管理员可以使用它来快速恢复受影响的机器。
-虽然 CrowdStrike 已发布更新来修复导致数百万个蓝屏死机错误的软件，但并非所有机器都能自动接收该修复。一些IT 管理员报告多次重启 PC 即可获得必要的更新，但对于其他人来说，唯一的途径是必须手动启动到安全模式并删除有问题的 CrowdStrike 更新文件。
-Microsoft 的恢复工具现在通过 USB 启动到其 Windows PE 环境，访问受影响计算机的磁盘，并自动删除有问题的 CrowdStrike 文件以允许计算机正常启动，从而减少了此恢复过程的手动操作。这样就避免了必须启动到安全模式或要求在计算机上具有管理员权限，因为该工具只是访问磁盘，而无需启动到 Windows 的本地副本。如果磁盘受 BitLocker 加密保护，该工具将提示输入 BitLocker 恢复密钥，然后继续修复 CrowdStrike 更新。
-Microsoft 还为在 Azure 上运行的 Windows 虚拟机提供了单独的恢复步骤，该公司还在其支持网站上发布了所有 Windows 10 和 Windows 11 设备的恢复步骤。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins</guid>
       <pubDate>Sun, 21 Jul 2024 11:49:21 GMT</pubDate>
     </item>
@@ -101,34 +146,6 @@ Wardle 指出，无论任何旨在阻止此类自动更新的设置如何，Crow
  7 月 20 日更新：已更新，包括指向其他​​零售商的链接，特别是 GameStop 和 Target。Brandon Widder 也为本文做出了贡献。]]></description>
       <guid>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</guid>
       <pubDate>Sat, 20 Jul 2024 16:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capcom 的《Kunitsu-Gami》将塔防策略与社区组织的核心相结合</title>
-      <link>https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom</guid>
-      <pubDate>Sat, 20 Jul 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对下一代核反应堆的厚望和安全担忧</title>
-      <link>https://www.theverge.com/24201610/next-generation-nuclear-energy-reactors-security-weapons-proliferation-risk</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24201610/next-generation-nuclear-energy-reactors-security-weapons-proliferation-risk</guid>
-      <pubDate>Sat, 20 Jul 2024 13:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Daylight DC-1 平板电脑几周：重新思考屏幕时间</title>
-      <link>https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on</guid>
-      <pubDate>Sat, 20 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款售价 1,695 美元的智能摇篮的最佳功能现在需要付费订阅</title>
-      <link>https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby</guid>
-      <pubDate>Sat, 20 Jul 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
