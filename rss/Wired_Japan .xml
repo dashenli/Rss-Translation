@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 20 Jul 2024 21:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 01:08:13 GMT</lastBuildDate>
+    <item>
+      <title>“USB-C”和“Thunderbolt”有什么区别？有关 USB 端口和速度的了解要点</title>
+      <link>https://wired.jp/article/usb-ports-speeds-generations-and-thunderbolt-explained/</link>
+      <description><![CDATA[USB-C 本来应该让一切变得更简单，但代号和版本名称却非常令人困惑。在这里，我们总结了您需要了解的信息，以最大限度地提高设备的性能，包括与 USB 相关的术语和世代。]]></description>
+      <guid>https://wired.jp/article/usb-ports-speeds-generations-and-thunderbolt-explained/</guid>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将废旧电池作为“原材料”再利用：美国政府回收计划的目标</title>
+      <link>https://wired.jp/article/it-will-soon-be-easier-for-americans-to-recycle-batteries/</link>
+      <description><![CDATA[美国政府宣布了一项 1400 万美元的计划，支持全美 1000 个收集点回收旧智能手机和个人电脑的电池。目的是重新利用旧电池作为生产新电池的宝贵原材料。]]></description>
+      <guid>https://wired.jp/article/it-will-soon-be-easier-for-americans-to-recycle-batteries/</guid>
+      <pubDate>Sat, 20 Jul 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么大规模的 Windows 故障会对机场和航空公司造成严重破坏</title>
       <link>https://wired.jp/article/crowdstrike-windows-outage-airport-travel-delays/</link>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 18 Jul 2024 21:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI宣布“提高AI透明度的技术”，但仍不足以提高安全性</title>
+      <title>OpenAI宣布“提高人工智能透明度的技术”，但仍不足以提高安全性</title>
       <link>https://wired.jp/article/openai-safety-transparency-research/</link>
       <description><![CDATA[OpenAI 宣布了一项新技术，可提高人工智能 (AI) 逻辑思维的“透明度”。这个想法是通过让两个人工智能模型交互来提高透明度，但专家和前员工指出了监控人工智能的重要性。]]></description>
       <guid>https://wired.jp/article/openai-safety-transparency-research/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[戴森宣布推出无线耳机“Dyson OnTrac”。继空气净化器耳机之后，推出专用音频设备，可见该公司对音频领域的重视。]]></description>
       <guid>https://wired.jp/article/dyson-ontrac-headphones/</guid>
       <pubDate>Thu, 18 Jul 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>「谷歌地图」6大实用功能——显示自行车道、记录停车位置等</title>
-      <link>https://wired.jp/article/lesser-known-features-in-google-maps/</link>
-      <description><![CDATA[即使您每天在智能手机或计算机上使用 Google 地图，也可能有您不知道的功能。这里我们介绍六种有用的功能，例如显示自行车道和记录停车位置。]]></description>
-      <guid>https://wired.jp/article/lesser-known-features-in-google-maps/</guid>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未经授权使用 YouTube 视频字幕进行 AI 训练，Apple、NVIDIA、Anthropic 使用的数据集引发涟漪</title>
-      <link>https://wired.jp/article/youtube-training-data-apple-nvidia-anthropic/</link>
-      <description><![CDATA[Proof News 与进行基于数据的调查报道的 WIRED 合作透露，Apple、NVIDIA、Anthropic、Salesforce 等公司已提取并使用从 YouTube 视频转录的字幕来训练 AI。]]></description>
-      <guid>https://wired.jp/article/youtube-training-data-apple-nvidia-anthropic/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
