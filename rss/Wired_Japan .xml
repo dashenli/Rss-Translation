@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 21 Jul 2024 06:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 09:15:22 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI正试图揭示AI“说服力”的可能性和风险</title>
+      <link>https://wired.jp/article/thrive-ai-openai-artificial-intelligence-persuasion/</link>
+      <description><![CDATA[OpenAI 的“Preparedness”团队是为了解决人工智能的风险而成立的，他们正在研究人工智能“说服”人类的能力。首席执行官萨姆·奥尔特曼还声称人工智能可以改变人们的行为。]]></description>
+      <guid>https://wired.jp/article/thrive-ai-openai-artificial-intelligence-persuasion/</guid>
+      <pubDate>Sun, 21 Jul 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>适合各种用途的 15 款最佳电动自行车 (e-bike) [美国版]</title>
       <link>https://wired.jp/article/best-electric-bikes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenAI 发布了一款小型 AI 模型“GPT-4o mini”。该公司的目标是随着包括开源模型在内的竞争模型数量的增加，以更低的成本使自己的模型更易于使用。]]></description>
       <guid>https://wired.jp/article/openai-gpt-4o-mini/</guid>
       <pubDate>Thu, 18 Jul 2024 21:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI宣布“提高人工智能透明度的技术”，但仍不足以提高安全性</title>
-      <link>https://wired.jp/article/openai-safety-transparency-research/</link>
-      <description><![CDATA[OpenAI 宣布了一项新技术，可提高人工智能 (AI) 逻辑思维的“透明度”。这个想法是通过让两个人工智能模型交互来提高透明度，但专家和前员工指出了监控人工智能的重要性。]]></description>
-      <guid>https://wired.jp/article/openai-safety-transparency-research/</guid>
-      <pubDate>Thu, 18 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
