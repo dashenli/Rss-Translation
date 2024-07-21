@@ -4,7 +4,28 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Jul 2024 01:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:25:33 GMT</lastBuildDate>
+    <item>
+      <title>两款必备的 Android 新应用</title>
+      <link>https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer</guid>
+      <pubDate>Sun, 21 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软发布恢复工具帮助修复受 CrowdStrike 问题影响的 Windows 机器</title>
+      <link>https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+微软发布了一款恢复工具，旨在帮助 IT 管理员修复受到 CrowdStrike 故障影响的 Windows 计算机更新导致周五 850 万台 Windows 设备崩溃。该工具可创建可启动的 USB 驱动器，IT 管理员可以使用它来快速恢复受影响的机器。
+虽然 CrowdStrike 已发布更新来修复导致数百万个蓝屏死机错误的软件，但并非所有机器都能自动接收该修复。一些IT 管理员报告多次重启 PC 即可获得必要的更新，但对于其他人来说，唯一的途径是必须手动启动到安全模式并删除有问题的 CrowdStrike 更新文件。
+Microsoft 的恢复工具现在通过 USB 启动到其 Windows PE 环境，访问受影响计算机的磁盘，并自动删除有问题的 CrowdStrike 文件以允许计算机正常启动，从而减少了此恢复过程的手动操作。这样就避免了必须启动到安全模式或要求在计算机上具有管理员权限，因为该工具只是访问磁盘，而无需启动到 Windows 的本地副本。如果磁盘受 BitLocker 加密保护，该工具将提示输入 BitLocker 恢复密钥，然后继续修复 CrowdStrike 更新。
+Microsoft 还为在 Azure 上运行的 Windows 虚拟机提供了单独的恢复步骤，该公司还在其支持网站上发布了所有 Windows 10 和 Windows 11 设备的恢复步骤。]]></description>
+      <guid>https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins</guid>
+      <pubDate>Sun, 21 Jul 2024 11:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 版 Gamma PS1 模拟器获得 Multitap 支持和更好的音频</title>
       <link>https://www.theverge.com/2024/7/20/24202627/iphone-gamma-ps1-emulator-updates-graphics-multitap-multidisc-video-games</link>
@@ -108,32 +129,6 @@ Wardle 指出，无论任何旨在阻止此类自动更新的设置如何，Crow
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/20/24202166/snoo-premium-subscription-happiest-baby</guid>
       <pubDate>Sat, 20 Jul 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJI Power 1000 评测：强大的功能伴随着众多适配器</title>
-      <link>https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24200296/dji-power-station-review-140w-usb-specs-price</guid>
-      <pubDate>Sat, 20 Jul 2024 05:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bethesda 游戏工作室的员工已经成立工会</title>
-      <link>https://www.theverge.com/2024/7/19/24202271/bethesda-game-studios-workers-unionize-cwa</link>
-      <description><![CDATA[
-
-图片：Bethesda Game Studios
-
-Bethesda Game Studios 是《上古卷轴》和《辐射》等热门游戏系列的制作方，该工作室的 200 多名开发人员已与通信工人工会成立工会美国工人工会 (CWA) 的一份新闻稿称，包括“艺术家、工程师、程序员和设计师”在内的 241 名工人已经签署了工会授权卡或“表示他们希望通过在线门户网站获得工会代表”。
-CWA 表示，微软已经承认了该工会；该公司已经承认了由 Activision QA 工人 和 ZeniMax Studios QA 工人 组建的工会。 CWA 将此描述为“微软视频游戏工作室的首个全面工会”，这意味着所有符合条件的职位都将由 CWA 代表，而不仅仅是一种类型的工人，CWA 的 Catalina Brennan-Gatica 表示。（到目前为止，微软旗下工作室的所有工会都仅由 QA 工人组成。）
-
-
-我们，达拉斯、罗克维尔和奥斯汀 Bethesda 游戏工作室的大多数开发人员，很高兴地宣布与 @CWAUnion 一起成立工会。作为#OneBGSUSA，我们共同倡导 BGS 每位开发人员的进步，为我们的行业树立新标准。— OneBGS_USA (@OneBGS_USA) 2024 年 7 月 19 日
-
-
-Bethesda 工人将成为马里兰州 CWA Local 2108 和德克萨斯州 CWA Local 6215 的成员。 
-微软没有立即回复置评请求。]]></description>
-      <guid>https://www.theverge.com/2024/7/19/24202271/bethesda-game-studios-workers-unionize-cwa</guid>
-      <pubDate>Fri, 19 Jul 2024 23:38:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
