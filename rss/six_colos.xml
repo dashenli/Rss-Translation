@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 18 Jul 2024 18:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 18:20:11 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）你不能再忽视 GDPR 了</title>
+      <link>https://sixcolors.com/feed-only/2024/07/you-cant-ignore-gdpr-anymore/</link>
+      <description><![CDATA[当欧盟于 2018 年颁布 GDPR 时，高管和安全专家焦急地等待着
+看看该法律将如何执行。然后他们一直在等待……等待……但欧洲大规模的隐私打击从未到来。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/07/you-cant-ignore-gdpr-anymore/</guid>
+      <pubDate>Mon, 22 Jul 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>去苏格兰</title>
       <link>https://sixcolors.com/post/2024/07/gone-to-scotland/</link>
@@ -86,7 +94,7 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
     <item>
       <title>（播客）升级 521：我能把菠萝放进任何东西里</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</link>
-      <description><![CDATA[Jason 和 Myke 采访了 Vision Pro 的《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
+      <description><![CDATA[Jason 和 Myke 为 Vision Pro 采访了《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</guid>
       <pubDate>Mon, 15 Jul 2024 16:09:55 GMT</pubDate>
     </item>
@@ -110,15 +118,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[欧盟委员会执行副主席玛格丽特·维斯塔格（Margrethe Vestager）宣布，苹果已承诺允许第三方支付应用在欧洲使用与 Apple Pay 相同的 NFC 功能。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/apple-to-enable-third-party-nfc-payments-in-the-eu/</guid>
       <pubDate>Thu, 11 Jul 2024 14:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过您的航空里程账户的“姓名”字段免费使用机上 Wi-Fi ↦</title>
-      <link>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</link>
-      <description><![CDATA[除了这是绝对最佳的技术疯狂之外，我不知道该说什么。
-
-这意味着在我的下一次飞行中，我可以通过我的飞行里程帐户完全访问互联网。…]]></description>
-      <guid>https://sixcolors.com/link/2024/07/accessing-inflight-wi-fi-for-free-via-your-air-miles-accounts-name-field/</guid>
-      <pubDate>Thu, 11 Jul 2024 10:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
