@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 21 Jul 2024 21:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 01:05:23 GMT</lastBuildDate>
+    <item>
+      <title>“macOS Sequoia”中包含的显着新功能</title>
+      <link>https://wired.jp/article/apple-macos-sequoia-features/</link>
+      <description><![CDATA[Apple 已正式发布“macOS Sequoia”的公开测试版。让我们介绍一下2024年秋季发布的新操作系统值得关注的新功能、如何安装测试版以及兼容设备。]]></description>
+      <guid>https://wired.jp/article/apple-macos-sequoia-features/</guid>
+      <pubDate>Sun, 21 Jul 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到无人机警察时代</title>
+      <link>https://wired.jp/article/sz-the-age-of-the-drone-police-is-here/</link>
+      <description><![CDATA[《连线》杂志对超过 2200 万个飞行坐标进行了调查，揭开了美国首个全面警用无人机计划背后错综复杂的真相。欢迎“无人机警察”成果的居民和担心隐私的居民的真实想法是什么？]]></description>
+      <guid>https://wired.jp/article/sz-the-age-of-the-drone-police-is-here/</guid>
+      <pubDate>Sun, 21 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI正试图揭示AI“说服力”的可能性和风险</title>
       <link>https://wired.jp/article/thrive-ai-openai-artificial-intelligence-persuasion/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[一家英国初创企业已获得监管部门批准，可以培养鸡细胞来生产宠物食品。这是世界上首次在实验室培育的宠物食品成分获得批准。]]></description>
       <guid>https://wired.jp/article/lab-grown-meat-for-pets-was-just-approved-in-the-uk-meatly/</guid>
       <pubDate>Fri, 19 Jul 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>月球下发现的空洞可能对地表探索有用</title>
-      <link>https://wired.jp/article/moon-tunnels-caves-astronauts-moon-colony/</link>
-      <description><![CDATA[由意大利特伦托大学领导的一个国际研究小组最近发表的研究表明，月球下方存在类似洞穴的空洞。这一发现对于未来月球基地的建设至关重要。]]></description>
-      <guid>https://wired.jp/article/moon-tunnels-caves-astronauts-moon-colony/</guid>
-      <pubDate>Thu, 18 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI发布“GPT-4o mini”，利用小型AI模型加速降低成本</title>
-      <link>https://wired.jp/article/openai-gpt-4o-mini/</link>
-      <description><![CDATA[OpenAI 发布了一款小型 AI 模型“GPT-4o mini”。该公司的目标是随着包括开源模型在内的竞争模型数量的增加，以更低的成本使自己的模型更易于使用。]]></description>
-      <guid>https://wired.jp/article/openai-gpt-4o-mini/</guid>
-      <pubDate>Thu, 18 Jul 2024 21:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
