@@ -4,7 +4,7 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 22 Jul 2024 12:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:17:54 GMT</lastBuildDate>
     <item>
       <title>舌控控制器开发人员提供的无障碍空间计算技巧</title>
       <link>https://wired.jp/article/augmental-mouthpad/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>为什么大规模的 Windows 故障会对机场和航空公司造成严重破坏</title>
       <link>https://wired.jp/article/crowdstrike-windows-outage-airport-travel-delays/</link>
-      <description><![CDATA[由 CrowdStrike 软件缺陷引起的全球 Windows 系统故障给世界各地的航空公司和机场造成了严重破坏。要了解其中的原因，我们需要了解该行业极其复杂的系统。]]></description>
+      <description><![CDATA[由 CrowdStrike 软件缺陷引起的全球 Windows 系统故障给世界各地的航空公司和机场造成了严重破坏。为了理解其中的原因，我们需要了解该行业极其复杂的系统。]]></description>
       <guid>https://wired.jp/article/crowdstrike-windows-outage-airport-travel-delays/</guid>
       <pubDate>Sat, 20 Jul 2024 06:30:00 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Sat, 20 Jul 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>这就是导致 Windows 大规模故障的“缺陷”导致世界各地系统崩溃的原因</title>
+      <title>这就是引发Windows大规模故障的“缺陷”如何导致世界各地的系统崩溃的原因</title>
       <link>https://wired.jp/article/crowdstrike-outage-update-windows/</link>
       <description><![CDATA[由 CrowdStrike 软件中的“缺陷”导致的全球 Windows 系统故障。内核驱动程序错误是如何导致世界各地的计算机崩溃的？]]></description>
       <guid>https://wired.jp/article/crowdstrike-outage-update-windows/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>全球Windows机器大规模故障，安全软件“缺陷”造成严重破坏</title>
       <link>https://wired.jp/article/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
-      <description><![CDATA[世界各地的公司和组织的 Windows 机器出现故障，导致大规模的系统故障。据信，安全公司 CrowdStrike 的软件更新中存在缺陷是造成此次停电的原因，此次停电造成了航班取消和医疗设施中断等毁灭性影响。]]></description>
+      <description><![CDATA[世界各地的公司和组织的 Windows 机器出现故障，导致大规模的系统故障。据信，安全公司 CrowdStrike 的软件更新中的一个缺陷是造成这次停电的原因，这次停电造成了毁灭性的影响，包括航班取消和医疗设施中断。]]></description>
       <guid>https://wired.jp/article/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
       <pubDate>Fri, 19 Jul 2024 22:10:00 GMT</pubDate>
     </item>
