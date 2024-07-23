@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 09:16:42 GMT</lastBuildDate>
+    <item>
+      <title>Julia 如何击败 Python 成为编程语言的主导</title>
+      <link>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</link>
+      <description><![CDATA[尽管 Python 花了几年时间才完全普及，但它凭借其简洁易懂的语法、可读性和初学者易学性，继续在编程领域占据主导地位。然而，用户最常见的抱怨是 Python 速度慢。比 C++ 慢，比 Java 慢，比 C# 慢。它也比 Julia 慢，Julia 是 2012 年发布的一款高性能、相对较新的语言。Jeff Bezanson、Stefan Karpinski、Viral B. Shah 和 Alan Edelman 设想的 Julia 是一种快速且高级的免费语言，与 Python 或 R 一样易于使用…This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</guid>
+      <pubDate>Tue, 23 Jul 2024 08:51:47 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰创始人为其聋哑父母开发的应用程序筹集了 100 万美元</title>
       <link>https://thenextweb.com/news/dutch-founder-startup-speaksee-deaf-app</link>
@@ -15,7 +22,7 @@
     <item>
       <title>激光武器首次“击落”英国陆军车辆目标</title>
       <link>https://thenextweb.com/news/british-army-shoots-laser-weapon</link>
-      <description><![CDATA[英国政府今天宣布，英国首次成功从陆军战车上发射激光武器。官员表示，在试验期间，该系统“摧毁”了距离超过 1 公里的目标。英国政府国防科学技术实验室 (Dstl) 项目负责人 Matt Cork 称这次测试是“关键时刻”。他说：“这项技术提供了一种精确、强大且经济有效的方法来击败空中威胁，确保为我们的部队提供更大的保护。” Dstl 计划在真实场景中测试这些功能。激光任务政府委托使用激光来击败敌方无人机。武器制造商雷神公司…This story continued at The Next Web]]></description>
+      <description><![CDATA[英国政府今天宣布，英国首次成功从陆军战车上发射激光武器。官员表示，在试验期间，该系统“摧毁”了距离超过 1 公里的目标。英国政府国防科学技术实验室 (Dstl) 项目负责人 Matt Cork 称这次测试是“关键时刻”。他说：“这项技术提供了一种精确、强大且经济有效的方法来击败空中威胁，确保为我们的部队提供更大的保护。” Dstl 现计划在真实场景中测试其能力。激光任务政府委托使用激光来击败敌方无人机。武器制造商雷神公司…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/british-army-shoots-laser-weapon</guid>
       <pubDate>Mon, 22 Jul 2024 12:19:16 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[丹麦初创公司 Again 再次获得融资。Google Ventures 和柏林的 HV Capital 领投了这轮 4300 万美元的融资，使这家初创公司迄今为止的融资总额略低于 1 亿美元。再次从工业中获取二氧化碳废物，将其与氢气结合，然后将混合物喂给数千年历史的细菌。这些小细菌吞噬混合物，将其转化为醋酸盐等商业级化合物。这是从塑料、化妆品到油漆等所有产品的基础化学品。同样是丹麦 Torbjørn Jensen 博士（右图）和 Alex Nielsen 教授领导的十多年研究的成果…本报道将在 The Next Web 继续报道或者阅读有关Google的更多报道]]></description>
       <guid>https://thenextweb.com/news/google-backs-danish-startup-again-funding-bacteria-turn-co2-into-valuable-chemicals</guid>
       <pubDate>Thu, 18 Jul 2024 09:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASML 订单增长 24%，中国尽管受到限制仍是最大市场</title>
-      <link>https://thenextweb.com/news/asml-orders-up-china-still-biggest-market</link>
-      <description><![CDATA[虽然今年迄今为止 ASML 的利润较低，但这家科技巨头的芯片制造机订单在过去三个月中再次增加。根据该公司 2024 年第二季度的收益报告，净预订量（即订单）达到 56 亿欧元，同比增长超过 24%。其中很大一部分是 ASML 的 EUV 机器订单，价值 25 亿欧元。这家荷兰公司是全球唯一一家极紫外 (EUV) 光刻机制造商，这些机器可生产最高端的芯片，例如用于 AI 的芯片。EUV 订单的增长是......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/asml-orders-up-china-still-biggest-market</guid>
-      <pubDate>Wed, 17 Jul 2024 14:46:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

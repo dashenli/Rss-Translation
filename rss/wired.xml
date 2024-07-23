@@ -4,7 +4,14 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 23 Jul 2024 06:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 09:15:52 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯恶意软件如何在深冬为 600 栋乌克兰建筑物降温</title>
+      <link>https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/</link>
+      <description><![CDATA[这是首款此类代码，它被用来在一年中最冷的时候破坏利沃夫的供暖设施——这似乎是俄罗斯折磨乌克兰平民的又一创新手段。]]></description>
+      <guid>https://www.wired.com/story/russia-ukraine-frostygoop-malware-heating-utility/</guid>
+      <pubDate>Tue, 23 Jul 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok Lite 为多达 10 亿用户提供更少的保护</title>
       <link>https://www.wired.com/story/tiktok-lite-global-south/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[总统乔·拜登周日宣布将“退出”连任竞选。]]></description>
       <guid>https://www.wired.com/story/joe-biden-drops-out-of-2024-election/</guid>
       <pubDate>Sun, 21 Jul 2024 18:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>《WIRED》驻场音乐家推荐的最佳 DAW 软件（2024 年）</title>
-      <link>https://www.wired.com/story/best-daw-recording-software/</link>
-      <description><![CDATA[从 Ableton 和 Pro Tools 到 iPad 应用程序——利用这些数字音频工作站 (DAW) 充分发挥您的音乐潜力。]]></description>
-      <guid>https://www.wired.com/story/best-daw-recording-software/</guid>
-      <pubDate>Sun, 21 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
