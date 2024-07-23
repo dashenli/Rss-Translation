@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:29:30 GMT</lastBuildDate>
+    <item>
+      <title>On Ne Change Pas：令人惊叹的 UI 动画背后的创意工作流程</title>
+      <link>https://tympanus.net/codrops/2024/07/23/on-ne-change-pas-the-creative-work-process-behind-a-stunning-ui-animation/</link>
+      <description><![CDATA[在本文中，我们将带您到幕后探索一部有趣动画的创作过程。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/23/on-ne-change-pas-the-creative-work-process-behind-a-stunning-ui-animation/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:31:25 GMT</pubDate>
+    </item>
     <item>
       <title>集体#855</title>
       <link>https://tympanus.net/codrops/collective/collective-855/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[来自 Dribbble 的全新运动设计和动画灵感选择。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/03/ui-interactions-animations-roundup-45/</guid>
       <pubDate>Wed, 03 Jul 2024 09:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用带有 OGL 和 GLSL 着色器的 WebGL 实现渐进式模糊效果</title>
-      <link>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</link>
-      <description><![CDATA[了解如何使用 WebGL、OGL 和 GLSL 着色器创建有趣的渐进模糊效果。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/02/progressive-blur-effect-using-webgl-with-ogl-and-glsl-shaders/</guid>
-      <pubDate>Tue, 02 Jul 2024 11:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

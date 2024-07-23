@@ -4,9 +4,16 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 23 Jul 2024 09:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:28:46 GMT</lastBuildDate>
     <item>
-      <title>Julia 如何击败 Python 成为编程语言的主导</title>
+      <title>这款可折叠的热望远镜可以判断你的家是否漏热</title>
+      <link>https://thenextweb.com/news/supersharp-unfolding-thermal-telescope-home-energy-efficient</link>
+      <description><![CDATA[剑桥大学的一家衍生公司正在开发一种可展开的热探测望远镜，它可以以实惠的价格捕捉地球的高分辨率热图像。目前，一些大型、昂贵的低地球轨道卫星可以偶尔捕捉高分辨率图像，而小型、低成本的卫星可以频繁捕捉低分辨率图像。初创公司 SuperSharp 希望占据中间位置。SuperSharp 将这些能力归功于其正在开发的“自对准技术”，该技术使其能够将大型望远镜安装在小型卫星上。展开式望远镜并不是什么新鲜事——只要看看詹姆斯·韦伯就知道了——但它们通常非常昂贵，而且非常棘手......本故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/supersharp-unfolding-thermal-telescope-home-energy-efficient</guid>
+      <pubDate>Tue, 23 Jul 2024 09:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Julia 如何击败 Python，成为编程语言的主导</title>
       <link>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</link>
       <description><![CDATA[尽管 Python 花了几年时间才完全普及，但它凭借其简洁易懂的语法、可读性和初学者易学性，继续在编程领域占据主导地位。然而，用户最常见的抱怨是 Python 速度慢。比 C++ 慢，比 Java 慢，比 C# 慢。它也比 Julia 慢，Julia 是 2012 年发布的一款高性能、相对较新的语言。Jeff Bezanson、Stefan Karpinski、Viral B. Shah 和 Alan Edelman 设想的 Julia 是一种快速且高级的免费语言，与 Python 或 R 一样易于使用…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>激光武器首次“击落”英国陆军车辆目标</title>
       <link>https://thenextweb.com/news/british-army-shoots-laser-weapon</link>
-      <description><![CDATA[英国政府今天宣布，英国首次成功从陆军战车上发射激光武器。官员表示，在试验期间，该系统“摧毁”了距离超过 1 公里的目标。英国政府国防科学技术实验室 (Dstl) 项目负责人 Matt Cork 称这次测试是“关键时刻”。他说：“这项技术提供了一种精确、强大且经济有效的方法来击败空中威胁，确保为我们的部队提供更大的保护。” Dstl 现计划在真实场景中测试其能力。激光任务政府委托使用激光来击败敌方无人机。武器制造商雷神公司…This story continued at The Next Web]]></description>
+      <description><![CDATA[英国政府今天宣布，英国首次成功从陆军战车上发射激光武器。官员表示，在试验期间，该系统“摧毁”了距离超过 1 公里的目标。英国政府国防科学技术实验室 (Dstl) 项目负责人 Matt Cork 称这次测试是“关键时刻”。他说：“这项技术提供了一种精确、强大且经济有效的方法来击败空中威胁，确保为我们的部队提供更大的保护。” Dstl 计划在真实场景中测试这些功能。激光任务政府委托使用激光来击败敌方无人机。武器制造商雷神公司…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/british-army-shoots-laser-weapon</guid>
       <pubDate>Mon, 22 Jul 2024 12:19:16 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[三星收购了英国初创公司 Oxford Semantic Technologies，旨在利用人工智能“超个性化”用户体验。Oxford Semantic 成立于 2017 年，专注于知识图谱，用于整合和分析数据。该技术为从语音助手到搜索引擎等无数应用程序提供支持。 Oxford Semantic 将知识图谱嵌入到名为 RDFox 的产品中，该公司将其描述为“AI 推理引擎”。该系统支持一系列用例，从推荐引擎到交易中的异常检测。对于三星来说，该软件提供了开发复杂且个性化的 AI 解决方案的机会。该公司将使用知识图谱来整合信息......本报道将在 The Next Web 继续或者阅读更多关于：三星的报道]]></description>
       <guid>https://thenextweb.com/news/samsungs-buys-oxford-semantic-personalise-ai-experiences</guid>
       <pubDate>Thu, 18 Jul 2024 10:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌支持丹麦初创公司利用古代细菌将二氧化碳发酵成有价值的化学品</title>
-      <link>https://thenextweb.com/news/google-backs-danish-startup-again-funding-bacteria-turn-co2-into-valuable-chemicals</link>
-      <description><![CDATA[丹麦初创公司 Again 再次获得融资。Google Ventures 和柏林的 HV Capital 领投了这轮 4300 万美元的融资，使这家初创公司迄今为止的融资总额略低于 1 亿美元。再次从工业中获取二氧化碳废物，将其与氢气结合，然后将混合物喂给数千年历史的细菌。这些小细菌吞噬混合物，将其转化为醋酸盐等商业级化合物。这是从塑料、化妆品到油漆等所有产品的基础化学品。同样是丹麦 Torbjørn Jensen 博士（右图）和 Alex Nielsen 教授领导的十多年研究的成果…本报道将在 The Next Web 继续报道或者阅读有关Google的更多报道]]></description>
-      <guid>https://thenextweb.com/news/google-backs-danish-startup-again-funding-bacteria-turn-co2-into-valuable-chemicals</guid>
-      <pubDate>Thu, 18 Jul 2024 09:43:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
