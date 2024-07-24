@@ -4,7 +4,88 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 21:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 01:03:12 GMT</lastBuildDate>
+    <item>
+      <title>出于某种原因，X 用普通枪替换了水枪表情符号</title>
+      <link>https://www.theverge.com/2024/7/23/24204742/x-water-pistol-emoji-changed-gun-twitter-unicode</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+多年前，Twitter 用绿橙色水枪取代了手枪表情符号，而现在，X 决定将其改回普通手枪。一名 X 员工在上周的一篇帖子中宣布了这一变化。。
+该公司尚未解释这一变化，但感觉这一变化符合伊隆·马斯克社交网络的品牌形象。Twitter 最初在 2018 年将其表情符号改为水枪，效仿Google 和 Facebook等其他公司的做法。 （苹果于 2016 年进行了改版；微软曾短暂持保留态度。）
+
+
+
+我们嵌入了 X 帖子的屏幕截图，因此您可以看到枪支图像。 （在某些设备上，实际帖子嵌入后仍显示水枪。）
+
+
+最终，决定首先制作哪个表情符号的Unicode联盟跟随平台的脚步，正式将手枪表情符号更名为“水枪”：
+
+
+
+“水枪”表情符号的当前条目。您还可以在此处和此处。
+
+表情符号是通用的，因为它们在各个平台上共享通用名称（U+1F52B 是水枪），由统一码联盟决定。但每个平台所有者都可以自行决定如何以视觉方式呈现它们。这就是我们解决 Great Cheeseburger Emoji Debacle 问题的方法，该问题已于2017 年 11 月得到解决。 
+只有当您在网络上查看 X 时，您才会看到这把枪 — 截至撰写本文时，它似乎尚未在应用程序的移动版本中更新，尽管显然在某个时候正在路上。 
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/23/24204742/x-water-pistol-emoji-changed-gun-twitter-unicode</guid>
+      <pubDate>Wed, 24 Jul 2024 00:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>KOSA 支持者敦促参议院在休会前不到两周进行“快速、干净”的投票</title>
+      <link>https://www.theverge.com/2024/7/23/24204702/kosa-quick-vote-senate-floor-schumer-blumenthal-blackburn</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/23/24204702/kosa-quick-vote-senate-floor-schumer-blumenthal-blackburn</guid>
+      <pubDate>Tue, 23 Jul 2024 23:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克没有回答有关特斯拉自动驾驶出租车的最重要问题</title>
+      <link>https://www.theverge.com/2024/7/23/24204794/tesla-robotaxi-elon-musk-earnings-fmvss-steering-wheel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/23/24204794/tesla-robotaxi-elon-musk-earnings-fmvss-steering-wheel</guid>
+      <pubDate>Tue, 23 Jul 2024 23:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 MacBook 的最佳优惠</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <pubDate>Tue, 23 Jul 2024 22:13:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>最便宜的 Wi-Fi 7 路由器是这款售价 99 美元的 TP-Link</title>
+      <link>https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band</link>
+      <description><![CDATA[
+
+图片：TP-Link
+
+TP-Link 已推出 Archer BE3600，这是一款售价 99 美元的 Wi-Fi 7 路由器，是自去年第一批支持新标准的路由器上市以来，我们在美国看到的最便宜的路由器。 
+它不像其价格更高的同类产品，甚至不像市场上已有的许多 Wi-Fi 6E 路由器那样拥有新的 6GHz 频段。因此，对于许多人来说，TP-Link 的新路由器可能不会让您的下载速度比旧路由器快很多（如果有的话）。 
+
+不过，得益于 Wi-Fi 7 处理数据流的方式，这些新技巧可以带来吞吐量的提升，或者比在拥堵地区按照旧规格制造的路由器提供更稳定的连接。但是，如果没有 6GHz 的更宽数据通道和更多未占用空间，您根本看不到 Wi-Fi 7 营销中大肆宣传的许多多千兆位优势，如果您有多千兆互联网连接，您可能应该将其连接到更高端的设备。
+不过，这里还是有值得喜欢的地方。它的五个以太网端口中有两个提供 2.5Gbps 连接，在这个价格下很少见。它还支持多链路操作，这不会带来太多吞吐量优势（再次强调：没有 6GHz 频段），但对于支持 Wi-Fi 7 的手机或 VR 耳机来说，这可能意味着更稳定的连接——如果一个频段出现故障或太忙，你未来的设备可以回到另一个频段。 它支持 Wi-Fi 联盟的 EasyMesh 标准，这意味着它可以与其他支持该标准的品牌的路由器组成网状网络。
+这款路由器最重要的一点似乎是它以不到 100 美元的价格提供 Wi-Fi 7。这是第一次，而且价格相当高 — 目前最低端产品的价格一般在 300 美元左右（参见 TP-Link 的 Deco BE63 或 Archer BE550）。 
+
+
+图片：TP-Link
+对于如此便宜的路由器来说，端口选择不错。
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/23/24204616/cheapest-wi-fi-7-router-tp-link-archer-be-3600-easymesh-no-6ghz-band</guid>
+      <pubDate>Tue, 23 Jul 2024 22:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>死侍与金刚狼是绝望的万福玛利亚</title>
+      <link>https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu</guid>
+      <pubDate>Tue, 23 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>得益于搜索和人工智能，谷歌本季度业绩表现亮眼</title>
       <link>https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results</link>
@@ -16,12 +97,12 @@
 
 与此同时，谷歌云部门收入首次达到 100 亿美元，同时还实现了 10 亿美元的营业利润。在周二的财报电话会议上，谷歌首席执行官 Sundar Pichai 表示，该公司为云客户提供的生成式 AI 解决方案“已经创造了数十亿美元的收入，并被 200 多万开发人员使用。”
 
-“我们正在 AI 堆栈的每一层进行创新，”Pichai 在致投资者的一封信中说道。 “随着技术的发展以及我们追求未来的众多机遇，我们长期的基础设施领导力和内部研究团队为我们提供了良好的定位。”
-自4 月成为一家市值 2 万亿美元的公司以来，Alphabet 一直保持着这一地位。5 月，谷歌开始推出由其大型语言模型 (LLM) Gemini 提供支持的搜索中的 AI 概览。但用户很快发现，该工具为某些查询提供了奇怪的答案，导致 Google 手动删除它们。不过，Pichai 表示，AI 概览已导致“搜索使用量增加，用户对结果的满意度也提高。”
-Alphabet 的其他领域也实现了增长。谷歌的广告业务激增至 646 亿美元，而 YouTube 广告同比增长 13%，至 86 亿美元。该部门包括订阅、平台和设备，收入达 93 亿美元。
-本周，谷歌宣布将放弃其拖延已久的计划，默认逐步淘汰第三方 cookie，Safari 和 Firefox 已经这样做了。谷歌 Chrome 将要求用户“在浏览网页时做出明智的选择”。 Google 还将于 8 月举行比往常更早的 Pixel 硬件活动，该公司将在Pixel 9 和Pixel 9 Pro Fold发布前几周提供抢先体验。
-正在开发中...
-更正，7 月 23 日：本文的先前版本错误地将谷歌的盈利情况陈述为 8500 万美元，而实际盈利为 850 亿美元。
+“我们正在 AI 堆栈的每一层进行创新，”Pichai 在致投资者的一封信中说道。 “随着技术的发展以及我们追求未来的众多机遇，我们长期的基础设施领导地位和内部研究团队为我们提供了良好的定位。”据 CNBC 报道，本月早些时候，据报道，谷歌考虑以 230 亿美元收购初创公司 Wiz，以帮助增强其云安全产品组合，但Wiz 拒绝了这笔交易，以推进首次公开募股。
+
+在4 月份市值达到 2 万亿美元之后，谷歌开始推出由其大型语言模型 (LLM) Gemini 提供支持的搜索中的人工智能概览。但用户很快发现，该工具对某些查询提供了奇怪的答案，导致谷歌手动将其删除。尽管如此，Pichai 表示，AI 概览已导致“搜索使用量增加，用户对结果的满意度也提高。”
+本周，谷歌还宣布，将放弃其长期拖延的计划，即默认逐步淘汰第三方 Cookie，Safari 和 Firefox 已经这样做了。相反，谷歌 Chrome 将要求用户“做出明智的选择，并在整个网页浏览过程中适用”。在谷歌的财报电话会议上，Pichai 表示，他相信“用户选择是最好的前进道路”，并补充说，该公司将继续“投资于隐私增强技术”，同时“听取生态系统参与者的反馈”。
+Alphabet 的其他领域也实现了增长。谷歌的广告业务激增至 646 亿美元，而 YouTube 广告同比增长 13% 至 86 亿美元。包括订阅、平台和设备在内的部门盈利 93 亿美元。谷歌将在 8 月份举行比往常更早的硬件活动，届时将推出已发布的 Pixel 9 和 Pixel 9 Pro Fold，此后，其业务可能会再次大幅提升。
+更正，7 月 23 日：A之前的文章版本错误地将谷歌的利润说成是 8500 万美元，而实际上谷歌的利润是 850 亿美元。
 ]]></description>
       <guid>https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results</guid>
       <pubDate>Tue, 23 Jul 2024 20:39:51 GMT</pubDate>
@@ -84,101 +165,6 @@ ESR 通过 Kickstarter 众筹活动 提供 Geo Wallet，该活动已超过其 12
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/23/24204411/kakaotalk-kim-beom-su-kpop</guid>
       <pubDate>Tue, 23 Jul 2024 19:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡马拉·哈里斯想让你知道她正在度过一个“淘气”的夏天</title>
-      <link>https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24203547/kamala-harris-presidential-campaign-charli-xcx-brat-summer-meme</guid>
-      <pubDate>Tue, 23 Jul 2024 19:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 首席执行官确认即将推出带有 Hi-Fi 音频的“豪华”版本</title>
-      <link>https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed</link>
-      <description><![CDATA[
-
-照片由 David M. Benett / Dave Benett / Getty Images for Spotify 拍摄
-
-Spotify HiFi 的传奇故事曲折离奇。该音乐服务的更高质量流媒体层于三年多前首次宣布，但尚未实现。最近的报道称，无损音频将与其他福利（如高级库管理、AI 驱动的播放列表和耳机音质优化）捆绑在一起，作为 Spotify 高级订阅的附加功能。今天，在 Spotify 的财报电话会议上，该公司首席执行官 Daniel Ek 证实，一款比 Premium 更好的产品仍在开发中——尽管他没有提供确切的时间表。
-Ek 说，这项工作仍处于“早期阶段”，这可能是我最喜欢的陈词滥调科技行业短语。（对于那些在家记分的人来说，自 Spotify 首次宣布 HiFi 以来已经过去了 1,247 天。）“这里的计划是提供更好的 Spotify 版本，”Ek 说。“想想比目前的高级层高出 5 美元左右。因此，它的价格大概在 17 美元或 18 美元左右，但有点像 Spotify 的豪华版，具有普通 Spotify 版本的所有优点，但控制力更强，全面质量更高，还有一些其他我还没准备好谈论的东西。”
-
-该定价将符合彭博社的估计，即在 Spotify 每月 11.99 美元的价格基础上额外增加约 5 美元。无论 Spotify 的无损音频最终采用何种形式，它都会与公司最初的设想大不相同。种种迹象表明，当苹果和亚马逊开始在其标准订阅计划中提供更高分辨率的音频时，Spotify 措手不及。这家领先的音乐流媒体公司一直打算以更高的价格出售它。
-这些公司可以更积极地定价，因为他们有许多其他部门来帮助平衡任何损失。Spotify 就没那么幸运了，所以该公司不得不重新调整计划，并推出一个附加包，希望这个附加包能吸引尽可能多的应用程序高级用户。最后，时机似乎是正确的。
-“2.46 亿订阅者中有相当一部分人想要一个更好的 Spotify 版本，”Ek 说。 “这些是狂热的音乐爱好者，他们主要希望在使用 Spotify 的方式和 Spotify 上的音乐功能方面拥有更大的灵活性。”
-Bloomberg 报道称，Spotify 计划在今年晚些时候推出其“豪华”版本（Ek 如此称呼它）。所以，经过这么长时间的等待，我们只剩下几个月的时间就可以了解附加计划的所有内容了。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204520/spotify-ceo-hifi-audio-deluxe-plan-confirmed</guid>
-      <pubDate>Tue, 23 Jul 2024 18:22:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wooting 与 Razer 携手，为 PC 游戏带来快速新键盘功能</title>
-      <link>https://www.theverge.com/2024/7/23/24204422/wooting-razer-snap-tap-socd-beta-feature</link>
-      <description><![CDATA[
-
-图片：Wooting
-
-本月初，Razer 击败Wooting 推出了一项快速的新键盘功能，让玩家在各种竞争性 PC 游戏中更快地进行反击。现在，Wooting 已实现相同的功能。
-通常，要在第一人称射击游戏中切换扫射方向，您必须先完全释放一个键，然后再按下另一个键。如果同时按下两个键，它们会相互取消，您会像傻瓜一样站在那里片刻，直到您释放其中一个键。 专业玩家已经掌握了不重叠 A 和 D 键以在游戏中获得完美的反向移动和移动，但使用 Razer 的 Tap Snap 和 Wooting 的新同时对立基本方向 (SOCD) 测试版，您无需释放任何按键，可以快速点击 A 或 D 键进行反向移动，几乎不费吹灰之力。
-Wooting 也一直在开发一项类似的功能，称为 Rappy Snappy，其工作方式略有不同。 Rappy Snappy 利用 Wooting 的霍尔效应开关，根据按键按下的程度对按键进行优先排序，因此它与 Razer 称之为 Snap Tap 的最后按下优先级 SOCD 功能不同。虽然 Wooting 最初抵制 SOCD 而倾向于自己的方法，但现在它为其键盘提供了两种选择。
-Wooting 的 SOCD 实现实际上比 Razer 的更好，提供不同的分辨率，并且能够同时激活两个按键（如果您觉得这更自然的话）。 
-
-Snap Tap，或称 SOCD，已经在《反恐精英 2》、《Valorant》和《守望先锋 2》玩家中引起争议。“Razer 的新键盘基本上就是作弊”，YouTuber optimum 声称，他很好地解释了 Snap Tap 和 Wooting 的 SOCD 测试版的工作原理。 《反恐精英》 的创造者 MrMaxim 还指出，Snap Tap 甚至可以帮助您实现更长的跳跃，它还可以帮助您完成“墙壁钻探”，即您紧贴对角线墙壁以防止掉落伤害。
-“不应该允许”，专业反恐精英 2 玩家 ropz 在 X 帖子中说道。“做得不错，但这有点过分，实际上是一个宏/脚本，也称为空绑定。”多年来，PC 玩家一直使用空绑定来阻止您按两个相反的方向，在可以加载到游戏中的脚本或可以分配给按键的宏中。空绑定通常在锦标赛中是被禁止的。 Razer 的高级电子竞技大使 Jimmy Malavong 对 ropz 的担忧迅速做出回应，并指出该公司已经与锦标赛所有者进行了交谈。
-围绕此功能的争论似乎将在未来几周内继续，最终可能会以游戏仅实现空绑定而告终，让任何人都可以实现此功能，而无需购买 Razer 或 Wooting 键盘。
-如果您是 Wooting 键盘的拥有者，您可以通过该公司的beta Wootility 软件获取包含 Rappy Snappy 和类似 Snap Tap 的 SOCD 功能的更新。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204422/wooting-razer-snap-tap-socd-beta-feature</guid>
-      <pubDate>Tue, 23 Jul 2024 17:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>查克·舒默计划本周向参议院提交两项重要的儿童网络安全法案</title>
-      <link>https://www.theverge.com/2024/7/23/24204318/schumer-kosa-coppa-senate-floor</link>
-      <description><![CDATA[
-
-照片由 Alex Wong / Getty Images 拍摄
-
-参议院多数党领袖查克·舒默 (D-NY) 计划在演讲中宣布，他将在本周将《儿童网络安全法案》(KOSA) 和《儿童和青少年在线隐私保护法案》(COPPA 2.0) 提交参议院进行程序性投票。这标志着联邦政府在儿童网络安全立法领域迈出了迄今为止最大的一步。
-“过去几个月，我见了来自全国各地的家庭，他们经历了父母所能承受的最糟糕的事情——失去孩子，”舒默在一份声明中说。“这些家庭没有陷入失去孩子的黑暗中，而是用他们的倡导为他人点亮了一盏明灯。我很自豪能与他们并肩工作，并提出我相信会通过的立法，更好地保护我们的孩子免受社交媒体和其他在线平台的负面风险。这项法案的通过历经漫长而艰巨的道路，可以改变和拯救生命，但今天，我们距离成功又近了一步。”
-
-KOSA 将对网络平台施加注意义务，采取合理措施减轻对未成年人的某些伤害，要求未成年人的账户提供家长控制选项，并防止自动播放等功能。 COPPA 2.0 将以现有儿童隐私法为基础，将隐私保护年龄从 13 岁提高到 17 岁，并禁止针对该群体的定向广告。
-“为未来而战”和“电子前沿基金会”等一些倡导团体一直批评 KOSA，担心它会扼杀互联网上的言论，并可能出于意识形态原因限制边缘儿童获取某些资源。虽然其他团体，包括 GLAAD 和 The Trevor Project 等著名 LGBTQ+ 团体，此前曾担心 KOSA 可能会被用来对付 LGBTQ+ 青年的资源，但在该法案的提案人做出几项修改后，他们放弃了反对。 
-舒默曾试图通过一致同意的方式通过该法案——如果没有参议员反对，这是一种通过立法的快速方式——但去年年底，参议员。罗恩·怀登 (D-OR) 宣布他将反对此举，因为他担心早期版本对 LGBTQ+ 内容的影响。尽管如此，这些法案仍获得了压倒性支持，只要有足够的时间推进，就应该能够确保它们在参议院取得成功。例如，KOSA 几个月来已有 60 多名共同提案人，从而达到了通过参议院所需的门槛。
-即使这些法案在参议院获得通过，未来仍可能面临更多挑战。这些法案需要得到众议院的通过，但由于共和党领导层对另一项隐私法案的担忧，众议院最近取消了一场委员会听证会，该听证会原本包括对 KOSA 的讨论。虽然美国各州都通过了各种类型的儿童网络安全法案，但许多法案已根据《第一修正案》被成功屏蔽，还有一些州尚未应对最高法院最近一项裁决的影响，该裁决确认社交媒体公司的内容审核和策展选择是富有表现力、受保护的言论。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204318/schumer-kosa-coppa-senate-floor</guid>
-      <pubDate>Tue, 23 Jul 2024 16:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果首款可折叠 iPhone 或将于 2026 年推出</title>
-      <link>https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026</link>
-      <description><![CDATA[
-
-照片由 Dan Seifert / The Verge 拍摄
-
-据 来自The Information的报道。据传这款手机将水平折叠，就像翻盖式三星 Galaxy Z Flip一样。
-2 月，The Information 报道称，苹果正处于开发两款折叠 iPhone 原型的早期阶段。但现在，苹果似乎已经确定了设计，因为The Information称该设备有一个内部昵称 V68，表明“该想法已经超越了概念阶段”，现在“正在与供应商一起开发”。
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-苹果的折叠式 iPhone 可能看起来与三星 Galaxy Z Flip 5 相似。
-
-据报道，苹果仍在努力抚平手机展开时出现的折痕，并试图让设备更薄。这证实了周二《电子时报》的报道，该报道披露了有关苹果折叠手机计划的类似细节。最近有传言称，苹果也在研发类似 MacBook 的可折叠手机，可能于 2026 年开始出货。
-据 The Information 报道，除了研发可折叠手机外，苹果可能还准备为明年的 iPhone 升级机械光圈，让用户实现景深效果，模糊图像背景，同时保持拍摄对象清晰。传言还表明，苹果正在开发2025 年更薄的 iPhone。
-7 月 23 日更新：添加了有关苹果 2025 年 iPhone 传闻计划的更多详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204421/apple-first-foldable-iphone-arrive-2026</guid>
-      <pubDate>Tue, 23 Jul 2024 16:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 聘请了前 Epic 高管，迎来了新的游戏主管</title>
-      <link>https://www.theverge.com/2024/7/23/24204447/netflix-president-of-games-alain-tascan</link>
-      <description><![CDATA[
-
-插图由 Nick Barclay / The Verge 提供
-
-Netflix 正在进行的游戏业务由一位新人负责。 据Variety报道，该主播聘请 Alain Tascan 担任其游戏部门的新总裁，此前他曾担任Fortnite制造商 Epic Games 的游戏开发执行副总裁。这一消息发布之际，游戏部门前负责人 Mike Verdu 已在 Netflix 担任不同职务，专注于组建“处于游戏创新前沿”的新团队。
-Tascan 自 2018 年起在 Epic 任职，负责该公司的第一方作品，其中不仅包括《堡垒之夜》及其各种模式，如《乐高堡垒之夜》，还包括《火箭联盟》和《糖豆人》等其他直播服务游戏。 Tascan 在一份声明中解释说，他之所以担任该流媒体的职位，是因为“我坚信 Netflix 具有重新定义游戏未来的独特优势。”
-尽管游戏尚未成为 Netflix 业务的主要部分，但该公司自 2021 年以来已涉足游戏领域，通过移动设备向订阅用户提供的游戏库越来越多。最近，该公司已将重点转向与其最受欢迎的节目相关的游戏；例如，《艾米丽在巴黎》的下一季将于 8 月 15 日首播，同时推出一款配套游戏。最近，该公司承诺每月推出一款新游戏。
-Tascan 的聘用可能有助于启动 Netflix 一些更雄心勃勃的游戏计划，其中包括进军大片游戏以及可在电视上播放的游戏和在云端。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204447/netflix-president-of-games-alain-tascan</guid>
-      <pubDate>Tue, 23 Jul 2024 16:18:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

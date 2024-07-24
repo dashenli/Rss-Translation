@@ -4,11 +4,39 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 23 Jul 2024 21:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 01:04:32 GMT</lastBuildDate>
+    <item>
+      <title>Meta发布的“Llama 3.1”有潜力对AI发展产生广泛影响</title>
+      <link>https://wired.jp/article/meta-ai-llama-3/</link>
+      <description><![CDATA[Meta Platforms 于 7 月 23 日（美国时间）免费发布了最新版本的大规模语言模型（LLM）“Llama 3.1”。这种开放的高性能模型可能会对人工智能的发展产生深远的影响，但也可能引发对其风险的争论。]]></description>
+      <guid>https://wired.jp/article/meta-ai-llama-3/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来不久，使用人工智能进行软件开发将成为“常态”</title>
+      <link>https://wired.jp/article/ai-powered-coding/</link>
+      <description><![CDATA[用于软件开发的人工智能代理“SWE-agent”已经发布。包括亚马逊和 OpenAI 在内的几家科技公司也在开发人工智能代理，它们不仅可以编写代码，还可以调试、组织和审查软件。]]></description>
+      <guid>https://wired.jp/article/ai-powered-coding/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一家专门从事数字时尚的公司提出的一种新的工艺形式</title>
+      <link>https://wired.jp/article/altava/</link>
+      <description><![CDATA[ALTAVA 是一家总部位于新加坡的数字时尚专业公司。通过Metaverse和NFT项目赢得了Prada、Fendi、GENTLE MONSTER等众多品牌的信任，下一个重点关注的领域是AI和空间计算。]]></description>
+      <guid>https://wired.jp/article/altava/</guid>
+      <pubDate>Tue, 23 Jul 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在城市酷热中提供遮荫的树木遭到严重破坏。</title>
+      <link>https://wired.jp/article/sz-hardiest-trees-urban-inferno-heat-cities/</link>
+      <description><![CDATA[在气温迅速上升的世界里，城市需要更多的树木来提供遮荫。然而，只有少数物种能够应对堪称灼热地狱的温度。在大多数情况下，它不再是该地区的特有种。]]></description>
+      <guid>https://wired.jp/article/sz-hardiest-trees-urban-inferno-heat-cities/</guid>
+      <pubDate>Tue, 23 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>硅谷的民主党捐助者开始支持副总统卡马拉·哈里斯</title>
       <link>https://wired.jp/article/bidens-out-silicon-valley-donors-turn-to-kamala-harris/</link>
-      <description><![CDATA[总统乔·拜登宣布退出 2024 年总统选举。作为回应，硅谷的民主党大捐助者已经开始支持副总统卡马拉·哈里斯。]]></description>
+      <description><![CDATA[总统乔·拜登宣布退出 2024 年总统选举。作为回应，硅谷的民主党大捐助者突然转而支持副总统卡马拉·哈里斯。]]></description>
       <guid>https://wired.jp/article/bidens-out-silicon-valley-donors-turn-to-kamala-harris/</guid>
       <pubDate>Tue, 23 Jul 2024 09:00:00 GMT</pubDate>
     </item>
@@ -41,7 +69,7 @@
       <pubDate>Mon, 22 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>泰坦号潜水器事故震惊世界——独家报道揭露令人不安的细节</title>
+      <title>泰坦潜艇事故震惊世界——独家报道揭露令人不安的细节</title>
       <link>https://wired.jp/article/titan-submersible-disaster-inside-story-oceangate-files/</link>
       <description><![CDATA[距离OceanGate潜水器被压坏已经过去一年多了。大量文件和前员工的证词显示，这位首席执行官在推进建造深海泰坦尼克号的计划时，削减了成本，忽视了警告，撒了谎，并牺牲了自己的生命。]]></description>
       <guid>https://wired.jp/article/titan-submersible-disaster-inside-story-oceangate-files/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>“macOS Sequoia”中包含的显着新功能</title>
       <link>https://wired.jp/article/apple-macos-sequoia-features/</link>
-      <description><![CDATA[Apple 已正式发布 macOS Sequoia 的公开测试版。让我们介绍一下2024年秋季发布的新操作系统值得关注的新功能、如何安装测试版以及兼容设备。]]></description>
+      <description><![CDATA[Apple 已正式发布“macOS Sequoia”的公开测试版。让我们介绍一下2024年秋季发布的新操作系统值得关注的新功能、如何安装测试版以及兼容设备。]]></description>
       <guid>https://wired.jp/article/apple-macos-sequoia-features/</guid>
       <pubDate>Sun, 21 Jul 2024 23:00:00 GMT</pubDate>
     </item>
@@ -78,37 +106,9 @@
     <item>
       <title>“USB-C”和“Thunderbolt”有什么区别？有关 USB 端口和速度的了解要点</title>
       <link>https://wired.jp/article/usb-ports-speeds-generations-and-thunderbolt-explained/</link>
-      <description><![CDATA[USB-C 本来应该让一切变得更简单，但代号和版本名称却非常令人困惑。在这里，我们总结了您需要了解的最大限度地提高设备性能的信息，包括与 USB 相关的术语和代数。]]></description>
+      <description><![CDATA[USB-C 本来应该让一切变得更简单，但代号和版本名称却非常令人困惑。在这里，我们总结了您需要了解的信息，以最大限度地提高设备的性能，包括与 USB 相关的术语和世代。]]></description>
       <guid>https://wired.jp/article/usb-ports-speeds-generations-and-thunderbolt-explained/</guid>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将废旧电池作为“原材料”再利用：美国政府回收计划的目标</title>
-      <link>https://wired.jp/article/it-will-soon-be-easier-for-americans-to-recycle-batteries/</link>
-      <description><![CDATA[美国政府宣布了一项 1400 万美元的计划，支持全国 1000 个收集点回收旧智能手机和个人电脑的电池。目的是重新利用旧电池作为生产新电池的宝贵原材料。]]></description>
-      <guid>https://wired.jp/article/it-will-soon-be-easier-for-americans-to-recycle-batteries/</guid>
-      <pubDate>Sat, 20 Jul 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么大规模的 Windows 故障会对机场和航空公司造成严重破坏</title>
-      <link>https://wired.jp/article/crowdstrike-windows-outage-airport-travel-delays/</link>
-      <description><![CDATA[由 CrowdStrike 软件缺陷引起的全球 Windows 系统故障给世界各地的航空公司和机场造成了严重破坏。为了理解其中的原因，我们需要了解该行业极其复杂的系统。]]></description>
-      <guid>https://wired.jp/article/crowdstrike-windows-outage-airport-travel-delays/</guid>
-      <pubDate>Sat, 20 Jul 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球 Windows 的失败也对无现金社会造成了严重破坏。</title>
-      <link>https://wired.jp/article/microsoft-crowdstrike-outage-cash/</link>
-      <description><![CDATA[即使在无现金社会中，全球范围内的 Windows 系统故障也造成了严重破坏。世界各地的一些商店不得不做出选择：要么限制只支付现金，要么关门直至系统恢复。]]></description>
-      <guid>https://wired.jp/article/microsoft-crowdstrike-outage-cash/</guid>
-      <pubDate>Sat, 20 Jul 2024 02:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于新型冠状病毒突变株“KP.3”你需要了解的信息</title>
-      <link>https://wired.jp/article/covid-19-kp3-flirt-variant/</link>
-      <description><![CDATA[新型冠状病毒变种“KP.3”的感染正在迅速蔓延。它是一种名为“FLiRT”的突变株，作为Omicron株“JN.1”的后代而诞生，比以前的主流突变株具有更强的传染性，并且还具有逃避疫苗抗体的能力。正在做。]]></description>
-      <guid>https://wired.jp/article/covid-19-kp3-flirt-variant/</guid>
-      <pubDate>Sat, 20 Jul 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
