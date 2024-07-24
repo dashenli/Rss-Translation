@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 22 Jul 2024 18:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 18:21:07 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 505：Charlie Ten C Ten</title>
+      <link>https://sixcolors.com/podcast/2024/07/the-rebound-505-charlie-ten-c-ten/</link>
+      <description><![CDATA[现在这是一个全是小屁孩的播客。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-505-charlie-ten-c-ten/</guid>
+      <pubDate>Wed, 24 Jul 2024 16:48:02 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）你不能再忽视 GDPR 了</title>
       <link>https://sixcolors.com/feed-only/2024/07/you-cant-ignore-gdpr-anymore/</link>
@@ -65,7 +72,7 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
     <item>
       <title>苹果的人工智能计划可能会将权力重新交到用户手中（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2400818</link>
-      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况并非如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
+      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况不再如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
       <guid>https://www.macworld.com/article/2400818</guid>
       <pubDate>Wed, 17 Jul 2024 16:00:09 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[Vulture 的 Josef Adalian 回来讨论出售派拉蒙的影响，以及该公司下一步可能的发展方向。我们还再次考虑了那个经典的流媒体问题——狂看还是不狂看？…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/downstream-73-must-stream-tv/</guid>
       <pubDate>Thu, 11 Jul 2024 23:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​在欧盟启用第三方 NFC 支付 ↦</title>
-      <link>https://sixcolors.com/link/2024/07/apple-to-enable-third-party-nfc-payments-in-the-eu/</link>
-      <description><![CDATA[欧盟委员会执行副主席玛格丽特·维斯塔格（Margrethe Vestager）宣布，苹果已承诺允许第三方支付应用在欧洲使用与 Apple Pay 相同的 NFC 功能。…]]></description>
-      <guid>https://sixcolors.com/link/2024/07/apple-to-enable-third-party-nfc-payments-in-the-eu/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:19:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
