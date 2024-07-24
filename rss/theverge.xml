@@ -4,7 +4,41 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Jul 2024 09:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:26:29 GMT</lastBuildDate>
+    <item>
+      <title>马克·安德森和本·霍洛维茨的道德沦丧</title>
+      <link>https://www.theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/24/24204706/marc-andreessen-ben-horowitz-a16z-trump-donations</guid>
+      <pubDate>Wed, 24 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitch 正在严厉打击聊天中的性骚扰</title>
+      <link>https://www.theverge.com/2024/7/24/24205070/twitch-sexual-harassment-policy-moderation-filters-automod</link>
+      <description><![CDATA[
+
+Nick Barclay / The Verge 插图
+
+Twitch 推出了新的政策和审核更新，旨在帮助遏制性骚扰。该流媒体平台在一篇博客文章中宣布，它已通过更明确地概述了禁止行为，使其性骚扰政策“更容易理解”。 Twitch 的审核工具现在还可以让主播更轻松地过滤掉不适当的聊天信息。
+Twitch 表示，该政策本身“基本没有变化”，但现在更好地定义了这家亚马逊旗下公司所认为的性骚扰——包括“非身体性的性行为”，这些行为会让用户在平台上感到被贬低、不舒服或普遍不受欢迎。
+“我们禁止不必要的评论——包括使用表情符号/表情符号发表的评论——关于某人的外表或身体、性要求或挑逗、性客体化以及与某人的性行为或活动有关的负面言论或攻击，无论其性别如何，”Twitch 表示。 “在任何情况下，我们都不会容忍录制或分享未经同意的亲密图像或视频，并且可能会向执法部门举报此类内容。”
+
+
+图片：Twitch
+AutoMod 用户现在应该会看到一个专门针对性骚扰的额外过滤类别。
+
+使用 AutoMod 是该平台内置的自主审核功能，现在还可以启用一个新类别，过滤“关于某人外表、性要求或挑逗以及性客体的不受欢迎评论”。与之前针对侵略和欺凌推出的类别一样，用户可以自定义审核的严格程度，并决定是否举报消息背后的用户。新的 AutoMod 类别目前提供英语版本，其他语言支持正在筹备中。
+这些更新是在有消息透露流行主播 Guy “Dr Disrespect” Beahm 四年前被 Twitch 封禁之后进行的，原因是他使用该平台现已停用的 Whispers 功能向未成年人发送“不当”消息。总体而言，女性玩家仍然不成比例地遭受来自男性的网络虐待和性骚扰，Bryter 调查发现，三分之二的女性玩家经历过恶意或威胁性行为，而超过百分之十的女性玩家受到过强奸威胁。]]></description>
+      <guid>https://www.theverge.com/2024/7/24/24205070/twitch-sexual-harassment-policy-moderation-filters-automod</guid>
+      <pubDate>Wed, 24 Jul 2024 11:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 指责测试软件导致 850 万台 Windows 机器瘫痪</title>
+      <link>https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue</guid>
+      <pubDate>Wed, 24 Jul 2024 09:33:54 GMT</pubDate>
+    </item>
     <item>
       <title>电子商务加剧仓库附近的污染</title>
       <link>https://www.theverge.com/2024/7/24/24204496/e-commerce-warehouse-truck-pollution-study</link>
@@ -19,8 +53,8 @@
 
 图片：The Verge
 
-多年前，Twitter 用绿橙色水枪取代了手枪表情符号，而现在，X 决定将其改回普通手枪。一名 X 员工在上周的一篇帖子中宣布了这一变化。。
-该公司尚未解释这一变化，但感觉这一变化符合伊隆·马斯克社交网络的品牌形象。Twitter 最初在 2018 年将其表情符号改为水枪，效仿Google 和 Facebook等其他公司的做法。 （苹果于 2016 年进行了改版；微软曾短暂持保留态度。）
+多年前，Twitter 用绿色和橙色的水枪取代了手枪表情符号，而现在，X 决定将其改回普通手枪。一名 X 员工上周在一篇帖子中宣布了这一变化。
+该公司尚未解释这一变化，但感觉这对埃隆·马斯克的社交网络品牌来说很重要。Twitter 最初在 2018 年将其表情符号改为水枪，效仿谷歌和 Facebook等其他公司。 （苹果于 2016 年进行了改版；微软曾短暂持保留态度。）
 
 
 
@@ -33,7 +67,7 @@
 
 “水枪”表情符号的当前条目。您还可以在此处和此处。
 
-表情符号是通用的，因为它们在各个平台上共享通用名称（U+1F52B 是水枪），由统一码联盟决定。但每个平台所有者都可以自行决定如何以视觉方式呈现它们。这就是我们解决 Great Cheeseburger Emoji Debacle 问题的方法，该问题已于2017 年 11 月得到解决。 
+表情符号是通用的，因为它们在各个平台上共享通用名称（U + 1F52B 是水枪），由统一码联盟决定。但每个平台所有者都可以决定如何以视觉方式呈现它们。这就是我们解决 Great Cheeseburger Emoji Debacle 问题的方法，该问题已于2017 年 11 月得到解决。 
 只有当您在网络上查看 X 时，您才会看到这把枪 — 截至撰写本文时，它似乎尚未在应用程序的移动版本中更新，尽管显然在某个时候正在路上。 
 
 
@@ -92,79 +126,6 @@ TP-Link 已推出 Archer BE3600，这是一款售价 99 美元的 Wi-Fi 7 路由
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24204339/deadpool-wolverine-review-xmen-marvel-mcu</guid>
       <pubDate>Tue, 23 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>得益于搜索和人工智能，谷歌本季度业绩表现亮眼</title>
-      <link>https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-过去几个月，Google 的搜索和云计算业务收入飙升，收入近 850 亿美元。这是根据谷歌母公司 Alphabet 周二发布的第二季度财报得出的结论，报告称，仅搜索业务就收入 485 亿美元。
-
-与此同时，谷歌云部门收入首次达到 100 亿美元，同时还实现了 10 亿美元的营业利润。在周二的财报电话会议上，谷歌首席执行官 Sundar Pichai 表示，该公司为云客户提供的生成式 AI 解决方案“已经创造了数十亿美元的收入，并被 200 多万开发人员使用。”
-
-“我们正在 AI 堆栈的每一层进行创新，”Pichai 在致投资者的一封信中说道。 “随着技术的发展以及我们追求未来的众多机遇，我们长期的基础设施领导地位和内部研究团队为我们提供了良好的定位。”据 CNBC 报道，本月早些时候，据报道，谷歌考虑以 230 亿美元收购初创公司 Wiz，以帮助增强其云安全产品组合，但Wiz 拒绝了这笔交易，以推进首次公开募股。
-
-在4 月份市值达到 2 万亿美元之后，谷歌开始推出由其大型语言模型 (LLM) Gemini 提供支持的搜索中的人工智能概览。但用户很快发现，该工具对某些查询提供了奇怪的答案，导致谷歌手动将其删除。尽管如此，Pichai 表示，AI 概览已导致“搜索使用量增加，用户对结果的满意度也提高。”
-本周，谷歌还宣布，将放弃其长期拖延的计划，即默认逐步淘汰第三方 Cookie，Safari 和 Firefox 已经这样做了。相反，谷歌 Chrome 将要求用户“做出明智的选择，并在整个网页浏览过程中适用”。在谷歌的财报电话会议上，Pichai 表示，他相信“用户选择是最好的前进道路”，并补充说，该公司将继续“投资于隐私增强技术”，同时“听取生态系统参与者的反馈”。
-Alphabet 的其他领域也实现了增长。谷歌的广告业务激增至 646 亿美元，而 YouTube 广告同比增长 13% 至 86 亿美元。包括订阅、平台和设备在内的部门盈利 93 亿美元。谷歌将在 8 月份举行比往常更早的硬件活动，届时将推出已发布的 Pixel 9 和 Pixel 9 Pro Fold，此后，其业务可能会再次大幅提升。
-更正，7 月 23 日：A之前的文章版本错误地将谷歌的利润说成是 8500 万美元，而实际上谷歌的利润是 850 亿美元。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204618/google-search-ai-q2-2024-earnings-results</guid>
-      <pubDate>Tue, 23 Jul 2024 20:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉 2024 年第二季度利润大幅下滑</title>
-      <link>https://www.theverge.com/2024/7/23/24201234/tesla-q2-2024-earnings-robotaxi-ai-cybertruck</link>
-      <description><![CDATA[
-
-照片由 Osmancan Gurdogan / Anadolu via Getty Images 拍摄
-
-特斯拉发布了其第二季度收益报告，该公司表示，其营收为 255 亿美元，净利润为 14.8 亿美元。与 2023 年第二季度的 249 亿美元收入相比，这一数字同比增长了 2%，但净收入下降了 45%。
-特斯拉的毛利率再次成为关注的焦点，因为看涨的投资者希望在多年持续下滑之后看到改善。疯狂的降价和需求降温以及更便宜的融资使该公司曾经引以为豪的利润率跌至六年来的最低点。 
-“电动汽车普及率恢复增长”
-根据公认会计准则，该公司报告的毛利率为 18%，略高于上一季度报告的 17.4%，但略低于 2023 年第二季度。
-在致股东的信中，特斯拉庆祝全球“电动汽车普及率恢复增长”，该公司表示这归功于客户情绪的改善。 
-
-
-2024 年第二季度股东更新 → https://t.co/sXBSeLiJIj— 亮点我们继续在全球范围内扩大我们的汽车阵容，推出 Model 3 的新装饰和Y 以及新的 S3XY 油漆选项。车辆- 更新的 Model 3 坡道继续成功- 我们还将继续获得更多资格…… pic.twitter.com/2UuLhlmjvD— 特斯拉 (@Tesla) 2024 年 7 月 23 日
-
-
-“我们相信纯电动汽车是最佳的汽车设计，随着续航里程、充电和服务的神话被揭穿，它最终将赢得消费者的青睐，”特斯拉说。 
-本月初，特斯拉发布了好于预期的交付和生产报告，推动公司股价飙升。特斯拉生产的汽车和交付量比一年前有所减少，分别为 4.76% 和 14%，但仍超出华尔街的预期，华尔街此前预计的数据要糟糕得多。
-毫无疑问，这对特斯拉来说是一个艰难的季度。特斯拉放弃了生产更实惠的“Model 2”汽车的计划 — — 然后又重新致力于此。马斯克曾宣布将于 8 月举行机器人出租车发布会，但随后将其推迟到 10 月。该公司开始了一系列大规模裁员，包括整个 Supercharger 团队，然后又重新雇佣了很多人。特斯拉先进的驾驶辅助技术受到严厉审查，因为之前的召回未能防止驾驶员误操作。在法官驳回第一笔薪酬方案后，特斯拉股东再次批准了埃隆·马斯克的巨额薪酬方案。 
-除此之外，马斯克支持唐纳德·特朗普担任总统，将他的公司置于紧张的政治环境中，这可能会对特斯拉的销售和品牌声誉产生影响。 
-正在开发...]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24201234/tesla-q2-2024-earnings-robotaxi-ai-cybertruck</guid>
-      <pubDate>Tue, 23 Jul 2024 20:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款可追踪钱包里什么都有，除了 AirTag</title>
-      <link>https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag</link>
-      <description><![CDATA[
-
-您无需将 AirTag 塞入 ESR 的 Geo Wallet 即可找到它。 |图片：ESR
-
-ESR 的 Geo Wallet 拥有自己的集成跟踪模块，与 Apple 的 Find My 网络兼容，采用传统的双折设计，如果丢失，可以使用 iPhone 定位，而且里面不会塞满 AirTag。
-设计用于容纳 AirTag 或信用卡大小的跟踪器（如 Chipolo）的钱包并不缺乏，但通过使用自己的跟踪模块和厚度仅为 1.6 毫米的可充电锂电池，双折 Geo Wallet 提供了相同的功能，而且里面的空间不仅仅可以容纳几张卡。
-
-
-图片：ESR
-您可以在 Geo Wallet 中放入现金、硬币、九张卡，甚至几张身份证件。
-
-Geo Wallet 内有九张卡的插槽，包括两个带窗口的身份证插槽、一个可容纳 10 张钞票的口袋，以及一些零钱的空间。它由素食皮革制成，带有一层 RFID 屏蔽材料，有七种颜色可供选择：碳纤维、暮光黑、可可色、蛋白石灰、陈年皮革、橘色和象灰色。
-Geo Wallet 跟踪模块中的电池厚度只有 AirTags 中使用的可更换 CR2032 纽扣电池的一半。ESR 声称，只需充电两小时，薄电池就可以为跟踪器供电五个月，而 Apple 声称 AirTag 中的新电池可以为其供电长达一年。
-
-
-图片：ESR
-专有端口意味着您还有一条充电线需要监控。
-
-五个月的使用时间足够长，充电不会成为麻烦，但为了帮助保持 Geo Wallet 的纤薄，ESR 选择了专有的磁性充电线。这是另一根您不想丢失的电缆，因为您无法使用智能手机找到该重要配件。
-ESR 通过 Kickstarter 众筹活动 提供 Geo Wallet，该活动已超过其 12,809 美元的筹资目标。早期支持者可以以 41 美元的价格预订一个，而众筹活动结束后，钱包的售价预计将接近 55 美元。
-众筹产品始终存在无法提供承诺的功能或任何功能的风险。但这里的风险较小。 ESR 是一个知名品牌，提供类似的Find My 兼容钱包。它并没有通过 Geo Wallet 开辟新天地，而是为 Apple 的跟踪硬件提供了一个更精简的解决方案，同时仍然利用广泛的“查找我的”网络来提高丢失后被找到的几率。]]></description>
-      <guid>https://www.theverge.com/2024/7/23/24204465/esr-wallet-apple-find-my-tracking-airtag</guid>
-      <pubDate>Tue, 23 Jul 2024 19:48:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
