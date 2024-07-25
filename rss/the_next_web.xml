@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 25 Jul 2024 03:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 06:21:17 GMT</lastBuildDate>
+    <item>
+      <title>轮胎灰尘磁铁有望捕获伦敦电动汽车产生的微塑料污染</title>
+      <link>https://thenextweb.com/news/tyre-dust-magnet-tyre-collective-microplastic-pollution-london-ev</link>
+      <description><![CDATA[一家英国初创公司正在伦敦的一队电动汽车送货车上安装静电轮胎集尘机，希望能够减少全球第二大微塑料污染源。汽车行驶时，轮胎和路面之间的摩擦会导致微小的橡胶颗粒脱落，然后分散到空气、水中，甚至我们的身体中。轮胎中含有多种有毒化学物质，接触这些化学物质会导致癌症、肺病，甚至河鲑鱼大量死亡。“我们都很清楚汽车尾气排放，但其严重性…本报道在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/tyre-dust-magnet-tyre-collective-microplastic-pollution-london-ev</guid>
+      <pubDate>Thu, 25 Jul 2024 04:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>英国独角兽公司 Improbable 在转向风险投资建设后终于实现盈利</title>
       <link>https://thenextweb.com/news/virtual-worlds-unicorn-improbable-reports-first-profit</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[剑桥大学的一家衍生公司正在开发一种可展开的热探测望远镜，可以以实惠的价格捕捉地球的高分辨率热图像。SuperSharp 将这些能力归功于其可展开的“自对准技术”，该技术使其能够将大型望远镜安装在小型卫星上。目前，一些大型、昂贵的低地球轨道卫星可以不频繁地捕捉高分辨率图像，而小型、低成本卫星可以频繁捕捉低分辨率图像。初创公司 SuperSharp 希望占据中间位置。展开式望远镜并不是什么新鲜事——只要看看詹姆斯·韦伯就知道了——但它们通常非常昂贵，而且出了名的棘手…本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/supersharp-unfolding-thermal-telescope-home-energy-efficient</guid>
       <pubDate>Tue, 23 Jul 2024 09:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Julia 如何击败 Python 成为编程语言的主导</title>
-      <link>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</link>
-      <description><![CDATA[尽管 Python 花了几年时间才完全普及，但它凭借其简洁易懂的语法、可读性和初学者易学性，继续在编程领域占据主导地位。然而，用户最常见的抱怨是 Python 速度慢。比 C++ 慢，比 Java 慢，比 C# 慢。它也比 Julia 慢，Julia 是 2012 年发布的一款高性能、相对较新的语言。Jeff Bezanson、Stefan Karpinski、Viral B. Shah 和 Alan Edelman 设想的 Julia 是一种快速且高级的免费语言，与 Python 或 R 一样易于使用…This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/julia-beat-python-programming-language-dominance</guid>
-      <pubDate>Tue, 23 Jul 2024 08:51:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
