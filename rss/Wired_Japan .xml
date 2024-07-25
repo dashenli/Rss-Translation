@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 25 Jul 2024 06:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 09:17:56 GMT</lastBuildDate>
+    <item>
+      <title>由人体细胞制成的“生物机器人”将开辟医疗保健的未来</title>
+      <link>https://wired.jp/article/anthrobots/</link>
+      <description><![CDATA[用生物细胞制造机器人。这种类似科幻小说的研究正在取得进展。由人体细胞制成的 Ansu 机器人可能使针对个人体质和疾病的个性化医疗最终成为可能。]]></description>
+      <guid>https://wired.jp/article/anthrobots/</guid>
+      <pubDate>Thu, 25 Jul 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>黑暗深海中“氧气”的来源，令人惊讶的机制不是光合作用</title>
       <link>https://wired.jp/article/dark-oxygen-deep-sea-polymetallic-nodules-discovery/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>iPhone也“可折叠”吗？ 所报道的“谣言”的真实性</title>
       <link>https://wired.jp/article/apple-folding-iphone-right-move-at-the-right-time/</link>
-      <description><![CDATA[科技信息网站上有传言称，苹果正在开发一款可折叠 iPhone 机型。如果这个代号为“V68”的项目能够取得成果，那么它可能会在技术成熟的理想时机推出。]]></description>
+      <description><![CDATA[科技信息网站上有传言称，苹果正在开发一款可折叠 iPhone 机型。如果这个代号为“V68”的项目能够实现，那么它可能会在技术成熟的理想时机推出。]]></description>
       <guid>https://wired.jp/article/apple-folding-iphone-right-move-at-the-right-time/</guid>
       <pubDate>Wed, 24 Jul 2024 22:10:00 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 24 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《CMF Phone 1》评测：低价位中“近乎满分”的智能手机</title>
+      <title>《CMF Phone 1》评测：低价位“近乎满分”的智能手机</title>
       <link>https://wired.jp/article/cmf-phone-1-review/</link>
       <description><![CDATA[Nothing旗下子品牌“CMF by Nothing”的首款智能手机“CMF Phone 1”已在部分国家和地区上市。尽管价格仅为 199 美元，但设计和性能都非常出色，使其成为一款可以用“近乎完美”来形容的设备。]]></description>
       <guid>https://wired.jp/article/cmf-phone-1-review/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着以虚假视频为代表的深度造假技术变得越来越复杂，识别它的技术也在不断发展。美国图像和视频处理机构创办的一家初创公司正试图通过将人工智能与传统取证方法相结合来进行反击。]]></description>
       <guid>https://wired.jp/article/deepfake-detection-get-real-labs/</guid>
       <pubDate>Mon, 22 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>舌控控制器开发人员提供的无障碍空间计算技巧</title>
-      <link>https://wired.jp/article/augmental-mouthpad/</link>
-      <description><![CDATA[随着 Apple Vision Pro 等耳机变得越来越普及，我们可能会发现自己更频繁地使用四肢。然而，为了向更多人开放技术，我们也希望关注其可访问性。我们向 Augmental 的创始人、舌头控制控制器 Mouthpad^ 的创造者询问了一些技巧。]]></description>
-      <guid>https://wired.jp/article/augmental-mouthpad/</guid>
-      <pubDate>Mon, 22 Jul 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
