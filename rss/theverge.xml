@@ -4,171 +4,172 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jul 2024 15:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 18:19:02 GMT</lastBuildDate>
     <item>
-      <title>西南航空将改用指定座位</title>
-      <link>https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits</link>
-      <description><![CDATA[
-
-照片由 Gary Hershorn/Getty Images 拍摄
-
-西南航空即将改变处理客户座位的方式，改为使用指定座位和高级座位，这与 50 多年来一直采用的随意就座设置相比发生了重大变化。据《华尔街日报》报道，西南航空公布其盈利情况出现一些波动，第二季度利润下降 46%，此次转型正值其发生之际。
-
-西南航空首席执行官鲍勃·乔丹在一份新闻稿中表示，这些变化将基于员工和客户的反馈。乔丹称提供带有高级腿部空间和任务的座位是“变革性的”，但没有提供时间表或具体实施方式。该航空公司表示，他们已经进行了模拟和现场试验，这有助于做出这一决定，而且随着乘客开始乘坐长途航班，他们的偏好也发生了变化。
-新机型推出之际，西南航空还做出了其他改变，比如增加了更快的 Wi-Fi、电源插座和更大的行李架，该航空公司正在努力更新其客舱并升级到更舒适的座椅。这是该航空公司一系列有希望的升级——希望能消除对最佳登机组的疯狂争夺。
-
-
- ]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205975/southwest-assigned-seats-premium-change-falling-profits</guid>
-      <pubDate>Thu, 25 Jul 2024 14:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 的爬虫程序忽略了网站的反人工智能抓取政策</title>
-      <link>https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Anthropic 用来抓取 Claude 等 AI 模型的训练数据的 ClaudeBot 网络爬虫在 24 小时内对 iFixit 网站进行了近一百万次攻击，似乎违反了该维修公司的使用条款。 
-“如果任何这些请求访问了我们的服务条款，他们会告诉你，使用我们的内容是被明确禁止的。但不要问我，问 Claude！”iFixit 首席执行官 Kyle Wiens 在 X 上说，并发布了一些图片，显示 Anthropic 的聊天机器人承认 iFixit 的内容是禁止的。“你不仅在不付费的情况下获取我们的内容，而且还占用了我们的开发运营资源。如果您想讨论将我们的内容授权用于商业用途，我们就在这里。”
-
-
-嘿 @AnthropicAI：我知道您渴望数据。Claude 真的很聪明！但您真的需要在 24 小时内访问我们的服务器一百万次吗？您不仅在不付费的情况下获取我们的内容，而且还占用了我们的 devops 资源。不酷。— Kyle Wiens (@kwiens) 2024 年 7 月 24 日
-
-
-iFixit 的使用条款政策规定，“未经公司事先明确书面许可，严禁复制、复印或分发”网站上的任何内容，具体包括“训练机器学习或人工智能模型”。然而，当 404 Media 就此问题向 Anthropic 提出 质询时，这家 AI 公司链接回 FAQ 页面，该页面称其爬虫只能通过 robots.txt 文件扩展名进行阻止。
-Wiens 表示，iFixit 此后已 添加了抓取延迟扩展名添加到其 robots.txt 中。我们已要求 Wiens 和 Anthropic 对此发表评论，如果收到回复，我们将更新此报道。
-iFixit 似乎并不是唯一一家这么做的公司，Read the Docs 联合创始人 Eric Holscher 和 Freelancer.com 首席执行官 Matt Barrie 在 Wiens 的帖子中表示，他们的网站也遭到了 Anthropic 爬虫的猛烈抓取。对于 ClaudeBot 来说，这似乎也不是什么新行为，几个月前的Reddit 帖子报告 Anthropic 的网络抓取量急剧增加。今年 4 月，Linux Mint 网络论坛将网站中断归咎于 ClaudeBot 的抓取活动造成的压力。
-通过 robots.txt 文件禁止爬虫也是许多其他 AI 公司（如 OpenAI）的首选退出方法，但它没有为网站所有者提供任何灵活性来表示什么是允许的，什么是不允许的。另一家 AI 公司 Perplexity 则以完全 忽略 robots.txt 排除规则而闻名。尽管如此，这仍然是公司将其数据排除在 AI 培训材料之外的少数几种选择之一，Reddit 已在最近的打击网络爬虫行动中采用了这一做法。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data</guid>
-      <pubDate>Thu, 25 Jul 2024 14:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的健身追踪器</title>
-      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
+      <title>Sonos 首席执行官为新应用的灾难性推出道歉</title>
+      <link>https://www.theverge.com/2024/7/25/24206203/sonos-ceo-apology-redesigned-app-controversy</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
-      <pubDate>Thu, 25 Jul 2024 14:39:19 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/25/24206203/sonos-ceo-apology-redesigned-app-controversy</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院对雪佛龙的裁决将如何毁掉网络中立性</title>
-      <link>https://www.theverge.com/24205957/supreme-court-chevron-loper-bright-net-neutrality-federal-regulation-congress-decoder-interview</link>
-      <description><![CDATA[
-
-Cath Virginia / The Verge | 照片来自 Getty Images
-
-在今天的Decoder节目中，我们将讨论最高法院推翻雪佛龙尊重令的决定，以及这对互联网的未来意味着什么。 
-我几乎在整个科技记者生涯中都在报道网络中立之争——至今已有 15 年多。其理念是，互联网服务提供商不应该区分您在互联网上访问的服务：AT&amp;T 不应该减慢 X 的速度并加快 Threads 的速度，而 Verizon 不应该因为拥有 BlueJeans 而阻止 Zoom。 
-这是非常基本的东西，经过这么长时间，拜登政府的联邦通信委员会再次将其定为法律。但大型电信公司真的讨厌有人监管他们的网络，他们再次就此提起诉讼。直到最近，每个人都大致了解了这类案件中的论点以及它们将如何进行——就像我说的，我已经报道这个 15 年了。感觉很熟悉。
-
-
-但后来，一切都变了。 6 月底，最高法院在 Loper Bright Enterprises 诉 Raimondo 案中发布了一则重磅意见，推翻了所谓的 Chevron 尊重原则，即法院在解释法律中模棱两可的部分时，通常应该听从 FCC 等机构的意见。
-这意味着网络中立诉讼突然变得非常不同。现在的问题是法院是否认为互联网应该保持中立，而不是 FCC。你知道吗，第六巡回法院立即叫停了 FCC 的新网络中立命令，并要求简报说明 Loper Bright 裁决将如何改变此案。
-我邀请了 Verge 编辑 Sarah Jeong 参加节目，与我一起讨论所有这些问题，你会听到我们深入讨论。我的意思是，在过去的 40 年里，法官在解释法律的细节方面基本上都听从联邦机构的意见，因为这些机构雇用了专家，并且拥有非常深厚的学科知识。
-但现在，法官将有权做出自己的解释并抛弃旧的解释。而且，由于国会运作不善，几乎无法通过任何法律，最高法院在Loper Bright案中的裁决意味着司法部门对其他两个政府部门的权力争夺。
-这是一件大事，几乎对所有事情都产生了深远的影响，包括环境、劳动法和各种监管方式。在The Verge，我们的政策团队一直在跟踪这一结果，所以我想让 Sarah 来参加节目，详细分析我们是如何走到这一步的，以及这对未来意味着什么。
-如果这听起来真的很混乱、不稳定，那么……你没错，你会听到我们在节目最后讨论这个问题，我们会尽最大努力将这种状况放在背景中，并试图弄清楚接下来会发生什么。]]></description>
-      <guid>https://www.theverge.com/24205957/supreme-court-chevron-loper-bright-net-neutrality-federal-regulation-congress-decoder-interview</guid>
-      <pubDate>Thu, 25 Jul 2024 14:15:09 GMT</pubDate>
+      <title>OpenAI 发布其搜索引擎原型，与 Google、Perplexity 竞争</title>
+      <link>https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Elgato 为其 Stream Deck Plus 配备了新的 XLR 基座和 USB 集线器配件</title>
-      <link>https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories</link>
+      <title>WhatsApp 目前在美国每天拥有 1 亿用户。</title>
+      <link>https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone</link>
       <description><![CDATA[
 
-图片：Elgato
+插图：The Verge
 
-Elgato 为其 Stream Deck Plus 设备推出了两个新底座，可以添加 XLR 麦克风支持或 USB 集线器。 Stream Deck Plus 最初于 2022 年推出，带有常见的 Stream Deck 按钮、新的 LCD 显示屏和附加旋钮，但这些底座进一步扩展了功能。
-119.99 美元的 XLR Dock 插入 Stream Deck Plus 的后部，可提供高达 75dB 的增益，足以为 Shure 流行的 SM7B 麦克风供电。就像 Elgato 专用的 Wave XLR 一样，它甚至有一个用于零延迟监控的耳机插孔。 
-XLR Dock 意味着您只需要一根 USB 电缆连接到您的笔记本电脑或 PC 和单个设备，而不必结合使用 XLR 接口和 Stream Deck。 Stream Deck Plus 上的旋钮可以控制麦克风，并且还有多种方法可以在主 Stream Deck 按钮上分配静音开关等。
+Meta 首席执行官马克·扎克伯格今天在他的 WhatsApp 频道上宣布，截至 7 月，WhatsApp 在美国每天拥有 1 亿活跃用户25日。 
+据 WhatsApp 称，洛杉矶、纽约、迈阿密和西雅图是美国增长最快的市场之一。然而，该公司表示，其在南部各州也经历了“显着增长”，德克萨斯州的每日用户超过 1000 万。
+“这是 Meta 收购该消息应用程序以来首次发布有关用户的数据，并展示了该消息平台如何在美国经历了巨大的增长，该平台已经是世界上最大的消息应用程序，”WhatsApp 发言人 Ashley O&#39;Reilly 在一份新闻稿中写道。
+自 2014 年以 160 亿美元收购 WhatsApp 以来，Meta 已经 付出了很多努力，让这款应用在美国和国际上都一样受欢迎。其中一种方法是宣传 WhatsApp 在 iOS 和 Android 上的可用性，特别是跨平台向用户发送消息是多么容易。换句话说，由于 iPhone 不需要从 iMessage 切换到 SMS，来自 Android 的消息不会显示为绿色气泡，图像质量会降低，加密会被删除，消息也会缩短。最近，WhatsApp 引起了人们的注意，因为它重新聚集了摩登家庭的演员阵容，拍摄了一则广告，向家庭宣传这一功能。 
+
+尽管 WhatsApp 如今在 180 多个国家/地区拥有超过 20 亿用户，但它在美国仍然不如苹果的 iMessage 等竞争对手受欢迎。虽然它在美国可能经历了增长，但一旦苹果取代富通信服务 (RCS) 成为 Android 和 iOS 设备之间的通信协议，WhatsApp 的竞争将更加艰难。 RCS 支持将于今年秋季 iOS 18 推出，这意味着 iPhone 用户不一定需要将群聊切换到 WhatsApp——而 Meta 确实需要开始重新考虑其营销策略。
 
 
-图片：Elgato
-Stream Deck Plus 的 XLR Dock 背面。
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone</guid>
+      <pubDate>Thu, 25 Jul 2024 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会推进儿童网络安全法案</title>
+      <link>https://www.theverge.com/24205393/kids-online-safety-act-minors-age-verification-kosa</link>
+      <description><![CDATA[
+
+图片： Cath Virginia / The Verge
+
+推动互联网儿童安全的努力正在达到一个临界点。 《儿童在线安全法案》（KOSA）于 2023 年首次推出；一年多后，随着 8 月休会的临近，参议院准备对该法案进行投票。该法案有 70 位共同提案人 的支持，似乎很有可能获得通过。
+该法案的支持者认为，该法律对于保护儿童免受平台无休止地吸引用户注意力而可能造成的伤害是必要的。批评者认为，KOSA 不仅侵蚀了互联网自由，还可能阻止未成年人（尤其是 LGBTQ 未成年人）获取可能挽救生命的信息。 
+事实上，主要共同提案人参议员 Marsha Blackburn (R-TN) 公开为 KOSA 辩护，理由是“我们应该保护未成年儿童免受这种文化中的跨性别者的侵害。”
+KOSA 的现行文本规定了平台的注意义务，要求他们采取合理措施减轻对未成年人的特定伤害。其中包括网络欺凌、性剥削和饮食失调等。 
+除此之外，它还将强制使用某些类型的家长工具，要求默认情况下为儿童启用最高级别的隐私设置，并让年轻用户有权决定是否获得个性化推荐，例如通过算法推送。
+由于众议院下周提前休会，KOSA 的命运悬而未决。
+以下是有关 KOSA 的所有新闻：]]></description>
+      <guid>https://www.theverge.com/24205393/kids-online-safety-act-minors-age-verification-kosa</guid>
+      <pubDate>Thu, 25 Jul 2024 17:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是目前最好的 Apple Watch 优惠</title>
+      <link>https://www.theverge.com/21289209/best-apple-watch-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21289209/best-apple-watch-deals</guid>
+      <pubDate>Thu, 25 Jul 2024 16:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>创纪录高温过后，联合国发出“行动呼吁”</title>
+      <link>https://www.theverge.com/2024/7/25/24205999/heat-record-action-call-united-nations-workers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24205999/heat-record-action-call-united-nations-workers</guid>
+      <pubDate>Thu, 25 Jul 2024 16:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联社删除了一项事实核查，称 JD Vance 并未与沙发发生性关系</title>
+      <link>https://www.theverge.com/2024/7/25/24206088/jd-vance-fact-check-sex-couch-rumor-associated-press-retraction</link>
+      <description><![CDATA[
+
+照片由 Alex Wong / Getty Images 拍摄
+
+美联社显然已经撤回了 昨天发布的一份事实核查报告标题为“不，JD Vance 没有与沙发发生性关系”。截至周四上午，文章页面显示“页面不可用”错误消息。 
+事实核查引用了一些流传已久的社交媒体帖子，这些帖子声称共和党副总统候选人在他的书《乡下人的悲歌》中写到了与沙发做爱。
+一条推文写道：“在他那本可怕的小说《乡下人的悲歌》中，JD Vance 描述了在沙发上用夹在垫子之间的橡胶手套做爱。共和党选择他，是因为他离成为美国总统只有一步之遥。北卡罗来纳州——美国家具之都——的选民应该特别震惊。” （事实核查：《乡下人的悲歌》是一本回忆录，而不是小说。）
+另一篇文章：“不能肯定地说，但他可能是第一位在纽约时报畅销书中承认与塞在两个沙发垫之间的一个里外翻乳胶手套发生性关系的副总统候选人（万斯，《乡下人的悲歌》，第 179-181 页）。”
+需要明确的是，万斯在《乡下人的悲歌》中并没有写到与客厅家具发生性关系，也没有写到斯诺普斯揭穿这个病毒式笑话的真相。美联社事实核查的存档版本也指出，这本书的 PDF 版本中没有这样的段落。但从技术上讲，也没有证据表明万斯没有与沙发发生性关系——记者不可能真正知道这一点。他只是没有写这件事。
+
+
+哦，我的天pic.twitter.com/G8beJlERn4— 阿联酋异国猎鹰和Finance (@FalconryFinance) 2024 年 7 月 24 日
+
+
+“该报道没有通过电报发送给我们的客户，也没有经过我们的标准编辑流程。我们正在调查此事的来龙去脉，”美联社发言人 Nicole Meir 在一封电子邮件中告诉 The Verge。
+新闻报道（尤其是事实核查）的措辞通常都像穿针引线一样小心谨慎——说某事绝对没有发生和说没有证据证明某事发生是有区别的。我猜想，AP 的标题是这里的问题所在，因为它声称要揭穿一些不可知的真相。像“不，JD Vance 没有写过关于和沙发做爱的事情”这样的标题可能更准确。
+当你真正剥开层层外衣（翻过垫子？）时，我们任何人都无法证明我们没有和沙发做爱。
+更正，7 月 25 日：本文的先前版本错误地指出，AP 文章已于周五早上被删除。当时是周四早上。]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24206088/jd-vance-fact-check-sex-couch-rumor-associated-press-retraction</guid>
+      <pubDate>Thu, 25 Jul 2024 16:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Gemini AI 升级 Flash 后运行速度更快</title>
+      <link>https://www.theverge.com/2024/7/25/24206071/google-gemini-ai-flash-upgrade</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+得益于该公司 Gemini 1.5 Flash AI 模型的升级，Google 的 Gemini AI 聊天机器人将能够更快地响应您并在提示中处理更多内容。 
+随着升级到 1.5 Flash，您将看到“质量和延迟的全面改善，尤其是推理和图像理解方面的明显改善”，Gemini 工程副总裁 Amar Subramanya 在一篇博客文章中说道。 Subramanya 表示，Gemini 的上下文窗口（即 AI 模型可以一次处理的文本块数量）也将增加四倍，达到 32K 个 token。1.5 Flash 于 5 月的 Google I/O 上发布，据 Subramanya 称，从今天开始，Gemini 的免费版本将在网页和移动端提供。
+Google 还宣布了其他一些有关 Gemini 的消息。Subramanya 表示，为了帮助您找到您正在研究的主题的事实信息，该公司将从今天开始在 Gemini 中显示相关内容的链接，以提供“事实搜索提示”。您可以通过点击段落末尾的灰色箭头来查看链接。
+
+
+GIF：Google
+
+此外，Google 将开始“逐步”在 Google Messages 中向欧洲经济区、英国和瑞士的用户推出 Gemini。面向青少年的 Gemini 将于“未来一周”推出 40 多种语言版本。]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24206071/google-gemini-ai-flash-upgrade</guid>
+      <pubDate>Thu, 25 Jul 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>马里奥和耀西在乐高最新任天堂套装中奔跑</title>
+      <link>https://www.theverge.com/2024/7/25/24205955/lego-nintendo-super-mario-yoshi-snes-gaming-sdcc</link>
+      <description><![CDATA[
+
+该套装完美重现了超级马里奥世界中像素化的 16 位马里奥和耀西精灵。 |图片：乐高
+
+乐高在圣地亚哥动漫展上宣布了与任天堂的最新合作：像素化休闲游戏16 位超级任天堂经典游戏《超级马里奥世界》中的马里奥和耀西。与乐高艺术套装一样，它是一个用于展示的 2D 作品，但也包括隐藏的移动机制，让耀西栩栩如生。
+该套装由 1,215 件组成，组装后高 15 英寸，黄色斗篷的马里奥骑着耀西站在青草覆盖的山顶上。该套装的正面由乐高积木组装而成，看起来非常精确地再现了《超级马里奥世界》中使用的 16 位精灵。
  
 
-图片：Elgato
-Elgato 的 Stream Deck Plus USB 集线器。
+图片：乐高
+驱动展示件动画的机制全部暴露在背面。
 
 
-
-如果您没有 XLR 麦克风，那么 Elgato 还将推出 59.99 美元的 USB 集线器，可插入 Stream Deck Plus 背面。它包括两个 USB-C 端口、两个 USB-A 端口以及侧面的 SD 或 microSD 读卡器。所有四个 USB 端口均可提供高达 5Gb/s 的数据传输，因此遗憾的是，这里没有 Thunderbolt 速度。 
-还有一个 65 瓦的上行链路端口，如果您将此集线器连接到外部 USB-C 电源，它可以提供足够的电力为您的笔记本电脑充电。事实上，Elgato 建议将 USB-C 电源与此集线器一起使用：“大多数系统无法单独为 Stream Deck Plus 和 USB Hub 供电，否则会导致性能问题。为获得最佳效果，请始终将 USB 集线器连接到电源。”
-XLR Dock 和 USB Hub 可立即从 Elgato 的网上商店购买。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories</guid>
-      <pubDate>Thu, 25 Jul 2024 13:52:30 GMT</pubDate>
+但是当你翻转套装时，就会非常明显地看到乐高为何将其定位为展示件。乐高的设计师结合了一对机制来重现游戏的精灵动画。转动底座上的曲柄可以让耀西的腿无限循环地奔跑，而背部的旋钮可以打开恐龙的嘴巴，让它鲜红的舌头伸进伸出。
+乐高超级马里奥世界：马里奥与耀西套装现已正式通过乐高在线商店接受预订，售价 129.99 美元，并将于 10 月 1 日开始发货。这将是乐高和任天堂持续合作中推出的第五款成人玩具套装，其他三款分别是2,646 件 NES 游戏机、2,807 件 Mighty Bowser、540 件 Piranha Plant 和 2,064 块变形问号积木。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24205955/lego-nintendo-super-mario-yoshi-snes-gaming-sdcc</guid>
+      <pubDate>Thu, 25 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 高管将 Creative Cloud 取消费比作“海洛因”</title>
-      <link>https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205774/adobe-ftc-lawsuit-creative-cloud-cancellation-fees-heroin</guid>
-      <pubDate>Thu, 25 Jul 2024 13:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌即将发布 Pixel 9 发布会 曝光新消息</title>
-      <link>https://www.theverge.com/2024/7/25/24205904/google-pixel-9-leak-marketing-materials</link>
+      <title>Google Pixel Buds Pro 2 泄露，重新回归翼尖设计——有点像</title>
+      <link>https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors</link>
       <description><![CDATA[
 
-图片：Google
+图片：Android Headlines
 
-又有 Google Pixel 9 泄露消息浮出水面，这次是以营销材料的形式出现的  91mobiles 由可靠的泄密者 OnLeaks 提供。营销图片详细介绍了 Pixel 9、Pixel 9 Pro 和 Pixel 9 Pro Fold 可能附带的规格和功能，让我们对新设备知之甚少。
-如泄露的图片所示，基本款 Pixel 9 可能配备 6.3 英寸显示屏和 12GB RAM，而 Pixel 9 Pro 可能有 6.3 英寸和 6.8 英寸尺寸，配备 16GB RAM。材料表明，Pixel 9 Pro Fold 折叠时可能配备升级的 6.3 英寸显示屏，展开时可能配备 8 英寸显示屏，以及 16GB RAM。预计所有设备都将配备 Google 的全新 G4 Tensor 芯片。
-
-
-图片：OnLeaks via 91mobiles
-
-此次泄露的相机规格并不完全符合预期。 href=&quot;https://www.theverge.com/2024/7/16/24199655/google-pixel-9-pro-selfie-camera-upgrade-rumors-leak&quot;&gt;与 Android Authority 之前分享的 规格一致，因为它表明基础款 Pixel 9 将配备 1050 万像素前置摄像头和后置双摄像头设置，其中广角摄像头为 50MP，超广角镜头为 48MP。 
-它还展示了 Pixel 9 Pro，配备 42MP 自拍相机以及后置 50MP 主摄像头、48MP 超广角传感器和 48MP 远摄镜头。最后，Pixel 9 Pro Fold 可能配备 10MP 自拍相机、48MP 主相机、10.5MP 超广角传感器和 10.8MP 远摄镜头。
+Google 的 Pixel Buds Pro 2 可能会恢复我们在第一代 Pixel Buds 上看到的翼尖设计。可靠的泄密者 OnLeaks与 Android Headlines 分享的一系列图片显示，这款耳机在耳尖对面有轻微的凸起。
+耳翼并不像从原始 Pixel Buds 突出的所谓“稳定器弧”那么突出。我们对 2020 年这些耳机的评测提到，长时间佩戴后，弧线可能会引起不适。希望 Buds Pro 2 上较为低调的侧翼不会产生同样的效果。
 
 
-图片：OnLeaks via 91mobiles
+图片：OnLeaks 通过 Android Headlines
 
-泄露的营销材料还提供了 Pixel 9 系列可能具备的一些功能的介绍。除了谷歌的 Gemini AI 助手和 Circle to Search 之外，据传 Pixel 9 系列还将配备一项功能，可让您 搜索屏幕截图。一张图片显示“Pixel 屏幕截图”可以帮助您“保存以后想要记住的信息 - 例如事件地点等”。 
+除了翼尖之外，Pixel Buds Pro 2 似乎将其前代产品的黑色格栅换成了与耳机颜色相匹配的更大格栅。Android Headlines 还获得了类似 Pixel Buds Pro 2 的几种颜色的图片：灰色、白色、绿色和粉色。
+同时，外壳看起来大致相同，具有相同的蛋形和正面的 LED 灯。来自配件制造商 Spigen 的泄露图片显示，Pixel Buds Pro 2 外壳的 USB-C 端口旁边可能还有一个小孔。这可能是在使用 Google 的“查找我的设备”功能时发出声音的扬声器，但其用途仍不清楚。
 
-泄露的消息还表明，Pixel 9 将配备带有危机警报的紧急 SOS、七年的安全和 Pixel 功能下降更新，以及免费使用谷歌的 AI 模型 Gemini Advanced一年。您可以在91mobile的网站上查看全套泄露的营销材料。
-随着所有这些信息公开，8 月 13 日谷歌的硬件活动可能将不会再有太多惊喜。毕竟，随着新手机的外观的不断泄露，谷歌已经展示了其外观。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205904/google-pixel-9-leak-marketing-materials</guid>
-      <pubDate>Thu, 25 Jul 2024 13:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disney Plus、Hulu 和 Max 流媒体捆绑包现已推出</title>
-      <link>https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability</link>
-      <description><![CDATA[
 
-图片：迪士尼/华纳兄弟 Discovery
+图片：OnLeaks 通过 Android Headlines
 
-迪士尼和华纳兄弟 Discovery 联合打造的 Disney Plus、Hulu 和 Max 流媒体套装是 现已在美国上市。广告支持套餐的价格为每月 16.99 美元起（而每个服务的广告支持套餐每月需单独支付 25.97 美元），无广告套餐的价格为每月 29.99 美元（而每个服务的广告支持套餐每月需单独支付 47.97 美元）。
-有关 Disney / Hulu / Max 捆绑套餐的一些细节最初于 5 月披露，随后康卡斯特宣布为 Xfinity 客户推出类似的流媒体套餐，结合了 Netflix、 Peacock 和 Apple TV Plus。迪士尼旗下的 ESPN 也将于今年晚些时候与华纳兄弟、Discovery 和 Fox 合作推出直播体育流媒体服务。
-
-我们要求迪士尼澄清有关捆绑包的更多细节，例如流媒体质量和每个层级支持的同时观看人数，但该公司拒绝公开回答这些问题。不过，这些功能似乎将取决于任一版本捆绑包中为每个流媒体平台提供的特定层级 - 例如，Max 仅提供 1080p 的带广告和无广告版本。
-如果像这样的大型流媒体捆绑服务被证明是成功的，那么我们可以期待看到未来将提供更多平台组合。流媒体老板，例如华纳兄弟探索频道的首席执行官David Zaslav 曾表示，捆绑服务“非常有意义”。这是解决消费者遇到的流媒体疲劳和降低取消率的较流行的方法之一。然而，Netflix——目前是世界上最大的流媒体服务——认为与较小平台捆绑销售对公司本身没有多大好处。
-7 月 25 日更新： 补充说，迪士尼不会提供有关流媒体捆绑包功能的详细记录。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability</guid>
-      <pubDate>Thu, 25 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型《辐射：伦敦》模组现已推出</title>
-      <link>https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available</link>
-      <description><![CDATA[
-
-图片：Team FOLON
-
-Bethesda 还要过一段时间才会发布新的《辐射》游戏，但与此同时，一些有进取心的粉丝已主动发布了《辐射 4》的大型扩展包。 长期开发的模组辐射：伦敦现已在通过 GOG 免费下载，并且还兼容 Steam 版《辐射 4》。不过有一个问题：您需要使用最近的下一代更新之前的游戏版本。（下一代兼容版本也在开发中，但尚未确定日期。）
-伦敦模组自 2019 年开始开发，为后世界末日世界引入了新的地点和故事，包括全配音角色和 200 个不同的任务。估计包含 90 小时的游戏时间。以下是 Team Folon 开发人员的官方描述：
-正如其绰号所言，《辐射：伦敦》的故事发生在伦敦。从古板的议会贵族到圆桌骑士的复活，再到不妥协的革命者崇拜（还有更多！），《辐射：伦敦》体现了伦敦的历史和美学，并为这座心爱的城市赋予了明显的核能色彩。
-这个模组来得正是时候，因为《辐射》在Amazon Prime Video 上出色的真人剧集中占据了特别突出的位置，即将推出第二季。虽然尚未宣布任何单人《辐射》游戏，但开发商 Bethesda 刚刚发布了在线衍生作品《辐射 76》的主要扩展包。
-与此同时，该工作室将于今年晚些时候为《Starfield》 推出Shattered Space扩展包，而一款新的《上古卷轴》也正在开发中。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205219/fallout-london-mod-now-available</guid>
-      <pubDate>Thu, 25 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Galaxy Ring 让你与三星保持同步</title>
-      <link>https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24205156/samsung-galaxy-ring-review-smart-ring-wearables</guid>
-      <pubDate>Thu, 25 Jul 2024 13:00:00 GMT</pubDate>
+升级版 Pixel Buds Pro 并不是谷歌 8 月 13 日硬件发布会前唯一泄露的设备。今天早些时候，我们看到了营销材料，其中包含可能是 Pixel 9、Pixel 9 Pro 和 Pixel 9 Fold 的规格。如果谷歌不首先全面展示其设备，我们可能会在发布会前几周看到更多泄露的消息。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/25/24206015/google-pixel-buds-pro-2-leak-wing-tip-colors</guid>
+      <pubDate>Thu, 25 Jul 2024 15:23:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
