@@ -4,7 +4,96 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jul 2024 03:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:26:06 GMT</lastBuildDate>
+    <item>
+      <title>如何像冠军一样直播奥运会</title>
+      <link>https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock</guid>
+      <pubDate>Fri, 26 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 为 Home 应用提供 Nest Hello 支持</title>
+      <link>https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features</guid>
+      <pubDate>Fri, 26 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 中断后，微软呼吁 Windows 做出改变并提高恢复能力</title>
+      <link>https://www.theverge.com/2024/7/26/24206719/microsoft-windows-changes-crowdstrike-kernel-driver</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/26/24206719/microsoft-windows-changes-crowdstrike-kernel-driver</guid>
+      <pubDate>Fri, 26 Jul 2024 10:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 将对游戏演示进行重大升级</title>
+      <link>https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Valve 对 Steam 进行了一些更改，以便更轻松地查找和安装可玩的游戏演示。 Steam 在新活动博客文章中表示，“Steam 精彩演示更新”基于开发者和玩家的反馈，新功能使演示更像平台上托管的独立游戏。
+首先，演示现在可以有一个与主游戏完全分开的商店页面，允许开发者显示演示特定的内容，如预告片、屏幕截图和支持的功能。这些页面还将显示安装演示和访问主游戏商店页面的按钮，并允许玩家留下演示特定的评论。
+如果用户愿望清单上的游戏或他们关注的开发者推出了演示，这些用户现在可以通过电子邮件或手机提醒收到通知。演示列表现在也可以出现在与免费游戏相同的列表和类别页面上，例如 Steam 主页图表的“最新和热门”部分。除了免费游戏外，用户可能会看到演示出现得更频繁，因为 Steam 表示它已经“对门槛进行了一些更改”，以便“更好地平衡它们与付费产品。”
+
+
+图片：Steam
+免费游戏和新支持的游戏演示列表将更频繁地出现在 Steam 的排行榜上。
+
+此更新中的其他新功能包括无需立即安装演示即可将演示添加到 Steam 库中，即使用户已经拥有完整版游戏也可以安装演示，并且更容易右键单击演示即可将其删除。卸载演示后，它们也会从用户的库中删除。
+此更新中引入的可见性更改可能会在用户帐户上重新显示较旧的演示，Steam 表示“我们已尽力清理我们认为您不再关心的演示，但我们可能遗漏了一些。”
+有趣的是，Steam 在“不常问的问题”部分，适合那些不知道 Steam 的演示图标是基于光盘而不是餐盘的用户。我是不是太老了，我们真的到了让保存图标/软盘笑话现代化的地步了？
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages</guid>
+      <pubDate>Fri, 26 Jul 2024 10:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 将很快将您的 Android 手机添加到文件资源管理器</title>
+      <link>https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature</link>
+      <description><![CDATA[
+
+照片由 Chris Welch / The Verge 拍摄
+
+Microsoft 已开始测试一种新方法，可直接在 Windows 11 的文件资源管理器中访问 Android 手机。 Windows Insiders 现在可以测试此新功能，它可让您以无线方式浏览 Android 手机上的文件夹和文件。
+文件资源管理器中的集成意味着您的 Android 设备就像左侧的常规 USB 设备一样出现，能够在 PC 和 Android 手机之间复制或移动文件，以及重命名或删除它们。它肯定比使用现有的 Phone Link 应用要快得多。
+
+
+图片：Microsoft
+Android 手机将出现在文件资源管理器中。
+
+您需要一台运行 Android 11 或更高版本的设备、加入 Windows Insider 计划以及 Link to Windows 应用的测试版才能立即使用该功能。所有四个 Windows Insider 频道都可以测试此功能，包括 Release Preview 通道 — 这表明运行 Windows 11 的每个人都能访问此新功能的时间并不长。
+您可以通过导航至“设置”&gt;“蓝牙和设备”&gt;“移动设备”并选择“管理设备”部分来启用此文件资源管理器功能，以允许您的 PC 连接到您的 Android 手机。提示将包括文件资源管理器中的访问切换，以及通知和相机访问的常用选项。
+
+
+注册 Tom Warren 的 Notepad，这是一份每周通讯，揭示了微软在人工智能、游戏和计算领域开创性赌注背后的秘密和战略。订阅即可将最新内容直接发送到您的收件箱。
+
+
+每月
+$7/月
+将每期 Notepad 直接发送到您的收件箱。第一个月免费。
+开始试用
+
+
+年度
+70 美元/年
+以折扣价获得一年的 Notepad。第一个月免费。
+开始试用
+
+
+捆绑包
+100 美元/person/year
+获取一年的 Notepad 和 Command Line。第一个月免费。 
+同时订阅
+
+
+我们接受信用卡、Apple Pay 和 Google Pay。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature</guid>
+      <pubDate>Fri, 26 Jul 2024 09:19:11 GMT</pubDate>
+    </item>
     <item>
       <title>Peacock 的恐怖惊悚片《茶杯》将于十月上映</title>
       <link>https://www.theverge.com/24205137/teacup-date-teaser-peacock-horror-sdcc-2024</link>
@@ -83,93 +172,6 @@ Sierra Space 的充气结构被称为大型集成柔性环境 (LIFE)，于 1 月
 ]]></description>
       <guid>https://www.theverge.com/2024/7/25/24206219/nasa-sierra-space-inflatable-fabric-space-station-burst-test-video</guid>
       <pubDate>Thu, 25 Jul 2024 20:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子游戏表演者将罢工</title>
-      <link>https://www.theverge.com/2024/7/25/24206357/video-game-performer-strike-sag-aftra</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-经过一年半的谈判，美国演员工会和电视和广播艺人工会 (SAG-AFTRA) 呼吁所有根据该工会的《互动媒体协议》制作的视频游戏作品罢工。罢工将于 7 月 26 日凌晨 12:01 生效，影响所有美国演员工会和电视和广播艺人工会的演员、配音演员和动作捕捉演员，涉及 Activision Blizzard、EA、Insomniac Games、WB Games 等公司。根据美国演员工会和电视和广播艺人工会的新闻稿，工会和视频游戏公司无法就人工智能保护达成协议。
-“我们不会同意允许公司滥用人工智能损害我们成员利益的合同，”美国演员工会和电视和广播艺人工会主席 Fran Drescher 在新闻稿中表示。 “当这些公司认真考虑提供一份我们的成员可以接受和工作的协议时，我们将在这里，准备进行谈判。”
-在给The Verge的一份声明中，参与谈判的视频游戏制作人的发言人奥黛丽·库林 (Audrey Cooling) 写道： 
-我们很失望，工会在我们即将达成协议时选择退出，我们仍然准备恢复谈判。我们已经在 25 项提案中的 24 项上达成了共识，包括历史性的工资增长和额外的安全条款。我们的提议直接回应了 SAG-AFTRA 的担忧，并扩大了有意义的 AI 保护，包括要求所有在 IMA 下工作的表演者获得同意和公平补偿。这些条款是娱乐行业中最严格的条款之一。
-美国演员工会（SAG-AFTRA）网站上有一份长长的禁止活动清单，包括唱歌、表演、跳舞、进行动作捕捉、排练、试镜等。被罢工作品的广告也被禁止，这可能会影响圣地亚哥动漫展上宣传的游戏，但美国演员工会和美国电视和广播艺人联盟 (SAG-AFTRA) 包含一条条款，解释圣地亚哥动漫展上的游戏将免于罢工。
-去年 9 月，美国演员工会和美国电视和广播艺人联盟 (SAG-AFTRA) 投票批准罢工，当时好莱坞演员和编剧罢工正在结束。与这些罢工一样，人工智能的使用是主要症结之一，人们担心该技术可能会被用来取代工人。美国演员工会 (SAG-AFTRA) 已经就 AI 在视频游戏制作中的应用达成了一些协议，与 AI 语音公司 Replica Studios 签署了一项协议。该协议允许美国演员工会 (SAG-AFTRA) 成员与 Replica 独家合作，创建他们声音的数字复制品，然后可以通过协议授权使用期限和报酬。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24206357/video-game-performer-strike-sag-aftra</guid>
-      <pubDate>Thu, 25 Jul 2024 20:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 AirTags 售价 23.99 美元，创历史新低</title>
-      <link>https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24202063/airtag-location-tracker-apple-watch-series-9-deal-sale</guid>
-      <pubDate>Thu, 25 Jul 2024 19:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 目前在美国每月拥有 1 亿用户</title>
-      <link>https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Meta 首席执行官马克·扎克伯格今天在他的 WhatsApp 频道上宣布，截至 7 月，WhatsApp 在美国每月拥有 1 亿活跃用户25日。 
-据 WhatsApp 称，洛杉矶、纽约、迈阿密和西雅图是美国增长最快的市场之一。然而，该公司表示，其在南部各州也经历了“显着增长”，德克萨斯州的用户超过 1000 万。
-“这是 Meta 收购该消息应用程序以来首次发布用户数据，表明该消息平台（已经是世界上最大的消息应用程序）在美国经历了巨大的增长，”WhatsApp 发言人 Ashley O’Reilly 在一份新闻稿中写道。
-自 2014 年以 160 亿美元收购 WhatsApp 以来，Meta 已经 付出了很多努力，让这款应用在美国和国际上都一样受欢迎。其中一种方法是宣传 WhatsApp 在 iOS 和 Android 上的可用性，特别是跨平台向用户发送消息是多么容易。（因为 iPhone 不需要从 iMessage 切换到 SMS，所以来自 Android 的消息不会显示为绿色气泡，图像质量较低，加密被删除，消息被缩短。）最近，WhatsApp 引起了人们的注意，因为它重新聚集了摩登家庭的演员阵容，拍摄了一则广告，向家庭宣传这一功能。 
-
-尽管 WhatsApp 目前在 180 多个国家/地区拥有超过 20 亿用户，但它在美国仍然不如苹果的 iMessage 等竞争对手受欢迎。虽然它在美国可能经历了增长，但一旦苹果取代富通信服务 (RCS) 成为 Android 和 iOS 设备之间的通信协议，WhatsApp 的竞争将更加艰难。 RCS 支持将于今年秋季 iOS 18 推出，这意味着 iPhone 用户不一定需要将群聊切换到 WhatsApp——而 Meta 确实需要开始重新考虑其营销策略。
-更正，7 月 25 日：由于新闻稿不正确，本文的早期版本指出 1 亿统计数据是针对每日用户。它实际上是每月活跃用户。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24205421/whatsapp-meta-apple-ios-android-smartphone</guid>
-      <pubDate>Thu, 25 Jul 2024 19:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>《守望先锋 2》开启 6v6 模式回归</title>
-      <link>https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test</link>
-      <description><![CDATA[
-
-守望先锋 1 中的士兵 76 和莱因哈特。 |图片：动视暴雪
-
-《守望先锋 2》体验几年后，玩家的焦虑已经达到了一个地步，游戏制作者正在考虑恢复旧的 12 人比赛。今天暴雪开发人员的博客文章说，最后，“我们正在探索如何在游戏中测试不同形式的 6v6 以评估结果。” 
-游戏总监 Aaron Keller 还指出，英雄平衡、游戏性能以及如果玩家可以在两种模式之间进行选择，排队时间会发生什么变化等问题都是团队需要回答的问题，但至少已经准备好开始考虑了。
-
-除了让全价游戏免费玩并承诺玩家与环境内容之外，没有完全实现，转向守望先锋 2也从每队中移除一名坦克玩家。移除造成和受到最多惩罚的最大角色之一使事情变得简单得多，但也让游戏的结果看起来过于依赖于那个角色。 
-如果您的坦克被反击或被击败 — 通常就没什么可做的了。
-
-
-图片：Activision Blizzard
-
-那么，他们应该恢复旧风格吗？其实没那么简单。我在所有这些版本中都扮演过所有角色，我看到了双方对这个问题的争论。毫无疑问，新游戏的排队时间更短，该帖子将其归因于排队等待每个角色的实际玩家数量始终更接近每队一名坦克的比例。
-但即使在旧系统中，我也同意游戏很混乱，现在有很多玩家从未体验过这种游戏。祝你好运，向那些可能从未听过坦克队友之间大部分语音的人解释终极组合。
-虽然目前尚不清楚 6v6 游戏测试何时进行，但 Keller 表示，本赛季至少有一场“Hacked”活动将尝试“其他组建团队的方式，这些方式不像固定组合那样严格，但也不像 Open Queue 那样松散”，以了解开发人员如何解决一些问题。
-]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24206210/overwatch-2-six-player-team-multiplayer-test</guid>
-      <pubDate>Thu, 25 Jul 2024 19:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款保温旅行杯内藏有搅拌机</title>
-      <link>https://www.theverge.com/2024/7/25/24206200/nutribullet-flip-blender-appliances</link>
-      <description><![CDATA[
-
-Nutribullet Flip 的高扭矩电机足以搅拌冰块和大多数水果。 |图片：Nutribullet
-
-Nutribullet 的新款 Flip 将搅拌机整合到一个看起来不比典型的旅行杯大。如果早上没有足够的时间搅拌早餐，可充电 Flip 可以在任何你不介意发出一点噪音的地方使用。（也许可以避开拥挤的地铁。）
-售价 99.99 美元的 Flip 不是 Nutribullet 的第一款单杯搅拌机，也不是该公司的第一款可充电搅拌机。它与过去产品的不同之处在于，搅拌机部件（包括刀片、11.1 伏电动机和可充电电池）都集成在 Flip 的盖子中，而不是集成在留下的可拆卸底座中。我们之前在功能强大的 Cruz BlenderCap 中就见过这个想法，售价 149 美元。
-
-
-图片：Nutribullet
-您可以从 Flip 的盖子中饮用和倒出，盖子包括刀片、电机和电池。
-
-
-充满电后，Nutribullet Flip 可以运行 14 次 30 秒的搅拌循环，然后它需要通过 USB-C 充电线重新插入。七分钟的时间并不长，但应该足以混合可饮用的早餐或当天晚些时候的午餐。与此同时，Cruz 一周内每天都给我们带来一小杯奶昔。
-您可以将任何想要的食材装入 20 盎司的玻璃杯中。Nutribullet 声称 Flip 的马达足够强大，可以混合冰块、新鲜食材和“大多数”冷冻水果。但它也警告不要使用加热的食材，因为它们会导致内部压力积聚，从而导致盖子被强行打开或完全与玻璃杯分离。
-装满后，将盖子连接到绝缘玻璃杯上，然后将整个玻璃杯倒置，然后混合，使内容物落到切碎刀片上。还值得一提的是，Flip 本身的重量为 3.45 磅。相比之下，20 盎司的 Yeti 马克杯重量刚好超过一磅。随身携带这款马克杯时，加入冰块和冷冻水果会让您非常吃力。
-完成后，可以盖上盖子，用于倒水或饮用。最好的特点是，当 Flip 空了时，只需用肥皂和水填充，然后运行一次搅拌循环，即可轻松清洁。您不想将 Flip 浸入水中或将其放入洗碗机中，因为 USB-C 端口不防水。]]></description>
-      <guid>https://www.theverge.com/2024/7/25/24206200/nutribullet-flip-blender-appliances</guid>
-      <pubDate>Thu, 25 Jul 2024 18:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
