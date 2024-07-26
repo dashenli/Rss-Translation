@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 26 Jul 2024 12:27:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 15:17:29 GMT</lastBuildDate>
+    <item>
+      <title>集体#856</title>
+      <link>https://tympanus.net/codrops/collective/collective-856/</link>
+      <description><![CDATA[关于视图转换的误解 * 正确的固执 * CSS 网格生成器]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-856/</guid>
+      <pubDate>Fri, 26 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Rogier de Boevé 投资组合 — 2024</title>
       <link>https://tympanus.net/codrops/2024/07/26/case-study-rogier-de-boeve-portfolio-2024/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[过去几周最鼓舞人心的网站设计的全新集合。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/05/inspirational-websites-roundup-62/</guid>
       <pubDate>Fri, 05 Jul 2024 10:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lummi：永远告别枯燥无味的照片</title>
-      <link>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</link>
-      <description><![CDATA[Lummi 正在结束枯燥无味的库存照片时代，它通过高质量、免版税、人工智能生成的图像来增强创意工作流程。深入了解 Lummi 如何帮助您创建引人入胜的独特设计并改变您的创作方式。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever/</guid>
-      <pubDate>Thu, 04 Jul 2024 12:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

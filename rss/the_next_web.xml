@@ -4,11 +4,25 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 26 Jul 2024 12:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 15:16:55 GMT</lastBuildDate>
+    <item>
+      <title>巴黎奥运会应用程序成为网络犯罪分子的首要目标</title>
+      <link>https://thenextweb.com/news/paris-olympics-app-cybersecurity-hackers</link>
+      <description><![CDATA[2024 年巴黎奥运会于今日拉开帷幕。但随着这座“光之城”向数百万观众敞开大门，官员们正准备迎接一场网络战争。分析师预测，今年的奥运会可能会遭遇多达 40 亿次网络攻击。 2024 年巴黎奥运会官方应用程序特别容易受到攻击。“这款应用处理大量个人和交易数据，因此成为网络犯罪分子的主要目标，”加州 Synopsys Software Integrity Group 的云安全主管 Sakthi Mohan 说。巴黎奥运会应用程序在 Google Play 上的下载量已超过 1000 万次。它允许…本故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/paris-olympics-app-cybersecurity-hackers</guid>
+      <pubDate>Fri, 26 Jul 2024 13:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 年后，Homebrew 的维护者计划以此谋生</title>
+      <link>https://thenextweb.com/news/homebrew-maintainer-make-a-living-15-weeks</link>
+      <description><![CDATA[现在，在计算机上安装和更新应用程序及其他依赖项应该已经是一个解决的问题了。然而，几乎每个主流桌面操作系统都提供了多种选择，但对于“哪个最好”并没有真正明确的答案。尽管 Linux 拥有 apt、deb 和 rpm 等历史悠久的软件包管理器，但开源和专有安装之间，以及开发者工具和更注重用户的工具之间仍然存在混乱和不一致的问题。此外，许多软件包开发人员甚至没有向任何软件包管理器分发软件包，或者您在其中找到的版本已经过时。Windows 也好不到哪里去......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/homebrew-maintainer-make-a-living-15-weeks</guid>
+      <pubDate>Fri, 26 Jul 2024 12:41:29 GMT</pubDate>
+    </item>
     <item>
       <title>空客支持太空健身房促进宇航员健康</title>
       <link>https://thenextweb.com/news/astronauts-exercise-machine-joins-airbus-space-accelerator</link>
-      <description><![CDATA[一台宇航员健身器材已进入空客加速器。该设备由英国初创公司 Physical Mind London 制造，可减轻零重力带来的影响。在太空中待了六个月后，宇航员的骨质会流失高达 20%。他们的肌肉也会急剧萎缩。在短途飞行中，宇航员的肌肉会损失 20%。如果不采取任何应对措施，这一数字可能会上升到 50%。Physical Mind London 希望提供这些应对措施。该公司的旗舰产品是 HIFIm（微重力高频脉冲机）。HIFIm 提供基于一项特殊运动的锻炼：跳跃。…This story continued at The Next Web]]></description>
+      <description><![CDATA[一台宇航员健身器材已进入空客加速器。该设备由英国初创公司 Physical Mind London 制造，可减轻零重力带来的影响。在太空中待了六个月后，宇航员的骨质会流失高达 20%。他们的肌肉也会急剧萎缩。在短途飞行中，宇航员的肌肉会损失 20%。如果不采取任何应对措施，肌肉损失可能会上升到 50%。Physical Mind London 希望提供这些应对措施。该公司的旗舰产品是 HIFIm（微重力高频脉冲机）。HIFIm 提供基于一项特殊运动的锻炼：跳跃。…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/astronauts-exercise-machine-joins-airbus-space-accelerator</guid>
       <pubDate>Thu, 25 Jul 2024 15:37:49 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[﻿欢迎收听 TNW Podcast 的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的节目中，Linnea 和 Andrii 讨论了医疗保健领域的人工智能、欧洲太阳能的未来、Crowdstrike 和一级方程式赛车、天文学家检测深度伪造等等。您还将听到与 Q*Bird 联合创始人兼研发总监 Remon Berrevoets 的台上对话，Linnea 在 TNW 会议上与他讨论了量子技术，特别是量子密钥分发 (QKD) 技术......这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/remon-berrevoets-quantum-european-solar</guid>
       <pubDate>Wed, 24 Jul 2024 12:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国支持“太空镜”将月球冰融化成饮用水</title>
-      <link>https://thenextweb.com/news/uk-funds-space-mirror-for-moon-water</link>
-      <description><![CDATA[英国希望利用太空镜将太阳光线反射到月球冰上，在月球上生产水。该设备是世界上最古老的太空倡导组织英国星际协会 (BIS) 的创意。 BIS 的科学家将该装置命名为“伽倪墨得斯圣杯”，以神话中能将凡人变成神的圣杯命名。在月球上，他们的灵丹妙药被冷冻。他们希望通过一种名为“太阳能浓缩”的技术将其融化成水。自动起重机首先将月球冰放入气锁坩埚中。然后，曲面镜将阳光反射到冰上。利用来自…This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/uk-funds-space-mirror-for-moon-water</guid>
-      <pubDate>Wed, 24 Jul 2024 11:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员使用与勘测星系相同的工具来检测深度伪造</title>
-      <link>https://thenextweb.com/news/researchers-detect-deepfakes-tools-survey-galaxies</link>
-      <description><![CDATA[人们常说，眼睛是心灵的窗户。现在，研究人员声称，他们还可以借助研究星系的工具——通过观察眼球——来揭露深度伪造。根据英国赫尔大学硕士生 Adejumoke Owolabi 的研究，这一切都与光线如何在眼睛中反射有关。Owolabi 与天体物理学教授兼数据科学、人工智能和建模卓越中心主任 Kevin Pimbblet 合作，将真实图像与人工智能生成的深度伪造进行了比较。为了分析光线在眼睛中的反射......这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/researchers-detect-deepfakes-tools-survey-galaxies</guid>
-      <pubDate>Tue, 23 Jul 2024 16:15:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
