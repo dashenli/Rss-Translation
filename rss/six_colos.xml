@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 24 Jul 2024 21:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 18:19:59 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/07/1password/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+1Password 希望您详细了解 GDPR 等法律如何影响您的业务。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/07/1password/</guid>
+      <pubDate>Fri, 26 Jul 2024 16:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 564：都是 Pokémon Go 的错</title>
       <link>https://sixcolors.com/podcast/2024/07/clockwise-564-it-was-pokemon-gos-fault/</link>
@@ -108,16 +116,9 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
     <item>
       <title>（播客）升级 521：我能把菠萝放进任何东西里</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</link>
-      <description><![CDATA[Jason 和 Myke 采访了 Vision Pro 的《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
+      <description><![CDATA[Jason 和 Myke 为 Vision Pro 采访了《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</guid>
       <pubDate>Mon, 15 Jul 2024 16:09:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我给苹果开的药方：聘请一些监察员</title>
-      <link>https://sixcolors.com/post/2024/07/my-prescription-for-apple-hire-some-ombudspeople/</link>
-      <description><![CDATA[苹果吹捧了很多东西 — — 垂直整合、界面设计、硬件的耐用性、直接面向消费者的零售体验等等 — — 作为其成功的部分原因。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/my-prescription-for-apple-hire-some-ombudspeople/</guid>
-      <pubDate>Fri, 12 Jul 2024 16:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
