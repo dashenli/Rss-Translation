@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Mon, 29 Jul 2024 01:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 03:15:52 GMT</lastBuildDate>
+    <item>
+      <title>委内瑞拉人焦急地等待可能结束一党统治的选举结果</title>
+      <link>https://www.npr.org/2024/07/28/g-s1-14010/venezuela-presidential-election-maduro-gonzalez</link>
+      <description><![CDATA[结果尚未公布。但如果挑战者埃德蒙多·冈萨雷斯击败总统尼古拉斯·马杜罗，这可能会对整个美洲产生连锁反应。]]></description>
+      <guid>https://www.npr.org/2024/07/28/g-s1-14010/venezuela-presidential-election-maduro-gonzalez</guid>
+      <pubDate>Mon, 29 Jul 2024 02:04:27 GMT</pubDate>
+    </item>
     <item>
       <title>美国击剑运动员基弗和斯克鲁格斯分别获得女子个人花剑金牌和银牌</title>
       <link>https://www.npr.org/2024/07/28/nx-s1-5055086/fencing-kiefer-scruggs-gold-olympics-usa</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.npr.org/2024/07/28/nx-s1-5052855/russia-is-mostly-absent-from-the-paris-olympics-fielding-only-a-small-team</guid>
       <pubDate>Sun, 28 Jul 2024 20:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>退休宇航员斯科特·凯利谈论太空生活和星际航线机组人员的延迟返回</title>
-      <link>https://www.npr.org/2024/07/28/nx-s1-5052016/retired-astronaut-scott-kelly-on-life-in-space-and-starliner-crews-delayed-return</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.npr.org/2024/07/28/nx-s1-5052016/retired-astronaut-scott-kelly-on-life-in-space-and-starliner-crews-delayed-return</guid>
-      <pubDate>Sun, 28 Jul 2024 20:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
