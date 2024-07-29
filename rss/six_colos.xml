@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 29 Jul 2024 18:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 21:16:17 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 522：预留席位</title>
+      <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
+      <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
+      <pubDate>Mon, 29 Jul 2024 20:51:26 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18.1、iPadOS 18.1 和 macOS Sequoia 的新测试版带来了一些 Apple Intelligence 功能</title>
       <link>https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/</link>
@@ -112,13 +119,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[iPadOS 18 公开测试版现已发布。Dan Moren 对它与 iOS 18 共享的所有功能都有初步印象，但有一些功能是 iPad 独有的。…]]></description>
       <guid>https://sixcolors.com/post/2024/07/first-look-ipados-18-public-beta/</guid>
       <pubDate>Mon, 15 Jul 2024 20:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次亮相：macOS Sequoia 公开测试版</title>
-      <link>https://sixcolors.com/post/2024/07/first-look-macos-sequoia-public-beta/</link>
-      <description><![CDATA[macOS Sequoia 现已推出公开测试版，预计将于今年秋季发布，与 7 月份的大多数 macOS 测试版相比，它的开发进度更为顺利。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/first-look-macos-sequoia-public-beta/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
