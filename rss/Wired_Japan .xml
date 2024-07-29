@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 29 Jul 2024 06:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 09:17:31 GMT</lastBuildDate>
+    <item>
+      <title>由人类 iPS 细胞制成的“迷你大脑”有潜力制造超节能 CPU</title>
+      <link>https://wired.jp/article/finalspark-neuroplatform/</link>
+      <description><![CDATA[人们正在努力利用 iPS 细胞创造“迷你大脑”并将其用作处理器。瑞士一家初创公司开发的世界上第一个“生物处理器”据说其运行功率是传统硅基处理器的百万分之一，并且有潜力创造超节能的CPU。]]></description>
+      <guid>https://wired.jp/article/finalspark-neuroplatform/</guid>
+      <pubDate>Mon, 29 Jul 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>卡玛拉·哈里斯的“小子”现象将铭刻在互联网历史上</title>
       <link>https://wired.jp/article/the-week-of-brat-summer-will-go-down-in-internet-history/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024 年巴黎奥运会开幕式将在奥林匹克历史上首次在体育场外举行。地点将是巴黎市中心塞纳河上一艘船上的“游行”。]]></description>
       <guid>https://wired.jp/article/the-2024-olympics-opening-ceremony-paris-games/</guid>
       <pubDate>Thu, 25 Jul 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI以搜索引擎“SearchGPT”挑战与谷歌“直接对抗”</title>
-      <link>https://wired.jp/article/searchgpt-openai-search-engine-generative-ai/</link>
-      <description><![CDATA[OpenAI 发布了使用 AI 的搜索引擎“SearchGPT”。通过加强与出版商和其他媒体的合作关系，该公司旨在与谷歌进行“直接对抗”。]]></description>
-      <guid>https://wired.jp/article/searchgpt-openai-search-engine-generative-ai/</guid>
-      <pubDate>Thu, 25 Jul 2024 22:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
