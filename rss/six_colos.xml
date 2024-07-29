@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 26 Jul 2024 18:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 18:20:27 GMT</lastBuildDate>
+    <item>
+      <title>iOS 18.1、iPadOS 18.1 和 macOS Sequoia 的新测试版带来了一些 Apple Intelligence 功能</title>
+      <link>https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/</link>
+      <description><![CDATA[Apple
+如果您一直期待为您的 Apple 设备注入一点智能，现在是时候了。Apple 周一推出了 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 的开发者测试版，其中包括访问该公司之前宣布的几个（但值得注意的是，并非全部）AI 功能。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/</guid>
+      <pubDate>Mon, 29 Jul 2024 17:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>重要的 Apple 无障碍网站将关闭 ↦</title>
+      <link>https://sixcolors.com/link/2024/07/important-apple-focused-accessibility-site-to-shut-down/</link>
+      <description><![CDATA[AppleVis 即将关闭。自从 iOS 无障碍功能问世以来，该网站一直是盲人和视障 Apple 用户的重要资源，尽管它一直涵盖所有 Apple 平台。…]]></description>
+      <guid>https://sixcolors.com/link/2024/07/important-apple-focused-accessibility-site-to-shut-down/</guid>
+      <pubDate>Mon, 29 Jul 2024 15:30:17 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/07/1password/</link>
@@ -104,21 +119,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[macOS Sequoia 现已推出公开测试版，预计将于今年秋季发布，与 7 月份的大多数 macOS 测试版相比，它的开发进度更为顺利。…]]></description>
       <guid>https://sixcolors.com/post/2024/07/first-look-macos-sequoia-public-beta/</guid>
       <pubDate>Mon, 15 Jul 2024 20:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次亮相：iOS 18 公开测试版</title>
-      <link>https://sixcolors.com/post/2024/07/first-look-ios-18-public-beta/</link>
-      <description><![CDATA[六个主屏幕：安迪·沃霍尔，让你心碎吧。
-最终，对 18 首次公开测试版的反应可能更多地是关于那里没有什么，而不是那里有什么。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/first-look-ios-18-public-beta/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 521：我能把菠萝放进任何东西里</title>
-      <link>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</link>
-      <description><![CDATA[Jason 和 Myke 为 Vision Pro 采访了《假如……？一个互动故事》的编剧，询问他们在为一个全新的平台编写一个既不是电影也不是视频游戏的东西时所面临的挑战。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/upgrade-521-i-can-get-pineapple-into-anything/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:09:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
