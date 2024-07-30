@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 30 Jul 2024 12:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 15:17:28 GMT</lastBuildDate>
+    <item>
+      <title>折纸：12 个免费动画 3D 对象</title>
+      <link>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</link>
+      <description><![CDATA[一组使用 React Three Fiber 和 GSAP 创建的十二个免费 3D 动画。]]></description>
+      <guid>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</guid>
+      <pubDate>Tue, 30 Jul 2024 12:36:30 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站汇总#63</title>
       <link>https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Three.js 和 React Three Fiber 的自定义着色器创建动画、位移球体。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</guid>
       <pubDate>Tue, 09 Jul 2024 14:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#853</title>
-      <link>https://tympanus.net/codrops/collective/collective-853/</link>
-      <description><![CDATA[设计 GUI * 在 SVG 中变形任意路径 * 局部、第一、永远]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-853/</guid>
-      <pubDate>Fri, 05 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
