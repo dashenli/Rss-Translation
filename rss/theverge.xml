@@ -4,7 +4,118 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 21:14:54 GMT</lastBuildDate>
+    <item>
+      <title>Activision 对 AI 的最大贡献是《使命召唤：战区》数据</title>
+      <link>https://www.theverge.com/2024/7/30/24209775/activision-call-of-duty-warzone-caldera-dataset-ai</link>
+      <description><![CDATA[
+
+图片：Activision
+
+Activision 正在分享使命召唤：战区的Caldera 地图的开源数据集，供研究人员研究并帮助支持 AI 模型训练。 Activision 在一篇博文中写道：“《使命召唤》的这个史无前例的数据集现已在 OpenUSD 中发布，其中包含 Caldera 的近乎完整的几何形状以及一组随机选择的匿名时间样本，这些样本显示了玩家如何在地图上移动。”
+这是一个庞大的数据集。据 Activision 高级副总裁兼软件工程师 Michael Vance 称，它不仅是“游戏行业在几何形状和实例数量方面最大的经过生产验证的开放数据集发布之一”，也是最大的公开 OpenUSD 数据集之一。 （OpenUSD 本质上是一种用于 3D 内容创建的文件格式。）
+
+
+图片：Activision
+
+Calera 数据集的屏幕截图。实际的 Caldera 地图已于 2023 年 9 月从 Warzone 中移除。Warzone。
+
+
+Activision 首席技术官 Natalya Tatarchuk 表示，Activision 还认为该数据集为 AI 训练和内容生成技术的发展提供了“优质数据”。与许多其他行业一样，视频游戏行业正在探索如何利用生成式人工智能，尽管游戏开发商有所担忧，而这些数据可用于协助这些努力。
+如果您想亲自查看 Activision 的 Caldera 数据，您可以从 GitHub 下载。]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209775/activision-call-of-duty-warzone-caldera-dataset-ai</guid>
+      <pubDate>Tue, 30 Jul 2024 20:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minecraft 和俄罗斯方块相结合，打造出一些非常方块的地下城探索游戏</title>
+      <link>https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler</link>
+      <description><![CDATA[
+
+图片：Mojang Studios
+
+有史以来最畅销的两款游戏联手在 Minecraft 中推出了一些非常奇怪的可下载内容。它涉及访问游戏内的“俄罗斯方块世界”......这让我知道有一个名为俄罗斯方块世界的东西。值得注意的是，新的Minecraft DLC 是一种地下城探索游戏，还涉及玩俄罗斯方块来寻找丢失的俄罗斯方块，这些下落的方块具有各种标志性的形状。 （这也不是这两款游戏第一次交叉，尽管之前的合作并没有那么奇怪。）
+我不确定我是否完全理解了，所以这里是来自 Mojang Studios的概要：
+
+你的工作是找到俄罗斯方块并把它们带回来。那么你该怎么做呢？在你的 2D 俄罗斯方块回合之后剩下的方块网格变成了 3D 地牢布局，不仅隐藏着丢失的俄罗斯方块，还隐藏着许多惊喜——有些比其他的更受欢迎！每次玩游戏时，你都会面对一个独特的地牢。 
+您使用的俄罗斯方块、您制作的路径，甚至您清除的线条数量，都会在每个角落产生新的陷阱、战利品和惊喜。解决谜题、搜寻奖励并与怪物战斗，一路攀升至顶峰。新的俄罗斯方块将在您生成的下一个地牢中充满更多秘密。
+
+使用 DLC，您还可以直接在 Minecraft 的大厅中玩常规的 俄罗斯方块，从而增加 体验经典方块下落益智游戏的多种方式。 Minecraft x Tetris DLC 现已推出。]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209869/minecraft-tetris-dlc-dungeon-crawler</guid>
+      <pubDate>Tue, 30 Jul 2024 20:51:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Surface 销量继续下滑，微软云业务收入在第四季度再次占据主导地位</title>
+      <link>https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface</guid>
+      <pubDate>Tue, 30 Jul 2024 20:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔将于 9 月 3 日正式推出其 Lunar Lake 笔记本电脑芯片</title>
+      <link>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+高通的新款骁龙笔记本电脑在夏季独占鳌头，但这种情况即将结束。 AMD 目前正在发售其 Ryzen AI 芯片，而英特尔刚刚宣布它将在 9 月 3 日的直播中“发布”其下一代 Core Ultra 笔记本电脑芯片，代号为 Lunar Lake。听起来它们不会那么快上市，但全面揭晓应该只需五周时间。
+
+正如我们所讨论的，Lunar Lake 是一款彻底改造的芯片，它抛弃了将可交换内存条插入笔记本电脑的整个想法，更不用说英特尔之前关于如何实现最佳电池寿命和性能的几个想法——此外，如果你碰巧有想要在本地运行的生成式 AI 应用程序，它还有一个三倍的 NPU。
+但更重要的是，这是英特尔在笔记本电脑领域对高通的回应以及苹果基于 Arm 的芯片，这些芯片的电池续航时间比我们通常看到的英特尔 x86 芯片更长。我们都在等待，看看英特尔能否提供性能、电池续航时间和功能的出色组合，以保持英特尔的直立因为 Windows on Arm 终于成为一个可行的挑战者。 
+我们目前正在测试首批 AMD Ryzen AI 9 笔记本电脑之一，看看“Strix Point”是否会成为这种新环境下有前途的机器，而 Lunar Lake 将成为今年秋季芯片战争拼图的最后一块。 
+但对于芯片制造商来说，通常情况下，你不应该期望“发布”就意味着 Lunar Lake 笔记本电脑将在当天上市。（英特尔发言人 Thomas Hannaford 表示，“更多有关发布会上发售的详细信息”是目前的氛围。）
+目前，英特尔确认的是“将披露新处理器突破性的 x86 能效、出色的核心性能、图形性能的巨大飞跃以及将推动这一代和未来几代英特尔产品的无与伦比的 AI 计算能力的详细信息。”]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</guid>
+      <pubDate>Tue, 30 Jul 2024 19:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel Watch 3 泄露，显示边框更薄，并有 45 毫米新型号</title>
+      <link>https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs</link>
+      <description><![CDATA[
+
+图片：Android Headlines
+
+由于边框更薄，Pixel Watch 3 的屏幕似乎会比 Watch 2 更大。Android Headlines 分享的泄露营销材料 表明，41 毫米 Pixel Watch 3 的屏幕面积将比 Watch 2 大 10%，且占用空间相同。
+Pixel Watch 3 的显示屏亮度也可能更高 — 最高可达 2,000 尼特，峰值亮度是 Pixel 2 的两倍 — 充电速度也将提高 20%。如果规格表属实，则确认了之前泄露的 45 毫米手表，并指出两种尺寸在启用常亮显示的情况下电池续航时间最长为 24 小时，在启用新省电模式的情况下电池续航时间最长为 36 小时。
+这可能意味着 Pixel Watch 3 将不会使用Wear OS 4 中推出的“混合界面”，该界面应该可以将电池续航时间延长至 100 小时的常规使用时间。到目前为止，只有 OnePlus Watch 2 具有此功能。
+
+
+图片：Android Headlines
+
+营销材料还提到了新的健身功能，包括创建自定义跑步功能以及“音频和触觉提示”会告诉您何时冲刺、冷却或保持速度。此外，新的 Fitbit“晨间简报”将提供健康和健身指标摘要，以帮助您规划锻炼。这些新功能最终可能会出现在 Pixel Watch 的旧型号上，这是谷歌过去做过的事情。
+泄漏中披露的其他变化包括支持 离线谷歌地图，以及从 Google Home 应用程序查看 Nest Cam 和 Nest Doorbell 的实时信息的功能。当您从手表控制 Pixel 手机的相机应用程序时，您似乎还可以轻松地在照片和视频之间切换。先前的泄露表明 Pixel Watch 3 将获得超宽带支持，以实现更好的位置跟踪，但营销材料中并未提及这一点。
+随着谷歌的硬件活动即将于 8 月 13 日举行，我们无需等待太久就能看到 Pixel Watch 3 和大量泄露的 Pixel 9 阵容。]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs</guid>
+      <pubDate>Tue, 30 Jul 2024 18:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥运会已经不再是马里奥和索尼克了</title>
+      <link>https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports</link>
+      <description><![CDATA[
+
+图片：世嘉
+
+近 20 年来，任天堂和世嘉一直发布马里奥与索尼克在东京奥运会 2020 上的精彩游戏。索尼克参加奥运会以配合国际体育赛事。但现在，根据Eurogamer的报道，这一传统已经结束。2020 年，国际奥委会决定不再续签该游戏的授权协议，结束了自 2007 年以来涵盖大多数夏季和冬季奥运会的游戏系列。
+“基本上，国际奥委会希望将 [授权] 带回自己内部，并寻找其他合作伙伴，以便他们能获得更多资金，”参与马里奥与索尼克系列开发的开发人员 Lee Cocker 告诉Eurogamer。 
+奇怪的是，这些“其他合作伙伴”是NFT和电子竞技——这些产品目前还不具备赚钱的可能性。为了配合巴黎奥运会，国际奥委会与Power Rangers: Battle for the Grid工作室 nWay 合作开发了Olympics Go! Paris 2024，这是一款以奥运会赛事为基础的迷你游戏手机游戏。 根据游戏网站，玩家可以领取“官方授权的纪念巴黎 2024 年 NFT 数字徽章”。 
+奥运会上的电子竞技并不是一个新概念。国际奥委会在 2017 年和 2018 年举办了几次峰会，以确定如何最好地将电子竞技赛事与奥运会结合起来——当时电子竞技的受欢迎程度（和经济可行性）达到顶峰。2021 年，奥运会举办了第一场奖牌赛事，名为奥运会虚拟系列赛，包括棒球、帆船、自行车和赛车运动。今年 6 月，国际奥委会宣布创建奥林匹克电子竞技运动会，以配合 2024 年巴黎奥运会。奥运会将于 2025 年举行，由沙特主办阿拉伯，现在是一个受欢迎的电子竞技目的地，尽管存在争议。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209717/mario-and-sonic-at-the-olympic-games-cancelled-nfts-esports</guid>
+      <pubDate>Tue, 30 Jul 2024 18:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果的入门级 AirPods 价格已回落至 Prime Day 最低价</title>
+      <link>https://www.theverge.com/2024/7/30/24208784/apple-airpods-second-gen-playstation-5-slim-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24208784/apple-airpods-second-gen-playstation-5-slim-deal-sale</guid>
+      <pubDate>Tue, 30 Jul 2024 18:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 开始为 ChatGPT 推出类似 Her 的语音模式</title>
+      <link>https://www.theverge.com/2024/7/30/24209650/openai-chatgpt-advanced-voice-mode</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24209650/openai-chatgpt-advanced-voice-mode</guid>
+      <pubDate>Tue, 30 Jul 2024 18:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>蝙蝠侠：披风斗士是一部回归 DC 动画黄金时代的经典之作</title>
       <link>https://www.theverge.com/2024/7/30/24208904/batman-caped-crusader-amazon</link>
@@ -18,135 +129,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/30/24205718/senate-passes-kids-online-safety-act-kosa-content-moderation</guid>
       <pubDate>Tue, 30 Jul 2024 17:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Echo Spot 评测：这款智能闹钟堪称完美</title>
-      <link>https://www.theverge.com/24207052/amazon-alexa-echo-spot-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24207052/amazon-alexa-echo-spot-review</guid>
-      <pubDate>Tue, 30 Jul 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lime 测试两款无需踩踏板的新型电动自行车</title>
-      <link>https://www.theverge.com/2024/7/30/24209553/lime-tests-shared-rideables-limebike-limeglider</link>
-      <description><![CDATA[
-
-LimeBike（左）和 LimeGlider（右）。 |图片：Lime
-
-Lime 正在测试两款新型电动自行车，旨在让更多骑行者能够共享单车。除了油门让您无需踩踏板即可移动之外，LimeBike 和 LimeGlider 都提供 20 英寸车轮和宽胎，以获得更好的牵引力，跨步式车架使上下车更加容易，重心较低，更加稳定。 
-LimeBike 旨在“补充” Lime 于 2022 年推出的踏板辅助 Gen4 电动自行车。它配有踏板和车把油门，让骑手可以使用电动辅助踏板或仅使用电力行驶。它的座杆有一个快速调节夹，可以更轻松地上下移动，还有其他改进。
-
-
-图片：Lime
-LimeBike 可让您选择使用踏板辅助或油门。
-
-另一方面，LimeGlider 将踏板换成了脚踏板，并且仅油门。它还配有更大的软垫座椅，离地面较低， 比公司的电动自行车或去年推出的 Lime 坐式电动滑板车更舒适。
-LimeGlider 和 LimeBike 都比该公司现有的型号提供更大的篮子和更好的手机支架。 Lime 首席执行官 Wayne Ting 在新闻稿中表示：“LimeGlider 和 LimeBike 让人们看到了微型交通工具的未来，其设计充分考虑了更广泛的骑行者群体，有助于我们更接近我们的使命，即建设一个交通共享、经济实惠、无碳的未来。”
-目前，Lime 正在亚特兰大和苏黎世测试 LimeBike，而 LimeGlider 将于 8 月中旬在西雅图和今年夏天晚些时候在苏黎世进行试点。 
-
-
-图片：Lime
-LimeGlider 的脚踏板代替了踏板。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209553/lime-tests-shared-rideables-limebike-limeglider</guid>
-      <pubDate>Tue, 30 Jul 2024 16:37:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 将就面部识别和照片标签问题与德克萨斯州达成 14 亿美元和解</title>
-      <link>https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-德克萨斯州宣布与 Meta 就 Facebook 使用面部识别达成大规模和解，解决了2022 年提起的诉讼，该诉讼声称上传到 Facebook 的照片上的“标签建议”功能违反了该州的《生物特征识别码获取或使用法》（CUBI）和《欺诈性贸易行为法》。德克萨斯州总检察长肯·帕克斯顿的办公室今天表示，Meta 已同意在五年内支付 14 亿美元以和解该诉讼。
-帕克斯顿表示，这是有史以来由单个州提起的诉讼中金额最大的和解。他说，这也是 CUBI 下的第一起诉讼和和解，是对其他侵犯该州隐私权公司的警告。
-“任何滥用德克萨斯人敏感数据的行为都将受到法律的全面制裁，”Paxton 在新闻稿中表示。
-问题在于 Facebook 提出的在照片上标记人物的建议。据新闻稿称，“2011，Meta 推出了一项新功能，最初名为标签建议，据称该功能将通过让用户更轻松地用照片中人物的姓名‘标记’照片来改善用户体验。”
-
-那是在德克萨斯州通过CUBI 法案，该法案禁止公司在未获得事先知情同意的情况下获取面部几何形状等生物特征数据。总检察长办公室表示，Facebook 自动启用了标签建议——“在未经法律授权的情况下获取和使用数百万德克萨斯人的个人生物特征数据”。 
-该诉讼最初要求对每项 CUBI 违规行为处以 25,000 美元的民事罚款，并对每项违反德克萨斯州欺骗性贸易行为法的行为处以 10,000 美元的额外罚款，The Verge 此前报道。据《华尔街日报》 2022 年报道，这些罚款金额可能高达数千亿美元。 
-该公司在和解中没有承认任何不当行为。 在2017年，Facebook 引入了标签建议的“开/关”控制，并在2019。然后，它在 2021 年停止了照片中的自动面部标记。
-“我们很高兴解决这个问题，并期待探索未来的机会，以深化我们在德克萨斯州的商业投资，包括可能开发数据中心，”Meta 发言人 Christopher Sgro 在一封电子邮件中表示。 
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209538/meta-settlement-facial-recognition-tag-suggestion-texas-lawsuit</guid>
-      <pubDate>Tue, 30 Jul 2024 16:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>立法者希望将亲密的人工智能深度伪造从第 230 条豁免中剔除</title>
-      <link>https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge； Getty Images
-
-众议院的两位两党议员正在提议一项法案，为未能从其平台上删除私密 AI 深度伪造内容的科技公司制定第 230 条保护。 
-众议员杰克·奥金克洛斯 (D-MA) 和阿什利·辛森 (R-IA) 公布了《亲密隐私保护法案》，Politico 首次报道，该法案旨在“打击网络跟踪、亲密隐私侵犯和数字伪造”，法案称。该法案修订了 1934 年《通信法》第 230 条，该条目前保护在线平台不对其用户在其服务上发布的内容承担法律责任。根据《亲密隐私保护法》，如果平台未能对抗所列的危害，则可能会取消该豁免权。该法案通过为平台创建注意义务（一个法律术语，基本上意味着平台应该负责任地行事）来实现这一点，其中包括制定“合理的流程”来处理网络跟踪、亲密隐私侵犯和数字伪造。
-数字伪造似乎包括人工智能深度伪造，因为它们被部分定义为“数字视听材料”，其“创建、操纵或更改后几乎与个人言语、行为或外表的真实记录无法区分”。注意义务所规定的流程必须包括防止此类隐私侵犯的措施、明确的举报方式以及在 24 小时内删除这些内容的流程。
-Auchincloss 和 Hinson 均在声明中表示，科技平台不应以第 230 条为借口不保护用户免受这些伤害。“国会必须阻止这些公司逃避其平台上恶意深度伪造和数字伪造令人作呕的传播的责任，”Auchincloss 说。Hinson 补充道，“如果大型科技公司不保护用户免受深度伪造和其他隐私侵犯，它们就不应该以第 230 条为借口。”
-打击亲密（换句话说，色情）人工智能深度伪造一直是人工智能政策的一个领域，全国各地的立法者似乎都有动力推进这一领域。尽管大部分人工智能政策仍处于早期阶段，参议院最近成功通过了《反抗法案》（DEFIANCE Act），该法案将允许人工智能生成的非自愿亲密图像的受害者对生成这些图像的人寻求民事补救。 一些州已经颁布法律打击亲密人工智能深度伪造，特别是涉及未成年人的情况。一些公司也加入了进来——微软周二呼吁国会对人工智能生成的深度伪造如何用于欺诈和滥用进行监管。
-长期以来，两党立法者都希望缩小第 230 条对平台的保护范围，他们担心这些平台滥用了在行业由规模小得多的参与者组成时为该行业创建的法律保护盾。但大多数时候，共和党和民主党无法就如何修改该法规达成一致。一个值得注意的例外是国会通过了FOSTA-SESTA，从第230条保护中剔除了性交易指控。
-《亲密隐私保护法》纳入的注意义务与《儿童在线安全法案》中使用的机制相同，该法案预计将于周二以压倒性支持在参议院通过。这可能表明它正在成为一种在互联网上创建新保护措施的流行方式。]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209514/intimate-privacy-protection-act-ai-deepfakes-section-230</guid>
-      <pubDate>Tue, 30 Jul 2024 15:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，漫威斥巨资请回小罗伯特·唐尼和罗素兄弟</title>
-      <link>https://www.theverge.com/2024/7/30/24209499/marvel-robert-downey-jr-doomsday-russo-bros-salaries</link>
-      <description><![CDATA[
-
-照片由 Matt Winkelmeyer / Getty Images 拍摄
-
-漫威的重大计划是将 MCU 从其多元宇宙中撤出上周末在圣地亚哥动漫展上，随着电影制片厂宣布罗素兄弟将回归执导接下来的两部复仇者联盟电影，情况的失控变得非常明显。虽然《复仇者联盟：康王朝》《复仇者联盟：康王朝》已经下架，但《复仇者联盟：末日》已经上映，小罗伯特·唐尼签约出演该片的核心角色。看来漫威为了实现这一切不惜重金。Variety 报道称，漫威将斥资 8000 万美元吸引罗素兄弟回来执导复仇者联盟：末日和复仇者联盟：秘密战争，这两部电影将为漫威电影宇宙正在进行的多元宇宙传奇画上句号。这两部电影也将由罗素兄弟的 AGBO 团队制作，而不是漫威通常的内部制作团队，据报道，这两部电影将在伦敦开拍，而不是《复仇者联盟：无限战争》和《终局之战》都在那里拍摄。据说，漫威还将在唐尼的片酬上“大幅增加”，让他以毁灭博士而非钢铁侠的身份重返漫威宇宙——这种转变在漫画中已有先例，但似乎也是对漫威现已放弃全力投入乔纳森·梅杰斯的征服者康计划的紧急转变。 
-RDJ 饰演托尼·斯塔克，为漫威宇宙拉开了序幕。他过去曾获得漫威不菲的片酬，这说明漫威致力于围绕他打造电影系列。漫威的这种做法在漫威宇宙早期获得了回报，《无限传奇》系列电影屡屡打破票房纪录。但这也是该工作室在当前项目缺乏适当培养的重心的时代所面临的局面的一部分。
-回归 RDJ / Russo 可能对漫威有利，特别是如果观众真的只是想看到熟悉的面孔。如果Deadpool &amp; Wolverine 的早期票房数字有任何迹象，情况似乎确实如此。但尽管漫威在《毁灭战士》的转型上投入了巨额资金，人们还是希望该工作室也能推出一些不负众望的好电影。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209499/marvel-robert-downey-jr-doomsday-russo-bros-salaries</guid>
-      <pubDate>Tue, 30 Jul 2024 15:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 的 2024 年开学礼物指南</title>
-      <link>https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024</link>
-      <description><![CDATA[
-
-图片：Pamela Guest for The Verge
-
-为学生做好上学（尤其是校园生活）的准备，需要的不仅仅是几本作文书和几支 2 号铅笔。 现在可能感觉开学季还很遥远，但我很遗憾地告诉你，夏天的忧郁很快就会到来。值得庆幸的是，新学年也带来了新的机会——以及令人兴奋的新设备和用品，可以帮助年轻的学者完成他们的工作。因为，说实话，用一支漂亮的新笔、记事本或小工具来完成一连串枯燥乏味的作业总是更有趣。
-
-考虑到这一点，我们在The Verge为您生活中的学生汇总了一份礼物创意清单。有些非常传统，例如螺旋笔记本或书灯，只是它们比普通的超市商品要好看一些。其他产品，如Philips Hue 的彩色 LED 灯带和League of Lexicon，允许学生个性化他们的空间，适应校园生活，并在紧张的一周早上 8 点上课后放松身心（因为这些一开始似乎总是一个好主意）。
-希望这些建议能让孩子们对开学感到兴奋，就像你要看着他们走出房子。
-]]></description>
-      <guid>https://www.theverge.com/24186140/back-to-school-student-gifts-college-high-school-dorm-accessories-ideas-2024</guid>
-      <pubDate>Tue, 30 Jul 2024 15:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的新 AI 朋友即将与您见面</title>
-      <link>https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24207029/friend-ai-companion-gadget</guid>
-      <pubDate>Tue, 30 Jul 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dasung 最新推出的彩色 E Ink 显示器具有便携性</title>
-      <link>https://www.theverge.com/2024/7/30/24209452/dasung-e-ink-monitor-display-portable</link>
-      <description><![CDATA[
-
-不要将 Dasung 的便携式彩色电子墨水显示器误认为平板电脑；它完全依赖于其他设备。 |图片：Dasung
-
-它可能看起来像另一款 e-note 平板电脑，但 Dasung 的 Paperlike Color 实际上是一款便携式显示器，配备 12 英寸彩色 E Ink 屏幕，分辨率为 2560 x 1600 像素。对于远程工作的人来说，它可以为笔记本电脑或智能手机提供额外的屏幕空间，或者它的反光电子纸面板可以替代长时间盯着液晶显示器，从而减轻眼睛疲劳。
-Paperlike Color 是 Dasung 的第二款专用显示器产品，采用 E Ink Kaleido 3 色屏幕，继去年 9 月推出的25.3 英寸桌面版之后。台式机版售价 1,649 美元，而新款便携版现售价 849 美元。
-Kaleido 显示技术的工作原理是在黑白 E Ink 面板上应用彩色滤光片，但这种方法有一些局限性。在黑白模式下，E Ink 的 Kaleido 3 屏幕的分辨率为 300 ppi，但在彩色模式下，分辨率会降至 150 ppi。此外，Kaleido 3 技术只能显示 4,096 种颜色，而 LCD 或 OLED 屏幕可以显示数百万种颜色。
-使用 E Ink 显示器最令人信服的理由是，它旨在反射环境光，而不是发射自己的光。这可以让屏幕更容易长时间集中注意力，这也是为什么像Amazon Kindle这样的阅读设备一直如此受欢迎的原因。但Paperlike Color也可以在黑暗中使用，这要归功于可选的中性色前灯照亮屏幕。
-
-
-图片：Dasung
-您需要使用 USB-C 电缆将设备物理连接到显示器。
-
-其他功能包括触摸屏功能、边框上用于调整各种显示设置的物理按钮，以及 Dasung 的“Turbo Refresh Tech”，可提高 E Ink 面板的刷新率，以便用户可以在其上观看视频。而且由于外壳采用 CNC 雕刻铝合金制成，便携式 Paperlike Color 的重量为 439 克（约 15.5 盎司），比 11 英寸和 13 英寸 iPad Air 都要轻。
-最大的症结在于 Paperlike Color 的标价为 849 美元，比 任何一款 iPad Air 型号 都要贵。显示器不包含可充电电池（必须使用 USB-C 电缆将其物理连接到您的设备），限制了您可以使用它的地方，尽管看起来像是一台独立的平板电脑，但它不能用作独立的平板电脑。如果您特别想寻找 LCD 或 OLED 替代品，Paperlike Color 便携式包装可以满足您的需求。但是，如果您已经有平板电脑，则有很多应用程序可让您将其重新用作第二个屏幕。]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209452/dasung-e-ink-monitor-display-portable</guid>
-      <pubDate>Tue, 30 Jul 2024 14:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
