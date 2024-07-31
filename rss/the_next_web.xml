@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 31 Jul 2024 12:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 15:16:54 GMT</lastBuildDate>
+    <item>
+      <title>欧盟支持 15 家初创公司利用区块链打击网络虚假信息</title>
+      <link>https://thenextweb.com/news/eu-15-startups-online-misinformation-blockchain</link>
+      <description><![CDATA[欧盟向 15 家初创公司拨款 180 万欧元，帮助它们利用基于区块链的技术解决网络虚假信息、欺诈和虚假身份问题。这笔拨款是 NGI TrustChain 计划的一部分，该计划旨在通过支持区块链创新，构建一个更加去中心化、值得信赖和以用户为中心的互联网。迄今为止，TrustChain 已向 43 家公司提供了超过 450 万欧元的资金。该计划的主要目标之一是保护网络空间中的人权和民主进程。两者都受到虚假信息和虚假身份的威胁——无论是通过扭曲的信息、操纵，甚至是武器化。“虚假信息和深度伪造是不可避免的......这个故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/eu-15-startups-online-misinformation-blockchain</guid>
+      <pubDate>Wed, 31 Jul 2024 12:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟飞行员警告称，飞机自动化计划是“危险的赌博”</title>
+      <link>https://thenextweb.com/news/automation-for-single-pilot-planes-sparks-fears</link>
+      <description><![CDATA[一家领先的航空工会警告称，推动单驾驶飞机是一场“危险的赌博”。欧洲驾驶舱协会 (ECA) 对商业航班自动化计划敲响了警钟。飞机制造商希望软件能够支持新的单驾驶模式。这一概念被称为延长最低机组操作 (eMCO)，即在飞机巡航阶段将一名飞行员从驾驶舱中移除。自动化技术将接管他们的辅助角色。然后，第二名飞行员可以休息，而他们的同事则留在驾驶舱。欧盟航空安全局 (EASA) 目前正在评估这些提案。如果监管机构批准 eMCO，商用飞机可以......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/automation-for-single-pilot-planes-sparks-fears</guid>
+      <pubDate>Wed, 31 Jul 2024 12:08:26 GMT</pubDate>
+    </item>
     <item>
       <title>TNW 播客：宜家的 Parag Parekh 谈数字伦理；欧洲将斥资 1000 亿欧元用于人工智能研究</title>
       <link>https://thenextweb.com/news/podcast-ikea-parag-parekh-digital-ethics</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[半导体领导地位的竞争已经拉开帷幕，欧洲芯片初创公司正在迎接挑战。欧洲已经拥有 ASML、NXP、Arm 和 Infineon 等知名芯片公司。然而，它在制造能力方面落后。欧盟目前生产着全球约 10% 的半导体。 2023 年，英国占全球芯片销售额的 0.5%。在与台湾、中国和美国的芯片巨头的持续竞争中，欧盟和英国都在加倍努力利用各自在研发和芯片设计方面的优势。目标是获得竞争优势…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/european-startups-next-generation-chips</guid>
       <pubDate>Mon, 29 Jul 2024 14:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>荷兰皇家航空公司计划于 2026 年实现液氢飞机起飞</title>
-      <link>https://thenextweb.com/news/klm-zeroavia-hydrogen-plane-flight-2026</link>
-      <description><![CDATA[荷兰航空公司 KLM 与英美初创公司 ZeroAvia 合作开发液氢动力涡轮螺旋桨飞机。合作伙伴计划于 2026 年在两个尚未命名的机场之间进行飞行演示。ZeroAvia 制造的氢电动力系统可以改装到新飞机或现有飞机上。该公司已从空客、亚马逊和英国航空等公司筹集了超过 3 亿美元，以实现其零排放飞行的愿景。氢电发动机使用燃料电池中的氢气发电。然后为电动机提供动力，转动飞机的螺旋桨。唯一的排放是水蒸气。来源：ZeroAviaZeroAvia 已经进行了多次飞行......这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/klm-zeroavia-hydrogen-plane-flight-2026</guid>
-      <pubDate>Mon, 29 Jul 2024 13:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 聊天机器人利用 X 用户数据进行训练“很可能”违反欧盟法律</title>
-      <link>https://thenextweb.com/news/grok-chatbot-trains-on-x-user-data-in-very-likely-breach-of-eu-law</link>
-      <description><![CDATA[埃隆·马斯克可能又要面对欧盟的问题了。马斯克的 X 已允许 Grok 聊天机器人接受来自任何用户的数据训练。此功能现在默认启用，这可能违反欧盟规则。在 X 的设置深处，用户发现了数据收集的证据。除了已经勾选的复选框外，他们还发现了以下文字：“允许将您的帖子以及您与 Grok 的互动、输入和结果用于训练和微调。”这种方法可能违反欧盟的《通用数据保护条例》（GDPR）。该法律禁止公司......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/grok-chatbot-trains-on-x-user-data-in-very-likely-breach-of-eu-law</guid>
-      <pubDate>Fri, 26 Jul 2024 15:37:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

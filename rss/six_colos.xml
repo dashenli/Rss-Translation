@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 30 Jul 2024 01:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 15:16:26 GMT</lastBuildDate>
+    <item>
+      <title>Apple Watch 是否太过薄弱，无法满足 Apple 的健康目标？（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2413823</link>
+      <description><![CDATA[自苹果首次发布 Apple Watch 以来的近十年里，很明显该产品在健康和健身配件方面表现出色。…]]></description>
+      <guid>https://www.macworld.com/article/2413823</guid>
+      <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 522：预留席位</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
@@ -112,13 +119,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况并非如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
       <guid>https://www.macworld.com/article/2400818</guid>
       <pubDate>Wed, 17 Jul 2024 16:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次亮相：iPadOS 18 公开测试版</title>
-      <link>https://sixcolors.com/post/2024/07/first-look-ipados-18-public-beta/</link>
-      <description><![CDATA[iPadOS 18 公开测试版现已发布。Dan Moren 对它与 iOS 18 共享的所有功能都有初步印象，但有一些功能是 iPad 独有的。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/first-look-ipados-18-public-beta/</guid>
-      <pubDate>Mon, 15 Jul 2024 20:31:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
