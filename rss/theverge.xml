@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 03:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 09:18:01 GMT</lastBuildDate>
+    <item>
+      <title>StubHub 在华盛顿特区诉讼中被指控收取“欺骗性”费用</title>
+      <link>https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge，Getty Images
+
+StubHub 正面临一项新的诉讼，指控该票务服务公司在购买过程的最后阶段才向客户隐瞒费用。在周三提起的诉讼中，哥伦比亚特区总检察长 Brian L. Schwalb 声称 StubHub 参与了“一系列欺骗性、操纵性和不公平的做法”。
+总检察长 Schwalb 指控 StubHub 使用“诱饵和转换”技术，宣传“欺骗性低”的票价，并在多页购买流程后增加额外费用。在此过程中，StubHub 显示一个倒计时器，让客户有 10 分钟的时间完成购买 - Schwalb 称这是一种暗黑模式，旨在创造“虚假的紧迫感”。
+此外，Schwalb 指责 StubHub 歪曲了结账时收取的“履行和服务费”。Schwalb 在诉讼中声称，这些费用“差别很大”，与履行或服务无关。诉讼还指出，StubHub 未披露这些费用是如何计算的，以及这些费用的实际用途。
+“StubHub 故意隐瞒真实价格，以牺牲客户利益为代价提高利润”
+虽然 StubHub 确实有一个过滤器，可以显示估计费用，但该选项隐藏在多个下拉菜单中，很难找到。即使打开了过滤器，StubHub 也从未包含强制性费用，直到 2024 年 3 月 DC 总检察长办公室就其做法联系该票务服务机构。
+Schwalb 声称 StubHub 的做法违反了哥伦比亚特区消费者保护法 (CPPA)。他请求法院下令 StubHub 支付民事罚款，并下达禁令，阻止 StubHub 涉嫌欺骗性的行为。
+“StubHub 通过广告宣传具有欺骗性的低价来吸引消费者，迫使他们完成繁琐的购买流程，最后在结账页面上显示的总价远高于最初宣传的票价，”Schwalb 在新闻稿中表示。 “这并非偶然——StubHub 故意隐瞒真实价格，以牺牲客户利益为代价来提高利润。”
+自 2022 年 Taylor Swift Ticketmaster 惨败以来，联邦政府一直在打击售票服务及其收取的费用。去年，联邦贸易委员会提出了一项规则，禁止售票服务和其他企业收取垃圾费用。联邦贸易委员会预计将在今年晚些时候就该提案做出决定。众议院还于 5 月通过了一项法案，该法案将迫使售票员提前显示总票价。
+今年早些时候，司法部还对 Ticketmaster母公司 Live Nation 采取了法律行动，指控其经营垄断导致票价上涨。]]></description>
+      <guid>https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees</guid>
+      <pubDate>Wed, 31 Jul 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 的人工智能称特朗普集会枪击事件并未发生，并称这是幻觉造成的</title>
       <link>https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations</link>
@@ -28,20 +47,18 @@ Meta AI 不会透露任何有关企图谋杀的细节。我们正在实时目睹
       <pubDate>Wed, 31 Jul 2024 01:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>由于 AWS 问题，Ring 摄像头功能暂停</title>
+      <title>解决 AWS 问题后，Ring 摄像头功能恢复正常</title>
       <link>https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east</link>
       <description><![CDATA[
 
 图片：铃声
 
-周一晚上，亚马逊网络服务发送了一条通知，内容涉及其服务器网络 US-EAST-1 区域的问题，该区域支持着互联网的许多服务。到目前为止，我们看到的唯一与该问题有关的问题是影响亚马逊旗下 Ring 的一次中断，安全摄像头和门铃的所有者报告说，历史记录、事件和邻居等功能不可用。
-对于一些受到影响的人来说，监控摄像头的实时画面仍然有效，Ring 的状态页面确认，“我们正在调查多个 Ring 系统影响实时视图、录音、时间线、事件历史记录等内容的问题。” 
-据报道，两次中断均始于美国东部时间下午 6:40，目前尚无关于何时恢复服务的消息。
-美国东部时间晚上 7:58，来自 AWS Health 仪表板 的最新通知称，“我们已经确定了根本原因，并正在积极研究多种并行方法以缓解问题”，同时还列出了受影响的 41 项 AWS 服务。
-Ring 所有者可以订阅有关问题来自公司状态页面，我们已联系亚马逊了解任何可用的详细信息。 
-
-
-]]></description>
+周一晚上，亚马逊网络服务发送了一条通知，内容涉及其服务器网络 US-EAST-1 区域的问题，该区域支持互联网的许多服务。到目前为止，我们看到的唯一与这些问题相关的问题是影响亚马逊旗下 Ring 的一次中断，安全摄像头和门铃的所有者报告说，历史记录、事件和邻居等功能不可用。
+美国东部时间凌晨 1:20，Ring 的状态页面已更新，宣布事件已得到解决，页面底部有一条注释，指出问题已影响 Ring.com、Ring Protect（视频录制）、实时通话（门铃叮当声和动作）、视频点播和合作伙伴集成。
+Ring 中断于美国东部时间周二下午 6:40 开始。 Ring 在其事件页面上表示：“我们正在调查多个 Ring 系统的问题，这些问题影响了实时视图、录制、时间线、事件历史记录等。” 
+截至美国东部时间晚上 9 点，AWS Health 仪表板已更新，其中包含有关问题原因的更多详细信息。 “从太平洋夏令时间下午 2:45 开始，Kinesis 中的一个子系统在处理传入数据时开始遇到争用增加的问题。虽然这对大多数客户工作负载的影响有限，但确实导致一些内部 AWS 服务（包括 CloudWatch、ECS Fargate 和 API Gateway）受到下游影响。”
+根据 AWS Health 仪表板，大约有 64 个 AWS 服务受到影响。亚马逊还表示，这些问题已经“得到解决，所有服务运行正常”，但标记了一些受影响的指标和日志“可能会延迟，直到它们完全补齐”。
+7 月 31 日更新：添加了有关中断的其他信息，并更新以说明问题已得到解决。]]></description>
       <guid>https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east</guid>
       <pubDate>Wed, 31 Jul 2024 00:03:57 GMT</pubDate>
     </item>
@@ -73,7 +90,7 @@ CPSC 表示，亚马逊的通知“淡化”了召回产品带来的危险。
       <pubDate>Tue, 30 Jul 2024 23:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 不再推出模仿名人的人工智能聊天机器人</title>
+      <title>Meta 不再推出模仿名人的 AI 聊天机器人</title>
       <link>https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on</guid>
@@ -154,23 +171,6 @@ Activision 首席技术官 Natalya Tatarchuk 表示，Activision 还认为该数
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface</guid>
       <pubDate>Tue, 30 Jul 2024 20:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔将于 9 月 3 日正式推出其 Lunar Lake 笔记本电脑芯片</title>
-      <link>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-高通的新款骁龙笔记本电脑在夏季独占鳌头，但这种情况即将结束。 AMD 目前正在发售其 Ryzen AI 芯片，而英特尔刚刚宣布它将在 9 月 3 日的直播中“发布”其下一代 Core Ultra 笔记本电脑芯片，代号为 Lunar Lake。听起来它们不会那么快上市，但全面揭晓应该只需五周时间。
-
-正如我们所讨论的，Lunar Lake 是一款彻底改造的芯片，它抛弃了将可交换内存条插入笔记本电脑的整个想法，更不用说英特尔之前关于如何实现最佳电池寿命和性能的几个想法——此外，如果你碰巧有想要在本地运行的生成式 AI 应用程序，它还有一个三倍的 NPU。
-但更重要的是，这是英特尔在笔记本电脑领域对高通的回应以及苹果基于 Arm 的芯片，这些芯片的电池续航时间比我们通常看到的英特尔 x86 芯片更长。我们都在等待，看看英特尔能否提供性能、电池续航时间和功能的出色组合，以保持英特尔的直立因为 Windows on Arm 终于成为一个可行的挑战者。 
-我们目前正在测试首批 AMD Ryzen AI 9 笔记本电脑之一，看看“Strix Point”是否会成为这种新环境下有前途的机器，而 Lunar Lake 将成为今年秋季芯片战争拼图的最后一块。 
-但对于芯片制造商来说，通常情况下，你不应该期望“发布”就意味着 Lunar Lake 笔记本电脑将在当天上市。（英特尔发言人 Thomas Hannaford 表示，“更多有关发布会上发售的详细信息”是目前的氛围。）
-目前，英特尔确认的是“将披露新处理器突破性的 x86 能效、出色的核心性能、图形性能的巨大飞跃以及将推动这一代和未来几代英特尔产品的无与伦比的 AI 计算能力的详细信息。”]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</guid>
-      <pubDate>Tue, 30 Jul 2024 19:07:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
