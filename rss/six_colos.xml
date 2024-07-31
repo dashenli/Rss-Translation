@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 31 Jul 2024 18:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 21:16:19 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 565：友谊点</title>
+      <link>https://sixcolors.com/podcast/2024/07/clockwise-565-friendship-dots/</link>
+      <description><![CDATA[我们是否以及如何使用“查找”，我们尚未升级的技术，Apple Intelligence 将如何影响我们的 Siri 使用，以及我们最新的技术旅行提示。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/clockwise-565-friendship-dots/</guid>
+      <pubDate>Wed, 31 Jul 2024 19:04:19 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 506：我们都是彩色人</title>
       <link>https://sixcolors.com/podcast/2024/07/the-rebound-506-were-all-the-color-guy/</link>
@@ -16,7 +23,7 @@
       <title>一周多出国旅行中的技术得失</title>
       <link>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</link>
       <description><![CDATA[连接良好，景色优美。
-我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望。…]]></description>
+我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望的感觉。…]]></description>
       <guid>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</guid>
       <pubDate>Wed, 31 Jul 2024 17:47:34 GMT</pubDate>
     </item>
@@ -28,7 +35,7 @@
       <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 522：预留席位</title>
+      <title>（播客）升级 522：预留您的位置</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
       <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
@@ -113,13 +120,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
 今天，在 Overcast 1.0十周年之际，我很高兴推出对 iOS 应用程序大部分内容的完全重写和重新设计，旨在将 Overcast 带入下一个十年——甚至更远。…]]></description>
       <guid>https://sixcolors.com/link/2024/07/overcast-turns-10/</guid>
       <pubDate>Wed, 17 Jul 2024 22:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 563：好奇心</title>
-      <link>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</link>
-      <description><![CDATA[我们主要在哪里输入文本（智能手机、平板电脑或计算机）、我们作为演讲者或与会者与用户组的互动、我们在 iPhone 基座中保存的应用程序及其原因，以及我们如何使用 Apple Pay。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</guid>
-      <pubDate>Wed, 17 Jul 2024 18:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

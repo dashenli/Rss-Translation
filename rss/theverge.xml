@@ -4,7 +4,69 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 18:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 21:15:20 GMT</lastBuildDate>
+    <item>
+      <title>泄露：DJI Neo 即将发布，这是 DJI 有史以来最轻的廉价无人机</title>
+      <link>https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography</link>
+      <description><![CDATA[
+
+DJI Neo 无人机的泄露照片表明，购买一套可能只需 329 美元。 |图片：Jasper Ellens
+
+DJI 的 4K Neo 无人机已经泄露——根据我们现在看到的照片、包装盒、规格和泄露的沃尔玛价格，它可能是您可以买到的最轻、最便宜的全功能 DJI 无人机。
+沃尔玛泄露的清单暗示 DJI Neo Fly More Combo 的售价可能仅为 329 美元，而独立无人机的起价可能更低，因为 DJI 的“Fly More”套装附带额外的电池、充电集线器和通常会提高价格的单肩包。
+
+
+图片：Jasper Ellens
+DJI Neo。
+
+与此同时，知名泄密者 Jasper Ellens 在 X 上发布的零售包装照片以及FCC 数据库列表现在让我们一窥无人机的规格。如前所述，无人机将能够以 4K 拍摄。
+
+Neo 重量仅为 135 克（约 0.3 磅），也可能是 DJI 迄今为止最轻的廉价无人机（儿童友好的 80 克 DJI Tello 由另一家公司 Ryze 制造）。它比 249 克的 DJI Mini SE（起价 299 美元）更轻，比旧款 300 克的 DJI Spark 更轻，而且只比其竞争对手 HoverAir X1 重 10 克，The Verge 目前正在评测 HoverAir X1。
+
+
+图片：Jasper Ellens
+
+从设计上看，照片显示这款无人机配有螺旋桨防护装置，可以使其在室内使用时更加安全。它还配备了一个无人机按钮界面，可以循环切换飞行模式，就像 HoverAir X1 一样。 
+虽然它在“Fly More”套件中配有操纵杆式专业控制器，但包装盒上提到了多种控制选项，并显示它可以从你的手掌起飞和降落。结合顶部的模式切换按钮和“AI 主体跟踪”，你可能能够启动它并像 HoverAir 一样拍摄飞行自拍照，而无需使用任何控制器。目前还没有关于电池寿命或无线范围的消息。
+与 DJI 的 Mini 系列不同，Neo 似乎不会折叠成更小的包装；它的形状更像DJI 的 Avata FPV 无人机。希望这意味着可以通过将 Neo 连接到与 Avata 兼容的耳机，从无人机的角度来驾驶它。
+目前尚不确定 DJI 计划何时发布这款无人机，但Ellens 推测如果产品照片属实，可能在“几周内”发布。
+
+
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/7/31/24210620/dji-neo-drone-4k-digital-photography</guid>
+      <pubDate>Wed, 31 Jul 2024 19:54:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 首席执行官称微软需要付费才能搜索网站</title>
+      <link>https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+与 Google 达成交易后 和 OpenAI，Reddit 首席执行官史蒂夫·霍夫曼 (Steve Huffman) 呼吁微软和其他公司付费，如果他们想继续抓取该网站的数据。
+“没有这些协议，我们就无法决定或了解我们的数据如何显示以及用于什么用途，这让我们现在处于一个屏蔽那些不愿意接受我们希望如何使用或不使用我们的数据的人的境地，”霍夫曼在本周的一次采访中说。他特别提到了微软、Anthropic 和 Perplexity 拒绝谈判，称“屏蔽这些公司真的很麻烦”。
+近几个月来，Reddit 一直在加大对爬虫的打击力度。 7 月初，其 robots.txt 文件已更新，以屏蔽未与其签订协议的网络爬虫。然后人们开始注意到 Reddit 的结果仅在 Google 结果中可见（Reddit 会付费显示其数据），而不是 Bing 等其他搜索引擎。
+Huffman 表示，微软一直在使用 Reddit 的数据来训练其人工智能，并“在不告知我们的情况下”将其内容总结在 Bing 结果中，并且 Reddit 的数据也已通过 Bing API 出售给其他搜索引擎。在采访中，他引用了微软 AI 首席执行官穆斯塔法·苏莱曼 (Mustafa Suleyman) 最近在一次会议上的评论，即互联网上的公共数据是“免费软件”。
+“我们让微软、Anthropic 和 Perplexity 表现得好像互联网上的所有内容都可以免费供他们使用，”哈夫曼说。 “这才是他们的真实立场。”
+针对 Reddit 搜索结果最近从 Bing 上消失一事，微软搜索主管 Jordi Ribas 在 X 上表示，“Reddit 已阻止 Bing 抓取其网站进行搜索，偏向其他搜索引擎，并影响 Bing 和 Bing 驱动引擎的竞争。”微软发言人 Caitlin Roulston 上周还告诉 The Verge 称，“我们尊重那些不希望其网页内容用于我们的生成式 AI 模型的网站提供的指示。”
+“搜索引擎的传统价值交换已经改变”
+Huffman 指出，OpenAI 最近宣布SearchGPT 将能够显示 Reddit 搜索结果，这要归功于两家公司今年早些时候达成的一项协议，这是他想要复制的模式。发言人 Tim Rathschmidt 表示，Reddit 迄今为止达成的任何内容许可协议均未包括其数据的独家使用案例。
+通过呼吁达成许可协议，Reddit 正在加入更多传统媒体出版商（包括The Verge的母公司 Vox Media），寻求让其内容为生成式 AI 提供内容的报酬。“我认为搜索引擎的传统价值交换已经改变，”哈夫曼说。 “搜索、总结和训练正在融合，抓取流量换取价值交换变得混乱。”
+截至发稿时，微软、Anthropic 和 Perplexity 的发言人尚未对本文发表评论。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search</guid>
+      <pubDate>Wed, 31 Jul 2024 19:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>初探 Apple Intelligence 及其（略）智能的 Siri</title>
+      <link>https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri</guid>
+      <pubDate>Wed, 31 Jul 2024 18:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌 Pixel 9 发布会有哪些看点</title>
       <link>https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks</link>
@@ -48,7 +110,7 @@
 图片：Bungie
 
 Bungie 又遭遇一轮裁员。 Bungie 首席执行官 Pete Parsons 在工作室网站上宣布了这一消息，称开发成本增加和经济状况不佳是裁员的原因。在过去两年的电子游戏行业裁员潮中，这种说法已经变得很常见。Parsons 写道，将裁减 220 个职位，占公司员工总数的 17%。 
-此外，Parsons 写道，Bungie 正在努力将另外 155 名员工整合到索尼互动娱乐的其他部门。这些数字加上去年 10 月裁员的 100 人，意味着 Bungie 在过去 12 个月内失去了约 40% 的员工。去年，Bungie 约有 1,200 名员工，之后因大型命运 2：最终形态扩展包延迟，裁员 100 人。
+此外，Parsons 写道，Bungie 正在努力将另外 155 名员工整合到索尼互动娱乐的其他部门。这些数字加上去年 10 月裁员的 100 人，意味着 Bungie 在过去 12 个月内失去了约 40% 的员工。去年，Bungie 约有 1,200 名员工，之后因大型命运 2：最终形态扩展包延迟，100 人被解雇。
 此最新裁员公告发布的同时，还有消息称 Bungie 员工正在开发一款新游戏。
 “我们正在与 PlayStation Studios 领导层合作，分拆我们的一个孵化项目——一款以全新科幻世界为背景的动作游戏——在 PlayStation Studios 内部组建一个新工作室，继续其有前途的开发，”帕森斯写道。 
 帕森斯对所有这些消息做出了解释，称 Bungie 发展得太快，领导团队在众多项目中分散得过于分散。这对该工作室的已知项目产生了连锁反应，导致帕森斯所说的《命运 2》的《Lightfall》扩展包“质量不佳”，以及其下一款游戏《马拉松》的延期。
@@ -98,53 +160,6 @@ Bungie 又遭遇一轮裁员。 Bungie 首席执行官 Pete Parsons 在工作室
 一些客户已经接受了第三方应用程序如SonoPhone，而官方应用程序仍在继续度过这个艰难时期。在上周的首席执行官帕特里克·斯彭斯 (Patrick Spence) 的信中，Sonos 列出了计划在 10 月份实现的改进计划。这些改进包括改善音量一致性、闹钟可靠性，以及恢复在 Sonos 应用程序内编辑播放列表和即将到来的队列的能力。]]></description>
       <guid>https://www.theverge.com/2024/7/31/24210410/sonos-iphone-battery-drain-fix-now-available</guid>
       <pubDate>Wed, 31 Jul 2024 14:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber 交易或将为道路增加 10 万辆电动汽车</title>
-      <link>https://www.theverge.com/2024/7/31/24210369/uber-byd-partnership-ride-hailing-evs</link>
-      <description><![CDATA[
-
-图片：Uber
-
-Uber 正与比亚迪合作，将这家中国汽车制造商的 10 万辆电动汽车引入其拼车应用。这项多年期合作伙伴关系将首先在欧洲和拉丁美洲推出，为 Uber 使用的比亚迪车辆的司机提供“一流的定价和融资”。
-Uber 表示，其目标是鼓励更多司机使用电动汽车，这是其电动化出行计划的一部分，同时降低电动汽车的拥有成本。除了融资和贷款方面的潜在折扣外，此次合作还可能为比亚迪司机提供充电和车辆维护方面的折扣，具体取决于市场。 
-两家公司计划在未来将合作伙伴关系扩展到中东、加拿大、澳大利亚和新西兰。Uber 在 2022 年宣布了一项类似的合作伙伴关系，让司机从赫兹租用电动汽车。但在发现 Uber 司机的车辆损坏率较高后，赫兹最终缩减了其电动汽车野心。 
-
-
-.@Uber 拥有世界上最广泛的按需电动汽车网络。@BYDGlobal 是电动汽车生产的全球领导者。我们携手合作，让欧洲、拉丁美洲和亚洲的 @Uber 司机能够更轻松地转型并实现绿色出行⚡️https://t.co/6AqMgl2heU— dara khosrowshahi (@dkhos) 2024 年 7 月 31 日
-
-
-此外，Uber 和比亚迪将合作，将更多自动驾驶汽车引入拼车平台。 Uber 去年开始与机器人出租车公司 Waymo 合作提供乘车服务，并于4 月份将合作伙伴关系扩大到包括自动送餐。比亚迪美洲公司首席执行官 Stella Li 在公告中表示：“此次合作标志着城市交通电气化的新时代，我们期待看到我们尖端的电动汽车在全球城市街道上成为常见景象。”
-目前尚不清楚 Uber 与比亚迪的合作将如何发展，尤其是在全球各国限制中国制造的电动汽车销售的情况下。中国政府向该国的电动汽车制造商提供数十亿美元的补贴，允许他们以低于竞争对手的价格销售电动汽车，并可能损害外国竞争对手。今年 5 月，美国提高了对中国电动汽车的关税，欧盟也于 7 月效仿，对比亚迪进口产品额外征收 17.4% 的关税。]]></description>
-      <guid>https://www.theverge.com/2024/7/31/24210369/uber-byd-partnership-ride-hailing-evs</guid>
-      <pubDate>Wed, 31 Jul 2024 14:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的新款 Xbox 控制器比以往更加透明</title>
-      <link>https://www.theverge.com/2024/7/31/24210403/microsoft-xbox-controller-translucent-blue-model</link>
-      <description><![CDATA[
-
-图片：微软
-
-我相当确信微软迄今为止打造的 Xbox 控制器比我吃过的热晚餐还多，但我总是很高兴看到另一种半透明的选择。这次是新的“Sky Cipher 特别版”控制器，它采用半透明蓝色设计，让您可以看到 Xb​​ox 控制器的内部工作原理。
-微软过去曾打造过白色、黑色，甚至粉红色半透明控制器，但只有上半部分具有这种效果。除了后部、握把和按钮外，这款新的蓝色型号现在大部分都是半透明的。它与 2021 年发布的第 20 版特别型号相匹配。微软选择了双色拇指杆、匹配的方向键和蓝色金属扳机。
-
-
-图片：Microsoft
-此型号的半透明效果不会消失。
-
-除了半透明效果外，这款 Xbox Series S / X 控制器已经推出多年。它包括一个 3.5 毫米音频插孔、USB-C 连接和长达 40 小时的电池续航时间。 
-不过，Sky Cipher 是第一款采用全新环保 Xbox 控制器包装的产品。“包装中不再使用一次性塑料，传统的纸质手册已被二维码取代，以提供数字快速入门指南，”Xbox 配件高级营销经理 Daniel Ruiz 说道。 “此外，包装现在缩小了 22%，重量减轻了 21%，进一步减少了对环境的影响（之前为 177 毫米 x 175.4 毫米 x 72 毫米和 152.3 克）。”
-Sky Cipher Xbox 控制器现可预订，售价为 69.99 美元。]]></description>
-      <guid>https://www.theverge.com/2024/7/31/24210403/microsoft-xbox-controller-translucent-blue-model</guid>
-      <pubDate>Wed, 31 Jul 2024 14:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊大屏幕 Kindle Scribe 现优惠 100 多美元</title>
-      <link>https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/31/24209525/amazon-kindle-scribe-echo-show-8-smart-display-deal-sale</guid>
-      <pubDate>Wed, 31 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
