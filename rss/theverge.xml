@@ -4,7 +4,29 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 00:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 03:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的人工智能称特朗普集会枪击事件并未发生，并称这是幻觉造成的</title>
+      <link>https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations</link>
+      <description><![CDATA[
+
+前总统唐纳德·特朗普。 |图片：Laura Normand / The Verge
+
+Meta 的 AI 助手错误地表示，最近发生的针对前总统唐纳德·特朗普的暗杀未遂事件并没有发生，公司高管现在将此错误归咎于其聊天机器人和其他机器人所采用的技术。
+在周二发布的一篇公司博客文章中，Meta 的全球政策主管 Joel Kaplan 称其 AI 对枪击事件问题的回答“令人遗憾”。他表示，Meta AI 最初被编程为不回答有关暗杀未遂的问题，但在人们开始注意到后，公司取消了这一限制。他还承认，“在少数情况下，Meta AI 继续提供错​​误答案，包括有时声称事件没有发生——我们正在迅速努力解决这一问题。”
+“这些类型的反应被称为幻觉，这是我们在所有生成式 AI 系统中看到的行业问题，也是 AI 如何处理未来实时事件的一个持续挑战，”负责 Meta 游说工作的 Kaplan 继续说道。 “与所有生成式人工智能系统一样，模型可能会返回不准确或不适当的输出，随着它们的发展和更多人分享反馈，我们将继续解决这些问题并改进这些功能。”
+
+
+Meta AI 不会透露任何有关企图谋杀的细节。我们正在实时目睹对最大、最具影响力的新闻之一的压制和掩盖。简直不真实。 pic.twitter.com/BoBLZILp5M— TikTok 自由派 (@libsoftiktok) 2024 年 7 月 28 日
+
+
+陷入困境的不仅仅是 Meta：谷歌周二也不得不驳斥其搜索自动完成功能正在审查有关暗杀企图的结果的说法。 “我们又来了，又一次试图操纵选举！！！”特朗普在 Truth Social 上的一篇帖子中说道。“追随 META 和谷歌。”
+
+自从 ChatGPT 出现以来，科技行业一直在努力限制生成式人工智能的谎言倾向。一些参与者，比如 Meta，试图用高质量的数据和实时搜索结果来支撑他们的聊天机器人，以此来弥补幻觉。但正如这个特定的例子所示，仍然很难克服大型语言模型的固有设计目的：编造东西。
+]]></description>
+      <guid>https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations</guid>
+      <pubDate>Wed, 31 Jul 2024 01:39:55 GMT</pubDate>
+    </item>
     <item>
       <title>由于 AWS 问题，Ring 摄像头功能暂停</title>
       <link>https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east</link>
@@ -149,26 +171,6 @@ Activision 首席技术官 Natalya Tatarchuk 表示，Activision 还认为该数
 目前，英特尔确认的是“将披露新处理器突破性的 x86 能效、出色的核心性能、图形性能的巨大飞跃以及将推动这一代和未来几代英特尔产品的无与伦比的 AI 计算能力的详细信息。”]]></description>
       <guid>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</guid>
       <pubDate>Tue, 30 Jul 2024 19:07:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel Watch 3 泄露，显示边框更薄，并有 45 毫米新型号</title>
-      <link>https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs</link>
-      <description><![CDATA[
-
-图片：Android Headlines
-
-由于边框更薄，Pixel Watch 3 的屏幕似乎会比 Watch 2 更大。Android Headlines 分享的泄露营销材料 表明，41 毫米 Pixel Watch 3 的屏幕面积将比 Watch 2 大 10%，且占用空间相同。
-Pixel Watch 3 的显示屏亮度也可能更高 — 最高可达 2,000 尼特，峰值亮度是 Pixel 2 的两倍 — 充电速度也将提高 20%。如果规格表属实，则确认了之前泄露的 45 毫米手表，并指出两种尺寸在启用常亮显示的情况下电池续航时间最长为 24 小时，在启用新省电模式的情况下电池续航时间最长为 36 小时。
-这可能意味着 Pixel Watch 3 将不会使用Wear OS 4 中推出的“混合界面”，该界面应该可以将电池续航时间延长至 100 小时的常规使用时间。到目前为止，只有 OnePlus Watch 2 具有此功能。
-
-
-图片：Android Headlines
-
-营销材料还提到了新的健身功能，包括创建自定义跑步功能以及“音频和触觉提示”会告诉您何时冲刺、冷却或保持速度。此外，新的 Fitbit“晨间简报”将提供健康和健身指标摘要，以帮助您规划锻炼。这些新功能最终可能会出现在 Pixel Watch 的旧型号上，这是谷歌过去做过的事情。
-泄漏中披露的其他变化包括支持 离线谷歌地图，以及从 Google Home 应用程序查看 Nest Cam 和 Nest Doorbell 的实时信息的功能。当您从手表控制 Pixel 手机的相机应用程序时，您似乎还可以轻松地在照片和视频之间切换。先前的泄露表明 Pixel Watch 3 将获得超宽带支持，以实现更好的位置跟踪，但营销材料中并未提及这一点。
-随着谷歌的硬件活动即将于 8 月 13 日举行，我们无需等待太久就能看到 Pixel Watch 3 和大量泄露的 Pixel 9 阵容。]]></description>
-      <guid>https://www.theverge.com/2024/7/30/24209697/google-pixel-watch-3-leak-thinner-bezels-specs</guid>
-      <pubDate>Tue, 30 Jul 2024 18:59:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
