@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 31 Jul 2024 15:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 18:19:41 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 506：我们都是彩色人</title>
+      <link>https://sixcolors.com/podcast/2024/07/the-rebound-506-were-all-the-color-guy/</link>
+      <description><![CDATA[你可以让这句话不那么粗俗吗？…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-506-were-all-the-color-guy/</guid>
+      <pubDate>Wed, 31 Jul 2024 18:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>一周多出国旅行中的技术得失</title>
+      <link>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</link>
+      <description><![CDATA[连接良好，景色优美。
+我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</guid>
+      <pubDate>Wed, 31 Jul 2024 17:47:34 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Watch 是否太过薄弱，无法满足 Apple 的健康目标？（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2413823</link>
@@ -105,20 +120,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[我们主要在哪里输入文本（智能手机、平板电脑或计算机）、我们作为演讲者或与会者与用户组的互动、我们在 iPhone 基座中保存的应用程序及其原因，以及我们如何使用 Apple Pay。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/clockwise-563-peripherally-curious/</guid>
       <pubDate>Wed, 17 Jul 2024 18:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 504：威士忌和股票的绝佳选择</title>
-      <link>https://sixcolors.com/podcast/2024/07/the-rebound-504-excellent-choices-in-whiskey-and-stocks/</link>
-      <description><![CDATA[在本集中，我们将揭示我们是否买了任何东西。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-504-excellent-choices-in-whiskey-and-stocks/</guid>
-      <pubDate>Wed, 17 Jul 2024 16:36:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的人工智能计划可能会将权力重新交到用户手中（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2400818</link>
-      <description><![CDATA[技术的未来有时会朝着令人惊讶的方向发展，走上一条显而易见的道路，然后突然折返，走上一条人迹罕至的道路。曾经有一段时间，未来是由远程服务器驱动的动力不足的客户端设备，直到现在情况并非如此——然后（多亏了云服务和人工智能）它又回来了。…]]></description>
-      <guid>https://www.macworld.com/article/2400818</guid>
-      <pubDate>Wed, 17 Jul 2024 16:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
