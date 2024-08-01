@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 30 Jul 2024 15:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 15:17:39 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚焦：Artemii Lebedev</title>
+      <link>https://tympanus.net/codrops/2024/08/01/designer-spotlight-artemii-lebedev/</link>
+      <description><![CDATA[认识一下 Artemii Lebedev，Le:mma Studio 的获奖设计师和艺术总监，他擅长将美学与功能性相融合，并分享了他创新作品和创作过程的见解。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/01/designer-spotlight-artemii-lebedev/</guid>
+      <pubDate>Thu, 01 Aug 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>折纸：12 个免费动画 3D 对象</title>
       <link>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[现在如何使用容器查询 * 探索 JavaScript 中的随机性 * 放弃它！* Vizzu]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-854/</guid>
       <pubDate>Fri, 12 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用自定义 Three.js 材质创建动画位移球体</title>
-      <link>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</link>
-      <description><![CDATA[了解如何使用 Three.js 和 React Three Fiber 的自定义着色器创建动画、位移球体。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/09/creating-an-animated-displaced-sphere-with-a-custom-three-js-material/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:05:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
