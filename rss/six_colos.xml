@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 31 Jul 2024 21:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 01:09:07 GMT</lastBuildDate>
+    <item>
+      <title>关于科技和旅行的更多信息</title>
+      <link>https://sixcolors.com/post/2024/07/a-little-more-about-tech-and-travel/</link>
+      <description><![CDATA[
+和丹一样，我也从苏格兰旅行回来了。他的文章涵盖了现代国际旅行者生活的大部分问题，但我还有一些额外的观察要分享。…]]></description>
+      <guid>https://sixcolors.com/post/2024/07/a-little-more-about-tech-and-travel/</guid>
+      <pubDate>Wed, 31 Jul 2024 21:27:41 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 565：友谊点</title>
       <link>https://sixcolors.com/podcast/2024/07/clockwise-565-friendship-dots/</link>
@@ -35,7 +43,7 @@
       <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 522：预留您的位置</title>
+      <title>（播客）升级 522：预留席位</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
       <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
@@ -110,16 +118,6 @@ Vision Pro 的沉浸式内容（该设备的最佳功能之一）的推出速度
       <description><![CDATA[体育记者 Will Carroll 与 Jason 一同报道全体育角版。我们讨论了 NBA 电视交易、NFL 诉讼以及体育广播的未来。[Downstream+ 会员还可以获得：后 RSN 世界、Netflix 和体育直播等。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/downstream-74-the-infinite-stadium/</guid>
       <pubDate>Thu, 18 Jul 2024 16:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>阴天转 10 ↦</title>
-      <link>https://sixcolors.com/link/2024/07/overcast-turns-10/</link>
-      <description><![CDATA[
-我过去十年选择的播客播放器刚刚庆祝了它的 10 周年纪念日。以下是 Overcast 的唯一所有者 Marco Arment：
-
-今天，在 Overcast 1.0十周年之际，我很高兴推出对 iOS 应用程序大部分内容的完全重写和重新设计，旨在将 Overcast 带入下一个十年——甚至更远。…]]></description>
-      <guid>https://sixcolors.com/link/2024/07/overcast-turns-10/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:13:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
