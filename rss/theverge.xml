@@ -4,17 +4,91 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 01 Aug 2024 21:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 01:02:13 GMT</lastBuildDate>
+    <item>
+      <title>英特尔崩溃的第 13 代和第 14 代 CPU 可获得额外两年的保修期</title>
+      <link>https://www.theverge.com/2024/8/1/24211616/intel-crashing-13th-14th-gen-cpus-warranty-two-more-years</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+虽然没有修复英特尔的第 13 代和第 14 代英特尔酷睿处理器崩溃，该公司正试图通过将保修期延长两年来为那些被可能损坏的芯片困住的客户提供更好的服务。
+“英特尔致力于确保所有曾经或目前正在经历第 13 代和/或第 14 代台式机处理器不稳定症状的客户在更换过程中得到支持，”英特尔的 Thomas Hannaford 在给The Verge的一份声明中写道。 “我们支持我们的产品，未来几天我们将分享有关盒装英特尔酷睿第 13 代和第 14 代台式机处理器两年延长保修支持的更多详细信息。”
+
+英特尔的盒装 CPU 已经有三年有限保修，因此这一变化意味着大多数受影响的 CPU 现在将有 5 年保修。上周，该公司没有向The Verge透露是否会延长芯片保修期。
+英特尔表示，台式机 CPU 不稳定问题的主要原因是“工作电压升高”，并且正在开发一个补丁，计划于 8 月中旬推出，以解决这一问题的根本原因。但这个补丁显然无法修复已经发生的任何损害，这意味着修复损坏的芯片的最佳方法是更换它。 
+以下是英特尔的完整声明：
+
+英特尔致力于确保所有在第 13 代和/或第 14 代台式机处理器上出现或正在经历不稳定症状的客户在更换过程中得到支持。我们对我们的产品负责，在未来几天，我们将分享更多关于盒装英特尔酷睿第 13 代和第 14 代台式机处理器的两年延长保修支持的详细信息。
+与此同时，如果您目前或以前在英特尔酷睿第 13 代/第 14 代台式机系统上遇到不稳定症状：
+对于从 OEM/系统集成商处购买系统的用户，请联系您的系统制造商的支持团队以获得进一步帮助。
+对于购买盒装 CPU 的用户，请联系英特尔客户支持以获得进一步帮助。
+英特尔还在研究在最终用户系统上轻松识别受影响处理器的选项，并将尽快提供更多指导。
+同时，我们对沟通延迟表示歉意，因为一直是一个难以解开并明确其根本原因的问题。
+]]></description>
+      <guid>https://www.theverge.com/2024/8/1/24211616/intel-crashing-13th-14th-gen-cpus-warranty-two-more-years</guid>
+      <pubDate>Thu, 01 Aug 2024 23:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络中立性受到搁置</title>
+      <link>https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 |图片来自 Getty Images
+
+在第六巡回上诉法院阻止该规则生效后，网络中立性正式被搁置。
+法院批准暂缓执行，延长之前的暂停。这一次，网络中立性将被搁置，直到法院在审查反对该规则的宽带提供商的请愿书后另行决定。评审团写道，这些互联网服务提供商 (ISP) 成功证明，他们很可能会凭借挑战的实质获得成功。
+“美国公众希望互联网快速、开放、公平，”联邦通信委员会主席杰西卡·罗森沃塞尔 (Jessica Rosenworcel) 在一份关于暂缓执行的声明中表示。“第六巡回法院今天的裁决是一个挫折，但我们不会放弃争取网络中立的斗争。”
+经过多年的反复讨论，FCC 今年早些时候投票决定恢复网络中立规则。网络中立的概念是，ISP 不应通过阻止或限制速度或访问来歧视不同的网站。该政策的争议部分在于 FCC 试图执行这些规则的机制：根据《通信法》第二章将 ISP 重新归类为公共承运商。ISP 在很大程度上抵制这种重新分类，因为他们表示这可能会导致政府对其业务进行更大的控制，而他们表示这会扼杀创新。例如，他们说这种分类可用于实施价格监管，尽管联邦通信委员会表示没有计划这样做。
+
+虽然恢复网络中立性总是充满争议，但在最高法院废除了雪佛龙尊重（一项法律标准，法院在许多案件中将监管问题提交给专家机构）之后，网络中立性的命运看起来更加黯淡。雪佛龙倒闭后，专家预测网络中立性将面临瓦解，法官意见指出，之前支持网络中立性的法院依赖雪佛龙。
+首席法官 Jeffrey Sutton 在一份同意意见中写道，FCC 在政府间对网络中立性的反复无常使得应用较低的斯基德莫尔尊重标准变得困难，现在各机构不再依赖雪佛龙的尊重，人们认为这可能是一种退路。萨顿引用了斯基德莫尔的观点，写道：“一个机构的说服力取决于其推理的彻底性、技术专长以及‘与之前和之后的声明的一致性’，尤其是与法规颁布同时的声明，”他写道。“问题是，我们不知道该尊重哪一组专家。” 
+他补充道，“一致性问题使情况变得更糟。委员会‘第四次改变方针的意图’表明，其推理更多地与更换总统政府有关，而不是与获得真实而持久的‘法律含义’有关。”
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/1/24211570/net-neutrality-sixth-circuit-stay-blocked-fcc</guid>
+      <pubDate>Thu, 01 Aug 2024 22:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>NZXT 将出租整套游戏电脑，但成本很快就会增加</title>
+      <link>https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games</link>
+      <description><![CDATA[
+
+图片：NZXT
+
+想玩电脑游戏，但又觉得生活中没有足够的昂贵订阅服务？台式电脑制造商和零售商 NZXT 只需每月 59 美元，即可为您运送整套游戏装备 — 只要您提供自己的鼠标、键盘和显示器。
+根据 NZXT 的帖子，以及定价和规格，Flex 订阅计划至少已经推出几个月了所列出的机器随着时间而发生了变化。现在，该公司正在更新其三层 PC 租赁方法，并采用新的规格，其基础 Player: One 入门级订阅每月 59 美元，可租用一台搭载英特尔酷睿 i5 14400F 和 Nvidia RTX 4060 GPU。升级到中端Player: Two 每月费用为 119 美元，配备 AMD Ryzen 5 5600X CPU 和 RTX 4070 Super GPU，顶级Player: Three 套餐每月费用为 169 美元，配备 Intel Core i7 13700KF 和 RTX 4070 Ti Super。 
+如果您决定取消订阅，所有三个层级还需要 50 美元的“安装和运输费”，其中包括退货标签。
+
+
+图片：NZXT
+
+NZXT 网站表示，订阅者可以期待获得全新或类似全新的Flex PC 按月付款，三到五天内交付，可随时免费取消。如果出现问题，客户还可以获得免费更换和 24/7 客户支持，并保证每两年进行一次硬件升级。
+两年是一段相当长的时间，即使是最便宜的 Player: One 型号，您也需要花费 1,416 美元才能使用 4060 到 2026 年（不过，在这段时间内应该有免费升级）。配备 4070 Ti Super 的 Player: Three 型号两年的租金为 4,056 美元。
+这就是您可以花费的钱来构建自己的 4090 级台式机，该台式机更适合 4K 游戏。 Woof。
+我们已联系 NZXT，以澄清每个更新层级的完整规格（包括 RAM 和存储），以及如果订阅者可以购买租用的 Flex 电脑，他们是否有任何激励措施，例如先租后买定价。]]></description>
+      <guid>https://www.theverge.com/2024/8/1/24211490/nzxt-flex-desktop-gaming-pc-rental-service-subscription-nvidia-gpu-games</guid>
+      <pubDate>Thu, 01 Aug 2024 22:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳 Android 智能手表</title>
+      <link>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
+      <pubDate>Thu, 01 Aug 2024 21:32:30 GMT</pubDate>
+    </item>
     <item>
       <title>苹果进军人工智能领域 iPad 销量反弹</title>
       <link>https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai</link>
       <description><![CDATA[
 
+照片由 Amelia Holowaty Krales / The Verge 拍摄
 
 Apple 发布了其最新的 iPad Pro 和 iPad Air 平板电脑，在经历了几个季度的销售疲软之后，新产品为公司的 iPad 部门带来了显着的提振。加上服务和 Mac 的强劲表现，Apple 公布的季度收入为 858 亿美元，比去年同期增长 5%。由于消费者正在等待新一波产品，iPhone 和可穿戴设备的收入相对持平。
-到苹果报告下一次收益时，该公司将推出 iPhone 16、iPhone 16 Plus、iPhone 16 Pro 和 iPhone 16 Pro Max。除了其他改进之外，Pro 机型的显示屏将略大一些，而标准版 iPhone 将采用去年推出的 Action Button。这些设备预计将于 9 月上市，同时还有新的 AirPods 耳机和更新的 Apple Watch 硬件。据传，苹果还在为其 MacBook Pro 和 Mac mini 开发规格升级，这两款产品都可能在今年秋季某个时候升级为 M4 芯片。
+到苹果报告下一次收益时，该公司将推出 iPhone 16、iPhone 16 Plus、iPhone 16 Pro 和 iPhone 16 Pro Max。除了其他改进之外，Pro 机型的显示屏将略大一些，而标准版 iPhone 将采用去年推出的 Action Button。这些设备预计将于 9 月上市，同时还有新的 AirPods 耳机和更新的 Apple Watch 硬件。据传，苹果还在为其 MacBook Pro 和 Mac Mini 开发规格升级，这两款产品都可能在今年秋季某个时候升级为 M4 芯片。
 在软件方面，该公司正在为即将发布的 iOS 18、iPadOS 18、tvOS 18、macOS Sequoia 和 watchOS 11 版本进行公开测试。对于 iPhone、iPad 和 Mac，这些更新将标志着 Apple 进军生成式 AI 功能，其中包括与 OpenAI 的 ChatGPT 的一些集成。该公司计划在 iOS 18.1 中推出这套 Apple Intelligence 软件功能。 
-“我们所做的是，将很多原本从事其他工作的人员重新部署到人工智能领域，”苹果首席执行官蒂姆库克告诉 CNBC。 “本季度的业绩中，我们在人工智能和 Apple Intelligence 上的支出同比有所增加，这无疑体现在我们的业绩中。”
+“我们所做的是，将许多从事其他工作的人重新部署到人工智能领域，”苹果首席执行官蒂姆库克告诉 CNBC。 “本季度的业绩中，我们在人工智能和 Apple Intelligence 上的支出同比有所增加，这无疑体现在我们的业绩中。”
 此外，苹果还面临着司法部提起的一起备受瞩目的反垄断诉讼——这是一场法庭对决，该公司正试图驳回——并且仍在放松对 App Store 控制的最初几个月，允许第三方替代品（在欧盟）和让模拟器进入商店 （到处）都是第一次。]]></description>
       <guid>https://www.theverge.com/2024/8/1/24211479/apple-q3-2024-earnings-ipad-services-mac-ai</guid>
       <pubDate>Thu, 01 Aug 2024 20:53:18 GMT</pubDate>
@@ -105,58 +179,6 @@ Riffmaster 外观前卫，看起来像一把 Brutal Legend 武器，它复制了
 ]]></description>
       <guid>https://www.theverge.com/2024/8/1/24155728/pdp-riffmaster-wireless-guitar-controller-fortnite-festival-rock-band-stock-availability</guid>
       <pubDate>Thu, 01 Aug 2024 19:13:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>本田和日产邀请三菱加入其电动汽车开发合作伙伴关系</title>
-      <link>https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership</link>
-      <description><![CDATA[
-
-照片由 Richard A. Brooks / AFP via Getty Images 拍摄
-
-三菱与日产和本田签署谅解备忘录，加入双方已有的合作伙伴关系，共同开发电动汽车和其他相关技术。希望通过合作，这三家日本汽车制造商能够在未来推出技术更先进的汽车的竞争中赶上竞争对手。 
-这是大型全球汽车制造商集中资源以分摊成本并寻找更有效的方式将新型电动汽车推向市场的另一个例子。日产和本田在一份声明中表示，三菱的加入“不仅将增加新的知识和优势，还将提供只有这三家公司才能产生的进一步协同效应”。 
-这是大型全球汽车制造商集中资源以分摊成本并寻找更有效的方式推出新型电动汽车的另一个​​例子
-这不是这些公司中任何一家的第一次合资企业。 本田与通用汽车联手开发电动汽车，但几年后合作关系就解散了。（新发布的本田 Prologue 是基于通用汽车的 Ultium 平台打造的。）几个月后，本田与日产联手，目标也类似。日产已经与三菱建立了长达数十年的全球联盟，雷诺也加入了该联盟。 
-在退出与通用汽车的交易后，本田很可能正在寻找合作伙伴来帮助接管。同样，日产和三菱都在努力在美国站稳脚跟，前者的营业利润上个季度在美国下降了约 99%。美国人不再像以前那样购买日产汽车，而且该公司未能在这个显然非常青睐混合动力汽车的市场推出任何混合动力汽车，这也导致其发展速度放缓。
-目前尚不清楚三菱汽车究竟能带来什么。该品牌还难以推出任何长续航电动汽车，但这并不是日本汽车行业独有的现象。插电式混合动力欧蓝德取得了一些成功，但并不是一炮走红。
-在其他新闻中，日产和本田正在为他们的合作增加另一个目标：开发所谓的软件定义汽车。两家公司表示，他们将完成对新技术的研究，目标是在一年内实现量产。本田和日产还将在电池、电动机和新产品评估系统方面展开合作，以鼓励“相互补充汽车”。 
-加快许多其他公司已经稳居领先地位的进程似乎是这里的游戏名称。日产已经概述了其计划，到 2026 年，其生产的 30 辆汽车中有 16 辆将实现电气化，其中 7 辆将面向北美市场。而且它的固态电池计划正在取得进展。
-现在它所需要的只是愿意帮助分摊这些成本并止住目前亏损的合作伙伴。而在本田和三菱，它找到了这些合作伙伴。]]></description>
-      <guid>https://www.theverge.com/2024/8/1/24211319/honda-nissan-mitsubishi-ev-development-partnership</guid>
-      <pubDate>Thu, 01 Aug 2024 18:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将“学校时间”扩展至手机和平板电脑</title>
-      <link>https://www.theverge.com/2024/8/1/24211399/google-school-time-phones-tablets-expansion</link>
-      <description><![CDATA[
-
-图片：Google
-
-Google 很快将允许家长在孩子上学期间限制其手机或平板电脑的功能。该公司于周四宣布，明年将把“上学时间”功能扩展到部分 Android 手机、平板电脑和三星 Galaxy 手表。
-
-该公司于 5 月首次在其 Fitbit Ace LTE 智能手表上推出了“上学时间”，并将该功能推广到更广泛的设备，这将有助于避免课堂上出现任何额外的干扰。除了允许家长阻止孩子访问某些应用程序外，“上学时间”还可以限制来自某些联系人的电话和消息通知。家长可以通过 Google 的 Family Link 应用调整这些设置。 
-
-
-GIF：Google
-
-据 Google 指出，未通过 Google Family Link 应用进行监管的青少年在需要集中注意力时仍可使用其设备的“专注”模式来屏蔽通知。今年夏末，谷歌还将开始让父母将他们的 YouTube 帐户与青少年帐户关联起来，以便他们跟踪青少年的活动。
-虽然很高兴看到谷歌将 School time 扩展到可穿戴设备之外，但该公司并未透露哪些 Android 手机或平板电脑将支持该功能。我们还得看看苹果是否会效仿，因为该公司有一个类似的 Schooltime 功能，仅在其智能手表上可用。]]></description>
-      <guid>https://www.theverge.com/2024/8/1/24211399/google-school-time-phones-tablets-expansion</guid>
-      <pubDate>Thu, 01 Aug 2024 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特 Maverick 混合动力车型阵容新增 AWD 车型</title>
-      <link>https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/1/24211184/ford-maverick-2025-hybrid-awd-lariat-lobo-pickup-truck</guid>
-      <pubDate>Thu, 01 Aug 2024 18:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业气候承诺监督机构正在严厉打击碳排放信用</title>
-      <link>https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/1/24210744/climate-goals-corporate-watchdog-carbon-credit-offset</guid>
-      <pubDate>Thu, 01 Aug 2024 17:53:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
