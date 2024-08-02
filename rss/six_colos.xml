@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 02 Aug 2024 01:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 21:15:42 GMT</lastBuildDate>
+    <item>
+      <title>关于苹果依赖服务收入的存在主义思考</title>
+      <link>https://sixcolors.com/post/2024/08/existential-thoughts-about-apples-reliance-on-services-revenue/</link>
+      <description><![CDATA[Apple Pay 和 Apple Card 是 Apple 不断发展的服务之一。
+Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元的利润，创下了第三季度的历史新高。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/existential-thoughts-about-apples-reliance-on-services-revenue/</guid>
+      <pubDate>Fri, 02 Aug 2024 20:01:47 GMT</pubDate>
+    </item>
     <item>
       <title>这是 Tim：完整的 2024 年第三季度分析师电话会议记录</title>
       <link>https://sixcolors.com/post/2024/08/this-is-tim-q3-2024-analyst-call-transcript/</link>
@@ -55,7 +63,7 @@
       <title>一周多出国旅行中的技术得失</title>
       <link>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</link>
       <description><![CDATA[连接良好，景色优美。
-我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望的感觉。…]]></description>
+我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望。…]]></description>
       <guid>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</guid>
       <pubDate>Wed, 31 Jul 2024 17:47:34 GMT</pubDate>
     </item>
@@ -67,7 +75,7 @@
       <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 522：预留您的位置</title>
+      <title>（播客）升级 522：预留席位</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
       <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
@@ -109,14 +117,6 @@
       <description><![CDATA[现在这是一个全是小屁孩的播客。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/the-rebound-505-charlie-ten-c-ten/</guid>
       <pubDate>Wed, 24 Jul 2024 16:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）你不能再忽视 GDPR 了</title>
-      <link>https://sixcolors.com/feed-only/2024/07/you-cant-ignore-gdpr-anymore/</link>
-      <description><![CDATA[当欧盟于 2018 年颁布 GDPR 时，高管和安全专家焦急地等待着
-看看该法律将如何执行。然后他们一直在等待……等待……但欧洲大规模的隐私打击从未到来。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/07/you-cant-ignore-gdpr-anymore/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
