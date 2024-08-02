@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 02 Aug 2024 06:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 09:17:17 GMT</lastBuildDate>
+    <item>
+      <title>荷兰如何成为网络间谍活动的目标——以及欧洲为何应该担心</title>
+      <link>https://thenextweb.com/news/how-the-netherlands-target-cyber-espionage-europe-worried</link>
+      <description><![CDATA[提到间谍活动，人们通常会联想到各种高端奇特设备，比如可以变成激光的雨伞和透视眼镜、雾蒙蒙的清晨秘密会面，或者在异国他乡的高速快艇追逐和精心伪装。如今，现实可能没有那么性感，但效果却要好得多。受国家支持的黑客和我们一样，有朝九晚五的工作。他们有办公室、假期，还有在咖啡室闲聊的时间。但他们在电脑后面开展活动，渗透世界各地的系统，从政府、公司、关键基础设施甚至可能访问这些数据的个人那里获取敏感数据。“我们......本报道在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/how-the-netherlands-target-cyber-espionage-europe-worried</guid>
+      <pubDate>Fri, 02 Aug 2024 08:20:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟人工智能法案生效，为人工智能治理树立全球标准</title>
+      <link>https://thenextweb.com/news/eu-ai-act-enters-into-force-sets-global-standard-for-ai-governance</link>
+      <description><![CDATA[欧盟的《人工智能法案》于昨天生效。这是世界上第一部全面的人工智能法规。该法律于 2023 年 12 月首次达成一致，采用基于风险的方法。最严格的措施仅适用于“高风险”系统，包括与就业和执法相关的工具。该法规完全禁止被视为“不可接受”的人工智能系统，例如社交评分或警察分析。对于“风险最小”的人工智能，例如垃圾邮件过滤器，没有额外的要求。对于“风险有限”的系统，例如聊天机器人，公司需要告知用户他们正在与人工智能互动。该法案还引入了一套特殊的规则......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/eu-ai-act-enters-into-force-sets-global-standard-for-ai-governance</guid>
+      <pubDate>Fri, 02 Aug 2024 07:22:50 GMT</pubDate>
+    </item>
     <item>
       <title>英国初创公司指责谷歌因撤回 Gmail API 而存在“掠夺性行为”</title>
       <link>https://thenextweb.com/news/google-predatory-conduct-withdraws-gener8-gmail-api</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[随着科技巨头支持年轻 AI 公司的趋势持续，谷歌与 GenAI 初创公司 Anthropic 的合作在英国引起了关注。竞争和市场管理局 (CMA) 周二表示，正在收集有关该合作是否符合合并条件并对英国竞争产生负面影响的信息。据报道，10 月份，谷歌母公司 Alphabet 向这家总部位于旧金山的初创公司投资了 20 亿美元，该公司开发了 ChatGPT 竞争对手 Claude。此前，Alphabet 曾投资 300 美元，换取了据称 10% 的股份。CMA 目前正在要求“感兴趣的各方”对这笔交易发表评论…本报道将在 The Next Web 继续报道或者阅读有关Google的更多报道]]></description>
       <guid>https://thenextweb.com/news/google-anthropic-partnership-ai-competition-uk</guid>
       <pubDate>Tue, 30 Jul 2024 19:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国初创企业实现共享所有权流程自动化以应对住房危机</title>
-      <link>https://thenextweb.com/news/uk-startup-automates-shared-ownership-process-housing-crisis</link>
-      <description><![CDATA[总部位于伦敦的 Stairpay 已筹集 75 万英镑的种子前资金，以帮助首次购房者完成共享所有权流程，并最终实现完全所有权。对于面临进入（过度拥挤的）英国房地产市场挑战的个人来说，共享所有权提供了一个潜在的解决方案。这项政府计划允许买家购买房产的一部分（通常在 25% 到 75% 之间），同时向共同拥有房产的住房协会支付剩余部分的租金。Stairpay 创始人 Floris ten Nijenhuis 告诉 TNW：“共享所有权只是促进逐步拥有房屋所有权的一种方式。” 自动化共享所有权 这家初创公司成立于 2022 年，已经开发了......这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/uk-startup-automates-shared-ownership-process-housing-crisis</guid>
-      <pubDate>Tue, 30 Jul 2024 12:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机或将彻底改变建筑行业，推动英国新一轮房地产热潮</title>
-      <link>https://thenextweb.com/news/drones-could-revolutionise-construction-industry-supporting-uk-housing-boom</link>
-      <description><![CDATA[英国新工党政府承诺在其第一任期内建造 150 万套住房。为实现这一目标，工党承诺进行规划改革并重新引入地方住房目标。然而，新技术的作用却很少受到关注。无人机有可能改变英国的建筑业。然而，我们最近在 ACM Journal on Responsible Computing 上发表的一项研究表明，英国有关商业无人机部署的法律仍然存在冲突、混乱，有时甚至相互矛盾。在建筑行业，无人机可以监控工地进度、进行安全检查，甚至可以搬运重型材料，有些型号......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/drones-could-revolutionise-construction-industry-supporting-uk-housing-boom</guid>
-      <pubDate>Tue, 30 Jul 2024 09:37:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
