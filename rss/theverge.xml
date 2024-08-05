@@ -4,7 +4,25 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 04 Aug 2024 18:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 01:04:29 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 不会给 ChatGPT 文本添加水印，因为其用户可能会被抓住</title>
+      <link>https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+据华尔街日报报道，OpenAI 大约一年前就已准备好一套为 ChatGPT 创建的文本添加水印的系统和一套检测水印的工具Journal。但公司内部对是否发布该版本存在分歧。一方面，这似乎是负责任的做法；另一方面，这可能会损害其利润。
+OpenAI 的水印被描述为调整模型如何预测最有可能跟在前面的单词和短语后面的单词和短语，从而创建可检测的模式。（这是一种简化，但您可以查看 Google 的 更深入的解释 Gemini 的文本水印 以了解更多信息）。 
+
+提供任何检测人工智能写作材料的方法，对于试图阻止学生将写作作业交给人工智能的教师来说，都是一个潜在的福音。《华尔街日报》报道称，该公司发现水印不会影响其聊天机器人文本输出的质量。在该公司委托进行的一项调查中，“全球民众以四比一的比例支持使用人工智能检测工具的想法，”《华尔街日报》写道。 
+在《Journal》发表其报道后，OpenAI 在今天的一篇博客文章更新中确认，它正在研究文本水印，该更新是https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online/&quot;&gt;https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-c​​an-detect-writing-from-chatgpt/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly9mZWVkbHkuY29tLw&amp; ;guce_referrer_sig=AQAAAHHD1ztOHNG9KTGlGvJ60UutOeevfVT6KPAVkl6ZpDciSrbMIl1LmJnia05ejnR0HnYGvYKQ_RKtxV09RszzgxZY0RkS3yriCM3XhN3sl_Jot-Z727irkch90VV9uMR3gNvyBg52EEGT_J9JbUNuhcuyJB6pSn7vw-YsTwKJ6yZr&quot;&gt;被 TechCrunch 发现。在这篇文章中，该公司表示，其方法非常准确（根据《华尔街日报》看到的文件，“99.9% 有效”），并且可以抵抗“篡改，例如改写”。但它表示，像用另一个模型改写这样的技术“很容易被坏人规避”。该公司还表示，它担心污名化的人工智能工具对非母语人士的实用性。
+但 OpenAI 似乎也担心使用水印可能会让接受调查的 ChatGPT 用户失望，其中近 30% 的人显然告诉该公司，如果实施水印，他们会减少使用该软件。
+尽管如此，据报道一些员工仍然认为水印是有效的。然而，鉴于用户的不满情绪，华尔街日报表示，一些人建议尝试“在用户中可能争议较小但未经证实”的方法。在今天的博客文章更新中，该公司表示，它正处于探索嵌入元数据的“早期阶段”。它表示现在判断其效果还“为时过早”，但由于它是经过加密签名的，因此不会出现误报。 
+8 月 4 日更新：从 更新的 OpenAI 博客文章中添加了详细信息。]]></description>
+      <guid>https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool</guid>
+      <pubDate>Mon, 05 Aug 2024 00:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>第一代 OnePlus Pad 售价创历史新低，为 379.99 美元</title>
       <link>https://www.theverge.com/2024/8/4/24211817/oneplus-pad-android-tablet-xbox-game-pass-ultimate-deal-sale</link>
@@ -154,13 +172,6 @@ B200 芯片是极受欢迎且难以获得的 H100 芯片的后续产品，该芯
 ]]></description>
       <guid>https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence</guid>
       <pubDate>Sat, 03 Aug 2024 14:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星 Galaxy Z Flip 6 评测：实用的翻盖手机</title>
-      <link>https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera</guid>
-      <pubDate>Sat, 03 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
