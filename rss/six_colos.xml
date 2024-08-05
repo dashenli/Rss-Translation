@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 02 Aug 2024 21:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:20:51 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
+      <link>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</link>
+      <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
+解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
+甲板看起来太杂乱了。”…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</guid>
+      <pubDate>Mon, 05 Aug 2024 16:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>关于苹果依赖服务收入的存在主义思考</title>
       <link>https://sixcolors.com/post/2024/08/existential-thoughts-about-apples-reliance-on-services-revenue/</link>
@@ -75,7 +84,7 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
       <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 522：预留席位</title>
+      <title>（播客）升级 522：预留您的位置</title>
       <link>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</link>
       <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
@@ -110,13 +119,6 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
       <description><![CDATA[我们购买 AppleCare 等科技保险的经验及其优势、我们管理电池电量和充电设备的方法、我们用于 iPhone 拍照的工具和应用程序，以及我们喜欢的非 Apple 科技产品。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/clockwise-564-it-was-pokemon-gos-fault/</guid>
       <pubDate>Wed, 24 Jul 2024 19:48:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 505：Charlie Ten C Ten</title>
-      <link>https://sixcolors.com/podcast/2024/07/the-rebound-505-charlie-ten-c-ten/</link>
-      <description><![CDATA[现在这是一个全是小屁孩的播客。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/07/the-rebound-505-charlie-ten-c-ten/</guid>
-      <pubDate>Wed, 24 Jul 2024 16:48:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
