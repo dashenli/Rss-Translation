@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 06 Aug 2024 09:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 12:29:07 GMT</lastBuildDate>
+    <item>
+      <title>人工智能时代，哲学至关重要</title>
+      <link>https://thenextweb.com/news/philosophy-is-crucial-in-the-age-of-ai</link>
+      <description><![CDATA[新的科学理解和工程技术总是给人留下深刻印象，也让人感到恐惧。毫无疑问，它们将继续带来这种影响。OpenAI 最近宣布，它预计本十年将出现“超级智能”——超越人类能力的人工智能。因此，它正在组建一支新团队，并投入 20% 的计算资源来确保此类人工智能系统的行为与人类价值观保持一致。他们似乎不希望流氓超级智能人工智能对人类发动战争，就像詹姆斯·卡梅隆 1984 年的科幻惊悚片《终结者》（不祥的是，阿诺德·施瓦辛格的终结者被送回了 2029 年）一样。OpenAI 呼吁…这个故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/philosophy-is-crucial-in-the-age-of-ai</guid>
+      <pubDate>Tue, 06 Aug 2024 08:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>“量子计算的瑞士”为纠错芯片筹集 7500 万美元</title>
       <link>https://thenextweb.com/news/riverlane-quantum-computing-error-correction-chip-series-c-75-million-dollars</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[英国政府今天宣布，参与英国 ChipStart 计划的 12 家半导体初创公司已从私人投资者和补助金中筹集了超过 1000 万英镑的资金。ChipStart 于 2023 年 10 月启动，是一项孵化器计划。它旨在为早期芯片设计人员提供将新产品推向市场所需的技术和商业支持。这项耗资 130 万英镑的计划由半导体加速器 Silicon Catalyst.UK 运营，提供 9 个月的培训和指导。它还开放了设计工具、IP 和原型设计功能以及私人投资者网络。在这 12 家初创公司中，总部位于伦敦的 MintNeuro 最近获得了…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/uk-chip-incubator-startups-funding</guid>
       <pubDate>Thu, 01 Aug 2024 10:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 推出 2B 参数 Gemma 2 模型</title>
-      <link>https://thenextweb.com/news/google-deepmind-2b-parameter-gemma-2-model</link>
-      <description><![CDATA[Google DeepMind 今天宣布发布 Gemma 2 的 20 亿 (2B) 参数版本，这是其 Gemma AI 模型的第二代。Gemma 于今年 2 月首次推出，是专为开发人员和研究人员设计的轻量级文本到文本开放模型系列，基于 Google Gemini 的技术构建。 DeepMind 于 6 月发布了 Gemma 2，有两种不同的大小：90 亿 (9B) 和 270 亿 (27) 个参数。DeepMind 表示，新的 2B 模型通过提炼从更大的模型中学习，并产生了超大的结果。该公司还声称，它在......上的表现优于所有 GPT-3.5 模型This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/google-deepmind-2b-parameter-gemma-2-model</guid>
-      <pubDate>Wed, 31 Jul 2024 16:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
