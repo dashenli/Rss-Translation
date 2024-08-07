@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 06 Aug 2024 15:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:29:59 GMT</lastBuildDate>
+    <item>
+      <title>使用 Threepipe 进行交互式 3D 设备展示</title>
+      <link>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</link>
+      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</guid>
+      <pubDate>Wed, 07 Aug 2024 10:14:53 GMT</pubDate>
+    </item>
     <item>
       <title>集体#857</title>
       <link>https://tympanus.net/codrops/collective/collective-857/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Three.js 着色器在滚动时创建扭曲和颗粒效果，并将 HTML 图像与 WebGL 同步。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</guid>
       <pubDate>Thu, 18 Jul 2024 12:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Three.js 着色语言创建液体光线行进场景</title>
-      <link>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</link>
-      <description><![CDATA[介绍使用有符号距离场 (SDF) 和简单照明的强大功能进行光线行进以创建液体形状效果。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/</guid>
-      <pubDate>Mon, 15 Jul 2024 10:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
