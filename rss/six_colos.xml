@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 07 Aug 2024 01:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 15:15:57 GMT</lastBuildDate>
+    <item>
+      <title>苹果在人工智能领域的稳健策略将再次赢得胜利（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2420046/apples-modest-ai-ambitions-are-the-right-approach.html</link>
+      <description><![CDATA[苹果的人工智能野心看似很大，但其实很谦虚——这才是正确的做法
+如果你和我一样，大多数时候都会浏览科技新闻头条，那么你可能已经被各种新闻头条轰炸了，这些新闻头条都介绍了人工智能的一些变化，以及它将如何改变一切。…]]></description>
+      <guid>https://www.macworld.com/article/2420046/apples-modest-ai-ambitions-are-the-right-approach.html</guid>
+      <pubDate>Wed, 07 Aug 2024 14:13:38 GMT</pubDate>
+    </item>
     <item>
       <title>Flighty 4.0 增加延迟详细信息 ↦</title>
       <link>https://sixcolors.com/link/2024/08/flighty-4-0-adds-delay-details/</link>
@@ -112,14 +120,6 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
       <description><![CDATA[在回顾了伦敦 Relay 10 活动带来的兴奋之后，Jason 和 Myke 讨论了 Apple Intelligence 的意外测试版发布，并设想了 iPhone 产品线的一些有趣的新方向。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/upgrade-522-reserve-your-spot/</guid>
       <pubDate>Mon, 29 Jul 2024 20:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.1、iPadOS 18.1 和 macOS Sequoia 的新测试版带来了一些 Apple Intelligence 功能</title>
-      <link>https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/</link>
-      <description><![CDATA[
-如果您一直期待为您的 Apple 设备注入一点智能，现在是时候了。Apple 周一推出了 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 的开发者测试版，其中包括访问该公司之前宣布的几个（但值得注意的是，并非全部）AI 功能。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/new-betas-for-ios-18-1-ipados-18-1-and-macos-sequoia-bring-some-apple-intelligence-features/</guid>
-      <pubDate>Mon, 29 Jul 2024 17:15:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
