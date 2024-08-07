@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 07 Aug 2024 18:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 21:16:43 GMT</lastBuildDate>
+    <item>
+      <title>苹果的权限功能不平衡</title>
+      <link>https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</link>
+      <description><![CDATA[
+为了保护 Mac 用户免于陷入麻烦，Apple 在 macOS Catalina 中引入了大量权限弹出窗口。此后几年，该公司加快了其方法，增加了越来越多的用户必须授予特定权限的情况。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</guid>
+      <pubDate>Wed, 07 Aug 2024 19:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 566：这是我的碎纸机声音</title>
+      <link>https://sixcolors.com/podcast/2024/08/clockwise-566-thats-my-shredder-sound/</link>
+      <description><![CDATA[每个人都应该拥有的技术、我们的飞机设备策略、Apple 的新干扰控制功能以及我们想要通过 Siri 控制的应用程序。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/clockwise-566-thats-my-shredder-sound/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 507：不仅仅是像猫一样在键盘上挥动双手</title>
       <link>https://sixcolors.com/podcast/2024/08/the-rebound-507-not-just-waving-my-hands-over-a-keyboard-like-a-cat/</link>
@@ -104,21 +119,6 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
       <description><![CDATA[你可以让这句话不那么粗俗吗？…]]></description>
       <guid>https://sixcolors.com/podcast/2024/07/the-rebound-506-were-all-the-color-guy/</guid>
       <pubDate>Wed, 31 Jul 2024 18:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周多出国旅行中的技术得失</title>
-      <link>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</link>
-      <description><![CDATA[连接良好，景色优美。
-我们回来了！在国外待了一个半星期后，我回来了，带着旅行结束时似乎总是伴随的那种奇怪的疲惫和渴望。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/tech-wins-and-losses-from-a-week-plus-of-traveling-abroad/</guid>
-      <pubDate>Wed, 31 Jul 2024 17:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Watch 是否太过薄弱，无法满足 Apple 的健康目标？（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2413823</link>
-      <description><![CDATA[自苹果首次发布 Apple Watch 以来的近十年里，很明显该产品在健康和健身配件方面表现出色。…]]></description>
-      <guid>https://www.macworld.com/article/2413823</guid>
-      <pubDate>Wed, 31 Jul 2024 15:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
