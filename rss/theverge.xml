@@ -4,169 +4,157 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Aug 2024 18:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 21:14:35 GMT</lastBuildDate>
     <item>
-      <title>黑客在暗网上发布被盗数据后，ADT 承认存在安全漏洞</title>
-      <link>https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach</link>
+      <title>英特尔第 13 代和第 14 代 Raptor Lake CPU 崩溃：所有新闻和更新</title>
+      <link>https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards</link>
       <description><![CDATA[
 
-图片：ADT
+照片由 Tom Warren / The Verge 拍摄
 
-安全公司 ADT 在 美国证券交易委员会 (SEC) 文件称，黑客获取了“一些有限的客户信息，包括电子邮件地址、电话号码和邮政地址”。 TechCrunch 报道，ADT 的披露是在网络犯罪论坛上的一名卖家上周声称他们获得了超过 30,000 条被盗的 ADT 客户记录之后进行的。
-据 ADT 称，黑客通过访问“包含 ADT 客户订单信息的某些数据库”获取了这些信息。该公司认为，只有“一小部分”订户受到影响，并表示已通知这些客户。 （根据 6 月份的一篇博客文章，ADT 拥有约 600 万客户。）ADT 表示“没有理由相信”黑客破坏了家庭安全系统，信用卡数据和银行信息没有被盗。
-“客户的隐私和安全是我们的首要任务，我们已采取多项措施帮助保护他们的信息安全，包括立即启动严格的网络安全协议，”ADT 发言人 Ben Tamblyn 在一份声明中表示。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach</guid>
-      <pubDate>Thu, 08 Aug 2024 18:06:53 GMT</pubDate>
+这真是一团糟，但英特尔及其合作伙伴正在努力解决它。 几个月前，游戏玩家开始遇到第 13 代和第 14 代英特尔酷睿 i9 CPU 奇怪的崩溃——但那只是冰山一角。 
+英特尔现已将 24 种不同的第 13 代和第 14 代台式机芯片（包括 Core i5、Core i7 和 Core i9 型号）的保修期延长了整整两年，此前该公司发现许多基于其 Raptor Lake 架构的 CPU 容易受到永久性损坏。它们被施加了过高的电压，有些已经不可逆转地退化了。英特尔尚未表示笔记本电脑芯片是否也会出现同样的故障。
+截至 2024 年 8 月，目前尚无针对此类崩溃的英特尔 CPU 的解决方案 - 您需要更换它，这就是延长两年保修的目的。但是你可以应用主板 BIOS 更新，这可能会从一开始就防止损坏，而且英特尔在 8 月份的更新中明确解决了其合作伙伴主板的过高电压问题。
+还有许多悬而未决的问题，比如有多少客户受到影响，为什么英特尔不召回这些芯片，为什么它没有在 8 月份补丁发布之前收回现有库存，它将如何主动警告客户，对受影响的客户处理有多宽容这可能是在处理想要更换的客户时，以及哪些其他问题可能导致这些芯片不稳定。 （英特尔表示电压是主要原因，但不是唯一原因。） 
+The Verge 正在跟踪答案和其他新闻，更新到您将在下面找到的 StoryStream。 我们还在跟踪哪些 PC 制造商将遵守英特尔的延长保修在这个故事中。]]></description>
+      <guid>https://www.theverge.com/24216305/intel-13th-14th-gen-raptor-lake-cpu-crash-news-updates-patches-fixes-motherboards</guid>
+      <pubDate>Thu, 08 Aug 2024 20:37:43 GMT</pubDate>
     </item>
     <item>
-      <title>民主党敦促 Sam Altman 关注 OpenAI 的安全记录</title>
-      <link>https://www.theverge.com/2024/8/8/24216094/openai-sam-altman-warren-trahan-whistleblowers-safety-reviews</link>
+      <title>这款 GBA 克隆版小到令人手握不住，屏幕只有 0.85 英寸</title>
+      <link>https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console</link>
+      <description><![CDATA[
+
+Thumby Color 将 Game Boy Advance 缩小为仅两英寸大小的手持设备。 | 图片：TinyCircuits
+
+您可以将 Nintendo Game Boy Advance 缩小到多小？ TinyCircuits 正通过 Thumby Color 来回答这个问题，这是一款尺寸仅为 2 英寸的 GBA 克隆产品，但仍能容纳方向键、肩部按钮、震动马达、16 位彩色屏幕，并且能够通过 USB-C 线缆将两个屏幕连接在一起进行多人游戏。
+与 Anbernic 等公司发布的大量 Game Boy 和 GBA 克隆产品不同，Thumby Color 不是模拟器。它没有足够的处理能力来玩复古游戏，也没有足够的存储空间来保存数百个 ROM 文件。
+它由 150MHz Raspberry Pi RP2350 处理器 驱动，仅配备 16MB 的存储空间 - 是的，这是兆字节，而不是千兆字节。无法在 Thumby Color 上玩真正的 GBA 游戏可能是件好事，因为它的 0.85 英寸方形 LCD 屏幕的分辨率仅为 128 x 128 像素，不到 GBA 分辨率的一半。
+游戏是用 MicroPython 编程的。 Thumby Color 将预装六款开源游戏，包括第一人称射击游戏Monstra和地牢探索游戏Thumbgeon 2。它还将附带 2021 年与原版 Thumby 一起发布的所有单色游戏，这是该公司的原版 Game Boy 的超微型克隆。
+Thumby Color 不是一款您想要连续玩几个小时的掌上游戏机，但它是一款您可以潜入任何您想要分散注意力的场景的游戏机——无需试图隐藏更显眼的掌上游戏机，例如Steam Deck。这也是学习编程语言的好借口，因为 TinyCircuits 已经创建了教程和指南可通过其网站免费获取。
+
+
+图片：TinyCircuits
+Thumby Color 有多种配色可供选择，包括透明外壳选项。
+
+TinyCircuits 选择通过 Kickstarter 众筹活动将 Thumby Color 带给消费者。 原版 Thumby 仍以 42 美元的价格出售，但这款新的彩色屏幕版本紫色版本承诺售价为 49 美元，预计最早于 11 月发货。如果您想要一款带有透明紫色外壳的 Thumby Color，价格将跃升至 55 美元，如果您想要一款 Kickstarter 独家黑色版本，则价格为 75 美元。
+请记住，众筹产品总有可能无法提供活动时承诺的所有功能。它还可能会被大大推迟，甚至根本不会交付，并且不予退款。 TinyCircuits 之前已成功推出多款 Kickstarter 产品，因此这里的风险略小一些，但即使其筹资目标已经实现，也无法保证产品一定会实现。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216233/thumby-tinycircuits-nintendo-game-boy-advance-handheld-gaming-console</guid>
+      <pubDate>Thu, 08 Aug 2024 20:35:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款新型电动汽车插头可自动为您的汽车提供正确的连接</title>
+      <link>https://www.theverge.com/2024/8/8/24216254/chargepoint-omni-plug-ev-charging-station-nacs-ccs</link>
+      <description><![CDATA[
+
+特斯拉车主在支持 Omni Port 的充电站无需使用自己的适配器。 |图片：ChargePoint
+
+ChargePoint 为其充电站配备了新插头系统，这将使电动汽车驾驶员更容易为他们的电动汽车选择正确的连接器。这种名为 Omni Port 的新插头的工作原理是，当您准备充电时，它会自动将适配器（或排除一个适配器）安装到连接器的尖端，这意味着特斯拉车主无需拿出适配器。
+在一份新闻稿中，ChargePoint 首席执行官 Rick Wilmer 表示，Omni Port 解决了“与多连接器环境相关的挑战”，并为特斯拉和非特斯拉驾驶员提供了“世界一流”的体验。随着北美汽车制造商转向使用基于特斯拉连接器的新 NACS 标准，当前驾驶员将继续需要访问 J1772 2 级端口以及 CCS1 端口进行直流快速充电。是的，充电有点乱。
+
+
+图片：ChargePoint
+现在，这是一个强大的 CCS-to-NACS组合 Omni Port 可快速为特斯拉充电。
+
+Omni Port 将于今年年底发货，并将包含在新站硬件中，包括支持 800 伏充电的硬件。同时，ChargePoint 商用 CP6000 和 Express Plus Power Link 2000 站的所有者可以进行 Omni Port 改造，这要归功于模块化设计。但是，不要指望它们会包含几乎绝迹的 CHAdeMO 端口（尽管Leaf 车主可能仍有希望）。
+ChargePoint 的 Omni Port 就像特斯拉有限的“Magic Dock”超级充电站的反面，非特斯拉车主可以解锁充电器并自动获得 CCS1适配器头已安装。不过，ChargePoint 的一个优势是，无论您如何停车，电缆都可以到达您的端口。无论您如何停车。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216254/chargepoint-omni-plug-ev-charging-station-nacs-ccs</guid>
+      <pubDate>Thu, 08 Aug 2024 20:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 称其最新 GPT-4o 模型具有“中等”风险</title>
+      <link>https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216094/openai-sam-altman-warren-trahan-whistleblowers-safety-reviews</guid>
-      <pubDate>Thu, 08 Aug 2024 17:04:19 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/8/24216193/openai-safety-assessment-gpt-4o</guid>
+      <pubDate>Thu, 08 Aug 2024 20:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>您现在可以在一个 Instagram 帖子中分享 20 张幻灯片</title>
-      <link>https://www.theverge.com/2024/8/8/24216111/instagram-carousel-post-expansion</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-Instagram 正在扩大可添加到单个网格帖子的照片和视频数量，该公司今天表示。
-每个轮播帖子现在最多可以包含 20 张照片或视频。此前，用户可以为每个轮播帖子添加最多 10 条内容，也就是俗称的“照片转储”。轮播功能于 2017 年首次向用户推出。
-
-
-图片：Instagram
-
-Instagram 已逐渐为轮播功能添加更多功能，包括将歌曲与幻灯片配对的功能和协作帖子，允许多个用户添加他们的内容。更高的上限可能对此特别有帮助，特别是如果有几个人为一个轮播帖子做出贡献。
-此次扩展使 Instagram 与 TikTok 更加一致，后者目前支持最多 35 张照片的帖子。尽管 TikTok 作为一款短视频应用取得了突破，但照片的流行速度却出奇地快：例如，有一些 meme 格式和趋势使用照片而不是剪辑，一些用户用小片段讲述长篇故事，一张一张地讲。有趣的是，这并不是 Instagram 文化的真正组成部分——但也许将空间增加一倍可能会激励人们这样做。
-新功能今天开始在全球推出。]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216111/instagram-carousel-post-expansion</guid>
-      <pubDate>Thu, 08 Aug 2024 17:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的下一代 Mac Mini 可能和 Apple TV 一样小</title>
-      <link>https://www.theverge.com/2024/8/8/24216106/apple-mac-mini-smaller-redesign-m4-rumor</link>
-      <description><![CDATA[
-
-照片由 Chris Welch / The Verge 拍摄
-
-据 彭博社的  Mark Gurman。今年晚些时候推出的 Mac Mini 新版本将经历该产品十多年来最重大的重新设计。Gurman 表示，“该设备将比其前代产品小得多，接近 Apple TV 机顶盒的大小。”即使 Mini 可能比 Apple 的流媒体更高，这也很小。
-该公司一直在测试一种具有“至少”三个 USB-C 端口和一个 HDMI 输出的设计，并且该设备将保留其铝制外壳。一台可以不显眼地放在电视架上的 Mac Mini？这听起来像是 Plex 爱好者的梦想。 
-
-据报道，2024 Mini 还将升级为 Apple 的 M4 芯片，预计该芯片将逐步进入该公司的整个台式机和笔记本电脑产品组合。 M4 在最新的 iPad Pro 中首次亮相，但很快将扩展到 Mini、MacBook Pro、MacBook Air、iMac 和 Mac Studio。
-Apple 于 2023 年 更新了 Mac Mini，此后推出了两种机型：一种内置标准 M2 芯片，另一种配备功能更强大的 M2 Pro。Gurman 表示，公司将在下一次修订中继续采用这种方法，将采用 M4 和 M4 Pro 配置。 彭博社报道称，供应商正准备在本月发货 M4 硬件，但 M4 Pro Mini 要到 10 月才能准备好。
-除了输入/输出和内部设计的一些变化外，Mini 的整体外形很长时间没有发生任何重大变化。这是我们的2023 Mac Mini 评论，以及David Pierce 在 2012 年撰写的一篇文章。尽管两款机型相隔十年，但外观几乎一模一样。带来更小的 Mini。]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216106/apple-mac-mini-smaller-redesign-m4-rumor</guid>
-      <pubDate>Thu, 08 Aug 2024 16:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国司法部反垄断负责人对谷歌垄断判决“欣喜若狂”</title>
-      <link>https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview</link>
+      <title>谷歌 Pixel 9 发布会有哪些看点</title>
+      <link>https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview</guid>
-      <pubDate>Thu, 08 Aug 2024 16:01:18 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks</guid>
+      <pubDate>Thu, 08 Aug 2024 19:58:31 GMT</pubDate>
     </item>
     <item>
-      <title>道奇为其首款电动肌肉车定价</title>
-      <link>https://www.theverge.com/2024/8/8/24215968/dodge-daytona-price-ev-electric-rt-scat-pack-two-door</link>
+      <title>据报道，被埃隆·马斯克起诉的广告集团已解散</title>
+      <link>https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising</link>
       <description><![CDATA[
 
-2024 款道奇 Charger Daytona Scat Pack，双门版。 |图片：Stellantis
+马斯克选择了法律战，而不是言论自由。|图片：Cath Virginia / The Verge，Getty Images
 
-道奇已经为其首款全电动汽车Charger Daytona 定价，这款性能强劲、清洁、扰乱社区的汽车售价不菲。 2024 款 Daytona 双门车型的起价为 R/T 款 59,595 美元，Scat Pack 款 73,190 美元——均不含 1,995 美元的目的地费用。
-两款 Daytona 车型都将于今年夏天开始生产，四门车型将于 2025 年上半年生产。您可以从秋季开始在线查看前往经销商处的车型，它们应该会在年底前批量生产。
-
-
-图片：Stellantis
-双门车型将率先推出。
-
-
-发布时，您将获得 R/T 车型的第 1 阶段升级套件，可将其提升至 496 马力和 404 磅英尺的扭矩，而 Scat Pack 的第 2 阶段套件可将其提升至 670 马力和 627 磅英尺的扭矩。 两者都采用双电机 400 伏系统运行。
-当然，Charger Daytona 的真正特点是“Fratzonic Chambered Exhaust”会增加噪音，使 EV 感觉和听起来像燃气燃烧的干扰。 
-正在申请专利的 Charger Daytona 车型的 Fratzonic Chambered Exhaust 系统使用两个无源辐射器来创建独特的排气轮廓，其声音强度达到 Hellcat 级别，打破了人们对典型安静 BEV 的先入之见，而是发出了值得兄弟会肌肉的声音。声音强度与更高的性能相关，还提供隐身声音模式。独特的车辆声音有助于提供驾驶员反馈，尤其是在赛道和高速行驶时，并增强沉浸式车内感觉。
-我们去年听过模拟隆隆声的演示，但最终确定的 Fratzonic Chambered Exhaust 声音将在道奇的 Roadkill Nights 媒体活动之前周五的新闻发布会上揭晓。
-Mopar 粉丝将最欣赏性能更高的 Daytona Scat Pack 车型中的轰鸣声，该车型具有 Donut 和 Drift 模式等独家赛道功能，以及性能平视显示器 (HUD)。 Scat Pack 可在 3.3 秒内实现 0-60 英里/小时的加速 - 与最新的 Ford Mustang Mach-E GT 相当。
-R/T 和 Scat Pack 车型均不符合通过购买获得 7,500 美元税收优惠的资格，但可以用于租赁。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24215968/dodge-daytona-price-ev-electric-rt-scat-pack-two-door</guid>
-      <pubDate>Thu, 08 Aug 2024 16:00:02 GMT</pubDate>
+一个名为全球负责任媒体联盟 (GARM) 的广告商团体已“停止”活动，Business Insider报道，并引用了发送给成员的一封电子邮件。该组织表示，其资金有限，专注于对抗X 对其提起的反垄断诉讼。
+GARM 是世界广告主联合会 (WFA) 于 2019 年发起的一项倡议；其目的是阻止在未达到某些安全标准的社交媒体平台上投放广告。在诉讼中，X 表示 GARM“组织广告商抵制 Twitter”。
+这起来自前身为 Twitter 的平台的诉讼是埃隆·马斯克 (Elon Musk) 采取的几项奇怪法律行动之一——这些行动似乎更侧重于惩罚任何不同意他的人，而不是基于任何连贯的法律理论。马斯克还起诉了其 X.AI 竞争对手 OpenAI 和 Media Matters，试图让这家非营利组织闭嘴。
+“去你妈的。”
+结社自由是普遍认为由第一修正案保障的，而且有先例表明抵制是受保护的言论。但这并不是 GARM 案奇怪的全部原因。马斯克本人也发表过对广告商怀有敌意的言论。去年 11 月，在接受 Andrew Ross Sorkin采访时，马斯克表示：“我希望他们停止。不要做广告。”
+他补充道：“如果有人试图用广告勒索我，用钱勒索我，去你妈的。去你妈的。清楚了吗？我希望是。”
+当马斯克收购 Twitter 时，其大部分收入来自广告——而这些钱随着他的收购而枯竭。也许广告商对马斯克“无所不用其极”的审核方式感到不安——或者也许是马斯克自己的帖子，其中包括一篇关于“白人自豪感”的帖子。
+虽然X 的案例非常薄弱，但它已经实现了目标：消除 GARM 的威胁。结合马斯克的其他一些诉讼，我们可以发现一个明确的主题。如果你反对马斯克，就要准备好支付昂贵的诉讼费用。
+X 上个月宣布它“很高兴”重新加入 GARM。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216202/garm-x-twitter-musk-advertising</guid>
+      <pubDate>Thu, 08 Aug 2024 19:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>Trek 的电子自行车铃可让您自定义其响铃的紧急程度</title>
-      <link>https://www.theverge.com/2024/8/8/24216034/trek-cycling-bicycle-bellbeats-bluetooth-speaker</link>
-      <description><![CDATA[
-
-骑行者可以快速选择八种可选警报音中的两种。 | 图片：Trek
-
-许多自行车铃铛的轻声响并不足以提醒行人或车辆有骑行者出现。 Trek 的新款BellBeats 是一款紧凑型蓝牙扬声器，可安装在自行车车把上，让骑行者可以选择八种友好或紧急的快速警报音。
-与传统自行车铃一样，BellBeats 上的警报音可以在骑行时使用拇指按钮触发。骑行者可以选择八种音调中的两种 - 包括响亮的金属铃声、柔和的火车喇叭声或老式的阿胡加喇叭声 - 长按或短按按钮即可激活。
-Trek 声称，BellBeats 的警报音比传统自行车铃发出的声音更引人注目，因为它们涵盖了更宽的频率范围，并且经过“专业声音设计”，使行人更容易确定声音来自哪个方向，从而有助于避免碰撞。扬声器还包含永久循环的环境音，适合想要让徒步旅行者或野生动物随时意识到其存在的越野骑行者。
-
-
-图片：Trek
-基本播放和音量控制允许骑行者调整音量或跳过音乐曲目，而无需停下来拿出智能手机。
-
-电池续航时间为 6 小时，音频“由 Harman”，BellBeats 还可以用作便携式蓝牙扬声器，让骑行者可以收听音乐、有声读物、播客，甚至是 GPS 导航，而无需佩戴耳机，因为耳机会削弱他们听到周围声音的能力。内置音量控制让骑行者在骑车穿过拥挤区域时可以快速调低正在听的音量。
-
-快速连接系统可让 BellBeats 轻松地从自行车车把上取下并连接到背包带或皮带上，但由于 IP67 等级使其能够经受住大雨甚至 40 英寸深的浸泡，因此也可以随时留在自行车上。
-虽然 BellBeats 现已上市，售价 99.99 美元，并在 Trek 网站上列出，但目前只能从“当地零售商”购买。直接从 Trek 购买将只是“未来几个月”的一种选择。]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216034/trek-cycling-bicycle-bellbeats-bluetooth-speaker</guid>
-      <pubDate>Thu, 08 Aug 2024 15:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔针对 CPU 崩溃的 BIOS 更新现已推出</title>
-      <link>https://www.theverge.com/2024/8/8/24216054/intel-msi-asus-bios-updates-crashing-13th-14th-raptor-lake-gen-cpus</link>
+      <title>自适应照明即将登陆 Apple Home 的 Matter 智能灯</title>
+      <link>https://www.theverge.com/2024/8/8/24215517/ios-18-homekit-adaptive-lighting-matter-smart-bulbs</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216054/intel-msi-asus-bios-updates-crashing-13th-14th-raptor-lake-gen-cpus</guid>
-      <pubDate>Thu, 08 Aug 2024 15:56:30 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/8/24215517/ios-18-homekit-adaptive-lighting-matter-smart-bulbs</guid>
+      <pubDate>Thu, 08 Aug 2024 19:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>向 Chromecast 致敬，它是一款出色的 HDMI 适配器</title>
-      <link>https://www.theverge.com/2024/8/8/24215344/google-chromecast-discontinued-salute-great-hdmi-streaming-dongle</link>
+      <title>Meta 关闭 Echo VR 开发工作室 Ready at Dawn</title>
+      <link>https://www.theverge.com/2024/8/8/24216240/meta-ready-at-dawn-echo-vr-shutdown</link>
       <description><![CDATA[
 
-The Verge 的首篇评论中的 Chromecast。 |图片：The Verge
+图片：Oculus Studios
 
-当我还是一个 20 多岁的年轻人，和当时的未婚妻住在一起时，我唯一能在电视上播放视频的方式是通过电视的 HDMI 端口和笔记本电脑。多年来，这种方式一直很管用——现在仍然如此，当我绝望的时候——但设置起来很麻烦。
-然后是 2013 年的第一代 Chromecast，这对我来说是一个启示。突然间，我有了一根小小的黑色棒子，形状像一把超大的钥匙，可以直接插入电视的 HDMI 端口，让我能够通过空中将视频投射到我的 55 英寸屏幕上，获得极致的高清效果。而且它的价格仅为35 美元？难以置信，尤其是在 2013 年。
-感觉就像纯粹的魔法。它基本上是一个隐形的设备，我甚至不需要应用程序，它让我几乎毫不费力地将音乐和视频传送到我的电视上。我用它来观看 Netflix 节目，并且不止一次通过 YouTube 庞大的卡拉 OK 视频目录在我家举办卡拉 OK 派对。
- 
+Meta 正在关闭 Ready at Dawn，这是一家 VR 游戏《Echo VR》和《Lone Echo》背后的第一方工作室，Android Central周三报道。此次关闭立即生效。 Meta 于 2020 年收购了该工作室。。
+至于 Meta 为何要关闭该工作室，Android Central 是这样说的：
+7 月中旬的一份报告称，Meta 将在 2026 年前将其 Reality Labs 部门的预算削减 20%，Oculus Studios 副总裁 Gio Hunt 发给 Meta 员工的一份内部备忘录（Android Central 看到了）支持了这一理由。Meta 发言人告诉 Android Central，削减预算本身并不是为了“省钱”。相反，这些削减是为了确​​保 Reality Labs 能够遵守新的预算限制，并且 Oculus Studios 能够在 VR 开发方面产生“更好的长期影响”。
+我们试图询问更多细节，但 Meta 发言人 Alaina Laszewski 拒绝置评。Meta 在最近的收益中表示，其 VR 业务所属的 Reality Labs 部门亏损近 45 亿美元。 
 
-照片：Wes Davis / The Verge
-我的第一个 Chromecast，为 eBay 列表拍摄。（它没有卖出去。）
-
-
-但时间不会停滞，即使是 Chromecast 也是如此。随后推出的其他流媒体产品提供了与谷歌神奇棒相同的功能，通过 HDMI 适配器提供轻松的无线流媒体，价格同样便宜，并且功能更多。如果您想要更多，还有苹果花哨且功能强大的流媒体盒。或者，您也可以使用无数智能电视的内置功能，这些智能电视本身就使用了 Google 的无线投射标准。
-Google 提供了大量 修订版，但在最后，它根本就没有地方放了。现在，谷歌已经停止了它，用更强大（和更昂贵）的东西取而代之。
-尽管流媒体设备市场已经取得了长足的进步，但最初的 Chromecast 的简单性还是很棒的。不需要跟踪遥控器真是太好了，我喜欢它隐藏在电视后面。曾经辉煌的 HDMI 加密狗的时代可能已经结束，但它对我很有用。
-Chromecast，安息吧。你是一个非常好的加密狗。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24215344/google-chromecast-discontinued-salute-great-hdmi-streaming-dongle</guid>
-      <pubDate>Thu, 08 Aug 2024 15:22:57 GMT</pubDate>
+当 Meta 宣布收购 Ready at Dawn 时，它表示该工作室将“继续创造令人难忘、身临其境、作为一家独立运营的工作室，为全球游戏玩家提供创新的虚拟现实内容。”尽管它确实发布了Lone Echo II 适用于 Rift 和 Rift S — 该游戏不适用于 Meta 的独立 Quest 耳机 — Meta 在 2023 年 8 月关闭了广受欢迎的 Echo VR 。
+当时，首席技术官 Andrew “Boz” Bosworth 表示 制作 Echo VR 的资源“可以用于其他用途，我认为这对现在的数千万处于 VR 中的人们。” Ready at Dawn 团队还表示，他们正在着手开发下一个项目，但现在看来，该项目不会发布了。
+Ready at Dawn Studios 还以The Order: 1886、God of War: Chains of Olympus和独立游戏而闻名Daxter 游戏。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216240/meta-ready-at-dawn-echo-vr-shutdown</guid>
+      <pubDate>Thu, 08 Aug 2024 19:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>起亚和现代的防盗软件更新似乎正在发挥作用</title>
-      <link>https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update</link>
+      <title>这个假胶卷里藏着一盏廉价的 LED 摄像灯</title>
+      <link>https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film</link>
       <description><![CDATA[
 
-图片：Getty Images
+250 流明的照明并不是非常明亮，但这种灯足够便宜，可以将其中几个组合在一起。 |图片：TTArtisan
 
-起亚男孩可能遇到了对手。 
-根据公路损失数据研究所（HLDI）的一项新分析，去年首次向未安装电子防盗器的现代和起亚汽车车主推出的软件更新已将盗窃率降低了一半以上。 
-汽车制造商最初于 2023 年 2 月开始实施更新，以应对在新冠疫情期间开始的一波汽车盗窃案，当时有关如何偷车的教学视频首次在 TikTok 和其他社交媒体平台上疯传。
-自称“起亚男孩”的窃贼会发布教学视频，介绍如何使用 USB 数据线等简单工具绕过车辆的安全系统。约有 900 万辆汽车受到影响，包括现代伊兰特和索纳塔，以及起亚福瑞迪和秀尔。去年，汽车制造商同意与车主达成2 亿美元的和解。
-据报道，盗窃很容易实施，因为 2015 年至 2019 年期间生产的许多现代和起亚汽车都缺乏电子防盗装置，无法防止潜在窃贼轻易闯入并绕过点火装置。该功能是其他制造商在同一时期生产的几乎所有车辆的标准配置。
-自称“起亚男孩”的窃贼会发布有关如何绕过车辆安全系统的教学视频
-根据 HLDI 的数据库，估计有 30% 的符合条件的现代汽车和 28% 的符合条件的起亚汽车已收到软件更新。但该研究所的分析将于 2023 年 12 月结束；汽车制造商声称，自那时以来，大约 60% 的符合条件的车辆已经进行了更新。 
-此次更新旨在通过将警报声的持续时间从 30 秒延长至 1 分钟并要求将钥匙插入点火开关才能启动车辆（本质上充当基于软件的防盗器）来防止盗窃。 
-到目前为止，它似乎取得了一些成功。HLDI 表示，升级后的车辆被盗索赔频率比未升级的车辆低 53%。升级后，整车被盗频率下降幅度更大，为 64%。 
-但该研究所表示，与其他品牌相比，现代和起亚汽车的盗窃率仍然“较高”——即使是升级后的车型也是如此。该组织表示，2023 年下半年现代和起亚车型的盗窃索赔频率“是 2020 年上半年的 11 倍多，是其他品牌 2023 年 7 月至 12 月盗窃索赔频率的 8 倍多”。 
-HLDI 提到的一个可能原因是，基于软件的防盗器只有在驾驶员记得用钥匙扣锁车时才会启动，而许多人习惯使用门把手上的开关。
-现代和起亚车主的故意破坏索赔也居高不下，因为潜在的小偷在被软件更新挫败后，闯入车辆，偷走物品并破坏内饰。 ]]></description>
-      <guid>https://www.theverge.com/2024/8/8/24216042/kia-boys-hyundai-thefts-drop-software-update</guid>
-      <pubDate>Thu, 08 Aug 2024 15:00:56 GMT</pubDate>
+即使你几十年前就换用数码相机了，TTArtisan 的迷你 LED 灯也是一个随身携带胶卷盒的有趣理由。它里面不是一卷 35 毫米胶卷，而是一块可充电电池和 15 个 LED 灯阵列。它不是你能买到的最亮的相机灯，但价格也只有 7 美元。
+只有 250 流明的照明，你需要将灯放置在距离拍摄对象 10 英尺以内才能真正发挥作用。但相比之下，你可以用一个 400 流明的 Lume Cube LED 灯 的价格购买 18 个。
+
+
+图片：TTArtisan
+附带的磁性热靴支架可让您将灯连接到相机上。
+
+Mini LED 灯的 300mAh 可充电电池可使其发光长达 180 分钟，TTArtisan 甚至包含三种色温设置：6,000K（冷色）、4,500K（中性色）和 3,000K（暖色）。对于如此便宜的灯来说，它的显色指数超过 95，准确度令人惊讶。附带的磁性冷靴支架可让灯架在相机顶部，它装在一个小型配套纸板箱中，看起来像是用来运输 35 毫米胶片的纸板箱。（它还有一个挂绳孔。）
+
+TTArtisan 通过其在线商店销售 Mini LED 灯，但运往美国的运费为 20 美元，这在一定程度上抵消了它的冲动购买吸引力。如果您不介意价格小幅上涨至 9.90 美元，您可以通过亚马逊购买。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216189/ttartisan-led-light-camera-photography-film</guid>
+      <pubDate>Thu, 08 Aug 2024 18:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir 与微软合作向政府出售人工智能</title>
+      <link>https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance</link>
+      <description><![CDATA[
+
+观察真知晶球的经典问题之一是正确解释观察者所看到的内容... |图片：The Verge
+
+Palantir 以危险的视石而得名，这种视石倾向于误导用户，该公司宣布与微软合作，为美国国防和情报机构的机密网络提供服务。
+“这是首创的集成技术套件，它将允许关键的国家安全任务通过 Azure OpenAI 服务在微软政府和机密云环境中的 Palantir 人工智能平台 (AIP) 中实施微软一流的大型语言模型 (LLM)，”公告称。
+Palantir 是一家数据分析公司，收集大量个人数据，以协助政府和公司进行监控。从公告文本来看，Palantir 和微软将提供哪些服务尚不明确。我们知道的是，微软的 Azure 云服务将集成 Palantir 产品。此前，Azure 将 OpenAI 的 Chat-GPT4 纳入了其软件的“绝密”版本中。 
+Palantir 直到 2023 年才公布了第一笔年度盈利
+Palantir 是“21 世纪的人工智能军火商”，由彼得·泰尔 (Peter Thiel) 共同创立，并获得了来自中情局风险投资子公司的种子基金。其客户包括美国移民和海关执法局 (ICE)、各警察部门和制药巨头赛诺菲等私营公司。该公司还与乌克兰的战争努力密切相关。有迹象表明，该软件可用于选择轰炸目标。
+尽管拥有庞大的客户名单，但 Palantir 直到 2023 年才公布其首次年度盈利。但人工智能炒作周期意味着 Palantir 的“商业业务正在以我们不知道如何应对的方式爆炸式增长”，该公司首席执行官亚历克斯·卡普 (Alex Carp) 在 2 月份告诉彭博社。该公司的大部分业务来自政府，包括以色列政府——尽管其年度文件的风险因素部分指出，它现在不会也不会与“中国共产党”合作。
+截至本文撰写时，Palantir 的股价在 2024 年已飙升超过 75%。]]></description>
+      <guid>https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance</guid>
+      <pubDate>Thu, 08 Aug 2024 18:23:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
