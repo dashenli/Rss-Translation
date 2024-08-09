@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 08 Aug 2024 09:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:29:02 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚焦：Vladimir Biondić</title>
+      <link>https://tympanus.net/codrops/2024/08/09/designer-spotlight-vladimir-biondic/</link>
+      <description><![CDATA[探索 Vladimir Biondic 的远见艺术，他是一位独立的塞尔维亚艺术总监和设计师，在网络和品牌设计方面拥有十多年的经验。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/09/designer-spotlight-vladimir-biondic/</guid>
+      <pubDate>Fri, 09 Aug 2024 09:13:09 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Threepipe 进行交互式 3D 设备展示</title>
       <link>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[剪辑路径的魔力 * Framer Motion Theatre * 2024 年文本渲染状态]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-855/</guid>
       <pubDate>Fri, 19 Jul 2024 17:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Three.js 中的着色器在滚动时创建扭曲和颗粒效果</title>
-      <link>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</link>
-      <description><![CDATA[了解如何使用 Three.js 着色器在滚动时创建扭曲和颗粒效果，并将 HTML 图像与 WebGL 同步。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/18/how-to-create-distortion-and-grain-effects-on-scroll-with-shaders-in-three-js/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:12:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

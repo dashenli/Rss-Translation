@@ -4,7 +4,35 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 09 Aug 2024 09:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:27:30 GMT</lastBuildDate>
+    <item>
+      <title>数亿个 AMD 芯片中存在“Sinkclose”漏洞，可导致深层、几乎无法修复的感染</title>
+      <link>https://www.wired.com/story/amd-chip-sinkclose-flaw/</link>
+      <description><![CDATA[研究人员警告称，AMD 芯片中存在一个漏洞，可让攻击者侵入计算机中某些权限最高的部分，而且该漏洞已在该公司的处理器中存在数十年。]]></description>
+      <guid>https://www.wired.com/story/amd-chip-sinkclose-flaw/</guid>
+      <pubDate>Fri, 09 Aug 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>迷彩帽如何瞬间成为一种流行元素</title>
+      <link>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</link>
+      <description><![CDATA[本周，副总统卡马拉·哈里斯和明尼苏达州州长蒂姆·沃尔兹用一些迷彩帽巩固了他们竞选白宫的地位。这顶帽子即将升级为红色 MAGA 帽子。]]></description>
+      <guid>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客如何窃取“王国钥匙”来克隆 HID 钥匙卡</title>
+      <link>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</link>
+      <description><![CDATA[一组研究人员开发出一种从 HID 编码器中提取身份验证密钥的方法，这可以让黑客克隆用于保护世界各地办公室和其他区域的钥匙卡类型。]]></description>
+      <guid>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥运会的敌对建筑预示着未来的发展</title>
+      <link>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</link>
+      <description><![CDATA[在巴黎的一座桥下，无家可归者的营地已被数十块巨大的乐高积木所取代。活动人士表示，2028 年洛杉矶奥运会的情况可能会变得更糟。]]></description>
+      <guid>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</guid>
+      <pubDate>Fri, 09 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>珠宝和大头发会减慢奥运会跑步运动员的速度吗？</title>
       <link>https://www.wired.com/story/does-jewelry-slow-down-olympic-runners/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[Twitch 终于为 DJ 们提供了一个平台，让他们可以通过直播获得报酬，并为他们播放的歌手提供报酬。其有限的歌曲目录和不透明的收入计划可能会让一些主播感到失望。]]></description>
       <guid>https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/</guid>
       <pubDate>Thu, 08 Aug 2024 18:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 款最佳智能音箱（2024 年）：Alexa、Google Assistant、Siri</title>
-      <link>https://www.wired.com/story/best-smart-speakers/</link>
-      <description><![CDATA[亚马逊、谷歌和苹果的聊天助手很受欢迎。但哪一个适合你呢？]]></description>
-      <guid>https://www.wired.com/story/best-smart-speakers/</guid>
-      <pubDate>Thu, 08 Aug 2024 18:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 警告用户可能会对其语音模式产生情感依赖</title>
-      <link>https://www.wired.com/story/openai-voice-mode-emotional-attachment/</link>
-      <description><![CDATA[该公司披露了人工智能模型安全测试的细节——包括对其新拟人化界面的担忧。]]></description>
-      <guid>https://www.wired.com/story/openai-voice-mode-emotional-attachment/</guid>
-      <pubDate>Thu, 08 Aug 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>右翼仍在推动选举否决——以及枕头</title>
-      <link>https://www.wired.com/story/election-deniers-far-right/</link>
-      <description><![CDATA[临近十一月，极右翼选举否认者变得更加有组织。]]></description>
-      <guid>https://www.wired.com/story/election-deniers-far-right/</guid>
-      <pubDate>Thu, 08 Aug 2024 16:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国邮政服务短信诈骗犯欺骗了他的妻子，因此他入侵了他们的行动</title>
-      <link>https://www.wired.com/story/usps-scam-text-smishing-triad/</link>
-      <description><![CDATA[Smishing Triad 网络每天向全球发送多达 10 万条诈骗短信。其中一条短信发给了格兰特·史密斯 (Grant Smith)，史密斯入侵了他们的系统，并向美国当局揭露了这些短信。]]></description>
-      <guid>https://www.wired.com/story/usps-scam-text-smishing-triad/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:50:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
