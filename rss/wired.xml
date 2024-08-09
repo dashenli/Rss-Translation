@@ -4,7 +4,28 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 08 Aug 2024 21:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 01:04:47 GMT</lastBuildDate>
+    <item>
+      <title>计算机崩溃报告是尚未开发的黑客金矿</title>
+      <link>https://www.wired.com/story/crash-reports-vulnerability-data/</link>
+      <description><![CDATA[一名黑客通过简单的崩溃报告解决了 CrowdStrike 中断之谜，并详细说明了这些关键文档中存在的潜在错误和漏洞。]]></description>
+      <guid>https://www.wired.com/story/crash-reports-vulnerability-data/</guid>
+      <pubDate>Thu, 08 Aug 2024 23:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局仍未决定如何将波音星际客机上的宇航员送回家</title>
+      <link>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</link>
+      <description><![CDATA[一个潜在的发展路径是搭乘 SpaceX 的便车——但要等到 2025 年。]]></description>
+      <guid>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</guid>
+      <pubDate>Thu, 08 Aug 2024 22:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>棘手的 Web 计时攻击越来越容易被利用和滥用</title>
+      <link>https://www.wired.com/story/web-timing-attacks-black-hat-2024/</link>
+      <description><![CDATA[新的研究表明，已知的查找网站弱点的技术实际上对于发现漏洞是实用的，无论好坏。]]></description>
+      <guid>https://www.wired.com/story/web-timing-attacks-black-hat-2024/</guid>
+      <pubDate>Thu, 08 Aug 2024 21:19:16 GMT</pubDate>
+    </item>
     <item>
       <title>Beyond Meat 在美国停滞不前。欧洲或将迎来另一个故事</title>
       <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>右翼仍在推动选举否决——以及枕头</title>
       <link>https://www.wired.com/story/election-deniers-far-right/</link>
-      <description><![CDATA[临近十一月，极右翼选举否认者将变得更加有组织。]]></description>
+      <description><![CDATA[临近十一月，极右翼选举否认者变得更加有组织。]]></description>
       <guid>https://www.wired.com/story/election-deniers-far-right/</guid>
       <pubDate>Thu, 08 Aug 2024 16:01:56 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[本周，我们讨论大型科技公司从小型人工智能公司收购关键人才的当前趋势。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-654/</guid>
       <pubDate>Thu, 08 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ozempic 的益处正在成倍增加</title>
-      <link>https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/</link>
-      <description><![CDATA[越来越多的证据表明，GLP-1 药物除了治疗糖尿病和减肥之外，还对多种疾病有益，包括治疗成瘾和帕金森症等，而科学家正在不断探寻其中的原因。]]></description>
-      <guid>https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/</guid>
-      <pubDate>Thu, 08 Aug 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看黑客如何使用红外激光监视你的笔记本电脑的按键操作</title>
-      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
-      <description><![CDATA[黑客 Samy Kamkar 推出了他自己的激光麦克风开源版本 - 这是一种间谍工具，它可以通过窗户无形地拾取你家里的声音，甚至是你正在输入的文本。]]></description>
-      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
-      <pubDate>Thu, 08 Aug 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能存在“偷窃”问题。这位初创公司首席执行官有计划解决这个问题</title>
-      <link>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</link>
-      <description><![CDATA[比尔·格罗斯的 ProRata 已与时代杂志和环球音乐集团等合作伙伴达成协议，其策略是让人工智能巨头为内容付费。]]></description>
-      <guid>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</guid>
-      <pubDate>Thu, 08 Aug 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
