@@ -4,11 +4,19 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 09 Aug 2024 03:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 18:20:30 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/08/1password-2/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/08/1password-2/</guid>
+      <pubDate>Fri, 09 Aug 2024 16:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 75：打持久战</title>
       <link>https://sixcolors.com/podcast/2024/08/downstream-75-playing-the-long-game/</link>
-      <description><![CDATA[《洛杉矶时报》的梅格·詹姆斯 (Meg James) 与杰森一起讨论了派拉蒙 (Paramount) 和 WBD 的结果、WBD/NBA 之争、孔雀 (Peacock) 和奥运会、Venu 的价格、NFL 躲避反垄断制裁、迪士尼涨价以及高端电视的高成本。…]]></description>
+      <description><![CDATA[《洛杉矶时报》的梅格·詹姆斯 (Meg James) 与杰森一起讨论了派拉蒙和 WBD 的结果、WBD/NBA 难题、孔雀和奥运会、Venu 的价格、NFL 躲避反垄断制裁、迪士尼涨价以及高端电视的高成本。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/downstream-75-playing-the-long-game/</guid>
       <pubDate>Fri, 09 Aug 2024 02:39:02 GMT</pubDate>
     </item>
@@ -74,7 +82,7 @@ Disney+ 一直走在其 Vision Pro 应用程序上提供独特环境的前沿，
       <pubDate>Mon, 05 Aug 2024 19:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
       <link>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</link>
       <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
 解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
@@ -113,14 +121,6 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
 另外两位消息人士告诉我们，Apple 曾与他们接洽，希望他们制作一款 Vision Pro 游戏，但 Apple 并未向他们提供制作该游戏的任何报酬，也没有保证会以任何方式宣传或营销该游戏。…]]></description>
       <guid>https://sixcolors.com/link/2024/08/apples-puzzling-arcade-approach/</guid>
       <pubDate>Thu, 01 Aug 2024 19:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于科技和旅行的更多信息</title>
-      <link>https://sixcolors.com/post/2024/07/a-little-more-about-tech-and-travel/</link>
-      <description><![CDATA[
-和丹一样，我也从苏格兰旅行回来了。他的文章涵盖了现代国际旅行者生活的大部分问题，但我还有一些额外的观察要分享。…]]></description>
-      <guid>https://sixcolors.com/post/2024/07/a-little-more-about-tech-and-travel/</guid>
-      <pubDate>Wed, 31 Jul 2024 21:27:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
