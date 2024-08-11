@@ -4,7 +4,32 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 10 Aug 2024 21:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 01:08:42 GMT</lastBuildDate>
+    <item>
+      <title>这款 Vision Pro Virtual Boy 模拟器并不花哨，但它能完成工作</title>
+      <link>https://www.theverge.com/2024/8/10/24217643/vision-pro-nintendo-virtual-boy-emulator-virtualfriend-impressions</link>
+      <description><![CDATA[
+
+
+Vision Pro 在名为 VirtualFriend，终于让我这个对任天堂最短命的游戏机有着非理性热爱的人，有机会再次以沉浸式 3D 方式玩游戏。该应用程序还适用于 iOS 和 iPadOS，在那里，它几乎是相同的体验，只是没有 3D 效果。
+下载 VirtualFriend 后，我玩的第一款游戏是我小时候拥有的游戏：Red Alarm、Wario Land 和 Mario’s Tennis。我很高兴地说，除了 Red Alarm 中的一些小音频故障外，游戏运行良好——一切都和我记忆中的一样。 
+
+
+GIF：VirtualFriend
+预设的“Game Boy”配色方案可能是我最喜欢的。
+
+VirtualFriend 支持 Vision Pro 上的蓝牙控制器和键盘控制，如果您在 iPhone 或 iPad 上玩游戏，还支持触摸屏按钮。从视觉效果来看，这些游戏与 Virtual Boy 游戏一样出色，并且应用程序提供了一些帮助，让您可以自定义控制台的双色调调色板。VirtualFriend 还具有眼部调整滑块，如果您发现某款游戏不适合您，它可以帮助您调整图像。
+缺少的主要功能是控制器映射和使用保存状态随时保存游戏的能力。 （开发人员 Adam Gastineau 在 该项目 GitHub 页面上的未解决的问题中承认了后者。）
+
+
+
+不过，如果您对玩 Virtual Boy 游戏感到好奇，或者像我一样曾经拥有并喜欢这款游戏机，那么 VirtualFriend 还是值得推荐的。它是免费的，可以选择给开发人员小费，不会显示广告，并且根据其 App Store 列表，它不会收集您的数据。它只是 90 年代中期的优质、干净的 VR 乐趣。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/10/24217643/vision-pro-nintendo-virtual-boy-emulator-virtualfriend-impressions</guid>
+      <pubDate>Sun, 11 Aug 2024 00:20:55 GMT</pubDate>
+    </item>
     <item>
       <title>最便宜的 Cyber​​truck 现在售价近 10 万美元</title>
       <link>https://www.theverge.com/2024/8/10/24217545/cybertruck-price-increase-rwd-model-gone</link>
@@ -137,29 +162,9 @@ Instagram 共享地图功能的屏幕截图。
 
 地图功能首次被发现早在 2 月份，该功能就已开发，当时的名称为“Friend Map”。本周，该功能的一些使用图片开始陆续流传到公众面前。 Pai 没有透露该功能目前正在哪里进行测试。
 Instagram 早在 2012 年就有一个照片功能，可以将你所有的照片放在地图上，但该功能是完全私密的——它不能与朋友分享，而且只包含你自己的照片。这是查看照片集的一种有趣方式，但该公司四年后关闭了这项功能，理由是使用率低。
-如果地图功能得到广泛推广，那么它将成为 Instagram 一直擅长的一项功能的回归：窃取竞争对手的创意。Stories 来自 Snapchat，Reels 来自 TikTok，而 Threads 则来自 Twitter——如果我们将其称为 Instagram 功能的话。现在，是时候回到 Snapchat 了。]]></description>
+如果地图功能得到广泛推广，那么它将成为 Instagram 一贯擅长的一项功能的回归：窃取竞争对手的创意。Stories 来自 Snapchat，Reels 来自 TikTok，而 Threads 则来自 Twitter——如果我们将其称为 Instagram 功能的话。现在，是时候回到 Snapchat 了。]]></description>
       <guid>https://www.theverge.com/2024/8/9/24217027/instagram-snap-map-style-feature-testing</guid>
       <pubDate>Fri, 09 Aug 2024 21:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>委内瑞拉和俄罗斯封锁信号</title>
-      <link>https://www.theverge.com/2024/8/9/24217008/signal-blocked-venezuela-russia</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-委内瑞拉和俄罗斯正在封锁 Signal。这款应用是加密信息和逃避政府审查的人们的热门选择，封锁似乎是两国镇压内部异议的一部分。
-在委内瑞拉，封锁是在上个月该国总统选举结果存在争议之后实施的，由于总统尼古拉斯·马杜罗仍执政，选举结果引发了抗议和逮捕，据 MSNBC 报道。 （美国已承认反对派候选人埃德蒙多·冈萨雷斯为大选获胜者。）互联网监控服务 NetBlocks 周四晚间表示，Signal已在该国“多个互联网提供商上无法连接”。据美联社报道，马杜罗还下令封锁 X。 
-据俄罗斯通讯社报道，俄罗斯通信监管机构 Roskomnadzor 表示，Signal 违反了俄罗斯法律。据路透社报道，俄罗斯用户如果不使用 VPN 就无法注册新的 Signal 账户。 NetBlocks 表示，截至周五下午，俄罗斯已“限制大多数互联网提供商的 Signal 消息应用程序后端”。
-“我们了解到有报道称，一些国家/地区已屏蔽 Signal 的访问，”Signal 表示。如果您受到屏蔽的影响，该公司建议您打开其审查规避功能。 （NetBlocks 报告称，此功能让 Signal 在俄罗斯“仍然可用”。）Signal 没有立即回复置评请求。
-
-
-我们了解到有报告称，一些国家/地区已屏蔽对 Signal 的访问。提醒一下，如果您的连接受到影响，Signal 的内置审查规避功能可能会有所帮助：Signal 设置 &gt; 隐私 &gt; 高级 &gt;审查规避（开启）— Signal (@signalapp) 2024 年 8 月 9 日
-
-
-据美国之音报道，俄罗斯用户也报告了该国发生大规模 YouTube 中断事件。YouTube 发言人 Ciaran Ward 告诉 The Verge：“我们了解到有报道称，有些人无法在俄罗斯访问 YouTube。” “这不是我们这边的技术问题或我们采取的行动造成的。”]]></description>
-      <guid>https://www.theverge.com/2024/8/9/24217008/signal-blocked-venezuela-russia</guid>
-      <pubDate>Fri, 09 Aug 2024 20:31:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
