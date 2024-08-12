@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 09 Aug 2024 18:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 21:15:26 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 524：我们正在制作一件小礼物</title>
+      <link>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</link>
+      <description><![CDATA[这一集涉及很多层面，我们讨论了奥运会、谷歌反垄断裁决、苹果新的欧盟收费计划、一款微型新 Mac mini、macOS 对话灾难以及十年前的科技世界。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</guid>
+      <pubDate>Mon, 12 Aug 2024 21:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/08/1password-2/</link>
@@ -82,7 +89,7 @@ Disney+ 一直走在其 Vision Pro 应用程序上提供独特环境的前沿，
       <pubDate>Mon, 05 Aug 2024 19:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
       <link>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</link>
       <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
 解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
@@ -112,15 +119,6 @@ Apple 最新的季度业绩几乎无趣至极，但仍然实现了 214 亿美元
       <description><![CDATA[周四，苹果公布了第三财季业绩。公司总营收为 858 亿美元，创下第三财季的纪录，而这一季度通常是苹果最平静的季度。…]]></description>
       <guid>https://sixcolors.com/post/2024/08/apple-results-quarterly-record-all-time-high-in-services/</guid>
       <pubDate>Thu, 01 Aug 2024 20:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果令人费解的 Arcade 做法 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/apples-puzzling-arcade-approach/</link>
-      <description><![CDATA[Mobilegamer 的 Neil Long 发表了一份关于 Apple Arcade 游戏开发者调查的新报告，该报告将 Apple 描述为反应迟缓、对技术细节一无所知，并且总体上对服务关注不够：
-
-另外两位消息人士告诉我们，Apple 曾与他们接洽，希望他们制作一款 Vision Pro 游戏，但 Apple 并未向他们提供制作该游戏的任何报酬，也没有保证会以任何方式宣传或营销该游戏。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/apples-puzzling-arcade-approach/</guid>
-      <pubDate>Thu, 01 Aug 2024 19:57:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
