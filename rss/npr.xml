@@ -4,9 +4,16 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 01:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 03:16:01 GMT</lastBuildDate>
     <item>
-      <title>照片：看看奥运会闭幕式上发生的事情</title>
+      <title>黛比飓风导致数千人陷入黑暗，并威胁到更多洪水的发生</title>
+      <link>https://www.npr.org/2024/08/11/nx-s1-5071222/debby-aftermath-power-outages-flooding</link>
+      <description><![CDATA[周日，之前被称为飓风黛比的天气系统仍未对美国部分地区造成太大影响，北卡罗来纳州的洪水警报仍然有效，纽约、俄亥俄州和宾夕法尼亚州数千个地区断电。]]></description>
+      <guid>https://www.npr.org/2024/08/11/nx-s1-5071222/debby-aftermath-power-outages-flooding</guid>
+      <pubDate>Mon, 12 Aug 2024 01:40:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>图片：看看奥运会闭幕式上发生了什么</title>
       <link>https://www.npr.org/sections/the-picture-show/2024/08/11/g-s1-16521/photos-see-what-happened-at-the-olympic-closing-ceremonies</link>
       <description><![CDATA[巴黎奥运会以闭幕式圆满落下帷幕。让我们一起来看看这场盛大的庆祝活动吧。]]></description>
       <guid>https://www.npr.org/sections/the-picture-show/2024/08/11/g-s1-16521/photos-see-what-happened-at-the-olympic-closing-ceremonies</guid>
@@ -55,7 +62,7 @@
       <pubDate>Sun, 11 Aug 2024 21:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>最终的奥运奖牌榜上，美国队位居榜首</title>
+      <title>最终的巴黎奥运奖牌榜上，美国队位居榜首</title>
       <link>https://www.npr.org/2024/08/11/nx-s1-5071150/paris-olympics-medal-total-us-gold</link>
       <description><![CDATA[对许多国家来说，金牌是最令人垂涎​​的奖项，而争夺金牌的斗争也打到了最后关头，中国队和美国队最终都以 40 枚金牌打成平手。]]></description>
       <guid>https://www.npr.org/2024/08/11/nx-s1-5071150/paris-olympics-medal-total-us-gold</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[乌克兰军队在俄罗斯西部连续几天快速推进后，攻势有所放缓。俄罗斯正在向该地区增派部队，但尚未发动大规模反击。]]></description>
       <guid>https://www.npr.org/2024/08/11/g-s1-16518/ukraine-russia-kursk-putin-zelensky</guid>
       <pubDate>Sun, 11 Aug 2024 18:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一场充满音乐和特技的闭幕式拉开了巴黎奥运会的序幕</title>
-      <link>https://www.npr.org/2024/08/11/g-s1-16501/closing-ceremony-paris-olympics-2024</link>
-      <description><![CDATA[此次仪式为为期两周的比赛画上了句号，巴黎将奥运会会旗移交给了 2028 年主办城市洛杉矶。]]></description>
-      <guid>https://www.npr.org/2024/08/11/g-s1-16501/closing-ceremony-paris-olympics-2024</guid>
-      <pubDate>Sun, 11 Aug 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
