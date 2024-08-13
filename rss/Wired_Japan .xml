@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 13 Aug 2024 06:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 09:17:44 GMT</lastBuildDate>
+    <item>
+      <title>Space Hopper，一种在小行星上跳跃的移动探索机器人，采用深度强化学习开发</title>
+      <link>https://wired.jp/article/vitality-swiss-2024-spacehopper/</link>
+      <description><![CDATA[Space Hopper是瑞士机器人系统实验室开发的机器人，采用考虑了月球和小行星环境的运动方法。开发团队期待的是机器人设计将远离人类的未来。]]></description>
+      <guid>https://wired.jp/article/vitality-swiss-2024-spacehopper/</guid>
+      <pubDate>Tue, 13 Aug 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>挂件式AI设备“Friend”是一个可以挂在脖子上的“朋友”。</title>
       <link>https://wired.jp/article/friend-ai-pendant/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着日本继续从地震和大规模灾难中重建，它可能处于一个独特的位置，可以不断地重写其对再生城市应该是什么样子的愿景。主编致 SZ 会员的通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-248/</guid>
       <pubDate>Fri, 09 Aug 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找下一个“Ozempic”——开发治疗肥胖新药的竞争加速</title>
-      <link>https://wired.jp/article/age-of-ozempic-next-generation-new-weight-loss-drugs-ozempic-wegovy-zepbound-mounjaro/</link>
-      <description><![CDATA[减肥药的流行使得制药公司竞相开发更方便、更有效、更便宜的药物。新药的上市不仅将缓解GLP-1受体激动剂的供应短缺，也为患者提供了更多的选择。]]></description>
-      <guid>https://wired.jp/article/age-of-ozempic-next-generation-new-weight-loss-drugs-ozempic-wegovy-zepbound-mounjaro/</guid>
-      <pubDate>Fri, 09 Aug 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
