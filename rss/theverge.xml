@@ -4,178 +4,141 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 13 Aug 2024 15:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 18:19:48 GMT</lastBuildDate>
     <item>
-      <title>Flipboard 将让你直接在应用内关注 fediverse 账户</title>
-      <link>https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app</link>
+      <title>谷歌推出 Pixel Studio AI 图像制作应用程序</title>
+      <link>https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app</link>
       <description><![CDATA[
 
-图片：Flipboard
+照片由 Chris Welch / The Verge 拍摄
 
-Flipboard 正在兑现 fediverse 的重大承诺。去年年底，Flipboard 宣布将把用户帐户切换至 ActivityPub，同时表示计划让用户通过 Flipboard 应用关注使用 ActivityPub 的联合平台上的用户。从周二开始，该功能将上线，这意味着您可以在 Flipboard 内部关注 Mastodon、Threads 和 Pixelfed 等平台的用户。
-Flipboard 将在应用中以几种不同的方式展示 fediverse 个人资料。例如，根据一份新闻稿，Flipboard 的搜索将显示 fediverse 帐户，而“探索”选项卡将提供编辑精选的推荐。在 Flipboard 分享的一张截图中，“探索”部分有一个“Fediverse”标签，里面有个人资料，比如 Verge 主编 Nilay Patel 的 Threads 账户 和 Mike Masnick 的 Mastodon 账户，你只需点击一下就可以关注这些账户。 
-
-
-图片：Flipboard
+谷歌在今天的 Pixel 9 活动上宣布了一款新的图像生成应用。该公司表示，这款名为 Pixel Studio 的应用程序将预装在每台 Pixel 9 设备上。
+Pixel Studio 与 Apple 即将推出的 Image Playground 应用程序非常相似，后者计划在 iOS 18 操作系统发布后的某个时间点推出，它允许您根据提示创建图像。用户可以事后编辑图像，使用提示框添加或删除元素，并更改图片的感觉或风格。 
 
 
-虽然您可以看到来自其他平台上的联合帐户的帖子，但您将无法回复或喜欢来自 Flipboard 的帖子，除非您的 Flipboard 帐户也是联合的，但这可能不是每个人都是这种情况。 Flipboard 的 Marci McCue 告诉 The Verge，到目前为止，Flipboard 只为部分账户开启了该功能，如果你的账户尚未联合，你可以请求联合。
 
-尽管如此，Flipboard 的 fediverse 扩展可以让该应用成为一站式商店，让你可以一站式获取你最感兴趣的人的新闻和社交媒体帖子。我对这个想法很感兴趣；我通常将文章提要和社交提要放在不同的应用中，但我知道将它们结合起来会很有用。
-Flipboard 一直是联合的积极支持者。该公司于 2023 年创建了自己的 Mastodon 实例 (Flipboard.social)，首席执行官 Mike McCue 已撰写文章并谈论他认为联盟有多重要。但由于 Flipboard 的这次更新以及 Threads 中新增的查看联盟帖子的回复功能，联盟社交网络的崇高承诺正逐渐成为现实。]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24218868/flipboard-fediverse-inside-app</guid>
-      <pubDate>Tue, 13 Aug 2024 15:00:00 GMT</pubDate>
+在舞台演示期间，篝火图片逐渐变为海滩聚会邀请函，背景是金门大桥和烟花，采用像素艺术风格制作，并附有邀请函详细信息和演示者朋友的贴纸。该功能基于 Google 的 Imagen 3 文本转图像模型。
+该功能加入了 Google 为 Pixel 手机推出的其他 AI 功能，例如新的 Pixel 屏幕截图功能，其作用类似于 Microsoft 的 Recall 功能，只不过您不是不断截取屏幕截图，而是手动截取每个屏幕截图。]]></description>
+      <guid>https://www.theverge.com/2024/8/13/24219655/google-pixel-studio-ai-image-generation-app</guid>
+      <pubDate>Tue, 13 Aug 2024 18:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>Anker 的超薄 65W 充电器可以塞进笨重的电源适配器之间</title>
-      <link>https://www.theverge.com/2024/8/13/24219351/anker-power-charger-prime-usb-c</link>
+      <title>Google 借助类似 Recall 的 AI 功能让你的 Pixel 截图可搜索</title>
+      <link>https://www.theverge.com/2024/8/13/24219641/google-pixel-screenshots-ai-recall</link>
       <description><![CDATA[
 
-难以将更多适配器塞入电源板？Anker 即将推出的 65W 充电器可能是解决方案。 |图片：Anker Japan
+照片由 Chris Welch / The Verge 拍摄
 
-Anker 为新款 65W 充电器设计了一个巧妙的外壳，它足够薄，可以挤在电源板上较大的电源适配器之间，从而使过于拥挤的插座再次可用。
-薄型充电器并不是一个新想法，但它们通常在适配器的平面上配备一组折叠插脚，可将其插入家具后面的插座并紧贴墙壁。Anker 的方法是将一对折叠插脚放置在其新充电器的末端，以不同的方式利用薄型设计。
+Google 已宣布推出 Pixel Screenshots，这是一款适用于 Pixel 9 系列的全新 AI 应用，可让您保存、整理和显示屏幕截图中的信息。 Pixel Screenshot 使用 Google 私有的设备上 Gemini Nano AI 模型来分析图像内容并使其可搜索。
+在 Pixel 发布会的演示中，Google 展示了如何截取屏幕截图然后将其保存到收藏夹中，例如“礼物创意”。您还可以通过输入关键字（例如“自行车”或“鞋子”）来搜索所有其他屏幕截图。然后，Pixel Screenshots 将提取所有相关结果。
 
 
-GIF：Onesuite
-充电器的插脚不仅可以折叠平放，还可以左右旋转，因此也可以插入墙上插座。
+您的手机上有多少被遗忘的屏幕截图？Pixel Screenshots 将通过分析照片使其可搜索来帮助您保存、组织和调用它们。该功能将在 Gemini Nano 和 Tensor G4 的帮助下在 #Pixel9 设备上运行。 #MadeByGoogle pic.twitter.com/yXR4sRLTHm— Google (@Google) 2024 年 8 月 13 日
 
-Anker 最近宣布推出新款其 Prime 充电器系列的新增功能，尽管这款轻薄解决方案最终将成为该系列的一部分，但目前仅在 Anker Japan 网站 上列出，计划于 2024 年冬季某个时候发布，标价为 6,990 日元（约合 47 美元）。除了在两个 USB-C 端口之间共享高达 65W 的功率外，没有关于其工作原理的详细信息，但一家日本新闻媒体对其进行了一些实际操作，并在分享给 X 的视频中演示了充电器的折叠插脚。
-鉴于插脚也可以左右旋转，这款超薄充电器也可以在墙上插座上使用，而不会因为充电器的重量而导致其缓慢拔出。这是旧款 Anker 壁式充电器的一个问题，该公司最近才解决了这个问题，推出了重新设计的 100W 紧凑型充电器，该充电器的插脚更厚，平衡中心也得到了改进。]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24219351/anker-power-charger-prime-usb-c</guid>
-      <pubDate>Tue, 13 Aug 2024 14:18:02 GMT</pubDate>
+
+此外，Pixel Screenshots 还可以为您提供有关图像内部内容的信息。因此，如果您要查找截屏的衬衫的价格，可以输入“T 恤价格”，Pixel Screenshots 将从您的屏幕截图中提取信息以显示答案。该应用仅 在 Pixel 9 设备上可用。
+Pixel Screenshots 听起来有点像 Recall，这是一项即将推出的 Windows 功能，微软因隐私问题而推迟。但是，与 Recall 不同，Pixel Screenshots 不会使用 AI 扫描设备上的所有内容 - 它仅限于您手动截取的屏幕截图。它实际上看起来非常有用，而且谷歌让用户控制其人工智能的具体处理能力，这很好。]]></description>
+      <guid>https://www.theverge.com/2024/8/13/24219641/google-pixel-screenshots-ai-recall</guid>
+      <pubDate>Tue, 13 Aug 2024 18:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>如何防止你的在线写作永远消失</title>
-      <link>https://www.theverge.com/24218943/archive-article-writing-authory-journalist</link>
+      <title>SpaceX 面临违反《清洁水法》的指控</title>
+      <link>https://www.theverge.com/2024/8/13/24219374/spacex-faces-accusations-it-violated-the-clean-water-act</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24218943/archive-article-writing-authory-journalist</guid>
-      <pubDate>Tue, 13 Aug 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/13/24219374/spacex-faces-accusations-it-violated-the-clean-water-act</guid>
+      <pubDate>Tue, 13 Aug 2024 17:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>Rivian 将为不带 CarPlay 的电动汽车带来带有空间音频的 Apple Music</title>
-      <link>https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee</link>
-      <description><![CDATA[
-
-Daniel Golson 为 The Verge 拍摄的照片
-
-Rivian 并未在其电动汽车中提供 Apple CarPlay 等手机镜像功能，因此该公司今天推出了一项新的软件更新，增加了内置的 Apple Music 流媒体支持，这可能会影响客户的连接性痒。
-上个月，Rivian 首席执行官 RJ Scaringe 在 Decoder 上表示，CarPlay 无法利用车辆体验的其他部分，并且从汽车制造商手中夺走了控制权。在这种情况下，控制以付费订阅服务的形式出现，这是享受 Rivian 基于 Android 的大型信息娱乐屏幕上提供的一些功能所必需的。
-新的原生 Apple Music 应用程序（包括对空间音频和杜比全景声的支持）将在 Rivian 于 6 月推出其新的 Connect Plus 数据订阅后推出。在发给The Verge的一封电子邮件中，Rivian 产品发言人 Courtney Richardson 写道，第二代汽车需要 Connect Plus 才能拥有“Apple Music 等原生应用体验和流媒体连接，无论汽车行驶到哪里。”
-Control 以付费订阅服务的形式提供
-当被问及第一代车主之间的连接性有何不同时，他们已经可以在旅途中通过 Spotify 等应用听音乐，无需额外订阅，Richardson 分享了Rivian 网站上提供的相同信息。许多 Rivian 车主享受了 Rivian 会员资格带来的附加数据服务，该公司表示正在逐步淘汰这项服务。
-似乎所有 R1T 和 R1S 车辆的车主很快都需要 Connect Plus 来随时随地播放媒体应用程序并继续使用车辆的内置 Wi-Fi 热点。Rivian 车辆可以运行 TuneIn 和 Amazon Audible 等应用程序，并且很快将拥有原生 YouTube 和对 Google Cast 的支持——只要车主订阅 Connect Plus。
-为了帮助缓解这一变化，Rivian 从今天开始为所有 Rivian 车主提供新的为期两个月的 Connect Plus 免费试用期。这意味着订阅了 Apple Music 的司机可以继续使用汽车的内置数据，然后再支付额外费用。免费试用期结束后，Connect Plus 每月收费 14.99 美元，每年收费 149.99 美元。
-
-Rivian 并不是唯一一家推动客户购买连接订阅的公司。特斯拉长期以来一直为其车辆提供无限数据，之后才转向每年 99 美元的 Premium 订阅（尽管早期的特斯拉车主继续享受祖父级无限计划）。 
-但两家公司均未提供 CarPlay 或 Android Auto，后者可以镜像手机屏幕并在汽车显示屏上使用其服务 - 因此您永远不必担心汽车领域不可预测的变化。
-对于那些不想支付额外费用的人，RivianTrackr 报告该公司将允许原生媒体应用在连接到单独的 Wi-Fi 热点时运行。您还可以尝试安装手机并通过蓝牙连接音频，以获得更具 2013 年感觉的体验。]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee</guid>
-      <pubDate>Tue, 13 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Pixel 9 发布会：如何观看直播</title>
-      <link>https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream</link>
+      <title>谷歌的 Pixel 9 手机率先搭载 Android 版 Satellite SOS</title>
+      <link>https://www.theverge.com/2024/8/13/24219583/google-pixel-9-satellite-satellite-sos-android</link>
       <description><![CDATA[
 
 图片：Google
 
-Google 准备在周二发布全新的 Pixel 手机阵容，其中包括已经 (并且可能不情愿）证实了 Pixel 9 Pro 和一款新的 9 Pro Fold 可折叠手机。该公司再次面临大量泄密，这些泄密事件揭露了从可能是完整产品线及其规格到泡泡糖粉等新颜色和全新 AI 功能等一切，这些功能将继续让你问照片是什么。 
-我们可能永远不知道为什么谷歌年复一年地遭遇新产品组合泄露，但在即将举行的 Made by Google 活动中仍有很多东西值得学习。除了新手机之外，我们可能还会了解到有关下一代 Pixel Watch、新款无线 Buds 和全新 Gemini 功能的新细节。
-如何观看 Made by Google 活动
- Google Pixel 9 发布会将于 2024 年 8 月 13 日举行，开始时间为美国东部时间下午 1 点/太平洋时间上午 10 点。Google 将在其位于加利福尼亚州山景城的总部举办现场活动，但您可以通过观看 Google 网站或 YouTube 频道 上的直播或通过本文顶部嵌入的视频来关注我们。
-如果您无法观看直播，您可以在我们的直播博客上关注我们。]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24216320/google-pixel-9-pro-event-date-time-watch-live-stream</guid>
-      <pubDate>Tue, 13 Aug 2024 12:30:00 GMT</pubDate>
+Google 紧随 Apple 之后，推出了一种在紧急情况下使用手机通过卫星进行通信的方法。在周二的 Pixel 9 大型发布会上，该公司分享了 Satellite SOS 的详细信息，该功能可让您在没有蜂窝服务的情况下联系紧急救援人员并分享您的位置。
+谷歌的 Brian Rakowski 在台上表示，新的 Pixel 9 系列将是首批能够使用 Satellite SOS 的 Android 手机。Rakowski 表示，该功能将首先在美国推出，“无论您的运营商计划如何”。根据谷歌直播期间展示的细则，该服务将包含在内，“设备激活后的前两年内无需额外付费”。Rakowski 的一篇 博客文章 进一步说明了这一点，称“在 Pixel 上”的前两年它将免费。目前还不清楚该功能何时会在其他 Android 手机上推出。
+不过，很高兴看到谷歌为 Android 推出此功能，尤其是在高通尝试失败推出自己的卫星 SOS 功能之后。 
+Apple 于 2022 年 11 月推出了其卫星服务“紧急 SOS”。该公司去年宣布，iPhone 14 用户将获得额外一年的免费保修，这意味着 iPhone 14 和 iPhone 15 用户都必须决定是否要从 2025 年 11 月开始为该服务付费。]]></description>
+      <guid>https://www.theverge.com/2024/8/13/24219583/google-pixel-9-satellite-satellite-sos-android</guid>
+      <pubDate>Tue, 13 Aug 2024 17:56:46 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克告诉唐纳德·特朗普‘我们不应该诋毁石油和天然气行业’</title>
-      <link>https://www.theverge.com/2024/8/12/24219183/elon-musk-donald-trump-oil-gas-vilify-tesla-x-interview</link>
-      <description><![CDATA[
-
-插图由 Laura Normand / The Verge 提供
-
-Elon Musk 拥有一家电动汽车公司，他曾表示希望将人类推向“可持续能源文明”，在 X 的一次采访中告诉前总统唐纳德·特朗普，“我们不应该诋毁石油和天然气行业。”
-马斯克在他的社交媒体平台上采访了特朗普，由于技术故障，直播延迟了 40 多分钟由于技术故障。在就移民、通货膨胀和外交政策进行了漫长而漫无边际的讨论之后，马斯克和特朗普终于谈到了能源和气候变化的话题——马斯克出人意料地为化石燃料行业辩护。 
-“​​我认为我们不应该诋毁石油和天然气行业，以及那些在这些行业辛勤工作、为经济提供必要能源的人们，”马斯克说。
-“在这些行业辛勤工作的人们”
-这位特斯拉首席执行官表示，尽管拥有一家电动汽车和家庭能源公司，但他在能源问题上的观点“相当温和”，他声称，如果石油和天然气公司被迫关闭，经济“将崩溃”。马斯克还表示，地球可以在“50 到 100 年内”过渡到可持续能源经济——尽管科学界警告人类正在迅速达到气候的临界点。（特朗普后来将其改为“500 到 1000 年”，马斯克并没有纠正。）
-“所以，这并不意味着房子会立刻着火，”马斯克说。“但我认为这是我们需要朝着的目标迈进……最好是尽快实现这一目标，而不是慢慢来。但不要诋毁石油和天然气行业，也不要造成短期困难。”
-但他很快就自相矛盾了。马斯克承认，随着化石燃料的继续使用，空气将变得更加难以呼吸，导致人们“头痛和恶心”。但这并不是迅速放弃使用地球加热燃料的理由。根据马斯克的说法，我们可以随意走向一个更可持续的未来。 
-“我们还有相当多的时间，”他说。“我们不需要着急。”
-特朗普经常听起来像是在含糊其辞，他打趣说海平面上升意味着人们将拥有更多的“海滨房产”。这一言论很快遭到副总统卡马拉·哈里斯竞选团队的猛烈抨击。 
-
-
-特朗普含糊其辞地表示，他接受气候变化和海平面上升，因为他认为自己会“拥有更多海滨房产”pic.twitter.com/AmdrdXCn0v— Kamala HQ (@KamalaHQ) 2024 年 8 月 13 日
-
-
-特朗普随后简要谈到了他最喜欢的话题之一，电动汽车，声称化石燃料驱动的能源发电是特斯拉汽车的动力。“[我们]目前无法摆脱它，”他说。 
-但电动汽车讨论并没有进一步深入，尽管特朗普誓言要终止对插电式汽车的补贴，这可能会严重影响特斯拉的销售。特朗普敦促马斯克在他的汽车车顶上安装太阳能电池板。 （特斯拉为 Cyber​​truck 申请了太阳能电池板覆盖的后车厢盖专利，但并未付诸实施。）
-“人们谈论全球变暖，或者谈论气候变化，但他们从不谈论核变暖，”特朗普说。“这是一个迫在眉睫的问题。” ]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24219183/elon-musk-donald-trump-oil-gas-vilify-tesla-x-interview</guid>
-      <pubDate>Tue, 13 Aug 2024 02:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们玩了 Valve 秘密推出的新射击游戏《僵局》</title>
-      <link>https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game</link>
+      <title>Google Pixel 9 系列将提供的所有 AI 功能</title>
+      <link>https://www.theverge.com/24219355/google-pixel-9-ai-features-screenshots-add-me-magic-editor</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game</guid>
-      <pubDate>Tue, 13 Aug 2024 00:46:27 GMT</pubDate>
+      <guid>https://www.theverge.com/24219355/google-pixel-9-ai-features-screenshots-add-me-magic-editor</guid>
+      <pubDate>Tue, 13 Aug 2024 17:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 / 唐纳德·特朗普在 X 上的采访以一场技术灾难开始</title>
-      <link>https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes</link>
+      <title>您可以在这里预订 Google 的新款 Pixel Watch 3</title>
+      <link>https://www.theverge.com/24215675/google-pixel-watch-3-preorder-how-to-buy-price-release-date</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24215675/google-pixel-watch-3-preorder-how-to-buy-price-release-date</guid>
+      <pubDate>Tue, 13 Aug 2024 17:18:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何预订谷歌即将推出的所有手机，包括 Pixel 9 Pro Fold</title>
+      <link>https://www.theverge.com/good-deals/24215668/google-pixel-9-pro-xl-fold-preorder-price-how-to-buy-release-date</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/good-deals/24215668/google-pixel-9-pro-xl-fold-preorder-price-how-to-buy-release-date</guid>
+      <pubDate>Tue, 13 Aug 2024 17:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的下一款大屏 Pixel</title>
+      <link>https://www.theverge.com/2024/8/13/24219412/google-pixel-9-fold-watch-tv-streamer-vergecast</link>
       <description><![CDATA[
 
-插图由 Kristen Radtke / The Verge 提供；照片：Getty Images
+照片由 Chris Welch / The Verge 拍摄
 
-埃隆·马斯克与前总统唐纳德·特朗普的“对话”开局不顺。这次采访在 X Spaces 上进行，原定于美国东部时间周一晚上 8 点开始，但立即崩溃，直到 42 分钟后才开始。
-那些设法进入太空的人，包括几名 Verge 工作人员，表示采访开始时，特朗普的账户播放了大约 30 分钟的低保真电子音乐。
-对话开始 18 分钟后，马斯克声称 X 是“大规模 DDOS 攻击”的目标，这使得太空无法按计划进行。 
-不过，X 的其余部分似乎运行正常，公司内部一位消息人士向 The Verge 证实，实际上并没有发生拒绝服务攻击。另一位 X 员工表示，马斯克在攻击问题上撒谎的可能性“高达 99%”。
+好吧，当然，谷歌基本上在过去几个月里通过反复泄露（在某些情况下，只是直截了当地宣布）即将推出的所有手机、可穿戴设备、耳机和电视设备来破坏其年度硬件活动。但一年一度的 Pixel 发布会仍然是电子产品界的盛事，也是了解谷歌未来发展方向的机会。
+在本期The Vergecast中，我们讨论了所有新设备，从Pixel 9 系列到Pixel Buds Pro 2，再到Pixel Watch 3。我们还讨论了上周的发布，特别是新的 TV Streamer。谷歌现在已经进入硬件之旅的这个阶段近十年了，似乎仍然认真地想要成为小工具领域的大玩家。所以，问题是：这些产品中的任何一个都会在市场上引起真正的轰动吗？也许新的 Fold 是我们一直在等待的可折叠手机，但 1,800 美元的售价，这是一个很大的要求。或者也许 TV Streamer 可以成为我们应得和需要的更好的机顶盒。
 
-
-似乎发生了大规模 DDOS 攻击。正在努力将其关闭。 最糟糕的情况是，我们将继续使用较少数量的现场听众，并稍后发布对话。— Elon Musk (@elonmusk) 2024 年 8 月 13 日
+实际上，谷歌的整个硬件计划可能只是一个人工智能计划。这些新设备以更好的人工智能性能为名进行了大量规格升级，并附带了 Pixel Screenshots 等新功能，承诺使用 Gemini 让您的生活更美好、更简单。很多硬件世界都在遵循这个计划，所以我们聊了聊谷歌——或者任何人——是否真的向我们展示了人工智能硬件可能是什么样子。
 
 
-在 X 的一系列后续帖子中，马斯克声称该公司周一以 800 万同时听众的规模测试了该系统。在采访开始的时候，X 说有 915,000 人在听 Space。
 
+如果你想了解更多关于我们在本集中讨论的所有内容，请查看我们对今年 Pixel 发布的所有报道。以下是一些入门链接：
 
-我们将在美国东部时间 8:30 开始较少数量的同时收听，然后立即发布未经编辑的音频 https://t.co/oxF8PsNHnZ— Elon Musk (@elonmusk) 2024 年 8 月 13 日
-
-
-Space 终于在美国东部时间晚上 8:40 左右开始时，马斯克重申了 DDOS 的说法。“正如这次大规模攻击所表明的那样，很多人反对听特朗普总统说些什么，”他说。
-这次采访未能成功，让人想起佛罗里达州州长罗恩·德桑蒂斯 (Ron DeSantis) 于 2023 年在 X 上宣布他将竞选总统，这也是从技术困难开始的。当时，马斯克将问题归咎于服务器超载。
+Google Pixel 9 发布会现场报道：所有新闻
+Google 的 Pixel 9 系列是一场 Pro 秀
+谷歌新款 Pixel Buds Pro 2 似乎在各个方面都表现更好
+Pixel 9 Pro XL 向我展示了 AI 摄影的未来
+Google Pixel Watch 3 上手体验：一大飞跃
+Google TV Streamer 可能是我们一直在等待的 Apple TV 4K 竞争对手
+为什么 Google 决定现在是时候放弃 Chromecast 了
+Nest Learning Thermostat 获得十多年来最大的升级
+谷歌 Pixel Fold 发布一年后：我迫不及待地想看续集
 ]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes</guid>
-      <pubDate>Tue, 13 Aug 2024 00:38:51 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/13/24219412/google-pixel-9-fold-watch-tv-streamer-vergecast</guid>
+      <pubDate>Tue, 13 Aug 2024 17:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>一项有争议的人工冷却地球实验被取消——我们知道的原因是什么</title>
-      <link>https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science</guid>
-      <pubDate>Mon, 12 Aug 2024 22:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Wallet 现在几乎可以为任何事物提供数字通行证</title>
-      <link>https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai</link>
+      <title>Google Gemini 的语音聊天模式来了</title>
+      <link>https://www.theverge.com/2024/8/13/24219553/google-gemini-live-voice-chat-mode</link>
       <description><![CDATA[
 
-插图：The Verge
+Gemini 推出了全新的语音聊天模式。 |图片：谷歌
 
-我非常喜欢将电子通行证存储在手机钱包中，所以当我不得不使用其他应用程序或保存的 PDF 时，我会有点恼火。至少在 Android 上，还有更好的方法，这要归功于现在推出的新的 Google Wallet 选项，它使用人工智能生成包含所有相关详细信息的数字版本，您可以像任何其他数字通行证一样使用它。 
-该功能是 Google 在 5 月份的 I/O 大会上宣布的，取代了“添加到钱包”菜单中之前的“照片”选项，可以创建一个更简单的通行证版本，仅显示条形码或二维码。
-该功能被称为“其他一切”，使用它可以让您免于在会场排队时翻遍电子邮件寻找 PDF 文件，或尝试浏览医疗保健提供商的应用程序以获取保险卡图像。 Google Wallet 生成的通行证可用于多种类别，包括名片、身份证、借书证、会员卡、护照和车辆登记证，正如 9to5Google 所述。不过，它目前仅在美国有效。
+谷歌正在为 Gemini 推出一种名为 Gemini Live 的新语音聊天模式，该公司在今天的 Pixel 9 发布会上宣布了这一消息。这项功能可供 Gemini Advanced 订阅用户使用，其工作方式与 ChatGPT 的语音聊天功能非常相似，有多种声音可供选择，并且能够以对话的方式讲话，甚至可以在不点击按钮的情况下打断对话。
+Google 表示，与 Gemini Live 的对话可以“自由流动”，因此您可以执行诸如在句子中间打断答案或暂停对话并稍后再回来的操作。Gemini Live 也可以在后台或手机锁定时运行。谷歌在今年早些时候的 I/O 开发者大会上首次宣布 Gemini Live 即将推出，当时它还表示 Gemini Live 将能够实时解释视频。
 
 
-屏幕截图：Google Wallet
-不过，在放弃这张卡之前，您可能希望确保 Sam’s Club 会接受这张卡。
+GIF： Google
+Gemini Live 为 Google 的 AI 助手添加了语音聊天功能。
 
-当您选择“其他一切”时，该应用会请求使用 Google 的 AI 处理您的敏感信息的权限，并根据私人通行证、健康通行证或驾驶执照等类别对其进行组织。然后，您可以拍摄通行证的照片，并在处理后调整任何看起来不正确的细节或类别并批准最终产品。 
-Google 已发布使用该功能的说明，并且似乎已于本月初开始推出该功能，虽然我们自己的 Emma Roth 在她的 Galaxy Note 20 上拥有该功能，但我的 Pixel 6 上还没有，但它应该很快就会在更多设备上推出。 ]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai</guid>
-      <pubDate>Mon, 12 Aug 2024 22:10:27 GMT</pubDate>
+Google 还为用户提供了 10 种新的 Gemini 语音供用户选择。该功能已于今日开始推出，仅提供英语版本，适用于 Android 设备。该公司表示，该功能将在未来几周内登陆 iOS 并推出更多语言版本。
+除了 Gemini Live，Google 还宣布了其 AI 助手的其他功能，包括稍后推出的新扩展，适用于 Keep、Tasks、Utilities 和 YouTube Music 等应用。Gemini 还能够感知屏幕上下文，类似于 Apple 今年在 WWDC 上宣布的 AI 功能。用户点击“询问此屏幕”或“询问此视频”后，Google 表示 Gemini 可以为您提供信息，包括从旅行视频中提取目的地等详细信息以添加到 Google 地图。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/13/24219553/google-gemini-live-voice-chat-mode</guid>
+      <pubDate>Tue, 13 Aug 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixel 9 Pro XL 向我展示了 AI 摄影的未来</title>
+      <link>https://www.theverge.com/24219032/pixel-9-pro-xl-hands-on-camera-ai-features-specs-price</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24219032/pixel-9-pro-xl-hands-on-camera-ai-features-specs-price</guid>
+      <pubDate>Tue, 13 Aug 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
