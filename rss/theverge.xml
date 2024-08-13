@@ -4,7 +4,85 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 12 Aug 2024 21:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 01:05:11 GMT</lastBuildDate>
+    <item>
+      <title>我们玩了 Valve 秘密推出的新射击游戏：《僵局》</title>
+      <link>https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/12/24219016/valve-deadlock-hands-on-secret-new-game</guid>
+      <pubDate>Tue, 13 Aug 2024 00:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆 / 特朗普在 X 上的采访立即引发了技术灾难</title>
+      <link>https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes</link>
+      <description><![CDATA[
+
+插图由 Kristen Radtke / The Verge 提供；照片：Getty Images
+
+埃隆·马斯克与前总统唐纳德·特朗普的“对话”开局不顺。这次采访在 X Spaces 上进行，原定于美国东部时间周一晚上 8 点开始，但立即崩溃，直到 42 分钟后才开始。
+那些设法进入太空的人，包括几名 Verge 工作人员，表示采访开始时，特朗普的账户播放了大约 30 分钟的低保真电子音乐。
+在对话开始 18 分钟后，马斯克声称 X 是“大规模 DDOS 攻击”的目标，这使得太空无法按计划进行。 
+不过，X 的其余部分似乎运行正常，公司内部一位消息人士向 The Verge 证实，实际上并没有发生拒绝服务攻击。另一位 X 员工表示，埃隆在攻击问题上撒谎的可能性“高达 99%”。
+
+
+似乎发生了大规模 DDOS 攻击。正在努力将其关闭。 最糟糕的情况是，我们将继续使用较少数量的现场听众，并稍后发布对话。— Elon Musk (@elonmusk) 2024 年 8 月 13 日
+
+
+在 X 的一系列后续帖子中，马斯克声称该公司周一以 800 万同时听众的规模测试了该系统。在采访开始的时候，X 说有 915,000 人在听 Space。
+
+
+我们将在美国东部时间 8:30 开始较少数量的同时收听，然后立即发布未经编辑的音频 https://t.co/oxF8PsNHnZ— Elon Musk (@elonmusk) 2024 年 8 月 13 日
+
+
+Space 终于在美国东部时间晚上 8:40 左右开始时，马斯克重申了 DDOS 的说法。“正如这次大规模攻击所表明的那样，很多人反对听特朗普总统说些什么，”他说。
+这次采访未能成功，让人想起佛罗里达州州长罗恩·德桑蒂斯 (Ron DeSantis) 于 2023 年在 X 上宣布他将竞选总统，这也是从技术困难开始的。当时，马斯克将问题归咎于服务器过载。
+正在开发中...
+]]></description>
+      <guid>https://www.theverge.com/2024/8/12/24219121/donald-trump-elon-musk-interview-x-twitter-crashes</guid>
+      <pubDate>Tue, 13 Aug 2024 00:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>一项有争议的人工冷却地球实验被取消——我们知道的原因</title>
+      <link>https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/12/24216232/harvard-solar-geoengineering-policy-analysis-science</guid>
+      <pubDate>Mon, 12 Aug 2024 22:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Wallet 现在几乎可以为任何事物提供数字通行证</title>
+      <link>https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+我非常喜欢将电子通行证存储在手机钱包中，所以当我不得不使用其他应用程序或保存的 PDF 时，我会有点恼火。至少在 Android 上还有更好的方法，这要归功于现在推出的新的 Google Wallet 选项，它使用人工智能生成包含所有相关详细信息的数字版本，您可以像任何其他数字通行证一样使用它。 
+该功能是 Google 在 5 月份的 I/O 大会上宣布的，取代了“添加到钱包”菜单中之前的“照片”选项，可以创建一个更简单的通行证版本，仅显示条形码或二维码。
+该功能被称为“其他一切”，使用它可以让您免于在会场排队时翻遍电子邮件寻找 PDF 文件，或尝试浏览医疗保健提供商的应用程序以获取保险卡图像。 Google Wallet 生成的通行证可用于多种类别，包括名片、身份证、借书证、会员卡、护照和车辆登记证，正如 9to5Google 所述。不过，它目前仅在美国有效。
+
+
+屏幕截图：Google Wallet
+不过，在放弃这张卡之前，您可能希望确保 Sam’s Club 会接受这张卡。
+
+当您选择“其他一切”时，该应用会请求使用 Google 的 AI 处理您的敏感信息的权限，并根据私人通行证、健康通行证或驾驶执照等类别对其进行组织。然后，您可以拍摄通行证的照片，并在处理后调整任何看起来不正确的细节或类别并批准最终产品。 
+Google 已发布使用该功能的说明，并且似乎已于本月初开始推出该功能，虽然我们自己的 Emma Roth 在她的 Galaxy Note 20 上拥有该功能，但我的 Pixel 6 上还没有，但它应该很快就会在更多设备上推出。 ]]></description>
+      <guid>https://www.theverge.com/2024/8/12/24218932/google-wallet-photo-everything-else-id-ticket-ai</guid>
+      <pubDate>Mon, 12 Aug 2024 22:10:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的新群聊功能让对话保留在应用中</title>
+      <link>https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app</link>
+      <description><![CDATA[
+
+Nick Barclay / The Verge 插图
+
+TikTok 正在添加群聊功能，最多可支持 32 人，该公司宣布今天。该功能适用​​于 16 岁及以上的用户，使他们无需打开单独的消息应用程序即可与朋友和家人分享 TikTok。
+您可以通过选择收件箱按钮、点击聊天、选择要包括的朋友，然后点击“开始群聊”来开始群聊。有一些例外：例如，您只有在受到您关注的人的邀请后才能加入群聊。此外，如果您不允许平台上的任何人向您发送消息，您将根本收不到邀请。 
+对于 18 岁以下的青少年，规则也略有不同：他们只有在群聊中至少有一个人关注他们时才能加入群聊。创建群聊的青少年还必须手动审核和批准加入的人。 
+尽管 TikTok 在 2020 年禁用了 16 岁以下用户的 DM，但后来它赋予了应用程序上的其他所有人接受所有用户消息的能力。除了群聊之外，TikTok 还推出了自定义贴纸，18 岁及以上的用户可以创建并上传到平台。 
+TikTok 在群组消息传递领域可能有点迟了，但听起来新功能至少可以让你免去前往 Messenger 或 WhatsApp 群组分享刚刚发现的有趣 TikTok 视频的麻烦。]]></description>
+      <guid>https://www.theverge.com/2024/8/12/24218935/tiktok-group-chats-conversation-in-app</guid>
+      <pubDate>Mon, 12 Aug 2024 21:54:54 GMT</pubDate>
+    </item>
     <item>
       <title>目前 MacBook 的最佳优惠</title>
       <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
@@ -67,69 +145,6 @@ Apple 最近拒绝了 App Store 上的 DOS 模拟器 iDOS 3，但随着 App Stor
 如果您想亲自尝试 iDOS 3，您可以在App Store上以 99 美分的价格购买它。我的同事 Wes Davis 使用 UTM SE 让他的 iPad 运行 Windows XP，玩得很开心。]]></description>
       <guid>https://www.theverge.com/2024/8/12/24218754/apple-idos-3-app-store-pc-emulator-rule-change</guid>
       <pubDate>Mon, 12 Aug 2024 18:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 Pixel 9 发布会有哪些看点</title>
-      <link>https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/7/31/24208625/google-pixel-hardware-event-august-2024-leaks</guid>
-      <pubDate>Mon, 12 Aug 2024 17:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnePlus Pad 2 拥有清晰的显示屏，但价格却很昂贵</title>
-      <link>https://www.theverge.com/2024/8/12/24214545/oneplus-pad-2-android-tablet-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24214545/oneplus-pad-2-android-tablet-review</guid>
-      <pubDate>Mon, 12 Aug 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patreon：加上苹果 30% 的税是留在 App Store 的代价</title>
-      <link>https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-iOS 应用上出售的 Patreon 会员资格很快将受到 Apple 30% 的应用内购买佣金的影响。 Patreon 在周一的一篇文章中表示，苹果公司正在强迫该平台从11 月开始使用该公司的应用内支付系统，否则“有被踢出 App Store 的风险”。
-作为变更的一部分，创作者需要切换到Patreon 的订阅计费方式，才能继续通过该平台的 iOS 应用赚钱。这意味着 Apple 将在首次购买新会员资格时以及每次续订时收取 30% 的佣金。为了帮助抵消新费用的成本，Patreon 将为创作者提供在 iOS 应用中自动提高价格的选项。
-
-
-GIF：Patreon
-
-该费用仅适用于从 2024 年 11 月 4 日起在 Patreon 的 iOS 应用上购买的会员资格。Patreon 上的现有订阅不会受到此更改的影响，在 Patreon 上出售的会员资格也不会受到影响Patreon 的网站或 Android 应用程序。但由于 Patreon 已经有一套平台费用，苹果的佣金将使创作者陷入更艰难的境地。
-“除非创作者选择自己承担苹果应用商店费用，否则由于苹果的应用商店费用，Patreon iOS 应用程序中的新交易将比网络上的相同购买更昂贵，”Patreon 写道。一些创作者可以推迟到 2025 年 11 月才切换到新的计费方式，但一旦苹果的要求生效，他们将无法在 iOS 应用程序中销售会员资格。
-直到今年，Patreon 一直被允许通过使用替代支付处理器来规避苹果 30% 的佣金。 2021 年，Patreon 首席执行官 Jack Conte 在接受 Decoder 采访时表示，该公司并没有与 Apple 签订“特殊合同”，并且该公司必须“像其他人一样遵守 App Store 的政策和审核流程”。他说，苹果可能已经放过了 Patreon，因为“用户来 Patreon 不是为了发现创作者和内容。”
-但去年，Patreon 宣布它将不得不转向苹果的应用内支付系统，苹果对数字商品征收 30% 的佣金将于 2024 年初生效。Patreon 表示，苹果将在今年晚些时候将这项费用扩大到新会员和订阅。]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24218629/patreon-membership-ios-30-percent-apple-tax</guid>
-      <pubDate>Mon, 12 Aug 2024 16:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软确认其 Paint 3D 应用将于 11 月停用</title>
-      <link>https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Paint 3D 曾是微软 Paint 的最大更新应用程序将于今年晚些时候从 Microsoft Store 中移除，并且不再受支持。该应用程序最初是作为 Microsoft 关注 Windows 10 创作者的一部分发布的，甚至一度设置为取代原始的 MS Paint。
-“Paint 3D 已弃用，将于 2024 年 11 月 4 日从 Microsoft Store 中移除，”Microsoft 的支持说明中写道。该应用程序的用户还将在应用程序内看到横幅，警告他们支持已终止。如果需要查看 3D 内容，微软建议 Windows 用户安装其 3D Viewer 应用。
-微软现已推出它的大部分重点是 Windows 11 中现有的 Paint 应用程序，向该应用程序添加一些 Photoshop 的最佳功能，甚至使用 AI 功能对其进行更新。
-Paint 3D 是微软各种​​ Windows 功能和应用程序的最新受害者，这些功能和应用程序最终被删除和停用。 Windows Mixed Reality 去年也遭遇了类似的命运，同时 Microsoft Teams 集成也从 Windows 11 中移除。微软还将于明年终止对 Windows 11 的 Android 应用支持。]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november</guid>
-      <pubDate>Mon, 12 Aug 2024 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Music 的“个人电台”组合与全世界分享你喜爱的歌曲</title>
-      <link>https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-YouTube Music 正在推出一项新的“个人电台”功能，您可以根据自己喜欢的音乐广播每日播放列表，供其他人播放。这项新功能上周由 Reddit 用户发现，现已开始出现在一些 YouTube Music 用户频道页面上 — 您通常会在这些页面上查看自己的热门音乐统计数据。
-据9to5Google报道，个人电台是 YouTube Music 个人资料页面的最新功能，该页面于去年 4 月推出。个人电台（如统计数据）默认设置为私密，因此如果用户希望其他人看到，则必须更新其频道设置，如更新的 YouTube Music 帮助页面中所述。
-
-该功能可用后，您可以转到 YouTube Music 中的个人资料图标，选择“设置”，转到“隐私和位置”，然后选择“频道设置”，将其打开。从那里，打开“启用公共统计数据”或“启用公共个人电台”。
-虽然个人电台是 YouTube Music 的新功能，但最受欢迎的音乐流媒体服务 Spotify 已经具有类似的社交功能。例如，Spotify 的 Friends Mix and Blend 功能可让您和您的朋友将喜爱的曲目混合在一起，以帮助彼此发现音乐。]]></description>
-      <guid>https://www.theverge.com/2024/8/12/24218587/youtube-music-personal-radio-playlist-top-stats-profiles</guid>
-      <pubDate>Mon, 12 Aug 2024 15:55:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
