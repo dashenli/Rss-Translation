@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 14 Aug 2024 15:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:15:04 GMT</lastBuildDate>
+    <item>
+      <title>访谈：游戏开发者 Zach Gage 谈 Pile-Up Poker 以及如何抵制黑暗模式</title>
+      <link>https://sixcolors.com/post/2024/08/interview-game-developer-zach-gage-on-pile-up-poker-and-resisting-dark-patterns/</link>
+      <description><![CDATA[Pile-Up Poker 是 Puzzmo 的一部分。
+Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-Run Pool 和 Really Bad Chess 的创造者，最近他将自己从开发出色的 iOS 游戏中学到的所有知识运用到 Puzzmo 中，这是一个由 Hearst 拥有的每日谜题和游戏网站。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/interview-game-developer-zach-gage-on-pile-up-poker-and-resisting-dark-patterns/</guid>
+      <pubDate>Wed, 14 Aug 2024 20:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 508：全力以赴</title>
+      <link>https://sixcolors.com/podcast/2024/08/the-rebound-508-firing-on-all-three-cylinders/</link>
+      <description><![CDATA[Apple 挤压 Patreon、新款 Mac mini 以及旅行提示和烦恼。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/the-rebound-508-firing-on-all-three-cylinders/</guid>
+      <pubDate>Wed, 14 Aug 2024 18:26:32 GMT</pubDate>
+    </item>
     <item>
       <title>苹果下一轮服务增长将来自哪里？（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2426549</link>
@@ -102,23 +117,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
       <description><![CDATA[Myke 对 Apple Intelligence 的体验大多是正面的（Siri 除外），Apple 的结果让我们考虑到 Services 的强大功能，而 Color Czar 可能又在玩他们的老把戏了。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/upgrade-523-i-got-it-to-hallucinate-already/</guid>
       <pubDate>Mon, 05 Aug 2024 22:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disney+ Vision Pro 应用程序添加了冰岛环境 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/disney-vision-pro-app-adds-iceland-environment/</link>
-      <description><![CDATA[现在您可以在冰岛以 3D 形式观看《蚁人》（和《复仇者联盟》）。
-Disney+ 一直走在其 Vision Pro 应用程序上提供独特环境的前沿，因此您可以在复仇者大厦或怪物公司观看电影……]]></description>
-      <guid>https://sixcolors.com/link/2024/08/disney-vision-pro-app-adds-iceland-environment/</guid>
-      <pubDate>Mon, 05 Aug 2024 19:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
-      <link>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</link>
-      <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
-解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
-甲板看起来太杂乱了。”…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/08/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:00:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
