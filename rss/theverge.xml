@@ -4,168 +4,142 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Aug 2024 15:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 18:19:24 GMT</lastBuildDate>
     <item>
-      <title>AMD 的新款 Zen 5 CPU 在早期评测中未能给人留下深刻印象</title>
-      <link>https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x</link>
+      <title>高端赛车现在容易受到黑客攻击</title>
+      <link>https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters</link>
       <description><![CDATA[
 
-图片：AMD
+照片由 Alex Broadway / Getty Images 拍摄
 
-AMD 本月早些时候推出了首款 Zen 5 台式机处理器，而明天，它即将发布一款看起来令人失望的旗舰 Ryzen 9 9950X CPU。最初的 Zen 5 CPU（Ryzen 7 9700X 和 Ryzen 5 9600X）的早期评测显示，它们缺乏性能改进和效率，现在对旗舰产品 Ryzen 9 9950X 的评测也得出了同样的结论。
-Hardware Unboxed 已使用 9950X 测试各种生产力工作负载和游戏，结果显示，在大多数情况下，上一代 Ryzen 9 7950X 芯片看起来更有价值。
-在使用 RTX 4090 以 1080p 运行的 13 场游戏平均速度中，Hardware Unboxed 发现 9950X 仅比现有的 7950X 快百分之一。 AMD 的新旗舰 Zen 5 CPU 提供的性能与两年前基本相同。在电源方面也没有真正的效率改进。“从游戏的角度来看，9950X 完全是失败之作，”Hardware Unboxed 的 Steve Walton 总结道。
-
-9950X 在生产力方面也同样令人失望。Hardware Unboxed 发现压缩和解压缩工作的性能实际有所下降，在 Cinebench、Blender 和 Photoshop 中的图像编辑等测试中，与 7950X 相比略有改进。平均而言，在这些生产力测试中，9950X 仅比 7950X 快 3%。
-Gamers Nexus 的 Steve Burke 也有类似的发现，他得出的结论是 7950X 对于生产力工作负载更有价值，并且 我们去年评测过的 7800X3D 仍然是整体上更好的游戏芯片。
-结果与 AMD 的“怪物”承诺相去甚远，承诺在生产力和游戏方面都能提高性能。 AMD 在The Verge的新闻发布会上将 Zen 5 描述为一次“巨大的飞跃”，并对此“感到非常自豪”。 
-JayzTwoCents 表示 AMD“在这次发布会上搞砸了”，这一点很难不同意。在英特尔第 13 代和第 14 代 CPU 出现崩溃问题并导致延长保修期之际，许多人都希望 AMD 的新款 Zen 5 CPU 能够与英特尔形成强有力的竞争。现在，所有人的目光都集中在英特尔预计将于今年晚些时候推出的 Arrow Lake 台式机 CPU 上。]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220250/amd-zen-5-cpu-reviews-ryzen-9-9950x</guid>
-      <pubDate>Wed, 14 Aug 2024 14:49:09 GMT</pubDate>
+一组计算机科学家发现，高端自行车的无线变速系统容易受到网络安全攻击，这可能会破坏环法自行车赛等热门赛事。
+无线变速系统旨在让骑手更好地控制自行车，据加州大学圣地亚哥分校称，该校研究人员与东北大学的研究人员合作开展了这项研究。但现代化也带来了一系列新的问题，即黑客漏洞。研究人员写道，这些弱点可能被利用“获得不公平的优势，通过操纵变速杆或干扰变速操作，可能导致撞车或受伤”。
+该小组专门研究了配备 Shimano Di2 无线变速技术的自行车，该小组称其为“市场领导者”。据加州大学圣地亚哥分校称，该系统的工作原理是“在骑手控制的变速杆和在自行车齿轮之间移动链条的装置（称为变速器）之间部署无线链路”。通过记录并重新传输这些命令，研究人员发现他们能够使用“现成的设备”在最远 10 米外发起攻击。他们还发现，通过有针对性的干扰攻击，可以禁用某辆特定自行车的变速功能，而不是影响所有周围的自行车。
+加州大学圣地亚哥分校表示，研究人员目前正在与 Shimano 合作修补漏洞，该公司已经开始使用他们建议的一些对策。Shimano 没有立即回应置评请求。
+“职业自行车运动与非法兴奋剂斗争的历史凸显了这种无法检测的攻击的吸引力，这些攻击同样可能损害这项运动的完整性，”研究人员说。 “考虑到这些风险，我们必须站在对手的角度，确保这项技术能够在激烈的职业自行车运动环境中抵御有动机的攻击者。”]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220390/bike-hack-wireless-gear-shifters</guid>
+      <pubDate>Wed, 14 Aug 2024 18:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>如何远程排除他人计算机故障</title>
-      <link>https://www.theverge.com/24218621/it-tech-support-remote-control-how-to</link>
+      <title>史上最离奇的“30亿人”数据泄露事件</title>
+      <link>https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion</link>
+      <description><![CDATA[
+
+插图：Beatrice Sala
+
+National Public Data 是一家收集个人数据以转售和处理背景调查的公司，目前正面临一项集体诉讼，该诉讼称该公司是大规模数据泄露的源头，泄露的信息包括社会安全号码等据称涉及“30 亿人”的信息，据彭博法律报道。
+据 BleepingComputer 报道，据称被盗数据库于 4 月份由一个名为 USDoD 的黑客组织在暗网上以 350 万美元的价格出售。该公司宣称，此次泄露的 29 亿行数据来自国家公共数据公司 (NPD)，该公司的 DBA 名称据称是 Jerico Pictures, Inc.。NPD 尚未就此次泄密事件公开发表评论，也未对相关问题作出回应。
+BleepingComputer 报道称，多个消息来源发布了部分副本，每条记录都包含姓名、邮寄地址和社会安全号码，在某些情况下还可能包含美国、加拿大和英国人的化名。许多记录都是重复的，因此可能影响的人数要少得多。 X 上的黑客和恶意软件追踪者 @vxunderground 也查看了数据并指出它不包含使用数据退出服务的人的记录，这支持了它来自数据聚合器的想法。
+如果您收到有关您的信息包含在数据泄露中的警报，除了留意您的信用报告中的任何可疑活动外，BleepingComputer还警告人们警惕使用泄露信息的诈骗和网络钓鱼攻击，这些攻击可能会试图让您透露更多私人信息。
+
+
+这个故事比数据更受关注本身就是有道理的，我今天仍然看到夸张的标题。详细阅读以撰写像这样的长篇博客文章非常耗时，但这个是值得的。https://t.co/BsO3UXfRHA— Troy Hunt (@troyhunt) 2024 年 8 月 13 日
+
+
+Have I Been Pwned 操作员 Troy Hunt 有查看类似数据泄露的经验。他跟踪并整理他们的信息，以便在他们的信息被泄露时提醒人们，他说这组数据有一些奇怪的地方，使得整个事情“......仅供参考，一个有趣的故事，不需要采取任何进一步行动。”
+在 Hunt 的博客上，他写道，“没有简洁的方式来解释违规行为的细微差别”，因为所谓的违规来源是一家公司，其个人数据并未直接提供给该公司，因此很难追溯。
+Hunt 查看了数据，发现一组数据有社会安全号码，但没有电子邮件地址，而另一个拥有 1 亿个唯一电子邮件地址，但其余数据“看起来相当随机”。他在列表中找到了自己的电子邮件，但确认旁边的信息不准确。亨特补充道：
+最后，我想重申我之前提出的观点：社会安全号码文件中没有电子邮件地址。如果您发现自己通过 HIBP 遭遇了这种数据泄露，则没有证据表明您的 SSN 被泄露，如果您和我一样，您的记录旁边的数据甚至可能不正确。
+]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion</guid>
+      <pubDate>Wed, 14 Aug 2024 17:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于应用程序危机持续，Sonos 裁员 100 人</title>
+      <link>https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Sonos 今早裁员约 100 人，一位知情人士告诉The Verge。受影响的员工——我听说营销部门遭受了重大打击——突然失去了对公司内部网络的访问权限。 Sonos 还正在关闭部分客户支持办公室，其中包括位于阿姆斯特丹的一家将于今年晚些时候关闭的办公室。 
+Sonos 报告称，2022 年 10 月员工总数超过 1,800 人。该公司第二年，即 2023 年 6 月，裁员 7%。
+这些最新裁员正值 Sonos 继续努力应对其灾难性的移动应用程序重新设计所带来的后果之际。在上周的 Sonos 财报电话会议上，首席执行官帕特里克·斯宾塞 (Patrick Spence) 强调，修复应用程序是公司的首要任务——以至于原定于今年晚些时候推出的两款硬件现已推迟，以将所有注意力集中在应用程序上。 
+“我不会休息，直到我们能够解决问题并让客户再次对 Sonos 赞不绝口，”斯宾塞说。 “我们认为，我们的重点需要放在解决应用程序上，而不是其他任何事情上。” 你可能会认为减少公司的员工数量与这一目标背道而驰，但这正是 Sonos 所做的。 The Verge 已联系 Sonos 征求意见。
+应用程序困境变得如此严峻，Sonos 已任命董事会成员 Thomas Conrad 负责监督改进工作并确保工作按计划进行。Spence 还表示，首席创新官 Nick Millington（他设计了最初的 Sonos 系统体验）已被要求“尽一切努力解决我们新应用程序的问题”。
+Spence 于 2017 年成为 Sonos 的首席执行官，尽管他已经带领 Sonos 成功发布了一系列产品，但他越来越多地接到沮丧客户的电话，要求他辞职，因为他让公司陷入了这种困境。“在应用程序方面，我对速度的追求适得其反，”他在 8 月 7 日的电话中承认。]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220357/sonos-layoffs-august-2024-app</guid>
+      <pubDate>Wed, 14 Aug 2024 17:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Halide 的全新“Process Zero”功能无需 AI、无需处理，即可拍摄照片</title>
+      <link>https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai</link>
+      <description><![CDATA[
+
+Halide 可让您选择所需的图像处理，包括完全不进行处理。 | 图片：Lux Optics
+
+现在比以往任何时候都更难知道照片到底是什么——以及当 AI 和处理将照片变成完全不同的东西时。谷歌、三星、苹果和其他公司正在让根据自己的喜好调整照片、将几张平庸的照片组合成一张精彩的照片，或者在照片中添加或删除内容 — 包括你自己 — 变得前所未有的简单。其中许多功能都很酷，但生成的文件真的是照片吗？ 
+iPhone 上最好的相机应用之一正在完全走另一条路。Halide 今天更新了一项名为“Process Zero”的新功能，该功能将所有 AI 和处理从摄影中移除，并尝试将您的拍摄照片恢复到十年前数码相机拍摄的效果。
+Halide 一段时间以来一直提供选择要使用哪种处理管道的功能，无论是标准 iPhone 图像处理器还是高端 ProRAW 系统。它甚至提供“精简”模式，类似于 Apple 的系统，但强度略低一些。（而且根据我的经验，通常要好得多。）没错，Process Zero 是另一种管道，但它是无管道管道。 
+Lux Optics 是 Halide 和视频应用 Kino 的生产商，该公司表示，在启用 Process Zero 的情况下按下快门按钮时，该应用将捕捉一张 1200 万像素的图像，其中包含一个 RAW DNG 文件，您稍后可以使用该文件进行编辑。 （您还可以在应用程序中打开新的 Image Lab，并使用 Process Zero 重新处理旧的 RAW 照片。）由于处理量少得多，因此捕捉速度也应该更快，这对于快速移动的主体非常有用。
+
+Lux Optics 将 Process Zero 输出与胶片拍摄进行了比较：您可能会得到色差或传感器颗粒，但您也会得到看起来更自然的照片。该公司的示例可以提醒您每次拍照时手机究竟进行了多少处理 - 以及它有多有用。新墨西哥州小山的照片在经过完全处理后看起来更清晰、更明亮，但不知何故不自然，但 Apple 的处理也可以将低光图像从嘈杂和暗淡变为看起来相当不错。大多数时候，您更喜欢哪种方式取决于个人品味。
+
+Halide 并不想在图像处理领域大展拳脚，而是想给您更多选择。默认图像管道越来越激进、越来越人工智能化，并且越来越执着于捕捉某种类型的图像。Process Zero 摒弃了所有这些，尽可能自然地捕捉场景。您用它做什么，这取决于您。但您是从照片的真实面目开始的——或者至少更接近它。]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai</guid>
+      <pubDate>Wed, 14 Aug 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>预订 Google Pixel Buds Pro 2 即可获赠 30 美元礼品卡</title>
+      <link>https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24218621/it-tech-support-remote-control-how-to</guid>
-      <pubDate>Wed, 14 Aug 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/14/24219518/google-pixel-buds-pro-2-logitech-g309-lightspeed-gaming-mouse-deal-sale</guid>
+      <pubDate>Wed, 14 Aug 2024 16:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 Pixel 9 发布会还带来了一款新的 45W USB-C 充电器</title>
-      <link>https://www.theverge.com/2024/8/14/24220190/google-charger-usb-c-pixel-9-price</link>
-      <description><![CDATA[
-
-Google 的新款 45W 充电器今天开始接受预订，预计最早下周发货。 |图片：Google
-
-在昨天的 Made by Google 活动中，有一款设备没有在主舞台上亮相，那就是该公司的新款45W USB-C 充电器。这并不完全令人惊讶，因为新的 Pixel 9 系列、Pixel Watch 3 和 Pixel Buds Pro 2 都被谷歌的人工智能所掩盖努力。。
-45W 充电器取代了谷歌的 30W 充电器，后者不再列在公司的在线商店中。它采用比 30W 选项更圆润的设计，并将 USB-C 端口重新定位到充电器的底部，而不是与插头对齐。这将使其更容易安全地插入墙上插座，但可能会导致电源板拥挤。
-升级到 45W 意味着新充电器有足够的功率来满足新的 Pixel 9 系列的需求。 Pixel 9 Pro Fold 是新机型中最慢的一款，其最大充电速度为 21W，而 Pixel 9 Pro XL 的充电速度最高可达 37W。这对于 Pixel Tablet 和许多 Chromebook 来说也绰绰有余，使新充电器可与更多设备兼容。
-您可以通过 Google 的在线商店以 29.99 美元的价格预订 Google 45W USB-C 电源充电器，预计最早下周发货。如果您想节省十英镑，也可以通过百思买 (Best Buy) 以 19.88 美元的价格预订，但它加入了一个拥挤的市场，您已经可以从 Anker 等公司购买更小的 45W 充电器，价格不到 20 美元。]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220190/google-charger-usb-c-pixel-9-price</guid>
-      <pubDate>Wed, 14 Aug 2024 13:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Pixel 发布会上，AI 的光芒盖过了 Pixel</title>
-      <link>https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed</link>
+      <title>以下是你现在可以获得的最佳 AirPods 优惠</title>
+      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed</guid>
-      <pubDate>Wed, 14 Aug 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
+      <pubDate>Wed, 14 Aug 2024 16:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>三星全新家庭护理服务帮助护理人员监控亲人</title>
-      <link>https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date</link>
+      <title>X 的新 AI 图像生成器可以制作任何东西，从身穿内衣的泰勒·斯威夫特到手持枪支的卡马拉·哈里斯</title>
+      <link>https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date</guid>
-      <pubDate>Wed, 14 Aug 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges</guid>
+      <pubDate>Wed, 14 Aug 2024 16:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>微软在 Windows 11 上默认启用 BitLocker 设备加密</title>
-      <link>https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default</link>
-      <description><![CDATA[
-
-照片由 Chris Welch / The Verge 拍摄
-
-微软将 BitLocker 设备加密作为 Windows 11 下一次重大更新的默认功能。如果您全新安装未来几个月推出的 24H2 版本，设备加密将当您首次使用 Microsoft 帐户或工作/学校帐户登录或设置设备时，默认情况下启用。
-设备加密旨在通过在 Windows 安装驱动器上自动启用 BitLocker 加密并将恢复密钥备份到 Microsoft 帐户或 Entra ID 来提高 Windows 机器的安全性。 
-在 Windows 11 版本 24H2 中，Microsoft 降低了自动设备加密的硬件要求，使其向更多设备开放 - 包括运行 Windows 11 家庭版的设备。设备加密不再需要硬件安全测试接口 (HSTI) 或现代待机，即使检测到不受信任的直接内存访问 (DMA) 总线/接口，也会启用加密。
-
-
-图片：Microsoft
-Windows 11 版本 24H2 中的新设备加密设置。
-
-最新的 Windows 11 版本 24H2 更新预装在 Microsoft 的 Copilot Plus PC 系列上，预计将于 9 月底在现有机器上推出。这意味着，如果您在今年晚些时候全新安装 Windows 11 或购买安装了 24H2 的新 PC，则默认情况下将启用 BitLocker 设备加密。如果您只是升级到 24H2，Microsoft 将不会自动启用设备加密。
-该功能可能会影响某些设备上的 SSD 性能。Tom’s Hardware测试了该软件版本的 BitLocker，发现它可能会使驱动器速度降低高达 45%。自 5 月初以来，我们多次要求微软对默认启用 BitLocker 设备加密发表评论，但该公司仅通过支持文档确认了其计划，其中未提及任何潜在的性能影响。
-
-
-截图来自 Tom Warren / The Verge
-您需要一个 Microsoft 帐户才能启用设备加密。
-
-如果您在干净的 Windows 11 版本 24H2 安装上使用本地帐户，则可以避免自动设备加密。当您首次设置新机器并使用本地帐户登录时，系统会提示您使用 Microsoft 帐户登录以完成设备加密。不过，仍然可以使用本地帐户上的 BitLocker 控制面板手动启用 BitLocker。您还可以通过 Windows 11 设置界面的隐私和安全部分中的切换按钮禁用设备加密。
-微软着手通过要求使用现代处理器、安全启动和 TPM（可信平台模块）芯片，以有意义的方式提高 Windows 11 的安全性。这些要求虽然存在争议，但也允许微软在两年前默认启用其虚拟化内存完整性功能，以更好地保护 Windows 11 系统免受恶意代码的侵害。]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220138/microsoft-bitlocker-device-encryption-windows-11-default</guid>
-      <pubDate>Wed, 14 Aug 2024 11:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>xAI 的全新 Grok-2 聊天机器人将 AI 图像生成功能引入 X</title>
-      <link>https://www.theverge.com/2024/8/14/24220127/grok-ai-chatbot-beta-image-generation-x-xai-update</link>
-      <description><![CDATA[
-
-图片：xAI
-
-埃隆·马斯克的人工智能公司 xAI 推出了 Grok-2 和 Grok-2 mini：其 Grok 的两款新型号聊天机器人提供升级的性能和新的图像生成功能。 Grok 的基于提示的图像制作器由 Black Forest Lab 的 Flux 1 AI 模型 提供支持，并允许用户直接生成图像并将其发布到 X 社交平台 — 似乎几乎没有采取任何措施来防止滥用。
-xAI 表示，Grok-2 和 Grok-2 mini 在 X 上提供测试版（Grok 访问权限目前仅限于 Premium 和 Premium Plus 订阅者），并且这两种型号都将于本月晚些时候通过 AI 开发人员的企业 API 提供。
-“我们很高兴发布 Grok-2 的早期预览版，这是我们之前型号 Grok-1.5 向前迈出的重要一步，具有聊天、编码和推理方面的前沿能力，”xAI 在其公告中表示，描述了聊天机器人比其前身“更直观、更可控、功能更多”。与此同时，根据 xAI 的说法，Grok-2 mini 是 Grok-2 的“小巧但功能强大的兄弟”，它“在速度和答案质量之间取得了平衡”。
-
-
-Grok 2.0 .... Ohh boyyyy pic.twitter.com/TjzB7WMhVp— Benjamin De Kraker ‍☠️ (@BenjaminDEKR) 8 月 14 日， 2024
-
-
-Grok 的新图像生成器生成的一些早期示例已经出现在网上，这表明对于用户可以制作的内容几乎没有限制。生成的图像描绘了可识别的唐纳德·特朗普和巴拉克·奥巴马等政治人物开枪和吸食非法药物——这可能会加剧人们对聊天机器人传播虚假选举信息的担忧。
-
-
-它在这方面真的很擅长 pic.twitter.com/gpAg54BWsg— shb (@himbodhisattva) 2024 年 8 月 14 日
-
-
-这些 Grok 生成的图像似乎也没有进行任何形式的披露以将其标记为 AI 生成。我们曾询问 X 是否会对图像生成进行限制，但自马斯克于 2022 年收购该平台以来，该平台一直一直回避媒体问询。]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220127/grok-ai-chatbot-beta-image-generation-x-xai-update</guid>
-      <pubDate>Wed, 14 Aug 2024 11:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果让步并批准 Spotify 应用按欧盟价格定价</title>
-      <link>https://www.theverge.com/2024/8/14/24220105/spotify-iphone-app-pricing-information-eu-update</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-Spotify 将从今天开始向欧盟的 iPhone 用户显示应用内定价信息，此前该公司与苹果公司进行了长达数年的法律斗争。 Apple。在对旧博客文章的更新中，Spotify 表示，欧盟 iPhone 用户现在将看到促销优惠和每个订阅等级的定价信息，包括促销结束后套餐费用。
-缺少的一项功能是单击链接从 Apple App Store 之外进行购买的功能。 Spotify 表示，它选择加入苹果公司在 3 月份因“滥用其在音乐流媒体领域的主导地位”而被欧盟反垄断罚款（18.4 亿欧元（约合 20 亿美元））后推出的“音乐流媒体服务授权”，而不是接受苹果公司上周提出的复杂的新开发者条款。与授权不同，后者将允许欧盟开发者链接到外部支付选项，而苹果将从平台外销售中抽取一定比例。Spotify 显然不想这样做，称苹果要求征收“非法和掠夺性税收”。 
-
- 
-
-图片：Spotify / The Verge
-以下是欧盟 iPhone 用户之前看到的内容...
-
-
- 
-
-图片：Spotify
-... 之后，现在有了透明的定价。某些选项还会引导客户通过 Spotify 网站购买 Premium 订阅。
-
-
-
-Spotify 自 2019 年首次针对 App Store 规则提起反垄断投诉以来，一直在欧盟与苹果公司展开斗争。就在 3 月份，Spotify 表示，苹果公司正在阻止像今天这样的变化。 
-更新，8 月 14 日：替换了 Spotify 提供的过时图像。]]></description>
-      <guid>https://www.theverge.com/2024/8/14/24220105/spotify-iphone-app-pricing-information-eu-update</guid>
-      <pubDate>Wed, 14 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve 确认将通过其 Steam Deck 操作系统支持 ROG Ally</title>
-      <link>https://www.theverge.com/2024/8/13/24219469/valve-steamos-asus-rog-ally-steady-progress-dual-boot</link>
-      <description><![CDATA[
-
-
-Valve 曾经设想，每家 PC 制造商都可以拥有自己的“Steam Machine”，即运行该公司基于 Linux 的 SteamOS 的 PC 游戏机。这个梦想花了十年时间才演变成公司自己内部开发的 Steam Deck 游戏掌机，但最初的梦想并没有破灭。 
-该公司长期以来表示，它计划让其他公司也使用 SteamOS — — 这意味着明确支持竞争对手华硕 ROG Ally 游戏掌上电脑，Valve 设计师 Lawrence Yang 现在向 The Verge 证实了这一点。
-几天前，有人在Valve 最新的 SteamOS 发行说明中发现了一行有趣的文字：“增加了对额外 ROG Ally 按键的支持。”我们根本不知道 Valve 支持任何 ROG Ally 按键，更不用说额外的按键了！ 
-也许 Valve 只是在 Windows 上的 Steam 桌面客户端中支持这些按键，它为任何 PC 提供类似 Steam Deck 的大画面模式界面，而这行错误地出现在这些补丁说明中？我问了，以确保安全。
-但不是：这确实是关于 Valve 最终支持 ROG Ally 和其他竞争对手的手持设备！
-“关于 ROG Ally 按键的说明与 SteamOS 的第三方设备支持有关。该团队正在继续努力在 SteamOS 上增加对其他手持设备的支持，”Yang 告诉我。
-
-当然，这并不意味着华硕将正式支持 Valve 的安装程序或销售带有 SteamOS 的 Ally。 （华硕告诉我，它搭载 Windows 的原因有很多；其中最重要的一个原因是微软有专门的验证团队，确保其操作系统可以在许多不同的硬件配置和芯片上运行。）
-Valve 也并没有暗示它会在近期为竞争对手的掌上电脑提供 SteamOS。Yang 告诉我，Valve 正在“稳步推进”，但“尚未准备好开箱即用”。
-我们已经知道 Valve 计划发布 SteamOS 3 的通用版本，理论上您也可以在非掌上电脑上安装；Yang 表示，它在这方面也取得了类似的进展，但还没有准备好。
-所以，以上就是将 Windows 掌上电脑变成 Steam Machines 的最新进展；Valve 承诺让您将 Steam Decks 也变成双启动的 Windows 机器，让您随意在两个操作系统之间切换，这又如何呢？ Yang 对此表示：
-至于 Windows，我们正准备提供 Steam Deck OLED 的其余 Windows 驱动程序（您可能已经看到我们正在为蓝牙驱动程序准备固件）。双启动支持的时间没有更新——它仍然是一个优先事项，但我们目前还无法实现它。
-Valve 并不是唯一一家将其引人注目的 Linux 和控制器友好的 Steam UI 组合应用于 Windows 手持设备的公司。Universal Blue 宣称其 Bazzite 操作系统在华硕 ROG Ally X 发布之前就已经实现了对华硕 ROG Ally X 的支持。]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24219469/valve-steamos-asus-rog-ally-steady-progress-dual-boot</guid>
-      <pubDate>Wed, 14 Aug 2024 00:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>每次谷歌在 Pixel 9 发布会上批评苹果</title>
-      <link>https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event</link>
+      <title>Anker 的新电站可同时使用两个 USB-C 适配器进行更快的充电</title>
+      <link>https://www.theverge.com/2024/8/14/24216885/anker-solix-c300-dc-power-charger-usb-c</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/13/24219764/google-dinged-apple-pixel-9-launch-event</guid>
-      <pubDate>Tue, 13 Aug 2024 21:55:53 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/14/24216885/anker-solix-c300-dc-power-charger-usb-c</guid>
+      <pubDate>Wed, 14 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果终于要开放 iPhone 触碰支付功能了</title>
+      <link>https://www.theverge.com/2024/8/14/24220323/apple-iphone-tap-to-pay-nfc-api</link>
+      <description><![CDATA[
+
+照片由 Vjeran Pavic / The Verge 拍摄
+
+从 iOS 18.1 开始，Apple 将允许开发人员使用安全元件提供应用内 NFC 交易，作为更新的一部分，您还可以设置默认的非接触式支付应用，只需双击 iPhone 的侧面按钮即可访问。此前，Apple 只允许在双击该按钮时显示 Apple Pay。
+通过此更改，开发人员将能够为各种应用提供应用内非接触式交易，包括“店内支付、车钥匙、闭环交通、公司徽章、学生证、家庭钥匙、酒店钥匙、商家忠诚度和奖励卡以及活动门票。”到目前为止，第三方应用程序的 NFC 访问仅限于读取标签。
+苹果的新闻稿称，政府身份证将“在未来”得到支持。
+苹果表示，构建这些应用程序的相关 API 将在即将发布的 iOS 18.1 开发者测试版中提供给澳大利亚、巴西、加拿大、日本、新西兰、英国和美国的开发者，并“随后将扩展到更多地区”。然而，想要利用苹果 API 的开发者必须“与苹果签订商业协议，申请 NFC 和 SE 授权，并支付相关费用。”
+这一转变是在欧盟委员会进行反垄断调查后，苹果向第三方提供商开放 iPhone NFC 支付的提议之后做出的。欧盟委员会上个月宣布，它已使苹果的承诺具有法律约束力。]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220323/apple-iphone-tap-to-pay-nfc-api</guid>
+      <pubDate>Wed, 14 Aug 2024 15:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Realme 的 320W 快速充电可在四分半钟内为智能手机充满电</title>
+      <link>https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge</link>
+      <description><![CDATA[
+
+Realme 在深圳举办的活动中展示了其全新的 320W 超音速充电技术。 |图片：Realme
+
+Realme 凭借其新的 320W 超音速充电技术，再次在快速充电竞赛中占据领先地位。该公司通过在 4 分 30 秒内为配备 4,420mAh 电池（比新的 Pixel 9 和 9 Pro 中的电池略小）的智能手机充满电来展示这项技术。
+充电速度的提高得益于在中国深圳举行的活动中宣布的两项关键创新。 Realme 成功将去年推出的现有 240W 充电器的功率输出提升至 320W，同时不增加其尺寸。升级版充电器名为 Pocket Cannon，现在还配备两个 USB-C 端口，能够为 Realme 的智能手机提供 150W 功率，为笔记本电脑等设备提供 65W 功率。
+
+
+320W SuperSonic Charge 今日正式亮相！点击视频了解其背后的技术，并查看充满电需要多长时间！#realme828Fanfest #320WFastestCharge pic.twitter.com/osefpxcRlT— realme Global (@realmeglobal) 2024 年 8 月 14 日
+
+
+另一项创新是新的 4,420mAh 电池，带有四个独立电池，可以同时充电，还可以折叠起来塞进智能手机内。苹果和三星的智能手机目前使用单芯电池，通常容量更大，而 OnePlus 和 Realme 等公司则使用双芯电池，充电时间更快。
+去年年初，Realme 推出了 GT Neo 5，当时，它是市面上充电速度最快的智能手机，具有 240W 的充电能力，可以在九分半钟内完全充满 4,600mAh 的电池。不到一个月后，另一家中国手机制造商、小米的子公司 Redmi 宣布推出 300W 快速充电技术，在演示过程中，该技术能够在大约五分钟内为配备 4,100mAh 电池的智能手机充满电。
+到目前为止，Redmi 的 300W 充电技术尚未包含在该公司的任何设备上，目前，Realme 的新 320W 技术也是如此。该公司没有透露在其充电演示中使用的是哪款智能手机，也没有宣布未来将包括新的 SuperSonic Charge 功能和四芯电池的设备。]]></description>
+      <guid>https://www.theverge.com/2024/8/14/24220225/realme-power-usb-c-supersonic-charge</guid>
+      <pubDate>Wed, 14 Aug 2024 15:49:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
