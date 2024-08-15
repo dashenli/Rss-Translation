@@ -4,7 +4,112 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 15 Aug 2024 18:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 21:15:49 GMT</lastBuildDate>
+    <item>
+      <title>谷歌升级版 AI 图像生成器现已推出</title>
+      <link>https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available</link>
+      <description><![CDATA[
+
+Imagen 3 创建了这张 Google 徽标图像。 |图片：Emma Roth / Imagen 3
+
+据VentureBeat报道，Google 已向美国用户发布了其 AI 文本转图像生成器 Imagen 3 的最新版本。您可以在Google 的 AI Test Kitchen上访问该工具，与 Google 之前的模型相比，该工具应该能够生成“细节更丰富、光线更丰富、干扰伪影更少”的图像。
+Google 于 5 月份的 I/O 大会期间首次宣布其更新的 Imagen 3 工具，但似乎只是在过去几天内才通过其 Vertex AI 平台向公众推出该工具。一些 Reddit 用户上周开始尝试 Imagen 3，谷歌于周二发表了一篇关于该工具的研究论文。
+与其他 AI 图像生成器一样，Imagen 3 可以根据您的提示创建详细的图像。您还可以通过突出显示某个部分并描述要更改的内容来编辑图像。
+
+
+
+似乎有一些限制，因为该工具将拒绝生成公众人物的图像，例如泰勒·斯威夫特，也不会生成武器的图像。虽然它不会生成有名有姓的受版权保护的角色，但您可以通过描述要创建的角色轻松解决这个问题。 
+我得到了这个工具，它可以生成非常像刺猬索尼克和马里奥的图像，而我的同事可以创建类似米老鼠的角色。我还发现它可以生成苹果、梅西百货、好时甚至谷歌等公司的徽标，您可以在本文顶部的图片中看到这些徽标。
+尽管这些防护措施有些灵活，但 Imagen 3 仍然与埃隆马斯克 X 平台上的 AI 图像生成器 Grok 形成鲜明对比。 Grok 已被用于生成各种疯狂内容，包括毒品、暴力和公众人物做可疑事情的图片。
+但谷歌的人工智能工具也遇到了一些问题。今年早些时候，谷歌停止让人们使用其 Gemini AI 聊天机器人生成图像，因为用户发现它创建了与历史不准确的图像。]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available</guid>
+      <pubDate>Thu, 15 Aug 2024 21:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的 VR 版《GTA：圣安德列斯》“无限期搁置”</title>
+      <link>https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold</link>
+      <description><![CDATA[
+
+这是《侠盗猎车手：圣安地列斯 - 终极版》的屏幕截图。我们从未见过 VR 端口的镜头。 |图片：Rockstar Games
+
+《侠盗猎车手：圣安德列斯》的 Quest 版本于近三年前首次发布，但 Meta 向 IGN 和 YouTube 视频评论证实，该版本“无限期搁置”。 Meta Quest VR 账号在回应 Skydance 的《Behemoth》视频的评论时表示：“我们都将专注于其他项目，因此《GTA：圣安德列斯》无限期搁置。” “我们期待未来与 Rockstar 的朋友们合作。”
+Meta 于 2021 年 10 月 在 Connect 大会上宣布了这款游戏，并表示该游戏正在为 Meta Quest 2 开发。“当您（再次或第一次）体验游戏中最具标志性的开放世界之一时，可以从新的角度看待洛圣都、圣菲耶罗和拉斯文图拉，”Meta 在一篇博文中写道。“这是一个酝酿多年的项目，我们迫不及待地想向大家展示更多。”
+当时，Meta 和 Rockstar Games 并未分享任何关于《圣安德列斯》VR 版本的视频或截图。现在看来，我们可能永远都看不到它了。Meta 和 Rockstar 并未立即回复置评请求。]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24221315/meta-vr-version-gta-san-andreas-on-hold</guid>
+      <pubDate>Thu, 15 Aug 2024 20:36:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以将 Meta Quest 用作 HDMI 设备的屏幕</title>
+      <link>https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c</link>
+      <description><![CDATA[
+
+有了合适的硬件，您现在可以将 Meta Quest 连接到具有 HDMI 或 DisplayPort 输出的设备。 |照片由 Becca Farsace / The Verge 拍摄
+
+Meta 发布了一款适用于 Quest 3、2 和 Pro 的新应用，让您可以将耳机用作游戏机、笔记本电脑或任何具有视频输出功能的设备的屏幕。使用免费的 Meta Quest HDMI Link 应用程序可以 需要额外的硬件，但这仍然是一种相对便宜的重新利用耳机的方式，而不是购买单一用途的视频眼镜的价格可能一样高。
+在分享给Meta Quest Blog 上警告称，实现这一功能并不像使用 Air Link 那么简单，Air Link 允许 Quest 头戴设备通过 Wi-Fi 从 PC 传输视频。您无需使用电缆将 PS5、Pixel 9 甚至笔记本电脑直接插入 Quest 的 USB-C 端口，而是需要添加兼容 UVC（USB 视频类）和 UAC（USB 音频类）的 1080p 采集卡。
+
+
+图片：Meta
+您可以找到价格低于 20 美元的采集卡，但您可能想花大价钱买一张带有额外电源端口的采集卡，以便在连接时为 Quest 耳机充电。
+
+这些采集卡现在和 USB 闪存盘一样小，价格不到 20 美元（注：The Verge 尚未测试此产品或亚马逊上目前提供的任何产品），并且通常在一端配备 HDMI 端口，另一端配备 USB-A 或 USB-C 连接。一些采集卡甚至包括一个用于电源适配器的额外端口，这将使 Quest 在连接时保持充电状态。
+在支持的 Quest 耳机上安装 Meta Quest HDMI Link 应用程序后，您可以使用任何必要的电缆（USB-C 转 HDMI、Lightning 转 HDMI 等）将视频源设备连接到采集卡的输入，然后将该适配器直接连接到耳机。Quest 启动后，您还需要“授予必要的权限”，但此后，可以在浮动可调整大小的屏幕上以“接近零延迟”观看连接设备的视频。
+分辨率将限制为 1080p 和 60fps，但该应用程序允许 Quest 在没有投影仪的情况下提供大屏幕体验，或者将视频源放置在较小的窗口中与其他应用程序一起显示。 Quest 耳机的未来版本可以通过原生支持 USB-C 上的 DisplayPort 等标准来提供类似的内置功能，但加密狗方法是将此功能引入现有硬件的一种简单方法。]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24221146/meta-quest-hdmi-link-app-displayport-usb-c</guid>
+      <pubDate>Thu, 15 Aug 2024 19:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是目前最好的 Kindle 优惠</title>
+      <link>https://www.theverge.com/21539047/best-amazon-kindle-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21539047/best-amazon-kindle-deals</guid>
+      <pubDate>Thu, 15 Aug 2024 19:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州人很快就能将驾照添加到 Apple Wallet 中</title>
+      <link>https://www.theverge.com/2024/8/15/24221196/apple-wallet-drivers-license-california-mdl-pilot</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+部分加州居民很快将能够将他们的驾照和州身份证添加到 Apple Wallet，苹果公司周四宣布。
+苹果公司的公告并未说明何时推出移动驾驶执照，只是表示将于“今年秋季”推出，作为加州移动驾驶执照 (mDL) 试点的一部分。这项试点计划仅限 150 万名参与者，将允许通过洛杉矶国际机场和旧金山国际机场特定航站楼的用户通过 TSA 安检，而无需交出驾照或手机。
+要注册，用户必须扫描驾照或身份证，然后扫描脸部照片。参与试点计划的人将能够使用移动身份证在萨克拉门托的特定零售点购买某些有年龄限制的产品，并通过一些机场安全检查站。
+Apple Wallet ID 也可在亚利桑那州、马里兰州、科罗拉多州、佐治亚州和俄亥俄州使用。纽约于 6 月推出了自己的移动 ID 应用程序，同样可用于机场身份验证。特拉华州、佛罗里达州、路易斯安那州、密西西比州和密苏里州也有自己的移动 ID 计划。
+国营移动 ID 应用程序引发了安全担忧。今年 1 月，纽约公民自由联盟和监视抵抗实验室要求纽约 DMV 暂停即将推出的移动 ID 试点计划。在致 DMV 专员 Mark Schroeder 的一封信中，这些组织表示，移动驾照可能会被警方用作借口，在例行停车时没收手机或阻止人们拍摄警察互动。这封信还提到了用户信息可能被第三方记录和追踪的可能性。
+Apple 声称第三方（包括 Apple）无法访问存储在 Apple Wallet 中的 ID。根据 Apple 的新闻稿，添加到 Apple Wallet 的驾照信息仅存储在用户的设备上，除非用户选择出示，否则无法访问。Apple 和州发证机构（例如机动车管理局）不知道“用户何时何地或向谁出示其驾照或州身份证”，公告称。]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24221196/apple-wallet-drivers-license-california-mdl-pilot</guid>
+      <pubDate>Thu, 15 Aug 2024 19:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国海上风电雄心再遭打击</title>
+      <link>https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution</link>
+      <description><![CDATA[
+
+2024 年 6 月 13 日星期四，与会者在美国罗德岛州普罗维登斯市普罗维登斯港的 Revolution Wind 建筑中心进行媒体参观。  |照片：Getty Images
+
+海上风能巨头 Ørsted 正在推迟其在罗德岛和康涅狄格州沿海建设的 Revolution Wind 项目的启动日期。
+这是拜登政府希望从新的海上风电场获取清洁能源的又一次挫折，自新冠疫情爆发以来，这些风电场面临着无数挑战。
+Ørsted 今天宣布，Revolution Wind 现在预计将于 2026 年开始运行，而不是明年。问题在于陆地。Ørsted 的项目合作伙伴 Eversource Energy 正在一处前海军基地上建造一座变电站，那里挥之不去的土壤污染显然需要比预期更长的时间才能清除。
+“风险是项目不可或缺的一部分。”
+“风险是项目不可或缺的一部分。 Ørsted 首席执行官 Mads Nipper 在接受记者电话采访时表示：“美国早期市场受到的打击比其他任何地方都更严重。”Mads Nipper表示。
+此次推迟是因为 Ørsted 取消去年 10 月新泽西州沿海的另外两个大型项目，即 Ocean Wind 1 和 Ocean Wind 2，这两个项目总共将产生 2,248 兆瓦的可再生能源。这家丹麦公司在面临利率上升和通胀，以及疫情以来挥之不去的供应链问题后，放弃了这些项目。 
+该公司今年确实完成了规模较小的 132MW South Fork 风力发电场，这是与 Eversource 的另一项合资项目。Ørsted 还在纽约海岸外建造 Sunrise Wind，这是一个 924MW 的项目，预计将于 2026 年或 2027 年开始运营。
+
+Revolution Wind 规模没有那么大，预计一旦完工将产生 704MW 的可再生能源。这些能源大约足以为康涅狄格州和罗德岛州的 35 万户家庭供电。 
+拜登总统上任后不久就设定了一个目标，即到本世纪末将美国海上风电装机容量从仅 42 兆瓦提高到 30,000 兆瓦。美国距离该目标仍远，其中7 月份预计的在建项目如果顺利完成，将新增 4,800 兆瓦发电容量。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution</guid>
+      <pubDate>Thu, 15 Aug 2024 18:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的新语音模式让我陷入恐怖谷</title>
+      <link>https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley</guid>
+      <pubDate>Thu, 15 Aug 2024 18:33:36 GMT</pubDate>
+    </item>
     <item>
       <title>Woot 为 Sonos Arc 和第二代 Sonos Beam 提供最高 200 美元的折扣</title>
       <link>https://www.theverge.com/2024/8/15/24221106/woot-sonos-arc-sonos-beam-soundbar-random-audio-deal-sale</link>
@@ -65,153 +170,6 @@ Sonos 的中端 Beam 条形音箱可能听起来不如 Arc 那样身临其境，
 “这确实很令人不安。Pixel 本来就应该是干净的，”Palantir 的 Stuckey 告诉 Post。“Pixel 手机上内置了大量防御设备。”]]></description>
       <guid>https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify</guid>
       <pubDate>Thu, 15 Aug 2024 17:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>动视终于对《使命召唤》的巨量下载采取了一些措施</title>
-      <link>https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6</link>
-      <description><![CDATA[
-
-图片：Activision
-
-使命召唤系列游戏以文件大小巨大而著称，但在 10 月 25 日发布使命召唤 6之前，Activision 将进行一些更改，以使使命召唤游戏不会占用您硬盘上的太多空间——包括将Warzone与年度游戏的默认下载分开。
-Warzone的默认分离即将发生：8 月 21 日，与第 5 季 Reloaded 的发布同时进行。作为其中的一部分，当您下载年度使命召唤游戏时，您还可以选择下载Warzone（如果您愿意）。如果你只想下载Warzone，这仍然是一个选择。
-
-随着第 5 季重装上阵，Activision 还表示将更多地依赖纹理流，玩家将能够在“优化”（默认）或“最小”流之间进行选择。10 月中旬，Activision 计划推出一个新的用户界面，用于浏览你的使命召唤游戏。
-但为了应对这些变化，Activision 表示你将不得不下载第 5 季推出的重大更新，该更新将重新组织游戏文件并添加新技术“为完整的玩家界面做好准备”。 Activision 表示，在完成该更新后，《使命召唤》的占用空间将因“文件优化”而减少。（PlayStation 5 玩家将不得不下载一系列更新，因为“文件组织存在差异”。）
-
-
-图片：Activision
-
-Activision 发布的《使命召唤》即将推出的更新路线图。
-
-
-由于更新，Activision 表示《使命召唤：黑色行动 6》的“发布下载量将小于《使命召唤：现代战争 III》。”该公司没有具体说明尚未公布《黑色行动 6》的下载大小，但该公司表示，预购清单上显示的估计文件大小并不代表游戏的“下载大小或磁盘占用空间”。 （Activision 已经不得不澄清这一点，因为 Xbox 商店页面列表显示了令人震惊的 309.85GB 下载量。）
-Activision 还将于 8 月 30 日开始举办《黑色行动 6》公开测试版。]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24221080/activision-call-of-duty-downloads-black-ops-6</guid>
-      <pubDate>Thu, 15 Aug 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 正在测试调度和分析等多项新功能</title>
-      <link>https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts</link>
-      <description><![CDATA[
-
-图片：Threads
-
-Meta 正在测试其 X 竞争对手 Threads 上的一些新功能，该公司今天宣布。
-新增功能范围从普通 Threads 用户可能会喜欢的选项到感觉更直接针对品牌的内容管理工具。Threads 自 2023 年 7 月 5 日正式推出以来刚刚一年大关，目前每月活跃用户超过 1.75 亿，其中包括一些名人和品牌账户。
-在我看来，最有用的新功能是能够将多个帖子保存为草稿。目前，Threads 只允许一个草稿——你必须发布或替换它。通过更新，用户将能够保存最多 100 个草稿。
-用户还将获得通过重新排序固定列来自定义其 Threads 主页的新方法。这些栏目是桌面网站早期更新的一部分，该更新使 Threads 具有类似 TweetDeck 的外观，使用户可以关注多个提要。现在，用户可以根据自己想要更突出地看到的内容来移动栏目。 
-
-
-图片：Threads
-名为 Insights 的新分析页面提供了关注者人口统计等数据。
-
-今天宣布的其他功能可能对运营品牌账户的营销人员更有用。例如，新的 Insights 页面提供了账户数据细分，例如关注者人口统计、互动和“浏览量”——Instagram 一直在推广的一项指标是了解内容表现的主要方式。一些 Threads 用户本周提前访问了 Insights。Meta 还宣布，提前安排 Threads 帖子的功能即将推出。新功能将首先在网络上推出，移动版本稍后将“探索”。
-尽管 Threads 在去年发布后发展迅速，但该平台仍在努力捕捉 X 积累的同样相关性。在某些情况下，运营该平台的人有意与 Twitter 保持距离；Instagram 负责人亚当·莫塞里 (Adam Mosseri) 早些时候曾表示，Threads 不会优先考虑新闻或推荐政治内容，而这些主题正是 Threads 最初发挥作用的地方。报道称，Meta 计划于明年某个时候在 Threads 上推出广告，这也解释了分析和调度等品牌友好型工具的涌入。希望当公司和名人最终厌倦了 X 时，他们会转而使用 Threads。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24220224/meta-threads-features-scheduling-insights-drafts</guid>
-      <pubDate>Thu, 15 Aug 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sennheiser 的心率追踪 ANC 耳机降价近 80 美元</title>
-      <link>https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale</link>
-      <description><![CDATA[
-
-Momentum Sport 耳机有几种不同的颜色可供选择，但唯一鲜艳的色调是橄榄色。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-Sennheiser Momentum Sport 耳塞是一款非常独特的科技产品，因为这款降噪耳塞配有嵌入式心率追踪器，可监测您在跑步和锻炼期间的表现。它们通常价格昂贵，为 329.95 美元，但现在，橄榄色和石墨色在亚马逊上打折至 254.06 美元（节省约 76 美元）的新低。
-
-Momentum Sport 的低音有些重，这在健身型耳塞中很常见（因为这种低音可以帮助您在大汗淋漓时继续前进），但它们的音质很好，并且在您跑步时佩戴时非常稳固。它们还提供透明模式，让您更好地适应周围环境，并具有 IP55 级防风雨功能，可以应对过多的汗水。但最大的吸引力在于，您无需在手腕上佩戴任何东西即可进行心率跟踪，而且 Sennheiser 不会将您锁定在其生态系统中，因为 Momentum Sport 可以与 Polar 的应用程序集成以进行训练分析。
-
-阅读我们对 Sennheiser Momentum Sport 耳塞的评论。
-
-伙计们，星期五快到了，所以用更多优惠来庆祝吧
-
-
-Woot  正在对少量 Nintendo Switch 游戏进行促销，促销截止日期为 8 月 23 日，结账时使用促销代码 GAMES 可额外享受 5 美元优惠。综合折扣后，最近的纸片马里奥：千年之门重制版降至历史最低价 44.99 美元（优惠 15 美元）。 2004 年推出的经典 GameCube 游戏被誉为有史以来最出色的马里奥 RPG 之一，现在它的游戏体验和画面都比以往更好。
-
-微软 正在以 144.99 美元的价格出售其 Xbox Elite 无线控制器系列 2 （优惠 35 美元），这是我们一段时间以来见过的最低价，即使我们过去见过更大、更频繁的折扣。Elite 2 在可靠性方面有缺陷，但由于增加了后拨片、触发锁定和强大的软件定制功能，它仍然是Xbox 游戏机和 PC 上功能最齐全的控制器之一。 阅读我们的评论。
-
-Logitech 的 Casa Pop-Up Desk 目前在 亚马逊 上以罕见折扣价出售，现降至 159.99 美元（优惠 20 美元）。这款远程工作配件提供无线键盘、触控板和倾斜的笔记本电脑支架，可支撑您的电脑 - 支架还可兼作存储。它是一种用途广泛的一站式解决方案，可以帮助您在家里的任何房间更舒适地工作。
-
-]]></description>
-      <guid>https://www.theverge.com/good-deals/2024/8/15/24220659/sennheiser-momentum-sport-earbuds-paper-mario-thousand-year-door-deal-sale</guid>
-      <pubDate>Thu, 15 Aug 2024 16:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 推出可折叠电动厨房，让你可以在车尾盖上做饭</title>
-      <link>https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping</link>
-      <description><![CDATA[
-
-图片：Rivian
-
-Rivian 首次销售旅行厨房配件。这不是该公司多年前宣传的（但从未发布过的）综合露营设备，它从该公司的电动 R1T 卡车侧面滑出。相反，这款新产品紧凑轻巧，设计用于放置在车辆的后挡板上。
-它简称为旅行厨房，可折叠以跨越后挡板的长度，并配有两个电磁炉、一个可收起在整理抽屉中的切菜板和一个可挂毛巾的弹出式杆。该设备需要三插 120V 电​​源和 15A 电流才能工作，您可以从 Rivian 车辆、露营地电源、F-150 Lighting、Cyber​​truck 或其他具有强大车载电源或发电机的车辆获取电源。
-
-
-图片：Rivian
-将 Travel Kitchen 插入卡车的 120V 电​​源。
-
-炉灶有九个火力等级，共用 1500W 功率，但单次运行的炉灶会消耗所有能量以达到最大火力。它有一个“触摸屏电源按钮”，只有当电磁炉炊具（不包括在内）放在设备顶部时才会激活，为了安全起见，移除时会关闭。
-
-旅行厨房还配备了一个可收纳的 LED 照明套件，可悬挂在随附的杆子上，还有一个手提箱，这样您就可以将整个装置收进任何后备箱、电动汽车卡车前备箱，甚至是 Rivian 的装备通道中。这款配件现可从 Rivian 购买，售价 1,400 美元，是该汽车制造商不断扩展的 Adventure Gear 产品线的一部分。
-
-
-照片由 Joey Roulette / The Verge 拍摄
-Rivian 从未发布过这款完整的拉出式厨房。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24220583/rivian-travel-kitchen-accessory-induction-cooktop-camping</guid>
-      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《龙腾世纪：面纱守卫》将于今年秋季推出</title>
-      <link>https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom</link>
-      <description><![CDATA[
-
-图片：BioWare
-
-BioWare 宣布了龙腾世纪：面纱守卫，并分享了一段新预告片来纪念这一时刻。玩家将能够在 10 月 31 日重返 Thedas——游戏世界的名称，同时也是“龙腾世纪设定”的巧妙缩写——距离上一部游戏《龙腾世纪：审判》发布已有 10 多年。
-
-哦，天哪，这个新预告片里有一些传说。到目前为止，粉丝们都认为 Solas 是来自 Inquisition 的同伴，他在游戏的 Trespasser DLC 事件中叛变，会是主要的坏人。但这部预告片证实了一个新兴的社区理论，即与游戏中真正的大坏蛋——精灵神相比，索拉斯只是一个小人物。BioWare 早在 2018 年就宣布了Veilguard，但直到 2022 年才分享了很少的实质性更新。在此期间，一些资深人才离开了工作室，包括总经理Casey Hudson、执行制片人 Mark Darrah、制作总监Mac Walters 和高级创意制作人 Matt Goldman。包括几名 BioWare 老员工在内的多名员工 也因裁员而流失。
-《Veilguard》的开发也受到了电子游戏行业趋势变化的影响。在 BioWare 的 MMO 风格动作 RPG《Anthem》遭遇评论和商业失败后，BioWare 的母公司 EA 取消了计划中的Veilguard多人游戏元素，希望能够获得 EA 制作的其他单人游戏（如绝地：陨落的武士团）所取得的那种成功。Veilguard 将于今日开放预订，PC 端售价 59.99 美元，Xbox 和 PlayStation 端售价 69.99 美元。尽管漫长的开发周期、裁员和离职让粉丝们对游戏的潜在质量感到担忧，但《Veilguard》的问世正值单人叙事游戏大获成功之际，其中最引人注目的是 2023 年的年度最佳游戏《博德之门 3》。两者之间的比较是不可避免的，但根据这个预告片——我们又回来了。我们回来了。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24220559/dragon-age-veilguard-release-date-trailer-gamescom</guid>
-      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>格罗伊珀战争、黑暗精灵、虫人：共和党如何重燃极右翼的争斗</title>
-      <link>https://www.theverge.com/2024/8/15/24218765/nick-fuentes-groyper-war-trump-campaign-curtis-yarvin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24218765/nick-fuentes-groyper-war-trump-campaign-curtis-yarvin</guid>
-      <pubDate>Thu, 15 Aug 2024 15:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>HoverAir X1 自拍无人机的两个新版本分辨率大幅升级</title>
-      <link>https://www.theverge.com/2024/8/15/24220959/hoverair-drones-selfies-x1-pro-max</link>
-      <description><![CDATA[
-
-Zero Zero Robotics 尚未公布 HoverAir X1 Pro 和 X1 Pro Max 自拍无人机的定价或发货日期。 |图片：Zero Zero Robotics
-
-最近评测的HoverAir X1 自拍无人机的缺点之一是其摄像头只能以 2.7K/30fps 的分辨率拍摄视频。 Zero Zero Robotics 将很快通过两款升级版无人机解决这个问题，这两款无人机已在其网站上预告，正如DIYPhotography发现的那样。
-HoverAir X1 Pro 将能够通过半英寸 CMOS 传感器搭配 17 毫米广角镜头，以高达 60fps 的速度捕捉 4K 素材，或以 1080P 的速度捕捉 120fps 的慢动作素材。 X1 Pro Max 进一步将视频分辨率提升至 8K 30fps，但也可以通过 1/1.3 英寸传感器和稍宽的 16 毫米镜头以 4K/120fps 或 4K/60fps 10 位 HDR 拍摄素材。
-Zero Zero Robotics 尚未透露这两款机型的全部细节，但分享了每款机型的照片，展示了更时尚、更不四四方方的设计。还有一个重新设计的界面，按钮更大，看起来像是一个屏幕（而不是单独的 LED），用于选择飞行路径。与大多数需要业余驾驶技能的消费级无人机不同，最初的 HoverAir X1 是自主的，可以跟踪拍摄对象并通过预定的飞行路径拍摄素材。
-
-
-图片：Zero Zero Robotics
-HoverAir X1 Pro 可以以高达 60fps 的速度捕捉 4K 镜头。
-
-其他升级包括更快的跟随速度，从 HoverAir X1 的 15mph 提高到 26mph（这将吸引骑行者）；16 分钟的飞行时间；以及增加后部和侧面碰撞传感器。之前的型号缺乏任何障碍物检测和避障功能，仅依靠笼子来保护其转子并防止撞到什么东西而发生碰撞。
-
-
-图片：Zero Zero Robotics
-HoverAir X1 Pro Max 可以以高达 30fps 的速度拍摄 8K 素材。
-
-HoverAir X1 的另一个限制是它依靠 VIO（视觉惯性里程计）系统而不是 GPS 来随时了解其位置。这使得它无法在水面或雪地上使用，因为视觉系统很难看到明确的移动纹理。 X1 Pro 和 X1 Pro Max 都配备了升级版 VIO，可以在任何地形上使用。它们甚至可以从悬崖上飞下来，然后安全返回发射地点。
-不过，没有提到 X1 Pro 和 X1 Pro Max 是否防水。意外的水上降落很容易毁坏原来的 X1，在皮划艇运动员或桨板运动员放心地在水上发射新无人机之前，这似乎是一项重要的升级。
-Zero Zero Robotics 尚未分享的另一个细节是这两款新无人机的重量，尽管两款无人机的重量可能都接近 125 克的 HoverAir X1，因此它们仍将免于 FAA 的许可要求。
-我们也不知道它们什么时候上市，会与它们一起推出哪些新配件，或者它们的价格。 HoverAir X1 目前售价为 349 美元（低于 429 美元），这仍然是这款紧凑型无人机的一大吸引力。但有传言称小巧且价格极具竞争力的 4K DJI Neo 可能即将上市，HoverAir X1 Pro 和 X1 Pro Max 最好不要大幅涨价。]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24220959/hoverair-drones-selfies-x1-pro-max</guid>
-      <pubDate>Thu, 15 Aug 2024 15:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
