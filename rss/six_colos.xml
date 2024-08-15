@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 15 Aug 2024 01:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 18:20:54 GMT</lastBuildDate>
+    <item>
+      <title>visionOS 2 印象：这不是空间吗？</title>
+      <link>https://sixcolors.com/post/2024/08/visionos-2-impressions-isnt-that-spatial/</link>
+      <description><![CDATA[
+我没有写太多关于 Vision Pro 的文章，原因很简单：我实际上没有很多机会使用它。但本周早些时候，Apple 邀请我去纽约市，花了一个小时不仅使用 Apple 的空间计算机，还使用即将推出的 visionOS 2 更新。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/visionos-2-impressions-isnt-that-spatial/</guid>
+      <pubDate>Thu, 15 Aug 2024 15:16:45 GMT</pubDate>
+    </item>
     <item>
       <title>访谈：游戏开发者 Zach Gage 谈 Pile-Up Poker 以及如何抵制黑暗模式</title>
       <link>https://sixcolors.com/post/2024/08/interview-game-developer-zach-gage-on-pile-up-poker-and-resisting-dark-patterns/</link>
@@ -44,7 +52,7 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <pubDate>Wed, 14 Aug 2024 12:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 524：我们正在制作小点心</title>
+      <title>（播客）升级 524：我们正在制作一件小礼物</title>
       <link>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</link>
       <description><![CDATA[这一集涉及很多层面，我们讨论了奥运会、谷歌反垄断裁决、苹果新的欧盟收费计划、一款微型新 Mac mini、macOS 对话灾难以及十年前的科技世界。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</guid>
@@ -110,13 +118,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
 出色的航班跟踪应用 Flighty 已更新至 4.0 版，其中包含一系列新功能，旨在预测和解释航班延误。…]]></description>
       <guid>https://sixcolors.com/link/2024/08/flighty-4-0-adds-delay-details/</guid>
       <pubDate>Tue, 06 Aug 2024 16:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 523：我已经产生幻觉了</title>
-      <link>https://sixcolors.com/podcast/2024/08/upgrade-523-i-got-it-to-hallucinate-already/</link>
-      <description><![CDATA[Myke 对 Apple Intelligence 的体验大多是正面的（Siri 除外），Apple 的结果让我们考虑到 Services 的强大功能，而 Color Czar 可能又在玩他们的老把戏了。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/08/upgrade-523-i-got-it-to-hallucinate-already/</guid>
-      <pubDate>Mon, 05 Aug 2024 22:01:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
