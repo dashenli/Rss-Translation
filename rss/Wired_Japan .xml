@@ -4,25 +4,32 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 16 Aug 2024 06:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 09:18:04 GMT</lastBuildDate>
+    <item>
+      <title>攻击方法被揭露，可攻击参加公路比赛的自行车并远程控制变速箱</title>
+      <link>https://wired.jp/article/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</link>
+      <description><![CDATA[美国一所大学的一个研究小组发现了一种破解职业公路赛车手所骑自行车的方法。电控变速箱是远程控制的，只需几百块钱的装置，在比赛时就可以发起攻击。]]></description>
+      <guid>https://wired.jp/article/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</guid>
+      <pubDate>Fri, 16 Aug 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌Pixel系列智能手机漏洞，因Android隐藏劫持风险引发涟漪蔓延</title>
       <link>https://wired.jp/article/google-android-pixel-showcase-vulnerability/</link>
-      <description><![CDATA[几乎所有 Google Pixel 智能手机都发现了一个漏洞，该漏洞可能使整个设备面临被劫持的风险。对此，大型数据分析公司 Palantir 决定停止使用所有 Android 设备，引起轩然大波。]]></description>
+      <description><![CDATA[几乎所有 Google Pixel 系列智能手机都发现了一个漏洞，该漏洞可能使整个设备面临被劫持的风险。对此，大型数据分析公司 Palantir 决定停止使用所有 Android 设备，引起轩然大波。]]></description>
       <guid>https://wired.jp/article/google-android-pixel-showcase-vulnerability/</guid>
       <pubDate>Fri, 16 Aug 2024 03:00:00 GMT</pubDate>
     </item>
     <item>
       <title>美国研究团队开发出模仿人类眼球结构的相机</title>
       <link>https://wired.jp/article/camera-inspired-by-human-eyes/</link>
-      <description><![CDATA[美国研究人员开发了一种相机，其拍摄图像的精度比传统相机高数百倍，其灵感来自于人类眼球聚焦于移动物体的方式。它有可能彻底改变机器人技术和许多其他依赖相机视觉信息的技术。]]></description>
+      <description><![CDATA[美国研究人员受人眼聚焦移动物体的方式启发，开发出一种比传统相机精确数百倍的相机。它有可能彻底改变机器人技术和许多其他依赖相机视觉信息的技术。]]></description>
       <guid>https://wired.jp/article/camera-inspired-by-human-eyes/</guid>
       <pubDate>Thu, 15 Aug 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>如何建造一座能抵御风暴的房屋</title>
       <link>https://wired.jp/article/hurricane-beryl-proof-housing/</link>
-      <description><![CDATA[随着世界各地台风和飓风季节的持续以及风暴变得更加猛烈，美国的房主开始重新考虑他们设计房屋的方式并强化建筑材料以使其更具弹性。]]></description>
+      <description><![CDATA[随着世界各地台风和飓风季节的持续以及风暴变得更加猛烈，美国的房主开始重新思考如何设计房屋并强化建筑材料，以使其更具弹性。]]></description>
       <guid>https://wired.jp/article/hurricane-beryl-proof-housing/</guid>
       <pubDate>Thu, 15 Aug 2024 22:00:00 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI冒充人类的“人类清洗”已经开始</title>
+      <title>AI冒充人类的“洗人”已经开始</title>
       <link>https://wired.jp/article/bland-ai-chatbot-human/</link>
       <description><![CDATA[处理客户服务和销售电话的人工智能语音机器人是“人类清洗”的最新例子，其中人工智能被设计得看起来像人类。专家担心这些做法模糊了人工智能透明度的道德界限。]]></description>
       <guid>https://wired.jp/article/bland-ai-chatbot-human/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>谷歌用“Pixel 9”系列的AI相机“重构”了现实</title>
       <link>https://wired.jp/article/all-the-new-generative-ai-camera-features-in-google-pixel-9-phones/</link>
-      <description><![CDATA[谷歌的Pixel 9系列智能手机配备了许多利用AI的拍摄功能。我立即尝试了“一起拍照”、“想象力”、“自动取景框”、“变焦增强”等可以说是“重构”现实的新功能。]]></description>
+      <description><![CDATA[谷歌的Pixel 9系列智能手机配备了许多利用AI的拍摄功能。我立刻尝试了“一起拍照”、“想象力”、“自动取景框”、“变焦增强”等可以说是“重构”现实的新功能。]]></description>
       <guid>https://wired.jp/article/all-the-new-generative-ai-camera-features-in-google-pixel-9-phones/</guid>
       <pubDate>Wed, 14 Aug 2024 01:15:00 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>谷歌以“Pixel 9”系列发布的“AI智能手机”的最佳解决方案（目前）</title>
       <link>https://wired.jp/article/pixel-9-peter-prunuske-interview/</link>
-      <description><![CDATA[AI如何让智能手机变得更加直观、有趣、个性化？ Pixel 9系列可以被认为是谷歌对这个问题的回答。我们询问了 Google Pixel 产品管理高级总监 Peter Purnasky，他们如何将该策略转化为他们的产品。]]></description>
+      <description><![CDATA[AI如何让智能手机变得更直观、更有趣、更个性化？ Pixel 9系列可以被认为是谷歌对这个问题的回答。我们询问了 Google Pixel 产品管理高级总监 Peter Purnasky，他们如何将该策略转化为他们的产品。]]></description>
       <guid>https://wired.jp/article/pixel-9-peter-prunuske-interview/</guid>
       <pubDate>Tue, 13 Aug 2024 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Space Hopper 是一种在小行星上跳跃的移动探索机器人，采用深度强化学习开发</title>
+      <title>Space Hopper，一种在小行星上跳跃的移动探索机器人，采用深度强化学习开发</title>
       <link>https://wired.jp/article/vitality-swiss-2024-spacehopper/</link>
-      <description><![CDATA[Space Hopper是瑞士机器人系统实验室开发的机器人，采用考虑了月球和小行星环境的运动方法。开发团队期待的是机器人设计将远离人类的未来。]]></description>
+      <description><![CDATA[瑞士机器人系统实验室开发的机器人“Space Hopper”采用了考虑了月球和小行星环境的运动方法。开发团队期待的是机器人设计将远离人类的未来。]]></description>
       <guid>https://wired.jp/article/vitality-swiss-2024-spacehopper/</guid>
       <pubDate>Tue, 13 Aug 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenAI 的最新模型 GPT-4o 据说能够收集比以往更多的信息。我们询问了专家，您需要记住什么才能享受 ChatGPT 的便利，同时保护您的个人隐私。]]></description>
       <guid>https://wired.jp/article/can-chatgpt-4o-be-trusted-with-your-private-data/</guid>
       <pubDate>Mon, 12 Aug 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空排泄，这个恼人又永恒的问题</title>
-      <link>https://wired.jp/article/sz-pooping-on-the-moon-is-a-messy-business/</link>
-      <description><![CDATA[如果人类再次踏上月球，我们将不得不再次面对这个问题。航天机构和政府能否解决围绕地球外废物管理的法律、道德和实际问题？]]></description>
-      <guid>https://wired.jp/article/sz-pooping-on-the-moon-is-a-messy-business/</guid>
-      <pubDate>Mon, 12 Aug 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

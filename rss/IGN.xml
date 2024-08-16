@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Fri, 16 Aug 2024 06:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 09:16:49 GMT</lastBuildDate>
+    <item>
+      <title>Epic Games Store 正式登陆移动设备</title>
+      <link>https://www.ign.com/articles/epic-games-store-mobile-version-fortnite-return-to-ios-android-release-date</link>
+      <description><![CDATA[经过数月的等待，Epic 终于发布了 Epic Games Store 的移动版本，目前可用于全球的 Android 设备以及欧盟的 iOS 设备。]]></description>
+      <guid>https://www.ign.com/articles/epic-games-store-mobile-version-fortnite-return-to-ios-android-release-date</guid>
+      <pubDate>Fri, 16 Aug 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>动视向开发者发出禁令，现代战争 2 多人游戏模组在发布前一天被取消</title>
       <link>https://www.ign.com/articles/modern-warfare-2-multiplayer-mod-canceled-the-day-before-launch-after-activision-sends-devs-cease-and-desist</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Bungie 为意外更改玩家姓名道歉，称修复“需要一些时间”</title>
       <link>https://www.ign.com/articles/bungie-apologizes-for-accidentally-changing-player-names-says-fix-will-take-some-time</link>
-      <description><![CDATA[Bungie 知道有很多《命运 2》玩家的游戏内名字被强行更改，但不确定何时能为所有人提供修复。]]></description>
+      <description><![CDATA[Bungie 知道有很多《命运 2》玩家的游戏内名称被强行更改，但不确定何时能为所有人提供修复。]]></description>
       <guid>https://www.ign.com/articles/bungie-apologizes-for-accidentally-changing-player-names-says-fix-will-take-some-time</guid>
       <pubDate>Thu, 15 Aug 2024 21:56:32 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[最多可累积 36 个月的 Game Pass Ultimate]]></description>
       <guid>https://www.ign.com/articles/xbox-game-pass-ultimate-is-40-off-stock-up-now-and-avoid-the-price-hike</guid>
       <pubDate>Thu, 15 Aug 2024 14:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《The Plucky Squire》将于 9 月在 PlayStation Plus 上线</title>
-      <link>https://www.ign.com/articles/the-plucky-squire-launches-in-september-straight-onto-playstation-plus</link>
-      <description><![CDATA[《The Plucky Squire》将于 9 月推出，并直接进入 PlayStation Plus Premium 游戏目录。]]></description>
-      <guid>https://www.ign.com/articles/the-plucky-squire-launches-in-september-straight-onto-playstation-plus</guid>
-      <pubDate>Thu, 15 Aug 2024 14:43:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

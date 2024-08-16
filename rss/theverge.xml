@@ -4,7 +4,23 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Aug 2024 03:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 09:17:02 GMT</lastBuildDate>
+    <item>
+      <title>微软终于在 Windows 11 中取消了 FAT32 分区大小限制</title>
+      <link>https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11</link>
+      <description><![CDATA[
+
+在现有版本的 Windows 中，FAT32 限制为 32GB。 |图片：Tom Warren / The Verge
+
+微软计划在 Windows 11 中取消 FAT32 分区的 32GB 大小限制。虽然 FAT 支持高达 2TB 的卷，但 Windows 近 30 年来一直实行 32GB 的任意限制。
+“在使用 format 命令从命令行格式化磁盘时，我们将 FAT32 的大小限制从 32GB 增加到 2TB，”Windows 团队在周四的一篇博客文章中透露，详细介绍了最新的 Windows 11 canary 测试版本。。 
+目前，该限制仅从格式命令行中删除，因此现有格式对话框将继续具有 FAT32 大小限制，除非 Microsoft 最终决定更新它几十年来一直遗忘的 Windows 功能。
+32GB 限制最初是在 30 多年前 Windows 95 开发期间设定的。前 Windows 开发人员 Dave Plummer 今年早些时候透露，他负责设计几十年来从未动过的格式化对话框，并且他还为 FAT32 选择了 32GB 的限制。
+“我还必须决定‘集群松弛’的多少会太多，最终将 FAT 卷的格式大小限制为 32GB，”Plummer 在 X 帖子 中承认。“那个限制也是那天早上随意选择的，并且作为永久的副作用一直困扰着我们。”
+Windows 长期以来一直支持读取最大 2TB 的 FAT32 分区，但直到现在，您还无法在没有第三方工具的情况下在操作系统中创建一个分区。希望微软决定在即将推出的 Windows 11 版本中更新格式 GUI，以便每个人都能更轻松地创建完整的 FAT32 分区。]]></description>
+      <guid>https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11</guid>
+      <pubDate>Fri, 16 Aug 2024 09:01:16 GMT</pubDate>
+    </item>
     <item>
       <title>Fortnite 的下一个漫威赛季将有大量毁灭博士</title>
       <link>https://www.theverge.com/2024/8/15/24221374/fortnite-marvel-absolute-doctor-doom</link>
@@ -157,13 +173,6 @@ Revolution Wind 规模没有那么大，预计一旦完工将产生 704MW 的可
 ]]></description>
       <guid>https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution</guid>
       <pubDate>Thu, 15 Aug 2024 18:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的新语音模式让我陷入恐怖谷</title>
-      <link>https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley</guid>
-      <pubDate>Thu, 15 Aug 2024 18:33:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
