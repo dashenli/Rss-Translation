@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sat, 17 Aug 2024 03:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 06:18:49 GMT</lastBuildDate>
+    <item>
+      <title>如何遵循完整的《龙腾世纪》时间线</title>
+      <link>https://www.ign.com/articles/dragon-age-in-order</link>
+      <description><![CDATA[从 DLC 到漫画（以及其间的所有内容），通过正典龙腾世纪媒体的完整时间线深入了解 Thedas。]]></description>
+      <guid>https://www.ign.com/articles/dragon-age-in-order</guid>
+      <pubDate>Sat, 17 Aug 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>世嘉 1993 年推出的格斗游戏《永恒冠军》现在也有了自己的电影</title>
       <link>https://www.ign.com/articles/even-eternal-champions-segas-obscure-1993-fighting-game-is-getting-its-own-movie-now</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[沉寂已久的《星球大战：月食》失去了《暴雨》和《底特律：成为人类》开发商 Quantic Dream 的首席编剧。]]></description>
       <guid>https://www.ign.com/articles/star-wars-eclipse-from-quantic-dream-loses-lead-writer</guid>
       <pubDate>Fri, 16 Aug 2024 09:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>动视向开发者发出禁令，现代战争 2 多人游戏模组在发布前一天被取消</title>
-      <link>https://www.ign.com/articles/modern-warfare-2-multiplayer-mod-canceled-the-day-before-launch-after-activision-sends-devs-cease-and-desist</link>
-      <description><![CDATA[《使命召唤：现代战争重制版》的 H2M 模组在发布前夕被取消，原因是其开发人员表示收到了 Activision 的停止侵权函。]]></description>
-      <guid>https://www.ign.com/articles/modern-warfare-2-multiplayer-mod-canceled-the-day-before-launch-after-activision-sends-devs-cease-and-desist</guid>
-      <pubDate>Thu, 15 Aug 2024 23:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
