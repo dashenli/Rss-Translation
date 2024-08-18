@@ -4,7 +4,64 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 18 Aug 2024 15:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 21:12:51 GMT</lastBuildDate>
+    <item>
+      <title>《星球大战：法外狂徒》发布新预告片 — — 并列出 PC 硬件要求</title>
+      <link>https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer</link>
+      <description><![CDATA[
+
+图片：Ubisoft
+
+Ubisoft 发布了《星球大战：法外狂徒》的 PC 要求，该游戏将于本月晚些时候（8 月 30 日）发布，在 帖子还指向了新游戏预告片，该预告片是侠盗猎车手式的太空冒险。 
+预告片比较了某些功能（如 DLSS）开启和关闭时游戏的外观。这里可能没有任何关于故事或游戏玩法的重大披露，但它可以让您了解是否要为游戏升级任何东西。
+
+在硬件方面，Outlaws 似乎对仍在使用 GeForce GTX 1660 GPU 或 Intel Core i7-8700K CPU 等组件的 PC 相当宽容。Eurogamer 指出您需要 DLSS 或 FSR 才能以最低规格运行游戏。 
+来自 Ubisoft 的页面：
+
+最低
+• 视觉设置：1080p/30 FPS/低预设，升频器设置为质量
+• GPU：GeForce GTX 1660 6GB / AMD RX 5600 XT 6GB / Intel Arc a750 8GB（ReBAR ON）
+• CPU：INTEL® CORE™ i7-8700K / AMD Ryzen 5 3600 
+• RAM：16GB（双通道模式）
+• 操作系统：Windows 10/11，带 DirectX 12 
+• SSD 存储：65GB 
+
+推荐 
+• 视觉设置：1080p/60 FPS/高预设，升频器设置为质量
+• GPU：GeForce RTX 3060 8GB / AMD RX 6700 XT 12GB
+• CPU：INTEL® CORE™ i5-10400 / AMD Ryzen 5 5600X 
+• RAM： 16GB（双通道模式） 
+• 操作系统：Windows 10/11，带 DirectX 12 
+• SSD 存储：65GB 
+
+发烧友 
+• 视觉设置：1440p/60 FPS/高预设，升频器设置为质量
+• GPU：GeForce RTX 4070 12GB / AMD RX 6800 XT 16GB
+• CPU：INTEL® CORE™ i5-11600K / AMD Ryzen 7 5800X 
+• RAM：16GB（双通道模式） 
+• 操作系统：Windows 10/11，带 DirectX 12 
+• SSD 存储：65GB 
+
+Ultra 
+• 视觉设置：4K/60 FPS/Ultra 预设，升频器设置为质量
+• GPU：GeForce RTX 4080 16GB / AMD RX 7900 XTX 24GB
+• CPU：INTEL® CORE™ i7-12700K / AMD Ryzen 7 5800X3D 
+• RAM：16GB（双通道模式） 
+• 操作系统：带有 DirectX 12 的 Windows 10/11 
+• SSD 存储：65GB 
+
+
+星球大战亡命之徒将于 8 月 30 日在 PC（Xbox Series X/S 和 PS5 也一样）上推出，标准版起价为 69.99 美元，Ubisoft 将于 8 月 27 日为购买黄金版（109.99 美元）或终极版（129.99 美元）的用户提供抢先体验权。 ]]></description>
+      <guid>https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer</guid>
+      <pubDate>Sun, 18 Aug 2024 20:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，一级方程式赛车正在迫使一些 F1 创作者更改他们的名字</title>
+      <link>https://www.theverge.com/2024/8/18/24223039/formula-1-f1-cease-and-desist-letters-creators-name-change</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/18/24223039/formula-1-f1-cease-and-desist-letters-creators-name-change</guid>
+      <pubDate>Sun, 18 Aug 2024 19:53:24 GMT</pubDate>
+    </item>
     <item>
       <title>Google 员工完成任务的指南</title>
       <link>https://www.theverge.com/2024/8/18/24221860/laura-mae-martin-google-productivity-coach-uptime-vergecast</link>
@@ -96,33 +153,6 @@ iPhone 15 Pro。 |照片由 Vjeran Pavic / The Verge 拍摄
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price</guid>
       <pubDate>Sat, 17 Aug 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>国家公共数据公司承认其在一次大规模数据泄露事件中泄露了社保号码</title>
-      <link>https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-National Public Data (NPD) 是一家转售收集的个人数据以进行背景调查的公司，已经确认数据泄露泄露了姓名、社会安全号码、实际地址等信息。 据 Bleeping Computer 报道，暗网论坛的发帖者数月来一直在宣传和分享据称是该公司系统被入侵后被盗的数据，但 NPD 对此没有任何声明或回应。
-最后，本周，它发布了一个安全事件页面，确认了一些细节，但留下了许多其他未解答的问题。
-
-据信，该事件涉及第三方不良行为者，该行为者试图在 2023 年 12 月下旬入侵数据，并可能在 2024 年 4 月和 2024 年夏季泄露某些数据。
-被怀疑泄露的信息包括姓名、电子邮件地址、电话号码、社会安全号码和邮寄地址。
-
-
-据报道，此次大规模泄露涉及 29 亿行数据，涉及人数尚不清楚，对 Have I Been Pwned 运营商 Troy Hunt 发布到黑客论坛的文件的分析显示，数据与特定人员的关联存在不一致之处。
-NPD 表示，它“与执法部门和政府调查人员合作，对可能受影响的记录进行了审查，并将如果有进一步的重大进展与您有关，请尝试通知您。” 
-其网站没有报告有多少人受到影响，没有向信息被链接的人提供任何补偿，也没有提供任何直接联系的途径以获取更多信息。它警告人们密切关注他们的信用报告，但仅此而已。]]></description>
-      <guid>https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn</guid>
-      <pubDate>Fri, 16 Aug 2024 23:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌威胁科技界有影响力的人，除非他们“喜欢”Pixel</title>
-      <link>https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/16/24221755/google-team-pixel-reviews-influencers</guid>
-      <pubDate>Fri, 16 Aug 2024 21:21:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
