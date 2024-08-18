@@ -4,20 +4,48 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 18 Aug 2024 09:16:06 GMT</lastBuildDate>
-    <item>
-      <title>从疑似二战炸弹地点撤离的房屋</title>
-      <link>https://www.bbc.com/news/articles/c4glee3q8dno</link>
-      <description><![CDATA[BBC 看到一则通知，称半径 400 米（0.25 英里）内的住宅和企业必须在英国夏令时周日 10:00 前撤离。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4glee3q8dno</guid>
-      <pubDate>Sun, 18 Aug 2024 09:05:49 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Aug 2024 12:26:23 GMT</lastBuildDate>
     <item>
       <title>法国电影巨星阿兰·德龙逝世，享年 88 岁</title>
       <link>https://www.bbc.com/news/articles/cm2n6y4g700o</link>
       <description><![CDATA[德龙曾被誉为电影界最英俊的男人，但现在他却成为了一名隐居者，和他的孩子们在公开场合互相辱骂。]]></description>
       <guid>https://www.bbc.com/news/articles/cm2n6y4g700o</guid>
-      <pubDate>Sun, 18 Aug 2024 09:03:08 GMT</pubDate>
+      <pubDate>Sun, 18 Aug 2024 12:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>伦敦国王十字车站附近酒店发生洪水，酒店人员紧急疏散</title>
+      <link>https://www.bbc.com/news/articles/c0rw1jw448jo</link>
+      <description><![CDATA[约20人已从酒店撤离，专业队伍已抵达现场。]]></description>
+      <guid>https://www.bbc.com/news/articles/c0rw1jw448jo</guid>
+      <pubDate>Sun, 18 Aug 2024 12:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>画廊开放令人欣慰，但萨默塞特宫的其余部分在火灾后仍然关闭</title>
+      <link>https://www.bbc.com/news/articles/c0e8q7p50p1o</link>
+      <description><![CDATA[由于消防员仍在现场，伦敦火灾原因仍在调查中。]]></description>
+      <guid>https://www.bbc.com/news/articles/c0e8q7p50p1o</guid>
+      <pubDate>Sun, 18 Aug 2024 11:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯人告诉 BBC，他们对乌克兰入侵感到担忧和愤怒</title>
+      <link>https://www.bbc.com/news/videos/cgedgzx7xqno</link>
+      <description><![CDATA[BBC 驻阿列克辛记者史蒂夫·罗森伯格会见了俄罗斯人，他们想知道乌克兰的入侵是如何发生的。]]></description>
+      <guid>https://www.bbc.com/news/videos/cgedgzx7xqno</guid>
+      <pubDate>Sun, 18 Aug 2024 09:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国摩天轮起火 多人受伤</title>
+      <link>https://www.bbc.com/news/videos/c5y8qvkg5eko</link>
+      <description><![CDATA[视频显示，莱比锡的两节车厢着火，浓烟滚滚。]]></description>
+      <guid>https://www.bbc.com/news/videos/c5y8qvkg5eko</guid>
+      <pubDate>Sun, 18 Aug 2024 09:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>六分钟的火车旅程变成了一场漫长的法律噩梦</title>
+      <link>https://www.bbc.com/news/articles/cn7lxjz3ek3o</link>
+      <description><![CDATA[萨拉·库克 (Sarah Cook) 因未支付罚单而被威胁要罚款 500 英镑并入狱，但她成为了可以帮助数千人的测试案例。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn7lxjz3ek3o</guid>
+      <pubDate>Sun, 18 Aug 2024 08:54:43 GMT</pubDate>
     </item>
     <item>
       <title>英国政府将把厌女症视为极端主义</title>
@@ -34,13 +62,6 @@
       <pubDate>Sun, 18 Aug 2024 00:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>TikTokers 正在加快歌曲的速度——但我们是否忘记了原创歌曲？</title>
-      <link>https://www.bbc.com/news/articles/cqv5x2qe8q6o</link>
-      <description><![CDATA[TikTokers 正在改变歌曲的节奏以达到短暂的流行效果——但对于艺术家来说，创作一首热门曲调可能变得更加困难。]]></description>
-      <guid>https://www.bbc.com/news/articles/cqv5x2qe8q6o</guid>
-      <pubDate>Sun, 18 Aug 2024 00:03:17 GMT</pubDate>
-    </item>
-    <item>
       <title>电话窃听、破坏和暗杀阴谋：德国是否陷入了冷战 2.0？</title>
       <link>https://www.bbc.com/news/articles/clyn8vk4g42o</link>
       <description><![CDATA[随着俄罗斯和乌克兰之间热战肆虐，人们担心欧洲陷入新的冷战。]]></description>
@@ -55,7 +76,7 @@
       <pubDate>Sat, 17 Aug 2024 23:42:41 GMT</pubDate>
     </item>
     <item>
-      <title>认识那些心脏衰老较慢的人</title>
+      <title>亚马逊雨林深处生活着一个心智衰老速度较慢的群体</title>
       <link>https://www.bbc.com/news/articles/ceq55l2gdxxo</link>
       <description><![CDATA[研究表明，玻利维亚土著齐曼尼人的心脏和大脑是地球上最健康的。]]></description>
       <guid>https://www.bbc.com/news/articles/ceq55l2gdxxo</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[克拉克顿议员告诉 BBC，这笔款项还涵盖自四月以来开展的工作以及额外的服务。]]></description>
       <guid>https://www.bbc.com/news/articles/c2l1kk9xqnyo</guid>
       <pubDate>Sat, 17 Aug 2024 20:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨默塞特宫大火得到控制，艺术品安全无虞</title>
-      <link>https://www.bbc.com/news/articles/cqjl70ny0lqo</link>
-      <description><![CDATA[超过 120 名消防员正在扑灭伦敦市中心这座地标建筑的火灾。]]></description>
-      <guid>https://www.bbc.com/news/articles/cqjl70ny0lqo</guid>
-      <pubDate>Sat, 17 Aug 2024 19:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>KSI 和 Sidemen 跻身英国最富有的游戏玩家之列</title>
-      <link>https://www.bbc.com/news/articles/ceq5g9x0pxxo</link>
-      <description><![CDATA[YouTubers KSI 和 Sidemen 与《星期日泰晤士报》2024 年英国游戏富豪榜中的亿万富翁开发商和行业传奇人物一起上榜。]]></description>
-      <guid>https://www.bbc.com/news/articles/ceq5g9x0pxxo</guid>
-      <pubDate>Sat, 17 Aug 2024 18:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰希望入侵俄罗斯能改变战争结果</title>
-      <link>https://www.bbc.com/news/articles/cn8lzyjprymo</link>
-      <description><![CDATA[乌克兰人表示，进军库尔斯克带来了战术优势，并为结束战争打开了大门。]]></description>
-      <guid>https://www.bbc.com/news/articles/cn8lzyjprymo</guid>
-      <pubDate>Sat, 17 Aug 2024 11:37:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
