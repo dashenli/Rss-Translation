@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 15 Aug 2024 21:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 18:20:17 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）安全的无限循环</title>
+      <link>https://sixcolors.com/feed-only/2024/08/the-infinite-loop-of-security/</link>
+      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/08/the-infinite-loop-of-security/</guid>
+      <pubDate>Mon, 19 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>visionOS 2 印象：这不是空间吗？</title>
       <link>https://sixcolors.com/post/2024/08/visionos-2-impressions-isnt-that-spatial/</link>
@@ -52,7 +59,7 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <pubDate>Wed, 14 Aug 2024 12:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）升级 524：我们正在制作小点心</title>
+      <title>（播客）升级 524：我们正在制作一件小礼物</title>
       <link>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</link>
       <description><![CDATA[这一集涉及很多层面，我们讨论了奥运会、谷歌反垄断裁决、苹果新的欧盟收费计划、一款微型新 Mac mini、macOS 对话灾难以及十年前的科技世界。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</guid>
@@ -110,14 +117,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
       <description><![CDATA[如果你像我一样，大多数时候都会浏览科技新闻头条，那么你可能已经被各种新闻头条所轰炸，这些新闻头条都涉及人工智能的一些变化以及它将如何改变一切。…]]></description>
       <guid>https://www.macworld.com/article/2420046/apples-modest-ai-ambitions-are-the-right-approach.html</guid>
       <pubDate>Wed, 07 Aug 2024 14:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flighty 4.0 增加延迟详细信息 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/flighty-4-0-adds-delay-details/</link>
-      <description><![CDATA[Flighty 4.0 运行情况（由 Flighty 提供）。
-出色的航班跟踪应用 Flighty 已更新至 4.0 版，其中包含一系列新功能，旨在预测和解释航班延误。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/flighty-4-0-adds-delay-details/</guid>
-      <pubDate>Tue, 06 Aug 2024 16:07:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
