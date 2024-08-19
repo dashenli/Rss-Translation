@@ -4,7 +4,46 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 19 Aug 2024 12:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:16:06 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉正在招聘人员来做机器人</title>
+      <link>https://www.theverge.com/2024/8/19/24223626/tesla-optimus-humanoid-robot-motion-capture-training</link>
+      <description><![CDATA[
+
+该角色的身高和动作要求与擎天柱的期望相符。 |图片：特斯拉
+
+特斯拉正在招聘人员，通过穿着动作捕捉服并模仿其预期执行的动作来帮助训练其人形机器人擎天柱。特斯拉招聘网站上的职位是“数据收集操作员”，每小时工资高达 48 美元，需要每天行走超过七个小时，同时携带多达 30 磅的重物，并“长时间”佩戴 VR 耳机。
+员工身高也必须在 5 英尺 7 英寸至 5 英尺 11 英寸之间——可能与擎天柱预计的 5 英尺 8 英寸身高相似。 Tesla Optimus 的官方 X 帐户之前透露了该职位的具体职责，Business Insider 报道称，特斯拉在过去一年中已为该职位招聘了 50 多名员工。
+动作捕捉是一种常见且通常经济高效的方式，用于训练机器人如何执行类似人类的动作，但特斯拉是首批如此大规模地进行动作捕捉的公司之一。虽然一些在线视频展示了Optimus 执行各种任务，但 Nvidia Research 高级研究员 Animesh Garg 告诉 Business Insider，Optimus 可能需要数百万小时的数据才能完全准备好在特斯拉的工厂工作。
+“你需要的数据收集量很容易达到 5 亿美元，真正的问题是‘即使你这样做，你能成功吗？’因为没有成功的保证，”Garg 说。
+这对于人形机器人和运行它们的人工智能系统来说很典型，它们都需要艰苦的训练。虽然特斯拉首席执行官埃隆·马斯克承诺将在明年投入生产“真正有用”的机器人（他本人也承认这个时间表大部分都是猜测），但目前看来，Optimus 似乎并不比波士顿动力公司（Boston Dynamics）的竞争对手更接近完成，波士顿动力公司的竞争对手更接近完成。 href=&quot;https://www.theverge.com/2024/1/18/24043065/bmw-figure-robotics-humanoid-robot-workers-deployment&quot;&gt;Figure 和 Apptronik 正在接受其他汽车制造商的测试。]]></description>
+      <guid>https://www.theverge.com/2024/8/19/24223626/tesla-optimus-humanoid-robot-motion-capture-training</guid>
+      <pubDate>Mon, 19 Aug 2024 15:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 5 推出更便宜的 2GB 版本</title>
+      <link>https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option</link>
+      <description><![CDATA[
+
+图片：Raspberry Pi Foundation
+
+现在有一款新的 Raspberry Pi 5 上市了：2GB 版本将微型计算机的价格降至 50 美元。较低的 RAM 并不一定意味着它具有较少的功能，只是它无法胜任一些 RAM 密集型任务。 Raspberry Pi 基金会首席执行官 Eben Upton 表示该设备“功能上与其前代产品完全相同”。
+当 Raspberry Pi 5 去年发布时，它只有 4GB 版本，售价 60 美元，8GB 版本售价 80 美元，比 Raspberry Pi 4 的相应型号贵 5 美元。虽然 2GB 版本可能不是做事的理想选择例如运行 AI 应用程序或将其用作功能齐全的媒体中心，Upton 表示许多客户可能会发现它“非常适合”要求不高的用例。
+
+
+
+Raspberry Pi 5 是 Raspberry Pi 基金会最强大的产品，采用其内部RP1 I/O 控制器，以及运行速度为 2.4GHz 的四核 Arm Cortex-A76 处理器。为了打造 2GB 型号，Raspberry Pi 基金会构建了一款成本优化版处理器，消除了不需要的任何功能。结果是具有相同功能（包括 PCI Express 2.0 接口）的芯片更便宜。
+您可以从授权经销商处购买更便宜的 Raspberry Pi 5 选项，例如 CanaKit 和 PiShop.us。]]></description>
+      <guid>https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option</guid>
+      <pubDate>Mon, 19 Aug 2024 13:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>兰博基尼的首款电动汽车即将准备就绪——但我们准备好了吗？</title>
+      <link>https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs</guid>
+      <pubDate>Mon, 19 Aug 2024 13:01:28 GMT</pubDate>
+    </item>
     <item>
       <title>Procreate 的反人工智能承诺受到数字创意人士的赞扬</title>
       <link>https://www.theverge.com/2024/8/19/24223473/procreate-anti-generative-ai-pledge-digital-illustration-creatives</link>
@@ -29,7 +68,7 @@ Waymo 尚未立即回应我们的置评请求。]]></description>
       <pubDate>Sun, 18 Aug 2024 23:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>《星球大战：法外狂徒》发布新预告片 — — 并列出 PC 硬件要求</title>
+      <title>《星球大战：亡命之徒》发布新预告片并列出 PC 硬件要求</title>
       <link>https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer</link>
       <description><![CDATA[
 
@@ -125,43 +164,6 @@ The Verge 最喜欢的保持井然有序的工具
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer</guid>
       <pubDate>Sun, 18 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rimac 的 Nevera R 让世界上最快的量产电动汽车速度更快</title>
-      <link>https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar</link>
-      <description><![CDATA[
-
-
-Rimac 是速度超快的 Nevera EV 背后的公司，该公司表示，现在 通过 Nevera R，速度更快。 Rimac 新款电动超级跑车的这个新版本显然可以在短短 1.74 秒内从静止加速到 60 英里/小时，比原版快了约十分之一秒。快。
-这款电动汽车显然可以产生 2,107 马力，比其前身多出约 200 马力。除此之外，Rimac 表示 Nevera R 具有更好的空气动力学性能、更大的下压力和更好的抓地力，并且它在保时捷拥有的意大利高速赛道 Nardo Ring 上成功将 Nevera 的单圈时间缩短了 3.8 秒。 
-
-与普通的 Nevera 一样，这款新的电动超级跑车需要“制造商监督”才能解锁其 256 英里/小时的最高速度。如果没有监督，汽车的速度将被限制在 217 英里/小时，MotorTrend 报道。该媒体称，Rimac 预计该车的 108kWh 电池在欧洲 WLTP 循环下可续航约 250 英里，尽管尚未获得认证。
-
-与 Nevera R. Rimac 相比，您可能更幸运地能坐上该公司即将推出的克罗地亚机器人出租车之一，Nevera R. Rimac，它拥有布加迪的多数股权，只会生产 40 辆，而且正如 MotorTrend 所写，它们的价格将达到 250 万美元。]]></description>
-      <guid>https://www.theverge.com/2024/8/17/24222466/rimacs-nevera-r-fastest-ev-supercar</guid>
-      <pubDate>Sat, 17 Aug 2024 19:15:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16：有关苹果下一代智能手机的所有泄露和传言</title>
-      <link>https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras</link>
-      <description><![CDATA[
-
-iPhone 15 Pro。 |照片由 Vjeran Pavic / The Verge 拍摄
-
-关于 Apple Intelligence 时代首批新 iPhone 的谣言工厂是怎么说的。 Apple 应该很快就会推出 iPhone 16 系列，虽然关于其手机的谣言不会像某些 其他 手机那样泄露 我知道，一些细节已经从库比蒂诺及其供应链中泄露出来。从外观上看，我们大多认为它们看起来很像 iPhone，但作为 WWDC Apple Intelligence 首次亮相后的首款新 Apple 智能手机，这些变化可能超出人们的想象。
-从外观上看，有传言称 Apple 重新设计了普通 iPhone 上的摄像头凸起，并且至少在 iPhone 16 Pro 上添加了一个类似单反相机的新型压力感应式相机按钮。预计 16 Pro 机型的屏幕将比 iPhone 15 系列中的同类产品略大。
-所有 iPhone 16 均预计支持 Apple Intelligence 的设备内置 AI 功能。这意味着他们需要一些增强的规格才能实现本地AI 摘要和写作工具等功能，以及可能要求更高的功能，例如Apple 的 Image Playground 所提供的功能。 
-
-]]></description>
-      <guid>https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras</guid>
-      <pubDate>Sat, 17 Aug 2024 14:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>华硕 ROG Ally 本周末以迄今为止的最低价发售</title>
-      <link>https://www.theverge.com/2024/8/17/24221765/asus-rog-ally-gaming-handheld-roborock-q-revo-robot-vacuum-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/17/24221765/asus-rog-ally-gaming-handheld-roborock-q-revo-robot-vacuum-deal-sale</guid>
-      <pubDate>Sat, 17 Aug 2024 14:12:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
