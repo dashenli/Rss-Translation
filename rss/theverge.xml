@@ -4,7 +4,23 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 18 Aug 2024 21:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 01:04:07 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 的自动驾驶出租车站仍在鸣笛，吵醒旧金山的邻居</title>
+      <link>https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working</link>
+      <description><![CDATA[
+
+一辆 Waymo 汽车在旧金山行驶。 | 照片：Smith Collection / Gado / Getty Images
+
+住在 Waymo 停车场旁边一栋楼里的旧金山邻居仍然被夜间鸣笛声所困扰。尽管网约车公司已经修复了最初的问题（停车场里的汽车鸣笛），但问题也比最初看起来的要棘手一些。Waymo 上周表示，鸣笛是 安全功能 导致的，当 Waymo 汽车检测到另一辆车倒车时，该功能就会触发。索菲亚·董 (Sophia Tung) 经营着一个停车场的 YouTube 直播平台，她在一封电子邮件中告诉 The Verge，Waymo 修复补丁后的第一个晚上，几辆汽车错过了停车场，莫名其妙地驶入了她所在大楼旁边的一条死胡同。在我们观看的一段视频中，车辆在死胡同里堵车，并开始鸣喇叭。 
+Tung 说，公司很快“彻底关闭了死胡同，并为我们举办了一场冰淇淋社交活动来平息事态。”她补充说，此后几天一切都很平静。
+
+但今天早上，当大量车辆同时返回时，自动驾驶出租车又出现了另一个极端情况，导致排队进入停车场。当其中一辆车倒车驶向在路上等候的其他车辆（在那里，它们似乎不受停车场限制的束缚）时，它引发了 Waymo 车辆的连锁反应，每辆车都倒车，引发下一辆车辆鸣笛并倒车，依此类推。
+Tung 表示，她已经就新一轮鸣笛事件联系了 Waymo。她还计划在明天美国东部时间下午 5:30 开始的直播中与 Waymo 产品管理和运营总监 Vishay Nihalani 交谈。
+Waymo 尚未立即回应我们的置评请求。]]></description>
+      <guid>https://www.theverge.com/2024/8/18/24223160/waymo-honking-san-francisco-parking-lot-depot-fix-not-working</guid>
+      <pubDate>Sun, 18 Aug 2024 23:21:39 GMT</pubDate>
+    </item>
     <item>
       <title>《星球大战：法外狂徒》发布新预告片 — — 并列出 PC 硬件要求</title>
       <link>https://www.theverge.com/2024/8/18/24223015/ubisoft-star-wars-outlaws-pc-requirements-trailer</link>
@@ -146,13 +162,6 @@ iPhone 15 Pro。 |照片由 Vjeran Pavic / The Verge 拍摄
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24219372/photography-instagram-500px-flickr-showcase</guid>
       <pubDate>Sat, 17 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EcoFlow 的电池供电空调和加热器组合太夸张了</title>
-      <link>https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price</guid>
-      <pubDate>Sat, 17 Aug 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
