@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 19 Aug 2024 18:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 01:03:43 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 525：U3 精选</title>
+      <link>https://sixcolors.com/podcast/2024/08/upgrade-525-best-of-u3/</link>
+      <description><![CDATA[Fortnite 和 Epic 重返（不是你的）iPhone，苹果开放 NFC 并对 Patreon 实施新的限制，Spotify 发布了链接，我们讨论什么是“桌面机器人”，什么不是“桌面机器人”。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/upgrade-525-best-of-u3/</guid>
+      <pubDate>Mon, 19 Aug 2024 21:07:01 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）安全的无限循环</title>
       <link>https://sixcolors.com/feed-only/2024/08/the-infinite-loop-of-security/</link>
@@ -110,13 +117,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
       <description><![CDATA[只是感觉很好。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/the-rebound-507-not-just-waving-my-hands-over-a-keyboard-like-a-cat/</guid>
       <pubDate>Wed, 07 Aug 2024 16:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在人工智能领域的稳健策略将再次赢得胜利（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2420046/apples-modest-ai-ambitions-are-the-right-approach.html</link>
-      <description><![CDATA[如果你像我一样，大多数时候都会浏览科技新闻头条，那么你可能已经被各种新闻头条所轰炸，这些新闻头条都涉及人工智能的一些变化以及它将如何改变一切。…]]></description>
-      <guid>https://www.macworld.com/article/2420046/apples-modest-ai-ambitions-are-the-right-approach.html</guid>
-      <pubDate>Wed, 07 Aug 2024 14:13:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
