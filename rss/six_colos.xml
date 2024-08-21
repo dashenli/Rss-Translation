@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 20 Aug 2024 01:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 01:04:06 GMT</lastBuildDate>
+    <item>
+      <title>《纪念碑谷 3》将成为 Netflix 游戏 ↦</title>
+      <link>https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/</link>
+      <description><![CDATA[Netflix 宣布经典独立平台游戏续集《纪念碑谷 3》将于 12 月 10 日推出（令人惊讶）。它将在 App Store 上架，但专供 Netflix 订阅用户使用。…]]></description>
+      <guid>https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/</guid>
+      <pubDate>Wed, 21 Aug 2024 00:15:46 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 525：U3 精选</title>
       <link>https://sixcolors.com/podcast/2024/08/upgrade-525-best-of-u3/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>（赞助商）安全的无限循环</title>
       <link>https://sixcolors.com/feed-only/2024/08/the-infinite-loop-of-security/</link>
-      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
+      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对解决新问题的新解决方案充满热情。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/08/the-infinite-loop-of-security/</guid>
       <pubDate>Mon, 19 Aug 2024 16:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/08/1password-2/</link>
       <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。SEC 现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/08/1password-2/</guid>
       <pubDate>Fri, 09 Aug 2024 16:00:15 GMT</pubDate>
     </item>
@@ -110,13 +117,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
       <description><![CDATA[每个人都应该拥有的技术、我们的飞机设备策略、Apple 的新干扰控制功能以及我们想要通过 Siri 控制的应用程序。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/clockwise-566-thats-my-shredder-sound/</guid>
       <pubDate>Wed, 07 Aug 2024 18:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 507：不仅仅是像猫一样在键盘上挥动双手</title>
-      <link>https://sixcolors.com/podcast/2024/08/the-rebound-507-not-just-waving-my-hands-over-a-keyboard-like-a-cat/</link>
-      <description><![CDATA[只是感觉很好。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/08/the-rebound-507-not-just-waving-my-hands-over-a-keyboard-like-a-cat/</guid>
-      <pubDate>Wed, 07 Aug 2024 16:17:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

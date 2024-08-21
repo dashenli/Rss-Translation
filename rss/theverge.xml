@@ -4,7 +4,102 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 01:03:07 GMT</lastBuildDate>
+    <item>
+      <title>Gmail 中的 Gemini 现在可帮助您润色草稿</title>
+      <link>https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Google 正在升级 Gmail 中的 Gemini 写作工具，以帮助您润色已经写好的草稿。现在，除了其他 Gemini 支持的“帮我写”选项（如 Formalize 和 Elaborate）之外，您还可以点击“润色”来完善您的电子邮件，谷歌在一篇博文中表示。该公司还在 Android 和 iOS 上添加了出现在电子邮件正文中的快捷方式，这更明显地表明有 AI 写作工具可供使用。
+这些工具可供付费使用 Google One AI Premium 帐户或已为 Workspace 购买 Google Gemini 插件的人使用。如果您是这种情况，当您打开空白草稿时，您会看到出现一个“帮我写”快捷方式，您可以点击该快捷方式以获取 Gemini 草稿文本。一旦草稿中有 12 个或更多单词（无论是否由 AI 编写），您就会看到一个新的“优化我的草稿”快捷方式，以灰色字母显示在单词下方。
+
+
+GIF：Google
+在“优化我的草稿”快捷方式上滑动，会出现“润色”和“细化”等选项。
+
+用拇指在文本上滑动，您可以选择“润色”、“形式化”、“细化”或“缩短”，或者让 Gemini 为您撰写一份全新的草稿。 （如果没有出现“优化我的草稿”快捷方式，点击铅笔图标也可以达到同样的效果。）
+]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish</guid>
+      <pubDate>Tue, 20 Aug 2024 22:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌因 Chrome 数据收集面临集体诉讼</title>
+      <link>https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge 插图
+
+Google 将面临集体诉讼，指控其在未经用户同意的情况下通过 Chrome 收集用户数据。在周二的一项裁决中，联邦上诉法院推翻了2022 年 12 月的一项裁决，该裁决驳回了此案，称下级法院应该审查谷歌的披露信息，并确定“一个理性的用户在阅读这些信息时是否会认为他或她同意数据收集”。
+集体诉讼，首先2020 年提起的诉讼称，谷歌收集了 Chrome 用户的数据——无论他们是否启用了 Chrome 同步。此功能会将书签、密码、打开的标签页和其他数据保存到您的 Google 帐户中，让您在多台设备上登录 Chrome 时轻松访问这些信息。
+原告声称 Chrome 在未经他们明确许可的情况下“故意和非法”向谷歌发送了浏览历史记录、IP 地址、持久性 cookie 标识符和唯一浏览器标识符。当时，谷歌辩称，用户通过接受公司的隐私政策就同意了这一点。伊冯娜·冈萨雷斯·罗杰斯法官对此表示同意，她在撤诉令中表示，“谷歌充分披露了涉案数据的收集，原告也同意。”
+
+然而，米兰·D·史密斯法官在今天的判决中写道，冈萨雷斯·罗杰斯法官没有考虑用户是否真正理解了该协议。“谷歌有一般隐私披露，但通过暗示除非用户打开同步，否则某些信息不会发送给谷歌来推广 Chrome，”史密斯写道。该案将退回下级法院重新审理。
+“我们不同意这项裁决，并相信案件事实对我们有利。 Chrome Sync 可帮助人们在不同设备上无缝使用 Chrome，并具有明确的隐私控制，”谷歌发言人 José Castañeda 在给The Verge的一份声明中表示。尽管谷歌很快将不再要求用户启用 Chrome 同步来访问已保存的信息，但 Castañeda 表示，“此声明与诉讼无关。”
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24224686/google-class-action-lawsuit-chrome-sync-data-collection</guid>
+      <pubDate>Tue, 20 Aug 2024 21:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌课堂暑假过后回归，以更好的方式开展小组项目</title>
+      <link>https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+今天，Google 宣布通过名为“学生小组”的新功能，让 Google Classroom 中的小组作业分配变得更轻松、更快捷。教师现在可以在创建和分配小组作业之前将个别学生添加到预定义组中。
+Google 为这个学年带来了一系列新更新，适用于现已已有 10 年历史的 Classroom 平台，例如新的Education Navigator、Read Along 功能，以及深色模式。但教师们已经等待学生小组之类的功能很久了。
+以前，如果教师想要布置小组作业，他们需要先创建作业，然后单独将学生添加到该作业中。对于偶尔的小组项目，这种方法还算有效，但对于经常让学生进行小组作业的老师来说，这很麻烦——尤其是如果他们的学生在整个学年都呆在同一组的话。
+
+
+图片：Google
+
+但现在，分配小组作业的过程不再那么麻烦了。在“人员”标签页中，教师可以使用班级名册上方的新“组”按钮来创建、命名、添加和修改自定义学生组。每当教师创建作业时，这些组都是可用的选项。
+此前，Google 增加了从某些学生信息系统 (SIS) 导入班级名册的功能，这意味着一些教师不再需要手动将学生姓名逐一添加到他们创建的每个新课堂中。]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24224594/google-classroom-student-group-assignments</guid>
+      <pubDate>Tue, 20 Aug 2024 21:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shein 正在抄袭 Temu 的版权诉讼</title>
+      <link>https://www.theverge.com/2024/8/20/24224793/shein-temu-copyright-lawsuit-yes-again</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24224793/shein-temu-copyright-lawsuit-yes-again</guid>
+      <pubDate>Tue, 20 Aug 2024 21:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 首席执行官表示旧版应用无法重新发布</title>
+      <link>https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be</link>
+      <description><![CDATA[
+
+照片由 Chris Welch / The Verge 拍摄
+
+如果你想要恢复旧的 Sonos 应用程序，它不会来了。在周二发布的 Reddit AMA 回复中，Sonos 首席执行官 Spence 表示他“直到最近”还希望公司能够重新发布该应用程序，并证实了来自The Verge的报道，该公司正在考虑这样做。但在测试了该选项后，Spence 表示，重新发布旧应用显然会让情况变得更糟。
+自 5 月 7 日发布新应用以来，Spence 已发布正式道歉，并于 8 月宣布公司将推迟发布两款产品“直到我们的应用体验达到我们、我们的客户和合作伙伴对 Sonos 的期望质量水平。”
+以下是 Spence 对此原因的解释它无法恢复旧应用程序：
+当然，诀窍在于 Sonos 不仅仅是移动应用程序，而且是可以在扬声器和云上运行的软件。自新移动应用程序推出以来的几个月里，我们一直在更新在扬声器和云上运行的软件，以至于今天的 S2 比您记忆中的更不可靠、更不稳定。经过大量测试后，我们不得不得出结论，重新发布 S2 会使问题变得更糟，而不是更好。我确信这令人失望。这对我来说很令人失望。 
+在AMA中，Spence 还讨论了双因素身份验证等内容（“一种可能性”）。 Spence 表示，这款应用“仍是我的首要任务”，但他承诺他会“在某些晚上和周末回到 Reddit，参与讨论获得最多点赞的问题”。
+]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24224754/sonos-ceo-old-s2-app-re-release-cant-be</guid>
+      <pubDate>Tue, 20 Aug 2024 21:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nomad 最新款 Base One Max 三合一充电器优惠 50 多美元</title>
+      <link>https://www.theverge.com/2024/8/20/24224722/nomad-base-one-max-3-in-1-magsafe-magnetic-charger-deal-sale</link>
+      <description><![CDATA[
+
+非常适合放在书桌、床头柜或家里的任何地方。 |图片：Noamd
+
+Nomad 的各种手机壳和 Apple Watch 表带可能都有不少折扣，但我们很少看到其高档的多充电器有大幅折扣。但现在，第二代 Base One Max  有 黑色 或 银色 售价 119 美元（减 51 美元），只需在 Nomad 网站上使用优惠券代码 VERGEB1M 即可。 30% 折扣有效期至太平洋时间 8 月 25 日晚上 11:59。
+
+如果您有一部兼容 MagSafe 的 iPhone 和配套配件，例如 Apple Watch 或 AirPods，那么 Base One Max 是一款出色的三合一家用充电器，放在您的办公桌或边桌上也不会显得碍眼。这款厚重的充电器采用金属和玻璃板式结构，重量为 1.7 磅，可以同时为兼容的 Apple Watch 快速充电，同时以 15W 的无线充电速度为 iPhone 充电——同时为一些 AirPods 或另一对支持无线充电的耳机充电。
+
+其他品牌也有更便宜的 MagSafe 兼容选项，但很少有看起来如此时尚、做工如此精良的。此外，它们中的许多都不符合 Apple 的官方 MagSafe 认证或新 Qi 标准，而是符合原始 Qi，其在 iPhone 上的充电速度最高为 7.5W。如果有家庭成员或其他同居者使用 Android 手机，Base One Max 的平板也可以为他们的手机进行无线充电（只是没有磁铁的帮助，无法每次都完美对齐）。
+]]></description>
+      <guid>https://www.theverge.com/2024/8/20/24224722/nomad-base-one-max-3-in-1-magsafe-magnetic-charger-deal-sale</guid>
+      <pubDate>Tue, 20 Aug 2024 21:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>《文明 7》让你可以混合搭配历史——非常棒</title>
       <link>https://www.theverge.com/24224489/civilization-7-hands-on-demo-impressions-firaxis-games</link>
@@ -20,10 +115,10 @@
 图片：特斯拉
 
 周一凌晨，一辆特斯拉半挂卡车在加州一条高速公路旁撞上树木并起火，导致 I-80 公路封闭近 16 个小时。 据 KCRA 3 News 报道，加州消防局工作人员于当地时间凌晨 3 点后首先前往内华达州边境附近的坠机现场。
-消防员向特斯拉半挂车浇了数千加仑的水，以将其锂离子电动汽车电池组冷却至可控的目标温度（约 100 华氏度），同时等待其电池烧坏。下午 4 点左右，工作人员将电池调至更安全的温度，并开始将半挂车的残骸运往内华达州斯帕克斯的特斯拉超级工厂。晚上 7 点后，高速公路全面恢复通车。
+据 Electrek 先前报道，消防员向特斯拉 Semi 卡车浇了数千加仑的水，以将其锂离子电动汽车电池组冷却至可控的目标温度（约 100 华氏度），同时等待电池烧坏。下午 4 点左右，工作人员将电池调至更安全的温度，并开始将半挂卡车的残骸运往特斯拉位于内华达州斯帕克斯的超级工厂。晚上 7 点后，高速公路全面恢复通行。
 
 
-加州消防局称，周一凌晨，一辆特斯拉半挂卡车在尼亚克以东起火，13 个多小时后，西行的 80 号州际公路恢复通车。东行 I-80 仍然关闭。在此处阅读更多信息：https://t.co/f11gJBbmWS pic.twitter.com/b6f8qjcoPw— kcranews (@kcranews) 2024 年 8 月 20 日
+加州消防局称，周一凌晨，一辆特斯拉半挂卡车在尼亚克以东起火，13 个多小时后，西行的 80 号州际公路恢复通行。东行 I-80 仍然关闭。在此处阅读更多信息：https://t.co/f11gJBbmWS pic.twitter.com/b6f8qjcoPw— kcranews (@kcranews) 2024 年 8 月 20 日
 
 
 加州公路巡警局告诉 KCRA 3，半挂车司机在离开事故现场后被送往医院。目前，当局正在调查事故原因，包括司机是否睡着了。这辆半挂车由特斯拉运营，该公司经常使用 8 级商用卡车将新制造的电动汽车电池从超级工厂运送到位于加州弗里蒙特的汽车制造厂。这次，它没有拖着拖车，所以似乎是半挂车自己的电池起火了。
@@ -83,102 +178,6 @@ $7/月
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
       <pubDate>Tue, 20 Aug 2024 19:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 让您可以更轻松地跨设备访问已保存的密码</title>
-      <link>https://www.theverge.com/2024/8/20/24224603/google-chrome-access-saved-passwords-sync</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-您很快就能访问您已保存的密码、书签和地址，只需在浏览器中登录您的 Google 帐户即可。这一变化让你省去了打开 Chrome 同步的额外步骤——继去年在 iOS 上推出之后，该功能即将在 Android 和桌面版 Chrome 上推出。
- 
-
-GIF：谷歌
-Google 已在 iOS 上推出了简化流程。
-
-
-Google 表示，它将为您提供登录 Chrome 的选项，以获得“定制的浏览体验”，允许您发送标签并在不同设备之间使用已保存的密码。但如果您不想将浏览数据链接到 Google 帐户，则无需登录 Chrome 帐户。Google 还指出，将您的历史记录和打开的标签保存到 Google 帐户需要您单独选择加入。
-“如今，用户越来越希望只需登录即可访问他们的东西，然后退出以确保安全，”Chrome 产品经理 Claire Charron 在公告中写道。 “鉴于技术和用户规范的演变，我们将继续努力将我们的传统同步模型转变为更无缝地满足当今用户期望的模型。”
-至于这一变化何时会在 Android 和 iOS 上推出，谷歌表示“请继续关注更新”。]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224603/google-chrome-access-saved-passwords-sync</guid>
-      <pubDate>Tue, 20 Aug 2024 19:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starfield 的“破碎空间”扩展包将于 9 月发布</title>
-      <link>https://www.theverge.com/2024/8/20/24224568/starfield-shattered-space-expansion-trailer-release-date</link>
-      <description><![CDATA[
-
-图片：Bethesda Softworks
-
-今年夏初，Bethesda 正式发布了其科幻角色扮演游戏《Starfield》的首个重大扩展包《Shattered Space》。现在，我们终于确定了日期：更新将于 9 月 30 日发布。它将同时登陆 Xbox 和 PC。
-除了日期之外，该工作室还发布了该扩展包的（简短）预告片，展示了其更多较暗的基调（至少与大部分基础游戏相比）。故事围绕着神秘的“Va’Ruun 家族”及其母星展开，玩家将遭遇“可怕的新宇宙威胁，并揭开银河系最神秘派系背后的秘密。”
-但实际上，预告片主要关注的是人们呼声极高的特定功能：一种名为 REV-8 的陆地车辆。它是今天晚些时候推出的免费更新的一部分，应该会让探索行星变得轻松很多。此次更新还将为 Xbox Series S 上的玩家提供新的视觉设置——请查看此处的所有详细信息。
-《Starfield》于 2023 年首次发布，是 Bethesda 很长一段时间以来的首个新系列。但该开发商的其他主要作品仍然活跃：《辐射》拥有一款经久不衰的在线游戏和热门电视节目，而下一部《上古卷轴》已经开发了好几年。]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224568/starfield-shattered-space-expansion-trailer-release-date</guid>
-      <pubDate>Tue, 20 Aug 2024 19:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>《文明 7》将于 2 月发布</title>
-      <link>https://www.theverge.com/2024/8/20/24224532/civilization-7-release-date-february-2025</link>
-      <description><![CDATA[
-
-图片：Firaxis Games
-
-明年，你将能够在《文明 7》中改写历史进程。 Firaxis Games 在 2024 年的开幕之夜现场活动中发布了一段新预告片和一些新闻——《文明 7》将于 2025 年 2 月 11 日在几乎所有可以玩电子游戏的平台上发布。 
-《文明 6》 八年前发布，但在此期间不断收到更新和 DLC。Firaxis Games 于去年 2 月宣布它正在开发一款新的《文明》游戏。从那时起，该工作室一直在慢慢推出细节，在今年的夏季游戏节期间首次推出了预告片，现在又发布了 2024 年 Gamescom 的新发布日期预告片。如果这个预告片还不足以吸引所有 4X 狂热者，Firaxis 还有更多内容要分享，将于今天晚些时候美国东部时间下午 4:30 在 Twitch 上举办 20 分钟的游戏深度探索。
-《文明 7》将于 2 月 11 日在 PC、Mac、Xbox、PlayStation 和 Nintendo Switch 上推出。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224532/civilization-7-release-date-february-2025</guid>
-      <pubDate>Tue, 20 Aug 2024 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《无主之地 4》将于 2025 年推出</title>
-      <link>https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios</link>
-      <description><![CDATA[
-
-图片：Gearbox Software
-
-Gearbox 计划在 2025 年某个时候推出无主之地 4，该公司在周二的 Gamescom 开幕之夜现场节目中宣布了这一消息。该游戏将在 PC、PS5 和 Xbox Series X/S 上发布。
-预告片相当神秘，YouTube 上的预告片描述也没有提供太多细节。“在这款终极掠夺者射击游戏的下一部作品中，玩家将扮演传奇的秘藏猎人，在全新星球上冲破成群的敌人，寻找新的宝藏，”描述。至少，这款新游戏似乎将延续该系列其他游戏的传奇。
-此前，无主之地电影反响不佳，票房惨淡。无主之地 3是该系列的最后一款主线游戏，于2019 年 9 月推出。]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios</guid>
-      <pubDate>Tue, 20 Aug 2024 18:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel Watch 3 损坏后无法修复</title>
-      <link>https://www.theverge.com/2024/8/20/24224491/google-pixel-watch-3-non-repairable-replacement-only</link>
-      <description><![CDATA[
-
-照片由 Victoria Song / The Verge 拍摄
-
-如果您的全新 Pixel Watch 3 屏幕不小心破裂，Google 不会对其进行维修；谷歌代表向Android Authority表示，这款新智能手表“仅提供更换”。这意味着这是谷歌连续第三款不提供维修的智能手表。
-这很遗憾，尤其是当你考虑到 Pixel Watch 屏幕在我们对最近两次的评测中表现如何时。如果您恰好购买了 Google 的设备保险计划 Preferred Care，则更换费用为 49 美元 - 但该计划的两年保险费用为 89 美元（或 60 个月每月 4 美元）。 
-
-Google 代表 Erin Cizek 通过电子邮件向 The Verge 证实，Pixel Watch 3s 受损的用户可以“联系 Google Pixel Watch 客户支持团队，查看您的更换选项”。 
-如果您没有购买 Preferred Care 计划（您必须在购买 Pixel Watch 3 时或购买后 30 天内购买），那么您的选择就很少。 Google 提供了潜在的折扣邮寄更换，或者您可以试试修理它。 
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224491/google-pixel-watch-3-non-repairable-replacement-only</guid>
-      <pubDate>Tue, 20 Aug 2024 18:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以在 Peloton 上阅读 Kindle 书籍</title>
-      <link>https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness</link>
-      <description><![CDATA[
-
-你们当中谁会一边跑步一边阅读？请告诉我你是谁。 | 图片：亚马逊
-
-如果你曾经想过，“伙计，我希望我能一边在 Peloton 跑步机上流汗一边阅读”，那么好消息来了。您现在可以直接从 Peloton Bike、Bike Plus、Tread 或 Tread Plus 访问您的 Kindle 图书馆。 
-“再也不用一边笨拙地拿着书或 Kindle 电子阅读器一边努力保持正确姿势了，”亚马逊的新闻稿写道，其中指出，您可以阅读从惊悚小说到非小说类书籍再到烹饪书的任何内容。该功能将在美国、英国、加拿大、澳大利亚、奥地利和德国推出。
-要访问您的电子书，您只需转到“娱乐”选项卡即可。Peloton 上的 Kindle 应用程序还允许使用字体大小调整、书签和章节间跳转等功能。 
-诚然，出于显而易见的原因，大多数在锻炼时阅读的人倾向于选择有声读物。但更大的收获是这种趋势朝着 自由使用 Peloton 机器的趋势发展。许多 Peloton 粉丝喜欢这些课程，但对于他们家中的每个人来说，情况并非总是如此。以前，Peloton 平板电脑仅限于 Peloton 内容，这限制了它们对非粉丝的吸引力——除非你有足够的勇气取消保修并越狱你的智能自行车。去年 11 月，Peloton 推出了“娱乐”标签，允许人们使用 Netflix、YouTube TV、Disney Plus 和 Max 的测试版播放电视节目、电影和体育节目。增加 Kindle 兼容性只是这一趋势的另一个延伸。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/20/24224501/kindle-peloton-ebooks-fitness</guid>
-      <pubDate>Tue, 20 Aug 2024 17:40:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
