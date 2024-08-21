@@ -4,7 +4,17 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 21 Aug 2024 01:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:20:47 GMT</lastBuildDate>
+    <item>
+      <title>Many Tricks 发布 Moom 4 ↦</title>
+      <link>https://sixcolors.com/link/2024/08/many-tricks-releases-moom-4/</link>
+      <description><![CDATA[Moom 4 的扩展界面。（感谢 Many Tricks。）
+当我介绍 macOS Sequoia 公开测试版时，我指出，虽然现在有一个用于快速窗口平铺的内置功能，但它是典型的 Apple 系统级产品：
+
+是的，多年来，许多 macOS 实用程序都实现了此功能，这些实用程序几乎肯定会为用户提供比 Apple 提供的基本功能更多的选项和可定制性。…]]></description>
+      <guid>https://sixcolors.com/link/2024/08/many-tricks-releases-moom-4/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>《纪念碑谷 3》将成为 Netflix 游戏 ↦</title>
       <link>https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/</link>
@@ -83,7 +93,7 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/08/1password-2/</link>
       <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。SEC 现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/08/1password-2/</guid>
       <pubDate>Fri, 09 Aug 2024 16:00:15 GMT</pubDate>
     </item>
@@ -110,13 +120,6 @@ Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式
 为了保护 Mac 用户免于陷入麻烦，Apple 在 macOS Catalina 中引入了大量权限弹出窗口。此后几年，该公司加快了其方法，增加了越来越多的用户必须授予特定权限的情况。…]]></description>
       <guid>https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</guid>
       <pubDate>Wed, 07 Aug 2024 19:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 566：这是我的碎纸机声音</title>
-      <link>https://sixcolors.com/podcast/2024/08/clockwise-566-thats-my-shredder-sound/</link>
-      <description><![CDATA[每个人都应该拥有的技术、我们的飞机设备策略、Apple 的新干扰控制功能以及我们想要通过 Siri 控制的应用程序。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/08/clockwise-566-thats-my-shredder-sound/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:16:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
