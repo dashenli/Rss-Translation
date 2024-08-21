@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 20 Aug 2024 12:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:29:10 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：设计教育系列</title>
+      <link>https://tympanus.net/codrops/2024/08/21/case-study-design-education-series/</link>
+      <description><![CDATA[探索 Obys Agency 的设计教育系列 (DES) 如何通过创新设计和 3D 功能提供动态且引人入胜的学习体验。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/21/case-study-design-education-series/</guid>
+      <pubDate>Wed, 21 Aug 2024 11:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>具有 DSD、HTMX 和 Islands 的服务器优先 Web 组件</title>
       <link>https://tympanus.net/codrops/2024/08/20/server-first-web-components-with-dsd-htmx-and-islands/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>励志网站汇总#63</title>
       <link>https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/</link>
-      <description><![CDATA[最近几周最令人印象深刻和最具创新性的网站设计的最新汇编。]]></description>
+      <description><![CDATA[这是最近几周最令人印象深刻和最具创新性的网站设计的最新汇编。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/</guid>
       <pubDate>Sat, 27 Jul 2024 09:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#856</title>
-      <link>https://tympanus.net/codrops/collective/collective-856/</link>
-      <description><![CDATA[关于视图转换的误解 * 正确的固执 * CSS 网格生成器]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-856/</guid>
-      <pubDate>Fri, 26 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
