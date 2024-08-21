@@ -4,7 +4,36 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 21 Aug 2024 18:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 21:15:26 GMT</lastBuildDate>
+    <item>
+      <title>允许自由发言吗，Siri？</title>
+      <link>https://sixcolors.com/post/2024/08/permission-to-speak-freely-siri/</link>
+      <description><![CDATA[
+我知道所有酷孩子都在使用 18.0 和 18.1 来度过brat beta 夏天，但我从不想在我的 iPhone 上冒险使用 iOS beta。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/permission-to-speak-freely-siri/</guid>
+      <pubDate>Wed, 21 Aug 2024 20:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 568：经典答案是丹的电视</title>
+      <link>https://sixcolors.com/podcast/2024/08/clockwise-568-the-canonical-answer-is-dans-tv/</link>
+      <description><![CDATA[我们认为对每个人都必不可少的第三方应用程序、我们早上使用的第一个应用程序、我们生活中需要升级的一项技术，以及我们最初怀疑但后来取得成功的技术产品或概念。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/clockwise-568-the-canonical-answer-is-dans-tv/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果最好的软件系统正在原地踏步 (Macworld/Dan Moren)</title>
+      <link>https://www.macworld.com/article/2432582/carplay-apples-auto-tech-putters-along-but-where-is-it-going.html</link>
+      <description><![CDATA[曾经有一个短暂的辉煌时刻，苹果似乎真的打入了汽车行业——但原因未必和你想象的一样。…]]></description>
+      <guid>https://www.macworld.com/article/2432582/carplay-apples-auto-tech-putters-along-but-where-is-it-going.html</guid>
+      <pubDate>Wed, 21 Aug 2024 19:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 509：塔可钟反弹</title>
+      <link>https://sixcolors.com/podcast/2024/08/the-rebound-509-the-taco-bell-rebound/</link>
+      <description><![CDATA[更多关于人工智能、Lex 的新 iPad 和新赞助商的讨论！…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/08/the-rebound-509-the-taco-bell-rebound/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>Many Tricks 发布 Moom 4 ↦</title>
       <link>https://sixcolors.com/link/2024/08/many-tricks-releases-moom-4/</link>
@@ -88,38 +117,6 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <description><![CDATA[这一集涉及很多层面，我们讨论了奥运会、谷歌反垄断裁决、苹果新的欧盟收费计划、一款微型新 Mac mini、macOS 对话灾难以及十年前的科技世界。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/upgrade-524-were-making-a-trifle/</guid>
       <pubDate>Mon, 12 Aug 2024 21:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）1Password</title>
-      <link>https://sixcolors.com/sponsor/2024/08/1password-2/</link>
-      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/08/1password-2/</guid>
-      <pubDate>Fri, 09 Aug 2024 16:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 75：打持久战</title>
-      <link>https://sixcolors.com/podcast/2024/08/downstream-75-playing-the-long-game/</link>
-      <description><![CDATA[《洛杉矶时报》的梅格·詹姆斯 (Meg James) 与杰森一起讨论了派拉蒙 (Paramount) 和 WBD 的结果、WBD/NBA 之争、孔雀 (Peacock) 和奥运会、Venu 的价格、NFL 躲避反垄断制裁、迪士尼涨价以及高端电视的高成本。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/08/downstream-75-playing-the-long-game/</guid>
-      <pubDate>Fri, 09 Aug 2024 02:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac mini 终于变得真正迷你了吗？↦</title>
-      <link>https://sixcolors.com/link/2024/08/is-the-mac-mini-finally-getting-truly-mini/</link>
-      <description><![CDATA[彭博社的 Mark Gurman 报道称，M4 Mac mini 将比之前的型号小得多：
-
-Apple Inc. 计划推出新版 Mac mini，这将是其迄今为止最小的台式电脑，这是 Mac 系列采用 AI 芯片进行更广泛改革的一部分。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/is-the-mac-mini-finally-getting-truly-mini/</guid>
-      <pubDate>Thu, 08 Aug 2024 16:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的权限功能不平衡</title>
-      <link>https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</link>
-      <description><![CDATA[
-为了保护 Mac 用户免于陷入麻烦，Apple 在 macOS Catalina 中引入了大量权限弹出窗口。此后几年，该公司加快了其方法，增加了越来越多的用户必须授予特定权限的情况。…]]></description>
-      <guid>https://sixcolors.com/post/2024/08/apples-permissions-features-are-out-of-balance/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:12:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
