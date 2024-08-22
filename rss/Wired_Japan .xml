@@ -4,11 +4,18 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 22 Aug 2024 06:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 09:16:46 GMT</lastBuildDate>
+    <item>
+      <title>从植物根部开采金属。对“战斗挖矿”的期待</title>
+      <link>https://wired.jp/article/the-feds-are-trying-to-get-plants-to-mine-metal-through-their-roots/</link>
+      <description><![CDATA[有些植物可以从土壤中回收大量的镍。美国政府已开始大力开发利用此类工厂有效开采金属的技术。这是因为它有潜力帮助供应电池，这对可再生能源革命至关重要。]]></description>
+      <guid>https://wired.jp/article/the-feds-are-trying-to-get-plants-to-mine-metal-through-their-roots/</guid>
+      <pubDate>Thu, 22 Aug 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>全球媒体公司“Condé Nast”与 OpenAI 合作</title>
       <link>https://wired.jp/article/conde-nast-openai-deal/</link>
-      <description><![CDATA[OpenAI 与拥有《WIRED》、《Vogue》和《GQ》等众多品牌的康泰纳仕集团之间的合作代表了近年来媒体公司与生成性合作的主要趋势。人工智能公司。这能解决媒体面临的担忧和问题吗？]]></description>
+      <description><![CDATA[OpenAI 与拥有《连线》、《Vogue》和《GQ》等众多品牌的康泰纳仕集团之间的合作代表了媒体公司与生成式人工智能公司合作的近期主要趋势。这能解决媒体面临的担忧和问题吗？]]></description>
       <guid>https://wired.jp/article/conde-nast-openai-deal/</guid>
       <pubDate>Thu, 22 Aug 2024 01:00:00 GMT</pubDate>
     </item>
@@ -71,21 +78,21 @@
     <item>
       <title>日本启动了一个为自动驾驶出租车开发电动汽车的项目</title>
       <link>https://wired.jp/article/autonomous-vehicle-project-for-robotaxis-launched-in-japan/</link>
-      <description><![CDATA[用于自动驾驶出租车的国产自动驾驶汽车的开发已经开始。日本电动汽车 (EV) 开发项目的核心是 Tier IV，这是一家自动驾驶技术初创公司，旨在在社会上实施自动驾驶出租车。]]></description>
+      <description><![CDATA[用于自动驾驶出租车的国产自动驾驶汽车的开发已经开始。这个日本电动汽车（EV）开发项目的核心是Tier IV，这是一家自动驾驶技术初创公司，旨在在社会上实施自动驾驶出租车。]]></description>
       <guid>https://wired.jp/article/autonomous-vehicle-project-for-robotaxis-launched-in-japan/</guid>
       <pubDate>Tue, 20 Aug 2024 01:05:00 GMT</pubDate>
     </item>
     <item>
       <title>利用电力“增强”味觉的可穿戴设备面临着扩大“食物享受”的挑战</title>
       <link>https://wired.jp/article/augmented-gustation-using-electricity-wearlable-device/</link>
-      <description><![CDATA[使用电力的可穿戴“味觉增强设备”的研究和开发正在进行中。这个旨在通过技术让低盐食品的味道变得更丰富，创造一个人们可以持续享受食物的世界的设备到底是怎样的设备呢？]]></description>
+      <description><![CDATA[利用电力的可穿戴“味觉增强装置”的研究和开发正在进行中。这个旨在通过利用技术让低盐食物的味道“更浓”，创造一个人们可以持续享受食物的世界的装置到底是怎样的装置呢？]]></description>
       <guid>https://wired.jp/article/augmented-gustation-using-electricity-wearlable-device/</guid>
       <pubDate>Mon, 19 Aug 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>更新完成后，变成“驾驶智能手机”的汽车会发生什么？</title>
       <link>https://wired.jp/article/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</link>
-      <description><![CDATA[智能手机的支持期限远远超过智能手机的平均拥有年限。然而，汽车的使用寿命是相当长的。汽车制造商仍然担心“驾驶智能手机”的更新周期应该有多长。]]></description>
+      <description><![CDATA[智能手机的支持期限远远超过智能手机的平均拥有年限。然而，汽车的使用寿命是相当长的。汽车制造商仍然担心需要多长时间才能更新他们的“驾驶智能手机”。]]></description>
       <guid>https://wired.jp/article/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</guid>
       <pubDate>Mon, 19 Aug 2024 22:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当美国研究人员使用自己的标准评估人工智能模型的安全性时，他们发现模型之间存在很大差异。他们还发现，政府监管总体上不如企业政策全面，这表明还有加强监管的空间。]]></description>
       <guid>https://wired.jp/article/ai-models-risk-rank-studies/</guid>
       <pubDate>Sun, 18 Aug 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类正在走向毁灭吗？ ——对热门大学讲座《人类生存的危机》的思考</title>
-      <link>https://wired.jp/article/sz-are-we-doomed-heres-how-to-think-about-it/</link>
-      <description><![CDATA[核武器、气候灾难、生物武器、错误信息和人工智能：理解《我们注定要失败吗？》中令人眼花缭乱的可怕标题，这是芝加哥大学的一门热门课程，每次都有来自世界一流专家的客座讲师。学生从中得到什么信息？]]></description>
-      <guid>https://wired.jp/article/sz-are-we-doomed-heres-how-to-think-about-it/</guid>
-      <pubDate>Sun, 18 Aug 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
