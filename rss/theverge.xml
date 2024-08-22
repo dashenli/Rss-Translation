@@ -4,7 +4,27 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Aug 2024 01:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 03:17:27 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 高管称加州的 AI 安全法案可能会减缓进展</title>
+      <link>https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+在一封新信中，OpenAI 首席战略官 Jason Kwon 坚称人工智能监管应留给联邦政府。正如彭博社先前报道的那样，Kwon 表示，加州正在考虑的一项新的人工智能安全法案可能会减缓进展，并导致公司离开该州。
+一套由联邦政府推动的人工智能政策，而不是一堆州法律，将促进创新，并使美国能够引领全球标准的发展。因此，我们与其他人工智能实验室、开发人员、专家和加州国会代表团成员一起，对 SB 1047 表示反对，并欢迎有机会概述我们的一些主要担忧。
+这封信是写给加州参议员斯科特·维纳的，他最初提出了SB 1047，也称为《前沿人工智能模型安全创新法案》。
+根据维纳等支持者的说法，它在发展之前就建立了标准更强大的人工智能模型，要求采取部署前安全测试等预防措施和其他保障措施，为人工智能实验室的员工增加举报人保护，赋予加州总检察长在人工智能模型造成伤害时采取法律行动的权力，并呼吁建立一个名为 CalCompute 的“公共云计算集群”。
+在对周​​三晚上发表的这封信的回应中，维纳指出，拟议的要求适用于任何在加州开展业务的公司，无论它们的总部是否在该州，因此这种论点“毫无意义”。他还写道，OpenAI“……没有批评该法案的任何条款”，并在最后表示，“SB 1047 是一项非常合理的法案，要求大型人工智能实验室做他们已经承诺要做的事情，即测试他们的大型模型是否存在灾难性的安全风险。”
+在受到Zoe Lofgren和Nancy Pelosi等政客的担忧后，公司像 Anthropic 这样的组织，以及像加州商会这样的组织，该法案在委员会中通过了一些修正案，其中包括一些调整，例如用民事处罚取代伪证罪的刑事处罚，以及缩小司法部长在伤害前的执法能力。
+该法案目前正在等待最终投票，然后才能送到州长 Gavin Newsom 的办公桌上。
+以下是 OpenAI 的完整信件：
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047</guid>
+      <pubDate>Thu, 22 Aug 2024 01:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>狮门影业《大都市》预告片中引用的负面影评大多是编造的</title>
       <link>https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled</link>
@@ -120,26 +140,6 @@ Twitch周三宣布，自10 月 1 日起，40 多个国家/地区的 iOS 和 Andr
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to</guid>
       <pubDate>Wed, 21 Aug 2024 18:20:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>参议员希望调查人工智能弹药自动售货机</title>
-      <link>https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-两位参议员警告称，人工智能弹药售卖机可能会助长大规模枪击事件，并让人们规避禁止某些犯罪前科的人购买弹药的联邦禁令。
-马萨诸塞州参议员 Ed Markey 和 Elizabeth Warren 向酒精、烟草、火器和爆炸物管理局 (ATF) 发送了一封信，要求其“仔细检查”最近在某些州的超市安装的启用面部识别的弹药自动售货机。
-“轻松获取弹药有助于加剧我国枪支暴力泛滥，目前已造成超过每年夺走 44,000 人的生命。”
-这些机器由总部位于德克萨斯州的 American Rounds 公司分销，于 7 月开始出现在阿拉巴马州、德克萨斯州和俄克拉荷马州的杂货店中。American Rounds 表示，这些机器具有“内置人工智能技术、卡扫描功能和面部识别软件” ，可确认购买者的年龄并验证其面部是否与其身份证相符。这些机器不会限制一个人一次可以购买多少弹药。
-“轻松获取弹药助长了我们国家的枪支暴力泛滥，目前每年造成 44,000 多人死亡，”信中写道。 “研究表明，枪支弹药供应量的增加会导致更多的伤亡，尤其是自杀，而弹药购买的监管有助于减少枪支暴力。”
-马基和沃伦在信中表示，这些机器具有“固有风险”，包括可能允许联邦法律禁止购买枪支弹药的人（包括因重罪或家庭暴力轻罪被定罪的人以及持有有效家庭暴力相关限制令的人）规避这些限制。信中还表示，消除面对面销售意味着没有机会识别虚假购买。“经验丰富的枪支商店员工可能能够检测到有人试图为他人购买弹药并阻止交易，”信中写道。店员还可以注意到顾客是否有痛苦迹象或其他警告，表明他们计划使用弹药伤害自己或他人——并可能拒绝向他们出售弹药。
-
-这封信还对机器使用“不可靠和不准确的面部识别技术”提出质疑，指出研究表明，面部识别算法对女性和有色人种的误判率高于对白人男性的误判率。“鉴于面部识别技术的错误率很高，弹药自动售货机引发了人们对虚假批准的严重担忧，以及对消费者和供应商的潜在法律影响。”
-“销售弹药不需要联邦许可证。然而，商业弹药销售必须遵守州法律以及任何适用的联邦法律，”ATF 发言人在 7 月在给 CNN 的一份声明中表示。
-马基和沃伦已要求 ATF 在 8 月 30 日之前对一系列问题提供书面答复。ATF 没有立即回应The Verge的置评请求。]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225431/ammunition-vending-machines-atf-markey-warren-letter-american-rounds</guid>
-      <pubDate>Wed, 21 Aug 2024 18:16:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
