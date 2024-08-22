@@ -4,7 +4,42 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Aug 2024 03:17:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:28:12 GMT</lastBuildDate>
+    <item>
+      <title>The Verge 最喜欢的音频设备</title>
+      <link>https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites</guid>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 表示微软的下一个 Windows 11 重大更新将提高 Zen 5 CPU 性能</title>
+      <link>https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update</link>
+      <description><![CDATA[
+
+图片：AMD
+
+AMD 表示，微软即将推出的 Windows 11 版本 24H2 更新将提高其新 Zen 5 CPU 的性能。 Ryzen 9000 系列于本月初推出，未能实现 AMD 在大多数评测中做出的性能承诺。在传出 Windows 漏洞传闻后，AMD 透露，AMD 特定的分支预测代码将在 Windows 11 版本 24H2 中进行优化，该版本预计将于下个月发布。
+“Zen 5 将获得最大的提升，但这次 Windows 更新也将提高 Zen 4 和 Zen 3 的性能，”AMD 承认。虽然该芯片制造商尚未透露其旧款 CPU 的性能将提升多少，但它预计其 9950X CPU 在运行 24H2（而不是 23H2）的《孤岛惊魂 6》中性能将提升 13%，在运行《赛博朋克 2077》时性能将提升 7%。对于单个 Windows 更新而言，这两项提升都相当显著。AMD 表示，它“正在与微软合作，很快向所有 Windows 11 用户推出此可选更新。”
+评测人员发现，在某些情况下，上一代 Ryzen 9 7950X 看起来比 AMD 的新旗舰 Ryzen 9 9950X 更具价值。在使用 RTX 4090 以 1080p 分辨率运行的 13 款游戏平均速度中，Hardware Unboxed 发现 9950X 仅比现有的 7950X 快百分之一。在生产力任务中，这一差距仅为 3%。
+我们现在必须等待评测人员使用这些最新的 Ryzen 芯片测试 24H2，以查看 AMD 声称这些芯片的性能将得到更大提升是否准确，特别是因为 Zen 4 和 Zen 3 处理器也将得到改进。尽管 9950X 的初始游戏基准测试结果不佳，但 AMD 坚持认为 Ryzen 9000 系列“在内容创建、生产力和 AI 应用程序方面表现出色。”]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update</guid>
+      <pubDate>Thu, 22 Aug 2024 10:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 推出了一款新工具来帮助恢复被黑频道：AI 聊天机器人</title>
+      <link>https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+YouTube 宣布推出一项新的 AI 助手功能，帮助用户恢复被黑客攻击的帐户。在 Google 的支持页面 上，该聊天机器人被描述为“故障排除工具”，可通过 YouTube 帮助中心访问，并会向被黑客入侵的创作者询问一系列问题，以指导他们完成保护受影响的 Google 登录信息和撤销对其 YouTube 频道所做的任何更改的过程。
+支持助手目前仅提供英文版，并且“某些故障排除功能”的访问权限仅限于特定群体的“特定创作者”，但 Google 表示计划最终向所有 YouTube 创作者提供该功能。
+我们设法访问了该工具，结果似乎……不错。这是一个相当标准的支持聊天机器人，到目前为止没有检测到任何生成 AI 异常，并且似乎已经设置了一些护栏。然而，它并没有真正解决创作者提出的一个主要抱怨：当出现问题时，几乎不可能联系到 YouTube。直接与 YouTube 代表交谈通常仅限于平台合作伙伴计划中最大的创作者，而较小的帐户只能通过帮助页面或 YouTube 支持看似自动的响应来解决自己的问题。
+添加一个人工智能聊天机器人可能会让任何希望 YouTube 改善与用户沟通方式的创作者感到不安。尤其是当账户被黑客入侵等问题甚至已经瞄准像 Linus Tech Tips 这样的大型创作者时，并且之前较小的合作账户需要花费大量时间来解决。]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot</guid>
+      <pubDate>Thu, 22 Aug 2024 10:42:42 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 高管称加州的 AI 安全法案可能会减缓进展</title>
       <link>https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047</link>
@@ -16,7 +51,7 @@
 一套由联邦政府推动的人工智能政策，而不是一堆州法律，将促进创新，并使美国能够引领全球标准的发展。因此，我们与其他人工智能实验室、开发人员、专家和加州国会代表团成员一起，对 SB 1047 表示反对，并欢迎有机会概述我们的一些主要担忧。
 这封信是写给加州参议员斯科特·维纳的，他最初提出了SB 1047，也称为《前沿人工智能模型安全创新法案》。
 根据维纳等支持者的说法，它在发展之前就建立了标准更强大的人工智能模型，要求采取部署前安全测试等预防措施和其他保障措施，为人工智能实验室的员工增加举报人保护，赋予加州总检察长在人工智能模型造成伤害时采取法律行动的权力，并呼吁建立一个名为 CalCompute 的“公共云计算集群”。
-在对周​​三晚上发表的这封信的回应中，维纳指出，拟议的要求适用于任何在加州开展业务的公司，无论它们的总部是否在该州，因此这种论点“毫无意义”。他还写道，OpenAI“……没有批评该法案的任何条款”，并在最后表示，“SB 1047 是一项非常合理的法案，要求大型人工智能实验室做他们已经承诺要做的事情，即测试他们的大型模型是否存在灾难性的安全风险。”
+在对周​​三晚上发布的信函的回应中，维纳指出，拟议的要求适用于任何在加州开展业务的公司，无论它们的总部是否在该州，因此这种论点“毫无意义”。他还写道，OpenAI“……没有批评该法案的任何条款”，并在最后表示，“SB 1047 是一项非常合理的法案，要求大型人工智能实验室做他们已经承诺要做的事情，即测试他们的大型模型是否存在灾难性的安全风险。”
 在受到Zoe Lofgren和Nancy Pelosi等政客的担忧后，公司像 Anthropic 这样的组织，以及像加州商会这样的组织，该法案在委员会中通过了一些修正案，其中包括一些调整，例如用民事处罚取代伪证罪的刑事处罚，以及缩小司法部长在伤害前的执法能力。
 该法案目前正在等待最终投票，然后才能送到州长 Gavin Newsom 的办公桌上。
 以下是 OpenAI 的完整信件：
@@ -42,13 +77,13 @@ Variety 还报道称，其一名工作人员在预告片中被错误引用，原
       <pubDate>Wed, 21 Aug 2024 23:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>苹果正在重组应用商店的管理方式</title>
+      <title>苹果正在改变其应用商店的管理方式</title>
       <link>https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-据报道，苹果将把其 App Store 部门一分为二来自彭博社。一组员工将负责运营 App Store，而另一组员工将负责管理其在欧盟开始开放的替代市场的方法。
+据报道，苹果将把其 App Store 部门一分为二，来自彭博社。一组员工将负责运营 App Store，而另一组员工将负责管理其在欧盟开始开放的替代市场的方法。
 作为变革的一部分，App Store 副总裁 Matt Fischer 将离开公司，他担任该职位已有十多年。“这件事在我心中已经考虑了一段时间，而且我们也在重组团队，以更好地应对新的挑战和机遇，现在是将接力棒交给团队中两位杰出领导者的最佳时机，”Fischer 在一封给彭博社看到的员工的电子邮件中写道。 Fischer 还在 LinkedIn 上发布了这封电子邮件。。
 
 据报道，现在苹果高级总监 Carson Oliver 将负责 App Store 部门，而该公司的产品总监 Ann Thai 将领导处理替代分销问题的团队。App Store 负责人 Phil Schiller 将负责这两个部门。 The Verge 联系了苹果公司，请求其发表评论，但未立即得到回复。
@@ -108,38 +143,6 @@ Lingo Telecom 在 1 月份向新罕布什尔州选民转发了一条虚假的拜
 2 月，在新罕布什尔州深度伪造电话被报道后不久，FCC 在未经接收者同意的情况下，禁止在自动电话中使用人工智能生成的声音。它还最近提议要求政治广告商披露在广播和电视上使用生成式人工智能的情况。]]></description>
       <guid>https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine</guid>
       <pubDate>Wed, 21 Aug 2024 19:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国夏季停电事件增多</title>
-      <link>https://www.theverge.com/2024/8/21/24225417/weather-power-outages-summer-data-analysis</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225417/weather-power-outages-summer-data-analysis</guid>
-      <pubDate>Wed, 21 Aug 2024 19:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitch 正在提高移动端订阅价格</title>
-      <link>https://www.theverge.com/2024/8/21/24225463/twitch-subscription-price-increase-mobile-web</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-如果您通过 Twitch 的移动应用订阅 Twitch 频道，从 10 月开始您可能需要多付一点钱。
-Twitch周三宣布，自10 月 1 日起，40 多个国家/地区的 iOS 和 Android 应用的 Tier 1 和礼品订阅价格将上涨。根据由Dexerto和在 Reddit 上分享的 Twitch 电子邮件，Tier 1 订阅费用为每月 7.99 美元，高于该应用上当前 Tier 1 每月 5.99 美元的价格。 Tier 2 和 Tier 3 订阅的费用将保持不变。
-7 月份的价格上涨影响了网络上的订阅，将美国的 Tier 1 订阅费用提高到每月 5.99 美元，增加了 1 美元。 （一旦新的移动价格上涨生效，通过应用程序订阅将再次比在网络上更昂贵；与其他公司一样，Twitch 对移动应用程序上的订阅收取更高的价格，以此抵消苹果和谷歌的应用商店费用。）
-去年，在美国，Twitch 提高了 Twitch Turbo（其每月订阅可删除广告）的价格，从每月 8.99 美元提高到每月 11.99 美元。
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225463/twitch-subscription-price-increase-mobile-web</guid>
-      <pubDate>Wed, 21 Aug 2024 19:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据泄露后如何冻结你的信用</title>
-      <link>https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24224789/data-breach-freeze-report-security-how-to</guid>
-      <pubDate>Wed, 21 Aug 2024 18:20:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
