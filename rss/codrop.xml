@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Wed, 21 Aug 2024 12:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 15:20:23 GMT</lastBuildDate>
+    <item>
+      <title>基于滚动的文本 SVG 滤镜动画</title>
+      <link>https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/</link>
+      <description><![CDATA[HTML 文本上的一小组基于滚动的 SVG 过滤器动画。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/</guid>
+      <pubDate>Thu, 22 Aug 2024 12:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：设计教育系列</title>
       <link>https://tympanus.net/codrops/2024/08/21/case-study-design-education-series/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一组使用 React Three Fiber 和 GSAP 创建的十二个免费 3D 动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</guid>
       <pubDate>Tue, 30 Jul 2024 12:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站汇总#63</title>
-      <link>https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/</link>
-      <description><![CDATA[这是最近几周最令人印象深刻和最具创新性的网站设计的最新汇编。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/</guid>
-      <pubDate>Sat, 27 Jul 2024 09:54:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

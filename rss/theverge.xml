@@ -4,145 +4,143 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 22 Aug 2024 12:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 15:18:28 GMT</lastBuildDate>
     <item>
-      <title>The Verge 最喜欢的音频设备</title>
-      <link>https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24224339/audio-headphone-earbuds-mics-favorites</guid>
-      <pubDate>Thu, 22 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 表示微软的下一个 Windows 11 重大更新将提高 Zen 5 CPU 性能</title>
-      <link>https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update</link>
+      <title>联邦政府指控俄罗斯勒索软件集团的谈判人员</title>
+      <link>https://www.theverge.com/2024/8/22/24225960/feds-arrest-karakurt-russian-ransomware-group-member</link>
       <description><![CDATA[
 
-图片：AMD
+照片由 Amelia Holowaty Krales / The Verge 拍摄
 
-AMD 表示，微软即将推出的 Windows 11 版本 24H2 更新将提高其新 Zen 5 CPU 的性能。 Ryzen 9000 系列于本月初推出，未能实现 AMD 在大多数评测中做出的性能承诺。在传出 Windows 漏洞传闻后，AMD 透露，AMD 特定的分支预测代码将在 Windows 11 版本 24H2 中进行优化，该版本预计将于下个月发布。
-“Zen 5 将获得最大的提升，但这次 Windows 更新也将提高 Zen 4 和 Zen 3 的性能，”AMD 承认。虽然该芯片制造商尚未透露其旧款 CPU 的性能将提升多少，但它预计其 9950X CPU 在运行 24H2（而不是 23H2）的《孤岛惊魂 6》中性能将提升 13%，在运行《赛博朋克 2077》时性能将提升 7%。对于单个 Windows 更新而言，这两项提升都相当显著。AMD 表示，它“正在与微软合作，很快向所有 Windows 11 用户推出此可选更新。”
-评测人员发现，在某些情况下，上一代 Ryzen 9 7950X 看起来比 AMD 的新旗舰 Ryzen 9 9950X 更具价值。在使用 RTX 4090 以 1080p 分辨率运行的 13 款游戏平均速度中，Hardware Unboxed 发现 9950X 仅比现有的 7950X 快百分之一。在生产力任务中，这一差距仅为 3%。
-我们现在必须等待评测人员使用这些最新的 Ryzen 芯片测试 24H2，以查看 AMD 声称这些芯片的性能将得到更大提升是否准确，特别是因为 Zen 4 和 Zen 3 处理器也将得到改进。尽管 9950X 的初始游戏基准测试结果不佳，但 AMD 坚持认为 Ryzen 9000 系列“在内容创建、生产力和 AI 应用程序方面表现出色。”]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24225918/amd-zen-5-performance-issues-microsoft-windows-11-24h2-update</guid>
-      <pubDate>Thu, 22 Aug 2024 10:58:32 GMT</pubDate>
+据早前报道，美国政府已对俄罗斯勒索软件组织 Karakurt 的一名成员提出指控 by 哔哔作响的电脑。在周二的一份新闻稿中，司法部声称，33 岁的俄罗斯莫斯科人 Deniss Zolotarjovs 密谋实施洗钱、电信欺诈和敲诈勒索。
+正如刑事起诉书中所述，FBI 指控 Karakurt 窃取并威胁要拍卖美国多家公司的敏感数据。据 Bleeping Computer 报道，投诉将 Zolotarjovs 定为该黑客组织的“冷案勒索”谈判者，受害者在攻击后没有支付赎金。Karakurt 与多产的 俄罗斯勒索软件组织 Conti 有关，该组织对俄克拉荷马州一家医院进行了网络攻击，威胁拍卖患者数据，还针对 德克萨斯州一家医院。去年，该组织声称从一家名为 Officeworks 的公司窃取了 1.5 亿人的社会安全号码。
+美国网络安全和基础设施安全局 (CISA) 发布的一份公告称，Karakurt 曾联系受害者的员工、业务合作伙伴和客户，“通过骚扰电子邮件和电话向受害者施压，迫使他们合作”。它还运营着一个泄密和拍卖网站。
+东欧国家格鲁吉亚的执法部门于去年 12 月逮捕了 Zolotarjovs，并于本月初将他引渡到美国。美国司法部表示，Zolotarjovs 是首位被逮捕并引渡到美国的 Karakurt 成员。]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225960/feds-arrest-karakurt-russian-ransomware-group-member</guid>
+      <pubDate>Thu, 22 Aug 2024 15:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 推出了一款新工具来帮助恢复被黑频道：AI 聊天机器人</title>
-      <link>https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot</link>
+      <title>Peloton 将对二手机器收取 95 美元的激活费</title>
+      <link>https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness</link>
       <description><![CDATA[
 
-插图由 Alex Castro / The Verge 提供
+至少你也能获得 Peloton 商品折扣？ | 插图：Alex Castro / The Verge
 
-YouTube 宣布推出一项新的 AI 助手功能，帮助用户恢复被黑客攻击的帐户。在 Google 的支持页面 上，该聊天机器人被描述为“故障排除工具”，可通过 YouTube 帮助中心访问，并会向被黑客入侵的创作者询问一系列问题，以指导他们完成保护受影响的 Google 登录信息和撤销对其 YouTube 频道所做的任何更改的过程。
-支持助手目前仅提供英文版，并且“某些故障排除功能”的访问权限仅限于特定群体的“特定创作者”，但 Google 表示计划最终向所有 YouTube 创作者提供该功能。
-我们设法访问了该工具，结果似乎……不错。这是一个相当标准的支持聊天机器人，到目前为止没有检测到任何生成 AI 异常，并且似乎已经设置了一些护栏。然而，它并没有真正解决创作者提出的一个主要抱怨：当出现问题时，几乎不可能联系到 YouTube。直接与 YouTube 代表交谈通常仅限于平台合作伙伴计划中最大的创作者，而较小的帐户只能通过帮助页面或 YouTube 支持看似自动的响应来解决自己的问题。
-添加一个人工智能聊天机器人可能会让任何希望 YouTube 改善与用户沟通方式的创作者感到不安。尤其是当账户被黑客入侵等问题甚至已经瞄准像 Linus Tech Tips 这样的大型创作者时，并且之前较小的合作账户需要花费大量时间来解决。]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24225690/youtube-support-restore-hacked-channels-ai-chatbot</guid>
-      <pubDate>Thu, 22 Aug 2024 10:42:42 GMT</pubDate>
+想买一台二手 Peloton 机器吗？那么，美国和加拿大的客户现在必须支付一次性 95 美元（或 125 加元）的“二手设备激活费”。 
+Peloton 在其2024 年第四季度股东信中宣布了这一消息。 该费用不适用于您直接从 Peloton 或其第三方分销合作伙伴处购买的翻新型号。 该公司在财报电话会议上澄清说，这笔费用将适用于直接从前任所有者那里购买 Peloton 机器的人。 
+官方原因是为了让新成员“获得 Peloton 闻名的同样高质量的入职体验”。这可能是真的，但这项费用也是 Peloton 从二手硬件销售中分一杯羹的一种方式。在今天的财报电话会议上，该公司自己表示，这项费用也将成为“增量收入和毛利的来源”。对于用户来说，这项费用将包括 Bike 和 Bike Plus 客户的虚拟定制试穿，以及二手硬件的历史摘要。Peloton 表示，它还将扩大自行车鞋、垫子和备件的折扣。 
+
+从二手商店购买 Peloton 的明显吸引力在于省钱。在 Facebook Marketplace 上，您可以轻松找到价格在 300 至 500 美元范围内的二手 Peloton 自行车。 （普通自行车的零售价为 1,445 美元。）社区内还有一些私人 Facebook 群组，例如 Peloton Buy Sell Trade。二手买家仍需支付每月 44 美元的会员费才能访问 Peloton 的内容，但考虑到 Peloton 硬件在该类别中价格昂贵，最初的节省是相当可观的。
+除此之外，Peloton 的财报电话会议比上一次更有希望，上一次电话会议中，首席执行官 Barry McCarthy 辞职，又一轮裁员正在进行中。 Peloton 股价上涨逾 15％，有迹象表明该公司扭转困境的努力正在见效，销售额温和增长，亏损从去年同期的 2.41 亿美元缩减至 3000 万美元。]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness</guid>
+      <pubDate>Thu, 22 Aug 2024 14:35:52 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 高管称加州的 AI 安全法案可能会减缓进展</title>
-      <link>https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047</link>
+      <title>谷歌达成 2.5 亿美元协议以规避拟议的新闻法案</title>
+      <link>https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism</link>
       <description><![CDATA[
 
-图片：The Verge
+插图：The Verge
 
-在一封新信中，OpenAI 首席战略官 Jason Kwon 坚称人工智能监管应留给联邦政府。正如彭博社先前报道的那样，Kwon 表示，加州正在考虑的一项新的人工智能安全法案可能会减缓进展，并导致公司离开该州。
-一套由联邦政府推动的人工智能政策，而不是一堆州法律，将促进创新，并使美国能够引领全球标准的发展。因此，我们与其他人工智能实验室、开发人员、专家和加州国会代表团成员一起，对 SB 1047 表示反对，并欢迎有机会概述我们的一些主要担忧。
-这封信是写给加州参议员斯科特·维纳的，他最初提出了SB 1047，也称为《前沿人工智能模型安全创新法案》。
-根据维纳等支持者的说法，它在发展之前就建立了标准更强大的人工智能模型，要求采取部署前安全测试等预防措施和其他保障措施，为人工智能实验室的员工增加举报人保护，赋予加州总检察长在人工智能模型造成伤害时采取法律行动的权力，并呼吁建立一个名为 CalCompute 的“公共云计算集群”。
-在对周​​三晚上发布的信函的回应中，维纳指出，拟议的要求适用于任何在加州开展业务的公司，无论它们的总部是否在该州，因此这种论点“毫无意义”。他还写道，OpenAI“……没有批评该法案的任何条款”，并在最后表示，“SB 1047 是一项非常合理的法案，要求大型人工智能实验室做他们已经承诺要做的事情，即测试他们的大型模型是否存在灾难性的安全风险。”
-在受到Zoe Lofgren和Nancy Pelosi等政客的担忧后，公司像 Anthropic 这样的组织，以及像加州商会这样的组织，该法案在委员会中通过了一些修正案，其中包括一些调整，例如用民事处罚取代伪证罪的刑事处罚，以及缩小司法部长在伤害前的执法能力。
-该法案目前正在等待最终投票，然后才能送到州长 Gavin Newsom 的办公桌上。
-以下是 OpenAI 的完整信件：
+Google 与加州立法者达成的新协议将在未来五年内向全州新闻编辑室支付高达 2.5 亿美元的费用，同时也帮助这家科技巨头避免更大的账单。这项全国首创协议由纳税人、谷歌和其他潜在的私人来源资助，允许这家搜索巨头逃避一项拟议的州法案，该法案将迫使其为加州人提供新闻文章链接支付费用。
+这笔钱将分配给加州大学伯克利分校新闻学院新闻转型基金管理的两项计划。 据Politico报道，1.8 亿美元将分配给加州新闻机构（不包括广播公司），其余 7000 万美元则专门用于人工智能资源，以帮助“加强劳动力”。这些举措预计将在 2025 年某个时候上线。
+“这笔交易不仅为支持数百名新记者提供了资金，还有助于在未来几年重建一支强大而充满活力的加州新闻队伍，加强新闻业在我们民主中的重要作用，”加州州长加文·纽森在一份声明中说。加州新闻出版商协会也对该协议表示赞赏，称其“是朝着我们希望成为长期支持当地新闻的综合计划迈出的第一步。”
 
-]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047</guid>
-      <pubDate>Thu, 22 Aug 2024 01:15:48 GMT</pubDate>
+该协议是在科技巨头和新闻业就如何在向在线读者转变和广告减少的背景下支持当地新闻业进行了两年斗争之后达成的。 加州新闻保护法案 (CJPA) 是一项拟议的解决方案，一项研究估计，如果该法案获得通过，Meta 和谷歌每年将欠美国出版商高达 139 亿美元。谷歌对此作出回应，通过测试删除指向加州新闻网站的链接，称 CJPA“可能会导致其产品体验发生重大变化”。
+即将取代该法案的五年协议已引起立法者和记者的批评。加州参议院领袖 Mike McGuire 在给 Politico 的一份声明中提出了资金问题，称该协议“并未完全解决该行业面临的不平等问题”。
+“声称代表我们行业的出版商正在庆祝一项涉及纳税人资金的不透明交易，一个模糊的 AI 加速器项目，很可能会摧毁新闻业的工作，以及谷歌最低限度的财务承诺，以归还这家垄断企业从我们的新闻编辑室窃取的财富，”西部媒体协会在其自己的声明中表示。“没有一个代表记者和新闻工作者的组织同意与一家正在摧毁我们行业的企业达成这项不民主和秘密的交易。”]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225986/google-california-newsroom-deal-cjpa-journalism</guid>
+      <pubDate>Thu, 22 Aug 2024 14:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>狮门影业《大都市》预告片中引用的负面影评大多是编造的</title>
-      <link>https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled</link>
-      <description><![CDATA[
-
-Megalopolis 预告片的截图。 |图片：狮门影业
-
-《大都市》上映数小时后，狮门影业就撤下了一部预告片，该预告片明显是“针对仇敌”，其中还包含一些关于导演弗朗西斯·福特·科波拉之前作品的负面评论。这是因为像来自Vulture的Bilge Ebiri这样的报道表明，预告片中批评《教父》和《现代启示录》等电影的评论引言都是捏造的。
-“狮门影业正在立即撤回我们的Megalopolis预告片，”狮门影业发言人在给Variety的一份声明中说道&gt;。 “我们向涉事批评者以及弗朗西斯·福特·科波拉和美国西洋镜公司表示诚挚的歉意，因为我们在审查过程中犯了不可原谅的错误。我们搞砸了。我们很抱歉。”
-这一切都让一些人立即怀疑这些引言是否可能是由 OpenAI 的 ChatGPT 等工具生成的。聊天机器人，特别是 ChatGPT，会在对查询的响应中创建引言，并附上引文，甚至为从未存在的内容创建虚假的 URL。一个著名的例子是今年早些时候的一个案件，一名律师引用了不存在的司法判决。该律师承认使用 ChatGPT 进行研究，并表示他“不知道其内容可能是虚假的”。
-我们曾询问狮门影业是否在制作预告片时使用了生成式 AI 工具，但尚未收到回复。 
-Variety 还报道称，其一名工作人员在预告片中被错误引用，原因是他们对布拉姆·斯托克的《德古拉》的评论，而罗杰·艾伯特在评论《德古拉》时引用的一句话实际上来自对 1989 年《蝙蝠侠》的评论。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled</guid>
-      <pubDate>Wed, 21 Aug 2024 23:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果正在改变其应用商店的管理方式</title>
-      <link>https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down</link>
+      <title>派拉蒙的合并：关于这场旷日持久的收购闹剧的所有新闻</title>
+      <link>https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-据报道，苹果将把其 App Store 部门一分为二，来自彭博社。一组员工将负责运营 App Store，而另一组员工将负责管理其在欧盟开始开放的替代市场的方法。
-作为变革的一部分，App Store 副总裁 Matt Fischer 将离开公司，他担任该职位已有十多年。“这件事在我心中已经考虑了一段时间，而且我们也在重组团队，以更好地应对新的挑战和机遇，现在是将接力棒交给团队中两位杰出领导者的最佳时机，”Fischer 在一封给彭博社看到的员工的电子邮件中写道。 Fischer 还在 LinkedIn 上发布了这封电子邮件。。
-
-据报道，现在苹果高级总监 Carson Oliver 将负责 App Store 部门，而该公司的产品总监 Ann Thai 将领导处理替代分销问题的团队。App Store 负责人 Phil Schiller 将负责这两个部门。 The Verge 联系了苹果公司，请求其发表评论，但未立即得到回复。
-据彭博社报道，在欧洲监管机构开始要求苹果公司允许第三方支付方式和替代应用商店后，苹果公司决定拆分该部门。上周，Fortnite 通过在 iOS 上推出 Epic Games Store，重返 iPhone。其他替代应用商店，例如 AltStore PAL、Mobivention 和 Aptoid，也已出现在该地区的 iPhone 上。
-8 月 21 日更新：添加了 Fischer 发送给员工的完整电子邮件的链接。]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225566/apple-app-store-matt-fischer-stepping-down</guid>
-      <pubDate>Wed, 21 Aug 2024 21:06:35 GMT</pubDate>
+即使 Paramount 与 Skydance 达成了合并协议，收购传奇仍在继续。 随着电影和电视行业与一系列裁员、不断变化的商业格局以及流媒体向更多广告的转变，派拉蒙正在寻求与另一家公司合作。在过去的几个月里，派拉蒙影业已经考虑了多家潜在收购方，包括华纳兄弟探索频道、阿波罗全球管理公司和媒体大亨拜伦·艾伦。
+然而，派拉蒙影业最终与与 Skydance Media 达成一项加价合并协议，合并后公司的估值将达到 280 亿美元。这笔交易还将使 Skydance 控制派拉蒙母公司 National Amusements。
+但故事并没有就此结束。媒体投资者 Edgar Bronfman Jr. 提出的新60 亿美元的收购要约可能会颠覆派拉蒙与 Skydance 的合并计划。您可以在下面了解有关派拉蒙合并的所有最新动态。]]></description>
+      <guid>https://www.theverge.com/2024/3/12/24098476/paramount-merger-rumors-deals-news</guid>
+      <pubDate>Thu, 22 Aug 2024 14:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>据报道，Chick-fil-A 出于某种原因将推出流媒体服务</title>
-      <link>https://www.theverge.com/2024/8/21/24225507/chick-fil-a-streaming-service</link>
-      <description><![CDATA[
-
-图片：Chick-fil-A
-
-流媒体领域已经变得如此拥挤，很难想象为什么现在有公司想要闯入，但这是显然，这正是 Chick-fil-A（没错，就是这家快餐连锁店）计划做的事情。
-Deadline 报道称，Chick-fil-A 正在与多家制作公司和传统工作室合作，为今年晚些时候推出的流媒体平台制作多部原创节目。据说，这家餐厅最初将专注于家庭友好的非剧本节目，包括由 Glassman Media 和 Sugar23 制作的游戏节目。但将来，目前未命名的服务还可能推出原创剧本系列、动画和从其他娱乐机构获得许可或收购的内容。
-Chick-fil-A 尚未宣布或公开评论该节目计划，但转向娱乐制作可能是更大的广告或客户数据游戏的一部分。 迪士尼推出了 Disney Plus，并推动了沃尔玛对流媒体的兴趣，这最终促成了与 Paramount Plus 的合作。
-从表面上看，该公司推出一项充满温馨故事的流媒体服务只是为了卖鸡，这种想法有点奇怪。但需要记住的是，Chick-fil-A 归 Cathy 家族所有，该家族独立管理的信托基金在 Trilith Studios 的成立中发挥了重要作用——这家亚特兰大工作室以频繁为漫威工作而闻名。在一定程度上，Chick-fil-A 与娱乐业的企业关系使这种举动变得有些容易理解，但很难想象人们真的想注册另一个可能充斥着商业广告的平台。]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225507/chick-fil-a-streaming-service</guid>
-      <pubDate>Wed, 21 Aug 2024 20:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>GMC 正在向客户交付首批 Sierra EV 电动皮卡</title>
-      <link>https://www.theverge.com/2024/8/21/24225451/gmc-sierra-ev-denali-edition-1-launch-delivery</link>
-      <description><![CDATA[
-
-图片：GMC
-
-GMC 表示，其限量版“Denali Edition 1”将推出新款 Sierra EV 皮卡版本 目前正在向首批客户交付，可在全国经销商处购买。
-GMC 的 2024 Sierra EV 是母公司通用汽车继刚刚推出的雪佛兰 Silverado EV 之后基于 Ultium EV 平台打造的第三款电动皮卡。这也是通用汽车继悍马 EV 皮卡（现在 也采用 SUV 格式）之后推出的第二款 GMC 品牌电动车。
-
-Denali 最出名的地方在于它采用了与悍马 EV 相同的对角线驾驶 CrabWalk 模式 派对技巧（见上文视频）以及它承诺的 单次充电续航里程估计为 440 英里，与 Silverado EV 相当，并超过了 Rivian R1T 的最大电池续航里程 420 英里。 
-（我个人认为 Sierra EV 的外观也更具优势，其独特的装甲前端可能会吸引那些不喜欢福特 F-150 Lightning 的大灯条眉、Rivian 可以说是卡通风格的大灯或特斯拉的平板车头 Cyber​​truck 的买家。）
-至于成本，Denali Edition 1 的 97,500 美元标价与通用汽车的明显策略相符，即其所有电动皮卡在推出时的价格必须在 100,000 美元左右，包括 Silverado EV 第一版 RST，起价为 96,495 美元。 （悍马 EV 发布价为 110,000 美元，现在起价为 96,000 美元。）与其发布价相比，Denali 感觉很难卖出，而起价不到 70,000 美元，并且它配备了 Apple CarPlay，而 Sierra EV 不幸的是缺乏。]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225451/gmc-sierra-ev-denali-edition-1-launch-delivery</guid>
-      <pubDate>Wed, 21 Aug 2024 20:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有了民主党全国委员会，民主党人终于明白内容为王</title>
-      <link>https://www.theverge.com/2024/8/21/24225330/democratic-national-convention-tiktok-content-creators-nielsen-ratings</link>
+      <title>苹果仍在阻碍 Epic 的应用商店</title>
+      <link>https://www.theverge.com/2024/8/22/24225634/apple-epic-games-store-ios-developers</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225330/democratic-national-convention-tiktok-content-creators-nielsen-ratings</guid>
-      <pubDate>Wed, 21 Aug 2024 20:20:40 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/8/22/24225634/apple-epic-games-store-ios-developers</guid>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电信公司将因深度伪造乔·拜登自动电话支付 100 万美元</title>
-      <link>https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine</link>
+      <title>《洋葱报》如何摆脱数字媒体的死亡漩涡</title>
+      <link>https://www.theverge.com/24225592/the-onion-new-owners-print-newspaper-digital-media-gawker-ben-collins-decoder-interview</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24225592/the-onion-new-owners-print-newspaper-digital-media-gawker-ben-collins-decoder-interview</guid>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我，我自己和 iJustine</title>
+      <link>https://www.theverge.com/creators/24225269/ijustine-youtube-content-creator-justine-ezarik</link>
       <description><![CDATA[
 
-照片由 Brandon Bell / Getty Images 拍摄
+Justine Ezarik，更广为人知的名字是 iJustine，是一位传奇的 YouTuber。
 
-一家电信公司传输了总统乔·拜登声音的深度伪造自动电话已同意支付 100 万美元以解决联邦通信委员会的执法行动，该机构宣布。
-Lingo Telecom 在 1 月份向新罕布什尔州选民转发了一条虚假的拜登信息，敦促他们不要参加民主党初选。 FCC 确认政治顾问 Steve Kramer 是生成 AI 电话的幕后黑手，此前提议 Kramer 另行支付 600 万美元罚款。
-根据与 Lingo 达成的新和解协议，FCC 表示该公司将需要严格遵守其来电显示身份验证规则，包括“了解您的客户”原则。根据一份新闻稿，FCC 还将要求 Lingo“更彻底地核实其客户和上游提供商提供的信息的准确性”。 Lingo 发言人没有立即回应置评请求。
-“我们每个人都应该知道电话中的声音是否与他们声称的一样，”FCC 主席 Jessica Rosenworcel 在一份声明中表示。“如果使用人工智能，应该向遇到它的任何消费者、公民和选民说明这一点。当我们对通信网络的信任受到威胁时，FCC 就会采取行动。”
-2 月，在新罕布什尔州深度伪造电话被报道后不久，FCC 在未经接收者同意的情况下，禁止在自动电话中使用人工智能生成的声音。它还最近提议要求政治广告商披露在广播和电视上使用生成式人工智能的情况。]]></description>
-      <guid>https://www.theverge.com/2024/8/21/24225435/lingo-telecom-biden-deepfake-robocall-fcc-fine</guid>
-      <pubDate>Wed, 21 Aug 2024 19:27:03 GMT</pubDate>
+我和传奇的 YouTuber Justine Ezarik 一起玩了不到一个小时，她就掐住了我的脖子。真的。柔术已经成为她每周例行活动不可或缺的一部分，我和她一起出去玩的那个星期四恰好是柔术日。我们正在练习的动作是：如何使用你的 Gi 制服 作为扼杀对手的工具。
+接下来我知道的是，我关注多年的创作者 Justine 让我拍拍手。我被迷住了，震惊了，喘不过气来。我度过了疯狂的一天。
+Justine，更广为人知的名字是 iJustine，于 2006 年开始创作内容。她在 Casey Neistat 之前就开始做视频博客，在 TikTok 之前进行“街头采访”，在 Twitch 之前进行直播。到 2017 年我开始我的科技新闻事业时，她已经作为科技领域一位稳固的创作者，每段视频的观看次数达到 100 万次。她是一个传奇人物。因此，毫不犹豫地将她纳入我的全画幅：创作者视频系列，该系列旨在了解创作者是如何工作的。
+观看上面的视频，了解 Justine 是如何起步的，看看她使用什么装备，看看她如何一周又一周地毫不费力地创作内容。或者只是收看 Cyber​​truck 的送货情况。
+此外，这恰好是我作为 Verge 员工制作的最后一个视频。下周，我将转行成为独立创作者。我在 The Verge 学到了为互联网制作东西的所有知识，为此，我永远心存感激。但当然，如果没有你的阅读和观看，这一切都不可能实现。非常感谢你，伙计。谢谢你。&lt;3]]></description>
+      <guid>https://www.theverge.com/creators/24225269/ijustine-youtube-content-creator-justine-ezarik</guid>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 正在添加类似 Myspace 的“个人资料上播放歌曲”功能</title>
+      <link>https://www.theverge.com/2024/8/22/24225247/instagram-song-on-profile-myspace-sabrina-carpenter-teaser</link>
+      <description><![CDATA[
+
+插图：Alex Castro / The Verge
+
+Instagram 今天宣布的一项新功能将允许用户在其个人资料中添加歌曲——就像 2000 年代初期的 Myspace 一样。
+添加到用户个人资料的音乐会显示在个人简介中根据 Instagram 分享的截图，该区域是“歌曲”区域。歌曲将一直显示在个人资料中，直到用户将其删除或替换。但与 Myspace 不同，歌曲不会自动播放——查看带有歌曲的个人资料的人可以播放和暂停曲目。 
+ 
+
+图片：Instagram
+
+
+用户可以通过进入“编辑个人资料”页面来添加歌曲，在该页面中，他们可以搜索并选择 Instagram 授权音乐库中的曲目，这些曲目也可用于 Reels 或帖子等。从那里，用户可以选择要添加的 30 秒长的歌曲部分。 
+Instagram 与流行歌星 Sabrina Carpenter 合作推出了这项功能，她的热门歌曲“Espresso”今年夏天一直风靡一时。从今天开始，Carpenter 的官方 Instagram 个人资料将在她的专辑周五发行之前发布一首从未发行过的歌曲“Taste”的预告片。Instagram 表示，个人资料音乐功能是完整发行之前收听这首歌的唯一方式。
+Instagram 还添加了一些以 Carpenter 即将发行的专辑Short n’ Sweet为主题的隐藏功能。使用某些关键字（例如“Sabrina”或咖啡杯表情符号）会使临时 Notes 消息变成浅蓝色，并且有一个以口红吻为特色的 Carpenter 品牌聊天主题。]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225247/instagram-song-on-profile-myspace-sabrina-carpenter-teaser</guid>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>动物之森移动版将于 11 月关闭，但将在新应用中继续存在</title>
+      <link>https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date</link>
+      <description><![CDATA[
+
+你不必回家，但你不能在这里露营。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+在在 iOS 和 Android 上推出七年后，任天堂宣布，动物之森：口袋营地的在线服务将于美国东部时间 11 月 28 日上午 11 点结束。 
+在今天的一份声明中，任天堂向现有玩家保证他们仍将能够在接下来的三个月内充分享受这款游戏。“我们将继续举办活动并添加物品，直到服务结束日期。”
+
+
+我们向所有玩《动物之森：口袋营地》应用的人发布重要公告。有关详细信息，请参阅以下页面。https://t.co/JGacPgXFyo pic.twitter.com/RHZt5u7SPU— Pocket_camp (@Pocket_Camp) 2024 年 8 月 22 日
+
+
+除了游戏将于 11 月 28 日关闭外，从 11 月 27 日起，Leaf Tickets（可用于加快营地配件的建造）将不再可供购买。自 10 月 28 日起，新的每月 Pocket Camp Club 订阅也将不再接受，所有三个等级的现有订阅将不再自动续订。
+11 月不会是《动物之森：口袋营地》的永久终点。任天堂向玩家保证，通过链接他们的任天堂账户，他们的保存数据可以转移到目前正在开发的新版游戏中。该公司计划在 10 月的某个时候才公布新版本，但今天分享了一些细节。新的《动物之森：口袋营地》将是一款“没有应用内购买的付费应用”，不需要持续的互联网连接即可玩。
+这一声明是任天堂缓慢脱离移动端的一部分。在任天堂 DS 和 Wii 取得成功之后，随着许多游戏玩家转向智能手机，任天堂也采取了同样的措施。 2015 年，该公司发布了首款手机游戏 Miitomo，随后又在 2016 年推出了更具野心的应用程序 Super Mario Run，2017 年推出了 Fire Emblem: Heroes 和 Pocket Camp， Mario Kart Tour 将于 2019 年推出。
+过去五年来，任天堂没有为 iOS 或 Android 推出太多产品，但至少该公司没有完全关闭 Pocket Camp，让付费玩家一无所获，就像它关闭其免费手机游戏 Dragalia Lost 时所做的那样。]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24225944/nintendo-animal-crossing-pocket-camp-mobile-ending-date</guid>
+      <pubDate>Thu, 22 Aug 2024 13:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>无广告的 Kindle Kids 今年首次降价至 100 美元以下</title>
+      <link>https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale</guid>
+      <pubDate>Thu, 22 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
