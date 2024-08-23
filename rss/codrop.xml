@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 22 Aug 2024 15:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 12:29:25 GMT</lastBuildDate>
+    <item>
+      <title>集体#859</title>
+      <link>https://tympanus.net/codrops/collective/collective-859/</link>
+      <description><![CDATA[现在在 Baseline 中：动画入口效果 * 锚元素 * WebGPU 释放：实用教程]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-859/</guid>
+      <pubDate>Fri, 23 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>基于滚动的文本 SVG 滤镜动画</title>
       <link>https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>使用 Threepipe 进行交互式 3D 设备展示</title>
       <link>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</link>
-      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
+      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，以在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</guid>
       <pubDate>Wed, 07 Aug 2024 10:14:53 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[认识一下 Artemii Lebedev，Le:mma Studio 的获奖设计师和艺术总监，他擅长将美学与功能性相融合，并分享了他创新作品和创作过程的见解。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/01/designer-spotlight-artemii-lebedev/</guid>
       <pubDate>Thu, 01 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>折纸：12 个免费动画 3D 对象</title>
-      <link>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</link>
-      <description><![CDATA[一组使用 React Three Fiber 和 GSAP 创建的十二个免费 3D 动画。]]></description>
-      <guid>https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/</guid>
-      <pubDate>Tue, 30 Jul 2024 12:36:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
