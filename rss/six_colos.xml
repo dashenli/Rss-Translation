@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 18:21:45 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/08/1password-3/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+1Password 的工作人员最近参加了在旧金山举行的 RSA 会议，他们惊讶地发现，每个人都对解决新问题的新解决方案充满热情。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/08/1password-3/</guid>
+      <pubDate>Fri, 23 Aug 2024 16:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌的 AI 照片工具可能太简单、太好用了 ↦</title>
       <link>https://sixcolors.com/link/2024/08/googles-ai-photo-tools-may-be-too-easy-and-too-good/</link>
@@ -112,14 +120,6 @@ Zach Gage 是 Six Colors 最受欢迎的游戏 Good Sudoku、Typeshift、Pocket-
       <description><![CDATA[Apple 挤压 Patreon、新款 Mac mini 以及旅行提示和烦恼。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/the-rebound-508-firing-on-all-three-cylinders/</guid>
       <pubDate>Wed, 14 Aug 2024 18:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果下一轮服务增长将来自哪里？（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2426549</link>
-      <description><![CDATA[
-近十年来，苹果一直在逐步增加其服务收入——不仅仅是与谷歌的搜索引擎交易和其在 App Store 的收入分成，还包括从 AppleCare 支持计划到 iCloud 存储再到 TV+、News+ 和 Fitness+ 等一切服务。…]]></description>
-      <guid>https://www.macworld.com/article/2426549</guid>
-      <pubDate>Wed, 14 Aug 2024 15:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

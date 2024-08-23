@@ -4,139 +4,121 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 18:20:28 GMT</lastBuildDate>
+    <item>
+      <title>法院称家庭可以起诉应用程序开发商违反其反欺凌承诺</title>
+      <link>https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court</guid>
+      <pubDate>Fri, 23 Aug 2024 18:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国起诉 RealPage 称其租赁软件抬高了房价</title>
+      <link>https://www.theverge.com/2024/8/23/24226885/doj-realpage-antitrust-lawsuit-rent-fixing-software</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+美国司法部正在起诉一家公司，该公司开发了一种广泛使用的软件，帮助房东设定租金价格。它指控 RealPage 的租金推荐算法推高了价格并“剥夺了租户在公寓租赁条款上的竞争优势。”
+在投诉中，司法部与八个州一起声称 RealPage 从使用该软件的竞争房东那里获取非公开的租金价格信息。RealPage 随后据称将这些信息输入其算法定价软件，房东可以使用该软件获取有关其租金的建议。
+
+
+当房东合谋将定价决策委托给算法时，租户可能会失去竞争优势并面临更高的费率。我呼吁司法部调查 RealPage 使用算法来设定租金的情况，现在他们正在对一起重大反垄断案件采取行动。— Amy Klobuchar (@amyklobuchar) 2024 年 8 月 23 日
+
+
+正如诉讼中所指控的那样，“这些不仅仅是‘建议’”，因为 RealPage 还“审查并权衡房东的其他政策”，试图终止对租房者的优惠和折扣。房东还可以“有效地同意将其定价功能外包”给 RealPage，并提供“自动接受”选项，该选项会根据算法自动调整租金。
+投诉称：“在竞争激烈的市场中，每个房东都可以独立决定提供优惠，以便更好地吸引出租人。” “但是，RealPage 再次试图通过终止优惠来用集体行动取代完全独立的竞争决策。” 
+此外，美国司法部声称 RealPage 在多户住宅商业收入管理软件方面保持垄断地位，占据约 80% 的市场份额。诉讼称，RealPage 与房东达成的“非法协议”以及从房东那里获得的敏感数据使该公司获得了竞争优势。 The Verge 联系了 RealPage 并请求其发表评论，但并未立即得到回复。
+RealPage 已经进入美国司法部的视线一段时间了。有关潜在诉讼的谣言首次浮出水面是在2022 年的一份 ProPublica 报告揭示了 RealPage 的算法可能导致全国租金上涨之后。]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226885/doj-realpage-antitrust-lawsuit-rent-fixing-software</guid>
+      <pubDate>Fri, 23 Aug 2024 17:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot Plus PC 真的是 Chromebook 的 Windows 替代品吗？</title>
+      <link>https://www.theverge.com/24226855/copilot-plus-pcs-alternative-chromebooks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24226855/copilot-plus-pcs-alternative-chromebooks</guid>
+      <pubDate>Fri, 23 Aug 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 取消了 Vision Pro 高端竞争对手的计划</title>
+      <link>https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2</link>
+      <description><![CDATA[
+
+RIP La Jolla。 |照片由 David Pierce / The Verge 拍摄
+
+据The Information报道，Meta 宣布放弃生产高端混合现实耳机，以与 Apple Vision Pro 竞争。尽管最近有消息称，这款代号为 La Jolla 的头戴式设备将于 2027 年某个时候上市。
+据 The Information 报道，Meta 已于 11 月开始开发 La Jolla 头戴式设备，但上周通知员工停止开发该设备。这一决定部分是由于 La Jolla 头戴式设备将使用昂贵的 MicroOLED 显示屏。
+
+此举表明 Meta 整体上可能对高端 VR 的想法感到失望。据称，目标是将耳机的成本控制在 1,000 美元以下，但考虑到 MicroOLED 的生产成本，这看起来越来越难。更糟糕的是，售价 3,500 美元的 Vision Pro 难以对客户和开发者产生影响，这引发了人们对高端竞争对手是否有兴趣的质疑。同样无济于事的是，售价 1,499 美元的 Quest Pro 的评价不佳，并很快淡出了人们的视线。 
+然而，从官方角度来看，Meta 似乎对取消 La Jolla 的决定轻描淡写。
+“我们一直都在开发许多原型。但我们不会将它们全部投入生产，”Meta 首席技术官 Andrew Bosworth 在 Threads 上发帖提到了这一消息。“我们推进了一些，放弃了其他一些。这样的决定总是会发生，而基于对某个个人决定的闲聊的故事永远不会反映出真实情况。”
+尽管如此，Meta 仍计划在不久的将来推出更多耳机和混合现实技术。The Verge 曾之前报道，一款代号为 Ventura 的更实惠的 Quest 耳机可能会在今年晚些时候推出。同样，据报道，Meta 将于下个月在其 Meta Connect 活动上展示一些新款 AR 眼镜。同样，据传 Quest 4 将有一个标准版和高级版将于 2026 年某个时候推出。 
+更新，8 月 23 日：添加了 Meta 首席技术官 Andrew Bosworth 的 Threads 对该决定的评论。]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226856/meta-vr-ar-la-jolla-rumor-quest-pro-2</guid>
+      <pubDate>Fri, 23 Aug 2024 16:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ring 灵活的 Pan-Tilt 室内摄像机今日首次发售</title>
+      <link>https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24225610/ring-pan-tilt-indoor-cam-animal-crossing-nintendo-switch-lite-deal-sale</guid>
+      <pubDate>Fri, 23 Aug 2024 16:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑神话：悟空太平庸了，不适合所有这些戏剧</title>
+      <link>https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226834/black-myth-wukong-hands-on-impression-game-science</guid>
+      <pubDate>Fri, 23 Aug 2024 16:16:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>一名银行高管因加密货币诈骗而窃取了 4700 万美元，现在他即将入狱</title>
+      <link>https://www.theverge.com/2024/8/23/24226763/former-bank-ceo-sentenced-crypto-pig-butchering-scam</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge； Getty Images
+
+堪萨斯州一名男子因向一起杀猪骗局投入 4710 万美元而被判处 24 年监禁，这笔钱来自他负责的银行。小型 Heartland Tri-State Bank 前首席执行官 Shan Hanes 将资金转入诈骗者的加密账户，承认挪用公款罪，导致银行倒闭。
+据 NBC News 报道，Hanes 陷入了一场杀猪骗局，他购买了加密货币“以解锁他所谓的投资回报”，但他从未收到过。 
+近年来，杀猪骗局变得越来越普遍，最近的一项研究显示受害者在全球范围内因这种骗局损失了超过 750 亿美元。 谷歌甚至在今年早些时候起诉了两名涉嫌诈骗者，指控他们向 Play Store 上传了数十个应用程序来实施他们的计划。
+杀猪骗局通常涉及诈骗者通过消息应用程序、约会服务或社交媒体平台寻找并联系受害者。然后，他们会尝试与受害者建立关系（通常是恋爱关系），最终诱骗受害者进行一系列加密货币投资。
+2023 年 5 月至 6 月，Hanes 使用银行被盗资金设置了 11 次电汇。他还挪用了当地教堂、投资俱乐部和女儿大学储蓄账户的资金。当时由联邦存款保险公司 (FDIC) 承保的 Heartland Tri-State Bank 是2023 年关闭的五家银行之一。
+“Hanes 的贪婪无止境，”美国检察官 Kate E. Brubacher 在一份声明中表示。“他违反了自己的职业义务、个人关系和联邦法律。 Shan Hanes 不仅背叛了 Heartland Bank 及其投资者，他的非法计划还损害了人们对金融机构的信心。”
+]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226763/former-bank-ceo-sentenced-crypto-pig-butchering-scam</guid>
+      <pubDate>Fri, 23 Aug 2024 16:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>《眨眼两次》是一部令人眼花缭乱的惊险刺激电影，但它却迷失在自己想法的黑暗中</title>
+      <link>https://www.theverge.com/2024/8/23/24226041/blink-twice-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226041/blink-twice-review</guid>
+      <pubDate>Fri, 23 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克表示，X 员工可以获得股票——只要他们能证明自己值得</title>
+      <link>https://www.theverge.com/2024/8/23/24226830/elon-musk-email-x-twitter-stock-grants</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge |图片来源：STR / NurPhoto, Getty Images
+
+埃隆·马斯克连夜向 X 员工发送了一封电子邮件，告知他们备受期待的股票授予 — 但有一个问题。
+在一封发给员工的电子邮件中，The Verge 表示，公司计划根据员工的预期影响授予股票期权。这意味着员工必须提交一页纸的总结，告诉领导层他们对公司的贡献，才能获得股票。
+
+这些期待已久的股票赠予加剧了 X 领导层和员工之间的紧张关系，此前晋升过程最近被无故推迟，我们之前报道过。考虑到这家前身为 Twitter 的公司在埃隆·马斯克的领导下继续苦苦挣扎，员工们一直在为更多裁员做准备。 
+此外，X 的一位消息人士告诉The Verge，该公司仍欠员工年度股权更新，这笔钱原本应该在 4 月份发放。据两名员工称，马斯克此前向员工保证，他们可以定期套现股票，就像 SpaceX 员工一样。然而，他还没有兑现这一承诺。
+X 员工最近一次股票更新是在 2023 年 10 月，当时公司的估值为 190 亿美元——远低于马斯克为其支付的 440 亿美元。在此次更新期间，员工以每股 45 美元的价格获得了 RSU，我之前曾报道过。
+Alex Heath 对本文亦有贡献。]]></description>
+      <guid>https://www.theverge.com/2024/8/23/24226830/elon-musk-email-x-twitter-stock-grants</guid>
+      <pubDate>Fri, 23 Aug 2024 15:39:33 GMT</pubDate>
+    </item>
     <item>
       <title>微软将邀请 CrowdStrike 和其他公司讨论 Windows 安全变化</title>
       <link>https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners</guid>
       <pubDate>Fri, 23 Aug 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink 制定了一项昂贵的新计划来阻止黄牛党</title>
-      <link>https://www.theverge.com/2024/8/23/24226684/starlink-satellite-internet-scalpers-fee</link>
-      <description><![CDATA[
-
-现在又多了一个从授权经销商处购买 Starlink 套件的理由。 |照片由 Nilay Patel / The Verge 拍摄
-
-为了阻止经销商在一个地区（硬件更便宜）购买天线，然后在另一个地区销售，Starlink 正在对其在“最初销售区域之外”激活的卫星互联网套件征收新的“区域外费用”。
-Starlink 已将这六个特定区域指定为美国和加拿大、欧洲、亚洲、非洲、拉丁美洲和大洋洲。该公司只是说“有可能”在激活时收取费用——不是保证——但费用高得令人望而却步。
-对于标准和标准启动套件，费用为 200 美元，但对于 Starlink Mini，费用为 300 美元。这是以美元计算的，但 Starlink 还警告说，费用“可能以美元或当地货币计算”，这可能会使其根据货币兑换而变得更加昂贵。该公司分享了哪些国家将以美元或当地货币收取费用的细目。
-为了避免费用，Starlink 建议直接从公司或“您所在地区的授权零售商”购买天线。]]></description>
-      <guid>https://www.theverge.com/2024/8/23/24226684/starlink-satellite-internet-scalpers-fee</guid>
-      <pubDate>Fri, 23 Aug 2024 13:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决 Mac 无法启动的问题</title>
-      <link>https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to</guid>
-      <pubDate>Fri, 23 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel 9 很棒，但也有问题</title>
-      <link>https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/23/24226645/google-pixel-9-review-ai-photos-problem-vergecast</guid>
-      <pubDate>Fri, 23 Aug 2024 12:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 的 AI 阅读器应用现能以 32 种语言朗读文本</title>
-      <link>https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-AI 音频初创公司 ElevenLabs 现已在全球范围内推出其文本转语音阅读器应用，并增加了对 32 种不同语言的支持 —包括西班牙语、葡萄牙语、法语、阿拉伯语、普通话和印地语。
-该应用可在 iOS 和 Android 上使用，于 6 月首次发布在美国、英国和加拿大。据开发人员称，它允许用户收听 PDF、文章、新闻稿、ePub 文件或“任何其他文本内容”，但这种支持似乎不扩展到 Kindle 或 Apple Books 中的文件。 
-文本转语音工具中有很多 AI 生成的声音可供选择，包括已故名人的声音，如朱迪·加兰、詹姆斯·迪恩和伯特·雷诺兹。我听过的几首歌都足够令人印象深刻，不会听起来太过机械化。 ElevenLabs 表示，他们各自的继承人在发布时“很高兴看到他们的遗产得以延续”，因此这些声音大概是获得许可的。
-阅读器应用程序可免费下载和使用，不会消耗更广泛的ElevenLabs 基于网络的订阅计划中的积分。然而，该公司计划“最终推出该应用程序的一些高级版本”，但承诺届时将提供“慷慨的免费计划”。]]></description>
-      <guid>https://www.theverge.com/2024/8/23/24226643/elevenlabs-ai-reader-app-32-languages-global-release</guid>
-      <pubDate>Fri, 23 Aug 2024 09:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber 与 Cruise 合作，明年提供更多自动驾驶汽车</title>
-      <link>https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides</link>
-      <description><![CDATA[
-
-图片：Cruise
-
-Uber 已与另一家机器人出租车公司签约，在其应用程序内提供无人驾驶服务。从明年某个时候开始，对于“符合条件”的乘车，Uber 将为您提供乘坐 Cruise 的一辆自动驾驶汽车的选项。两家公司于周四宣布建立“多年战略合作伙伴关系”。。 
-Uber 已与 Waymo 在自动驾驶方面展开合作，并于今年早些时候 宣布与无人驾驶卡车公司 Aurora 达成长期协议。在 Motional 5 月份暂停其机器人出租车部署之前，该公司还与 Motional 合作提供无人驾驶服务。埃隆·马斯克 (Elon Musk) 宣布特斯拉机器人出租车开发活动原定于几周前过去了，但现在应该在 10 月 10 日举行。
-Cruise 在10 月因一起事件而暂停了其机器人出租车服务，该事件发生后，Cruise 汽车拖拽行人。该公司最近将自动驾驶汽车带回了道路配备安全驾驶员。Cruise 发言人 Tiffany Testo 告诉 The Verge，其与 Uber 的合作将在 Cruise 恢复其无人驾驶叫车服务后启动。 
-Uber 和 Cruise 在新闻稿中并未透露该服务将在哪些城市推出，但 Testo 表示，用户可以“期待”该服务将在进行监督测试的城市之一推出：菲尼克斯、达拉斯和休斯顿。]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24226331/uber-cruise-autonomous-rides</guid>
-      <pubDate>Thu, 22 Aug 2024 21:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿特区对亚马逊的反垄断诉讼死灰复燃</title>
-      <link>https://www.theverge.com/2024/8/22/24226287/dc-amazon-antitrust-lawsuit-revived-appeals-court</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-上诉法院重启了哥伦比亚特区对亚马逊的反垄断案，哥伦比亚特区声称亚马逊非法抬高了竞争平台的价格。哥伦比亚特区上诉法院在周四的一项裁决中裁定，哥伦比亚特区的指控“很可能表明”亚马逊已经拥有对在线市场的垄断权或即将实现。 
-前华盛顿特区司法部长卡尔·拉辛 (Karl Racine) 于 2021 年对亚马逊提起反垄断诉讼，但该诉讼于 2022 年被法庭驳回。诉讼称，亚马逊通过限制第三方卖家在其他在线商店（包括他们自己的网站）以低于亚马逊上的价格提供产品，从而有效地控制了其平台之外商品的价格，从而从事了反竞争行为。
-
-
-华盛顿特区是第一个对亚马逊采取反垄断执法行动的司法管辖区，我们感谢联邦贸易委员会和其他州也纷纷效仿。我们将始终反击滥用垄断权力的行为。华盛顿特区居民应该享有公平的价格、竞争、创新和选择。— AG Brian Schwalb (@DCAttorneyGen) 2024 年 8 月 22 日
-
-
-尽管亚马逊在 2019 年撤回了一项要求卖家在其在线市场上以最低价格提供产品的政策，但诉讼认为亚马逊的公平定价政策相当于“实际上完全相同的替代品”。 
-不出所料，亚马逊不同意法院重新审理此案的决定。亚马逊发言人 Tim Doyle 在给 The Verge 的一份声明中表示：“就像任何不想向客户宣传不良交易的店主一样，我们不会突出或推广价格不具竞争力的优惠。” “这是我们致力于以低价赢得并维持客户信任的一部分，我们认为从长远来看，这对消费者和卖家来说都是正确的决定。”
-
-亚马逊还面临联邦贸易委员会的反垄断审查，该委员会对亚马逊提起大规模诉讼，指控其垄断权力扼杀竞争并损害消费者利益。]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24226287/dc-amazon-antitrust-lawsuit-revived-appeals-court</guid>
-      <pubDate>Thu, 22 Aug 2024 21:11:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将其应用程序推送到新款 Windows 笔记本电脑上</title>
-      <link>https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp</link>
-      <description><![CDATA[
-
-图片：Google
-
-Google 正在制作一款名为 Essentials 的新桌面应用，该应用打包了一些 Google 服务（如信息和照片），并包含指向下载许多其他应用程序。该应用程序将包含在许多新的 Windows 笔记本电脑中，第一批将来自 HP。
-
-根据 Google 的公告，Essentials 应用程序可让您“发现和安装我们许多最好的 Google 服务”，并允许您浏览 Google Photos 以及在应用程序中发送和接收 Google Messages。完整的应用程序列表尚未公布，但 Google 的公告艺术展示了包括 Google Sheets、Google Drive、Nearby Share 和 Google One 在内的图标（通过 Essentials 为新订阅者提供两个月的免费试用）。
-HP 将开始在其计算机品牌（如 Envy、Pavilion、Omen 等）中包含 Google Essentials。Google 表示，您可以“控制您的体验”，并可以卸载 Essentials 的任何部分或整个内容。目前尚不清楚您是否可以将该应用下载到您当前的 PC 上，以防您喜欢将 Windows 体验 Google 化。 
-Essentials 还包括 Google 的 Play Games 应用，可让您将流行的 Android 游戏（如Clash of Clans）下载到您的计算机上。您可以通过 Essentials 应用（甚至是 HP Omen Gaming Hub 应用）访问 Google Play Games，玩游戏，并在具有兼容游戏的 Android 设备上继续您的进度。
-Google 表示，它将在未来将 Essentials 引入其他 Windows PC。The Verge 已向 HP 和 Google 索取更多信息。
-]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24226146/google-essentials-app-package-windows-pc-hp</guid>
-      <pubDate>Thu, 22 Aug 2024 20:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>《指环王》动画在第一部预告片中看起来非常史诗</title>
-      <link>https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer</link>
-      <description><![CDATA[
-
-图片：华纳兄弟影业
-
-《指环王：洛希尔之战》中的中土世界看起来有些不同。华纳兄弟影业刚刚发布了动画前传的首支预告片，该片由神山健二（《浴血黑帮：最后的吸血鬼》、《攻壳机动队：独立综合体》）执导，故事背景设定在原版电影三部曲的 183 年前。彼得·杰克逊担任执行制片人。
-根据官方描述，这部新电影“讲述了洛汗传奇国王海尔姆·锤手家族的命运”。以下是完整设置：
-聪明而冷酷的邓兰德领主伍尔夫突然发动袭击，为父亲的死寻求复仇，迫使海尔姆和他的人民在古老的要塞霍恩堡——一座后来被称为海尔姆深谷的坚固堡垒——进行最后的勇敢抵抗。发现自己处境越来越绝望，赫尔姆之女赫拉必须鼓起勇气，领导反抗一个意图彻底毁灭他们的致命敌人。
-它将至少有一个熟悉的面孔配音，米兰达·奥托将重新扮演伊奥玟的角色，而其他演员包括布莱恩·考克斯饰演的罗汗、盖亚·怀斯饰演的赫拉和卢克·帕斯夸里诺饰演的伍尔夫。
-洛汗之战将于 12 月 13 日在美国上映，为该系列忙碌的一年画上句号，第二季《权力之戒》 将于 8 月底上映。]]></description>
-      <guid>https://www.theverge.com/24226288/the-lord-of-the-rings-war-of-the-rohirrim-anime-trailer</guid>
-      <pubDate>Thu, 22 Aug 2024 19:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 员工呼吁终止军事合同</title>
-      <link>https://www.theverge.com/2024/8/22/24226161/google-deepmind-staff-call-for-end-to-military-contracts</link>
-      <description><![CDATA[
-
-
-2024 年 5 月，Google DeepMind 约 200 名员工（约占该部门的 5%）签署了一封信，敦促该公司终止与军事组织的合同，并表示担心其 AI 技术被用于战争，时代杂志报道。
-信中表示，员工的担忧并非“关于任何特定冲突的地缘政治”，但它确实链接到时代杂志对谷歌与以色列军方的国防合同（称为 Nimbus 项目）的报道。这封信还指出，有报道称以色列军方使用人工智能进行大规模监视并在加沙轰炸行动中选择目标，以色列武器公司受政府委托从谷歌和亚马逊购买云服务。
-这封信强调了谷歌内部人工智能部门与向军方出售人工智能服务的云业务之间的紧张关系。今年早些时候，在谷歌的旗舰 Google I/O 大会上，亲巴勒斯坦抗议者被锁在一起站在会场入口处，抗议拉文德、“爸爸在哪里？”软件、“福音”人工智能计划和Nimbus 项目。
-
-人工智能在战争中的使用迅速蔓延，促使一些构建相关系统的技术专家站出来发声。但谷歌也做出了一个具体的承诺：2014 年收购 DeepMind 时，该实验室的领导要求他们的人工智能技术永远不会用于军事或监视目的。
-“任何与军事和武器制造的牵连都会影响我们作为道德和负责任的人工智能领导者的地位，违背我们的使命宣言和既定的人工智能原则，”在谷歌 DeepMind 内部流传的这封信中说道。
-据《时代》杂志报道，DeepMind 员工的信敦促领导层调查有关谷歌云服务被军方和武器制造商使用的说法，切断军方对 DeepMind 技术的访问，并建立一个新的管理机构，以防止军事客户未来使用该人工智能。
-《时代》杂志报道，尽管员工表示担忧并呼吁采取行动，但谷歌迄今为止“没有做出任何有意义的回应”。]]></description>
-      <guid>https://www.theverge.com/2024/8/22/24226161/google-deepmind-staff-call-for-end-to-military-contracts</guid>
-      <pubDate>Thu, 22 Aug 2024 19:11:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
