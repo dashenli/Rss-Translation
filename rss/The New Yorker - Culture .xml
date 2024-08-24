@@ -4,7 +4,14 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 24 Aug 2024 18:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 21:14:57 GMT</lastBuildDate>
+    <item>
+      <title>小罗伯特·F·肯尼迪让位给唐纳德·特朗普</title>
+      <link>https://www.newyorker.com/news/the-lede/robert-f-kennedy-jr-steps-aside-for-donald-trump</link>
+      <description><![CDATA[随着肯尼迪 2024 年竞选活动的失败，他接受了作为前总统最新盟友的新角色。]]></description>
+      <guid>https://www.newyorker.com/news/the-lede/robert-f-kennedy-jr-steps-aside-for-donald-trump</guid>
+      <pubDate>Sat, 24 Aug 2024 20:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>民主需要失败者</title>
       <link>https://www.newyorker.com/news/the-weekend-essay/democracy-needs-the-loser</link>
@@ -15,15 +22,8 @@
     <item>
       <title>卡马拉·哈里斯能否在选举日保持兴奋？</title>
       <link>https://www.newyorker.com/magazine/2024/09/02/can-kamala-harris-keep-up-the-excitement-through-election-day</link>
-      <description><![CDATA[在民主党全国代表大会上，人们如释重负的感觉和普遍的兴奋一样强烈——但反对唐纳德·特朗普的竞选才刚刚开始。]]></description>
+      <description><![CDATA[在民主党全国代表大会上，人们如释重负，兴奋不已——但反对唐纳德·特朗普的竞选才刚刚开始。]]></description>
       <guid>https://www.newyorker.com/magazine/2024/09/02/can-kamala-harris-keep-up-the-excitement-through-election-day</guid>
-      <pubDate>Sat, 24 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>青少年疏离感暴露无遗</title>
-      <link>https://www.newyorker.com/culture/photo-booth/teen-age-alienation-on-display</link>
-      <description><![CDATA[20 世纪 80 年代，安德里亚·莫迪卡 (Andrea Modica) 为她的天主教母校的学生拍照。“我在那里意识到了我在高中时期必须面对的一些事情——既可怕又美好，”她说。]]></description>
-      <guid>https://www.newyorker.com/culture/photo-booth/teen-age-alienation-on-display</guid>
       <pubDate>Sat, 24 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -31,6 +31,13 @@
       <link>https://www.newyorker.com/podcast/political-scene/kamala-harriss-different-kind-of-hope-campaign</link>
       <description><![CDATA[苏珊·B·格拉瑟表示：“人们的热情确实存在，但我认为这与其说是围绕哈里斯的议程，不如说是围绕阻止特朗普的议程。”]]></description>
       <guid>https://www.newyorker.com/podcast/political-scene/kamala-harriss-different-kind-of-hope-campaign</guid>
+      <pubDate>Sat, 24 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>青少年疏离感暴露无遗</title>
+      <link>https://www.newyorker.com/culture/photo-booth/teen-age-alienation-on-display</link>
+      <description><![CDATA[20 世纪 80 年代，安德里亚·莫迪卡 (Andrea Modica) 为她的天主教母校的学生拍照。“我在那里意识到了我在高中时期必须面对的一些事情——既可怕又美好，”她说。]]></description>
+      <guid>https://www.newyorker.com/culture/photo-booth/teen-age-alienation-on-display</guid>
       <pubDate>Sat, 24 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -76,13 +83,6 @@
       <pubDate>Fri, 23 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>哀悼《邪恶》的终结，这是一部与电视上其他节目都不同的节目</title>
-      <link>https://www.newyorker.com/magazine/2024/09/02/evil-tv-review-paramount</link>
-      <description><![CDATA[Paramount+ 的这部剧集对信仰进行了异常严肃的处理，并对几乎所有其他内容都进行了令人愉快的荒诞诠释，使其成为越来越厌恶风险的电视剧领域的一抹亮点。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/09/02/evil-tv-review-paramount</guid>
-      <pubDate>Fri, 23 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>《寺庙之间》是一部充满歌声和尖刻讽刺的美国犹太爱情故事</title>
       <link>https://www.newyorker.com/magazine/2024/09/02/between-the-temples-movie-review</link>
       <description><![CDATA[杰森·舒瓦兹曼和卡罗尔·凯恩为内森·西尔弗的紧张喜剧带来了想象力和活力，该剧讲述了一位悲痛的领唱者和一位年长的犹太成人礼学生的故事。]]></description>
@@ -104,10 +104,10 @@
       <pubDate>Fri, 23 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>语言人工智能是偶然产生的吗？</title>
-      <link>https://www.newyorker.com/science/annals-of-artificial-intelligence/was-linguistic-ai-created-by-accident</link>
-      <description><![CDATA[在发明转换器（ChatGPT 中的“T”）七年后，其背后的研究人员仍在努力探索其惊人的威力。]]></description>
-      <guid>https://www.newyorker.com/science/annals-of-artificial-intelligence/was-linguistic-ai-created-by-accident</guid>
+      <title>哀悼《邪恶》的终结，这是一部与电视上其他节目都不同的节目</title>
+      <link>https://www.newyorker.com/magazine/2024/09/02/evil-tv-review-paramount</link>
+      <description><![CDATA[Paramount+ 的这部剧集对信仰进行了异常严肃的处理，并对几乎所有其他内容都进行了令人愉快的荒诞诠释，使其成为越来越厌恶风险的电视剧领域的一抹亮点。]]></description>
+      <guid>https://www.newyorker.com/magazine/2024/09/02/evil-tv-review-paramount</guid>
       <pubDate>Fri, 23 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
