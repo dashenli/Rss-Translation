@@ -4,7 +4,14 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 25 Aug 2024 21:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 01:04:31 GMT</lastBuildDate>
+    <item>
+      <title>帕维尔·杜罗夫被捕，电报悬而未决</title>
+      <link>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</link>
+      <description><![CDATA[据报道，杜罗夫因 Telegram 未能充分监管该消息应用程序上的非法内容而在法国被拘留。他的被捕引发了强烈反对，一些同事不禁要问，现在该怎么办？]]></description>
+      <guid>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</guid>
+      <pubDate>Sun, 25 Aug 2024 22:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>三星 Odyssey G6 OLED 评测：帧数超出你的眼睛所能承受的范围</title>
       <link>https://www.wired.com/review/samsung-odyssey-g6-oled-gaming-monitor/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>谷歌卫星 eSOS 在 Pixel 9 上的紧急情况下如何运作</title>
       <link>https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/</link>
-      <description><![CDATA[与最近的 iPhone 一样，当您没有蜂窝连接时，谷歌最新的 Android 手机也支持卫星信息。]]></description>
+      <description><![CDATA[与最近推出的 iPhone 一样，谷歌最新的 Android 手机在您没有蜂窝连接时支持卫星信息。]]></description>
       <guid>https://www.wired.com/story/google-pixel-9-satellite-esos-emergency-messaging/</guid>
       <pubDate>Sat, 24 Aug 2024 11:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[此外：美国情报界正式指责伊朗对特朗普竞选活动遭到黑客攻击，飞机追踪平台 FlightAware 表示“配置错误”暴露了敏感用户数据等等。]]></description>
       <guid>https://www.wired.com/story/the-us-navy-has-run-out-of-pants/</guid>
       <pubDate>Sat, 24 Aug 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗伯特·肯尼迪暂停总统竞选，转而支持特朗普</title>
-      <link>https://www.wired.com/story/rfk-jr-drops-out-presidential-race/</link>
-      <description><![CDATA[小罗伯特·F·肯尼迪在支持唐纳德·特朗普之前曾表示：“我没有终止我的竞选活动，我只是暂停它。”]]></description>
-      <guid>https://www.wired.com/story/rfk-jr-drops-out-presidential-race/</guid>
-      <pubDate>Fri, 23 Aug 2024 19:18:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
