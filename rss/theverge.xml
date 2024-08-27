@@ -4,7 +4,90 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 06:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 12:27:53 GMT</lastBuildDate>
+    <item>
+      <title>微软的下一个 Windows 11 重大更新将显著提高 Ryzen 游戏性能</title>
+      <link>https://www.theverge.com/2024/8/27/24229443/microsoft-windows-11-update-24h2-ryzen-cpu-performance-improvement</link>
+      <description><![CDATA[
+
+图片：AMD
+
+AMD 承诺微软即将推出的 Windows 11 24H2 更新 将提高其新款 Ryzen 9000 系列 CPU 的性能，但它也会给一些较旧的 Ryzen CPU 带来显着的提升。 Hardware Unboxed 在 Windows 11 版本 23H2 和 24H2 上测试了基于 Zen 4 的 Ryzen 7 7700X 和新款 Ryzen 7 9700X (Zen 5)，发现得益于微软的操作系统更新，性能显著提升。
+平均而言，Hardware Unboxed 发现在运行 Windows 11 版本 24H2 的旧款 Ryzen 7700X 上，在多款以 1080p 分辨率运行的游戏中，性能提升了 10%。在最新的 Ryzen 9700X 上，Windows 11 24H2 在相同的游戏测试中平均提供了 11% 的性能提升。 KitGuru 还测试了 AMD 最好的游戏 CPU 7800X3D，发现在某些游戏中也有类似的提升，同时由于 Windows 11 版本 24H2，旧款 Ryzen 9 7950X 也有所改进。 
+
+新的基准测试结果是在 AMD 推出其 Zen 5 台式机 CPU 几周后发布的，该款 CPU 在早期评测中表现不佳。评测人员发现，在游戏方面，上一代 Ryzen 9 7950X 看起来比 AMD 的新旗舰 Ryzen 9 9950X 更有价值。
+Windows 11 24H2 肯定会提高这些新 Zen 5 CPU 的性能，但由于它也在改进旧款 Zen 4 处理器，因此两种架构之间的性能差距似乎仍然有点令人失望。不过，微软的 24H2 更新对于 Ryzen 用户来说绝对不会令人失望，因为它确实允许他们为他们的 CPU 下载更好的性能。
+我们预计微软将在 9 月底发布适用于 Windows 11 的 24H2 更新，但如果您想尽早获得它，您可以选择加入 Windows Insider 计划并在您的 PC 上启用 Release Preview 版本。如果您希望全新安装或手动执行升级，24H2 的 ISO 文件可在此处获取。]]></description>
+      <guid>https://www.theverge.com/2024/8/27/24229443/microsoft-windows-11-update-24h2-ryzen-cpu-performance-improvement</guid>
+      <pubDate>Tue, 27 Aug 2024 11:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garmin 增加了一系列功能，让 Fenix 8 更加智能</title>
+      <link>https://www.theverge.com/2024/8/27/24228712/garmin-fenix-8-enduro-3-smartwatch-wearables</link>
+      <description><![CDATA[
+
+新款 Garmin Fenix 8 系列增加了语音命令和新的 Messenger 应用程序。 |图片：Garmin
+
+Garmin 携两款坚固耐用的智能手表回归：全新 Fenix 8 和 Enduro 3。售价 999.99 美元的 Fenix 8 是 Garmin 的顶级旗舰产品之一，将配备内置扬声器和麦克风，以及多项全新训练功能。同时，售价 899.99 美元的 Enduro 3 将配备 LED 手电筒和太阳能充电功能，在 GPS 模式下可将电池寿命延长至 320 小时。
+如果说 Fenix 8 这次的更新有什么主题，那就是让设备更智能，同时也为运动员提供更多选择。例如，它现在有一个内置扬声器和麦克风，因此您可以从手腕上拨打和接听电话。您还可以发出语音命令，例如“设置 5 分钟的计时器”。对于语音命令，也不需要连接到手机。 
+这对 Garmin 生态系统来说并不新鲜——Venu 2 Plus 是第一个添加语音功能的产品——但这不是 Fenix 系列产品可以做到的。 Garmin 还添加了一款新的 Garmin Messenger 应用程序，可让您通过手腕与朋友和家人交流。 （需要注意的是，您和您发短信的人都需要在手机上安装 Garmin Messenger 应用程序。）
+
+
+图片：Garmin
+Fenix 8 有 OLED 和太阳能充电型号。
+
+Fenix 8 还允许您选择是否使用 OLED 显示屏或始终开启的太阳能充电显示屏。前者将提供 43 毫米、47 毫米和 51 毫米三种尺寸。它延续了 Garmin 在其所有手表中添加 OLED 的趋势。 
+然而，许多户外运动爱好者更喜欢在活动期间续航时间更长的低功耗显示屏。对于这些人来说，Garmin 表示，这次新的太阳能显示屏选项更有效——尽管这始终取决于使用情况。太阳能型号有 47 毫米和 51 毫米两种尺寸，预计电池寿命分别为 29 天和 48 天。这比标准 Fenix 8 型号长得多，后者的电池寿命为 10 天（43 毫米）、16 天（47 毫米）或 29 天（51 毫米）。 
+在设计方面，Fenix 8 还增加了新的传感器保护装置和“防漏”金属按钮。它还将配备 Garmin 去年在 Fenix 7 Pro 和 Epix Pro 型号上推出的灵巧 LED 手电筒和心电图功能。对于新的健身功能，Garmin 正在添加高级力量训练，并针对特定运动量身定制 4-6 个训练计划。它还增加了潜水功能和新的地图界面。 
+
+
+图片：Garmin
+Enduro 3 配备太阳能充电和手电筒。
+
+与此同时，Enduro 3 也获得了一些相同的更新。即内置手电筒、高级力量训练计划、Garmin Messenger 应用程序、心电图，以及现在的太阳能充电。太阳能充电对于 Enduro 系列来说很有意义，顾名思义，该系列针对的是超耐力运动员。据称，太阳能镜片在 GPS 模式下可使用长达 320 小时，在功率更大的双频 GPS 模式下可使用长达 120 小时。
+Fenix 8 和 Enduro 3 都将于今日上市。Fenix 8 的起价为 999.99 美元，但有些型号的零售价可能高达 1199.99 美元。Enduro 3 的零售价为 899.99 美元。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/8/27/24228712/garmin-fenix-8-enduro-3-smartwatch-wearables</guid>
+      <pubDate>Tue, 27 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软近期不会从 Windows 中删除控制面板</title>
+      <link>https://www.theverge.com/2024/8/27/24229436/microsoft-windows-control-panel-removal</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+您可能上周已经读过有关 Microsoft 即将从 Windows 中删除控制面板的头条新闻，但控制面板的消亡被大大夸大了。这些不准确的报道源自一份支持文档，最初由Neowin发现。微软现已更新支持文档，明确表示控制面板不会在短期内从 Windows 中删除。
+“控制面板正在被弃用，取而代之的是设置应用，”微软在上周的支持说明中表示。尽管微软十多年来一直致力于将控制面板项目移至设置界面，但这份看似微小的支持文档更新却引发了有关控制面板“即将”被删除的新闻头条。 
+“微软终于正式确认，不久后将停止使用 Windows 控制面板”，Neowin 表示，“微软正式弃用已有 39 年历史的 Windows 控制面板”，Ars Technica 宣布。许多其他人报告说，控制面板即将终结，但上周末微软更新了支持说明，明确表示它只是在继续将项目移至“设置”应用。
+“控制面板中的许多设置正在迁移到“设置”应用，”微软表示。我要求该公司对原始支持说明和更新的支持说明发表评论，但微软尚未及时向The Verge提供声明以供发布。
+
+
+在有不准确的报道称微软将“很快”从 Windows 中删除控制面板后，微软现在表示“控制面板中的许多设置正在迁移到设置应用程序”，而不是“控制面板正在被弃用”pic.twitter.com/eiY6dC5xbg— Tom Warren (@tomwarren) 2024 年 8 月 26 日
+
+
+无论如何，微软近几个月来一直在将更多控制面板设置移至设置界面。Windows 11 终于有了鼠标设置，让您可以很快避免使用控制面板，从而消除了使用控制面板的另一个重要原因。
+不过，许多 Windows 用户仍然更喜欢控制面板界面而不是设置界面。它在一个易于使用的界面中提供了许多设置，您无需深入多个级别即可找到所需内容。自 Windows 8 以来，微软一直在改进其设置界面，并在 Windows 10 和 11 中进行了大量大修。
+这家软件巨头仍未将控制面板添加到其 Windows 中的弃用功能列表中，因此它不会很快消失。微软通常会提前数月甚至数年将 Windows 功能添加到此正式弃用列表中，以警告企业和消费者它们将被删除。]]></description>
+      <guid>https://www.theverge.com/2024/8/27/24229436/microsoft-windows-control-panel-removal</guid>
+      <pubDate>Tue, 27 Aug 2024 10:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星新款 AI 智能电视将获得七年的操作系统更新</title>
+      <link>https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+三星表示，将为其新款 AI 电视提供七年的 Tizen 操作系统更新，以抵御来自中国竞争对手的竞争。据《Business Korea》报道，该声明于上周在三星电子水原园区发布，并将首先适用于 2024 年 3 月发布的电视型号以及 2023 年发布的部分产品。
+
+该政策延期与三星目前提供的更新相比有显著提升，后者通常无需升级 Tizen 操作系统本身即可解决错误。三星目前是全球最大的智能电视销售商，但目前发现其市场领导地位正受到海信和 TCL 等中国公司的挑战。 分析公司 Omdia 的研究发现，今年上半年，三星在全球电视市场的份额接近 29%——比去年下降了 2% 以上——而 TCL 和海信的份额分别接近 12.1% 和 10%。
+“随着 Tizen 七年免费升级应用于 AI 电视，我们将扩大与中国公司的市场份额差距，”三星电子视觉显示业务部总裁 Yong Seok-Yoon 表示。三星尚未指定保证从扩展更新中受益的具体型号。
+三星在 1 月份也发布了类似的声明 关于其 Galaxy S24 智能手机系列，承诺提供七多年的操作系统升级和安全更新。大约在同一时间，三星的国内竞争对手 LG 还透露，它将为其自己的智能电视系列提供五年的 webOS 升级，不过该公告中至少包括了适用的具体型号。]]></description>
+      <guid>https://www.theverge.com/2024/8/27/24229429/samsung-ai-smart-tvs-tizen-os-seven-years-updates</guid>
+      <pubDate>Tue, 27 Aug 2024 09:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>Garmin 出色的 Forerunner 265 跑步手表降价至迄今为止的最低价</title>
       <link>https://www.theverge.com/2024/8/26/24228868/garmin-forerunner-265-running-watch-apple-airpods-max-headphones-deal-sale</link>
@@ -94,67 +177,6 @@ WF-C510 预计将于 9 月 9 日起开始向客户发货。
 ]]></description>
       <guid>https://www.theverge.com/2024/8/26/24228905/sony-wireless-earbuds-wf-c510-budget-voice-isolation-transparency</guid>
       <pubDate>Mon, 26 Aug 2024 19:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gannett 正在关闭被指控发布 AI 产品评论的网站</title>
-      <link>https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles</guid>
-      <pubDate>Mon, 26 Aug 2024 18:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>D&D 出版商撤回对在线工具的有争议的更改</title>
-      <link>https://www.theverge.com/2024/8/26/24228779/d-and-d-beyond-magic-items-spells-update-d-and-d-2024</link>
-      <description><![CDATA[
-
-图片：Wizards of the Coast
-
-Wizards of the Coast 已经收回了一些其计划对 D&amp;D Beyond 进行更新。您当前的所有龙与地下城角色表再次安全，因为发布者不再强制更新法术、武器和魔法物品的较新版本。
-上周，作为对龙与地下城进行更新的一部分Dragons 第五版 — 统称为 2024 年修订版 — 发行商宣布将更新 D&amp;D Beyond，这是桌面角色扮演游戏的官方数字工具包，玩家可以使用该工具包引用内容并使用大量官方和第三方来源创建角色。更新将向工具包添加新的 2024 年规则手册，用“遗留”徽章标记过时的内容，并更改玩家的角色表以反映所有新规则和功能。 
-
-
-在接下来的几个月里，您将在 D&amp;D Beyond 上看到重大变化！ ⚙️ 以下是我们正在开展的工作：https://t.co/QJMhaPigZD pic.twitter.com/GttPl9GJdf— D&amp;D Beyond (@DnDBeyond) 2024 年 8 月 21 日
-
-
-最后一部分对于理解为什么一些 D&amp;D  玩家（包括我自己的地下城主）至关重要在过去的 72 小时内，玩家们一直处于恐慌状态。虽然 2024 年的一些修订本质上只是表面性的——例如，“种族”将更新为“物种”——但其他更新，如武器、法术和魔法物品的更新，从根本上改变了游戏。无论用户是否愿意，威世智都会用新信息覆盖每个用户的角色表。 
-“所有普通和魔法物品、武器、盔甲和法术的条目也将更新到 2024 年版本，”威世智在最初的公告中表示。
-出版商确实表示，玩家可以选择继续使用 2014 年版本的法术和魔法物品。但这样做需要使用游戏的自制规则。这些规则并不以用户友好而闻名。 
-从这个角度来看，就像拥有一辆汽车一样。想象一下，在使用了一辆汽车 10 年之后，了解了它的来龙去脉，制造商决定在推出您汽车的最新型号时，也会神奇地将您的汽车也更改为新型号。现在，虽然您的汽车本质上是一样的，但它的运行方式与您习惯的方式不同。当你询问制造商是否可以回到你的旧车时，他们说可以，但你必须自己手动恢复它。
-值得庆幸的是，威世智并不从事汽车业务，在社交媒体上经历了一个周末的强烈反对后，该公司将不再强迫玩家接受新的变化。
-“我们误判了这一变化的影响，我们同意你应该自由选择自己的游戏方式，”威世智在最新公告中表示。当前的角色表将仅使用新术语进行更新，而旧版本的咒语、魔法物品和武器将保留。此外，拥有 2014 年和 2024 年数字版的玩家在创建新角色时可以选择同时使用这两个版本。
-从本质上讲，威世智正在做它本应该做的事情：简单地添加新内容并让玩家选择加入。
-
-
-
-
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/8/26/24228779/d-and-d-beyond-magic-items-spells-update-d-and-d-2024</guid>
-      <pubDate>Mon, 26 Aug 2024 18:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望与差距：用丰富多彩的新方式可视化世界各地空气质量</title>
-      <link>https://www.theverge.com/2024/8/26/24228658/air-quality-pollution-art-data-visualization-stripes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/8/26/24228658/air-quality-pollution-art-data-visualization-stripes</guid>
-      <pubDate>Mon, 26 Aug 2024 17:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>宜家正在测试二手市场，但仅在两个国家</title>
-      <link>https://www.theverge.com/2024/8/26/24228840/ikea-preowned-secondhand-marketplace-test</link>
-      <description><![CDATA[
-
-图片：宜家
-
-宜家目前正在马德里和奥斯陆测试一个在线平台，人们可以在此将二手宜家家具出售给他人。该平台Ikea Preowned允许用户列出带有照片和价格的家具，实际列表（如本例）看起来很像你在宜家主网站上看到的。但是，买家和卖家必须就见面交付家具的地点和时间达成一致。
-目前，卖家可以选择通过银行转账获得付款，无需支付额外费用，或者通过宜家礼品卡获得额外 15% 的家具购买价格，根据宜家二手网站。 宜家表示，您无法退回已损坏或状态不符合预期的商品，但可以要求退款。
-发布列表是免费的，但最终可能会收取“象征性的费用，微不足道的费用”，Ingka Group（经营着绝大多数宜家零售店）首席执行官 Jesper Brodin 在向金融时报表示。
-Ingka Group 的 Tolga Oncu 在给The Verge的一份声明中表示，市场测试将持续到 12 月。 Oncu 表示：“12 月之后，我们将进行评估并决定下一步行动。” 
-8 月 26 日更新：添加了 Ingka 集团的声明。]]></description>
-      <guid>https://www.theverge.com/2024/8/26/24228840/ikea-preowned-secondhand-marketplace-test</guid>
-      <pubDate>Mon, 26 Aug 2024 17:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
