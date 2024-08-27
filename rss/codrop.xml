@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Sun, 25 Aug 2024 18:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 15:18:41 GMT</lastBuildDate>
+    <item>
+      <title>使用 Three.js GPGPU 和着色器实现具有 RGB 移位的网格位移纹理</title>
+      <link>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</link>
+      <description><![CDATA[了解如何使用着色器和 GPGPU 将像素/网格位移应用于 Three.js 中的纹理，并在光标移动时产生微妙的 RGB 偏移效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:41:52 GMT</pubDate>
+    </item>
     <item>
       <title>集体#859</title>
       <link>https://tympanus.net/codrops/collective/collective-859/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>使用 Threepipe 进行交互式 3D 设备展示</title>
       <link>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</link>
-      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，以在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
+      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</guid>
       <pubDate>Wed, 07 Aug 2024 10:14:53 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[CSS 网格区域 * 你认为你了解盒子阴影吗？ * 我们生活中的物品]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-857/</guid>
       <pubDate>Fri, 02 Aug 2024 16:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚焦：Artemii Lebedev</title>
-      <link>https://tympanus.net/codrops/2024/08/01/designer-spotlight-artemii-lebedev/</link>
-      <description><![CDATA[认识一下 Artemii Lebedev，Le:mma Studio 的获奖设计师和艺术总监，他擅长将美学与功能性相融合，并分享了他创新作品和创作过程的见解。]]></description>
-      <guid>https://tympanus.net/codrops/2024/08/01/designer-spotlight-artemii-lebedev/</guid>
-      <pubDate>Thu, 01 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
