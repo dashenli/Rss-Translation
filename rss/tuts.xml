@@ -4,7 +4,14 @@
     <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 15:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:21:35 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Vanilla JavaScript 开发井字游戏</title>
+      <link>https://webdesign.tutsplus.com/tic-tac-toe-game-with-vanilla-javascript--cms-108863t</link>
+      <description><![CDATA[]]></description>
+      <guid>https://webdesign.tutsplus.com/tic-tac-toe-game-with-vanilla-javascript--cms-108863t</guid>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 DaVinci Resolve Studio 19 中使用 AI</title>
       <link>https://photography.tutsplus.com/tutorials/how-to-use-ai-in-davinci-resolve-studio-19--cms-108785</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/tutorials/how-to-stay-organized-with-clip-colors-in-premiere-pro--cms-108782</guid>
       <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Premiere Pro 中快速添加运动模糊效果</title>
-      <link>https://photography.tutsplus.com/tutorials/how-to-quickly-add-a-motion-blur-effect-in-premiere-pro--cms-108173</link>
-      <description><![CDATA[]]></description>
-      <guid>https://photography.tutsplus.com/tutorials/how-to-quickly-add-a-motion-blur-effect-in-premiere-pro--cms-108173</guid>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
