@@ -4,7 +4,31 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:17:11 GMT</lastBuildDate>
+    <item>
+      <title>苹果最大的担忧：如果欧洲人过得更好怎么办？（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2440145</link>
+      <description><![CDATA[苹果最担心的事情之一已经成真。iPhone 和 iPad 已经出现碎片化。到今年年底，部分地区的用户将能够利用 Apple Intelligence 的强大功能完成各种任务，而欧盟的用户将能够设置默认应用、删除 Apple 的库存应用、从其他应用商店购买、玩 Fortnite、使用剪贴板管理器等。…]]></description>
+      <guid>https://www.macworld.com/article/2440145</guid>
+      <pubDate>Wed, 28 Aug 2024 15:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果图书业务裁员正朝着错误的方向发展</title>
+      <link>https://sixcolors.com/post/2024/08/apple-job-cuts-in-books-are-turning-the-page-in-the-wrong-direction/</link>
+      <description><![CDATA[Apple Books 的下一篇章看起来有些暗淡。
+在彭博社的一份报告中（当然是付费的），马克·古尔曼表示，该公司已经裁员约 100 人，主要是 Apple Books 和 Apple Bookstore 背后的团队。…]]></description>
+      <guid>https://sixcolors.com/post/2024/08/apple-job-cuts-in-books-are-turning-the-page-in-the-wrong-direction/</guid>
+      <pubDate>Wed, 28 Aug 2024 14:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果维修过的手机被禁止进入社交媒体 ↦</title>
+      <link>https://sixcolors.com/link/2024/08/apple-repaired-phone-banned-from-social-media/</link>
+      <description><![CDATA[Finn Voorhees 的 iPhone 屏幕摔坏了，Apple 帮他修好了。突然间，他被 Snapchat 封禁了：
+
+从备份中恢复并开始重新登录所有帐户后，我遇到了一个意想不到的问题。…]]></description>
+      <guid>https://sixcolors.com/link/2024/08/apple-repaired-phone-banned-from-social-media/</guid>
+      <pubDate>Wed, 28 Aug 2024 14:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>再见，卢卡（有点）↦</title>
       <link>https://sixcolors.com/link/2024/08/bye-luca-sort-of/</link>
@@ -99,30 +123,6 @@ Epic 的游戏商店可能为开发者提供更好的条款，但每个开发者
       <description><![CDATA[更多关于人工智能、Lex 的新 iPad 和新赞助商的讨论！…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/the-rebound-509-the-taco-bell-rebound/</guid>
       <pubDate>Wed, 21 Aug 2024 18:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Many Tricks 发布 Moom 4 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/many-tricks-releases-moom-4/</link>
-      <description><![CDATA[Moom 4 的扩展界面。（感谢 Many Tricks。）
-当我介绍 macOS Sequoia 公开测试版时，我指出，虽然现在有一个用于快速窗口平铺的内置功能，但它是典型的 Apple 系统级产品：
-
-是的，多年来，许多 macOS 实用程序都实现了此功能，这些实用程序几乎肯定会为用户提供比 Apple 提供的基本功能更多的选项和可定制性。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/many-tricks-releases-moom-4/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纪念碑谷 3》将成为 Netflix 游戏 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/</link>
-      <description><![CDATA[Netflix 宣布经典独立平台游戏续集《纪念碑谷 3》将于 12 月 10 日推出（令人惊讶）。它将在 App Store 上架，但专供 Netflix 订阅用户使用。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/monument-valley-3-will-be-a-netflix-game/</guid>
-      <pubDate>Wed, 21 Aug 2024 00:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 525：U3 精选</title>
-      <link>https://sixcolors.com/podcast/2024/08/upgrade-525-best-of-u3/</link>
-      <description><![CDATA[Fortnite 和 Epic 重返（不是你的）iPhone，苹果开放 NFC 并对 Patreon 实施新的限制，Spotify 发布了链接，我们讨论什么是“桌面机器人”，什么不是“桌面机器人”。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/08/upgrade-525-best-of-u3/</guid>
-      <pubDate>Mon, 19 Aug 2024 21:07:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
