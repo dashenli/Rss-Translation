@@ -4,7 +4,23 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 28 Aug 2024 21:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 15:17:57 GMT</lastBuildDate>
+    <item>
+      <title>谁在阻止苹果的 AI 爬虫↦</title>
+      <link>https://sixcolors.com/link/2024/08/whos-blocking-apples-ai-crawler/</link>
+      <description><![CDATA[Wired 的 Kate Knibbs 报道称，许多大型出版商都在屏蔽 Applebot-Extended，这是该公司帮助训练 Apple Intelligence 的爬虫机器人：
+
+WIRED 可以确认，Facebook、Instagram、Craigslist、Tumblr、《纽约时报》、《金融时报》、《大西洋月刊》、Vox Media、《今日美国》网络和 WIRED 的母公司 Condé Nast 等众多组织都选择将其数据排除在 Apple 的 AI 训练之外。…]]></description>
+      <guid>https://sixcolors.com/link/2024/08/whos-blocking-apples-ai-crawler/</guid>
+      <pubDate>Thu, 29 Aug 2024 14:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>无障碍网站 AppleVis 终究不会消失 ↦</title>
+      <link>https://sixcolors.com/link/2024/08/accessibility-site-applevis-wont-disappear-after-all/</link>
+      <description><![CDATA[AppleVis 不会像今年夏初宣布的那样在 8 月 31 日关闭。这个备受推崇的网站提供新闻、社区论坛和针对盲人和视障 Apple 用户的可访问应用程序目录，现已被 Be My Eyes 收购，后者计划于 9 月重新推出。…]]></description>
+      <guid>https://sixcolors.com/link/2024/08/accessibility-site-applevis-wont-disappear-after-all/</guid>
+      <pubDate>Thu, 29 Aug 2024 14:24:48 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）20 Mac 28：Performa 月</title>
       <link>https://sixcolors.com/podcast/2024/08/20-macs-28-performa-month/</link>
@@ -106,23 +122,6 @@ Ted Lasso 粉丝们，这不是演习。这是向期待已久的 Apple TV+ 广�
       <description><![CDATA[一名法官叫停了 Venu 的推出，使整个有线电视套餐的经济效益受到质疑。[Downstream+ 订阅用户还可以获得：派拉蒙的销售难题、Disney+ 的成功指标、奥运会收尾以及影院的复苏。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/08/downstream-76-defund-the-bundle/</guid>
       <pubDate>Fri, 23 Aug 2024 01:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic 的应用商店仍与苹果存在冲突↦</title>
-      <link>https://sixcolors.com/link/2024/08/epics-app-store-is-still-in-conflict-with-apple/</link>
-      <description><![CDATA[The Verge 的 Emma Roth 和 Jay Peters 对欧盟应用开发者和替代应用市场的现状进行了很好的概述：
-
-Epic 的游戏商店可能为开发者提供更好的条款，但每个开发者，包括 Epic，仍然需要向 Apple 支付费用，即使在 App Store 之外也是如此。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/epics-app-store-is-still-in-conflict-with-apple/</guid>
-      <pubDate>Thu, 22 Aug 2024 15:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许自由发言吗，Siri？</title>
-      <link>https://sixcolors.com/post/2024/08/permission-to-speak-freely-siri/</link>
-      <description><![CDATA[
-我知道所有酷孩子都在使用 18.0 和 18.1 来度过brat beta 夏天，但我从不想在我的 iPhone 上冒险使用 iOS beta。…]]></description>
-      <guid>https://sixcolors.com/post/2024/08/permission-to-speak-freely-siri/</guid>
-      <pubDate>Wed, 21 Aug 2024 20:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
