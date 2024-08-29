@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 29 Aug 2024 01:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 18:21:07 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Armur—Alexandra Murgu 投资组合</title>
+      <link>https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/</link>
+      <description><![CDATA[Artemii Lebedev 的一个项目的幕后花絮：Armur，一个为 Alexandra Murgu 创建的电影行业作品集网站。]]></description>
+      <guid>https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/</guid>
+      <pubDate>Thu, 29 Aug 2024 13:36:15 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Three.js GPGPU 和着色器实现具有 RGB 移位的网格位移纹理</title>
       <link>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</guid>
       <pubDate>Wed, 07 Aug 2024 10:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#857</title>
-      <link>https://tympanus.net/codrops/collective/collective-857/</link>
-      <description><![CDATA[CSS 网格区域 * 你认为你了解盒子阴影吗？ * 我们生活中的物品]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-857/</guid>
-      <pubDate>Fri, 02 Aug 2024 16:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
