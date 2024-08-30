@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Thu, 29 Aug 2024 18:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 12:30:52 GMT</lastBuildDate>
+    <item>
+      <title>集体#860</title>
+      <link>https://tympanus.net/codrops/collective/collective-860/</link>
+      <description><![CDATA[React 正在成为全栈框架 * Zen Browser * 并行 DOM]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-860/</guid>
+      <pubDate>Fri, 30 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Armur—Alexandra Murgu 投资组合</title>
       <link>https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索 Vladimir Biondic 的远见艺术，他是一位独立的塞尔维亚艺术总监和设计师，在网络和品牌设计方面拥有十多年的经验。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/09/designer-spotlight-vladimir-biondic/</guid>
       <pubDate>Fri, 09 Aug 2024 09:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Threepipe 进行交互式 3D 设备展示</title>
-      <link>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</link>
-      <description><![CDATA[使用 Three.js 和 threepipe 构建一个最小的 3D Web 应用程序，在交互式环境中在笔记本电脑和手机上展示设计。]]></description>
-      <guid>https://tympanus.net/codrops/2024/08/07/interactive-3d-device-showcase-with-threepipe/</guid>
-      <pubDate>Wed, 07 Aug 2024 10:14:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
