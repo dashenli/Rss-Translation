@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 01 Sep 2024 01:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 03:22:43 GMT</lastBuildDate>
+    <item>
+      <title>Astrohaus“Freewrite Alpha”评测：一款迫使你专注于写作的智能打字机</title>
+      <link>https://wired.jp/article/freewrite-alpha-review/</link>
+      <description><![CDATA[Freewrite Alpha 是一款智能打字机，专为想要专注于写作的人而开发，由于其显示屏较小，因此您可以在打字时不受干扰。它看起来像一个老式的文字处理器，但你也可以将完成的手稿上传到云端。]]></description>
+      <guid>https://wired.jp/article/freewrite-alpha-review/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>各大媒体拒绝向苹果AI提供训练数据。机器人是攻击和防御的关键</title>
+      <link>https://wired.jp/article/applebot-extended-apple-ai-scraping/</link>
+      <description><![CDATA[Apple 发布了一款名为“Applebot-Extended”的工具，可让您将自己的网站排除在 Apple 的 AI 训练之外。 《纽约时报》等主要媒体和 Facebook 等平台已经在使用它。]]></description>
+      <guid>https://wired.jp/article/applebot-extended-apple-ai-scraping/</guid>
+      <pubDate>Sun, 01 Sep 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>日本《连线》编辑部评选出2024年8月发表的5篇值得关注的文章</title>
       <link>https://wired.jp/article/editors-5-stories-august-2024/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Nimbus 项目是以色列政府、谷歌和亚马逊于 2019 年签署的云合同。 《连线》杂志的一项调查显示，该项目与以色列国防军的关系比表面上看起来要密切得多。]]></description>
       <guid>https://wired.jp/article/sz-amazon-google-project-nimbus-israel-idf/</guid>
       <pubDate>Thu, 29 Aug 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷幻蘑菇“重置”与“自我意识”相关的大脑网络：研究结果</title>
-      <link>https://wired.jp/article/psilocybin-desynchronizes-the-human-brain/</link>
-      <description><![CDATA[所谓的“神奇蘑菇”会引起幻觉和幻听。据说，人们有时会体验到一种超越感，感觉空间和时间都被扭曲了，或者不再知道自己是谁。“一项新的研究表明，存在一种现象：]]></description>
-      <guid>https://wired.jp/article/psilocybin-desynchronizes-the-human-brain/</guid>
-      <pubDate>Thu, 29 Aug 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果电动汽车电池发生火灾该怎么办。紧急情况下应采取的正确措施</title>
-      <link>https://wired.jp/article/ev-battery-fires-explained/</link>
-      <description><![CDATA[如果您的电动汽车 (EV) 电池着火，您该怎么办？本文阐述了锂离子电池起火的原因以及处理方法。]]></description>
-      <guid>https://wired.jp/article/ev-battery-fires-explained/</guid>
-      <pubDate>Thu, 29 Aug 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
