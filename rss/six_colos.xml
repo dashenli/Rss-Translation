@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 03 Sep 2024 01:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:26:26 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Apple Books 对我有用</title>
+      <link>https://sixcolors.com/post/2024/09/why-apple-books-works-for-me/</link>
+      <description><![CDATA[丹上周撰文报道了苹果公司解雇图书部门 100 名员工的报道。大多数观察家认为，这一消息是一个令人遗憾但可以理解的商业决定。…]]></description>
+      <guid>https://sixcolors.com/post/2024/09/why-apple-books-works-for-me/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 527：2024 年 9 月活动草案</title>
       <link>https://sixcolors.com/podcast/2024/09/upgrade-527-the-2024-september-event-draft/</link>
@@ -113,15 +120,6 @@ Ted Lasso 粉丝们，这不是演习。这是向期待已久的 Apple TV+ 广�
 1Password 的工作人员最近参加了在旧金山举行的 RSA 会议，他们惊讶地发现，每个人都对解决新问题的新解决方案充满热情。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/08/1password-3/</guid>
       <pubDate>Fri, 23 Aug 2024 16:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 AI 照片工具可能太简单、太好用了 ↦</title>
-      <link>https://sixcolors.com/link/2024/08/googles-ai-photo-tools-may-be-too-easy-and-too-good/</link>
-      <description><![CDATA[The Verge 的 Sarah Jeong 谈到了 Google Pixel 9 的新“Magic Editor”生成式 AI 功能，以及它将带来的未来：
-
-甚至在 AI 出现之前，我们媒体人就一直在采取防御性措施，仔细检查每张图片的细节和出处，审查是否有误导性的内容或照片处理。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/googles-ai-photo-tools-may-be-too-easy-and-too-good/</guid>
-      <pubDate>Fri, 23 Aug 2024 14:15:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
