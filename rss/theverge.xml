@@ -4,7 +4,141 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:19:29 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 正在开发新工具来保护创作者免受 AI 模仿者的侵害</title>
+      <link>https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+YouTube 正在开发新工具，旨在让平台上的创作者使用生成式 AI 更好地控制复制其声音或肖像的内容。 YouTube 在公告中表示，新的相似性管理技术将有助于保护其创作者和合作伙伴，同时通过促进负责任的 AI 开发，使他们能够“发挥 AI 的创造潜力”。
+第一个工具被称为“合成歌唱识别技术”，它将允许艺术家和创作者使用生成 AI 自动检测和管理模拟他们歌声的 YouTube 内容。YouTube 表示，该工具位于其现有的Content ID 版权识别系统内，并计划明年在试点计划下对其进行测试。 
+去年 11 月，YouTube 承诺为唱片公司提供一种方法来删除音乐家的 AI 克隆，此后，YouTube 宣布了这一消息。生成式 AI 音乐工具的快速改进和普及引发了艺术家对其用于抄袭、模仿和侵犯版权的担忧。在今年早些时候的一封公开信中，包括 Billie Eilish、Pearl Jam 和 Katy Perry 在内的 200 多位艺术家将未经授权的人工智能模仿描述为“对人类创造力的攻击”，并要求对其发展承担更大的责任，以保护表演者的生计。
+还有一个单独的工具正在开发中，可以识别平台上创作者、演员、音乐家和运动员的面部深度伪造。该系统仍在积极开发中，YouTube 尚未表明预计何时推出。
+
+YouTube 还承诺打击任何利用该平台构建 AI 工具的人。该平台表示：“我们已经明确表示，以未经授权的方式访问创作者内容违反了我们的服务条款。”但这并没有阻止OpenAI、Apple、Anthropic、Nvidia、Salesforce和Runway AI等公司使用数千个抓取的 YouTube 视频来训练他们的人工智能系统。针对此类活动的保护措施包括阻止抓取工具访问 YouTube 以及投资抓取检测系统。
+“随着人工智能的发展，我们相信它应该增强人类的创造力，而不是取代它，”YouTube 在公告中表示。“我们致力于与合作伙伴合作，确保未来的进步能够扩大他们的声音，我们将继续制定防护措施来解决问题并实现我们的共同目标。”
+YouTube 还表示，它正在开发方法，让创作者有更多选择，决定第三方人工智能公司如何在平台上使用他们的内容，并将在今年晚些时候分享更多细节。]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236841/youtube-ai-detection-tools-creators-singing-deepfakes</guid>
+      <pubDate>Thu, 05 Sep 2024 18:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌测试其“Ask Photos”人工智能助手，它可以理解你的照片里有什么</title>
+      <link>https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Google 正在测试其新的“Ask Photos”功能，让您以新的方式探索您的图片库。该功能于 5 月份由谷歌首次预览，目前正在向美国部分 Google Labs 用户推出，您可以询问诸如“上次我们去优胜美地时在哪里露营？”之类的问题。或“我们在斯坦利的酒店吃了什么？”
+使用 Google 的 Gemini AI 模型，照片应用将根据照片内容提供回复，并提取与您的问题相关的图片。
+
+
+GIF：Google
+Google 也在照片中加入了 AI 助手。
+
+Google 表示，您甚至可以使用 Ask Photos 来完成任务，例如总结您最近度假时所做的事情，或选择家人的最佳照片放入共享相册中。您可以在 Google 网站上注册候补名单以访问 Ask Photos。
+使用 Ask Photos 时，Google 会让您切换到现在所谓的“经典搜索”——或当前查找图像的方式。但 Google 也对其进行了升级，因为您现在可以使用自然语言搜索图片，例如“爱丽丝和我大笑”或“在群山环绕的湖上划皮划艇”。然后，您可以按日期或相关性对搜索结果进行排序。此功能已在 Android 和 iOS 上推出英语版本，并将在“未来几周”内支持更多语言。
+
+
+GIF：Google
+Google Photos 的“经典搜索”现已配备 AI 增强功能。
+
+为应对这一变化，Google Photos 用新的 Collection 页面取代了 Library 标签，这个页面应该可以让你更轻松地找到所有照片和视频。虽然我还没有时间探索新标签，但我肯定会利用自然语言搜索，这样我最终就可以找到特定的图像，而不必滚动浏览数千张图像或按位置缩小范围。]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236817/google-ask-photos-ai-assistant-test</guid>
+      <pubDate>Thu, 05 Sep 2024 18:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>十年过去了，Apple Pay 依然令人惊叹，而且即将发生改变</title>
+      <link>https://www.theverge.com/2024/9/5/24235874/apple-pay-10-years-open-nfc-ios</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24235874/apple-pay-10-years-open-nfc-ios</guid>
+      <pubDate>Thu, 05 Sep 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>州诉讼称，Snapchat 的“消失”信息让犯罪分子很容易瞄准儿童</title>
+      <link>https://www.theverge.com/2024/9/5/24236722/snapchat-new-mexico-attorney-general-kids-online-safety-csam</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+新墨西哥州总检察长 Raúl Torrez 表示，Snapchat 是针对儿童进行性勒索或儿童性虐待材料 (CSAM) 的犯罪分子的首选应用程序 在针对该应用程序所有者 Snap 提起的新诉讼中指控。
+该诉讼指控 Snap 违反了新墨西哥州关于不公平行为和公共滋扰的法律，理由是其“消失”消息等设计元素以及未能监管掠食者。“Snap 误导用户相信其平台上发送的照片和视频会消失，”Torrez 在一份声明中表示。 “但掠食者可以永久捕获这些内容，他们创建了一个虚拟的儿童色情图片年鉴，这些图片被无限期地交易、出售和存储。”
+Torrez 的办公室进行了一项秘密调查，类似于之前对 Meta 进行的调查，同样以创建“掠食者市场”为由起诉 Meta。 在调查中，Torrez 的办公室创建了一个诱饵 Snapchat 帐户，看起来像是一个名叫 Heather 的 14 岁女孩的帐户。据总检察长办公室称，该账户向其他 Snapchat 个人资料发送了消息，名字包括“child.rape”和“pedo_lover10”，其中几个账户试图说服诱饵分享儿童性虐待内容。
+总检察长声称，Snap 声称其应用程序比其他社交媒体应用程序“更私密”且“更不永久”，这是误导。虽然该应用程序的“消失消息”功能可能会让孩子和青少年认为他们的照片是短暂的，但总检察长声称，这些照片很容易被掠食者频​​繁捕获。 Torrez 的办公室表示，2023 年在暗网上发现了 10,000 多条与 Snap 和 CSAM 相关的记录，并补充说“Snapchat 是迄今为止调查的暗网中最大的图像和视频来源。”
+Torrez 正在重复一种迄今为止在针对 Meta 的诉讼中取得成功的策略，即针对 Snapchat 产品的设计，从而（理论上）避免了一些关于言论的棘手问题。Torrez 表示，Snapchat 的设计功能，包括其消失的消息和允许掠食者向未成年人发送消息的“快速添加”按钮，有助于使其成为“犯罪分子进行性勒索的主要平台”。在针对 Meta 的诉讼中，一名法官表示，根据第 230 条，该投诉不能被驳回，该法律责任保护条款保护科技平台不因其用户的言论而承担责任。
+第九巡回上诉法院最近还判决对基于误导性产品声明的诉讼胜诉。它允许对一款名为 Yolo 的基于 Snapchat 的匿名消息应用程序提起诉讼，称该应用程序曾虚假承诺将揭露骚扰用户的帐户。
+
+在这起 Snap 诉讼中，Torrez 要求法院命令该公司停止其涉嫌非法行为，支付罚款，并归还任何不正当获得的利润。Snap 没有立即回应置评请求。]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236722/snapchat-new-mexico-attorney-general-kids-online-safety-csam</guid>
+      <pubDate>Thu, 05 Sep 2024 16:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flic 已准备好控制您的所有 Matter 设备</title>
+      <link>https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236183/flic-matter-controller-hub-lr-mini-twist-smart-buttons</guid>
+      <pubDate>Thu, 05 Sep 2024 16:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SwitchBot 制作了一款空气净化器，它也是一张桌子和充电站</title>
+      <link>https://www.theverge.com/2024/9/5/24236667/switchbot-purifier-table-ifa-2024</link>
+      <description><![CDATA[
+
+图片：SwitchBot
+
+空气净化器非常棒，但它们实际上只能做一件事，而且做这件事时通常看起来并不优雅。 SwitchBot 正试图通过制造一款空气净化器来改变这一现状，该净化器还可以用作桌子、无线充电器和光源。
+该设备被恰当地命名为SwitchBot 空气净化器桌，售价售价 269.99 美元，在空气净化器顶部安装一个小平台。您可以将兼容 Qi 的手机放在平台上进行无线充电，或者只是用它来放置您的咖啡杯。平台下方是一盏灯，看起来可以派上用场，用于夜间微妙的照明。您可以从 10 种不同的颜色中进行选择，包括柔和、中等和明亮的灯光；灯光也会根据空气质量自行改变颜色——从绿色变为蓝色再变为红色。 
+
+
+图片：SwitchBot
+看起来可能有点傻，但似乎很方便！
+
+至于空气净化器，它以安静的 20Db 运行，并让空气通过预过滤层、HEPA 过滤器和碳过滤器。 SwitchBot 还推出了一款更便宜的空气净化器219.99 美元，将充电台换成了一个碗状的平台，你的猫可以坐在上面。您可以通过 SwitchBot 应用程序和语音命令控制任一设备，Matter 兼容性将于今年晚些时候推出。
+SwitchBot 正在推出其他几款设备，包括售价 799.99 美元的 K10 Plus Pro组合系统，包括该公司的微型 K10 Plus 机器人吸尘器，以及一个自动清空基站和一个用于局部清洁的无绳吸尘器。另外还有一款售价 199.99 美元的 与 Matter 兼容的可调节卷帘，可剪裁以适应各种窗户尺寸。它还可以让您轻松更换布料。]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236667/switchbot-purifier-table-ifa-2024</guid>
+      <pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waymo 认为，它可以通过大量安全数据打消人们对自动驾驶出租车的怀疑</title>
+      <link>https://www.theverge.com/2024/9/5/24235078/waymo-safety-hub-miles-crashes-robotaxi-transparency</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24235078/waymo-safety-hub-miles-crashes-robotaxi-transparency</guid>
+      <pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nanoleaf 的新墙板可以展示你的植物和 Funko Pops</title>
+      <link>https://www.theverge.com/2024/9/5/24233728/nanoleaf-blocks-wall-panels-smart-lighting-ifa</link>
+      <description><![CDATA[
+
+Nanoleaf 的 Blocks 有两种尺寸，可与织物面板盖、钉板和架子集成。 |图片：Nanoleaf
+
+Nanoleaf 正在对其广受欢迎的智能照明面板进行重大更新。Nanoleaf Blocks（起价 199.99 美元）采用边缘到边缘照明，该公司表示，这可以消除热点和暗角，带来更平滑、更均匀的外观。新的 Blocks 还可以使用钉板、架子和纹理灯板进行定制，为您的墙面艺术带来更多功能。它们现在可以预订，并将于 10 月发货。 
+该公司在其 YouTube 上的 Nanoleaf Live 活动上宣布了新面板，并将在本周柏林的 IFA 科技展上展示它们。 Nanoleaf 还在其桌面应用程序中添加了两个新功能，可与 Blocks 以及其整个智能灯系列配合使用，以提供更加身临其境的照明体验。 
+
+Nanoleaf Blocks 是方形 LED 灯板，采用模块化设计，可让您创建个性化的墙壁艺术，并在集成的架子和钉板上展示一些您最喜欢的收藏品。 它们有两种尺寸，可以与纹理盖、背光钉板和架子结合使用，照亮您的空间，同时展示您的 Funko Pops、植物、最喜欢的键盘或您认为值得在墙上放置的任何其他东西。 
+灯本身已得到显着升级，首次增加了边缘到边缘的照明。 在发布前的预览中，Nanoleaf 首席执行官 Gimmy Chu 向 The Verge 演示了这些面板。灯光看起来平滑干净，没有暗点，每个方块发出的漫射光延伸到面板之外，将光线投射到其后面的墙壁上，产生柔和的发光效果。
+Blocks 可通过 Wi-Fi 工作，并与 Apple Home、Google Home、Amazon Alexa 和 Samsung SmartThings 兼容。计划支持 Matter，但 Chu 表示公司正在等待智能家居标准支持动态照明场景。面板有一个物理控制器，用于手动控制电源、亮度和场景选择。
+带有六个方块的 Squares Smarter Kit 售价 199.99 美元，带有方块、小方块、轻型钉板和架子的 Combo XL Smarter Kit 售价 249.99 美元，用于额外架子、钉板、方块和纹理方块的附加套件每个售价 29.99 美元。如果您想使用钉板或搁板，则需要在墙上钻孔。
+
+
+图片：Nanoleaf
+Nanoleaf 的 Orchestrator 软件可实时将您的灯光与音乐匹配。
+
+Nanoleaf 用于管理智能灯的桌面应用程序正在获得两个新功能：Orchestrator 和Scenescapes。
+Orchestrator — 在 CES 上发布 — 现已推出测试版。这部署了先进的音乐同步功能，不仅可以随着节拍及时脉动灯光，还可以创建与各个歌曲相匹配的调色板和动画动作。Scenescapes 将灯光场景与音频相结合，以创建环境背景噪音，例如海浪或噼啪作响的壁炉。 
+Blocks 可在 shop.nanoleaf.me 预订，并将于 10 月在百思买、亚马逊和家得宝上架。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24233728/nanoleaf-blocks-wall-panels-smart-lighting-ifa</guid>
+      <pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的地下井可以为微软和亚马逊储存二氧化碳污染物</title>
+      <link>https://www.theverge.com/2024/9/5/24236124/oxy-carbon-dioxide-removal-well-permit-epa-microsoft-amazon</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/5/24236124/oxy-carbon-dioxide-removal-well-permit-epa-microsoft-amazon</guid>
+      <pubDate>Thu, 05 Sep 2024 15:51:52 GMT</pubDate>
+    </item>
     <item>
       <title>博德之门 3 补丁添加了官方游戏内模组支持</title>
       <link>https://www.theverge.com/2024/9/5/24236649/baldurs-gate-3-patch-7-now-live-evil-endings-mod-support</link>
@@ -12,179 +146,17 @@
 
 图片：Larian Studios
 
-期待已久的《博德之门》第 7 补丁即将推出3 现已上线。此更新为游戏中的一些邪恶结局添加了新的、可怕的过场动画，为荣誉模式遭遇战添加了新的传奇动作，并提供了官方的游戏内模组支持。
+期待已久的《博德之门》第 7 补丁即将推出3 现已上线。此更新为游戏中的一些邪恶结局添加了新的、可怕的过场动画，为荣誉模式遭遇战添加了新的传奇动作，并提供了官方游戏内模组支持。
 
 
-补丁 7 现已在 PC 上上线！ 新的邪恶结局过场动画 分屏改进 新的荣誉模式传奇动作 ️ 官方模组工具还有游戏改进和错误修复！阅读完整的补丁说明：https://t.co/DmlF8cUM5a pic.twitter.com/Cmn2Tv4zZF— 博德之门 3 (@baldursgate3) 2024 年 9 月 5 日
+补丁 7 现已在 PC 上上线！ 新的邪恶结局过场动画 分屏改进 新的荣誉模式传奇动作 ️ 官方模组工具还有游戏改进和错误修复！阅读完整补丁说明：https://t.co/DmlF8cUM5a pic.twitter.com/Cmn2Tv4zZF— 博德之门 3 (@baldursgate3) 2024 年 9 月 5 日
 
 
-然而，补丁 7 带来了游戏制作商 Larian Studios 的一大亮点。该补丁目前仅适用于 PC，这意味着玩家将无法在其主机版本上从 PC 加载跨平台保存文件。PC/Mac 多人游戏也已禁用。 Larian 表示，它打算在 10 月的某个时候在游戏机和 Mac 上推出第 7 补丁，因此如果您想在桌面和游戏机之间切换以玩BG3，您将不得不等待大约一个月。只需拒绝在 PC 上更新游戏即可避免兼容性问题，但考虑到第 7 补丁的所有其他改进，这可能是一个艰难的选择。
+然而，补丁 7 带来了游戏制作商 Larian Studios 的一大亮点。该补丁目前仅适用于 PC，这意味着玩家将无法在其主机版本上从 PC 加载跨平台保存文件。PC/Mac 多人游戏也已禁用。 Larian 表示，它打算在 10 月的某个时候在游戏机和 Mac 上推出第 7 补丁，因此如果你想在桌面和游戏机之间切换来玩BG3，你将不得不等待大约一个月。只需拒绝在 PC 上更新游戏即可避免兼容性问题，但考虑到第 7 补丁的所有其他改进，这可能是一个艰难的选择。
 官方模组支持将允许玩家直接在游戏中浏览、下载和管理用户制作的模组。有进取心的玩家还可以使用新工具包创建自己的模组，这些模组可在 PC 和游戏机上使用（一旦补丁 7 在游戏机上可用）。
 补丁 7 还包含必要的调整、改进和错误修复。您可以在此处查看所有详细信息。]]></description>
       <guid>https://www.theverge.com/2024/9/5/24236649/baldurs-gate-3-patch-7-now-live-evil-endings-mod-support</guid>
       <pubDate>Thu, 05 Sep 2024 15:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>联想的概念笔记本电脑可以自行展开并转向你</title>
-      <link>https://www.theverge.com/2024/9/5/24235794/lenovo-auto-twist-ai-pc-concept-ifa-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24235794/lenovo-auto-twist-ai-pc-concept-ifa-2024</guid>
-      <pubDate>Thu, 05 Sep 2024 15:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将在 10 月活动中详细介绍 OneDrive Copilot、移动应用更新等</title>
-      <link>https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates</link>
-      <description><![CDATA[
-
-图片：微软
-
-微软将于 10 月 8 日举办 OneDrive 数字活动将涵盖“Microsoft 365 和 OneDrive 中 AI 的最新创新”。这是继微软去年举办类似活动以来第二次年度活动，去年微软举办了类似的活动，为云存储服务、AI Copilot 集成等推出重大新设计更新。
-今年，微软承诺宣布“Copilot 在 OneDrive 中即将推出的功能”，以及 OneDrive 移动应用程序的增强功能和“改进的照片体验”。该活动还将涵盖工作和个人帐户中的 OneDrive 功能。
-OneDrive 数字活动将在 Microsoft Teams 上举办，并将包括向 OneDrive 产品团队询问有关云存储服务的问题的能力。此前，微软于 9 月 16 日举行了一场特别的 Copilot 活动，微软首席执行官 Satya Nadella 和 AI at work 副总裁 Jared Spataro 将重点介绍微软 AI 助手的下一步发展。
-微软预计将宣布对其以业务为中心的 Copilot 助手进行微妙的品牌重塑，并为 Microsoft 365 引入新的 Copilot 功能，以试图吸引更多企业注册每位用户每月 30 美元的服务。 
-
-
-注册 Tom Warren 的 Notepad，这是一份每周通讯，揭示了微软在人工智能、游戏和计算领域开创性赌注背后的秘密和战略。订阅即可将最新内容直接发送到您的收件箱。
-
-
-每月
-$7/月
-将每期 Notepad 直接发送到您的收件箱。第一个月免费。
-开始试用
-
-
-年度
-70 美元/年
-以折扣价获得一年的 Notepad。第一个月免费。
-开始试用
-
-
-捆绑包
-100 美元/person/year
-获取一年的 Notepad 和 Command Line。第一个月免费。 
-同时订阅
-
-
-我们接受信用卡、Apple Pay 和 Google Pay。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236680/microsoft-onedrive-october-event-copilot-mobile-photos-updates</guid>
-      <pubDate>Thu, 05 Sep 2024 14:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 Nest 泛光灯摄像头现优惠 70 美元</title>
-      <link>https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale</link>
-      <description><![CDATA[
-
-带泛光灯的 Nest Cam 只有一种颜色，所以希望白色能与您家的外观相配。 |照片由 Jennifer Pattison Tuohy / The Verge 拍摄
-
-如果您现在正在寻找一款出色的户外智能家居摄像头的超值折扣（并且您不介意 Google 的生态系统），那么 带泛光灯的 Google Nest Cam 就是您的最佳选择。它在 亚马逊 的售价为 209 美元（优惠 70 美元），在 百思买 的售价为 209.99 美元。在黑色星期五/亚马逊 Prime Day 期间，价格可能会降到更低，但如果您目前正在装修房屋，并且考虑到安全问题，今天的优惠还是很划算的。
-
-当 Nest 泛光灯检测到运动时，它会明亮地照亮您的院子、车道或人行道，并与 Google Home 应用同步以显示捕获的活动片段。它支持 1080p 视频和夜视功能、双向音频，可与外界人员通信，并具有 IP54 级防风雨性能。它最花哨的功能——比如识别熟悉的面孔或全天候录音——被锁定在订阅层后面，但即使你不支付月费，你也可以在手机看到人、车或动物时收到通知，并保存过去三个小时内记录的任何剪辑。您甚至可以设置指定区域来触发通知和录音，这样每次有车经过时您就不会受到打扰。
-
-我想带你去兜风（去更多优惠）
-
-
-Fanatical 为数字版《Marvel vs. Capcom》提供预购折扣 Steam 上的 Fighting Collection: Arcade Classics — 以 40.99 美元（优惠 9 美元）的价格出售该游戏。如果您对《X 战警 vs. 街头霸王》和《漫威 vs. Capcom 2：新英雄时代》等标志性 2D 格斗游戏的重制版感兴趣，那么这款游戏物超所值，让您在 9 月 12 日发布时就能入手。该系列还包括 Capcom 制作的另外五款 90 年代和 21 世纪的漫威游戏，并增加了在线游戏功能。
-几款 Anker Qi2 多充电器 的折扣价已降至迄今为止的第二低，每款均可在亚马逊上购买。单击页面上的优惠券，您仅需 37.49 美元即可获得 Anker MagGo 二合一 15W Qi2 磁力充电支架（适用于兼容的 iPhone 和 AirPods），或者单击 25 美元的优惠券，选择三合一版本（增加了 Apple Watch 充电功能），价格为 74.99 美元优惠。
-USB-C 版本的 Razer Kishi V2 移动游戏控制器在 亚马逊 上的售价为 59.99 美元（优惠 40 美元），而适用于旧款 iPhone 的 Lightning 版本在 亚马逊和百思买。与最新的 Backbone One相比，夹式控制器的边缘可能略显粗糙，但对于使用类似游戏机的控件玩手机和流媒体游戏来说，它非常有价值（尤其是在像这样的促销活动时）。此外，Razer 还添加了一些巧妙的功能，让您可以将仅限触摸屏的游戏控件映射到其物理按钮和摇杆。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236581/google-nest-cam-floodlight-marvel-capcom-collection-deal-sale</guid>
-      <pubDate>Thu, 05 Sep 2024 14:48:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>蓝牙 6.0 具有更高的安全性和更精确的跟踪和查找功能</title>
-      <link>https://www.theverge.com/2024/9/5/24236565/bluetooth-6-security-precision-tracking-finding</link>
-      <description><![CDATA[
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-下一代蓝牙可以让追踪丢失的技术变得更加容易。周二，蓝牙技术联盟 (SIG) 宣布发布蓝牙 6.0，其中包括一项新的精确跟踪功能，可以改善 Apple、Google 和 Tile 等公司的“查找我的”网络。
-蓝牙是控制设备之间无线通信的协议。负责监督该标准的蓝牙技术联盟会定期发布具有新功能的更新。 蓝牙的上一次重大更新发生在 2016 年。
-蓝牙 6.0 引入了一项名为“信道探测”的功能，根据蓝牙 SIG 的说法，该功能可以“厘米级精度”确定两台设备之间的距离。为此，它使用基于相位的测距以不同的频率在两台设备（例如您的 iPhone 和 AirTag）之间发送无线电信号，从而计算出它们之间的距离。开发人员很快就能将其整合到“查找我的设备”中，从而使位置跟踪更加精确。
-此外，蓝牙 6.0 的信道探测功能应该可以解决用于解锁汽车或酒店房间的数字钥匙所带来的一些安全问题。有了更精确的跟踪信息，开发人员可以确保设备仅在数字钥匙处于特定范围内时解锁。这有助于防止中间人攻击，即恶意行为者拦截您的手机和锁之间的通信，从而可能让他们进入您的车辆。
-蓝牙 SIG 表示，开发人员还可以通过其他几种方式使用信道探测来改善用户体验，包括让蓝牙鼠标、键盘、游戏控制器和其他设备“根据它们与智能手机、平板电脑或笔记本电脑的距离自动在活动和非活动状态之间切换”。
-设备采用蓝牙 6.0 可能需要一段时间，但听起来它可以为我们查找和切换无线设备的方式带来一些显着的改进。]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236565/bluetooth-6-security-precision-tracking-finding</guid>
-      <pubDate>Thu, 05 Sep 2024 14:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayback Machine 如何解决互联网日益严重的链接腐烂问题</title>
-      <link>https://www.theverge.com/24236556/wayback-machine-linkrot-internet-archive-web-ai-mark-graham-decoder-interview-podcast</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-我们一直在谈论网络的未来 以及 The Verge 上发布了 a href=&quot;https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai&quot;&gt;，一个大问题不断出现：大量网络不断离线。从很多有意义的方面来看，网络的很大一部分正在消亡。服务器离线，软件升级导致链接和页面中断，公司倒闭——网络不是静态的，这意味着有时部分网络会消失。
-面临风险的不仅仅是 90 年代或 21 世纪初的“非常古老”的互联网。皮尤研究中心的一项最新研究发现，2013 年所有链接中有 38% 已无法访问。这意味着十年前收集的媒体、知识和在线文化的三分之一以上都消失了。 Pew 称之为“数字衰退”，但几十年来，我们中的许多人都简单地称之为链接腐烂。
-最近，这意味着大量真正有意义的工作也消失了，因为各种新闻媒体都未能度过平台时代。这个名单几乎是无穷无尽的：像MTV News、Gawker（不到十年内两次）、Protocol、The Messenger，以及最近的 Game Informer 都消失了。其中一些是短暂的，但一些存在了几十年的媒体的整个档案在一瞬间消失了。
-
-但事情并不全是糟糕的。自从我们有了消费者互联网以来，我们就有了互联网档案馆，这是一个巨大的使命，旨在识别我们的在线世界并将其备份到一个庞大的数字图书馆中。它成立于 1996 年，2001 年，它推出了 Wayback Machine，这是一个界面，任何人都可以调出网站的快照，查看它们过去的样子以及它们在某个特定时刻说了什么。这是一个庞大而极其复杂的项目，也是我们抵御链接腐烂的最佳防御手段。 
-Wayback Machine 主管 Mark Graham 本周与我一起参加了节目，解释了该组织为何以及如何努力防止网络消失。（简短说明：互联网档案馆刚刚在一场诉讼中败诉，该诉讼涉及它在新冠疫情开始时发起的一项短暂的图书借阅计划。我们不会在本集中详细介绍此事，因为它发生在我们录制之后，但我们想提一下这个消息。）
-答案令人着迷。这是硬件方面，您将听到 Mark 解释 Internet Archive 如何处理硬盘托盘。然后是保存方面的选择：并非所有东西都值得保存，也并非所有东西都可以从技术上访问，尤其是现在越来越多的在线世界转向私人平台和通信。
-做出这些选择——不仅仅是保存互联网，而且是策划互联网——是一个复杂的命题，涉及每个解码器主题。运行一个存储互联网历史的图书馆的想法是一个值得解决的难题。
-]]></description>
-      <guid>https://www.theverge.com/24236556/wayback-machine-linkrot-internet-archive-web-ai-mark-graham-decoder-interview-podcast</guid>
-      <pubDate>Thu, 05 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Govee 希望让您的智能节日灯发挥重要作用</title>
-      <link>https://www.theverge.com/2024/9/5/24236438/govee-matter-smart-light-strips-stringlights-star-light-projector-ai-sync-box-kit-2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236438/govee-matter-smart-light-strips-stringlights-star-light-projector-ai-sync-box-kit-2</guid>
-      <pubDate>Thu, 05 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通与三星和谷歌合作的大型增强现实项目是……眼镜</title>
-      <link>https://www.theverge.com/2024/9/5/24236545/qualcomm-mixed-reality-smart-glasses-google-samsung</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-据高通首席执行官克里斯蒂亚诺·阿蒙 (Cristiano Amon) 称，三星、高通和谷歌去年宣布的合作正在开发一款可与佩戴者智能手机连接的混合现实智能眼镜。 “这将是一个新产品，”阿蒙在最近接受 CNBC 采访时表示。
-“我真正期待这次合作的结果是，我希望每个拥有手机的人都能购买配套眼镜，”阿蒙说。“我认为我们需要达到这样的程度，即眼镜与普通眼镜或太阳镜没有什么不同。然后，有了它，我们就可以实现规模化。”
-
-自 2023 年 2 月宣布 XR 合作伙伴关系以来，有关该项目的信息非常少。虽然两家公司从未具体说明他们正在开发什么类型的设备，但大多数传言称，这将是三星的混合现实耳机，作为苹果 3,500 美元 Vision Pro 的经济实惠竞争对手。谷歌还在 5 月份的 Google I/O 活动中展示了一款运行即将推出的 Project Astra 多模式 AI 助手的原型 AR 眼镜。
-阿蒙告诉 CNBC，他对去年发布的雷朋 Meta 智能眼镜“非常满意”，该眼镜搭载了高通的骁龙 AR1 Gen 1 芯片，并表示生成式 AI 是混合现实市场扩张“所缺少的要素”。 “AI 将在设备上运行。 “它将在云端运行，”阿蒙说，“有些将在玻璃上运行，有些将在手机上运行，​​但最终，将会带来全新的体验。”]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236545/qualcomm-mixed-reality-smart-glasses-google-samsung</guid>
-      <pubDate>Thu, 05 Sep 2024 13:33:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们离能够爬楼梯的扫地机器人越来越近了</title>
-      <link>https://www.theverge.com/2024/9/5/24236509/roborock-qrevo-curv-can-lift-itself-up</link>
-      <description><![CDATA[
-
-Roborock 的 Qrevo Curv 是该公司机器人吸尘器和底座的全新设计。  |图片：Roborock
-
-Roborock 的新款 Qrevo Curv 能够自行升起，越过高达 40 毫米的房间过渡区、松软的地毯和其他可能的障碍物，这可能预示着爬楼梯机器人吸尘器即将问世。 
-需要明确的是，Roborock 并没有这么说，但根据这家公司和其他公司在这个领域的创新速度来看，我们距离这个目标真的不远了。SharkNinja 本周还宣布推出一款新的具有升降功能的机器人吸尘器，其他公司可能也紧随其后。 
-我们是否需要爬楼梯机器人，这个问题我不确定我是否已经找到答案。
-
-
-图片：Roborock
-Qrevo Curv 有一个更时尚、更弯曲的底座，可以自动清空垃圾桶并清洁和重新装满拖把。
-
-抛开未来展望，Qrevo Curv 对公司而言是一个重大变革。这款机器人配备了一个完全重新设计的多功能底座，比其他型号更美观、更小巧，还配备了全新的双重防缠结刷系统，可将刷子一分为二，让毛发从刷子上滚落，吸力高达 18,500Pa。
-其标志性的自动升起功能（称为 AdaptLift Chassis）可自动升起机器人的前轮，并独立调整主轮，使机器人升高 10 毫米，使其能够越过高达 30 毫米的标准门槛和高达 40 毫米的双层门槛。 
-除了帮助机器人更轻松地在家中走动并避免被卡住之外，新的移动性还意味着 Curv 现在可以清洁中长绒地毯。
-重新设计的刷子系统包括两个较短的刷子，带有螺旋刀片和刷毛，可以将毛发从滚筒上推入真空吸尘器，还有一个弯曲的 FlexiArm Arc 侧刷，可防止毛发缠结在吸尘器中。
-Qrevo Curv 采用了 Roborock 的反应式 AI 避障技术，该技术使用内置摄像头来避免常见的家庭杂乱。它将于本月以 1,499.99 欧元的价格推出（美国定价仍有待确定），同时推出的还有 Qrevo Edge，后者具有相同的功能，但基站外观更传统，为黑色。
-
-
-图片：Roborock
-Qrevo Slim 仅 3.3 英寸高。
-
-Roborock 是还推出了一款超薄机器人吸尘器，据说这款吸尘器的设计可以更好地吸到低矮家具下面。新款 Qrevo Slim 上的激光雷达塔已从顶部移除，吸尘器高度仅为 3.3 英寸。其新导航系统采用 双光 3D 飞行时间技术，部署激光和 RGB 摄像头进行导航和障碍物识别。它与多功能底座配合使用，吸力达 11,000Pa，本月上市，售价 1,399 美元。]]></description>
-      <guid>https://www.theverge.com/2024/9/5/24236509/roborock-qrevo-curv-can-lift-itself-up</guid>
-      <pubDate>Thu, 05 Sep 2024 13:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJI 售价 199 美元的 Neo 自拍无人机将无处不在</title>
-      <link>https://www.theverge.com/24236503/dji-neo-vs-hoverair-selfie-drone-specs-price-hands-on</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24236503/dji-neo-vs-hoverair-selfie-drone-specs-price-hands-on</guid>
-      <pubDate>Thu, 05 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
