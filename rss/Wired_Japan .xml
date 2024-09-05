@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 05 Sep 2024 06:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:16:46 GMT</lastBuildDate>
+    <item>
+      <title>Shokz“OpenRun Pro 2”评测：适合跑步者的开放式耳机</title>
+      <link>https://wired.jp/article/review-shokz-openrun-pro-2/</link>
+      <description><![CDATA[Shokz 发布了他们最新的开放式耳机 OpenRun Pro 2。随着音质的提高和电池寿命的延长，这可能是目前跑步者的最佳选择之一。]]></description>
+      <guid>https://wired.jp/article/review-shokz-openrun-pro-2/</guid>
+      <pubDate>Thu, 05 Sep 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>定制您的 3D 打印灯。 Gantri 展望制造业的未来</title>
       <link>https://wired.jp/article/gantri-you-customize-lamp-colors-manufacturing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Freewrite Alpha 是一款智能打字机，专为想要专注于写作的人们而开发，由于其显示屏较小，因此您可以在打字时不受干扰。它看起来像一个老式的文字处理器，但你也可以将完成的手稿上传到云端。]]></description>
       <guid>https://wired.jp/article/freewrite-alpha-review/</guid>
       <pubDate>Sun, 01 Sep 2024 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>各大媒体拒绝向苹果AI提供训练数据。机器人是攻击和防御的关键</title>
-      <link>https://wired.jp/article/applebot-extended-apple-ai-scraping/</link>
-      <description><![CDATA[Apple 发布了一款名为“Applebot-Extended”的工具，可让您将自己的网站从 Apple 的 AI 训练目标中排除。 《纽约时报》等主要媒体和 Facebook 等平台已经在使用它。]]></description>
-      <guid>https://wired.jp/article/applebot-extended-apple-ai-scraping/</guid>
-      <pubDate>Sun, 01 Sep 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
