@@ -4,11 +4,32 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 06 Sep 2024 18:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 21:15:56 GMT</lastBuildDate>
+    <item>
+      <title>新的人工智能模型可以在观看游戏画面后模拟《超级马里奥兄弟》</title>
+      <link>https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/</link>
+      <description><![CDATA[尽管存在局限性，MarioVGG 的制造商认为 AI 视频有一天可以取代游戏引擎。]]></description>
+      <guid>https://www.wired.com/story/new-ai-model-can-simulate-super-mario-bros-after-watching-gameplay-footage/</guid>
+      <pubDate>Fri, 06 Sep 2024 19:14:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎昆的游客看不到的是一片广阔的混凝土丛林</title>
+      <link>https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/</link>
+      <description><![CDATA[自 20 世纪 70 年代以来，坎昆迅速扩张，造成了一个极不均衡的城市，人口过剩的街区缺乏公共空间，支撑着该市奢华的旅游区。]]></description>
+      <guid>https://www.wired.com/story/the-inequality-of-cancun-that-tourists-dont-see/</guid>
+      <pubDate>Fri, 06 Sep 2024 18:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>右翼影响者在 Tenet Media 视频中究竟说了什么</title>
+      <link>https://www.wired.com/story/influencers-tenet-benny-johnson-tim-pool-russia-propaganda-videos/</link>
+      <description><![CDATA[《连线》杂志的分析显示，蒂姆·普尔和本尼·约翰逊等右翼明星在数百个据称由俄罗斯资助的视频中关注了伊隆·马斯克等话题以及针对白人的所谓种族主义。]]></description>
+      <guid>https://www.wired.com/story/influencers-tenet-benny-johnson-tim-pool-russia-propaganda-videos/</guid>
+      <pubDate>Fri, 06 Sep 2024 18:23:26 GMT</pubDate>
+    </item>
     <item>
       <title>X 正在与共和党咨询公司合作</title>
       <link>https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/</link>
-      <description><![CDATA[Targeted Victory 最大的客户是共和党全国委员会。目前，该公司正在为 X 处理有关伊隆·马斯克与巴西对峙的问询。]]></description>
+      <description><![CDATA[Targeted Victory 最大的客户是共和党全国委员会。目前，该公司正在为 X 处理有关伊隆·马斯克与巴西僵局的问询。]]></description>
       <guid>https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/</guid>
       <pubDate>Fri, 06 Sep 2024 16:31:17 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>人工智能和 Deepfakes 会影响美国大选吗？</title>
       <link>https://www.wired.com/story/deepfake-porn-election/</link>
-      <description><![CDATA[本周在政治实验室中，我们将讨论人工智能对选举的潜在影响——以及为什么它在全国范围内如此难以监管。]]></description>
+      <description><![CDATA[本周在政治实验室，我们将讨论人工智能对选举的潜在影响——以及为什么它在全国范围内如此难以监管。]]></description>
       <guid>https://www.wired.com/story/deepfake-porn-election/</guid>
       <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克在巴西陷入困境</title>
-      <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
-      <description><![CDATA[在就 X 和 Starlink 在该国的运营与法官公开对峙之后，埃隆·马斯克表现出动摇的迹象。]]></description>
-      <guid>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</guid>
-      <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么像八木这样的超级台风比你想象的更常见</title>
-      <link>https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/</link>
-      <description><![CDATA[与大西洋不同，东南亚几乎没有什么可以阻止高强度风暴的形成，而气候变化使情况变得更加危险。]]></description>
-      <guid>https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>YubiKey 是安全的黄金标准——但它们可以被克隆</title>
-      <link>https://www.wired.com/story/yubikey-vulnerability-cloning/</link>
-      <description><![CDATA[安全研究人员发现了一个加密漏洞，导致 YubiKey 5 容易受到攻击。]]></description>
-      <guid>https://www.wired.com/story/yubikey-vulnerability-cloning/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:01:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
