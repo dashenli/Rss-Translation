@@ -4,105 +4,106 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 06:18:52 GMT</lastBuildDate>
     <item>
-      <title>Apache Zeppelin 是一款多功能笔记本，旨在满足您的所有数据需求，包括 [...]</title>
-      <link>https://t.me/hn_summary/107098</link>
-      <description><![CDATA[Apache Zeppelin
-Apache Zeppelin 是一款多功能笔记本，旨在满足您的所有数据需求，包括提取、发现、分析、可视化和协作。它通过其解释器概念支持多种语言后端，从而可以轻松集成 Apache Spark、Apache Flink、Python、R、JDBC、Markdown 和 Shell 等语言。值得注意的是，它提供内置的 Apache Spark 集成，无需单独的模块或插件。Zeppelin 还包括基本图表功能和动态表单，增强了数据可视化和交互性。协作是无缝的，具有实时更新和可共享的 URL。作为 Apache2 许可下的 100% 开源项目，Zeppelin 拥有一个活跃的开发社区。加入邮件列表或在 Jira 上报告问题以做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/107098</guid>
-      <pubDate>Thu, 05 Sep 2024 15:05:51 GMT</pubDate>
+      <title>[媒体] 2020 年，由市长 Valérie Plante 领导的蒙特利尔 Projet Montréal 政府关闭了 [...]</title>
+      <link>https://t.me/hn_summary/107202</link>
+      <description><![CDATA[蒙特利尔将汽车踢到路边并蓬勃发展
+2020 年，蒙特利尔市长 Valérie Plante 领导的蒙特利尔项目政府关闭了皇家山大道两公里长的路段，以鼓励人们在保持社交距离的同时购物和社交。该项目最初遭到了企业主的质疑，但事实证明是成功的，它降低了商业空置率，并将该地区变成了一个充满活力的社区中心。到 2023 年，11 条街道被改造成步行专用区，总长近 10 公里。这一举措得到了城市规划者的赞扬，并强调了无车街道的好处，包括增加人流量和社区参与度。尽管最初受到抵制，但这一转变得到了广泛接受，展示了其他加拿大城市效仿的潜力。 
+
+争议：企业主和居民最初对此表示抵制，担心会影响通勤和停车。
+
+独特/巧妙：将街道改造成露天艺术画廊，并受到欧洲城市行人友好型设计的启发，制定了战略规划。]]></description>
+      <guid>https://t.me/hn_summary/107202</guid>
+      <pubDate>Fri, 06 Sep 2024 06:18:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我介绍了 Beaker 浏览器和 Dat 项目，旨在降低 [...]</title>
-      <link>https://t.me/hn_summary/107097</link>
-      <description><![CDATA[Beaker 浏览器和 Dat 协议
-在本文中，我介绍了 Beaker 浏览器和 Dat 项目，该项目旨在通过启用点对点网页来实现互联网的去中心化。Dat 协议解决了链接腐烂和内容漂移等问题，尤其是在科学文献中，它确保即使原始主机停止提供服务，内容仍然可访问。Dat 还加密流量并通过加密哈希验证内容真实性。然而，挑战包括死链接、对等发现和普通用户的可访问性。Beaker 浏览器将传统的网页浏览与 Dat 的功能相结合，使发布和版本控制内容变得更加容易。尽管 Dat 潜力巨大，但由于它需要特殊软件，并且无法支持使用 WordPress 构建的动态网站，因此其采用受到限制。该项目还面临着需要集中托管解决方案来实现去中心化的悖论，就像 Hashbase 一样。
+      <title>[媒体] 网站：gukov.dev</title>
+      <link>https://t.me/hn_summary/107201</link>
+      <description><![CDATA[史蒂夫·鲍尔默错了
+标题：史蒂夫·鲍尔默错了
+网站：gukov.dev
 
-争议：依赖像 Hashbase 这样的集中托管解决方案来支持去中心化网络是自相矛盾的，并且不利于 Dat 的目标。
-
-独特/巧妙：Beaker 能够使用 .well-known 目录在传统网站和基于 Dat 的网站之间进行转换，这是一个巧妙的功能，可以简化用户采用。（基于 46% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107097</guid>
-      <pubDate>Thu, 05 Sep 2024 14:56:43 GMT</pubDate>
+John Graham-Cumming 最近指出了史蒂夫·鲍尔默最喜欢的二分搜索脑筋急转弯游戏的一个缺陷，在 Hacker News 上引发了争论。鲍尔默的游戏涉及猜测 1 到 100 之间的数字，每次猜测的回报都会减少。鲍尔默认为，预期值为负数，因为可能会有很多损失，而且他有能力选择最大化你猜测的数字。然而，约翰证明，如果鲍尔默随机选择数字，预期值实际上是正的，为 0.20 美元。我通过引入博弈论中的混合策略进一步反驳鲍尔默的第二点，无论鲍尔默的策略如何，这都可以确保正的预期值。使用线性规划，我发现了一个成功的混合策略，如果鲍尔默随机选择，可以保证平均获胜 0.12 美元，即使他选择对抗性，也可以保证 0.07 美元。完整的详细信息和代码可在 GitHub 上找到。如果每场游戏至少赚 7 美分听起来很有吸引力，你绝对应该和鲍尔默一起玩这个游戏。]]></description>
+      <guid>https://t.me/hn_summary/107201</guid>
+      <pubDate>Fri, 06 Sep 2024 06:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：ohadravid.github.io</title>
-      <link>https://t.me/hn_summary/107096</link>
-      <description><![CDATA[我最不满意的 StackOverflow 答案
-标题：我最不满意的 StackOverflow 答案
-网站：ohadravid.github.io
-
-有时，我会对互联网上的某个人生气。这很容易，不是吗？然后，我想起了我最不满意的 StackOverflow 答案，我的愤怒就没那么强烈了。几年前，我写了一个关于确定 C 语言中数组大小的答案，无意中引发了争议。我的回答原本是针对 C/C++ 上下文的，但被认为与仅限 C 的问题无关，并成为 StackOverflow Meta 讨论中关于处理此类答案的一部分。尽管遭到强烈反对，但我当时并不是 C 或 C++ 专家，现在也不是。这次经历提醒我在网上要保持善良，因为愤怒很容易被释放。]]></description>
-      <guid>https://t.me/hn_summary/107096</guid>
-      <pubDate>Thu, 05 Sep 2024 14:52:37 GMT</pubDate>
+      <title>[媒体] 在最近的一份声明中，Mr.</title>
+      <link>https://t.me/hn_summary/107200</link>
+      <description><![CDATA[特朗普：我将聘请埃隆·马斯克作为美国效率沙皇进行“大刀阔斧”的改革
+在最近的一份声明中，特朗普透露计划任命埃隆·马斯克为新效率委员会的负责人，该委员会旨在在六个月内消除“欺诈和不当付款”。这是首次公开认可这一想法，并确认马斯克将参与其中。尽管存在政府问责局 (GAO)，但特朗普认为，马斯克强硬的领导风格（从他在 Twitter（现为 X）大幅裁员可以看出）使他成为这一职位的理想人选。该提议是向商界领袖广泛宣传的一部分，其中包括承诺减税和监管。然而，该计划遭到了工会组织的批评，美国政府雇员联合会的埃弗里特·凯利指责特朗普和马斯克试图破坏无党派的公务员制度。]]></description>
+      <guid>https://t.me/hn_summary/107200</guid>
+      <pubDate>Fri, 06 Sep 2024 05:37:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络硬件制造商 Zyxel 已就近十几个 v [...] 发出警告。</title>
-      <link>https://t.me/hn_summary/107095</link>
-      <description><![CDATA[Zyxel 警告其多种产品存在漏洞
-网络硬件制造商 Zyxel 已发出警告，称其多种产品存在近十几个漏洞。最严重的漏洞 CVE-2024-7261 的严重性评级为 9.8（满分 10 分），可能允许未经身份验证的攻击者通过向易受攻击的设备发送精心设计的 cookie 来执行操作系统命令。此漏洞与其他漏洞一起，可能导致设备完全被接管，带来重大安全风险。Zyxel 敦促客户立即修补这些漏洞。其他漏洞影响防火墙系列，包括缓冲区溢出、命令注入和跨站点脚本等问题。值得注意的是，CVE-2024-5412 影响了 50 种 Zyxel 产品型号，并可能导致拒绝服务攻击。Zyxel 已提供补丁供下载，但有些补丁需要直接联系其支持团队。]]></description>
-      <guid>https://t.me/hn_summary/107095</guid>
-      <pubDate>Thu, 05 Sep 2024 14:48:32 GMT</pubDate>
+      <title>当您将 Pickle 触碰到 AM 无线电塔时会发生什么？</title>
+      <link>https://t.me/hn_summary/107199</link>
+      <description><![CDATA[将泡菜接触到 AM 无线电塔会发生什么？
+几个月前，我问我爸爸，如果将热狗接地到他的 AM 无线电塔之一，会发生什么，我们的 AM 无线电热狗实验因此在网上迅速走红。我们进行了测试，结果非常棒。很快，来自 Plasma Channel 的 Jay 加入了我们在密苏里州圣查尔斯进行的第二轮实验，我们测量了从 SWR 到肉类热量等所有数据。
+
+安全注意事项：请勿尝试。我们咨询了经验丰富的广播天线设计师，并遵循保守的 FCC 安全暴露指南。
+
+实验：
+1. 热狗：产生噪音并加热至 80°C。发射器功率短暂上升至 14 kW。
+2. 泡菜：导体良好，导致发射器暂时禁用 RF 输出。Jay 尝了尝，然后吐了出来，说味道像铜。
+3. 德式香肠：将信号翻译成德语短语。产生更多烟雾，但声音没有明显差异。
+4. 素食热狗：声音更大，温度更低，白色物质渗出。Jay 觉得“相当不错”。
+5. 玉米热狗：烟雾和火焰量惊人。令人愉悦的烧焦味，发射器保持在 12 kW。
+6. 早餐香肠：声音更大，烧焦均匀。 6 kW 输出时稳定。
+7. 热狗加热器：距离塔 1 英寸处无明显加热。
+
+结论：未来的测试可以从声压级计和高速摄像机中受益，以捕捉等离子体相互作用。]]></description>
+      <guid>https://t.me/hn_summary/107199</guid>
+      <pubDate>Fri, 06 Sep 2024 05:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《你没有时间阅读那些不会改变你生活的书》一书中，Marco Giancotti [...]</title>
-      <link>https://t.me/hn_summary/107094</link>
-      <description><![CDATA[你没有时间阅读那些不会改变你生活的书
-在《你没有时间阅读那些不会改变你生活的书》一书中，Marco Giancotti 认为，在数以百万计的书籍中，读者应该专注于寻找“非常好的书”——那些能显著改变他们生活的书。他估计，只有一小部分书籍会产生这种变革性影响，他敦促读者在选择和丢弃书籍时要毫不留情。Giancotti 强调，这些改变生活的书籍对于个人成长至关重要，应该优先于单纯的娱乐。他表示，即使经过严格筛选，也需要 2,400 多年的时间才能读完所有可能带来变革的书籍，这凸显了现在开始这场“寻宝”的重要性。]]></description>
-      <guid>https://t.me/hn_summary/107094</guid>
-      <pubDate>Thu, 05 Sep 2024 14:48:29 GMT</pubDate>
+      <title>[媒体] 懒惰的程序员常常喜欢用计算工作来代替编程工作。</title>
+      <link>https://t.me/hn_summary/107198</link>
+      <description><![CDATA[我使用 Nim 而不是 Python 进行数据处理
+懒惰的程序员通常喜欢用计算工作来代替编程工作。我就是这样的程序员。在我的研究中，我经常需要设计和运行针对 TB 级大型数据集的算法。作为 NIH 的研究员，我可以使用 Biowulf，这是一个拥有 100,000 多个处理器的集群，因此当我可以执行大型 MapReduce 时，通常不值得花费大量时间来优化单个实验的单线程性能。尽管可以访问这些资源，但我越来越多地使用 Nim 编程语言进行数据处理任务。Nim 在计算科学中被低估，但它是非数值数据处理非常有效的 Python 替代品。从高层次上讲，Nim 和 Python 一样易于编写，并且和 C 一样快。它属于新一代语言，具有编译语言的性能和动态语言的表现力。如果您了解 Python，那么您对 ​​Nim 的了解就达到了 90%，并且可以享受所有好处。考虑以下简单问题：您有一堆 DNA 序列（由四个字母 A、T、G 和 C 组成的字符串），存储在带有 &gt; 分隔注释行的文本文件中（即 FASTA 格式）。标准任务是计算序列中 G 和 C 的百分比，该指标称为 GC 含量。在 Python 中，一个简单的实现如下所示： gc = 0 total = 0 for line in open(&quot;orthocoronavirinae.fasta&quot;): if line0 == &#39;&gt;&#39;: # ignore comment lines continue for letter in line.rstrip(): if letter == &#39;C&#39; or letter == &#39;G&#39;: gc += 1 total += 1 print(gc / total) 在我的笔记本电脑上，此代码在 150 MB 冠状病毒基因组数据集上运行需要 23.43 秒。作为替代方案，我可以使用 Nim，基本上免费获得巨大的速度提升。实际上，Nim 的实现大致相同：var gc = 0var total = 0for line in lines(&quot;orthocoronavirinae.fasta&quot;):if line0 ==&#39;&gt;&#39;:# ignore comment lines continuefor letter in line:if letter ==&#39;C&#39; or letter ==&#39;G&#39;:gc += 1total += 1 echo(gc / total)这些变化虽然在代码方面很小，但在性能方面却相当大：相对于 Nim 的程序时间Python 3.9 23.43 秒30.6xPyPy 7.3 2.54 秒3.3xNim 1.4（带有-d：danger --gc：orc 标志）0.765 秒1.0x为了比较完全公平，Nim 编译过程额外花费了 702 毫秒，这意味着完成一个完整的优化编译和运行周期比使用 PyPy 仍然更快。 Nim 使这变得简单，因为有一个 r 命令可以在编译后自动运行您的程序。尽管 Nim 是一种编译语言，但编译过程足够快，可以代替解释语言。尽管几乎相同，但 Nim 代码和 Python 代码之间还是存在一些差异：使用 var 声明变量。Nim 允许使用 let 定义运行时常量，并在编译时检查是否有任何变异的可能性。它还支持使用 const 的编译时常量。使用 lines 函数而不是 open 来逐行迭代文件的内容。lines 函数的一个不错的功能是它会自动删除换行符，例如 LF 和 CRLF，因此我们不再需要执行 line.rstrip()。Nim 使用 echo，而不是 print。有一些细微的差别，但 echo 的一个优点是 Python 2.x 时代的 print-as-a-statement 样式表达式又回来了（例如 echo &quot;Hello world!&quot;）。为了说明 Nim 有多么有用，请考虑我在研究中遇到的这个真实示例。我的数据中有很多回文伪影，这扰乱了我对新类病毒的搜索。这些伪影的一个标志是存在长子序列及其反向补体（子序列向后，每个碱基都被相应的对替换）。为了衡量问题的范围，我需要检查数据集中的每个序列，看看它是否是可能的伪影，然后将其删除。让我们首先看看标准的 Python 方式：导入]]></description>
+      <guid>https://t.me/hn_summary/107198</guid>
+      <pubDate>Fri, 06 Sep 2024 04:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 前协和式飞机飞行工程师沃伦·哈泽尔比 (Warren Hazelby) 清楚地回忆起他第一次驾驶超音速飞机的情景[...]</title>
-      <link>https://t.me/hn_summary/107093</link>
-      <description><![CDATA[飞行工程师透露操作协和式飞机的感受
-前协和式飞机飞行工程师沃伦·哈泽尔比 (Warren Hazelby) 清楚地记得 2002 年他第一次从伦敦飞往纽约的超音速飞行。尽管哈泽尔比拥有丰富的驾驶其他飞机的经验，但他发现协和式飞机的控制装置非常复杂，而且工作非常耗时。与现代飞机不同，协和式飞机缺乏 21 世纪的技术，因此飞行工程师的作用至关重要。哈泽尔比描述了飞行过程中需要高度集中注意力，几乎没有时间在飞行过程中吃喝。他强调了飞行工程师、飞行员和副驾驶之间紧密的团队合作，这对飞机的运行至关重要。尽管压力很大，但哈泽尔比对自己的角色感到非常满意，他认为协和式飞机是飞行工程师的终极飞机。尽管由于技术进步，这一职业现已过时，但它仍然是航空史上的重要组成部分。（基于 55% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107093</guid>
-      <pubDate>Thu, 05 Sep 2024 14:46:21 GMT</pubDate>
+      <title>[媒体] 我很高兴地宣布我已加入 Polar 担任顾问！</title>
+      <link>https://t.me/hn_summary/107197</link>
+      <description><![CDATA[Polar – 面向开发人员的开源货币化平台
+我很高兴地宣布，我已加入 Polar 担任顾问！Polar 是一个开源货币化平台，旨在为开发人员提供更多选择，让他们能够通过工作获得报酬、支持上游项目，并为用户提供更大的信心和透明度，让他们选择支持或购买软件。该计划旨在为开发人员和用户创建一个更可持续的生态系统。]]></description>
+      <guid>https://t.me/hn_summary/107197</guid>
+      <pubDate>Fri, 06 Sep 2024 03:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>可用性的下降</title>
-      <link>https://t.me/hn_summary/107092</link>
-      <description><![CDATA[可用性的下降
-可用性的下降
-
-1994 年至 2012 年间，各种操作系统的用户界面直观且标准化，用户可以轻松适应。然而，近年来，尽管受到专业人士的关注，可用性却有所下降。现代桌面应用程序越来越多地模仿智能手机模式，而智能手机模式并不适合桌面。标题栏曾经很简单，但现在却充斥着不一致的小部件，使得窗口管理变得繁琐。自动隐藏滚动条和传统菜单栏的消失进一步增加了可用性的复杂性。Gnome 不一致的 UI 元素体现了这一趋势。评论家认为变化是不可避免的，但作者坚持认为并非所有变化都等同于改进，并呼吁回归连贯的设计标准。
-
-争议：对现代 UI 趋势的批评，尤其是微软和谷歌等主要参与者所采用的趋势，可能会引发设计师和偏爱创新而非传统的用户的争论。
-
-独特/巧妙：对过去和现在的 UI 元素的详细比较，以及具体示例，有效地突出了可用性的下降。（基于 90% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/107092</guid>
-      <pubDate>Thu, 05 Sep 2024 14:46:17 GMT</pubDate>
+      <title>[媒体] “Retronews”项目是一个用于浏览 Hacker News 和 Lobsters 的 Python 脚本 [...]</title>
+      <link>https://t.me/hn_summary/107196</link>
+      <description><![CDATA[显示 HN：Retronews – HN 和 Lobsters 的 TUI 模拟经典 Usenet 阅读器
+“Retronews”项目是一个 Python 脚本，旨在使用怀旧界面浏览 Hacker News 和 Lobsters 讨论，该界面模拟经典 Usenet 和邮件阅读器，如 slrn 和 mutt。其主要目的是突出显示有趣的主题并跟踪已读/未读消息，通过一次显示一条消息来促进更慢、更专注的阅读。它在类 Unix 系统上运行，使用 Python 3.9，在 Windows 上需要 windows-curses。该项目的独特之处在于其简单易用，无需安装。可以通过配置文件进行自定义。与 NNTP 网关不同，Retronews 可以高效处理线程浏览和消息检索，而无需提前获取所有元数据。]]></description>
+      <guid>https://t.me/hn_summary/107196</guid>
+      <pubDate>Fri, 06 Sep 2024 03:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：代码的礼物</title>
-      <link>https://t.me/hn_summary/107091</link>
-      <description><![CDATA[代码的礼物
-标题：代码的礼物
-
-21 世纪初期，Web 2.0 时代带来了重大变化和挑战，包括 HTML 标准的分裂，导致 WHATWG 的成立。这一时期出现了 AJAX 和动态 HTML 等创新，但 JavaScript 自 1999 年以来一直停滞不前，没有更新。尽管 ECMAScript 4 在理论上取得了进步，但没有取得实质性进展。从 Netscape 的废墟中崛起的 Mozilla 于 2004 年发布了 Firefox，挑战了微软停滞不前的 Internet Explorer。Adobe 于 2005 年收购 Macromedia 推动了 ActionScript 的进步，并创建了尖端 JavaScript 虚拟机 Project Tamarin。 2006 年，Adobe 将 Tamarin 赠予 Mozilla，这激发了人们对 ECMAScript 4 的兴奋和希望。然而，这个雄心勃勃的项目却步履蹒跚，导致 2009 年推出了更为精简的 ECMAScript 5。尽管 Tamarin 停止了开发，但它对 JavaScript 演进的影响是不可否认的，体现了 Mozilla 凤凰涅槃的能力。]]></description>
-      <guid>https://t.me/hn_summary/107091</guid>
-      <pubDate>Thu, 05 Sep 2024 14:42:05 GMT</pubDate>
+      <title>[媒体] GitHub 项目“通过在主进程中使用 V8 快照来加速 Electron 应用 [...]</title>
+      <link>https://t.me/hn_summary/107195</link>
+      <description><![CDATA[通过在主进程中使用 V8 快照来加速 Electron 应用
+GitHub 项目“通过在主进程中使用 V8 快照来加速 Electron 应用”演示了如何通过利用 V8 快照显著减少 Electron 应用的启动时间。实验表明，使用 V8 快照可以将主进程中 require() 调用所花费的时间减少 80% 以上，从而使启动时间总体提高 36%。该项目涉及创建一个 V8 快照，该快照预编译并执行依赖模块，然后在应用程序启动期间对其进行反序列化。此方法的与众不同之处在于专注于优化 Electron 应用的主进程，提供详细的实施指南和性能指标。（基于 55% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107195</guid>
+      <pubDate>Fri, 06 Sep 2024 03:22:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大家好，我是 Maitai (https://trymaitai.ai) 的 HN、Christian 和 Ian。</title>
-      <link>https://t.me/hn_summary/107090</link>
-      <description><![CDATA[启动 HN：Maitai (YC S24) – 自我优化 LLM 平台
-大家好，我是 Maitai (https://trymaitai.ai) 的 HN、Christian 和 Ian。我们很高兴推出我们的自我优化 LLM 平台，该平台旨在简化请求路由、自动更正错误响应并逐步微调特定于应用程序的模型。查看我们的演示视频并在 https://maitaistreasure.com 上试玩我们的游戏，以了解我们的实时自动更正功能。我们的平台通过充当轻量级代理来评估和纠正响应，仅增加约 250 毫秒，从而确保 LLM 可靠性（这对于生产至关重要）。我们的目标是通过处理 LLM 可靠性让团队专注于他们的主要产品。我们使用 Python 和 Node SDK 自助服务，并提供灵活的定价。欢迎反馈！trymaitai.aiMaitai - 轻松实现 AI 可靠性Maitai 是构建可靠 AI 应用程序的最简单方法。我们平衡您的 LLM 请求，自动更正不良模型输出，并被动构建质量更高、速度更快、更便宜的特定于应用程序的模型。]]></description>
-      <guid>https://t.me/hn_summary/107090</guid>
-      <pubDate>Thu, 05 Sep 2024 14:42:01 GMT</pubDate>
+      <title>[媒体] 在《你所做的工作，你是一个怎样的人》一书中，作者讲述了她为 [...]</title>
+      <link>https://t.me/hn_summary/107194</link>
+      <description><![CDATA[你所做的工作，你是一个什么样的人 (2017)
+在《你所做的工作，你是一个什么样的人》一书中，作者讲述了她童年时为一位富有的女人工作的经历。她以两美元的价格打扫了这位女人的房子，里面充满了她自己家里没有的奢侈品。尽管身体上很累，要求也不公平，但这份工作让她感到自豪，并为家庭做出了经济贡献。她父亲的建议——强调自我价值而不是工作性质——深刻地塑造了她对劳动和身份的看法。故事强调了过去和现在对儿童角色和责任的看法之间的对比，巧妙地批评了现代的过度保护。]]></description>
+      <guid>https://t.me/hn_summary/107194</guid>
+      <pubDate>Fri, 06 Sep 2024 03:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《美国经济学的深厚宗教根源》一书中，本杰明·M.</title>
-      <link>https://t.me/hn_summary/107089</link>
-      <description><![CDATA[美国经济学的深厚宗教根源
-在《美国经济学的深厚宗教根源》一书中，本杰明·M·弗里德曼认为，要理解美国经济思想，就需要承认宗教信仰的重大影响。早期美国经济学家中许多人都是宗教领袖，他们认为市场力量是神力的产物。约翰·麦克维克、弗朗西斯·韦兰和弗朗西斯·鲍恩等人物从宗教的角度阐述了自由贸易与保护主义等经济辩论。这种宗教影响一直持续到 19 世纪末和 20 世纪初，塑造了经济政策和理论。例如，社会福音运动影响了约翰·贝茨·克拉克和理查德·T·伊利等经济学家，他们强调道德责任和社会进步。如今，宗教信仰继续影响着美国的经济政策辩论，常常解释为什么人们会投票反对自己的经济利益。宗教与经济的这种交集对于全面理解这一领域仍然至关重要。
-
-争议：本文强调了关于宗教信仰是否应该影响经济政策的持续争论，尤其是当它们导致人们投票反对自己的经济利益时。
-
-独特见解：本文巧妙地将历史上的宗教影响与当代的经济政策辩论联系起来，展示了宗教思想塑造美国经济的连续线索。]]></description>
-      <guid>https://t.me/hn_summary/107089</guid>
-      <pubDate>Thu, 05 Sep 2024 14:21:52 GMT</pubDate>
+      <title>[媒体] 在意大利蒙法尔科内，一群由 Miah Bappy 带领的孟加拉朋友被迫 [...]</title>
+      <link>https://t.me/hn_summary/107193</link>
+      <description><![CDATA[禁止板球运动的意大利小镇
+在意大利蒙法尔科内，一群孟加拉朋友在米亚·巴皮的带领下，被迫在城外打板球，因为市长安娜·玛丽亚·西辛特实施了事实上的禁令。这位来自极右翼联盟党的市长声称，这项禁令是由于安全问题和空间不足，但巴皮认为，禁令的根源在于反移民情绪。蒙法尔科内有大量孟加拉穆斯林人口，随着西辛特寻求“保护”基督教价值观并遏制她所认为的伊斯兰原教旨主义，该地区的紧张局势不断加剧。市长还以城市规划法规为由，限制当地伊斯兰中心的集体祈祷。这场争议凸显了意大利移民与文化保护之间更广泛的冲突。尽管法院的裁决有利于伊斯兰中心，但 Cisint 仍然致力于反伊斯兰化运动，并已当选欧洲议会议员以进一步推进她的议程。]]></description>
+      <guid>https://t.me/hn_summary/107193</guid>
+      <pubDate>Fri, 06 Sep 2024 03:01:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
