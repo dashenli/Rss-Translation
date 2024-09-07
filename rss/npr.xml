@@ -4,7 +4,21 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 15:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 18:17:55 GMT</lastBuildDate>
+    <item>
+      <title>因软件问题影响稳定控制，150 万辆 Ram 皮卡被召回</title>
+      <link>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</link>
+      <description><![CDATA[由于软件问题导致电子稳定控制系统失效，Stellantis 正在全球召回近 150 万辆 Ram 皮卡。]]></description>
+      <guid>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</guid>
+      <pubDate>Sat, 07 Sep 2024 16:36:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>密苏里州发现首例与患病动物无直接关联的禽流感病例</title>
+      <link>https://www.npr.org/2024/09/07/nx-s1-5104656/bird-flu-missouri-patient-cdc</link>
+      <description><![CDATA[今年迄今已有 14 例人类感染禽流感病例。除密苏里州患者外，所有患者均与患病奶牛或家禽有关。]]></description>
+      <guid>https://www.npr.org/2024/09/07/nx-s1-5104656/bird-flu-missouri-patient-cdc</guid>
+      <pubDate>Sat, 07 Sep 2024 15:30:56 GMT</pubDate>
+    </item>
     <item>
       <title>西岸巴勒斯坦青年为何而战（用他们自己的话说）</title>
       <link>https://www.npr.org/2024/09/07/nx-s1-5103774/israel-occupied-west-bank-palestinian-fighters-jenin</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[周六早上，飞船降落在新墨西哥州，两名宇航员留在国际空间站。机组人员将于 2 月乘坐 SpaceX 飞船返回地球。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5103722/starliner-nasa-boeing-crew-space-station-lands</guid>
       <pubDate>Sat, 07 Sep 2024 04:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：委内瑞拉的圣诞节提前到来</title>
-      <link>https://www.npr.org/2024/09/06/nx-s1-5096780/opinion-christmas-is-starting-early-in-venezuela</link>
-      <description><![CDATA[很多零售店的圣诞节都很早就开始了，但委内瑞拉的圣诞节从 10 月 1 日就开始了。美国国家公共电台的斯科特·西蒙解释道。]]></description>
-      <guid>https://www.npr.org/2024/09/06/nx-s1-5096780/opinion-christmas-is-starting-early-in-venezuela</guid>
-      <pubDate>Sat, 07 Sep 2024 02:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西空难驾驶舱音频显示除冰系统存在问题</title>
-      <link>https://www.npr.org/2024/09/06/g-s1-21360/brazil-plane-crash-investigation-de-icing</link>
-      <description><![CDATA[据初步报告称，上个月坠毁的一架巴西客机的飞行员报告称，飞机上的除冰系统出现故障，导致机上 62 名乘客和机组人员全部遇难。]]></description>
-      <guid>https://www.npr.org/2024/09/06/g-s1-21360/brazil-plane-crash-investigation-de-icing</guid>
-      <pubDate>Sat, 07 Sep 2024 00:44:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
