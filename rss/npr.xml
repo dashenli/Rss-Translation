@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:18:44 GMT</lastBuildDate>
+    <item>
+      <title>委内瑞拉反对派候选人冈萨雷斯已离开委内瑞拉前往西班牙寻求庇护</title>
+      <link>https://www.npr.org/2024/09/08/g-s1-21431/venezuelan-opposition-candidate-gonzalez-asylum-spain</link>
+      <description><![CDATA[委内瑞拉副总统宣布了埃德蒙多·冈萨雷斯的离职，委内瑞拉反对派和多个外国政府认为埃德蒙多·冈萨雷斯是七月总统大选的合法获胜者。]]></description>
+      <guid>https://www.npr.org/2024/09/08/g-s1-21431/venezuelan-opposition-candidate-gonzalez-asylum-spain</guid>
+      <pubDate>Sun, 08 Sep 2024 04:26:58 GMT</pubDate>
+    </item>
     <item>
       <title>肯塔基州高速公路附近多人遭枪击 警方搜寻嫌疑人</title>
       <link>https://www.npr.org/2024/09/07/g-s1-21425/london-kentucky-highway-shooting</link>
@@ -57,7 +64,7 @@
     <item>
       <title>因软件问题影响稳定控制，150 万辆 Ram 皮卡被召回</title>
       <link>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</link>
-      <description><![CDATA[由于软件问题导致电子稳定控制系统失效，Stellantis 正在全球召回近 150 万辆 Ram 皮卡。]]></description>
+      <description><![CDATA[Stellantis 正在全球召回近 150 万辆 Ram 皮卡，以修复可能导致电子稳定控制系统失效的软件问题。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</guid>
       <pubDate>Sat, 07 Sep 2024 16:36:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[今年迄今已有 14 例人类感染禽流感病例。除密苏里州患者外，所有患者均与患病奶牛或家禽有关。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5104656/bird-flu-missouri-patient-cdc</guid>
       <pubDate>Sat, 07 Sep 2024 15:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>西岸巴勒斯坦青年为何而战（用他们自己的话说）</title>
-      <link>https://www.npr.org/2024/09/07/nx-s1-5103774/israel-occupied-west-bank-palestinian-fighters-jenin</link>
-      <description><![CDATA[以色列军方誓言要消灭占领区约旦河西岸的巴勒斯坦武装分子。巴勒斯坦战士告诉 NPR，他们愿意为抵抗以色列占领而献出生命。]]></description>
-      <guid>https://www.npr.org/2024/09/07/nx-s1-5103774/israel-occupied-west-bank-palestinian-fighters-jenin</guid>
-      <pubDate>Sat, 07 Sep 2024 15:03:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
