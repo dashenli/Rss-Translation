@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 01:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 03:16:54 GMT</lastBuildDate>
+    <item>
+      <title>肯塔基州高速公路附近多人遭枪击 警方搜寻嫌疑人</title>
+      <link>https://www.npr.org/2024/09/07/g-s1-21425/london-kentucky-highway-shooting</link>
+      <description><![CDATA[劳雷尔县警长办公室称，周六，肯塔基州伦敦北部的一条高速公路上发生多人枪击事件。I-75 公路已关闭，但之后已向南北方向重新开放。]]></description>
+      <guid>https://www.npr.org/2024/09/07/g-s1-21425/london-kentucky-highway-shooting</guid>
+      <pubDate>Sun, 08 Sep 2024 01:33:50 GMT</pubDate>
+    </item>
     <item>
       <title>佛罗里达州一名高中足球运动员在比赛中晕倒后死亡</title>
       <link>https://www.npr.org/2024/09/07/g-s1-21421/high-school-football-player-deaths-florida</link>
@@ -50,7 +57,7 @@
     <item>
       <title>因软件问题影响稳定控制，150 万辆 Ram 皮卡被召回</title>
       <link>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</link>
-      <description><![CDATA[Stellantis 正在全球召回近 150 万辆 Ram 皮卡，以修复可能导致电子稳定控制系统失效的软件问题。]]></description>
+      <description><![CDATA[由于软件问题导致电子稳定控制系统失效，Stellantis 正在全球召回近 150 万辆 Ram 皮卡。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</guid>
       <pubDate>Sat, 07 Sep 2024 16:36:05 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Sat, 07 Sep 2024 15:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>西岸巴勒斯坦青年为何而战（他们自己的说法）</title>
+      <title>西岸巴勒斯坦青年为何而战（用他们自己的话说）</title>
       <link>https://www.npr.org/2024/09/07/nx-s1-5103774/israel-occupied-west-bank-palestinian-fighters-jenin</link>
       <description><![CDATA[以色列军方誓言要消灭占领区约旦河西岸的巴勒斯坦武装分子。巴勒斯坦战士告诉 NPR，他们愿意为抵抗以色列占领而献出生命。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5103774/israel-occupied-west-bank-palestinian-fighters-jenin</guid>
       <pubDate>Sat, 07 Sep 2024 15:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>残奥会首次禁止电动轮椅运动员参加网球比赛</title>
-      <link>https://www.npr.org/2024/09/07/nx-s1-5101647/in-a-first-the-paralypmics-prevented-powerchair-athletes-from-competing-in-tennis</link>
-      <description><![CDATA[在残奥会上，使用电动轮椅的网球运动员首次被禁止参赛。]]></description>
-      <guid>https://www.npr.org/2024/09/07/nx-s1-5101647/in-a-first-the-paralypmics-prevented-powerchair-athletes-from-competing-in-tennis</guid>
-      <pubDate>Sat, 07 Sep 2024 12:01:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
