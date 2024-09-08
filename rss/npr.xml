@@ -4,18 +4,32 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 06:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:14:12 GMT</lastBuildDate>
     <item>
-      <title>委内瑞拉反对派候选人冈萨雷斯已离开委内瑞拉前往西班牙寻求庇护</title>
+      <title>以色列军方称，约旦河西岸边境口岸发生袭击，造成 3 名以色列人死亡</title>
+      <link>https://www.npr.org/2024/09/08/g-s1-21433/3-israelis-killed-shooting-west-bank-jordan-border-crossing</link>
+      <description><![CDATA[以色列军方称，一名枪手乘坐卡车从约旦一侧接近阿伦比大桥口岸并向以色列安全部队开火，以色列安全部队在枪战中击毙了袭击者。]]></description>
+      <guid>https://www.npr.org/2024/09/08/g-s1-21433/3-israelis-killed-shooting-west-bank-jordan-border-crossing</guid>
+      <pubDate>Sun, 08 Sep 2024 09:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普和哈里斯在六个教育问题上的立场</title>
+      <link>https://www.npr.org/2024/09/08/nx-s1-5103698/trump-harris-election-platforms-education-views</link>
+      <description><![CDATA[从学校选择到大学学费负担能力，特朗普和哈里斯没有太多共同点。在两位候选人唯一预定的辩论之前，我们整理了一份关于他们教育观点的入门指南。]]></description>
+      <guid>https://www.npr.org/2024/09/08/nx-s1-5103698/trump-harris-election-platforms-education-views</guid>
+      <pubDate>Sun, 08 Sep 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>委内瑞拉反对派候选人冈萨雷斯已离开该国前往西班牙寻求庇护</title>
       <link>https://www.npr.org/2024/09/08/g-s1-21431/venezuelan-opposition-candidate-gonzalez-asylum-spain</link>
       <description><![CDATA[委内瑞拉副总统宣布了埃德蒙多·冈萨雷斯的离职，委内瑞拉反对派和多个外国政府认为埃德蒙多·冈萨雷斯是七月总统大选的合法获胜者。]]></description>
       <guid>https://www.npr.org/2024/09/08/g-s1-21431/venezuelan-opposition-candidate-gonzalez-asylum-spain</guid>
       <pubDate>Sun, 08 Sep 2024 04:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>肯塔基州高速公路附近多人遭枪击 警方搜寻嫌疑人</title>
+      <title>肯塔基州枪击案造成多人受伤，警方正在搜寻嫌疑人</title>
       <link>https://www.npr.org/2024/09/07/g-s1-21425/london-kentucky-highway-shooting</link>
-      <description><![CDATA[劳雷尔县警长办公室称，周六，肯塔基州伦敦北部的一条高速公路上发生多人枪击事件。I-75 公路已关闭，但之后已向南北方向重新开放。]]></description>
+      <description><![CDATA[劳雷尔县警长办公室称，周六，肯塔基州伦敦北部一条高速公路上发生枪击事件，造成五人重伤。当局正在搜捕一名嫌疑人。]]></description>
       <guid>https://www.npr.org/2024/09/07/g-s1-21425/london-kentucky-highway-shooting</guid>
       <pubDate>Sun, 08 Sep 2024 01:33:50 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[詹妮弗·卡特在一篇被社交媒体广泛转发的帖子中讲述了她在佐治亚州一所学校为保护学生安全所做的努力，本周这所学校有四名学生死亡。]]></description>
       <guid>https://www.npr.org/2024/09/07/nx-s1-5104200/georgia-apalachee-high-school-shooting</guid>
       <pubDate>Sat, 07 Sep 2024 18:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>因软件问题影响稳定控制，150 万辆 Ram 皮卡被召回</title>
-      <link>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</link>
-      <description><![CDATA[Stellantis 正在全球召回近 150 万辆 Ram 皮卡，以修复可能导致电子稳定控制系统失效的软件问题。]]></description>
-      <guid>https://www.npr.org/2024/09/07/nx-s1-5104722/ram-pickup-truck-recall-stellantis</guid>
-      <pubDate>Sat, 07 Sep 2024 16:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>密苏里州发现首例与患病动物无直接关联的禽流感病例</title>
-      <link>https://www.npr.org/2024/09/07/nx-s1-5104656/bird-flu-missouri-patient-cdc</link>
-      <description><![CDATA[今年迄今已有 14 例人类感染禽流感病例。除密苏里州患者外，所有患者均与患病奶牛或家禽有关。]]></description>
-      <guid>https://www.npr.org/2024/09/07/nx-s1-5104656/bird-flu-missouri-patient-cdc</guid>
-      <pubDate>Sat, 07 Sep 2024 15:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
