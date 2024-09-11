@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Tue, 10 Sep 2024 15:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:41:09 GMT</lastBuildDate>
+    <item>
+      <title>UI 交互和动画综述#46</title>
+      <link>https://tympanus.net/codrops/2024/09/11/ui-interactions-animations-roundup-46/</link>
+      <description><![CDATA[Dribbble 提供的一组全新的出色交互和动画概念可供您参考。]]></description>
+      <guid>https://tympanus.net/codrops/2024/09/11/ui-interactions-animations-roundup-46/</guid>
+      <pubDate>Wed, 11 Sep 2024 10:01:57 GMT</pubDate>
+    </item>
     <item>
       <title>集体#862</title>
       <link>https://tympanus.net/codrops/collective/collective-862/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>集体#860</title>
       <link>https://tympanus.net/codrops/collective/collective-860/</link>
-      <description><![CDATA[React 正在成为全栈框架 * Zen Browser * 并行 DOM]]></description>
+      <description><![CDATA[React 正在成为全栈框架 * Zen 浏览器 * 并行 DOM]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-860/</guid>
       <pubDate>Fri, 30 Aug 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用着色器和 GPGPU 将像素/网格位移应用于 Three.js 中的纹理，并在光标移动时产生微妙的 RGB 偏移效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</guid>
       <pubDate>Tue, 27 Aug 2024 13:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#859</title>
-      <link>https://tympanus.net/codrops/collective/collective-859/</link>
-      <description><![CDATA[现在在 Baseline 中：动画入口效果 * 锚元素 * WebGPU 释放：实用教程]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-859/</guid>
-      <pubDate>Fri, 23 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

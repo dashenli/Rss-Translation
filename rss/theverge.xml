@@ -4,7 +4,44 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Sep 2024 06:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:30:03 GMT</lastBuildDate>
+    <item>
+      <title>安息吧 XOXO</title>
+      <link>https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/11/24240012/xoxo-festival-portland-kickstarter-creative</guid>
+      <pubDate>Wed, 11 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>宜家智能家居中心现支持 Matter</title>
+      <link>https://www.theverge.com/2024/9/11/24240697/ikea-dirigera-matter-update-available</link>
+      <description><![CDATA[
+
+Dirigera 集线器和宜家智能家居应用。 |图片：宜家
+
+在宣布支持两年后，宜家的 Dirigera hub 现在可以更新，作为宜家智能家居设备和支持 Matter 的系统之间的桥梁。该软件更新建立在早期测试版支持的基础上，让宜家所有基于 Zigbee 的智能家居设备（如灯、百叶窗、控制器、空气净化器和传感器）可以与任何公司的支持 Matter 的设备进行通信。 
+将现有设备的支持桥接到 Matter 是宜家全面支持新智能家居协议计划的一小步，但意义重大。这与飞利浦 Hue 采取的不温不火的方法相同，但希望取得更好的效果。其他公司（如 Aqara）通过推出不需要桥接进行协议转换的原生 Matter 设备，更全面地接受了该标准。
+
+宜家的智能家居中心一直具有定制集成功能，使其产品能够与 Apple、Google 和 Amazon 的设置进行通信。 “借助 Matter，我们进一步拓展了这些可能性，”瑞典宜家产品经理 David Granath 说道。“将数十年的家居生活专业知识与创新技术相结合，我们相信我们拥有独特的优势，可以降低障碍，让更多人拥有更智能的日常生活。” 
+在销售该中心的每个地方，都可以获得对 Dirigera 的 Matter 支持。]]></description>
+      <guid>https://www.theverge.com/2024/9/11/24240697/ikea-dirigera-matter-update-available</guid>
+      <pubDate>Wed, 11 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>华为 Mate XT 三屏折叠手机的详细评测</title>
+      <link>https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos</link>
+      <description><![CDATA[
+
+从某些角度看，显示屏折痕很明显，但直视华为 Mate XT 时几乎看不出来。 |截图：定焦数码
+
+华为已在中国正式推出 Mate XT Ultimate Design，网上出现了演示视频，展示了世界上第一款双折叠三屏手机在现实条件下的样子。
+几个开箱图 视频显示，华为 Mate XT 处于展开状态，其最薄处仅为 3.6 毫米（约 0.14 英寸） - 比谷歌的 5.1 毫米（约 0.2 英寸）Pixel 9 Pro Fold 更薄。完全折叠时，Mate XT 的厚度为 12.8 毫米（约 0.5 英寸），比 Pixel 9 Pro Fold 的 10.1 毫米（约 0.39 英寸）和 12.1 毫米三星 Galaxy Z Fold 6 略厚。
+来自 Gizmochina 的 上手评测显示，该显示屏可用于同时查看多个应用窗口，并可调整大小以进行自定义配置。 Mate XT 还附带一个专门的手机壳，可在折叠时保护设备，并在折叠和展开时兼作支架，使其直立。
+
+当手机从单屏模式转换为双屏模式时，在某些视频中可以短暂地看到一个小型加载轮，但在水平和垂直方向之间切换时，显示屏似乎反应足够灵敏。 在 由 Android Authority 分享的视频中可以看到一个明显的抱怨，那就是两个铰链上的显示屏折痕在某些角度和光线下非常明显，有些人可能会对此感到失望——但考虑到可折叠显示屏的现状，这并不奇怪。然而，从正面看时，它们似乎几乎看不见。]]></description>
+      <guid>https://www.theverge.com/2024/9/11/24241628/huawei-mate-xt-triple-screen-foldable-closer-look-hands-on-demos</guid>
+      <pubDate>Wed, 11 Sep 2024 09:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>泰勒·斯威夫特支持卡马拉·哈里斯，以回应虚假人工智能支持特朗普</title>
       <link>https://www.theverge.com/2024/9/10/24241538/taylor-swift-endorses-kamala-harris-donald-trump-ai-endorsement-deepfake</link>
@@ -90,27 +127,6 @@ Lifx 推出了一款新的智能“多色”灯管，可以发出多种颜色的
 多色 T10 蛋白石磨砂玻璃管和B10 彩色蜡烛 现已在 The Home Depot 独家发售，每支售价分别为 39.98 美元和 29.98 美元。新款 Lifx 灯泡支持 Matter 通过 Google Home、Amazon Alexa 和 Samsung SmartThings 等不同的智能家居系统进行互操作，并支持通过 Alexa 和 Google 进行语音控制的场景管理。]]></description>
       <guid>https://www.theverge.com/2024/9/10/24241183/lifx-polychrome-t10-tube-smart-rgb-light-b10-candle</guid>
       <pubDate>Tue, 10 Sep 2024 20:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为三星秋季促销活动的一部分，新款 Galaxy Buds 3 现已发售</title>
-      <link>https://www.theverge.com/2024/9/10/24240025/samsung-galaxy-buds-3-apple-magic-mouse-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/10/24240025/samsung-galaxy-buds-3-apple-magic-mouse-deal-sale</guid>
-      <pubDate>Tue, 10 Sep 2024 20:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的 iPhone 16 最终将利用 Apple Intelligence 做些什么</title>
-      <link>https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/10/24237714/apple-intelligence-generative-ai-features-update-schedule</guid>
-      <pubDate>Tue, 10 Sep 2024 20:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择购买哪款 Apple Watch</title>
-      <link>https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to</guid>
-      <pubDate>Tue, 10 Sep 2024 19:59:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
