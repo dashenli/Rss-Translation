@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 21:15:53 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰初创公司计划利用人工智能保护公司免受虚假信息的侵害</title>
+      <link>https://thenextweb.com/news/ukrainian-ai-startup-osavul-fights-disinformation</link>
+      <description><![CDATA[一家因战争而诞生的乌克兰初创公司正在将反虚假信息带入商业世界。Osavul 成立于 2022 年，旨在打击俄罗斯的宣传。为了分析威胁，该公司将人工智能分析应用于信息领域。这家初创公司调查了来自社交媒体、网站和消息应用程序的开源数据。然后，它会识别有害的叙述以及传播这些叙述的来源。这些叙述形式多样。Osavul 检测到了贴有 BBC 徽标的假新闻视频、隐藏在俚语中的种族歧视言论，以及放大俄罗斯宣传的生成式人工智能。乌克兰政府经常寻求这家初创公司的见解。北约和英国也是如此。但 Osavul…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/ukrainian-ai-startup-osavul-fights-disinformation</guid>
+      <pubDate>Thu, 12 Sep 2024 18:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>25 家初创公司进入英国后期加速器，迈向 IPO</title>
       <link>https://thenextweb.com/news/25-startups-uk-late-stage-accelerator-future-fifty</link>
@@ -57,7 +64,7 @@
     <item>
       <title>Revolut 创始人分享打造高绩效初创企业的 7 个秘诀</title>
       <link>https://thenextweb.com/news/revolut-founder-shares-7-tips-high-performance-startups</link>
-      <description><![CDATA[Nik Storonsky 于 2015 年创立了 Revolut，逐步让消费者接触到新银行的世界。尽管一路走来跌宕起伏，但上个月这家初创公司成为欧洲最有价值的私营科技公司，估值达到 450 亿美元。 Storonsky 也是为其他初创公司设立基金的欧洲创始人之一。2022 年，他创立了风险投资公司 QuantumLight，专注于人工智能驱动的投资。QuantumLight 今天发布了一份剧本，其中包含有关如何建立高绩效初创公司的分步指南。“我们正在发布最佳实践，我希望在 Revolut 成立初期就能接触到这些实践，”Storonsky 说道，他是《Revolut 2019》的联合作者......This story continued at The Next Web]]></description>
+      <description><![CDATA[Nik Storonsky 于 2015 年创立了 Revolut，逐步将消费者引入新银行的世界。尽管一路走来跌宕起伏，但上个月这家初创公司成为欧洲最有价值的私营科技公司，估值达到 450 亿美元。 Storonsky 也是为其他初创公司设立基金的欧洲创始人之一。2022 年，他创立了风险投资公司 QuantumLight，专注于人工智能驱动的投资。QuantumLight 今天发布了一份剧本，其中包含有关如何建立高绩效初创公司的分步指南。“我们正在发布最佳实践，我希望在 Revolut 成立初期就能接触到这些实践，”Storonsky 说道，他是《Revolut 2019》的联合作者......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/revolut-founder-shares-7-tips-high-performance-startups</guid>
       <pubDate>Tue, 10 Sep 2024 15:18:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[马里奥·德拉吉对欧盟的竞争力和未来敲响了警钟，因为它再次未能将想法和雄心转化为技术创新。在欧盟主席乌尔苏拉·冯德莱恩委托撰写的一份报告中，德拉吉强调，显著的增长放缓扩大了欧盟与美国之间的 GDP 差距。这种放缓与技术发展缓慢密切相关。这位前欧洲央行 (ECB) 行长表示：“欧洲在很大程度上错过了互联网引领的数字革命及其带来的生产力提升。”他还警告说，历史可能会重演。…This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/eu-must-close-innovation-gap-existential-challenge-draghi-report</guid>
       <pubDate>Tue, 10 Sep 2024 14:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软和 Quantinuum 结合 HPC、AI 和量子解决现实世界的化学问题</title>
-      <link>https://thenextweb.com/news/microsoft-quantinuum-hybrid-hpc-ai-quantum-solve-real-world-chemistry-problem</link>
-      <description><![CDATA[科技巨头微软和领先的量子计算机开发商 Quantinuum 在迈向科学量子优势的道路上又取得了两个重要标志。他们成功创建了 12 个高度可靠的逻辑量子比特，并演示了混合端到端化学模拟，该模拟利用了 HPC、AI 和量子的组合。逻辑量子比特突破是在 Quantinuum 的 H2 离子阱 56 物理量子比特量子计算机上实现的，使用的是微软 Azure Quantum 的量子比特虚拟化系统。这是两人今年 4 月宣布的四个可靠逻辑量子比特的三倍。该团队还利用改进的逻辑量子比特演示了几种容错计算，这些量子比特在纠缠时会产生…This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/microsoft-quantinuum-hybrid-hpc-ai-quantum-solve-real-world-chemistry-problem</guid>
-      <pubDate>Tue, 10 Sep 2024 13:00:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
