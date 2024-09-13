@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 13 Sep 2024 01:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:22:00 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/09/1password-4/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+想象一下，如果你去看电影，他们要价 8000 美元买爆米花。这就像 IT 和安全专业人员在软件供应商向他们收取单点登录 (SSO) 的过高溢价时所感受到的，通常是将其归入产品的企业层。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/09/1password-4/</guid>
+      <pubDate>Fri, 13 Sep 2024 16:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）Rebound 512：一系列万向架</title>
       <link>https://sixcolors.com/podcast/2024/09/the-rebound-512-a-series-of-gimbals/</link>
@@ -17,7 +25,7 @@
       <link>https://sixcolors.com/link/2024/09/fda-approves-airpods-hearing-aid-functionality/</link>
       <description><![CDATA[当苹果表示预计监管机构将很快批准某项产品时，这意味着很快。
 
-今天，美国食品药品监督管理局批准了首款非处方 (OTC) 助听器软件设备“助听器功能”，旨在与兼容版本的 Apple AirPods Pro 耳机一起使用。…]]></description>
+今天，美国食品药品管理局批准了首款非处方 (OTC) 助听器软件设备“助听器功能”，旨在与兼容版本的 Apple AirPods Pro 耳机一起使用。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/fda-approves-airpods-hearing-aid-functionality/</guid>
       <pubDate>Thu, 12 Sep 2024 16:22:19 GMT</pubDate>
     </item>
@@ -107,13 +115,6 @@
       <description><![CDATA[丹上周撰文报道了苹果公司解雇图书部门 100 名员工的消息。大多数观察家认为这一消息是一个令人遗憾但可以理解的商业决定。…]]></description>
       <guid>https://sixcolors.com/post/2024/09/why-apple-books-works-for-me/</guid>
       <pubDate>Tue, 03 Sep 2024 17:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 527：2024 年 9 月活动草案</title>
-      <link>https://sixcolors.com/podcast/2024/09/upgrade-527-the-2024-september-event-draft/</link>
-      <description><![CDATA[Jason 和 Myke 预览了下周的 Apple 发布会。新款 iPhone 将有哪些新功能？Apple Watch 将如何转型？…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/upgrade-527-the-2024-september-event-draft/</guid>
-      <pubDate>Mon, 02 Sep 2024 21:17:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
