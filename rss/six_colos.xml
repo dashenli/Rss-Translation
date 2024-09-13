@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 01:07:51 GMT</lastBuildDate>
+    <item>
+      <title>（播客）Rebound 512：一系列万向架</title>
+      <link>https://sixcolors.com/podcast/2024/09/the-rebound-512-a-series-of-gimbals/</link>
+      <description><![CDATA[iPhone Pro 和 Apple Watch 变得更大了。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/09/the-rebound-512-a-series-of-gimbals/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>FDA 批准 AirPods 助听器功能 ↦</title>
       <link>https://sixcolors.com/link/2024/09/fda-approves-airpods-hearing-aid-functionality/</link>
@@ -107,15 +114,6 @@
       <description><![CDATA[Jason 和 Myke 预览了下周的 Apple 发布会。新款 iPhone 将有哪些新功能？Apple Watch 将如何转型？…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/upgrade-527-the-2024-september-event-draft/</guid>
       <pubDate>Mon, 02 Sep 2024 21:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁在阻止苹果的 AI 爬虫↦</title>
-      <link>https://sixcolors.com/link/2024/08/whos-blocking-apples-ai-crawler/</link>
-      <description><![CDATA[Wired 的 Kate Knibbs 报道称，许多大型出版商都在屏蔽 Applebot-Extended，这是该公司帮助训练 Apple Intelligence 的爬虫机器人：
-
-WIRED 可以确认，Facebook、Instagram、Craigslist、Tumblr、《纽约时报》、《金融时报》、《大西洋月刊》、Vox Media、《今日美国》网络和 WIRED 的母公司 Condé Nast 等众多组织都选择将其数据排除在 Apple 的 AI 训练之外。…]]></description>
-      <guid>https://sixcolors.com/link/2024/08/whos-blocking-apples-ai-crawler/</guid>
-      <pubDate>Thu, 29 Aug 2024 14:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
