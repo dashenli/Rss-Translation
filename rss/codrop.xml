@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Fri, 13 Sep 2024 01:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 12:30:07 GMT</lastBuildDate>
+    <item>
+      <title>集体#863</title>
+      <link>https://tympanus.net/codrops/collective/collective-863/</link>
+      <description><![CDATA[AIAIAI * 打磨 UI * 迷失的感觉 * 精加工的艺术]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-863/</guid>
+      <pubDate>Fri, 13 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述#46</title>
       <link>https://tympanus.net/codrops/2024/09/11/ui-interactions-animations-roundup-46/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Artemii Lebedev 的一个项目的幕后花絮：Armur，一个为 Alexandra Murgu 创建的电影行业作品集网站。]]></description>
       <guid>https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/</guid>
       <pubDate>Thu, 29 Aug 2024 13:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Three.js GPGPU 和着色器实现具有 RGB 移位的网格位移纹理</title>
-      <link>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</link>
-      <description><![CDATA[了解如何使用着色器和 GPGPU 将像素/网格位移应用于 Three.js 中的纹理，并在光标移动时产生微妙的 RGB 偏移效果。]]></description>
-      <guid>https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/</guid>
-      <pubDate>Tue, 27 Aug 2024 13:41:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
