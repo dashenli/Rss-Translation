@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 14 Sep 2024 06:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:16:28 GMT</lastBuildDate>
+    <item>
+      <title>记忆被存储在多个副本中并随着时间的推移而改变</title>
+      <link>https://wired.jp/article/brain-creates-three-copies-for-a-single-memory/</link>
+      <description><![CDATA[新的研究表明，在海马体（大脑中负责记忆的部分）中，至少三个不同的神经元组会记住单个事件。这种机制可以让大脑灵活地重写记忆副本并适应环境的变化。]]></description>
+      <guid>https://wired.jp/article/brain-creates-three-copies-for-a-single-memory/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google Photos 搜索功能已更新。您现在可以通过与 Gemini“对话”来搜索照片</title>
       <link>https://wired.jp/article/google-photos-ask-photos-gemini/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>我辞职后，公司聘请了一名AI解说员。</title>
       <link>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</link>
-      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这家从未被认为是“前沿”的报纸成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
+      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这份从来不被认为是前沿的报纸，成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
       <guid>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</guid>
       <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 12 Sep 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊强化AI机器人技术，开启仓储革命新篇章</title>
+      <title>亚马逊强化AI机器人技术开启仓储革命新篇章</title>
       <link>https://wired.jp/article/amazon-covariant-robotics-deal/</link>
       <description><![CDATA[亚马逊收购了 Covariant，这是一家正在开发可以抓取物体的机械臂的初创公司。这可能会导致亚马逊仓库运营的进一步自动化。]]></description>
       <guid>https://wired.jp/article/amazon-covariant-robotics-deal/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 11 Sep 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>达斯维德的声音在人工智能中永垂不朽</title>
+      <title>达斯·维德的声音在人工智能中永垂不朽</title>
       <link>https://wired.jp/article/james-earl-jones-darth-vader-death-artificial-intelligence/</link>
       <description><![CDATA[长期为《星球大战》系列达斯·维德配音的詹姆斯·厄尔·琼斯去世，享年 93 岁。在他去世之前，琼斯已经允许卢卡斯影业使用人工智能重新创建他的声音。]]></description>
       <guid>https://wired.jp/article/james-earl-jones-darth-vader-death-artificial-intelligence/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[8月下旬在芝加哥举行的为期四天的民主党全国代表大会（DNC）发出了明确的信息。这是奥巴马时代八年美国多元文化社会的重启，或者说是“奥巴马开启的21世纪美国的重启”。它到底是什么意思？设计思想家池田纯一解释了这个问题。]]></description>
       <guid>https://wired.jp/article/the-age-of-post-reagan-34/</guid>
       <pubDate>Tue, 10 Sep 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>睡眠可以重置负责记忆的神经元：研究结果</title>
-      <link>https://wired.jp/article/sleep-resets-neurons-for-new-memories/</link>
-      <description><![CDATA[最新研究表明，大脑中负责记忆的部分海马体不仅在睡眠时形成记忆，而且还具有在神经细胞使用后进行重置的作用。如果我们能够利用这种机制，我们也许能够找到治疗记忆障碍和创伤后应激障碍的方法。]]></description>
-      <guid>https://wired.jp/article/sleep-resets-neurons-for-new-memories/</guid>
-      <pubDate>Tue, 10 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
