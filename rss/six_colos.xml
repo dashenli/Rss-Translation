@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 21:15:00 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 真的会缩短 Mac 电池寿命吗？↦</title>
+      <link>https://sixcolors.com/link/2024/09/does-chrome-really-kill-mac-battery-life/</link>
+      <description><![CDATA[Matt Birchler 进行了大量电池测试，发现 Chrome 会缩短 Mac 电池寿命的传统观点站不住脚：
+
+使用 Chrome 时，电池电量会剩下 54%，而使用 Safari 时，电池电量会剩下大约 50%。…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/does-chrome-really-kill-mac-battery-life/</guid>
+      <pubDate>Sat, 14 Sep 2024 18:07:26 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/09/1password-4/</link>
@@ -108,13 +117,6 @@
       <description><![CDATA[我们首选的外部存储解决方案、最喜欢的协作工具、智能手机升级的动机，以及对我们有生之年出现天网级人工智能场景的可能性的看法。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/clockwise-570-its-a-worm/</guid>
       <pubDate>Wed, 04 Sep 2024 21:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Apple Books 对我有用</title>
-      <link>https://sixcolors.com/post/2024/09/why-apple-books-works-for-me/</link>
-      <description><![CDATA[丹上周撰文报道了苹果公司解雇图书部门 100 名员工的消息。大多数观察家认为这一消息是一个令人遗憾但可以理解的商业决定。…]]></description>
-      <guid>https://sixcolors.com/post/2024/09/why-apple-books-works-for-me/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:10:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
