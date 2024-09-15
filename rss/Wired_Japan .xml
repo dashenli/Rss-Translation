@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 09:17:01 GMT</lastBuildDate>
+    <item>
+      <title>如何使用智能手机快速交换联系人</title>
+      <link>https://wired.jp/article/how-to-swap-contact-info-with-someone-using-your-phones/</link>
+      <description><![CDATA[智能手机无需下载其他应用程序即可交换联系信息。借助 iOS 和 Android 上的这些工具，您再也不用搜索名片了。]]></description>
+      <guid>https://wired.jp/article/how-to-swap-contact-info-with-someone-using-your-phones/</guid>
+      <pubDate>Sun, 15 Sep 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么迷幻药物“MDMA”没有被批准用于治疗创伤后应激障碍？</title>
       <link>https://wired.jp/article/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>苹果的第一个生成人工智能插图是 Craig Federighi 的狗</title>
       <link>https://wired.jp/article/apple-image-playground-craig-federighi-dog/</link>
-      <description><![CDATA[苹果宣布将人工智能图像生成功能“Image Playground”作为iOS 18的新功能。使用这一新功能生成的图像专门提供给《连线》杂志。除了作为营销材料介绍的图像之外，这是该图像首次向公众展示。]]></description>
+      <description><![CDATA[苹果宣布将人工智能图像生成功能“Image Playground”作为iOS 18的新功能。使用这一新功能生成的图像专门提供给《连线》杂志。除了作为营销材料介绍的图像之外，这是首次公开这些图像。]]></description>
       <guid>https://wired.jp/article/apple-image-playground-craig-federighi-dog/</guid>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>我辞职后，公司聘请了一名AI解说员。</title>
       <link>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</link>
-      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这家从未被认为是“前沿”的报纸成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
+      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这份从来不被认为是前沿的报纸，成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
       <guid>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</guid>
       <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 11 Sep 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>达斯·维德的声音在人工智能中永垂不朽</title>
+      <title>达斯维德的声音在人工智能中永垂不朽</title>
       <link>https://wired.jp/article/james-earl-jones-darth-vader-death-artificial-intelligence/</link>
       <description><![CDATA[长期为《星球大战》系列达斯·维德配音的詹姆斯·厄尔·琼斯去世，享年 93 岁。在他去世之前，琼斯已经允许卢卡斯影业使用人工智能重新创建他的声音。]]></description>
       <guid>https://wired.jp/article/james-earl-jones-darth-vader-death-artificial-intelligence/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用人工智能 (AI) 的图像生成技术正在迅速发展，但在生成美国副总统卡马拉·哈里斯 (Kamala Harris) 的逼真图像方面似乎遇到了困难。这是由于缺乏数据和复杂因素造成的。由于担心虚假图像的传播，还有一些工具禁止创建政客的图像。]]></description>
       <guid>https://wired.jp/article/bad-kamala-harris-ai-generated-images/</guid>
       <pubDate>Wed, 11 Sep 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“PlayStation 5 Pro”为您的游戏体验带来更多“力量”</title>
-      <link>https://wired.jp/article/playstation-5-pro-coming-november/</link>
-      <description><![CDATA[正如几个月来传闻的那样，PlayStation 5 的新高性能版本 PlayStation 5 Pro（PS5 Pro）现已发布。通过添加高性能 GPU，您将能够享受前所未有的更高清图像的游戏体验。]]></description>
-      <guid>https://wired.jp/article/playstation-5-pro-coming-november/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
