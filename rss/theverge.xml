@@ -4,191 +4,179 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 16 Sep 2024 12:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 15:17:12 GMT</lastBuildDate>
     <item>
-      <title>苹果 AirPods 4 评测：超出预期</title>
-      <link>https://www.theverge.com/24245570/apple-airpods-4-review</link>
+      <title>《恶魔城：夜曲》第二季将于明年 1 月上映</title>
+      <link>https://www.theverge.com/2024/9/16/24246189/castlevania-nocturne-season-2-teaser-january-premiere</link>
+      <description><![CDATA[
+
+图片：Netflix
+
+我们距离第 2 季的首映还有一段距离恶魔城：夜曲，但经过数月的等待，Netflix 已经分享了该节目回归的一般窗口。
+在 2024 年极客周之前，Netflix 发布了一个新的恶魔城：夜曲预告片，预告片透露了里希特·贝尔蒙特 (Edward Bluemel)、安妮特 (Thuso Mbedu)、玛丽亚 (Pixie Davies) 和阿鲁卡多 (James Callis) 将如何继续与吸血鬼女王 Erzsebet Báthory (Franka Potente) 的战争。预告片中夜曲的英雄镜头让人觉得他们在第二季中会被失去的一切记忆所困扰。但粉红色火焰中十字架的短暂闪烁也让人感觉这可能是在暗示剧中将重新出现某些角色，如 Drolta Tzuentes（Elarica Johnson）。
+预告片明确表示，尽管里希特和他的盟友的处境已经变得十分糟糕，但他们仍打算消灭任何挡在他们路上的怪物。虽然 Netflix 尚未公布本季的确切首播日期，但我们现在知道该剧将于 2025 年 1 月回归。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246189/castlevania-nocturne-season-2-teaser-january-premiere</guid>
+      <pubDate>Mon, 16 Sep 2024 15:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软 Office 应用正在获得更多有用的 Copilot AI 功能</title>
+      <link>https://www.theverge.com/2024/9/16/24246014/microsoft-office-copilot-ai-features-excel-python-outlook-word-powerpoint</link>
+      <description><![CDATA[
+
+图片：Microsoft
+
+Microsoft 在其每位用户 30 美元的 Microsoft 365 Copilot 月度订阅中推出了新功能，旨在改善 Office 应用程序内的 AI 集成。 Excel 正在将 Python 集成到 Copilot 中，PowerPoint 拥有改进的 AI 叙事构建器，Word 在 AI 辅助草稿方面做得越来越好，Copilot 也将能够帮助您整理 Outlook 收件箱。
+继去年将 Python 引入 Excel 之后，微软现在将其 Python 支持与 Copilot 结合起来，让 Excel 用户可以轻松地对电子表格数据进行高级分析。“现在，任何人都可以使用 Copilot 进行高级分析，例如预测、风险分析、机器学习和可视化复杂数据——所有这些都使用自然语言，无需编码，”微软 AI at Work 公司副总裁 Jared Spataro 说。 “这就像为团队增加了一名熟练的数据分析师。”
+
+Excel 内部的 Copilot 和 Python 集成今天进入公开预览阶段，正如 Microsoft 向其 Microsoft 365 Copilot 订阅者普遍提供 Excel 中的 Copilot 一样。Microsoft 还增加了 Copilot 对 XLOOKUP 和 SUMIF 的支持、条件格式以及 AI 助手生成更多图表和数据透视表的能力。
+PowerPoint 中的 Copilot 也在不断改进，改进的叙述构建器旨在让您快速创建幻灯片的初稿。 AI 助手甚至很快会使用公司的品牌模板从 SharePoint 库中创建草稿或公司批准的图像。
+Microsoft Teams 中的 Copilot 将总结本月晚些时候在文本聊天中发生的对话以及会议中的口头对话。这将帮助会议组织者确保他们不会错过聊天中输入的任何未回答的问题。 “我们的客户告诉我们，Teams 中的 Copilot 彻底改变了会议——事实上，这是他们看到价值的头号地方，”Spataro 说。
+
+
+图片：Microsoft
+Copilot 在 Outlook 收件箱中变得越来越有用。
+
+
+我个人一直在等待 Outlook 中 Copilot 的改进，除了起草和摘要之外，现在微软开始允许其 AI 助手整理您的收件箱。新的“优先处理我的收件箱”功能可让 Copilot 自动优先处理电子邮件。根据 Spataro 的说法，今年晚些时候，您还可以“教 Copilot 对您来说很重要的特定主题、关键字或人员”。然后，这些电子邮件也将在您的收件箱中被标记为高优先级。
+本月晚些时候，微软还将改进 Word 中的 Copilot，让您可以引用电子邮件和会议中的数据以及文档中的数据。这将使从电子邮件中引入附件或从会议中引入整个谈话要点变得更加容易。微软还将于本月晚些时候在 OneDrive 中推出 Copilot，这样就可以轻松地汇总和比较最多五个文件以发现它们之间的差异。
+微软对 Office 中 Copilot 的改进旨在使 AI 助手对企业更具吸引力，同时还有新的 Copilot Pages 功能和可自动执行某些任务的 AI 代理。 最近的报告表明，由于存在错误以及不愿意支付每位用户 30 美元的价格，微软为企业提供的付费 Copilot 版本反响平平。
+微软表示，目前财富 500 强中有 60% 的企业都在使用 Copilot，每天在工作中使用 Copilot 的人数“环比增长近一倍”。这两个数据点似乎都包括免费版 Copilot。微软已经为 Microsoft 365 Copilot 赢得了一个大客户：在试用了这款 AI 助手并看到了早期效益后，沃达丰正在为其 100,000 名员工签署 68,000 个 Microsoft 365 Copilot 许可证。]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246014/microsoft-office-copilot-ai-features-excel-python-outlook-word-powerpoint</guid>
+      <pubDate>Mon, 16 Sep 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot Pages 是微软为企业推出的全新协作 AI 游乐场</title>
+      <link>https://www.theverge.com/2024/9/16/24246010/microsoft-copilot-pages-multiplayer-ai-business</link>
+      <description><![CDATA[
+
+
+微软今天宣布推出新的 Copilot Pages 功能，旨在成为“多人 AI 协作”的画布。 Copilot Pages 可让您使用 Microsoft 的 Copilot 聊天机器人，并将回复拉到新页面中，然后与其他人协作编辑。
+“您和您的团队可以使用 Copilot 在页面上协同工作，实时查看每个人的工作，并像合作伙伴一样使用 Copilot 进行迭代，将更多内容从您的数据、文件和网络添加到您的页面，”Microsoft 工作 AI 企业副总裁 Jared Spataro 说道。“这是一种全新的工作模式 — 多人、人与 AI 之间的协作。”
+Pages 即日起开始向 Microsoft 365 Copilot 客户推出，并将于本月晚些时候向所有订阅者全面开放。它建立在微软与 Loop 的合作的基础上，Loop 是 Notion 的竞争对手，其中包括未来派的乐高式 Office 文档。
+
+
+图片：微软
+Copilot Pages 可以作为链接共享到让同事轻松加入并编辑它们。
+
+您只需一个链接即可共享 Copilot Pages，同事可以立即开始编辑它们，就像编辑共享的 Word 文档一样。您还可以将 Copilot Pages 作为组件嵌入到其他页面中。由于它与 Microsoft 的新 BizChat（Copilot 的工作中心）相关联，您还可以从网络或工作文件中提取数据来创建项目计划、会议记录、商业宣传等等。Microsoft 将 Copilot Pages 视为一种新的工作模式，将人类和 AI 输入包含在一个画布中。
+Microsoft 还将 Copilot Pages 带给 4 亿多用户，这些用户在使用企业 Microsoft Entra 帐户登录后可以访问该公司的免费 Copilot 聊天机器人。这是 Copilot 面向企业的更大推动力的一部分，其中包括在各种 Office 应用程序中改进 AI 助手。您可以在此处阅读有关 Office 应用改进 的更多信息。
+
+
+图片：Microsoft
+Copilot Pages 界面。
+
+Microsoft 今日还将面向所有企业推出其 Copilot 代理。 今年早些时候在 Build 大会上宣布，这些代理就像虚拟员工一样自动执行任务。Copilot 不会像聊天机器人那样闲着等待查询，而是能够主动执行诸如监控电子邮件收件箱和自动执行一系列任务或数据输入等任务，而这些任务或数据输入通常都是员工必须手动完成的。
+Microsoft 365 Copilot 订阅者还可以访问 Copilot Studio 中的新代理构建器。“现在，任何人都可以直接在 BizChat 或 SharePoint 中快速创建 Copilot 代理，从而释放存储在 SharePoint 文件中的庞大知识库的价值，”Spataro 说。代理旨在显示为 Teams 或 Outlook 中的虚拟同事，允许您 @ 提及他们并向他们提问。]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246010/microsoft-copilot-pages-multiplayer-ai-business</guid>
+      <pubDate>Mon, 16 Sep 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>翻新的第一代 AirPods Max 耳机今日优惠 250 美元</title>
+      <link>https://www.theverge.com/good-deals/2024/9/16/24246092/apple-airpods-max-lightning-headphones-amazon-fire-7-kids-deal-sale</link>
+      <description><![CDATA[
+
+照片由 Becca Farsace / The Verge 拍摄
+
+Apple 的修订版 带 USB-C 的 AirPods Max 距离 9 月发布仅剩几天20，但如果您不介意 Lightning 端口，那么旧款（几乎相同）型号现在可以以低得多的价格购买。这是因为百思买似乎正在清理翻新的第一代 AirPods Max的库存，以 299.99 美元（减价 250 美元）的价格出售多种颜色的 AirPods Max，这是 Apple 旗舰耳机中最便宜的价格——但为期一天的优惠将于今晚美国东部时间凌晨 1 点/太平洋时间晚上 10 点结束。
+
+AirPods Max 可能已有近四年的历史，但如果您深陷 Apple 生态系统并欣赏一些卓越（尽管沉重）的制造质量，它们仍然是一对很棒的降噪耳机。它们提供出色、均衡的声音，并支持一些便捷的功能，例如在 Apple 设备之间自动切换（跨 iPhone、iPad 和 Mac），以及空间音频。坦率地说，除了一些新颜色和更新的端口外，带有 USB-C 的新版本与原版几乎完全相同。请记住，选择 Best Buy 的翻新产品意味着通过零售商获得 90 天保修，而不是 Apple 的一年保修。
+
+今天的一些额外优惠
+
+如果您更喜欢 Apple 耳机，AirPods Pro 2 在 亚马逊 和 百思买 的售价为 189.99 美元（优惠 60 美元）。 Apple 的顶级降噪耳机音质出色，配有方便的外壳以及 MagSafe 兼容无线和 USB-C 有线充电选项。此外，今年秋季晚些时候，AirPods Pro 2 将收到 Apple 的免费软件更新，以启用各种听力健康功能 - 包括支持您可以自行管理的听力测试，并兼作FDA 授权OTC 助听器。 阅读我们的原始评论。
+
+百思买 又推出了 Hoto 电动螺丝刀 的一日特惠，该款螺丝刀配有扩展的 25 位套件和磁性外壳，售价 49.99 美元（优惠 30 美元）— 在 亚马逊 上也有售，价格高出约 6 美元。这款螺丝刀是一些Verge员工（包括我本人）的最爱，因为它非常适合修补匠和家里的小项目。它的三种扭矩设置范围足以帮助您将一些小木螺钉拧入墙壁或更快地组装宜家家具而不会造成损坏。
+最新款 Amazon Fire 7 Kids 平板电脑在 Best Buy 和 Amazon 上仅售 54.99 美元（优惠 40 美元）。这款专为 3 至 7 岁儿童设计的 7 英寸平板电脑的速度或规格不会给任何精通技术的成年人留下深刻印象，但它是一款不错的设备，电池续航时间长，可用于阅读书籍和流媒体视频。亚马逊普通平板电脑的儿童版配有保护套、两年保护计划，并提供在线家长控制以限制屏幕时间。阅读我们对标准型号的评论。
+
+]]></description>
+      <guid>https://www.theverge.com/good-deals/2024/9/16/24246092/apple-airpods-max-lightning-headphones-amazon-fire-7-kids-deal-sale</guid>
+      <pubDate>Mon, 16 Sep 2024 14:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zildjian 的无线耳机有专门针对鼓的 ANC 模式</title>
+      <link>https://www.theverge.com/2024/9/16/24246091/zildjian-alchem-e-perfect-tune-wireless-headphones-anc</link>
+      <description><![CDATA[
+
+Zildjian Alchem-E Perfect Tune 耳机有三种配色：黑色、午夜蓝（蓝色）和沙尘暴蓝（棕褐色）。 |图片：Zildjian
+
+Zildjian 是一家生产钹和其他鼓配件已有数百年历史的公司，现已宣布推出一款新的无线耳机。除了每个耳罩上印有该公司的标志性徽标外，Alchem-E Perfect Tune 耳机还提供更“个性化的聆听体验”，该公司声称，特殊的 ANC 模式可让音乐家调出除鼓组以外的所有声音。
+能够通过配套应用程序中的均衡器自定义声音配置文件是一项常见于无线耳机的功能，其价格高达 399.95 美元的 Alchem-E Perfect Tune 耳机。 Zildjian 与众不同之处在于，它允许为每只耳朵提供自定义 EQ 设置，这可能会吸引挑剔的音乐家。
+
+
+图片：Zildjian
+“Play-Along” ANC 模式可阻挡噪音，同时仍允许听到鼓声。
+
+主动降噪有两种模式。用户可以选择完全屏蔽周围不想要的声音，也可以选择“伴奏”模式，该模式经过调整，允许鼓组的声音通过，但会减弱约 50%。该模式旨在帮助鼓手在耳机中演奏音乐时仍想听到自己的乐器，但 Alchem-E 的标准 ANC 模式很可能无法完全消除您面前的鼓组声音。
+
+这款耳机还配备 40 毫米驱动器，可以使用蓝牙 5.3 或附带的六英尺长的模拟音频线无线连接到设备。如果使用无线方式，即使开启 ANC，电池寿命也有望达到 45 小时。 Alchem-E 配有硅胶便携包和用户可更换的衬垫，并且可以使用位于耳机右侧的拨盘来控制音量和播放。]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246091/zildjian-alchem-e-perfect-tune-wireless-headphones-anc</guid>
+      <pubDate>Mon, 16 Sep 2024 14:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的庭审大日到了：有关试图禁止该视频平台的所有新闻</title>
+      <link>https://www.theverge.com/23651507/tiktok-ban-us-news</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge |照片由 Brendan Hoffman、Getty Images 拍摄
+
+以下是有关一项新法律要求母公司字节跳动出售其平台的所有新闻汇总。 乔·拜登总统于 4 月 24 日签署了一项法案，如果中国公司字节跳动不在一年内出售该平台，该法案将禁止其旗下的短视频应用 TikTok。从该日起，字节跳动有九个月的时间剥离该应用，如果总统对其进展感到满意，可能会延长三个月。 5 月 7 日，TikTok 就可能的禁令起诉政府，称该法律违宪，并声称它“将一个单一的、有名无实的言论平台永久地、全国性地禁止，并禁止每个美国人参与一个拥有全球超过 10 亿人的独特在线社区。” 
+该案于 9 月 16 日在华盛顿特区上诉法院开庭审理。
+在关于禁止 TikTok 的讨论中，美国和国际政界人士指责 TikTok 是一种宣传工具，存在安全风险。强制出售 TikTok 的尝试始于特朗普政府时期，最终在 4 月下旬的立法推动下取得成功。
+在该法律签署之前，美国各地颁布了一系列 TikTok 禁令，禁止该应用在与大学和州、地方和联邦各级政府硬件相关的设备上使用。
+
+  @verge 尽管拜登总统签署了 TikTok“禁令”法案，但他的连任竞选活动仍将继续使用该平台。 #tiktokban #tiktok #biden #podcast #tech  ♬ 原声 - The Verge  
+
+虽然一些专家表示，没有证据表明该应用程序造成的损害或对用户隐私的风险超过我们在 Facebook 或谷歌等公司看到的情况，但政客们还是成功通过了一项措施，如果他们不能迫使 TikTok 与字节跳动分离，他们将完全禁止 TikTok。
+请继续阅读有关美国可能禁止 TikTok 的所有最新消息。]]></description>
+      <guid>https://www.theverge.com/23651507/tiktok-ban-us-news</guid>
+      <pubDate>Mon, 16 Sep 2024 14:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>北极星黎明任务可以揭示有关太空人类健康状况的信息</title>
+      <link>https://www.theverge.com/2024/9/16/24246149/polaris-dawn-spacewalk-spacex-human-health-astronauts</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24245570/apple-airpods-4-review</guid>
-      <pubDate>Mon, 16 Sep 2024 12:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/9/16/24246149/polaris-dawn-spacewalk-spacex-human-health-astronauts</guid>
+      <pubDate>Mon, 16 Sep 2024 14:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>你可能很快就会在 Threads 上看到 Instagram 评论</title>
-      <link>https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor</link>
+      <title>Apple Watch 睡眠呼吸暂停检测功能获得 FDA 批准</title>
+      <link>https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval</link>
       <description><![CDATA[
 
-插图：The Verge
+照片由 Amelia Holowaty Krales / The Verge 拍摄
 
-据 Alessandro Paluzzi 称，Instagram 可能会推出一种将其他 Instagram 帖子的评论分享到 Threads 的方法，他经常对 Meta 的社交媒体应用进行逆向工程以寻找即将推出的功能。
-Paluzzi 分享了一张图片，显示当在 Instagram 帖子上发表评论时，可能会有一个新的下拉菜单，让用户选择仅在 Instagram 上分享评论或“也在 Threads 上分享”。 
+Apple 的新款 睡眠呼吸暂停检测功能已获得食品药品管理局的批准 — Watch Series 9 或 Watch Ultra 2 用户可以从今天开始使用该功能。
+睡眠呼吸暂停是一种导致人们在睡眠期间突然停止呼吸的疾病。该新功能是作为 watchOS 11 更新的一部分推出的，它将使用 Apple Watch 的加速度计来检测睡眠期间与呼吸障碍相关的细微手腕运动。然后，Apple 将使用这些信息提醒用户可能存在中度至重度睡眠呼吸暂停。
 
 
+图片：Apple
 
-Meta 过去曾采取过一些举措将 Threads 与其其他平台整合在一起，例如在 Instagram 或 Facebook 上显示 Threads 帖子（后来，让用户选择退出）。这个类似 Twitter 的短帖社交网络也没有自己的 DM，但用户仍然可以通过 Instagram 接收或发送消息。 
-当然，更大的努力是 Meta 将 Threads 与 fediverse 整合的缓慢工作。该公司为此采取的举措包括能够实际查看 fediverse 的帖子下的回复，以及最近其他人的帖子。 
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor</guid>
-      <pubDate>Sun, 15 Sep 2024 21:58:48 GMT</pubDate>
+您可以在健康应用中查找和跟踪新的“呼吸障碍”指标，您还可以下载数据以与医生分享。苹果表示，其睡眠呼吸暂停通知算法是利用“先进的机器学习和大量临床级睡眠呼吸暂停测试数据集”开发的。
+三星 Galaxy Watch 今年早些时候也获得了 FDA 的睡眠呼吸暂停功能授权。苹果还将在即将推出的 Watch Series 10 中推出睡眠呼吸暂停检测功能，并计划在 150 多个国家和地区推出该功能。]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval</guid>
+      <pubDate>Mon, 16 Sep 2024 14:20:28 GMT</pubDate>
     </item>
     <item>
-      <title>苹果将​​为更换 iPhone 16 Pro 电池收取更多费用</title>
-      <link>https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair</link>
-      <description><![CDATA[
-
-图片：Nilay Patel
-
-Apple 已提高其电池维修服务的价格，适用于iPhone 16 Pro 和 Pro Max。现在，更换这两款手机的电池都需要花费 119 美元，比以前多了 20 美元。正如 MacRumors 所指出的，标准版和“Plus”版的价格保持不变，去年的手机也是如此。
-该公司似乎尚未开始对其他电池更换收取更高的费用，但这并不意外。 2022 年，苹果将 iPhone 14 电池维修费用上调 30 美元至 99 美元。iPad、MacBook 和旧款 iPhone 电池维修费用随后上调，Apple Watch 费用随后也上调。 （人们渴望电池的美好时光戏剧性的 29 美元电池更换！）
-
-有缺陷的电池在 Apple 的一年保修范围内，如果您的电池容量低于原始容量的 80%，则可以根据 AppleCare Plus 计划免费更换。如果价格高于这个数字，而你仍然对它的使用寿命感到失望，那么你的选择就仅限于第三方维修或使用官方 Apple 零件进行 DIY 路线，这两种方式都可能比 Apple 的全价服务更便宜。
-
-
-
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair</guid>
-      <pubDate>Sun, 15 Sep 2024 18:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flappy Bird 的原创者称他与新游戏无关</title>
-      <link>https://www.theverge.com/2024/9/15/24245216/flappy-bird-creator-dong-nguyen-not-involved-new-game</link>
-      <description><![CDATA[
-
-新版Flappy Bird将包含替代游戏模式。 |截图：Flappy Bird 基金会
-
-上周，Flappy Bird 基金会宣布推出一款名为 Flappy Bird 的游戏 。尽管该组织一直将其描述为经典手机游戏的凯旋归来，但 Flappy Bird 的原始开发者 Dong Nguyen 并没有称其为回归——事实上，他说他根本没有参与其中。
-Nguyen 今天早上在 X 上发布了同样多的内容（这是自 2017 年以来的第一次！），称他“没有卖任何东西”。 Flappy Bird 基金会在上周与媒体分享的公告中写道，它“从 Gametech Holdings, LLC 获得了权利”，而后者从 Nguyen 手中获得了该商标，但这似乎并不是他与该组织之间交易的结果。
-
-
-不，我与他们的游戏没有任何关系。我没有卖任何东西。 我也不支持加密货币。— Dong Nguyen (@dongatory) 2024 年 9 月 15 日
-
-
-Gametech 于 2023 年 对 Nguyen 的 Flappy Bird 商标提出异议，发现 X 用户Samperson。提交申请的近十年前，Nguyen撤下当时流行的游戏，并且从未发布其他版本，美国专利商标局裁定放弃他的商标，并于今年 1 月终止了他对该商标的主张。
-Flappy Bird 基金会在公告中没有说 Nguyen 参与其中，但它在推广游戏时肯定依靠怀旧情绪。该游戏的首支预告片中有超过一半的内容都讲述了该游戏人气的上升以及 2013 年突然消失的失望，然后宣布“2024 年，Flappy Bird 将再次飞翔。”
-至于这个谜题的加密部分，网络安全研究员Varun Biniwale 指出来自Flappy Bird网站的隐藏页面表明，该游戏的发布可能存在这样的组件。一个似乎已被删除的页面（存档于此处）表示，Flappy Bird 将“在 Solana 上飞得比以往更高，因为它将飞向 Web 3.0”，并邀请玩家“构建、创造、游戏和质押”。
-目前，Flappy Bird 被列为即将在 iOS 和 Android 上推出。只是不要指望它会是你所知道的 Flappy Bird — 它似乎一去不复返了。]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24245216/flappy-bird-creator-dong-nguyen-not-involved-new-game</guid>
-      <pubDate>Sun, 15 Sep 2024 14:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>《40英亩》是一部关于在末日中寻找希望的可怕寓言</title>
-      <link>https://www.theverge.com/2024/9/15/24243913/40-acres-review</link>
+      <title>飞利浦首席执行官罗伊·雅各布斯如何在重大召回事件后扭转公司局面</title>
+      <link>https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24243913/40-acres-review</guid>
-      <pubDate>Sun, 15 Sep 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview</guid>
+      <pubDate>Mon, 16 Sep 2024 14:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Evernote 的伟大重启</title>
-      <link>https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast</link>
+      <title>Netflix Geeked Week 2024：所有新闻和预告片</title>
+      <link>https://www.theverge.com/2024/9/16/24246099/netflix-geeked-week-2024-news-trailers-stranger-things-squid-game</link>
       <description><![CDATA[
 
-图片：Samar Haddad / The Verge
+插图由 Alex Castro / The Verge 提供
 
-多年来，Evernote 大象是一个真正标志性的标志。Evernote 是首批拥抱智能手机、实现跨平台同步、让存储和创建几乎任何东西变得非常容易的生产力应用程序之一。因此 Evernote 非常庞大。
-但 Evernote 的巅峰时期大约是在十年前。从那时起，该产品经常让人感觉停滞不前（甚至更糟），公司更换了高管和商业计划，Evernote 似乎正在慢慢变成一款僵尸应用。它并没有消失，甚至没有被遗忘，只是有点……在那里。
-2022 年，当 Bending Spoons 收购该公司并很快解雇了几乎所有员工时，数百万 Evernote 用户对他们长期依赖的工具的未来感到困惑。当公司几个月基本保持沉默时，情况变得更糟。但从那以后，围绕 Evernote 的叙述和节奏发生了相当大的变化。特别是在 2024 年，Evernote 推出了一系列新功能，重新设计了设计，增加了一些核心新功能，并让该应用再次焕发现代感。所有这些变化也带来了价格的变化——但并不是每个人都感到兴奋。
-
-在本期The Vergecast中，这是我们关于生产力和数字生活系列的第三期也是最后一期，我们与 Bending Spoons 的 Evernote 产品负责人 Federico Simionato 进行了交谈。我们讨论了收购过程、他如何看待当今的 Evernote、重新开始推出新产品需要什么、Bending Spoons 为何改变订阅价格等等。
-我们还讨论了 Evernote 的未来以及生产力工具的总体情况。 Evernote 已有二十多年的历史，因此充满了关于人们想要什么以及如何使用它的旧观念。Simionato 和他的团队的任务是弄清楚人工智能如何融入 Evernote，产品应如何与现有的所有其他工具集成，并将 Evernote 变成既适合老用户又吸引新用户的东西。
-
-
-
-如果您想了解有关我们在本集中讨论的内容的更多信息，以下是一些入门链接：
-
-Federico Simionato 谈 X
-从 2016 年开始：Evernote 新任首席执行官回应公司批评者：“我喜欢被低估”
-
-Jason Kincaid 的话：Evernote，一头漏洞百出的大象
-
-2022 年的话：Evernote 将被移动开发商 Bending Spoons 收购
-
-从 2023 年开始：Evernote 已解雇了大部分美国员工，并将大部分业务转移到欧洲
-
-我们的其他 Work Smarter 剧集：Google 员工完成任务的指南和生产力系统中有什么？
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24242764/evernote-future-productivity-app-vergecast</guid>
-      <pubDate>Sun, 15 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能买到的最精致的游戏机</title>
-      <link>https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer</guid>
-      <pubDate>Sun, 15 Sep 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shogun Showdown 让你感觉自己像个天才，向你展示未来</title>
-      <link>https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review</link>
-      <description><![CDATA[
-
-图片：Goblinz Publishing
-
-Shogun Showdown 有时让我绞尽脑汁。这款新的卡牌类 Roguelike 游戏完全围绕战术展开，游戏的一个关键部分是你总能看到敌人下一步的计划。有时，这让我陷入困境，我知道自己会输。但当一切顺利，我一举清除了所有人时，我觉得自己像个战略天才。
-在这款刚刚结束抢先体验的游戏中，你需要不断尝试将角色定位在一个小关卡中，以攻击敌人或躲避他们的动作。在玩游戏时，你可以升级你的“方块”（想想：卡片）以提高它们的伤害力，添加冰冻等额外技能，或降低它们的冷却时间，以便你可以更频繁地使用它们。您还可以堆叠最多三块方块，这样，只需按一下攻击按钮，您就可以发出一系列动作，一次性消灭一群坏人。
-
-
-图片：Goblinz Publishing
-由于你可以看到每个人的动作，所以通常有很多选择需要考虑。
-
-由于你可以看到敌人会做什么，所以你会不断地制定策略，是进攻还是后退以保持阵地活着。游戏可能会变得很复杂，有时感觉我必须用银河大脑思考每一个动作才能在艰难的回合中生存下来。当你完成一系列清除战场的攻击时，所有的战略都是值得的。
-下面是一个例子，说明它是如何组合在一起的。扮演初始角色“流浪者”，我一开始有一对剑，可以同时击中我左右两侧的空间，还有一支可以射穿关卡的箭。通过一些战略机动，我可以设置流浪者，让她攻击身后的坏人，然后在她面前射出一支箭，以消除地图上的所有危险。
-在每次运行中，您都有机会改进您的瓷砖，挑选新的瓷砖，并购买升级。当然，这些都是熟悉的 roguelike 陷阱，但只要稍加计划，您就可以制作一些非常强大的方块。为了赢得第一次胜利，我升级了一个箭方块，使其具有高伤害且没有冷却时间，这意味着我可以毫不费力地射出箭。
-
-
-图片：Goblinz Publishing
-大量升级！
-
-在游戏过程中，您还可以收集骷髅，这些骷髅可用于解锁新瓷砖等物品以及在物品商店购买更多物品。花费这些骷髅快速为每次通关增添了变化，我认为我还没有双倍建造过。有一次，我全力以赴地使用龙拳动作，让敌人相互飞撞，虽然这并没有让我获胜，但我喜欢在关卡间击打坏人以打开空间。
-我仍处于游戏初期，我只解锁了四个额外角色中的一个，所以我还有很多东西要看。当你完成通关时，你还可以玩更难的“日子”，增加挑战，例如更强大的敌人或更少的物品掉落。
-尽管我正在玩Astro Bot等大型游戏和长期筹备的Mass Effect三部曲，但我仍然会回到Shogun Showdown；尝试游戏中的众多武器和策略实在是太有趣了。也许是时候让我再次尝试那套龙拳构造了——或者偶然发现一些完全意想不到的东西。
-Shogun Showdown现已在 PC、Nintendo Switch、PlayStation 和 Xbox 上推出。]]></description>
-      <guid>https://www.theverge.com/2024/9/15/24243908/shogun-showdown-review</guid>
-      <pubDate>Sun, 15 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《大都市》本可以让观众在放映期间向亚当·德赖弗提问</title>
-      <link>https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions</link>
-      <description><![CDATA[
-
-亚当·德赖弗在《大都市》预告片中。 |截图：YouTube
-
-据报道，弗朗西斯·福特·科波拉希望语音识别软件能够让观众在大都市的戏剧放映期间向亚当·德赖弗饰演的凯撒提问href=&quot;https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.telegraph.co.uk%2Ffilms%2F0%2Fdirector-francis-ford-coppola-interview%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F9%2F14%2F24244876%2Fmegalopolis-voice-recognition-tech-amazon-adam-driver-questions&quot; rel=&quot;sponsored nofollow noopener&quot; target=&quot;_blank&quot;&gt;Telegraph 对导演的采访。然后，该软件会触发影院的投影仪播放一段来自 Driver 的“最相关的回应”的片段。显然，这实际上正在筹备中。亚马逊已同意制作一个“定制版 Alexa 语音识别软件”来实现这一点，但据《每日电讯报》报道，负责该软件的团队在2022 年大规模裁员期间被解雇了。唉。
-“想象一下！”科波拉笑容满面。“你可以在首映周看五次《大都市》，每次都会有所不同！这将是电影和古老戏剧的未来合二为一！”
-
-当德莱弗建议保留其中一个回答来回答引座员的预定问题时，科波拉似乎几乎完全放弃了这个想法。据《每日电讯报》报道，我们大多数人不会在当地剧院观看这部电影，但它将在“英国上映的一些电影院”上映。它还在一些Megalopolis电影节上放映。以下是Vogue 讲述 这样一个事件的节选版。
-
-在影片中间的某个地方，当 Driver 饰演的 Cesar 对着镜头讲话时，屏幕短暂地空白了。那些以为一切都结束了的人发出了稀稀落落的掌声——如果我们有这么幸运就好了——但就在灯光还暗着的时候，一个男人从侧幕跑到电影屏幕前的舞台上，手里拿着一个长长的麦克风。
-...他站在舞台的一侧，现在被聚光灯照亮，然后面对着回到屏幕上的 Driver，问了他一个问题，就像参加疫情期间的某个奇怪的 Zoom 新闻发布会一样。司机回答道，然后那名男子又冲下了舞台。这太奇怪了，感觉完全没有意义，我不知道该如何回应。
-
-Megalopolis现在正在影院上映。在买票之前，请务必阅读安德鲁·韦伯斯特的Verge评论。]]></description>
-      <guid>https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions</guid>
-      <pubDate>Sat, 14 Sep 2024 22:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局的星际航线宇航员并不觉得波音公司的航天器“失望”</title>
-      <link>https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing</link>
-      <description><![CDATA[
-
-
-美国宇航局宇航员 Suni Williams 和 Butch Wilmore 在昨天举行的新闻发布会上谈到了他们继续留在国际空间站的情况。这两人现在已完全融入国际空间站机组人员，因为原本打算上周将他们带回地球的波音星际线飞船却在无人驾驶的情况下返回地球。
-早些时候，两人被问及波音是否让他们感到“失望”。
-“绝对没有，”威尔莫尔说：
-“这项行动并不容易。NASA 做得很好——NASA 的人做得很好——让很多事情看起来很容易。将探测器发送到太阳系边缘以外的地方；进入小行星并获取样本；人类进入太空。这是一项非常危险的业务，事情并不总是如你所愿。”
-在发现星际客机的推进器问题和氦气泄漏后，NASA 决定不让两人乘坐飞船返回。但 Wilmore 表示，如果有更多时间，“我相信我们本可以乘坐星际客机返回。但我们只是没有时间了。”相反，两人成为了国际空间站机组人员的一部分。
-
-Williams 表示，Williams 很快将成为国际空间站的指挥官，她表示，向空间站机组人员的过渡“并不难”，因为她和 Wilmore 在今年早些时候的飞行之前已经为前往空间站做了多年的准备。她说，在 NASA 的 Crew-9 任务结束后，他们随后乘坐 SpaceX Dragon 太空舱返回，这对两位试飞员来说是一个独特的机会，并补充说：“我们很高兴能乘坐两艘不同的航天器；我的意思是，我们是测试人员，这就是我们的工作。” 
-两位宇航员都没有表达对在国际空间站停留更长时间的沮丧。“太空是我快乐的地方，”威廉姆斯说，“……每天你都会做一些‘工作’——你可以倒着做，也可以侧着做，所以这会增加一点不同的视角。” 
-NASA 的 Crew-9 任务将于本月晚些时候发射，预计两名宇航员最早将于明年 2 月返回地球。
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/14/24244790/nasa-starliner-astronauts-suni-williams-butch-wilmore-press-conference-boeing</guid>
-      <pubDate>Sat, 14 Sep 2024 21:48:19 GMT</pubDate>
+期待有关《怪奇物语》、《Arcane》、《鱿鱼游戏》等的新闻。 Netflix 带着 现在每年举办一次的 Geeked Week，这是一场为期一周的活动，旨在宣传其更有趣的节目、电影和游戏。这意味着您可以期待有关该流媒体服务的一些最大资产的预告片和新闻。例如，去年，我们获得了《降世神通：最后的气宗》、《冥王哈迪斯》和《三体问题》等影片。
+今年的版本也有一些重量级作品。 一段预告视频显示，我们将了解更多关于《Arcane》第二季（将于 11 月上映）、《Squid Game》（将于 12 月开始播放）和《Avatar》（该剧于 3 月份续订）。我们还可能会听到有关该服务稳步增长的游戏产品的消息，其中最引人注目的是即将推出的纪念碑谷 3。预告片还暗示我们最终会得到一些《怪奇物语》的新闻——距离上一季已经过去整整两年了。
+本周将包括每日在线公告，最终将于 9 月 19 日美国东部时间晚上 8 点举行现场活动。但您可以在此处关注所有重要新闻、公告和预告片。]]></description>
+      <guid>https://www.theverge.com/2024/9/16/24246099/netflix-geeked-week-2024-news-trailers-stranger-things-squid-game</guid>
+      <pubDate>Mon, 16 Sep 2024 14:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
