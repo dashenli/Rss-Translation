@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Sep 2024 21:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:13:56 GMT</lastBuildDate>
+    <item>
+      <title>你可能很快就会在 Threads 上看到 Instagram 评论</title>
+      <link>https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+据 Alessandro Paluzzi 称，Instagram 可能会推出一种将其他 Instagram 帖子的评论分享到 Threads 的方法，他经常对 Meta 的社交媒体应用进行逆向工程以寻找即将推出的功能。
+Paluzzi 分享了一张图片，显示当在 Instagram 帖子上发表评论时，可能会有一个新的下拉菜单，让用户选择仅在 Instagram 上分享评论或“也在 Threads 上分享”。 
+
+
+
+Meta 过去曾采取过一些举措将 Threads 与其其他平台整合在一起，例如在 Instagram 或 Facebook 上显示 Threads 帖子（后来，让用户选择退出）。这个类似 Twitter 的短帖社交网络也没有自己的 DM，但用户仍然可以通过 Instagram 接收或发送消息。 
+当然，更大的努力是 Meta 将 Threads 与 fediverse 整合的缓慢工作。该公司为此采取的举措包括能够实际查看 fediverse 的帖子下的回复，以及最近其他人的帖子。 
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/15/24245679/meta-share-instagram-comments-threads-feature-rumor</guid>
+      <pubDate>Sun, 15 Sep 2024 21:58:48 GMT</pubDate>
+    </item>
     <item>
       <title>苹果将​​为更换 iPhone 16 Pro 电池收取更多费用</title>
       <link>https://www.theverge.com/2024/9/15/24245431/iphone-16-pro-max-battery-replacement-price-increase-apple-repair</link>
@@ -183,31 +202,6 @@ GameCube 控制器，后改装。 |图片：8BitDo
 8BitDo 表示将于 9 月 25 日开始发售新的 mod 套件。 ]]></description>
       <guid>https://www.theverge.com/2024/9/14/24244670/8bitdo-mod-kit-gamecube-controller-bluetooth-hall-effects-joystick</guid>
       <pubDate>Sat, 14 Sep 2024 19:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 iFixit 最新拆解中的 Pixel 9 Pro Fold 内部结构</title>
-      <link>https://www.theverge.com/2024/9/14/24244590/google-pixel-9-pro-fold-teardown-x-ray-ct-scan-repairability</link>
-      <description><![CDATA[
-
-照片：Allison Johnson / The Verge
-
-由 iFixit 提供，Google Pixel 9 Pro Fold 的新拆解视频揭示了可修复性倡导组织的 Shahram Mokhtari 所说的话是“我们在 iFixit 拆解台上见过的最令人兴奋的可折叠手机。” 
-iFixit 在视频中提供了手机内部非常清晰的照片，其随附的博客文章，以及一些非常详细的可折叠手机Lumafield CT 扫描。Mokhtari 在视频中指出，谷歌正在提供官方维修指南和手机替换部件。 
-
-iFixit 发现 Pixel 9 Pro Fold 具有令人印象深刻的模块化设计，包括易于拆卸的可穿戴部件，如 USB-C 端口和 SIM 卡托，该网站称赞了整个过程中 3IP 螺钉的使用。维修专家还能够仅使用撬具拉下外屏和后盖——无需热风枪。
-
-
-照片：iFixit
-iFixit 无法仅使用拉环取出电池。
-
-iFixit 唯一的批评是，无法使用下方的拉环取出 4.68Wh 和 13.4Wh 电池。Mokhtari 还指出，他无法在不破坏折叠屏幕的情况下将其取下。 
-
-
-GIF：Pixel 9 Pro Fold CT 扫描结果
-
-除了包含这款手机的精美旋转 GIF 外，iFixit 的 博客文章包含 Pixel 9 Pro Fold 的可缩放、可旋转交互式扫描图，以实现最大程度的技术窥视。只需滚动到底部即可找到。]]></description>
-      <guid>https://www.theverge.com/2024/9/14/24244590/google-pixel-9-pro-fold-teardown-x-ray-ct-scan-repairability</guid>
-      <pubDate>Sat, 14 Sep 2024 16:23:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
