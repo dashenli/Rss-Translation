@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:58:28 GMT</lastBuildDate>
+    <item>
+      <title>AI训练数据收集正在进入一个新时代。行业组织倡导“道德”选择加入方法</title>
+      <link>https://wired.jp/article/dataset-providers-alliance-ethical-generative-ai-licensing/</link>
+      <description><![CDATA[数据集提供商联盟（DPA）是一个行业组织，旨在要求人工智能行业公平获取数据。该公司正在推广一种选择加入格式，而不是一些人工智能公司引入的选择退出方法，该格式仅在版权所有者同意的情况下才允许使用数据。]]></description>
+      <guid>https://wired.jp/article/dataset-providers-alliance-ethical-generative-ai-licensing/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sakana AI 的“AI 科学家”未经许可更改自己的代码——潜在危险</title>
+      <link>https://wired.jp/article/sz-research-ai-model-unexpectedly-modified-its-own-code-to-extend-runtime/</link>
+      <description><![CDATA[据称，Sakana AI 自主进行科学研究的“AI 科学家”在面临强加的时间限制时，会随意编辑代码以增加时间限制，而不是试图缩短执行时间。人工智能有哪些危险，包括这些意外情况？]]></description>
+      <guid>https://wired.jp/article/sz-research-ai-model-unexpectedly-modified-its-own-code-to-extend-runtime/</guid>
+      <pubDate>Mon, 16 Sep 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>工作是“证券”吗？ NFT 艺术家提起的诉讼要求什么</title>
       <link>https://wired.jp/article/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>记忆被存储在多个副本中并随着时间的推移而改变</title>
       <link>https://wired.jp/article/brain-creates-three-copies-for-a-single-memory/</link>
-      <description><![CDATA[新的研究表明，在海马体（大脑中负责记忆的部分）中，单个事件至少由三组不同的神经元记忆。这种机制可以让大脑灵活地重写记忆副本并适应环境的变化。]]></description>
+      <description><![CDATA[新的研究表明，在海马体（大脑中负责记忆的部分）中，至少三个不同的神经元组会记住单个事件。这种机制可以让大脑灵活地重写记忆副本并适应环境的变化。]]></description>
       <guid>https://wired.jp/article/brain-creates-three-copies-for-a-single-memory/</guid>
       <pubDate>Sat, 14 Sep 2024 08:00:00 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>主编致SZ会员：“田园养鸡的悲哀”SZ通讯VOL.253</title>
       <link>https://wired.jp/article/sz-newsletter-253/</link>
-      <description><![CDATA[我在花园里养的鸡死了。 再次，在21世纪的日本，田鸡养殖是利用自然还是驯服自然？主编致SZ会员的通讯。]]></description>
+      <description><![CDATA[我在花园里养的鸡死了。 再说一遍，21世纪日本的田鸡养殖是利用自然还是驯服自然？主编致SZ会员的通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-253/</guid>
       <pubDate>Fri, 13 Sep 2024 22:00:00 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>我辞职后，公司聘请了一名AI解说员。</title>
       <link>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</link>
-      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这家从未被认为是“前沿”的报纸成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
+      <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这份从来不被认为是前沿的报纸，成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
       <guid>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</guid>
       <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[DRACO 是由 NASA 和 DARPA 领导的一个项目，旨在利用创新的核推进技术大幅加速人类对火星的探索。通过将到达火星的时间从六个月缩短到45天，它正在开创太空探索的新时代。]]></description>
       <guid>https://wired.jp/article/sz-were-building-thermonuclear-spaceships-again-this-time-for-real/</guid>
       <pubDate>Thu, 12 Sep 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>剩下的 3 款带有 Apple Lightning 端口的产品是什么？</title>
-      <link>https://wired.jp/article/only-three-products-still-use-lightning-apples-lightning-connector/</link>
-      <description><![CDATA[AirPods Max 终于升级了 USB-C 端口。不过，少数苹果产品仍然保留了Lightning端口。你能猜出“三人组”吗？]]></description>
-      <guid>https://wired.jp/article/only-three-products-still-use-lightning-apples-lightning-connector/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊强化AI机器人技术，开启仓储革命新篇章</title>
-      <link>https://wired.jp/article/amazon-covariant-robotics-deal/</link>
-      <description><![CDATA[亚马逊收购了 Covariant，这是一家正在开发可以抓取物体的机械臂的初创公司。这可能会导致亚马逊仓库运营的进一步自动化。]]></description>
-      <guid>https://wired.jp/article/amazon-covariant-robotics-deal/</guid>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
