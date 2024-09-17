@@ -3,8 +3,15 @@
   <channel>
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自 2009 年以来，一直致力于为网络专业人士提供灵感和最新资讯</description>
-    <lastBuildDate>Mon, 16 Sep 2024 12:32:35 GMT</lastBuildDate>
+    <description>自 2009 年以来，一直致力于推动网络创意</description>
+    <lastBuildDate>Tue, 17 Sep 2024 12:31:11 GMT</lastBuildDate>
+    <item>
+      <title>集体#864</title>
+      <link>https://tympanus.net/codrops/collective/collective-864/</link>
+      <description><![CDATA[Web 上的 ES5 现状 * CSS 显示内容 * 重新绘制]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-864/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚焦：Andrea Jelić</title>
       <link>https://tympanus.net/codrops/2024/09/16/designer-spotlight-andrea-jelic/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何在 React-Three-Fiber 中创建自定义抖动着色器，灵感来自 PS1 时代游戏的视觉风格，为 3D 模型添加复古美感。]]></description>
       <guid>https://tympanus.net/codrops/2024/09/03/how-to-create-a-ps1-inspired-jitter-shader-with-react-three-fiber/</guid>
       <pubDate>Tue, 03 Sep 2024 09:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#860</title>
-      <link>https://tympanus.net/codrops/collective/collective-860/</link>
-      <description><![CDATA[React 正在成为全栈框架 * Zen 浏览器 * 并行 DOM]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-860/</guid>
-      <pubDate>Fri, 30 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
