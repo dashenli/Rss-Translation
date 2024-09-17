@@ -4,129 +4,157 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Sep 2024 15:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 18:21:03 GMT</lastBuildDate>
     <item>
-      <title>Epomaker 的 TH80 Pro 是我们预算最高的机械键盘选择，价格比以往任何时候都便宜</title>
-      <link>https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale</link>
+      <title>Snap 的新款 Spectacles 距离引人注目的 AR 更近一步</title>
+      <link>https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24246708/epomaker-th80-pro-amazon-echo-hub-deal-sale</guid>
-      <pubDate>Tue, 17 Sep 2024 15:11:06 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel</guid>
+      <pubDate>Tue, 17 Sep 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>MoviePass 前首席执行官承认 9.95 美元“无限量”门票计划是欺诈行为</title>
-      <link>https://www.theverge.com/2024/9/17/24247051/moviepass-ceo-mitch-lowe-guilty-plea-fraud</link>
+      <title>首款 Thunderbolt 5 扩展坞似乎已经问世</title>
+      <link>https://www.theverge.com/2024/9/17/24247303/kensington-thunderbolt-5-dock-sd5000t5-eq-price-release-date</link>
       <description><![CDATA[
 
-Mitch Lowe 出现在 HBO 的 MoviePass、MovieCrash 纪录片中。 |图片：HBO
+Kensington SD5000T5。 |图片：Kensington
 
-MoviePass 前首席执行官 Mitch Lowe 周一承认犯有证券欺诈罪，罪名是参与一项误导投资者的计划，早前由Variety报道 和The Hollywood记者。Lowe 承认对每月 9.95 美元的套餐的可持续性作出了虚假陈述，该套餐承诺“无限次”观看影院电影。
-Lowe 于 2016 年接任 MoviePass 首席执行官，并于 2017 年开始允许用户通过无限订阅每天观看一部电影。但这种烧钱策略最终导致了 MoviePass 的倒闭，该服务于 2019 年关闭，随后申请破产。 
+第一批 Thunderbolt 5 线缆于 7 月上市，现在看来我们终于拿到了第一款 Thunderbolt 5 基座！ Kensington 刚刚宣布英特尔认证的 SD5000T5 EQ 现已上市，似乎在 120Gbps 单线对接方面击败了所有竞争对手。（我刚刚查过：Hyper、J5Create 和 OWC 的基座尚未上市。）
+新基座声称在 Windows 上最多支持三台 4K 显示器或两台 8K 显示器，或在配备 M1 Pro 或更高芯片的 MacBook Pro 上支持双 6K 显示器。它还为连接的外围设备提供高达 120Gbps 的速度——假设您的计算机有 Thunderbolt 5 端口。我们上次检查时发现，只有 售价 4,500 美元的 Razer Blade 18 单个版本有该端口，不过 PCWorld 指出 售价 3,899 美元的 Maingear ML-17 现在也有一个。
+但即使你还没有 Thunderbolt 5，Kensington 还有另一个绝招端口。它是为数不多的（也许是唯一的？）提供 140W USB-C PD 充电的 Thunderbolt 基座之一，以防您有一台可以使用这么多电量的笔记本电脑。
+16 英寸 MacBook Pro 不会获得 140 瓦的功率，因为​​它仅支持通过 MagSafe 充电 140W，而 MagSafe 不会传输数据 - 但它应该至少为您提供 100W 的功率。
+从技术上讲，USB-C PD 标准现在已达到 240W，但尚未有公司推出接近的充电器，而基座通常最高为 100W。 HP 和 联想的底座可提供 230W 的单根电缆，但这些电缆有两个头，适用于特定的工作站笔记本电脑，而不是标准化的 USB-C 笔记本电脑。
+Thunderbolt 5 只有在我们能够充分利用其速度时才会真正令人兴奋——据我所知，目前还没有 Thunderbolt 5 存储驱动器发货。但 OWC 刚刚开放了 Envoy Ultra 的预订，该款产品声称传输速度为 6,000MB/秒，预计发布日期为 2024 年 10 月。 
 
-在 2021 年与联邦贸易委员会达成和解之后，一年后，美国证券交易委员会起诉 Lowe 和 MoviePass 母公司 Helios and Matheson Analytics (HMNY) 的前首席执行官 Ted Farnsworth。该机构指控两人就无限订阅问题撒谎，以人为抬高 HMNY 的股价：
-这些陈述是为了人为抬高 HMNY 的股价并以欺诈手段吸引新投资者而做出的，具有重大虚假和误导性......事实上，正如同谋者 1 [Farnsworth] 和 LOWE 所知...... 9.95 美元的“无限”计划是一种临时的营销噱头，旨在推动用户增长，而 MoviePass 正因此而亏损。
-除了 25 万美元的罚款外，Lowe 还面临最高五年的监禁（尽管据 THR 报道，由于他配合调查，预计刑期会较轻）。 Farnsworth 仍被联邦拘留，其因证券欺诈罪的审判定于 2025 年 3 月举行。 
-“Mitch 是个好人，他希望继续自己的生活，”Lowe 的律师 Margot Moss 和 David Oscar Markus 在给《综艺》杂志的一份声明中表示。 “他已经对自己在本案中的行为承担了责任，并将继续努力纠正错误。”
-MoviePass 去年重新启动了——虽然它仍然提供每月 10 美元的套餐，但现在对您可以观看的电影数量进行了限制。
 
+图片：OWC
+OWC Envoy Ultra。
+
+此外，如果价格下降，也会有所帮助！新的 Kensington 底座将于本月晚些时候以 400 美元的价格发货，OWC Envoy Ultra 2TB 售价 400 美元，4TB 售价 600 美元。它将于“十月下旬”上市。
 ]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247051/moviepass-ceo-mitch-lowe-guilty-plea-fraud</guid>
-      <pubDate>Tue, 17 Sep 2024 15:08:34 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/9/17/24247303/kensington-thunderbolt-5-dock-sd5000t5-eq-price-release-date</guid>
+      <pubDate>Tue, 17 Sep 2024 17:26:05 GMT</pubDate>
     </item>
     <item>
-      <title>Uber 现在将对乘客进行验证，以确保司机的安全</title>
-      <link>https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety</link>
+      <title>Snapchat 的 AI 自拍功能会将你的脸放在个性化广告中——以下是如何关闭它</title>
+      <link>https://www.theverge.com/2024/9/17/24247238/snapchat-ai-my-selfie-feature-face-personalized-ads</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-Uber 宣布了一项新的乘客验证功能，旨在让司机和快递员对客户更加放心。 
-这家拼车公司已尝试通过各种方法（包括安全检查、PIN 验证和乘车录音）在其平台上打击欺诈并提高安全性。但到目前为止，这些努力大多侧重于乘客的安全，而非司机的安全。一些司机敦促 Uber 为他们做更多事情，这促使 Uber 今天宣布了一项新的乘客验证流程。 
+如果您尝试过 Snapchat 的 AI 生成的自拍照，您可能需要仔细检查允许 Snap 在“个性化赞助内容和广告”中使用您的脸部的设置，由404 Media发现。
+该功能称为“My Selfie”，可让您和您的朋友根据您在 Snapchat 上分享的照片创建 AI 生成的您自己的图像。首次使用该功能时，Snapchat 会提示您同意包括在广告中使用“您（或您的肖像）”的条款：
+您还承认并同意，通过使用 My Selfie，您（或您的肖像）也可能出现在个性化赞助内容和广告中，这些内容和广告只有您才能看到，其中包括 Snap 或其业务合作伙伴的品牌或其他广告内容，而无需向您支付任何报酬。 
+
+虽然你可以将“在广告中查看我的自拍”设置切换为关闭，但404 Media报告称，一旦你同意 Snap 的条款，该设置就会默认启用（The Verge也证实了这一点）。
+要查看你是否已启用该设置，请选择 Snapchat 左上角的个人资料照片，点击右上角的设置齿轮，然后选择我的自拍。从这里，关闭在广告中查看我的自拍设置。
  
 
+截图：The Verge
 
 
-所有 Uber 客户的个人信息（如姓名和电话号码）都将与第三方数据库进行交叉核对，以确保不存在任何潜在的危险信号。此外，乘客可以选择将政府颁发的身份证件上传到 Uber 应用程序以进一步验证其身份。一旦通过验证，客户的账户上就会有一个特殊徽章，司机在接受行程请求之前可以看到这个徽章。 
-今天在华盛顿特区举行的安全活动中，Uber 首席执行官 Dara Khosrowshahi 表示，该公司已禁止了大约 15,000 个乘客账户，原因是他们被发现使用虚假和不恰当的名字。今天宣布的这些变化旨在让司机更有信心，相信他们在接受行程或送货请求时不会被骗或成为目标。 
-“我们认识到，在当今世界，驾驶和配送面临着诸多挑战，我们希望你们知道，我们会支持你们，”Khosrowshahi 对参加活动的司机们说道。
-Uber 今年早些时候开始在多个城市测试乘客验证，并对结果感到满意：“这些试点市场的‘大多数乘客’都得到了验证，而那些通过验证的乘客‘往往更经常给司机打 5 星’，”该公司表示。“经过验证的乘客收到的司机严重投诉也更少。”
-Uber 希望乘客验证能提供另一层保护，以保护司机，从很多方面来说，司机都是公司的核心客户。虽然乘客往往变化无常，会根据等待时间或价格在应用程序之间切换，但司机更有可能坚持使用支付给他们最多的平台。司机们一直觉得自己在 Uber 面前没有发言权，经常抱怨停用政策，并呼吁提供更可靠的司机支持服务。 
-就 Uber 而言，它表示愿意接受司机寻求的改变。 2019 年，该公司开始停用那些一直得到司机差评的乘客。 Uber 还为乘客制定了一系列社区准则，其中包括许多可怕的行为，这些行为会导致您被禁止使用该平台。
-在司机活动中​​，科斯罗萨西表示，公司致力于与司机保持开放的对话。“请放心，我们会支持您，我们会倾听，”他说。“我们致力于改进。”
-9 月 17 日更正：本文的先前版本错误地报道了新乘客验证流程的哪些方面是自愿的。虽然乘客可以自愿将政府颁发的身份证件上传到 Uber 应用程序，但该公司现在会自动将所有个人信息与第三方数据库进行交叉核对。]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24246397/uber-rider-verification-fraud-driver-safety</guid>
-      <pubDate>Tue, 17 Sep 2024 14:30:00 GMT</pubDate>
+尽管 Snap 可能会在仅向您展示的个性化广告中使用您的脸部，但该公司表示不会与第三方共享您的数据广告商。
+“广告商无权以任何方式访问 Snapchatters 的 Gen AI 数据，包括 My Selfies，也无法访问 Snapchatters 的私人数据，包括 Memories，这些数据将使他们能够创建 AI 生成的个人 Snapchatter 图像，”Snapchat 发言人 Maggie Cherneff 告诉 The Verge。Cherneff 补充说，Snap 目前也不在广告中使用 My Selfies。
+9 月 17 日更新：添加了来自 Snapchat 的声明。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247238/snapchat-ai-my-selfie-feature-face-personalized-ads</guid>
+      <pubDate>Tue, 17 Sep 2024 17:25:51 GMT</pubDate>
     </item>
     <item>
-      <title>在美国诉谷歌案中，YouTube 首席执行官为谷歌方式辩护</title>
-      <link>https://www.theverge.com/2024/9/17/24247066/neal-mohan-us-v-google-testimony</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247066/neal-mohan-us-v-google-testimony</guid>
-      <pubDate>Tue, 17 Sep 2024 13:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最好的 iPad 优惠</title>
-      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
-      <pubDate>Tue, 17 Sep 2024 13:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games Store 登陆欧盟 iPad</title>
-      <link>https://www.theverge.com/2024/9/17/24247062/epic-games-store-ipad-eu-fortnite</link>
+      <title>Snapchat 正在进行多年来最大规模的重新设计</title>
+      <link>https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight</link>
       <description><![CDATA[
 
-图片：Epic Games
+全新“简易 Snapchat”。 |图片：Snap
 
-Epic Games Store 已登陆 iPad，可供欧盟用户使用，让像Fortnite和Fall Guys可从该设备玩。
-此次发布是周一iPadOS 18 更新的一部分，该更新允许欧盟用户从 iPad 上的第三方应用商店下载应用程序。 Epic Games Store — 以及其他几个替代应用市场 — 上个月在欧盟在 iPhone 上推出。
+Snapchat 正在进行多年来最大规模的重新设计，将五个标签简化为三个：一个用于与朋友发送消息和分享故事，一个用于相机，另一个用于类似 TikTok 的创作者和发布者的全屏视频推送。
+这项名为“简约 Snapchat”的重新设计于周二在洛杉矶举行的 Snap 年度合作伙伴峰会上宣布。“它让故事更接近对话，简化了内容发现，让人们直接进入我们的相机来表达自己，”Snap 首席执行官 Evan Spiegel 告诉 The Verge。
+到目前为止，Snapchat 有五个主要标签：Snap 地图、私人聊天、相机、故事和 Spotlight，后者是 TikTok 和 Instagram Reels 的竞争对手。一旦此重新设计推广到 Snapchat 的 8.5 亿用户，Snap Map 将可通过消息选项卡访问，同时还可访问您关注的朋友和创作者的故事。
+相机右侧将是来自出版商和创作者的全新、统一的 For You 全屏视频推送。在这里，Snap 基本上将 Spotlight 与《华尔街日报》和《每日邮报》等媒体品牌的内容合并在一起。该公司的大部分收入来自围绕这些内容投放的广告，因此它正在缓慢地推出重新设计，以便“我们能够真正了解内容动态的任何变化”，Spiegel 表示。
 
 
-在欧盟哪里可以找到 Epic Games Store？✅ PC✅ Mac✅ Android✅ iPhone✅ 现在...iPad！ 立即下载并安装 iPadOS 18：https://t.co/u1wKQ9bxks pic.twitter.com/ArCdcddGVl— Epic Games Store (@EpicGames) 2024 年 9 月 16 日
+GIF：Snap
 
-
-指定iPadOS 作为《数字市场法》下的一项“守门人”服务，欧盟给了苹果公司六个月的时间来遵守法规。就像在 iPhone 上一样，Apple 必须让欧盟的 iPad 用户选择默认浏览器并卸载内置应用程序。
-除了 Epic Games Store 之外，第三方市场 AltStore PAL（现在免费下载）也已登陆 iPad，提供对复古任天堂游戏模拟器 Delta 等的访问。]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247062/epic-games-store-ipad-eu-fortnite</guid>
-      <pubDate>Tue, 17 Sep 2024 13:22:11 GMT</pubDate>
+这次重新设计的高层目标是让 Snapchat 更易于访问，并成为一种有吸引力的观看视频的方式，而您通常会在 TikTok 或 Instagram 上观看这些视频。 Spiegel 还认为，这将为 Snap 的创作者带来更好的业务，他们每月在应用中分享的内容超过 10 亿条。 
+“创作者做得非常有效的一件事就是使用短视频来扩大他们的故事受众，然后通过我们的收入分成计划将故事货币化，”他说。“我认为，有了这种应用布局，这将变得更加容易，来自您朋友或您关注的创作者的故事会实时显示在聊天页面上，然后您可以在第三个选项卡上全屏发现新的创作者或新内容。”]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight</guid>
+      <pubDate>Tue, 17 Sep 2024 17:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌概述了帮助您区分真假图像的计划</title>
-      <link>https://www.theverge.com/2024/9/17/24247004/google-c2pa-verify-ai-generated-images-content</link>
+      <title>《最终幻想 16》制作人希望大家不要对模组抱有太大期待</title>
+      <link>https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods</link>
       <description><![CDATA[
 
-插图：The Verge
+图片：Square Enix
 
-Google 计划推出一项技术，可以识别照片是用相机拍摄的、通过 Photoshop 等软件编辑的还是由生成式 AI 模型制作的。 在接下来的几个月中，Google 的搜索结果将包含更新的“关于此图片功能”，以便让人们知道图片是否是使用 AI 工具创建或编辑的。
-Google 使用的系统是内容来源和真实性联盟 (C2PA) 的一部分，该联盟是试图解决 AI 生成图像的最大组织之一。C2PA 的身份验证是一种技术标准，其中包括有关图片来源的信息，并可在硬件和软件上工作以创建数字踪迹。亚马逊、微软、Adobe、Arm、OpenAI、英特尔、Truepic 和谷歌都支持 C2PA 身份验证，但采用速度缓慢。谷歌与搜索结果的整合将是该计划面临的第一个重大考验。
-谷歌帮助制定了最新的 C2PA 技术标准（版本 2.1），并将与即将发布的 C2PA 信任列表一起使用，该列表允许谷歌搜索等平台确认内容的来源。“例如，如果数据显示图像是由特定型号的相机拍摄的，信任列表有助于验证这条信息是否准确，”谷歌信任与安全副总裁 Laurie Richardson 说。
+《最终幻想 16》 今日在 PC 上发布，其制作人要求玩家对此保持冷静。在接受 PC Gamer 采访时，吉田直树 (Naoki Yoshida) 严重低估了互联网上的集体愤怒，他要求粉丝们不要为游戏创建“冒犯性或不适当的”模组。 
+祝你好运，伙计。
+PC 游戏的传统观点认为，一旦游戏在 PC 上发布，各种改装恶作剧的视频剪辑开始流传只是时间问题。当然，吉田可能不是在谈论那种将其中一个主角变成巨婴的改装。相反，他更关心的是“更刺激”的改装，当有亲戚走进房间时，你会按下 Alt-Tab 切换到猫的图片。 
+我们不知道吉田是否真心希望模组社区能够有所克制，还是他只是在吹捧公司路线。2018 年《最终幻想 XV》在 PC 上发布时，总监 Hajime Tabata 也表达了类似的想法。 在接受GameSpot采访时，他表示希望粉丝们能够“以良好的品味”利用游戏的模组功能。
+尽管如此，要求互联网——这个纯洁的堡垒——不要对一款以这一大杯 X-Potion为主角的游戏进行色情模组，就像要求陆行鸟不要“kweh”一样。
 
-谷歌还计划将 C2PA 元数据集成到其广告系统中。 “我们的目标是随着时间的推移逐步完善这一技术，并使用 C2PA 信号来指导我们如何执行关键政策，”Richardson 说道。“我们还在探索当使用相机拍摄内容时向 YouTube 上的观众传递 C2PA 信息的方法，我们将在今年晚些时候对此进行更多更新。”
-虽然谷歌是首批采用 C2PA 身份验证标准的大型科技公司之一，但要想让这一技术在各种硬件和软件上发挥作用，还需面临大量的采用和互操作性挑战。只有少数徕卡和索尼相机支持 C2PA 的开放技术标准，该标准将相机设置元数据以及拍摄照片的数据和位置添加到照片中。尼康和佳能都承诺采用 C2PA 标准，我们仍在等待苹果和谷歌是否会在 iPhone 和 Android 设备中实现 C2PA 支持。
-Adobe 的 Photoshop 和 Lightroom 应用程序可以添加 C2PA 数据，但 Affinity Photo、Gimp 和许多其他应用程序则不能。在将数据添加到照片后，如何查看数据也存在挑战，大多数大型在线平台都不提供标签。不过，谷歌在搜索结果中的采用可能会鼓励其他公司推出类似的标签。
-“建立和标示内容来源仍然是一项复杂的挑战，需要根据产品或服务进行一系列考虑，”Richardson 承认。“虽然我们知道没有适用于所有在线内容的灵丹妙药，但与业内其他人合作对于创建可持续且可互操作的解决方案至关重要。”]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247004/google-c2pa-verify-ai-generated-images-content</guid>
-      <pubDate>Tue, 17 Sep 2024 13:00:00 GMT</pubDate>
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods</guid>
+      <pubDate>Tue, 17 Sep 2024 17:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 将为青少年提供一个更加私密、限制更多的新账户</title>
-      <link>https://www.theverge.com/2024/9/17/24246423/instagram-teen-account-private-restrictive</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24246423/instagram-teen-account-private-restrictive</guid>
-      <pubDate>Tue, 17 Sep 2024 12:03:31 GMT</pubDate>
+      <title>Meta 将雷朋智能眼镜交易延长至 2030 年以后</title>
+      <link>https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+Meta 和眼镜集团 EssilorLuxottica 计划在“下一个十年”合作开发智能眼镜。两家公司今天宣布一项长期协议，以延长自 2019 年以来的合作伙伴关系，并已推出两两代雷朋智能眼镜。
+此次合作帮助 Meta 制造出以其独特风格脱颖而出的智能眼镜风格
+到目前为止，此次合作已帮助 Meta 制造出风格出众的智能眼镜。看起来 Meta 希望在其下一代镜架中延续这一趋势。除了雷朋 (Ray-Ban)，EssilorLuxottica 还拥有 Oakley，并与范思哲 (Versace)、普拉达 (Prada)、香奈儿 (Chanel) 等奢侈品牌签订了许可协议。
+
+“我对我们未来的长期路线图感到兴奋。我们有机会将眼镜变成下一个主要的技术平台，并在此过程中使其变得时尚，”Meta 首席执行官马克·扎克伯格在新闻稿中表示。
+我的同事 Victoria Song 在去年的雷朋智能眼镜评论中对此进行了最精彩的阐述：
+与任何其他类型的小工具相比，智能眼镜必须看起来更时尚。人性是虚荣的。如果眼睛是心灵的窗户——当然，你希望你的眼镜是一副迷人的窗帘。 Ray Ban 在这方面表现不错，因为它是一个标志性的时尚品牌，而 Wayfarers 眼镜几乎是你能找到的最能讨人喜欢的普遍镜架。如果你戴上它不好看，你就不会戴它。
+Snap 预计将于今天在洛杉矶峰会上发布其第五代 Spectacles。据The Verge的 Alex Heath称，Meta 可能还会在下周于加利福尼亚州门洛帕克举行的一次会议上展示其新的 AR 眼镜。
+
+
+雷朋 Meta 智能眼镜是一个转折点
+]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica</guid>
+      <pubDate>Tue, 17 Sep 2024 17:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Watch Series 10 评测：超时尚的外形</title>
-      <link>https://www.theverge.com/24246464/apple-watch-series-10-review-smartwatch-wearables</link>
+      <title>捍卫 iPhone 操作按钮</title>
+      <link>https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24246464/apple-watch-series-10-review-smartwatch-wearables</guid>
-      <pubDate>Tue, 17 Sep 2024 12:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples</guid>
+      <pubDate>Tue, 17 Sep 2024 16:26:47 GMT</pubDate>
     </item>
     <item>
-      <title>苹果为何没有计划推出 AirPods Max？</title>
-      <link>https://www.theverge.com/2024/9/17/24242378/airpods-max-usb-c-unchanged-missing-features</link>
+      <title>真主党遭袭，传呼机爆炸，造成至少 8 人死亡，数千人受伤</title>
+      <link>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</link>
+      <description><![CDATA[
+
+9 月 17 日，救护车将伤员送往黎巴嫩南部城市赛达的一家医院。 |照片由 Mahmoud Zayyat / AFP via Getty Images 拍摄
+
+据报道，周二，黎巴嫩和叙利亚的寻呼机爆炸，造成数千人受伤，这次袭击似乎是针对真主党成员的，报道路透社 和其他新闻机构。黎巴嫩卫生部长 Firass Abiad 表示，至少有 8 人（包括一名儿童）死亡，约 2,800 人受伤，据 CNN 报道。
+爆炸发生之际，真主党已与以色列交战数月，恰逢以色列与哈马斯在加沙地带的战争，而就在爆炸发生前一天，以色列国防部长 Yoav Gallant 表示与该组织达成外交解决方案的时间“不多了”。 CNN 报道，以色列国防军表示不会对爆炸事件发表评论。
+路透社和 华尔街日报援引匿名消息人士的话称，爆炸的寻呼机是该组织最近收到的一批新货的一部分，有些人感觉到设备在发热，然后在爆炸前将其丢弃。我们尚未看到任何关于这些装置可能如何被篡改以使其爆炸或如何被触发的确认细节的报告。
+爆炸及其后果的视频已在新闻网络和社交媒体上广泛传播（警告：以下视频显示有人在袭击中受伤）。其中一个视频显示一名男子在商店结账时低头查看他的传呼机，然后传呼机爆炸，将他向后飞去。另一段来自市场的监控视频由纽约时报 发布，显示当地时间下午 3:30 左右，一名男子包里的装置爆炸，导致其受伤。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</guid>
+      <pubDate>Tue, 17 Sep 2024 16:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 中的绿色气泡如何升级</title>
+      <link>https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24242378/airpods-max-usb-c-unchanged-missing-features</guid>
-      <pubDate>Tue, 17 Sep 2024 11:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded</guid>
+      <pubDate>Tue, 17 Sep 2024 16:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 macOS 终端以及它的用途</title>
+      <link>https://www.theverge.com/24246585/macos-apple-terminal-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24246585/macos-apple-terminal-how-to</guid>
+      <pubDate>Tue, 17 Sep 2024 15:51:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
