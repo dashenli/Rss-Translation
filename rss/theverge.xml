@@ -4,7 +4,84 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Sep 2024 18:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 21:14:55 GMT</lastBuildDate>
+    <item>
+      <title>SocialAI：我们尝试了 Twitter 克隆版，不允许其他人进入</title>
+      <link>https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots</guid>
+      <pubDate>Tue, 17 Sep 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的新模型更善于推理，偶尔也会欺骗</title>
+      <link>https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment</guid>
+      <pubDate>Tue, 17 Sep 2024 20:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 上的 RCS 文本目前尚未加密，但这种情况可能会改变</title>
+      <link>https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+GSM 协会是制定 RCS 标准的组织，周二表示，正在努力在 Android 和 iPhone 之间发送的消息上启用端到端加密 (E2EE)。E2EE 可防止第三方（如您的消息服务或移动运营商）查看您的短信。
+在公告中，GSMA 技术总监 Tom Van Pelt 表示，RCS Universal Profile 的下一个里程碑是“首次在不同计算平台之间部署标准化、可互操作的消息加密”。此举将有助于弥合互操作性方面的重大差距——尤其是现在苹果已经加入了 RCS。
+周一，苹果的 iOS 18 更新将发送给 Android 用户的短信替换为 RCS 消息。虽然这一变化并没有消除绿色气泡，但它将最终允许跨平台用户共享高分辨率媒体，以及查看已读回执和输入指示器。但苹果的 RCS 实现缺少一个关键功能：E2EE。
+
+目前，并非所有 RCS 提供商都提供 E2EE。Google Messages 是例外之一，因为它去年开始默认为 RCS 对话启用 E2EE。苹果专有的 iMessage 系统也启用了 E2EE，但它不会对 RCS 消息应用相同的保护。
+“我们认为 E2EE 是安全消息传递的重要组成部分，我们一直在与更广泛的生态系统合作，尽快将跨平台 E2EE 引入 RCS 聊天，”谷歌总经理 Elmar Weber 在 LinkedIn 上表示。 “Google 致力于为用户提供安全且私密的消息传递体验，我们始终致力于让 E2EE 成为所有 RCS 用户（无论使用哪个平台）的标准。”
+作为一名 Android 用户，我很高兴终于能够向使用 iPhone 的朋友和家人发送高质量的照片和视频。E2EE 只是一个额外的优势。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma</guid>
+      <pubDate>Tue, 17 Sep 2024 20:08:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>EA 将为其体育游戏推出一款社交应用</title>
+      <link>https://www.theverge.com/2024/9/17/24247276/ea-sports-social-mobile-app</link>
+      <description><![CDATA[
+
+图片：EA
+
+EA 的体育游戏是巨大的特许经营权，很快，该公司将推出一款移动应用程序，将更多的 EA Sports 添加到您的生活中。作为今天投资者演示的一部分，该公司正式宣布推出 EA Sports 应用，该应用将于今年秋季在西班牙为 iOS 和 Android 进行试运行。
+在一份新闻稿中，EA 表示该应用将是一款“社交驱动的应用”，具有发现提要等功能，可随时了解他们最喜欢的球队的新闻和精彩集锦、您可以在现场比赛期间和之后进行的互动挑战以及社区“竞技场”。EA 表示，随着在西班牙的试运行，该应用将“结合体育内容、实时体育数据、社交消息、互动性、挑战等，并与长期合作伙伴 LaLiga 合作，以全球足球为中心”。
+EA 还表示，它计划在未来为该应用添加更多体育项目。这并不奇怪——毕竟它被称为 EA Sports 应用程序——像 Madden NFL 或 EA Sports College Football 这样的特许经营权似乎也有可能在某个时候被纳入其中。
+EA 首席执行官 Andrew Wilson 最近表示，体育将是该公司“加倍投入”的事情之一，因此这款新应用似乎是这些努力的一部分。
+EA 今天还发布了许多其他公告，包括 《模拟人生》电影正在制作中，新版《滑板》将于明年抢先体验。]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247276/ea-sports-social-mobile-app</guid>
+      <pubDate>Tue, 17 Sep 2024 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos Arc Ultra 和 Sub 4 已泄露，可能很快就会上市</title>
+      <link>https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24247380/sonos-arc-ultra-sub-4-leaked-photos</guid>
+      <pubDate>Tue, 17 Sep 2024 19:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 的下一部《巫师》动画电影将于 2 月上映</title>
+      <link>https://www.theverge.com/24247192/the-witcher-sirens-of-the-deep-netflix-date-trailer</link>
+      <description><![CDATA[
+
+图片：Netflix
+
+我们仍在等待《巫师》宇宙中最大的新闻 — 利亚姆·海姆斯沃斯饰演杰洛特会是什么声音——但与此同时，Netflix 已经宣布了粉丝们可以期待下一部动画衍生剧的时间。 巫师：深海海妖 将于 2025 年 2 月 11 日开始播放。游戏中杰洛特的标志性配音演员 Doug Cockle 将继续出演他的角色。
+以下是这部电影的前提：
+变异怪物猎人利维亚的杰洛特受雇调查一系列袭击事件海边村庄，他发现自己卷入了一场人类与人鱼之间长达数个世纪的冲突。他必须依靠新老朋友来解开谜团，以免两个王国之间的敌对行动升级为全面战争。
+这实际上是 Netflix 推出的第二部巫师动画衍生剧，继2021 年推出的前传狼之梦之后。与此同时，主要的真人系列在彻底结束之前准备进行重大调整。海姆斯沃斯将从第四季开始接替长期主演亨利·卡维尔，并且主播表示该剧集将在第五季结束。游戏工作室CD Projekt Red 也正在启动一部新的巫师三部曲，目前正在开发中。
+与此同时，这里有一个深海海妖的简短片段：
+]]></description>
+      <guid>https://www.theverge.com/24247192/the-witcher-sirens-of-the-deep-netflix-date-trailer</guid>
+      <pubDate>Tue, 17 Sep 2024 19:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eufy 的新智能锁可能对 Apple Home 用户很重要</title>
+      <link>https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home</guid>
+      <pubDate>Tue, 17 Sep 2024 18:18:13 GMT</pubDate>
+    </item>
     <item>
       <title>Snap 的新款 Spectacles 距离引人注目的 AR 更近一步</title>
       <link>https://www.theverge.com/2024/9/17/24245572/snap-spectacles-ar-developers-evan-spiegel</link>
@@ -23,7 +100,7 @@ Kensington SD5000T5。 |图片：Kensington
 新基座声称在 Windows 上最多支持三台 4K 显示器或两台 8K 显示器，或在配备 M1 Pro 或更高芯片的 MacBook Pro 上支持双 6K 显示器。它还为连接的外围设备提供高达 120Gbps 的速度——假设您的计算机有 Thunderbolt 5 端口。我们上次检查时发现，只有 售价 4,500 美元的 Razer Blade 18 单个版本有该端口，不过 PCWorld 指出 售价 3,899 美元的 Maingear ML-17 现在也有一个。
 但即使你还没有 Thunderbolt 5，Kensington 还有另一个绝招端口。它是为数不多的（也许是唯一的？）提供 140W USB-C PD 充电的 Thunderbolt 基座之一，以防您有一台可以使用这么多电量的笔记本电脑。
 16 英寸 MacBook Pro 不会获得 140 瓦的功率，因为​​它仅支持通过 MagSafe 充电 140W，而 MagSafe 不会传输数据 - 但它应该至少为您提供 100W 的功率。
-从技术上讲，USB-C PD 标准现在已达到 240W，但尚未有公司推出接近的充电器，而基座通常最高为 100W。 HP 和 联想的底座可提供 230W 的单根电缆，但这些电缆有两个头，适用于特定的工作站笔记本电脑，而不是标准化的 USB-C 笔记本电脑。
+从技术上讲，USB-C PD 标准现在已达到 240W，但尚未有公司推出接近的充电器，而基座通常最高为 100W。 HP 和 联想的扩展坞可通过单根电缆提供 230W 的功率，但这些电缆有两个头，适用于特定的工作站笔记本电脑，而不是标准化的 USB-C 笔记本电脑。
 Thunderbolt 5 只有在我们能够充分利用其速度时才会真正令人兴奋——据我所知，目前还没有 Thunderbolt 5 存储驱动器发货。但 OWC 刚刚开放了 Envoy Ultra 的预订，该款产品声称传输速度为 6,000MB/秒，预计发布日期为 2024 年 10 月。 
 
 
@@ -59,102 +136,6 @@ OWC Envoy Ultra。
 ]]></description>
       <guid>https://www.theverge.com/2024/9/17/24247238/snapchat-ai-my-selfie-feature-face-personalized-ads</guid>
       <pubDate>Tue, 17 Sep 2024 17:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat 正在进行多年来最大规模的重新设计</title>
-      <link>https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight</link>
-      <description><![CDATA[
-
-全新“简易 Snapchat”。 |图片：Snap
-
-Snapchat 正在进行多年来最大规模的重新设计，将五个标签简化为三个：一个用于与朋友发送消息和分享故事，一个用于相机，另一个用于类似 TikTok 的创作者和发布者的全屏视频推送。
-这项名为“简约 Snapchat”的重新设计于周二在洛杉矶举行的 Snap 年度合作伙伴峰会上宣布。“它让故事更接近对话，简化了内容发现，让人们直接进入我们的相机来表达自己，”Snap 首席执行官 Evan Spiegel 告诉 The Verge。
-到目前为止，Snapchat 有五个主要标签：Snap 地图、私人聊天、相机、故事和 Spotlight，后者是 TikTok 和 Instagram Reels 的竞争对手。一旦此重新设计推广到 Snapchat 的 8.5 亿用户，Snap Map 将可通过消息选项卡访问，同时还可访问您关注的朋友和创作者的故事。
-相机右侧将是来自出版商和创作者的全新、统一的 For You 全屏视频推送。在这里，Snap 基本上将 Spotlight 与《华尔街日报》和《每日邮报》等媒体品牌的内容合并在一起。该公司的大部分收入来自围绕这些内容投放的广告，因此它正在缓慢地推出重新设计，以便“我们能够真正了解内容动态的任何变化”，Spiegel 表示。
-
-
-GIF：Snap
-
-这次重新设计的高层目标是让 Snapchat 更易于访问，并成为一种有吸引力的观看视频的方式，而您通常会在 TikTok 或 Instagram 上观看这些视频。 Spiegel 还认为，这将为 Snap 的创作者带来更好的业务，他们每月在应用中分享的内容超过 10 亿条。 
-“创作者做得非常有效的一件事就是使用短视频来扩大他们的故事受众，然后通过我们的收入分成计划将故事货币化，”他说。“我认为，有了这种应用布局，这将变得更加容易，来自您朋友或您关注的创作者的故事会实时显示在聊天页面上，然后您可以在第三个选项卡上全屏发现新的创作者或新内容。”]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight</guid>
-      <pubDate>Tue, 17 Sep 2024 17:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《最终幻想 16》制作人希望大家不要对模组抱有太大期待</title>
-      <link>https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods</link>
-      <description><![CDATA[
-
-图片：Square Enix
-
-《最终幻想 16》 今日在 PC 上发布，其制作人要求玩家对此保持冷静。在接受 PC Gamer 采访时，吉田直树 (Naoki Yoshida) 严重低估了互联网上的集体愤怒，他要求粉丝们不要为游戏创建“冒犯性或不适当的”模组。 
-祝你好运，伙计。
-PC 游戏的传统观点认为，一旦游戏在 PC 上发布，各种改装恶作剧的视频剪辑开始流传只是时间问题。当然，吉田可能不是在谈论那种将其中一个主角变成巨婴的改装。相反，他更关心的是“更刺激”的改装，当有亲戚走进房间时，你会按下 Alt-Tab 切换到猫的图片。 
-我们不知道吉田是否真心希望模组社区能够有所克制，还是他只是在吹捧公司路线。2018 年《最终幻想 XV》在 PC 上发布时，总监 Hajime Tabata 也表达了类似的想法。 在接受GameSpot采访时，他表示希望粉丝们能够“以良好的品味”利用游戏的模组功能。
-尽管如此，要求互联网——这个纯洁的堡垒——不要对一款以这一大杯 X-Potion为主角的游戏进行色情模组，就像要求陆行鸟不要“kweh”一样。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247242/final-fantasy-16-naoki-yoshida-pc-mods</guid>
-      <pubDate>Tue, 17 Sep 2024 17:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 将雷朋智能眼镜交易延长至 2030 年以后</title>
-      <link>https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-Meta 和眼镜集团 EssilorLuxottica 计划在“下一个十年”合作开发智能眼镜。两家公司今天宣布一项长期协议，以延长自 2019 年以来的合作伙伴关系，并已推出两两代雷朋智能眼镜。
-此次合作帮助 Meta 制造出以其独特风格脱颖而出的智能眼镜风格
-到目前为止，此次合作已帮助 Meta 制造出风格出众的智能眼镜。看起来 Meta 希望在其下一代镜架中延续这一趋势。除了雷朋 (Ray-Ban)，EssilorLuxottica 还拥有 Oakley，并与范思哲 (Versace)、普拉达 (Prada)、香奈儿 (Chanel) 等奢侈品牌签订了许可协议。
-
-“我对我们未来的长期路线图感到兴奋。我们有机会将眼镜变成下一个主要的技术平台，并在此过程中使其变得时尚，”Meta 首席执行官马克·扎克伯格在新闻稿中表示。
-我的同事 Victoria Song 在去年的雷朋智能眼镜评论中对此进行了最精彩的阐述：
-与任何其他类型的小工具相比，智能眼镜必须看起来更时尚。人性是虚荣的。如果眼睛是心灵的窗户——当然，你希望你的眼镜是一副迷人的窗帘。 Ray Ban 在这方面表现不错，因为它是一个标志性的时尚品牌，而 Wayfarers 眼镜几乎是你能找到的最能讨人喜欢的普遍镜架。如果你戴上它不好看，你就不会戴它。
-Snap 预计将于今天在洛杉矶峰会上发布其第五代 Spectacles。据The Verge的 Alex Heath称，Meta 可能还会在下周于加利福尼亚州门洛帕克举行的一次会议上展示其新的 AR 眼镜。
-
-
-雷朋 Meta 智能眼镜是一个转折点
-]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247236/meta-ray-ban-smart-glasses-essilorluxottica</guid>
-      <pubDate>Tue, 17 Sep 2024 17:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>捍卫 iPhone 操作按钮</title>
-      <link>https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24246068/apple-iphone-16-pro-action-button-ios-shortcuts-uses-examples</guid>
-      <pubDate>Tue, 17 Sep 2024 16:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>真主党遭袭，传呼机爆炸，造成至少 8 人死亡，数千人受伤</title>
-      <link>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</link>
-      <description><![CDATA[
-
-9 月 17 日，救护车将伤员送往黎巴嫩南部城市赛达的一家医院。 |照片由 Mahmoud Zayyat / AFP via Getty Images 拍摄
-
-据报道，周二，黎巴嫩和叙利亚的寻呼机爆炸，造成数千人受伤，这次袭击似乎是针对真主党成员的，报道路透社 和其他新闻机构。黎巴嫩卫生部长 Firass Abiad 表示，至少有 8 人（包括一名儿童）死亡，约 2,800 人受伤，据 CNN 报道。
-爆炸发生之际，真主党已与以色列交战数月，恰逢以色列与哈马斯在加沙地带的战争，而就在爆炸发生前一天，以色列国防部长 Yoav Gallant 表示与该组织达成外交解决方案的时间“不多了”。 CNN 报道，以色列国防军表示不会对爆炸事件发表评论。
-路透社和 华尔街日报援引匿名消息人士的话称，爆炸的寻呼机是该组织最近收到的一批新货的一部分，有些人感觉到设备在发热，然后在爆炸前将其丢弃。我们尚未看到任何关于这些装置可能如何被篡改以使其爆炸或如何被触发的确认细节的报告。
-爆炸及其后果的视频已在新闻网络和社交媒体上广泛传播（警告：以下视频显示有人在袭击中受伤）。其中一个视频显示一名男子在商店结账时低头查看他的传呼机，然后传呼机爆炸，将他向后飞去。另一段来自市场的监控视频由纽约时报 发布，显示当地时间下午 3:30 左右，一名男子包里的装置爆炸，导致其受伤。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</guid>
-      <pubDate>Tue, 17 Sep 2024 16:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 中的绿色气泡如何升级</title>
-      <link>https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded</guid>
-      <pubDate>Tue, 17 Sep 2024 16:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 macOS 终端以及它的用途</title>
-      <link>https://www.theverge.com/24246585/macos-apple-terminal-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24246585/macos-apple-terminal-how-to</guid>
-      <pubDate>Tue, 17 Sep 2024 15:51:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
