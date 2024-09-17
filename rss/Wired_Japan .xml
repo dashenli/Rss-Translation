@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 17 Sep 2024 00:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 03:18:21 GMT</lastBuildDate>
+    <item>
+      <title>研究人员追查冒充美国邮政服务的“网络诈骗”攻击，揭露欺诈性团体活动</title>
+      <link>https://wired.jp/article/usps-scam-text-smishing-triad/</link>
+      <description><![CDATA[据信，Smishing Triad 欺诈组织每天在全球范围内发送多达 100,000 条欺诈信息。一名收到其中一封信件的美国安全研究人员试图侵入该欺诈组织的系统，并将他获得的信息告知当局。]]></description>
+      <guid>https://wired.jp/article/usps-scam-text-smishing-triad/</guid>
+      <pubDate>Tue, 17 Sep 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI训练数据收集正在进入一个新时代。行业组织倡导“道德”选择加入方法</title>
       <link>https://wired.jp/article/dataset-providers-alliance-ethical-generative-ai-licensing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[夏威夷当地报纸《花园岛》求助于生成式人工智能主播来扩大读者群。这份从来不被认为是前沿的报纸，成为美国第一家引入人工智能广播的媒体。作为一个曾经在这里当记者的人，我无法掩饰我的惊讶。]]></description>
       <guid>https://wired.jp/article/an-ai-bot-named-james-has-my-old-local-news-job/</guid>
       <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这次建造前往火星的核动力飞船的计划能否实现呢？</title>
-      <link>https://wired.jp/article/sz-were-building-thermonuclear-spaceships-again-this-time-for-real/</link>
-      <description><![CDATA[DRACO 是由 NASA 和 DARPA 领导的一个项目，旨在利用创新的核推进技术大幅加速人类对火星的探索。通过将到达火星的时间从六个月缩短到45天，它正在开创太空探索的新时代。]]></description>
-      <guid>https://wired.jp/article/sz-were-building-thermonuclear-spaceships-again-this-time-for-real/</guid>
-      <pubDate>Thu, 12 Sep 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
