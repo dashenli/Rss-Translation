@@ -4,11 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 17 Sep 2024 21:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 01:08:50 GMT</lastBuildDate>
+    <item>
+      <title>MacStories 对操作系统发布的报道 ↦</title>
+      <link>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</link>
+      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评测，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
+
+Federico Viticci 谈 iOS 18
+John Voorhees 谈 macOS Sequoia
+Jonathan Reed 谈 watchOS 11
+
+这里有很多内容。…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:12:23 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 78：算法</title>
       <link>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</link>
-      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 重返大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
+      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 再次加入大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</guid>
       <pubDate>Tue, 17 Sep 2024 20:58:04 GMT</pubDate>
     </item>
@@ -113,13 +126,6 @@ Apple 的新睡眠呼吸暂停检测功能已获得美国食品和药物管理�
       <description><![CDATA[我们如何打开手机摄像头，我们在苹果活动后的支出计划，我们是否想要一个机器人智能扬声器，以及我们梦想中的新 iPhone 按钮会有什么作用。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/clockwise-571-i-am-my-own-robot/</guid>
       <pubDate>Wed, 11 Sep 2024 19:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16 的最佳功能是回归苹果最擅长的领域（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2453873/iphone-16-camera-control-first-look.html</link>
-      <description><![CDATA[Apple 连续第二年在 iPhone 上添加了一个按钮。新 iPhone 买家将有两个不同的硬件按钮需要熟悉，一个是操作按钮（在 iPhone 15 Pro 上推出，现在在所有 iPhone 16 型号上都有）和一个全新的相机控制按钮。…]]></description>
-      <guid>https://www.macworld.com/article/2453873/iphone-16-camera-control-first-look.html</guid>
-      <pubDate>Wed, 11 Sep 2024 16:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
