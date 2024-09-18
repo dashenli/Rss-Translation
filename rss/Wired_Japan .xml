@@ -4,9 +4,23 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 17 Sep 2024 21:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:19:04 GMT</lastBuildDate>
     <item>
-      <title>“macOS Sequoia”的显着新功能以及如何安装它们</title>
+      <title>国际政治幕后继续进行秘密对话以制止战争。</title>
+      <link>https://wired.jp/article/gabrielle-rifkind-peace-oxford-process/</link>
+      <description><![CDATA[加布里埃尔·里夫金德（Gabriel Rifkind）是一名心理治疗师，致力于通过与哈马斯和真主党等组织以及乌克兰和俄罗斯等国家进行谈判来结束全球冲突。她说，他们需要在幕后默默工作，以维持与政府的信任。]]></description>
+      <guid>https://wired.jp/article/gabrielle-rifkind-peace-oxford-process/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Watch Series 10 评测：设计与功能的完美进化</title>
+      <link>https://wired.jp/article/apple-watch-series-10-review/</link>
+      <description><![CDATA[“Apple Watch Series 10”在首款型号诞生 10 周年之际发布。由于专利纠纷，血氧饱和度（SpO2）测量功能被省略，但设计和功能已经发展到完美。]]></description>
+      <guid>https://wired.jp/article/apple-watch-series-10-review/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 的显着新功能以及如何安装它们</title>
       <link>https://wired.jp/article/apple-macos-sequoia-features/</link>
       <description><![CDATA[苹果发布了“macOS Sequoia”。我们来介绍一下新操作系统值得关注的新功能、安装方法以及兼容机型。]]></description>
       <guid>https://wired.jp/article/apple-macos-sequoia-features/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在花园里养的鸡死了。 再说一遍，21世纪日本的田鸡养殖是利用自然还是驯服自然？主编致SZ会员的通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-253/</guid>
       <pubDate>Fri, 13 Sep 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 宣布推出新的推理人工智能模型“o1”。以规模以外的方式展示进化</title>
-      <link>https://wired.jp/article/openai-o1-strawberry-problem-reasoning/</link>
-      <description><![CDATA[OpenAI向《连线》透露了新AI模型“OpenAI o1”的细节。这个代号为“草莓”的模型，是在一步步解决难题的“推理”部分进化而来的。该元素也将在下一个模型“GPT-5”中使用。]]></description>
-      <guid>https://wired.jp/article/openai-o1-strawberry-problem-reasoning/</guid>
-      <pubDate>Fri, 13 Sep 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的第一个生成人工智能插图是 Craig Federighi 的狗</title>
-      <link>https://wired.jp/article/apple-image-playground-craig-federighi-dog/</link>
-      <description><![CDATA[苹果宣布将人工智能图像生成功能“Image Playground”作为iOS 18的新功能。使用这一新功能生成的图像专门提供给《连线》杂志。除了作为营销材料介绍的图像之外，这是该图像首次向公众展示。]]></description>
-      <guid>https://wired.jp/article/apple-image-playground-craig-federighi-dog/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

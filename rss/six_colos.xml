@@ -4,11 +4,20 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 18 Sep 2024 01:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:18:39 GMT</lastBuildDate>
+    <item>
+      <title>A16 芯片现在在美国生产。↦</title>
+      <link>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</link>
+      <description><![CDATA[独立记者 Tim Culpan 报道称，苹果公司在台湾的芯片制造合作伙伴台积电目前正在其位于亚利桑那州的新工厂生产 A16 芯片：
+
+台积电首批亚利桑那州芯片现已投入生产，苹果公司已准备好成为首家使用该代工厂 5nm 工艺制造移动处理器的厂商。…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</guid>
+      <pubDate>Wed, 18 Sep 2024 01:11:01 GMT</pubDate>
+    </item>
     <item>
       <title>MacStories 对操作系统发布的报道 ↦</title>
       <link>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</link>
-      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评测，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
+      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评论，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
 
 Federico Viticci 谈 iOS 18
 John Voorhees 谈 macOS Sequoia
@@ -119,13 +128,6 @@ Apple 的新睡眠呼吸暂停检测功能已获得美国食品和药物管理�
 今天，美国食品药品监督管理局批准了首款非处方 (OTC) 助听器软件设备“助听器功能”，旨在与兼容版本的 Apple AirPods Pro 耳机一起使用。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/fda-approves-airpods-hearing-aid-functionality/</guid>
       <pubDate>Thu, 12 Sep 2024 16:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 571：我是我自己的机器人</title>
-      <link>https://sixcolors.com/podcast/2024/09/clockwise-571-i-am-my-own-robot/</link>
-      <description><![CDATA[我们如何打开手机摄像头，我们在苹果活动后的支出计划，我们是否想要一个机器人智能扬声器，以及我们梦想中的新 iPhone 按钮会有什么作用。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/clockwise-571-i-am-my-own-robot/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:58:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
