@@ -4,115 +4,129 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Sep 2024 12:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 15:19:48 GMT</lastBuildDate>
     <item>
-      <title>Apple Intelligence 明年将支持更多语言</title>
-      <link>https://www.theverge.com/2024/9/18/24247839/apple-intelligence-language-support-german-italian</link>
+      <title>随着 visionOS 2 的推出，Apple 的 Vision Pro 成为焦点</title>
+      <link>https://www.theverge.com/2024/9/18/24246461/apple-visionos-2-vision-pro-impressions-features-virtual-reality</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24246461/apple-visionos-2-vision-pro-impressions-features-virtual-reality</guid>
+      <pubDate>Wed, 18 Sep 2024 14:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube Hype 为小众创作者提供了施展才华的空间</title>
+      <link>https://www.theverge.com/2024/9/18/24247995/youtube-hype-creators</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247995/youtube-hype-creators</guid>
+      <pubDate>Wed, 18 Sep 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 将使用人工智能生成创意、标题甚至完整视频</title>
+      <link>https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab</link>
       <description><![CDATA[
 
-iPhone 16，苹果声称它是“从头开始”为人工智能打造的。 | 照片：Allison Johnson / The Verge
+YouTube 的 Inspiration 标签会很乐意告诉您下一步该做什么。 | 图片：YouTube
 
-Apple Intelligence 即将推出的支持语言列表又长了一点。继 10 月份推出美式英语版本后，苹果表示其 AI 功能集将于明年推出德语、意大利语、韩语、葡萄牙语、越南语“及其他”语言版本。该公司在 iPhone 16 上市前几天发布了这一消息——这款专为 AI 打造的手机在发布时不会有任何 AI 功能。
-苹果的 AI 功能集将于 12 月扩展到英国、加拿大、澳大利亚、南非和新西兰的本地化英语版本，明年印度和新加坡也将加入这一行列。该公司已经宣布计划明年也支持中文、法语、日语和西班牙语。
-Apple 上周宣布了 iPhone 16 系列，重点关注对 Apple Intelligence 的支持。问题是，这些手机（将于周五发货）不会立即具备 AI 功能。Apple Intelligence 将于今年秋季晚些时候推出，即使到那时，它也只会支持 Apple 概述的一小部分功能。更多功能将于 2025 年推出，因此即使你居住在美国（我们将首先获得 Apple Intelligence），你仍需要等待一段时间。]]></description>
-      <guid>https://www.theverge.com/2024/9/18/24247839/apple-intelligence-language-support-german-italian</guid>
-      <pubDate>Wed, 18 Sep 2024 12:00:00 GMT</pubDate>
+人工智能在 Google 的整个产品组合中肆虐，YouTube 正在采用该公司的一些最新技术来帮助创作者进行创作。周三，在纽约市举办的 Made on YouTube 活动上，该公司宣布了该平台上一系列与 AI 相关的功能，其中几个功能可能会改变创作者制作视频的方式以及他们制作的视频。
+第一个功能是 YouTube Studio 应用中的新“灵感”选项卡，YouTube 在过去几个月中一直在以有限的方式测试该选项卡。该选项卡的作用本质上是告诉您要制作什么：这个由 AI 驱动的工具将为视频提出一个概念，提供标题和缩略图，甚至为您编写大纲和视频的前几行。YouTube 将其描述为一个有用的头脑风暴工具，但也承认您可以使用它来构建整个项目。我只是在猜测，但我敢打赌，这些人工智能创造的想法在玩弄 YouTube 算法方面会非常出色。
+一旦你有了一些人工智能灵感，你就可以用 Veo 制作一些人工智能视频，超强大的 DeepMind 视频模型现在正在集成到 YouTube Shorts 中。Veo 主要是 YouTube 一直在开发的“梦幻屏幕”功能的一部分，这是绿屏概念的延伸，但具有各种人工智能生成的背景。您还可以制作完整的 Veo 视频，但只能制作最长 6 秒的片段。（几秒钟后，AI 视频往往会变得……非常奇怪。）
+Veo 直接集成到普通的 Shorts 编辑器中，“就像是我相机胶卷中的镜头一样”，YouTube 产品管理总监 Sarah Ali 说。但她强调，将所有内容整合在一起仍然取决于创作者的愿景。这些片段还将使用 DeepMind 的 SynthID 工具 加水印，并带有由 AI 生成的视觉指示。
+这两项功能都在缓慢推出，应该会在今年年底或明年年初向创作者展示。 YouTube 还将推出其他 AI 功能。该平台的自动配音功能可将视频转换为多种语言，该功能将面向更多创作者和语言。它还为创作者提供了 AI 工具，以便通过应用程序的新社区部分与粉丝互动。
+当创作者能够更轻松地创作新作品时，可能会发生一些令人兴奋的事情，但也有可能 YouTube 即将充斥着 AI 构思、AI 编写甚至 AI 制作的视频，这些视频看起来、听起来和感觉都差不多。大多数这些新功能都可以成为有用的工具或创作捷径，每个创作者都必须决定他们想要成为什么。但从 YouTube 的角度来看，该公司在过去几年中一直在努力降低成为 YouTube 创作者的门槛，尤其是通过 Shorts，因为它试图与 TikTok 和 Instagram 以及现在人们创作的无数其他地方竞争。人们似乎确信人工智能可以让创作者工作的每个部分都变得更加轻松，甚至可能让他们创造出更多东西。]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247559/youtube-ai-videos-veo-inspiration-tab</guid>
+      <pubDate>Wed, 18 Sep 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>苹果 iPhone 16 Pro 评测：相机小更新，大不同</title>
-      <link>https://www.theverge.com/24247538/apple-iphone-16-pro-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24247538/apple-iphone-16-pro-review</guid>
-      <pubDate>Wed, 18 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 iPhone 16 和 16 Plus 评测：全面追赶</title>
-      <link>https://www.theverge.com/24247479/apple-iphone-16-plus-review-camera-control-screen-battery</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24247479/apple-iphone-16-plus-review-camera-control-screen-battery</guid>
-      <pubDate>Wed, 18 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车电动汽车终于可以使用特斯拉超级充电站了</title>
-      <link>https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price</guid>
-      <pubDate>Wed, 18 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioLite 备份电池是一款适用于大型电器的强大应急电池。</title>
-      <link>https://www.theverge.com/2024/9/18/24243688/backup-biolite-power-battery-emergency</link>
+      <title>YouTube 社区就像是创作者的迷你 Discord</title>
+      <link>https://www.theverge.com/2024/9/18/24247529/youtube-communities-social-comments</link>
       <description><![CDATA[
 
-Backup by BioLite 不需要电工来安装。 |图片：BioLite
+社区是创作者与粉丝交流的地方，也是粉丝之间相互交流的地方。 | 图片：YouTube
 
-无需接入家用断路器盒，Backup by BioLite 家庭备用电源解决方案依靠薄型电池板，可以安装在电器后面，让电器连续运行数天。它由两块 1.5kWh 磷酸铁锂 (LiFePO4 或 LFP) 电池、备用核心和备用扩展组成。与任何不间断电源一样，备用核心在有电时会通过墙上插座持续充电，然后在断电期间切换以保持插入的任何设备运行。
-如果您需要更多备用电源，最多可以将五个备用扩展单元连接到备用核心单元以将总容量扩展到 9kWh，并且您不需要承包商或电工来安装任何设备。
-BioLite 的系统旨在成为一种更便宜、更简单的全屋备用电源解决方案的替代方案，后者依靠中央电池或燃气发电机在断电期间保持整个房屋运行。单单一台天然气发电机的成本就超过 5,000 美元，而安装特斯拉 Powerwall 的成本则超过 10,000 美元。
+许多创作者在 YouTube 上发布视频，但实际上会在其他平台上与粉丝和观众互动。 YouTube 希望通过一项名为“社区”的新功能，在平台上提供此类互动选项，这样创作者可能就不再需要使用 Discord、WhatsApp 或 Instagram 或 Reddit 了。
+YouTube 今天在纽约市的 Made on YouTube 活动上推出了“社区”功能，该功能是老式论坛、subreddit 和 Facebook 群组的混合体。一旦创作者开启他们的社区，任何加入的人都可以发帖，人们可以互相回复。这个想法大概是，你们都会谈论与所在社区的创作者有关的事情，但如果你曾经浏览过 YouTube 评论区，你就会知道情况并非如此。还有一个专门的部分供创作者发布自己的帖子，他们可以在其中分享文本、图片和其他内容。
+YouTube 一直在开发各种类似的功能。该平台上甚至已经上线了一项名为“社区”的功能，尽管这实际上只是创作者发布非视频内容的一种方式，而且大多数创作者似乎并不怎么使用它。由于 YouTube 一直在寻找让观众感觉更接近他们最喜欢的创作者并成为他们创作过程的一部分的方法，新的社区系统显然旨在更具互动性。
+所有这些新的互动可能会让一些创作者感到不知所措，因此 YouTube 还推出了一款名为“社区中心”的新工具，它取代了 YouTube Studio 应用的评论部分，让创作者可以综合查看他们频道上的所有活动。YouTube 的人工智能系统将帮助展示好的评论，甚至提供回复建议，以便创作者可以回复尽可能多的人。
+即使有了这些新工具，社区仍将带来许多复杂的审核问题，尤其是现在粉丝可以在频道中发布自己的内容，而不仅仅是发表评论。这可能就是为什么 YouTube 允许每个创作者自行启用该功能并缓慢推出的原因；该公司表示，社区目前已在几个频道上线，但要到明年才会广泛推出。
+YouTube 可能是一个视频平台，但该公司也一直将自己视为社交产品。它深知，让平台持久存在的最重要方法是让人们有相互交流的方式。因此，即使它为创作者提供了制作和通过视频获利的新方式，它也在交流方面投入了大量资金。]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247529/youtube-communities-social-comments</guid>
+      <pubDate>Wed, 18 Sep 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 现在允许您在没有集线器的情况下将 Matter 设备添加到 Apple Home</title>
+      <link>https://www.theverge.com/2024/9/18/24246581/ios18-matter-smart-home-devices-hub-thread-border-router</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24246581/ios18-matter-smart-home-devices-hub-thread-border-router</guid>
+      <pubDate>Wed, 18 Sep 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉 Cyber​​truck 的销量比几乎所有其他电动卡车的总销量都多</title>
+      <link>https://www.theverge.com/2024/9/18/24247985/tesla-cybertruck-july-2024-sales-deliveries-match-all-ev-trucks</link>
+      <description><![CDATA[
+
+图片：Umar Shakir / The Verge
+
+特斯拉 Cyber​​truck 因其两极化的设计和更加两极化的创造者而招致了不少诟病。然而，Cyber​​truck 似乎也非常受欢迎，比市场上所有其他电动卡车都更受欢迎，而埃隆·马斯克最终可能会一路笑着去银行。
+据 S&amp;P Global Mobility 的数据 报道，据 Automotive News 报道，特斯拉 7 月份 Cyber​​truck 的注册量几乎与 7 月份整体 EV 卡车注册量相当，这表明对不锈钢低聚卡车的需求强劲。得益于 Cyber​​truck 的推动，特斯拉 7 月份的整体汽车销量也有所增长。
+特斯拉 7 月份交付了 5,175 辆 Cyber​​truck，而包括福特 F-150 Lightning、Rivian R1T、雪佛兰 Silverado EV 和悍马 EV 在内的所有非特斯拉电动卡车的注册量总计为 5,546 辆。 （特斯拉没有在其交付报告中公布 Cyber​​truck 的数据，因此标普使用注册数字来得出这些结论。）
+由于电动汽车竞争加剧，特斯拉当月在所有电动汽车注册中占有 48% 的份额，低于去年同期的 56%。
+7 月份电动汽车注册量总体呈上升趋势，从去年同期的近 101,000 辆攀升至 118,000 多辆。与此同时，电动汽车在所有汽车中的市场份额增加了 0.9%。总体而言，电动汽车卡车只是杯水车薪。
+特斯拉似乎正在销售其生产的每辆 Cyber​​truck，但根据其所谓的200 万辆预订积压，特斯拉仍有很多工作要做。特斯拉已多次提高 Cyber​​truck 的入门价，现在售价近 100,000 美元。许多预订者需要等待很长时间才能购买 Cyber​​truck。
+与此同时，特斯拉今年连续第二个季度交付的汽车数量减少，包括其 Model 3 轿车和最畅销的 Model Y 汽车，据传该车将很快进行全面重新设计。该公司将于下个月公布其第三季度的交付情况。]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247985/tesla-cybertruck-july-2024-sales-deliveries-match-all-ev-trucks</guid>
+      <pubDate>Wed, 18 Sep 2024 14:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garmin 的卫星通信器现在可以发送照片和语音信息</title>
+      <link>https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos</link>
+      <description><![CDATA[
+
+Garmin 升级版 inReach Messenger Plus 让探险者保持联系并分享回忆。 |图片：Garmin
+
+Garmin 的新款 inReach Messenger Plus 是该公司卫星通讯器的升级版，它扩展了原来的短信功能，现在可以通过铱星卫星网络发送照片和音频剪辑。
+原装 Garmin inReach Messenger 于 2022 年首次亮相，仅依靠短信即可获得内容，售价仍为 299.99 美元。inReach Messenger Plus 的新多媒体功能价格大幅上涨至 499.99 美元，其中不包括服务费。 inReach 的订阅价格范围为每月 消费者订阅价格为每月 49.95 美元（承诺使用 12 个月），专业人士（搜索和救援）可以选择更昂贵的套餐团队）和更大的团体。
+iPhone 和 Google Pixel 的多个版本现在都提供两年的免费卫星连接，用于紧急情况下联系帮助，甚至基本 iMessage 使用，iOS 18。inReach Messenger Plus 可以让您与朋友和家人保持持续沟通，但它更适合用作强大的安全工具。
 
 
-图片：BioLite
-BioLite 的 Backup 电池高 29 英寸，每个电池重达 40 磅以上。
+图片：Garmin
+短信、照片和语音备忘录通过 Garmin 消息应用程序发送。inReach Messenger Plus 不用作数据共享热点。
 
-Backup Core 电池板的售价为 1,999 美元，但 BioLite 还将提供 2,999 美元的 Backup Complete 解决方案，将 Core 与单个 Extend 电池配对，可享受 30% 的家庭能源税收抵免。该公司表示，3kWh Backup Complete 的容量足以让一台 18 立方英尺的冰箱运行长达 60 小时，或让一台更大的 26 立方英尺的冰箱运行长达 30 小时，同时还可以偶尔使用灯光或其他小型电器。
-BioLite 通过今天启动的 Kickstarter 众筹活动 向消费者提供其备用电源解决方案，早期支持者或选择支付定金并稍后通过分期付款全额付款的人可享受折扣。尽管该公司自 2006 年成立以来就一直生产发电野营炉等产品，但这将是其迄今为止最昂贵的产品，并且众筹产品的常见注意事项和风险也适用于此。
+即使远离 Wi-Fi 或可靠的蜂窝连接，它也可以不断向其他人更新您当前的 GPS 位置，并且 inReach Messenger Plus 可用于下载目的地的天气报告和预报。新增的照片和音频共享功能可以让救援人员更轻松地找到您，并更好地了解您的紧急情况，包括根据受伤照片了解可能需要哪些设备。
+inReach Messenger Plus 还具有专用的 SOS 按钮，可让您联系 Garmin 自己的紧急协调中心，该中心全天候值班，并自动共享您的当前位置。
+使用 inReach Messenger Plus 的另一大优势是它可以减少智能手机的电池消耗。Garmin 声称，这款通讯器每 10 分钟发送一条短信或 GPS 位置数据，最长可运行 600 小时。Garmin 表示，使用其新的多媒体功能时，充满电后最多可以发送 250 张照片或音频剪辑。]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247972/garmin-satellite-inreach-messenger-plus-sos</guid>
+      <pubDate>Wed, 18 Sep 2024 14:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wooting 的 80HE 让最好的游戏键盘变得更好</title>
+      <link>https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/18/24247911/wooting-80he-keyboard-gaming-hands-on</guid>
+      <pubDate>Wed, 18 Sep 2024 14:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款复古机械键盘套件的内部设计非常现代</title>
+      <link>https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24247498/classic-tkl-mechanical-keyboard-review</guid>
+      <pubDate>Wed, 18 Sep 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 因未能获得任务变更批准而遭 FAA 处罚</title>
+      <link>https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat</link>
+      <description><![CDATA[
 
+图片：Cath Virginia / The Verge |照片由 STR / NurPhoto、Getty Images 拍摄
 
-图片：BioLite
-BioLite 的 Backup 电池无需安装在墙上。它们可以放在冰箱顶部，或隐藏在其他家具后面。
-
-BioLite 的 Backup 电池高 29 英寸，重 35 至 40 磅。然而，该公司声称，每个电池厚度仅为 2.8 英寸，可以使用硬件将其安装在电器或家具后面，安装大约需要 30 分钟。但无需永久安装，因为 BioLite 表示，电池放在冰箱顶部或放在床下也同样有效。
+周二，美国联邦航空管理局 (FAA) 提出了一系列罚款，总额达 633,009 美元，理由是 SpaceX 两次发射任务时未经批准的变更违反了其许可证，并且跳过了发射所需的步骤。作为回应，SpaceX 首席执行官埃隆·马斯克威胁要以“监管过度”为由起诉该机构。 
+FAA 表示，一组总额为 35 万美元的罚款与 2023 年 6 月 18 日的一次发射有关，当时 SpaceX 使用“未经批准的发射控制室执行 PSN SATRIA 任务”，并跳过了必需的“T-2 小时准备就绪调查”。FAA 表示，该公司已于 5 月申请批准这些变更，但从未获得批准。
+同样，该机构称，该公司于 7 月寻求批准建立新的火箭推进剂农场，但在 2023 年 7 月 28 日发射 EchoStar Jupiter 3 通信卫星之前没有等待批准。FAA 提议对此处以 283,009 美元的罚款。 
+摘自 FAA 的公告：
+安全是 FAA 一切工作的驱动力，包括对持有商业太空运输执照的公司进行安全监督的法律责任，”FAA 首席法律顾问 Marc Nichols 表示。“公司不遵守安全要求将导致严重后果。”
+马斯克向 X 发出起诉 FAA的威胁，理由是他所谓的“监管过度”。 SpaceX 并不羞于起诉政府，它在今年年初就其采取的劳工行动向国家劳工关系委员会提出投诉。它还在 2019 年就一份它认为应该获得的合同向联邦政府提出诉讼。
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/9/18/24243688/backup-biolite-power-battery-emergency</guid>
-      <pubDate>Wed, 18 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>真主党遭袭，传呼机爆炸致 9 人死亡，数千人受伤</title>
-      <link>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247200/exploding-pager-attack-hezbollah-lebanon-syria</guid>
-      <pubDate>Wed, 18 Sep 2024 03:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>《米奇 17》的首支预告片基调轻松，重点讲述已故罗伯特·帕丁森的故事</title>
-      <link>https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson</link>
-      <description><![CDATA[
-
-图片：华纳兄弟影业
-
-它可能被推迟到明年，但至少我们现在可以首次看到米奇 17。这部科幻电影的首支预告片——由寄生虫导演奉俊昊执导，罗伯特·帕丁森饰演米奇·巴恩斯——周二晚上首映。根据预告片的描述，巴恩斯“发现自己处于一种特殊的情况下，为一位要求对工作做出终极承诺的雇主工作……以死为生。” 
-这部电影改编自爱德华·阿什顿的小说《米奇 7》，讲述了“人类探险队中一名被派往冰雪世界尼福尔海姆殖民的一次性雇员”的故事。书中讲述了同名米奇的第七个化身，但在电影中，他又死了好几次。除了帕丁森，该片还由史蒂文·元、娜奥米·阿基、托妮·科莱特、马克鲁弗洛和托马斯·图尔格斯主演。米奇 17 将是俊昊自 2019 年 寄生虫 以来的第一部电影，定于 2025 年 1 月 31 日上映。]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24138113/mickey-17-trailer-bong-joon-ho-robert-pattinson</guid>
-      <pubDate>Wed, 18 Sep 2024 00:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最值得购买的降噪耳机</title>
-      <link>https://www.theverge.com/21345733/best-noise-canceling-headphones</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21345733/best-noise-canceling-headphones</guid>
-      <pubDate>Wed, 18 Sep 2024 00:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>你将能够使用 iPhone 无线恢复 iPhone 16</title>
-      <link>https://www.theverge.com/2024/9/17/24247702/apple-iphone-16-pro-wireless-restore</link>
-      <description><![CDATA[
-
-照片：Allison Johnson / The Verge
-
-iOS 18 有一项新功能，可让您使用另一部 iPhone 或 iPad 无线恢复 iPhone 16，9to5Mac 报道。 
-9to5Mac 表示，它能够模拟新的恢复方法。据 9to5Mac 称，“本质上，当 iPhone 16 因某种原因进入恢复模式时，用户只需将其放在另一台 iPhone 或 iPad 旁边即可启动固件恢复。另一台设备将下载新的 iOS 固件并将其传输到变砖的设备。”
-显然，iOS 18 上的任何设备都可以进行恢复，但只有 iPhone 16 系列手机才能使用此方法进行实际恢复。您已经可以使用 iPhone 无线恢复 Apple Watch 或 Apple TV，因此很高兴看到类似的功能也出现在 iPhone 上。
-iOS 18 现已推出，iPhone 16 系列将于周五推出。]]></description>
-      <guid>https://www.theverge.com/2024/9/17/24247702/apple-iphone-16-pro-wireless-restore</guid>
-      <pubDate>Wed, 18 Sep 2024 00:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以买到的最好的即时相机</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <pubDate>Tue, 17 Sep 2024 21:47:42 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/9/18/24247996/faa-spacex-fine-license-violation-launch-changes-elon-musk-lawsuit-threat</guid>
+      <pubDate>Wed, 18 Sep 2024 13:43:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

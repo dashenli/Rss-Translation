@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 18 Sep 2024 12:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 15:22:11 GMT</lastBuildDate>
+    <item>
+      <title>滚动布局形式的探索</title>
+      <link>https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/</link>
+      <description><![CDATA[探索滚动过程中的布局形成，其中内容被固定直到布局完全组装。]]></description>
+      <guid>https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/</guid>
+      <pubDate>Wed, 18 Sep 2024 13:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>集体#864</title>
       <link>https://tympanus.net/codrops/collective/collective-864/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索全新精选的鼓舞人心的网站，每个网站都具有卓越的设计，可以激发您的创造力。]]></description>
       <guid>https://tympanus.net/codrops/2024/09/06/inspirational-websites-roundup-65/</guid>
       <pubDate>Fri, 06 Sep 2024 08:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 React-Three-Fiber 创建受 PS1 启发的抖动着色器</title>
-      <link>https://tympanus.net/codrops/2024/09/03/how-to-create-a-ps1-inspired-jitter-shader-with-react-three-fiber/</link>
-      <description><![CDATA[了解如何在 React-Three-Fiber 中创建自定义抖动着色器，灵感来自 PS1 时代游戏的视觉风格，为 3D 模型添加复古美感。]]></description>
-      <guid>https://tympanus.net/codrops/2024/09/03/how-to-create-a-ps1-inspired-jitter-shader-with-react-three-fiber/</guid>
-      <pubDate>Tue, 03 Sep 2024 09:57:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
