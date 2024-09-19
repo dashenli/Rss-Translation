@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 19 Sep 2024 03:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:18:09 GMT</lastBuildDate>
+    <item>
+      <title>只需思考即可操作 Alexa。连接大脑和计算机的接口现状</title>
+      <link>https://wired.jp/article/synchron-amazon-alexa-brain-computer-interface-bci/</link>
+      <description><![CDATA[一名 ALS 患者植入了 Synchron 开发的脑机接口（BCI），仅通过思维就能控制亚马逊的 Alexa。尽管仍处于临床试验阶段，但仅使用大脑的命令来执行任务的那一天可能会到来。]]></description>
+      <guid>https://wired.jp/article/synchron-amazon-alexa-brain-computer-interface-bci/</guid>
+      <pubDate>Thu, 19 Sep 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>您的密码会通过您的视线泄露吗？发现利用 Apple Vision Pro 眼动追踪的攻击</title>
       <link>https://wired.jp/article/apple-vision-pro-persona-eye-tracking-spy-typing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[黑客 Sammy Kamkar 发布了他的激光麦克风的开源版本。该设备是一种间谍工具，可以通过您的窗户秘密拾取某人家中的声音，甚至告诉您正在输入的文本。]]></description>
       <guid>https://wired.jp/article/sz-infrared-laser-microphone-keystroke-surveillance/</guid>
       <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用智能手机快速交换联系人</title>
-      <link>https://wired.jp/article/how-to-swap-contact-info-with-someone-using-your-phones/</link>
-      <description><![CDATA[智能手机无需下载其他应用程序即可交换联系信息。借助 iOS 和 Android 上的这些工具，您再也不用搜索名片了。]]></description>
-      <guid>https://wired.jp/article/how-to-swap-contact-info-with-someone-using-your-phones/</guid>
-      <pubDate>Sun, 15 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
