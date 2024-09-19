@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 19 Sep 2024 12:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 15:18:06 GMT</lastBuildDate>
+    <item>
+      <title>欧盟委员会正在审查苹果第三方配件的 DMA 合规性 ↦</title>
+      <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
+      <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
+
+今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
+      <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
+    </item>
     <item>
       <title>黑色版 Apple Watch Ultra 2 “太恶心了” ↦</title>
       <link>https://sixcolors.com/link/2024/09/the-black-apple-watch-ultra-2-is-sick-as-hell/</link>
@@ -53,7 +62,7 @@ Jonathan Reed 谈 watchOS 11
     <item>
       <title>（播客）下游 78：算法</title>
       <link>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</link>
-      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 再次加入大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
+      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 重返大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</guid>
       <pubDate>Tue, 17 Sep 2024 20:58:04 GMT</pubDate>
     </item>
@@ -118,15 +127,6 @@ Apple 的新睡眠呼吸暂停检测功能已获得美国食品和药物管理�
 十年前，iPhone 首次变大了。…]]></description>
       <guid>https://sixcolors.com/post/2024/09/ten/</guid>
       <pubDate>Mon, 16 Sep 2024 14:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 真的会缩短 Mac 电池寿命吗？↦</title>
-      <link>https://sixcolors.com/link/2024/09/does-chrome-really-kill-mac-battery-life/</link>
-      <description><![CDATA[Matt Birchler 进行了大量电池测试，发现 Chrome 会缩短 Mac 电池寿命的传统观点站不住脚：
-
-使用 Chrome 时，电池电量会剩下 54%，而使用 Safari 时，电池电量会剩下大约 50%。…]]></description>
-      <guid>https://sixcolors.com/link/2024/09/does-chrome-really-kill-mac-battery-life/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:07:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
