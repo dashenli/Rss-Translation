@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:31:09 GMT</lastBuildDate>
+    <item>
+      <title>人工智能不会产生幻觉——为什么将人类特征归因于技术是用户最大的陷阱</title>
+      <link>https://thenextweb.com/news/ai-hallucinate-why-human-tech-users-pitfall</link>
+      <description><![CDATA[今年，加拿大航空公司输掉了一场诉讼，原告是被一个人工智能聊天机器人误导购买全价机票的，并保证根据公司的丧亲政策，这些乘客稍后会得到退款。该航空公司试图声称该机器人“对自己的行为负责”。这一论点被法院驳回，该公司不仅必须支付赔偿金，还因试图与此事撇清关系而受到公众批评。很明显，公司要对人工智能模型负责，即使它们犯了我们无法控制的错误。人工智能世界发展迅速......这个故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/ai-hallucinate-why-human-tech-users-pitfall</guid>
+      <pubDate>Thu, 19 Sep 2024 08:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士初创企业押注光子芯片来降低数据中心的能源消耗</title>
+      <link>https://thenextweb.com/news/swiss-startup-photonic-chips-cut-data-centre-energy-consumption</link>
+      <description><![CDATA[在人工智能蓬勃发展的背景下，数据中心消耗的电量惊人。它们还占全球能源相关排放量的 1%。到 2030 年，它们的电力需求可能会增加 160%。总部位于瑞士的 Lightium 旨在提供解决方案。这家年轻的初创公司今天宣布，它已筹集了 700 万美元的种子资金，用于通过下一代光子芯片来加速数据中心的性能并降低其能耗。数据中心本质上是由三个组件组成的大型集群：中央处理器 (CPU)、图形处理器 (GPU) 和在这些处理器之间传输数据的光互连。这些互连通常基于......本故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/swiss-startup-photonic-chips-cut-data-centre-energy-consumption</guid>
+      <pubDate>Thu, 19 Sep 2024 07:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>科技界人士为何担心欧盟提议设立初创企业专员</title>
       <link>https://thenextweb.com/news/concerns-about-eu-startup-commissioner-zaharieva</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[数据中心消耗了全球约 2% 的电力，相当于能源相关温室气体排放量的 1% 左右。   观看 Netflix 视频、在云端存储内容以及在 Zoom 上开会只是激发机器能源需求的部分在线活动。但也许最大的罪魁祸首是人工智能。人工智能模型需要大量的计算能力来训练和运行，特别是对于机器学习和深度学习任务。因此，国际能源署 (IEA) 预测，到 2026 年，数据中心的能源使用量将翻一番。无论你如何划分，数据中心的能源使用都是......这个故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/startups-ai-data-centre-energy-use-big-tech</guid>
       <pubDate>Tue, 17 Sep 2024 12:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管食品杂货配送行业迅速放缓，Flink 仍获 1.5 亿美元融资</title>
-      <link>https://thenextweb.com/news/flink-raises-150m-rapid-grocery-delivery-sector-slowdown</link>
-      <description><![CDATA[Flink 是欧洲少数几家仍在运营的快速杂货配送初创公司之一，该公司已获得 1.5 亿美元融资，以扩大其在德国和荷兰的业务。这笔融资包括 1.15 亿美元的股权和 3500 万美元的债务，得到了 BOND、Northzone 和连锁超市 REWE 等新老投资者的支持。据报道，这笔资金将使该公司的估值接近 10 亿美元。这家初创公司的创始人兼董事总经理 Oliver Merkel 表示，借助这笔新资金，Flink 计划在这两个国家“扩大业务范围、提高运营效率并继续提供服务”。这家总部位于柏林的初创公司将执行这一计划......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/flink-raises-150m-rapid-grocery-delivery-sector-slowdown</guid>
-      <pubDate>Tue, 17 Sep 2024 10:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apian 和 Alphabet 旗下的 Wing 将首次在伦敦使用无人机运送 NHS 血液样本</title>
-      <link>https://thenextweb.com/news/apian-wing-fly-nhs-blood-samples-drone-london-first</link>
-      <description><![CDATA[伦敦首次使用电动无人机在市中心的盖伊医院和圣托玛医院之间运送紧急血液样本。即将进行的飞行是 NHS、医疗物流初创公司 Apian 和无人机制造商 Wing（Alphabet 的子公司，从该公司的登月工厂 X 中分离出来）联合试点的一部分。目的是通过加快周转交付时间来改善患者护理。目前，血液样本运输依赖于面包车和摩托车快递员，对他们来说，旅程可能需要半个多小时。无人机可以将时间缩短到不到两分钟。…This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/apian-wing-fly-nhs-blood-samples-drone-london-first</guid>
-      <pubDate>Mon, 16 Sep 2024 23:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
