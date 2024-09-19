@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 19 Sep 2024 01:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 03:20:49 GMT</lastBuildDate>
+    <item>
+      <title>您的密码会通过您的视线泄露吗？发现利用 Apple Vision Pro 眼动追踪的攻击</title>
+      <link>https://wired.jp/article/apple-vision-pro-persona-eye-tracking-spy-typing/</link>
+      <description><![CDATA[Apple 的 MR 耳机“Vision Pro”可让您使用自己的 3D 头像享受通话。然而，一个研究小组发现了一种利用这种眼球追踪功能的攻击方法。详细信息由《连线》独家透露。]]></description>
+      <guid>https://wired.jp/article/apple-vision-pro-persona-eye-tracking-spy-typing/</guid>
+      <pubDate>Thu, 19 Sep 2024 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>宠物主人和航空公司对携带心爱的狗乘飞机旅行的新规定感到困惑。还提供“狗优先”航班</title>
       <link>https://wired.jp/article/dogs-on-planes-new-rabies-rules-august-2024/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>跳过视频会让你感觉更无聊：研究结果</title>
       <link>https://wired.jp/article/digital-switching-increases-boredom/</link>
-      <description><![CDATA[您是否曾发现自己在观看 SNS 或 YouTube 视频来消磨时间时感到更加无聊？一项新研究表明，造成这种情况的原因是频繁跳过视频导致沉浸感丧失。]]></description>
+      <description><![CDATA[您是否曾在切换 SNS 或 YouTube 视频来消磨时间时感到更加无聊？根据新的研究，罪魁祸首是频繁跳过视频导致的沉浸感丧失。]]></description>
       <guid>https://wired.jp/article/digital-switching-increases-boredom/</guid>
       <pubDate>Wed, 18 Sep 2024 22:30:00 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 17 Sep 2024 22:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>“macOS Sequoia”的显着新功能以及如何安装它们</title>
+      <title>macOS Sequoia 的显着新功能以及如何安装它们</title>
       <link>https://wired.jp/article/apple-macos-sequoia-features/</link>
       <description><![CDATA[苹果发布了“macOS Sequoia”。我们来介绍一下新操作系统值得关注的新功能、安装方法以及兼容机型。]]></description>
       <guid>https://wired.jp/article/apple-macos-sequoia-features/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[智能手机无需下载其他应用程序即可交换联系信息。借助 iOS 和 Android 上的这些工具，您再也不用搜索名片了。]]></description>
       <guid>https://wired.jp/article/how-to-swap-contact-info-with-someone-using-your-phones/</guid>
       <pubDate>Sun, 15 Sep 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么迷幻药物“MDMA”没有被批准用于治疗创伤后应激障碍？</title>
-      <link>https://wired.jp/article/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/</link>
-      <description><![CDATA[今年早些时候，美国食品和药物管理局考虑是否可以将 MDMA（又称摇头丸）用于治疗 PTSD 的心理疗法。有没有明确的数据表明这款药物对患者的有效性和安全性？我们来看看咨询委员会的讨论。]]></description>
-      <guid>https://wired.jp/article/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/</guid>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
