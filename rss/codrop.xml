@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 19 Sep 2024 12:31:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 12:34:56 GMT</lastBuildDate>
+    <item>
+      <title>集体#865</title>
+      <link>https://tympanus.net/codrops/collective/collective-865/</link>
+      <description><![CDATA[CSS 的不可否认的实用性 :has * 回收堆栈 * CSS 触发器]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-865/</guid>
+      <pubDate>Fri, 20 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>滚动布局形式的探索</title>
       <link>https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[等宽网页 * CSS 2024 状态 * 免费公共 API]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-861/</guid>
       <pubDate>Fri, 06 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站汇总#65</title>
-      <link>https://tympanus.net/codrops/2024/09/06/inspirational-websites-roundup-65/</link>
-      <description><![CDATA[探索全新精选的鼓舞人心的网站，每个网站都具有卓越的设计，可以激发您的创造力。]]></description>
-      <guid>https://tympanus.net/codrops/2024/09/06/inspirational-websites-roundup-65/</guid>
-      <pubDate>Fri, 06 Sep 2024 08:57:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
