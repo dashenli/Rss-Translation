@@ -4,9 +4,16 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 20:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 22:29:28 GMT</lastBuildDate>
     <item>
-      <title>据报道，新的 macOS Sequoia 更新与 VPN 和 Crowdstrike 等网络安全工具配合不佳</title>
+      <title>Waymo 的无人驾驶汽车下一步将登陆这些城市</title>
+      <link>https://mashable.com/article/waymo-driverless-cars-coming-cities</link>
+      <description><![CDATA[Alphabet 旗下 Waymo 正在与 Uber 合作]]></description>
+      <guid>https://mashable.com/article/waymo-driverless-cars-coming-cities</guid>
+      <pubDate>Fri, 20 Sep 2024 21:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，新的 macOS Sequoia 更新与 VPN 和 CrowdStrike 等网络安全工具配合不佳</title>
       <link>https://mashable.com/article/apple-macos-sequoia-cybersecurity-vpn-issues</link>
       <description><![CDATA[苹果的新款 MacOS Sequoia 似乎导致了 VPN 和网络安全软件出现问题。]]></description>
       <guid>https://mashable.com/article/apple-macos-sequoia-cybersecurity-vpn-issues</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[9 月 17 日，塔吉特宣布 Circle Week 将于 10 月 6 日至 12 日回归，与亚马逊的 Prime Big Deal Days 重叠。以下是我们目前所知道的消息。]]></description>
       <guid>https://mashable.com/article/target-circle-week-october-prime-day-2024</guid>
       <pubDate>Fri, 20 Sep 2024 15:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pharrell 的“Piece By Piece”展示了一款乐高迷你人物生成器</title>
-      <link>https://mashable.com/article/lego-minifig-generator-piece-by-piece</link>
-      <description><![CDATA[如果你是迷你人偶，你会是什么样子？这个有趣的网站会告诉你答案。]]></description>
-      <guid>https://mashable.com/article/lego-minifig-generator-piece-by-piece</guid>
-      <pubDate>Fri, 20 Sep 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
