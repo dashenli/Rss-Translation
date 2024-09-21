@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sat, 21 Sep 2024 18:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 21:13:25 GMT</lastBuildDate>
+    <item>
+      <title>Munchkin 棋盘游戏购买指南</title>
+      <link>https://www.ign.com/articles/munchkin-board-game-buying-guide</link>
+      <description><![CDATA[玩纸牌游戏 Munchkin 所需了解的一切以及其众多扩展和分支。]]></description>
+      <guid>https://www.ign.com/articles/munchkin-board-game-buying-guide</guid>
+      <pubDate>Sat, 21 Sep 2024 19:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>《雷曼》如何成为一款棋盘游戏</title>
       <link>https://www.ign.com/articles/how-rayman-is-becoming-a-board-game</link>
@@ -29,7 +36,7 @@
     <item>
       <title>EA Sports FC 25 - 正在审核中</title>
       <link>https://www.ign.com/articles/ea-sports-fc-25-review</link>
-      <description><![CDATA[欢迎，但目前为止，基本上是渐进式的改进，有点过于安全。]]></description>
+      <description><![CDATA[欢迎大家关注，但目前为止，大部分的渐进式改进还是有点过于安全了。]]></description>
       <guid>https://www.ign.com/articles/ea-sports-fc-25-review</guid>
       <pubDate>Fri, 20 Sep 2024 16:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[利用这些活跃且有效的 Monopoly GO 掷骰子链接赢取免费骰子！]]></description>
       <guid>https://www.ign.com/articles/free-monopoly-go-dice-links</guid>
       <pubDate>Fri, 20 Sep 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 极客周 2024：所有消息已公布</title>
-      <link>https://www.ign.com/articles/netflix-geeked-week-2024-announcements</link>
-      <description><![CDATA[本周迄今为止的亮点。]]></description>
-      <guid>https://www.ign.com/articles/netflix-geeked-week-2024-announcements</guid>
-      <pubDate>Fri, 20 Sep 2024 02:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
