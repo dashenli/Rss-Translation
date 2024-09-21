@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sat, 21 Sep 2024 15:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 18:19:10 GMT</lastBuildDate>
+    <item>
+      <title>《雷曼》如何成为一款棋盘游戏</title>
+      <link>https://www.ign.com/articles/how-rayman-is-becoming-a-board-game</link>
+      <description><![CDATA[幕后花絮：了解 Ubisoft 和 Flyos 如何将雷曼电子游戏改编成棋盘游戏。]]></description>
+      <guid>https://www.ign.com/articles/how-rayman-is-becoming-a-board-game</guid>
+      <pubDate>Sat, 21 Sep 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最佳 Xbox Game Pass Ultimate 优惠又回来了：3 个月仅需 33.49 美元</title>
       <link>https://www.ign.com/articles/the-best-xbox-game-pass-ultimate-deal-is-back-get-3-months-for-33</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周迄今为止的亮点。]]></description>
       <guid>https://www.ign.com/articles/netflix-geeked-week-2024-announcements</guid>
       <pubDate>Fri, 20 Sep 2024 02:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 确认即将与 CD Projekt Red 合作推出全新赛博朋克动画项目</title>
-      <link>https://www.ign.com/articles/netflix-confirms-a-new-cyberpunk-animated-project-with-cd-projekt-red-is-on-the-way</link>
-      <description><![CDATA[Netflix 已确认与 CD Projekt Red 合作推出另一个 Cyber​​punk 动画项目......但并未透露具体内容。]]></description>
-      <guid>https://www.ign.com/articles/netflix-confirms-a-new-cyberpunk-animated-project-with-cd-projekt-red-is-on-the-way</guid>
-      <pubDate>Fri, 20 Sep 2024 01:15:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
