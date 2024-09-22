@@ -4,7 +4,42 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Sep 2024 12:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:14:43 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Windows 终端以及它的用途</title>
+      <link>https://www.theverge.com/24249353/windows-11-terminal-microsoft-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24249353/windows-11-terminal-microsoft-how-to</guid>
+      <pubDate>Sun, 22 Sep 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>聊天机器人成为老师</title>
+      <link>https://www.theverge.com/24249388/notebooklm-google-steven-johnson-vergecast</link>
+      <description><![CDATA[
+
+The Verge
+
+Steven Johnson 是一位非常注重元理论的作家。他经常撰写有关科学和技术的文章，喜欢沉浸在他所报道的内容中，甚至利用它们来改变他写书的方式。几年前，在 ChatGPT 推出、AI 热潮席卷科技界的几个月前，约翰逊接到了一份杂志任务，这让他真正深入了 AI 的兔子洞。从此他再也没有回来。
+现在，除了写书，约翰逊还在谷歌工作。他是开发一款名为 NotebookLM 的产品的团队的一员——团队称之为“笔记本”。它是一款笔记和研究工具：您可以上传文档并导入网络链接，然后 Notebook 的 Gemini 人工智能可以帮助您整理内容、提取信息并更好地理解主题。当我问约翰逊他是如何与谷歌合作时，他说：“他们联系了我，并说，‘嘿，你一直梦想着有这样一款理想的软件工具，它可以帮助你整理思路、帮助你写作、帮助你建立联系和集思广益。我们认为我们现在可以做到。’”约翰逊签约后，自 2022 年夏天以来一直在谷歌工作。该产品本身于 2023 年首次推出作为 Project Tailwind，此后进行了更名和大规模扩展。就在上周，该团队推出了 Audio Overviews，它根据您提供的信息生成播客——有两个健谈的主持人，大量的来回，以及对短语“深入研究”和“系好安全带”的真正非凡的偏爱。它很迷人，很复杂，而且它正在快速进步。
+
+在这期The Vergecast中，Johnson 加入并讨论了他对人工智能的迷恋、他在谷歌的时光以及 NotebookLM 的现在和未来。我们讨论了这样的工具引发的复杂问题，以及让人工智能做你的研究和作业是否可行。
+我们还讨论了如何确保像 NotebookLM 这样的工具既准确又易于核实事实，为什么上下文窗口对人工智能的未来比大多数人意识到的更重要，以及人工智能播客主持人在对话中应该多久说一次“喜欢”。我们讨论了约翰逊作为作家和创作者的经历，以及人工智能如何改变他的工作方式。
+
+
+
+如果您想详细了解我们在本集中讨论的所有内容，以下是一些入门链接：
+
+NotebookLM
+史蒂文·约翰逊的网站/时事通讯
+来自史蒂文·约翰逊：聆听算法
+
+谷歌公布 Project Tailwind 项目——一款可以从你的文档中学习的原型 AI 笔记本
+谷歌的 AI 笔记应用是一个伟大事业的混乱开端
+谷歌正在利用 AI 制作假来自笔记的播客
+]]></description>
+      <guid>https://www.theverge.com/24249388/notebooklm-google-steven-johnson-vergecast</guid>
+      <pubDate>Sun, 22 Sep 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>每个人都是机器人的社交网络</title>
       <link>https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer</link>
@@ -13,7 +48,7 @@
       <pubDate>Sun, 22 Sep 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Jony Ive 确认他正在与 OpenAI 合作开发新设备</title>
+      <title>Jony Ive 确认正在与 OpenAI 合作开发新设备</title>
       <link>https://www.theverge.com/2024/9/21/24250867/jony-ive-confirms-collaboration-openai-hardware</link>
       <description><![CDATA[
 
@@ -77,36 +112,6 @@ Jony Ive 已确认他正在与 OpenAI 首席执行官 Sam Altman 合作开展 AI
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review</guid>
       <pubDate>Sat, 21 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个小盒子在离网时提供按需电力</title>
-      <link>https://www.theverge.com/24248887/ecoflow-alternator-charger-review-boondock-power</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24248887/ecoflow-alternator-charger-review-boondock-power</guid>
-      <pubDate>Sat, 21 Sep 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚历克西斯·奥哈尼安 (Alexis Ohanian) 将在 X 上首播他的女子足球节目</title>
-      <link>https://www.theverge.com/2024/9/20/24250374/alexis-ohanian-twitter-x-the-offseason-midge-purce-linda-yaccarino</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-在周五晚些时候的一封电子邮件中，X 首席执行官 Linda Yaccarino 宣布推出一项新的“视频标签”功能（据 X 消息人士称，类似于 TikTok 风格的无限滚动）和一部 X 独家真人秀系列，名为The Offseason，由足球明星 Midge Purce 主演，由投资者 Alexis 制作Ohanian。
-此公告是在周二X 合伙人和客户在纽约办公室聚会后不久发布的，而 Yaccarino 则致力于留住广告商和内容创作者——这两者都是平台的关键，但由于其所有者埃隆·马斯克的行为，他们正在稳步流失。
-
-Yaccarino 补充说，Purce 和 Ohanian 来到办公室分享有关即将首映的The Offseason的更多信息——定于10 月 18 日上线。 X 一直在与 MrBeast 等创作者和 Don Lemon（在 Musk 的节目被取消后，他正在起诉）等名人达成内容协议，旨在加强其向视频的转型，并挑战 YouTube 作为视频托管平台的地位。
-
-
-每个人都在观看女子体育赛事 @OffseasonFC 将于 10 月 18 日发布！ https://t.co/bgkOP0cCSu— Alexis Ohanian (@alexisohanian) 2024 年 9 月 19 日
-
-
-The Offseason由真人秀制作人 Alex Baskin（制作了Vanderpump Rules）和 Box to Box Films（Drive to Survive）与 Ohanian 合作制作，据Variety报道。该节目关注 11 名国家女子足球联赛球员在休赛期，在迈阿密共同生活两周，提供“不受审查的个人故事、人际关系和球场旅程”。
-Ohanian 和 Yaccarino 还在其他帖子中宣传了他的女子田径赛事 Athlos，并表示周四晚上将在 X 上从纽约市现场直播。
-Yaccarino 的电子邮件还声称，独家新内容和安全方面的进步将很快在该平台上推出，以及像 X TV App 测试版现已推出（我之前曾报道过正在开发中）。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/20/24250374/alexis-ohanian-twitter-x-the-offseason-midge-purce-linda-yaccarino</guid>
-      <pubDate>Sat, 21 Sep 2024 00:59:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
