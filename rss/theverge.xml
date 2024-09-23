@@ -4,7 +4,56 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Sep 2024 01:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:30:57 GMT</lastBuildDate>
+    <item>
+      <title>这款任天堂神秘新设备是什么？</title>
+      <link>https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+任天堂已提交 神秘的新型无线设备本周末提交给美国联邦通信委员会 (FCC)，而且它并不是我们预计将在明年 4 月之前发布的 Switch 2 游戏机。 CLO-001 型号并未透露其实际用途，但考虑到原始 Switch (HAC-001) 和 DS (NTR-001) 游戏机等设备上使用的“001”代码，它似乎是一个全新的产品线。
+它仅被标记为“无线设备”，而不是“无线游戏机”或任何类型的控制器，如 Joy-Con。文件中的基本图表显示了 FCC 标签将“显示在底部凹陷区域”的位置，该标签具有方形底座和圆角。 
+文件还显示，测试中没有涉及任何可穿戴配件，也没有电池，只能插入电源使用——它连接到任天堂在测试中随其 Switch 游戏机附带的相同 USB-C 充电器，但这只表明它可以通过 USB-C 供电。
+CLO-001 在无线技术方面出奇地轻便——没有 5GHz 或 6GHz Wi-Fi 无线电，也没有蓝牙，但它确实配备了 2.4GHz Wi-Fi 无线电和 24GHz mmWave 传感器。
+
+
+图片：FCC
+什么？
+
+24GHz 毫米波传感器是我们掌握的最有趣的细节。它可能是一个用于跟踪运动的雷达传感器，例如密切跟踪手势或检测设备附近是否有人，从而使其自动开启，就像我们在 Pixel 4 和 Aqara 的智能家居存在传感器 等设备中发现的 60GHz 传感器一样。
+第一代 Switch 中的 Wi-Fi 硬件由赛普拉斯半导体公司 (Cypress Semiconductor) 创建，该公司于 几年前，英飞凌现在正在宣传其 24GHz 雷达传感器的功能。据英飞凌称，24GHz 雷达可以提供高达 100 米的探测范围，可以穿透障碍物，但尺寸较大，分辨率较低。我们无法分辨该设备内部有哪些硬件，但英飞凌网站包含与 60GHz 传感器的比较。
+那么... 它是什么？猜测包括一个新的手势控制界面，超级任天堂世界主题公园中某种设备的升级基座，甚至可能是任天堂十年前尝试过的“生活质量”睡眠追踪计划的回归。它还可以通过检测现实世界的物体来支持 AR 功能 - 这意味着它可以用于新的 Mario Kart Live 硬件 或甚至 Pokémon Go 类系统。
+鉴于可用的信息有限，现在真的是任何人的猜测。但是随着 Switch 2 的到来，谣言四起，所以如果您有任何更好的想法，请告诉我们！
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing</guid>
+      <pubDate>Mon, 23 Sep 2024 12:08:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥运会最具争议的时刻发生在四秒之内</title>
+      <link>https://www.theverge.com/24240873/paris-olympics-2024-gymnastics-jordan-chiles-controversy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24240873/paris-olympics-2024-gymnastics-jordan-chiles-controversy</guid>
+      <pubDate>Mon, 23 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从明年开始你可以在家接种流感疫苗</title>
+      <link>https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray</link>
+      <description><![CDATA[
+
+居家治疗可以帮助无法前往接种疫苗的人。 |照片由 Jeff Gritchen/Digital First Media/Orange County Register via Getty Images 拍摄
+
+美国食品药品管理局已批准一种可在家进行的鼻腔给药流感免疫治疗。 FluMist 是阿斯利康 20 年前最初开发的一种鼻喷疫苗，用于诊所内治疗。该疫苗仍需凭处方购买，预计明年将通过一家新的网上药店发售，据纽约时报报道。
+该治疗需要人们在即将推出的 FlueMist Home 网站上填写一份调查问卷。经药剂师批准后，鼻喷剂将直接运送到客户家门口。据《纽约时报》报道，目前自付费用约为每剂 35 至 45 美元，但根据保险范围，费用可能会下降。
+美国疾病控制与预防中心发现 FluMist 的功效与传统疫苗相似。自 2003 年首次获得 FDA 批准以来，医疗保健提供商一直提供该疫苗。该疫苗适用于 2 至 49 岁之间的人群，但 FDA 建议由父母/看护人为 18 岁以下的任何人使用鼻喷剂。对于不愿意注射或因其他原因难以或不方便前往接受流感免疫治疗的人来说，该喷雾剂可能是一种替代方案。
+“今天批准的首个供自我或看护人接种的流感疫苗为接种安全有效的季节性流感疫苗提供了一种新选择，可能为个人和家庭带来更大的便利性、灵活性和可及性，”FDA 疫苗中心主任 Peter Marks 博士说。 世界卫生组织报告称，每年有大约 10 亿例季节性流感病例，导致每年 29 万至 65 万人因呼吸系统疾病死亡。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24251946/fda-approves-flumist-self-administered-flu-shot-nasal-spray</guid>
+      <pubDate>Mon, 23 Sep 2024 10:09:37 GMT</pubDate>
+    </item>
     <item>
       <title>观看 iPhone 16 的充电电池更换过程</title>
       <link>https://www.theverge.com/2024/9/22/24251327/iphone-16-teardown-repair-battery-adhesive</link>
@@ -26,7 +75,7 @@
 
 The Verge
 
-Steven Johnson 是一位非常注重元理论的作家。他经常撰写有关科学和技术的文章，喜欢沉浸在他所报道的内容中，甚至利用它们来改变他写书的方式。几年前，在 ChatGPT 推出、AI 热潮席卷科技界的几个月前，约翰逊接到了一份杂志任务，这让他真正深入了 AI 的兔子洞。从此他再也没有回来。
+Steven Johnson 是一位非常注重元理论的作家。他经常撰写有关科学和技术的文章，喜欢沉浸在他所报道的内容中，甚至利用它们来改变他写书的方式。几年前，在 ChatGPT 推出和 AI 热潮席卷科技界的几个月前，约翰逊接到了一份杂志任务，这让他真正深入了 AI 的兔子洞。从此他再也没有回来。
 现在，除了写书，约翰逊还在谷歌工作。他是开发一款名为 NotebookLM 的产品的团队的一员——团队称之为“笔记本”。它是一款笔记和研究工具：您可以上传文档并导入网络链接，然后 Notebook 的 Gemini 人工智能可以帮助您整理内容、提取信息并更好地理解主题。当我问约翰逊他是如何与谷歌合作时，他说：“他们联系了我，并说，‘嘿，你一直梦想着有这样一款理想的软件工具，它可以帮助你整理思路、帮助你写作、帮助你建立联系和集思广益。我们认为我们现在可以做到。’”约翰逊签约后，自 2022 年夏天以来一直在谷歌工作。该产品本身于 2023 年首次推出作为 Project Tailwind，此后进行了更名和大规模扩展。就在上周，该团队推出了 Audio Overviews，它根据您提供的信息生成播客——有两个健谈的主持人，大量的来回，以及对短语“深入研究”和“系好安全带”的真正非凡的偏爱。它很迷人，很复杂，而且它正在快速进步。
 
 在这期The Vergecast中，Johnson 加入并讨论了他对人工智能的迷恋、他在谷歌的时光以及 NotebookLM 的现在和未来。我们讨论了这样的工具引发的复杂问题，以及让人工智能做你的研究和作业是否可行。
@@ -88,30 +137,9 @@ Jony Ive 已确认他正在与 OpenAI 首席执行官 Sam Altman 合作开展 AI
 现在，X 的律师表示，该公司所做的正是马斯克发誓不会做的事情：删除巴西法官下令删除的账户，因为法官说这些账户威胁到了巴西的民主。律师表示，X 还遵守了法官的其他要求，包括支付罚款和在该国任命新的正式代表。
 该公司在过去三周内一直在反对禁令，并继续分发来自巴西极右翼社区成员的内容。这导致X 被巴西 ISP 屏蔽，并最终在 Cloudflare 的帮助下试图绕过屏蔽。
 但本周早些时候，情况似乎发生了变化。正如《纽约时报》所指出的那样，事情始于周四 X 与巴西的新律师接洽。然后是周五提交的申请。根据周六提交的一份文件，巴西最高法院确认了 X 有意返回该国，并给予该公司五天时间提交其遵守法院命令的文件。
-这一切都与X 所有者埃隆·马斯克在捍卫该国“言论自由”方面所持的立场相矛盾。]]></description>
+这一切都与X 所有者埃隆·马斯克在捍卫该国“言论自由”方面直言不讳的态度相矛盾。]]></description>
       <guid>https://www.theverge.com/2024/9/21/24250697/x-complies-brazil-supreme-court</guid>
       <pubDate>Sat, 21 Sep 2024 16:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Connect 2024 值得期待的内容——下一代 Quest VR 头显</title>
-      <link>https://www.theverge.com/24250169/meta-connect-2024-stream-quest-3s-vr-ar-ai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24250169/meta-connect-2024-stream-quest-3s-vr-ar-ai</guid>
-      <pubDate>Sat, 21 Sep 2024 15:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>《勇敢的乡绅》是一款混合了 2D 和 3D 的可爱冒险游戏</title>
-      <link>https://www.theverge.com/2024/9/21/24249299/the-plucky-squire-art-interview-switch-ps5-xbox-steam</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/21/24249299/the-plucky-squire-art-interview-switch-ps5-xbox-steam</guid>
-      <pubDate>Sat, 21 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 有很大机会赢得 AI 硬件竞赛</title>
-      <link>https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect</guid>
-      <pubDate>Sat, 21 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
