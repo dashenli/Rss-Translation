@@ -4,121 +4,174 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:14:56 GMT</lastBuildDate>
     <item>
-      <title>英国助力开启煤炭时代——现在它正在关闭最后一座工厂</title>
+      <title>如何在亚马逊秋季 Prime Day 期间找到最优惠的价格</title>
+      <link>https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find</guid>
+      <pubDate>Mon, 23 Sep 2024 21:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delta 模拟器将为 Nintendo DS 游戏提供在线多人游戏功能</title>
+      <link>https://www.theverge.com/2024/9/23/24252493/delta-ios-emulator-online-multiplayer-nintendo-ds</link>
+      <description><![CDATA[
+
+图片：Riley Testut
+
+出色的 iOS Delta 模拟器将变得更好：据 Delta 开发人员 Riley Testut 称，不久后，该应用将支持 Nintendo DS 游戏中的在线多人游戏。 Testut 关于该功能的帖子包括一个在模拟器上玩的两个人之间的 Mario Kart DS 比赛的视频，它立刻让我回想起多年前在自己的 DS 上玩游戏的情景。
+
+
+
+任天堂早在 2014 年就关闭了 DS 的在线服务，所以我们问 Testut 在线服务将如何运作。 Testut 告诉 The Verge：“它基于 melonDS 的在线支持，可连接到第三方 Nintendo [Wi-Fi 连接] 服务器（例如 Kaeru、Wimmfi、AltWFC 等）。这意味着所有 1000 多万 Delta 用户将能够连接到使用这些第三方 Nintendo WFC 服务器的其他 Delta 用户和真实设备用户。”
+
+
+然而，“这也意味着它目前仅限于 Nintendo DS 游戏，但所有带有 Nintendo WFC 的 Nintendo DS 游戏均受支持，”Testut 说道。 Delta 团队不打算托管自己的服务器，因此当在线多人游戏可供所有人使用时，它将是免费的。
+您可能需要等待一段时间才能亲自尝试在线多人游戏。Testut 表示，该功能将首先在 Delta 的 Beta 版本中推出，供 Patreon 订阅者 使用。“我们还没有公开发布日期，”Testut 说。虽然令人失望，但这意味着您有足够的时间进行一些 Mario Kart DS 练习。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252493/delta-ios-emulator-online-multiplayer-nintendo-ds</guid>
+      <pubDate>Mon, 23 Sep 2024 21:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最值得购买的健身追踪器</title>
+      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
+      <pubDate>Mon, 23 Sep 2024 20:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>波士顿动力公司与 Assa Abloy 合作，让狗狗进入</title>
+      <link>https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry</link>
+      <description><![CDATA[
+
+您可能之前见过这些门检修面板。 |图片：Assa Abloy
+
+Assa Abloy 是一家瑞典大型企业集团，旗下拥有众多锁具和安防公司，如 Kwikset、Level lock 以及美国以外的 Yale 版本，目前正与波士顿动力公司合作，打造一种新的数字门禁系统，使波士顿动力公司的 Spot 机器人能够自主进入安全区域。这两家公司打算让公司更容易地部署机器人安全犬，让它们可以在建筑物内外不受约束地巡逻。
+波士顿动力公司的 Spot 机器人配备了数字访问凭证，可以使用蓝牙与 Assa Abloy 的 HID 品牌 Signo 读卡器 进行通信，使机器人可以轻松通过自动开启的门。无需用爪子轻敲面板。
+一些公司，如 Asylon Robotics，制造了自己的定制 Spot “DroneDog”（出现在亚特兰大猎鹰队的体育场），它也可以进入安全区域。但 Assa Abloy 已经拥有世界上最大的门禁系统安装基地之一。与波士顿动力公司密切合作可能意味着机器人巡逻警卫的正常化未来比我们想象的要快。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252240/assa-abloy-boston-dynamics-spot-robot-patrol-dog-door-smart-entry</guid>
+      <pubDate>Mon, 23 Sep 2024 20:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>X 会让你屏蔽的人看到你的帖子</title>
+      <link>https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+X 现在会将您的帖子显示给您已屏蔽的用户。在周一的回复中，X 所有者埃隆·马斯克表示，“屏蔽功能将阻止该帐户参与公开帖子，但不会阻止查看公开帖子。”
+目前，当您尝试查看已屏蔽您的人的个人资料时，X 会显示“您已被屏蔽”消息。除了屏蔽所有帖子外，它还会阻止您查看他们的回复、媒体、关注者和关注列表。
+虽然 X 的一位消息人士告诉The Verge，该平台之所以进行此更改，是因为人们在使用其他帐户或注销时已经可以查看已屏蔽他们的用户的帖子，但我们The Verge的几个人（包括我自己）已经注意到，如果您已注销，X 实际上会阻止您查看某人的个人资料。
+
+
+早就该发生这种情况了。 屏蔽功能将屏蔽该帐户参与公开帖子，但不会屏蔽查看公开帖子。— 埃隆·马斯克 (@elonmusk) 2024 年 9 月 23 日
+
+
+马斯克一直直言不讳地表示他不喜欢屏蔽按钮。去年，他表示该功能“毫无意义”，并且“需要弃用它，转而采用更强大的静音形式”。他还威胁要完全停止让用户在平台上屏蔽他人，私信除外。
+尽管 X 的屏蔽按钮将继续阻止某人与某人的帖子互动，但他们仍然能够看到这些帖子，这可能会让坏人更容易继续骚扰受害者。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts</guid>
+      <pubDate>Mon, 23 Sep 2024 19:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅赛德斯提高了其免提、无需注视的 Drive Pilot 功能的速度</title>
+      <link>https://www.theverge.com/2024/9/23/24252413/mercedes-drive-pilot-speed-germany-level-3-autonomous</link>
+      <description><![CDATA[
+
+梅赛德斯-奔驰 AG
+
+Drive Pilot，梅赛德斯-奔驰的 3 级“有条件自动化驾驶”功能，正在获得提速。该系统现在将支持德国高速公路上最高 95 公里/小时（59 英里/小时）的速度，这表明该汽车制造商对其突破界限的技术充满信心。
+梅赛德斯仍在等待德国监管机构的批准，然后才能向支持 Drive Pilot 的车辆客户推出软件更新。但一旦实现，该公司宣称将拥有“世界上最快的量产汽车 3 级系统”。
+Drive Pilot 与通用汽车的 Super Cruise、福特的 BlueCruise 和特斯拉的 Autopilot 等“免提”高速公路驾驶系统类似，它允许驾驶员在特定条件下将手从方向盘上移开，并将脚从油门踏板上移开。目前，该系统仅在美国两个州获准使用：加利福尼亚州和内华达州。但与要求驾驶员将视线集中在路面上的 2 级系统不同，梅赛德斯的 3 级系统有更多的限制。 
+
+这包括在满足某些条件时让驾驶员将视线从道路上移开，看向其他事物，例如游戏或电影。要使 Drive Pilot 正常工作，需要满足以下条件：您的车前有车辆；路况良好，标记和标线清晰；天气晴朗，光线最佳。如果不满足其中一个或多个条件，Drive Pilot 将无法使用。 
+最初，梅赛德斯将 Drive Pilot 宣传为走走停停交通的理想功能。让汽车掌控驾驶，这样您就可以查看手机或放松身心。当你需要重新控制车辆时，系统会给你足够的警告。
+但是通过提高最高速度，梅赛德斯现在似乎有意将 Drive Pilot 作为一般公路旅行的理想半自动驾驶系统进行销售。该公司将该系统设想为完全自动驾驶的垫脚石。
+司机擅长规避规则
+但是，根据公路安全保险协会最近进行的一项研究，司机擅长规避管理驾驶辅助系统的规则。虽然梅赛德斯表示，使用 Drive Pilot 时，司机不会睡着或爬进后座，但有些人肯定会尽最大努力。当汽车以比以前高得多的速度行驶时，只需一瞬间就会出现问题。 
+有研究表明，自动驾驶系统和人类驾驶员之间的交接可能特别棘手。当人们长时间不驾驶时，在紧急情况下突然接管控制权时，他们可能会反应过度。他们可能会过度纠正转向、刹车太猛，或者因为没有注意而无法正确响应。这些行为可能会产生多米诺骨牌效应，可能会很危险，甚至可能是致命的。
+大多数完全自动驾驶公司，如 Waymo 和 Cruise，都表示他们认为 3 级太危险了，更愿意专注于 4 级技术，将驾驶员完全排除在外。
+梅赛德斯正在申请在前灯、尾灯和后视镜上使用绿松石色标记灯的批准，以便其他驾驶员知道正在使用 3 级系统。该公司表示，德国允许的“有条件自动驾驶”最高速度为 130 公里/小时（80.7 英里/小时），并计划在 2020 年前达到这一目标。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252413/mercedes-drive-pilot-speed-germany-level-3-autonomous</guid>
+      <pubDate>Mon, 23 Sep 2024 19:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>松下的这款产品实际上是雾件——它将显示屏喷向空中</title>
+      <link>https://www.theverge.com/2024/9/23/24252304/panasonic-silky-fine-mist-water-pump-screen-projector</link>
+      <description><![CDATA[
+
+松下丝滑细雾演示。 | 图片：松下
+
+您见过鱼在空气中的水滴中游动吗？今天，我了解到松下一直在巧妙地改造室外空调系统，以产生这样的效果。 
+这里有一个视频：
+
+松下称之为“丝般细雾”，该公司主要将其作为一种消暑方式销售。该公司声称其喷嘴使用加压水和压缩空气的组合来喷出非常细腻的雾气（6 至 10 微米），摸起来不会感觉湿润。 松下表示该系统自 2019 年首次亮相以来，已被日本“全国各地的火车站和公共设施”采用。
+
+
+图片：松下
+松下的“绿色空调”配备“丝般细雾”。
+
+但与迪士尼和数十年来其他投影映射技术人员一样，松下很快意识到它也可以把雾气用于艺术装置，并且它已经自 2018 年以来一直在测试。最近，该公司将一台隐藏式雾化器和投影仪带到了一些技术博览会上，以展示它作为数字标牌的效果有多么惊人。 
+
+
+图片：松下
+
+需要注意的是：松下的系统似乎并不完全便携 — 该公司在北美销售的一款喷雾器系统宽 3 英尺，高 3 英尺，重近 420 磅，功耗为 2.4 千瓦本身就具有的功率。
+这里还有几个例子：
+
+
+这里有一个来自松下的视频，介绍它的工作原理：
+
+它的质量不如我们多年来见过的许多其他透明显示器那么高，对于任何看过迪士尼乐园“色彩世界”的人来说，它都不会是新奇的，它同样投射在雾气上。但你不能上去触摸任何一个。这个真的更酷。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252304/panasonic-silky-fine-mist-water-pump-screen-projector</guid>
+      <pubDate>Mon, 23 Sep 2024 19:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woot 为 Switch OLED 提供 50 美元折扣，以迎接新塞尔达</title>
+      <link>https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal</link>
+      <description><![CDATA[
+
+Switch OLED 拥有鲜艳的 7 英寸屏幕，配备白色或红色和蓝色 Joy-Con 控制器。 |照片由 Cameron Faulkner / The Verge 拍摄
+
+
+
+恰逢 9 月 26 日发布塞尔达传说：智慧的回声，Woot 以 299.99 美元（优惠 50 美元）的价格出售任天堂 Switch OLED，并附带白色或霓虹红和蓝色 Joy-Con 控制器。这比该游戏机迄今为止的最高价格低 10 美元，并且该优惠将持续到美国东部时间 9 月 29 日凌晨 1 点或售完即止。
+
+任天堂随时可能发布新款 Nintendo Switch，预计该款游戏机将配备更大的 8 英寸屏幕和更强大的性能。但就目前而言，Switch OLED 提供了现有产品线中外观最漂亮的掌上游戏机体验。它的 7 英寸 OLED 显示屏比标准 Switch 或 Switch Lite 上的屏幕更宽敞、更生动，并且具有改进的音质和比以前型号上脆弱的支架更坚固的支架。
+当然，Switch OLED 可以让你玩任天堂庞大的游戏库中的数百款游戏，从Zelda游戏到无数的Mario游戏。其中包括即将推出的游戏，例如Super Mario Party Jamboree和经典游戏，例如Mario Kart 8 Deluxe — 后者，您甚至可以在Nintendo Switch OLED Mario Kart 8 Deluxe 捆绑包中免费获得。 href=&quot;https://click.linksynergy.com/deeplink?id=nOD%2FrLJHOac&amp;mid=24348&amp;u1=verge&amp;murl=https%3A%2F%2Fwww.gamestop.com%2Fconsoles-hardware%2Fnintendo-switch%2Fconsoles%2Fproducts%2Fnintendo-switch-oled-model-mario-kart-8-deluxe-bundle%2F415419.html&quot; rel=&quot;sponsored nofollow noopener&quot; target=&quot;_blank&quot;&gt;GameStop 售价 349.9.99 美元。
+
+阅读我们的 Nintendo Switch OLED 评论。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252246/nintendo-switch-oled-woot-best-of-sale-deal</guid>
+      <pubDate>Mon, 23 Sep 2024 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你是犯罪嫌疑人，Telegram 将交出你的电话号码和 IP</title>
+      <link>https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+根据 Telegram 的 刚刚更新的隐私政策：
+如果 Telegram 收到相关司法机构的有效命令，确认您是违反 Telegram 服务条款的犯罪活动的嫌疑人，我们将对该请求进行法律分析，并可能向相关机构披露您的 IP 地址和电话号码。
+此次调整是 Telegram 在上个月Telegram 首席执行官 Pavel Durov被捕之后做出的最新调整，法国当局指控其在平台上助长非法活动。
+在 Telegram 的一篇帖子中，Durov 表示，该公司正在进行这些更改，以“阻止犯罪分子滥用”该应用的搜索功能。Telegram 的搜索功能允许用户查找公共频道和机器人，但 Durov 表示，该功能已被人们滥用“来销售非法商品”。
+“我们已经明确表示，违反我们规则的人的 IP 地址和电话号码可以根据有效的法律要求披露给相关部门，”Durov 在他的 Telegram 频道的一篇帖子中写道。 “我们不会让不良行为者危及我们平台近十亿用户的完整性。” 
+
+正如404 Media发现的Telegram 的执法政策此前仅适用于恐怖嫌疑人，该政策称：“如果 Telegram 收到确认您是恐怖嫌疑人的法院命令，我们可能会向相关部门披露您的 IP 地址和电话号码。” 
+Telegram 表示，将在其季度透明度报告中披露是否向当局提供了用户信息。
+Telegram 宽松的审核政策使该平台成为犯罪分子的热门场所。 《纽约时报》最近的一篇报道揭露了数千个与恐怖主义、儿童性虐待材料、贩毒和极端主义有关的频道。
+除了改变 Telegram 的隐私政策外，Durov 表示，版主还在使用人工智能来识别和删除平台搜索功能中的“有问题的内容”。本月早些时候，Telegram 改变了其关于私人聊天审核的措辞。它还禁用了“被滥用的” People Nearby 功能，并暂停了向其匿名博客工具 Telegraph 上传媒体。
+随着 Telegram 试图扭转其不良声誉，它可能会对该平台处理非法内容和审核的方式做出更多改变。]]></description>
+      <guid>https://www.theverge.com/2024/9/23/24252276/telegram-disclose-user-data-legal-requests-criminal-activity</guid>
+      <pubDate>Mon, 23 Sep 2024 18:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国助力开启煤炭时代——现在它正在关闭最后一座发电厂</title>
       <link>https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/23/24252195/last-coal-power-plant-close-climate-change-clean-energy</guid>
       <pubDate>Mon, 23 Sep 2024 18:05:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑色 Apple Watch Ultra 2 部分尺寸现已优惠 50 美元</title>
-      <link>https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252049/apple-watch-ultra-2-black-amazon-fire-tv-cube-deal-sale</guid>
-      <pubDate>Mon, 23 Sep 2024 17:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 Android 智能手表</title>
-      <link>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
-      <pubDate>Mon, 23 Sep 2024 17:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nothing 的开放式耳机在发布前泄露</title>
-      <link>https://www.theverge.com/2024/9/23/24252179/nothing-ear-open-wraparound-earbuds-design-leak</link>
-      <description><![CDATA[
-
-图片：WinFuture
-
-预计 Nothing 将公布其 耳塞（开放式）耳机明天上市，但一组来自WinFuture的泄露图片似乎破坏了惊喜。新的耳塞似乎有一个弯曲的带子，可以钩在耳朵后面，佩戴起来可能更舒适。
-根据WinFuture的说法，扬声器位于耳朵外面，可能配备 14.2 毫米驱动器。就像Nothing 的其他耳塞一样，Ear (Open) 的耳机柄看起来也将采用透明设计，并印有该公司的品牌标识。
-
-此外，WinFuture 报道称，这款新耳塞在没有外壳的情况下可提供长达 8 小时的电池续航时间（有外壳的情况下则为 30 小时）。据传，这款耳塞将配备触摸控制、可同时连接多个设备以及可在通话期间提供更清晰音频的功能。 
-Nothing Ear (Open) 可能也具有与 Nothing 其他耳机相同的 ChatGPT 集成，只要您有一部 Nothing Phone 就可以使用，WinFuture 报道。其他一些功能可能包括 IP54 防溅防尘等级，以及 Nothing 于 4 月首次推出的低音增强设置，更新的 Nothing Ear 和更实惠的 Nothing Ear (a)。
-我们仍然不知道 Nothing Ear (Open) 的价格是多少，或者它们是否会有白色以外的颜色可供选择。 Nothing 很可能会在周二分享更多消息，因为它已计划于美国东部时间上午 8:30 发布公告。]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252179/nothing-ear-open-wraparound-earbuds-design-leak</guid>
-      <pubDate>Mon, 23 Sep 2024 16:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation 的下一次 State of Play 将涵盖 20 多款 PS5 和 PSVR 2 游戏</title>
-      <link>https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games</link>
-      <description><![CDATA[
-
-照片由 Antonio G. Di Benedetto / The Verge 拍摄
-
-准备好观看更多 PlayStation 游戏吧。索尼将于明天（9 月 24 日）举办 State of Play 演示会，该公司表示，它将发布“来自全球各地工作室的 20 多款即将推出的 PS5 和 PS VR2 游戏”的新闻和更新。索尼表示，State of Play 会持续超过 30 分钟，您可以在美国东部时间下午 6 点/太平洋时间下午 3 点在 YouTube 和 Twitch 上观看。
-此次演示会是在PS5 Pro 预购开始前两天举行的。索尼最初关于 PS5 Pro 的介绍有点欠缺，所以希望我们能更好地了解新游戏机将增强的游戏。
-在5 月 State of Play 中，索尼分享了有关 Astro Bot（年度最佳游戏之一）和 Concord（索尼发布后不久就下线了。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games</guid>
-      <pubDate>Mon, 23 Sep 2024 16:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将把智能家居面板引入所有谷歌电视设备</title>
-      <link>https://www.theverge.com/2024/9/23/24252165/google-smart-home-panel-comes-to-all-google-tvs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252165/google-smart-home-panel-comes-to-all-google-tvs</guid>
-      <pubDate>Mon, 23 Sep 2024 16:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们比较一下苹果、谷歌和三星对“照片”的定义</title>
-      <link>https://www.theverge.com/2024/9/23/24252231/lets-compare-apple-google-and-samsungs-definitions-of-a-photo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252231/lets-compare-apple-google-and-samsungs-definitions-of-a-photo</guid>
-      <pubDate>Mon, 23 Sep 2024 16:39:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Premium 订阅用户报告称全球价格上涨</title>
-      <link>https://www.theverge.com/2024/9/23/24252145/youtube-premium-price-increase-europe-asia-middle-east-south-america</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-社交媒体用户上周末开始报道，YouTube 正在通知美国以外的 Premium 订阅用户，他们将很快为该服务支付更多费用。据 Android Authority 报道，到目前为止，欧盟、中东和南美等地区的价格有所上涨。
-价格上涨会影响个人和家庭计划。在一些欧盟国家，人们表示，他们被告知，从 11 月 7 日起，家庭计划的价格将从 17.99 欧元涨至 25.99 欧元（个人计划的价格将从 11.99 欧元涨至 13.99 欧元）。社交媒体上的帖子报告了新加坡、哥伦比亚和沙特阿拉伯等地类似的价格上涨。 Reddit 用户正在一个帖子中追踪金额。 
-
-
-
-另一位 Reddit 用户发布了 Premium Lite 计划 选项的屏幕截图，并附有 beta 标签。 YouTube 于 2021 年开始试用 Premium 版本，该版本功能少于标准计划，但去年告知客户将停止使用该版本。（我们已要求该公司提供有关此 Premium Lite 版本的更多信息，如果收到回复，我们将及时更新。）
-价格上涨听起来很像已经影响到美国用户的涨价。 一年多前，YouTube 在美国的个人高级套餐从 11.99 美元涨到了 13.99 美元。几个月前，该公司将其家庭套餐费率从 17.99 美元上调到了 22.99 美元。其他流媒体服务也在过去几个月中提高了价格，其中包括 Disney Plus、Max 和 Paramount Plus。]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252145/youtube-premium-price-increase-europe-asia-middle-east-south-america</guid>
-      <pubDate>Mon, 23 Sep 2024 15:56:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>JBL 的新款派对灯可与其发光扬声器无线同步</title>
-      <link>https://www.theverge.com/2024/9/23/24252096/jbl-speaker-partylight-stick-beam-bluetooth-wireless</link>
-      <description><![CDATA[
-
-JBL 的派对灯光可以将其动画同步到公司的扬声器。 |图片：JBL
-
-JBL 宣布为其 PartyBox 系列 LED 增强型蓝牙扬声器推出两款新配件：PartyLight Stick，外观像一把发光的动画光剑，以及 PartyLight Beam，可在墙壁或天花板上投射灯光秀。
-售价 99.95 美元的 PartyLight Stick 和售价 149.95 美元的 PartyLight Beam 都可以作为独立的灯发挥作用。您可以使用移动应用程序调整每盏灯的强度、速度和运动以匹配派对的氛围，但它们都包含内置麦克风，可以使它们的动画灯光秀与房间中播放的任何音乐相匹配。
-当无线连接到 JBL 的 PartyBox 扬声器之一时，这两种灯的功能都会增强。它们的发光动画将与扬声器中的 LED 和正在播放的音乐同步，使用蓝牙 Auracast——一项可以将蓝牙信号广播到无限数量的其他设备的功能。这也意味着可以同步多个 PartyLight Sticks 和 Beams，以帮助照亮更大的空间。
-
-
-图片：JBL
-PartyLight Sticks 可帮助照亮房间的各个方向。
-
-JBL 表示，PartyLight Stick 使用 183 个 RGB LED，使用可充电电池可运行约 8 小时，因此可以更轻松地在房间内摆放多个 LED，而不会因电源线而导致绊倒危险。它还具有 IPX4 防溅等级，因此即使下雨或在游泳池附近也可以在户外使用，只要不被浸湿即可。
-
-
-图片：JBL
-PartyLight Beam 可将灯光投射到各种表面上。
-
-PartyLight Beam 将三个 RGB LED 与四个白色 LED 配对，但需要插入墙上插座。这确实对它可以放置的位置带来了一些限制，特别是在一个充满狂欢者的房间里，但其光线投射的角度可以调整，因此可以将其放置在靠近墙壁的位置。 JBL 没有为 Beam 指定 IP 等级，因此您需要将其远离恶劣天气、喷泉和庆祝香槟喷洒。
-JBL PartyLight Stick 和 PartyLight Beam 现已在北美和欧洲上市。]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24252096/jbl-speaker-partylight-stick-beam-bluetooth-wireless</guid>
-      <pubDate>Mon, 23 Sep 2024 15:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>新报告详细介绍了微软有史以来最大规模的安全转型</title>
-      <link>https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/23/24251945/microsoft-security-report-secure-future-initiative</guid>
-      <pubDate>Mon, 23 Sep 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
