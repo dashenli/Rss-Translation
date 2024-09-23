@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 20 Sep 2024 18:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 15:17:58 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 530：我无法康复</title>
+      <link>https://sixcolors.com/podcast/2024/09/upgrade-530-i-am-beyond-recovery/</link>
+      <description><![CDATA[Jason 和 Myke 现场分享了他们对 iPhone 16 Pro 和 Apple Watch Series 10 的初步想法！…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/09/upgrade-530-i-am-beyond-recovery/</guid>
+      <pubDate>Mon, 23 Sep 2024 14:51:12 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）StopTheMadness Pro</title>
       <link>https://sixcolors.com/sponsor/2024/09/stopthemadness-pro/</link>
@@ -62,7 +69,7 @@
     <item>
       <title>A16 芯片现在在美国生产。↦</title>
       <link>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</link>
-      <description><![CDATA[独立记者 Tim Culpan 报道称，苹果公司在台湾的芯片制造合作伙伴台积电目前正在其位于亚利桑那州的新工厂生产 A16 芯片：
+      <description><![CDATA[独立记者 Tim Culpan 报道称，苹果公司位于台湾的芯片制造合作伙伴台积电目前正在其位于亚利桑那州的新工厂生产 A16 芯片：
 
 台积电首批亚利桑那州芯片现已投入生产，苹果公司已准备好成为首家使用该代工厂 5nm 工艺制造移动处理器的厂商。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</guid>
@@ -116,13 +123,6 @@ Jonathan Reed 谈 watchOS 11
 今年，iPadOS 方面有好消息：近年来可能仅限于 iOS 的一系列功能也可用于 iPadOS 18！…]]></description>
       <guid>https://sixcolors.com/post/2024/09/ipados-18-review-ish-math-notes-calculator-and-weird-tab-bars/</guid>
       <pubDate>Mon, 16 Sep 2024 17:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS Sequoia 15.0 评测：开场表演</title>
-      <link>https://sixcolors.com/post/2024/09/macos-sequoia-review/</link>
-      <description><![CDATA[当我去听音乐会时，我总是为开场表演感到难过。无论他们有多好，无论他们多么努力，他们都不是吸引观众的原因。…]]></description>
-      <guid>https://sixcolors.com/post/2024/09/macos-sequoia-review/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
