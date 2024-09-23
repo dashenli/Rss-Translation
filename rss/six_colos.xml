@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 23 Sep 2024 15:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:22:18 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）你不能再忽视 GDPR 了</title>
+      <link>https://sixcolors.com/feed-only/2024/09/you-cant-ignore-gdpr-anymore-2/</link>
+      <description><![CDATA[当欧盟于 2018 年颁布 GDPR 时，高管和安全专家焦急地等待着
+看看该法律将如何执行。然后他们一直在等待……等待……但欧洲大规模的隐私打击从未到来。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/09/you-cant-ignore-gdpr-anymore-2/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 530：我无法康复</title>
       <link>https://sixcolors.com/podcast/2024/09/upgrade-530-i-am-beyond-recovery/</link>
@@ -78,7 +86,7 @@
     <item>
       <title>MacStories 对操作系统发布的报道 ↦</title>
       <link>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</link>
-      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评论，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
+      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评测，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
 
 Federico Viticci 谈 iOS 18
 John Voorhees 谈 macOS Sequoia
@@ -91,7 +99,7 @@ Jonathan Reed 谈 watchOS 11
     <item>
       <title>（播客）下游 78：算法</title>
       <link>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</link>
-      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 重返大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
+      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 再次加入大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</guid>
       <pubDate>Tue, 17 Sep 2024 20:58:04 GMT</pubDate>
     </item>
@@ -115,14 +123,6 @@ Jonathan Reed 谈 watchOS 11
       <description><![CDATA[与 Apple 的其他操作系统相比，iOS 可能更注重平衡。对于许多人来说，他们的 iPhone 是 他们的主要计算机 - 在某些情况下，是他们唯一的计算机。…]]></description>
       <guid>https://sixcolors.com/post/2024/09/ios-18-review/</guid>
       <pubDate>Mon, 16 Sep 2024 17:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 18 评测：数学笔记、计算器和奇怪的标签栏</title>
-      <link>https://sixcolors.com/post/2024/09/ipados-18-review-ish-math-notes-calculator-and-weird-tab-bars/</link>
-      <description><![CDATA[现在可以编辑、复制和粘贴手写笔记等（左）。写出数学等式很容易（右）。
-今年，iPadOS 方面有好消息：近年来可能仅限于 iOS 的一系列功能也可用于 iPadOS 18！…]]></description>
-      <guid>https://sixcolors.com/post/2024/09/ipados-18-review-ish-math-notes-calculator-and-weird-tab-bars/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

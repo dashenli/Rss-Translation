@@ -4,7 +4,46 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Mon, 23 Sep 2024 15:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:23:22 GMT</lastBuildDate>
+    <item>
+      <title>出发单声道</title>
+      <link>https://kottke.org/24/09/departure-mono</link>
+      <description><![CDATA[
+我非常喜欢像素字体，Departure Mono 也不例外。
+Departure Mono 是一种等宽像素字体，其灵感来自早期命令行和图形用户界面的限制、90 年代末/00 年代初的微小像素字体以及电影和电视中的科幻概念。
+哦，还有一个可玩的 Breakout 游戏如果您一直向下滚动，则页面底部会出现。
+标签： 设计 · 排版
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/09/departure-mono</guid>
+      <pubDate>Mon, 23 Sep 2024 17:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>友谊破裂为何如此残酷？“友谊有很多...”</title>
+      <link>https://kottke.org/24/09/0045312-exactly-why-are-friendshi</link>
+      <description><![CDATA[友谊破裂为何如此残酷？ “关于友谊，很多事情都是不言而喻的。坦率地说，这就是让美好的友谊变得神奇的原因：除了你们彼此喜欢之外，没有任何正式的协议将你们联系在一起。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/09/0045312-exactly-why-are-friendshi</guid>
+      <pubDate>Mon, 23 Sep 2024 17:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的在线街道地图和卫星视图不一致，因为……</title>
+      <link>https://kottke.org/24/09/0045314-online-street-maps-and-sa</link>
+      <description><![CDATA[中国的在线街道地图和卫星视图不一致，因为中国政府强制使用“保密算法”，该算法在纬度和经度上添加了 50-500 米的随机偏移量。
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/09/0045314-online-street-maps-and-sa</guid>
+      <pubDate>Mon, 23 Sep 2024 16:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>体育博彩合法化是一个巨大的错误。“体育博彩的兴起......</title>
+      <link>https://kottke.org/24/09/0045326-legalizing-sports-gamblin</link>
+      <description><![CDATA[将体育博彩合法化是一个巨大的错误。“体育博彩的兴起引发了一波经济和家庭困境，而经济最不稳定的家庭所受的打击尤为严重。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/09/0045326-legalizing-sports-gamblin</guid>
+      <pubDate>Mon, 23 Sep 2024 15:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>将海鹦从悬崖上赶下来的乐趣</title>
       <link>https://kottke.org/24/09/the-joyful-utility-of-yeeting-pufflings-off-cliffs</link>
@@ -111,43 +150,6 @@ Jessica Bishopp 的沉思短片讲述了一对少女和她们的朋友在半夜�
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/09/0045308-the-breakthrough-that-cou</guid>
       <pubDate>Fri, 20 Sep 2024 15:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机南极之旅</title>
-      <link>https://kottke.org/24/09/a-tour-of-antarctica-by-drone</link>
-      <description><![CDATA[这段 8 分钟的无人机航拍南极洲海岸视频简直美极了。
-
-[这是一篇 2015 年 4 月发表的经典帖子。]
-标签： 南极洲 · 永恒帖子 · 视频]]></description>
-      <guid>https://kottke.org/24/09/a-tour-of-antarctica-by-drone</guid>
-      <pubDate>Thu, 19 Sep 2024 21:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AIS 数据可视化船舶运动。&#8220;探索美丽而复杂的路径......</title>
-      <link>https://kottke.org/24/09/0045305-visualizing-ship-movement</link>
-      <description><![CDATA[使用 AIS 数据可视化船舶运动。“探索一年中船舶美丽而复杂的路径——通过 AIS 海洋跟踪数据从美国最繁忙的港口跟踪到公海。”
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/0045305-visualizing-ship-movement</guid>
-      <pubDate>Thu, 19 Sep 2024 19:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机科学先驱 Grace Hopper 于 1982 年发表了一场著名的演讲……</title>
-      <link>https://kottke.org/24/09/0045300-a-famous-lecture-given-in</link>
-      <description><![CDATA[1982 年，计算机科学先驱 Grace Hopper 发表了一场著名演讲，“未来的可能性：数据、硬件、软件和人”，该演讲长期以来一直未向公众开放但现在可以在 YouTube 上观看。
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/0045300-a-famous-lecture-given-in</guid>
-      <pubDate>Thu, 19 Sep 2024 19:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horndog 是一个旋转的热狗机器人，上面滚动播放面包的照片……</title>
-      <link>https://kottke.org/24/09/0045296-horndog-a-rotating-hot-do</link>
-      <description><![CDATA[Horndog，一个旋转的热狗机器人，在“Instagrain”上滚动播放面包的照片。这是艺术！
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/0045296-horndog-a-rotating-hot-do</guid>
-      <pubDate>Thu, 19 Sep 2024 18:29:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
