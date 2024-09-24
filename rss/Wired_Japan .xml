@@ -4,18 +4,32 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 24 Sep 2024 01:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 06:24:23 GMT</lastBuildDate>
+    <item>
+      <title>Audrey Tan x Takahiro Yasuno：民主如何开启城市的未来？</title>
+      <link>https://wired.jp/article/vol54-imagineering-and-engineering/</link>
+      <description><![CDATA[城市发展往往优先考虑经济逻辑。如果我们能够利用好数字民主的进程，城市的未来会变得更加再生吗？通过曾竞选东京都知事的人工智能工程师兼科幻小说作家安野孝宏与台湾前数字发展部部长陈奥黛之间的对话来探索可能性。]]></description>
+      <guid>https://wired.jp/article/vol54-imagineering-and-engineering/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 发布日在 Apple Store 进行演示。抗议矿物采购方式和对加沙战争保持沉默</title>
+      <link>https://wired.jp/article/apple-store-protests-gaza-congo-iphone-16-launch/</link>
+      <description><![CDATA[示威者在全球 10 多家苹果专卖店举行抗议活动，要求苹果结束对加沙持续战争的沉默，并从其供应链中移除“血腥矿物”。]]></description>
+      <guid>https://wired.jp/article/apple-store-protests-gaza-congo-iphone-16-launch/</guid>
+      <pubDate>Tue, 24 Sep 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>面包果可能是粮食危机的救世主</title>
       <link>https://wired.jp/article/breadfruit-caribbean-pacific-climate-change-super-food/</link>
-      <description><![CDATA[面包果是一种热带地区栽培的食用植物，营养价值高，而且耐热。人们希望它能够取代玉米、小麦和大豆等主粮，这些粮食在传统地区由于气候变化而变得难以生产。]]></description>
+      <description><![CDATA[面包果是热带地区栽培的食用植物，营养价值高，而且耐热。人们希望它能够取代玉米、小麦和大豆等主粮，这些粮食在传统地区由于气候变化而变得难以生产。]]></description>
       <guid>https://wired.jp/article/breadfruit-caribbean-pacific-climate-change-super-food/</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>技术中的“发电与再生”——东芝RIC的再生工程是什么？</title>
       <link>https://wired.jp/article/toshiba-regenerative-innovation-centre/</link>
-      <description><![CDATA[就在东芝退市消息成为全球头条新闻的同一天，该公司的新基地在欧洲悄然落成。 “再生创新中心”。这可以说是预见21世纪企业未来的举措，象征着向再生社会的转变。]]></description>
+      <description><![CDATA[就在东芝退市消息成为全球头条新闻的同一天，该公司悄然在欧洲开设了新基地。 “再生创新中心”。这可以说是预见21世纪企业未来的举措，象征着向再生社会的转变。]]></description>
       <guid>https://wired.jp/article/toshiba-regenerative-innovation-centre/</guid>
       <pubDate>Mon, 23 Sep 2024 23:00:00 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>人工智能“读取”情绪并用富有同情心的声音做出回应。初创公司“Hume AI”的新界面</title>
       <link>https://wired.jp/article/hume-ai-emotional-intelligence/</link>
-      <description><![CDATA[Hume AI 开发的新系统为关键人工智能模型提供了具有同理心的、类似人类的声音。让AI“识别”人类情绪并做出适当反应的技术，似乎是AI与人类沟通的新阶段，但有人指出，AI的情绪表达只不过是模仿。]]></description>
+      <description><![CDATA[Hume AI 开发的新系统为关键人工智能模型提供了具有同理心的、类似人类的声音。让AI“识别”人类情绪并做出适当反应的技术，似乎是AI与人类沟通的新阶段，但也有人指出，AI的情绪表达只不过是模仿。]]></description>
       <guid>https://wired.jp/article/hume-ai-emotional-intelligence/</guid>
       <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>4 个让旅行时写作更轻松的工具</title>
       <link>https://wired.jp/article/story/4-tools-tips-easy-write-work-remotely/</link>
-      <description><![CDATA[时事通讯、文案、下一部大小说……无论您身在何处或想要从事什么类型的工作，都可以利用技术来扩展您的写作可能性。]]></description>
+      <description><![CDATA[时事通讯、文案、下一部大小说……无论您身在何处或尝试从事何种工作，请利用技术来扩展写作的可能性。]]></description>
       <guid>https://wired.jp/article/story/4-tools-tips-easy-write-work-remotely/</guid>
       <pubDate>Sun, 22 Sep 2024 02:00:00 GMT</pubDate>
     </item>
@@ -85,30 +99,16 @@
     <item>
       <title>苹果新应用“密码”会解决登录问题吗？</title>
       <link>https://wired.jp/article/apple-password-app-ios-18/</link>
-      <description><![CDATA[随着 9 月中旬开始发布的 iOS 18，苹果推出了正版密码管理应用程序“Password”。让我们介绍一下该应用程序的功能以及如何使用。]]></description>
+      <description><![CDATA[随着9月中旬开始发布的iOS 18，苹果正版密码管理应用程序“Password”出现了。让我们介绍一下该应用程序的功能以及如何使用。]]></description>
       <guid>https://wired.jp/article/apple-password-app-ios-18/</guid>
       <pubDate>Fri, 20 Sep 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从主编到SZ成员：《江户时代的未来》SZ通讯VOL.254</title>
+      <title>从主编到SZ会员：《江户时代的未来》SZ通讯VOL.254</title>
       <link>https://wired.jp/article/sz-newsletter-254/</link>
       <description><![CDATA[“过去的事情更好”的衰落心态并不一定是老年人的专利，而是许多人在面对新技术和价值观时陷入的认知偏差之一。对于日本人来说，“江户时代”或许就是一个缩影。这是主编写给SZ会员的通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-254/</guid>
       <pubDate>Fri, 20 Sep 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计一个让您在家为保护海洋生物多样性做出贡献的系统：采访“2023 年创意黑客奖”大奖得主</title>
-      <link>https://wired.jp/article/creative-hack-award-2023-coral-rescue/</link>
-      <description><![CDATA[尽管珊瑚支撑着大约25%的海洋生物的生存，但由于全球变暖和其他因素的影响，它们的白化现象被视为一个问题。荣获“2023 年创意黑客奖”大奖的“珊瑚救援”是一个展示了任何人都可以参与珊瑚保护的可能性的项目。我们向负责该项目的体验设计总监 Tomomi Soda 询问了该项目的现状、获奖的意义以及她对 2024 年申请者的期望。]]></description>
-      <guid>https://wired.jp/article/creative-hack-award-2023-coral-rescue/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>巨型蜘蛛操纵捕获的萤火虫的发光模式来引诱下一个猎物：研究结果</title>
-      <link>https://wired.jp/article/spider-exploits-flashing-signals-of-firefly-to-lure-prey/</link>
-      <description><![CDATA[一项新的研究表明，巨型蜘蛛是一种大型蜘蛛，它利用网中萤火虫的发光器官来引诱猎物。该策略是通过操纵捕获的雄性萤火虫模仿雌性的发光模式来捕获更多的雄性萤火虫。]]></description>
-      <guid>https://wired.jp/article/spider-exploits-flashing-signals-of-firefly-to-lure-prey/</guid>
-      <pubDate>Fri, 20 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
