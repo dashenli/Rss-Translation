@@ -4,7 +4,42 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 24 Sep 2024 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 12:32:29 GMT</lastBuildDate>
+    <item>
+      <title>编程语言之战：人工智能时代的 Kotlin 与 Java</title>
+      <link>https://thenextweb.com/news/programming-languages-kotlin-vs-java-ai</link>
+      <description><![CDATA[随着人工智能不断重塑技术格局，开发人员越来越面临着选择哪种编程语言对人工智能开发最有益、最有效的任务。考虑到人工智能和机器学习的快速发展，是否有一种编程语言更能满足这个不断发展的领域的需求？ Java 自 1995 年诞生以来一直是编程领域的中坚力量，并且仍然是 Web 应用程序和大数据处理最流行的语言之一，然而，相对较新的 Kotlin 正在紧随其后。5 个职位正在招聘…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/programming-languages-kotlin-vs-java-ai</guid>
+      <pubDate>Tue, 24 Sep 2024 07:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>“世界上第一个”全自动水下机器人由人工智能驾驶</title>
+      <link>https://thenextweb.com/news/worlds-first-fully-autonomous-ai-underwater-robot-offshore-wind-farm</link>
+      <description><![CDATA[英国扩张型企业 Beam 由近期的海上科技公司 Rovco 和 Vaarst 合并而成，现已推出“世界上第一台”由人工智能驱动的自主水下航行器 (AUV)。这艘微型潜艇可以执行复杂的水下任务，完全不需要人工干预。该公司表示，没有人驾驶它，没有人指挥它去哪里，也不需要进行任务前规划。但是，如果需要，远程操作员可以接管。水下无人机配备了所谓的边缘人工智能。这是将人工智能模型部署在设备内部，而不是通过云端链接到设备，这是生成人工智能的情况…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/worlds-first-fully-autonomous-ai-underwater-robot-offshore-wind-farm</guid>
+      <pubDate>Mon, 23 Sep 2024 14:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国生物科技初创公司筹集 1 亿美元用于研发下一代呼吸道病毒疫苗</title>
+      <link>https://thenextweb.com/news/uk-biotech-startup-raises-100m-for-next-gen-vaccines-for-respiratory-viruses</link>
+      <description><![CDATA[疫苗市场可能已经很拥挤了，但总部位于伦敦的 Vicebio 渴望巩固自己的地位。这家初创公司今天宣布，它已在 B 轮融资中筹集了 1 亿美元，用于开发其下一代呼吸道病毒疫苗。 Vicebio 旨在提供高效、易于制造且可在预充式注射器中随时使用的疫苗。实现这一目标的关键在于使用一种称为分子钳技术的新方法。该技术最初由澳大利亚昆士兰大学的 Paul Young、Daniel Watterson、Keith Chappell 及其研究小组发明。它已获得许可…This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/uk-biotech-startup-raises-100m-for-next-gen-vaccines-for-respiratory-viruses</guid>
+      <pubDate>Mon, 23 Sep 2024 14:00:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>风险投资公司和初创公司需要迅速摆脱的 3 个 ESG 迷思</title>
+      <link>https://thenextweb.com/news/3-esg-myths-vcs-and-startups-need-to-snap-out-of-quickly</link>
+      <description><![CDATA[环境、社会和公司治理 (ESG) 并不是欧洲初创企业领域的新话题——事实上，它已经被讨论和辩论了好几年。然而，当你密切关注讨论和投资模式，并与足够多的种子和早期初创企业合作时，你会发现 ESG 的话题也充斥着误解。这些误解往往是由投资者延续、分享和助长的——而当被新兴公司消化时，可能会造成损害。在当今充满挑战的经济时期，人们可能倾向于降低 ESG 等领域的优先级。但这正是我们需要深入研究的时候......本报道在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/3-esg-myths-vcs-and-startups-need-to-snap-out-of-quickly</guid>
+      <pubDate>Mon, 23 Sep 2024 13:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>米兰初创公司开设全球首个基于玻璃的量子光子芯片生产设施</title>
+      <link>https://thenextweb.com/news/milan-startup-world-first-production-glass-based-quantum-photonic-chips</link>
+      <description><![CDATA[北约支持的 Ephos 今天宣布开设一家专门生产玻璃基量子光子芯片的工厂——据这家初创公司称，这是世界首创。这些芯片可以为计算、传感和通信领域的量子应用提供动力，并提高传统计算的性能。 Ephos 成立于 2022 年，已开发出专有制造工艺，使其能够摆脱硅材料，转而使用玻璃基板制造光子芯片——与光纤中使用的材料相同。光子芯片使用光子（简而言之，这些是微小的光粒子）来携带和处理信息。它们还依靠光纤来实现......本故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/milan-startup-world-first-production-glass-based-quantum-photonic-chips</guid>
+      <pubDate>Mon, 23 Sep 2024 12:00:34 GMT</pubDate>
+    </item>
     <item>
       <title>Future Tech Ventures 推出 2000 万欧元基金，为荷兰北部的初创企业提供支持</title>
       <link>https://thenextweb.com/news/future-tech-ventures-fund-for-startups-northern-netherlands</link>
@@ -20,9 +55,9 @@
       <pubDate>Fri, 20 Sep 2024 10:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>北约首笔量子技术投资投向南安普顿初创公司</title>
+      <title>北约首笔量子技术投资投给了南安普敦初创公司</title>
       <link>https://thenextweb.com/news/natos-first-quantum-tech-investment-southampton-startup-aquark-technologies</link>
-      <description><![CDATA[北约创新基金 (NIF) 宣布首次投资量子技术，领投 500 万欧元种子轮融资。受助者是南安普顿大学衍生公司 Aquark Technologies，该公司开发了一种独特的量子传感技术。 Aquark 的专利冷原子系统可用作替代定位、导航和计时 (PNT) 设备，独立于卫星，因此不受 GPS 干扰等外部篡改的影响。Aquark 摒弃了笨重的磁阱，自称是一家小型化公司。它专注于微加工和真空技术。然而，真正让它与众不同的是，它找到了全新的捕获方法......本报道在 The Next Web 上继续]]></description>
+      <description><![CDATA[北约创新基金 (NIF) 宣布了其对量子技术的首次投资，领投了 500 万欧元的种子轮融资。受助者是南安普顿大学分拆出来的 Aquark Technologies，该公司开发了一种独特的量子传感技术。 Aquark 的专利冷原子系统可用作替代定位、导航和计时 (PNT) 设备，独立于卫星，因此不受 GPS 干扰等外部干扰。Aquark 摒弃了笨重的磁阱，自称是一家小型化公司。它专注于微加工和真空技术。然而，真正让它与众不同的是，它找到了全新的捕获方法......本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/natos-first-quantum-tech-investment-southampton-startup-aquark-technologies</guid>
       <pubDate>Thu, 19 Sep 2024 14:43:45 GMT</pubDate>
     </item>
@@ -39,41 +74,6 @@
       <description><![CDATA[在人工智能蓬勃发展的背景下，数据中心消耗的电量惊人。它们还占全球能源相关排放量的 1%。到 2030 年，它们的电力需求可能会增加 160%。总部位于瑞士的 Lightium 旨在提供解决方案。这家年轻的初创公司今天宣布，它已筹集了 700 万美元的种子资金，用于通过下一代光子芯片来加速数据中心的性能并降低其能耗。数据中心本质上是由三个组件组成的大型集群：中央处理器 (CPU)、图形处理器 (GPU) 和在这些处理器之间传输数据的光互连。这些互连通常基于......本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/swiss-startup-photonic-chips-cut-data-centre-energy-consumption</guid>
       <pubDate>Thu, 19 Sep 2024 07:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技界人士为何担心欧盟提议设立初创企业专员</title>
-      <link>https://thenextweb.com/news/concerns-about-eu-startup-commissioner-zaharieva</link>
-      <description><![CDATA[Ekaterina Zaharieva 甚至还没有开始担任欧盟首位初创企业专员，但围绕她的角色的紧张局势已经加剧。这位保加利亚政治家于周二被提名担任该职位。除了初创企业之外，她的职责还将涵盖研究和创新。但首先，她的任命需要得到欧洲议会的批准。她的批评者希望永远不会得到确认。以下是他们反对的三大原因。1. 她缺乏科技经验 Zaharieva 在晋升为保加利亚政界副部长之前是一名律师。然而，在科技界，她的经验很少。她的简历中没有多少证据......这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/concerns-about-eu-startup-commissioner-zaharieva</guid>
-      <pubDate>Wed, 18 Sep 2024 17:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国挑选 4 家初创公司打造全球首台用于“移动防御”的量子计算机</title>
-      <link>https://thenextweb.com/news/germany-picks-4-startups-deliver-worlds-first-quantum-computer-mobile-defence</link>
-      <description><![CDATA[德国网络机构 (Cyber​​agentur) 在其迄今为止最昂贵的项目中，已将三份不同的合同授予四家量子计算初创公司——Quantum Brilliance、ParityQC、Oxford Ionics 和 neQxt。他们的任务是到 2027 年交付世界上第一台用于“移动安全和防御”的量子计算机。此后，项目的第四阶段将启动，只有其中一个候选者会留下来。缺陷钻石中的量子比特便携式量子计算机将能够独立于网络连接或大型数据中心运行，这在危机情况下可能至关重要。这些类型的系统还可以......This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/germany-picks-4-startups-deliver-worlds-first-quantum-computer-mobile-defence</guid>
-      <pubDate>Wed, 18 Sep 2024 15:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>TNW 播客：航班跟踪业务、新委员会和一些宠物技术</title>
-      <link>https://thenextweb.com/news/flight-tracking-european-commission-prince-of-persia</link>
-      <description><![CDATA[欢迎收听 TNW Podcast 的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的节目中，Linnea 和 Andrii 讨论了航班追踪及其社区、新成立的欧盟委员会、宠物健康追踪器、重温《波斯王子》等等。以下是本期节目中提到的故事和内容：这家瑞典初创公司希望使用区块链向航班追踪社区付款 Thierry Breton 在 X 上 Ursula von der Leyen 公布了她的新任欧盟委员…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/flight-tracking-european-commission-prince-of-persia</guid>
-      <pubDate>Wed, 18 Sep 2024 14:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机群在德国成功测试后更接近战斗</title>
-      <link>https://thenextweb.com/news/quantum-systems-claims-drone-swarms-breakthrough</link>
-      <description><![CDATA[一家德国无人机公司声称在自主群体技术方面取得了“重大突破”。总部位于慕尼黑的 Quantum Systems 周二宣布，它已成功飞行了由人工智能控制的无人机群 (UAS)。该公司表示，人工智能确保了“可靠的任务执行”——即使单个无人机完全失败。该系统在无线电干扰下也能有效运行。上个月，受德国武装部队委托，在巴伐利亚州曼奇的空中客车无人机中心进行了测试。该团队首先使用深度强化学习训练人工智能——一种由 DeepMind 推广的反复试验的方法。这使得该系统能够…本故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/quantum-systems-claims-drone-swarms-breakthrough</guid>
-      <pubDate>Wed, 18 Sep 2024 12:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepL 推出“业界首创”的用于商业翻译的 AI 词汇表生成器</title>
-      <link>https://thenextweb.com/news/deepl-launches-ai-glossary-generator-business-translations</link>
-      <description><![CDATA[自 2017 年成立以来，DeepL 一直在提高机器翻译标准，成功与谷歌翻译等巨头相媲美。今天，这家初创公司为企业推出了一款“行业首创”的人工智能词汇表生成器。这款新工具是对 DeepL 于 2020 年首次推出的词汇表功能的补充。词汇表使专业人士和公司能够根据自己的需求个性化翻译，从技术术语到产品名称和品牌术语。DeepL 首席营收官戴维·帕里-琼斯 (David Parry-Jones) 告诉 TNW：“许多企业在使用不同语言和跨平台沟通时，都难以获得一致、准确的信息。”这些困难包括企业之间的内部沟通…这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/deepl-launches-ai-glossary-generator-business-translations</guid>
-      <pubDate>Wed, 18 Sep 2024 10:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
