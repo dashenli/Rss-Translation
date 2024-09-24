@@ -4,202 +4,153 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 18:30:47 GMT</lastBuildDate>
     <item>
-      <title>报告称，可再生能源产能增加三倍是“可以实现的”</title>
-      <link>https://www.theverge.com/2024/9/24/24252994/renewable-energy-triple-capacity-iea-report</link>
+      <title>适合所有人的最佳 Android 手机</title>
+      <link>https://www.theverge.com/23674658/best-android-phone</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252994/renewable-energy-triple-capacity-iea-report</guid>
-      <pubDate>Tue, 24 Sep 2024 14:44:51 GMT</pubDate>
+      <guid>https://www.theverge.com/23674658/best-android-phone</guid>
+      <pubDate>Tue, 24 Sep 2024 18:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>起亚电动汽车将于 1 月 15 日起使用特斯拉超级充电站</title>
-      <link>https://www.theverge.com/2024/9/24/24252996/kia-nacs-supercharger-adapter-access-date-information</link>
+      <title>Arlo 相机现在可以识别人和车辆</title>
+      <link>https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles</link>
       <description><![CDATA[
 
-与北美大多数电动汽车车型一样，起亚的 EV6 仍配备 CCS Combo 连接器。 |图片：Tim Stevens for The Verge
+Arlo 摄像头和可视门铃正在通过 AI 升级，配备新的面部识别功能和识别特定汽车的能力。 |照片由 Jennifer Pattison Tuohy / The Verge 拍摄
 
-起亚将于 1 月 15 日其电动汽车将可以使用“超过 16,500 个”特斯拉超级充电站。起亚将向 2024 年 9 月 4 日之后购买 EV9 或 EV6 的车主免费提供 NACS 适配器，但所有现有车主都必须支付尚未确定的金额。
-免费适配器将于 2025 年初开始向客户发货，而现有车主可以“稍后”在授权起亚经销商处购买适配器。通用汽车同样上周宣布，其电动汽车客户必须支付 225 美元购买 NACS 适配器才能添加特斯拉超级充电桩访问权限。
-为了应对未来起亚电动汽车车型配备原生特斯拉连接器的情况，该汽车制造商还将很快出售反向适配器，以便车辆仍可使用基于 CCS 的直流快速充电器和 2 级交流充电器。 2025 年初，起亚将发布软件更新，以便客户可以通过车载信息娱乐系统付款和充电。
-起亚及其姊妹公司现代是最后几家宣布将采用特斯拉 NACS（北美充电标准）连接器而非 CCS Combo 插头的汽车制造商之一。到目前为止，福特、Rivian 和通用汽车是唯一已启用特斯拉超级充电桩访问权限的汽车制造商。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252996/kia-nacs-supercharger-adapter-access-date-information</guid>
-      <pubDate>Tue, 24 Sep 2024 14:26:45 GMT</pubDate>
+Arlo 正在升级其安全摄像头和视频门铃，增加 AI 功能。该公司正在为其摄像头增加识别人和车辆以及学习检测自定义物体或周围环境变化的功能。虽然 Arlo 摄像头目前可以在发现人或车辆（以及包裹和动物）时提醒您，但现在可以训练它准确地告诉您它看到了谁和哪辆车。 
+新功能是 Arlo Secure 5 的一部分，这是一套结合了机器学习和人工智能功能的产品。Arlo 高级营销总监 Ashton Good 表示，Secure 5 现已面向美国、加拿大和亚太地区的 Arlo 用户推出，其他地区也将很快推出。
+如果新警报效果良好，它们将大有帮助。理想情况下，他们会减少干扰通知（这对安全摄像头来说就像是白鲸），只发送您真正需要知道的警报。
+
+Arlo Secure 5 带来了三个新功能。根据新闻稿，凭借增强的 人员检测功能，Arlo 摄像头现在可以提供“带有您私人命名面孔库中姓名标签的个性化警报”。 （Google 和 Eufy 已经为他们的相机提供了类似的面部识别功能。）
+Good 表示，面部识别的处理是在云端完成的，而不是在设备上完成的，但收集的图像“是每个帐户独有的，不会与其他用户共享或用于任何中央数据库。”据 Good 称，Arlo 在传输过程中以及在云中存储时对视频和数据进行加密。
+第二个新功能是车辆识别，Arlo 表示，它将发送“标有您之前命名的已知车辆”的警报。
+自定义检测是 Secure 5 的第三个功能。此功能目前处于测试阶段，可让您训练 Arlo 的 AI 系统识别家中的特定物体或变化并向您发送通知。Arlo 提供了一些示例，例如，当车库门打开时，摄像头会告诉您；或者当您忘记关地下室的灯时，摄像头会发出警报。
+Good 表示，所有当前的 Arlo 摄像头和视频门铃都与 Secure 5 兼容，不需要 Arlo 基站。但是，Secure 5 功能需要 Arlo Secure Plus 或 Premium 订阅（起价为每月 17.99 美元），因为它们不包含在 Arlo Basic 计划中。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles</guid>
+      <pubDate>Tue, 24 Sep 2024 18:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>Insta360 的新款 Link 网络摄像头价格更便宜，但仍能跟踪你</title>
-      <link>https://www.theverge.com/2024/9/24/24253008/insta360-webcam-link-2-2c</link>
-      <description><![CDATA[
-
-图片：Insta360
-
-Insta360 宣布两个新版本的 Link 网络摄像头，设计更小巧，并配备新的自动跟踪功能，针对演示或直播进行了优化。售价 199 美元的 Link 2 继承了原版创新的双轴万向架，同时改进了其降噪功能，而售价 149 美元的 Link 2C 根本不会移动。
-这两款网络摄像头还配备了新的磁性支架，使其更容易附着在某些表面上，而且比 原版 Insta360 Link，于 2022 年首次亮相，售价 299.99 美元。
-
-
-图片：Insta360
-Link 2 的底座比原来的 Link 网络摄像头小得多。
-
-Link 2 和新款 Link 2C 都使用与原版 Link 相同的半英寸传感器，并搭配 26 毫米等效 f1.8 镜头。视频捕捉仍以 4K 30fps 为最高速度，并能够降至 1080p 以将帧速率提高到 60fps。
-Insta360 表示，这两款相机现在在过滤不需要的噪音方面表现得更好，例如键盘声、交通声或咖啡店的喧闹声。用户可以从三种不同的声音配置文件中进行选择，包括一种优先考虑语音的配置文件和一种针对音乐优化的配置文件。
-
-
-图片：Insta360
-新款 Link 2 和 Link 2C 网络摄像头可以在有人演示时将白板保持在画面中。
-
-Link 2 和 Link 2C 具有与原版相同的自动跟踪和取景功能，但新选项包括群组跟踪选项，可确保多个演示者始终处于画面中，以及扩展的手势，用于控制网络摄像头的缩放以及激活或关闭各种功能，而无需接近计算机。
-
-新的“智能白板模式”可以自动检测白板并将其保持在框架内，以便通话中的其他人更容易看到。以前，必须在白板的角落贴上贴纸，以便原始链接能够聚焦于它。Insta360 还推出了“暂停跟踪区域”，允许用户指定网络摄像头不应跟踪人员的区域。这将允许演示者在网络摄像头聚焦于其他内容时走出框架，但它也可用于隐藏敏感区域或信息，并防止网络摄像头平移到它们。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24253008/insta360-webcam-link-2-2c</guid>
-      <pubDate>Tue, 24 Sep 2024 14:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌正在更新数十个国家的街景图像</title>
-      <link>https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Google 正在更新近 80 个国家/地区的街景图像，例如澳大利亚、巴西、丹麦、日本、菲律宾、卢旺达、塞尔维亚、南非等。它还将街景带到了少数几个从未提供过街景服务的国家，即波斯尼亚和黑塞哥维那、纳米比亚、列支敦士登和巴拉圭。 
-谷歌表示，其更便携的街景相机于 2022 年推出，将有助于提供“未来更多地方”的图像。 
-
-
-图片：Google
-丹麦 Logstor 的增强街景图像。
-
-与此同时，得益于 该公司的云去除 AI 工具可以去除云、阴影、霾和薄雾。据谷歌称，这应该会产生“更明亮、更生动”的图像。
-此外，您很快就能在 Google Earth 的网络和移动应用上查看历史图像 - 这项功能之前仅通过 Google Earth Pro桌面应用提供。这样可以更轻松地比较多年来某个地点的卫星图像和航拍图像。
-
-
-GIF：Google
-卫星图像显示 1938 年和 2022 年的旧金山。
-
-作为一个喜欢在街景中查看新地方的人，我很高兴探索波斯尼亚和纳米比亚的街道和风景每当 Google 决定推出此更新时。The Verge 联系了 Google，了解其为何删除其博客文章，但没有立即收到回复。
-9 月 24 日更新：添加了 Google 的官方公告。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images</guid>
-      <pubDate>Tue, 24 Sep 2024 14:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款由人工智能驱动的版权工具正在删除人工智能生成的马里奥图片</title>
-      <link>https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection</link>
+      <title>如何观看 9 月份 PlayStation State of Play 直播</title>
+      <link>https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-数十篇包含马里奥图片的 X 帖子（包括一张由人工智能生成的水管工手持啤酒和香烟的照片，由The Verge使用 xAI 的 Grok 创建）被删除，因为一家名为 Tracer 的公司显然使用了人工智能来识别这些图片并代表任天堂发出删除通知。
-根据The Verge的 Tom Warren 收到的一封电子邮件，Tracer 的“客户成功经理”Ben Arzen 向 X 发出了数字千年版权法 (DMCA) 通知，Tracer 为公司提供人工智能服务，旨在识别在线商标和版权侵权行为。这是 Tom 的帖子被删除的图片。
-
-
-图片：X
-撇开潜在的版权问题不谈，为什么马里奥的啤酒里会冒出香烟烟雾？
-
-删除请求中包含指向其他被认定侵犯任天堂马里奥版权的帖子的链接。由于这些帖子现在已经消失，我们无法看到这些照片是什么样子的，但至少有另一张照片显然是用 Grok 制作的——这是一种对攻击性或侵权内容的保护极其松懈的工具。X 列出的其中一个账户上周发布称，他们收到了一则通知，称有 AI 生成的图像显示 Luigi 和 Waluigi 是以色列国防军士兵。
-但似乎这里使用的任何流程也在收集粉丝艺术帖子。 DMCA 请求中列出的帐户之一，OtakuRockU，发帖称他们被警告，他们的帐户可能会因为“一张马里奥的画”而被终止，而另一个帐户 PoyoSilly，发布了一张经过编辑的版本，他们说这张画是在通知中确定的。（新版本中，一张模糊地像马里奥的玩偶的照片插入了图像的一部分，遮住了原来包含马里奥的部分。）
-截至发稿时，任天堂和 Tracer 均未回应我们的置评请求，目前尚不清楚任天堂在此过程中参与了多少（如果有的话）。该公司以诉讼频繁而闻名；它将 Yuzu Nintendo Switch 模拟器的创造者起诉，并且目前正卷入另一起诉讼，指控类似Pokemon的Palworld游戏的创造者侵犯其版权。过去，该公司显然也曾使用过第三方执法工具，有时会导致混乱和版权欺诈指控——就像一系列有关沙盒游戏《Garry’s Mod》中与任天堂相关的内容的通知一样。
-
-如果您收到一封电子邮件，告知您由于类似通知而删除了绘图或 AI 生成的马里奥图像，请告知我们。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252410/nintendo-dmca-notices-mario-fan-art-ai-image-detection</guid>
-      <pubDate>Tue, 24 Sep 2024 14:04:54 GMT</pubDate>
+又到了 PlayStation State of Play 直播时间，索尼将在直播中展示其下一款大型游戏和硬件公告。索尼承诺，我们将在 30 多分钟的演示中看到“来自全球各地工作室的 20 多款即将推出的 PS5 和 PS VR2 游戏”。
+索尼在 5 月份的 State of Play 直播中宣布了Astro Bot，这款游戏，并于今年早些时候推出后获得了“年度最佳游戏”提名月。现在，9 月的展示将尝试展示强大的后续产品，以保持势头。
+新的 State of Play 发布仅两周前，该公司宣布了一款新的增强型 PS5“Pro”型号，该型号将于 9 月 26 日开放预订。新系统更大的 GPU 和对 PlayStation Spectral Super Resolution (PSSR) AI 升级的支持使其能够同时提供保真度和性能模式功能，而一堆游戏将获得 Game Boost 增强功能。 
+如何观看 2024 年 9 月 PlayStation State of Play
+索尼 9 月 PlayStation State of Play 直播将于今晚（9 月 24 日）美国东部时间晚上 6 点/太平洋时间下午 3 点进行。您可以在 YouTube 和 Twitch 上观看直播。
+您还可以查看 The Verge 对活动期间 State of Play 的每项重大公告的报道。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games</guid>
+      <pubDate>Tue, 24 Sep 2024 17:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>Mozilla 的品牌更新让其旧的 T-Rex 徽标焕然一新</title>
-      <link>https://www.theverge.com/2024/9/24/24253028/mozilla-brand-update-tyrannosaurus-rex-logo</link>
+      <title>三星正在接受一款未发布手机的预订</title>
+      <link>https://www.theverge.com/2024/9/24/24253223/samsung-galaxy-s24-fe-pre-order-live-announcement</link>
       <description><![CDATA[
 
-准备好迎接具有老式互联网氛围的全新 Mozilla 外观吧。 | 图片：Mozilla
+我想我们会称之为预购？ |图片：三星
 
-Mozilla 已彻底改造其品牌，以向其 Netscape 根源致敬，并更好地将该更广泛的组织与其 Firefox 网络浏览器区分开来。最显著的变化是公司的标志：之前样式为“Moz://a”的无衬线字标已更新为正确拼写出 Mozilla 名称，采用新的自定义字体和 M 形旗帜。
-据 Mozilla 称，这面旗帜象征着该品牌的“积极分子精神”。这符合领导该公司的 Mozilla 基金会试图树立的形象：将自己描述为“一个促进互联网开放、创新和参与的非营利组织”，并定期发布隐私报告调查科技公司的政策和安全实践。
- class=&quot;e-image&quot;&gt;
-
-图片：Mozilla
-以下是 Mozilla 品牌多年来演变的时间表。
-
-“我们特意设计了一个系统，恰如其分地命名为‘从基层到政府’，以确保品牌能与我们的广泛受众产生共鸣，从建设者到倡导者，从变革者到活动家，”他说Mozilla 品牌负责人 Amy Bebbington。 “它向开发工具以赋予用户权力的基层程序员、倡导更好的互联网安全法的政府官员以及希望重新掌控数字生活的日常消费者传达了信息。”
-而且我们之前的怀疑是正确的：旗帜徽标上位置奇怪的圆点让人回想起 Shepard Fairey 于 1998 年设计的原始霸王龙“Hack”海报。Mozilla 基金会主席 Mark Surman 告诉The Verge：“旗帜可以转变为更字面的解释，成为我们新的 ASCII 艺术风格的吉祥物，并成为我们社区的战斗口号。”
+硬件泄露如今屡见不鲜，但三星却曝出一个不同寻常的泄露消息：Galaxy S24 FE 预购页面已上线，尽管这款手机尚未发布。X 用户 Roland Quandt 在三星网站上发现了预购页面。虽然这可能是一个错误，我们预计该页面很快就会消失，但这似乎证实了 S24 FE 即将推出——以及一些高级规格。
+从外观上看，S24 FE（对于初学者来说，即粉丝版）售价 649.99 美元，128GB 存储空间，256GB 版本售价 709.99 美元。这比S23 FE略有上涨，后者起价为 599 美元。页面上的图片轮播幻灯片似乎证实了与去年类似的相机规格，包括 50 万像素主摄像头、12 万像素超广角和 8 万像素 3 倍远摄镜头。 
 
 
-图片：Mozilla
-这只小恐龙还没有正式的名字，但这些动画转变相当迷人！
+图片：三星
+专用变焦镜头在 1,000 美元以下的手机上并不常见，因此这可能是一个不错的选择。
 
-然而，旧 T-Rex 徽标中使用的消防车红色不会再出现了。相反，Mozilla 使用了饱和的绿色、粉色和橙色的混合色（后者是对流行的 Firefox 浏览器的微妙致敬），在白色或黑色底色上注入了一抹色彩。它与定制的 Mozilla Semi-Slab、Mozilla Sans 和 Mozilla Sans Text 字体一起，将取代 Mozilla 于 2017 年推出的品牌标识，以及一些技术设计元素，如 2D 位图和 3D 线框。
-Mozilla 网站的大部分内容目前仍采用其旧品牌标识，但将随着时间的推移逐步更新。 “展望未来：我们计划在不同的环境和层面推出该品牌，旨在让 Mozilla 重新成为人们关注的焦点，”Bebbington 告诉 The Verge。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24253028/mozilla-brand-update-tyrannosaurus-rex-logo</guid>
-      <pubDate>Tue, 24 Sep 2024 14:00:40 GMT</pubDate>
+这次的颜色选项看起来更加柔和。预购页面除了石墨色和灰色外，还展示了淡蓝色和薄荷色选项——与 S23 FE 的橘色和紫色相去甚远。该网站还宣传了另一个很容易猜到的标题功能：Galaxy AI。当这款手机正式发布时，AI 肯定会走在最前沿。
+根据预购页面（令人难以置信的是，在我写这篇文章时它仍然在线！），手机 S24 FE 将于 10 月 3 日上市。它是否会在Apple 的 AI 功能发布之前上市？竞争已经开始。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24253223/samsung-galaxy-s24-fe-pre-order-live-announcement</guid>
+      <pubDate>Tue, 24 Sep 2024 17:51:16 GMT</pubDate>
     </item>
     <item>
-      <title>SteelSeries 的新款 Apex Pro Gen 3 拥有升级的开关和更厚重的声音</title>
-      <link>https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect</link>
-      <description><![CDATA[
-
-图片：SteelSeries
-
-SteelSeries 今天推出了最新系列 Apex Pro Gen 3 游戏键盘，并且明显注重改进键盘的声音和手感。 SteelSeries 正在升级其霍尔效应开关，添加阻尼泡沫，改进其开关稳定器，甚至在工厂润滑每个按键，以打造更厚重的音板。
-SteelSeries 正在将 Apex Pro Gen 3 系列转向新的 OmniPoint 3.0 开关，其中包括全尺寸板和 TKL（无数字键）有线和 TKL 无线版本。 SteelSeries 表示，它是“市场上技术最先进的开关”，并且改进了旨在降低噪音的传感器。
-
-
-图片：SteelSeries
-Apex Pro Gen 3 系列还包括全尺寸选项。
-
-霍尔效应游戏键盘越来越受欢迎，因为它们允许游戏玩家调整触发点从 4 毫米缩小到仅 0.1 毫米。传统的 Cherry MX 风格开关使用铜质机制，在约 2 毫米的设定驱动点处向电路板记录按压，但霍尔效应开关使用磁铁来加快按键速度。
-这些磁性开关还支持快速触发等功能，即无需等待按键返回即可按下同一按键。SteelSeries 提供快速触发和快速点击，这是其对 Razer 备受争议的 Snap Tap 模式的独到见解。它可以让你在《反恐精英 2》等游戏中完美地进行反击，但Valve 最近禁止 Razer 和 Wooting 使用类似功能。
-
-
-图片：SteelSeries
-SteelSeries 使用阻尼泡沫来改善声音和手感。
-
-SteelSeries 还改进了其稳定器以消除键帽晃动，因此开关和稳定器都应该可以减少霍尔效应板上经常出现的整体嘎嘎声。 SteelSeries 还增加了三层隔音泡沫，以改善声音和手感，以及每个按键的润滑。SteelSeries 在这里使用了 Poron 和硅橡胶，但我们必须试用这些板子才能看到它们到底有多大的不同。
-如果没有一些有趣的软件功能，它就不是 SteelSeries 键盘。新的 OmniPoint 3.0 开关还允许 2 合 1 动作按键，允许您将两个动作组合成一个按键。您可以先走后跑，先掏出手榴弹然后扔出去，或者执行连击。它本质上是键盘的宏模式。
-
-
-图片：SteelSeries
-Apex Pro Gen 3 系列还包括 OLED 智能显示屏。
-
-GG Quickset 也可用于这些主板，它可让您使用游戏预设，就像 SteelSeries 对其音频设置所做的那样耳机。SteelSeries 还增加了一种保护模式，因此您可以锁定按键以防止意外的粗指操作。 
-Apex Pro Gen 3 还延续了键盘顶部 OLED 智能显示屏的传统，可以调整设置和配置文件更改，或者只是方便地查看 CPU 和 GPU 使用情况。
-售价 199.99 美元的 Apex Pro Gen 3、售价 189.99 美元的 Apex Pro TKL Gen 3 和售价 249.99 美元的 Apex Pro TKL Wireless Gen 3 现已在全球零售商处发售。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252951/steelseries-apex-pro-gen-3-keyboards-hall-effect</guid>
-      <pubDate>Tue, 24 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞恩·库格勒 (Ryan Coogler) 主演的《罪人》首支预告片将最恐怖的部分留给了观众的想象</title>
-      <link>https://www.theverge.com/2024/9/24/24253037/ryan-coogler-sinners-trailer-release-date</link>
-      <description><![CDATA[
-
-
-虽然目前还不清楚另一部黑人吸血鬼电影是否会上映，或者何时会上映进入影院，编剧兼导演瑞恩·库格勒（Ryan Coogler）的《罪人》（Sinners）的首支预告片已经发布，看起来棒极了。
-我们已经看到库格勒执导过强有力的戏剧性社会评论作品，如《弗鲁特维尔车站》（Fruitvale Station），以及轰动一时的大片类型电影，如《黑豹》（Black Panther）系列电影，但他的最新作品转向了纯粹的恐怖片。 《罪人》以 20 世纪 30 年代的美国南部种族隔离制度为背景，讲述了一对双胞胎兄弟（均由迈克尔·B·乔丹饰演）的故事，他们回到小镇的家中，希望开始新的生活，却发现有非常邪恶的事情在等着他们。白天，阴影中潜伏着一种令人不安的存在，让镇上的居民（迈尔斯·卡顿、温米·莫萨库、杰米·劳森、奥马尔·本森·米勒和李俊）时刻警惕。
-但到了晚上，每个人的恐惧都变得更加具体，因为像海莉·斯坦菲尔德饰演的角色这样的怪异陌生人团体出现在当地的酒吧里，希望被邀请进入酒吧，促使常客们把自己关在里面。除了一个脸上有邪恶爪痕的男孩的镜头外，预告片不遗余力地将《罪人》的超自然故事描述得十分神秘。很少看到一家制片厂在宣传其最受期待的新电影时如此克制，但这可能表明《罪人》确实很特别。该片将于 3 月 7 日在影院首映。]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24253037/ryan-coogler-sinners-trailer-release-date</guid>
-      <pubDate>Tue, 24 Sep 2024 13:57:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们认为自己正在创造上帝</title>
-      <link>https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast</link>
+      <title>您现在可以买到的最好的即时相机</title>
+      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast</guid>
-      <pubDate>Tue, 24 Sep 2024 13:19:09 GMT</pubDate>
+      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
+      <pubDate>Tue, 24 Sep 2024 17:31:42 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 的 AI 播放列表创建器现已在美国推出</title>
-      <link>https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada</link>
+      <title>Figma 的 AI 应用生成器因抄袭苹果而被下架，现已恢复</title>
+      <link>https://www.theverge.com/2024/9/24/24253252/figma-ai-make-designs-first-draft-app-ui-generator</link>
       <description><![CDATA[
 
-更多国家的 Spotify 订阅者现在可以使用文本描述创建播放列表。 | 图片：Spotify
+图片：Cath Virginia / The Verge
 
-Spotify 正在将一项 AI 功能扩展到更多英语地区，该功能可以根据您的文本描述创建自定义播放列表。从今天开始，拥有 Premium Spotify 订阅（学生每月 5.99 美元起，个人每月 11.99 美元起）的美国、加拿大、爱尔兰和新西兰的用户可以访问测试版 AI Playlist，该功能于今年早些时候在英国和澳大利亚首次推出。
-订阅者可以通过点击 Spotify 库右上角的“+”按钮在移动应用程序中找到该功能。从下拉菜单中选择“AI 播放列表”将打开一个聊天框来描述您想要的播放列表，例如“万圣节期间播放的恐怖歌曲”或“适合清凉沐浴时间的舒缓民间音乐”。该功能还将提供建议提示。AI 播放列表测试版目前在 Spotify 桌面或 Web 应用程序上不可用。
+Figma 于 6 月宣布推出 Make Designs，让设计师能够使用生成式 AI 来帮助启动应用设计，但早期用户很快就展示了它如何模拟看起来非常接近苹果的 iPhone 天气应用程序。尽管 Figma 坚称该功能未使用客户数据进行训练 - 事实上，Figma 表示它没有训练所使用的现成生成式 AI 模型 - 但该公司删除了该功能以进行更多测试。
+现在它又回来了，称为“First Draft”，并且与 Figma 的其他 AI 功能一样，它目前处于有限测试阶段。
+Figma 还将在重新发布时为 First Draft 添加功能：
+我们还推出了一些关键更新，例如让您根据您的需要从四个库中选择一个 - 无论是线框图库（可帮助您勾勒出不那么固执己见的低保真基元）还是高保真度库（可提供更多视觉表达或模式供您探索）。这为我们的可视化搜索功能的实用性提供了更宽松、更具探索性的对比，该功能可让您通过提示或图像搜索 Figma 文件以查找现有文件或组件。
 
 
-图片：Spotify
-以下是如何在 Spotify 移动应用上访问 AI Playlist 测试版的分步指南。
+图片：Figma
+First Draft
 
-生成的播放列表包含 30 首歌曲，可以通过其他提示进行调整，以更好地匹配所需的氛围，例如要求播放更多欢快的音乐。指定流派、年代、心情或艺术家等内容的描述将获得更好的结果，但在我自己的测试中，我发现它能够令人印象深刻地将歌曲与甚至小众描述相匹配，例如“让我感觉自己像《刀锋战士》（1998 年）中的吸血鬼猎人。”
-Spotify 表示，虽然该功能处于测试阶段，但它仍在“积极学习和迭代每次交流”，并且可能会在未来引入更改以完善 AI 播放列表。
+在关于重新发布的博客文章中，该公司还详细说明了 First Draft 的工作原理：
+First Draft 不会对客户内容进行训练。它使用现成的 AI 模型（如 OpenAI 的 GPT-4 和 Amazon Titan），其中包含三个关键元素：模型、上下文和提示。上下文包括专有的移动和桌面设计系统，其中包含大量组件和组装示例。用户输入他们的设计目标作为提示。然后，AI 根据这些输入选择、排列和自定义设计系统组件，为设计创建起点。
+Figma 表示，在“广泛的分析、迭代和测试”之后，它重新推出了该功能。
+Figma 的其他 AI 功能还包括为您的设计自动生成文本的能力。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24253252/figma-ai-make-designs-first-draft-app-ui-generator</guid>
+      <pubDate>Tue, 24 Sep 2024 17:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款 Game Boy Color 主题的电动摩托车甚至有作弊码</title>
+      <link>https://www.theverge.com/2024/9/24/24252985/dab-motors-electric-motorcycle-1a-nintendo-game-boy-color</link>
+      <description><![CDATA[
 
-]]></description>
-      <guid>https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada</guid>
-      <pubDate>Tue, 24 Sep 2024 13:00:00 GMT</pubDate>
+Dab 1a 电动摩托车的灵感来自原子紫色 Game Boy Color。 |图片：Dab Motors
+
+Dab Motors 宣布其 Dab 1a 电动摩托车采用全新外观，灵感来自任天堂的原子紫 Game Boy Color。预订这款摩托车的客户（起价为 14,900 欧元（超过 16,500 美元））可以选择透明紫色车身，对于那些记得玩过这款掌上游戏机的人来说，这款摩托车看起来很熟悉。
+由 Dab Motors 的“定制服务部门”打造，原子紫版 Dab 1a 还包括定制车把，其控件看起来像 Game Boy Color 的方向键和操作按钮。在它们之间，自行车的屏幕一侧覆盖着红色状态灯，模仿 Game Boy 显示屏，我们许多人在童年时期都盯着它看。
+
+
+图片：Dab Motors
+Dab 1a 的 GBC 改造包括一个卡带启动键。
+
+最好的升级可能是在自行车顶部加一个插槽，用于放置老式 Game Boy Color 游戏卡带，该卡带已升级为 1a 的启动键。每次骑车时随身携带旧的任天堂卡带是否实用？绝对不行。这足以让我考虑放弃小型货车，转而选择电动自行车吗？我真的很想这么做。
+
+
+图片：Dab Motors
+甚至 Dab 1a 上的 Dab Motors 徽标也经过了任天堂的改造。
+
+原子紫 Dab 1a 甚至将拥有秘密“作弊码”，可解锁“速度提升”、显示主题和 8 位音效等功能。为了找到这些作弊代码，该自行车将附带一本虚构的游戏杂志，其中隐藏着代码。
+Dab Motors 由 Simon Dabadie 于 2018 年创立，总部位于法国巴约讷。2021 年，它分享了一款名为 Concept-E 的电动摩托车的详细信息。在标致摩托车于 2023 年收购该公司后，这款车变成了可投入生产的 Dab 1a，于去年 4 月首次亮相。Dab 1a 由一台 11kW 电动机驱动，据说最高时速略高于 80mph，续航里程为 93 英里，其 7.1kWh 锂离子电池组需要大约三个半小时。
+Dab 1a 只会生产 400 台，预订者可以选择他们真正想要的 Game Boy Color 风格的升级。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24252985/dab-motors-electric-motorcycle-1a-nintendo-game-boy-color</guid>
+      <pubDate>Tue, 24 Sep 2024 17:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合您的健身和健康的 Fitbit</title>
+      <link>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</guid>
+      <pubDate>Tue, 24 Sep 2024 16:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>永远不要把你的手机交给警察</title>
+      <link>https://www.theverge.com/2024/9/24/24252235/police-unlock-phone-password-face-id-apple-wallet-id</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24252235/police-unlock-phone-password-face-id-apple-wallet-id</guid>
+      <pubDate>Tue, 24 Sep 2024 16:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼的新款 OLED 游戏显示器是目前市面上速度最快的显示器之一</title>
+      <link>https://www.theverge.com/2024/9/24/24253167/sony-inzone-gaming-monitor-m10s-480hz-oled</link>
+      <description><![CDATA[
+
+图片：索尼
+
+索尼推出了一款新型 OLED 游戏显示器，旨在吸引 PC 和 PS5 系统的竞技玩家。 27 英寸 InZone M10S 是与热门的 Fnatic 电子竞技团队共同开发的，具有“锦标赛准备就绪”的功能，配备 1440p 面板，具有 0.03ms 的快速响应时间和可变的 480Hz 刷新率。
+M10S 从今天开始可以在线订购，建议零售价为 1,099.99 美元。仅凭其规格，它就是您可以买到的最快的 OLED 游戏显示器之一，可与 LG Display 于 1 月份在 CES 上推出的高端面板的功能相媲美。然而，对于 PC 用户来说，实现完整的 480Hz 将取决于帧速率和 GPU 性能，而 PS5 游戏机将其限制在 120Hz。
+
+索尼表示，InZone M10S 包含“性能增强模式”，以帮助玩家充分利用 PC 系统：例如，24.5 英寸模式以 1:1 的 1332p 分辨率显示游戏，最高可达 480Hz，而习惯在 24.5 英寸 1080p 显示器上玩游戏的玩家可以选择较低的分辨率。此外，还有两种 FPS 模式 - FPS Pro，据索尼称，它“模拟了电子竞技比赛中使用的扭曲向列 (TM) 面板 LCD 显示器的图像特性”，以及 FPS Pro Plus，它进一步优化了图像清晰度。
+M10S 的峰值亮度可达 1,300 尼特，并通过了 DisplayHDR True Black 400 认证，这意味着您可以期待宽广的色域和令人印象深刻的黑色水平。该显示器还具有 HDMI 2.1 和 DisplayPort 2.1 端口、Nvidia G-Sync 支持，并配有一个设计精美、可倾斜和旋转的高度可调支架。
+索尼还发布了 4K InZone M9 显示器的更新版本，该显示器于 2022 年发布。 27 英寸 InZone M9 II 现已上市，建议零售价为 799.99 美元（比上一代型号便宜 100 美元），具有更快的 160Hz 刷新率和自动 HDR 色调映射功能，可在设置过程中自动检测是否插入 PS5。]]></description>
+      <guid>https://www.theverge.com/2024/9/24/24253167/sony-inzone-gaming-monitor-m10s-480hz-oled</guid>
+      <pubDate>Tue, 24 Sep 2024 16:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
