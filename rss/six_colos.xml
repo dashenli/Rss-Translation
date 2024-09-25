@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 18:22:21 GMT</lastBuildDate>
+    <item>
+      <title>使用快捷方式使你的操作按钮更有用 (Macworld/Jason Snell)</title>
+      <link>https://www.macworld.com/article/2468165/got-an-iphone-with-an-action-button-heres-how-to-make-it-smarter.html</link>
+      <description><![CDATA[
+去年，Apple 在 iPhone 15 Pro 中引入了操作按钮，并极力将其用作拍照按钮。不过，今年，iPhone 16 和 16 Pro 都配备了一个新的专用相机控制按钮。…]]></description>
+      <guid>https://www.macworld.com/article/2468165/got-an-iphone-with-an-action-button-heres-how-to-make-it-smarter.html</guid>
+      <pubDate>Wed, 25 Sep 2024 15:40:52 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）你不能再忽视 GDPR 了</title>
       <link>https://sixcolors.com/feed-only/2024/09/you-cant-ignore-gdpr-anymore-2/</link>
@@ -47,7 +55,7 @@
       <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
       <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
 
-今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
+今天，欧盟委员会已启动两项规范程序，以协助 Apple 履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
       <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
     </item>
@@ -86,7 +94,7 @@
     <item>
       <title>MacStories 对操作系统发布的报道 ↦</title>
       <link>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</link>
-      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评测，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
+      <description><![CDATA[周一，我们在 Six Colors 发布了 iOS、iPadOS 和 macOS 评论，以及一篇关于照片的文章。我们在 MacStories 的好同事也在忙着发布值得您花时间阅读的内容：
 
 Federico Viticci 谈 iOS 18
 John Voorhees 谈 macOS Sequoia
@@ -116,13 +124,6 @@ Jonathan Reed 谈 watchOS 11
       <description><![CDATA[从左到右：新的初始照片视图，结合了图库（顶部）和收藏集（底部）；新的收藏集区域提供了充足的发现机会；每个收藏集都附带一部电影和精选的照片。…]]></description>
       <guid>https://sixcolors.com/post/2024/09/in-ios-18-photos-brings-collections-to-the-fore/</guid>
       <pubDate>Mon, 16 Sep 2024 19:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 评测：你的 iPhone，你的风格</title>
-      <link>https://sixcolors.com/post/2024/09/ios-18-review/</link>
-      <description><![CDATA[与 Apple 的其他操作系统相比，iOS 可能更注重平衡。对于许多人来说，他们的 iPhone 是 他们的主要计算机 - 在某些情况下，是他们唯一的计算机。…]]></description>
-      <guid>https://sixcolors.com/post/2024/09/ios-18-review/</guid>
-      <pubDate>Mon, 16 Sep 2024 17:09:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
