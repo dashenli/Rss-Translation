@@ -4,7 +4,14 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Tue, 24 Sep 2024 21:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 03:24:10 GMT</lastBuildDate>
+    <item>
+      <title>报告发现，伦敦、巴黎、阿姆斯特丹是欧洲领先的风险投资生态系统</title>
+      <link>https://thenextweb.com/news/london-paris-amsterdam-leading-vc-ecosystems-europe-report</link>
+      <description><![CDATA[伦敦、巴黎、阿姆斯特丹和柏林是欧洲领先的风险投资生态系统，但该地区远远落后于美国和亚洲。这是根据 Pitchbook 分析师的最新报告得出的结论，他们根据全球风险投资生态系统的发展和增长水平对其进行了排名。他们使用了过去六年（2018 年第三季度至 2024 年第二季度）的交易、退出、融资和总体活动相关数据。发展排名基于规模和成熟度，而增长排名则基于短期、中期和长期增长势头。只有两个欧洲城市跻身最发达的生态系统之列——只有伦敦和柏林......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/london-paris-amsterdam-leading-vc-ecosystems-europe-report</guid>
+      <pubDate>Tue, 24 Sep 2024 11:13:21 GMT</pubDate>
+    </item>
     <item>
       <title>编程语言之战：人工智能时代的 Kotlin 与 Java</title>
       <link>https://thenextweb.com/news/programming-languages-kotlin-vs-java-ai</link>
@@ -55,9 +62,9 @@
       <pubDate>Fri, 20 Sep 2024 10:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>北约首笔量子技术投资投向南安普顿初创公司</title>
+      <title>北约首笔量子技术投资投给了南安普敦初创公司</title>
       <link>https://thenextweb.com/news/natos-first-quantum-tech-investment-southampton-startup-aquark-technologies</link>
-      <description><![CDATA[北约创新基金 (NIF) 宣布首次投资量子技术，领投 500 万欧元种子轮融资。受助者是南安普顿大学衍生公司 Aquark Technologies，该公司开发了一种独特的量子传感技术。 Aquark 的专利冷原子系统可用作替代定位、导航和计时 (PNT) 设备，独立于卫星，因此不受 GPS 干扰等外部篡改的影响。Aquark 摒弃了笨重的磁阱，自称是一家小型化公司。它专注于微加工和真空技术。然而，真正让它与众不同的是，它找到了全新的捕获方法......本报道在 The Next Web 上继续]]></description>
+      <description><![CDATA[北约创新基金 (NIF) 宣布了其对量子技术的首次投资，领投了 500 万欧元的种子轮融资。受助者是南安普顿大学分拆出来的 Aquark Technologies，该公司开发了一种独特的量子传感技术。 Aquark 的专利冷原子系统可用作替代定位、导航和计时 (PNT) 设备，独立于卫星，因此不受 GPS 干扰等外部干扰。Aquark 摒弃了笨重的磁阱，自称是一家小型化公司。它专注于微加工和真空技术。然而，真正让它与众不同的是，它找到了全新的捕获方法......本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/natos-first-quantum-tech-investment-southampton-startup-aquark-technologies</guid>
       <pubDate>Thu, 19 Sep 2024 14:43:45 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[今年，加拿大航空公司输掉了一场诉讼，原告是被一个人工智能聊天机器人误导购买全价机票的，并保证根据公司的丧亲政策，这些乘客稍后会得到退款。该航空公司试图声称该机器人“对自己的行为负责”。这一论点被法院驳回，该公司不仅必须支付赔偿金，还因试图与此事撇清关系而受到公众批评。很明显，公司要对人工智能模型负责，即使它们犯了我们无法控制的错误。人工智能世界发展迅速......这个故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/ai-hallucinate-why-human-tech-users-pitfall</guid>
       <pubDate>Thu, 19 Sep 2024 08:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士初创企业押注光子芯片来降低数据中心的能源消耗</title>
-      <link>https://thenextweb.com/news/swiss-startup-photonic-chips-cut-data-centre-energy-consumption</link>
-      <description><![CDATA[在人工智能蓬勃发展的背景下，数据中心消耗的电量惊人。它们还占全球能源相关排放量的 1%。到 2030 年，它们的电力需求可能会增加 160%。总部位于瑞士的 Lightium 旨在提供解决方案。这家年轻的初创公司今天宣布，它已筹集了 700 万美元的种子资金，用于通过下一代光子芯片来加速数据中心的性能并降低其能耗。数据中心本质上是由三个组件组成的大型集群：中央处理器 (CPU)、图形处理器 (GPU) 和在这些处理器之间传输数据的光互连。这些互连通常基于......本故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/swiss-startup-photonic-chips-cut-data-centre-energy-consumption</guid>
-      <pubDate>Thu, 19 Sep 2024 07:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
