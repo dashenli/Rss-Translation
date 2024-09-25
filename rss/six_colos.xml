@@ -4,7 +4,28 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 21:16:53 GMT</lastBuildDate>
+    <item>
+      <title>Masimo 创始人被董事会罢免后辞去首席执行官职务 ↦</title>
+      <link>https://sixcolors.com/link/2024/09/masimo-founder-resigns-as-ceo-after-removal-from-board/</link>
+      <description><![CDATA[有关 Masimo 的一些有趣消息，该公司与 Apple 就血氧传感器专利发生纠纷，导致该功能在美国从 Apple Watch 中删除：…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/masimo-founder-resigns-as-ceo-after-removal-from-board/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 514：股票电话综合症</title>
+      <link>https://sixcolors.com/podcast/2024/09/the-rebound-514-stockphone-syndrome/</link>
+      <description><![CDATA[我们有新手机。我们对新手机也有自己的想法。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/09/the-rebound-514-stockphone-syndrome/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:17:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 573：五条腿和太多手指</title>
+      <link>https://sixcolors.com/podcast/2024/09/clockwise-573-five-legs-and-way-too-many-fingers/</link>
+      <description><![CDATA[我们使用哪种 Apple Watch 表盘、我们对 Apple 将新 iPhone 与 AI 功能绑定的感受、我们从哪里获取手机壁纸以及我们如何使用操作按钮。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/09/clockwise-573-five-legs-and-way-too-many-fingers/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>使用快捷方式使你的操作按钮更有用 (Macworld/Jason Snell)</title>
       <link>https://www.macworld.com/article/2468165/got-an-iphone-with-an-action-button-heres-how-to-make-it-smarter.html</link>
@@ -85,7 +106,7 @@
     <item>
       <title>A16 芯片现在在美国生产。↦</title>
       <link>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</link>
-      <description><![CDATA[独立记者 Tim Culpan 报道称，苹果公司位于台湾的芯片制造合作伙伴台积电目前正在其位于亚利桑那州的新工厂生产 A16 芯片：
+      <description><![CDATA[独立记者 Tim Culpan 报道称，苹果公司在台湾的芯片制造合作伙伴台积电目前正在其位于亚利桑那州的新工厂生产 A16 芯片：
 
 台积电首批亚利桑那州芯片现已投入生产，苹果公司已准备好成为首家使用该代工厂 5nm 工艺制造移动处理器的厂商。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/a16-chips-now-being-made-in-the-u-s-a/</guid>
@@ -103,27 +124,6 @@ Jonathan Reed 谈 watchOS 11
 这里有很多内容。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/macstories-coverage-of-os-releases/</guid>
       <pubDate>Tue, 17 Sep 2024 23:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 78：算法</title>
-      <link>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</link>
-      <description><![CDATA[威尔·卡罗尔 (Will Carroll) 再次加入大型体育角节目。我们讨论 NFL 的力量和精彩集锦的未来。[Downstream+ 订阅者还可以获得：体育权利、Diamond 破产、Venu 末日和切线。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/downstream-78-the-calgorithm/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 529：研磨硅</title>
-      <link>https://sixcolors.com/podcast/2024/09/upgrade-529-grind-down-that-silicon/</link>
-      <description><![CDATA[Apple 的所有新操作系统都在这里，我们讨论了我们最喜欢的新功能，并承认了潜在的问题。我们还花了一点时间庆祝 Upgrade 和 Six Colors 的十周年生日。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/upgrade-529-grind-down-that-silicon/</guid>
-      <pubDate>Mon, 16 Sep 2024 20:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iOS 18 中，照片功能让收藏功能脱颖而出</title>
-      <link>https://sixcolors.com/post/2024/09/in-ios-18-photos-brings-collections-to-the-fore/</link>
-      <description><![CDATA[从左到右：新的初始照片视图，结合了图库（顶部）和收藏集（底部）；新的收藏集区域提供了充足的发现机会；每个收藏集都附带一部电影和精选的照片。…]]></description>
-      <guid>https://sixcolors.com/post/2024/09/in-ios-18-photos-brings-collections-to-the-fore/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
