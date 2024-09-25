@@ -4,7 +4,21 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:32:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:19:30 GMT</lastBuildDate>
+    <item>
+      <title>2024 年迄今为止我们读过的最佳书籍</title>
+      <link>https://www.newyorker.com/best-books-2024</link>
+      <description><![CDATA[我们的编辑和评论家会评论值得关注的新小说、非小说和诗歌。]]></description>
+      <guid>https://www.newyorker.com/best-books-2024</guid>
+      <pubDate>Wed, 25 Sep 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年的房屋争夺战将在纽约郊区展开</title>
+      <link>https://www.newyorker.com/news/our-local-correspondents/the-battle-for-the-house-of-representatives-will-play-out-in-new-york-suburbs</link>
+      <description><![CDATA[民主党赢得众议院的道路要经过长岛和哈德逊河谷，而共和党最近在这些地区取得了进展。]]></description>
+      <guid>https://www.newyorker.com/news/our-local-correspondents/the-battle-for-the-house-of-representatives-will-play-out-in-new-york-suburbs</guid>
+      <pubDate>Wed, 25 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>纽约人睡不着觉时会做什么</title>
       <link>https://www.newyorker.com/humor/shouts-murmurs/what-new-yorkers-do-when-they-cannot-sleep</link>
@@ -27,14 +41,7 @@
       <pubDate>Wed, 25 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年的房屋争夺战将在纽约郊区展开</title>
-      <link>https://www.newyorker.com/news/our-local-correspondents/the-battle-for-the-house-of-representatives-will-play-out-in-new-york-suburbs</link>
-      <description><![CDATA[民主党赢得众议院的道路要经过长岛和哈德逊河谷，而共和党最近在这些地区取得了进展。]]></description>
-      <guid>https://www.newyorker.com/news/our-local-correspondents/the-battle-for-the-house-of-representatives-will-play-out-in-new-york-suburbs</guid>
-      <pubDate>Wed, 25 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·罗宾逊会破坏特朗普在北卡罗来纳州的机会吗？</title>
+      <title>马克·罗宾逊会破坏特朗普在北卡罗来纳州的成功吗？</title>
       <link>https://www.newyorker.com/news/the-lede/will-mark-robinson-derail-trumps-chances-in-north-carolina</link>
       <description><![CDATA[这位前总统需要赢得该州，但他支持共和党的州长候选人，而该候选人的竞选活动正在失败。]]></description>
       <guid>https://www.newyorker.com/news/the-lede/will-mark-robinson-derail-trumps-chances-in-north-carolina</guid>
@@ -69,21 +76,14 @@
       <pubDate>Tue, 24 Sep 2024 14:56:56 GMT</pubDate>
     </item>
     <item>
-      <title>建造月球望远镜的探索</title>
-      <link>https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon</link>
-      <description><![CDATA[如果 FarView 射电望远镜建成，它将同时展示两项前所未有的活动：太空采矿和太空制造。]]></description>
-      <guid>https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon</guid>
-      <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>多生孩子的理由</title>
+      <title>生很多孩子的理由</title>
       <link>https://www.newyorker.com/culture/the-lede/the-case-for-having-lots-of-kids</link>
       <description><![CDATA[在《汉娜的孩子们》中，一位经济学家和八个孩子的母亲采访了受过高等教育且拥有大家庭的女性，并探讨了美国生育率下降的原因。]]></description>
       <guid>https://www.newyorker.com/culture/the-lede/the-case-for-having-lots-of-kids</guid>
       <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>听好了！听好了！我要离开这个行业了</title>
+      <title>听好了！听好了！我要离开这个行业</title>
       <link>https://www.newyorker.com/humor/shouts-murmurs/hear-ye-hear-ye-im-leaving-the-industry</link>
       <description><![CDATA[哇，根本没人听。我拿着这个愚蠢的卷轴在这里干什么？]]></description>
       <guid>https://www.newyorker.com/humor/shouts-murmurs/hear-ye-hear-ye-im-leaving-the-industry</guid>
@@ -97,18 +97,18 @@
       <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>建造月球望远镜的探索</title>
+      <link>https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon</link>
+      <description><![CDATA[如果 FarView 射电望远镜建成，它将同时展示两项前所未有的活动：太空采矿和太空制造。]]></description>
+      <guid>https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon</guid>
+      <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>政治魅力有多大力量？</title>
       <link>https://www.newyorker.com/culture/open-questions/how-powerful-is-political-charm</link>
       <description><![CDATA[卡玛拉·哈里斯用她的个性激发了民主党的活力，但她在政治上的魅力可能比我们想象的更有限、更不稳定。]]></description>
       <guid>https://www.newyorker.com/culture/open-questions/how-powerful-is-political-charm</guid>
       <pubDate>Tue, 24 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有了《143》，凯蒂·佩里就不再是笑话了</title>
-      <link>https://www.newyorker.com/culture/cultural-comment/with-143-katy-perry-is-no-longer-in-on-the-joke</link>
-      <description><![CDATA[这位艺术家曾经创作过灵巧有趣的歌曲。她的最新专辑中收录的歌曲听起来就像是除臭剂广告的背景音乐。]]></description>
-      <guid>https://www.newyorker.com/culture/cultural-comment/with-143-katy-perry-is-no-longer-in-on-the-joke</guid>
-      <pubDate>Mon, 23 Sep 2024 15:37:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
