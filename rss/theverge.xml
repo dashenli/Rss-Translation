@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:31:29 GMT</lastBuildDate>
+    <item>
+      <title>谷歌地图正在严厉打击虚假评论</title>
+      <link>https://www.theverge.com/2024/9/26/24254882/google-maps-removing-fake-business-reviews-warning-message</link>
+      <description><![CDATA[
+
+如果发现某个地方使用虚假评论，Google 将暂时完全限制其评论。 | 图片：The Verge
+
+Google 地图正在打击参与虚假评论的商业页面，并向其用户强调此类活动。谷歌现在将对违反该搜索巨头虚假参与政策的商业资料实施限制，例如暂时删除评论、屏蔽新评论或评分，以及在已删除虚假评论的资料上显示警告消息。
+商业资料限制于今年早些时候在英国推出，但搜索引擎圆桌会议指出，支持页面已于 9 月中旬更新，似乎适用于全球。不过，目前只有英国用户才能看到业务警告，例如 Mike Blumenthal 在 X 上发布的示例。
+
+
+图片：Google / Mike Blumenthal
+这是在使用虚假评论的企业页面上显示的警告消息。
+
+Google 的禁止和限制内容政策规定，对地图的贡献“应反映在某个地方或企业的真实体验”。企业页面不得显示不“准确代表相关地点或产品”的内容，或通过向评论者提供付款、折扣或免费赠品来激励评论者的内容。 Google 地图还会查找试图通过从多个帐户发布帖子来操纵评分的评论，或使用模拟器、修改后的操作系统或其他“模仿真实参与”的方法。
+目前尚不清楚 Google 将如何准确确定哪些评论违反了这些规则，但被公开羞辱的威胁可能足以阻止一些企业试图人为地提高他们的评分。警告信息还可以帮助用户避免访问 Google 认为不值得信任的地方，而不是可疑的评论毫无解释地消失。]]></description>
+      <guid>https://www.theverge.com/2024/9/26/24254882/google-maps-removing-fake-business-reviews-warning-message</guid>
+      <pubDate>Thu, 26 Sep 2024 11:13:15 GMT</pubDate>
+    </item>
     <item>
       <title>SteelSeries 推出适用于 Xbox、PlayStation 或 PC 的 160 美元游戏耳塞</title>
       <link>https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing</link>
@@ -131,13 +150,6 @@ DoNotPay 是一家声称提供“世界上第一个机器人律师”的公司�
 ]]></description>
       <guid>https://www.theverge.com/2024/9/25/24254405/federal-trade-commission-donotpay-robot-lawyers-artificial-intelligence-scams</guid>
       <pubDate>Wed, 25 Sep 2024 21:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择购买哪款 Apple Watch</title>
-      <link>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</guid>
-      <pubDate>Wed, 25 Sep 2024 20:49:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
