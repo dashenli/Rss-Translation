@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 21:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 01:09:04 GMT</lastBuildDate>
+    <item>
+      <title>美国军方从乌克兰无人机战争中学到了什么</title>
+      <link>https://www.npr.org/2024/09/25/1201499008/what-the-u-s-military-is-learning-from-the-drone-war-in-ukraine</link>
+      <description><![CDATA[随着乌克兰战争的持续，美国军方正密切关注无人机将如何改变这场冲突。俄罗斯和乌克兰都使用无人机监视部队调动、识别目标和投掷炸弹。我们前往路易斯安那州的森林，看看美国陆军在训练中吸取了哪些教训，并了解这对未来战争意味着什么。]]></description>
+      <guid>https://www.npr.org/2024/09/25/1201499008/what-the-u-s-military-is-learning-from-the-drone-war-in-ukraine</guid>
+      <pubDate>Wed, 25 Sep 2024 21:31:28 GMT</pubDate>
+    </item>
     <item>
       <title>想要在野火中保持安全？有一款应用可以提供帮助</title>
       <link>https://www.npr.org/2024/09/25/g-s1-24534/wildfire-app-watch-duty-firefighting</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 25 Sep 2024 20:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>众议院批准拨款法案以避免政府关门</title>
+      <title>国会批准拨款法案以避免政府关门</title>
       <link>https://www.npr.org/2024/09/25/g-s1-24518/stopgap-funding-bill-congress</link>
-      <description><![CDATA[众议院批准了一项法案，为联邦机构提供资金直至 12 月 20 日。此次投票是在避免政府关门的 9 月 30 日最后期限前几天进行的。]]></description>
+      <description><![CDATA[众议院和参议院均以压倒性多数票通过了为联邦机构提供直至12月20日的资金的法案。]]></description>
       <guid>https://www.npr.org/2024/09/25/g-s1-24518/stopgap-funding-bill-congress</guid>
       <pubDate>Wed, 25 Sep 2024 20:41:33 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[35 岁的奥兰·鲁斯因联邦调查局搜查其住所以进行另一项调查而被捕。他被指控接收和持有儿童性虐待图片。]]></description>
       <guid>https://www.npr.org/2024/09/25/nx-s1-5126554/ryan-routh-son-oran-child-porn</guid>
       <pubDate>Wed, 25 Sep 2024 16:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是可能决定总统选举结果的 7 个州的选票</title>
-      <link>https://www.npr.org/2024/09/25/nx-s1-5111891/independent-third-party-candidates-swing-state-ballots</link>
-      <description><![CDATA[由于总统选举结果难分胜负，第三方和独立候选人在关键州获得的选票将决定白宫的命运。以下是这些州选票上的候选人。]]></description>
-      <guid>https://www.npr.org/2024/09/25/nx-s1-5111891/independent-third-party-candidates-swing-state-ballots</guid>
-      <pubDate>Wed, 25 Sep 2024 13:51:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
