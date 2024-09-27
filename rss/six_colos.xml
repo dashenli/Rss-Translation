@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 26 Sep 2024 01:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:18:02 GMT</lastBuildDate>
+    <item>
+      <title>NIST 的新建议针对不良密码策略 ↦</title>
+      <link>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</link>
+      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指南：
+
+专门讨论密码的部分注入了大量急需的常识性做法，这些做法挑战了常见的政策。…]]></description>
+      <guid>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</guid>
+      <pubDate>Fri, 27 Sep 2024 14:18:58 GMT</pubDate>
+    </item>
     <item>
       <title>iMore 已不复存在 ↦</title>
       <link>https://sixcolors.com/link/2024/09/imore-is-no-more/</link>
@@ -17,7 +26,7 @@
     <item>
       <title>《掌控照片，第四版》 ↦</title>
       <link>https://sixcolors.com/link/2024/09/take-control-of-photos-fourth-edition/</link>
-      <description><![CDATA[我很高兴地宣布，我的关于苹果照片应用的电子书《掌控照片，第四版》的最新版本现已上市。
+      <description><![CDATA[我很高兴地宣布，我关于苹果照片应用的电子书《掌控照片，第四版》的最新版本现已上市。
 这个新版本涵盖了苹果今年添加的新内容，内容非常丰富——尤其是在 iOS 和 iPadOS 方面。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/take-control-of-photos-fourth-edition/</guid>
       <pubDate>Wed, 25 Sep 2024 22:43:35 GMT</pubDate>
@@ -93,7 +102,7 @@
       <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
       <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
 
-今天，欧盟委员会已启动两项规范程序，以协助 Apple 履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
+今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
       <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
     </item>
@@ -112,13 +121,6 @@
       <description><![CDATA[我们对 Instagram 的新“青少年账户”及其发展方向的看法、对 Qi2、充电速度和 MagSafe 的看法、我们在 Apple 最新平台更新中最喜欢的新功能以及我们最不喜欢或需要时间适应的更新。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/09/clockwise-572-fight-fight-fight/</guid>
       <pubDate>Wed, 18 Sep 2024 20:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 513：除此之外，林肯夫人，播客怎么样？</title>
-      <link>https://sixcolors.com/podcast/2024/09/the-rebound-513-other-than-that-how-was-the-podcast-mrs-lincoln/</link>
-      <description><![CDATA[10 年！这？…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/the-rebound-513-other-than-that-how-was-the-podcast-mrs-lincoln/</guid>
-      <pubDate>Wed, 18 Sep 2024 17:01:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
