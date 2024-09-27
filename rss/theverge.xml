@@ -4,136 +4,127 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 21:15:05 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 曾是一家研究实验室——现在只是一家科技公司</title>
+      <link>https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus</guid>
+      <pubDate>Fri, 27 Sep 2024 20:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部起诉伊朗人涉嫌策划特朗普竞选“黑客泄密”计划</title>
+      <link>https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge |照片来自 Scott Olson、Getty Images
+
+根据周五的起诉书，美国司法部已对三名伊朗国民提出指控，指控他们涉嫌对唐纳德·特朗普总统竞选活动发动网络攻击。
+这三名黑客均与伊朗伊斯兰革命卫队有联系，据称他们利用社交工程和鱼叉式网络钓鱼攻击获取了竞选官员的账户，这是一种试图诱骗受害者披露敏感信息的策略。然后，他们利用被劫持的账户窃取非公开的竞选文件和电子邮件，并与媒体分享。
+
+正如起诉书中所述，美国将黑客与伊朗互联网服务提供商 Respina Networks 联系起来，据称该公司允许他们在伊朗境外“不受限制”地访问互联网。起诉书还介绍了他们如何使用商业虚拟专用网络 (VPN) 创建许多虚假域名，如“tinyurl.ink”和“mailer-daemon.online”，并最终利用这些域名误导受害者。 
+您可以在下面的起诉书中阅读完整详情。
+
+虽然起诉书中没有提到哪位总统候选人是这些网络攻击的目标，但特朗普竞选团队上个月证实其网络遭到黑客攻击。收到被盗文件的新闻媒体并未对此进行报道，但本周，独立记者Ken Klippenstein发表了一份据称由黑客发送的有关副总统候选人 JD Vance 的档案。他后来被 X 停职。
+美国指控这三名黑客犯有电信欺诈、向恐怖组织提供物质支持以及密谋从受保护的计算机获取信息。美国司法部国家安全司助理司法部长马修·奥尔森在新闻稿中表示：“伊朗的这些黑客和泄密行为直接侵犯了我们民主进程的完整性。”“伊朗政府行为者长期以来一直试图利用网络手段损害美国利益。”
+美国财政部悬赏高达 1000 万美元，以获取有关三名黑客嫌疑人的信息。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign</guid>
+      <pubDate>Fri, 27 Sep 2024 20:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>一辆满载电池的卡车燃烧了近一整天，导致洛杉矶港口关闭</title>
+      <link>https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed</guid>
+      <pubDate>Fri, 27 Sep 2024 20:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的机器人吸尘器</title>
+      <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</guid>
+      <pubDate>Fri, 27 Sep 2024 20:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的门铃摄像头</title>
+      <link>https://www.theverge.com/22954554/best-video-doorbell-camera</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22954554/best-video-doorbell-camera</guid>
+      <pubDate>Fri, 27 Sep 2024 19:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threads 现在可让你标记自己的位置</title>
+      <link>https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Meta 正在推出在 Threads 帖子上标记位置的功能。如果您有此功能，您将在帖子编辑器中看到一个图钉，您可以点击它来添加您所在的位置。
+请注意，将您的位置添加到 Threads 帖子中不会在地图上共享确切的图钉。相反，该功能可让您通过分享城市名称、街区或餐馆等信息，让用户大致了解您的位置。如果您看到包含位置的 Threads 帖子，您可以点击该位置查看来自同一地点的其他帖子。
+我有此功能，并且一直在摆弄它。当我点击帖子编辑器中的图钉时，Threads 会向我显示一系列选项：我可以通过标记自己在俄勒冈州波特兰市（这是我居住的地方）来保持广泛的范围，或者我可以从一些更具体的位置中进行选择。如果您在 Instagram 帖子中标记过自己的位置，Threads 的方法应该会让您感觉非常熟悉。
+Threads 的位置标记功能目前似乎仅在移动应用程序上可用；我在 iOS 上可以使用它，但在网络上看不到它。希望它很快就能在桌面浏览器中出现。]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram</guid>
+      <pubDate>Fri, 27 Sep 2024 19:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款机械臂可以拆下手来抓取物品</title>
+      <link>https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl</link>
+      <description><![CDATA[
+
+这款机械臂的铰接手可以拆卸并自行爬行。 |截图：YouTube
+
+瑞士洛桑联邦理工学院 (EPFL) 的研究人员开发出一种铰接式手，可以通过自行分离和爬行来抓取物品，从而扩大机械臂的伸展范围。这项研究最近在国际机器人与自动化会议 (ICRA) 上发表，并被IEEE Spectrum 杂志发现。
+由于机械臂的强度和速度，它们通常永久地固定在地板或其他结构上以增加稳定性，这限制了它们的伸展范围。这项研究由 EPFL 的学习算法与系统实验室 (LASA) 进行，其目标是开发一种双模机械手，扩大抓握能力，包括偶尔独立于其所连接的机械臂。
+
+
+GIF：YouTube
+手可以根据需要拆卸和重新连接到机械臂上。
+
+机械手的设计通常只有一个目标：抓住东西。为了开发出一种能够做到这一点并像亚当斯一家的怪物一样自行爬行的机器人，研究人员使用遗传算法（依赖于自然选择和进化等生​​物学技巧）和 MuJoCo 物理模拟器 生成并完善了一个基本设计，以测试迭代的实用性。
+算法和模拟帮助研究人员确定了所需的最佳位置和关节手指数量，结果是五个，布局与人手相似。机械手还在手腕处使用磁性连接器，使其能够自主地连接和分离手臂。
+
+
+GIF：YouTube
+机械手的手指可以向两个方向弯曲，因此它可以爬行，但当连接到机械臂时，它也允许机械手同时抓住两个物体。
+
+机械手的手指可以向两个方向弯曲，允许它使用其中一些手指来举起物体，而其余手指则用作小腿。这种设计还扩展了机械手连接到机械臂时的实用性。它可以一次举起多个物体，而无需扭转手臂来重新定位未使用的手指。
+这只手也比波士顿动力公司的 Spot 等机器人小得多，后者可以用四条腿自由移动。 Spot 已经升级，拥有自己的机械臂和抓取器，但有了独立操作的关节手，它可以更好地探索或分析 Spot 无法挤入的区域。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl</guid>
+      <pubDate>Fri, 27 Sep 2024 18:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲航天局将于 2027 年摧毁一颗全新卫星，看看会发生什么</title>
+      <link>https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris</link>
+      <description><![CDATA[
+
+DRACO 在地球大气层中被摧毁的插图。 |图片：ESA
+
+欧洲航天局 (ESA) 计划于 2027 年将一颗卫星发射到地球轨道，观察其在重返大气层时被摧毁的过程。该项目旨在帮助了解卫星究竟是如何解体的，以便科学家了解如何防止产生更多的太空垃圾。
+随着我们将更多卫星送入轨道，太空垃圾正成为一个更大的问题，但我们正在努力尝试解决它。此次任务是欧空局“零碎片宪章”倡议的一部分，旨在到 2030 年停止产生更多太空碎片。
+该任务称为破坏性再入评估容器物体 (DRACO)，卫星内部将在飞船重返大气层时被摧毁时收集数据。它还将包含一个 40 厘米的胶囊，旨在在破坏后幸存下来，当胶囊向海洋移动时，它将传输收集的数据。
+
+航空航天工程公司 Deimos 签约建造 DRACO，其大小与洗衣机相当，重约 200 公斤（441 磅）。它将包含 200 个传感器和四个摄像头，但没有推进或导航系统。根据欧洲航天局的新闻稿，返回地球的大多数太空垃圾都是不受控制的，重点是密切模拟平均再入过程。
+在太空舱落水前获取数据至关重要，而且可能会遇到挑战，例如在空中翻滚时尝试打开降落伞。欧洲航天局表示，将有 20 分钟的时间来收集数据。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris</guid>
+      <pubDate>Fri, 27 Sep 2024 18:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂闪亮的新博物馆需要更多泥土</title>
+      <link>https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto</guid>
+      <pubDate>Fri, 27 Sep 2024 18:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>微软更安全的 Windows Recall 功能也可以被用户卸载</title>
       <link>https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall</guid>
       <pubDate>Fri, 27 Sep 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天是你在密码共享打击前在 Disney Plus 上省钱的最后机会</title>
-      <link>https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255200/disney-plus-basic-subscription-star-wars-outlaws-deal-sale</guid>
-      <pubDate>Fri, 27 Sep 2024 16:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合训练和日常生活的最佳 Garmin 手表</title>
-      <link>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</guid>
-      <pubDate>Fri, 27 Sep 2024 16:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>CNN 将开始将部分文章锁定在付费墙内</title>
-      <link>https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson</link>
-      <description><![CDATA[
-
-CNN 董事长马克·汤普森 (Mark Thompson) 于 7 月宣布计划推出数字订阅业务。 |图片：CNN
-
-CNN将从下个月开始将其部分数字内容置于订阅付费墙后面，《纽约时报》报道。该实验将测试与《纽约客》、《连线》和《华尔街日报》等出版物使用的类似订阅模式，据报道，CNN希望在有线电视收视率下降的情况下带来额外收入。
-“计量”付费墙功能将于 10 月初某个时候推出，这将要求 CNN 的更频繁的读者在用完一定数量的免费文章后付费访问。据《Press Gazette》报道，CNN 是美国访问量最大的新闻网站，每月访问量达 4.414 亿次。CNN 是美国访问量最大的新闻网站，每月访问量达 4.414 亿次。据《泰晤士报》报道，这种订阅模式的价格尚未披露，但最初将是“一种衡量客户需求的廉价产品”。《泰晤士报》 报道。
-CNN 于今年早些时候开始测试类似的“注册墙”功能，除非读者提供电子邮件地址，否则将阻止访问某些文章。该出版物的付费墙计划于 7 月与公司重组一起被曝光，裁员约 100 人，CNN 董事长马克·汤普森宣布计划建立数字订阅业务，这将创造“超过 10 亿美元的收入”以确保公司的未来。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255900/cnn-paywall-digital-subscription-mark-thompson</guid>
-      <pubDate>Fri, 27 Sep 2024 15:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在，在 Google 航班上搜索也会推荐 Amtrak 火车行程</title>
-      <link>https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets</link>
-      <description><![CDATA[
-
-火车很酷，但乘坐火车并不总是更便宜。 |图片：美国铁路公司
-
-美国铁路公司的票价和行程建议正在整合到谷歌搜索中，这是谷歌努力提供比航班更环保的旅行方式的一部分。现在，当您在 Google 或 Google Flights 上搜索往返于设有 Amtrak 航站楼的目的地之间的机票价格时，您还会获得火车行程建议，您可以点击进入 Amtrak 网站进行购买。
-Google 一直致力于提供可持续交通选项，它之前曾显示火车行程建议，但没有票价，也无法轻松重定向到 Amtrak 网站购买特定车票——尽管每次我尝试时它都没有用。
-Google 还计算乘坐火车可以节省多少碳排放量前往目的地的火车。当我搜索从纽约到巴尔的摩的火车时，它显示与开车相比，火车可以“节省每位乘客约 87% 的碳排放量”。
-
-
-屏幕截图：The Verge
-谷歌在搜索航班时提供“考虑乘坐火车”选项。
-
-
-
-截图：The Verge
-Google 将我直接重定向到 Amtrak 网站上的购票页面。
-
-Google 建议乘坐火车，称火车“比飞机更环保”。然而，Amtrak 的票价却很贵。谷歌推荐的纽约和华盛顿特区之间的航班起价为 108 美元，而最便宜的 Amtrak 机票价格为 243 美元。
-
-
-。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255817/google-search-flights-amtrak-train-suggestions-tickets</guid>
-      <pubDate>Fri, 27 Sep 2024 15:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iPhone 的最佳 MagSafe 和 Qi2 充电器</title>
-      <link>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</guid>
-      <pubDate>Fri, 27 Sep 2024 15:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 将允许你起诉 Valve</title>
-      <link>https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Steam 刚刚取消了强制仲裁政策，为针对其母公司 Valve 的诉讼打开了大门。 Steam 在周四的更新中表示，其订户协议“现在规定，任何争议都应通过法院而不是仲裁解决。”
-许多公司在其用户协议中都包含强制仲裁条款，放弃个人在法院受审的权利。仲裁涉及在公正的第三方面前在法律体系之外解决争议。这种方法通常更快，但可能无法为消费者带来最佳结果，因为仲裁员不要在做出决定时需要考虑法律。。
-
-许多服务在其服务条款中规定了强制性仲裁协议，人们可能甚至不会阅读或完全理解。迪士尼最近试图驳回一起非正常死亡诉讼，此前一名女子在其华特迪士尼世界度假村发生过敏反应后死亡。该公司辩称，由于鳏夫在注册 Disney Plus 时同意了强制仲裁政策，因此他无权提起诉讼（迪士尼后来让步了）。
-此前，Steam 的用户协议规定，“您和 Valve 同意通过个人有约束力的仲裁解决我们之间的所有争议和索赔”，适用于与 Steam、您的帐户、硬件或公司的内容和服务有关的所有争议。新协议取消了对具有约束力的仲裁政策的任何提及。
-Steam 并未说明为何决定突然删除强制仲裁条款。正如 404 Media 所指出的，一群原告最近对 Valve 的强制仲裁政策提出质疑，并成功就 Steam 的主导地位提起集体诉讼。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255841/steam-forced-arbitration-policy-lawsuit</guid>
-      <pubDate>Fri, 27 Sep 2024 14:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的新款智能眼镜看起来就像是未来</title>
-      <link>https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast</guid>
-      <pubDate>Fri, 27 Sep 2024 13:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>LG 和 Razer 为云游戏打造了一款超灵敏的蓝牙控制器</title>
-      <link>https://www.theverge.com/2024/9/27/24255778/lg-razer-ultra-low-latency-bluetooth-ull-gaming-controller</link>
-      <description><![CDATA[
-
-新款支持 ULL 的控制器（见右图）针对未指定的标准蓝牙游戏手柄（左图）进行了测试。 |图片：LG
-
-LG 与 Razer 和联发科合作开发了一款新型蓝牙游戏控制器，可大大减少基于云的游戏的输入延迟。据 LG 介绍，这是第一款采用超低延迟 (ULL) 蓝牙技术的控制器 - 这是一种正在开发的标准，旨在使无线控制器的响应速度与有线控制器一样快。
-周五，在 LG 的 webOS 峰会上，支持 BT ULL 的控制器与“标准控制器”进行了比较。 LG 在其新闻发布室中表示：“此次演示突出了 BT ULL 技术在各种基于云的游戏（包括 FPS、格斗和赛车游戏）中的卓越响应能力、减少的输入延迟和控制精度。”
-
-
-图片：LG
-没有新控制器的特写镜头，但在正式发布之前，设计可能会有所改变启动。
-
-蓝牙控制器的输入延迟可能因型号和环境因素而异，但最好低于 10-20 毫秒。有线控制器通常具有较低的输入延迟，这使得它们对竞技游戏玩家很有吸引力。据称，Razer 的新款 ULL 蓝牙游戏控制器展示了“改变游戏规则的 1ms 输入延迟”。
-谷歌曾试图通过其 Stadia 服务解决控制器输入延迟问题，使控制器能够通过 Wi-Fi 直接连接到谷歌的数据中心。这使谷歌避免了增加蓝牙延迟。谷歌去年关闭 Stadia 服务后，该公司发布了一项更新，以启用其 Stadia 控制器上的蓝牙，以便在 PC、Mac、手机和其他设备上使用。
-使用联发科 MT7921 WiFi 芯片组的部分 LG 120Hz OLED 和 Mini LED 电视内置蓝牙 ULL 支持，这些电视计划于 2025 年推出。LG 还计划为第三方支持 ULL 的控制器引入认证，以确保它们“与LG webOS 智能电视”，Razer 是第一家获得资格的公司。
-目前还没有与新款 Razer 控制器相关的价格、发布日期甚至官方名称，因此消费者可能需要一段时间才能购买。我们可以在 2025 年 1 月 7 日至 10 日举行的 CES 上获得有关该控制器和 LG 支持 ULL 的电视的更多详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255778/lg-razer-ultra-low-latency-bluetooth-ull-gaming-controller</guid>
-      <pubDate>Fri, 27 Sep 2024 12:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 让 Gmail 的智能回复更加智能</title>
-      <link>https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability</link>
-      <description><![CDATA[
-
-Gmail 中的自动回复现在可以为 iOS 和 Android 上的某些用户提供更多详细信息和背景信息。 | 插图作者：Alex Castro / The Verge
-
-Google 正在为 Android 和 iOS 版 Gmail 推出由 Gemini 提供支持的更新，该更新将针对电子邮件更具体定制智能回复。最早于5 月份宣布，Google 表示其新的上下文智能回复将“通过考虑电子邮件线程的全部内容，提供更详细的回复以充分捕捉您消息的意图”。
-用户可以将鼠标悬停在每个建议的上下文智能回复上以预览文本，并选择最符合他们需求或写作风格的选项。建议的回复可以立即编辑或发送。这样做的目的是，既可以节省时间（特别是如果你经常埋头于 Gmail 收件箱中），又可以改善可用的自动回复种类，而不仅仅是简单的“是的，我正在处理”或“不用担心，谢谢你的提醒！”——甚至可以添加初始问候和签名信息。
-
-
-图片：Google
-如果用户对自动选项感到满意，他们在回复电子邮件时可能根本不需要进行任何输入。
-
-新的上下文智能回复现已面向 Gemini Business、Enterprise、Education、Education Premium 和 Google One AI Premium 订阅者推出。该功能目前仅提供英语版本，并基于 2017 年添加到 Gmail 的原始智能回复功能构建。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability</guid>
-      <pubDate>Fri, 27 Sep 2024 09:29:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 21:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Meta 和 Apple：同样的游戏，不同的规则</title>
+      <link>https://sixcolors.com/post/2024/09/meta-and-apple-same-game-different-rules/</link>
+      <description><![CDATA[Meta 的 Orion 原型。（图片：Meta）
+游戏是创建一款可穿戴增强现实设备，将智能手机的所有优点叠加到您的视野中，使整个世界成为智能手机画布。…]]></description>
+      <guid>https://sixcolors.com/post/2024/09/meta-and-apple-same-game-different-rules/</guid>
+      <pubDate>Fri, 27 Sep 2024 18:22:19 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/09/1password-5/</link>
@@ -16,7 +24,7 @@
     <item>
       <title>NIST 的新建议针对不良密码策略 ↦</title>
       <link>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</link>
-      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指导方针：
+      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指南：
 
 专门讨论密码的部分注入了大量急需的常识性做法，这些做法挑战了常见的政策。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</guid>
@@ -110,18 +118,9 @@
       <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
       <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
 
-今天，欧盟委员会已启动两项规范程序，以协助 Apple 履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
+今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
       <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑色版 Apple Watch Ultra 2 “太恶心了” ↦</title>
-      <link>https://sixcolors.com/link/2024/09/the-black-apple-watch-ultra-2-is-sick-as-hell/</link>
-      <description><![CDATA[The Verge 的 Victoria Song 撰写了您唯一需要的黑色 Apple Watch Ultra 2 评论：
-
-这是蝙蝠侠会购买的 Apple Watch。别介意它只是我手腕上的一块小砖头。…]]></description>
-      <guid>https://sixcolors.com/link/2024/09/the-black-apple-watch-ultra-2-is-sick-as-hell/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:15:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
