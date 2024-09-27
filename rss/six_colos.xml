@@ -4,11 +4,19 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 27 Sep 2024 15:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 18:22:26 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/09/1password-5/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+1Password 希望您详细了解 GDPR 等法律如何影响您的业务。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/09/1password-5/</guid>
+      <pubDate>Fri, 27 Sep 2024 16:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>NIST 的新建议针对不良密码策略 ↦</title>
       <link>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</link>
-      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指南：
+      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指导方针：
 
 专门讨论密码的部分注入了大量急需的常识性做法，这些做法挑战了常见的政策。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</guid>
@@ -102,7 +110,7 @@
       <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
       <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
 
-今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
+今天，欧盟委员会已启动两项规范程序，以协助 Apple 履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
       <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
     </item>
@@ -114,13 +122,6 @@
 这是蝙蝠侠会购买的 Apple Watch。别介意它只是我手腕上的一块小砖头。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/the-black-apple-watch-ultra-2-is-sick-as-hell/</guid>
       <pubDate>Thu, 19 Sep 2024 12:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 572：战斗，战斗，战斗！</title>
-      <link>https://sixcolors.com/podcast/2024/09/clockwise-572-fight-fight-fight/</link>
-      <description><![CDATA[我们对 Instagram 的新“青少年账户”及其发展方向的看法、对 Qi2、充电速度和 MagSafe 的看法、我们在 Apple 最新平台更新中最喜欢的新功能以及我们最不喜欢或需要时间适应的更新。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/clockwise-572-fight-fight-fight/</guid>
-      <pubDate>Wed, 18 Sep 2024 20:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
