@@ -4,7 +4,21 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 12:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 15:17:22 GMT</lastBuildDate>
+    <item>
+      <title>三星华丽的 Galaxy Book4 Edge 价格已降至迄今为止的最低价</title>
+      <link>https://www.theverge.com/2024/9/28/24255916/samsung-galaxy-book4-edge-beats-fit-pro-earbuds-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/28/24255916/samsung-galaxy-book4-edge-beats-fit-pro-earbuds-deal-sale</guid>
+      <pubDate>Sat, 28 Sep 2024 14:16:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Balatro 现已登陆移动端，以下是一些入门建议</title>
+      <link>https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack</guid>
+      <pubDate>Sat, 28 Sep 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎来到 Meta 的未来，每个人都戴着相机</title>
       <link>https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect</link>
@@ -92,47 +106,6 @@ Cath Virginia / The Verge |照片来自 Scott Olson、Getty Images
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/22954554/best-video-doorbell-camera</guid>
       <pubDate>Fri, 27 Sep 2024 19:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 现在可让你标记自己的位置</title>
-      <link>https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Meta 正在推出在 Threads 帖子上标记位置的功能。如果您有此功能，您将在帖子编辑器中看到一个图钉，您可以点击它来添加您所在的位置。
-请注意，将您的位置添加到 Threads 帖子中不会在地图上共享确切的图钉。相反，该功能可让您通过分享城市名称、街区或餐馆等信息，让用户大致了解您的位置。如果您看到包含位置的 Threads 帖子，您可以点击该位置查看来自同一地点的其他帖子。
-我有此功能，并且一直在摆弄它。当我点击帖子编辑器中的图钉时，Threads 会向我显示一系列选项：我可以通过标记自己在俄勒冈州波特兰市（这是我居住的地方）来保持广泛的范围，或者我可以从一些更具体的位置中进行选择。如果您在 Instagram 帖子中标记过自己的位置，Threads 的方法应该会让您感觉非常熟悉。
-Threads 的位置标记功能目前似乎仅在移动应用程序上可用；我在 iOS 上可以使用它，但在网络上看不到它。希望它很快就能在桌面浏览器中出现。]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24256160/meta-threads-tag-location-instagram</guid>
-      <pubDate>Fri, 27 Sep 2024 19:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款机械臂可以拆下手来抓取物品</title>
-      <link>https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl</link>
-      <description><![CDATA[
-
-这款机械臂的铰接手可以拆卸并自行爬行。 |截图：YouTube
-
-瑞士洛桑联邦理工学院 (EPFL) 的研究人员开发出一种铰接式手，可以通过自行分离和爬行来抓取物品，从而扩大机械臂的伸展范围。这项研究最近在国际机器人与自动化会议 (ICRA) 上发表，并被IEEE Spectrum 杂志发现。
-由于机械臂的强度和速度，它们通常永久地固定在地板或其他结构上以增加稳定性，这限制了它们的伸展范围。这项研究由 EPFL 的学习算法与系统实验室 (LASA) 进行，其目标是开发一种双模机械手，扩大抓握能力，包括偶尔独立于其所连接的机械臂。
-
-
-GIF：YouTube
-手可以根据需要拆卸和重新连接到机械臂上。
-
-机械手的设计通常只有一个目标：抓住东西。为了开发出一种能够做到这一点并像亚当斯一家的怪物一样自行爬行的机器人，研究人员使用遗传算法（依赖于自然选择和进化等生​​物学技巧）和 MuJoCo 物理模拟器 生成并完善了一个基本设计，以测试迭代的实用性。
-算法和模拟帮助研究人员确定了所需的最佳位置和关节手指数量，结果是五个，布局与人手相似。机械手还在手腕处使用磁性连接器，使其能够自主地连接和分离手臂。
-
-
-GIF：YouTube
-机械手的手指可以向两个方向弯曲，因此它可以爬行，但当连接到机械臂时，它也允许机械手同时抓住两个物体。
-
-机械手的手指可以向两个方向弯曲，允许它使用其中一些手指来举起物体，而其余手指则用作小腿。这种设计还扩展了机械手连接到机械臂时的实用性。它可以一次举起多个物体，而无需扭转手臂来重新定位未使用的手指。
-这只手也比波士顿动力公司的 Spot 等机器人小得多，后者可以用四条腿自由移动。 Spot 已经升级，拥有自己的机械臂和抓取器，但有了独立操作的关节手，它可以更好地探索或分析 Spot 无法挤入的区域。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl</guid>
-      <pubDate>Fri, 27 Sep 2024 18:41:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
