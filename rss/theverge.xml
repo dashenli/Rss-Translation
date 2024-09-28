@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 01:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 12:28:03 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到 Meta 的未来，每个人都戴着相机</title>
+      <link>https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect</guid>
+      <pubDate>Sat, 28 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>混乱的 WordPress 闹剧解析</title>
       <link>https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg</link>
@@ -126,23 +133,6 @@ GIF：YouTube
 ]]></description>
       <guid>https://www.theverge.com/2024/9/27/24256001/robot-arm-hand-crawl-grasp-epfl</guid>
       <pubDate>Fri, 27 Sep 2024 18:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲航天局将于 2027 年摧毁一颗全新卫星，看看会发生什么</title>
-      <link>https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris</link>
-      <description><![CDATA[
-
-DRACO 在地球大气层中被摧毁的插图。 |图片：ESA
-
-欧洲航天局 (ESA) 计划于 2027 年将一颗卫星发射到地球轨道，观察其在重返大气层时被摧毁的过程。该项目旨在帮助了解卫星究竟是如何解体的，以便科学家了解如何防止产生更多的太空垃圾。
-随着我们将更多卫星送入轨道，太空垃圾正成为一个更大的问题，但我们正在努力尝试解决它。此次任务是欧空局“零碎片宪章”倡议的一部分，旨在到 2030 年停止产生更多太空碎片。
-该任务称为破坏性再入评估容器物体 (DRACO)，卫星内部将在飞船重返大气层时被摧毁时收集数据。它还将包含一个 40 厘米的胶囊，旨在在破坏后幸存下来，当胶囊向海洋移动时，它将传输收集的数据。
-
-航空航天工程公司 Deimos 签约建造 DRACO，其大小与洗衣机相当，重约 200 公斤（441 磅）。它将包含 200 个传感器和四个摄像头，但没有推进或导航系统。根据欧洲航天局的新闻稿，返回地球的大多数太空垃圾都是不受控制的，重点是密切模拟平均再入过程。
-在太空舱落水前获取数据至关重要，而且可能会遇到挑战，例如在空中翻滚时尝试打开降落伞。欧洲航天局表示，将有 20 分钟的时间来收集数据。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255990/esa-draco-mission-satellite-space-junk-zero-debris</guid>
-      <pubDate>Fri, 27 Sep 2024 18:35:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
