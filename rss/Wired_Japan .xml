@@ -4,11 +4,25 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 28 Sep 2024 01:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 03:21:03 GMT</lastBuildDate>
+    <item>
+      <title>网络化自然生态系统迈向“再生东京”的可能性：月井皋月</title>
+      <link>https://wired.jp/article/vol54-regenerative-special-zone-itsuki-tsukui/</link>
+      <description><![CDATA[科幻小说作家 Tsukui Satsuki 提出了建立一个新特区的可能性，该特区将城市内的绿色空间和自然生态系统连接成网络，将东京转变为“再生城市”。]]></description>
+      <guid>https://wired.jp/article/vol54-regenerative-special-zone-itsuki-tsukui/</guid>
+      <pubDate>Sat, 28 Sep 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta的“Quest 3S”售价不到5万日元，降低了购买VR耳机的门槛</title>
+      <link>https://wired.jp/article/meta-quest-3s-headset/</link>
+      <description><![CDATA[Meta 的新款 MR 耳机“Quest 3S”具有与 500 美元的“Quest 3”几乎相同的功能，但售价约为 300 美元（日本起价 48,400 日元）。它计划于 10 月 15 日发布，将为元宇宙和 VR 体验提供比以往更实惠的入口。]]></description>
+      <guid>https://wired.jp/article/meta-quest-3s-headset/</guid>
+      <pubDate>Sat, 28 Sep 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>戴森全面进军音响市场，其新款耳机“Dyson OnTrac”背后的信息</title>
       <link>https://wired.jp/article/dyson-ontrac-jake-dyson-interview/</link>
-      <description><![CDATA[戴森 OnTrac 无线耳机被宣布为戴森首款纯音频设备。这是戴森继上一代集成空气净化器的“Dyson Zone”之后，正式进军音响市场，但在这个竞争激烈的领域，戴森将如何竞争呢？我们询问了戴森的总工程师杰克·戴森。]]></description>
+      <description><![CDATA[戴森 OnTrac 无线耳机被宣布为戴森首款纯音频设备。这是戴森继上一代集成空气净化器的“Dyson Zone”之后，正式进军音响市场，但在这个竞争激烈的领域，戴森将如何竞争呢？我们询问了戴森的首席工程师杰克·戴森。]]></description>
       <guid>https://wired.jp/article/dyson-ontrac-jake-dyson-interview/</guid>
       <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>Meta 进入智能手机市场较晚。智能眼镜能否扭转这一局面？</title>
       <link>https://wired.jp/article/meta-orion-glasses-augmented-reality-mark-zuckerberg/</link>
-      <description><![CDATA[在 Meta Connect 开发者大会上，马克·扎克伯格推出了他的未来 AR 眼镜 Orion。凭借这款设备，此前从未涉足智能手机市场的Meta希望掌控下一次个人计算革命。]]></description>
+      <description><![CDATA[在 Meta Connect 开发者大会上，马克·扎克伯格推出了 Orion，一款未来派 AR 眼镜。凭借这款设备，此前从未涉足智能手机市场的 Meta 希望掌控下一次个人计算革命。]]></description>
       <guid>https://wired.jp/article/meta-orion-glasses-augmented-reality-mark-zuckerberg/</guid>
       <pubDate>Fri, 27 Sep 2024 09:00:00 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 26 Sep 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>全球14座“再生城市”</title>
+      <title>全球 14 个再生城市</title>
       <link>https://wired.jp/article/vol54-who-will-design-the-next-gen-city/</link>
       <description><![CDATA[为了发现“再生”城市的种子，我们与城市体验设计工作室合作进行了一项调查。从使用本土材料和建筑方法到创建超越单纯绿化的生态系统——从“未来（已经）在这里的地方”学习未来城市和建筑的提示。]]></description>
       <guid>https://wired.jp/article/vol54-who-will-design-the-next-gen-city/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>《iPhone 16 Pro》评测：“苹果智能”让便利变得便捷，但尚未显现决定性优势</title>
       <link>https://wired.jp/article/apple-iphone-16-pro-and-iphone-16-pro-max-review/</link>
-      <description><![CDATA[iPhone 16 Pro的亮点在于支持Apple Intelligence。虽然这种人工智能功能前景广阔，但尚未普遍可用。]]></description>
+      <description><![CDATA[iPhone 16 Pro的亮点在于支持Apple Intelligence。虽然这种人工智能功能前景广阔，但目前还无法普遍使用。]]></description>
       <guid>https://wired.jp/article/apple-iphone-16-pro-and-iphone-16-pro-max-review/</guid>
       <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[穆拉蒂在发给 X 的一封信中表示，他认为做出这一决定的时机是“正确的时机”。]]></description>
       <guid>https://wired.jp/article/openai-cto-mira-murati-is-leaving-the-company/</guid>
       <pubDate>Wed, 25 Sep 2024 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国调查结果：70%青少年使用人工智能，但家长认识缓慢</title>
-      <link>https://wired.jp/article/teens-generative-ai-use-schools-parents/</link>
-      <description><![CDATA[一项研究显示，美国青少年对人工智能的使用正在迅速增加。十分之七的受访者表示他们使用生成式人工智能工具。另一方面，家长往往没有意识到这一点，教育机构也难以应对。]]></description>
-      <guid>https://wired.jp/article/teens-generative-ai-use-schools-parents/</guid>
-      <pubDate>Wed, 25 Sep 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在SNS上非常受欢迎的侏儒河马“Mooden”是否已注册为商标？ 动物园的决定意味着什么</title>
-      <link>https://wired.jp/article/moo-deng-is-more-than-a-meme/</link>
-      <description><![CDATA[穆登是一只在泰国动物园出生的侏儒河马宝宝，它正在社交媒体上引起轰动。它变得如此受欢迎，以至于动物园官员已经开始探索为其注册商标的方法，以防止未经授权使用穆登的图像和其他图像。]]></description>
-      <guid>https://wired.jp/article/moo-deng-is-more-than-a-meme/</guid>
-      <pubDate>Wed, 25 Sep 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
