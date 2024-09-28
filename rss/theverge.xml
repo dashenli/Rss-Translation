@@ -4,7 +4,67 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 15:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 18:26:50 GMT</lastBuildDate>
+    <item>
+      <title>Meta 在 Threads、Instagram 和 Facebook 上屏蔽了被黑 JD Vance 档案的链接</title>
+      <link>https://www.theverge.com/2024/9/28/24256815/meta-blocking-jd-vance-dossier-hack</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge； Getty Images
+
+Meta 正在限制 Threads、Instagram 和 Facebook 上的链接，这些链接指向 Ken Klippenstein 的时事通讯，其中包含一份 JD Vance 档案，据称该档案是在伊朗黑客攻击特朗普竞选团队时被盗取的。该公司显然已经删除了包含该链接的帖子，并且似乎屏蔽了指向其他地方托管的档案 PDF 的链接。 
+Meta 发言人 Dave Arnold 通过电子邮件将 Meta 的声明发送给了The Verge：
+“我们的政策不允许来自黑客来源的内容或作为外国政府行动的一部分泄露的内容影响美国大选。我们将根据社区标准阻止此类材料在我们的应用程序上共享。” 
+Meta 关于侵犯隐私的页面禁止用户共享“从黑客来源获取”的详细信息，以及“作为外国政府影响行动的一部分而共享的旨在披露与选举相关的非公开信息的材料”。 
+Threads 上的用户报告 Meta 删除了他们包含该链接的帖子。 Meta 似乎还禁用了指向其他地方托管的文档的链接，例如下面带有 Scribd 链接的帖子，或另一个声称链接到 Google Drive 上的 PDF。
+
+
+
+许多 Threads 帖子反而包含 链接到 Google 搜索 Klippenstein 的 Substack 文章或发布直接链接，随机 空格、用单词代替标点符号，或甚至二维码。Meta 似乎没有屏蔽有关该档案的帖子或搜索。
+
+X 还屏蔽了该故事的链接，其他社交媒体用户报告无法通过他们的 Google Drive 帐户共享文档（尽管我能够共享它，至少在我的两个私人帐户之间账户）。截至发稿时，两家公司均未回应我们的置评请求。我们还询问了 Box、Apple、Dropbox 和 Microsoft 是否限制了该文件，但在我们发表本文之前，没有一家公司回复。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/28/24256815/meta-blocking-jd-vance-dossier-hack</guid>
+      <pubDate>Sat, 28 Sep 2024 18:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周预告片：雷霆特工、谣言和免责声明</title>
+      <link>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</guid>
+      <pubDate>Sat, 28 Sep 2024 16:19:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官称，无论如何，苹果周一都必须完成作业</title>
+      <link>https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+苹果是全球市值最高的公司，本周末必须加班，以便在周一的法定截止日期前完成任务。此前，地方法院法官 Thomas S. Hixson 于周五拒绝该公司要求更多时间提交 130 万份文件，这些文件与该公司 1 月份为遵守2021 年法院命令而对 App Store 所做的更改有关。 
+法官 Yvonne Gonzalez Rogers 审理了 Epic 的诉讼案，该诉讼导致了这些变化，她于 5 月 31 日告诉苹果的法律团队，在 Epic 提出质疑之后，苹果需要提供与其如何制定新 App Store 规则相关的所有文件。随后，文件调查被提交给了 Hixson，他在8 月份设定周一截止日期时引用了听证会的部分记录：
+
+“法庭：——如果您显然不明白，那么让我澄清一下。我想要 Apple 就法庭面临的问题做出决策的所有文件。全部。全部。如果有顾虑，那么请过于宽泛。
+MR。佩里：法官大人，请问法院请求的时间参数。
+法院：所有人。
+佩里先生：谢谢法官大人。
+法院：那么，就从我的决定出来那天到现在吧。”
+
+希克森要求苹果使用 Epic 提出的搜索字符串来收集文件。他还要求两家公司每两周提交一次状态报告，直到文件提交。直到周四的报告，苹果才要求更多时间审查这些文件，因为它最初估计只需要提供 65 万份文件。
+
+希克森法官称最后一刻的请求是“不良行为”，并在昨天的判决书中解释了他拒绝的原因。
+“在昨天的报告之前，苹果从未向 Epic Games 或法院预告过，它需要审查的文件数量大大超出了之前的估计。几周前苹果就已经知道了这些信息。苹果在上一次状态报告发布后的两周内才得知这一信息，这简直令人难以置信。这引发了几个相关的担忧。首先，苹果的状态报告没什么用。”
+他后来推测，凭借苹果的资源，“如果愿意的话，它可能可以在一个周末审查这么多文件”。但他写道，快速制作这些文件“对苹果来说都是不利的”，因为它们与 Epic 的指控有关，Epic 指控该公司实际上没有遵守 Gonzalez Rogers 法官的禁令。 
+“如何满足这个期限取决于苹果，但周一确实是最后期限，”希克森总结道。
+
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/9/28/24256684/apple-epic-lawsuit-document-production-delay-denied</guid>
+      <pubDate>Sat, 28 Sep 2024 15:47:56 GMT</pubDate>
+    </item>
     <item>
       <title>三星华丽的 Galaxy Book4 Edge 价格已降至迄今为止的最低价</title>
       <link>https://www.theverge.com/2024/9/28/24255916/samsung-galaxy-book4-edge-beats-fit-pro-earbuds-deal-sale</link>
@@ -85,27 +145,6 @@ Cath Virginia / The Verge |照片来自 Scott Olson、Getty Images
 ]]></description>
       <guid>https://www.theverge.com/2024/9/27/24256133/doj-iranian-hackers-donald-trump-campaign</guid>
       <pubDate>Fri, 27 Sep 2024 20:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>一辆满载电池的卡车燃烧了近一整天，导致洛杉矶港口关闭</title>
-      <link>https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24256161/los-angeles-overturned-truck-battery-fire-lithium-ion-port-bridge-closed</guid>
-      <pubDate>Fri, 27 Sep 2024 20:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的机器人吸尘器</title>
-      <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</guid>
-      <pubDate>Fri, 27 Sep 2024 20:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的门铃摄像头</title>
-      <link>https://www.theverge.com/22954554/best-video-doorbell-camera</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22954554/best-video-doorbell-camera</guid>
-      <pubDate>Fri, 27 Sep 2024 19:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
