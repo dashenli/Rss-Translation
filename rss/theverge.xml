@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 03:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 12:28:49 GMT</lastBuildDate>
+    <item>
+      <title>你实际佩戴的 AR 和 VR 耳机</title>
+      <link>https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer</guid>
+      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube 因 SESAC 争议撤下阿黛尔、涅槃乐队等歌手的歌曲</title>
       <link>https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming</link>
@@ -73,7 +80,7 @@ X 还屏蔽了该故事的链接，其他社交媒体用户报告无法通过他
       <pubDate>Sat, 28 Sep 2024 18:24:33 GMT</pubDate>
     </item>
     <item>
-      <title>本周预告片：雷霆特攻队、谣言和免责声明</title>
+      <title>本周预告片：雷霆特工、谣言和免责声明</title>
       <link>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</guid>
@@ -136,31 +143,6 @@ MR。佩里：法官大人，请问法院请求的时间参数。
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg</guid>
       <pubDate>Fri, 27 Sep 2024 23:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arc 浏览器添加安全公告和漏洞赏金</title>
-      <link>https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin</link>
-      <description><![CDATA[
-
-插图：Cath Virginia / The Verge
-
-Arc 创造者 The Browser Company 已正式启动漏洞赏金计划，以控制其日益增长的基于 Chromium 的浏览器的安全性。该公司还发布了新的安全公告，以就错误修复和报告与用户和研究人员保持“透明和主动的沟通”。
-这些安全修订是在一个毁灭性的错误之后发布的，该错误是由一名研究人员发现并报告给该公司的，该错误允许不良行为者只要知道他们容易找到的用户ID，就可以将任意代码插入任何人的浏览器中。 
-
-问题出在 Arc Boosts 功能中，该功能可让您使用 CSS 和 Javascript 自定义任何网站。除了最初的缓解措施外，该公司表示，现在已默认使用 Javascript 禁用 Boosts，并在 Arc 版本 1.61.2 中添加了一个新的全局切换按钮，以完全关闭 Boosts。
-这位名为 xyz3va 的研究人员最初因提供信息而获得了 2,000 美元的赏金。现在，随着新计划的实施，The Browser Company 将追溯将赏金提高到 20,000 美元。该漏洞已于 8 月 26 日修复。
-
-
-上周五，我们承诺对 @browsercompany 的安全性进行更改。一周后，行动如下：✅ Arc 的 Bug Bounty 计划已上线✅ Arc 的安全公告已上线✅ 我们重新设计了内部安全流程还有更多内容，详情请参阅主题 https://t.co/JMf3oEub1C— Josh Miller (@joshm) 2024 年 9 月 27 日
-
-
-使用新计划，安全研究人员可以提交报告并根据漏洞的严重程度获得奖励。严重程度较低的“范围有限”或“难以利用”的漏洞可获得高达 500 美元的赔偿，中等严重程度可获得高达 2,500 美元的赔偿，高严重程度可获得高达 10,000 美元的赔偿，严重程度最高可获得 20,000 美元的赔偿。
-该博客文章还概述了查找其他漏洞的新做法，例如带有额外代码审查的开发指南、添加特定于安全的代码审核以及为安全工程团队招聘新员工。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin</guid>
-      <pubDate>Fri, 27 Sep 2024 21:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
