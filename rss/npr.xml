@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 18:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 21:13:23 GMT</lastBuildDate>
     <item>
       <title>五角大楼称希望阻止伊朗在中东地区扩大冲突</title>
       <link>https://www.npr.org/2024/09/29/g-s1-25343/pentagon-iran-hezbollah-israel-middle-east</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[据黎巴嫩国家通讯社报道，以色列最近的空袭至少造成 11 人死亡。与此同时，以色列军方表示正在准备对黎巴嫩南部进行地面入侵。]]></description>
       <guid>https://www.npr.org/2024/09/29/g-s1-25330/idf-strikes-hezbollah-invasion-lebanon</guid>
       <pubDate>Sun, 29 Sep 2024 13:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>佛罗里达州墨西哥湾沿岸的居民正遭受飓风海伦的影响</title>
+      <link>https://www.npr.org/2024/09/29/nx-s1-5132116/in-south-florida-residents-are-reeling-from-the-effects-of-hurricane-helene</link>
+      <description><![CDATA[飓风海伦娜造成的损失范围目前尚不完全清楚。]]></description>
+      <guid>https://www.npr.org/2024/09/29/nx-s1-5132116/in-south-florida-residents-are-reeling-from-the-effects-of-hurricane-helene</guid>
+      <pubDate>Sun, 29 Sep 2024 11:49:10 GMT</pubDate>
     </item>
     <item>
       <title>你应该投票支持自己的感受吗？巡回演出可以帮助观众思考</title>
@@ -36,7 +43,7 @@
     <item>
       <title>为什么美国政府称赞以色列击毙真主党领导人是“正义”</title>
       <link>https://www.npr.org/2024/09/29/g-s1-25322/biden-nasrallah-hezbollah-israel</link>
-      <description><![CDATA[真主党领导人哈桑·纳斯鲁拉于本周末在以色列空袭中丧生。拜登政府表示，这为伊朗支持的黎巴嫩激进组织的受害者“伸张了正义”。]]></description>
+      <description><![CDATA[真主党领导人哈桑·纳斯鲁拉周五在以色列空袭中丧生。拜登政府表示，这为伊朗支持的黎巴嫩激进组织的受害者“伸张了正义”。]]></description>
       <guid>https://www.npr.org/2024/09/29/g-s1-25322/biden-nasrallah-hezbollah-israel</guid>
       <pubDate>Sun, 29 Sep 2024 10:27:53 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[由于该山区国家持续发生山体滑坡，仍有数十人失踪。]]></description>
       <guid>https://www.npr.org/2024/09/29/g-s1-25324/death-toll-in-nepal-flooding-reaches-at-least-100-dozens-still-missing</guid>
       <pubDate>Sun, 29 Sep 2024 06:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>真主党长期领导人哈桑·纳斯鲁拉被以色列击毙</title>
-      <link>https://www.npr.org/2024/09/28/nx-s1-5132046/longtime-hezbollah-leader-hassan-nasrallah-killed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.npr.org/2024/09/28/nx-s1-5132046/longtime-hezbollah-leader-hassan-nasrallah-killed</guid>
-      <pubDate>Sat, 28 Sep 2024 21:16:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
