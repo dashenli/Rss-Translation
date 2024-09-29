@@ -4,7 +4,35 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 03:25:08 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 因 SESAC 争议撤下阿黛尔、涅槃乐队等歌手的歌曲</title>
+      <link>https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming</link>
+      <description><![CDATA[
+
+插图：Alex Castro / The Verge
+
+YouTube 和 YouTube Music 上一些观看次数最多和收听次数最多的音乐于周六消失，取而代之的是一条简短的消息：
+
+视频不可用
+此视频包含来自 SESAC 的内容。您所在的国家/地区不可用。
+
+当人们尝试播放 Adele 的“Rolling in the Deep”或 Kendrick Lamar、Britney Spears、Green Day、Kanye West 和 Burna Boy 等不同艺术家的其他歌曲时，这可能不是人们所期望的。 
+这留下了两个问题：什么是 SESAC，音乐什么时候回归？
+
+
+屏幕截图：YouTube
+
+SESAC 是欧洲舞台作家和作曲家协会的缩写，该协会成立于 1930 年，根据其网站，“...目前代表其 15,000 多名附属词曲作者、作曲家和音乐出版商授权公开表演超过 150 万首歌曲。” 
+SESAC 比 BMI 和 ASCAP 等类似组织规模小，但其投资组合中列出了许多大牌艺术家。 2017 年，它被私募股权公司 Blackstone 收购。
+回答 SESAC 对 YouTube 和 YouTube Music 的音乐禁令何时结束，甚至哪些音乐被删除的问题，有点困难。
+SESAC 有一个可搜索的曲目数据库，尽管那里列出的歌曲似乎并未全部被删除。如果您想阅读完整列表，网站上甚至还有一份 44,267 页的 PDF 文件。但并非所有歌曲都受到同样的影响。虽然 Kanye West 的“Power”的一个列表被屏蔽，但截至本文撰写时，音乐视频版本仍可正常播放。
+授权组织尚未公开发表评论，但 YouTube 确实回应了The Verge的询问，正如发言人 Mariana de Felice 写道：
+我们已与 SESAC 进行了诚意谈判，以续签现有协议。不幸的是，尽管我们尽了最大努力，但我们未能在协议到期前达成公平协议。我们非常重视版权，因此，SESAC 代理的内容在美国 YouTube 上不再可用。我们正在与 SESAC 积极对话，希望尽快达成新协议。
+据 Variety 援引的一位匿名人士称，这可能是 YouTube 的一种谈判策略，因为他们表示，“之前的协议实际上要到下周才到期。” ]]></description>
+      <guid>https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming</guid>
+      <pubDate>Sun, 29 Sep 2024 01:46:44 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊或邀请布莱恩·威廉姆斯主持选举之夜特别节目</title>
       <link>https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special</link>
@@ -133,13 +161,6 @@ Arc 创造者 The Browser Company 已正式启动漏洞赏金计划，以控制�
 ]]></description>
       <guid>https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin</guid>
       <pubDate>Fri, 27 Sep 2024 21:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 曾是一家研究实验室——现在只是一家科技公司</title>
-      <link>https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus</guid>
-      <pubDate>Fri, 27 Sep 2024 20:58:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
