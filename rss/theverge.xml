@@ -4,7 +4,32 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 12:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 15:16:17 GMT</lastBuildDate>
+    <item>
+      <title>苹果或明年推出类似 iPad 的智能家居显示器</title>
+      <link>https://www.theverge.com/2024/9/29/24257391/apple-smart-home-display-homeos-apple-intelligence-homepod-ipad-robot</link>
+      <description><![CDATA[
+
+iPhone 的 StandBy 功能暗示了 Apple 智能家居显示器的工作原理。| 图片：David Pierce / The Verge
+
+Apple 正准备在智能家居领域再创佳绩，首先是传闻中的智能显示器，它可能会于明年发布。这是根据彭博社的 Mark Gurman 的说法，他在今天的 Power On 时事通讯中写道，该显示器将使用一种名为 homeOS 的新操作系统，该系统基于 Apple TV 的 tvOS（很像现在驱动 HomePods 的软件）。
+
+Gurman 报道称，该显示器将运行日历、备忘录和 Home 等 Apple 应用程序，并且 Apple 已经测试了带有磁铁的壁挂式原型。而且它将支持 Apple Intelligence — — 这是 Apple 的 HomePods 目前所不支持的功能。 
+关于这种设备的传言已经流传了一段时间了，其外形尺寸从带屏幕的 HomePod 连接到显示器 连接到机械臂 ，机械臂可旋转以在视频通话中面对您。但最近，类似的产品听起来更加真实。
+
+另一个最近的传言表明，即将推出的“HomeAccessory”设备将是方形的，用户可能能够使用远处的手势来控制它，正如9to5Mac 本周早些时候所写。而且 MacRumors  已经报道了关于该设备 和 homeOS 的明显代码引用。
+这样的显示屏听起来比苹果的机器人屏幕理念更接地气。它也可能比尝试使用 iPad 作为专用的智能家居控制器更省事，希望成本更低（我试过了；体验不太好！）我们会知道它是否会推出以及何时推出——听起来并不遥远。
+]]></description>
+      <guid>https://www.theverge.com/2024/9/29/24257391/apple-smart-home-display-homeos-apple-intelligence-homepod-ipad-robot</guid>
+      <pubDate>Sun, 29 Sep 2024 14:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的未来可能与 Twitter 很相似</title>
+      <link>https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast</guid>
+      <pubDate>Sun, 29 Sep 2024 14:18:21 GMT</pubDate>
+    </item>
     <item>
       <title>你实际佩戴的 AR 和 VR 耳机</title>
       <link>https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer</link>
@@ -80,7 +105,7 @@ X 还屏蔽了该故事的链接，其他社交媒体用户报告无法通过他
       <pubDate>Sat, 28 Sep 2024 18:24:33 GMT</pubDate>
     </item>
     <item>
-      <title>本周预告片：雷霆特工、谣言和免责声明</title>
+      <title>本周预告片：雷霆特攻队、谣言和免责声明</title>
       <link>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/9/28/24256789/trailers-thunderbolts-rumors-disclaimer-sinners-apple-tv-streaming</guid>
@@ -129,20 +154,6 @@ MR。佩里：法官大人，请问法院请求的时间参数。
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24256010/how-to-play-balatro-mobile-localthunk-playstack</guid>
       <pubDate>Sat, 28 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到 Meta 的未来，每个人都戴着相机</title>
-      <link>https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/28/24256310/meta-ray-bans-cameras-future-connect</guid>
-      <pubDate>Sat, 28 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>混乱的 WordPress 闹剧解析</title>
-      <link>https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg</guid>
-      <pubDate>Fri, 27 Sep 2024 23:04:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
