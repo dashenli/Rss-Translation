@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 21:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 01:13:10 GMT</lastBuildDate>
     <item>
       <title>编辑代码</title>
       <link>https://www.producthunt.com/posts/edcode</link>
       <description><![CDATA[
-免费、有趣且有效的学习编码方法。
+学习编码的免费、有趣且有效的方式。
 
 
 讨论
@@ -76,18 +76,18 @@
       <pubDate>Sat, 28 Sep 2024 12:26:42 GMT</pubDate>
     </item>
     <item>
-      <title>格林斯</title>
-      <link>https://www.producthunt.com/posts/glinks</link>
+      <title>讲谈</title>
+      <link>https://www.producthunt.com/posts/kodan</link>
       <description><![CDATA[
-简单、免费且安全的 Go 链接
+创建您自己的动漫系列
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/glinks</guid>
-      <pubDate>Fri, 27 Sep 2024 23:00:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kodan</guid>
+      <pubDate>Sat, 28 Sep 2024 01:05:37 GMT</pubDate>
     </item>
     <item>
       <title>neoSVG 3</title>
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/neosvg-3</guid>
       <pubDate>Fri, 27 Sep 2024 22:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码流</title>
-      <link>https://www.producthunt.com/posts/codeflow</link>
-      <description><![CDATA[
-任何语言的即时代码库洞察
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/codeflow</guid>
-      <pubDate>Fri, 27 Sep 2024 21:52:06 GMT</pubDate>
     </item>
     <item>
       <title>精简版：应用启动器</title>
@@ -160,6 +146,20 @@
       <pubDate>Fri, 27 Sep 2024 11:30:44 GMT</pubDate>
     </item>
     <item>
+      <title>URL2顺风</title>
+      <link>https://www.producthunt.com/posts/url2tailwind</link>
+      <description><![CDATA[
+将任何 URL 转换为 Tailwind CSS HTML
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/url2tailwind</guid>
+      <pubDate>Fri, 27 Sep 2024 06:05:51 GMT</pubDate>
+    </item>
+    <item>
       <title>荧光笔</title>
       <link>https://www.producthunt.com/posts/highlighter-2</link>
       <description><![CDATA[
@@ -191,7 +191,7 @@
       <title>Sensay 复制品</title>
       <link>https://www.producthunt.com/posts/sensay-replicas</link>
       <description><![CDATA[
-利用人工智能推动增长：轻松获取知识，无缝完成任务
+利用人工智能促进增长：轻松获取知识，无缝完成任务
 
 
 讨论
