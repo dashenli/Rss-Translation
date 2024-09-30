@@ -4,7 +4,35 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Sep 2024 09:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 12:32:27 GMT</lastBuildDate>
+    <item>
+      <title>DirecTV 和 Dish 正在合并</title>
+      <link>https://www.theverge.com/2024/9/30/24258196/directv-dish-merger-tpg-deal-announcement</link>
+      <description><![CDATA[
+
+如果成功，此次合并将创建一个拥有约 2000 万美国用户的卫星流媒体业务。 |插图由 Alex Castro / The Verge 提供
+
+DirecTV 已达成协议，以一美元收购 Dish 及其母公司 EchoStar 更广泛的卫星电视业务，并承担 Dish 97.5 亿美元的债务。私募股权公司 TPG 已达成两步协议，以 760 美元的价格从 AT&amp;T 手中收购其尚未拥有的 DirecTV 剩余 70% 的股份，并将其与 Dish 合并。
+据《纽约时报》报道，周一宣布的这笔交易将把 Dish 的约 810 万用户与 DirecTV 旗下的 1100 万美国用户合并。根据该协议，AT&amp;T 将退出 DirecTV 的部分所有者地位，而 EchoStar 将在 2025 年交易完成后脱离其电视业务，追求 Open RAN 5G 的奇迹。
+DirecTV 和 Dish 的合并需获得监管部门的批准，是 EchoStar 的生命线，因为 EchoStar 没有办法偿还 11 月 14 日到期的 200 亿美元债务中的 20 亿美元。DirecTV 此前曾试图在 2002 年与 Dish 合并，但由于竞争问题，该交易被美国司法部和联邦通信委员会 (FCC) 阻止。
+正在开发中...]]></description>
+      <guid>https://www.theverge.com/2024/9/30/24258196/directv-dish-merger-tpg-deal-announcement</guid>
+      <pubDate>Mon, 30 Sep 2024 12:28:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特瞄准电动汽车“观望者”，提供免费家用充电器和安装服务</title>
+      <link>https://www.theverge.com/2024/9/30/24256072/ford-ev-home-charger-free-installation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/9/30/24256072/ford-ev-home-charger-free-installation</guid>
+      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic 再次起诉谷歌，现在又起诉三星</title>
+      <link>https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker</guid>
+      <pubDate>Mon, 30 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 和索尼合作开发了 AI 相机模块</title>
       <link>https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability</link>
@@ -12,7 +40,7 @@
 
 新款 Raspberry Pi AI 相机使用索尼的 IMX500 图像传感器来处理 AI 处理。 |图片：Raspberry Pi
 
-Raspberry Pi 和索尼联合开发了 Raspberry Pi AI 相机模块，今天以 70 美元的价格推出。据这家微型计算机制造商称，它配备了板载 AI 处理功能，可以帮助 Raspberry Pi 用户轻松开发“处理视觉数据的边缘 AI 解决方案”。
+Raspberry Pi 和索尼联合开发了 Raspberry Pi AI 相机模块，今日以 70 美元的价格发售。据这家微型计算机制造商称，它配备了板载 AI 处理功能，可以帮助 Raspberry Pi 用户轻松开发“处理视觉数据的边缘 AI 解决方案”。
 这款新相机建立在 Raspberry Pi 为 AI 开发人员提供芯片和附加组件的计划之上，自 2013 年首次推出 5 兆像素产品以来，它曾发布了多个非 AI 相机模块。“基于 AI 的图像处理正在成为全球开发人员的一个有吸引力的工具，”Raspberry Pi 首席执行官Eben Upton 在一份新闻稿中表示。“我们期待看到我们的社区成员能够利用 Raspberry Pi AI 摄像头的强大功能实现什么。” 
 AI 摄像头与所有 Raspberry Pi 单板计算机兼容，并将该公司的 RP2040 微控制器芯片与索尼的 IMX500 图像传感器配对 - 后者负责 AI 处理。这种组合消除了对加速器或图形处理单元 (GPU) 等额外组件的需求，而这些组件通常是相机模块处理大规模视觉数据所必需的。
 12.3 兆像素 Raspberry Pi AI 相机可以以每秒 10 帧的速度在 4056 x 3040 下拍摄镜头，或以 40fps 的速度在 2028 x 1520 下拍摄镜头。它还具有手动可调焦距、76 度视野，尺寸为 25 x 24 x 11.9 毫米 - 尺寸几乎与 Raspberry Pi 去年发布的 Camera Module 3 相同。]]></description>
@@ -95,57 +123,6 @@ Gurman 报道称，该显示器将运行日历、备忘录和 Home 等 Apple 应
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast</guid>
       <pubDate>Sun, 29 Sep 2024 14:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>你实际佩戴的 AR 和 VR 耳机</title>
-      <link>https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer</guid>
-      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 因 SESAC 争议撤下阿黛尔、涅槃乐队等歌手的歌曲</title>
-      <link>https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-YouTube 和 YouTube Music 上一些观看次数最多和收听次数最多的音乐于周六消失，取而代之的是一条简短的消息：
-
-视频不可用
-此视频包含来自 SESAC 的内容。您所在的国家/地区不可用。
-
-当人们尝试播放 Adele 的“Rolling in the Deep”或 Kendrick Lamar、Britney Spears、Green Day、Kanye West 和 Burna Boy 等不同艺术家的其他歌曲时，这可能不是人们所期望的。 
-这留下了两个问题：什么是 SESAC，音乐什么时候回归？
-
-
-屏幕截图：YouTube
-
-SESAC 是欧洲舞台作家和作曲家协会的缩写，该协会成立于 1930 年，根据其网站，“...目前代表其 15,000 多名附属词曲作者、作曲家和音乐出版商授权公开表演超过 150 万首歌曲。” 
-SESAC 比 BMI 和 ASCAP 等类似组织规模小，但其投资组合中列出了许多大牌艺术家。 2017 年，它被私募股权公司 Blackstone 收购。
-回答 SESAC 对 YouTube 和 YouTube Music 的音乐禁令何时结束，甚至哪些音乐被删除的问题，有点困难。
-SESAC 有一个可搜索的曲目数据库，尽管那里列出的歌曲似乎并未全部被删除。如果您想阅读完整列表，网站上甚至还有一份 44,267 页的 PDF 文件。但并非所有歌曲都受到同样的影响。虽然 Kanye West 的“Power”的一个列表被屏蔽，但截至本文撰写时，音乐视频版本仍可正常播放。
-授权组织尚未公开发表评论，但 YouTube 确实回应了The Verge的询问，正如发言人 Mariana de Felice 写道：
-我们已与 SESAC 进行了诚意谈判，以续签现有协议。不幸的是，尽管我们尽了最大努力，但我们未能在协议到期前达成公平协议。我们非常重视版权，因此，SESAC 代理的内容在美国 YouTube 上不再可用。我们正在与 SESAC 积极对话，希望尽快达成新协议。
-据 Variety 援引的一位匿名人士称，这可能是 YouTube 的一种谈判策略，因为他们表示，“之前的协议实际上要到下周才到期。” ]]></description>
-      <guid>https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming</guid>
-      <pubDate>Sun, 29 Sep 2024 01:46:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊或邀请布莱恩·威廉姆斯主持选举之夜特别节目</title>
-      <link>https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special</link>
-      <description><![CDATA[
-
-Brian Williams 在 2008 年的 Meet the Press 录制期间。 |照片：Alex Wong / Getty Images for Meet the Press
-
-据《综艺》报道，前新闻主播 Brian Williams 正在洽谈主持亚马逊 Prime 选举之夜特别节目。随着选举之夜新闻的播出，该节目显然会成为一场“无党派讨论”，可能会有多名嘉宾参加。
-Williams 已经退出新闻界一段时间了。在他的部分报道被发现多次被夸大其词之后，他失去了 NBC 晚间新闻主播的职位。他继续主持 MSNBC 的《11th Hour》，直到 2021 年从该网络辞职。
-
-如果交易成功，威廉姆斯将最早在美国东部时间下午 5 点开始 11 月 5 日总统选举之夜的广播，并持续长达 8 个小时——如果选举结果难以预料，广播时间会更长，《综艺》杂志援引熟悉谈判的匿名消息人士的话说。据报道，该节目不会跟进突发新闻；相反，威廉姆斯和他的嘉宾会在夜幕降临时解释事件。据《每日野兽》报道，该节目不会播报竞选情况。The Daily Beast。
-据《综艺》报道，这笔交易尚未最终敲定。消息人士还警告称，这则消息并不一定意味着亚马逊计划推出常规新闻节目。
-]]></description>
-      <guid>https://www.theverge.com/2024/9/28/24256903/amazon-prime-brian-williams-election-night-special</guid>
-      <pubDate>Sat, 28 Sep 2024 19:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
