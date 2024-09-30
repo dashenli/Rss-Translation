@@ -4,7 +4,14 @@
     <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Sep 2024 15:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:20:05 GMT</lastBuildDate>
+    <item>
+      <title>如何为 CSS 网格布局制作动画（图像网格项目）</title>
+      <link>https://webdesign.tutsplus.com/how-to-animate-css-grid-layouts-image-grid-project--cms-108937t</link>
+      <description><![CDATA[]]></description>
+      <guid>https://webdesign.tutsplus.com/how-to-animate-css-grid-layouts-image-grid-project--cms-108937t</guid>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用原生 JavaScript 创建记忆游戏</title>
       <link>https://webdesign.tutsplus.com/how-to-create-a-memory-game-with-vanilla-javascript--cms-108868t</link>
@@ -80,13 +87,6 @@
       <link>https://design.tutsplus.com/tutorials/how-to-create-a-rubber-stamp-effect-in-affinity-photo--cms-108966</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-create-a-rubber-stamp-effect-in-affinity-photo--cms-108966</guid>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是模态框？以及如何构建纯 CSS 模态框</title>
-      <link>https://webdesign.tutsplus.com/css-only-modal--cms-107772t</link>
-      <description><![CDATA[]]></description>
-      <guid>https://webdesign.tutsplus.com/css-only-modal--cms-107772t</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
