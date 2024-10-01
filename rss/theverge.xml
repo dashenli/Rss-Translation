@@ -4,177 +4,121 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:23:00 GMT</lastBuildDate>
     <item>
-      <title>Pebblebee 的追踪器现可在 Apple 或 Google 网络上使用</title>
-      <link>https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android</link>
-      <description><![CDATA[
-
-Pebblebee 的 Universal 追踪器可与 Apple 的“查找我的”和 Google 的“查找我的设备”网络配合使用。 |图片：Pebblebee
-
-Pebblebee 宣布推出其蓝牙追踪器的新通用版本，支持 Apple 的“查找我的设备”和 Google 的“查找我的设备”网络。它们每台售价 34.99 美元，比 Apple 广受欢迎的 29 美元 AirTags 更贵，但它们包含可充电电池和灯光等附加功能，可让它们在黑暗中更容易定位。
-与 Apple 和 Google 网络兼容可能使 Pebblebee Universal 成为使用混合 iOS 和 Android 设备的家庭的更好选择，但追踪器不能同时在两个网络上工作。去年 4 月，当 Google 推出其升级版“查找我的设备”网络时，Pebblebee 向 9to5Google 证实，其追踪器将仅限于最初设置的网络。根据该报告，如果您想从 Apple 的“查找我的设备”网络切换到 Google 的“查找我的设备”网络或反之亦然，则追踪器需要恢复出厂设置。 The Verge 已联系 Pebblebee，确认其通用追踪器的工作原理就是这样的。
-另一方面，如果您希望能够在任何设备上定位通用追踪器，您可以选择 Pebblebee 自己的应用程序，而不是 Apple 和 Google 的网络。该公司表示，其追踪器的范围可达 500 英尺（室内范围会缩小），而该应用程序还包含地理围栏等附加功能，因此当宠物或儿童离开预定义区域和安全区时，您会收到通知，如果追踪器被遗忘，您不会收到通知。
-该应用程序还可用于定位 500 英尺蓝牙范围之外的 Pebblebee 追踪器，但该功能依赖于它是否被安装了 Pebblebee 应用程序的其他设备检测到，并且不会像 Google 或 Apple 的广泛网络那样强大。
-
-
-图片：Pebblebee
-Pebblebee 提供三种不同尺寸和形状的追踪器。
-
-Pebblebee 的通用追踪器有三个版本。 Clip 包含一个集成钥匙圈，因此可以将其连接到物品上而无需购买外壳，可提供长达 12 小时的续航时间电池寿命，并可使用标准 USB-C 电缆充电。 Card 是一种更薄的替代品，可以放入钱包，电池续航时间长达 18 个月，而Tag 是 Pebblebee 最小、最轻的追踪器，每次充电后可使用长达 8 个月。 Pebblebee Card 和 Tag 均采用专有磁性充电器。
-与 Apple 的 AirTags 类似，Pebblebee Universal 追踪器成套购买更便宜。两件装折扣价为 64.99 美元，四件装折扣价为 119.99 美元。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259262/pebblebee-tracker-universal-apple-find-my-device-google-android</guid>
-      <pubDate>Tue, 01 Oct 2024 14:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noctua 旗舰 PC 风扇变得更大更精致</title>
-      <link>https://www.theverge.com/2024/10/1/24259249/noctua-nf-a14x25-g2-price-available-dual-fan-offset</link>
-      <description><![CDATA[
-
-这么多 NF-A14x25 G2。 |图片：Noctua
-
-Noctua 已发布一款全新 140mm 静音、高效、强劲风扇，名为 Noctua NF-A14x25 G2 PWM。该风扇有三种配置，包括具有 RPM 偏移的双风扇套装和更安静的版本，其旋转速度比标准型号稍慢。这三款产品现已上市，起价为 39.90 美元。 
-这款转速高达 1,500rpm 的风扇是 Noctua NF-A12x25 的后续产品，您可能还记得该公司的合作，其中包括附带风扇的 Nvidia RTX 4080 和 RTX 3080 GPU 的特殊版本。 
-与其前代产品相比，A14x25 的噪音大约大 2dBA，最大功率大约是前代产品的两倍，占用的空间也稍微大一些，但根据其规格页面，它移动的空气增加了大约 50%。 
-以下是其部分规格：
-
-
-尺寸（mm）： 140 x 140 x 25
-
-安装孔间距（mm）：124.5 x 124.5
-
-速度：1,500rpm
-
-带低噪音适配器 (LNA) 的速度：1,250rpm
-
-气流：155.6 m³/h (127.1 m³/h)
-
-噪音：24.8dBA（带 LNA 时为 19.7dBA）
-
-静压：2.56mm H₂O（带 LNA 时为 1.3mm H₂O）
-
-最大输入功率/电流：2.28 瓦/0.19 安培
-
-
-Noctua 表示，双风扇组（NF-A14x25 G2 PWM Sx2-PP）的两个风扇偏移约 25rpm，公司称可以“避免周期性嗡嗡声或其他不良声学相互作用现象”。该套装售价 76.90 美元。
-最后，速度较慢、更安静的 NF-A14x25 G2 LS-PWM 转速高达 800rpm，Noctua 称其仅产生 11.4dBA（或使用 LNA 时为 8.6dBA）。它使用的功率不到 A12x25 的一半，而且启动时更安静。
-今年早些时候，Gamers Nexus 采访了 Noctua 工程师 Jakob Dellinger，讨论了拍频和偏移的必要性。观看下面的讨论，了解有关冷却和声学的详细内容（包括当时即将推出的 NF-A14x25 G2 有偏移和无偏移的比较）。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259249/noctua-nf-a14x25-g2-price-available-dual-fan-offset</guid>
-      <pubDate>Tue, 01 Oct 2024 14:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年西雅图 Unreal Fest：Epic 大型活动的所有新闻</title>
-      <link>https://www.theverge.com/2024/10/1/24258466/unreal-fest-seattle-2024-fortnite-uefn-engine</link>
-      <description><![CDATA[
-
-图片：Epic Games
-
-准备好了解有关虚幻引擎等的更多新闻。 继游戏开发者大会上的 State of Unreal 展示之后 今年早些时候，Epic Games 将在西雅图举办 Unreal Fest 会议，为 2024 年举办另一场大型活动。在 GDC 展会上，Epic 宣布《堡垒之夜》玩家可以创建自己的乐高游戏，并且其超现实主义的 MetaHumans 将添加到《堡垒之夜》的虚幻编辑器中。对于西雅图展会，Epic 可能会展示更多虚幻引擎、Fortnite 等游戏的开发成果。
-Unreal Fest Seattle 开幕式将于今天（10 月 1 日）美国东部时间中午 12 点 / 太平洋时间上午 9 点拉开帷幕，您可以在 YouTube 和 Twitch 上观看展会。在此关注活动的所有新闻。我会在展会现场报道。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24258466/unreal-fest-seattle-2024-fortnite-uefn-engine</guid>
-      <pubDate>Tue, 01 Oct 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 Microsoft 最新 Copilot 和 Windows AI 功能的所有新闻</title>
-      <link>https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-微软正在重新设计 Copilot，并在 Paint 和 Photos 中添加新的 AI 图像编辑功能。 在今天的纽约活动上，微软宣布了全新的 Copilot 体验。 新的 Copilot 设计包括跨移动设备、网络和 Windows 的全新卡片式外观。Copilot 变得更加个性化，其功能包括 Copilot Vision，它增加了查看您正在查看的内容的能力、类似 OpenAI的自然语音对话模式，以及可以为您朗读标题的虚拟新闻主持人模式。
-Windows 11 正在获得新功能，例如开始菜单中的 Phone Link 状态，可以显示通知和手机的电池寿命。 Paint 和 Photos 都获得了有趣的新功能，例如生成式填充和擦除。Copilot Plus PC 正在获得改进的AI 驱动的 Windows 搜索，其中包括类似 Google Circle to Search 的“单击即可执行”功能以及仅使用文本描述搜索照片的功能。
-今年早些时候，高管重组让 Pavan Davuluri 负责 Windows 和 Surface，并让 Mustafa Suleyman 成为 AI 的新任首席执行官。现在，在 Panos Panay 突然离职整整一年后，我们将进一步了解微软“AI PC”的发展方向。
-您可以阅读以下活动的所有更新。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows</guid>
-      <pubDate>Tue, 01 Oct 2024 14:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读微软对人工智能伴侣未来的乐观备忘录</title>
-      <link>https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo</link>
+      <title>亚马逊 Fire TV Stick 4K Max 在 Prime Day 前创下新低价</title>
+      <link>https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo</guid>
-      <pubDate>Tue, 01 Oct 2024 14:05:09 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/1/24259285/amazon-fire-tv-stick-4k-max-sennheiser-momentum-true-wireless-3-earbuds-deal-sale</guid>
+      <pubDate>Tue, 01 Oct 2024 18:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Paint 正在获得类似 Photoshop 的生成式 AI 填充和擦除功能</title>
-      <link>https://www.theverge.com/2024/10/1/24259239/microsoft-paint-generative-erase-fill-photos-upscaling</link>
-      <description><![CDATA[
-
-生成式擦除类似于 Google Pixel 的 Magic Eraser 功能，但适用于您的台式电脑。 |图片：微软
-
-微软正在为 Copilot Plus PC 引入一些新的 AI 驱动的 Paint 和 Photos 功能，这些功能可以让创意人员减少对更强大的图像编辑软件的依赖。生成填充和生成擦除（似乎受到 Adob​​e Photoshop 中类似 AI 工具的很大启发）被引入 Paint，允许用户精确地添加或删除图像中的对象。
-这两种工具都使用大小可调的画笔在要编辑的图像的特定区域上“绘画”。生成擦除将删除不需要的图形、背景杂乱等对象和其他干扰，类似于Google Pixel 手机上的魔术橡皮擦功能。生成填充允许 Paint 用户使用文本描述将新的 AI 生成资产添加到图像中，并精确选择它们的放置位置 - 就像同名的 Photoshop 工具一样。
-这些工具基于今年早些时候为 Copilot Plus PC 宣布的Cocreator tool for Paint，该工具可以使用文本提示和参考草图的组合来生成图像。该公司表示，支持这些功能的基于扩散的模型已更新，以提高输出质量和速度，现在包括“内置审核”以帮助防止其被滥用。
-
-
-图片：微软
-如果此示例图片中显示的像素尺寸准确，照片中的新升级功能非常令人印象深刻。
-
-微软的照片应用还获得了生成擦除工具，以及一项新的超分辨率功能，该功能使用设备上的 AI 来升级模糊或像素化的图像。用户可以将图片放大至原始分辨率的八倍，并使用滑块调整放大级别，其功能可与 Canva 的图片放大工具相媲美，并且超过了Adobe Lightroom 的 4 倍超级分辨率增强功能。据微软称，它是免费的，而且速度足够快，可以在几秒钟内将图像“升级到 4K”。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259239/microsoft-paint-generative-erase-fill-photos-upscaling</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软在迄今为止最大规模的重新设计中为 Copilot 赋予了声音和视觉</title>
-      <link>https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai</link>
+      <title>Instagram 的“最佳实践”告诉创作者应该如何发布内容</title>
+      <link>https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/1/24259462/instagram-best-practices-business-profiles-tips-reach</guid>
+      <pubDate>Tue, 01 Oct 2024 17:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>Fortnite 创作者现在可以制作第一人称射击游戏</title>
-      <link>https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor</link>
+      <title>Bose 新款 SoundLink Home 是其最漂亮的无线扬声器之一</title>
+      <link>https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home</link>
       <description><![CDATA[
 
-图片：Epic Games
+图片：Bose
 
-打造 Fortnite 体验的开发者现在可以尝试新的第一人称相机模式。该功能将首先作为实验版本在《Fortnite》的虚幻编辑器中推出。今年晚些时候，该功能将以测试版形式推出，届时，创作者将能够发布他们使用第一人称模式的体验，Epic Games 表示。
-该公司在 3 月份的 State of Unreal 展会上首次展示了第一人称视角，尽管 Epic 证实，它并未计划用于Fortnite的大逃杀模式致 Rock Paper Shotgun。 您可以在 Epic 的 State of Unreal 重播1:06:26和 X 上今天分享的帖子中简要了解该模式。
-
-
-新 POV 刚刚发布‼️第一人称相机模式现已作为实验性功能提供。目前，您还不能使用该设备发布您的岛屿，但请留意今年晚些时候的 Beta 版本！在此处了解所有信息：https://t.co/o5zKyPnrr8 pic.twitter.com/9VydsYqcNf— Fortnite Creators (@FNCreate) 2024 年 10 月 1 日
+Bose 宣布为其长期推出的 SoundLink 无线扬声器系列增添新品。 Bose 的大多数扬声器都采用色彩鲜艳且耐用的设计，在海滩度过一个下午时可抵御沙子和水的侵袭，但新款售价 219 美元的 SoundLink Home 采用阳极氧化铝和织物扬声器盖等材料，外观更高档，旨在与家居相得益彰。
+通过扬声器的 USB-C 端口充电四小时后，电池续航时间最长可达九小时，该端口还可兼作音频输入，用于连接笔记本电脑等带有电缆。SoundLink Home 支持蓝牙 5.3，无线范围约为 30 英尺，可与其他 SoundLink Home 扬声器配对以获得立体声。但是，它没有 Wi-Fi，这意味着，与其他 Bose 扬声器不同，这里不支持 AirPlay。
 
 
-目前，玩家所做的一切并非都以第一人称视角进行。 Epic 在一篇博文中写道，在进行某些动作（包括游泳、滑翔和跳伞）时，玩家的视角将变为第三人称，当第一人称视角正式发布测试版时，这种行为仍将保留。
-10 月 1 日更新：添加了来自 Epic Games 的 X 帖子。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
+图片：Bose
+Bose SoundLink Home 有冷灰色或浅银色可选。
+
+虽然专为室内使用而设计，但您可能希望避免在厨房中使用 SoundLink Home，因为它缺乏防尘或防水功能。它确实包含一个麦克风，因此您可以将其用作免提电话或与连接设备上的智能助手进行交互。
+SoundLink Home 从今天开始通过 Bose 的在线商店发售，有中性冷灰色或浅银色两种配色。
+更正，10 月 1 日：本文的早期版本称 SoundLink Home 可以与其他 Bose 无线扬声器配对以获得立体声，但该功能仅适用于 Home 扬声器具体来说。]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home</guid>
+      <pubDate>Tue, 01 Oct 2024 17:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>如何观看蒂姆·沃尔兹和 JD 万斯之间的副总统辩论</title>
-      <link>https://www.theverge.com/2024/10/1/24258376/vice-presidential-debate-tim-walz-jd-vance-watch-time-date-stream</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-明尼苏达州州长 Tim Walz (D) 和参议员 JD Vance (R-OH) 将于周二晚上在辩论舞台上会面，代表各自政党参选，希望成为下一任副总统。
-这位前学校老师和《乡下人的悲歌》的作者都对科技采取了一些重要立场。例如，沃尔兹在叫车应用和司机之间进行了一场权力斗争，在 Uber 和 Lyft 两家公司威胁要离开明尼苏达州后，他否决了一项提高司机最低工资的州法案，然后签署了另一项法案，将司机工资提高约 20%，但又不失去他所认为的许多明尼苏达人的主要交通方式。
-
-万斯在科技竞争监管方面的立场引起了本党的不满。这位前风险投资家和彼得·泰尔 (Peter Thiel) 的门徒称赞联邦贸易委员会主席 Lina Khan是“拜登政府中为数不多的我认为做得相当不错的人之一”，尽管她在科技方面的进步执法和规则制定经常成为批评华尔街日报专栏文章和企业反击的主题。
-周二的辩论可能会更多地关注这一问题中的一些关键问题选举，包括移民政策、生殖保健和经济，但我们会留意特朗普或哈里斯政府将如何影响科技的任何暗示。
-如何观看今晚的副总统辩论？
-辩论将由哥伦比亚广播公司 (CBS) 主办，并将通过该网络的广播和流媒体频道播出，包括 Paramount Plus、CBSnews.com 和 YouTube。像大多数其他辩论一样，这次辩论将同步播出，因此其他主要广播公司和新闻频道也将播出。
-今晚的副总统辩论什么时候开始？
-辩论于美国东部时间晚上 9 点开始，预计持续 90 分钟，中间有两次广告。
-主持人是谁？
-《哥伦比亚广播公司晚间新闻》主持人兼总编辑 Norah O’Donnell 和《面对全国》主持人兼哥伦比亚广播公司首席外交事务记者 Margaret Brennan 将主持辩论。
-基本规则是什么？
-像今年的总统辩论将不会有观众。候选人将由沃尔兹开始介绍，因为他属于现任政党，但不会有开场白。万斯在掷硬币中获胜，并选择以两分钟的结束语作为第二名。
-候选人将有两分钟回答每个问题，两分钟提供答复，一分钟用于反驳。主持人可以选择再给候选人一分钟时间继续讨论某个话题。候选人不会提前知道问题，也不允许携带预先写好的笔记。 
-CBS 计划在屏幕上为观看其频道的观众显示二维码，将他们引导至实时事实核查页面，而不是让主持人实时介入进行事实核查。
-今年与总统辩论不同的一点是，当另一位候选人发言时，两位候选人的麦克风都不会默认静音，但 CBS 保留关闭麦克风的权利。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24258376/vice-presidential-debate-tim-walz-jd-vance-watch-time-date-stream</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软正在利用人工智能改进 Windows 搜索</title>
-      <link>https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos</link>
+      <title>我们测试了六款智能戒指，最终获胜者显而易见</title>
+      <link>https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables</guid>
+      <pubDate>Tue, 01 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>东海岸和墨西哥湾沿岸的港口工人罢工</title>
+      <link>https://www.theverge.com/2024/10/1/24259395/port-workers-ila-east-gulf-coast-strike-automation</link>
+      <description><![CDATA[
+
+图片：Getty
+
+美国东海岸和墨西哥湾沿岸的数十个港口已经关闭，数千名码头工人因工资和可能取代工作的技术而罢工，据 CNBC 报道。此次罢工于 10 月 1 日午夜刚过开始，可能会导致价格上涨，并使商品更难获得，具体取决于罢工持续时间。
+国际码头工人协会 (ILA) 是一个代表约 85,000 名码头工人的工会，该协会在与支持港口雇主的组织美国海事联盟 (USMX) 的合同于周二早上到期后发起了罢工。罢工范围从缅因州延伸到德克萨斯州。
+新合同谈判仍在进行中，USMX 提议加薪 50%。除了更高的工资，ILA 工人也在争取对自动化的保护，这可能会消除对人力起重机操作员和集装箱卡车司机的需求。工会还希望取消安装在工作站的摄像头，称其创造了“以安全为幌子的恶劣工作环境”。 
+“我们准备在必要时进行斗争，无论需要多长时间，我们都会继续罢工，以获得我们 ILA 成员应得的工资和针对自动化的保护，”ILA 主席 Harold Daggett 在发布到 Facebook 的一份声明中表示。 “USMX 现在拥有这次罢工……他们现在必须满足我们的要求才能结束这次罢工。”
+ILA 上次罢工是在 1977 年，罢工地点在东海岸，罢工持续了六个多星期。摩根大通估计，港口每关闭一天，目前的罢工就可能给经济造成 38 亿至 45 亿美元的损失，据美联社报道。 
+周二，总统乔·拜登呼吁 USMX“与码头工人谈判一份公平的合同，以反映他们为我们的经济复苏所做的重大贡献。”]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24259395/port-workers-ila-east-gulf-coast-strike-automation</guid>
+      <pubDate>Tue, 01 Oct 2024 16:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic 正试图增加使用虚幻引擎和 Epic 游戏商店的吸引力</title>
+      <link>https://www.theverge.com/2024/10/1/24258723/epic-games-store-unreal-engine-launch-everywhere-royalty</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+Epic 为使用虚幻引擎制作游戏并在 Epic Games Store 上架的开发者提供更好的条款。
+作为新的“使用 Epic 随处发布”计划的一部分，Epic 正在降低使用虚幻引擎制作的游戏的版税率虚幻引擎的抽成从 5% 降至 3.5%——不过，这些游戏必须在发布当天在 Epic Games Store 上架。该计划将于 2025 年 1 月 1 日开始，适用于当年在 Epic Games Store 上发布的符合条件的游戏。
+通过这一举措，Epic 似乎正在尝试另一种方式鼓励开发者在其商店上架游戏，包括其在 Android 和 iOS 上新推出的商店。 Epic 表示，版税减免将适用于开发者上架其游戏的每个平台和商店——这也意味着游戏机也一样。因此，如果开发者使用虚幻引擎制作了一款热门跨平台游戏，他们就可以省下很多钱，因为不必支付太多虚幻引擎版税。
+
+如果开发者在 PC 或 Android 商店提供虚幻引擎游戏，但未在该平台的 Epic Games Store 上架，则版税率将回升至 5%。对于 iOS 游戏，Epic 目前免除了同步发布的要求，理由是苹果的核心技术费，如果许多开发者在 Epic 的 iOS 商店上架他们的游戏，他们将受到这项费用的约束。如果 Epic 改变其对 iOS 的态度，它表示将提前四个月通知开发者。
+Epic 已经免除了在 Epic Games Store 销售的虚幻引擎版税，Epic 是支付处理器，这为开发者在其平台上发布游戏提供了另一项福利。 （虚幻引擎开发者只有在游戏收入超过 100 万美元后才需缴纳版税。）对于那些在 Unity 现已取消的运行时费用定价模式之后对 Unity 失去信任的开发者来说，降低虚幻引擎版税也可能具有吸引力。]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24258723/epic-games-store-unreal-engine-launch-everywhere-royalty</guid>
+      <pubDate>Tue, 01 Oct 2024 16:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国可能于明年恢复关闭的核电站</title>
+      <link>https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24259276/nuclear-power-plant-energy-department-loan-palisades</guid>
+      <pubDate>Tue, 01 Oct 2024 16:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devolver 推出专注于授权游戏的新独立品牌</title>
+      <link>https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games</link>
+      <description><![CDATA[
+
+图片：Big Fan Games
+
+Devolver Digital 宣布成立一个专为授权游戏设计的新出版品牌。该公司名为 Big Fan Games，由曾与迪士尼、黑马等品牌合作过的业内资深人士掌舵。Devolver 在一份新闻稿中表示，新公司的目标是“帮助独立游戏开发者通过电子游戏的力量，为他们最喜欢的电影、漫画、电视节目和偶像注入新的活力”。 Big Fan 的名单上已经有多款游戏，包括《王权：权力的游戏》、《地狱男爵之网》和《疾速追杀：约翰·威克斯》。
+授权游戏在 80 年代末和 90 年代初占据了视频游戏产业的很大一部分。在老玩家的想象中，很多游戏都比今天的游戏更难，比如获得许可的平台游戏，例如迪士尼的狮子王、唐老鸭历险记和忍者神龟。然而，授权游戏的质量开始下降，很快，授权游戏就被认为只不过是互动广告。
+尽管人们对授权游戏的看法已经改变，但 Big Fan 团队意识到了这种污名，并在新闻稿中分享道：“Big Fan 的目标是培育有趣且独具创意的游戏，而不是作为其他媒体发布的营销搭售品。”
+推出以授权内容为中心的品牌似乎正是时候，因为这类游戏正在经历新的复兴，并受到业内最大工作室的关注。 Respawn Entertainment 凭借其二部曲 星球大战游戏获得了巨大成功。 忍者神龟：施莱德的复仇于 2022 年推出并获得好评。 MachineGames 将于今年晚些时候发布一款新的印第安纳琼斯视频游戏，而杀手系列的制作者 IO Interactive正在开发一款詹姆斯邦德游戏。
+Big Fan 希望保持这一趋势，并表示“在这些宇宙中创作的独立游戏可以以新的和意想不到的方式探索它们，我们的目标是提高粉丝的期待值。”]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24259402/devolver-digital-big-fan-licensed-indie-games</guid>
+      <pubDate>Tue, 01 Oct 2024 16:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Halide 应用程序更新为 iPhone 16 相机控制按钮添加了新功能</title>
+      <link>https://www.theverge.com/2024/10/1/24259340/halide-camera-control-button-exposure-focus-iphone-16</link>
+      <description><![CDATA[
+
+焦点和曝光现在位于 Halide 的相机控制菜单中。 |图片：Lux
+
+Halide 是 Lux 公司为 iOS 开发的一款流行的高级相机应用程序，它发布了一个新更新，为 iPhone 16 的相机控制按钮添加了手动摄影“调整”功能。在 2.17 版（现已推出）中，您可以在相机控制上调整焦点和曝光；还有一种新的“锁定”模式可以锁定一些手动设置，这样意外滑动就不会破坏您当前的拍摄。
+Halide 的创始人 Sebastiaan De With 表示，曝光调整可以设置为 Apple 的“三倍”曝光偏差（正负 6 EV 对 2），并且相机控制上的手动对焦是“iPhone 上非常出色、流畅的体验”。 Lux 还对 iPhone 16 Pro 的相机进行了评测。
+Halide 已经支持 iPhone 16 相机控制按钮，能够快速启动和拍照（或者从锁定屏幕启动，如果您愿意）。现在，您可以通过按下相机控制按钮而不是释放按钮来拍摄照片，从而在拍照时节省几毫秒的时间。快速拍摄甚至可与 iPhone 16 Pro 的 48 兆像素 ProRAW 设置配合使用，并且 Halide 最近发布的“Process Zero”功能旨在以最少的处理拍摄照片。]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24259340/halide-camera-control-button-exposure-focus-iphone-16</guid>
+      <pubDate>Tue, 01 Oct 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼新款 LinkBuds 无需智能助手即可添加语音控制</title>
+      <link>https://www.theverge.com/2024/10/1/24256202/sony-linkbuds-open-fit-wireless-earbuds-headphones</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/1/24256202/sony-linkbuds-open-fit-wireless-earbuds-headphones</guid>
+      <pubDate>Tue, 01 Oct 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
