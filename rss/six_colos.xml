@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 27 Sep 2024 21:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 01:23:30 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 531：我眼中的通知</title>
+      <link>https://sixcolors.com/podcast/2024/09/upgrade-531-notifications-in-my-eyes/</link>
+      <description><![CDATA[Jason 和 Myke 分析了 Meta 对其 Orion AR 眼镜项目的预览，以及它对 Apple Vision 产品线未来的说明（或未说明的内容）。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/09/upgrade-531-notifications-in-my-eyes/</guid>
+      <pubDate>Mon, 30 Sep 2024 22:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 和 Apple：同样的游戏，不同的规则</title>
       <link>https://sixcolors.com/post/2024/09/meta-and-apple-same-game-different-rules/</link>
@@ -112,15 +119,6 @@
       <description><![CDATA[听着，我并不是不知感恩。但事实是，没有什么比发布最新的硬件和软件更能激发人们对 Apple 可以对其产品做什么的想象了。…]]></description>
       <guid>https://www.macworld.com/article/2461801/apples-latest-os-updates-leave-you-wanting-for-more.html</guid>
       <pubDate>Thu, 19 Sep 2024 15:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟委员会正在审查苹果第三方配件的 DMA 合规性 ↦</title>
-      <link>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</link>
-      <description><![CDATA[就在你以为可以安全返回地中海时，欧盟委员会和 DMA 又回来了：
-
-今天，欧盟委员会已启动两项规范程序，以协助苹果履行《数字市场法》（“DMA”）规定的互操作性义务。…]]></description>
-      <guid>https://sixcolors.com/link/2024/09/ec-reviewing-apples-dma-compliance-for-third-party-accessories/</guid>
-      <pubDate>Thu, 19 Sep 2024 14:29:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
