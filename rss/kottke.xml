@@ -4,7 +4,46 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Tue, 01 Oct 2024 18:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 21:18:01 GMT</lastBuildDate>
+    <item>
+      <title>椋鸟群飞</title>
+      <link>https://kottke.org/24/10/a-murmuration-of-starlings-1</link>
+      <description><![CDATA[
+一群椋鸟被称为群鸟，这个词很贴切，因为这些鸟群的移动就像在拥挤的房间里传来的谣言。这是在荷兰乌得勒支观察到的特别美丽的群鸟。
+[这是一篇来自 2015 年 1 月的经典帖子。]
+标签： 鸟类 · 永恒帖子 · 视频]]></description>
+      <guid>https://kottke.org/24/10/a-murmuration-of-starlings-1</guid>
+      <pubDate>Tue, 01 Oct 2024 21:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>贾托伦蒂诺 (Jia Tolentino) 对沃伦赫恩 (Warren Hern) 博士进行了精彩的采访，沃伦赫恩是其中一位……</title>
+      <link>https://kottke.org/24/10/0045364-great-interview-by-jia-to</link>
+      <description><![CDATA[Jia Tolentino 对 Warren Hern 医生的精彩采访，Warren Hern 医生是美国为数不多的公开实施晚期堕胎的医生之一。“堕胎是对妇女无法生出健康婴儿的妊娠状况的明确治疗方法。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/10/0045364-great-interview-by-jia-to</guid>
+      <pubDate>Tue, 01 Oct 2024 20:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>按字母顺序排列书架的最快方法是什么？</title>
+      <link>https://kottke.org/24/10/whats-the-fastest-way-to-alphabetize-your-bookshelf</link>
+      <description><![CDATA[
+假设你有一堆书需要按作者的字母顺序排序。完成这项任务最快的方法是什么？幸运的是，高效排序是计算机科学中一个被广泛研究的问题，这个 TED-Ed 视频向我们介绍了三种可能的排序：冒泡排序、插入排序和快速排序。
+有关排序的更多信息，请查看可视化排序算法、通过东欧民间舞蹈可视化排序技术和一个可以相互比较许多不同排序算法的网站。 （来自孩子应该看看这个）
+标签： 编程 · 视频
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/10/whats-the-fastest-way-to-alphabetize-your-bookshelf</guid>
+      <pubDate>Tue, 01 Oct 2024 19:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过品尝、烹饪和烘焙，绝对是适合各种场合的最佳黄油……</title>
+      <link>https://kottke.org/24/10/0045360-the-absolute-best-butter-</link>
+      <description><![CDATA[经过 32 种口味测试、烹饪和烘焙，绝对是适合各种场合的最佳黄油。我肯定需要在某个时候弄到一些 Le Beurre Bordier。但我对 Ploughgate 的咸黄油 真的很满意。🤤
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/10/0045360-the-absolute-best-butter-</guid>
+      <pubDate>Tue, 01 Oct 2024 18:47:03 GMT</pubDate>
+    </item>
     <item>
       <title>《狂人的作品》</title>
       <link>https://kottke.org/24/10/the-work-of-a-madman</link>
@@ -37,7 +76,7 @@
     <item>
       <title>作为整个互联网支柱的不起眼的超链接正日益受到威胁......</title>
       <link>https://kottke.org/24/10/0045356-the-humble-hyperlink-the-</link>
-      <description><![CDATA[不起眼的超链接是整个互联网的支柱，正日益濒临灭绝。“如果你贬低超链接，你就贬低了互联网作为引导你访问其他事物的理念。”
+      <description><![CDATA[不起眼的超链接是整个互联网的支柱，正日益濒临灭绝。“如果你贬低超链接，你就贬低了互联网作为引导你到其他事物的东西这一理念。”
 
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/10/0045356-the-humble-hyperlink-the-</guid>
@@ -106,50 +145,6 @@
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/09/0045337-in-the-late-19th-century</guid>
       <pubDate>Thu, 26 Sep 2024 22:38:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>柯达与大众摄影的发明</title>
-      <link>https://kottke.org/24/09/kodak-and-the-invention-of-popular-photography</link>
-      <description><![CDATA[
-1888 年，伊士曼柯达公司推出了一款新相机和一句新口号。“您按下按钮，我们来做剩下的事。”说这一刻彻底改变了摄影，这还不够。但这个故事不仅仅与柯达有关。它讲述的是当一项原本只有少数人能理解的强大技术突然可以掌握在手中时会发生什么。
-然后，快进到 90 年代和 00 年代，柯达逐渐地，然后突然地错过了一个类似的转变，而这一转变进一步使摄影民主化：数字化。
-标签： 柯达 · 摄影 · 视频
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/kodak-and-the-invention-of-popular-photography</guid>
-      <pubDate>Thu, 26 Sep 2024 22:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的小单词游戏：Alphaguess。&#8220;猜猜今天的单词。每个...</title>
-      <link>https://kottke.org/24/09/0045344-fun-little-word-game-alph</link>
-      <description><![CDATA[有趣的小单词游戏：Alphaguess。“猜猜今天的单词。每次猜测都会揭示该单词按字母顺序排列的位置。”（今天的谜题让我猜了 16 次——这很好吗？）
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/0045344-fun-little-word-game-alph</guid>
-      <pubDate>Thu, 26 Sep 2024 16:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>布丁收集了所有 59,507 个室外篮球场的卫星图像......</title>
-      <link>https://kottke.org/24/09/0045339-the-pudding-has-collected</link>
-      <description><![CDATA[Pudding 收集了美国所有 59,507 个室外篮球场的卫星图像。
-
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/0045339-the-pudding-has-collected</guid>
-      <pubDate>Thu, 26 Sep 2024 16:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>威廉斯堡大桥骑士</title>
-      <link>https://kottke.org/24/09/the-williamsburg-bridge-riders</link>
-      <description><![CDATA[
-
-
-
-
-
-Adam DiCarlo 拍摄了通勤者（主要是骑车者）离开曼哈顿一侧威廉斯堡大桥自行车道的照片，并将它们发布到他的Instagram 帐户。（来自 @BAMstutz）
-标签： Adam DiCarlo · 骑自行车 · 纽约市 · 摄影
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/09/the-williamsburg-bridge-riders</guid>
-      <pubDate>Thu, 26 Sep 2024 15:04:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
