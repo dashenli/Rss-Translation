@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 01 Oct 2024 01:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:18:45 GMT</lastBuildDate>
+    <item>
+      <title>Croissant 简化了 iOS 上的社交媒体交叉发布功能</title>
+      <link>https://sixcolors.com/post/2024/10/croissant-simplifies-social-media-cross-posting-on-ios/</link>
+      <description><![CDATA[
+我很少能找到一款能立即成为我工作流程一部分的新应用，但像 Croissant 这样有用的应用也同样少见。…]]></description>
+      <guid>https://sixcolors.com/post/2024/10/croissant-simplifies-social-media-cross-posting-on-ios/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:34:33 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 531：我眼中的通知</title>
       <link>https://sixcolors.com/podcast/2024/09/upgrade-531-notifications-in-my-eyes/</link>
@@ -49,7 +57,7 @@
     <item>
       <title>《掌控照片，第四版》 ↦</title>
       <link>https://sixcolors.com/link/2024/09/take-control-of-photos-fourth-edition/</link>
-      <description><![CDATA[我很高兴地宣布，我关于苹果照片应用的电子书《掌控照片，第四版》的最新版本现已上市。
+      <description><![CDATA[我很高兴地宣布，我的关于苹果照片应用的电子书《掌控照片，第四版》的最新版本现已上市。
 这个新版本涵盖了苹果今年添加的新内容，内容非常丰富——尤其是在 iOS 和 iPadOS 方面。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/take-control-of-photos-fourth-edition/</guid>
       <pubDate>Wed, 25 Sep 2024 22:43:35 GMT</pubDate>
@@ -112,13 +120,6 @@
 写这篇文章的时候，我正坐在田纳西州孟菲斯市圣犹达儿童研究医院的绿色房间里，准备开始今年的 12 小时播客募捐活动，以支持 St.…]]></description>
       <guid>https://sixcolors.com/link/2024/09/the-relay-podcastathon-for-st-jude/</guid>
       <pubDate>Fri, 20 Sep 2024 14:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 缺少的不仅仅是 Apple Intelligence（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2461801/apples-latest-os-updates-leave-you-wanting-for-more.html</link>
-      <description><![CDATA[听着，我并不是不知感恩。但事实是，没有什么比发布最新的硬件和软件更能激发人们对 Apple 可以对其产品做什么的想象了。…]]></description>
-      <guid>https://www.macworld.com/article/2461801/apples-latest-os-updates-leave-you-wanting-for-more.html</guid>
-      <pubDate>Thu, 19 Sep 2024 15:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
