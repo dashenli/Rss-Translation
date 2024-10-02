@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:32:44 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Federico Pian 投资组合 — 2024</title>
+      <link>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</link>
+      <description><![CDATA[了解 Federico Pian 如何使用 Nuxt、GSAP 和 TresJs 构建他的 2024 年投资组合，并深入了解设计灵感、动画技术和无缝页面转换。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</guid>
+      <pubDate>Wed, 02 Oct 2024 08:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>集体#868</title>
       <link>https://tympanus.net/codrops/collective/collective-868/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在本期设计师聚焦中，我们邀请了来自克罗地亚的获奖网页设计师和艺术总监 Andrea Jelić，她将分享她对创作过程的见解，并展示她出色的网页和品牌项目。]]></description>
       <guid>https://tympanus.net/codrops/2024/09/16/designer-spotlight-andrea-jelic/</guid>
       <pubDate>Mon, 16 Sep 2024 10:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#863</title>
-      <link>https://tympanus.net/codrops/collective/collective-863/</link>
-      <description><![CDATA[AIAIAI * 打磨 UI * 迷失的感觉 * 精加工的艺术]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-863/</guid>
-      <pubDate>Fri, 13 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

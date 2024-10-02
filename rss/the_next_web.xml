@@ -4,7 +4,28 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 02 Oct 2024 06:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:32:04 GMT</lastBuildDate>
+    <item>
+      <title>TNW 播客：Supercell 的 Ilkka Paananen 谈电子游戏的技术、市场和文化</title>
+      <link>https://thenextweb.com/news/podcast-ilkka-paananen-supercell</link>
+      <description><![CDATA[欢迎收听 TNW Podcast 的新一期。在本节目中，我们将讨论欧洲技术生态系统的最新发展，并采访业内一些最有趣的人。在今天的特别节目中，我们将播出对 Supercell 联合创始人兼首席执行官 Ilkka Paananen 的采访，该采访于上周在都灵举行的意大利科技周会议上与现场观众一起录制。Andrii 和 Ilkka 讨论了游戏开发行业的历史、企业家在创业之初犯下的错误、Supercell 独特的文化和结构，以及人工智能为......带来的变化本故事将在 The Next Web 继续]]></description>
+      <guid>https://thenextweb.com/news/podcast-ilkka-paananen-supercell</guid>
+      <pubDate>Wed, 02 Oct 2024 07:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>控制太赫兹光束的芯片为未来的超高速互联网奠定了基础</title>
+      <link>https://thenextweb.com/news/chip-that-steers-terahertz-beams-sets-stage-for-ultrafast-internet-of-the-future</link>
+      <description><![CDATA[想象一下未来，互联网连接不仅速度快如闪电，而且非常可靠，即使在拥挤的空间也是如此。得益于对太赫兹通信技术的新研究，这一愿景正在迅速接近现实。这些创新将改变无线通信，特别是随着通信技术向下一代网络 6G 迈进。我是一名专注于光子学的工程师，光子学是研究光和其他电磁波如何产生和检测的学科。在这项研究中，我和我的同事开发了一种硅拓扑波束形成器芯片。拓扑是指硅中有助于引导太赫兹波的物理特征，......本报道在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/chip-that-steers-terahertz-beams-sets-stage-for-ultrafast-internet-of-the-future</guid>
+      <pubDate>Tue, 01 Oct 2024 15:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能翻译独角兽 DeepL 设立纽约技术中心，加速美国扩张</title>
+      <link>https://thenextweb.com/news/ai-translation-deepl-new-york-tech-hub-us-expansion</link>
+      <description><![CDATA[DeepL 是一家总部位于科隆的 AI 翻译独角兽公司，今天在纽约市启动了其在美国的第一家技术中心。此举是该公司在美国市场不断增长和投资的结果，该公司在美国已经拥有 Coursera 和 Morningstar 等客户。DeepL 今年早些时候在德克萨斯州奥斯汀开设了第一家美国办事处。纽约科技中心将专注于研究、产品创新和工程，旨在推动这家初创公司在该地区扩张。“[它]使我们处于市场上最大的人才库之一的中心，并让我们更接近我们的客户，包括......This story continued at The Next Web]]></description>
+      <guid>https://thenextweb.com/news/ai-translation-deepl-new-york-tech-hub-us-expansion</guid>
+      <pubDate>Tue, 01 Oct 2024 11:00:58 GMT</pubDate>
+    </item>
     <item>
       <title>Autoscriber 与微软合作扩展环境临床智能软件</title>
       <link>https://thenextweb.com/news/auotscriber-teams-up-microsoft-scale-ambient-clinical-intelligence-software</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[Arm 希望升级我们设备中的“大脑”。这家芯片设计公司（其架构为 99% 的智能手机提供动力）设想 AI 将为我们的手机带来新一波突破。该公司在发布 Llama 3.2（Meta 首款同时处理图像和文本的开源模型）后概述了这一计划。 Arm 表示，这些模型在其计算平台上“无缝”运行。较小的基于文本的 LLM — Llama 3.2 1B 和 3B — 针对基于 Arm 的移动芯片进行了优化。因此，这些模型可以在智能手机上提供更快的用户体验。在边缘处理更多 AI 还可以节省能源和成本。这些增强功能…本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/arm-meta-bringing-llama-ai-to-smartphones</guid>
       <pubDate>Thu, 26 Sep 2024 16:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国初创公司 Pact 开设工厂生产类似皮肤的皮革替代品</title>
-      <link>https://thenextweb.com/news/uk-startup-pact-opens-factory-funding-leather-biomaterial-oval</link>
-      <description><![CDATA[英国初创公司 Pact 已筹集 900 万英镑的资金，并开设了一家新工厂，以扩大“世界上第一种”由胶原蛋白（皮肤的主要组成部分）制成的可持续、可扩展的生物材料的规模。这种被称为 Oval 的材料在外观、触感和老化程度上与皮革非常相似，但不会对环境产生影响。Oval 不仅看起来像皮革，而且对划痕、水和阳光的反应也非常相似。我想这很有道理，因为从技术上讲它是一种皮肤——尽管是在实验室中制造的。Oval 的外观、触感和老化程度都很像…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/uk-startup-pact-opens-factory-funding-leather-biomaterial-oval</guid>
-      <pubDate>Thu, 26 Sep 2024 12:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>荷兰酒店科技独角兽 Mews 获 1 亿美元融资，助推收购热潮</title>
-      <link>https://thenextweb.com/news/dutch-hotel-tech-unicorn-mews-100-million-funding</link>
-      <description><![CDATA[总部位于阿姆斯特丹的扩张型企业 Mews 获得了 1 亿美元的信贷融资，它希望吞并竞争对手，成为酒店业 SaaS 软件的市场领导者。Vista Credit Partners 是专注于技术的私募股权公司 Vista Equity Partners 的信贷投资部门，它提供了这笔资金。 Mews 位于 TNW City，已构建了一个基于云的系统，帮助酒店和其他酒店企业更有效地管理日常运营。该系统可处理预订房间、办理客人入住和退房手续、处理付款、管理客房服务以及提供报告和分析工具等任务。就在 Mews 获得新资金几个月后，该公司获得了新资金......本文继续，请访问 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/dutch-hotel-tech-unicorn-mews-100-million-funding</guid>
-      <pubDate>Thu, 26 Sep 2024 09:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告发现，2024 年欧洲国防科技风险投资将达到创纪录的 10 亿美元</title>
-      <link>https://thenextweb.com/news/vc-investment-european-defence-tech-record-1b-2024</link>
-      <description><![CDATA[自 2018 年以来，欧洲国防科技领域的风险投资增长了五倍，预计将在 2024 年创下历史新高，投资额有望达到 10 亿美元。根据 Dealroom 的最新报告，欧洲目前正处于投资热潮的中心，各国政府纷纷转向国防科技领域，以加强国家安全，应对不断升级的地缘政治不稳定。董事总经理兼首席执行官 Jeannette zu Fürstenberg 表示：“几十年来，我们首次在欧洲本土面临战争，加强我们的安全并构建现代国防软件堆栈的紧迫性从未如此强烈。”This story continued at The Next Web]]></description>
-      <guid>https://thenextweb.com/news/vc-investment-european-defence-tech-record-1b-2024</guid>
-      <pubDate>Wed, 25 Sep 2024 23:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
