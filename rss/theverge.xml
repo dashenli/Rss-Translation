@@ -4,161 +4,126 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 15:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 18:23:31 GMT</lastBuildDate>
     <item>
-      <title>AMD 推出下一代帧生成技术，以提高更多游戏的 FPS</title>
-      <link>https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability</link>
+      <title>FCC 提供 2 亿美元保护学校和图书馆免受黑客攻击</title>
+      <link>https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund</link>
       <description><![CDATA[
 
-AFMF 2 在今年早些时候向 Beta 测试人员推出后现已广泛可用。 | 插图由 Alex Castro / The Verge 提供
+插图：Beatrice Sala
 
-AMD 已正式推出其 Fluid Motion Frames 技术的最新版本，该技术可以提高基于 RDNA 2 和 RDNA 3 的图形硬件上的游戏帧率。继 7 月发布技术预览后，Fluid Motion Frames 2 (AFMF 2) 于周二与其支持的 Adrenalin 24.9.1 GPU 驱动程序一起发布，现已广泛可用。
-AFMF 是一种类似于Nvidia 的 DLSS 帧生成，但在驱动程序级别而不是游戏特定的集成上运行。第二代 AFMF 更新可以在 OpenGL、Vulkan、DirectX 11 或 DirectX 12 游戏中启用 - 这意味着现在可以在不支持 FSR 和 DLSS 的游戏中提高 FPS - 目前适用于 AMD Radeon RX 6000、RX 7000、700M 和 800M GPU。
-
-
-图片：AMD
-根据 AMD 的测试，AFMF 2（与其他优化一起）可以提供与原始游戏性能相比令人印象深刻的帧率提升。
-
-根据 AMD 的说法，AFMF 2 可以将 FPS“平均”提高高达 250%，但这是在与该公司的 FSR 2 结合测试时得出的技术和 Hypr-RX 优化套件。实际性能会因 GPU、游戏和分辨率而异。 Digital Foundry 报告，在使用 Radeon RX 7900 GRE GPU 以 4K 分辨率测试 Control、Cyber​​Punk 2077 和 Senua’s Saga: Hellblade II 中的 AFMF 2 测试版时，FPS 提升“通常在 2 倍范围内”。
-
-AFMF 更新特别包括快速运动优化，这应该可以解决 第一代 AFMF 禁用了快速移动游戏中的帧生成。AMD 还为 AFMF 2 添加了两种 AI 优化的可调模式，允许用户控制该功能如何影响游戏性能。搜索模式可在快速运动场景中调整游戏中的 FPS 流畅度和图像质量，而性能模式可以提高低功耗设备上的 AFMF 效率。
-AFMF 2 支持 RX 7000 GPU 上的无边框全屏游戏模式和 AMD 的 Radeon Chill 低延迟 FPS 上限，以限制 FPS 助推器可能造成的延迟。除了游戏之外，它还提供了一项新的“几何缩小”功能，当视频在小于其原始分辨率的窗口中播放时，该功能可以减少混叠和其他视觉伪影。在 Radeon RX 7000 和集成 Radeon 800M GPU 上运行的 DirectX 11 应用程序支持此功能。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability</guid>
-      <pubDate>Wed, 02 Oct 2024 14:37:07 GMT</pubDate>
+美国联邦通信委员会将拨款 2 亿美元帮助学校和图书馆提高计算机系统的安全性。 
+学校和图书馆网络安全试点计划将用于评估 是否以更持久的方式资助此类计划。资金将来自 一个名为“通用服务基金 (USF)”的资金池，该基金由电信公司的捐款组成。参与该计划的学校和图书馆将能够报销诸如高级防火墙、身份保护和身份验证服务、恶意软件保护和 VPN 等费用。 
+该试点计划将提供给符合 FCC 的 E-rate 计划的学校和图书馆，这是 USF 的另一项提供经济实惠的互联网接入的举措。 FCC 表示，预计今年秋季将启动申请程序，并计划根据规模和农村与城市选择学校。该机构表示，将重点资助低收入和部落申请人的项目。
+这些资金可以帮助打击近年来针对学校和地方政府的网络攻击。K12 安全信息交换 (K12 SIX) 是一家致力于保护学校免受网络安全威胁的非营利组织，在 2016 年至 2022 年期间，K-12 公立学校和学区发生了 1,600 多起网络事件。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260459/fcc-schools-libraries-cybersecurity-pilot-universal-service-fund</guid>
+      <pubDate>Wed, 02 Oct 2024 17:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>Automattic 在发起 WordPress 之战之前要求 WP Engine 分成</title>
-      <link>https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle</link>
+      <title>OpenAI 刚刚筹集 66 亿美元，用于构建更大的 AI 模型</title>
+      <link>https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion</link>
       <description><![CDATA[
 
-图片：Cath Virginia / The Verge
+图片：Cath Virginia / The Verge； Getty Images
 
-WordPress.com 的母公司 Automattic 要求竞争对手托管服务 WP Engine 每月上交 8% 的收入，然后点燃 一场非常公开的争斗，关于开源项目可以做什么和不能做什么。
-周三，Automattic 公布了其于 9 月 20 日发送给 WP Engine 的拟议交易。该提案列出了一份为期七年的协议，该协议赋予 WP Engine 使用 WordPress 商标的权利，以换取巨额付款。 8% 的提成可以作为特许权使用费支付给 Automattic，也可以作为对 WordPress.org 开源项目做出贡献的 WP Engine 员工的工资。
-如果 WP Engine 选择支付特许权使用费，Automattic 表示将公开将其部分贡献归功于 Five for the Future — 一个鼓励公司将 5% 的资源用于 WordPress.org 项目的计划 — “这样社区就能理解你对 WordPress 长期繁荣的承诺。”
+根据公司博客文章，OpenAI 刚刚完成了一轮历史性融资，以 1570 亿美元的估值获得了 66 亿美元的投资，以继续追求其构建通用人工智能的使命。
+据《金融时报》报道，此轮融资由 Thrive Capital 领投，承诺投资 10 亿美元。据路透社报道，据报道，Thrive 还获得了一项特殊交易（其他投资者未获得该交易），如果这家 AI 公司达到收入目标，该交易允许其明年以相同估值再投资 10 亿美元。
+这些资金显然取决于 OpenAI 是否会进行传闻中的重组，成为一家营利性公司。该公司的营利部门目前由一家非营利性研究机构监管，投资者利润上限为 100 倍。据 Axios 报道，如果 OpenAI 在两年内不重组为一家营利性公司，投资者可以要求退还他们的资金。上周，路透社报道，该公司正考虑成为一家公益公司（如 Anthropic）。
+据金融时报报道，OpenAI 还罕见地要求投资者避免支持竞争对手的初创公司，如 Anthropic 和埃隆·马斯克的 xAI。值得注意的是，OpenAI 的最新一轮融资额略高于 5 月份融资额达 60 亿美元的 xAI。 
 
-另一方面，选择向 WP Engine 员工贡献 8% 将使 WordPress.org 和 Automattic “完全审计权”和“访问公司员工记录和时间跟踪”。该协议还禁止“分叉或修改”Automattic 的软件，包括 WooCommerce 等插件和扩展。
-但 WP Engine 从未接受过这一提议，因为它认为其对 WordPress 商标和“WP”缩写的使用符合合理使用准则。Automattic 此后废除了这些条款，理由是“WP Engine 的行为、欺骗和无能”。The Verge 联系了 WP Engine 并请求其发表评论，但没有立即得到回复。
-Automattic 和 WP Engine 一直陷入公开争议，争论的焦点是 WP Engine 是否可以使用 WordPress.org 的开源代码而不做出太多贡献。在 9 月 20 日的 WordCamp 会议上，Automattic 和 WordPress.com 首席执行官 Matt Mullenweg 指责 WP Engine 未能为 WordPress.org 社区做出贡献。他威胁要采取法律行动，除非 WP Engine 停止其对 WordPress 商标和品牌的涉嫌使用。
-WP Engine 随后发送了 停止并终止命令给 Automattic，称 Mullenweg“开始了一系列在 WordCamp 主题演讲之前，WP Engine 向公司董事会成员和首席执行官发送了“骚扰短信和电话”的警告。然而，Automattic 称这是 WP Engine 停止令中的“众多谎言之一”，并表示它“要求达成口头协议，WP Engine 将把一定比例的收入返还给 WordPress。”
-Mullenweg 也是 WordPress.org 的负责人，该组织于 10 月 1 日禁止 WP Engine 进入其服务器，切断了对更新和插件的访问。WP Engine 此后部署了自己的“解决方案”，允许客户继续正常使用托管服务。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle</guid>
-      <pubDate>Wed, 02 Oct 2024 14:30:26 GMT</pubDate>
+此轮融资对 OpenAI 的估值为约为其报告收入的 40 倍，这一前所未有的数字凸显了硅谷对人工智能的炒作程度。 《纽约时报》报道，OpenAI 8 月份的月收入达到 3 亿美元，该公司预计今年的年销售额约为 37 亿美元（并估计其明年的收入将达到 116 亿美元）。
+这数十亿美元将用于训练 AI 前沿模型这一极其昂贵的任务。Anthropic 首席执行官 Dario Amodei 表示，花费 10 亿美元进行训练的 AI 模型正在开发中，而花费 1000 亿美元的模型也即将问世。对于想要建立一系列“推理”模型的 OpenAI 来说，这些成本预计只会膨胀——因此像这样的新一轮融资至关重要。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260457/openai-funding-round-thrive-capital-6-billion</guid>
+      <pubDate>Wed, 02 Oct 2024 17:37:12 GMT</pubDate>
     </item>
     <item>
-      <title>智慧回响的最佳技巧是将塞尔达变成地下城主</title>
-      <link>https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening</link>
+      <title>苹果将​​恢复《糖业》第二季</title>
+      <link>https://www.theverge.com/2024/10/2/24260471/sugar-season-2-apple-tv-plus</link>
+      <description><![CDATA[
+
+图片：Apple
+
+另一部广受欢迎的 Apple TV Plus 剧集即将开播第二季。该流媒体今日宣布，由科林·法瑞尔主演的侦探剧《糖》已续订第二季。目前尚不清楚该剧何时回归。
+
+糖于今年早些时候首次亮相。虽然这部剧一开始是一个关于私家侦探的巧妙故事，但第一季中途的一个大转折 — — 你可以在这里阅读，但（显然）剧透比比皆是 — — 将它推向了科幻领域，苹果在这个领域非常成功。关于即将到来的这一季，目前还没有太多细节，但在一份新闻稿中，Apple 表示，“第二季中，Sugar 将回到洛杉矶，继续调查另一起失踪人员案件，同时继续寻找有关他失踪妹妹的答案。”
+Sugar 加入了 Apple TV Plus 上其他几部备受期待的第二季，出于某种原因，这些第二季也以 S 开头。这部后世界末日剧《Silo》 将于 11 月 15 日回归，而超现实职场惊悚片 Severance 将于 明年 1 月开始重新播放。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260471/sugar-season-2-apple-tv-plus</guid>
+      <pubDate>Wed, 02 Oct 2024 17:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xbox 联合创始人 J Allard 加入亚马逊，致力于“新创意”</title>
+      <link>https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening</guid>
-      <pubDate>Wed, 02 Oct 2024 14:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/2/24260438/xbox-co-founder-j-allard-amazon-hiring</guid>
+      <pubDate>Wed, 02 Oct 2024 16:52:54 GMT</pubDate>
     </item>
     <item>
-      <title>丰田向空中出租车初创公司再注资 5 亿美元</title>
-      <link>https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock</link>
+      <title>亚马逊新款 Fire 平板电脑内置人工智能</title>
+      <link>https://www.theverge.com/2024/10/2/24260392/amazon-fire-hd-8-tablet-ai</link>
       <description><![CDATA[
 
-丰田在空中出租车上投入巨资。 |图片：丰田
+图片：亚马逊
 
-丰田向 Joby Aviation 再投资 5 亿美元，以支持这家空中出租车初创公司认证和商业化生产用于叫车服务的 eVTOL（电动垂直起降）飞机。该汽车制造商自 2018 年以来已累计投资 8.94 亿美元。
-丰田的投资将分两笔 2.5 亿美元进行，第一笔将于今年完成，第二笔将于 2025 年完成。该汽车制造商还将与 Joby 建立制造联盟，以开展第一阶段的商业化工作。两家公司已于 2023 年签署协议，允许丰田为 Joby 的空中出租车生产动力总成部件。
+亚马逊刚刚宣布推出新款 Fire HD 8平板电脑，与 2024 年的许多新产品一样，生成式 AI 工具是主要新功能之一。但您不一定需要购买新的 Fire HD 8 来尝试它们；亚马逊表示，它们也将出现在 Fire HD 10 和 Fire Max 11 平板电脑上。
+这些新的 AI 工具可能是您以前见过的东西。有一个写作辅助功能，可以帮助您润色您的写作，并且内置在设备的键盘中。使用亚马逊的 Silk 浏览器时，您将能够获得网页摘要。并且您将能够根据提示创建壁纸。亚马逊表示，这些工具将于本月晚些时候开始向“所有兼容的 Fire 平板电脑”推出。
 
-总部位于加州的 Joby Aviation 由 JoeBen Bevirt 经营，他于 2009 年创立了该公司。该公司在 2018 年获得 1 亿美元的巨额投资之前一直不为人知，其中包括英特尔、丰田和捷蓝航空的参与。
-这笔资金帮助 Joby 开发了原型机并在北加州的一个私人机场进行了试飞。丰田对它所看到的东西很满意，并派出自己的工程师与 Joby Aviation 并肩工作。
-Joby 的全电动飞机有六个旋翼，可容纳五个人，包括飞行员。该飞行器可以像直升机一样垂直起飞，然后使用倾转旋翼切换到向前飞行。 Joby 表示，它的最高时速可达 200 英里/小时，一次充电即可飞行 150 英里，而且比传统飞机安静 100 倍。
-该公司最近在曼哈顿进行了几次表演飞行，并计划于 2025 年开始在纽约市和洛杉矶等地开展商业客运飞行。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock</guid>
-      <pubDate>Wed, 02 Oct 2024 14:28:03 GMT</pubDate>
+据传，亚马逊还将推出升级版 Alexa，您可能需要付费，但这并未包含在本次公告中。
+新款 Fire HD 8 有一些改进的规格，似乎是从 2022 年的 Fire 8 HD Plus，包括 3GB RAM（高于 2GB — 提升可能有助于新的 AI 功能）和 5MP 后置摄像头（高于 2MP）。与之前的 Fire 8 HD 一样，亚马逊也承诺电池续航时间长达 13 小时，并提供 32GB 或 64GB 的存储空间（可选择使用 microSD 卡进行扩展）。
+您现在就可以购买新的 Fire 8 HD 现在，颜色有黑色、翡翠绿和芙蓉色。从技术上讲，这些平板电脑的起价为 99.99 美元，但它们已经在亚马逊 Prime 大促销日之前开始销售，这意味着您可以以近一半的折扣（54.99 美元）购买基本型号。
+亚马逊可能还会很快推出更新的 Kindle 电子阅读器，因为一家西班牙零售商最近列出了一款屏幕更亮的新入门级型号。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260392/amazon-fire-hd-8-tablet-ai</guid>
+      <pubDate>Wed, 02 Oct 2024 16:51:26 GMT</pubDate>
     </item>
     <item>
-      <title>Target 新款运动鞋可扩大尺寸以适应不断成长的双脚</title>
-      <link>https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers</link>
-      <description><![CDATA[
-
-成人版 Ünos by Sz 鞋可以扩大一整码，以适应不断长大的双脚。 | 图片：Target
-
-Target 推出了一款全新运动鞋系列，其巧妙的设计可让鞋子随着穿着者一起成长，延长鞋子的穿着时间，直到鞋子不再太小。 ÜNOS by Sz 鞋款（即“U Need One Size”的缩写）有儿童尺码，售价 34.99 美元，成人尺寸售价 49.99 美元，有 16 种颜色可选。
-ÜNOS by Sz 的鞋底由 Z 形通道分成两部分，但每侧仍通过柔性织物连接。这种设计允许鞋子在宽度和长度上扩展，同时仍能提供稳固的贴合度——儿童版最多可扩展半码，成人版最多可扩展一码。
-
-
-图片：Target
-Sz 的 ÜNOS 儿童版还配有弹性鞋带，方便穿脱。
-
-这款鞋的设计旨在解决鞋类的几个不同问题。最明显的问题是，孩子们往往在鞋子穿坏之前就长大了，有时父母没有意识到他们太小，最终不得不穿不舒服的鞋子。随着脚长大，鞋子的原始尺码不再适合脚，ÜNOS by Sz 的耐穿性将得到延长。
-这款运动鞋的男女通用设计可能会让脚较大或较宽的成年人更容易找到合适的鞋子，女性的尺码最高可达 15 码。ÜNOS by Sz 也更适合那些一只脚比另一只脚大半码甚至大一码的人，这样他们就不必为了适应差异而购买两双鞋。
-这款运动鞋由 D’Wayne Edwards 博士设计，他是底特律以设计为重点的企业和 Pensole Lewis College (PLC) 的总裁。学校将 Edwards 描述为“鞋类行业最杰出的黑人设计师”，其职业生涯包括在 LA Gear、Nike 和 Jordan 任职。 
-在接受 Footwear News 采访时，Edwards 表示，他们一直希望设计出更实惠但质量更高的鞋类。 “有时，当你看到 50 美元及以下的产品时，它没有太多技术，也没有太多实质内容。我觉得 50 美元及以下的产品不需要那样。”]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers</guid>
-      <pubDate>Wed, 02 Oct 2024 14:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>DC 工作室的下一个大项目是一部关于罗宾一家的动画电影</title>
-      <link>https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn</link>
-      <description><![CDATA[
-
-DC Studios
-
-虽然我们还没有看到什么样的在詹姆斯·冈恩 (James Gunn) 和彼得·萨夫兰 (Peter Safran) 的共同领导下，该公司已经宣布了另一部围绕（一对）哥谭英雄打造的大电影。
-昨晚，冈恩——他最近刚刚完成由大卫·科伦斯韦特 (David Corenswet) 主演的即将上映的超人重启版的拍摄——在他的 X 账户上宣布，DC Studios 正在与新成立的新奥尔良工作室 Swaybox 合作制作Dynamic Duo。 
-
-
-非常高兴地宣布 DC Studios/华纳兄弟动画电影公司的最新电影《活力二人组》将在影院上映，该片讲述了罗宾的故事……或者我应该说，罗宾，就像迪克·格雷森和杰森·托德一样。富有远见的 Swaybox 的第一部故事片，融合了动画、......pic.twitter.com/IBBMgP1riP— James Gunn (@JamesGunn) 2024 年 10 月 1 日
-
-
-这部动画电影由 Matthew Aldrich（Coco、Lightyear）编剧，Swaybox 联合创始人 Arthur Mintz 执导，将记录迪克·格雷森和杰森·托德（蝙蝠侠众多罗宾中的两位）作为高飞义务警员合作的早期故事。 Matt Reeves 将与 Swaybox 的另一位联合创始人 Theresa Andersson 一起担任制片人。
-尽管 Reeves 参与其中，并且他的The PenguinHBO 衍生剧最近大获成功，但Deadline 报道称，Dynamic Duo 不会与 2022 年的电影世界联系起来蝙蝠侠。据报道，《活力二人组》将全力投入 Swaybox 的标志性“Momo 动画”——一种将 CGI 和实际定格动画与肢体表演相结合的风格。
-根据电影的美学和其关注罗宾斯而不是他们的经典导师的方式，《活力二人组》可能会给 DC 工作室带来惊喜。但这可能取决于观众对又一个 DC 电影宇宙的接受程度。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn</guid>
-      <pubDate>Wed, 02 Oct 2024 13:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉的销量终于回升</title>
-      <link>https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase</link>
-      <description><![CDATA[
-
-照片由 Mario Tama / Getty Images 拍摄
-
-在连续两个季度下滑之后，特斯拉汽车销量终于开始回升。 
-特斯拉报告称，截至 9 月的三个月内，该公司生产了 469,796 辆汽车，较 2023 年第三季度 增长 9.1%。该公司还报告称，2024 年第三季度向客户交付了 462,890 辆汽车，较 2023 年第二季度增长 6.3%。
-与上一季度的数字相比，这也是一个有衡量的改善。与 2024 年第二季度相比，产量增长了 14.4%，交付量增长了 5.8%。特斯拉生产和销售的汽车数量比今年早些时候更多。 
-Cyber​​truck 可能有所帮助，但特斯拉并没有公布其两极分化的电动卡车的数据。其生产和交付的大部分仍然是 Model 3 和 Y 汽车——生产了 443,668 辆，第三季度生产了 439,975 辆——而其他所有车型，包括 Model S、X、Cyber​​truck 和 Tesla Semi，都归入“其他车型”类别。 
-这并不是说该公司未来没有挑战。总体而言，电动汽车的销量增长速度仍低于几年前，客户纷纷购买混合动力汽车，而不是纯电动汽车。特斯拉只生产电动汽车，因此与产品线更加多样化的传统汽车制造商相比，它可能处于某种劣势。
-该公司面临着日益激烈的竞争——不仅在美国，在中国也是如此，比亚迪、吉利等公司的电动汽车销量创下了历史新高。特斯拉没有按地区公布其数据，因此无法准确指出其优势和劣势。
-特斯拉表示，将于 10 月 23 日公布其第三季度的完整收益。但在此之前，10 月 10 日，该公司预计将发布其期待已久的“机器人出租车”，首席执行官埃隆马斯克将在其中最有力地宣传特斯拉作为人工智能和机器人公司的未来。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase</guid>
-      <pubDate>Wed, 02 Oct 2024 13:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Venmo 正在实现付款安排</title>
-      <link>https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement</link>
-      <description><![CDATA[
-
-用户还可以相互安排一次性或定期付款请求。 | 插图作者：Hugo Herrera / The Verge
-
-Venmo 让向朋友和家人发送重复付款或提前安排特定付款和付款请求变得更加容易。新的 P2P 功能允许 Venmo 用户将这些付款安排为一次性付款或每月、每周或每两周付款。据 Venmo 称，该功能将在“未来几周内”广泛用于该应用。
-该功能有很多实际用途，例如为室友之间分担房租、水电费或其他固定家庭费用设置定期付款，或者向忘记按时付款的人发送定期提醒。 Venmo Teen 账户 也支持该功能，这意味着家庭成员可以按照既定的时间表用它发送零花钱，或者在生日时主动设置付款。
-
-
-图片：Venmo
-用户可以选择每月哪一天发送付款或请求，以与工资收入或账单支出等保持一致。
-
-设置完成后，将在即将到来的预定付款前一天向用户发送电子邮件和推送通知提醒。如果需要在固定期限内进行付款和请求，用户还可以设置结束日期，或者，如果不再需要，也可以在 Venmo 设置页面中手动取消正在进行的定期付款和请求。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement</guid>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ring 终于为其安全摄像头添加了 24/7 全天候录制功能</title>
-      <link>https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras</link>
+      <title>HHKB Studio Snow 让优秀的键盘变得更漂亮</title>
+      <link>https://www.theverge.com/2024/10/2/24260259/hhkb-snow-studio-trackpoint-white-edition</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras</guid>
-      <pubDate>Wed, 02 Oct 2024 13:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/2/24260259/hhkb-snow-studio-trackpoint-white-edition</guid>
+      <pubDate>Wed, 02 Oct 2024 16:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft Office 2024 现已适用于 Mac 和 PC</title>
-      <link>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</link>
+      <title>Kindle Paperwhite Kids 降价 55 美元，接近历史最低价</title>
+      <link>https://www.theverge.com/2024/10/2/24260162/kindle-paperwhite-kids-ebook-reader-deal-sale</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</guid>
-      <pubDate>Wed, 02 Oct 2024 09:12:54 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/2/24260162/kindle-paperwhite-kids-ebook-reader-deal-sale</guid>
+      <pubDate>Wed, 02 Oct 2024 16:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>JuiceBox 电动汽车充电器即将失去所有连接功能</title>
+      <link>https://www.theverge.com/2024/10/2/24260316/juicebox-ev-chargers-enel-x-way-closing-discontinued-app</link>
+      <description><![CDATA[
+
+我想我再也不用担心 Wi-Fi 会覆盖到外面了。 |图片：Umar Shakir / The Verge
+
+拥有电动汽车充电器品牌 JuiceBox 的 Enel X Way North America 正在关闭其在美国和加拿大的电动汽车业务，并将关闭商用和家用硬件的连接服务。该公司在 JuiceBox 网站发布的一份声明中表示，它将于 10 月 11 日关闭，但将“立即生效”关闭所有客户支持热线。
+如果您在家中拥有 JuiceBox 充电器，您很快就会失去与该应用程序的所有连接，但它仍会在没有这些功能的情况下为您的电动汽车充电。Enel 正在从 App Store 中删除 Enel X Way 应用程序（目前评级为 2.7 星）。该应用程序可让您检查充电状态和历史记录、设置充电时间表、查看能源使用情况，并仅为某些用户锁定充电器。该应用程序还用于该公司的商业充电站，但由于需要外部软件才能运行，因此无论如何它们都将不再起作用。
+
+
+
+屏幕截图：The Verge
+很快您将无法跟踪能源使用情况和充电会话等功能。
+
+
+JuiceBox 的前所有者 eMotorWerks 于 2017 年被 Enel 收购。JuiceBox 品牌的充电器通过多家汽车制造商销售，许多电动汽车早期采用者（包括我自己）都购买了他们的联网家用充电器。
+拥有美国子公司 Enel X Way USA 的 Enel Group 表示，这一决定是“战略性的”，它将重新专注于在已经运营电力零售业务的国家建设电动汽车基础设施：
+此外，美国电动汽车市场的动态在去年发生了很大变化，与许多其他公司一样，Enel X Way North America 受到高利率的影响，这增加了在电动汽车销售增长预期未得到满足的持续不确定性框架下扩大充电基础设施业务的成本。
+Enel Group 表示，该公司退出后，第三方公司将负责处理公司事务。该公司在美国和加拿大以外的产品和服务不受影响。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260316/juicebox-ev-chargers-enel-x-way-closing-discontinued-app</guid>
+      <pubDate>Wed, 02 Oct 2024 16:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何选择购买哪款 Apple Watch</title>
+      <link>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</guid>
+      <pubDate>Wed, 02 Oct 2024 16:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>大学生使用 Meta 智能眼镜实时监视他人</title>
+      <link>https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy</guid>
+      <pubDate>Wed, 02 Oct 2024 16:05:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
