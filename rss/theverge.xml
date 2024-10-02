@@ -4,120 +4,161 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 15:17:25 GMT</lastBuildDate>
+    <item>
+      <title>AMD 推出下一代帧生成技术，以提高更多游戏的 FPS</title>
+      <link>https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability</link>
+      <description><![CDATA[
+
+AFMF 2 在今年早些时候向 Beta 测试人员推出后现已广泛可用。 | 插图由 Alex Castro / The Verge 提供
+
+AMD 已正式推出其 Fluid Motion Frames 技术的最新版本，该技术可以提高基于 RDNA 2 和 RDNA 3 的图形硬件上的游戏帧率。继 7 月发布技术预览后，Fluid Motion Frames 2 (AFMF 2) 于周二与其支持的 Adrenalin 24.9.1 GPU 驱动程序一起发布，现已广泛可用。
+AFMF 是一种类似于Nvidia 的 DLSS 帧生成，但在驱动程序级别而不是游戏特定的集成上运行。第二代 AFMF 更新可以在 OpenGL、Vulkan、DirectX 11 或 DirectX 12 游戏中启用 - 这意味着现在可以在不支持 FSR 和 DLSS 的游戏中提高 FPS - 目前适用于 AMD Radeon RX 6000、RX 7000、700M 和 800M GPU。
+
+
+图片：AMD
+根据 AMD 的测试，AFMF 2（与其他优化一起）可以提供与原始游戏性能相比令人印象深刻的帧率提升。
+
+根据 AMD 的说法，AFMF 2 可以将 FPS“平均”提高高达 250%，但这是在与该公司的 FSR 2 结合测试时得出的技术和 Hypr-RX 优化套件。实际性能会因 GPU、游戏和分辨率而异。 Digital Foundry 报告，在使用 Radeon RX 7900 GRE GPU 以 4K 分辨率测试 Control、Cyber​​Punk 2077 和 Senua’s Saga: Hellblade II 中的 AFMF 2 测试版时，FPS 提升“通常在 2 倍范围内”。
+
+AFMF 更新特别包括快速运动优化，这应该可以解决 第一代 AFMF 禁用了快速移动游戏中的帧生成。AMD 还为 AFMF 2 添加了两种 AI 优化的可调模式，允许用户控制该功能如何影响游戏性能。搜索模式可在快速运动场景中调整游戏中的 FPS 流畅度和图像质量，而性能模式可以提高低功耗设备上的 AFMF 效率。
+AFMF 2 支持 RX 7000 GPU 上的无边框全屏游戏模式和 AMD 的 Radeon Chill 低延迟 FPS 上限，以限制 FPS 助推器可能造成的延迟。除了游戏之外，它还提供了一项新的“几何缩小”功能，当视频在小于其原始分辨率的窗口中播放时，该功能可以减少混叠和其他视觉伪影。在 Radeon RX 7000 和集成 Radeon 800M GPU 上运行的 DirectX 11 应用程序支持此功能。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260227/amd-afmf-2-fluid-motion-frame-generation-fps-boost-availability</guid>
+      <pubDate>Wed, 02 Oct 2024 14:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automattic 在发起 WordPress 之战之前要求 WP Engine 分成</title>
+      <link>https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+WordPress.com 的母公司 Automattic 要求竞争对手托管服务 WP Engine 每月上交 8% 的收入，然后点燃 一场非常公开的争斗，关于开源项目可以做什么和不能做什么。
+周三，Automattic 公布了其于 9 月 20 日发送给 WP Engine 的拟议交易。该提案列出了一份为期七年的协议，该协议赋予 WP Engine 使用 WordPress 商标的权利，以换取巨额付款。 8% 的提成可以作为特许权使用费支付给 Automattic，也可以作为对 WordPress.org 开源项目做出贡献的 WP Engine 员工的工资。
+如果 WP Engine 选择支付特许权使用费，Automattic 表示将公开将其部分贡献归功于 Five for the Future — 一个鼓励公司将 5% 的资源用于 WordPress.org 项目的计划 — “这样社区就能理解你对 WordPress 长期繁荣的承诺。”
+
+另一方面，选择向 WP Engine 员工贡献 8% 将使 WordPress.org 和 Automattic “完全审计权”和“访问公司员工记录和时间跟踪”。该协议还禁止“分叉或修改”Automattic 的软件，包括 WooCommerce 等插件和扩展。
+但 WP Engine 从未接受过这一提议，因为它认为其对 WordPress 商标和“WP”缩写的使用符合合理使用准则。Automattic 此后废除了这些条款，理由是“WP Engine 的行为、欺骗和无能”。The Verge 联系了 WP Engine 并请求其发表评论，但没有立即得到回复。
+Automattic 和 WP Engine 一直陷入公开争议，争论的焦点是 WP Engine 是否可以使用 WordPress.org 的开源代码而不做出太多贡献。在 9 月 20 日的 WordCamp 会议上，Automattic 和 WordPress.com 首席执行官 Matt Mullenweg 指责 WP Engine 未能为 WordPress.org 社区做出贡献。他威胁要采取法律行动，除非 WP Engine 停止其对 WordPress 商标和品牌的涉嫌使用。
+WP Engine 随后发送了 停止并终止命令给 Automattic，称 Mullenweg“开始了一系列在 WordCamp 主题演讲之前，WP Engine 向公司董事会成员和首席执行官发送了“骚扰短信和电话”的警告。然而，Automattic 称这是 WP Engine 停止令中的“众多谎言之一”，并表示它“要求达成口头协议，WP Engine 将把一定比例的收入返还给 WordPress。”
+Mullenweg 也是 WordPress.org 的负责人，该组织于 10 月 1 日禁止 WP Engine 进入其服务器，切断了对更新和插件的访问。WP Engine 此后部署了自己的“解决方案”，允许客户继续正常使用托管服务。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle</guid>
+      <pubDate>Wed, 02 Oct 2024 14:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>智慧回响的最佳技巧是将塞尔达变成地下城主</title>
+      <link>https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24258654/the-legend-of-zelda-echoes-of-wisdom-edit-dungeons-links-awakening</guid>
+      <pubDate>Wed, 02 Oct 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>丰田向空中出租车初创公司再注资 5 亿美元</title>
+      <link>https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock</link>
+      <description><![CDATA[
+
+丰田在空中出租车上投入巨资。 |图片：丰田
+
+丰田向 Joby Aviation 再投资 5 亿美元，以支持这家空中出租车初创公司认证和商业化生产用于叫车服务的 eVTOL（电动垂直起降）飞机。该汽车制造商自 2018 年以来已累计投资 8.94 亿美元。
+丰田的投资将分两笔 2.5 亿美元进行，第一笔将于今年完成，第二笔将于 2025 年完成。该汽车制造商还将与 Joby 建立制造联盟，以开展第一阶段的商业化工作。两家公司已于 2023 年签署协议，允许丰田为 Joby 的空中出租车生产动力总成部件。
+
+总部位于加州的 Joby Aviation 由 JoeBen Bevirt 经营，他于 2009 年创立了该公司。该公司在 2018 年获得 1 亿美元的巨额投资之前一直不为人知，其中包括英特尔、丰田和捷蓝航空的参与。
+这笔资金帮助 Joby 开发了原型机并在北加州的一个私人机场进行了试飞。丰田对它所看到的东西很满意，并派出自己的工程师与 Joby Aviation 并肩工作。
+Joby 的全电动飞机有六个旋翼，可容纳五个人，包括飞行员。该飞行器可以像直升机一样垂直起飞，然后使用倾转旋翼切换到向前飞行。 Joby 表示，它的最高时速可达 200 英里/小时，一次充电即可飞行 150 英里，而且比传统飞机安静 100 倍。
+该公司最近在曼哈顿进行了几次表演飞行，并计划于 2025 年开始在纽约市和洛杉矶等地开展商业客运飞行。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock</guid>
+      <pubDate>Wed, 02 Oct 2024 14:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Target 新款运动鞋可扩大尺寸以适应不断成长的双脚</title>
+      <link>https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers</link>
+      <description><![CDATA[
+
+成人版 Ünos by Sz 鞋可以扩大一整码，以适应不断长大的双脚。 | 图片：Target
+
+Target 推出了一款全新运动鞋系列，其巧妙的设计可让鞋子随着穿着者一起成长，延长鞋子的穿着时间，直到鞋子不再太小。 ÜNOS by Sz 鞋款（即“U Need One Size”的缩写）有儿童尺码，售价 34.99 美元，成人尺寸售价 49.99 美元，有 16 种颜色可选。
+ÜNOS by Sz 的鞋底由 Z 形通道分成两部分，但每侧仍通过柔性织物连接。这种设计允许鞋子在宽度和长度上扩展，同时仍能提供稳固的贴合度——儿童版最多可扩展半码，成人版最多可扩展一码。
+
+
+图片：Target
+Sz 的 ÜNOS 儿童版还配有弹性鞋带，方便穿脱。
+
+这款鞋的设计旨在解决鞋类的几个不同问题。最明显的问题是，孩子们往往在鞋子穿坏之前就长大了，有时父母没有意识到他们太小，最终不得不穿不舒服的鞋子。随着脚长大，鞋子的原始尺码不再适合脚，ÜNOS by Sz 的耐穿性将得到延长。
+这款运动鞋的男女通用设计可能会让脚较大或较宽的成年人更容易找到合适的鞋子，女性的尺码最高可达 15 码。ÜNOS by Sz 也更适合那些一只脚比另一只脚大半码甚至大一码的人，这样他们就不必为了适应差异而购买两双鞋。
+这款运动鞋由 D’Wayne Edwards 博士设计，他是底特律以设计为重点的企业和 Pensole Lewis College (PLC) 的总裁。学校将 Edwards 描述为“鞋类行业最杰出的黑人设计师”，其职业生涯包括在 LA Gear、Nike 和 Jordan 任职。 
+在接受 Footwear News 采访时，Edwards 表示，他们一直希望设计出更实惠但质量更高的鞋类。 “有时，当你看到 50 美元及以下的产品时，它没有太多技术，也没有太多实质内容。我觉得 50 美元及以下的产品不需要那样。”]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers</guid>
+      <pubDate>Wed, 02 Oct 2024 14:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>DC 工作室的下一个大项目是一部关于罗宾一家的动画电影</title>
+      <link>https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn</link>
+      <description><![CDATA[
+
+DC Studios
+
+虽然我们还没有看到什么样的在詹姆斯·冈恩 (James Gunn) 和彼得·萨夫兰 (Peter Safran) 的共同领导下，该公司已经宣布了另一部围绕（一对）哥谭英雄打造的大电影。
+昨晚，冈恩——他最近刚刚完成由大卫·科伦斯韦特 (David Corenswet) 主演的即将上映的超人重启版的拍摄——在他的 X 账户上宣布，DC Studios 正在与新成立的新奥尔良工作室 Swaybox 合作制作Dynamic Duo。 
+
+
+非常高兴地宣布 DC Studios/华纳兄弟动画电影公司的最新电影《活力二人组》将在影院上映，该片讲述了罗宾的故事……或者我应该说，罗宾，就像迪克·格雷森和杰森·托德一样。富有远见的 Swaybox 的第一部故事片，融合了动画、......pic.twitter.com/IBBMgP1riP— James Gunn (@JamesGunn) 2024 年 10 月 1 日
+
+
+这部动画电影由 Matthew Aldrich（Coco、Lightyear）编剧，Swaybox 联合创始人 Arthur Mintz 执导，将记录迪克·格雷森和杰森·托德（蝙蝠侠众多罗宾中的两位）作为高飞义务警员合作的早期故事。 Matt Reeves 将与 Swaybox 的另一位联合创始人 Theresa Andersson 一起担任制片人。
+尽管 Reeves 参与其中，并且他的The PenguinHBO 衍生剧最近大获成功，但Deadline 报道称，Dynamic Duo 不会与 2022 年的电影世界联系起来蝙蝠侠。据报道，《活力二人组》将全力投入 Swaybox 的标志性“Momo 动画”——一种将 CGI 和实际定格动画与肢体表演相结合的风格。
+根据电影的美学和其关注罗宾斯而不是他们的经典导师的方式，《活力二人组》可能会给 DC 工作室带来惊喜。但这可能取决于观众对又一个 DC 电影宇宙的接受程度。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260171/dc-studios-dynamic-duo-arthur-mintz-theresa-andersson-james-gunn</guid>
+      <pubDate>Wed, 02 Oct 2024 13:56:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉的销量终于回升</title>
+      <link>https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase</link>
+      <description><![CDATA[
+
+照片由 Mario Tama / Getty Images 拍摄
+
+在连续两个季度下滑之后，特斯拉汽车销量终于开始回升。 
+特斯拉报告称，截至 9 月的三个月内，该公司生产了 469,796 辆汽车，较 2023 年第三季度 增长 9.1%。该公司还报告称，2024 年第三季度向客户交付了 462,890 辆汽车，较 2023 年第二季度增长 6.3%。
+与上一季度的数字相比，这也是一个有衡量的改善。与 2024 年第二季度相比，产量增长了 14.4%，交付量增长了 5.8%。特斯拉生产和销售的汽车数量比今年早些时候更多。 
+Cyber​​truck 可能有所帮助，但特斯拉并没有公布其两极分化的电动卡车的数据。其生产和交付的大部分仍然是 Model 3 和 Y 汽车——生产了 443,668 辆，第三季度生产了 439,975 辆——而其他所有车型，包括 Model S、X、Cyber​​truck 和 Tesla Semi，都归入“其他车型”类别。 
+这并不是说该公司未来没有挑战。总体而言，电动汽车的销量增长速度仍低于几年前，客户纷纷购买混合动力汽车，而不是纯电动汽车。特斯拉只生产电动汽车，因此与产品线更加多样化的传统汽车制造商相比，它可能处于某种劣势。
+该公司面临着日益激烈的竞争——不仅在美国，在中国也是如此，比亚迪、吉利等公司的电动汽车销量创下了历史新高。特斯拉没有按地区公布其数据，因此无法准确指出其优势和劣势。
+特斯拉表示，将于 10 月 23 日公布其第三季度的完整收益。但在此之前，10 月 10 日，该公司预计将发布其期待已久的“机器人出租车”，首席执行官埃隆马斯克将在其中最有力地宣传特斯拉作为人工智能和机器人公司的未来。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260159/tesla-q3-2024-delivery-production-increase</guid>
+      <pubDate>Wed, 02 Oct 2024 13:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Venmo 正在实现付款安排</title>
+      <link>https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement</link>
+      <description><![CDATA[
+
+用户还可以相互安排一次性或定期付款请求。 | 插图作者：Hugo Herrera / The Verge
+
+Venmo 让向朋友和家人发送重复付款或提前安排特定付款和付款请求变得更加容易。新的 P2P 功能允许 Venmo 用户将这些付款安排为一次性付款或每月、每周或每两周付款。据 Venmo 称，该功能将在“未来几周内”广泛用于该应用。
+该功能有很多实际用途，例如为室友之间分担房租、水电费或其他固定家庭费用设置定期付款，或者向忘记按时付款的人发送定期提醒。 Venmo Teen 账户 也支持该功能，这意味着家庭成员可以按照既定的时间表用它发送零花钱，或者在生日时主动设置付款。
+
+
+图片：Venmo
+用户可以选择每月哪一天发送付款或请求，以与工资收入或账单支出等保持一致。
+
+设置完成后，将在即将到来的预定付款前一天向用户发送电子邮件和推送通知提醒。如果需要在固定期限内进行付款和请求，用户还可以设置结束日期，或者，如果不再需要，也可以在 Venmo 设置页面中手动取消正在进行的定期付款和请求。]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement</guid>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ring 终于为其安全摄像头添加了 24/7 全天候录制功能</title>
+      <link>https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras</guid>
+      <pubDate>Wed, 02 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Office 2024 现已适用于 Mac 和 PC</title>
       <link>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</guid>
       <pubDate>Wed, 02 Oct 2024 09:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>JD Vance 回避了 1 月 6 日的问题，转而谈及 Facebook 的“审查制度”</title>
-      <link>https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-在与民主党候选人 Tim Walz 州长的辩论中，关于共和党副总统候选人参议员 JD Vance (R-OH) 是否会挑战 2024 年选举结果的问题迅速演变成一场关于审查制度和大型科技公司的争斗（明尼苏达州民主党人）。
-“您曾表示，您不会认证上次总统选举，并会要求各州提交替代选举人。这被称为违宪和非法行为，”主持人诺拉·奥唐纳 (Norah O’Donnell) 问万斯。“您会再次试图挑战今年的选举结果吗，即使每位州长都认证了结果？”
-万斯表示，与民主党人谴责的对民主的威胁相比，真正令人担忧的是“大型科技公司压制同胞声音”的威胁。万斯表示，哈里斯希望“审查那些散布虚假信息的人”，这“对民主的威胁比我们在过去四四十年中看到的任何威胁都要大得多”。“卡马拉·哈里斯正在大规模地进行审查，”万斯说，并补充说，这比前总统唐纳德·特朗普在 1 月 6 日要求人们“和平”抗议美国国会大厦暴动的威胁要大得多。万斯将特朗普拒绝相信 2020 年大选结果与民主党人对俄罗斯外国干涉 2016 年大选的担忧进行了比较，他们指出，外国代理人购买 Facebook 广告是导致希拉里·克林顿输给特朗普的原因之一。 （共和党领导的参议院委员会于 2020 年得出结论，俄罗斯确实试图干预 2016 年大选，以使特朗普的候选资格受益。）
-“1 月 6 日不是 Facebook 广告，”沃尔兹反驳道，称万斯的事件版本是“修正主义历史”。
-“1 月 6 日不是 Facebook 广告”
-万斯显然是在暗指最高法院今年早些时候裁定的穆尔蒂诉密苏里州案背后的事件。该案涉及拜登政府强迫科技平台进行审查的指控。法官根据立场裁定拜登政府胜诉，但他们也对政府与 Facebook 等平台的接触与这些平台后来的审核决定之间是否存在有意义的联系表示怀疑。
-沃尔兹试图将辩论重新引回最初的问题。“他输掉了 2020 年大选吗？”他问万斯。
-“蒂姆，我专注于未来，”万斯回答道。 “卡马拉·哈里斯是否在 2020 年新冠疫情爆发后，阻止美国人畅所欲言？”
-“这是一个绝对错误的答案，”沃尔兹说。
-“你不谈论审查制度，这是一个绝对错误的答案，”万斯反驳道。
-在另一个时候，万斯指责哈里斯想要“利用政府和大型科技公司的力量，让人们闭嘴，不让他们说出自己的想法。” 特朗普本人最近暗示有些人“应该因为谈论我们的法官和我们的大法官的方式而被关进监狱”，指的是对最高法院的批评。
-沃尔兹用广泛使用但具有误导性的说法回应了万斯，即“在拥挤的剧院里大喊失火”是最高法院对不受保护的言论的测试。万斯没有对这一前提提出异议，但他声称“你们想把那些说幼儿不应该戴口罩的人踢出 Facebook。这不是在拥挤的剧院里大喊失火。这是在批评政府的政策，这是每个美国人的权利。”
-“我不经营 Facebook，”沃尔兹说。“这不是辩论，除了唐纳德·特朗普的世界之外，它不是任何地方的任何事情。”]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate</guid>
-      <pubDate>Wed, 02 Oct 2024 04:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯普林菲尔德吃宠物的骗局并不是万斯今晚散布的唯一移民谎言</title>
-      <link>https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate</guid>
-      <pubDate>Wed, 02 Oct 2024 03:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最值得购买的降噪耳机</title>
-      <link>https://www.theverge.com/21345733/best-noise-canceling-headphones</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21345733/best-noise-canceling-headphones</guid>
-      <pubDate>Tue, 01 Oct 2024 23:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新披露的投诉称，Snap 员工非常清楚该应用的儿童安全问题</title>
-      <link>https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259653/snap-new-mexico-ag-lawsuit-csam-kids-safety</guid>
-      <pubDate>Tue, 01 Oct 2024 22:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的健身追踪器</title>
-      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
-      <pubDate>Tue, 01 Oct 2024 22:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Christian Selig 为 Vision Pro 开发的非官方 YouTube 应用刚刚被下架</title>
-      <link>https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig</link>
-      <description><![CDATA[
-
-图片：Christian Selig
-
-Juno 是专为 Apple Vision Pro 打造的第三方 YouTube 应用，现已从 App Store 中下架。 在周二的一篇文章中，开发人员 Christian Selig 表示，这款应用在谷歌警告该应用违反了 YouTube 的指导方针几个月后就被撤下。
-与 Netflix一样，谷歌并没有为 Vision Pro 制作 YouTube 应用。这意味着您只能在 Safari 中观看 YouTube，它将视频分解到 Apple 的原生视频播放器中。Google 表示，Vision Pro 的 YouTube 应用已于 2 月“列入计划”，但此后我们就没有听到任何更新消息。
-
-
-令人难过的消息，但 Juno for YouTube 已从 App Store 中移除。构建过程非常有趣，感谢所有使用过并喜欢它的人！❤️ https://t.co/W1xLBpKSgd— Christian Selig (@ChristianSelig) 2024 年 10 月 1 日
-
-
-Selig 今年早些时候创建了 Juno 来填补这一空白。它提供的功能包括以沉浸式 360 度或 180 度格式观看视频、捏合和拖动浏览内容以及使用 Siri 控制播放。Selig 表示，Juno 不会屏蔽广告，而是充当“YouTube 的网络包装器，类似于浏览器扩展”。
-在 4 月份的一封电子邮件中，YouTube 的法律团队告诉 Selig，Juno 应用“违反”了该平台的 API 服务条款——尽管 Selig 表示 Juno 不使用 YouTube 的 API——并且“强烈暗示 YouTube 的商标和图像”。塞利格表示，收到这条消息后，他从 Juno 主页上移除了 YouTube 的标志，并在 App Store 的副标题和描述中添加了“非官方”字样。
-尽管进行了这些更改，但塞利格表示，他无法与 YouTube 达成协议：
-
-Juno 只是一个 Web 视图，其作用只不过是一个浏览器扩展，它修改 CSS 以使网站和视频播放器看起来更像“visionOS”。除了网站上已有的徽标外，没有放置任何其他徽标，并且“for YouTube”后缀在他们的品牌指南中是允许的。
-我向 YouTube 说明了很多，他们不会真正澄清或让步，由于双方无法得出结论，几分钟前我收到了 Apple 发来的电子邮件，说 Juno 已从 App Store 中删除。
-
-Selig 表示，他不打算反对删除该应用程序，就像他对Apollo 应用程序 for Reddit所做的那样。如果您已经拥有 Juno，它应该会继续工作，除非您删除该应用程序或 YouTube 推送破坏某些功能的更新。The Verge 联系了 Google 和 Apple 并请求其发表评论，但并未立即得到回复。
-
-对于使用该应用程序在虚拟现实中观看视频的 Vision Pro 用户来说，它从 App Store 中被移除是一件令人沮丧的事情。Vision Pro 上实际上没有其他 YouTube 应用程序可以与 Juno 相媲美，但至少有一种从浮动 CRT 电视观看节目（和 YouTube 视频）的方法。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig</guid>
-      <pubDate>Tue, 01 Oct 2024 22:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，任天堂已关闭了据称具有免疫力的 Switch 模拟器 Ryujinx</title>
-      <link>https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259791/nintendo-ryujinx-switch-emulator-gdkchan-removed-downloads-github</guid>
-      <pubDate>Tue, 01 Oct 2024 22:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以买到的最好的即时相机</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <pubDate>Tue, 01 Oct 2024 22:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>下一代 iPhone SE 可能会取消 Home 键，增加 Face ID 和 Apple Intelligence</title>
-      <link>https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button</link>
-      <description><![CDATA[
-
-iPhone 14，下一代 iPhone SE 可能与它很像。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-据彭博社的 Mark Gurman 称，一款感觉与其他现代、非廉价 iPhone 非常相似的 iPhone SE 显然将于明年初上市。他今天重申，这款手机将使用 Face ID，并能够运行 Apple Intelligence。
-新款 iPhone SE 机型可能支持 Apple Intelligence 这在很大程度上说明了它们的性能 — 它需要 大量 RAM 来运行本地 AI 功能。预计它们的外观将类似于 iPhone 14，取消了厚重的顶部和底部边框以及 Home 键；这两项功能对于入门级智能手机而言都是首创。还有传言称，iPhone SE 4 将采用 OLED 屏幕，而不是通常的 LCD。
-
-Gurman 写道，苹果将在推出新款 SE 机型的同时，推出 11 英寸和 13 英寸的 iPad Air，并进行“内部改进”。与此同时，苹果还将推出两种尺寸的全新妙控键盘，并配备一些 iPad Pro 键盘功能。 
-最后，据 Gurman 称，今年年底前，苹果将发布搭载 M4 的新款电脑：小尺寸 Mac Mini、新款 MacBook Pro 和 iMac。他认为 iPad Mini 也有可能更新。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button</guid>
-      <pubDate>Tue, 01 Oct 2024 21:01:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
