@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 06:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 09:17:05 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Office 2024 现已适用于 Mac 和 PC</title>
+      <link>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/2/24260090/microsoft-office-2024-mac-pc-release-pricing</guid>
+      <pubDate>Wed, 02 Oct 2024 09:12:54 GMT</pubDate>
+    </item>
     <item>
       <title>JD Vance 回避了 1 月 6 日的问题，转而谈及 Facebook 的“审查制度”</title>
       <link>https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate</link>
@@ -111,27 +118,6 @@ Gurman 写道，苹果将在推出新款 SE 机型的同时，推出 11 英寸�
 最后，据 Gurman 称，今年年底前，苹果将发布搭载 M4 的新款电脑：小尺寸 Mac Mini、新款 MacBook Pro 和 iMac。他认为 iPad Mini 也有可能更新。]]></description>
       <guid>https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button</guid>
       <pubDate>Tue, 01 Oct 2024 21:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 的一体化应用程序将于今年晚些时候取代 GeForce Experience</title>
-      <link>https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-Nvidia 的 GPU 测试版应用即将全面发布，该公司表示打算“将所有剩余的 GeForce Experience 用户”在年底之前迁移到新应用程序。今天，Nvidia 为该应用添加了更多功能，包括打开和关闭 G-Sync 的功能、对 RTX HDR 的多显示器支持以及驱动程序回滚。如果正在播放 DRM 内容，该应用现在还可以通知您，这可能会停止您的 ShadowPlay 录制。
-Nvidia 表示，该应用即将推出的更新还将引入 Nvidia 控制面板的其余功能，例如环绕声选项、自定义分辨率和多显示器设置。很快，GeForce Experience 应用程序和 Nvidia 控制面板都将被 Nvidia 应用程序取代，该应用程序于 2 月首次推出。
-
-
-新的 NVIDIA App 测试版更新现在还允许您更改系统统计信息的字体样式、颜色等pic.twitter.com/n3i4Q1DtBW— Jacob Freeman (@GeForce_JacobF) 2024 年 10 月 1 日
-
-
-该应用还允许您更改字体样式，以使统计数据、帧速率和其他信息更易于阅读，并且您可以从“数千种颜色”中选择应用 UI。现在，用户可以对游戏和应用程序进行持续的排序和过滤，还可以隐藏和删除手动添加的程序。
-这是一个关于 RTX HDR 的 Digital Foundry 视频，该视频最初是为视频而宣布的，但在游戏方面也令人印象深刻：
-
-要尝试它，请按 Alt + Z 从游戏内部调出 Nvidia 的叠加层，选择“游戏过滤器”，然后选择 HDR。]]></description>
-      <guid>https://www.theverge.com/2024/10/1/24259664/nvidia-app-beta-replace-geforce-experience-control-panel</guid>
-      <pubDate>Tue, 01 Oct 2024 20:46:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
