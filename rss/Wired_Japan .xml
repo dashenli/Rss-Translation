@@ -4,11 +4,25 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 02 Oct 2024 21:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 01:12:23 GMT</lastBuildDate>
     <item>
-      <title>想象多元化“城市的未来”的 16 本书</title>
+      <title>开源是选举“智能手机投票”软件的关键</title>
+      <link>https://wired.jp/article/vote-from-mobile-phone/</link>
+      <description><![CDATA[风险投资家布拉德利·图斯克刚刚出版了一本关于使用智能手机进行在线投票的书。图斯克在接受《连线》采访时谈到了他独立开发的用于实现“智能手机投票”的开源软件以及如何使用该软件进行选举。]]></description>
+      <guid>https://wired.jp/article/vote-from-mobile-phone/</guid>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>工业空间计算旨在达到“人眼水平”：芬兰的 Varjo 展望“积极的未来”</title>
+      <link>https://wired.jp/article/varjo-spatial-computing/</link>
+      <description><![CDATA[芬兰公司 Varjo 正在推出一款超高分辨率耳机，可为 XR 设备“实现人眼级别的分辨率”。随着空间计算竞争的加剧，随着苹果推出VISion Pro，他们将如何占领市场？]]></description>
+      <guid>https://wired.jp/article/varjo-spatial-computing/</guid>
+      <pubDate>Wed, 02 Oct 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>畅想多元化“城市未来”的 16 本书</title>
       <link>https://wired.jp/article/vol54-redrawing-the-future-of-cities/</link>
-      <description><![CDATA[为了创建一个能够振兴未来的“再生”城市，我们需要思考不受统一总体规划约束的城市发展和城镇规划的新方式。那么，由多学科远见和编辑团队精选的这本书指南将会有所帮助。]]></description>
+      <description><![CDATA[为了创造一个振兴未来的“再生”城市，我们需要思考不受统一总体规划约束的城市发展和城镇规划的新方式。那么，由多学科远见和编辑团队精选的这本书指南将会有所帮助。]]></description>
       <guid>https://wired.jp/article/vol54-redrawing-the-future-of-cities/</guid>
       <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>网站中的一个简单错误是否会导致车辆被远程控制？ 数百万辆汽车面临的风险</title>
       <link>https://wired.jp/article/kia-web-vulnerability-vehicle-hack-track/</link>
-      <description><![CDATA[一个研究小组在起亚的门户网站中发现了一个严重漏洞。这可以用来远程跟踪数百万辆车辆、解锁车门、启动发动机等等。这是影响许多制造联网汽车的汽车制造商面临的严重安全风险的最新例子。]]></description>
+      <description><![CDATA[一个研究小组在起亚的门户网站中发现了一个严重漏洞。这可以用来远程跟踪数百万辆车辆、解锁车门、启动发动机等。这是影响许多制造联网汽车的汽车制造商面临的严重安全风险的最新例子。]]></description>
       <guid>https://wired.jp/article/kia-web-vulnerability-vehicle-hack-track/</guid>
       <pubDate>Tue, 01 Oct 2024 23:00:00 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 01 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>关于泰坦潜水器事故的公开听证会已经结束。原因无法确定，影响将是长期的</title>
+      <title>关于泰坦号潜艇事故的公开听证会结束。原因无法确定，影响将是长期的</title>
       <link>https://wired.jp/article/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/</link>
       <description><![CDATA[美国海岸警卫队关于OceanGate潜水器泰坦号沉没事件的公开听证会于9月27日（美国时间）结束。事故责任和明确原因尚未确定，未来调查报告的准备工作仍存在问题。]]></description>
       <guid>https://wired.jp/article/titan-submersible-hearings-end-oceangate-coast-guard-heres-what-comes-next/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 01 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>日本《连线》编辑部选出 2024 年 9 月发表的 5 篇著名文章</title>
+      <title>日本《连线》编辑部评选出 2024 年 9 月发表的 5 篇著名文章</title>
       <link>https://wired.jp/article/editors-5-stories-september-2024/</link>
       <description><![CDATA[以下是今年 9 月在 WIRED.jp 上发表的文章中引起我们注意的五个故事，包括日本第一个数字货币的可能性以及对以太坊创始人 Vitalik Buterin 的采访。]]></description>
       <guid>https://wired.jp/article/editors-5-stories-september-2024/</guid>
@@ -62,9 +76,9 @@
       <pubDate>Mon, 30 Sep 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电影《美国：内战》影评（含剧透）：亚历克斯·加兰唤起了美国社会潜意识中隐藏的诸多神话</title>
+      <title>电影《内战：美国的末日》影评（含剧透）：亚历克斯·加兰唤起了美国社会潜意识中隐藏的诸多神话</title>
       <link>https://wired.jp/article/civil-war-review-junichi-ikeda/</link>
-      <description><![CDATA[因《机械姬》等影片而闻名的亚历克斯·加兰的新片《美国：内战》并不是一部伪装成纪录片的战争或政治电影。而且，这部作品所描绘的“分裂”并不是蓝（民主党）与红（共和）等“今天的”，而是基于美国社会的“深层集体心理”的分裂，这是一个超越时间的美国。这是一个植根于神话的分裂设计思想家池田纯一揭示了加兰潜入这部作品的真实意图（请注意，这触及了故事的重要核心）。]]></description>
+      <description><![CDATA[因《机械姬》等影片而闻名的亚历克斯·加兰的新片《美国：内战》并不是一部伪装成纪录片的战争或政治电影。而且，这部作品所描绘的“分裂”并不是蓝（民主党）与红（共和）等“今天的”，而是基于美国社会的“深层集体心理”的分裂，这是一个超越时间的美国。这是一种植根于神话的分裂设计思想家池田纯一揭示了加兰潜入这部作品的真实意图（请注意，这触及了故事的重要核心）。]]></description>
       <guid>https://wired.jp/article/civil-war-review-junichi-ikeda/</guid>
       <pubDate>Mon, 30 Sep 2024 22:00:00 GMT</pubDate>
     </item>
@@ -78,14 +92,14 @@
     <item>
       <title>可以用肉眼观察吗？ 色金山阿特拉斯彗星 (C/2023 A3) 正在接近地球，这是什么情况？</title>
       <link>https://wired.jp/article/comet-c2023-a3-tsuchinshan-atlas/</link>
-      <description><![CDATA[彗星“色金山阿特拉斯（C/2023 A3）”接近地球时备受瞩目。我们将详细解释这颗可以用肉眼观察到的彗星，包括它的起源和观看它的最佳时间。]]></description>
+      <description><![CDATA[彗星“色金山阿特拉斯（C/2023 A3）”接近地球时备受瞩目。这颗可以用肉眼观察到的彗星将被详细解释，包括它的起源和观看它的最佳时间。]]></description>
       <guid>https://wired.jp/article/comet-c2023-a3-tsuchinshan-atlas/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>探索“多样性生物”和“生态系统服务”在城市中的作用：Yuya Fukano，进化生态学研究员</title>
       <link>https://wired.jp/article/vol54-regenerative-city-3/</link>
-      <description><![CDATA[专门研究生物多样性和进化生态学的研究员 Yuya Fukano 指出了利用生态系统服务并与多种生物物种共存以实现“再生城市”的重要性。]]></description>
+      <description><![CDATA[专门研究生物多样性和进化生态学的研究员 Yuya Fukano 指出了利用生态系统服务和与多样化物种共存来实现“再生城市”的重要性。]]></description>
       <guid>https://wired.jp/article/vol54-regenerative-city-3/</guid>
       <pubDate>Mon, 30 Sep 2024 03:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[女性患偏头痛的可能性大约是男性的三倍。此外，症状往往比男性更严重，但为什么呢？ 通过研究显示女性荷尔蒙与偏头痛之间的联系，这个谜团正在被解开。]]></description>
       <guid>https://wired.jp/article/the-science-of-why-migraines-affect-women-more-than-men/</guid>
       <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国环保组织在报告中指出，“亚马逊送货的排放量将继续上升”</title>
-      <link>https://wired.jp/article/amazons-shipping-and-delivery-emissions-just-keep-going-up/</link>
-      <description><![CDATA[亚马逊正在推出专用电动汽车送货车辆和飞机来应对气候变化。然而，环保组织发布的报告指出，该公司在美国的实际二氧化碳减排努力与目标相去甚远。亚马逊对此提出异议。]]></description>
-      <guid>https://wired.jp/article/amazons-shipping-and-delivery-emissions-just-keep-going-up/</guid>
-      <pubDate>Sun, 29 Sep 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们不知道什么？ 不可知论的推荐</title>
-      <link>https://wired.jp/article/sz-what-dont-we-know/</link>
-      <description><![CDATA[从对无知的研究中可以学到很多东西。根据哲学家丹尼尔·德尼古拉和马库斯·加布里埃尔的新书，无知意味着什么？]]></description>
-      <guid>https://wired.jp/article/sz-what-dont-we-know/</guid>
-      <pubDate>Sun, 29 Sep 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
