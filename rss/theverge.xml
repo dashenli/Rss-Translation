@@ -4,139 +4,145 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Oct 2024 12:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 15:18:11 GMT</lastBuildDate>
     <item>
-      <title>Epic 知道其游戏商店的社交功能很“糟糕”，但它想解决这个问题</title>
-      <link>https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck</link>
+      <title>当您失去互联网连接时，Spotify 现在会自动创建离线播放列表</title>
+      <link>https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup</link>
       <description><![CDATA[
 
-插图：Alex Castro / The Verge
+如果您在飞行前忘记创建离线播放列表，Spotify 现在可以根据缓存的曲目自动为您生成一个。 | 图片：Spotify
 
-Epic 的游戏商店终于登陆移动设备。接下来，该公司计划添加一些让人们想要使用它的功能——无论是在移动设备上还是在 PC 上。Epic Games 想要推出的一个关键功能是商店老板 Steve Allison 所说的“社交框架”——想想你在游戏机或 Steam 上看到的社交和聊天功能。
-“我们在 PC 上的社交功能很烂，”Allison 在接受The Verge采访时表示。“我们就直说吧。”社交功能是“为Fortnite提供动力的电池”，Allison 说，Epic 希望“将这个久经考验的社交框架从Fortnite提升到商店级别。”这个想法是，你将能够跨设备与 Epic Games 好友聚会聊天，理论上意味着 Android、iOS 和 PC 上的好友都可以通过 Epic Games 平台（而不仅仅是 Fortnite）一起玩。
-不过，我们可能还要等一段时间才能试用社交功能，因为 Allison 表示，这些功能至少要到 2025 年夏天之后才会推出。
-更直接的是，Epic 计划在第四季度的某个时候将其免费游戏计划引入移动端（如果你看日历，就是这个季度！）。与 PC 不同，免费移动端游戏一开始可能不会每周提供一次，但一旦 Epic 推出在其移动商店自行发布的工具，它们可能会改为每周提供一次。  （艾利森在周二的 Unreal Fest 小组讨论中表示，该功能可能会在 2025 年上半年推出。）由于苹果的核心技术费用，一些免费游戏可能只能在 Android 上使用，这可能会给开发者带来他们可能无法支付的成本。 
+Spotify 推出了一项新功能，即使您的设备意外离线，它也能继续播放您的音乐。该应用程序将自动生成离线备份播放列表，其中包含已下载和缓存的最近流式传输和排队的歌曲，并且它会随着时间的推移而“演变”，并根据您的收听习惯自定义播放列表。
+流媒体应用程序已经允许您下载可以离线播放的曲目和播放列表，但这需要在数据连接可用时手动完成。 Spotify 的离线备份是互联网连接意外消失或您故意关闭互联网连接（例如在飞行期间激活飞行模式）时的替代方案。
 
-第三方游戏也将于第四季度出现在移动版 Epic Games Store 中（Allison 此前曾预计发布时间为 12 月）。在 Unreal Fest 座谈会上，Allison 表示 Epic 的目标是在发布时提供 10 到 50 款游戏。是的，这是一个很宽泛的范围，Allison 告诉 The Verge，最大的“门槛因素”是实施支付。由于大多数移动开发者都依赖 Google 或 Apple 的支付处理平台，因此他们必须评估使用 Epic 的支付处理平台还是其他平台。不过，在 Unreal Fest 主题演讲中，Epic 分享了一款即将登陆其移动商店的游戏：ARK：终极移动版。
-Epic 似乎看到了商店整体的前进势头，并在主题演讲中宣布，9 月份其月活跃用户数创下了 7000 万。然而，考虑到苹果和安卓手机制造商在其移动平台上安装第三方商店所面临的障碍，Epic 的移动商店安装量并未达到其所希望的水平。
-在 8 月推出移动商店时，Allison 表示 Epic 的目标是在年底前实现 1 亿个 Epic Games Store 移动端净新增安装量，但 Sweeney 最近表示，目前移动端安装量只有 1000 万个。艾利森认为，第四季度推出的新功能可能会鼓励更多用户克服障碍。但他补充说，由于存在障碍，到年底实现 1 亿次安装“很可能是不可能的”。]]></description>
-      <guid>https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck</guid>
-      <pubDate>Thu, 03 Oct 2024 12:00:00 GMT</pubDate>
+
+屏幕截图：Spotify
+当移动设备离线时，Spotify 应用现在将自动显示离线备份播放列表。
+
+只要设备离线，离线备份播放列表就会自动出现在 Spotify 应用的主页上，但这要求应用已在其设置中启用离线收听，并且您最近需要收听过五首以上的歌曲。作为全球推广的一部分，该功能也仅向高级订阅者开放。
+自动生成的播放列表可以按艺术家、心情和流派进行过滤和排序，Spotify 表示它会随着每个听众的使用而改变和适应他们的偏好，因此它不会总是提供相同的曲目。如果您特别喜欢该混音，离线备份也可以永久添加到您的库中。
+该功能于去年由 Spotify 首席执行官 Daniel Ek 首次透露，当时它被称为“您的离线混音”。它与其他流媒体应用和服务已经提供的功能类似，例如 YouTube Music 的 Offline Mixtape 或 Netflix，可以将其设置为根据您之前观看的内容自动下载节目和电影。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24261098/spotify-music-offline-backup</guid>
+      <pubDate>Thu, 03 Oct 2024 14:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>“WordPress”之争现已演变成一场诉讼</title>
-      <link>https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg</link>
+      <title>特斯拉因倒车摄像头延迟召回 27,000 多辆 Cyber​​truck</title>
+      <link>https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software</link>
       <description><![CDATA[
 
-WP Engine 表示，该诉讼旨在解决“滥用权力、敲诈勒索和贪婪”的问题。 |图片：Cath Virginia / The Verge
+图片：Umar Shakir / The Verge
 
-在围绕 WordPress 商标和开源项目发生公开争执后，WP Engine 网络托管服务公司起诉 WordPress 联合创始人 Matt Mullenweg 和 Automattic 涉嫌诽谤和企图敲诈勒索。在周三提起的联邦诉讼中，WP Engine 指控 Automattic 及其首席执行官 Mullenweg “滥用权力、敲诈勒索和贪婪”，并表示希望阻止他们对 WP Engine 和 WordPress 社区造成进一步伤害。
-WP Engine 是 WordPress.com 的主要竞争对手，有超过 200,000 个网站使用该服务。Mullenweg 经营着 Automattic，后者拥有 WordPress.com，该公司销售开源 WordPress 软件的托管版本 — 就像 WP Engine 一样。
-
-该诉讼是在长达数周的商标侵权纠纷以及 WP Engine 是否应该支付许可费以使用 WordPress 项目的开源软件之后发起的。 Mullenweg 在他的博客上将 WP Engine 称为“WordPress 的毒瘤”，随后 WP Engine 发送了一封停止侵权信，要求撤回相关评论。 Automattic 后来指控 WP Engine 侵犯了 WordPress 和 WooCommerce 商标，并且要求支付公司月收入的 8%作为特许权使用费。
-在诉讼中，WP Engine 列出了 11 项投诉，指控 Mullenweg 和 Automattic 诽谤、中伤、企图勒索以及违反《计算机欺诈和滥用法》。 WP Engine 还声称，WordPress 基金会（由 Mullenweg 领导、支持开源 WordPress 项目的非营利组织）未向美国国税局披露其商标所有权，并指控 Mellenweg 向美国国税局做出虚假陈述。
-“Matt Mullenweg 在过去十天的行为暴露了重大的利益冲突和治理问题，如果不加以制止，可能会破坏这种信任，”WP Engine 在给 TechCrunch 的一份声明中表示。“WP Engine 别无选择，只能继续这些主张，以保护其员工、代理合作伙伴、客户和更广泛的 WordPress 社区。”
-]]></description>
-      <guid>https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg</guid>
-      <pubDate>Thu, 03 Oct 2024 11:00:41 GMT</pubDate>
+特斯拉发布了 Cyber​​truck 召回通知，原因是软件故障导致后置摄像头显示缓慢。这是特斯拉自去年 11 月开始向客户交付这款备受争议的电动卡车以来第五次召回。其他召回涉及雨刷器故障、饰条松动和油门踏板卡住。
+根据美国国家公路交通安全管理局的报告，此次召回涉及“11 月至 2024 年生产的 27,000 多辆 Cyber​​trucks” 2023 年 9 月 13 日至 2024 年 9 月 14 日”，这适用于几乎所有生产的 Cyber​​truck。
+运行 2024.32.5.2 或更高版本的特斯拉 Cyber​​truck 可能会出现以下情况：如果客户在车辆完成关机和启动过程之前尝试倒车，倒车摄像头信息“可能会空白长达 6 到 8 秒”。联邦法规要求倒车摄像头信息必须在两秒内出现。
+特斯拉在 9 月份调查和测试该情况后进行了自愿召回，并发布了免费的无线软件更新来修复该问题。虽然没有因该问题而导致的撞车或受伤报告，但卡车和大型 SUV 的能见度已经很差，这可能会对行人造成危险。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24261099/tesla-cybertruck-recall-reverse-camera-delay-software</guid>
+      <pubDate>Thu, 03 Oct 2024 14:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行发生故障，客户账户余额被清空</title>
-      <link>https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero</link>
+      <title>《降世神通：最后的气宗》的下一款游戏将让你扮演一个新的降世神通</title>
+      <link>https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive</link>
       <description><![CDATA[
 
-图片：Cath Virginia / The Verge； Getty Images
+图片：派拉蒙
 
-首先是 Spotify，然后是 Verizon，然后是 PlayStation，现在显然轮到美国银行本周出现停电。一些客户报告称，周三他们无法访问银行账户，余额显示为 0 美元或“—-”，而不是应有的余额。 
-“今天早些时候，一些移动和网上银行客户在访问其账户和余额信息时遇到了问题，”美国银行媒体关系主管 Matt Card 在给The Verge的一封电子邮件中写道。“这些技术问题已完全解决。我们对给您带来的不便深表歉意。”
-美国东部时间下午 1 点之前，Downdetector 上的报告激增，X 和 Reddit  上都有人发帖称，他们的账户余额没有显示任何内容（不过，有人提到他们所欠的金额似乎显示准确）。
-我们今天下午证实，正如 CNN 之前报道的那样，该银行的应用程序向客户显示了一条通知，内容是“账户暂时不可用”和“某些账户和/或余额暂时不可用”。一些人报告说，他们的账户正在运行或间歇性地获取他们的信息，目前尚不清楚有多少人受到了影响。7 月，美国银行表示，5800 万客户使用其“数字功能来帮助管理他们的财务生活”，去年他们的连接次数创下了 234 亿次的记录。
-目前还不清楚是什么原因导致了这个问题，但如果现在一切正常，请告诉我们。
-10 月 3 日更新：添加了更新的美国银行声明。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero</guid>
-      <pubDate>Thu, 03 Oct 2024 07:15:29 GMT</pubDate>
+《降世神通：最后的气宗》世界即将推出一款新游戏，根据IGN的报道。 Paramount 和 Saber Interactive 联手制作了这款动作角色扮演游戏，玩家将控制“全新的、前所未见的阿凡达”。
+关于即将推出的游戏的细节仍然很少，但两家公司告诉 IGN，它将让玩家通过“与同伴一起进行动态战斗”掌握所有四个元素，以及“体验作为世界平衡守护者所带来的挑战和决​​策”。
+自 2005 年动画 ATLA 系列发布以来，我们已经看到了几部视频游戏和真人改编作品，包括 Netflix 上的一部。去年，Bamtang Games 发布了《降世神通：最后的气宗 - 平衡之谜》——一款合作游戏，玩家可以扮演 Aang、Toph、Sokka 和 Katara——但它并没有获得最多的好评。
+我很期待看到 Paramount 和 Saber Interactive 如何处理这款即将推出的游戏，尤其是因为你将扮演一个新的降世神通，而不是 Aang 或 Korra。 Saber Interactive 是多部成功游戏的开发商和发行商，其中包括《战锤 40,000：太空陆战队 2》和《拆解》，以及《鬼玩人：游戏》和《僵尸世界大战》等改编作品。
+“我们知道《降世神通：最后的气宗》的忠实粉丝一直渴望看到更多故事，将他们带入剧集的世界，通过游戏，我们能够扩展世界观，让粉丝以完全沉浸的方式体验新内容，”派拉蒙游戏和新兴媒体高级副总裁 Doug Rosen 在给 IGN 的声明中说道。
+这也不是我们获得的唯一一款新 ATLA 游戏。 2 月，发行商 Maximum Games 在一次演示中透露，该公司正在 开发一款以 ATLA 宇宙为背景的竞技性多人格斗游戏。
+更正，10 月 3 日：本文的早期版本指出，Saber Interactive 是Vampyr 的幕后推手，但它只开发了 Switch 版本。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24261101/avatar-the-last-airbender-upcoming-game-saber-interactive</guid>
+      <pubDate>Thu, 03 Oct 2024 14:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>Oura Ring 4 的传感器更纤薄、精度更高、尺寸更多</title>
-      <link>https://www.theverge.com/2024/10/3/24260260/oura-ring-4-price-specs-smart-ring-wearable</link>
+      <title>魔兽制造商暴雪的有毒转型</title>
+      <link>https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/3/24260260/oura-ring-4-price-specs-smart-ring-wearable</guid>
-      <pubDate>Thu, 03 Oct 2024 07:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview</guid>
+      <pubDate>Thu, 03 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>500 美元以下可以买到的最佳智能手机</title>
-      <link>https://www.theverge.com/21420196/best-budget-smartphone-cheap</link>
+      <title>大卫·皮尔斯，你的桌子上有什么？</title>
+      <link>https://www.theverge.com/24259381/work-home-desk-logitech-sony</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21420196/best-budget-smartphone-cheap</guid>
-      <pubDate>Thu, 03 Oct 2024 01:28:49 GMT</pubDate>
+      <guid>https://www.theverge.com/24259381/work-home-desk-logitech-sony</guid>
+      <pubDate>Thu, 03 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ring 刚刚将其针对祖父级客户的警报监控服务价格提高了一倍</title>
-      <link>https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260773/amazon-ring-alarm-price-hike-dark-pattern</guid>
-      <pubDate>Thu, 03 Oct 2024 00:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最好的 iPad 优惠</title>
-      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
-      <pubDate>Wed, 02 Oct 2024 23:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Charter 将于明年为部分有线电视订阅用户免费提供 Peacock</title>
-      <link>https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal</link>
+      <title>Uber 与前 Yandex 自动驾驶集团合作，推出机器人出租车和机器人送货</title>
+      <link>https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex</link>
       <description><![CDATA[
 
-图片：The Verge
+图片：Avride
 
-Charter 的 Spectrum TV Select 有线电视计划明年将包括免费的广告支持的 Peacock Premium 订阅，路透社报道。Charter 今天宣布，已与 Peacock 的母公司 NBCUniversal 达成新的“多年期协议”，以将其电视频道保留在 Charter 的有线电视阵容中。 
-Charter 最近与迪士尼达成了一项类似的协议，允许其将迪士尼的广告支持的 Disney Plus Basic 与 Spectrum TV Select 捆绑在一起。（升级到 Spectrum TV Select Plus 还会添加 ESPN Plus。）
-
-这都是 Charter 新的混合捆绑方法的一部分，该方法允许其将其他公司的流媒体订阅与其有线电视计划捆绑在一起，甚至也将其出售给其互联网客户。这样一来，该公司就可以通过向客户推销将所有流媒体服务捆绑到一张账单中的便利性来提升其计划的价值。（有关更多背景信息，请查看Alex Cranz 的Verge故事，深入了解 Charter 在有线电视继续衰落之际的新举措。）
-至于该计划的成本，Charter 似乎尚未公布。现在注册 Spectrum 有线电视服务的客户可以选择 TV Stream（每月 40 美元）、TV Select Signature（每月 95 美元）或 TV Select Plus（每月 105 美元）——或者选择两种西班牙语服务中的一种，每月 25 美元或 70 美元。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260711/charter-cable-bundle-free-peacock-streaming-carriage-deal</guid>
-      <pubDate>Wed, 02 Oct 2024 22:44:48 GMT</pubDate>
+Uber 今天扩大了其自动驾驶汽车合作伙伴队伍，增加了 Avride（原名为 Yandex 自动驾驶集团）。两家公司签署了一项“多年期”协议，Uber 客户可以搭乘 Avride 的自动驾驶汽车并接受外卖配送。 
+从本周开始，奥斯汀的 Uber 客户将可以选择从 Avride 的六轮人行道机器人那里接收 Uber Eats 配送。今年晚些时候，这项交易将扩展到达拉斯和新泽西州泽西市。到 2025 年，Avride 的自动驾驶汽车将为达拉斯的一些 Uber 客户提供服务。该公司还在韩国运营送货机器人。 
+Uber 客户可以搭乘 Avride 的自动驾驶汽车并接受外卖配送
+Yandex 于 1997 年在俄罗斯成立，并逐渐发展成为该国在线搜索市场的主导者。但该公司一直对向美国扩张感兴趣。2009 年，该公司在距离谷歌总部 10 分钟车程的帕洛阿尔托开设了 Yandex 实验室。该公司试图聘请近二十名工程师，与莫斯科分享硅谷的最新趋势。
+在 Yandex 的叫车部门 Yandex Taxi 于 2017 年收购了 Uber 在俄罗斯的所有业务后，这种兴趣扩展到自动驾驶汽车。两家公司成立了一家合资企业，几位 Uber 高管加入了 Yandex 的董事会。一年后，Yandex 在莫斯科推出了所谓的“世界上第一个机器人出租车业务”。 
+该公司于 2020 年在拉斯维加斯举行的 CES 上展示了一款完全无人驾驶汽车，随后开始在密歇根州安娜堡测试自动驾驶汽车。同年晚些时候，该公司与 Grubhub 合作启动了一项机器人送货试点，并计划扩展到另外 250 所大学校园。
+但 2022 年俄罗斯入侵乌克兰使所有这些工作陷入停顿。在西方国家开始切断与俄罗斯企业的联系后，该公司被迫暂停运营并裁员。Uber 出售了其在该公司的股份，并将其高管从 Yandex 董事会中剔除。 Grubhub 终止了与 Yandex 的合作关系，注重隐私的搜索引擎 DuckDuckGo 也终止了合作关系。 
+今年早些时候，Yandex Self-Driving 更名为 Avride，此前其母公司（现名为 Nebius）以 52 亿美元出售 其在俄罗斯的所有业务，并切断与原国家的联系。该公司现在的总部设在奥斯汀。
+与 Uber 的合作进一步加强了这家网约车巨头的合作伙伴关系，该公司正寻求成为全球任何运营自动驾驶汽车的公司的清算所。除了 Avride 之外，Uber 还与 Waymo、Motional 和 WeRide 达成了自动驾驶汽车合作协议。 href=&quot;https://www.theverge.com/23930378/serve-delivery-robot-la-day-in-life-tiktok&quot;&gt;Serve、Cartken 和 Nuro 用于送货机器人。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex</guid>
+      <pubDate>Thu, 03 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>目前最值得购买的 Nintendo Switch 控制器</title>
-      <link>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</guid>
-      <pubDate>Wed, 02 Oct 2024 21:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>All Elite Wrestling 将于 1 月在 Max 上开始播放</title>
-      <link>https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced</link>
+      <title>Gemini Live 将为其 AI 语音聊天添加更多语言支持</title>
+      <link>https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support</link>
       <description><![CDATA[
 
-照片由 Chris Welch / The Verge 拍摄
+我希望 Gemini 用正式的“usted”称呼我。| 插图：The Verge
 
-欢迎来到摔跤大战的流媒体时代。 WWE 的旗舰每周节目《Raw》将放弃有线电视，将于 1 月份登陆 Netflix。今天，华纳兄弟探索频道和 All Elite Wrestling 宣布延长多年版权，将从 2025 年 1 月开始将 AEW 内容引入 Max。该消息最早由 由 Variety 报道。
-托尼·汗的摔跤推广将在流行的流媒体服务中获得重要关注。 AEW 的每周节目《Dynamite》和《Collision》的剧集将在周三和周六晚上在 Max 上同步播出，此外还将分别在 TBS 和 TNT 上播出。过去的剧集也将可供点播。AEW 的电视节目从一开始就在 WBD 网络上播出，因此迁移到 Max 已经很长时间了。 
+Google 最初只以一种语言推出了其对话式 AI 语音聊天 Gemini Live：英语。如今，该公司正在将该服务扩展到其他几种语言，首先是法语、德语、葡萄牙语、印地语和西班牙语。虽然对很多人来说，对这些语言的支持似乎迫在眉睫，但该公司仍在承诺其他 Gemini 功能将在“未来几周”推出，时间安排模糊。Google 预计，今天开始推出的语言将在“几周内”向所有用户开放。至于其他语言，Google 表示将在“未来几周”内提供 40 多种语言，这很难确定。不过，Google 从宣布到全面推出 Gemini Live 的时间表异常迅速：它于 8 月中旬与 Pixel 9 系列一起发布，作为一项仅限订阅者的功能。仅一个月后，该公司将其作为一项免费功能开放给所有 Android 用户。
+
+与此同时，Gemini 虚拟助手的扩展功能（即非语音模式）的进展一直比较缓慢。 
+今年早些时候的 I/O 大会上，Google 宣布，日历、任务和 Keep 的 Gemini 扩展程序即将推出。该公司今天的更新重申了这一承诺，提醒我们这些扩展程序将允许 Gemini 执行诸如将传单中的一堆日期添加到日历或根据食谱图片创建购物清单等操作。真的很有用！但什么时候会全部到货？“未来几周。” 听起来很熟悉。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24260561/gemini-live-language-support</guid>
+      <pubDate>Thu, 03 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>约翰迪尔被指控在其手册中“排除”维修权语言</title>
+      <link>https://www.theverge.com/2024/10/3/24260513/john-deere-right-to-repair-elizabeth-warren-clean-air-act</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24260513/john-deere-right-to-repair-elizabeth-warren-clean-air-act</guid>
+      <pubDate>Thu, 03 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将其他帐户的电子邮件导入 Gmail</title>
+      <link>https://www.theverge.com/24260399/gmail-email-inbox-import-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24260399/gmail-email-inbox-import-how-to</guid>
+      <pubDate>Thu, 03 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你可以使用这些智能保护壳轻松将所有 Apple AirPods 升级到 USB-C</title>
+      <link>https://www.theverge.com/2024/10/3/24260280/apple-airpods-pro-max-usb-c-upgrade-ken-pillonel</link>
+      <description><![CDATA[
+
+Ken Pillonel 制作了一个保护盒，可将旧款 AirPods 充电盒升级为 USB-C。 |截图：YouTube
+
+我们这些仍在使用带 Lightning 端口的 AirPods 的人终于有办法将它们升级到 USB-C，而不需要进行复杂的修改或完全更换外壳的成本。工程师 Ken Pillonel 为较旧的 AirPods 型号设计了一个 智能外壳，外壳外部有一个 USB-C 充电端口。
+保护壳由耐用但柔韧的 3D 打印塑料制成，可在大约 10 秒内安装在 AirPods 充电盒上。外部的 USB-C 端口使用隐藏在底座中的一些附加电子设备将电力传输到 AirPods 的 Lightning 端口，但如果仍需要直接访问 Lightning 端口，外壳也可以轻松拆卸。
 
 
+图片：Ken Pillonel
+Pillonel 的 USB-C 保护壳适用于原装 AirPods，一直到 AirPods Pro 2。
 
-照片由 Chris Welch / The Verge 拍摄
-AEW 创始人兼共同所有人 Tony Khan。
-
-
-“此次延期延续了 TBS 和 TNT 播出的标志性摔跤赛事的传统，同时也通过未来几年在 Max 上的每周直播为 AEW 树立了新的传统，”Khan 在一份声明中表示。 
-同样从明年开始，AEW 的按次付费活动将以折扣价提供给 Max 订阅者。这与 WWE 在美国目前的模式有显著不同，WWE 在美国目前的模式允许粉丝以标准 Peacock 订阅的一部分观看优质直播活动，而无需支付任何额外费用。但 AEW 似乎还没有准备好放弃独立活动购买带来的收入。目前尚不清楚折扣是多少；AEW 表示将在“未来几个月”分享更多细节。
+Pillonel 的保护壳适用于 AirPods 1、2 和 3，因为新的 AirPods 4 现已配备 USB-C 接口。该接口还适用于原装 AirPods Pro 和 AirPods Pro 2 的 Lightning 版本，Apple 去年更新了该版本，并配备了 USB-C 接口。 Apple 确实出售替代品USB-C 充电盒适用于 AirPods Pro 2，售价 99 美元，但 Pillonel 的 USB-C 充电盒售价约为 30 至 40 美元。
+购买前，您需要仔细检查 AirPods 充电盒上列出的具体型号是否与每个充电盒列表中指定的支持版本兼容。
 
 
+截图：YouTube
+Pillonel 还为原装 AirPods Max 开发了 USB-C 适配器。
 
-照片由 Chris Welch / The Verge 拍摄
-AEW 于 9 月 28 日在纽约亚瑟·阿什体育场举办了 Dynamite: Grand Slam 赛事。
+Pillonel 还为不想再花 549 美元购买 Apple 的 AirPods Max 用户提出了解决方案 新款 USB-C 型号。这款适用于原装 AirPods Max 的 USB-C 外置适配器只需插入其 Lightning 端口并悬挂在右耳罩底部即可。它不像保护套那么优雅，但它足够小，戴着耳机外出时很难被注意到。
 
-
-到目前为止，AEW 粉丝不得不从 Bleacher Report 和 TrillerTV 等一大堆不太知名的服务中购买按次付费节目，或者直接从有线/卫星电视购买提供商。最近，YouTube 也开始提供这些活动。但根据新的安排，AEW 表示“这些 PPV 活动的所有营销和推广 [将] 完全以 Max 为中心。”
-根据Variety的消息来源，新的版权交易总额约为每年 1.5 亿美元，这是流媒体对现场体育和体育相关内容需求的又一个例子。华纳兄弟探索频道正准备在今年晚些时候与合作伙伴迪士尼和福克斯推出 Venu Sports，该服务被称为终极体育流媒体服务，每月收费 42.99 美元。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced</guid>
-      <pubDate>Wed, 02 Oct 2024 21:15:02 GMT</pubDate>
+几年来，Pillonel 一直在与 Apple 专有的 Lightning 端口作斗争，随着 USB-C 的普及，该端口已经过时了。 2021 年，他发布了将 iPhone X 升级到 USB-C 的开源设计，随后又透露了将 AirPods 和 AirPods Max 升级到 USB-C 的方法。 Pillonel 确实出售用于自行升级 Apple 无线耳机的电子套件，但新的外壳和适配器不需要任何硬件改装或焊接技能。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24260280/apple-airpods-pro-max-usb-c-upgrade-ken-pillonel</guid>
+      <pubDate>Thu, 03 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
