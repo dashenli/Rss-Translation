@@ -4,7 +4,42 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Oct 2024 09:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 12:30:25 GMT</lastBuildDate>
+    <item>
+      <title>Epic 知道其游戏商店的社交功能很“糟糕”，但它想解决这个问题</title>
+      <link>https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck</link>
+      <description><![CDATA[
+
+插图：Alex Castro / The Verge
+
+Epic 的游戏商店终于登陆移动设备。接下来，该公司计划添加一些让人们想要使用它的功能——无论是在移动设备上还是在 PC 上。Epic Games 想要推出的一个关键功能是商店老板 Steve Allison 所说的“社交框架”——想想你在游戏机或 Steam 上看到的社交和聊天功能。
+“我们在 PC 上的社交功能很烂，”Allison 在接受The Verge采访时表示。“我们就直说吧。”社交功能是“为Fortnite提供动力的电池”，Allison 说，Epic 希望“将这个久经考验的社交框架从Fortnite提升到商店级别。”这个想法是，你将能够跨设备与 Epic Games 好友聚会聊天，理论上意味着 Android、iOS 和 PC 上的好友都可以通过 Epic Games 平台（而不仅仅是 Fortnite）一起玩。
+不过，我们可能还要等一段时间才能试用社交功能，因为 Allison 表示，这些功能至少要到 2025 年夏天之后才会推出。
+更直接的是，Epic 计划在第四季度的某个时候将其免费游戏计划引入移动端（如果你看日历，就是这个季度！）。与 PC 不同，免费移动端游戏一开始可能不会每周提供一次，但一旦 Epic 推出在其移动商店自行发布的工具，它们可能会改为每周提供一次。  （艾利森在周二的 Unreal Fest 小组讨论中表示，该功能可能会在 2025 年上半年推出。）由于苹果的核心技术费用，一些免费游戏可能只能在 Android 上使用，这可能会给开发者带来他们可能无法支付的成本。 
+
+第三方游戏也将于第四季度出现在移动版 Epic Games Store 中（Allison 此前曾预计发布时间为 12 月）。在 Unreal Fest 座谈会上，Allison 表示 Epic 的目标是在发布时提供 10 到 50 款游戏。是的，这是一个很宽泛的范围，Allison 告诉 The Verge，最大的“门槛因素”是实施支付。由于大多数移动开发者都依赖 Google 或 Apple 的支付处理平台，因此他们必须评估使用 Epic 的支付处理平台还是其他平台。不过，在 Unreal Fest 主题演讲中，Epic 分享了一款即将登陆其移动商店的游戏：ARK：终极移动版。
+Epic 似乎看到了商店整体的前进势头，并在主题演讲中宣布，9 月份其月活跃用户数创下了 7000 万。然而，考虑到苹果和安卓手机制造商在其移动平台上安装第三方商店所面临的障碍，Epic 的移动商店安装量并未达到其所希望的水平。
+在 8 月推出移动商店时，Allison 表示 Epic 的目标是在年底前实现 1 亿个 Epic Games Store 移动端净新增安装量，但 Sweeney 最近表示，目前移动端安装量只有 1000 万个。艾利森认为，第四季度推出的新功能可能会鼓励更多用户克服障碍。但他补充说，由于存在障碍，到年底实现 1 亿次安装“很可能是不可能的”。]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24260534/epic-games-store-pc-social-features-suck</guid>
+      <pubDate>Thu, 03 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“WordPress”之争现已演变成一场诉讼</title>
+      <link>https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg</link>
+      <description><![CDATA[
+
+WP Engine 表示，该诉讼旨在解决“滥用权力、敲诈勒索和贪婪”的问题。 |图片：Cath Virginia / The Verge
+
+在围绕 WordPress 商标和开源项目发生公开争执后，WP Engine 网络托管服务公司起诉 WordPress 联合创始人 Matt Mullenweg 和 Automattic 涉嫌诽谤和企图敲诈勒索。在周三提起的联邦诉讼中，WP Engine 指控 Automattic 及其首席执行官 Mullenweg “滥用权力、敲诈勒索和贪婪”，并表示希望阻止他们对 WP Engine 和 WordPress 社区造成进一步伤害。
+WP Engine 是 WordPress.com 的主要竞争对手，有超过 200,000 个网站使用该服务。Mullenweg 经营着 Automattic，后者拥有 WordPress.com，该公司销售开源 WordPress 软件的托管版本 — 就像 WP Engine 一样。
+
+该诉讼是在长达数周的商标侵权纠纷以及 WP Engine 是否应该支付许可费以使用 WordPress 项目的开源软件之后发起的。 Mullenweg 在他的博客上将 WP Engine 称为“WordPress 的毒瘤”，随后 WP Engine 发送了一封停止侵权信，要求撤回相关评论。 Automattic 后来指控 WP Engine 侵犯了 WordPress 和 WooCommerce 商标，并且要求支付公司月收入的 8%作为特许权使用费。
+在诉讼中，WP Engine 列出了 11 项投诉，指控 Mullenweg 和 Automattic 诽谤、中伤、企图勒索以及违反《计算机欺诈和滥用法》。 WP Engine 还声称，WordPress 基金会（由 Mullenweg 领导、支持开源 WordPress 项目的非营利组织）未向美国国税局披露其商标所有权，并指控 Mellenweg 向美国国税局做出虚假陈述。
+“Matt Mullenweg 在过去十天的行为暴露了重大的利益冲突和治理问题，如果不加以制止，可能会破坏这种信任，”WP Engine 在给 TechCrunch 的一份声明中表示。“WP Engine 别无选择，只能继续这些主张，以保护其员工、代理合作伙伴、客户和更广泛的 WordPress 社区。”
+]]></description>
+      <guid>https://www.theverge.com/2024/10/3/24261016/wordpress-wp-engine-lawsuit-automattic-matt-mullenweg</guid>
+      <pubDate>Thu, 03 Oct 2024 11:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>美国银行发生故障，客户账户余额被清空</title>
       <link>https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero</link>
@@ -29,7 +64,7 @@
       <pubDate>Thu, 03 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>500 美元以下可以买到的最好的智能手机</title>
+      <title>500 美元以下可以买到的最佳智能手机</title>
       <link>https://www.theverge.com/21420196/best-budget-smartphone-cheap</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/21420196/best-budget-smartphone-cheap</guid>
@@ -67,7 +102,7 @@ Charter 最近与迪士尼达成了一项类似的协议，允许其将迪士尼
       <pubDate>Wed, 02 Oct 2024 22:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>现在最值得购买的 Nintendo Switch 控制器</title>
+      <title>目前最值得购买的 Nintendo Switch 控制器</title>
       <link>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</guid>
@@ -80,7 +115,7 @@ Charter 最近与迪士尼达成了一项类似的协议，允许其将迪士尼
 
 照片由 Chris Welch / The Verge 拍摄
 
-欢迎来到摔跤大战的流媒体时代。 WWE 的旗舰每周节目《Raw》将放弃有线电视，将于 1 月份登陆 Netflix。今天，华纳兄弟探索频道和 All Elite Wrestling 宣布续签多年版权，将从 2025 年 1 月开始将 AEW 内容引入 Max。该消息最早由 由 Variety 报道。
+欢迎来到摔跤大战的流媒体时代。 WWE 的旗舰每周节目《Raw》将放弃有线电视，将于 1 月份登陆 Netflix。今天，华纳兄弟探索频道和 All Elite Wrestling 宣布延长多年版权，将从 2025 年 1 月开始将 AEW 内容引入 Max。该消息最早由 由 Variety 报道。
 托尼·汗的摔跤推广将在流行的流媒体服务中获得重要关注。 AEW 的每周节目《Dynamite》和《Collision》的剧集将在周三和周六晚上在 Max 上同步播出，此外还将分别在 TBS 和 TNT 上播出。过去的剧集也将可供点播。AEW 的电视节目从一开始就在 WBD 网络上播出，因此迁移到 Max 已经很长时间了。 
 
 
@@ -102,29 +137,6 @@ AEW 于 9 月 28 日在纽约亚瑟·阿什体育场举办了 Dynamite: Grand Sl
 根据Variety的消息来源，新的版权交易总额约为每年 1.5 亿美元，这是流媒体对现场体育和体育相关内容需求的又一个例子。华纳兄弟探索频道正准备在今年晚些时候与合作伙伴迪士尼和福克斯推出 Venu Sports，该服务被称为终极体育流媒体服务，每月收费 42.99 美元。]]></description>
       <guid>https://www.theverge.com/2024/10/2/24260475/aew-wbd-max-streaming-deal-announced</guid>
       <pubDate>Wed, 02 Oct 2024 21:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>任天堂正在限制您可以从其新博物馆礼品店购买多少商品</title>
-      <link>https://www.theverge.com/2024/10/2/24260570/nintendo-museum-kyoto-gift-shop-limit</link>
-      <description><![CDATA[
-
-图片：任天堂
-
-任天堂博物馆今天在该公司的家乡京都开业，并且已经将一些礼品店商品限制为一件每人 1 美元，试图阻止游客在网上转卖独家商品。 
-这座两层楼的博物馆重点展示了该公司的历史，可追溯到 1889 年，当时任天堂开始制作花札扑克牌。它还设有互动展览，让游客以不同寻常的方式玩任天堂游戏，包括使用超大 NES 控制器和需要两个人操作的 Wii 遥控器。
-
-比博物馆展品更受关注的是博物馆礼品店提供的独家商品。其中一些在博物馆预展期间出售的商品已经以高价出现在 eBay 等网站上。一款巨型毛绒 Wii 遥控器目前售价为 474 美元，而一整套控制器垫，包括 Super Famicom 和 N64，售价 1,399 美元。
-任天堂博物馆 通过其官方 X 帐户宣布，几件商品每位客户仅限一件，包括微型控制器钥匙扣系列、颈带、磁铁系列、某些花札卡套和控制器形状的靠垫。 
-任天堂已经限制了其新博物馆的参观人数。门票只能通过随机选择流程在线预订，并且已经全部在 2024 年底前被领取。]]></description>
-      <guid>https://www.theverge.com/2024/10/2/24260570/nintendo-museum-kyoto-gift-shop-limit</guid>
-      <pubDate>Wed, 02 Oct 2024 21:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合您的健身和健康的 Fitbit</title>
-      <link>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</guid>
-      <pubDate>Wed, 02 Oct 2024 20:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
