@@ -4,7 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 04 Oct 2024 01:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:15:55 GMT</lastBuildDate>
+    <item>
+      <title>哥斯拉刚才是不是踩到了一个坏主意？↦</title>
+      <link>https://sixcolors.com/link/2024/10/did-godzilla-just-step-on-a-bad-idea/</link>
+      <description><![CDATA[Nick Heer 评论了一篇非常奇怪的纽约时报报道，标题为“苹果刚刚杀死了社交应用程序吗？”，该报道实际上是关于苹果如何在 iOS 18 中加强联系人共享安全性：
+
+我不明白的是，当人们可以看到 Bier 的过往记录的全貌时，为什么要给予 Bier 的反对意见纽约时报报道的认可。…]]></description>
+      <guid>https://sixcolors.com/link/2024/10/did-godzilla-just-step-on-a-bad-idea/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>迷失太空</title>
+      <link>https://sixcolors.com/post/2024/10/lost-in-space/</link>
+      <description><![CDATA[
+有时会发生错误并影响大片设备，从而给用户带来严重问题，而有时一个很小的东西坏了，只会影响少数人。…]]></description>
+      <guid>https://sixcolors.com/post/2024/10/lost-in-space/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 79：十年混乱</title>
       <link>https://sixcolors.com/podcast/2024/10/downstream-79-decade-of-confusion/</link>
@@ -76,7 +93,7 @@
     <item>
       <title>NIST 的新建议针对不良密码策略 ↦</title>
       <link>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</link>
-      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指导方针：
+      <description><![CDATA[Ars Technica 的 Dan Goodin 报道了美国国家标准与技术研究所关于良好密码的最新指南：
 
 专门讨论密码的部分注入了大量急需的常识性做法，这些做法挑战了常见的政策。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</guid>
@@ -105,20 +122,6 @@
       <description><![CDATA[有关 Masimo 的一些有趣消息，该公司与 Apple 就血氧传感器专利发生纠纷，导致该功能在美国从 Apple Watch 中删除：…]]></description>
       <guid>https://sixcolors.com/link/2024/09/masimo-founder-resigns-as-ceo-after-removal-from-board/</guid>
       <pubDate>Wed, 25 Sep 2024 20:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 514：股票电话综合症</title>
-      <link>https://sixcolors.com/podcast/2024/09/the-rebound-514-stockphone-syndrome/</link>
-      <description><![CDATA[我们有新手机。我们对新手机也有自己的想法。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/the-rebound-514-stockphone-syndrome/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 573：五条腿和太多手指</title>
-      <link>https://sixcolors.com/podcast/2024/09/clockwise-573-five-legs-and-way-too-many-fingers/</link>
-      <description><![CDATA[我们使用哪种 Apple Watch 表盘、我们对 Apple 将新 iPhone 与 AI 功能绑定的感受、我们从哪里获取手机壁纸以及我们如何使用操作按钮。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/09/clockwise-573-five-legs-and-way-too-many-fingers/</guid>
-      <pubDate>Wed, 25 Sep 2024 18:16:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
