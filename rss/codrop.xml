@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sun, 06 Oct 2024 09:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 12:32:36 GMT</lastBuildDate>
+    <item>
+      <title>集体#870</title>
+      <link>https://tympanus.net/codrops/collective/collective-870/</link>
+      <description><![CDATA[Sidekick * 我厌倦了 AI * Web 组件还可以]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-870/</guid>
+      <pubDate>Tue, 08 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最近的一些富有创意且有趣的编码实验</title>
       <link>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[CSS 的不可否认的实用性 :has * 回收堆栈 * CSS 触发器]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-865/</guid>
       <pubDate>Fri, 20 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动布局形式的探索</title>
-      <link>https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/</link>
-      <description><![CDATA[探索滚动过程中的布局形成，其中内容被固定直到布局完全组装。]]></description>
-      <guid>https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/</guid>
-      <pubDate>Wed, 18 Sep 2024 13:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
