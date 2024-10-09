@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:17:19 GMT</lastBuildDate>
+    <item>
+      <title>苹果的全新信息功能很棒，但通知太多了（/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2482686</link>
+      <description><![CDATA[Apple 的 Messages 应用程序可能已经输掉了全球消息传递之战，但在许多国家（包括美国），它仍然是一种非常流行的沟通方式。这就是 Apple 不断对其进行升级的原因。…]]></description>
+      <guid>https://www.macworld.com/article/2482686</guid>
+      <pubDate>Wed, 09 Oct 2024 15:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 532：我是外汇逆风</title>
       <link>https://sixcolors.com/podcast/2024/10/upgrade-532-i-am-foreign-exchange-headwinds/</link>
@@ -114,15 +121,6 @@
 专门讨论密码的部分注入了大量急需的常识性做法，这些做法挑战了常见的政策。…]]></description>
       <guid>https://sixcolors.com/link/2024/09/new-nist-recommendations-take-aim-at-bad-password-policies/</guid>
       <pubDate>Fri, 27 Sep 2024 14:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>iMore 已不复存在 ↦</title>
-      <link>https://sixcolors.com/link/2024/09/imore-is-no-more/</link>
-      <description><![CDATA[为即将停止出版的以苹果为中心的著名网站 iMore 倾吐心声：
-
-找出你的旧 iPod，打开你的“哭泣歌曲”播放列表，我带来了一个悲伤的消息。…]]></description>
-      <guid>https://sixcolors.com/link/2024/09/imore-is-no-more/</guid>
-      <pubDate>Thu, 26 Sep 2024 00:12:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
