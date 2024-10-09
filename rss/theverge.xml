@@ -4,7 +4,57 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Oct 2024 03:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 06:22:54 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊 10 月 Prime Day 促销的最佳优惠</title>
+      <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
+      <pubDate>Wed, 09 Oct 2024 03:34:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>联发科新旗舰芯片组已为 AI 代理和三折手机做好准备</title>
+      <link>https://www.theverge.com/2024/10/8/24265408/mediatek-dimensity-9400-agentic-ai-specs-availability</link>
+      <description><![CDATA[
+
+面向未来的 SoC。 |图片：联发科
+
+联发科正式宣布推出其全新旗舰移动芯片组 Dimensity 9400。它拥有我们期望看到的同比规格提升，以及一些面向未来的功能，足以满足所有基础需求。 
+9400 采用 3nm 工艺制造，比其前代产品 9300“节能高达 40%”。它包含一个 Arm Cortex-X925 内核，运行频率为 3.62GHz，还有三个 Arm Cortex-X4 内核和四个 Cortex-A720 内核，这两个内核都是在去年的台北国际电脑展上发布的。联发科表示，与 9300 相比，这种组合可使单核性能提高 35%，多核性能提高 28%。该芯片组还包括 Arm 的全新 12 核 Immortalis-G925 GPU，光线追踪速度提高 40%。 
+
+
+
+图片：联发科
+
+点击此处查看全尺寸图片。
+
+
+
+这些是基本的东西。在更具未来感的方面，联发科拥有自己的第八代 NPU，支持在设备上训练某些类型的轻量级 AI 模型，具有“80% 更快的大型语言模型提示性能”。它还支持 AI 视频生成，并提供用于创建代理应用程序的开发人员框架，即可以真正为您做事情的 AI。理论上，这是人工智能的下一个重大转折，从Apple到Rabbit，每个人都在研究如何将其变为现实。 
+哦，如果三折手机真的流行起来，9400 支持缩放这些扩展屏幕的内容。不过，联发科并不是第一家解决这一问题的芯片制造商。
+Dimensity 9400 很有可能在其支持的最具未来感的功能之前就准备好；联发科表示，9400 将在今年第四季度上市。该公司的高端芯片往往出现在 Vivo 和 Oppo 等中国 OEM 的旗舰手机中。因此，9400 可能不会进入美国市场，因为高通芯片组在美国流行的 Android 旗舰产品中占据主导地位。]]></description>
+      <guid>https://www.theverge.com/2024/10/8/24265408/mediatek-dimensity-9400-agentic-ai-specs-availability</guid>
+      <pubDate>Wed, 09 Oct 2024 03:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部律师称，谷歌分拆计划正在酝酿中</title>
+      <link>https://www.theverge.com/2024/10/8/24265832/google-search-antitrust-remedies-framework-android-chrome-play</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供
+
+现在，Amit Mehta 法官已经认定谷歌是垄断者，司法部的律师已开始提出解决方案，以纠正该公司的违法行为并恢复搜索引擎市场的竞争。在一份新的32 页文件（见下文）中，他们表示正在考虑“行为和结构性补救措施”。
+这涵盖了从应用同意令来监视公司的行为到迫使其出售部分业务（如 Chrome、Android 或 Google Play）的所有内容。
+同样，原告正在考虑行为和结构性补救措施，以防止 Google 使用 Chrome、Play 和 Android 等产品来获得 Google 搜索和 Google 搜索相关产品和功能（包括新兴的搜索接入点和功能，如人工智能）的优势，从而超越竞争对手或新进入者。 
+
+但文件中提到的第一个问题是谷歌对搜索分发的控制，以及它为成为苹果 iPhone 等平台上的默认选项而支付的费用。司法部律师写道，“竞争对手无法竞争这些分销渠道，因为谷歌的垄断性收入分成使得其合作伙伴不愿将查询转移到谷歌的竞争对手那里。”
+司法部正在考虑的其他修复措施包括影响用户行为的措施，例如要求“谷歌为教育意识活动提供支持，这将增强用户选择最适合自己的通用搜索引擎的能力。”
+在周二晚些时候在其博客上做出的回应中，谷歌声称拟议的框架“远远超出了法院关于搜索分销合同的裁决的法律范围”，并且“将 Chrome 或 Android 拆分出去会破坏这些合同。”谷歌声称，得益于 Chrome 和 Android 作为免费产品的存在，数十亿人得以上网，并且“很少有公司有能力或动力让它们保持开源，或像我们一样对它们进行同等程度的投资。”
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/8/24265832/google-search-antitrust-remedies-framework-android-chrome-play</guid>
+      <pubDate>Wed, 09 Oct 2024 03:27:18 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊 10 月 Prime Day 促销活动中我们最喜欢的 50 美元以下优惠</title>
       <link>https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024</link>
@@ -18,13 +68,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024</guid>
       <pubDate>Wed, 09 Oct 2024 01:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 10 月 Prime Day 促销的最佳优惠</title>
-      <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 01:30:52 GMT</pubDate>
     </item>
     <item>
       <title>您可以在 Prime Day 购买我们最喜欢的一些电子产品并享受最佳优惠</title>
@@ -77,35 +120,6 @@
 ]]></description>
       <guid>https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk</guid>
       <pubDate>Tue, 08 Oct 2024 22:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们发现的最佳 Prime Day 智能家居优惠</title>
-      <link>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</guid>
-      <pubDate>Tue, 08 Oct 2024 22:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫开始在 Reddit 上发帖讨论飓风米尔顿</title>
-      <link>https://www.theverge.com/2024/10/8/24265598/white-house-official-reddit-account-posting-hurricane</link>
-      <description><![CDATA[
-
-该帐户上最早的帖子是一张拜登听取飓风简报的照片。 |截图：The Verge
-
-Reddit 并不是您首先想到的发布联邦政府官方声明和新闻的地方，但今天，白宫正在该网站上发帖。您经常会看到工作人员在 Instagram 和 X 等社交媒体平台上发帖，宣布最新消息并接触更广泛的受众，因此这让人感觉很新鲜。拜登政府的“白宫”账户在子版块 r/NorthCarolina 和 r/Georgia 中发布了新帖子，讨论联邦政府对飓风海伦和飓风米尔顿的响应。
-“是的，真的是我们！”白宫账户在其中一个帖子中说道。通常，这不是一种完全令人信服的证明身份的方式，但 Reddit 的 Gina Antonini 在一封电子邮件中告诉 The Verge，这确实是一个合法账户。Antonini 还表示，白宫账户有一个“官方”徽章，是 Reddit Pro 计划 的一部分。
-这是否是一个全新的账户是一个谜，因为该账户的创建日（或 Reddit 称之为生日日）是 2021 年 1 月 7 日。白宫没有回应是否曾经使用过该账户。 
-
-白宫平台副主任梅根·科因 在 X 上发帖称，该账户已于今日启动。
-
-
-作为 Reddit 的忠实粉丝，我很高兴我们今天在该平台上启动了一个白宫账户！与更多人会面，了解他们所在的地方，获取有关本届政府所做工作的关键信息（这位 Redditor 在我们的第一篇文章中发表了完美的第一条评论）pic.twitter.com/UfnuY7vVfo— Megan Coyne (@MeganCoyne46) 2024 年 10 月 8 日
-
-
-白宫在 r/Georgia 上的一篇帖子是 被版主删除，因为违反了 subreddit 关于帖子标题与标题相匹配的具体规则，但该帖子已恢复。“谁他妈的真的认为政府会开设 Reddit 账户？”写了一篇版主文章。
-10 月 8 日更新：添加了 r/Georgia 中的帖子已恢复，并且该帐户具有“官方”徽章。]]></description>
-      <guid>https://www.theverge.com/2024/10/8/24265598/white-house-official-reddit-account-posting-hurricane</guid>
-      <pubDate>Tue, 08 Oct 2024 22:27:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
