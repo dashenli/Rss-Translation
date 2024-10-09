@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 08 Oct 2024 21:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:23:29 GMT</lastBuildDate>
+    <item>
+      <title>探索固定元素的有趣情境感知动画</title>
+      <link>https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/</link>
+      <description><![CDATA[探索如何通过有趣的、情境感知的动画，通过滚动交互来隐藏和显示固定元素。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/</guid>
+      <pubDate>Wed, 09 Oct 2024 16:26:28 GMT</pubDate>
+    </item>
     <item>
       <title>集体#870</title>
       <link>https://tympanus.net/codrops/collective/collective-870/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[捕获的自定义属性 * 大小查询中的逻辑属性 * 音频元素]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-866/</guid>
       <pubDate>Tue, 24 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#865</title>
-      <link>https://tympanus.net/codrops/collective/collective-865/</link>
-      <description><![CDATA[CSS 的不可否认的实用性 :has * 回收堆栈 * CSS 触发器]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-865/</guid>
-      <pubDate>Fri, 20 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,107 +4,157 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Oct 2024 15:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:21:19 GMT</lastBuildDate>
     <item>
-      <title>亚马逊 10 月 Prime Day 活动期间提供的最佳 Apple 优惠</title>
-      <link>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</guid>
-      <pubDate>Wed, 09 Oct 2024 15:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，Nvidia 的 RTX 5070 将于 2025 年 CES 上与 RTX 5090 一起推出</title>
-      <link>https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs</link>
+      <title>亚马逊的新 AI 指南可以帮助购物者找到他们需要的东西</title>
+      <link>https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability</link>
       <description><![CDATA[
 
-照片由 Tom Warren / The Verge 拍摄
+亚马逊的 AI 购物指南是一种更直观的方式来筛选特定的产品类型和功能。 | 图片：亚马逊
 
-据报道，Nvidia 将于 1 月的 CES 2025 上发布其 RTX 5070 GPU，以及 RTX 5090 和 RTX 5080。 Nvidia 首席执行官 Jensen Huang 将于 1 月 6 日在 CES 上发表 主题演讲，现在 Wccftech 声称 Nvidia 将在 Huang 的主题演讲中展示三款下一代 RTX 50 系列 GPU。
-传闻规格RTX 5090 和 RTX 5080 上个月泄露，Nvidia 的旗舰产品 RTX 5090 预计将配备 32GB GDDR7 内存和 600 瓦规格。Wccftech 报道称，RTX 5070 将配备 192 位内存总线和 12GB GDDR7 VRAM。据称，RTX 5070 的总板载功率规格为 250 瓦，比 RTX 4070 高 14%。硬件泄密者 kopite7kimi 证实了该报告，暗示该 GPU 将配备 12GB VRAM 和 250 瓦规格。
-Wccftech 的报告还指出，RTX 5080 比预期的更强大。据报道，这款未公布的 GPU 将具有 32Gbps 内存速度，而不是传闻的 28Gbps，最大带宽为 1024GB/s，而不是传闻的 896GB/s。如果这些规格正确，那么正如 VideoCardz 指出的，这可能意味着 RTX 5080 比现有的 RTX 4090 速度更快，所需功率更少。
-据说所有三款 RTX 5090、5080 和 5070 卡均由单个 12VHPWR 连接器供电，并将基于 Nvidia 最新的 Blackwell 架构。 Wccftech 表示，Nvidia 的 CES 主题演讲还将重点关注用于游戏的下一代 AI 技术，预计会带来“重大惊喜”。
-Nvidia 于 2022 年 9 月首次宣布其 RTX 40 系列 GPU，推出了 RTX 4090 和 RTX 4080。虽然 Nvidia 通常不会在 CES 上发布下一代 GPU，但它之前曾在 CES 2024 上宣布了其 RTX 40 系列 Super 显卡，其中 RTX 4070 Super、RTX 4070 Ti Super 和 RTX 4080 Super 均于今年早些时候推出。]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs</guid>
-      <pubDate>Wed, 09 Oct 2024 14:45:55 GMT</pubDate>
+亚马逊有一款新的购物工具，它使用 AI 帮助客户根据他们需要的特定功能快速找到产品。 人工智能“购物指南”现已在美国亚马逊的移动网站和 iOS 和 Android 应用程序上推出，在用户浏览时为他们提供更具针对性的产品信息和推荐。
+亚马逊在公告中表示，人工智能指南适用于 100 多种产品类型，包括电视、耳机、跑鞋、护肤品等。亚马逊表示，它们应该包括有关这些产品的“教育内容”，以及客户洞察，以“帮助您做出明智的购买决定”。
+例如，选择耳机购物指南将显示根据受欢迎程度、客户评论和价格推荐的一系列产品。下面是可选的“考虑因素”选项，可以根据品牌、用例（运动、游戏、学生）或连接类型（有线、无线、USB）等将产品细分为特定类别。
+
+
+
+
+图片：亚马逊
+“需要考虑的因素”部分可以帮助亚马逊购物者了解特定的产品功能。
+
+
+
+
+
+图片：亚马逊
+它还显示了品牌简介和客户对其所提供产品的评论摘要。
+
+
+
+与我们熟悉的详尽勾选菜单相比，它本质上是一种更直观的产品筛选方式。它应该可以帮助用户更好地了解他们不太了解的产品有哪些功能以及这些功能实际上意味着什么，而不仅仅是面对一大堆选项。不过，用户界面占用了屏幕上的更多空间，而且目前还不清楚如果用户觉得烦人，是否可以禁用该功能。
+据亚马逊称，AI 购物指南将在“适当的时候”自动出现在搜索的自动完成建议中，或者可以直接在此处浏览以查看可用的指南。点击亚马逊主页上的“继续购物”卡也会显示参考最近购物活动的 AI 购物指南。]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability</guid>
+      <pubDate>Wed, 09 Oct 2024 18:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆·马斯克的账单终于到期了</title>
-      <link>https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5</guid>
-      <pubDate>Wed, 09 Oct 2024 14:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iOS 和 macOS 上使用 Apple 的新密码应用</title>
-      <link>https://www.theverge.com/24264400/passwords-apple-ios-macos-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24264400/passwords-apple-ios-macos-how-to</guid>
-      <pubDate>Wed, 09 Oct 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnePlus Watch 2 售价 210 美元，非常划算</title>
-      <link>https://www.theverge.com/2024/10/9/24266010/amazon-prime-day-oneplus-watch-2-android-smartwatch-deal-sale-october</link>
+      <title>您今天只需 29 美元即可获得三个月的 Xbox Game Pass Ultimate</title>
+      <link>https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024</link>
       <description><![CDATA[
 
-今年早些时候评测 OnePlus Watch 2 时，我感到非常惊喜。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
+Game Pass Ultimate 在第一天提供第一方游戏，并轮流提供其他游戏库。 |插图由 Alex Castro / The Verge 提供
 
-最初的 OnePlus Watch 简直令人厌恶。但 OnePlus Watch 2  是一次救赎的杰作，对于想要一款电池续航时间长的 Android 智能手表的人来说，这是一个不错的选择。在亚马逊 Prime Day 的第二天，它的价格为目前为 209.99 美元，即 30% 的折扣。
-这是一款外观精美的手表，但真正的赢家是电池寿命。在关闭常亮显示屏的情况下，我的电池续航时间为四天。（开启常亮显示屏的情况下为 1.5 到 2 天，但仍然比平均水平要好。）这款手表还配备了 Google Assistant、Wear OS 4 和双频 GPS——这是三星、谷歌以外的 Android 智能手表中很少有的功能。 
+如果您的 Game Pass Ultimate 订阅即将到期，Woot 的最新优惠是重置时钟的绝佳机会。即日起至 10 月 10 日美国东部时间凌晨 12:59，当您在结账时使用促销代码 SAVE20 时，您可以在 Woot 已打折的代码基础上再节省 20%。这样一来，三个月订阅价格降至 29.19 美元（约优惠 16 美元），一个月订阅价格降至 11.03 美元（约优惠 6 美元）。
 
-需要注意的主要一点是，您无法获得 LTE、EKG 或心房颤动检测或跌倒检测。这有点令人失望，因为它的正常零售价为 300 美元，因为 Samsung Galaxy Watch 7 和 Google Pixel Watch 3 等手表 确实 以类似的价格拥有这些功能。但考虑到售价 210 美元，这点遗憾并不是什么大问题 — — 尤其是如果你只是在寻找一款时尚、基本的健身追踪器，并且能够分类通知的话。]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24266010/amazon-prime-day-oneplus-watch-2-android-smartwatch-deal-sale-october</guid>
-      <pubDate>Wed, 09 Oct 2024 14:29:14 GMT</pubDate>
+利用当前促销活动 — 恰好也与 亚马逊正在进行的 10 月 Prime Day 促销 — 可以轻松抵消微软最近的涨价，后者将 Ultimate 订阅的价格提高到了每月 19.99 美元。此外，与 Xbox Game Pass Standard 的 13 个月限制不同，您可以累积长达 36 个月的 Xbox Game Pass Ultimate。
+除了 Game Pass 库中不断轮换的数百款其他游戏之外，Ultimate 还可通过 EA Play 访问不断增长的完整游戏和试用版列表。作为订阅的一部分，您还可以访问在线多人游戏、独家优惠和游戏内福利。您甚至不一定需要 Xbox 游戏机。 Xbox Cloud Gaming 可让您在平板电脑、智能手机和流媒体设备（如亚马逊的 Fire TV Stick 4K Max）上玩游戏 - 作为 Prime Big Deal Days 的一部分，该设备现在也在亚马逊上以 34.99 美元（减价 25 美元）的价格出售。
+
+价格上涨是否合理尚无定论在这些折扣代码仍然可用时，请继续讨论，但请注意，微软似乎正在提高其产品的赌注。例如，使命召唤：黑色行动 6 将成为该系列中第一款第一天进入 Game Pass 的游戏。 
+在微软完成一系列工作室收购后，这款游戏将与其他一些第一方游戏甚至一些第三方游戏一起，获得类似的待遇。即将上映的游戏包括《夺宝奇兵 2：大圆环》《夺宝奇兵 2：大圆环》，不过你也可以随时访问大量过去发布的积压游戏，包括最近的大片，如《《星空奇兵》。最终，有一天，希望（也许？）《上古卷轴 VI》 能加入这个名单。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266142/xbox-game-pass-ultimate-deal-sale-microsoft-october-amazon-prime-day-2024</guid>
+      <pubDate>Wed, 09 Oct 2024 17:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>巴西联邦通信委员会下令解除对 X 的封锁</title>
-      <link>https://www.theverge.com/2024/10/9/24266020/brazil-telecommunications-agency-anatel-unblock-x</link>
+      <title>美国司法部希望如何打破谷歌的搜索垄断</title>
+      <link>https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24265983/doj-google-search-remedies-monopoly</guid>
+      <pubDate>Wed, 09 Oct 2024 17:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 表示不会隐藏广告上的“跳过”按钮</title>
+      <link>https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads</link>
       <description><![CDATA[
 
-插图：The Verge
+插图由 Alex Castro / The Verge 提供
 
-巴西国家电信局向服务提供商发出命令解除对 X 的封锁，结束了为期五周的封锁社交媒体公司的禁令。 
-Anatel 是一家类似于该国联邦通信委员会的机构，该机构今天发布了该指令，并表示每个互联网服务提供商都有责任采取措施执行该命令。Anatel 表示：
-解除封锁的执行时间将取决于提供商根据其具体情况采取的措施。由于该平台拒绝遵守司法决定，最高法院自行决定暂时中止对 X 的访问。
-该命令是巴西最高法院宣布 X 可以在该国恢复其社交网络活动的结果。巴西最高法院法官亚历山大·德莫赖斯 (Alexandre de Moraes) 昨天下令 Anatel 在 24 小时内解除对 X 的封锁，此前该公司确定 X“满足了回归的所有必要要求”。
-这家由埃隆·马斯克 (Elon Musk) 拥有的公司因未能在该国指定新的法定代表人而被暂时禁止。 
-马斯克于 8 月关闭了 X 在巴西的办事处，声称德莫拉斯威胁要逮捕该公司的法定代表人，原因是不遵守“审查命令”。]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24266020/brazil-telecommunications-agency-anatel-unblock-x</guid>
-      <pubDate>Wed, 09 Oct 2024 14:28:06 GMT</pubDate>
+一些 YouTube 用户发现，最近几天，该平台让跳过广告变得更加困难。在 Reddit 上，一名用户报告称，在桌面版跳过按钮上，他看到了黑色矩形，而不是预期的倒计时器。几天后，Android Police 报告称，在移动设备上，他没有看到跳过倒计时。
+但在向The Verge发表的声明中，YouTube 表示，它并没有删除跳过按钮——它只是改变了广告显示方式的一些元素。
+“YouTube 并没有隐藏跳过按钮，”YouTube 发言人 Oluwa Falodun 在给 The Verge 的声明中表示。“对于可跳过的广告，该按钮会在播放 5 秒后出现，一如既往。”
+至于这些变化，Falodun 表示 YouTube 正在“减少广告播放器上的元素”，以便“观众可以通过更简洁的体验更深入地参与广告。”桌面和移动设备上的用户还可能会看到跳过广告的倒计时器“以进度条的形式出现在屏幕底部”。这里的区别似乎是跳过按钮没有被删除，但它可能不会以与以前相同的方式呈现。
+虽然公司没有隐藏跳过按钮令人放心，但 YouTube 正在积极扩展您看到广告的位置和方式。例如，暂停屏幕现在很容易出现广告，去年，该公司删除了一些针对创作者的广告控制。YouTube 也一直在打击使用广告拦截器来躲避广告的行为。当然，也许去除广告最简单的方法就是付费购买 YouTube Premium，但其价格却不断上涨上涨。]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266183/youtube-not-hiding-skip-button-ads</guid>
+      <pubDate>Wed, 09 Oct 2024 17:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>HBO 的《灯笼》将亚伦·皮埃尔加入演员阵容，饰演约翰·斯图尔特</title>
+      <link>https://www.theverge.com/2024/10/9/24266192/hbo-lanterns-john-stewart-casting-aaron-pierre-dc-comics</link>
+      <description><![CDATA[
+
+照片由 Michael Loccisano / Getty Images 拍摄
+
+虽然 HBO 尚未正式确定 Hal Jordan 出演其即将上映的Lanterns系列根据 DC 漫画改编，该网络找到了自己的约翰·斯图尔特。
+今天，HBO 宣布《义军山脊》和《老友记》的明星亚伦·皮埃尔将扮演《绿灯侠》的约翰·斯图尔特，他是绿灯侠军团的新兵。他与老将绿灯侠哈尔·乔丹联手破解一个需要他们专业知识的“黑暗、地球”谋杀谜团。据 Deadline 报道，据报道，凯尔·钱德勒 (Kyle Chandler) 正在洽谈加入该系列剧，饰演乔丹一角，皮埃尔以微弱优势击败了《英雄归来》的斯蒂芬·詹姆斯 (Stephan James)，获得了斯图尔特一角。灯笼尚未确定上映日期，是华纳兄弟和DC Studio 的全新互联漫画改编宇宙，包括詹姆斯·冈恩的《超人》等电影和《Creature Commandos》等系列。我们可能还需要一段时间才能知道《绿灯侠》节目制作人克里斯·芒迪为绿衣男孩们准备了什么。但自从我们在小屏幕上看到约翰·斯图尔特的精彩故事以来（《正义联盟无限》于 2006 年播出），它可能非常值得等待。]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266192/hbo-lanterns-john-stewart-casting-aaron-pierre-dc-comics</guid>
+      <pubDate>Wed, 09 Oct 2024 17:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zoom 将让人工智能替你与团队沟通</title>
+      <link>https://www.theverge.com/2024/10/9/24266007/zoom-ai-avatars-clips-talk-for-you</link>
+      <description><![CDATA[
+
+图片：Zoom
+
+Zoom 距离让AI 头像为您参加会议。作为更广泛的 AI 扩展的一部分，Zoom 宣布很快将允许您创建自己的 AI 头像，您可以使用它向您的团队发送简短消息。
+要创建数字化身，您需要录制自己的初始视频，Zoom 的 AI 将使用该视频制作一个看起来（甚至听起来）像您的头像。从那里，您可以编写您希望 AI 头像说的消息，然后让它为您完成所有对话。此功能仅适用于 Zoom 的 Clips 功能，允许您为同事录制简短的视频更新。
+Zoom 正在考虑深度伪造的可能性。 Zoom 首席产品官 Smita Hashim 在新闻发布会上表示，公司“正在非常谨慎地处理这个问题，采用先进的身份验证、水印技术和严格的使用政策。”
+
+定制 AI 头像将于明年初作为 Zoom 定制 AI Companion 附加组件的一部分推出，每月需额外支付 12 美元。如果您没有安装该插件，但确实拥有付费的 Zoom 订阅，Zoom 仍会允许您使用预设的 AI 头像和声音创建剪辑，这可能与制作自己的 AI 头像一样令人毛骨悚然。
+在 6 月接受 Decoder 采访时，Zoom 首席执行官 Eric Yuan 提到了他的目标，即让您在做其他事情时向会议和电话发送“数字孪生”。袁征说：“今天参加这个会议，理想情况下，我不需要加入。我可以发送我的数字版本加入，这样我就可以去海滩了。”“或者我不需要查看我的电子邮件；我的数字版本可以阅读大多数电子邮件……我们如何利用人工智能，如何利用 Zoom Workplace，来完全自动化这类工作？这对我们来说非常重要。”
+除了 AI 头像之外，Zoom 的新自定义插件还将允许其 AI 与更多第三方生产力应用程序（如 Zendesk 和 Asana）集成，并引入新的个性化选项，您可以使用这些选项来创建自定义会议摘要模板。]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266007/zoom-ai-avatars-clips-talk-for-you</guid>
+      <pubDate>Wed, 09 Oct 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊 Prime Day 第二天您可以获得的最佳优惠</title>
       <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 14:24:38 GMT</pubDate>
+      <pubDate>Wed, 09 Oct 2024 16:55:07 GMT</pubDate>
     </item>
     <item>
-      <title>三星 Galaxy Buds 3 Pro 评测：点亮它</title>
-      <link>https://www.theverge.com/24265270/samsung-galaxy-buds-3-pro-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24265270/samsung-galaxy-buds-3-pro-review</guid>
-      <pubDate>Wed, 09 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 亚马逊 10 月 Prime Day 活动指南</title>
-      <link>https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october</link>
+      <title>亚马逊 Prime Day 第二天最优惠的耳机和耳塞优惠</title>
+      <link>https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale</link>
       <description><![CDATA[
 
-图片：Cath Virginia / The Verge
+照片由 Chris Welch / The Verge 拍摄
 
-亚马逊连续第三年在秋季开售 举办第二次 Prime Day 活动。今年为期两天的购物活动（称为 Prime Big Deal Days）将持续到今天（10 月 9 日）结束，让亚马逊 Prime 订阅用户有机会在今年晚些时候的黑色星期五和网络星期一到来之前实现他们的假日愿望清单。
-亚马逊已经提供了很多超值优惠，我们看到亚马逊自己的设备都有大幅折扣，包括 Fire 平板电脑、Echo 扬声器、Eero 路由器、Kindle、等等。这家在线零售商还大幅降低了各种其他电子产品的价格，从降噪耳机和耳塞到视频门铃以及一些我们最喜欢的机器人吸尘器。
-与往常一样，我们将在活动的剩余时间内仔细检查亚马逊的登陆页面，让您轻松关注 Prime Day 2.0 推出的最佳优惠。我们还提供一系列有用的活动导航提示，包括在沃尔玛、百思买和塔吉特等竞争零售商处省钱的方法。
-因此，仔细检查此页面，注册新 Verge Deals 时事通讯，并准备好现金。你将会需要它。]]></description>
-      <guid>https://www.theverge.com/24255302/amazon-prime-day-deals-tips-news-guide-2024-october</guid>
-      <pubDate>Wed, 09 Oct 2024 13:33:07 GMT</pubDate>
+亚马逊在10 月 Prime Day 的第二天继续提供许多最佳耳机和耳塞折扣促销。如果您想在假日购物中抢占先机——或者只是想给自己买个新升级版——这是一个很好的机会。
+Apple 的 AirPods Pro 即将获得重要的听力健康功能，价格实惠，但索尼、Bose、三星（如我刚刚评测过的 Buds 3 Pro）、森海塞尔和该类别的其他主流品牌也提供了出色的选择。如果您想消除猜测，请查看我们的最佳耳塞购买指南，您会发现我最喜欢的许多选择都以诱人的价格出售。
+Apple / Beats
+
+Beats Studio Pro 降噪耳机的黑色星期五价格为 169.99 美元（相当可观的 180 美元折扣），在亚马逊 和 百思买。如果您不介意设计略显过时，那么它们是一种非常经济实惠的方式，可以买到一些坚固的 ANC 耳机，它们在 iOS 和 Android 生态系统上都能很好地工作，并且它们还具有非常好的透明模式。 阅读我们的评论。
+
+
+索尼
+
+
+Bose
+
+
+三星
+
+其他
+
+亚马逊 正在以 199.99 美元（优惠 80 美元）的新低价出售 Jabra 的半开放式 Elite 10 Gen 2 耳塞。 Jabra 可能正在退出消费级耳塞市场，但这款告别产品是其最先进的产品之一。它们配备了降噪、物理按钮和多点功能，但真正的卖点是随附的 LE Audio 充电盒，可让您从外部设备无线传输音频。
+
+]]></description>
+      <guid>https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale</guid>
+      <pubDate>Wed, 09 Oct 2024 16:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>您可以在 Prime Day 上享受我们的一些居家办公必备品的最佳优惠</title>
-      <link>https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024</link>
+      <title>我们发现的最佳 Prime Day 智能家居优惠</title>
+      <link>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 13:22:49 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</guid>
+      <pubDate>Wed, 09 Oct 2024 16:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是我挑选的 Prime Day 最佳机器人吸尘器和拖把优惠</title>
+      <link>https://www.theverge.com/2024/10/9/24266033/amazon-prime-day-best-deals-robot-vacuums-roborock-roomba-dreame-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/9/24266033/amazon-prime-day-best-deals-robot-vacuums-roborock-roomba-dreame-sale</guid>
+      <pubDate>Wed, 09 Oct 2024 16:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
