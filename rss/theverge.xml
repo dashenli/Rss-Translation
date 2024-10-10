@@ -4,7 +4,68 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 06:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:30:05 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 的新密钥设计包括云同步和 1Password 集成</title>
+      <link>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</link>
+      <description><![CDATA[
+
+图片：Microsoft
+
+Microsoft 即将大幅改进其在 Windows 11 中对密钥的支持。 重新设计的 Windows Hello 体验将允许您选择如何保存密钥，甚至将其同步到您的 Microsoft 帐户或将其存储在 1Password、Bitwarden 或其他密钥提供商中。
+第三方密码和密钥管理器的新 API 意味着开发人员可以直接插入 Windows 11 体验，因此您可以使用移动设备上的相同密钥在 PC 上进行身份验证。目前，某些应用可以通过二维码和其他方式从移动设备进行身份验证，但微软的全力支持意味着 Windows 上的密钥体验将变得更好。
+
+
+图片：微软
+新的 Windows Hello 密钥 UI。
+
+微软还在重新设计 Windows Hello prompt，包括设置将密钥同步到您的 Microsoft 帐户或将其保存在其他地方的功能。完成一次性设置过程后，您可以使用面部识别、指纹或 PIN 在多个 Windows 11 设备上使用密钥进行身份验证。
+Windows Insiders 将“在未来几个月内”首先获得这些新密钥功能的访问权限，这意味着所有 Windows 11 用户都需要一段时间才能看到这种新的密钥体验。微软计划在下周的 Authenticate 2024 会议 上的 Windows 安全会议上分享有关其改进的密钥支持的更多详细信息。]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</guid>
+      <pubDate>Thu, 10 Oct 2024 12:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐喻：ReFantazio 延续了 Persona 的伟大掌上传统</title>
+      <link>https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage</link>
+      <description><![CDATA[
+
+图片：Atlus
+
+Atlus 的《Persona》系列主要是一个主机系列，但它拥有强大的掌上游戏传统。 《女神异闻录 3》和《女神异闻录 4》都有出色的便携版本，任天堂 Switch 上的《女神异闻录 5：皇家版》也很棒。《Metaphor：ReFantazio》是一款新的奇幻 JRPG，由深受喜爱的《女神异闻录》系列背后的团队制作。虽然游戏发生在不同的宇宙中，但《Metaphor》中有许多核心元素，这意味着它同样具有出色的掌上体验。
+说《Metaphor》与《女神异闻录》类似，可能有些轻描淡写。游戏的用户界面异常华丽。你会花很多时间与你的盟友交谈，增进与他们的联系。在迫在眉睫的最后期限之前，你穿越庞大的地下城并与你的同伴共度时光，日子一天天过去。主角甚至经历了史诗般的转变，他们残忍地从身体里扯出一个器官，一个神秘的声音用“thous”和“haths”说话。有一次，在记游戏笔记时，我把它叫做Persona，而不是Metaphor。它就是那么相似。
+但这意味着让Persona游戏成为出色的便携式游戏也适用于Metaphor。战斗往往很快，这意味着如果你有几分钟的时间，你可以冲过几个战斗来清理地牢地板。在游戏中的一天内完成活动就足以让人感觉像是在进步。游戏的某些部分有很长的文字，但当我在睡觉前玩游戏时，看到接下来发生的事情就像是一本好书中令人兴奋的一章。 
+
+我在 Steam Deck 上玩 Metaphor。该游戏在 Steam 上被列为可玩而不是已验证，虽然它确实可玩，但性能不稳定，尤其是在我访问过的城镇地区。 （城镇是相当繁忙的地方，有很多角色和事情在发生。）实际上，我在设置中将游戏速度限制在 30fps，即使它可以运行得更高，只是因为我不想处理不同的帧速率。
+但幸运的是，Metaphor 不是一款要求完美性能的游戏。在地下城中，您可以实时攻击敌人以试图抢先一步，但我发现帧速率下降并没有妨碍我成功发动攻击的能力。无论如何，所有战斗都是回合制的，一些帧速率下降对我来说没有太大影响。 
+我完全可以应付一些问题；能够随身携带 Metaphor 去任何我想去的地方真是太棒了。我几乎每天晚上睡觉前都会玩这个游戏，周末我趁我的新宝宝午睡时在沙发上玩，我甚至在最近两次出差时都带着我的 Steam Deck，这样我就可以在有空的时候偷偷玩几局。
+Metaphor 还有一个地方与 Persona 系列相似：这绝对是巨大的。但是，如果你可以随时随地玩，那么数十小时的游戏就更容易管理了。]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage</guid>
+      <pubDate>Thu, 10 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉“我们，机器人”活动有哪些看点</title>
+      <link>https://www.theverge.com/2024/10/10/24265122/tesla-robotaxi-event-how-to-watch-what-to-expect-optimus</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24265122/tesla-robotaxi-event-how-to-watch-what-to-expect-optimus</guid>
+      <pubDate>Thu, 10 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple TV Plus 即将登陆 Prime Video</title>
+      <link>https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription</link>
+      <description><![CDATA[
+
+这并不比直接订阅 Apple 便宜，但它可能会让 Apple TV Plus 拥有更广泛的受众。 |插图由 Alex Castro / The Verge 提供
+
+亚马逊正在将 Apple TV Plus 添加到 Prime Video 中，此举可能有助于提振这家 iPhone 制造商低迷的流媒体服务。Apple TV Plus 将于本月晚些时候在美国的 Prime Video 上推出，每月附加费用为 9.99 美元——与你直接向 Apple 支付的费用相同。现在的不同之处在于，Apple TV Plus 直接面向亚马逊庞大的视频订阅用户群进行推广。
+“我们为渠道合作伙伴提供的是全球数亿订阅用户，”Prime Video 负责人Mike Hopkins 在彭博 Screentime 大会上表示。“我们看到了更多的参与度，我们能够以非常有吸引力的价格为这些企业获得订阅用户。”亚马逊会从其视频平台上购买的流媒体订阅收入中抽取一定比例，但具体条款尚未披露。
+
+虽然 Apple TV Plus 因其《Severance》、《Ted Lasso》和《Foundation》等一系列节目而受到称赞，但该服务在与 Prime Video、Netflix、Max、Disney Plus 和 Hulu（目前分别是美国订阅量最大的五个流媒体平台）的竞争中仍举步维艰。根据 JustWatch 流媒体指南，上个季度 Paramount Plus 在市场份额上超过了该服务，市场研究公司 Antenna 报告称，Apple TV Plus 的订阅取消率在流媒体提供商中名列前茅。
+
+在 Prime Video 中提供 Apple TV Plus 与康卡斯特的一体式 Netflix、Peacock 和 Apple TV Plus 等捆绑交易并不完全相同，但目标是相同的——吸引更多客户并降低取消率，因为观众对管理不断增加的订阅数量感到厌倦，应用程序。
+对于亚马逊来说，Apple TV Plus 加入了 Prime Video Channels 上已有的 100 多种流媒体服务附加组件。霍普金斯表示，这都是该公司成为全球“第一站娱乐中心”计划的一部分，这是苹果曾经为 Apple TV 设定的目标。]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription</guid>
+      <pubDate>Thu, 10 Oct 2024 10:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>十月 Prime Day 结束前您可以抢到的最优惠商品</title>
       <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
@@ -46,72 +107,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</guid>
       <pubDate>Wed, 09 Oct 2024 23:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 月 Prime Day 最佳优惠，价格低于 100 美元</title>
-      <link>https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24264356/amazon-prime-day-best-cheap-tech-deals-under-100-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 23:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以在 Prime Day 上享受我们的一些居家办公必备品的最佳优惠</title>
-      <link>https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 23:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 Prime Day 第二天最优惠的耳机和耳塞优惠</title>
-      <link>https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale</link>
-      <description><![CDATA[
-
-照片由 Chris Welch / The Verge 拍摄
-
-亚马逊在10 月 Prime Day 的第二天继续提供许多最佳耳机和耳塞折扣促销。如果您想在假日购物中抢占先机——或者只是想给自己买个新升级版——这是一个很好的机会。
-Apple 的 AirPods Pro 即将获得重要的听力健康功能，价格实惠，但索尼、Bose、三星（如我刚刚评测过的 Buds 3 Pro）、森海塞尔和该类别的其他主流品牌也提供了出色的选择。如果您想消除猜测，请查看我们的最佳耳塞购买指南，您会发现我最喜欢的许多选择都以诱人的价格出售。
-Apple / Beats
-
-Beats Studio Pro 降噪耳机的黑色星期五价格为 169.99 美元（相当可观的 180 美元折扣），在亚马逊 和 百思买。如果您不介意设计略显过时，那么它们是一种非常经济实惠的方式，可以买到一些坚固的 ANC 耳机，它们在 iOS 和 Android 生态系统上都能很好地工作，并且它们还具有非常好的透明模式。 阅读我们的评论。
-
-
-索尼
-
-
-Bose
-
-
-三星
-
-其他
-
-亚马逊 正在以 199.99 美元（优惠 80 美元）的新低价出售 Jabra 的半开放式 Elite 10 Gen 2 耳塞。 Jabra 可能正在退出消费级耳塞市场，但这款告别产品是其最先进的产品之一。它们配备了降噪、物理按钮和多点功能，但真正的卖点是随附的 LE Audio 充电盒，可让您从外部设备无线传输音频。
-
-]]></description>
-      <guid>https://www.theverge.com/24265995/amazon-prime-day-best-deals-earbuds-headphones-october-2024-sale</guid>
-      <pubDate>Wed, 09 Oct 2024 22:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>任天堂正在接受申请加入神秘的 Switch Online 游戏测试</title>
-      <link>https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-任天堂正在邀请人们申请测试任天堂 Switch Online 的一项新功能 — — 尽管该公司并未具体说明该功能是什么。 
-考虑到该公司刚刚推出了一款手势控制闹钟，这可能意味着任何事情，包括备受期待的 Switch 2 的功能预览。 Verge 工作人员的猜测范围很广，包括将 GameCube 游戏引入 Switch Online、预览 Wii mini 复古游戏机，或者可能是另一款失传已久的 Star Fox 游戏。欢迎在评论中留下您最好的猜测。
-申请将于美国东部时间 10 月 10 日星期四上午 11 点至 10 月 15 日星期二上午 10:59 开放。您可以通过单击此页面上的“进入申请页面”链接进行申请。任天堂表示，日本以外的人将“按照先到先得的原则”被选中，而日本的参与者将通过抽签选出“如果有很多日本申请人”。
-如果用户符合以下标准，他们就可以申请，截至美国东部时间 10 月 9 日星期三下午 6 点，这与宣布本次游戏测试的时间完全相同：
-
-拥有任天堂帐户
-成为活跃的 Nintendo Switch Online + 扩展包会员
-年满 18 岁
-在以下任何国家/地区注册：日本、美国、英国、法国、德国、意大利、西班牙
-
-任天堂表示，此次游戏测试“预计将接受多达 10,000 名参与者”。该公司表示，如果“接受的参与者人数已达到上限”，它将提前关闭申请。您必须将“独家软件”下载到您的 Switch 才能参与测试。
-游戏测试将于美国东部时间 10 月 23 日晚上 9 点至美国东部时间 11 月 5 日晚上 7:59 进行。]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest</guid>
-      <pubDate>Wed, 09 Oct 2024 22:16:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
