@@ -4,7 +4,21 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 01:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 03:21:31 GMT</lastBuildDate>
+    <item>
+      <title>您仍然可以获得 MacBook、iPad 等产品的最佳 Prime Day Apple 优惠</title>
+      <link>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</guid>
+      <pubDate>Thu, 10 Oct 2024 03:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊 Prime Day 第二天您可以获得的最佳优惠</title>
+      <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
+      <pubDate>Thu, 10 Oct 2024 02:19:48 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊 10 月 Prime Day 促销活动中我们最喜欢的 50 美元以下优惠</title>
       <link>https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24265605/amazon-prime-day-deals-home-office-wfh-desk-accessories-sale-october-2024</guid>
       <pubDate>Wed, 09 Oct 2024 23:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 Prime Day 第二天您可以获得的最佳优惠</title>
-      <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
-      <pubDate>Wed, 09 Oct 2024 22:47:52 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊 Prime Day 第二天最优惠的耳机和耳塞优惠</title>
@@ -93,7 +100,7 @@ Bose
 
 任天堂正在邀请人们申请测试任天堂 Switch Online 的一项新功能 — — 尽管该公司并未具体说明该功能是什么。 
 考虑到该公司刚刚推出了一款手势控制闹钟，这可能意味着任何事情，包括备受期待的 Switch 2 的功能预览。 Verge 工作人员的猜测范围很广，包括将 GameCube 游戏引入 Switch Online、预览 Wii mini 复古游戏机，或者可能是另一款失传已久的 Star Fox 游戏。欢迎在评论中留下您最好的猜测。
-申请将于美国东部时间 10 月 10 日星期四上午 11 点至 10 月 15 日星期二上午 10:59 开放。您可以通过单击此页面上的“进入申请页面”链接进行申请。任天堂表示，日本以外的人将“按照先到先得的原则”被选中，而日本的参与者将通过抽签方式选出“如果有很多日本申请人”。
+申请将于美国东部时间 10 月 10 日星期四上午 11 点至 10 月 15 日星期二上午 10:59 开放。您可以通过单击此页面上的“进入申请页面”链接进行申请。任天堂表示，日本以外的人将“按照先到先得的原则”被选中，而日本的参与者将通过抽签选出“如果有很多日本申请人”。
 如果用户符合以下标准，他们就可以申请，截至美国东部时间 10 月 9 日星期三下午 6 点，这与宣布本次游戏测试的时间完全相同：
 
 拥有任天堂帐户
@@ -105,33 +112,6 @@ Bose
 游戏测试将于美国东部时间 10 月 23 日晚上 9 点至美国东部时间 11 月 5 日晚上 7:59 进行。]]></description>
       <guid>https://www.theverge.com/2024/10/9/24266478/nintendo-switch-online-invite-application-beta-playtest</guid>
       <pubDate>Wed, 09 Oct 2024 22:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网档案馆遭受攻击，3100 万个账户信息遭泄露</title>
-      <link>https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-周三下午访问互联网档案馆 (www.archive.org) 时，The Verge弹出一个窗口，声称该网站已被黑客入侵。 
-弹出窗口的内容如下：
-“您是否曾感觉互联网档案馆运行不稳定，并且随时处于遭受灾难性安全漏洞的边缘？这刚刚发生。HIBP 上有 3100 万这样的人！”
-HIBP 指的是 Have I Been Pwned?，这是一个人们可以查询自己的信息是否被发布在网络攻击泄露的数据中的网站。 HIBP 运营者 Troy Hunt 向 Bleeping Computer 证实，九天前，他收到了一份文件，其中包含 3100 万个唯一电子邮件地址的“电子邮件地址、屏幕名称、密码更改时间戳、Bcrypt 哈希密码和其他内部数据”，并通过将数据与用户帐户进行匹配确认了该文件的有效性。
-HIBP 的一条推文称，54% 的帐户已在其数据库中，来自之前的入侵事件。在他的账户上的帖子Hunt中，他提供了时间线的更多细节，从 10 月 6 日联系 IA 报告数据泄露，到推进披露流程，直到今天他们的网站被破坏并遭到 DDoS 攻击，与此同时，他们正在将数据加载到 HIBP 中，开始通知受影响的用户。
-
-
-让我分享更多关于这个事件的时间顺序：9 月 30 日：有人向我发送了数据泄露事件，但我正在旅行，没有意识到其重要性10 月 5 日：我有机会查看它 - 哇哦！10 月 6 日：我联系了 IA 的某个人并发送了数据，建议我们的目标是加载……— Troy Hunt (@troyhunt) 2024 年 10 月 9 日
-
-
-关闭消息后，网站加载正常，尽管速度很慢。目前尚不清楚该网站发生了什么，但针对 TweetDeck 等服务的攻击利用了 XSS 或跨站点脚本漏洞，效果类似。
-截至美国东部时间下午 5:30，弹出窗口已消失，但网站其余部分也消失了，只留下空白或占位符消息，提示“Internet Archive 服务暂时离线”，并引导访问者前往该网站的X 帐户进行更新。
-Internet Archive 的档案管理员和软件策展人 Jason Scott 表示，该网站正在遭受 DDoS 攻击，在 Mastodon 上发帖称“根据他们的推特，他们这样做只是为了这样做。只是因为他们可以。没有声明，没有想法，没有要求。”另外，IA 的 Brewster Kahley 写道：“昨天对 @internetarchive 的 DDOS 攻击今天再次发生。我们正在努力让 http://archive.org 重新上线。”两者都没有提到这次入侵。
-X 上一个名为 SN_Blackmeta 的账户表示它是这次攻击的幕后黑手，并暗示计划在明天发动另一次攻击。该帐户还在 5 月份发布了有关 DDoSing 档案馆的消息，而 Scott 之前也发布过有关似乎旨在破坏互联网档案馆的攻击的消息。
-我们已联系该组织以了解更多信息。
-10 月 9 日更新：添加了来自 HIBP 和 BleepingComputer 的信息，确认存在违规行为。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message</guid>
-      <pubDate>Wed, 09 Oct 2024 21:26:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
