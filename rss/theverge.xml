@@ -4,109 +4,158 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 12:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:21:48 GMT</lastBuildDate>
     <item>
-      <title>Windows 11 的新密钥设计包括云同步和 1Password 集成</title>
-      <link>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</link>
-      <description><![CDATA[
-
-图片：Microsoft
-
-Microsoft 即将大幅改进其在 Windows 11 中对密钥的支持。 重新设计的 Windows Hello 体验将允许您选择如何保存密钥，甚至将其同步到您的 Microsoft 帐户或将其存储在 1Password、Bitwarden 或其他密钥提供商中。
-第三方密码和密钥管理器的新 API 意味着开发人员可以直接插入 Windows 11 体验，因此您可以使用移动设备上的相同密钥在 PC 上进行身份验证。目前，某些应用可以通过二维码和其他方式从移动设备进行身份验证，但微软的全力支持意味着 Windows 上的密钥体验将变得更好。
-
-
-图片：微软
-新的 Windows Hello 密钥 UI。
-
-微软还在重新设计 Windows Hello prompt，包括设置将密钥同步到您的 Microsoft 帐户或将其保存在其他地方的功能。完成一次性设置过程后，您可以使用面部识别、指纹或 PIN 在多个 Windows 11 设备上使用密钥进行身份验证。
-Windows Insiders 将“在未来几个月内”首先获得这些新密钥功能的访问权限，这意味着所有 Windows 11 用户都需要一段时间才能看到这种新的密钥体验。微软计划在下周的 Authenticate 2024 会议 上的 Windows 安全会议上分享有关其改进的密钥支持的更多详细信息。]]></description>
-      <guid>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</guid>
-      <pubDate>Thu, 10 Oct 2024 12:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐喻：ReFantazio 延续了 Persona 的伟大掌上传统</title>
-      <link>https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage</link>
-      <description><![CDATA[
-
-图片：Atlus
-
-Atlus 的《Persona》系列主要是一个主机系列，但它拥有强大的掌上游戏传统。 《女神异闻录 3》和《女神异闻录 4》都有出色的便携版本，任天堂 Switch 上的《女神异闻录 5：皇家版》也很棒。《Metaphor：ReFantazio》是一款新的奇幻 JRPG，由深受喜爱的《女神异闻录》系列背后的团队制作。虽然游戏发生在不同的宇宙中，但《Metaphor》中有许多核心元素，这意味着它同样具有出色的掌上体验。
-说《Metaphor》与《女神异闻录》类似，可能有些轻描淡写。游戏的用户界面异常华丽。你会花很多时间与你的盟友交谈，增进与他们的联系。在迫在眉睫的最后期限之前，你穿越庞大的地下城并与你的同伴共度时光，日子一天天过去。主角甚至经历了史诗般的转变，他们残忍地从身体里扯出一个器官，一个神秘的声音用“thous”和“haths”说话。有一次，在记游戏笔记时，我把它叫做Persona，而不是Metaphor。它就是那么相似。
-但这意味着让Persona游戏成为出色的便携式游戏也适用于Metaphor。战斗往往很快，这意味着如果你有几分钟的时间，你可以冲过几个战斗来清理地牢地板。在游戏中的一天内完成活动就足以让人感觉像是在进步。游戏的某些部分有很长的文字，但当我在睡觉前玩游戏时，看到接下来发生的事情就像是一本好书中令人兴奋的一章。 
-
-我在 Steam Deck 上玩 Metaphor。该游戏在 Steam 上被列为可玩而不是已验证，虽然它确实可玩，但性能不稳定，尤其是在我访问过的城镇地区。 （城镇是相当繁忙的地方，有很多角色和事情在发生。）实际上，我在设置中将游戏速度限制在 30fps，即使它可以运行得更高，只是因为我不想处理不同的帧速率。
-但幸运的是，Metaphor 不是一款要求完美性能的游戏。在地下城中，您可以实时攻击敌人以试图抢先一步，但我发现帧速率下降并没有妨碍我成功发动攻击的能力。无论如何，所有战斗都是回合制的，一些帧速率下降对我来说没有太大影响。 
-我完全可以应付一些问题；能够随身携带 Metaphor 去任何我想去的地方真是太棒了。我几乎每天晚上睡觉前都会玩这个游戏，周末我趁我的新宝宝午睡时在沙发上玩，我甚至在最近两次出差时都带着我的 Steam Deck，这样我就可以在有空的时候偷偷玩几局。
-Metaphor 还有一个地方与 Persona 系列相似：这绝对是巨大的。但是，如果你可以随时随地玩，那么数十小时的游戏就更容易管理了。]]></description>
-      <guid>https://www.theverge.com/2024/10/10/24266327/metaphor-refantazio-persona-handheld-heritage</guid>
-      <pubDate>Thu, 10 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉“我们，机器人”活动有哪些看点</title>
-      <link>https://www.theverge.com/2024/10/10/24265122/tesla-robotaxi-event-how-to-watch-what-to-expect-optimus</link>
+      <title>英特尔的新旗舰 CPU 将运行更凉爽、更高效，适合 PC 游戏</title>
+      <link>https://www.theverge.com/2024/10/10/24265928/intel-core-ultra-200s-series-specs-release-date-pricing</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/10/24265122/tesla-robotaxi-event-how-to-watch-what-to-expect-optimus</guid>
-      <pubDate>Thu, 10 Oct 2024 11:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/10/24265928/intel-core-ultra-200s-series-specs-release-date-pricing</guid>
+      <pubDate>Thu, 10 Oct 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple TV Plus 即将登陆 Prime Video</title>
-      <link>https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription</link>
+      <title>雷克萨斯新款 LX 配备防水混合动力发动机</title>
+      <link>https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025</link>
       <description><![CDATA[
 
-这并不比直接订阅 Apple 便宜，但它可能会让 Apple TV Plus 拥有更广泛的受众。 |插图由 Alex Castro / The Verge 提供
+全新 LX 700h Overtrail 版。 |图片：雷克萨斯
 
-亚马逊正在将 Apple TV Plus 添加到 Prime Video 中，此举可能有助于提振这家 iPhone 制造商低迷的流媒体服务。Apple TV Plus 将于本月晚些时候在美国的 Prime Video 上推出，每月附加费用为 9.99 美元——与你直接向 Apple 支付的费用相同。现在的不同之处在于，Apple TV Plus 直接面向亚马逊庞大的视频订阅用户群进行推广。
-“我们为渠道合作伙伴提供的是全球数亿订阅用户，”Prime Video 负责人Mike Hopkins 在彭博 Screentime 大会上表示。“我们看到了更多的参与度，我们能够以非常有吸引力的价格为这些企业获得订阅用户。”亚马逊会从其视频平台上购买的流媒体订阅收入中抽取一定比例，但具体条款尚未披露。
+雷克萨斯推出一款全新 LX SUV，配备“坚固耐用”的混合动力发动机，能够经受住一些水上旅行。LX 700h 配备 3.5L V6 双涡轮增压混合动力系统，配有防水电池和隔板，有助于防止水进入发动机，以及防水交流逆变器，可提供高达 2,400 瓦的外部电源。如果水进入系统，您将在新的 12.3 英寸全 LCD 仪表屏幕上收到警报。
+雷克萨斯表示，其新设计的并联混合动力系统集成了电动发电机和位于发动机和变速箱之间的离合器。该设置使其能够最大限度地提高扭矩输出并保持全时四轮驱动，这对提高效率很有好处。这也是该汽车制造商的第一款同时包含交流发电机和起动器的系统，可以在发生故障时绕过混合动力系统并充当常规燃气发动机。
 
-虽然 Apple TV Plus 因其《Severance》、《Ted Lasso》和《Foundation》等一系列节目而受到称赞，但该服务在与 Prime Video、Netflix、Max、Disney Plus 和 Hulu（目前分别是美国订阅量最大的五个流媒体平台）的竞争中仍举步维艰。根据 JustWatch 流媒体指南，上个季度 Paramount Plus 在市场份额上超过了该服务，市场研究公司 Antenna 报告称，Apple TV Plus 的订阅取消率在流媒体提供商中名列前茅。
+如果您将 LX 放入一些积水中，它可以深入 700 毫米（27.56 英寸），而不必担心进水。相比之下，另一款配备防水混合动力系统的 SUV 吉普牧马人 4xe 的设计深度可达 31.5 英寸。
+LX 系列中还有一个更像吉普的“Overtrail”版本，包括前后差速锁，而且首次可以为 LX 配置 18 英寸轮辋上的全地形轮胎。目前尚不清楚何时可以购买 LX 700h，但雷克萨斯表示将从 2024 年底开始在各个地区分阶段推出 LX。]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266847/lexus-lx-700h-rugged-hybrid-suv-2025</guid>
+      <pubDate>Thu, 10 Oct 2024 14:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是申请任天堂神秘 Switch Online 游戏测试的方法</title>
+      <link>https://www.theverge.com/2024/10/10/24266514/nintendo-switch-online-playtest-program-how-to-apply</link>
+      <description><![CDATA[
 
-在 Prime Video 中提供 Apple TV Plus 与康卡斯特的一体式 Netflix、Peacock 和 Apple TV Plus 等捆绑交易并不完全相同，但目标是相同的——吸引更多客户并降低取消率，因为观众对管理不断增加的订阅数量感到厌倦，应用程序。
-对于亚马逊来说，Apple TV Plus 加入了 Prime Video Channels 上已有的 100 多种流媒体服务附加组件。霍普金斯表示，这都是该公司成为全球“第一站娱乐中心”计划的一部分，这是苹果曾经为 Apple TV 设定的目标。]]></description>
-      <guid>https://www.theverge.com/2024/10/10/24266763/apple-tv-plus-amazon-prime-video-add-on-subscription</guid>
-      <pubDate>Thu, 10 Oct 2024 10:00:16 GMT</pubDate>
+图片：The Verge
+
+10 月 10 日更新：任天堂游戏测试的注册人数已满。我们最初的报道如下。 
+
+您想成为参加任天堂神秘新Nintendo Switch Online“游戏测试计划”的 10,000 名参与者之一吗？如果您符合条件，您可以从今天上午 11 点（美国东部时间）/上午 8 点（太平洋时间）开始通过任天堂网站上的“前往申请页面”链接申请游戏测试。 
+申请将持续开放至美国东部时间 10 月 15 日上午 10:59，但任天堂表示，如果名额已满，将提前停止接受申请。我想你会面对一大批有希望的人，但如果你想加入竞争，以下是你需要知道的事情。
+也许最重要的是，只有截至 10 月 9 日（星期三）美国东部时间下午 6 点拥有有效 Nintendo Switch Online + 扩展包会员资格的人才能申请。所以，如果你还没有订阅该等级，那你就没那么幸运了。您还需要年满 18 岁，并在法国、德国、意大利、日本、西班牙、美国或英国注册您的 Nintendo 帐户。
+任天堂将按照先到先得的原则选择人员 - 除非您来自日本，如果日本申请者很多，则可能会通过抽签选出参与者。
+如果您足够幸运地进入，游戏测试将于美国东部时间 10 月 23 日晚上 9 点至美国东部时间 11 月 5 日晚上 7 点 59 分进行，任天堂表示您必须下载“独家软件”。
+我目前没有订阅 Nintendo Switch Online，所以很遗憾我已退出比赛。祝所有尝试加入的人好运。告诉我游戏测试如何 — 不管它是什么！
+
+
+希望申请参加此测试的人必须在 10 月 9 日下午 3:00（太平洋时间）满足以下资格要求：• 拥有 Nintendo 帐户• 成为活跃的 Nintendo Switch Online + 扩展包成员• 年满 18 岁• 在任何...— Nintendo of America (@NintendoAmerica) 10 月 9 日， 2024
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266514/nintendo-switch-online-playtest-program-how-to-apply</guid>
+      <pubDate>Thu, 10 Oct 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>优秀工作场所软件的不可能梦想</title>
+      <link>https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+人工智能真的可以改变我们与工具的爱恨交织的关系吗？ 在今天的Decoder，我正在与我的好朋友 David Pierce 交谈，他是 The Vergecast 的联合主持人，也是 The Verge 的特约编辑。我们正在谈论 David 花了太多时间思考和撰写的东西：软件。
+具体来说，我们正在谈论你在工作中使用的软件。这是你喜欢的东西——或者可能只是容忍——并且每天都在使用的东西，你讨厌的东西，并试图不惜一切代价避免使用的东西，以及介于两者之间的你喜欢和讨厌的东西，因为你的工作完全围绕着整天使用它。 
+
+当软件进入办公室时，商业发生了根本性的变化——这是马克·安德森现在著名的名言“软件正在吞噬世界”的基础。随着人工智能使越来越多的软件实现自动化，一切可能即将再次发生巨大变化。至少——如果您相信所有来到Decoder的首席执行官所说的事情即将发生的话。
+
+这些工具通常都被称为企业软件，但与我们许多人在日常生活中使用的流行生产力工具往往有很大的重叠。所以首先，我想请大卫帮助定义这一切。然后我想谈谈所有这些行业目前的状况，以及这些工具如何以微妙而强大的方式塑造我们每天的工作方式。
+我们当然谈论熟悉的工具，如 Microsoft Office、Google Workspace 和 Slack。但正如您将听到的 David 解释的那样，我们已经开始看到大量新应用程序涌现出来，以处理非常具体的用例。这些程序正在构建巧妙的隐喻和有趣的新界面，试图重新连接我们的大脑，让我们以不同的方式工作——大概更快、更高效，而且现在更远程。
+有时这有效……有时真的不行。感觉加入人工智能将以相当激进的方式加速这里的实验步伐。有些事情正在改变，我经常发现了解未来的最好方法是花点时间考虑现在。
+我们在本集中讨论了很多文章和访谈，包括：
+
+为什么软件正在吞噬世界 | 华尔街日报 (2011)
+Mailchimp 首席执行官 Rania Succar 解释电子邮件对 Intuit 的意义 | The Verge
+
+为什么有人会在 2023 年建立网站？| The Verge
+
+Wix 首席执行官 Avishai Abrahami 并不担心人工智能会毁掉网络 | The Verge
+
+Figma 首席执行官 Dylan Field 对人工智能持乐观态度 | The Verge
+
+我们这里不卖马鞍 | Stewart Butterfield (2014)
+Zoom 首席执行官希望在会议中使用 AI 克隆 | The Verge
+
+Dropbox 首席执行官 Drew Houston 希望您拥抱 AI | The Verge
+
+
+]]></description>
+      <guid>https://www.theverge.com/24266372/workplace-productivity-enterprise-software-ai-microsoft-office-google-workspace-slack-decoder</guid>
+      <pubDate>Thu, 10 Oct 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garmin Fenix 8 评测：只是有点智能</title>
+      <link>https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24266434/garmin-fenix-8-review-smartwatch-wearables-fitness-tracking</guid>
+      <pubDate>Thu, 10 Oct 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
       <title>十月 Prime Day 结束前您可以抢到的最优惠商品</title>
       <link>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024</guid>
-      <pubDate>Thu, 10 Oct 2024 04:41:28 GMT</pubDate>
+      <pubDate>Thu, 10 Oct 2024 13:18:18 GMT</pubDate>
     </item>
     <item>
-      <title>您仍可以以 25 美元或更低的价格获得最佳 Prime Day 优惠</title>
-      <link>https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24263922/amazon-prime-day-tech-deals-under-25-cheap-gifts-accessories-october-2024</guid>
-      <pubDate>Thu, 10 Oct 2024 03:45:46 GMT</pubDate>
+      <title>通用汽车的 PowerBank 家用电池现已上市</title>
+      <link>https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch</link>
+      <description><![CDATA[
+
+PowerBank 是 GM 家庭系统套装的一部分，但可以单独购买。 |图片：通用汽车
+
+通用汽车今天推出了其新的 PowerBank 家用电池组，该电池组直接融入了该公司的住宅能源管理产品系列。电池可让房主在非高峰时段从电网或太阳能电池板系统收集能源，然后在能源价格达到峰值或灯熄灭时为家庭供电，而无需将电动汽车挂在车库中。
+通用汽车的家庭能源公司 GM Energy 于 2022 年成立，旨在与 特斯拉及其 Powerwall 等竞争对手以及 EcoFlow 和 Anker。家庭备用解决方案价格昂贵，但它们也能让冰柜、CPAP 机器和水泵在日益恶劣的天气对电网造成严重破坏时继续运行。目前，受到米尔顿飓风和海伦飓风的双重打击，超过300 万美国家庭断电。 
+
+
+图片：GM
+有了电动汽车和移动电源，即使灯灭了，也有足够的能量储备。
+
+只需 12,700 美元，您就可以获得带有充电器、逆变器、家庭集线器的完整系统电脑和 PowerBank。通用汽车生产两种尺寸的 PowerBank，分别为 10.6kWh 和 17.7kWh，如果将两个较大的 PowerBank 组合在一起，您将获得一个 35.4kWh 的电池组，通用汽车表示它可以为普通美国家庭供电长达 20 小时。 
+通用汽车的系统包括一个双向 EV“PowerShift”充电器，可让您使用某些通用电动汽车（例如雪佛兰 Silverado EV）为您的家庭供电。
+
+通用能源目前在美国所有 50 个州运营。感兴趣的客户可以在 GM Energy Live 页面上与专家联系，获得“身临其境的数字体验”并了解有关产品的更多信息。通用汽车并不直接处理太阳能解决方案，但会将感兴趣的客户介绍给其首选安装商 Qmerit 来进行安装。]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch</guid>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您仍然可以获得 MacBook、iPad 等产品的最佳 Prime Day Apple 优惠</title>
-      <link>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24264786/apple-amazon-prime-day-deal-sale-airpods-october</guid>
-      <pubDate>Thu, 10 Oct 2024 03:17:26 GMT</pubDate>
+      <title>Threshold 的 Wi-Fi 感应插头无需摄像头即可监控护理人员</title>
+      <link>https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection</link>
+      <description><![CDATA[
+
+图片：Threshold
+
+Threshold Care 的全新 Motion Wi-Fi 感应插头 可以帮助护理人员以非侵入性的方式监控老年人（如年迈的父母），同时保护家中每个人的隐私。其内置的 Wi-Fi 感应技术可测量 Wi-Fi 信号的物理干扰，从而实现“无需捕捉图像或照片即可实时监控运动” 。 
+Wi-Fi 感应技术已经存在了几年。几年前，它是 Linksys Velop 路由器内置的运动感应安全功能的一部分，Signify 也将该技术用于其Wiz 灯泡，当您进入房间时会亮起，离开时会熄灭。 
+
+
+图片：Threshold
+
+Motion 插头三件装售价 59.99 美元，因此您可以将它们“放在家里的各个角落，创造一个全面的运动区”，因为它们可以与您现有的 Wi-Fi 路由器通信。该公司将其描述为“即插即用”设置，无需依赖可能需要电池或付费订阅服务进行持续监控的可穿戴设备。 
+
+监测运动可以让护理人员知道早上有人起床走动，而没有运动则可能表明有问题。同样，在奇怪的时间（例如半夜）的运动可能会提醒他们注意问题。 Threshold 可让您在应用程序 (iOS 和 Android) 中监控运动模式并访问长达两周的运动数据。
+然而，它缺少的一件事是实际的“智能插头”功能，该功能可让您打开或关闭插入其中的设备。它们有直通交流电源插座，但在发布时，仅此而已。
+Threshold 的网站表示，它还有其他功能正在开发中，例如将于本月推出的“Circle of Care”，用于管理对系统的共享访问和可自定义的通知，预计将于 11 月交付。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection</guid>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊 10 月 Prime Day 促销活动中我们最喜欢的 50 美元以下优惠</title>
-      <link>https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024</link>
+      <title>代理是人工智能公司承诺的未来——也是迫切需要的</title>
+      <link>https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24262440/amazon-prime-day-best-cheap-tech-deals-under-50-october-2024</guid>
-      <pubDate>Thu, 10 Oct 2024 00:44:38 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots</guid>
+      <pubDate>Thu, 10 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们在亚马逊 Prime Day 找到的最佳笔记本电脑优惠</title>
-      <link>https://www.theverge.com/good-deals/2024/10/9/24262303/amazon-prime-day-best-buy-sale-laptop-macbook-windows-gaming-deal</link>
+      <title>Windows 11 的新密钥设计包括云同步和 1Password 集成</title>
+      <link>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/good-deals/2024/10/9/24262303/amazon-prime-day-best-buy-sale-laptop-macbook-windows-gaming-deal</guid>
-      <pubDate>Thu, 10 Oct 2024 00:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们发现的最佳 Prime Day 智能家居优惠</title>
-      <link>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum</guid>
-      <pubDate>Wed, 09 Oct 2024 23:53:25 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/10/24266780/microsoft-windows-11-passkey-redesign-windows-hello</guid>
+      <pubDate>Thu, 10 Oct 2024 12:06:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
