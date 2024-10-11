@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 10 Oct 2024 15:23:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:33:05 GMT</lastBuildDate>
+    <item>
+      <title>集体#871</title>
+      <link>https://tympanus.net/codrops/collective/collective-871/</link>
+      <description><![CDATA[CSS Masonry &amp; CSS Grid * 对 CSS @property 的性能进行基准测试]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-871/</guid>
+      <pubDate>Fri, 11 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师聚焦：Eva Sánchez</title>
+      <link>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</link>
+      <description><![CDATA[Eva Sánchez 分享了她通过有趣的互动和屡获殊荣的设计将品牌转变为动态数字体验的热情。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</guid>
+      <pubDate>Fri, 11 Oct 2024 09:52:12 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：十三克 — 2024 年</title>
       <link>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[精选创意菜单图案和动画，突出不同的设计风格，为您的下一个项目提供新的灵感。]]></description>
       <guid>https://tympanus.net/codrops/2024/09/27/a-selection-of-creative-menu-patterns-animations/</guid>
       <pubDate>Fri, 27 Sep 2024 12:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#867</title>
-      <link>https://tympanus.net/codrops/collective/collective-867/</link>
-      <description><![CDATA[动画到高度：自动 * 需要反馈：我们应该如何定义 CSS 砌体？]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-867/</guid>
-      <pubDate>Fri, 27 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Habit Hustle：UI 动画背后的创作过程</title>
-      <link>https://tympanus.net/codrops/2024/09/25/habit-hustle-the-creative-process-behind-a-ui-animation/</link>
-      <description><![CDATA[在本文中，我们将带您到幕后探索受宝石视觉效果启发的有趣动画的创作过程。]]></description>
-      <guid>https://tympanus.net/codrops/2024/09/25/habit-hustle-the-creative-process-behind-a-ui-animation/</guid>
-      <pubDate>Wed, 25 Sep 2024 10:30:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
