@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 10 Oct 2024 21:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 01:11:19 GMT</lastBuildDate>
+    <item>
+      <title>「车牌识别系统」海量数据 不仅是汽车，政见也受到监控</title>
+      <link>https://wired.jp/article/license-plate-readers-political-signs-bumper-stickers/</link>
+      <description><![CDATA[车牌识别 (LPR) 系统在美国迅速流行，因为它们可用于监控可疑和被盗车辆。我以为只有与车辆相关的信息被转换成数据，但事实证明，甚至我家门前张贴的政治信息都被记录并可搜索。]]></description>
+      <guid>https://wired.jp/article/license-plate-readers-political-signs-bumper-stickers/</guid>
+      <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Namichie的驱动进化思考【VOL.05_ALFA ROMEO TONALE PLUG-IN HYBRID Q4】</title>
       <link>https://wired.jp/article/dont-look-back-in-vol05-alfa-romeo-tonale-plug-in-hybrid-q4/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[与许多回忆录一样，J.D. 万斯的书遗漏了一些细节。其中一些似乎使构成他政治观点基础的故事变得复杂化。我们现在可以从他祖父母的离婚诉讼中学到什么。]]></description>
       <guid>https://wired.jp/article/sz-the-story-that-hillbilly-elegy-doesnt-tell/</guid>
       <pubDate>Mon, 07 Oct 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 将“Canvas”引入 ChatGPT。一代AI界面走出聊天框</title>
-      <link>https://wired.jp/article/chatgpt-canvas-openai/</link>
-      <description><![CDATA[ChatGPT 中添加了新功能“Canvas”。该界面不仅建议对文本和代码进行改进，而且还允许直接内联编辑。这是生成人工智能和用户之间协作的新方法。]]></description>
-      <guid>https://wired.jp/article/chatgpt-canvas-openai/</guid>
-      <pubDate>Mon, 07 Oct 2024 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
