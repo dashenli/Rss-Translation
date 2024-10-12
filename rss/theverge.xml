@@ -4,7 +4,66 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 15:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 18:19:31 GMT</lastBuildDate>
+    <item>
+      <title>黑客控制扫地机器人来追赶宠物并辱骂</title>
+      <link>https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets</link>
+      <description><![CDATA[
+
+Deebot X2 Omni。 |照片由 Jennifer Pattison Tuohy / The Verge 拍摄
+
+今年早些时候，有人在美国多个城市获得了 Ecovacs Deebot X2 Omni 机器人吸尘器的使用权，并利用它们追逐宠物，对宠物主人大喊种族歧视言论，据澳大利亚ABC News 本周报道。 
+该媒体采访了多位 Deebot X2 的所有者，他们表示自己的 Deebot X2 在 5 月份遭到黑客攻击，其中包括明尼苏达州律师 Daniel Swenson，他说当时他正在和家人一起看电视，突然机器人扬声器发出“像无线电信号中断之类的”噪音。他说，在他重置密码并重新启动机器人后，机器人又开始工作了，只是这次的声音明显是青少年在喊脏话——他猜是青少年的声音。 
+ABC News 列出了埃尔帕索和洛杉矶其他类似所有者的描述，后者涉及有人使用 Deebot 激怒狗，对它大喊大叫并追赶它。 
+Ecovacs 在一份声明中告诉媒体，它已经“发现了一个凭证填充事件”并阻止了该事件的来源 IP 地址。该公司表示，“没有发现任何证据表明”攻击者收集了用户名和密码。
+
+研究人员去年展示了一个漏洞，该漏洞允许他们绕过 Deebot X2 的 PIN 输入来访问吸尘器。Ecovacs 在声明中表示，它已经解决了这个问题，并计划在 11 月进行更新以“进一步增强安全性”。目前尚不清楚这是否会纠正 ABC News 在本月早些时候的报道中利用的蓝牙漏洞。
+多年来，与云连接的智能家居设备已经引发了类似的故事。有时这是黑客攻击的结果，其他则只是凭证泄露。有时，坏软件会向您显示其他所有者的摄像头画面，作为一种小礼物。当许多智能家居设备需要持续的互联网连接才能运行时，这些问题似乎是不可避免的，特别是对于那些不提供简便方法报告安全漏洞的公司而言。]]></description>
+      <guid>https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets</guid>
+      <pubDate>Sat, 12 Oct 2024 17:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 表示人工智能拍摄的北极光照片与实物一样好</title>
+      <link>https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset</link>
+      <description><![CDATA[
+
+
+Meta 向像我这样忘记在周四晚上出门看北极光的人提出了一个建议：使用 AI 来伪造它！但是回复 Meta 想法的 Threads 用户似乎不同意这种观点，他们昨晚发布了 Meta 的三张 AI 生成的北极光图片。
+这是 Meta 的帖子：
+
+
+
+图片显示北极光盘旋在金门大桥上空、城市天际线上空和摩天轮上空。显然，这是为了抓住一个流行时刻，即人们发布自己拍摄的北极光照片，这些照片来自周四晚上美国境内的神奇而罕见的极光景象。
+一旦你读完人们分享的他们自己用人工智能生成的北极光照片的前几条评论，你会发现回复从深思熟虑的批评到：
+
+
+
+全大写的愤怒：
+
+
+
+幽默：
+
+
+
+一个人说自己是“宇航员/粒子物理学家和人工智能科学家”的反馈特别详细：
+
+
+
+其他人分享了他们拍摄的该现象的照片：
+
+
+
+
+
+
+就像谷歌撤下的奥运会广告一样，Meta 的社交媒体团队未能读懂大家的心声。用户的帖子不仅仅是在展示一张漂亮的照片（尽管这肯定是其中的一部分！）。他们还参与了一场罕见的、共同的生活体验的集体庆祝。现在不是插入 AI 生成的图像的时间或地点。
+社会仍在理清有关 AI 的复杂问题，例如它对摄影的影响，以及在互联网上对艺术家、作家和作家作品进行训练的道德问题。 href=&quot;https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use&quot;&gt;音乐家和摄影师。在此类争论尘埃落定之前，像 Meta 这样的帖子将继续偏离目标。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset</guid>
+      <pubDate>Sat, 12 Oct 2024 15:13:31 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳娱乐活动</title>
       <link>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</link>
@@ -91,48 +150,6 @@ Google 正在修复有缺陷的 Wear OS 5更新。该公司表示，在包括我
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin</guid>
       <pubDate>Fri, 11 Oct 2024 21:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网档案馆仍处于瘫痪状态，但将在“几天而不是几周”内恢复</title>
-      <link>https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-据 创始人 Brewster Kahle 的最新消息。由于本周早些时候的数据泄露和 DDoS 攻击，该网站陷入困境。该攻击泄露了电子邮件地址、屏幕名称、密码更改时间戳以及与超过 3100 万个唯一电子邮件地址相关的其他信息。
-目前，如果您尝试访问 Internet Archive 的网站，您会看到一条通知，提示该网站“暂时”处于离线状态。指向 Wayback Machine 的链接也无法加载。
-
-
-数据是安全的。服务处于离线状态，我们正在检查并加强它们。抱歉，但这是必要的。 @internetarchive 工作人员正在努力工作。预计时间：几天，而不是几周。感谢您提供的披萨（我们准备好了）。— Brewster Kahle (@brewster_kahle) 2024 年 10 月 11 日
-
-
-“数据是安全的。服务处于离线状态，我们正在检查和加强它们。抱歉，但这是必要的。@internetarchive 工作人员正在努力工作。预计时间线：几天，而不是几周，”Kahle 写道。
-本周早些时候，一名据称是黑客的弹出窗口声称该档案遭遇了“灾难性的安全漏洞”，Have I Been Pwned 创始人 Troy Hunt 确认他收到了一个包含被盗数据的文件，因此，如果该文件包含他们的信息，任何在他的网站上注册的人都会收到警报。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/11/24268040/internet-archive-data-breach-outage-hacked</guid>
-      <pubDate>Fri, 11 Oct 2024 20:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 现在表示你购​​买的“游戏”实际上只是一个许可证</title>
-      <link>https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Valve 现在明确披露，您从其 Steam 在线商店购买的游戏并不属于您。该公司在付款结账屏幕上添加了一条注释，指出“购买数字产品即授予该产品在 Steam 上的许可”，正如 Engadget 早些时候报道的那样。
-我们确认该消息出现在 Steam 桌面应用程序中，但我们尚未在移动应用程序中看到它。一些 Steam 用户注意到本周早些时候披露的信息，并在 Reddit 上发布了他们的发现。
-
-
-图片：Steam
-
-我的同事 Sean 实际上还没有买这个；他说他必须先玩 Persona 3。
-
-
-为什么？可能是因为有新法律。加利福尼亚州有一项法律将于明年生效，该法律要求 Valve 的 Steam 平台等数字店面明确说明您仅为数字媒体购买许可证，因为 Ubisoft 和 PlayStation 等一些公司已从用户库中删除数字购买内容，阻止他们玩《飙酷车神》等游戏或观看他们旧的 Discovery 节目。
-该法律不适用于可以下载离线安装程序的游戏，该安装程序无需连接互联网即可使用，例如Good Old Games 的无 DRM 游戏商店。
-有人猜测 Valve 发布这条新消息是为了抢在法律之前出台。法律规定，数字店面不得说你可以“买”或“采购”某物，除非该东西是许可证，并且必须链接到许可证的条款和条件 - Valve 似乎已经涵盖了这些条款和条件。]]></description>
-      <guid>https://www.theverge.com/2024/10/11/24267864/steam-buy-purchase-license-digital-storefront</guid>
-      <pubDate>Fri, 11 Oct 2024 19:58:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
