@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 18:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 21:16:06 GMT</lastBuildDate>
+    <item>
+      <title>WordPress.org 的最新举措涉及控制 WP Engine 插件</title>
+      <link>https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+WordPress.org 推出了一个流行的 WP Engine 插件的分支，以“消除商业追加销售并解决安全问题”，WordPress 联合创始人兼 Automattic 首席执行官 Matt Mullenweg 今天宣布。高级自定义字段 (ACF) 插件的这个“最小”更新现在称为“安全自定义字段”。
+目前尚不清楚 Mullenweg 在帖子中提到的安全问题是什么。他写道，他“援引了插件目录指南的第 18 点”，其中 WordPress 团队保留多项权利，包括删除插件或“未经开发人员同意”对其进行更改。 Mullenweg 解释说，此举与 WP Engine 最近对他和 Automattic 提起的诉讼有关。
+以前也发生过类似的情况，但规模没有这么大。这是 WP Engine 的法律攻击导致的罕见和不寻常的情况，我们预计其他插件不会发生这种情况。
+
+WP Engine 的 ACF 团队在 X 上声称，WordPress 从未“单方面强行”从“未经同意的创建者”那里拿走插件。后来它写道，那些不是 WP Engine、Flywheel 或 ACF Pro 客户的人需要访问 ACF 网站并按照它之前发布的步骤“执行一次正版 6.3.8 版本的下载”以继续获取更新。
+顾名思义，ACF 插件允许网站创建者在现有通用字段无法使用时使用自定义字段 — 这是 ACF 的overview 插件称，该功能已经是 WordPress 的原生功能，但“不太用户友好”。 
+The Verge 已联系 Automattic、WordPress.org 和 WP Engine 征求意见。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine</guid>
+      <pubDate>Sat, 12 Oct 2024 21:10:45 GMT</pubDate>
+    </item>
     <item>
       <title>黑客控制扫地机器人来追赶宠物并辱骂</title>
       <link>https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets</link>
@@ -12,9 +31,9 @@
 
 Deebot X2 Omni。 |照片由 Jennifer Pattison Tuohy / The Verge 拍摄
 
-今年早些时候，有人在美国多个城市获得了 Ecovacs Deebot X2 Omni 机器人吸尘器的使用权，并利用它们追逐宠物，对宠物主人大喊种族歧视言论，据澳大利亚ABC News 本周报道。 
-该媒体采访了多位 Deebot X2 的所有者，他们表示自己的 Deebot X2 在 5 月份遭到黑客攻击，其中包括明尼苏达州律师 Daniel Swenson，他说当时他正在和家人一起看电视，突然机器人扬声器发出“像无线电信号中断之类的”噪音。他说，在他重置密码并重新启动机器人后，机器人又开始工作了，只是这次的声音明显是青少年在喊脏话——他猜是青少年的声音。 
-ABC News 列出了埃尔帕索和洛杉矶其他类似所有者的描述，后者涉及有人使用 Deebot 激怒狗，对它大喊大叫并追赶它。 
+今年早些时候，有人在美国多个城市获得了 Ecovacs Deebot X2 Omni 机器人吸尘器的使用权，并利用它们追逐宠物，对宠物主人大喊种族歧视言论，据ABC News 本周在澳大利亚报道。 
+该媒体采访了多位 Deebot X2 的所有者，他们表示自己的 Deebot X2 在 5 月份遭到黑客攻击，其中包括明尼苏达州律师 Daniel Swenson，他说当时他正在和家人一起看电视，突然机器人的扬声器发出“像无线电信号中断之类的”噪音。他说，在他重置密码并重新启动机器人后，机器人又开始工作了，只是这次的声音明显是一个声音——他猜是一个青少年——在喊着侮辱性的话。 
+ABC News 列出了来自埃尔帕索和洛杉矶的其他类似用户的说法，后者涉及有人使用 Deebot 激怒狗，对它大喊大叫并追赶它。 
 Ecovacs 在一份声明中告诉媒体，它已经“发现了一个凭证填充事件”并阻止了该事件的来源 IP 地址。该公司表示，“没有发现任何证据表明”攻击者收集了用户名和密码。
 
 研究人员去年展示了一个漏洞，该漏洞允许他们绕过 Deebot X2 的 PIN 输入来访问吸尘器。Ecovacs 在声明中表示，它已经解决了这个问题，并计划在 11 月进行更新以“进一步增强安全性”。目前尚不清楚这是否会纠正 ABC News 在本月早些时候的报道中利用的蓝牙漏洞。
@@ -143,13 +162,6 @@ Google 正在修复有缺陷的 Wear OS 5更新。该公司表示，在包括我
 ]]></description>
       <guid>https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled</guid>
       <pubDate>Fri, 11 Oct 2024 22:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡西欧制作了一款毛茸茸的机器人，旨在拥抱和让你平静下来</title>
-      <link>https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin</guid>
-      <pubDate>Fri, 11 Oct 2024 21:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
