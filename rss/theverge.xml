@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 21:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 01:15:16 GMT</lastBuildDate>
+    <item>
+      <title>星舰第五次试飞获批：在哪里可以观看发射</title>
+      <link>https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october</link>
+      <description><![CDATA[
+
+Starship 准备进行第五次飞行测试。 |照片：SpaceX
+
+SpaceX 计划于明天（10 月 13 日）第五次发射星际飞船，发射窗口为时 30 分钟，于美国东部时间上午 8 点开放。此前，美国联邦航空管理局 (FAA) 今天宣布，该公司“已满足亚轨道试飞的所有安全、环境和其他许可要求”，路透社报道。 
+该公司将在发射前约 35 分钟开始直播发射过程。您可以在 SpaceX 的网站或其 X 帐户以及 X TV 应用 上看到该内容。
+
+
+观看 Starship 的第五次飞行测试 https://t.co/LVrCnTv797— SpaceX (@SpaceX) 2024 年 10 月 12 日
+
+
+SpaceX 的明天飞行的目标是将超重型火箭助推器送回发射场，这在以前从未发生过。该公司的目标是再次成功将星际飞船溅落到印度洋，这是该公司在 6 月份的第四次飞行测试中首次成功实现的。 
+美国联邦航空局的批准预计要到 11 月才会公布，但正如 CNBC 昨天报道的那样，“评估速度比预期的要快”。除了明天的计划发射外，路透社 写道，美国联邦航空局“还批准了星际飞船 6 号的任务概况”。]]></description>
+      <guid>https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october</guid>
+      <pubDate>Sat, 12 Oct 2024 22:07:52 GMT</pubDate>
+    </item>
     <item>
       <title>WordPress.org 的最新举措涉及控制 WP Engine 插件</title>
       <link>https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine</link>
@@ -12,13 +31,14 @@
 
 图片：Cath Virginia / The Verge
 
-WordPress.org 推出了一个流行的 WP Engine 插件的分支，以“消除商业追加销售并解决安全问题”，WordPress 联合创始人兼 Automattic 首席执行官 Matt Mullenweg 今天宣布。高级自定义字段 (ACF) 插件的这个“最小”更新现在称为“安全自定义字段”。
+WordPress.org 接管了一个流行的 WP Engine 插件，目的是“消除商业追加销售并解决安全问题”，WordPress 联合创始人兼 Automattic 首席执行官 Matt Mullenweg 今天宣布。他将这个“最小”更新标记为高级自定义字段 (ACF) 插件的一个分支，现在称为“安全自定义字段”。
 目前尚不清楚 Mullenweg 在帖子中提到的安全问题是什么。他写道，他“援引了插件目录指南的第 18 点”，其中 WordPress 团队保留多项权利，包括删除插件或“未经开发人员同意”对其进行更改。 Mullenweg 解释说，此举与 WP Engine 最近对他和 Automattic 提起的诉讼有关。
 以前也发生过类似的情况，但规模没有这么大。这是 WP Engine 的法律攻击导致的罕见和不寻常的情况，我们预计其他插件不会发生这种情况。
 
 WP Engine 的 ACF 团队在 X 上声称，WordPress 从未“单方面强行”从“未经同意的创建者”那里拿走插件。后来它写道，那些不是 WP Engine、Flywheel 或 ACF Pro 客户的人需要访问 ACF 网站并按照它之前发布的步骤“执行一次正版 6.3.8 版本的下载”以继续获取更新。
-顾名思义，ACF 插件允许网站创建者在现有通用字段无法使用时使用自定义字段 — 这是 ACF 的overview 插件称，该功能已经是 WordPress 的原生功能，但“不太用户友好”。 
+顾名思义，ACF 插件允许网站创建者在现有通用字段无法使用时使用自定义字段 — 这是 ACF 的overview 插件表示，该功能已经是 WordPress 的原生功能，但“不太用户友好”。 
 The Verge 已联系 Automattic、WordPress.org 和 WP Engine 征求意见。
+10 月 12 日更新：已调整以澄清 Mullenweg 对“fork”标签的使用。
 
 ]]></description>
       <guid>https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine</guid>
@@ -147,21 +167,6 @@ Meta 向像我这样忘记在周四晚上出门看北极光的人提出了一个
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/11/24268218/boeing-layoffs-10-percent-workforce</guid>
       <pubDate>Fri, 11 Oct 2024 22:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌撤回了针对旧款 Pixel 手表的 Wear OS 更新，以解决一个大问题</title>
-      <link>https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-Google 正在修复有缺陷的 Wear OS 5更新。该公司表示，在包括我的同事 Richard Lawler 在内的人们报告他们的 Pixel Watch 1 和 2 设备因更新而卡在空白屏幕上后，该公司于 9 月 26 日暂停了 OTA 更新推出。
-谷歌计划“今年晚些时候”恢复为旧款 Pixel Watch 推出 Wear OS 5，正如之前由Droid Life报道的那样。
-如果更新导致您的手表变砖，您可以通过其他方式让它重新工作。 Google 的支持网站上有一系列常规故障排除步骤，可帮助您解决手表死机问题，此外，如果您无法恢复正常设置，还可以通过 Fastboot 恢复出厂设置。
-如果您的 Pixel Watch 运行正常且正常运行，Google 还刚刚推出了一项简洁的新功能，一旦您的手表充满电，手机就会弹出通知 — 而且您不需要 Wear OS 5 即可实现此功能。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/11/24268166/google-pixel-watch-1-2-wear-os-5-bug-brick-pulled</guid>
-      <pubDate>Fri, 11 Oct 2024 22:28:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
