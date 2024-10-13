@@ -4,7 +4,42 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Oct 2024 15:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 18:19:55 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉 Cyber​​cab 发布会上的 Optimus 机器人是伪装的人类</title>
+      <link>https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event</link>
+      <description><![CDATA[
+
+We, Robot 活动上的擎天柱机器人。 |截图：特斯拉我们，机器人直播
+
+特斯拉确保其 Optimus 机器人成为其上周奢华的现场 Cyber​​cab 揭幕仪式 的重要组成部分。这些机器人与人群交流，为客人提供饮料，与他们一起玩游戏，并在凉亭内跳舞。最令人惊讶的是，它们甚至可以说话。但这主要只是一场表演。
+当然，当你观看活动视频时，这一点很明显。如果 Optimus 真的是一个完全自主的机器，可以在昏暗的人群中一对一与人类交谈时立即对口头和视觉提示做出反应，那将是令人难以置信的。
+
+
+昨晚和特斯拉 Optimus 机器人玩猜字谜游戏。这要么是世界上有史以来最伟大的机器人和法学硕士演示，要么主要是由人类远程操作。没有中间地带。pic.twitter.com/vCqzk8DDdO— Marques Brownlee (@MKBHD) 2024 年 10 月 12 日
+
+
+与会者 Robert Scoble 发帖称，他了解到人类正在“远程协助”机器人，后来澄清说，一名工程师告诉他，机器人使用人工智能行走，发现了Electrek。据该媒体报道，摩根士丹利分析师 Adam Jonas 在一份报告中写道，这些机器人“依赖于远程操作（人工干预）”。
+有明显的证据支持这些说法，比如这些机器人都有不同的声音，或者它们的反应是即时的，并伴随着相应的手势。
+
+
+我和一位工程师谈过。当它走路时，那是人工智能在运行 Optimus。 他们在 @tesla 的活动中吸引了如此多的人群，这真是令人印象深刻。 https://t.co/CtmCKPrL4T— Robert Scoble (@Scobleizer) 2024 年 10 月 11 日
+
+
+特斯拉似乎并没有刻意让任何人认为擎天柱机器是自行行动的。在 Jalopnik 指出 的另一个视频中，当 Scoble 问擎天柱有多少是由人工智能控制时，擎天柱的声音开玩笑地告诉 Scoble“可能会有一些”。
+
+
+我问道。 pic.twitter.com/FkgPrdRlyW— Robert Scoble (@Scobleizer) 2024 年 10 月 11 日
+
+
+另一个机器人（或者说是它的发音人）用一种生硬的模仿合成声音的方式告诉与会者，“今天，我得到了人类的帮助”，并补充说它不是完全自主的。 （声音在“自主”这个词上结巴了。）
+
+
+
+马斯克首次宣布特斯拉的人形机器人时，就带来了非常明显是一个穿着机器人套装的人上台，因此上周活动中的擎天柱（Optimi？Optimodes？）在演示中夸张也就不足为奇了。而去的人似乎并没有因此感到不安或被背叛。但是如果你想要了解特斯拉在人形机器人研究方面真正取得了多大的进展，“我们，机器人”活动并不是你应该关注的地方。]]></description>
+      <guid>https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event</guid>
+      <pubDate>Sun, 13 Oct 2024 17:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 的星际飞船测试以一次非凡的“筷子”式助推器捕获完成</title>
       <link>https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test</link>
@@ -89,12 +124,12 @@ SpaceX 的明天飞行的目标是将超重型火箭助推器送回发射场，�
 
 图片：Cath Virginia / The Verge
 
-WordPress.org 接管了一款流行的 WP Engine 插件，目的是“消除商业追加销售并解决安全问题”，WordPress 联合创始人兼 Automattic 首席执行官 Matt Mullenweg 今天宣布。他将这个“最小”更新标记为高级自定义字段 (ACF) 插件的一个分支，现在称为“安全自定义字段”。
+WordPress.org 接管了一个流行的 WP Engine 插件，目的是“消除商业追加销售并解决安全问题”，WordPress 联合创始人兼 Automattic 首席执行官 Matt Mullenweg 今天宣布。他将这个“最小”更新标记为高级自定义字段 (ACF) 插件的一个分支，现在称为“安全自定义字段”。
 目前尚不清楚 Mullenweg 在帖子中提到的安全问题是什么。他写道，他“援引了插件目录指南的第 18 点”，其中 WordPress 团队保留多项权利，包括删除插件或“未经开发人员同意”对其进行更改。 Mullenweg 解释说，此举与 WP Engine 最近对他和 Automattic 提起的诉讼有关。
 以前也发生过类似的情况，但规模没有这么大。这是 WP Engine 的法律攻击导致的罕见和不寻常的情况，我们预计其他插件不会发生这种情况。
 
 WP Engine 的 ACF 团队在 X 上声称，WordPress 从未“单方面强行”从“未经同意的创建者”那里拿走插件。后来它写道，那些不是 WP Engine、Flywheel 或 ACF Pro 客户的人需要访问 ACF 网站并按照它之前发布的步骤“执行一次正版 6.3.8 版本的下载”以继续获取更新。
-顾名思义，ACF 插件允许网站创建者在现有通用字段无法使用时使用自定义字段 — 这是 ACF 的overview 插件表示，该插件已经是 WordPress 的原生功能，但“不太用户友好”。 
+顾名思义，ACF 插件允许网站创建者在现有通用字段无法使用时使用自定义字段 — 这是 ACF 的overview 插件表示，该功能已经是 WordPress 的原生功能，但“不太用户友好”。 
 The Verge 已联系 Automattic、WordPress.org 和 WP Engine 征求意见。
 10 月 12 日更新：已调整以澄清 Mullenweg 对“fork”标签的使用。
 
@@ -180,13 +215,6 @@ Meta 向像我这样忘记在周四晚上出门看北极光的人提出了一个
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona</guid>
       <pubDate>Sat, 12 Oct 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果最便宜的 iPad 在 Prime Day 之后仍然大幅降价</title>
-      <link>https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/good-deals/2024/10/12/24267888/apple-ipad-10th-9th-generation-bose-ultra-open-earbuds-deal-sale</guid>
-      <pubDate>Sat, 12 Oct 2024 14:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
