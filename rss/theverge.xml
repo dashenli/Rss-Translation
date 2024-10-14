@@ -4,7 +4,22 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 01:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 09:18:21 GMT</lastBuildDate>
+    <item>
+      <title>遭受网络攻击后，互联网档案馆恢复只读服务</title>
+      <link>https://www.theverge.com/2024/10/14/24269741/internet-archive-online-read-only-data-breach-outage</link>
+      <description><![CDATA[
+
+图片：互联网档案馆
+
+上周，网络攻击导致数字图书馆和 Wayback Machine 瘫痪，互联网档案馆现已恢复在线，处于只读状态。 10 月 9 日，数据泄露和 DDoS 攻击导致该网站下线，包含 3100 万条唯一记录的用户身份验证数据库也在最近几周被盗。
+互联网档案馆现已以“临时、只读的方式”重新上线，创始人 Brewster Kahle 表示。 “可以安全恢复，但可能需要进一步维护，在这种情况下它将再次被暂停。”
+虽然您可以访问 Wayback Machine 搜索已存档的 9160 亿个网页，但您目前无法将现有网页捕获到存档中。Kahle 和团队最近几天一直在逐步恢复 Archive.org 服务，包括恢复团队的电子邮件帐户及其国家图书馆的爬虫程序。服务已下线，以便 Internet Archive 工作人员可以检查并加强它们以抵御未来的攻击。&lt;​​/p&gt;
+一名据称是黑客的弹出窗口声称该档案馆上周遭受了“灾难性的安全漏洞”，随后 Have I Been Pwned 确认数据被盗。被盗数据包括 3100 万个独立电子邮件帐户的电子邮件地址、屏幕名称、哈希密码和其他内部数据。
+互联网档案馆中断发生在Google 开始在 Wayback Machine 中添加指向存档网站的链接几周后。Google 今年早些时候删除了自己的缓存页面链接，因此在 Google 搜索结果中链接 Wayback Machine 是访问旧版本网站或存档页面的有效方法。]]></description>
+      <guid>https://www.theverge.com/2024/10/14/24269741/internet-archive-online-read-only-data-breach-outage</guid>
+      <pubDate>Mon, 14 Oct 2024 08:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>RedCap 是可穿戴设备和物联网领域的 5G 提供商，即将推出首批设备</title>
       <link>https://www.theverge.com/2024/10/13/24269370/at-t-t-mobile-redcap-5g-explained-iot-devices-coming-soon</link>
@@ -183,48 +198,6 @@ Ecovacs 在一份声明中告诉媒体，它已经“发现了一个凭证填充
 多年来，与云连接的智能家居设备已经引发了类似的故事。有时这是黑客攻击的结果，其他则只是凭证泄露。有时，坏软件会向您显示其他所有者的摄像头画面，作为一种小礼物。当许多智能家居设备需要持续的互联网连接才能运行时，这些问题似乎是不可避免的，特别是对于那些不提供简便方法报告安全漏洞的公司而言。]]></description>
       <guid>https://www.theverge.com/2024/10/12/24268508/hacked-ecovacs-deebot-x2-racial-slurs-chase-pets</guid>
       <pubDate>Sat, 12 Oct 2024 17:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 表示人工智能拍摄的北极光照片与实物一样好</title>
-      <link>https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset</link>
-      <description><![CDATA[
-
-
-Meta 向像我这样忘记在周四晚上出门看北极光的人提出了一个建议：使用 AI 来伪造它！但是回复 Meta 想法的 Threads 用户似乎不同意这种观点，他们昨晚发布了 Meta 的三张 AI 生成的北极光图片。
-这是 Meta 的帖子：
-
-
-
-图片显示北极光盘旋在金门大桥上空、城市天际线上空和摩天轮上空。显然，这是为了抓住一个流行时刻，即人们发布自己拍摄的北极光照片，这些照片来自周四晚上美国境内的神奇而罕见的极光景象。
-一旦你读完人们分享的他们自己用人工智能生成的北极光照片的前几条评论，你会发现回复从深思熟虑的批评到：
-
-
-
-全大写的愤怒：
-
-
-
-幽默：
-
-
-
-一个人说他们是“天体/粒子物理学家和人工智能科学家”的反馈特别详细：
-
-
-
-其他人分享了他们拍摄的该现象的照片：
-
-
-
-
-
-
-就像谷歌撤下的奥运会广告一样，Meta 的社交媒体团队未能读懂大家的心声。用户的帖子不仅仅是在展示一张漂亮的照片（尽管这肯定是其中的一部分！）。他们还参与了一场罕见的、共同的生活体验的集体庆祝。现在不是插入 AI 生成的图像的时间或地点。
-社会仍在理清有关 AI 的复杂问题，例如它对摄影的影响，以及在互联网上对艺术家、作家和作家作品进行训练的道德问题。 href=&quot;https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use&quot;&gt;音乐家和摄影师。在此类争论尘埃落定之前，像 Meta 这样的帖子将继续偏离目标。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/12/24268441/meta-ai-generated-northern-lights-images-threads-users-upset</guid>
-      <pubDate>Sat, 12 Oct 2024 15:13:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
