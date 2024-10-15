@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 14 Oct 2024 09:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:33:17 GMT</lastBuildDate>
+    <item>
+      <title>集体#872</title>
+      <link>https://tympanus.net/codrops/collective/collective-872/</link>
+      <description><![CDATA[功能检测 CSS 中的样式查询支持 * js13kGames 2024：公布获胜者！]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-872/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paffi Totem Slider 的视觉解构</title>
+      <link>https://tympanus.net/codrops/2024/10/15/a-visual-deconstruction-of-the-paffi-totem-slider/</link>
+      <description><![CDATA[深入了解 Paffi Totem Slider 的设计，探索柔和的渐变、微妙的灯光和有趣的动作如何共同创造出独特而动感的外观。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/15/a-visual-deconstruction-of-the-paffi-totem-slider/</guid>
+      <pubDate>Tue, 15 Oct 2024 10:02:02 GMT</pubDate>
+    </item>
     <item>
       <title>励志网站汇总：Webflow 特刊 #6</title>
       <link>https://tympanus.net/codrops/2024/10/14/inspirational-websites-roundup-webflow-special-6/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>案例研究：十三克 — 2024 年</title>
       <link>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</link>
-      <description><![CDATA[了解 Treize Grammes 大胆的品牌重塑和交互式设计所面临的挑战和创造性的解决方案。]]></description>
+      <description><![CDATA[了解 Treize Grammes 大胆的品牌重塑和交互式设计所面临的挑战和创新解决方案。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</guid>
       <pubDate>Thu, 10 Oct 2024 12:19:37 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[我如何建立我的博客 * HTML 2024 的状态 * 缓和图表]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-869/</guid>
       <pubDate>Fri, 04 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Federico Pian 投资组合 — 2024</title>
-      <link>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</link>
-      <description><![CDATA[了解 Federico Pian 如何使用 Nuxt、GSAP 和 TresJs 构建他的 2024 年投资组合，并深入了解设计灵感、动画技术和无缝页面转换。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/02/case-study-federico-pian-portfolio-2024/</guid>
-      <pubDate>Wed, 02 Oct 2024 08:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#868</title>
-      <link>https://tympanus.net/codrops/collective/collective-868/</link>
-      <description><![CDATA[前端架构基础 * 原型设计的未来已经到来]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-868/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
