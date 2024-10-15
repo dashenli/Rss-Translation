@@ -4,7 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 15 Oct 2024 01:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:18:05 GMT</lastBuildDate>
+    <item>
+      <title>Passkey 行业组织发布进出口标准草案 ↦</title>
+      <link>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</link>
+      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布导入和导出这些加密密钥的标准草案：
+
+FIDO 联盟的草案规范 - 凭证交换协议 (CXP) 和凭证交换格式 (CXF) - 定义了一种标准格式，用于将凭证管理器中的凭证（包括密码、密钥等）传输到另一个提供方，以确保传输不会以明文形式进行，并且默认情况下是安全的。…]]></description>
+      <guid>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</guid>
+      <pubDate>Tue, 15 Oct 2024 14:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果推出 iPad mini 升级版，配备 A17 Pro 处理器和 Apple Pencil Pro 支持</title>
+      <link>https://sixcolors.com/post/2024/10/apple-revamps-ipad-mini-with-a17-pro-processor-apple-pencil-pro-support/</link>
+      <description><![CDATA[
+如果您在 10 月份的 Apple 活动期间在宾果卡上看到了一款新 iPad mini 的方块，那么，部分功劳：该公司今天发布了这款小巧平板电脑的第七代，增加了 A17 Pro 处理器并支持 Apple Pencil Pro。…]]></description>
+      <guid>https://sixcolors.com/post/2024/10/apple-revamps-ipad-mini-with-a17-pro-processor-apple-pencil-pro-support/</guid>
+      <pubDate>Tue, 15 Oct 2024 13:44:20 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 533：与牙齿对话</title>
       <link>https://sixcolors.com/podcast/2024/10/upgrade-533-a-conversation-with-your-teeth/</link>
@@ -79,7 +96,7 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
     <item>
       <title>苹果的全新信息功能很棒，但通知太多了（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2482686</link>
-      <description><![CDATA[Apple 的 Messages 应用程序可能已经输掉了全球消息传递之战，但在许多国家（包括美国），它仍然是一种非常流行的沟通方式。这就是 Apple 不断对其进行升级的原因。…]]></description>
+      <description><![CDATA[Apple 的 Messages 应用可能已经输掉了全球消息传递之战，但在许多国家（包括美国），它仍然是一种非常流行的沟通方式。这就是 Apple 不断对其进行升级的原因。…]]></description>
       <guid>https://www.macworld.com/article/2482686</guid>
       <pubDate>Wed, 09 Oct 2024 15:00:15 GMT</pubDate>
     </item>
@@ -91,7 +108,7 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
       <pubDate>Mon, 07 Oct 2024 21:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）Magic Lasso Adblock：Safari 版 YouTube 广告拦截器</title>
+      <title>（赞助商）Magic Lasso Adblock：适用于 Safari 的 YouTube 广告拦截器</title>
       <link>https://sixcolors.com/feed-only/2024/10/magic-lasso-adblock-youtube-ad-blocker-for-safari-18/</link>
       <description><![CDATA[
 您想在 iPhone、iPad 和 Mac 上的 Safari 中屏蔽所有 YouTube 广告吗？
@@ -107,21 +124,6 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
 我不明白的是，当人们可以看到 Bier 的过往记录的全貌时，为什么要给予 Bier 的反对意见纽约时报报道的认可。…]]></description>
       <guid>https://sixcolors.com/link/2024/10/did-godzilla-just-step-on-a-bad-idea/</guid>
       <pubDate>Fri, 04 Oct 2024 19:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷失太空</title>
-      <link>https://sixcolors.com/post/2024/10/lost-in-space/</link>
-      <description><![CDATA[
-有时会发生错误并影响大片设备，从而给用户带来严重问题，而有时一个很小的东西坏了，只会影响少数人。…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/lost-in-space/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 79：十年混乱</title>
-      <link>https://sixcolors.com/podcast/2024/10/downstream-79-decade-of-confusion/</link>
-      <description><![CDATA[Brian Williams 将为 Prime Video 带来现场新闻，但流媒体新闻的未来会怎样？此外：更多有线电视套餐包括流媒体服务；亚马逊计划推出夜间游戏节目；Netflix 即将面临薪酬危机；以及 Diamond/MLB 更新。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/10/downstream-79-decade-of-confusion/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:27:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
