@@ -4,7 +4,14 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:31:12 GMT</lastBuildDate>
+    <item>
+      <title>Casabrews 5700PRO 评测：超出预期</title>
+      <link>https://www.wired.com/review/casabrews-5700pro/</link>
+      <description><![CDATA[这款一体式浓缩咖啡机可以轻松提供高品质的咖啡。]]></description>
+      <guid>https://www.wired.com/review/casabrews-5700pro/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果工程师展示人工智能“推理”能力有多脆弱</title>
       <link>https://www.wired.com/story/apple-ai-llm-reasoning-research/</link>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 15 Oct 2024 13:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>这些智能眼镜可以读懂你的情绪，观察你的饮食</title>
+      <title>这些智能眼镜可以读懂你的情绪，还能观察你的饮食</title>
       <link>https://www.wired.com/story/emteq-smart-glasses-read-emotions-watch-what-you-eat/</link>
       <description><![CDATA[Emteq Labs 推出的新型智能眼镜配有朝内的摄像头，旨在追踪您的生活并量化您的感受和饮食。]]></description>
       <guid>https://www.wired.com/story/emteq-smart-glasses-read-emotions-watch-what-you-eat/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>实时视频 Deepfake 骗局来了。此工具试图消灭它们</title>
       <link>https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/</link>
-      <description><![CDATA[Reality Defender 是一家专注于人工智能检测的初创公司，它开发了一种工具来验证视频通话中的人类参与者，并抓住使用人工智能深度伪造进行诈骗的欺诈者。]]></description>
+      <description><![CDATA[专注于人工智能检测的初创公司 Reality Defender 开发了一种工具来验证视频通话中的人类参与者，并抓住使用人工智能深度伪造进行诈骗的欺诈者。]]></description>
       <guid>https://www.wired.com/story/real-time-video-deepfake-scams-reality-defender/</guid>
       <pubDate>Tue, 15 Oct 2024 12:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Global Intelligence 声称其 Cyber​​check 技术可以帮助警方找到关键证据来破案。但《连线》杂志的一项调查显示，确凿的证据往往不那么确凿。]]></description>
       <guid>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</guid>
       <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数百万人在 Telegram 上使用滥用人工智能“Nudify”机器人</title>
-      <link>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</link>
-      <description><![CDATA[从图像中“脱掉衣服”的机器人已经在消息应用程序上泛滥，尽管立法者和科技公司试图打击，但人们还是可以创建非自愿的深度伪造图像。]]></description>
-      <guid>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</guid>
-      <pubDate>Tue, 15 Oct 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
