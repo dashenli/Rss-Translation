@@ -4,125 +4,146 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 16 Oct 2024 12:31:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:17:39 GMT</lastBuildDate>
     <item>
-      <title>任天堂 DS 为一代游戏玩家带来了触摸屏</title>
-      <link>https://www.theverge.com/c/24242128/nintendo-ds-touchscreen-games-2004-launch</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24242128/nintendo-ds-touchscreen-games-2004-launch</guid>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 的实验工具可以识别艺术家在线上或手提袋上的作品</title>
-      <link>https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials</link>
+      <title>我老旧的小型货车需要 Anker 泄漏的带有可伸缩 USB-C 电缆的车载充电器</title>
+      <link>https://www.theverge.com/2024/10/16/24271680/anker-nano-car-charger-retractable-usb-c</link>
       <description><![CDATA[
 
-Project Know How 以 Adob​​e 的内容凭证工作为基础。 | 插图作者：Alex Castro / The Verge
+Anker 的新款车载充电器据称可提供高达 75W 的功率。 |图片：Reddit
 
-Adobe 今年最引人注目的实验之一可能有助于打击虚假信息，并确保艺术家的作品无论出现在线上还是线下都能获得认可。在 Adob​​e Max 的 Sneaks 环节中宣布的 Project “Know How” 是一款正在开发中的工具，它可以将任何在线平台上的图像或视频的所有权与海报、玻璃杯和纺织品等众多现实世界表面联系起来。
-Project Know How 以 Adobe 的内容凭证技术 为基础，该技术应用数字标签来跟踪内容的发布位置、所有者以及是否/如何对其进行了操纵。只要图像或视频应用了内容凭证，该工具就可以帮助创作者确立对其内容的所有权，即使该身份验证元数据已被删除。我看到的演示是在开发初期，只需用相机记录图像即可显示内容凭证数据，即使是在像手提袋这样纹理密集的物体上也是如此。
-
-
-图片：Adobe
-以下是 Project Know How 的实际示例 - 左侧的实时摄像头源扫描对象，然后在工具识别出图像具有内容后显示静态“快照”（在右侧）附件为凭证，点击后可直接进入信息页面。
-
-这可以解决艺术家在如何保护作品方面面临的大量问题。艺术和设计作品经常被发布到 Pinterest 和 X 等在线平台上，却没有注明原创者，因此限制了这种曝光的好处。虽然创意社区可以通过发表评论或社区笔记来手动解决此问题，以表彰原创艺术家，但 Know How 提供了另一层保护，不良行为者很难绕过。
-该工具还提供了其他好处 - 如果视频被剪辑或断章取义，Know How 可以在视频首次发布的州获取原始的完整视频。Adobe 表示，地方政府已经或正在考虑采用内容凭证，因此这可以提供额外的保护，防止被操纵的视频被用来在网上传播政治错误信息。
+一位可靠的泄密者分享了 Anker 未发布的车载充电器的详细信息和图片，这将是该公司首款配备可伸缩 USB-C 线缆的充电器。作为一辆缺乏内置 USB 端口等现代设施的八年车龄小型货车的骄傲车主，这将是一个受欢迎的替代品，可以替代塞满散乱充电线的手套箱。
+新款 Anker Nano 车载充电器可插入车辆的辅助电源插座，据报道，它将提供高达 75W 的功率，由 30W USB-C 端口和 45W 伸缩电缆共享，后者的末端有一个近 30 英寸长的 USB-C 连接器，据 Reddit 用户 joshuadwx 称。
+预计定价在 30 至 40 美元之间，上市时间可能是今年晚些时候，也可能是 2025 年春季的某个时候。伸缩电缆是一种便利功能，应该有助于保持您的车辆更整洁一点，并将充电器固定在原位——因为它永久地拴在汽车专用适配器上，所以没有人能够借用它并在其他地方使用它。
+带有可伸缩电缆的充电器只有在伸缩机制可靠的情况下才有用。如果它坏了，你就得重新手动整理电缆。在亚马逊上快速搜索一下，就会发现许多现有的汽车充电解决方案具有类似的功能，但来自相对不知名和未经证实的品牌。Anker以优质硬件而闻名，而且似乎越来越多地投资于带有可伸缩电缆的充电解决方案。
 
 
-图片：Adobe
-Project Know How 能够从左侧缩短的剪辑中找到原始视频，并发现一个孩子实际上已被剪辑掉。
+图片：Reddit
+早前的泄密事件显示，Anker 似乎全力投入可伸缩线缆的充电解决方案。
 
-Adobe 的预告片并不能保证会作为完整产品发布，但随着该公司的积极推动最近将其纳入内容凭证计划，如果这些功能的某些变体最终没有被采用，我会感到惊讶。目前还不清楚什么时候会发生这种情况，但证明它在技术上是可行的，这是一个令人印象深刻的壮举，可以帮助消除创意人士对证明其作品所有权的担忧。
+在最近于日本举行的媒体活动中，Anker 发布了一款 10,000mAh 移动电源， 27 英寸可伸缩 USB-C 线缆，而上个月，同一位 Reddit 泄密者分享了 未发布的 25,000mAh Anker 移动电源 的详细信息，其中还包括一条可伸缩充电线。如果该公司将这一新功能整合到几款新产品中，希望这意味着 Anker 开发了一种可伸缩线缆机制，它相信这种机制是可靠的。]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24271680/anker-nano-car-charger-retractable-usb-c</guid>
+      <pubDate>Wed, 16 Oct 2024 15:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克将在宾夕法尼亚州为特朗普拉票</title>
+      <link>https://www.theverge.com/2024/10/16/24271770/elon-musk-trump-pennsylvania-talks</link>
+      <description><![CDATA[
+
+插图由 Laura Normand / The Verge 提供
+
+伊隆·马斯克将在本周剩余时间前往宾夕法尼亚州为前总统唐纳德·特朗普拉票，该州可能决定 2024 年总统大选的命运。
+
+
+从明天晚上到周一，我将在宾夕法尼亚州各地进行一系列演讲。如果您想参加我的演讲，无需支付出席费。您只需签署我们支持言论自由和持枪权的请愿书并在这次选举中投票即可。 https://t.co/2cjdY7oPtB— 埃隆·马斯克 (@elonmusk) 2024 年 10 月 16 日
+
+
+马斯克不会发表公开演讲。相反，他表示他将在摇摆州举行“一系列会谈”，任何在选举中投票并签署了马斯克的美国政治行动委员会散发的请愿书的人都可以免费参加。 （宾夕法尼亚州提前投票于 10 月 15 日开始。）马斯克的超级政治行动委员会——他声称已向其捐款 7500 万美元——还为摇摆州的选民每签署一位请愿书的登记摇摆州选民提供 47 美元。这在某种程度上并不违法。
+马斯克近年来痴迷于移民和出生率问题，经常宣扬大替代阴谋论，他有可能在特朗普身上找到了政治上的志趣相投。本月初，他在宾夕法尼亚州巴特勒的特朗普集会上发表了讲话。前总统特朗普于 7 月在此遭到枪击。据《纽约时报》报道，马斯克在私人谈话中“对选举的利害关系极为关注，近乎疯狂”。但两人过去曾发生过争执：特朗普曾说，他本可以让马斯克“跪下来乞求”政府合同，“而他会这么做的。”最近，特朗普表示，如果连任，他将考虑终止电动汽车税收抵免，这可能会损害马斯克的利润。
+从某些方面来看，马斯克可以说是这个国家政府支出的最大受益者之一，他在这次选举中有很大利益。但无论谁入主白宫，他都可能会继续获得联邦资金——因此支持特朗普不一定会带来太大的负面影响。]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24271770/elon-musk-trump-pennsylvania-talks</guid>
+      <pubDate>Wed, 16 Oct 2024 15:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Analogue 的 4K Nintendo 64 将于明年推出，售价 249 美元</title>
+      <link>https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date</link>
+      <description><![CDATA[
+
+图片：Analogue
+
+它不会像原计划那样在 2024 年推出，但 Analogue 终于准备好分享其对 Nintendo 64 的看法的细节。Analogue 3D 将于明年初推出（该公司表示将于 2025 年第一季度推出），售价为 249.99 美元。它有黑色或白色两种颜色，预订将于美国东部时间 10 月 21 日上午 11 点开始。
+除了时间和价格之外，Analogue 还发布了该游戏机的首批图片：
+
+Analogue 3D 于年初首次发布，是对 N64 的现代诠释，类似于之前的 Analogue 游戏机，涵盖NES、SNES、Sega Genesis 和 Game Boy。新款游戏机可以以 4K 分辨率渲染经典游戏，并包含多种显示模式，以模仿 CRT 显示器的外观和感觉。Analogue 表示，它“采用定制的专用 4K 升频器设计”。
+该公司表示，Analogue 3D 利用 FPGA 技术，与 N64 的卡带库 100% 兼容（而且不受地区限制），这使其能够像原始游戏机一样运行。这对 N64 来说是个好消息，事实证明，这款游戏机的模仿难度非常大。
+Analogue 3D 支持蓝牙，有四个原装控制器端口、两个 USB 端口、一个 SD 卡插槽和一个名为 3D OS 的新操作系统，您可以在下面看到它：
+
+
+图片：Analogue
+
+它没有附带控制器，但 8bitdo 已经创建了 N64 游戏手柄的更新版本（减去第三个插脚），单独售价 39.99 美元。您可以在本文顶部的照片中看到它。它有一个霍尔效应棒，还兼容 Switch、Android 和 PC。您也可以使用任何您身边的原装 N64 控制器。
+此次发布正值新视频游戏硬件特别有趣的时期。索尼即将推出 PS5 Pro，而任天堂则有 即将推出一款新游戏机，以及 一款售价 99 美元的闹钟。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date</guid>
+      <pubDate>Wed, 16 Oct 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>北卡罗来纳州副州长的色情传奇简而言之就是现代法律战</title>
+      <link>https://www.theverge.com/2024/10/16/24270877/mark-robinson-north-carolina-lieutenant-governor-porn-forum-tape-defamation-lawsuit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24270877/mark-robinson-north-carolina-lieutenant-governor-porn-forum-tape-defamation-lawsuit</guid>
+      <pubDate>Wed, 16 Oct 2024 14:40:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro Bot 的速通 DLC 将于明天开始推出</title>
+      <link>https://www.theverge.com/2024/10/16/24271723/astro-bot-dlc-release-date-team-asobi</link>
+      <description><![CDATA[
+
+图片：Sony Interactive Entertainment
+
+PlayStation 采取了一种新颖的方式来推出Astro Bot的可下载内容。 Team Asobi 的开发人员没有向玩家提供正式的发布日期，而是多次选择只是说“Soon™”，而是简单地决定从...明天（10 月 17 日）开始秘密发布关卡。DLC 将推出五个新的挑战关卡，并有 10 个新的机器人需要救援。虽然我们已经看到了Stellar Bladee 机器人和Helldivers机器人，但 Team Asobi 仍对其余机器人保密，以便保留您在认出其中一个机器人时获得的小小喜悦。
+有趣的是，Team Asobi 并没有同时发布所有关卡，而是采用了另一种新颖的方法，每周发布单个关卡，直到 11 月 14 日所有五个关卡都发布。虽然PS5 上最好的游戏以这种方式分发令人沮丧，但感觉 Team Asobi 做出了正确的选择。就像我朋友的金毛猎犬在晚餐时间一样，我必须慢慢地喂我新的 Astro Bot，否则我会一口吞下所有东西，然后抱怨不再有趣了……或者出现令人担忧的腹胀情况。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24271723/astro-bot-dlc-release-date-team-asobi</guid>
+      <pubDate>Wed, 16 Oct 2024 14:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦贸易委员会终于让取消健身房会员资格变得更容易了</title>
+      <link>https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule</link>
+      <description><![CDATA[
+
+插图由 Laura Normand / The Verge 提供
+
+美国联邦贸易委员会正在针对难以取消的订阅采取行动。周三，它通过了最终的“点击取消”规则，要求企业让取消订阅变得像注册一样简单。
+根据该规则，企业不能强迫客户使用与注册不同的方法取消订阅。例如，如果您使用在线表格注册了订阅，公司就不能要求您致电他们或与在线客服聊天来取消订阅。 FTC 还将要求企业明确披露其订阅条款，并在收费前征得客户同意。
+该规则于去年首次提出，适用于任何自动续订订阅，从难以取消的健身房会员资格到杂志订阅，以及 Amazon Prime 等服务的月费。它还涵盖免费试用（如果您未及时取消则收费），以及连续性计划（在您取消之前，您将定期收到产品发货）。
+“企业经常让人们为了取消订阅而费尽周折，”FTC 主席 Lina Khan 在新闻稿中表示。“FTC 的规则将终结这些花招和陷阱，为美国人节省时间和金钱。没有人应该为他们不再需要的服务付费。”
+“点击取消”规则是美国联邦贸易委员会 (FTC) 打击可疑订阅行为的更广泛行动的一部分。今年早些时候，该机构起诉 Adob​​e 提供难以取消的“欺骗性”订阅。 FTC 还起诉亚马逊欺骗人们注册 Prime，并猛烈抨击微软最近对其 Xbox Game Pass 订阅所做的更改。
+“点击取消”规则中的大部分条款将在《联邦公报》公布 180 天后生效。
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/10/16/24271338/adobe-sneaks-project-know-how-content-credentials</guid>
-      <pubDate>Wed, 16 Oct 2024 11:55:43 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/16/24271649/ftc-click-to-cancel-subscriptions-final-rule</guid>
+      <pubDate>Wed, 16 Oct 2024 14:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook 帮助我们</title>
-      <link>https://www.theverge.com/c/24211851/facebook-meta-history-2004-anniversary-20-years</link>
+      <title>Gmail 对电子邮件做了什​​么</title>
+      <link>https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24211851/facebook-meta-history-2004-anniversary-20-years</guid>
-      <pubDate>Wed, 16 Oct 2024 11:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/c/24211978/gmail-email-storage-search-2004-anniversary-google</guid>
+      <pubDate>Wed, 16 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>微软在新《使命召唤》发布前取消 1 美元 Xbox Game Pass 试用</title>
-      <link>https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6</link>
+      <title>现在最值得购买的 Nintendo Switch 控制器</title>
+      <link>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</guid>
+      <pubDate>Wed, 16 Oct 2024 13:45:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>数码相机的回归</title>
+      <link>https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/c/24208960/digicam-digital-camera-comeback-2004-gen-z-nikon-coolpix</guid>
+      <pubDate>Wed, 16 Oct 2024 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A24 的《Ochi 传说》在首支预告片中看起来像是一场可爱的奇幻冒险</title>
+      <link>https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24</link>
       <description><![CDATA[
 
-插图由 Alex Castro / The Verge 提供
+图片：A24
 
-在《使命召唤：黑色行动 6》于 10 月 25 日发布前几天，微软取消了 1 美元的 Xbox Game Pass 试用。 14 天的 Game Pass 试用于 10 月 8 日被取消，人们无法注册试用并玩 Black Ops 6 活动，除非支付整整一个月的 Game Pass 费用。
-微软于去年 3 月首先停止了 Xbox Game Pass Ultimate 和 PC Game Pass 的 1 美元试用，然后将其恢复，并将其缩短为 14 天，而不是整整一个月。随后，在 9 月《Starfield》首次亮相前几天，Xbox 制造商短暂取消了 1 美元的试用。
-1 美元的 Xbox Game Pass 试用再次被悄悄取消，这并不奇怪，尤其是当微软希望通过《使命召唤：黑色行动 6》来提高其 Game Pass 订阅用户数量时。 我在今年早些时候报道过，微软一直在争论是否将《使命召唤》的新版本放入 Game Pass，公司中的一些人担心 Game Pass 会削弱《使命召唤》的典型销售收入。 1 美元的试用肯定会影响销量和订阅量，尤其是当动视暴雪传统上平均每部售价 70 美元左右，销售量超过 2000 万份《使命召唤》。
-微软还计划在本月晚些时候将《使命召唤：黑色行动 6》、《现代战争 III》和《战区》引入 Xbox Cloud Gaming。这是继微软去年收购动视暴雪之后，《使命召唤》游戏首次在 Xbox Cloud Gaming 上发布。]]></description>
-      <guid>https://www.theverge.com/2024/10/16/24271619/microsoft-xbox-game-pass-trial-suspended-call-of-duty-black-ops-6</guid>
-      <pubDate>Wed, 16 Oct 2024 10:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软 Surface Laptop 原型机泄露，搭载英特尔 Lunar Lake 芯片</title>
-      <link>https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake</link>
-      <description><![CDATA[
-
-照片由 Chris Welch / The Verge 拍摄
-
-微软今年早些时候推出了没有英特尔芯片的 Surface Laptop 7，旨在推广 Windows on Arm 和高通的骁龙 X Elite 芯片。现在，看起来 Surface Laptop 可能会在明年推出，搭载英特尔最新的 Lunar Lake 芯片。
-Surface Laptop 原型机出现在中国二手市场 Goofish 上一个现已删除的列表中，内部配备了看起来像是英特尔的 Core Ultra 7 268V 处理器。 Windows Central 发现了这份清单，但目前尚不清楚这只是 Surface Laptop 7 的变体还是 Surface Laptop 8。
-无论如何，原型笔记本电脑都清楚地标明了这一点，设备底部刻有一个巨大的“原型 - 非卖品”字样。虽然很容易伪造 Windows 内部的 CPU 清单，但原型标签的外观证实这很可能是微软真正的未发布笔记本电脑。此类设备很少泄露，更不用说在网上销售了。
+A24 的下一部重磅作品也可能是迄今为止最可爱的作品。该工作室刚刚发布了《奥奇传说》的首支预告片，这是一部奇幻冒险片，主角是一位可爱的生物，可以与格罗古相媲美。
+虽然这看起来像是一个有点熟悉的“孩子与神秘生物成为朋友”的故事，但这部电影确实有一些有趣的方面，不仅包括名义上的生物，还包括某种后世界末日的奇幻背景。以下是官方描述：
+在一个偏远的北方村庄，一个名叫尤里的年轻女孩从小就被教育天黑后绝不出门，并且害怕被称为奥奇的隐居森林生物。当一只小奥奇被它的族群遗弃时，她开始了一生中最大的冒险，让它与家人团聚。
+《奥奇传奇》由编剧兼导演Isaiah Saxon执导，他之前曾为 Björk 等人制作过许多音乐视频，这次是他的处女作。演员阵容包括 Helena Zengel、Finn Wolfhard、Emily Watson 和 Willem Dafoe。这部电影尚未确定首映日期，但 A24 表示电影“即将上映”。
 
 
-如果微软正在考虑为其 Surface Laptop 系列配备 Lunar Lake 芯片，那么它将确保那些想要 Copilot Plus PC 功能的人有一个英特尔选项。Surface Pro 10 和 Surface Laptop 6 都在今年早些时候搭载了英特尔的 Meteor Lake 处理器，但它们没有包含足够强大的 NPU 来支持微软的 Copilot Plus 功能。相反，它们针对的是企业，缺乏 Surface Pro 11 和 Surface Laptop 7 上的全新设计。
-这款 Surface Laptop 原型机的列表指出，这款未发布的设备应该会在 2025 年的某个时候开始销售，如果微软为消费者准备了这款产品，这可能意味着 CES 2025 会发布这款产品。另一种可能性是微软再次将基于英特尔的 Surface 设备限制在商业客户范围内。
-我们已要求微软对这款泄露的原型机发表评论，但该公司没有及时回应。]]></description>
-      <guid>https://www.theverge.com/2024/10/16/24271612/microsoft-surface-laptop-prototype-leak-intel-lunar-lake</guid>
-      <pubDate>Wed, 16 Oct 2024 09:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的全新 Kindle 家族包括首款彩色 Kindle</title>
-      <link>https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/16/24271603/kindle-2024-colorsoft-scribe-paperwhite-specs-price-date</guid>
-      <pubDate>Wed, 16 Oct 2024 08:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是特朗普今天关于拆分谷歌的一系列胡言乱语</title>
-      <link>https://www.theverge.com/2024/10/15/24271297/google-donald-trump-bananas-breaking-up-bananas</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/15/24271297/google-donald-trump-bananas-breaking-up-bananas</guid>
-      <pubDate>Tue, 15 Oct 2024 23:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的健身追踪器</title>
-      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
-      <pubDate>Tue, 15 Oct 2024 22:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的加密货币网站在其代币发售后崩溃</title>
-      <link>https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump</link>
-      <description><![CDATA[
+图片：A24
 
-图片：Laura Normand / The Verge
-
-前总统唐纳德·特朗普的加密货币项目 World Liberty Financial 于周二启动了代币销售——其网站随后不久崩溃。
-备受炒作但仍未得到充分解释的去中心化金融项目白名单于 9 月 30 日向合格投资者和非美国人士开放。据 CNBC 报道，World Liberty Financial 联合创始人 Zachary Folkman 周一声称，“已有超过 10 万人”注册购买其代币 WLFI。截至发稿时，该网站似乎已恢复上线。
-然而，根据 Etherscan 跟踪的区块链数据截至周二下午，只有 5,317 个唯一钱包地址持有该代币，而 World Liberty Financial 表示，在公开发售的 200 亿枚代币中，它已售出超过 5.32 亿枚。
-WLFI 顾问 Sandy Peng，告诉CoinDesk，中断是由于流量过大造成的。“团队没想到会有这么大的兴趣，”彭说，并补充说，该网站在代币推出后的第一个小时内就获得了 7200 万次独立访问。
-CoinDesk 报道称，WLFI 代币目前不可转让，将用于管理 World Liberty Financial 平台。持有者将能够对协议升级、技术变更、促销合作伙伴关系和安全风险监督发表意见。该平台本身将允许用户借入和借出加密货币。
-尽管特朗普及其同伙将 World Liberty Financial 宣传为帮助无银行账户和取消银行账户人群的工具，但只有符合美国证券交易委员会合格投资者要求的人才可以购买 WLFI。要成为合格投资者，个人收入必须至少为 20 万美元（或配偶为 30 万美元）和/或净资产至少为 100 万美元，不包括其主要住所。
-World Liberty Financial 于周二发布了一份关于该代币的所谓“黄金文件”，其中将特朗普列为“首席加密货币助理”。他的三个儿子——埃里克、小唐纳德·特朗普和巴伦——被列为“Web3 大使”。 
-根据该论文，世界自由金融协议“计划向用户提供信息和访问第三方 DeFi 应用程序的权限，包括第三方数字钱包提供商，用于获取、持有和转移稳定币和非安全数字资产。” 值得注意的是，该论文称，这些代币“不适用于美国人”并且“未在任何美国或其他机构注册。”]]></description>
-      <guid>https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump</guid>
-      <pubDate>Tue, 15 Oct 2024 22:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合所有人的最佳 Android 手机</title>
-      <link>https://www.theverge.com/23674658/best-android-phone</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23674658/best-android-phone</guid>
-      <pubDate>Tue, 15 Oct 2024 22:04:34 GMT</pubDate>
+]]></description>
+      <guid>https://www.theverge.com/2024/10/16/24271693/the-legend-of-ochi-trailer-a24</guid>
+      <pubDate>Wed, 16 Oct 2024 13:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

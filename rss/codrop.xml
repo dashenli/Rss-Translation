@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 16 Oct 2024 06:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:19:34 GMT</lastBuildDate>
+    <item>
+      <title>具有滚动触发效果的交错（3D）网格动画</title>
+      <link>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</link>
+      <description><![CDATA[一个有趣的概念，我们使用基于滚动的动画来创建 3D 网格效果和其他过渡。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</guid>
+      <pubDate>Wed, 16 Oct 2024 14:46:35 GMT</pubDate>
+    </item>
     <item>
       <title>集体#872</title>
       <link>https://tympanus.net/codrops/collective/collective-872/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[过去几周，我们在新闻通讯中介绍了一些很酷且鼓舞人心的代码演示。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</guid>
       <pubDate>Fri, 04 Oct 2024 13:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#869</title>
-      <link>https://tympanus.net/codrops/collective/collective-869/</link>
-      <description><![CDATA[我如何建立我的博客 * HTML 2024 的状态 * 缓和图表]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-869/</guid>
-      <pubDate>Fri, 04 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

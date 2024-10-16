@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 16 Oct 2024 01:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:18:37 GMT</lastBuildDate>
+    <item>
+      <title>我们即将知道苹果的豪赌是否能获得成功（Macworld/Dan Moren）</title>
+      <link>https://www.macworld.com/article/2490585/were-about-to-find-out-if-apples-big-bet-is-going-to-pay-off.html</link>
+      <description><![CDATA[Apple Intelligence 即将成为主流。在接下来的几周内，Apple 可能会发布 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1，它们都将带来 Apple 自 6 月以来一直在谈论的一系列功能中的第一个。…]]></description>
+      <guid>https://www.macworld.com/article/2490585/were-about-to-find-out-if-apples-big-bet-is-going-to-pay-off.html</guid>
+      <pubDate>Wed, 16 Oct 2024 13:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>新款 iPad mini 令人惊讶的不是新处理器</title>
       <link>https://sixcolors.com/post/2024/10/the-new-ipad-minis-surprising-not-new-processor/</link>
@@ -17,7 +24,7 @@
     <item>
       <title>Passkey 行业组织发布进出口标准草案 ↦</title>
       <link>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</link>
-      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布导入和导出这些加密密钥的标准草案：
+      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布用于导入和导出这些加密密钥的标准草案：
 
 FIDO 联盟的草案规范 - 凭证交换协议 (CXP) 和凭证交换格式 (CXF) - 定义了一种标准格式，用于将凭证管理器中的凭证（包括密码、密钥等）传输到另一个提供方，以确保传输不会以明文形式进行，并且默认情况下是安全的。…]]></description>
       <guid>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</guid>
@@ -105,7 +112,7 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
     <item>
       <title>苹果的全新信息功能很棒，但通知太多了（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2482686</link>
-      <description><![CDATA[Apple 的 Messages 应用程序可能已经输掉了全球消息传递之战，但在许多国家（包括美国），它仍然是一种非常流行的沟通方式。这就是 Apple 不断对其进行升级的原因。…]]></description>
+      <description><![CDATA[Apple 的 Messages 应用可能已经输掉了全球消息传递之战，但在许多国家（包括美国），它仍然是一种非常流行的沟通方式。这就是 Apple 不断对其进行升级的原因。…]]></description>
       <guid>https://www.macworld.com/article/2482686</guid>
       <pubDate>Wed, 09 Oct 2024 15:00:15 GMT</pubDate>
     </item>
@@ -115,15 +122,6 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
       <description><![CDATA[我们讨论了苹果的影响力，即使最简单的举动也能成就或毁掉公司和行业。此外：苹果计划举办盛大的万圣节周，Vision Pro 还将推出一部身临其境的惊悚片。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/10/upgrade-532-i-am-foreign-exchange-headwinds/</guid>
       <pubDate>Mon, 07 Oct 2024 21:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：Safari 版 YouTube 广告拦截器</title>
-      <link>https://sixcolors.com/feed-only/2024/10/magic-lasso-adblock-youtube-ad-blocker-for-safari-18/</link>
-      <description><![CDATA[
-您想在 iPhone、iPad 和 Mac 上的 Safari 中屏蔽所有 YouTube 广告吗？
-然后下载 Magic Lasso Adblock – 为您设计的广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/10/magic-lasso-adblock-youtube-ad-blocker-for-safari-18/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
