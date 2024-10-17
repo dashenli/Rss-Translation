@@ -4,11 +4,25 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable 是互联一代的领先新闻、信息和资源来源。Mashable 报道数字创新的重要性以及它如何赋予和激励世界各地的人们。Mashable 每月拥有 2500 万独立访客和 1000 万社交媒体粉丝，已成为最活跃的在线新闻社区之一。Mashable 成立于 2005 年，总部位于纽约市，在旧金山设有办事处。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 19:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:21:20 GMT</lastBuildDate>
+    <item>
+      <title>两个屏幕，一个功能强大的工作站，售价 320 美元</title>
+      <link>https://mashable.com/deals/oct-16-hp-elitedesk</link>
+      <description><![CDATA[使用配备双 22 英寸显示器的 A 级翻新 HP EliteDesk 800 G3 Mini Core 台式机升级您的家庭办公室，仅需 319.99 美元。]]></description>
+      <guid>https://mashable.com/deals/oct-16-hp-elitedesk</guid>
+      <pubDate>Wed, 16 Oct 2024 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 禁用流行的广告拦截器</title>
+      <link>https://mashable.com/article/google-chrome-kills-ad-blockers</link>
+      <description><![CDATA[在过渡到 Manifest V3 的过程中，Google Chrome 正在禁用 uBlock Origin 等广告拦截器。]]></description>
+      <guid>https://mashable.com/article/google-chrome-kills-ad-blockers</guid>
+      <pubDate>Wed, 16 Oct 2024 20:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>23andMe 数据泄露和解协议可能为受害者提供高达 1 万美元的赔偿</title>
       <link>https://mashable.com/article/23andme-data-breach-settlement</link>
-      <description><![CDATA[23andMe 提出的 3000 万美元和解协议将向因违约而遭受严重困难的受害者支付高达 10,000 美元的赔偿金。]]></description>
+      <description><![CDATA[23andMe 提议达成一项价值 3000 万美元的和解协议，向因违约而遭受严重困难的受害者支付高达 10,000 美元的赔偿金。]]></description>
       <guid>https://mashable.com/article/23andme-data-breach-settlement</guid>
       <pubDate>Wed, 16 Oct 2024 19:49:45 GMT</pubDate>
     </item>
@@ -62,13 +76,6 @@
       <pubDate>Wed, 16 Oct 2024 16:26:24 GMT</pubDate>
     </item>
     <item>
-      <title>Google Chrome 开始淘汰广告拦截器</title>
-      <link>https://mashable.com/article/google-chrome-kills-ad-blockers</link>
-      <description><![CDATA[在过渡到 Manifest V3 的过程中，Google Chrome 正在禁用 uBlock Origin 等广告拦截器。]]></description>
-      <guid>https://mashable.com/article/google-chrome-kills-ad-blockers</guid>
-      <pubDate>Wed, 16 Oct 2024 16:14:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Android 15 新功能：查看完整列表。</title>
       <link>https://mashable.com/article/android-15-new-feature-full-list</link>
       <description><![CDATA[Android 15 已经到来，这意味着是时候弄清楚它到底能做什么了。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[10 月 16 日亚马逊最优惠的商品包括三星 Galaxy Watch 6、Galaxy Ring、AeroGarden Harvest、Dyson Hot + Cool 和 50 英寸 Vizio QLED 电视。]]></description>
       <guid>https://mashable.com/article/amazon-deals-of-the-day-samsung-galaxy-watch-6-oct-16</guid>
       <pubDate>Wed, 16 Oct 2024 15:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 正在调查宽带数据上限为何仍然存在。您可以做些什么来提供帮助。</title>
-      <link>https://mashable.com/article/fcc-inquiry-broadband-data-caps</link>
-      <description><![CDATA[美国联邦通信委员会正在调查宽带数据上限，以了解其对消费者的影响。]]></description>
-      <guid>https://mashable.com/article/fcc-inquiry-broadband-data-caps</guid>
-      <pubDate>Wed, 16 Oct 2024 15:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
