@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 16 Oct 2024 15:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 15:24:07 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Duten 的 2024 网站</title>
+      <link>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</link>
+      <description><![CDATA[探索设计师 Sébastien Salord 与 Incredibles Development Studio 才华横溢的团队之间的动态合作，他们联手将 Duten 的数字形象提升到新的水平。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:54:02 GMT</pubDate>
+    </item>
     <item>
       <title>具有滚动触发效果的交错（3D）网格动画</title>
       <link>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Sidekick * 我厌倦了 AI * Web 组件还可以]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-870/</guid>
       <pubDate>Tue, 08 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近的一些富有创意且有趣的编码实验</title>
-      <link>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</link>
-      <description><![CDATA[过去几周，我们在新闻通讯中介绍了一些很酷且鼓舞人心的代码演示。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/04/some-recent-creative-fun-coding-experiments/</guid>
-      <pubDate>Fri, 04 Oct 2024 13:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
