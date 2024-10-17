@@ -4,141 +4,156 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 15:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 18:20:17 GMT</lastBuildDate>
     <item>
-      <title>法拉利 F80 使用“增压优化”功能为驾驶员提供更多动力</title>
-      <link>https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization</link>
+      <title>Apple 为 Pay 添加了另一项先买后付服务</title>
+      <link>https://www.theverge.com/2024/10/17/24272629/apple-pay-klarna-bnpl-replace-pay-later</link>
       <description><![CDATA[
 
-法拉利 F80。 |图片：法拉利
+图片：Cath Virginia / The Verge，Getty Images
 
-法拉利的新款 F80 超级跑车可以记录其行驶的赛道，并在下一圈的正确时间为驾驶员加速。 “加速优化”功能可读取赛道的直道和弯道，无需驾驶员采取进一步行动，即可为其混合动力系统提供更多动力，以帮助实现最佳单圈时间。
-您可以在“性能”模式下使用加速优化，以在整个驾驶过程中尽可能长时间获得稳定的电力，或者您可以选择“资格”模式，以在适当的时间最大限度地提高加速功率，但代价是电池电量会快速耗尽。与法拉利的 SF90 Stradale 和 296 GTB 不同，没有全电动驾驶模式。
-
-
-
-图片：法拉利
-
-F80 配备四轮驱动动力系统，后置 V6 发动机输出功率为 900 马力，结合三台电动机，最大输出功率可达 1200 马力。法拉利表示，这使得 F80 成为其“有史以来最强大的公路车”。电动机是该汽车制造商首次完全开发和制造的电动机，其设计源自 F1 中使用的 MGU-K 电动机。
-两个电动机与逆变器和集成冷却系统一起放置在前轴上，可实现扭矩矢量控制并减轻重量。输出 800、48 和 12 伏的 DC-DC 转换器有助于减轻重量，因为 F80 不需要单独的 48 伏电池为其主动悬架和电子涡轮系统供电。 
-F80 还配备了“数字孪生”侧滑控制系统和主动空气动力学套件，可以在转弯时增加下压力以保持最佳平衡。
-法拉利 F80 将限量发售 799 辆，售价超过 300 万美元，根据 Road &amp;曲目，已分配给现有客户。
+Apple Pay 现在将在结账时包括 Klarna 作为选项。在推出先买后付 (BNPL) 服务几个月前，Apple 关闭了 Pay Later，后者是 Apple 于 2023 年推出的 BNPL 服务。
+Klarna 允许用户以四次免息分期付款的方式购买产品。尽管 Klarna 等 BNPL 服务越来越受欢迎，但调查显示，这些服务可能会导致超支。
 
 
-图片：法拉利
+图片：Apple
+
+这些贷款也更难追踪，因为大多数贷款都没有报告给信用机构。今年早些时候，消费者金融保护局发布了一项规定，将 BNPL 服务归类为信用卡提供商，要求他们调查有争议的购买行为，并为退回的产品提供退款。
+与 Klarna 一起，Apple Pay 于 9 月将 BNPL 服务 Affirm 添加到应用程序中。 Klarna 和 Affirm 可通过搭载 iOS 18 和 iPadOS 18 的 Apple Pay 使用。
+之前宣布的其他一些更新现在也即将在 Apple Pay 上推出，包括能够在 Chrome 等第三方桌面浏览器上使用该服务。 Apple 还推出了“Tap to Provision”功能，您可以通过点击 iPhone 背面来添加新卡。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272629/apple-pay-klarna-bnpl-replace-pay-later</guid>
+      <pubDate>Thu, 17 Oct 2024 17:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌正在更换负责搜索和广告的高管</title>
+      <link>https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Google 正在对公司领导层进行重大调整。在周四发布给员工的一份备忘录中，谷歌首席执行官 Sundar Pichai 宣布，负责搜索、广告和其他重要部门的高级副总裁 Prabhakar Raghavan 将担任首席技术专家。
+“Prabhakar 决定是时候在自己的职业生涯上迈出一大步了，”Pichai 写道。“在领导谷歌团队 12 年后，他将重回计算机科学领域，担任谷歌首席技术专家。在这个职位上，他将与我和 Google 领导层密切合作，提供技术指导和领导力，并发展我们的技术卓越文化。”
+Raghavan 自 2018 年以来一直负责广告和商务，并于 2020 年晋升为 Google 搜索和助手的负责人。Raghavan 领导团队中的 Nick Fox 将接替 Raghavan，领导 Google 的搜索、广告、地理和商务部门。据 Pichai 称，Fox 曾帮助推出了 Google Fi 和 RCS 消息传递等产品。
+Google 也在调整其他一些团队。由 Sissie Hsaio 领导的负责 Google Gemini 应用的部门将加入首席执行官 Demis Hassabis 领导的 Google DeepMind。Google Assistant 团队也将成为 Google 平台和设备团队的一部分。
+这一转变发生在 Google 的关键时刻，该公司一直致力于将自己打造为人工智能领域的主要参与者。与此同时，Google 还面临着美国政府在宣布其搜索业务垄断后拆分该公司的可能性。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272786/google-search-prabhakar-raghavan-nick-fox</guid>
+      <pubDate>Thu, 17 Oct 2024 17:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟可能因违反 X 规定对伊隆·马斯克的其他公司处以罚款</title>
+      <link>https://www.theverge.com/2024/10/17/24272716/x-twitter-digital-services-act-violation-fines</link>
+      <description><![CDATA[
+
+插图由 Kristen Radtke / The Verge 提供； Getty Images
+
+据报道，欧盟已警告 X，可能会利用埃隆·马斯克旗下几家公司的收入来计算对该平台违反社交媒体法征收的罚款。知情人士告诉彭博社，欧洲监管机构可能会将马斯克的其他公司（包括 SpaceX、Neuralink、xAI 和 Boring Company）的年收入考虑在内，以计算罚款。
+X 因可能违反欧盟《数字服务法》（DSA）的多项规定而受到调查，这是一项全面的法律，要求各大平台删除包含非法内容的帖子，如果不删除，将追究其经济责任。根据 2022 年通过的 DSA，监管机构可以对未能遵守透明度规则或解决其平台上的非法内容或虚假信息的公司处以高达其年收入 6% 的罚款。
+知情人士告诉彭博社，欧盟本质上是在辩论是否应该对马斯克而不是 X 本身进行罚款。如果是这样，监管机构将根据他拥有的几家公司的年收入来计算金额。由于特斯拉是上市公司，因此将被排除在外。
+这些扩大的罚款可能与马斯克任职期间 X 的收入暴跌有关。根据富达蓝筹成长基金的披露，截至 8 月，X 的估值为 94 亿美元，自马斯克收购以来，总减值幅度接近 80%。
+DSA 义务适用，“无论对平台或搜索引擎施加决定性影响的实体是自然人还是法人，”委员会发言人 Thomas Regnier 告诉彭博社。 
+不过，委员会尚未决定是否对 X 处以罚款，知情人士告诉彭博社，如果该社交平台能够解决委员会的担忧，它就可以避免罚款——而马斯克不太可能这样做。 
+在表示自己在 2022 年 DSA 问题上与欧盟“立场非常一​​致”之后，马斯克态度大转变，于次年将 X 撤出欧盟的《反虚假信息行为准则》。《行为准则》是一项自愿协议，是 DSA 强制性条款的前身。此后，马斯克公开批评了委员会，并激怒了委员会前负责人蒂埃里·布雷顿 (Thierry Breton)，后者在今年 9 月辞职前曾牵头对 X 进行了调查。两人的关系相互争执：布雷顿曾给马斯克发了一封信，警告他要密切关注“溢出” DSA 违规行为。
+对 X 以及马斯克的其他公司进行罚款的决定权现在掌握在布雷顿的继任者玛格丽特·维斯塔格 (Margrethe Vestager) 手中。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272716/x-twitter-digital-services-act-violation-fines</guid>
+      <pubDate>Thu, 17 Oct 2024 17:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>500 美元以下可以买到的最好的智能手机</title>
+      <link>https://www.theverge.com/21420196/best-budget-smartphone-cheap</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21420196/best-budget-smartphone-cheap</guid>
+      <pubDate>Thu, 17 Oct 2024 16:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xbox 2024 年秋季合作伙伴展示：所有新闻、预告片和预览</title>
+      <link>https://www.theverge.com/2024/10/17/24272580/xbox-fall-partner-showcase-october-2024-trailers</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Xbox 将举办一场 20 分钟的“不花哨，全是游戏”第三方工作室展示会。 10 月 17 日，Xbox 将举办合作伙伴展示重点介绍来自第三方开发商的游戏。Xbox 表示，此次展示将“不花哨，全是游戏”，并包括来自世嘉、505 Games、Remedy Entertainment 等公司的公告。具体来说，预计将看到《心灵杀手 2》最新 DLC 的全新面貌、《暗湖小屋》以及《龙的后裔：夏威夷的海盗黑帮》的最新诡计的深入介绍。
+此次展示将于太平洋时间上午 10 点/东部时间下午 1 点开始，预计持续约 25 分钟。您可以在 YouTube、Twitch 以及 LinkedIn 上观看直播（您知道，对于那些想要观看但又需要显得富有成效的上班族来说）。
+以下是此次展示会的所有新闻、预告片和公告。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272580/xbox-fall-partner-showcase-october-2024-trailers</guid>
+      <pubDate>Thu, 17 Oct 2024 16:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最值得购买的无线耳机</title>
+      <link>https://www.theverge.com/21309820/best-wireless-earbuds</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21309820/best-wireless-earbuds</guid>
+      <pubDate>Thu, 17 Oct 2024 16:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客因发布虚假 SEC 推文导致比特币价格飙升而被捕</title>
+      <link>https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council</link>
+      <description><![CDATA[
+
+插图：Beatrice Sala
+
+美国联邦调查局逮捕了一名阿拉巴马州男子，他被指控入侵证券以及交易所 X 账户。起诉书 (PDF) 指控 25 岁的 Eric Council Jr. 与同谋合作 控制该账户并发布来自 SEC 主席 Gary Gensler 的关于比特币 ETF 的虚假消息，导致比特币价格瞬间上涨超过 1,000 美元。
+为了实施这一计划，Council 被指控使用属于控制 SEC X 账户的人的信息创建了一个假身份证。据称，他随后欺骗 AT&amp;T 向其提供一张带有受害者电话号码的 SIM 卡，并将其安装到他购买的新 iPhone 中。最后，Council 能够使用发送到该号码的恢复身份验证代码来控制 SEC 的帐户，然后将 iPhone 退还给他购买它的 Apple Store。
+调查人员还发现 Council 在他的个人电脑上进行了一些可疑的搜索：
+他后来在互联网上搜索了“SECGOV 黑客”、“电报 SIM 卡交换”、“我如何确定我是否正在接受 FBI 的调查”和“即使执法部门或 FBI 没有联系你，你正在接受调查的迹象是什么？”
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council</guid>
+      <pubDate>Thu, 17 Oct 2024 16:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是你现在可以获得的最佳 AirPods 优惠</title>
+      <link>https://www.theverge.com/21302051/best-apple-airpods-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21302051/best-apple-airpods-deals</guid>
+      <pubDate>Thu, 17 Oct 2024 16:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>模组制作者正在利用人工智能在《天际》和《星露谷物语》中创造聊天伙伴</title>
+      <link>https://www.theverge.com/2024/10/17/24268007/modders-ai-companions-stardew-valley-skyrim</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24268007/modders-ai-companions-stardew-valley-skyrim</guid>
+      <pubDate>Thu, 17 Oct 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digitas 首席执行官 Amy Lanzi 谈影响力人士如何改变广告业</title>
+      <link>https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek</link>
+      <description><![CDATA[
+
+图片插图来自 The Verge / 图片：Digitas
+
+营销的未来 — — 在某种程度上，其他一切 — — 正在发生巨变。 在今天的Decoder节目中，我采访了 Digitas 首席执行官 Amy Lanzi — — 您会发现这一集有些不同。我们在纽约市的舞台上现场录制了这次对话，该活动由 Adweek 慷慨主办。 
+事实上，我一直渴望与 Amy 交谈。 Digitas 是整个广告行业中最重要的代理商之一，拥有庞大的客户群，对 Instagram 和 YouTube 等大型平台具有巨大影响力。毕竟，他们购买广告，让所有这些公司得以维持运营。
+
+Amy 非常清楚像 Digitas 这样的公司为其客户带来的价值以及她的公司在在线生态系统中扮演的角色。但很明显，随着越来越多的广告费直接流向这些平台上的创作者和影响者，而不是广告代理商和平台本身，所有这些都在迅速改变。
+正如您所料，艾米对此有很多想法。Digitas 是一家名为 Publicis Groupe 的大型控股公司的一部分，该公司刚刚斥资 5 亿美元收购了一家名为 Influential 的影响者营销机构。艾米是达成这笔交易的委员会成员，您将听到她解释大型广告公司如何以及为何开始自动化和运营影响者和创作者的内容。 
+
+我们的想法是使用人工智能检查平台上的所有内容，找到合适的影响者来接触合适的受众，并使用软件与他们签订大规模赞助内容合同。这是一个席卷广告业的大创意，我想知道艾米如何看待未来几个月和几年的发展。
+我们还花了一些时间讨论一个似乎没人知道答案的小问题：创作者和影响者有什么区别？如果您知道答案，请告诉我。
+您将听到我们谈论的一些进一步阅读内容：
+
+Publicis Groupe 收购影响力营销巨头 Influential | Marketing Dive
+
+Epsilon 拥有首个数字 CDP，可提供原生全渠道激活 | Epsilon
+
+Stagwell 正在寻找广告技术，因为这家广告公司继续其收购狂潮 | Business Insider
+
+Emma Chamberlain 是人民的影响者 | Allure
+
+丝芙兰小队内部世界 | Marketing Scoop
+
+Fanatics 正式推出新一代直播商务平台 Fanatics Live | Fanatics
+
+AWS 首席执行官 Adam Selipsky 表示，没有云就没有人工智能 | The Verge
+
+司法部律师称，谷歌分拆正在酝酿中 | The Verge
+
+对于 Z 世代来说，TikTok 是新的搜索引擎 | 纽约时报
 
 
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272542/ferrari-f80-hybrid-supercar-boost-optimization</guid>
-      <pubDate>Thu, 17 Oct 2024 14:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞利浦 Hue 应用现在可让你编辑灯光效果</title>
-      <link>https://www.theverge.com/2024/10/17/24272541/philips-app-ios-android-update-customize-effects</link>
-      <description><![CDATA[
-
-飞利浦 Hue 应用的最新更新增加了自定义照明效果强度和颜色的功能。 | 图片：Signify
-
-飞利浦通过其 Hue 应用推出了四种新的照明效果，其中包括一种水下选项，可模拟海浪下微光的闪烁。添加的效果是新应用程序更新的一部分，由 Hueblog 发现，该更新还引入了自定义应用程序现有照明效果的功能，以及飞利浦未来推出的任何新效果。
-现有的照明效果包括可以使 Hue 灯和灯泡模拟蜡烛外观的选项，带有柔和闪烁的黄色光芒，或模拟壁炉的选项，带有更强烈的红色和橙色闪光。 Hue 应用 5.28 版现已适用于 iOS、iPadOS 和 Android，新增了宇宙、水下、魔法和阳光效果，总数达到 10 种。并非所有 Hue 产品都支持这些效果，但飞利浦分享了一份详尽的清单，列出了哪些灯支持该功能。
-虽然这些效果是使用特定的颜色和动画来模拟某些照明体验而设计的，但最新的 Hue 应用更新现在允许您更改效果的基本颜色（例如，您可以享受粉红色蜡烛的光芒），并通过更改亮度和闪烁或颜色过渡的速度来调整效果的强度。
-Hue 应用长期以来一直是控制飞利浦智能照明产品的一种精致而精简的方式，但近年来，该应用的可定制性选项落后于 Govee 和 Nanoleaf。能够在 Hue 应用程序中编辑效果是一项受欢迎的升级，也是竞争如何使消费者受益的另一个提醒。
-最新版本的飞利浦 Hue 应用程序的其他改进包括一种称为散射的照明风格 - 最初在 飞利浦 Hue Festavia 灯串 上推出 - 现在可在 Hue 系列的所有渐变灯上使用。如果您已升级到 iOS 18 或 iPadOS18，则该应用程序的图标和小部件现在提供深色和有色样式。
-随着恐怖季节的到来，飞利浦还在 Hue 应用程序中重新引入了万圣节场景，该应用程序可以控制房间内的所有灯光，并通过不同的颜色和过渡来改变心情。尽管去年推出了两个新的万圣节场景，但今年再次推出了相同的八个场景，其中包括着迷、灿烂的笑容和巫师时刻。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272541/philips-app-ios-android-update-customize-effects</guid>
-      <pubDate>Thu, 17 Oct 2024 14:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 增加新防护措施保护青少年免遭性勒索</title>
-      <link>https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-Instagram 正在推出多项新功能，旨在保护青少年免受性勒索诈骗，当诈骗者威胁要分享受害者的私密照片，除非他们收到付款或更多照片时，就会发生这种情况。
-即将推出的一项防护措施将阻止人们截屏或录制私人消息中发送的消失图像或视频。如果发件人允许重播图像或视频，Instagram 将阻止人们在网络上打开它们。但是，这并不能阻止诈骗者使用其他设备录制图像或视频。
-
-
-GIF：Meta
-
-从今天开始，Instagram 将开始使用某些指标（例如帐户的新旧程度）来检测诈骗行为。然后，该平台将通过屏蔽请求或将其移至青少年的垃圾邮件文件夹来阻止这些帐户向青少年发送关注请求。
-它还在 Instagram 和 Messenger 中测试安全通知，如果青少年正在聊天的人位于其他国家/地区，该通知将提醒青少年，因为性勒索骗子经常谎报其位置。
-
-
-图片：Instagram
-
-此外，Instagram 现在将开始阻止可疑帐户查看受害者的关注者或粉丝列表，性勒索骗子可以利用这些列表进行勒索。Instagram 还将阻止可疑帐户查看喜欢目标帖子的帐户列表、他们被标记的照片以及被标记在其照片中的其他用户。
-为了保护儿童免于查看淫秽照片，Instagram 推出了一项功能，该功能将自动检测和模糊 18 岁以下用户的裸照。Instagram 于 4 月开始测试此过滤器，默认情况下将为全球青少年启用。该平台的其他安全措施包括，如果用户报告性勒索或儿童安全问题，可以选择与美国危机短信热线聊天。它还将向美国、英国、加拿大和澳大利亚的青少年播放一段教育视频，以提高人们对日益增多的性勒索骗局的认识。
-
-FBI 报告称，2022 年 10 月至 2023 年 3 月期间，性勒索骗局至少增加了 20%。作为打击此类行为的努力的一部分，Meta 删除了 800 个 Facebook 群组和 820 个与 Yahoo Boys 有关的账户——Yahoo Boys 是一个实施这些计划的尼日利亚网络犯罪集团。它还在 7 月份关闭了 63,000 个尼日利亚 Instagram 帐户。
-Snapchat 等其他平台已采取措施打击诈骗，如果青少年收到其他用户已屏蔽或举报的帐户发送的消息，则会发出警告。
-这套功能是 Meta 为使其平台对儿童更安全而做出的更广泛努力的一部分。上个月，Instagram 宣布将开始将所有青少年纳入更私密的账户，并默认启用某些安全设置，例如限制 DM 和睡眠模式（以便在夜间静音通知）。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272522/instagram-teen-sextortion-safety-features-update</guid>
-      <pubDate>Thu, 17 Oct 2024 14:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 的《电力国度》首部预告片中充满了巨大、滑稽的机器人</title>
-      <link>https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros</link>
-      <description><![CDATA[
-
-图片：Netflix
-
-七年后 Simon Stålenhag 的《电气州》（The Electric State）被选为真人版改编电影，在首发图片曝光几周后，我们终于看到了第一部预告片。这段视频设置了一个复古未来世界中的一场大战——但很难不把注意力集中在卡通科技和机器人上，它们感觉像是对Stålenhag 的独特艺术的更滑稽的演绎。
-Netflix 改编版由复仇者联盟回归者安东尼和乔·罗素执导，根据主播的说法，它“设定在一个另类的、复古未来主义的 1990 年代版本中”，探索“生活在一个有意识的机器人的社会中，这些机器人就像卡通和吉祥物一样，曾经和平地服务于人类，现在在起义失败后流亡。”
-该剧演员阵容强大，包括米莉·鲍比·布朗、克里斯·普拉特、关凯辉、杰森·亚历山大、伍迪·诺曼、吉安卡罗·埃斯波西托和斯坦利·图齐，以及伍迪·哈里森、安东尼·麦凯、布莱恩·考克斯、珍妮·斯蕾特、汉克·阿扎利亚、科尔曼·多明戈和艾伦·图代克的配音。
-The Electric State 将于 2025 年 3 月 14 日登陆 Netflix。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272564/the-electric-state-trailer-netflix-russo-bros</guid>
-      <pubDate>Thu, 17 Oct 2024 13:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>2004 年是未来的元年</title>
-      <link>https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-2004 年初，全世界都像拍宝丽来照片一样震撼，人们涌向影院，想看看那些霍比特人会发生什么，想知道那个叫汤姆·布雷迪的家伙是不是有什么特别之处。与此同时，世界各地的一些人正在发明我们现在所知道的网络：一个震惊世界的社交网络正在哈佛大学的宿舍里酝酿。一名谷歌员工在业余时间构想着电子邮件的未来。有史以来最酷的手机即将问世。互联网仍然是一个小众活动，但这种情况即将改变——而且变化很快。
-从很多方面来看，我们现在生活的数字世界是在 20 年前创建的。谷歌上市并开始崛起统治网络。Facebook、Gmail、Firefox、Flickr 和 Digg 都推出了——这一年 Web 2.0 成为了网络。2004 年之前，“博客”和“长尾”无人关注，但从那时起，它们就无处不在。美国经历了一场充满争议的选举，一堆续集主宰了票房，苹果推出了一款看起来很酷的新产品，但最终在一年后被更好的产品所取代。好吧，有些事情永远不会改变。
-当然，每年都是科技界的大年，但 2004 年尤其重要。而且 The Verge 那时还不存在！因此，本周，我们将介绍当年推出的最好和最重要的小工具和平台，以及仍然影响我们现在生活方式的文化活动。基本上，我们会像 2004 年一样写博客。
-想谈谈我们的故事、你的回忆以及你 21 世纪初最酷的照片吗？来这里玩吧。]]></description>
-      <guid>https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture</guid>
-      <pubDate>Thu, 17 Oct 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>胆小鬼贾斯汀·汀布莱克对珍妮·杰克逊的人格诽谤</title>
-      <link>https://www.theverge.com/c/24177612/janet-jackson-justin-timberlake-wardrobe-malfunction-super-bowl-halftime-show-legacy</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24177612/janet-jackson-justin-timberlake-wardrobe-malfunction-super-bowl-halftime-show-legacy</guid>
-      <pubDate>Thu, 17 Oct 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是最酷的 iPod 吗？</title>
-      <link>https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs</guid>
-      <pubDate>Thu, 17 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>情节剧！</title>
-      <link>https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo</guid>
-      <pubDate>Thu, 17 Oct 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>还记得百视达吗？</title>
-      <link>https://www.theverge.com/c/24243754/blockbuster-video-netflix-streaming-dvd-transition-2000s</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24243754/blockbuster-video-netflix-streaming-dvd-transition-2000s</guid>
-      <pubDate>Thu, 17 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哦，哇哦</title>
-      <link>https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004</guid>
-      <pubDate>Thu, 17 Oct 2024 11:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/24272562/decoder-amy-lanzi-digitas-publicis-influencers-creators-marketing-advertising-generative-ai-adweek</guid>
+      <pubDate>Thu, 17 Oct 2024 15:36:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

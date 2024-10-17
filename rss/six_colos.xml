@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 18:21:04 GMT</lastBuildDate>
+    <item>
+      <title>赞美 Sonos 的 Keith ↦</title>
+      <link>https://sixcolors.com/link/2024/10/in-praise-of-keith-from-sonos/</link>
+      <description><![CDATA[我非常喜欢 Rachel Karten 的这个故事，它讲述了在人们对 Sonos 灾难性的软件更新普遍感到愤怒的情况下，该公司的社交媒体项目负责人如何做对了：
+
+KeithFromSonos 是 Sonos 的一名员工，他在 r/Sonos 子版块非常活跃，并在该品牌特别动荡的时期以某种方式赢得了客户。…]]></description>
+      <guid>https://sixcolors.com/link/2024/10/in-praise-of-keith-from-sonos/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:43:51 GMT</pubDate>
+    </item>
     <item>
       <title>最后一款带有翻页按钮的 Kindle 已停产 ↦</title>
       <link>https://sixcolors.com/link/2024/10/the-last-kindle-with-page-turn-buttons-is-dead/</link>
@@ -54,7 +63,7 @@
     <item>
       <title>Passkey 行业组织发布进出口标准草案 ↦</title>
       <link>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</link>
-      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布导入和导出这些加密密钥的标准草案：
+      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布用于导入和导出这些加密密钥的标准草案：
 
 FIDO 联盟的草案规范 - 凭证交换协议 (CXP) 和凭证交换格式 (CXF) - 定义了一种标准格式，用于将凭证管理器中的凭证（包括密码、密钥等）传输到另一个提供方，以确保传输不会以明文形式进行，并且默认情况下是安全的。…]]></description>
       <guid>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</guid>
@@ -115,15 +124,6 @@ Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好�
 我们正接近 iPhone 历史上最静态的设计时代的终结。虽然苹果继续迭代其最重要产品的规格，但 iPhone 16 产品线在视觉上属于可追溯到四年前的 iPhone 12 一代。…]]></description>
       <guid>https://sixcolors.com/post/2024/10/iphone-16-pro-review-control-before-intelligence/</guid>
       <pubDate>Thu, 10 Oct 2024 16:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV+ 登陆 Amazon Prime Video ↦</title>
-      <link>https://sixcolors.com/link/2024/10/apple-tv-comes-to-amazon-prime-video/</link>
-      <description><![CDATA[周三，亚马逊和苹果宣布 Apple TV+ 将作为附加订阅服务在 Prime Video 中提供：
-
-本月晚些时候，Apple TV+ 将通过美国 Prime Video 提供。…]]></description>
-      <guid>https://sixcolors.com/link/2024/10/apple-tv-comes-to-amazon-prime-video/</guid>
-      <pubDate>Thu, 10 Oct 2024 15:41:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
