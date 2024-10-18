@@ -4,7 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:22:35 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/10/1password-6/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/10/1password-6/</guid>
+      <pubDate>Fri, 18 Oct 2024 16:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 的密码生成算法强大但又“简单” ↦</title>
+      <link>https://sixcolors.com/link/2024/10/apples-strong-but-easy-password-generation-algorithm/</link>
+      <description><![CDATA[Apple 的 Ricky Mondello 概括介绍了该公司的密码生成系统如何尝试生成易于输入但仍然非常安全的密码：
+
+为了使这些密码更容易在布局不太理想的键盘上输入，例如我同事的游戏控制器，模式切换可能很困难，这些新密码实际上以小写字符为主。…]]></description>
+      <guid>https://sixcolors.com/link/2024/10/apples-strong-but-easy-password-generation-algorithm/</guid>
+      <pubDate>Fri, 18 Oct 2024 13:55:11 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 80：不断变化的景观</title>
       <link>https://sixcolors.com/podcast/2024/10/downstream-80-shifting-landscape/</link>
@@ -16,7 +33,7 @@
       <title>Apple Pay 十周年，增添新亮点</title>
       <link>https://sixcolors.com/post/2024/10/apple-pay-turns-10-adds-new-wrinkles/</link>
       <description><![CDATA[我的第一笔 Apple Pay 交易，2014 年。
-很难相信 Apple Pay 十年前就推出了，而我们现在已经达到了这样的程度，我可以链接到我十年前在当地 Whole Foods 第一次使用 Apple Pay 的故事，这更令人难以置信：
+很难相信 Apple Pay 十年前就推出了，而且我们现在已经达到了这样的程度，我可以链接到我十年前在当地 Whole Foods 第一次使用 Apple Pay 的故事：
 
 “哦，你要试试吗？”…]]></description>
       <guid>https://sixcolors.com/post/2024/10/apple-pay-turns-10-adds-new-wrinkles/</guid>
@@ -109,22 +126,6 @@ FIDO 联盟的草案规范 - 凭证交换协议 (CXP) 和凭证交换格式 (CXF
 甲板看起来太杂乱了。”…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/10/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs-2/</guid>
       <pubDate>Mon, 14 Oct 2024 18:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock</title>
-      <link>https://sixcolors.com/sponsor/2024/10/magic-lasso-adblock-youtube-ad-blocker-for-safari-19/</link>
-      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助 Six Colors。
-Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone、iPad 和 Mac 的最佳 Safari 广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/10/magic-lasso-adblock-youtube-ad-blocker-for-safari-19/</guid>
-      <pubDate>Fri, 11 Oct 2024 16:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的太阳能（电力）系统放入菜单栏中</title>
-      <link>https://sixcolors.com/post/2024/10/putting-my-solar-system-in-my-menu-bar/</link>
-      <description><![CDATA[
-Snell 家的夏天很忙。我们的屋顶早在我们买房子之前就修好了，我们已经住在这所房子里 25 年了，所以……是的。…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/putting-my-solar-system-in-my-menu-bar/</guid>
-      <pubDate>Thu, 10 Oct 2024 23:11:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
