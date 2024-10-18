@@ -4,7 +4,28 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:17:28 GMT</lastBuildDate>
+    <item>
+      <title>高通取消了 Arm PC 上的微型 Windows</title>
+      <link>https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc</link>
+      <description><![CDATA[
+
+图片：高通
+
+高通已取消其骁龙开发套件，这是一款微型 Windows on Arm PC，原定于 6 月发货。 在给客户的一封电子邮件中，高通表示这款迷你电脑“未达到我们一贯的卓越标准”，订单现在将退款。
+高通最初计划于 6 月份与第一批 Copilot Plus 电脑所搭载的芯片一同发布，但几个月来一直在努力出货这款迷你电脑。除了提到不符合标准之外，高通并未解释为何在向大多数人发货之前花了数月时间才得出取消该硬件的结论。
+一些开发人员，如 Jeff Geerling，在高通取消之前就已经收到了他们的骁龙开发套件。Greeling 甚至对该硬件进行了拆解，并对其进行了全面审查。评测的结论是，虽然这款迷你电脑的性能与苹果的 M3 Pro 相似，但由于缺乏 Linux 支持以及对转售设备的奇怪限制，这款硬件错失了良机。
+高通取消这款设备的谜团可能都归结于 HDMI 端口。虽然开发套件应该附带 HDMI 端口，但 Geerling 发现所有芯片都已安装好，用于内部 DisplayPort 到 HDMI 的转换，但端口缺失。DEVIntersection 系列会议的创始人 Richard Campbell 在最近的 TWiT 节目中推测，如果 HDMI 端口未通过 FCC 合规性测试，可能会导致生产延迟。高通还给上个月订购开发套件的用户发了一封电子邮件，告知他们计划改为使用 USB-C 转 HDMI 适配器来发货。
+
+
+图片：高通
+带有麻烦的 HDMI 端口的开发套件。
+
+虽然开发套件是一款小众设备，但它应该是硬件帮助开发人员将他们的应用移植到 Arm 上的 Windows。微软和高通都在敦促开发人员为搭载骁龙 X Elite 的笔记本电脑做好准备，他们在将 Chrome 等应用原生移植到 Arm64 方面取得了一些成功。
+谷歌甚至在今年晚些时候将其 Drive 应用移植到 Arm 上的 Windows，NordVPN 和 ExpressVPN 均于上个月推出，Arc 浏览器现在为 Arm64 原生。 Windows on Arm 的逐步采用本应是一个成功的故事，但开发套件的惨败却让它黯然失色。高通将于本月晚些时候举行骁龙峰会，既然迷你 PC 冒险已经结束，它可能需要更多地透露其针对台式电脑的骁龙计划。]]></description>
+      <guid>https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc</guid>
+      <pubDate>Fri, 18 Oct 2024 09:04:57 GMT</pubDate>
+    </item>
     <item>
       <title>最好的 iPhone</title>
       <link>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</link>
@@ -143,25 +164,6 @@ Netflix 在致投资者的信中表示：“为如此庞大、如此投入的观
 10 月 17 日更新：添加了来自 Netflix 收益电话会议的信息。]]></description>
       <guid>https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent</guid>
       <pubDate>Thu, 17 Oct 2024 20:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 正在再次测试其更便宜的 Premium Lite 订阅，但现在广告有限</title>
-      <link>https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-去年，YouTube 取消了 YouTube Premium 的廉价版本 Premium Lite，但该公司一直在澳大利亚、德国和泰国测试新版本的订阅服务，YouTube 向 Android Authority 证实。
-该公司也向 The Verge 证实了这些测试，发言人 Jessica Gibby 表示，该公司几个月来一直在与“澳大利亚、德国和泰国的部分用户”测试“不同版本”的订阅服务（最近一次测试于今年年初在澳大利亚开始）。” Gibby 补充道，“目前我们还没有关于更广泛推广的其他信息可以分享。”
-根据创作歌手 Jonah Manzano 在 Threads 上分享的截图，澳大利亚的 Premium Lite 网上订阅费用为每月 8.99 澳元，略低于 Premium 完整版费用 16.99 澳元的一半。根据另一张来自 Manzano 的截图，在 iOS 上，Premium Lite 的费用为 11.99 澳元，Premium 的费用为 22.99 澳元。
-虽然 Premium Lite 的上一个版本在 YouTube 和 YouTube kids 上没有广告，但这个新版本却有有限的广告。 YouTube 在脚注中写道，广告可能会出现在“音乐内容和 Shorts”上，用户可能会在“搜索和浏览时看到非中断性广告”。
-
-
-
-屏幕截图中的标题还显示，此版本的 Premium Lite 不提供无广告访问 YouTube Music、离线下载和播放视频的功能或在后台收听视频的功能，这些功能在旧版 Premium Lite 中也是不可用的。
-YouTube 最初在欧洲部分地区试行 Premium Lite 2021年。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads</guid>
-      <pubDate>Thu, 17 Oct 2024 20:26:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
