@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 18 Oct 2024 12:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 15:18:38 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚焦：Serhii Polyvanyi</title>
+      <link>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</link>
+      <description><![CDATA[介绍 Serhii — 一位杰出的创意数字设计师，他的概念和视觉技术让开发人员感动落泪，也让他们钦佩不已。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</guid>
+      <pubDate>Fri, 18 Oct 2024 13:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>集体#873</title>
       <link>https://tympanus.net/codrops/collective/collective-873/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解 Treize Grammes 大胆的品牌重塑和交互式设计所面临的挑战和创造性的解决方案。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</guid>
       <pubDate>Thu, 10 Oct 2024 12:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索固定元素的有趣情境感知动画</title>
-      <link>https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/</link>
-      <description><![CDATA[探索如何通过有趣的、情境感知的动画，通过滚动交互来隐藏和显示固定元素。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:26:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
