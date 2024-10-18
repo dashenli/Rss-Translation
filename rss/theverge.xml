@@ -4,7 +4,35 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 09:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:30:20 GMT</lastBuildDate>
+    <item>
+      <title>投票结束后，谷歌将再次禁止选举广告</title>
+      <link>https://www.theverge.com/2024/10/18/24273374/google-election-ad-ban-donald-trump-kamala-harris-campaigns</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Google 计划在 11 月 5 日投票结束后禁止广告商投放与美国总统大选相关的广告。 Axios 报道，这是谷歌第二次决定在投票结束后禁止选举广告，此前在 2020 年大选期间首次实施该政策。
+谷歌表示，今年再次重新实施该政策“是出于谨慎考虑，并为了限制可能出现的混乱，因为选票很可能会在选举日后继续计票。”
+在 2020 年的上一次总统选举中，拜登总统的胜利花了数天时间才公布。在疫情期间大量邮寄投票后，这一消息得到了证实。谷歌的政策适用于通过其广告平台（如谷歌广告、YouTube、购物广告等）投放的任何美国选举广告或提及美国选举的广告。
+Meta 还在屏蔽美国大选活动最后一周的新政治广告，就像它在2020 年所做的那样。它还要求广告商披露他们何时使用人工智能或其他数字方法修改广告。]]></description>
+      <guid>https://www.theverge.com/2024/10/18/24273374/google-election-ad-ban-donald-trump-kamala-harris-campaigns</guid>
+      <pubDate>Fri, 18 Oct 2024 10:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 正在让 Android 版 Chrome 中的密码管理器使用起来更加方便</title>
+      <link>https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Google 将于下个月更新 Android 版 Chrome，以大幅改善密码管理器在移动浏览器中的运行方式。 Android 版 Chrome 将允许第三方密码管理器在网站上自动填充表单，从而改善 1Password、Dashlane 等应用的体验。
+Google 在 Chrome 中提供自己的密码管理器，以及密钥和自动填充支持，用于填充地址和支付卡数据等信息。虽然您可以在 Android 上设置首选的自动填充服务，但它在 Chrome 中使用兼容模式，这让第三方密码管理器感觉非常不顺畅。我经常在 iOS 和 Android 设备之间切换，在 iOS 上使用 1Password 在 Chrome 中的体验要好得多，尽管它仍然无法与 Safari 的卓越集成相媲美。
+Google 承认其目前在 Android 版 Chrome 中提供的产品导致“页面滚动不顺畅”以及 Google 和第三方密码管理器可能重复提供的建议。 “随着这一即将发生的变化，Android 版 Chrome 将允许第三方自动填充服务以原生方式自动填充表单，从而为用户提供更流畅、更简单的用户体验，”Google Chrome 团队的开发者倡导者 Eiji Kitamuram 说道。“第三方自动填充服务可以自动填充密码、密钥和其他信息（如地址和付款数据），就像在其他 Android 应用中一样。”
+您可以在 Chrome 131 及更高版本中开始测试此新功能。将第三方密码管理器设置为首选自动填充服务后，您需要切换 Chrome 标志才能获得新的自动填充体验。所有 Android 版 Chrome 用户都将在 11 月 12 日获得这一新体验，届时 Chrome 131 将进入稳定渠道。]]></description>
+      <guid>https://www.theverge.com/2024/10/18/24273369/google-chrome-android-password-manager-native-autofill</guid>
+      <pubDate>Fri, 18 Oct 2024 09:26:21 GMT</pubDate>
+    </item>
     <item>
       <title>高通取消了 Arm PC 上的微型 Windows</title>
       <link>https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc</link>
@@ -121,7 +149,7 @@ Zens 可能已经找到了真正无线无线充电器的关键，它推出了新
 什么，您的充电器和插座盖的颜色与墙壁不匹配？你还自称文明人？
 
 如果你的插座位置不理想，那么 49.99 欧元的充电器似乎有点限制（如果你手笨，可能会有一点点掉落的风险），但它的可用性也有限，因为它只配备欧盟插头——至少目前是这样。 Zens 可能不是第一个制造这种充电器的公司，但快速搜索只能找到几个来自无名品牌的例子，这些充电器充电速度不会那么快。
-这家总部位于荷兰的公司并不经常回避制造独特和单一用途的充电解决方案，因此看到它试水如此奇特的充电器也就不足为奇了。而且无线充电适配器并非纯无线，因为它还提供有线 USB-C 端口来为第二台设备充电——这与典型的二合一产品截然不同。
+这家总部位于荷兰的公司并不经常回避制造独特和单一用途的充电解决方案，因此看到它试水如此奇特的充电器也就不足为奇了。而且无线充电适配器并非纯无线，因为它还提供有线 USB-C 端口来为第二台设备充电，这与典型的二合一产品截然不同。
 
 
 图片：Zens
@@ -138,32 +166,6 @@ Zens 现已推出黑色充电器，白色版本将于 11 月 7 日上市。
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector</guid>
       <pubDate>Thu, 17 Oct 2024 21:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的 Xbox 控制器</title>
-      <link>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</guid>
-      <pubDate>Thu, 17 Oct 2024 20:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 称订阅用户每天在该平台上花费两个小时</title>
-      <link>https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-Netflix 表示，根据该公司的 第三季度收益报告今天发布。
-这家流媒体在过去几个月表现不俗，报告称其收入为 98.3 亿美元，营业收入为 29.1 亿美元。该公司还增加了约 500 万订阅用户，全球订阅用户总数达到 2.827 亿。2024 年第三季度注册 Netflix 的订阅用户中，约有一半选择了广告支持计划。
-Netflix 表示，目前其在最大国家/地区的电视总使用量占比略低于 10%。不过，该公司认为，通过持续推出更多优质电视节目和电影，“有很大机会扩大这一份额”。该流媒体已为今年晚些时候和明年准备了一系列有希望的内容，包括Squid Game第 2 季、Arcane 的最后一季，以及一部动画巫师电影。
-Netflix 在致投资者的信中表示：“为如此庞大、如此投入的观众群制作如此多样化和高质量的节目非常困难。这就是为什么缺乏我们内容广度的流媒体服务越来越多地寻求捆绑其产品的原因……Netflix 已经是一个非凡的系列和电影（授权和原创）组合，以及越来越多的游戏和现场活动。” 
-在周四的财报电话会议上，Netflix 联合首席执行官 Greg Peters 证实，该平台正计划推出其于今年夏天开始测试的重新设计。“我们对在那里看到的进展感到兴奋，所以我们正在完善它，”Peters 说。 “我们很高兴能为全球订阅用户带来这一功能。”
-
-这是 Netflix 最后一次披露其在一个季度内增加了多少订阅用户，因为Netflix 计划从 2025 年开始停止季度统计。随着流媒体服务增加其他形式的收入，如广告和付费分享，订阅用户增长变得越来越不重要。尽管如此，Netflix 并不认为广告会成为明年收入增长的“主要驱动力”，因为它表示广告“扩张速度快于我们将不断增长的广告库存货币化的能力”。
-除了去年夏天推出每月 7.99 美元的付费分享附加功能外，该公司还努力深入探索直播内容，WWE Monday Night Raw将于明年加入该服务，迈克·泰森 vs. 杰克·保罗拳击比赛将于下个月播出。它还大大扩展了其游戏库。
-10 月 17 日更新：添加了来自 Netflix 收益电话会议的信息。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272920/netflix-q3-2024-earnings-subscriber-time-spent</guid>
-      <pubDate>Thu, 17 Oct 2024 20:38:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
