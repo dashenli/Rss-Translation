@@ -4,7 +4,120 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 01:10:31 GMT</lastBuildDate>
+    <item>
+      <title>最好的 iPhone</title>
+      <link>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</guid>
+      <pubDate>Fri, 18 Oct 2024 00:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊将直播由布莱恩·威廉姆斯主持的特别选举</title>
+      <link>https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams</link>
+      <description><![CDATA[
+
+图片：亚马逊
+
+亚马逊希望 Prime Video 成为您观看选举之夜报道的地方。该公司今天宣布，将在 Prime Video 上直播由前NBC 晚间新闻主播 Brian Williams 主持的选举之夜特别节目。该节目将于美国东部时间 11 月 5 日下午 5 点开始。“Brian Williams 将与包括新闻和传统媒体知名撰稿人在内的嘉宾一起现场直播，这些嘉宾代表了不同的背景和观点，分享实时民意调查结果和评论，同时引用所有政治派别的第三方新闻来源，”亚马逊在一篇博客文章中写道。该公司补充说，这将是一场“信息丰富、通俗易懂、无党派的演讲”。亚马逊将在“未来几周”内宣布嘉宾名单。
+据传，该节目和威廉姆斯的参与正在筹备中上个月。
+这场选举之夜特别节目只是亚马逊在 Prime Video 上的最新直播节目。该公司自 2022 年起就开始直播周四晚间橄榄球 NFL 比赛，并且将从 2025 年起转播大量 NBA 比赛。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24273106/amazon-prime-video-election-night-live-special-brian-williams</guid>
+      <pubDate>Thu, 17 Oct 2024 23:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 现在有 Windows 应用程序</title>
+      <link>https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+OpenAI 正在测试一款适用于 Windows 的 ChatGPT 应用 — 但目前仅供付费用户使用。您可以从Microsoft Store下载该应用的早期版本。
+只需与 Mac 版应用程序一样，Windows 上的 ChatGPT 可让您在专用窗口中向 AI 聊天机器人提问，并且可与您的应用程序一起保持打开状态。您可以使用 Alt + Space 快捷键快速访问该应用程序。
+
+
+今天，ChatGPT Plus、Enterprise、Team 和 Edu 用户可以开始测试 Windows 桌面应用程序的早期版本。使用 Alt + Space 快捷键在您的 PC 上更快地访问 ChatGPT。https://t.co/mv4ACwIhzA https://t.co/Ww6QvBfMnB pic.twitter.com/tkyodezZhv— OpenAI (@OpenAI) 2024 年 10 月 17 日
+
+
+它还允许您将文件和照片上传到 ChatGPT，并可以预览 OpenAI 的 o1 模型，该模型具有“推理”功能。但是，该应用程序仍然缺少一些功能，例如高级语音模式。
+6 月，OpenAI 在 Mac 上推出 ChatGPT 应用程序后不久，一名开发人员发现了一个安全漏洞，该漏洞会以纯文本形式存储对话。OpenAI 此后已修复此问题，现在加密本地存储的数据。
+尽管只有 ChatGPT Plus、Enterprise、Team 和 Edu 订阅者可以在 Windows 上使用该应用程序，但 OpenAI 表示计划在今年晚些时候将其推广给所有人。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24273040/chatgpt-windows-app-subscribers-openai</guid>
+      <pubDate>Thu, 17 Oct 2024 21:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>动视表示已修复《现代战争 III》和《使命召唤：战区》中的反作弊漏洞</title>
+      <link>https://www.theverge.com/2024/10/17/24272984/activision-anti-cheat-hack-call-of-duty-modern-warfare-iii-warzone</link>
+      <description><![CDATA[
+
+图片：Activision
+
+Activision 表示，它已在 《现代战争 III》 和 《使命召唤：战区》 中“禁用了检测系统的变通方法”，导致合法玩家被 Ricochet 反作弊系统。该公司表示，该问题“影响了少数合法玩家账户”，所有受影响的账户都已恢复。
+然而，经营 Phantom Overlay 作弊软件商店的 zebleer 声称，问题比 Activision 的帖子所显示的要严重得多。 在 X 的一篇详细帖子中，他们写道，当 Ricochet 扫描玩家计算机的内存以查找已知的作弊软件时，它扫描到的签名之一是一段纯文本字符串，内容如下：
+54 72 69 67 67 65 72 20 42 6f 74 (Trigger Bot)
+因此，zebleer 表示“很长一段时间以来”，只要向某人发送包含该短语的好友请求或在游戏聊天中发布“Nice Trigger Bot dude!”之类的消息，就可以永久封禁该人，因为它会显示在玩家的内存中并被 Ricochet 扫描。 
+尽管 Activision 称只有“少数”合法账户受到影响，但 zebleer 声称在有人开始针对大型主播之前，“已有数千名随机 COD 玩家因该漏洞而被封禁”。 
+
+
+ #MW3 #Warzone #TeamRicochetRICOCHET Anti-Cheat 识别并禁用了《现代战争 III》和《使命召唤：战区》中检测系统的变通方法，该方法影响了少数合法玩家账户。我们已经恢复了所有受影响的账户。......—使命召唤更新 (@CODUpdates) 2024 年 10 月 17 日
+
+
+
+
+公开道歉会大有帮助。想象一下，你的名字因为你从未做过的事情而被污蔑了 2 周，而你却得不到任何解释。哦，等等，过去两周我就是这样的！！！— BobbyPoff (@BobbyPoff) 2024 年 10 月 17 日
+
+
+Zebleer 指出 BobbyPoff，一位使命召唤主播，是因利用漏洞而被封禁的人之一自 10 月 3 日起，他的账号昨天突然解禁。与其他被禁言的玩家和主播一样，人们对 BobbyPoff 是否是作弊者进行了激烈的猜测和讨论，尽管他坚称自己是无辜的，而且有些人发布了搞笑视频。
+
+
+进行了 PC 检查，没有黑客入侵... 不是我... 向 Dave 致敬，又是一个爆款！！ https://t.co/wBj1DU1a76— BobbyPoff (@BobbyPoff) 2024 年 10 月 10 日
+
+
+使命召唤更新帐户表示，Ricochet 团队将于明天分享一篇博客文章，但该帐户并未具体说明该帖子是否会讨论此漏洞。 
+Activision 没有立即回应置评请求。]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272984/activision-anti-cheat-hack-call-of-duty-modern-warfare-iii-warzone</guid>
+      <pubDate>Thu, 17 Oct 2024 21:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 MacBook 的最佳优惠</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <pubDate>Thu, 17 Oct 2024 21:26:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zens 的新款 Qi2 充电器几乎与将手机直接插入墙上的充电器非常接近</title>
+      <link>https://www.theverge.com/2024/10/17/24272909/zens-qi2-wireless-charging-adapter-eu-plug-outlet-magsafe-charger</link>
+      <description><![CDATA[
+
+图片：Zens
+
+Qi2 充电器如今非常流行，有各种形状和尺寸，那么为什么不专门为欧洲人制作一个，在厨房台面上有插座，并且整洁橄榄油的种类？
+Zens 可能已经找到了真正无线无线充电器的关键，它推出了新的无线充电适配器。它与大多数 Qi2 / MagSafe 充电器非常相似，能够以高达 15W 的功率为 iPhone 充电，但它省去了插座和磁垫之间的常规电线，直接插入墙壁即可。
+
+
+图片：Zens
+什么，您的充电器和插座盖的颜色与墙壁不匹配？你还自称文明人？
+
+如果你的插座位置不理想，那么 49.99 欧元的充电器似乎有点限制（如果你手笨，可能会有一点点掉落的风险），但它的可用性也有限，因为它只配备欧盟插头——至少目前是这样。 Zens 可能不是第一个制造这种充电器的公司，但快速搜索只能找到几个来自无名品牌的例子，这些充电器充电速度不会那么快。
+这家总部位于荷兰的公司并不经常回避制造独特和单一用途的充电解决方案，因此看到它试水如此奇特的充电器也就不足为奇了。而且无线充电适配器并非纯无线，因为它还提供有线 USB-C 端口来为第二台设备充电——这与典型的二合一产品截然不同。
+
+
+图片：Zens
+
+Zens 现已推出黑色充电器，白色版本将于 11 月 7 日上市。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272909/zens-qi2-wireless-charging-adapter-eu-plug-outlet-magsafe-charger</guid>
+      <pubDate>Thu, 17 Oct 2024 21:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>观看 Adob​​e 将面包篮的平面绘图旋转，就像它是一个 3D 对象一样</title>
+      <link>https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector</guid>
+      <pubDate>Thu, 17 Oct 2024 21:23:48 GMT</pubDate>
+    </item>
     <item>
       <title>现在最值得购买的 Xbox 控制器</title>
       <link>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</link>
@@ -49,111 +162,6 @@ Netflix 在致投资者的信中表示：“为如此庞大、如此投入的观
 YouTube 最初在欧洲部分地区试行 Premium Lite 2021年。]]></description>
       <guid>https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads</guid>
       <pubDate>Thu, 17 Oct 2024 20:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的机器人吸尘器</title>
-      <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</guid>
-      <pubDate>Thu, 17 Oct 2024 20:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 的新更新可能会让你的电动车感觉像霹雳游侠（或回到未来）</title>
-      <link>https://www.theverge.com/2024/10/17/24272889/rivian-car-costumes-halloween-software-update-back-to-the-future-knight-rider-kitt</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272889/rivian-car-costumes-halloween-software-update-back-to-the-future-knight-rider-kitt</guid>
-      <pubDate>Thu, 17 Oct 2024 20:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automattic 为员工提供了另一次辞职机会，以解决 WordPress 纠纷</title>
-      <link>https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-Automattic 首席执行官 Matt Mullenweg 向不同意其行为的员工提供了第二轮买断，据一份报告称404 Media。据该媒体看到，Mullenweg 给员工发了一条信息，要求他们在 10 月 17 日之前决定是否辞职以换取 9 个月的薪水。
-“新的调整方案：我猜有些人很伤心错过了最后一个机会。有些人已经向媒体和前员工泄露了消息，”Mullenweg 在 404 Media 看到的消息中写道。“你必须在 10 月 17 日 00:00 UTC（-4 小时）之前给我发私信，说‘我辞职，愿意接受 9 个月的买断方案’。你不必说任何理由或其他任何事情。我会回复‘谢谢’。Automattic 将接受你的辞职。”
-本月早些时候，Mullenweg 向 Automattic 员工提出，如果他们不支持他与第三方 WordPress 托管平台 WP Engine 的斗争，他们将获得 30,000 美元或六个月薪水中的较高者。约 8.4% 的公司员工因该提议而离职。据报道，在 Mullenweg 的新提议中，他告诉向媒体泄露信息的员工“体面地离开，否则明天就会被解雇，不会有任何遣散费。”您可以在本文末尾阅读 Mullenweg 的完整留言。
-
-此外，404 Media 报道称，7 月份，Mullenweg 将来自 Blind（一个员工可以匿名讨论工作场所的网站）的来信重定向到自己的收件箱。据报道，使用公司电子邮件（该网站要求）注册或登录 该平台的员工必须向 Mullenweg 索要身份验证码。
-The Verge 联系了 Automattic 并请求其发表评论，但没有立即得到回复。
-Mullenweg 上个月在向 WordPress 社区称 WP Engine 是“毒瘤”并指责该公司侵犯了 WordPress 商标后引发了一场争议。此后，该首席执行官公开反对 WP Engine，导致该公司提起诉讼，指控 Automattic 和 Mullenweg“滥用权力、敲诈勒索和贪婪”。
-Automattic 是 Mullenweg 旗下的公司，控制着 WordPress.com，这是 WordPress 开源项目的商业部门。 Mullenweg 也是 WordPress.org 的三位董事会成员之一，他在接受 The Verge 采访时表示，该项目“属于我”。
-
-以下是 Mullenweg 向员工发出的完整信息，由 404 Media 首次转载：
-
-新的调整提议：我想有些人很伤心错过了最后一个机会。有些人已经向媒体和前员工泄露了消息。这已经是过去的事了。也许最后的提议需要更高一些。人们说他们想要一个新的机会，所以这是我的尝试。这是一条新消息：你必须在 UTC 10 月 17 日 00:00（-4 小时）之前给我发私信，内容是“我辞职并愿意接受 9 个月的买断协议”。你不必说明任何理由或其他任何事情。我会回复“谢谢”。Automattic 将接受你的辞职，你可以保留你的 [sic] 办公用品和工作笔记本电脑；你将无法访问 Automattic 和 Wong（没有 slack、用户帐户等）。人力资源部将在未来几天联系你，以完成细节，包括你的 9 个月的薪酬，他们现在有很多事情要做。我向你保证，这笔交易一定会得到履行。我们会尽量保持低调，这样就不会被用来对付我们，但我仍然想给 Automatticians 另一个机会。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272867/automattic-employee-buyout-wordpress-drama</guid>
-      <pubDate>Thu, 17 Oct 2024 19:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>迈凯伦更新 Google Chrome</title>
-      <link>https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery</link>
-      <description><![CDATA[
-
-图片：迈凯伦
-
-迈凯伦是更新其 F1 赛车上的 Google Chrome 版本。我的意思是：迈凯伦在本周末参加在德克萨斯州奥斯汀美洲赛道举行的美国大奖赛的 F1 赛车上，其 Google Chrome 徽标和镀铬饰面比平时更多。
-迈凯伦的 MCL38 延续了采用 Google 彩色车轮和徽标的传统，但与去年的英国大奖赛特别版一样，本周末比赛的涂装在 Chrome 徽标下方有一块真正的镀铬，看起来就像是 21 世纪初从一家定制汽车店出来的一样。然而，这一次，迈凯伦增加了额外的镀铬标志，并且看起来更厚的金属镀铬一直延伸到侧壁。
-正如车手 Oscar Piastri 漫不经心地指出的那样，镀铬量很大：
-
-
-您如何描述我们的奥斯汀涂装，@OscarPiastri？  @GoogleChrome#GoogleChrome #McLaren pic.twitter.com/kOakecO6Je— 迈凯伦 (@McLarenF1) 2024 年 10 月 15 日
-
-
-在 2022 赛季，迈凯伦在汽车顶部有一个大型 Android 标志，但后来它被卸载，只使用 Chrome。别担心；Android 仍在车手的新赛车服上运行，还有一些新的镀铬装饰。我不知道奥斯卡·皮亚斯特里 (Oscar Piastri) 的头盔上是否还会有 Chrome 徽标。
-
-
-图片：迈凯伦
-伙计，这就是 Chrome。
-
-您可以在 10 月 20 日星期日美国大奖赛于美国东部时间下午 3 点开幕时看到此 Chrome 更新的推出。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272707/mclaren-us-grand-prix-2024-f1-racing-google-chrome-livery</guid>
-      <pubDate>Thu, 17 Oct 2024 19:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西警方逮捕窃取所有人 SSN 的黑客</title>
-      <link>https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-巴西联邦警察 宣布逮捕一名黑客，该黑客与一起泄露了 29 亿条记录的事件有关，这些记录包括敏感的个人信息，包括一些社会安全号码。此次黑客攻击的数据于8 月曝光，并于 4 月被一个自称是 USDoD 的实体在暗网上出售。 
-正如Bleeping Computer所指出的，根据该部门新闻稿的机器翻译，该黑客与“两份出售”联邦警察数据的出版物有关。该部门表示，这名黑客还吹嘘披露了 80,000 名 FBI InfraGard 项目成员的个人数据。 
-
-Atlas 的安全研究人员创建了一个工具来搜索泄露的记录并告诉PCMag，泄露的数据包含约 2.72 亿个唯一的 SSN，以及多达 6 亿个电话号码。 National Public Data 及其母公司 Jerico Pictures 于本月初申请第 11 章破产，因该事件面临大量诉讼和潜在处罚。
-“被调查者必须对入侵计算机设备的罪行负责，通过获取信息来认定，并因将获取的数据商业化而加重刑罚，”根据翻译。逮捕黑客的行动被称为“数据泄露行动”。 
-联邦警察表示，如果黑客还实施了其他入侵行为，他们将继续调查。
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data</guid>
-      <pubDate>Thu, 17 Oct 2024 19:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unity 试图通过其最新游戏引擎版本扭转局面</title>
-      <link>https://www.theverge.com/2024/10/17/24272699/unity-6-game-engine-release</link>
-      <description><![CDATA[
-
-插图由 Cath Virginia / The Verge 提供
-
-Unity 最近的日子并不好过，但为了重新赢得游戏开发者的青睐，该公司已在全球发布了 Unity 6。除了允许开发人员瞄准移动网络的工具等新功能外，该游戏引擎制造商还承诺将投入“长期”资源“来增强功能集并提供新功能，同时保持升级的便利性和持续的稳定性”，根据新闻稿。
-Unity 是一种广泛使用的游戏开发引擎为《Among Us》、《Hollow Knight》等众多游戏提供支持，但 Unity 6 的发布正值公司历史上的一段动荡时期。Unity 按用户数向开发者收费，但在 2023 年 9 月，该公司宣布了一项新的定价方案，在达到一定门槛后，按游戏安装量向开发者收费。这一变化可能会给开发者带来巨额成本，许多人表示非常沮丧。
-尽管 Unity 为了回应抗议，对计划的每次安装模式做出了一些改变，但首席执行官 John Riccitiello 不久后宣布退休，并于 5 月由前 Zynga 和 EA 高管接替马修·布罗姆伯格。然后，上个月，Unity 宣布将完全取消运行时费用计划。
-
-“随着 Unity 6 的发布，我们有兴趣与客户重新建立联系，并帮助他们理解，我们致力于提供对他们重要的东西，在这方面，我们将成为一家完全不同的公司，”Bromberg 说给 CNBC。
-Unity 还需要保持开发者的青睐，因为它面临着来自 Epic Games 虚幻引擎的持续竞争。在最近接受The Verge采访时，Epic 首席执行官 Tim Sweeney 阐述了该公司本世纪剩余时间的计划，包括继续开发该产品的下一个主要版本虚幻引擎 6。]]></description>
-      <guid>https://www.theverge.com/2024/10/17/24272699/unity-6-game-engine-release</guid>
-      <pubDate>Thu, 17 Oct 2024 18:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 iPhone 的最佳 MagSafe 和 Qi2 充电器</title>
-      <link>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</guid>
-      <pubDate>Thu, 17 Oct 2024 18:26:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
