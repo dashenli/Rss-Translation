@@ -4,7 +4,27 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 19 Oct 2024 21:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 01:16:18 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Instagram 上对“Adam Driver Megalopolis”的搜索因 CSAM 而被屏蔽？</title>
+      <link>https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation</link>
+      <description><![CDATA[
+
+图片：Kristen Radtke / The Verge
+
+当人们现在在 Instagram 或 Facebook 上搜索“Adam driver Megalopolis”时，看到的不是关于弗朗西斯·福特·科波拉的最新电影，他们收到了一条警告，标题为“儿童性虐待是违法的”。 
+昨天在 X 上的一篇文章中指出了这一奇怪的事实，截至今天，当我搜索该短语时，我仍然会看到它。但为什么呢？嗯，这似乎与最近的 Threads 审核失败无关。据我所知，也没有关于《Megalopolis》或其主演的重磅消息。
+
+
+屏幕截图：Instagram
+哎呀。
+
+相反，Facebook 和 Instagram 似乎屏蔽了包含“mega”和“drive”的搜索——当我同时搜索这两个词时，我看到了它，但当我搜索“Megalopolis”、“Adam Driver”或任何一个词与其他词混合时，却没有看到它。这个问题并不新鲜，正如这篇九个月前的 Reddit 帖子中关于在 Facebook 上搜索“Sega mega drive”的帖子所说明的那样。（现在，该搜索似乎按预期工作。）
+
+不清楚为什么这些词被屏蔽，当我们询问时，Meta 没有立即做出回应。 Facebook 和 Instagram 屏蔽了其他看似无害的词语，例如“鸡汤”，因为儿童虐待材料的分发者使用它作为其编码语言的一部分来逃避平台上的检测。]]></description>
+      <guid>https://www.theverge.com/2024/10/19/24274467/instagram-facebook-meta-block-csam-adam-driver-megalopolis-mega-drive-content-moderation</guid>
+      <pubDate>Sat, 19 Oct 2024 22:34:24 GMT</pubDate>
+    </item>
     <item>
       <title>福特要求部分电动汽车客户停止使用特斯拉超级充电适配器</title>
       <link>https://www.theverge.com/2024/10/19/24274405/ford-ev-nacs-adapter-faulty-replacement-service-bulletin</link>
@@ -102,21 +122,6 @@ DockLite G4 并不便宜，售价 260 美元。Juicy Crumb 首席执行官兼联
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</guid>
       <pubDate>Fri, 18 Oct 2024 22:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>企鹅兰登书屋图书现在明确表示拒绝人工智能训练</title>
-      <link>https://www.theverge.com/2024/10/18/24273895/penguin-random-house-books-copyright-ai</link>
-      <description><![CDATA[
-
-图片：Hugo Herrera / The Verge
-
-图书出版商企鹅兰登书屋正在就人工智能培训问题表明立场印刷。根据《书商》的一份报告，新书和再版书的标准版权页现在都会写着：“本书的任何部分不得以任何方式用于训练人工智能技术或系统。”Gizmodo 发现该报告。
-该条款还指出，企鹅兰登书屋“明确保留对这部作品的文本和数据挖掘例外规定”，这符合欧盟法律。 《书商》称， 企鹅兰登书屋似乎是第一家在版权页面上说明人工智能的大型出版商。
-该页面上印刷的内容可能是一种警告，但与实际的版权法关系不大。 修改后的页面有点像企鹅兰登书屋的 robots.txt 文件版本，网站有时会 使用该文件要求人工智能公司和其他公司不要抓取其内容。但 robots.txt 不是一种法律机制；它是整个网络自愿采用的规范。无论版权页是否插入书的前部，版权保护都存在，即使版权持有人表示不存在，合理使用和其他辩护（如果适用！）也存在。
-The Verge 联系了企鹅兰登书屋以获取更多信息，但没有立即得到回复。
-8 月，企鹅兰登书屋发表声明称，出版商将“坚决捍卫属于我们作者和艺术家的知识产权”。并非所有图书出版商都对人工智能持谨慎态度，因为Wiley、牛津大学出版社和Taylor &amp; Francis等学术出版商已经达成了人工智能培训协议。]]></description>
-      <guid>https://www.theverge.com/2024/10/18/24273895/penguin-random-house-books-copyright-ai</guid>
-      <pubDate>Fri, 18 Oct 2024 22:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
