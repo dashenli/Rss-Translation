@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 03:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:20:33 GMT</lastBuildDate>
+    <item>
+      <title>佐治亚州萨佩洛岛渡轮码头舷梯倒塌，至少 7 人死亡</title>
+      <link>https://www.npr.org/2024/10/19/g-s1-29084/ferry-dock-gangway-collapse-georgia-sapelo-island</link>
+      <description><![CDATA[当局称，佐治亚州萨佩洛岛的一个渡轮码头部分倒塌，岛上的黑奴后裔古拉-吉奇族人聚集在那里举行秋季庆祝活动。]]></description>
+      <guid>https://www.npr.org/2024/10/19/g-s1-29084/ferry-dock-gangway-collapse-georgia-sapelo-island</guid>
+      <pubDate>Sun, 20 Oct 2024 03:48:10 GMT</pubDate>
+    </item>
     <item>
       <title>美国正在调查未经授权泄露有关以色列袭击计划的机密文件</title>
       <link>https://www.npr.org/2024/10/19/g-s1-29081/us-investigating-unauthorized-release-classified-documents-israel-attack-plans</link>
@@ -22,21 +29,21 @@
     <item>
       <title>波音工会将对新合同协议进行投票，可能结束罢工</title>
       <link>https://www.npr.org/2024/10/19/nx-s1-5158399/boeing-iam-negotiations-contract</link>
-      <description><![CDATA[最新提议包括四年内普遍工资上涨 35%——这更接近工会最初要求的 40%。波音公司此前提出的涨薪幅度是合同期内的 25%。]]></description>
+      <description><![CDATA[最新提议包括四年内普遍工资上涨 35%——这更接近工会最初要求的 40%。波音公司此前提出的涨薪幅度为合同期内的 25%。]]></description>
       <guid>https://www.npr.org/2024/10/19/nx-s1-5158399/boeing-iam-negotiations-contract</guid>
       <pubDate>Sat, 19 Oct 2024 17:02:49 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛、塔吉特和超市出售的冷冻华夫饼因李斯特菌风险被召回</title>
       <link>https://www.npr.org/2024/10/19/nx-s1-5158372/frozen-waffles-recall-listeria</link>
-      <description><![CDATA[此次召回的产品包括沃尔玛、塔吉特、Publix 和其他商店出售的多种冷冻华夫饼。Kodiak Cakes、Simple Truth 和 Food Hold 等品牌的部分华夫饼也已被召回。]]></description>
+      <description><![CDATA[此次召回的产品包括沃尔玛、塔吉特、Publix 和其他商店销售的多种冷冻华夫饼。Kodiak Cakes、Simple Truth 和 Food Hold 等品牌的部分华夫饼也已被召回。]]></description>
       <guid>https://www.npr.org/2024/10/19/nx-s1-5158372/frozen-waffles-recall-listeria</guid>
       <pubDate>Sat, 19 Oct 2024 15:06:35 GMT</pubDate>
     </item>
     <item>
       <title>古巴电网再次崩溃。为什么这种情况不断发生？</title>
       <link>https://www.npr.org/2024/10/19/nx-s1-5158380/cuba-power-outage-electricity-embargo</link>
-      <description><![CDATA[古巴电网在短短几天内第二次陷入瘫痪，导致岛上 1000 万人断电，这个加勒比岛国的危机感日益加深。]]></description>
+      <description><![CDATA[古巴电网在短短几天内第二次陷入停电，导致岛上 1000 万人断电，这个加勒比岛国的危机感日益加深。]]></description>
       <guid>https://www.npr.org/2024/10/19/nx-s1-5158380/cuba-power-outage-electricity-embargo</guid>
       <pubDate>Sat, 19 Oct 2024 14:34:54 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[该组织领导人已死，哈马斯的未来和加沙战争的未来。]]></description>
       <guid>https://www.npr.org/2024/10/19/nx-s1-5157665/the-killing-of-hamas-leader-yahya-sinwar-may-escalate-war-in-lebanon</guid>
       <pubDate>Sat, 19 Oct 2024 11:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国网络安全负责人称选举系统“从未如此安全”</title>
-      <link>https://www.npr.org/2024/10/19/nx-s1-5154706/cisa-voter-fraud-election-foreign-interference</link>
-      <description><![CDATA[网络安全和基础设施安全局局长 Jen Easterly 告诉 NPR，美国各地的选举官员已经做出了巨大改进，以加强物理和网络安全。]]></description>
-      <guid>https://www.npr.org/2024/10/19/nx-s1-5154706/cisa-voter-fraud-election-foreign-interference</guid>
-      <pubDate>Sat, 19 Oct 2024 11:56:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
