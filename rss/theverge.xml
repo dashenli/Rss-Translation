@@ -4,7 +4,20 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 21 Oct 2024 01:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:18:35 GMT</lastBuildDate>
+    <item>
+      <title>三星 Z Fold 特别版旗舰产品来了</title>
+      <link>https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs</link>
+      <description><![CDATA[
+
+Galaxy Z Fold 特别版机型。 |图片：三星  三星只是宣布 Galaxy Z Fold特别版机型。它比最近才开始销售的 Galaxy Z Fold 6 更薄、更轻，内外显示屏略大，背面采用新的带状图案。它还为 Galaxy AI 提供了更多内存，并升级了 200 万像素广角摄像头。
+太棒了！不幸的是，它仅在韩国发布，10 月 25 日星期五发售时售价为 2,789,600 韩元，约合 2,000 多美元。而且似乎唯一的其他发布市场将是中国。
+Galaxy Z Fold SE 厚度为 10.6 毫米，重量为 236 克，比 Galaxy Z Fold 6 薄 1.5 毫米，轻 3 克。内存现在是 16GB 标准，广角传感器已从 50 万像素提升至 2 亿像素。内外显示屏也略大一些，分别为 8.0 英寸和 6.5 英寸，高于 7.6 英寸和 6.3 英寸。这确实使设备在折叠或展开时变得更高更宽。
+
+这些变化不太可能解决我们今年夏天评测 Galaxy Z Fold 6时所担心的问题。在三星帮助开创的设备类别中，这款手机仍然没有什么有意义的不同。但如果你正在寻找三星最好的可折叠手机，那么 Galaxy Z Fold SE 就是你想要的。]]></description>
+      <guid>https://www.theverge.com/2024/10/21/24275571/samsung-z-fold-special-edition-price-specs</guid>
+      <pubDate>Mon, 21 Oct 2024 07:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>杨紫琼的《星际迷航》间谍电影即将上映</title>
       <link>https://www.theverge.com/2024/10/20/24274900/star-trek-section-31-michelle-yeoh-paramount-plus-streaming-premiere-date</link>
@@ -180,25 +193,6 @@ Internet Archive 创始人 Brewster Kahle 在 10 月 17 日的博客文章中写
 ]]></description>
       <guid>https://www.theverge.com/2024/10/19/24274405/ford-ev-nacs-adapter-faulty-replacement-service-bulletin</guid>
       <pubDate>Sat, 19 Oct 2024 20:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>iFixit 拆解 Meta Quest 3S，发现里面还藏有 Quest 2</title>
-      <link>https://www.theverge.com/2024/10/19/24274330/meta-quest-3s-teardown-quest-2-lenses-lcd-panel</link>
-      <description><![CDATA[
-
-
-如果我告诉你 Meta Quest 3S 在某些方面只是功能更强大的 Quest 2，并带有色彩直通功能，你会怎么想？ “是的，当然是，”读过我们的报道的人可能会说，但 iFixit 在今天发布的拆解视频中展示了这种说法的真实性。
-第一个暗示是耳机的菲涅尔透镜，iFixit 的 Shahram Mokhtari 在博客文章中写道，这些镜头与 Quest 2 使用的镜头“100% 兼容”。该头戴式耳机还具有旧款头戴式耳机的 IPD 调节机制；并且它共享相同的单个 LCD 面板，而不是像 Meta Quest 3 那样使用每只眼睛一个面板。 
-
-
-截图：YouTube
-这是 Quest 3S 面板后面的东西。
-
-除了旧部件外，iFixit 发现 3S 使用两个红外传感器进行深度映射，而不是单个深度传感器。 Mokhtari 在博客中写道，这种“对 Quest 3 的罕见迭代改进”在“无光空间中表现异常出色”。当然，它使用与 Quest 3 相同的 Qualcomm Snapdragon XR2 SoC，并与 Meta 的较新的 Touch Plus 控制器配合使用，后者单独出售。
-正如 iFixit 指出的那样，这些都不应该被视为坏事。这些变化使耳机更便宜——Quest 3S 售价 299.99 美元，而 Quest 3 售价 499.99 美元。这也意味着，如果这些重复使用的部件坏了，很容易找到替代品，因为 Quest 2 已经存在四年了。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/19/24274330/meta-quest-3s-teardown-quest-2-lenses-lcd-panel</guid>
-      <pubDate>Sat, 19 Oct 2024 18:09:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
