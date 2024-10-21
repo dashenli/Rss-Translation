@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sat, 19 Oct 2024 01:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:33:59 GMT</lastBuildDate>
+    <item>
+      <title>Piecesjs 入门：使用轻量级框架构建原生 Web 组件</title>
+      <link>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</link>
+      <description><![CDATA[Piecesjs 是一个基于原生 Web 组件构建的轻量级 JavaScript 框架，提供了一套专为创意网站量身定制的工具和实用程序。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:47:28 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚焦：Serhii Polyvanyi</title>
       <link>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>集体#873</title>
       <link>https://tympanus.net/codrops/collective/collective-873/</link>
-      <description><![CDATA[Three.js Journey 🧑‍🏫 40% 折扣 * Plain Vanilla * Manifest]]></description>
+      <description><![CDATA[Three.js Journey 🧑‍🏫 * Plain Vanilla * Manifest 优惠 40%]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-873/</guid>
       <pubDate>Fri, 18 Oct 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Eva Sánchez 分享了她通过有趣的互动和屡获殊荣的设计将品牌转变为动态数字体验的热情。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</guid>
       <pubDate>Fri, 11 Oct 2024 09:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：十三克 — 2024 年</title>
-      <link>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</link>
-      <description><![CDATA[了解 Treize Grammes 大胆的品牌重塑和交互式设计所面临的挑战和创造性的解决方案。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:19:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
