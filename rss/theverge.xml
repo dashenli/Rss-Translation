@@ -4,162 +4,193 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 12:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 15:19:44 GMT</lastBuildDate>
     <item>
-      <title>Meta 恢复面部扫描功能，以打击诈骗和账户黑客</title>
-      <link>https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait</link>
+      <title>WhatsApp 将对其保存联系人的方式进行重大改变</title>
+      <link>https://www.theverge.com/2024/10/22/24276714/whatsapp-built-in-contacts-address-book</link>
       <description><![CDATA[
 
-Facebook 准备再次扫描您的脸部。 | 图片：Meta
+插图：The Verge
 
-Facebook 和 Instagram 正在测试新的面部识别工具，该工具可以帮助用户快速恢复受损帐户并打击虚假名人代言诈骗。 Meta 宣布计划推出实验性功能，该功能可以扫描用户的脸部，通过将用户脸部与 Facebook 和 Instagram 上的个人资料图片进行比较来验证其身份。
-这些工具的首次使用旨在保护名人和普通人免受所谓的“名人诱饵”广告的侵害，这些广告冒充知名人物诱骗用户访问诈骗网站。 Meta 目前使用机器学习等自动化技术来检测违反其政策的内容，但表示名人诱饵很难与合法广告区分开来。
-“如果我们的系统怀疑某个广告可能是骗局，其中包含可能成为名人诱饵的公众人物形象，我们将尝试使用面部识别技术将广告中的面孔与公众人物的 Facebook 和 Instagram 个人资料图片进行比较，”Meta 在公告中表示。 “如果我们确认匹配并确定广告是骗局，我们会屏蔽它。”
+WhatsApp 正在获取内置联系人管理器，可让您在应用内保存联系人这样即使您换手机也不会丢失联系人。
+WhatsApp 通常依靠其运行的智能手机通讯录来保存和管理联系人。但对于丢失设备且无法备份手机联系人的用户、共用手机的用户或在一个设备上管理多个帐户且联系人不同的用户来说，这可能是一个问题。
+首先，您可以在 WhatsApp Web 和 Windows 上保存联系人，Meta 表示您“最终”将能够在其他链接设备上这样做。WhatsApp 中保存的联系人使用一种新的“隐私保护”存储技术，称为身份证明链接存储 (IPLS)，Meta 解释说，该技术会将姓名和号码加密，并且只能由用户访问。 
 
 
+图片：WhatsApp
 
-名人需要有 Facebook 或 Instagram 个人资料才能使用新的面部识别工具，但据 Meta 称，在对一小部分公众人物进行的早期测试中，它们在检测速度和有效性方面表现出了“令人鼓舞的结果”。未来几周，更多受到名人诱饵内容影响的名人将自动加入，并可以选择退出。 
-Meta 的面部识别工具最终还将允许 Facebook 和 Instagram 用户通过提交视频自拍来重新获得对其锁定帐户的访问权限，类似于 Apple 的 Face ID 等身份验证系统。目前尚不清楚此功能何时可用，但 Meta 全球事务总裁 Nick Clegg 表示 这项功能“从小处着手”，并计划“在未来几个月内更广泛地推广这些保护措施”。
-Meta 表示，上传的自拍视频将被加密并“安全存储”。该公司还表示，用于比较的面部数据会被立即删除，不会用于“任何其他目的”——不过值得注意的是，Meta 几乎在其平台上发布的所有内容上训练其 AI 模型。
-Meta 之前将面部识别技术集成到 Facebook 中，以识别和标记照片和视频中的用户。该功能经过长时间的隐私之争后于 2021 年停用。该公司现在表示，其新工具已经过安全和隐私审查，并正在与监管机构和政策制定者进行讨论。]]></description>
-      <guid>https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait</guid>
-      <pubDate>Tue, 22 Oct 2024 12:19:05 GMT</pubDate>
+在发给The Verge的一封电子邮件中，WhatsApp 新闻代表 Jessica Maskell 写道，新的联系人功能将随后推出一个新的用户名系统，届时将不再需要电话号码。 Signal 等其他端到端加密消息应用程序也为使用该应用程序添加了无电话号码选项。]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276714/whatsapp-built-in-contacts-address-book</guid>
+      <pubDate>Tue, 22 Oct 2024 15:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>Epic 雄心勃勃的数字资产商店现已开业</title>
-      <link>https://www.theverge.com/2024/10/22/24276113/epic-games-fab-marketplace-digital-assets-live</link>
-      <description><![CDATA[
-
-
-Epic Games 的 Fab 市场现已上线，该市场旨在作为获取环境和动画等数字资产的统一场所，该公司今天宣布。推出市场是 Epic 计划的重要一步，该计划旨在让开发者更轻松地获取用于开发游戏的资产——也许有一天，他们可以为可互操作的元宇宙制作内容。
-该公司首先披露了其 Fab 计划——它将结合虚幻引擎市场的产品，Sketchfab Store、Quixel 和 ArtStation Marketplace 合并到一个地方 — 2023 年 3 月。尽管 Epic 最初计划在 2023 年推出 Fab，但该公司后来将发布时间推迟到 2024 年。
-Epic 为在 Fab 上销售的商品提供 88% 的收入分成，与其在 Epic Games Store 上为开发者提供的收入分成相当。在发布之前，Epic 允许创作者准备他们的虚幻引擎市场和Sketchfab 产品将在 Fab 上提供。 （据 Epic 称，ArtStation Marketplace 将“继续像现在一样运营”，但该公司计划让 ArtStation 用户在 2025 年将他们的内容带到 Fab。）
-Epic 还分享了一些关于 Fab 更新的计划。也许最值得注意的是，该公司重申计划增加对提供 Roblox 和 Minecraft 资产的支持。Epic 还计划让人们访问 Fab 上的其超现实主义 MetaHumans。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/22/24276113/epic-games-fab-marketplace-digital-assets-live</guid>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>名人飞机追踪账户已从 Threads 和 Instagram 上消失</title>
-      <link>https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended</link>
-      <description><![CDATA[
-
-Jack Sweeney 表示，他的 38 个飞机跟踪账户已被暂停。 |插图：The Verge
-
-Meta 已暂停多个 Threads 和 Instagram 帐户，这些帐户追踪名人的私人飞机，例如 马克·扎克伯格、埃隆·马斯克、杰夫·贝佐斯、金·卡戴珊 和 前美国总统唐纳德·特朗普。 
-杰克·斯威尼 (Jack Sweeney) 因其在 X 上的 @ElonJet 帐户而声名狼藉，并维护了许多被暂停的帐户，他在 Threads 上表示，这一发展“让人想起了我所有在 Twitter 上被暂停的帐户。”这些被关闭的账户使用公开数据显示私人飞机的飞行路线，最初在周一显示一条消息，内容是“您点击的链接可能已损坏，或页面可能已被删除。”
-Sweeney 表示，Meta 没有对暂停账户提供直接警告或解释，他表示这些账户似乎“被屏蔽了，没有互动或接收信息的选项”。 然而，一位未透露姓名的 Meta 发言人在向 TechCrunch 发表的声明中表示：“考虑到对个人造成身体伤害的风险，并根据独立监督委员会的建议，我们已禁用这些违反我们隐私政策的账户。”
-
-
-
-一个跟踪账户泰勒·斯威夫特 (Taylor Swift) 的私人飞机此前也曾被停用，因为这位歌手今年 2 月威胁要对斯威尼采取法律行动，除非他停止“跟踪和骚扰行为”。 
-Sweeney 表示，他的至少 38 个帐户已在 X 和 Threads 等平台上被暂停，并指出“今天感觉就像 2022 年 12 月 15 日”——原始 @ElonJet Twitter 帐户被永久暂停的日期。 ]]></description>
-      <guid>https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended</guid>
-      <pubDate>Tue, 22 Oct 2024 09:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disney Plus 和 Hulu 将不再允许您通过 Apple 注册</title>
-      <link>https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore</link>
-      <description><![CDATA[
-
-插图由 Nick Barclay / The Verge 提供
-
-如果您想在 iPhone 上订阅 Disney Plus 或 Hulu，那么您将无法再这样做。据 MacRumors 报道，Disney Plus 和 Hulu 的支持文档现在称，这些流媒体服务的新用户和回访用户无法通过 Apple 注册。
-我目前没有为 Disney Plus 付费，因此出于好奇，我尝试通过 iOS 应用登录我的帐户，看看会发生什么。输入我的电子邮件和密码后，我看到一条消息：“很遗憾，此应用不支持应用内注册。请在网站上完成帐户设置。在disneyplus.com/next.”上创建和管理您的帐户。如果您尝试在没有有效订阅的情况下登录，Hulu 的 iOS 应用程序也会将您推送到 Hulu 网站。
-
-
-截图来自 Jay Peters / The Verge
-
-据推测，该公司做出这一改变是为了阻止苹果从 Disney Plus 和 Hulu 的新订阅收入中抽成。但是，如果您已经通过 Apple 订阅了这些服务，迪士尼表示您仍将通过 Apple 付款。
-迪士尼没有立即回复置评请求。 
-迪士尼只是最新一家停止通过其 iOS 应用订阅新内容的公司。Netflix 于 2018 年停止让用户通过其 iOS 应用订阅，并于今年早些时候停止向 Apple 收取旧订阅费。Spotify 也不允许用户通过 iOS 应用订阅 - 在应用中，它包含一条俏皮的信息“我们知道，这并不理想。”]]></description>
-      <guid>https://www.theverge.com/2024/10/21/24276226/disney-plus-hulu-sign-up-apple-app-store-anymore</guid>
-      <pubDate>Mon, 21 Oct 2024 22:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的健身追踪器</title>
-      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
-      <pubDate>Mon, 21 Oct 2024 21:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌将从搜索结果中删除额外的搜索框</title>
-      <link>https://www.theverge.com/2024/10/21/24276184/google-sitelinks-search-box-discontinued</link>
-      <description><![CDATA[
-
-图片：Google
-
-多年来，Google 一直在某些搜索结果中添加一个额外的搜索框，鼓励您进一步挖掘并仅在特定网站内查看。但现在，该站点链接搜索框即将消失，因为“使用率下降了”。
-Google：
-自我们首次宣布 Google 搜索中的站点链接搜索框 以来，已经过去了十多年，随着时间的推移，我们注意到使用率有所下降。为此，为了简化搜索结果，我们将从 2024 年 11 月 21 日开始删除此视觉元素。
-如果您不知道我在说什么，如果您看到它，可能会更有意义：
-
-
-屏幕截图：The Verge
-
-查看链接下方的小搜索框《纽约时报》？这就是谷歌要取消的。你可以使用这个功能作为在《纽约时报》（或任何其他拥有此功能的网站）内搜索内容的快捷方式。11 月截止日期之后，谷歌将不再在所有语言和国家/地区显示该框。
-
-如果我没有看到谷歌的这一声明，我可能甚至不会注意到它的消失，因为我几乎从未使用过这个东西。总体而言，这只是谷歌搜索引擎众多变化中的一个较小的调整，它倾向于人工智能，并且改组了负责搜索的团队。]]></description>
-      <guid>https://www.theverge.com/2024/10/21/24276184/google-sitelinks-search-box-discontinued</guid>
-      <pubDate>Mon, 21 Oct 2024 21:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克因在机器人出租车活动中使用人工智能生成的《银翼杀手》图像而被起诉</title>
-      <link>https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright</link>
-      <description><![CDATA[
-
-《银翼杀手 2049》剧照。|华纳兄弟。
-
-尽管目前仍不清楚在特斯拉的“我们，机器人”演示中演示的任何自动驾驶汽车是否真的会进入市场，但银翼杀手 2049 认为伊隆·马斯克 (Elon Musk) 窃取了他们举办此次活动的版权，并将他告上法庭。
-今天，Alcon Entertainment（一家位于洛杉矶的《银翼杀手 2049》背后的制作公司）对特斯拉、伊隆·马斯克和华纳兄弟发现频道提起诉讼，指控他们使用人工智能图像生成器为《我们，机器人》活动制作宣传艺术，旨在模仿 2017 年科幻电影中的剧照。据 Alcon 称，该公司还拥有《银翼杀手 2049》的版权，WBD 和特斯拉在 10 月 10 日下午发出了使用电影图像的请求，就在《我们，机器人》演示在加州华纳兄弟片场举行的几个小时前。
-
-虽然 WBD 拥有《银翼杀手 2049》的一些许可权，但由于该活动将进行国际直播，因此图像的许可必须直接来自 Alcon。当 Alcon 的法律和许可部门意识到这一情况时，他们向相关方发出了坚决的拒绝，“以确保活动进行中不会出现任何错误。”
-“任何考虑与特斯拉合作的谨慎品牌都必须考虑到马斯克被大肆夸大、高度政治化、反复无常和武断的行为，这些行为有时会演变成仇恨言论，”Alcon 在诉讼中解释道。“出于所有这些原因，Alcon 不希望 BR2049 与马斯克、特斯拉或任何马斯克的公司有关联。”
-然而，尽管 Alcon 拒绝了，但据称特斯拉决定将《银翼杀手 2049》的镜头输入 AI 图像生成器，以创建“略带风格化的假屏幕静态屏幕”，并在 We, Robot 演示期间突出显示。在活动期间，马斯克在描述未来的科幻描述时提到了《银翼杀手》系列的名字，直播画面切到一张图片，描绘了一个身穿防尘夹克的男人站在一片废墟、末日般的城市景观前。
-
-
-特斯拉
-特斯拉 We, Robot 活动图片。
-
-除了更大的版权侵权之外，Alcon 还表示，它从未获悉特斯拉与 WBD 在 We, Robot 活动之前达成的任何协议。除了允许特斯拉使用华纳兄弟的场地和设备外，Alcon 认为该协议还包含一个促销元素，“允许甚至可能要求特斯拉明确将 Cyber​​cab 与华纳兄弟目录中的一部或多部电影关联起来”。
-Alcon 的诉讼没有具体说明该公司要求赔偿的金额，但它明确表示，它认为马斯克、特斯拉和华纳兄弟都“了解该图像未经授权的性质及其背后的不正当目的，并鼓励或以其他方式支持这种不正当行为。”
-]]></description>
-      <guid>https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright</guid>
-      <pubDate>Mon, 21 Oct 2024 21:23:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以买到的最好的即时相机</title>
-      <link>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</guid>
-      <pubDate>Mon, 21 Oct 2024 21:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>iRobot 的经济型 Roombas 增加了自动清空选项</title>
-      <link>https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/21/24275897/irobot-robovac-robot-vacuum-essential-self-empty-dock</guid>
-      <pubDate>Mon, 21 Oct 2024 20:40:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊表示已放弃使用塑料气垫</title>
-      <link>https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging</link>
+      <title>Juul 集体诉讼正在向人们支付巨额赔偿</title>
+      <link>https://www.theverge.com/2024/10/22/24276629/juul-vaping-philip-morris-class-action-settlement-payment</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-亚马逊表示，它已经在其仓库中淘汰了塑料气垫。
-“截至 2024 年 10 月，我们已经从全球配送中心使用的配送包装中去除了所有塑料气垫，”这家电子商务巨头在10 月 9 日的博客文章中表示。 
-多年来，环保组织一直向人们施压，要求阻止塑料污染流入海洋，这是一个可喜的变化。该公司仍在努力更广泛地减少包装中一次性塑料的使用。
-“对世界海洋来说是个好消息”
-“世界上最大的电子商务公司让塑料气垫成为全球历史，这对世界海洋来说是个好消息，”非营利组织 Oceana 战略计划高级副总裁 Matt Littlejohn 在回应亚马逊公告的声明中表示。
-海岸线附近最常见的塑料垃圾是塑料薄膜——这种材料构成了曾经无处不在的气垫，根据 Oceana 的说法。Oceana 表示，这种薄膜也是对大型哺乳动物（如可能吞食它的鲸鱼和海豚）来说“最致命”的塑料污染类型。
-亚马逊的声明是在它6 月承诺在北美消除塑料气垫之后发布的到今年年底。该公司于 2022 年在欧洲用纸和纸板替代品取代了塑料气垫和一次性送货袋。它还在 2020 年在印度的工厂放弃了塑料薄膜包装。 
-美国是亚马逊最大的市场，该公司尚未成功在北美完全消除塑料包装。该公司表示，计划到 12 月将北美地区含有“亚马逊添加的塑料快递包装”的快递量减少到仅占三分之一，而 2023 年 12 月这一比例为三分之二。
+Juul 的 3 亿美元集体诉讼和解金终于开始发放了——有些人拿到的钱比他们预期的要多得多。 
+如果你滚动浏览r/juul subreddit，你会看到帖子显示数千或数百美元打入人们的 Venmo 账户。其中一张截图显示，有人称自己收到了超过 9,000 美元，而其他人则报告说收到了 6,200 美元和收到了 4,600 美元。 
+从这些帖子的评论来看，提交 Juul 烟弹或笔收据的人似乎获得了更大的赔付，而且有些用户每周在电子烟上花费数百美元，金额加起来还不少。
+
+
+刚从 Juul 和解协议中获得 4,600 美元 pic.twitter.com/XjZETZKWKr— Rogue Peanut (@RoguePeanut56) 2024 年 10 月 21 日
+
+
+这笔赔款源自一项集体诉讼，该诉讼指控 Juul 客户对其电子烟产品的安全性和成瘾性存在误解。它还声称，如果 Juul 客户意识到风险，他们就不会为 Juul 产品支付那么多钱。根据一份法律文件，法院批准支付约 842,000 项有效索赔，总额为 2.019 亿美元。
+Juul 去年，该公司同意支付 2.55 亿美元的和解金，而烟草巨头奥驰亚 — 投资 Juul — 也同意支付 4500 万美元。在 2022 年 12 月 7 日之前购买 Juul 产品的人可以提交索赔。]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276629/juul-vaping-philip-morris-class-action-settlement-payment</guid>
+      <pubDate>Tue, 22 Oct 2024 15:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经不再试图预测任天堂会做什么——尤其是当谈到 Switch 2 时</title>
+      <link>https://www.theverge.com/2024/10/22/24276650/nintendo-switch-2-predictions-playtest-alarmo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276650/nintendo-switch-2-predictions-playtest-alarmo</guid>
+      <pubDate>Tue, 22 Oct 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管自动驾驶出租车业务暂停，Cruise 本季度仍亏损 4.35 亿美元</title>
+      <link>https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi</link>
+      <description><![CDATA[
+
+照片由 Tayfun Coskun/Anadolu via Getty Images 拍摄
+
+即使大部分自动驾驶汽车都停摆，Cruise 仍在亏损。通用汽车今早报告称，通用汽车全资子公司的机器人出租车公司在 2024 年第三季度亏损 4.35 亿美元。这比 2023 年第三季度损失的 7.91 亿美元有所改善。 
+现在是了解 Cruise 情况的好时机，因为该公司自 2023 年 10 月 27 日以来一直处于停摆状态，几周前，该公司的一辆无人驾驶汽车在旧金山撞到一名行人并将其拖行超过 20 英尺，导致其受重伤。 
+从那时起，Cruise 朝着重启其自动驾驶出租车服务迈出了一小步，在亚利桑那州和德克萨斯州的道路上进行了测试车辆。该公司最近宣布计划在今年晚些时候在湾区部署手动驾驶汽车，但仍未透露何时恢复付费商业服务。 
+Cruise 在自动驾驶汽车领域独树一帜，因为我们比几乎所有竞争对手都更了解该公司的财务状况。由于通用汽车在其收益报告中单独列出了 Cruise，因此我们了解了它的净销售额和收入（第三季度为 2600 万美元）、总成本和支出（4.42 亿美元）以及营业收入（亏损 4.17 亿美元）。 
+Cruise 在自动驾驶汽车领域独树一帜
+投资者无疑很高兴通用汽车成功通过 Cruise 遏制了部分损失。这家自动驾驶出租车子公司在 2023 年亏损高达 34.8 亿美元，一些人认为这是该汽车制造商的负担，它吸走了大量现金，而且缺乏明确的盈利途径。
+但通用汽车首席执行官玛丽·巴拉 (Mary Barra) 长期以来一直看好自动驾驶汽车——或许比应有的还要看好。其他汽车制造商已撤出对全自动驾驶汽车的投资，厌倦了继续向一个没有明显回报迹象的项目投入资金。但巴拉加倍了赌注。 2022 年，她在年度消费电子展上登台，大胆宣布通用汽车将在本世纪中叶向普通人出售完全自动驾驶汽车。
+我认为可以肯定地说，通用汽车不会在那个期限前完成。但是，尽管投资者鼓励通用汽车通过 Cruise 止损，但她坚持该项目。去年，巴拉指导了 Cruise 的重组，解雇了创始人，取而代之的是汽车和科技行业资深人士。
+还有其他削减成本的措施。Cruise 裁员 25%，并取消了 Origin 项目，该项目是一款没有方向盘或踏板的无人驾驶班车，在此过程中损失了 5.34 亿美元。该公司还同意向州和联邦监管机构支付数百万美元的罚款，以解决对其拖行行人事件的调查。
+“我们将继续严格控制对 Cruise 的投资，”巴拉在本月初的一次投资者活动中表示。她还表示，到 2025 年，自动驾驶汽车部门的亏损将不会超过 20 亿美元。 
+在周二的财报电话会议上，巴拉表示，通用汽车将在未来几天分享有关 Cruise “融资模式”的消息——这意味着将引入合作伙伴来帮助分担运营无人驾驶汽车车队的成本。 
+无人驾驶汽车价格昂贵。目前还没有人赚钱，即使是 Waymo，尽管有 Alphabet 的强大力量和资源支持。通用汽车也遇到了一些阻力，但它和其他公司一样，有相当大的机会证明这项技术在未来是否安全并且有利可图。 ]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi</guid>
+      <pubDate>Tue, 22 Oct 2024 14:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软更新的 Xbox 无线耳机拥有更好的麦克风和更长的电池寿命</title>
+      <link>https://www.theverge.com/2024/10/22/24276564/microsoft-xbox-wireless-headset-update-release-date-price-features</link>
+      <description><![CDATA[
+
+图片：微软
+
+微软今天对其 Xbox 无线耳机进行了更新，增加了升级的麦克风并延长了电池寿命。 更新后的耳机还将免费支持杜比全景声 (Dolby Atmos) 和蓝牙 5.3。
+此更新型号具有与原版类似的旋转耳罩拨盘，可让您调整音量和游戏/音频聊天平衡。微软对外观设计进行了细微调整，取消了绿色装饰，采用全黑外观。
+
+
+图片：微软
+全新全黑设计。
+
+升级后的麦克风具有自动静音和语音隔离功能，可最大限度地减少背景噪音。您还可以通过蓝牙 5.3 支持将此耳机直接与 Xbox 游戏机或移动设备和 PC 配对。 
+虽然原始 Xbox 无线耳机的电池续航时间长达 15 小时，但这款更新后的型号将运行 20 小时。这是自 Xbox 360 以来的第二款官方无线 Xbox 耳机，此前微软于 2021 年 3 月推出了第一款 Xbox 无线耳机。 
+不过，微软正在提高这个更新版本的价格。原版售价为 99 美元，但这款新型号将于即日起起售价 109.99 美元。]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276564/microsoft-xbox-wireless-headset-update-release-date-price-features</guid>
+      <pubDate>Tue, 22 Oct 2024 14:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 推出了一款全新的文本转图像生成器</title>
+      <link>https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo</link>
+      <description><![CDATA[
+
+以下是 Canva 正在提高价格的一些 AI 工具。 |图片：Canva
+
+Canva 为其基于 Web 的设计平台添加了一系列新的 AI 功能，包括用于生成文本和视频效果的更新以及更强大的文本转图像应用程序。后者名为“梦想实验室”，是一款由开发的全新图片生成器工具——“梦想实验室”。 href=&quot;https://www.theverge.com/2024/7/30/24209421/canva-leonardo-generative-ai-platform-acquisition-design-software&quot;&gt;Canva 于今年早些时候收购了生成式 AI 初创公司 Leonardo.ai。
+Dream Lab 由 Leonardo 的 Phoenix 模型提供支持（不要与 Adobe 的 Firefly AI 混淆），并允许用户根据“3D 渲染”和“插图”等各种风格的描述生成图像。 
+Canva 已经拥有自己的基于 Diffusion 的稳定 AI 图像生成器，并托管了其他几个第三方应用程序，但新的 Dream Lab 产品为该平台带来了一些改进。例如，它似乎更擅长制作摄影风格和多主题图像，并且包含一个可以引用现有图像以更好地控制输出的功能——类似于Photoshop 的参考图像工具。
+
+Canva 还对其更广泛的“Magic” AI 工具套件进行了一些更新，例如提高了准确性和Magic Write 文本生成功能的一键自动完成命令。白板现在支持用于协作项目的 AI 驱动摘要和实时反应贴纸，并且添加了可自动生成字幕和引入新动画效果的视频编辑工具。
+用户现在可以添加交互式图表和图形添加到他们的演示文稿中，以帮助更好地可视化数据。 Canva 资产库还通过与 Artlist 音乐平台 达成的许可协议，增加了新的免版税音乐和电影视频。
+Canva 上个月宣布，计划提高部分商业客户的订阅价格，以反映生成式 AI 工具为平台带来的“扩展产品体验”和价值。Leonardo.AI 的收购可能包含在其投资计划中，但用户可能会感到失望，因为他们为渐进式改进而不是全新的生成式 AI 功能支付了更高的成本。]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo</guid>
+      <pubDate>Tue, 22 Oct 2024 14:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>AirPods 有益于您的（听力）健康</title>
+      <link>https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast</link>
+      <description><![CDATA[
+
+图片：Alex Parkin / The Verge
+
+多年来，我们一直听说非处方助听器即将面世。它们看起来像耳机，在社交上完全不显眼；它们能够帮助你根据具体情况调整周围的声音。这个想法不错，但我们还没有看到太多产品支持它。随着下周 Apple 的 AirPods Pro 2 耳机将推出新的软件更新，这一切可能开始成为现实。
+
+在本期The Vergecast中，The Verge的Chris Welch将带我们了解他对 Apple 新听力健康功能的体验功能，包括您可以直接在手机上进行的令人惊讶的强烈而感性的听力测试。我们讨论了耳机不断变化的社会规范，这意味着 Apple 现在无论如何都会处理您听到的几乎所有声音，以及这些功能是否很快会出现在其他品牌和耳机上。
+
+但在此之前，我们还有另一个健康和保健话题要讨论：智能戒指。 The Verge 的 Victoria Song 花了数月时间佩戴和 测试了两把智能戒指，以确定哪一款是最好的。她分享了她的发现、她最近关于这个主题的故事所得到的反响，以及 新款 Oura 戒指，这可能是新的最佳选择。 
+在谈论完所有可穿戴设备之后，我们回答了 Vergecast 热线（拨打 866-VERGE11 或发送电子邮件至 vergecast@theverge.com！）的一个问题，这个问题我们之前都考虑过：为什么没有人直接购买任天堂？The Verge 的 Andrew Webster 解释了为什么任天堂如此难以捉摸，为什么任何公司都会很高兴收购它，以及为什么这可能永远不会发生。然后，只是为了好玩，我们想象一个苹果收购这家公司的世界。这会是所有参与者的胜利吗？或者任何参与者的胜利？
+
+
+
+如果您想了解有关我们在本集中讨论的所有内容的更多信息，以下是一些入门链接，从智能戒指开始：
+
+我们测试了六款智能戒指，有一个明显的赢家
+Oura Ring 4 评测：目前仍处于领先地位
+
+关于 AirPods 的听力健康功能：
+
+Apple 的 AirPods Pro 听力健康功能与音质一样出色
+Apple 的AirPods Pro 2 可能会永远改变人们使用助听器的方式
+
+关于 Apple / Nintendo：
+
+Super Mario Run 上手体验：像 Mario 一样，只是更简单
+微软的 Phil Spencer 表示收购 Nintendo 将是“职业生涯中的一个时刻”
 ]]></description>
-      <guid>https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging</guid>
-      <pubDate>Mon, 21 Oct 2024 20:01:28 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/22/24276646/apple-airpods-hearing-aid-smart-ring-vergecast</guid>
+      <pubDate>Tue, 22 Oct 2024 13:37:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>民主党希望司法部起诉涉嫌与 Meta 和谷歌共享用户数据的税务准备公司</title>
+      <link>https://www.theverge.com/2024/10/22/24275913/warren-tax-prep-companies-doj-prosecute-data-meta-google-tracking-pixel</link>
+      <description><![CDATA[
+
+
+一群民主党议员敦促司法部起诉税务筹划公司，这些公司被指控通过广告像素不当与 Meta 和 Google 分享用户信息。 
+参议员伊丽莎白·沃伦 (D-MA)、罗恩·怀登 (D-OR)、理查德·布卢门撒尔 (D-CT) 和众议员凯蒂·波特 (D-CA) 呼吁司法部对未能保护纳税人隐私的报税公司采取行动。在与The Verge独家分享的一封新信中，立法者们重申了他们之前要求执法人员调查这些公司的呼吁。
+所有这些都是一系列事件中的最新事件，这些事件是在The Markup 于 2022 年发布了一份报告，揭示了报税公司如何通过一种称为像素的通用代码与 Meta 和 Google 共享财务信息之后引发的。 （至少有一家公司当时告诉 The Markup，它没有意识到信息正在被共享，并停用了该像素。）立法者对此作出了国会调查，随后税务管理监察长 (TIGTA) 进行了审计。审计结果于上个月由 TIGTA 公布，参议员们表示，审计证实了他们自己的调查结果，该调查结果于 2023 年 7 月公布。 
+立法者自己的调查涵盖了 TaxSlayer、H&amp;R Block 和 Tax Act。The Markup 还在软件提供商 Ramsey Solutions 上发现了代码。 TIGTA 报告没有点名具体的报税服务提供商，但表示其对“四家税务软件公司”的审查发现，它们没有遵守旨在保护纳税人隐私的财政部法规。尽管这些公司征求了纳税人同意披露纳税申报表信息（想想：一个带有通用语言的复选框，允许公司共享您的数据），但他们并没有明确说明征求同意的具体原因。他们也没有说明谁会具体收到这些数据。  IG 还 指出，联邦关于获得纳税人同意的指导方针并没有具体解决像素的使用问题，并建议美国国税局更新其程序以将其纳入其中。
+立法者表示，现在由司法部来执行相关刑法。 “明知或鲁莽地披露或使用纳税申报表信息的处罚包括最高 1 年监禁，以及每次违法最高 1000 美元的罚款，”参议员在致司法部的信中写道。 
+“对这些报税公司追究责任——他们披露了数百万纳税人的纳税申报表数据，这意味着他们可能面临数十亿美元的刑事责任——对于保护法治和纳税人的隐私至关重要，”信中写道。 “我们敦促您遵循 TIGTA 和 IRS 的事实和结论，并对任何违反法律的公司或个人采取适当行动。”
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24275913/warren-tax-prep-companies-doj-prosecute-data-meta-google-tracking-pixel</guid>
+      <pubDate>Tue, 22 Oct 2024 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技评论家希望谷歌高管因删除聊天记录而受到惩罚</title>
+      <link>https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust</guid>
+      <pubDate>Tue, 22 Oct 2024 13:12:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的新播放列表艺术制作器让设计成为你的激情所在</title>
+      <link>https://www.theverge.com/2024/10/22/24275651/spotify-create-cover-art-playlist-image-maker</link>
+      <description><![CDATA[
+
+Spotify 的新封面制作器很有趣，而且令人惊讶的是它不是 AI。 |图片：Spotify
+
+Spotify 现在 为播放列表添加了新的“创建封面”选项，可让您制作自定义拼贴画来代表您的播放列表。该测试版功能可供免费会员和 Spotify Premium 会员使用，正在 65 个市场向英语用户推出。该公司表示，它与Ugly Primo等艺术家合作，他设计了Bad Bunny的Un Verano Sin Ti专辑封面，以及Cey Adams，他曾为The Notorious B.I.G和Beastie Boys制作专辑和徽标。
+我尝试了一下，并制作了下面的杰作，使用了我拍摄的一张晚上潜伏在我孩子卧室外面的负鼠的照片。它是一款功能强大的图像制作工具，具有分层、各种效果以及旋转或更改图像大小的功能。它仍处于测试阶段，目前，您无法编辑已保存的图像，甚至无法保存草稿。
+
+
+屏幕截图：Spotify
+Possum buddy 充满秋天的气息。
+
+YouTube Music 去年推出了一项类似功能，该功能使用 AI 和预选主题，提示元素。Spotify 很容易走上同样的路线，但选择做一些比点击简短菜单更具互动性和吸引力的事情。它还表示，它聘请了真正的艺术家来制作 40 个贴纸，用户可以将其添加到他们的照片中。
+要试用它，请打开您制作的播放列表，点击三个点按钮，然后点击“创建封面艺术”。 （您可能需要关闭应用程序并重新打开它才能看到它。）
+
+
+GIF：Spotify
+您可以在这里找到新选项。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/10/22/24275651/spotify-create-cover-art-playlist-image-maker</guid>
+      <pubDate>Tue, 22 Oct 2024 13:03:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
