@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 21 Oct 2024 12:33:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:32:47 GMT</lastBuildDate>
+    <item>
+      <title>集体#874</title>
+      <link>https://tympanus.net/codrops/collective/collective-874/</link>
+      <description><![CDATA[HTML 入门 * React 渲染交互式指南 * Canary]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-874/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Piecesjs 入门：使用轻量级框架构建原生 Web 组件</title>
       <link>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[CSS Masonry &amp; CSS Grid * 对 CSS @property 的性能进行基准测试]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-871/</guid>
       <pubDate>Fri, 11 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚焦：Eva Sánchez</title>
-      <link>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</link>
-      <description><![CDATA[Eva Sánchez 分享了她通过有趣的互动和屡获殊荣的设计将品牌转变为动态数字体验的热情。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/</guid>
-      <pubDate>Fri, 11 Oct 2024 09:52:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
