@@ -4,7 +4,28 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 22 Oct 2024 21:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 03:22:53 GMT</lastBuildDate>
+    <item>
+      <title>关于鱿鱼皮的提示。美国研究团队开发出可通过改变红外反射率调节温度的材料</title>
+      <link>https://wired.jp/article/squid-inspired-fabric-for-temperature-controlled-clothing/</link>
+      <description><![CDATA[鱿鱼的皮肤可以自由改变颜色以适应周围环境，受其启发，美国研究人员开发了一种新材料，可以通过控制红外线的反射和透射率来调节温度。它还具有高透气性和耐洗性，有可能极大改变服装的未来。]]></description>
+      <guid>https://wired.jp/article/squid-inspired-fabric-for-temperature-controlled-clothing/</guid>
+      <pubDate>Wed, 23 Oct 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5本关于城市和人类悠久历史的书：连线图书指南</title>
+      <link>https://wired.jp/article/yoshiaki-misago-books-2024-autumn/</link>
+      <description><![CDATA[最新一期《连线》杂志的“再生城市”专题探讨了未来城市的再生内容。在出版的同时，“阅览室”的负责人美砂义明还挑选了补充读者。]]></description>
+      <guid>https://wired.jp/article/yoshiaki-misago-books-2024-autumn/</guid>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现提示会让人工智能聊天机器人从对话中窃取个人信息：研究结果</title>
+      <link>https://wired.jp/article/ai-imprompter-malware-llm/</link>
+      <description><![CDATA[人们发现了一种新的攻击方法，它使用人工智能系统的提示从与聊天机器人的对话中提取个人信息。未来，随着 LLM 代理变得更加广泛并获得代表他们执行任务的权限，此类攻击的风险预计会增加。]]></description>
+      <guid>https://wired.jp/article/ai-imprompter-malware-llm/</guid>
+      <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google Chrome 地址栏中可使用的搜索以外的有用功能</title>
       <link>https://wired.jp/article/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[第二次亚马逊Prime会员专享特卖“Prime感恩节”将于10月19日至10月20日在日本举行，为期48小时。让我们来看看销售策略并介绍您应该购买的推荐产品。]]></description>
       <guid>https://wired.jp/article/amazon-prime-big-deal-days-2024-best-deals/</guid>
       <pubDate>Sat, 19 Oct 2024 05:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克向特朗普竞选团队捐赠了约 112 亿日元。从图中可以看出情况的规模之大。</title>
-      <link>https://wired.jp/article/elon-musk-trump-donations/</link>
-      <description><![CDATA[在 11 月 5 日美国总统大选之前，硅谷亿万富翁正在向特朗普竞选团队捐款。其中，埃隆·马斯克的捐款金额最为突出，其规模让科技行业的其他支持者相形见绌。]]></description>
-      <guid>https://wired.jp/article/elon-musk-trump-donations/</guid>
-      <pubDate>Sat, 19 Oct 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着肥胖治疗药物“替泽帕肽”供应短缺的解决，新的问题又出现了。</title>
-      <link>https://wired.jp/article/glp-1-shortage-mounjaro-zepbound-tirzepatide-compounded/</link>
-      <description><![CDATA[10月初，宣布解决FDA批准的GLP-1受体激动剂Manjaro和Zepbound的供应短缺问题。然而，由于这使得很难获得许多患者一直在使用的廉价配方奶粉，因此人们的担忧比预期更多。]]></description>
-      <guid>https://wired.jp/article/glp-1-shortage-mounjaro-zepbound-tirzepatide-compounded/</guid>
-      <pubDate>Fri, 18 Oct 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从主编到SZ会员：“创意黑客世界”SZ通讯VOL.258</title>
-      <link>https://wired.jp/article/sz-newsletter-258/</link>
-      <description><![CDATA[什么、为什么以及如何破解它？ ── 今年第12届“CREATIVE HACK AWARD 2024”的报名截止日期即将到来。如何才能创造出一种能够永远改变我们看待世界的方式的黑客技术呢？ 主编致 SZ 会员的通讯。]]></description>
-      <guid>https://wired.jp/article/sz-newsletter-258/</guid>
-      <pubDate>Fri, 18 Oct 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
