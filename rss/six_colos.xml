@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 22 Oct 2024 21:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 15:18:54 GMT</lastBuildDate>
+    <item>
+      <title>新款 iPad mini 很无趣，但下一代 iPad 可能会让人惊叹（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2497837</link>
+      <description><![CDATA[2024 款 iPad mini 刚刚进行了三年来的首次更新，然而，对于该产品的一些忠实粉丝来说，这有点令人失望。…]]></description>
+      <guid>https://www.macworld.com/article/2497837</guid>
+      <pubDate>Wed, 23 Oct 2024 15:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>iPad mini 2024 评测：熟悉的朋友迎来 AI 更新</title>
       <link>https://sixcolors.com/post/2024/10/ipad-mini-2024-review-a-familiar-friend-gets-an-a-i-refresh/</link>
@@ -34,7 +41,7 @@ Magic Lasso Adblock：Safari 中网页浏览速度提高 2.0 倍
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/10/1password-6/</link>
       <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。SEC 现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/10/1password-6/</guid>
       <pubDate>Fri, 18 Oct 2024 16:00:06 GMT</pubDate>
     </item>
@@ -118,15 +125,6 @@ KeithFromSonos 是 Sonos 的一名员工，他在 r/Sonos 子版块非常活跃�
 对于那些希望三年后会有一些实质性升级的 iPad mini 粉丝来说，这个消息无疑是令人失望的。…]]></description>
       <guid>https://sixcolors.com/post/2024/10/the-new-ipad-minis-surprising-not-new-processor/</guid>
       <pubDate>Tue, 15 Oct 2024 17:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Passkey 行业组织发布进出口标准草案 ↦</title>
-      <link>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</link>
-      <description><![CDATA[负责监管密钥规范的 FIDO 联盟已发布用于导入和导出这些加密密钥的标准草案：
-
-FIDO 联盟的草案规范 - 凭证交换协议 (CXP) 和凭证交换格式 (CXF) - 定义了一种标准格式，用于将凭证管理器中的凭证（包括密码、密钥等）传输到另一个提供方，以确保传输不会以明文形式进行，并且默认情况下是安全的。…]]></description>
-      <guid>https://sixcolors.com/link/2024/10/passkey-industry-group-releases-draft-standard-for-import-and-export/</guid>
-      <pubDate>Tue, 15 Oct 2024 14:18:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
