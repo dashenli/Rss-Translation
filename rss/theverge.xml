@@ -4,7 +4,127 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:21:14 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊 Prime 会员现在可以节省汽油费</title>
+      <link>https://www.theverge.com/2024/10/23/24277750/amazon-prime-bp-earnify-savings-fuel-rewards</link>
+      <description><![CDATA[
+
+亚马逊正在为 Prime 优惠增添吸引力。 |插图由 Alex Castro / The Verge 提供
+
+Amazon Prime 会员获得新福利：加油时可享受额外优惠。通过将您的 Amazon 帐户与 BP 的忠诚度计划关联，您在参与计划的 BP 加油站加油时每加仑可节省 10 美分。顺便说一句，这种折扣与沃尔玛通过其 Prime 竞争对手计划 Walmart Plus 在埃克森美孚加油站提供的折扣非常相似。
+当然，您需要同意让 BP 收集您的信息以获取您的折扣。但加入一个忠诚度计划又有什么坏处呢？如果英国石油公司放弃碳排放目标以在地球燃烧的同时实现利润最大化，那又怎么样呢？ 因为资本主义下没有道德消费，也因为最近所有东西都太贵了，所以我继续注册了折扣。你通过提供你的电话号码将你的亚马逊 Prime 账户与英国石油公司令人尴尬的 Earnify 奖励计划关联起来。同意一些条款和条件，您就万事俱备了。 
+您似乎不一定需要下载 BP 的 Earnify 应用程序才能享受折扣，但我下载了，这样做我再次获得了足够的积分，可以在 ampm 获得免费的 BBQ 排骨三明治。活着真好。
+亚马逊表示，到 2025 年，折扣计划将扩大到包括电动汽车充电节省。目前，随着订阅和流媒体服务价格不断攀升，此举似乎有助于提升 Prime 的吸引力。今年夏天，该公司还通过 Grubhub 推出了免费食品配送。这一策略似乎奏效了——CIRP 的分析师估计，大约四分之三的亚马逊购物者是 Prime 会员，高于 2016 年的 50%。]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277750/amazon-prime-bp-earnify-savings-fuel-rewards</guid>
+      <pubDate>Wed, 23 Oct 2024 18:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>一项调查揭露了数据经纪人利用广告来帮助追踪几乎所有手机</title>
+      <link>https://www.theverge.com/2024/10/23/24277679/atlas-privacy-babel-street-data-brokers-locate-x-tracking</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+据来自404 Media的报道和Krebs on Security。据报道，这项名为 Locate X 的人员跟踪服务允许用户使用其移动广告标识符（分配给手机的唯一编号）跟踪设备。总部位于新泽西州的 Atlas Data Privacy Corp 旨在帮助人们从数据经纪人那里删除个人信息，据 404 Media 报道，该公司发现该软件能够在地图上显示手机的下落，允许任何有权限的人跨越州界跟踪某人的精确位置。然后可以使用这些信息找出特定手机所有者的身份。404 Media 和其他媒体观看的该软件的屏幕记录显示，数百部手机聚集在一家堕胎诊所上空（地图上用红点表示）。然后，软件会跟踪特定设备从一个地方移动到另一个地方：从阿拉巴马州的一所房子，到 Lowe’s 超市、教堂，再到佛罗里达州的一家堕胎诊所。
+在阿拉巴马州，堕胎是非法的，而佛罗里达州已在六周后实施了禁令。在最高法院于 2022 年推翻罗伊诉韦德案后，人们对执法部门获取位置数据的担忧与日俱增，导致谷歌等公司自动从用户的位置历史记录中删除堕胎诊所就诊记录。
+该工具依靠谷歌和苹果分配给每部手机的移动广告 ID 来向用户投放定向广告。然后，广告商可以根据该 ID 访问的广告服务的位置，围绕该 ID 构建不断增长的信息档案。这也可以创建一个位置网络，让制作 Locate X 的 Babel Street 等数据经纪人可以使用该网络来创建跟踪工具。
+
+Locate X 的访问权限应该是有限的 — 之前曾被特勤局等政府机构和国土安全部等机构使用 —但 Atlas 还发现 Babel Street 的销售团队并不总是遵守公司规定的限制。
+Atlas 聘请了一名私人侦探联系 Babel Street。据 404 Media 报道，这名调查员假扮潜在客户，表示他们有兴趣购买新泽西州家庭住址信息。据报道，一名 Babel Street 销售人员提到了 Locate X，但表示只有政府官员或承包商才能使用它。据 404 Media 报道，当调查人员表示他们正在考虑从事政府工作时，销售人员说“这样就足够了”并且“他们实际上并没有检查”。
+Atlas 目前正在起诉 Babel Street，指控其涉嫌违反新泽西州数据隐私法。]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277679/atlas-privacy-babel-street-data-brokers-locate-x-tracking</guid>
+      <pubDate>Wed, 23 Oct 2024 17:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果首个 iOS 18.2 测试版增加了更多 AI 功能和 ChatGPT 集成</title>
+      <link>https://www.theverge.com/2024/10/23/24277811/apple-intelligence-ios-18-2-beta-chatgpt-visual-intelligence-image-generation</link>
+      <description><![CDATA[
+
+图片：Apple
+
+Apple 现在允许开发者尝试更多 Apple Intelligence 功能。据 9to5Mac 报道，该公司已发布 iOS 18.2 的第一个开发者测试版，并添加了诸如使用 Genmoji 生成表情符号和使用 Image Playground 生成图像等功能、更多 AI 驱动的写作功能、与 ChatGPT 集成、使用 iPhone 16 手机上的相机进行搜索的 Visual Intelligence 等。借助此测试版，Apple Intelligence 现在在更多地区也得到支持。
+iOS 18.2 将为用户带来第二批 Apple Intelligence 功能。首批功能包括稍微智能一些的 Siri 和通知摘要等功能，预计将于下周随着 iOS 18.1 的正式发布而推出。
+Apple 在 6 月份的 WWDC 2024 上首次推出了其计划中的 Apple Intelligence 功能，但当时它宣布升级将分阶段进行。最令人印象深刻的计划中的功能之一是让 Siri 了解 iPhone 屏幕上发生的事情并根据您的请求采取行动，但即使在 iOS 18.2 中，这项功能仍未实现。
+Apple 还发布了第一个 macOS Sequoia 15.2 开发者测试版，其中包含新的 Apple Intelligence 工具，9to5Mac 报道。Genmoji 显然不包含在该测试版中。]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277811/apple-intelligence-ios-18-2-beta-chatgpt-visual-intelligence-image-generation</guid>
+      <pubDate>Wed, 23 Oct 2024 17:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果和高盛因误导 Apple Card 持有人被罚款数百万美元</title>
+      <link>https://www.theverge.com/2024/10/23/24277710/apple-goldman-sachs-cfpb-fine-charge-disputes-system</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+消费者金融保护局 (CFPB) 宣布了罚款总额CFPB 向苹果和高盛索赔 8900 万美元，因为这两家公司“非法处理交易纠纷，并误导 iPhone 购买者使用 Apple Card 享受免息支付选项”。CFPB 表示，这些问题影响了“数十万 Apple Card 用户”。
+CFPB 称，苹果并没有向高盛发送“数万”起 Apple Card 交易纠纷。CFPB 表示，高盛也没有按照联邦法律及时完成对收到的纠纷的调查。
+持卡人还被误导，认为如果他们使用 Apple Card 购买 Apple 设备，他们将自动获得免息融资，但“许多持卡人不知不觉地被收取了利息，因为他们没有像预期的那样自动注册，”CFPB 表示。 CFPB 补充说，对于在线购物的用户，Apple 仅在 Safari 中显示了免息融资选项。
+CFPB 表示，Apple 将不得不支付 2500 万美元的民事罚款，这笔钱将进入 CFPB 的受害者救济基金。高盛将不得不支付“至少”1980 万美元的赔偿金和 4500 万美元的民事罚款，并且在向 CFPB 提供“产品如何遵守法律的可靠计划”之前，不能推出未来的信用卡产品。
+“Apple Card 是有史以来最受消费者欢迎的信用卡之一，”高盛的 Nick Carcaterra 在给 The Verge 的一份声明中表示。“我们努力解决推出后遇到的某些技术和运营挑战，并且已经与受影响的客户一起处理了这些问题。我们很高兴与CFPB达成了解决方案，并为与Apple一起开发出如此创新和屡获殊荣的产品而感到自豪。”
+
+Apple没有立即回复置评请求。据报道，该公司曾试图终止与高盛合作运营Apple Card，最近与摩根大通讨论接管事宜。]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277710/apple-goldman-sachs-cfpb-fine-charge-disputes-system</guid>
+      <pubDate>Wed, 23 Oct 2024 17:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合训练和日常生活的最佳 Garmin 手表</title>
+      <link>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</guid>
+      <pubDate>Wed, 23 Oct 2024 16:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星坚固耐用的 Galaxy Watch Ultra 价格已降至迄今为止最低水平</title>
+      <link>https://www.theverge.com/2024/10/23/24276728/samsung-galaxy-watch-ultra-apple-ipad-mini-6-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24276728/samsung-galaxy-watch-ultra-apple-ipad-mini-6-deal-sale</guid>
+      <pubDate>Wed, 23 Oct 2024 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lomography 的新款即时相机采用玻璃镜头，拍摄出更清晰的照片</title>
+      <link>https://www.theverge.com/2024/10/23/24277617/lomography-lomo-instant-wide-glass-camera-photography-fujifilm-instax-wide</link>
+      <description><![CDATA[
+
+Lomo’Instant Wide Glass 配备 90 毫米多层镀膜玻璃镜头，可拍摄更清晰的即时照片。 |图片：Lomography
+
+Lomography 宣布推出其 Lomo’Instant Wide 相机的升级版，将原来的 90 毫米塑料镜头换成了多层镀膜玻璃镜头。该公司表示，其新款 Lomo’Instant Wide Glass 是“世界上最清晰的即时相机”，但尽管它可能优于其他 Lomography 产品，但它面临着即时替代品的竞争，例如与 EF 卡口镜头兼容的 Nons SL660。无论哪种情况，它仍将受到即时胶片的限制。
+这些升级的光学元件价格要高得多。 Lomo’Instant Wide Glass 现已发售，售价 279 美元，而全塑料材质的 Lomo’Instant Wide Camera Black Edition 仍售价 169 美元。 富士自家的 Instax Wide 400 甚至更便宜，售价 149.95 美元，而这款新相机使用的富士 Instax Wide 胶片 20 次曝光售价 18.99 美元。
+
+
+图片：Lomography
+Lomo’Instant Wide Glass 包含一个镜头盖，可兼作无线快门遥控器。
+
+由于使用宽胶片，Lomo’Instant Wide Glass 是一款厚重的相机，宽 7.3 英寸，重约 2 磅，部分原因是悬挂在前面的玻璃。您需要提供自己的相机带，但 Lomography 提供了用于 Lomo’Instant Wide Glass 闪光灯的彩色滤镜、用于创建实验性多重曝光图像的 Splitzer 镜头附件，以及可兼作遥控快门触发器的电池供电镜头盖。
+
+
+图片：Lomography
+使用 Lomo’Instant Wide Glass 相机拍摄的样张。
+
+Lomo’Instant Wide Glass’ 镜头提供四个对焦区域，包括用于风景摄影的无限远位置和可以对焦距离仅为 0.98 英尺的拍摄对象的特写选项。金属对焦环确实允许在这些预设区域之间进行调整，但由于相机使用与镜头断开连接的基本光学取景器，您可能需要拿出卷尺进行精确的对焦调整。
+它远非完全手动拍摄，但除了自动模式（快门速度范围从 1/250 秒到 8 秒，光圈为 f/8 或 f/22）外，相机还具有用于捕捉运动模糊的灯泡模式，并且可以强制进入 f/22 光圈模式以最大化对焦。它还提供基本的 +/- 1EV 补偿，适用于您知道场景会特别明亮或黑暗的情况。
+Lomo&#39;Instant Wide Glass 由四节 AA 电池供电，使其具有低保真美感，但如果您担心将一次性电池送到垃圾填埋场，您可以随时选择可充电 AA 电池。]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277617/lomography-lomo-instant-wide-glass-camera-photography-fujifilm-instax-wide</guid>
+      <pubDate>Wed, 23 Oct 2024 16:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似智能手机的 Boox Palma 电子书阅读器价格创历史新低</title>
+      <link>https://www.theverge.com/2024/10/23/24277569/boox-palma-ebook-reader-deal-sale</link>
+      <description><![CDATA[
+
+Boox Palma 无论是黑色还是白色，看起来都很时尚。 |图片：Boox
+
+Kindle 和 Kobos 使用起来相对舒适，但如果它们太大且限制太多，那么类似智能手机的 Boox Palma 是一个很棒的替代品，我们越来越喜欢它。 新款机型即将上市，但如果您不需要它承诺的更流畅的性能，您可以今天在原版上省一点钱。在亚马逊上，这款手机的售价降至 245.99 美元（优惠 34 美元），创下了历史新低。
+
+Palma 的硬件和外观类似于智能手机，但它既没有通话功能，也没有传统显示屏。它使用 6.13 英寸背光 E Ink Carta 1200 显示屏，提供清晰的 300 ppi 分辨率。它配有麦克风和扬声器、microSD 卡插槽（用于扩展 128GB 的​​内部存储空间）、可兼作翻页按钮的音量按钮，甚至还有带闪光灯的 1600 万像素摄像头，可用于扫描文档和手写笔记。它可放入口袋，单手握持，比全尺寸阅读器更适合日常携带。
+
+与大多数电子书阅读器相比，Boox Palma 的一大优势是它运行 Android 11 和 Google Play，因此您可以通过下载任何其他您喜欢的东西来补充其内置工具和应用程序。这意味着您不会被锁定在任何特定的电子书生态系统中，也不必放弃您最喜欢的来源。想念您的亚马逊 Kindle 图书馆？只需下载 Kindle 应用程序 — 这比手动侧载所有内容要好得多。您还可以使用您喜欢的音乐流媒体服务和新闻应用程序。
+但是，任何 E Ink 设备都会出现用户体验迟缓的问题，除了阅读和一些随意的聆听和生产力任务（甚至是《纽约时报》的一些填字游戏，The Verge 的 David Pierce 发现）之外，它可能会限制您的使用。如果您只是滚动浏览每月阅读的页面，它还不错，但对于社交媒体深度探索和其他视觉丰富的恶作剧来说，它并不理想。 
+即将推出的 Boox Palma 2 配备了更快的八核芯片组和 Android 13 升级版（并增加了指纹传感器），但目前还没有人对其进行测试，以确定这些变化是否会转化为更好的可用性。实用意义。如果你想省点钱，今天就开始读书，落后一代也不会让你错过太多。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/23/24277569/boox-palma-ebook-reader-deal-sale</guid>
+      <pubDate>Wed, 23 Oct 2024 15:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>科学家警告称，试图逆转气候变化并不能拯救我们</title>
       <link>https://www.theverge.com/2024/10/23/24265618/reverse-climate-change-overshoot-carbon-removal-research-nature</link>
@@ -26,156 +146,6 @@
 ]]></description>
       <guid>https://www.theverge.com/2024/10/23/24277582/no-mans-sky-the-cursed-expedition-halloween-event</guid>
       <pubDate>Wed, 23 Oct 2024 14:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，苹果目前正在放缓 Vision Pro 的生产速度</title>
-      <link>https://www.theverge.com/2024/10/23/24277584/apple-vision-pro-manufacturing-cutback</link>
-      <description><![CDATA[
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-来自 The Information 的一份新报告援引参与制造 Apple Vision Pro 耳机零件的“多人”的话称，生产计划已经近几个月来，苹果的销量有所缩减。此前，蒂姆·库克 (Tim Cook) 接受《华尔街日报》杂志 (WSJ. Magazine) 本周末采访时表示，“显然我希望卖出更多”，但他承认，“3,500 美元的售价，并不是大众市场的产品。” 
-这与The Information今年夏天的一份报告一致，该报告称，苹果已将战略转向专注于制造更便宜的耳机，该耳机最早可能在明年出货。
-据报道，负责 Vision Pro 耳机最终组装的公司已被警告，其生产可能会在 11 月停止。
-
-但也存在一些警告，包括如果出于某种原因需求增加，产量可能会增加，未来的型号可能会使用一些相同的部件，但处理器会升级。 
-今年 4 月，分析师郭明池表示，苹果已将 2024 年 Vision Pro 的出货量预估下调至 40 万至 45 万台之间。 The Information援引了组装商 Luxshare 的一名员工的话，他表示自去年开始生产以来，该公司已经生产了 50 万到 60 万副耳机，这表明苹果目前可能有足够的零件和耳机库存。
-蒂姆·库克告诉华尔街日报：“现在，这是一款早期采用者产品。那些想今天就拥有明天技术的人——这就是它的目标人群，”但许多早期采用者可能正在等待更便宜的产品上架。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277584/apple-vision-pro-manufacturing-cutback</guid>
-      <pubDate>Wed, 23 Oct 2024 14:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eero 的新产品让 Wi-Fi 走出家门</title>
-      <link>https://www.theverge.com/2024/10/23/24277515/eero-outdoor-7-wifi-outdoor-access-point-price-release-date-specs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277515/eero-outdoor-7-wifi-outdoor-access-point-price-release-date-specs</guid>
-      <pubDate>Wed, 23 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>马兰士的首款扬声器看起来像艺术品</title>
-      <link>https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming</link>
-      <description><![CDATA[
-
-只需额外支付 700 美元，您就可以为 Marantz 的新款无线扬声器购买配套的木制三脚架。 | 图片：Marantz
-
-Marantz 是一家拥有 70 年历史的品牌，以放大器和接收器等高端音频设备而闻名，本周，该公司宣布推出首款扬声器。 Marantz Horizo​​n 和 Grand Horizo​​n 均将驱动器阵列与中央低音炮配对，并具有强大的无线连接功能，可直接访问流媒体服务。
-这两款扬声器将于 2025 年 1 月 14 日开始发售，有三种不同的配色：午夜天空、月光和香槟色。 Marantz Horizo​​n 的售价为 3,500 美元，而更大的Grand Horizo​​n 的售价为 5,500 美元。 Marantz 还将出售一款配套的三脚架，由美国胡桃木制成，售价 700 美元。
-
-
-图片：Marantz
-与较小的 Horizo​​n 扬声器相比，较大的 Marantz Grand Horizo​​n 提供了一点额外的功率，并且包含两个驱动器。
-
-Marantz 的产品传统上被设计为大型高保真音响系统的一部分，但其首款扬声器是一体化解决方案，无需与放大器或其他硬件配对。它们都采用球形设计，包裹在由回收的海洋塑料制成的织物中，可将声音推向各个方向，完全填满整个房间。每个扬声器的正面都有一圈 100 个 LED，当您靠近时会亮起，触摸时也可以用来调节音量。
-这两个扬声器的区别在于它们的大小和它们包含的驱动器数量。较小的 Marantz Horizo​​n 总共有六个，包括一个 6.5 英寸低音炮、一对 1 英寸丝质圆顶高音扬声器和三个由 310W 放大器供电的 2 英寸全频驱动器。更大的 Marantz Grand Horizo​​n 将其推至八个，配备一个八英寸低音炮、三个一英寸丝质圆顶高音扬声器和四个三英寸全频驱动器，由 370W 放大器供电。
-
-无线连接包括蓝牙 5.4、Wi-Fi 以及对 AirPlay 2 和 Spotify Connect 的支持。这两款扬声器均在 Denon 的 Heos 平台上运行（Marantz 和 Denon 均归 Masimo 所有，该公司是 Apple Watch 禁令和专利纠纷背后的公司），支持 Tidal、Spotify、Pandora、Deezer 和 Amazon Music 等流媒体服务，包括高分辨率音频选项。Heos 还允许将扬声器用作多房间音响系统的一部分，或者在同一空间中使用时将两个扬声器配对以形成立体声。
-Horizo​​n 和 Grand Horizo​​n 都提供有线连接，包括 RCA、光纤 TOSLINK 端口、HDMI eARC（适用于希望将其用作电视扬声器的人）以及 USB-C 端口，可播放来自外部驱动器的 MP3、AAC 甚至 FLAC 文件。]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming</guid>
-      <pubDate>Wed, 23 Oct 2024 13:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在新的第二季预告片中，《遣散》看起来像是一场可怕的重返办公室之旅</title>
-      <link>https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus</link>
-      <description><![CDATA[
-
-图片：Apple
-
-与许多科技公司一样，Lumon Industries 正在为员工制定重返办公室的政策，但当然，这个版本看起来比现实生活更可怕一些。至少，根据《Severance》第二季第一部正式预告片来看，情况是这样的。。
-继上季极其紧张的结局之后，该剧继续进行，马克·S（亚当·斯科特饰）回到卢蒙，发现事情与他记忆中的有些不同，包括他的一些同事。但有些东西没有改变——即令人迷惑的办公室走廊和米尔奇克（特拉梅尔·蒂尔曼饰）的坚定不移，即使拿着派对气球，他看起来也令人生畏。
-
-对于不熟悉的人来说，Severance 是一个科幻故事，讲述了一个医疗程序——名义上的 Severance——允许 Lumon 员工将他们的记忆在工作和家庭之间分开，本质上是在一个身体里创造了两个人。这是解决工作与生活平衡问题的极端解决方案。众所周知，外向的人对办公室发生的事情一无所知，而内向的人仍然被困在他们永远无法逃脱的地狱般的生活中。好吧，除了偶尔的音乐舞蹈体验。
-该节目由导演本·斯蒂勒和创作者/编剧丹·埃里克森领导。第一季（即将推出蓝光）拥有一支杀手级演员阵容，其中许多人将会回归。除了斯科特和蒂尔曼，演员阵容还包括布里特·洛尔、扎克·切里、詹·塔洛克、迈克尔·切尔纳斯、迪肯·拉赫曼、约翰·特托罗、克里斯托弗·沃肯和帕特丽夏·阿奎特。
-10 集的《Severance》第二季将于 1 月 17 日在 Apple TV Plus 上开始播放。与此同时，该流媒体还有另一部科幻节目即将回归，《Silo》第二季将于 11 月 15 日开播。]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus</guid>
-      <pubDate>Wed, 23 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 让其绘画应用程序完全免费，与 Procreate 竞争</title>
-      <link>https://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreate</link>
-      <description><![CDATA[
-
-图片：Adobe
-
-Adobe 正试图通过以下方式吸引插画师加入其创意软件平台：让其专用的绘图和绘画应用程序对所有人完全免费。 Fresco 本质上是 Adob​​e 对 Procreate 和 Clip Studio Paint 等应用程序的回应，这些应用程序都提供了各种工具，既可用于数字艺术，也可用于模拟真实世界的材料，如素描铅笔和水彩颜料。
-Adobe Fresco 专为支持触摸和手写笔的设备而设计，并且可在 iPad、iPhone 和 Windows PC 上使用。该应用已经有免费使用版本，但高级功能（如访问完整的 Adob​​e Fonts 库、更多的画笔选择以及导入自定义画笔的能力）以前需要每年 9.99 美元的订阅费。对于 Adob​​e 订阅来说，这个价格相当实惠，但仍无法与 Procreate 的 12.99 美元一次性购买模式相媲美。
-
-
-图片：Adobe
-虽然已经有免费版 Adob​​e Fresco，但之前将用户限制在一小部分功能上。
-
-开始如今，Fresco 的所有高级功能都不再需要付费才能使用。该应用程序于 2019 年首次推出，与 Photoshop 和 Illustrator 等更成熟的 Adob​​e 应用程序相比，它并不特别出名，因为 Photoshop 和 Illustrator 具有更复杂、更专业的设计工具。Fresco 仍然有一些有趣的功能，比如反射和旋转对称（在你绘画时镜像艺术品）以及使用“弹跳”和“呼吸”等运动预设快速为绘画制作动画的能力。
-Procreate、Clip Studio Paint 和 Krita 等竞争应用程序在数字艺术界已经很受欢迎：它们价格实惠、易于使用，并且支持 iPad，与同时购买电脑和专业绘图板相比，这要便宜得多。你在网上看到的大多数粉丝艺术、网络漫画和来自业余爱好者和独立设计师的一般插图很可能都是使用这些工具而不是 Adob​​e 的应用程序制作的，更不用说 Fresco 了。 
-Procreate 尤其拥有一批忠实的用户群，这既得益于其定价，也得益于其口头承诺反对引入任何生成式 AI 工具，这吸引了担心技术经过训练，并且可能会影响就业机会。 
-Fresco 尚未集成 Adob​​e 的任何生成式 AI 功能，并且与 Procreate 相比具有一些优势，例如桌面应用程序和云存储支持（而 Procreate 文件保存在设备上）。尽管Adobe 与部分创意社区存在更广泛的形象问题，但完全免费可能足以吸引新用户使用该平台。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreate</guid>
-      <pubDate>Wed, 23 Oct 2024 12:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将您的 Instagram 帐户从公开帐户切换为私人帐户</title>
-      <link>https://www.theverge.com/24267793/instagram-account-meta-privacy-how-to</link>
-      <description><![CDATA[
-
-插图由 Samar Haddad / The Verge 提供
-
-关注过社交网络的人都知道，有时最无害的帖子也会引起不愉快的反应，尤其是在 Instagram 这样的应用程序上，您的内容（无论是视频、图片还是文本）都可能被任何人看到。您可能出于多种原因想要将帐户设置为私人帐户，即使只是暂时的。这样一来，只有您批准的人才能关注您，并看到您在网格或故事中发布的内容。 
-这不是一个完美的解决方案。例如，虽然在您的帐户为私人帐户时只有您的关注者才能看到您的帖子，但您帐户的某些方面（例如您的个人资料）仍将保持公开。 
-无论如何，让我们开始吧。 
-
-
-屏幕截图：Meta
-找到并启用 Instagram 的私人帐户功能并不难。
-
-要启用您的 Instagram 私人帐户：
-
-使用 iOS 或 Android 移动应用程序，点击右下角的个人资料图标并选择右上角的三行汉堡包图标。使用网络应用程序，查找左下角的汉堡包图标。
-在 Android 上，向下滚动并选择帐户隐私。在 iOS 上，选择设置 &gt; 帐户隐私。在网络应用程序上，您会在左侧的设置栏中找到帐户隐私。
-打开私人帐户。
-
-如果您想减少关注者，也可以这样做。
-
-
-屏幕截图：Meta
-您可以删除任何想要删除的关注者。
-
-
-选择您的个人图标，转到您的个人资料。
-选择个人资料图片右侧的“关注者”一词。
-点击或者点击您想要删除的任何关注者旁边的删除按钮。系统会要求您确认删除，并告知这些关注者不会被告知他们已被删除。
-
-在您的设置中，如果您还想处理其他 Meta 应用（例如 Facebook 和 Threads）的问题，或者添加其他安全功能（例如双因素身份验证），您还可以点击帐户中心的链接。
-
-]]></description>
-      <guid>https://www.theverge.com/24267793/instagram-account-meta-privacy-how-to</guid>
-      <pubDate>Wed, 23 Oct 2024 12:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果“担心”人工智能会把真实照片变成“幻想”</title>
-      <link>https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview</link>
-      <description><![CDATA[
-
-插图：Haein Jeong / The Verge
-
-即将发布的 Apple Intelligence 激发了这家 iPhone 制造商自己的“什么是照片？”时刻。在接受华尔街日报采访时，苹果软件主管 Craig Federighi 表示，公司的目标是提供人工智能驱动的图像编辑工具，以保留照片的真实性。
-“我们的产品、我们的手机被大量使用，”Federighi 说道。 “对我们来说，重要的是我们帮助提供准确的信息，而不是幻想。”
-iOS 18.1 为照片应用带来了一项新的“清理”功能，可以快速从图片中删除物体和人物——Federighi 和WSJ记者 Joanna Stern 指出，这项功能要温和得多比谷歌和三星等竞争对手提供的编辑工具更强大，这些工具可以将整个 AI 生成的资产添加到图像中。尽管 Clean Up 功能有限，但 Federighi 表示关于添加该功能，内部存在“大量争论”。
-
-“我们是否想让移除水瓶或麦克风变得容易？因为拍照时水瓶就在那里，”Federighi 在演示了如何使用 Clean Up 从图片背景中移除物品后说道。 “人们想要清理照片中看似无关的细节，但又不会从根本上改变所发生事件的意义，这种需求非常强烈，所以我们愿意迈出这一小步。”
-
-Federighi 表示，苹果“担心”人工智能对“人们如何将照片内容视为可以依赖的现实指标”的影响。这是我们在The Verge 上经常谈论的一个话题。谷歌的 Reimagine 等编辑工具让大量用户只需使用文字描述就能非常轻松地在图片中添加狮子、炸弹甚至毒品用具，这可能会进一步削弱人们对摄影的信任。生成式 AI 编辑应用如果被恶意使用，会通过越来越逼真的假货更容易误导或欺骗他人。
-Apple Intelligence（至少目前）不允许用户像竞争服务那样对图像添加 AI 生成的操作。任何使用新对象删除功能编辑过的图像也将在照片应用中被标记为“已使用清理功能修改”，并嵌入元数据以标记它们已被更改。 
-Apple 并不是唯一一家采取此类预防措施的公司——例如，Adobe 驱动的内容真实性计划有一个类似的“内容凭证”元数据系统，旨在帮助人们区分未经修改的图像和 AI 伪造。这需要科技、相机和媒体公司自愿支持它，但支持正在稳步增加。目前尚不清楚 Apple 自己的元数据系统是否会支持内容凭证。]]></description>
-      <guid>https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview</guid>
-      <pubDate>Wed, 23 Oct 2024 10:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boox Palma 2 拥有更快的处理器，并增加了指纹识别器</title>
-      <link>https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/22/24275741/boox-palma-2-e-ink-reader</guid>
-      <pubDate>Wed, 23 Oct 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
