@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 24 Oct 2024 12:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 15:19:34 GMT</lastBuildDate>
+    <item>
+      <title>使用 MediaPipe 和 Three.js 的网络摄像头创建 3D 手势控制器</title>
+      <link>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</link>
+      <description><![CDATA[了解如何使用@mediapipe/hands 和 Three.js 创建具有深度的完整 3D 手控制器。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</guid>
+      <pubDate>Thu, 24 Oct 2024 12:22:02 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Monolith Studio</title>
       <link>https://tympanus.net/codrops/2024/10/22/case-study-monolith-studio/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[深入了解 Paffi Totem Slider 的设计，探索柔和的渐变、微妙的灯光和有趣的动作如何共同创造出独特而动感的外观。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/15/a-visual-deconstruction-of-the-paffi-totem-slider/</guid>
       <pubDate>Tue, 15 Oct 2024 10:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>励志网站汇总：Webflow 特刊 #6</title>
-      <link>https://tympanus.net/codrops/2024/10/14/inspirational-websites-roundup-webflow-special-6/</link>
-      <description><![CDATA[与Webflow合作，我们很高兴推出此综述，其中包含精心挑选的令人惊叹的网站。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/14/inspirational-websites-roundup-webflow-special-6/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:52:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
