@@ -4,157 +4,158 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:21:22 GMT</lastBuildDate>
     <item>
-      <title>伊隆·马斯克的 100 万美元竞选噱头可能是非法的——政府不太可能阻止他</title>
-      <link>https://www.theverge.com/2024/10/24/24278088/elon-musk-doj-america-pac-million-dollar-sweepstakes-petition</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278088/elon-musk-doj-america-pac-million-dollar-sweepstakes-petition</guid>
-      <pubDate>Thu, 24 Oct 2024 15:06:24 GMT</pubDate>
+      <title>Bluesky 正在开发订阅服务，但不会为您提供蓝色支票</title>
+      <link>https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription</link>
+      <description><![CDATA[
+
+图片：Bluesky
+
+Bluesky 正在开发高级订阅，将添加更高质量的视频上传和一些个人资料自定义选项等功能。然而，与 X 提供的高级订阅不同，Bluesky 的付费套餐不会提高您帖子的可见度，也不会让您的帐户获得“已验证”状态。 Bluesky 在其博客上的一篇文章中还指出，Bluesky“将永远免费使用”。
+“订阅收入有助于我们改进应用程序，发展开发者生态系统，并让我们有时间探索传统广告以外的商业模式，”Bluesky 首席运营官 Rose Wang 在一篇文章中写道。 “付费用户不会在应用程序的其他地方获得特殊待遇，例如高级帐户的排名提升或姓名旁边的蓝色勾号。”
+
+
+为了可持续发展，我们正在开发一种订阅模式，用于高级功能，例如更高质量的视频上传和个人资料自定义（例如颜色和头像框架），但 Bluesky 将永远免费使用。我们相信信息和对话应该对每个人都开放。— Rose (@rose.bsky.team) 2024-10-24T16:44:30.183Z
+
+
+Bluesky 还宣布其拥有 1300 万用户，并筹集了新一轮 1500 万美元的融资。该平台在过去一年中实现了稳步增长，去年 11 月用户数突破 200 万。在巴西对 X 实施禁令（现已解除）后的几周内，以及在X 对其拦截功能进行更改之后，Bluesky 增加了更多用户。当 Bluesky 试图吸引更多寻找 X 替代品的用户时，它也一直瞄准沮丧的 Threads 用户。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278666/bluesky-working-on-premium-subscription</guid>
+      <pubDate>Thu, 24 Oct 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>Peacock 的多视角功能将使选举之夜变得更加混乱</title>
-      <link>https://www.theverge.com/2024/10/24/24278452/peacock-multiview-election-night-more-chaotic</link>
+      <title>Google Photos 很快就会显示图片是否经过 AI 编辑</title>
+      <link>https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take</link>
+      <description><![CDATA[
+
+Google 魔法编辑器为该场景添加了几个可疑项目。 |照片由 Chris Welch / The Verge 拍摄
+
+在生成式人工智能方面，永远不可能将精灵放回瓶子里动摇我们对照片的信任，但科技行业有责任在使用这些工具时至少尽可能透明。为此，谷歌宣布，从下周开始，Google Photos 将记录图像在人工智能的帮助下进行编辑的时间。 
+“使用 Magic Editor、Magic Eraser 和 Zoom Enhance 等工具编辑的照片已经包含基于国际新闻通讯委员会 (IPTC) 技术标准的元数据，以表明它们已使用生成式 AI 进行编辑，”Google Photos 工程总监 John Fisher 在一篇博客文章中写道。“现在我们更进一步，让这些信息与照片应用中的文件名、位置和备份状态等信息一起可见。”
+
+
+GIF：Google
+这肯定比完全没有 AI 迹象要好。
+
+“AI 信息”部分将在网页和应用中的 Google Photos 图像详细信息视图中找到。
+这些标签也不会严格限于生成 AI。谷歌表示，它还将指定“照片”何时包含来自多张不同图像的元素——例如当人们使用 Pixel 的最佳拍摄和添加我功能时。这令人鼓舞。然而，这些元数据很容易被那些故意试图这样做的人绕过。
+“这项工作尚未完成，我们将继续收集反馈并评估其他解决方案，以增加 AI 编辑的透明度，”Fisher 写道。
+到目前为止，附加到谷歌 AI 工具上的元数据对最终用户来说几乎是不可见的。之前 我用 Magic Editor 的 Reimagine 工具制造了一堆混乱，而这个工具可以让你在图片中添加原始场景中从未出现过的 AI 生成对象，这让我很担心 Google Photos 中缺少任何明显的 这是用 AI 制作的 标签。Google 和三星都允许你使用各自的 AI 工具来实现这一点。但苹果将在 iOS 18.2 中推出其首批图像生成功能，该公司表示，它非常有意识地避开照片写实内容。苹果公司的 Craig Federighi 表示，公司越来越“担心”人工智能会质疑照片是否“反映现实”。
+正如我们多次提到的那样，修饰照片并不是什么新鲜事。但如今的生成式人工智能工具浪潮使得只需很少的努力或技巧就能创造出令人信服的伪造品。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278663/google-photos-generative-ai-label-reimagine-best-take</guid>
+      <pubDate>Thu, 24 Oct 2024 17:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>《毒液：最后之舞》依然保持着其荒谬的风格</title>
+      <link>https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24277702/venom-the-last-dance-review</guid>
+      <pubDate>Thu, 24 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>iMessage 的新安全功能会提示儿童向 Apple 举报露骨图片</title>
+      <link>https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+据《The》报道，Apple 正在添加一项新的儿童安全功能，让孩子在收到带有裸露内容的照片或视频时可以向 Apple 发送报告。 Guardian。在审查收到的任何内容后，公司可以向执法部门举报信息。
+新功能扩展了Apple 的通信安全功能，该功能使用设备扫描来检测通过信息、AirDrop 或联系人海报收到的照片或视频中的裸体并将其模糊掉。除了模糊照片或视频外，Apple 还会弹出一个窗口，提供向成年人发送消息、获取帮助资源或屏蔽联系人的选项。
+作为这项新功能的一部分，该功能目前正在澳大利亚使用 iOS 18.2 进行测试，用户还可以向 Apple 发送有关任何包含裸露内容的图像或视频的报告。
+“该设备将准备一份报告，其中包含图像或视频，以及图像或视频前后立即发送的消息，”卫报 称。“它将包括两个帐户的联系信息，用户可以填写一份表格来描述发生的事情。”然后，苹果会查看报告，并可以选择采取行动，例如阻止用户发送 iMessage 或向执法部门举报。
+本周早些时候，谷歌宣布扩大其 Android 应用程序中的短信设备扫描功能，其中将包括一个可选的敏感内容警告，该警告会模糊裸露图像，并提供“寻求帮助的资源和选项”。推出后，该功能将默认为 18 岁以下的用户启用。
+《卫报》称，苹果计划在全球范围内推出这项新功能，但没有具体说明何时会推出。苹果没有立即回复置评请求。2021 年，苹果宣布了一系列儿童安全功能，包括扫描用户的 iCloud 照片库中是否存在儿童性虐待材料，并在孩子发送或接收色情照片时向父母发出警报。在隐私倡导者反对该计划后，苹果推迟了这些功能的推出，重新开始设计，并于 2022 年 12 月放弃了扫描儿童性虐待图像的计划。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images</guid>
+      <pubDate>Thu, 24 Oct 2024 16:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hallmark 为那些懒惰的送礼者推出了新贺卡</title>
+      <link>https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday</link>
+      <description><![CDATA[
+
+卡片顶部印有一条横幅，告诉您里面有一张礼品卡。 |图片：Hallmark
+
+Hallmark 宣布推出新的实体贺卡，内含数字礼品卡。“礼品卡问候”行意味着您可以递给某人一张真正的卡片，而且无需再用胶带粘贴一块塑料，非常方便。这比给某人买一张电子礼品卡，然后在他们的电子邮件收件箱中收到代码要私人一些。
+礼品卡以二维码的形式出现，印在 Hallmark 卡的内页上，用于充值和兑换其价值。新卡是 Hallmark 另一项“数字礼品卡”理念的扩展，该理念允许您通过 Venmo 存入现金，这样您就不必去 ATM 机了。
+对于新卡，买家撕下贴纸即可显示二维码，然后收件人刮开一行即可显示代码，该代码可在他们的智能手机上输入以进行兑换。为了防止收礼人当天偷偷将贺卡扔进垃圾桶，顶部有一个“内有数字礼品卡”横幅，提醒他们信封里不仅仅有你真挚的想法。
+数字礼品由礼品卡商店提供，该商店为 100 多家零售商提供选择，包括百思买、DoorDash、家得宝、诺德斯特龙、丝芙兰、Ulta 和 Xbox。这些卡现在可在 Hallmark 网站、其 Gold Crown 实体店和指定零售商处以 4.99 美元的价格购买。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278496/hallmark-gift-card-greetings-qr-code-digital-birthday</guid>
+      <pubDate>Thu, 24 Oct 2024 16:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verizon 更新的家庭追踪应用添加了 SOS 警报</title>
+      <link>https://www.theverge.com/2024/10/24/24278507/verizon-updated-family-tracking-app-sos-alerts</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-孔雀的多视图功能不仅适用于体育赛事 — 显然，它还适用于追踪选举之夜的动态。随着 11 月 5 日投票的进行，Peacock 将显示三个不同的直播，您可以在其中切换。
-一个窗口将播放 NBC News Now，它将播放主播 Lester Holt 和 Savannah Guthrie 的突发新闻和实时选举结果。多视图设置还将包括一个“Kornacki Cam”，其中包含记者 Steve Kornacki 的分析以及一张显示全国各地选举结果的地图。
-就像 2024 年巴黎奥运会的多视图选项一样，Peacock 将允许您在每个屏幕之间移动，为特定流打开或关闭音频，并选择要全屏观看的直播。选举多视图功能将于 11 月 5 日美国东部时间下午 6 点在 Peacock 上线。该功能将在智能电视、网络浏览器和平板电脑上提供。
-Peacock 还将于 11 月 1 日推出一个中心，您可以在其中找到与选举相关的内容。该流媒体还将多视图扩展到其服务的其他领域，因为它计划从 12 月 4 日开始将多视图引入英超联赛，让您可以同时观看四场比赛。]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278452/peacock-multiview-election-night-more-chaotic</guid>
-      <pubDate>Thu, 24 Oct 2024 15:00:00 GMT</pubDate>
+Verizon 已 重新推出了其家庭追踪应用，并配备了 Safe Walk SOS 功能，让用户可以与紧急联系人分享他们的实时位置，并在安全到达时发送通知。用户还可以访问静音 SOS 按钮，如果需要帮助，该按钮会向联系人发出警报。
+新的 Verizon Family 应用取代了该运营商于 2019 年推出的 Smart Family 服务。它具有许多相同的功能，包括跟踪家庭成员位置的方法、查看孩子在手机上花费的时间以及设置屏幕时间限制。
+Verizon Family 应用程序还允许父母查看孩子的通话和短信活动（无需实际查看他们的消息）、监控青少年的驾驶活动以及设置位置警报。 iPhone 和 Android 设备 已经内置了其中一些功能，包括向紧急联系人发送 SOS 消息的方式以及各种 家长控制。
+
+虽然家庭应用可通过标准后付费月度帐户免费使用，但如果您想使用其他功能，则必须每月支付 14.99 美元/帐户。其中包括设置多个位置警报、家长控制以管理屏幕时间以及路边援助的功能。
+拥有旧版 Verizon Smart Family 服务（起价为每月 4.99 美元）的客户可以继续使用它（Verizon 只是不允许任何新用户注册）。重新设计的 Verizon Family 服务与该公司的其他家庭追踪产品相结合，例如 Gizmo Watch 3 Adventure。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278507/verizon-updated-family-tracking-app-sos-alerts</guid>
+      <pubDate>Thu, 24 Oct 2024 16:21:13 GMT</pubDate>
     </item>
     <item>
-      <title>Satechi 的三合一无线充电板现在速度更快</title>
-      <link>https://www.theverge.com/2024/10/24/24273636/satechi-qi2-trio-wireless-charging-pad-apple-watch-iphone-airpods</link>
+      <title>苹果透露 Mac 发布会将于周一开始</title>
+      <link>https://www.theverge.com/2024/10/24/24266448/apple-mac-announcements-october-2024</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+Apple 可能不会在今年 10 月举办正式的产品活动，但 Apple 高级副总裁 Greg Joswiak 预告 从周一早上开始的 Mac 发布“一周”。
+关于 Mac 更新发布的谣言四起。 彭博社 的 Mark Gurman 一直在关注这些消息，他在 10 月初的 Power On 新闻通讯 中表示，Apple 计划发布一套搭载 M4 芯片的 Mac 以及更新的 iPad Mini — — 尽管这些消息后来已经宣布。
+
+
+Mac ( ) 您的日历！从周一早上开始，我们将迎来令人兴奋的一周公告。敬请期待……pic.twitter.com/YnoCYkZq6c— Greg Joswiak (@gregjoz) 2024 年 10 月 24 日
+
+
+M4 Mac 很有意义；Apple 于 5 月首次宣布M4 芯片，同时发布了新的 iPad Pro，因此我们一直期待该芯片很快出现在 Apple 的电脑中。即将推出的搭载 M4 的电脑阵容可能包括低端 14 英寸 MacBook Pro、高端 14 和 16 英寸 MacBook Pro、新款 iMac 和新款 Mac Mini。新款 Mac Mini 可能还会进行重新设计，使其尺寸接近 Apple TV。
+俄罗斯 YouTubers 还发布了一些视频，视频中显示的是搭载 M4 芯片的 MacBook Pro，这可能进一步证明 Apple 即将发布它们。
+去年，Apple 举办了一场“快得吓人”的 Mac 发布会在万圣节，苹果发布了 M3 芯片以及将使用它们的电脑。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24266448/apple-mac-announcements-october-2024</guid>
+      <pubDate>Thu, 24 Oct 2024 16:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国如何破坏全球气候目标</title>
+      <link>https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24273636/satechi-qi2-trio-wireless-charging-pad-apple-watch-iphone-airpods</guid>
-      <pubDate>Thu, 24 Oct 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/24/24278402/us-presidential-election-trump-united-nations-climate-change-report</guid>
+      <pubDate>Thu, 24 Oct 2024 15:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>为什么人工智能公司正在放弃末日论</title>
-      <link>https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast</link>
+      <title>英特尔酷睿 Ultra 9 285K CPU 对 PC 游戏来说，既进步了一步，又退了一步</title>
+      <link>https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24278413/ai-manifesto-anthropic-dario-amodei-agi-digital-god-openai-sam-altman-decoder-podcast</guid>
-      <pubDate>Thu, 24 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/24/24278407/intel-ultra-9-285k-benchmarks-performance-hands-on</guid>
+      <pubDate>Thu, 24 Oct 2024 15:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>Google 日历获得重新设计和暗黑模式</title>
-      <link>https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode</link>
+      <title>Razer 为其 Barracuda X 无线耳机添加了 RGB 照明</title>
+      <link>https://www.theverge.com/2024/10/24/24278481/razer-barracuda-x-chroma-wireless-headphones-gaming-rgb-lighting</link>
       <description><![CDATA[
 
-网络版 Google 日历的全新深色模式于 10 月 23 日开始向用户推出。 |图片：Google
+Razer Barracuda X Chroma 耳机具有可自定义的 RGB 照明区域。 |图片：Razer
 
-Google 终于在 Google 日历的网页版中引入了暗黑模式，并推出了“焕然一新的用户界面”。新的用户界面将包括按钮、对话框和侧边栏，它们“更现代、更易于访问”，字体也得到了改进。
-更新已于本周开始推出，很快将向所有人开放，无论他们使用的是个人 Gmail 登录名还是任何类型的付费 Google Workspace 帐户。 
-
-在您的帐户中启用暗黑模式后，您可以通过点击 Google 日历界面右上角的设置图标来打开暗黑模式，该图标会显示一个新的下拉菜单，其中“外观”下有暗黑选项。用户还可以切换回亮黑选项，或选择匹配其设备所选的主题。
-以前，在网络上启用 Google 日历的暗黑模式需要第三方浏览器扩展来修改其外观。 Google 警告称，由于此次更新是“视觉刷新”，可能会导致活动扩展“无法按预期工作”。
+Razer 宣布推出其 Barracuda X 无线游戏耳机的新版本，该版本添加了发光的 Razer 徽标和一圈环绕每个耳罩的变色 LED。新款Barracuda X Chroma 耳机现已开放预订，有黑色或白色两种配色，售价 129.99 美元，预计将于 10 月底或 11 月初发货。
+与其他 Razer 耳机一样，Barracuda X Chroma 的重点照明可以通过 Razer Chroma Studio 桌面应用程序或 Razer Audio 移动应用程序进行自定义。耳机有六个区域，可以设置为 1680 万种颜色之一，以匹配游戏室或其他硬件的主题，或者您可以从预设效果中进行选择，包括与“超过 300 款游戏”相对应的灯光。
 
 
-图片：Google
-网页版 Google 日历的用户界面也进行了更新，控件和对话框看起来更加现代。
+图片：Razer
+Barracuda X Chroma 的麦克风是可拆卸的。
 
-Google 表示，更新后的日历 UI 还将采用“清晰易读、给人耳目一新的感觉的图标”，使用“定制设计且高度清晰的字体”，使其与 Google 的 Material Design 保持一致3 标准。包括暗模式在内的更新也将适用于“整个日历网页体验”，包括任务列表视图。]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278419/google-calendar-web-dark-mode</guid>
-      <pubDate>Thu, 24 Oct 2024 13:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的 Xbox 控制器</title>
-      <link>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</guid>
-      <pubDate>Thu, 24 Oct 2024 13:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>《使命召唤：黑色行动 6》将于明天登陆 Nvidia 的流媒体服务</title>
-      <link>https://www.theverge.com/2024/10/24/24278406/call-of-duty-black-ops-6-nvidia-geforce-now-streaming</link>
-      <description><![CDATA[
-
-图片：Activision
-
-Activision 的使命召唤：黑色行动 6将于Nvidia 的 GeForce Now 游戏流媒体服务将于 10 月 25 日星期五推出——同一天在所有其他平台上推出。这是《使命召唤》游戏首次在 GeForce Now 上发布首日，此前微软于 2023 年收购 Activision Blizzard，并达成协议 在 Nvidia 的服务上发布其游戏。
-《使命召唤》新作多年来与 PlayStation 达成了独家内容协议，但微软与索尼达成协议，作为收购动视暴雪时承诺为该系列未来推出的游戏带来同等待遇的一部分。微软在收购动视暴雪时不得不做出妥协以通过监管机构的审查，其中包括将该发行商的游戏和 Xbox PC 游戏库中的游戏引入 Nvidia 的服务。它还承诺《使命召唤》也将登陆任天堂平台。
-Nvidia 的服务还将获得《使命召唤 HQ》，这是一款包含游戏《使命召唤：现代战争 III》和《使命召唤：战区》（可在 Xbox 和 PC Game Pass 上使用）的启动器。 GeForce Now 的新发布列表包括：
+Barracuda X Chroma 可以通过蓝牙无线连接到设备，或使用 Razer 的 2.4GHz HyperSpeed 连接以减少延迟。该公司表示，在 2.4GHz 连接且关闭照明的情况下，耳机的电池寿命已提升至 70 小时，但在 RGB LED 开启的情况下，电池寿命减半至 35 小时。充电 15 分钟即可提供约 6 小时的播放时间，但使用蓝牙时，电池寿命可能会更长。
 
 
-《克苏鲁的崇拜者》（Steam 上的新发布，​​10 月 21 日）
+图片：Razer
+Barracuda X Chroma 有白色或黑色两种配色。
 
-《地狱无尽 2》（Steam 上的新发布，​​10 月 22 日）
-
-《浪漫沙加 2：七人复仇》（Steam 上的新发布，​​10 月 24 日）
-
-《风吹雨打》（Steam 上的新发布，​​10 月 24 日）
-
-《使命召唤：黑色行动 6》（Steam、Battle.net 和 Xbox 上的新发布，​​可在 PC Game Pass 上使用，10 月25 日）
-
-使命召唤 HQ，包括使命召唤：现代战争 III和使命召唤：战区（Xbox，可在 PC Game Pass 上使用）
-
-DUCKSIDE（Steam）
-
-Off the Grid（Epic Games Store）
-
-Selaco（Steam）
-]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278406/call-of-duty-black-ops-6-nvidia-geforce-now-streaming</guid>
-      <pubDate>Thu, 24 Oct 2024 13:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minecraft 明年将不再支持 VR</title>
-      <link>https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025</link>
-      <description><![CDATA[
-
-图片：Minecraft
-
-
-根据 Bedrock 上发布的 更新，Minecraft 将在 2025 年 3 月后正式停止支持所有虚拟现实耳机更新日志。此更新意味着 Minecraft 将不再支持 Oculus Rift、Windows Mixed Reality 耳机或 Meta Quest（通过 Quest Link）等设备，正如 UploadVR 早些时候报道的那样。
-上个月，Minecraft 开发商 Mojang 还宣布，该游戏将于明年 3 月停止对 PlayStation VR 耳机的支持。当 Minecraft 的春季更新推出时，Mojang 表示您可以“继续在自己的世界中建造，并且您的 Marketplace 购买（包括 Minecoins）将继续在非 VR/MR 图形设备（例如计算机显示器）上使用。” 
-正如 UploadVR 所指出的那样，您仍然可以通过使用 Java 版游戏在 PC 上以 VR 形式玩 Minecraft — 无论是通过下载 VR mod（例如 Vivecraft）还是使用独立的 VR 端口（例如 QuestCraft）。 
-Minecraft 最初于 2016 年在 三星 Gear VR 耳机上推出，随后增加了对 Oculus Rift 和 PlayStation VR 的支持。在终止对 VR 的支持之前，Mojang 还于 2020 年关闭了其增强现实移动应用程序 Minecraft Earth。]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025</guid>
-      <pubDate>Thu, 24 Oct 2024 13:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在你可以从 iPhone 的锁定屏幕启动 Snapchat 的相机</title>
-      <link>https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability</link>
-      <description><![CDATA[
-
-图片：Snapchat
-
-从本周开始，Snapchat 将为 iPhone 用户在匆忙时提供一种更快捷的拍照方式。运行 iOS 18 或更高版本的 iPhone 可以将锁定屏幕底部的手电筒或原生相机快捷方式替换为 Snapchat 相机的快捷方式。 
-使用新的快捷方式，您只需单击一下即可直接从锁定屏幕启动 Snapchat 相机，从而更轻松地捕捉转瞬即逝的瞬间。使用这些控件可让 iPhone 在锁定时以“仅相机”模式启动和拍照，但发送或编辑快照仍需要用户解锁设备。
-要进行设置，用户需要点击并按住锁定屏幕，点击自定义，然后选择锁定屏幕以替换默认选项之一。这增加了其他可用选项，例如将 Snapchat 小部件添加到锁定或主屏幕、自定义 iPhone 15 / 16 操作按钮以直接启动 Snapchat，或自定义 iPhone 16 的新相机控制以打开 Snapchat。
-类似于谷歌在几年前 Pixel 6 发布时宣传其“快速点击拍摄”功能的举动，这一变化在Apple 6 月份的 WWDC 主题演讲。自 9 月份 iOS 18 发布以来，我们还看到其他替代相机应用程序如 Halide增加了对此 iPhone 功能的支持。
-
-
-图片：Snapchat
-锁屏自定义功能已在 iOS 18 中正式发布，但开发者需要推出针对特定小部件（如 Snapchat 相机快捷方式）的支持
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability</guid>
-      <pubDate>Thu, 24 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动紧急制动在预防碰撞方面越来越有效</title>
-      <link>https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa</link>
-      <description><![CDATA[
-
-照片由 Selcuk Acar / Anadolu via Getty Images 拍摄
-
-根据美国汽车协会 (AAA) 最近开展的一项研究，自动紧急制动 (AEB) 并不完美，但该技术正在不断改进。这项研究是在一项新的联邦法规出台之后进行的，该法规要求所有车辆在 2029 年之前配备最强大的 AEB 版本。
-AAA 希望了解配备 AEB 的新型车辆与配备该技术的旧款车辆相比的表现如何。AEB 使用前置摄像头和其他传感器在即将发生碰撞时自动告诉汽车踩刹车。根据测试结果，新版本的 AEB 在防止前方碰撞方面比旧版本的技术要好得多。 
-驾驶员小组在私人封闭赛道上进行了测试，测试了三款车型的旧款（2017-2018 年）和新款（2024 年）：吉普切诺基、日产 Rogue 和斯巴鲁傲虎。每辆车都以 12 英里/小时、25 英里/小时和 35 英里/小时的速度进行测试，以了解 AEB 在不同速度下的表现。并将一辆假车放在路中间，以查看 AEB 是否可以防止碰撞。 
-100% 的新车在发生碰撞前刹车
-不出所料，新款车型的表现比老款车型好很多：2024 辆汽车中 100% 在发生碰撞前刹车，而老款汽车只有 51%。 
-这比 AAA 在 2022 年进行的类似测试 有所改进，在该测试中，AEB 在防止低速碰撞方面比在正常速度下更胜一筹。 
-不过，最近的这次测试仅涉及前方碰撞。过去的 AAA 研究发现，AEB 无法防止其他常见类型的碰撞，例如 T 型碰撞和在接近车辆前左转。 
-“自 2014 年我们开始测试 AEB 以来，汽车制造商在提高驾驶员安全性方面取得的进步值得称赞，而且前景光明，”汽车工程研究总监 Greg Brannon 说道。 “未来仍有大量工作要做，以确保系统在更高速度下正常工作。”
-考虑到美国国家公路交通安全管理局 (NHTSA) 最终确定了一项新要求，即到 2029 年，所有轻型车辆都必须配备强大的 AEB 系统，AEB 正在改善，这是一个积极的信号。目前，道路上约有 90% 的车辆标配 AEB，但新规则要求汽车制造商采用更强大的技术，即使在夜间也能阻止车辆以更高的速度行驶并检测弱势道路使用者，如骑自行车者和行人。
-即便如此，汽车制造商仍在争先恐后地阻止新规则的采用。今年早些时候，代表大多数主要汽车制造商的汽车创新联盟向 NHTSA 发出了一封信，称最终规则“在现有技术条件下几乎不可能实现”，并敦促该机构推迟实施。]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24276802/automatic-emergency-braking-aeb-forward-collision-aaa</guid>
-      <pubDate>Thu, 24 Oct 2024 04:01:00 GMT</pubDate>
+其他功能包括可旋转耳罩上的记忆泡沫垫、40 毫米驱动器、可调节臂上的可拆卸 HyperClear 心形麦克风，以及集成在左耳罩中的带音量拨盘的静音按钮。这款耳机重 285 克，比原版 Barracuda X（重 250 克）略重。
+Barracuda X Chroma 兼容 PC、Mac、任天堂 Switch、索尼 Playstation、Steam Deck 以及 Android 和 iOS 移动设备。但与前代产品一样，它们仍然不支持 Xbox 的无线协议。]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278481/razer-barracuda-x-chroma-wireless-headphones-gaming-rgb-lighting</guid>
+      <pubDate>Thu, 24 Oct 2024 15:14:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

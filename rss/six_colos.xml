@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 23 Oct 2024 21:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:22:11 GMT</lastBuildDate>
+    <item>
+      <title>选择你的编码字体↦</title>
+      <link>https://sixcolors.com/link/2024/10/choose-your-coding-font/</link>
+      <description><![CDATA[
+在 Mastodon 上，我卷入了一场关于我们用于写作的字体的讨论。我专门使用等宽字体写作，几十年来一直如此。…]]></description>
+      <guid>https://sixcolors.com/link/2024/10/choose-your-coding-font/</guid>
+      <pubDate>Thu, 24 Oct 2024 15:54:52 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 577：女巫们为自己而战</title>
       <link>https://sixcolors.com/podcast/2024/10/clockwise-577-witches-are-doing-it-for-themselves/</link>
@@ -117,13 +125,6 @@ KeithFromSonos 是 Sonos 的一名员工，他在 r/Sonos 子版块非常活跃�
       <description><![CDATA[关于生存和摇滚乐队的悲惨故事。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/10/the-rebound-517-moviepass-for-vision-pro/</guid>
       <pubDate>Wed, 16 Oct 2024 19:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 576：手工酸奶</title>
-      <link>https://sixcolors.com/podcast/2024/10/clockwise-576-artisanal-yogurt/</link>
-      <description><![CDATA[我们对 Passkeys 的使用体验和对其即将推出的便携性的看法、对默认显示在线状态的 Threads 的看法、对亚马逊新 Kindle 系列（包括彩色型号）的看法，以及我们消费新闻的首选方法和平台。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/10/clockwise-576-artisanal-yogurt/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
