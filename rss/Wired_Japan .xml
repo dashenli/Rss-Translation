@@ -4,7 +4,21 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 24 Oct 2024 03:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:18:33 GMT</lastBuildDate>
+    <item>
+      <title>生成“深度伪造色情内容”的恶意人工智能机器人在 Telegram 上猖獗</title>
+      <link>https://wired.jp/article/ai-deepfake-nudify-bots-telegram/</link>
+      <description><![CDATA[消息应用程序 Telegram 拥有许多图像生成机器人，可以“脱掉照片中人物的衣服”。尽管政府和科技公司加大了打击力度，但人们仍在未经同意的情况下创建深度伪造图像。]]></description>
+      <guid>https://wired.jp/article/ai-deepfake-nudify-bots-telegram/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA研究揭示火星表面存在“生命”的可能性</title>
+      <link>https://wired.jp/article/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/</link>
+      <description><![CDATA[美国宇航局利用计算机模型进行的一项新研究表明，火星表面的尘埃冰内部存在水池，可以支持微生物等生命。它似乎是未来生命探索的有希望的候选地点之一。]]></description>
+      <guid>https://wired.jp/article/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>冰淇淋制作中隐藏的“秘密炼金术”</title>
       <link>https://wired.jp/article/inside-alchemy-ice-cream-making/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[HBO 的一部新纪录片试图通过提供有关中本聪真实身份的新理论来揭开一个长期存在的谜团。但再一次，没有确凿的证据，这个神话仍然存在。]]></description>
       <guid>https://wired.jp/article/unmasking-bitcoin-creator-satoshi-nakamoto-again/</guid>
       <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTuber 通过人工智能学习的许可数据获得报酬。一家初创公司创建一个新系统</title>
-      <link>https://wired.jp/article/license-to-scrape-youtube-ai-data-license-creators/</link>
-      <description><![CDATA[虽然主要平台已与主要人工智能公司签署了抓取协议，但 YouTube 却将责任留给了个人创作者。 “Scrape 许可证”计划旨在为 YouTuber 提供适当的谈判能力。]]></description>
-      <guid>https://wired.jp/article/license-to-scrape-youtube-ai-data-license-creators/</guid>
-      <pubDate>Mon, 21 Oct 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>商业太空“行动年”的开始：“SPACETIDE 2024”报告</title>
-      <link>https://wired.jp/article/spacetide-2024-report/</link>
-      <description><![CDATA[亚洲最大的商业航天会议SPACETIDE 2024近日举行。为期三天、超过 50 场会议的讨论凸显了商业空间可能翻开新篇章的可能性。]]></description>
-      <guid>https://wired.jp/article/spacetide-2024-report/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
