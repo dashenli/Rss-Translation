@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 25 Oct 2024 12:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 18:23:59 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚焦：Maria Rakovic</title>
+      <link>https://tympanus.net/codrops/2024/10/25/designer-spotlight-maria-rakovic/</link>
+      <description><![CDATA[探索建筑师转型为网页设计师的玛丽亚·拉科维奇（Maria Rakovic）的创意之旅，将建筑的精准性与网页设计和品牌推广中的数字艺术融为一体。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/25/designer-spotlight-maria-rakovic/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:04:51 GMT</pubDate>
+    </item>
     <item>
       <title>集体#875</title>
       <link>https://tympanus.net/codrops/collective/collective-875/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一个有趣的概念，我们使用基于滚动的动画来创建 3D 网格效果和其他过渡。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</guid>
       <pubDate>Wed, 16 Oct 2024 14:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#872</title>
-      <link>https://tympanus.net/codrops/collective/collective-872/</link>
-      <description><![CDATA[功能检测 CSS 中的样式查询支持 * js13kGames 2024：公布获胜者！]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-872/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
