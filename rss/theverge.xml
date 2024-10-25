@@ -4,7 +4,43 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 01:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 03:23:33 GMT</lastBuildDate>
+    <item>
+      <title>Arc 背后的公司目前正在开发第二个更简单的浏览器</title>
+      <link>https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc</guid>
+      <pubDate>Fri, 25 Oct 2024 01:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 计划于 12 月发布其下一个重要 AI 模型</title>
+      <link>https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge； Getty Images
+
+据The Verge获悉，OpenAI 计划在 12 月前推出其下一个前沿模型 Orion。
+与 OpenAI 的最后两个模型 GPT-4o 和 o1 的发布不同，Orion 最初不会通过 ChatGPT 广泛发布。据一位熟悉该计划的消息人士称，OpenAI 计划首先向与其密切合作的公司授予访问权限，以便他们构建自己的产品和功能。
+另一位消息人士告诉 The Verge，微软（OpenAI 部署 AI 模型的主要合作伙伴）内部的工程师正准备最早于 11 月在 Azure 上托管 Orion。虽然 OpenAI 内部将 Orion 视为 GPT-4 的继任者，但目前尚不清楚该公司是否会在外部将其称为 GPT-5。与往常一样，发布计划可能会发生变化，并且可能会推迟。 OpenAI 和微软拒绝对此事发表评论。
+
+Orion 已被 OpenAI 高管 可能比 GPT-4 强大 100 倍；它与 OpenAI 9 月发布的 o1 推理模型是分开的。该公司的目标是随着时间的推移将其 LLM 结合起来，创建一个功能更强大的模型，最终可以称为通用人工智能或 AGI。
+此前有报道称，OpenAI 正在使用代号为 Strawberry 的 o1 提供合成数据来训练 Orion。 9 月，OpenAI 研究人员举行了欢乐时光活动来庆祝完成新模型的训练，一位知情人士告诉 The Verge。
+
+
+我喜欢待在中西部的家里。夜空太美了。期待冬季星座很快升起；他们太棒了。— Sam Altman (@sama) 2024 年 9 月 14 日
+
+
+这个时间与 OpenAI 首席执行官 Sam Altman 在 X 上发表的一篇神秘帖子相吻合，他在帖子中表示，他“很高兴看到冬季星座很快升起”。如果你问 ChatGPT o1-preview Altman 的帖子隐藏了什么，它会告诉你他在暗示猎户座这个词，这是 11 月至 2 月夜空中最明显的冬季星座（但它也产生幻觉，认为你可以重新排列字母来拼写“ORION”）。
+
+
+截图来自 Tom Warren / The Verge
+就连 ChatGPT 也认为 Sam Altman 是在开玩笑Orion。
+
+下一代模型的发布正值 OpenAI 的关键时刻，该公司刚刚完成了历史性的66 亿美元融资，这笔融资要求该公司重组为一家营利性实体。该公司还经历了大规模的员工流动：首席技术官 Mira Murati 刚刚宣布离职，同时宣布离职的还有公司首席研究官 Bob McGrew 和岗位培训副总裁 Barret Zoph。
+]]></description>
+      <guid>https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december</guid>
+      <pubDate>Fri, 25 Oct 2024 01:29:44 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iPhone 的最佳 MagSafe 和 Qi2 充电器</title>
       <link>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</link>
@@ -116,48 +152,6 @@ GIF：Notion
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to</guid>
       <pubDate>Thu, 24 Oct 2024 20:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，俄罗斯雇佣了一名前佛罗里达州警察，以制造反哈里斯的深度伪造视频和虚假信息</title>
-      <link>https://www.theverge.com/2024/10/24/24278626/russia-disinformation-deepfakes-john-dougan-2024-election</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge； Getty Image
-
-根据《华盛顿邮报》审查的欧洲情报文件，在联邦调查局调查期间移居俄罗斯的一名前佛罗里达州警长是克里姆林宫支持的宣传者，负责针对卡马拉·哈里斯竞选活动的病毒式深度伪造视频和虚假信息。
-俄罗斯军事情报机构 GRU 为多个虚假新闻网站的运营商约翰·马克·杜根提供了资金。根据《华盛顿邮报》审查的文件，杜根负责多个似乎发布虚假本地新闻的网站，包括《华盛顿周刊》、《芝加哥纪事报》和《亚特兰大观察家》。这些文件主要关注 2021 年 3 月至今年 8 月之间的时间，显示 Dougan 与 GRU 29155 部队的军官 Yury Khoroshevsky 合作。两名欧洲安全官员告诉《华盛顿邮报》，Khoroshevsky 的部队负责破坏、政治干预行动和针对西方的网络战。
-
-据报道，Dougan 还与地缘政治专业知识中心合作，该中心是一家位于莫斯科的研究所，由极右翼俄罗斯民族主义者亚历山大·杜金 (Alexander Dugin) 创立。根据《华盛顿邮报》审查的文件，该中心主任瓦列里·科罗文 (Valery Korovin) 也与 Khoroshevsky 密切合作。文件显示，霍罗舍夫斯基于 2022 年 4 月开始向 Dougan 的银行账户存入款项，并经常与他和 Dougan 会面。Dougan 在他创建的网站难以访问西方人工智能生成器后收到了部分付款。
-虚假信息专家和政府一直在对俄罗斯特工试图影响 2024 年总统大选发出警报。拜登政府指控俄罗斯影响力运动运营网站和社交媒体账户来影响选举，并创建了虚假的社交媒体角色来传播虚假信息。 7 月，美国司法部查封了两个域名和 900 多个媒体账户，并声称这些账户是“人工智能增强型”俄罗斯机器人农场的一部分。
-虚假信息专家告诉《华盛顿邮报》，Dougan  可能还涉嫌传播针对明尼苏达州州长 Tim Walz 的虚假性行为不端指控视频。视频中的人自称是马修·梅特罗 (Matthew Metro)，沃尔兹 (Walz) 的前学生——但真正的马修·梅特罗 (Matthew Metro) 已经揭穿了视频和说法。
-NewsGuard 是一家在线追踪虚假信息的公司，它告诉《华盛顿邮报》，道根 (Dougan) 是这些说法的最初来源。在视频发布的 11 天前，Dougan 出现在播客中，与一名匿名男子一起，该男子自称是前哈萨克斯坦交换生，曾遭到 Walz 虐待。
-Dougan 告诉《华盛顿邮报》，他不是 DC Weekly 和其他网站的幕后推手，并表示他不认识 Korovin 或 Khoroshenky。他说自己是一家美国公司的 IT 顾问。
-“我假设地告诉你，如果它们是我的网站，”他说，“那么我只是以牙还牙，因为西方在撒谎，谎报正在发生的每一件事，”Dougan 说。“他们在撒谎。”]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278626/russia-disinformation-deepfakes-john-dougan-2024-election</guid>
-      <pubDate>Thu, 24 Oct 2024 20:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 离任领导人表示，没有公司准备好迎接 AGI</title>
-      <link>https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-OpenAI 的 AGI（即人类级人工智能）准备情况高级顾问 Miles Brundage 周三宣布离职时发出了严厉警告：没有人为通用人工智能做好准备，包括 OpenAI 本身。
-“无论是 OpenAI 还是其他任何前沿实验室都没有做好准备[对于 AGI]，世界也还没有准备好，”Brundage 写道，他花了六年时间帮助制定公司的 AI 安全计划。“需要明确的是，我不认为 OpenAI 领导层的这一声明有争议，值得注意的是，这与公司和世界是否按计划在相关时间做好准备是不同的问题。”
-他的离职是 OpenAI 安全团队一系列高调离职中的最新一次。著名研究员 Jan Leike在声称“安全文化和流程已经退居次要地位，而闪亮的产品才是重中之重”之后离职。联合创始人 Ilya Sutskever 也离职创办了自己的 AI 初创公司，专注于安全 AGI 开发。
-
-
-我刚刚向同事发送了此消息，并在博客文章中详细说明了我的决定和下一步行动（见下一条推文）：pic.twitter.com/NwVHQJf8hM— Miles Brundage (@Miles_Brundage) 10 月 23 日， 2024
-
-
-Brundage 的“AGI Readiness”团队解散，就在几个月前，该公司解散了致力于长期降低 AI 风险的“Superalignment”团队，这凸显了 OpenAI 最初的使命与其商业抱负之间日益加剧的紧张关系。据报道，该公司面临压力，必须在两年内从非营利组织转型为营利性公益公司，否则就有可能返还最近一轮 66 亿美元投资中的资金。这种商业化转变长期以来一直困扰着 Brundage，早在 2019 年 OpenAI 首次建立营利部门时，他就表达了保留意见。
-
-在解释他的离职时，Brundage 提到了这家知名公司对他的研究和出版自由的限制越来越多。他强调，在 AI 政策讨论中需要独立的声音，不受行业偏见和利益冲突的影响。在为 OpenAI 领导层提供内部准备方面的建议后，他相信自己现在可以从组织外部对全球 AI 治理产生更大的影响。
-此次离职也可能反映了 OpenAI 内部更深层次的文化分歧。许多研究人员加入推动人工智能研究，现在发现自己处在一个日益以产品为导向的环境中。内部资源分配已成为一个导火索——报告显示，在 Leike 的团队最终解散之前，该团队被剥夺了安全研究的计算能力。
-尽管存在这些摩擦，但 Brundage 指出，OpenAI 已提出以资金、API 积分和早期模型访问来支持他未来的工作，且不附带任何条件。]]></description>
-      <guid>https://www.theverge.com/2024/10/24/24278694/openai-agi-readiness-miles-brundage-ai-safety</guid>
-      <pubDate>Thu, 24 Oct 2024 19:31:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
