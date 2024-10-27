@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 12:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 15:14:31 GMT</lastBuildDate>
     <item>
       <title>道奇队以 4-2 击败洋基队，在世界大赛中以 2-0 领先，大谷翔平肩膀受伤</title>
       <link>https://www.npr.org/2024/10/27/g-s1-30195/dodgers-beat-yankees-4-2-for-2-0-world-series-lead-as-ohtani-injures-shoulder</link>
@@ -13,17 +13,17 @@
       <pubDate>Sun, 27 Oct 2024 11:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>糖果还是土豆？NPR 读者分享他们古怪的万圣节传统</title>
-      <link>https://www.npr.org/2024/10/27/g-s1-29931/halloween-costumes-traditions-activities</link>
-      <description><![CDATA[NPR 向读者征求了他们对万圣节传统的见解，结果没有让人失望。从为讨糖人准备的独特礼物到向亲人致敬，这些活动一点也不稀奇。]]></description>
-      <guid>https://www.npr.org/2024/10/27/g-s1-29931/halloween-costumes-traditions-activities</guid>
-      <pubDate>Sun, 27 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有感到压力很大，不知道下一步该做什么？试着和你的“部分”交谈</title>
       <link>https://www.npr.org/sections/shots-health-news/2024/10/25/nx-s1-5055753/parts-work-therapy-internal-family-systems-anxiety</link>
       <description><![CDATA[“部分工作”或“内部家庭系统”是一种越来越受欢迎的谈话疗法。以下是它的工作原理以及它如何帮助缓解压力。 ]]></description>
       <guid>https://www.npr.org/sections/shots-health-news/2024/10/25/nx-s1-5055753/parts-work-therapy-internal-family-systems-anxiety</guid>
+      <pubDate>Sun, 27 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>糖果还是土豆？NPR 读者分享他们古怪的万圣节传统</title>
+      <link>https://www.npr.org/2024/10/27/g-s1-29931/halloween-costumes-traditions-activities</link>
+      <description><![CDATA[NPR 向读者征求了他们对万圣节传统的见解，结果没有让人失望。从为讨糖人准备的独特礼物到向亲人致敬，这些活动一点也不稀奇。]]></description>
+      <guid>https://www.npr.org/2024/10/27/g-s1-29931/halloween-costumes-traditions-activities</guid>
       <pubDate>Sun, 27 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -55,13 +55,6 @@
       <pubDate>Sun, 27 Oct 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>这些摇摆州县是了解总统竞选的关键</title>
-      <link>https://www.npr.org/2024/10/27/nx-s1-5164527/swing-state-counties-election-harris-trump</link>
-      <description><![CDATA[这些县将有助于讲述前总统唐纳德·特朗普或副总统卡马拉·哈里斯将如何成为下一任总统的故事。]]></description>
-      <guid>https://www.npr.org/2024/10/27/nx-s1-5164527/swing-state-counties-election-harris-trump</guid>
-      <pubDate>Sun, 27 Oct 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>这是唯一可以乘坐菲律宾吉普尼的地方之一</title>
       <link>https://www.npr.org/2024/10/27/nx-s1-5135715/filipino-jeepney-san-francisco</link>
       <description><![CDATA[在菲律宾，这种受欢迎的、色彩鲜艳的小型巴士正在逐步淘汰，但您仍然可以乘坐它游览旧金山的菲律宾文化区。]]></description>
@@ -69,9 +62,16 @@
       <pubDate>Sun, 27 Oct 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>以色列袭击加沙造成 22 人死亡，特拉维夫附近卡车撞击事件造成数十人受伤</title>
+      <title>这些摇摆州县是了解总统竞选的关键</title>
+      <link>https://www.npr.org/2024/10/27/nx-s1-5164527/swing-state-counties-election-harris-trump</link>
+      <description><![CDATA[这些县将有助于讲述前总统唐纳德·特朗普或副总统卡马拉·哈里斯将如何成为下一任总统的故事。]]></description>
+      <guid>https://www.npr.org/2024/10/27/nx-s1-5164527/swing-state-counties-election-harris-trump</guid>
+      <pubDate>Sun, 27 Oct 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列袭击加沙造成 22 人死亡，特拉维夫附近发生卡车撞击事件造成一人死亡</title>
       <link>https://www.npr.org/2024/10/27/g-s1-30191/israel-strikes-northern-gaza</link>
-      <description><![CDATA[加沙卫生部紧急服务部门称，周六晚间对北部城镇贝特拉希耶多座房屋和建筑物的袭击造成 11 名妇女和 2 名儿童死亡。]]></description>
+      <description><![CDATA[加沙卫生部紧急服务部门称，周六晚间北部城镇贝特拉希耶多座房屋和建筑物遭到袭击，造成 11 名妇女和 2 名儿童死亡。]]></description>
       <guid>https://www.npr.org/2024/10/27/g-s1-30191/israel-strikes-northern-gaza</guid>
       <pubDate>Sun, 27 Oct 2024 08:55:21 GMT</pubDate>
     </item>

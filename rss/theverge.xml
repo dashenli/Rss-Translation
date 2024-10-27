@@ -4,7 +4,36 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 27 Oct 2024 12:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 15:15:18 GMT</lastBuildDate>
+    <item>
+      <title>苹果首款智能家居显示器或将向经典 iMac 致敬</title>
+      <link>https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design</link>
+      <description><![CDATA[
+
+看起来像 iMac G4 的智能家居显示器令人无法抗拒。 |照片：Wes Davis / The Verge
+
+据传，苹果将于明年发布的智能家居显示屏可能具有与 iMac G4 类似的外观，Bloomberg 的 Mark Gurman 在其 Power 中表示On 今日新闻通讯。
+新的智能家居显示屏显然很小。Gurman 写道，它将有一个方形显示屏，倾斜在一个小底座上方，这让它“让人想起几十年前 iMac G4 的圆形底部。”它可能配有扬声器，本质上就是带屏幕的 HomePod，据传这是苹果可能的智能家居未来之一。
+Gurman 没有透露这款设备的价格，但过去曾暗示一款带有方形显示屏的“经济实惠”的智能家居设备。有传言称，苹果将推出一款售价 1,000 美元的机型配备机械臂的机型，该机械臂可移动显示屏，但他今天重申，预计最早也要到 2026 年才会推出。这两款设备预计将运行一些 Apple 应用程序的定制版本，如 FaceTime、日历和 Notes，并可与Apple Intelligence 配合使用，而 Apple 目前的智能家居设备不支持该功能。 
+
+我很喜欢 iMac G4 的外观（毕竟我确实将其用作外接显示器）。传闻中的机器人显示器可能看起来很有吸引力，尤其是考虑到早期的 Apple 广告让 iMac G4 像皮克斯灯一样移动。如果 Apple 发布了一款可爱的小型智能家居版 iMac G4（无论是否是机器人），我可以把它放在厨房台面上，在做饭时使用定时器或 YouTube 视频？我很难拒绝。]]></description>
+      <guid>https://www.theverge.com/2024/10/27/24280830/apple-intelligence-smart-home-display-imac-g4-design</guid>
+      <pubDate>Sun, 27 Oct 2024 15:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Android 15 中的新私人空间功能</title>
+      <link>https://www.theverge.com/24279464/private-space-android-15-pixel-how-to</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24279464/private-space-android-15-pixel-how-to</guid>
+      <pubDate>Sun, 27 Oct 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是 Mac Mini 的重要时刻</title>
+      <link>https://www.theverge.com/2024/10/27/24278827/apple-mac-mini-m4-redesign-preview</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/27/24278827/apple-mac-mini-m4-redesign-preview</guid>
+      <pubDate>Sun, 27 Oct 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我一直在等待的 VR 游戏</title>
       <link>https://www.theverge.com/2024/10/27/24279432/batman-arkham-shadow-vr-quest-boox-palma-2-installer</link>
@@ -123,54 +152,6 @@ Google 可能正在开发类似于此处所示的电话呼叫状态的持续通�
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/26/24279276/survival-horror-silent-hill-2-fear-the-spotlight</guid>
       <pubDate>Sat, 26 Oct 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 替代品 Loops 即将登陆 Fediverse</title>
-      <link>https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open</link>
-      <description><![CDATA[
-
-图片：Loops
-
-联邦宇宙对 TikTok 的回应即将到来。据 TechCrunch 报道，Loops 本周开放注册，这是一款由 Instagram 替代品 Pixelfed 的创建者开发的短格式循环视频应用。
-根据开发人员 Daniel Supernault 在 Mastodon 上分享的详细信息，已注册的用户可以发布最长 60 秒的视频。他补充说，即将推出使用声音和重新混合他人视频的功能，以及固定个人资料视频，并且用户将能够“策划”他们的评论部分。视频可以分类，但尚不支持标签和提及。
-Loops Pixelfed 帐户发布了类似下面 Loops 运行的视频。Supernault 还发布了屏幕截图和屏幕录像。 
-
-
-
-创建帐户并非即时完成，因为您必须等待确认电子邮件，这可能需要一些时间，据 Supernault 称。其 iOS 应用程序将首先在 TestFlight 中提供，TestFlight 是 Apple 的一项测试未发布应用程序的程序，需要免费的开发者帐户。 Loops 还将拥有一款“可侧载”的 Android 应用，Supernault 发布。
-Loops 将依靠人工审核员，Supernault 在 Mastodon 上呼吁采用人工审核员。发布到网站上的视频将根据每个本地用户的信任分数进行审核，Supernault 发布。分数较低的人上传的视频将在发布前进行审核，而来自“受信任用户”的视频将立即发布。 
-
-Loops 的 fediverse 集成正在进行中但尚未上线，根据网站上的常见问题解答，该平台尚未开源。常见问题解答称，用户拥有自己的内容，Loops 不会向第三方广告商出售或提供视频，也不会根据这些视频训练 AI。该网站的资金来源于资助、赞助和捐赠。您可以在此处查看隐私政策。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open</guid>
-      <pubDate>Sat, 26 Oct 2024 14:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>湖畔小屋是《心灵杀手 2》的回归之作，也是通向未来的桥梁</title>
-      <link>https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24279410/alan-wake-2-the-lake-house-expansion-review</guid>
-      <pubDate>Sat, 26 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在与 Masimo 的智能手表专利纠纷中获胜（并获得 250 美元）</title>
-      <link>https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-Apple 在针对医疗设备制造商 Masimo 的专利侵权诉讼中取得了喜忧参半的胜利。周五，联邦陪审团裁定 Masimo 侵犯了苹果的部分专利，作为判决的一部分，苹果获得了 250 美元——是的，只有 250 美元——作为对 Masimo 侵权的法定补救措施。
-250 美元是涉嫌侵权的法定最低赔偿金，苹果要求获得该数字，彭博法律报道。据该出版物报道，苹果律师约翰·德斯马雷斯 (John Desmarais) 在结案陈词中对陪审员说：“我们来这里不是为了钱。”
-
-
-Masimo 的 W1 智能手表、Freedom 智能手表和健康模块侵犯了一项专利，而 Masimo 的充电器侵犯了另一项专利，根据判决书。陪审团还发现 Masimo 的侵权行为是故意的。
-今年早些时候，苹果公司停止在美国销售具有血氧功能的 Apple Watch Series 9 和 Ultra 2，此前国际贸易委员会裁定苹果侵犯了 Masimo 的脉搏血氧仪专利。最近推出的 Apple Watch Series 10 也缺少这些功能。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo</guid>
-      <pubDate>Sat, 26 Oct 2024 00:05:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
