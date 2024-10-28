@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 28 Oct 2024 01:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:34:30 GMT</lastBuildDate>
+    <item>
+      <title>UI 交互和动画综述#47</title>
+      <link>https://tympanus.net/codrops/2024/10/28/ui-interactions-animations-roundup-47/</link>
+      <description><![CDATA[过去几周的一组有趣且鼓舞人心的动画和运动设计概念。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/28/ui-interactions-animations-roundup-47/</guid>
+      <pubDate>Mon, 28 Oct 2024 09:33:59 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚焦：Maria Rakovic</title>
       <link>https://tympanus.net/codrops/2024/10/25/designer-spotlight-maria-rakovic/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索设计师 Sébastien Salord 与 Incredibles Development Studio 才华横溢的团队之间的动态合作，他们联手将 Duten 的数字形象提升到新的水平。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</guid>
       <pubDate>Thu, 17 Oct 2024 11:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有滚动触发效果的交错（3D）网格动画</title>
-      <link>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</link>
-      <description><![CDATA[一个有趣的概念，我们使用基于滚动的动画来创建 3D 网格效果和其他过渡。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/16/staggered-3d-grid-animations-with-scroll-triggered-effects/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:46:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
