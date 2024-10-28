@@ -4,19 +4,26 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Mon, 28 Oct 2024 15:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:21:15 GMT</lastBuildDate>
     <item>
-      <title>龙腾世纪：面纱守卫评论</title>
-      <link>https://www.ign.com/articles/dragon-age-the-veilguard-review</link>
-      <description><![CDATA[该系列的续集令人振奋，毫无疑问其在 RPG 万神殿中的地位。]]></description>
-      <guid>https://www.ign.com/articles/dragon-age-the-veilguard-review</guid>
-      <pubDate>Mon, 28 Oct 2024 15:00:00 GMT</pubDate>
+      <title>《奇异人生》：双重曝光评论</title>
+      <link>https://www.ign.com/articles/life-is-strange-double-exposure-review</link>
+      <description><![CDATA[出色的剧本和出色的人物让这部作品成为 2015 年原版作品的续集。]]></description>
+      <guid>https://www.ign.com/articles/life-is-strange-double-exposure-review</guid>
+      <pubDate>Mon, 28 Oct 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>异形：流氓入侵——首个预告</title>
       <link>https://www.ign.com/articles/alien-rogue-incursion-the-first-preview</link>
       <description><![CDATA[《异形：叛变入侵》终于将可怕的异形带入了虚拟现实 (VR) 领域，我们的第一次亲身体验给我们留下了深刻的印象。]]></description>
       <guid>https://www.ign.com/articles/alien-rogue-incursion-the-first-preview</guid>
+      <pubDate>Mon, 28 Oct 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙腾世纪：面纱守卫评论</title>
+      <link>https://www.ign.com/articles/dragon-age-the-veilguard-review</link>
+      <description><![CDATA[该系列的续集令人振奋，毫无疑问其在 RPG 万神殿中的地位。]]></description>
+      <guid>https://www.ign.com/articles/dragon-age-the-veilguard-review</guid>
       <pubDate>Mon, 28 Oct 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
@@ -41,11 +48,39 @@
       <pubDate>Mon, 28 Oct 2024 13:36:52 GMT</pubDate>
     </item>
     <item>
-      <title>《使命召唤：黑色行动 6》在 Steam 上的表现优于《现代战争 2》和《现代战争 3》，但仍落后于《战区》</title>
+      <title>《使命召唤：黑色行动 6》在 Steam 上的表现超越了《现代战争 2》和《现代战争 3》</title>
       <link>https://www.ign.com/articles/call-of-duty-black-ops-6-outperforms-modern-warfare-2-and-3-on-steam-though-still-falls-to-warzone</link>
-      <description><![CDATA[《使命召唤：黑色行动 6》在 Steam 上的表现超越了《现代战争 2》和《现代战争 3》，但未达到《战区 2.0》的最高玩家数量。]]></description>
+      <description><![CDATA[《使命召唤：黑色行动 6》在 Steam 上的表现优于《现代战争 2》和《现代战争 3》，玩家追踪网站 SteamDB 的数据显示，《使命召唤》应用在《黑色行动 6》发售的第一个周末同时在线玩家数量达到峰值 306,460 人。2022 年《现代战争 2》首周末同时在线玩家数量达到峰值 263,174 人，而普遍受到批评的《现代战争 3》同时在线玩家数量仅为 190,707 人。]]></description>
       <guid>https://www.ign.com/articles/call-of-duty-black-ops-6-outperforms-modern-warfare-2-and-3-on-steam-though-still-falls-to-warzone</guid>
       <pubDate>Mon, 28 Oct 2024 13:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>像素塔防代码（2024 年 10 月）</title>
+      <link>https://www.ign.com/articles/pixel-tower-defense-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/pixel-tower-defense-codes</guid>
+      <pubDate>Mon, 28 Oct 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《谋杀疑云 2 密码》（2024 年 10 月）</title>
+      <link>https://www.ign.com/articles/murder-mystery-2-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/murder-mystery-2-codes</guid>
+      <pubDate>Mon, 28 Oct 2024 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>篮球传奇代码（2024 年 10 月）</title>
+      <link>https://www.ign.com/articles/basketball-legends-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/basketball-legends-codes</guid>
+      <pubDate>Mon, 28 Oct 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>It Girl 代码（2024 年 10 月）</title>
+      <link>https://www.ign.com/articles/it-girl-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/it-girl-codes</guid>
+      <pubDate>Mon, 28 Oct 2024 05:30:00 GMT</pubDate>
     </item>
     <item>
       <title>澳大利亚人：赢得史诗级 EA SPORTS FC™ 25 奖品包</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/daily-deals-sonic-x-shadow-generations-silent-hill-2-and-more</guid>
       <pubDate>Sat, 26 Oct 2024 18:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>赛博朋克 2077：幻影自由如何成为一款生存恐怖游戏（仅就一项任务而言） - 关卡艺术</title>
-      <link>https://www.ign.com/articles/how-cyberpunk-2077-phantom-liberty-became-a-survival-horror-game-for-one-mission-art-of-the-level</link>
-      <description><![CDATA[CD Projekt Red 揭示了赛博朋克 2077：幻影自由 (Phantom Liberty) 生存恐怖结局背后的秘密。]]></description>
-      <guid>https://www.ign.com/articles/how-cyberpunk-2077-phantom-liberty-became-a-survival-horror-game-for-one-mission-art-of-the-level</guid>
-      <pubDate>Sat, 26 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pets Go 有代码吗？（2024 年 10 月）</title>
-      <link>https://www.ign.com/articles/pets-go-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/pets-go-codes</guid>
-      <pubDate>Sat, 26 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，苹果将制作《俄勒冈小道》电影，该电影将是一部带有芭比风格音乐的动作喜剧</title>
-      <link>https://www.ign.com/articles/apple-making-oregon-trail-movie-that-will-be-an-action-comedy-with-barbie-style-musical-numbers-report</link>
-      <description><![CDATA[苹果正在制作一部以《俄勒冈小道》为原型的电影。《俄勒冈小道》是一款深受玩家喜爱的教育类电脑游戏，在游戏玩家中引发了数代人的笑话和迷因。据报道，这将是一部动作喜剧，并带有一些芭比风格的音乐片段。]]></description>
-      <guid>https://www.ign.com/articles/apple-making-oregon-trail-movie-that-will-be-an-action-comedy-with-barbie-style-musical-numbers-report</guid>
-      <pubDate>Fri, 25 Oct 2024 22:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>《蜘蛛侠 2》1.004.000 版添加了新的图形模式和光线追踪</title>
-      <link>https://www.ign.com/articles/spider-man-2-version-1004000-adds-new-graphics-modes-and-ray-tracing</link>
-      <description><![CDATA[Insomniac Games 发布了《漫威蜘蛛侠 2》的更新，让玩家可以利用即将推出的 PlayStation 5 Pro 的图形和性能选项。]]></description>
-      <guid>https://www.ign.com/articles/spider-man-2-version-1004000-adds-new-graphics-modes-and-ray-tracing</guid>
-      <pubDate>Fri, 25 Oct 2024 20:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>《使命召唤：黑色行动 6 僵尸》测评正在进行中</title>
-      <link>https://www.ign.com/articles/call-of-duty-black-ops-6-zombies-review</link>
-      <description><![CDATA[良好的地图设计和令人兴奋的动作使得今年的模式迄今为止令人兴奋。]]></description>
-      <guid>https://www.ign.com/articles/call-of-duty-black-ops-6-zombies-review</guid>
-      <pubDate>Fri, 25 Oct 2024 20:05:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:22:35 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）安全的无限循环</title>
+      <link>https://sixcolors.com/feed-only/2024/10/the-infinite-loop-of-security-2/</link>
+      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
+      <guid>https://sixcolors.com/feed-only/2024/10/the-infinite-loop-of-security-2/</guid>
+      <pubDate>Mon, 28 Oct 2024 16:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence .1 评测：小小开端，大作为？</title>
+      <link>https://sixcolors.com/post/2024/10/apple-intelligence-1-review-a-small-start-of-something-big/</link>
+      <description><![CDATA[随着 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 的发布，Apple 正在搭上生成式 AI 列车。Apple Intelligence 是一套不同的功能，于今年早些时候在该公司的全球开发者大会上首次宣布，该公司将在未来几个月的几次软件更新中逐步推出这些功能。…]]></description>
+      <guid>https://sixcolors.com/post/2024/10/apple-intelligence-1-review-a-small-start-of-something-big/</guid>
+      <pubDate>Mon, 28 Oct 2024 16:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果推出 M4 iMac，采用全新配色和纳米纹理显示屏选项</title>
+      <link>https://sixcolors.com/post/2024/10/apple-introduces-m4-imac-with-revamped-colors-nano-texture-display-option/</link>
+      <description><![CDATA[Mac 发布周开始了。Apple 周一发布了改进后的 iMac 机型，采用新的 M4 处理器，并采用一系列大胆的新色调。…]]></description>
+      <guid>https://sixcolors.com/post/2024/10/apple-introduces-m4-imac-with-revamped-colors-nano-texture-display-option/</guid>
+      <pubDate>Mon, 28 Oct 2024 15:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>您可以放心使用 Clean Up</title>
       <link>https://sixcolors.com/post/2024/10/you-can-use-clean-up-with-a-clear-conscience/</link>
@@ -97,32 +118,6 @@ Magic Lasso Adblock：Safari 中网页浏览速度提高 2.0 倍
 一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。SEC 现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/10/1password-6/</guid>
       <pubDate>Fri, 18 Oct 2024 16:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 的密码生成算法强大但又“简单” ↦</title>
-      <link>https://sixcolors.com/link/2024/10/apples-strong-but-easy-password-generation-algorithm/</link>
-      <description><![CDATA[Apple 的 Ricky Mondello 概括介绍了该公司的密码生成系统如何尝试生成易于输入但仍然非常安全的密码：
-
-为了使这些密码更容易在布局不太理想的键盘上输入，例如我同事的游戏控制器，模式切换可能很困难，这些新密码实际上以小写字符为主。…]]></description>
-      <guid>https://sixcolors.com/link/2024/10/apples-strong-but-easy-password-generation-algorithm/</guid>
-      <pubDate>Fri, 18 Oct 2024 13:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）下游 80：不断变化的景观</title>
-      <link>https://sixcolors.com/podcast/2024/10/downstream-80-shifting-landscape/</link>
-      <description><![CDATA[Apple TV+ 登陆 Prime Video，Diamond 破产继续扰乱整个体育经济。[Downstream+ 听众可以了解到：ESPN Flagship、Paramount 和 NFL、体育转播的未来，以及对窄播的赞美。]…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/10/downstream-80-shifting-landscape/</guid>
-      <pubDate>Fri, 18 Oct 2024 00:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Pay 十周年，增添新亮点</title>
-      <link>https://sixcolors.com/post/2024/10/apple-pay-turns-10-adds-new-wrinkles/</link>
-      <description><![CDATA[我的第一笔 Apple Pay 交易，2014 年。
-很难相信 Apple Pay 十年前就推出了，而且我们现在已经达到了这样的程度，我可以链接到我十年前在当地 Whole Foods 第一次使用 Apple Pay 的故事：
-
-“哦，你要试试吗？”…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/apple-pay-turns-10-adds-new-wrinkles/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:17:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
