@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 28 Oct 2024 06:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 09:19:28 GMT</lastBuildDate>
+    <item>
+      <title>索尼“LinkBuds Open”评测：改善通话质量和电池寿命</title>
+      <link>https://wired.jp/review/sony-linkbuds-open-review/</link>
+      <description><![CDATA[索尼独特的开放式耳机“LinkBuds”已经更新。在音质方面有一些妥协，但凭借更长的电池寿命和新的声音特征，它是一款可以轻松佩戴一整天的产品。]]></description>
+      <guid>https://wired.jp/review/sony-linkbuds-open-review/</guid>
+      <pubDate>Mon, 28 Oct 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《reMarkable Paper Pro》评测：彩色E Ink进化的数字笔记本</title>
       <link>https://wired.jp/article/remarkable-paper-pro-review/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[哲学家彼得·戈弗雷-史密斯出版了一本新书《生活在地球》，这是《章鱼的身心问题》三部曲的最后一部，他认为我们人类创造了我们的存在在我们生活的世界中是不必要的。我认为它们是分开的。]]></description>
       <guid>https://wired.jp/article/sz-how-natural-are-we/</guid>
       <pubDate>Thu, 24 Oct 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成“深度伪造色情内容”的恶意人工智能机器人在 Telegram 上猖獗</title>
-      <link>https://wired.jp/article/ai-deepfake-nudify-bots-telegram/</link>
-      <description><![CDATA[消息应用程序 Telegram 拥有许多图像生成机器人，可以“脱掉照片中人物的衣服”。尽管政府和科技公司加大了打击力度，但人们仍在未经同意的情况下创建深度伪造图像。]]></description>
-      <guid>https://wired.jp/article/ai-deepfake-nudify-bots-telegram/</guid>
-      <pubDate>Thu, 24 Oct 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
