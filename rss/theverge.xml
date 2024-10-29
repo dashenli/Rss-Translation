@@ -4,207 +4,141 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 29 Oct 2024 15:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 18:21:59 GMT</lastBuildDate>
     <item>
-      <title>苹果发布重新设计的 Mac Mini，搭载 M4 芯片——而且非常小巧</title>
-      <link>https://www.theverge.com/2024/10/29/24281589/apple-mac-mini-redesign-m4-announcement-specs</link>
+      <title>Chrome 推出全新“性能”工具来管理那些占用大量内存的标签页</title>
+      <link>https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs</link>
       <description><![CDATA[
 
-图片：Apple
+插图：The Verge
 
-作为公司Mac 重点发布周的一部分，Apple 刚刚推出了一款尺寸更小但功能更强大的 Mac Mini。它现在配备了苹果最新的 M4 芯片，首次支持光线追踪，并默认配备 16GB RAM——这似乎是 Apple Intelligence 时代的新常态。这款机器仍以 599 美元起步，配备常规 M4 芯片，而功能更强大的 M4 Pro 型号起价为 1,399 美元。就像昨天发布的 更新版 iMac 一样，Mac Mini 现已接受预订，并将于 11 月 8 日在商店上架。
-您首先会注意到的是新设计。正如传言所说，Mini 已经缩小了很多——而且它本来就是一台相对较小的台式机。现在它简直是小得可怜，长度和宽度均为 5 英寸。如果你想知道苹果如何让设备保持低温运行，该公司表示这是通过 M4 的效率和“创新的散热架构，将空气引导到系统的不同层面，而所有通风都通过脚部完成。”
-即便如此，苹果还是为这款产品配备了大量 I/O：前面有两个 USB-C 端口和一个 3.5 毫米音频插孔。后面有以太网、HDMI 和三个 USB-C / Thunderbolt 端口。 USB-A 端口确实已成为历史，但值得注意的是，基础版 M2 Mini 只有两个 Thunderbolt 4 端口和两个 USB-A 端口。使用 M4，您将获得总共五个端口。因此，您将失去原生 USB-A，但获得一个额外的 Thunderbolt 端口。
-
-
-
-图片：Apple
-两种型号的端口数量相同，但只有 M4 Pro Mini 配备 Thunderbolt 5。
+Google 正在推出一些新功能Chrome 内存管理功能旨在帮助您更轻松地管理失控的标签。更新包括新的“性能问题警报”和对现有内存保护模式的一些调整，该模式已尝试在后台释放不活动标签的资源。
+当新的性能检测工具发现您的某个标签使用的资源超过其应有的量时，就会出现新的警报。通知会以类似于速度计的小图形显示在 Chrome 工具栏中您的帐户缩略图旁边。（如果我之前不知道，我可能会认为我不小心在浏览器中添加了 Ookla Speedtest 扩展程序。）如果您单击该图形，它将列出有问题的标签，并为您提供“关闭”或“立即修复”的选项。 
+它看起来是这样的：
 
 
-这些 Thunderbolt 端口的速度将根据您选择的 M4 处理器而有所不同。常规 M4 芯片包括 Thunderbolt 4，而 M4 Pro 可为您提供最新的 Thunderbolt 5 吞吐量。 
-M4 Pro Mac Mini 还拥有 14 个 CPU 和 20 个 GPU 核心，可提供更高的整体性能。常规 M4 的 RAM 最高可达 32GB，M4 Pro 的 RAM 最高可达 64GB。存储容量最高可达 8TB。因此，虽然 Mini 相当小，但只要你愿意花足够的钱，就可以让它变得非常强大。10 千兆以太网对于需要的人来说仍然是一个可选升级。 
-据传 Apple 将于本周发布 14 英寸和 16 英寸 MacBook Pro，我们很可能会看到 M4 Pro 芯片，以及性能更强大的 M4 Max 芯片，而 Mini 中没有这种芯片。但对于许多专业消费者和创意人士来说，Pro 应该已经足够了。
+GIF：Google
+
+Google 还更新了 Memory Saver，这是该公司于 2022 年引入 Chrome的一项功能，当标签页占用计算机资源时，该功能会暂停这些标签页。该公司写道，现在提供标准、平衡和高级模式。据谷歌称，标准模式会解读系统需求并为您管理标签，平衡模式则根据系统需求和浏览习惯运行，而高级模式会在您停止使用标签后以最快的速度停用它们。 
+
+要查看新设置，只需点击 Chrome 右上角的三点菜单，点击“设置”，然后点击左侧的“性能”选项卡。您应该会在“常规”下看到一个新的“性能问题警报”切换按钮，并在其下方的“内存”中看到更新的“内存保护程序”选项。如果您想查看性能问题警报切换按钮的外观，请参见我们的屏幕截图。
 
 
-
-图片：Apple
-配备 M4 Pro 的 Mac Mini 最多可运行三个 6K 显示器。
-
-
-对于 Apple 来说，这是忙碌的一周。 M4 iMac 于周一首次亮相，该公司还在 iOS、iPadOS 和 macOS 上推出了其首款 Apple Intelligence 软件功能。（更多 AI 功能，包括图像生成和 ChatGPT 集成，将于 12 月发布。）随着 Apple 推出其新硬件，明天可能会看到这些升级版 MacBook Pro 的首次亮相。该公司定于周四公布季度收益，届时它无疑将大力宣传其最新的 Mac 系列。]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24281589/apple-mac-mini-redesign-m4-announcement-specs</guid>
-      <pubDate>Tue, 29 Oct 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔沃和 Polestar 电动汽车现已获得特斯拉超级充电站的使用权</title>
-      <link>https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs</link>
-      <description><![CDATA[
-
-
-沃尔沃 和Polestar 是中国吉利旗下的两个瑞典汽车品牌，目前正向其电动汽车客户提供特斯拉超级充电网络的使用权。两家公司正在接受适配器订单，以便其电动汽车客户能够在全国 17,800 多个超级充电站充电。
-特斯拉卓越的充电体验和超级充电站的普及促使整个汽车行业宣布支持该公司的北美充电标准 (NACS)。所有非特斯拉电动汽车最初都需要适配器，但汽车制造商表示，他们打算最早从 2025 年开始生产在工厂安装原生 NACS 端口的汽车。 
-所有非特斯拉电动汽车最初都需要适配器
-福特、通用、日产和 Rivian 都已开始向其客户推出超级充电站。现在轮到沃尔沃和 Polestar 了。 福特和Rivian都在限时内免费提供适配器，之后才让客户购买，而通用汽车拒绝提供任何免费期。
-沃尔沃的做法略有不同。这家瑞典汽车制造商表示，购买 2025 款 EX90、EX40 或 EC40 的任何人都可以免费获得 NACS 适配器。但现有的沃尔沃电动汽车车主必须从任何沃尔沃经销商或服务中心订购适配器，价格为 230 美元。 
-Polestar 表示将通过其服务点销售适配器，但没有提到在购买新款 Polestar 2 或 3 时是否包括它们。沃尔沃表示订单将于 11 月 18 日开始发货，而 Polestar 只是说“11 月中旬”。 
-两家公司都在更新其基于 Android 的信息娱乐软件，以便特斯拉超级充电站出现在其车辆的导航中。更新还将包括每个站点的实时可用性，以及每次充电的无缝支付方式。 
-适配器的推出并非完全没有问题。福特不得不告诉部分客户停止使用适配器，因为有报道称其充电速度会随着时间的推移而降低。供应限制也导致一些客户无法收到适配器。
-特斯拉表示，它正在加大生产其位于纽约州布法罗的超级工厂的适配器。一些第三方 NACS 适配器供应商也在尝试解决挥之不去的设计缺陷和其他安全问题，以便他们也可以加入竞争并帮助满足需求。]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282667/volvo-polestar-tesla-supercharger-adapter-nacs</guid>
-      <pubDate>Tue, 29 Oct 2024 14:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playdate 立体声底座已下架</title>
-      <link>https://www.theverge.com/2024/10/29/24282637/panic-playdate-stereo-dock-bluetooth-speaker-pause-development-challenges</link>
-      <description><![CDATA[
-
-Playdate 立体声底座，再见了。 |屏幕截图：Playdate
-
-好吧，我们终于知道Panic 的 Playdate 立体声底座了。它不会来了——至少，暂时不会。在立体声底座页面的更新中，该公司描述了在获得良好原型时面临的挑战，但表示，最终，该设备没有达到其标准。
-立体声底座将是一个小型桌面蓝牙扬声器和笔架，您可以将 Playdate 连接到它。恐慌首先在 2021 年宣布了立体声底座，当时它仍在努力发布 Playdate。 
-在网页上，该公司描述了将立体声底座推向市场所面临的意外挑战： 
-
-发生了什么？好吧，我们的第一个遗憾是假设我们当时的工厂——一家生产大量蓝牙扬声器的工厂——可以轻松地为我们设计电子产品，为我们节省大量时间和金钱。一开始一切顺利。但他们又将蓝牙软件和芯片组外包给了另一个国家/地区的另一公司。
-结果，立体声基座经常崩溃 — 快速调节音量就会崩溃。蓝牙配对/取消配对体验很差。当我们播放音乐时，声音效果不是很好。三家公司之间来回沟通修复错误成为一个巨大的挑战。最糟糕的是：立体声基座的成本越来越高。
-
-
-
-GIF：Panic
-Playdate 立体声底座仍有可能在未来某一天问世。
-
-最终，Panic 表示不得不“暂停”立体声底座的开发，因为开发该设备所花费的资金超过了其可能赚回的钱，而且原型虽然“很漂亮”，但还不够好。 “如果我们要发货产品，”该公司写道，“它至少必须是好的。” 
-与此同时，Panic 表示，它正专注于 Playdate，“因为我们的新工厂上线，生产再次恢复。”该公司计划于 10 月 31 日美国东部时间下午 1 点展示一些更新和惊喜。]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282637/panic-playdate-stereo-dock-bluetooth-speaker-pause-development-challenges</guid>
-      <pubDate>Tue, 29 Oct 2024 14:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 Mac 日历应用之一现已适用于 Windows</title>
-      <link>https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app</link>
-      <description><![CDATA[
-
-Fantastical for Windows 已具备与 Mac 应用同等的全部功能。 |图片：Flexibits
-
-Fantastical 是市场上最好、最强大的日历应用之一。自 2011 年首次推出以来，它比普通的日历工具更美观、更易于使用。我已经使用这款应用很多年了，每次我换用它时，我都会回来，因为它的设计、自然语言处理功能（只需输入“周五 12:30 在 Panera 与 Arthur 共进午餐”即可创建活动）以及与待办事项列表应用的集成。它是一款昂贵的应用，所有功能每年收费 57 美元或每月 7 美元，但对于任何依靠日历的人来说，它都是值得的。只要你只有 Apple 设备。
-现在，Fantastical 终于要登陆最重要的生产力平台：Windows。 Fantastical 的开发商 Flexibits 表示，Windows 应用程序包含了其他平台的所有功能，是一个真正的原生应用程序，而不是一个 Web 包装器或黑客端口。不过，有一个警告：它还不是 Arm 原生应用，因此如果您使用的是 Copilot Plus PC 或类似设备，您现在必须通过模拟器运行 Fantastical。但 Flexibits 表示 Arm 版本即将推出。
-
-Flexibits 首席执行官 Michael Simmons 在宣布该应用的新闻稿中表示，多年来，Windows 支持一直是 Fantastical 用户的首要功能请求。该公司将此次发布称为 Fantastical 4.0，尽管新平台是唯一的新功能。Fantastical 现在适用于 Mac、iOS、iPadOS、Apple Watch、Vision Pro 和 Windows；目前仍缺少 Android 这个大品牌，但目前还没有消息。
-如果您是 Windows 用户，并且最终第一次下载 Fantastical，这里有一些专业提示。从免费版开始，它包含大多数基本日历功能，对很多人来说已经足够了。如果您确实付费，我最喜欢 Fantastical 的地方是它一键加入视频会议的方式，因此请确保您集成了所有视频应用程序。 Fantastical Openings 基本上就像内置于 Fantastical 中的 Calendly，如果您需要这个功能，它也非常好用。但经过这么长时间，这款应用最棒的地方仍然是它的外观，以及添加和移动事件的便捷性。它是一款非常强大的用户工具，但它是一款好工具。
+屏幕截图：Chrome 设置
+我们可能还没有新的内存保护程序，因为我们的模式名称是“中等”、“平衡”和“最大”。
 ]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app</guid>
-      <pubDate>Tue, 29 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/29/24282864/chrome-performance-detection-issue-alerts-memory-saver-management-tabs</guid>
+      <pubDate>Tue, 29 Oct 2024 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>凯迪拉克首款性能电动车是 Lyriq-V</title>
-      <link>https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026</link>
+      <title>Netflix 与环球影业达成协议将增加更多真人电影</title>
+      <link>https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation</link>
       <description><![CDATA[
 
-2026 款凯迪拉克 Lyriq-V | 图片：凯迪拉克
+图片：环球影业
 
-凯迪拉克正在推出其全电动 Lyriq SUV 的全新性能版本。新款 2026 Lyriq-V 是豪华汽车制造商首款获得 V 系列徽章的电动汽车，将首先登陆北美、澳大利亚和新西兰，随后还将登陆其他市场。具体的发布日期和定价尚未公布，但我们可以预计 2026 款车型将于明年此时上市。
-在给 The Verge 的一封电子邮件中，凯迪拉克生产通讯代表凯蒂·明特 (Katie Minter) 写道，该公司将在 2025 年初分享有关 Lyriq-V 功能和规格的更多信息。
-虽然我们对 Lyriq-V 几乎一无所知，但通用汽车表示，V 系列车辆采用 AWD 标准，具有“瞬时加速”，这也是电动汽车的普遍优势，因为它们以提供瞬时扭矩而闻名。今年 3 月，凯迪拉克推出了一款名为“Opulent Velocity”的全电动 V 系列概念车，以庆祝该子品牌成立 20 周年。您可以在多款凯迪拉克车型上获得 V 系列性能装饰，包括 Escalade。
+Netflix 将在其阵容中引入更多环球影业电影，这要归功于新协议将从 2027 年开始将该工作室的真人电影发送给流媒体。根据协议，环球影业和焦点影业的真人电影将在影院上映后不迟于 8 个月在 Netflix 上映。新安排还包括续签他们与环球影业旗下的照明娱乐和梦工厂动画 (DWA) 的动画电影的独家许可协议。
+环球影业的真人电影在 Peacock 上首映后，Netflix 将在 10 个月内独家播放——但这些电影将在这个窗口期结束时返回 NBC 旗下的服务。这最终将取代亚马逊与该工作室的现有交易（该交易始于 2022 年），因为 Netflix 和 NBCUniversal 的关系越来越密切，尽管流媒体播放的内容类型类似比如现场 NFL 比赛，以及WWE 即将从 NBCUniversal 转移到 Netflix，但 Netflix 和 NBCUniversal 的关系仍在不断密切。明年。
+Peacock 在 7 月份提高了其服务价格，并报告称在之前的几个月中失去了 50 万订阅用户。
 
-
-
-图片：凯迪拉克
-Lyriq-V 后部带有 V 系列徽章。
-
-凯迪拉克 Lyriq 于 2022 年首次推出，不仅是该品牌的首款电动车，也是目前最实惠的电动车：起价 59,990 美元（RWD），含目的地税、牌照费和经销商费。凯迪拉克的其他电动汽车包括其昂贵的定制 Celestiq 轿车和Escalade IQ；今年晚些时候，该公司计划推出其入门级 Optiq，而三排 Vistiq 将于明年初上市。]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282592/cadillac-lyriq-v-series-performance-2026</guid>
-      <pubDate>Tue, 29 Oct 2024 13:53:34 GMT</pubDate>
+Netflix 和环球影业现有的协议已经带来了《超级马里奥兄弟大电影》、《欢乐好声音 2》等电影， 《爱宠大机密》、《功夫熊猫 4》 都已出售给 Netflix。现在协议已经续签，我们将在未来看到更多即将上映的动画电影，如《超级马里奥兄弟 2》、《怪物史莱克 5》和《小黄人 3》。Netflix 还获得了从环球影业电影库中“精选”影片的版权。
+作为本月早些时候收益报告的一部分，Netflix 强调了向观众提供“广泛内容”的重要性。该公司表示，其目标是确保“全年不断推出精彩的新电视节目、电影和游戏”。
+披露：康卡斯特是 Vox Media（The Verge的母公司）的投资者。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24282823/netflix-licensing-deal-universal-films-live-action-animation</guid>
+      <pubDate>Tue, 29 Oct 2024 18:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>The Verge 的 2024 年总统大选指南</title>
-      <link>https://www.theverge.com/24279527/2024-presidential-election-guide-tech-policy</link>
-      <description><![CDATA[
-
-图片：Mr.Nelson 为 The Verge / Getty Images 设计
-
-总统竞选是一种意识形态的表达，通常以一系列承诺的形式表达出来。有时，即使这些承诺超出了总统可以颁布的范围，总统也会做出承诺。随着副总统卡马拉·哈里斯 (Kamala Harris) 挑战前总统唐纳德·特朗普 (Donald Trump)，The Verge 的选举指南试图消除竞选活动的噪音，以确定实际涉及的政策。对于科技行业来说，许多问题悬而未决，包括监管人工智能、垄断和加密货币的权力。更广泛地说，这次选举将决定电动汽车的未来以及美国如何应对气候变化。
-但The Verge 在这次选举中的利害关系不仅仅是技术问题。每天，我们都会带领读者了解困扰硬件、软件、互联网和构成我们未来的所有其他基石的集体行动问题。一旦你开始寻找集体行动问题，你就会随处可见。这次选举的利害关系在于政府是否有责任解决这些问题——或者是否有人应该费心去尝试。]]></description>
-      <guid>https://www.theverge.com/24279527/2024-presidential-election-guide-tech-policy</guid>
-      <pubDate>Tue, 29 Oct 2024 13:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的两种可能未来</title>
-      <link>https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast</link>
-      <description><![CDATA[  图片：The Verge 图片来源：CHONA KASINGER/Bloomberg 和 ULIEN DE ROSA/AFP via Getty Images&lt; /figcaption&gt;  您讲述的关于人工智能未来的故事很重要。人工智能是否只是人类使用的工具，就像其他软件一样？它是一股毁灭创造力的邪恶力量吗？它会创造出一心想毁灭的机器人吗？还是它会以我们能想象的方式让世界变得不可思议、美丽、平等、完美？甚至无法想象？ 
-这会让你震惊，但一些经营着人工智能领域最大公司的人士认为是后者。OpenAI 首席执行官 Sam Altman 和 Anthropic 首席执行官 Dario Amodei最近写了博客文章——Altman 的简短而精辟，Amodei 的冗长而彻底——关于他们希望帮助创建的人工智能世界。这些人实力强大，拥有庞大的团队和丰富的资源；他们认为自己在建造什么非常重要。
-
-在本期The Vergecast，The Verge的Kylie Robison 参加节目，讨论 CEO 博客之间的对决，包括 Amodei 和 Altman 意见一致和不一致的事情。她还向我们介绍了一些大型车型的发布left今年即将到来，这意味着 LLM 竞争的无休止的游戏可能很快就会结束。
-之后，Will Poor 向我们讲述了ShakeAlert，一款旨在地震即将来临时向数百万人发出警报的应用程序和平台。如果你曾经读过那篇著名的纽约客文章，你就知道为什么威尔会对地震感到紧张了。事实证明，我们有一些方法可以帮助人们——尽管其中也存在一些相当令人惊讶的挑战。
-最后，Allison Johnson 与 Will 一起回答了 Vergecast 热线 (866 -VERGE11，或发送电子邮件至 vergecast@theverge.com！) 了解有关相机控制按钮的信息iPhone 16。苹果对它的速度有很多话要说……但我们必须自己去发现。
-如果你想了解更多关于我们在本集，以下是一些入门链接，从 AI 开始：
-
-Sam Altman : 情报年龄
-Dario Amodei：Machines of Loving Grace 
-Anthropic 的首席执行官认为人工智能将引领我们走向乌托邦——他只需要先投入数十亿美元
-OpenAI 计划发布 Orion AI 模型十二月
-
-关于 ShakeAlert：
-
-来自《纽约客》：真正大事件
-
-ShakeAlert
-MyShake for iOS 和 Android
-
-来自 Apple：如何在 iPhone 上开启紧急警报和政府警报
-
-&lt; li id=&quot;YFy5J8&quot;&gt;Ready.gov 的地震建议
-
-在相机控制上：
-
-Apple iPhone 16 和 16 Plus 评测：全部赶上&lt; /li&gt;
-Apple iPhone 16 Pro 评测：小相机更新，大差异
-]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast</guid>
-      <pubDate>Tue, 29 Oct 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这次选举将决定你会买什么样的车</title>
-      <link>https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car</link>
+      <title>微软并没有秘密在你的 Windows PC 上安装 Recall</title>
+      <link>https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24279434/presidential-election-trump-biden-harris-ev-2024-electric-vehicle-car</guid>
-      <pubDate>Tue, 29 Oct 2024 13:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall</guid>
+      <pubDate>Tue, 29 Oct 2024 18:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>Vizio 的新款“MicMe”条形音箱内置卡拉 OK</title>
-      <link>https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones</link>
+      <title>索尼关闭 Concord 工作室并永久关闭该游戏</title>
+      <link>https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios</link>
       <description><![CDATA[
 
-这款条形音箱有一个秘密。 | 图片：Vizio
+图片：索尼
 
-是只有我这么觉得，还是卡拉 OK 机的潮流正在卷土重来？举几个例子，有 Apple Music Sing 功能、福特的车载卡拉 OK 应用，以及山水的廉价新款 OLED 电视。现在，Vizio 推出了一款名为“MicMe”的全新 2.1 立体声条形音箱和低音炮，配备了两个无线麦克风和一个专用卡拉 OK 应用程序，加入行动。这款音箱配有两个无线麦克风和一个专用卡拉 OK 应用程序。它还具有“六种语音增强功能”（根据 Vizio 通过电子邮件发送给The Verge的详细信息，对于我们音调有问题的朋友，它包括多个音调校正设置。）
-麦克风的电池续航时间为 8 小时，并且有一个可以放在电视旁边的充电座。它们内置 LED，有九种环境颜色选项，使用时，您唱得越大声，LED 就越亮。您可以在麦克风和 Vizio 应用程序中调整输入音量、LED 灯和人声效果，当您唱完歌并将麦克风放回支架时，MicMe 将自动恢复使用电视音频。
+索尼正在关闭 Firewalk Studios，该工作室是其 PlayStation Concord 游戏背后的制作公司，该公司在上个月发布灾难性版本后下线。PlayStation 工作室业务集团首席执行官 Hermen Hulst 在致 PlayStation 员工的一条消息中表示，Firewalk Studios 将与移动游戏工作室 Neon Koi 一同关闭。
+“过去几个月，我们花了大量时间探索所有选择，”Hulst 说道。“经过深思熟虑，我们确定最好的前进道路是永久停产该游戏并关闭工作室。我要感谢 Firewalk 的所有人，感谢他们的精湛技艺、创新精神和奉献精神。”
+Hulst 表示，Concord没有达到索尼的目标，PlayStation 制造商将“吸取Concord的教训，继续提升我们的实时服务能力，以实现该领域的未来增长。”
+Concord于 8 月 23 日在 PS5 和 PC 上首次亮相，但由于游戏销量不佳，索尼于 9 月 6 日下线了该游戏。 据估计，销量低于 25,000，而Concord在 Steam 上仅创下了 697 名玩家的历史最高纪录，低于《指环王：咕噜》的发布峰值。
 
-
-图片：Vizio
-确实可以按照我的方式免费使用。
-
-整个过程都与 MicMe Karaoke App 配合使用，这是一款免费的、广告支持的应用程序，可以访问超过 85,000 首歌曲。但您不必使用它；它可以与其他卡拉 OK 应用程序以及电视上的音乐或从其他设备投射的音乐配合使用。 （专业提示：YouTube 上有无数卡拉 OK 版本的歌曲。）
-作为条形音箱，MicMe 具有一些不错的功能，支持 eARC、杜比全景声和 DTS:X 音频，以及无线低音炮。MicMe 售价 349.99 美元，该公司表示将在网上和沃尔玛、亚马逊等零售商处发售，并于 11 月底发货。
-]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones</guid>
-      <pubDate>Tue, 29 Oct 2024 13:00:42 GMT</pubDate>
+索尼的 Neon Koi 移动游戏开发工作室也将关闭，尽管 Hulst 表示“移动端仍然是优先增长领域”。 索尼最初于 2022 年收购了这家德国-芬兰工作室，当时它被称为 Savage Game Studios，该团队正在开发一款未公布的 3A 移动实时服务动作游戏。
+“通过这种重新聚焦的方法，Neon Koi 将关闭，其移动动作游戏将不会向前发展，”Hulst 说。 “这两个决定都经过了认真考虑，最终，我们认为它们是加强组织的正确决定。”
+一些受影响的开发人员可能会在索尼的其他工作室找到职位，但其余的开发人员将加入游戏行业中过去几年被解雇的数千名开发人员。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24282900/sony-shutting-down-concord-firewalk-studios</guid>
+      <pubDate>Tue, 29 Oct 2024 17:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>Lucid 宣布即将推出的 Gravity SUV 的定价</title>
-      <link>https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation</link>
+      <title>您可以在这里预订 Apple 新款 iMac 和 Mac Mini（配备 M4）</title>
+      <link>https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24279801/apple-macbook-pro-mac-mini-imac-m4-preorder-buy-price-release-date</guid>
+      <pubDate>Tue, 29 Oct 2024 17:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些书签应用可以整理你以后要保存的所有内容</title>
+      <link>https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop</guid>
+      <pubDate>Tue, 29 Oct 2024 17:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼降噪耳机 XM5 已降至迄今为止最低价格之一</title>
+      <link>https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale</guid>
+      <pubDate>Tue, 29 Oct 2024 16:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂的开放世界角色扮演游戏《异度之刃 X》即将重制，登陆 Switch 平台</title>
+      <link>https://www.theverge.com/2024/10/29/24282741/xenoblade-chronicles-x-nintendo-switch-release-date-march-2025</link>
       <description><![CDATA[
 
-照片由 John Keeble/Getty Images 拍摄
+图片：任天堂
 
-Lucid Motors 公布了其 即将推出的 Gravity SUV，预计将于今年晚些时候投入生产。
-首先，Lucid 将出售 Gravity 的两个版本：Touring 和 Grand Touring。Grand Touring 的起价为 94,900 美元，并将于 2024 年底率先投入生产。Gravity Touring 车型的起价为 79,900 美元，要到 2025 年底才会投入生产。
-Lucid 将于 11 月 7 日开始接受 Gravity 的订单。现有的 Lucid 客户将优先收货。所有客户都可以在 Lucid 的网站上设计、配置和订购他们的车辆。 
-Lucid 没有提供任何有关送货费或奖励的详细信息。该公司已对其 Air 轿车应用了 7,500 美元的折扣，以弥补其车辆不符合联邦电动汽车税收抵免条件的事实。 （Lucid 的车辆价格过高，无法享受补贴，补贴仅适用于售价低于 55,000 美元的轿车以及售价低于 80,000 美元的 SUV 和卡车。）
-近年来，Lucid 还多次下调 Air 价格，因为在多个市场电动汽车销售增长普遍放缓的背景下，该公司难以创造需求。该公司报告称上季度交付量创下纪录，但也多次向其大股东沙特公共投资基金寻求更多现金。
-去年发布时，Lucid 表示这款 SUV 的续航里程可达 440 英里，功率为 800 马力，0-60 英里/小时加速时间不到 3.5 秒。 Gravity 还将成为 Lucid 首款配备原生 NACS 充电端口的汽车，该端口与特斯拉的超级充电网络兼容。
+虽然距离 Switch 继任者的发布只有几个月的时间，但任天堂仍然当前硬件的一些未完成的工作。任天堂宣布，《异度之刃 X：终极版》将于 2025 年 3 月 20 日在 Switch 上发布，该游戏是 Monolith Soft 2015 年动作角色扮演游戏的重制版。根据新闻稿，重制版增强了视觉效果并增加了故事元素。
 
-]]></description>
-      <guid>https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation</guid>
-      <pubDate>Tue, 29 Oct 2024 13:00:00 GMT</pubDate>
+
+任天堂发布了一部新预告片来纪念这一时刻，开场几秒钟让人感觉非常搞笑。这款十年前 Wii U 游戏的 Switch 移植版预告片以这样的对话开头，颇具讽刺意味：“好吧，我们来了。还不错，是吧？”这就像一个玩笑，承认有大量 Wii U 游戏急需拯救（咳嗽风之杖咳嗽），而异度之刃 X 是幸运的，从沉没的、无法接近的任天堂旧目录的船只上救出了救生艇。 
+除了移植旧的 Wii U 游戏外，任天堂还在 Switch 的暮色中发布新游戏。Mario &amp; Luigi: Brothership 将于下周发布。任天堂还确认，Metroid Prime 4 也将在 Switch 上发布。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24282741/xenoblade-chronicles-x-nintendo-switch-release-date-march-2025</guid>
+      <pubDate>Tue, 29 Oct 2024 16:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot 将支持 Anthropic、Google 和 OpenAI 的模型</title>
+      <link>https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+GitHub 正在为其 Copilot 代码完成和编程工具提供多模型。开发人员很快就能为 GitHub Copilot 选择 Anthropic、Google 和 OpenAI 的模型。 GitHub 还在今天的 GitHub Universe 大会上宣布了用于构建 Web 应用的 AI 工具 Spark，以及 VS Code 中 GitHub Copilot、Xcode 版 Copilot 的更新等。
+Web 或 VS Code 上的 GitHub Copilot 用户可以选择 Claude 3.5，未来几周将选择 Gemini 1.5 Pro。OpenAI 的 GPT-4o、o1-preview 和 o1-mini 模型也将很快在 GitHub Copilot 中推出。开发人员将能够在与 Copilot Chat 对话期间在模型之间切换，以找到最适合特定任务的模型。
+“没有一个模型可以统治所有场景，开发人员希望机构使用最适合他们的模型进行构建，”GitHub 首席执行官 Thomas Dohmke 说。 “很明显，AI 代码生成的下一阶段不仅将由多模型功能定义，还将由多模型选择定义。”
+微软旗下的 GitHub 率先在 2021 年推出了名为 Copilot 的 AI 工具，领先于微软推动将 Copilot 打造为其 AI 工作的中心。这是微软最初向 OpenAI 投资 10 亿美元 的第一个重大成果，GitHub 上周宣布 Copilot 现在拥有超过 100 万付费用户。微软是否会采用 GitHub 的多模型方法，并向谷歌和 Anthropic 等竞争对手的模型开放自己的 Copilot AI 助手，这将会很有趣。
+GitHub 今天还宣布推出 Spark，这是一种 AI 工具，可以更轻松地使用自然语言构建 Web 应用程序。初始提示使用 OpenAI 和 Anthropic 模型来生成 Web 应用程序的实时预览，GitHub Spark 用户可以在进行更改时比较版本。GitHub Spark 让经验丰富的开发人员直接操作代码，而新手可以完全使用自然语言创建 Web 应用程序。
+创建应用程序后，您可以在桌面、平板电脑或移动设备上运行它，也可以与其他人共享该应用程序，让人们重新混合和构建 Spark 应用程序。GitHub Spark 是 GitHub 吸引 10 亿开发人员愿景的一部分。 “长期以来，世界上绝大多数人与软件开发之间存在着一道难以逾越的门槛，”Dohmke 说道。“借助 Spark，我们将使超过 10 亿个人电脑和手机用户能够直接在 GitHub 上构建和分享自己的微型应用。”
+GitHub 今天还在其 GitHub Universe 上宣布了对 Copilot 的更多更新。VS Code 中 GitHub Copilot 的多文件编辑功能将于 11 月 1 日推出，允许用户使用 Copilot Chat 同时编辑多个文件。Copilot Extensions 也将于 2025 年初推出，GitHub Copilot for Xcode 进入公开预览阶段，Copilot 现在具有新的代码审查功能。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement</guid>
+      <pubDate>Tue, 29 Oct 2024 16:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESPN 将在 Fortnite 中推出一款游戏</title>
+      <link>https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney</link>
+      <description><![CDATA[
+
+图片：迪士尼
+
+迪士尼正在推出一款与堡垒之夜 (Fortnite) 相关的体验 — 但这并不是今年早些时候预告的包含所有迪士尼内容的大型“持久宇宙”。今天推出的这项新体验完全是关于 ESPN 的，它被称为 ESPN Football Island。
+在体验中，您将能够参与活动、挑战、迷你游戏，以及一款名为“Touchdown Rush”的大型Payload 风格游戏，在游戏中，您需要在足球向端区移动时保护它不被对手抢走。 ESPN Football Island 还将具有持续的进展和自己的可解锁外观，这些外观将是该体验独有的。
+
+ESPN Football Island 是使用虚幻编辑器 for Fortnite (UEFN) 构建的，这是 Epic 去年推出的一套强大的开发工具，可让人们获得 Fortnite 体验。虽然这个 ESPN 岛是迪士尼品牌的体验，与《堡垒之夜》的主要大逃杀模式无关，但迪士尼的资产在大逃杀中经常出现，包括最新一季的漫威主题。
+如果您想亲自尝试 ESPN 足球岛，您可以通过在堡垒之夜菜单中输入代码 4481-0077-4190 来访问它。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24279789/fortnite-espn-football-island-disney</guid>
+      <pubDate>Tue, 29 Oct 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
