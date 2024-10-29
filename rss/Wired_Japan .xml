@@ -4,7 +4,14 @@
     <title>连线日本</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 29 Oct 2024 01:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:24:33 GMT</lastBuildDate>
+    <item>
+      <title>复杂系统及其出现之谜：宏观秩序是如何创造的？</title>
+      <link>https://wired.jp/article/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/</link>
+      <description><![CDATA[在由无数元素组成的复杂系统中，宏观规律是如何出现的？ 有了新的框架，包括物理学家、神经科学家和复杂系统科学家在内的研究人员距离解决这个问题越来越近了。]]></description>
+      <guid>https://wired.jp/article/the-puzzle-of-how-large-scale-order-emerges-in-complex-systems/</guid>
+      <pubDate>Tue, 29 Oct 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“Liquid AI”宣布了基于新基础技术的人工智能模型。受线虫启发的神经网络</title>
       <link>https://wired.jp/article/liquid-ai-redesigning-neural-network/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[选举即将来临。主编发给SZ的消息，看看腐败和政局为焦点的日本，和意识形态两极分化过度冲突的美国，思考未来的艰难的争论。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-259/</guid>
       <pubDate>Fri, 25 Oct 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prada 联合开发宇航服将人类带回月球</title>
-      <link>https://wired.jp/article/axemu-axiomspace-prada/</link>
-      <description><![CDATA[阿耳忒弥斯是由美国宇航局领导的载人月球探索计划。计划于 2026 年 9 月执行阿耳忒弥斯 III 任务期间在月球和轨道上进行舱外活动时穿着的宇航服的设计已经发布。这就是Axiom Space和Prada联合开发的“AxEMU”。当然，它充满了创新和精致，而且佩戴起来（显然）也很舒适。]]></description>
-      <guid>https://wired.jp/article/axemu-axiomspace-prada/</guid>
-      <pubDate>Fri, 25 Oct 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
