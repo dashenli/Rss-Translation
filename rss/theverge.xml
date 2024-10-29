@@ -4,7 +4,27 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 29 Oct 2024 01:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 09:17:28 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊泄露搭载 M4 Pro 的微型 Mac Mini</title>
+      <link>https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+亚马逊提前分享了新款 Mac Mini 的详细信息，从而破坏了苹果 Mac 发布周的预告。该列表已被撤下，但 MacRumors 设法先截取了一些屏幕截图。
+新款银色 Mac Mini 的一张小图片显示了一个耳机插孔和两个前置 USB-C 端口，大概至少支持 Thunderbolt 4。它配备了新款 M4 芯片组的基本版或专业版，最多可配备 14 个 CPU 内核、20 个 GPU 内核、64GB 内存和 8TB 存储空间。目前，背面的端口仍是一个谜。
+M4 将比当前 Mac Mini 中的 M2 有显著提升，上次更新是在 2023 年 1 月。根据彭博社的 Mark Gurman 的之前的报道，这种性能提升应该有助于当前和未来的 Apple Intelligence 处理，从 15.8 TOPS 跃升至 38 TOPS。
+
+
+图片：MacRumors
+亚马逊发布的 Mac Mini 对比图。
+
+Gurman 还指出，新款小型 Mini 的尺寸接近 Apple TV 流媒体的大小。从与 Mac Studio 的并排比较来看，它确实看起来很小，从尺寸和性能方面来看，这应该会让它成为一款非常引人注目的 Mac。
+据传，Mac Mini 将于今天晚些时候正式发布，并提供完整的详细信息和价格，敬请期待。]]></description>
+      <guid>https://www.theverge.com/2024/10/29/24282533/amazon-mac-mini-leak-specs-m4-size</guid>
+      <pubDate>Tue, 29 Oct 2024 08:21:16 GMT</pubDate>
+    </item>
     <item>
       <title>Gmail 现在将利用人工智能帮助您在网络上撰写电子邮件</title>
       <link>https://www.theverge.com/2024/10/28/24282103/gmail-help-me-write-email-web-ai-gemini</link>
@@ -119,13 +139,6 @@ Apple 还宣布，Apple Intelligence 将于 12 月在澳大利亚、加拿大、
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/10/28/24281883/robinhood-presidential-betting</guid>
       <pubDate>Mon, 28 Oct 2024 19:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scout Motors 放弃经销商的计划正是客户想要的</title>
-      <link>https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/28/24281884/scout-ev-dealer-sale-direct-to-sales-lawsuit</guid>
-      <pubDate>Mon, 28 Oct 2024 18:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
