@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 29 Oct 2024 09:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:19:51 GMT</lastBuildDate>
+    <item>
+      <title>使用单文件解决方案 Manifest 简化前端开发人员的后端任务</title>
+      <link>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</link>
+      <description><![CDATA[Manifest 是一个完整的后端，它包含在一个 YAML 文件中，可以减轻前端开发人员处理后端任务的痛苦。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:38:13 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述#47</title>
       <link>https://tympanus.net/codrops/2024/10/28/ui-interactions-animations-roundup-47/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Three.js Journey 🧑‍🏫 * Plain Vanilla * Manifest 优惠 40%]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-873/</guid>
       <pubDate>Fri, 18 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Duten 的 2024 网站</title>
-      <link>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</link>
-      <description><![CDATA[探索设计师 Sébastien Salord 与 Incredibles Development Studio 才华横溢的团队之间的动态合作，他们联手将 Duten 的数字形象提升到新的水平。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/17/case-study-dutens-2024-website/</guid>
-      <pubDate>Thu, 17 Oct 2024 11:54:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
