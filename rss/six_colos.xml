@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 30 Oct 2024 18:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 21:16:43 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 578：遗憾的是，没有血腥味</title>
+      <link>https://sixcolors.com/podcast/2024/10/clockwise-578-sadly-no-taste-for-blood/</link>
+      <description><![CDATA[我们在万圣节庆祝活动中使用的科技产品；我们经常使用的最小的科技产品和令我们惊叹的小玩意；我们正在使用和期待的 Apple Intelligence 功能；以及本周我们要放弃的一件物品，无论是科技产品还是非科技产品。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/10/clockwise-578-sadly-no-taste-for-blood/</guid>
+      <pubDate>Wed, 30 Oct 2024 19:45:59 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 519：也许：卡马拉·哈里斯</title>
       <link>https://sixcolors.com/podcast/2024/10/the-rebound-519-maybe-kamala-harris/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 30 Oct 2024 16:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>人人享有 16GB 内存：MacBook Air 加入 RAM 升级派对</title>
+      <title>人人都可拥有 16GB 内存：MacBook Air 加入 RAM 升级派对</title>
       <link>https://sixcolors.com/post/2024/10/16gb-for-everyone-macbook-air-joins-the-ram-upgrade-party/</link>
       <description><![CDATA[这家伙现在有了更多的 RAM。
 本周，除了 macOS 上推出 M4 处理器系列之外，Apple 的所有 Mac 发布都体现了一个趋势：新机型的基础 RAM 配置从 8GB 全面提升至 16GB。…]]></description>
@@ -107,14 +114,6 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone�
       <description><![CDATA[上个月，我的 Mac Studio 停止工作了。它很快就从出现奇怪的错误消息到无法安装软件更新，再到无法重新安装基本操作系统，最后只能去 Genius Bar 了。…]]></description>
       <guid>https://sixcolors.com/post/2024/10/use-a-cloned-drive-to-recover-from-mac-failures/</guid>
       <pubDate>Thu, 24 Oct 2024 21:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择你的编码字体↦</title>
-      <link>https://sixcolors.com/link/2024/10/choose-your-coding-font/</link>
-      <description><![CDATA[
-在 Mastodon 上，我卷入了一场关于我们用于写作的字体的讨论。我专门使用等宽字体写作，几十年来一直如此。…]]></description>
-      <guid>https://sixcolors.com/link/2024/10/choose-your-coding-font/</guid>
-      <pubDate>Thu, 24 Oct 2024 15:54:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
