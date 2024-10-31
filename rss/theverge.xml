@@ -4,161 +4,163 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 31 Oct 2024 15:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 18:21:38 GMT</lastBuildDate>
     <item>
-      <title>经过艰难的推广后，福特开始向电动汽车客户提供自己的特斯拉超级充电适配器</title>
-      <link>https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch</link>
+      <title>这款便携电子阅读器也想成为你的简约手机</title>
+      <link>https://www.theverge.com/2024/10/31/24284604/mudita-kompakt-e-ink-smartphone-e-reader-android</link>
       <description><![CDATA[
 
-此适配器带有福特标志，因此可能效果不错。 | 图片：福特
+Mudita Kompakt E Ink 手机预计售价低于 500 美元。 |图片：Mudita
 
-福特正在制造自有品牌的专用适配器，以便其电动汽车客户能够使用特斯拉超级充电桩。该汽车制造商将为仍在等待补充适配器的客户提供其新适配器以及特斯拉生产的适配器，并将于今天开始发货。
-这些适配器由电动汽车设备供应公司 Lectron 制造，该公司已经生产了自己的“Vortex”NACS 至 CCS 适配器。Lectron 之前曾因设计缺陷而召回其适配器，该缺陷可能导致适配器在充电时解锁。 
-Lectron 首席执行官 Christopher Maiwald 在State of Charge 采访中表示，问题已得到解决。福特公关代表 Eddie Fernandez 在发给The Verge的一封电子邮件中写道，新适配器与福特要求客户停止使用的适配器没有连接。 “作为该客户满意度计划的一部分，受影响的替换适配器仅占总供应量的一小部分，”费尔南德斯说。
-特斯拉缓慢生产足够的适配器以分发给已承诺采用 NACS 作为电动汽车连接器标准（也称为 SAE J3400）的汽车制造商。与此同时，福特发现其目前向客户分发的一些适配器存在充电速度慢的问题，并已要求一些人停止使用并等待更换。
-福特是第一家允许电动汽车客户使用特斯拉庞大的超级充电网络并向 CCS 提供 NACS 的汽车制造商免费适配器，Rivian 紧随其后。最近，沃尔沃和 Polestar 开始以 230 美元的价格向其客户出售适配器。通用汽车也采取了非互补路线，以 225 美元的价格出售其适配器。 
-福特最近启动了其 Power Promise 活动，以帮助电动汽车“骑墙派”适应生活方式，并提供标准安装的免费家用充电器。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284413/ford-made-nacs-css-tesla-complementary-adapter-launch</guid>
-      <pubDate>Thu, 31 Oct 2024 14:04:33 GMT</pubDate>
+Mudita 并不是第一家制造采用 E Ink 屏幕的手机的公司，但其 Kompakt 不仅仅是将电子纸的优势带入智能手机。该公司将 Kompakt 描述为“极简主义的 E Ink 手机”，旨在通过有限的捆绑应用程序集合减少干扰。
+Kompakt 正在通过 Kickstarter 众筹活动 向消费者提供。最早的支持者可以预订一款售价约为 325 美元的手机，预计最早于 2025 年 4 月发货。预计零售价接近 476 美元，这使得 Kompakt 比海信等公司生产的其他 E Ink 手机更便宜。Boox Palma 是一款便于携带的 6.13 英寸电子阅读器，通过全面实施 Android 提供附加功能，而 Kompakt 则配备了更小的 4.3 英寸 E Ink 屏幕，分辨率仅为 800x480 像素，并简化了操作系统。
+Kompakt 运行 MuditaOS K，这是一款基于 Android 开源项目 的定制操作系统。它跳过了 Google 的所有服务，以确保您的“数据永远不会被第三方共享或货币化”，并且只预装了少量该公司认为必不可少的应用程序。其中包括一款带有短信功能的手机应用程序、离线地图、录音机、计算器、仅可拍照的相机（限制为 8MP）以及一款支持 ePub 和 PDF 的电子阅读器。该操作系统无法访问 Google Play 商店，虽然可以侧载其他 Android 应用，但据 New Atlas 称，无法保证完全兼容性和性能。
+
+
+图片：Mudita
+Kompakt 上的滑动开关提供“硬件级 GSM 和所有三个麦克风的截止”，该公司表示。
+
+
+为了偶尔让手机更不分散注意力，或为了增强隐私，Kompakt 有一个软件选项可以禁用其相机、蓝牙和 Wi-Fi。手机侧面还有一个滑动开关，可激活“GSM 和所有三个麦克风的硬件级截止”，尽管 Mudita 并未解释其具体工作原理，也未解释这些功能被禁用的程度。
+Kompakt 的其他功能包括 3,300mAh 电池，该公司表示该电池可提供长达六天的待机时间、IP54 等级、3.5 毫米耳机插孔、指纹读取器、NFC、无线充电和双 SIM 卡托架，还可接受 microSD 卡以扩展其 32GB 的存储空间。
+将提供两个版本的 Kompakt，它们针对北美或全球蜂窝网络进行了优化，但这款小巧的手机完全跳过了 5G 连接。虽然这将进一步阻止使用它来访问社交媒体等分散注意力的内容，但访问 2G、3G 和 4G LTE 网络也可能阻碍其在某些地方的连接。]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284604/mudita-kompakt-e-ink-smartphone-e-reader-android</guid>
+      <pubDate>Thu, 31 Oct 2024 18:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌地图的增强导航将确保你在正确的车道上</title>
-      <link>https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving</link>
+      <title>福特明年才会生产新款 F-150 Lightning</title>
+      <link>https://www.theverge.com/2024/10/31/24284643/ford-f150-lightning-factory-idle-pause-production</link>
       <description><![CDATA[
 
-The Verge
+照片由 Andrew Hawkins / The Verge 拍摄
 
-Google 地图即将推出新导航功能，这将使市内驾驶变得更加轻松。当增强型导航于 11 月推出时，Google 地图上的蓝线将提供您需要行驶在哪条车道上才能进行下一次转弯的视觉效果，而地图本身可能会显示人行横道、标志和车道限制。 
-此功能将在美国 30 个大都市推出，并将显示在 Android 和 iOS 上。它有望让在陌生区域驾驶时压力小一些，因为它将增加地图的其他一些有用的导航功能，例如车道指引和以 3D 形式查看路线的功能。
-
-
-图片：谷歌
-
-从本周开始，谷歌地图还将推出其 7 月份展示的“目的地指引”功能的更新。除了突出显示您的目的地和建筑物入口外，该应用还会显示附近的停车场、停车位置提醒以及前往建筑物前门的步行路线。谷歌地图正在扩展其报告系统，以包括可能影响您驾驶的恶劣天气条件，例如能见度低、雾、雪、未清理的道路或洪水。
-除了这些新功能之外，谷歌还在该应用中添加更多 AI 功能，可帮助您找到新地点，而Waze 正在测试使用语音报告事件的功能。近几个月来，我们看到谷歌对地图做出了其他几项显著的改变，它开始使用人工智能来总结对电动汽车充电器的评论，并利用其算法提供有关就餐和游览地点的推荐。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving</guid>
-      <pubDate>Thu, 31 Oct 2024 14:00:00 GMT</pubDate>
+福特公司今天表示，该公司将暂停生产 F-150 Lightning 电动皮卡的工厂，直至明年。这是福特成为全球电动汽车生产商道路上的又一个不受欢迎的障碍。 
+计划是在 11 月 15 日星期五的最后一班轮班后关闭工厂，届时工厂将关闭七周，包括本来就不会有工作的假期。原因有点模糊，福特发言人 Emma Berg 表示需要“调整生产以实现销售增长和盈利的最佳组合”。
+最后一个词——盈利能力——肯定是这一决定的主要推动因素。虽然特斯拉刚刚度过了一个好于预期的盈利季度，但福特仍在努力从其 Model e 部门榨取利润，该部门涵盖电动汽车、软件等。 
+计划是在 11 月 15 日星期五最后一班班次结束后关闭工厂
+该公司报告称，今年第三季度 Model e 业务亏损 12 亿美元，预计全年电动汽车业务亏损 50 亿美元。该公司将“全行业定价压力”列为亏损原因之一。 
+F-150 Lightning 首次推出时，被认为对福特的长期增长和愿景至关重要。世界上最受欢迎的皮卡和美国最受欢迎的汽车的电动版？显然福特打算在这个车型上大赚一笔。 
+但 Lightning 的起步并不顺利。价格大幅下调，生产暂停和重启，经销商库存仍然是一个症结所在。特斯拉 Cyber​​truck，这个低多边形的赞美和嘲笑的避雷针，最近在销量上超过了 F-150 Lightning（以及市场上的每一辆电动卡车）。 
+福特上次停产工厂是为了扩大规模以扩大产量。该公司预计在新扩建的工厂每年生产 70,000 辆卡车。截至最近一个季度，福特已交付了 22,807 辆 Lightning。 
+该公司可能会继续面临这些挑战，因为它正在努力开发比当前平台更低成本的下一代电动汽车平台。福特目前在硅谷有一个“臭鼬工厂”团队正在开发这个新平台。但与此同时，它需要销售更多的 F-150 Lightning。 ]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284643/ford-f150-lightning-factory-idle-pause-production</guid>
+      <pubDate>Thu, 31 Oct 2024 18:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>Waze 很快将允许你通过语音报告事件</title>
-      <link>https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice</link>
+      <title>特朗普也计划打击合法移民</title>
+      <link>https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute</link>
       <description><![CDATA[
 
-图片：Waze
+图片：Cath Virginia / The Verge； Getty Images
 
-Waze 正在测试一项听起来很方便的更新，让您可以自然地说话并报告交通事件。借助这项新功能，您可以点击应用的报告按钮，然后说出您看到的情况，例如“前方似乎有交通堵塞。”
-然后，谷歌旗下的驾驶应用将使用 Gemini AI 模型“理解”您所说的内容并创建报告。如果您做出模糊的报告，例如“路上有东西”，Waze 可能会询问后续问题，例如“您能描述一下您看到的情况吗？”根据您的回复，应用程序将使用该信息对您的报告进行分类。
+前总统唐纳德·特朗普将移民问题作为竞选的核心：他承诺大规模驱逐出境、严厉打击边境庇护，并禁止无证移民抵押贷款。然而，据《华尔街日报》报道，尽管特朗普大力反对非法移民，但他的盟友和顾问也在准备大幅减少合法移民。美国优先政策研究所（America First Policy Institute）等智库已起草行政命令、法规和备忘录，以缩小合法移民进入美国的途径。该研究所一直在为特朗普的竞选活动提供建议。据十几位接受《华尔街日报》采访的前特朗普政府官员透露，这些组织包括美国优先政策研究所（America First Policy Institute），该研究所是一家智库，一直在为特朗普的竞选活动提供建议。 其中一些提议——例如禁止来自某些穆斯林占多数国家的旅行者——是从特朗普第一任期中回收的。其他计划包括全面禁止难民安置，并暂停接受积压大量移民类别的申请，包括印度技术工人的庇护和就业绿卡。
+特朗普在第一任期内还限制了合法移民。特朗普降低了他任职期间每年可在美国安置的难民数量的上限。他扩大了长期存在的“公共负担”规定，允许移民官员拒绝向他们怀疑会接受公共援助的移民发放绿卡。尽管如此，即使对于特朗普政府来说，大幅减少合法移民也将是一个根本性的转变——特朗普和他的竞选搭档参议员 JD Vance (R-OH) 的极端民族主义言论也强调了这一点。
+Vance 曾多次将住房成本上涨归咎于移民，并谴责总统乔·拜登的假释政策——该政策允许来自古巴、海地和委内瑞拉等国的移民在美国生活和工作长达两年——是非法的。
+Stephen Miller，美国众议院议长南卡罗来纳州共和党参议员，在参议院的高级顾问，曾任众议院议长。特朗普第一任期内，政府家庭分离政策的设计者之一也表达了减少合法移民的愿望。 “难民安置是‘合法的’。连锁移民是‘合法的’。多元化抽签是‘合法的’。伊斯兰绿卡移民是‘合法的’。这就是为什么我们现在需要恢复特朗普旅行禁令，”米勒于 1 月在 X 上发布。
 
-
-图片：Waze
-
-您目前只能通过点击应用程序内的选项来报告 Waze 上的事件，这在您开车时并不总是很方便。Waze 将于本周向 Android 和 iOS 上的“受信任的测试人员”推出语音报告测试版。目前，该功能仅提供英语版本，但 Waze 计划在“未来几个月”内将其扩展到更多用户和语言。
-除了此次更新外，Waze 还将在今年晚些时候开始在全球地图上显示学校区域，提醒您在这些区域更安全地驾驶。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice</guid>
-      <pubDate>Thu, 31 Oct 2024 14:00:00 GMT</pubDate>
+2025 项目的《领导任务》，由右翼传统基金会编写的剧本，也提议结束所谓的“连锁移民”，即以家庭为基础的移民。 《授权书》中有关国土安全部的章节由特朗普前国土安全部官员肯·库奇内利撰写，建议用“奖励高技能外国人的择优制度”取代我们的家庭移民制度。
+库奇内利的其他建议包括结束多元化签证抽签制度，该制度为来自移民率低的国家的人提供了申请永久居留权的机会。这些政策需要国会采取行动，因此不太可能实现，但它们仍然是特朗普及其盟友希望在第二任期内实现的目标的有益参考。]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284684/trump-legal-immigration-crackdown-america-first-policy-institute</guid>
+      <pubDate>Thu, 31 Oct 2024 17:44:10 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌地图将使用人工智能来回答有关你想尝试的新餐厅的问题</title>
-      <link>https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions</link>
+      <title>Humane 因过热问题召回 AI Pin 充电盒</title>
+      <link>https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard</link>
       <description><![CDATA[
 
-图片：Google
+照片由 Amelia Holoway Krales / The Verge 拍摄
 
-Google 地图正在进行重大更新，旨在帮助您使用 AI 找到新地点。从本周开始，您将能够使用沉浸式视图探索更多地点，并根据描述性查询（例如“晚上与朋友一起做的事情”）搜索特定地点。
-然后，Google 将使用其 Gemini AI 模型来提出与该描述相匹配的“励志合集”。对于深夜选项，Google 地图可能会显示归类为“地下酒吧”或有“现场音乐”的地方。与此同时，常规搜索结果仍位于这些集合下方。
-
-
-
-GIF：Google
-Google Maps 会让您输入问题或从使用 AI 生成的问题中进行选择。
+在警告客户停止使用后，Humane 现已正式召回约 10,500 台 AI Pin 充电盒。受影响的充电盒于去年 11 月至今年 5 月期间销售。根据 CPSC 召回页面，充电盒配件中的锂聚合物电池可能会过热并造成火灾隐患。Humane 在 6 月份发给客户的电子邮件中承认了类似的发现。
+幸运的是，最坏的情况还没有发生；召回通知指出“有一份关于充电盒在充电过程中过热和熔化的报告”，但尚未发生任何人员伤亡或财产损失。该公司在早些时候的电子邮件中表示，AI Pin、磁性电池增强器和 Humane 的充电板“不受影响”。
 
 
-但这并不是 Google 为地图添加的 AI 功能的全部。点击某个地点后，您将看到 AI 生成的用户评论摘要，以及“向地图询问此地点”的提示。在这里，您可以输入问题，地图将使用 Gemini 根据从评论中收集到的信息提供 AI 生成的答案。
-在新闻发布会上，谷歌地图负责人 Miriam Daniel 通过选择一家餐厅并输入“这里的氛围安静吗？”演示了这一功能如何工作。然后，谷歌地图返回了一个答案，称该地点“氛围活跃，感觉舒适”。在回复下方，您会看到 Gemini 用来提供答案的评论。这些功能本周将在美国 Android 和 iOS 上推出，基于 Google今年早些时候开始试验的 AI 集成。
-“我们希望确保我们在这次体验中展示的任何内容都是新鲜和真实的，”Daniel 说。“每天都有 1 亿次更新，我们能够从这些更新的新鲜信息中提取信息，并将结果与​​ Gemini 结合起来……确保结果在地图上显示真实地点。”
-Google 还将 Immersive View 扩展到 150 个城市。该功能于 2022 年首次推出，结合了街景和卫星图像，可提供某个地点的鸟瞰图，同时还提供在街道层面探索城市的能力。其他一些更新包括增强导航，在特定城市驾驶时，地图上将显示更多详细信息，并更新其类似 Waze 的目的地指导功能，该功能于 7 月进行了预览。说到 Waze，这款谷歌旗下的应用还增加了使用语音报告路上事件的功能。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions</guid>
-      <pubDate>Thu, 31 Oct 2024 14:00:00 GMT</pubDate>
+出于谨慎考虑，Humane 自愿召回其充电盒配件。在收到一份使用第三方 USB-C 线缆和第三方电源时出现充电问题的报告后，我们发现由... 提供的电池单元存在质量问题 pic.twitter.com/xXQ4WquuD3— Humane Ground Control (@Humane_help) 2024 年 10 月 31 日
+
+
+尽管如此，这种情况仍然是 Humane 的第一款产品的又一个污点，在经历了一波 负面评价、销售缓慢、大量退货。10,500 台的销量再次表明 AI Pin 的销售情况不佳。该公司最近降低了设备价格，试图扭转其命运。（较便宜的型号不再包括充电盒。）Humane 还继续发布可穿戴设备的软件改进。 “CosmOS 1.2 是我们自推出以来最大的软件更新，”该公司本月在 X 上发布消息称。
+
+客户可以选择要求全额退款或更换充电盒。如果选择退款，单独购买的用户将获得 149 美元，而作为 AI Pin“完整套装”的一部分获得充电盒的用户将获得 129 美元。据 CPSC 称，Humane 经过修改、更安全的充电盒将在三到六个月内上市。
+
+更大的问题是，在这段时间内公司本身会发生什么。 Humane 能否成功找到买家？它能否成功将 CosmOS 应用于其他产品？]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard</guid>
+      <pubDate>Thu, 31 Oct 2024 17:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>“这是第一修正案，笨蛋”：特朗普与广播电视之间的奇怪斗争</title>
-      <link>https://www.theverge.com/24283652/fcc-license-donald-trump-elon-musk-first-amendment-fairness-doctrine-please-vote-decoder</link>
+      <title>Playdate 将于 2025 年推出第二季游戏</title>
+      <link>https://www.theverge.com/2024/10/31/24284707/playdate-season-2-release-date</link>
+      <description><![CDATA[
+
+图片：Vjeran Pavic / The Verge
+
+当Playdate 首次推出时，其中一个卖点是这款小小的黄色掌机附带了 24 款著名游戏的“一季”开发人员，如Keita Takahashi和Zach Gage。现在 Panic 已确认第二季将于 2025 年某个时候推出。
+至于将包括哪些内容，我们现在没有太多消息。Panic 表示，“有关价格、确切游戏数量以及第 2 季游戏背后的开发者的详细信息将于 2025 年公布。”但在今天的直播中，该公司表示可能会推出“大约十几款游戏”，还会有一个“非常酷的惊喜”。
+去年，Panic 推出了一家名为 Catalog 的 Playdate 商店，开发者可以在其中发布季节结构之外的游戏，在今天的演示中，该公司表示该商店已有超过 200 款可用游戏。我们还看到了一些正在开发的游戏，包括可爱的文字游戏Bwirds（11 月 26 日推出）、一款名为Owlet’s Embrace的抓钩驱动平台游戏（2025 年晚些时候推出）、温馨的益智冒险Comet（即将推出）以及不言自明的Office Chair Curling（也即将推出）。
+您可以查看完整演示文稿以了解有关这些游戏的更多信息：
+
+硬件方面也有一些好消息：Panic 表示，这款很难找到的掌上游戏现在可以订购，预计发货日期为十二月。
+本周早些时候，Panic 证实该设备的立体声底座配件已被无限期搁置。]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284707/playdate-season-2-release-date</guid>
+      <pubDate>Thu, 31 Oct 2024 17:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 和宽带行业争论网络中立的未来</title>
+      <link>https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24283652/fcc-license-donald-trump-elon-musk-first-amendment-fairness-doctrine-please-vote-decoder</guid>
-      <pubDate>Thu, 31 Oct 2024 14:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/10/31/24284435/fcc-net-neutrality-isp-sixth-circuit-oral-arguments</guid>
+      <pubDate>Thu, 31 Oct 2024 17:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 的 Ryzen 7 9800X3D 游戏 CPU 将于 11 月 7 日上市，售价 479 美元</title>
-      <link>https://www.theverge.com/2024/10/31/24284453/amd-ryzen-7-9800x3d-release-date-pricing</link>
-      <description><![CDATA[
-
-图片：AMD
-
-之后奇怪上周，AMD 预告了 9000 系列 X3D 的发布，今天，AMD 正式宣布，Ryzen 7 9800X3D 将于 11 月 7 日上市。9800X3D 售价 479 美元，是目前市场上最好的游戏 CPU Ryzen 7 7800X3D 的直接继任者。这款下一代 X3D 芯片也有很多令人兴奋的地方。
-AMD 将 9800X3D 的基本时钟速度提高到 4.7GHz，最大提升 5.2GHz。再加上 TDP 增加到 120 瓦，这可能有助于提高生产率工作负载——X3D 芯片在这方面一直落后于非 X3D 芯片。
-
-
-图片：AMD
-AMD 声称其 9800X3D 平均比 7800X3D 快 8%。
-
-不过，9800X3D 真正专注于游戏。AMD 称其为“世界上最好的游戏处理器”，并承诺平均 FPS 比 7800X3D 提升 8%。这些提升得益于 Zen 5 架构和第二代 3D V-Cache 技术。
-AMD 甚至声称 9800X3D 在游戏方面将比英特尔最新的 Core Ultra 9 285K 好 20%。在视频公告中，AMD 计算和图形主管 Jack Huynh 透露，“在《孤岛惊魂 6》和《赛博朋克 2077》等许多游戏中，我们的速度提高了 40% 以上。”
-9800X3D 也是第一款完全解锁的 X3D 处理器，让发烧友和游戏玩家可以对其进行超频，从而从他们的系统中榨取更多的性能。AMD 将于 11 月 7 日推出 Ryzen 7 9800X3D，售价 479 美元。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284453/amd-ryzen-7-9800x3d-release-date-pricing</guid>
-      <pubDate>Thu, 31 Oct 2024 13:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peloton 任命 Apple Fitness Plus 联合创始人为新 CEO</title>
-      <link>https://www.theverge.com/2024/10/31/24284417/peloton-ceo-peter-stern-earnings-q1-2025</link>
+      <title>Android 16 将于 2025 年初发布</title>
+      <link>https://www.theverge.com/2024/10/31/24284665/android-16-release-schedule-q2-2025</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-Peloton 有了一位新负责人。该公司宣布，福特高管彼得·斯特恩将从 1 月 1 日起接任首席执行官兼总裁。斯特恩之前曾在苹果和时代华纳有线公司工作过。
-“作为 Apple Fitness Plus 的联合创始人和推动者，彼得带领公司发展壮大，拥有数百万会员，并成功扩展了十几项其他订阅服务，从福特 BlueCruise 到苹果 iCloud，再到时代华纳有线家庭安全，”Peloton 临时首席执行官凯伦·布恩 (Karen Boone) 在今天的2025 年第一季度收益电话会议上表示。 “重要的是，自 2016 年以来，彼得一直是 Peloton 社区的热情成员。”
-在与投资者的问答中，布恩还强调，斯特恩“以执行力著称”，在寻找新领导者时，平衡盈利能力和增长的能力是首要考虑因素。值得注意的是，Peloton 的垮台是由于该公司投入了数数百万资金来抓住增长机会，却没有考虑到疫苗普及后需求的减弱。
+在过去十年左右的时间里，谷歌在秋季发布了重大 Android 更新，此前延长开发者和 Beta 预览流程，但至少在 2025 年，情况正在发生变化。现在，谷歌计划在第二季度而不是第三季度发布下一个主要版本，证实了 Android Authority 最近关于 Android 16 的一份报告，它将采用以甜点为主题的代号“Baklava。”
+该公告称，这将“更好地与我们生态系统中设备发布的时间表保持一致，因此更多设备可以更快地获得 Android 的主要版本。”谷歌今天谈到的其他变化包括对 Play Store 的改进，用户可以在其中分享偏好，以便更好地推荐新应用，就像他们已经可以推荐游戏一样，在开发过程中，谷歌在 Android Studio 中添加更多 Gemini AI 功能，以便在应用中“编写、重构和记录”代码。
 
-斯特恩的任命进一步证明，Peloton 越来越多地将其未来置于服务领域。斯特恩在苹果公司担任服务副总裁超过六年。除了在 Peloton 的直接竞争对手 Fitness Plus 工作的经验外，他还负责 Apple TV Plus、iCloud、Apple News、Apple Books、Apple Arcade 和 Apple One。
-Peloton 还指出，几项新的软件功能正在开发中。其中包括之前宣布的一款针对健身者的力量训练应用，迄今为止已有 70,000 名注册用户。在看到 10% 的活跃订阅者参与其Lane Break 游戏后，该公司还在测试第二款游戏。目前，该游戏正处于大约 100 名现有 Bike Plus 会员的封闭测试阶段。另一个测试版功能称为个性化计划，它根据个人会员的健身目标为用户提供每周锻炼计划。
-Peloton 在财报电话会议上表示，其总收入略高于预期，为 5.86 亿美元——其中 1.6 亿美元来自硬件销售，4.26 亿美元来自订阅。该公司还将 2025 年全年收入预期上调了 4000 万美元，并表示预计四个季度的自由现金流均为正。由于财务状况好于预期以及斯特恩的任命，股价飙升 22％。
 
-]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284417/peloton-ceo-peter-stern-earnings-q1-2025</guid>
-      <pubDate>Thu, 31 Oct 2024 13:42:06 GMT</pubDate>
+图片：Google
+
+新的更新计划解决了我们至少从 2016 年就开始讨论的 Android 生态系统问题，第三方手机需要等待数月甚至更长时间才能获得最新更新。 
+
+当然，Google Pixel 手机是最新版本的首发机型，但其他人呢？新的时间表可以让更多制造商更容易在第一天就发布具有最新功能的新设备，而不是等待未来的更新来添加诸如 Circle to Search 之类的功能。
+按照新的模式，Google 告诉开发人员，将在第二季度发布一个主要版本，并在第四季度发布一个次要 SDK 版本，这更像是当前的季度版本，添加新功能但不会对底层系统进行太多更改。这意味着将兼容性测试向前推进，但另一个好处是，应用程序可以有理由支持新功能 - 例如，i类似手机实时活动的持续通知 - 因为更多设备将能够立即使用它们。]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284665/android-16-release-schedule-q2-2025</guid>
+      <pubDate>Thu, 31 Oct 2024 17:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>克里斯汀·拉德克，你的桌子上有什么？</title>
-      <link>https://www.theverge.com/24277807/home-office-mac-wacom</link>
+      <title>如何在黑色星期五和网络星期一像专业人士一样购物</title>
+      <link>https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24277807/home-office-mac-wacom</guid>
-      <pubDate>Thu, 31 Oct 2024 13:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find</guid>
+      <pubDate>Thu, 31 Oct 2024 17:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>科技领袖亲吻戒指</title>
-      <link>https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai</guid>
-      <pubDate>Thu, 31 Oct 2024 13:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>随天气变化而变化的冥想数独</title>
-      <link>https://www.theverge.com/2024/10/31/24283527/puzzmo-weather-memoku</link>
+      <title>Apex Legends 将不再支持 Steam Deck 和 Linux</title>
+      <link>https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat</link>
       <description><![CDATA[
 
-图片：Puzzmo
+照片由 Vjeran Pavic / The Verge 拍摄
 
-Weather Network 是一个非常有用的网站，但这主要是在天气不好的时候。因此，当该公司开始与赫斯特旗下的益智平台 Puzzmo 合作时，它有一个特定的目标：即使天气好，也要吸引人们访问该网站。“你为什么要在晴天查看天气？”资深游戏设计师扎克·盖奇记得自己问过自己。最终，Puzzmo 团队想出了答案，他们开发了Weather Memoku，这是一款非常休闲的游戏，结合了记忆、数独和天气的元素。
-“一个非常重要的想法是：我们能否将查看天气从待办事项清单上的一项任务转变为一个给自己一点时间的机会？”Gage 解释道。
-游戏在 6 x 6 的网格上进行，目标是翻转方块以找到匹配项，就像经典的记忆游戏一样。不同之处在于它也遵循数独的规则。这意味着六个符号中的每一个在每一行和每一列中只出现一次，将Weather Memoku从纯粹的猜谜游戏变成了带有一点策略的游戏。它也非常迷人，其符号会根据天气变化而变化。下雨天有可爱的小青蛙，下雪天有企鹅。当你完成拼图时（可能需要一两分钟），除了每小时的天气预报外，你还会得到你的分数。你也可以分享它，就像你的 Wordle 分数一样。
-
-
-图片：Puzzmo
-
-据 Gage 称，他之前开发了数独应用Good Sudoku，Weather Memoku 旨在成为他所谓的“街机数独”的迭代，这基本上是不使用高级策略的标准游戏方式。Weather Memoku 采用相同的核心游戏玩法——查看网格以找出事物所属的位置——并进一步简化了它。“犯错是游戏的一部分，”Gage 解释道。“在这个游戏中，如果你不知道某件事并且你猜测，你可以点击任何地方，现在你有了一条新信息，你的棋盘也变了。这真的感觉像是街机数独的一个有趣的演变。”
-这种简化的特性对于游戏的本意很重要。Weather Memoku 是一种学习信息的有趣方式，但它也被设计成感觉像“一点冥想”，让你想每天都回到这个网站，就像填字游戏或数独挑战一样。 “你可以拥有这种冥想体验，当你完成后，你实际上会知道天气，”Gage 说。“你留下了对你有价值的有形信息。”
-披露：Puzzmo 与 Verge 姊妹网站 Polygon 建立了合作伙伴关系。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24283527/puzzmo-weather-memoku</guid>
-      <pubDate>Thu, 31 Oct 2024 13:00:00 GMT</pubDate>
+Apex Legends 是唯一允许在 Steam Deck 游戏掌机上玩的大逃杀游戏之一 — Fortnite、Valorant、PUBG 等游戏从一开始就不支持它，理由是担心反作弊。但今天，Electronic Arts 和 Respawn 出于同样的原因撤下了这款游戏。 
+“在我们努力打击 Apex 中的作弊行为的过程中，我们发现 Linux 操作系统是各种有影响力的漏洞和作弊行为的途径。因此，我们决定阻止 Linux 操作系统访问该游戏，”EA 在一篇解释该决定的博客文章中写道。。。
+Apex Legends 确实有在 Steam Deck 上运行的反作弊软件——具体来说，该游戏使用了 Epic Games 的 Easy Anti-Cheat (EAC)，该软件已与 Linux 游戏掌机兼容三年多了。但这对于 Epic Games 自己的 Fortnite 来说还不够好——Tim Sweeney 解释说，2022 年的“威胁模型”太大了——现在显然对 EA 来说已经不够好了。
+“Linux 作弊确实更难检测，数据显示，它们的增长速度需要团队对一个相对较小的平台投入超高的关注和注意力。还有一些情况是，Windows 操作系统的作弊行为被模拟为 Linux 上的作弊行为，以增加检测和预防的难度，”EA 今天写道。
+Riot Games 也有类似的担忧。与许多竞技性多人游戏开发商一样，由于作弊可能性增加，它也不支持 Linux 上的 Valorant 和 英雄联盟。在最近接受 The Verge 采访时，Valorant 反作弊主管 Phillip Koskinas 讨论了游戏开发商为何不愿支持 Linux。
+“您可以自由操纵内核，并且没有用户模式调用来证明它是真实的，”Koskinas 说。“你可以制作一个专为作弊而设计的 Linux 发行版，我们会被打败。”
+Linux 非常开放，您现在可以在 Steam Deck 上运行模拟版本的 Counter-Strike 2，并且设备上仍有作弊程序。 “想象一下，如果 Steam Deck 的安全性得到处理，我们就知道它是一台正版设备，它经过了全面认证，所有这些功能都已启用，我们就会觉得很酷，可以开始游戏了，没问题”，Koskinas 说。
+像往常一样，目前尚不清楚这主要是 Linux 的问题，还是主要是需要在创意解决方案上花费比少数玩家可能值得的更多的钱的问题。去年 12 月，Epic Games 首席执行官 Tim Sweeney 告诉我们，如果《堡垒之夜》在 Steam Deck 上有“数千万用户”，他可以证明将其放在 Steam Deck 上是合理的。EA 今天写道，它根据 Linux 玩家的“少数”群体以及“其影响感染了相当多玩家的游戏”来权衡其Apex决定。
+EA 表示，如果您安装了 Windows，您仍然可以在 Steam Deck 上玩Apex Legends。 Valve 仍未发布自己的双启动安装程序，以便更轻松地将 Windows 安装在 Steam Deck 上——该功能已经一段时间以来一直“位居榜首”——但它最近填补了其 Windows 中的一些大漏洞驱动程序。]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24284644/apex-legends-loses-linux-steam-deck-support-anti-cheat</guid>
+      <pubDate>Thu, 31 Oct 2024 16:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的搜索引擎现已在 ChatGPT 中上线</title>
+      <link>https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt</guid>
+      <pubDate>Thu, 31 Oct 2024 16:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

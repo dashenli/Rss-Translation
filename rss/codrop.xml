@@ -4,7 +4,7 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 31 Oct 2024 15:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 18:23:28 GMT</lastBuildDate>
     <item>
       <title>如何使用 React Three Fiber 编写微妙的着色器背景效果</title>
       <link>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[Manifest 是一个完整的后端，它包含在一个 YAML 文件中，可以减轻前端开发人员处理后端任务的痛苦。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</guid>
       <pubDate>Tue, 29 Oct 2024 12:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#876</title>
+      <link>https://tympanus.net/codrops/collective/collective-876/</link>
+      <description><![CDATA[Sylph * EZ-Tree * 2024 年 CSS 调查结果]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-876/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>UI 交互和动画综述#47</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[HTML 入门 * React 渲染交互式指南 * Canary]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-874/</guid>
       <pubDate>Tue, 22 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Piecesjs 入门：使用轻量级框架构建原生 Web 组件</title>
-      <link>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</link>
-      <description><![CDATA[Piecesjs 是一个基于原生 Web 组件构建的轻量级 JavaScript 框架，提供了一套专为创意网站量身定制的工具和实用程序。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</guid>
-      <pubDate>Mon, 21 Oct 2024 09:47:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
