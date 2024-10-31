@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 15:19:08 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 React Three Fiber 编写微妙的着色器背景效果</title>
+      <link>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</link>
+      <description><![CDATA[了解如何通过四个简单的步骤使用 React Three Fiber 和 Drei 创建交互式着色器背景效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</guid>
+      <pubDate>Thu, 31 Oct 2024 13:13:28 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Three.js BatchedMesh 和 WebGPURenderer 进行交互式 3D</title>
       <link>https://tympanus.net/codrops/2024/10/30/interactive-3d-with-three-js-batchedmesh-and-webgpurenderer/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Piecesjs 是一个基于原生 Web 组件构建的轻量级 JavaScript 框架，提供了一套专为创意网站量身定制的工具和实用程序。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/21/getting-started-with-piecesjs-building-native-web-components-with-a-lightweight-framework/</guid>
       <pubDate>Mon, 21 Oct 2024 09:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚焦：Serhii Polyvanyi</title>
-      <link>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</link>
-      <description><![CDATA[介绍 Serhii — 一位杰出的创意数字设计师，他的概念和视觉技术让开发人员感动落泪，也让他们钦佩不已。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/18/designer-spotlight-serhii-polyvanyi/</guid>
-      <pubDate>Fri, 18 Oct 2024 13:38:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
