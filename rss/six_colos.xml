@@ -4,7 +4,31 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 01 Nov 2024 01:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:22:41 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/11/1password-7/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+1Password 的工作人员最近参加了在旧金山举行的 RSA 会议，他们惊讶地发现，每个人都对解决新问题的新解决方案充满热情。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/11/1password-7/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果收购 Pixelmator ↦</title>
+      <link>https://sixcolors.com/link/2024/11/apple-buys-pixelmator/</link>
+      <description><![CDATA[Pixelmator 团队宣布令人震惊的消息：
+
+Pixelmator 已签署协议，将被 Apple 收购，但需获得监管部门批准。目前，Pixelmator Pro、Pixelmator for iOS 和 Photomator 应用程序不会发生重大变化。…]]></description>
+      <guid>https://sixcolors.com/link/2024/11/apple-buys-pixelmator/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果向 Globalstar 卫星网络投资 11 亿美元，取得所有权</title>
+      <link>https://sixcolors.com/post/2024/11/apple-sinks-1-1-billion-into-globalstars-satellite-network-takes-ownership-stake/</link>
+      <description><![CDATA[如果您认为卫星连接不是 Apple 战略的关键部分，那么，该公司的卫星合作伙伴 Globalstar 已披露了与 Apple 交易的变化，包括 Apple 新注入的 11 亿美元用于资本改进，以及 4 亿美元的股权，这使 Apple 拥有该公司 20% 的股份。…]]></description>
+      <guid>https://sixcolors.com/post/2024/11/apple-sinks-1-1-billion-into-globalstars-satellite-network-takes-ownership-stake/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:03:12 GMT</pubDate>
+    </item>
     <item>
       <title>我是蒂姆，那是卢卡：苹果第四季度业绩电话会议记录</title>
       <link>https://sixcolors.com/post/2024/10/this-is-tim-apples-q4-results-phone-call-transcribed/</link>
@@ -93,27 +117,6 @@ Alexa 仍然主要在做它一直在做的事情：播放音乐、报告天气�
       <description><![CDATA[我们通过分析新的 M4 iMac、两波不同的 Apple Intelligence 的到来以及 Jason 对 iPad mini 的评论开始了忙碌的一周，但我们必须等待一周才能对我们的草稿进行评分，因为还有更多内容尚未发布！…]]></description>
       <guid>https://sixcolors.com/podcast/2024/10/upgrade-535-little-spicy-peppers/</guid>
       <pubDate>Mon, 28 Oct 2024 21:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）安全的无限循环</title>
-      <link>https://sixcolors.com/feed-only/2024/10/the-infinite-loop-of-security-2/</link>
-      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/10/the-infinite-loop-of-security-2/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence .1 评测：小小开端，大作为？</title>
-      <link>https://sixcolors.com/post/2024/10/apple-intelligence-1-review-a-small-start-of-something-big/</link>
-      <description><![CDATA[随着 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 的发布，Apple 正在搭上生成式 AI 列车。Apple Intelligence 是一套不同的功能，于今年早些时候在该公司的全球开发者大会上首次宣布，该公司将在未来几个月的几次软件更新中逐步推出这些功能。…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/apple-intelligence-1-review-a-small-start-of-something-big/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果推出 M4 iMac，采用全新配色和纳米纹理显示屏选项</title>
-      <link>https://sixcolors.com/post/2024/10/apple-introduces-m4-imac-with-revamped-colors-nano-texture-display-option/</link>
-      <description><![CDATA[Mac 发布周开始了。Apple 周一发布了改进后的 iMac 机型，采用新的 M4 处理器，并采用一系列大胆的新色调。…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/apple-introduces-m4-imac-with-revamped-colors-nano-texture-display-option/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:42:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

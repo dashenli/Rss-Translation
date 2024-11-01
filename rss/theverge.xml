@@ -4,7 +4,138 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Nov 2024 15:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:21:40 GMT</lastBuildDate>
+    <item>
+      <title>您现在可以尝试微软更现代的 Windows Hello UI</title>
+      <link>https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing</link>
+      <description><![CDATA[
+
+图片：微软
+
+微软正在更新其 Windows Hello 身份验证（包括面部和指纹识别）在 Windows 11 中的工作方式。Windows Hello 体验的改进目前正在 Windows Insiders 中进行 Beta 测试，包括视觉变化、新图标和密钥改进。
+这个新 UI 不仅不仅会出现在 Windows 11 登录屏幕上，还会出现在您使用密钥登录网站和应用时。“我们重新设计了密钥的 Windows 安全凭证用户体验，从而创建了一种支持安全快速身份验证的更简洁的体验，”Windows 团队解释道。 “用户现在可以在身份验证选项之间切换，并更直观地选择密钥/设备。”
+
+
+图片：微软
+Windows 11 登录屏幕上的新 Windows Hello UI。
+
+微软目前在 Windows 11 中支持密钥，但在移动设备上使用密钥的体验需要扫描二维码和过时的 UI。作为 Windows Hello UI 大修的一部分，新的密钥登录 UI 和 Microsoft 帐户身份验证将大大改善这一点。
+Microsoft 还为第三方密码和密钥管理器构建了一个新的 API，可让开发人员直接接入这种现代的 Windows Hello 体验。它还将允许 Windows 11 用户使用移动设备上的密钥在 PC 上使用应用和网站进行身份验证。这种新的密钥体验还将支持将密钥保存到第三方应用或将其同步到您的 Microsoft 帐户。
+
+
+图片：Microsoft
+新的密钥登录流程。
+
+Microsoft 已开始针对 Beta 频道 (23H2) 测试这种新的 Windows Hello 体验，它也应该会出现在开发频道（基于 24H2)，一旦版本很快恢复。我预计我们将在未来几个月内看到这个新的 Windows Hello UI 出现在所有 Windows 11 用户面前。]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing</guid>
+      <pubDate>Fri, 01 Nov 2024 17:58:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔未来的笔记本电脑将再次配备内存条</title>
+      <link>https://www.theverge.com/2024/11/1/24285513/intel-ceo-lunar-lake-one-off-memory-package-discrete-gpu</link>
+      <description><![CDATA[
+
+图片：英特尔
+
+英特尔正在撤销多年来对其笔记本电脑芯片的最大改动之一。还记得今年秋天的 Lunar Lake 笔记本电脑放弃了内存条的想法，而是在处理器封装上安装了固定数量的 RAM 吗？英特尔首席执行官帕特·基辛格现在表示，这是一个财务错误，英特尔不会再犯了。哦，他可能也会取消台式机 GPU。
+
+未来几代英特尔芯片，包括 Panther Lake 和 Nova Lake，将不会有内置内存。 “这不是经营业务的好方法，所以对于我们来说，Lunar Lake 真的是一次性产品，”Gelsinger 在英特尔 2024 年第三季度财报电话会议上表示，正如 VideoCardz 所发现的 。 
+“我们将以更传统的方式构建它，将内存置于封装外，将 CPU 和 I/O 功能置于封装内。但在未来的发展路线图中，大容量内存将不再是封装内的产品，”他说道。
+这似乎有点令人费解，因为英特尔宣称 Lunar Lake 的封装内内存在笔记本电脑电池寿命方面具有竞争优势——宣称它将通过系统移动数据的功耗降低了 40%。
+但在财报电话会议上，基辛格表示 Lunar Lake 应该更像是一个实验，而不是英特尔笔记本电脑工作的核心：
+Lunar Lake 最初被设计为一种小众产品，我们希望它实现最高性能和出色的电池寿命，然后 AI PC 就出现了。而随着 AI PC 的出现，它从小众产品变成了相当畅销的产品。
+难道我们不是都希望笔记本电脑具有最佳性能和电池寿命吗？也许吧——但 Lunar Lake 成为英特尔的问题，因为它过于依赖外部合作伙伴提供竞争对手台积电的内存芯片和晶圆。上个季度，当英特尔宣布大规模裁员和重组时，英特尔首席财务官透露，Lunar Lake 成本太高，无法帮助英特尔扭转命运。基辛格表示，Lunar Lake 的出货量还没有达到 1 亿台，但它已经成为“我们整体产品组合中一个重要组成部分”。
+不幸的是，对于 PC 图形爱好者来说，英特尔的独立 GPU 努力现在似乎同样被视为一次失败的实验。基辛格表示，他现在专注于简化公司的消费产品，而专用显卡/芯片显然即将被淘汰。他说：
+我们如何处理图形？集成显卡功能正变得越来越重要，因此未来市场对独立显卡的需求将减少。 
+如果英特尔放弃它们，这并不会让人感到意外——它的游戏图形计划在独立显卡方面只取得了非常有限的成功，并且只在超低预算端发挥作用，这AMD 现在威胁更大了。
+但如果英特尔永远无法超越字母 A（炼金术士），而等待英特尔 Battlemage dGPU 的游戏玩家永远无法看到它的第二款产品，那将有点遗憾。至少英特尔的 Arc 图形努力（包括 Battlemage）确实渗透到了其笔记本电脑芯片上越来越强大的集成显卡中。]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285513/intel-ceo-lunar-lake-one-off-memory-package-discrete-gpu</guid>
+      <pubDate>Fri, 01 Nov 2024 17:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些书签应用可以整理你以后要保存的所有内容</title>
+      <link>https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop</guid>
+      <pubDate>Fri, 01 Nov 2024 17:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何观看 Fortnite 的 Remix：前奏活动</title>
+      <link>https://www.theverge.com/2024/11/1/24285464/fortnite-remix-the-prelude-event-how-to-watch</link>
+      <description><![CDATA[
+
+图片：Epic 游戏
+
+Epic 游戏即将在下一个复古季前举办大型游戏内活动——而且可能会非常有音乐性。
+活动标题暗示了音乐主题——“Remix: The Prelude”——Epic 的一篇文章建议参加该活动，“调高音量”。 Fortnite 已经因夸张的音乐活动而闻名，因此这场结束最新漫威主题季的活动可能会是一场精彩的演出。
+但“Remix”标题也表明 Epic 会重新推出并重新混合其第 2 章的元素季节，有点像去年第 1 章主题“OG”季节那样，该公司已经透露了其中一些混音可能是什么样子，包括一个结合了 Meowscles（一只胖猫）（是的）和Midas的角色。
+如果您想观看活动，以下是您需要了解的内容。
+《堡垒之夜》的 Remix：前奏活动何时举行？
+Remix：前奏活动将于美国东部时间下午 6:30 / 太平洋时间下午 3:30 开始。Epic 建议您尽早登录，以免错过活动；活动在过去达到容量。
+如何观看Fortnite活动？
+如果您在游戏中，请在活动开始时间之前加入 Battle Royale 或 Zero Build 比赛，然后前往 Restored Reels 位置。
+如果您无法在游戏中观看，几乎肯定会有很多主播直播节目，因此请查看 Twitch 或 YouTube 以找到一个可以观看的。]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285464/fortnite-remix-the-prelude-event-how-to-watch</guid>
+      <pubDate>Fri, 01 Nov 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我第一次自己动手修手机的经历让我成为了手机自我修复的忠实信徒</title>
+      <link>https://www.theverge.com/2024/11/1/24284078/hmd-skyline-repair-ifixit-battery-replacement</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24284078/hmd-skyline-repair-ifixit-battery-replacement</guid>
+      <pubDate>Fri, 01 Nov 2024 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果收购流行的图像编辑应用程序 Pixelmator</title>
+      <link>https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing</link>
+      <description><![CDATA[
+
+图片：Pixelmator
+
+Apple 已同意收购 Pixelmator，这是一款可在 Mac 和 iOS 上使用的流行图像编辑应用程序。 Pixelmator 在其博客上的一篇文章中宣布了这一消息，称现在“它能够覆盖更广泛的受众，并对世界各地创意人士的生活产生更大的影响。” 
+Pixelmator 就此次收购发表了以下声明（重点是我们）：
+Pixelmator 已签署协议，将被 Apple 收购，但需获得监管部门的批准。Pixelmator Pro、Pixelmator for iOS 和 Photomator 应用程序目前不会发生重大变化。请继续关注即将发布的激动人心的更新。
+除了交易仍在进行中且需要获得监管部门批准苹果收购这家立陶宛公司之外，没有透露有关该交易的任何细节。不过，这可能很棘手——尽管微软成功收购了动视暴雪，但在监管压力下失败的交易包括Nvidia 和 Arm、亚马逊和 iRobot，以及最近的Adobe 和 Figma。
+Apple 在 2020 年收购了热门天气应用 Dark Sky之后，于 2022 年关闭了该应用，并将其技术与第一方天气应用程序。不过，Apple 收购的其他软件包，如 Final Cut 和 Logic Pro，在收购多年后仍然可用。
+多年来，Pixelmator Pro 已成为 Adob​​e Photoshop 的可行且便宜得多的替代品，因为它只需一次性支付 49.99 美元即可使用。它提供了一套强大的工具，可用于编辑和修饰照片、创建设计、绘图等。该应用程序的最新更新重新设计了其遮罩过程，并增加了使用 AI 隐藏图像背景的功能。
+]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing</guid>
+      <pubDate>Fri, 01 Nov 2024 16:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果将​​收购其 iPhone 卫星服务合作伙伴 20% 的股份</title>
+      <link>https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite</link>
+      <description><![CDATA[
+
+照片由 Victoria Song / The Verge 拍摄
+
+作为与该公司交易扩展的一部分，Apple 将收购其 iPhone 卫星连接合作伙伴 GlobalStar 20% 的股份，价值 4 亿美元。 GlobalStar 还将从 Apple 获得 11 亿美元的预付款，用于改善卫星基础设施。
+Apple 依靠 GlobalStar 的卫星在没有手机信号的地区通过天空发送紧急短信、iMessage 反应等。GlobalStar 在一份 SEC 文件中披露了交易扩展的细节，其中包括“新的卫星星座、扩展的地面基础设施和增加的全球 [移动卫星服务] 许可。” 
+
+Apple 于 2022 年在 iPhone 14 上推出了紧急 SOS 功能，并在iOS 18中对其进行了扩展，使离网用户能够在野外通过 iMessage 和短信发送和接收文本、表情符号和 Tapback。
+Apple 打算在某个时候向用户收取卫星连接服务费用，但目前还没有。从 iPhone 14 开始，Apple 已提供两年免费使用卫星功能的手机。但去年，iPhone 14 用户获得了额外一年，将免费服务延长至 2025 年 11 月。
+]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285347/apple-globalstar-investment-expansion-emergency-sos-satellite</guid>
+      <pubDate>Fri, 01 Nov 2024 15:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 的新自定义列表可帮助您整理聊天内容</title>
+      <link>https://www.theverge.com/2024/11/1/24285380/whatsapp-custom-lists-organize-chats</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+WhatsApp 正在添加另一种方式来组织您的所有聊天。如果您厌倦了费力寻找某些对话，现在您可以将它们放入自定义类别（称为列表）中。
+您可以创建和标记专用于特定聊天的列表，例如与家人或同事的聊天。然后，消息应用程序会将它们显示在收件箱的最顶部，与“全部”、“未读”和“群组”一起显示WhatsApp 今年早些时候推出的过滤器。
+
+
+图片：WhatsApp
+
+要创建列表，请点击聊天选项卡顶部过滤栏中的“+”图标。然后，您可以输入列表名称并选择要添加的对话。WhatsApp 允许您将群聊和一对一对话添加到列表中。如果您有多个列表，您可以在过滤栏上水平滚动以查看所有列表。
+列表今天开始推出，我已经在 Android 版应用中看到了该功能。如果您还没有看到它，请不要担心，因为 WhatsApp 表示它将在“未来几周”内向所有人开放。]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285380/whatsapp-custom-lists-organize-chats</guid>
+      <pubDate>Fri, 01 Nov 2024 15:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>如何注册亚马逊 Prime</title>
       <link>https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free</link>
@@ -36,83 +167,6 @@ Wyze Scale Ultra 还可用于称量宠物、儿童和行李。
 连接包括蓝牙和 Wi-Fi，Wyze Scale Ultra 可自动识别和同步最多 8 个不同用户的健康指标测量值 - 无论是其移动应用程序还是 Apple Health、Google Fit 和 Fitbit 平台。但是，它不可充电。它由四节 AA 电池供电，Wyze 称这些电池可以为体重秤供电长达九个月。]]></description>
       <guid>https://www.theverge.com/2024/11/1/24285281/wyze-scale-ultra-smart-health</guid>
       <pubDate>Fri, 01 Nov 2024 14:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普再次提起审查诉讼</title>
-      <link>https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/1/24285305/trump-lawsuit-cbs-harris-interview-fcc-broadcast-censorship</guid>
-      <pubDate>Fri, 01 Nov 2024 14:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌正在将智能家居控制融入 Gemini</title>
-      <link>https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Google 正在向 Gemini 应用添加 Google Home 扩展程序，让您可以在与 AI 助手聊天的同时控制智能家居。此次更新是 Google Home 的公开预览计划的一部分，可供 Android 用户使用。更新后，您可以使用自然语言提示，例如“将餐厅设置为浪漫约会之夜”来调整灯光，或“帮我打扫厨房”来打开吸尘器。
-以前，如果您尝试控制智能家居，Gemini 应用会打开 Google Assistant。借助新的 Google Home 扩展程序，您可以在 Gemini 应用中对智能照明、气候控制、窗帘、电视、扬声器等执行操作。
-
-
-
-
-
-但是，Gemini 中的扩展程序并不支持所有智能设备。正如谷歌所指出的，它会将你链接到 Google Home 应用，以控制与安全设备相关的功能，包括摄像头、锁、大门和门。它也无法执行例程。
-与谷歌一样，亚马逊也在努力在 Alexa 中添加对自然语言命令的支持。该公司已经推出了预览版，其中包含此更新的元素，但我们可能要等到明年才能看到 Alexa 的全面 AI 改造。虽然 Apple 计划使用 Apple Intelligence 升级 Siri，但该助手在智能家居中尚未发挥作用。
-如果您想访问 Google Home 扩展功能，则必须按照步骤加入 Google Home 公开预览版。目前，该功能仅提供英语版本。
-然后，要使用该功能，请使用与 Google Home 相同的帐户登录 Gemini 应用。然后，您可以要求 Gemini 执行特定操作，例如“打开客厅灯”。Google 表示，如果 Gemini 不自动使用该扩展程序，您可能需要在提示中包含“@Google Home”。]]></description>
-      <guid>https://www.theverge.com/2024/11/1/24285283/google-smart-home-extension-gemini-app</guid>
-      <pubDate>Fri, 01 Nov 2024 14:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能车库门之谜</title>
-      <link>https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast</guid>
-      <pubDate>Fri, 01 Nov 2024 13:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>投票机公司正在采取哪些措施来避免再次出现 2020 年的情况</title>
-      <link>https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation</guid>
-      <pubDate>Fri, 01 Nov 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 最喜欢的社交网络</title>
-      <link>https://www.theverge.com/24283800/threads-twitter-bluesky-favorites</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24283800/threads-twitter-bluesky-favorites</guid>
-      <pubDate>Fri, 01 Nov 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联想 Yoga Slim 7i Aura 版评测：英特尔卓越品质，外观平庸</title>
-      <link>https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24283884/lenovo-yoga-slim-7i-aura-edition-laptop-intel-lunar-lake-review</guid>
-      <pubDate>Fri, 01 Nov 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>任天堂为何要瞄准这位 YouTuber？</title>
-      <link>https://www.theverge.com/games/24272743/nintendo-retro-game-corps-russ-crandall-profile-youtube-emulation-dmca-takedown-copyright-strike</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/games/24272743/nintendo-retro-game-corps-russ-crandall-profile-youtube-emulation-dmca-takedown-copyright-strike</guid>
-      <pubDate>Fri, 01 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 17 可能会使用苹果自己的 Wi-Fi 芯片</title>
-      <link>https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom</link>
-      <description><![CDATA[
-
-硬件很难。| 图片：Cath Virginia / The Verge
-
-Apple 制造自己的无线芯片的旅程很漫长，但终点可能就在眼前。分析师郭明池在 X 上发帖称，苹果将从明年下半年的 iPhone 17 开始转向自家的 Wi-Fi / 蓝牙芯片。 
-郭也同意 9to5Mac 的报告，预计 2025 年春季推出的 iPhone SE 4 将成为首款使用苹果自家 5G 调制解调器的设备。他说，SE 将继续使用博通生产的第三方 Wi-Fi 芯片，而 iPhone 17 将成为首款同时使用苹果自产调制解调器和 Wi-Fi 芯片的设备。
-显然，调制解调器很难。自 2019 年收购英特尔调制解调器部门以来，苹果一直在努力摆脱使用高通的射频调制解调器。这是因为苹果以喜欢掌控自己的命运而闻名，而且高通和苹果互相憎恨。据报道，iPhone 15 应该是第一款搭载新调制解调器的苹果手机，但事实证明这是一个不切实际的目标。这款调制解调器也未准备好用于今年的 iPhone。
-经济实惠的 iPhone SE 系列即将迎来重大升级，看来 Apple 打算添加的不仅仅是新的定制调制解调器。有传言称，它将首次配备 OLED 屏幕、Face ID，并且 将支持 Apple Intelligence。但这些并不是它可能看到的唯一升级：更高的价格标签也可能会出炉。]]></description>
-      <guid>https://www.theverge.com/2024/10/31/24284959/iphone-17-wifi-bluetooth-chip-broadcom</guid>
-      <pubDate>Thu, 31 Oct 2024 23:18:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
