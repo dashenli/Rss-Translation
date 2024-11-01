@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 01 Nov 2024 12:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 15:18:40 GMT</lastBuildDate>
+    <item>
+      <title>集体#877</title>
+      <link>https://tympanus.net/codrops/collective/collective-877/</link>
+      <description><![CDATA[NextMaster * Web 组件的闪光点 * 未来 CSS 的可能]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-877/</guid>
+      <pubDate>Fri, 01 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚焦：Elena Smirnova</title>
       <link>https://tympanus.net/codrops/2024/11/01/designer-spotlight-elena-smirnova/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用@mediapipe/hands 和 Three.js 创建具有深度的完整 3D 手控制器。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</guid>
       <pubDate>Thu, 24 Oct 2024 12:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Monolith Studio</title>
-      <link>https://tympanus.net/codrops/2024/10/22/case-study-monolith-studio/</link>
-      <description><![CDATA[走进 Monolith Studio 与 Artemii Lebedev、Okan Uckun 和 Oscar Akermo 合作创建的大胆网站的幕后，了解他们如何将现代布鲁克林纹身工作室带到网上。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/22/case-study-monolith-studio/</guid>
-      <pubDate>Tue, 22 Oct 2024 13:33:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
