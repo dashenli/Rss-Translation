@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Fri, 01 Nov 2024 18:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 21:14:34 GMT</lastBuildDate>
+    <item>
+      <title>《使命召唤 黑色行动 6》11 月 1 日补丁修复棘手的黑屏故障和其他问题</title>
+      <link>https://www.ign.com/articles/call-of-duty-black-ops-6-november-1-patch-fixes-troublesome-black-screen-glitch-and-other-issues</link>
+      <description><![CDATA[Treyarch 和 Raven Software 发布了《使命召唤：黑色行动 6》的一个小更新，修复了多人游戏和僵尸模式中的许多问题。]]></description>
+      <guid>https://www.ign.com/articles/call-of-duty-black-ops-6-november-1-patch-fixes-troublesome-black-screen-glitch-and-other-issues</guid>
+      <pubDate>Fri, 01 Nov 2024 19:07:45 GMT</pubDate>
+    </item>
     <item>
       <title>PC 版 GTA Online 将于 2025 年获得当前世代主机功能</title>
       <link>https://www.ign.com/articles/gta-online-on-pc-is-finally-getting-current-gen-console-features-in-2025</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这款超大的 85 英寸型号正在黑色星期五促销。]]></description>
       <guid>https://www.ign.com/articles/hisense-qd7-4k-gaming-tv-is-the-best-budget-tv-early-black-friday-deal-2024</guid>
       <pubDate>Thu, 31 Oct 2024 19:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apex Legends 因作弊行为猖獗而放弃对 Steam 卡组的支持</title>
-      <link>https://www.ign.com/articles/apex-legends-drops-steam-deck-support-over-rampant-cheating</link>
-      <description><![CDATA[EA 和 Respawn Entertainment 正在对 Apex Legends 进行更改，不再允许玩家通过 Linux 操作系统访问游戏，包括使用 Linux 的 Steam Deck。]]></description>
-      <guid>https://www.ign.com/articles/apex-legends-drops-steam-deck-support-over-rampant-cheating</guid>
-      <pubDate>Thu, 31 Oct 2024 19:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
