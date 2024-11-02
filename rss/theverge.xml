@@ -4,7 +4,30 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 02 Nov 2024 01:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 03:20:17 GMT</lastBuildDate>
+    <item>
+      <title>Okta 登录漏洞导致某些长用户名的密码检查被绕过</title>
+      <link>https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass</link>
+      <description><![CDATA[
+
+插图：Cath Virginia / The Verge |图片来自 Getty Images
+
+周五晚上，Okta 发布了一条奇怪的安全警告列表更新。最新记录显示，在特定情况下，有人可以通过输入任何密码来登录，但前提是帐户的用户名超过 52 个字符。
+根据通知 人们报告收到，利用该漏洞的其他要求包括 Okta 检查上次成功登录的缓存，并且组织的身份验证策略没有添加额外条件，例如要求多因素身份验证 (MFA)。
+以下是目前可用的详细信息：
+
+10 月 30 日， 2024，在生成 AD/LDAP DelAuth 的缓存密钥时，内部发现了一个漏洞。Bcrypt 算法用于生成缓存密钥，其中我们对用户 ID + 用户名 + 密码的组合字符串进行哈希处理。在特定条件下，这可以允许用户仅通过向用户名提供先前成功身份验证的存储缓存密钥来进行身份验证。
+如果代理已关闭且无法访问或流量很大，则可以利用此漏洞。这将导致 DelAuth 首先命中缓存。
+
+
+
+Okta 允许任何超过 52 个字符的用户名绕过登录，这太疯狂了官方安全公告：https://t.co/3b4v30q53z pic.twitter.com/yD8FkgwSgs— Kinnaird McQuade ☁️ (@kmcquade3) 2024 年 11 月 1 日
+
+
+根据说明，该漏洞自 7 月 23 日更新以来一直存在，直到内部发现漏洞后，通过将加密算法从 Bcrypt 切换到 PBKDF2 才得到解决。Okta 没有立即回应要求提供更多详细信息的请求，但表示设置符合必要条件的客户应检查这三个月的系统日志。]]></description>
+      <guid>https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass</guid>
+      <pubDate>Sat, 02 Nov 2024 02:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>部分 iPhone 14 Plus 手机存在摄像头问题，但苹果可能会免费修复</title>
       <link>https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free</link>
@@ -158,31 +181,6 @@ Schwinn 表示，电动 Hurricane 充电 5 小时后可行驶约 30 英里，但
 其他功能包括从原始 Schwinn Hurricane 沿用过来的超大“摩托风格”软垫座椅设计、车把上的基本 LED 电池指示灯、盘式制动器以及在自行车通电时始终亮起的前灯和后灯。]]></description>
       <guid>https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike</guid>
       <pubDate>Fri, 01 Nov 2024 19:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以尝试微软更现代的 Windows Hello UI</title>
-      <link>https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing</link>
-      <description><![CDATA[
-
-图片：微软
-
-微软正在更新其 Windows Hello 身份验证（包括面部和指纹识别）在 Windows 11 中的工作方式。Windows Hello 体验的改进目前正在 Windows Insiders 中进行 Beta 测试，包括视觉变化、新图标和密钥改进。
-这个新 UI 不仅不仅会出现在 Windows 11 登录屏幕上，还会出现在您使用密钥登录网站和应用时。“我们重新设计了密钥的 Windows 安全凭证用户体验，从而创建了一种支持安全快速身份验证的更简洁的体验，”Windows 团队解释道。 “用户现在可以在身份验证选项之间切换，并更直观地选择密钥/设备。”
-
-
-图片：微软
-Windows 11 登录屏幕上的新 Windows Hello UI。
-
-微软目前在 Windows 11 中支持密钥，但在移动设备上使用密钥的体验需要扫描二维码和过时的 UI。作为 Windows Hello UI 大修的一部分，新的密钥登录 UI 和 Microsoft 帐户身份验证将大大改善这一点。
-Microsoft 还为第三方密码和密钥管理器构建了一个新的 API，可让开发人员直接接入这种现代的 Windows Hello 体验。它还将允许 Windows 11 用户使用移动设备上的密钥在 PC 上使用应用和网站进行身份验证。这种新的密钥体验还将支持将密钥保存到第三方应用或将其同步到您的 Microsoft 帐户。
-
-
-图片：Microsoft
-新的密钥登录流程。
-
-Microsoft 已开始针对 Beta 频道 (23H2) 测试这种新的 Windows Hello 体验，它也应该会出现在开发频道（基于 24H2)，一旦版本很快恢复。我预计我们将在未来几个月内看到这个新的 Windows Hello UI 出现在所有 Windows 11 用户面前。]]></description>
-      <guid>https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing</guid>
-      <pubDate>Fri, 01 Nov 2024 17:58:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
