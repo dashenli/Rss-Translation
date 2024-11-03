@@ -4,7 +4,24 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Nov 2024 18:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 21:15:04 GMT</lastBuildDate>
+    <item>
+      <title>任天堂的 Alarmo 能运行《毁灭战士》吗？当然可以</title>
+      <link>https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions</link>
+      <description><![CDATA[
+
+这可是爆破恶魔。 |照片由 Chris Welch / The Verge 拍摄
+
+John Deere 拖拉机、宜家智能灯泡、乐高积木和MacBook Pro Touch Bar 有什么共同点？它们都可以运行 Doom，当然，任天堂的可爱的 Alarmo 闹钟 也可以运行。有人能做到这一点只是时间问题，但我没想到的是，当它发生时，它是可玩的。
+这正是黑客 GaryOberNicht 所做的，他最近弄清楚了如何在 Alarmo 上运行自定义固件，并在昨天发布到 Mastodon 和他们的 X 帐户的视频中做到了这一点。在游戏中，玩家可以通过旋转或按下 Alarmo 顶部的蘑菇形按钮来移动，按下其他按钮来射击或开门。请看这里：
+
+Gary 表示“可以完全从 USB 加载 Doom 的共享软件版本，而无需修改 Alarmo”。他们已将软件和运行说明放在 Github 上，因此几乎任何知识渊博且决心坚定的 Alarmo 所有者都可以做到这一点。最棒的是，这完全不需要打开时钟就可以完成。
+他们是如何做到这一点的？Gary 在一篇博客文章中解释说，在另一个叫 Spinda 的人破解了 Alarmo（使用 Flipper Zero）并从内存中转储固件后，Gary 想出了一种使用 USB 模式和 USB-C 端口将 Alarmo 指向自定义外部固件的方法。 
+
+鉴于重现 Gary 所做的事情似乎很容易，Alarmo 软件修改几乎肯定不会止步于Doom。当然，任何在线社区将 Alarmo 变成奇异游戏机的努力能取得多大进展，可能取决于任天堂对此有何看法。任天堂最近在版权纠纷方面表现得特别活跃。]]></description>
+      <guid>https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions</guid>
+      <pubDate>Sun, 03 Nov 2024 18:22:59 GMT</pubDate>
+    </item>
     <item>
       <title>你最喜欢的音乐家最喜欢的 TikTok 节目</title>
       <link>https://www.theverge.com/2024/11/3/24285474/track-star-tiktok-music-game-show-vergecast</link>
@@ -88,13 +105,6 @@ Malcolm Todd 剧集
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale</guid>
       <pubDate>Sat, 02 Nov 2024 14:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>《无敌战斗少女》的创作者想要延续连载动画的梦想</title>
-      <link>https://www.theverge.com/2024/11/2/24283804/invincible-fight-girl-interview-juston-gordon-montgomery</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/2/24283804/invincible-fight-girl-interview-juston-gordon-montgomery</guid>
-      <pubDate>Sat, 02 Nov 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
