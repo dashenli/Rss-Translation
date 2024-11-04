@@ -4,7 +4,34 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Nov 2024 21:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 01:13:09 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity 推出人工智能选举信息中心</title>
+      <link>https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris</link>
+      <description><![CDATA[
+
+The Verge
+
+AI 搜索公司 Perplexity 正在测试使用 AI 提供关键投票信息是否是个好主意，并推出了新的选举信息中心 周五宣布。该中心提供人工智能生成的投票问题答案和候选人摘要等内容，该公司表示，在选举日 11 月 5 日，它将使用美联社的数据实时跟踪投票计数。
+Perplexity 表示，其选民信息（包括投票要求、地点和时间）基于 Democracy Works 的数据。（该组织为谷歌提供类似功能）。其与选举相关的答案来自“一组精选的最值得信赖和最具信息量的来源”。
+Perplexity 发言人 Sara Plotnick 在给 The Verge 的电子邮件中证实，美联社和 Democracy Works 都是该中心的官方合作伙伴。 Plotnick 详细阐述了 Perplexity 的来源：
+我们选择了无党派且经过事实核查的领域，包括 Ballotpedia 和新闻机构。我们正在积极监控我们的系统，以确保在回答与选举相关的查询时继续优先考虑这些来源。
+该中心提供有关您输入的任何位置（例如地址或城市）选票上内容的详细信息。还有一些标签用于监控从周二开始举行的总统、美国参议院和美国众议院选举，每个州的细分显示了计票百分比和领先者。
+
+
+屏幕截图：Perplexity 选举中心
+很有趣，但可能不是 Perplexity 想要的。
+
+当我点击候选人时，AI 摘要出现了一些错误，例如没有提到罗伯特·肯尼迪（我居住地的选票上有他）已退出竞选。它还列出了一位“未来总统夫人”候选人，点击后，我找到了上述副总统卡玛拉·哈里斯的候选资格摘要，只是其中有一些她正常摘要中没有的表情包图片。
+Plotnick 表示，该公司正在调查摘要中为何没有提到肯尼迪退出的原因。“根据您所在的位置，有时会出现填写的候选人，”Plotnick 补充道，以解释为什么未来总统夫人的名单可能会出现。 （它没有解释为什么它总结了哈里斯，但根据 Ballotpedia 的说法，未来的总统夫人确实以候选人的身份参选。） 
+这些错误说明了在如此高风险的用例中使用准确性受挑战的生成式人工智能的挑战，以及为什么其他人工智能公司回避这样做。ChatGPT、Meta AI 和 Google Gemini 都将选民信息问题转移到其他资源，如 canivote.org 或 Google 搜索。当我尝试时，微软的 Copilot 根本拒绝回答。
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris</guid>
+      <pubDate>Mon, 04 Nov 2024 00:36:12 GMT</pubDate>
+    </item>
     <item>
       <title>任天堂的 Alarmo 能运行《毁灭战士》吗？当然可以</title>
       <link>https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions</link>
@@ -98,13 +125,6 @@ Malcolm Todd 剧集
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/21309820/best-wireless-earbuds</guid>
       <pubDate>Sat, 02 Nov 2024 14:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 AirTags 价格已降至迄今为止最低水平之一</title>
-      <link>https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/2/24285795/apple-airtag-tracker-samsung-galaxy-buds-fe-earbuds-deal-sale</guid>
-      <pubDate>Sat, 02 Nov 2024 14:05:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
