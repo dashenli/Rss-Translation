@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:33:55 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 React 和 AI 代理创建由 AI 驱动的新闻通讯聚合器</title>
+      <link>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</link>
+      <description><![CDATA[在本实用教程中开始使用 AI 代理，并学习使用 React 和 KaibanJS 构建由 AI 驱动的新闻通讯聚合器。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>集体#877</title>
       <link>https://tympanus.net/codrops/collective/collective-877/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[GSAP 正在加入 Webflow * 关于质量的对话 * Shadercraft]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-875/</guid>
       <pubDate>Fri, 25 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 MediaPipe 和 Three.js 的网络摄像头创建 3D 手势控制器</title>
-      <link>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</link>
-      <description><![CDATA[了解如何使用@mediapipe/hands 和 Three.js 创建具有深度的完整 3D 手控制器。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/</guid>
-      <pubDate>Thu, 24 Oct 2024 12:22:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
