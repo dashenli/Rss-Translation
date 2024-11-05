@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 05 Nov 2024 09:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 12:31:49 GMT</lastBuildDate>
+    <item>
+      <title>集体#878</title>
+      <link>https://tympanus.net/codrops/collective/collective-878/</link>
+      <description><![CDATA[JavaScript 应该分成两种语言吗？* uifonts.app * Better Upload]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-878/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 React 和 AI 代理创建由 AI 驱动的新闻通讯聚合器</title>
       <link>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索建筑师转型为网页设计师的玛丽亚·拉科维奇（Maria Rakovic）的创意之旅，将建筑的精准性与网页设计和品牌推广中的数字艺术融为一体。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/25/designer-spotlight-maria-rakovic/</guid>
       <pubDate>Fri, 25 Oct 2024 15:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#875</title>
-      <link>https://tympanus.net/codrops/collective/collective-875/</link>
-      <description><![CDATA[GSAP 正在加入 Webflow * 关于质量的对话 * Shadercraft]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-875/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
