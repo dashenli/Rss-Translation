@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 09:18:46 GMT</lastBuildDate>
-    <item>
-      <title>声音侦察员</title>
-      <link>https://www.producthunt.com/posts/sound-scout</link>
-      <description><![CDATA[
-耳机和扬声器的在线声音测试
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sound-scout</guid>
-      <pubDate>Tue, 05 Nov 2024 22:07:20 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 12:31:03 GMT</lastBuildDate>
     <item>
       <title>认知</title>
       <link>https://www.producthunt.com/posts/the-cognity</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/the-cognity</guid>
       <pubDate>Tue, 05 Nov 2024 20:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>已编辑</title>
+      <link>https://www.producthunt.com/posts/redacto</link>
+      <description><![CDATA[
+轻松删除 PDF 和图片中的任何内容
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/redacto</guid>
+      <pubDate>Tue, 05 Nov 2024 16:39:31 GMT</pubDate>
     </item>
     <item>
       <title>竞争意识</title>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/youtube-playlist-calculator</guid>
       <pubDate>Tue, 05 Nov 2024 10:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤面包机</title>
+      <link>https://www.producthunt.com/posts/toaster</link>
+      <description><![CDATA[
+Figma 原型分析
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/toaster</guid>
+      <pubDate>Mon, 04 Nov 2024 11:00:20 GMT</pubDate>
     </item>
     <item>
       <title>今天几层？</title>
@@ -200,20 +214,6 @@ AI 转录笔记
 ]]></description>
       <guid>https://www.producthunt.com/posts/sona-7</guid>
       <pubDate>Thu, 17 Oct 2024 19:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SWE套件</title>
-      <link>https://www.producthunt.com/posts/swe-kit-2</link>
-      <description><![CDATA[
-构建您自己的 Devin 类软件工程代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/swe-kit-2</guid>
-      <pubDate>Wed, 25 Sep 2024 11:44:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
