@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 06 Nov 2024 18:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 21:17:25 GMT</lastBuildDate>
+    <item>
+      <title>（播客）反弹 520：蒂姆·库克的魅力</title>
+      <link>https://sixcolors.com/podcast/2024/11/the-rebound-520-the-tim-cookiness-of-it/</link>
+      <description><![CDATA[苹果的人工智能广告让我们感到不快。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/11/the-rebound-520-the-tim-cookiness-of-it/</guid>
+      <pubDate>Wed, 06 Nov 2024 20:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）顺时针 579：豆芽的现场活动</title>
+      <link>https://sixcolors.com/podcast/2024/11/clockwise-579-live-activities-for-bean-sprouts/</link>
+      <description><![CDATA[我们在 iOS 上的默认应用、我们对 Genmoji 的感受、我们最喜欢的端到端加密消息平台，以及我们是否使用实时活动来获取新闻和体育资讯。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/11/clockwise-579-live-activities-for-bean-sprouts/</guid>
+      <pubDate>Wed, 06 Nov 2024 20:09:25 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Intelligence 下一步将走向何方？（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2511451</link>
@@ -103,21 +117,6 @@ Pixelmator 已签署协议，将被 Apple 收购，但需获得监管部门批�
       <description><![CDATA[您会把充电端口放在哪里？…]]></description>
       <guid>https://sixcolors.com/podcast/2024/10/the-rebound-519-maybe-kamala-harris/</guid>
       <pubDate>Wed, 30 Oct 2024 17:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果最不受欢迎的决定背后的真相：这与你无关（Macworld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2504793/apples-decisions-may-be-unpopular-but-theyre-rooted-in-scale.html</link>
-      <description><![CDATA[十二年前，我和前 Macworld 同事 Lex Friedman 参加了一个以 Apple 为主题的会议，我们在会上发表了题为“Apple 现已庞大（而这对你来说很糟糕）”的演讲。…]]></description>
-      <guid>https://www.macworld.com/article/2504793/apples-decisions-may-be-unpopular-but-theyre-rooted-in-scale.html</guid>
-      <pubDate>Wed, 30 Oct 2024 16:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人人享有 16GB 内存：MacBook Air 加入 RAM 升级派对</title>
-      <link>https://sixcolors.com/post/2024/10/16gb-for-everyone-macbook-air-joins-the-ram-upgrade-party/</link>
-      <description><![CDATA[这家伙现在有了更多的 RAM。
-本周，除了 macOS 上推出 M4 处理器系列之外，Apple 的所有 Mac 发布都体现了一个趋势：新机型的基础 RAM 配置从 8GB 全面提升至 16GB。…]]></description>
-      <guid>https://sixcolors.com/post/2024/10/16gb-for-everyone-macbook-air-joins-the-ram-upgrade-party/</guid>
-      <pubDate>Wed, 30 Oct 2024 15:00:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
