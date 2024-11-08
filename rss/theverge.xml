@@ -4,7 +4,106 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 15:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 18:21:17 GMT</lastBuildDate>
+    <item>
+      <title>新款 Mac Mini 向可升级存储迈出了一小步</title>
+      <link>https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability</link>
+      <description><![CDATA[
+
+那台 Mac Mini SSD 是可拆卸的！|图片：X 用户 @L0vetodream
+
+Apple 的重新设计的 Mac Mini M4 已经放弃了之前 M2 机器的焊接到逻辑板上的 SSD，这一点已通过拆解如 X 上发布的 证实，它有一个可拆卸的 SSD 模块。这并不是苹果第一款朝这个方向发展的台式电脑，我们在 Mac Studio 和 Mac Pro 中也看到了类似的模块。     Mac mini M4拆解对比老款的机器体积大的集成度提高很多大家都在聊这个机器的硬盘是可敬畏式的我看过下确实是1个硬盘双盘位最大颗粒1TB用的是BGA 315硬盘最大升级容量可以到2T pic.twitter.com/vyhq3ZfGtL——有没有搞措置(@L0vetodream) 2024 年 11 月 8 日
+
+
+
+
+然而，正如 MacRumors 所指出的，它可能与他们的存储类似，只有板上的 NAND 芯片，控制器仍然嵌入在 SoC 中，严格限制任何可能的 DIY 升级或维修选项。
+在 第二个视频片段，同样来自抖音，TikTok 的中文版，该人将主板上的 NAND 芯片换成了更大的芯片，最高可支持 2TB 容量。据转发者称，他们能够让它正常工作，类似于我们从 Mac 黑客 Dosdude 等那里看到升级 Mac Studio 的存储空间。它还展示了 Mac Mini 的 WiFi 芯片和天线如何直接安装在机器底部进气口的背面。
+我们了解到的另一件事是，基础款 Mac Mini 模块有两个 128GB NAND 芯片，而不是一个 256GB 芯片，这意味着与之前发布的基础款 M 系列 Mac 相比，我们预计不会出现性能瓶颈。 Apple 在去年 4 月发布的 M3 MacBook Air 上重新启用了两款 128GB 芯片。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability</guid>
+      <pubDate>Fri, 08 Nov 2024 17:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以买到的最好的智能锁</title>
+      <link>https://www.theverge.com/23393163/best-smart-door-lock</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23393163/best-smart-door-lock</guid>
+      <pubDate>Fri, 08 Nov 2024 17:14:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普第二次担任总统对科技行业意味着什么</title>
+      <link>https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto</guid>
+      <pubDate>Fri, 08 Nov 2024 17:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌推出 Gemini AI 视频演示应用</title>
+      <link>https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout</link>
+      <description><![CDATA[
+
+Google Vids 的“帮我创建”屏幕由 Gemini AI 提供支持。 |图片：谷歌
+
+谷歌正在推出由 Gemini AI 驱动的 Vids 应用，该应用可让您使用提示创建视频演示。Vids 的一些主要功能包括让 Gemini 为您自动插入素材、生成脚本以及制作 AI 画外音，这样您就不必说话了。谷歌宣传称，该工具可以帮助将客户支持文章转换成视频、制作培训视频、分享公司公告、创建会议摘要等。
+默认情况下，视频将适用于有访问权限的 Workspace 组织，但谷歌指出，从 2026 年开始，“帮我创建”和 AI 配音等功能可能会受到使用限制。
+
+第一于 4 月发布，Vids 可让您将相关文档、幻灯片、画外音和视频录制放入应用的时间线，并为您的同事生成演示视频。该应用支持多种语言，但 AI 功能（例如“帮助我创建”和朗读提词器）目前仅提供英语版本。Vids 的推出期于 11 月 7 日开始，部分应用可能需要 15 天以上才能推出。]]></description>
+      <guid>https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout</guid>
+      <pubDate>Fri, 08 Nov 2024 16:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>大猩猩玻璃制造商康宁将根据《CHIPS法案》获得高达 3200 万美元的赔偿</title>
+      <link>https://www.theverge.com/2024/11/8/24291273/gorilla-glass-maker-corning-receive-chips-act-funding</link>
+      <description><![CDATA[
+
+三星 Galaxy S24 只是众多使用大猩猩玻璃的手机之一。|照片由 Allison Johnson / The Verge 拍摄
+
+大猩猩玻璃制造商康宁将根据《芯片与科学法案》获得高达 3200 万美元的资助。美国商务部在周五发布的一份声明中表示，拟议的资金将帮助康宁增加用于芯片制造过程的玻璃产品的产量。
+就在欧盟委员会对康宁展开反垄断调查几天后，该声明发布，调查内容是其是否使用独家供应协议来抑制竞争。 三星和苹果都在其手机、平板电脑和智能手表上使用康宁的超坚韧碱铝硅酸盐玻璃（或称大猩猩玻璃）。
+然而，拟议的 CHIPS 法案资金与大猩猩玻璃无关。康宁将把资金用于生产其高纯度熔融石英和超低膨胀玻璃。如新闻稿中所述，这两种类型的玻璃都用于光刻机和用于将芯片图案成像到硅晶片上的光掩模。这还将使康宁能够在其位于纽约坎顿的工厂“扩大新颖的制造工艺”，预计将创造 130 个新的制造业岗位和 175 多个建筑岗位。
+
+由总统乔·拜登于 2022 年签署的 CHIPS 法案旨在促进美国的半导体制造业。 而现在，彭博社报道，拜登政府正在忙于发放最后的拨款，因为其任期即将结束。当选总统唐纳德·特朗普领导下的 CHIPS 法案的未来仍不明朗。上周，众议院议长迈克·约翰逊（Mike Johnson，共和党 - 路易斯安那州）撤回了一份声明，称共和党将“废除”该立法，而是表示他们将“简化”它。]]></description>
+      <guid>https://www.theverge.com/2024/11/8/24291273/gorilla-glass-maker-corning-receive-chips-act-funding</guid>
+      <pubDate>Fri, 08 Nov 2024 16:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Slides 正在推出一系列全新的专业设计模板</title>
+      <link>https://www.theverge.com/2024/11/8/24291234/google-slides-templates-presentations</link>
+      <description><![CDATA[
+
+Google Slides 正在为企业、教师和学生提供更多专业设计的模板。 |图片：Google
+
+Google 正在向 Google Slides 推出一系列新现代模板，该公司表示这些模板经过“专业设计”，可以“满足广泛的使用场景”。对于希望加强员工之间协作的公司，有新的销售宣传、产品路线图、课程计划、读书报告、研讨会促进甚至“团队游戏模板”模板。
+新模板可能会让用户更轻松地从 Microsoft Office 套件和 Powerpoint 转移过来，类似于最近的更新，这些更新带来了更简单的 Google Sheets 表格格式和标签，使组织信息变得更容易在单个 Google 文档中。
+更新后的模板库本周开始向所有人推出，涵盖个人Gmail 帐户和各级付费 Workspace 客户均可使用，预计全面推出将于 11 月底前完成。不过，新模板仅适用于语言设置为“英语（美国）”的用户。使用“英语（英国）”或“英语（澳大利亚）”的用户将无法使用它们。
+
+
+图片：Google
+本周部分用户可以使用新模板，预计 11 月底全面推出。
+
+
+当您的帐户可以使用刷新后的模板时，您可以通过打开 Google Slides 并使用顶部工具栏或“插入”来访问刷新后的模板&gt; 模板”。选择要使用的模板后，您将可以选择只插入单张幻灯片，这样您就可以使用各种模板来组装演示文稿，也可以插入所有模板，确保您的演示文稿具有统一的视觉主题。]]></description>
+      <guid>https://www.theverge.com/2024/11/8/24291234/google-slides-templates-presentations</guid>
+      <pubDate>Fri, 08 Nov 2024 16:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Verge 的 2024 年节日礼物指南</title>
+      <link>https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets</link>
+      <description><![CDATA[
+
+照片：Amelia Holowaty Krales / The Verge
+
+一系列有趣、实惠且独特的礼物，适合您名单上的每个人。 对于许多人来说，花费与亲朋好友共度时光是节日里最重要的传统——而这其中很大一部分是找到适合每个人的完美礼物所带来的满足感。幸运的是，我们对挑选礼物略知一二。
+
+每年，我们都会咨询The Verge最伟大的思想家，汇集一系列丰富的礼物创意，这些创意既建立在我们的编辑报道基础之上，也建立在我们的个人兴趣之上。我们精心设计的 2024 年备忘单充满了我们最喜欢的技术 - 从降噪耳塞和流媒体设备到彩色电子阅读器和智能戒指——以及对于那些希望进一步节省预算的人来说便宜的选择。毕竟，你不需要送礼物500 美元的胶卷相机或新奇的游戏机只是为了向某人表达你的关心。有时，一件有趣的衬衫就可以了。
+不过，这只是一个预览。在接下来的几周内，我们将为妈妈、爸爸、修补匠、旅行者以及您节日愿望清单上的其他所有人推出礼物指南。如果运气好的话，这将使核对名字变得容易得多。
+
+]]></description>
+      <guid>https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets</guid>
+      <pubDate>Fri, 08 Nov 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>以下是任天堂和 Pokémon Company 起诉 Palworld 的专利</title>
       <link>https://www.theverge.com/2024/11/8/24291232/nintendo-pocketpair-palworld-lawsuit-patents</link>
@@ -12,7 +111,7 @@
 
 图片：Palworld
 
-Palworld 开发商 Pocketpair 披露了任天堂和 Pokémon Company 在日本提起的侵权诉讼案的核心专利 早在九月。 Pocketpair 还表示，除了每人 500 万日元外加滞纳金外，他们还“寻求对该游戏的禁令，并赔偿专利注册日期和提起诉讼日期之间造成的部分损失”。
+Palworld 开发商 Pocketpair 披露了任天堂和 Pokémon Company 在日本提起的侵权诉讼案的核心专利 早在九月。 Pocketpair 还表示，除了每人 500 万日元外加滞纳金外，他们还“寻求针对该游戏的禁令，并赔偿专利注册日期和提起诉讼日期之间造成的部分损失”。
 Pokémon Company 引用了三项日本专利，分别为 7545191、7493117 和 7528390。从权利要求的翻译来看，它们似乎描述了 Pokémon 式的活动，其中‘191 侧重于向田野中的角色投掷球的行为，‘117 与瞄准有关，‘390 与骑乘角色有关。然而，我们必须更深入地研究原始的日本专利语言和日本专利法，才能了解这些专利在诉讼中有多强。
 
 
@@ -36,107 +135,6 @@ Pokémon Company 引用了三项日本专利，分别为 7545191、7493117 和 7
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2024/11/8/24291165/amd-ryzen-7-9800x3d-stock-sold-out</guid>
       <pubDate>Fri, 08 Nov 2024 10:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的 Xbox 控制器</title>
-      <link>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s</guid>
-      <pubDate>Fri, 08 Nov 2024 00:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合训练和日常生活的最佳 Garmin 手表</title>
-      <link>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables</guid>
-      <pubDate>Thu, 07 Nov 2024 23:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在最值得购买的手机</title>
-      <link>https://www.theverge.com/22163811/best-phone</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22163811/best-phone</guid>
-      <pubDate>Thu, 07 Nov 2024 22:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Photos 正在推出更新页面，帮助您跟踪共享相册的变更</title>
-      <link>https://www.theverge.com/2024/11/7/24290815/google-photos-updates-changes-shared-albums</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Google Photos 新增了“更新”部分，让您可以更轻松地跟踪共享相册中的活动。根据 Google 的支持帖子，在新版块中，您将能够看到通知，例如共享相册的更新和 Google Photos 中对话的更新。。
-点击替换共享按钮（看起来像两个人的按钮）的铃铛图标即可找到更新版块。Google Photos 团队在帖子中表示，更新按时间顺序显示，您将能够查看“今天、昨天、本周、本月、上个月及以后”的活动。 “我们希望通过一个界面简化您查看最近活动的方式，使相册、群组和对话更易于访问。”
-Google 指出，如果您想访问共享相册，可以从新推出的收藏集部分进行访问。 
-新的更新页面现已在 Android 和 iOS Google Photos 应用上推出。我个人没有这个页面，但我的一位同事有；如果您还没有这个页面，Photos 团队建议您“在未来几周内”再回来查看。]]></description>
-      <guid>https://www.theverge.com/2024/11/7/24290815/google-photos-updates-changes-shared-albums</guid>
-      <pubDate>Thu, 07 Nov 2024 22:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian R2 的下一代电池将由 LG Energy 在美国生产</title>
-      <link>https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture</link>
-      <description><![CDATA[
-
-
-Rivian 于 其第三季度收益报告。 
-Rivian 于 3 月份首次披露了新电池，当时它宣布 R2 是其更实惠的电动 SUV，起价为 45,000 美元。 （它还宣布推出运动型 R3 车型。）该电池因其直径 46 毫米、高度 95 毫米而被称为“4695”——比特斯拉的 4680 电池更大。
-Rivian 目前在其 R1T 和 R1S 车辆中使用的电池组在其位于伊利诺伊州诺默尔的工厂组装，使用由三星 SDI 在韩国生产的电池。现在，这些电池将在美国生产，以更好地遵守《通货膨胀削减法案》规定的税收抵免要求。Rivian 在致股东的一封信中表示，这些电池将在 LG 位于亚利桑那州皇后溪的工厂生产第一年。 
-
-
-
-Rivian 表示，下一代电池组将比现有电池更轻、更简单、生产成本更低。该公司还预计，“与 R1 平台相比，电池组层面的每千瓦时 (kWh) 成本将大幅降低。”而且由于新电池组比 R1 电池更大，因此整体电池组包含的电池更少，这将使制造过程更加高效。Rivian 表示，预计组装过程将改善 45%。
-自《通胀削减法案》通过以来，汽车制造商一直在争先恐后地将电动汽车电池制造转移到美国，以遵守要求国内生产的规则，从而有资格获得慷慨的补贴。随着当选总统唐纳德·特朗普重返白宫，他们需要加快步伐，以避免新任总统承诺实施的对进口商品征收严厉的关税。 
-LG Energy Solution 也为许多传统汽车制造商生产电动汽车电池。该公司与通用汽车的合资企业于 2022 年从能源部获得了 25 亿美元贷款，用于建设新的锂离子电池制造工厂。
-
-Rivian 表示，R2 将于 2026 年上半年投入生产。但由于特朗普还承诺取消拜登总统的电动汽车补贴，问题仍然是，像 Rivian 这样陷入困境的纯电动汽车公司能否在预期的是一个更加不确定的市场。]]></description>
-      <guid>https://www.theverge.com/2024/11/7/24290785/rivian-r2-battery-lg-energy-manufacture</guid>
-      <pubDate>Thu, 07 Nov 2024 22:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果终于让绿色气泡发送信息反应</title>
-      <link>https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android</link>
-      <description><![CDATA[
-
-插图由 Cath Virginia / The Verge 提供
-
-Apple 终于可以正确显示 Android 用户的消息反应了，这算是向他们表达了爱意。现在，当 Android 用户对来自 iOS 用户的 RCS 消息做出反应时，所选表情符号将与 iOS 上的消息气泡对齐显示 - 而不是像往常一样显示为单独的一行，例如：“‘那不应该发生。’”
-The Verge 在运行 iOS 18.1 的 iPhone 和不同的 Android 手机之间发送了测试消息和表情符号反应，确认两种设备现在都按预期显示反应。目前尚不清楚这一变化何时发生，也不清楚谷歌或苹果哪一方必须做出调整才能使其正常工作。
-当 RCS 于 9 月首次在 iOS 上广泛推出时，来自 Android 用户的消息反应仍然无法在 iPhone 上正确显示，即使它们反过来也可以。我们联系了这两家公司征求意见，但在发布之前没有得到回复。
-
-
-截图：The Verge
-我们偶然发现消息反应现在可以正常工作了。
-
-Apple 对 RCS 消息的悄然改进令人惊讶。多年来，苹果一直无视谷歌敦促其采用该标准的活动，最终在中国和欧盟的多重压力下才得以遵守。iOS 18 中包含了对 RCS 的基本支持。
-在信息应用中，苹果正式支持称为 RCS 通用配置文件的基本 RCS 标准。表情符号反应支持是 RCS 2.7 版的一部分，该版本还应包括编辑已发送消息的功能 - 但我们无法在 iOS 上实现此功能。当然，苹果将为其蓝色气泡 iMessage 服务保留尽可能多的独家功能，至少在它不被迫改变的情况下。]]></description>
-      <guid>https://www.theverge.com/2024/11/7/24290703/apple-green-bubble-message-reaction-rcs-android</guid>
-      <pubDate>Thu, 07 Nov 2024 22:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用这款可调节的 MagSafe 灯升级 iPhone 的弱闪光灯</title>
-      <link>https://www.theverge.com/2024/11/7/24290598/harlowe-sol-5-magsafe-iphone-mobile-light</link>
-      <description><![CDATA[
-
-Sol 5 包含色温调节功能，有助于营造照片氛围。 | 图片：Harlowe
-
-Harlowe 的 Sol 5 是一款三英寸伸缩灯，可安装在 iPhone 上的 MagSafe 支架上，以提高照片和自拍的质量。 现已上市，售价 79 美元，或作为旅行套装的一部分，售价 159 美元，该套装包含一个柔光箱扩散器，有助于减少刺眼的阴影。
-Sol 5 并不是一个新想法。当 iPhone 12 首次搭载 MagSafe 时，它为新配件打开了大门，其中包括类似的灯，可以固定在手机背面——随时准备改善照片。 Sol 5 似乎做得更好的地方在于提供了更多的灵活性和控制力。
-Sol 5 的发光圆盘 通过一个短臂连接到磁性支架上，短臂可以延伸其范围并使其根据需要旋转 180 度和角度。 这使得 Sol 5 也可以用作间接光源，通过将其从附近的另一个表面反射来柔化其效果。但它不需要粘在 iPhone 上。它也可以用作独立光源，甚至可以用作手电筒，其性能远远超过 iPhone 的 LED。
-
-
-图片：Harlowe
-Sol 5 具有可伸缩旋转的头部，可使用 iPhone 两侧的摄像头进行自拍。
-
-在标准模式下，Sol 5 可投射 200 流明的光线，但它也具有临时增强模式，可将其输出增加到 360 流明，持续 30 秒。可以使用两个拨盘控件之一进一步调整其亮度。另一个功能允许在 2,700K（暖色）和 6,500K（冷色）色调之间调整 Sol 5 的色温。
-Horlowe 声称 Sol 5 内置的 1,000mAh 可充电电池可使其以全亮度运行一小时 24 分钟，但频繁使用该增强模式会缩短运行时间。
-
-
-图片：Harlowe
-Sol 5 的可选扩散器可以帮助柔化和分散光线的照度。
-
-Sol 5 的柔光箱配件可以在上述旅行套件（包括更坚固的收纳盒）之外购买，价格为 39 美元。它通过磁力吸附在灯上，使照明均匀，Harlowe 称这使其成为“肖像、美照或特写镜头的理想选择，柔和的灯光可以增强拍摄对象的外观。”柔光箱还包括一个额外的扩散面板，可以连接以进一步柔化 Sol 5 的输出。]]></description>
-      <guid>https://www.theverge.com/2024/11/7/24290598/harlowe-sol-5-magsafe-iphone-mobile-light</guid>
-      <pubDate>Thu, 07 Nov 2024 21:34:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
