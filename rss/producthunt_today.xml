@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 03:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 06:22:16 GMT</lastBuildDate>
+    <item>
+      <title>提示QL</title>
+      <link>https://www.producthunt.com/posts/promptql</link>
+      <description><![CDATA[
+从 RAG 转向代理数据访问
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/promptql</guid>
+      <pubDate>Thu, 07 Nov 2024 07:01:49 GMT</pubDate>
+    </item>
     <item>
       <title>候补名单向导</title>
       <link>https://www.producthunt.com/posts/waitlistwizard</link>
@@ -34,32 +48,32 @@
       <pubDate>Wed, 06 Nov 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
-      <title>平衡矿工</title>
-      <link>https://www.producthunt.com/posts/balance-miner</link>
+      <title>读给我听</title>
+      <link>https://www.producthunt.com/posts/read-to-me</link>
       <description><![CDATA[
-将日语财务报表翻译成英文
+将任何 PDF 转换为有声读物
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/balance-miner</guid>
-      <pubDate>Wed, 06 Nov 2024 16:50:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/read-to-me</guid>
+      <pubDate>Wed, 06 Nov 2024 13:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>排名卷轴</title>
-      <link>https://www.producthunt.com/posts/rankreel</link>
+      <title>数据GIF</title>
+      <link>https://www.producthunt.com/posts/datagif-io</link>
       <description><![CDATA[
-立即根据您的数据创建动画排名图表
+将数据转换为动画 GIF 和视频图表
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/rankreel</guid>
-      <pubDate>Wed, 06 Nov 2024 06:32:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/datagif-io</guid>
+      <pubDate>Wed, 06 Nov 2024 12:07:36 GMT</pubDate>
     </item>
     <item>
       <title>Voxa.pro</title>
@@ -88,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/quorini</guid>
       <pubDate>Sat, 02 Nov 2024 21:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>收据快照</title>
-      <link>https://www.producthunt.com/posts/receipt-snapper</link>
-      <description><![CDATA[
-跟踪费用和智能收据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/receipt-snapper</guid>
-      <pubDate>Sat, 02 Nov 2024 15:39:56 GMT</pubDate>
     </item>
     <item>
       <title>CapCut 的 Commerce Pro</title>
@@ -146,20 +146,6 @@
       <pubDate>Sun, 27 Oct 2024 22:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>纸质生成器</title>
-      <link>https://www.producthunt.com/posts/papergen</link>
-      <description><![CDATA[
-撰写带有引文、图表等内容的长篇论文
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/papergen</guid>
-      <pubDate>Tue, 22 Oct 2024 22:15:31 GMT</pubDate>
-    </item>
-    <item>
       <title>黄油场景</title>
       <link>https://www.producthunt.com/posts/butter-scenes</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/voistory</guid>
       <pubDate>Mon, 21 Oct 2024 13:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nijta 的“语音港湾”</title>
+      <link>https://www.producthunt.com/posts/voice-harbor-by-nijta</link>
+      <description><![CDATA[
+在几秒钟内匿名化您的音频数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/voice-harbor-by-nijta</guid>
+      <pubDate>Mon, 21 Oct 2024 10:58:47 GMT</pubDate>
     </item>
     <item>
       <title>富有洞察力</title>
