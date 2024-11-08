@@ -4,7 +4,29 @@
     <title>嘭嘭</title>
     <link>https://boingboing.net/</link>
     <description>最精彩事物的目录</description>
-    <lastBuildDate>Thu, 07 Nov 2024 21:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:09:26 GMT</lastBuildDate>
+    <item>
+      <title>如何将 iPhone 设置为自动回复，停止发送垃圾机器人短信</title>
+      <link>https://boingboing.net/2024/11/07/how-to-set-your-iphone-to-auto-reply-stop-to-spam-robotexts.html</link>
+      <description><![CDATA[无论是否选举，我都收到了太多垃圾机器人文本。创意程序员Nolen Royalty创建了一个优雅的 iOS 自动化程序，可以自动回复未知号码的 STOP，并友好地与世界分享了它。
+逻辑如下：
+
+制作一个自动化程序，每当消息包含“ ”时运行让它执行以下操作：* 从快捷方式输入中获取电话号码；将其称为 P * 查找所有满足以下所有条件的联系人：* 电话号码为 P * 公司不是“忽略”（这主要用于测试）* 将这些联系人分配给 C * 如果 C 没有任何值 * 向 P 发送 STOP * 否则不执行任何操作
+
+“如果真的有办法选择不接收这样的短信就好了！” — 阅读其余内容 
+文章如何将 iPhone 设置为自动回复，停止向 robottexts 发送垃圾邮件首先出现在Boing Boing上。]]></description>
+      <guid>https://boingboing.net/2024/11/07/how-to-set-your-iphone-to-auto-reply-stop-to-spam-robotexts.html</guid>
+      <pubDate>Thu, 07 Nov 2024 22:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>服用迷幻蘑菇可治疗神经性厌食症</title>
+      <link>https://boingboing.net/2024/11/07/tripping-on-magic-mushrooms-to-treat-anorexia-nervosa.html</link>
+      <description><![CDATA[在另一项关于迷幻蘑菇中的致幻剂裸盖菇素的医疗用途的有希望的研究中，研究人员表明迷幻疗法可以帮助治疗难治性饮食失调症。
+“我们的研究结果表明，裸盖菇素可能有助于支持神经性厌食症患者中的一部分人发生有意义的心理变化，”加州大学圣地亚哥分校心理学家 — 博士说。 阅读其余内容 
+文章迷幻蘑菇治疗神经性厌食症首先出现在Boing Boing上。]]></description>
+      <guid>https://boingboing.net/2024/11/07/tripping-on-magic-mushrooms-to-treat-anorexia-nervosa.html</guid>
+      <pubDate>Thu, 07 Nov 2024 21:39:22 GMT</pubDate>
+    </item>
     <item>
       <title>西弗吉尼亚州公园内出现神秘动物的视频</title>
       <link>https://boingboing.net/2024/11/07/video-of-mystery-animal-seen-in-west-virginia-park.html</link>
@@ -122,23 +144,6 @@
 文章 还记得 GoBots 吗？ 最先出现在 Boing Boing 上。]]></description>
       <guid>https://boingboing.net/2024/11/07/remember-the-gobots.html</guid>
       <pubDate>Thu, 07 Nov 2024 16:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>希特勒骷髅头邮票：间谍如何渗透纳粹邮件系统</title>
-      <link>https://boingboing.net/2024/11/07/hitler-death-head-stamp-how-spies-infiltrated-nazi-mail-system.html</link>
-      <description><![CDATA[在第二次世界大战的最后几个月，美国间谍与纳粹德国进行了一场独特的战斗——不是用子弹和炸弹，而是用信件和邮票。“玉米片行动”是一场心理战，它让德国邮政服务在不知情的情况下变成了反纳粹宣传的传递系统。— 阅读其余内容 
-帖子希特勒死亡头邮票：间谍如何渗透纳粹邮件系统首先出现在Boing Boing上。]]></description>
-      <guid>https://boingboing.net/2024/11/07/hitler-death-head-stamp-how-spies-infiltrated-nazi-mail-system.html</guid>
-      <pubDate>Thu, 07 Nov 2024 16:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>别再为国际电话套餐多付钱了！换用这款数字 SIM 卡吧。</title>
-      <link>https://boingboing.net/2024/11/07/stop-overpaying-for-your-international-phone-plan-get-this-digital-sim-instead-2.html</link>
-      <description><![CDATA[TL;DR: 放弃昂贵的国际电话计划并 获取数字 SIM 卡 aloSIM卡 附带 50 美元信用额度，可用于以 24.97 美元（原价 50 美元）的价格购买实惠的数据。
-您是否在假期出国旅行或勾选愿望清单上的目的地？— 阅读其余内容 
-帖子停止为您的国际电话计划支付过高的费用！请改用此数字 SIM 卡。 首先出现在 Boing Boing 上。]]></description>
-      <guid>https://boingboing.net/2024/11/07/stop-overpaying-for-your-international-phone-plan-get-this-digital-sim-instead-2.html</guid>
-      <pubDate>Thu, 07 Nov 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
