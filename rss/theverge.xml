@@ -4,7 +4,35 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 15:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:19:00 GMT</lastBuildDate>
+    <item>
+      <title>iOS 18 的一项新安全功能使警方更难解锁 iPhone</title>
+      <link>https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge； Getty Images
+
+据 404 Media 报道，iOS 18 中似乎新增了一项安全功能，可以重启几天未解锁的 iPhone，这让警方很失望，因为这让破解嫌疑人的 iPhone 变得更加困难。 
+404 Media于周四首次报道警方对重启发出的警告，并写道，重启后的 iPhone 会进入更安全的“首次解锁前”状态，即 BFU 状态。现在，苹果似乎在 iOS 18.1 中添加了“不活动重启”代码，该代码会在 iPhone 锁定四天后触发重启，移动分析公司 Corellium 的创始人 Chris Wade 告诉媒体。
+该代码出现在下面的屏幕截图中由 Dr. -Ing. 发布。 Jiska Classen，Hasso Plattner 研究所研究组组长。
+
+
+Apple 确实在 iOS 18.1 中添加了一项名为“不活动重启”的功能。这是在 keybagd 和 AppleSEPKeyStore 内核扩展中实现的。它似乎与手机/无线网络状态无关。密钥库用于解锁设备。https://t.co/ONZuU9zVt2 https://t.co/4ORUqR6P6N pic.twitter.com/O3jijuqpN0— Jiska (@naehrdine) 2024 年 11 月 8 日
+
+
+iOS 和 Android 设备在根据达科他州立大学数字取证实验室的一篇博客文章，手机会重新启动，需要输入密码（或 PIN 码）才能解锁手机，这限制了取证专家可以提取的数据类型。 
+
+Apple 尚未立即回应 The Verge 的置评请求。多年来，该公司一直在努力提高 iPhone 的入侵难度，这使其与执法部门产生了分歧，并引发了政府法规要求加密后门的担忧。苹果一再拒绝当局创建后门的要求，但这并没有阻止执法部门寻找自己的解决方法。]]></description>
+      <guid>https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult</guid>
+      <pubDate>Sat, 09 Nov 2024 16:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>希捷 2TB Xbox 扩展卡已恢复至迄今为止的最佳价格</title>
+      <link>https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/9/24291552/seagate-storage-expansion-card-xbox-series-x-s-fitbit-charge-6-deal-sale</guid>
+      <pubDate>Sat, 09 Nov 2024 16:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Google Photos 中最新的 AI 视频编辑工具</title>
       <link>https://www.theverge.com/24290456/google-photos-ai-clip-how-to</link>
@@ -106,27 +134,6 @@ Thomas Ricker / The Verge 的截图
 其次，您需要更新 DJI Fly 应用程序，而不仅仅是无人机 - 否则，9:16 垂直视频选项根本不会出现在许多飞行模式中。如果你使用的是 Android 系统，这意味着你需要从应用程序本身更新该应用程序，并且可能需要向你的 Android 手机确认是否可以安装，因为 DJI 已经有一段时间没有将其应用程序放在 Google Play 应用商店中了。]]></description>
       <guid>https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking</guid>
       <pubDate>Fri, 08 Nov 2024 21:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>《异教徒》导演谈如何塑造新的恐怖反派：“这一定是休·格兰特”</title>
-      <link>https://www.theverge.com/24291478/heretic-director-interview-scott-beck-bryan-woods</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24291478/heretic-director-interview-scott-beck-bryan-woods</guid>
-      <pubDate>Fri, 08 Nov 2024 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦政府调查选举后全国各地发送的种族主义短信</title>
-      <link>https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election</link>
-      <description><![CDATA[
-
-图片：Kristen Radtke / The Verge
-
-唐纳德·特朗普连任总统后的几天内，全国各地的人们都收到了种族主义短信，目前联邦当局正在调查。
-“在阿拉巴马州、北卡罗来纳州、弗吉尼亚州和宾夕法尼亚州等多个州，黑人女性、男性和学生据报道，有人收到来自未知来源的种族主义短信，敦促他们到种植园采摘棉花，”全国有色人种协进会 (NAACP) 在一份新闻稿中表示。根据屏幕截图和新闻报道，短信内容大致为“你已被选为家奴”或“你已被选为最近的种植园采摘棉花”。短信还经常指示收件人去哪里或何时准备好“带上你所有的财物”。 
-CBS News报道称，这些消息至少来自 25 个州的区号，但截至周四，有几条消息已被切断。CBS发现，活跃账户与 TextNow 相关联，后者允许用户创建免费电话号码。TextNow 告诉 CBS，“它了解到我们的一个或多个账户可能被用于发送违反我们服务条款的短信”，并将其关闭。
-联邦通信委员会主席杰西卡·罗森沃塞尔在一份声明中称这些信息“不可接受”，并表示该机构的执法局已在调查。“我们非常重视这种类型的定位，”她说。联邦调查局此前表示，其“正就此事与司法部和其他联邦当局进行联系”，并鼓励公众向当地执法部门举报暴力威胁。]]></description>
-      <guid>https://www.theverge.com/2024/11/8/24291466/fcc-fbi-racist-text-messages-post-election</guid>
-      <pubDate>Fri, 08 Nov 2024 18:56:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
