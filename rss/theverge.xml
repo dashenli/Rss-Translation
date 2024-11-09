@@ -4,7 +4,23 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 18:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 21:14:09 GMT</lastBuildDate>
+    <item>
+      <title>英特尔高管称 Arrow Lake 的发布“并未按计划进行”</title>
+      <link>https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+英特尔新款基于 Arrow Lake 的 Core Ultra 9 200S 系列处理器的评价一直不尽如人意，尤其是在游戏性能方面，但英特尔表示这并不是故事的结束。英特尔副总裁兼客户端 AI 和技术营销总经理 Robert Hallock 在接受 HotHardware 的 Dave Altavilla 和 Marco Chiappetta 的 新采访中表示，其新芯片的性能应该会更好，公司很快就会发布预计发布时间。
+英特尔坦率地表示这些新芯片在游戏方面不会击败 AMD 的芯片。但评论家的结论出乎意料地糟糕。尽管效率有所提高，就像 Tom Warren 在 Verge 评论 中提到的那样，但新芯片在游戏方面似乎甚至落后于英特尔早期的 Raptor Lake 芯片。更不用说它与AMD 非常出色的 Ryzen 9800X3D相比的性能了。
+
+Hallock 在采访中表示，英特尔的 Arrow Lake 芯片“骨架坚固”。不过，该公司已经确定了“可能结合起来产生一些相当疯狂的意外影响”的因素。Hallock 还明确表示，新的 Arrow Lake 性能问题完全是英特尔的责任，而不是微软或任何其他人的错。 
+至于英特尔何时会提供修复的预计时间，Hallock 表示英特尔希望在 11 月底或 12 月初提供关于芯片问题及其原因的“全面更新”。好消息是修复将很容易，Hallock 称其为“刷新 BIOS 并更新 Windows 之类的情况”。
+]]></description>
+      <guid>https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec</guid>
+      <pubDate>Sat, 09 Nov 2024 20:46:02 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 的一项新安全功能使警方更难解锁 iPhone</title>
       <link>https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult</link>
@@ -114,26 +130,6 @@ YouTube 的高级订阅费用即将在更多地方对长期订阅者收取更高
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</guid>
       <pubDate>Fri, 08 Nov 2024 21:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJI 刚刚为其售价 199 美元的 Neo 无人机添加了两个最受欢迎的功能</title>
-      <link>https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking</link>
-      <description><![CDATA[
-
-
-“DJI 售价 199 美元的 Neo 自拍无人机将无处不在”，我们在 9 月份写道 — 同时指出，这款廉价自拍无人机确实存在两个主要弱点相比竞争对手350 美元的 Hover X1，DJI 的无人机更胜一筹。首先，DJI 的无人机无法拍摄垂直视频（对于 TikTok 和 Instagram Reels 影响者来说，这是一个大问题）；其次，它无法像竞争对手那样快速跟踪我们的动作。
-但 DJI 现在正在修复这两个问题，增加垂直视频，大幅提高 Neo 在跟踪时的飞行速度。 据 DC Rainmaker 称，它现在的速度非常快，可以跟上骑行者的速度，而且令人惊讶的是，在跟踪模式下，它的飞行速度比使用控制器时的速度要快。
-
-在固件更新之前，无人机甚至无法跟上他以每小时 13 英里（21 公里/小时）的速度骑行。但更新后，他看到速度大幅提升到大约每小时 20 英里（32 公里/小时）。这比你手动驾驶无人机的速度要快，即使在运动模式下也是如此，所以希望 DJI 很快能让我们也能在 FPV 飞行中实现这种速度提升。
-垂直模式可以说更令人兴奋，因为社交视频平台现在可以让你更轻松地拍摄视频 - 但你应该知道几个注意事项。首先，它仅限于 Neo 相当粗糙的 1080p 模式，而不是 4K，尽管你可以达到 60fps。在我看来，它看起来和 Neo 的 1080p 水平拍摄模式一样好。 
-
-
-Thomas Ricker / The Verge 的截图
-“9:16”是垂直的。
-
-其次，您需要更新 DJI Fly 应用程序，而不仅仅是无人机 - 否则，9:16 垂直视频选项根本不会出现在许多飞行模式中。如果你使用的是 Android 系统，这意味着你需要从应用程序本身更新该应用程序，并且可能需要向你的 Android 手机确认是否可以安装，因为 DJI 已经有一段时间没有将其应用程序放在 Google Play 应用商店中了。]]></description>
-      <guid>https://www.theverge.com/2024/11/8/24291530/dji-neo-vertical-video-faster-tracking</guid>
-      <pubDate>Fri, 08 Nov 2024 21:05:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
