@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 11 Nov 2024 12:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 15:18:26 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Anderson Moss®️</title>
+      <link>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</link>
+      <description><![CDATA[了解 Anderson Moss 如何通过融合艺术设计与创新技术的获奖网站重新定义其品牌。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</guid>
+      <pubDate>Mon, 11 Nov 2024 11:52:21 GMT</pubDate>
+    </item>
     <item>
       <title>集体#879</title>
       <link>https://tympanus.net/codrops/collective/collective-879/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对 Three.js 演示进行细分，使用 BatchedMesh 进行高效的网格渲染，并使用 TSL 探索新的后处理管道。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/30/interactive-3d-with-three-js-batchedmesh-and-webgpurenderer/</guid>
       <pubDate>Wed, 30 Oct 2024 12:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用单文件解决方案 Manifest 简化前端开发人员的后端任务</title>
-      <link>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</link>
-      <description><![CDATA[Manifest 是一个完整的后端，它包含在一个 YAML 文件中，可以减轻前端开发人员处理后端任务的痛苦。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/</guid>
-      <pubDate>Tue, 29 Oct 2024 12:38:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
