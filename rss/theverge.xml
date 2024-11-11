@@ -4,7 +4,27 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Nov 2024 01:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:30:50 GMT</lastBuildDate>
+    <item>
+      <title>美泰公司意外在 Wicked 娃娃包装上链接了一个色情网站</title>
+      <link>https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error</link>
+      <description><![CDATA[
+
+由 Ariana Grande（左）和 Cynthia Erivo（右）主演的《魔法坏女巫》第一部将于 11 月 22 日上映。 |图片：环球影业
+
+芭比娃娃生产商美泰公司在消费者发现其Wicked版娃娃的包装上列出了一个成人网站后，已向消费者致歉。玩具商品错误地将消费者引导至 Wicked Pictures 色情电影工作室的主页，而不是正确的 WickedMovie.com URL。
+“我们对这个不幸的错误深感遗憾，并正在立即采取行动予以纠正，”美泰公司在向好莱坞报道发表的声明中表示。 “请家长注意，印刷错误和网站错误并不适合儿童。”
+美泰公司表示，这些玩偶是为了配合环球影业改编的托尼奖获奖音乐剧而推出的，主要在美国销售，错误是“印刷错误”。目前尚不清楚有多少贴错标签的玩具已经分发到商店，这些玩具的广告宣传是针对 4 岁及以上的儿童。据《好莱坞报道》报道，受影响的玩具产品目前正在沃尔玛等多家零售商的货架上下架。 Best Buy 和亚马逊。
+
+
+美泰官方 Wicked 娃娃盒子上有一个色情网站的链接 pic.twitter.com/iW4mNVAlPE— just2good (Sarah Genao) (@just2goodYT) 2024 年 11 月 9 日
+
+
+美泰已通知已购买这些娃娃的客户，这些娃娃的零售价在24.99 至 39.99 美元，以“丢弃产品包装或隐藏链接”。然而，有些人却利用这个错误来赚钱——广告中的产品具体包括印刷错误正在在 eBay 上以数百美元的价格出售。
+《魔法坏女巫》是《绿野仙踪》的前传，从女巫埃尔法巴（辛西娅·埃里沃饰）和加林达（爱莉安娜·格兰德饰）的角度讲述。《魔法坏女巫》第一部将于 11 月 22 日在影院上映，第二部电影预计将于 2025 年 11 月上映。]]></description>
+      <guid>https://www.theverge.com/2024/11/11/24293395/mattel-wicked-doll-porn-website-url-misprint-error</guid>
+      <pubDate>Mon, 11 Nov 2024 10:49:39 GMT</pubDate>
+    </item>
     <item>
       <title>下一届任天堂直面会的主题是超级任天堂世界的《大金刚国度》</title>
       <link>https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park</link>
@@ -164,27 +184,6 @@ Hallock 在采访中表示，英特尔的 Arrow Lake 芯片“骨架坚固”。
 ]]></description>
       <guid>https://www.theverge.com/2024/11/9/24292221/intel-acknowledged-arrow-lake-performance-issues-robert-hallock-exec</guid>
       <pubDate>Sat, 09 Nov 2024 20:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 的一项新安全功能使警方更难解锁 iPhone</title>
-      <link>https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge； Getty Images
-
-据 404 Media 报道，iOS 18 中似乎新增了一项安全功能，可以重启几天未解锁的 iPhone，这让警方很失望，因为这让破解嫌疑人的 iPhone 变得更加困难。 
-404 Media于周四首次报道警方对重启发出的警告，并写道，重启后的 iPhone 会进入更安全的“首次解锁前”状态，即 BFU 状态。现在，苹果似乎在 iOS 18.1 中添加了“不活动重启”代码，该代码会在 iPhone 锁定四天后触发重启，移动分析公司 Corellium 的创始人 Chris Wade 告诉媒体。
-该代码出现在下面的屏幕截图中由 Dr. -Ing. 发布。 Jiska Classen，Hasso Plattner 研究所研究组组长。
-
-
-Apple 确实在 iOS 18.1 中添加了一项名为“不活动重启”的功能。这是在 keybagd 和 AppleSEPKeyStore 内核扩展中实现的。它似乎与手机/无线网络状态无关。密钥库用于解锁设备。https://t.co/ONZuU9zVt2 https://t.co/4ORUqR6P6N pic.twitter.com/O3jijuqpN0— Jiska (@naehrdine) 2024 年 11 月 8 日
-
-
-iOS 和 Android 设备在根据达科他州立大学数字取证实验室的一篇博客文章，手机会重新启动，需要输入密码（或 PIN 码）才能解锁手机，这限制了取证专家可以提取的数据类型。 
-
-Apple 尚未立即回应 The Verge 的置评请求。多年来，该公司一直在努力提高 iPhone 的入侵难度，这使其与执法部门产生了分歧，并引发了政府法规要求加密后门的担忧。苹果一再拒绝当局创建后门的要求，但这并没有阻止执法部门寻找自己的解决方法。]]></description>
-      <guid>https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult</guid>
-      <pubDate>Sat, 09 Nov 2024 16:49:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
