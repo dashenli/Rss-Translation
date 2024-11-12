@@ -4,7 +4,59 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Nov 2024 09:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:31:15 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 的新应用 GeForce Experience 替代品现已完成测试</title>
+      <link>https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features</link>
+      <description><![CDATA[
+
+图片：Nvidia
+
+Nvidia 正式推出其 Nvidia 应用程序现已在 PC 上推出，旨在彻底改造和取代 GeForce Experience 应用程序。 Nvidia 应用程序最初于今年早些时候进入测试阶段，并且现在功能已足够完整，因此可以删除测试版标签，并且该应用很快将与 GeForce 驱动程序捆绑在一起。
+Nvidia 应用程序包含一个经过重新设计和改进的叠加层，支持 4K 120fps AV1 视频捕获、Nvidia 的 AI 驱动的 RTX 游戏滤镜以及改进的可自定义统计叠加层。
+
+
+图片：Nvidia
+新的 Nvidia 应用程序还允许您访问许多其他 Nvidia 应用程序。
+
+与之前的 GeForce Experience 一样，Nvidia 应用程序包含游戏的最佳可玩设置，甚至包含许多以前仅在 Nvidia 控制面板应用程序中可用的选项。现在，您可以在 Nvidia 应用程序内配置显示器、启用 G-Sync 和调整 GPU 性能，而无需进入单独的控制面板应用程序。
+Nvidia 仍在努力将其更多控制面板应用程序功能引入主 Nvidia 应用程序。 GeForce 团队在  中表示：“在未来的更新中，我们将继续添加剩余的 NVIDIA 控制面板选项，例如环绕声和多显示模式设置，以及新功能和进一步的增强功能。”博客文章。 Nvidia 最近添加了此新应用程序中的显示设置、RTX Video HDR 滑块和 RTX Video Super Resolution 支持。
+这款新的 Nvidia 应用程序还将作为 Nvidia GeForce 驱动程序的一部分捆绑为可选安装，您甚至无需登录 Nvidia 帐户即可使用它。 “随着 Nvidia 应用程序今天正式发布，GeForce Experience 和 Nvidia RTX Experience 功能的迁移已经完成，新应用程序将很快作为我们的 Game Ready 驱动程序和 Studio Ready 驱动程序的一部分可选捆绑，”Nvidia 表示。]]></description>
+      <guid>https://www.theverge.com/2024/11/12/24294442/nvidia-app-launch-beta-label-removed-features</guid>
+      <pubDate>Tue, 12 Nov 2024 11:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Music 制作了一本售价 450 美元的咖啡桌书来庆祝其 100 张最佳专辑</title>
+      <link>https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book</link>
+      <description><![CDATA[
+
+一本漂亮的书，但价格不菲。 |图片：Apple Music / Assouline
+
+现在您可以购买 Apple Music 今年发布的100 张最佳专辑榜单的实体版——前提是您有大量现金可以花。 Apple Music：100 佳《Albums》是一本 208 页的咖啡桌书，由豪华印刷公司 Assouline 制作，今天可以预订，价格为 450 美元，预计发货日期为 11 月 25 日。幸好运费是免费的。
+价格高昂的一个原因是，这本书的发行量极其有限——只有 1,500 本可供抢购，每本都在书的背面和里面标有编号。这本书本身的设计也非常豪华，采用“定制设计的半透明丙烯酸书套，上面刻有 Apple Music 标志”，保护白色亚麻精装书，书页边缘和书脊字母采用金色烫金。再说一次，Apple 之前也发布过类似的昂贵书籍 — 至少这本书里面有文字。
+
+
+
+
+图片：Apple Music / Assouline
+金色页面镀金几乎不是一种独家特色，但它确实很漂亮。
+
+
+
+
+
+图片：Apple Music / Assouline
+
+如果此示例页面有任何参考价值，那么您可以从 查看最佳专辑列表的数字版本中获得更多内容。
+
+
+
+
+本书的前言由 Apple Music 的创意总监 Zane Lowe 撰写。内容本身则直接摘自 Apple Music 的 100 张最佳专辑列表的数字版文本条目。如果说有什么不同的话，那就是读者实际上错过了很多原创内容，因为视频（原因显而易见）和附加图像并未包含在内，因此这本书主要被定位为收藏品。
+“如果我们的列表在 Apple Music 之外的粉丝中引发更多争论，并让人们热情地谈论他们喜欢的音乐，那么我们就完成了我们打算做的事情，”Lowe 在列表上说道。高昂的价格已经在网上引发了愤怒，但一些音乐爱好者承认，这不会阻止他们尝试获取一张。]]></description>
+      <guid>https://www.theverge.com/2024/11/12/24294436/apple-music-100-best-albums-coffee-table-book</guid>
+      <pubDate>Tue, 12 Nov 2024 10:52:36 GMT</pubDate>
+    </item>
     <item>
       <title>这款微型智能锁有望在两秒内解锁你的门</title>
       <link>https://www.theverge.com/2024/11/12/24293548/nuki-smart-lock-ultra-release-date-specs</link>
@@ -166,25 +218,6 @@ Hudson Rock 表示，泄露的信息可以追溯到 2023 年 5 月，与 MOVEit 
 ]]></description>
       <guid>https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach</guid>
       <pubDate>Mon, 11 Nov 2024 20:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何停用你的 X 账户</title>
-      <link>https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to</guid>
-      <pubDate>Mon, 11 Nov 2024 18:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《假如……？》最后一季将于今年 12 月登陆 Disney Plus</title>
-      <link>https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars</link>
-      <description><![CDATA[
-
-
-虽然要过一段时间才X-Men &#39;97回归 Disney Plus，《假如……？》第三季也是最后一季即将以最炫的方式将漫威的变种人之一带入 MCU。
-在《假如……？》第三季于 12 月 22 日首播之前，Disney Plus 发布了一部预告片，重点介绍了一些新的平行宇宙故事，其中介绍了之前推出的版本略有不同漫威宇宙的角色。本季中，尚气（Simu Liu 饰）将重新塑造为一名牛仔，阿加莎·哈克尼斯（Kathryn Hahn 饰）将化身为宇宙女郎，而复仇者联盟将变成一支拥有互联机甲的超级战队。这一切都让人感觉就像是让这部剧集变得有趣、精彩的那种疯狂，但真正令人惊讶的是暴风女 (Alison Sealy-Smith) 以手持锤子的雷神形象出现。
-在漫威的秘密战争漫画活动中，暴风女花了一些时间作为雷神军团的一员——这是一群由毁灭博士从不同宇宙招募的人，在他的战斗世界现实中担任警察。当如果……会怎样？ 首次亮相时，该剧似乎是一个离奇故事的集合，可能与漫威电影中发生的事情没有太大关系。但随着毁灭博士即将上映和秘密战争专题的制作，假如……？最终可能会成为该系列正在进行的故事中一个非常重要的部分。]]></description>
-      <guid>https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars</guid>
-      <pubDate>Mon, 11 Nov 2024 18:06:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

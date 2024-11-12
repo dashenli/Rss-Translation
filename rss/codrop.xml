@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 12 Nov 2024 09:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:32:43 GMT</lastBuildDate>
+    <item>
+      <title>使用 Penpot 的新插件系统构建您自己的工具并参加比赛</title>
+      <link>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</link>
+      <description><![CDATA[Penpot 的新插件系统邀请设计师和开发人员定制、创新和扩展他们的创意工作流程——此外，加入插件大赛，有机会展示您的技能并赢得大奖！]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</guid>
+      <pubDate>Tue, 12 Nov 2024 10:17:56 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Anderson Moss®️</title>
       <link>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何通过四个简单的步骤使用 React Three Fiber 和 Drei 创建交互式着色器背景效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/</guid>
       <pubDate>Thu, 31 Oct 2024 13:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Three.js BatchedMesh 和 WebGPURenderer 进行交互式 3D</title>
-      <link>https://tympanus.net/codrops/2024/10/30/interactive-3d-with-three-js-batchedmesh-and-webgpurenderer/</link>
-      <description><![CDATA[对 Three.js 演示进行细分，使用 BatchedMesh 进行高效的网格渲染，并使用 TSL 探索新的后处理管道。]]></description>
-      <guid>https://tympanus.net/codrops/2024/10/30/interactive-3d-with-three-js-batchedmesh-and-webgpurenderer/</guid>
-      <pubDate>Wed, 30 Oct 2024 12:12:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
