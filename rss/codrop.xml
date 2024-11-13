@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 12 Nov 2024 21:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:32:10 GMT</lastBuildDate>
+    <item>
+      <title>使用 OGL 创建 ASCII 着色器</title>
+      <link>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</link>
+      <description><![CDATA[通过这份易于遵循的指南探索着色器的世界，使用 WebGL、Perlin 噪声和 GLSL 创建自定义 ASCII 艺术动画。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>集体#880</title>
       <link>https://tympanus.net/codrops/collective/collective-880/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[NextMaster * Web 组件的闪光点 * 未来 CSS 的可能]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-877/</guid>
       <pubDate>Fri, 01 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚焦：Elena Smirnova</title>
-      <link>https://tympanus.net/codrops/2024/11/01/designer-spotlight-elena-smirnova/</link>
-      <description><![CDATA[探索布拉格数字设计师 Elena Smirnova 的简约优雅和创意深度。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/01/designer-spotlight-elena-smirnova/</guid>
-      <pubDate>Fri, 01 Nov 2024 11:19:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
