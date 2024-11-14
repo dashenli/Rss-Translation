@@ -4,7 +4,70 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 13 Nov 2024 21:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 01:10:21 GMT</lastBuildDate>
+    <item>
+      <title>Apple 更新 Logic Pro，添加新音效和搜索功能</title>
+      <link>https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator</link>
+      <description><![CDATA[
+
+装有 Quantec Room Simulator 的 Apple Logic Pro for Mac 11.1 |图片：Apple
+
+Apple 今天宣布对 Mac 和 iPad 版 Logic Pro 进行一些小更新，包括搜索插件和源的功能以及添加更多模拟声音。 
+在 Mac 版 Logic Pro 11.1 和 iPad 版 Logic Pro 2.1 中，您现在可以在混音器和插件窗口中重新排序通道条和插件，以便更轻松地组织音频混音的布局。 
+至于新的声音，Apple 添加了一个名为 Modular Melodies 的模拟合成器样本库，类似于 Logic 中已有的 Modular Rhythms 包。 
+更令人兴奋的声音添加是新的 Quantec Room Simulator (QRS) 插件，它模拟了同名的老式数字混响硬件，这种硬件在世界各地的专业录音室中随处可见。Apple 已获得经典 QRS 模型和后来的 YardStick 模型的技术，以将其集成到此软件中。 
+
+
+图片：Apple
+我希望 QRS 插件看起来像真实的混响单元
+
+特定于 Mac 版 Logic Pro，您现在可以将歌曲分享到 Mac 的语音备忘录应用 - 这可能是一个很棒的功能当语音备忘录在 iOS 18.2 中在 iPhone 上获得多轨选项时 
+iPad 版 Logic Pro 新增了将您自己的本地第三方样本文件夹添加到浏览器窗口的功能，以便更轻松地将外部音频文件带入轨道和采样器插件。
+这些升级对于当前的 Logic 用户来说并不大，但总体而言，它们确实使数字音频工作场所更易于使用，并且无需额外费用即可增加大量有用的工具。用户今天就可以升级到 Logic Pro for Mac 11.1 和 Logic Pro for iPad 2.1。]]></description>
+      <guid>https://www.theverge.com/2024/11/13/24295719/apple-logic-pro-update-quantec-room-simulator</guid>
+      <pubDate>Wed, 13 Nov 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出 Final Cut Pro 11，提供更多 AI 功能</title>
+      <link>https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/13/24295486/final-cut-pro-11-apple-announced-ai-new-features</guid>
+      <pubDate>Wed, 13 Nov 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，OpenAI 计划明年初推出 AI 代理</title>
+      <link>https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 | 照片由 Getty Images 提供
+
+OpenAI 正准备发布一个可以控制计算机并独立执行任务的自主 AI 代理，代号为“Operator”。该公司计划于 1 月份将其作为研究预览和开发工具首次亮相，根据彭博社报道。
+此举加剧了科技巨头开发人工智能代理的竞争：Anthropic 最近推出了其“计算机使用”功能，而谷歌据报道正在准备自己的版本，预计于 12 月发布。 Operator 最终面向消费者发布的时间仍处于保密状态，但其发展标志着人工智能系统向能够主动与计算机界面互动而不仅仅是处理文本和图像的关键转变。
+
+所有领先的人工智能公司都承诺推出自主人工智能代理，而 OpenAI 最近也大肆宣传这种可能性。几周前，在 Reddit 的一个“问我任何问题”论坛上，OpenAI 首席执行官 Sam Altman 表示“我们将拥有越来越好的模型”，但“我认为下一个巨大突破将是代理”。在上个月公司年度开发者日前夕举行的 OpenAI 新闻发布会上，首席产品官 Kevin Weil 表示：“我认为 2025 年将是代理系统最终进入主流的一年。”
+人工智能实验室面临着越来越大的压力，需要将其昂贵的模型货币化，尤其是因为渐进式改进可能无法证明用户支付更高的价格是合理的。人们希望自主代理是下一个突破性产品——一项 ChatGPT 规模的创新，可以证明对人工智能开发的巨额投资是值得的。]]></description>
+      <guid>https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai</guid>
+      <pubDate>Wed, 13 Nov 2024 22:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 营收因应用程序混乱而下降</title>
+      <link>https://www.theverge.com/2024/11/13/24295716/sonos-q4-2024-earnings-app-arc-ultra</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+Sonos 仍在试图从今年早些时候自己挖的坑里爬出来，当时它在软件还未真正准备好之前就鲁莽地发布了一款经过大修的移动应用程序。今天，在其最新硬件产品——Arc Ultra 和 Sub 4——发布几周后，Sonos 公布了其 2024 财年第四季度的收益。应用程序崩溃造成的损失是显而易见的。
+收入同比下降 8%，Sonos 将其归因于“由于市场条件严峻以及我们最近推出应用程序带来的挑战导致需求疲软”。在本季度，该公司投入了 400 万美元用于未指定的“应用程序恢复投资”。 （Sonos 此前估计，它可能需要花费高达 3000 万美元来解决重建应用程序所引发的所有麻烦。）
+“到目前为止，我们已经发布了 16 个更新，恢复了 90% 的缺失功能，”该公司在其收益报告中写道。“展望未来，我们将在主要版本和次要版本之间交替发布。这将使我们能够保持改进的势头，同时确保足够的 beta 测试。”
+首席执行官 Patrick Spence 已 承担责任，上个月，Sonos 宣布了多项承诺，它相信这些承诺将防止再次发生这样的巨大失误。该计划的某些方面侧重于更严格的测试和更高的透明度——无论是在公司内部还是外部。但其他方面，比如高管可能失去年度奖金，被客户嘲笑为毫无意义、半心半意的措施。 
+
+“Sonos 飞轮依然强劲，2024 财年每户家庭新产品数量增加就是明证，”Spence 在今天的新闻稿中表示。该公司还报告了其在家庭影院领域的“历史最高年度市场份额”，这是在 Sonos 员工士气受到严重打击之际的另一个积极信号。
+重建的应用程序现在处于更好的状态，经过几个月的错误修复和性能增强后，您希望会是这样。 Sonos 社区空间（例如该公司的 subreddit）内的气氛也有所改善，从春末到初秋，这种持续不断的恶意攻击（可以理解）有所减少。
+就硬件而言，Sonos 似乎正在重回正轨。早期对 Arc Ultra 的评价大多是正面的。（是的，我很快就会收到一个。）新条形音箱的一个早期错误影响了 Trueplay 调音，对于一些客户来说，导致配对低音炮的低音响应不佳。Sonos 刚刚通过今天早些时候发布的软件更新解决了这个问题。
+但该公司的一些最忠实的客户仍然对该品牌感到警惕和信任度下降。据传，Sonos 的下一个主要新产品是视频流媒体盒。我仍然对该公司计划如何在该领域脱颖而出感到困惑。但希望不会再出现重大争议来破坏该产品，就像Sonos Ace 耳机的情况一样。]]></description>
+      <guid>https://www.theverge.com/2024/11/13/24295716/sonos-q4-2024-earnings-app-arc-ultra</guid>
+      <pubDate>Wed, 13 Nov 2024 21:47:17 GMT</pubDate>
+    </item>
     <item>
       <title>Pixel 手机将能够实时检测并报告恶意应用程序</title>
       <link>https://www.theverge.com/2024/11/13/24295784/android-google-play-protect-live-threat-detection-malware</link>
@@ -109,59 +172,6 @@ Spotify 正在全力进军视频领域。
 ]]></description>
       <guid>https://www.theverge.com/2024/11/13/24295686/spotify-video-podcast-creator-payouts-ad-breaks</guid>
       <pubDate>Wed, 13 Nov 2024 20:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>《魔兽争霸 I》和《魔兽争霸 II》重制版现已推出</title>
-      <link>https://www.theverge.com/2024/11/13/24295730/warcraft-remastered-battle-chest-1-2-3-reforged-upgrades-windows-mac-blizzard-battle-net</link>
-      <description><![CDATA[
-
-
-暴雪刚刚发布了魔兽争霸重制版战斗宝箱，其中收集了魔兽争霸 I 和 II的重制版实时战略经典游戏，以及魔兽争霸 III：重制版的 2.0 更新。 该公司在今天的魔兽争霸 30 周年纪念直面会直播期间宣布了这个合集，在 Battle.net 上的售价为 39.99 美元。
-前两款游戏的更新方式与 2017 年的星际争霸 大致相同，用更详细、高分辨率的艺术作品取代了原始的游戏精灵和地图。根据 Battle.net 商店的合集页面，这两款游戏还“针对现代游戏更新了生活质量功能”。虽然第三款游戏支持 Mac，但前两款游戏仅适用于 PC。
-
-魔兽争霸 III：重制版2.0看起来像是该公司试图弥补广受批评的 2020 年重制版魔兽争霸 III：重制版，这款游戏如此令人讨厌，以至于该公司开始提供无条件自动退款政策。 暴雪表示，它已经更新了环境和“完全可定制的视觉效果”，以及以更高分辨率玩游戏原始图形的选项。 
-如果您不想要全部三个，您可以单独获取它们。暴雪对魔兽争霸 I：重制版的售价为 9.99 美元，对魔兽争霸 II：重制版的售价为 14.99 美元，对魔兽争霸 III：重制版的售价为 29.99 美元。
-除了重制版，暴雪还宣布将于 2025 年 1 月推出炉石传说 / 《星际争霸》跨界游戏《星际争霸英雄》以《星际争霸》为中心。（这不是新的《星际争霸》游戏，但我想至少暴雪提到了这个系列）。暴雪还在更新《魔兽世界》，为现代版本添加新地下城等内容，并为《魔兽世界》经典版添加一个类似于 2012 年扩展包的《熊猫人之谜》。《魔兽争霸大乱斗》将于 12 月 10 日在 PC 上推出测试版。]]></description>
-      <guid>https://www.theverge.com/2024/11/13/24295730/warcraft-remastered-battle-chest-1-2-3-reforged-upgrades-windows-mac-blizzard-battle-net</guid>
-      <pubDate>Wed, 13 Nov 2024 19:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 可能会在明年年初推出广告</title>
-      <link>https://www.theverge.com/2024/11/13/24295735/threads-ads-rumor-2025</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-据一份报告称，Meta 最早可能在明年为 Threads 引入广告， 信息。据报道，作为其计划的一部分，Threads 将在 1 月份允许少数广告商制作和发布广告。
-这与我的同事 Alex Heath 报道的推出情况一致广告。Instagram 负责人 Adam Mosseri 也证实 Meta “绝对”计划将广告引入 Threads。Mosseri 当时表示：“我明白人们为什么会有顾虑，但归根结底，我们是一家企业，Threads 需要赚到足够的钱来支付运营服务所需的人员和服务器费用，并免费向人们提供服务。”
-Meta 在其最新收益报告中表示，过去三个月，其广告收入为 398 亿美元，占其总收入的 97%。在一次财报电话会议上，Meta 首席财务官 Susan Li 表示，公司预计 Threads 不会在 2025 年成为收入的“重要驱动力”。
-我们目前还不知道广告将如何出现在 Threads 上，但它们可能会以“赞助”帖子的形式出现，这是逆向工程师 Alessandro Paluzzi 最近在开发中发现的。
-当被问及 The Information 的报道时，Meta 发言人 Matthew Tye 只分享了有关该应用中广告的最新信息。 “由于我们的首要任务是首先建立消费者价值，因此 Threads 上目前没有广告或货币化功能，”Tye 说道。他拒绝对 Meta 的未来计划发表评论。
-如果广告商正在寻找 X 的更安全替代品，他们可能会转向 Threads，但今天来自《金融时报》的一份报告称，一些广告商正计划重返 X，以赢得埃隆·马斯克和当选总统唐纳德·特朗普的青睐。另一方面，Bluesky 首席执行官 Jay Graber 表示，她不会“enshittify” 这个通过广告不断发展的平台。]]></description>
-      <guid>https://www.theverge.com/2024/11/13/24295735/threads-ads-rumor-2025</guid>
-      <pubDate>Wed, 13 Nov 2024 19:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quest 上的 YouTube 应用可让你在 VR 中与朋友一起观看视频</title>
-      <link>https://www.theverge.com/2024/11/13/24295635/youtube-meta-quest-app-co-watch-vr</link>
-      <description><![CDATA[
-
-图片：Meta
-
-Meta Quest 上的 YouTube 应用正在获得不错的升级：该应用现在不仅可以让您独自观看视频，而且还可以让您与最多 7 人共同观看视频。
-要启用此功能（测试版），请确保您拥有最新版本的 YouTube 应用，并查找屏幕顶部的“共同观看”图标（看起来像三个人聚在一起）。选择它，然后在弹出的窗口中选择“邀请他人”，然后您就可以邀请关注者列表中的人与您一起观看。（您邀请的人也必须关注您。）
-有一些限制。例如，您只能共同观看 2D 内容。如果您想观看电影等付费内容，则每个共同观看的人都必须单独付费。但是，如果您不想在Horizo​​n Worlds中闲逛，共同观看似乎仍然是一种与 VR 中的人一起闲逛的有用方式。 而且它可能感觉起来没有Apple 的 Vision Pro 空间人物角色那么奇怪。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/11/13/24295635/youtube-meta-quest-app-co-watch-vr</guid>
-      <pubDate>Wed, 13 Nov 2024 19:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国能否将其核能容量提高三倍？</title>
-      <link>https://www.theverge.com/2024/11/13/24295502/nuclear-energy-plan-triple-biden-trump</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/13/24295502/nuclear-energy-plan-triple-biden-trump</guid>
-      <pubDate>Wed, 13 Nov 2024 19:06:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
