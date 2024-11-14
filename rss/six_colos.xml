@@ -4,9 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 14 Nov 2024 15:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 18:23:45 GMT</lastBuildDate>
     <item>
-      <title>令人难以置信的 M4 Mac 给苹果带来了迄今为止最大的挑战（Macworld/Dan Moren）</title>
+      <title>Apple 2024 财年图表</title>
+      <link>https://sixcolors.com/post/2024/11/apples-fiscal-2024-in-charts/</link>
+      <description><![CDATA[万圣节那天，苹果公布了其第四财季业绩，尽管继续打破季度收入历史记录，但销售季度再次持平。和往常一样，我在 Numbers 电子表格中填入了一堆数字，运行了我的小型图表 Automator 应用程序，并发布了一堆（六个？）……]]></description>
+      <guid>https://sixcolors.com/post/2024/11/apples-fiscal-2024-in-charts/</guid>
+      <pubDate>Thu, 14 Nov 2024 17:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人难以置信的 M4 Mac 为 Apple 带来了迄今为止最大的挑战 (Macworld/Dan Moren)</title>
       <link>https://www.macworld.com/article/2519537/the-new-mac-challenge-keeping-it-fresh.html</link>
       <description><![CDATA[随着上周 M4 Mac 的大量推出，很明显 Apple 已经为其处理器产品线的更新建立了稳定的节奏。…]]></description>
       <guid>https://www.macworld.com/article/2519537/the-new-mac-challenge-keeping-it-fresh.html</guid>
@@ -39,7 +46,7 @@
       <title>快速提示：一键屏幕共享</title>
       <link>https://sixcolors.com/post/2024/11/quick-tip-one-touch-screen-sharing/</link>
       <description><![CDATA[
-Stream Deck 上最常用的按钮之一是一键连接到我家壁橱里的 Mac mini 服务器。我经常会来管理 RAID 上的文件，或者重新配置由我的气象站提供的脚本，做各种零工。…]]></description>
+Stream Deck 上最常用的按钮之一是一键连接到我家壁橱里的 Mac mini 服务器。我经常会用它管理 RAID 上的文件，或者重新配置由我的气象站提供的脚本，做各种零工。…]]></description>
       <guid>https://sixcolors.com/post/2024/11/quick-tip-one-touch-screen-sharing/</guid>
       <pubDate>Tue, 12 Nov 2024 23:35:54 GMT</pubDate>
     </item>
@@ -113,13 +120,6 @@ iMac 于 2021 年针对 Apple 芯片进行了重新设计，是 Apple 备受推�
       <description><![CDATA[苹果的人工智能广告让我们感到不快。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/11/the-rebound-520-the-tim-cookiness-of-it/</guid>
       <pubDate>Wed, 06 Nov 2024 20:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 579：豆芽的现场活动</title>
-      <link>https://sixcolors.com/podcast/2024/11/clockwise-579-live-activities-for-bean-sprouts/</link>
-      <description><![CDATA[我们在 iOS 上的默认应用、我们对 Genmoji 的感受、我们最喜欢的端到端加密消息平台，以及我们是否使用实时活动来获取新闻和体育资讯。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/11/clockwise-579-live-activities-for-bean-sprouts/</guid>
-      <pubDate>Wed, 06 Nov 2024 20:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
