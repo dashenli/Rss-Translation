@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 15 Nov 2024 01:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:33:06 GMT</lastBuildDate>
+    <item>
+      <title>集体#881</title>
+      <link>https://tympanus.net/codrops/collective/collective-881/</link>
+      <description><![CDATA[容器查询的友好介绍 * 经过精心设计]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-881/</guid>
+      <pubDate>Fri, 15 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发 Moxey：幕后过程</title>
+      <link>https://tympanus.net/codrops/2024/11/15/developing-moxey-a-behind-the-scenes-look-at-the-process/</link>
+      <description><![CDATA[在本文中，我们将带您到幕后探索位于挪威斯塔万格的电影制作公司 Moxey.no 网站的创意开发过程。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/15/developing-moxey-a-behind-the-scenes-look-at-the-process/</guid>
+      <pubDate>Fri, 15 Nov 2024 11:07:35 GMT</pubDate>
+    </item>
     <item>
       <title>在 Rive 中逐步重现 Mac Mini 效果</title>
       <link>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[了解如何使用 JavaScript 和 CSS 为文本创建有机扭曲效果，以实现独特、流畅的动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/06/how-to-create-an-organic-text-distortion-effect-with-infinite-scrolling/</guid>
       <pubDate>Wed, 06 Nov 2024 13:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#878</title>
-      <link>https://tympanus.net/codrops/collective/collective-878/</link>
-      <description><![CDATA[JavaScript 应该分成两种语言吗？* uifonts.app * Better Upload]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-878/</guid>
-      <pubDate>Tue, 05 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 React 和 AI 代理创建由 AI 驱动的新闻通讯聚合器</title>
-      <link>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</link>
-      <description><![CDATA[在本实用教程中开始使用 AI 代理，并学习使用 React 和 KaibanJS 构建由 AI 驱动的新闻通讯聚合器。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/04/how-to-create-an-ai-powered-newsletter-aggregator-with-react-and-ai-agents/</guid>
-      <pubDate>Mon, 04 Nov 2024 11:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
