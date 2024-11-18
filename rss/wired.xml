@@ -4,7 +4,21 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:22:18 GMT</lastBuildDate>
+    <item>
+      <title>7 款最佳数码相框（2024 年）：Wi-Fi、高分辨率</title>
+      <link>https://www.wired.com/gallery/best-digital-picture-frames/</link>
+      <description><![CDATA[利用这些联网显示器，您可以将手机中的照片分享给您的朋友和家人。]]></description>
+      <guid>https://www.wired.com/gallery/best-digital-picture-frames/</guid>
+      <pubDate>Mon, 18 Nov 2024 17:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>HyperX QuadCast 2 S 评测：您最喜爱的主播的下一款 USB 麦克风</title>
+      <link>https://www.wired.com/review/hyperx-quadcast-2-s/</link>
+      <description><![CDATA[Twitch 上最具代表性的麦克风现在变得更加出色了。]]></description>
+      <guid>https://www.wired.com/review/hyperx-quadcast-2-s/</guid>
+      <pubDate>Mon, 18 Nov 2024 15:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Neural DSP Nano Cortex 评测：完美的便携式放大器建模器</title>
       <link>https://www.wired.com/review/neural-dsp-nano-cortex/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>HMD Fusion 评测：一款廉价的模块化 Android 手机</title>
       <link>https://www.wired.com/review/hmd-fusion/</link>
-      <description><![CDATA[模块化手机概念再次回归，但效果却相当无趣。]]></description>
+      <description><![CDATA[模块化手机概念又回来了，而且相当无趣。]]></description>
       <guid>https://www.wired.com/review/hmd-fusion/</guid>
       <pubDate>Sun, 17 Nov 2024 16:03:03 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[调整这些设置并停止错过所说的内容。]]></description>
       <guid>https://www.wired.com/story/how-to-boost-spoken-dialogue-in-movies-and-shows/</guid>
       <pubDate>Sun, 17 Nov 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在路由器上设置 ExpressVPN，以便同时保护所有设备</title>
-      <link>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</link>
-      <description><![CDATA[您的 VPN 不必总是在手机或笔记本电脑上运行。您可以保护家里的一切，防止他人窥探。]]></description>
-      <guid>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</guid>
-      <pubDate>Sun, 17 Nov 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家建立穿越地图的最佳算法</title>
-      <link>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</link>
-      <description><![CDATA[长期以来，人们一直认为 Dijkstra 算法是找到图中最佳路线的最有效方法。研究人员现已证明，该算法是“普遍最优的”。]]></description>
-      <guid>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</guid>
-      <pubDate>Sun, 17 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
