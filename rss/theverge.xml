@@ -4,7 +4,114 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 18:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 21:14:15 GMT</lastBuildDate>
+    <item>
+      <title>丰田展示其最新的冷氢汽车创意</title>
+      <link>https://www.theverge.com/2024/11/18/24299725/toyota-liquid-hydrogen-self-pressurizer-gr-corolla-h2</link>
+      <description><![CDATA[
+
+液态氢驱动的 GR Corolla H2 概念车。 |图片：丰田
+
+丰田正在推动氢动力汽车技术的发展，其液态氢系统设计包括一个自增压器，以保存逸出的气体并将其重新用作燃料以提高发动机效率。
+丰田在 2023 年的 GR Corolla H2 概念车中引入了一个液体系统，该系统在加注和储存在油箱中时将氢气保持在 -253 摄氏度。氢气在室温下以气态存在，因此泵必须在低温下运行以防止液体沸腾。从本质上讲，该系统仍然有被浪费的蒸发气体。
+
+
+图片：丰田
+系统的蒸发气体图表。
+
+那么解决方案是什么？丰田在上周末举行的 2024 年超级耐力系列赛上展出了一种“自增压器”，它“利用蒸发气体的压力将压力提高两到四倍，并在不使用任何额外能源的情况下生产可重复使用的燃料。”然后，它希望将任何额外的蒸发气体输送到一个小型燃料电池组，为氢泵电机提供动力，从而提高效率。
+
+液氮汽车在存储和系统配置方面都是一项技术上更为艰巨的任务。华盛顿州立大学教授 Jacob Leachman 博士在给 The Verge 的电子邮件中写道：“氢泵是所有氢系统中最容易发生故障的部件——无论是低温氢还是气态氢。”“丰田似乎聪明地开发了一种氢泵，它可以利用部分冷能进行压缩——这是任何开发冷氢汽车的人都需要的进步。”
+
+Leachman 是该大学氢能研究 (HYPER) 实验室的负责人，他说另一个挑战是，密封一个液氮容器并让其沸腾会将其压力增加到“超过 140 兆帕 (20,000 psi)”。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299725/toyota-liquid-hydrogen-self-pressurizer-gr-corolla-h2</guid>
+      <pubDate>Mon, 18 Nov 2024 21:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐纳德·特朗普挑选的能源部长表示“不存在气候危机”</title>
+      <link>https://www.theverge.com/2024/11/18/24299573/donald-trump-energy-secretary-chris-wright-oil-gas-nuclear-ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299573/donald-trump-energy-secretary-chris-wright-oil-gas-nuclear-ai</guid>
+      <pubDate>Mon, 18 Nov 2024 21:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克与 OpenAI 的混乱分手内幕</title>
+      <link>https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299787/elon-musk-openai-lawsuit-sam-altman-xai-google-deepmind</guid>
+      <pubDate>Mon, 18 Nov 2024 20:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dbrand 的新款夜光外壳具有你可以触摸到的电路板纹理</title>
+      <link>https://www.theverge.com/2024/11/18/24299819/dbrand-circuit-board-wrap-skin-glow-linustechtips</link>
+      <description><![CDATA[
+
+Dbrand 的电路板包装可以让您在黑暗中更轻松地找到您的设备。 | 图片：Dbrand
+
+Dbrand 最新的小工具包装利用了我们对电子产品内部的好奇心。其新推出的电路板系列是与LinusTechTips合作创建的，其复杂图案看起来像一个功能性 PCB，因为该图案是在设计实际电路板的工程师的协助下创建的。
+该公司将新皮肤系列的复杂设计描述为“印刷电路板的准确表示”，但它并不代表从实际设备复制的功能性 PCB。相反，该图案是“功能性电路板元素的马赛克”，Dbrand 首席执行官 Adam Ijaz 告诉 The Verge，展示了电阻器、电容器和走线等组件，这些组件以示意图的形式排列，优先考虑美观性而不是功能性。
+如果您追求更真实的 PCB 外观，您可能希望选择 Dbrand 的 X-Ray 皮肤，该皮肤使用 125 种不同设备（包括智能手机和笔记本电脑）的实际 X 射线制作而成。
+
+
+图片：Dbrand
+不想让您的设备发光？Dbrand 提供两种版本的这种包装，不会在黑暗中发光。﻿
+
+新的电路板外壳使用 Dbrand 的新型“三维 UV 打印机”打印，该打印机可以打印二维图像，但某些元素具有略微凸起的纹理。在这种情况下，外壳上所有模拟的电子元件和走线最终都会有触感。
+
+
+图片：Dbrand
+不发光的“短路”选项将白色电路板元素置于橙色背景上。
+
+有三种可用的电路板外观。除了三重黑色“暗电路”和橙色上的白色“短路”配色（以LinusTechTips 的短路系列命名）外，还有一个在黑暗中发光的版本，使用“高性能磷光乙烯基”制造。在黑暗中，它在发光时呈现亮绿色，但在光线下则呈现淡黄色调。
+
+
+图片：Dbrand
+Dbrand 为数百种设备提供电路板外壳，包括智能手机、手持设备和游戏机。
+
+据 Dbrand 称，电路板外壳可用于 741 种不同的产品。您可以为 Apple AirTag 等小设备购买它们，只需 58.95 美元即可获得四个跟踪器的正面和背面外壳。或者你可以包裹像 Xbox Series X 这样大的东西，这样更便宜，只需 44.95 美元就可以买到覆盖游戏机所有六个侧面的外壳。 
+如果你选择发光外壳，其价格不会高于其他版本，Dbrand 还将提供一个小型紫外线手电筒来为它们充电 - 售完即止。
+披露：The Verge最近与 Dbrand 合作推出了一系列外壳和保护套。]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299819/dbrand-circuit-board-wrap-skin-glow-linustechtips</guid>
+      <pubDate>Mon, 18 Nov 2024 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌可能即将重启其笔记本电脑和平板电脑硬件</title>
+      <link>https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os</link>
+      <description><![CDATA[
+
+照片由 Dan Seifert / The Verge 拍摄
+
+Google 可能正准备对其笔记本电脑和平板电脑硬件进行重大改变，使其 Chromebook 上的软件类似于平板电脑上的软件。 来自 Android Authority 的一份报告表明，谷歌正在筹备一个将 ChromeOS 迁移到 Android 的“多年项目”，而来自同一渠道的第二份报告表明，谷歌可能正在计划推出第二款配备可折叠键盘盖的 Pixel 平板电脑。
+这与谷歌近几个月的举措一致。 
+6 月，Google 宣布 ChromeOS“将很快在 Android 堆栈的大部分内容上进行开发”，以简化工程流程并更快地将 AI 功能引入 ChromeOS。 Google 还合并了其 Android 和硬件团队，开始测试 Android 平板电脑的桌面窗口，并且据报道正在努力为 Android 版 Chrome 添加扩展程序。
+此外，一位消息人士告诉 Android Authority，Google 计划在某个时候推出运行 Android 的 Chromebook。这款桌面版 Android 也可能出现在传闻谷歌正在开发的高端 Pixel Laptop 上。今年，谷歌对 Android 的键盘支持进行了多项改进，增加了物理键盘工具栏和新的辅助功能。据报道，该公司还在研究一种无需鼠标即可移动光标的方法。
+自 2016 年将 Android 应用引入 Chrome OS以来，谷歌对 Android 的态度发生了重大变化。随着许多变化使 Android 更适合大屏幕，移动操作系统也逐渐变得更适合桌面使用。]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299817/google-reboot-laptop-tablet-hardware-rumors-android-chrome-os</guid>
+      <pubDate>Mon, 18 Nov 2024 20:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>助你入睡的最佳睡眠小工具</title>
+      <link>https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables</guid>
+      <pubDate>Mon, 18 Nov 2024 18:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>DoorDash 可让你从 Apple 的提醒应用程序导入购物清单</title>
+      <link>https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+DoorDash 现在允许您从 Apple 的“提醒”应用导入购物清单，以便更轻松地在应用上购买杂货。要使用该功能，请在 DoorDash 购物时，在应用程序中查找导入列表的按钮，然后选择您想要带过来的列表。 （如果愿意，您也可以粘贴列表。）然后，DoorDash 将根据您的列表内容提供添加到购物车中的商品建议。
+新功能是 DoorDash 的一系列更新的一部分，旨在使该应用程序更适合假日购物。另一个潜在的好变化：当您搜索零售商品时，搜索结果将显示您可以在哪里购买产品、价格和预计交货时间，所有这些都在一个视图中。此更改首先针对酒精搜索，但该公司表示，该更改将在未来几个月内推广到全国范围内的其他类别，如“美容、电子产品等”。
+SNAP / EBT 接收者现在也将有资格享受一年的折扣 DashPass 计划。 DashPass 包括对符合条件的订单免收 0 美元送货费等福利，通常每月收费 9.99 美元，但 SNAP / EBT 接收者可以每月 4.99 美元的价格订阅。
+您可以在DoorDash 的新闻稿中查看完整的更新列表。]]></description>
+      <guid>https://www.theverge.com/2024/11/18/24299695/doordash-import-grocery-list-apple-reminders-app</guid>
+      <pubDate>Mon, 18 Nov 2024 18:42:22 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix 的杰克·保罗与迈克·泰森之战是 Bluesky 的重要时刻</title>
       <link>https://www.theverge.com/2024/11/18/24299530/netflix-jake-paul-mike-tyson-fight-bluesky</link>
@@ -57,128 +164,6 @@ GIF：Telegram
 最后，这项重大更新还包括能够将小程序中的媒体和推荐代码分享到任何聊天中，开发人员可以自定义加载屏幕，高级用户可以从小程序内部设置表情符号状态。]]></description>
       <guid>https://www.theverge.com/2024/11/18/24299536/telegram-mini-apps-update-2-super-app</guid>
       <pubDate>Mon, 18 Nov 2024 17:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 的 AI 搜索引擎现在可以为你购买产品</title>
-      <link>https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products</link>
-      <description><![CDATA[
-
-The Verge
-
-Perplexity 正在推出一项新功能，让 Pro 订阅者无需离开其 AI 搜索引擎即可购买产品。在使用 Perplexity 搜索产品时，位于美国的 Pro 会员现在可以选择“使用 Pro 购买”按钮，该按钮将使用已保存的送货和账单信息自动订购产品。
-Perplexity 表示，通过“使用 Pro 购买”购买的所有产品均可免费送货。对于不支持使用专业版购买的产品，Perplexity 会将用户重定向到商家的网站以完成购买。
-
-
-
-屏幕截图：Perplexity
-Perplexity 的产品卡将显示您是否可以“使用专业版购买”。
-
-当被问及 Perplexity 是否从通过其“使用 Pro 购买”按钮进行的​​销售中获得回扣时，Perplexity 发言人 Sara Platnick 表示，“截至目前，我们没有”，并补充说该功能“没有商业元素”。
-未订阅 Perplexity 每月 20 美元 Pro 选项的用户仍将看到其他更新的 AI 购物功能，包括会出现在产品相关搜索中的新产品卡。对于美国用户，这些卡片会显示产品图片及其价格，以及 AI 编写的主要功能和评论摘要。
-
-
-GIF：Perplexity
-
-Perplexity 还推出了一款新的 AI 驱动的“Snap to Shop”搜索工具，让所有用户都可以拍摄产品照片并询问有关产品的问题，类似于 Google Lens。此功能在发布时仅供 Pro 用户使用。Perplexity 还已允许 Pro 用户进行与购物无关的视觉搜索。
-Perplexity 似乎也在寻求扩展商家的购物工具。该公司正在推出一项新的商家计划，该计划将为卖家提供“搜索和购物趋势洞察，以展示他们的产品”。这也增加了 Perplexity 推荐其产品的机会。]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299574/perplexity-ai-search-engine-buy-products</guid>
-      <pubDate>Mon, 18 Nov 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nike 的 Air Max 1000 几乎完全由 3D 打印而成</title>
-      <link>https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab</link>
-      <description><![CDATA[
-
-Nike 与 Zellerfeld 合作打造了 3D 打印的 Air Max 1000。 |图片：Nike
-
-Nike 的新款 Air Max 1000 是该公司首款几乎完全使用 3D 打印技术制造的鞋子。上周末在拉斯维加斯的 ComplexCon 上，耐克与 Zellerfeld（一家在 3D 打印鞋子方面拥有专业知识的公司）合作，打造了 Air Max 1000，但目前尚未向公众发售。
-Air Max 1000 的设计是对 Air Max 1 的更新，Air Max 1 于 1987 年首次亮相，是耐克第一款在鞋跟处带有气垫的鞋子，可通过中底的窗口看到气垫。这一特点延续到了新款 Air Max 1000 上，尽管气垫本身不是 3D 打印的，但鞋子的其余部分使用的是单一柔性材料。
-
-
-图片：Nike
-除了 Air Max 1000 的气垫之外，其他所有部件都是 3D 打印的。
-
-通过混合不同密度和纹理的层，Air Max 1000 底部的外底保持坚固和支撑性，而鞋子的上部更加灵活和舒适，无需鞋带即可穿脱。
-
-3D 打印的使用也让 Nike 实现了 Air Max 1000 独特的轮廓设计，该公司表示，使用传统的制鞋技术是不可能实现的。“作为一名创新者，Air Max 1000 最让我兴奋的是我们可以通过更高水平的制造技术实现的新解决方案，”Nike 首席创新官 John Hoke 说道。
-Nike 最初宣布 Air Max 1000 为纯鲜红色，但活动现场的网红后来透露了这款鞋的其他颜色，包括橙色、白色、蓝色和黑色，并配有绿色气垫。据Elliot Page称，尽管 Nike 在活动中分发了少量 Air Max 1000，但更广泛的供应量仅限于 1,000 双，与会者可以赢得预订机会，Elliot Page 还分享了这款鞋的简短视频评论。
-Nike 尚未透露更广泛发布 Air Max 1000 的计划，也没有透露可能的定价。但 Zellerfeld 网站上现在有售的 3D 打印鞋 价格从凉鞋设计的 159 美元到高帮鞋的近 400 美元不等。
-Air Max 1000 并不是 Nike 第一次使用 3D 打印技术制作鞋子。2017 年，该公司推出了 VaporFly Elite Flyprint，采用更轻、更透气的面料材料，据称这是“高性能鞋中第一款 3D 打印纺织鞋面”。其他公司，例如阿迪达斯，已经销售采用3D 打印中底的鞋子。但与耐克一样，阿迪达斯也在尝试完全由 3D 打印材料制成的鞋子，包括其 10 月份推出的新款 Climacool24。]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299479/nike-air-max-1000-3d-printed-shoe-zellerfeld-collab</guid>
-      <pubDate>Mon, 18 Nov 2024 16:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>WD 的 1TB Xbox Series X/S 扩展卡价格降至创纪录的 100 美元</title>
-      <link>https://www.theverge.com/2024/11/18/24299443/western-digital-wd-black-c50-1tb-expansion-card-series-x-s-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299443/western-digital-wd-black-c50-1tb-expansion-card-series-x-s-deal-sale</guid>
-      <pubDate>Mon, 18 Nov 2024 16:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>这所房子专为局域网游戏聚会而建</title>
-      <link>https://www.theverge.com/2024/11/18/24299455/house-lan-gaming-parties-software-engineer-kenton-varda</link>
-      <description><![CDATA[
-
-图片：Richard Varda
-
-如果你怀念带着电脑去朋友家玩虚幻竞技场的时代，软件工程师 Kenton Varda 并没有完全地解决方案——但他认为自己有更好的办法。Cloudflare Workers 的技术主管花了三年多的时间和至少一百万美元将他位于奥斯汀的房子改造成终极本地 PC 游戏平台，配备了 22 台机器和一个专用硬件室。它被称为 LAN Party House，你可能没有被邀请。
-
-LAN（局域网的缩写，许多读者可能都知道）派对是拨号上网时代“在线”游戏的最佳选择。。虽然有些是大型活动，但瓦尔达的房子旨在让一群朋友来访，从隐藏的墙壁或桌子面板中拉出游戏站，然后开始玩游戏。
-房子的大部分空间都是专门为放置电脑而设计的。地下室有 12 个游戏站，内置在折叠式壁柜中，两个呼叫室配备了自己的游戏站，用于私人会议，还有一个用于棋盘游戏的办公空间。后者的一张大桌子也可以展开，露出另外六台游戏电脑和两个个人工作站。 （如果您想知道的话，每台 PC 都包含一个 Intel Core i5-13600 CPU、一个 GeForce RTX 4070 GPU 和 32GB RAM。） 
-
-其中一些机器是独立的台式机，但大多数是连接到中央房间的显示器，该房间容纳和冷却塔式机。Varda 说，22 个 PC 站总共花费约 75,000 美元，但整个房子的项目是“一个 7 位数的数字”。
-Varda——他显然每隔一个周末就会举办一次 LAN 派对——说大多数来的人“实际上并不是铁杆游戏玩家”。他们专注于团队游戏，例如《深岩银河》或《虚幻竞技场 2004》的非死亡竞赛模式。其中一个房间还配备了四个内置的《热舞革命》（DDR）垫。这些不是公开活动——“抱歉，你必须被邀请，”瓦尔达说。 “我相信你明白：出于安全原因，我们不能让网上的随机人员进入我们的房子。”
-
-
-图片：Kenton Varda
-地板上还嵌入了四个 DDR 站，以备紧急舞蹈比赛之用。
-
-这是实际上，这是 Varda 创建的第二座 LAN 派对屋，他 2011 年在加利福尼亚州帕洛阿尔托建成的一处房产同样引起了轰动。据 Varda 说，那座 1400 平方英尺的房子比他最新的房产要小，他说“它非常适合单身汉居住，但对于养家糊口来说有点拥挤。”他和他的两个孩子以及他的妻子、企业家 Jade Wang 住在这所房子里——后者显然是 DDR 的粉丝。新房子的资金来自两人在科技领域的长期职业生涯，以及他出售旧房子时获得的 100 万美元利润。这绝不是你花掉科技行业意外之财后最糟糕的事情。
-
-Varda 承认，这种设置并不完全是经典的局域网聚会模式。事实上，他的第一栋房子就是为了让人们带上自己的机器而建造的。“从来没有人这样做过，”他指出。“一次也没有。”]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299455/house-lan-gaming-parties-software-engineer-kenton-varda</guid>
-      <pubDate>Mon, 18 Nov 2024 15:37:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBA 与 WBD 达成协议，准备在 2025 年在亚马逊上直播比赛</title>
-      <link>https://www.theverge.com/2024/11/18/24299485/nba-wbd-max-sports-live-streaming-amazon-2025</link>
-      <description><![CDATA[
-
-照片由 Jesse D. Garrabrant/NBAE 通过 Getty Images 拍摄
-
-NBA 拥有 与华纳兄弟探索频道达成了一项为期 11 年的协议，该协议将继续开发Inside the NBA等内容，该内容将出现在 ABC 和 ESPN 上。几个月前，华纳兄弟探索频道起诉 NBA 放弃 TNT 的许可协议。
-7 月，NBA 选择与亚马逊的 Prime Video、迪士尼和 NBCUniversal 达成许可协议，而不是 TNT。这导致华纳兄弟探索频道提起诉讼，指控 NBA 违反合同。在 2025-2026 赛季期间，数十场 NBA 常规赛和季后赛将在 Prime Video 服务上播放，而一些比赛仍将出现在 ESPN、ABC 和 NBC 上。
-
-华纳兄弟探索频道的和解协议包括 NBA 比赛的精彩片段权，它可以使用这些片段为 TNT Sports、Bleacher Report 和 House of Highlights 制作内容。华纳兄弟探索频道首席执行官戴维·扎斯拉夫在新闻稿中表示：“我们很高兴与 NBA 和迪士尼/ESPN 合作，并巩固了 WBD 的长期权利和收入。” 
- 除了与 NBA 达成的协议外，华纳兄弟探索频道还与 ESPN 达成了协议，ESPN 是其在 Venu 体育流媒体服务方面的合作伙伴之一，该服务联邦法院阻止了。 — 将在 TNT 上直播每个赛季的 Big 12 联盟的 15 场大学篮球比赛和 13 场大学橄榄球比赛。
-华纳兄弟探索频道将保留在美国以外北欧、波兰和拉丁美洲国家（巴西和墨西哥除外）11 年的 NBA 直播权。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299485/nba-wbd-max-sports-live-streaming-amazon-2025</guid>
-      <pubDate>Mon, 18 Nov 2024 15:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 的现场娱乐巨头加入了碧昂斯</title>
-      <link>https://www.theverge.com/2024/11/18/24299402/netflix-beyonce-nfl-halftime-performance-streaming-live-sports</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24299402/netflix-beyonce-nfl-halftime-performance-streaming-live-sports</guid>
-      <pubDate>Mon, 18 Nov 2024 12:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roblox 将限制 13 岁以下儿童在游戏之外聊天</title>
-      <link>https://www.theverge.com/2024/11/18/24298330/roblox-child-safety-chat-parent-accounts</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Roblox 开始推出一些最近宣布的儿童安全功能，更新包括对 13 岁以下用户在平台上交流方式的一些新限制。从周一开始，13 岁以下的用户将无法在 Roblox 的游戏或体验之外向玩家发送 DM。而且，他们需要父母的许可才能发送游戏内 DM——尽管这一变化要到 2025 年第一季度才会在整个平台上全面实施。
-这些变化是在最近的报告强调 Roblox 未能保护儿童的情况之后做出的。彭博社 的一篇重要文章描述了平台上的掠食者如何使用聊天与孩子交流。而 Hindenburg Research 的一份报告将 Roblox 描述为“X 级恋童癖地狱”。这些新的聊天限制将建立在 Roblox 的自动聊天过滤器的基础上，旨在阻止用户共享个人信息。
-除了聊天方面的改变之外，Roblox 还推出了之前宣布的父母和看护人账户，让他们可以远程管理孩子的屏幕时间限制等事项。以前，父母必须亲自访问孩子的帐户才能设置家长控制。
-Roblox 也开始使用内容标签来描述体验，而不是为特定年龄段的体验评级。这意味着，例如，“中等”体验可能包含中等恐惧或粗俗幽默等内容。除非父母允许，否则 9 岁以下的用户只能访问带有“最少”或“轻微”内容标签的体验。而且，Roblox 将禁止 13 岁以下的用户访问社交聚会体验以及自由书写或绘画的体验。
-]]></description>
-      <guid>https://www.theverge.com/2024/11/18/24298330/roblox-child-safety-chat-parent-accounts</guid>
-      <pubDate>Mon, 18 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>WDD</title>
     <link>https://webdesignerdepot.com</link>
     <description>网页设计博客</description>
-    <lastBuildDate>Wed, 13 Nov 2024 06:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 21:16:01 GMT</lastBuildDate>
+    <item>
+      <title>为什么响应式设计无法满足现代用户的需求</title>
+      <link>https://webdesignerdepot.com/why-responsive-design-is-failing-modern-users/</link>
+      <description><![CDATA[十多年来，响应式设计一直是网页开发的黄金标准。随着互联网用户从桌面电脑转向各种屏幕尺寸的设备，响应式设计应运而生，无论用户如何访问网站，它都能保证提供无缝、统一的体验。]]></description>
+      <guid>https://webdesignerdepot.com/why-responsive-design-is-failing-modern-users/</guid>
+      <pubDate>Mon, 18 Nov 2024 19:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>当客户说‘让它流行起来’时，如何生存下来！</title>
       <link>https://webdesignerdepot.com/how-to-survive-a-client-meeting-when-they-say-make-it-pop/</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[欢迎查看过去一个月来我们在网络上关注的内容集锦。]]></description>
       <guid>https://webdesignerdepot.com/best-websites-september-2024/</guid>
       <pubDate>Mon, 09 Sep 2024 05:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 月，为设计师提供的激动人心的新工具</title>
-      <link>https://webdesignerdepot.com/tools-for-designers-september-2024/</link>
-      <description><![CDATA[欢迎来到九月的工具箱。]]></description>
-      <guid>https://webdesignerdepot.com/tools-for-designers-september-2024/</guid>
-      <pubDate>Mon, 02 Sep 2024 05:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
