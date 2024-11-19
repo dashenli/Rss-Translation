@@ -4,7 +4,21 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 18 Nov 2024 12:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:19:36 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：ChainGPT 实验室</title>
+      <link>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</link>
+      <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创企业的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</guid>
+      <pubDate>Tue, 19 Nov 2024 12:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>集体#882</title>
+      <link>https://tympanus.net/codrops/collective/collective-882/</link>
+      <description><![CDATA[两种不同的“可聚焦” UI 元素 * REM？PX？为什么不同时使用呢？]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-882/</guid>
+      <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Framer Motion 和 React 创建 Gooey 搜索交互</title>
       <link>https://tympanus.net/codrops/2024/11/18/how-to-create-a-gooey-search-interaction-with-framer-motion-and-react/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[了解 Anderson Moss 如何通过融合艺术设计与创新技术的获奖网站重新定义其品牌。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</guid>
       <pubDate>Mon, 11 Nov 2024 11:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#879</title>
-      <link>https://tympanus.net/codrops/collective/collective-879/</link>
-      <description><![CDATA[GitHub Spark * 关于制作绘画着色器 * 砖石应该成为 CSS 网格的一部分吗？]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-879/</guid>
-      <pubDate>Fri, 08 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D x 品牌塑造：通过动态 3D 视觉效果塑造品牌形象</title>
-      <link>https://tympanus.net/codrops/2024/11/07/3d-x-branding-shaping-a-brand-identity-through-dynamic-3d-visuals/</link>
-      <description><![CDATA[了解 QuestOne 如何通过“氢圈”重塑其品牌形象——这是一个大胆、模块化的 3D 视觉效果，体现了他们对氢创新和可再生能源的愿景。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/07/3d-x-branding-shaping-a-brand-identity-through-dynamic-3d-visuals/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:12:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
