@@ -4,7 +4,14 @@
     <title>WDD</title>
     <link>https://webdesignerdepot.com</link>
     <description>网页设计博客</description>
-    <lastBuildDate>Wed, 20 Nov 2024 06:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:18:47 GMT</lastBuildDate>
+    <item>
+      <title>深入了解 WordPress 6.7：“Rollins”</title>
+      <link>https://webdesignerdepot.com/a-closer-look-at-wordpress-6-7-rollins/</link>
+      <description><![CDATA[从改进的编辑功能到更好的可访问性和动态内容处理，WordPress 6.7 提供了简化工作流程、增强设计选项和提高网站性能的工具。以下是 WordPress 6.7 中主要功能和更新的概述。]]></description>
+      <guid>https://webdesignerdepot.com/a-closer-look-at-wordpress-6-7-rollins/</guid>
+      <pubDate>Wed, 20 Nov 2024 07:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>[信息图] 98% 的设计师每天都在使用人工智能；只有 65% 的人认为这是合乎道德的</title>
       <link>https://webdesignerdepot.com/infographic-98-of-designers-use-ai-daily-only-65-say-its-ethical/</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[在当今快节奏的数字世界中，企业总是在寻找与受众建立联系的新方式。BlueSky 是一个去中心化的社交媒体平台，作为 Twitter 和 Instagram 等传统平台的全新替代品，它正在迅速获得关注。虽然 BlueSky 还处于起步阶段，但其独特的结构为企业提供了一个巨大的机会，可以以更透明、以用户为中心的方式建立社区并与用户互动。]]></description>
       <guid>https://webdesignerdepot.com/beginners-guide-bluesky/</guid>
       <pubDate>Thu, 19 Sep 2024 05:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题标签的重要性：优化 SEO 的技巧和窍门</title>
-      <link>https://webdesignerdepot.com/title-tags-seo-tips-and-tricks/</link>
-      <description><![CDATA[说到页面 SEO，有一个元素在搜索引擎排名和用户参与度方面都起着关键作用：HTML 标题标签。这个小而强大的代码片段经常被忽视，但它会对 Google 等搜索引擎以及浏览搜索引擎结果页面的潜在访问者如何看待您的网站产生重大影响。]]></description>
-      <guid>https://webdesignerdepot.com/title-tags-seo-tips-and-tricks/</guid>
-      <pubDate>Fri, 13 Sep 2024 05:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

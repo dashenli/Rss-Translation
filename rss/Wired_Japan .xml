@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>连线日本</title>
+    <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 20 Nov 2024 03:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:18:38 GMT</lastBuildDate>
+    <item>
+      <title>研究结果：夜间暴露在强光下会增加死亡风险</title>
+      <link>https://wired.jp/article/brighter-nights-and-darker-days-increase-risk-of-death/</link>
+      <description><![CDATA[一项新的研究发现，夜间暴露在强光下会扰乱人体的生物钟，增加过早死亡的风险。另一方面，白天暴露在明亮的光线下可以稳定人体的内部时钟，从而实现长期的健康维护。]]></description>
+      <guid>https://wired.jp/article/brighter-nights-and-darker-days-increase-risk-of-death/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Substack 一些最受欢迎的时事通讯使用人工智能来创建文章：调查结果</title>
       <link>https://wired.jp/article/substacks-writers-use-ai-chatgpt/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[主流影响者的影响创造了一种令人向往且渴望效仿的新审美。它戴着一顶 MAGA 帽子。]]></description>
       <guid>https://wired.jp/article/trump-aesthetic-lifestyle-influencers/</guid>
       <pubDate>Sat, 16 Nov 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI时代，“可教性”比智力更重要</title>
-      <link>https://wired.jp/article/sz-what-does-it-really-mean-to-learn/</link>
-      <description><![CDATA[著名计算机科学家 Leslie Valiant 在她的新书《受教育的重要性》中解释说，重要的不仅仅是智力，还有人类的这一事实：他指出，花很长时间去学习，就是学习的能力。]]></description>
-      <guid>https://wired.jp/article/sz-what-does-it-really-mean-to-learn/</guid>
-      <pubDate>Sat, 16 Nov 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
