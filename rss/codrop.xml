@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 20 Nov 2024 09:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 15:19:45 GMT</lastBuildDate>
+    <item>
+      <title>具有一个元素的连续滚动动画</title>
+      <link>https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/</link>
+      <description><![CDATA[使用 GSAP Flip 和 ScrollTrigger 在滚动时跨不同航路点为一个元素设置动画的简单概念。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/</guid>
+      <pubDate>Wed, 20 Nov 2024 14:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：ChainGPT 实验室</title>
       <link>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Penpot 的新插件系统邀请设计师和开发人员定制、创新和扩展他们的创意工作流程——此外，加入插件大赛，有机会展示您的技能并赢得大奖！]]></description>
       <guid>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</guid>
       <pubDate>Tue, 12 Nov 2024 10:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Anderson Moss®️</title>
-      <link>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</link>
-      <description><![CDATA[了解 Anderson Moss 如何通过融合艺术设计与创新技术的获奖网站重新定义其品牌。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/11/case-study-anderson-moss-%ef%b8%8f/</guid>
-      <pubDate>Mon, 11 Nov 2024 11:52:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
