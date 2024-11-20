@@ -4,7 +4,14 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 03:27:48 GMT</lastBuildDate>
+    <item>
+      <title>Strava 关闭了与其他应用共享健身数据的大门</title>
+      <link>https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking</guid>
+      <pubDate>Wed, 20 Nov 2024 02:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>Niantic 正在根据 Pokémon Go 玩家数据构建“地理空间”AI 模型</title>
       <link>https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model</link>
@@ -140,28 +147,6 @@ Minecraft Movie 发布了一部新预告片，让我们可以领略电影观众�
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
       <pubDate>Tue, 19 Nov 2024 20:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aqara 的全新 DIY 智能断水装置可通过 Matter 适用于更多智能家居</title>
-      <link>https://www.theverge.com/2024/11/19/24300676/aqara-smart-home-valve-controller-t1-available-water-leaks-matter</link>
-      <description><![CDATA[
-
-图片：Aqara
-
-Aqara 的智能阀门控制器 T1 是现已上市，首次为智能家居带来了可互操作的 Matter 兼容阀门控制器选项。售价 69.99 美元的 T1 可连接到您的水截止阀，因此您可以远程操作它或在检测到泄漏时自动关闭它。
-Aqara 集线器让这款 T1 可以与任何主要的智能家居平台集成，这与 Moen、Kohler 和 Belkin 等公司提供的一些价格更高的选项不同。目前，只有三星和 Home Assistant 支持这样的智能阀门控制器，但随着其他公司扩大其 Matter 设备支持，这种情况将会改变。 
-
-T1 可连接到大多数家用阀门的杠杆或蝶形手柄上。Aqara 表示，它“适合 DIY，因为不需要对现有管道进行重大改造”，并且与半英寸、四分之三英寸和一英寸管道兼容。
-
-
-图片：Aqara
-Aqara 智能阀门控制器 T1 使用四节 AA 电池供电。
-
-Aqara 表示，T1 使用四节 AA 电池供电可长达两年。为了实现自动化，该公司还生产了廉价泄漏传感器，或者您可以在添加支持后使用与您首选的智能家居平台兼容的其他传感器。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/11/19/24300676/aqara-smart-home-valve-controller-t1-available-water-leaks-matter</guid>
-      <pubDate>Tue, 19 Nov 2024 19:34:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
