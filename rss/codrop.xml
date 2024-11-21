@@ -4,18 +4,25 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:34:16 GMT</lastBuildDate>
+    <item>
+      <title>从产品到购物车：为购物体验添加引导动画</title>
+      <link>https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/</link>
+      <description><![CDATA[有关如何创建引人入胜的动画的深入教程，其中商品从产品库移动到购物车。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:19:30 GMT</pubDate>
+    </item>
     <item>
       <title>具有一个元素的连续滚动动画</title>
       <link>https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/</link>
-      <description><![CDATA[使用 GSAP Flip 和 ScrollTrigger 在滚动时跨不同航点为一个元素设置动画的简单概念。]]></description>
+      <description><![CDATA[使用 GSAP Flip 和 ScrollTrigger 在滚动时跨不同航路点为一个元素设置动画的简单概念。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/</guid>
       <pubDate>Wed, 20 Nov 2024 14:42:33 GMT</pubDate>
     </item>
     <item>
       <title>案例研究：ChainGPT 实验室</title>
       <link>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</link>
-      <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创公司的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
+      <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创企业的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</guid>
       <pubDate>Tue, 19 Nov 2024 12:39:55 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Cookie 横幅 *  和元素正在升级]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-880/</guid>
       <pubDate>Tue, 12 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Penpot 的新插件系统构建您自己的工具并参加比赛</title>
-      <link>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</link>
-      <description><![CDATA[Penpot 的新插件系统邀请设计师和开发人员定制、创新和扩展他们的创意工作流程——此外，加入插件大赛，有机会展示您的技能并赢得大奖！]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/12/build-your-own-tools-with-penpots-new-plugin-system-and-join-the-contest/</guid>
-      <pubDate>Tue, 12 Nov 2024 10:17:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
