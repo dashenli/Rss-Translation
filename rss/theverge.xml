@@ -4,7 +4,30 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 01:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 03:27:28 GMT</lastBuildDate>
+    <item>
+      <title>本田计划生产电动汽车固态电池</title>
+      <link>https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev</link>
+      <description><![CDATA[
+
+图片：本田
+
+本田在日本建立了一个示范工厂，展示其以较低成本批量生产固态电池的计划，这对于解锁未来续航里程更长、续航时间更长的电动汽车至关重要。
+固态由于扩大生产规模的复杂性，许多公司一直难以获得固态电池。该技术用干导电材料取代了当前锂离子电池中的液体电解质，有望实现更高的能量密度和更长的使用寿命。但要想成功，需要一套全新的生产流程。
+多家公司正在积极研发固态电池，包括大众支持的 QuantumScape、日产 和正在测试 适合道奇 Chargers 的半固态电池。
+
+
+图片：本田
+固态电池阴极的辊压。
+
+本田表示，它正在日本佐仓市新建的 27,000 平方米演示工厂加速研究，并缩短制造单个单元所需的时间。该工厂拥有全尺寸设备，分为三栋建筑：第一栋用于阴极形成和电池组装；第二栋用于阳极形成；第三栋用于电解质活化和模块组装。
+该计划包括使用连续在线搅拌机，本田称其比典型的电池批量处理“快三倍”。本田计划于 1 月份在该生产线上生产电池。
+
+本田正准备在 2020 年代后半期大规模生产固态技术。该公司首席执行官 Toshihiro Mibe 表示，固态电池也将成为解锁更便宜的电动汽车的关键。
+与此同时，本田正依靠其他努力来保持电动汽车领域的领先地位。本田基于通用汽车电动汽车平台打造的 Prologue SUV 在美国表现不俗，该公司正在准备在 2025 年推出一款更大的 SUV。它还将在 CES 上推出一款量产汽车，该汽车将采用新的本田 Zero 平台，由 LG 电池供电（本田和 LG 正在在俄亥俄州共同建设一家电池厂）。]]></description>
+      <guid>https://www.theverge.com/2024/11/20/24301613/honda-solid-state-batteries-factory-demo-test-ev</guid>
+      <pubDate>Thu, 21 Nov 2024 02:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>现代 Ioniq 9 是一款三排电动 SUV，具有发展空间</title>
       <link>https://www.theverge.com/2024/11/20/24301740/hyundai-ioniq-9-three-row-electric-suv-laas</link>
@@ -110,22 +133,21 @@ SpaceX（左）和Blue Origin（右）的货运着陆器概念图。
       <pubDate>Wed, 20 Nov 2024 21:54:36 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 遇到了一些问题</title>
+      <title>Reddit 已从中断中恢复</title>
       <link>https://www.theverge.com/2024/11/20/24301839/reddit-issues-outage-down-degraded-performance</link>
       <description><![CDATA[
 
 图片：The Verge
 
-Reddit 似乎遇到了一些问题，因为许多用户无法让平台可靠地加载。 Reddit 发言人 Tim Rathschmidt 在给 The Verge 的一份声明中表示：“我们最近进行的更新中存在一个错误，但已修复并正在恢复。”The Verge。
-其状态页面显示，Reddit 在网络和移动应用程序中“性能下降”，并且“目前正在调查此问题”。对于包括我在内的许多 Reddit 用户来说，该网站根本无法加载，只是显示错误消息：“上游连接错误或在标头之前断开连接/重置。重置原因：连接失败。”
+Reddit 在周三下午出现了一些问题，许多用户无法让平台可靠地加载。 Reddit 发言人 Tim Rathschmidt 在向 The Verge 发表的声明中表示，“我们最近进行的更新中存在一个错误，但已修复，我们正在加快速度。”
+其状态页面现在显示该平台正在“监控修复结果”，但其网站或移动应用程序仍可能存在“性能下降”。在中断最严重的时候，该网站根本没有加载，只是显示错误消息：“上游连接错误或在标头之前断开连接/重置。重置原因：连接失败。”
 
 
 是的。我们正在努力解决。 https://t.co/8MZVlusmD7— Reddit, Inc. (@Reddit) 2024 年 11 月 20 日
 
 
-在 Reddit 的移动应用程序上，用户收到另一条消息，内容为“我们遇到了错误。请稍后再试。”看起来，如果您继续刷新页面，Reddit 最终可能会加载，但这似乎只能暂时解决问题。 
-此次中断似乎始于美国东部时间下午 3:20 左右，停机检测器报告在那时达到峰值。
-11 月 20 日更新：添加了来自 Reddit 的声明。]]></description>
+在 Reddit 的移动应用程序上，用户收到另一条消息，上面写着“我们遇到了错误。请稍后再试。” 中断似乎始于美国东部时间下午 3:20 左右，Downdetector 报告在那个时候激增。 Reddit 于美国东部时间晚上 7:30 左右实施了修复。
+更新，11 月 20 日：添加了 Reddit 的声明并指出它已恢复。]]></description>
       <guid>https://www.theverge.com/2024/11/20/24301839/reddit-issues-outage-down-degraded-performance</guid>
       <pubDate>Wed, 20 Nov 2024 21:25:32 GMT</pubDate>
     </item>
@@ -168,13 +190,6 @@ Google Meet、Zoom 和 FaceTime 等应用都已经具备这些功能，并且在
 最后，Meta 已通过 Apple 的 Siri 语音助手添加了免提通话和消息。如果您在要求 Siri 拨打电话或发送短信时最后说“使用 Messenger”，它应该使用 Meta 的应用程序而不是 Apple 的内置应用程序之一来执行此操作。]]></description>
       <guid>https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds</guid>
       <pubDate>Wed, 20 Nov 2024 20:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonos 的智能电视计划可能已经找到了操作系统</title>
-      <link>https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/20/24301519/sonos-trade-desk-venture-tv-operating-system</guid>
-      <pubDate>Wed, 20 Nov 2024 20:18:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
