@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 15:19:04 GMT</lastBuildDate>
+    <item>
+      <title>集体#883</title>
+      <link>https://tympanus.net/codrops/collective/collective-883/</link>
+      <description><![CDATA[运动 * 单次绘制调用中的烟花 * 溢出剪辑]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-883/</guid>
+      <pubDate>Fri, 22 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从产品到购物车：为购物体验添加引导动画</title>
       <link>https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[通过这份易于遵循的指南探索着色器的世界，使用 WebGL、Perlin 噪声和 GLSL 创建自定义 ASCII 艺术动画。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</guid>
       <pubDate>Wed, 13 Nov 2024 11:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#880</title>
-      <link>https://tympanus.net/codrops/collective/collective-880/</link>
-      <description><![CDATA[Cookie 横幅 *  和元素正在升级]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-880/</guid>
-      <pubDate>Tue, 12 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
