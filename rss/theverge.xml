@@ -4,127 +4,140 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 15:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:23:08 GMT</lastBuildDate>
     <item>
-      <title>亚马逊将向 OpenAI 竞争对手 Anthropic 再投资 40 亿美元</title>
-      <link>https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa</link>
+      <title>现代汽车召回超过 145,000 辆 Ioniq 和 Genesis 电动汽车，这些汽车在行驶过程中可能会失去动力</title>
+      <link>https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power</link>
       <description><![CDATA[
 
-插图由 Alex Castro / The Verge 提供
+照片由 Patrick George 为 The Verge 拍摄
 
-亚马逊今天宣布，将向 Claude AI 制造商 Anthropic 再注资 40 亿美元，使其总融资额达到 80 亿美元。最新一轮融资是继去年 9 月的 12.5 亿美元和 3 月的 27.5 亿美元之后的又一轮融资。
-除了这笔资金外，亚马逊还在其博客文章中写道，亚马逊网络服务 (AWS) 将被指定为 Anthropic 的“主要培训合作伙伴”，而 OpenAI 的竞争对手将在未来模型中使用 Trainium 和 Inferentia 芯片。
-
-这笔投资和更深层次的合作符合路透社此前报道称，Claude 将为亚马逊的新 Alexa 语音助手提供支持。据报道，改进后的 Alexa（发布时间已被推迟）在使用 Claude 时的表现比使用亚马逊内部模型时更好。改进后的 Alexa 功能现定于 2025 年发布。
-与微软和 OpenAI等竞争对手相比，亚马逊在人工智能军备竞赛中面临进一步落后的风险。在新版 Alexa 中，亚马逊承诺将提供更具对话性的语气，类似于 OpenAI 的 ChatGPT 语音模式——但一些测试版用户报告称，Alexa 的响应缓慢、生硬且毫无帮助。它显然在开灯方面也遇到了麻烦。]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa</guid>
-      <pubDate>Fri, 22 Nov 2024 15:08:33 GMT</pubDate>
+现代是召回超过 145,000 辆 Ioniq 和 Genesis 汽车，原因是 12 伏电池充电问题可能导致电动汽车失去驱动力并增加发生碰撞的风险。
+NHTSA 表示，原因是车辆的集成充电控制单元 (ICCU)，该单元很可能因内部电气故障而损坏。
+当 ICCU 发生故障时，会出现一系列驾驶员警告，并且车辆会激活“故障安全”驾驶模式，该模式会在 20 到 40 分钟内缓慢降低驱动力。 
+现代汽车将指示车主将受影响的车辆送到经销商处更换 ICCU 及其相关保险丝，并安装新软件，以防止过压再次损坏部件。现代汽车告诉 NHTSA，自 11 月 2 日起，“改进的 ICCU 软件已作为生产运行变更实施”。
+受影响的车型包括 2022-2024 Ioniq 5、2023-2025 Ioniq 6、2023-2025 Genesis GV60、2023-2025 Genesis GV70（电动）和 2023-2024 Genesis G80。现代将从 1 月份开始通过邮件通知受影响车辆的车主，并将为与此次召回相关的自付费用提供补偿。
+这并不是现代首次大规模召回的电动汽车。 2021 年，在报告了十几起电池起火事件后，超过 80,000 辆 Kona 电动汽车因 LG 电池缺陷导致的火灾风险而被召回。
+其他电动汽车之前也曾因断电而经历过类似的召回，包括保时捷 Taycan，Lucid Air、Ford Mustang Mach-E，以及现已停产的Fisker Ocean。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power</guid>
+      <pubDate>Fri, 22 Nov 2024 18:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>最新款 Kindle 和 Kindle Paperwhite 首次发售</title>
-      <link>https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale</link>
+      <title>百度的超低价自动驾驶出租车应该会吓坏美国</title>
+      <link>https://www.theverge.com/2024/11/22/24303299/baidu-apollo-go-rt6-robotaxi-unit-economics-waymo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303299/baidu-apollo-go-rt6-robotaxi-unit-economics-waymo</guid>
+      <pubDate>Fri, 22 Nov 2024 18:01:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以在 Copilot Plus PC 上试用 Microsoft 的 Recall AI 功能</title>
+      <link>https://www.theverge.com/2024/11/22/24302947/microsoft-recall-windows-insider-testing-dev-channel-click-to-do</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24302947/microsoft-recall-windows-insider-testing-dev-channel-click-to-do</guid>
+      <pubDate>Fri, 22 Nov 2024 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plex 即将推出的应用程序重新设计是走向合法化的一大举措</title>
+      <link>https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle</link>
       <description><![CDATA[
 
-新款 Paperwhite 更大，基本款 Kindle 也推出了新颜色。 | 照片：David Pierce / The Verge
+图片：Plex
 
-一年中的这个时候，是时候打开暖气，热上一杯可可，蜷缩在阅读角落里了。如果您没有足够的空间来阅读实体书，亚马逊最新款 Kindle 电子书阅读器可以容纳数千本数字书籍，其中一些是在该零售商的黑色星期五促销中首次发售。 
+Plex 是开始测试其“全新重塑的 Plex 体验”，该体验将首先在移动设备上推出，并将“很快”登陆电视平台。 Plex 表示，新体验已经开发了近两年，旨在“将您喜欢的所有内容整合到一个无缝界面中”。但不用担心——虽然新版本的应用程序目前缺少一些功能，但 Plex 表示将“弥补这些差距”，并将在预览期间保持当前应用程序可用，这将希望避免发生类似 Sonos 的惨败。
+新应用程序的一大变化是重新设计的导航，可以更清楚地划分您可能在 Plex 服务器上拥有的媒体与公司的流媒体和点播产品。底部栏有专门的标签，用于您的媒体库、直播电视以及点播电影和节目。观看列表位于应用程序顶部，可让您列出要观看的内容。并且艺术品展示得更加突出。
 
-其中包括 2024 年款 Kindle，其售价已降至 84.99 美元（优惠 25 美元），可在 亚马逊、百思买 和 Target，以及升级版 Kindle Paperwhite，目前在 亚马逊 上仅售 129.99 美元（优惠 30 美元），百思买和塔吉特。遗憾的是，Kindle Colorsoft（第一款带彩色显示屏的 Kindle）和新款 Kindle Scribe 并未获得同样的待遇。
-
-
-对于任何想要有充分理由升级的人来说，Kindle Paperwhite 是两者中最具吸引力的一款。与上一代相比，亚马逊将 E Ink 的屏幕尺寸扩大到 7 英寸，使其成为迄今为止最大的 Paperwhite。显示屏亮度也提高了 25%，对比度是迄今为止所有 Kindle 中最高的。
-更大的尺寸可能也为更好的电池腾出了空间，因为亚马逊宣传它每次充电可使用长达三个月，这比早期设备承诺的 10 周有了显著提升。2024 款 Paperwhite 的速度甚至更快一些，亚马逊表示速度提高了 25%，这在我们实际使用该设备时确实感觉很明显。快速点击页面时，您应该会注意到延迟和闪烁减少。
-与此同时，2024 年的基本款 Kindle 在升级方面比 2022 款 感觉更平淡无奇。它的背光也更亮（现在和 Paperwhite 一样亮），重量更轻，处理器也更快，不过我们发现后者的影响与 Paperwhite 相比略逊一筹。在进一步更新后，这种情况可能会有所改变，但就目前而言，您不应该仅仅为了这一点而升级到最新型号。 
-不过，您可能考虑升级的一个原因是，它采用了新的抹茶绿色，包裹了整个设备，比我们习惯的典型黑色底盘更显优雅。这款产品也在 亚马逊、百思买 和 Kohl’s。
+Plex 表示，在幕后，它重写了应用程序并统一了代码库，以创造更一致的体验。“通过这种新的统一方法，我们的团队可以跨平台无缝协作，确保迁移完成后，从第一天起，每个新功能、更新和改进都可以在大多数平台上使用，”Plex 表示。
+首先，播放列表、播放和一起观看等功能在预览中不可用（您可以在论坛帖子中查看尚未包含的完整列表）。但该公司计划在 2025 年初全面推出新应用之前每周推送预览更新。
+如果您想尝试重新设计的 Android 和 iOS 版 Plex 应用，请查看公司论坛上的说明。
 ]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale</guid>
-      <pubDate>Fri, 22 Nov 2024 14:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对加密货币挖矿征收气候税的提议正在获得支持</title>
-      <link>https://www.theverge.com/2024/11/22/24302303/crypto-mining-climate-change-levy-tax-bitcoin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24302303/crypto-mining-climate-change-levy-tax-bitcoin</guid>
-      <pubDate>Fri, 22 Nov 2024 14:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府拆分谷歌的计划</title>
-      <link>https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303144/google-chrome-sale-antitrust-alexa-bluesky-vergecast</guid>
-      <pubDate>Fri, 22 Nov 2024 14:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果首款智能显示器需要让智能家居正常运转</title>
-      <link>https://www.theverge.com/2024/11/22/24302381/apple-smart-display-homepad-smart-home-control</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24302381/apple-smart-display-homepad-smart-home-control</guid>
-      <pubDate>Fri, 22 Nov 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snap 称新墨西哥州故意与涉嫌儿童性侵犯者交友，然后指责该公司</title>
-      <link>https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-Snap 表示，一项严厉的诉讼的基础表明，它系统地向儿童掠食者推荐青少年账户的做法是倒退的——该公司现在指责新墨西哥州总检察长在提出建议之前故意寻找此类账户。该公司表示，总检察长的指控是基于“严重失实陈述”和从 Snap 内部文件中挑选出来的。
-
-在周四提交的驳回动议中，Snap 表示，总检察长 Raúl Torrez 的投诉提出了“明显虚假”的指控，尤其是歪曲了其自己的秘密调查，其中总检察长办公室创建了一个 14 岁的诱饵账户。托雷斯声称 Snap 违反了该州的不公平做法和公共滋扰法，因为它误导用户了解其“消失”消息的安全性和短暂性，他说这使得滥用者能够收集和保留未成年人的剥削性图像。 
-但 Snap 声称，与州政府的描述相反，调查人员从诱饵账户向“明显有针对性的用户名，如‘nudedude_22’、‘teenxxxxxxx06’、‘ineedasugardadx’和‘xxx_tradehot’”发送好友请求。 
-Snap 表示，实际上是政府的诱饵账户搜索并添加了一个名为“Enzo (Nud15Ans)”的账户——据称该账户继续要求诱饵通过端到端加密服务发送匿名消息——而不是像州政府指控的那样，相反。该州声称，在与 Enzo 联系后，“Snapchat 建议超过 91 名用户，包括许多成年用户的帐户包含或试图交换色情内容。”
-Snap 还表示，该州“多次歪曲”其内部文件，包括指责 Snap 选择“不存储儿童性虐待图片”并暗示其未能向执法部门提供这些图片。实际上，根据 Snap 的说法，根据联邦法律，它不允许在其服务器上存储儿童性虐待材料 (CSAM)，并表示它“当然”会按照规定将任何此类内容移交给国家失踪与受虐儿童中心。
-新墨西哥州司法部通讯主管 Lauren Rodriguez 表示，Snap 希望驳回此案，“以避免因其平台对儿童造成的严重伤害而承担责任。”她在一份声明中表示：“我们提供的证据（包括内部文件和调查结果）清楚地表明，Snap 早就知道其平台上的危险，但未能采取行动。Snap 并没有通过真正改变其算法和设计功能来解决这些关键问题，而是继续将利润置于保护儿童之上。”
-她补充道：
-我们发现 Snap 对调查细节的关注是为了转移人们对州政府案件中提出的严重问题的注意力。我们将通过适当的法庭文件解决这些问题。我们在投诉中详述的危害仍然是一个紧迫的问题，因为 Snapchat 的年轻用户继续面临我们案件中概述的相同风险。
-该公司正寻求以多种理由驳回诉讼，包括该州试图强制执行违反第一修正案的年龄验证和家长控制，并且法律责任保护第 230 条应阻止诉讼。 
-Snap 还表示，总检察长指控 Snap 对其服务存在虚假陈述，主要集中在“夸大其词的‘口号’（例如，Snapchat 是一个‘无忧无虑’的平台）和关于 Snap 对安全承诺的抱负性声明，但这些都不能保证 Snap 会（更不能）消除第三方带来的所有潜在风险。”
-
-11 月 21 日更新：添加了 Rodriguez 的补充声明。]]></description>
-      <guid>https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation</guid>
-      <pubDate>Fri, 22 Nov 2024 00:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 iPhone</title>
-      <link>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</guid>
-      <pubDate>Thu, 21 Nov 2024 23:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Verge 的 2024 年黑色星期五指南</title>
-      <link>https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-如今，黑色星期五不再是一个单日购物假期，而是一个不断扩大、持续数月的活动，通常早在 10 月就开始了。曾经是报纸头条和商店外人群焦点的 24 小时特价促销活动已不复存在，这让您更难知道何时何地应该花钱。
-幸运的是，我们在这里为您提供帮助。在接下来的一个月左右，我们将仔细研究数十份预售电子表格和成千上万笔交易，以区分真正的折扣和每个零售商在假期期间似乎都在兜售的无聊、虚假的便宜货。我们将提供有关如何找到最优惠的价格和何时购物的提示，并且我们将在 11 月 29 日黑色星期五之前继续标记最引人注目的销售。
-如果一个月的销售还不够，你还有另一个机会来解决你的假期愿望清单12 月 2 日。我们将在整个网络周期间汇总 4K 电视、笔记本电脑、手机、机器人吸尘器、降噪耳机和其他 Verge 认可的小工具的最佳优惠。敬请期待！]]></description>
-      <guid>https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024</guid>
-      <pubDate>Thu, 21 Nov 2024 23:49:43 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/11/22/24303282/plex-app-redesign-sonos-debacle</guid>
+      <pubDate>Fri, 22 Nov 2024 17:54:01 GMT</pubDate>
     </item>
     <item>
       <title>以下是您已经可以获得的最佳黑色星期五优惠</title>
       <link>https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale</guid>
-      <pubDate>Thu, 21 Nov 2024 23:45:49 GMT</pubDate>
+      <pubDate>Fri, 22 Nov 2024 17:19:19 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 通过汽车安全频谱规则</title>
-      <link>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</link>
+      <title>青少年主播抛售一枚 meme 币，售价 3 万美元，之后事情变得奇怪起来</title>
+      <link>https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed</link>
       <description><![CDATA[
 
-图片：交通运输部
+插图由 Alex Castro / The Verge 提供
 
-美国联邦通信委员会 (FCC) 已投票决定最终确定新的频谱规则，这将推动蜂窝车对万物 (C-V2X) 通信技术的发展。
-C-V2X 将使用现有的蜂窝网络在车辆之间、车辆与基础设施之间、车辆与骑行者之间或车辆与行人之间发送消息，以警告彼此的存在，从而确保安全。它可以针对危险路况发出交叉警报，包括超速行驶的汽车、天气或交通拥堵。
-FCC 主席 Jessica Rosenworcel 表示，该机构的努力将推动无线和交通经济的创新，并“在我们步行、骑车和开车时确保我们的安全”。关于拟议规则的决定提倡在 5.9GHz 频段“有效利用 30 兆赫频谱”，专用于智能交通系统 (ITS)。它还编纂了 C-V2X 技术参数，包括功率和排放限制、技术参数和消息优先级。
-像福特这样的公司多年来一直在追逐 C-V2X 技术，其想法是，其汽车和卡车可以通过声音提醒驾驶员有骑车人靠近，反之亦然——假设骑车人正在注意他们的手机。
-2022 年，FCC 赢得了对频谱应该如何处理的控制权 5.9GHz 频段，该频段可部分用于其他技术，例如 Wi-Fi 扩展。汽车行业上诉人希望获得整个频段，但裁决法官裁定他们未能指出任何“尚未实现的技术领域的重大进展”。]]></description>
-      <guid>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</guid>
-      <pubDate>Thu, 21 Nov 2024 23:19:00 GMT</pubDate>
+病毒式 meme 硬币 Quant 背后的年轻主播在欺骗投资者后被加密社区曝光，据 Decrypt 和 The Crypto Times 报道。在本周早些时候的一次直播中，这名孩子兴奋地看着自己的 meme 币价格上涨，然后卖掉了自己的股份以 30,000 美元的价格出售，并向观众甩了甩手，导致其价格暴跌。
+这位年轻的投资者声称他只有 13 岁，他在X 上的帖子爆红后开始受到关注。帖子说：“开学前刚赚了 2000 美元。锁定，”并附上一张孩子举着手机炫耀收益的照片。据Decrypt报道，当这个男孩后来在直播中推出他的代币 Quant 时，投资迅速涌入——直到他把代币中的所有钱全部撤出。
+
+
+BRO LMFAOOOOO pic.twitter.com/rLYWr2cxqB— BEEZY (@BeezyScores) 2024 年 11 月 20 日
+
+
+但当社区成员寻找报复方法时，事情开始变得奇怪，最终变得丑陋：
+
+人们开始向 Quant 投入更多资金，如果这名少年继续持有，他的股份将超过 100 万美元。
+
+Decrypt 报道称，这名男孩和他的家人后来被人肉搜索，他的姓名、地址和学校被曝光。
+据报道，交易员使用这名少年家人的照片创建代币。 
+
+这只是 meme coin 创造者通过直播推广其代币的最新趋势，其中涉及疯狂 — 有时甚至是危险的 — 特技。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed</guid>
+      <pubDate>Fri, 22 Nov 2024 15:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款更便宜的 Apple Pencil 替代品现在具有倾斜检测功能和更好的笔尖</title>
+      <link>https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil</link>
+      <description><![CDATA[
+
+SonarPen 2 包含升级功能，如 USB-C 和更精细的笔尖。 |图片：Greenbulb
+
+2018 年，SonarPen 首次亮相，作为 Apple Pencil 的廉价替代品，它使用通过电缆而不是蓝牙传输到 iPad 的音频信号。它的创造者带着升级版的 USB-C 版本回归，引入了额外的功能，包括倾斜检测和改进的笔尖，现在与 Apple Pencil 非常相似。
+SonarPen 2 目前可通过 Kickstarter 众筹活动 预订，预计最早将于 2025 年 4 月开始发货。如果您提前预订，SonarPen 2 的折扣价约为 32 美元，预计全价接近 45 美元。
+
+
+图片：Greenbulb
+SonarPen 2 包含集成电缆管理。
+
+SonarPen 2 仍然支持防手掌误触、压力敏感度和可自定义的快捷按钮等功能，同时添加了倾斜检测和类似于 Apple Pencil 的笔尖，可在磨损时更换。其他支持倾斜检测和压力感应等功能的第三方 iPad 手写笔价格更贵，例如售价 70 美元的 Adonit Note Plus。
+原装 SonarPen 可以连接到 iPad 的低压耳机插孔，但 SonarPen 2 仅在连接到 USB-C 或 Lightning 端口时才有效。它专为配备智能笔屏幕数字化仪的 iPad 型号而设计。
+
+SonarPen 2 的另一个限制是应用程序需要专门支持其倾斜检测和快捷按钮等功能。目前完全支持的应用程序列表并不多，包括 ibis Paint X 和 Zen Brush 3。对于尚未明确添加 SonarPen 2 支持的应用程序，触控笔的功能与原装 Apple Pencil 相同，但没有压力感应。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil</guid>
+      <pubDate>Fri, 22 Nov 2024 15:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克的新 DOGE 计划实际上是关于大规模放松管制的旧想法</title>
+      <link>https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin</guid>
+      <pubDate>Fri, 22 Nov 2024 15:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threads 正在彻底改进其搜索和趋势功能</title>
+      <link>https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Meta 承诺对其 X 竞争对手 Threads 进行“早该进行的改进”，包括更精确的搜索功能和扩展的热门话题。
+首先，用户将能够搜索特定日期范围内的帖子或只需一个账户即可完成搜索——类似于 X 的搜索功能。Threads 还在美国测试了一个新的趋势页面，其中包括其他可关注的主题以及 AI 生成的其他用户讨论内容摘要。 
+Instagram 负责人 Adam Mosseri 领导了 Threads 的发布，他在一篇帖子中写道，测试将于今日开始。
+
+
+
+本周 Threads 的更新很多，它面临着来自 Bluesky 的激烈竞争，Bluesky 是一个基于文本的去中心化平台，最近几周，人们蜂拥而至。本周早些时候，Threads 推出了自定义 feed 选项，允许用户在主页上固定多个精选 feed。用户可以为某些主题或帐户创建自定义 feed，从而为他们提供超越算法推荐 feed 或反向时间顺序关注 feed 的更多灵活性。 Bluesky 上的该功能已经存在了一段时间，而 Meta 在短短几天内就宣布并推出了自己的模仿版本。
+人们对 Threads 的一个长期抱怨是，默认主页提要充斥着用户不关注的帐户中不相关的、有时令人讨厌的内容（Bluesky 的默认提要则相反）。就在昨天，Mosseri 表示 Meta 正在调整 Threads 算法以优先考虑您关注的人的帖子，这是平台对内容排名方式的重大改变。仍有疑问，这一变化是否真的会让 Threads 感觉更及时——尽管它可能比 Bluesky 大很多倍，但登录并查看两天前的帖子会让 Threads 感觉死气沉沉。
+Bluesky 在过去几周内呈现爆炸式增长：用户数量已达 2000 万，本周每天新增 100 万用户。与 Threads 的用户群相比，它仍然是小巫见大巫，但它显然做对了一些事情——也许让 Meta 有理由担心。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky</guid>
+      <pubDate>Fri, 22 Nov 2024 15:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SteelSeries Arctis GameBuds 评测：适用于 PlayStation 或 Xbox 的耳塞</title>
+      <link>https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation</guid>
+      <pubDate>Fri, 22 Nov 2024 15:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
