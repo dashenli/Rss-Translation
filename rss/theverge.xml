@@ -4,7 +4,108 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:15:38 GMT</lastBuildDate>
+    <item>
+      <title>只需一把十字螺丝刀，即可轻松拆卸这款可修复的智能手表</title>
+      <link>https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable</link>
+      <description><![CDATA[
+
+Spectra 智能手表现在可通过 Kickstarter 众筹活动预订。 |图片：Pocuter
+
+Spectra 是一款全新的智能手表，其设计从一开始就考虑到了易破解和易维修。它由 Pocuter 打造，该公司在过去几年中一直在磨练制造小型电子产品的专业知识，例如其微型 Pocuter One 电脑。Spectra 的独特之处在于它可以维修，但其设计与 Apple Watch 相似，更难维修。
+这款可穿戴设备现在可通过 Kickstarter 众筹活动预订，预计最早于 2025 年 7 月交付。早期支持者可以以折扣价预订一款，价格约为 209 美元，而全价则接近 272 美元左右。 Spectra 是该公司的第七次 Kickstarter 活动，但似乎也是其最雄心勃勃的项目之一。原型开发三年后，它仍未完全完成硬件，因此虽然支持这个产品的风险可能较小，但仍然存在一些风险。
+
+
+图片：Pocuter
+Spectra 将提供多种配色，并使用标准的 22 毫米表带。
+
+搭载 Espressif ESP32-S3 处理器，“最高配备 8MB RAM 和 32MB 可执行闪存”， Spectra 拥有 368x448 AMOLED 显示屏、数字表冠、Wi-Fi、蓝牙、健身追踪和环境传感器，以及一个 microSD 插槽，理论上可以使用存储卡将存储空间提升至半兆字节。所有这些都塞在 CNC 铣削铝制框架内，该公司计划出售升级产品，包括不锈钢替代品。
+iFixit 发现，Spectra 的内部设计还优先考虑了电池的使用，其主板可以旋转开来，并使用弹簧触点代替需要拆卸的电缆。可穿戴设备和耳塞等小型设备的电池通常很难更换，但就像Fairphone 的 Fairbuds一样，也许 Spectra 会鼓励其他公司改变这种状况。
+
+
+图片：iFixit
+iFixit 收到了一块拆开的 Spectra 智能手表，但目前尚不清楚最终产品是否会以这种方式交付给所有支持者。
+
+Pocuter 团队告诉 iFixit，“计划为每个零件提供替换选项”，这分享了智能手表未组装原型的组装和拆卸有多么简单。 （Pocuter 尚未说明最终手表是否在出厂时已组装好。）七个十字槽头螺钉将所有部件固定在一起，而不是使用胶水和环氧树脂，因为胶水和环氧树脂通常会使维修变得过于复杂或完全不可能。
+这款可穿戴设备还将运行基于 JavaScript 的自定义操作系统 SpectraOS。承诺的功能包括简化应用程序开发的交互式调试器、安全的应用程序沙盒以及对 Linux、macOS 和 Windows 的支持。它无法访问 Apple 或 Google 强大的应用商店，因此要充分利用 Spectra，可能需要一些编码经验，而不仅仅是基本的螺丝刀技能。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable</guid>
+      <pubDate>Fri, 22 Nov 2024 20:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sling TV 流媒体电视价格下个月上涨 5.99 美元</title>
+      <link>https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange</link>
+      <description><![CDATA[
+
+照片由 Chris Welch / The Verge 拍摄
+
+Sling TV 的价格为 从 12 月开始，其所有计划的月度订阅价格上涨 5.99 美元。这家流媒体电视提供商表示，“成本上涨”是涨价的原因，但没有具体说明原因——大概不是所有这 6 美元都打算用来支付其“街机”互动游戏库，刚刚添加了Pac-Man和Trivia Crack。
+有两个套餐：Sling Orange，包括迪士尼和 ESPN 网络，以及 Sling Blue，包括福克斯和 NBC 节目，之前单独收费每月 40 美元。现在，它们的价格为每月 45.99 美元。还有 Sling Orange 加 Blue 组合套餐，提供两种套餐的混合套餐，每月价格为 55 美元，但最高价格为 61 美元。当前订阅者将在 12 月 20 日或之后的结算日期看到价格变化。
+该公司上次在 2022 年将其价格提高了 5 美元/计划，这是五年来第四次。
+Sling TV 辩称，与竞争对手相比，它仍然拥有最优惠的价格：
+
+这些增长是全行业的——其他领先的流媒体提供商在 2024 年全年都有所增长。尽管如此，Sling 仍然是最实惠的选择，与其他提供商相比，每月的价格低 20 多美元。 
+Sling 继续提供选择，提供一些最低价格的付费直播电视。灵活的附加包可用于进一步定制。
+
+YouTube TV 可能是 Sling TV 最大的竞争对手，其流媒体电视服务每月收费 72.99 美元。 Sling TV 的完整套餐售价为 61 美元，虽然且包含 4K，但考虑到与 Google 提供的服务相比，其对本地频道的支持不够稳定，因此涨价似乎并不划算。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303400/sling-tv-streaming-price-increase-blue-orange</guid>
+      <pubDate>Fri, 22 Nov 2024 20:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strava 的 API 崩溃凸显了健身数据的混乱</title>
+      <link>https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables</link>
+      <description><![CDATA[
+
+Strava 是事实上的健身数据中间人。 |照片由 Victoria Song / The Verge 拍摄
+
+几天前，Strava 因一些限制性 API 更改而令其用户感到不满。一个应用程序的用户对 API 感到愤怒似乎很奇怪，但问题的核心是健身数据固有的混乱性。
+这是一个典型的场景。假设您完全使用 Garmin 的平台。您使用他们的手表进行跑步和力量训练。然后，您拿起一辆 Peloton 自行车进行室内骑行。好吧，Garmin 设备与 Peloton 自行车不兼容，因为这两家公司尚未达成直接的数据共享协议。因此，为了在 Peloton 自行车上获取心率，您需要购买胸带。然后，您决定为比赛进行训练，因此您注册了其中一个数字教练平台——私人教练会审查您的锻炼情况并为您制定个性化计划。
+现在的难题是，您有三个单独的应用程序来存储您的锻炼历史记录，并且有三个单独的界面——但没有一个可以展示您的训练全貌。
+您可以通过多种方式整合这些数据，但在这种情况下，最简单的方法是将所有锻炼上传到 Strava，然后将所有 Strava 数据导入教练应用程序。 
+
+在我测试可穿戴设备的过程中，这种情况出现了几十次。最近一次是在我评测Mobvoi 联网办公桌跑步机时出现的。我不喜欢它的原生应用，但试图将数据导入我喜欢的应用简直是一场噩梦。归根结底，对我来说，通过 Strava 是最容易的。
+现实情况是，许多较小的健身应用和可穿戴设备制造商没有足够的资源与市场上成千上万的其他健身应用和设备建立直接的数据集成。每个人都可以更轻松地使用 Strava 的 API 并完成一天的工作。与 Apple 的 HealthKit API 或 Google 的 Health Connect 不同，Strava 是平台无关的。
+事情变得非常模糊的地方是第三方健身平台从 Strava 数据中推断出自己的见解——根据新的 API 条款，这是不允许的。
+以 VeloViewer 这样的第三方平台为例。VeloViewer 背后的整个想法是提供对 Strava 数据的更深入的见解，包括 3D 地图、图表、年度活动回顾和排行榜。对于想要比 Strava 本身提供更多信息的人来说，这是一个很好的选择，但新的 API 更改破坏了许多上述功能。您可能可以想象，VeloViewer 用户（其中​​许多人表示他们只需支付 Strava 的订阅费即可使用 VeloViewer）很生气。VeloViewer 此后发布声明称正在与 Strava 合作解决该问题，但这并不能改变 Strava 掌握主动权的事实。
+不可否认，这是一个小问题。大多数人在智能手表上使用一个或两个健身应用程序，这并不是什么大问题。但对于我们这些想要在不同平台上使用多种设备和应用程序的自由的人来说？这是一个令人警醒的提醒，只需 Strava 改变规则，就可以打破精心设计的系统。 
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303124/strava-fitness-data-wearables</guid>
+      <pubDate>Fri, 22 Nov 2024 19:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌正在准备让 Gemini 在应用程序内部采取行动</title>
+      <link>https://www.theverge.com/2024/11/22/24303329/google-gemini-android-16-app-functions</link>
+      <description><![CDATA[
+
+Gemini 可能很快就会投入使用。 |插图由 Alex Castro / The Verge 提供
+
+Google 本周早些时候发布了 首个 Android 16 开发者预览版，眼尖的观察者已经发现了一些有趣的花絮，其中一条暗示了 Google 的 AI 助手将有更有用的未来。 在 Android Authority 中，Mishaal Rahman 撰写了 Android 16 中一个名为“应用功能”的神秘新 API，它似乎赋予了 Gemini Assistant 类似代理的能力，可以在应用中采取行动。这听起来与 Apple 在 iOS 18 中支持的 升级版“应用意图” 非常相似，而这正是可以让 AI 助手比现在更有用的东西。
+Google 开发者网站 上的一个页面将应用功能描述为“应用向系统提供的特定功能。这些功能可以集成到各种系统功能中。”确实澄清了一切。但 Rahman 指出了文档中埋藏的一个具体示例，这更能说明问题。它详细说明了应用程序开发人员如何使用应用程序功能向​​系统公开某些操作 - 在本例中是订购食物。有了 Gemini 提供的此功能，您可能无需打开 DoorDash 应用程序就可以在附近的泰国餐厅下订单。有点棒。
+Apple 正在研究一种类似的智能助手方法。它对更智能的 Siri 的承诺之一是它将能够在应用程序中为您采取行动。通过更新其应用程序意图框架，Apple 为开发人员创建了一种向 Siri 公开“订购食物”类型功能的方法。 据传言，我们可能要到 2025 年春季才能看到该更新。
+“为您做事”从一开始就是智能助手的全部承诺，但直到最近才开始实现。Gemini 可以在您的许可下访问某些应用中的信息，但目前它主要限于搜索 Gmail 和 Google 地图等内容。到目前为止，Siri 在 iOS 18 中最大的更新添加了 ChatGPT 扩展，以便您可以提出更复杂的问题，但它在“采取行动”方面仍然不足。现在，这两个平台似乎都在为更好的助手奠定基础——2025 年可能是智能手机人工智能非常有趣的一年。]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303329/google-gemini-android-16-app-functions</guid>
+      <pubDate>Fri, 22 Nov 2024 18:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定 SiriusXM 烦人的取消流程违法</title>
+      <link>https://www.theverge.com/2024/11/22/24303294/sirius-xm-cancellation-process-illegal-ny-ag</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+纽约一名法官裁定，SiriusXM 的“漫长而繁琐”的取消程序是非法的。 在周四的一项裁决中，法官 Lyle Frank 发现 SiriusXM 违反了一项联邦法律，该法律要求公司简化取消订阅的流程。
+该裁决是在纽约总检察长 Leticia James 起诉 SiriusXM 近一年后做出的，指控称该公司使订阅难以取消。经过调查，总检察长办公室发现，该公司试图通过让客户致电代理来延迟取消订阅，代理随后让客户在电话中通话几分钟，同时“向订户推销多达五项保留优惠”。
+正如裁决中所述，弗兰克法官发现 SiriusXM 违反了恢复网上购物者信心法案 (ROSCA)，该法案要求公司实施“简单机制”来取消订阅。 “他们的取消程序显然不像启动方法那么容易使用，”弗兰克法官写道，并指出与现场代理交谈以及他们推广的订阅优惠会带来“不可避免的等待时间”。
+
+联邦贸易委员会也已开始打击难以取消的订阅，新的“点击取消”规则将于明年生效。根据法律，公司必须让取消订阅变得像注册一样简单。 “该裁决认定 SiriusXM 非法为其纽约客户创建了一个复杂的取消流程，迫使他们花费大量时间与拒绝接受‘不’答案的代理商交谈，”司法部长詹姆斯在一份声明中表示。
+根据裁决，SiriusXM 必须更改其取消流程——但仅限于位于纽约的客户。SiriusXM 计划对该裁决提出上诉。“昨天，法院驳回了针对 SiriusXM 的几乎所有指控，并认定 SiriusXM 的政策既不具有误导性也不具有欺骗性，”SiriusXM 发言人 Maggie Mitchell 在给The Verge的一份声明中表示。“虽然法院发现了一些违反联邦法规的技术行为，但并未发现 SiriusXM 欺骗任何人或实施任何欺诈行为。” 
+Mitchell 表示，SiriusXM 也将遵守 FTC 即将出台的点击取消规则。
+11 月 22 日更新：添加了 SiriusXM 的声明。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/22/24303294/sirius-xm-cancellation-process-illegal-ny-ag</guid>
+      <pubDate>Fri, 22 Nov 2024 18:28:04 GMT</pubDate>
+    </item>
     <item>
       <title>现代汽车召回超过 145,000 辆 Ioniq 和 Genesis 电动汽车，这些汽车在行驶过程中可能会失去动力</title>
       <link>https://www.theverge.com/2024/11/22/24303326/hyundai-recall-ioniq-5-6-genesis-gv60-gv70-g80-drive-power</link>
@@ -59,85 +160,6 @@ Plex 表示，在幕后，它重写了应用程序并统一了代码库，以创
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24293826/best-early-black-friday-deals-2024-amazon-walmart-buy-target-tech-sale</guid>
       <pubDate>Fri, 22 Nov 2024 17:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>青少年主播抛售一枚 meme 币，售价 3 万美元，之后事情变得奇怪起来</title>
-      <link>https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-病毒式 meme 硬币 Quant 背后的年轻主播在欺骗投资者后被加密社区曝光，据 Decrypt 和 The Crypto Times 报道。在本周早些时候的一次直播中，这名孩子兴奋地看着自己的 meme 币价格上涨，然后卖掉了自己的股份以 30,000 美元的价格出售，并向观众甩了甩手，导致其价格暴跌。
-这位年轻的投资者声称他只有 13 岁，他在X 上的帖子爆红后开始受到关注。帖子说：“开学前刚赚了 2000 美元。锁定，”并附上一张孩子举着手机炫耀收益的照片。据Decrypt报道，当这个男孩后来在直播中推出他的代币 Quant 时，投资迅速涌入——直到他把代币中的所有钱全部撤出。
-
-
-BRO LMFAOOOOO pic.twitter.com/rLYWr2cxqB— BEEZY (@BeezyScores) 2024 年 11 月 20 日
-
-
-但当社区成员寻找报复方法时，事情开始变得奇怪，最终变得丑陋：
-
-人们开始向 Quant 投入更多资金，如果这名少年继续持有，他的股份将超过 100 万美元。
-
-Decrypt 报道称，这名男孩和他的家人后来被人肉搜索，他的姓名、地址和学校被曝光。
-据报道，交易员使用这名少年家人的照片创建代币。 
-
-这只是 meme coin 创造者通过直播推广其代币的最新趋势，其中涉及疯狂 — 有时甚至是危险的 — 特技。]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303149/teen-streamer-dumped-quant-meme-coin-doxxed</guid>
-      <pubDate>Fri, 22 Nov 2024 15:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款更便宜的 Apple Pencil 替代品现在具有倾斜检测功能和更好的笔尖</title>
-      <link>https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil</link>
-      <description><![CDATA[
-
-SonarPen 2 包含升级功能，如 USB-C 和更精细的笔尖。 |图片：Greenbulb
-
-2018 年，SonarPen 首次亮相，作为 Apple Pencil 的廉价替代品，它使用通过电缆而不是蓝牙传输到 iPad 的音频信号。它的创造者带着升级版的 USB-C 版本回归，引入了额外的功能，包括倾斜检测和改进的笔尖，现在与 Apple Pencil 非常相似。
-SonarPen 2 目前可通过 Kickstarter 众筹活动 预订，预计最早将于 2025 年 4 月开始发货。如果您提前预订，SonarPen 2 的折扣价约为 32 美元，预计全价接近 45 美元。
-
-
-图片：Greenbulb
-SonarPen 2 包含集成电缆管理。
-
-SonarPen 2 仍然支持防手掌误触、压力敏感度和可自定义的快捷按钮等功能，同时添加了倾斜检测和类似于 Apple Pencil 的笔尖，可在磨损时更换。其他支持倾斜检测和压力感应等功能的第三方 iPad 手写笔价格更贵，例如售价 70 美元的 Adonit Note Plus。
-原装 SonarPen 可以连接到 iPad 的低压耳机插孔，但 SonarPen 2 仅在连接到 USB-C 或 Lightning 端口时才有效。它专为配备智能笔屏幕数字化仪的 iPad 型号而设计。
-
-SonarPen 2 的另一个限制是应用程序需要专门支持其倾斜检测和快捷按钮等功能。目前完全支持的应用程序列表并不多，包括 ibis Paint X 和 Zen Brush 3。对于尚未明确添加 SonarPen 2 支持的应用程序，触控笔的功能与原装 Apple Pencil 相同，但没有压力感应。]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303122/sonarpen-2-stylus-apple-ipad-pencil</guid>
-      <pubDate>Fri, 22 Nov 2024 15:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克的新 DOGE 计划实际上是关于大规模放松管制的旧想法</title>
-      <link>https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24302735/elon-musk-doge-vivek-ramaswamy-rage-curtis-yarvin</guid>
-      <pubDate>Fri, 22 Nov 2024 15:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads 正在彻底改进其搜索和趋势功能</title>
-      <link>https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Meta 承诺对其 X 竞争对手 Threads 进行“早该进行的改进”，包括更精确的搜索功能和扩展的热门话题。
-首先，用户将能够搜索特定日期范围内的帖子或只需一个账户即可完成搜索——类似于 X 的搜索功能。Threads 还在美国测试了一个新的趋势页面，其中包括其他可关注的主题以及 AI 生成的其他用户讨论内容摘要。 
-Instagram 负责人 Adam Mosseri 领导了 Threads 的发布，他在一篇帖子中写道，测试将于今日开始。
-
-
-
-本周 Threads 的更新很多，它面临着来自 Bluesky 的激烈竞争，Bluesky 是一个基于文本的去中心化平台，最近几周，人们蜂拥而至。本周早些时候，Threads 推出了自定义 feed 选项，允许用户在主页上固定多个精选 feed。用户可以为某些主题或帐户创建自定义 feed，从而为他们提供超越算法推荐 feed 或反向时间顺序关注 feed 的更多灵活性。 Bluesky 上的该功能已经存在了一段时间，而 Meta 在短短几天内就宣布并推出了自己的模仿版本。
-人们对 Threads 的一个长期抱怨是，默认主页提要充斥着用户不关注的帐户中不相关的、有时令人讨厌的内容（Bluesky 的默认提要则相反）。就在昨天，Mosseri 表示 Meta 正在调整 Threads 算法以优先考虑您关注的人的帖子，这是平台对内容排名方式的重大改变。仍有疑问，这一变化是否真的会让 Threads 感觉更及时——尽管它可能比 Bluesky 大很多倍，但登录并查看两天前的帖子会让 Threads 感觉死气沉沉。
-Bluesky 在过去几周内呈现爆炸式增长：用户数量已达 2000 万，本周每天新增 100 万用户。与 Threads 的用户群相比，它仍然是小巫见大巫，但它显然做对了一些事情——也许让 Meta 有理由担心。]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303207/threads-meta-search-trending-topics-bluesky</guid>
-      <pubDate>Fri, 22 Nov 2024 15:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SteelSeries Arctis GameBuds 评测：适用于 PlayStation 或 Xbox 的耳塞</title>
-      <link>https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24300648/steelseries-arctis-gamebuds-review-xbox-playstation</guid>
-      <pubDate>Fri, 22 Nov 2024 15:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
