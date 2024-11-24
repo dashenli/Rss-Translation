@@ -4,7 +4,29 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Nov 2024 18:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 01:18:31 GMT</lastBuildDate>
+    <item>
+      <title>微软暂停安装部分 Ubisoft 游戏的 PC 的 Windows 11 更新</title>
+      <link>https://www.theverge.com/2024/11/23/24304313/microsoft-delays-windows-11-24h2-update-ubisoft-star-wars-outlaws-assassins-creed-valhalla-crashes</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+Microsoft 已停止向安装了某些 Ubisoft 游戏的 PC 提供 Windows 11 版本 24H2 的更新，Bleeping Computer 报道。该公司在收到投诉称《星球大战：亡命之徒》和《刺客信条》系列游戏在安装新的 Windows 更新后崩溃后采取了这一举措。
+微软昨天晚上在状态更新中证实了“兼容性暂停”，并表示正在与 Ubisoft 合作寻找解决方案。与此同时，该公司建议不要手动安装 Windows 11 24H2 更新。 
+以下是微软对该问题和受影响游戏的描述：
+
+安装 Windows 11 版本 24H2 后，您可能会遇到一些 Ubisoft 游戏的问题。这些游戏在启动、加载或游戏过程中可能会无响应。在某些情况下，用户可能会看到黑屏。受影响的游戏包括：
+• 《刺客信条：英灵殿》
+• 《刺客信条：起源》
+• 《刺客信条：奥德赛》
+• 《星球大战：法外狂徒》
+• 《阿凡达：潘多拉边境》
+
+微软写道，育碧已发布临时修补程序来解决《星球大战：法外狂徒》中的崩溃问题，但表示玩家“可能仍会遇到一些性能问题”。]]></description>
+      <guid>https://www.theverge.com/2024/11/23/24304313/microsoft-delays-windows-11-24h2-update-ubisoft-star-wars-outlaws-assassins-creed-valhalla-crashes</guid>
+      <pubDate>Sat, 23 Nov 2024 23:10:18 GMT</pubDate>
+    </item>
     <item>
       <title>克莱斯勒 Pacifica 全电动版正在研发中</title>
       <link>https://www.theverge.com/2024/11/23/24304099/chrysler-pacifica-ev-fully-electric-minivan</link>
@@ -157,32 +179,6 @@ DirecTV 已放弃收购 Dish 的计划，该公司宣布星期四。这笔交易
 这并非 DirecTV 和 Dish 之间交易首次出现问题。美国联邦通信委员会 于 2002 年阻止了两家公司的合并。 这两家公司从那时起就一直考虑合并——而这一次在特朗普政府的领导下，他们或许有更好的成功机会。]]></description>
       <guid>https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned</guid>
       <pubDate>Fri, 22 Nov 2024 22:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需一把十字螺丝刀，即可轻松拆卸这款可修复的智能手表</title>
-      <link>https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable</link>
-      <description><![CDATA[
-
-Spectra 智能手表现在可通过 Kickstarter 众筹活动预订。 |图片：Pocuter
-
-Spectra 是一款全新的智能手表，其设计从一开始就考虑到了易破解和易维修。它由 Pocuter 打造，该公司在过去几年中一直在磨练制造小型电子产品的专业知识，例如其微型 Pocuter One 电脑。Spectra 的独特之处在于它可以维修，但其设计与 Apple Watch 相似，更难维修。
-这款可穿戴设备现在可通过 Kickstarter 众筹活动预订，预计最早于 2025 年 7 月交付。早期支持者可以以折扣价预订一款，价格约为 209 美元，而全价则接近 272 美元左右。 Spectra 是该公司的第七次 Kickstarter 活动，但似乎也是其最雄心勃勃的项目之一。原型开发三年后，它仍未完全完成硬件，因此虽然支持这个产品的风险可能较小，但仍然存在一些风险。
-
-
-图片：Pocuter
-Spectra 将提供多种配色，并使用标准的 22 毫米表带。
-
-搭载 Espressif ESP32-S3 处理器，“最高配备 8MB RAM 和 32MB 可执行闪存”， Spectra 拥有 368x448 AMOLED 显示屏、数字表冠、Wi-Fi、蓝牙、健身追踪和环境传感器，以及一个 microSD 插槽，理论上可以使用存储卡将存储空间提升至半兆字节。所有这些都塞在 CNC 铣削铝制框架内，该公司计划出售升级产品，包括不锈钢替代品。
-iFixit 发现，Spectra 的内部设计还优先考虑了电池的使用，其主板可以旋转开来，并使用弹簧触点代替需要拆卸的电缆。可穿戴设备和耳塞等小型设备的电池通常很难更换，但就像Fairphone 的 Fairbuds一样，也许 Spectra 会鼓励其他公司改变这种状况。
-
-
-图片：iFixit
-iFixit 收到了一块拆开的 Spectra 智能手表，但目前尚不清楚最终产品是否会以这种方式交付给所有支持者。
-
-Pocuter 团队告诉 iFixit，“计划为每个零件提供替换选项”，这分享了智能手表未组装原型的组装和拆卸有多么简单。 （Pocuter 尚未说明最终手表是否在出厂时已组装好。）七个十字槽头螺钉将所有部件固定在一起，而不是使用胶水和环氧树脂，因为胶水和环氧树脂通常会使维修变得过于复杂或完全不可能。
-这款可穿戴设备还将运行基于 JavaScript 的自定义操作系统 SpectraOS。承诺的功能包括简化应用程序开发的交互式调试器、安全的应用程序沙盒以及对 Linux、macOS 和 Windows 的支持。它无法访问 Apple 或 Google 强大的应用商店，因此要充分利用 Spectra，可能需要一些编码经验，而不仅仅是基本的螺丝刀技能。]]></description>
-      <guid>https://www.theverge.com/2024/11/22/24303386/pocuter-spectra-smartwatch-repairable-hackable-wearable</guid>
-      <pubDate>Fri, 22 Nov 2024 20:44:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
