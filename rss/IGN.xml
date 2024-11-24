@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Sun, 24 Nov 2024 06:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 09:15:15 GMT</lastBuildDate>
+    <item>
+      <title>《索尼克 X 暗影世代》黑色星期五特惠 - 这是我今年最喜欢的游戏</title>
+      <link>https://www.ign.com/articles/sonic-x-shadow-generations-black-friday-deal-2024</link>
+      <description><![CDATA[黑色星期五期间，《Sonic X Shadow Generations》价格降至仅 30 美元。]]></description>
+      <guid>https://www.ign.com/articles/sonic-x-shadow-generations-black-friday-deal-2024</guid>
+      <pubDate>Sun, 24 Nov 2024 08:46:51 GMT</pubDate>
+    </item>
     <item>
       <title>《最终幻想》系列黑色星期五降价至新低</title>
       <link>https://www.ign.com/articles/the-final-fantasy-i-vi-anniversary-collection-black-friday-2024</link>
@@ -62,20 +69,6 @@
       <pubDate>Sat, 23 Nov 2024 00:26:28 GMT</pubDate>
     </item>
     <item>
-      <title>《谋杀疑云 2 密码》（2024 年 11 月）</title>
-      <link>https://www.ign.com/articles/murder-mystery-2-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/murder-mystery-2-codes</guid>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RIVALS 代码（2024 年 11 月）</title>
-      <link>https://www.ign.com/articles/rivals-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/rivals-codes</guid>
-      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>蜜蜂群模拟器代码（2024 年 11 月）</title>
       <link>https://www.ign.com/articles/bee-swarm-simulator-codes</link>
       <description><![CDATA[]]></description>
@@ -83,10 +76,24 @@
       <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>《谋杀疑云 2 密码》（2024 年 11 月）</title>
+      <link>https://www.ign.com/articles/murder-mystery-2-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/murder-mystery-2-codes</guid>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DOORS 代码（2024 年 11 月）</title>
       <link>https://www.ign.com/articles/doors-codes</link>
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/doors-codes</guid>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIVALS 代码（2024 年 11 月）</title>
+      <link>https://www.ign.com/articles/rivals-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/rivals-codes</guid>
       <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如何重制经典 RPG 的光辉典范。]]></description>
       <guid>https://www.ign.com/articles/dragon-quest-3-hd-2d-remake-review</guid>
       <pubDate>Fri, 22 Nov 2024 23:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析师称《龙腾世纪：面纱守卫》要达到《审判》的首发销量将面临“艰苦的战斗”</title>
-      <link>https://www.ign.com/articles/dragon-age-the-veilguard-faces-uphill-battle-to-match-inquisitions-launch-sales-says-analyst</link>
-      <description><![CDATA[《龙腾世纪：面纱守卫》于 10 月 31 日发行，我们已经对其销售情况有了些许了解。在 Circana 的全月美国最畅销游戏报告中，它排名第六，仅次于《隐喻：ReFantazio》。但它在单一排行榜上的排名并不能完全说明全部情况。]]></description>
-      <guid>https://www.ign.com/articles/dragon-age-the-veilguard-faces-uphill-battle-to-match-inquisitions-launch-sales-says-analyst</guid>
-      <pubDate>Fri, 22 Nov 2024 21:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
