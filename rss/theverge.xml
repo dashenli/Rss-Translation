@@ -4,20 +4,92 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:15:47 GMT</lastBuildDate>
     <item>
-      <title>Threads 最终将允许你将以下 feed 设置为默认 feed</title>
+      <title>Anthropic 推出将 AI 系统直接连接到数据集的工具</title>
+      <link>https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Anthropic 发布了一款新的开源工具，可将 AI 助手直接连接到他们需要的信息，以便他们做出响应或执行任务。 新的模型上下文协议 (MCP) 为各种数据源提供了通用连接，Anthropic 表示这将提高性能。
+本月初，OpenAI 开始测试一项新的“使用应用程序”功能，让 Mac 版 ChatGPT 直接连接到某些编码应用程序。另一方面，Anthropic 的工具旨在适用于所有 AI 系统和数据源。
+正如 Anthropic 的 Claude 关系负责人 Alex Albert 所指出的那样，开发人员目前必须为他们希望 AI 模型从中提取的每个数据集创建自定义代码。借助 Anthropic 的 MCP，Albert 表示开发人员可以将其与他们的 AI 工具集成一次，然后通过“共享资源、工具和提示的标准协议” “连接到任何地方的数据源”。
+
+
+以下是使用 Claude 桌面应用程序的快速演示，我们已在其中配置了 MCP：观看 Claude 直接连接到 GitHub、创建新的 repo 并通过简单的 MCP 集成进行 PR。在 Claude 桌面中设置 MCP 后，构建此集成只需不到一小时。 pic.twitter.com/xseX89Z2PD— Alex Albert (@alexalbert__) 2024 年 11 月 25 日
+
+
+Anthropic 表示，Replit、Codeium 和 Souregraph 等编码软件已经开始使用 MCP 来构建他们的 AI 代理，这些代理可以代表用户完成任务。该工具可能会让其他公司和开发人员更轻松地将 AI 系统与多个数据源连接起来——随着行业逐渐转向代理式 AI，这一工具可能会变得特别有用。
+“开发人员现在可以根据标准协议进行构建，而不必为每个数据源维护单独的连接器，”Anthropic 的公告称。“随着生态系统的成熟，AI 系统在不同工具和数据集之间移动时将保持上下文，用更可持续的架构取代当今分散的集成。”]]></description>
+      <guid>https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources</guid>
+      <pubDate>Mon, 25 Nov 2024 20:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您现在可以购买的最佳黑色星期五游戏优惠</title>
+      <link>https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024</guid>
+      <pubDate>Mon, 25 Nov 2024 20:18:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽车已与凯迪拉克达成协议，将新车队带入 F1 赛场</title>
+      <link>https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026</link>
+      <description><![CDATA[
+
+通用汽车对凯迪拉克一级方程式车队概念车的设计渲染图。 |图片：通用汽车
+
+通用汽车已与凯迪拉克品牌达成协议加入一级方程式赛车，并将参加 2026 年赛季的国际汽联一级方程式赛车世界锦标赛，该汽车制造商周一宣布了这一消息。一级方程式赛车表示，它已经原则上接受并将把通用汽车凯迪拉克申请成为第 11 支参赛车队，成为自 2016 年以来第一支新加入的车队。
+F1 表示，它一直在与通用汽车及其赛车运动公司 TWG Global 的合作伙伴进行谈判，讨论该组织在 1 月份做出的商业评估和决定之后“参赛的可行性”。公告提到，通用汽车稍后将作为发动机供应商加入，而The Race报道，它将首先作为法拉利客户加入，但尚未正式宣布。 
+通用汽车：
+为 F1 创造的创新将有助于通用汽车推动交通运输的未来，为全球消费者提供先进的电气化、动力系统、软件和内燃机技术。成立 F1 车队还将向多元化的国际观众展示凯迪拉克品牌，展示通用汽车的技术和设计能力。
+Liberty Media（一级方程式集团所有者）首席执行官 Greg Maffei 在一份声明中表示，通用汽车作为未来的动力装置供应商“可以为这项运动带来额外的价值和兴趣”。Maffei 还称通用汽车和凯迪拉克是“令人印象深刻的美国品牌”。
+上一届美国 F1 冠军马里奥·安德雷蒂将加入该车队董事会担任董事。 ]]></description>
+      <guid>https://www.theverge.com/2024/11/25/24305768/gm-cadillac-formula-1-racing-2026</guid>
+      <pubDate>Mon, 25 Nov 2024 20:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国气候谈判惨败</title>
+      <link>https://www.theverge.com/2024/11/25/24305393/united-nations-climate-change-summit-cop29-outcome</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/25/24305393/united-nations-climate-change-summit-cop29-outcome</guid>
+      <pubDate>Mon, 25 Nov 2024 20:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 17‘Slim’的传言仍在流传</title>
+      <link>https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems</link>
+      <description><![CDATA[
+
+这不是 iPhone 13 Mini（如上图所示），但 17 “Slim” 或许可以捕捉到一些小手机的魔力。 |图片：Vjeran Pavic / The Verge
+
+据The Information报道，苹果工程师正在考虑将 SIM 卡、电池和导热材料放在传闻中的 iPhone 17“Slim”的什么位置。尽管美国 iPhone 已经有几年没有 SIM 卡了，但在中国它们必须配备 SIM 卡，这是一个棘手但必要的障碍。
+据报道，17 Slim 的单个中央摄像头将被一个矩形凸起包围，该凸起由铝而不是玻璃制成。它还表示 iPhone Plus 将退出产品线，关于这款新手机的传言不断，而这一传言也时有出现。 
+
+有关 17 Slim（或 Air，无论 Apple 怎么称呼它）的其他传言包括，它将配备 6.6 英寸（或 6.55 英寸）显示屏和铝制框架。据 The Information 报道，如果厚度不到 6 毫米，它将需要更高能量密度的电池。它比 6.9 毫米的 iPhone 6 还要薄，后者是苹果有史以来最薄的手机——众所周知，这一区别伴随着某些……结构上的妥协。而所有这些都可能要付出代价；有传言称，它的价格将在 1,200 美元以上的 Pro Max 上。]]></description>
+      <guid>https://www.theverge.com/2024/11/25/24305670/iphone-17-slim-rumors-sim-card-battery-problems</guid>
+      <pubDate>Mon, 25 Nov 2024 18:39:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dr Disrespect 直接转向 Rumble</title>
+      <link>https://www.theverge.com/2024/11/25/24305606/dr-disrespect-rumble-streaming-youtube-twitch</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/11/25/24305606/dr-disrespect-rumble-streaming-youtube-twitch</guid>
+      <pubDate>Mon, 25 Nov 2024 18:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threads 正在测试选择您自己的默认提要的选项</title>
       <link>https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test</link>
       <description><![CDATA[
 
 插图：The Verge
 
-Threads 现在将让用户在打开应用时决定将哪个 feed 作为默认 feed。 Meta 首席执行官马克·扎克伯格在一篇文章中宣布了这一消息，并表示你将能够在“为你推荐”、“关注”或你设置的任何自定义 feed之间进行选择。扎克伯格的帖子指出，Threads 正在“测试”此选项，并将在应用程序中使该选择“更加明显”。
+Threads 现在将让用户在打开应用时决定将哪个 feed 作为默认 feed。 Meta 首席执行官马克·扎克伯格在一篇文章中宣布了这一消息，并表示你将能够在“为你推荐”、“关注”或你设置的任何自定义 feed之间进行选择。扎克伯格的帖子指出，Threads 正在“测试”此选项，并且还会在应用程序中“更明显地显示”不同的信息。
 
 
 
 
-经过一年多的时间，Threads 终于做了显而易见的事情，允许人们以他们喜欢的方式使用该应用程序。要设置默认提要，请打开 Threads 应用程序，然后点击并按住顶部的任意提要。从那里，选择“编辑提要”，您就可以在那里重新排序它们。无论您在第一个位置放置了哪个提要，它都会在您打开 Threads 时出现。 
+经过一年多的时间，Threads 终于做了一件显而易见的事情，允许人们以他们喜欢的方式使用该应用程序。希望不久之后，这项测试能够扩展到所有用户。 
+如果您正在测试，请按照以下方法设置默认信息流：打开 Threads 应用，点击并按住顶部的任何信息流。从那里，选择“编辑信息流”，您就可以在那里重新排序它们。无论您在第一个位置放置了哪个信息流，只要您打开 Threads，它就会出现。 
 
 
 GIF：Threads
@@ -63,7 +135,7 @@ Nvidia 表示，其新的 AI 音乐编辑器可以创建“前所未闻的声音
 Instagram 添加了新贴纸，并允许您为朋友提供昵称和您的位置。 |图片：Instagram
 
 Instagram 正在添加与 DM 中的朋友共享实时位置的功能，每次最长可达一小时，这样当你们到达音乐会、郊游和其他聚会时，就可以找到彼此。该功能适用​​于 Instagram 的直接消息，它还具有其他一些新功能，包括贴纸包和昵称。
-Instagram 表示，你可以通过 DM 与他人私下分享你的位置，无论是一对一还是群聊，该功能默认处于关闭状态。它类似于 Snapchat 的 SnapMap 中的位置共享功能，其中包括在地图上与朋友分享照片的功能。目前，这些功能仅在“选定国家/地区”可用（Instagram 未列出具体位置）。
+Instagram 表示，你可以通过 DM 暂时与他人私下共享你的位置，无论是一对一还是群聊，该功能默认处于关闭状态。它类似于 Snapchat 的 SnapMap 中的位置共享功能，但没有包括与您共享位置的所有人在内的俯视图。目前，新功能仅在“选定国家/地区”可用（Instagram 未列出具体位置）。
 
 
 图片：Instagram
@@ -75,107 +147,11 @@ Instagram 表示，你可以通过 DM 与他人私下分享你的位置，无论
 聊天中有一个指示器，提醒您正在分享您的位置。
 
 您现在还可以在 DM 中为自己和朋友起昵称，包括在群聊中。如果您不喜欢朋友给您起的名字，您可以锁定他们，但该功能只在特定聊天中有效 — — 因此外人无法看到彼此提供的昵称。
-DM 也有 17 个新贴纸包，其中包含 300 多个新贴纸，您可以将其放入聊天中与您的朋友聊天。您甚至可以在聊天中将朋友发送给您的贴纸标记为收藏，重复使用它们，并使用剪切功能制作自己的贴纸，或者使用AI生成它们。
-Instagram负责人Adam Mosseri上周表示，人们使用消息的次数多于创建按钮，因此该公司现在正在测试聊天图标的新位置，将其放在应用程序的底部和中央。]]></description>
+DM 也有 17 个新贴纸包，其中包含 300 多个新贴纸，您可以将其放入聊天中与您的朋友聊天。您甚至可以在聊天中将朋友发送给您的贴纸标记为收藏，重复使用它们，并使用剪切功能制作自己的贴纸，或者使用 AI 生成它们。
+Instagram 负责人 Adam Mosseri 上周表示，人们使用消息的次数多于创建按钮，因此该公司现在正在测试聊天图标的新位置，将其放在应用程序的底部和中央。
+11 月 25 日更新：阐明了位置共享的方式有效。]]></description>
       <guid>https://www.theverge.com/2024/11/25/24305587/instagram-dms-live-location-sharing-nicknames</guid>
       <pubDate>Mon, 25 Nov 2024 17:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 违反了欧盟的规定</title>
-      <link>https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-欧盟表示，Twitter 替代品 Bluesky 违反了欧盟《数字服务法》有关信息披露的规定，路透社报道。但由于 Bluesky 的规模还不足以被视为 DSA 下的“非常大的在线平台”，监管机构表示，它不能像监管 X 或 Threads 那样监管 Bluesky。 
-《金融时报》援引欧盟委员会发言人 Thomas Regnier 的话，他在周一的新闻发布会上向记者介绍了这一违规行为：
-“欧盟的所有平台……都必须在其网站上有一个专门的页面，说明它们在欧盟有多少用户以及它们的合法成立地点，”委员会发言人 Thomas Regnier 说。“截至目前，Bluesky 的情况并非如此。 ”
-
-据报道，Regnier 接着表示，委员会已要求欧盟 27 个国家政府寻找“Bluesky 的任何踪迹”，例如设在欧盟的办事处。据《金融时报》报道，监管机构尚未直接联系 Bluesky。Bluesky 并未立即回复《The Verge》的评论请求。
-DSA 旨在让平台对发布的内容承担法律责任，但由于用户不到 4500 万，Bluesky 还不够大，还不符合其非常大的在线平台标签的资格。根据该平台开发者之一建立的统计跟踪网站的数据，美国总统大选后注册人数激增，10 天前其用户数达到1500 万用户，现在用户数已达 2250 万。其持续增长可能很快就会使其与欧盟监管机构产生冲突。]]></description>
-      <guid>https://www.theverge.com/2024/11/25/24305579/bluesky-breaking-european-union-rules-user-count</guid>
-      <pubDate>Mon, 25 Nov 2024 17:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoDaddy 首席执行官 Aman Bhutani 谈网站的持久力</title>
-      <link>https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview</guid>
-      <pubDate>Mon, 25 Nov 2024 16:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌因搜索主导地位面临英国大规模集体诉讼</title>
-      <link>https://www.theverge.com/2024/11/25/24305482/google-uk-class-action-lawsuit-search-dominance</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-谷歌必须面对英国 70 亿英镑（约 88 亿美元）的集体诉讼，该诉讼指控该公司滥用其在搜索领域的主导地位，损害消费者的利益。 周五，英国竞争上诉法庭 (CAT) 裁定该案件可以继续进行，这进一步增加了谷歌在全球范围内面临的法律冲突数量。
-该集体诉讼案最初由消费者权益倡导者 Nikki Stopford 于 2023 年 9 月提起。诉讼称，谷歌的反竞争做法使公司在该平台上做广告的成本更高，导致英国数百万消费者的价格上涨。
-诉讼称，谷歌“强迫”安卓手机制造商在手机上安装谷歌搜索和谷歌 Chrome，欧盟已经就此对谷歌展开诉讼。它还表示，谷歌向苹果支付了“数十亿美元”，以使谷歌成为 Safari 的默认搜索引擎——这个问题在美国最近对谷歌的裁决中占有突出地位。
-
-“谷歌继续操纵搜索引擎市场，向广告商收取更多费用，从而提高了他们向消费者收取的费用，”斯托普福德在一份声明中表示。 “英国的这项法律行动旨在促进数字市场更健康的竞争，并让谷歌承担责任。”
-谷歌于 9 月要求伦敦法庭驳回诉讼，但现在 CAT 一致同意应该继续进行。“我们仍然认为这个案子是投机性的和投机取巧的——我们将坚决反对，”谷歌英国高级法律顾问 Paul Colpitts 在发给The Verge的电子邮件声明中表示。“人们使用谷歌是因为它很有帮助；而不是因为没有其他选择。”
-谷歌目前面临多起诉讼，其中一起来自美国司法部的诉讼可能迫使谷歌出售 Chrome。除了来自 Epic Games 和 Yelp 的诉讼之外，这家搜索巨头还因其广告技术而面临来自美国司法部的更多法律麻烦。它还最近输掉了一场上诉，以逃避欧盟的27 亿美元的反垄断罚款。
-11 月 25 日更新：添加了来自 Google 的声明。]]></description>
-      <guid>https://www.theverge.com/2024/11/25/24305482/google-uk-class-action-lawsuit-search-dominance</guid>
-      <pubDate>Mon, 25 Nov 2024 16:11:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 宣布推出内置 Wi-Fi 的 7 美元 Pico 2</title>
-      <link>https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller</link>
-      <description><![CDATA[
-
-Raspberry Pi Pico 2 现在配备 Wi-Fi 和蓝牙。 |图片：Raspberry Pi
-
-Raspberry Pi 已宣布推出带有板载 Wi-Fi 芯片的 Pico 2 微控制器板的更新版本。它被称为 Pico 2 W，由 RP2350 微控制器供电，您可以在各种 DIY 小工具和有趣的设备中找到它，例如微型 Thumby Color GBA 克隆。最棒的是，它的价格为 7 美元，仅比 5 美元的 Pico 2 贵 2 美元。 
-Pico 2 W 的 Wi-Fi 芯片使用 Wi-Fi 4（又名 802.11n）标准添加了 2.4GHz 信号，并带来了蓝牙 5.2。 Wi-Fi 4 是一种较旧的低带宽标准，目前仍在许多智能家居产品中使用，从基本传感器到安全摄像头，再到 HomePod Mini 等智能扬声器。 
-Pico 2 W 还配备了一个 USB 1.1 端口。 Tom’s Hardware在其主板评测中指出，它支持标准 Raspberry Pi Pico 配件，这扩展了它使用传感器、显示器和机器人套件所能实现的功能。 
-
-
-图片：Raspberry Pi
-Pico 2 W 的 RP2350 微控制器。
-
-至于微控制器本身，Raspberry Pi 首次推出了 RP2350 8 月，这款双核芯片同时采用 Arm 和 RISC-V 架构。最初的 Pico 使用了 RP2040，这是 Raspberry Pi 发布的第一款自主设计的芯片。 （它也是为 DockLite G4 开发板供电的芯片，让我使用旧 iMac G4 作为外接显示器。）
-您会发现 Pi 的低功耗开发板有各种各样的用途。有些人创建自定义的 IoT 传感器和控制器 — 在专门讨论 Raspberry Pi Pico 系列的 subreddit 中，有人提到使用它来为时钟、自定义智能手表、IoT 气象站或环境传感器等供电。甚至有人说他们“正在考虑一些猫玩具的想法”。
-截至本文发布，Pico 2 W 仅在 Raspberry Pi 的首选零售商之一接受预订 - 但您可以在其他三家零售商处购买。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/11/25/24305455/raspberry-pi-pico-2-w-wi-fi-wireless-microcontroller</guid>
-      <pubDate>Mon, 25 Nov 2024 15:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>超花园出现在《索尼克 3》的新预告片中</title>
-      <link>https://www.theverge.com/2024/11/25/24305474/sonic-3-trailer-chao-garden-detective-pikachu</link>
-      <description><![CDATA[
-
-派拉蒙
-
-有一些细节派拉蒙的第三部Sonic 的功能需要正确处理，才能让人感觉像是 Sonic Adventure 2 的正确改编，而电影的最新预告片看起来已经锁定了 Chao Garden（可以说是游戏中最好的部分）。
-虽然它展示了 Robotniks（Jim Carey）和 Shadow the Hedgehog（Keanu Reeves）密谋毁灭地球的几个镜头，但 Sonic the Hedgehog 3 新预告片的亮点是其 Chao Garden 的新镜头。虽然《索尼克大冒险 2》中的 Chao Garden 基本上是一个养育神奇小动物的托儿所，但电影将其重新想象成一个类似 Chuck E. Cheese 的餐厅，索尼克 (Ben Schwartz) 和他的团队喜欢在这里闲逛，而 Chao 吉祥物则在舞台上跳舞。 
-考虑到展出的所有 Chao 商品，您几乎会认为这些小斑点生物是真人版《索尼克》世界中的《神奇宝贝》，因为它们是深受喜爱的电子游戏系列的一部分。但这些孩子和纳克鲁斯（伊德瑞斯·艾尔巴饰）似乎都看过大侦探皮卡丘，这意味着这部电影在他们的世界里也是一部成功的电影改编。虽然索尼克的谷歌地图笑话有点不尽如人意，但暗影用一个奇怪的球体恐吓所有人的镜头给他带来了一点超梦的感觉，这感觉很合适，因为他是一个被误解的反派。
-虽然没有迹象表明蝙蝠侠露面，但预告片很好地提醒了我们，这部电影 12 月 20 日的首映将是一场轰动性的首映。]]></description>
-      <guid>https://www.theverge.com/2024/11/25/24305474/sonic-3-trailer-chao-garden-detective-pikachu</guid>
-      <pubDate>Mon, 25 Nov 2024 15:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果特朗普取消联邦电动汽车税收抵免，加州准备与他发生冲突</title>
-      <link>https://www.theverge.com/2024/11/25/24305487/california-is-ready-to-pick-a-fight-with-trump-if-he-kills-the-federal-ev-tax-credit</link>
-      <description><![CDATA[
-
-照片由 Mario Tama/Getty Images 拍摄
-
-加州州长加文纽森 发誓，如果当选总统唐纳德·特朗普兑现取消联邦税收抵免的威胁，该州将恢复该州对新电动汽车购买的退税。 
-在竞选期间，特朗普誓言在他担任总统的“第一天”就取消乔·拜登总统的“电动汽车授权”。现在，随着这一转变的进行，他的顾问已经讨论了将一项措施纳入其中，取消针对新电动汽车购买的 7,500 美元税收抵免，作为更广泛的税收改革方案的一部分。 
-如果特朗普成功，纽森表示他将加紧努力，重启加州最近逐步取消的清洁汽车计划，该计划为购买或租赁新的、符合条件的零排放汽车（包括电动汽车、插电式混合动力汽车和燃料电池汽车）提供 1,000 至 7,500 美元的回扣。
-如果特朗普成功，纽森表示他将加紧努力
-“如果特朗普政府取消联邦税收抵免，我们将进行干预，加倍致力于加州的清洁空气和绿色就业，”纽森在一份声明中表示。 “我们不会放弃清洁的交通未来——我们将让人们以更实惠的价格驾驶无污染的车辆。”
-加州的退税计划从 2010 年到 2023 年实施，帮助居民购买了超过 594,000 辆汽车，该州估计这有助于节省超过 4.56 亿加仑的汽油。 
-如果加州恢复退税计划，可能会包括一些变化，以“促进零排放汽车市场的竞争”，并将由该州的温室气体减排基金支付，该基金由根据该州限额与交易计划排放污染的公司资助。
-就加州与联邦政府的关系而言，纽森正试图在可能非常有争议的四年中取得领先。在特朗普的第一个任期内，他的政府起诉取消加州根据 1970 年《清洁空气法》制定的制定自己的空气标准的能力。特朗普试图撤销这一权利，同时试图撤销奥巴马时代的尾气排放规则。（前一次尝试没有成功，但后一次成功了——尽管排放规则后来在拜登的领导下再次改变。）
-这一次，纽森可能会得到更多的支持。上次，包括通用汽车在内的几家汽车制造商站在特朗普一边，要求制定加州的污染标准。但这一次，该行业在更有利的电动汽车政策下尝到了甜头，现在他们不想再回到过去了。代表三大汽车制造商以及在美国销售汽车的外国公司的汽车创新联盟最近向特朗普的团队发送了一封信，恳求他保留税收抵免。 ]]></description>
-      <guid>https://www.theverge.com/2024/11/25/24305487/california-is-ready-to-pick-a-fight-with-trump-if-he-kills-the-federal-ev-tax-credit</guid>
-      <pubDate>Mon, 25 Nov 2024 15:21:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
