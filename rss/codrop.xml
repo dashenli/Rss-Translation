@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sun, 24 Nov 2024 18:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 12:34:57 GMT</lastBuildDate>
+    <item>
+      <title>2024 年黑色星期五面向设计师和代理商的 10 大优惠</title>
+      <link>https://tympanus.net/codrops/2024/11/25/10-best-2024-black-friday-deals-for-designers-and-agencies/</link>
+      <description><![CDATA[不要错过 2024 年黑色星期五十大设计师和代理商特惠，节省大笔开支。这些独家优惠仅在限定时间内有效！]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/25/10-best-2024-black-friday-deals-for-designers-and-agencies/</guid>
+      <pubDate>Mon, 25 Nov 2024 09:57:03 GMT</pubDate>
+    </item>
     <item>
       <title>集体#883</title>
       <link>https://tympanus.net/codrops/collective/collective-883/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>集体#882</title>
       <link>https://tympanus.net/codrops/collective/collective-882/</link>
-      <description><![CDATA[两种不同的“可聚焦” UI 元素 * REM？PX？为什么不同时使用？]]></description>
+      <description><![CDATA[两种不同的“可聚焦” UI 元素 * REM？PX？为什么不同时使用呢？]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-882/</guid>
       <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Rive 强大的无代码工具让 Mac Mini 动画栩栩如生，并提供有关嵌套画板、状态机和仿 3D 效果的提示。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</guid>
       <pubDate>Thu, 14 Nov 2024 11:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OGL 创建 ASCII 着色器</title>
-      <link>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</link>
-      <description><![CDATA[通过这份易于遵循的指南探索着色器的世界，使用 WebGL、Perlin 噪声和 GLSL 创建自定义 ASCII 艺术动画。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/</guid>
-      <pubDate>Wed, 13 Nov 2024 11:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
