@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 12:34:21 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Nod 编码训练营</title>
+      <link>https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/</link>
+      <description><![CDATA[跟随 Waaark 了解 Nod Coding Bootcamp 新网站转型的幕后情况，了解我们如何将一个平淡无奇的网站变成令人难忘的网站。]]></description>
+      <guid>https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/</guid>
+      <pubDate>Tue, 26 Nov 2024 09:49:56 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年黑色星期五面向设计师和代理商的 10 大优惠</title>
       <link>https://tympanus.net/codrops/2024/11/25/10-best-2024-black-friday-deals-for-designers-and-agencies/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>案例研究：ChainGPT 实验室</title>
       <link>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</link>
-      <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创公司的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
+      <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创企业的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</guid>
       <pubDate>Tue, 19 Nov 2024 12:39:55 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在本文中，我们将带您到幕后探索位于挪威斯塔万格的电影制作公司 Moxey.no 网站的创意开发过程。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/15/developing-moxey-a-behind-the-scenes-look-at-the-process/</guid>
       <pubDate>Fri, 15 Nov 2024 11:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Rive 中逐步重现 Mac Mini 效果</title>
-      <link>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</link>
-      <description><![CDATA[了解如何使用 Rive 强大的无代码工具让 Mac Mini 动画栩栩如生，并提供有关嵌套画板、状态机和仿 3D 效果的提示。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/14/recreating-the-mac-mini-effect-step-by-step-in-rive/</guid>
-      <pubDate>Thu, 14 Nov 2024 11:06:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
