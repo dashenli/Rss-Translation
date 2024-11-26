@@ -4,19 +4,19 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Tue, 26 Nov 2024 18:22:51 GMT</lastBuildDate>
-    <item>
-      <title>《星球大战：猎人》确认将于 2025 年通过 Steam Early Access 登陆 PC</title>
-      <link>https://www.ign.com/articles/star-wars-hunters-confirmed-for-pc-via-steam-early-access-in-2025</link>
-      <description><![CDATA[Zynga 宣布计划于 2025 年通过 Steam Early Access 将《星球大战：猎人》引入 PC 平台。]]></description>
-      <guid>https://www.ign.com/articles/star-wars-hunters-confirmed-for-pc-via-steam-early-access-in-2025</guid>
-      <pubDate>Tue, 26 Nov 2024 17:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Nov 2024 21:15:39 GMT</lastBuildDate>
     <item>
       <title>自上而下的 Roguelike 游戏《Guidus Zero》推出抢先体验版</title>
       <link>https://www.ign.com/articles/top-down-roguelike-guidus-zero-launches-in-early-access</link>
       <description><![CDATA[]]></description>
       <guid>https://www.ign.com/articles/top-down-roguelike-guidus-zero-launches-in-early-access</guid>
+      <pubDate>Tue, 26 Nov 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《星球大战：猎人》确认将于 2025 年通过 Steam Early Access 登陆 PC</title>
+      <link>https://www.ign.com/articles/star-wars-hunters-confirmed-for-pc-via-steam-early-access-in-2025</link>
+      <description><![CDATA[Zynga 宣布计划于 2025 年通过 Steam Early Access 将《星球大战：猎人》引入 PC 平台。]]></description>
+      <guid>https://www.ign.com/articles/star-wars-hunters-confirmed-for-pc-via-steam-early-access-in-2025</guid>
       <pubDate>Tue, 26 Nov 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
@@ -76,24 +76,17 @@
       <pubDate>Tue, 26 Nov 2024 00:59:00 GMT</pubDate>
     </item>
     <item>
+      <title>Dandy 的世界密码 (2024 年 11 月)</title>
+      <link>https://www.ign.com/articles/dandys-world-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/dandys-world-codes</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>鱼类法规（2024 年 11 月）</title>
       <link>https://www.ign.com/articles/fisch-codes</link>
       <description><![CDATA[想在 Fisch 寻找一些免费资源？使用这些可兑换代码可获得免费奖励。]]></description>
       <guid>https://www.ign.com/articles/fisch-codes</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>柔术恶作剧代码（2024 年 11 月）</title>
-      <link>https://www.ign.com/articles/jujutsu-shenanigans-codes</link>
-      <description><![CDATA[想要在 Jujutsu Shenanigans 中获得一些免费奖励吗？我们为你准备了所有当前可兑换的代码。]]></description>
-      <guid>https://www.ign.com/articles/jujutsu-shenanigans-codes</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>驾驶帝国代码（2024 年 11 月）</title>
-      <link>https://www.ign.com/articles/driving-empire-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/driving-empire-codes</guid>
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -104,10 +97,17 @@
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>King Legacy 代码（2024 年 11 月）</title>
-      <link>https://www.ign.com/articles/king-legacy-codes</link>
-      <description><![CDATA[需要 King Legacy 中的一些额外宝石、经验值或属性退款？试用这些代码可获得免费奖励。]]></description>
-      <guid>https://www.ign.com/articles/king-legacy-codes</guid>
+      <title>驾驶帝国代码（2024 年 11 月）</title>
+      <link>https://www.ign.com/articles/driving-empire-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/driving-empire-codes</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>柔术恶作剧代码（2024 年 11 月）</title>
+      <link>https://www.ign.com/articles/jujutsu-shenanigans-codes</link>
+      <description><![CDATA[想要在 Jujutsu Shenanigans 中获得一些免费奖励吗？我们为你准备了所有当前可兑换的代码。]]></description>
+      <guid>https://www.ign.com/articles/jujutsu-shenanigans-codes</guid>
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
