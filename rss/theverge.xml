@@ -4,7 +4,22 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:31:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 12:33:14 GMT</lastBuildDate>
+    <item>
+      <title>不，微软没有使用你的 Office 文档来训练其人工智能</title>
+      <link>https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 | 照片由 Getty Images 提供
+
+微软表示，它不会使用来自 Microsoft 365 应用程序中的客户数据来训练其 AI 模型。该澄清解决了过去几周网上流传的报道，这些报道声称微软要求 Word 和 Excel 用户选择退出该公司的 AI 系统培训。
+混乱源于 Microsoft Office 中的隐私设置，该设置切换“可选连接体验”——据微软称，该功能可帮助用户“搜索在线图片”或“查找在线信息”。该开关默认开启，且披露中未提及 AI 培训。同样，微软于 2024 年 10 月 21 日发布的一份学习文档似乎也加剧了混乱，它描述了一长串Office 中的连接体验，这些体验“分析您的内容”，但并未明确排除 AI 培训。
+“在 M365 应用中，我们不使用客户数据来培训 LLM，”Microsoft 365 X 帐户表示，以回应这些说法。 “此设置仅启用需要互联网访问的功能，例如共同创作文档。” 微软通讯主管 Frank Shaw 也在 Bluesky 上发表讲话，以揭穿这些说法。 
+Adobe 在今年早些时候也面临类似的强烈反对，此前其用户条款被广泛误解为该公司正在根据用户的工作来训练生成式 AI。 Adobe 迅速更新了其服务条款中的措辞，以澄清事实并非如此。
+Adobe 和 Microsoft 事件表明，人们越来越担心他们的个人数据被科技公司在未经明确许可的情况下用于训练他们的 AI 模型。这种担忧是可以理解的，考虑到 Meta、X 和 Google 等公司默认选择让用户参与 AI 训练，而大量为此目的而抓取的在线内容。]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors</guid>
+      <pubDate>Wed, 27 Nov 2024 11:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>保时捷将继续生产燃油汽车</title>
       <link>https://www.theverge.com/2024/11/26/24306935/porsche-more-gas-models-ev-slowdown</link>
@@ -131,23 +146,6 @@ Counterpart 充电器目前可供预订，预计 12 月 9 日发货。]]></descr
 Apple Watch 应用程序提供的功能将取决于“车辆的型号和设备”，与智能手机应用程序一样，它仅与 2019 年及更新的梅赛德斯-奔驰车型兼容。]]></description>
       <guid>https://www.theverge.com/2024/11/26/24306633/mercedes-benz-apple-watch-app</guid>
       <pubDate>Tue, 26 Nov 2024 19:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hulu 最佳黑色星期五优惠又回来了，全年每月只需 0.99 美元</title>
-      <link>https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale</link>
-      <description><![CDATA[
-
-现在你甚至连 1 美元买一袋薯片都买不到了。 | 插图作者：Alex Castro / The Verge
-
-Hulu  再次推出了我们在黑色星期五促销中见过的最好的流媒体优惠之一。即日起至 12 月 2 日，Hulu 的新用户和老用户（订阅超过一个月后）可以在 Hulu 上以每月 0.99 美元（优惠 9 美元）的价格享受一年的广告赞助流媒体服务。 
-
-您还可以在同一链接上找到 Disney Bundle Duo Basic，其中包括 Hulu 和 Disney Plus，每个都带有广告，未来 12 个月每月只需 2.99 美元，每月可节省 8 美元。如果您在此之前不取消，您的费用将分别回升至 9.99 美元和 10.99 美元。此次交易是ABC 促销活动的一部分。
-
-从价格角度来看，Hulu 本身就是一个有吸引力的优惠，而且还有更多值得挖掘的内容，可能你明年都没有时间真正观看。我个人很讨厌由于最近的合同变更而无法观看 WWE 的每周节目，但你仍然可以从 ABC、Fox、FX、FXX 和 Freeform 等网络观看大量次日播出的剧集，此外还有一个包含超过 40,000 部电影和节目的点播目录，包括Only Murders 等原创作品在大楼里 和飞出个未来延长运行。
-如果你可以在每月预算中多出 2 美元（我不是在偷工减料，但有东西告诉我你可以），那么总体而言，购买带有 Disney Plus 的 Hulu 是更好的选择。 Disney Plus 提供流媒体访问该超级品牌的永恒经典和大片系列的权限，无论您是在穆法沙：狮子王上映之前重温所有狮子王，还是追赶不断壮大的漫威电影宇宙和星球大战系列中的所有内容。
-]]></description>
-      <guid>https://www.theverge.com/2024/11/26/24306632/hulu-disney-plus-ads-bundle-black-friday-deal-sale</guid>
-      <pubDate>Tue, 26 Nov 2024 18:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
