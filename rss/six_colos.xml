@@ -4,12 +4,26 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 27 Nov 2024 12:34:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 21:16:32 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 582：老派谷歌员工</title>
+      <link>https://sixcolors.com/podcast/2024/11/clockwise-582-good-ol-fashioned-googler/</link>
+      <description><![CDATA[假期期间我们与家人和朋友一起使用的科技产品；参加长时间、电量有限的一日游（例如参加最高法院集会）时携带的小工具；寻找或避免黑色星期五的科技优惠；以及我们用于发现和管理食谱的应用程序。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/11/clockwise-582-good-ol-fashioned-googler/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 523：喙！</title>
+      <link>https://sixcolors.com/podcast/2024/11/the-rebound-523-beaks/</link>
+      <description><![CDATA[这是（黑色星期五）季节。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/11/the-rebound-523-beaks/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>可能没有哪家公司比苹果更有耐心了 (Macworld/Dan Moren)</title>
       <link>https://www.macworld.com/article/2535266/there-may-be-no-company-more-patient-than-apple.html</link>
       <description><![CDATA[人们经常指出，苹果通常不是第一个进入特定产品类别的公司。
-以最近报道为例，苹果正在开发一款由大型语言模型支持的 Siri 版本，预计明年才会发布，然后在 2026 年的某个时候向用户推出。…]]></description>
+以最近报道为例，苹果正在开发一个由大型语言模型支持的 Siri 版本，预计明年才会发布，然后在 2026 年的某个时候向用户推出。…]]></description>
       <guid>https://www.macworld.com/article/2535266/there-may-be-no-company-more-patient-than-apple.html</guid>
       <pubDate>Wed, 27 Nov 2024 12:22:04 GMT</pubDate>
     </item>
@@ -23,7 +37,7 @@
     <item>
       <title>（播客）升级 539：与我的男孩们一起跑 98 码</title>
       <link>https://sixcolors.com/podcast/2024/11/upgrade-539-98-yards-with-my-boys/</link>
-      <description><![CDATA[苹果可能会重新致力于智能家居，智能 Siri 似乎还遥遥无期，苹果的电影电影激怒了好莱坞的创意人员，而杰森已经结束了 App Store 独家化的时代。…]]></description>
+      <description><![CDATA[苹果可能会重新致力于智能家居，智能 Siri 似乎还遥遥无期，苹果的电影电影激怒了好莱坞的创意人员，而杰森已经结束了 App Store 独家经营的时代。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/11/upgrade-539-98-yards-with-my-boys/</guid>
       <pubDate>Mon, 25 Nov 2024 23:19:05 GMT</pubDate>
     </item>
@@ -104,21 +118,6 @@
       <description><![CDATA[在我之前为《Six Colors》写的文章中，我写了为什么 Apple 的 Clean Up（以及一般的照片修饰工具）是人们照片编辑工具包中必备的好工具。…]]></description>
       <guid>https://sixcolors.com/post/2024/11/how-does-clean-up-measure-up/</guid>
       <pubDate>Tue, 19 Nov 2024 16:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 538：Mac 在你面前大显身手</title>
-      <link>https://sixcolors.com/podcast/2024/11/upgrade-538-a-lot-of-mac-in-your-face/</link>
-      <description><![CDATA[Apple 是否试图通过真正拥抱智能家居产品来增加收入，还是为时已晚？此外，Jason 在评论 Kindle 的同时，对电子阅读器的现状表示遗憾，而 Vision Pro 则获得了新配件和 The Weeknd 的音乐视频！…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/11/upgrade-538-a-lot-of-mac-in-your-face/</guid>
-      <pubDate>Mon, 18 Nov 2024 23:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）你不能再忽视 GDPR 了</title>
-      <link>https://sixcolors.com/feed-only/2024/11/you-cant-ignore-gdpr-anymore-3/</link>
-      <description><![CDATA[当欧盟于 2018 年颁布 GDPR 时，高管和安全专家焦急地等待着
-看看该法律将如何执行。然后他们一直在等待……等待……但欧洲大规模隐私打击从未到来。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/11/you-cant-ignore-gdpr-anymore-3/</guid>
-      <pubDate>Mon, 18 Nov 2024 17:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
