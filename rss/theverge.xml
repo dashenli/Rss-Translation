@@ -4,7 +4,124 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 27 Nov 2024 21:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:15:51 GMT</lastBuildDate>
+    <item>
+      <title>微软称已在 Android 上打造 Xbox 游戏商店但无法启动</title>
+      <link>https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games</link>
+      <description><![CDATA[
+
+The Verge
+
+几周前，微软高管 Sarah Bond 表示，11 月，“玩家将能够直接从 Android 上的 Xbox App 玩和购买 Xbox 游戏。”快到 12 月了，这项功能仍未上线，但 Bond 表示这不是微软的错。 
+正如她所说，问题在于，只有在法院命令生效后，微软才能做到这一点，该命令迫使 Google Play Store 在 Android 上进行全面变革，例如向竞争开放并终止应用使用 Google Play Billing 的要求。 
+
+
+3/4：由于法院最近批准了临时行政暂停令，我们目前无法按计划推出这些功能。我们的团队已构建了相关功能，并准备在法院做出最终决定后立即上线。— BondSarahBond (@bondsarahbond.bsky.social) 2024-11-27T21:15:23.695Z
+
+
+
+10 月18 日，法官詹姆斯·多纳托 (James Donato) 批准了谷歌的请求，要求其在上诉时暂缓执行，因为谷歌裁定 Android 应用商店属于非法垄断，这可能会让事情悬而未决相当长一段时间。Bond 在今日 Bluesky 上的一个帖子中提到了这一点，他写道：“由于法院最近批准了临时行政暂缓执行，我们目前无法按计划推出这些功能。我们的团队已经构建了该功能，并准备在法院做出最终裁决后立即上线。”
+微软多年来一直在规划其移动应用商店战略。然而，尽管这对游戏玩家来说令人沮丧，但该公司仍未明确说明是什么情况阻碍了它提供像 Steam 和 PlayStation 已经提供的那样的 Xbox 游戏购买服务，以配合其集成的 Xbox 云游戏功能。我们也没有关于其基于浏览器的移动商店状态的更新，该商店收银机上显示“即将推出”的标志，就像 8 月份那样。]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307867/microsoft-google-xbox-game-store-android-purchase-games</guid>
+      <pubDate>Wed, 27 Nov 2024 23:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>已停产的 Steam Deck LCD 现已发售</title>
+      <link>https://www.theverge.com/2024/11/27/24307713/steam-deck-lcd-512gb-deal-autumn-sale</link>
+      <description><![CDATA[
+
+照片由 Vjeran Pavic / The Verge 拍摄
+
+Valve 已将 512GB Steam Deck LCD 的价格降至 336.75 美元（约 112 美元折扣），作为 Steam 秋季促销的一部分。此次促销将持续到 12 月 4 日美国东部时间下午 1 点，并且还包括大量游戏折扣，但 Valve 停产 512GB Steam Deck LCD，因此它可能不会持续到最后。 （它已经通过 64GB 型号出售，也打折了。）
+
+很遗憾看到 512GB LCD 型号消失，即使它的图像不像 Steam Deck OLED 那样突出。它的正常价格为 449 美元，是具有相同存储空间的 OLED 型号的更实惠的替代品，后者要多花 100 美元，但可以玩相同的游戏。特别是如果你用它来玩 Baldur’s Gate 3 和 Elden Ring 等 AAA 大作——这些游戏会很快填满你的板载存储空间。 
+Steam Deck 于 2022 年推出。Valve 平衡旧款手持设备与 Asus ROG Ally X 或 Lenovo Legion Go 等较新竞争对手的一个好方法是将过去两年的更新与清仓价相匹配。 ]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307713/steam-deck-lcd-512gb-deal-autumn-sale</guid>
+      <pubDate>Wed, 27 Nov 2024 23:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦贸易委员会修改电话营销规则，以应对日益增多的“技术支持诈骗”电话</title>
+      <link>https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam</link>
+      <description><![CDATA[
+
+插图：Amelia Holowaty Krales / The Verge
+
+美国联邦贸易委员会 (FTC) 已最终修订其电话销售规则 (TSR)，使保护被骗向诈骗技术支持公司付款的消费者变得更加容易。如果这些诈骗公司主动给人们打电话，FTC 已经可以追究他们的责任——现在，如果人们也给诈骗者打电话，他们也可以做同样的事情。
+虚假技术支持欺诈已经兴起多年。“公司”通过发送诈骗电子邮件、弹出窗口和其他消息，欺骗人们认为他们感染了病毒或其他问题。这鼓励他们致电服务台，然后说服他们付款。
+FTC 长期以来一直试图从这些骗子那里收回钱。但正如它在已发布的提案中解释的那样，2021 年最高法院的一项名为 AMG Capital Management, LLC v. FTC 的裁决限制了其这样做的权力。如果不重写规则，这意味着 FTC 只能在公司拨打外拨电话时追究他们的责任，这让许多被消息欺骗的消费者倒霉了。
+现在，TSR 已被修改，将“技术支持服务”从不受其规则约束的服务列表中删除。 FTC 还一直在严厉打击网站上的诈骗性“技术支持”弹出窗口。
+
+FTC 表示，60 岁以上的老年消费者成为此类骗局受害者的可能性是普通消费者的五倍，他们总共报告了超过 1.75 亿美元的损失。 今年早些时候，美国联邦贸易委员会 (FTC) 报告称，虚假“Geek Squad”电话位居欺诈榜首，造成的损失高达 1500 万美元。]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307766/ftc-telemarketing-fraud-rules-tech-support-scam</guid>
+      <pubDate>Wed, 27 Nov 2024 22:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软因反垄断问题接受美国联邦贸易委员会调查</title>
+      <link>https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns</link>
+      <description><![CDATA[
+
+图片：Laura Normand / The Verge
+
+微软正在接受美国联邦贸易委员会的一项范围广泛的反垄断调查，成为几年来第五家受到此类审查的大型科技公司。
+该机构正在调查微软的云和软件许可业务、网络安全服务和人工智能产品。彭博社首先报道了这一消息，The Verge向一位知情人士证实了调查，该人士要求匿名接受机密调查。
+对信息的需求长达数百页，是与微软竞争对手和合作伙伴进行了一年多非正式讨论的结果。据消息人士称，其中一个重点是微软如何将生产力和安全软件与其 Azure 云捆绑在一起。在微软产品遭遇多起安全事件之后，FTC 对微软云业务的兴趣有所增加，尤其是因为微软是美国政府机构的顶级软件供应商。FTC 和微软均拒绝置评。
+政府网络安全审查委员会今年早些时候得出结论：“微软的安全文化不足，需要彻底改革，尤其是考虑到该公司在技术生态系统中的核心地位。”不久之后，首席执行官萨蒂亚·纳德拉向员工发布了一份备忘录，称“如果你面临在安全和其他优先事项之间做出权衡，你的答案很明确：优先考虑安全。”
+如果联邦贸易委员会对微软提起诉讼，它将使微软重回熟悉的境地，尽管这来自过去的时代。20 世纪 90 年代末，该公司因将其网络浏览器和 Windows 操作系统捆绑在一起而面临司法部的反垄断诉讼。但近年来，微软基本上逃脱了对亚马逊、苹果、Meta 和谷歌的那种反垄断审查，这些公司都在与政府的垄断指控作斗争。 
+不过，当选总统唐纳德·特朗普将于明年 1 月就职，届时联邦贸易委员会的民主党多数地位将很快发生变化。他可能会选择该机构现任两名共和党委员中的一人担任代理主席，并最终提名与他的观点一致的新主席或委员。不过，他们继续调查并非不可能——因为特朗普上一次司法部和联邦贸易委员会分别对谷歌和 Meta 提起了反垄断诉讼。]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns</guid>
+      <pubDate>Wed, 27 Nov 2024 22:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Chat 的新功能使其更像 Teams 和 Slack</title>
+      <link>https://www.theverge.com/2024/11/27/24307767/google-chat-huddles-meet-video-call-workspace-update</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Google Chat 正在推出 huddles，这是一项由 Google Meet 提供支持的附加功能，可让您与同事快速通话。谷歌表示，它将在一年多前在客户预览版中为 Google Chat 添加 Huddles 功能，但自那以后我们就再也没有听说过这件事了。该公司表示该功能已开始推出，并将于 1 月 6 日覆盖所有 Workspace 用户。
+正如我们去年指出的那样，此功能与 Slack 的 Huddles 相同，使用完全相同的名称。如今，各种办公套件之间并没有太大区别，但这款套件确实更胜一筹。
+
+
+GIF：Google
+
+要开始聊天，只需点击聊天顶部的下拉菜单并选择“开始聊天”。这将弹出一个音频通话邀请，您可以将其转换为 Google Meet 风格的视频聊天，并能够共享您的屏幕“以便在聊天中进行多任务处理时获得更全面的会议体验”。 
+自去年大规模重新发布以来，该公司已为 Chat 推出了一些其他功能，例如Gemini 驱动的 AI 摘要、回复或标记同事的功能，以及语音录制功能。我想在大多数会议之前我都希望能够召开会议，但我想迟做总比不做好。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307767/google-chat-huddles-meet-video-call-workspace-update</guid>
+      <pubDate>Wed, 27 Nov 2024 22:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>《博德之门 3》又将迎来重大补丁</title>
+      <link>https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode</link>
+      <description><![CDATA[
+
+图片：Larian Studios
+
+Larian Studios 尚未完成对《博德之门 3》的重大更新。该工作室计划通过第 8 补丁对游戏进行另一次质量更新。
+“此更新将于明年推出，将为 BG3 引入一些最令人期待的功能：跨平台游戏和照片模式，以及 12 个新子类，”Larian 在其 Steam 社区页面上写道。
+跨平台游戏将引入任何游戏平台之间的多人游戏功能，包括 Steam、PC、Mac、Xbox 和 PlayStation。还将添加跨平台多人游戏进程。
+第 8 补丁将满足的另一个重大社区要求是添加照片模式。该功能将附带一系列强大的选项，包括派对成员的姿势、相框、照片滤镜和贴纸。
+最后，游戏将获得 12 个额外的子类，游戏中的每个基类都有一个。以下是列表：
+
+吟游诗人 - 魅力学院
+野蛮人 - 巨人之路
+牧师 - 死亡领域
+德鲁伊 - 星辰之环
+圣骑士 - 王冠誓言
+战士 - 奥术射手
+僧侣 - 醉鬼大师
+游侠 - 虫群守护者
+盗贼 - 剑客
+巫师 - 暗影魔法
+术士 - Hexblade
+法师 - Bladesinging
+
+该文章详细介绍了每个子类，其中许多子类都直接融入了开发人员创意中的自制元素。 
+Larian 表示它不会为博德之门 3 添加任何重大故事内容更新或 DLC。但随着这些补丁的推出，包括最近增加的官方 mod 支持，开发人员已将游戏置于最佳位置，让社区可以在没有他们的情况下继续冒险。第 8 个补丁计划于明年发布。]]></description>
+      <guid>https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode</guid>
+      <pubDate>Wed, 27 Nov 2024 21:39:02 GMT</pubDate>
+    </item>
     <item>
       <title>我真正想向人们推荐的黑色星期五最佳手机优惠</title>
       <link>https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola</link>
@@ -54,104 +171,6 @@ DJI Mini 3 重量仅为 8.8 盎司（249 克），小巧便携，可以单手握
 ]]></description>
       <guid>https://www.theverge.com/2024/11/27/24307470/black-friday-deal-drone-dji-mini-3-cyber-monday</guid>
       <pubDate>Wed, 27 Nov 2024 18:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>xAI 很快就会有自己的应用程序</title>
-      <link>https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report</link>
-      <description><![CDATA[
-
-The Verge
-
-埃隆·马斯克的 xAI 可能很快就会采取下一步行动与 OpenAI 竞争：为其 Grok 聊天机器人推出独立应用程序。 
-马斯克创建 xAI 是为了替代 OpenAI，他曾参与创建 OpenAI 公司，但由于意识形态差异后来与其保持距离。现在，《华尔街日报》报道，xAI 计划最早于 12 月推出一款应用，该应用可能会与 OpenAI 的 ChatGPT 正面交锋，以扩大规模。
-
-目前，用户可以通过 X 访问 Grok，但前提是他们订阅了该服务。华尔街日报援引未具名消息人士的话称，xAI 还为 Starlink 提供客户支持功能，Starlink 是马斯克另一家公司 SpaceX 的一部分。 X 并未立即回应对该报告发表评论的请求。
-OpenAI 的 ChatGPT、Google 的 Gemini 和 Anthropic 的 Claude 已经拥有自己的应用程序和免费产品，这使得 Grok 成为其他聊天机器人中的异类。]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307571/xai-consumer-app-planned-report</guid>
-      <pubDate>Wed, 27 Nov 2024 18:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>野兽派建筑启发了这款块状无线扬声器</title>
-      <link>https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker</link>
-      <description><![CDATA[
-
-Transparent 的新款无线扬声器灵感来自野兽派建筑。 |图片：Transparent
-
-Transparent 最新无线扬声器的设计看起来与最初帮助推出该品牌的玻璃封闭式透明扬声器完全相反。这款售价 4,000 美元的野兽派扬声器由铝制成，虽然它实物高度约为 23 英寸，但如果不了解背景，很容易将其误认为是极简主义办公大楼，其设计者仍受英国战后建筑风格的启发。
-Transparent 的扬声器配有一对 3 英寸高音扬声器，以 90 度角放置，与位于其对面的 6.5 英寸低音扬声器配合使用。该公司表示，当扬声器放置在角落时，其设计最能有效地让声音充满整个房间，这样声音就可以从墙壁上反射回来，但无论你把它放在哪里，你都需要确保附近有插座，因为它没有电池。它的重量为 26.5 磅，已经够重了。
-
-
-图片：透明
-该扬声器配有一对 3 英寸高音扬声器，以 90 度角放置，侧面配有一个 6.5 英寸低音扬声器。
-
-该扬声器可以通过蓝牙 5.2 从设备传输音频，但它也有 Wi-Fi 并支持 Apple 的 AirPlay 2、Tidal Connect、Spotify Connect 和 Amazon Music。一对 3.5 毫米输入允许其他音频源通过电缆连接，虽然它与亚马逊的 Alexa 兼容，但 Brutalist 扬声器没有自己的麦克风，限制了智能助手集成的实用性。
-
-
-图片：Transparent
-Brutalist 扬声器正面有三个拨盘，用于调节音量、高音和低音。
-
-Transparent 花了三年时间开发 Brutalist 扬声器，但实际上很多挑战来自于其决定使用 70% 的消费后回收铝来制造它。 “当然，我们在制造过程中投入了大量时间来完善所有不同模块的组合，确保一切听起来都很棒，但实际上，采购箱体再生铝并不容易，”Transparent 创意总监 Per Brickstad 告诉 Wired。
-]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307542/transparent-wireless-brutalist-speaker</guid>
-      <pubDate>Wed, 27 Nov 2024 18:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能能否帮助更多太阳能和风能发电场接入电网？</title>
-      <link>https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307399/ai-solar-wind-energy-power-grid-doe-funding-interconnection</guid>
-      <pubDate>Wed, 27 Nov 2024 17:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 Android 领导人正在开发“人工智能代理操作系统”</title>
-      <link>https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-由前 Android 领导人创建的新创业公司旨在为 AI 代理构建操作系统。其中包括谷歌前 Android 产品管理副总裁 Hugo Barra，他表示，新公司名为“/dev/agents”，将重温领导者的“Android 根源”。
-AI 公司正在推动 AI 代理成为AI 工具的下一个重大飞跃，承诺数字助理可以自主执行任务并做出决策，几乎不需要人工干预。 微软、谷歌和OpenAI等公司都计划在未来几个月内推出该概念的某个版本的产品。 
-
-
- 很高兴宣布我的新公司：/dev/agents。我正在为 AI 代理构建下一代操作系统，并与我的前同事 @hbarra、@alcor 和 @ficus 一起成为联合创始人。我们很高兴与 @ninaachadjian (Index Ventures) 和 @jillchase124 (CapitalG) 合作。... pic.twitter.com/N9Br7fHUKL— David Singleton (@dps) 2024 年 11 月 26 日
-
-
-“我们可以看到人工智能代理的前景，但作为开发人员，要构建任何好的东西实在太难了，”/dev/agents 联合创始人兼首席执行官、谷歌前 Android 工程副总裁 David Singleton 告诉彭博社。 他表示，业界需要“人工智能领域出现类似 Android 的时刻”。
-
-该公司正在开发基于云的“下一代人工智能代理操作系统”，旨在“让受信任的代理能够在所有设备上与用户合作”，Singleton 在 X 帖子 中写道。他表示，人工智能代理“需要新的 UI 模式、重新设计的隐私模型以及一个开发者平台，让构建有用的代理变得非常简单”。
-Barra 担任 /dev/agents 的首席产品官，是谷歌 Android 的知名代言人，十几岁时就负责管理该项目。后来，他为小米工作，然后担任 Facebook 的 Oculus VR 团队负责人。Bloomberg 指出，他和 Singleton 在 /dev/agents 的团队成员还包括首席技术官 Ficus Kirkpatrick（一位早期的 Android 工程师，曾担任 Meta 的 AR 和 VR 副总裁）和首席设计官 Nicholas Jitkoff（曾参与 ChromeOS 设计）。]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup</guid>
-      <pubDate>Wed, 27 Nov 2024 17:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛制作了整部圣诞电影只是为了向你推销东西</title>
-      <link>https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie</link>
-      <description><![CDATA[
-
-新街边男孩的 Joey McIntyre 会再次找到爱情吗，还是只会去沃尔玛购物？ |图片：Roku
-
-据Business Insider报道，沃尔玛将与 Roku 合作推出一部完整的圣诞电影，让观众可以在故事的特定部分在电视上购买产品。这是沃尔玛第二次尝试可购物电视的想法，此前该公司曾尝试过一部社交媒体浪漫喜剧系列。沃尔玛了解到，顾客看的时间越长，购买的可能性就越大，所以下一步就是推出一项功能。
-这次沃尔玛将通过启用沃尔玛和 Roku 之间的账户连接，让在电视屏幕上购买产品变得更加容易，这样就可以自动填写付款信息。沃尔玛收到了关于其上一部作品的反馈，称购买东西太麻烦了。
-
-这部电影名为Jingle Bell Love，由男子乐队“新街边男孩”成员乔伊·麦金泰尔主演，他扮演一位单身父亲，他回到已故妻子的家乡，并与当地一位店主找到了爱情。该片于 11 月 18 日上映，可在 Roku 频道免费观看。顺便说一句，麦金泰尔为这部电影发行了一首单曲。]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307517/walmart-roku-channel-jingle-bell-love-christmas-shopping-movie</guid>
-      <pubDate>Wed, 27 Nov 2024 17:22:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>一艘中国船只涉嫌破坏海底电缆</title>
-      <link>https://www.theverge.com/2024/11/27/24307498/chinese-ship-undersea-cables-severed-russia-baltic-seabed</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-一艘中国商船涉嫌故意拖锚切断连接各国的海底电缆互联网，华尔街日报报道。 
-据报道，国际调查人员认为，一艘满载俄罗斯肥料的散货船“Yi Peng 3”号上的船员将其锚拖过波罗的海海床超过 100 英里，损坏了横跨锚的电缆。据《华尔街日报》报道，两条不同的互联网链路（一条连接瑞典哥特兰岛和立陶宛，另一条连接芬兰和德国）本月初停止工作，促使这四个国家和其他国家的当局展开调查。
-
-据该媒体报道，调查人员目前正试图查明是否是俄罗斯情报官员下令销毁电缆的，尽管俄罗斯否认有任何不当行为。接受《华尔街日报》采访的匿名消息人士表示，该船的船东宁波一鹏航运有限公司正在配合调查人员的工作。《华尔街日报》称，几位匿名的西方执法和情报官员不相信中国政府参与了这一可疑计划。
-
-自俄罗斯入侵乌克兰以来，这已经不是欧洲官员第一次怀疑俄罗斯破坏海底基础设施了。但据《华尔街日报》报道，官员们一直不愿直接指责克里姆林宫干涉，部分原因是担心俄罗斯和欧洲之间的紧张局势进一步升级。]]></description>
-      <guid>https://www.theverge.com/2024/11/27/24307498/chinese-ship-undersea-cables-severed-russia-baltic-seabed</guid>
-      <pubDate>Wed, 27 Nov 2024 17:11:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
