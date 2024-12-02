@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 02 Dec 2024 18:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 21:16:46 GMT</lastBuildDate>
+    <item>
+      <title>为 Logitech 的 Litra 系列提供更好的命令行控制</title>
+      <link>https://sixcolors.com/post/2024/12/even-better-command-line-control-for-logitechs-litra-line/</link>
+      <description><![CDATA[不久前，我写了一篇关于一款软件的文章，它让你可以通过快捷方式控制 Logitech 的 Litra Glow 相机。但最近我发现了一个更好的选择，它使用和设置起来都更容易。…]]></description>
+      <guid>https://sixcolors.com/post/2024/12/even-better-command-line-control-for-logitechs-litra-line/</guid>
+      <pubDate>Mon, 02 Dec 2024 19:54:24 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Magic Lasso Adblock：Safari 网页浏览速度提升 2.0 倍</title>
       <link>https://sixcolors.com/feed-only/2024/12/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-18/</link>
@@ -115,13 +122,6 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone�
 我目前的台式 Mac 是 M1 Mac Studio，我每天都在车库/办公室使用它。我已经用了近三年，它仍然很棒。…]]></description>
       <guid>https://sixcolors.com/post/2024/11/indecision-at-the-intersection-of-mac-studio-and-mac-mini/</guid>
       <pubDate>Thu, 21 Nov 2024 00:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 581：参观恐龙时代</title>
-      <link>https://sixcolors.com/podcast/2024/11/clockwise-581-visit-that-like-a-time-period-with-dinosaurs/</link>
-      <description><![CDATA[我们如何处理实体媒体、我们光顾过的科技含量最高的餐厅、最终令我们失望的科技，以及我们会带回来的昔日的社交媒体网络。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/11/clockwise-581-visit-that-like-a-time-period-with-dinosaurs/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

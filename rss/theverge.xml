@@ -4,175 +4,119 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Dec 2024 18:23:24 GMT</lastBuildDate>
-    <item>
-      <title>以下是 30 美元以下的最佳网络星期一优惠</title>
-      <link>https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday</guid>
-      <pubDate>Mon, 02 Dec 2024 17:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>泄露消息显示大疆新款无人机采用紧凑折叠设计</title>
-      <link>https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak</link>
-      <description><![CDATA[
-
-新泄露的视频和 FCC 文件披露了一款新的 DJI 紧凑型折叠无人机。 | 屏幕截图：FCC
-
-泄露的图片、视频和 FCC 文件披露了 DJI 紧凑型折叠无人机系列的下一款产品。根据可靠泄密者 Jasper Ellens 在 X 上分享的视频，新款 DJI Flip 的螺旋桨护罩与 DJI Neo 类似，将采用与 HoverAir X1 类似的折叠设计。该视频显示。
-大疆目前的折叠无人机，包括 Mini 4 Pro 和 Mini 3，都配有可折叠的螺旋桨和可向每架无人机机身两侧折叠的机臂。在泄露的动画中，DJI Flip 上的保护螺旋桨似乎向下折叠，导致所有四个螺旋桨整齐地堆叠在一起，以帮助缩小无人机体积，并在不飞行时更易于运输。
-
-
-突发新闻：感谢我的朋友 YueYue，这是世界上第一个看到 #DJIFLIP 的人。Flip 将成为下一代 #foldable DJI 无人机（视频）。如果您正在等待 Mini 5。就是它了。它将配备 O4 和可能的 LiDAR。螺旋桨护罩就像 FPV 碳纤维。干杯！Jasper pic.twitter.com/uhumLWXLup— Jasper Ellens | X27 (@JasperEllens) 2024 年 12 月 1 日
-
-
-据 DroneXL 称，增加螺旋桨防护装置不仅可以让 DJI Flip 对新手来说更安全，而且其更大的螺旋桨及其管道设计还可以使新无人机更安静。 DroneXL 称，泄露的图片和动画中还发现了其他功能，包括三轴万向架上的摄像头、前螺旋桨下方的着陆支架、对 DJI O4 视频传输系统的支持，以及“与 DJI Air 3S 传感器功能相匹配的先进 LiDAR 阵列”。
-
-
-此时我甚至不再理解 #DJI 了。 #DJIFLIP 看起来像 Frankensteined Mini 2，纯粹设计为 30 分钟飞行的 4K 微型无人机，可能会也可能不会 #FLIP 或像 Hover AIR 一样折叠成两半。你们觉得怎么样？干杯。pic.twitter.com/yHBoVOR1pG— Jasper Ellens | X27 (@JasperEllens) 2024 年 11 月 29 日
-
-
-新的泄漏遵循技术细节和 DJI Flip 的首次亮相上周 Jasper Ellens 在 FCC 文件中披露。Flip 将配备 3,110mAh 电池——比 DJI Neo 的 1,435mAh 更大，可让小型无人机飞行长达 18 分钟。这也比 DJI Mini 4 Pro 附带的 2,590mAh 和 DJI Mini 3 的 2,453mAh 电池更大，这两款无人机的飞行时间均为 34 至 38 分钟。
-目前尚不清楚定价细节或 DJI Flip 何时推出，尽管 DroneXL 怀疑它可能会最早在 2025 年 1 月发布。Jasper Ellens 还认为 Flip 将成为 DJI 替代 Mini 5 或 Mini 5 Pro 的产品，后者预计将于 2024 年底或 2025 年初某个时候首次亮相。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311063/dji-flip-folding-drone-fcc-leak</guid>
-      <pubDate>Mon, 02 Dec 2024 17:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 地图现在显示 Waze 事故报告</title>
-      <link>https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Google Maps 现在开始在您导航时显示 Waze 事故报告，并且包括通过提示在应用中确认路况的功能。谷歌7 月宣布，这两款应用将交叉整合更多数据，将更多来自 Waze 的道路封闭、施工、超速摄像头和警察存在信息传输到谷歌地图。
-据 9to5Google 和 Android Authority 报道，在假期周末，一位 Reddit 用户 分享了一张提示截图，该提示基于 Waze 司机的报告显示“警方已提前报告”。与地图中的其他事件通知一样，用户可以更新报告以记录是否仍然看到相同的内容。
-
-
-图片：Reddit 用户 Truckin_18
-Google Maps，非常像 Waze。
-
-
-这是我们第一次看到有人在野外发现该特征的报告，但可能不会是最后一次。当 Google 宣布该功能时，集团项目经理 Can Comertoglu 向 The Verge 表示，尽管合并了地图和 Waze 背后的团队，但这两个应用程序仍将继续独立运营，因为 Waze 的 50 多万贡献者“比起 Google 地图，更喜欢 Waze 做的一些事情，我们知道反之亦然。”]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311129/google-map-waze-integration-incident-reporting-rollout</guid>
-      <pubDate>Mon, 02 Dec 2024 17:43:29 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Dec 2024 21:16:02 GMT</lastBuildDate>
     <item>
       <title>您现在可以获得的顶级网络星期一优惠</title>
       <link>https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday</link>
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday</guid>
-      <pubDate>Mon, 02 Dec 2024 17:39:34 GMT</pubDate>
+      <pubDate>Mon, 02 Dec 2024 20:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>苹果被指控在新诉讼中窥探员工的 iPhone</title>
-      <link>https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit</link>
+      <title>苹果 AirTags 在网络星期一的价格比以往任何时候都便宜</title>
+      <link>https://www.theverge.com/2024/12/2/24311290/cyber-monday-2024-apple-airtags-location-tracker-deal-sale</link>
       <description><![CDATA[
 
-图片：Cath Virginia / The Verge
+Apple 的 AirTags 既可爱又方便。 |照片由 Vjeran Pavic / The Verge 拍摄
 
-一名 Apple 员工起诉该公司，指控该公司要求员工放弃隐私权并对他们进行监视，首次报道Semafor。在周一提起的诉讼中，苹果员工 Amar Bhakta 指控苹果通过公司管理的设备访问员工数据——包括它“积极鼓励”员工使用的个人 iPhone。
-尽管苹果允许员工选择使用苹果拥有的设备进行工作，但诉讼称苹果鼓励用户将自己的 iPhone 带到工作场所，这些 iPhone 由苹果的内部软件管理。根据公司政策，与这些苹果管理的设备相关的数据，包括电子邮件、照片、视频、笔记和其他信息，都“受苹果搜索”，诉讼称。 Bhakta 声称，使用个人设备的员工也必须将他们的个人 iCloud 帐户链接到公司，据称这允许 Apple 在员工下班后收集他们的位置数据和其他信息。
-此外，诉讼还声称，Apple 要求员工同意一项政策，允许其“对他们进行物理、视频和电子监控”，并允许其在“公司场所”搜查 Apple 和非 Apple 设备，这违反了加州法律，在某些情况下，据称可能涉及员工的家庭办公室。
-这不是我们第一次听说这些政策，因为2021 年来自The Verge的一份报告揭示了 Apple 员工对被迫将个人帐户和设备链接到公司数据隐私的担忧他们的工作。苹果公司因其工作和新产品发布的高度保密而闻名。其他公司，包括谷歌和亚马逊，也被指控监视员工。
+无论您是想在机场快速找到您的行李，还是想更仔细地查看您的钥匙，Apple 的 AirTags  都非常有用。现在，您可以在 亚马逊 和 百思买 以历史最低价 69.99 美元（优惠 30 美元）购买四个多功能位置追踪器。您还可以在 亚马逊、沃尔玛 和 百思买 购买单个追踪器，价格为 24 美元（5 美元）折扣），这是我们最近看到的最优惠的价格之一。
 
+Apple 的 AirTags 是iPhone 用户的最佳蓝牙追踪器，主要是因为它们配备了 Apple 的超宽带芯片，可以利用 Apple 庞大的“查找我的”系统。这可以实现 Tile 等竞争对手无法提供的极其精确的追踪。 iPhone 用户还可以利用一些独特的软件优势，例如，如果您运行的是 iOS 17 或更高版本，则更新可让您与最多 5 个人共享追踪器。此外，Apple 即将在 iOS 18 中推出共享物品位置功能，该功能可让您使用安全链接与 15 多家航空公司以及其他公司临时共享丢失的行李箱地图。
+在硬件方面，追踪器具有 IP67 等级，因此您不必担心它们在下雨的冬日被淋湿。更方便的是，它们提供用户可更换的电池，这意味着当电池在一年左右后耗尽时，您不必继续更换 AirTags。现在，如果他们只提供一个挂绳孔就好了。
+阅读我们的 AirTag 评论。
 
-“对于苹果员工来说，苹果生态系统不是一座围墙花园，”诉讼称。“这是一个监狱院子。一个全景监狱，员工无论在岗还是下班，都永远处于苹果的监视之下。” Bhakta 还起诉苹果公司“非法”的工资追回政策，并声称该公司压制员工言论。诉讼中列举了苹果公司据称“禁止” Bhakta 公开谈论他在数字广告方面的经历，并迫使他从 LinkedIn 个人资料中删除有关他在苹果公司工作的信息。上个月，美国国家劳工关系委员会指责苹果禁止员工谈论薪酬平等问题。
-“在苹果，我们专注于创造世界上最好的产品和服务，我们努力保护我们的团队为客户创造的发明，”苹果发言人 Josh Rosenstock 在发给The Verge的电子邮件声明中表示。“每位员工都有权讨论他们的工资、工作时间和工作条件，这是我们商业行为政策的一部分，所有员工每年都会接受培训。我们强烈反对这些说法，并认为它们没有根据。”
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311060/apple-employee-surveillance-lawsuit</guid>
-      <pubDate>Mon, 02 Dec 2024 17:37:32 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/2/24311290/cyber-monday-2024-apple-airtags-location-tracker-deal-sale</guid>
+      <pubDate>Mon, 02 Dec 2024 20:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>Garmin Forerunner 255 在网络星期一促销</title>
-      <link>https://www.theverge.com/2024/12/2/24311166/cyber-monday-garmin-forerunner-255-deals</link>
-      <description><![CDATA[
-
-Garmin Forerunner 255 在网络星期一优惠 100 美元。 | 照片由 Victoria Song / The Verge 拍摄
-
-Garmin 的价格不菲。但对于寻找优惠的跑步者来说，这是一个好消息：优质的 Forerunner 255 在网络星期一降价至 250 美元（优惠 100 美元）。
-虽然它是上一代设备，但 Forerunner 255 将吸引那些喜欢尽可能长电池寿命的跑步者。这是因为它有一个内存像素显示屏，这意味着一次充电可以持续长达 14 天。MIP 显示屏在阳光直射下也更容易阅读。还有较新的 265 型号，但它有一个 OLED 显示屏，电池寿命略短，为 13 天。鉴于 Garmin 似乎热衷于将其大部分产品线转换为 OLED，这是一个趁还有库存时抢购 MIP 跑步手表的好机会。
-
-另一个不错的优势是 255 是获得双频 GPS 的最实惠方式之一。这意味着您可以同时获得 L1 和 L5 卫星频率，这意味着在城市和茂密森林等具有挑战性的 GPS 环境中可以更准确地跟踪路线。这款特定型号唯一缺少的是音乐存储空间，不过 255 Music 型号也在 亚马逊 和 百思买。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311166/cyber-monday-garmin-forerunner-255-deals</guid>
-      <pubDate>Mon, 02 Dec 2024 17:31:37 GMT</pubDate>
+      <title>石油巨头阻止了一项遏制塑料污染的条约，但各国将再次尝试</title>
+      <link>https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/2/24310973/plastic-treaty-negotiations-2025</guid>
+      <pubDate>Mon, 02 Dec 2024 20:43:40 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌放弃的 Pixel Tablet 2 拥有更好的显示屏和 5G 升级</title>
-      <link>https://www.theverge.com/2024/12/2/24311118/google-canceled-pixel-tablet-2-better-display-5g-tensor-g4</link>
+      <title>LG 77 英寸 C3 OLED 是网络星期一最划算的电视优惠</title>
+      <link>https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch</link>
       <description><![CDATA[
 
-原始的 Pixel 平板电脑只有 60Hz 显示屏。 |照片由 Dan Seifert / The Verge 拍摄
+C3 非常薄，画质令人印象深刻。 | 图片：LG
 
-Pixel Tablet 2 可能永远不会面世，但Android Authority 报道的新细节揭示了谷歌可能为这款第二代设备准备了哪些新东西，包括高刷新率显示屏、5G 连接等。 
-Tablet 2 显然会配备 120Hz 10.95 英寸 LCD 显示屏，刷新率是其前代产品的两倍，而分辨率保持不变，为 2,560 x 1,600 像素。Tablet 2 也进行了一些相机升级：它将配备与 Pixel 9 Pro Fold 相同的 10MP 自拍相机，而谷歌已将后置摄像头升级为 11MP 拍摄器。
+你们，我怒不可遏。违背自己的判断，我于 2023 年 2 月以 3,200 美元的价格购买了一台 77 英寸 LG C2，尽管我知道在 C3 发布 几个月后，价格就会暴跌。我非常渴望给我的 120Hz 游戏机进行一次适当的升级。想象一下我现在的感受，百思买 (Best Buy) 以 1,499.99 美元的价格出售 77 英寸 LG C3，这大幅降低了 800 美元，是迄今为止我们见过的最低价。
 
-据报道，谷歌还计划从 Pixel 9 系列中引入 5G 调制解调器，尽管具有蜂窝连接的 Tablet 2 型号将支持 GPS，但它们不会具有卫星连接。该公司可能更倾向于将 Tablet 2 打造成带有 Thread 无线电的智能家居中心，尽管正如 Android Authority 所指出的那样，同样带有无线电的 Pixel 9 手机实际上并没有将其用于任何用途。 谷歌显然还计划增加外部显示器支持，最高支持 4K 显示器。
-这些听起来都不是特别令人印象深刻，但它可能会让谷歌有趣的 Android 平板电脑和智能显示器混合体与苹果的 iPad 更具竞争力。相反，Pixel Tablet 似乎将保持独一无二。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311118/google-canceled-pixel-tablet-2-better-display-5g-tensor-g4</guid>
-      <pubDate>Mon, 02 Dec 2024 17:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 Sonos 扬声器在网络星期一打折——这很罕见</title>
-      <link>https://www.theverge.com/2024/12/2/24311156/sonos-five-cyber-monday-rare-discount</link>
-      <description><![CDATA[
+从另一个角度来看，77 英寸 LG C4 的售价为 2,199.99 美元（减价 600 美元），现在最值得购买。如果您想从 2024 年开始以相同或接近的价格购买较新的 C4 和其他旗舰 OLED 型号，则需要降级到65 英寸。按磅计算，很难找到更好的网络星期一电视交易。
 
-图片：Sonos
-
-如果你让我放弃我拥有的所有 Sonos 产品，只留下一款，我每次都会选择 Sonos Five。好吧，对我来说，从技术上讲，它是第二代 Play:5，但这款扬声器的声音与当前版本完全相同。 Sonos Five 的定价通常高达 549 美元，它将其定位为发烧友和黑胶唱片爱好者的真正高保真选择。（扬声器有一个辅助输入，可插入唱片机和其他外部音频源。）
-在网络星期一，Five 罕见地打折 20%，价格降至更实惠的 439 美元。有多罕见？据 CamelCamelCamel 称，这款扬声器自 2020 年以来从未降到这么低。
-
-人们偶尔会说 Sonos 设备更注重便利性，而不是纯粹的音频性能。但如果说这个系列中有一款产品在音质上毫不妥协，那一定是 Five。这款产品没有空间音频噱头。它是一款出色的立体声扬声器，低音干净、紧凑，分离度适中——或者至少是单个扬声器所能达到的水平。水平放置时，Five 会输出立体声信号。如果垂直放置，扬声器会将其混合为单声道。
-
-我的桌子上一直只有一个这样的扬声器，它已经足够满足我的需求了。但我也听过许多用户证实，将两台连接在一起形成立体声对会将事情提升到另一个层次，并且双件装也在销售。
-
-
-图片：Sonos
-Sonos Five 轻松超越了该公司产品线中的所有其他音乐扬声器。
-
-我并没有忽视我们所处的时代； Sonos 仍在努力解决因匆忙发布新应用而造成的巨大混乱。如果您仍然对该软件感到沮丧，我不会责怪您忽略这笔交易。但最近这款应用对我来说运行得相当好，这很诱人。
-事实证明，我的 Play:5 不再兼容最近发布的 Arc Ultra 环绕声设置。所以......我想计划报废只是给了我另一个考虑升级的理由。这不太好！但 Sonos Five 与新的条形音箱配合得很好。即使 Era 500 已列入 Sonos 的路线图，这款扬声器的音质也不会因此而逊色。
+LG C3 提供的面板比它所取代的 C2 略亮，弥补了 OLED 电视与 QLED 面板相比所缺乏的一个领域。但是，仅凭亮度的提高还不足以让您考虑从 C2 或任何其他旧款 OLED 升级。如果您是一名游戏玩家，之前使用的是没有 HDMI 2.1 端口或 120Hz 可变刷新率和自动低延迟模式的旧款设备，那么这款电视将是一次巨大的飞跃。当然，如果您是游戏新手，那么作为第一台 OLED 电视，它绝对是您的不二之选。
+除了 144Hz 的最大刷新率（只有 PC 游戏玩家才有可能使用，因为游戏机尚未将帧率定在这个范围内）之外，在 LG C4 上多花点钱也没有太多其他好处。而且这两款电视都不支持最新的 AI 升级，因为它们缺少更高级的 G4 型号中较新的 a11 图像处理器。 
+话虽如此，C3 的画质也没什么可抱怨的，它仍然得益于人工智能调优、出色的视角以及现代 OLED 面板通常具有的深黑色水平。此外，您还可以获得与 webOS 用户体验相关的相同有趣功能 - 包括内置云游戏和您最喜爱的运动队的比分提醒。它还包括一个 Magic Remote，可将魔杖般的运动控制与 Amazon Alexa 和 Google Assistant 配对。
 ]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311156/sonos-five-cyber-monday-rare-discount</guid>
-      <pubDate>Mon, 02 Dec 2024 17:12:05 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/2/24311237/cyber-monday-2024-lg-c3-oled-tv-77-inch</guid>
+      <pubDate>Mon, 02 Dec 2024 19:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>今天是你以每月 1 美元的价格购买 Hulu 及其他流媒体优惠的最后一天</title>
-      <link>https://www.theverge.com/2024/12/2/24310991/hulu-disney-plus-paramount-plus-peacock-max-cyber-monday-2024-streaming-deal-sale</link>
+      <title>Roblox 试图通过提高 Robux 在其他平台上的价值来规避应用商店费用</title>
+      <link>https://www.theverge.com/2024/12/2/24311337/roblox-robux-app-store-fees-worth-more-party</link>
       <description><![CDATA[
 
-即使你还不知道看什么，一天的午餐费也值得锁定一年。 | 插图作者：Grayson Blackmon / The Verge
+插图：The Verge
 
-曾几何时，使用流媒体服务而不是签订冗长而昂贵的有线电视合同是明智之举。如果你现在不小心，你很容易就会发现自己花了同样多的钱来重新拼凑你的观看列表，尤其是在价格持续上涨的情况下。
+Roblox 目前正在激励用户在不收取应用商店费用的平台上购买其游戏内货币 Robux。根据上周的开发者论坛帖子，如果您通过礼品卡、计算机或网络购买货币，您现在可以获得高达 25% 的 Robux。
+至于这在实践中可能如何，以下是帖子中的一些示例：
+例如，使用礼品卡、计算机或网络购买价值 9.99 美元的 Robux 的用户原本会收到 800 Robux，但现在将额外收到 200 Robux 或总共 1000 Robux 用于购买通行证、体验物品和头像物品。购买 10 美元礼品卡的用户现在最多可获得 1000 Robux，而之前他们只能获得 800 Robux。
 
-这就是为什么我们这个季节感谢流媒体交易，比如Hulu，让您在接下来的 12 个月内以每月 1 美元的价格获得广告支持的流媒体服务（通常每月 9.99 美元，一年可节省 108 美元），或者让您将其与Disney Plus捆绑在一起，在接下来的 12 个月内每月只需 3 美元同一时期（优惠 131.88 美元）。这通常是一年一次的优惠，今天之后您就将失去利用该优惠的机会。 
 
-如果您喜欢各种广播电视网络的节目，Hulu 是最好的流媒体服务之一。它提供来自多个频道的次日流媒体、大量旧节目和电影的点播库、《使女的故事》等原创作品、新闻和体育节目等等。借助 Disney Plus，您可以观看《星球大战》和漫威，观看迪士尼和皮克斯等公司出品的儿童友好电影和节目，观看最近上映的电影，例如《死侍》和《金刚狼》，还可以访问大量《国家地理》内容。
-别忘了，其他流媒体服务仍在打折，优惠也即将结束。例如，到 12 月 4 日为止，您可以在接下来的两个月内以 2.99 美元的价格获得 Paramount Plus with Showtime（优惠 22.99 美元）在此期间）。它允许无广告地观看 CBS 的体育直播和活动，以及超过 40,000 件点播内容，包括节目、电影和 Showtime 原创作品。 
+图片：Roblox
 
-现在仍有时间利用目前仍在进行的其他销售。Max 含广告的价格为每月 3 美元（优惠 42 美元），包括 HBO 热门剧集，如权力的游戏和 Discovery Plus 内容。您还可以获得广告支持的NBC 的 Peacock Premium 明年访问权限，价格为 19.99 美元（优惠 60 美元），或者接下来六个月每月 1.99 美元（优惠 36 美元）。它还拥有大量经典和原创节目，以及来自 NFL 等多个联盟的现场体育报道。您可以在我们的最佳网络星期一流媒体优惠指南中找到更多详细信息和优惠。
-]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24310991/hulu-disney-plus-paramount-plus-peacock-max-cyber-monday-2024-streaming-deal-sale</guid>
-      <pubDate>Mon, 02 Dec 2024 16:33:25 GMT</pubDate>
+Roblox 的 Robux 购买页面还显示了您通过计算机或网络购买可获得的额外 Robux。
+
+
+Roblox 表示这不是节日促销。根据帖子中的常见问题解答：“我们计划在假期结束后在全球范围内维持这一新定价。”如果您在宣布更改之前在计算机或网络上兑换购买的礼品卡，您也会获得更高的 Robux 金额。
+该公司在其常见问题解答中给出了一个非常模糊的答案，说明为什么更改仅适用于通过礼品卡、计算机和网络购买的 Robux：
+
+为什么新定价仅适用于礼品卡以及计算机和网络？
+我们一直在寻找机会在所有平台上与社区分享更多信息，我们将在有机会的渠道上向您更新最新信息。
+
+但 Roblox 似乎希望用户通过这些渠道购买 Robux，以避免因应用商店和游戏机商店收取的费用而损失金钱。Roblox 并不是唯一一家这样做的公司；例如，当您通过 iOS 应用订阅时，YouTube Premium 费用更高。
+今天，Roblox 还宣布了其新派对工具，以帮助用户更轻松地在平台上闲逛和交流。派对最多可容纳 6 人，尽管他们只支持文本聊天 - 语音聊天将在“未来几个月”推出。]]></description>
+      <guid>https://www.theverge.com/2024/12/2/24311337/roblox-robux-app-store-fees-worth-more-party</guid>
+      <pubDate>Mon, 02 Dec 2024 19:41:08 GMT</pubDate>
     </item>
     <item>
-      <title>索尼通过 PS5 周年更新恢复了原始 PlayStation 启动屏幕</title>
-      <link>https://www.theverge.com/2024/12/2/24311112/playstation-30th-anniversary-psx-boot-sequence-ps5-update</link>
-      <description><![CDATA[
-
-图片：PlayStation
-
-有些声音对于 30 多岁的人而言就是感觉很好。拨号上网的声音，AIM 或 MSN Messenger 上的新消息铃声。这些怀旧的声音大部分已被新声音取代或随着时间流逝而消失，但 PlayStation 为庆祝其 30 周年而重新启用了其中一种。是的，你知道那一种。
-
-
-玩这个游戏可以立即解除 30 岁以上玩家的武装。
-
-在有限的时间内，玩家可以使用 PlayStation 过去的主题自定义他们的 PS5 UI。从之前的四款 PlayStation 游戏机中选择一个主题和一个特殊的 30 周年纪念主题。我猜大多数玩家会选择 OG PSX 主题，而相当多的人可能会选择 PS2。 
-
-除了这些精美的 PS5 主题外，PlayStation 还分享了一段新视频，感谢玩家 30 年的支持，并启动了周年纪念促销活动，促销将持续到 12 月 20 日。您可以查看 PlayStation Store 以获取所有在售游戏的完整列表。
-无论您是在哪一代 PlayStation 上长大的，那个老式的 PSX 启动屏幕都会给人一种不同的感觉。我将在整个假期期间打开和关闭我的 PS5，以回忆 14 岁时第一次玩古墓丽影 II或铁拳 3的感觉。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311112/playstation-30th-anniversary-psx-boot-sequence-ps5-update</guid>
-      <pubDate>Mon, 02 Dec 2024 16:32:46 GMT</pubDate>
+      <title>100 个最佳网络星期一特卖，价格低于 100 美元</title>
+      <link>https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday</guid>
+      <pubDate>Mon, 02 Dec 2024 19:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Max、Hulu 和 Paramount Plus 均在网络星期一推出大幅折扣</title>
+      <link>https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24306534/black-friday-2024-streaming-best-deals-max-hulu-peacock-paramount-plus-cyber-monday</guid>
+      <pubDate>Mon, 02 Dec 2024 19:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我真正想向人们推荐的最佳网络星期一手机优惠</title>
+      <link>https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24306779/black-friday-2024-smartphone-best-deals-apple-samsung-pixel-motorola</guid>
+      <pubDate>Mon, 02 Dec 2024 18:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些是我迄今为止发现的最好的网络星期一游戏优惠</title>
+      <link>https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24303477/black-friday-best-deals-gaming-nintendo-playstation-xbox-cyber-monday-2024</guid>
+      <pubDate>Mon, 02 Dec 2024 18:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们看到的 MacBook 和其他笔记本电脑网络星期一最佳优惠</title>
+      <link>https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024</guid>
+      <pubDate>Mon, 02 Dec 2024 18:23:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
