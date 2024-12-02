@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 02 Dec 2024 06:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 09:20:08 GMT</lastBuildDate>
+    <item>
+      <title>紧急车辆警示灯可能导致自动驾驶系统故障：研究结果</title>
+      <link>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</link>
+      <description><![CDATA[一项新的研究发现，暴露在紧急车辆警告灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
+      <guid>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</guid>
+      <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>梅塔打破对“生猪屠宰骗局”的沉默——首次宣布打击有组织犯罪的措施</title>
       <link>https://wired.jp/article/meta-pig-butchering-report-2024/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>.com域名管理公司声称“市场垄断” 美国议员呼吁调查</title>
       <link>https://wired.jp/article/elizabeth-warren-calls-for-crackdown-verisign/</link>
-      <description><![CDATA[美国参议员伊丽莎白·沃伦和美国众议员杰里指责 .com 域名注册和管理公司威瑞信向客户收取过高费用并违反反垄断法，并呼吁政府调查所发生事件的真相。]]></description>
+      <description><![CDATA[美国参议员伊丽莎白·沃伦和国会议员杰里·纳德勒呼吁政府调查所发生事件的真相。]]></description>
       <guid>https://wired.jp/article/elizabeth-warren-calls-for-crackdown-verisign/</guid>
       <pubDate>Sat, 30 Nov 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[从下一代人工智能到跨境媒体和娱乐，从大型企业到致力于再生城市的初创公司，《连线》本周探讨了我们共同期待的未来。主编致 SZ 会员的通讯。]]></description>
       <guid>https://wired.jp/article/sz-newsletter-264/</guid>
       <pubDate>Fri, 29 Nov 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择智能戒指及3款推荐产品</title>
-      <link>https://wired.jp/gallery/best-smart-rings/</link>
-      <description><![CDATA[智能戒指是一种可以谨慎跟踪各种健康指标的设备。它比智能手表更轻，而且不需要每天充电。在这篇文章中，我们将介绍您在购买前需要了解的信息以及推荐的产品。]]></description>
-      <guid>https://wired.jp/gallery/best-smart-rings/</guid>
-      <pubDate>Fri, 29 Nov 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
