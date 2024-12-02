@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Dec 2024 09:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 12:34:41 GMT</lastBuildDate>
     <item>
       <title>亚马逊运输</title>
       <link>https://www.producthunt.com/posts/amazon-haul</link>
@@ -90,20 +90,6 @@
       <pubDate>Sat, 30 Nov 2024 00:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>数据清理器</title>
-      <link>https://www.producthunt.com/posts/data-cleaner-2</link>
-      <description><![CDATA[
-“文本到列” 强化版 - 清理非结构化数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/data-cleaner-2</guid>
-      <pubDate>Fri, 29 Nov 2024 11:18:04 GMT</pubDate>
-    </item>
-    <item>
       <title>WPShift</title>
       <link>https://www.producthunt.com/posts/wpshift</link>
       <description><![CDATA[
@@ -118,17 +104,17 @@
       <pubDate>Thu, 28 Nov 2024 18:33:39 GMT</pubDate>
     </item>
     <item>
-      <title>球场卡片分类</title>
-      <link>https://www.producthunt.com/posts/ballpark-card-sorting</link>
+      <title>按球场分类的卡片</title>
+      <link>https://www.producthunt.com/posts/card-sorting-by-ballpark</link>
       <description><![CDATA[
-观察用户如何组织信息并改善您的用户体验
+通过观察用户如何组织信息来改善用户体验
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ballpark-card-sorting</guid>
+      <guid>https://www.producthunt.com/posts/card-sorting-by-ballpark</guid>
       <pubDate>Thu, 28 Nov 2024 16:30:32 GMT</pubDate>
     </item>
     <item>
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/vela-os</guid>
       <pubDate>Thu, 28 Nov 2024 15:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ClosePod</title>
+      <link>https://www.producthunt.com/posts/closepod</link>
+      <description><![CDATA[
+令人惊叹的数字销售室。让买家和卖家保持一致。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/closepod</guid>
+      <pubDate>Thu, 28 Nov 2024 00:53:35 GMT</pubDate>
     </item>
     <item>
       <title>用户反馈聊天</title>
@@ -188,6 +188,20 @@
       <pubDate>Mon, 25 Nov 2024 18:29:51 GMT</pubDate>
     </item>
     <item>
+      <title>销售层 PIM</title>
+      <link>https://www.producthunt.com/posts/sales-layer-pim</link>
+      <description><![CDATA[
+下一代产品信息管理 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sales-layer-pim</guid>
+      <pubDate>Thu, 21 Nov 2024 18:31:05 GMT</pubDate>
+    </item>
+    <item>
       <title>长处！进口</title>
       <link>https://www.producthunt.com/posts/forte-import</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/forte-import</guid>
       <pubDate>Thu, 21 Nov 2024 16:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe After Effects® 的 Templater®</title>
-      <link>https://www.producthunt.com/posts/templater-for-adobe-after-effects</link>
-      <description><![CDATA[
-适用于 Adob​​e After Effects 的数据驱动型自动视频创建
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/templater-for-adobe-after-effects</guid>
-      <pubDate>Wed, 20 Nov 2024 23:09:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

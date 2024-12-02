@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 12:35:57 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 React Three Fiber 和 GLSL 编写基于着色器的显示效果</title>
+      <link>https://tympanus.net/codrops/2024/12/02/how-to-code-a-shader-based-reveal-effect-with-react-three-fiber-glsl/</link>
+      <description><![CDATA[使用 React-Three-Fiber/Drei 创建并使用 Framer Motion 制作动画的简单而酷炫的图像显示效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/02/how-to-code-a-shader-based-reveal-effect-with-react-three-fiber-glsl/</guid>
+      <pubDate>Mon, 02 Dec 2024 11:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>集体#885</title>
       <link>https://tympanus.net/codrops/collective/collective-885/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解 ChainGPT Labs 背后的故事，ChainGPT 的新风险投资和下一代 web3 初创企业的孵化器。由 Sigma Software Design 团队设计，并由 Sigma 设计师 Ilya Kostin 汇编成一份富有洞察力的案例研究。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/19/case-study-chaingpt-labs/</guid>
       <pubDate>Tue, 19 Nov 2024 12:39:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#882</title>
-      <link>https://tympanus.net/codrops/collective/collective-882/</link>
-      <description><![CDATA[两种不同的“可聚焦” UI 元素 * REM？PX？为什么不同时使用呢？]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-882/</guid>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
