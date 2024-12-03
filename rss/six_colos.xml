@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 02 Dec 2024 21:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:18:31 GMT</lastBuildDate>
+    <item>
+      <title>（播客）升级 540：淋浴 Jason 的验证</title>
+      <link>https://sixcolors.com/podcast/2024/12/upgrade-540-validation-for-shower-jason/</link>
+      <description><![CDATA[Stephen Hackett 与 Jason 一起讨论紧急呼叫、对 Jason 的“Mac 就是典范”一文的反应、iPhone 金属、我们与生俱来的故障排除能力、Jason 的笔记本电脑困境、ChatGPT Mac 应用程序以及一些非常古老的 Vision Pro 新闻。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/12/upgrade-540-validation-for-shower-jason/</guid>
+      <pubDate>Mon, 02 Dec 2024 23:10:58 GMT</pubDate>
+    </item>
     <item>
       <title>为 Logitech 的 Litra 系列提供更好的命令行控制</title>
       <link>https://sixcolors.com/post/2024/12/even-better-command-line-control-for-logitechs-litra-line/</link>
@@ -55,7 +62,7 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone�
       <title>可能没有哪家公司比苹果更有耐心了 (Macworld/Dan Moren)</title>
       <link>https://www.macworld.com/article/2535266/there-may-be-no-company-more-patient-than-apple.html</link>
       <description><![CDATA[人们经常指出，苹果通常不是第一个进入特定产品类别的公司。
-以最近报道为例，苹果正在开发一款由大型语言模型支持的 Siri 版本，预计明年才会发布，然后在 2026 年的某个时候向用户推出。…]]></description>
+以最近报道为例，苹果正在开发一个由大型语言模型支持的 Siri 版本，预计明年才会发布，然后在 2026 年的某个时候向用户推出。…]]></description>
       <guid>https://www.macworld.com/article/2535266/there-may-be-no-company-more-patient-than-apple.html</guid>
       <pubDate>Wed, 27 Nov 2024 12:22:04 GMT</pubDate>
     </item>
@@ -114,14 +121,6 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone�
       <description><![CDATA[Apple 花费了大量时间研究与其设备交互的其他方式，但我最喜欢的方式之一是最新的方式之一：使用 AirPods 进行头部手势操作。…]]></description>
       <guid>https://sixcolors.com/post/2024/11/wish-list-more-head-gestures/</guid>
       <pubDate>Thu, 21 Nov 2024 19:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac Studio 和 Mac mini 的交汇处犹豫不决</title>
-      <link>https://sixcolors.com/post/2024/11/indecision-at-the-intersection-of-mac-studio-and-mac-mini/</link>
-      <description><![CDATA[
-我目前的台式 Mac 是 M1 Mac Studio，我每天都在车库/办公室使用它。我已经用了近三年，它仍然很棒。…]]></description>
-      <guid>https://sixcolors.com/post/2024/11/indecision-at-the-intersection-of-mac-studio-and-mac-mini/</guid>
-      <pubDate>Thu, 21 Nov 2024 00:38:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
