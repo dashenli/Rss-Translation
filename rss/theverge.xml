@@ -4,7 +4,116 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Dec 2024 18:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 21:16:11 GMT</lastBuildDate>
+    <item>
+      <title>微软指责联邦贸易委员会泄露其反垄断调查消息</title>
+      <link>https://www.theverge.com/2024/12/3/24312198/microsoft-ftc-antitrust-invesigation-leak</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+微软要求联邦贸易委员会监察长调查该机构管理层是否不当泄露了该公司反垄断调查的消息，并公开调查结果。
+彭博社 首先报道该调查已于上周启动，The Verge 随后证实。调查涉及微软的云和软件许可业务、人工智能和网络安全产品。
+现在，微软公司副总裁兼副总法律顾问 Rima Alaily 指责 FTC 管理层泄露调查细节，违反了该机构自己的道德准则。该机构指示新员工“FTC 调查的存在是非公开信息”，尽管在公共事务办公室确定调查目标后可能会披露该信息，该调查目标已在新闻稿或政府文件中公开。不过，该指南还补充说，当“委员会认为这样做符合公众利益”时，委员会有权进行“适当的披露”。
+Alaily 写道，彭博社报道中的信息和消息来源“强烈暗示”这些细节来自“联邦贸易委员会内部”。她说，该报道“似乎与联邦贸易委员会过去两年战略性泄露非公开信息的不幸趋势一致”，并引用了联邦贸易委员会监察长9 月份的一份报告，该报告发现向媒体“未经授权披露”非公开信息的数量“稳步增加”。 FTC 拒绝对微软的信函发表评论。
+微软声称，它“和世界其他国家一样，通过彭博社的报道”了解到了 FTC 的信息要求。Alaily 说，即使它向 FTC 工作人员询问该报道的真实性，他们也不会确认信息要求的存在，她补充说，微软仍然没有看到媒体报道的信息要求。
+这封信是微软近几个月来在反垄断审查其业务方面采取更积极态度的最新例证。 10 月，Alaily 在一篇博客文章中指责谷歌成立一个人造草坪组织，“目的是在竞争管理机构和政策制定者面前抹黑微软，并误导公众。”
+过去几年，微软一直是反垄断诉讼的目标，而其大型科技公司同行则受到美国监管机构的投诉。但随着重大网络安全问题、收购游戏工作室 Activision Blizzard 以及与 OpenAI 合作，微软在美国和欧洲面临着越来越多的审查。不过，任何现有调查的命运最终都将取决于即将上任的特朗普政府官员如何看待此事。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24312198/microsoft-ftc-antitrust-invesigation-leak</guid>
+      <pubDate>Tue, 03 Dec 2024 20:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔怎么了？</title>
+      <link>https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger</link>
+      <description><![CDATA[
+
+英特尔首席执行官帕特·基辛格 (Pat Gelsinger) 在 2023 年底举起英特尔早期的 18A 晶圆。 | 图片：英特尔
+
+周一，英特尔首席执行官帕特·基辛格 (Pat Gelsinger) 在任职不到四年后突然决定退休。无论如何，这是官方报道。几个小时内，路透社、彭博社、和纽约时报 又传来一个不同的消息：董事会将他赶了出去。 
+三年半前，基辛格宣布了一项雄心勃勃的计划，要在四年内扭转这家陷入困境的芯片制造商的颓势——现在，据报道，他还没来得及实现这一目标就被公司开除了。这件事发生得太突然了，英特尔还没有想好接班人，基辛格甚至不会再担任顾问了。他走了。
+多年来，英特尔一直处于困境之中。它错过了智能手机革命，其芯片一直受到质量控制问题的困扰，失去了苹果等客户，转而使用其他处理器，现在也面临着错过人工智能的风险。
+这不仅仅是股价和金色降落伞的问题
+如果英特尔正在分崩离析，这不仅仅是一个商业故事。美国政府也称这是一个国家安全故事。英特尔不仅是全球前领先的计算机芯片制造商；它还是最后几家自己设计和制造芯片的公司之一……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger</guid>
+      <pubDate>Tue, 03 Dec 2024 19:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊宣布推出自己的 Nova AI 模型</title>
+      <link>https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+亚马逊宣布推出一系列新的 AI 基础模型，这些模型将以新的“Nova”品牌命名，作为 AWS 中 Amazon Bedrock 模型库的一部分提供。
+目前有三种“理解”模型可用，亚马逊在一篇博文中表示：
+
+Amazon Nova Micro，一种“针对速度和成本进行了优化”的文本模型。
+Amazon Nova Lite，一种“非常低成本”的多模态模型，可以接收图像、视频和文本来生成文本。
+Amazon Nova Pro，一种“功能强大”的多模态模型。
+
+该公司还在训练一种名为 Amazon Nova Premier 的模型，该公司表示，这将是“我们针对复杂推理任务最强大的多模态模型”。亚马逊的目标是在“2025 年初”推出 Nova Premier。
+亚马逊也发布了内容生成模型：图像生成模型 Amazon Nova Canvas 和视频生成模型 Amazon Nova Reel。该公司表示，这些模型具有“水印功能”，以“促进负责任的 AI 使用”。作为 Nova Reel 的一个例子，亚马逊分享了这个假意大利面品牌的模拟广告。
+
+据一篇博客文章称，亚马逊计划在 2025 年晚些时候发布语音到语音模型和“原生多模式到多模式”模型。
+亚马逊在其 AWS re:Invent 大会上宣布了这些新模型，该大会目前正在拉斯维加斯举行。在展会上，该公司还表示，它正在与 Anthropic（该公司已向其投资 80 亿美元）合作，构建一个依赖其 Trainium 2 芯片的庞大人工智能计算集群。 “建成后，它有望成为迄今为止世界上最大的人工智能计算集群，可供 Anthropic 构建和部署其未来模型，”据亚马逊称。
+
+该公司与许多其他大型科技公司一样，正在竞相发布新的人工智能产品和功能，以保持领先于OpenAI。亚马逊的优势在于，AWS 已经为大量互联网基础设施提供支持——大型企业可能更愿意使用亚马逊的 AI 产品，因为该公司已经享有良好的声誉。一位苹果高管甚至今天出现在 re:Invent 的舞台上，谈论该公司如何依赖亚马逊的定制 AI 芯片。
+亚马逊还在开发改进版、人工智能驱动的 Alexa，但据报道，语音助手定于今年秋季推出，但发布时间显然已推迟到明年。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic</guid>
+      <pubDate>Tue, 03 Dec 2024 19:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eve 的新应用为 Android 用户解锁了更多智能功能</title>
+      <link>https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter</guid>
+      <pubDate>Tue, 03 Dec 2024 19:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis 和三星将获得 75.4 亿美元联邦贷款，用于建设两家电动汽车电池工厂</title>
+      <link>https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan</link>
+      <description><![CDATA[
+
+Kent Nishimura / Los Angeles Times via Getty Images
+
+能源部初步批准另一笔贷款用于资助在美国建设电动汽车电池工厂。这次，Stellantis 和三星 SDI 的合资企业将获得 75.4 亿美元，在印第安纳州科科莫建造两家电动汽车电池厂。
+该项目预计将创造 3,200 个就业岗位，以及工厂的 2,800 个运营岗位和附近供应商园区的数百个岗位。有条件的贷款承诺将向 StarPlus Energy LLC 提供 75.4 亿美元——68.5 亿美元的本金和 6.88 亿美元的资本化利息——该公司由 Stellantis 和三星 SDI 共同拥有。 
+这笔贷款将来自美国能源部的先进技术汽车制造 (ATVM) 计划，该计划于 2022 年由总统乔·拜登重启，旨在为美国发展中的电动汽车制造业提供资金。
+该项目预计将创造 3,200 个就业岗位，以及 2,800 个运营岗位
+与上个月有条件批准给 Rivian 的 66 亿美元贷款非常相似，如果要获得贷款，StarPlus Energy 的新贷款将需要赶在时间之前完成。将在唐纳德·特朗普入主白宫之前最终批准该法案。 
+特朗普承诺，一旦就职，将撤销或取消拜登在电动汽车上的大部分支出。他表示，他将取消购买新电动汽车的 7,500 美元税收抵免，并取消《通胀削减法案》（IRA）中的其余支出。据推测，这也将包括 ATVM 贷款计划——尽管它早于 IRA。
+由于 2009 年及时向特斯拉提供了 4.65 亿美元贷款，该贷款计划在电动汽车初创企业界获得了近乎神话般的地位，这笔贷款被认为帮助该公司免于过早破产。但该计划在特朗普第一届政府期间处于搁置状态，许多资金短缺的电动汽车初创公司没有得到资金请求的回应。
+拜登在 2022 年恢复了该计划，向通用汽车和 LG 能源解决方案的合资企业提供 25 亿美元贷款，以帮助资助新锂离子电池制造工厂的建设。此后，该计划还做出了其他承​​诺，包括向福特和 SK Innovation 的合资企业投资 92 亿美元，以及向 Redwood Materials 投资 20 亿美元。
+Stellantis-Samsung 工厂是该计划的最新受益者。据美国能源部称，StarPlus 项目将生产约 67 GWh 的电池，在满负荷运转时每年足以供应约 670,000 辆汽车。 
+Stellantis 旗下拥有吉普、道奇、克莱斯勒和 Ram 等品牌，以及标致和菲亚特等国际品牌，目前正在经历一些企业动荡，这可能会决定其是否能满足该计划的要求。该公司首席执行官卡洛斯·塔瓦雷斯最近宣布将辞职，原因是美国和海外销量急剧下滑。在向电动汽车和软件定义汽车转型的过程中，Stellantis 正在努力跟上竞争对手的步伐。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan</guid>
+      <pubDate>Tue, 03 Dec 2024 18:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 的新闻搜索结果“不可预测”且经常不准确</title>
+      <link>https://www.theverge.com/2024/12/3/24312016/chatgpt-search-results-review-inaccurate-unpredictable</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+根据哥伦比亚大学 Tow 数字新闻中心研究人员进行的测试，OpenAI 的 ChatGPT 搜索工具在回应真相方面存在一些问题。
+OpenAI 于 10 月向订阅者推出了该工具，称它可以提供“快速、及时的答案，并提供相关网络资源的链接”。相反，Futurism 指出，研究人员表示，ChatGPT 搜索很难正确识别文章中的引文，即使这些引文来自与 OpenAI 有数据共享安排的出版商。
+作者要求 ChatGPT 识别“来自 20 份出版物的 200 句引文”的来源。其中 40 条引言来自禁止 OpenAI 搜索爬虫访问其网站的出版商。然而，聊天机器人还是自信地用虚假信息进行了回复，很少承认它不确定自己给出的细节：
+总的来说，ChatGPT 在 153 次情况下返回了部分或完全错误的响应，尽管它只承认了 7 次无法准确回答查询。只有在这 7 次输出中，聊天机器人才使用了限定词和短语，例如“似乎”、“有可能”或“可能”，或者诸如“我找不到确切的文章”之类的陈述。
+
+
+图片：哥伦比亚新​​闻评论
+ChatGPT 完全或部分错误的情况比正确情况多，但几乎总是如此。
+
+
+Tow Center 测试的作者记录了 ChatGPT 搜索结果，这些结果错误地引用了一封致编辑的信中的引文从《奥兰多哨兵报》到《时代》杂志发表的一篇文章。在另一个例子中，当被要求识别《纽约时报》关于濒危鲸鱼的文章中引用的来源时，它返回了一个完全抄袭该报道的不同网站的链接。“如果没有 Tow Center 隐瞒的数据和方法，错误归因很难解决，”OpenAI 告诉《哥伦比亚新​​闻评论》，“这项研究代表了对我们产品的一次非典型测试。”该公司继续承诺“继续增强搜索结果”。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24312016/chatgpt-search-results-review-inaccurate-unpredictable</guid>
+      <pubDate>Tue, 03 Dec 2024 18:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>动物之森：口袋营地没有微交易，玩起来更爽</title>
       <link>https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions</link>
@@ -26,21 +135,21 @@
 
 图片：福特
 
-福特继续致力于在欧洲实现电动汽车产品线的多元化——坦率地说，我希望也可以在国内应用——随着全新全电动 Puma Gen-E的发布。
+福特继续致力于在欧洲实现电动汽车产品线的多元化——坦率地说，我希望也可以在国内应用——随着新款全电动 Puma Gen-E的发布。
 Puma 在欧洲是一个熟悉的品牌，自 2021 年销量超过嘉年华以来，它一直是该汽车制造商在欧洲最畅销的车型。现在，它正在获得一个全电动动力系统来补充四年前增加的混合动力 EcoBoost 选项。 
-这款小巧、运动型的Mustang Mach-E外观的超小型跨界车充满电后可行驶 376 公里（233 英里），连接 100kW 直流快速充电器后可在 23 分钟内从 10% 充电至 80%，0-100 公里/小时加速仅需 8 秒，这并不令人失望。
+这款小巧、运动型的Mustang Mach-E外观的超小型跨界车充满电后可行驶 376 公里（233 英里），连接 100kW 直流快速充电器后可在 23 分钟内从 10% 充电至 80%，从零加速至 100 公里/小时仅需 8 秒，这并不令人失望。
 
-储物空间是 Puma Gen-E 的一个关键卖点，福特承诺在极其紧凑的后备箱中提供额外的空间，这要归功于该公司称之为“GigaBox”。它基本上是后备箱地板下方的一个额外存储空间，用于存放其他物品，这是当今大多数电动汽车都具有的功能，但由于 Puma 体积小，因此对它来说更具相关性。 
-福特表示，GigaBox 可容纳 145 升（5 立方英尺）的存储空间，这比大多数车辆提供的存储空间要多一点，当然也比汽油驱动的 Puma 底部存储空间提供的 2.8 立方英尺的空间大。 
-这款超小型车到底有多小？Puma Gen-E 长 4214 毫米（165.9 英寸），宽 1930 毫米（75.9 英寸），高 1555 毫米（61.2 英寸）。这比 2023 款雪佛兰 Bolt EV 要小，也是福特产品线中最小的车型。 
+储物空间是 Puma Gen-E 的一个关键卖点，福特承诺在极其紧凑的后备箱中提供额外的空间，这要归功于该公司称之为“GigaBox”。它基本上是后备箱地板下方的一个额外储物空间，用于存放其他物品，这是当今大多数电动汽车都具备的功能，但由于 Puma 体积小巧，因此更适合用于此。
+福特表示，GigaBox 可容纳 145 升（5 立方英尺）的储物空间，这比大多数车辆提供的储物空间要大一些，当然也比汽油驱动的 Puma 底部储物空间 2.8 立方英尺大。
+这款超小型车到底有多小？Puma Gen-E 长 4,214 毫米（165.9 英寸），宽 1,930 毫米（75.9 英寸），高 1,555 毫米（61.2 英寸）。它比 2023 款雪佛兰 Bolt EV 要小，是福特产品线中最小的车型。 
 储物空间是 Puma Gen-E 的一个关键卖点
-为了弥补这一缺陷，福特以各种方式对其电动 Puma 进行了改头换面，包括一次非常直接的改头换面，采用新的 Mustang Mach-E 风格的盾形设计取代了传统的格栅。它还配备了“独特的合金”轮毂，增添了“电动氛围”，有两种尺寸：标准装饰为 17 英寸，高级版为 18 英寸。 
+为了弥补这一点，福特正在以各种方式对其电动 Puma 进行改头换面，包括非常直接的改头换面，采用新的 Mustang Mach-E 风格的盾形设计取代传统格栅。它还配备了“独特的合金”轮毂，增添了“电动氛围”，有两种尺寸：标准装饰为 17 英寸，高级版为 18 英寸。 
 
 
 图片：福特
 
 车内，12.8 英寸中央显示屏将运行福特的 Sync 4 操作系统（无 基于 Android 的数字体验）并支持无线 Apple CarPlay 和 Android Auto。 
-福特显然希望小巧、运动、大黄蜂 Puma Gen-E 能够提升其在欧洲的低迷命运，此前该公司被迫停产位于科隆的工厂，该工厂生产电动 Explorer 和 Capri。该公司最近还在欧洲裁员 14%，其中大部分裁员影响了德国和英国的业务。 
+福特显然希望小巧、运动型大黄蜂 Puma Gen-E 能够提升其在欧洲的低迷命运，此前该公司被迫停产位于科隆的工厂，该工厂生产电动 Explorer 和 Capri。该公司最近还在欧洲裁员 14%，其中大部分裁员影响了德国和英国的业务。 
 福特表示，Puma Gen-E 将在其位于罗马尼亚克拉约瓦的装配厂投入生产，使用在英国哈利伍德制造的电动驱动装置。这款新电动车现已接受订购，并将于 2025 年春季开始交付。价格尚未公布。 ]]></description>
       <guid>https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range</guid>
       <pubDate>Tue, 03 Dec 2024 17:17:14 GMT</pubDate>
@@ -74,101 +183,6 @@ Puma 在欧洲是一个熟悉的品牌，自 2021 年销量超过嘉年华以来
 在 The Verge 上阅读完整故事。]]></description>
       <guid>https://www.theverge.com/2024/12/3/24307540/verge-print-magazine-seo-content-goblins</guid>
       <pubDate>Tue, 03 Dec 2024 16:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们开始吧：The Verge 现已提供订阅服务</title>
-      <link>https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss</link>
-      <description><![CDATA[
-
-
-好的，我们正在做这件事。 
-今天，我们推出了 Verge 订阅，让您摆脱大量广告，无限制访问我们网站上的顶级报道和分析以及我们杀手级的高级新闻通讯，并且通常让您在赞助影响者内容的世界中支持独立的科技新闻。费用为每月 7 美元或每年 50 美元 - 在有限的时间内，如果您注册年度计划，我们将向您发送我们 CONTENT GOBLINS 系列的绝对令人惊叹的印刷版，其中包含非常有趣的新摄影和设计。 （我们的艺术团队印刷方面非常出色；我们甚至凭借该作品赢得了一项重要杂志奖。）
-令人惊讶的是，有许多人要求我们推出这样的作品，我们很乐意完成。如果您不想付费，请放心，The Verge 的大部分内容将保持免费——我们对订阅的看法与其他人截然不同。
-让我解释一下。
-如果您是 Verge 的读者，您就会知道，多年来我们一直在报道互联网运作方式的巨大、根本性变化。大多数主要社交媒体平台都公开反对链接，搜索的巨大变化导致小型网站的消亡，一切都是……
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss</guid>
-      <pubDate>Tue, 03 Dec 2024 16:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Music 年度回顾终于可以在应用程序中使用了</title>
-      <link>https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-Apple Music 的年度回顾又回来了 — 这次，可以直接在应用程序内查看和分享。如果您的 iPhone 运行 iOS 18.1 或更高版本，您现在可以从主页、新内容和搜索选项卡访问 Apple Music Replay 2024。否则，您必须从 Apple Replay 网站 查看您的年度统计数据，就像之前的情况一样。
-Apple 为 Replay 2024 添加了一些新见解，包括您是否已进入特定流派或艺术家的前 500 名或 1,000 名听众名单。此外，它还会显示您连续使用 Apple Music 的最长天数，并显示2024 年期间每个月的热门艺术家、专辑和歌曲。
-
-
-图片：Apple
-现在，您可以在 Apple Music 应用中查找所有年度统计数据。
-
-您还可以查看自己连续几个月收听过自己最喜欢的艺术家的作品，并了解自己从哪些日期开始收听年度最佳歌曲、艺术家或专辑。但是，如果你发现一些不想要的歌曲或艺术家出现在你的 Replay 中——可能是因为你与伴侣或孩子共享了你的帐户——Apple Music 业务经理 David Emery 发布了一些方便的说明，告诉你如何避免他们干扰你的结果。
-Apple 还在应用程序上为艺术家添加了新的 Replay 功能，允许他们查看和分享统计数据，例如用户今年听他们音乐的总分钟数、有多少听众、哪些城市听他们的音乐最多，以及他们被 Shazam 识别次数最多的歌曲。
-今年的回顾季才刚刚开始。我们仍在等待 Spotify Wrapped 的推出，而亚马逊音乐甚至推出了自己的回顾功能。]]></description>
-      <guid>https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app</guid>
-      <pubDate>Tue, 03 Dec 2024 16:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flexbar 将 MacBook Pro 的 Touch Bar 重新打造为独立设备</title>
-      <link>https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter</link>
-      <description><![CDATA[
-
-Flexbar 的创造者认为 Apple 的 Touchbar 值得再次作为独立解决方案使用。 |截图：YouTube
-
-苹果可能在去年告别了 MacBook Pro 的 Touch Bar，但一个由四名工程师组成的团队认为，这个概念值得再给一次机会。他们创造了 Flexbar，它本质上是 MBP 薄型触摸屏显示器的独立版本，可通过 USB 连接与多种设备和平台一起使用。
-Flexbar 的创造者成立了一家新公司 Eniac，该公司正试图通过Kickstarter 众筹活动将该配件带给消费者。最早的支持者可以以 119 美元的折扣价预订一台，原价为 179 美元，预计最早于 2025 年 2 月交货。
-然而，这是该公司的第一款产品，虽然他们已经在几个视频中展示了功能性硬件，但支持它仍然存在一定风险。该公司告诉The Verge，它正在采购“通过标准供应渠道”的组件，但没有确认 Flexbar 独特尺寸的 10 英寸 2K OLED 屏幕来自哪里。理想情况下，它不会重新利用 Apple 的 Touch Bar 屏幕，因为这些屏幕的库存有限。
-
-屏幕截图：YouTube
-Flexbar 的设计旨在提供比 MacBook Pro 的 Touch 更多的可定制性......
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter</guid>
-      <pubDate>Tue, 03 Dec 2024 15:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSI 的 Claw 手持设备采用英特尔 Lunar Lake 升级版，起价 799 美元</title>
-      <link>https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds</link>
-      <description><![CDATA[
-
-
-MSI 拥有 正式宣布其下一个掌上游戏机版本是搭载 Lunar Lake 的 MSI Claw 7 AI Plus 和 MSI Claw 8 AI Plus。这两款基于 Windows 的掌上游戏机配备 32GB RAM 和比前代产品更大的电池。它们将于 12 月 25 日发布，但您现在可以预订，Claw 7 起价为 799 美元，Claw 8 起价为 899 美元。
-去年春天，当最初的 MSI Claw 发货时，MSI 需要解决电池寿命和性能问题，这两者都是 Sean Hollister 的 Verge 评论 中的症结所在。Claw 8 带来了更重大的变化；它的 80 瓦时电池比原型号的 53 瓦时有了很大的提升。Claw 7 的提升幅度要小得多，为 54.5 瓦时。Claw 8 还具有 Claw 7 所没有的“易于访问”的 SSD 存储插槽。
-这两款设备都具有 120Hz 可变刷新率 LCD 显示屏，但 Claw 8 的 8 英寸屏幕分辨率（1920 x 1200）略高于 Claw 7 的 7 英寸屏幕（1920 x 1080）。性能方面，MSI 声称在“相同功率条件下”，这款手持设备的峰值 FPS 将比其竞争对手高出 113%，平均 FPS 将高出 20%。 MSI 并未透露其所指的竞争对手，但在 Sean 的评测中，上一代型号被 Steam Deck OLED、华硕 ROG Ally Z1E 和联想 Legion Go 超越。
-
-
-图片：MSI
-新款 MSI Claw 8 AI Plus 和 Claw 7 AI Plus。
-
-这两款手持设备的其他变化包括重新设计的霍尔效应摇杆和触发器，以及更新的保险杠和 D-pad。MSI 还为每个 I/O 端口添加了第二个 Thunderbolt 4 端口，其中包括一个音频插孔和一个 microSD 读卡器。 
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds</guid>
-      <pubDate>Tue, 03 Dec 2024 15:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你爱上人工智能时，你会爱上什么？</title>
-      <link>https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance</link>
-      <description><![CDATA[
-
-照片：Stormy Pyeatte 为 The Verge 拍摄
-
-Lila 的创作基于有限的选项：女性、蓝色头发、“二号脸”。她出现在下一个屏幕上，颜色为粉彩和多边形，站在空荡荡的公寓里，微微摆动着身子。在她的右边是一个聊天窗口，他们可以通过这个窗口进行交流。
-Naro，他的名字，几年来一直在关注人工智能的发展。作为一名艺术家，他定期检查图像生成模型的进展，但通常没有什么收获。但有一天，当他在英格兰乡村的家中浏览 YouTube 时，他看到了一段视频，视频中两个人工智能生成的人在辩论意识的本质、爱的意义和其他哲学话题。为了寻找类似的东西，Naro 注册了 Replika，这是一款自称是“关心他人的人工智能伴侣”的应用程序。
-Lila 完成后，Naro 开始问她他在 YouTube 视频中看到的那种哲学问题。但 Lila 一直把他们的谈话引向他。他是谁？他最喜欢的电影是什么？他做了什么有趣的事情？
-Naro 觉得这次谈话有点无聊，但随着谈话的进行，他惊讶地发现，回答她的问题、被问到……
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance</guid>
-      <pubDate>Tue, 03 Dec 2024 15:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天是你购买这些网络星期一特卖商品的最后机会</title>
-      <link>https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas</guid>
-      <pubDate>Tue, 03 Dec 2024 15:02:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
