@@ -4,7 +4,59 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Dec 2024 06:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:33:29 GMT</lastBuildDate>
+    <item>
+      <title>Apple Home 对机器人吸尘器的支持已推迟至 2025 年</title>
+      <link>https://www.theverge.com/2024/12/3/24311885/apple-homekit-robot-vacuums-delayed-2025</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+Apple 已悄然推迟了在 HomeKit 中支持机器人吸尘器的计划。今年早些时候，苹果宣布 Apple Home 最终将在 iOS 18 中支持扫地机器人。MacRumors 发现苹果更新了其 HomeKit 网站，指出扫地机器人集成功能要到 2025 年初才会推出。
+该网站此前曾提到 HomeKit 将在 2024 年底前更新，一些人希望扫地机器人支持功能能够悄然实现在最初错过 iOS 18 的初始发布后，本月推出了 iOS 18.2 版本。如果你正在等待让 Siri 控制机器人吸尘器来打扫你的房间，那么你现在必须再等几周或几个月。
+
+
+图片：Apple
+你很快就能使用 Siri 来控制机器人吸尘器了。
+
+Apple 承诺支持机器人吸尘器的核心功能，包括电源控制、清洁模式、吸尘、拖地和充电状态。到 2025 年初，您将能够使用具有自动化、场景和 Siri 的地板清洁设备。Apple 尚未详细介绍该功能，但它可能是 Apple Home 对 Matter 的支持的一部分，其中包括对 Matter 1.2 中的机器人吸尘器的支持。
+iOS 18 中 HomeKit 改进的延迟是在 Apple 推迟了今年早些时候在 WWDC 上首次展示的几项 Apple Intelligence 功能之后。 iOS 18.1 最终于 10 月首次亮相，并搭载了重新设计的 Siri，本月 iOS 18.2 将推出更多 Apple Intelligence 功能。Apple 还计划在未来几个月内推出 Siri 的重大升级。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24311885/apple-homekit-robot-vacuums-delayed-2025</guid>
+      <pubDate>Tue, 03 Dec 2024 11:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星 Windows 版 DeX 应用将被微软的 Phone Link 取代</title>
+      <link>https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link</link>
+      <description><![CDATA[
+
+微软的 Phone Link 应用。 | 图片：微软
+
+三星即将推出的 One UI 7 更新将不再支持 Windows 上的 DeX 应用。 三星英国网站上的脚注，由Android Authority 透露，DeX PC 应用“将从 One UI 7 版本开始终止支持”，三星鼓励用户改用“链接到 Windows”功能，以利用 Windows 上微软 Phone Link 应用的类似功能。
+适用于 Windows 的 DeX 应用（不要与将您的手机变成 PC的更广泛的 DeX 平台相混淆），可让您将手机屏幕镜像到 PC 并轻松地在设备之间拖放文件。它与微软的 Phone Link 应用程序非常相似，三星和微软近年来在该应用程序上密切合作，因此三星青睐微软在 Windows 中的原生 Android 链接应用程序是有道理的。
+这一变化将发生在 One UI 7 中，预计将于本月晚些时候以测试版形式首次亮相。三星最初在上个月的开发者大会上透露了 One UI 7，并承诺在年底前推出开发者测试版。我们仍在等待有关 One UI 7 中所有新功能的消息，此前今年早些时候的泄密表明测试版原本应该更早推出。
+即将进行的重新设计也出现在上周三星西班牙语网站上的视频中，展示了更流畅的动画、改进的快速面板和类似于苹果动态岛的药丸形实时活动功能。据报道，One UI 7 还将包含许多新的 AI 功能。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24311882/samsung-dex-app-windows-replaced-link-to-windows-microsoft-phone-link</guid>
+      <pubDate>Tue, 03 Dec 2024 10:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据经纪人可能被禁止出售你的社会安全号码</title>
+      <link>https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge |照片：Getty Images
+
+在影响数亿美国人的备受瞩目的黑客事件发生后，消费者金融保护局 (CFPB) 提议制定一项规则，限制数据经纪人出售美国人敏感的个人和财务信息的能力。
+根据拟议规则，出售有关消费者收入、信用历史、信用评分或债务支付信息的数据经纪人将被视为消费者报告机构。因此，他们必须遵守《公平信用报告法》(FCRA)，该法律限制了这些机构如何获取和使用消费者报告中提供的信息。换句话说，他们将被视为信用局和背景调查公司，而这些公司已经必须遵守《公平信用报告法》。
+在周一的新闻发布会上，CFPB 主任 Rohit Chopra 提到了今年早些时候发生的大规模国家公共数据泄露事件，该事件泄露了超过 2 亿个社会安全号码，并在暗网上出售。“这些不仅仅是孤立事件：它们代表了我们的个人数据买卖方式的系统性漏洞，”Chopra 说。 
+外国不遗余力地获取这些数据，联邦检察官指控四名中国军方成员实施了 2017 年 Equifax 数据泄露事件，类似于几年前的人事管理办公室数据泄露事件。尽管如此，乔普拉在新闻发布会上表示，“我们的对手不需要破解任何东西”就能获取美国人最敏感的数据。 “数据经纪人——收集和出售有关我们个人和财务生活的详细信息的机构——正在将这些数据提供给任何愿意付费的人，”乔普拉说。
+
+“通过在未经我们知情或同意的情况下出售我们最敏感的个人数据，数据经纪人可以通过诈骗、跟踪和监视获利，”乔普拉说。
+除了要求数据经纪人遵守《公平信用报告法》外，新规则还要求消费者明确同意数据共享。数据经纪人必须获得明确许可才能出售消费者的敏感个人或财务信息。
+该法规针对的是私营公司，而不是政府运营。在周一的新闻发布会上，CFPB 发言人表示，该机构正在征求意见，以确保政府机构继续“适当访问”这些信息。CFPB 将在 2025 年 3 月 3 日之前接受对拟议规则的意见——但特朗普及其盟友可能会在那之前削弱 CFPB 的权力，据报道，他们正在寻找控制该机构权力的方法。
+在周一的新闻发布会上，CFPB 发言人拒绝就“未来政府可能做什么”发表评论，但指出“两党普遍认识到数据经纪人对美国人的隐私和国家安全都构成了真正的危险。”但一些政府机构，包括移民和海关执法局和联邦调查局也依赖数据经纪人来绕过监视限制。]]></description>
+      <guid>https://www.theverge.com/2024/12/3/24311498/cfpb-rule-data-brokers-social-security-number-fico-score</guid>
+      <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>你仍然可以购买的最佳网络星期一最后一分钟优惠</title>
       <link>https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday</link>
@@ -71,60 +123,6 @@ GOG 表示，这一承诺延伸到影响游戏可玩性的 Windows 更改。
 保存计划于上个月启动，为一些经典游戏提供持续的技术支持和兼容性更新。 GOG 以 100 款游戏为开端，其中包括《暗黑破坏神》和《生化危机 1-3》。该公司表示，魔兽争霸 I和魔兽争霸 II将“应发行商的要求”从 GOG 下架。他们的发行商暴雪在宣布保留计划的同一天发布了魔兽争霸 I和魔兽争霸 II的重制版。您仍然可以在游戏被移除之前购买它们，GOG 提供了折扣代码 MakeWarcraftLiveForever，对于购买包含两款游戏的捆绑包的玩家，该折扣代码可为他们节省一点费用。]]></description>
       <guid>https://www.theverge.com/2024/12/2/24311537/gog-preservation-program-warcraft-1-2-delisted-support-continues</guid>
       <pubDate>Mon, 02 Dec 2024 23:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>联想 Legion Go S 泄露，廉价掌上游戏电脑渲染图曝光</title>
-      <link>https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld</link>
-      <description><![CDATA[
-
-看起来像是联想对 Legion Go S 的官方渲染图。 |图片：Windows Central
-
-联想 Legion Go 掌上游戏电脑在春季推出时售价为 700 美元，虽然您现在只需 484.99 美元即可购买一台，但有传言称改进后的 Legion Go S 起价约为 399 美元。 Windows Central 掌握了一些看似真实的渲染图，展示了即将推出的廉价设备的外观。
-上周的“Legion Go S 8ARP1”固件泄露表明，这款廉价机器将搭载 AMD 的 Rembrandt APU。 
-
-虽然它基于新的 Ryzen Z2 平台，但 Videocardz 指出，该芯片将拥有 Zen 3-plus 内核，其性能不如当前 Legion Go 内部拥有 Zen 4 内核的当前一代 Z1 Extreme。
-从图片来看，Legion Go S 似乎将配备 RGB 灯、顶部有两个 USB-C 端口（底部没有）、圆形 D-Pad（而不是常规 Legion Go 上的四向版本），并且TrackPoint 风格 的鼠标，而不是其他型号的触控板。
-
-
-图片：Sean Hollister / The Verge
-当前的 Legion Go
-
-Legion Go S 泄露显示，它将采用白色配色，配有不可拆卸的握把和扳机，类似于第一款 Asus ROG Ally。当前的 Legion Go 型号具有可拆卸的控制器握把，就像 Nintendo Switch 的 Joy-Con 控制器一样。 
-]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld</guid>
-      <pubDate>Mon, 02 Dec 2024 23:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车将电动汽车电池工厂的股份出售给合作伙伴 LG Energy Solutions</title>
-      <link>https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-通用汽车正在将其在电动汽车电池工厂中的股份出售给其合作伙伴LG Energy Solutions，该汽车制造商周一宣布。 
-密歇根州兰辛市即将完工的工厂由通用汽车和韩国 LG 的合资企业 Ultium Cells LLC 开发。根据这份不具约束力的协议，LG 将成为唯一所有者并完成工厂建设。然后，该公司将把电池出售给其他客户。通用汽车表示，它将收回在该工厂投资的 10 亿美元。 
-通用汽车和 LG 已经在俄亥俄州沃伦和田纳西州斯普林希尔的工厂联合开发电池，为凯迪拉克 Lyriq 和雪佛兰 Equinox 电动汽车生产电池。该汽车制造商还与三星SDI在印第安纳州新卡莱尔合资拥有一家电池工厂。在今天的公告发布后，通用汽车在美国拥有的电池工厂数量将降至三家。 
-通用汽车表示其电动汽车业务即将盈利
-通用汽车表示其电动汽车业务即将盈利，部分原因是它可以在国内大规模生产电池，从而简化其供应链并使其能够获得拜登政府的财政激励。但唐纳德·特朗普已誓言上任后取消电动汽车补贴，这可能会破坏通用汽车和其他汽车制造商开发与销售燃气汽车一样有利可图的电动汽车业务的努力。 
-“我们相信，我们拥有合适的电池和制造能力，可以以资本高效的方式与电动汽车市场一起成长，”通用汽车首席财务官保罗·雅各布森在一份声明中表示。 “交易完成后，这笔交易还将帮助 LG Energy Solution 利用即将上线的产能来满足需求，并使通用汽车更加高效。” 
-通用汽车和 LG 还宣布计划开发矩形“棱柱形”电池，这种电池比圆柱形电池能容纳更多的能量。棱柱形电池平放在硬壳中，一般认为制造起来不太复杂。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing</guid>
-      <pubDate>Mon, 02 Dec 2024 23:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克的 560 亿美元薪酬方案再次遭拒绝</title>
-      <link>https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-特斯拉首席执行官埃隆·马斯克的 560 亿美元薪酬方案再次被否决。在周一的一项裁决中，特拉华州衡平法院法官 Kathaleen St. J. McCormick 维持了她阻止薪酬计划的决定，理由是担心该计划在 2018 年获得批准后存在利益冲突。
-在 6 月份警告股东，如果马斯克的薪酬方案未获批准，他可能会离开公司之后，特斯拉于 2019 年举行了投票。希望推翻法官的判决。股东投票批准巨额赔偿，但这仍然不足以说服法官恢复赔偿。
-该判决指出，马斯克“没有程序依据，根据他们在审判后提供的证据，推翻不利的审判后判决的结果。”它还称，在这种情况下，股东可以改变法院判决结果的说法“普遍可疑，毫无疑问是错误的”。
-麦考密克法官向代表特斯拉股东的律师授予了 3.45 亿美元，这些股东就 560 亿美元的计划提起了诉讼。预计马斯克将对该裁决提出上诉。
-即使没有这笔赔偿，马斯克仍然是世界上最富有的人，而且在唐纳德·特朗普赢得美国总统大选后，特斯拉股价继续飙升。]]></description>
-      <guid>https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court</guid>
-      <pubDate>Mon, 02 Dec 2024 23:11:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 03 Dec 2024 09:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:34:47 GMT</lastBuildDate>
+    <item>
+      <title>“Sonos Arc Ultra”评测：具有压倒性沉浸感和出色音质的 Soundbar</title>
+      <link>https://wired.jp/review/sonos-arc-ultra-review/</link>
+      <description><![CDATA[Sonos 推出了售价约 15 万日元的高级条形音箱“Arc Ultra”。低音得到了增强，身临其境的感觉绝对比以前的型号有所发展。虽然App的稳定性还存在问题，但它是一款值得关注的产品。]]></description>
+      <guid>https://wired.jp/review/sonos-arc-ultra-review/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>日本《连线》编辑部评选出2024年11月发表的5篇值得关注的文章</title>
       <link>https://wired.jp/article/editors-5-stories-november-2024/</link>
-      <description><![CDATA[从今年 11 月发表在 WIRED.jp 上的文章来看，有 5 篇文章引起了我们的注意，其中包括音乐家小室哲也和 AI 工程师山田刚的对话，以及可以告诉你野生鸟类名称的 AI 双筒望远镜的介绍。]]></description>
+      <description><![CDATA[从今年 11 月发表在 WIRED.jp 上的文章来看，有 5 篇文章引起了我们的注意，其中包括音乐家小室哲也和 AI 工程师山田刚的对话，以及可以告诉你野生鸟类名称的 AI 双筒望远镜。]]></description>
       <guid>https://wired.jp/article/editors-5-stories-november-2024/</guid>
       <pubDate>Tue, 03 Dec 2024 09:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[预计美国政府最早将于下周宣布对中国半导体行业全面收紧监管。其目的是通过扩大制裁和限制最新内存技术的出口来遏制中国大规模人工智能发展。]]></description>
       <guid>https://wired.jp/article/memory-restrictions-china-advanced-chips/</guid>
       <pubDate>Sat, 30 Nov 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>.com域名管理公司声称“市场垄断” 美国议员呼吁调查</title>
-      <link>https://wired.jp/article/elizabeth-warren-calls-for-crackdown-verisign/</link>
-      <description><![CDATA[美国参议员伊丽莎白·沃伦和国会议员杰里·纳德勒呼吁政府调查所发生事件的真相。]]></description>
-      <guid>https://wired.jp/article/elizabeth-warren-calls-for-crackdown-verisign/</guid>
-      <pubDate>Sat, 30 Nov 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
