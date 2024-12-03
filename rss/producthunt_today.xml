@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Dec 2024 12:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 15:18:50 GMT</lastBuildDate>
+    <item>
+      <title>基河马</title>
+      <link>https://www.producthunt.com/posts/keyhippo</link>
+      <description><![CDATA[
+将 API 密钥身份验证添加到 Postgres 行级安全 (RLS) 策略
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/keyhippo</guid>
+      <pubDate>Tue, 03 Dec 2024 08:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>层流流动</title>
       <link>https://www.producthunt.com/posts/flow-by-laminar</link>
@@ -34,7 +48,21 @@
       <pubDate>Tue, 03 Dec 2024 06:16:28 GMT</pubDate>
     </item>
     <item>
-      <title>超模</title>
+      <title>青蛙博士</title>
+      <link>https://www.producthunt.com/posts/frogdr</link>
+      <description><![CDATA[
+监控您的域名评级
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/frogdr</guid>
+      <pubDate>Tue, 03 Dec 2024 02:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级列表</title>
       <link>https://www.producthunt.com/posts/hypelist-4</link>
       <description><![CDATA[
 发现您喜欢的一切的个性化推荐
@@ -60,34 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/outerbase-power-ups</guid>
       <pubDate>Tue, 03 Dec 2024 01:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 Webhooks 的 Speakeasy SDK Gen</title>
-      <link>https://www.producthunt.com/posts/speakeasy-sdk-gen-with-webhooks</link>
-      <description><![CDATA[
-从 OpenAPI 生成的手写 SDK
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/speakeasy-sdk-gen-with-webhooks</guid>
-      <pubDate>Tue, 03 Dec 2024 00:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>无代码 2024 的到来</title>
-      <link>https://www.producthunt.com/posts/advent-of-no-code-2024</link>
-      <description><![CDATA[
-每天进行 24 个无代码挑战，创造新事物
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/advent-of-no-code-2024</guid>
-      <pubDate>Tue, 03 Dec 2024 00:45:10 GMT</pubDate>
     </item>
     <item>
       <title>零</title>
@@ -130,20 +130,6 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/trigger-dev-realtime-ai</guid>
       <pubDate>Fri, 29 Nov 2024 19:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>备忘录</title>
-      <link>https://www.producthunt.com/posts/imemo</link>
-      <description><![CDATA[
-将您的录音转换为可搜索的文本和摘要
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/imemo</guid>
-      <pubDate>Fri, 29 Nov 2024 09:11:16 GMT</pubDate>
     </item>
     <item>
       <title>Jamsocket 的 Y-Sweet</title>
@@ -200,6 +186,20 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/radon-ide</guid>
       <pubDate>Fri, 15 Nov 2024 11:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stackfix</title>
+      <link>https://www.producthunt.com/posts/stackfix</link>
+      <description><![CDATA[
+几秒钟内比较软件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/stackfix</guid>
+      <pubDate>Fri, 01 Nov 2024 20:05:31 GMT</pubDate>
     </item>
     <item>
       <title>禅码器</title>
