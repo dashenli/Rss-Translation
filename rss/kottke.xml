@@ -4,7 +4,16 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Wed, 04 Dec 2024 01:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 15:20:14 GMT</lastBuildDate>
+    <item>
+      <title>用于电动汽车充电的通用“即插即充”框架正在推出……</title>
+      <link>https://kottke.org/24/12/0045772-a-universal-plug-and-char</link>
+      <description><![CDATA[明年将推出通用的“即插即用”电动汽车充电框架。目标是这样的：“你只需去任何你想去的地方，砰的一声，你插上电源，它会在云端记录一切，给你的卡充值，然后你就可以离开了。”
+
+💬 加入 kottke.org 上的讨论 →]]></description>
+      <guid>https://kottke.org/24/12/0045772-a-universal-plug-and-char</guid>
+      <pubDate>Wed, 04 Dec 2024 15:12:37 GMT</pubDate>
+    </item>
     <item>
       <title>日常物品的迷幻特写</title>
       <link>https://kottke.org/24/12/trippy-extreme-close-ups-of-everyday-objects</link>
@@ -148,17 +157,6 @@ Sigurdsson 的照片可以打印。
 💬 加入 kottke.org 上的讨论 →]]></description>
       <guid>https://kottke.org/24/12/0045758-when-a-telescope-is-a</guid>
       <pubDate>Mon, 02 Dec 2024 18:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用条形码扫描仪播放音乐</title>
-      <link>https://kottke.org/24/12/playing-music-with-barcode-scanners</link>
-      <description><![CDATA[
-
-一个名为Electronicos Fantasticos!的日本组织发现，通过将超市条形码扫描仪连接到有源扬声器，并有节奏地用它扫描类似条形码的图案，就可以制作音乐。这太有趣了！
-标签： Electronicos Fantasticos · 音乐 · remix · 视频
-💬 加入 kottke.org 上的讨论 →]]></description>
-      <guid>https://kottke.org/24/12/playing-music-with-barcode-scanners</guid>
-      <pubDate>Mon, 02 Dec 2024 17:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
