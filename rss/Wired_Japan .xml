@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 03 Dec 2024 21:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 01:18:39 GMT</lastBuildDate>
+    <item>
+      <title>LinkedIn 上疯传的那篇帖子很可能是由人工智能创建的。</title>
+      <link>https://wired.jp/article/linkedin-ai-generated-influencers/</link>
+      <description><![CDATA[新的分析显示，LinkedIn 上一半以上的长篇英语帖子可能是由人工智能生成的。 LinkedIn一直在积极融入AI工具，这似乎是一种符合平台特点的方法。]]></description>
+      <guid>https://wired.jp/article/linkedin-ai-generated-influencers/</guid>
+      <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在月球背面建造历史上最大的望远镜——初创公司 Lunar Resources 面临的挑战</title>
+      <link>https://wired.jp/article/sz-the-quest-to-build-a-telescope-on-the-moon/</link>
+      <description><![CDATA[在月球上建造太阳系最大射电望远镜FarView的目的不仅仅是为了天文学，比如研究宇宙大爆炸和暗物质。它还展示了两项前所未有的活动：月球上的资源开采和材料制造。]]></description>
+      <guid>https://wired.jp/article/sz-the-quest-to-build-a-telescope-on-the-moon/</guid>
+      <pubDate>Tue, 03 Dec 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“Sonos Arc Ultra”评测：具有压倒性沉浸感和出色音质的 Soundbar</title>
       <link>https://wired.jp/review/sonos-arc-ultra-review/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>紧急车辆警示灯可能导致自动驾驶系统故障：研究结果</title>
       <link>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</link>
-      <description><![CDATA[一项新的研究发现，暴露在紧急车辆的警示灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
+      <description><![CDATA[一项新的研究发现，暴露在紧急车辆警告灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
       <guid>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</guid>
       <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[智能手表、智能音箱、美国国家航空航天局的火星探测器，以及美国热门科幻动漫中出现的“黄油机器人”。除非您自己制作，否则您无法玩转所有流行小玩意。 STEM 玩具制造商 CircuitMess 正在将对科学和制造的热爱从克罗地亚传播到世界各地。]]></description>
       <guid>https://wired.jp/article/circuitmess-croatian-stem-toy-maker-teaching-science/</guid>
       <pubDate>Sat, 30 Nov 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>1982年，科幻电影改变世界的夏天</title>
-      <link>https://wired.jp/article/sz-the-future-was-now-chris-nashawaty-book-review/</link>
-      <description><![CDATA[《银翼杀手》、《柯南大帝》、《创》、《疯狂的麦克斯2》、《星际迷航2》、《恶鬼》和《E.T.》 1982年，这八部电影上映，是永远改变电影业和科幻小说历史的时刻。]]></description>
-      <guid>https://wired.jp/article/sz-the-future-was-now-chris-nashawaty-book-review/</guid>
-      <pubDate>Sat, 30 Nov 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府收紧半导体监管旨在遏制中国人工智能发展</title>
-      <link>https://wired.jp/article/memory-restrictions-china-advanced-chips/</link>
-      <description><![CDATA[预计美国政府最早将于下周宣布对中国半导体行业全面收紧监管。目的是通过扩大制裁范围和限制最新内存技术的出口来遏制中国大规模人工智能发展。]]></description>
-      <guid>https://wired.jp/article/memory-restrictions-china-advanced-chips/</guid>
-      <pubDate>Sat, 30 Nov 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
