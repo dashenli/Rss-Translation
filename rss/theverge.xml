@@ -4,159 +4,161 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Dec 2024 15:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 18:24:11 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 的 12 天“shipmas”包括 Sora 和新的推理模型</title>
-      <link>https://www.theverge.com/2024/12/4/24312352/openai-sora-o1-reasoning-12-days-shipmas</link>
+      <title>诺基亚经典贪吃蛇游戏现在变成了 Nothing 小部件</title>
+      <link>https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia</link>
       <description><![CDATA[
 
-图片：Alex Parkin / The Verge
+一款新的 Nothing Community Widgets 应用已推出，其首款产品是 Snake 游戏。 |图片：Nothing
 
-OpenAI 祝您节日快乐。这家 AI 初创公司计划从 12 月 5 日开始，开启为期 12 天的新功能和新产品“shipmas”期。熟悉 OpenAI 计划的消息人士告诉 The Verge，此次发布的产品将包括 OpenAI 期待已久的文本转视频 AI 工具 Sora 和一个新的推理模型。The Verge。
-OpenAI 首席执行官 Sam Altman 周三上午在《纽约时报》的 DealBook 会议上证实了为期 12 天的公告，但他并未透露具体内容。OpenAI 计划在 12 天内每天发布或演示一些东西。
-就在发布会前，一些 OpenAI 员工开始在社交媒体上预告即将发布的产品：“你的圣诞礼物清单上有什么？”一名技术人员发帖。另一位工作人员发帖称：“回来得正好，正好把圣诞树挂起来。”Sora 的负责人 Bill Peebles 回应了一位工作人员发帖称 OpenAI “令人难以置信地回来了”，并用一个词回应：“正确”。该初创公司的高级副总裁也回应了 IYKYK（如果你知道，你就知道）。
-Sora 即将推出，就在几周前，艺术家泄露了该模型，以抗议 OpenAI 将其用于他们所称的“无偿研发和公关”。数百名艺术家已经 alpha...
+Nothing 发布了一款名为 Nothing Community Widgets 的新 Android 应用，该应用将重点介绍用户共同创建的主屏幕工具和游戏。它包含的第一个小部件是对贪吃蛇的重新制作，这是 26 年前诺基亚 6110 推出时预装的三款游戏中最令人难忘的一款。
+尽管由于手机没有触摸屏，原版游戏是通过按下按钮来玩的，但 Nothing 版本中的蛇是使用方向性屏幕滑动来操纵的，而双击可暂停操作，据 Retro Dodo 称。但游戏玩法是一样的，玩家通过吃掉红点来得分，同时随着蛇越来越长，尽量避免与自己相撞。
+
+
+10/10！我从这个项目中学到了很多东西，享受其中的每一分钟✨注意：这些只是概念，这个项目的想法是探索各种可能性，将它们变为现实是一项非常艰巨的工作。 感谢大家的支持❤️（项目文件如下）pic.twitter.com/JGEV9YIp1N— Rahul Janardhanan (@raonehere) 2024 年 1 月 21 日
+
+
+新小部件的灵感来自Rahul Janardhanan，他是一位艺术家，今年早些时候设计并分享了 10 个系列...
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312352/openai-sora-o1-reasoning-12-days-shipmas</guid>
-      <pubDate>Wed, 04 Dec 2024 15:08:42 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/4/24313191/nothing-community-widgets-snake-game-nokia</guid>
+      <pubDate>Wed, 04 Dec 2024 18:03:55 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 创建者现在可以在广播频道中开启回复</title>
-      <link>https://www.theverge.com/2024/12/4/24312956/instagram-broadcast-channels-replies-prompts-availability</link>
+      <title>《沙丘：预言》的制作人希望你超越英雄/恶棍的二元对立</title>
+      <link>https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker</link>
       <description><![CDATA[
 
-广播频道回复功能允许参与者像在 Instagram 帖子上一样回复消息。 | 图片：Meta
+图片：Max / HBO
 
-Instagram 正在向广播频道添加一些新功能，为平台创建者提供更多与粉丝直接互动的方式。 Meta 在其最新博客文章中宣布，创作者可以在其广播频道有限的群聊中启用“回复”，让参与者可以回复消息和彼此的评论——就像他们已经在 Instagram 帖子上可以做到的那样。
-创作者还可以向其频道发布时间敏感的“提示”，以“你今天晚餐吃什么？”之类的问题形式呈现，以鼓励观众参与。频道参与者有 24 小时的时间用文字或照片回复，并且可以点赞其他用户留下的他们最喜欢的评论。 Instagram 还推出了供创作者跟踪的新指标，包括互动总数、故事分享和投票，以及可以帮助他们发展和管理受众的“个性化、可操作的指导”。
-
-
-图片：Meta
-提示的工作方式类似于开放式投票或子主题，允许频道成员参与有限的对话。
-
-我们已要求 Meta 澄清这些新的广播频道功能何时可供 Instagram 创作者使用。Instagram 负责人 Adam Mosseri 最初于本周早些时候在自己的“IG 更新”频道上启用了该更新，从而预告了该更新。
-虽然 Facebook Messenger 和 WhatsApp 也支持广播频道，但这些新功能仅在 Instagram 上发布。Meta 尚未提及它们最终是否会推广到其其他平台，但鉴于 Instagram 是第一个推出广播频道的平台，它可能被用作试验场。]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312956/instagram-broadcast-channels-replies-prompts-availability</guid>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESPN 今日起登陆 Disney Plus 应用</title>
-      <link>https://www.theverge.com/2024/12/4/24312617/espn-disney-plus-now-available-bundle-free-preview</link>
-      <description><![CDATA[
-
-图片：迪士尼
-
-今年早些时候，迪士尼将 Hulu 内容引入 Disney Plus 应用，现在，迪士尼也开始为 ESPN Plus 节目做同样的事情。 
-应用程序主屏幕上添加了一个新的 ESPN 磁贴。磁贴上只写着“ESPN”，因为目前，它只包含 ESPN Plus 中通常包含的现场比赛和节目。但明年将是期待已久的真正的 ESPN 流媒体服务的首次亮相——你知道，真正的有线电视频道，里面有体育迷离不开的节目——最终也可通过 Disney Plus 门户访问。
-迪士尼将所有这些内容放在一个保护伞下的理由很简单：它希望让更多人注册 Disney Plus / Hulu / ESPN Plus 三重套餐。而且，摩擦越少，该套餐对那些现在可能只为核心服务付费的客户就越有吸引力。为了进一步推动该套餐，Disney Plus 订阅者现在可以访问“ESPN Plus 精选的现场体育赛事和节目以及 Hulu 的电影和连续剧”。即使您没有为 Hulu 或 ESPN 付费，这两项服务的图块现在也会出现在主导航中。
-
-
-
-图片：迪士尼
-如果您是捆绑订阅者，您将获得所有内容！如果您不是，您可以获得一些小样……以帮助吸引您购买套餐。
-
-
-“这为我们的套餐订阅者提供了一个地方，让他们可以消费我们所有品牌的所有他们喜欢的东西。” Disney Plus 总裁 Alisa Bowen 在一份新闻稿中表示。ESPN Plus 提供“每年超过 30,000 场现场体育赛事”以及大量原创内容。但这实际上只是朝着将真正的、线性的 ESPN 引入服务的最终目标迈出了半步。迪士尼表示，我们今天看到的是“ESPN 旗舰直销产品在美国推出后，Disney Plus 在美国扩大体育产品的基础，预计在 2025 年秋季推出。”
-ESPN 流媒体服务预计最早于 8 月推出，据传言每月费用高达 30 美元。是的，仅适用于 ESPN。您可以通过 Disney Plus 观看，但首席执行官 Bob Iger 表示 ESPN 应用程序将提供功能更丰富的体育体验，包括集成投注和梦幻联赛。Disney 选项适合那些想要将所有内容塞进一个应用程序中的人。
-迪士尼决心让其流媒体业务成为可靠的盈利来源，真正的钱来自捆绑和广告支持计划。在广告方面，由于 ESPN 内容已在 Disney Plus 中流式传输，广告商将能够“按运动、联盟、球队、现场活动和所有市场”购买广告资源。该公司还采取措施解决密码共享问题，现在向允许其他人从不同位置登录其 Disney Plus 帐户的客户收取 6.99 美元至 9.99 美元的费用。
-订阅 Disney Plus 的成本不可避免地会继续攀升。毫无疑问，迪士尼会将该应用作为一个包罗万象的娱乐中心（现在包括体育）的价值作为这些涨价的理由。对于最终用户来说，这一切都让人想起有线电视，但这就是我们所处的流媒体时代。]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312617/espn-disney-plus-now-available-bundle-free-preview</guid>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skeleton Crew 是一款适合儿童观看的《星球大战》</title>
-      <link>https://www.theverge.com/24312202/star-wars-skeleton-crew-review</link>
-      <description><![CDATA[
-
-图片：Disney Plus / Lucasfilm Ltd.
-
-Disney Plus 的最新《星球大战》系列试图直接与新一代年轻粉丝对话。
+Alison Schapker 认为《沙丘：预言》讲述了制度权力的兴衰。
 阅读 The Verge 上的完整故事。]]></description>
-      <guid>https://www.theverge.com/24312202/star-wars-skeleton-crew-review</guid>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/4/24311132/dune-prophecy-interview-alison-schapker</guid>
+      <pubDate>Wed, 04 Dec 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Verge 评选出 2024 年最令人难忘的科技</title>
-      <link>https://www.theverge.com/24305935/verge-staff-favorites-video-2024</link>
+      <title>唐纳德·特朗普选择亿万富翁贾里德·艾萨克曼领导美国宇航局</title>
+      <link>https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman</link>
       <description><![CDATA[
 
+照片由 PATRICK T. FALLON/AFP 通过 Getty Images 拍摄
 
-就科技而言，2024 年是充满创新、有趣和令人难忘时刻的强劲一年。 
-我们以 Apple Vision Pro 拉开了今年的序幕——这是 Apple 期待已久的“空间计算”领域的产品。这款设备令人印象深刻，The Verge 的主编 Nilay Patel 将该设备描述为“神奇的，直到它不再神奇”。但 Apple 的首款 MR 设备能否开启计算的新时代仍有待观察。
-Meta 还向我们展示了其在向其元宇宙部门投资数十亿美元之后开发出的产品。副主编 Alex Heath 观看了 Project Orion 的演示——这副 AR 眼镜不会让你看起来像个超级呆子（好吧，也许有一点）。但更重要的是，我们了解了 AR 的发展方向，这可以说让 Meta 在这一领域处于领先地位。
-这也是可穿戴 AI 助手的一年。在 CES 2024 上，我们看到了可爱的 Rabbit R1，它偷走了我们的心。我们还看到了 Humane 备受期待的 AI Pin。尽管这些设备在最终发布时令人大失所望，但它们确实代表了未来人工智能交互的一个转折点。 
-我们一年都离不开智能手机的最大升级。三星……
+当选总统唐纳德·特朗普提名亿万富翁贾里德·艾萨克曼领导 NASA，他周三宣布。艾萨克曼资助并参与了北极星黎明任务，他和 SpaceX 工程师莎拉吉利斯进行了首次商业太空行走。
+艾萨克曼将接替前佛罗里达州参议员比尔尼尔森担任美国宇航局局长，乔拜登总统当选后任命他领导该机构。除了 Polaris Dawn 之外，Isaacman 还资助了 Inspiration 4，这项任务于 2021 年将他和其他三名非职业宇航员乘坐 SpaceX 的猎鹰 9 号火箭送入太空。
+Isaacman 的大部分财富来自 Shift4，这是他 16 岁时创立的支付处理公司。他仍然担任该公司的首席执行官，该公司最近收购了加拿大 礼品卡平台 Givex 并达成了2021 年与伊隆·马斯克的 Starlink 达成付款协议。
+
+
+我很荣幸获得特朗普总统的@realDonaldTrump提名，担任美国国家航空航天局 (NASA) 的下一任局长。我有幸从太空中看到了我们这个神奇的星球，我对美国领导人类历史上最不可思议的冒险充满热情。关于我的最后一次任务……— Jared Isaacman (@rookisaacman) 2024 年 12 月 4 日
+
+
+“在特朗普总统的支持下，我可以向你们保证：我们永远不会再失去前往星空的能力，永远不会屈居第二，”艾萨克曼在 X 上写道。“美国人将在月球和火星上行走，这样做，我们将让地球上的生活变得更好。”
+艾萨克曼加入了另一群非传统的人特朗普选择的提名人将领导各种政府机构和咨询委员会，包括由马斯克和维韦克·拉马斯瓦米领导的新“政府效率部”。]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313160/donald-trump-nasa-billionaire-jared-isaacman</guid>
+      <pubDate>Wed, 04 Dec 2024 17:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以免费试用《龙腾世纪：面纱守卫》出色的角色创建器</title>
+      <link>https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4</link>
+      <description><![CDATA[
+
+图片：EA
+
+《龙腾世纪：面纱守卫》 拥有出色的角色创建器，从今天开始，您无需购买完整版游戏就可以随意使用它。 EA 将为所有支持该游戏的平台（PS5、Xbox Series X/S 和 PC）发布免费、独立的角色创建器版本，如果您决定购买，您可以将免费创建器中创建的角色带到完整游戏中。
+
+如果您对The Veilguard有任何兴趣，我真的建议您在免费角色创建器可用时查看它并查看所有选项。 （头发看起来特别好。）如果你最终创建了一个角色，将其转移到游戏中，并想做一些调整，你将能够在冒险的早期做到这一点，所以不要太担心你的决定。
+EA 还发布了游戏的第四个补丁，它增加了一个任务，将奖励你以龙腾世纪 II主角霍克为主题的游戏内物品。]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313188/dragon-age-the-veilguard-character-creator-free-patch-4</guid>
+      <pubDate>Wed, 04 Dec 2024 17:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>华盛顿特区检察总长称，亚马逊秘密将部分社区排除在 Prime 配送范围之外</title>
+      <link>https://www.theverge.com/2024/12/4/24313142/amazon-allegedly-excluded-dc-neighborhoods-prime-delivery</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+亚马逊悄悄地利用自己的品牌卡车，将华盛顿特区的两个邮政编码从其最快的 Prime 配送服务中解放出来，将配送外包给 UPS 和邮政等较慢的服务服务，哥伦比亚特区总检察长 Brian Schwalb 在一项新的诉讼中指控。
+Schwalb 称，据称该决定导致居住在阿纳科斯蒂亚河以东两个邮政编码地区的约 48,000 名 Prime 会员获得的福利低于他们实际支付的福利（每月 14.99 美元或每年 139 美元）。据称受影响的社区包括黑人占多数的低收入地区。但即使客户注意到并抱怨送货时间变慢，总检察长声称，亚马逊“误导消费者相信这只是巧合。”
+亚马逊发言人 Kelly Nantel 在一份声明中告诉 The Verge，亚马逊改变了诉讼中提到的邮政编码的服务方式，因为这些地区“针对运送亚马逊包裹的司机采取了特定和有针对性的行为”。 “我们特意调整了我们的运营方式，包括送货路线和时间，唯一的原因就是保护司机的安全。” Nantel 称总检察长的说法“完全错误”，并表示亚马逊“在购物和结账过程中始终对客户保持透明，告知他们订单的确切到达时间。”
+但尽管亚马逊有权通过这些变化来保护其员工，但 Schwalb 表示，在这样做的同时，它不能欺骗客户。 “亚马逊向数万名辛勤工作的第 7 和第 8 区居民收取加急送货服务的费用，而这项服务是亚马逊承诺但并未提供的。虽然亚马逊有权进行运营变更，但它不能暗中决定一个邮政编码中的一美元比另一个邮政编码中的一美元价值低，”他在一份声明中说道。
+Schwalb 根据 DC 的消费者保护法提起诉讼。他试图阻止亚马逊继续其涉嫌欺骗的行为，并收取未指定数额的民事罚款、赔偿和损害赔偿金。]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313142/amazon-allegedly-excluded-dc-neighborhoods-prime-delivery</guid>
+      <pubDate>Wed, 04 Dec 2024 17:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 利用核能实现其 AI 野心</title>
+      <link>https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+Meta 正利用核能为其 AI 雄心提供动力，并发布了一份与核能开发商合作的征求建议书。
+这是最新的公告是大型科技公司最近为确保其数据中心使用核能而达成的一系列交易之一。开发新的人工智能工具是一项能源密集型工作，它存在风险会破坏硅谷的发展可持续发展目标，除非它能找到污染较少的电力来源。Meta 现在加入了亚马逊、微软和谷歌的努力，以启动和运行更多的核反应堆。
+Meta 现在加入了亚马逊、微软和谷歌的努力，以启动和运行更多的核反应堆
+说起来容易做起来难。美国几十年来建造的第一座全新核反应堆于 2023 年开始运行——比原计划晚了七年，预算超出 170 亿美元。开发商目前正在设计下一代技术，即小型模块化反应堆 (SMR)，该技术旨在使项目的建设和选址更加容易，表面上可以降低成本。预计这些先进反应堆要到 2030 年代才能实现商业可行性。
+Meta 表示，它对SMR 和更大的反应堆都很感兴趣，并且正在寻找合作伙伴……
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24305935/verge-staff-favorites-video-2024</guid>
-      <pubDate>Wed, 04 Dec 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/4/24313011/meta-ai-data-center-nuclear-energy</guid>
+      <pubDate>Wed, 04 Dec 2024 16:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>气压传感器可让自行车电脑计算风阻</title>
-      <link>https://www.theverge.com/2024/12/4/24312988/wahoo-fitness-elemnt-ace-bike-computer-air-pressure-wind-resistance-sensor-cycling</link>
+      <title>新的高达动画看起来很棒，听起来就像是键盘上的猫命名的</title>
+      <link>https://www.theverge.com/2024/12/4/24313105/gundam-gquuuuuux-trailer-hideaki-anno-yoji-enokido</link>
       <description><![CDATA[
 
-Elemnt Ace 自行车电脑内的气压传感器可以在您骑行时确定风速。 | 图片：Wahoo Fitness
+Sunrise/Khara
 
-Wahoo Fitness 宣布推出一款新型自行车电脑，该电脑内置气压传感器，用于计算骑行过程中的风速。 Elemnt Ace 增加的指标让骑行者更好地了解他们在骑行过程中的表现，以及他们的时间和速度可能如何受到外部条件的影响。
-该产品现可通过该公司的在线商店购买，价格为 599.99 美元，并配有一个铝合金支架，可将其连接到自行车的车把。这是 Wahoo Fitness 目前提供的最昂贵的自行车电脑，但 Garmin 等竞争对手仍然提供更昂贵的替代品。
-
-
-图片：Wahoo Fitness
-Elemnt Ace 正面的一个小通风口通向其内部的气压传感器。
-
-使用位于计算机正面小通风口内的气压传感器测量风速。通过将其与 Elemnt Ace 的双频 GPS 系统确定的自行车地面速度进行比较，可以计算出风速。
-计算机的 Aero Awareness 系统为骑行者提供了两个额外的指标供其考虑。AeroBoost 考虑了提高性能的顺风和起草效果，而 AeroDrag 则考虑了逆风骑行的负面影响。
-
-
-图片：Wahoo Fitness
-3.8 英寸触摸屏与多个按钮配合使用，方便在骑行过程中导航。
-
-其他功能包括一个相对较大的 3.8 英寸全彩触摸屏，与多个物理按钮配合使用，让自行车在行驶过程中导航菜单和选择选项变得更容易一些。电池续航时间最长可达 30 小时，而 Wi-Fi 和蓝牙可将设置和骑行数据同步到云端和 Wahoo Fitness 的移动应用程序。
-Elemnt Ace 还是一款功能齐全的 GPS 导航设备，具有语音引导的逐向导航功能，并可选择重新追踪您的路线，以便回到您开始骑行的地方。]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312988/wahoo-fitness-elemnt-ace-bike-computer-air-pressure-wind-resistance-sensor-cycling</guid>
-      <pubDate>Wed, 04 Dec 2024 14:57:59 GMT</pubDate>
+有一个新的移动机动战士高达 即将上映，虽然万代尚未透露太多故事情节，但其制作工作室和创意团队对该项目来说是个好兆头。
+Sunrise 与 Khara（由庵野秀明创立的《福音战士新剧场版》电影制作工作室）合作，制作由庵野秀明和榎户洋二共同创作的新系列机动战士高达 GQuuuuuuX，以及由 Kazyua Tsurumaki 执导。
+《GQuuuuuuX》以人类开始在大型太空殖民地生活的现实为背景，讲述了高中生 Yuzuriha “Machu” Amate（Tomoyo Kurosaw）和快递员 Nyaan（Yui Ishikawa）被卷入地下机甲战斗世界（称为“战队战斗”）。该系列的新预告片透露了 Machu 在遇到高达驾驶员 Shuji Ito（Shimba Tsuchiya）后学会了共同驾驶 gMS-Ω GQuuuuuuX 的故事。设计师 Take（以《神奇宝贝》系列作品而闻名）的独特风格在预告片中展现了该剧的人类角色，机械设计师山下郁人对经典高达美学的诠释让人耳目一新。
+虽然《机动战士高达 GQuuuuuuX》将于新年在日本电视台播出，但该系列尚未确定具体的首映日期。但在电视首映之前，部分剧集的剧场版将于 1 月 17 日在日本影院上映。]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313105/gundam-gquuuuuux-trailer-hideaki-anno-yoji-enokido</guid>
+      <pubDate>Wed, 04 Dec 2024 16:48:44 GMT</pubDate>
     </item>
     <item>
-      <title>如何找到你的 2024 Spotify Wrapped</title>
-      <link>https://www.theverge.com/24312980/spotify-wrapped-2024-how-to</link>
+      <title>ChatGPT 目前每周用户数超过 3 亿</title>
+      <link>https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users</link>
       <description><![CDATA[
 
-图片：Samar Haddad / The Verge
+图片：The Verge
 
-年终最受欢迎的项目之一是音乐服务回顾，其中最知名的就是 Spotify总结。该公司以各种统计格式汇总了您当年听过的所有音乐，并以明亮的漩涡图形进行总结（嗯，它就是这么叫的，对吧？）。对于 2024 年，您将看到您关注的音乐类别、您的听歌习惯在一年中发生了怎样的变化、获得您最喜欢的 10 首歌曲和艺术家的列表、查看您年度的顶级艺术家，甚至可以看到对其中一位特色艺术家的简短视频采访。 
-今年的 Wrapped 还允许您访问单独的部分，例如个性化播客，其中有两个 AI“主持人”（由 Google 的 NotebookLM 提供支持）会聊聊您的收听习惯。
-在您的移动应用上很容易找到 Spotify Wrapped。 （有趣的是，虽然 2023 年的 Wrapped 也可以在 Spotify 网站上找到，但今年你只能在 Android 或 iOS 应用程序上找到它。）
-最简单的方法是打开应用程序并查看顶部菜单 - 你应该找到一个标有“Wrapped”的按钮，它会直接带你进入 Wrapped 主页。从那里，你可以观看你的 Wrapped 时间线（通过点击“开始”按钮）...
+ChatGPT 现在每周有超过 3 亿人使用 AI 聊天机器人。 OpenAI 首席执行官 Sam Altman 于周三在《纽约时报》的 DealBook 峰会上公布了这一里程碑，几个月前 ChatGPT 8 月份每周用户数达到 2 亿。
+“我们的产品已经扩大规模……现在我们每周有超过 3 亿活跃用户，”Altman 表示。 “每天有用户向 ChatGPT 发送超过 10 亿条消息。”
+
+ChatGPT 自 2022 年推出以来发展迅速，因为 OpenAI 不断增加更多功能，例如其AI 搜索引擎，它可以显示和汇总来自网络的结果（尽管它们可能并不总是准确的），以及一个新的“Canvas”界面，让用户更轻松地调整聊天机器人编写的代码。 
+Apple 还将 ChatGPT 直接构建到 Siri 中，作为 iOS 18.2 的一部分，该版本现已推出测试版，有望帮助聊天机器人覆盖更多用户。]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users</guid>
+      <pubDate>Wed, 04 Dec 2024 16:39:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚假信息研究人员承认 ChatGPT 在其法庭文件中添加了虚假信息</title>
+      <link>https://www.theverge.com/2024/12/4/24313132/jeff-hancock-minnesota-deepfake-law-ai-hallucinations-citation</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+一位被指控使用人工智能生成法律文件的虚假信息专家承认他使用 ChatGPT 帮助他整理引文，导致“幻觉”，批评者称，这让整个文件都受到质疑。撰写该文件的斯坦福社交媒体实验室创始人杰夫·汉考克表示，这些错误不会改变“声明中的实质性要点”。
+汉考克提交了一份宣誓书，支持明尼苏达州的“使用深度伪造技术影响选举”法案，该法案正在联邦法院受到克里斯托弗·科尔斯（一位以里根先生的名义发帖的保守派 YouTuber）和明尼苏达州众议员玛丽·弗兰森的质疑。在发现汉考克的文件似乎包含不存在的引文后，科尔斯和弗兰森的律师表示它“不可靠”，并要求将其排除在考虑范围之外。 
+在上周晚些时候提交的后续声明中，汉考克承认他使用 ChatGPT 起草了声明，但否认他使用它来撰写任何内容。“我撰写并审查了声明的内容，我坚定地支持其中提出的每一项主张，所有这些主张都得到了该领域最新学术研究的支持，并反映了我作为专家对人工智能技术对错误信息及其社会影响的看法，”汉考克写道。 
+至于引用错误，汉考克解释说，他使用 Google Scholar 和 GPT-4o“来识别可能与声明相关的文章，以便我可以将我已经知道的内容与新的学术成果相结合。” 汉考克说，他使用 GPT-4o 创建引用列表，而不是编写文档，并没有意识到该工具产生了“两个引用错误，通常被称为‘幻觉’”，并在另一个引用中添加了错误的作者。
+“我无意误导法院或律师，”汉考克在他最近的文件中写道。“我对这可能造成的任何混乱表示诚挚的遗憾。话虽如此，我坚决支持声明中的所有实质性观点。”]]></description>
+      <guid>https://www.theverge.com/2024/12/4/24313132/jeff-hancock-minnesota-deepfake-law-ai-hallucinations-citation</guid>
+      <pubDate>Wed, 04 Dec 2024 16:23:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024年回顾：人工智能</title>
+      <link>https://www.theverge.com/24305880/artificial-intelligence-ai-chatgpt-openai-google-generative-year-in-review</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge，Getty Images
+
+2024 年，你无法逃避听到有关人工智能的消息。从智能手机到可穿戴设备，再到智能家居，似乎每家科技公司都想推销自己的下一个伟大的人工智能创新。
+这一年充满了令人印象深刻的技术飞跃和有用的新工具、无休止的炒作和频繁的失败，以及对未来的影响，从真正令人兴奋到不可预测。今年，我们了解到人工智能实际上可能做什么——以及我们仍然没有做好准备去应对它。
+在The Verge，我们思考了很多关于人工智能对我们报道的行业和人的影响。从游戏等行业的罢工，到其对气候的影响，再到对好莱坞政策保护的渴望，以及AI 法案，AI 已经重塑了我们生活的几乎每个领域。
+让我们回顾一下去年一些最大、最大胆、最奇怪的 AI 故事——并展望 2025 年可能发生的事情。
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24312980/spotify-wrapped-2024-how-to</guid>
-      <pubDate>Wed, 04 Dec 2024 14:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年将推出通用的电动汽车充电“即插即充”协议</title>
-      <link>https://www.theverge.com/2024/12/4/24312002/ev-plug-and-charge-universal-protocol-sae-pki-roaming</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312002/ev-plug-and-charge-universal-protocol-sae-pki-roaming</guid>
-      <pubDate>Wed, 04 Dec 2024 14:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Surf 浏览器展示了为什么每个人都在尝试将 AI 连接到网络</title>
-      <link>https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser</guid>
-      <pubDate>Wed, 04 Dec 2024 14:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的“带屏幕的 HomePod”可能会在 2025 年晚些时候推出</title>
-      <link>https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-传闻中的 Apple 智能显示器有时被称为“带屏幕的 HomePod”，最晚可能在明年第三季度推出，据苹果供应链分析师郭明池称。此前预计于 2025 年 3 月发布。
-郭指出，这款显示屏预计将配备 6 英寸或 7 英寸屏幕和 A18 芯片，就像目前的 iPhone 16 系列一样，据传闻是一款方形、可磁性安装的 iPad 类设备。它可能会运行一些 Apple 应用程序和 Apple Intelligence，与目前的 HomePods 和 Apple TV 系列不同。
-郭写道，苹果可能会在明年下半年出货 50 万到 100 万台显示器。这款显示器可能是苹果进军智能家居领域的新举措的一部分。除了价格实惠的平板电脑式屏幕外，苹果的计划可能还包括一款价格更高的桌面设备，该设备配有机械臂末端的屏幕、摄像头，甚至可能是一台电视。]]></description>
-      <guid>https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025</guid>
-      <pubDate>Wed, 04 Dec 2024 14:00:07 GMT</pubDate>
+      <guid>https://www.theverge.com/24305880/artificial-intelligence-ai-chatgpt-openai-google-generative-year-in-review</guid>
+      <pubDate>Wed, 04 Dec 2024 16:20:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
