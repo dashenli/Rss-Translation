@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 04 Dec 2024 21:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 01:18:49 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 从 Google DeepMind 挖来三名顶级工程师</title>
+      <link>https://wired.jp/article/openai-hires-deepmind-zurich/</link>
+      <description><![CDATA[OpenAI聘请三位计算机视觉专家在人才竞争激烈的AI市场引起关注。这是竞争对手公司之间一系列转让中的一个象征性举措。]]></description>
+      <guid>https://wired.jp/article/openai-hires-deepmind-zurich/</guid>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊和 Anthropic 正试图开发巨型“AI 超级计算机”</title>
+      <link>https://wired.jp/article/amazon-reinvent-anthropic-supercomputer/</link>
+      <description><![CDATA[亚马逊在Re:Invent开发者大会上发布了一系列公告，标志着其全面进军生成式AI领域。该公司宣布计划开发一款名为“Project Rainier”的大型人工智能超级计算机，配备自己的芯片以及有助于提高人工智能可靠性的新工具。]]></description>
+      <guid>https://wired.jp/article/amazon-reinvent-anthropic-supercomputer/</guid>
+      <pubDate>Wed, 04 Dec 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字信息历史保存机构互联网档案馆面临的防御战</title>
+      <link>https://wired.jp/article/sz-internet-archive-memory-wayback-machine-lawsuits/</link>
+      <description><![CDATA[所有网络记忆都存储在非营利性互联网档案馆的服务器上。也就是说，除非一场法律斗争将一切消灭殆尽。]]></description>
+      <guid>https://wired.jp/article/sz-internet-archive-memory-wayback-machine-lawsuits/</guid>
+      <pubDate>Wed, 04 Dec 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蒂姆·库克谈论苹果和人工智能的未来</title>
       <link>https://wired.jp/article/vol55-the-big-interview-tim-cook/</link>
@@ -15,21 +36,21 @@
     <item>
       <title>一颗垂死的红超巨星即将爆炸成超新星</title>
       <link>https://wired.jp/article/dying-red-supergiant-star-woh-g64/</link>
-      <description><![CDATA[红超巨星WOH G64的大小约为太阳的2000倍，目前正因超新星爆炸而濒临死亡。让我们介绍一下欧洲南方天文台（ESO）观测设备拍摄到的图像。]]></description>
+      <description><![CDATA[红超巨星WOH G64的大小约为太阳的2000倍，目前正因超新星爆炸而濒临死亡。让我向您介绍欧洲南方天文台（ESO）观测设备拍摄的图像。]]></description>
       <guid>https://wired.jp/article/dying-red-supergiant-star-woh-g64/</guid>
       <pubDate>Wed, 04 Dec 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>蓝天CEO报告用户数已达2400万 努力防止“改善和恶化”</title>
+      <title>Bluesky首席执行官报告称用户已达2400万并努力防止“改善和恶化”</title>
       <link>https://wired.jp/article/big-interview-jay-graber-bluesky-2024/</link>
-      <description><![CDATA[Bluesky 是一家与 X 竞争的快速发展公司，其首席执行官 Jay Graver 登上了《连线》主办的“The Big Interview”活动的舞台。 Graeber 谈到 Bluesky 已拥有 2400 万用户，以及该公司在没有广告的情况下继续发展的战略。]]></description>
+      <description><![CDATA[Bluesky 是一家与 X 竞争的快速发展公司，其首席执行官 Jay Graver 在《连线》主办的“The Big Interview”活动中登台演讲。 Graeber 谈到 Bluesky 已拥有 2400 万用户，以及该公司在没有广告的情况下继续发展的战略。]]></description>
       <guid>https://wired.jp/article/big-interview-jay-graber-bluesky-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 07:30:00 GMT</pubDate>
     </item>
     <item>
       <title>离开 OpenAI 的 Mira Murati 对 AGI 仍持乐观态度</title>
       <link>https://wired.jp/article/big-interview-mira-murati-2024/</link>
-      <description><![CDATA[OpenAI 前首席技术官 (CTO) Mira Murati 登上《连线》赞助活动“The Big Interview”的舞台。关于他的初创公司，穆拉蒂表示，尽管仍处于起步阶段，但通用人工智能（AGI）是他的主要关注点。]]></description>
+      <description><![CDATA[OpenAI 前首席技术官 (CTO) Mira Murati 登上《连线》赞助活动“The Big Interview”的舞台。关于他的初创公司，穆拉蒂表示，虽然仍处于起步阶段，但通用人工智能（AGI）是他的主要关注点。]]></description>
       <guid>https://wired.jp/article/big-interview-mira-murati-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 03:30:00 GMT</pubDate>
     </item>
@@ -50,12 +71,12 @@
     <item>
       <title>“Sonos Arc Ultra”评测：具有压倒性沉浸感和出色音质的 Soundbar</title>
       <link>https://wired.jp/review/sonos-arc-ultra-review/</link>
-      <description><![CDATA[Sonos 推出了售价约 15 万日元的高级条形音箱“Arc Ultra”。低音得到了增强，身临其境的感觉绝对比以前的型号有所发展。虽然应用的稳定性还存在问题，但它是一款值得关注的产品。]]></description>
+      <description><![CDATA[Sonos 推出了售价约 15 万日元的高级条形音箱“Arc Ultra”。低音得到了增强，身临其境的感觉绝对比以前的型号有所发展。虽然App的稳定性还存在问题，但它是一款值得关注的产品。]]></description>
       <guid>https://wired.jp/review/sonos-arc-ultra-review/</guid>
       <pubDate>Tue, 03 Dec 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>日本《连线》编辑部评选出2024年11月发表的5篇值得关注的文章</title>
+      <title>2024年11月发表的5篇值得关注的文章，由《连线》日本编辑部评选</title>
       <link>https://wired.jp/article/editors-5-stories-november-2024/</link>
       <description><![CDATA[从今年 11 月发表在 WIRED.jp 上的文章来看，有 5 篇文章引起了我们的注意，其中包括音乐家小室哲也和 AI 工程师山田刚的对话，以及可以告诉你野生鸟类名称的 AI 双筒望远镜的介绍。]]></description>
       <guid>https://wired.jp/article/editors-5-stories-november-2024/</guid>
@@ -78,37 +99,16 @@
     <item>
       <title>索尼“MDR-M1”评测：可舒适使用数小时的新一代录音室耳机</title>
       <link>https://wired.jp/article/sony-mdr-m1-review/</link>
-      <description><![CDATA[索尼的 MDR-M1（尚未在日本发布）是一款封闭式监听耳机，由录音室标准 MDR-7506 演变而来。录音室品质的声学性能、舒适的佩戴感和高隔音效果使您可以在任何环境下创作音乐。]]></description>
+      <description><![CDATA[索尼的 MDR-M1（尚未在日本发布）是一款封闭式监听耳机，由录音室标准 MDR-7506 演变而来。工作室品质的声学性能、舒适的佩戴感和高隔音效果使您可以在任何环境下创作音乐。]]></description>
       <guid>https://wired.jp/article/sony-mdr-m1-review/</guid>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>紧急车辆警示灯可能导致自动驾驶系统故障：研究结果</title>
       <link>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</link>
-      <description><![CDATA[一项新的研究发现，暴露在紧急车辆警告灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
+      <description><![CDATA[一项新的研究发现，暴露在紧急车辆的警示灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
       <guid>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</guid>
       <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅塔打破对“生猪屠宰骗局”的沉默——首次宣布打击有组织犯罪的措施</title>
-      <link>https://wired.jp/article/meta-pig-butchering-report-2024/</link>
-      <description><![CDATA[诈骗者利用社交媒体与受害者建立信任关系并骗取金钱的杀猪骗局正在全球范围内蔓延。 11 月，梅塔公开了他与滥用 Facebook 和 Instagram 的欺诈者的斗争。最近，利用人工智能翻译针对日语使用者的可疑行为也得到了证实。]]></description>
-      <guid>https://wired.jp/article/meta-pig-butchering-report-2024/</guid>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以仅用意念来操作机械臂？ Neuralink 进入新的临床试验</title>
-      <link>https://wired.jp/article/neuralink-robotic-arm-controlled-by-mind/</link>
-      <description><![CDATA[埃隆·马斯克的大脑植入公司 Neuralink 宣布，一项新研究将测试无线设备是否可以控制机械臂。]]></description>
-      <guid>https://wired.jp/article/neuralink-robotic-arm-controlled-by-mind/</guid>
-      <pubDate>Sun, 01 Dec 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMO（首席元宇宙官）去哪儿了？</title>
-      <link>https://wired.jp/article/sz-where-have-all-the-chief-metaverse-officers-gone/</link>
-      <description><![CDATA[随着奢侈品牌的进入，虚拟宇宙迅速从过热走向衰落，现在与增强现实和空间计算联系在一起。引导我们穿越虚拟世界的行业领导者仍然在这里，即使他们的头衔已经改变。]]></description>
-      <guid>https://wired.jp/article/sz-where-have-all-the-chief-metaverse-officers-gone/</guid>
-      <pubDate>Sun, 01 Dec 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
