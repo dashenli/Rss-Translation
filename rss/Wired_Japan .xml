@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 05 Dec 2024 01:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 03:34:51 GMT</lastBuildDate>
+    <item>
+      <title>竹村光宏《边远：一部边远地区的文化史》书评：过度理性化的社会需要的是从外部看世界的“边远”视角。</title>
+      <link>https://wired.jp/article/outlying-mitsuhiro-takemura/</link>
+      <description><![CDATA[之前的反主流文化和地下文化是如何为数字文化做好准备的？ 竹村光宏（Mitsuhiro Takemura）的自传于今年秋天出版，他是一位媒体美学家，处于这段经常被忽视的文化历史的中心。]]></description>
+      <guid>https://wired.jp/article/outlying-mitsuhiro-takemura/</guid>
+      <pubDate>Thu, 05 Dec 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 从 Google DeepMind 挖来三名顶级工程师</title>
       <link>https://wired.jp/article/openai-hires-deepmind-zurich/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[索尼的 MDR-M1（尚未在日本发布）是一款封闭式监听耳机，由录音室标准 MDR-7506 演变而来。工作室品质的声学性能、舒适的佩戴感和高隔音效果使您可以在任何环境下创作音乐。]]></description>
       <guid>https://wired.jp/article/sony-mdr-m1-review/</guid>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>紧急车辆警示灯可能导致自动驾驶系统故障：研究结果</title>
-      <link>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</link>
-      <description><![CDATA[一项新的研究发现，暴露在紧急车辆的警示灯下可能会导致一些基于摄像头的自动驾驶系统无法识别物体。研究人员将这种现象称为“数字癫痫发作”，并指出它可能带来严重风险，包括事故。]]></description>
-      <guid>https://wired.jp/article/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/</guid>
-      <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
