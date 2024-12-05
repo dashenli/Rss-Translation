@@ -4,148 +4,188 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Dec 2024 15:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:21:30 GMT</lastBuildDate>
     <item>
-      <title>为什么投资者不介意人工智能是个无底洞</title>
-      <link>https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast</link>
+      <title>詹姆斯·冈恩希望 DC 影业能够制作各种类型的电影</title>
+      <link>https://www.theverge.com/2024/12/5/24314033/james-gunn-creature-commandos-dc-studios</link>
+      <description><![CDATA[
+
+Max / Warner Bros.
+
+在复活的尸体和人形动物之间，HBO 的新《Creature Commandos》系列看起来或听起来与华纳兄弟其他即将上映的以 DC 漫画人物为特色的项目完全不同。但 DC 影业联席主管詹姆斯·冈恩 (James Gunn) 表示，这是有意为之，也是他计划的一部分，即让影业成为一个只要有合适的剧本，任何类型的故事都可以获得批准的地方。
+虽然 DC 影业计划拍摄新的真人版蝙蝠侠、超人、绿灯侠，它以Creature Commandos拉开了其最新的电影宇宙的序幕，这是一部关于阿曼达·沃勒 (Viola Davis) 的怪物雇佣兵秘密小队的动画系列。该剧将与之前的 DC 剧集（如《和平使者》）和电影（如《自杀小队》）有一些巧妙的联系，但其另类的角色和 TV-MA 评级是 Gunn（与 Peter Safran 共同出演 DC Studios 剧集）将其视为新事物的开始的原因之一。
+在最近接受Variety 采访时，Gunn 将Creature Commandos描述为“软介绍”，它将立即确立超人类、怪物和魔法如何都是 DC Studios 互联世界的核心部分。旧版 DCEU 花了很长时间，也花费了不少钱，才将一些更奇幻的英雄和反派以自然的方式搬上了大银幕。但 Gunn 指出，他之所以对《怪物突击队》（他也是编剧）如此看好，部分原因归结为一个简单的事实：在动画中，“创造一个战场的成本与创造一个厨房的成本一样高。”
+Gunn 还解释说，《怪物突击队》感觉是一个很好的起点，因为它能够向观众传达 DC 工作室不会将其作品局限于家庭友好型电影的信息。
+“我们可以制作一些面向普通观众的作品，比如《超人》，”Gunn 说。 “我们可以制作一些暴力和色情的内容，比如《怪物突击队》——我不认为它有那么暴力和色情；《和平使者》既暴力又色情——但我希望每个项目都有自己的声音。这并不是要创造一个一切都充满性和暴力的世界。而是要创造一个我们可以用不同类型的角色讲述故事的世界。”
+DC 工作室并不是第一个尝试这个想法的——漫威在过去几年里一直在尝试，但结果好坏参半——但有趣的是，冈恩打算让它成为工作室品牌的核心。今晚《怪物突击队》在 Max 首映后，我们将有机会看到这个想法实际上会如何发挥作用。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24314033/james-gunn-creature-commandos-dc-studios</guid>
+      <pubDate>Thu, 05 Dec 2024 18:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止将生成式人工智能用作搜索引擎</title>
+      <link>https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge、TurboSquid
+
+一份伪造的总统赦免令解释了为什么你不能相信机器人发布新闻。
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire</guid>
+      <pubDate>Thu, 05 Dec 2024 18:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 每月收取 200 美元，用于其 o1“推理”模型的独家版本</title>
+      <link>https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier</link>
+      <description><![CDATA[
+
+图片：OpenAI
+
+OpenAI 正在为其旗舰聊天机器人 ChatGPT 创建一个更昂贵的新层级，并通过更新将其“推理”模型系列从预览中移除。
+该公司正在发布其 o1 模型的完整版本（取代 o1-preview），该模型最初于 9 月作为有限预览版发布（代号为“Strawberry”）。新模型将于今日面向 ChatGPT Plus 和 Team 用户推出，而 Enterprise 和 Edu 用户将从下周开始访问。
+
+该公司还推出了 ChatGPT Pro，这是一个新的 200 美元月度订阅套餐，包括无限制访问 OpenAI o1、GPT-4o 和高级语音模式。它还包括一个仅供 Pro 用户使用的 o1 版本，它使用更多的计算来为最难的问题提供最佳答案（称为 o1 pro 模式）。该公司将继续以每月 20 美元的价格提供 Plus 套餐，其中包括新功能的早期使用权、公司所有型号（功能更强大的 o1 版本除外）的使用权等。
+
+
+OpenAI
+OpenAI 比较了 o1 预览、o1 和 o1 专业模式的性能。
+
+The Verge 之前报道了该初创公司计划启动为期 12 天的新功能、新产品和演示“shipmas”期，其中将发布包括 OpenAI 期待已久的文本转视频 AI 工具 Sora 和一个新模型。
+
+该公司表示，与 o1-preview 相比，用户可以期待一个更快、更强大、更准确的模型，该模型在编码和数学方面更胜一筹。它还可以对图像提供“推理”响应。 OpenAI 承诺，它已经过训练，可以变得更加简洁，因此响应时间应该比 o1-preview 更快。
+OpenAI 计划在 ChatGPT 中增加对网页浏览、文件上传等功能的支持——尽管这些更改没有时间表。
+它还宣布了一项 ChatGPT Pro 资助计划，向领先机构的医学研究人员颁发 10 项 ChatGPT Pro 资助，并计划在各个学科颁发更多资助。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier</guid>
+      <pubDate>Thu, 05 Dec 2024 18:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>教皇乘坐梅赛德斯-奔驰首辆电动教皇专车</title>
+      <link>https://www.theverge.com/2024/12/5/24314084/pope-francis-popemobile-electric-mercedes-g-class</link>
+      <description><![CDATA[
+
+图片：梅赛德斯-奔驰
+
+教皇方济各将乘坐一辆全新的全电动教皇专车，此前他收到了梅赛德斯-奔驰改装的 G 级车，该公司周三宣布。 
+这是这家德国豪华汽车制造商推出的第一辆电动教皇专车，该公司过去 90 年来一直为梵蒂冈制造汽车。其中一半时间，教皇专车都以梅赛德斯 G 级旅行车为基础。现在，它将首次在该公司的电动汽车技术驱动下无污染运行。 
+“有了这辆新的教皇专车，教皇方济各是第一位在公开露面时乘坐全电动梅赛德斯奔驰的教皇，”首席执行官 Ola Kallenius 本周亲自将这辆车交给了教皇方济各。“这对我们公司来说是一项特殊的荣誉，我要感谢教皇对我的信任。通过这辆教皇专车，我们也在发出对电动汽车和脱碳的明确呼吁。”
+“通过这辆教皇专车，我们也在发出对电动汽车和脱碳的明确呼吁”
+这辆车经过改装，每个车轮上都使用四个独立的电机，以便在教皇在梵蒂冈城的圣彼得广场迎接游客时进行低速行驶。在后座，长椅被一个升高的可旋转单人座椅所取代，这样教皇就可以从各个方向面对他的追随者。在教皇座位后面还有两个座位，供其他乘客使用。 
+
+这是第一辆全电动教皇专车，但这并不是教皇方济各第一次体验零排放交通。梵蒂冈于 2012 年获赠一辆雷诺 Kangoo 电动面包车，但它并未用于官方交通。 2019 年，教皇方济各在日本乘坐氢动力丰田 Mirai 出行。梅赛德斯-奔驰甚至为教皇制造了混合动力教皇专车。
+多年来，一直有人提出要制造电动教皇专车。现已倒闭的电动汽车初创公司 Fisker 甚至在创始人 Henrik Fisker 于 2021 年与教皇方济各短暂会面后提议建造一辆。该公司今年早些时候宣布破产。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24314084/pope-francis-popemobile-electric-mercedes-g-class</guid>
+      <pubDate>Thu, 05 Dec 2024 17:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 15 的首个重大更新已经到来</title>
+      <link>https://www.theverge.com/2024/12/5/24313569/android-15-qpr1-pixel-december-feature-drop</link>
+      <description><![CDATA[
+
+从今天开始，Android 和 Pixel 手机将推出更多功能。 |插图由 Alex Castro / The Verge 提供
+
+得益于 Android 15 的首次季度平台更新，Android 手机和 Pixel 设备即将推出新功能。所有符合条件的 Android 手机的新功能包括更具描述性的视频字幕、由 Gemini 提供支持的 Lookout 应用更新以及适用于 Gemini 的 Spotify 扩展。Pixel 用户将获得一些额外的更新，包括为 Pixel 9 手机更深入地集成 Pixel Screenshots 应用。 
+增强型字幕（或谷歌称之为“表达性字幕”）添加了描述性短语，试图捕捉对话中的非口头时刻；想想 [喘气] 或 [掌声]。它们将出现在整个系统中您可以访问视频字幕的任何地方，包括社交媒体应用和视频消息。 
+
+
+图片：Google
+描述性字幕将捕捉音轨中发生的更多内容。
+
+另一项注重可访问性的更新针对 Lookout，这是一款为视力低下或失明人士提供照片和物体音频描述的应用。 Google 将其 Gemini 1.5 模型引入应用程序的图像问答部分，以便更好地描述使用该应用程序拍摄或打开的照片。这是 Google 在 I/O 上重点介绍的一项努力的延续，旨在为 Lookout 带来更多 AI 功能。
+在 AI 方面，Google 正在为 Gemini Assistant 添加更多扩展。Spotify 扩展 允许您通过 Gemini 播放来自 Spotify 的音乐。 Gemini Assistant 首次亮相时，缺少像这样的基本功能 — 非 AI Assistant 近十年来一直提供的功能。这是 Gemini 和标准 Google Assistant 功能对等的又一步。Gemini 还将获得已推出的 Utilities 扩展 的访问权限，允许它代表您执行更多操作，例如拨打电话、发送电子邮件和更改手机设置。
+此更新的其他亮点包括能够在 Gboard 中使用 Emoji Kitchen 创建贴纸、在 Quick Share 中使用二维码分享照片，以及改进 Google Drive 中收据等的扫描模式。
+Pixel 手机在 12 月的功能发布中获得了更多功能，其中包括专为 Pixel 9 系列提供的几项新功能。呼叫筛选功能通过上下文回复建议获得了可能有用的更新。当来电者与助手通话时，您可以点击回复来回答问题，而无需接听电话。
+
+
+图片：Google
+Gboard 将根据您添加到屏幕截图的内容提供一些建议短语。
+
+Pixel 9 的屏幕截图应用也进行了一些更新。现在，当您使用 Circle 进行搜索时，您可以选择将该搜索保存在屏幕截图应用中，这似乎是跟踪您之前查询的合理位置。您还可以启用新功能，根据您保存到屏幕截图的内容在 Gboard 中显示建议的搜索短语。如果您已通过屏幕截图将票证或信用卡添加到 Google Wallet，您也可以将它们保存在屏幕截图应用中。 
+上一代 Pixel 手机的功能下降中还有许多其他功能，包括身份检查，如果手机检测到它处于新位置并且正在访问敏感设置，则需要进行额外的身份验证。这一切从今天开始在搭载 Android 15 和 Pixel 6 及更新手机的手机上推出。
+]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24313569/android-15-qpr1-pixel-december-feature-drop</guid>
+      <pubDate>Thu, 05 Dec 2024 17:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软和谷歌正在争夺 Xbox 的未来</title>
+      <link>https://www.theverge.com/2024/12/5/24313976/microsoft-google-xbox-app-android-future-notepad</link>
       <description><![CDATA[
 
 图片：The Verge
 
-尽管 AI 利润不高，但 AI 投资规模巨大。投资者如何证明这场对未来的昂贵赌博是合理的？
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast</guid>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Waymo 的下一个自动驾驶出租车城市将是迈阿密</title>
-      <link>https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026</link>
-      <description><![CDATA[
-
-Cath Virginia / The Verge | 照片来自 Getty Images
-
-Waymo 正在向 Magic City 进军。 
-Alphabet 的机器人出租车服务表示将于 2026 年在迈阿密推出。该公司自 2019 年以来一直在佛罗里达州断断续续地测试其自动驾驶汽车，最近已开始认真奠定基础。 
-Waymo 计划于 2025 年开始让其自动驾驶捷豹 I-Pace 汽车“重返”迈阿密街头。预计到 2026 年，该公司将开始通过其 Waymo One 叫车应用向乘客提供其车辆。 
-Waymo 计划于 2025 年开始让其自动驾驶捷豹 I-Pace 汽车“重返”迈阿密街头
-这些车辆将由一家名为 Moove 的公司负责维护，该公司提供车队服务以及一系列面向移动出行公司的金融产品。这家非洲公司（在尼日利亚设有多个办事处）得到了优步的支持，最近估值 7.5 亿美元。
-Moove 将首先接管 Waymo 在凤凰城的车队管理业务。其中包括清洁车辆、为车辆充电，以及确保传感器经过校准且畅通无阻。
-Waymo 的自动驾驶出租车业务正在缓慢增长。它目前在旧金山、洛杉矶、奥斯汀和凤凰城运营无人驾驶汽车车队。它还计划与优步独家合作，在亚特兰大推出自动驾驶出租车服务。 Waymo 最近表示，其已突破每周提供 15 万次付费行程的门槛。
-迈阿密曾是福特支持的 ArgoAI 自动驾驶汽车测试的举办地，但当福特撤资时，该公司倒闭了。]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313346/waymo-miami-robotaxi-moove-2026</guid>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的《秘密关卡》是一部空洞的电子游戏过场动画选集</title>
-      <link>https://www.theverge.com/24313309/secret-level-review-amazon-prime-video</link>
-      <description><![CDATA[
-
-吃豆人。 |图片：亚马逊
-
-自从宣布以来，人们对Secret Level到底是什么感到困惑。Prime Video 上播放的以视频游戏为主题的选集 — 由爱、死亡和机器人创作者蒂姆·米勒执导 — 是一系列动画短片，每部都基于不同的游戏属性。因此，有一集《洛克人》探讨了该角色的起源，还有一集《洞穴探险》试图围绕 roguelike 的概念创造一个元叙事。 
-这是一个有趣的想法，但却因缺乏有趣的想法而失败。这 15 部短片几乎普遍乏味，既没有让原始素材看起来引人注目，也没有为现有粉丝提供新的见解。真正的困惑是这到底是为谁准备的。
-主要问题是《秘密关卡》的同质化程度。该节目直接与游戏发行商合作，从一系列古怪但又令人印象深刻的全球性游戏中挑选内容，其中包括中国热门游戏王者荣耀和韩国射击游戏穿越火线。尽管节目中有大量电子游戏，但每集都感觉非常相似。它与爱、死亡和机器人完全相反，后者在探索恐怖和科幻方面展现了多种不同的风格和基调。这就是我们……
+10 月，微软和谷歌再次开战，这一点已非常明显。在 2021 年结束长达六年的法律纠纷休战后，谷歌近几个月来一直在表达对微软云业务的担忧。这一争端目前处于“游说监管机构”阶段，但两家科技巨头之间的另一场分歧已蔓延到法庭和公共领域，可能会影响 Xbox 的未来。
+微软上周透露，它为 Android 建立了一个新的 Xbox 游戏商店，但一直无法推出。该商店依赖于一项重要的法院裁决，该裁决将迫使谷歌的 Play 商店进行全面改革，向竞争开放，并结束对应用程序使用 Google Play Billing 的要求。微软一直迫切希望监管机构采取行动，为其雄心勃勃的 Xbox 移动计划铺平道路。但在法院裁决带来短暂的希望之后，谷歌赢得了临时行政暂停，阻止了这些变化在 11 月生效。
+微软曾计划在其 Android 版 Xbox 应用中直接销售游戏，并允许客户立即将这些游戏直接流式传输到他们的手机和平板电脑上。这两个功能结合起来并不...
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24313309/secret-level-review-amazon-prime-video</guid>
-      <pubDate>Thu, 05 Dec 2024 15:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/5/24313976/microsoft-google-xbox-app-android-future-notepad</guid>
+      <pubDate>Thu, 05 Dec 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Meross 的这款新型智能恒温器可与 Matter 配合使用</title>
-      <link>https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs</guid>
-      <pubDate>Thu, 05 Dec 2024 14:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>宜家的智能灯现在可以全天自动调节</title>
-      <link>https://www.theverge.com/2024/12/5/24313938/ikea-ios-android-home-smart-app-lights-dirigera-adaptive-lighting</link>
+      <title>微软的 Copilot 现在可以使用 AI“视觉”与你一起浏览网页</title>
+      <link>https://www.theverge.com/2024/12/5/24313888/microsoft-copilot-vision-testing-websites</link>
       <description><![CDATA[
 
-宜家已更新其智能家居应用程序，为其智能灯带来动态照明。 |图片：宜家
+图片：The Verge
 
-宜家本周更新了其Home 智能移动应用程序，增加了一项新的动态照明功能，该功能可全天自动调节智能灯的色温和亮度。它类似于飞利浦 Hue 于 2022 年底推出的自然光场景，旨在在早晨和晚上提供更温暖的照明，在白天提供更冷的色调。
-这项新功能在iOS 版宜家家居智能应用最近更新的版本历史记录中提到，并被描述为一种“保持家居平衡”的方式，对身心健康都有好处。 宜家应用程序的 Android 版本已于同一天更新，根据 Notebookcheck，但那里没有提到新的自适应照明功能，只有错误修复和小改进。
-鉴于该功能与宜家的 Home smart 应用程序特别相关，因此它仅与连接到宜家的 Matter-ready Dirigera 智能家居中心于 2022 年下半年推出。其中包括其与 Sonos 兼容的 Symfonisk 扬声器灯等产品。但是，目前尚不清楚该功能是否可以通过 Matter 与第三方智能灯配合使用，The Verge 已联系宜家，确认它是否与 Apple Home 应用程序中的自适应照明功能兼容。]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313938/ikea-ios-android-home-smart-app-lights-dirigera-adaptive-lighting</guid>
-      <pubDate>Thu, 05 Dec 2024 14:36:05 GMT</pubDate>
+微软今天开始测试其新的 Copilot Vision 功能。 Copilot Vision 最初于 10 月发布，它可以让微软的 AI 伴侣看到你在浏览的 Edge 网页上看到的内容。然后，您可以向它询问有关您正在查看的文本、图像和内容的问题，或者使用它来帮助您。
+“当您选择启用 Copilot Vision 时，它会看到您所在的页面，它会和您一起阅读，并且您可以一起讨论您面临的问题，”Copilot 团队在博客文章中表示。 “浏览不再需要成为一种只有你和你所有标签的孤独体验。”
+这是一种完全可选的体验，你必须明确授予 Copilot Vision 权限才能读取 Microsoft Edge 浏览器中的网页。Microsoft 最初在 10 月份展示了该功能，展示了其 AI 助手如何读取网络上 OneDrive 上的集合中的图像，甚至解读手写食谱并提供烹饪技巧。您还可以在网上购物时使用此功能来查找产品推荐。
+
+Copilot Vision 目前处于有限测试阶段，仅通过 Microsoft 的 Copilot Labs 计划 向 Copilot Pro 订阅者提供。很明显，微软在这一特定功能上花了不少功夫，因为它允许人工智能模型开始读取你在网络浏览器屏幕上看到的内容，这自然会引起隐私问题。我相信围绕新的Recall 功能的安全问题在微软谨慎行事方面发挥了重要作用，该功能上个月开始测试。
+“在我们推出此功能时，Vision 将只与一组选定的网站进行交互，”Copilot 团队表示。 “随着时间的推移，我们将谨慎地扩大这个名单。需要强调的是，Vision 不会捕获、存储或使用任何来自发布商的数据来训练我们的模型。简而言之，我们优先考虑版权、创作者以及我们用户的隐私和安全——并将它们放在首位。”
+随着微软努力听取反馈并迭代 Copilot Vision，有限数量的 Copilot Pro 订阅者今天将能够在美国访问 Copilot Vision。它计划“随着时间的推移”扩大对更多 Pro 订阅者和网站的访问权限。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24313888/microsoft-copilot-vision-testing-websites</guid>
+      <pubDate>Thu, 05 Dec 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Twos 是一款方便的待办事项列表应用，具有恰到好处的人工智能</title>
-      <link>https://www.theverge.com/2024/12/5/24313672/twos-app-tasks-notes-ai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313672/twos-app-tasks-notes-ai</guid>
-      <pubDate>Thu, 05 Dec 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oura 智能戒指现在可以判断你何时生病</title>
-      <link>https://www.theverge.com/2024/12/5/24313465/oura-symptom-radar-illness-wearable-smart-ring</link>
+      <title>PlayStation 在伦敦举办现场活动，拉开电子竞技锦标赛系列的序幕</title>
+      <link>https://www.theverge.com/2024/12/5/24314105/playstation-tournaments-xp-off-esports-series-london-event</link>
       <description><![CDATA[
 
-当您没有呼吸道疾病的迹象、轻微迹象或严重迹象时，症状雷达会发出信号。 |照片由 Amelia Holowaty Krales / The Verge 拍摄
+《铁拳 8》将成为人们可以参与的游戏之一。
 
-在新冠疫情最严重的时候，许多可穿戴设备公司争相研究他们的设备是否可以检测出疾病的早期迹象。现在，四年过去了，Oura 正式推出了一项功能，可以在您可能患上呼吸道疾病时发出警报。
-从技术上讲，症状雷达本质上不是诊断性的——尽管它的开发确实源于 Oura 的疫情期间的疾病预测研究。它无法告诉您是感冒还是流感，还是新冠病毒。相反，它更像是一个“疾病警示灯”，当您的身体出现某些异常的早期迹象时，它会发出警报。
-“通过我们所做的所有研究和科学，我们发现您的生理机能实际上在您开始出现症状前一两天就开始发生变化，”Oura 的科学负责人 Shyamal Patel 告诉The Verge。从那里开始，我们的想法是采取预防措施。 
-
-
-图片：Oura
-症状雷达即将完成测试。
-
-从本质上讲，症状雷达通过评估静息心率、心率变异性、体温趋势和呼吸频率等指标来检测与长期基线相比的重大变化。当用户早上同步数据时，如果没有发现与呼吸道症状相关的任何迹象、轻微迹象或严重迹象，他们会收到通知。在出现轻微或严重迹象的情况下，Oura 应用程序将鼓励用户打开休息模式并采取措施优先休息。 
-症状雷达实际上是在 4 月通过 Oura 最近推出的实验室计划作为一项测试版功能推出的，该计划针对实验性功能。Patel 说，这是开发黄金时段该功能的重要部分。一方面，Oura 团队能够基于更大的数据集开发一种新算法。即便如此，Patel 也承认该算法并不是 100% 准确，可能会出现假阳性和假阴性； Oura 没有提供具体的准确性数据。
-Beta 用户还指出，他们实际上希望在未检测到症状时得到通知。鉴于此，Patel 表示，Symptom Radar 的官方版本现在将包含一个历史图表，以便人们可以看到他们的健康状况随时间的变化趋势。
-“看看 [人们] 如何从 [疾病] 中恢复过来也很有趣。这就是我看到一些有趣的事情的地方，我们可以朝着这个方向发展，”Patel 说。他指出，除了标记疾病之外，Symptom Radar 还可以成为一种有用的工具，帮助人们确定哪些因素有助于更快地从疾病中恢复。
-Symptom Radar 将于 12 月 9 日星期一向所有 Oura Ring Gen 3 和 Oura Ring 4 用户开放。]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313465/oura-symptom-radar-illness-wearable-smart-ring</guid>
-      <pubDate>Thu, 05 Dec 2024 14:00:00 GMT</pubDate>
+索尼正在通过一系列名为“PlayStation Tournaments: XP”的全新现场锦标赛活动，进一步加强其 PlayStation 电子竞技业务。第一场赛事将于 2025 年 1 月 18 日在伦敦举行，参赛游戏包括《铁拳 8》、《EA Sports FC 25》、《堡垒之夜》和《Astro Bot》。索尼在一篇博文中表示。 
+《铁拳 8》和《EA Sports FC 25》的公开预选赛今日开始，《堡垒之夜》的预选赛将于 12 月 6 日开始，《Astro Bot》的预选赛将于 12 月 13 日开始。如果您有资格参加现场活动，索尼将承担机票和住宿费用。索尼在一篇单独的博客文章中提供了有关资格赛的更多详细信息。
+1 月份的活动也将于 1 月 18 日在 PlayStation 的 Twitch 和 YouTube 频道上直播。]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24314105/playstation-tournaments-xp-off-esports-series-london-event</guid>
+      <pubDate>Thu, 05 Dec 2024 16:58:46 GMT</pubDate>
     </item>
     <item>
-      <title>Rivian 首次向其他电动汽车开放其充电网络</title>
-      <link>https://www.theverge.com/2024/12/5/24313327/rivian-ev-charging-open-up-joshua-tree</link>
+      <title>NZXT 回应 Flex PC 租赁计划争议，但事情还没有结束</title>
+      <link>https://www.theverge.com/2024/12/5/24313974/nzxt-flex-pc-rental-response</link>
       <description><![CDATA[
 
-图片：Rivian
+截图：NZXT.com
 
-Rivian 最新的电动汽车充电站是首个向其他公司车辆开放的充电站。 
-位于加州约书亚树国家公园的新充电站将成为两家公司首个向非 Rivian 电动汽车开放的充电站。该充电站采用全新设计，包括更大的显示屏和一键支付选项，可容纳任何汽车品牌的电动汽车。
-目前，Rivian Adventure Network 由遍布全国 92 个站点的 560 个充电器组成，仅供该公司 R1T 和 R1S 车辆的车主使用。这与特斯拉的做法类似，特斯拉最初建立了自己的超级充电网络，以便为自己的客户提供专属充电服务。
-但由于涉及数十亿美元的联邦资金，汽车制造商现在正在重新评估这种排他性。获得联邦资助安装电动汽车充电设施的要求之一是，所有电动汽车都需要配备充电器，而不仅仅是某个品牌。 
- Rivian Adventure Network 由遍布全国 92 个站点的 560 个充电器组成
-特斯拉于 2023 年开始向非特斯拉电动汽车开放其网络。此后不久，它开源了其充电插头，将其重新命名为北美充电标准 (NACS)，并开始制作一系列交易，与其他汽车行业（包括 Rivian）达成协议，将其用于电动汽车。 
-Rivian 的电动汽车充电器使用标准 CCS 连接器进行直流快速充电。但由于专有软件，这些充电站仍是 Rivian 车辆独有的。随着今天的公告，该公司正在开始解除这种排他性。 
+在Gamers Nexus 上周末发布了一段名为 NZXT 的 Flex PC 租赁计划的长视频之后 “骗局”，该公司周二发表声明作出回应，标题为“解决您对 Flex 订阅计划的担忧。” “我承认我们搞砸了，”NZXT 首席执行官 Johnny Hou 在一段视频中表示，并承诺做出一些改变，比如让可供出租或购买的电脑名称更容易区分。
+然而，Gamers Nexus 的说法并没有让他们满意，Gamers Nexus 发布了自己的回应，称 NZXT 的声明“不仅歪曲事实，而且扭曲了他们掠夺性租赁电脑计划的现实。该声明忽略了主要观点，并引发了几个新的担忧。”帖子称，GN 正在对该计划进行新的调查，“需要数周或数月才能完成”。
 
-Rivian 还表示，它将采用特斯拉的 NACS 充电标准。如果 Rivian 现有客户想要使用超级充电网络，可以购买适配器。 Rivian 表示，2026 年，它将开始生产带有原生 NACS 端口的车辆。
-Rivian 发言人 Evan Barbour 表示，该公司未来的电动汽车充电站也将向非 Rivian 电动汽车开放。Rivian 计划在 2024 年底之前在德克萨斯州、科罗拉多州、伊利诺伊州、蒙大拿州、宾夕法尼亚州、密歇根州和纽约州开设更多充电站。
-与此同时，当前的充电站将进行软件更新以适应其他品牌，以及硬件更新以添加 NACS 充电插头。与此同时，约书亚树和其他地点将向拥有 NACS 转 CCS 适配器的特斯拉车主开放。 
-目前，电动汽车所有权面临着相互竞争的标准、低于标准的软件体验和相互竞争的支付应用程序的纠结。虽然一些客户承认电动汽车充电体验正在慢慢改善，但适配器和以前专有的充电器普及的下一阶段才刚刚开始。 ]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313327/rivian-ev-charging-open-up-joshua-tree</guid>
-      <pubDate>Thu, 05 Dec 2024 14:00:00 GMT</pubDate>
+NZXT 表示，它正在采取两项主要行动，一是针对 PC 名称，例如将其“Player: One”租赁 PC 的名称更改为“Flex: One Subscription PC”，二是针对影响者活动，“这些声明没有准确反映我们 NZXT Flex 计划的细节。”NZXT 表示，它已经撤下了所有“影响者主导”的广告，同时更新了语言和流程。
+NZXT 表示，它也在调整其订户协议中的语言，并将明确表示该公司不会出售客户退回 PC 的用户数据。 “每台归还的 Flex PC 都已完全清除，”Hou 说道。
+Hou 还谈到了 Gamers Nexus 所说的租赁 PC 规格“每天都在”波动的问题，并指出由于组件可用性不断变化，Flex 计划“不会为您提供固定规格”。 “有时我们没有更多的供应，因此在此期间我们实际上必须更改 PC 的规格。”
+然而，这仍然无法解释为什么 NZXT 在不同组件的构建中显示相同的估计每秒帧数。The Verge 已就该计划联系了 NZXT，但该公司尚未回应。
+
+
+NZXT 发布了一份声明，该声明不仅歪曲了事实，而且扭曲了其掠夺性租赁计算机计划的现实。该声明忽略了主要观点并引入了几个新的担忧。 GamersNexus 已经意识到与这个故事相关的更深层次的元素……— GamersNexus (@GamersNexus) 2024 年 12 月 5 日
+
+
+]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24313974/nzxt-flex-pc-rental-response</guid>
+      <pubDate>Thu, 05 Dec 2024 16:36:19 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 与 Tom’s Guide 所有者 Future 达成内容协议</title>
-      <link>https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future</link>
+      <title>EA 为其无障碍计划增加了更多技术专利</title>
+      <link>https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents</link>
       <description><![CDATA[
 
-插图：The Verge
+EA 还发布了一款 UE5 插件，用于其 Iris 光敏技术，该技术已在《Madden NFL 24》（如图）等游戏中使用。 |图片：Electronic Arts
 
-OpenAI 正在与 Future 合作，后者是Tom’s Guide、PC 的出版商Gamer、TechRadar、Marie Claire 以及许多其他网站和杂志。该交易将使 ChatGPT 用户能够访问 Future 的 200 多个媒体品牌的新闻和生活方式内容，同时还显示“原始文章的归属和链接”。
-这增加了 OpenAI 近几个月来达成的一系列内容许可协议。除了 The Verge 的母公司 Vox Media 之外，OpenAI 还与《华尔街日报》所有者 News Corp、《人物》杂志出版商 Dotdash Meredith、Politico 母公司达成了协议。 href=&quot;https://www.theverge.com/2023/12/13/23999861/openai-axel-springer-chatgpt-ai-content-insider-politico&quot;&gt;Axel Springer、金融时报 和 大西洋月刊。然而，一些出版商，例如《纽约时报》、《The Intercept》和加拿大广播公司等，已起诉 OpenAI 侵犯版权。 id=&quot;jIWqSO&quot;&gt;
-OpenAI 表示，其与 Future 的交易建立在该公司“现有的 OpenAI 技术部署”的基础上，因为它已经在 Tom’s Hardware 和 Who What Wear 中推出了 AI 聊天机器人。Future 还计划将 OpenAI 的技术用于销售、营销和编辑目的。
-“通过此次合作，我们能够通过提供更多来自一系列专业来源的引人入胜、最新和可靠的信息，增强 ChatGPT 体验，”OpenAI 首席运营官 Brad Lightcap 在公告中表示。“我们的目标是帮助出版商和内容创作者从先进的 AI 技术中受益并扩大其影响力。”]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future</guid>
-      <pubDate>Thu, 05 Dec 2024 13:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>一位创作者如何利用极少量的人工智能来实现人工智能的可视化</title>
-      <link>https://www.theverge.com/2024/12/5/24306548/stormy-pyeatte-friend-or-faux-ai-interview</link>
-      <description><![CDATA[
+Electronic Arts 正在扩大其无障碍计划，增加 23 项技术专利，其他公司和开发者可以自由使用这些专利，而不会受到侵权诉讼。此次扩张使 EA 自 2021 年发起承诺 以来开放的专利总数增加了一倍多，并包括语音和音频的生成和识别工具。
+“我们相信游戏应该对每个人都开放，我们行业领先的团队一直在寻找新方法来实现这一目标，”EA 全球事务高级副总裁 Kerry Hopkins 在一份新闻稿中表示。 “通过向其他人提供这项技术，我们将继续努力消除意外的访问障碍，从而提高全球玩家的可访问性和包容性。”
+开放技术专利的一些示例包括可以改善语音识别、从文本数据生成富有表现力的语音音频以及基于最少的样本语音数据生成模仿玩家声音的语音的系统。一个系统使用机器学习使玩家的声音听起来更老，而另一个系统“在玩视频游戏时推断玩家的情绪”并自动调整游戏的背景音乐以最适合他们的情绪状态。
+EA 表示，这些专利可用于改善患有言语障碍或难以口头表达自己的玩家的游戏体验，帮助他们以更好地代表其年龄、情感、语言和说话风格的方式进行交流。除了发布此公告外，EA 还发布了一款虚幻引擎 5 插件，该插件支持在引擎内使用 IRIS（EA 的光敏性分析技术），以帮助游戏开发者识别可能影响光敏玩家的帧。
 
-照片：Stormy Pyeatte 为 The Verge 拍摄
-
-The Verge 的“Friend or Faux?”专题背后的艺术家解释了其设计背后的实际效果。
-阅读 The Verge 上的完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/5/24306548/stormy-pyeatte-friend-or-faux-ai-interview</guid>
-      <pubDate>Thu, 05 Dec 2024 13:30:00 GMT</pubDate>
+]]></description>
+      <guid>https://www.theverge.com/2024/12/5/24314026/ea-electronic-arts-expands-accessibility-pledge-tech-patents</guid>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
