@@ -4,7 +4,28 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 06 Dec 2024 21:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 01:17:18 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 与 Anduril 合作为美军提供人工智能</title>
+      <link>https://wired.jp/article/openai-anduril-defense/</link>
+      <description><![CDATA[OpenAI 宣布与国防工业建立合作伙伴关系。 ChatGPT 背后的公司正在追随 Meta 和 Anthropic 等大型科技公司的脚步。]]></description>
+      <guid>https://wired.jp/article/openai-anduril-defense/</guid>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Hebocon”展示了另一种未来，这是一场仅限“技术水平较低的人”参加的机器人竞赛</title>
+      <link>https://wired.jp/article/hebocon-10th-anniversary/</link>
+      <description><![CDATA[2024 年是 Hebocon 成立 10 周年，Hebocon 是一项机器人竞赛，将参赛者限制为技术水平较低的人。这项因其“河伯”外观和功能而受到赞誉的活动，现已传遍全球。它的魅力和深度是什么？]]></description>
+      <guid>https://wired.jp/article/hebocon-10th-anniversary/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从主编到SZ会员：“基于播客的编辑工作”SZ通讯VOL.265</title>
+      <link>https://wired.jp/article/sz-newsletter-265/</link>
+      <description><![CDATA[不知不觉中，编辑就开始在广播中讲话、拍摄视频，并在活动中担任推广者和主持人。我确信你的职业是一样的。主编致 SZ 会员的时事通讯，思考如何融化界限。]]></description>
+      <guid>https://wired.jp/article/sz-newsletter-265/</guid>
+      <pubDate>Fri, 06 Dec 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>妹岛和世为涩谷庆一郎即将举行的钢琴独奏音乐会设计的舞台设计首次公开！</title>
       <link>https://wired.jp/article/keiichiro-shibuya-playing-piano-living-room-kazuyo-sejima/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[红超巨星WOH G64的大小约为太阳的2000倍，目前正因超新星爆炸而濒临死亡。让我向您介绍欧洲南方天文台（ESO）观测设备拍摄的图像。]]></description>
       <guid>https://wired.jp/article/dying-red-supergiant-star-woh-g64/</guid>
       <pubDate>Wed, 04 Dec 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky首席执行官报告称用户已达2400万并努力防止“改善和恶化”</title>
-      <link>https://wired.jp/article/big-interview-jay-graber-bluesky-2024/</link>
-      <description><![CDATA[Bluesky 是一家与 X 竞争的快速发展公司，其首席执行官 Jay Graver 登上了《连线》主办的“The Big Interview”活动的舞台。 Graeber 谈到 Bluesky 已拥有 2400 万用户，以及该公司在没有广告的情况下继续发展的战略。]]></description>
-      <guid>https://wired.jp/article/big-interview-jay-graber-bluesky-2024/</guid>
-      <pubDate>Wed, 04 Dec 2024 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>离开 OpenAI 的 Mira Murati 对 AGI 仍持乐观态度</title>
-      <link>https://wired.jp/article/big-interview-mira-murati-2024/</link>
-      <description><![CDATA[OpenAI 前首席技术官 (CTO) Mira Murati 登上《连线》赞助活动“The Big Interview”的舞台。关于他的初创公司，穆拉蒂表示，虽然仍处于起步阶段，但通用人工智能（AGI）是他的主要关注点。]]></description>
-      <guid>https://wired.jp/article/big-interview-mira-murati-2024/</guid>
-      <pubDate>Wed, 04 Dec 2024 03:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 上疯传的那篇帖子很可能是由人工智能创建的。</title>
-      <link>https://wired.jp/article/linkedin-ai-generated-influencers/</link>
-      <description><![CDATA[新的分析显示，LinkedIn 上一半以上的长篇英语帖子可能是由人工智能生成的。 LinkedIn一直在积极融入AI工具，这似乎是一种符合平台特点的方法。]]></description>
-      <guid>https://wired.jp/article/linkedin-ai-generated-influencers/</guid>
-      <pubDate>Tue, 03 Dec 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
