@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 07 Dec 2024 06:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 09:17:07 GMT</lastBuildDate>
+    <item>
+      <title>研究结果显示，女性比男性睡得更少，醒得更频繁</title>
+      <link>https://wired.jp/article/females-sleep-less-than-males/</link>
+      <description><![CDATA[一项新的研究表明，女性比男性睡眠更少，醒来更频繁。这表明在许多使用动物实验的研究中将性别视为生物学变量的重要性。]]></description>
+      <guid>https://wired.jp/article/females-sleep-less-than-males/</guid>
+      <pubDate>Sat, 07 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TRANSPARENT 的再生铝扬声器看起来像雕塑</title>
+      <link>https://wired.jp/article/transparents-new-wireless-speaker-is-a-love-letter-to-brutalism/</link>
+      <description><![CDATA[TRANSPARENT 的新款扬声器以其透明扬声器而闻名，由回收铝制成。设计灵感源自 20 世纪 50 年代的粗野主义建筑风格。]]></description>
+      <guid>https://wired.jp/article/transparents-new-wireless-speaker-is-a-love-letter-to-brutalism/</guid>
+      <pubDate>Sat, 07 Dec 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美军“外骨骼动力服士兵”概念并未消亡</title>
       <link>https://wired.jp/article/the-us-armys-vision-of-an-exoskeleton-future-lives-on/</link>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 05 Dec 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>竹村光宏《边远：边远地区的文化史》书评：过度理性化的社会需要的是从外部看世界的“边远”视角。</title>
+      <title>竹村光宏《边远：一部边远地区的文化史》书评：过度理性化的社会需要的是从外部看世界的“边远”视角。</title>
       <link>https://wired.jp/article/outlying-mitsuhiro-takemura/</link>
       <description><![CDATA[之前的反主流文化和地下文化是如何为数字文化做好准备的？ 竹村光宏（Mitsuhiro Takemura）是一位媒体美学家，他是这段经常被忽视的文化历史的中心人物，他的自传于今年秋天出版。]]></description>
       <guid>https://wired.jp/article/outlying-mitsuhiro-takemura/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>OpenAI 从 Google DeepMind 挖来三名顶级工程师</title>
       <link>https://wired.jp/article/openai-hires-deepmind-zurich/</link>
-      <description><![CDATA[OpenAI聘请三位计算机视觉专家在人才竞争激烈的AI市场引起关注。这是竞争对手公司之间一系列转让中的一个象征性举措。]]></description>
+      <description><![CDATA[OpenAI聘请三位计算机视觉专家在人才竞争激烈的AI市场引起关注。在竞争对手公司之间进行大量转移的情况下，这是一个具有象征意义的举动。]]></description>
       <guid>https://wired.jp/article/openai-hires-deepmind-zurich/</guid>
       <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[亚马逊在Re:Invent开发者大会上发布了一系列公告，标志着其全面进军生成式AI领域。该公司宣布计划开发一款名为“Project Rainier”的大型人工智能超级计算机，配备内部芯片以及有助于提高人工智能可靠性的新工具。]]></description>
       <guid>https://wired.jp/article/amazon-reinvent-anthropic-supercomputer/</guid>
       <pubDate>Wed, 04 Dec 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字信息历史保存机构互联网档案馆面临的防御战</title>
-      <link>https://wired.jp/article/sz-internet-archive-memory-wayback-machine-lawsuits/</link>
-      <description><![CDATA[所有网络记忆都存储在非营利性互联网档案馆的服务器上。也就是说，除非一场法律斗争将一切消灭殆尽。]]></description>
-      <guid>https://wired.jp/article/sz-internet-archive-memory-wayback-machine-lawsuits/</guid>
-      <pubDate>Wed, 04 Dec 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒂姆·库克谈论苹果和人工智能的未来</title>
-      <link>https://wired.jp/article/vol55-the-big-interview-tim-cook/</link>
-      <description><![CDATA[蒂姆·库克表示，Apple Intelligence 并不是“AI”一词的双关语。库克的策略是探索从电子邮件自动完成到救生应用程序等各个领域的可能性。 《连线》的史蒂文·利维的独家采访将在全球同步播出。]]></description>
-      <guid>https://wired.jp/article/vol55-the-big-interview-tim-cook/</guid>
-      <pubDate>Wed, 04 Dec 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
