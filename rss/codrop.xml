@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sun, 08 Dec 2024 12:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:36:35 GMT</lastBuildDate>
+    <item>
+      <title>创建 Luma Dream Machine 网站的变形效果</title>
+      <link>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</link>
+      <description><![CDATA[了解如何使用 Canvas2D API 仅使用 JavaScript 创建这种强大的变形效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</guid>
+      <pubDate>Mon, 09 Dec 2024 11:25:10 GMT</pubDate>
+    </item>
     <item>
       <title>集体#887</title>
       <link>https://tympanus.net/codrops/collective/collective-887/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用 React Three Fiber 探索通过用户交互实现实时地形重塑。]]></description>
       <guid>https://tympanus.net/codrops/2024/11/27/creating-dynamic-terrain-deformation-with-react-three-fiber/</guid>
       <pubDate>Wed, 27 Nov 2024 11:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#884</title>
-      <link>https://tympanus.net/codrops/collective/collective-884/</link>
-      <description><![CDATA[进行对话 * tududi * 同意 * Tailwind CSS 缓和类]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-884/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
