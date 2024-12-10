@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 10 Dec 2024 12:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 15:20:17 GMT</lastBuildDate>
+    <item>
+      <title>集体#888</title>
+      <link>https://tympanus.net/codrops/collective/collective-888/</link>
+      <description><![CDATA[爱情、衍生品和循环 * 降临节日历 * 分析抗锯齿]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-888/</guid>
+      <pubDate>Tue, 10 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>创建 Luma Dream Machine 网站的变形效果</title>
       <link>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[原生双范围输入 * 更多样式选项 ]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-885/</guid>
       <pubDate>Fri, 29 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React Three Fiber 创建动态地形变形</title>
-      <link>https://tympanus.net/codrops/2024/11/27/creating-dynamic-terrain-deformation-with-react-three-fiber/</link>
-      <description><![CDATA[使用 React Three Fiber 探索通过用户交互实现实时地形重塑。]]></description>
-      <guid>https://tympanus.net/codrops/2024/11/27/creating-dynamic-terrain-deformation-with-react-three-fiber/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
