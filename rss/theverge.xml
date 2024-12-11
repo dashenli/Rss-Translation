@@ -4,167 +4,155 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 21:16:18 GMT</lastBuildDate>
     <item>
-      <title>Facebook、Instagram 和 Threads 均已瘫痪</title>
-      <link>https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-目前许多 Meta 应用都无法使用。对于 The Verge 的许多员工来说，Facebook、Instagram 和 Threads 目前无法加载，并且在您尝试加载时会显示错误消息。 Bluesky、X 和 Reddit 的报告显示，许多人都看到了同样的情况。
-在 Facebook 上，它只是说“我们正在努力尽快解决这个问题。”
-Downdetector 显示 Facebook、WhatsApp、Messenger 和 Instagram 的使用量突然大幅飙升，很多人受到了此次中断的影响。例如，在 Instagram Downdetector 页面上，已有超过 70,000 份有关该平台问题的报告，表明这是一个巨大而普遍的问题。显然，已经有超过 100,000 份报告关于 Facebook。
-Meta 没有立即回复置评请求。
-此次大规模中断是继 3 月份另一次大规模 Meta 中断之后，该中断导致 Facebook、Instagram 和 Threads 瘫痪。Meta 还于 2022 年 10 月发生，影响了 Instagram 和 Facebook。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318908/facebook-instagram-threads-down-outage-meta</guid>
-      <pubDate>Wed, 11 Dec 2024 18:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Homey增加了新的能源管理功能和加密狗</title>
-      <link>https://www.theverge.com/2024/12/11/24318680/homey-lg-smart-home-energy-management-features</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318680/homey-lg-smart-home-energy-management-features</guid>
-      <pubDate>Wed, 11 Dec 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软开始测试适用于 Windows PC 的 iPhone 文件共享</title>
-      <link>https://www.theverge.com/2024/12/11/24318886/microsoft-phone-link-file-sharing-ios-windows-pcs</link>
+      <title>Android 正在简化查找未知跟踪器以防止跟踪的流程</title>
+      <link>https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking</link>
       <description><![CDATA[
 
 插图由 Alex Castro / The Verge 提供
 
-微软已开始针对 iPhone 用户测试其 Phone Link 应用的一些改进。 Windows Insiders 现在可以尝试一种从 iPhone 到 PC 共享文件的新方法，反之亦然，让体验更像与 Android 设备共享文件。
-Windows Insiders 可以下载最新的 Phone Link 应用更新，版本 1.24112.89.0 或更高版本，它将包含一个新的设置对话框，以便在 iPhone 和 PC 之间共享文件。共享的工作原理是使用 iOS 上的共享表将文件发送到“链接到 Windows”应用程序，然后您可以选择要与之共享文件的 Windows 设备。
-在 Windows PC 上，您还可以通过右键单击文件并选择共享，然后选择“我的手机”来共享本地文件，以将文件从您的 PC 传输到您的 iPhone。 
-
-
-图片：微软
-iPhone 用户的新文件共享对话框。
-
-近年来，微软一直在逐步改进其适用于 iOS 和 Android 的 Phone Link 应用，但由于苹果操作系统的限制，iOS 版本仍然非常有限。去年，微软确实成功更新了 Phone Link，使其能够通过 iMessage 发送和接收消息。但即使是这种集成也是有限的，仅支持向单个联系人发送和接收消息，而不支持向群组发送和接收消息（通过 iMessage）。
-您仍然无法像使用 Android 那样使用 Phone Link 应用将手机应用镜像到 PC 上，而且您必须打开应用才能通过 iMessage 发送消息，因为微软正在使用蓝牙和系统通知解决方法来读取发送的消息。
-最新的文件共享更新现已面向 Windows Insiders 推出，并将在未来几个月内开始向所有 Phone Link 用户推出。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318886/microsoft-phone-link-file-sharing-ios-windows-pcs</guid>
-      <pubDate>Wed, 11 Dec 2024 17:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 测试将您的 Xbox 游戏流式传输到您的 Xbox</title>
-      <link>https://www.theverge.com/2024/12/11/24318876/xbox-tests-streaming-games-console</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-微软将让同时订阅 Game Pass Ultimate 的 Xbox Insiders 测试将他们已经拥有的一些 Xbox 游戏流式传输到 Xbox 的能力 从今天开始。如果您想直接进入游戏而不必安装整个程序，该功能可能会很有用；考虑到如今游戏文件的大小，通过云端流式传输游戏可能是一种更快的游戏方式，或可以避免您达到数据上限。 
-微软在其网站上公布了支持该功能的游戏列表。名单上有一些很棒的游戏，包括《Animal Well》、《Balatro》、《博德之门 3》、《赛博朋克 2077》和《波斯的代价：失落的王冠》。
-
-微软表示，你将能够在 Xbox Series X/S 和 Xbox One 游戏机上流式传输游戏，该功能将于明年开始测试。该公司上个月开始让 Xbox 玩家在电视和浏览器上流式传输他们拥有的精选游戏。。
+Google 正在对其未知跟踪器警报功能推出两项新更新，这将使 Android 设备所有者更容易检测不熟悉的跟踪器，公司于周三宣布。该安全功能于2023 年 7 月推出，如果有不需要的蓝牙追踪器与您同行，它会自动发送通知。
+第一个更新允许 Android 手机所有者在检测到未知的兼容追踪器时暂时停止向“查找我的设备”网络发送位置更新。 Google 将暂停这些更新长达 24 小时，这样任何可能通过标签监控您位置的人都无法看到您的位置。
+其次，任何收到未知跟踪器警报的人都可以使用“查找附近”功能找到不需要的“查找我的设备”兼容跟踪器。找到后，Google 还会提供如何物理禁用标签的说明。
+多年来，蓝牙跟踪器越来越多地被滥用。例如，家庭暴力者和跟踪者利用它来监视受害者，其中一项集体诉讼声称 AirTag 跟踪导致了“多起谋杀案”。作为回应，苹果和谷歌已经采取了各种措施打击跟踪行为，包括今年早些时候的一项声明，表示支持一项新的行业规范“检测不需要的位置跟踪器”，该规范适用于 iOS 和 Android。
 ]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318876/xbox-tests-streaming-games-console</guid>
-      <pubDate>Wed, 11 Dec 2024 17:59:09 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking</guid>
+      <pubDate>Wed, 11 Dec 2024 20:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 必须面对诉讼，指控其淡化了加密货币对其成功的影响</title>
-      <link>https://www.theverge.com/2024/12/11/24318794/nvidia-supreme-court-investor-lawsuit-cryptocurrency</link>
+      <title>如何负责任地处理你清理过的杂物</title>
+      <link>https://www.theverge.com/22594200/recycle-tech-declutter-environment-green</link>
       <description><![CDATA[
 
-插图：Cath Virginia / The Verge
+图片由 James Bareham / The Verge 提供
 
-在最高法院驳回该公司的上诉后，Nvidia 必须面对投资者诉讼，指控其误导股东了解加密货币市场对其销售的影响。
-法院表示，它“不合时宜地批准了”Nvidia 的请求，这意味着它决定一开始就不应该接受它。这意味着该案件将不得不继续在下级法院审理。据路透社报道，在上个月的口头辩论中，一些法官似乎对他们是否适合参与此案持怀疑态度，怀疑这是否更多的是事实争议而不是法律问题。 
-该案源于一对2018 年投资者诉讼，指控 Nvidia 鲁莽误导投资者其收入增长与加密货币表现的密切关系。投资者指控 Nvidia 及其高管作出了重大虚假指控，淡化了动荡的加密货币市场对其收入增长的影响，并夸大了其适应变化的能力。上诉法院已允许合并案的至少一部分继续推进。
-在 2022 年的另一起案件中，Nvidia 与美国证券交易委员会达成和解，要求其支付 550 万美元，原因是该委员会声称 Nvidia 掩盖了其成功与动荡的加密货币市场之间的关联。该公司在和解协议中没有承认有任何不当行为。
-在取得业务成功的同时，Nvidia 也面临着越来越严格的法律审查。据报道，该公司正面临来自中国当局和美国司法部的反垄断调查。
-“我们本来希望就案情做出裁定，确认初审法院驳回此案，但我们已做好充分准备继续辩护，”Nvidia 发言人 John Rizzo 在一份声明中表示。 “证券诉讼中一致且可预测的标准对于保护股东和确保强劲的经济至关重要，我们将继续致力于支持他们。”
-]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318794/nvidia-supreme-court-investor-lawsuit-cryptocurrency</guid>
-      <pubDate>Wed, 11 Dec 2024 17:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软希望将 Xbox 应用打造成 PC 游戏之家</title>
-      <link>https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-微软今天更新了 Windows 上的 Xbox 应用，添加了数百款之前没有的 PC 游戏和全新的家庭体验。这是一项更广泛努力的一部分，旨在使 Xbox 应用成为查找 PC 游戏的地方，无论它们是否属于 PC Game Pass。
-“今年夏初，我们开始与合作伙伴合作，将所有具有 Xbox 功能的 PC 游戏纳入 Xbox 应用，”Xbox 内容策划和项目总经理Chris Charla 解释道。 “我们非常期待看到未来游戏创作者将为 Windows PC 推出哪些 Xbox 游戏，并欢迎近 400 款之前无法在 Xbox 应用中发现或购买的游戏。”
-
-
-图片：微软
-新的 Xbox 应用主屏幕。
-
-这 400 款新游戏包括来自日本工作室的游戏，例如Kemco 和 Kairosoft，以及 Double 11 推出的《无敌者》等游戏。这些新游戏中有 100 多款也是 Xbox Play Anywhere，因此如果您购买 Xbox 主机版本，那么您也可以玩 Xbox PC 版本。“Xbox 通用所有权、Xbox 上的通用云存储以及主机和 PC（以及开发者自行决定的其他平台）上的 Xbox 版本之间的交叉游戏都是玩家喜爱的出色功能，”Charla 说。
-微软的博客文章中没有立即明确“将所有具有 Xbox 功能的 PC 游戏纳入 Xbox 应用程序”究竟意味着什么。近年来，微软一直在试图吸引游戏开发商进入其基于 Windows 的商店，甚至将其抽成从 30% 降至仅 12%，试图撼动 PC 游戏市场。
-尽管做出了这些努力，但仍有大量 PC 游戏在 Xbox 和 PC 版本之间具有跨平台游戏功能，但目前不属于 Microsoft Store 或 Xbox 应用程序。微软现在似乎正在努力将更多此类游戏引入 Xbox 应用程序，看看该公司是否会做出大胆的举动，很快在 Xbox 应用程序中列出 Steam、Epic Games Store 或 itch.io 游戏，这将很有趣。微软表示，它将在 3 月份的游戏开发者大会上分享更多关于其 Xbox 应用计划的信息。
-微软今天还将在 Windows 上推出 Xbox 应用的新主页 UI。主页 UI 现在包括来自 PC Game Pass 和 Microsoft Store 的特色内容，以及一系列优惠和折扣。微软还添加了一个“跳回”部分，让您可以像在 Xbox 游戏机上一样快速返回最近的游戏。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen</guid>
-      <pubDate>Wed, 11 Dec 2024 17:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>PS5 光驱现已恢复供货，但仅限 GameStop Pro 会员</title>
-      <link>https://www.theverge.com/2024/12/11/24318790/playstation-5-ps5-disc-drive-restock-gamestop-pro-members</link>
-      <description><![CDATA[
-
-我们从未想过如此简单的附件会如此难以获得。 |图片：索尼
-
-索尼为 PlayStation 5 提供的可拆卸光盘驱动器最近很难买到，令人失望的是，售价 700 美元的 PS5 Pro 并未配备该驱动器。然而，GameStop 现在为 GameStop Pro 会员提供了一个难得的机会，可以以原价 79.99 美元的价格购买一台。 
-
-GameStop 的忠诚度计划每年收费 25 美元，因此如果您对其其他福利不感兴趣，可以将其视为额外保费。其中包括 5 美元的欢迎奖励、2% 的现金返还奖励、免费送货、独家优惠和折扣以及额外的 5 美元月度奖励。
-
-无论您已经拥有还是计划购买仅限数字版的 PS5，例如最新数字版或最近发布的 PS5 Pro，趁有机会时买一台是个好主意。这两款游戏机都不需要光盘驱动器，但由于无法保证您最喜欢的游戏在游戏机一代结束后仍可供下载，因此它可以让您高枕无忧。该插件还确保物理媒体保护主义者可以继续使用物理游戏副本，尽管您可能仍需要下载额外的数据才能玩其中的许多游戏。它还允许您播放整个蓝光和 DVD 收藏。
-PS5 光盘驱动器的巧妙之处在于它隐藏在盖子下，使其看起来像是整体硬件的无缝组成部分。设置也很简单，只需在将其与您的控制台配对之前连接电缆即可。您需要互联网连接进行初始设置，但这对于获得长期利益来说只是一个小小的不便。
-]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318790/playstation-5-ps5-disc-drive-restock-gamestop-pro-members</guid>
-      <pubDate>Wed, 11 Dec 2024 17:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看体育比赛：The Verge 特别系列</title>
-      <link>https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai</link>
-      <description><![CDATA[
-
-
-在家观看直播电视应该很简单。
-但根据运动项目的不同，您可能需要注册（并支付高额费用）许多不同的服务才能跟上。
-有些罕见的联赛，如美国职业足球大联盟，可以在一个频道上观看。 （在美国，每场比赛都可以通过 Apple TV Plus 观看直播。）但跟上大多数体育赛事的节奏就像网球一样，网球四大赛事的转播权分散在几个不同的平台上。
-总的来说，随着大型流媒体平台与传统广播公司向数字化转型，备受追捧的转播权让联赛赚得盆满钵满。对观众来说，不利的影响是许多职业体育赛事现在在许多不同的地方“独家”播出。
-基本上，观看体育赛事从未如此简单。而且这也从未如此困难。
-NFL 流媒体选项的高成本
-在美国，您可以通过 Sunday Ticket 观看大部分 NFL 直播比赛，整个赛季的费用为 349 美元，此外您还需要以每月 72.99 美元的价格订阅 YouTube TV。从第一周到超级碗周日，六个月的橄榄球比赛（437.94 美元）……
+虽然我们总是被告知如何简化我们狭窄的居住空间并摆脱所有我们不再使用或穿着的东西，但通常很难弄清楚如何负责任地做到这一点而不增加世界上多余的垃圾。 
+因为直接丢弃它们不是一种选择，所以重复使用和回收旧的和不需要的东西已成为保护世界环境的重要方面。许多州和城市地区都要求回收技术、金属、纸制品或其他物质，但即使你住在法律没有要求的地方，你可能仍然想做正确的事情。
+问题在于找到如何以及在哪里可以以对你最有利的方式处理你的东西，同时对环境的损害最小。过去几年，这可能比平时更加​​困难，因为许多回收资源在 covid-19 大流行期间被暂停，有些资源恢复得很慢——或者从未恢复过。但是，仍然有许多在线服务可以帮助您弄清楚如何负责任地处理物品 - 并且可能在此过程中赚一些钱。
+这里有一些资源可供查看，具体取决于...
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai</guid>
-      <pubDate>Wed, 11 Dec 2024 17:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/22594200/recycle-tech-declutter-environment-green</guid>
+      <pubDate>Wed, 11 Dec 2024 20:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>《指环王：洛希尔之战》是一次没有灵魂的中土世界回归</title>
-      <link>https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review</link>
+      <title>《纽约时报》科技工作者在选举周罢工后赢得临时工会合同</title>
+      <link>https://www.theverge.com/2024/12/11/24319022/nyt-times-tech-guild-workers-win-tentative-union-contract</link>
       <description><![CDATA[
 
-图片：华纳兄弟动画
+照片由 Erik McGregor/LightRocket 通过 Getty Images 拍摄
 
-导演神山健司的新《指环王》动画电影给人的感觉就像是试图将脚注变成一部长篇故事。
-阅读 The Verge 上的完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318164/lord-of-the-rings-war-of-the-rohirrim-review</guid>
-      <pubDate>Wed, 11 Dec 2024 17:00:00 GMT</pubDate>
+纽约新闻公会 周三宣布，它已代表时代科技协会与《纽约时报达成了一项临时协议。这份为期三年的临时合同将是该协会的第一份合同，该协会最初成立于2021年。 
+这项临时协议是在美国总统大选前一天于11 月爆发罢工之后达成的，罢工持续了一周多。在罢工期间，该协会要求人们不要玩《纽约时报》的游戏，例如《Wordle》和《Connections》，并专门设立了一个页面，推荐大家玩《罢工主题》版本的游戏。新闻协会在新闻稿中表示，该网站的“页面浏览量超过 50 万次，活跃用户超过 32 万”。
+该协会将于 12 月 19 日投票批准该合同。以下是 NewsGuild 新闻稿中合同的一些亮点：
+
+通过“正当理由”保护增强工作保障
+首次保证工资增长高达 8.25%（加上额外的基本费率自由裁量补偿），在合同有效期内优先为最低薪资成员提供最大工资增长
+对随叫随到的工作提供额外补偿
+重要保护措施，锁定额外可变薪酬（包括股票和奖金）的护栏
+加强对持签证工人的保护
+保证灵活混合工作时间表的语言
+与职业发展、绩效评估和其他工作场所问题相关的流程和透明度保护
+
+“我们很高兴与科技协会达成初步协议，”纽约时报发言人 Danielle Rhoades Ha 在给 The Verge 的一份声明中表示。
+12 月 11 日更新：添加了纽约时报声明。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24319022/nyt-times-tech-guild-workers-win-tentative-union-contract</guid>
+      <pubDate>Wed, 11 Dec 2024 20:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>《洋葱报》收购《信息战争》遭法官阻止</title>
-      <link>https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge</link>
+      <title>最好的门铃摄像头</title>
+      <link>https://www.theverge.com/22954554/best-video-doorbell-camera</link>
       <description><![CDATA[
 
-照片由 Joe Buglewicz/Getty Images 拍摄
+图片：Cath Virginia / The Verge
 
-The Onion 收购 InfoWars 不会发生 — 至少目前不会。据《纽约时报》报道，周二，德克萨斯州破产法官在一项裁决中驳回了《洋葱报》收购亚历克斯·琼斯创办的充满阴谋的网站。上个月，《洋葱报》在琼斯资产的破产拍卖中宣布，已收购了《InfoWars》。该行动得到了桑迪胡克小学枪击案受害者家属的支持，他们成功起诉琼斯索赔 10 多亿美元，原因是他散布虚假信息。然而，克里斯托弗·洛佩兹法官拍卖结束后不久就叫停了此次拍卖。
-据《泰晤士报》报道，洛佩兹不同意琼斯资产出售时采用的密封竞标程序，称拍卖没有“最大化”琼斯债权人从出售《InfoWars》中获得的资金。据《泰晤士报》报道，洛佩兹法官在宣布裁决时表示：“从他们决定采用密封竞标的那一刻起，似乎就注定要失败。” “没人知道其他人在出价。”
+我们挑选了最好的视频门铃摄像头，用于监视前廊上的人、包裹和其他任何东西。 
+阅读 The Verge 上的完整报道。]]></description>
+      <guid>https://www.theverge.com/22954554/best-video-doorbell-camera</guid>
+      <pubDate>Wed, 11 Dec 2024 19:54:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cruise 的终结意味着自动驾驶汽车将进入一个充满风险的新阶段</title>
+      <link>https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk</guid>
+      <pubDate>Wed, 11 Dec 2024 19:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>监察长称特朗普司法部违反政策试图了解记者的消息来源</title>
+      <link>https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report</link>
+      <description><![CDATA[
 
+图片：Cath Virginia / The Verge
 
-The Onion 关于 InfoWars 的声明。— Tim Onion (@bencollins.bsky.social) 2024-12-11T05:14:01.469Z
+司法部监察长在一份新报告中声称，特朗普政府执政期间，司法部曾违反机构政策，试图查明记者的消息来源。。
+总检察长指控该机构寻求《纽约时报》、《华盛顿邮报》和 CNN 八名记者的“非内容通信记录”——电子邮件日志等信息，而不是这些对话的内容。《纽约时报》此前报道，特朗普的司法部正在调查前联邦调查局局长詹姆斯·科米是否是 2017 年泄露的有关俄罗斯黑客的机密信息的来源。
+这份报告发布于当选总统唐纳德·特朗普在大选获胜后准备就任仅一个多月前，并引发了人们对他的政府未来将如何处理类似信息请求的质疑。参议院多数党领袖查克·舒默 (Chuck Schumer，纽约州民主党人) 试图于周二一致通过《保护记者免受剥削性国家间谍活动 (PRESS) 法案》，但遭到参议员汤姆·科顿 (Tom Cotton，阿肯色州共和党人)的阻止。如果该法案获得通过，将有助于保护记者免于透露消息来源。
+“我们认为，司法部偏离自身要求的做法表明存在令人不安的差距”
+监察长发现，特朗普第一任期内的司法部未能遵守政策，要求获取记者的记录，包括忽视召集委员会审查强制性记录请求。据称，这一违规行为发生在奥巴马政府下属司法部“彻底改革”其新闻媒体政策的几年后，此前该部门因对记者采取激进策略而遭到强烈反对。 “我们很担心，这些失误发生在这次改革仅仅几年后，”监察长办公室写道。
+监察长据称发现，特朗普的司法部还向两名国会议员和 43 名来自不同政治派别的国会工作人员索要类似的记录，尽管当时司法部还没有针对此类信息收集的政策。
+“我们认为，司法部偏离自身要求的做法表明，一方面，司法部政策中表达了对新闻媒体在美国民主中的作用的重视，另一方面，司法部致力于遵守旨在保护这一作用的限制和要求，这两者之间存在令人不安的差距，”监察长的报告称。 
+在报告中附上的司法部副检察长布拉德利·温斯海默的备忘录中，该机构指出，报告的大部分内容都集中在“该部门修订后的新闻媒体和国会调查政策实施之前所采取的行动，这些政策改变了操作要求。”尽管如此，司法部还是同意监察长提出的核心建议，包括考虑改变某些信息请求如何上报给更高级官员。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report</guid>
+      <pubDate>Wed, 11 Dec 2024 19:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Pro 现在可让你在语音备忘录中分层录音</title>
+      <link>https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos</link>
+      <description><![CDATA[
 
+图片：Apple
 
-The Onion 出价 700 万美元收购 InfoWars，其中包括从其母公司 Global Tetrahedron支付的 175 万美元，其余部分将来自桑迪胡克家庭在与琼斯的诉讼中赢得的赔偿金，泰晤士报报道。尽管存在这一障碍，Global Tetrahedron 仍打算收购 InfoWars，目标是用“无休止的幽默永远取代该网站”。
-“我们对今天的决定深感失望，但 The Onion 将继续寻求解决方案，帮助桑迪胡克家庭为他们所经历的恐怖得到积极的结果，”The Onion 首席执行官 Ben Collins 在 Bluesky 的一篇文章中表示。“我们还将在未来几周继续寻找收购 InfoWars 的途径。”]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318745/the-onion-infowars-acqusition-blocked-judge</guid>
-      <pubDate>Wed, 11 Dec 2024 16:34:31 GMT</pubDate>
+Apple 正在将分层录音引入iPhone 16 Pro 和 Pro Max 上的语音备忘录应用程序。借助新功能，您可以在在 iOS 18.2中大声聆听乐器曲目的同时录制人声。
+尽管麦克风在技术上会拾取乐器，但 Apple 表示 iPhone 16 的 A18 Pro 芯片允许它通过“高级处理和机器学习”隔离人声，让语音备忘录仅使用您的声音创建单独的音轨。从那里，您可以混合两层，以及单独编辑或收听它们。 
+
+Apple 在 9 月推出 iPhone 16 Pro 时首次宣布了此功能。在支持页面上，Apple 指出，您仍然可以在任何搭载 iOS 18.2 的设备上收听多轨录音，但它们不适用于运行更早版本的设备。您必须将音轨分开，才能在搭载旧版 Apple 操作系统的设备上运行。
+添加分层录音应该会使语音备忘录对音乐家和创作者更加有用，特别是因为它们可以同步到 Mac 和 iPad 上的语音备忘录，让您将它们放入 Logic Pro 进行编辑。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos</guid>
+      <pubDate>Wed, 11 Dec 2024 19:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在您可以以 1080p 的速度参观 Roku City</title>
+      <link>https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade</link>
+      <description><![CDATA[
+
+图片：Roku
+
+Roku City 是 2018 年推出的紫色城市景观屏保，下次您滚动浏览时，它可能会看起来更清晰、更细致。本周，Roku 将屏保的分辨率提高到 1080p；到目前为止，它仍然停留在 720p 上——尽管它在数百万台 4K Roku 电视和支持 4K 的流媒体播放器上运行。如果你问我，这是亵渎，所以看到一些进步是件好事。
+这个出人意料地受欢迎的虚构天际线也正在更新，增加了“扩展的调色板”和更多的活动和复活节彩蛋，如果你仔细观察就会发现。显然那里有一个火车站，所以 Roku City 的居民获得了公共交通系统。广告牌“现在将有一个新的星形按钮，让观众了解原创 Roku 内容、Roku 区域等内容。” （如果我不得不猜测的话，末尾的“更多”可能指的是广告和赞助内容。）
+我们花了六年时间才实现全高清。因此，如果这个节奏保持下去，也许到 2030 年，我们都将以原生 4K 体验 Roku City。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade</guid>
+      <pubDate>Wed, 11 Dec 2024 19:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>苔原持续燃烧，正在改变北极</title>
+      <link>https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+几千年来，北极苔原一直通过将碳储存在冻土中来帮助稳定全球气温。根据昨天在美国地球物理联合会 (AGU) 会议上发布的最新北极报告卡，野火改变了这一现状。
+由于气候变化而加剧的火灾释放出土壤和植物中捕获的碳。更频繁的火灾现在已将苔原变成了二氧化碳的净排放源。这对北极来说是一个巨大的转变，将使地球变得更热。
+“气候变化不会带来新常态。相反，气候变化正在带来持续而快速的变化，”北极报告卡主编、国家冰雪数据中心副首席科学家 Twila Moon 昨天在会议上表示。。
+“气候变化并没有带来新常态。”
+北极的永久冻土全年保持冻结状态，数千年来一直封存着导致地球变暖的碳。据估计，北方永久冻土所含的碳量约为大气中的两倍。苔原是指北极无树的平原，灌木、草和苔藓生长在那里，通过……吸收二氧化碳
+阅读 The Verge 上的完整报道。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change</guid>
+      <pubDate>Wed, 11 Dec 2024 19:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krispy Kreme 遭受网络攻击</title>
+      <link>https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering</link>
+      <description><![CDATA[
+
+图片：Krispy Kreme
+
+Krispy Kreme 目前正在处理网络安全漏洞，该漏洞已导致其在美国的部分在线甜甜圈订购服务瘫痪。自 11 月 29 日检测到未经授权访问其系统以来，该公司已努力解决该问题超过一周。
+在周三提交给美国证券交易委员会的文件中，Krispy Kreme 表示，它“已收到有关其部分信息技术系统未经授权活动的通知”，并聘请了“领先的网络安全专家”进行补救。
+该事件导致 Krispy Kreme 的消费者在线订购业务中断，但并未影响其商业分销业务。然而，该公司表示，该事件对其业务运营“产生了重大影响”，并且由于网络安全专家和顾问的费用，该事件将产生重大财务影响。除此之外，Krispy Kreme 表示，它有网络安全保险，并且预计不会“对其运营结果和财务状况产生长期重大影响”。
+Krispy Kreme 拒绝就网络安全事件的原因发表评论。正如 Bleeping Computer 的一份报告所推测的那样，该时间表可能表明该公司正在与可能的威胁行为者进行谈判，以免泄露内部数据。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering</guid>
+      <pubDate>Wed, 11 Dec 2024 18:47:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 21:18:02 GMT</lastBuildDate>
+    <item>
+      <title>保罗·施拉德最喜欢的小说</title>
+      <link>https://www.newyorker.com/books/book-currents/paul-schraders-all-time-favorite-novels</link>
+      <description><![CDATA[这位导演的最新影片《哦，加拿大》于今年 12 月上映，他在影片中讨论了自己最喜欢的四部小说。]]></description>
+      <guid>https://www.newyorker.com/books/book-currents/paul-schraders-all-time-favorite-novels</guid>
+      <pubDate>Wed, 11 Dec 2024 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年是创作者掌权的一年</title>
+      <link>https://www.newyorker.com/culture/2024-in-review/the-year-creators-took-over</link>
+      <description><![CDATA[注意力经济已主导互联网十多年，但它的主角从未感觉自己对美国人的生活如此重要，也从未如此直接地掌握权力的杠杆。]]></description>
+      <guid>https://www.newyorker.com/culture/2024-in-review/the-year-creators-took-over</guid>
+      <pubDate>Wed, 11 Dec 2024 20:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>妮基·乔瓦尼的黑人爱情遗产</title>
+      <link>https://www.newyorker.com/culture/postscript/nikki-giovannis-legacy-of-black-love</link>
+      <description><![CDATA[缅怀一位不可磨灭的美国作家和活动家。]]></description>
+      <guid>https://www.newyorker.com/culture/postscript/nikki-giovannis-legacy-of-black-love</guid>
+      <pubDate>Wed, 11 Dec 2024 19:11:10 GMT</pubDate>
+    </item>
     <item>
       <title>每日漫画：12 月 11 日星期三</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-december-11th-mayor-godzilla</link>
@@ -20,9 +41,9 @@
       <pubDate>Wed, 11 Dec 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>卡什·帕特尔 vs. J. 埃德加·胡佛</title>
+      <title>卡什·帕特尔 (Kash Patel) 与约翰·埃德加·胡佛 (J. Edgar Hoover)</title>
       <link>https://www.newyorker.com/news/the-lede/kash-patel-vs-j-edgar-hoover</link>
-      <description><![CDATA[如果特朗普对联邦调查局局长的提名得到确认，该局可能会被政治化，就连其臭名昭著的第一任局长都会拒绝接受这种政治化。]]></description>
+      <description><![CDATA[如果特朗普选择领导联邦调查局的决定得到确认，该局可能会被政治化，就连其臭名昭著的第一任局长都会拒绝这样做。]]></description>
       <guid>https://www.newyorker.com/news/the-lede/kash-patel-vs-j-edgar-hoover</guid>
       <pubDate>Wed, 11 Dec 2024 11:00:00 GMT</pubDate>
     </item>
@@ -41,13 +62,6 @@
       <pubDate>Tue, 10 Dec 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 的空洞诱惑</title>
-      <link>https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped</link>
-      <description><![CDATA[今年的回顾，充斥着人工智能机器人和平淡无奇的演示，揭示了一家似乎主要关心利润率和压制竞争对手的公司。]]></description>
-      <guid>https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped</guid>
-      <pubDate>Tue, 10 Dec 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>你是不是反应过度了？</title>
       <link>https://www.newyorker.com/culture/open-questions/are-you-overreacting</link>
       <description><![CDATA[当挑衅成为生活中自然而又不可避免的一部分时，如何生存。]]></description>
@@ -62,6 +76,13 @@
       <pubDate>Tue, 10 Dec 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Spotify 的空洞诱惑</title>
+      <link>https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped</link>
+      <description><![CDATA[今年的回顾，充斥着人工智能机器人和平淡无奇的演示，揭示了一家似乎主要关心利润率和压制竞争对手的公司。]]></description>
+      <guid>https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped</guid>
+      <pubDate>Tue, 10 Dec 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Kendrick Lamar 的巅峰之年</title>
       <link>https://www.newyorker.com/culture/2024-in-review/kendrick-lamars-year-on-top</link>
       <description><![CDATA[对于那些今年选择与拉马尔作对的人来说，拉马尔既令人着迷又有点危险，因为他似乎并不渴望同龄人所拥有的任何东西。]]></description>
@@ -71,7 +92,7 @@
     <item>
       <title>巴沙尔·阿萨德政权如何垮台</title>
       <link>https://www.newyorker.com/news/q-and-a/how-bashar-al-assads-regime-crumbled</link>
-      <description><![CDATA[伊朗的虚弱、摇摇欲坠的经济以及新的政治裂痕导致一个王朝的终结。]]></description>
+      <description><![CDATA[伊朗的虚弱、摇摇欲坠的经济以及新的政治裂痕导致一个王朝的惊人终结。]]></description>
       <guid>https://www.newyorker.com/news/q-and-a/how-bashar-al-assads-regime-crumbled</guid>
       <pubDate>Mon, 09 Dec 2024 22:18:01 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[乔丹·尼利死亡案的审判让佩妮成为右翼关注的焦点，并成为大城市犯罪和私刑争论的焦点。]]></description>
       <guid>https://www.newyorker.com/news/the-lede/how-daniel-penny-was-found-not-guilty-in-a-subway-killing-that-divided-new-york</guid>
       <pubDate>Mon, 09 Dec 2024 17:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日漫画：12 月 9 日星期一</title>
-      <link>https://www.newyorker.com/cartoons/daily-cartoon/monday-december-9th-feel-better</link>
-      <description><![CDATA[“自从我不再看新闻后，我感觉好多了。”]]></description>
-      <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-december-9th-feel-better</guid>
-      <pubDate>Mon, 09 Dec 2024 14:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>读者来信</title>
-      <link>https://www.newyorker.com/magazine/2024/12/16/letters-from-the-december-16-2024-issue</link>
-      <description><![CDATA[读者对亚当·戈普尼克 (Adam Gopnik) 关于人群的文章和萨曼斯·苏布拉马尼安 (Samanth Subramanian) 关于印度语言的文章做出了回应。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/12/16/letters-from-the-december-16-2024-issue</guid>
-      <pubDate>Mon, 09 Dec 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能写得比泰勒·斯威夫特更好吗？</title>
-      <link>https://www.newyorker.com/magazine/2024/12/16/can-you-write-it-better-than-taylor-swift</link>
-      <description><![CDATA[一位《说出来》和《民间传说》的欣赏者与一屋子的年轻作家一起在俄亥俄州文学中心瑟伯之家参加了一堂受这位流行歌星启发的课程。]]></description>
-      <guid>https://www.newyorker.com/magazine/2024/12/16/can-you-write-it-better-than-taylor-swift</guid>
-      <pubDate>Mon, 09 Dec 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
