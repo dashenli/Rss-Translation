@@ -4,7 +4,62 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Dec 2024 21:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:17:17 GMT</lastBuildDate>
+    <item>
+      <title>Steam 正在为游戏更新添加新的默认选项</title>
+      <link>https://www.theverge.com/2024/12/11/24319225/valve-steam-default-option-game-updates-wait</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Valve 正在新 Steam 客户端测试版中测试一个选项，该选项将默认强制游戏仅在您启动时下载更新
+目前，Steam 默认根据几个不同的因素决定下载哪些游戏更新。正如 Valve 所解释的那样：
+对于您最近玩过的游戏，Steam 会在游戏更新发布后不久下载它们。对于您有一段时间没玩过的游戏，Steam 可能会等待几天将多个更新捆绑在一起，或者选择在您睡觉时下载更新。
+这个等待下载更新的新默认选项为玩家提供了更多控制权；正如 Valve 指出的那样，这意味着用户可以推迟更新大型游戏，直到他们真正想要玩它，这对带宽受限的人来说可能是一种解脱。
+您会在 Beta 版 Steam 客户端设置的“下载”部分下找到新选项。 Valve 表示：“您可以将默认设置设置为：让 Steam 决定何时更新游戏（基于您上次玩游戏的时间、带宽可用性等因素）或等到游戏启动后再更新。”
+您仍然可以在游戏的“属性”中设置覆盖全局设置的每个游戏下载设置，但据 Valve 称，这些选项的描述已经“简化”。在测试版中，您还可以在 Steam 客户端的总体“下载”设置中管理每个游戏的覆盖设置。
+
+
+图片：Valve
+Steam 客户端使用“清理后的描述”更新设置。
+]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24319225/valve-steam-default-option-game-updates-wait</guid>
+      <pubDate>Thu, 12 Dec 2024 00:36:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是目前最好的 iPad 优惠</title>
+      <link>https://www.theverge.com/21280354/best-ipad-deals-apple</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/21280354/best-ipad-deals-apple</guid>
+      <pubDate>Wed, 11 Dec 2024 23:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 iPhone 的最佳 MagSafe 和 Qi2 充电器</title>
+      <link>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+多亏了 Qi2，现在有比以往更多适合 MagSafe 手机的优质充电器了。
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone</guid>
+      <pubDate>Wed, 11 Dec 2024 23:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 计划推动其产品团队重返办公室</title>
+      <link>https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+据 The Verge 了解，Sonos 很快将鼓励其各个产品团队中居住在美国办公地点附近的员工每周至少来公司上班两天。这与该公司的过去相比有着显著的不同，Sonos 一直积极支持完全远程和混合工作。 Sonos 的招聘启事经常指出“这关乎影响力，而非位置”。Glassdoor 评论长期以来一直支持这一观点，员工表示没有压力要来办公室。
+但随着 Sonos 继续努力在今年的应用程序事故之后纠正错误并继续推出即将推出的产品，这种松懈的立场将略有改变。该公司正在采取一项更严格的政策，要求圣巴巴拉、波士顿、西雅图和旧金山附近的产品员工定期出现在这些办公室。圣巴巴拉是 Sonos 的总部所在地。该公司目前还在巴黎和荷兰设有国际办事处。
+
+“灵活性自成立以来一直是 Sonos 运营的核心原则。灵活性不会消失，但与许多公司一样，我们正在评估面对面协作对……的影响。
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2024/12/11/24314934/sonos-return-to-office-mandate</guid>
+      <pubDate>Wed, 11 Dec 2024 21:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>Android 正在简化查找未知跟踪器以防止跟踪的流程</title>
       <link>https://www.theverge.com/2024/12/11/24318992/android-find-my-device-bluetooth-tracker-stalking</link>
@@ -95,64 +150,6 @@ Google 正在对其未知跟踪器警报功能推出两项新更新，这将使 
 在报告中附上的司法部副检察长布拉德利·温斯海默的备忘录中，该机构指出，报告的大部分内容都集中在“该部门修订后的新闻媒体和国会调查政策实施之前所采取的行动，这些政策改变了操作要求。”尽管如此，司法部还是同意监察长提出的核心建议，包括考虑改变某些信息请求如何上报给更高级官员。]]></description>
       <guid>https://www.theverge.com/2024/12/11/24318852/trump-doj-journalist-sources-inspector-general-report</guid>
       <pubDate>Wed, 11 Dec 2024 19:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 16 Pro 现在可让你在语音备忘录中分层录音</title>
-      <link>https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos</link>
-      <description><![CDATA[
-
-图片：Apple
-
-Apple 正在将分层录音引入iPhone 16 Pro 和 Pro Max 上的语音备忘录应用程序。借助新功能，您可以在在 iOS 18.2中大声聆听乐器曲目的同时录制人声。
-尽管麦克风在技术上会拾取乐器，但 Apple 表示 iPhone 16 的 A18 Pro 芯片允许它通过“高级处理和机器学习”隔离人声，让语音备忘录仅使用您的声音创建单独的音轨。从那里，您可以混合两层，以及单独编辑或收听它们。 
-
-Apple 在 9 月推出 iPhone 16 Pro 时首次宣布了此功能。在支持页面上，Apple 指出，您仍然可以在任何搭载 iOS 18.2 的设备上收听多轨录音，但它们不适用于运行更早版本的设备。您必须将音轨分开，才能在搭载旧版 Apple 操作系统的设备上运行。
-添加分层录音应该会使语音备忘录对音乐家和创作者更加有用，特别是因为它们可以同步到 Mac 和 iPad 上的语音备忘录，让您将它们放入 Logic Pro 进行编辑。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318918/apple-iphone-16-pro-layered-recordings-voice-memos</guid>
-      <pubDate>Wed, 11 Dec 2024 19:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在您可以以 1080p 的速度参观 Roku City</title>
-      <link>https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade</link>
-      <description><![CDATA[
-
-图片：Roku
-
-Roku City 是 2018 年推出的紫色城市景观屏保，下次您滚动浏览时，它可能会看起来更清晰、更细致。本周，Roku 将屏保的分辨率提高到 1080p；到目前为止，它仍然停留在 720p 上——尽管它在数百万台 4K Roku 电视和支持 4K 的流媒体播放器上运行。如果你问我，这是亵渎，所以看到一些进步是件好事。
-这个出人意料地受欢迎的虚构天际线也正在更新，增加了“扩展的调色板”和更多的活动和复活节彩蛋，如果你仔细观察就会发现。显然那里有一个火车站，所以 Roku City 的居民获得了公共交通系统。广告牌“现在将有一个新的星形按钮，让观众了解原创 Roku 内容、Roku 区域等内容。” （如果我不得不猜测的话，末尾的“更多”可能指的是广告和赞助内容。）
-我们花了六年时间才实现全高清。因此，如果这个节奏保持下去，也许到 2030 年，我们都将以原生 4K 体验 Roku City。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318930/roku-city-1080p-full-hd-resolution-upgrade</guid>
-      <pubDate>Wed, 11 Dec 2024 19:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>苔原持续燃烧，正在改变北极</title>
-      <link>https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-几千年来，北极苔原一直通过将碳储存在冻土中来帮助稳定全球气温。根据昨天在美国地球物理联合会 (AGU) 会议上发布的最新北极报告卡，野火改变了这一现状。
-由于气候变化而加剧的火灾释放出土壤和植物中捕获的碳。更频繁的火灾现在已将苔原变成了二氧化碳的净排放源。这对北极来说是一个巨大的转变，将使地球变得更热。
-“气候变化不会带来新常态。相反，气候变化正在带来持续而快速的变化，”北极报告卡主编、国家冰雪数据中心副首席科学家 Twila Moon 昨天在会议上表示。。
-“气候变化并没有带来新常态。”
-北极的永久冻土全年保持冻结状态，数千年来一直封存着导致地球变暖的碳。据估计，北方永久冻土所含的碳量约为大气中的两倍。苔原是指北极无树的平原，灌木、草和苔藓生长在那里，通过……吸收二氧化碳
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318690/fire-arctic-report-card-carbon-climate-change</guid>
-      <pubDate>Wed, 11 Dec 2024 19:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krispy Kreme 遭受网络攻击</title>
-      <link>https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering</link>
-      <description><![CDATA[
-
-图片：Krispy Kreme
-
-Krispy Kreme 目前正在处理网络安全漏洞，该漏洞已导致其在美国的部分在线甜甜圈订购服务瘫痪。自 11 月 29 日检测到未经授权访问其系统以来，该公司已努力解决该问题超过一周。
-在周三提交给美国证券交易委员会的文件中，Krispy Kreme 表示，它“已收到有关其部分信息技术系统未经授权活动的通知”，并聘请了“领先的网络安全专家”进行补救。
-该事件导致 Krispy Kreme 的消费者在线订购业务中断，但并未影响其商业分销业务。然而，该公司表示，该事件对其业务运营“产生了重大影响”，并且由于网络安全专家和顾问的费用，该事件将产生重大财务影响。除此之外，Krispy Kreme 表示，它有网络安全保险，并且预计不会“对其运营结果和财务状况产生长期重大影响”。
-Krispy Kreme 拒绝就网络安全事件的原因发表评论。正如 Bleeping Computer 的一份报告所推测的那样，该时间表可能表明该公司正在与可能的威胁行为者进行谈判，以免泄露内部数据。]]></description>
-      <guid>https://www.theverge.com/2024/12/11/24318861/krispy-kreme-cybersecurity-incident-online-ordering</guid>
-      <pubDate>Wed, 11 Dec 2024 18:47:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

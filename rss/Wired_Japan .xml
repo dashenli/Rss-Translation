@@ -4,7 +4,35 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 11 Dec 2024 21:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:18:53 GMT</lastBuildDate>
+    <item>
+      <title>AI医疗已超越幻灭期 - 特辑“THE WORLD IN 2025”</title>
+      <link>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</link>
+      <description><![CDATA[要想突破LLM的局限，通过开发更精准的AI，在全社会实施个性化优化的医疗服务，关键是构建基于“共享”的数据生态系统。]]></description>
+      <guid>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</guid>
+      <pubDate>Thu, 12 Dec 2024 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>专访电影《动物王国》导演托马斯·卡希尔：我们抗拒什么？</title>
+      <link>https://wired.jp/article/animal-kingdom-thomas-cailley-interview/</link>
+      <description><![CDATA[在法国吸引了超过100万观众的大片《动物王国》是一部超越动物惊悚片框架的美丽作品。这提醒我们是否有勇气拥抱未知，而当今世界似乎已经失去了这一点，以及人类的同理心能力是多么灵活。]]></description>
+      <guid>https://wired.jp/article/animal-kingdom-thomas-cailley-interview/</guid>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果高管讲述Apple Intelligence发展的幕后故事</title>
+      <link>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</link>
+      <description><![CDATA[苹果进入人工智能领域被认为进展缓慢。然而，这是强调隐私、旨在成为“最好”产品而不是“第一”产品的战略的结果。公司高管表达了多年准备的信心，并相信这一理念是竞争优势的关键。]]></description>
+      <guid>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</guid>
+      <pubDate>Wed, 11 Dec 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>绝望与希望数字刺激经济再生：“瑞士-日本经济论坛 2024”报告</title>
+      <link>https://wired.jp/article/switzerland-japan-economic-forum-2024-report/</link>
+      <description><![CDATA[2024年10月，“瑞士-日本经济论坛2024”将在六本木/东京中城举办，日本版《连线》也被列为支持合作伙伴。面对有关生物多样性和全球环境的事实，人类面临着采取大胆行动的压力，这些事实让我们想要视而不见。报告当天有关各部门实践和进一步影响的讨论。]]></description>
+      <guid>https://wired.jp/article/switzerland-japan-economic-forum-2024-report/</guid>
+      <pubDate>Wed, 11 Dec 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>超大型天文望远镜正在加速建设——特辑《2025年的世界》</title>
       <link>https://wired.jp/article/vol55-massive-mirrors-take-shape/</link>
@@ -20,9 +48,9 @@
       <pubDate>Wed, 11 Dec 2024 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>对于量子计算机来说，2025年是迈向“下一次工业革命”的一年：北川拓哉专访 ─ 特辑“2025年的世界”</title>
+      <title>对于量子计算机来说，2025年是迈向“下一次工业革命”的一年：北川卓也访谈 ─ 特辑“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</link>
-      <description><![CDATA[随着量子纠错技术的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职业后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
+      <description><![CDATA[随着“量子纠错技术”的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职业后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
       <guid>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</guid>
       <pubDate>Wed, 11 Dec 2024 01:00:00 GMT</pubDate>
     </item>
@@ -34,7 +62,7 @@
       <pubDate>Wed, 11 Dec 2024 00:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>充分利用人工智能和区块链来阻止森林砍伐的挑战</title>
+      <title>使用人工智能和区块链阻止森林砍伐的挑战</title>
       <link>https://wired.jp/article/managing-forests-with-smart-technologies/</link>
       <description><![CDATA[来自立陶宛和瑞典的科学家结合人工智能、区块链和物联网技术，开发了一种可以实时监控和管理森林资源的解决方案。预计它将成为下一代模型，为森林保护带来创新。]]></description>
       <guid>https://wired.jp/article/managing-forests-with-smart-technologies/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[医用放射性同位素是患者器官和肿瘤图像分析不可或缺的重要资源。然而，这种物质除了作为元素不稳定外，还具有供应链薄弱的缺点。]]></description>
       <guid>https://wired.jp/article/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/</guid>
       <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>内特·西尔弗新书《边缘》评：从一个扑克玩家的角度思考创业投资、人工智能和人类生存的风险</title>
-      <link>https://wired.jp/article/sz-on-the-edge-the-art-of-risking-everything-nate-silver-book-review/</link>
-      <description><![CDATA[内特·西尔弗 (Nate Silver) 以其对美国总统选举的准确预测而闻名，他的新书《边缘：冒险的艺术》将现代赌博教学扩展到科技初创公司、人工智能和道德规范。]]></description>
-      <guid>https://wired.jp/article/sz-on-the-edge-the-art-of-risking-everything-nate-silver-book-review/</guid>
-      <pubDate>Mon, 09 Dec 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出每月 30,000 日元的“ChatGPT Pro”。年底继续推出新功能</title>
-      <link>https://wired.jp/article/openai-chatgpt-pro-subscription/</link>
-      <description><![CDATA[OpenAI 宣布推出新订阅 ChatGPT Pro。该计划使您几乎可以无限制地访问 ChatGPT 的工具以及独家的新 AI 模型。该公司计划在本周和年底继续发布新功能。]]></description>
-      <guid>https://wired.jp/article/openai-chatgpt-pro-subscription/</guid>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的人工智能从照片中读取什么？</title>
-      <link>https://wired.jp/article/website-google-ai-photos-ente/</link>
-      <description><![CDATA[Ente 是由前 Google 工程师创立的照片共享服务。为了说明在主要云服务上存储照片的风险，该服务的开发团队发布了一个网站，该网站可视化谷歌人工智能可以从照片中读取的信息量。]]></description>
-      <guid>https://wired.jp/article/website-google-ai-photos-ente/</guid>
-      <pubDate>Sun, 08 Dec 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为世界末日做好准备的准备者购买房地产</title>
-      <link>https://wired.jp/article/sz-real-estate-shopping-for-the-apocalypse/</link>
-      <description><![CDATA[39% 的美国人认为我们正生活在末日之中。因此，现在地下避难所的房地产市场火爆。]]></description>
-      <guid>https://wired.jp/article/sz-real-estate-shopping-for-the-apocalypse/</guid>
-      <pubDate>Sun, 08 Dec 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

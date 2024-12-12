@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 11 Dec 2024 21:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:18:23 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 584：嘘，我们没有时间</title>
+      <link>https://sixcolors.com/podcast/2024/12/clockwise-584-hush-we-dont-have-time/</link>
+      <description><![CDATA[我们对当前智能眼镜的兴趣、我们用来监控家庭和宠物的智能技术、我们对 iOS 18.2 功能（如 Genmoji 和 Image Playground）的看法，以及我们如何组织和管理节日送礼清单以获取想法和跟踪。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/12/clockwise-584-hush-we-dont-have-time/</guid>
+      <pubDate>Wed, 11 Dec 2024 21:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 525：我错了，但我觉得我应该是对的</title>
       <link>https://sixcolors.com/podcast/2024/12/the-rebound-525-im-wrong-but-i-feel-like-i-should-be-right/</link>
@@ -50,7 +57,7 @@ Apple Intelligence 又回来了，这次是视觉化的。随着 iOS 18.2、iPad
       <pubDate>Mon, 09 Dec 2024 22:30:19 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
       <link>https://sixcolors.com/feed-only/2024/12/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs-3/</link>
       <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
 解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
@@ -114,13 +121,6 @@ Festivitas 会在启动时自动将节日灯添加到您的菜单栏和停靠栏
       <description><![CDATA[KVM 在 Mac mini 和 MacBook Pro 之间切换，允许它们共享键盘、显示器（在上面的支臂上）和鼠标。Zoom Podtrac P4 音频接口也在两台 Mac 之间共享。…]]></description>
       <guid>https://sixcolors.com/post/2024/12/kvm-2024-one-switch-to-rule-them-all/</guid>
       <pubDate>Tue, 03 Dec 2024 23:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 540：淋浴 Jason 的验证</title>
-      <link>https://sixcolors.com/podcast/2024/12/upgrade-540-validation-for-shower-jason/</link>
-      <description><![CDATA[Stephen Hackett 与 Jason 一起讨论紧急呼叫、对 Jason 的“Mac 就是典范”一文的反应、iPhone 金属、我们与生俱来的故障排除能力、Jason 的笔记本电脑困境、ChatGPT Mac 应用程序以及一些非常古老的 Vision Pro 新闻。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/upgrade-540-validation-for-shower-jason/</guid>
-      <pubDate>Mon, 02 Dec 2024 23:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
