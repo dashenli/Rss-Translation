@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 12 Dec 2024 03:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:24:44 GMT</lastBuildDate>
+    <item>
+      <title>外观：Apple Intelligence 的普通人类</title>
+      <link>https://sixcolors.com/post/2024/12/appearance-apple-intelligences-generic-humans/</link>
+      <description><![CDATA[从三种不同的外观集合中进行选择。
+周三，iOS 18.2 和 macOS 15.2 发布了，我们在这里对此进行了介绍。我的一个抱怨是，你不能只制作普通的人物形象——你必须选择图书馆中的真人。…]]></description>
+      <guid>https://sixcolors.com/post/2024/12/appearance-apple-intelligences-generic-humans/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:50:21 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针 584：嘘，我们没有时间</title>
       <link>https://sixcolors.com/podcast/2024/12/clockwise-584-hush-we-dont-have-time/</link>
@@ -57,7 +65,7 @@ Apple Intelligence 又回来了，这次是视觉化的。随着 iOS 18.2、iPad
       <pubDate>Mon, 09 Dec 2024 22:30:19 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
       <link>https://sixcolors.com/feed-only/2024/12/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs-3/</link>
       <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
 解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
@@ -114,13 +122,6 @@ Festivitas 会在启动时自动将节日灯添加到您的菜单栏和停靠栏
 以前，我有一台电脑。这是我的雇主给我买的一台笔记本电脑，在工作时，我会把它连接到外接显示器上，然后在办公桌上使用它。…]]></description>
       <guid>https://www.macworld.com/article/2544544</guid>
       <pubDate>Wed, 04 Dec 2024 16:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>KVM 2024：一个交换机统领一切</title>
-      <link>https://sixcolors.com/post/2024/12/kvm-2024-one-switch-to-rule-them-all/</link>
-      <description><![CDATA[KVM 在 Mac mini 和 MacBook Pro 之间切换，允许它们共享键盘、显示器（在上面的支臂上）和鼠标。Zoom Podtrac P4 音频接口也在两台 Mac 之间共享。…]]></description>
-      <guid>https://sixcolors.com/post/2024/12/kvm-2024-one-switch-to-rule-them-all/</guid>
-      <pubDate>Tue, 03 Dec 2024 23:54:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
