@@ -4,11 +4,25 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 12 Dec 2024 06:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 09:19:20 GMT</lastBuildDate>
+    <item>
+      <title>新基准“AILuminate”评估人工智能带来的风险</title>
+      <link>https://wired.jp/article/benchmark-for-ai-risks/</link>
+      <description><![CDATA[非营利组织 MLCommons 宣布了一个新的基准来评估有问题的人工智能行为。该基准测试大规模语言模型如何响应有关煽动暴力犯罪、儿童性剥削和仇恨言论等问题的提示。]]></description>
+      <guid>https://wired.jp/article/benchmark-for-ai-risks/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星识别太空甲烷排放源 - 专题“2025 年的世界”</title>
+      <link>https://wired.jp/article/vol55-satellites-will-identify-the-methane-super-emitters/</link>
+      <description><![CDATA[两颗卫星正在太空监测地球的温室气体排放。拥有排放大量甲烷设施的企业经营者可能无法再逃跑和躲藏。]]></description>
+      <guid>https://wired.jp/article/vol55-satellites-will-identify-the-methane-super-emitters/</guid>
+      <pubDate>Thu, 12 Dec 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI医疗已超越幻灭期 - 特辑“THE WORLD IN 2025”</title>
       <link>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</link>
-      <description><![CDATA[要想突破LLM的局限，通过开发更精准的AI，在全社会实施个性化优化的医疗服务，关键是构建基于“共享”的数据生态系统。]]></description>
+      <description><![CDATA[要想超越LLM目前的限制，通过开发更精准的AI，在全社会实施个性化优化的医疗服务，关键是构建基于“共享”的数据生态系统。]]></description>
       <guid>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</guid>
       <pubDate>Thu, 12 Dec 2024 01:00:00 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>苹果高管讲述Apple Intelligence发展的幕后故事</title>
       <link>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</link>
-      <description><![CDATA[苹果进入人工智能领域被认为进展缓慢。然而，这是强调隐私、旨在成为“最好”产品而不是“第一”产品的战略的结果。公司高管表达了多年准备的信心，并相信这一理念是竞争优势的关键。]]></description>
+      <description><![CDATA[苹果被视为人工智能领域的较晚进入者。然而，这是强调隐私、旨在成为“最好”产品而不是“第一”产品的策略的结果。公司高管表达了多年准备的信心，并相信这一理念是竞争优势的关键。]]></description>
       <guid>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</guid>
       <pubDate>Wed, 11 Dec 2024 23:00:00 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>对于量子计算机来说，2025年是迈向“下一次工业革命”的一年：北川卓也访谈 ─ 特辑“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</link>
-      <description><![CDATA[随着“量子纠错技术”的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职业后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
+      <description><![CDATA[随着量子纠错技术的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
       <guid>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</guid>
       <pubDate>Wed, 11 Dec 2024 01:00:00 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 11 Dec 2024 00:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能和区块链阻止森林砍伐的挑战</title>
+      <title>充分利用人工智能和区块链来阻止森林砍伐的挑战</title>
       <link>https://wired.jp/article/managing-forests-with-smart-technologies/</link>
       <description><![CDATA[来自立陶宛和瑞典的科学家结合人工智能、区块链和物联网技术，开发了一种可以实时监控和管理森林资源的解决方案。预计它将成为下一代模型，为森林保护带来创新。]]></description>
       <guid>https://wired.jp/article/managing-forests-with-smart-technologies/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[日本初创公司 Sakana AI 正在展望未来，使用进化算法的人工智能模型将得到广泛应用，作为当今日益庞大的人工智能模型的替代方案。]]></description>
       <guid>https://wired.jp/article/vol55-the-evolutionary-model-merge-changes-the-ai-landscape/</guid>
       <pubDate>Tue, 10 Dec 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>好久不见，大金刚。我去了USJ的新区“大金刚国度”</title>
-      <link>https://wired.jp/article/donkey-kong-country/</link>
-      <description><![CDATA[“大金刚”是一个神秘的存在。尽管它很受欢迎，但十多年来没有发布任何新版本。如果是这样，日本环球影城为何选择“继马里奥之后”？抢先了解了新区域“大金刚国度”以及将于12月11日（周三）推出的游乐设施。]]></description>
-      <guid>https://wired.jp/article/donkey-kong-country/</guid>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么由于一座核反应堆的关闭，数千人的医院检测预约被取消</title>
-      <link>https://wired.jp/article/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/</link>
-      <description><![CDATA[医用放射性同位素是患者器官和肿瘤图像分析不可或缺的重要资源。然而，这种物质除了作为元素不稳定外，还具有供应链薄弱的缺点。]]></description>
-      <guid>https://wired.jp/article/why-an-offline-nuclear-reactor-led-to-thousands-of-hospital-appointments-being-cancelled/</guid>
-      <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

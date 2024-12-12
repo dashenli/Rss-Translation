@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Wed, 11 Dec 2024 12:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 09:19:11 GMT</lastBuildDate>
+    <item>
+      <title>参加 100 天创新冲刺后我们学到了什么</title>
+      <link>https://thenextweb.com/news/what-we-learned-after-taking-part-in-a-100-day-innovation-sprint</link>
+      <description><![CDATA[十月的一个温暖的日子，三家企业和两家初创公司齐聚 TNW 办公室，参加为期一百天的沃达丰物联网挑战赛。创新是所有企业都想要的，但很少有企业真正有时间去创新。我们了解到，先进的新工具和技术可以收集更丰富的见解，使事情变得比以往任何时候都更快、更轻松。但归根结底，日常任务总是优先于我们为明天所做的努力和进步。真正的挑战只是投入创新所需的时间。这就是为什么 Facilicom Group…本报道将在 The Next Web 继续或者阅读有关：Sprint 的更多报道]]></description>
+      <guid>https://thenextweb.com/news/what-we-learned-after-taking-part-in-a-100-day-innovation-sprint</guid>
+      <pubDate>Thu, 12 Dec 2024 07:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>荷兰初创公司的新型电池材料或将使欧洲摆脱对中国石墨的依赖</title>
+      <link>https://thenextweb.com/news/dutch-startups-new-battery-material-could-wean-europe-off-chinese-graphite</link>
+      <description><![CDATA[总部位于阿姆斯特丹的初创公司 CarbonX 已获得 400 万欧元资金，用于工业化生产一种新型阳极材料，这种材料可能有助于欧洲减少对中国石墨的依赖，石墨占典型锂离子电池重量的一半。总部位于荷兰的 VC Energy Transition Fund Rotterdam 领投了此轮融资。这是 CarbonX 在 2 月份宣布的 1000 万欧元注资的延伸，本轮融资总额达到 1400 万欧元。石墨是锂离子电池阳极的首选材料，阳极是负极，负责在充电和放电过程中存储和释放电子。它存在于为电动汽车等所有产品供电的电池中......这个故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/dutch-startups-new-battery-material-could-wean-europe-off-chinese-graphite</guid>
+      <pubDate>Wed, 11 Dec 2024 22:25:46 GMT</pubDate>
+    </item>
     <item>
       <title>初创企业从何而来？当然是创意和企业家</title>
       <link>https://thenextweb.com/news/where-do-startups-come-from-ideas-innovation-entrepreneurs-red-bull-basement-global-final</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[德国初创公司 FibreCoat 获得 2000 万欧元的 B 轮融资，希望将其超耐用材料带入蓬勃发展的航天工业。 FibreCoat 于 2020 年从亚琛工业大学分拆出来。这家初创公司开发了一种专利工艺，用于在纺纱阶段用金属和塑料涂覆纤维。这样可以创造出重量轻、导电性强、坚固耐用的纤维，而成本仅为传统成本的一小部分。然后可以将它们纺在一起形成增强复合材料。到目前为止，FibreCoat 专注于确保汽车、建筑和国防工业领域的客户，这些材料在这些领域特别有用…这个故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/aachen-spinout-fibrecoat-secures-20-million-to-bring-super-fibres-to-spacecraft</guid>
       <pubDate>Thu, 05 Dec 2024 23:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 的新天气预报员击败了竞争对手</title>
-      <link>https://thenextweb.com/news/google-deepminds-new-ai-weather-forecaster-gencast</link>
-      <description><![CDATA[Google DeepMind 的研究人员构建了一个 AI 天气预报工具，其预测速度比目前最好的系统更快、更准确。这个新模型被称为 GenCast，其预测准确率达到 97%，超过了被广泛认为是世界领先的 ENS 预测。ENS 预测提前 15 天的准确率高达 97%。该模型在 1,320 多种天气情景中进行了测试，包括热带气旋和热浪。谷歌 DeepMind 的研究科学家 Ilan Price 告诉《卫报》：“超越 ENS 标志着人工智能在天气预报方面的进步达到了一个转折点。” “至少在短期内，这些模型将会......本报道将在 The Next Web 上继续或者阅读有关Google的更多报道]]></description>
-      <guid>https://thenextweb.com/news/google-deepminds-new-ai-weather-forecaster-gencast</guid>
-      <pubDate>Thu, 05 Dec 2024 13:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rob 博士的新 AI 模型有望将飞机设计时间从数月缩短至数天</title>
-      <link>https://thenextweb.com/news/physicsx-ai-tool-could-cut-aircraft-design</link>
-      <description><![CDATA[由前一级方程式赛车工程奇才 Robin “Dr. Rob” Tuluie 创立的英国初创公司 PhysicsX 推出了一款 AI 工具，可以将设计一架新飞机所需的时间从数月缩短至仅需几天。这款名为 LGM-Aero 的软件可以为飞机创建新的设计。该模型使用对超过 2500 万个几何图形进行训练的先进算法，预测每种形状的升力、阻力、稳定性、结构应力和其他属性。然后，它会根据您希望飞机执行的操作来定制设计。PhysicsX 表示，该人工智能是有史以来第一个用于航空航天工程的大型几何模型 (LGM)。A…这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/physicsx-ai-tool-could-cut-aircraft-design</guid>
-      <pubDate>Wed, 04 Dec 2024 21:07:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
