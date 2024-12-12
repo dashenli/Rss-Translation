@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 01:17:39 GMT</lastBuildDate>
-    <item>
-      <title>Claude 文件夹上传</title>
-      <link>https://www.producthunt.com/posts/claude-folder-upload</link>
-      <description><![CDATA[
-轻松将整个代码库上传至 Claude Projects
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/claude-folder-upload</guid>
-      <pubDate>Wed, 11 Dec 2024 02:41:17 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 03:34:21 GMT</lastBuildDate>
     <item>
       <title>多重登录</title>
       <link>https://www.producthunt.com/posts/multilogin-4</link>
@@ -62,6 +48,20 @@
       <pubDate>Tue, 10 Dec 2024 15:02:56 GMT</pubDate>
     </item>
     <item>
+      <title>杀手研究</title>
+      <link>https://www.producthunt.com/posts/killerstudy</link>
+      <description><![CDATA[
+使用交互式学习工具改变您的学习方式
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/killerstudy</guid>
+      <pubDate>Tue, 10 Dec 2024 14:54:19 GMT</pubDate>
+    </item>
+    <item>
       <title>捷径</title>
       <link>https://www.producthunt.com/posts/shortcut-3642bed8-d9b3-407e-8d5f-ea57036fe14b</link>
       <description><![CDATA[
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/aismartcube-2</guid>
       <pubDate>Mon, 09 Dec 2024 19:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Defang</title>
-      <link>https://www.producthunt.com/posts/defang</link>
-      <description><![CDATA[
-几分钟内即可从创意转变为您最喜欢的云
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/defang</guid>
-      <pubDate>Mon, 09 Dec 2024 18:31:48 GMT</pubDate>
     </item>
     <item>
       <title>嚎叫表</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/smythos</guid>
       <pubDate>Mon, 02 Dec 2024 21:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>模板化</title>
+      <link>https://www.producthunt.com/posts/templated-3</link>
+      <description><![CDATA[
+将类似 Canva 的编辑器嵌入到您的应用中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/templated-3</guid>
+      <pubDate>Thu, 28 Nov 2024 19:05:13 GMT</pubDate>
     </item>
     <item>
       <title>RODCast</title>
