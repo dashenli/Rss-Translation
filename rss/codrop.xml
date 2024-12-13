@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 13 Dec 2024 01:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:34:30 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚焦：Aurora Defiori</title>
+      <link>https://tympanus.net/codrops/2024/12/13/designer-spotlight-aurora-defiori/</link>
+      <description><![CDATA[探索数字设计师 Aurora Defiori 的安静而沉浸的极简主义。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/13/designer-spotlight-aurora-defiori/</guid>
+      <pubDate>Fri, 13 Dec 2024 10:55:57 GMT</pubDate>
+    </item>
     <item>
       <title>UI 交互和动画综述#48</title>
       <link>https://tympanus.net/codrops/2024/12/12/ui-interactions-animations-roundup-48/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[关于不使用 copilot * 可组合 SVG 着色器 * Electrobun]]></description>
       <guid>https://tympanus.net/codrops/collective/collective-886/</guid>
       <pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 React Three Fiber 和 GLSL 编写基于着色器的显示效果</title>
-      <link>https://tympanus.net/codrops/2024/12/02/how-to-code-a-shader-based-reveal-effect-with-react-three-fiber-glsl/</link>
-      <description><![CDATA[使用 React-Three-Fiber/Drei 创建并使用 Framer Motion 制作动画的简单而酷炫的图像显示效果。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/02/how-to-code-a-shader-based-reveal-effect-with-react-three-fiber-glsl/</guid>
-      <pubDate>Mon, 02 Dec 2024 11:15:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
