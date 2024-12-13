@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Thu, 12 Dec 2024 21:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 01:17:34 GMT</lastBuildDate>
+    <item>
+      <title>三角洲部队评论</title>
+      <link>https://www.ign.com/articles/delta-force-review-2024</link>
+      <description><![CDATA[它既是一款优秀的大型 PvP 射击游戏，也是一款实用的提取射击游戏，即使两者都不甚突出。]]></description>
+      <guid>https://www.ign.com/articles/delta-force-review-2024</guid>
+      <pubDate>Thu, 12 Dec 2024 20:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>动漫 Last Stand 更新添加了新单位、延迟修复和传奇舞台</title>
       <link>https://www.ign.com/articles/anime-last-stand-update-adds-new-units-lag-fixes-and-a-legend-stage</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[将其与 Woot 提供的为期三个月的 Xbox Game Pass Ultimate 超值优惠相结合。]]></description>
       <guid>https://www.ign.com/articles/best-xbox-series-x-all-digital-console-deal-2024</guid>
       <pubDate>Wed, 11 Dec 2024 23:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者日：2024 年游戏大奖版 - 已宣布所有内容</title>
-      <link>https://www.ign.com/articles/day-of-the-devs-the-game-awards-edition-2024-everything-announced</link>
-      <description><![CDATA[非盈利性开发者日于周三再次正式回归，作为游戏大奖前奏的一部分，它带来了一场独立游戏展示会，展示了近 20 款跨类型、平台、工作室和风格的独立游戏。]]></description>
-      <guid>https://www.ign.com/articles/day-of-the-devs-the-game-awards-edition-2024-everything-announced</guid>
-      <pubDate>Wed, 11 Dec 2024 18:15:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

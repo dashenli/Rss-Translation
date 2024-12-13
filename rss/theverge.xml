@@ -4,182 +4,158 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Dec 2024 21:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 01:18:01 GMT</lastBuildDate>
     <item>
-      <title>Verizon 正在利用 5G 网络切片提供更好的视频通话服务，但需要付费</title>
-      <link>https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling</link>
+      <title>伊隆·马斯克再次对美国证券交易委员会感到愤怒</title>
+      <link>https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter</link>
       <description><![CDATA[
 
-还记得你的老朋友 5G 吗？|图片：The Verge
+插图：Cath Virginia / The Verge；照片：Getty Images
 
-Verizon 正在兑现 5G 的众多未兑现的承诺之一，推出了一项名为增强型视频通话的新服务。 
-根据该公司网站，即使在拥堵时，它也能提供“通话应用上的优化视频和音质”。这听起来可能并不令人兴奋。但在幕后，Verizon 正在使用网络切片来提升视频通话性能，这是一项只有在独立 5G 网络上才有可能实现的新技术。
-与远程机器人香蕉手术不同，网络切片是 5G 技术的真正优势，我们可以合理地预期未来几年会在更多地方看到它。切片让网络运营商可以为某些需要强大连接的活动提供合适的资源。目前，这意味着提高视频通话的性能，但在未来，这可能意味着能够优先处理引导自动驾驶汽车安全通过十字路口所需的数据。
+根据马斯克在 X 上发布的律师信，美国证券交易委员会正在准备对马斯克提出“多项指控”。该委员会还“重启了对 Neuralink 的调查”。
+这封信没有具体说明——例如可能提出的指控是什么，以及有多少马斯克的公司受到影响。相反，马斯克的律师亚历克斯·斯皮罗 (Alex Spiro) 抱怨说，“委员会工作人员发出了和解要求，要求马斯克先生在 48 小时内同意接受金钱支付，否则将面临多项账户的指控。”甚至这一点也有些不清楚；大概，斯皮罗的意思是马斯克宁愿支付罚款也不愿接受美国证券交易委员会的钱。
 
-问题在于，你需要一个独立的 5G 网络来实现这一点，而美国的大部分 5G 网络仍然在 4G 核心上运行。T-Mobile 能够更快地采取行动，这要归功于其对 Sprint 的收购，并于今年秋季推出了基于切片的首个功能，该服务优先考虑急救人员。 Verizon 在过去一年左右的时间里一直在测试切片，但这是其首次推出基于该技术的消费者功能。
-为了亲自尝试增强型视频通话，您必须满足一组特定的要求。它目前在“超过 150 个大都市地区”可用，2025 年将增加更多地区。但您还需要使用 Verizon 最昂贵的计划 Unlimited Ultimate，每月 90 美元，一条线路，自动付费。而且您需要一部运行 iOS 18.2 的 iPhone 14 或更新版本。三星 Galaxy S23 及更新版本和 Pixel 9 手机也将兼容，但 Android 上的 Android 视频通话应用支持将于 2025 年推出。
-如果您满足上述先决条件，您应该会在 iOS 中看到一个设置，如果您转到设置 &gt; 蜂窝网络，根据 Apple 的文档。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling</guid>
-      <pubDate>Thu, 12 Dec 2024 20:50:04 GMT</pubDate>
+
+哦，加里，你怎么能这样对我？ pic.twitter.com/OoooQI77ZS— 伊隆·马斯克 (@elonmusk) 2024 年 12 月 12 日
+
+
+马斯克与美国证券交易委员会 (SEC) 有着悠久而传奇的历史，他曾表示自己并不尊重该委员会。 2018 年，马斯克 他曾短暂地假装要将特斯拉私有化，两周后才承认特斯拉将继续上市。随后，SEC 因一条推文起诉了他，称他已“获得资金”将特斯拉私有化。马斯克与该机构达成了和解，支付了 2000 万美元，辞去了特斯拉董事会主席一职，并同意聘请“推特看守人”，即一名律师监督他的推文。马斯克随后违背了推特看守人协议。这场争执一直打到了最高法院，但最高法院拒绝受理此案； 马斯克被他的 Twitter 保姆困住了。
+这封信将这段历史描述为“超过六年的骚扰”。
+最近，美国证券交易委员会试图对马斯克进行制裁，因为他在针对 Twitter 收购的另一项调查中没有出席。一名法官拒绝对他进行制裁，因为他向 SEC 偿还了他为律师出庭的机票。
+从 Spiro 的信中尚不清楚 SEC 正在追究的指控是否与 Twitter 事件有关，还是其他原因。路透社此前报道，司法部正在调查特斯拉的自动驾驶声明是否真的构成证券欺诈。 2023 年，路透社报道称，立法者已要求美国证券交易委员会 (SEC) 调查 Neuralink，原因是马斯克曾就该公司大脑设备安全性发表过评论。
+
+马斯克还要求他的人工智能 Grok 画一幅美国证券交易委员会主席 Gary Gensler 的画像。这幅画中是一只身穿西装的蜗牛，似乎是在暗指儿童电视节目《海绵宝宝》中的蜗牛加里。]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter</guid>
+      <pubDate>Fri, 13 Dec 2024 01:01:44 GMT</pubDate>
     </item>
     <item>
-      <title>丰田的下一款电动汽车是这款面向欧洲的小型 Urban Cruiser SUV</title>
-      <link>https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe</link>
-      <description><![CDATA[
-
-丰田的 Urban Cruiser 是一款即将登陆欧洲的紧凑型电动 SUV。 |图片：丰田
-
-丰田今天发布了其最新款全电动汽车，即 Urban Cruiser 紧凑型 SUV。该款电动车将于下个月在布鲁塞尔车展上全面亮相，面向欧洲市场，将于 2025 年第三季度首次登陆英国。 
-丰田表示，该款电动车的轴距仅比仅在欧洲销售的 Yaris Cross 长约 5 英寸，这使其成为另一款计划在欧洲大陆销售的趣味尺寸电动车，就像最近发布的 福特 Puma Gen-E 或 现代 Inster 一样。
-The Urban Cruiser 的设计灵感明显来自去年的 Urban SUV 概念。它还与铃木共享其联合打造的全新 EV 平台，铃木上个月宣布推出印度制造的 E Vitara SUV。丰田的另一款电动车bZ4X也与另一家汽车制造商斯巴鲁共享其电动车平台，斯巴鲁拥有Solterra EV。
-
-
-图片：丰田
-丰田 Urban Cruiser 配备并排 10.25 英寸仪表盘屏幕和 10.1 英寸信息娱乐系统。
-
-丰田的 Urban Cruiser 的规格与 E Vitara 几乎一模一样，包括一个相对较小的 49 kWh 电池和 FWD 传动系统，以及一个 61 kWh 电池和 AWD 选项。 
-丰田表示，全轮驱动版的功率输出最高可达 135kW（后轴为 40kW，可在松散和湿滑的路面上实现稳定可靠的性能），扭矩最高可达 300 Nm。虽然官方尚未公布续航里程，但它很可能与 E Vitara 预期的单次充电 248 英里续航里程相匹配。
-
-此外，Urban Cruiser 还具有下坡辅助和越野模式，以增加控制力，而前轮驱动版则包括雪地模式。所有车型均配备热泵，并具有手动启动电池预处理以准备进行直流快速充电的功能。
-与其他传统制造商相比，丰田在制造和采用电动汽车方面一直比较慢。该汽车制造商一直专注于其出色的混合动力技术以及氢动力汽车。 
-但这家汽车制造商并未停止开发电动汽车——它计划到 2026 年推出 15 款电动汽车，其中包括基于下一代共享平台的 6 款车型，并且它刚刚在肯塔基州投资了近 10 亿美元用于建造一家喷漆厂，为在美国推出三排电动 SUV做准备。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe</guid>
-      <pubDate>Thu, 12 Dec 2024 20:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 Prime Video 推出“AI 主题”取代旧算法</title>
-      <link>https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms</link>
-      <description><![CDATA[
-
-图片：亚马逊
-
-亚马逊正在测试一项新的 Prime Video 功能，该功能使用 AI 而不是传统算法来推荐内容组。如果您参与测试，您将看到根据您的兴趣定制的新“AI 主题”，例如“令人费解的科幻小说”、“奇幻探索”或“惊心动魄的角色旅程”。
-每个类别都会有与这些 AI 生成的标签相匹配的节目、电影和线性频道。您还可以通过选择与您正在查看的类别相关的主题来进一步细化推荐，亚马逊表示这可以让您“发现更多内容而不会陷入死胡同”。
-
-
-图片：亚马逊
-
-Netflix 等流媒体服务长期以来一直使用机器学习算法根据观看历史提供推荐。但随着这一声明的发布，Prime Video 似乎正在为 AI 注入新的活力——考虑到围绕该技术的炒作以及亚马逊努力将自己塑造为AI 领导者，这并不令人意外。目前，亚马逊表示 AI Topics 正在美国“精选”客厅设备中推出，例如 Fire TV。
-上个月，Prime Video 还推出了 AI 回顾，您可以使用它来总结电视剧季、整集剧集甚至剧集的部分内容。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms</guid>
-      <pubDate>Thu, 12 Dec 2024 20:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 为特朗普就职典礼捐款 100 万美元</title>
-      <link>https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration</link>
-      <description><![CDATA[
-
-The Verge |照片由 Tom Williams 通过 Getty Images 拍摄
-
-Meta 已向当选总统唐纳德·特朗普的就职基金捐赠了 100 万美元，华尔街日报报道。据报道，扎克伯格的团队在扎克伯格和特朗普11 月在海湖庄园共进晚餐之前就已将 Meta 的捐赠计划告知特朗普的就职委员会。 
-据《华尔街日报》报道，晚餐前，扎克伯格展示了 Meta 的雷朋智能眼镜，并赠送了一副给特朗普。扎克伯格的顾问还会见了即将上任的白宫官员，包括即将上任的白宫办公厅主任苏西·威尔斯。
-这笔捐款标志着扎克伯格的重大转变，直到最近他一直回避政治。扎克伯格致电特朗普祝贺他大选胜利。但他在 2020 年没有公开支持任何候选人——正如 Meta 发言人一再强调的那样，他也没有在 2024 年支持任何人，尽管特朗普声称扎克伯格在宾夕法尼亚州集会上发生谋杀特朗普的事件后打电话给他说他“不可能”投票给民主党人。（扎克伯格还称特朗普对枪击事件的反应“很厉害”。）尽管如此，扎克伯格对特朗普的示好越来越明显，特朗普多年来一直威胁这位 Facebook 创始人。
-晚餐——以及捐款——表明扎克伯格和特朗普之间出了名的紧张关系开始缓和。自从 Facebook 在 1 月 6 日骚乱后禁止扎克伯格的账号以来，特朗普就一直对扎克伯格心怀不满，并一度表示扎克伯格应该入狱，原因是 Facebook 涉嫌干预 2020 年大选。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration</guid>
-      <pubDate>Thu, 12 Dec 2024 19:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox Game Pass Ultimate 订阅现在最高可享受 50% 折扣</title>
-      <link>https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale</link>
+      <title>Nvidia 将举办十多年来的首次完整 LAN 聚会，并邀请您参加</title>
+      <link>https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale</guid>
-      <pubDate>Thu, 12 Dec 2024 19:07:30 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025</guid>
+      <pubDate>Fri, 13 Dec 2024 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Threads 遵循 Bluesky 的入门包，精选了值得关注的人物</title>
-      <link>https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs</link>
+      <title>最适合您的健身和健康的 Fitbit</title>
+      <link>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</link>
       <description><![CDATA[
 
-插图：The Verge
+Fitbit 生产一系列健身追踪器，从基本的健身腕带到功能齐全的智能手表，但从技术上讲，最好的 Fitbit 智能手表并不是 Fitbit。 |图片插图由 William Joel / The Verge 提供
 
-Meta 的 Threads 正在获得另一个似乎受到 Bluesky 启发的功能：您可以同时关注精选的帐户组。它们基本上听起来像是 Meta 对 Bluesky 便捷入门包的看法。
-Instagram 老板 Adam Mosseri 周四宣布，Meta 正在开始测试该功能，他表示，您将在“注册 Threads 并在 For You 提要中”看到这些合集。“少数”Threads 社区领导者策划并分享了当前的合集。
-Meta 发言人 Alec Booker 告诉 The Verge，人们将能够找到围绕“篮球、风格和时尚、食物、书籍、流行文化等”等主题构建的合集。 “我们将根据测试中的经验迭代此功能，并希望很快将此功能扩展到更多人。”
-
-
-图片：Meta
-
-
-
-图片：Meta
-
-在用户上个月开始涌向 Bluesky 后，Meta 加快了 Threads 功能更新的速度——在 自定义 feed 发布仅五天后，Threads 就推出了自己的自定义 feed例如，href=&quot;https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test&quot;&gt;宣布测试该功能。
-虽然我个人认为 Bluesky 是Twitter 的继承者，但 Threads 的规模仍然要大得多。 Meta 在11 月份见证了 3500 万 Threads 注册用户，但 Bluesky 用户增长似乎已放缓至爬行速度：在我撰写本文时，Bluesky 即将突破 2500 万用户，较近一个月前增加了 500 万用户。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs</guid>
-      <pubDate>Thu, 12 Dec 2024 19:03:51 GMT</pubDate>
+无论您想要一款基本的健身追踪器还是智能手表，Fitbit 都适合您——尽管最好的 Fitbit 智能手表严格来说并不是 Fitbit。
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</guid>
+      <pubDate>Fri, 13 Dec 2024 00:52:56 GMT</pubDate>
     </item>
     <item>
-      <title>迈克·弗拉纳根正在为 DC 影业创作一部《泥脸》电影</title>
-      <link>https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves</link>
+      <title>最好的机器人吸尘器</title>
+      <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
       <description><![CDATA[
 
-Max
+图片：The Verge
 
-DC Comics 角色 Clayface 在 Max’s 上大放异彩哈莉·奎茵系列，由艾伦·图代克配音。但看起来这位变形反派的下一幕将把他带上大银幕。
-Variety 报道称，鬼入侵的创作者迈克·弗拉纳根已经签约为 DC 工作室编写一部新的 Clayface 故事片，该片将由马特·里夫斯和林恩·哈里斯的公司 6th &amp; Idaho 制作。目前，尚不清楚谁将执导该项目，但据报道，华纳兄弟探索频道计划于明年某个时候开始拍摄。WBD 快速推出一部关于蝙蝠侠的其中一个反派的电影乍一看可能听起来很奇怪，但在 DC 影业联合首席执行官詹姆斯·冈恩 (James Gunn) 透露他计划建立一个新的电影宇宙之后，这很有道理。冈恩去年解释说，DC 影业“将让角色进入动画 [和] 动画之外；通常让同一位演员为他们配音，就像在真人电影中扮演他们一样。” 
-我们已经在《怪物突击队》中看到了一些这样的情况，其中维奥拉·戴维斯重新扮演了阿曼达·沃勒的角色，弗兰克·格里罗为里克·弗莱格配音，随后将在《和平使者》即将到来的第二季中饰演同一个角色。虽然 Clayface 尚未出现在《Creature Commandos》中，但该角色（将再次由 Tudyk 配音）将在本季的某个时候成为该节目的一部分。
-
-由于 Tudyk 还为《Creature Commandos》的 Phosphorous 博士和 Will Magnus 配音，因此目前尚不清楚 WBD 是否打算让他扮演 Clayface 作为新角色。但考虑到《Creature Commandos》有点像是一部旨在杀死和循环播放 DC 怪异角色的节目，这可能不会成为问题。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves</guid>
-      <pubDate>Thu, 12 Dec 2024 18:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini AI 现在可以总结你的 Google Drive 文件夹中的内容</title>
-      <link>https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-Gemini 与 Google Drive 的集成变得更加实用。除了总结文档或回答有关项目的问题外，AI 助手现在还可以生成文件夹内所有内容的摘要。
-使用该功能，您可以打开文件夹并选择页面顶部的新“总结此文件夹”按钮。然后，Gemini 将为您提供文件夹内容的细分。正如 Google 所指出的，您可以使用 Gemini 查找文件夹中的特定文件，或者询问有关它的问题，例如“这个文件夹的主题是什么？”
-您还可以将文件夹拖放到 Gemini 侧边栏中，也可以右键单击文件夹并选择“询问 Gemini”。
-
-
-GIF：Google
-
-
-目前，Google 表示 Gemini 只能提供有关文本文档、PDF、电子表格和演示文稿的信息。但是，当 9to5Google 测试该工具时，它发现 Gemini 也可以识别文件夹中的图像。 
-Google 于 6 月首次将 Gemini 引入 Drive、Docs、Sheets 和 Slides 的侧边栏。Gemini 的文件夹摘要功能现已向 Google One AI Premium 订阅者以及 Gemini Business、Enterprise、Education 和 Education Premium 用户推出。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders</guid>
-      <pubDate>Thu, 12 Dec 2024 18:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国青少年的极度网络生活</title>
-      <link>https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll</link>
-      <description><![CDATA[
-
-Cath Virginia / The Verge |图片来自 Getty Images
-
-根据皮尤研究中心的一项新调查，近一半的美国青少年“几乎一直”在线，尽管他们花时间使用的平台差异很大。
-尽管青少年的整体上网习惯有所不同，但几乎所有青少年都在使用 YouTube。在皮尤研究中心调查的 1,391 名青少年中，90% 的人表示他们使用该网站，较 2022 年的 95% 略有下降。其中 73% 的人每天都会使用 YouTube，使其成为迄今为止最受青少年用户欢迎的平台。第二受欢迎的应用程序是 TikTok，63% 的青少年表示他们在使用。 
-
-
-皮尤研究中心
-皮尤调查的几乎所有青少年都使用 YouTube，但很少有人使用 Threads。
-
-
-但性别差异很大，尤其是在那些表示“几乎一直”使用这两款应用的青少年中：19% 的女孩表示她们经常使用 TikTok，而同样比例的男孩则经常使用 YouTube。
-即使是这个极度在线的人群，使用所有网站的情况也并不相​​同。只有 6% 的受访青少年表示他们使用 Meta 的微博应用 Threads，只有 32% 的人使用 Facebook——低于十年前的 71%。大多数青少年使用的唯一 Meta 产品是 Instagram，自 2014 年以来，它的受欢迎程度有所提高。
-接受调查的青少年似乎更喜欢基于图像和视频的平台：X 和 Reddit 的受欢迎程度也低得多，分别有 17% 和 14% 的青少年表示他们使用它们。青少年对 X 的使用在过去十年中大幅下降：十年前，当它还被称为 Twitter 时，33% 的美国青少年使用它。但青少年对一些基于图像的应用程序（包括 Snapchat）的使用也在下降。事实上，唯一一个受欢迎程度上升的应用程序是 WhatsApp，现在有 23% 的青少年使用它。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll</guid>
-      <pubDate>Thu, 12 Dec 2024 18:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的 Recall AI 既恐怖又聪明，而且引人注目</title>
-      <link>https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad</link>
-      <description><![CDATA[
-
-图片：微软
-
-说实话，我本来以为我会讨厌微软备受争议的 Recall 功能并立即禁用它，但在过去几周使用它之后，我既感到毛骨悚然，又对它的功能印象深刻。
-Recall 是 Windows 11 的一项功能，可以拍摄您使用的大部分内容的快照微软宣布 Recall 后，该功能很快在屏幕上出现，并在今年早些时候引发争议。隐私权倡导者甚至在未使用 Recall 的情况下就立即开始警告其可能存在的问题，安全研究人员也在该功能的预发布版本中发现了巨大漏洞。微软多次推迟 Recall，以便有更多时间解决安全问题，目前它正在 Windows Insiders 中进行测试，以便明年更广泛地推出。
-我注意到 Recall 的第一件事是，初始设置体验非常笨拙，感觉还不够完整。启动应用程序后，它会将您重定向到 Windows Update，然后开始下载和安装 AI 模型。安装了这三个组件后，安装过程似乎已完成 - 但 Windows Update 会找到要安装的另一个 Recall 组件。摆弄 10 分钟后，Recall 就会...
+扫地机器人越来越好，拥有新的拖地技能、更好的导航能力和更多的自动化，这意味着您的工作量更少。我们挑选了您现在可以买到的最好的机器人。
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad</guid>
-      <pubDate>Thu, 12 Dec 2024 18:00:00 GMT</pubDate>
+      <guid>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</guid>
+      <pubDate>Fri, 13 Dec 2024 00:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年游戏大奖：所有重大预告片和公告</title>
+      <link>https://www.theverge.com/24319637/the-game-awards-2024-trailers-annoucements</link>
+      <description><![CDATA[
+
+图片：游戏奖
+
+Geoff Keighley 庞大而昂贵的视频游戏商业节目今年迎来了十周年。 一年中的那个时候到了。 2024 年游戏大奖将于 12 月 12 日东部时间晚上 7:30 / 太平洋时间下午 4:30 在 Twitch 和 YouTube 上开始。今年是该奖项成立十周年，因此请期待一些大惊喜来庆祝这一时刻。我们已经知道《无主之地 4》 将亮相以及 Hazelight Studios 的下一款游戏，后者是 2021 年度游戏《双人成行》的开发商。
+Keighley 的 BFF 小岛秀夫可能会出现，展示更多死亡搁浅 2 甚至可能是他的新游戏/电影混合项目 OD。距离 2025 年仅剩几周时间，GTA VI炒作季将正式开始，可能会推出一部可能打破纪录的新预告片。以下是今年游戏大奖的所有新闻、预告片和惊喜。
+至于我，我对 2024 年 TGA 唯一感到兴奋的是 Flute Guy 和 Metaphor: ReFantanzio Monk Guy 共享同一舞台的可能性。
+&lt;div style=&quot;width: 100%; height: 0; padding-bottom: 56.25%；”&gt;]]></description>
+      <guid>https://www.theverge.com/24319637/the-game-awards-2024-trailers-annoucements</guid>
+      <pubDate>Fri, 13 Dec 2024 00:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，新款 Apple TV 和 HomePod mini 将于 2025 年推出</title>
+      <link>https://www.theverge.com/2024/12/12/24319970/new-apple-homepod-mini-tv-proxima-wifi-bluetooth-chip</link>
+      <description><![CDATA[
+
+图片：Chris Welch / The Verge
+
+据传，苹果的蓝牙和 Wi-Fi 组合芯片可能会在 2025 年与该公司的一些家居产品一起推出，包括新款 HomePod Mini 和 Apple TV，Mark Gurman 为 彭博社。
+苹果的新芯片代号为“Proxima”，旨在成为该公司设备的重大过渡性变革，减少对博通的依赖，博通为苹果产品线中的各种设备生产蓝牙和 Wi-Fi 组件。与古尔曼交谈的消息人士表示，这些芯片已经开发了好几年，将由台积电生产——台积电也是生产 Apple Silicon 芯片的同一家制造商。
+古尔曼没有具体说明新的 HomePod Mini 和 Apple TV 将于明年何时首次亮相。 Gurman 表示，Proxima 芯片还可能在 2025 年晚些时候出现在 iPhone 中，并在 2026 年出现在 iPad 和 Mac 中。
+Gurman 表示，Apple 还在开发一款独立的安全摄像头。Gurman 此前曾报道，该公司正准备在明年推出壁挂式智能显示器，用于控制您的智能家居，这是进军家庭的更大举措之一。]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24319970/new-apple-homepod-mini-tv-proxima-wifi-bluetooth-chip</guid>
+      <pubDate>Fri, 13 Dec 2024 00:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 禁止发布 UnitedHealthcare 枪击案凶手的宣言</title>
+      <link>https://www.theverge.com/2024/12/12/24319957/reddit-bans-posting-uhc-shooter-luigi-mangione-manifesto</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24319957/reddit-bans-posting-uhc-shooter-luigi-mangione-manifesto</guid>
+      <pubDate>Thu, 12 Dec 2024 23:15:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sundar Pichai 和 Jeff Bezos 前往 Mar-a-Lago 与特朗普闲聊</title>
+      <link>https://www.theverge.com/2024/12/12/24319917/sundar-pichai-jeff-bezos-donald-trump-mar-a-lago</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 | 照片来自 Brandon Bell、Getty Images
+
+科技界两位最大的领导人计划很快与当选总统唐纳德·特朗普会面。 The Information 报道称，谷歌首席执行官 Sundar Pichai 将于周四飞往佛罗里达州棕榈滩，并且特朗普表示亚马逊首席执行官杰夫·贝佐斯下周将与他会面。
+特朗普与谷歌的关系一直不和，他声称谷歌“被操纵”以隐藏对他的正面报道。然而，最近几周，特朗普多次声称 Pichai 给他打过电话。 Pichai 上周在《纽约时报》 DealBook 峰会上表示，这些电话与政府针对谷歌的反垄断案件“无关”。
+
+据《The Information》报道，消息人士预计 Pichai 不会“就反垄断诉讼或其他监管话题直接向特朗普做出任何暗示”。去年 10 月，特朗普在被问及是否会拆分谷歌时表示，他将“采取行动”。谷歌拒绝就皮查伊的到访发表评论。
+
+此外，特朗普在接受采访时证实，贝索斯“将于下周到访”周四接受 CNBC 采访。尽管特朗普在总统任期内与亚马逊存在不和，但贝索斯表示，他这次“非常乐观”。The Verge 联系亚马逊，请求其发表评论，但尚未得到回复。
+皮查伊和贝索斯并不是唯一试图掩盖与特朗普之间不和历史的科技领袖。去年 11 月，Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 在海湖庄园共进晚餐，特朗普曾威胁要将他送进监狱。据华尔街日报报道，Meta 还向特朗普的就职基金捐赠了 100 万美元。]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24319917/sundar-pichai-jeff-bezos-donald-trump-mar-a-lago</guid>
+      <pubDate>Thu, 12 Dec 2024 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌称其突破性的量子芯片无法破解现代密码学</title>
+      <link>https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography</link>
+      <description><![CDATA[
+
+图片：谷歌
+
+专家认为，有一天，量子计算机可能会让今天的加密系统彻底过时。但谷歌告诉The Verge 其新的“突破性” Willow 芯片还远远没有做好准备。 
+“Willow 芯片无法破解现代密码学，”谷歌量子 AI 总监兼首席运营官 Charina Chou 告诉The Verge。 
+所谓的“密码分析相关量子计算机”或 CRQC 可能会“危及民用和军用通信，破坏关键基础设施的监督和控制系统，并破坏大多数基于互联网的金融交易的安全协议”，白宫在 2022 年发出警告，命令美国机构必须在 2035 年前过渡到新系统以减轻这种风险。
+但谷歌表示，Willow 不是 CRQC。虽然该公司确实声称它可以在五分钟内解决计算难题，而世界上最快的超级计算机则需要十万亿年才能解决，但谷歌只生产了相当于 105 个物理量子比特的计算能力，并暗示它需要数百万个量子比特才能真正破解密码。
+“据估计，我们至少需要 10 年才能破解 RSA，而要做到这一点，大约需要 400 万个物理量子比特，”Chou 写道。她说 Willow 根本没有改变时间表。 
+
+尽管中国研究人员多次声称发现了使用更小的量子计算机（只有几百或几千个量子比特）破解 RSA 加密的新方法，但安全专家多次被持怀疑态度。
+自从爱德华·斯诺登泄密事件揭露NSA等间谍机构正在悄悄资助密码破译量子计算机研究以来，谷歌是众多准备利用后量子密码技术（PQC）抵御潜在加密破解威胁的公司之一。 
+几年前，我们曾撰文介绍过美国国家标准与技术研究所 (NIST) 如何在 2016 年创建了一项开发量子安全加密标准的竞赛。今年 8 月，NIST 发布了三种最终算法及其将其集成到产品和系统中的标准，并计划在年底前再选出一两种。
+兰德公司 (RAND Corporation) 是一家以过去为美国国家安全提供咨询而闻名的智库，在 2023 年的一篇社论中提出，一旦出现能够破解 RSA 的量子计算机，就会引发全球范围内的防御热潮：
+“一旦 CRQC 的存在为公众所知——或者甚至被认为是合理的——并且威胁变得具体，大多数易受攻击的组织将立即采取行动，将其所有通信系统升级为后量子密码学。”]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography</guid>
+      <pubDate>Thu, 12 Dec 2024 21:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 现在有一个工具可以消除照片中难看的窗户反射</title>
+      <link>https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal</link>
+      <description><![CDATA[
+
+Adobe 的“反射去除”工具现已作为 Camera Raw 中的技术预览提供。 |图片：Adobe
+
+Adobe 的 Project See Through 是一款能够消除透过窗户拍摄的照片中令人分心的反射的工具，现已作为技术预览版推出，现在称为反射消除工具。该工具最初在去年的 Adob​​e 年度 Max 大会上以“Sneak”的形式亮相，Adobe 表示，您可以通过 Adob​​e Camera Raw 预览版使用该工具，Lightroom 版本“即将推出”。
+确保照片不被反射破坏的最佳方法是避免透过窗户拍摄，但 Adob​​e 的新工具将增加您在飞行期间拍摄的美丽山景真正值得分享的机会。该工具的工作原理是区分构成具有反射的图像的两个场景，这两个场景通常通过不同的内容、白平衡（室内场景看起来比室外场景更暖）和清晰度来区分。
+
+
+图片：Adobe
+Adobe 通过将数千张照片合并在一起，为训练数据创建的人工反射示例。
+
+反射消除工具使用的 AI 模型是在包含数千张无反射照片的数据库中进行训练的，这些照片被配对并合并，以创建数百万张具有模拟反射的图像。通过强化过程，该模型学会了如何从单个组合图像中提取原始照片，这些照片在新工具中均可用。结果通常令人印象深刻，但 Adob​​e 指出，“如果反射太强烈或太复杂，以至于看照片的人很难弄清楚什么是什么，那么我们的模型可能也会遇到同样的问题。”
+要访问新工具（目前仅适用于 RAW 图像（计划支持 JPEG 和 HEIC），您需要打开 Camera Raw 工具，然后打开其首选项面板的技术预览部分，您可以在其中启用新的 AI 设置和功能面板，然后重新启动 Adob​​e Photoshop 或 Adob​​e Bridge。
+
+
+图片：Adobe
+原始照片（左）旁边是移除反射的版本（中）和孤立的反射图像本身（右）。
+
+导入 RAW 文件后，您会在“移除”面板的“干扰移除”部分找到“反射”选项。经过几秒钟的处理后，将显示无反射版本的图像（希望如此！）以及设置为 100 的滑块。将滑块向下拖至零将恢复反射，而将其拖动至 -100 将仅显示反射图像。]]></description>
+      <guid>https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal</guid>
+      <pubDate>Thu, 12 Dec 2024 21:23:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
