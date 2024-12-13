@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 13 Dec 2024 12:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 15:18:57 GMT</lastBuildDate>
+    <item>
+      <title>集体#889</title>
+      <link>https://tympanus.net/codrops/collective/collective-889/</link>
+      <description><![CDATA[3D 内容的运动矢量 * Astro 5.0 * HTML 和 CSS 中下拉菜单的详细介绍]]></description>
+      <guid>https://tympanus.net/codrops/collective/collective-889/</guid>
+      <pubDate>Fri, 13 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚焦：Aurora Defiori</title>
       <link>https://tympanus.net/codrops/2024/12/13/designer-spotlight-aurora-defiori/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 OGL 和 GLSL 着色器通过 WebGL 创建渐进式图像旋转效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/03/how-to-create-a-webgl-rotating-image-gallery-using-ogl-and-glsl-shaders/</guid>
       <pubDate>Tue, 03 Dec 2024 14:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#886</title>
-      <link>https://tympanus.net/codrops/collective/collective-886/</link>
-      <description><![CDATA[关于不使用 copilot * 可组合 SVG 着色器 * Electrobun]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-886/</guid>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
