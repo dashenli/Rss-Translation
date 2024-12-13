@@ -4,7 +4,22 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 12 Dec 2024 18:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 18:23:36 GMT</lastBuildDate>
+    <item>
+      <title>（赞助商）1Password</title>
+      <link>https://sixcolors.com/sponsor/2024/12/1password-10/</link>
+      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
+一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
+      <guid>https://sixcolors.com/sponsor/2024/12/1password-10/</guid>
+      <pubDate>Fri, 13 Dec 2024 17:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 作为电脑的体验 ↦</title>
+      <link>https://sixcolors.com/link/2024/12/the-iphone-as-computer-experience/</link>
+      <description><![CDATA[人们花了很多口舌来谈论是否可以在 iPad 上进行“真正的工作”，但却没有人停下来问一个真正的问题：你能在 iPhone 上进行真正的工作吗？…]]></description>
+      <guid>https://sixcolors.com/link/2024/12/the-iphone-as-computer-experience/</guid>
+      <pubDate>Fri, 13 Dec 2024 16:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>外观：Apple Intelligence 的普通人类</title>
       <link>https://sixcolors.com/post/2024/12/appearance-apple-intelligences-generic-humans/</link>
@@ -65,7 +80,7 @@ Apple Intelligence 又回来了，这次是视觉化的。随着 iOS 18.2、iPad
       <pubDate>Mon, 09 Dec 2024 22:30:19 GMT</pubDate>
     </item>
     <item>
-      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板椅子</title>
+      <title>（赞助商）如果没有高管的支持，安全就只是重新安排甲板上的椅子</title>
       <link>https://sixcolors.com/feed-only/2024/12/without-c-suite-buy-in-security-is-just-rearranging-deck-chairs-3/</link>
       <description><![CDATA[《泰坦尼克号》中有这样一句话，任何 IT 或安全专业人士都会感同身受。这艘船的建筑师
 解释说，他想为所有乘客提供足够的救生艇，“但人们觉得
@@ -107,21 +122,6 @@ Festivitas 会在启动时自动将节日灯添加到您的菜单栏和停靠栏
       <description><![CDATA[Lex 得到了一块新手表，Moltz 厌倦了科技，而 Dan 认为 Apple 不需要我们的帮助。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/12/the-rebound-524-boo-all-the-way-to-the-bank/</guid>
       <pubDate>Wed, 04 Dec 2024 20:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 583：在车里，带着我的 AirPods</title>
-      <link>https://sixcolors.com/podcast/2024/12/clockwise-583-in-the-car-with-my-airpods/</link>
-      <description><![CDATA[我们的家庭技术支持辛劳、50 美元以下的科技礼品推荐、智能家居装饰和季节性音乐推荐。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/clockwise-583-in-the-car-with-my-airpods/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:24:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>一台 Mac 还是两台 Mac 哪个更好？（Macworld/Jason Snell）</title>
-      <link>https://www.macworld.com/article/2544544</link>
-      <description><![CDATA[
-以前，我有一台电脑。这是我的雇主给我买的一台笔记本电脑，在工作时，我会把它连接到外接显示器上，然后在办公桌上使用它。…]]></description>
-      <guid>https://www.macworld.com/article/2544544</guid>
-      <pubDate>Wed, 04 Dec 2024 16:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
