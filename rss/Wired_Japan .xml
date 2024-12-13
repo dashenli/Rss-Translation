@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 13 Dec 2024 01:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:35:38 GMT</lastBuildDate>
+    <item>
+      <title>美国一家大型保险公司首席执行官被枪杀，揭示了“3D打印枪支”的演变</title>
+      <link>https://wired.jp/article/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/</link>
+      <description><![CDATA[据称，谋杀美国一家大型健康保险公司首席执行官的嫌疑人路易吉·曼吉奥内(Luigi Mangione)携带的这把枪似乎是根据互联网上提供的蓝图制造的。这次事件表明3D打印枪支已经达到了具有可靠杀伤力的阶段。]]></description>
+      <guid>https://wired.jp/article/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/</guid>
+      <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2025年备受关注的电动汽车（EV）的美好未来设计 - 特辑“THE WORLD IN 2025”</title>
       <link>https://wired.jp/article/vol55-energized-design/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>AI医疗已超越幻灭期 - 特辑“THE WORLD IN 2025”</title>
       <link>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</link>
-      <description><![CDATA[要想突破LLM的局限，通过开发更精准的AI，在全社会实施个性化优化的医疗服务，关键是构建基于“共享”的数据生态系统。]]></description>
+      <description><![CDATA[要想超越LLM目前的限制，通过开发更精准的AI，在全社会实施个性化优化的医疗服务，关键是构建基于“共享”的数据生态系统。]]></description>
       <guid>https://wired.jp/article/vol55-towards-a-better-co-being-beyond-the-singularity/</guid>
       <pubDate>Thu, 12 Dec 2024 01:00:00 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>苹果高管讲述Apple Intelligence发展的幕后故事</title>
       <link>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</link>
-      <description><![CDATA[苹果进入人工智能领域被认为进展缓慢。然而，这是强调隐私、旨在成为“最好”产品而不是“第一”产品的战略的结果。公司高管表达了多年准备的信心，并相信这一理念是竞争优势的关键。]]></description>
+      <description><![CDATA[苹果被视为人工智能领域的较晚进入者。然而，这是强调隐私、旨在成为“最好”产品而不是“第一”产品的策略的结果。公司高管表达了多年准备的信心，并相信这一理念是竞争优势的关键。]]></description>
       <guid>https://wired.jp/article/plaintext-the-inside-story-of-apple-intelligence/</guid>
       <pubDate>Wed, 11 Dec 2024 23:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 11 Dec 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>超大型望远镜趋势正在加速——专题“2025年的世界”</title>
+      <title>超大型天文望远镜正在加速建设——特辑《2025年的世界》</title>
       <link>https://wired.jp/article/vol55-massive-mirrors-take-shape/</link>
       <description><![CDATA[南美洲智利正在建造一座非常大的天文望远镜。以下三个项目具有前所未有的规模和精度，有可能带来天文学的重大进步。]]></description>
       <guid>https://wired.jp/article/vol55-massive-mirrors-take-shape/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>对于量子计算机来说，2025年是迈向“下一次工业革命”的一年：北川卓也访谈 ─ 特辑“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</link>
-      <description><![CDATA[随着“量子纠错技术”的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职业后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
+      <description><![CDATA[随着量子纠错技术的实现，量子计算机有望真正走向实用化。历经理论物理学家、AI经理、管理者等职后跳入量子计算机行业的北川拓哉，前景如何？]]></description>
       <guid>https://wired.jp/article/vol55-the-next-industrial-revolution-is-already-here/</guid>
       <pubDate>Wed, 11 Dec 2024 01:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[关于全球塑料污染的政府间谈判陷入僵局。然而，如果各国能够就资金、有害物质监管和生产限制达成一致，则有可能达成条约。朴茨茅斯大学革命塑料研究所的两名研究人员将解释这些争议点。]]></description>
       <guid>https://wired.jp/article/these-3-things-are-standing-in-the-way-of-a-global-plastics-treaty/</guid>
       <pubDate>Wed, 11 Dec 2024 00:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能和区块链阻止森林砍伐的挑战</title>
-      <link>https://wired.jp/article/managing-forests-with-smart-technologies/</link>
-      <description><![CDATA[来自立陶宛和瑞典的科学家结合人工智能、区块链和物联网技术，开发了一种可以实时监控和管理森林资源的解决方案。预计它将成为下一代模型，为森林保护带来创新。]]></description>
-      <guid>https://wired.jp/article/managing-forests-with-smart-technologies/</guid>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
