@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 13 Dec 2024 21:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:15:26 GMT</lastBuildDate>
+    <item>
+      <title>音频劫持的漫长而奇怪的故事 ↦</title>
+      <link>https://sixcolors.com/link/2024/12/the-long-strange-story-of-audio-hijack/</link>
+      <description><![CDATA[Audio Hijack 非常漂亮。但我们差点就失去了它。
+早在 Apple 芯片时代初期，必备的 Mac 音频工具就因为需要许多步骤和多次重启的新安装过程而严重降级。…]]></description>
+      <guid>https://sixcolors.com/link/2024/12/the-long-strange-story-of-audio-hijack/</guid>
+      <pubDate>Fri, 13 Dec 2024 23:27:54 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）1Password</title>
       <link>https://sixcolors.com/sponsor/2024/12/1password-10/</link>
@@ -115,13 +123,6 @@ Festivitas 会在启动时自动将节日灯添加到您的菜单栏和停靠栏
 就是这样——这就是应用程序。…]]></description>
       <guid>https://sixcolors.com/link/2024/12/festivitas-hangs-holiday-lights-on-your-mac/</guid>
       <pubDate>Wed, 04 Dec 2024 22:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 524：一路嘘声进入银行</title>
-      <link>https://sixcolors.com/podcast/2024/12/the-rebound-524-boo-all-the-way-to-the-bank/</link>
-      <description><![CDATA[Lex 得到了一块新手表，Moltz 厌倦了科技，而 Dan 认为 Apple 不需要我们的帮助。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/the-rebound-524-boo-all-the-way-to-the-bank/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:25:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
