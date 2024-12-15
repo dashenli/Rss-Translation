@@ -4,7 +4,46 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 21:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 01:22:12 GMT</lastBuildDate>
+    <item>
+      <title>现在 ChromeOS 可以自行重置，而无需清除你的笔记本电脑</title>
+      <link>https://www.theverge.com/2024/12/14/24321380/chromeos-m131-update-safety-reset-flash-notifications-accessibility</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+本周，Google 宣布 向非 Beta 版用户推出 ChromeOS M131，并带来了一个方便的“安全重置”功能可让 Chromebook 用户重置笔记本电脑，而无需彻底清除所有信息。此更新还引入了新的“Flash 通知”辅助功能选项，以帮助那些可能无法轻松听到或看到通知的用户。
+与 ChromeOS 中的 Powerwash 一样，如果您遇到类似计算机病毒的行为（例如异常弹出窗口），安全重置将清除所有信息。但是，根据有关该功能的帮助文档，Powerwash 是完全恢复出厂设置，而安全重置会保留本地数据和应用程序，以及书签和已保存的密码等内容。
+Google 还写道，用户可以通过按 CTRL + Shift + Search + R 直接调出安全重置对话框。否则，您可以在“安全和隐私”设置菜单中找到它，或者通过在“设置”或“启动器”中搜索“弹出窗口”、“垃圾邮件”或“病毒”等关键字来找到它。 
+
+
+图片：Google
+ChromeOS 辅助功能设置中的新 Flash 通知设置。
+
+至于新的 Flash 通知设置，可在辅助功能设置的“音频和字幕”下找到，为那些可能因为听力障碍或使用屏幕放大功能阅读内容而错过通知的用户提供额外的视觉通知指示器。用户可以从多个选项中选择闪光灯的颜色，预览按钮可让他们查看闪光灯的外观。 ]]></description>
+      <guid>https://www.theverge.com/2024/12/14/24321380/chromeos-m131-update-safety-reset-flash-notifications-accessibility</guid>
+      <pubDate>Sat, 14 Dec 2024 23:43:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 警告称 Phone Link 不会显示“敏感”的 Android 15 通知</title>
+      <link>https://www.theverge.com/2024/12/14/24321315/microsoft-windows-phone-link-notifications-not-showing-android-15</link>
+      <description><![CDATA[
+
+插图：Alex Castro / The Verge
+
+根据 Mishaal 的一篇帖子，微软的 Phone Link 应用警告称，使用最新版本 Android 15 的 Android 智能手机将不会显示某些“敏感”通知Rahman 被 Windows Central 发现。 
+此警告是 Android 15 隐私功能 的结果，该功能会自动将包含 2FA 代码的通知归类为“敏感”并阻止第三方应用查看它们。如果您在不知情的情况下授予恶意应用访问您的通知的权限，那么额外的隐私保护可能会派上用场。但如果您经常依赖通过手机链接在计算机上查看 2FA 代码，这可能会带来不便。
+
+
+屏幕截图：Windows Phone Link 警告
+Mishaal Rahman 发布了警告的屏幕截图。
+
+据 Rahman 称，对于已预装 Phone Link 并请求“配套设备角色”的 Android 设备，Windows 仍应显示敏感通知。 Windows Central 写道，这包括运行 One UI 6.1.1 的三星手机，但不包括 Google Pixel 或 Nothing Phones 等其他 Android 手机。Windows Central
+Rahman 在 10 月写道，用户可以通过在 Android 15 的通知设置中关闭“增强通知”来绕过通知隐藏功能。但是，这样做也会关闭回复建议等功能，并可能使恶意应用程序再次更容易从所有通知中收集详细信息。
+]]></description>
+      <guid>https://www.theverge.com/2024/12/14/24321315/microsoft-windows-phone-link-notifications-not-showing-android-15</guid>
+      <pubDate>Sat, 14 Dec 2024 22:36:33 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube TV 允许部分订阅用户暂缓涨价</title>
       <link>https://www.theverge.com/2024/12/14/24321223/youtube-tv-price-lock-cancel-subscription-offer</link>
@@ -100,41 +139,10 @@ Breath of the Styled.
 Meta 要求加州总检察长 Rob Bonta 阻止 OpenAI 从非营利性实体向营利性实体的转型计划。
 在本周发送给 Bonta 办公室的一封信中，Meta 表示，OpenAI“不应被允许藐视法律，夺取和重新挪用其作为慈善机构建立的资产，并将其用于潜在的巨额私人收益。”
 这封信最早由华尔街日报报道，您可以在下方阅读全文，信中甚至表示，Meta 认为埃隆·马斯克“有资格并有能力代表加州人的利益，参与这项 事情。” Meta 支持马斯克与 OpenAI 的斗争，这一点值得注意，因为马斯克和马克·扎克伯格去年谈论的实际上是在笼中比赛。
-OpenAI 最初是一家非营利组织，但凭借 ChatGPT 偶然取得了商业成功，目前该公司的收入为数十亿美元每年的收入。首席执行官 Sam Altman 明确表示，公司需要摆脱非营利地位，才能对投资者更具吸引力，并继续为实现其雄心壮志提供资金。赌注如此之高，以至于 OpenAI 将不得不归还今年筹集的数十亿美元（连同利息），如果它不能成功……
+OpenAI 最初是一家非营利组织，但凭借 ChatGPT 偶然取得了商业成功，目前该公司的收入为数十亿美元每年的收入。首席执行官 Sam Altman 明确表示，该公司需要摆脱非营利地位，才能对投资者更具吸引力，并继续为实现其雄心壮志提供资金。赌注如此之高，以至于 OpenAI 将不得不归还今年筹集的数十亿美元（连同利息），如果它不能成功……
 在 The Verge 上阅读完整故事。]]></description>
       <guid>https://www.theverge.com/2024/12/13/24320880/meta-california-ag-letter-openai-non-profit-elon-musk</guid>
       <pubDate>Sat, 14 Dec 2024 01:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 联合创始人 Ilya Sutskever 表示，人工智能的构建方式即将改变</title>
-      <link>https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training</link>
-      <description><![CDATA[
-
-Ilya Sutskever。 |图片来源：JACK GUEZ/AFP via Getty Images
-
-OpenAI 联合创始人兼前首席科学家 Ilya Sutskever 今年早些时候登上头条新闻，他离开创办了自己的 AI 实验室 Safe Superintelligence Inc。自离开后，他一直避开聚光灯，但周五在温哥华举行的神经信息处理系统会议 (NeurIPS) 上罕见地公开露面。
-“我们所知道的预训练无疑将结束，”Sutskever 在台上说道。这是 AI 模型开发的第一阶段，大型语言模型从大量未标记数据（通常是来自互联网、书籍和其他来源的文本）中学习模式。 
-“我们已经获得了峰值数据，不会再有更多了。”
-在 NeurIPS 演讲中，Sutskever 表示，虽然他相信现有数据仍可推动 AI 进一步发展，但该行业正在挖掘新数据进行训练。他说，这种动态最终将迫使人们改变当今模型的训练方式。他将这种情况比作化石燃料：正如石油是一种有限的资源一样，互联网包含有限数量的人类生成内容。
-“我们已经获得了峰值数据，不会再有更多了，”Sutskever 说。 “我们必须处理这些数据……
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training</guid>
-      <pubDate>Sat, 14 Dec 2024 00:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒂姆·库克是最新一位在海湖庄园与特朗普会面的科技公司首席执行官</title>
-      <link>https://www.theverge.com/2024/12/13/24320839/donald-trump-tim-cook-mar-a-lago</link>
-      <description><![CDATA[
-
-
-苹果首席执行官蒂姆·库克将于周五在佛罗里达州的 Mar-a-Lago 度假村与当选总统唐纳德·特朗普共进晚餐，据纽约时报报道。据报道，这是库克自大选以来首次与特朗普会面。
-在特朗普第一任期内，库克与总统建立了直接关系，其他科技首席执行官都想效仿。随着特朗普准备第二任期，库克可能想讨论潜在的关税，这可能会对苹果的业务产生重大影响。 
-
-库克可能还想讨论欧盟针对苹果的行动；在总统竞选期间，特朗普声称库克打电话给他，抱怨苹果在欧盟面临的罚款，指控其在应用商店政策以及管理 iPhone 和 Mac 等平台的方式中存在反竞争行为。
-库克来访之前，有报道称特朗普昨天与谷歌首席执行官 Sundar Pichai 进行了交谈，下周还将与亚马逊创始人 Jeff Bezos 进行交谈。特朗普于 11 月与 Meta 首席执行官马克·扎克伯格会面。
-科技公司和领导人，包括Meta、亚马逊和OpenAI 首席执行官 Sam Altman 也呼吁当选总统向其就职基金捐款 100 万美元。]]></description>
-      <guid>https://www.theverge.com/2024/12/13/24320839/donald-trump-tim-cook-mar-a-lago</guid>
-      <pubDate>Sat, 14 Dec 2024 00:24:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
