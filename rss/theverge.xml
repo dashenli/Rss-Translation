@@ -4,164 +4,161 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 16 Dec 2024 15:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 18:23:55 GMT</lastBuildDate>
     <item>
-      <title>Arm 首席执行官 Rene Haas 谈 AI 芯片竞赛、英特尔以及特朗普对科技的影响</title>
-      <link>https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech</link>
+      <title>谷歌的 Whisk AI 生成器将“重新混合”你输入的图片</title>
+      <link>https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in</link>
       <description><![CDATA[
 
-图片来源：The Verge；照片：Hollie Adams / Bloomberg via Getty Images
+我在 Whisk 中制作的 AI 生成图像使用 Google 建议的图像作为提示。 |图片：Google 通过 Whisk
 
-无处不在的芯片设计公司的负责人谈论人工智能的“惊人”发展速度。 
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech</guid>
-      <pubDate>Mon, 16 Dec 2024 15:15:00 GMT</pubDate>
+Google 宣布推出一款名为 Whisk 的新 AI 工具，该工具可让您使用其他图像作为提示来生成图像，而无需长文本提示。
+使用 Whisk，您可以提供图像来建议您想要的主题、场景和 AI 生成图像的风格，并且您可以为这三个方面中的每一项提示 Whisk 提供多张图像。（如果您愿意，也可以填写文本提示。）如果您手头没有图像，您可以点击骰子图标让 Google 填写一些提示图像（尽管这些图像也 看起来是 AI 生成的）。如果您想添加有关您正在寻找的图像的额外细节，您还可以在流程结束时在文本框中输入一些文本，但这不是必需的。
+Whisk 随后将为每张图片生成图像和文本提示。如果您对结果满意，您可以收藏或下载图片，或者您可以通过在文本框中输入更多文本或点击图片并编辑文本提示来优化图片。
+
+
+Jay Peters / The Verge 的截图
+Whisk 的截图。我点击骰子来生成主题、场景和风格。我通过输入文本提示来替换自动生成的场景。 Whisk 创建了前两幅图像，我通过让 Whisk 在主体周围添加一些蒸汽（因为它是水中的火）对其进行了迭代，从而得到了接下来的两幅图像。
+
+
+在博客文章中，Google 强调 Whisk 的设计目的是“快速进行视觉探索，而不是进行像素完美的编辑”。该公司还表示，Whisk 可能“达不到目标”，这就是为什么它允许您编辑底层提示的原因。
+在我撰写本文时使用该工具的几分钟内，摆弄它很有趣。图像需要几秒钟才能生成，这很烦人，虽然图像有点奇怪，但我生成的所有内容都很有趣。
+谷歌表示，Whisk 使用了其 Imagen 3 图像生成模型的“最新”迭代，它今天宣布。谷歌还推出了其视频生成模型的下一代版本 Veo 2。该公司表示，该模型能够理解“独特的电影摄影语言”，并且产生幻觉（比如多余手指）的频率“低于”其他模型（其他模型之一可能是 OpenAI 的 Sora）。Veo 2 将首先出现在谷歌的 VideoFX 中，您可以在 Google Labs 的候补名单上获得该模型，并将在明年某个时候扩展到 YouTube Shorts 的“其他产品”中。]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in</guid>
+      <pubDate>Mon, 16 Dec 2024 18:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>Eufy 推出售价 70 美元的新款安全摄像头，可在夜间拍摄彩色画面</title>
-      <link>https://www.theverge.com/2024/12/16/24322413/eufy-indoor-cam-e30-security-camera-night-vision-color</link>
-      <description><![CDATA[
-
-Eufy 的新款 Indoor Cam E30 可以放在桌子上，也可以安装在墙壁和天花板上，但您需要接电源线。 |图片：Eufy
-
-Eufy 宣布推出一款新型安全摄像头，室内摄像机 E30。该摄像机更新了2020 年发布的旧型号，具有 4K 视频录制功能和附加聚光灯，可在其典型的夜视选项中添加色彩捕捉。现在售价 69.99 美元。
-室内摄像头 E30 可以水平旋转 360 度，垂直平移 75 度，可以监控整个房间。它使用设备上的 AI 来检测人类和宠物的存在，还可以识别并提醒您婴儿哭闹等音频提示。摄像头可以自动跟踪运动中的物体以使其保持在画面中。它的位置也可以手动控制，但只能通过 Eufy 移动应用程序控制，而不是 Apple Home。
-该设备与 HomeKit 兼容 - 包括 Apple 的 HomeKit Secure Video - 允许您将录音保存到 iCloud。但这需要订阅 iCloud Plus，并且流媒体分辨率限制为 1080P。如果您希望免费订阅，Indoor Cam E30 包含一个 microSD 卡插槽，用于存储本地镜头，这些镜头可以以 4K 分辨率流式传输到 Eufy 移动应用程序。如果您需要额外的存储空间，该摄像头还可以连接到 Eufy 的 149.99 美元 HomeBase S380，可扩展至 16TB。（Eufy 承诺已修复我们在 2022 年发现的 隐私问题。）
-双向音频可让您通过摄像头进行远程通信，非常适合在您工作时告诉狗或猫从沙发上下来。（编者注：猫听过吗？）虽然增加的聚光灯使 Indoor Cam E30 能够以彩色捕捉夜间镜头，但它将摄像头在黑暗中的视野范围缩小到 16.4 英尺。使用红外灯会将摄像头限制为只能看到黑白两色，但会将其可视范围提高到 32 英尺多一点。]]></description>
-      <guid>https://www.theverge.com/2024/12/16/24322413/eufy-indoor-cam-e30-security-camera-night-vision-color</guid>
-      <pubDate>Mon, 16 Dec 2024 14:59:13 GMT</pubDate>
+      <title>Meta 在其智能眼镜中推出实时人工智能、实时翻译和 Shazam 功能</title>
+      <link>https://www.theverge.com/2024/12/16/24322628/ray-ban-meta-smart-glasses-live-ai-translation-shazam</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322628/ray-ban-meta-smart-glasses-live-ai-translation-shazam</guid>
+      <pubDate>Mon, 16 Dec 2024 18:06:35 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最佳娱乐活动</title>
-      <link>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</link>
+      <title>Instagram 将让你用拼贴画回顾 2024 年的故事</title>
+      <link>https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story</link>
       <description><![CDATA[
 
-Arcane. | 图片：Netflix
+Kristen Radtke / The Verge 插图
 
-找点东西看或玩有时会感觉像在工作——有太多东西在争夺你的空闲时间。无论您是去剧院、浏览众多流媒体平台还是寻找新视频游戏，情况都是如此。选择太多，很容易让人不知所措。
-因此，正如我们多年过去所做的那样，我们将 2024 年所有我们最喜欢的发行版都收集到一个地方。目标是让您的决策更容易一些。这可能意味着要重点介绍从一部真正不负盛名的备受期待的电影到一款风靡全球的惊喜独立游戏的任何内容。
-我们将全年更新此页面，继续关注电影、电视和游戏方面的最新动态 — 敬请期待。
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming</guid>
-      <pubDate>Mon, 16 Dec 2024 14:41:58 GMT</pubDate>
+Instagram 现在可让您通过在故事中添加拼贴画来展示 2024 年您最喜欢的时刻。这项新功能仅在 1 月的第一周开放，可让您组合全年的大量图片并与朋友分享。
+您目前只能通过在故事中添加照片、调整其大小、在屏幕上移动它，然后添加更多图像作为贴纸来创建拼贴画式的故事。 Instagram 的布局功能还允许您将多张照片添加到故事中，但它们仅以网格格式显示。
+
+
+图片：Instagram
+
+Instagram 还推出了一些其他临时功能，包括以年底为主题的“添加您的”模板，让您的好友用他们自己的故事回复您的故事。还有新的“新年”和“倒计时”文本效果、DM 的假日聊天主题，以及触发特殊效果的笔记和 DM 中的秘密短语，例如“新年快乐”。
+]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322563/instagram-recap-2024-collage-story</guid>
+      <pubDate>Mon, 16 Dec 2024 17:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>Silo 第四季将在 Apple TV Plus 上完结</title>
-      <link>https://www.theverge.com/2024/12/16/24322429/silo-final-season-apple-tv-plus</link>
+      <title>YouTube 正在测试创作者语音回复</title>
+      <link>https://www.theverge.com/2024/12/16/24322524/youtube-voice-replies-creator-comments-test</link>
       <description><![CDATA[
 
-图片：Apple
+插图由 Alex Castro / The Verge 提供
 
-世界末日的终结已经近在眼前。苹果刚刚宣布，其末日题材的电视剧《Silo》目前正处于第二季，已续订两季。这意味着第四季将是该剧的最后一季。
-Silo 于 2023 年首次亮相，讲述了人类残余的故事，他们生活在一个地下筒仓中，在那里他们基本上可以安全地避开外面被毁坏的景观。然而，事情很快就变得更加复杂，这部剧充满了谜团。该系列改编自休·豪伊的科幻小说三部曲，苹果表示，最后两季将讲述这些书的“完整故事”。 （到目前为止，第一本书已分布在节目的前两季中。）
+下次您评论 YouTube 视频时，您可以听到其创建者的声音回复您。 YouTube 表示正在测试一项功能，让“少数”创作者可以录制音频回复视频评论。
+YouTube 表示希望这项实验“让创作者和观众之间建立更有意义的关系”。测试组中的 YouTube 用户可以在回复评论时点击声波图标，点击“录制语音回复”，然后正常发布。但是，其他任何人都可以像普通的文本评论一样与这些回复互动。 
 
-“随着《筒仓》最后两章的推出，我们迫不及待地想为该剧的粉丝们提供一个令人难以置信的结局，以揭开筒仓内隐藏的众多谜团和未解问题，”节目制作人 Graham Yost 在一份声明中说道。该剧的主演兼执行制片人 Rebecca Ferguson 补充道：“我一直对讲述 Hugh Howey 书中的整个故事充满热情，因此我很高兴世界各地的观众都热情地接受了这部剧。”
-《筒仓》第二季将于 1 月 17 日结束。就在同一天，另一部科幻剧集《Severance》第二季回归 Apple TV Plus，职场惊悚片《Severance》。]]></description>
-      <guid>https://www.theverge.com/2024/12/16/24322429/silo-final-season-apple-tv-plus</guid>
-      <pubDate>Mon, 16 Dec 2024 14:37:10 GMT</pubDate>
+
+这是 YouTube 测试组中的一位创作者。
+
+目前，测试组中的创作者只能在 iOS 应用中创建语音回复，并且只能在自己的视频上创建。您可以听到回复的地方似乎也很有限；我无法在 Mac 上的网络浏览器中收听上述来自 YouTuber ThioJoe的语音回复，但我可以在 iPhone 15 Pro 和 Pixel 6 手机上的 YouTube 应用中播放它。]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322524/youtube-voice-replies-creator-comments-test</guid>
+      <pubDate>Mon, 16 Dec 2024 17:30:20 GMT</pubDate>
     </item>
     <item>
-      <title>Snapchat 正在彻底改革平台上有影响力人士的赚钱方式</title>
-      <link>https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-Snapchat 正在通过推出新的统一货币化计划来调整人们在平台上赚钱的方式。新计划将涵盖发布到 Stories 和 Spotlight 的内容，Spotlight 是该平台类似 TikTok 的发现提要，其中包含推荐的视频内容。根据该计划，网红可以通过在符合条件的 Stories 和 Spotlight 帖子中投放广告获得收入。 
-以前，这些格式的货币化是相互分割的：Stories 收入放在一个桶里，Spotlight 收入通过不同的计划。
-新计划目前正在一小部分用户中进行测试，并将于 2025 年 2 月 1 日广泛推出。要参与，用户需要达到一组基准才能被邀请：50,000 名粉丝和 1000 万次 Snap 浏览量、100 万次 Spotlight 浏览量或过去 28 天内 12,000 小时的观看时间。 
-他们还需要持续发布内容，每月至少发布 25 次已保存的故事或 Spotlight，并在过去 28 天内至少有 10 天发布到 Spotlight 或公开故事。其中一些资格要求明显高于旧结构下的资格要求。例如，要有资格通过 Spotlight 赚钱，创作者以前需要具备公开个人资料、1,000 名粉丝和 10,000 次视频观看等条件。
-其他视频平台也简化或更改了原创者资金。例如，TikTok 现在有一个创作者计​​划，要求视频时长超过 1 分钟。在 YouTube 上，Shorts 创作者通过广告收入赚钱——这是该公司与 TikTok 展开有意义的竞争的举措。]]></description>
-      <guid>https://www.theverge.com/2024/12/16/24320402/snapchat-creator-monetization-program-stories-spotlight</guid>
-      <pubDate>Mon, 16 Dec 2024 14:00:00 GMT</pubDate>
+      <title>索尼降噪耳机 WF-1000XM5 比黑色星期五便宜</title>
+      <link>https://www.theverge.com/2024/12/16/24322475/sony-wf-1000xm5-earbuds-amazon-smart-plug-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322475/sony-wf-1000xm5-earbuds-amazon-smart-plug-deal-sale</guid>
+      <pubDate>Mon, 16 Dec 2024 17:29:57 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲的 Starlink 竞争对手正在</title>
-      <link>https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost</link>
+      <title>无人机又一个周末混乱后查克·舒默希望得到答案</title>
+      <link>https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey</link>
       <description><![CDATA[
 
-野外的 Starlink 终端。 | 照片由 Thomas Ricker / The Verge 拍摄
+参议员查克·舒默出席 12 月 15 日的新闻发布会。|截图：NBC 新闻
 
-欧盟已签署协议，其IRIS² 星座将由 290 颗通信卫星组成，这些卫星将在中低轨道运行。Starlink 的竞争对手将为政府用户、私营公司和欧洲公民提供安全连接，并为盲区提供高速互联网。据《金融时报》报道，这项价值 106 亿欧元（约 110 亿美元）的公私合作交易预计将于 2030 年上线。
+参议院多数党领袖查克·舒默 (D-NY) 已要求国土安全部向纽约和新泽西州当局提供先进的无人机探测系统，以帮助“确定到底发生了什么”，因为东北部不断出现目击事件。
+“我们最近在纽约、新泽西、长岛、斯塔顿岛看到了很多目击事件。”舒默在12 月 15 日的新闻发布会上说道。 “最近有这么多目击事件，为什么我们的疑问比答案还多？”
 
-SpaceRISE 是由欧洲卫星网络运营商 SES、Eutelsat 和 Hispasat 牵头的财团，并得到空中客车和德国电信等欧洲卫星通信分包商的支持，已获得为期 12 年的特许合同，用于开发、部署和运营 IRIS² 星座。 IRIS² 是“卫星弹性、互联互通和安全基础设施”的首字母缩写。
-“这一尖端卫星将保护我们的关键基础设施，连接我们最偏远的地区，并提高欧洲的战略自主权。通过与 SpaceRISE 联盟合作，我们展示了公私合作推动创新并为所有欧洲人带来切实利益的力量，”负责技术主权、安全和民主的执行副总裁 Henna Virkkunen 表示。
-9 月，FCC 主席 Jessica Rosenworcel 表示她希望看到更多竞争，以对抗埃隆·马斯克的 Starlink，自 2018 年以来，Starlink 已经发射了约 7,000 颗卫星。“我们的经济不会从垄断中受益……每个有竞争的通信市场都很强大，我们看到更低的价格和更多的创新，老实说，太空也不例外。”]]></description>
-      <guid>https://www.theverge.com/2024/12/16/24322358/iris2-starlink-rival-europe-date-cost</guid>
-      <pubDate>Mon, 16 Dec 2024 12:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 负责人表示，由于人工智能的存在，社交媒体需要更多背景信息</title>
-      <link>https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-在 Threads 系列帖子今天下午，Instagram 负责人 Adam Mosseri 表示，用户不应该相信他们在网上看到的图片，因为人工智能“显然在制作”容易被误认为是现实的内容。正因为如此，他说用户应该考虑来源，社交平台应该在这方面提供帮助。
-“作为互联网平台，我们的角色是尽可能地标记人工智能生成的内容，”Mosseri 写道，但他承认这些标签会遗漏“一些内容”。因此，平台“还必须提供分享者的背景信息”，以便用户决定对其内容的信任程度。
+上周末，斯图尔特国际机场部分区域因无人机目击事件暂时关闭，纽约州长 Kathy Hochul 表示，“这太过分了。”无人机活动还关闭了俄亥俄州赖特-帕特森空军基地的空域超过四个小时。 
+当选总统唐纳德·特朗普周一表示，由于在该地区发现无人机，他将取消前往新泽西州贝德明斯特的行程。他说，“政府知道发生了什么”，“他们最好说出来。”
+周日的新闻发布会上，舒默要求开发一种“360 度”探测系统，就像罗宾雷达系统公司制造的那种。这家欧洲公司销售微多普勒雷达，声称这种雷达可以在 3D 空间中区分鸟类和以每小时 60 英里的速度移动的无人机。其网站介绍了其雷达用于机场安检、七国集团峰会以及研究荷兰鸟类迁徙的案例研究。
+舒默还敦促国会通过“保护国土免受无人机系统威胁法案”，该法案可能赋予地方执法部门和联邦当局探测无人机的权力。
 
 
+在这些无人机目击事件中，我正在努力寻找答案。我呼吁@SecMayorkas 在纽约和新泽西州部署特殊的无人机检测技术。我正在努力在参议院通过一项法案，为当地执法部门提供更多无人机检测工具。— 查克·舒默 (@SenSchumer) 2024 年 12 月 15 日
 
-就像记住聊天机器人会在你信任人工智能搜索引擎之前自信地对你撒谎一样，检查发布的声明或图片是否来自信誉良好的帐户可以帮助你考虑其真实性。目前，Meta 的平台并没有提供 Mosseri 今天发布的那种背景信息，尽管该公司最近暗示其内容规则即将发生重大变化。
-Mosseri 所描述的听起来更接近用户主导的审核，例如 X 和 YouTube 上的 Community Notes 或 Bluesky 的 自定义审核过滤器。目前尚不清楚 Meta 是否计划推出类似产品，但话又说回来，它众所周知借鉴了 Bluesky 的著作。
 
 ]]></description>
-      <guid>https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation</guid>
-      <pubDate>Sun, 15 Dec 2024 23:30:30 GMT</pubDate>
+      <guid>https://www.theverge.com/2024/12/16/24322542/drone-sightings-chuck-schumer-detection-system-new-york-new-jersey</guid>
+      <pubDate>Mon, 16 Dec 2024 17:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>此 mod 将 PSP 变成支持蓝牙控制器的微型 PS2</title>
-      <link>https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod</link>
+      <title>你现在可以购买这款怀旧的 Game Boy Advance 克隆版</title>
+      <link>https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator</link>
       <description><![CDATA[
 
-PS Placeable 可将 PSP 变成微型 PS2。 | 图片：Retro Mod Works
+Anbernic RG34XX 现提供四种颜色，包括透明红色和绿色选项。 |图片：Anbernic
 
-如果您可以将屏幕破损的 PSP 变成微型 PS2，将蓝牙控制器连接到它，并在电视上玩 PSP 游戏，那会怎样？这就是 Retro Mod Works 的 PS Placeable 背后的想法，这是一款“整合” PSP 的模组，昨天在 YouTube 频道 Macho Nacho Productions 的一段视频中进行了展示。
-Retro Mod Works 预制 PS Placeable 售价 274.99 美元。不过，目前这些产品都处于等待状态 — 网站上的一条消息称，该项目是“单人秀”，对 Placeable 的需求高于预期。 
-Retro 还提供以低 100 美元的价格改装客户提供的 PSP，并且还有一个选项预订 DIY 部件并自己​​进行转换工作。该改装需要 PSP-2000 或 PSP-3000 版本，因为第一个 PSP 没有视频输出。目前还不清楚 DIY 部件何时发货 - 我们已经询问了 Retro Mod Works，如果得到答复，我们会更新。
+Anbernic 的最新掌上游戏机现已上市，它升级了任天堂 Game Boy Advance 的设计，屏幕更大，按钮更多，还能通过模拟玩游戏。RG34XX 可通过 Anbernic 网站订购，价格为 69.99 美元，但截至 12 月 18 日，价格已降至 63.99 美元。它有四种颜色可供选择，包括 GBA 原有的紫色和黑色，以及透明的绿色和红色。
+尽管它看起来与原版 GBA 的硬件几乎完全相同，但 RG34XX 增加了一对额外的操作按钮、两个肩部按钮、microSD 卡插槽、一个 HDMI 端口和一个更大的 3.4 英寸显示屏，分辨率为 720x480，宽高比为 3:2。该手持设备似乎还继承了 GBA 的音量拨盘，但它实际上是一个双向拨动开关，允许以小幅度调高或调低音量。
 
-
-图片：Retro Mod Works
-一堆 PS Placeables。
+RG34XX 直到今天才开始发售，但 Anbernic 上周已将设备发送给评测人员，因此我们已经对这款新手持设备有了第一印象。 YouTube 频道 Russ Crandall 的运营者，他发现该模拟器是任天堂硬件的“近乎完美”的再现。这可能是好事也可能是坏事，这取决于你如何记住 GBA 的人体工程学。
+RG34XX 搭载了 Allwinner H700 芯片组，Anbernic 已在其他八款设备中使用过该芯片组。它无法玩 Nintendo 64、Sega Dreamcast 和 Sony PSP 等 3D 游戏机发布的所有游戏，但这款掌上游戏机可以轻松处理 16 位游戏，并且在匹配屏幕比例的情况下擅长模拟 Game Boy Advance。
 
 
-该项目的主要负责人 Dan 告诉 Macho Nacho 主持人 Tito Perez，他“讨厌购买数字游戏的想法”，因为他有实体游戏，并且想要一种方法来添加蓝牙控制器支持同时保留了 UMD 驱动器。他还在 Reddit 回复 中提到，他的目标是帮助人们使用 mod 修复损坏的 PSP，该 mod 不需要控制台的屏幕。
-但购买这些 mod 套件之一可能价格昂贵或需要大多数人不具备的技能。如果你只想在电视上玩 PSP 游戏，而不在乎是否拥有 UMD 驱动器，那么 PSP Go（没有索尼古怪的光盘驱动器，但支持蓝牙控制器，也有输出视频的方式）仍然是 非常容易来。
-]]></description>
-      <guid>https://www.theverge.com/2024/12/15/24321729/psp-ps-placeable-home-console-bluetooth-controller-mod</guid>
-      <pubDate>Sun, 15 Dec 2024 20:00:38 GMT</pubDate>
+图片：Keep Retro
+RG34XX 上的辅助肩部按钮较小，并且位置较大，手可能难以舒适地触及。
+
+Retro Handhelds 是一个专注于玩经典游戏的便携式设备的网站，该网站也发现 RG34XX 是 GBA 的准确再现，但发现对于手大的人来说，玩起来有点局促。RG34XX 的主肩部按钮与 GBA 位于相同的位置，手感不错。但是，次要按钮较小，位置更靠近 GBA 卡槽，使用起来不太舒服。]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322504/anbernic-rg34xx-nintendo-game-boy-advance-gba-availability-pricing-emulator</guid>
+      <pubDate>Mon, 16 Dec 2024 16:45:21 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的可折叠 iPad 可能就像“并排的两台 iPad Pro”</title>
-      <link>https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor</link>
+      <title>T-Mobile 正在寻找 Starlink 卫星到基站 beta 测试人员</title>
+      <link>https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open</link>
       <description><![CDATA[
 
-你难道不想把它弯成两半吗？ |照片由 Amelia Holowaty Krales / The Verge 拍摄
+图片：The Verge
 
-苹果希望在 2028 年左右推出一款可折叠的 18.8 英寸无折痕 iPad，彭博社的 Mark Gurman 在今天的Power On 新闻通讯中写道。据报道，该公司的工业设计团队已经成功打造出这款设备的原型，其“折痕几乎看不见”，基本上就像“并排放置的两台 iPad Pro”。
-关于可折叠 iPad 的传言已经流传多年。最近的传言包括苹果将在 2026 年或 2027 年发布的一款较小型号。古尔曼今天的文章与他在 2022 年详细介绍的巨型 20 英寸折叠“iPad / MacBook 混合体”有着强烈的呼应。这似乎并不意味着它将运行 macOS，但 Gurman 声称它“将同时拥有”Mac 和 iPad 的元素，并且到 2028 年，iPadOS“应该足够先进，可以运行 macOS 应用程序”。
+T-Mobile 是让客户注册，成为首批测试其即将推出的 Starlink 卫星直连蜂窝服务的人，该服务有望填补美国 500,000 平方英里的地面蜂窝塔盲区。该公司创建了一个新的注册页面，人们可以免费注册，测试将于“明年初”开始。
+T-Mobile Starlink 测试计划向所有拥有“兼容”卫星的后付费客户开放手机，但该公司尚未公布哪些设备可以运行。首先，注册的 beta 测试人员只能试用卫星短信，语音通话和数据稍后推出。
 
-考虑到 Mac 现在可以运行 iPhone 和 iPad 应用程序，认为这条路可以随着时间的推移双向发展并不奇怪。这也可能有助于价值主张； 13 英寸 iPad Pro 的起售价为 1,299 美元，而两倍于此尺寸的 iPad 可能造成的任何经济损失，加上能够在其上运行 macOS 应用程序的优势，都会更容易接受一些。
-Gurman 表示，可折叠 iPhone 仍在研发中，但他并不认为“最早也要到 2026 年才会推出”，正如其他传言所说。他还表示，来自其消息来源的信息与据称是苹果内部显示屏路线图相符，该路线图最近流传开来，暗示苹果将推出 18.8 英寸可折叠 iPad，并计划在 2026 年推出 OLED MacBook Pro，随后在 2027 年推出 MacBook Air OLED 更新。
-]]></description>
-      <guid>https://www.theverge.com/2024/12/15/24321659/apple-foldable-18-8-inch-ipad-invisible-crease-rumor</guid>
-      <pubDate>Sun, 15 Dec 2024 15:38:51 GMT</pubDate>
+FCC 上个月向 T-Mobile 和卫星合作伙伴 SpaceX 颁发了批准，允许客户使用卫星服务，但不需要实时语音和视频通话所需的更高无线电发射功率。 8 月，Verizon 和 AT&amp;T 表示担忧，认为全面实现的 T-Mobile 服务可能会干扰其竞争卫星服务。
+T-Mobile 于 9 月测试了直接发送至手机的紧急警报，10 月，SpaceX 向 T-Mobile 客户开通了卫星短信服务受飓风海伦和米尔顿影响的地区。]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322447/t-mobile-starlink-spacex-beta-registration-open</guid>
+      <pubDate>Mon, 16 Dec 2024 16:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年科技行业：谁将入局，谁将出局</title>
-      <link>https://www.theverge.com/2024/12/15/24320517/2025-preview-tech-politics-ai-regulation-vergecast</link>
+      <title>纽约市亚马逊卡车司机工会投票批准罢工</title>
+      <link>https://www.theverge.com/2024/12/16/24322383/amazon-warehouse-delivery-drivers-unions-teamsters-strike-labor-safety-senate-report</link>
       <description><![CDATA[
 
-图片：Alex Parkin / The Verge
+插图由 Alex Castro / The Verge 提供
 
-大家好！我来自未来。我有一些新闻。 12 个月后，所有科技巨头的 CEO 都还在工作，每个人都在使用可折叠手机，苹果制造了电视，而 Nvidia 是宇宙历史上最有价值的公司。真是疯狂的一年，对吧？或者可能不是？很难记住。时间旅行会稍微扰乱你的记忆。
-在这集The Vergecast中，这是我们两部分 2025 年预览的第二部分，我们讨论了 2025 年底的一些非常不确定的故事情节。我们的常驻时间旅行者 David 为我们带来了一些在来年发生或未发生的大故事，而 Nilay Patel 和华尔街日报专栏作家Joanna Stern必须帮助弄清楚什么是真实的，什么不是真实的。
-
-有人真的会买 Snap 吗？ GTA VI 会成为有史以来最伟大的游戏吗？Bluesky 会继续崛起并让 Threads 望尘莫及吗？目前没人知道，甚至时间旅行者也不知道，但我们有一些想法和观点。
-与上周的剧集一样，我们正在记录得分。它是这样运作的：对于每个 2025 年的新闻报道，每个主持人都必须决定它在年底前是否真实。每次猜对都会为您赢得一分；每次猜错...
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/15/24320517/2025-preview-tech-politics-ai-regulation-vergecast</guid>
-      <pubDate>Sun, 15 Dec 2024 15:00:00 GMT</pubDate>
+周五，纽约斯塔顿岛亚马逊仓库的工人投票决定，如果公司不同意确定合同谈判日期，他们将进行罢工。工人们要求亚马逊承认工会，并就更安全的工作条件和更好的工资进行谈判，威胁在亚马逊一年中最繁忙的时期之一进行罢工的可能性。
+卡车司机工会主席 Sean O’Brien 在一份新闻稿中表示，亚马逊必须在昨天已过的 12 月 15 日之前同意谈判日期。如果亚马逊不同意，它就有可能面临斯塔顿岛 (JFK8) 配送中心 5,500 多名工人的罢工。皇后区 (DBK4) 最后一英里配送站的送货司机也投票批准罢工。
+“这是我第三次给亚马逊放假了，”一位名叫詹姆斯的工人在周五由劳工非营利组织 More Perfect Union 发布的一段视频中说道。“我还没有过感恩节和圣诞节。假期期间，工作速度不断加快。我想说，危险程度是平时的两倍。” 
+美国参议院委员会最近发布的一份报告称，根据对亚马逊记录的调查，该公司仓库的受伤率“在过去七年中每年是其他公司的 1.8 倍以上”，据《纽约时报》报道。委员会主席伯尼·桑德斯参议员表示，“亚马逊的高管一再选择将利润置于工人的健康和安全之上，无视可以大幅减少伤害的建议。”
+在发给《The Verge》的电子邮件声明中，亚马逊发言人艾琳·哈兹指责卡车司机工会“故意”误导性地声称其代表了数千名亚马逊员工和司机。 
+他们没有，这是又一次试图推行虚假叙述。事实是，卡车司机工会积极威胁、恐吓并试图强迫亚马逊员工和第三方司机加入他们，这是非法的，并且是针对该工会的多项未决不公平劳工行为指控的主题。
+当我们问哈兹指的是哪些指控时，她没有立即回应。相反，2022 年，美国国家劳工关系委员会 指控亚马逊本身“多次违反法律，威胁、监视和审问”试图成立工会的史坦顿岛工人。
+史坦顿岛仓库的工人投票决定在 2022 年成立工会，并于 6 月 加入了美国最大的工会之一卡车司机工会，随后在皇后区工厂工作的司机也于 9 月。亚马逊尚未承认这些工会。截至撰写本文时，卡车司机工会尚未在其 X 帐户、Facebook 页面或网站上宣布积极罢工。]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322383/amazon-warehouse-delivery-drivers-unions-teamsters-strike-labor-safety-senate-report</guid>
+      <pubDate>Mon, 16 Dec 2024 16:11:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国自动驾驶出租车公司步履蹒跚，中国的自动驾驶出租车队正在不断壮大</title>
+      <link>https://www.theverge.com/2024/12/16/24322395/us-vs-china-robotaxi-pony-ai-cruise-waymo-trump</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2024/12/16/24322395/us-vs-china-robotaxi-pony-ai-cruise-waymo-trump</guid>
+      <pubDate>Mon, 16 Dec 2024 15:27:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
