@@ -4,23 +4,37 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 17 Dec 2024 06:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 09:20:22 GMT</lastBuildDate>
     <item>
-      <title>“自然”成为都市人的良方——专题《2025年的世界》</title>
+      <title>亚马逊《Kindle Scribe》（2024版）产品评测：还有进一步进化的空间</title>
+      <link>https://wired.jp/article/amazon-kindle-scribe-second-generation-review/</link>
+      <description><![CDATA[2024 年型号“Kindle Scribe”通过现已成为标准配备的高级笔和新功能“Active Canvas”改进了注释功能。尽管仍然存在一些问题，例如防水和彩色显示，但它是一款将数字笔记本和电子书阅读器结合在一个设备中的有吸引力的产品。]]></description>
+      <guid>https://wired.jp/article/amazon-kindle-scribe-second-generation-review/</guid>
+      <pubDate>Tue, 17 Dec 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球变暖导致的移民已经开始 - 特辑“THE WORLD IN 2025”</title>
+      <link>https://wired.jp/article/vol55-the-climate-driven-diaspora-is-here/</link>
+      <description><![CDATA[气候变化将迫使许多人逃离家园。然而，世界各国政府并没有明确的应对措施。地球上还有一个地方可以让我们和平相处吗？]]></description>
+      <guid>https://wired.jp/article/vol55-the-climate-driven-diaspora-is-here/</guid>
+      <pubDate>Tue, 17 Dec 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“自然”成为都市人的良方——特辑《2025年的世界》</title>
       <link>https://wired.jp/article/vol55-prescribing-a-dose-of-nature-to-urbanites/</link>
-      <description><![CDATA[每年有很多人死于非传染性疾病，城市化是主要原因。随着城市人口的不断增加，现在是时候将我们的注意力转向基于科学的自然益处并促进利用它们的城市设计了。]]></description>
+      <description><![CDATA[每年都有很多人死于非传染性疾病，而城市化是主要原因。随着城市人口不断增长，现在是时候将我们的注意力转向科学证明的自然益处并促进充分利用这些益处的城市设计了。]]></description>
       <guid>https://wired.jp/article/vol55-prescribing-a-dose-of-nature-to-urbanites/</guid>
       <pubDate>Tue, 17 Dec 2024 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>让随心所欲移动的假手成为现实：无需脑部手术的肌肉植入</title>
+      <title>实现“随心所欲移动的假肢”——无需进行脑部手术的肌肉植入</title>
       <link>https://wired.jp/article/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/</link>
       <description><![CDATA[医疗技术初创公司 Phantom Neuro 正在开发一种薄而灵活的肌肉植入物，可植入皮下。这项技术将使假肢能够以更自然的方式移动。]]></description>
       <guid>https://wired.jp/article/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/</guid>
       <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从森林出发，抵制“千篇一律”的制造：化妆品品牌SHIRO与建筑项目“KANSO”的激进实践</title>
+      <title>从森林出发，抵制“千篇一律”的工艺：化妆品品牌SHIRO与建筑项目“KANSO”的激进实践</title>
       <link>https://wired.jp/article/minnano-sunagawa-factory-shiro-kanso/</link>
       <description><![CDATA[在北海道砂川市化妆品品牌 SHIRO 的“Everyone&#39;s Factory”举办了以“自然带来的多样性”和“制造”为主题的谈话活动。 SHIRO 和 KANSO（一个利用天然材料多方面性能的建筑项目）的激进实践相交叉的简单哲学是什么？]]></description>
       <guid>https://wired.jp/article/minnano-sunagawa-factory-shiro-kanso/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>电动汽车电池的寿命可能比预期更长</title>
       <link>https://wired.jp/article/electric-cars-could-last-much-longer-than-most-think/</link>
-      <description><![CDATA[到目前为止，人们一直担心电动汽车（EV）电池的寿命较短。因此，它们在二手市场上的价值被认为很低，但多项研究表明，它们比预期更能抵抗恶化。电动汽车电池超过8年保修期，有可能使用20年甚至更长时间。]]></description>
+      <description><![CDATA[到目前为止，人们一直担心电动汽车（EV）电池的使用寿命较短。因此，它们在二手市场上的价值被认为很低，但多项研究表明，它们比预期更能抵抗恶化。电动汽车电池的保修期已超过 8 年，可能可持续使用 20 年或更长时间。]]></description>
       <guid>https://wired.jp/article/electric-cars-could-last-much-longer-than-most-think/</guid>
       <pubDate>Sun, 15 Dec 2024 23:00:00 GMT</pubDate>
     </item>
@@ -71,14 +85,14 @@
     <item>
       <title>被禁止X的程序员发布“数据发布工具”“Cyd”</title>
       <link>https://wired.jp/article/x-delete-posts-cyd-micah-lee/</link>
-      <description><![CDATA[随着大规模用户不断离开X，一款名为“Cyd”的工具被发布，该工具可以让用户轻松保存和删除SNS上的帖子。尽管开发商承认时机再好不过了，但他表示在这个完美的时间发布是一个巧合。]]></description>
+      <description><![CDATA[随着大量用户不断离开X，一款名为“Cyd”的工具被发布，该工具可以让用户轻松保存和删除SNS上的帖子。尽管开发商承认时机再好不过了，但他表示在这个完美的时间发布是一个巧合。]]></description>
       <guid>https://wired.jp/article/x-delete-posts-cyd-micah-lee/</guid>
       <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>加速“未知材料”的发现？ 英国研究团队开发人工智能工具预测材料晶体结构</title>
       <link>https://wired.jp/article/ai-model-that-can-predict-atoms-arrangements/</link>
-      <description><![CDATA[英国研究团队开发了一种人工智能技术，可以使用大规模语言模型（LLM）预测材料的晶体结构。由于它消除了需要大量时间和计算资源的传统模拟，因此有可能加速“未知材料”的有效发现。]]></description>
+      <description><![CDATA[英国研究团队开发出一种利用大规模语言模型（LLM）预测材料晶体结构的人工智能技术。这可能会加速“未知材料”的有效发现，因为它消除了需要大量时间和计算资源的传统模拟的需要。]]></description>
       <guid>https://wired.jp/article/ai-model-that-can-predict-atoms-arrangements/</guid>
       <pubDate>Sat, 14 Dec 2024 23:00:00 GMT</pubDate>
     </item>
@@ -90,25 +104,11 @@
       <pubDate>Sat, 14 Dec 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>每个人都有权利自己决定如何使用人工智能——特辑“2025年的世界”</title>
+      <title>每个人都有自己决定如何使用人工智能的权利 - 特辑“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-the-right-to-repair-erroneous-ais/</link>
       <description><![CDATA[随着人们对人工智能对社会影响的担忧日益加深，人们将要求对其使用方式进行更多控制。实现这一目标的一种方法是通过红队发现并解决问题。]]></description>
       <guid>https://wired.jp/article/vol55-the-right-to-repair-erroneous-ais/</guid>
       <pubDate>Sat, 14 Dec 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI代理成为讨论调解人：Takahiro Yasuno——特辑“THE WORLD IN 2025”</title>
-      <link>https://wired.jp/article/vol55-ai-agents-will-improve-the-shape-of-democracy/</link>
-      <description><![CDATA[2025年，随着人工智能代理变得越来越普及，这不仅可能改变人们的工作和交流方式，还可能改变民主国家选举和达成共识的方式。]]></description>
-      <guid>https://wired.jp/article/vol55-ai-agents-will-improve-the-shape-of-democracy/</guid>
-      <pubDate>Sat, 14 Dec 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌以下一代人工智能“Gemini 2.0”展望未来。 AI助手原型机同时亮相</title>
-      <link>https://wired.jp/article/google-gemini-2-ai-assistant-release/</link>
-      <description><![CDATA[谷歌的新旗舰人工智能模型正在改变个人计算和网络搜索的未来。还举行了实验性人工智能助手的演示，揭示了一个甚至将改变人们与物理世界互动方式的概念。]]></description>
-      <guid>https://wired.jp/article/google-gemini-2-ai-assistant-release/</guid>
-      <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
