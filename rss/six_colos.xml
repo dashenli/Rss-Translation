@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 17 Dec 2024 21:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 01:15:10 GMT</lastBuildDate>
+    <item>
+      <title>iOS 18.2 邮件功能失败</title>
+      <link>https://sixcolors.com/post/2024/12/ios-18-2-mail-is-a-misfire/</link>
+      <description><![CDATA[在 iOS 18.2 的所有新功能中，我真的没想到我会写关于邮件的内容。然而，考虑到我每天在 iPhone 上使用邮件的次数，iOS 18.2 中邮件的更改可能是该版本中最糟糕的事情。…]]></description>
+      <guid>https://sixcolors.com/post/2024/12/ios-18-2-mail-is-a-misfire/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 526：Instantgram</title>
       <link>https://sixcolors.com/podcast/2024/12/the-rebound-526-instantgram/</link>
@@ -109,13 +116,6 @@ Apple Intelligence 又回来了，这次是视觉化的。随着 iOS 18.2、iPad
       <description><![CDATA[2024 年即将过去，因此，按照我们的习惯，现在是时候回顾过去的一年，看看苹果的情况如何。…]]></description>
       <guid>https://www.macworld.com/article/2552180/the-biggest-apple-stories-of-2024.html</guid>
       <pubDate>Wed, 11 Dec 2024 15:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级 541：Nonotexture</title>
-      <link>https://sixcolors.com/podcast/2024/12/upgrade-541-nonotexture/</link>
-      <description><![CDATA[Jason买了一台笔记本电脑，苹果和索尼可能正在策划Vision Pro计划，我们在iOS 18.2中评测了Apple Intelligence。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/upgrade-541-nonotexture/</guid>
-      <pubDate>Mon, 09 Dec 2024 22:30:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
