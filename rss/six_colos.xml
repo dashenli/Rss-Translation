@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 21:14:58 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 585：空间感太强</title>
+      <link>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</link>
+      <description><![CDATA[有关可折叠 iPad 的传言、Mac 上的空间计算、我们使用街景类功能的频率以及我们已关闭的 iOS 18 功能。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</guid>
+      <pubDate>Wed, 18 Dec 2024 19:48:22 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年预测回顾：Apple Intelligence 并不令人意外，但 M4 确实令人意外 (Macworld/Jason Snell)</title>
       <link>https://www.macworld.com/article/2560352</link>
@@ -108,14 +115,6 @@
 我已经习惯了在我的播客录制设置上使用物理静音按钮，所以当我使用没有提供该按钮的其他设置时，我会感到非常不安。…]]></description>
       <guid>https://sixcolors.com/post/2024/12/mic-drop-mutes-your-microphone-everywhere/</guid>
       <pubDate>Wed, 11 Dec 2024 18:57:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.2/macOS 15.2评测：图片不那么完美？</title>
-      <link>https://sixcolors.com/post/2024/12/ios-18-2-macos-15-2-review-picture-not-so-perfect/</link>
-      <description><![CDATA[使用 Image Playground 生成图像。
-Apple Intelligence 又回来了，这次是视觉化的。随着 iOS 18.2、iPadOS 18.2 和 macOS 15.2 更新，Apple 推出了第二轮生成式 AI 功能，包括其首批与图像相关的功能，如 Genmoji、Image Playground 和 Image Wand。…]]></description>
-      <guid>https://sixcolors.com/post/2024/12/ios-18-2-macos-15-2-review-picture-not-so-perfect/</guid>
-      <pubDate>Wed, 11 Dec 2024 16:43:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
