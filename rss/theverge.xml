@@ -4,7 +4,156 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 21:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 01:15:17 GMT</lastBuildDate>
+    <item>
+      <title>本田预告将发布两款全新 Honda Zero EV 原型车</title>
+      <link>https://www.theverge.com/2024/12/18/24323492/honda-zero-ces-prototype-tease-ev-saloon-space-hub</link>
+      <description><![CDATA[
+
+图片：本田
+
+本田预告了前两款车型的发布 本田 Zero原型车，将于 1 月在拉斯维加斯举行的消费电子展上正式亮相。该公司还表示，它将为全球电动汽车系列展示一个新的专有操作系统。
+本田在 2024 年国际消费电子展上宣布了 Honda Zero，称其为一个新的“全球电动汽车系列”，它将比目前一批笨重、四四方方的电动 SUV 和卡车“更轻”、更具太空时代感。Honda Zero 的三个定义原则是“薄”、“轻”和“智能”。该公司将利用从 F1 和机器人技术工作中学到的经验，推出一系列明显属于未来的新车。 
+
+
+
+在即将举行的 CES 上，本田表示将进一步拓展其“明智”原则，发布更多有关其新操作系统、自动驾驶技术的细节，以及支持其本田 Zero 车型的片上系统概述。 
+预告图片展示了今年早些时候首次亮相的两款概念车的后部轮廓：Saloon 和 Space-Hub。Saloon 具有倾斜的快背造型，前部和后部有独特的矩形灯，类似于老式 Black &amp; Decker Dustbuster。 Space-Hub 类似于一辆小型货车，悬垂部分很小，尾灯与 Rivian 为亚马逊生产的电动送货车 外观相似。
+本田表示将扩大其“明智”原则
+今年早些时候，Verge  撰稿人 Abigail Bassett 飞往日本 近距离体验本田的全新全球电动车系列。她驾驶了一辆搭载本田 Zero 技术的 CR-V 原型车，发现它比本田 Prologue 更轻、更灵活。
+新款本田 Zero 平台在加速和操控方面与市场上其他电动车平台感觉相似。由于重量在地板上较低，因此当您接近极限时，CR-V 原型车转弯迅速且平稳。动力系统快速灵敏，在工程师为我们的测试圈设置的短直道上，我在相对较短的距离内达到了 110 公里（略低于 70 英里/小时）。 
+看到更多可量产的 Saloon 和 Space-Hub 版本将会很有趣，尤其是在背景中关于本田的所有讨论（正在研发固态电池、与索尼合作开发 Afeela EV、可能与日产合并）。]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24323492/honda-zero-ces-prototype-tease-ev-saloon-space-hub</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔概述了 Arrow Lake CPU 的性能修复</title>
+      <link>https://www.theverge.com/2024/12/18/24324594/intel-performance-arrow-lake-core-ultra-200s-cpus</link>
+      <description><![CDATA[
+
+图片：英特尔
+
+英特尔的新款 Arrow Lake CPU 于 10 月推出，承诺在较低功率水平下实现高性能，但包括我们在内的评论都令人惊讶地指出游戏性能不佳。 Tom Warren 谈到 Core Ultra 9 285K 时表示，“...在许多游戏中，它的性能比它旨在取代的第 14 代芯片更差。”
+现在，这家陷入困境的芯片制造商表示它已逐步发布更新，修复了它发现的大多数问题，正如Tom’s Hardware早些时候报道的那样。
+“最后英特尔副总裁兼客户端 AI 和技术营销总经理 Robert Hallock 在接受 HotHardware 采访时表示：“今天，我们需要解决四个根本问题，而这些问题的修复实际上已经在实施中。在过去两周左右的时间里，随着更新计划的允许，这些修复已经陆续发布。”
+
+其中一个问题源于一次“不合时宜”的更新，该更新原本是为了针对英特尔 Core Ultra 200S 系列处理器优化 Windows 的处理器电源管理 (PPM) 系统。 （PPM 根据当前电源计划（如平衡、高性能、省电等）调整 CPU 的性能）。
+
+英特尔表示，它计划在 PPM 更新广泛可用时发布，而不是在评测人员拿到处理器之前发布，这可能导致评测人员看到的性能低于预期。由于缺少 PPM 更新，英特尔提升性能的应用程序性能优化器 (APO) 也无法在游戏中发挥作用，而“配置错误”的性能设置也对评测人员的基准产生了负面影响。
+
+
+图片：英特尔
+
+Windows 11 build 26100.2161 中已经针对这些问题应用了修复程序。英特尔还表示，Epic Games 解决了驱动程序兼容性问题，该问题导致在运行使用 Easy Anti-Cheat 的游戏（例如《星球大战：亡命之徒》）时出现蓝屏死机。
+英特尔计划于 1 月发布另一套针对 Arrow Lake CPU 的性能升级，并将在 CES 上“提供全面的性能更新”。目前，如果您还没有更新 Windows 并将最新的 BIOS 更新应用到主板，英特尔建议您更新 Windows 并应用最新的 BIOS 更新。否则，您可以等到明年的“最终”性能更新。]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24324594/intel-performance-arrow-lake-core-ultra-200s-cpus</guid>
+      <pubDate>Wed, 18 Dec 2024 23:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是关于新泽西州无人机之谜我们所不知道的一切</title>
+      <link>https://www.theverge.com/24324635/new-jersey-drones-rumors-nj-news</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge，Getty Images
+
+到目前为止，可能的答案包括外星人、国际阴谋、秘密军事试验或仅仅是飞机。 2024 年的无人机狂热已经在整个东海岸持续了数周，而我们仍然有更多问题而不是答案。目击事件可能始于新泽西州，但有关无人机目击事件的报道仍在继续传播。 
+通常的当局并没有提供太多帮助，他们只是发表了一些平淡无奇的声明，例如“目前仍未发现对公共安全的已知威胁”，无法平息人们的焦虑和兴趣。到目前为止，我们确实知道，这是一场追逐影响力的政客的完美风暴，而我们的手机摄像头实际上无法胜任拍摄天空中飞行物体的任务。
+与此同时，社交媒体引发的错误信息纷纷涌入，填补了人们所看到的信息空白。即使在很多情况下，他们看到的是飞机、星星、流星，或者是无人机猎人为了寻找神秘无人机而发射的无人机。
+我们将在这里记录我们能收集到的最佳信息。]]></description>
+      <guid>https://www.theverge.com/24324635/new-jersey-drones-rumors-nj-news</guid>
+      <pubDate>Wed, 18 Dec 2024 23:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 神秘泄密者描述的 Nintendo Switch 2 及其底座</title>
+      <link>https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld</link>
+      <description><![CDATA[
+
+不是 Switch 2。想得更远。 |照片由 Cameron Faulkner / The Verge 拍摄
+
+上周五，我们从最有可能的来源为您带来了下一代 Nintendo Switch 的泄露尺寸：机壳制造商 Dbrand 获得的“实际硬件的 3D 扫描图”。但机壳制造商并不是泄密的唯一来源。                   一位名为“NextHandheld”的 Reddit 用户声称自己看到并触摸过 Nintendo Switch 2 的实际最终零售单元。我与他们进行了交谈，现在我听到和看到的已经足够多，我认为他们可能是合法的。
+
+特别是，我看到了两张可能的 Nintendo Switch 2 底座的照片，以及一张可能的 Switch 2 控制器导轨内部的照片，上面覆盖着认证徽标，铜触点暴露在外，还显示了其金属支架铰链以一定角度打开。值得注意的是，底座未包含在机壳制造商之间流传的 3D 扫描中。
+如果 NextHandheld 说的是实话，那么我们现在对任天堂的下一代游戏机有了更多的了解。例如：尽管我们很想将它称为“超级任天堂 Switch”，但它很可能会以任天堂 Switch 2 的名称推出。 
+名称和日期
+官方称，任天堂只是将其称为“任天堂 Switch 的继任者”，并承诺将于 2025 年 3 月 31 日 之前正式发布这款新游戏机，并且……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24324483/nintendo-switch-2-leak-reddit-next-handheld</guid>
+      <pubDate>Wed, 18 Dec 2024 23:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款防水棺材可让您的 AirTag 电池续航 10 年</title>
+      <link>https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life</link>
+      <description><![CDATA[
+
+您需要卸下 AirTag 的电池盖才能将其安装在 TimeCapsule 内。 |图片：Elevation Lab
+
+Elevation Lab 的新款 TimeCapsule 是 Apple AirTag 的保护壳，可将其变成防水、防尘的追踪器，电池寿命长达十年。现售价 19.99 美元，但您也可以以 29.99 美元的价格购买一对，或者以 39.99 美元的价格购买折扣很大的四件装。
+TimeCapsule 是一个糖果棒大小的外壳，用电触点和一对 AA 电池插槽取代了 AirTag 的 CR2032 纽扣电池。据 Elevation Lab 的 Casey Hopkins 称，它由“纤维增强聚碳酸酯”制成，不会阻挡或减少蓝牙或 UWB 信号的范围。该保护壳还具有 IP69 等级，可提供最高级别的防水、防尘和防污保护。无法应对水坑的十年追踪器毫无意义。
+
+
+图片：Elevation Lab
+TimeCapsule 还可以帮助伪装 AirTag，使其看起来更像是外部存储驱动器而不是跟踪设备。
+
+当然，这有其利弊。 TimeCapsule 装上电池后重 3.5 盎司，而标准 AirTag 重 0.39 盎司。外壳确实会将 AirTag 的鸣叫声降低约三分之一，这可能会使其更难通过耳朵定位。但对于您真的不想每年更换 AirTag 电池的情况，这似乎是值得的。 
+该公司建议使用 Energizer Ultimate Lithium AA 电池来最大限度地延长电池寿命，并避免碱性电池的泄漏和腐蚀。您也可以使用镍氢电池，但它们的使用寿命不会太长，需要充电。 ]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24324526/elevation-lab-time-capsule-apple-air-tag-battery-life</guid>
+      <pubDate>Wed, 18 Dec 2024 22:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Android 的最佳智能手表</title>
+      <link>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</link>
+      <description><![CDATA[
+
+William Joel / The Verge 的照片插图
+
+Wear OS 比以前好多了，所以现在是考虑购买智能手表的最佳时机。
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
+      <pubDate>Wed, 18 Dec 2024 22:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年回顾：年度应用回顾现已发布</title>
+      <link>https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+你在听、在走、在玩，而他们在看。我们可以在这里找到 2024 年的应用程序回顾、最佳列表和奖项。 它不再只是 Spotify——Wrapped 现象已经占据了主导地位。从音乐和播客到游戏（Xbox、PlayStation、Nintendo 和 Steam 都是除了考虑你的行为之外，你所做事情的数据细分提醒你，有这么多连接的设备，总有人在监视你。 
+一旦 Dunkin and Shake Shack 开始做综述，这一趋势就巩固了，而且似乎不会很快扭转。 
+当然，Spotify 仍然处于领先地位。 2024 年，Wrapped 整合了 Google 的 NotebookLM，让两位 AI 生成的播客主持人回顾您已经了解的有关您最喜欢的音乐家的事实，并跟踪您的品味在一年中的变化。如果您尚未查看 Wrapped 2024 统计数据，您可以按照以下方法查找它们。
+如果您有要分享的回顾或发现我们遗漏的一些内容，请在评论中发表。]]></description>
+      <guid>https://www.theverge.com/24301386/spotify-wrapped-2024-apple-music-replay-youtube-music-recap</guid>
+      <pubDate>Wed, 18 Dec 2024 22:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽车和 ChargePoint 计划在 2025 年底前安装数百个快速电动汽车充电器</title>
+      <link>https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network</link>
+      <description><![CDATA[
+
+带有 Chargepoint 制造的 GM Energy 充电器的充电站渲染图。 |图片：通用汽车
+
+通用汽车与 ChargePoint 合作，在通用汽车能源品牌下建立一个新的电动汽车充电网络，两家公司今天宣布。 
+通用汽车计划在美国各地“战略”地点部署的充电站安装多达 500 个直流快速充电端口，其中一些配备了 ChargePoint 的 Express Plus 平台，支持高达 500kW 的充电速度。通用汽车和 Chargepoint 计划“迅速”开设充电站，并在 2025 年底前完成位置部署。”
+ChargePoint 将为该项目带来其 Omni Port 充电硬件，该硬件可与配备 CCS 或特斯拉 NACS 端口的车辆连接，因此车主通常无需携带适配器。 
+“凭借超快速充电、Omni Port 技术和出色的客户体验，此次合作应该是电动汽车驾驶员和电动汽车爱好者兴奋的另一个原因，”通用汽车能源副总裁 Wade Sheffer 在一份声明中表示。
+这并不是通用汽车能源唯一的电动汽车充电器合作伙伴关系。该汽车制造商还与 EVgo 达成了持续协议，截至 12 月，EVgo 已经安装了2,000 个直流快速充电器。通用汽车还与 Flying J 和 Pilot 卡车停靠站合作建设充电站，同时还与现代、起亚、宝马和 Stellantis 等主要参与者一起加入了电动汽车充电联盟 Ionna。]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24324512/gm-chargepoint-dc-fast-charger-network</guid>
+      <pubDate>Wed, 18 Dec 2024 22:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ram 1500 Rev 现已推迟至 2026 年</title>
+      <link>https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger</link>
+      <description><![CDATA[
+
+图片：Ram
+
+Ram 品牌所有者 Stellantis 推迟其期待已久的全电动 Ram 1500 Rev 皮卡从 2025 年上半年到 2026 年。该汽车制造商目前优先推出其燃气混合动力 Ramcharger 卡车，该卡车的发布时间也从最初计划的 2025 年上半年推迟到 2025 年之后。
+Stellantis 表示，首先推出 Ramcharger 是一个“由消费者的强烈兴趣”和重型全电动车型需求放缓所驱动的决定。Stellantis 的首席执行官 Carlos Tavares 于本月初辞职，原因是该汽车制造商的销量急剧下滑。该公司被指控贬低其美国品牌，并且未能发布更实惠的车型。 
+Ramcharger 和 Rev 均基于 Stellantis 的 STLA Frame 车身框架平台打造，旨在处理电动、燃气、混合动力和氢动力系统。该平台有助于将 Ramcharger 燃气扩展版电动汽车续航里程延长至 690 英里（充满电且油箱满油）。 
+Stellantis 和电池合作伙伴三星 SDI 刚刚从拜登政府获得了一笔联邦贷款，用于生产国产电动汽车电池。]]></description>
+      <guid>https://www.theverge.com/2024/12/18/24324527/ram-1500-rev-delayed-2026-ramcharger</guid>
+      <pubDate>Wed, 18 Dec 2024 21:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>据报道，苹果不会推出 iPhone 订阅服务</title>
       <link>https://www.theverge.com/2024/12/18/24324485/apple-iphone-subscription-service-wont-launch</link>
@@ -17,167 +166,6 @@ Apple 在全面推出 Apple Pay Later 几个月后就关闭了这项硬件订阅
 虽然硬件订阅服务显然不会面世，但 Apple 提供了分期付款计划，您可以用它分期付款购买 iPhone。iPhone 升级计划将新 iPhone（和 AppleCare Plus）的贷款分期付款到 24 个月，您可以在支付相当于 12 个月的费用后升级到新手机。如果您有 Apple Card，您还可以使用 Apple Card 每月分期付款购买新 iPhone（和其他 Apple 产品）。]]></description>
       <guid>https://www.theverge.com/2024/12/18/24324485/apple-iphone-subscription-service-wont-launch</guid>
       <pubDate>Wed, 18 Dec 2024 20:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>主题可以让你重新分享图片，而无需原始帖子</title>
-      <link>https://www.theverge.com/2024/12/18/24324434/threads-reshare-pictures-without-original-post</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-Threads 正在推出一项新功能，让您可以分享某人的照片和视频，而无需包含原始帖子。 Instagram 负责人 Adam Mosseri 表示，您可以在转发的媒体旁边添加自己的文字，其中包括对创作者的致谢。。
-“这是一种快速、简单的方法，可以将自己的创意添加到热门图片和剪辑中，而无需引用发布，”Mosseri 说。原始发帖人的用户名将显示在照片或视频的左上角，转发计数器显示在左下角。Threads 发言人 Alec Booker 告诉 The Verge，点击用户名将显示使用该媒体的帖子列表，原始帖子将显示在顶部。 
-
-
-
-除了让重新分享媒体变得更简洁之外，该功能可能旨在帮助减少有关用户未经授权重新发布内容的投诉。创作者的帖子被重复使用时会收到通知，并且还可以从帐户设置中关闭重新分享功能。
-要在 Threads 上重新发布图片或视频，您可以长按媒体（或重新发布按钮）并选择使用媒体。从那里，您可以添加自己的文本并分享帖子。X 有一个类似的选项，但仅适用于视频，其中包括视频下方的致谢和原始帖子的链接。
-更新，12 月 18 日：从 Threads 添加了更多信息。]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324434/threads-reshare-pictures-without-original-post</guid>
-      <pubDate>Wed, 18 Dec 2024 20:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊为 Fire TV 带来有意义的可访问性改进</title>
-      <link>https://www.theverge.com/2024/12/18/24324335/amazon-fire-tv-dual-audio-hearing-aids-accessibility</link>
-      <description><![CDATA[
-
-图片：亚马逊
-
-亚马逊今天宣布，其 Fire TV 的双音频功能将在未来几周内推出，该功能可让观众通过助听器收听，而房间中的其他人则可以从电视扬声器中体验标准声音。它将首先在该公司最新的 Fire TV Omni Mini LED 上推出。双音频使用助听器音频流 (ASHA) 协议。
-亚马逊在一篇博文中表示，这标志着“配备支持 ASHA 的助听器的 Fire TV 客户首次能够使用两个不同的音频输出与其他人同时收听流媒体内容”，从而获得更加共同的观看体验。该公司还扩大了对 ASHA 的支持，“以涵盖所有 Widex Moment 耳背式 (BTE) 和耳道式 (RIC) 助听器”，并与一系列设备兼容，包括 Fire TV Omni Mini LED 系列、Fire TV Omni QLED 系列、Fire TV Cube、Fire TV 4 系列、Fire TV 2 系列和 Fire TV Omni 系列。
-亚马逊还采取措施使其包装和随附的入门指南更易于访问。最新包装上的新二维码“包括触觉凸起的 UV 点，以提高可发现性。” 
-扫描该二维码将带您进入 Amazon.com，获取更深入的产品信息和设置设备的步骤。亚马逊的 Maiken Moeller-Hansen 在一篇博客文章中写道：“这非常关键，因为这样盲人或视力低下的顾客就可以通过触摸轻松找到代码。”除了这些无障碍措施外，亚马逊还为 Echo、Kindle 和 Fire TV 硬件推出了新的包装，使用的再生纤维增加了 30%（“平均而言”），墨水减少了 60%。
-如何在 Fire TV Omni Mini LED 上启用双音频：
-
-按住遥控器上的“主页”按钮
-转到“设置”→“辅助功能”
-打开“双音频”功能，将兼容的助听器与电视配对以开始流媒体播放。
-
-如何使用 Fire TV 设置助听器：
-
-转到“设置”→“辅助功能”
-选择助听器部分，然后选择添加助听器
-]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324335/amazon-fire-tv-dual-audio-hearing-aids-accessibility</guid>
-      <pubDate>Wed, 18 Dec 2024 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以买到的最好的智能锁</title>
-      <link>https://www.theverge.com/23393163/best-smart-door-lock</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-有了智能锁，您再也不会被锁在门外了，您可以通过手机、语音或手指轻触来控制智能锁。
-阅读 The Verge 上的完整故事。]]></description>
-      <guid>https://www.theverge.com/23393163/best-smart-door-lock</guid>
-      <pubDate>Wed, 18 Dec 2024 19:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款纸牌游戏可以让你建立理想的社交网络——或者最有害的社交网络</title>
-      <link>https://www.theverge.com/2024/12/18/24324420/one-billion-users-card-game-social-network-techdirt-kickstarter</link>
-      <description><![CDATA[
-
-One Billion Users 目前正在 Kickstarter 上。 | 图片：Mike Masnick / Kickstarter
-
-我的社交网络正在蓬勃发展。我吸引了顶级用户：令人垂涎的潮流引领者、被人气吸引的投资者。我克服了服务器问题和负面新闻。然后，有人从我正在测试的“十亿用户”牌组中抽出了一张特别倒霉的牌。六十秒后，我输光了所有牌。
-“十亿用户” 是 Techdirt 和 Diegetic Games 推出的一款新纸牌游戏，在最佳状态下，它适合这样的时刻。目前，该游戏在 Kickstarter 上已进入最后几天，旨在资助游戏的单次运行，而不是广泛发布，它是该团队一系列项目中的最新一款——包括数字游戏 Moderator Mayhem 和 Trust &amp; Safety Tycoon 以及 CIA: Collect It All，一款基于真实 CIA 培训材料构建的纸牌游戏。
-One Billion Users  比这些游戏都更不书呆子气。它的灵感来自相对简单的 1906 年赛车主题纸牌游戏 Touring，该游戏因 1950 年代流行的改编作品 Mille Bornes 而广为人知。只是，你不是试图在压制竞争对手的同时成为最快的车手，而是试图在破坏其他所有人的同时建立最大的社交网络。
-
-一组拦截器、社区、影响者、修补程序和事件卡。
-...
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324420/one-billion-users-card-game-social-network-techdirt-kickstarter</guid>
-      <pubDate>Wed, 18 Dec 2024 19:37:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是 40 件你可以在节日期间最后一刻买到的礼物</title>
-      <link>https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24323542/best-last-minute-gifts-ideas-unique</guid>
-      <pubDate>Wed, 18 Dec 2024 19:20:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么每张新泽西无人机的照片都这么糟糕？</title>
-      <link>https://www.theverge.com/2024/12/18/24324347/new-jersey-drones-photos-phone-camera</link>
-      <description><![CDATA[
-
-这是《X档案》中非常奇怪的一集。 | 图片：Cath Virginia / The Verge，Getty Images
-
-手机相机是令人难以置信的小机器，其功能远远超出其微型镜头和传感器所能让您相信的。它们可以捕捉海滩上的美好回忆和天空中的北极光。但即使它们拥有所有的计算智能，它们也有局限性，其中一个目前尤为明显。你知道那些无人机在夜间盘旋在新泽西州上空的清晰、高质量的照片吗？不知道吗？没错。
-现在你可能已经知道，有些神秘的无人机在夜间造访新泽西州的天空。如果你看过或读过有关无人机情况的报道，你可能已经看到过天空中远处灯光的模糊照片，也许还有红色和绿色导航灯的模糊轨迹。你知道这种类型，因为它们基本上都一样。但这并不是发生在这个国家的偏远地区，而是发生在这个国家人口最密集的地区之一，似乎每晚都会发生。考虑到每个人的口袋里都有相机，为什么这些无人机的每张照片都这么糟糕？
-
-图片：Getty
-这可能是任何事情。
-
-我有怀疑，但我问了Sten Odenwald，...
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324347/new-jersey-drones-photos-phone-camera</guid>
-      <pubDate>Wed, 18 Dec 2024 19:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在可以拨打 1-800-CHATGPT</title>
-      <link>https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp</link>
-      <description><![CDATA[
-
-OpenAI
-
-在“ship-mas”的第 10 天，OpenAI 推出了一种通过电话免费拨打 1-800-CHATGPT 拨打 ChatGPT 长达 15 分钟的方法。
-该功能是一个刚刚启动的项目几周前，OpenAI 首席产品官 Kevin Weil 在直播中表示。用户现在可以在美国拨打 ChatGPT，并通过 WhatsApp 在全球范围内发送消息，电话号码为 1-800-242-8478。每个电话号码每月有 15 分钟的限制，所以实际上，你可以启动几个 Google Voice 号码来获得你想要的通话时间。
-该电话号码是使用 OpenAI 的 Realtime API 构建的，WhatsApp 功能由 GPT-4o mini 通过与 WhatsApp API 集成提供支持。
-
-
-OpenAI
-
-OpenAI 将此功能视为 AI 新手的重要垫脚石，因为与基于 Web 的服务相比，该服务代表了 ChatGPT 的简化版本，并提供了“通过熟悉渠道进行尝试的低成本方式”。该公司指出，寻求更全面功能、更高使用限制和个性化选项的现有用户应继续通过传统渠道使用其常规 ChatGPT 帐户。
-有趣的是，谷歌在 2007 年推出了一款名为 GOOG-411 的类似工具，该工具通过语音提供免费的电话号码查询服务。这项服务于 2010 年停用，谷歌没有给出官方解释，但有人猜测，这项服务停用是因为该公司已经实现了其基本目标：收集足够的语音样本数据库，以推进其语音识别技术。
-当时，谷歌副总裁 Marissa Mayer 直言不讳：“我们的语音识别专家说：如果你想让我们建立一个真正强大的语音模型，我们需要大量的音素，也就是用特定声音以特定语调说出的音节。所以我们需要很多人说话，说一些东西，这样我们最终才能以此为基础进行训练。 ... 所以 1-800-GOOG-411 就是关于这个的：获取一堆不同的语音样本，这样当你打电话或者我们试图从视频中提取声音时，我们就可以高精度地做到这一点。”
-OpenAI 发言人 Taya Christianson 表示，该公司不会使用这些电话来训练大型语言模型。]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp</guid>
-      <pubDate>Wed, 18 Dec 2024 18:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>LG 的透明 OLED 电视将给你的钱包带来 6 万美元的明显损失</title>
-      <link>https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced</link>
-      <description><![CDATA[
-
-
-LG Signature OLED T 是一款透明电视，是该公司在 2024 年 CES 上隆重亮相的重磅产品，现已公布官方价格： 59,999 美元。该公司在一份新闻稿中表示，这款产品从今天开始在美国“在部分 LG 授权零售商处发售，包括 Best Buy、Video &amp; Audio Center 和 LG.com”。请注意，您不能直接走进当地的百思买 (Best Buy) 购买这款产品；这是一种特殊订单情况。LG 表示，首批购买者将于今晚晚些时候在 Video &amp; Audio Center 的盛大庆典上进行。音频中心。
-OLED T 可让您在令人难以置信的透明模式和不透明模式之间切换，在透明模式下，您可以清楚地看到 OLED 面板后面的内容，而在不透明模式下，您可以在 77 英寸的屏幕上享受内容时消除干扰。
-
-      
-
-
- 
- 在 Instagram 上查看此帖子
-
- 
-   
-
-  
-
-   
-
-   
-The Verge (@verge) 分享的帖子
-
-
-与 Signature 型号通常的情况一样，这款 OLED 获得了一些在其他 LG 设备上找不到的完全独特的软件技巧。这些技巧包括：
-
-T-Objet：一种 Always-On-Display (AOD) 模式，可将屏幕转变为透明的数字画布，非常适合以出色的色彩和清晰度展示艺术品、视频或照片。
-T-Bar：一个时尚的信息提示器，出现在屏幕的底部边缘，提供体育比赛结果、物联网设备状态、天气预报或歌曲标题信息。当 T-Bar 处于关闭状态时，屏幕的其余部分保持未使用状态活动，呈现出干净整洁的外观，可以清晰地看到 LG“几乎看不见”的显示屏后面的空间。为了增加便利性，
-T-Home：提供了一个用户友好的界面，提供了可用服务的井然有序的概览，​​以及对应用程序、设置和其他功能的快速访问。
-
-OLED T 永远无法满足像我这样的普通农民的需求，但即使我有 60,000 美元，我也不确定这种透明技巧是否足以让我交出它。更传统的 LG G4 就足够了。但如果你过着奢侈的生活，并为这款产品构想了完美的场景，那么现在就可以买到了。]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced</guid>
-      <pubDate>Wed, 18 Dec 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation 和 AMD 合作将 AI 融入游戏</title>
-      <link>https://www.theverge.com/2024/12/18/24324317/amd-playstation-ai-work-better-graphics-project-amethyst</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2024/12/18/24324317/amd-playstation-ai-work-better-graphics-project-amethyst</guid>
-      <pubDate>Wed, 18 Dec 2024 18:01:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
