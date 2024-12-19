@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 17 Dec 2024 12:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 12:34:28 GMT</lastBuildDate>
+    <item>
+      <title>使用 Three.js 和 GPGPU 制作梦幻粒子效果</title>
+      <link>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</link>
+      <description><![CDATA[了解如何使用 Three.js、GPGPU 和着色器创建交互式粒子效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</guid>
+      <pubDate>Thu, 19 Dec 2024 10:08:59 GMT</pubDate>
+    </item>
     <item>
       <title>集体#890</title>
       <link>https://tympanus.net/codrops/collective/collective-890/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Shopify 2025 年冬季版：一个绝对“无聊”的网站</title>
       <link>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</link>
-      <description><![CDATA[了解 Shopify 冬季 &#39;25 版如何将“无聊”变为大胆，提供超过 150 项周到的更新，重新定义可靠性、性能和有趣的创新。]]></description>
+      <description><![CDATA[了解 Shopify 冬季 &#39;25 版如何将“无趣”变为大胆，提供超过 150 项周到的更新，重新定义可靠性、性能和有趣的创新。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</guid>
       <pubDate>Tue, 17 Dec 2024 11:13:47 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[认识一下 UNIKO™ 的联合创始人兼艺术总监 Andrea Binski，UNIKO™ 是一家屡获殊荣的设计工作室，专门从事创新品牌和网页设计。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/06/designer-spotlight-andrea-binski/</guid>
       <pubDate>Fri, 06 Dec 2024 10:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Isabel Moranta 投资组合 — 2024</title>
-      <link>https://tympanus.net/codrops/2024/12/05/case-study-isabel-moranta-portfolio-2024/</link>
-      <description><![CDATA[本案例研究记录了制作个人作品集的历程——对大胆设计、创作自由和为自己设计之美的探索。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/05/case-study-isabel-moranta-portfolio-2024/</guid>
-      <pubDate>Thu, 05 Dec 2024 08:52:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
