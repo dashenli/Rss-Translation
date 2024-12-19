@@ -4,7 +4,35 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 21:14:22 GMT</lastBuildDate>
+    <item>
+      <title>联邦监管机构禁止新泽西州数十个地点进行无人机飞行</title>
+      <link>https://www.npr.org/2024/12/19/g-s1-39142/drone-flights-prohibited-new-jersey</link>
+      <description><![CDATA[由于担心大量无人机目击事件的发生，美国联邦航空管理局暂时禁止无人机飞越新泽西州 22 个地点的关键基础设施。]]></description>
+      <guid>https://www.npr.org/2024/12/19/g-s1-39142/drone-flights-prohibited-new-jersey</guid>
+      <pubDate>Thu, 19 Dec 2024 20:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能说它是健康的？FDA 对食品标签有了新定义</title>
+      <link>https://www.npr.org/sections/shots-health-news/2024/12/19/nx-s1-5234143/fda-healthy-food-labels-diet</link>
+      <description><![CDATA[目前，超过一半的美国人饮食都来自加工包装食品，FDA 出台了新规定，旨在帮助人们在食品杂货店做出更健康的选择。]]></description>
+      <guid>https://www.npr.org/sections/shots-health-news/2024/12/19/nx-s1-5234143/fda-healthy-food-labels-diet</guid>
+      <pubDate>Thu, 19 Dec 2024 20:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>广受欢迎的“居家医院”计划在联邦支出之争中岌岌可危</title>
+      <link>https://www.npr.org/sections/shots-health-news/2024/12/19/nx-s1-5234451/hospital-at-home-medicare-medicaid-congress-federal-shutdown</link>
+      <description><![CDATA[该计划始于疫情期间，目前已在 39 个州的数百家医院开展，为患者提供上门急诊护理。该计划广受欢迎，根据一项临时支出协议，该计划的期限延长了五年，但目前仍存在疑问。]]></description>
+      <guid>https://www.npr.org/sections/shots-health-news/2024/12/19/nx-s1-5234451/hospital-at-home-medicare-medicaid-congress-federal-shutdown</guid>
+      <pubDate>Thu, 19 Dec 2024 20:11:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自 NPR 主线的《Five Fingers Crush The Land》</title>
+      <link>https://www.npr.org/2026/01/01/1254713691/embedded-throughline-five-fingers-crush-the-land</link>
+      <description><![CDATA[正如 NPR 通讯员 Emily Feng 在我们的三集系列节目《黑门》中报道的那样，数十万维吾尔族人在中国被拘留。他们遭受了酷刑、强迫劳动、宗教限制，甚至被迫绝育。在 2021 年的这一集中，我们的历史播客 Throughline 的同事探讨了维吾尔族人是谁、他们的土地、他们的习俗、他们的音乐，以及他们如何在今天的中国成为如此受关注的目标。要免费收听本系列节目并支持 NPR，请在 Apple Podcasts 或 plus.npr.org 上注册 Embedded+。]]></description>
+      <guid>https://www.npr.org/2026/01/01/1254713691/embedded-throughline-five-fingers-crush-the-land</guid>
+      <pubDate>Thu, 19 Dec 2024 19:24:23 GMT</pubDate>
+    </item>
     <item>
       <title>就像过去一样：特朗普让国会忙着避免关闭</title>
       <link>https://www.npr.org/2024/12/19/nx-s1-5234083/congress-shutdown-trump-musk</link>
@@ -13,9 +41,9 @@
       <pubDate>Thu, 19 Dec 2024 16:56:33 GMT</pubDate>
     </item>
     <item>
-      <title>佐治亚州上诉法院阻止富尔顿地区检察官威利斯参与选举干预案</title>
+      <title>佐治亚州法院阻止富尔顿地区检察官威利斯介入特朗普选举干预案</title>
       <link>https://www.npr.org/2024/12/19/nx-s1-5234059/georgia-trump-case-fani-willis-dismissal</link>
-      <description><![CDATA[富尔顿县地方检察官法尼·威利斯和她的办公室无法继续起诉涉及唐纳德·特朗普的佐治亚州选举干预案——这是针对当选总统的最后一项刑事指控。]]></description>
+      <description><![CDATA[法院裁定，富尔顿县地区检察官法尼·威利斯及其办公室不能继续起诉涉及唐纳德·特朗普的佐治亚州选举干预案——这是针对特朗普的最后一次起诉。]]></description>
       <guid>https://www.npr.org/2024/12/19/nx-s1-5234059/georgia-trump-case-fani-willis-dismissal</guid>
       <pubDate>Thu, 19 Dec 2024 15:49:13 GMT</pubDate>
     </item>
@@ -43,37 +71,9 @@
     <item>
       <title>雇主们游说保持医疗保健价格透明，希望控制成本</title>
       <link>https://www.npr.org/2024/12/19/nx-s1-5233326/trump-health-care-price-transparency-employers</link>
-      <description><![CDATA[唐纳德·特朗普的第一届政府曾出台规定，要求医院和保险公司公开医疗服务价格。雇主们不想在特朗普的第二届政府期间冒险改变主意。]]></description>
+      <description><![CDATA[唐纳德·特朗普的第一届政府曾出台规定，要求医院和保险公司公开医疗服务价格。雇主们不想在特朗普的第二届政府中冒险改变主意。]]></description>
       <guid>https://www.npr.org/2024/12/19/nx-s1-5233326/trump-health-care-price-transparency-employers</guid>
       <pubDate>Thu, 19 Dec 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>召集所有学生！NPR 学生播客挑战赛将于 2025 年回归</title>
-      <link>https://www.npr.org/2024/12/19/nx-s1-5228113/nprs-student-podcast-challenge-returns-2025</link>
-      <description><![CDATA[今年是第七年，我们的全国播客比赛将邀请全国各地四至十二年级的学生为我们带来他们最好的音频故事。]]></description>
-      <guid>https://www.npr.org/2024/12/19/nx-s1-5228113/nprs-student-podcast-challenge-returns-2025</guid>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>竞选副总统失败后，沃尔兹寻求反击特朗普的机会</title>
-      <link>https://www.npr.org/2024/12/19/nx-s1-5232031/after-losing-vp-bid-walz-searches-for-role-in-pushing-back-against-trump</link>
-      <description><![CDATA[明尼苏达州州长蒂姆·沃尔兹在成为副总统哈里斯的竞选搭档后，全国知名度飙升。现在，他回到家乡，想着何时反击或与共和党合作。]]></description>
-      <guid>https://www.npr.org/2024/12/19/nx-s1-5232031/after-losing-vp-bid-walz-searches-for-role-in-pushing-back-against-trump</guid>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿萨德家族如何利用内战将叙利亚变成毒品国家</title>
-      <link>https://www.npr.org/2024/12/19/g-s1-38514/assad-syria-narco-state</link>
-      <description><![CDATA[叙利亚内战期间，经济崩溃，该国成为毒品大国。被罢免的总统巴沙尔·阿萨德的政权通过贩卖毒品 Captagon 赚取了数十亿美元。]]></description>
-      <guid>https://www.npr.org/2024/12/19/g-s1-38514/assad-syria-narco-state</guid>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登制定了雄心勃勃的新气候目标。在特朗普的领导下，这一目标仍然重要吗？</title>
-      <link>https://www.npr.org/2024/12/19/nx-s1-5233131/biden-climate-trump</link>
-      <description><![CDATA[拜登政府为美国设定了新的气候目标。白宫认为，即使特朗普计划退出《巴黎气候协定》，各州、城市和企业仍将继续努力。]]></description>
-      <guid>https://www.npr.org/2024/12/19/nx-s1-5233131/biden-climate-trump</guid>
-      <pubDate>Thu, 19 Dec 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
