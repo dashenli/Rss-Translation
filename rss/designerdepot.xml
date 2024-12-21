@@ -4,7 +4,14 @@
     <title>网页设计师仓库</title>
     <link>https://webdesignerdepot.com</link>
     <description>网页设计博客</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 15:16:06 GMT</lastBuildDate>
+    <item>
+      <title>马特·穆伦维格、WordPress 和互联网控制权之争</title>
+      <link>https://webdesignerdepot.com/matt-mullenweg-wordpress-and-the-battle-for-control-of-the-internet/</link>
+      <description><![CDATA[马特·穆伦维格与 WP Engine 的冲突凸显了开源理念与 WordPress 内部的集中控制之间的矛盾，而 WordPress 为 40% 的互联网提供支持。这场争议引发了关于谁将掌控网络未来的关键问题。]]></description>
+      <guid>https://webdesignerdepot.com/matt-mullenweg-wordpress-and-the-battle-for-control-of-the-internet/</guid>
+      <pubDate>Sat, 21 Dec 2024 13:54:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google 的 Project Mariner：人工智能驱动的网络导航时代的用户体验和用户测试</title>
       <link>https://webdesignerdepot.com/googles-project-mariner-ux-and-user-testing-in-the-age-of-ai-driven-web-navigation/</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 12 Dec 2024 16:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>捍卫低调的桌面</title>
+      <title>捍卫低端桌面</title>
       <link>https://webdesignerdepot.com/in-defense-of-the-humble-desktop/</link>
       <description><![CDATA[台式机可能并不流行，但却无与伦比——比笔记本电脑或平板电脑更强大、升级更容易、性价比更高。台式机非常适合工作、游戏和长期使用，是值得信赖的朋友，不会试图炫酷，但总能完成工作。如果可以兼具功能性，为什么要满足于华而不实呢？]]></description>
       <guid>https://webdesignerdepot.com/in-defense-of-the-humble-desktop/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Reddit Answers 是一款新的人工智能工具，可提供来自整个平台的讨论的快速、精选摘要，使用户更容易找到相关见解和更深入对话的链接。]]></description>
       <guid>https://webdesignerdepot.com/reddit-unveils-reddit-answers-a-smarter-way-to-search-and-explore-discussions/</guid>
       <pubDate>Tue, 10 Dec 2024 16:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS Wrapped 2024：改变现代网页设计的 17 个功能</title>
-      <link>https://webdesignerdepot.com/css-wrapped-2024-17-features-transforming-modern-web-design/</link>
-      <description><![CDATA[CSS Wrapped 2024 展示了 17 项突破性更新，这些更新通过高级布局功能、更流畅的动画和增强的用户交互提升了 Web 开发水平。这些功能使开发人员能够创建比以往更具活力、更易于访问且视觉效果更出色的网站。]]></description>
-      <guid>https://webdesignerdepot.com/css-wrapped-2024-17-features-transforming-modern-web-design/</guid>
-      <pubDate>Tue, 10 Dec 2024 13:09:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
