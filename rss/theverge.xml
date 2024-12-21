@@ -4,7 +4,26 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 03:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:20:17 GMT</lastBuildDate>
+    <item>
+      <title>谷歌对试图拆分安卓系统的政府的反击是拆分安卓应用程序</title>
+      <link>https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android</link>
+      <description><![CDATA[
+
+Cath Virginia / The Verge 插图
+
+美国司法部的解决方案列表，用于修复 Google 的非法反垄断行为并恢复搜索引擎市场的竞争，首先是迫使该公司出售 Chrome，周五深夜，Google 以自己的列表（包括以下内容）作出回应。 
+与美国司法部文件考虑的断绝 Chrome、Android 或 Google Play 的关系不同，Google 提出的修复措施针对的是其向 Apple 和 Mozilla 等公司支付的费用，用于独家、优先展示其服务、与生产 Android 手机的公司达成的许可协议以及与无线运营商的合同。他们没有解决司法部关于可能强迫谷歌与其他公司分享其宝贵的搜索数据以帮助其产品迎头赶上的建议。
+
+据谷歌律师称，该裁决指出了与苹果和 Mozilla 就其浏览器、生产 Android 手机的公司以及无线运营商达成的协议。谷歌监管副总裁 Lee-Anne Mulholland 在公司博客上写道，“这是关于我们的搜索分发合同的决定，所以我们提出的补救措施也针对这一点。 
+三年内，该提案将阻止谷歌签署将 Chrome、搜索和其 Android 应用商店 Google Play 的许可与其其他应用（包括 Chrome、Google Assistant 或 Gemini AI 助手）的放置或预装相关联的协议。 
+它仍将允许谷歌为浏览器中的默认搜索位置付费，但允许跨不同平台或浏览模式进行多笔交易，并要求至少每年重新审视一次交易。
+虽然该公司仍计划首先对法官阿米特·梅塔的裁决提出上诉，该裁决称“谷歌是垄断者，它一直以垄断者的身份维护其垄断地位”，但它表示将在 3 月 7 日提交一份修改后的提案，以便在 4 月份就该问题进行为期两周的审判之前。
+
+]]></description>
+      <guid>https://www.theverge.com/2024/12/21/24326402/google-search-antitrust-remedies-proposal-browser-default-android</guid>
+      <pubDate>Sat, 21 Dec 2024 05:05:44 GMT</pubDate>
+    </item>
     <item>
       <title>Josh King 的热门滑出式 MagSafe 游戏手柄在 OhSnap 上找到了归属，看起来棒极了</title>
       <link>https://www.theverge.com/2024/12/20/24326337/ohsnap-mcon-josh-king-magsafe-gamepad</link>
@@ -161,24 +180,11 @@ Sanwa Supply 的新型 USB-C 线缆的设计解决了线缆常见的故障点。
 图片：Sanwa Supply
 这种柔性电缆可用于其他 USB-C 电缆无法安装的地方。
 
-尽管目前仍有极少数设备能够真正以 240W 的速度充电，Sanwa 的新电缆可以帮助您的充电套件适应未来需求。但是，使用电缆的数据传输速度限制为 USB 2.0 速度，最高速度为 480mbps。这比其他 240W USB-C 线缆提供的 40Gbps 传输速度要慢得多。
+尽管目前仍有极少数设备能够真正以 240W 的速度充电，Sanwa 的新电缆可以帮助您的充电套件适应未来需求。但是，使用该电缆的数据传输速度限制为 USB 2.0 速度，最高速度为 480mbps。这比其他 240W USB-C 线缆提供的 40Gbps 传输速度要慢得多。
 对于那些经常复制大量数据的人来说，这不是一个理想的解决方案，但如果您的 USB 端口位于狭窄的地方，或者希望在插入智能手机时有更大的移动自由，这可能是一个解决方案。
 ]]></description>
       <guid>https://www.theverge.com/2024/12/20/24325936/sanwa-supply-usb-c-flexible-240w-charging-cable</guid>
       <pubDate>Fri, 20 Dec 2024 19:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 正在严厉打击点击诱饵</title>
-      <link>https://www.theverge.com/2024/12/20/24325999/youtube-clickbait-crackdown-india</link>
-      <description><![CDATA[
-
-插图由 Alex Castro / The Verge 提供
-
-YouTube 正在对点击诱饵采取更严厉的立场，称将删除标题或缩略图向观众承诺“视频无法提供的内容”的内容，正如早些时候被TechCrunch发现的那样。根据YouTube的博客文章，这一变化将首先在印度“缓慢”推出，但将在“未来几个月”内“扩展到更多国家”，YouTube发言人杰克·马龙在给The Verge的一份声明中表示。
-YouTube表示，该政策将打击误导观众的“恶劣”点击诱饵，特别关注与“突发新闻”或“时事”相关的视频。该公司恶劣点击诱饵的例子包括一段标题为“总统辞职！”的视频。这实际上并没有解决辞职问题，也没有解决没有新闻内容的视频上附加“热门政治新闻”缩略图的问题。
-随着该政策在印度的推广，YouTube 将删除违反规则的内容，而不会对创作者发出警告，至少在最初是这样。“随着我们继续教育创作者，我们的执法工作将优先考虑今后的新视频上传，”YouTube 表示。]]></description>
-      <guid>https://www.theverge.com/2024/12/20/24325999/youtube-clickbait-crackdown-india</guid>
-      <pubDate>Fri, 20 Dec 2024 19:03:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
