@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 24 Dec 2024 18:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 21:14:57 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 586：面部识别</title>
+      <link>https://sixcolors.com/podcast/2024/12/clockwise-586-face-idea/</link>
+      <description><![CDATA[随着 Apple 的加入，我们在智能家居技术方面进行投资的可能性、我们 2025 年的技术目标、我们年底/年初的技术习惯，以及对 2025 年技术将如何改善世界的预测。…]]></description>
+      <guid>https://sixcolors.com/podcast/2024/12/clockwise-586-face-idea/</guid>
+      <pubDate>Wed, 25 Dec 2024 18:43:27 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）85 号下游：蒂姆·古德曼的节日拜访</title>
       <link>https://sixcolors.com/podcast/2024/12/downstream-85-a-holiday-visit-from-tim-goodman/</link>
@@ -54,7 +61,7 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价，是适用于 iPhone、i
     <item>
       <title>（播客）顺时针 585：空间感太强</title>
       <link>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</link>
-      <description><![CDATA[有关可折叠 iPad 的传言、Mac 上的空间计算、我们使用街景类功能的频率以及我们已关闭的 iOS 18 功能。…]]></description>
+      <description><![CDATA[有关可折叠 iPad 的传言、Mac 上的空间计算、我们使用街景类功能的频率以及我们关闭的 iOS 18 功能。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</guid>
       <pubDate>Wed, 18 Dec 2024 19:48:22 GMT</pubDate>
     </item>
@@ -109,14 +116,6 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价，是适用于 iPhone、i
 早在 Apple 芯片时代初期，必备的 Mac 音频工具就因为需要许多步骤和多次重启的新安装过程而严重降级。…]]></description>
       <guid>https://sixcolors.com/link/2024/12/the-long-strange-story-of-audio-hijack/</guid>
       <pubDate>Fri, 13 Dec 2024 23:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）1Password</title>
-      <link>https://sixcolors.com/sponsor/2024/12/1password-10/</link>
-      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-一系列数据泄露和其他网络安全故障迫使企业加大对漏洞管理的投资。美国证券交易委员会现在要求公司报告其管理人员和董事会如何处理漏洞。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/12/1password-10/</guid>
-      <pubDate>Fri, 13 Dec 2024 17:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
