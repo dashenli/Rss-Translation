@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 26 Dec 2024 09:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 18:22:58 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：旅行升级</title>
+      <link>https://tympanus.net/codrops/2024/12/26/case-study-travel-next-level/</link>
+      <description><![CDATA[探索如何将设计创新、技术创造力和以用户为中心的功能结合在一起，打造一个体现旅行和探索精神的独特平台。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/26/case-study-travel-next-level/</guid>
+      <pubDate>Thu, 26 Dec 2024 15:30:47 GMT</pubDate>
+    </item>
     <item>
       <title>集体#891</title>
       <link>https://tympanus.net/codrops/collective/collective-891/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Canvas2D API 仅使用 JavaScript 创建这种强大的变形效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</guid>
       <pubDate>Mon, 09 Dec 2024 11:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#887</title>
-      <link>https://tympanus.net/codrops/collective/collective-887/</link>
-      <description><![CDATA[评估浏览器支持的框架 * CSS 的官方徽标]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-887/</guid>
-      <pubDate>Fri, 06 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
