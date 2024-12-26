@@ -4,7 +4,69 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Dec 2024 18:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 21:14:18 GMT</lastBuildDate>
+    <item>
+      <title>最佳 Android 智能手表</title>
+      <link>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</link>
+      <description><![CDATA[
+
+William Joel / The Verge 的照片插图
+
+Wear OS 比以前好多了，所以现在是考虑购买智能手表的最佳时机。
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</guid>
+      <pubDate>Thu, 26 Dec 2024 21:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 的一个奇怪错误导致某些用户无法安装任何安全更新</title>
+      <link>https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+Microsoft 警告用户，某些手动制作的 Windows 11 安装程序媒体可能包含错误，导致新 PC 安装可能无法获得未来的安全更新。它会影响使用 10 月和 11 月发布补丁制作的 USB 和 CD 安装程序，这可能与在商业或教育环境中设置 PC 的专业用户或最近组装了自己的 PC 的爱好者有关。
+微软在其已知问题页面中发布了 Windows 11（版本 24H2）的漏洞：
+使用媒体安装 Windows 11（版本 24H2）时，设备可能会处于无法接受进一步 Windows 安全更新的状态。仅当创建媒体以将 2024 年 10 月或 2024 年 11 月的安全更新作为安装的一部分（这些更新于 2024 年 10 月 8 日至 2024 年 11 月 12 日之间发布）包含进去时，才会发生这种情况。
+这不会影响通过 Windows 更新或 Microsoft 更新目录网站收到 10 月或 11 月补丁的 PC。
+缓解此问题需要您重建包含 2024 年 12 月补丁更新（于 12 月 10 日发布）的 Windows 11 媒体安装程序，然后重新安装 Windows。 （为了完全避免这种情况，微软建议“用于安装 Windows 11 版本 24H2 的媒体包含 2024 年 12 月的每月安全更新。”）微软表示正在努力寻找永久解决方案。
+Bleeping Computer 报告称，Windows 11 24H2 还存在其他错误，包括特定音频设备的问题、使用过时的 Google Workspace Sync 启动 Outlook 的问题等。此外，24H2 还存在一个奇怪的与部分 Ubisoft 游戏的兼容性问题，这些问题正在缓慢地接收修复。]]></description>
+      <guid>https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug</guid>
+      <pubDate>Thu, 26 Dec 2024 20:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在最值得购买的健身追踪器</title>
+      <link>https://www.theverge.com/22985108/best-fitness-tracker</link>
+      <description><![CDATA[
+
+图片插图由 Alex Castro / The Verge 提供
+
+从简单的健身腕带、坚固耐用的运动手表到戒指，这些都是您能买到的最好的追踪器。
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/22985108/best-fitness-tracker</guid>
+      <pubDate>Thu, 26 Dec 2024 20:07:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 MacBook 的最佳优惠</title>
+      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
+      <pubDate>Thu, 26 Dec 2024 19:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 已关闭</title>
+      <link>https://www.theverge.com/2024/12/26/24329760/chatgpt-down-outage-error-sora-openai</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+ChatGPT 目前对许多用户来说无法使用。根据社交媒体上的大量报道，我们还确认聊天机器人可以加载但无法响应查询，而其他人看到的是“内部服务器错误”消息。
+看来中断始于美国东部时间下午 1:30 左右，此时报告开始Down Detector激增。美国东部时间下午 2 点，OpenAI 发布了其状态页面更新，称 ChatGPT、API 及其文本转视频生成器 Sora“目前遇到高错误率”。美国东部时间下午 2:18 发布的更新称，该问题“由上游提供商引起”，OpenAI 目前正在监控情况。 
+美国东部时间下午 3:06，OpenAI 表示正在“继续努力修复”。没有提到何时恢复访问的预计时间。
+ChatGPT 在过去几个月中已多次宕机。本月早些时候，OpenAI 向 ChatGPT 订阅者发布 Sora 几天后，视频生成工具和 ChatGPT 宕机数小时。与此同时，影响 AI 工具的大规模中断导致 ChatGPT 在 6 月份停用。
+12 月 26 日更新：添加了来自 OpenAI 的更新。]]></description>
+      <guid>https://www.theverge.com/2024/12/26/24329760/chatgpt-down-outage-error-sora-openai</guid>
+      <pubDate>Thu, 26 Dec 2024 19:26:24 GMT</pubDate>
+    </item>
     <item>
       <title>三星将允许你在所有应用中关闭令人烦恼的明亮 HDR 内容</title>
       <link>https://www.theverge.com/2024/12/26/24329658/samsung-one-ui-7-disable-hdr-setting-bright-videos</link>
@@ -28,8 +90,8 @@
 插图：The Verge
 
 Apple 服务高级副总裁 Eddy Cue 表示，Apple 不会创建搜索引擎与 Google 竞争，因为这“将耗费数十亿美元并耗费多年时间”，正如干预动议中所记录的那样 已于周一向司法部 (DOJ) 提交。该动议的目的是参与美国司法部针对谷歌的反垄断案的处罚阶段，在该案中，苹果公司可能因其正在运行的默认搜索引擎而面临高达 200 亿美元的赔偿交易与谷歌。
-美国司法部和谷歌在如何解决谷歌在通用搜索引擎上的垄断问题上存在分歧，但双方都暂时接受削减或重新谈判与苹果的合作关系。上周，谷歌提议对涉及任何“苹果专有特性或功能”的长期独家协议实施三年的严格禁令。
-Cue 警告称，取消搜索协议最终会损害苹果并让谷歌受益：
+美国司法部和谷歌在如何解决谷歌在通用搜索引擎上的垄断问题上存在分歧，但双方都暂时接受削减或重新谈判与苹果的合作关系。上周，谷歌提出了一项为期三年的禁令，禁止涉及任何“苹果专有特性或功能”的长期独家交易。
+Cue 警告称，取消搜索交易最终会损害苹果并让谷歌受益：
 如果本法院禁止谷歌分享搜索分销收入，苹果将面临两个不可接受的选择。它仍然可以让美国用户选择谷歌作为 Safari 的搜索引擎，但苹果无法获得由此产生的任何收入份额，因此谷歌将免费获得对苹果用户的宝贵访问权。或者苹果可以删除 Safari 上的谷歌搜索选项。但由于客户更喜欢谷歌，删除它作为一种选择会损害苹果及其客户。
 据MacRumors报道，Cue 表示，苹果开发自己的通用搜索引擎将“具有经济风险”，并暗示人工智能聊天机器人是搜索的下一个重大发展。苹果公司还在文件中指出，它必须采用定向广告作为核心服务才能使搜索变得可行，这与其以隐私为中心的商业模式格格不入。
 Cue 还表示，“只有苹果公司才能决定未来哪种合作才能最好地服务于其用户”，并警告称，美国司法部提出的补救措施将“阻碍”苹果公司满足其客户的需求。]]></description>
@@ -58,7 +120,7 @@ LG 拥有 开发了一款可兼作室内花园的新灯。LG 将于 1 月在 CES
 LG 也制作了一款边桌式植物生长灯。
 
 LG 还在 CES 上展示了一款较短的边桌式植物生长灯，同样将植物生长灯放在一捆植物上方。这些设备与 LG 的 ThinQ 应用程序兼容，让您在外出时可以调整灯光设置和管理种植计划。
-这并不是 LG 第一次涉足室内园艺技术。该公司于 2019 年推出了一款名为 LG Tiiun 的室内耕耘机，随后又推出了更为紧凑的后续产品。 LG 表示，其新款灯的储水量比之前的室内花盆更大，但没有透露具体售价或实际发货时间。]]></description>
+这并不是 LG 第一次涉足室内园艺技术。该公司于 2019 年推出了一款名为 LG Tiiun 的室内耕耘机，随后又推出了更为紧凑的后续产品。 LG 表示，其新款灯比之前的室内花盆具有更大的储水容量，但没有透露其售价或实际发货时间等详细信息。]]></description>
       <guid>https://www.theverge.com/2024/12/26/24329562/lg-lamp-indoor-garden</guid>
       <pubDate>Thu, 26 Dec 2024 15:18:02 GMT</pubDate>
     </item>
@@ -73,66 +135,6 @@ LG 还在 CES 上展示了一款较短的边桌式植物生长灯，同样将植
 阅读完整故事，请访问 The边缘。]]></description>
       <guid>https://www.theverge.com/24322728/netflix-best-shows-movies-2024-streaming</guid>
       <pubDate>Thu, 26 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>甚至苹果也无法在 2024 年让 VR 头戴设备成为主流</title>
-      <link>https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24303262/apple-vision-pro-vr-mainstream-meta-glasses</guid>
-      <pubDate>Thu, 26 Dec 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 将热门话题添加到其武器库中</title>
-      <link>https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-作为节日特别福利，12 月 25 日，社交媒体应用 Bluesky 宣布在其移动应用中增加一项新功能：热门话题列表，让您了解哪些主题很受欢迎在其用户中。 
-
-
-屏幕截图：Bluesky
-Bluesky 现在会在搜索栏下方显示其当前趋势。
-
-通过选择搜索图标（放大镜）即可找到新功能，该图标出现在移动应用程序屏幕底部和网络左侧边栏上。现在，搜索栏下方会显示热门和推荐主题列表。点击任何主题，您都可以访问相关帖子。当我尝试时，前五名的选择包括圣诞节和吸血鬼（不是一个意料之外的主题选择，而是一个有趣的对比）。
-如果您不想看到列表，您可以通过右上角的小“x”将其删除，或者转到设置&gt; 内容和媒体并关闭启用热门话题。
-根据公告，新功能是“V1”（它在应用程序上标记为 Beta 版）并且“我们将根据您的反馈进行迭代。”因此，如果您对“趋势”出现在 Bluesky 搜索栏下有任何异议，请告知他们。
-
-]]></description>
-      <guid>https://www.theverge.com/2024/12/26/24329549/bluesky-trending-features</guid>
-      <pubDate>Thu, 26 Dec 2024 13:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bose SoundLink Home 评测：一款注重外观的扬声器</title>
-      <link>https://www.theverge.com/24326228/bose-soundlink-home-speaker-review</link>
-      <description><![CDATA[这款蓝牙扬声器的设计令人耳目一新，但 Bose 忽略了一些通常以这个价格标配的功能。
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/24326228/bose-soundlink-home-speaker-review</guid>
-      <pubDate>Thu, 26 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《鱿鱼游戏》第二季是 Netflix 最大剧集的残酷混音版</title>
-      <link>https://www.theverge.com/24324173/squid-game-season-2-review-netflix</link>
-      <description><![CDATA[
-
-图片：Netflix
-
-经过多年的品牌搭售和构思拙劣的衍生作品，该系列又回来了——而且和以往一样紧张刺激。
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24324173/squid-game-season-2-review-netflix</guid>
-      <pubDate>Thu, 26 Dec 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年的播客是什么样子——字面意思</title>
-      <link>https://www.theverge.com/24302894/podcasts-video-youtube-2024-trends-tiktok-instagram</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-如今，播客正在走向视频化，我们注意到了许多视觉趋势——有些是好的，有些则不是。我们会告诉你。
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24302894/podcasts-video-youtube-2024-trends-tiktok-instagram</guid>
-      <pubDate>Wed, 25 Dec 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
