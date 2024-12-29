@@ -4,9 +4,16 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 06:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 09:14:13 GMT</lastBuildDate>
     <item>
-      <title>韩国机场一架飞机起火，造成至少 120 人死亡</title>
+      <title>比利时将禁止销售一次性电子烟，这在欧盟尚属首次</title>
+      <link>https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes</link>
+      <description><![CDATA[该禁令将于明年 1 月 1 日生效，其依据是健康和环境原因，对欧盟国家来说是一个开创性的举措。]]></description>
+      <guid>https://www.npr.org/2024/12/29/g-s1-40289/belgium-will-ban-sales-of-disposable-e-cigarettes</guid>
+      <pubDate>Sun, 29 Dec 2024 07:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>一架飞机在韩国机场坠毁并起火，造成至少 151 人死亡</title>
       <link>https://www.npr.org/2024/12/28/nx-s1-5241849/muan-south-korea-plane-fire</link>
       <description><![CDATA[YTN 电视台播放的坠机画面显示，济州航空的飞机在跑道上滑行（起落架似乎仍处于关闭状态），并与机场外围的一堵混凝土墙相撞。]]></description>
       <guid>https://www.npr.org/2024/12/28/nx-s1-5241849/muan-south-korea-plane-fire</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>财政部长珍妮特耶伦称美国可能在几周内达到债务上限</title>
       <link>https://www.npr.org/2024/12/28/nx-s1-5241804/debt-ceiling-yellen-congress-deadline</link>
-      <description><![CDATA[耶伦告诉国会，她的机构将需要最早在 1 月 14 日开始采取“非常措施”或特殊的会计操作，以防止国家触及债务上限。]]></description>
+      <description><![CDATA[耶伦告诉国会，她的机构将需要最早在 1 月 14 日开始采取“非常措施”，即特殊的会计操作，以防止国家触及债务上限。]]></description>
       <guid>https://www.npr.org/2024/12/28/nx-s1-5241804/debt-ceiling-yellen-congress-deadline</guid>
       <pubDate>Sat, 28 Dec 2024 18:20:04 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[基于年龄的歧视在社会中根深蒂固，以至于我们大多数人都没有注意到。然而，它影响着我们所有人，打击它不仅有助于建设更美好的社会，还能帮助我们活得更长寿、更健康。]]></description>
       <guid>https://www.npr.org/sections/shots-health-news/2024/12/28/nx-s1-5234649/ageism-ageist-harm-health-discrimination</guid>
       <pubDate>Sat, 28 Dec 2024 15:30:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>龙卷风袭击美国南部，恶劣天气导致人员伤亡</title>
-      <link>https://www.npr.org/2024/12/28/nx-s1-5241750/severe-weather-tornadoes-holiday-travel</link>
-      <description><![CDATA[美国国家气象局表示，证实周六有多场龙卷风袭击休斯顿郊外。]]></description>
-      <guid>https://www.npr.org/2024/12/28/nx-s1-5241750/severe-weather-tornadoes-holiday-travel</guid>
-      <pubDate>Sat, 28 Dec 2024 15:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
