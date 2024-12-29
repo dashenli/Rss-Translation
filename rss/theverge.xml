@@ -4,7 +4,31 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 15:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 18:19:32 GMT</lastBuildDate>
+    <item>
+      <title>你的 iPhone 是否默认与 Apple 共享照片？</title>
+      <link>https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup</link>
+      <description><![CDATA[
+
+iOS 18 为照片应用引入了“增强型视觉搜索”切换。 |屏幕截图：iOS 18 设置应用
+
+Apple 偶尔会做出一些损害其隐私保护声誉的选择，例如它秘密收集用户的 Siri 互动。昨天，开发人员 Jeff Johnson 的一篇博客文章强调了这样一个选择：Apple Photos 应用程序中的“增强型视觉搜索”切换开关似乎默认处于开启状态，允许你的设备与 Apple 共享照片数据。
+果然，当我今天早上检查我的 iPhone 15 Pro 时，该切换开关已打开。你可以通过转到“设置”&gt;“照片”（或 Mac 上的“系统设置”&gt;“照片”）自行找到它。增强型视觉搜索可让你查找拍摄过的地标，或使用这些地标的名称搜索这些图像。
+要查看它在照片应用程序中启用的功能，请在你拍摄的建筑物照片上向上滑动并选择“查找地标”，然后会出现一张理想情况下可识别该建筑物的卡片。以下是我手机上的几个示例：
+
+
+屏幕截图：Apple Photos
+那绝对是奥斯汀的圣玛丽大教堂，但右边的图片不是特拉普派修道院，而是爱荷华州杜比克的市政厅大楼。
+
+从表面上看，它是 Apple Photos 的 Visual Look Up 功能的便捷扩展，iOS 15 中引入，可让您识别植物，或者找出洗衣标签上的符号的含义。但 Visual Look Up 不需要特殊权限即可与 Apple 共享数据，而这个需要。
+切换按钮下的描述说，您授予 Apple 权限“私下将照片中的地点与 Apple 维护的全局索引进行匹配”。至于具体如何操作，Johnson 链接的 Apple 机器学习研究博客 中详细介绍了增强型视觉搜索：
+该过程从设备上的 ML 模型开始，该模型会分析给定的照片以确定是否存在可能包含地标的“感兴趣区域”(ROI)。如果模型在“地标”域中检测到 ROI，则会为该图像区域计算向量嵌入。
+根据博客，该向量嵌入随后会被加密并发送给 Apple，以便与其数据库进行比较。该公司在一篇研究论文中对向量嵌入进行了非常技术性的解释，但IBM 的说法更简单，其写道，嵌入将“数据点（例如单词、句子或图像）转换为表示该数据点特征的 n 维数字数组”。
+和 Johnson 一样，我并不完全了解 Apple 的研究博客，Apple 也没有立即回应我们对 Johnson 的担忧发表评论的请求。该公司似乎竭尽全力保护数据隐私，部分原因是将图像数据压缩为 ML 模型可读的格式。 
+即便如此，让切换选项成为可选选项，例如用于共享分析数据或录音或 Siri 交互的选项，而不是让用户发现某些东西，这似乎是一个更好的选择。 ]]></description>
+      <guid>https://www.theverge.com/2024/12/29/24331354/ios-18-sending-photos-data-apple-enhanced-visual-search-opt-out-landmark-lookup</guid>
+      <pubDate>Sun, 29 Dec 2024 18:05:54 GMT</pubDate>
+    </item>
     <item>
       <title>打造今年最雄心勃勃的电影之一</title>
       <link>https://www.theverge.com/24330004/the-brutalist-brady-corbet-director-interview</link>
@@ -122,27 +146,6 @@ The Verge 的抽查显示，iPhone SE、iPhone 14 和 14 Plus 以及基于 Light
 除了要求从 2024 年 12 月 28 日起在欧盟销售的各种设备上配备 USB-C 端口外，该指令还要求支持快速充电的设备支持 USB PD 标准，允许将充电砖从零售设备中拆分出来，并通过改进标签帮助消费者更好地了解他们所购买设备的功率要求。]]></description>
       <guid>https://www.theverge.com/2024/12/28/24330733/apple-pulls-lightning-based-devices-from-european-stores</guid>
       <pubDate>Sat, 28 Dec 2024 10:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普请求最高法院允许他拯救 TikTok</title>
-      <link>https://www.theverge.com/2024/12/27/24330513/trump-asks-the-supreme-court-to-let-him-rescue-tiktok</link>
-      <description><![CDATA[
-
-唐纳德·特朗普。 | Cath Virginia / The Verge |照片来自 Scott Olson、Getty Images
-
-当选总统唐纳德·特朗普请求最高法院允许他谈判一项协议，以拯救 TikTok 免于美国即将实施的禁令。
-在提交给法院的法庭之友陈述中，特朗普表示，他“寻求上任后通过政治手段解决当前问题的能力”，并且他“独自拥有完美的交易专业知识、选举授权和政治意愿，可以通过谈判达成解决方案来拯救该平台。”
-上周，最高法院同意听取国会通过的一项以国家安全为由禁止 TikTok 的法案违反了第一修正案的论点。如果在确保 TikTok 不完全由其中国母公司字节跳动控制的协议方面取得进展，该法案赋予总统广泛的自由度来推迟执行。 
-但做出这一决定的最后期限是 1 月 19 日，也就是特朗普宣誓就职的前一天。
-在提交给最高法院的文件中，特朗普要求暂缓该法案 1 月 19 日的最后期限，他辩称，他将谈判达成的协议“将使本法院无需以目前高度加快的方式决定此处提出的具有历史挑战性的第一修正案问题。” 
-他没有透露该交易的具体细节，但这可能涉及字节跳动将其在 TikTok 的很大一部分所有权出售给一家美国公司。
-
-特朗普认为，在 TikTok 上拥有超过 1400 万粉丝，加上他对 Truth Social 的所有权，使他拥有独特的能力“评估 TikTok 作为言论自由（包括核心政治言论）的独特媒介的重要性”。他还引用了巴西暂时禁止埃隆·马斯克的X作为政府禁止社交媒体平台“带来的历史性危险”的一个例子。
-虽然特朗普在其第一任期内积极推动禁止TikTok，但在他的竞选团队在2024年大选期间成功使用这款视频应用后，他改变了态度。他最近在海湖庄园会见了 TikTok 首席执行官 Shou Chew，并告诉人群，“也许我们得让这个傻瓜再待一段时间。”
-然而，仍有很大的政治压力要求实施 TikTok 禁令。包括米奇·麦康奈尔和罗·卡纳在内的一群参议员和众议员周五提交了请愿书，美国 22 个州和前联邦通信委员会主席阿吉特·派也加入其中，敦促最高法院驳回 TikTok 的上诉。
-]]></description>
-      <guid>https://www.theverge.com/2024/12/27/24330513/trump-asks-the-supreme-court-to-let-him-rescue-tiktok</guid>
-      <pubDate>Fri, 27 Dec 2024 22:47:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
