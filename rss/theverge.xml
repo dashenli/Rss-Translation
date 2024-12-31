@@ -4,7 +4,43 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 21:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:10:25 GMT</lastBuildDate>
+    <item>
+      <title>美国财政部遭到黑客攻击</title>
+      <link>https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach</link>
+      <description><![CDATA[
+
+Hugo Herrera / The Verge
+
+美国财政部遭遇“重大”安全事件，一名受中国政府支持的黑客入侵了其使用的第三方远程管理软件，《纽约时报》早些时候报道过。
+在一封致立法者的信中，美国财政部表示，其远程管理软件背后的公司 BeyondTrust 于 12 月 8 日通知该机构发生了一起入侵事件。
+威胁行为者窃取了 BeyondTrust 使用的密钥，“该密钥用于保护一项基于云的服务，该服务用于远程为财政部办公室 (DO) 最终用户提供技术支持。”有了密钥，他们便可以绕过安全措施，远程访问这些用户的工作站以及他们保存的“一些非机密文件”。
+美国财政部表示，在此次攻击之后，财政部已与网络安全和基础设施安全局 (CISA) 和联邦调查局展开合作，此次攻击被归咎为中国政府支持的高级持续性威胁 (APT) 黑客所为。美国财政部发言人 Michael Gwin 在给 The Verge 的一份声明中表示：“被入侵的 BeyondTrust 服务已被下线，没有证据表明威胁行为者继续访问财政部系统或信息。”
+
+
+此次攻击似乎与本月早些时候BeyondTrust 披露的安全事件有关，影响了使用其远程支持软件的客户。当时，BeyondTrust 将此次攻击归咎于其远程支持软件的 API 密钥被盗，并补充说它“立即撤销了 API 密钥，通知了已知受影响的客户，并在同一天暂停了这些实例。”The Verge 联系了 BeyondTrust 并要求其发表评论，但没有立即得到回复。
+“财政部非常重视针对我们系统及其所持有的数据的所有威胁，”Gwin 说。“在过去四年中，财政部大大加强了其网络防御，我们将继续与私营和公共部门合作伙伴合作，保护我们的金融系统免受威胁行为者的侵害。”
+
+]]></description>
+      <guid>https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach</guid>
+      <pubDate>Mon, 30 Dec 2024 22:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约州如何抵制唐纳德·特朗普撤回气候行动的计划</title>
+      <link>https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump</link>
+      <description><![CDATA[
+
+美国纽约 - 2023/06/29：州长 Kathy Hochul 在曼哈顿第三大道办公室的新闻发布会上发表讲话。|照片由 Lev Radin/Pacific Press/LightRocket via Getty Images 拍摄
+
+纽约州州长 Kathy Hochul ​​上周签署了具有里程碑意义的气候立法，表明即使当选总统唐纳德·特朗普 (Donald Trump) 撤销环境保护，各州仍可以继续追究污染者的责任。
+纽约的气候变化超级基金法案将要求最大的跨国石油和天然气公司向一项基金捐款，该基金将用于基础设施项目，旨在保护纽约居民免受风暴和海平面等日益危险的气候灾害的影响上升。 
+“纽约已经开了一枪，全世界都会听到”
+特朗普将很快重返白宫，并预计将废除现有的气候政策并削减环境保护署（EPA），他公开在竞选过程中贬低清洁能源和联邦环境法规。因此，至少在未来四年内，美国人将不得不依靠像这样的地方和州的努力来应对导致气候变化的化石燃料污染。 
+“纽约已经发出了全世界都会听到的一声枪响：对气候危机负有最大责任的公司将被追究责任，”州参议员利兹·克鲁格在霍楚尔之后的声明中表示......
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/2024/12/30/24332241/climate-change-superfund-act-new-york-state-trump</guid>
+      <pubDate>Mon, 30 Dec 2024 21:20:43 GMT</pubDate>
+    </item>
     <item>
       <title>最好的机器人吸尘器</title>
       <link>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</link>
@@ -100,7 +136,7 @@ Netflix 等流媒体服务之前曾对其部分热门内容提供过限量免费
 根据 Digital Chat Station 的微博泄露，购买“Pro”iPhone 的一大好处是，目前可以获得精美的高刷新率 OLED 显示屏，但这可能会成为 iPhone 17 系列的标准配置 由 MacRumors 发现。该媒体指出，Digital Chat Station 泄露了有关 iPhone 15 系列相机传感器和 iPhone 12 显示面板的准确细节。
 谣言有点含糊，只说基本款 iPhone 17 将具有高刷新率。但它遵循了我们最近几个月听到的一些更具体的供应链传言。 MacRumors 在 2 月份指出，称苹果将在明年的所有手机上使用相同的 LTPO 面板技术，该技术驱动了苹果可变刷新率“ProMotion” iPhone 16 Pro 显示屏。其他人也对此表示赞同，包括 9 月份的显示器供应链分析师 Ross Young。。
 
-预计下一批 iPhone 还将在 2025 年用 iPhone 17“Slim”取代基本款“Plus”iPhone，Young 表示这款手机也将配备 ProMotion。苹果不会通过显示技术进行区分，而是可以以不同的方式对产品线进行分层，例如为 iPhone 17 Pro Max 配备更小的 Face ID 传感器和 Dynamic Island 切口，以及为两种尺寸的 iPhone 17 Pro 配备 12GB RAM，为标准和 Slim 型号配备 8GB RAM。
+预计下一批 iPhone 还将在 2025 年用 iPhone 17“Slim”取代基本款“Plus”iPhone，Young 表示这款手机也将配备 ProMotion。苹果不会通过显示技术进行区分，而是可以以不同的方式对产品线进行分层，例如为 iPhone 17 Pro Max 配备更小的 Face ID 传感器和动态岛式切口，以及为两种尺寸的 iPhone 17 Pro 配备 12GB RAM，为标准和 Slim 型号配备 8GB。
 据传，整个系列的前置摄像头均为 24MP，而不是当前 iPhone 中的 12MP，而且它们可能首次都使用苹果设计的 Wi-Fi / 蓝牙芯片。]]></description>
       <guid>https://www.theverge.com/2024/12/30/24332070/iphone-17-rumor-oled-promotion-120hz-display</guid>
       <pubDate>Mon, 30 Dec 2024 15:31:12 GMT</pubDate>
@@ -130,43 +166,6 @@ PlayStation 在 2024 年表现不佳，但仍推出了一些很棒的游戏。
 阅读 The Verge 上的完整故事。]]></description>
       <guid>https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial</guid>
       <pubDate>Mon, 30 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJI 现在为其大电池制造了一款非常强大的车载充电器</title>
-      <link>https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price</link>
-      <description><![CDATA[
-
-DJI 的新型快速车载充电器连接到 DJI 充电站。| 图片：DJI
-
-DJI 悄然推出了一款功能强大的新型车载充电器，用于其巨型便携式电池。售价 299 美元 / 269 欧元的 Power 1kW 超快速车载充电器可以在发动机处于低速运转时，通过汽车交流发电机为该公司不断扩展的电站系列充电，充电功率高达 1000W。运行。
-这种新型（几乎）自助式交流发电机充电器现在正流行，因为最受欢迎的太阳能发电机和发电站制造商已经采用了直流-直流充电器。去年夏天，当我从我的货车上远程工作时，我如果没有它，我就活不下去。
-一旦将 Power 1kW 安装在您的车辆内，并通过随附的 5 米（16 英尺 5 英寸）保险丝电缆连接到汽车的电池，它就会连接到我最近评测过的加密狗爱好者DJI Power 1000 电站的专有 SDC 端口。当通过 SDC 电缆菊花链连接在一起时，它还可以为 DJI 的 2048Wh Power 2000 扩展电池充电，可堆叠存储容量高达 11kWh。 Power 1kW 还可以配置为反向充电汽车电池，以防止电池耗尽。
-
-在满功率下，DJI Power 1kW 超快速车载充电器可以在一个多小时的车程内为 Power 1000 的 1024Wh 电池充电。但是，出厂时 Power 1kW 的充电输出功率为 500W。要达到 1000W，您必须购买另一个适配器 - 25 美元的 DJI Power 适配器 - 然后在应用程序中将设置调整为 1000W。幸运的是，DJI 将该适配器作为“免费礼物”与新购买的 DJI Power 1kW 超快速车载充电器捆绑在一起，至少在美国是这样。
-DJI 的公告是在去年夏天800W EcoFlow 交流发电机充电器我评测过和新的560W Bluetti AC500 于秋季发布（即将进行审核）。EcoFlow 的充电器与 DJI 的一样，使用专有连接器，使其最适合为其自己的巨型电池充电，而 Bluetti AC500 可以为几乎所有制造商的太阳能发电机和发电站充电，但充电速度只有 DJI 的一半。当然，所有这些都假设您的车辆配备了可以节省安培的高容量交流发电机。 ]]></description>
-      <guid>https://www.theverge.com/2024/12/30/24332004/dji-1000w-alternator-charger-specs-price</guid>
-      <pubDate>Mon, 30 Dec 2024 10:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>LG 微波炉配备 27 英寸显示屏，非常适合投放广告</title>
-      <link>https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers</link>
-      <description><![CDATA[
-
-LG 的新款微波炉安装在炉灶上方，因此“无需弯腰手动检查烤箱”。 |图片：LG
-
-LG 已对三星做出回应，要求将显示屏安装在您拥有的每台家用电器上，最终推出了LG Signature 微波炉，将多余的 27 英寸 LCD 触摸屏和扬声器放入您可能甚至不需要的电器中。 
-LG 表示，这款微波炉的显示屏提供了“身临其境的娱乐体验”，这肯定能防止买家因为花了太多钱买了一台位于厨房中央的潜在的广告机而后悔。而且与 LG 的烤箱搭配使用时，“可以方便地显示炉灶内菜肴的烹饪进度，无需弯腰手动检查烤箱。”
-2023 年，LG 宣布计划将其基于硬件的业务转变为基于平台的服务模式，以持续产生利润。 9 月，该公司开始在闲置的电视上显示全屏广告。
-
-
-图片：LG
-LG 的最新 Signature设备。
-
-该公司的第二代 Signature Wi-Fi 家电系列延续了传统，在冰箱上安装了巨大的透明 OLED“Instaview”触摸屏，在洗衣机和烘干机上安装了较小的 LCD 显示屏。LG 的 Signature 显示屏可用于操作本地家电、访问娱乐和控制 LG 智能家居中的设备。
-在此之前，三星最近宣布其家电的显示屏选择更加多样化，从 4.3 英寸一直到 32 英寸。这一切都是该公司“无处不在的屏幕”战略的一部分，而不是那些很少出现故障且更换成本低廉的易于使用的按钮和拨盘。
-LG 尚未公布其新款 Signature 系列电器的任何价格、上市国家或发货日期。但我们肯定会在 1 月 7 日在拉斯维加斯开幕的大型 CES 展会上看到所有产品展示后了解更多信息。]]></description>
-      <guid>https://www.theverge.com/2024/12/30/24331994/lg-microwave-27-inch-display-speakers</guid>
-      <pubDate>Mon, 30 Dec 2024 08:42:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
