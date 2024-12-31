@@ -4,7 +4,31 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 01:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 09:16:11 GMT</lastBuildDate>
+    <item>
+      <title>LG 轻量级 Gram 笔记本电脑搭载全新英特尔芯片和离线 AI 功能</title>
+      <link>https://www.theverge.com/2024/12/31/24332438/lg-gram-pro-laptops-2025-ai-copilot</link>
+      <description><![CDATA[
+
+17 英寸 LG Gram Pro 重 3.3 磅，而 16 英寸型号重 2.73 磅。 |图片：LG
+
+LG 宣布增加其超轻 Gram 和 Gram Pro 笔记本电脑产品线，增加基于云和设备上的 AI 功能，这些功能超越了其当前的 Gram 笔记本电脑。
+16 英寸 Gram Pro 还将成为 LG Gram 系列中的第一款 Copilot Plus PC，并且是唯一一款使用英特尔 Lunar Lake Core Ultra V 系列处理器的型号。 17 英寸 Gram Pro 和 16 英寸二合一笔记本电脑采用英特尔 Arrow Lake Core Ultra H 系列处理器。
+
+
+图片：LG
+三款 LG Gram Pro 笔记本电脑，包括二合一笔记本电脑。
+
+LG Gram Pro 将提供 17 英寸和 16 英寸两种型号，配备 2,560 x 1,600 显示屏、高达 32GB 的 LPDDR5X 内存和高达 2TB 的 Gen4 NVMe SSD。 16 英寸 Gram Pro 和 16 英寸 LG Gram Pro 2 合 1 将配备英特尔 Arc GPU，而 17 英寸 Gram Pro 将配备 Nvidia GeForce RTX4050 显卡。
+
+Gram Chat On-Device 使用“源自 LG AI Research 的 EXAONE 大型语言模型的小型语言模型”，支持离线功能，包括时间旅行，让用户可以快速重新访问他们最近访问过的“网页、文档、视频和音频文件”。 LG 的软件正在添加与微软的 Copilot Plus 套件和 Apple Intelligence 类似的工具，但考虑到微软在 Recall 方面遇到的麻烦，我们将不得不拭目以待，看看这一切如何衡量。 
+它还可能在更多 PC 上提供这些功能，但 LG 尚未指定新 Gram 系列中的哪些笔记本电脑将提供哪些 AI 功能。
+Gram Chat Cloud 由 OpenAI 的 GPT-4o 提供支持，并使用“大量基于 Web 的数据集来响应查询，以获得详细而全面的响应”，同时与日历和电子邮件服务集成。它需要有效的互联网连接，并且仅在第一年免费。
+所有新款 Gram 笔记本电脑还支持 LG 的 Gram Link 2.0，它简化了与其他 PC 和基于 iOS 或 Android 的智能手机的文档和文件共享。它还允许通过 Gram 笔记本电脑接听来电，因此您不必临时将耳机或蓝牙耳机换到其他设备上。
+LG 还将于明年向美国市场推出入门级 Gram Book。它搭载英特尔酷睿 i5 处理器，配备 15.6 英寸 60Hz 全高清显示屏、720p 网络摄像头，以及高达 1TB 的 SSD 存储和 16GB 的 DDR4 内存配置。]]></description>
+      <guid>https://www.theverge.com/2024/12/31/24332438/lg-gram-pro-laptops-2025-ai-copilot</guid>
+      <pubDate>Tue, 31 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国财政部遭到黑客攻击</title>
       <link>https://www.theverge.com/2024/12/30/24332429/us-treasury-department-beyondtrust-hack-security-breach</link>
@@ -152,20 +176,6 @@ PlayStation 在 2024 年表现不佳，但仍推出了一些很棒的游戏。
 在 The Verge 上阅读完整故事。]]></description>
       <guid>https://www.theverge.com/24322806/ps5-best-games-2024-playstation-sony</guid>
       <pubDate>Mon, 30 Dec 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam Deck 终于被超越了——通过 Valve 自己的经验</title>
-      <link>https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial</link>
-      <description><![CDATA[
-
-华硕 ROG Ally X，运行 Bazzite。它看起来就像 SteamOS，因为它们共享一个界面。
-
-我第一次在 Windows 游戏掌机上安装 Bazzite 时，我笑了。它看起来就像 Valve 的 Steam Deck 界面的一个明显克隆。它的许多错误让我望而却步。
-现在，运行 Bazzite 的 Asus ROG Ally X 几乎取代了我生活中的 Steam Deck。目前，它可能是您时间和金钱可以买到的最好的掌上电脑——因为它将 Deck 90% 的易用性带到了 Ally 更强大的硬件、更大的 80 瓦时电池和可变刷新率屏幕上。根据游戏的不同，它甚至可以提供比运行 Windows 的同款掌上电脑更好的性能和电池寿命。我已经测试了五个月，而且我很少回头。
-这种组合并不适合所有人，因为 800 美元的 Ally X 比 Steam Deck 贵得多，而且 Bazzite 仍然有令人讨厌的怪癖。但由于 Bazzite 可以如此令人信服地将 Windows 手持设备转变为真正的 Steam Deck 竞争对手，我相信它单独证明了手持设备制造商如果坚持使用 Windows 就做出了错误的选择，而其他人应该尽快加入联想对冲赌注。 Bazzite 是一种方式 — 另一种方式可能最早下个月就会出现，届时我们......
-阅读 The Verge 上的完整故事。]]></description>
-      <guid>https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial</guid>
-      <pubDate>Mon, 30 Dec 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
