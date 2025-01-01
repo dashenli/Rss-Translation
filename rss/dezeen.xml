@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>西辛</title>
+    <title>德泽恩</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Tue, 31 Dec 2024 18:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 09:16:45 GMT</lastBuildDate>
+    <item>
+      <title>Dezeen 祝您新年快乐！</title>
+      <link>https://www.dezeen.com/2025/01/01/happy-new-year-2025/</link>
+      <description><![CDATA[Dezeen 祝您新年快乐！我们明天回来，但与此同时，您可以阅读我们的2024 年设计、室内设计和建筑亮点评论。 阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/01/happy-new-year-2025/</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Ryan Leidner Architecture 在 High Desert 打造住宅和工作室</title>
       <link>https://www.dezeen.com/2024/12/31/ryan-leidner-designs-artist-home-studio-california-desert/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[当地建筑师 Dmytro Volyk 和 Ksenia Donetska 完成了乌克兰第聂伯罗彼得罗夫斯克市 Uspenska 广场的翻新工程，根据附近河流的景观，用波浪形的长椅划分多功能空间。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2024/12/30/uspenska-square-ukraine/</guid>
       <pubDate>Mon, 30 Dec 2024 10:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>“微妙而精致”的内饰使基辅性用品商店与众不同</title>
-      <link>https://www.dezeen.com/2024/12/30/sofiia-hupalovska-nataliya-stukonog-inside-sex-shop-kyiv/</link>
-      <description><![CDATA[柔和的灯光、圆润的外形和中性色彩营造出温馨的氛围基辅的性用品店，由乌克兰设计师 Sofiia Hupalovska 和 Nataliya Stukonog 设计，带有一些俏皮的细节，包括一个阴茎形的坐垫。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2024/12/30/sofiia-hupalovska-nataliya-stukonog-inside-sex-shop-kyiv/</guid>
-      <pubDate>Mon, 30 Dec 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
