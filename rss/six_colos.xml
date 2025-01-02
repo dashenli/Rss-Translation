@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 02 Jan 2025 18:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 21:15:35 GMT</lastBuildDate>
+    <item>
+      <title>金苹果奖旨在表彰为盲人和视障用户开发的应用程序 ↦</title>
+      <link>https://sixcolors.com/link/2025/01/golden-apple-awards-celebrate-apps-for-blind-and-visually-impaired-users/</link>
+      <description><![CDATA[AppleVis 宣布了第 13 届金苹果奖，旨在表彰为盲人或视障人士设计（或对其有用的）的应用和游戏。该奖项还表彰了开发者，并新增了一项持续成就奖。…]]></description>
+      <guid>https://sixcolors.com/link/2025/01/golden-apple-awards-celebrate-apps-for-blind-and-visually-impaired-users/</guid>
+      <pubDate>Thu, 02 Jan 2025 20:19:35 GMT</pubDate>
+    </item>
     <item>
       <title>快速提示：当前连接了哪些 USB 设备？</title>
       <link>https://sixcolors.com/post/2025/01/quick-tip-which-usb-devices-are-currently-attached/</link>
@@ -16,9 +23,9 @@
     <item>
       <title>密钥的状态 ↦</title>
       <link>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</link>
-      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密码的使用情况：
+      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密钥的使用情况：
 
-目前，密码的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
+目前，密钥的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</guid>
       <pubDate>Thu, 02 Jan 2025 15:35:50 GMT</pubDate>
     </item>
@@ -32,7 +39,7 @@
     <item>
       <title>2025 年将再次成为 Apple Intelligence 之年（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2566169/2025-will-be-the-year-of-apple-intelligence-again.html</link>
-      <description><![CDATA[作为一名体育迷，最近我被赌博广告包围了。体育媒体上充斥着专家，他们乐于声称自己知道谁会赢，谁会输，但当然，如果他们真的知道所有答案，他们就会发财，而不必大肆吹嘘自己的预测。…]]></description>
+      <description><![CDATA[作为一名体育迷，最近我被赌博广告包围了。体育媒体上充斥着专家，他们乐于声称自己知道谁会赢，谁会输，但当然，如果他们真的知道所有答案，他们就会发财，而不是大肆吹嘘自己的预测。…]]></description>
       <guid>https://www.macworld.com/article/2566169/2025-will-be-the-year-of-apple-intelligence-again.html</guid>
       <pubDate>Wed, 01 Jan 2025 18:00:45 GMT</pubDate>
     </item>
@@ -72,7 +79,7 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
     <item>
       <title>听听琼斯博士的说法↦</title>
       <link>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</link>
-      <description><![CDATA[《夺宝奇兵》是我最喜欢的电影之一（我认为也是史蒂文·斯皮尔伯格最好的电影），但我从来不知道这个“未完成的结局”，直到我在删减片段合集中读到它：
+      <description><![CDATA[“夺宝奇兵”是我最喜欢的电影之一（我认为也是史蒂文·斯皮尔伯格最好的电影），但我从来不知道这个“未完成的结局”，直到我在删减片段合集中读到它：
 
 电影中删减了涉及约柜的剧情元素，只在结局打开约柜时有所暗示。…]]></description>
       <guid>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</guid>
@@ -114,13 +121,6 @@ Tailscale
       <description><![CDATA[为了庆祝这个节日，我们讨论了圣诞灯、科技礼品、最喜欢的节日食品、节日电视和电影，并回答了一些以节日为主题的听众问题。祝所有 Upgradians 节日快乐！…]]></description>
       <guid>https://sixcolors.com/podcast/2024/12/upgrade-543-in-the-pocket-of-big-turkey/</guid>
       <pubDate>Mon, 23 Dec 2024 17:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）安全的无限循环</title>
-      <link>https://sixcolors.com/feed-only/2024/12/the-infinite-loop-of-security-3/</link>
-      <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/12/the-infinite-loop-of-security-3/</guid>
-      <pubDate>Mon, 23 Dec 2024 17:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
