@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>西辛</title>
+    <title>德泽恩</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Thu, 02 Jan 2025 03:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 09:16:34 GMT</lastBuildDate>
+    <item>
+      <title>Gianni Botsford Architects 在 Norman Foster 扩建项目中增添梯形住宅</title>
+      <link>https://www.dezeen.com/2025/01/02/reciprocal-house-gianni-botsford-architects-norman-foster/</link>
+      <description><![CDATA[本地工作室Gianni Botsford Architects为房屋位于伦敦汉普斯特德，与诺曼·福斯特在 20 世纪 60 年代创造的独特的高科技附加建筑相得益彰。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/02/reciprocal-house-gianni-botsford-architects-norman-foster/</guid>
+      <pubDate>Thu, 02 Jan 2025 08:00:53 GMT</pubDate>
+    </item>
     <item>
       <title>Dezeen 祝您新年快乐！</title>
       <link>https://www.dezeen.com/2025/01/01/happy-new-year-2025/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Dezeen 总结了 2024 年的十大视频，其中包括与工作室MAD Architects 和 Future Facility，以及 米兰三年展、巴比肯艺术中心 和 蛇形画廊 等机构。阅读更多]]></description>
       <guid>https://www.dezeen.com/2024/12/30/top-architecture-design-videos-2024/</guid>
       <pubDate>Mon, 30 Dec 2024 10:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰公共广场改造彰显冲突持续中的“城市生活动力”</title>
-      <link>https://www.dezeen.com/2024/12/30/uspenska-square-ukraine/</link>
-      <description><![CDATA[当地建筑师 Dmytro Volyk 和 Ksenia Donetska 完成了位于乌克兰第聂伯罗彼得罗夫斯克的 Uspenska 广场的翻新工程，根据附近河流的状况，用波浪形的长椅划分多功能空间。 阅读更多]]></description>
-      <guid>https://www.dezeen.com/2024/12/30/uspenska-square-ukraine/</guid>
-      <pubDate>Mon, 30 Dec 2024 10:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
