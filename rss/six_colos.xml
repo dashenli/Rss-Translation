@@ -4,13 +4,37 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 02 Jan 2025 01:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 18:22:37 GMT</lastBuildDate>
+    <item>
+      <title>快速提示：当前连接了哪些 USB 设备？</title>
+      <link>https://sixcolors.com/post/2025/01/quick-tip-which-usb-devices-are-currently-attached/</link>
+      <description><![CDATA[
+我最近从在两个不同的办公室（难以取暖的车库和我温度适宜的后卧室）使用两台电脑改为在任一位置使用一台电脑（MacBook Pro）。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/quick-tip-which-usb-devices-are-currently-attached/</guid>
+      <pubDate>Thu, 02 Jan 2025 16:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>密钥的状态 ↦</title>
+      <link>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</link>
+      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密码的使用情况：
+
+目前，密码的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
+      <guid>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</guid>
+      <pubDate>Thu, 02 Jan 2025 15:35:50 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 527：努力熬到午夜</title>
       <link>https://sixcolors.com/podcast/2025/01/the-rebound-527-trying-to-make-it-to-midnight/</link>
       <description><![CDATA[新年的精彩一集。…]]></description>
       <guid>https://sixcolors.com/podcast/2025/01/the-rebound-527-trying-to-make-it-to-midnight/</guid>
       <pubDate>Wed, 01 Jan 2025 23:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年将再次成为 Apple Intelligence 之年（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2566169/2025-will-be-the-year-of-apple-intelligence-again.html</link>
+      <description><![CDATA[作为一名体育迷，最近我被赌博广告包围了。体育媒体上充斥着专家，他们乐于声称自己知道谁会赢，谁会输，但当然，如果他们真的知道所有答案，他们就会发财，而不必大肆吹嘘自己的预测。…]]></description>
+      <guid>https://www.macworld.com/article/2566169/2025-will-be-the-year-of-apple-intelligence-again.html</guid>
+      <pubDate>Wed, 01 Jan 2025 18:00:45 GMT</pubDate>
     </item>
     <item>
       <title>（播客）升级 544：2024 年升级</title>
@@ -69,7 +93,7 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
       <pubDate>Wed, 25 Dec 2024 18:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）85 号下游：蒂姆·古德曼的节日来访</title>
+      <title>（播客）85 号下游：蒂姆·古德曼的节日拜访</title>
       <link>https://sixcolors.com/podcast/2024/12/downstream-85-a-holiday-visit-from-tim-goodman/</link>
       <description><![CDATA[蒂姆·古德曼从烟囱里走下来，与杰森重聚，讨论他的超级秘密内部电视评论，流媒体对美国国际电视崛起的影响，…]]></description>
       <guid>https://sixcolors.com/podcast/2024/12/downstream-85-a-holiday-visit-from-tim-goodman/</guid>
@@ -97,29 +121,6 @@ Tailscale
       <description><![CDATA[我最近参加了在旧金山举行的 RSA 大会，这是安全领域今年最大的盛会，令我印象深刻的是，每个人都对用新颖、炫酷的解决方案来解决新颖、炫酷的问题的承诺如此着迷。…]]></description>
       <guid>https://sixcolors.com/feed-only/2024/12/the-infinite-loop-of-security-3/</guid>
       <pubDate>Mon, 23 Dec 2024 17:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：极其私密和安全的 Safari 网页浏览</title>
-      <link>https://sixcolors.com/sponsor/2024/12/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-10/</link>
-      <description><![CDATA[感谢 Magic Lasso Adblock 本周赞助 Six Colors。
-Magic Lasso Adblock 拥有超过 5,000 条五星评价，是适用于 iPhone、iPad 和 Mac 的最佳 Safari 广告拦截器。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/12/magic-lasso-adblock-incredibly-private-and-secure-safari-web-browsing-10/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年我们的最爱：硬件</title>
-      <link>https://sixcolors.com/post/2024/12/our-2024-favorites-hardware/</link>
-      <description><![CDATA[
-[随着一年即将结束，我们这些为《六色》撰稿的人决定分享一些过去一年我们最喜欢的东西。…]]></description>
-      <guid>https://sixcolors.com/post/2024/12/our-2024-favorites-hardware/</guid>
-      <pubDate>Thu, 19 Dec 2024 19:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 585：空间感太强</title>
-      <link>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</link>
-      <description><![CDATA[有关可折叠 iPad 的传言、Mac 上的空间计算、我们使用街景类功能的频率以及我们已关闭的 iOS 18 功能。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/clockwise-585-way-too-spatial/</guid>
-      <pubDate>Wed, 18 Dec 2024 19:48:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
