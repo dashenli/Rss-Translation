@@ -4,7 +4,30 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 Jan 2025 09:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 12:30:25 GMT</lastBuildDate>
+    <item>
+      <title>Apple Fitness Plus 和 Strava 正在合作进行新的整合</title>
+      <link>https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration</guid>
+      <pubDate>Fri, 03 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 与音乐出版商就歌词纠纷达成协议</title>
+      <link>https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal</link>
+      <description><![CDATA[
+
+图片：The Verge / Shutterstock
+
+Anthropic 已达成协议，以和解部分版权侵权诉讼，该诉讼针对 Claude AI 模型的制造商，指控其传播受保护的歌词。周四，美国地区法官 Eumi Lee 签署了该协议，要求 Anthropic 在未来 AI 模型的训练中应用现有的护栏，并为音乐出版商建立一个在发生版权侵权时进行干预的程序。怀疑。
+2023 年 10 月，环球音乐集团、ABKCO、Concord Music Group 和 Greg Nelson Music 等多家音乐出版商对 Anthropic 提起版权侵权诉讼，指控其使用至少 500 首受保护歌曲的歌词来训练其 AI 系统。 根据投诉，当 Claude 被要求提供 Beyoncé 的“Halo”、Mark Ronson 的“Uptown Funk”和 Maroon 5 的“Moves like Jagger”等歌曲的歌词时，聊天机器人提供的回复“包含全部或大部分歌词”。
+虽然音乐出版商承认 Genius 等平台已经在网上分发歌词，但他们指出，这些网站需要支付许可费才能使用受保护的作品。根据诉讼文件，Anthropic 在从这些网站上获取数据来训练其 AI 模型时“故意删除或更改了受影响歌曲的版权管理信息”。
+根据 Anthropic 周四签署的协议，这家 AI 公司表示将维持已实施的防护措施，以防止其 AI 模型侵犯版权内容。Anthropic 还将把现有的防护措施应用于其未来开发的任何 AI 系统。音乐出版商和 Anthropic 将“真诚”合作，解决任何护栏被视为无效的情况，法院随时准备解决任何纠纷。
+Claude“并非设计用于侵犯版权，我们已制定多项流程来防止此类侵权行为，”Anthropic 在给好莱坞报道的一份声明中表示。“我们决定签订这项规定符合这些优先事项。我们继续期待证明，根据现有的版权法，在训练生成式 AI 模型时使用可能受版权保护的材料是典型的合理使用。”
+最初投诉的音乐出版商已请求初步禁令，禁止 Anthropic 使用其受保护的歌词训练未来的模型，预计法院将在未来几个月内作出裁决。]]></description>
+      <guid>https://www.theverge.com/2025/1/3/24334866/anthropic-claude-music-publishers-lyric-copyright-lawsuit-deal</guid>
+      <pubDate>Fri, 03 Jan 2025 11:22:28 GMT</pubDate>
+    </item>
     <item>
       <title>这款 LG 灯也是投影仪和蓝牙扬声器</title>
       <link>https://www.theverge.com/2025/1/3/24334850/lg-lamp-projectors-speaker-ust-4k-specs</link>
@@ -150,20 +173,6 @@ Meta 正在为候任总统唐纳德·特朗普的就职典礼前重组其政策�
 阅读 The Verge 上的完整报道。]]></description>
       <guid>https://www.theverge.com/2025/1/2/24334432/meta-trump-friendly-policy-chief-joel-kaplan-nick-clegg</guid>
       <pubDate>Thu, 02 Jan 2025 21:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前 MacBook 的最佳优惠</title>
-      <link>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals</guid>
-      <pubDate>Thu, 02 Jan 2025 21:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>上诉法院裁决废除网络中立性</title>
-      <link>https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/2/24334309/net-neutrality-struck-down-sixth-circuit-chevron-deference</guid>
-      <pubDate>Thu, 02 Jan 2025 20:53:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
