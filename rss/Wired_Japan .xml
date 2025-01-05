@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 05 Jan 2025 06:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 09:16:02 GMT</lastBuildDate>
+    <item>
+      <title>人工智能对环境的影响将阻碍气候变化对策——专题《2025年的世界》</title>
+      <link>https://wired.jp/article/vol55-well-count-the-true-cost-of-generative-ai/</link>
+      <description><![CDATA[数据中心已经消耗了全球 2% 的电力，并且需要大量淡水进行冷却。生成式人工智能贪婪的资源消耗正在给现实世界带来巨大的成本。]]></description>
+      <guid>https://wired.jp/article/vol55-well-count-the-true-cost-of-generative-ai/</guid>
+      <pubDate>Sun, 05 Jan 2025 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微生物群与健康之间的广泛关系变得清晰 - 专题“2025 年的世界”</title>
       <link>https://wired.jp/article/vol55-the-macro-health-effects-of-the-human-microbiome/</link>
@@ -13,14 +20,14 @@
       <pubDate>Sun, 05 Jan 2025 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何节省空间而不完全删除智能手机上的应用程序</title>
+      <title>如何在不彻底删除应用程序的情况下节省手机空间</title>
       <link>https://wired.jp/article/offload-and-archive-apps-to-save-space-on-your-phone/</link>
       <description><![CDATA[没有必要完全摆脱不常用的应用程序。如果您在不使用时将其存储在云端，则可以在需要时重新安装。与此同时，您可以将智能手机宝贵的存储空间用于其他目的。]]></description>
       <guid>https://wired.jp/article/offload-and-archive-apps-to-save-space-on-your-phone/</guid>
       <pubDate>Sat, 04 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>SWIM，一个通过潜入“冰卫星”内海寻找生命的项目正在进行中</title>
+      <title>“SWIM”项目正在进行中，旨在寻找“冰卫星”内部海洋中的生命</title>
       <link>https://wired.jp/article/ice-moons-swim-exploration/</link>
       <description><![CDATA[目前正在进行研究和开发，以使用机器人探索木星卫星木卫二等冰卫星厚冰壳下的内部海洋。让我们通过NASA发布的研发视频来介绍一下这个项目。]]></description>
       <guid>https://wired.jp/article/ice-moons-swim-exploration/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>快速增长的印度是智能手机未来的关键</title>
       <link>https://wired.jp/article/india-could-be-apple-and-samsungs-solution-to-the-future-of-phones/</link>
-      <description><![CDATA[预计到 2025 年底，四分之一的 iPhone 将在中国以外生产。拥有数亿潜在客户的印度市场作为主要候选市场正受到关注。三星和中国品牌也在印度投入巨资，竞争十分激烈。]]></description>
+      <description><![CDATA[预计到 2025 年底，四分之一的 iPhone 将在中国境外生产。拥有数亿潜在客户的印度市场作为主要候选市场备受关注。三星等中国品牌也在印度投入巨资，竞争激烈。]]></description>
       <guid>https://wired.jp/article/india-could-be-apple-and-samsungs-solution-to-the-future-of-phones/</guid>
       <pubDate>Fri, 03 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 02 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能不仅会对民主产生负面影响 - 专题“2025年的世界”</title>
+      <title>人工智能对民主的影响绝不仅仅是负面影响——专题“2025 年的世界”</title>
       <link>https://wired.jp/article/vol55-algorithms-are-coming-for-democracy-but-its-not-all-bad/</link>
       <description><![CDATA[当然，深度造假和虚假信息是严重的问题。然而，我们不应忽视人工智能使政治变得更加容易和公平的潜力。]]></description>
       <guid>https://wired.jp/article/vol55-algorithms-are-coming-for-democracy-but-its-not-all-bad/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[2024年，这座城市挤满了来自海外的游客，乍一看人们的生活似乎已经恢复了正常。焦虑、紧张和分裂在世界各地都很明显。以下是 WIRED.jp 2019 年阅读量最高的 10 个故事。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-2024/</guid>
       <pubDate>Tue, 31 Dec 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《连线》上阅读量最大的会员专享文章是：《连线》日文版回顾2024年（深圳会员版）</title>
-      <link>https://wired.jp/article/most-read-stories-in-japan-2024-sz/</link>
-      <description><![CDATA[定位为实现未来的“投机区”的日文版《WIRED》订阅服务《SZ Membership》的会员发布了今年最受关注的文章一下子。]]></description>
-      <guid>https://wired.jp/article/most-read-stories-in-japan-2024-sz/</guid>
-      <pubDate>Tue, 31 Dec 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
