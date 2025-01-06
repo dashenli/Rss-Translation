@@ -4,7 +4,51 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 06:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 09:18:01 GMT</lastBuildDate>
+    <item>
+      <title>终于，苹果昂贵的 Thunderbolt 4 线缆的真正竞争对手来了</title>
+      <link>https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4</link>
+      <description><![CDATA[
+
+
+OWC 发布了两款新型超长有源光纤 USB4 线缆，长度分别为近 10 英尺（3 米）和 15 英尺（4.5 米），数据吞吐量高达 40Gbps。根据 OWC 的新闻材料，它们的价格分别为 98.99 美元和 129.99 美元，尽管其网站目前列出的价格略低。与 Apple 的充电相比，这很划算。
+除了数据吞吐量，OWC 表示您还可以预期 3m 选项可提供高达 240W 的功率，而 4.5m 电缆可管理 60W。电缆也覆盖有编织尼龙，希望这意味着它们既美观又灵活。尽管它们不是 Thunderbolt 4 线缆，但它们可以像您预期的那样与其他支持 Thunderbolt 3 或 4 的设备（包括基座和集线器）配合使用。
+
+
+图片：OWC
+
+英特尔通常保证 Thunderbolt 4 的性能 与传统铜缆相比，传输距离最远可达 2 米。这些线缆需要采用特殊技术才能在较长的传输距离内保持吞吐量，这可能是 Apple 3 米 40Gbps Thunderbolt 4 线缆售价 159 美元的原因之一。 
+您可以找到一些与 OWC 一样长的 USB4 线缆，但比这短得多，但较长的线缆往往无法提供同样高的吞吐量，OWC 将此归功于光纤的电磁干扰抗扰性。 
+OWC 的线缆有点让人回想起 Thunderbolt 的起源 Light Peak，它最初由英特尔和苹果共同开发，作为光纤线缆标准，后来被索尼笔记本电脑采用，而两家公司却决定改用铜线。光学、仅用于数据的 Thunderbolt 在康宁等公司仍然存在，可以满足您的需求。
+除了电缆之外，OWC 最近还宣布推出一款售价 189.99 美元的 Thunderbolt 5 集线器，该集线器于 11 月开始接受预订，现已上市。它有四个 Thunderbolt 5 端口和一个 USB-A 端口，支持三个同时 60Hz 的 8K 显示器。
+
+]]></description>
+      <guid>https://www.theverge.com/2025/1/6/24336701/owc-usb4-active-optical-cable-3-4-5-meter-40-gbps-thunderbolt-4</guid>
+      <pubDate>Mon, 06 Jan 2025 09:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧莱雅声称其新款护肤工具可以告诉您哪些成分最适合您</title>
+      <link>https://www.theverge.com/2025/1/6/24334941/loreal-cell-bioprint-ces-2025-skincare-beauty-tech</link>
+      <description><![CDATA[
+
+让我们来弄清楚使用视黄醇是否真的值得。 | 图片：L’Oréal
+
+L’Oréal 希望其最新的美容小工具能够揭开护肤的神秘面纱。在 2025 年国际消费电子展 (CES) 上，该公司宣布推出 Cell BioPrint，这是一款旨在分析皮肤并提供个性化建议以减缓衰老迹象的设备。 
+该设备是与 NanoEntek 合作的成果，NanoEntek 是一家专门生产可读取生物流体芯片的韩国初创公司。一个人基本上取一条面部胶带，将其贴在脸颊上，然后将胶带放入缓冲溶液中。然后将该溶液插入盒中，供 Cell BioPrint 分析。处理完该样本后，当您回答几个关于皮肤问题和衰老的简短问题时，设备会拍摄您的脸部图像。 
+从那里，欧莱雅表示它使用蛋白质组学，即从生物样本中分析蛋白质结构和功能。在这种情况下，Cell BioPrint 旨在确定您的皮肤衰老程度。然后，它会提供个性化建议，告诉您如何改善皮肤外观，并预测您的皮肤对某些护肤成分的反应程度。
+这是一个有吸引力的说法，但与大多数美容技术一样，如果没有同行评审的研究或专家的参与，很难正确评估欧莱雅的方法。欧莱雅还声称，该设备可以帮助预测未来的美容问题在出现之前。例如，它可能能够确定您的皮肤是否容易出现色素沉着或毛孔粗大。 
+
+
+图片：欧莱雅
+Cell BioPrint 可分析皮肤蛋白质，了解衰老程度。
+
+在新冠疫情封锁期间，护肤品大受欢迎，引发美容趋势向自我护理的转变，并催生了“护肤网红”。另一方面，这种病毒式传播也使购买护肤品变成了一项极限运动。登录 TikTok，你会发现数十名护肤网红怂恿你花 80 美元购买一瓶维生素 C 精华液，争论甘油和透明质酸的保湿特性，或者对这种或那种视黄醇霜指指点点。 （有些人甚至会说服你购买一种可以电击你脸部的魔杖，以增加上述成分的功效。）这令人困惑、昂贵，而且令人抓狂的是，对一个人有用的东西可能对另一个人不起作用。普通消费者能做的最多就是祈祷他们购买的最新药水真的有效。
+Cell BioPrint 的吸引力在于它声称使用科学来消除这种噪音。也许每个皮肤影响者都说你需要在 30 岁时开始使用视黄醇，但这个设备据称会根据你自己的生物学告诉你视黄醇是否真的适合你。个性化一直是 CES 美容科技的主要主题，但在护肤领域尤其引人注目，因为护肤高度依赖于个人生物学。但同样，目前无法知道 Cell BioPrint 的科学和建议有多可靠。
+欧莱雅表示，Cell BioPrint 易于使用，整个过程只需五分钟。它还表示，人们将能够重复测试，使他们能够监测随时间的变化和进展。话虽如此，像 Cell BioPrint 这样的产品可能还需要一段时间才能面向消费者推出。欧莱雅表示，该设备将于今年晚些时候首先在亚洲试行，但除此之外，没有具体的发布时间表或价格。
+]]></description>
+      <guid>https://www.theverge.com/2025/1/6/24334941/loreal-cell-bioprint-ces-2025-skincare-beauty-tech</guid>
+      <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>三星 2025 年电视产品线将重点关注防眩光屏幕和人工智能</title>
       <link>https://www.theverge.com/2025/1/5/24336442/samsung-2025-tv-oled-mini-led-s95f-qn90f-features</link>
@@ -141,33 +185,6 @@ Halliday 眼镜有黑色和玳瑁色两种颜色可供选择。
 
 Halliday 说眼镜重量为 35 克（约 1.2 盎司），电池续航时间长达 8 小时，有两种颜色可供选择：哑光黑色或玳瑁色。我们向 Halliday 询问了有关触控板环的更多信息，例如如何/是否充电以及任何可能的颜色和尺寸选择。]]></description>
       <guid>https://www.theverge.com/2025/1/5/24334030/halliday-smart-glasses-ai-tiny-display-frame-availability-price-ces</guid>
-      <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwitchBot 将携模仿 Rosie 的机器人参加 CES</title>
-      <link>https://www.theverge.com/2025/1/5/24333438/switchbot-multitasking-household-robot-k20-plus-pro-price-specs-release-date</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/5/24333438/switchbot-multitasking-household-robot-k20-plus-pro-price-specs-release-date</guid>
-      <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ugreen 的新款桌面充电器可同时为五台笔记本电脑充电</title>
-      <link>https://www.theverge.com/2025/1/5/24328396/ugreen-nexode-500w-desktop-charger-usb-c-240w-power-delivery</link>
-      <description><![CDATA[
-
-Nexode 桌面充电器 500W﻿ 可通过单个 USB-C 端口提供高达 240W 的功率。 |图片：Ugreen
-
-Ugreen 宣布推出其 Nexode 桌面 GaN 的新版本充电器，将总功率输出从 300W 提升至 500W，单个 USB-C 端口最高可达 240W。它具有五个 USB-C 端口和一个 USB-A 端口，因此您可以同时为五台笔记本电脑充电，而无需使用塞满笨重适配器的电源板。
-Nexode 桌面充电器 500W 的定价要到 2025 年 3 月左右上市时才会最终确定。
-
-
-图片：Ugreen
-这款桌面充电器的所有六个 USB 端口都可以同时使用。
-
-虽然它肯定有助于简化您的旅行充电套件，但 Nexode 桌面充电器 500W 是一款笨重的砖头设计放在您的办公桌上、工作室中或厨房柜台上。如果您有多个耗电设备（如笔记本电脑或手持游戏设备），它就很有用，Ugreen 表示它甚至可以用于为电动工具或电动自行车充电。
-该充电器支持 USB-PD 3.1 和 Qualcomm 的 Quick Charge 3.0 快速充电协议。顶部端口可提供高达 240W 的功率；无论顶部端口正在做什么，其他五个端口共享 260W，并且它们都不能超过 100W。您可以为一台 240W 的游戏笔记本电脑充电，另外还可以为两台 100W 的笔记本电脑和一台 60W 的笔记本电脑充电，或者为一台 240W 的笔记本电脑和四台 60W 的笔记本电脑充电，另一台设备通过 USB-A 端口以 20W 充电。
-没有屏幕，这可能是另一个需要备忘单来跟踪要使用哪个端口的多端口充电器。]]></description>
-      <guid>https://www.theverge.com/2025/1/5/24328396/ugreen-nexode-500w-desktop-charger-usb-c-240w-power-delivery</guid>
       <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
     </item>
     </channel>
