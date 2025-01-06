@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Sat, 04 Jan 2025 18:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 18:22:48 GMT</lastBuildDate>
+    <item>
+      <title>25 年来，Mac OS X 一直是 Apple 的标杆 (Macworld/Jason Snell)</title>
+      <link>https://www.macworld.com/article/2568010/looking-back-25-years-later-even-steve-was-wrong-about-mac-os-x.html</link>
+      <description><![CDATA[二十五年前，史蒂夫·乔布斯在旧金山的 Macworld Expo 上发布了 Mac OS X，从此开启了 Mac 及整个桌面计算领域的新纪元。…]]></description>
+      <guid>https://www.macworld.com/article/2568010/looking-back-25-years-later-even-steve-was-wrong-about-mac-os-x.html</guid>
+      <pubDate>Mon, 06 Jan 2025 16:52:39 GMT</pubDate>
+    </item>
     <item>
       <title>Dock 面世 25 周年 ↦</title>
       <link>https://sixcolors.com/link/2025/01/25-years-since-the-docks-debut/</link>
@@ -39,9 +46,9 @@
     <item>
       <title>密钥的状态 ↦</title>
       <link>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</link>
-      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密钥的使用情况：
+      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密码的使用情况：
 
-目前，密钥的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
+目前，密码的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</guid>
       <pubDate>Thu, 02 Jan 2025 15:35:50 GMT</pubDate>
     </item>
@@ -95,7 +102,7 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
     <item>
       <title>听听琼斯博士的说法↦</title>
       <link>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</link>
-      <description><![CDATA[“夺宝奇兵”是我最喜欢的电影之一（我认为也是史蒂文·斯皮尔伯格最好的电影），但我从来不知道这个“未完成的结局”，直到我在删减片段合集中读到它：
+      <description><![CDATA[《夺宝奇兵》是我最喜欢的电影之一（我认为也是史蒂文·斯皮尔伯格最好的电影），但我从来不知道这个“未完成的结局”，直到我在删减片段合集中读到它：
 
 电影中删减了涉及约柜的剧情元素，只在结局打开约柜时有所暗示。…]]></description>
       <guid>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</guid>
@@ -114,13 +121,6 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
       <description><![CDATA[随着 Apple 的加入，我们在智能家居技术方面进行投资的可能性、我们 2025 年的技术目标、我们年底/年初的技术习惯，以及对 2025 年技术将如何改善世界的预测。…]]></description>
       <guid>https://sixcolors.com/podcast/2024/12/clockwise-586-face-idea/</guid>
       <pubDate>Wed, 25 Dec 2024 18:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）85 号下游：蒂姆·古德曼的节日拜访</title>
-      <link>https://sixcolors.com/podcast/2024/12/downstream-85-a-holiday-visit-from-tim-goodman/</link>
-      <description><![CDATA[蒂姆·古德曼从烟囱里走下来，与杰森重聚，讨论他的超级秘密内部电视评论，流媒体对美国国际电视崛起的影响，…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/downstream-85-a-holiday-visit-from-tim-goodman/</guid>
-      <pubDate>Tue, 24 Dec 2024 17:48:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

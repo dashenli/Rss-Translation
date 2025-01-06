@@ -4,20 +4,13 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 18:23:48 GMT</lastBuildDate>
     <item>
       <title>2025 年 5 款最佳 WordPress 主题</title>
       <link>https://tympanus.net/codrops/2025/01/06/best-wordpress-themes-2025/</link>
       <description><![CDATA[探索 2025 年最热门的 WordPress 主题，专为追求性能、灵活性和更高级别设计创新的开发人员和设计师打造。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/06/best-wordpress-themes-2025/</guid>
       <pubDate>Mon, 06 Jan 2025 09:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#892</title>
-      <link>https://tympanus.net/codrops/collective/collective-892/</link>
-      <description><![CDATA[GitHub Wrapped * Toms Toys * Math4Devs * Supahero]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-892/</guid>
-      <pubDate>Fri, 27 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>案例研究：旅行升级</title>
@@ -27,13 +20,6 @@
       <pubDate>Thu, 26 Dec 2024 15:30:47 GMT</pubDate>
     </item>
     <item>
-      <title>集体#891</title>
-      <link>https://tympanus.net/codrops/collective/collective-891/</link>
-      <description><![CDATA[同构 Web 组件 * Web 年鉴 2024 * 关于 Tailwind 4 的思考]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-891/</guid>
-      <pubDate>Fri, 20 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 Three.js 和 GPGPU 制作梦幻粒子效果</title>
       <link>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</link>
       <description><![CDATA[了解如何使用 Three.js、GPGPU 和着色器创建交互式粒子效果。]]></description>
@@ -41,25 +27,11 @@
       <pubDate>Thu, 19 Dec 2024 10:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>集体#890</title>
-      <link>https://tympanus.net/codrops/collective/collective-890/</link>
-      <description><![CDATA[CSS Wrapped 2024 * 生成世界 * IsometricShot]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-890/</guid>
-      <pubDate>Tue, 17 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Shopify 2025 年冬季版：一个绝对“无聊”的网站</title>
       <link>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</link>
       <description><![CDATA[了解 Shopify 冬季 &#39;25 版如何将“无聊”变为大胆，提供超过 150 项周到的更新，重新定义可靠性、性能和有趣的创新。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</guid>
       <pubDate>Tue, 17 Dec 2024 11:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体#889</title>
-      <link>https://tympanus.net/codrops/collective/collective-889/</link>
-      <description><![CDATA[3D 内容的运动矢量 * Astro 5.0 * HTML 和 CSS 中下拉菜单的详细介绍]]></description>
-      <guid>https://tympanus.net/codrops/collective/collective-889/</guid>
-      <pubDate>Fri, 13 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>设计师聚焦：Aurora Defiori</title>
@@ -74,6 +46,34 @@
       <description><![CDATA[一些新鲜的精心挑选的动作设计和动画概念可供您参考。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/12/ui-interactions-animations-roundup-48/</guid>
       <pubDate>Thu, 12 Dec 2024 13:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Luma Dream Machine 网站的变形效果</title>
+      <link>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</link>
+      <description><![CDATA[了解如何使用 Canvas2D API 仅使用 JavaScript 创建这种强大的变形效果。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</guid>
+      <pubDate>Mon, 09 Dec 2024 11:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计师聚焦：Andrea Binski</title>
+      <link>https://tympanus.net/codrops/2024/12/06/designer-spotlight-andrea-binski/</link>
+      <description><![CDATA[认识一下 UNIKO™ 的联合创始人兼艺术总监 Andrea Binski，UNIKO™ 是一家屡获殊荣的设计工作室，专门从事创新品牌和网页设计。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/06/designer-spotlight-andrea-binski/</guid>
+      <pubDate>Fri, 06 Dec 2024 10:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>案例研究：Isabel Moranta 投资组合 — 2024</title>
+      <link>https://tympanus.net/codrops/2024/12/05/case-study-isabel-moranta-portfolio-2024/</link>
+      <description><![CDATA[本案例研究记录了制作个人作品集的历程——对大胆设计、创作自由和为自己设计之美的探索。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/05/case-study-isabel-moranta-portfolio-2024/</guid>
+      <pubDate>Thu, 05 Dec 2024 08:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年适合小型企业的 5 大最佳网站构建器</title>
+      <link>https://tympanus.net/codrops/2024/12/04/the-5-best-website-builders-for-small-businesses-in-2025/</link>
+      <description><![CDATA[探索 2025 年最适合小型企业的网站建设者，并学习如何选择完美的平台来轻松且可扩展地扩大您的在线影响力。]]></description>
+      <guid>https://tympanus.net/codrops/2024/12/04/the-5-best-website-builders-for-small-businesses-in-2025/</guid>
+      <pubDate>Wed, 04 Dec 2024 10:21:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
