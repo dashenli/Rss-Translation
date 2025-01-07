@@ -4,7 +4,19 @@
     <title>嘭嘭</title>
     <link>https://boingboing.net/</link>
     <description>最精彩事物的目录</description>
-    <lastBuildDate>Tue, 07 Jan 2025 12:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 15:59:41 GMT</lastBuildDate>
+    <item>
+      <title>由 84,688 个正则表达式组成的国际象棋引擎</title>
+      <link>https://boingboing.net/2025/01/07/chess-engine-made-of-84688-regular-expressions.html</link>
+      <description><![CDATA[Nicholas Carlini 编写了一个 2 层极小极大国际象棋引擎，其中包含 84,688 个正则表达式。它不是一场通过由 if 条件组成的常见开局进行的大规模混乱选择冒险：它遵循国际象棋规则并进行直接的抓取材料的动作。
+
+那么我们如何让正则表达式下棋呢？
+
+ — 阅读其余内容 
+文章由 84,688 个正则表达式组成的国际象棋引擎首先出现在Boing Boing上。]]></description>
+      <guid>https://boingboing.net/2025/01/07/chess-engine-made-of-84688-regular-expressions.html</guid>
+      <pubDate>Tue, 07 Jan 2025 12:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>你有没有想过，如果牛仔裤在田里放置二十年，会发生什么情况？</title>
       <link>https://boingboing.net/2025/01/07/have-you-ever-wondered-what-happens-to-jeans-when-theyre-left-in-a-field-for-two-decades.html</link>
@@ -50,7 +62,7 @@
       <link>https://boingboing.net/2025/01/06/lil-pup-sasses-big-dog-until-even-bigger-doggo-steps-in-to-set-things-straight-video.html</link>
       <description><![CDATA[一只活泼的小狗以为自己很了不起，对着一只比它大两倍的金毛猎犬狂吠。直到一只更大的狗——比如圣伯纳犬——走进来，让一切恢复正常。
 只要看一眼笼罩在它身上的大家伙，这只小狗就会立即闭嘴，倒在地上，仰面朝天。— 阅读其余内容 
-文章小狗嘲弄大狗 — 直到更大的狗狗介入纠正事情 (视频)首先出现在Boing Boing上。]]></description>
+文章小狗嘲讽大狗 — 直到更大的狗狗介入纠正事情 (视频)首先出现在Boing Boing上。]]></description>
       <guid>https://boingboing.net/2025/01/06/lil-pup-sasses-big-dog-until-even-bigger-doggo-steps-in-to-set-things-straight-video.html</guid>
       <pubDate>Tue, 07 Jan 2025 01:21:37 GMT</pubDate>
     </item>
@@ -129,15 +141,6 @@ Blanca Ojanguren García 是一名大学生，当时她在瑶诺岛的大象护�
 文章游客在泰国大象“保护区”被刺死首先出现在Boing Boing上。]]></description>
       <guid>https://boingboing.net/2025/01/06/tourist-gored-to-death-at-elephant-sanctuary-in-thailand.html</guid>
       <pubDate>Mon, 06 Jan 2025 19:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国首位重罪犯当选总统因一月份的判决而大发雷霆</title>
-      <link>https://boingboing.net/2025/01/06/americas-first-felon-president-elect-throws-legal-tantrum-over-january-sentencing.html</link>
-      <description><![CDATA[美国首位当选总统的重罪犯要求纽约法官推迟对他 1 月 10 日的判决，因为他仅犯有 34 项重罪。
-在一份充满皇家特权的 17 页法庭文件中，特朗普的法律团队坚持认为，他即将重返白宫，这应该可以让他刑事诉讼“搁置”。— 阅读其余内容 
-文章美国首位重罪犯当选总统因 1 月份的判决而大发雷霆首先出现在Boing Boing上。]]></description>
-      <guid>https://boingboing.net/2025/01/06/americas-first-felon-president-elect-throws-legal-tantrum-over-january-sentencing.html</guid>
-      <pubDate>Mon, 06 Jan 2025 19:26:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

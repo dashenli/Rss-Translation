@@ -4,207 +4,145 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 12:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 16:00:07 GMT</lastBuildDate>
     <item>
-      <title>谷歌正在组建自己的“世界建模”人工智能团队，用于游戏和机器人训练</title>
-      <link>https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training</link>
+      <title>Discovery Plus 正在提高价格</title>
+      <link>https://www.theverge.com/2025/1/7/24338169/discovery-plus-price-increase</link>
+      <description><![CDATA[
+
+图片插图由 Jaque Silva/NurPhoto 通过 Getty Images 提供
+
+Discovery Plus 将于价格，其广告支持计划从每月 4.99 美元涨至 5.99 美元，无广告计划从每月 8.99 美元涨至 9.99 美元。价格上涨将立即对新订阅者生效，而现有订阅者将在下一个计费周期或 2 月 7 日之后看到价格变化。
+Discovery Plus 于 2023 年 10 月首次提高了其无广告计划的价格。在Max 推出之后，尽管 Discovery Plus 的大部分内容都出现在华纳兄弟 Discovery 的旗舰流媒体服务中，但它仍然是一个独立的订阅服务。 Discovery Plus 提供各种节目 - 从超级值得一看到超级令人尴尬 - 来自 HGTV、TLC、Discovery Channel、Investigation Discovery、Magnolia Network 等频道。
+过去几年，流媒体服务价格上涨变得令人沮丧地普遍，Max、Paramount Plus 和Peacock 均将在 2024 年提高价格，而 Amazon Prime Video 推出了广告。 Max 和 Disney Plus 也在效仿 Netflix 的举措，严厉打击密码共享行为。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338169/discovery-plus-price-increase</guid>
+      <pubDate>Tue, 07 Jan 2025 15:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getty Images 和 Shutterstock 即将合并为一家图片库巨头</title>
+      <link>https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse</link>
       <description><![CDATA[
 
 图片：The Verge
 
-Google DeepMind 正在组建一个新的人工智能研究团队，以开发可以模拟物理环境的“世界模型”。该计划将由 Tim Brooks 领导，他曾是 OpenAI 的 Sora 项目的联合负责人他于 10 月加入 DeepMind，负责 Google 的视频生成和世界模拟器的开发。
-世界模型是人工智能领域一个相对较新的发展，可用于多种用途，例如为视频游戏和电影创建实时交互式媒体环境，以及为机器人和其他人工智能系统创建逼真的训练场景。这也是谷歌在竞争对手之前实现通用人工智能系统（AGI）的努力的一部分。
-“DeepMind 有雄心勃勃的计划，要制造出模拟世界的大规模生成模型，”Brooks 周一在 X 帖子中宣布。Brooks 发布了两个招聘信息，招聘研究工程师和科学家，他们将通过解决“大规模”训练问题、整理训练数据以及研究如何将它们与多模态语言模型集成，帮助推进能够模拟真实世界场景的人工智能“世界模型”。
+Getty Images 和 Shutterstock 联手进行一项价值约 37 亿美元的合并，两家公司于周二宣布了合并的消息。此次合并将使两家公司能够扩大其库存照片库，因为它们面临着来自人工智能图像创建工具日益激烈的竞争。
+合并完成后，Getty Images 首席执行官 Craig Peters 仍将担任合并后公司的负责人，而重组后的董事会将由 Getty Images 和 Shutterstock 的成员组成，其中包括 Shutterstock 首席执行官 Paul Hennessy。Peters 在新闻稿中表示，合并将通过“增强我们的内容产品、扩大活动覆盖范围并提供新技术以更好地服务于我们的客户”来增强两家公司。 
+Getty Images 发言人 Anne Flanagan 向 The Verge 证实，合并后，Shutterstock 仍将作为一个独立网站。
 
-
-DeepMind 有雄心勃勃的计划，要制造出模拟世界的大规模生成模型。我正在为这个使命招募一个新团队。与我们一起构建！https://t.co/pqvALtAvLs https://t.co/vtwgeXl9Dl— Tim Brooks (@_tim_brooks) 2025 年 1 月 6 日
-
-
-“我们相信，在视频和多模态数据上扩展预训练是实现通用人工智能的关键途径，”DeepMind职位描述中说。“世界模型将为众多领域提供动力，例如视觉推理和模拟、具体代理的规划以及实时互动娱乐。”
-率先宣布 AGI 的竞争正在升温，因此谷歌的重点并不令人意外。 OpenAI 首席执行官 Sam Altman 最近表示，该公司已经破解了如何实现科技行业长期寻求的基准，并且自主 AI 代理可能在今年开始有意义地加入劳动力大军。
-已经有几家竞争对手在 DeepMind 的世界建模项目上抢占先机，其中包括Nvidia 的 Cosmos 平台，用于推进物理 AI、自动驾驶汽车和机器人开发；以及由“人工智能教母”李飞飞创建的World Labs 初创公司。
-
-
-介绍 Genie 2 - 我们最强大的大型基础世界模型，它可以生成各种一致的世界，可玩时间长达一分钟。我们相信 Genie 2 可以为具身代理解锁下一波能力。 pic.twitter.com/AfL3EbOMeB— Jack Parker-Holder (@jparkerholder) 2024 年 12 月 4 日
-
-
-新的 DeepMind 团队将与现有的 Google AI 项目合作，包括其旗舰 Gemini AI 模型、Veo 视频生成器 和 Genie - Google 先前的世界模型，用于实时模拟可玩的 3D 环境。]]></description>
-      <guid>https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training</guid>
-      <pubDate>Tue, 07 Jan 2025 11:39:12 GMT</pubDate>
+此次合并正值 OpenAI、谷歌、微软和 Adob​​e 等公司推出文本转图像 AI 工具的兴起。2023 年，Getty Images 响应了这一趋势，推出了一款在其庞大的授权照片库上进行训练的图像生成器。该公司在 iStock 上推出了类似的工具，Getty 也拥有该公司的股份，并且与在线图像编辑器 Picsart 合作创建了一个“负责任、商业安全”的 AI 图像生成器。 
+与此同时，据路透社报道，Shutterstock 与 OpenAI 达成了AI 培训协议，并与 Meta、谷歌和亚马逊达成了协议。
+合并两家图片库巨头的决定也可能引发反垄断审查，但目前尚不清楚更倾向于合并的特朗普政府将如何应对。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338112/getty-images-shutterstock-merging-stock-photo-powerhouse</guid>
+      <pubDate>Tue, 07 Jan 2025 15:12:35 GMT</pubDate>
     </item>
     <item>
-      <title>Philips Hue 即将推出 AI 照明助手</title>
-      <link>https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025</link>
+      <title>Keychron 正在将霍尔效应开关引入更多键盘</title>
+      <link>https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs</link>
       <description><![CDATA[
 
-飞利浦 Hue 应用程序已经提供了很多可自定义的灯光效果，但很快您将能够借助 AI 创建个性化灯光效果。 |图片：Signify
+Keychron Q6 HE（如图）现在支持霍尔效应开关。 | 图片：Keychron
 
-飞利浦 Hue 用户很快就能创建自己的 AI 照明场景，该公司周二宣布。
-飞利浦 Hue 的全新生成式 AI 照明助手让用户能够根据场合、心情或风格创建个性化的照明场景。他们可以在 Hue 应用程序中输入命令，例如“给我一个花园派对的场景”，也可以使用语音来创建。然后，助手会从现有的飞利浦 Hue 图库中推荐场景，或者完全创建一个新的场景。除了创建场景外，AI 助手还可用于调整现有灯光的设置，包括亮度级别和颜色。 
+机械键盘专家 Keychron 正在为其更多产品线添加精美的模拟霍尔效应开关。今天在 CES 上发布的两款型号将立即上市：售价 169 美元的 Lemokey P1 HE QMK 和 售价 229 美元的 Keychron Q6 HE QMK，另外三款键盘将于今年晚些时候发布。
+霍尔效应开关以提供比传统机械开关更多的自定义功能和更快的按压速度而著称，因此成为游戏玩家的热门选择。它们在 PCB 上使用磁感应感应来检测按键按下的程度——允许您决定确切的触发点，甚至设置根据按压力度激活的不同功能。 
+Lemokey P1 HE QMK 是一款 75% 布局键盘，具有 2.4GHz 蓝牙和 1,000Hz 轮询率。它可以有线或无线使用，并且仅与 Gateron 双轨磁力开关 兼容。今天推出的 Keychron Q6 HE 也是一款全尺寸机械键盘，具有类似的功能和开关限制。两种型号均有黑色或白色可供选择，并采用 PBT 双色注塑键帽。
 
 
-图片：飞利浦 Hue
-助手将根据提示推荐场景。
+图片：Keychron
+以下是更新后的 Lemokey P1 HE QMK。
 
-该消息是在Hueblog 报道称，Philips Hue 在 10 月份正在开发一项生成式 AI 功能。据 Hueblog 报道，“AI Playground”允许用户根据输入的文本创建照明场景，例如“为儿童生日派对创建场景”，但没有提到语音命令。
-Philips Hue 并不是第一个提供人工智能照明助手的公司。Govee 的 AI Lighting Bot 可以产生类似的动态照明效果，也可以响应语音提示。与此同时，Nanoleaf 的“魔法场景”功能也能创造出类似的场景，但只会对输入的短语做出反应，例如“热带天堂。”
-飞利浦 Hue 表示，AI 助手将与其所有灯具兼容。该公司尚未透露其确切可用性的详细信息，但表示将于 2025 年第一季度开始推出。
-
-AI 照明助手并不是飞利浦 Hue 周二宣布的唯一新闻。 Philips Hue Sync TV 应用程序现在支持 LG 电视，而变色的Philips Hue Datura 吸顶灯现已在美国上市，起价为 299.99 美元。无框天花板面板提供一对可单独控制的灯和可自定义的色彩效果。
-Philips Hue 还宣布了新的智能家居安全功能，包括烟雾报警器声音检测和将实时摄像头源传输到 Amazon Alexa 和 Google Nest Hub 的功能。用户现在还可以直接从他们的设备查看实时摄像头视图或安排系统设置。 
-]]></description>
-      <guid>https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025</guid>
-      <pubDate>Tue, 07 Jan 2025 08:30:00 GMT</pubDate>
+Keychron 发布 其首款霍尔效应键盘，而竞争对手键盘制造商，如Corsair 和 SteelSeries 也在Wooting 推广了霍尔效应开关的使用。与此同时，Epomaker 和 Ducky 等其他品牌也倾向于使用基于感应的开关，这种开关可提供类似的模拟功能，并且耗电量更低。其他 Keychron 型号（例如 K4、K8 和 Lomokey L5）也将在 2025 年第一季度的某个时候配备霍尔效应开关。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338132/keychron-q6-lemokey-p1-mechanical-keyboard-hall-effect-price-specs</guid>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 将为 Steam Deck 推出原生 GeForce Now 应用</title>
-      <link>https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr</link>
-      <description><![CDATA[
-
-照片来自 The Verge
-
-据一篇博文称，Nvidia 计划“今年晚些时候”为 Steam Deck 发布一款原生 GeForce Now 应用。由于 Nvidia 的特殊脚本，在 Steam Deck 上设置 Nvidia 的云游戏服务已经相对简单，但原生应用程序应该更容易安装，并且连接到电视时将支持高达 4K 分辨率和 60 fps 的 HDR。
-Nvidia 还计划在本月晚些时候将 GeForce Now 引入一些主要的 VR 耳机，包括 Apple Vision Pro、Meta Quest 3 和 3S 以及 Pico“虚拟和混合现实设备”。当 GeForce Now 2.0.70 版本发布后，使用这些耳机的用户将能够访问“丰富的游戏库”，只需在浏览器中访问 play.geforcenow.com 即可进行流式传输。
-该公司还表示，微软的两款主要游戏将于今年在 GeForce Now 上发布：Avowed 将于 2 月 18 日发布，DOOM：黑暗时代 将于今年某个时候发布。]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24337977/nvidia-native-geforce-now-app-steam-deck-vr</guid>
-      <pubDate>Tue, 07 Jan 2025 04:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 的 AI NPC 不再是聊天机器人——他们是你的新 PUBG 队友</title>
-      <link>https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate</link>
-      <description><![CDATA[
-
-
-Nvidia 在过去两年中一直在展示其数字“ACE”角色，这些角色可以使用生成式 AI 与您进行游戏内对话。但在 2025 年国际消费电子展 (CES 2025) 上，该公司将 ACE 角色更进一步，展示如何成为“自主游戏角色”——包括在今年某个时候，让你成为《绝地求生》中帮助你吃鸡的队友。 
-Nvidia 表示，ACE 角色可以使用 AI“像人类玩家一样感知、计划和行动”，根据博客文章。“在生成式 AI 的支持下，ACE 将实现生动、动态的游戏世界，其中的同伴可以理解和支持玩家目标，敌人可以动态适应玩家的战术。”角色由“小型语言模型 (SLM)”提供支持，这些模型“能够以类似人类的频率进行规划，从而实现现实决策”，以及“用于视觉和音频的多模态 SLM，使 AI 角色能够听到音频提示并感知其环境。”
-至于这将如何在 PUBG 中发挥作用，您将能够与“PUBG Ally”合作，Nvidia 和 PUBG 发行商 Krafton 称其为“世界上第一个可共同玩的角色 (CPC)。” Nvidia 表示，Ally 将能够“使用游戏专用术语进行交流，提供实时战略建议，寻找和分享战利品，驾驶车辆，并使用游戏中丰富的武器库与其他人类玩家战斗”。 
-
-基本上，它听起来像是一个可以用自然语言交谈的 AI 队友，它应该和人类一样有能力。一段视频显示，Ally 确实帮助玩家找到特定的战利品，带来一辆车，并试图包抄对方玩家。但该视频经过大量剪辑，且并非实况，因此我怀疑 Ally 能否像这里展示的那样发挥作用。
-使用 ACE 构建的 AI 角色也将出现在其他游戏中。根据 Nvidia 的博客文章，Naraka: Bladepoint 移动 PC 版 将在 2025 年 3 月获得“本地推理 AI 队友功能”，而 PC 版 Naraka: Bladepoint 将在“2025 年晚些时候”获得该功能。 “由 NVIDIA ACE 提供支持的 AI 队友可以加入您的队伍，与您并肩作战，为您找到所需的特定物品，交换装备，提供解锁技能的建议，并做出有助于您取得胜利的游戏。”
-Krafton 即将推出的生活模拟游戏 inZOI 也将获得名为“Smart Zoi”的 CPC。 Nvidia 表示 ACE 角色也可以成为 Boss，它们将用于 Wemade Next 的 MIR5 中的 Boss 遭遇战。
-&lt;div style=&quot;width: 100%; height: 0;内边距底部：56.25%；”&gt;]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate</guid>
-      <pubDate>Tue, 07 Jan 2025 04:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ROG Strix Scar 16 和 18 配有可发光的盖子和更多 RGB</title>
-      <link>https://www.theverge.com/2025/1/6/24336394/asus-rog-strix-scar-16-18-specs-price-ces-2025</link>
-      <description><![CDATA[
-
-周围有很多灯光。 |照片由 Antonio G. Di Benedetto / The Verge 拍摄
-
-继上个月发布预告片之后，华硕最新的 ROG Strix Scar 游戏笔记本电脑现已上市，它们完全符合游戏玩家的审美。 2025 Scar 16 和 18 的机箱底部全都配有 RGB 灯，盖子上还有一个用户可编程的 LED 点阵显示屏，就像其他 ROG 设备如华硕的游戏手机上所见的那样。
-在华丽的外观下，Scar 16 和 18 可以配备英特尔酷睿 Ultra 9 275HX 处理器和 Nvidia GeForce RTX 5090 GPU。它还可以配置高达 64GB 的 DDR5-5600 RAM 和 2TB PCIe Gen4 SSD。 ROG Nebula HDR 显示屏采用 16:10 2.5K Mini LED 面板，峰值亮度为 1,200 尼特，刷新率为 240Hz。附带两个 Thunderbolt 5 端口，设计方便访问底部面板进行组件升级。 
-
-Strix Scar 16 和 18 拥有您对这种级别的游戏笔记本电脑所期望的所有散热技术，包括端到端蒸汽室和夹层散热器。结合 GPU 和 CPU 上的 Conductonaut Extreme 液态金属处理，华硕声称它可以将风扇噪音水平保持在图书馆般的 45dB，即使在长时间的游戏过程中也是如此。
-最重要的是，ROG Strix Scar 配备了上述灯光秀。华硕称之为 AniMe Vision，您可以自定义它以显示个性化动画并将其与您拥有的任何其他 AniMe Vision 设备同步。下载一些预先烘焙的艺术作品或使用华硕的像素编辑器制作自己的作品 - 选择权在您手中。
-ROG Strix Scar 起价2,599 美元；华硕表示其新款游戏笔记本电脑将于二月份开始发货。]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24336394/asus-rog-strix-scar-16-18-specs-price-ces-2025</guid>
-      <pubDate>Tue, 07 Jan 2025 04:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>华硕刚刚发布了全球首款 Thunderbolt 5 eGPU</title>
-      <link>https://www.theverge.com/24336135/asus-thunderbolt-5-external-gpu-graphics-xg-mobile-ces-2025</link>
+      <title>Ultrahuman 认为其 18K 金智能戒指价值 1,900 美元</title>
+      <link>https://www.theverge.com/2025/1/7/24337049/ultrahuman-rare-ces-2025-smart-ring-wearables</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24336135/asus-thunderbolt-5-external-gpu-graphics-xg-mobile-ces-2025</guid>
-      <pubDate>Tue, 07 Jan 2025 04:30:00 GMT</pubDate>
+      <guid>https://www.theverge.com/2025/1/7/24337049/ultrahuman-rare-ces-2025-smart-ring-wearables</guid>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>华硕最新 ROG Flow Z13 游戏平板电脑采用 AMD 全新集成显卡</title>
-      <link>https://www.theverge.com/2025/1/6/24335012/asus-rog-flow-z13-gaming-tablet-amd-ryzen-max-plus-price-specs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24335012/asus-rog-flow-z13-gaming-tablet-amd-ryzen-max-plus-price-specs</guid>
-      <pubDate>Tue, 07 Jan 2025 04:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 宣布推出售价 3000 美元的个人 AI 超级计算机 Digits</title>
-      <link>https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai</link>
+      <title>现在是 2025 年，任天堂 Wii 将获得新的吉他英雄控制器</title>
+      <link>https://www.theverge.com/2025/1/7/24338092/hyperkin-guitar-hero-hyper-strummer-controller-nintendo-wii</link>
       <description><![CDATA[
 
-Nvidia 首席执行官黄仁勋在 Nvidia 的 CES 2025 新闻发布会上手持 Project Digits 电脑。 |图片：Nvidia
+Hyperkin 表示，Hyper Strummer 的设计与旧款硬件类似，但使用了改进的内部组件。 |图片：Hyperkin
 
-如果您正在寻找自己的个人 AI 超级计算机，Nvidia 可以满足您的需求。
-该芯片制造商在 CES 上宣布，将于 5 月推出一款名为 Project Digits 的个人 AI 超级计算机。Project Digits 的核心是全新的 GB10 Grace Blackwell 超级芯片，它具有足够的处理能力来运行复杂的 AI 模型，同时又足够紧凑，可以放在桌子上并通过标准电源插座运行（这种处理能力过去需要更大、更耗电的系统）。这款桌面大小的系统可以处理多达 2000 亿个参数的 AI 模型，起价为 3,000 美元。产品本身看起来很像 Mac Mini。
-“AI 将成为每个行业每个应用的主流。借助 Project Digits，Grace Blackwell 超级芯片将惠及数百万开发者，”Nvidia 首席执行官 Jensen Huang 在新闻稿中表示。 “将一台人工智能超级计算机放在每一位数据科学家、人工智能研究人员和学生的桌子上，可以让他们参与并塑造人工智能时代。”
+Hyperkin 在元旦当天开放了一款新型吉他形控制器的预订，但它与 Harmonix 于 2023 年底在 Switch 上首次亮相的 Fortnite Festival 音乐游戏不兼容。事实上，Hyper Strummer 与 Switch 完全不兼容。它只适用于已有 18 年历史的 Nintendo Wii，以及为该游戏机发布的较旧的Guitar Hero和Rock Band节奏游戏。
+售价 76.99 美元的 Hyper Strummer 可能是与 Fortnite Festival 兼容的吉他控制器（如 PDP 售价 129.99 美元的 Riffmaster）的更便宜的替代品。但它只适用于插入背面的 Wiimote，并且与 Xbox Series X / S 或 PlayStation 5 等现代游戏硬件不兼容。
+它的设计也与 Hyperkin 在 2009 年 Wii 时代发布的Guitar Hero控制器完全相同，这导致 X 上的指控，称该公司正在重新包装并将旧库存作为新产品出售。
 
-图片：Nvidia
-Project Digits 看起来像一台迷你 PC。
 
-每个 Project Digits 系统都配备 128GB 的​​统一、连贯内存（相比之下，一台好的笔记本电脑可能……
+我们希望解决有关最近宣布的 Hyper Strummer 的以下问题。 pic.twitter.com/3tyKvZSief— Hyperkin (@Hyperkin) 2025 年 1 月 2 日
+
+
+Hyperkin 在 X 上分享了一份声明，回应了这些指控，解释了为什么 Hyper Strummer 看起来与旧硬件如此相似。“虽然这确实是 2009 年 Hyperkin 发布的同一款外壳模具，但仅此而已。我们用模具制作了全新的外壳，并安装了新的 2024 内部组件。这不是旧库存，也不是一直放在仓库里的旧吉他。”
+该公司表示，现代化的 Hyper Strummer“是为了满足对可访问且经济实惠的解决方案的需求而开发的，非常适合希望以实惠的价格在 2025 年进入吉他界的复古游戏玩家。”忠实的吉他英雄粉丝们拒绝升级他们的 Nintendo Wiis，现在有了另一种选择，而不必冒险在网上购买可能无法使用的二手硬件。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338092/hyperkin-guitar-hero-hyper-strummer-controller-nintendo-wii</guid>
+      <pubDate>Tue, 07 Jan 2025 14:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼将 PS5 配件改头换面，采用全黑设计</title>
+      <link>https://www.theverge.com/2025/1/7/24338113/ps5-accessories-midnight-black-ps-portal-dual-sense-edge</link>
+      <description><![CDATA[
+
+图片：索尼
+
+您终于可以将 PlayStation 5 游戏设置全部变成黑色了。索尼宣布，它将很快发布 PS5 的其他配件，颜色为午夜黑。
+索尼推出 DualSense Edge 控制器、Pulse 无线耳机和耳塞以及 PlayStation Portal，颜色为时尚性感的午夜黑，与 2021 年发布的 PS5 保护套和 DualSense 控制器相配。 
+虽然该公告并非 CES 庆祝活动的一部分，但它确实与索尼为Helldivers提供Sonic和Mario处理的消息不谋而合。该公司还宣布，其《地平线：零之曙光》改编版不再是 Netflix 制作的电视节目，而是一部成熟的电影，将涵盖 Aloy 在第一款游戏中的功绩，并且《最后生还者》第二季将于 4 月登陆 HBO。《最后生还者》第二季将于 4 月登陆 HBO。
+索尼的 PlayStation 博客文章 包含电子产品的所有定价详细信息，预订将于 1 月 16 日开始。 
+如果您愿意等待，这些配件将于 2 月 20 日在零售商处发售。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338113/ps5-accessories-midnight-black-ps-portal-dual-sense-edge</guid>
+      <pubDate>Tue, 07 Jan 2025 14:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audio-Technica 的最新耳机拥有超长的电池续航时间，并且还有一个实用技巧</title>
+      <link>https://www.theverge.com/2025/1/7/24338085/audio-technica-ath-cks50tw2-features-price</link>
+      <description><![CDATA[
+
+图片：Audio-Technica
+
+Audio-Technica 的无线耳机并不总是能像大品牌那样受到关注，但它们的表现始终良好，满足了所有最重要的标准。在 2025 年国际消费电子展 (CES) 上，该公司推出了新款 ATH-CKS50TW2。这些耳塞具有 Audio-Technica 一贯的调音和音质，但这款最新型号有两个主要卖点。
+首先，电池寿命似乎无穷无尽。Audio-Technica 表示，ATH-CKS50TW2 在关闭降噪功能的情况下总共可以播放 65 小时：充满电的耳塞可播放 25 小时，充电盒可播放 40 小时。启用 ANC 后，这些数字仍非常令人印象深刻，耳塞可播放 15 小时，充电盒可播放 25 小时。
+
+
+图片：Audio-Technica
+您可以在此图片中看到耳塞侧面的磁铁。
+
+另一个有用的新功能应该可以防止电池耗尽，即使您将耳塞放在口袋中而不带外壳。 Audio-Technica 表示，其“磁性开关”技术可让耳塞通过磁铁连接在一起。每当发生这种情况时，它们都会自动关闭，因此您不必担心它们在口袋中播放音乐并无缘无故地消耗电池电量。 
+至于其余硬件，耳塞具有 9 毫米“高清”驱动器、结合了硬硅胶和软硅胶的混合耳塞、无线充电和 IP68 防尘防水功能。 Audio-Technica 已将 ATH-CKS50TW2 定价为 149 美元，该公司表示您可以从今天开始订购其最新款耳塞。 ]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338085/audio-technica-ath-cks50tw2-features-price</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Razer Project Ava：你愿意付钱让人工智能帮助你提高游戏水平吗？</title>
+      <link>https://www.theverge.com/24338016/razer-project-ava-ai-gaming-copilot-coach</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/24338016/razer-project-ava-ai-gaming-copilot-coach</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Withings 将心脏病专家检查作为其健康订阅服务的一部分</title>
+      <link>https://www.theverge.com/2025/1/7/24337497/withings-plus-heart-data-cardiologist-visit-ces-2025</link>
+      <description><![CDATA[
+
+BPM Vision 是另一种追踪心脏健康的方法 — 还有一种新方法可以理解数据。 |图片：Withings
+
+如果您是 Withings 设备所有者和 Withings Plus 订阅者，那么您的健康跟踪系统将迎来一项新功能。这是一项名为 Cardio Check-Up 的远程医疗服务，旨在让您轻松与专业人士一起检查心脏健康状况。
+任何收集心电图数据的 Withings 设备（目前大多数数据都是如此）都可以用于 Cardio Check-Up。Withings Plus 订阅费用为每年 99.95 美元，现在每年将包括四次检查，但不是现场预约——心脏病专家将审查您的数据并向您提供心脏健康报告。它通过一家名为 Heartbeat Health 的提供商工作，该提供商在过去几年中一直与 Withings 合作开发 EKG 功能。。
+Cardio Check-Up 为 Withings 提供了解决任何健康可穿戴设备面临的最紧迫挑战之一的答案，即如何帮助用户理解他们突然收集的大量复杂数据。Oura 和 Whoop 等公司正在研究如何将您的数据整理成实际的可操作反馈，这样您就可以知道发生了什么，以及如何做得更好，而无需拥有自己的医学学位。 
+Withings 正在做很多自动化的事情...
 在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai</guid>
-      <pubDate>Tue, 07 Jan 2025 04:11:07 GMT</pubDate>
+      <guid>https://www.theverge.com/2025/1/7/24337497/withings-plus-heart-data-cardiologist-visit-ces-2025</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>宏碁 Predator Helios 18 AI 游戏笔记本电脑采用 4K Mini LED</title>
-      <link>https://www.theverge.com/2025/1/6/24337047/acer-predator-helios-18-16-ai-gaming-laptops-4k-mini-led-price</link>
-      <description><![CDATA[
-
-图片：宏碁
-
-宏碁将于今年晚些时候推出其顶级 Predator Helios 18 和 16 游戏笔记本电脑，其规格和显示功能均有所提升。 
-在 CES 上发布的 Predator Helios 18 AI 游戏笔记本电脑现在配备了双模式 Mini LED 显示屏，可以在 120Hz 刷新率的 4K 或 1080p 运行时的 240Hz 之间切换。该最大刷新率实际上比其 250Hz WQXGA Mini LED（2560 x 1600）前代产品 慢一点，但对于想要在一台设备上同时享受 4K 分辨率游戏和高帧率的人来说，这可能是值得的。 Predator Helios 18 AI 的亮度可达到 1,000 尼特，并支持 Nvidia G-Sync，有助于防止屏幕撕裂、显示卡顿和输入延迟。
-
-
-图片：Acer
-新款 Predator Helios 18 AI 游戏笔记本电脑的设计也已更新，以显示更多可配置的 RGB 照明。
-
-内部规格也已升级，配置最高可达英特尔第 15 代酷睿 Ultra 9 275HX 处理器、Nvidia GeForce RTX 5090 移动显卡、192GB DDR5 系统内存和 6TB PCIe Gen 5 SSD 存储。据宏碁称，RTX 5090 GPU 至少部分地促成了笔记本电脑更新名称中包含“AI”，它支持 150 多个优化的 AI 应用程序，用于 LLM、图像生成等。Predator Helios 18 AI 将于 5 月在美国上市，起价为 2,999.99 美元。
-
-
-图片：Acer
-除了尺寸之外，Predator Helios 16 AI 在外观上与更大的同类产品几乎完全相同。
-
-Predator Helios 16 AI 也进行了一些代际改进，包括具有 240Hz 刷新率的 2560 x 1600 OLED 显示屏。它可以配置与其较大型号相同的处理器和 GPU，以及高达 64GB 的 RAM 和 4TB 的 PCIe Gen 5 SSD 存储。它将于 6 月在美国上市，起价为 2,299.99 美元。
-这两款机型还具有可更换的机械按键和专有的第六代 AeroBlade 金属散热风扇，宏碁表示与塑料风扇相比，这可以将气流增加高达 20%。虽然这两款机型都支持 Wi-Fi 7 和蓝牙 5.3，但端口选择现在仅限于两个 Thunderbolt 5 插孔——这可能会受到限制，具体取决于您现有的外围设备和游戏配件。]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24337047/acer-predator-helios-18-16-ai-gaming-laptops-4k-mini-led-price</guid>
-      <pubDate>Tue, 07 Jan 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Razer Blade 16 今年更薄了</title>
-      <link>https://www.theverge.com/2025/1/6/24335984/razer-blade-16-laptop-thin-ryzen-amd-cpu-nvidia-gpu-240-hz-oled-display</link>
-      <description><![CDATA[
-
-2025 Razer Blade 16。
-
-Razer 宣布将对 Razer Blade 16 进行内外彻底改造。除了新的 CPU 和 GPU，Blade 16 现在比即将推出的 2024 型号更薄，并且对其音频系统和键盘进行了一些调整。 
-新款 Blade 16 配备高达 Ryzen AI 9 HX 370 CPU 和“下一代 Nvidia GPU”。该公司还将其扬声器阵列从四个增加到六个扬声器，而显示屏则采用了去年推出的 240Hz OLED 。。这是 Razer 首次在 Blade 16 中采用 AMD 处理器。
-
-
-
-
-
-
-
-
-
-
-
-
-Razer 表示，它将所有这些功能都装入了一个比去年的型号薄 30% 以上的机箱中，前部厚度仅为 0.59 英寸（即 14.9 毫米），后部厚度仅为 0.69 英寸（17.4 毫米）厚，不包括支脚。作为参考，16 英寸 MacBook Pro M4 厚 0.61 英寸（15.5 毫米），包括支脚。新款 Razer Blade 也比去年的型号更深，前后尺寸为 250.5 毫米，而 2024 Blade 16 为 244 毫米。尽管如此，Razer 表示它将键盘按键的键程从 1 毫米增加到了 1.5 毫米。当然，现在还有一个 Copilot 键。
-
-这种薄度可能有代价：新款 Blade 16 配备 90Wh 电池，据称可以在大约 45 分钟内充电至 80%。快速充电可能会派上用场；我们在 2023 年评测的 Blade 16 中配备了更大的 95.2Wh 电池，已经感觉它无法胜任这项任务。那台评测机也是一款热门笔记本电脑。 Razer 表示，它使用了一种新的导热凝胶，覆盖的内部表面积比 2023 款更大。
-
-
-
-
-2025 款（顶部）与更厚的版本2024 年模型（底部）。
-
-
-
-
-
-照片由 Antonio G. Di Benedetto / The Verge 拍摄
-2024 年（左）与 2025 年（右）。
-
-
-
-不过，它使用的 AMD 芯片可能会有所帮助。当我们测试了搭载 Ryzen AI 9 HX 370 CPU 的华硕 ROG Zephyrus G16与搭载英特尔酷睿 Ultra 9 185H 的同一台笔记本电脑时，AMD 版本在非游戏任务中的运行时间长了三个小时，产生的热量略少，不过华硕对其游戏笔记本电脑的功耗上限比 Razer 低得多。当然，在我们拿到一台进行测试之前，我们不会知道这些对新的 Blade 16 有何影响。 
-2025 Razer Blade 16 将于今年第一季度上市。Razer 尚未公布定价，但可以肯定它不会便宜。
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24335984/razer-blade-16-laptop-thin-ryzen-amd-cpu-nvidia-gpu-240-hz-oled-display</guid>
-      <pubDate>Tue, 07 Jan 2025 04:00:00 GMT</pubDate>
+      <title>Razer 的 RGB 底座可将游戏掌上电脑和手机变成电视机</title>
+      <link>https://www.theverge.com/2025/1/7/24336841/razer-handheld-dock-chroma-pc-remote-play-price-availability</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24336841/razer-handheld-dock-chroma-pc-remote-play-price-availability</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
