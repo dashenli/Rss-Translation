@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 07 Jan 2025 18:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 21:16:23 GMT</lastBuildDate>
+    <item>
+      <title>法学硕士并不总是擅长写新闻标题</title>
+      <link>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</link>
+      <description><![CDATA[
+周一，我抱怨苹果对 Apple Intelligence 错误总结新闻标题的回应。但有趣的是：大型语言模型实际上非常擅长撰写新闻标题。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:25:54 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Intelligence 摘要可能会贴上警告标签。但这还不够。</title>
       <link>https://sixcolors.com/post/2025/01/apple-intelligence-summaries-might-get-warning-labels-thats-not-enough/</link>
@@ -116,15 +124,6 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
 1Password 的工作人员最近参加了在旧金山举行的 RSA 会议，他们惊讶地发现，每个人都对解决新问题的新解决方案充满热情。…]]></description>
       <guid>https://sixcolors.com/sponsor/2024/12/1password-11/</guid>
       <pubDate>Fri, 27 Dec 2024 17:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>听听琼斯博士的说法↦</title>
-      <link>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</link>
-      <description><![CDATA[《夺宝奇兵》是我最喜欢的电影之一（我认为也是史蒂文·斯皮尔伯格最好的电影），但我从来不知道这个“未完成的结局”，直到我在删减片段合集中读到它：
-
-电影中删减了涉及约柜的剧情元素，只在结局打开约柜时有所暗示。…]]></description>
-      <guid>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</guid>
-      <pubDate>Fri, 27 Dec 2024 16:50:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
