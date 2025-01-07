@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Tue, 07 Jan 2025 09:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:32:32 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 凭借基础 AI 模型“Cosmos”开启人形机器人新时代</title>
+      <link>https://wired.jp/article/nvidia-cosmos-ai-helps-robots-self-driving-cars/</link>
+      <description><![CDATA[NVIDIA 在 CES 的主题演讲中宣布了“NVIDIA Cosmos”，这是一个用于物理 AI 开发的全球平台模型。创始人兼首席执行官黄仁勋表示，Cosmos 从 2000 万小时的视频数据记录中学习了“人类行走、手部动作和物体操作”。]]></description>
+      <guid>https://wired.jp/article/nvidia-cosmos-ai-helps-robots-self-driving-cars/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CES 上发现的 10 个有趣的小玩意</title>
+      <link>https://wired.jp/article/ces-2025-photo-gallery-day-1/</link>
+      <description><![CDATA[全球最大的消费电子贸易展CES将于美国时间1月7日在拉斯维加斯举行。以下是我们在本次活动之前举行的向记者介绍新产品的新闻发布会上看到的一些奇怪而有趣的小玩意。]]></description>
+      <guid>https://wired.jp/article/ces-2025-photo-gallery-day-1/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>“设计婴儿”现在已经是青少年了。有些人担心自己的出生并寻求咨询。</title>
       <link>https://wired.jp/article/your-next-job-designer-baby-therapist/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>柏林 10 强初创公司 [2025 年版]</title>
       <link>https://wired.jp/article/sz-the-hottest-startups-in-berlin-in-2024/</link>
-      <description><![CDATA[这是一个年度项目，旨在选出欧洲 100 家著名初创企业。在吸引了来自世界各地人才的德国首都，初创公司正在开发人工智能生成的音频应用程序、虚拟宠物应用程序和野火早期检测应用程序。]]></description>
+      <description><![CDATA[这是一个年度项目，旨在选出欧洲100家值得关注的初创企业。在吸引世界各地人才的德国首都，初创企业正在开发人工智能生成的音频应用程序、虚拟宠物应用程序和用于早期检测野火的应用程序。]]></description>
       <guid>https://wired.jp/article/sz-the-hottest-startups-in-berlin-in-2024/</guid>
       <pubDate>Mon, 06 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>一个想要阻止人口崩溃的国家却忽视了妇女的权利——特辑“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-womens-autonomy-will-be-a-victim-of-the-population-implosion/</link>
-      <description><![CDATA[随着人口减少，各国开始关注出生率。妇女权利和 LGBTQ 权利将受到攻击。]]></description>
+      <description><![CDATA[随着人口下降，国家越来越关注出生率。妇女的权利以及 LGBTQ 的权利将受到攻击。]]></description>
       <guid>https://wired.jp/article/vol55-womens-autonomy-will-be-a-victim-of-the-population-implosion/</guid>
       <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
     </item>
@@ -76,39 +90,25 @@
       <pubDate>Mon, 06 Jan 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>大科技的终结：梅雷迪思·惠特克──特辑“2025年的世界”</title>
+      <title>科技巨头的终结：梅雷迪斯·惠特克 ──专题“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-a-new-paradigm-for-tech-investment/</link>
       <description><![CDATA[从政治家到风险投资家，每个人都不再热爱大型科技公司，因为大型科技公司的一切都是为了赚钱。在这种背景下，创造一个开放且值得信赖的大公司替代方案的机会正在出现。]]></description>
       <guid>https://wired.jp/article/vol55-a-new-paradigm-for-tech-investment/</guid>
       <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么你应该创建一个“秘密密码”来保护你珍贵的家人和孩子</title>
+      <title>为什么您应该创建一个“秘密密码”来保护您珍贵的家人和孩子</title>
       <link>https://wired.jp/article/you-need-to-create-a-secret-passphrase-with-your-family/</link>
       <description><![CDATA[人工智能语音克隆和深度造假正在加速欺诈行为。为了保护您自己和您的家人，创建一个实时验证您身份的“秘密密码”是有效的。]]></description>
       <guid>https://wired.jp/article/you-need-to-create-a-secret-passphrase-with-your-family/</guid>
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>比头发丝直径还小的“显微镜机器人”捕捉微观世界</title>
+      <title>比人类头发丝直径还小的“显微镜机器人”反映微观世界</title>
       <link>https://wired.jp/article/smallest-walking-robot-makes-microscale-measurements/</link>
       <description><![CDATA[美国研究小组开发出一种比人类头发丝直径小得多的机器人。通过控制磁场，它可以在复杂的环境中自主移动，通过干扰可见光频率，它还可以充当高精度显微镜。]]></description>
       <guid>https://wired.jp/article/smallest-walking-robot-makes-microscale-measurements/</guid>
       <pubDate>Sun, 05 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伦敦 10 家最热门初创公司 [2025 年版]</title>
-      <link>https://wired.jp/article/sz-the-hottest-startups-in-london-in-2024/</link>
-      <description><![CDATA[这是一个年度项目，旨在选出欧洲 100 家著名初创企业。英国首都最令人兴奋的初创企业体现了该国在生物技术和人工智能方面的优势。]]></description>
-      <guid>https://wired.jp/article/sz-the-hottest-startups-in-london-in-2024/</guid>
-      <pubDate>Sun, 05 Jan 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能对环境的影响将阻碍气候变化对策——专题《2025年的世界》</title>
-      <link>https://wired.jp/article/vol55-well-count-the-true-cost-of-generative-ai/</link>
-      <description><![CDATA[数据中心已经消耗了全球 2% 的电力，并且需要大量淡水进行冷却。生成式人工智能贪婪的资源消耗正在现实环境中造成巨大的成本。]]></description>
-      <guid>https://wired.jp/article/vol55-well-count-the-true-cost-of-generative-ai/</guid>
-      <pubDate>Sun, 05 Jan 2025 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

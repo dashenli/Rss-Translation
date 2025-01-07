@@ -4,7 +4,34 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 09:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:31:29 GMT</lastBuildDate>
+    <item>
+      <title>谷歌正在组建自己的“世界建模”人工智能团队，用于游戏和机器人训练</title>
+      <link>https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+Google DeepMind 正在组建一个新的人工智能研究团队，以开发可以模拟物理环境的“世界模型”。该计划将由 Tim Brooks 领导，他曾是 OpenAI 的 Sora 项目的联合负责人他于 10 月加入 DeepMind，负责 Google 的视频生成和世界模拟器的开发。
+世界模型是人工智能领域一个相对较新的发展，可用于多种用途，例如为视频游戏和电影创建实时交互式媒体环境，以及为机器人和其他人工智能系统创建逼真的训练场景。这也是谷歌在竞争对手之前实现通用人工智能系统（AGI）的努力的一部分。
+“DeepMind 有雄心勃勃的计划，要制造出模拟世界的大规模生成模型，”Brooks 周一在 X 帖子中宣布。Brooks 发布了两个招聘信息，招聘研究工程师和科学家，他们将通过解决“大规模”训练问题、整理训练数据以及研究如何将它们与多模态语言模型集成，帮助推进能够模拟真实世界场景的人工智能“世界模型”。
+
+
+DeepMind 有雄心勃勃的计划，要制造出模拟世界的大规模生成模型。我正在为这个使命招募一个新团队。与我们一起构建！https://t.co/pqvALtAvLs https://t.co/vtwgeXl9Dl— Tim Brooks (@_tim_brooks) 2025 年 1 月 6 日
+
+
+“我们相信，在视频和多模态数据上扩展预训练是实现通用人工智能的关键途径，”DeepMind职位描述中说。“世界模型将为众多领域提供动力，例如视觉推理和模拟、具体代理的规划以及实时互动娱乐。”
+率先宣布 AGI 的竞争正在升温，因此谷歌的重点并不令人意外。 OpenAI 首席执行官 Sam Altman 最近表示，该公司已经破解了如何实现科技行业长期寻求的基准，并且自主 AI 代理可能在今年开始有意义地加入劳动力大军。
+已经有几家竞争对手在 DeepMind 的世界建模项目上抢占先机，其中包括Nvidia 的 Cosmos 平台，用于推进物理 AI、自动驾驶汽车和机器人开发；以及由“人工智能教母”李飞飞创建的World Labs 初创公司。
+
+
+介绍 Genie 2 - 我们最强大的大型基础世界模型，它可以生成各种一致的世界，可玩时间长达一分钟。我们相信 Genie 2 可以为具身代理解锁下一波能力。 pic.twitter.com/AfL3EbOMeB— Jack Parker-Holder (@jparkerholder) 2024 年 12 月 4 日
+
+
+新的 DeepMind 团队将与现有的 Google AI 项目合作，包括其旗舰 Gemini AI 模型、Veo 视频生成器 和 Genie - Google 先前的世界模型，用于实时模拟可玩的 3D 环境。]]></description>
+      <guid>https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training</guid>
+      <pubDate>Tue, 07 Jan 2025 11:39:12 GMT</pubDate>
+    </item>
     <item>
       <title>Philips Hue 即将推出 AI 照明助手</title>
       <link>https://www.theverge.com/2025/1/7/24337219/philips-hue-ai-lighting-assistant-smart-lights-home-ces-2025</link>
@@ -177,13 +204,6 @@ Razer 表示，它将所有这些功能都装入了一个比去年的型号薄 3
 
 ]]></description>
       <guid>https://www.theverge.com/2025/1/6/24335984/razer-blade-16-laptop-thin-ryzen-amd-cpu-nvidia-gpu-240-hz-oled-display</guid>
-      <pubDate>Tue, 07 Jan 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alienware 旗舰台式机终于抛弃了专有部件</title>
-      <link>https://www.theverge.com/2025/1/6/24335565/alienware-area-51-gaming-pc-desktop-atx-power-supply-motherboard</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/6/24335565/alienware-area-51-gaming-pc-desktop-atx-power-supply-motherboard</guid>
       <pubDate>Tue, 07 Jan 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
