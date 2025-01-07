@@ -4,7 +4,24 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Mon, 06 Jan 2025 21:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:12:15 GMT</lastBuildDate>
+    <item>
+      <title>Apple Intelligence 摘要可能会贴上警告标签。但这还不够。</title>
+      <link>https://sixcolors.com/post/2025/01/apple-intelligence-summaries-might-get-warning-labels-thats-not-enough/</link>
+      <description><![CDATA[
+BBC 跟进了两份有关 Apple Intelligence 摘要将其标题转化为事实不准确的文本的报道，并得到了 Apple 的公开回应：
+
+Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该功能在其最新 iPhone 上生成了不准确的新闻警报。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/apple-intelligence-summaries-might-get-warning-labels-thats-not-enough/</guid>
+      <pubDate>Tue, 07 Jan 2025 00:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）升级 545：蜜蜂帽公司</title>
+      <link>https://sixcolors.com/podcast/2025/01/upgrade-545-the-bee-bonnet-company/</link>
+      <description><![CDATA[新的一年即将到来！我们来思考苹果将面临怎样的挑战，以及为什么需要严格评判该公司的人工智能功能。然后，我们把时钟拨回到 2000 年，思考 Mac OS X 改变一切的那一刻。…]]></description>
+      <guid>https://sixcolors.com/podcast/2025/01/upgrade-545-the-bee-bonnet-company/</guid>
+      <pubDate>Mon, 06 Jan 2025 21:43:55 GMT</pubDate>
+    </item>
     <item>
       <title>25 年来，Mac OS X 一直是 Apple 的标杆 (Macworld/Jason Snell)</title>
       <link>https://www.macworld.com/article/2568010/looking-back-25-years-later-even-steve-was-wrong-about-mac-os-x.html</link>
@@ -108,20 +125,6 @@ PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程�
 电影中删减了涉及约柜的剧情元素，只在结局打开约柜时有所暗示。…]]></description>
       <guid>https://sixcolors.com/link/2024/12/listen-to-dr-jones/</guid>
       <pubDate>Fri, 27 Dec 2024 16:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果仍有一些应对 2025 年的绝招 (Macworld/Dan Moren)</title>
-      <link>https://www.macworld.com/article/2561523/what-to-expect-from-apple-in-2025.html</link>
-      <description><![CDATA[2025 年即将到来，它正向我们全速逼近。不知不觉，我们已经度过了本世纪的四分之一。对于苹果来说，这 25 年无疑是辉煌的，从所有早期迹象来看，明年似乎将延续这一趋势，只要这些事情可以准确预测的话。…]]></description>
-      <guid>https://www.macworld.com/article/2561523/what-to-expect-from-apple-in-2025.html</guid>
-      <pubDate>Fri, 27 Dec 2024 11:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）顺时针 586：面部识别</title>
-      <link>https://sixcolors.com/podcast/2024/12/clockwise-586-face-idea/</link>
-      <description><![CDATA[随着 Apple 的加入，我们在智能家居技术方面进行投资的可能性、我们 2025 年的技术目标、我们年底/年初的技术习惯，以及对 2025 年技术将如何改善世界的预测。…]]></description>
-      <guid>https://sixcolors.com/podcast/2024/12/clockwise-586-face-idea/</guid>
-      <pubDate>Wed, 25 Dec 2024 18:43:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
