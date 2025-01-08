@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 01:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:19:37 GMT</lastBuildDate>
+    <item>
+      <title>照片：洛杉矶帕利塞兹大火因风力加剧而迅速蔓延，数千人撤离</title>
+      <link>https://www.npr.org/sections/the-picture-show/2025/01/07/g-s1-41483/palisades-fire-los-angeles-santa-ana-winds</link>
+      <description><![CDATA[由于强烈的圣安娜风助长了帕利塞德大火，并席卷了太平洋帕利塞德社区，洛杉矶县有超过 3 万人被要求撤离。]]></description>
+      <guid>https://www.npr.org/sections/the-picture-show/2025/01/07/g-s1-41483/palisades-fire-los-angeles-santa-ana-winds</guid>
+      <pubDate>Wed, 08 Jan 2025 02:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>恶劣天气席卷美国</title>
       <link>https://www.npr.org/2025/01/07/1223358015/wild-weather-spreads-across-the-u-s</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 07 Jan 2025 22:32:26 GMT</pubDate>
     </item>
     <item>
-      <title>恶劣天气给南部带来降雪，给西部带来圣安娜风</title>
+      <title>恶劣天气给西部带来狂风和火灾，给南部带来降雪</title>
       <link>https://www.npr.org/2025/01/07/nx-s1-5251300/weather-texas-snow-south-winds-california</link>
       <description><![CDATA[随着周三开始南方将迎来降雪和更寒冷的天气，南加州居民面临着飓风般的强风。]]></description>
       <guid>https://www.npr.org/2025/01/07/nx-s1-5251300/weather-texas-snow-south-winds-california</guid>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 07 Jan 2025 20:28:53 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局对昂贵的火星岩石任务进行了押注</title>
+      <title>美国宇航局对昂贵的火星岩石任务进行了对冲赌注</title>
       <link>https://www.npr.org/2025/01/07/nx-s1-5249721/nasa-hedges-its-bets-on-costly-mars-rock-mission</link>
       <description><![CDATA[美国宇航局宣布正在推进从火星带回岩石样本的几项计划。]]></description>
       <guid>https://www.npr.org/2025/01/07/nx-s1-5249721/nasa-hedges-its-bets-on-costly-mars-rock-mission</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[首席执行官马克·扎克伯格将公司之前的内容审核政策称为“审查制度”，重复了当选总统唐纳德·特朗普及其盟友的谈话要点。]]></description>
       <guid>https://www.npr.org/2025/01/07/nx-s1-5251151/meta-fact-checking-mark-zuckerberg-trump</guid>
       <pubDate>Tue, 07 Jan 2025 17:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国称苏丹叛军犯下种族灭绝罪</title>
-      <link>https://www.npr.org/2025/01/07/nx-s1-5251435/sudan-rebel-rapid-support-forces-genocide-us</link>
-      <description><![CDATA[拜登政府表示，苏丹快速支援部队及其代理人正在与苏丹军队进行内战，实施种族灭绝，造成数万人死亡。]]></description>
-      <guid>https://www.npr.org/2025/01/07/nx-s1-5251435/sudan-rebel-rapid-support-forces-genocide-us</guid>
-      <pubDate>Tue, 07 Jan 2025 17:30:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 08 Jan 2025 01:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:21:20 GMT</lastBuildDate>
     <item>
-      <title>从“AI民族主义”时代到多边合作时代——特辑《2025年的世界》</title>
+      <title>索尼瞄准空间计算时代的“上游”</title>
+      <link>https://wired.jp/article/sony-spatial-computing-xyn-ces-2025/</link>
+      <description><![CDATA[索尼在目前正在拉斯维加斯举行的 CES 2025 上召开新闻发布会，宣布推出支持空间内容创建的新品牌解决方案和设备“XYN”。凭借这种瞄准“上游”的策略，索尼或将成为空间计算时代娱乐领域不可或缺的公司。]]></description>
+      <guid>https://wired.jp/article/sony-spatial-computing-xyn-ces-2025/</guid>
+      <pubDate>Wed, 08 Jan 2025 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从“人工智能民族主义”时代到多边合作时代——专题“2025年的世界”</title>
       <link>https://wired.jp/article/vol55-the-world-gains-a-multilateral-approach-to-ai/</link>
       <description><![CDATA[为了克服将人工智能视为霸权战场而不是有用技术的人工智能民族主义，各国必须吸取冷战时期利用政治和外交力量实现多边协调的教训，并相互合作。是。]]></description>
       <guid>https://wired.jp/article/vol55-the-world-gains-a-multilateral-approach-to-ai/</guid>
@@ -15,12 +22,12 @@
     <item>
       <title>Meta 废除事实核查——特朗普政府回归前的重大变化</title>
       <link>https://wired.jp/article/meta-ditches-fact-checkers-in-favor-of-x-style-community-notes/</link>
-      <description><![CDATA[Meta 宣布了重大内容审核改革，这显然是对即将上任的特朗普政府的妥协。该公司计划废除其第三方事实核查程序，并引入类似于 X 目前使用的“社区注释”系统的系统。]]></description>
+      <description><![CDATA[Meta 宣布了重大内容审核改革，这显然是对即将上任的特朗普政府的妥协。该公司计划废除第三方事实核查程序，并引入类似于 X 目前采用的“社区注释”系统的系统。]]></description>
       <guid>https://wired.jp/article/meta-ditches-fact-checkers-in-favor-of-x-style-community-notes/</guid>
       <pubDate>Wed, 08 Jan 2025 00:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>当埃隆·马斯克批评美国宇航局的阿尔忒弥斯计划并说“我们将直接前往火星”时，他真正的意思是什么？</title>
+      <title>伊隆·马斯克批评美国宇航局的阿尔特弥斯计划，并表示“我们要直接去火星”</title>
       <link>https://wired.jp/article/elon-musk-mars-moon-artemis-nasa/</link>
       <description><![CDATA[美国宇航局的目标是通过阿耳忒弥斯计划将人类送回月球并建立火星探索基地。与此同时，与 SpaceX 合作的埃隆·马斯克 (Elon Musk) 批评了 NASA。马斯克的言论与即将上任的特朗普政府有着密切的联系，可能会对太空探索战略产生影响。]]></description>
       <guid>https://wired.jp/article/elon-musk-mars-moon-artemis-nasa/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>NVIDIA 宣布推出售价 3,000 美元的个人 AI 超级计算机。数据中心“没有必要”了吗？</title>
       <link>https://wired.jp/article/nvidia-personal-supercomputer-ces/</link>
-      <description><![CDATA[在全球最大的消费电子贸易展 CES 上的主题演讲中，NVIDIA 的 Jensen Huang 宣布该公司将于今年 5 月推出一款名为 Project DIGITS 的超紧凑型超级计算机供个人使用。]]></description>
+      <description><![CDATA[NVIDIA 的黄仁勋在全球最大的消费电子贸易展 CES 上发表主题演讲时宣布，该公司将于今年 5 月推出一款名为 Project DIGITS 的超紧凑型超级计算机供个人使用。]]></description>
       <guid>https://wired.jp/article/nvidia-personal-supercomputer-ces/</guid>
       <pubDate>Tue, 07 Jan 2025 12:57:35 GMT</pubDate>
     </item>
@@ -62,21 +69,21 @@
       <pubDate>Tue, 07 Jan 2025 12:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>“设计婴儿”现在已经是青少年了。有些人担心自己的出生并寻求咨询。</title>
+      <title>如今，“设计婴儿”已是青少年了。有些人因自己的出生而感到困扰，并接受心理咨询。</title>
       <link>https://wired.jp/article/your-next-job-designer-baby-therapist/</link>
-      <description><![CDATA[通过在体外受精过程中选择性别或选择具有所需特征的胚胎来“设计”孩子。但心理学家表示，随着孩子长大，越来越多的孩子难以满足父母的期望，或者感觉自己像是一种“实验”，有些孩子甚至需要接受心理咨询。]]></description>
+      <description><![CDATA[通过在体外受精过程中选择性别并选择具有所需特征的胚胎来“设计”儿童。不过，心理学家指出，随着孩子年龄的增长，越来越多的孩子会因无法达到父母的期望或认为自己是一种“实验品”而苦恼，有些情况需要辅导。]]></description>
       <guid>https://wired.jp/article/your-next-job-designer-baby-therapist/</guid>
       <pubDate>Tue, 07 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>游戏行业承诺提高玩家安全性 - 特别报道“2025 年的世界”</title>
+      <title>游戏行业承诺提高玩家的安全性 - 特别报道“2025 年的世界”</title>
       <link>https://wired.jp/article/vol55-video-games-will-give-players-a-safety-power-up/</link>
       <description><![CDATA[在线游戏领域的骚扰和仇恨言论问题终于开始受到认真对待。以数字安全为首要任务的新时代终于来临。]]></description>
       <guid>https://wired.jp/article/vol55-video-games-will-give-players-a-safety-power-up/</guid>
       <pubDate>Tue, 07 Jan 2025 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>丰田在 CES 2025 上彰显成为“移动出行公司”的决心</title>
+      <title>丰田在 CES 2025 上透露成为“移动出行公司”的决心</title>
       <link>https://wired.jp/article/toyota-woven-city-ces-2025/</link>
       <description><![CDATA[美国时间1月6日，丰田汽车公司宣布，将于2025年秋季启动示范城市“编织城市”。丰田章男董事长在 CES 2025 新闻发布会上宣布的政策，是丰田要转型为一家与各类出行相关的公司的信息，也是承担这一重要社会责任的决心。]]></description>
       <guid>https://wired.jp/article/toyota-woven-city-ces-2025/</guid>
@@ -92,23 +99,16 @@
     <item>
       <title>“KK线复兴计划”将如何更新高线公园并实现公众共创？</title>
       <link>https://wired.jp/article/kk-line-project/</link>
-      <description><![CDATA[KK线复兴项目是将高速公路转变为步行空间的前所未有的尝试。这里存在的是一个新的共同创造平台的框架，旨在振兴 20 世纪的城市基础设施，迎接未来，也是一个雄心勃勃的愿景，为下一代提供理想的公共空间形式。]]></description>
+      <description><![CDATA[KK 线重建项目是将高速公路改造成步行空间的一次前所未有的尝试。这是一个雄心勃勃的愿景，它提出了一个新的共同创造平台的框架，用于振兴未来的 20 世纪城市基础设施，以及应为子孙后代留下的公共空间的形式。]]></description>
       <guid>https://wired.jp/article/kk-line-project/</guid>
       <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>形状的变化极其微小，肉眼根本无法察觉！使用 DNA 折纸技术实现纳米机器的可能性已经变得清晰</title>
       <link>https://wired.jp/article/scientists-have-built-innovative-nanostructures-using-dna-origami/</link>
-      <description><![CDATA[澳大利亚的一个研究小组利用一种称为DNA折纸的技术开发了一种可以自由改变形状的三维纳米结构。这再次证明了在医学和材料工程领域带来创新的可能性，并导致实现可以在复杂环境中运行的纳米机器。]]></description>
+      <description><![CDATA[澳大利亚的一个研究小组利用一种名为“DNA折纸”的技术，开发出了一种可以自由成型的三维纳米结构。这再次证明了这可能带来医学和材料工程领域的创新，并实现能在复杂环境下运行的纳米机器。]]></description>
       <guid>https://wired.jp/article/scientists-have-built-innovative-nanostructures-using-dna-origami/</guid>
       <pubDate>Mon, 06 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>柏林 10 强初创公司 [2025 年版]</title>
-      <link>https://wired.jp/article/sz-the-hottest-startups-in-berlin-in-2024/</link>
-      <description><![CDATA[这是一个年度项目，旨在选出欧洲 100 家著名初创企业。在吸引了来自世界各地人才的德国首都，初创公司正在开发人工智能生成的音频应用程序、虚拟宠物应用程序和野火早期检测应用程序。]]></description>
-      <guid>https://wired.jp/article/sz-the-hottest-startups-in-berlin-in-2024/</guid>
-      <pubDate>Mon, 06 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
