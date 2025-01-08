@@ -4,7 +4,26 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 07 Jan 2025 21:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:22:46 GMT</lastBuildDate>
+    <item>
+      <title>打造 2025 年全新跑步机办公桌</title>
+      <link>https://sixcolors.com/post/2025/01/building-a-new-treadmill-desk-setup-for-2025/</link>
+      <description><![CDATA[Lex Friedman 的双办公桌设置，现在（再次）配有跑步机。
+我以每小时 2.6 英里的速度写这篇文章。
+十五年前（！），我为 Macworld 写了一篇关于升级到站立式办公桌的文章。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/building-a-new-treadmill-desk-setup-for-2025/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:33:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 30 年，Script Debugger 即将退役 ↦</title>
+      <link>https://sixcolors.com/link/2025/01/after-30-years-script-debugger-is-being-retired/</link>
+      <description><![CDATA[我昨天确实在使用 Script Debugger 检查变量。
+Late Night Software 的 Mark Alldritt 和 Shane Stanley：
+
+我们宣布 Script Debugger 作为一个产品停用。…]]></description>
+      <guid>https://sixcolors.com/link/2025/01/after-30-years-script-debugger-is-being-retired/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>法学硕士并不总是擅长写新闻标题</title>
       <link>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</link>
@@ -72,9 +91,9 @@ Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该�
     <item>
       <title>密钥的状态 ↦</title>
       <link>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</link>
-      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密码的使用情况：
+      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密钥的使用情况：
 
-目前，密码的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
+目前，密钥的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</guid>
       <pubDate>Thu, 02 Jan 2025 15:35:50 GMT</pubDate>
     </item>
@@ -108,22 +127,6 @@ Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该�
 这部出人意料的热门作品，文斯·沃恩 (Vince Vaughn) 在 Apple TV+ 上推出，改编自卡尔·海森 (Carl Hiaasen) 的同名小说，讲述了佛罗里达州警察安德鲁·扬西 (Andrew Yancey) 的故事——他因……原因被停职——在一名渔夫发现一只断臂后，他卷入了一起可疑案件。…]]></description>
       <guid>https://sixcolors.com/post/2024/12/our-2024-favorites-tv-books-movies-and-podcasts/</guid>
       <pubDate>Mon, 30 Dec 2024 23:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）PowerPhotos – Mac 上照片的终极工具箱</title>
-      <link>https://sixcolors.com/feed-only/2024/12/powerphotos-the-ultimate-toolbox-for-photos-on-the-mac-merge-or-split-photos-libraries-and-eliminate-duplicate-photos-2/</link>
-      <description><![CDATA[
-PowerPhotos 是 Mac 上照片的终极工具箱。它与 Apple Photos 应用程序配合使用，填补了照片本身不提供的缺失功能。…]]></description>
-      <guid>https://sixcolors.com/feed-only/2024/12/powerphotos-the-ultimate-toolbox-for-photos-on-the-mac-merge-or-split-photos-libraries-and-eliminate-duplicate-photos-2/</guid>
-      <pubDate>Mon, 30 Dec 2024 17:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）1Password</title>
-      <link>https://sixcolors.com/sponsor/2024/12/1password-11/</link>
-      <description><![CDATA[感谢 1Password 本周赞助 Six Colors。
-1Password 的工作人员最近参加了在旧金山举行的 RSA 会议，他们惊讶地发现，每个人都对解决新问题的新解决方案充满热情。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2024/12/1password-11/</guid>
-      <pubDate>Fri, 27 Dec 2024 17:00:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
