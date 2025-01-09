@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jan 2025 14:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 18:03:34 GMT</lastBuildDate>
+    <item>
+      <title>指挥家丹尼尔·哈丁兼职担任法航飞行员</title>
+      <link>https://www.nytimes.com/2025/01/09/arts/music/daniel-harding-conductor-air-france.html</link>
+      <description><![CDATA[丹尼尔·哈丁 (Daniel Harding) 攀登了古典音乐的巅峰。然后他开始征服天空。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/arts/music/daniel-harding-conductor-air-france.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 年期抵押贷款利率攀升至 6.93%，创 7 月以来最高水平</title>
+      <link>https://www.nytimes.com/2025/01/09/business/mortgage-rates-housing.html</link>
+      <description><![CDATA[借贷成本数月来一直在上涨，追随政府债券收益率。这一趋势可能会导致更多买家和卖家离场观望。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/mortgage-rates-housing.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>新日铁合并案发起人：美国钢铁面临严峻选择</title>
+      <link>https://www.nytimes.com/2025/01/09/business/ussteel-nippon-merger-future.html</link>
+      <description><![CDATA[这家曾经的巨头正在努力争取新日铁的收购。其他合作也可能面临障碍，而单独行动可能会迫使公司削减开支。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/ussteel-nippon-merger-future.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普幕僚长苏西·威尔斯能保住职位吗？</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</link>
+      <description><![CDATA[在威尔斯前往华盛顿之际，特朗普世界里的观点是，这位当选总统最亲密的助手和资深战略家比任何人都更有机会获胜。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国在向乌克兰提供武器时看到了机会</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/ukraine-russia-weapons-coalition.html</link>
+      <description><![CDATA[白宫抓住了一次难得的机会，在建立支持乌克兰的联盟的同时，削弱俄罗斯并建立地区盟友。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/ukraine-russia-weapons-coalition.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约检察官敦促最高法院允许特朗普继续宣判</title>
+      <link>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</link>
+      <description><![CDATA[最高法院即将决定是否于周五按计划对唐纳德·J·特朗普的 34 项重罪指控进行宣判。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</guid>
+      <pubDate>Thu, 09 Jan 2025 17:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩选举陆军首席约瑟夫·奥恩为总统</title>
+      <link>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</link>
+      <description><![CDATA[由于该国经历了经济危机和毁灭性的战争，立法者 12 次未能选出国家元首。他们现在选定了军事领导人约瑟夫·奥恩。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</guid>
+      <pubDate>Thu, 09 Jan 2025 16:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普执政期间低失业率还能持续吗？</title>
+      <link>https://www.nytimes.com/2025/01/09/business/economy/trump-unemployment-economy.html</link>
+      <description><![CDATA[招聘速度放缓，但失业率仍处于违反经济常态的水平。新政府的重大政策变化可能会考验这种韧性。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/economy/trump-unemployment-economy.html</guid>
+      <pubDate>Thu, 09 Jan 2025 15:59:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些巡演工作人员帮助明星们整晚摇滚。他们已经 70 多岁了。</title>
+      <link>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</link>
+      <description><![CDATA[现场音乐界一些最受尊敬且一直坚持工作的工作人员、乐器技术人员和音响师已经在这个行业工作了半个世纪。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</guid>
+      <pubDate>Thu, 09 Jan 2025 15:26:34 GMT</pubDate>
+    </item>
     <item>
       <title>“这是圣经里的情节”：火山灰和火焰颠覆了南加州的生活</title>
       <link>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</link>
       <description><![CDATA[狂风肆虐的野火席卷了各种社会经济地位和阶层的社区，即使不是物理上的，也是精神上的，形成了一场超级灾难。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</guid>
       <pubDate>Thu, 09 Jan 2025 14:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府在人工智能全球传播规则方面引发新一轮斗争</title>
-      <link>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</link>
-      <description><![CDATA[科技行业正在对抗即将出台的新法规，该法规旨在将尖端技术保留在美国及其盟国的手中。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</guid>
-      <pubDate>Thu, 09 Jan 2025 14:26:27 GMT</pubDate>
     </item>
     <item>
       <title>伊隆·马斯克试图打破德国对极右翼德国选择党的隔离</title>
@@ -27,32 +83,11 @@
       <pubDate>Thu, 09 Jan 2025 13:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>黎巴嫩立法者经过两年僵局最终选出总统</title>
-      <link>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</link>
-      <description><![CDATA[议员们选举约瑟夫·奥恩为黎巴嫩军队司令，这是组建政府领导国家从经济危机和毁灭性战争中复苏的第一步。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</guid>
-      <pubDate>Thu, 09 Jan 2025 12:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>十万人逃离洛杉矶山火，特朗普最后一刻向最高法院提出质询</title>
-      <link>https://www.nytimes.com/2025/01/09/podcasts/la-fires-carter-funeral-trump-sentencing.html</link>
-      <description><![CDATA[另外，不要吃你的圣诞树。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/podcasts/la-fires-carter-funeral-trump-sentencing.html</guid>
-      <pubDate>Thu, 09 Jan 2025 11:12:52 GMT</pubDate>
-    </item>
-    <item>
       <title>最高法院审理的 TikTok 案件将国家安全与言论自由对立起来</title>
       <link>https://www.nytimes.com/2025/01/09/us/politics/tiktok-supreme-court-national-security-free-speech.html</link>
       <description><![CDATA[法院于周五审理了针对禁止该应用程序的法律的诉讼，当两项利益发生冲突时，法院做出了不同的裁决。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/us/politics/tiktok-supreme-court-national-security-free-speech.html</guid>
       <pubDate>Thu, 09 Jan 2025 10:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 创作者和品牌正准备应对可能的禁令</title>
-      <link>https://www.nytimes.com/2025/01/09/business/tiktok-ban-creators-ads.html</link>
-      <description><![CDATA[数十亿美元的广告通过 TikTok 进行传播，而 TikTok 最早可能于 1 月 19 日在美国被禁。各大品牌和创作者都在竞相做准备。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/tiktok-ban-creators-ads.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:01:32 GMT</pubDate>
     </item>
     <item>
       <title>特朗普重返白宫前，银行业已取得丰厚回报</title>
@@ -62,46 +97,11 @@
       <pubDate>Thu, 09 Jan 2025 10:01:24 GMT</pubDate>
     </item>
     <item>
-      <title>这些巡演工作人员帮助明星们整晚摇滚。他们已经 70 多岁了。</title>
-      <link>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</link>
-      <description><![CDATA[现场音乐界一些最受尊敬且一直坚持工作的工作人员、乐器技术人员和音响师已经在这个行业工作了半个世纪。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗高级将领承认在叙利亚遭遇“重大”失败</title>
-      <link>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</link>
-      <description><![CDATA[数周以来，伊朗官员一直淡化其叙利亚盟友的垮台。但一位重要将军却对伊朗遭受的打击及其军队前景发表了极为坦率的看法。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</guid>
-      <pubDate>Thu, 09 Jan 2025 08:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃及视难民为替罪羊和机遇</title>
-      <link>https://www.nytimes.com/2025/01/09/world/middleeast/egypt-economy-refugees.html</link>
-      <description><![CDATA[逃离战争的巴勒斯坦人、苏丹人和叙利亚人在该国找到了家园。但开罗方面表示，新移民正在耗尽资源，并正在向西方寻求经济援助。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/world/middleeast/egypt-economy-refugees.html</guid>
-      <pubDate>Thu, 09 Jan 2025 05:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 面临美国禁令，还在全球发起法律战</title>
+      <title>面临美国禁令的 TikTok 也在全球发起法律战</title>
       <link>https://www.nytimes.com/2025/01/09/technology/tiktok-ban-global-legal-battles.html</link>
       <description><![CDATA[TikTok 正在挑战美国可能实施的禁令或强制出售给新东家的命运，但几年来，该公司一直在至少 20 个国家开展其他斗争。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/technology/tiktok-ban-global-legal-battles.html</guid>
       <pubDate>Thu, 09 Jan 2025 05:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿利托在最高法院提交文件前不久与特朗普进行了交谈</title>
-      <link>https://www.nytimes.com/2025/01/08/us/justice-alito-trump.html</link>
-      <description><![CDATA[该法官称，该电话是为他的一位前职员打来的工作推荐电话，而暂缓执行候任总统刑罚的请求并未被提出。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/justice-alito-trump.html</guid>
-      <pubDate>Thu, 09 Jan 2025 03:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普就职典礼现金充裕，大额捐赠者福利耗尽</title>
-      <link>https://www.nytimes.com/2025/01/08/us/politics/trump-inauguration-donors.html</link>
-      <description><![CDATA[这位当选总统已经为他的宣誓就职筹集了超过 1.7 亿美元的资金，创下了就职典礼的纪录，因为富有的美国人蜂拥而至向他献殷勤，有些人甚至在无法获得贵宾待遇的情况下也捐了钱。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/politics/trump-inauguration-donors.html</guid>
-      <pubDate>Wed, 08 Jan 2025 22:11:42 GMT</pubDate>
     </item>
     <item>
       <title>吉米·卡特全国哀悼日：意义何在以及哪些地方关闭</title>
