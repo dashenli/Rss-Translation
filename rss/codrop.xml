@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 09 Jan 2025 09:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 12:33:05 GMT</lastBuildDate>
+    <item>
+      <title>运动亮点 #1</title>
+      <link>https://tympanus.net/codrops/2025/01/09/motion-highlights-1/</link>
+      <description><![CDATA[全新多样的动作设计和动画概念集合，激发您的创造力并拓宽您的视野。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/09/motion-highlights-1/</guid>
+      <pubDate>Thu, 09 Jan 2025 10:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>Toddle.dev：可视化 Web 应用程序开发的未来</title>
       <link>https://tympanus.net/codrops/2025/01/08/toddle-dev-the-future-of-visual-web-application-development/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Canvas2D API 仅使用 JavaScript 创建这种强大的变形效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/09/creating-the-morphing-effect-of-the-luma-dream-machine-website/</guid>
       <pubDate>Mon, 09 Dec 2024 11:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚焦：Andrea Binski</title>
-      <link>https://tympanus.net/codrops/2024/12/06/designer-spotlight-andrea-binski/</link>
-      <description><![CDATA[认识一下 UNIKO™ 的联合创始人兼艺术总监 Andrea Binski，UNIKO™ 是一家屡获殊荣的设计工作室，专门从事创新品牌和网页设计。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/06/designer-spotlight-andrea-binski/</guid>
-      <pubDate>Fri, 06 Dec 2024 10:22:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
