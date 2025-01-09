@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Thu, 09 Jan 2025 01:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 03:36:33 GMT</lastBuildDate>
+    <item>
+      <title>NHL 推迟比赛，湖人队教练在洛杉矶大火中疏散家人</title>
+      <link>https://www.npr.org/2025/01/08/g-s1-41729/los-angeles-wildfires-nhl-jj-redick-rose-bowl</link>
+      <description><![CDATA[洛杉矶大火影响了数万人，包括运动员和该市体育队的工作人员。帕萨迪纳标志性的玫瑰碗已收到疏散警告。]]></description>
+      <guid>https://www.npr.org/2025/01/08/g-s1-41729/los-angeles-wildfires-nhl-jj-redick-rose-bowl</guid>
+      <pubDate>Thu, 09 Jan 2025 01:38:30 GMT</pubDate>
+    </item>
     <item>
       <title>太平洋帕利塞德发生严重山火，消防栓干涸</title>
       <link>https://www.npr.org/2025/01/08/g-s1-41690/california-wildfire-water-hydrants-pacific-palisades</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[席卷洛杉矶的大火使一些文化机构陷入危险。]]></description>
       <guid>https://www.npr.org/2025/01/08/nx-s1-5252587/los-angeles-fires-landmarks-culture-arts</guid>
       <pubDate>Wed, 08 Jan 2025 17:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>“灰烬如雨”：居民分享他们如何逃离南加州野火</title>
-      <link>https://www.npr.org/2025/01/08/nx-s1-5252577/la-california-wildfires-wind-altadena-palisades</link>
-      <description><![CDATA[数以万计的居民被要求在野火尚未得到控制的情况下撤离。NPR 成员站 LAist 向社区成员讲述了他们受到的影响。]]></description>
-      <guid>https://www.npr.org/2025/01/08/nx-s1-5252577/la-california-wildfires-wind-altadena-palisades</guid>
-      <pubDate>Wed, 08 Jan 2025 17:28:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
