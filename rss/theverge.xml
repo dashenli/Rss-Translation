@@ -4,150 +4,172 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 12:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 15:15:56 GMT</lastBuildDate>
     <item>
-      <title>松下在 2025 年 CES 上重返电视荣耀</title>
-      <link>https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24339135/panasonic-z95b-oled-tv-hands-on-ces-2025</guid>
-      <pubDate>Fri, 10 Jan 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉重新设计的 Model Y 现已上市——但不会在美国或欧洲上市</title>
-      <link>https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340502/tesla-model-y-2025-ev-redesign-specs-price-availability</guid>
-      <pubDate>Fri, 10 Jan 2025 11:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redmi 首次将 Snapdragon 7s Gen 3 带到欧洲</title>
-      <link>https://www.theverge.com/2025/1/10/24340493/redmi-note-14-qualcomm-snapdragon-7s-gen-3</link>
+      <title>PowerSchool 数据泄露事件泄露了美国各地学校学生和教职员工的信息</title>
+      <link>https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools</link>
       <description><![CDATA[
 
-Redmi Note 14 Pro Plus 5G 有薰衣草紫、霜蓝和午夜黑三种颜色可供选择。 |图片：Redmi
+图片：Cath Virginia / The Verge，Getty Images
 
-今天，小米旗下的 Redmi 将其价格实惠的 Note 14 系列带到了欧洲，同时骁龙 7s Gen 3 也在西方首次亮相。在 2024 年 8 月推出后，高通芯片不得不坐视旗舰骁龙 8 Elite 在两个月后问世，吸引了更多关注，甚至以本周的 OnePlus 13 的形式首次在西方手机上推出。但更实惠的骁龙芯片现在得到了应有的回报。
-Note 14 系列有五款手机，从仅支持 4G 的 Note 14 到 Note 14 Pro Plus 5G，后者是该系列中唯一一款采用骁龙芯片的手机。作为高通骁龙 7 系列的入门级芯片，7s Gen 3 是一款 4nm 芯片组，最值得注意的是它采用了 Arm 的 v9 CPU 架构，处理器的核心是 2.5GHz Cortex-A720 内核。其他四款手机使用各种联发科芯片组。
-
-
-图片：Redmi
-Snapdragon 7s Gen 3 为 Note 14 Pro Plus 5G 提供动力。
-
-起价为 399 英镑/499.90 欧元（约合 500 美元），Pro Plus 被定位为 谷歌售价 499 美元的 Pixel 8A 的天然竞争对手，但在大多数硬件规格上都远远超过它，防水性能提升至 IP68；高达 12GB 的 RAM 和 512GB 的存储空间；以及更大、更亮的 OLED 显示屏，由康宁旗舰级 Gorilla Glass Victus 2 保护。最大的权衡是在软件方面，特别是考虑到谷歌已保证在 2031 年之前为 Pixel 8A 提供 Android 更新。
-其他 Note 14 手机的规格和连接性逐渐下降。 Note 14 Pro 5G 拥有与 Pro Plus 型号相同的显示屏、2 亿像素摄像头和 IP68 等级，但降级为更便宜的联发科 7300-Ultra 芯片组和更慢的充电速度。普通的 Redmi Note 14 Pro 与之类似，但放弃了 5G 转而使用 4G 连接，并且仅达到 IP64 等级。Note 14 和 Note 14 5G 的规格全面降低——尽管对于一款价格不到 Pixel 8A 一半的手机来说，4G 型号的 IP54 防水性能仍然令人印象深刻。
-
-
-图片：Redmi
-Redmi Note 14 4G 是新系列中最便宜的型号。
-
-这四款手机均于去年年底在中国和印度推出，但今天继续在包括英国和德国在内的十个欧洲国家销售。有些令人困惑的是，欧洲机型的规格与亚洲机型不同——例如，Pro Plus 5G 的摄像头和电池完全不同——这对 Redmi 来说并不罕见。
-Redmi Note 14 系列在小米家族内部已经面临激烈竞争，此前价格相近的 Poco X7 和 X7 Pro 昨天在全球推出。这些手机依靠 IP68 等级和大电池（Pro 为 6,000mAh）来吸引预算买家远离谷歌和三星。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340493/redmi-note-14-qualcomm-snapdragon-7s-gen-3</guid>
-      <pubDate>Fri, 10 Jan 2025 11:00:08 GMT</pubDate>
+美国和加拿大各地的学校警告家长，数据泄露可能泄露了学生和员工的信息。K-12 运营平台 PowerSchool 支持着超过 6000 万名学生，在全球拥有超过 18,000 名客户，该平台遭遇了一次入侵，可能暴露了学生和教育工作者的姓名和地址，在某些情况下，还可能暴露更敏感的信息，如社保号、医疗信息和成绩。
+正如 Bleeping Computer 最初报道的那样，威胁行为者使用被盗用的凭证进入了 PowerSchool 的支持平台。PowerSchool 告诉 Bleeping Computer，只有“一小部分”学校受到影响，但并未提供受影响学区或人员的数量。此外，该媒体称，PowerSchool 在向客户提供的一份说明中声称，它支付了赎金请求，并且“……已从威胁者那里得到合理保证，即数据已被删除，并且不存在其他副本。”
+PowerSchool 的网站和社交媒体渠道没有提及数据泄露，也没有为可能受到影响的人提供指导。
+在给The Verge的一封电子邮件中，PowerSchool 发言人 Beth Keebler 写道，该公司在 12 月 28 日意识到了“潜在的网络安全事件”，并“采取了一切适当措施，以防止涉及的数据进一步遭到未经授权的访问或滥用。” Keebler 还写道：
+事件已得到控制，我们预计数据不会被共享或公开。 PowerSchool 没有经历、也不希望经历任何运营中断，并继续向我们的客户正常提供服务。 
+]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools</guid>
+      <pubDate>Fri, 10 Jan 2025 15:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>这条山火疏散警报意外发送给了洛杉矶的所有人</title>
-      <link>https://www.theverge.com/2025/1/9/24340289/los-angeles-wildfire-wireless-emergency-alert-mistake</link>
+      <title>可更换镜头让您可以将激光投影仪放置在您想要的准确位置</title>
+      <link>https://www.theverge.com/2025/1/10/24340551/valerion-visionmaster-max-laser-tv-4k-projector-interchangeable-lens</link>
       <description><![CDATA[
 
-这是无意中发送给洛杉矶县所有人的警报。 |图片：The Verge
+Valerion 的 VisionMaster Max 投影仪在该公司的 CES 2025 展位上。 |图片：Valerion
 
-在处理了两天的野火（已烧毁数千英亩土地）后，洛杉矶县各地的居民于周四下午收到了一条野火疏散警报，但这是一个错误。不久之后，官员发出了后续警报，称该通知仅针对伍德兰希尔斯肯尼斯大火附近的居民。
-洛杉矶县在X 上分享了一条消息，解释了发生的事情：“目前在西山燃烧的肯尼斯大火附近居民的疏散命令被错误地发布在全县范围内。此警报仅针对卡拉巴萨斯和阿古拉山的居民。”
-CBS 新闻援引当地官员的话称，该警报包含一个损坏的 URL，是“由于技术错误”发送的。
-
-
-图片：The Verge
-这是忽略其他疏散警告的警报。
+Valerion 在 2025 年消费电子展 (CES) 上宣布了其 VisionMaster Max 投影仪 的一项新功能，该功能将提高设置灵活性。该公司将为投影仪提供备用镜头（通常仅在专业级家庭影院硬件上提供的功能），用户可以更换这些镜头以更改其产生的图像大小或投影距离。这将适应更广泛的安装，从较小的客厅到宽敞的专用家庭影院，而不会牺牲图像分辨率。
+VisionMaster Max 最初由 Valerion 在 IFA 2024 上发布，Valerion 是 AWOL Vision 的姊妹品牌，专注于超短焦 (UST) 投影仪。该品牌的 VisionMaster 系列于去年 10 月通过 Kickstarter 众筹活动首次亮相，其中包括 Max 型号，它具有光学变焦功能，可以投射 40 至 300 英寸大小的图像。
 
 
-洛杉矶地区多处山火肆虐，官方已确认至少有 6 人死亡， CNN 报道。根据洛杉矶县网站，洛杉矶县人口接近 1000 万，是“全国人口最多的县”。
+图片：Valerion
+VisionMaster Max 可能看起来并不紧凑，但考虑到它配备了一对 12 瓦扬声器，它还是相当小巧的。
 
+可更换镜头是这款投影仪的一项新功能，现在即可购买 3,999 美元。Valerion 尚未宣布 VisionMaster Max 将提供哪些额外的镜头选项，也未宣布它们将使价格上涨多少。据 New Atlas 报道，Valerion 在 CES 上展示了一款具有 1.3-2.1:1 投射比的替代品，更适合在较大的房间中使用。
 
-目前在西山燃烧的肯尼斯大火附近居民的疏散命令被错误地发布在全县范围内。有关洛杉矶县目前发生的山火的最新情况，包括疏散信息，请访问https://t.co/p46PbDz31o。pic.twitter.com/JRQhOCBx3j— 洛杉矶县 (@CountyofLA) 2025 年 1 月 10 日
+VisionMaster Max 的升级版提供与 IFA 上发布的版本相同的特性和功能。据 Valerion 称，这是一款 4K 三重激光投影仪，能够产生 3,000 ISO 流明的亮度，并且能够使用 AI 升级低分辨率内容。它支持 IMAX Enhanced、杜比视界和 HDR10+ 标准，并为游戏玩家提供低输入延迟模式，当降低到 1080p 分辨率时，刷新率高达 240Hz。
+VisionMaster Max 是一款一体式投影仪，因此它包括一对支持 DTS:X 和杜比音频的 12 瓦扬声器。它有三个 HDMI 端口，其中一个支持 eARC。除了 Wi-Fi 和蓝牙之外，如果您的家庭影院中的无线互联网信号有问题，它还可以使用以太网电缆连接到互联网。投影仪运行 Google TV，因此您可以安装各种流媒体服务的应用程序，包括 Netflix、Disney Plus 和 Amazon Prime Video。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340551/valerion-visionmaster-max-laser-tv-4k-projector-interchangeable-lens</guid>
+      <pubDate>Fri, 10 Jan 2025 15:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的移动滑板游戏现在有了纽约续集</title>
+      <link>https://www.theverge.com/24339211/skate-city-new-york-review-apple-arcade</link>
+      <description><![CDATA[
+
+图片：雪人
+
+对我来说，滑板一直都是进入一种心流状态。就像玩俄罗斯方块一样，当我几乎无意识地滑板时，我处于最佳状态，而不是在当下思考和行动。这不是一个容易进入的领域，而音乐一直是我的捷径。所以我能给予《滑板之城：纽约》的最大赞美是，我花了一周时间微调完美的播放列表，所有这些都是为了让我也能在游戏中完美地奔跑。
+纽约是原版《滑板之城》的续集；这两款游戏都可通过 Apple Arcade 获得，尽管第一款游戏最终也移植到了游戏机上。该游戏由 Snowman 工作室开发，该工作室是《Alto》系列的制作人，而游戏搬到纽约的举动很像从《Alto’s Adventure》搬到《Alto’s Odyssey》。这并不是一种全新的体验，而是一种改变设置并添加一些看似很小但影响深远的调整的体验。
+
+该系列之所以如此适合移动设备，是因为它平衡了可接近性和深度。Skate City 非常容易上手。这是一款横向卷轴游戏，因此您总是从左向右移动，并且所有各种技巧和动作都可以通过滑动、点击或按住来完成。这一切感觉……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/24339211/skate-city-new-york-review-apple-arcade</guid>
+      <pubDate>Fri, 10 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的最后一搏：最高法院听取有关潜在禁令的辩论</title>
+      <link>https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments</link>
+      <description><![CDATA[
+
+插图由 Cath Virginia / The Verge 提供 |图片来自 Getty Images
+
+在 1 月 19 日“撤资或封禁”法案生效之前，这是最后一次机会。 TikTok 距离被迫与其中国母公司字节跳动分离或在美国停止运营仅剩一周多的时间。上诉法院维持了“撤资或封禁”法案，但最高法院为该公司及其用户提供了最后一次机会来陈述自己的主张。预计法院将在 1 月 10 日口头辩论后迅速做出决定，决定是否至少暂时阻止该法律。
+乔·拜登总统去年签署了《保护美国人免受外国对手控制应用法案》，该法案在两党支持下获得通过，但该法案将在他将权力移交给当选总统唐纳德·特朗普的前一天生效，特朗普曾多次但含糊地承诺避免禁令。特朗普提交了一份意外简报，敦促最高法院推迟执行，直到他能促成一项协议——尽管目前尚不清楚中国政府是否会批准。]]></description>
+      <guid>https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments</guid>
+      <pubDate>Fri, 10 Jan 2025 14:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vergecast 亮相 CES 2025：最重大的新闻和最棒的电子产品</title>
+      <link>https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai</link>
+      <description><![CDATA[
+
+图片：Alex Parkin / The Verge
+
+CES 是一场电视节目。也是一场汽车展。也是一场可穿戴设备展。而今年，奇怪的是，它有点像一场泳池吸尘器展？这是今年规模最大、最精致、最奇特的科技展，几乎整个行业都会飞往拉斯维加斯展示新产品并达成大交易。 
+在这期The Vergecast中，我们将尽可能多地讨论这个展会，这是拉斯维加斯布鲁克林碗的特别直播版。 （顺便说一句，感谢所有到场的人！很高兴见到你们并与你们一起闲逛。）实际上，我们以一个并非始于 CES 但却占据了整个一周的故事开始这个节目：Meta 对事实核查和内容审核的态度转变。之后，我们又谈到了三星新款 Frame Pro 电视、戴尔 XPS 品牌的终结、索尼价格高得离谱的 Afeela 汽车等等。
+
+之后The Verge 的 Allison Johnson、Jennifer Pattison Tuohy 和 Victoria Song 与我们一起上台谈论他们在展会上看到的内容。我们谈论手机烤面包机、机器人吸尘器、智能锁、智能眼镜、Max Ink Mode，还有更多。我们本周看到的东西会上市吗？它们会有什么用处吗？谁知道呢！但这就是 CES 的乐趣所在。这是一场狂热的梦想，一场……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai</guid>
+      <pubDate>Fri, 10 Jan 2025 14:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>无人机使用超级铲车扑灭洛杉矶山火</title>
+      <link>https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires</link>
+      <description><![CDATA[
+
+一架超级铲雪机向帕利塞兹大火中喷洒海水。 | Brian van der Brug / 洛杉矶时报 via Getty Images
+
+周四，一架协助扑灭洛杉矶野火的飞机被一架民用无人机击中。根据洛杉矶县消防局在 X 上发布的声明，此次碰撞损坏了飞机的机翼——CL-415“超级铲车”，能够铲起 1,600 加仑的海水，然后投向附近的火焰，因此该飞机停飞，直到修复为止。
+加州消防局发言人克里斯·托马斯告诉纽约时报，停飞飞机可能会阻碍当地的消防工作。超级铲车通常可以在大约五分钟内重新装满。但即使需要十滴水，托马斯表示每小时也会损失六滴水。“那么谁家的房子不用这些水来保护呢？”美国联邦航空管理局 (FAA) 表示，超级铲车在无人机撞击后安全着陆，目前事件正在调查中。 
+
+洛杉矶地区已实施临时飞行限制，禁止无人机和其他飞机在未经 FAA 授权的情况下飞行，以保护消防工作。
+据洛杉矶县消防局局长安东尼·马罗尼称，这架无人机并非被派去协助扑灭帕利塞兹火灾，并在碰撞中被毁。 马罗尼告诉《洛杉矶时报》，联邦调查局目前正计划在该地区部署所谓的“空中装甲”，以防止无人机进一步干扰。
+网上有几人违反了联邦航空局强制执行的飞行限制，在社交媒体上发布了无人机照片和视频，展示了似乎是禁飞区造成的破坏。当一些假人为了在网上影响力而驾驶无人机靠近野火时，消防机构经常被迫停飞自己的飞机以避免发生碰撞。
+“干扰公共土地上的消防工作是联邦犯罪，最高可判处 12 个月监禁，”联邦航空管理局在一份声明中表示。“此外，联邦航空管理局可以对干扰野火扑灭、执法或应急响应行动的任何无人机飞行员处以最高 75,000 美元的民事罚款。联邦航空管理局严肃对待这些违法行为，并立即考虑对这些违法行为采取迅速执法行动。”
 
 ]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24340289/los-angeles-wildfire-wireless-emergency-alert-mistake</guid>
-      <pubDate>Fri, 10 Jan 2025 00:32:33 GMT</pubDate>
+      <guid>https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires</guid>
+      <pubDate>Fri, 10 Jan 2025 13:46:03 GMT</pubDate>
     </item>
     <item>
-      <title>苹果奇怪的 iPhone 报警问题仍在发生</title>
-      <link>https://www.theverge.com/2025/1/9/24340238/apple-iphone-alarm-broken-timing-failed</link>
+      <title>Venu Sports 在正式上线前就关闭了</title>
+      <link>https://www.theverge.com/2025/1/10/24340552/venu-sports-streaming-service-shuts-down-espn-fox-warner-bros-discovery</link>
       <description><![CDATA[
 
-图片：Satechi
+图片：Cath Virginia / The Verge
 
-去年 4 月，在 NBC 的一份报告发布后，苹果承认 iPhone 内置闹钟功能存在可靠性问题。 href=&quot;https://www.today.com/video/how-to-make-sure-your-iphone-s-alarm-goes-off-in-the-morning-209952837765&quot;&gt;今日早间节目表示正在努力修复，但有些人仍然遇到了麻烦。 Android Authority 指出，周三 r/iPhone 子版块中 bryanlolwut 发布了 Reddit 帖子，其中有一张 iPhone 的图片，闹钟设置为 10:30，但闹钟在 12:42 响起——这是 Apple Watch 上显示的时间。
-周四晚些时候，许多 Reddit 用户仍在评论该帖子，称他们遇到了类似的问题。
+ESPN、Fox 和华纳兄弟 Discovery 推出的体育直播流媒体服务 Venu 不会出现。三家公司在周五的联合声明中宣布“不再推进拟议的合资企业”的决定：
+经过仔细考虑，我们一致同意终止 Venu Sports 合资企业，不再推出流媒体服务。在不断变化的市场中，我们认为，专注于现有产品和分销渠道是满足体育迷不断变化的需求的最佳方式。我们为迄今为止在 Venu 上所做的工作感到自豪，并感谢 Venu 员工，我们将在这一过渡时期为他们提供支持。
+ESPN、Fox 和华纳兄弟 Discovery 去年首次宣布 Venu，它应该于 2024 年秋季推出。这项服务将使观众能够从多个线性频道（包括 ESPN、ABC、Fox、Fox Sports 1、Fox Sports 2、TNT 等）观看 NFL、NBA、NHL、NCAA 等一系列现场比赛。
+但随后 Venu 遇到了法律障碍：直播电视流媒体服务 Fubo 提起的反垄断诉讼，指控三人因限制性体育许可协议而“进行了长达数年的活动，以阻止 Fubo 创新的体育优先流媒体业务”。 立法者还要求监管机构调查 Venu 及其在电视体育领域垄断的潜力。
 
-
-
-“我的早晨闹钟显示为响起，但 40 分钟内没有发出任何声音，也没有触觉，”Slawek_Zupa 说道。另一篇帖子说，他们的闹钟在下午 5 点响起，而原本应该在早上 7 点响起。
-今天帖子中的报告包括仍在使用 iOS 17 的人，以及已使用 Apple Intelligence 更新到 iOS 18 的人。
-有人说他们尝试过关闭 Apple 的注意力感知功能，这可以在 iPhone 检测到您的脸部时降低闹钟音量。然而，它并没有解决许多人的问题，而且你失去了在锁定屏幕上查看完整通知等功能。
-我们询问苹果他们是否仍在调查这个问题，但我们尚未收到回复。就我个人而言，我还注意到我的 iPhone 有时早上不会发出声音或振动，但它会像发出声音或振动一样下拉一个毫无生气的通知。幸运的是，我有一台 Google Pixel 8 Pro 作为备用手机，通常可以让我继续工作，我也在尝试Nintendo Alarmo，但我的妻子已经受够了塞尔达对林克大喊大叫让他起床。]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24340238/apple-iphone-alarm-broken-timing-failed</guid>
-      <pubDate>Fri, 10 Jan 2025 00:09:12 GMT</pubDate>
+去年 8 月，一名联邦法官站在 Fubo 一边，暂时阻止了 Venu 的推出。当迪士尼同意将 Hulu + Live TV 与 Fubo 合并，导致 Fubo 放弃诉讼时，事情似乎已经尘埃落定。然而，DirecTV 和 EchoStar 都对 Venu 的推出表示担忧，对 Fubo 的和解决定并不满意。当被问及 Fubo 和 Hulu + Live TV 交易将如何发展时，Fubo 发言人 Jennifer Press 表示，两家公司已经达成了“最终合并协议”。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340552/venu-sports-streaming-service-shuts-down-espn-fox-warner-bros-discovery</guid>
+      <pubDate>Fri, 10 Jan 2025 13:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>Microlino 的“反皮卡车”专为美国人设计</title>
-      <link>https://www.theverge.com/2025/1/9/24339896/microlino-spider-golf-cart-replacement-usa-fuck-yeah</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24339896/microlino-spider-golf-cart-replacement-usa-fuck-yeah</guid>
-      <pubDate>Thu, 09 Jan 2025 23:01:00 GMT</pubDate>
+      <title>2025 年 CES 上最酷的笔记本电脑</title>
+      <link>https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware</link>
+      <description><![CDATA[
+
+联想的可卷曲笔记本电脑抢尽了风头，但还有一堆即将推出的型号，我很期待到时候测试一下。 |照片由 Antonio G. Di Benedetto / The Verge 拍摄
+
+本周在 CES 上发布的新 CPU、GPU 和笔记本电脑为未来一年的 Windows 电脑定下了基调——到目前为止，2025 年的前景相当光明。我非常期待在新笔记本电脑上市时试用它们，其中许多都是以游戏为重点的，因为 Nvidia 的 RTX 50 系列显卡的推出正迎来大量图形更新和升级。
+戴尔、Alienware、华硕、宏碁、联想、MSI 和 Razer 推出了许多新笔记本电脑。许多可能只是芯片升级和轻微更新，但也有一些在新创意、轻薄、原始功率和超强装备方面投入了巨额资金。以下是我最期待的几款产品。
+联想 ThinkBook Plus Gen 6
+
+照片由 Antonio G. Di Benedetto / The Verge 拍摄
+
+我已经写了很多文章，也说了很多关于联想从概念变为可购买的产品 ThinkBook Plus Gen 6 的内容。这是我们见过的最酷的笔记本电脑。这是我们在 2025 年 CES 上展示的最佳产品。当联想在今年晚些时候评测一款产品时，它可能会面临将可卷曲显示屏的软件功能移植到 Windows 上所面临的挑战，而这也许会是一场难以逾越的鸿沟。
+但是……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware</guid>
+      <pubDate>Fri, 10 Jan 2025 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌推出“中立”的 Chromium 开发基金</title>
-      <link>https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund</link>
+      <title>WhatsApp 真心希望你愿意与人工智能机器人交谈</title>
+      <link>https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab</link>
       <description><![CDATA[
 
 插图：The Verge
 
-根据一则公告，Google 正与 Linux 基金会合作，发起一项旨在“资助开放式开发并增强 Chromium 生态系统项目”的计划周四。该基金名为基于 Chromium 的浏览器支持者，被称为支持 Chromium 项目的“中立”空间。
-谷歌于 2008 年推出了 Chrome 网络浏览器，同时也推出了 Chromium。它是 Chrome 和许多其他基于它的浏览器（包括 Microsoft Edge、Opera 和 Brave）的开源基础架构。
-除了谷歌之外，已经有几家知名公司加入了该计划，包括 Meta、微软和 Opera。微软表示，加入将有助于“提供清晰、开放的治理，将资金用于社区驱动的需求。”
+Meta 的热门消息应用程序 WhatsApp 正在测试一种新设计，为一系列 AI 聊天机器人提供突出的空间。该设计目前只能通过该应用的 Android 测试版访问，它在应用主屏幕上添加了一个专门的 AI 选项卡。
+WABetaInfo 发现了这一变化，它将 WhatsApp 的四个选项卡中的一个专门用于其 AI 功能。它包括一系列可供交谈的“热门 AI 角色”，以及其他按主题组织的角色。 WhatsApp 中其他由 AI 驱动的功能包括 AI 生成的图像和贴纸以及使用 Meta AI 的搜索工具。
+这些 AI 工具和聊天机器人对 WhatsApp 来说并不新鲜，尽管它们仅在美国和其他某些国家/地区可用，并且语言选择有限。目前，这些功能可通过应用的主要聊天选项卡访问，但此次更新似乎让它们更加突出。
 
 
-图片：谷歌
-谷歌对 Chromium 的贡献。
+图片：WABetaInfo
+WhatsApp 希望您与之聊天的令人兴奋的 AI。
 
-谷歌还强调了去年对 Chromium 的 100,000 多次提交，以及其“大力投资”开源的努力项目：
-Google 还继续大力投资开源项目的共享基础设施以“保持正常运转”，包括让数千台服务器无休止地运行数百万次测试、每天响应数百个传入的错误、确保修复重要错误，并不断投资代码健康以保持整个项目的可维护性。
-Chromium 浏览器支持者倡议的创建是在美国司法部要求 Google 出售 Chrome作为其在裁决之后提出的补救措施的一部分几个月后。 href=&quot;https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup&quot;&gt;Google 是垄断者。作为回应，Google 提议取消独家交易，该交易使 Google 成为 Safari 和 Mozilla 等网络浏览器三年的默认搜索引擎。
-即使 Google 试图向司法部展示它对 Chromium 的贡献有多大，基于 Chromium 的浏览器支持者的成立表明，即使没有该公司的参与，开源项目仍将得到支持。]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund</guid>
-      <pubDate>Thu, 09 Jan 2025 22:55:45 GMT</pubDate>
+该应用还在尝试扩展通过添加创建个性化 AI 角色的选项，可以扩展一系列 AI 机器人，WABetaInfo 在今天的单独测试版更新中发现了这一点。Meta 已经提供了创建自定义 AI 机器人的功能，但只能通过 Instagram 网站上的 AI Studio。将该选项直接添加到应用程序中可以大大简化流程。
+新的 AI 选项卡取代了现有的社区选项卡，但该功能不会消失。本周早些时候，之前的测试版在聊天选项卡中引入了“精简版”社区创建功能。
+WhatsApp 测试版可通过 Google Play获取，但测试人员数量有限，且目前无法加入。我们不知道是否或何时会将 AI 选项卡添加到应用的实时版本中，但这一变化可能仅限于 AI 功能已经可用的国家/地区。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab</guid>
+      <pubDate>Fri, 10 Jan 2025 13:20:05 GMT</pubDate>
     </item>
     <item>
-      <title>本田 Zero 电动车近距离看起来更加引人注目</title>
-      <link>https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24340049/honda-zero-saloon-suv-prototype-spec-ces-photos</guid>
-      <pubDate>Thu, 09 Jan 2025 22:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是目前最好的 Kindle 优惠</title>
-      <link>https://www.theverge.com/21539047/best-amazon-kindle-deals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/21539047/best-amazon-kindle-deals</guid>
-      <pubDate>Thu, 09 Jan 2025 22:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 在美国推出 Grok 的 iPhone 应用程序</title>
-      <link>https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch</link>
+      <title>2025 年 CES 上的 The Verge 大奖</title>
+      <link>https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable</link>
       <description><![CDATA[
 
-图片：The Verge
+图片：Samar Haddad 为 The Verge 拍摄
 
-xAI 已在美国为其 Grok 聊天机器人发布了 iOS 应用，如 早些时候由 TechCrunch 发现。聊天机器人的独立应用版本（xAI 称之为测试版）可以执行与 X 内置版本相同的功能，因为它可以处理实时信息、回答问题和生成图像。
-xAI 于 12 月在少数几个国家开始测试 Grok 的独立 iOS 应用。目前尚无消息表明何时会登陆 Android。 
-尽管 Grok 最初仅供 X Premium 订阅者使用，但该平台上个月开始允许所有用户访问该聊天机器人，使其与其他免费使用的聊天机器人（如 OpenAI 的 ChatGPT、Anthropic 的 Claude、Google Gemini 和 Microsoft Copilot）保持一致。 
-
-正如 TechCrunch 所指出的那样，xAI 似乎还在开发一个专门的 Grok.com 网站，目前该网站上有“即将推出”的消息。在 6 月份筹集 60 亿美元后，xAI 报告了另一轮 60 亿美元的融资，其中包括来自 Nvidia 和 AMD 等“战略投资者”的资金。
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch</guid>
-      <pubDate>Thu, 09 Jan 2025 21:19:00 GMT</pubDate>
+毛茸茸的机器人、便携式电视和带手臂和腿的吸尘器。这就是我们参加 CES 的原因。
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable</guid>
+      <pubDate>Fri, 10 Jan 2025 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
