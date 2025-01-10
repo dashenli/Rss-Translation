@@ -4,7 +4,131 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 15:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 18:21:59 GMT</lastBuildDate>
+    <item>
+      <title>Automattic 削减 WordPress 贡献时间，指责 WP Engine</title>
+      <link>https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+根据周四的一份声明，运营 WordPress.com 的公司 Automattic 正在缩减对 WordPress 开源项目的贡献。该公司表示，它正在减少捐款，以“匹配” WP Engine 等公司在生态系统上花费的时间，这进一步加剧了 Automattic 首席执行官 Matt Mullenweg 与社区之间的紧张关系。
+现在，Automattic 表示，它不再每周花费 3,988 小时开发 WordPress 项目，而是每周贡献大约 45 小时，作为Five for the Future 计划的一部分 — — 该计划鼓励公司将其资源的 5% 回馈给 WordPress.org。 “这些时间可能会用于安全和关键更新，”Automattic 表示。 
+Mullenweg 也是 WordPress 的联合创始人，他批评第三方托管商 WP Engine 每周为生态系统贡献 40 个小时，并称其为社区的“毒瘤”。在跟踪贡献的Five for the Future 页面上，Automattic 贡献的时间已经越来越少。 
+
+Automattic 将削减成本归咎于与与 WP Engine 持续的法律纠纷相关的“大量时间和金钱”。它还指出，它面临着“来自‘社区’成员的强烈批评，他们希望 Matt 和其他人退出”WordPress 项目：
+由于 WP Engine 的诉讼，我们已决定重新分配资源。这项法律行动分散了大量的时间和精力，这些时间和精力原本可以用来支持 WordPress 的发展和健康。我们仍然希望 WP Engine 能够重新考虑这一法律攻击，让我们重新将精力集中在有利于更广泛的 WordPress 生态系统的贡献上。
+WP Engine 去年起诉了 Automattic 和 Mullenweg，此前这位联合创始人公开反对该公司并接管了其 ACF 插件。一名法官后来批准了对 WP Engine 有利的初步禁令，称 Mullenweg 的“行为旨在诱导违约或破坏”。 
+去年，Automattic 的一些员工也离开了公司，因为该公司提出买断那些不同意其与 WP Engine 抗争的员工。该公司本周还关闭了其可持续发展团队，Mullenweg 在Slack 消息截图中写道：“现在可能是正式解散该团队的好时机”，并补充说“围绕此组建团队似乎无法实现其任何目标。”此举引发了社区的批评，包括记者卡拉·斯威舍。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340717/automattic-wordpress-contribution-hours-cut-wp-engine</guid>
+      <pubDate>Fri, 10 Jan 2025 18:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克的 xAI 如何悄然接管 X</title>
+      <link>https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter</link>
+      <description><![CDATA[
+
+插图由 Laura Normand / The Verge 提供
+
+当伊隆·马斯克创办自己的 AI 初创公司 xAI 时，他宣称自己比竞争对手拥有一个关键优势：能够访问他新收购的社交媒体平台 Twitter 的海量数据。通过在网络上实施新的 API 费用，马斯克迅速将网络更名为 X，从而将其他 AI 公司拒之门外，保持对自己模型的独家访问权。他开始使用 X 的数百万用户来测试结果。
+自 xAI 推出其第一版 Grok 大型语言模型以来，马斯克一直在使用这种分销渠道，在帖子中添加诸如热门故事摘要和AI 生成的问题等功能，以及 向 X 用户独家发布 Grok 聊天机器人（最初）。现在，一系列新的 AI 功能即将推出。根据逆向工程师 Nima Owji 的发现，该平台似乎正在开发基于 AI 的帖子增强功能，其中包括一项让 Grok 修改推文的功能。聊天机器人似乎还添加了基于位置的查询，让用户可以询问附近的事物，例如杂货店。 
+xAI 对曾经被称为 Twitter 的平台的接管是如此明显，甚至它的品牌也已经悄悄进入了 X 最显眼的空间，“xAI Grok”现在占据了突出的位置……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24339249/elon-musk-xai-x-twitter</guid>
+      <pubDate>Fri, 10 Jan 2025 18:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fortnite 音乐节通过本地多人游戏变身摇滚乐队</title>
+      <link>https://www.theverge.com/2025/1/10/24340770/fortnite-festival-local-multiplayer</link>
+      <description><![CDATA[
+
+图片：Epic Games
+
+Fortnite Festival 是该游戏的摇滚乐队式音乐模式，玩家可以跟着真实歌曲一起演奏，该模式将于 1 月 14 日在 PlayStation 和 Xbox 上推出最多 4 人的本地多人游戏。
+目前，您只能玩Fortnite Festival 多人在线游戏，但通过这一改变，你将能够让你以前的摇滚乐队重新聚在一起，在同一个电视屏幕上尽情演奏——好吧，带着一个大星号。 Fortnite Festival 目前仅支持某些Rock Band吉他控制器，因此如果您是歌手或鼓手，则只能使用控制器进行演奏。
+
+Epic Games 尚未立即回复关于何时可能将鼓组或麦克风支持添加到 Fortnite Festival 的评论请求。
+新的本地多人游戏模式是作为 Fortnite Festival 第 7 季的一部分添加的。据传，本季的特色艺术家将是虚拟流行歌星初音未来 — — Epic Games 已经暗示她可能很快加入Fortnite。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340770/fortnite-festival-local-multiplayer</guid>
+      <pubDate>Fri, 10 Jan 2025 17:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉召回 20 万辆车载电脑存在故障的汽车</title>
+      <link>https://www.theverge.com/2025/1/10/24340689/tesla-rearview-camera-recall-self-driving-computer-short-circuit</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge，Getty Images
+
+特斯拉召回超过 20 万辆电动汽车，原因是其最新的计算机硬件存在问题，可能导致短路并禁用包括后视摄像头在内的一些安全功能。
+特斯拉 提交 于 1 月 6 日召回，承认部分最新型号的 Model 3、Model Y、Model S 和 Model X 车辆存在计算机故障。部分 Model X 的制造日期最早为 2023 年 1 月 25 日，部分 Model Y 的制造日期最晚为 2024 年 12 月 16 日（其他型号的制造日期介于两者之间）。
+最新召回是由于未遵守国家公路交通安全管理局 (NHTSA) 的规定，该机构对后视摄像头的可靠性有严格的规定。 2024 年 1 月，特斯拉针对存在问题的后视摄像头进行了单独召回，并于 10 月针对 Cyber​​trucks 进行了召回，召回内容涉及后视摄像头存在延迟问题。两者都通过无线 (OTA) 软件更新进行了修复。
+根据安全召回报告，特斯拉再次利用其 OTA 功能来补救这次新的召回，该召回于 12 月 18 日开始推出，并于 12 月 16 日添加到新制造的车辆中。
+但正如 Electrek 报道的那样，更新无法修复更广泛的计算机问题，截至 12 月 30 日，该问题已在 887 份保修索赔和 68 份现场报告中得到确认。据报道，这些问题影响了特斯拉最新的 HW4（也称为 AI4）计算机，这些计算机应该支持该公司向完全自动驾驶的过渡。 
+特斯拉表示，它将更换未通过 OTA 更新修复的汽车中的计算机。但该公司无疑需要尽快更换它们，特别是如果首席执行官埃隆·马斯克想要打造他多年来一直承诺的机器人出租车服务的话。
+
+
+
+]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340689/tesla-rearview-camera-recall-self-driving-computer-short-circuit</guid>
+      <pubDate>Fri, 10 Jan 2025 17:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款多功能 MagSafe 智能手机灯还可以在紧急情况下为你的手机充电</title>
+      <link>https://www.theverge.com/2025/1/10/24340649/godox-ma52-rgb-magnetic-smartphone-led-light-selfie</link>
+      <description><![CDATA[
+
+Godox MA5R 售价仅为 49.99 美元。 | 图片：Godox
+
+Godox 是一家以闪光灯和反光伞等专业摄影设备而闻名的公司，现已宣布推出一款适用于智能手机的全新照明产品。它的MA5R 是一款磁性移动电源，背面有一系列漫射变色 LED，可以改善手机摄影效果，同时控制电池焦虑。它的售价为 49 美元，虽然您可以通过在线专卖店预订，但官方发售尚不清楚。
+MA5R 可连接到兼容 MagSafe 的 iPhone、支持 Qi2 无线标准的智能手机或升级了背面磁环的移动设备。它也可以手持使用，但 Godox 没有提供用于将其连接到支架上的标准三脚架支架——考虑到该公司的专业装备阵容，这是一个奇怪的遗漏。
+
+
+图片：Godox
+MA5R 使用变色 LED 来重现各种颜色和色温。
+
+该配件可通过蓝牙通过 Godox 移动应用程序进行控制，允许其色温在很大范围内调整 - 从 1800K（暖色）到 10000K（冷色） - 因此您几乎可以在任何环境中匹配照明。如果您想要更具戏剧性的灯光效果，您还可以选择多种颜色，或者选择“14 种预编程特殊效果”之一，这在拍摄视频时非常有用。
+
+
+图片：Godox
+MA5R 在另一侧包含一个额外的较小 LED，可用于改善自拍的照明。
+
+MA5R 的另一侧，磁性支架旁边是一个小显示屏，显示电池寿命和照明亮度。还有一个较小的前置 LED 灯，可通过在配件连接到手机时旋转它来改善自拍效果。它提供 2800K 和 6500K 之间的较小范围的色温调节。
+
+增加的灯光意味着 MA5R 厚度为 13 毫米，因此连接到手机时不会完全消失。而且它里面只有 5,000mAh 的电池。这足以让 LED 在全亮度下运行长达 3 小时 40 分钟，或在半亮度下运行长达 7 小时 20 分钟，但不足以为许多智能手机多次完全充电。
+LED 开启时无线充电也会停止，因此也许可以将 MA5R 的充电功能视为看似可靠的便携式照明解决方案的附加功能。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340649/godox-ma52-rgb-magnetic-smartphone-led-light-selfie</guid>
+      <pubDate>Fri, 10 Jan 2025 17:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔·拜登的国家气候顾问认为人工智能是“巨大机遇”</title>
+      <link>https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition</link>
+      <description><![CDATA[
+
+国家气候顾问 Ali Zaidi |图片：Cath Virginia / The Verge，Getty Images
+
+当然，当选总统唐纳德·特朗普一上任就可能试图破坏应对气候变化的努力。目前仍然可再生能源不足，无法实现美国的气候目标，甚至无法满足人工智能带来的电力需求暴涨。在特朗普政府试图收回《通胀削减法案》中的气候资金之前，时间已经不多了。尽管如此，乔·拜登的气候变化高级顾问阿里·扎伊迪并不担心。
+他设法保持了拜登和哈里斯阵营的标志性乐观情绪，即使这种热情并不一定反映出实际情况。本周，The Verge 采访了白宫国家气候顾问 Zaidi，谈到了他对清洁能源技术未来发展的看法以及可能还有哪些进步空间。
+本次采访经过编辑，内容简洁明了。
+您有法律背景。气候变化是如何成为您的关注点的？
+我六岁来到美国，对我和我的家人来说，美国的故事就是经济流动性的故事。我来到华盛顿的真正目的是希望能够为更多... 
+阅读 The Verge 上的完整报道。]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24339455/national-climate-adviser-ali-zaidi-interview-biden-trump-energy-transition</guid>
+      <pubDate>Fri, 10 Jan 2025 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T、Verizon 和 T-Mobile 如何应对洛杉矶山火</title>
+      <link>https://www.theverge.com/2025/1/10/24340543/la-wildfires-verizon-tmobile-att</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340543/la-wildfires-verizon-tmobile-att</guid>
+      <pubDate>Fri, 10 Jan 2025 16:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yeedi Cube 扫地机器人和拖把的价格降至 300 美元的历史最低水平</title>
+      <link>https://www.theverge.com/2025/1/10/24340549/yeedi-cube-robot-mopping-vacuum-amazon-fire-tv-soundbar-plus-deal-sale</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/10/24340549/yeedi-cube-robot-mopping-vacuum-amazon-fire-tv-soundbar-plus-deal-sale</guid>
+      <pubDate>Fri, 10 Jan 2025 16:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>PowerSchool 数据泄露事件泄露了美国各地学校学生和教职员工的信息</title>
       <link>https://www.theverge.com/2025/1/10/24340556/powerschool-sis-data-breach-leak-student-data-us-canada-schools</link>
@@ -35,141 +159,12 @@ VisionMaster Max 最初由 Valerion 在 IFA 2024 上发布，Valerion 是 AWOL V
 图片：Valerion
 VisionMaster Max 可能看起来并不紧凑，但考虑到它配备了一对 12 瓦扬声器，它还是相当小巧的。
 
-可更换镜头是这款投影仪的一项新功能，现在即可购买 3,999 美元。Valerion 尚未宣布 VisionMaster Max 将提供哪些额外的镜头选项，也未宣布它们将使价格上涨多少。据 New Atlas 报道，Valerion 在 CES 上展示了一款具有 1.3-2.1:1 投射比的替代品，更适合在较大的房间中使用。
+可更换镜头是这款投影仪的一项新功能，现在即可购买 3,999 美元。Valerion 尚未宣布 VisionMaster Max 将提供哪些额外的镜头选项，也未宣布它们将使价格上涨多少。据 New Atlas 报道，Valerion 在 CES 上展示了一种具有 1.3-2.1:1 投射比的替代方案——更适合在较大的房间中使用。
 
-VisionMaster Max 的升级版提供与 IFA 上发布的版本相同的特性和功能。据 Valerion 称，这是一款 4K 三重激光投影仪，能够产生 3,000 ISO 流明的亮度，并且能够使用 AI 升级低分辨率内容。它支持 IMAX Enhanced、杜比视界和 HDR10+ 标准，并为游戏玩家提供低输入延迟模式，当降低到 1080p 分辨率时，刷新率高达 240Hz。
+VisionMaster Max 的升级版提供与 IFA 上宣布的版本相同的特性和功能。据 Valerion 称，这是一款 4K 三重激光投影仪，能够产生 3,000 ISO 流明的亮度，并且能够使用 AI 升级低分辨率内容。它支持 IMAX Enhanced、杜比视界和 HDR10 Plus 标准，并为游戏玩家提供低输入延迟模式，当降低到 1080p 分辨率时，刷新率高达 240Hz。
 VisionMaster Max 是一款一体式投影仪，因此它包括一对支持 DTS:X 和杜比音频的 12 瓦扬声器。它有三个 HDMI 端口，其中一个支持 eARC。除了 Wi-Fi 和蓝牙之外，如果您的家庭影院中的无线互联网信号有问题，它还可以使用以太网电缆连接到互联网。投影仪运行 Google TV，因此您可以安装各种流媒体服务的应用程序，包括 Netflix、Disney Plus 和 Amazon Prime Video。]]></description>
       <guid>https://www.theverge.com/2025/1/10/24340551/valerion-visionmaster-max-laser-tv-4k-projector-interchangeable-lens</guid>
       <pubDate>Fri, 10 Jan 2025 15:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的移动滑板游戏现在有了纽约续集</title>
-      <link>https://www.theverge.com/24339211/skate-city-new-york-review-apple-arcade</link>
-      <description><![CDATA[
-
-图片：雪人
-
-对我来说，滑板一直都是进入一种心流状态。就像玩俄罗斯方块一样，当我几乎无意识地滑板时，我处于最佳状态，而不是在当下思考和行动。这不是一个容易进入的领域，而音乐一直是我的捷径。所以我能给予《滑板之城：纽约》的最大赞美是，我花了一周时间微调完美的播放列表，所有这些都是为了让我也能在游戏中完美地奔跑。
-纽约是原版《滑板之城》的续集；这两款游戏都可通过 Apple Arcade 获得，尽管第一款游戏最终也移植到了游戏机上。该游戏由 Snowman 工作室开发，该工作室是《Alto》系列的制作人，而游戏搬到纽约的举动很像从《Alto’s Adventure》搬到《Alto’s Odyssey》。这并不是一种全新的体验，而是一种改变设置并添加一些看似很小但影响深远的调整的体验。
-
-该系列之所以如此适合移动设备，是因为它平衡了可接近性和深度。Skate City 非常容易上手。这是一款横向卷轴游戏，因此您总是从左向右移动，并且所有各种技巧和动作都可以通过滑动、点击或按住来完成。这一切感觉……
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24339211/skate-city-new-york-review-apple-arcade</guid>
-      <pubDate>Fri, 10 Jan 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 的最后一搏：最高法院听取有关潜在禁令的辩论</title>
-      <link>https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments</link>
-      <description><![CDATA[
-
-插图由 Cath Virginia / The Verge 提供 |图片来自 Getty Images
-
-在 1 月 19 日“撤资或封禁”法案生效之前，这是最后一次机会。 TikTok 距离被迫与其中国母公司字节跳动分离或在美国停止运营仅剩一周多的时间。上诉法院维持了“撤资或封禁”法案，但最高法院为该公司及其用户提供了最后一次机会来陈述自己的主张。预计法院将在 1 月 10 日口头辩论后迅速做出决定，决定是否至少暂时阻止该法律。
-乔·拜登总统去年签署了《保护美国人免受外国对手控制应用法案》，该法案在两党支持下获得通过，但该法案将在他将权力移交给当选总统唐纳德·特朗普的前一天生效，特朗普曾多次但含糊地承诺避免禁令。特朗普提交了一份意外简报，敦促最高法院推迟执行，直到他能促成一项协议——尽管目前尚不清楚中国政府是否会批准。]]></description>
-      <guid>https://www.theverge.com/24340585/tiktok-ban-supreme-court-oral-arguments</guid>
-      <pubDate>Fri, 10 Jan 2025 14:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vergecast 亮相 CES 2025：最重大的新闻和最棒的电子产品</title>
-      <link>https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai</link>
-      <description><![CDATA[
-
-图片：Alex Parkin / The Verge
-
-CES 是一场电视节目。也是一场汽车展。也是一场可穿戴设备展。而今年，奇怪的是，它有点像一场泳池吸尘器展？这是今年规模最大、最精致、最奇特的科技展，几乎整个行业都会飞往拉斯维加斯展示新产品并达成大交易。 
-在这期The Vergecast中，我们将尽可能多地讨论这个展会，这是拉斯维加斯布鲁克林碗的特别直播版。 （顺便说一句，感谢所有到场的人！很高兴见到你们并与你们一起闲逛。）实际上，我们以一个并非始于 CES 但却占据了整个一周的故事开始这个节目：Meta 对事实核查和内容审核的态度转变。之后，我们又谈到了三星新款 Frame Pro 电视、戴尔 XPS 品牌的终结、索尼价格高得离谱的 Afeela 汽车等等。
-
-之后The Verge 的 Allison Johnson、Jennifer Pattison Tuohy 和 Victoria Song 与我们一起上台谈论他们在展会上看到的内容。我们谈论手机烤面包机、机器人吸尘器、智能锁、智能眼镜、Max Ink Mode，还有更多。我们本周看到的东西会上市吗？它们会有什么用处吗？谁知道呢！但这就是 CES 的乐趣所在。这是一场狂热的梦想，一场……
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340568/ces-2025-vergecast-gadgets-tvs-ai</guid>
-      <pubDate>Fri, 10 Jan 2025 14:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机使用超级铲车扑灭洛杉矶山火</title>
-      <link>https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires</link>
-      <description><![CDATA[
-
-一架超级铲雪机向帕利塞兹大火中喷洒海水。 | Brian van der Brug / 洛杉矶时报 via Getty Images
-
-周四，一架协助扑灭洛杉矶野火的飞机被一架民用无人机击中。根据洛杉矶县消防局在 X 上发布的声明，此次碰撞损坏了飞机的机翼——CL-415“超级铲车”，能够铲起 1,600 加仑的海水，然后投向附近的火焰，因此该飞机停飞，直到修复为止。
-加州消防局发言人克里斯·托马斯告诉纽约时报，停飞飞机可能会阻碍当地的消防工作。超级铲车通常可以在大约五分钟内重新装满。但即使需要十滴水，托马斯表示每小时也会损失六滴水。“那么谁家的房子不用这些水来保护呢？”美国联邦航空管理局 (FAA) 表示，超级铲车在无人机撞击后安全着陆，目前事件正在调查中。 
-
-洛杉矶地区已实施临时飞行限制，禁止无人机和其他飞机在未经 FAA 授权的情况下飞行，以保护消防工作。
-据洛杉矶县消防局局长安东尼·马罗尼称，这架无人机并非被派去协助扑灭帕利塞兹火灾，并在碰撞中被毁。 马罗尼告诉《洛杉矶时报》，联邦调查局目前正计划在该地区部署所谓的“空中装甲”，以防止无人机进一步干扰。
-网上有几人违反了联邦航空局强制执行的飞行限制，在社交媒体上发布了无人机照片和视频，展示了似乎是禁飞区造成的破坏。当一些假人为了在网上影响力而驾驶无人机靠近野火时，消防机构经常被迫停飞自己的飞机以避免发生碰撞。
-“干扰公共土地上的消防工作是联邦犯罪，最高可判处 12 个月监禁，”联邦航空管理局在一份声明中表示。“此外，联邦航空管理局可以对干扰野火扑灭、执法或应急响应行动的任何无人机飞行员处以最高 75,000 美元的民事罚款。联邦航空管理局严肃对待这些违法行为，并立即考虑对这些违法行为采取迅速执法行动。”
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340524/drone-collision-grounds-super-scooper-aircraft-la-wildfires</guid>
-      <pubDate>Fri, 10 Jan 2025 13:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Venu Sports 在正式上线前就关闭了</title>
-      <link>https://www.theverge.com/2025/1/10/24340552/venu-sports-streaming-service-shuts-down-espn-fox-warner-bros-discovery</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-ESPN、Fox 和华纳兄弟 Discovery 推出的体育直播流媒体服务 Venu 不会出现。三家公司在周五的联合声明中宣布“不再推进拟议的合资企业”的决定：
-经过仔细考虑，我们一致同意终止 Venu Sports 合资企业，不再推出流媒体服务。在不断变化的市场中，我们认为，专注于现有产品和分销渠道是满足体育迷不断变化的需求的最佳方式。我们为迄今为止在 Venu 上所做的工作感到自豪，并感谢 Venu 员工，我们将在这一过渡时期为他们提供支持。
-ESPN、Fox 和华纳兄弟 Discovery 去年首次宣布 Venu，它应该于 2024 年秋季推出。这项服务将使观众能够从多个线性频道（包括 ESPN、ABC、Fox、Fox Sports 1、Fox Sports 2、TNT 等）观看 NFL、NBA、NHL、NCAA 等一系列现场比赛。
-但随后 Venu 遇到了法律障碍：直播电视流媒体服务 Fubo 提起的反垄断诉讼，指控三人因限制性体育许可协议而“进行了长达数年的活动，以阻止 Fubo 创新的体育优先流媒体业务”。 立法者还要求监管机构调查 Venu 及其在电视体育领域垄断的潜力。
-
-去年 8 月，一名联邦法官站在 Fubo 一边，暂时阻止了 Venu 的推出。当迪士尼同意将 Hulu + Live TV 与 Fubo 合并，导致 Fubo 放弃诉讼时，事情似乎已经尘埃落定。然而，DirecTV 和 EchoStar 都对 Venu 的推出表示担忧，对 Fubo 的和解决定并不满意。当被问及 Fubo 和 Hulu + Live TV 交易将如何发展时，Fubo 发言人 Jennifer Press 表示，两家公司已经达成了“最终合并协议”。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340552/venu-sports-streaming-service-shuts-down-espn-fox-warner-bros-discovery</guid>
-      <pubDate>Fri, 10 Jan 2025 13:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 CES 上最酷的笔记本电脑</title>
-      <link>https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware</link>
-      <description><![CDATA[
-
-联想的可卷曲笔记本电脑抢尽了风头，但还有一堆即将推出的型号，我很期待到时候测试一下。 |照片由 Antonio G. Di Benedetto / The Verge 拍摄
-
-本周在 CES 上发布的新 CPU、GPU 和笔记本电脑为未来一年的 Windows 电脑定下了基调——到目前为止，2025 年的前景相当光明。我非常期待在新笔记本电脑上市时试用它们，其中许多都是以游戏为重点的，因为 Nvidia 的 RTX 50 系列显卡的推出正迎来大量图形更新和升级。
-戴尔、Alienware、华硕、宏碁、联想、MSI 和 Razer 推出了许多新笔记本电脑。许多可能只是芯片升级和轻微更新，但也有一些在新创意、轻薄、原始功率和超强装备方面投入了巨额资金。以下是我最期待的几款产品。
-联想 ThinkBook Plus Gen 6
-
-照片由 Antonio G. Di Benedetto / The Verge 拍摄
-
-我已经写了很多文章，也说了很多关于联想从概念变为可购买的产品 ThinkBook Plus Gen 6 的内容。这是我们见过的最酷的笔记本电脑。这是我们在 2025 年 CES 上展示的最佳产品。当联想在今年晚些时候评测一款产品时，它可能会面临将可卷曲显示屏的软件功能移植到 Windows 上所面临的挑战，而这也许会是一场难以逾越的鸿沟。
-但是……
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340121/ces-2025-laptops-best-lenovo-asus-msi-razer-alienware</guid>
-      <pubDate>Fri, 10 Jan 2025 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 真心希望你愿意与人工智能机器人交谈</title>
-      <link>https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Meta 的热门消息应用程序 WhatsApp 正在测试一种新设计，为一系列 AI 聊天机器人提供突出的空间。该设计目前只能通过该应用的 Android 测试版访问，它在应用主屏幕上添加了一个专门的 AI 选项卡。
-WABetaInfo 发现了这一变化，它将 WhatsApp 的四个选项卡中的一个专门用于其 AI 功能。它包括一系列可供交谈的“热门 AI 角色”，以及其他按主题组织的角色。 WhatsApp 中其他由 AI 驱动的功能包括 AI 生成的图像和贴纸以及使用 Meta AI 的搜索工具。
-这些 AI 工具和聊天机器人对 WhatsApp 来说并不新鲜，尽管它们仅在美国和其他某些国家/地区可用，并且语言选择有限。目前，这些功能可通过应用的主要聊天选项卡访问，但此次更新似乎让它们更加突出。
-
-
-图片：WABetaInfo
-WhatsApp 希望您与之聊天的令人兴奋的 AI。
-
-该应用还在尝试扩展通过添加创建个性化 AI 角色的选项，可以扩展一系列 AI 机器人，WABetaInfo 在今天的单独测试版更新中发现了这一点。Meta 已经提供了创建自定义 AI 机器人的功能，但只能通过 Instagram 网站上的 AI Studio。将该选项直接添加到应用程序中可以大大简化流程。
-新的 AI 选项卡取代了现有的社区选项卡，但该功能不会消失。本周早些时候，之前的测试版在聊天选项卡中引入了“精简版”社区创建功能。
-WhatsApp 测试版可通过 Google Play获取，但测试人员数量有限，且目前无法加入。我们不知道是否或何时会将 AI 选项卡添加到应用的实时版本中，但这一变化可能仅限于 AI 功能已经可用的国家/地区。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340539/whatsapp-beta-ai-chatbot-tab</guid>
-      <pubDate>Fri, 10 Jan 2025 13:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 CES 上的 The Verge 大奖</title>
-      <link>https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable</link>
-      <description><![CDATA[
-
-图片：Samar Haddad 为 The Verge 拍摄
-
-毛茸茸的机器人、便携式电视和带手臂和腿的吸尘器。这就是我们参加 CES 的原因。
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2025/1/10/24340153/ces-2025-best-new-tech-tv-car-wearable</guid>
-      <pubDate>Fri, 10 Jan 2025 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
