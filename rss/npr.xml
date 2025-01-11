@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 01:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 03:20:05 GMT</lastBuildDate>
+    <item>
+      <title>福克斯新闻因 2020 年选举舞弊指控再次接受审判</title>
+      <link>https://www.npr.org/2025/01/10/nx-s1-5256432/smartmatic-fox-news-trial-defamation-election-2020-trump</link>
+      <description><![CDATA[纽约州上诉法院裁定，投票技术公司 Smartmatic 针对福克斯新闻提起的诽谤案可以继续进行。]]></description>
+      <guid>https://www.npr.org/2025/01/10/nx-s1-5256432/smartmatic-fox-news-trial-defamation-election-2020-trump</guid>
+      <pubDate>Sat, 11 Jan 2025 01:44:30 GMT</pubDate>
+    </item>
     <item>
       <title>本周，洛杉矶大火导致超过 50 万名学生停课</title>
       <link>https://www.npr.org/2025/01/10/nx-s1-5254509/fires-la-school-students</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[官方数据显示：2024 年是有记录以来最热的一年。气候变化是罪魁祸首。但可能还有其他原因。]]></description>
       <guid>https://www.npr.org/2025/01/10/nx-s1-5232139/2024-hottest-year-human-history-global-warming</guid>
       <pubDate>Fri, 10 Jan 2025 18:51:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普从拜登那里继承了一项重要礼物：良好的就业市场</title>
-      <link>https://www.npr.org/2025/01/10/nx-s1-5254674/jobs-labor-market-unemployment-trump-biden</link>
-      <description><![CDATA[美国劳工部称，12 月份美国雇主新增就业岗位超过 25 万个。这远远超出了预测者的预期。]]></description>
-      <guid>https://www.npr.org/2025/01/10/nx-s1-5254674/jobs-labor-market-unemployment-trump-biden</guid>
-      <pubDate>Fri, 10 Jan 2025 18:08:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
