@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Fri, 10 Jan 2025 01:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:12:39 GMT</lastBuildDate>
+    <item>
+      <title>快速提示：防止磁盘自动安装</title>
+      <link>https://sixcolors.com/post/2025/01/quick-tip-prevent-a-disk-from-auto-mounting/</link>
+      <description><![CDATA[
+从台式机切换到笔记本电脑的后果之一是，我每天克隆磁盘的旧方法已经不适用了。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/quick-tip-prevent-a-disk-from-auto-mounting/</guid>
+      <pubDate>Fri, 10 Jan 2025 23:05:50 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）下游 86：富布鲁努</title>
       <link>https://sixcolors.com/podcast/2025/01/downstream-86-fubulunu/</link>
@@ -15,7 +23,7 @@
     <item>
       <title>Apple Intelligence 仍能带来回报——通过解决最小的问题（Macworld/Dan Moren）</title>
       <link>https://www.macworld.com/article/2571618/apple-intelligence-needs-to-fix-these-problems.html</link>
-      <description><![CDATA[如果你希望翻过日历来到新的一年意味着我们将不再谈论人工智能，那么你最好继续翻看一段时间。…]]></description>
+      <description><![CDATA[如果你希望翻阅日历到新的一年意味着我们将不再谈论人工智能，那么你最好继续翻阅一段时间。…]]></description>
       <guid>https://www.macworld.com/article/2571618/apple-intelligence-needs-to-fix-these-problems.html</guid>
       <pubDate>Thu, 09 Jan 2025 12:02:00 GMT</pubDate>
     </item>
@@ -91,7 +99,7 @@ Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该�
       <description><![CDATA[
 周日是 Mac OS X 发布 25 周年纪念日，没错，我为 Macworld 写了封面故事。当我正在准备一篇即将发表的文章来庆祝这个周年纪念日时，我问我的朋友 James Thomson，他是否有关于他在 Dock 上工作经历的优秀链接，Dock 是作为该活动的一部分发布的。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/25-years-since-the-docks-debut/</guid>
-      <pubDate>Sat, 04 Jan 2025 01:13:47 GMT</pubDate>
+      <pubDate>Sun, 05 Jan 2025 08:00:47 GMT</pubDate>
     </item>
     <item>
       <title>（赞助商）PowerPhotos</title>
@@ -115,15 +123,6 @@ Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该�
 我最近从在两个不同的办公室（难以取暖的车库和我温度适宜的后卧室）使用两台电脑改为在任一位置使用一台电脑（MacBook Pro）。…]]></description>
       <guid>https://sixcolors.com/post/2025/01/quick-tip-which-usb-devices-are-currently-attached/</guid>
       <pubDate>Thu, 02 Jan 2025 16:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>密钥的状态 ↦</title>
-      <link>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</link>
-      <description><![CDATA[Ars Technica 的高级安全编辑 Dan Goodin 分析了 2025 年密钥的使用情况：
-
-目前，密钥的安全优势也因一个不可否认的事实而受到削弱。…]]></description>
-      <guid>https://sixcolors.com/link/2025/01/the-state-of-passkeys/</guid>
-      <pubDate>Thu, 02 Jan 2025 15:35:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
