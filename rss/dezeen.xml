@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>西辛</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Sun, 12 Jan 2025 12:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 21:14:34 GMT</lastBuildDate>
+    <item>
+      <title>DE-YAN 设计吉米·巴特勒在迈阿密的 Bigface 咖啡店</title>
+      <link>https://www.dezeen.com/2025/01/12/bigface-coffee-shop-miami-design-district-jimmy-butler-de-yan/</link>
+      <description><![CDATA[科幻电影《2001：太空漫游》影响了这家位于迈阿密设计区（Miami Design District）的咖啡店的设计，该店由由 NBA 球星吉米·巴特勒和设计机构 DE-YAN 共同打造。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/12/bigface-coffee-shop-miami-design-district-jimmy-butler-de-yan/</guid>
+      <pubDate>Sun, 12 Jan 2025 18:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>RSHP 和 Estudio Lamela 设计的马德里巴拉哈斯机场是 2006 年最重要的建筑</title>
       <link>https://www.dezeen.com/2025/01/12/rshp-estudio-lamela-madrid-barajas-airport-21st-century-architecture/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[建筑公司Field Operations和Studio Cadena在Domino Sugar 位于纽约布鲁克林的开发项目。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/10/domino-square-plaza-field-operations-studio-cadena/</guid>
       <pubDate>Fri, 10 Jan 2025 20:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>贡萨洛·巴达赫 (Gonzalo Bardach) 打造阿根廷森林度假胜地，屋顶花园</title>
-      <link>https://www.dezeen.com/2025/01/10/gonzalo-bardach-argentinian-forest-garden-roof/</link>
-      <description><![CDATA[当地工作室 Gonzalo Bardach Arquitectura 创建了一座混凝土林地房屋，带有斜坡绿色屋顶，位于海岸附近。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/10/gonzalo-bardach-argentinian-forest-garden-roof/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,18 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 18:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 21:13:52 GMT</lastBuildDate>
     <item>
-      <title>随着山火持续燃烧，洛杉矶正准备迎接更强劲的大风</title>
+      <title>洛杉矶，美国最容易发生火灾的城市，为何会被大火吞噬</title>
+      <link>https://www.npr.org/2025/01/12/g-s1-42393/la-fires-los-angeles-california-wildfires-palisades-eaton-firefighters</link>
+      <description><![CDATA[洛杉矶是一个容易发生大型自然灾害的城市，人们普遍认为，洛杉矶消防员是扑灭城市野火的佼佼者。但在最近的极端条件下，专家表示，他们几乎无法减缓这些现代火灾的蔓延。]]></description>
+      <guid>https://www.npr.org/2025/01/12/g-s1-42393/la-fires-los-angeles-california-wildfires-palisades-eaton-firefighters</guid>
+      <pubDate>Sun, 12 Jan 2025 18:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州州长称火灾可能是美国历史上最昂贵的灾难</title>
       <link>https://www.npr.org/2025/01/12/nx-s1-5257440/la-wildfires-santa-ana-winds-palisades-eaton</link>
-      <description><![CDATA[随着消防员继续扑灭多起火灾，未来几天更多的圣安娜风可能会增加火灾风险。]]></description>
+      <description><![CDATA[州长加文·纽瑟姆在接受美国全国广播公司（NBC）的“与媒体见面”节目采访时表示，他认为，就“相关成本、规模和范围”而言，此次火灾将是美国最严重的自然灾害。]]></description>
       <guid>https://www.npr.org/2025/01/12/nx-s1-5257440/la-wildfires-santa-ana-winds-palisades-eaton</guid>
       <pubDate>Sun, 12 Jan 2025 17:12:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[特别顾问杰克·史密斯 (Jack Smith) 在提交了有关当选总统唐纳德·特朗普的报告后辞去了司法部的职务，因为有关该文件有多少内容可以公开的法律纠纷。]]></description>
       <guid>https://www.npr.org/2025/01/12/g-s1-42365/jack-smith-has-resigned-from-the-justice-department-after-submitting-his-trump-report</guid>
       <pubDate>Sun, 12 Jan 2025 06:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登授予教皇方济各总统自由勋章</title>
-      <link>https://www.npr.org/2025/01/11/nx-s1-5256937/biden-pope-francis-medal-of-freedom</link>
-      <description><![CDATA[白宫赞扬教皇方济各致力于服务穷人、倡导和平和保护地球。]]></description>
-      <guid>https://www.npr.org/2025/01/11/nx-s1-5256937/biden-pope-francis-medal-of-freedom</guid>
-      <pubDate>Sat, 11 Jan 2025 22:54:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
