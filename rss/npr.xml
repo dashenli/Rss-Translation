@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 15:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 18:19:05 GMT</lastBuildDate>
+    <item>
+      <title>随着山火持续燃烧，洛杉矶正准备迎接更强劲的大风</title>
+      <link>https://www.npr.org/2025/01/12/nx-s1-5257440/la-wildfires-santa-ana-winds-palisades-eaton</link>
+      <description><![CDATA[随着消防员继续扑灭多起火灾，未来几天更多的圣安娜风可能会增加火灾风险。]]></description>
+      <guid>https://www.npr.org/2025/01/12/nx-s1-5257440/la-wildfires-santa-ana-winds-palisades-eaton</guid>
+      <pubDate>Sun, 12 Jan 2025 17:12:07 GMT</pubDate>
+    </item>
     <item>
       <title>南加州野火摧毁或损坏了许多礼拜堂</title>
       <link>https://www.npr.org/2025/01/12/nx-s1-5254071/southern-california-wildfires-destroy-or-damage-many-houses-of-worship</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[白宫赞扬教皇方济各致力于服务穷人、倡导和平和保护地球。]]></description>
       <guid>https://www.npr.org/2025/01/11/nx-s1-5256937/biden-pope-francis-medal-of-freedom</guid>
       <pubDate>Sat, 11 Jan 2025 22:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国农业部报告发现 Boar's Head 李斯特菌爆发是由于卫生习惯不良</title>
-      <link>https://www.npr.org/2025/01/11/nx-s1-5256921/boars-head-listeria-outbreak-usda-investigation</link>
-      <description><![CDATA[农业部发布的一份报告发现，弗吉尼亚州 Boar&#39;s Head 一家工厂的卫生条件不佳导致了自 2011 年以来最大规模的李斯特菌疫情。]]></description>
-      <guid>https://www.npr.org/2025/01/11/nx-s1-5256921/boars-head-listeria-outbreak-usda-investigation</guid>
-      <pubDate>Sat, 11 Jan 2025 22:45:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
