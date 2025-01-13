@@ -4,7 +4,14 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:32:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:17:40 GMT</lastBuildDate>
+    <item>
+      <title>索尼新专利：利用人工智能和摄像头判断你接下来要按什么按钮</title>
+      <link>https://www.ign.com/articles/new-sony-patent-could-use-ai-and-a-camera-pointed-at-your-fingers-to-work-out-what-button-youll-press-next</link>
+      <description><![CDATA[索尼提交的一项新专利详细说明了该公司计划如何通过使用借助附加传感器的人工智能模型来减少未来硬件的延迟。]]></description>
+      <guid>https://www.ign.com/articles/new-sony-patent-could-use-ai-and-a-camera-pointed-at-your-fingers-to-work-out-what-button-youll-press-next</guid>
+      <pubDate>Mon, 13 Jan 2025 12:27:58 GMT</pubDate>
+    </item>
     <item>
       <title>真三国无双：起源评论</title>
       <link>https://www.ign.com/articles/dynasty-warriors-origins-review</link>
@@ -27,41 +34,6 @@
       <pubDate>Sun, 12 Jan 2025 20:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>蜜蜂群模拟器代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/bee-swarm-simulator-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/bee-swarm-simulator-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RIVALS 代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/rivals-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/rivals-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>像素塔防代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/pixel-tower-defense-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/pixel-tower-defense-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOORS 代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/doors-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/doors-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>逃避代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/evade-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/evade-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>《谋杀疑云 2 密码》（2025 年 1 月）</title>
       <link>https://www.ign.com/articles/murder-mystery-2-codes</link>
       <description><![CDATA[]]></description>
@@ -76,24 +48,38 @@
       <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>柔术恶作剧代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/jujutsu-shenanigans-codes</link>
-      <description><![CDATA[想要在 Jujutsu Shenanigans 中获得一些免费奖励吗？我们为你准备了所有当前可兑换的代码。]]></description>
-      <guid>https://www.ign.com/articles/jujutsu-shenanigans-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fisch 代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/fisch-codes</link>
-      <description><![CDATA[想在 Fisch 寻找一些免费资源？使用这些可兑换代码可获得免费奖励。]]></description>
-      <guid>https://www.ign.com/articles/fisch-codes</guid>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>驾驶帝国代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/driving-empire-codes</link>
+      <title>蜜蜂群模拟器代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/bee-swarm-simulator-codes</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/driving-empire-codes</guid>
+      <guid>https://www.ign.com/articles/bee-swarm-simulator-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>逃避代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/evade-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/evade-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIVALS 代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/rivals-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/rivals-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOORS 代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/doors-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/doors-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>像素塔防代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/pixel-tower-defense-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/pixel-tower-defense-codes</guid>
       <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -104,10 +90,24 @@
       <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pets Go 有代码吗？（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/pets-go-codes</link>
+      <title>动漫皇家代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/anime-royale-codes</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/pets-go-codes</guid>
+      <guid>https://www.ign.com/articles/anime-royale-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dandy 的世界密码 (2025 年 1 月)</title>
+      <link>https://www.ign.com/articles/dandys-world-codes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.ign.com/articles/dandys-world-codes</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>King Legacy 代码（2025 年 1 月）</title>
+      <link>https://www.ign.com/articles/king-legacy-codes</link>
+      <description><![CDATA[需要 King Legacy 中的一些额外宝石、经验值或属性退款？试用这些代码可获得免费奖励。]]></description>
+      <guid>https://www.ign.com/articles/king-legacy-codes</guid>
       <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>

@@ -4,7 +4,39 @@
     <title>侧边栏</title>
     <link>https://archive.sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:20:19 GMT</lastBuildDate>
+    <item>
+      <title>规范性和描述性信息架构</title>
+      <link>https://jarango.com/2025/01/09/prescriptive-and-descriptive-information-architecture/</link>
+      <description><![CDATA[网站和应用程序中的两种语言方法以及它们如何影响可理解性和可查找性。
+]]></description>
+      <guid>https://jarango.com/2025/01/09/prescriptive-and-descriptive-information-architecture/</guid>
+      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个代币都是一个功能</title>
+      <link>https://daverupert.com/2024/12/every-token-is-a-feature/</link>
+      <description><![CDATA[我正在进行一个设计令牌项目，我想分享一些显而易见的事情：每个设计令牌都是一个功能。
+]]></description>
+      <guid>https://daverupert.com/2024/12/every-token-is-a-feature/</guid>
+      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个前端开发人员都应该知道的可访问性基础知识</title>
+      <link>https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know</link>
+      <description><![CDATA[前端开发人员必备的可访问性实践，包括语义 HTML、替代文本、ARIA 和键盘导航技巧。
+]]></description>
+      <guid>https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know</guid>
+      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器适配</title>
+      <link>https://garden.bradwoods.io/notes/creative/browser-adaptation</link>
+      <description><![CDATA[故事经常从其原始媒介改编为另一种媒介。本文探讨了浏览器提供的机会。
+]]></description>
+      <guid>https://garden.bradwoods.io/notes/creative/browser-adaptation</guid>
+      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>1000 行代码概括操作系统</title>
       <link>https://operating-system-in-1000-lines.vercel.app/en/</link>
@@ -91,38 +123,6 @@
       <description><![CDATA[目前有如此多的流行语和最佳实践，但让我们关注一些更基本的东西。
 ]]></description>
       <guid>https://minds.md/zakirullin/cognitive</guid>
-      <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>月亮</title>
-      <link>https://ciechanow.ski/moon/</link>
-      <description><![CDATA[关于月球的互动文章。
-]]></description>
-      <guid>https://ciechanow.ski/moon/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>仪表板设计何去何从？</title>
-      <link>https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/</link>
-      <description><![CDATA[仪表板的糟糕状态 确实如此：我们今天用于进行操作诊断工作的仪表板……可以说是次优的。 
-]]></description>
-      <guid>https://surfingcomplexity.blog/2024/12/22/whither-dashboard-design/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片处理：实验</title>
-      <link>https://photo-manipulate.netlify.app/</link>
-      <description><![CDATA[使用悬停和涟漪效果处理图像。
-]]></description>
-      <guid>https://photo-manipulate.netlify.app/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>刺激点击器</title>
-      <link>https://neal.fun/stimulation-clicker/</link>
-      <description><![CDATA[Neal Agarwal 的另一件精美作品。
-]]></description>
-      <guid>https://neal.fun/stimulation-clicker/</guid>
       <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>

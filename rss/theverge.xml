@@ -4,7 +4,97 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Jan 2025 09:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:18:10 GMT</lastBuildDate>
+    <item>
+      <title>为什么首席执行官 Matt Garman 愿意将赌注押在 AWS 的 AI 上</title>
+      <link>https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview</link>
+      <description><![CDATA[
+
+The Verge 提供的照片插图 / 照片：亚马逊
+
+AWS 首席执行官 Matt Garman 表示，亚马逊已经看到了其大规模 AI 投资带来的好处。 
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/24338171/aws-ceo-matt-garman-ai-chips-anthropic-cloud-computing-trainium-decoder-podcast-interview</guid>
+      <pubDate>Mon, 13 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 的新 AI 工具可一键编辑 10,000 张图像</title>
+      <link>https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability</link>
+      <description><![CDATA[
+
+图片：Adobe
+
+Adobe 正在推出新的生成式 AI 工具，可以自动执行劳动密集型生产任务，例如编辑大量图像和翻译视频演示文稿。最值得注意的是“Firefly Bulk Create”，这款应用允许用户快速调整多达 10,000 张图片的大小，或者只需单击一下即可替换所有背景，而无需逐一编辑每张图片。
+该工具由 Adob​​e 为开发人员提供的多个 Firefly 驱动 API 组合而成，旨在让缺乏技术编码经验的创意人员更容易使用它们。 Bulk Create 今日推出测试版，并在 Adobe 的 Firefly 网页应用上分为两个独立的工具：“删除背景”和“调整大小”。第一个功能非常直观——用户可以从计算机、Dropbox 或 Adob​​e Experience Manager 将图像文件上传到该工具中，然后快速删除背景。
+它应该适用于任何图像，但对产品营销人员来说尤其有用。除了删除背景之外，用户还可以设置该工具以用特定图像或颜色（由十六进制代码定义）替换背景，以获得每个图像的变体，以供进一步编辑。文件批次目前可以保存为 PNG 或 JPEG，Adobe 表示将来会添加对 Photoshop PSD 文件的支持。
+
+
+图片：Adobe
+“调整大小”的背景扩展可能适用于此类抽象图像，但该工具似乎难以处理照片。
+
+“调整大小”工具提供了一系列预设选项，适用于流行的广告横幅尺寸和 TikTok、Instagram 和 Facebook 等平台。它使用生成式人工智能来拉伸图像背景以适应这些所需的尺寸，但我看到的演示并不是特别鼓舞人心——有很多明显的扭曲，其中一个例子奇怪地复制并模糊了前景中的酒杯。不过，对于简单的背景，它可以让平面设计师不必为每个平台手动调整营销资产的大小。虽然 Canva 和 Adobe Express 等服务也有简化此操作的工具，但 Bulk Create 只需单击一下即可完成。
+Adobe 将在未来几周内为 Firefly Services 提供一些新的开发人员 API，开发人员可以使用这些 API 来加快视频和印刷制作工作流程。“配音和唇形同步”可以将视频音频的唇形动作翻译和编辑成 14 种不同的语言，而新的 InDesign 工具可以使用预定义的模板自动格式化用于印刷和数字媒体的文本和图像。使用文本描述和语音录制创建的“数字化身”也将于本月推出测试版，可用于展示视频和产品说明。
+编辑 10,000 张图像所需的电量可能非常昂贵。Adobe 表示，使用这些新工具将根据“消费”收取费用 - 这可能意味着用户需要支付高级 Adob​​e Firefly 计划，该计划提供生成积分，然后可以“花费”在这些功能上。]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability</guid>
+      <pubDate>Mon, 13 Jan 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastodon 的首席执行官兼创始人将把控制权移交给一家新的非营利组织</title>
+      <link>https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+去中心化社交网络 Mastodon 已宣布计划将其所有权转让给一家新的非营利实体。 Mastodon 的所有权将不再由首席执行官 Eugen Rochko 控制，这与 Meta 联合创始人 Mark Zuckerberg 和 X 所有者 Elon Musk 等其他社交媒体首席执行官所施加的权力形成鲜明对比。
+“简单地说，我们将把 Mastodon 生态系统和平台关键组件的所有权转让给一个新的非营利组织，”Mastodon 在博客文章中表示，“确认 Mastodon 不应由单个个人拥有或控制。”
+2016 年创立 Mastodon 的 Rochko 将担任一个专注于产品战略的新角色，而所有权将转移到位于欧洲某处的新非营利组织，具体位置尚待确定。该组织目前总部位于德国，在去年被剥夺慈善地位之前，它一直是一家非营利组织。此举是恢复 Rochko 创建 Mastodon 初衷的一种方式。
+“当创始人 Eugen Rochko 开始研究 Mastodon 时，他的重点是创建他所设想的那种社交媒体的代码和条件，”Mastodon 说。“法律设置是一种手段，是一种让他继续运营的快速解决方案。从一开始，他就宣布 Mastodon 不会出售，不会受到单个富人的控制，他可以确保这一点，因为他是掌控者，是唯一的最终决策者。”
+短期内，对用户来说应该不会有任何改变。 Mastodon 将继续托管 mastodon.social 和 mastodon.online 服务器并支持其联合网络。常规代码开发和错误修复正在进行中，但公告补充说“变化肯定正在酝酿中”。
+“我们的核心使命保持不变：创建工具和数字空间，让人们可以建立真实的、建设性的在线社区，不受广告、数据利用、操纵算法或企业垄断的影响，”Mastodon 说。
+Mastodon 的公告发布之际，WordPress 开源项目及其联合创始人陷入了长达数月的法律纠纷，而 Meta 的扎克伯格因剥夺 Facebook 和 Instagram 的事实核查和内容审核，然后向 Joe Rogan 撒谎。]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko</guid>
+      <pubDate>Mon, 13 Jan 2025 13:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 大力赞扬特朗普，严厉回应拜登的新 AI 芯片限制</title>
+      <link>https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions</guid>
+      <pubDate>Mon, 13 Jan 2025 13:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 临时首席执行官在给员工的第一封信中表达了正确观点</title>
+      <link>https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342354/sonos-interim-ceo-tom-conrad-employee-letter</guid>
+      <pubDate>Mon, 13 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 应用程序惨败：一个伟大的音频品牌如何几乎毁掉自己的声誉</title>
+      <link>https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story</link>
+      <description><![CDATA[
+
+图片：Sonos
+
+2024 年，Sonos 给大家上了一堂宝贵的课，告诉大家推出重新设计的应用最糟糕的方式是什么。它发布得太早、漏洞太多、而且太粗心了。 2024 年 5 月，Sonos 发布了一款完全重建和改造的 Android 和 iOS 移动应用程序。新软件旨在提高性能，使应用程序感觉更具可定制性，并允许将来添加新功能。但客户立即抱怨了无数的错误、Sonos 扬声器系统性能下降以及缺失的功能。
+这场争议实际上破坏了 Sonos 在许多客户中的声誉。此后的几个月里，Sonos 一直努力重新赢得他们的信任，解决重新设计的应用程序的问题，并恢复发布时没有的功能。该公司仍未从巨大的错误中完全恢复过来。2025 年 1 月 13 日，Sonos 宣布首席执行官帕特里克·斯宾塞将辞职，因为他无法扭转局面。]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story</guid>
+      <pubDate>Mon, 13 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 首席执行官帕特里克·斯宾塞因应用程序发布失败而辞职</title>
+      <link>https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app</guid>
+      <pubDate>Mon, 13 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>皮特·布蒂吉格在卸任前有几句话要说</title>
+      <link>https://www.theverge.com/2025/1/13/24338378/pete-buttigieg-dot-interview-ev-sales-trump-musk</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/13/24338378/pete-buttigieg-dot-interview-ev-sales-trump-musk</guid>
+      <pubDate>Mon, 13 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>新格伦：蓝色起源的大型火箭发射被取消</title>
       <link>https://www.theverge.com/2025/1/11/24339813/blue-origin-new-glenn-rocket-launch-how-to-watch-time-date</link>
@@ -27,131 +117,6 @@
 阅读 The Verge 上的完整故事。]]></description>
       <guid>https://www.theverge.com/2025/1/12/24342138/mark-zuckerberg-meta-want-donald-trump</guid>
       <pubDate>Sun, 12 Jan 2025 18:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人吸尘器持续增长</title>
-      <link>https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025</link>
-      <description><![CDATA[
-
-Roborock 的 Saros Z70 有望成为首款上市的带铰接臂的扫地机器人。它旨在拾取袜子和纸巾等轻质物品。（非实际尺寸） |照片由 Jennifer Pattison Tuohy / The Verge 拍摄
-
-CES 上，Roborock 和 Dreame 推出了疯狂的创新，其他产品也推出了有益的升级，所有这些都将使 2025 年成为那些宁愿把清洁工作留给机器人的人的丰收年。
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025</guid>
-      <pubDate>Sun, 12 Jan 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone Air 可能会在今年晚些时候上市</title>
-      <link>https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-据彭博社的 Mark Gurman 在 今天的Power On新闻通讯。他写道，这款手机将成为“未来技术的试验场”，包括该公司首款可折叠手机的技术。
-这个名字并不奇怪——MacBook Air 和 iPad Air 在发布时都是其产品线中最薄的版本。古尔曼写道，iPhone 17 Air 预计将延续这一特点，比目前的 iPhone“薄约 2 毫米”。其他最近的传言称其厚度在 5.5 毫米至 6.25 毫米之间，接近 M4 iPad Pro 的厚度，小于迄今为止最薄的 iPhone iPhone 6。
-
-薄度不仅仅是一种表现——意识到它将帮助苹果在未来推出可折叠的 iPad 和 iPhone，Gurman 写道。他表示，这款手机可能成为苹果公司自研蜂窝调制解调器（代号为 Sinope）的首批试验场之一，该调制解调器将于今年春季在 iPhone SE 上首次亮相。今年的 iPhone 系列还有望首次推出 Apple 设计的 Wi-Fi / 蓝牙芯片，不过 Gurman 并没有说 17 Air 也包括在内。
-过去有传言称，新款 17 Air 将配备 6.6 英寸 ProMotion OLED 显示屏 - Apple 的 120Hz 可变刷新率屏幕，目前仅在 iPhone Pro 机型上使用 - 并且背面只有一个单个 48 万像素摄像头镜头，以及一个 24 万像素自拍相机。它可能配备 Apple 的 A19 芯片，并且与 iPhone SE 4一样，预计将配备 8GB RAM 来运行 Apple Intelligence AI 功能。]]></description>
-      <guid>https://www.theverge.com/2025/1/12/24341960/apple-iphone-17-air-slim-foldable-wi-fi-cell-modem</guid>
-      <pubDate>Sun, 12 Jan 2025 15:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 iPhone 上关闭 Apple Intelligence</title>
-      <link>https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to</link>
-      <description><![CDATA[
-
-Samar Haddad / The Verge 插图
-
-打开手机或笔记本电脑时，越来越难以避免使用人工智能——当我在 Google Docs 上开始写这篇文章时，有人立即向我提供了一些人工智能帮助来撰写它（我没有接受）。随着Apple Intelligence的推出，该功能现在也适用于 iPhone、iPad 和 Mac。
-但如果您没有看到迄今为止推出的 Apple Intelligence 功能有多大价值，那么您并不孤单：根据最近的一项调查，大约四分之三的 iPhone 用户不明白为什么会有这么多的争议。还值得一提的是，这些 AI 附加组件在您想要使用它们的每台设备上都会占用 7GB 的本地存储空间（并且还在增加）。
-好消息是，Apple Intelligence 既是可选的，又相当容易禁用，这并不是每家公司对其 AI 工具都会做的事情（看看你，谷歌和微软）。因此，如果您发现写作工具和混乱的通知摘要等功能不符合您的需求，您可以将其关闭。
-假设您已经将其打开，以下是如何关闭 Apple Intelligence 的特定功能。如果你真的不喜欢它，可以按照以下方法将其完全关闭。
-（下面列出的步骤是...
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to</guid>
-      <pubDate>Sun, 12 Jan 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧莱雅的新护肤小工具告诉我应该尝试视黄醇</title>
-      <link>https://www.theverge.com/2025/1/12/24340488/loreal-cell-bioprint-hands-on-ces-2025-beauty-tech</link>
-      <description><![CDATA[
-
-Cell BioPrint 专为零售空间和皮肤科诊所设计。  | 照片由 Victoria Song / The Verge 拍摄
-
-拉斯维加斯天气极度干燥。干燥的冬季空气意味着我在 CES 2025 的第 3 天醒来时，鼻子流血、嘴唇干裂、双腿发灰。尽管如此，我还是给自己涂了两泵发酵豆精华、眼霜、保湿霜和唇膜。盯着酒店镜子里的脸，我想知道这些产品是否有它们应该发挥的作用——如果可能的话，我应该尝试一些不同的东西。
-这就是为什么我如此渴望尝试欧莱雅的 Cell BioPrint。 
-对于那些为肤色问题而苦恼的人来说，Cell BioPrint 就像是一个圣杯小工具。该设备是一个迷你实验室装置，可以分析皮肤样本以生成有关您皮肤当前状况的报告。它还会根据油性、皱纹、皮肤屏障功能、毛孔大小和肤色不均对您的皮肤进行“评级”。根据您皮肤中的蛋白质，您还会发现自己以后是否更容易受到这些问题的影响——即使它们现在不是问题。该测试还可以确定您是否对视黄醇有反应，视黄醇是一种流行且经过充分研究的护肤成分，但在网上却引起了很多混乱。 
-
-
-照片由 Victoria Song / The Verge 拍摄
-...
-
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/2025/1/12/24340488/loreal-cell-bioprint-hands-on-ces-2025-beauty-tech</guid>
-      <pubDate>Sun, 12 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 CES 上最棒的实物</title>
-      <link>https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer</link>
-      <description><![CDATA[
-
-
-嗨，朋友们！欢迎阅读Installer第 66 期，这是您了解世界上最好、最Verge东西的指南。 （如果您是新来的，欢迎您，祝您 2025 年快乐，您也可以在 Installer 主页 阅读所有旧版本。）
-本周，我一直在阅读有关 孤独 和 Web3 骗局 和 程序电视的未来，观看死侍&amp;金刚狼 按照导演的意图坐在飞机上，重新观看Severance 和Squid Game 为第二季做准备，热切地等待Kids Baking Championship的回归，想知道这是否是真正的 Sara Dietschy 或 AI Sara Dietschy，并尝试订阅 Apple News Plus 作为我的首选新闻来源。 
-我还为您带来了拉斯维加斯 CES 的重要报道。本期 Installer 与大多数版本略有不同，因为我们看到了很多新产品，也推出了很多新产品，而且在很多情况下，很难知道其中是否有任何产品会上架。因此，请将其视为 Installer、CES 回顾、“David 迫切希望这些东西真正出货”列表的一部分。但我努力挑选出那些我相信很快就会在某个时候上市并且可能物有所值的东西。我确信我会错上几步...
-在 The Verge 上阅读完整故事。]]></description>
-      <guid>https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer</guid>
-      <pubDate>Sun, 12 Jan 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watch Duty 的野火追踪应用程序如何成为洛杉矶的重要生命线</title>
-      <link>https://www.theverge.com/2025/1/11/24340913/watch-duty-wildfire-tracking-app-los-angeles-nonprofit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/11/24340913/watch-duty-wildfire-tracking-app-los-angeles-nonprofit</guid>
-      <pubDate>Sat, 11 Jan 2025 20:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊 Prime 将关闭其服装试穿计划</title>
-      <link>https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down</link>
-      <description><![CDATA[
-
-插图：Alex Castro / The Verge
-
-据 The Information 报道，亚马逊将逐步取消 Prime Try Before You Buy 计划，该计划允许 Prime 会员在付款前试穿衣服。 根据该服务登陆页面顶部的横幅显示，该服务将于 1 月 31 日关闭。
-亚马逊发言人 Maxine Tagay 表示在发给The Verge的一份声明中，该公司将停止这项服务，因为它只适用于“有限数量的商品”，而客户“越来越多地使用我们新的人工智能功能”来决定购买什么。 
-Tagay 举了一些例子，比如虚拟试穿 AR 功能，该功能可以使用智能手机的摄像头将某些品牌的鞋子的 3D 渲染图放在你的脚上。。她还提到了该公司由法学硕士 (LLM) 提供支持的“个性化尺码推荐”，该推荐可根据客户评论调整尺码推荐。。。
-Prime 先试后买 于 2018 年面向所有 Prime 订阅者推出，当时名为 Amazon Wardrobe，后来公司更名。通过它，Prime 会员可以订购最多六件商品，试用七天，然后支付合适的商品费用，并寄回剩余的商品——就像 Stitch Fix 精选服装服务的一个非常基础的版本。但其中很大一部分是退货，这是该公司一直在试图削减的一项业务。
-Prime Try Before You Buy 服务的停止是该公司多年来削减成本的结果，因为CNBC指出。其中包括大规模裁员和关闭实体店，以及缩减其在杂货行业的一些努力。
-以下是 Tagay 向The Verge提供的完整声明：
-鉴于“先试后买”仅扩展到有限数量的商品，并且客户越来越多地使用我们新的人工智能功能，例如虚拟试穿、个性化尺寸推荐、评论亮点和改进的尺寸图表以确保他们找到合适的尺码，我们将逐步淘汰“先试后买”选项，自 2025 年 1 月 31 日起生效。当然，客户将继续享受快速、免费送货服务，并可轻松、免费退货，享受我们全套服装选择。
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/11/24341422/amazon-prime-wardrobe-try-before-you-buy-shutting-down</guid>
-      <pubDate>Sat, 11 Jan 2025 17:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anker 在 CES 上展示的壁式充电器现已发售</title>
-      <link>https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale</link>
-      <description><![CDATA[
-
-Anker 最新的 GaN 产品在底部有四个 USB 端口，而这并不是它们通常放置的位置。 |图片：Anker
-
-CES 上那些新颖的小玩意儿和小发明通常可以定义一年，但大多数出现在展厅里的东西要到今年晚些时候才会上市，甚至根本不会上市。幸运的是，Anker 的 140W GaN 充电器并非如此，黑色和银色款现已上市，售价 79.99 美元（优惠 10 美元），只需在亚马逊上剪下页面上的优惠券即可购买，或者在亚马逊上使用促销代码 WSCPV2LBR7KR 即可购买。 href=&quot;https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa2697-anker-charger-140w-4-port%3Fvariant%3D44320558055574&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2025%2F1%2F11%2F24339256%2Fanker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale&quot; rel=&quot;sponsored nofollow noopener&quot; target=&quot;_blank&quot;&gt;Anker 的在线店面。
-
-在今年 CES 上推出的所有充电器中，Anker 充电器 (140W) 无疑是最令人耳目一新的设计之一。这款壁式充电器的独特之处在于，它将四个 USB 端口都放置在设备底部，从而重新调整了重心，有助于防止在装载沉重的电缆时掉落。其中两个端口是 USB-C 端口，可提供高达 140W 的功率 - 可让您为从 Nintendo Switch 到最新的 MacBook Pro 的所有设备充电 - 而第三个 USB-C 端口最大功率为 40W。它还具有一个限制为 33W 的 USB-A 端口，以及一个内置信息显示屏，用于查看温度数据和每个端口的功率输出。
-
-本周末更多省钱方法
-
-
-亚马逊 正在以 49.99 美元（优惠 20 美元）的价格出售其智能空气质量监测器，仅比迄今为止的最佳价格高出 5 美元。这款小巧的设备使用电话和语音警报（通过 Echo 扬声器）在检测到颗粒物、挥发性有机化合物、一氧化碳、湿度和温度的异常变化时通知您。它甚至可以自动触发支持 Alexa 的空气净化器以及加湿器和其他连接设备。
-
-三星经济实惠的 Galaxy Buds FE 在亚马逊上的售价降至 59.99 美元（优惠 40 美元），几乎与迄今为止的最低价持平。如果您不太在意多点支持和无线充电，那么它们是一个不错的选择，因为它们提供可靠的性能、令人愉悦的声音和令人惊讶的良好降噪效果，而且价格实惠。它们还采用翼尖设计，如果您难以佩戴传统入耳式耳机，它可以提供更安全的佩戴。阅读我们的评论。
-
-注意：Quentyn Kennemer 也为这篇文章做出了贡献。]]></description>
-      <guid>https://www.theverge.com/2025/1/11/24339256/anker-charger-140-watt-amazon-smart-air-quality-monitor-deal-sale</guid>
-      <pubDate>Sat, 11 Jan 2025 17:32:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
