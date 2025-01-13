@@ -4,15 +4,7 @@
     <title>侧边栏</title>
     <link>https://archive.sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:25:25 GMT</lastBuildDate>
-    <item>
-      <title>探索与执行</title>
-      <link>https://longform.asmartbear.com/explore-execute/</link>
-      <description><![CDATA[两种主要业务模式的差异比您预期的要大。当您达到 PMF 时，从一种模式切换到另一种模式需要经历文化转变。
-]]></description>
-      <guid>https://longform.asmartbear.com/explore-execute/</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jan 2025 21:16:46 GMT</lastBuildDate>
     <item>
       <title>规范性和描述性信息架构</title>
       <link>https://jarango.com/2025/01/09/prescriptive-and-descriptive-information-architecture/</link>
@@ -124,6 +116,14 @@
 ]]></description>
       <guid>https://willwhitney.com/computing-inside-ai.html</guid>
       <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>认知负荷才是最重要的</title>
+      <link>https://minds.md/zakirullin/cognitive</link>
+      <description><![CDATA[目前有如此多的流行语和最佳实践，但让我们关注一些更基本的东西。
+]]></description>
+      <guid>https://minds.md/zakirullin/cognitive</guid>
+      <pubDate>Wed, 08 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
