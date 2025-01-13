@@ -4,7 +4,14 @@
     <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 21:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:19:15 GMT</lastBuildDate>
+    <item>
+      <title>如何创建蛇年文字效果</title>
+      <link>https://design.tutsplus.com/tutorials/how-to-create-a-year-of-the-snake-text-effect--cms-109082</link>
+      <description><![CDATA[]]></description>
+      <guid>https://design.tutsplus.com/tutorials/how-to-create-a-year-of-the-snake-text-effect--cms-109082</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 Spline 中创建动画 3D 气泡文本效果</title>
       <link>https://design.tutsplus.com/tutorials/how-to-create-an-animated-3d-bubble-text-effect-in-spline--cms-109065</link>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>色彩作为设计的基本元素</title>
+      <title>颜色作为设计的基本元素</title>
       <link>https://design.tutsplus.com/tutorials/elements-of-design-color--cms-109070</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/elements-of-design-color--cms-109070</guid>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-draw-cow-print-in-illustrator--cms-109042</guid>
       <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 HTML、CSS 和 Vanilla JavaScript 构建四子棋游戏</title>
-      <link>https://webdesign.tutsplus.com/connect-four-game-in-html-css-and-vanilla-javascript--cms-109043t</link>
-      <description><![CDATA[]]></description>
-      <guid>https://webdesign.tutsplus.com/connect-four-game-in-html-css-and-vanilla-javascript--cms-109043t</guid>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
