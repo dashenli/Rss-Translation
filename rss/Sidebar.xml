@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 14 Jan 2025 12:33:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 15:18:34 GMT</lastBuildDate>
+    <item>
+      <title>界面地理</title>
+      <link>https://www.chrbutler.com/the-geography-of-interface</link>
+      <description><![CDATA[我们像在物理空间中一样浏览数字空间。我们“访问”网站、“进入”页面、在应用程序中“迷失”，然后找到“回去”的路。
+]]></description>
+      <guid>https://www.chrbutler.com/the-geography-of-interface</guid>
+      <pubDate>Tue, 14 Jan 2025 13:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年你应该了解的 HTML 新知识</title>
+      <link>https://frontendmasters.com/blog/bone-up-html-2025/</link>
+      <description><![CDATA[手风琴细节、拨动开关、可设置样式的选择、响应式视频等等。
+]]></description>
+      <guid>https://frontendmasters.com/blog/bone-up-html-2025/</guid>
+      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>等宽字体中的连字造型</title>
+      <link>https://joshleeb.com/posts/monospace-ligatures.html</link>
+      <description><![CDATA[整形是将文本（在我们的例子中为 UTF-8 代码点）转换为要呈现的带有位置信息的字形序列的过程。
+]]></description>
+      <guid>https://joshleeb.com/posts/monospace-ligatures.html</guid>
+      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要再试图安排与我通话</title>
+      <link>https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</link>
+      <description><![CDATA[对于我来说，尝试新服务或新产品时最大的障碍之一就是随之而来的不可避免的骚扰。来自 SaaS 的骚扰。
+]]></description>
+      <guid>https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</guid>
+      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>1-bit.day</title>
+      <link>https://1-bit.day/prompt/2025-01-14</link>
+      <description><![CDATA[每天创作单色像素艺术。加入艺术家社区，分享他们每天的 1 位创作。
+]]></description>
+      <guid>https://1-bit.day/prompt/2025-01-14</guid>
+      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>探索与执行</title>
       <link>https://longform.asmartbear.com/explore-execute/</link>
@@ -70,7 +110,7 @@
       <pubDate>Fri, 10 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>消化</title>
+      <title>吉廷格斯特</title>
       <link>https://gitingest.com/</link>
       <description><![CDATA[将任意 Github Url 中的‘hub’替换为‘ingest’，即可获得提示友好的文本。
 ]]></description>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://pdimagearchive.org/</guid>
       <pubDate>Fri, 10 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用AI进行人脸修复</title>
-      <link>https://wangzhiyaoo.github.io/SVFR/</link>
-      <description><![CDATA[通用视频人脸修复统一框架。
-]]></description>
-      <guid>https://wangzhiyaoo.github.io/SVFR/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计工件</title>
-      <link>https://robinrendle.com/notes/design-artifacts/</link>
-      <description><![CDATA[少点舞蹈，多点设计。
-]]></description>
-      <guid>https://robinrendle.com/notes/design-artifacts/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计彰显尊严</title>
-      <link>https://www.designweek.co.uk/dignity-by-design-dr-patricia-moore-on-true-inclusivity/</link>
-      <description><![CDATA[Patricia (Pattie) Moore 博士是包容性设计的创始人之一，她现在表示是时候抛弃这些术语了。
-]]></description>
-      <guid>https://www.designweek.co.uk/dignity-by-design-dr-patricia-moore-on-true-inclusivity/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 的自动化可访问性测试</title>
-      <link>https://slack.engineering/automated-accessibility-testing-at-slack/</link>
-      <description><![CDATA[产品团队遵循某些标准，以保证其功能符合 Web 内容可访问性指南 (WCAG)。
-]]></description>
-      <guid>https://slack.engineering/automated-accessibility-testing-at-slack/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能内部计算</title>
-      <link>https://willwhitney.com/computing-inside-ai.html</link>
-      <description><![CDATA[将人工智能视为工具而不是人意味着什么？
-]]></description>
-      <guid>https://willwhitney.com/computing-inside-ai.html</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

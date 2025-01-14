@@ -4,7 +4,28 @@
     <title>IGN 文章</title>
     <link>https://www.ign.com/articles</link>
     <description>此提要包含 IGN 关于游戏的最新 20 篇文章</description>
-    <lastBuildDate>Tue, 14 Jan 2025 12:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 15:16:01 GMT</lastBuildDate>
+    <item>
+      <title>《大金刚国度归来》高清评论</title>
+      <link>https://www.ign.com/articles/donkey-kong-country-returns-hd-review</link>
+      <description><![CDATA[这是一款令人惊叹的平台游戏的还算过得去的重制版。]]></description>
+      <guid>https://www.ign.com/articles/donkey-kong-country-returns-hd-review</guid>
+      <pubDate>Tue, 14 Jan 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Halo 终于有望在今年登陆 PlayStation</title>
+      <link>https://www.ign.com/articles/halo-finally-looks-set-to-make-the-jump-to-playstation-this-year</link>
+      <description><![CDATA[微软似乎准备首次在竞争平台上推出其旗舰 Xbox 视频游戏系列 Halo，包括 PlayStation 和 Nintendo Switch 2。]]></description>
+      <guid>https://www.ign.com/articles/halo-finally-looks-set-to-make-the-jump-to-playstation-this-year</guid>
+      <pubDate>Tue, 14 Jan 2025 13:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>预测 Switch 2 的首发游戏</title>
+      <link>https://www.ign.com/articles/predicting-the-switch-2-launch-games</link>
+      <description><![CDATA[从马里奥到银河战士，我们预测哪些游戏可能与 Nintendo Switch 2 一起发布。]]></description>
+      <guid>https://www.ign.com/articles/predicting-the-switch-2-launch-games</guid>
+      <pubDate>Tue, 14 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>据报道，所有游戏都将在 Nintendo Switch 2 上发布</title>
       <link>https://www.ign.com/articles/all-the-games-reportedly-set-for-release-on-nintendo-switch-2</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[对于新手来说这是一个很好的切入点，对于该系列的老玩家来说这又是一个凯旋的回归。]]></description>
       <guid>https://www.ign.com/articles/dynasty-warriors-origins-review</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在第一季停播后，《漫威对决》玩家仍冒着账号被封的风险修改游戏</title>
-      <link>https://www.ign.com/articles/marvel-rivals-players-are-risking-account-bans-to-mod-the-game-even-after-season-1-clampdown</link>
-      <description><![CDATA[即使在第 1 季发布后受到限制，《漫威对决》 (Marvel Rivals) 玩家如果继续使用模组，则面临账号被封禁的风险。]]></description>
-      <guid>https://www.ign.com/articles/marvel-rivals-players-are-risking-account-bans-to-mod-the-game-even-after-season-1-clampdown</guid>
-      <pubDate>Mon, 13 Jan 2025 09:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>蜜蜂群模拟器代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/bee-swarm-simulator-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/bee-swarm-simulator-codes</guid>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>像素塔防代码（2025 年 1 月）</title>
-      <link>https://www.ign.com/articles/pixel-tower-defense-codes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.ign.com/articles/pixel-tower-defense-codes</guid>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
