@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 01:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 03:16:39 GMT</lastBuildDate>
+    <item>
+      <title>韩国执法人员拘留被弹劾的总统尹永哲</title>
+      <link>https://www.npr.org/2025/01/14/nx-s1-5260238/south-korea-president-yoon-suk-yeol-detained</link>
+      <description><![CDATA[数百名执法人员进入住宅区，第二次试图拘捕尹某，理由是尹某上个月实施了戒严。大约三个小时后，尹某被拘留。]]></description>
+      <guid>https://www.npr.org/2025/01/14/nx-s1-5260238/south-korea-president-yoon-suk-yeol-detained</guid>
+      <pubDate>Wed, 15 Jan 2025 02:44:46 GMT</pubDate>
+    </item>
     <item>
       <title>SEC 起诉伊隆·马斯克，称其在购买前未及时披露 Twitter 所有权</title>
       <link>https://www.npr.org/2025/01/14/nx-s1-5260229/sec-sues-elon-musk-twitter-stock-x</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[詹姆斯·韦伯太空望远镜发现的一个宇宙物体让天文学家们困惑不已。现在，一个研究小组研究了数百个这样的“小红点”，并找到了有关它们身份的线索。]]></description>
       <guid>https://www.npr.org/2025/01/14/nx-s1-5258907/james-webb-space-telescopes-little-red-dots-come-into-focus</guid>
       <pubDate>Tue, 14 Jan 2025 17:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>两架客机在凤凰城上空危险地接近</title>
-      <link>https://www.npr.org/2025/01/14/nx-s1-5259676/faa-investigation-near-collision-phoenix-delta-united</link>
-      <description><![CDATA[两架客机在凤凰城降落时险些发生空中相撞，美国联邦航空管理局 (FAA) 正在再次调查美国某主要机场发生的一起险情。]]></description>
-      <guid>https://www.npr.org/2025/01/14/nx-s1-5259676/faa-investigation-near-collision-phoenix-delta-united</guid>
-      <pubDate>Tue, 14 Jan 2025 17:52:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
