@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Tue, 14 Jan 2025 01:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 15:17:34 GMT</lastBuildDate>
+    <item>
+      <title>苹果历史上的成功导致了它最近的失败（Macworld/Jason Snell）</title>
+      <link>https://www.macworld.com/article/2577072</link>
+      <description><![CDATA[
+确实，苹果从濒临破产到成为世界上最有价值的公司之一，这是一个可以载入商业史册的故事。但正如传奇足球教练约翰·马登经常说的那样，“胜利是最好的除臭剂。”…]]></description>
+      <guid>https://www.macworld.com/article/2577072</guid>
+      <pubDate>Wed, 15 Jan 2025 15:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级 546：头条新闻势利小人</title>
       <link>https://sixcolors.com/podcast/2025/01/upgrade-546-headline-snob/</link>
@@ -117,14 +125,6 @@ Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该�
 周日是 Mac OS X 发布 25 周年纪念日，没错，我为 Macworld 写了封面故事。当我正在准备一篇即将发表的文章来庆祝这个周年纪念日时，我问我的朋友 James Thomson，他是否有关于他在 Dock 上工作经历的优秀链接，Dock 是作为该活动的一部分发布的。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/25-years-since-the-docks-debut/</guid>
       <pubDate>Sun, 05 Jan 2025 08:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）PowerPhotos</title>
-      <link>https://sixcolors.com/sponsor/2025/01/powerphotos-the-ultimate-toolbox-for-photos-on-the-mac-merge-or-split-photos-libraries-and-eliminate-duplicate-photos/</link>
-      <description><![CDATA[感谢 Fat Cat Software 的 PowerPhotos 本周赞助 Six Colors。
-我花了很多时间使用和撰写有关 Apple 的照片应用程序的文章。…]]></description>
-      <guid>https://sixcolors.com/sponsor/2025/01/powerphotos-the-ultimate-toolbox-for-photos-on-the-mac-merge-or-split-photos-libraries-and-eliminate-duplicate-photos/</guid>
-      <pubDate>Fri, 03 Jan 2025 17:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
