@@ -4,11 +4,18 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 15 Jan 2025 06:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:22:54 GMT</lastBuildDate>
+    <item>
+      <title>使用 Three.js 创建生成式艺术品</title>
+      <link>https://tympanus.net/codrops/2025/01/15/creating-generative-artwork-with-three-js/</link>
+      <description><![CDATA[受到 Lygia Clark 的极简几何设计的启发，使用 Three.js 和网格系统开发动态、生成的艺术作品。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/15/creating-generative-artwork-with-three-js/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:31:21 GMT</pubDate>
+    </item>
     <item>
       <title>追踪创造力：Sixelf 的制作过程</title>
       <link>https://tympanus.net/codrops/2025/01/14/tracking-creativity-inside-the-making-of-sixelf/</link>
-      <description><![CDATA[探索 Sixelf 背后的想象过程和创新细节，这是一个让设计师能够展示他们的贡献并直观地展现他们的创造性影响的平台。]]></description>
+      <description><![CDATA[探索 Sixelf 背后的想象过程和创新细节，Sixelf 是一个让设计师能够展示他们的贡献并直观地展现他们的创造性影响的平台。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/14/tracking-creativity-inside-the-making-of-sixelf/</guid>
       <pubDate>Tue, 14 Jan 2025 08:32:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Three.js、GPGPU 和着色器创建交互式粒子效果。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</guid>
       <pubDate>Thu, 19 Dec 2024 10:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 2025 年冬季版：一个绝对“无聊”的网站</title>
-      <link>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</link>
-      <description><![CDATA[了解 Shopify 冬季 &#39;25 版如何将“无聊”变为大胆，提供超过 150 项周到的更新，重新定义可靠性、性能和有趣的创新。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/17/shopify-winter-25-edition-the-boring-site-thats-anything-but/</guid>
-      <pubDate>Tue, 17 Dec 2024 11:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
