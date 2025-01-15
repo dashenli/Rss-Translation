@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>西辛</title>
+    <title>德泽恩</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:14:23 GMT</lastBuildDate>
+    <item>
+      <title>福斯特建筑事务所公布巴西海滨住宅设计</title>
+      <link>https://www.dezeen.com/2025/01/15/foster-partners-designs-tempo-beachfront-hotel-brazil/</link>
+      <description><![CDATA[英国建筑工作室Foster + Partners公布了位于巴西的“起伏”Tempo开发项目的设计，该项目包括一个酒店和公寓面向中央花园。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/15/foster-partners-designs-tempo-beachfront-hotel-brazil/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:34:51 GMT</pubDate>
+    </item>
     <item>
       <title>Designtex 出品的 Wannabe 纺织品</title>
       <link>https://www.dezeen.com/2025/01/15/wannabe-textile-designtex-showroom/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[最新版本我们的 Dezeen Debate 时事通讯介绍了一款便携式电动马达，它无需工具即可将普通自行车转变为电动自行车。立即订阅 Dezeen Debate。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/14/clip-ebike-converter-portable-som-ray-clem-de-alcala-dezeen-debate/</guid>
       <pubDate>Tue, 14 Jan 2025 19:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>理查德·诺伊特拉的住宅是洛杉矶火灾中被烧毁的标志性建筑之一</title>
-      <link>https://www.dezeen.com/2025/01/14/neutra-house-iconic-architecture-lost-during-la-fire/</link>
-      <description><![CDATA[由理查德·诺伊特拉 (Richard Neutra) 和雷·卡普 (Ray Kappe) 设计的房屋是洛杉矶持续不断的大火中烧毁的 12,000 多座建筑之一。这里，我们总结了五个已被摧毁的最重要的建筑。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/14/neutra-house-iconic-architecture-lost-during-la-fire/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:46:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
