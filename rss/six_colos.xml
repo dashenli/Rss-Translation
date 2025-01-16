@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 16 Jan 2025 01:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 18:21:12 GMT</lastBuildDate>
+    <item>
+      <title>将文件夹压缩成单独的档案 ↦</title>
+      <link>https://sixcolors.com/link/2025/01/compress-folders-into-separate-archives/</link>
+      <description><![CDATA[有时解决方案比您想象的要简单。我试图找出一种方法来编写一个快捷方式，以便获取文件夹并将其所有子文件夹压缩到单独的档案中—即…]]></description>
+      <guid>https://sixcolors.com/link/2025/01/compress-folders-into-separate-archives/</guid>
+      <pubDate>Thu, 16 Jan 2025 18:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>计算很长列表中的几乎重复项</title>
       <link>https://sixcolors.com/post/2025/01/counting-almost-duplicates-in-very-long-lists/</link>
@@ -69,7 +76,7 @@ Watch Duty 在科技界独树一帜，因为它不关心用户参与度、花费
       <pubDate>Fri, 10 Jan 2025 23:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）下游 86：富布鲁努</title>
+      <title>（播客）下游 86：Fubulunu</title>
       <link>https://sixcolors.com/podcast/2025/01/downstream-86-fubulunu/</link>
       <description><![CDATA[威尔·卡罗尔 (Will Carroll) 加入大型体育角：Fubo 与 Hulu 携手启用 Venu，Netflix 全力进军体育直播，足球如何主宰美国电视，NFL 播音员以及我们的电视节目精选！…]]></description>
       <guid>https://sixcolors.com/podcast/2025/01/downstream-86-fubulunu/</guid>
@@ -114,14 +121,6 @@ Late Night Software 的 Mark Alldritt 和 Shane Stanley：
 我们宣布 Script Debugger 作为一个产品停用。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/after-30-years-script-debugger-is-being-retired/</guid>
       <pubDate>Wed, 08 Jan 2025 17:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士并不总是擅长写新闻标题</title>
-      <link>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</link>
-      <description><![CDATA[
-周一，我抱怨苹果对 Apple Intelligence 错误总结新闻标题的回应。但有趣的是：大型语言模型实际上非常擅长撰写新闻标题。…]]></description>
-      <guid>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:25:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
