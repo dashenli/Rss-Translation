@@ -4,7 +4,17 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Thu, 16 Jan 2025 18:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 21:16:18 GMT</lastBuildDate>
+    <item>
+      <title>苹果开始调整 iOS AI 摘要 ↦</title>
+      <link>https://sixcolors.com/link/2025/01/apple-begins-to-tweak-ios-ai-summaries/</link>
+      <description><![CDATA[9to5Mac 的 Chance Miller 报道称，在最新的 iOS 18.3 测试版中，苹果改变了其处理摘要的方式，大概是为了回应对不准确标题摘要的批评：
+
+
+当您启用通知摘要时，iOS 18.3 将更清楚地表明该功能（与所有 Apple Intelligence 功能一样）是测试版。…]]></description>
+      <guid>https://sixcolors.com/link/2025/01/apple-begins-to-tweak-ios-ai-summaries/</guid>
+      <pubDate>Thu, 16 Jan 2025 19:46:21 GMT</pubDate>
+    </item>
     <item>
       <title>将文件夹压缩成单独的档案 ↦</title>
       <link>https://sixcolors.com/link/2025/01/compress-folders-into-separate-archives/</link>
@@ -76,7 +86,7 @@ Watch Duty 在科技界独树一帜，因为它不关心用户参与度、花费
       <pubDate>Fri, 10 Jan 2025 23:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>（播客）下游 86：Fubulunu</title>
+      <title>（播客）下游 86：富布鲁努</title>
       <link>https://sixcolors.com/podcast/2025/01/downstream-86-fubulunu/</link>
       <description><![CDATA[威尔·卡罗尔 (Will Carroll) 加入大型体育角：Fubo 与 Hulu 携手启用 Venu，Netflix 全力进军体育直播，足球如何主宰美国电视，NFL 播音员以及我们的电视节目精选！…]]></description>
       <guid>https://sixcolors.com/podcast/2025/01/downstream-86-fubulunu/</guid>
@@ -111,16 +121,6 @@ Watch Duty 在科技界独树一帜，因为它不关心用户参与度、花费
 十五年前（！），我为 Macworld 写了一篇关于升级到站立式办公桌的文章。…]]></description>
       <guid>https://sixcolors.com/post/2025/01/building-a-new-treadmill-desk-setup-for-2025/</guid>
       <pubDate>Wed, 08 Jan 2025 17:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 30 年，Script Debugger 即将退役 ↦</title>
-      <link>https://sixcolors.com/link/2025/01/after-30-years-script-debugger-is-being-retired/</link>
-      <description><![CDATA[我昨天确实在使用 Script Debugger 检查变量。
-Late Night Software 的 Mark Alldritt 和 Shane Stanley：
-
-我们宣布 Script Debugger 作为一个产品停用。…]]></description>
-      <guid>https://sixcolors.com/link/2025/01/after-30-years-script-debugger-is-being-retired/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
