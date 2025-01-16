@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:31:50 GMT</lastBuildDate>
+    <item>
+      <title>a-fresh.网站</title>
+      <link>https://a-fresh.website/</link>
+      <description><![CDATA[屡获殊荣的网站和创意理念的精选画廊。 
+]]></description>
+      <guid>https://a-fresh.website/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>UI展示</title>
+      <link>https://x.com/samdape</link>
+      <description><![CDATA[一个每隔一天设计创意的 Twitter 帐户。
+]]></description>
+      <guid>https://x.com/samdape</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>根访问权限</title>
+      <link>https://medhir.com/blog/right-to-root-access</link>
+      <description><![CDATA[维修权法律应包括要求制造商根据消费者要求解锁设备引导加载程序的条款。
+]]></description>
+      <guid>https://medhir.com/blog/right-to-root-access</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>地铁故事</title>
+      <link>https://subwaystories.nyc/</link>
+      <description><![CDATA[MTA 地铁客流量数据的精美交互式可视化。专为 2024 年 MTA 开放数据挑战赛而创建。
+]]></description>
+      <guid>https://subwaystories.nyc/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户研究误区</title>
+      <link>https://jonyablonski.com/articles/2025/user-research-myths/</link>
+      <description><![CDATA[关于用户研究的常见误解经常会阻碍公司实施这一有价值的做法。
+]]></description>
+      <guid>https://jonyablonski.com/articles/2025/user-research-myths/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>无用的人工智能</title>
       <link>https://x.com/nxthompson/status/1877773403622367584</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://1-bit.day/prompt/2025-01-14</guid>
       <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索与执行</title>
-      <link>https://longform.asmartbear.com/explore-execute/</link>
-      <description><![CDATA[两种主要业务模式的差异比您预期的要大。当您达到 PMF 时，从一种模式切换到另一种模式需要经历文化转变。
-]]></description>
-      <guid>https://longform.asmartbear.com/explore-execute/</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>规范性和描述性信息架构</title>
-      <link>https://jarango.com/2025/01/09/prescriptive-and-descriptive-information-architecture/</link>
-      <description><![CDATA[网站和应用程序中的两种语言方法以及它们如何影响可理解性和可查找性。
-]]></description>
-      <guid>https://jarango.com/2025/01/09/prescriptive-and-descriptive-information-architecture/</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个代币都是一个功能</title>
-      <link>https://daverupert.com/2024/12/every-token-is-a-feature/</link>
-      <description><![CDATA[我正在进行一个设计令牌项目，我想分享一些显而易见的事情：每个设计令牌都是一个功能。
-]]></description>
-      <guid>https://daverupert.com/2024/12/every-token-is-a-feature/</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个前端开发人员都应该知道的可访问性基础知识</title>
-      <link>https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know</link>
-      <description><![CDATA[前端开发人员必备的可访问性实践，包括语义 HTML、替代文本、ARIA 和键盘导航技巧。
-]]></description>
-      <guid>https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器适配</title>
-      <link>https://garden.bradwoods.io/notes/creative/browser-adaptation</link>
-      <description><![CDATA[故事经常从其原始媒介改编为另一种媒介。本文探讨了浏览器提供的机会。
-]]></description>
-      <guid>https://garden.bradwoods.io/notes/creative/browser-adaptation</guid>
-      <pubDate>Mon, 13 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

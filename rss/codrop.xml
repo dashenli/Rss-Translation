@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 16 Jan 2025 06:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:31:22 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Gentle Rain</title>
+      <link>https://tympanus.net/codrops/2025/01/16/case-study-gentle-rain/</link>
+      <description><![CDATA[本案例研究探讨了复古美学与现代创新如何结合在一起创造出独特且鼓舞人心的学习体验。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/16/case-study-gentle-rain/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:55:46 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Three.js 创建生成式艺术品</title>
       <link>https://tympanus.net/codrops/2025/01/15/creating-generative-artwork-with-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索如何将设计创新、技术创造力和以用户为中心的功能结合在一起，打造一个体现旅行和探索精神的独特平台。]]></description>
       <guid>https://tympanus.net/codrops/2024/12/26/case-study-travel-next-level/</guid>
       <pubDate>Thu, 26 Dec 2024 15:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Three.js 和 GPGPU 制作梦幻粒子效果</title>
-      <link>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</link>
-      <description><![CDATA[了解如何使用 Three.js、GPGPU 和着色器创建交互式粒子效果。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/19/crafting-a-dreamy-particle-effect-with-three-js-and-gpgpu/</guid>
-      <pubDate>Thu, 19 Dec 2024 10:08:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
