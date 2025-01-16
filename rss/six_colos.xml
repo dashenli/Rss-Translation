@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 01:09:58 GMT</lastBuildDate>
+    <item>
+      <title>计算很长列表中的几乎重复项</title>
+      <link>https://sixcolors.com/post/2025/01/counting-almost-duplicates-in-very-long-lists/</link>
+      <description><![CDATA[
+在过去几周，我发布了两个不同的项目，它们至少部分地由 Python 脚本提供支持，该脚本消除了过去需要数小时的繁重工作过程中的大量劳动。…]]></description>
+      <guid>https://sixcolors.com/post/2025/01/counting-almost-duplicates-in-very-long-lists/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:47:33 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 529：应该解雇更多人</title>
       <link>https://sixcolors.com/podcast/2025/01/the-rebound-529-more-people-should-be-fired/</link>
@@ -114,16 +122,6 @@ Late Night Software 的 Mark Alldritt 和 Shane Stanley：
 周一，我抱怨苹果对 Apple Intelligence 错误总结新闻标题的回应。但有趣的是：大型语言模型实际上非常擅长撰写新闻标题。…]]></description>
       <guid>https://sixcolors.com/post/2025/01/llms-arent-always-bad-at-writing-news-headlines/</guid>
       <pubDate>Tue, 07 Jan 2025 18:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 摘要可能会贴上警告标签。但这还不够。</title>
-      <link>https://sixcolors.com/post/2025/01/apple-intelligence-summaries-might-get-warning-labels-thats-not-enough/</link>
-      <description><![CDATA[
-BBC 跟进了两份有关 Apple Intelligence 摘要将其标题转化为事实不准确的文本的报道，并得到了 Apple 的公开回应：
-
-Apple 表示将更新而不是暂停一项新的人工智能 (AI) 功能，该功能在其最新 iPhone 上生成了不准确的新闻警报。…]]></description>
-      <guid>https://sixcolors.com/post/2025/01/apple-intelligence-summaries-might-get-warning-labels-thats-not-enough/</guid>
-      <pubDate>Tue, 07 Jan 2025 00:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
