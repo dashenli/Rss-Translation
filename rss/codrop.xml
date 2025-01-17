@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 17 Jan 2025 06:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 18:22:43 GMT</lastBuildDate>
+    <item>
+      <title>开发者聚焦：Francesco Michelini</title>
+      <link>https://tympanus.net/codrops/2025/01/17/developer-spotlight-francesco-michelini/</link>
+      <description><![CDATA[在本期开发者聚焦中，Francesco Michelini 分享了他杰出项目背后的历程、他最喜欢的工具，以及游戏开发如何激发他对创意编码的热情。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/17/developer-spotlight-francesco-michelini/</guid>
+      <pubDate>Fri, 17 Jan 2025 15:17:30 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Gentle Rain</title>
       <link>https://tympanus.net/codrops/2025/01/16/case-study-gentle-rain/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索 2025 年最热门的 WordPress 主题，专为追求性能、灵活性和更高级别设计创新的开发人员和设计师打造。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/06/best-wordpress-themes-2025/</guid>
       <pubDate>Mon, 06 Jan 2025 09:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：旅行升级</title>
-      <link>https://tympanus.net/codrops/2024/12/26/case-study-travel-next-level/</link>
-      <description><![CDATA[探索如何将设计创新、技术创造力和以用户为中心的功能结合在一起，打造一个体现旅行和探索精神的独特平台。]]></description>
-      <guid>https://tympanus.net/codrops/2024/12/26/case-study-travel-next-level/</guid>
-      <pubDate>Thu, 26 Dec 2024 15:30:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
