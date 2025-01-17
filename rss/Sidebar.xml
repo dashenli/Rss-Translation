@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 17 Jan 2025 09:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 12:31:22 GMT</lastBuildDate>
+    <item>
+      <title>没人关心</title>
+      <link>https://grantslatton.com/nobody-cares</link>
+      <description><![CDATA[世界上有很多东西，只要再多付出 1% 的努力，就能变得非常出色。但人们并不关心。
+]]></description>
+      <guid>https://grantslatton.com/nobody-cares</guid>
+      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件民间传说</title>
+      <link>https://beza1e1.tuxen.de/lore/index.html</link>
+      <description><![CDATA[有时，细菌的症状令人难以置信。这是来自网络的此类故事的集合。
+]]></description>
+      <guid>https://beza1e1.tuxen.de/lore/index.html</guid>
+      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用屏幕阅读器测试可访问性</title>
+      <link>https://www.epicweb.dev/testing-accessibility-with-screen-readers</link>
+      <description><![CDATA[深入了解屏幕阅读器测试的世界，并发现为什么依赖单一工具是不够的。 
+]]></description>
+      <guid>https://www.epicweb.dev/testing-accessibility-with-screen-readers</guid>
+      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>拉丁字母的视觉历史</title>
+      <link>https://uclab.fh-potsdam.de/arete/en</link>
+      <description><![CDATA[拉丁字母历史的交互式可视化，展示不同文字和字体的时间和形式关系。
+]]></description>
+      <guid>https://uclab.fh-potsdam.de/arete/en</guid>
+      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的第一个组件</title>
+      <link>https://blog.damato.design/posts/your-first-component/</link>
+      <description><![CDATA[搭建组件库时，最先搭建的组件是什么，为什么总是按钮？
+]]></description>
+      <guid>https://blog.damato.design/posts/your-first-component/</guid>
+      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>a-fresh.网站</title>
       <link>https://a-fresh.website/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://faces.notion.com/</guid>
       <pubDate>Wed, 15 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>界面地理</title>
-      <link>https://www.chrbutler.com/the-geography-of-interface</link>
-      <description><![CDATA[我们像在物理空间中一样浏览数字空间。我们“访问”网站、“进入”页面、在应用程序中“迷失”，然后找到“回去”的路。
-]]></description>
-      <guid>https://www.chrbutler.com/the-geography-of-interface</guid>
-      <pubDate>Tue, 14 Jan 2025 13:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年你应该了解的 HTML 新知识</title>
-      <link>https://frontendmasters.com/blog/bone-up-html-2025/</link>
-      <description><![CDATA[手风琴细节、拨动开关、可设置样式的选择、响应式视频等等。
-]]></description>
-      <guid>https://frontendmasters.com/blog/bone-up-html-2025/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等宽字体中的连字造型</title>
-      <link>https://joshleeb.com/posts/monospace-ligatures.html</link>
-      <description><![CDATA[整形是将文本（在我们的例子中为 UTF-8 代码点）转换为要呈现的带有位置信息的字形序列的过程。
-]]></description>
-      <guid>https://joshleeb.com/posts/monospace-ligatures.html</guid>
-      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要再试图安排与我通话</title>
-      <link>https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</link>
-      <description><![CDATA[对于我来说，尝试新服务或新产品时最大的障碍之一就是随之而来的不可避免的骚扰。来自 SaaS 的骚扰。
-]]></description>
-      <guid>https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>1-bit.day</title>
-      <link>https://1-bit.day/prompt/2025-01-14</link>
-      <description><![CDATA[每天创作单色像素艺术。加入艺术家社区，分享他们每天的 1 位创作。
-]]></description>
-      <guid>https://1-bit.day/prompt/2025-01-14</guid>
-      <pubDate>Tue, 14 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
