@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 12:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 15:19:13 GMT</lastBuildDate>
+    <item>
+      <title>暗黑模式侦探</title>
+      <link>https://games.productartistry.com/games/dark-patterns</link>
+      <description><![CDATA[游戏揭示了数字产品设计如何影响你的选择、行为以及你周围的世界。
+]]></description>
+      <guid>https://games.productartistry.com/games/dark-patterns</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 插件：QuickFill</title>
+      <link>https://www.figma.com/community/plugin/1460705789268746232/quickfill-design-faster-with-ready-content</link>
+      <description><![CDATA[此插件可帮助您在几秒钟内用有意义的内容填充您的设计，而无需在多个来源之间搜索。
+]]></description>
+      <guid>https://www.figma.com/community/plugin/1460705789268746232/quickfill-design-faster-with-ready-content</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最受喜爱的 Code Pens</title>
+      <link>https://codepen.io/2024/popular/pens/</link>
+      <description><![CDATA[这些是 Code Pen 上最受欢迎的帖子——很好地洞察了设计和开发社区正在探索的内容。
+]]></description>
+      <guid>https://codepen.io/2024/popular/pens/</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>请不要强制使用暗黑模式</title>
+      <link>https://iamvishnu.com/posts/please-dont-force-dark-mode</link>
+      <description><![CDATA[亲爱的网站设计师，请不要强迫您的用户使用暗黑模式。
+]]></description>
+      <guid>https://iamvishnu.com/posts/please-dont-force-dark-mode</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能吞噬世界</title>
+      <link>https://www.ben-evans.com/presentations</link>
+      <description><![CDATA[每年，本尼迪克特·埃文斯都会制作一个大型演讲，探讨科技行业的宏观和战略趋势。2025 年，“人工智能将吞噬世界”。
+]]></description>
+      <guid>https://www.ben-evans.com/presentations</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>类型手册：计量单位</title>
       <link>https://type.today/en/journal/measurements</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://blog.damato.design/posts/your-first-component/</guid>
       <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>a-fresh.网站</title>
-      <link>https://a-fresh.website/</link>
-      <description><![CDATA[屡获殊荣的网站和创意理念的精选画廊。 
-]]></description>
-      <guid>https://a-fresh.website/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI展示</title>
-      <link>https://x.com/samdape</link>
-      <description><![CDATA[一个每隔一天设计创意的 Twitter 帐户。
-]]></description>
-      <guid>https://x.com/samdape</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>根访问权限</title>
-      <link>https://medhir.com/blog/right-to-root-access</link>
-      <description><![CDATA[维修权法律应包括要求制造商根据消费者要求解锁设备引导加载程序的条款。
-]]></description>
-      <guid>https://medhir.com/blog/right-to-root-access</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>地铁故事</title>
-      <link>https://subwaystories.nyc/</link>
-      <description><![CDATA[MTA 地铁客流量数据的精美交互式可视化。专为 2024 年 MTA 开放数据挑战赛而创建。
-]]></description>
-      <guid>https://subwaystories.nyc/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户研究误区</title>
-      <link>https://jonyablonski.com/articles/2025/user-research-myths/</link>
-      <description><![CDATA[关于用户研究的常见误解经常会阻碍公司实施这一有价值的做法。
-]]></description>
-      <guid>https://jonyablonski.com/articles/2025/user-research-myths/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
