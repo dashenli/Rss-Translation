@@ -4,7 +4,136 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 21:14:38 GMT</lastBuildDate>
+    <item>
+      <title>Switch 2 有一个新的触发器用于断开 Joy-Con 控制器</title>
+      <link>https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers</link>
+      <description><![CDATA[
+
+
+任天堂 Switch 2 网站 上的一段视频展示了 Joy-Con 控制器背面的扳机（或者说是按钮？）如何将其与控制台断开连接，如图所示 by Polygon。
+在视频中，扳机被按下了一点，最后用力一推，扳机就从控制台上松开了。当 Joy-Con 移开时，你还可以看到一个小圆柱体缩回到控制器内部的顶部；对我来说，这表明当你按下扳机时，你实际上是在推出那个圆柱体，以帮助将 Joy-Con 推出。
+以下是视频相关部分的 GIF：
+
+
+Andrew Liszewski / The Verge 制作的 GIF
+
+移除 Joy-Con 控制器的机制看起来类似于配件制造商 Genki 带到 CES 的 3D 打印模型中包含的机制。
+然而，至于控制器实际上是如何与 Switch 2 连接的，任天堂到目前为止还没有透露该游戏机是否使用磁铁，正如传言。这是众多未解答问题之一——希望所有答案都能在任天堂 4 月 2 日的Switch 2 直面会上揭晓。
+]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers</guid>
+      <pubDate>Tue, 21 Jan 2025 20:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence 在 iOS 18.3 中默认启用</title>
+      <link>https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3</link>
+      <description><![CDATA[
+
+照片由 Amelia Holowaty Krales / The Verge 拍摄
+
+Apple Intelligence 将从 iOS 18.3、iPadOS 18.3 和 macOS 15.3。在 由 9to5Mac 发布的候选发布说明中，Apple 表示将为新用户或升级到最新版本操作系统的用户自动启用 AI 功能。 
+AI 更新仅适用于支持 Apple Intelligence 的设备，包括 iPhone 15 Pro 及更新机型、搭载 Apple Silicon M1 芯片或更新机型的 iPad 和 Mac，以及 iPad mini 的最新版本。
+对于新用户或升级到 macOS 18.3 的用户，Apple Intelligence 将在 Mac 入门期间自动启用。用户在设置设备后即可使用 Apple Intelligence 功能。要禁用 Apple Intelligence，用户需要导航至 Apple Intelligence 和 Siri 设置窗格并关闭 Apple Intelligence 切换开关。这将禁用其设备上的 Apple Intelligence 功能。 
+
+正如 Apple 的说明所述，更新设备后，如果您不想支持​​AI 通知摘要、Image Playground 等功能以及可以重写设备上运行的文本片段的工具，则必须手动禁用 Apple Intelligence。要关闭 Apple Intelligence，您必须前往 Apple Intelligence &amp; Siri 设置窗格，然后关闭 Apple Intelligence 切换。
+上周，iOS 18.3 测试版测试人员发现了一个更新，该更新将暂停新闻和娱乐应用的 AI 通知摘要，因为该功能错误地总结了 BBC 的标题。Apple 还将使在 iPhone 锁定屏幕上识别通知摘要变得更容易，并指出它们“可能包含错误”。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3</guid>
+      <pubDate>Tue, 21 Jan 2025 20:48:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软类似 Steam 的浏览器覆盖现已在 Windows 11 上可用</title>
+      <link>https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+经过数月的 Beta 测试后，微软本周将在 Windows 11 上推出其新的游戏内浏览器覆盖。 Microsoft Edge 游戏助手功能是一个小部件，它出现在 Windows 11 的游戏栏中，与 Valve 的 Steam 覆盖浏览器非常相似。它还具有游戏感知功能，因此它可以检测您正在玩的游戏并在一个小侧面板中提供提示和指南。
+游戏助手覆盖以前仅限于测试版用户使用，但它现在在 Microsoft Edge 的稳定版本中可用。如果您想启用游戏内浏览器，您可以打开 Microsoft Edge 并转到设置及更多 &gt; 设置，然后搜索游戏助手并安装小部件。游戏助手功能将在游戏栏中可用，可以使用 Windows 键 + G 打开。
+
+“游戏助手的初始预览版为一系列热门 PC 游戏提供了上下文提示和指南，同时我们会根据您的反馈优化体验，”Microsoft Edge 高级产品经理 William Devereux 解释道。微软还增加了对更受欢迎的 PC 游戏的支持，包括印第安纳琼斯和大圆环、漫威对手和龙腾世纪：面纱守卫。
+“我们将在整个预览版和一段时间内为更受欢迎的游戏添加提示和指南，”Devereux 说道。 “与此同时，您仍然可以在玩任何游戏时使用 Game Assist 浏览您最喜欢的指南或其他网站。”
+Game Assist 通过使用与主 Microsoft Edge 浏览器相同的 cookie、自动填充和收藏夹数据来工作。Microsoft 还为该 Game Assist 功能添加了对广告拦截器等扩展程序的支持，并计划在未来添加对键盘快捷键的支持，同时提供改进的画中画体验和将 Microsoft Edge 中的选项卡添加到侧边栏的功能。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser</guid>
+      <pubDate>Tue, 21 Jan 2025 20:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国公民自由联盟和 18 个州起诉特朗普试图废除出生公民权</title>
+      <link>https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit</guid>
+      <pubDate>Tue, 21 Jan 2025 20:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 macOS 上镜像 iPhone 屏幕</title>
+      <link>https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to</link>
+      <description><![CDATA[
+
+图片：Samar Haddad / The Verge
+
+Apple 继续利用“连续互通”功能，让 iPhone 和 Mac 之间的连接更加便捷。 macOS Ventura 引入了 Continuity，Continuity 可让您将 iPhone 用作 Mac 的网络摄像头。它还提供跨设备的通用剪贴板、通话和文本同步、AirPlay 流媒体——现在，您还可以将 iPhone 的显示镜像到连接到 Mac 的屏幕上。
+如果您有运行 iOS 18 或更高版本的 iPhone 和运行 macOS Sequoia 15 或更高版本的带有 Apple 芯片或 T2 安全芯片的 Mac，那么您可以使用 iPhone 镜像。顾名思义，它就是将移动设备显示屏的实时副本复制到计算机显示屏上，您还可以与之交互。镜像意味着您可以将手机放在口袋或抽屉中，同时查看应用程序和消息 - 当然，您还可以使用键盘和鼠标（或触控板）控制。 
+以下是设置方法。我在运行 iOS 18.2.1 的 iPhone 15 Pro Max 和运行 macOS Sequoia 15.2 的 M1 MacBook Pro 上尝试了它。
+开始使用 iPhone 镜像
+除了我们已经提到的软件要求（iOS 18 和 macOS 15）之外，还需要进行一些检查才能使其正常工作。 iPhone 和...
+阅读 The Verge 上的完整报道。]]></description>
+      <guid>https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to</guid>
+      <pubDate>Tue, 21 Jan 2025 19:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自 12 月以来，Balatro 已售出 100 多万份</title>
+      <link>https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards</link>
+      <description><![CDATA[
+
+Playstack
+
+Balatro 已经跨越了一个重要的里程碑，第一年就售出了 500 万份。该消息已在 X 上分享，并向 The Game Awards 致谢。
+“对于在 @thegameawards 上看到 Balatro 后购买它的所有人，我们希望你们玩得开心！”帖子写道。Balatro 在 The Game Awards 上备受关注，获得了包括年度游戏在内的多项奖项的提名，并赢得了最佳独立游戏、最佳首发独立游戏和最佳移动游戏类别。 
+在 X 上，Balatro 发行商 Playstack 的公关经理 Wout van Halderen 补充说，截至 12 月第一周，该游戏已售出 350 万份。 由于 The Game Awards 将于 12 月第二周举行，这意味着 Balatro 在 Keighley 的圣诞节商业募捐活动中亮相后，销量大幅增长了 150 万份。更令人印象深刻的是，500 万这个数字是总销量，不包括该游戏在 Apple Arcade 订阅中获得的下载次数。
+自 2 月推出以来，Balatro 迅速成为 2024 年最大的独立热门游戏之一。这款扑克类 roguelike 游戏由一个人在两年内开发，以精心制作的“数字上升”游戏而闻名，其开发者开玩笑说它吞噬了玩家的空闲和不那么空闲的时间。
+
+自游戏发布以来的 11 个月里，它只进行了小规模的 装饰 更新，但开发商 LocalThunk 暗示了 重大更新以游戏玩法为重点的更新将于今年推出。
+Jimbo 帮助我们所有人。
+]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards</guid>
+      <pubDate>Tue, 21 Jan 2025 19:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>从二月份开始，Microsoft 将自动保持您登录到您的帐户</title>
+      <link>https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+微软将于下个月对您登录微软帐户的方式进行一些更改。 从 2 月开始，除非您退出或使用隐私浏览，否则您将自动保持登录 Microsoft 帐户的状态。这是一项需要人们注意的变化，尤其是在使用公共计算机时。
+目前，如果您登录 Microsoft 帐户，系统将始终询问您是否要保持登录状态，因此您下次无需再次登录。微软改变自动保持登录状态意味着您必须在公共电脑上使用私人浏览窗口，或者确保在会话结束后记得注销，否则帐户将保持登录状态。如果您经常在公共电脑上使用 Outlook 或 Microsoft 帐户，那么现在绝对是时候开始习惯注销或使用私人浏览会话了（无论如何您都应该这样做）。如果您在 2 月份错误地忘记退出 Microsoft 帐户，您可以随时强制在所有浏览器、应用程序以及 Xbox 控制台以外的任何其他地方退出您的帐户。微软对其帐户登录流程的最新更改是在该公司为其所有消费者帐户添加密钥支持几个月后进行的。您可以通过点击此链接为您的 Microsoft 帐户创建密钥，并且您可以选择面部、指纹、PIN 或安全密钥来使用设备通过密钥登录。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february</guid>
+      <pubDate>Tue, 21 Jan 2025 19:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Korg 的第一款唱片机专为 DJ、音响发烧友和档案管理员设计</title>
+      <link>https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl</guid>
+      <pubDate>Tue, 21 Jan 2025 19:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔沃宣布延期上市的 EX30 紧凑型 SUV 定价</title>
+      <link>https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us</link>
+      <description><![CDATA[
+
+图片：沃尔沃
+
+紧凑型沃尔沃 EX30 终于抵达美国——随之而来的是其价格的进一步明朗化。 
+2023 年首次发布时，EX30 被定位为一款更小、更实惠的电动汽车，而市场上充斥着昂贵的豪华车型。而且，它的起价仅为 34,950 美元，似乎有望赢得大量追随者。
+当时，唯一以类似价格出售的其他电动汽车是实用的雪佛兰 Bolt 和日产 Leaf。您还可以找到几辆二手电动汽车，甚至是精简版的特斯拉 Model 3，但以不到 35,000 美元的价格出售豪华配置（如果是基本款）的欧洲车型的想法闻所未闻。 
+但由于政治原因，沃尔沃被迫将 EX30 在美国的上市时间推迟到 2025 年，理由是中国对在中国生产的汽车征收了新的关税。沃尔沃是吉利的子公司，包括 EX30 在内的许多车型都是在中国生产的。沃尔沃表示，为了应对新的限制，他们正在将 EX30 的生产转移到比利时工厂。 
+今天，沃尔沃宣布，EX30 最受欢迎的车型终于要登陆美国了。这款车型就是 EX30 Twin Motor Performance，功率为 422 马力，Plus 装备包起价为 44,900 美元（不包括运费）。升级到 Ultra 套件将花费 46,600 美元。
+这绝对超过 34,950 美元——不幸的是，沃尔沃没有透露何时可以期待更实惠的版本在美国上市。考虑到这里的政治局势，我很难责怪沃尔沃在美国电动汽车销售方面谨言慎行。特朗普政府承诺减少激励措施并增加关税——这两项措施都可能导致购车者支付更高的价格。
+尽管如此，EX30 在欧洲仍然大获成功，沃尔沃这款小型 SUV 的销量已超过 10 万辆。8 月份，仅次于特斯拉 Model Y。可以推断，一旦美国消费者拿到它，他们也会做出类似的反应。 
+沃尔沃在美国还有另外两款电动汽车：中型 EX40，单电机型号起价 52,500 美元，配备所有配置最高可达 60,750 美元；全尺寸三排 EX90，起价 79,995 美元，最高可达 89,845 美元。运费使这些价格上涨至少 1,000 美元。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us</guid>
+      <pubDate>Tue, 21 Jan 2025 18:36:57 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsApp 将允许你在 Instagram 和 Facebook 上分享你的状态</title>
       <link>https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story</link>
@@ -25,146 +154,6 @@ Meta 表示，未来它将为用户增加进入帐户中心的功能，以管理
 ]]></description>
       <guid>https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story</guid>
       <pubDate>Tue, 21 Jan 2025 17:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国政府正在推出数字身份证移动应用程序</title>
-      <link>https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge；Getty Images
-
-英国政府即将推出一款应用程序，允许公民将驾照数字化。英国科学大臣彼得·凯尔周二宣布，GOV.UK Wallet 将于今年晚些时候在 Android 和 iOS 设备上推出，让用户可以将政府签发的文件安全地存储在手机上，这样就可以立即访问这些文件，而不必等待邮寄实体版本。
-这款钱包将利用面部识别等智能手机安全功能来帮助保护用户的个人数据。退伍军人卡将是首批受支持的文件，随后将在“2025 年晚些时候”试行移动驾驶执照。到 2027 年，所有提供纸质或卡片凭证的英国政府服务都有望提供数字化替代方案。传统的实体文件仍将可用。
-“除了 CD、随身听和翻盖手机，塞满政府信件的抽屉和等待预约的几个小时也将成为历史，”Kyle 在公告中表示。“GOV.UK Wallet 意味着您从政府收到的每封信件或身份证件都可以通过虚拟方式发给您。”
-据 Kyle 介绍，新的数字钱包应用旨在让英国公民更好地控制自己的数据，使他们更容易证明自己有资格享受福利并在商店购买有年龄限制的产品。目前，英国人在夜店或购买酒精饮料时必须出示实物身份证件（如果被认为未成年），否则存在丢失或被盗的风险。
-英国还将在 2025 年夏季推出一款新的 GOV.UK 应用程序，该应用程序将允许用户访问政府信息，并最终通过手机完成取消被盗护照和申请福利等任务。
-还有计划在该应用程序中添加一个由人工智能驱动的聊天机器人，富有想象力地称为“GOV.UK Chat”，据TechCrunch报道，该聊天机器人由 OpenAI 共同开发，并增加了“付款方式并及时收到政府服务的通知”。]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348641/uk-government-digital-id-app-ios-android-launch</guid>
-      <pubDate>Tue, 21 Jan 2025 16:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>IMDb 首席执行官将于 35 年前卸任</title>
-      <link>https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro</link>
-      <description><![CDATA[
-
-图片由 Gareth Cattermole/Getty Images for IMDb 拍摄
-
-IMDb 创始人兼首席执行官 Col Needham 将于卸任，35 年前推出该网站，这家亚马逊旗下的公司周二宣布。尼德汉姆现在将担任执行主席。 IMDb 首席运营官 Nikki Santoro 将接任首席执行官。
-Needham 开始构建数据库，后来于 1990 年更名为 IMDb。即使在 1998 年将网站出售给亚马逊后，他仍担任首席执行官，监督重大变革，例如推出 IMDbPro 订阅，以及允许专业人士隐藏年龄的更新。
-Santoro 于 2016 年加入 IMDb，并于 2021 年成为首席运营官。根据 IMDb 的领导力页面，她帮助扩展了网站的数据库并建立了 IMDbPro。
-作为执行主席，Needham 仍将“提供战略指导、就关键举措提供咨询，并担任全球大使”根据 IMDb 的新闻稿。
-“[Santoro] 在推动增长和提升我们的产品和服务方面的记录使她成为带领 IMDb 进入新时代的理想人选，”Needham 在一份声明中表示。“我期待在我的新职位上继续与 Nikki 和才华横溢的 IMDb 团队密切合作，我们将继承 IMDb 的传统，塑造娱乐信息的未来。”]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348616/imdb-founder-col-needham-ceo-nikki-santoro</guid>
-      <pubDate>Tue, 21 Jan 2025 16:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>CapCut 在美国重新上线</title>
-      <link>https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance</link>
-      <description><![CDATA[
-
-图片来源应为 CFOTO/Future Publishing via Getty Images
-
-CapCut 是字节跳动旗下的视频编辑应用，与 TikTok 一样受到禁令，但目前它已在美国恢复运行。 
-已下载该应用的用户已于周二看到一条通知，欢迎他们重新使用该服务，并感谢他们的“耐心和支持”。该通知似乎是在唐纳德·特朗普总统就职典礼后的晚上签署行政命令之后发布的，该命令指示联邦执法人员在 75 天内不要对受法律约束的服务提供商采取行动。
-
-
-The Verge 截图
-
-虽然该命令旨在消除服务提供商的担忧，这些服务提供商可能因违反联邦法律而面临数十亿美元的罚款，并且在销售截止日期过后继续维护该应用程序，但法律专家表示实际上，这几乎不能消除法律风险。也许正因为如此，尽管 CapCut 的一些美国服务提供商似乎正在配合特朗普让该应用重新上线的愿望，但它仍然没有出现在苹果或谷歌的应用商店中——类似于 TikTok。
-根据《保护美国人免受外国对手控制的应用程序法案》，总部位于中国的字节跳动所拥有的应用程序必须在 1 月 19 日之前出售给非对手实体，才能继续在美国运营。然而，该公司并没有达成协议，而是采取了法律手段，最终在最高法院败诉。特朗普现在正试图促成“合资企业”，让美国拥有 50% 的 TikTok 所有权，以使其免于禁令，尽管这个想法似乎也有其自身的风险法律影响。]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348629/capcut-back-online-us-tiktok-bytedance</guid>
-      <pubDate>Tue, 21 Jan 2025 16:20:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个关于生育权利的联邦网站消失了</title>
-      <link>https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump</link>
-      <description><![CDATA[
-
-来自互联网档案馆的屏幕截图reproductiverights.gov。
-
-一个联邦网站，提供有关唐纳德·特朗普昨天就职后，生育权利和医疗保健机会突然下降。据哥伦比亚广播公司报道，截至昨晚，Reproductiverights.gov似乎处于离线状态。
-拜登政府在最高法院决定推翻罗伊诉韦德案之后，于 2022 年推出了该网站。除了有关堕胎权的信息外，该网站还包括获取预防保健的资源，包括乳腺癌和宫颈癌筛查、产前护理和艾滋病毒筛查。（互联网档案馆有一张该网站截至 1 月 15 日的快照。）
-科学家、研究人员以及健康和环境倡导者一直在为特朗普政府领导下联邦网站可能出现的变化做准备。他们一直担心联邦机构会限制其网站上有关热门话题的公开信息，尤其是有关气候变化的信息。
-
-之前运营 reproductiverights.gov 网站的卫生与公众服务部没有立即回应The Verge的询问。
-到目前为止，有关气候变化的联邦网站似乎已经启动并运行。 在特朗普的第一个任期内，美国环境保护局网站多达 20% 的内容被删除，联邦环保机构网站上“气候变化”一词的使用率下降了近 40%。
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348586/reproductive-right-federal-website-trump</guid>
-      <pubDate>Tue, 21 Jan 2025 16:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>《无限奇迹》新一季带来游戏迄今为止最大的更新</title>
-      <link>https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date</link>
-      <description><![CDATA[
-
-图片：Infold Games
-
-造型师们，清理一下衣柜里的空间吧：Infinity Nikki的下一次更新即将推出，带来新内容、新地点供探索，最重要的是新服装。烟花季节将于 1 月 23 日开始。更新将以农历新年庆祝活动为主题，启动新的 Mira Journey 战斗通行证，同时提供限时任务和新区域供探索。
-Infinity Nikki 的官方网站预览了将提供哪些服装以及所有新内容的完整细分。由于《妮基》是一款扭蛋游戏，因此有许多高级服装可供尝试和赢取。但开发商 Infold 还提供三种颜色的三套服装，总共九套不同的服装，全部免费。我对 Radiant Night 服装特别感兴趣，因为它看起来像是《生化危机 VII》中 Lady Dimitrescu 的高级时装版。
-
-
-查看一下，因为该网站还有玩家可以用来兑换有用的游戏内物品的代码。Infinity Nikki 还发布了更新预告片，展示了烟花岛，这是本赛季将开放的新地点。预计该地区将充满风景，造型师可以在此拍摄最美的照片，包括一辆在天空中飞驰的神奇马车。
-
-游戏还增加了一个新的 Boss 遭遇战，即“黑暗花束”，它可能会添加到“黑暗王国”Boss 列表中，供玩家每周挑战。Infinity Nikki 原声带也将在精选音乐平台上推出，这是一个受欢迎的发展，因为其中一些曲目（尤其是 Ghost Train 地牢的曲目）对于一款通常轻松的装扮游戏来说非常有趣。烟花季节从 1 月 23 日开始，持续到 2 月 25 日。
-]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348535/infinity-nikki-firework-season-update-trailer-january-date</guid>
-      <pubDate>Tue, 21 Jan 2025 15:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天是预订三星新款 Galaxy 设备可获赠 50 美元信用额度的最后一天</title>
-      <link>https://www.theverge.com/2025/1/21/24343975/samsung-galaxy-s25-jbl-clip-5-deal-sale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24343975/samsung-galaxy-s25-jbl-clip-5-deal-sale</guid>
-      <pubDate>Tue, 21 Jan 2025 15:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 尚未回归 App Store</title>
-      <link>https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-TikTok 周日宣布，它“正在恢复服务”，但该应用仍然在 App Store 和 Google Play 中不可用。 
-截至周二上午，该应用程序仍然不可用，目前尚不清楚这种情况是否会因唐纳德·特朗普新发布的行政命令而改变，该命令要求司法部不要执行禁令的处罚。谷歌和苹果尚未回应关于是否会在其应用商店上架 TikTok 的多次置评请求。
-
-如果你在 App Store 上搜索 TikTok，你会看到一条消息，上面写着“TikTok 和其他字节跳动应用在您所在的国家或地区不可用”，而 Google Play 则显示“由于美国现行法律要求，此应用的下载已暂停。”
-苹果的消息还链接到一个支持页面解释了为什么它删除了 TikTok。
-
-
-截图：The Verge
-Google Play 的消息（左）与 App Store 的消息（右）。
-
-TikTok 于 2025 年 1 月 23 日在美国关闭周六晚上，就在要求其所有者字节跳动剥离业务的法律出台之前，否则将面临全国禁令。
-但该公司表示，周日，TikTok 已“根据与服务提供商的协议”在美国恢复部分用户使用。 应用程序内显示的一个弹出窗口感谢用户的耐心，并表示恢复是“特朗普总统努力的结果”。
-所有相关公司均未回应进一步置评的请求。然而，到目前为止，应用程序的恢复表明，该应用程序的托管提供商 Oracle 及其 CDN 合作伙伴 Akamai 正在依赖特朗普的承诺，即支持 TikTok 的公司“不承担任何责任”。政府中的其他人，例如共和党参议员汤姆·科顿，赞扬应用商店下架字节跳动应用并表示任何为 TikTok 提供便利的公司“都可能面临数千亿美元的毁灭性法律责任，不仅是来自司法部的，还来自证券法、股东诉讼和州检察长的。”
-1 月 21 日更新：注意到该应用仍然不可用。]]></description>
-      <guid>https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play</guid>
-      <pubDate>Tue, 21 Jan 2025 15:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士胶片的新款混合即时相机配备了迄今为止最广的镜头</title>
-      <link>https://www.theverge.com/2025/1/21/24348502/fujifilm-instax-wide-evo-hybrid-instant-camera-photography-printer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348502/fujifilm-instax-wide-evo-hybrid-instant-camera-photography-printer</guid>
-      <pubDate>Tue, 21 Jan 2025 15:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普撤销拜登时代关于人工智能安全的行政命令</title>
-      <link>https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-唐纳德·特朗普在总统任期第一天的行政行动中撤销了一项行政命令乔·拜登于 2023 年签署，为生成式人工智能制定安全准则。
-拜登时代的命令要求大型人工智能模型（如 OpenAI 的 GPT 系列）的开发人员与美国政府分享安全测试的结果。它还指示美国国家标准与技术研究所制定安全测试标准，并责成其他联邦机构评估人工智能可能带来的任何潜在化学、生物、放射、核、网络安全或关键基础设施风险。
-拜登的行动还包括旨在保护工人和消费者的措施。它委托撰写了一份关于人工智能如何影响劳动力市场的报告，并要求各机构制定解决人工智能引发的欺诈和歧视性算法的做法。
-唐纳德·特朗普昨天签署了一系列新的行政命令，取消了所有这些规定。他采取的首批行动之一是撤销拜登时代的 78 项行政行动，包括关于“安全、可靠和值得信赖地开发和使用人工智能”的第 14110 号行政命令。
-特朗普已将开发新的人工智能工具作为其政府的优先事项。他的就职典礼上聚集了科技巨头，其中一些人为总统的就职典礼预算捐款。 杰夫·贝佐斯、伊隆·马斯克、马克·扎克伯格、蒂姆·库克、Shou Zi Chew、Sundar Pichai、和 Sam Altman 据报道昨天都出席了会议。
-现在，围绕去年通过的欧盟人工智能法案的摊牌已经准备就绪，该法案制定了透明度要求并禁止某些人工智能用途。
-拜登政府为促进美国人工智能发展而采取的其他措施可能更有机会存活下来。本月离任前，拜登宣布了一项新的监管框架，限制部分人工智能芯片和模型的国际共享。拜登还于 1 月发布了一项行政命令旨在加快联邦土地上人工智能数据中心的发展。]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind</guid>
-      <pubDate>Tue, 21 Jan 2025 15:02:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
