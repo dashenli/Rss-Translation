@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>西辛</title>
+    <title>德泽恩</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 18:22:08 GMT</lastBuildDate>
+    <item>
+      <title>苹果在迈阿密开设首家大规模木材 Apple Store</title>
+      <link>https://www.dezeen.com/2025/01/22/apple-store-mass-timber-miami-worldcenter/</link>
+      <description><![CDATA[Dezeen 独家披露了充满装饰艺术气息的 Apple Miami Worldcenter 的照片，它是“第一家大量使用大规模木材结构的Apple Store”，本周五开业。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/22/apple-store-mass-timber-miami-worldcenter/</guid>
+      <pubDate>Wed, 22 Jan 2025 14:00:26 GMT</pubDate>
+    </item>
     <item>
       <title>Archer + Braun 为爱丁堡石灰岩住宅增添“现代主义扩建”</title>
       <link>https://www.dezeen.com/2025/01/22/limestone-house-extension-archer-braun/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们最新一期的Dezeen Debate 新闻通讯刊登了由隈研吾及其合伙人设计的京都酒店。  立即订阅 Dezeen Debate。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/21/banyan-tree-higashiyama-kyoto-hotel-kengo-kuma-dezeen-debate/</guid>
       <pubDate>Tue, 21 Jan 2025 19:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着洛杉矶火灾损失的明朗，理查德·诺伊特拉的更多房屋被确认被烧毁</title>
-      <link>https://www.dezeen.com/2025/01/21/neutra-moss-houses-destroyed-la-wildfires/</link>
-      <description><![CDATA[另外两栋由现代主义建筑师Richard Neutra设计的房屋和一栋由当地建筑师Eric Owen Moss设计的房屋已确认因席卷大洛杉矶地区的致命野火。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/21/neutra-moss-houses-destroyed-la-wildfires/</guid>
-      <pubDate>Tue, 21 Jan 2025 18:00:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
