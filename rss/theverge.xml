@@ -4,7 +4,102 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 21:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 01:11:09 GMT</lastBuildDate>
+    <item>
+      <title>特朗普称他愿意接受马斯克或埃里森收购 TikTok</title>
+      <link>https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban</link>
+      <description><![CDATA[
+
+图片：The Verge
+
+唐纳德·特朗普总统表示，他愿意接受他的好友埃隆·马斯克或拉里·埃里森收购 TikTok。
+“拉里，让我们在媒体面前谈判吧，”特朗普在与甲骨文联合创始人、软银首席执行官孙正义和 OpenAI 首席执行官萨姆·库什纳举行的新闻发布会上说道Altman 宣布一项 5000 亿美元的人工智能基础设施投资。“我想对某人说的是，买下它，然后把一半给美国。一半，我们会给你许可证。而且他们将拥有一个伟大的合作伙伴——美国。”
+“总统先生，这听起来像是一笔好交易，”埃里森说。
+目前尚不完全清楚这一切将如何运作，或者美国如何在不违反第一修正案的情况下合法运营语音平台。但这是硅谷与特朗普的亲密关系可能在未来四年内显现的最早例子之一。 
+
+特朗普周一签署了一项行政命令，指示其政府在 75 天内不要对强制剥离法案所涵盖的服务提供商（包括甲骨文、苹果和谷歌）执行该法律。但法律专家表示，这一行动几乎无法为这些公司提供任何法律保护，使其违反联邦法律并面临 8500 亿美元罚款。即便如此，甲骨文似乎仍依赖特朗普的保证来帮助 TikTok 在 1 月 19 日的销售截止日期之后在美国运营，尽管该公司尚未直接对此发表评论。 
+TikTok 的中国母公司字节跳动仍有其他报价，包括亿万富翁弗兰克·麦考特的 Project Liberty，现在显然还有 YouTube 创作者 MrBeast 的报价——MrBeast 的投资者集团正在接受一个团队的法律顾问，该团队包括特朗普挑选的司法部长的兄弟。
+当他离开简报会时，一名记者问特朗普他的手机上是否有 TikTok。“没有，但我想我可能会把它放在那里，”特朗普回答道。“我想我现在就去拿。”]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban</guid>
+      <pubDate>Tue, 21 Jan 2025 23:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软现在允许 OpenAI 获得自己的 AI 计算</title>
+      <link>https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership</link>
+      <description><![CDATA[
+
+图片：Cath Virginia / The Verge
+
+微软和 OpenAI 周二宣布，他们已经调整了合作关系，以便 OpenAI 能够访问竞争对手的计算。 
+新协议“包括对新容量的独家性进行更改，转向微软拥有优先购买权 (ROFR) 的模式，”微软表示。 “为了进一步支持 OpenAI，微软已批准 OpenAI 构建额外容量的能力，主要用于模型的研究和培训。”
+他们关系的基础（持续到 2030 年）基本保持不变——微软保留其对 Copilot 等产品的 OpenAI 技术的独家权利，而 OpenAI 的 API 仍然是 Azure 独有的。 他们将保持双向收入分享设置（据报道微软获得 OpenAI 收入的 20%）。在今天的变更之前，OpenAI 只能使用微软的 Azure 云基础设施来满足其计算需求。 
+此前，Arm、微软、Nvidia、甲骨文和 OpenAI 宣布成立合资企业，在美国建立一个名为 Starbase 的数据中心系统。
+OpenAI 希望构建的模型和它希望服务的用户群需要数十亿美元的计算资源。据此前报道，一些 OpenAI 股东认为微软的行动速度不够快，无法为 OpenAI 提供计算能力，因此这家初创公司今年 6 月与 Oracle 合作（在微软的支持下）以获得必要的计算能力。
+在 OpenAI 首席执行官 Sam Altman 短暂被赶出公司并引起很多公众关注后，关于微软和 OpenAI 面临关系困境的传言很多。据《纽约时报》报道，由于 OpenAI 的财务压力、对稳定性的担忧以及两家公司员工之间日益加剧的摩擦，双方关系变得越来越紧张。
+去年 3 月，微软以 6.5 亿美元的价格聘请了 Inflection 首席执行官 Mustafa Suleyman，与 Inflection 的大部分员工一起领导其消费者 AI 工作。据《纽约时报》报道，此举尤其激怒了包括 Altman 在内的一些 OpenAI 领导层。
+
+OpenAI 与微软的交易还有一个不寻常的例外条款：如果 OpenAI 创建了通用人工智能 (AGI)，它可能会切断微软对其在此之后开发的一些最强大模型的访问权。据报道，AGI 被定义为能够创造超过 1000 亿美元利润的系统。此举原本是为了防止如此强大的人工智能商业化，但现在据报道，OpenAI 正在考虑放弃这一规定，可能是为了获得更多微软资金。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership</guid>
+      <pubDate>Tue, 21 Jan 2025 23:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 和软银将成立一家价值 5000 亿美元的人工智能数据中心公司</title>
+      <link>https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project</link>
+      <description><![CDATA[
+
+图片：白宫 (YouTube)
+
+白宫新闻发布会上透露了建立人工智能数据中心系统的计划，孙正义、萨姆·奥特曼和拉里·埃里森将加入唐纳德·特朗普的行列特朗普宣布星际之门计划。他们的公司软银、OpenAI 和甲骨文（分别）以及 MGX 被列为未来四年 5000 亿美元投资的“初始股权出资人”，用于“在美国为 OpenAI 构建新的 AI 基础设施”。
+根据 OpenAI 的一份声明，“Arm、微软、NVIDIA、甲骨文和 OpenAI”是最初的技术合作伙伴，目前正在从德克萨斯州开始建设，同时对全国其他地点进行评估。它还表示，“Oracle、NVIDIA 和 OpenAI 将密切合作，构建和运营该计算系统。”
+另外，微软宣布更新其与 OpenAI 的合作伙伴关系，称其协议的关键要素将持续到 2030 年，涵盖“我们对 OpenAI 知识产权的访问权、我们的收入分成安排以及我们对 OpenAI API 的独家经营权，所有这些都将持续下去。” 
+变化的是，微软表示 OpenAI 已做出“新的、大规模的 Azure 承诺，将继续支持所有 OpenAI 产品以及培训。”然而，他们对新产能的独家安排正在发生变化，现在微软对 OpenAI 建设新产能拥有优先购买权。
+在宣布该项目的新闻发布会上，孙正义和奥特曼直接与特朗普对话，坚称该项目的实现只是因为他的选举胜利。该项目自去年年初以来就一直传闻。 
+
+]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project</guid>
+      <pubDate>Tue, 21 Jan 2025 22:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的下一款智能眼镜或将与 Oakley 合作</title>
+      <link>https://www.theverge.com/2025/1/21/24348949/metas-next-smart-glasses-may-be-with-oakley</link>
+      <description><![CDATA[
+
+Oakleys 被认为是时尚的，深受运动员的欢迎——这可能就是 Meta 热衷于合作的原因。 |照片由 Mark Brown/Getty Images 拍摄
+
+根据彭博社的一份新报告，Meta 可能会在今年晚些时候发布新款 Oakley 品牌智能眼镜。 
+Oakley 品牌眼镜在内部被称为“Supernova 2”，将基于该品牌的 Sphaera 眼镜。 Supernova 2 不会将摄像头安装在侧面，而是将摄像头移至框架中央。此举旨在吸引骑行者和其他户外运动员。该报道并未详细介绍任何其他潜在功能，但 Oakley 眼镜表面上将具有与当前 Ray-Ban Meta 眼镜 类似的功能。 
+
+Oakley 和 Ray-Bans 一样，都是眼镜巨头 EssilorLuxottica 的子公司。将 Meta 的技术扩展到 EssilorLuxottica 旗下其他品牌的举措是明智之举。虽然雷朋 Meta 智能眼镜适合低调的日常佩戴，但对于耐力运动来说，它们有点重，而且缺少某些功能，例如偏光镜片，以提高可视性。Oakleys 也被认为是时尚的，在专业运动员中很受欢迎。从概念上讲，它们类似于现已停产的 Bose Frames Tempo，它允许运动员以相对较轻的外形使用偏光镜片获得开放式耳机音频。也就是说，如果目标是吸引运动员，Meta 和 Oakley 可能必须解决重量、防汗和电池寿命等因素。
+该报告还指出，Meta 计划推出其当前雷朋眼镜的高端版本，其中包括能够发送通知、运行简单应用程序和预览照片的显示屏。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348949/metas-next-smart-glasses-may-be-with-oakley</guid>
+      <pubDate>Tue, 21 Jan 2025 22:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>《索尼克 4》将于 2027 年 3 月上映</title>
+      <link>https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date</link>
+      <description><![CDATA[
+
+图片：派拉蒙
+
+第四部索尼克电影现已正式上映：2027 年 3 月 19 日，据Variety报道。就在去年 12 月非常成功的刺猬索尼克 3上映时，有消息称刺猬索尼克 4正在制作中，但当时，这部电影只在 2027 年春季上映。
+索尼克电影多年来吸引了全明星阵容，例如金凯瑞饰演 Robotnik 博士，他在三部电影中都扮演了这个角色，伊德瑞斯·艾尔巴 (Idris Elba) 饰演 Knuckles，以及基努·里维斯 (Keanu Reeves) 饰演 Shadow。第三部电影的片尾场景暗示其他粉丝喜爱的作品可能会加入该系列（该链接中有剧透！），因此第四部索尼克电影可能会有重大演员阵容公告。
+《刺猬索尼克 4》将于 2027 年 3 月上映，这意味着它将在《超级马里奥兄弟电影》续集之后推出，后者将于 2026 年 4 月 3 日首映。]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348904/sonic-4-march-2027-paramount-movie-release-date</guid>
+      <pubDate>Tue, 21 Jan 2025 22:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 再次涨价，标准套餐价格上涨至 17.99 美元</title>
+      <link>https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024</link>
+      <description><![CDATA[
+
+插图由 Alex Castro / The Verge 提供
+
+Netflix 再次涨价。在周二发布的最新收益报告中，这家流媒体服务公司宣布“我们今天将调整美国、加拿大、葡萄牙和阿根廷大部分套餐的价格”。
+Netflix 发言人 MoMo Zhou 告诉 The Verge，广告支持套餐的价格将从每月 6.99 美元上涨至 7.99 美元，而标准无广告套餐的价格将从每月 15.49 美元上涨至 17.99 美元。其最高价的高级套餐的价格也从每月 22.99 美元上涨至 24.99 美元。据 Zhou 称，涨价将在订阅者的下一个计费周期生效。
+]]></description>
+      <guid>https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024</guid>
+      <pubDate>Tue, 21 Jan 2025 21:13:37 GMT</pubDate>
+    </item>
     <item>
       <title>Switch 2 有一个新的触发器用于断开 Joy-Con 控制器</title>
       <link>https://www.theverge.com/2025/1/21/24348868/nintendo-switch-2-new-trigger-disconnecting-joy-con-controllers</link>
@@ -51,7 +146,7 @@ AI 更新仅适用于支持 Apple Intelligence 的设备，包括 iPhone 15 Pro 
 游戏助手覆盖以前仅限于测试版用户使用，但它现在在 Microsoft Edge 的稳定版本中可用。如果您想启用游戏内浏览器，您可以打开 Microsoft Edge 并转到设置及更多 &gt; 设置，然后搜索游戏助手并安装小部件。游戏助手功能将在游戏栏中可用，可以使用 Windows 键 + G 打开。
 
 “游戏助手的初始预览版为一系列热门 PC 游戏提供了上下文提示和指南，同时我们会根据您的反馈优化体验，”Microsoft Edge 高级产品经理 William Devereux 解释道。微软还增加了对更受欢迎的 PC 游戏的支持，包括印第安纳琼斯和大圆环、漫威对手和龙腾世纪：面纱守卫。
-“我们将在整个预览版和一段时间内为更受欢迎的游戏添加提示和指南，”Devereux 说道。 “与此同时，您仍然可以在玩任何游戏时使用 Game Assist 浏览您最喜欢的指南或其他网站。”
+“我们将在整个预览版和后续阶段为更受欢迎的游戏添加提示和指南，”Devereux 说道。 “与此同时，您仍然可以在玩任何游戏时使用 Game Assist 浏览您最喜欢的指南或其他网站。”
 Game Assist 通过使用与主 Microsoft Edge 浏览器相同的 cookie、自动填充和收藏夹数据来工作。Microsoft 还为该 Game Assist 功能添加了对广告拦截器等扩展程序的支持，并计划在未来添加对键盘快捷键的支持，同时提供改进的画中画体验和将 Microsoft Edge 中的选项卡添加到侧边栏的功能。]]></description>
       <guid>https://www.theverge.com/2025/1/21/24348858/microsoft-edge-game-assist-game-bar-browser</guid>
       <pubDate>Tue, 21 Jan 2025 20:16:58 GMT</pubDate>
@@ -62,98 +157,6 @@ Game Assist 通过使用与主 Microsoft Edge 浏览器相同的 cookie、自动
       <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2025/1/21/24348789/trump-birthright-citizenship-repeal-executive-order-h1b-lawsuit</guid>
       <pubDate>Tue, 21 Jan 2025 20:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 macOS 上镜像 iPhone 屏幕</title>
-      <link>https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to</link>
-      <description><![CDATA[
-
-图片：Samar Haddad / The Verge
-
-Apple 继续利用“连续互通”功能，让 iPhone 和 Mac 之间的连接更加便捷。 macOS Ventura 引入了 Continuity，Continuity 可让您将 iPhone 用作 Mac 的网络摄像头。它还提供跨设备的通用剪贴板、通话和文本同步、AirPlay 流媒体——现在，您还可以将 iPhone 的显示镜像到连接到 Mac 的屏幕上。
-如果您有运行 iOS 18 或更高版本的 iPhone 和运行 macOS Sequoia 15 或更高版本的带有 Apple 芯片或 T2 安全芯片的 Mac，那么您可以使用 iPhone 镜像。顾名思义，它就是将移动设备显示屏的实时副本复制到计算机显示屏上，您还可以与之交互。镜像意味着您可以将手机放在口袋或抽屉中，同时查看应用程序和消息 - 当然，您还可以使用键盘和鼠标（或触控板）控制。 
-以下是设置方法。我在运行 iOS 18.2.1 的 iPhone 15 Pro Max 和运行 macOS Sequoia 15.2 的 M1 MacBook Pro 上尝试了它。
-开始使用 iPhone 镜像
-除了我们已经提到的软件要求（iOS 18 和 macOS 15）之外，还需要进行一些检查才能使其正常工作。 iPhone 和...
-阅读 The Verge 上的完整报道。]]></description>
-      <guid>https://www.theverge.com/24348505/macos-ios-iphone-mirror-continuity-how-to</guid>
-      <pubDate>Tue, 21 Jan 2025 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 12 月以来，Balatro 已售出 100 多万份</title>
-      <link>https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards</link>
-      <description><![CDATA[
-
-Playstack
-
-Balatro 已经跨越了一个重要的里程碑，第一年就售出了 500 万份。该消息已在 X 上分享，并向 The Game Awards 致谢。
-“对于在 @thegameawards 上看到 Balatro 后购买它的所有人，我们希望你们玩得开心！”帖子写道。Balatro 在 The Game Awards 上备受关注，获得了包括年度游戏在内的多项奖项的提名，并赢得了最佳独立游戏、最佳首发独立游戏和最佳移动游戏类别。 
-在 X 上，Balatro 发行商 Playstack 的公关经理 Wout van Halderen 补充说，截至 12 月第一周，该游戏已售出 350 万份。 由于 The Game Awards 将于 12 月第二周举行，这意味着 Balatro 在 Keighley 的圣诞节商业募捐活动中亮相后，销量大幅增长了 150 万份。更令人印象深刻的是，500 万这个数字是总销量，不包括该游戏在 Apple Arcade 订阅中获得的下载次数。
-自 2 月推出以来，Balatro 迅速成为 2024 年最大的独立热门游戏之一。这款扑克类 roguelike 游戏由一个人在两年内开发，以精心制作的“数字上升”游戏而闻名，其开发者开玩笑说它吞噬了玩家的空闲和不那么空闲的时间。
-
-自游戏发布以来的 11 个月里，它只进行了小规模的 装饰 更新，但开发商 LocalThunk 暗示了 重大更新以游戏玩法为重点的更新将于今年推出。
-Jimbo 帮助我们所有人。
-]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348727/balatro-5-million-copies-the-game-awards</guid>
-      <pubDate>Tue, 21 Jan 2025 19:18:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>从二月份开始，Microsoft 将自动保持您登录到您的帐户</title>
-      <link>https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-微软将于下个月对您登录微软帐户的方式进行一些更改。 从 2 月开始，除非您退出或使用隐私浏览，否则您将自动保持登录 Microsoft 帐户的状态。这是一项需要人们注意的变化，尤其是在使用公共计算机时。
-目前，如果您登录 Microsoft 帐户，系统将始终询问您是否要保持登录状态，因此您下次无需再次登录。微软改变自动保持登录状态意味着您必须在公共电脑上使用私人浏览窗口，或者确保在会话结束后记得注销，否则帐户将保持登录状态。如果您经常在公共电脑上使用 Outlook 或 Microsoft 帐户，那么现在绝对是时候开始习惯注销或使用私人浏览会话了（无论如何您都应该这样做）。如果您在 2 月份错误地忘记退出 Microsoft 帐户，您可以随时强制在所有浏览器、应用程序以及 Xbox 控制台以外的任何其他地方退出您的帐户。微软对其帐户登录流程的最新更改是在该公司为其所有消费者帐户添加密钥支持几个月后进行的。您可以通过点击此链接为您的 Microsoft 帐户创建密钥，并且您可以选择面部、指纹、PIN 或安全密钥来使用设备通过密钥登录。]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348578/microsoft-account-sign-in-changes-february</guid>
-      <pubDate>Tue, 21 Jan 2025 19:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Korg 的第一款唱片机专为 DJ、音响发烧友和档案管理员设计</title>
-      <link>https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348638/korg-handytraxx-play-tube-1bit-record-player-turntable-vinyl</guid>
-      <pubDate>Tue, 21 Jan 2025 19:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔沃宣布延期上市的 EX30 紧凑型 SUV 定价</title>
-      <link>https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us</link>
-      <description><![CDATA[
-
-图片：沃尔沃
-
-紧凑型沃尔沃 EX30 终于抵达美国——随之而来的是其价格的进一步明朗化。 
-2023 年首次发布时，EX30 被定位为一款更小、更实惠的电动汽车，而市场上充斥着昂贵的豪华车型。而且，它的起价仅为 34,950 美元，似乎有望赢得大量追随者。
-当时，唯一以类似价格出售的其他电动汽车是实用的雪佛兰 Bolt 和日产 Leaf。您还可以找到几辆二手电动汽车，甚至是精简版的特斯拉 Model 3，但以不到 35,000 美元的价格出售豪华配置（如果是基本款）的欧洲车型的想法闻所未闻。 
-但由于政治原因，沃尔沃被迫将 EX30 在美国的上市时间推迟到 2025 年，理由是中国对在中国生产的汽车征收了新的关税。沃尔沃是吉利的子公司，包括 EX30 在内的许多车型都是在中国生产的。沃尔沃表示，为了应对新的限制，他们正在将 EX30 的生产转移到比利时工厂。 
-今天，沃尔沃宣布，EX30 最受欢迎的车型终于要登陆美国了。这款车型就是 EX30 Twin Motor Performance，功率为 422 马力，Plus 装备包起价为 44,900 美元（不包括运费）。升级到 Ultra 套件将花费 46,600 美元。
-这绝对超过 34,950 美元——不幸的是，沃尔沃没有透露何时可以期待更实惠的版本在美国上市。考虑到这里的政治局势，我很难责怪沃尔沃在美国电动汽车销售方面谨言慎行。特朗普政府承诺减少激励措施并增加关税——这两项措施都可能导致购车者支付更高的价格。
-尽管如此，EX30 在欧洲仍然大获成功，沃尔沃这款小型 SUV 的销量已超过 10 万辆。8 月份，仅次于特斯拉 Model Y。可以推断，一旦美国消费者拿到它，他们也会做出类似的反应。 
-沃尔沃在美国还有另外两款电动汽车：中型 EX40，单电机型号起价 52,500 美元，配备所有配置最高可达 60,750 美元；全尺寸三排 EX90，起价 79,995 美元，最高可达 89,845 美元。运费使这些价格上涨至少 1,000 美元。]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348733/volvo-ex30-compact-suv-price-us</guid>
-      <pubDate>Tue, 21 Jan 2025 18:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 将允许你在 Instagram 和 Facebook 上分享你的状态</title>
-      <link>https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-Meta 正在将 WhatsApp 整合到其帐户中心，因为WABetaInfo 发现。这项变化将在“未来几个月”在全球范围内推出，让 WhatsApp 用户可以在 Instagram 和 Facebook 上分享状态更新，并启用单点登录。
-Meta 表示链接不会自动打开，因此由您决定是否将 WhatsApp 链接到帐户中心。根据帮助页面，如果你这样做，Meta 将开始使用你的 WhatsApp 信息“来提供、个性化和改进其产品和服务，包括向你展示广告”关于这一变化。 
-
-
-图片：Meta
-
-Meta 的其他应用不会使用 WhatsApp 个人数据，“除非是为了确定我们服务多少人、保障人们的安全，或者提供适用于 Meta 产品的可选功能，”该公司写道。它还表示，关联您的帐户不会改变 WhatsApp 中消息是端到端加密的事实。
-Meta 表示，未来它将为用户增加进入帐户中心的功能，以管理 Meta AI 贴纸或使用其 Imagine Me 功能创建的 AI 生成的头像等内容。
-
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/21/24348626/whatsapp-meta-accounts-center-login-status-sharing-instagram-facebook-story</guid>
-      <pubDate>Tue, 21 Jan 2025 17:04:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
