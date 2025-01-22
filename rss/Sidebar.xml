@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:32:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:18:55 GMT</lastBuildDate>
+    <item>
+      <title>诗歌相机</title>
+      <link>https://poetry.camera/</link>
+      <description><![CDATA[一台能将所见所闻写成诗歌的相机。
+]]></description>
+      <guid>https://poetry.camera/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络是一个创意产业，目前正面临经济困境</title>
+      <link>https://www.baldurbjarnason.com/notes/2025/the-web-is-a-creative-industry/</link>
+      <description><![CDATA[无论我如何看待，越来越明显的是，许多就业市场状况非常糟糕。
+]]></description>
+      <guid>https://www.baldurbjarnason.com/notes/2025/the-web-is-a-creative-industry/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interop 2024 的成功</title>
+      <link>https://www.webkit.org/blog/16413/the-success-of-interop-2024/</link>
+      <description><![CDATA[浏览器引擎团队之间的年度协作今年已达到95％的互操作性。
+]]></description>
+      <guid>https://www.webkit.org/blog/16413/the-success-of-interop-2024/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析您最喜爱的应用程序的服务条款</title>
+      <link>https://www.tosabout.com/</link>
+      <description><![CDATA[我们试图利用他们用来削减我们权利的技术进行反击，并为他们削减我们的权利寻找借口。
+]]></description>
+      <guid>https://www.tosabout.com/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>重塑美国梦</title>
+      <link>https://www.otherway.com/work/rocket</link>
+      <description><![CDATA[设计美国第一家情感驱动的房屋所有权公司。
+]]></description>
+      <guid>https://www.otherway.com/work/rocket</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>暗黑模式侦探</title>
       <link>https://games.productartistry.com/games/dark-patterns</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://informationisbeautiful.net/beautifulnews/news/nygoodtimes/</guid>
       <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>没人关心</title>
-      <link>https://grantslatton.com/nobody-cares</link>
-      <description><![CDATA[世界上有很多东西，只要再多付出 1% 的努力，就能变得非常出色。但人们并不关心。
-]]></description>
-      <guid>https://grantslatton.com/nobody-cares</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件民间传说</title>
-      <link>https://beza1e1.tuxen.de/lore/index.html</link>
-      <description><![CDATA[有时，细菌的症状令人难以置信。这是来自网络的此类故事的集合。
-]]></description>
-      <guid>https://beza1e1.tuxen.de/lore/index.html</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用屏幕阅读器测试可访问性</title>
-      <link>https://www.epicweb.dev/testing-accessibility-with-screen-readers</link>
-      <description><![CDATA[深入了解屏幕阅读器测试的世界，并发现为什么依赖单一工具是不够的。 
-]]></description>
-      <guid>https://www.epicweb.dev/testing-accessibility-with-screen-readers</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉丁字母的视觉历史</title>
-      <link>https://uclab.fh-potsdam.de/arete/en</link>
-      <description><![CDATA[拉丁字母历史的交互式可视化，展示不同文字和字体的时间和形式关系。
-]]></description>
-      <guid>https://uclab.fh-potsdam.de/arete/en</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的第一个组件</title>
-      <link>https://blog.damato.design/posts/your-first-component/</link>
-      <description><![CDATA[搭建组件库时，最先搭建的组件是什么，为什么总是按钮？
-]]></description>
-      <guid>https://blog.damato.design/posts/your-first-component/</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
