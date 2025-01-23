@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 22 Jan 2025 21:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 01:10:04 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 589：精彩自动更正</title>
+      <link>https://sixcolors.com/podcast/2025/01/clockwise-589-spicy-auto-correct/</link>
+      <description><![CDATA[Apple 默认启用 Apple Intelligence 功能、对我们有用的 AI 摘要、三星无趣的新手机以及我们的电缆管理偏好。…]]></description>
+      <guid>https://sixcolors.com/podcast/2025/01/clockwise-589-spicy-auto-correct/</guid>
+      <pubDate>Wed, 22 Jan 2025 23:06:09 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）反弹 530：我听到了我说的每一句话</title>
       <link>https://sixcolors.com/podcast/2025/01/the-rebound-530-i-hear-everything-im-saying/</link>
@@ -117,14 +124,6 @@ The Verge 的 Abigail Bassett 介绍了 Watch Duty，这是一款出色的非营
 Watch Duty 在科技界独树一帜，因为它不关心用户参与度、花费的时间或广告销售。…]]></description>
       <guid>https://sixcolors.com/link/2025/01/watch-duty-the-crucial-wildfire-tracking-app/</guid>
       <pubDate>Sun, 12 Jan 2025 00:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速提示：防止磁盘自动安装</title>
-      <link>https://sixcolors.com/post/2025/01/quick-tip-prevent-a-disk-from-auto-mounting/</link>
-      <description><![CDATA[
-从台式机切换到笔记本电脑的后果之一是，我每天克隆磁盘的旧方法已经不适用了。…]]></description>
-      <guid>https://sixcolors.com/post/2025/01/quick-tip-prevent-a-disk-from-auto-mounting/</guid>
-      <pubDate>Fri, 10 Jan 2025 23:05:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

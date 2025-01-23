@@ -4,7 +4,105 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 21:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 01:09:16 GMT</lastBuildDate>
+    <item>
+      <title>Tumblr 实验性的 GIF 动态十年后终于上线</title>
+      <link>https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+Tumbler 终于在其应用顶部推出了 Tumblr TV 作为新标签，该公司今天表示简短的更新说明由TechCrunch发现。Tumblr TV 于 2015 年首次作为 GIF 查找功能首次亮相，但现在它还包括视频内容。
+
+
+
+屏幕截图：Tumblr TV
+
+
+据 Tumblr 称，“新用户将默认在第三个位置启用此选项卡，而现有用户将可以在仪表板选项卡配置中启用它（如果尚未启用）。
+当您点击Tumblr TV 选项卡上，你会看到一个视频和 GIF 网格。点击其中一个后，你可以点赞、评论、转发或分享，当你准备看其他内容时，你可以向上滑动继续。
+在我非常简短的测试中，尽管它包含了视频和类似于其他短视频应用的滑动界面，但它仍然包含大量 GIF。 
+将 Tumblr TV 与 TikTok 进行比较可能很诱人，尤其是考虑到它最近关闭，但现在，它更像是滚动浏览充满 GIF 的群组文本。
+
+
+]]></description>
+      <guid>https://www.theverge.com/2025/1/22/24349904/tumblr-tv-gif-video-tab</guid>
+      <pubDate>Wed, 22 Jan 2025 23:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Celeste 开发商取消后续游戏 Earthblade</title>
+      <link>https://www.theverge.com/2025/1/22/24349916/celeste-developers-cancel-earthblade-extremely-ok-games</link>
+      <description><![CDATA[
+
+图片：Extremely OK Games
+
+《Earthblade》是《Celeste》开发商的下一款游戏，现已取消。这款以奇幻为灵感的游戏于 2022 年底发布了其首个预告片，Extremely OK Games 的 Maddy Thorson 当时表示，游戏将允许您探索“自由漫游、动态加载的地图”。但团队在 12 月决定取消这款游戏，因为团队发生冲突，而且由于试图跟进 Celeste 的压力，Thorson 在一篇详细介绍了发生的事情的帖子中说。
+“分歧”发生在 Thorson 和 Noel Berry（Thorson 将他们两人称为“我们”）与 Pedro Medeiros 之间，争论的焦点是“Celeste 的知识产权”，Thorson 说。“我们最终达成了解决方案，但双方最终也同意我们应该分道扬镳”，而 Medeiros 目前正在开发一款名为 Neverway 的游戏。 “失去佩德罗并不是取消游戏的唯一因素，但它确实促使我们认真考虑坚持完成《Earthblade》是否是正确的前进道路，”Thorson 说。
+《Celeste》的巨大成功也“给我们施加了压力，要求我们用《Earthblade》提供更大更好的东西，而这种压力是开发它变得如此疲惫的主要原因，”Thorson 说。 “这不能怪佩德罗——事实上，与他的分手让我们清楚地认识到我们迷失了方向，也让我们有机会承认失败。”
+Thorson 和 Berry 希望重新专注于“小规模项目”，并“重新进行原型设计”，试图“以一种更接近我们在Celeste或TowerFall之初的方式重新发现游戏开发。”]]></description>
+      <guid>https://www.theverge.com/2025/1/22/24349916/celeste-developers-cancel-earthblade-extremely-ok-games</guid>
+      <pubDate>Wed, 22 Jan 2025 23:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 的三风扇 GPU 冷却器是 RTX 5090 更薄的一步</title>
+      <link>https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real</link>
+      <description><![CDATA[
+
+RTX 4090 比 RTX 5090 厚很多。 |照片由 Tom Warren / The Verge 拍摄
+
+Nvidia 发布了一段新视频，展示了 Founders Edition 显卡设计的历史，探讨了其新款 RTX 5090 的设计，并证实了之前泄露的一款采用非常规大型四槽设计的原型。 
+正如 VideoCardz 所指出的那样，泄密者 Kopite7kimi 首次披露的原型“Titan ADA”卡包含一个三风扇冷却系统，本月早些时候，Gamers Nexus 测试并拆解了原型的一个工作版本。
+
+在今天发布的视频中，Nvidia 系统产品执行副总裁 Andrew Bell 解释说，Nvidia 卡显卡越来越大，他们想改变这种状况。“我们不喜欢它占用四个插槽的想法；它太大，太笨重，只能在有限数量的机箱中使用，”Bell 说。
+
+Bell 说，原型三风扇冷却系统影响了 Nvidia 的 Blackwell 架构。然而，我们目前正在测试的最新 RTX 5090 Founders Edition 卡通过模块化四部分设计实现了其目标，该设计带有单独的 I/O 板，允许空气流通，从而实现更高效、更紧凑的冷却器。据 Nvidia 称，这些变化是新款 5090 适合主板上的两个插槽的原因，而之前的 4090 有三插槽。]]></description>
+      <guid>https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real</guid>
+      <pubDate>Wed, 22 Jan 2025 22:26:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>佳能凭借 4.1 亿像素 35 毫米相机传感器创下新纪录</title>
+      <link>https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography</link>
+      <description><![CDATA[
+
+图片：佳能
+
+如果你问佳能，百万像素竞赛还没有结束。今天，该公司宣布推出一款分辨率为 4.1 亿像素的全新 35 毫米全画幅 CMOS 传感器。即 24,592 x 16,704 像素，分辨率相当于 24K — 是 8K 分辨率的 12 倍，是高清分辨率的 198 倍。
+佳能表示，这是“35 毫米全画幅传感器有史以来像素数最多的传感器”，但不要指望该公司会在其面向消费者的数码相机上推出这款传感器。它专为监控、医疗和其他“需要极高分辨率”的工业应用而设计，并且不介意为此花费一大笔钱。
+得益于“重新设计的电路模式”和新开发的“背照式堆叠结构，其中像素段和信号处理段是分层的”，佳能表示该传感器的读出速度为“每秒 3,280 万像素”，允许以每秒八帧的速度捕获全分辨率图像。
+佳能还将提供单色版本的传感器，具有“四像素合并”功能，通过将四个相邻像素视为一个来提高低光灵敏度。虽然这会降低其整体分辨率，但它允许单色版本的传感器以每秒 24 帧的速度捕获 1 亿像素的视频。
+如果您想最大化像素，通常需要使用中画幅或更大的传感器和更大的相机。例如，Phase One XF IQ4 150MP 可以捕获 1.5 亿像素的图像。但通过将如此高的分辨率放入 35 毫米传感器中，该传感器将与全画幅相机已有的各种镜头兼容，佳能表示这将有助于“促进拍摄设备的小型化”。]]></description>
+      <guid>https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography</guid>
+      <pubDate>Wed, 22 Jan 2025 22:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 Gemini 已赢得下一代语音助手之战</title>
+      <link>https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa</link>
+      <description><![CDATA[
+
+插图：The Verge
+
+三星新手机最重要的变化之一很简单：长按手机侧面按钮时，默认情况下不会激活三星自己的 Bixby 助手，您将获得 Google Gemini。 
+这可能是一件好事。Bixby从来都不是一个很好的虚拟助手——三星最初构建它的主要目的是更简单地导航设备设置，而不是从互联网获取信息。从那时起，它就变得越来越好，现在可以执行标准的助手操作，例如执行视觉搜索和设置计时器，但它从未赶上 Alexa、Google Assistant 甚至 Siri。所以，如果你是三星用户，这是个好消息！你的助手现在可能更好了。（如果出于某种未知原因，你真的很喜欢 Bixby，别担心：还有一个应用程序。）
+转向 Gemini 对谷歌来说是一件大事。几年前，当 ChatGPT 推出时，谷歌措手不及谷歌措手不及，但已经在很大程度上赶上了。根据《华尔街日报》最近的报道，首席执行官 Sundar Pichai 现在认为 Gemini 已经超越了 ChatGPT，他希望谷歌在今年年底前拥有 5 亿用户。它可能只是……
+在 The Verge 上阅读完整故事。]]></description>
+      <guid>https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa</guid>
+      <pubDate>Wed, 22 Jan 2025 22:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是新款 Galaxy S25 与 S25 Plus 和 S25 Ultra 的对比情况</title>
+      <link>https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price</link>
+      <description><![CDATA[
+
+三星的最新手机外观和感觉都非常相似，但也存在一些关键差异。 |照片由 Chris Welch / The Verge 拍摄
+
+在其最新的 Unpacked 活动中，三星透露了 Galaxy S25 系列的所有细节。 Galaxy S25 和 S25 Plus 的起价分别为 799.99 美元 和 999.99 美元，而 S25 Ultra 的入门级配置售价高达 1299.99 美元。您可以在 2 月 7 日上市之前预订手机，但在预订之前，您可能想知道有什么新功能。
+
+除了外观和感觉没有太大不同，略微弯曲的 Galaxy S25 Ultra。Snapdragon Elite 8 可能是 S25 系列最引人注目的硬件升级，它比 Snapdragon 8 Gen 3 芯片组快 40%，并配备了新的神经处理单元，以支持三星扩展的 Galaxy AI 体验。毕竟，该公司推出了多模式和生成式 AI 改进，而 Galaxy S25 系列将成为首批推出Google Gemini 新功能的产品之一。
+我们的评论尚未发布，现在判断这些手机是否真的值得升级还为时过早。但这并不意味着我们不能提炼出它们的差异来帮助您确定您更愿意购买哪款设备。继续阅读，了解所有硬件和软件的详细分析...
+阅读 The Verge 上的完整报道。]]></description>
+      <guid>https://www.theverge.com/24345428/samsung-galaxy-s25-plus-ultra-specs-comparison-price</guid>
+      <pubDate>Wed, 22 Jan 2025 21:53:11 GMT</pubDate>
+    </item>
     <item>
       <title>最好的门铃摄像头</title>
       <link>https://www.theverge.com/22954554/best-video-doorbell-camera</link>
@@ -20,48 +118,7 @@
     <item>
       <title>这是三星 Galaxy S25 Edge</title>
       <link>https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked</link>
-      <description><![CDATA[
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-三星刚刚发布了 Galaxy S25 Edge — Galaxy S25 系列的全新超薄手机。这款手机尚未上市，三星也没有提供任何细节，但现在我们知道它是真的。而且我们有照片。
-和几乎所有手机一样，它是一块薄薄的银色平板。它的背面有两个摄像头，而不是其他 S25 手机的三个摄像头。据传，Edge 的厚度仅为 6.4 毫米，但我的同事 Allison Johnson 和 Vjeran Pavic 在 Galaxy Unpacked 现场拍摄了以下照片，但他们无法实际握住或测量该设备以确认。
-
-我们正试图靠近一些，以便展示视角，但现场挤满了人。这款手机引起了很多人的兴趣。相比之下，普通的 Galaxy S25 厚度为 7.2 毫米。所以，它...更薄了。
-以下是我们拍摄的一些照片：
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-
-
-
-照片由 Allison Johnson / The Verge 拍摄
-
-1 月 22 日更新：添加了更多照片。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked</guid>
       <pubDate>Wed, 22 Jan 2025 19:51:01 GMT</pubDate>
     </item>
@@ -103,129 +160,6 @@ Xbox 还发布了一项更新，为云游戏会话启用了新的网络质量指
 ]]></description>
       <guid>https://www.theverge.com/2025/1/22/24349728/gdc-state-of-the-industry-survey-2025-results</guid>
       <pubDate>Wed, 22 Jan 2025 19:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>数十个子版块禁止链接到 X</title>
-      <link>https://www.theverge.com/2025/1/22/24349467/reddit-subreddit-x-twitter-link-bans-elon-musk-nazi-salute</link>
-      <description><![CDATA[
-
-图片：The Verge
-
-伊隆·马斯克做出了一个被历史学家和人权组织称为纳粹敬礼的手势后，数十个热门 subreddits 禁止链接到 X。已禁止链接到 X 的社区包括 r/formula1、r/military、r/nursing、r/TwoXChromosomes 和 r/nintendo。
-在新纳粹分子于周一在唐纳德·特朗普就职典礼集会上庆祝马斯克的演讲后，这种转变正在 Reddit 上蔓延。在演讲中，马斯克两次举起手臂，向纳粹致敬。历史学家、民选官员和支持大屠杀幸存者的组织认为这是纳粹敬礼。在演讲中，马斯克将手放在胸前，将手臂向前倾斜，在半空中停留片刻。他对支持者说：“我与你们同在。”一些马斯克的支持者为他辩护，称这一动作与他的话相符。 
-马斯克并没有否认新纳粹分子将他的手势解读为胜利万岁，事实上，他已经尽量减少批评，并在 X 上写道：“‘人人都是希特勒’的攻击实在是太累了。”马斯克之前曾放大种族主义、反犹太主义阴谋论，如大替代理论，并且不断发布不基于现实的反移民言论。在向美国政坛投入数百万美元以选举特朗普之后，马斯克也扩展到了德国政坛，支持极右翼德国选择党（AfD）。
-宣布新规则的 subreddits 覆盖了数百万来自不同地域和兴趣的用户
-无论马斯克的真实意图如何，极端分子都兴奋不已：因为据《滚石》杂志报道，白人至上主义者称这是“唐纳德·特朗普白人权力时刻”，并感谢马斯克“听取”他们的意见。
-宣布新规则的 subreddits 覆盖了数百万来自不同地域和兴趣的用户。 一些 subreddits 已宣布他们将允许从 X 截取内容的屏幕截图但不允许超链接，许多其他大型社区，如 r/nba 和 r/nfl 正在讨论效仿。即使不考虑马斯克的右翼政治立场，在 Reddit 上查看 X 链接也不是一种很好的体验：链接通常不会展开，用户需要 X 帐户才能查看平台上的对话。
-“Reddit 长期以来一直致力于言论自由和结社自由，”一位 Reddit 发言人表示，由于该话题的敏感性，他要求匿名。虽然各个子版块可以制定社区规则，但“Reddit Inc. 并未禁止 X 链接——Reddit 上仍然有很多 X 链接，”发言人在一封电子邮件中写道。
-X 未立即回应置评请求。]]></description>
-      <guid>https://www.theverge.com/2025/1/22/24349467/reddit-subreddit-x-twitter-link-bans-elon-musk-nazi-salute</guid>
-      <pubDate>Wed, 22 Jan 2025 19:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星首款 Android XR 耳机实物图</title>
-      <link>https://www.theverge.com/2025/1/22/24349736/samsung-project-moohan-photos-android-xr-headset</link>
-      <description><![CDATA[
-
-
-三星在 Galaxy Unpacked 上展示了其 Project Moohan 耳机，我们刚刚拍摄了一系列照片。
-从技术上讲，这并不是这是我们第一次看到 Project Moohan，但这是我们第一次被允许拍摄它。在我看来，它看起来有点类似于苹果的高端 Vision Pro 耳机，带有一丝 Meta 已停产的 Quest Pro 的影子。
-这款耳机由三星与谷歌合作开发，运行 Android XR，这是一个专为耳机和智能眼镜设计的操作系统。我的同事 Victoria Song 去年年底尝试了 Project Moohan，所以如果你想知道实际佩戴和使用的感觉，去看看她的印象。
-三星计划首先为开发者推出 Project Moohan，但不会立即向消费者推出。
-以下是我们在 Unpacked 活动现场拍摄的照片：
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-
-
-
-照片由 Vjeran Pavic / The Verge 拍摄
-]]></description>
-      <guid>https://www.theverge.com/2025/1/22/24349736/samsung-project-moohan-photos-android-xr-headset</guid>
-      <pubDate>Wed, 22 Jan 2025 19:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里预订三星 Galaxy S25、S25 Plus 和 S25 Ultra</title>
-      <link>https://www.theverge.com/24346252/samsung-galaxy-s25-plus-ultra-how-to-buy-preorder-price-release-date</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/24346252/samsung-galaxy-s25-plus-ultra-how-to-buy-preorder-price-release-date</guid>
-      <pubDate>Wed, 22 Jan 2025 19:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星声称其新款 Galaxy S25 Ultra 玻璃可承受从混凝土上头高处跌落</title>
-      <link>https://www.theverge.com/2025/1/22/24349700/samsung-s25-ultra-corning-gorilla-armor-2-ceramic</link>
-      <description><![CDATA[
-
-照片：Allison Johnson / The Verge
-
-屏幕破裂真的会成为本世纪的过去吗？我们绝对走在一条令人印象深刻的轨迹上！就在三星 Galaxy S23 采用了新型康宁大猩猩玻璃（可承受从一米高的腰部跌落到混凝土表面的冲击）两年后，新款三星 S25 Ultra 推出了一款陶瓷版本，据称可承受从 2.2 米（7.2 英尺）的头部跌落的冲击。 
-
-它被称为Corning Gorilla Armor 2，你应该知道，三星和康宁都没有承诺你的实际手机会在这样的跌落中幸存下来——如果它像 2023 年的说法那样，2.2 米的跌落只是一块手机大小、重量级的“冰球”在实验室中面朝下掉落时能够完好无损。三星今天在台上说的只是这种材料更能抵抗损坏。
-但这仍然是康宁和三星两代人之前宣称的高度的两倍多，而且该公司令人印象深刻地声称它能够在不损害玻璃抗划伤性的情况下实现这一目标——康宁过去偶尔不得不妥协，因为开发新形式的玻璃可能会在不同类型的保护之间进行权衡。据两家公司称，新款 Armor 2 显然具有与以前相同的防刮擦保护性能，“其抗刮擦性是具有防反射涂层的竞争性锂铝硅酸盐盖玻璃的四倍以上”。
-康宁和三星表示，这种玻璃仍将“大幅”减少反射就像去年的 Gorilla Armor一样，我们在三星手机测试中发现这一说法得到了证实。 
-但是，与去年一样，三星仅承诺在其高端 Ultra 机型上提供最好的玻璃，起价为 1,299 美元，重要的是要记住许多因素都可能导致玻璃屏幕比您想象的更快破裂。如果它落在比实验室测试略尖的突起上，或者如果玻璃已经被轻微划伤，从较低的高度掉落时可能会破裂。 
-康宁还自 2020 年以来，为苹果的 iPhone 提供了一种陶瓷玻璃——该公司将该产品称为“陶瓷护盾”。 
-
-相关：
-
-
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/22/24349700/samsung-s25-ultra-corning-gorilla-armor-2-ceramic</guid>
-      <pubDate>Wed, 22 Jan 2025 19:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Galaxy S25 Edge 是三星传闻中的“超薄”手机</title>
-      <link>https://www.theverge.com/2025/1/22/24349652/samsung-galaxy-s25-edge-teased</link>
-      <description><![CDATA[
-
-Galaxy S25 Edge，解构。 |截图：三星
-
-三星刚刚在其 Unpacked 活动结束时透露了 Galaxy S25 Edge，并在会上宣布了其 Galaxy S25 系列。除了简单命名手机之外，三星并未透露任何细节。
-以下是三星演示的一些截图。虽然很简短，但它确实是一部手机。
-
-据 Android Authority 报道，Galaxy S25 Edge 将登陆美国，该报道援引了三星南非代表的话。
-该媒体援引了该代表的话：
-因此，我们将有 Ultra、Plus 和基本型号。那将是南非。还有一款 Slim 型号，最初这里没有。它将在特定市场上市。
-他们补充道：
-尚未最终决定将发布哪些产品。但肯定会在美国和韩国发布（原文如此）。然后该型号可能会作为第二波发布。
-与苹果传闻中的 iPhone Air一样，Galaxy S25 Edge 预计将是三星旗舰系列的超薄版，厚度为 6.4 毫米，根据最近的传言。这使得它比该公司的其他 Galaxy 手机更薄。有传言称该手机将配备三个后置摄像头，但现在我们看到这一传言似乎并不准确——三星今天展示的这款手机背面似乎只有两个摄像头。
-有传言称，这款手机将于 5 月发布。
-三星代表告诉The Verge，除了 Unpacked 上的预告片外，该公司没有其他消息可透露。]]></description>
-      <guid>https://www.theverge.com/2025/1/22/24349652/samsung-galaxy-s25-edge-teased</guid>
-      <pubDate>Wed, 22 Jan 2025 19:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>很多人注册 Netflix 就是为了观看杰克·保罗与迈克·泰森的对决</title>
-      <link>https://www.theverge.com/2025/1/22/24349654/netflix-live-events-nfl-mike-tyson-jake-paul-subscribers</link>
-      <description><![CDATA[
-
-照片由 Al Bello/Getty Images for Netflix 拍摄 © 2024
-
-Netflix 对直播活动的大赌注正在获得回报。分析公司 Antenna 的 新数据显示，在迈克·泰森 (Mike Tyson) 与杰克·保罗 (Jake Paul) 拳击比赛前后的几天里，Netflix 增加了 143 万订阅用户，而在 NFL 圣诞节比赛前后，有 656,000 名会员注册。
-在 Netflix 超过 3 亿的全球订阅用户中，这些数字似乎很小，但据 Antenna 称，自 2023 年开始打击密码共享以来，该流媒体每天的注册人数一直保持在 50,000 至 70,000 左右。 
-
-
-图片：天线
-
-
-Netflix 重点介绍了其创纪录收视率，Netflix 在周二致投资者的一封信中表示，它将专注于播出“不容错过的特别赛事节目”，而不是常规赛季的体育节目。
-“尽管我们的直播节目可能只占我们总收视时间和内容费用的一小部分，但我们认为赛事化性质将为我们的会员和业务带来巨大价值，”Netflix 表示。该公司还提高了所有订阅的价格，因为它继续“投资于节目制作并提供更多价值”。
-除了 Netflix 之外，Paramount Plus 在去年第 57 届超级碗期间吸引了最多的订阅用户，Antenna 的数据显示，在这场大型比赛期间，注册用户激增了 320 万。 Peacock 在播出 NFL AFC 外卡赛以及巴黎夏季奥运会开幕日期间也取得了显着增长。]]></description>
-      <guid>https://www.theverge.com/2025/1/22/24349654/netflix-live-events-nfl-mike-tyson-jake-paul-subscribers</guid>
-      <pubDate>Wed, 22 Jan 2025 19:06:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
