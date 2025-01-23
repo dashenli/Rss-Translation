@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 23 Jan 2025 12:32:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 15:20:12 GMT</lastBuildDate>
+    <item>
+      <title>在 CSS 中平衡文本</title>
+      <link>https://ishadeed.com/article/balancing-text-css/</link>
+      <description><![CDATA[使用 CSS 中的文本换行使文本看起来更加平衡。
+]]></description>
+      <guid>https://ishadeed.com/article/balancing-text-css/</guid>
+      <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们扭转局面</title>
+      <link>https://www.letsbendthecurve.com/</link>
+      <description><![CDATA[解决数字技术对环境的影响。
+]]></description>
+      <guid>https://www.letsbendthecurve.com/</guid>
+      <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的像素完美图标</title>
+      <link>https://iconic.app/</link>
+      <description><![CDATA[免费，“随心所欲”地使用像素完美的图标。每周添加新图标。
+]]></description>
+      <guid>https://iconic.app/</guid>
+      <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作社区笔记</title>
+      <link>https://asteriskmag.com/issues/08/the-making-of-community-notes</link>
+      <description><![CDATA[X 社区笔记的创建团队讨论了他们的设计过程以及打击虚假信息的方法背后的理念。
+]]></description>
+      <guid>https://asteriskmag.com/issues/08/the-making-of-community-notes</guid>
+      <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网是为了谁而存在的？</title>
+      <link>https://www.chrbutler.com/who-is-the-internet-for</link>
+      <description><![CDATA[我们针对 Google 优化内容的动机正在从“请将访客引向我们”转变为“请使用我们的内容作为来源”。
+]]></description>
+      <guid>https://www.chrbutler.com/who-is-the-internet-for</guid>
+      <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>诗歌相机</title>
       <link>https://poetry.camera/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.ben-evans.com/presentations</guid>
       <pubDate>Tue, 21 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型手册：计量单位</title>
-      <link>https://type.today/en/journal/measurements</link>
-      <description><![CDATA[公里每小时、千瓦时、度、平方英里、液体盎司（等等）。
-]]></description>
-      <guid>https://type.today/en/journal/measurements</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺基亚设计档案</title>
-      <link>https://nokiadesignarchive.aalto.fi/</link>
-      <description><![CDATA[探索看不见的设计概念以及设计驱动转型和变革的机会。
-]]></description>
-      <guid>https://nokiadesignarchive.aalto.fi/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dropbox 品牌指南</title>
-      <link>https://brand.dropbox.com/</link>
-      <description><![CDATA[从图标到插图，从徽标到语言，这个系列是 Dropbox 的外观、感觉和声音的基础。
-]]></description>
-      <guid>https://brand.dropbox.com/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何颠覆网页设计</title>
-      <link>https://tomtunguz.com/back-to-text/</link>
-      <description><![CDATA[在过去的 20 年里，我们一直致力于改进设计复杂的网站，以方便人类使用。但人工智能依靠简单性而蓬勃发展：纯文本。
-]]></description>
-      <guid>https://tomtunguz.com/back-to-text/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约美好时光</title>
-      <link>https://informationisbeautiful.net/beautifulnews/news/nygoodtimes/</link>
-      <description><![CDATA[以不同的方式看待新闻。
-]]></description>
-      <guid>https://informationisbeautiful.net/beautifulnews/news/nygoodtimes/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
