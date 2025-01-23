@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 23 Jan 2025 06:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 09:18:25 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Agent.ai 构建 Web 性能监控代理</title>
+      <link>https://tympanus.net/codrops/2025/01/23/how-to-build-a-web-performance-watchdog-agent-with-agent-ai/</link>
+      <description><![CDATA[了解如何使用 Agent.ai Agent Builder 创建一个 AI 代理，以每天监控您网站的性能、检测异常并发送包含可操作见解的专业 HTML 电子邮件报告。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/23/how-to-build-a-web-performance-watchdog-agent-with-agent-ai/</guid>
+      <pubDate>Thu, 23 Jan 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>用于动态图像转换的 WebGL 着色器技术</title>
       <link>https://tympanus.net/codrops/2025/01/22/webgl-shader-techniques-for-dynamic-image-transitions/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在我们的首期开发者聚焦中，我们会见了动作设计师和前端开发人员 Lorenzo Dossi，他以创造力和精准度塑造网络。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/</guid>
       <pubDate>Fri, 10 Jan 2025 10:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>运动亮点 #1</title>
-      <link>https://tympanus.net/codrops/2025/01/09/motion-highlights-1/</link>
-      <description><![CDATA[全新多样的动作设计和动画概念集合，激发您的创造力并拓宽您的视野。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/09/motion-highlights-1/</guid>
-      <pubDate>Thu, 09 Jan 2025 10:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
