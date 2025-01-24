@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>西辛</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Fri, 24 Jan 2025 18:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 21:14:17 GMT</lastBuildDate>
+    <item>
+      <title>Studio Andrew Trotter 和 Taller Hector Barroso 等工作室将设计犹他州沙漠住宅</title>
+      <link>https://www.dezeen.com/2025/01/24/trotter-barroso-zion-utah-residential/</link>
+      <description><![CDATA[国际工作室 Morq、GOMA Taller、Studio Andrew Trotter 和 Taller Hector Barroso 已被选中设计 Pala Zion，这是位于犹他州沙漠。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/24/trotter-barroso-zion-utah-residential/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>Ini Archibong 为 Snoop Dogg 和 Dr Dre 设计杜松子酒瓶</title>
       <link>https://www.dezeen.com/2025/01/24/ini-archibong-still-gin-bottle-snoop-dr-dre-gin-juice/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[纽约工作室 BarlisWedlick 翻新并扩建了 南安普敦 住宅旨在打造通向海边的多代居住空间。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/23/barliswedlick-peconic-bay-house-hamptons/</guid>
       <pubDate>Thu, 23 Jan 2025 20:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dezeen Agenda 提出了在太空建造一公里宽太阳能发电场的计划</title>
-      <link>https://www.dezeen.com/2025/01/23/china-space-solar-farm-agenda/</link>
-      <description><![CDATA[我们每周的 Dezeen Agenda 时事通讯最新一期介绍了中国计划向太空发射太阳能发电场。立即订阅 Dezeen Agenda。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/23/china-space-solar-farm-agenda/</guid>
-      <pubDate>Thu, 23 Jan 2025 19:00:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
