@@ -4,11 +4,18 @@
     <title>动态：全部最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 24 Jan 2025 15:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 18:21:55 GMT</lastBuildDate>
+    <item>
+      <title>DOGE 将允许伊隆·马斯克从内部监视美国政府</title>
+      <link>https://www.wired.com/story/doge-elon-musk/</link>
+      <description><![CDATA[一位前美国服务部员工称将数字服务部门改组为 DOGE 是“A+ 官僚柔术之举”。这将使马斯克及其同事能够访问每个政府机构的非机密数据。]]></description>
+      <guid>https://www.wired.com/story/doge-elon-musk/</guid>
+      <pubDate>Fri, 24 Jan 2025 15:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>“我们看到了更多的仇恨”：跨性别者已经感到恐惧</title>
       <link>https://www.wired.com/story/trump-executive-order-transgender-kids/</link>
-      <description><![CDATA[本周，特朗普签署了一项针对跨性别者的全面行政命令，跨性别者和非二元性别者对接下来会发生什么感到恐惧。]]></description>
+      <description><![CDATA[本周，唐纳德·特朗普签署了一项针对跨性别者的全面行政命令，跨性别者和非二元性别者对接下来会发生什么感到恐惧。]]></description>
       <guid>https://www.wired.com/story/trump-executive-order-transgender-kids/</guid>
       <pubDate>Fri, 24 Jan 2025 14:41:09 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>科学让蜘蛛侠的蛛网投掷成为现实</title>
       <link>https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/</link>
-      <description><![CDATA[当美国的一个研究实验室意外创造出一种粘稠的网状物质时，它向彼得·帕克和漫画书传说寻求灵感，以决定下一步该怎么做。]]></description>
+      <description><![CDATA[当美国的一个研究实验室意外创造出一种粘稠的、类似网状的物质时，它向彼得·帕克和漫画书传说寻求灵感，以决定下一步该怎么做。]]></description>
       <guid>https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/</guid>
       <pubDate>Fri, 24 Jan 2025 12:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周，我们来关注一下 Meta 内容审核的新时代。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/</guid>
       <pubDate>Thu, 23 Jan 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯巴鲁安全漏洞暴露其数百万辆汽车的追踪系统</title>
-      <link>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</link>
-      <description><![CDATA[现已修复的网络漏洞使黑客能够远程解锁和启动数百万辆斯巴鲁汽车。更令人不安的是，他们还可以访问至少一年的汽车位置历史记录——斯巴鲁员工仍然可以这样做。]]></description>
-      <guid>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
