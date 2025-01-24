@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 24 Jan 2025 01:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:18:33 GMT</lastBuildDate>
+    <item>
+      <title>开发者聚焦：Mario Sanchez Maselli</title>
+      <link>https://tympanus.net/codrops/2025/01/24/developer-spotlight-mario-sanchez-maselli/</link>
+      <description><![CDATA[认识一下开发者兼 Non-Linear Studio 联合创始人 Mario。专注于交互式设计、动画、3D、WebGL 和创意开发。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/24/developer-spotlight-mario-sanchez-maselli/</guid>
+      <pubDate>Fri, 24 Jan 2025 12:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Agent.ai 构建 Web 性能监控代理</title>
       <link>https://tympanus.net/codrops/2025/01/23/how-to-build-a-web-performance-watchdog-agent-with-agent-ai/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>创建 3D 作品集的历程</title>
       <link>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</link>
-      <description><![CDATA[Merouane Bali 分享了他的 3D 网页设计背后的过程，重点介绍了 WebGL 和 React 集成，以及塑造这个沉浸式作品集的挑战和解决方案。]]></description>
+      <description><![CDATA[Merouane Bali 分享了他的 3D 网页设计背后的过程，重点介绍了 WebGL 和 React 集成，以及塑造这个沉浸式作品集所面临的挑战和解决方案。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</guid>
       <pubDate>Tue, 21 Jan 2025 12:38:17 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[2025 年最佳 WordPress 插件汇总，帮助您构建更好的网站、添加更智能的功能并确保一切顺利运行。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/13/top-wordpress-plugins-2025/</guid>
       <pubDate>Mon, 13 Jan 2025 06:26:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者聚焦：Lorenzo Dossi</title>
-      <link>https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/</link>
-      <description><![CDATA[在我们的首期开发者聚焦中，我们会见了动作设计师和前端开发人员 Lorenzo Dossi，他以创造力和精准度塑造网络。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/10/developer-spotlight-lorenzo-dossi/</guid>
-      <pubDate>Fri, 10 Jan 2025 10:21:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
