@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>西辛</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Sun, 26 Jan 2025 01:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 09:15:09 GMT</lastBuildDate>
+    <item>
+      <title>Enzo Mari 动物装饰由 C+S Architects 设计的意大利托儿所</title>
+      <link>https://www.dezeen.com/2025/01/26/cs-architects-noahs-ark-nursery-italy/</link>
+      <description><![CDATA[意大利工作室 C+S Architects 在贝加莫附近完成了一座托儿所，其特色是一面红色混凝土挡土墙，上面雕刻着著名动物的形象设计师 Enzo Mari 设计的 1950 年代拼图。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/01/26/cs-architects-noahs-ark-nursery-italy/</guid>
+      <pubDate>Sun, 26 Jan 2025 06:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Batliboi Studio 在布鲁克林阁楼中融合了工业和趣味元素</title>
       <link>https://www.dezeen.com/2025/01/25/atlantic-avenue-loft-brooklyn-batliboi-studio/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>八间浴室重新启用 21 世纪的粉色水槽</title>
       <link>https://www.dezeen.com/2025/01/25/pink-bathroom-sinks-lookbooks/</link>
-      <description><![CDATA[腮红色洗脸盆在当代浴室室内设计中重新流行起来。此 样板房 汇集了我们最喜欢的八个示例。阅读更多]]></description>
+      <description><![CDATA[腮红色面盆在当代浴室室内设计中重新流行起来。此 样板房 汇集了我们最喜欢的八个示例。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/25/pink-bathroom-sinks-lookbooks/</guid>
       <pubDate>Sat, 25 Jan 2025 10:00:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[《野兽派》领跑奥斯卡提名，但作为一部关于建筑的电影，它有点令人失望，威尔·威尔斯 写道。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/24/the-brutalist-will-wiles-opinion/</guid>
       <pubDate>Fri, 24 Jan 2025 11:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>BIG 的 Amager Bakke 是 2018 年最重要的建筑</title>
-      <link>https://www.dezeen.com/2025/01/24/amager-bakke-big-21st-century-architecture/</link>
-      <description><![CDATA[我们继续我们的21 世纪建筑：25 年 25 座建筑系列，BIG 的滑雪跳台发电厂，是该工作室的标志性建筑，将可持续性与趣味性融为一体。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/24/amager-bakke-big-21st-century-architecture/</guid>
-      <pubDate>Fri, 24 Jan 2025 11:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
