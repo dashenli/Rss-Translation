@@ -4,7 +4,14 @@
     <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 互联网上现在正在讨论什么</description>
-    <lastBuildDate>Mon, 27 Jan 2025 12:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:15:47 GMT</lastBuildDate>
+    <item>
+      <title>这些是美国人对 2025 年的预测</title>
+      <link>https://rss.digg.com/data-viz/link/americans-predictions-for-2025</link>
+      <description><![CDATA[从通货膨胀到流行病，以下是美国人认为会发生和不会发生的事情。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/americans-predictions-for-2025</guid>
+      <pubDate>Fri, 17 Jan 2025 16:07:09 GMT</pubDate>
+    </item>
     <item>
       <title>美国增长最快的三个富裕郊区都属于这个州</title>
       <link>https://rss.digg.com/real-estate/link/fastest-growing-wealthy-suburbs-us</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[从 GDP 到凶杀率，这是加拿大与美国其他州的比较。]]></description>
       <guid>https://rss.digg.com/data-viz/link/canada-vs-us-states-compare-rank-gdp</guid>
       <pubDate>Fri, 10 Jan 2025 16:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国千禧一代正在迁往这些城市</title>
-      <link>https://rss.digg.com/real-estate/link/us-cities-most-millennials-move-to</link>
-      <description><![CDATA[在少数地方，新千禧一代居民占总人口的 10% 以上。]]></description>
-      <guid>https://rss.digg.com/real-estate/link/us-cities-most-millennials-move-to</guid>
-      <pubDate>Fri, 10 Jan 2025 12:15:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

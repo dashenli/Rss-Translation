@@ -4,7 +4,32 @@
     <title>The Verge - 所有文章</title>
     <link>https://www.theverge.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 27 Jan 2025 12:30:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:15:06 GMT</lastBuildDate>
+    <item>
+      <title>Ciena 如何保持互联网在线，首席执行官 Gary Smith 为您讲解</title>
+      <link>https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview</link>
+      <description><![CDATA[
+
+The Verge 提供的照片插图 / 照片：Ciena
+
+您从未听说过的最大的科技公司之一正在帮助您收听这个播客。 
+阅读 The Verge 上的完整故事。]]></description>
+      <guid>https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview</guid>
+      <pubDate>Mon, 27 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的 DeepSeek AI 正击中 Nvidia 的痛处</title>
+      <link>https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store</link>
+      <description><![CDATA[
+
+美国人工智能公司的市值正在暴跌。 | 图片：DeepSeek
+
+中国人工智能初创公司 DeepSeek 开发的聊天机器人本周飙升至美国苹果应用商店排行榜榜首，取代 OpenAI 的 ChatGPT 成为下载次数最多的免费应用程序。同名的人工智能助手由 DeepSeek 的开源模型提供支持，该公司表示，这些模型只需要世界领先模型的一小部分成本，而且使用的芯片也少得多。这一说法激怒了金融市场，Nvidia 的股价在盘前交易中下跌了 12% 以上。1 月 20 日 DeepSeek 发布其新的 R1 推理模型后不久，该应用程序的下载量激增，该模型旨在解决复杂问题，据报道在某些基准测试中的表现与 OpenAI 的 o1 相当。 R1 基于 12 月发布的 V3 LLM DeepSeek 构建，该公司声称其性能与 GPT-4o 和 Anthropic 的 Claude 3.5 Sonnet 相当，开发成本不到 600 万美元。相比之下，OpenAI 首席执行官 Sam Altman 表示，GPT-4 的训练成本超过 1 亿美元。
+据《纽约时报》报道，DeepSeek 还声称，训练 V3 只需要大约 2,000 块 Nvidia 的专用芯片，而训练领先模型则需要 16,000 块或更多芯片。这些未经证实的说法导致开发人员和投资者质疑世界领先 AI 公司青睐的计算密集型方法。如果这是真的，那就意味着 DeepSeek 工程师们必须在贸易限制面前发挥创造力，以确保美国在人工智能领域的主导地位。
+Nvidia、Microsoft、OpenAI 和 Meta 正在向人工智能数据中心投资数十亿美元——仅星际之门项目就投资了 5000 亿美元，其中 100十亿美元预计将用于 Nvidia。投资者和分析师现在想知道这笔钱是否花得值，因为 Nvidia、微软和其他在维持 AI 现状方面拥有大量股份的公司在盘前交易中都呈下降趋势。]]></description>
+      <guid>https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store</guid>
+      <pubDate>Mon, 27 Jan 2025 12:49:01 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone SE 4 现身新照片和视频，刘海等</title>
       <link>https://www.theverge.com/2025/1/27/24352767/iphone-se-4-leak-photos-videos-dummy-notch-dynamic-island-camera</link>
@@ -38,7 +63,7 @@ iPhone SE 4 看起来很漂亮pic.twitter.com/ezhNrrhyf8— Majin Bu (@MajinBuOf
 SuperStation One 有三种颜色，包括半透明蓝色。 |图片：Retro Remake
 
 Retro Remake 的 Taki Udon 昨晚宣布，SuperStation One 已开放预订，这是原版 PlayStation 的 PS One 变体的克隆版。149.99 美元的 Founders Edition 预订已经售罄，但您现在仍然可以以 179.99 美元的价格预订标准版 225 美元的 SuperStation One，预计“第四季度或更早”发货。 
-虽然 SuperStation One 看起来像 PS One（配有与原始 PlayStation 控制器和存储卡兼容的端口），但它不仅仅能玩 PlayStation 1 游戏。正如 Polygon  指出的，它是一台定制的 MiSTER 现场可编程门阵列 (FPGA) 机器。这意味着，与其模拟游戏机，不如说其硬件实际上可以像那些游戏机一样运行，其核心范围从 Atari 5200 和 NES 到 PlayStation 和 Sega Saturn。
+虽然 SuperStation One 看起来像 PS One（配有与原始 PlayStation 控制器和存储卡兼容的端口），但它不仅仅能玩 PlayStation 1 游戏。正如 Polygon 指出的，它是一台定制的 MiSTER 现场可编程门阵列 (FPGA) 机器。这意味着，与其模拟游戏机，不如说其硬件实际上可以像那些游戏机一样运行，其核心范围从 Atari 5200 和 NES 到 PlayStation 和 Sega Saturn。
 
 
 介绍 SuperStation one。一款支持原始游戏、存储卡和控制器的开源 PS1 FPGA 游戏机。从磁盘或备份加载游戏。无区域限制。支持所有 MiSTer FPGA 核心，包括 N64 和 Sega Saturn。
@@ -79,7 +104,7 @@ Nick Barclay / The Verge 插图
 本周，我一直在阅读有关 Kieran Culkin 和 失眠 和 在 eBay 上寻找精美的创业产品，终于看了The Wild Robot，在观看The Mega-Brands That Built America时，对自己的购物习惯进行了很多思考，添加了一堆Baseus 伸缩线缆 连接到我的旅行包，玩一款基于浏览器的 Atari 游戏 Pitfall!，测试新的 Spark日历，并试图复制 Babish 看起来美味的早餐三明治。
 我还为您带来了 Android 世界中最大的新手机、每个游戏玩家都想要的 GPU、AI 工具的不可能测试、聪明的 Google 替代品等等。老实说，对于新产品来说，这是一个相当平静的一周，因为它既有 CES 后的低迷，也有彻底的政治混乱。但我们仍然有很棒的内容要谈！让我们开始吧。
 （一如既往，Installer 的最好部分是您的想法和提示。您正在观看/阅读/烹饪/下载/构建什么...
-在 The Verge 上阅读完整故事。]]></description>
+阅读 The Verge 上的完整故事。]]></description>
       <guid>https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer</guid>
       <pubDate>Sun, 26 Jan 2025 13:00:00 GMT</pubDate>
     </item>
@@ -120,7 +145,7 @@ Nick Barclay / The Verge 插图
 据报道，其他考虑购买TikTok的人包括埃隆·马斯克、房地产亿万富翁弗兰克·麦考特，以及Shark Tank 主持人 Kevin O’Leary。特朗普最近表示，他希望甲骨文联合创始人拉里·埃里森购买该平台。
 甲骨文的服务器网络已经为 TikTok 提供了大部分骨干网络，与甲骨文达成的潜在协议可能会让甲骨文“有效地监控和监督 TikTok 的动向”，据 NPR 的一位匿名消息人士称，该协议的目标是“最大限度地减少中国所有权”。 
 
-除了“参与谈判”之外，微软的参与情况尚不清楚。该公司还与甲骨文和沃尔玛一起参与了 2020 年收购 TikTok 的竞标，微软联合创始人比尔·盖茨曾称 TikTok 是“一杯毒酒”。据报道，沃尔玛这次没有参与，因为“对该应用的估价犹豫不决”。
+除了“参与谈判”之外，微软的参与情况尚不清楚。该公司还与甲骨文和沃尔玛一起参与了 2020 年收购 TikTok 的竞标，微软联合创始人比尔·盖茨曾称 TikTok 是“一杯毒酒”。据报道，沃尔玛这次没有参与，因为“对该应用的估计价格犹豫不决”。
 
 谈判消息是在特朗普总统发布行政命令之后传出的，该命令给予 TikTok 和其他公司 75 天的缓刑期，免于任何与美国要求字节跳动从 TikTok 撤资有关的执法行动。特朗普此前曾提出成立一家“合资企业”的可能性，美国将拥有该公司 50% 的股份。 
 微软拒绝对此事发表评论。我们还联系了甲骨文、TikTok 和白宫。
@@ -146,35 +171,6 @@ Fubo 首次推出 Essential The Streamable 指出，该套餐将于 12 月以每
 随着费率的提高，Fubo 再次比 YouTube TV 更贵，同一个月，其订阅费上涨了 10 美元。它也比迪士尼的 Hulu + Live TV 更贵，Fubo 正在计划合并。]]></description>
       <guid>https://www.theverge.com/2025/1/25/24351922/fubo-tv-essential-pro-elite-plan-price-increase</guid>
       <pubDate>Sat, 25 Jan 2025 22:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 Nvidia RTX 50 系列 GPU 的所有新闻</title>
-      <link>https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors</link>
-      <description><![CDATA[
-
-照片由 Tom Warren / The Verge 拍摄
-
-下一代 Nvidia GPU 即将问世。 Nvidia 的 RTX 50 系列 GPU 即将问世，首批产品 — RTX 5090 和 RTX 5080 — 将于 1 月发布30 日。RTX 5070 Ti 和 RTX 5070 将在 2 月份发布，但有些人已经通过 DLSS 4 抢先体验了 GPU 的软件优势。
-Tom Warren 对售价 1,999 美元的 RTX 5090 的 Verge 评论 表明，它是一款强大的产品，但并没有达到 RTX 4090 对其前代产品的跨越。这并没有阻止The Verge的 Sean Hollister 对双插槽 RTX 5090 Founders Edition GPU 印象深刻，当他将它塞进他老化的小型 PC时。
-与 50 系列 GPU 一起推出的还有具有多帧生成的 DLSS 4，这是一个软件技巧，可能与硬件本身一样重要。此最新版本的 DLSS 使用 AI 来预测性地生成帧，从而可以以更高的分辨率运行游戏，而不会像未启用 DLSS 4 时那样受到相同的帧率影响。已经在《赛博朋克 2077》中使用 RTX 40 系列 GPU 尝试过 DLSS 4 的玩家表示，他们已经看到了巨大的改进。
-
-我们将在《The Verge》上关注有关 Nvidia RTX 50 系列 GPU 的所有新闻。
-
-]]></description>
-      <guid>https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors</guid>
-      <pubDate>Sat, 25 Jan 2025 19:23:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在玩的最好的独立游戏</title>
-      <link>https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-关注此处，寻找一些出色的独立游戏。
-阅读 The 上的完整故事边缘。]]></description>
-      <guid>https://www.theverge.com/24339574/indie-games-recommendations-pc-switch-steam-deck-best-new-hidden-gems</guid>
-      <pubDate>Sat, 25 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
