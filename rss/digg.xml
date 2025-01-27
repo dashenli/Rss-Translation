@@ -4,7 +4,14 @@
     <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
     <description>Digg - 互联网上现在正在讨论什么</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:16:17 GMT</lastBuildDate>
+    <item>
+      <title>这些航空公司的航班取消次数最多</title>
+      <link>https://rss.digg.com/data-viz/link/airlines-most-flight-cancellations</link>
+      <description><![CDATA[如果您希望准时到达目的地，可能要避免乘坐这些公司的航班。]]></description>
+      <guid>https://rss.digg.com/data-viz/link/airlines-most-flight-cancellations</guid>
+      <pubDate>Tue, 21 Jan 2025 12:27:25 GMT</pubDate>
+    </item>
     <item>
       <title>这些是美国人对 2025 年的预测</title>
       <link>https://rss.digg.com/data-viz/link/americans-predictions-for-2025</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[从汽车保险到抵押贷款，这些是美国人每月花费最少的项目。]]></description>
       <guid>https://rss.digg.com/data-viz/link/most-affordable-cities-US-america-cost-spend</guid>
       <pubDate>Mon, 13 Jan 2025 16:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大如何成为美国第 51 个州</title>
-      <link>https://rss.digg.com/data-viz/link/canada-vs-us-states-compare-rank-gdp</link>
-      <description><![CDATA[从 GDP 到凶杀率，这是加拿大与美国其他州的比较。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/canada-vs-us-states-compare-rank-gdp</guid>
-      <pubDate>Fri, 10 Jan 2025 16:26:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
