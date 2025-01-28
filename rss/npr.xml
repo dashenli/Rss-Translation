@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Tue, 28 Jan 2025 01:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 03:16:42 GMT</lastBuildDate>
     <item>
       <title>亿万富翁投资者 Scott Bessent 被确认为财政部长</title>
       <link>https://www.npr.org/2025/01/27/g-s1-44998/scott-bessent-treasury-secretary</link>
@@ -36,9 +36,16 @@
     <item>
       <title>特朗普为学校逮捕移民扫清障碍后各学区如何应对</title>
       <link>https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools</link>
-      <description><![CDATA[特朗普总统废除了一项限制联邦特工在特定地点（包括学校）逮捕移民的政策。该政策已经影响到学校工作人员、学生和家长。]]></description>
+      <description><![CDATA[特朗普总统废除了一项限制联邦特工在某些地点（包括学校）逮捕移民的政策。该政策已经影响到学校工作人员、学生和家长。]]></description>
       <guid>https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools</guid>
       <pubDate>Mon, 27 Jan 2025 22:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>移民突击检查已经开始。对于移民和混合身份家庭来说，日常生活已经发生改变。</title>
+      <link>https://www.npr.org/2025/01/27/nx-s1-5271630/immigration-raids-are-sending-migrants-into-a-deep-panic-advocates-say</link>
+      <description><![CDATA[特朗普政府表示，突击行动将重点打击对公众构成威胁的犯罪分子。但各移民社区都已做好准备，并改变了他们的惯例。]]></description>
+      <guid>https://www.npr.org/2025/01/27/nx-s1-5271630/immigration-raids-are-sending-migrants-into-a-deep-panic-advocates-say</guid>
+      <pubDate>Mon, 27 Jan 2025 21:29:08 GMT</pubDate>
     </item>
     <item>
       <title>最新数据显示，英国已有 200 家公司选择实行每周四天工作制</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[特朗普政府针对难民发布了两项行政命令，数万名冒着生命危险为美国政府或军队工作的阿富汗人现在陷入困境。]]></description>
       <guid>https://www.npr.org/2025/01/27/nx-s1-5273521/trump-executive-order-refugee-afghanistan-veterans</guid>
       <pubDate>Mon, 27 Jan 2025 20:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克因鼓励德国人摆脱“过去的罪恶感”而受到批评</title>
-      <link>https://www.npr.org/2025/01/27/nx-s1-5276084/elon-musk-german-far-right-afd-holocaust</link>
-      <description><![CDATA[马斯克的言论发表于国际大屠杀纪念日两天前，此前，他在就职演讲中做出了被许多观众解读为纳粹敬礼的动作，受到批评。]]></description>
-      <guid>https://www.npr.org/2025/01/27/nx-s1-5276084/elon-musk-german-far-right-afd-holocaust</guid>
-      <pubDate>Mon, 27 Jan 2025 19:27:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
