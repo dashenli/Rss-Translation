@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 29 Jan 2025 06:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 09:17:35 GMT</lastBuildDate>
+    <item>
+      <title>从对话机器人到自主行走机器人和虚拟化妆。 2025 年 CES 上日本公司推出的 10 款值得关注的产品</title>
+      <link>https://wired.jp/article/ces-2025-notable-10-japanese-products/</link>
+      <description><![CDATA[CES 2025 展示了各种各样的产品，从实用产品和服务到仍在开发中的原型和奇特的设备。其中，我们将介绍10款值得关注的日本企业产品。]]></description>
+      <guid>https://wired.jp/article/ces-2025-notable-10-japanese-products/</guid>
+      <pubDate>Wed, 29 Jan 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
       <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>为什么中国的DeepSeek能够开发出与OpenAI相媲美的AI模型</title>
       <link>https://wired.jp/article/deepseek-china-model-ai/</link>
-      <description><![CDATA[中国一家颇受欢迎的对冲基金创始人梁文峰组建了一支拥有约万块 NVIDIA 芯片和一群雄心勃勃的年轻人的 AI 研究团队。仅仅两年后，它就以人工智能初创公司的身份横空出世，震惊了科技行业。我们接近了它成功的秘诀。]]></description>
+      <description><![CDATA[中国著名对冲基金创始人梁文峰准备了约1万块NVIDIA芯片，并召集了一群有志向的年轻人，组建了AI研究团队。仅仅两年后，它就突然崛起为一家人工智能初创公司，震惊了科技界。我们彻底了解了他们成功的秘密。]]></description>
       <guid>https://wired.jp/article/deepseek-china-model-ai/</guid>
       <pubDate>Tue, 28 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们使用 DeepSeek 的“R1”聊天机器人对 ChatGPT 进行了比较。</title>
+      <title>我们将 ChatGPT 与 DeepSeek 的“R1”聊天机器人进行了比较。</title>
       <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
       <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
       <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>中国人工智能应用“DeepSeek”取得巨大飞跃</title>
       <link>https://wired.jp/article/deepseek-app-popular-viral/</link>
-      <description><![CDATA[中国人工智能应用程序“DeepSeek”位居美国App Store下载量第一。它不仅功能强大，而且还震惊了硅谷，因为它使用的芯片数量比开发人工智能模型通常所需的芯片数量少得多。]]></description>
+      <description><![CDATA[来自中国的人工智能应用DeepSeek在美国App Store下载量排名第一。它震惊了硅谷，不仅因为它的高性能，还因为它的开发芯片数量比正常人工智能模型开发所需的芯片数量要少得多。]]></description>
       <guid>https://wired.jp/article/deepseek-app-popular-viral/</guid>
       <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 27 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>半导体领域的“美国优先”给英特尔和美国带来了什么</title>
+      <title>“美国优先”半导体对英特尔和美国意味着什么</title>
       <link>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</link>
       <description><![CDATA[在特朗普和拜登执政期间，美国一直寻求将半导体芯片制造业“带回”国内。现在，大量资金和基础设施涌入英特尔位于俄亥俄州的庞大园区——尽管英特尔本身正濒临倒闭。]]></description>
       <guid>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 27 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆·马斯克的“DOGE部”将控制美国政府内部</title>
+      <title>埃隆·马斯克的“DOGE部”未来将掌控美国政府内部</title>
       <link>https://wired.jp/article/doge-elon-musk/</link>
       <description><![CDATA[美国数字服务局 (USDS) 的一位前官员将美国数字服务局重组为政府效率部 (DOGE) 的举措形容为“A+ 官僚柔术”。通过这个新组织，埃隆·马斯克和其他人将能够全面访问非机密的政府数据。]]></description>
       <guid>https://wired.jp/article/doge-elon-musk/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[一项针对游戏开发商的调查显示，越来越多的开发商担心人工智能的引入会对整个游戏行业产生负面影响。尽管人工智能的应用具有潜力，但许多受访者对其实用性及其对行业的影响持否定态度。]]></description>
       <guid>https://wired.jp/article/video-game-industry-artificial-intelligence-developers/</guid>
       <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 科技“衍生品”——从无线耳机到无线吸尘器</title>
-      <link>https://wired.jp/gallery/nasa-spinoff-space-research-technology/</link>
-      <description><![CDATA[美国国家航空航天局 (NASA) 太空探索相关技术的“衍生品”产品已经渗透到我们的日常生活中。让我们看一些例子。]]></description>
-      <guid>https://wired.jp/gallery/nasa-spinoff-space-research-technology/</guid>
-      <pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
