@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Wed, 29 Jan 2025 03:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:18:34 GMT</lastBuildDate>
+    <item>
+      <title>粒子、进步和毅力：WebGPU 流体之旅</title>
+      <link>https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/</link>
+      <description><![CDATA[经过多年实验和创新的反思之旅，展示了 WebGPU 如何创建复杂、视觉冲击力强的流体模拟。]]></description>
+      <guid>https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:22:40 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年 10 多个最佳网页设计工具和资源（免费和付费）</title>
       <link>https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[本案例研究探讨了复古美学与现代创新如何结合在一起创造出独特且鼓舞人心的学习体验。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/16/case-study-gentle-rain/</guid>
       <pubDate>Thu, 16 Jan 2025 10:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Three.js 创建生成式艺术品</title>
-      <link>https://tympanus.net/codrops/2025/01/15/creating-generative-artwork-with-three-js/</link>
-      <description><![CDATA[受到 Lygia Clark 的极简几何设计的启发，使用 Three.js 和网格系统开发动态、生成的艺术作品。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/15/creating-generative-artwork-with-three-js/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:31:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
