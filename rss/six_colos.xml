@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell 和 Dan Moren 撰写的苹果、科技和其他东西</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 21:16:31 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针 590：双手放在脸上</title>
+      <link>https://sixcolors.com/podcast/2025/01/clockwise-590-all-hands-on-face/</link>
+      <description><![CDATA[我们使用非默认智能手机相机的频率、我们用来集中精力工作的技术或技巧、我们在哪里购买和阅读电子书、支持独立书店是否吸引我们，以及我们最不喜欢排除故障的事情。…]]></description>
+      <guid>https://sixcolors.com/podcast/2025/01/clockwise-590-all-hands-on-face/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:58:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）反弹 531：香蕉真相</title>
+      <link>https://sixcolors.com/podcast/2025/01/the-rebound-531-bananas-fact/</link>
+      <description><![CDATA[演员们幸灾乐祸……]]></description>
+      <guid>https://sixcolors.com/podcast/2025/01/the-rebound-531-bananas-fact/</guid>
+      <pubDate>Wed, 29 Jan 2025 19:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>苹果的智能家居推广要么晚了十年，要么恰逢其时（Macworld/Jason Snell）</title>
       <link>https://www.macworld.com/article/2588564</link>
@@ -106,21 +120,6 @@ Magic Lasso Adblock 拥有超过 5,000 条五星评价；它是适用于 iPhone�
       <description><![CDATA[有时解决方案比您想象的要简单。我试图找出一种方法来编写一个快捷方式，以便获取文件夹并将其所有子文件夹压缩到单独的档案中—即…]]></description>
       <guid>https://sixcolors.com/link/2025/01/compress-folders-into-separate-archives/</guid>
       <pubDate>Thu, 16 Jan 2025 18:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算很长列表中的几乎重复项</title>
-      <link>https://sixcolors.com/post/2025/01/counting-almost-duplicates-in-very-long-lists/</link>
-      <description><![CDATA[
-在过去几周，我发布了两个不同的项目，它们至少部分地由 Python 脚本提供支持，该脚本消除了过去需要数小时的繁重工作过程中的大量劳动。…]]></description>
-      <guid>https://sixcolors.com/post/2025/01/counting-almost-duplicates-in-very-long-lists/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:47:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）反弹 529：应该解雇更多人</title>
-      <link>https://sixcolors.com/podcast/2025/01/the-rebound-529-more-people-should-be-fired/</link>
-      <description><![CDATA[坚持到底。…]]></description>
-      <guid>https://sixcolors.com/podcast/2025/01/the-rebound-529-more-people-should-be-fired/</guid>
-      <pubDate>Wed, 15 Jan 2025 20:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
