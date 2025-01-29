@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 29 Jan 2025 01:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:18:32 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
+      <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
+      <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
+      <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
       <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>为什么中国的DeepSeek能够开发出与OpenAI相媲美的AI模型</title>
       <link>https://wired.jp/article/deepseek-china-model-ai/</link>
-      <description><![CDATA[中国一家颇受欢迎的对冲基金创始人梁文峰组建了一支拥有约 10,000 块 NVIDIA 芯片和一群雄心勃勃的年轻人的 AI 研究团队。仅仅两年后，它就以人工智能初创公司的身份横空出世，震惊了科技界。我们已接近其成功的秘诀。]]></description>
+      <description><![CDATA[中国著名对冲基金创始人梁文峰准备了约1万块NVIDIA芯片，并召集了一群有志向的年轻人，组建了AI研究团队。仅仅两年后，它就突然崛起为一家人工智能初创公司，震惊了科技界。我们彻底了解了他们成功的秘密。]]></description>
       <guid>https://wired.jp/article/deepseek-china-model-ai/</guid>
       <pubDate>Tue, 28 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们将 ChatGPT 与 DeepSeek 的“R1”聊天机器人进行了比较。</title>
+      <title>我们使用 DeepSeek 的“R1”聊天机器人对 ChatGPT 进行了比较。</title>
       <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
       <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
       <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>诺基亚的实验设计变成了幻想</title>
+      <title>丢失的诺基亚实验设计</title>
       <link>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</link>
       <description><![CDATA[芬兰手机制造商诺基亚所设想的未来设备经过 20 多年终于问世。该设计档案自一月中旬起向公众开放，其中充满了许多预示着当今尖端技术的创新理念。]]></description>
       <guid>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</guid>
@@ -57,33 +64,33 @@
     <item>
       <title>生成式人工智能和人类都会回答。我尝试了搜索引擎“Pearl”</title>
       <link>https://wired.jp/article/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/</link>
-      <description><![CDATA[有一个名为 Pearl 的新搜索引擎，它同时使用人工智能和人类。当你提出问题时，AI会先回答，如果你对答案不满意，它会把你连接到人类专家。 《连线》的记者实际尝试了一下。]]></description>
+      <description><![CDATA[有一个名为 Pearl 的新搜索引擎，它同时使用人工智能和人类。当你提出问题时，AI会首先回答，如果你对答案不满意，它会将你转接给人类专家。 《连线》杂志的一位记者亲自尝试了一下。]]></description>
       <guid>https://wired.jp/article/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/</guid>
       <pubDate>Mon, 27 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>半导体领域的“美国优先”给英特尔和美国带来了什么</title>
+      <title>“美国优先”半导体对英特尔和美国意味着什么</title>
       <link>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</link>
-      <description><![CDATA[通过特朗普和拜登政府，美国决定将半导体芯片制造“带回”国内。现在，大量资金和基础设施正在涌入英特尔位于俄亥俄州的庞大工厂，尽管英特尔本身正处于崩溃的边缘。]]></description>
+      <description><![CDATA[在特朗普和拜登执政期间，美国一直寻求将半导体芯片制造业“带回”国内。现在，大量资金和基础设施涌入英特尔位于俄亥俄州的庞大园区——尽管英特尔本身正濒临倒闭。]]></description>
       <guid>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</guid>
       <pubDate>Mon, 27 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《遣散》、《筒仓》等 ─ Apple TV+ 32 部推荐剧集 [2025 年最新]</title>
+      <title>《Severance》和《Silo》——Apple TV+ 上推荐的 32 部电视剧 [2025 年更新]</title>
       <link>https://wired.jp/story/best-apple-tv-plus-shows-2025/</link>
       <description><![CDATA[Apple TV+ 拥有丰富的电视剧阵容，从热门剧集到鲜为人知的佳作，例如《遣散》、《筒仓》和《窗里谍影》。您也许会从中找到您最喜欢的新作品。]]></description>
       <guid>https://wired.jp/story/best-apple-tv-plus-shows-2025/</guid>
       <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普就职典礼预示着加密货币新时代的到来，加速了与该行业的蜜月期</title>
+      <title>特朗普就职，“加密资产新时代”开启，加速行业​​蜜月期</title>
       <link>https://wired.jp/article/trump-crypto-executive-order/</link>
-      <description><![CDATA[唐纳德·特朗普上任后很快就表现出了他对加密货币行业的忠诚，这为他的 2024 年竞选提供了支持。业内人士希望这一组合将迎来加密资产的黄金时代。]]></description>
+      <description><![CDATA[自上任以来，唐纳德·特朗普 (Donald Trump) 迅速表明了他对加密货币行业的忠诚，这为他的 2024 年竞选提供了动力。业内人士希望此次合作将迎来加密资产的黄金时代。]]></description>
       <guid>https://wired.jp/article/trump-crypto-executive-order/</guid>
       <pubDate>Mon, 27 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克的“DOGE部”未来将掌控美国政府内部</title>
+      <title>伊隆·马斯克的“DOGE部”将控制美国政府内部</title>
       <link>https://wired.jp/article/doge-elon-musk/</link>
       <description><![CDATA[美国数字服务局 (USDS) 的一位前官员将美国数字服务局重组为政府效率部 (DOGE) 的举措形容为“A+ 官僚柔术”。通过这个新组织，埃隆·马斯克和其他人将能够全面访问非机密的政府数据。]]></description>
       <guid>https://wired.jp/article/doge-elon-musk/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>NASA 科技“衍生品”——从无线耳机到无线吸尘器</title>
       <link>https://wired.jp/gallery/nasa-spinoff-space-research-technology/</link>
-      <description><![CDATA[作为美国国家航空航天局 (NASA) 太空开发相关技术的“衍生品”，所创造的产品已成为我们日常生活的一部分。让我们看一些例子。]]></description>
+      <description><![CDATA[美国国家航空航天局 (NASA) 太空探索相关技术的“衍生品”产品已经渗透到我们的日常生活中。让我们看一些例子。]]></description>
       <guid>https://wired.jp/gallery/nasa-spinoff-space-research-technology/</guid>
       <pubDate>Sun, 26 Jan 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>入侵植物助长加州野火</title>
-      <link>https://wired.jp/article/how-invasive-plants-are-fueling-californias-wildfire-crisis/</link>
-      <description><![CDATA[几个世纪前，入侵的草类和桉树被引入加州用于农业和景观美化，它们极大地改变了该州的火灾动态。]]></description>
-      <guid>https://wired.jp/article/how-invasive-plants-are-fueling-californias-wildfire-crisis/</guid>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
