@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 30 Jan 2025 09:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:31:10 GMT</lastBuildDate>
+    <item>
+      <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
+      <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
+      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球范围内受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
+      <guid>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>LUSH 的“BassBot”——一款纯素且可回收的漂浮扬声器</title>
       <link>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</link>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能应用程序“DeepSeek”正在将美国用户的数据发送到中国</title>
+      <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
       <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
       <description><![CDATA[中国人工智能应用程序“DeepSeek”迅速风靡全球。但美国用户数据被发送到中国的消息也引发了人们对隐私和安全问题的关注。]]></description>
       <guid>https://wired.jp/article/deepseek-ai-china-privacy-data/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>初创公司利用物理 AI 推动机器人革命</title>
       <link>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</link>
-      <description><![CDATA[Physical Intelligence 是一家由 OpenAI 和杰夫·贝佐斯支持的初创公司，它汇集了业内一些最优秀的人才，在机器人如何在物理世界中学习方面取得了令人难以置信的突破。]]></description>
+      <description><![CDATA[Physical Intelligence 是一家由 OpenAI 和 Jeff Bezos 支持的初创公司，它正在汇集最优秀的人才，以在机器人如何在物理世界中学习方面取得惊人的突破。]]></description>
       <guid>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</guid>
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有一个名为 Pearl 的新搜索引擎，它同时使用人工智能和人类。当你提出问题时，AI会首先回答，如果你对答案不满意，它会将你转接给人类专家。 《连线》杂志的一位记者亲自尝试了一下。]]></description>
       <guid>https://wired.jp/article/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/</guid>
       <pubDate>Mon, 27 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“美国优先”半导体对英特尔和美国意味着什么</title>
-      <link>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</link>
-      <description><![CDATA[在特朗普和拜登执政期间，美国一直寻求将半导体芯片制造业“带回”国内。现在，大量资金和基础设施涌入英特尔位于俄亥俄州的庞大园区——尽管英特尔本身正濒临倒闭。]]></description>
-      <guid>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</guid>
-      <pubDate>Mon, 27 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
