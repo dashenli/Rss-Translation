@@ -4,7 +4,7 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 30 Jan 2025 03:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 06:22:35 GMT</lastBuildDate>
     <item>
       <title>利用液晶的特性。美研究人员研发出可随温度改变形状的柔性聚合物材料</title>
       <link>https://wired.jp/article/new-shape-shifting-polymer-made-of-liquid-crystalline-elastomer/</link>
@@ -13,9 +13,9 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Candy Crush 和 Tinder 等应用未经许可收集用户位置信息</title>
+      <title>通过 Candy Crush 和 Tinder 等应用程序未经许可收集用户位置信息</title>
       <link>https://wired.jp/article/gravy-location-data-app-leak-rtb/</link>
-      <description><![CDATA[位置数据公司 Gravy Analytics 的信息因黑客攻击而泄露。该文件包含在应用程序用户或开发人员不知情或未经同意的情况下收集的位置信息。有迹象表明，这些数据可能是通过拦截实时广告竞价系统获取的。]]></description>
+      <description><![CDATA[位置信息数据公司 Gravy Analytics 的信息被黑客泄露。该文件包含未经应用程序用户或开发人员许可而收集的位置信息。有人指出，这些数据可能是通过拦截实时广告竞价系统而获得的。]]></description>
       <guid>https://wired.jp/article/gravy-location-data-app-leak-rtb/</guid>
       <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 29 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
+      <title>美国竞争对手正在关注 DeepSeek 以低成本开发的新人工智能模型。</title>
       <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
       <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
       <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
@@ -50,14 +50,14 @@
     <item>
       <title>为什么中国的DeepSeek能够开发出与OpenAI相媲美的AI模型</title>
       <link>https://wired.jp/article/deepseek-china-model-ai/</link>
-      <description><![CDATA[中国一家颇受欢迎的对冲基金创始人梁文峰组建了一支拥有约 10,000 块 NVIDIA 芯片和一群雄心勃勃的年轻人的 AI 研究团队。仅仅两年后，它就以人工智能初创公司的身份横空出世，震惊了科技界。]]></description>
+      <description><![CDATA[国内某知名对冲基金创始人梁文峰准备了约1万块NVIDIA芯片，并召集了一群有志向的年轻人，组建了AI研究团队。仅仅两年后，它就突然崛起为一家人工智能初创公司，震惊了科技界。]]></description>
       <guid>https://wired.jp/article/deepseek-china-model-ai/</guid>
       <pubDate>Tue, 28 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>初创公司利用物理 AI 推动机器人革命</title>
       <link>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</link>
-      <description><![CDATA[Physical Intelligence 是一家由 OpenAI 和杰夫·贝佐斯支持的初创公司，它汇集了业内一些最优秀的人才，在机器人如何在物理世界中学习方面取得了令人难以置信的突破。]]></description>
+      <description><![CDATA[Physical Intelligence 是一家由 OpenAI、杰夫·贝索斯 (Jeff Bezos) 等人支持的初创公司，它正在汇集最优秀的人才，以在机器人如何在物理世界中学习方面取得令人难以置信的突破。]]></description>
       <guid>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</guid>
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>即使在特朗普发布行政命令后，约会应用仍然是 LGBTQ+ 群体的宝贵避风港</title>
       <link>https://wired.jp/article/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/</link>
-      <description><![CDATA[特朗普总统发布了一项行政命令，声明只有两种性别。与此同时，OkCupid 和 Feeld 等约会应用程序也表现出了维护性别认同选项的承诺。这些应用程序可能成为继续拥抱多样性的数字空间中的宝贵避风港。]]></description>
+      <description><![CDATA[特朗普总统发布行政命令，规定只有两种性别。与此同时，OkCupid 和 Feeld 等约会应用程序表示将保留选择性别认同的选项。这些应用程序可能成为数字空间中继续推崇多样性的宝贵避风港。]]></description>
       <guid>https://wired.jp/article/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/</guid>
       <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>丢失的诺基亚实验设计</title>
+      <title>诺基亚的实验设计变成了幻想</title>
       <link>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</link>
       <description><![CDATA[芬兰手机制造商诺基亚所设想的未来设备经过 20 多年终于问世。该设计档案自一月中旬起向公众开放，其中充满了许多预示着当今尖端技术的创新理念。]]></description>
       <guid>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>“美国优先”半导体对英特尔和美国意味着什么</title>
       <link>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</link>
-      <description><![CDATA[通过特朗普和拜登政府，美国决定将半导体芯片制造“带回”国内。现在，大量资金和基础设施正在涌入英特尔位于俄亥俄州的庞大工厂，尽管英特尔本身正处于崩溃的边缘。]]></description>
+      <description><![CDATA[在特朗普和拜登执政期间，美国一直寻求将半导体芯片制造业“带回”国内。现在，大量资金和基础设施涌入英特尔位于俄亥俄州的庞大园区——尽管英特尔本身正濒临倒闭。]]></description>
       <guid>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</guid>
       <pubDate>Mon, 27 Jan 2025 22:00:00 GMT</pubDate>
     </item>
