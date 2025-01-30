@@ -4,9 +4,30 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 29 Jan 2025 21:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 01:09:25 GMT</lastBuildDate>
     <item>
-      <title>从会说话的机器人到自动行走的机器人再到虚拟化妆。 CES 2025 上发现的 10 款日本公司值得关注的产品</title>
+      <title>应用液晶的特性。美国研究团队开发出一种可根据温度改变形状的柔性聚合物材料</title>
+      <link>https://wired.jp/article/new-shape-shifting-polymer-made-of-liquid-crystalline-elastomer/</link>
+      <description><![CDATA[美国研究小组利用高分子材料液晶弹性体，研制出一种能根据温度改变形状的聚合物。这种新材料有望应用于软机器人和人造肌肉等多个领域。]]></description>
+      <guid>https://wired.jp/article/new-shape-shifting-polymer-made-of-liquid-crystalline-elastomer/</guid>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Candy Crush 和 Tinder 等应用未经许可收集用户位置信息</title>
+      <link>https://wired.jp/article/gravy-location-data-app-leak-rtb/</link>
+      <description><![CDATA[位置数据公司 Gravy Analytics 的信息因黑客攻击而泄露。该文件包含在应用程序用户或开发人员不知情或未经同意的情况下收集的位置信息。有迹象表明，这些数据可能是通过拦截实时广告竞价系统获取的。]]></description>
+      <guid>https://wired.jp/article/gravy-location-data-app-leak-rtb/</guid>
+      <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克会用 DOGE 攻击现有的数字技术精英吗？</title>
+      <link>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</link>
+      <description><![CDATA[特朗普下令将美国数字服务局（USDS）重组为政府效率部（DOGE），由马斯克担任负责人。人们担心，该公司最强大的汇集数字技术专家的专业组织，将转变为马斯克设想的成本削减机器。]]></description>
+      <guid>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</guid>
+      <pubDate>Wed, 29 Jan 2025 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从对话机器人到自主行走机器人和虚拟化妆。 2025 年 CES 上日本公司推出的 10 款值得关注的产品</title>
       <link>https://wired.jp/article/ces-2025-notable-10-japanese-products/</link>
       <description><![CDATA[CES 2025 展示了各种各样的产品，从实用产品和服务到仍在开发中的原型和奇特的设备。其中，我们将介绍10款值得关注的日本企业产品。]]></description>
       <guid>https://wired.jp/article/ces-2025-notable-10-japanese-products/</guid>
@@ -15,7 +36,7 @@
     <item>
       <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
       <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
-      <description><![CDATA[一些人担心，中国初创公司 DeepSeek 的崛起表明美国正在失去人工智能领域的领先地位。但这实际上可能表明新的模型构建方法正在获得关注。]]></description>
+      <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
       <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
       <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
     </item>
@@ -43,12 +64,12 @@
     <item>
       <title>我们将 ChatGPT 与 DeepSeek 的“R1”聊天机器人进行了比较。</title>
       <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
-      <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
+      <description><![CDATA[DeepSeek 的“R1”模型驱动的聊天机器人是一家中国初创公司开发的突破性产品。虽然训练效率取得了革命性的成果，但幻觉仍然是一个挑战。]]></description>
       <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
       <pubDate>Tue, 28 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>即使在特朗普发布行政命令后，约会应用仍然是 LGBTQ+ 群体的宝贵避风港</title>
+      <title>即使在特朗普发布行政命令之后，约会应用程序仍然是 LGBTQ+ 群体的宝贵避风港</title>
       <link>https://wired.jp/article/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/</link>
       <description><![CDATA[特朗普总统发布行政命令，规定只有两种性别。与此同时，OkCupid 和 Feeld 等约会应用程序表示将保留选择性别认同的选项。这些应用程序可能成为数字空间中继续推崇多样性的宝贵避风港。]]></description>
       <guid>https://wired.jp/article/dating-apps-promise-to-be-a-haven-following-trumps-executive-order/</guid>
@@ -64,7 +85,7 @@
     <item>
       <title>丢失的诺基亚实验设计</title>
       <link>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</link>
-      <description><![CDATA[芬兰手机制造商诺基亚设想的未来设备终于在20多年后出现。该设计档案自一月中旬以来一直向公众开放，其中包含许多预示当今最新技术的创新理念。]]></description>
+      <description><![CDATA[芬兰手机制造商诺基亚所设想的未来设备经过 20 多年终于问世。该设计档案自一月中旬起向公众开放，其中充满了许多预示着当今尖端技术的创新理念。]]></description>
       <guid>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</guid>
       <pubDate>Tue, 28 Jan 2025 02:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[Apple TV+ 拥有丰富的电视剧阵容，从热门剧集到鲜为人知的佳作，例如《遣散》、《筒仓》和《窗里谍影》。您也许会从中找到您最喜欢的新作品。]]></description>
       <guid>https://wired.jp/story/best-apple-tv-plus-shows-2025/</guid>
       <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普就职典礼预示着加密货币新时代的到来，加速了与该行业的蜜月期</title>
-      <link>https://wired.jp/article/trump-crypto-executive-order/</link>
-      <description><![CDATA[自上任以来，唐纳德·特朗普 (Donald Trump) 迅速表明了他对加密货币行业的忠诚，这为他的 2024 年竞选提供了动力。业内人士希望此次合作将迎来加密资产的黄金时代。]]></description>
-      <guid>https://wired.jp/article/trump-crypto-executive-order/</guid>
-      <pubDate>Mon, 27 Jan 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克的“DOGE部门”控制美国政府内部信息的未来</title>
-      <link>https://wired.jp/article/doge-elon-musk/</link>
-      <description><![CDATA[美国数字服务局 (USDS) 的一位前官员将美国数字服务局重组为政府效率部 (DOGE) 的举措形容为“A+ 官僚柔术”。通过这个新组织，埃隆·马斯克和其他人将能够全面访问非机密的政府数据。]]></description>
-      <guid>https://wired.jp/article/doge-elon-musk/</guid>
-      <pubDate>Mon, 27 Jan 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能策略会给游戏开发带来压力吗？开发商的投诉</title>
-      <link>https://wired.jp/article/video-game-industry-artificial-intelligence-developers/</link>
-      <description><![CDATA[一项针对游戏开发商的调查显示，越来越多的开发商担心人工智能的引入会对整个游戏行业产生负面影响。尽管人工智能具有使用潜力，但许多人对其实用性和对行业的影响持负面看法。]]></description>
-      <guid>https://wired.jp/article/video-game-industry-artificial-intelligence-developers/</guid>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
