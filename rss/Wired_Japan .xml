@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 30 Jan 2025 06:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 09:17:29 GMT</lastBuildDate>
+    <item>
+      <title>LUSH 的“BassBot”——一款纯素且可回收的漂浮扬声器</title>
+      <link>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</link>
+      <description><![CDATA[以手工沐浴产品闻名的LUSH，以环保的方式打造了一款蓝牙音箱。下一个挑战比想象的更困难，那就是找到真正愿意购买扬声器的人。]]></description>
+      <guid>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</guid>
+      <pubDate>Thu, 30 Jan 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>利用液晶的特性。美研究人员研发出可随温度改变形状的柔性聚合物材料</title>
       <link>https://wired.jp/article/new-shape-shifting-polymer-made-of-liquid-crystalline-elastomer/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过 Candy Crush 和 Tinder 等应用程序未经许可收集用户位置信息</title>
+      <title>Candy Crush 和 Tinder 等应用未经许可收集用户位置信息</title>
       <link>https://wired.jp/article/gravy-location-data-app-leak-rtb/</link>
-      <description><![CDATA[位置信息数据公司 Gravy Analytics 的信息被黑客泄露。该文件包含未经应用程序用户或开发人员许可而收集的位置信息。有人指出，这些数据可能是通过拦截实时广告竞价系统而获得的。]]></description>
+      <description><![CDATA[位置数据公司 Gravy Analytics 的信息因黑客攻击而泄露。该文件包含在应用程序用户或开发人员不知情或未经同意的情况下收集的位置信息。有迹象表明，这些数据可能是通过拦截实时广告竞价系统获取的。]]></description>
       <guid>https://wired.jp/article/gravy-location-data-app-leak-rtb/</guid>
       <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -34,14 +41,14 @@
       <pubDate>Wed, 29 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国竞争对手正在关注 DeepSeek 以低成本开发的新人工智能模型。</title>
+      <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
       <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
       <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
       <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
       <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
+      <title>人工智能应用程序“DeepSeek”正在将美国用户的数据发送到中国</title>
       <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
       <description><![CDATA[中国人工智能应用程序“DeepSeek”迅速风靡全球。但美国用户数据被发送到中国的消息也引发了人们对隐私和安全问题的关注。]]></description>
       <guid>https://wired.jp/article/deepseek-ai-china-privacy-data/</guid>
@@ -57,12 +64,12 @@
     <item>
       <title>初创公司利用物理 AI 推动机器人革命</title>
       <link>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</link>
-      <description><![CDATA[Physical Intelligence 是一家由 OpenAI、杰夫·贝索斯 (Jeff Bezos) 等人支持的初创公司，它正在汇集最优秀的人才，以在机器人如何在物理世界中学习方面取得令人难以置信的突破。]]></description>
+      <description><![CDATA[Physical Intelligence 是一家由 OpenAI 和杰夫·贝佐斯支持的初创公司，它汇集了业内一些最优秀的人才，在机器人如何在物理世界中学习方面取得了令人难以置信的突破。]]></description>
       <guid>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</guid>
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们将 ChatGPT 与 DeepSeek 的“R1”聊天机器人进行了比较。</title>
+      <title>我们使用 DeepSeek 的“R1”聊天机器人对 ChatGPT 进行了比较。</title>
       <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
       <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
       <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>诺基亚的实验设计变成了幻想</title>
+      <title>丢失的诺基亚实验设计</title>
       <link>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</link>
       <description><![CDATA[芬兰手机制造商诺基亚所设想的未来设备经过 20 多年终于问世。该设计档案自一月中旬起向公众开放，其中充满了许多预示着当今尖端技术的创新理念。]]></description>
       <guid>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[在特朗普和拜登执政期间，美国一直寻求将半导体芯片制造业“带回”国内。现在，大量资金和基础设施涌入英特尔位于俄亥俄州的庞大园区——尽管英特尔本身正濒临倒闭。]]></description>
       <guid>https://wired.jp/article/sz-intel-great-american-microchip-mobilization/</guid>
       <pubDate>Mon, 27 Jan 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Severance》和《Silo》——Apple TV+ 上推荐的 32 部电视剧 [2025 年更新]</title>
-      <link>https://wired.jp/story/best-apple-tv-plus-shows-2025/</link>
-      <description><![CDATA[Apple TV+ 拥有丰富的电视剧阵容，从热门剧集到鲜为人知的佳作，例如《遣散》、《筒仓》和《窗里谍影》。您也许会从中找到您最喜欢的新作品。]]></description>
-      <guid>https://wired.jp/story/best-apple-tv-plus-shows-2025/</guid>
-      <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
