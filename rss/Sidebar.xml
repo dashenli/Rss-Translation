@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 31 Jan 2025 09:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 12:31:36 GMT</lastBuildDate>
+    <item>
+      <title>为新一代人工智能体验而设计</title>
+      <link>https://adobe.design/stories/leading-design/designing-for-generative-ai-experiences</link>
+      <description><![CDATA[塑造人工智能界面需要依靠特定的设计技能。
+]]></description>
+      <guid>https://adobe.design/stories/leading-design/designing-for-generative-ai-experiences</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>代号鹅</title>
+      <link>https://block.github.io/goose/</link>
+      <description><![CDATA[您的开源 AI 代理，在您的机器上无缝地自动执行工程任务。
+]]></description>
+      <guid>https://block.github.io/goose/</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 中的 UX 团队章程</title>
+      <link>https://www.figma.com/community/file/1463949748350704314</link>
+      <description><![CDATA[UX 团队章程阐明了团队的目的、角色和目标，以提高效率和协作。
+]]></description>
+      <guid>https://www.figma.com/community/file/1463949748350704314</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级调色板</title>
+      <link>https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FF6D1F-FF1F39-FF1FA5-EC1FFF</link>
+      <description><![CDATA[使用最多 24 种颜色从十六进制生成调色板。改变色调、饱和度、亮度等。
+]]></description>
+      <guid>https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FF6D1F-FF1F39-FF1FA5-EC1FFF</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的产品风靡一时，但我得到的却只是这些糟糕的用户</title>
+      <link>https://andrewchen.substack.com/p/my-product-went-viral-on-social-media</link>
+      <description><![CDATA[Looky-loo、牵引力的质量与数量以及来去匆匆的用户。
+]]></description>
+      <guid>https://andrewchen.substack.com/p/my-product-went-viral-on-social-media</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>你把相机放哪儿了？</title>
       <link>https://www.youtube.com/watch?v=wa1O3nqW5hQ</link>
@@ -40,7 +80,7 @@
     <item>
       <title>2025 年国家设计奖获奖者</title>
       <link>https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/</link>
-      <description><![CDATA[Cooper Hewitt 颁发的奖项旨在表彰创新和影响力，并认可设计改变世界的力量。
+      <description><![CDATA[库珀·休伊特颁发的奖项旨在表彰创新和影响力，并认可设计改变世界的力量。
 ]]></description>
       <guid>https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/</guid>
       <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://x.com/fabriciot/status/1884358678578430180</guid>
       <pubDate>Wed, 29 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电报设计系统</title>
-      <link>https://design.telegraph.co.uk/</link>
-      <description><![CDATA[为世界上最大的新闻机构之一设计系统——涵盖营销和订阅旅程、应用程序、网站和印刷版大报。
-]]></description>
-      <guid>https://design.telegraph.co.uk/</guid>
-      <pubDate>Tue, 28 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页无障碍原则</title>
-      <link>https://github.com/Heydon/principles-of-web-accessibility</link>
-      <description><![CDATA[一套用于实现网络可访问性的高级指导原则。
-]]></description>
-      <guid>https://github.com/Heydon/principles-of-web-accessibility</guid>
-      <pubDate>Tue, 28 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未切割</title>
-      <link>https://uncut.wtf/</link>
-      <description><![CDATA[免费字体目录，重点关注当代字体。
-]]></description>
-      <guid>https://uncut.wtf/</guid>
-      <pubDate>Tue, 28 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计系统中的 AI 指南示例</title>
-      <link>https://www.supernova.io/blog/top-6-examples-of-ai-guidelines-in-design-systems</link>
-      <description><![CDATA[如何记录人工智能集成透明度、可用性和信任度的最佳实践。
-]]></description>
-      <guid>https://www.supernova.io/blog/top-6-examples-of-ai-guidelines-in-design-systems</guid>
-      <pubDate>Tue, 28 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的失误、怀疑和回复</title>
-      <link>https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/</link>
-      <description><![CDATA[开发一种发现人工智能缺陷的不自觉反射。
-]]></description>
-      <guid>https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/</guid>
-      <pubDate>Tue, 28 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
