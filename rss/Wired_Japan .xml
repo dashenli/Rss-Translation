@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 30 Jan 2025 21:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 01:10:37 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出人工智能代理“Operator”，可代你预订餐厅和购买产品</title>
+      <link>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</link>
+      <description><![CDATA[引发AI聊天机器人热潮的公司OpenAI宣布了一项名为“Operator”的新功能。此功能使用人工智能代表用户预订餐厅和购买产品。它最初将作为“研究预览版”提供给订阅了“Pro”计划的 ChatGPT 用户。]]></description>
+      <guid>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</guid>
+      <pubDate>Thu, 30 Jan 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
       <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>埃隆·马斯克会用 DOGE 攻击现有的数字技术精英吗？</title>
       <link>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</link>
-      <description><![CDATA[特朗普下令将美国数字服务部（USDS）重组为政府效率部（DOGE），由马斯克领导。有人担心，汇集数字技术专家的最强大的专业组织正在变成马斯克所追求的成本削减机器。]]></description>
+      <description><![CDATA[特朗普下令将美国数字服务局（USDS）重组为政府效率部（DOGE），由马斯克担任负责人。人们担心，该公司最强大的汇集数字技术专家的专业组织，将转变为马斯克设想的成本削减机器。]]></description>
       <guid>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</guid>
       <pubDate>Wed, 29 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
       <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
-      <description><![CDATA[DeepSeek，一款源自中国的人工智能应用，已迅速风靡全球。然而，在美国用户数据被发送到中国的消息曝光后，隐私和安全问题也成为人们关注的焦点。]]></description>
+      <description><![CDATA[中国人工智能应用程序“DeepSeek”迅速风靡全球。但美国用户数据被发送到中国的消息也引发了人们对隐私和安全问题的关注。]]></description>
       <guid>https://wired.jp/article/deepseek-ai-china-privacy-data/</guid>
       <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们将 ChatGPT 与 DeepSeek 的“R1”聊天机器人进行了比较。</title>
+      <title>我们使用 DeepSeek 的“R1”聊天机器人对 ChatGPT 进行了比较。</title>
       <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
       <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
       <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>诺基亚的实验设计变成了幻想</title>
+      <title>诺基亚失败的实验设计</title>
       <link>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</link>
       <description><![CDATA[芬兰手机制造商诺基亚所设想的未来设备经过 20 多年终于问世。该设计档案自一月中旬起向公众开放，其中充满了许多预示着当今尖端技术的创新理念。]]></description>
       <guid>https://wired.jp/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/</guid>
       <pubDate>Tue, 28 Jan 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能和人类都会回答。我尝试了搜索引擎“Pearl”</title>
-      <link>https://wired.jp/article/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/</link>
-      <description><![CDATA[有一个名为 Pearl 的新搜索引擎，它同时使用人工智能和人类。当你提出问题时，AI会首先回答，如果你对答案不满意，它会将你转接给人类专家。 《连线》杂志的一位记者亲自尝试了一下。]]></description>
-      <guid>https://wired.jp/article/this-new-ai-search-engine-has-a-gimmick-humans-answering-questions/</guid>
-      <pubDate>Mon, 27 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
