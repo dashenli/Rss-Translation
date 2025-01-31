@@ -4,7 +4,21 @@
     <title>下一代网络</title>
     <link>https://thenextweb.com</link>
     <description>为 T 世代提供原创且自豪的观点</description>
-    <lastBuildDate>Fri, 31 Jan 2025 01:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 03:17:41 GMT</lastBuildDate>
+    <item>
+      <title>我们离实用的量子计算机越来越近了——它们将被用于以下用途</title>
+      <link>https://thenextweb.com/news/closer-practical-quantum-computers-used-for</link>
+      <description><![CDATA[1981 年，美国物理学家、诺贝尔奖获得者理查德·费曼在波士顿附近的麻省理工学院 (MIT) 发表演讲，提出了一个革命性的想法。费曼提出，量子力学的奇特物理可以用来进行计算。量子计算领域就此诞生。在此后的 40 多年里，它已成为计算机科学的一个密集研究领域。尽管经过多年的疯狂发展，物理学家们仍未建造出适合日常使用和正常条件的实用量子计算机（例如，许多量子计算机在极低的温度下运行）。问题…这个故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/closer-practical-quantum-computers-used-for</guid>
+      <pubDate>Thu, 30 Jan 2025 19:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>SerenityOS 的开发者正在打造一款浏览器双头垄断的挑战者</title>
+      <link>https://thenextweb.com/news/serenityos-creator-building-ladybird-browser</link>
+      <description><![CDATA[许多开发人员喜欢应对一些挑战，将其视为证明自己编程能力的一种仪式。其中之一就是创建编译器。这是许多编程语言的基本构建块，可将更易于人类理解的代码转换为计算机可以理解的代码。另一个更具挑战性的挑战是构建操作系统。其范围几乎是无限的。您可以创建一个 Linux 发行版，这通常需要更少的编码，但需要更多地组装预先存在的软件包和依赖项。您可以创建一个在有限的硬件或低级机器上运行的命令行操作系统。…本故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/serenityos-creator-building-ladybird-browser</guid>
+      <pubDate>Thu, 30 Jan 2025 11:20:34 GMT</pubDate>
+    </item>
     <item>
       <title>ASML 从 DeepSeek 冲击中反弹，预计人工智能发展将推动芯片需求</title>
       <link>https://thenextweb.com/news/asml-chip-shares-rebound-from-deepseek</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[中国初创公司 DeepSeek 在人工智能领域取得的惊人进展，导致美国和欧洲的科技股暴跌。DeepSeek 上周发布了一款免费聊天机器人和新的开源人工智能模型。几天之内，这款聊天机器人就超越了 ChatGPT，登上了苹果应用商店免费应用排行榜的榜首。新的 R1 模型在 AI 领域引起了进一步的冲击。R1 承诺其性能可与 OpenAI 顶级推理模型相媲美，而成本仅为后者的一小部分。全球最有影响力的风险投资家之一马克·安德森 (Marc Andreessen) 称该模型为“AI 的斯普特尼克时刻”。市场也为之震惊。受到......的震撼......本故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/deepseek-ai-model-hits-asml-stock</guid>
       <pubDate>Mon, 27 Jan 2025 17:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>从轶事到人工智能工具，医生做出医疗决策的方式正在随着技术的发展而演变</title>
-      <link>https://thenextweb.com/news/from-anecdotes-to-ai-tools-how-doctors-make-medical-decisions-is-evolving-with-technology</link>
-      <description><![CDATA[过去 50 年来，医学实践经历了令人难以置信的（尽管尚未完成）转变，从一个主要依靠专家意见和个别临床医生的轶事经验的领域稳步转变为一门正式的科学学科。循证医学的出现意味着临床医生可以根据最新研究的质量评估为患者确定最有效的治疗方案。现在，精准医疗使医疗服务提供者能够使用患者的个人遗传、环境和临床信息来进一步个性化他们的护理。精准医疗的潜在好处也带来了新的挑战。重要的是，......的数量和复杂性这个故事继续在 The Next Web]]></description>
-      <guid>https://thenextweb.com/news/from-anecdotes-to-ai-tools-how-doctors-make-medical-decisions-is-evolving-with-technology</guid>
-      <pubDate>Mon, 27 Jan 2025 07:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>劳斯莱斯获英国创纪录90亿英镑核潜艇合同</title>
-      <link>https://thenextweb.com/news/rolls-royce-lands-record-nuclear-submarine-contract</link>
-      <description><![CDATA[目前，至少有一艘核动力、核武装潜艇在英国海域秘密巡逻。该潜艇由核反应堆提供动力，因此它可以在不加燃料的情况下巡航 20 多年而不被发现。哦，它还装备了八枚核弹头——每枚核弹头的威力都是投在广岛的原子弹的六倍。自 1969 年以来，皇家海军一直将至少一艘这种裂变动力潜艇保持在水中。这些舰艇是英国核威慑力量的支柱，并向其他可能有奇怪想法的国家发出巨大警告。劳斯莱斯…这个故事在 The Next Web 上继续]]></description>
-      <guid>https://thenextweb.com/news/rolls-royce-lands-record-nuclear-submarine-contract</guid>
-      <pubDate>Fri, 24 Jan 2025 15:10:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
