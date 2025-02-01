@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:21:12 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 震撼 AI 行业：“中国电动汽车的教训”</title>
+      <link>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</link>
+      <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。此举提醒人们，中国汽车工业的发展给全球工程师带来了许多经验教训。]]></description>
+      <guid>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</guid>
+      <pubDate>Sat, 01 Feb 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从您穿的衣服到您阅读的衣服。 “YUIMA NAKAZATO”个展告诉了我们什么？</title>
       <link>https://wired.jp/article/yuima-nakazato-exhibition-2025/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>比尔·盖茨谈自己是个“鲁莽的孩子”</title>
       <link>https://wired.jp/article/sz-bill-gates-interview-2025/</link>
-      <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维 (Steven Levy) 与盖茨进行了交谈，后者目前正在出版一本回忆录，谈话内容涵盖了从他对保罗·艾伦的回忆到人工智能等各个方面。]]></description>
+      <description><![CDATA[他吓坏了他的同学，在拘留中心过夜，并吸食迷幻药自尽。这不是你认识的比尔·盖茨。 《连线》杂志的史蒂芬·利维向即将出版回忆录的盖茨询问了从他与保罗·艾伦的回忆到人工智能的一切问题。]]></description>
       <guid>https://wired.jp/article/sz-bill-gates-interview-2025/</guid>
       <pubDate>Fri, 31 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊 Prime Video 上不容错过的 21 部电影 [2025 年更新]</title>
       <link>https://wired.jp/article/best-amazon-prime-movies-2025/</link>
-      <description><![CDATA[我们将介绍一些现在可以在 Amazon Prime Video 上观看的推荐电影，包括《挑战者》和《你的想法》。]]></description>
+      <description><![CDATA[我们将介绍一些现在在Amazon Prime Video上观看的推荐电影，例如《挑战者》和《你的想法》。]]></description>
       <guid>https://wired.jp/article/best-amazon-prime-movies-2025/</guid>
       <pubDate>Fri, 31 Jan 2025 08:00:00 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
       <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
+      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球范围内受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
       <guid>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
       <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LUSH 的“BassBot”——一款纯素且可回收的漂浮扬声器</title>
+      <title>LUSH 的“Bassbot”——“纯素且可回收”的浮动扬声器</title>
       <link>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</link>
       <description><![CDATA[以手工沐浴产品闻名的LUSH，以环保的方式打造了一款蓝牙音箱。下一个挑战比想象的更困难，那就是找到真正愿意购买扬声器的人。]]></description>
       <guid>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
       <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
       <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
-      <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
-      <description><![CDATA[DeepSeek，一款源自中国的人工智能应用，已迅速风靡全球。然而，在美国用户数据被发送到中国的消息曝光后，隐私和安全问题也成为人们关注的焦点。]]></description>
-      <guid>https://wired.jp/article/deepseek-ai-china-privacy-data/</guid>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
