@@ -4,11 +4,32 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Fri, 31 Jan 2025 21:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 01:14:42 GMT</lastBuildDate>
+    <item>
+      <title>从您穿的衣服到您阅读的衣服。 “YUIMA NAKAZATO”个展告诉了我们什么？</title>
+      <link>https://wired.jp/article/yuima-nakazato-exhibition-2025/</link>
+      <description><![CDATA[从2月3日星期一开始，中里由真将在日本举办首次个人展（去年他在法国举办了大型个人展）。这位唯一一位在高级时装领域持续竞争的日本设计师究竟在试图做什么？我在巴黎时装展之前参观了这个工作室。]]></description>
+      <guid>https://wired.jp/article/yuima-nakazato-exhibition-2025/</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需接触物体即可移动它们！剪纸启发的远程控制技术潜力</title>
+      <link>https://wired.jp/article/magnetically-controlled-surfaces-inspired-by-kirigami/</link>
+      <description><![CDATA[美国研究人员受到日本传统剪纸工艺结构的启发，开发出一种可根据磁场灵活改变形状的装置，从而可以对物体进行远程控制。这可能带来机器人和医学领域的创新应用。]]></description>
+      <guid>https://wired.jp/article/magnetically-controlled-surfaces-inspired-by-kirigami/</guid>
+      <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比尔·盖茨谈自己是个“鲁莽的孩子”</title>
+      <link>https://wired.jp/article/sz-bill-gates-interview-2025/</link>
+      <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维 (Steven Levy) 与盖茨进行了交谈，后者目前正在出版一本回忆录，谈话内容涵盖了从他对保罗·艾伦的回忆到人工智能等各个方面。]]></description>
+      <guid>https://wired.jp/article/sz-bill-gates-interview-2025/</guid>
+      <pubDate>Fri, 31 Jan 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊 Prime Video 上不容错过的 21 部电影 [2025 年更新]</title>
       <link>https://wired.jp/article/best-amazon-prime-movies-2025/</link>
-      <description><![CDATA[我们将介绍一些现在在 Amazon Prime Video 上观看的推荐电影，包括《挑战者》和《你的想法》。]]></description>
+      <description><![CDATA[我们将介绍一些现在可以在 Amazon Prime Video 上观看的推荐电影，包括《挑战者》和《你的想法》。]]></description>
       <guid>https://wired.jp/article/best-amazon-prime-movies-2025/</guid>
       <pubDate>Fri, 31 Jan 2025 08:00:00 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
       <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球范围内受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
+      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
       <guid>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
       <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>埃隆·马斯克会用 DOGE 攻击现有的数字技术精英吗？</title>
       <link>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</link>
-      <description><![CDATA[特朗普下令将美国数字服务部（USDS）重组为政府效率部（DOGE），由马斯克领导。有人担心，汇集数字技术专家的最强大的专业组织正在变成马斯克所追求的成本削减机器。]]></description>
+      <description><![CDATA[特朗普下令将美国数字服务局（USDS）重组为政府效率部（DOGE），由马斯克担任负责人。人们担心，该公司最强大的汇集数字技术专家的专业组织，将转变为马斯克设想的成本削减机器。]]></description>
       <guid>https://wired.jp/article/sz-plaintext-trump-musk-us-digital-service-doge/</guid>
       <pubDate>Wed, 29 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能应用程序“DeepSeek”正在将美国用户的数据发送到中国</title>
+      <title>人工智能应用程序“DeepSeek”将美国用户数据发送到中国</title>
       <link>https://wired.jp/article/deepseek-ai-china-privacy-data/</link>
-      <description><![CDATA[中国人工智能应用程序“DeepSeek”迅速风靡全球。但美国用户数据被发送到中国的消息也引发了人们对隐私和安全问题的关注。]]></description>
+      <description><![CDATA[DeepSeek，一款源自中国的人工智能应用，已迅速风靡全球。然而，在美国用户数据被发送到中国的消息曝光后，隐私和安全问题也成为人们关注的焦点。]]></description>
       <guid>https://wired.jp/article/deepseek-ai-china-privacy-data/</guid>
       <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么中国的DeepSeek能够开发出与OpenAI相媲美的AI模型</title>
-      <link>https://wired.jp/article/deepseek-china-model-ai/</link>
-      <description><![CDATA[国内某知名对冲基金创始人梁文峰准备了约1万块NVIDIA芯片，并召集了一群有志向的年轻人，组建了AI研究团队。仅仅两年后，它就突然崛起为一家人工智能初创公司，震惊了科技界。]]></description>
-      <guid>https://wired.jp/article/deepseek-china-model-ai/</guid>
-      <pubDate>Tue, 28 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>初创公司通过物理人工智能引领机器人革命</title>
-      <link>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</link>
-      <description><![CDATA[Physical Intelligence 是一家由 OpenAI 和杰夫·贝佐斯支持的初创公司，它汇集了业内一些最优秀的人才，在机器人如何在物理世界中学习方面取得了令人难以置信的突破。]]></description>
-      <guid>https://wired.jp/article/sz-physical-intelligence-ai-robotics-startup/</guid>
-      <pubDate>Tue, 28 Jan 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们使用 DeepSeek 的“R1”聊天机器人对 ChatGPT 进行了比较。</title>
-      <link>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</link>
-      <description><![CDATA[DeepSeek 的“R1”模型聊天机器人是这家中国初创公司开发的一款突破性产品。虽然幻觉代表着训练效率的革命性进步，但它仍然是一个挑战。]]></description>
-      <guid>https://wired.jp/article/deepseek-chatbot-hands-on-vs-chatgpt/</guid>
-      <pubDate>Tue, 28 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
