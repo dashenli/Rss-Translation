@@ -4,9 +4,16 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 09:16:35 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek 震撼 AI 行业：“中国电动汽车的教训”</title>
+      <title>美国宇航局探测器捕捉到火星“极其猛烈的春天”到来</title>
+      <link>https://wired.jp/article/mars-dynamic-spring/</link>
+      <description><![CDATA[在火星上，冰直接从固体升华为气体，使春天的到来非常“活跃”。火星最近已经进入春天，我们想根据美国宇航局火星探测器拍摄的图像来看一下那里正在发生的“极其强烈的春天”。]]></description>
+      <guid>https://wired.jp/article/mars-dynamic-spring/</guid>
+      <pubDate>Sat, 01 Feb 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek搅局，AI行业应该学习的“中国电动汽车的教训”</title>
       <link>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</link>
       <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。此举提醒人们，中国汽车工业的发展给全球工程师带来了许多经验教训。]]></description>
       <guid>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>从您穿的衣服到您阅读的衣服。 “YUIMA NAKAZATO”个展告诉了我们什么？</title>
       <link>https://wired.jp/article/yuima-nakazato-exhibition-2025/</link>
-      <description><![CDATA[从2月3日星期一开始，中里由真将在日本举办首次个人展（去年他在法国举办了大型个人展）。这位唯一一位在高级时装领域持续竞争的日本设计师究竟在试图做什么？我在巴黎时装展之前参观了这个工作室。]]></description>
+      <description><![CDATA[2月3日（周一）起，中里由真将在日本举办首次个展（去年曾在法国举办过大型个展）。这位唯一一位继续在高级时装舞台上角逐的日本设计师，到底想做什么？我在巴黎时装周之前参观了他的工作室。]]></description>
       <guid>https://wired.jp/article/yuima-nakazato-exhibition-2025/</guid>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
     </item>
@@ -41,13 +48,6 @@
       <pubDate>Fri, 31 Jan 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>研究结果显示黑猩猩会集体撒尿</title>
-      <link>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</link>
-      <description><![CDATA[一项新研究表明，当同类在附近小便时，黑猩猩也有小便的倾向。这种“挤在一起”的现象在个体之间距离越近时越容易发生，而在群体中社会等级越低的个体越容易同步。]]></description>
-      <guid>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>SIXTYPERCENT Inc.将继续与亚洲时尚合作</title>
       <link>https://wired.jp/article/sixtypercentinc-2025/</link>
       <description><![CDATA[它就像一个星云。在快速发展的亚洲，许多独特的时尚品牌不断涌现。 “百分之六十”将他们与日本直接实时连接。我们向联合创始人兼首席执行官真锅大河询问了该公司的业务情况，该公司因设立“ASIAN BRANDS 60”奖而受到关注。]]></description>
@@ -55,9 +55,16 @@
       <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>研究结果显示黑猩猩会集体撒尿</title>
+      <link>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</link>
+      <description><![CDATA[一项新研究表明，当同类在附近小便时，黑猩猩也有小便的倾向。这种“挤在一起”的现象在个体之间距离越近时越容易发生，而在群体中社会等级越低的个体越容易同步。]]></description>
+      <guid>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI 推出人工智能代理“Operator”，可代你预订餐厅和购买产品</title>
       <link>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</link>
-      <description><![CDATA[引发人工智能聊天机器人热潮的 OpenAI 宣布了一项名为 Operator 的新功能。该功能使用人工智能代表您进行餐厅预订和购买产品。最初，它将作为“研究预览版”提供给订阅“Pro”的 ChatGPT 用户。]]></description>
+      <description><![CDATA[引发AI聊天机器人热潮的公司OpenAI宣布了一项名为“Operator”的新功能。此功能使用人工智能代表用户预订餐厅和购买产品。它最初将作为“研究预览版”提供给订阅了“Pro”计划的 ChatGPT 用户。]]></description>
       <guid>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</guid>
       <pubDate>Thu, 30 Jan 2025 23:00:00 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LUSH 的“Bassbot”——“纯素且可回收”的浮动扬声器</title>
+      <title>LUSH 的“BassBot”——一款纯素且可回收的漂浮扬声器</title>
       <link>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</link>
       <description><![CDATA[以手工沐浴产品闻名的LUSH，以环保的方式打造了一款蓝牙音箱。下一个挑战比想象的更困难，那就是找到真正愿意购买扬声器的人。]]></description>
       <guid>https://wired.jp/article/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[CES 2025 展示了各种各样的产品，从实用产品和服务到仍在开发中的原型和奇特的设备。其中，我们将介绍10款值得关注的日本企业产品。]]></description>
       <guid>https://wired.jp/article/ces-2025-notable-10-japanese-products/</guid>
       <pubDate>Wed, 29 Jan 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 低成本开发的新 AI 模型受到美国竞争对手的密切关注</title>
-      <link>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</link>
-      <description><![CDATA[一些人担心，中国初创企业DeepSeek的崛起意味着美国正在失去人工智能领域的领先地位。但事实上，这可能表明一种新的模型构建方法正在获得发展动力。]]></description>
-      <guid>https://wired.jp/article/story/deepseek-executives-reaction-silicon-valley/</guid>
-      <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

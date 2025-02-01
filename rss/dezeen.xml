@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>西辛</title>
+    <title>德泽恩</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 09:15:44 GMT</lastBuildDate>
+    <item>
+      <title>本周世界最高建筑正式重启建设</title>
+      <link>https://www.dezeen.com/2025/02/01/worlds-tallest-building-restarted-this-week/</link>
+      <description><![CDATA[本周 Dezeen 上，我们报道了建造世界上最高的摩天大楼，由 Adrian Smith + Gill Gordon Architecture 设计的吉达塔，在沙特阿拉伯正式恢复。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/02/01/worlds-tallest-building-restarted-this-week/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>Estudio AMA 为巴拉圭首都设计网格状摩天大楼</title>
       <link>https://www.dezeen.com/2025/01/31/paraguay-skyscraper-estudio-ama-gridded/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一栋黑色住宅坐落在智利森林中，而一栋伦敦住宅毗邻由诺曼·福斯特设计的 1960 年代扩建建筑，是 Dezeen 1 月份月度房屋中的特色作品。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/31/top-houses-january-2025/</guid>
       <pubDate>Fri, 31 Jan 2025 10:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gira 的 F100 开关和插座</title>
-      <link>https://www.dezeen.com/2025/01/31/f100-switches-sockets-gira-dezeen-showroom/</link>
-      <description><![CDATA[Dezeen Showroom：旨在为智能家居控件提供统一的外观，F100 开关和插座采用制造商 Gira 最大的操作表面，清晰易用。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/31/f100-switches-sockets-gira-dezeen-showroom/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:30:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
