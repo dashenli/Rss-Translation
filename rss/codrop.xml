@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sat, 01 Feb 2025 01:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 15:18:09 GMT</lastBuildDate>
+    <item>
+      <title>Nim：使用 Motion-Primitives 构建的个人网站模板</title>
+      <link>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</link>
+      <description><![CDATA[Nim 是一个免费的开源个人网站模板，使用 Next.js 15、React 19、Tailwind CSS v4 和 Motion-Primitives 构建，具有精细的预建动画。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开发者聚焦：Quentin Hocdé</title>
       <link>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>创建 3D 作品集的历程</title>
       <link>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</link>
-      <description><![CDATA[Merouane Bali 分享了他的 3D 网页设计背后的过程，重点介绍了 WebGL 和 React 集成，以及塑造这个沉浸式作品集所面临的挑战和解决方案。]]></description>
+      <description><![CDATA[Merouane Bali 分享了他的 3D 网页设计背后的过程，重点介绍了 WebGL 和 React 集成，以及塑造这个沉浸式作品集的挑战和解决方案。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</guid>
       <pubDate>Tue, 21 Jan 2025 12:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>VFX-JS：轻松实现 WebGL 效果</title>
-      <link>https://tympanus.net/codrops/2025/01/20/vfx-js-webgl-effects-made-easy/</link>
-      <description><![CDATA[本文介绍了 VFX-JS，这是一个旨在让创建由 WebGL 支持的视觉效果变得简单且易于访问的 JavaScript 库。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/20/vfx-js-webgl-effects-made-easy/</guid>
-      <pubDate>Mon, 20 Jan 2025 13:39:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
