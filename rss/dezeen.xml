@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>西辛</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Sat, 01 Feb 2025 12:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:14:03 GMT</lastBuildDate>
+    <item>
+      <title>Office JDY 在威廉斯堡设计简约的 Veja 商店</title>
+      <link>https://www.dezeen.com/2025/02/01/veja-williamsburg-brooklyn-store-office-jdy/</link>
+      <description><![CDATA[鞋履品牌 Veja 的布鲁克林商店由当地工作室 Office JDY 设计，采用石灰灰泥墙和展示架、裸露的砖砌结构和一个用红色包裹的室外庭院木材。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/02/01/veja-williamsburg-brooklyn-store-office-jdy/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>休·布劳顿建筑师用落叶松板条隐藏了 Kew 抽水站</title>
       <link>https://www.dezeen.com/2025/02/01/kew-pumping-station-hugh-broughton-architects/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>七家牙科诊所让看牙医不再那么可怕</title>
       <link>https://www.dezeen.com/2025/02/01/dental-clinic-lookbooks/</link>
-      <description><![CDATA[在我们最新的lookbook中，我们收集了从荷兰到加拿大的七家牙科诊所，这些诊所的室内设计旨在让就诊体验更加愉快。 阅读更多]]></description>
+      <description><![CDATA[在我们最新的lookbook中，我们收集了从荷兰到加拿大的七家牙科诊所，这些诊所的室内设计旨在让就诊体验更加愉悦。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/02/01/dental-clinic-lookbooks/</guid>
       <pubDate>Sat, 01 Feb 2025 10:00:44 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这个色彩缤纷的猫攀爬架和舒适的靠窗座位是扩建项目的特色之一，它于伦敦，由当地工作室Office S&amp;M设计。阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/01/31/office-sm-park-house-extension/</guid>
       <pubDate>Fri, 31 Jan 2025 11:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>投票选出 21 世纪最重要的建筑</title>
-      <link>https://www.dezeen.com/2025/01/31/21st-century-architecture-vote/</link>
-      <description><![CDATA[为了结束我们的21世纪建筑：25年25座建筑系列，我们要求Dezeen读者投票选出 21 世纪最重要的建筑。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/01/31/21st-century-architecture-vote/</guid>
-      <pubDate>Fri, 31 Jan 2025 11:00:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
