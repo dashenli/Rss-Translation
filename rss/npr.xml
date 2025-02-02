@@ -4,7 +4,14 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 18:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 21:12:49 GMT</lastBuildDate>
+    <item>
+      <title>马斯克为何希望美国国际开发署“消失”？其网站为何消失？</title>
+      <link>https://www.npr.org/sections/goats-and-soda/2025/02/02/g-s1-46007/usaid-web-site-trump-state-department</link>
+      <description><![CDATA[在特朗普政府的领导下，为援助项目提供资金的美国机构面临裁员、大多数援助工作被下令停止行动以及其网站中断。现在埃隆·马斯克说它应该“死掉”。]]></description>
+      <guid>https://www.npr.org/sections/goats-and-soda/2025/02/02/g-s1-46007/usaid-web-site-trump-state-department</guid>
+      <pubDate>Sun, 02 Feb 2025 19:58:21 GMT</pubDate>
+    </item>
     <item>
       <title>你的耳朵无法竖起来，但你的耳朵肌肉肯定会努力</title>
       <link>https://www.npr.org/2025/02/02/nx-s1-5281984/your-ears-cant-prick-up-but-your-ear-muscles-sure-try</link>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 02 Feb 2025 13:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>刚果城市戈马的新生活</title>
+      <title>刚果城市戈马的生活：新占领下的生活</title>
       <link>https://www.npr.org/2025/02/02/nx-s1-5281462/people-in-goma-hope-the-rebel-takeover-of-their-city-means-an-end-to-the-war-at-least</link>
       <description><![CDATA[这是刚果东部城市戈马被围困后生活的一瞥，似乎恢复了某种脆弱的和平，但对报复的恐惧也随之消散。]]></description>
       <guid>https://www.npr.org/2025/02/02/nx-s1-5281462/people-in-goma-hope-the-rebel-takeover-of-their-city-means-an-end-to-the-war-at-least</guid>
@@ -48,13 +55,6 @@
       <pubDate>Sun, 02 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>大选之后，大量种族主义短信是如何绕过反垃圾邮件防护的？</title>
-      <link>https://www.npr.org/2025/02/02/g-s1-41598/students-racist-text-messages-black-lgbtq-election</link>
-      <description><![CDATA[大选结束后，全美各地的美国人都收到了有害的仇恨短信。通信行业一直在试图弄清这是怎么发生的。]]></description>
-      <guid>https://www.npr.org/2025/02/02/g-s1-41598/students-racist-text-messages-black-lgbtq-election</guid>
-      <pubDate>Sun, 02 Feb 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>在抗击禽流感的前线，蛋农担心他们正在输掉这场战斗</title>
       <link>https://www.npr.org/sections/shots-health-news/2025/02/02/nx-s1-5282389/avian-bird-flu-eggs-prices-cull-usda-michigan-poultry-influenza-farmer-vaccination-h5n1</link>
       <description><![CDATA[一些农业专家表示，美国过去控制禽流感爆发的手段这次不起作用了。一些蛋农呼吁给家禽接种疫苗。]]></description>
@@ -69,11 +69,11 @@
       <pubDate>Sun, 02 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>以色列内塔尼亚胡前往美国会见特朗普</title>
-      <link>https://www.npr.org/2025/02/02/g-s1-46034/israel-netanyahu-heads-to-us</link>
-      <description><![CDATA[以色列总理本雅明内塔尼亚胡周日表示，他将在与特朗普总统会晤时讨论“战胜哈马斯”、打击伊朗以及扩大与阿拉伯国家的外交关系。]]></description>
-      <guid>https://www.npr.org/2025/02/02/g-s1-46034/israel-netanyahu-heads-to-us</guid>
-      <pubDate>Sun, 02 Feb 2025 09:02:06 GMT</pubDate>
+      <title>大选之后，大量种族主义短信是如何绕过反垃圾邮件防护的？</title>
+      <link>https://www.npr.org/2025/02/02/g-s1-41598/students-racist-text-messages-black-lgbtq-election</link>
+      <description><![CDATA[大选结束后，全美各地的美国人都收到了有害的仇恨短信。通信行业一直在试图弄清这是怎么发生的。]]></description>
+      <guid>https://www.npr.org/2025/02/02/g-s1-41598/students-racist-text-messages-black-lgbtq-election</guid>
+      <pubDate>Sun, 02 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
