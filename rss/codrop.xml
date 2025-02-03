@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Sun, 02 Feb 2025 09:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 15:18:26 GMT</lastBuildDate>
+    <item>
+      <title>使用 Three.js 和着色器构建滚动 3D 圆形文本动画</title>
+      <link>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</link>
+      <description><![CDATA[了解如何使用 Three.js、着色器和 msdf-text-utils 在 3D 空间中创建圆形文本动画。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>Nim：使用 Motion-Primitives 构建的个人网站模板</title>
       <link>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>从分形到森林 – 使用 Three.js 创建逼真的 3D 树</title>
       <link>https://tympanus.net/codrops/2025/01/27/fractals-to-forests-creating-realistic-3d-trees-with-three-js/</link>
-      <description><![CDATA[探索 EZ-Tree 使用程序生成和 Three.js 创建逼真的 3D 树模型背后的算法。]]></description>
+      <description><![CDATA[了解 EZ-Tree 使用程序生成和 Three.js 创建逼真的 3D 树模型背后的算法。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/27/fractals-to-forests-creating-realistic-3d-trees-with-three-js/</guid>
       <pubDate>Mon, 27 Jan 2025 11:52:06 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 WebGL 着色器创建动态图像转换，探索圆形 SDF、噪声模式、平滑合并和纹理集成等技术。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/22/webgl-shader-techniques-for-dynamic-image-transitions/</guid>
       <pubDate>Wed, 22 Jan 2025 12:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建 3D 作品集的历程</title>
-      <link>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</link>
-      <description><![CDATA[Merouane Bali 分享了他的 3D 网页设计背后的过程，重点介绍了 WebGL 和 React 集成，以及塑造这个沉浸式作品集所面临的挑战和解决方案。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/21/the-journey-of-creating-a-3d-portfolio/</guid>
-      <pubDate>Tue, 21 Jan 2025 12:38:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
