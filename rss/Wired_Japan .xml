@@ -4,7 +4,14 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Sun, 02 Feb 2025 21:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:11:42 GMT</lastBuildDate>
+    <item>
+      <title>电动车轮胎真的容易磨损吗？开发完美电动汽车轮胎的竞赛</title>
+      <link>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</link>
+      <description><![CDATA[在每年销售数十亿条轮胎的市场中，人们竞相开发兼具长续航、环保和安静运行等特点的理想电动汽车轮胎。其结果将使地球上的每一辆汽车受益。]]></description>
+      <guid>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</guid>
+      <pubDate>Sun, 02 Feb 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克告诉朋友他“在 DOGE 总部睡觉”。过去他甚至睡在地板上</title>
       <link>https://wired.jp/article/story/elon-musk-sleeping-doge-office/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>伊隆·马斯克的亲信控制着美国人事管理办公室</title>
       <link>https://wired.jp/article/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/</link>
-      <description><![CDATA[消息人士告诉《连线》杂志，与马斯克关系密切的公司的人员已被任命为美国政府人事管理办公室的高层人员。还有报道称，联邦雇员收到电子邮件，敦促他们与 DEIA 工作的同事对峙，一位专家称这“让人想起斯大林主义”。]]></description>
+      <description><![CDATA[消息人士向《连线》杂志透露，与马斯克有关系的公司人员正在担任美国政府人事管理办公室的高级职位。据报道，还有电子邮件发送给联邦雇员，敦促他们举报在 DEIA 工作的同事，一位专家将此举描述为“让人想起斯大林主义”。]]></description>
       <guid>https://wired.jp/article/elon-musk-lackeys-office-personnel-management-opm-neuralink-x-boring-stalin/</guid>
       <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>比尔·盖茨谈自己是个“鲁莽的孩子”</title>
+      <title>比尔·盖茨谈起自己小时候的“不守规矩的孩子”</title>
       <link>https://wired.jp/article/sz-bill-gates-interview-2025/</link>
       <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维 (Steven Levy) 与盖茨进行了交谈，后者目前正在出版一本回忆录，谈话内容涵盖了从他对保罗·艾伦的回忆到人工智能等各个方面。]]></description>
       <guid>https://wired.jp/article/sz-bill-gates-interview-2025/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>研究结果显示黑猩猩会集体撒尿</title>
       <link>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</link>
-      <description><![CDATA[一项新研究表明，当同类在附近小便时，黑猩猩也有小便的倾向。这种“挤在一起”的现象在个体之间距离越近时越容易发生，而在群体中社会等级越低的个体越容易同步。]]></description>
+      <description><![CDATA[一项新的研究表明，黑猩猩有一种习惯，当附近的同伴小便时，黑猩猩也会小便。据说，这种“同步”现象在个体距离较近时更容易出现，而且群体中的社会等级越低，越容易同步。]]></description>
       <guid>https://wired.jp/article/peeing-is-contagious-for-chimpanzees/</guid>
       <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
     </item>
@@ -83,9 +90,9 @@
       <pubDate>Thu, 30 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek数据库、聊天记录等开放给任何人查看：安全研究人员报告</title>
+      <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
       <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[随着中国 DeepSeek 的人工智能服务在全球流行起来，安全研究人员发现了一个漏洞，该漏洞在公共数据库中留下了超过 100 万条记录，其中包括用户数据和 API 密钥。此后，未经身份验证的用户将无法再访问它。]]></description>
+      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球范围内受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
       <guid>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
       <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国研究小组利用高分子材料液晶弹性体，研制出一种能根据温度改变形状的聚合物。这种新材料有望应用于软机器人和人造肌肉等多个领域。]]></description>
       <guid>https://wired.jp/article/new-shape-shifting-polymer-made-of-liquid-crystalline-elastomer/</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Candy Crush 和 Tinder 等应用未经许可收集用户位置信息</title>
-      <link>https://wired.jp/article/gravy-location-data-app-leak-rtb/</link>
-      <description><![CDATA[位置数据公司 Gravy Analytics 的信息因黑客攻击而泄露。该文件包含在应用程序用户或开发人员不知情或未经同意的情况下收集的位置信息。有迹象表明，这些数据可能是通过拦截实时广告竞价系统获取的。]]></description>
-      <guid>https://wired.jp/article/gravy-location-data-app-leak-rtb/</guid>
-      <pubDate>Wed, 29 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
