@@ -4,7 +4,7 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Mon, 03 Feb 2025 15:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:23:00 GMT</lastBuildDate>
     <item>
       <title>苹果地图目前在四个方面优于谷歌地图</title>
       <link>https://wired.jp/article/story/things-apple-maps-does-better-than-google-maps/</link>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Android 上的这 3 个内置防盗功能保护你的手机</title>
+      <title>如何利用 Android 内置的三项防盗保护功能来保护您的智能手机</title>
       <link>https://wired.jp/article/how-to-use-android-theft-detection-features/</link>
       <description><![CDATA[Android 现在有三个新的防盗功能。启用此功能后，即使您的手机在解锁的情况下被盗，也可以保护您的个人信息。]]></description>
       <guid>https://wired.jp/article/how-to-use-android-theft-detection-features/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局探测器捕捉到火星“极其猛烈的春天”到来</title>
+      <title>NASA航天器捕捉到火星上“猛烈春天”的到来</title>
       <link>https://wired.jp/article/mars-dynamic-spring/</link>
       <description><![CDATA[在火星上，冰直接从固体升华为气体，使春天的到来非常“活跃”。火星最近已经进入春天，我们想根据美国宇航局火星探测器拍摄的图像来看一下那里正在发生的“极其强烈的春天”。]]></description>
       <guid>https://wired.jp/article/mars-dynamic-spring/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>DeepSeek 震撼 AI 行业：“中国电动汽车的教训”</title>
       <link>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</link>
-      <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。此举提醒全球工程师在中国汽车工业发展过程中汲取的经验教训。]]></description>
+      <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。此举提醒人们，中国汽车工业的发展给全球工程师带来了许多经验教训。]]></description>
       <guid>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</guid>
       <pubDate>Sat, 01 Feb 2025 02:00:00 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>比尔·盖茨谈起自己小时候的“不守规矩的孩子”</title>
+      <title>比尔·盖茨谈自己是个“鲁莽的孩子”</title>
       <link>https://wired.jp/article/sz-bill-gates-interview-2025/</link>
-      <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维采访了正在出版回忆录的盖茨，谈到了从他对保罗·艾伦的回忆到人工智能的一切。]]></description>
+      <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维 (Steven Levy) 与盖茨进行了交谈，后者目前正在出版一本回忆录，谈话内容涵盖了从他对保罗·艾伦的回忆到人工智能等各个方面。]]></description>
       <guid>https://wired.jp/article/sz-bill-gates-interview-2025/</guid>
       <pubDate>Fri, 31 Jan 2025 22:00:00 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>OpenAI 推出人工智能代理“Operator”，可代你预订餐厅和购买产品</title>
       <link>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</link>
-      <description><![CDATA[引发AI聊天机器人热潮的公司OpenAI宣布了一项名为“Operator”的新功能。此功能使用人工智能代表用户预订餐厅和购买产品。它最初将作为“研究预览版”提供给订阅了“Pro”计划的 ChatGPT 用户。]]></description>
+      <description><![CDATA[引发人工智能聊天机器人热潮的 OpenAI 宣布了一项名为 Operator 的新功能。该功能使用人工智能代表您进行餐厅预订和购买产品。最初，它将作为“研究预览版本”提供给订阅“Pro”的 ChatGPT 用户。]]></description>
       <guid>https://wired.jp/article/openai-sets-chatgpt-loose-on-the-web/</guid>
       <pubDate>Thu, 30 Jan 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>安全研究人员报告称，DeepSeek 数据库、聊天记录等信息被公开</title>
       <link>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[随着中国 DeepSeek 的人工智能服务在全球流行起来，安全研究人员发现了一个漏洞，该漏洞在公共数据库中留下了超过 100 万条记录，其中包括用户数据和 API 密钥。此后，未经身份验证的用户将无法再访问它。]]></description>
+      <description><![CDATA[随着中国 DeepSeek 的 AI 服务在全球受到欢迎，安全研究人员发现其公共数据库存在漏洞，该漏洞会暴露超过一百万条包含用户数据和 API 密钥的记录。此后，未经授权的用户将无法再访问该网站。]]></description>
       <guid>https://wired.jp/article/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
       <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
     </item>
