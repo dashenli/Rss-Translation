@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>设计</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Tue, 04 Feb 2025 15:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 18:21:41 GMT</lastBuildDate>
+    <item>
+      <title>Dezeen Courses 推出七门科技类课程</title>
+      <link>https://www.dezeen.com/2025/02/04/technology-based-dezeen-courses/</link>
+      <description><![CDATA[Dezeen 课程：作为我们最新的课程汇总，我们选择了七门基于技术的课程，涵盖游戏设计、建筑技术和 3D 设计。 阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/02/04/technology-based-dezeen-courses/</guid>
+      <pubDate>Tue, 04 Feb 2025 17:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥城周边八座重要建筑</title>
+      <link>https://www.dezeen.com/2025/02/04/eight-buildings-mexico-city-neighborhoods/</link>
+      <description><![CDATA[随着墨西哥城艺术周的拉开帷幕，我们从一份名单中选择了几座重要的建筑与当地设计工作室 Davidpompa 共同开发了一系列值得关注的建筑，以庆祝这一周。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/02/04/eight-buildings-mexico-city-neighborhoods/</guid>
+      <pubDate>Tue, 04 Feb 2025 16:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>SLAS Architekci 为波兰音乐厅打造镜面钢立面</title>
       <link>https://www.dezeen.com/2025/02/04/slas-architekci-concert-hall-poland/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>Dezeen LIVE：2025 年斯德哥尔摩设计周</title>
       <link>https://www.dezeen.com/2025/02/04/stockholm-design-week-2025-dezeen-live/</link>
-      <description><![CDATA[Dezeen 团队正在瑞典首都斯德哥尔摩设计周现场报道（2 月 3 日至 9 日）。全天更新产品、装置和活动的独家预览。 阅读更多]]></description>
+      <description><![CDATA[Dezeen 团队现场报道瑞典首都斯德哥尔摩设计周（2 月 3 日至 9 日）。全天更新产品、装置和活动的独家预览。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/02/04/stockholm-design-week-2025-dezeen-live/</guid>
       <pubDate>Tue, 04 Feb 2025 09:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>贾斯汀·米切尔设计便携式手机键盘，让“灵感迸发时随处书写”</title>
-      <link>https://www.dezeen.com/2025/02/04/justin-mitchell-conceptual-portable-keyboard/</link>
-      <description><![CDATA[产品设计师 Justin Mitchell 设计了 ​​Amber KB 1，这是一款概念性的便携式翻盖式键盘，可将智能手机转变为笔记本电脑。 阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/02/04/justin-mitchell-conceptual-portable-keyboard/</guid>
-      <pubDate>Tue, 04 Feb 2025 06:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Willo Perron 在修复后的巴黎大皇宫中打造雕塑般的香奈儿秀场</title>
-      <link>https://www.dezeen.com/2025/02/03/willo-perron-creates-sculptural-chanel-runway-in-restored-grand-palais/</link>
-      <description><![CDATA[设计师Willo Perron为时装公司香奈儿，该活动在刚刚修复的巴黎大皇宫举行。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/02/03/willo-perron-creates-sculptural-chanel-runway-in-restored-grand-palais/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
