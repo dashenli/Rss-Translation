@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Tue, 04 Feb 2025 12:33:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:18:19 GMT</lastBuildDate>
+    <item>
+      <title>如何用 Three.js 制作蓬松的草地</title>
+      <link>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</link>
+      <description><![CDATA[详细介绍在 Three.js 中创建逼真的草地且不影响性能的最佳技术。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</guid>
+      <pubDate>Tue, 04 Feb 2025 12:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Three.js 和着色器构建滚动 3D 圆形文本动画</title>
       <link>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>开发者聚焦：Quentin Hocdé</title>
       <link>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</link>
-      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验带入生活的热情。]]></description>
+      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验变为现实的热情。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</guid>
       <pubDate>Fri, 31 Jan 2025 12:45:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用 Agent.ai Agent Builder 创建一个 AI 代理，以每天监控您网站的性能、检测异常并发送包含可操作见解的专业 HTML 电子邮件报告。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/23/how-to-build-a-web-performance-watchdog-agent-with-agent-ai/</guid>
       <pubDate>Thu, 23 Jan 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于动态图像转换的 WebGL 着色器技术</title>
-      <link>https://tympanus.net/codrops/2025/01/22/webgl-shader-techniques-for-dynamic-image-transitions/</link>
-      <description><![CDATA[了解如何使用 WebGL 着色器创建动态图像转换，探索圆形 SDF、噪声模式、平滑合并和纹理集成等技术。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/22/webgl-shader-techniques-for-dynamic-image-transitions/</guid>
-      <pubDate>Wed, 22 Jan 2025 12:35:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

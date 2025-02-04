@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Tue, 04 Feb 2025 12:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:18:47 GMT</lastBuildDate>
+    <item>
+      <title>数据可视化项目</title>
+      <link>https://datavizproject.com/</link>
+      <description><![CDATA[超过 160 种不同类型的数据可视化的集合，包含定义、分类和示例。
+]]></description>
+      <guid>https://datavizproject.com/</guid>
+      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>朋友吉恩</title>
+      <link>https://www.superrandom.studio/venngenn</link>
+      <description><![CDATA[生成式人工智能在一个相当独特的界面中与维恩图相遇。
+]]></description>
+      <guid>https://www.superrandom.studio/venngenn</guid>
+      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>撰写优秀的设计文档</title>
+      <link>https://grantslatton.com/how-to-design-document</link>
+      <description><![CDATA[设计文档是一种技术报告，概述了系统在权衡和约束条件下的实施策略。
+]]></description>
+      <guid>https://grantslatton.com/how-to-design-document</guid>
+      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>今日三球</title>
+      <link>https://www.3goals.today/</link>
+      <description><![CDATA[一款超简约的生产力应用程序，可帮助您赢得一天：一项高影响力的任务、一项拖延的任务和一项快速的成就。 
+]]></description>
+      <guid>https://www.3goals.today/</guid>
+      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字剧本：设计系统的关键对应物</title>
+      <link>https://www.smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</link>
+      <description><![CDATA[设计系统在当今的数字环境中发挥着至关重要的作用。但还有另一个工具值得同样关注：数字剧本。
+]]></description>
+      <guid>https://www.smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</guid>
+      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能透明度框架</title>
       <link>https://uxdesign.cc/ai-transparency-framework-cf89fa61dc1b</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://andrewchen.substack.com/p/my-product-went-viral-on-social-media</guid>
       <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你把相机放哪儿了？</title>
-      <link>https://www.youtube.com/watch?v=wa1O3nqW5hQ</link>
-      <description><![CDATA[如果每个电影制作人都会问自己一个问题，那就是这个问题。
-]]></description>
-      <guid>https://www.youtube.com/watch?v=wa1O3nqW5hQ</guid>
-      <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 文本框修剪</title>
-      <link>https://developer.chrome.com/blog/css-text-box-trim</link>
-      <description><![CDATA[收回文本内容上方和下方的空间；实现视觉平衡。
-]]></description>
-      <guid>https://developer.chrome.com/blog/css-text-box-trim</guid>
-      <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>错过航班</title>
-      <link>https://blog.jim-nielsen.com/2025/missed-connections/</link>
-      <description><![CDATA[我们是否正在失去让互联网值得使用的东西？
-]]></description>
-      <guid>https://blog.jim-nielsen.com/2025/missed-connections/</guid>
-      <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 的草稿</title>
-      <link>https://x.com/FonsMans/status/1882080480637698213</link>
-      <description><![CDATA[“以前，我依靠 Figma 进行润色——设计的最后阶段，我专注于让一切变得完美。”
-]]></description>
-      <guid>https://x.com/FonsMans/status/1882080480637698213</guid>
-      <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年国家设计奖获奖者</title>
-      <link>https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/</link>
-      <description><![CDATA[Cooper Hewitt 颁发的奖项旨在表彰创新和影响力，并认可设计改变世界的力量。
-]]></description>
-      <guid>https://www.cooperhewitt.org/national-design-awards/2025-national-design-award-winners/</guid>
-      <pubDate>Thu, 30 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
