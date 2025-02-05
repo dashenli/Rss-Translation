@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:19:10 GMT</lastBuildDate>
+    <item>
+      <title>漱口水研究中心</title>
+      <link>https://research.mouthwash.studio/index</link>
+      <description><![CDATA[Mouthwash 工作室专门为探索和发现新的设计和动态创意而设立的空间。
+]]></description>
+      <guid>https://research.mouthwash.studio/index</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共工程</title>
+      <link>https://public.work/</link>
+      <description><![CDATA[公共领域内容的视觉搜索引擎。探索来自大都会博物馆、纽约公共图书馆和其他来源的 100,000 多张无版权图片。
+]]></description>
+      <guid>https://public.work/</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 品牌重塑</title>
+      <link>https://www.youtube.com/watch?v=k3d_xeVxEOE</link>
+      <description><![CDATA[Studio Dumbar 和 ABC Dinamo 与 OpenAI 内部团队合作，打造出精美的作品，刷新了他们的视觉形象。
+]]></description>
+      <guid>https://www.youtube.com/watch?v=k3d_xeVxEOE</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>博物馆采用数字技术将哪些人排除在外？</title>
+      <link>https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology</link>
+      <description><![CDATA[“当代博物馆”是思考、讨论和构思博物馆应该是什么以及需要是什么的新场所。
+]]></description>
+      <guid>https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>约会应用程序的现实</title>
+      <link>https://blog.luap.info/the-reality-of-dating-apps.html</link>
+      <description><![CDATA[这位工程师已经在约会应用程序内工作了几个月，并且学到了很多关于约会行为的有趣事情。
+]]></description>
+      <guid>https://blog.luap.info/the-reality-of-dating-apps.html</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>数据可视化项目</title>
       <link>https://datavizproject.com/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.lukew.com/ff/entry.asp?2084</guid>
       <pubDate>Mon, 03 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为新一代人工智能体验而设计</title>
-      <link>https://adobe.design/stories/leading-design/designing-for-generative-ai-experiences</link>
-      <description><![CDATA[塑造人工智能界面需要依靠特定的设计技能。
-]]></description>
-      <guid>https://adobe.design/stories/leading-design/designing-for-generative-ai-experiences</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>代号鹅</title>
-      <link>https://block.github.io/goose/</link>
-      <description><![CDATA[您的开源 AI 代理，在您的机器上无缝地自动执行工程任务。
-]]></description>
-      <guid>https://block.github.io/goose/</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 中的 UX 团队章程</title>
-      <link>https://www.figma.com/community/file/1463949748350704314</link>
-      <description><![CDATA[UX 团队章程阐明了团队的目的、角色和目标，以提高效率和协作。
-]]></description>
-      <guid>https://www.figma.com/community/file/1463949748350704314</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级调色板</title>
-      <link>https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FF6D1F-FF1F39-FF1FA5-EC1FFF</link>
-      <description><![CDATA[使用最多 24 种颜色从十六进制生成调色板。改变色调、饱和度、亮度等。
-]]></description>
-      <guid>https://supercolorpalette.com/?scp=G0-hsl-FFDA1F-FF6D1F-FF1F39-FF1FA5-EC1FFF</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的产品风靡一时，但我得到的却只是这些糟糕的用户</title>
-      <link>https://andrewchen.substack.com/p/my-product-went-viral-on-social-media</link>
-      <description><![CDATA[Looky-loo，牵引力的质量与数量，以及来去匆匆的用户。
-]]></description>
-      <guid>https://andrewchen.substack.com/p/my-product-went-viral-on-social-media</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
