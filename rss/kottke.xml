@@ -4,7 +4,14 @@
     <title>kottke.org</title>
     <link>https://kottke.org/</link>
     <description>Jason Kottke 的博客，自 1998 年以来提供优质超文本产品</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:23:16 GMT</lastBuildDate>
+    <item>
+      <title>编程说明</title>
+      <link>https://kottke.org/25/02/a-programming-note-1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kottke.org/25/02/a-programming-note-1</guid>
+      <pubDate>Wed, 05 Feb 2025 17:30:54 GMT</pubDate>
+    </item>
     <item>
       <title>这改变了一切</title>
       <link>https://kottke.org/25/02/this-changes-everything</link>
@@ -64,7 +71,7 @@
 那么风险是什么。首先是全景监狱。福柯 (Foucault) 提出了这一理念，即如果你让人们知道他们受到来自中心位置的监视，他们更有可能服从。例如，要求改变的电子邮件或将工人添加到列表中……
 第二点是瓶颈。如果你有权访问付款和数据，你可以切断对手的关键资源。 参议员 Wyden 预见到了这一点。
 转向忠诚派。一旦您拥有 360 度视角，您就可以将资源重新分配给内部人员并切断反对派。据报道，GSA 有一块白板，上面写着要出售的房产。他们会卖给谁？小心私下交易。
-但是，当您试图在破坏行政国家的同时操纵这些系统时会发生什么？很糟糕。你会得到错误估计、过度反应和意想不到的后果。
+但是，当您试图在破坏行政国家的同时操纵这些系统时会发生什么？糟糕的事情。你会得到错误估计、过度反应和意想不到的后果。
 这是一个关键点：这样做的方式和速度，加上政府采取的其他行动（其中许多是非法和违宪的）（特朗普关于冻结资金的行政命令等），是总体战略的证据：
 总体结论是，管道是政治性的，政客和媒体需要关注马斯克正在采取的战略。
 纽曼没有具体提到的几件事是，控制这些操作如何用于限制人们的言论和行动，以及盗窃和诈骗的巨大潜力。如果不再有任何监督，他们就可以为所欲为。
@@ -130,13 +137,6 @@
       <description><![CDATA[非常非常糟糕：在伊隆·马斯克的指导下，一名 25 岁的工程师夺取了“财政部系统”代码的管理员权限，该系统负责美国政府的几乎所有付款，包括社会保障、税收等。]]></description>
       <guid>https://kottke.org/25/02/0046128-very-very-bad-under-the</guid>
       <pubDate>Tue, 04 Feb 2025 15:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>“马斯克与 DOGE 的政治项目实际上非常简单：世界上最富有的......</title>
-      <link>https://kottke.org/25/02/0046127-musks-political-project-w</link>
-      <description><![CDATA[“马斯克与 DOGE 的政治项目实际上非常简单：这位世界首富似乎正在不分青红皂白地瓦解政府，以期巩固权力并惩罚他的政治敌人。”]]></description>
-      <guid>https://kottke.org/25/02/0046127-musks-political-project-w</guid>
-      <pubDate>Tue, 04 Feb 2025 15:32:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
