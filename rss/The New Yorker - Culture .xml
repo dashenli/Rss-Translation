@@ -4,9 +4,16 @@
     <title>一切</title>
     <link>https://www.newyorker.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 05 Feb 2025 18:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 21:16:52 GMT</lastBuildDate>
     <item>
-      <title>每日漫画：2 月 5 日，星期三</title>
+      <title>Fuchsia Dunlop 的冒险精神</title>
+      <link>https://www.newyorker.com/books/book-currents/fuchsia-dunlops-taste-for-adventure</link>
+      <description><![CDATA[这位著名的中餐厨师和作家回顾了外国人在中国旅行的故事，以及爱上一个地方的感受。]]></description>
+      <guid>https://www.newyorker.com/books/book-currents/fuchsia-dunlops-taste-for-adventure</guid>
+      <pubDate>Wed, 05 Feb 2025 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日漫画：2 月 5 日星期三</title>
       <link>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-february-5th-dove-spikes</link>
       <description><![CDATA[一个小小的家居装修项目。]]></description>
       <guid>https://www.newyorker.com/cartoons/daily-cartoon/wednesday-february-5th-dove-spikes</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[新的事物不断涌现，旧的事物不断涌现。]]></description>
       <guid>https://www.newyorker.com/cartoons/daily-cartoon/monday-february-3rd-february-resolutions</guid>
       <pubDate>Mon, 03 Feb 2025 14:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>克拉伦斯·梅杰（Clarence Major）的《理发店》</title>
-      <link>https://www.newyorker.com/magazine/2025/02/10/barbershop-clarence-major-poem</link>
-      <description><![CDATA[“在理发店里很难区分争论和讨论。”]]></description>
-      <guid>https://www.newyorker.com/magazine/2025/02/10/barbershop-clarence-major-poem</guid>
-      <pubDate>Mon, 03 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
