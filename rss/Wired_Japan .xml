@@ -4,9 +4,16 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Wed, 05 Feb 2025 01:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 03:20:28 GMT</lastBuildDate>
     <item>
-      <title>模仿昆虫的复眼可以让相机变得更强大。</title>
+      <title>每个人都应该知道的 5 个物理方程</title>
+      <link>https://wired.jp/article/5-physics-equations-everyone-should-know/</link>
+      <description><![CDATA[一位物理学家和《连线》杂志的撰稿人介绍了五个经典的物理方程，即使非专家也应该知道。]]></description>
+      <guid>https://wired.jp/article/5-physics-equations-everyone-should-know/</guid>
+      <pubDate>Wed, 05 Feb 2025 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>模仿昆虫复眼可以使相机更强大</title>
       <link>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</link>
       <description><![CDATA[韩国研究人员受到夜行昆虫复眼机制的启发，开发出一种即使在弱光环境下也能快速、高灵敏度捕捉拍摄对象的相机。预计该技术将被应用于智能手机、监控摄像头、医疗设备等广泛领域。]]></description>
       <guid>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</guid>
@@ -29,12 +36,12 @@
     <item>
       <title>思科等安全研究结果显示 DeepSeek 的 AI“攻击成功率达 100％”</title>
       <link>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</link>
-      <description><![CDATA[DeepSeek 的 AI 聊天机器人迅速受到关注，但安全研究人员进行的 50 次不同的“越狱”攻击测试显示，其防御系统已被彻底攻破。研究人员对于缺乏安全措施感到震惊。]]></description>
+      <description><![CDATA[DeepSeek的AI聊天机器人正在迅速引起人们的关注，但安全研究人员进行了50种“越狱”攻击测试，已经彻底攻破了其防御系统。研究人员对缺乏安全措施感到震惊。]]></description>
       <guid>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</guid>
       <pubDate>Mon, 03 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>跟随城市无人驾驶机器人出租车 Waymo 走向未来</title>
+      <title>该市的无人驾驶机器人出租车跟随 Waymo 走向未来</title>
       <link>https://wired.jp/article/sz-waymo-robotaxi-driverless-future/</link>
       <description><![CDATA[跟踪一辆自动驾驶出租车几个小时是一次奇怪的经历。令人振奋、催人奋进。然而，无人驾驶的世界即将到来。现在，关上车门，系好安全带。]]></description>
       <guid>https://wired.jp/article/sz-waymo-robotaxi-driverless-future/</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>如何使用 Android 上的这 3 个内置防盗功能保护你的手机</title>
       <link>https://wired.jp/article/how-to-use-android-theft-detection-features/</link>
-      <description><![CDATA[Android 中添加了三项防盗保护功能。通过启用此功能，即使您的智能手机在解锁状态下被盗，您也可以保护您的个人信息。]]></description>
+      <description><![CDATA[Android 现在有三个新的防盗功能。启用此功能后，即使您的手机在解锁的情况下被盗，也可以保护您的个人信息。]]></description>
       <guid>https://wired.jp/article/how-to-use-android-theft-detection-features/</guid>
       <pubDate>Mon, 03 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电动车轮胎真的容易磨损吗？开发完美电动汽车轮胎的竞赛</title>
+      <title>电动车轮胎真的容易磨损吗？ 开发完美电动汽车轮胎的竞赛</title>
       <link>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</link>
       <description><![CDATA[在每年销售数十亿条轮胎的市场中，人们竞相开发兼具长续航、环保和安静运行等特点的理想电动汽车轮胎。其研究结果将使地球上的每一辆汽车受益。]]></description>
       <guid>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</guid>
@@ -85,30 +92,23 @@
     <item>
       <title>DeepSeek 改变现状；人工智能行业应该从中国电动汽车中吸取教训</title>
       <link>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</link>
-      <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。此举提醒人们，中国汽车工业的发展给全球工程师带来了许多经验教训。]]></description>
+      <description><![CDATA[中国生成式人工智能平台DeepSeek的成功引发关注。 此举提醒人们，中国汽车工业的发展给全球工程师带来了许多经验教训。]]></description>
       <guid>https://wired.jp/article/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</guid>
       <pubDate>Sat, 01 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>从您穿的衣服到您阅读的衣服。 “YUIMA NAKAZATO”个展告诉了我们什么？</title>
+      <title>从“穿”到“读”服装。 “中里由真”个展告诉我们什么？</title>
       <link>https://wired.jp/article/yuima-nakazato-exhibition-2025/</link>
-      <description><![CDATA[2月3日（周一）起，中里由真将在日本举办首次个展（去年曾在法国举办过大型个展）。这位唯一一位在高级定制舞台上不断角逐的日本设计师，正在尝试什么？我在巴黎时装周之前参观了他的工作室。]]></description>
+      <description><![CDATA[从2月3日星期一开始，中里由真将在日本举办首次个人展（去年他在法国举办了大型个人展）。这位唯一一位在高级时装领域持续竞争的日本设计师究竟在试图做什么？我在巴黎时装展之前参观了这个工作室。]]></description>
       <guid>https://wired.jp/article/yuima-nakazato-exhibition-2025/</guid>
       <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>无需接触物体即可移动它们！剪纸启发的远程控制技术潜力</title>
+      <title>无需接触物体即可移动它们！ 剪纸启发的远程控制技术潜力</title>
       <link>https://wired.jp/article/magnetically-controlled-surfaces-inspired-by-kirigami/</link>
       <description><![CDATA[美国研究人员受到日本传统剪纸工艺结构的启发，开发出一种可根据磁场灵活改变形状的装置，从而可以对物体进行远程控制。这可能带来机器人和医学领域的创新应用。]]></description>
       <guid>https://wired.jp/article/magnetically-controlled-surfaces-inspired-by-kirigami/</guid>
       <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比尔·盖茨谈自己是个“鲁莽的孩子”</title>
-      <link>https://wired.jp/article/sz-bill-gates-interview-2025/</link>
-      <description><![CDATA[他吓唬同学，被拘留了一晚，并且服用了 LSD 后精神亢奋。这可能不是你认识的比尔盖茨。 《连线》杂志的史蒂芬·列维 (Steven Levy) 与盖茨进行了交谈，后者目前正在出版一本回忆录，谈话内容涵盖了从他对保罗·艾伦的回忆到人工智能等各个方面。]]></description>
-      <guid>https://wired.jp/article/sz-bill-gates-interview-2025/</guid>
-      <pubDate>Fri, 31 Jan 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
