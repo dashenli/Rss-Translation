@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新内容 > 艺术 > 艺术与设计</title>
+    <title>新 > 艺术 > 艺术与设计</title>
     <link>https://www.nytimes.com/section/arts/design</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Feb 2025 14:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 23:30:13 GMT</lastBuildDate>
+    <item>
+      <title>收藏家起诉大卫·格芬，要求收回价值数百万美元的雕塑</title>
+      <link>https://www.nytimes.com/2025/02/04/arts/david-geffen-giacometti-sculpture.html</link>
+      <description><![CDATA[在法庭文件中，这位收藏家称，一名顾问未经授权，策划将他以 7800 万美元购买的贾科梅蒂雕塑卖给这位娱乐大亨。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/arts/david-geffen-giacometti-sculpture.html</guid>
+      <pubDate>Tue, 04 Feb 2025 23:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>菲利普·加斯顿修复的反法西斯主义壁画在墨西哥揭幕</title>
       <link>https://www.nytimes.com/2025/02/01/arts/design/philip-guston-mural-mexico.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[20 世纪 80 年代泡沫经济时期，日本收藏家斥资数十亿美元购买欧洲绘画作品。如今，官员们希望以此激励新一代艺术爱好者。]]></description>
       <guid>https://www.nytimes.com/2025/01/25/arts/design/japan-art-market.html</guid>
       <pubDate>Sat, 25 Jan 2025 10:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普行政命令要求国家美术馆终止多元化项目</title>
-      <link>https://www.nytimes.com/2025/01/24/arts/design/national-gallery-diversity-equity-inclusion.html</link>
-      <description><![CDATA[美国国家美术馆表示，为遵守总统命令，其已关闭了馆藏和收藏办公室。]]></description>
-      <guid>https://www.nytimes.com/2025/01/24/arts/design/national-gallery-diversity-equity-inclusion.html</guid>
-      <pubDate>Fri, 24 Jan 2025 17:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
