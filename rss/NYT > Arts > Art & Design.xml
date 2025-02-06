@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新内容 > 艺术 > 艺术与设计</title>
+    <title>新 > 艺术 > 艺术与设计</title>
     <link>https://www.nytimes.com/section/arts/design</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Feb 2025 12:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 14:28:38 GMT</lastBuildDate>
     <item>
       <title>2025 年 2 月在纽约可以做的有趣事情</title>
       <link>https://www.nytimes.com/2025/02/06/arts/things-to-do-nyc-february-2025.html</link>
       <description><![CDATA[想在纽约做点什么吗？与 Liza Treyger 一起欢笑，了解克拉拉·舒曼，或观看大迁徙中的城市丛林女性爱情故事。]]></description>
       <guid>https://www.nytimes.com/2025/02/06/arts/things-to-do-nyc-february-2025.html</guid>
-      <pubDate>Thu, 06 Feb 2025 12:00:14 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 14:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>国立博物馆的“美国摄影”展览：用外国视角看美国梦</title>
+      <link>https://www.nytimes.com/2025/02/06/arts/design/american-photography-rijksmuseum.html</link>
+      <description><![CDATA[荷兰一家大型博物馆正在举办一场大型美国摄影展，探讨美国希望看到的自己与现实之间的矛盾。]]></description>
+      <guid>https://www.nytimes.com/2025/02/06/arts/design/american-photography-rijksmuseum.html</guid>
+      <pubDate>Thu, 06 Feb 2025 13:34:39 GMT</pubDate>
     </item>
     <item>
       <title>卡斯帕·大卫·弗里德里希：雾中孤独的流浪者</title>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 04 Feb 2025 23:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>菲利普·加斯顿修复的反法西斯壁画在墨西哥揭幕</title>
+      <title>菲利普·加斯顿修复的反法西斯主义壁画在墨西哥揭幕</title>
       <link>https://www.nytimes.com/2025/02/01/arts/design/philip-guston-mural-mexico.html</link>
       <description><![CDATA[1934 年，两名年轻艺术家开着一辆破旧的汽车从洛杉矶前往墨西哥，创作了一幅关于压迫的有力艺术作品。这幅作品被藏匿起来，随后被遗忘。]]></description>
       <guid>https://www.nytimes.com/2025/02/01/arts/design/philip-guston-mural-mexico.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[总统埃马纽埃尔·马克龙宣布了缓解巴黎博物馆人群拥挤的计划，并向欧盟以外的游客收取更高的门票。]]></description>
       <guid>https://www.nytimes.com/2025/01/28/arts/design/mona-lisa-louvre-macron.html</guid>
       <pubDate>Tue, 28 Jan 2025 21:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>非洲中心新任领导人注重联系</title>
-      <link>https://www.nytimes.com/2025/01/27/arts/design/africa-center-new-leader-martin-kimani.html</link>
-      <description><![CDATA[前肯尼亚外交官马丁·基马尼 (Martin Kimani) 表示，他过去的工作使他能够在非洲中心超越艺术的多元化项目基础上再接再厉。]]></description>
-      <guid>https://www.nytimes.com/2025/01/27/arts/design/africa-center-new-leader-martin-kimani.html</guid>
-      <pubDate>Mon, 27 Jan 2025 10:01:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
