@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 06 Feb 2025 01:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 03:21:32 GMT</lastBuildDate>
+    <item>
+      <title>中国对谷歌发起调查以回应特朗普的关税</title>
+      <link>https://wired.jp/article/google-china-antitrust-trump-tariffs/</link>
+      <description><![CDATA[在美国对中国产品征收额外关税后，中国宣布将对谷歌可能存在的反垄断违法行为展开调查。如果特朗普政府宣布进一步征收关税或其他贸易措施，中国可能会加强报复措施。]]></description>
+      <guid>https://wired.jp/article/google-china-antitrust-trump-tariffs/</guid>
+      <pubDate>Thu, 06 Feb 2025 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>25 岁的伊隆·马斯克熟人可以访问美国政府支付系统</title>
+      <link>https://wired.jp/article/elon-musk-associate-bfs-federal-payment-system/</link>
+      <description><![CDATA[多位消息人士透露，美国财政部金融服务办公室一名与埃隆·马斯克关系密切的 25 岁工程师拥有控制社会保障支付、退税等系统的管理权限。]]></description>
+      <guid>https://wired.jp/article/elon-musk-associate-bfs-federal-payment-system/</guid>
+      <pubDate>Thu, 06 Feb 2025 01:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>从 TikTok 限制到 Meta 政策转变：2025 年 1 月阅读量最高的 10 则新闻</title>
       <link>https://wired.jp/article/10-most-read-stories-january-2025/</link>
@@ -22,14 +36,14 @@
     <item>
       <title>迈向世界首个区块链城市──巴林在中东面临的挑战</title>
       <link>https://wired.jp/article/sz-bahrain-blockchain-city/</link>
-      <description><![CDATA[从管理道路和基础设施到加强医疗保健系统，世界各地的城市都在建设由区块链驱动的智慧城市，包括首尔和莫斯科，以及中东的巴林。这是《连线》杂志中东版的报道。]]></description>
+      <description><![CDATA[从管理道路和基础设施到加强医疗保健系统，世界各地的城市都在建设由区块链驱动的智慧城市，其中包括中东的巴林以及首尔和莫斯科。这是《连线》杂志中东版的报道。]]></description>
       <guid>https://wired.jp/article/sz-bahrain-blockchain-city/</guid>
       <pubDate>Wed, 05 Feb 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>伊隆马斯克的助手宣布美国政府机构“人工智能优先”</title>
       <link>https://wired.jp/article/elon-musk-lieutenant-gsa-ai-agency/</link>
-      <description><![CDATA[埃隆·马斯克的亲密助手、前特斯拉开发人员托马斯·谢德被任命为美国政府技术转型服务（TTS）主任。谢德研究所宣布，将根据其“人工智能优先战略”，推动政府运营自动化和联邦数据集中化。]]></description>
+      <description><![CDATA[埃隆·马斯克的亲密助手、前特斯拉开发人员托马斯·谢德被任命为美国政府技术转型服务 (TTS) 主任。谢德研究所宣布，将根据其“人工智能优先战略”，推动政府运营自动化和联邦数据集中化。]]></description>
       <guid>https://wired.jp/article/elon-musk-lieutenant-gsa-ai-agency/</guid>
       <pubDate>Wed, 05 Feb 2025 09:00:00 GMT</pubDate>
     </item>
@@ -50,12 +64,12 @@
     <item>
       <title>模仿昆虫复眼可以使相机更强大</title>
       <link>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</link>
-      <description><![CDATA[受夜行昆虫复眼结构的启发，韩国研究人员开发出一种即使在弱光环境下也能高速、高灵敏度拍摄物体的相机。预计将应用于智能手机、监控摄像头、医疗设备等广泛领域。]]></description>
+      <description><![CDATA[韩国研究人员受到夜行昆虫复眼机制的启发，开发出一种即使在弱光环境下也能快速、高灵敏度捕捉拍摄对象的相机。预计该技术将被应用于智能手机、监控摄像头、医疗设备等广泛领域。]]></description>
       <guid>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</guid>
       <pubDate>Tue, 04 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>《WIRED》杂志 5 大仅限订阅者阅读的文章（2025 年 1 月）</title>
+      <title>《连线》订阅者专享前 5 篇文章（2025 年 1 月）</title>
       <link>https://wired.jp/article/5-most-read-stories-membership-january-2025/</link>
       <description><![CDATA[我们从《WIRED SZ MEMBERSHIP》编辑团队每月精心挑选的会员专属文章中，精选了上个月会员阅读次数最多的五篇文章。]]></description>
       <guid>https://wired.jp/article/5-most-read-stories-membership-january-2025/</guid>
@@ -64,12 +78,12 @@
     <item>
       <title>OpenAI 推出“o3-mini”与 DeepSeek 竞争</title>
       <link>https://wired.jp/article/openai-o3-mini-release/</link>
-      <description><![CDATA[继DeepSeek R1发布之后，OpenAI又公布了其最新模型o3-mini。它具有先进的推理能力和优先考虑效率的设计。]]></description>
+      <description><![CDATA[继DeepSeek R1发布之后，OpenAI又公布了其最新模型o3-mini。它具有先进的推理能力和注重效率的设计。]]></description>
       <guid>https://wired.jp/article/openai-o3-mini-release/</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>思科等安全研究结果显示 DeepSeek 的 AI“攻击成功率达 100％”</title>
+      <title>DeepSeek的AI具有“100%的攻击成功率”：思科等公司的安全研究结果</title>
       <link>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</link>
       <description><![CDATA[DeepSeek 的 AI 聊天机器人迅速受到关注，但安全研究人员进行的 50 次不同的“越狱”攻击测试显示，其防御系统已被彻底攻破。研究人员对于缺乏安全措施感到震惊。]]></description>
       <guid>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Android 内置的这 3 个防盗功能保护你的手机</title>
+      <title>如何使用 Android 上的这 3 个内置防盗功能保护你的手机</title>
       <link>https://wired.jp/article/how-to-use-android-theft-detection-features/</link>
       <description><![CDATA[Android 中添加了三项防盗保护功能。通过启用此功能，即使您的智能手机在解锁状态下被盗，您也可以保护您的个人信息。]]></description>
       <guid>https://wired.jp/article/how-to-use-android-theft-detection-features/</guid>
       <pubDate>Mon, 03 Feb 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电动车轮胎真的容易磨损吗？ 开发完美电动汽车轮胎的竞赛</title>
-      <link>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</link>
-      <description><![CDATA[在每年销售数十亿条轮胎的市场中，人们竞相开发兼具长续航、环保和安静运行等特点的理想电动汽车轮胎。其结果将使地球上的每一辆汽车受益。]]></description>
-      <guid>https://wired.jp/article/sz-the-race-to-create-the-perfect-ev-tire/</guid>
-      <pubDate>Sun, 02 Feb 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克告诉朋友他“在 DOGE 总部睡觉”。过去他甚至睡在地板上</title>
-      <link>https://wired.jp/article/story/elon-musk-sleeping-doge-office/</link>
-      <description><![CDATA[这一举动让人想起推特和特斯拉的做法，埃隆·马斯克似乎睡在距离白宫仅一箭之遥的地方。]]></description>
-      <guid>https://wired.jp/article/story/elon-musk-sleeping-doge-office/</guid>
-      <pubDate>Sun, 02 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
