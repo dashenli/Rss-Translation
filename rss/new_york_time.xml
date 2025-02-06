@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Feb 2025 21:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:44:30 GMT</lastBuildDate>
+    <item>
+      <title>美国各地反特朗普抗议者聚集谴责白宫政策</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-protests-50501-project-2025.html</link>
+      <description><![CDATA[在一场发起全国运动的草根运动中，组织者鼓励那些反对特朗普总统在移民、跨性别权利等问题上行动的人们聚集在州首府和市政厅。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-protests-50501-project-2025.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>司法部新领导人采取行动加强对机构的控制</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/justice-dept-fbi-insubordination.html</link>
+      <description><![CDATA[该部门的二号人物埃米尔·博夫 (Emil Bove) 加剧了与联邦调查局临时领导人的冲突，指责他们“不服从命令”。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/justice-dept-fbi-insubordination.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普签署命令禁止跨性别学生运动员参加女子体育赛事</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-order-transgender-athletes-womens-sports.html</link>
+      <description><![CDATA[总统表示，违反该命令的学校将失去联邦资金。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-order-transgender-athletes-womens-sports.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普匆忙提出的“拥有”加沙提案</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-gaza-takeover.html</link>
+      <description><![CDATA[尽管总统数周来一直在谈论这个想法，但却并未就此召开任何会议，政府高层对此感到意外。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-gaza-takeover.html</guid>
+      <pubDate>Wed, 05 Feb 2025 23:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 如何改变美国枪支文化</title>
+      <link>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</link>
+      <description><![CDATA[被称为 guntubers 的影响者正在深入研究枪支世界，向观众展示从如何射击到如何改装 AR-15 的一切。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</guid>
+      <pubDate>Wed, 05 Feb 2025 23:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>福克斯新闻邀请拉拉·特朗普担任主持人</title>
+      <link>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</link>
+      <description><![CDATA[现任总统的亲属在大型电视新闻频道主持节目尚无先例。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</guid>
+      <pubDate>Wed, 05 Feb 2025 22:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>叛军占领戈马重要城市后，刚果哀悼死难者</title>
+      <link>https://www.nytimes.com/2025/02/05/world/africa/congo-m23-rwanda-goma-burials.html</link>
+      <description><![CDATA[上周，叛军占领了中非这个国家的一个主要城市，造成近 3,000 人死亡，这是几十年来最惨烈的战役之一。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/world/africa/congo-m23-rwanda-goma-burials.html</guid>
+      <pubDate>Wed, 05 Feb 2025 22:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普和内塔尼亚胡之间几乎没有差距</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-netanyahu.html</link>
+      <description><![CDATA[除了令人震惊的加沙提议之外，特朗普总统还向以色列总理本雅明内塔尼亚胡提供了他想要的几乎一切，标志着两国紧密联盟的恢复。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-netanyahu.html</guid>
+      <pubDate>Wed, 05 Feb 2025 21:48:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>奶牛感染第二种禽流感病毒</title>
+      <link>https://www.nytimes.com/2025/02/05/health/bird-flu-cattle-d11.html</link>
+      <description><![CDATA[这种病毒的新版本在野生鸟类中广泛传播，但此前从未在牛身上发现过。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/health/bird-flu-cattle-d11.html</guid>
+      <pubDate>Wed, 05 Feb 2025 21:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 发布了 CBS 对卡马拉·哈里斯的《60 分钟》采访</title>
+      <link>https://www.nytimes.com/2025/02/05/business/media/cbs-60-minutes-harris-interview.html</link>
+      <description><![CDATA[完整的采访是特朗普总统提起的诉讼的核心，采访显示《60分钟》播出了哈里斯女士关于以色列问题的回答的简洁版本。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/business/media/cbs-60-minutes-harris-interview.html</guid>
+      <pubDate>Wed, 05 Feb 2025 21:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲属哀悼黑鹰直升机机组人员，并寻找华盛顿坠机事件的答案</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/black-hawk-helicopter-crew-dc-crash-families.html</link>
+      <description><![CDATA[在波托马克河上空与一架客机相撞的陆军直升机拥有经验丰富的机组人员，他们“无情地工作”。亲朋好友至今仍感到困惑，并为他们的损失感到悲痛。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/black-hawk-helicopter-crew-dc-crash-families.html</guid>
+      <pubDate>Wed, 05 Feb 2025 21:19:26 GMT</pubDate>
+    </item>
     <item>
       <title>众议院议长为特朗普的加沙计划辩护，而其他共和党人则表示怀疑。</title>
       <link>https://www.nytimes.com/live/2025/02/05/world/israel-gaza-netanyahu-trump/house-speaker-defends-trumps-gaza-plan-while-other-republicans-express-doubts</link>
@@ -13,88 +90,11 @@
       <pubDate>Wed, 05 Feb 2025 20:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>支持特朗普的媒体只认为总统会“获胜”</title>
-      <link>https://www.nytimes.com/2025/02/05/technology/trump-media-right-wing.html</link>
-      <description><![CDATA[在众多支持特朗普的人士和媒体中，总统不会犯错。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/technology/trump-media-right-wing.html</guid>
-      <pubDate>Wed, 05 Feb 2025 20:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 发布了 CBS 对卡马拉·哈里斯的《60 分钟》采访</title>
-      <link>https://www.nytimes.com/2025/02/05/business/media/cbs-60-minutes-harris-interview.html</link>
-      <description><![CDATA[完整的采访是特朗普总统提起的诉讼的核心，采访显示《60分钟》播出了哈里斯女士关于以色列问题的回答的简洁版本。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/business/media/cbs-60-minutes-harris-interview.html</guid>
-      <pubDate>Wed, 05 Feb 2025 20:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲属哀悼黑鹰直升机机组人员，并寻找华盛顿坠机事件的答案</title>
-      <link>https://www.nytimes.com/2025/02/05/us/politics/black-hawk-helicopter-crew-dc-crash-families.html</link>
-      <description><![CDATA[在波托马克河上空与一架客机相撞的陆军直升机拥有经验丰富的机组人员，他们“无情地工作”。亲朋好友至今仍感到困惑，并为他们的损失感到悲痛。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/politics/black-hawk-helicopter-crew-dc-crash-families.html</guid>
-      <pubDate>Wed, 05 Feb 2025 20:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官阻止特朗普的出生公民权命令</title>
-      <link>https://www.nytimes.com/2025/02/05/us/trump-birthright-citizenship.html</link>
-      <description><![CDATA[这项源自马里兰州案件的全国性禁令比上个月西雅图一名法官颁发的限制令更具永久性。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/trump-birthright-citizenship.html</guid>
-      <pubDate>Wed, 05 Feb 2025 20:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙的“里维埃拉”和美国国际开发署的袭击体现了特朗普对美国权力的愿景</title>
-      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-usaid-gaza.html</link>
-      <description><![CDATA[特朗普的“美国优先”愿景是一条单行道，筑起高墙阻止移民进入，但要求其他领土屈服于美国的安全考虑或发展要求。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-usaid-gaza.html</guid>
-      <pubDate>Wed, 05 Feb 2025 19:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 如何改变美国枪支文化</title>
-      <link>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</link>
-      <description><![CDATA[被称为 guntubers 的影响者正在深入研究枪支世界，向观众展示从如何射击到如何改装 AR-15 的一切。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</guid>
-      <pubDate>Wed, 05 Feb 2025 19:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>福克斯新闻邀请拉拉·特朗普担任主持人</title>
-      <link>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</link>
-      <description><![CDATA[现任总统的亲属在大型电视新闻频道主持节目尚无先例。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</guid>
-      <pubDate>Wed, 05 Feb 2025 19:10:53 GMT</pubDate>
-    </item>
-    <item>
       <title>瑞典大规模枪击案发生地是多元化社区的基础</title>
       <link>https://www.nytimes.com/2025/02/05/world/europe/sweden-mass-shooting-community.html</link>
       <description><![CDATA[成人教育中心发生枪击案的第二天，一些人聚集在一起献花，谴责暴力行为。]]></description>
       <guid>https://www.nytimes.com/2025/02/05/world/europe/sweden-mass-shooting-community.html</guid>
       <pubDate>Wed, 05 Feb 2025 18:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克为何如此关注财政服务局——“美国的支票簿”</title>
-      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-musk-bureau-fiscal-service.html</link>
-      <description><![CDATA[支出权力、隐私问题和利益冲突使该局处于政治斗争的中心。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-musk-bureau-fiscal-service.html</guid>
-      <pubDate>Wed, 05 Feb 2025 18:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>禽流感蔓延之际，吃鸡蛋是否安全？</title>
-      <link>https://www.nytimes.com/2025/02/05/well/eggs-bird-flu.html</link>
-      <description><![CDATA[以下是专家希望您了解的内容。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/well/eggs-bird-flu.html</guid>
-      <pubDate>Wed, 05 Feb 2025 18:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们对瑞典大规模枪击事件的了解</title>
-      <link>https://www.nytimes.com/2025/02/05/world/europe/sweden-orebro-shooting.html</link>
-      <description><![CDATA[当局称，至少有 11 人被杀，嫌疑人据信也在其中。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/world/europe/sweden-orebro-shooting.html</guid>
-      <pubDate>Wed, 05 Feb 2025 17:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普公然藐视法律，不断升级行政权力争夺</title>
-      <link>https://www.nytimes.com/2025/02/05/us/trump-federal-law-power.html</link>
-      <description><![CDATA[在第二任期开始的几周里，特朗普总统采取了激进的举措，但他似乎并未感到需要尊重法治。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/trump-federal-law-power.html</guid>
-      <pubDate>Wed, 05 Feb 2025 14:17:32 GMT</pubDate>
     </item>
     <item>
       <title>为什么 X 世代的女性拥有最棒的性生活</title>
