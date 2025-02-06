@@ -4,7 +4,21 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 06 Feb 2025 06:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 09:18:01 GMT</lastBuildDate>
+    <item>
+      <title>《连线》日本编辑团队精选了 2025 年 1 月发表的五篇值得关注的文章</title>
+      <link>https://wired.jp/article/editors-5-stories-january-2025/</link>
+      <description><![CDATA[在 1 月份 WIRED.jp 上发表的文章中，我们将介绍引起我们编辑团队关注的五个故事，其中包括一篇关于布莱恩·伊诺 (Brian Eno) 的生成电影“ENO”的文章和对 MIXI 创始人笠原健二 (Kenji Kasahara) 的采访。]]></description>
+      <guid>https://wired.jp/article/editors-5-stories-january-2025/</guid>
+      <pubDate>Thu, 06 Feb 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOGE 工程师被授予美国国家海洋和大气管理局系统的编辑权限</title>
+      <link>https://wired.jp/article/doge-engineer-noaa-data-google-musk-climate-project-2025/</link>
+      <description><![CDATA[据多位消息人士称，埃隆·马斯克的政府效率部 (DOGE) 工作组的工程师已收到指示，要求他们在 2 月 4 日下班前访问美国国家海洋和大气管理局 (NOAA) 的所有谷歌网站。]]></description>
+      <guid>https://wired.jp/article/doge-engineer-noaa-data-google-musk-climate-project-2025/</guid>
+      <pubDate>Thu, 06 Feb 2025 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国对谷歌发起调查以回应特朗普的关税</title>
       <link>https://wired.jp/article/google-china-antitrust-trump-tariffs/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>25 岁的伊隆·马斯克熟人可以访问美国政府支付系统</title>
       <link>https://wired.jp/article/elon-musk-associate-bfs-federal-payment-system/</link>
-      <description><![CDATA[多位消息人士透露，美国财政部金融服务办公室一名与埃隆·马斯克关系密切的 25 岁工程师拥有控制社会保障支付、退税等系统的管理权限。]]></description>
+      <description><![CDATA[多个消息来源证实，美国财政部财政服务部的一名与埃隆·马斯克关系密切的 25 岁工程师拥有对控制社会保障福利和退税等事务的系统的管理权限。]]></description>
       <guid>https://wired.jp/article/elon-musk-associate-bfs-federal-payment-system/</guid>
       <pubDate>Thu, 06 Feb 2025 01:30:00 GMT</pubDate>
     </item>
     <item>
       <title>从 TikTok 限制到 Meta 政策转变：2025 年 1 月阅读量最高的 10 则新闻</title>
       <link>https://wired.jp/article/10-most-read-stories-january-2025/</link>
-      <description><![CDATA[以下是 1 月份 WIRED.jp 上阅读量最高的 10 篇文章，其中包括有关美国言论自由运动和全球最大的消费电子产品贸易展 CES 的文章。]]></description>
+      <description><![CDATA[以下是今年 1 月份在 WIRED.jp 上发表的 10 篇阅读量最高的文章，其中包括有关美国和全球最大消费电子贸易展 CES 上言论自由运动的文章。]]></description>
       <guid>https://wired.jp/article/10-most-read-stories-january-2025/</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>迈向世界首个区块链城市──巴林在中东面临的挑战</title>
       <link>https://wired.jp/article/sz-bahrain-blockchain-city/</link>
-      <description><![CDATA[从管理道路和基础设施到加强医疗保健系统，世界各地的城市都在建设由区块链驱动的智慧城市，包括首尔和莫斯科，以及中东的巴林。这是《连线》杂志中东版的报道。]]></description>
+      <description><![CDATA[从管理道路和基础设施到加强医疗保健服务系统，区块链驱动的智能城市不仅在中东的巴林正在建设，而且在首尔、莫斯科和世界其他地区也在建设。 《连线》中东版报道。]]></description>
       <guid>https://wired.jp/article/sz-bahrain-blockchain-city/</guid>
       <pubDate>Wed, 05 Feb 2025 22:00:00 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 05 Feb 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>缺乏管理经验的年轻工程师将在埃隆·马斯克对美国政府的控制中发挥作用</title>
+      <title>缺乏政府经验的年轻工程师正在帮助埃隆·马斯克控制美国政府</title>
       <link>https://wired.jp/article/elon-musk-government-young-engineers/</link>
       <description><![CDATA[一群年龄在 19 岁至 24 岁之间的工程师在马斯克入主美国联邦政府的过程中发挥着关键作用。虽然他们中的许多人都有在与马斯克相关的公司工作的经验，但他们缺乏法律或行政专业知识，而且人们对他们的安全许可越来越担忧。]]></description>
       <guid>https://wired.jp/article/elon-musk-government-young-engineers/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>该市的无人驾驶机器人出租车跟随 Waymo 走向未来</title>
       <link>https://wired.jp/article/sz-waymo-robotaxi-driverless-future/</link>
-      <description><![CDATA[连续几个小时跟随自动驾驶出租车是一种奇怪的经历。这很有启发性，我有一种羡慕的感觉。尽管如此，一个没有司机的世界即将到来。现在，关上车门并系好安全带。]]></description>
+      <description><![CDATA[跟踪一辆自动驾驶出租车几个小时是一次奇怪的经历。令人振奋、催人奋进。然而，无人驾驶的世界即将到来。现在，关上车门，系好安全带。]]></description>
       <guid>https://wired.jp/article/sz-waymo-robotaxi-driverless-future/</guid>
       <pubDate>Mon, 03 Feb 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 地图比 Google 地图更好的 4 个方面</title>
-      <link>https://wired.jp/article/story/things-apple-maps-does-better-than-google-maps/</link>
-      <description><![CDATA[苹果公司的地图应用程序Maps紧随谷歌的脚步，在过去几年中取得了显着的发展。这就是苹果目前相对于竞争对手的优势所在。]]></description>
-      <guid>https://wired.jp/article/story/things-apple-maps-does-better-than-google-maps/</guid>
-      <pubDate>Mon, 03 Feb 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Android 上的这 3 个内置防盗功能保护你的手机</title>
-      <link>https://wired.jp/article/how-to-use-android-theft-detection-features/</link>
-      <description><![CDATA[Android 现在有三个新的防盗功能。启用此功能后，即使您的手机在解锁的情况下被盗，也可以保护您的个人信息。]]></description>
-      <guid>https://wired.jp/article/how-to-use-android-theft-detection-features/</guid>
-      <pubDate>Mon, 03 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
