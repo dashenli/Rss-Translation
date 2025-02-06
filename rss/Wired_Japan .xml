@@ -4,7 +4,7 @@
     <title>日本连线</title>
     <link>https://wired.jp</link>
     <description>wired.jp 最新消息</description>
-    <lastBuildDate>Thu, 06 Feb 2025 18:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:16:36 GMT</lastBuildDate>
     <item>
       <title>《连线》日本编辑团队精选了 2025 年 1 月发表的五篇值得关注的文章</title>
       <link>https://wired.jp/article/editors-5-stories-january-2025/</link>
@@ -13,9 +13,9 @@
       <pubDate>Thu, 06 Feb 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DOGE 工程师被授予美国国家海洋和大气管理局系统的编辑权限</title>
+      <title>DOGE 工程师获得国家海洋和大气管理局系统的编辑权限</title>
       <link>https://wired.jp/article/doge-engineer-noaa-data-google-musk-climate-project-2025/</link>
-      <description><![CDATA[据多位消息人士称，埃隆·马斯克的政府效率部 (DOGE) 工作组的工程师已收到指示，要求他们在 2 月 4 日下班前访问美国国家海洋和大气管理局 (NOAA) 的所有谷歌网站。]]></description>
+      <description><![CDATA[据多位消息人士称，埃隆·马斯克的政府效率部 (DOGE) 工作组的工程师已收到指示，要求他们在 2 月 4 日工作日结束前访问美国国家海洋和大气管理局 (NOAA) 的所有谷歌网站。]]></description>
       <guid>https://wired.jp/article/doge-engineer-noaa-data-google-musk-climate-project-2025/</guid>
       <pubDate>Thu, 06 Feb 2025 08:30:00 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>迈向世界首个区块链城市──巴林在中东面临的挑战</title>
       <link>https://wired.jp/article/sz-bahrain-blockchain-city/</link>
-      <description><![CDATA[从管理道路和基础设施到加强医疗保健系统，世界各地的城市都在建设由区块链驱动的智慧城市，包括首尔和莫斯科，以及中东的巴林。这是《连线》杂志中东版的报道。]]></description>
+      <description><![CDATA[从管理道路和基础设施到加强医疗保健系统，世界各地的城市都在建设由区块链驱动的智慧城市，其中包括中东的巴林以及首尔和莫斯科。这是《连线》杂志中东版的报道。]]></description>
       <guid>https://wired.jp/article/sz-bahrain-blockchain-city/</guid>
       <pubDate>Wed, 05 Feb 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>伊隆马斯克的助手宣布美国政府机构“人工智能优先”</title>
       <link>https://wired.jp/article/elon-musk-lieutenant-gsa-ai-agency/</link>
-      <description><![CDATA[埃隆·马斯克的亲密助手、前特斯拉开发人员托马斯·谢德被任命为美国政府技术转型服务（TTS）主任。谢德研究所宣布，将根据其“人工智能优先战略”，推动政府运营自动化和联邦数据集中化。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的亲密盟友、前特斯拉开发商托马斯·谢德 (Thomas Shedd) 已被任命为美国政府技术转型服务 (TTS) 总监。根据其“人工智能优先战略”，谢德宣布将促进政府运作的自动化和联邦数据的集中化。]]></description>
       <guid>https://wired.jp/article/elon-musk-lieutenant-gsa-ai-agency/</guid>
       <pubDate>Wed, 05 Feb 2025 09:00:00 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 05 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>模仿昆虫复眼可以使相机更强大</title>
+      <title>模仿昆虫的复眼可以让相机变得更强大。</title>
       <link>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</link>
       <description><![CDATA[韩国研究人员受到夜行昆虫复眼机制的启发，开发出一种即使在弱光环境下也能快速、高灵敏度捕捉拍摄对象的相机。预计该技术将被应用于智能手机、监控摄像头、医疗设备等广泛领域。]]></description>
       <guid>https://wired.jp/article/ultra-high-speed-camera-inspired-by-insect-eyes/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>思科等安全研究结果显示 DeepSeek 的 AI“攻击成功率达 100％”</title>
       <link>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</link>
-      <description><![CDATA[DeepSeek 的 AI 聊天机器人迅速受到关注，但安全研究人员进行的 50 次不同的“越狱”攻击测试显示，其防御系统已被彻底攻破。研究人员对于缺乏安全措施感到震惊。]]></description>
+      <description><![CDATA[DeepSeek的AI聊天机器人正在迅速引起人们的关注，但安全研究人员进行了50种“越狱”攻击测试，已经彻底攻破了其防御系统。研究人员对缺乏安全措施感到震惊。]]></description>
       <guid>https://wired.jp/article/deepseeks-ai-jailbreak-prompt-injection-attacks/</guid>
       <pubDate>Mon, 03 Feb 2025 23:00:00 GMT</pubDate>
     </item>

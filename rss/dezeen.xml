@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>德泽恩</title>
+    <title>西辛</title>
     <link>https://www.dezeen.com</link>
     <description>建筑与设计杂志</description>
-    <lastBuildDate>Thu, 06 Feb 2025 18:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:15:25 GMT</lastBuildDate>
+    <item>
+      <title>SHED 在西雅图打造“锯齿状山峰”木质房屋</title>
+      <link>https://www.dezeen.com/2025/02/06/shed-swiss-inspired-home-seattle/</link>
+      <description><![CDATA[当地工作室SHED 建筑与设计设计在华盛顿州西雅图建造了一座覆盖着垂直木墙板和倾斜屋顶的房屋，让人联想到瑞士山脉的陡峭山峰。阅读更多]]></description>
+      <guid>https://www.dezeen.com/2025/02/06/shed-swiss-inspired-home-seattle/</guid>
+      <pubDate>Thu, 06 Feb 2025 18:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>Robbie Walker 用板条钢覆盖澳大利亚的 Sawmill 树屋</title>
       <link>https://www.dezeen.com/2025/02/06/sawmill-treehouse-robbie-walker-australia/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Dezeen 团队正在瑞典首都现场报道斯德哥尔摩设计周（2 月 3 日至 9 日）。全天更新产品、装置和活动的独家预览。 阅读更多]]></description>
       <guid>https://www.dezeen.com/2025/02/06/stockholm-design-week-2025-dezeen-live/</guid>
       <pubDate>Thu, 06 Feb 2025 09:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年斯德哥尔摩设计周周三</title>
-      <link>https://www.dezeen.com/2025/02/06/wednesday-from-stockholm-design-week-2025-dezeen-live/</link>
-      <description><![CDATA[Dezeen 团队正在现场报道 斯德哥尔摩设计周在瑞典首都举行，水磨石啤酒龙头、对话坑和扭曲的铝是 2 月 5 日的亮点。阅读更多]]></description>
-      <guid>https://www.dezeen.com/2025/02/06/wednesday-from-stockholm-design-week-2025-dezeen-live/</guid>
-      <pubDate>Thu, 06 Feb 2025 08:30:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
