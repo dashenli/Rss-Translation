@@ -4,7 +4,14 @@
     <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
     <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Thu, 06 Feb 2025 01:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 12:33:15 GMT</lastBuildDate>
+    <item>
+      <title>在 p5.js 中构建有趣的定格蜡笔光标</title>
+      <link>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</link>
+      <description><![CDATA[使用 p5.brush.js 和流畅的动画创建有趣的定格蜡笔光标效果。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</guid>
+      <pubDate>Thu, 06 Feb 2025 10:35:49 GMT</pubDate>
+    </item>
     <item>
       <title>Players Club：用于展示音乐艺术家的免费 Astro 模板</title>
       <link>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>开发者聚焦：Quentin Hocdé</title>
       <link>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</link>
-      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验变为现实的热情。]]></description>
+      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验带入生活的热情。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</guid>
       <pubDate>Fri, 31 Jan 2025 12:45:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索 EZ-Tree 使用程序生成和 Three.js 创建逼真的 3D 树模型背后的算法。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/27/fractals-to-forests-creating-realistic-3d-trees-with-three-js/</guid>
       <pubDate>Mon, 27 Jan 2025 11:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者聚焦：Mario Sanchez Maselli</title>
-      <link>https://tympanus.net/codrops/2025/01/24/developer-spotlight-mario-sanchez-maselli/</link>
-      <description><![CDATA[认识一下开发者兼 Non-Linear Studio 联合创始人 Mario。专注于交互式设计、动画、3D、WebGL 和创意开发。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/24/developer-spotlight-mario-sanchez-maselli/</guid>
-      <pubDate>Fri, 24 Jan 2025 12:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
