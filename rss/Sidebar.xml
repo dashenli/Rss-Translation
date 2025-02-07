@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 07 Feb 2025 09:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 12:33:14 GMT</lastBuildDate>
+    <item>
+      <title>扩展光标</title>
+      <link>https://www.imkylelambert.com/articles/extending-the-cursor</link>
+      <description><![CDATA[光标已从简单的指向设备转换为一个强大的工具，用于增强用户交互并提供上下文反馈。
+ ]]></description>
+      <guid>https://www.imkylelambert.com/articles/extending-the-cursor</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：向量字段</title>
+      <link>https://www.figma.com/community/plugin/1392692375323556258/vector-fields</link>
+      <description><![CDATA[一种生成工具，可帮助您播放，修补和黑客插入形状制成的图案。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1392692375323556258/vector-fields</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯坦尼斯拉夫·彼得罗夫（Stanislav Petrov）</title>
+      <link>https://ericwbailey.website/published/stanislav-petrov/</link>
+      <description><![CDATA[我们不再生活在技术的纯粹确定性世界中。
+ ]]></description>
+      <guid>https://ericwbailey.website/published/stanislav-petrov/</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MONST3R项目</title>
+      <link>https://monst3r-project.github.io/</link>
+      <description><![CDATA[一种简单的方法，用于在运动构成中进行几何形状。
+ ]]></description>
+      <guid>https://monst3r-project.github.io/</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>删除箭头图标上的“方向”属性</title>
+      <link>https://www.alicepackarddesign.com/blog/remove-direction-property-arrow-icons</link>
+      <description><![CDATA[ 3个理由为什么“方向”属性是一个坏主意（不仅是箭头，还有其他图标）。
+ ]]></description>
+      <guid>https://www.alicepackarddesign.com/blog/remove-direction-property-arrow-icons</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>呼唤房间动态的艺术</title>
       <link>https://leadership.garden/calling-out-room-dynamics/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://blog.luap.info/the-reality-of-dating-apps.html</guid>
       <pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据VIZ项目</title>
-      <link>https://datavizproject.com/</link>
-      <description><![CDATA[包含160多种不同类型的数据可视化的集合，以及定义，分类法和示例。
- ]]></description>
-      <guid>https://datavizproject.com/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>朋友</title>
-      <link>https://www.superrandom.studio/venngenn</link>
-      <description><![CDATA[生成的AI在非常独特的界面中符合Venn图。
- ]]></description>
-      <guid>https://www.superrandom.studio/venngenn</guid>
-      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写一个好的设计文档</title>
-      <link>https://grantslatton.com/how-to-design-document</link>
-      <description><![CDATA[设计文档是一份技术报告，概述了在权衡和约束背景下系统的实施策略。
- ]]></description>
-      <guid>https://grantslatton.com/how-to-design-document</guid>
-      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>3Goals. -today</title>
-      <link>https://www.3goals.today/</link>
-      <description><![CDATA[一个超级极简的生产力应用程序，可以帮助您赢得一天的胜利：一项高影响力的任务，一项拖延任务和一项快速成就。 
- ]]></description>
-      <guid>https://www.3goals.today/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字剧本：设计系统的关键对应物</title>
-      <link>https://www.smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</link>
-      <description><![CDATA[设计系统在当今的数字景观中起着至关重要的作用。但是还有另一个值得关注的工具：数字剧本。
- ]]></description>
-      <guid>https://www.smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
