@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description></description>
-    <lastBuildDate>Fri, 07 Feb 2025 06:21:31 GMT</lastBuildDate>
+    <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
+    <lastBuildDate>Fri, 07 Feb 2025 09:16:09 GMT</lastBuildDate>
+    <item>
+      <title>这是物理学可以使大量人群更安全的方式</title>
+      <link>https://www.npr.org/2025/02/07/1229744832/crowds-physics-scientists-festivals</link>
+      <description><![CDATA[大量的人和水有什么共同点？它们的作用都像液体。当人群欢呼，摇摆和团结在一起时，动作看起来像是水的涟漪。研究人员希望从这样的物理学获得的见解可以帮助官员和工程师在节日中创造更安全的人群。  帮助塑造&lt; /strong&gt;    短波&lt; /strong的未来&gt;  通过进行我们的调查：npr.org/&lt; em&gt;  听短波赞助商的每一集，并通过注册短波+ at    plus.npr.org/shortwave   。]]></description>
+      <guid>https://www.npr.org/2025/02/07/1229744832/crowds-physics-scientists-festivals</guid>
+      <pubDate>Fri, 07 Feb 2025 08:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>卢旺达支持的叛军告诉被捕的刚果城市的居民他们很安全</title>
+      <link>https://www.npr.org/2025/02/07/nx-s1-5289838/congo-goma-rwanda-rebels</link>
+      <description><![CDATA[尽管他们宣布了停火，但叛军仍在刚果东部的进步。联合国秘书长要求他们放下枪支并同意调解。]]></description>
+      <guid>https://www.npr.org/2025/02/07/nx-s1-5289838/congo-goma-rwanda-rebels</guid>
+      <pubDate>Fri, 07 Feb 2025 06:49:50 GMT</pubDate>
+    </item>
     <item>
       <title>阿拉巴马州使用氮气将人置于美国的第四次执行</title>
       <link>https://www.npr.org/2025/02/07/nx-s1-5289837/alabama-execution-nitrogen</link>
@@ -13,67 +27,53 @@
       <pubDate>Fri, 07 Feb 2025 06:08:50 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>NCAA酒吧在特朗普命令后，来自女子运动的跨性别运动员</title>
       <link>https://www.npr.org/2025/02/07/g-s1-46938/ncaa-transgender-athletes-ban-trump</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[此举是在唐纳德·特朗普（Donald Trump）总统签署了一项行政命令之后的一天，旨在禁止跨性别运动员参加女孩和女子运动。]]></description>
       <guid>https://www.npr.org/2025/02/07/g-s1-46938/ncaa-transgender-athletes-ban-trump</guid>
       <pubDate>Fri, 07 Feb 2025 05:35:28 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>在环境正义上工作的EPA员工休假</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289331/epa-employees-who-work-on-environmental-justice-are-put-on-leave</link>
       <description><![CDATA[在NPR收到的一封电子邮件中，EPA的环境正义办公室和外部民权办公室的员工被告知他们正在行政假，立即生效。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5289331/epa-employees-who-work-on-environmental-justice-are-put-on-leave</guid>
       <pubDate>Fri, 07 Feb 2025 04:32:17 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>参议院民主党人呼吁有关健康传播的答案冻结和资金延迟</title>
       <link>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5289342/cdc-health-funding-communication-freeze-trump</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[来自不同参议员团体的两封信呼吁特朗普政府关于科学沟通和资金中的暂停。]]></description>
       <guid>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5289342/cdc-health-funding-communication-freeze-trump</guid>
       <pubDate>Fri, 07 Feb 2025 02:47:08 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>埃隆·马斯克（Elon Musk）的总督团队成员辞职后，种族主义职位重新浮出水面</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Marko Elez最近被联邦法官特别访问了财政部高度敏感的支付系统。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</guid>
       <pubDate>Fri, 07 Feb 2025 00:15:14 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>NASA指示员工从所有工作沟通中删除代词</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289319/nasa-instructs-employees-to-remove-pronouns-from-all-work-communications</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[NPR看到的一封电子邮件说，此举是遵守总统命令向政府“恢复生物真相”。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5289319/nasa-instructs-employees-to-remove-pronouns-from-all-work-communications</guid>
       <pubDate>Thu, 06 Feb 2025 22:34:53 GMT</pubDate>
     </item>
     <item>
       <title>英国外交部猫帕默斯顿出现在百慕大</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[这位前救援猫科动物于2016年加入了英国外交部，并在网上获得了大量关注，以履行他的魅力。他于2020年退休，但现在又回来了。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</guid>
       <pubDate>Thu, 06 Feb 2025 22:32:32 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>USAID工会起诉特朗普政府停止“违宪和非法”削减</title>
       <link>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在国务卿马可·卢比奥（Marco Rubio）批准了少于300名重要人员以继续从事工作的工作，代表美国国际开发署工人的工会起诉特朗普政府对该机构的削减。]]></description>
       <guid>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</guid>
       <pubDate>Thu, 06 Feb 2025 22:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</link>
-      <description><![CDATA[法官下令将极端主义组织的命名权授予华盛顿特区的大都会非洲卫理公会教堂的骄傲男孩。]]></description>
-      <guid>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</guid>
-      <pubDate>Thu, 06 Feb 2025 22:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.npr.org/2025/02/06/g-s1-46868/microsoft-bill-gates-trump-musk</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.npr.org/2025/02/06/g-s1-46868/microsoft-bill-gates-trump-musk</guid>
-      <pubDate>Thu, 06 Feb 2025 21:23:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
