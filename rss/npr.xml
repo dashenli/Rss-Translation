@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>NPR 主题：新闻</title>
+    <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Thu, 06 Feb 2025 21:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:10:12 GMT</lastBuildDate>
+    <item>
+      <title>伊隆马斯克的 DOGE 团队成员因种族主义帖子再次出现而辞职</title>
+      <link>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</link>
+      <description><![CDATA[一名联邦法官最近授予马尔科·埃莱兹（Marko Elez）特别权限，可以访问财政部高度敏感的支付系统。]]></description>
+      <guid>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</guid>
+      <pubDate>Fri, 07 Feb 2025 00:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局指示员工从所有工作交流中删除代词</title>
+      <link>https://www.npr.org/2025/02/06/nx-s1-5289319/nasa-instructs-employees-to-remove-pronouns-from-all-work-communications</link>
+      <description><![CDATA[NPR 看到的一封电子邮件称，此举是为了遵守总统的命令，向政府“恢复生物学真相”。]]></description>
+      <guid>https://www.npr.org/2025/02/06/nx-s1-5289319/nasa-instructs-employees-to-remove-pronouns-from-all-work-communications</guid>
+      <pubDate>Thu, 06 Feb 2025 22:34:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国外交部猫帕默斯顿抵达百慕大履行职责</title>
+      <link>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</link>
+      <description><![CDATA[这位前救援猫科动物于2016年加入了英国外交部，并在网上获得了大量关注，以履行他的魅力。他于2020年退休，但现在又回来了。]]></description>
+      <guid>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</guid>
+      <pubDate>Thu, 06 Feb 2025 22:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国国际开发署大幅削减预算，官员们表示，这些改革“令人震惊且不负责任”</title>
+      <link>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</link>
+      <description><![CDATA[国务卿马可·卢比奥（Marco Rubio）批准了美国国际开发署（USAID）在美国的工作人员少于300名重要人员，海外急于在周五午夜之前迅速封闭任务并离开工作。]]></description>
+      <guid>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</guid>
+      <pubDate>Thu, 06 Feb 2025 22:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>历史悠久的黑人教堂被授予“骄傲男孩”商标，呼吁反对仇恨</title>
+      <link>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</link>
+      <description><![CDATA[一名法官下令将极端组织“骄傲男孩”的冠名权授予华盛顿特区的大都会非洲卫理公会教堂。]]></description>
+      <guid>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</guid>
+      <pubDate>Thu, 06 Feb 2025 22:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>比尔·盖茨对全球未来持乐观态度</title>
+      <link>https://www.npr.org/2025/02/06/g-s1-46868/microsoft-bill-gates-trump-musk</link>
+      <description><![CDATA[在接受 NPR 的一次内容广泛的采访时，微软联合创始人比尔·盖茨对新政府最近在公共卫生问题上采取的退缩措施表示担忧，但他表示对未来持乐观态度，并希望与白宫找到共同点。]]></description>
+      <guid>https://www.npr.org/2025/02/06/g-s1-46868/microsoft-bill-gates-trump-musk</guid>
+      <pubDate>Thu, 06 Feb 2025 21:23:55 GMT</pubDate>
+    </item>
     <item>
       <title>意大利政界人士指控小唐纳德·特朗普的狩猎队杀死了一只受保护的鸭子</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289000/donald-trump-jr-italy-duck-hunting</link>
@@ -22,58 +64,16 @@
     <item>
       <title>超级碗复仇之战播放列表：费城队压倒一切</title>
       <link>https://www.npr.org/sections/world-cafe/2025/02/06/g-s1-46813/revenge-of-the-super-bowl-playlists-philly-over-everybody</link>
-      <description><![CDATA[本周日，费城老鹰队和堪萨斯城酋长队将再次在冠军赛舞台上展开对决。听听这首以费城为中心的音乐组合，为比赛做好准备。]]></description>
+      <description><![CDATA[这个星期天，费城老鹰队和堪萨斯城酋长再次在冠军舞台上头对头。通过这种以费城为中心的音乐组合为游戏做好准备。]]></description>
       <guid>https://www.npr.org/sections/world-cafe/2025/02/06/g-s1-46813/revenge-of-the-super-bowl-playlists-philly-over-everybody</guid>
       <pubDate>Thu, 06 Feb 2025 18:42:57 GMT</pubDate>
     </item>
     <item>
-      <title>当今当地的历史创造者：我们想听听谁在你身边创造黑人历史</title>
+      <title>今天的当地历史制造商：我们想听听谁在您附近创造黑人历史</title>
       <link>https://www.npr.org/2025/02/06/g-s1-46798/local-black-history-month-changemakers</link>
       <description><![CDATA[这是黑人历史月，Up First 时事通讯想要突出介绍当地的历史创造者。您是否认识任何在本月做出过贡献并值得庆祝的人？如果有，我们希望听到您的声音。]]></description>
       <guid>https://www.npr.org/2025/02/06/g-s1-46798/local-black-history-month-changemakers</guid>
       <pubDate>Thu, 06 Feb 2025 18:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>CISA 员工提出延期辞职，加剧了更广泛的网络安全担忧</title>
-      <link>https://www.npr.org/2025/02/06/nx-s1-5288883/cisa-staffers-deferred-resignations-doge</link>
-      <description><![CDATA[这家重要网络安全机构的工作人员最初被排除在政府辞职行动之外，但周三他们收到了延期辞职通知，只有几个小时的时间来决定。]]></description>
-      <guid>https://www.npr.org/2025/02/06/nx-s1-5288883/cisa-staffers-deferred-resignations-doge</guid>
-      <pubDate>Thu, 06 Feb 2025 17:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部就“庇护”法起诉芝加哥和伊利诺伊州</title>
-      <link>https://www.npr.org/2025/02/06/nx-s1-5288871/justice-department-sues-chicago-and-illinois-over-sanctuary-laws</link>
-      <description><![CDATA[联邦诉讼指控这些司法管辖区“故意阻碍联邦移民官员履行职责，使其变得更加困难”。]]></description>
-      <guid>https://www.npr.org/2025/02/06/nx-s1-5288871/justice-department-sues-chicago-and-illinois-over-sanctuary-laws</guid>
-      <pubDate>Thu, 06 Feb 2025 16:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的反跨性别努力是历史上有反响的议程基石</title>
-      <link>https://www.npr.org/2025/02/06/nx-s1-5288145/trump-anti-trans-executive-order</link>
-      <description><![CDATA[极端主义专家表示，在备受瞩目的悲剧发生后，将跨性别者当作替罪羊这种如今已为人熟知的伎俩，是制造分裂、扩大独裁控制的政治策略的一部分。]]></description>
-      <guid>https://www.npr.org/2025/02/06/nx-s1-5288145/trump-anti-trans-executive-order</guid>
-      <pubDate>Thu, 06 Feb 2025 15:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普呼吁美国“接管”加沙，引发迪尔伯恩民众的愤怒和沮丧</title>
-      <link>https://www.npr.org/2025/02/06/g-s1-46699/trump-gaza-comments-dearborn-michigan</link>
-      <description><![CDATA[由于人们对拜登政府对加沙战争的处理方式普遍感到愤怒，特朗普总统在 2024 年大选中赢得了阿拉伯裔美国人占多数的城市。]]></description>
-      <guid>https://www.npr.org/2025/02/06/g-s1-46699/trump-gaza-comments-dearborn-michigan</guid>
-      <pubDate>Thu, 06 Feb 2025 14:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据清除后，部分联邦健康网站恢复，其他网站仍处于瘫痪状态</title>
-      <link>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5288113/cdc-website-health-data-trump</link>
-      <description><![CDATA[虽然部分信息已恢复，但科学家仍对数据被删除感到担忧。尚不清楚到底发生了什么变化，部分页面仍处于离线状态。]]></description>
-      <guid>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5288113/cdc-website-health-data-trump</guid>
-      <pubDate>Thu, 06 Feb 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>脊髓刺激可恢复因罕见遗传疾病而萎缩的肌肉</title>
-      <link>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5286644/spinal-stimulation-restored-muscles-wasted-by-rare-genetic-disorder</link>
-      <description><![CDATA[三名脊髓性肌萎缩症患者经过一个月的每日脊柱刺激后，肌肉力量得到改善，并且能够走得更远。]]></description>
-      <guid>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5286644/spinal-stimulation-restored-muscles-wasted-by-rare-genetic-disorder</guid>
-      <pubDate>Thu, 06 Feb 2025 12:55:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
