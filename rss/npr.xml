@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>NPR主题：新闻</title>
+    <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Fri, 07 Feb 2025 01:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 03:19:53 GMT</lastBuildDate>
     <item>
-      <title>伊隆马斯克的 DOGE 团队成员因种族主义帖子再次出现而辞职</title>
+      <title>参议院民主党人呼吁就医疗通讯冻结和资金延迟问题作出解释</title>
+      <link>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5289342/cdc-health-funding-communication-freeze-trump</link>
+      <description><![CDATA[来自不同参议员团体的两封信呼吁特朗普政府关于科学沟通和资金中的暂停。]]></description>
+      <guid>https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5289342/cdc-health-funding-communication-freeze-trump</guid>
+      <pubDate>Fri, 07 Feb 2025 02:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克（Elon Musk）的总督团队成员辞职后，种族主义职位重新浮出水面</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</link>
-      <description><![CDATA[一名联邦法官最近授予马尔科·埃莱兹（Marko Elez）特别权限，可以访问财政部高度敏感的支付系统。]]></description>
+      <description><![CDATA[Marko Elez最近被联邦法官特别访问了财政部高度敏感的支付系统。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury</guid>
       <pubDate>Fri, 07 Feb 2025 00:15:14 GMT</pubDate>
     </item>
@@ -20,23 +27,23 @@
       <pubDate>Thu, 06 Feb 2025 22:34:53 GMT</pubDate>
     </item>
     <item>
-      <title>英国外交部猫帕默斯顿抵达百慕大履行职责</title>
+      <title>英国外交部猫帕默斯顿出现在百慕大</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</link>
-      <description><![CDATA[这位前救援猫科动物于2016年加入了英国外交部，并在网上获得了大量关注，以履行他的魅力。他于2020年退休，但现在又回来了。]]></description>
+      <description><![CDATA[这只前救援猫于 2016 年加入英国外交部门，并因其以超凡魅力履行职责而在网上赢得了大批粉丝。他于 2020 年退休，但现在又重返岗位。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5288876/uk-foreign-office-cat-palmerston-bermuda</guid>
       <pubDate>Thu, 06 Feb 2025 22:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国国际开发署大幅削减预算，官员们表示，这些改革“令人震惊且不负责任”</title>
+      <title>美国国际开发署工会起诉特朗普政府，要求停止“违宪和非法”的削减</title>
       <link>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</link>
-      <description><![CDATA[国务卿马可·卢比奥（Marco Rubio）批准了美国国际开发署（USAID）在美国的工作人员少于300名重要人员，海外急于在周五午夜之前迅速封闭任务并离开工作。]]></description>
+      <description><![CDATA[在美国国务卿马尔科·卢比奥于上周五批准不到 300 名必要人员继续工作后，代表美国国际开发署工作人员的工会就削减该机构的经费一事对特朗普政府提起了诉讼。]]></description>
       <guid>https://www.npr.org/2025/02/06/g-s1-46885/usaid-cuts-state-department-trump-rubio</guid>
       <pubDate>Thu, 06 Feb 2025 22:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>历史悠久的黑人教堂被授予“骄傲男孩”商标，呼吁反对仇恨</title>
+      <title>历史悠久的黑人教堂鉴于“骄傲的男孩”商标要求反对仇恨</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</link>
-      <description><![CDATA[一名法官下令将极端组织“骄傲男孩”的冠名权授予华盛顿特区的大都会非洲卫理公会教堂。]]></description>
+      <description><![CDATA[法官下令将极端主义组织的命名权授予华盛顿特区的大都会非洲卫理公会教堂的骄傲男孩。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5287867/historic-black-church-trademark-proud-boys</guid>
       <pubDate>Thu, 06 Feb 2025 22:10:08 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Thu, 06 Feb 2025 21:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>意大利政界人士指控小唐纳德·特朗普的狩猎队杀死了一只受保护的鸭子</title>
+      <title>意大利政客指控小唐纳德·特朗普（Donald Trump Jr.）的狩猎党杀死了一只受保护的鸭子</title>
       <link>https://www.npr.org/2025/02/06/nx-s1-5289000/donald-trump-jr-italy-duck-hunting</link>
-      <description><![CDATA[意大利政界人士要求对包括总统儿子在内的狩猎团采取行动，他们指控总统儿子涉嫌杀死一只赤麻鸭。一家意大利报纸称之为“唐老鸭危机”。]]></description>
+      <description><![CDATA[意大利政客希望对包括总统儿子在内的一个狩猎党采取行动，他们指责据称杀死了一个红润的谢尔德克。一张意大利纸称其为“唐纳德鸭危机”。]]></description>
       <guid>https://www.npr.org/2025/02/06/nx-s1-5289000/donald-trump-jr-italy-duck-hunting</guid>
       <pubDate>Thu, 06 Feb 2025 20:49:04 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>超级碗复仇之战播放列表：费城队压倒一切</title>
       <link>https://www.npr.org/sections/world-cafe/2025/02/06/g-s1-46813/revenge-of-the-super-bowl-playlists-philly-over-everybody</link>
-      <description><![CDATA[这个星期天，费城老鹰队和堪萨斯城酋长再次在冠军舞台上头对头。通过这种以费城为中心的音乐组合为游戏做好准备。]]></description>
+      <description><![CDATA[本周日，费城老鹰队和堪萨斯城酋长队将再次在冠军赛舞台上展开对决。听听这首以费城为中心的音乐组合，为比赛做好准备。]]></description>
       <guid>https://www.npr.org/sections/world-cafe/2025/02/06/g-s1-46813/revenge-of-the-super-bowl-playlists-philly-over-everybody</guid>
       <pubDate>Thu, 06 Feb 2025 18:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天的当地历史制造商：我们想听听谁在您附近创造黑人历史</title>
-      <link>https://www.npr.org/2025/02/06/g-s1-46798/local-black-history-month-changemakers</link>
-      <description><![CDATA[这是黑人历史月，Up First 时事通讯想要突出介绍当地的历史创造者。您是否认识任何在本月做出过贡献并值得庆祝的人？如果有，我们希望听到您的声音。]]></description>
-      <guid>https://www.npr.org/2025/02/06/g-s1-46798/local-black-history-month-changemakers</guid>
-      <pubDate>Thu, 06 Feb 2025 18:05:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
