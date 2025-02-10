@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 10 Feb 2025 01:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 03:22:31 GMT</lastBuildDate>
+    <item>
+      <title>是月亮还是火星？ 在回家的路上，美国太空发展</title>
+      <link>https://wired.jp/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/</link>
+      <description><![CDATA[继续Artemis项目并使用Gateway，一个载人的Lunar Hub作为继电器，是到达火星的有效方法。但是，它可能不适合埃隆·马斯克（Elon Musk）的方向，因为它需要一些时间才能达到它。由诺丁汉特伦特大学（Nottingham Trent University）的天体物理学高级讲师的研究人员贡献。]]></description>
+      <guid>https://wired.jp/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/</guid>
+      <pubDate>Mon, 10 Feb 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一个舒适而温暖的幻想，称为“舒适技术”</title>
       <link>https://wired.jp/article/sz-the-fantasy-of-cozy-tech/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[消息人士称，通过于2月4日结束，埃隆·马斯克（Elon Musk）的任务组工程师将获得所有美国海洋和大气管理局（NOAA）的访问。]]></description>
       <guid>https://wired.jp/article/doge-engineer-noaa-data-google-musk-climate-project-2025/</guid>
       <pubDate>Thu, 06 Feb 2025 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国推出Google调查以打击其他特朗普的关税</title>
-      <link>https://wired.jp/article/google-china-antitrust-trump-tariffs/</link>
-      <description><![CDATA[在美国对中国征收额外的关税后，中国宣布将研究Google涉嫌违反反托拉斯法律。如果特朗普政府宣布进一步关税和其他贸易措施，中国还可以加强其反措施。]]></description>
-      <guid>https://wired.jp/article/google-china-antitrust-trump-tariffs/</guid>
-      <pubDate>Thu, 06 Feb 2025 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
