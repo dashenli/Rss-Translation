@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 10 Feb 2025 01:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 18:24:50 GMT</lastBuildDate>
+    <item>
+      <title>在浏览器中创建我的第一个游戏原型：到目前为止的旅程</title>
+      <link>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</link>
+      <description><![CDATA[内部查看从头开始构建3D游戏原型背后的创作过程，挑战和工具。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</guid>
+      <pubDate>Mon, 10 Feb 2025 14:10:43 GMT</pubDate>
+    </item>
     <item>
       <title>开发人员聚光灯：Guillaume Lanier</title>
       <link>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[经过多年的实验和创新的反思旅程，展示了WebGPU如何实现复杂的，视觉上引人注目的流体模拟。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/</guid>
       <pubDate>Wed, 29 Jan 2025 13:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>10多个2025的最佳网页设计工具和资源（免费和付费）</title>
-      <link>https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/</link>
-      <description><![CDATA[发现2025年的顶级网络设计工具和资源，该工具和资源量身定制，可轻松创建创新，安全和视觉令人惊叹的网站。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
