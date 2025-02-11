@@ -4,7 +4,7 @@
     <title>NPR 主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR 新闻、音频和播客。报道突发新闻、国内和国际新闻、政治、商业、科学、技术，以及国内和国际重大事件的延伸报道。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 12:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 15:17:35 GMT</lastBuildDate>
     <item>
       <title>约翰·博尔顿谈向格陵兰岛扩张</title>
       <link>https://www.npr.org/2025/02/11/g-s1-48112/john-bolton-greenland-national-security</link>
@@ -55,13 +55,6 @@
       <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>随着麻疹病例的增加，一本新书警告父母不要低估这种疾病</title>
-      <link>https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease</link>
-      <description><![CDATA[随着美国儿童疫苗接种率下降，麻疹疫情不断增加。亚当·拉特纳博士在其新书《加强针》中指出，这对公共卫生来说是一个坏兆头。]]></description>
-      <guid>https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease</guid>
-      <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么清理洛杉矶周围的灌木丛并不能降低野火危险</title>
       <link>https://www.npr.org/2025/02/11/nx-s1-5270034/los-angeles-fires-risk-brush-chaparral-trump</link>
       <description><![CDATA[数千所房屋被毁后，许多人都在想办法让洛杉矶免受野火侵袭。但清除山坡上茂密的灌木丛实际上可能会加剧火灾危险。]]></description>
@@ -73,6 +66,13 @@
       <link>https://www.npr.org/2025/02/11/nx-s1-5291451/us-reading-math-scores-solutions</link>
       <description><![CDATA[新的研究深入分析了成绩较差的学生，并指出一些学区正在克服困难。]]></description>
       <guid>https://www.npr.org/2025/02/11/nx-s1-5291451/us-reading-math-scores-solutions</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着麻疹病例的增加，一本新书警告父母不要低估这种疾病</title>
+      <link>https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease</link>
+      <description><![CDATA[随着美国儿童疫苗接种率下降，麻疹疫情不断增加。亚当·拉特纳博士在其新书《加强针》中指出，这对公共卫生来说是一个坏兆头。]]></description>
+      <guid>https://www.npr.org/sections/shots-health-news/2025/02/11/nx-s1-5292478/measles-vaccination-kids-health-disease</guid>
       <pubDate>Tue, 11 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>

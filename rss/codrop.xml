@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>CODROPS</title>
+    <title>科多普</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 11 Feb 2025 01:13:29 GMT</lastBuildDate>
+    <description>自 2009 年以来，一直致力于推动网络创意</description>
+    <lastBuildDate>Tue, 11 Feb 2025 15:20:40 GMT</lastBuildDate>
     <item>
-      <title>在浏览器中创建我的第一个游戏原型：到目前为止的旅程</title>
+      <title>构建高效的 Three.js 场景：优化性能的同时保持质量</title>
+      <link>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</link>
+      <description><![CDATA[全面了解如何使用 Fiber、Drei 和高级工具优化 Three.js 场景，确保流畅的性能同时保留高质量的视觉效果。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在浏览器中创建我的第一个游戏原型：迄今为止的旅程</title>
       <link>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</link>
-      <description><![CDATA[内部查看从头开始构建3D游戏原型背后的创作过程，挑战和工具。]]></description>
+      <description><![CDATA[深入了解从头开始构建 3D 游戏原型背后的创作过程、挑战和工具。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</guid>
       <pubDate>Mon, 10 Feb 2025 14:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员聚光灯：Guillaume Lanier</title>
+      <title>开发者聚焦：Guillaume Lanier</title>
       <link>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</link>
-      <description><![CDATA[介绍Guillaume Lanier，创意＆＃038;位于阿姆斯特丹的Frontend开发人员，通过创新的2D/3D图形和交互式设计来制作沉浸式数字体验。]]></description>
+      <description><![CDATA[介绍位于阿姆斯特丹的创意和前端开发人员 Guillaume Lanier，他通过创新的 2D/3D 图形和交互式设计创造身临其境的数字体验。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</guid>
       <pubDate>Fri, 07 Feb 2025 12:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>在P5.JS中构建俏皮的定格蜡笔光标</title>
+      <title>在 p5.js 中构建有趣的定格蜡笔光标</title>
       <link>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</link>
-      <description><![CDATA[使用p5.brush.js和流畅的动画创建一个有趣的定格蜡笔光标效果。]]></description>
+      <description><![CDATA[使用 p5.brush.js 和流畅的动画创建有趣的定格蜡笔光标效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</guid>
       <pubDate>Thu, 06 Feb 2025 10:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>玩家俱乐部：展示音乐艺术家的免费Astro模板</title>
+      <title>Players Club：用于展示音乐艺术家的免费 Astro 模板</title>
       <link>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</link>
-      <description><![CDATA[玩家俱乐部是展示音乐艺术家的免费Astro模板，这是与Alex Tkachev合作建立的概念证明。]]></description>
+      <description><![CDATA[Players Club 是一个免费的 Astro 模板，用于展示音乐艺术家——与 Alex Tkachev 合作构建的实验性概念证明。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</guid>
       <pubDate>Wed, 05 Feb 2025 13:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何用三分制作最蓬松的草</title>
+      <title>如何用 Three.js 制作蓬松的草地</title>
       <link>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</link>
-      <description><![CDATA[最佳技术的细分，可以在三分中创建逼真的草，而不会杀死性能。]]></description>
+      <description><![CDATA[详细介绍在 Three.js 中创建逼真的草地且不影响性能的最佳技术。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</guid>
       <pubDate>Tue, 04 Feb 2025 12:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>用三个。</title>
+      <title>使用 Three.js 和着色器构建滚动 3D 圆形文本动画</title>
       <link>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</link>
-      <description><![CDATA[了解如何使用Thriph.js，着色器和MSDF-Text-Utils在3D空间中创建圆形文本动画。]]></description>
+      <description><![CDATA[了解如何使用 Three.js、着色器和 msdf-text-utils 在 3D 空间中创建圆形文本动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</guid>
       <pubDate>Mon, 03 Feb 2025 13:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>NIM：一个采用运动基础化的个人网站模板</title>
+      <title>Nim：使用 Motion-Primitives 构建的个人网站模板</title>
       <link>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</link>
-      <description><![CDATA[NIM是由Next.JS 15，React 19，Tailwind CSS V4和运动主导物质的免费开源个人网站模板，具有微妙的，预先构建的动画。]]></description>
+      <description><![CDATA[Nim 是一个免费的开源个人网站模板，使用 Next.js 15、React 19、Tailwind CSS v4 和 Motion-Primitives 构建，具有精细的预建动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</guid>
       <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员聚光灯：QuentinHocdé</title>
+      <title>开发者聚焦：Quentin Hocdé</title>
       <link>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</link>
-      <description><![CDATA[在这个聚光灯下，昆汀·霍克德（QuentinHocdé）分享了他对创意编码，动画和将互动体验栩栩如生的热情。]]></description>
+      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验变为现实的热情。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</guid>
       <pubDate>Fri, 31 Jan 2025 12:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>案例研究：Gianluca Gradogna  - 投资组合’25</title>
+      <title>案例研究：Gianluca Gradogna — Portfolio ’25</title>
       <link>https://tympanus.net/codrops/2025/01/30/case-study-gianluca-gradogna-portfolio-25/</link>
-      <description><![CDATA[该案例研究揭示了创建个人投资组合的旅程，强调了Gianluca Gradogna和Gabriel Norman之间的创造性合作，以使该项目栩栩如生。]]></description>
+      <description><![CDATA[本案例研究揭示了创建个人作品集的历程，强调了 Gianluca Gradogna 和 Gabriel Norman 之间的创造性合作，使项目得以实现。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/30/case-study-gianluca-gradogna-portfolio-25/</guid>
       <pubDate>Thu, 30 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>粒子，进度和毅力：进入WebGPU流体的旅程</title>
-      <link>https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/</link>
-      <description><![CDATA[经过多年的实验和创新的反思旅程，展示了WebGPU如何实现复杂的，视觉上引人注目的流体模拟。]]></description>
-      <guid>https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:22:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
