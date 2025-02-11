@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>envato tuts+教程</title>
+    <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 09:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:21:35 GMT</lastBuildDate>
+    <item>
+      <title>使用 CSS 和 JavaScript 构建明/暗模式切换开关组件</title>
+      <link>https://webdesign.tutsplus.com/light-dark-mode-toggle-switch-with-css-javascript--cms-109068t</link>
+      <description><![CDATA[]]></description>
+      <guid>https://webdesign.tutsplus.com/light-dark-mode-toggle-switch-with-css-javascript--cms-109068t</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>电影中的超现实主义是什么？</title>
       <link>https://photography.tutsplus.com/articles/what-is-hyperrealism-in-film--cms-109052</link>
@@ -13,81 +20,74 @@
       <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在Indesign设计年鉴布局</title>
+      <title>如何在 InDesign 中设计年鉴布局</title>
       <link>https://design.tutsplus.com/tutorials/how-to-design-a-yearbook-layout-in-indesign--cms-109103</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-design-a-yearbook-layout-in-indesign--cms-109103</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>10种不同类型的最有效的营销电子邮件</title>
+      <title>10 种最有效的营销电子邮件</title>
       <link>https://business.tutsplus.com/tutorials/types-of-marketing-emails--cms-29459</link>
       <description><![CDATA[]]></description>
       <guid>https://business.tutsplus.com/tutorials/types-of-marketing-emails--cms-29459</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在Illustrator中歪曲文字</title>
+      <title>如何在 Illustrator 中倾斜文本</title>
       <link>https://design.tutsplus.com/tutorials/how-to-skew-text-in-illustrator--cms-109094</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-skew-text-in-illustrator--cms-109094</guid>
       <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>星际福克斯到纪念碑谷 - 视频游戏中最好的低调3D艺术</title>
+      <title>从《星际火狐》到《纪念碑谷》——电子游戏中最好的低多边形 3D 艺术作品</title>
       <link>https://photography.tutsplus.com/articles/best-low-poly-3d-art-in-video-games--cms-109073</link>
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/articles/best-low-poly-3d-art-in-video-games--cms-109073</guid>
       <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在插画家中画超级碗球员</title>
+      <title>如何在 Illustrator 中绘制超级碗球员</title>
       <link>https://design.tutsplus.com/tutorials/how-to-draw-a-super-bowl-player-in-illustrator--cms-109105</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/tutorials/how-to-draw-a-super-bowl-player-in-illustrator--cms-109105</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress vs. WP引擎：发生了什么，您该怎么办？</title>
+      <title>WordPress 与 WP Engine：发生了什么事以及您能做些什么？</title>
       <link>https://webdesign.tutsplus.com/wordpress-vs-wp-engine-whats-going-on-and-what-can-you-do-about-it--cms-109021a</link>
       <description><![CDATA[]]></description>
       <guid>https://webdesign.tutsplus.com/wordpress-vs-wp-engine-whats-going-on-and-what-can-you-do-about-it--cms-109021a</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何模糊Davinci视频背景的部分解决方案</title>
+      <title>如何在 DaVinci Resolve 中模糊部分视频背景</title>
       <link>https://photography.tutsplus.com/tutorials/how-to-blur-parts-of-a-video-background-in-davinci-resolve--cms-107742</link>
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/tutorials/how-to-blur-parts-of-a-video-background-in-davinci-resolve--cms-107742</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何构建JavaScript页面加载动画</title>
+      <title>如何创建 JavaScript 页面加载动画</title>
       <link>https://webdesign.tutsplus.com/how-to-build-a-javascript-page-loading-animation--cms-93911t</link>
       <description><![CDATA[]]></description>
       <guid>https://webdesign.tutsplus.com/how-to-build-a-javascript-page-loading-animation--cms-93911t</guid>
       <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>导演功能：阿尔弗雷德·希区柯克（Alfred Hitchcock）</title>
+      <title>导演：阿尔弗雷德·希区柯克</title>
       <link>https://photography.tutsplus.com/articles/director-feature-alfred-hitchcock--cms-109033</link>
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/articles/director-feature-alfred-hitchcock--cms-109033</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用物质3D查看器</title>
+      <title>如何使用 Substance 3D 查看器</title>
       <link>https://design.tutsplus.com/articles/how-to-use-substante-3d-viewer--cms-109053</link>
       <description><![CDATA[]]></description>
       <guid>https://design.tutsplus.com/articles/how-to-use-substante-3d-viewer--cms-109053</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何被录用：创意导演的建议</title>
-      <link>https://business.tutsplus.com/tutorials/how-to-get-hired-advice-from-creative-directors--cms-23803</link>
-      <description><![CDATA[]]></description>
-      <guid>https://business.tutsplus.com/tutorials/how-to-get-hired-advice-from-creative-directors--cms-23803</guid>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
