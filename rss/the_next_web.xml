@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>下一个网络</title>
+    <title>下一代网络</title>
     <link>https://thenextweb.com</link>
-    <description>T代的原始和自豪的观点</description>
-    <lastBuildDate>Tue, 11 Feb 2025 09:18:06 GMT</lastBuildDate>
+    <description>为 T 世代提供原创且自豪的观点</description>
+    <lastBuildDate>Tue, 11 Feb 2025 12:32:34 GMT</lastBuildDate>
     <item>
-      <title>研究表明，AI数据集具有盲点</title>
+      <title>乌克兰无人机采用 GPS 新替代方案避开俄罗斯干扰</title>
+      <link>https://thenextweb.com/news/ukrainian-drone-company-sine-replaces-gps</link>
+      <description><![CDATA[一家乌克兰无人机科技公司推出了一种 GPS 导航替代方案。Sine.Engineering 建造该系统是为了对抗俄罗斯的电子战，电子战已经对 GPS 信号造成了严重破坏。为了避开干扰，Sine 发明了一种无卫星替代方案。该方法的灵感来自飞行时间 (ToF) 方法，该方法早在 GPS 出现之前就开始用于跟踪飞机。与 GPS 不同，ToF 系统不依赖卫星。相反，它们测量信号在发射器和目标之间传输所需的时间。在 Sine 的框架中，计算来自无人机的通信模块。该模块比扑克牌还小，可与…本故事在 The Next Web 上继续]]></description>
+      <guid>https://thenextweb.com/news/ukrainian-drone-company-sine-replaces-gps</guid>
+      <pubDate>Tue, 11 Feb 2025 08:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>米斯特拉尔和赫尔辛组建国防科技联盟，欧洲推动军事人工智能发展</title>
+      <link>https://thenextweb.com/news/mistral-helsing-form-european-defence-tech-military-ai-alliance</link>
+      <description><![CDATA[欧洲科技领军企业 Helsing 和 Mistral 已达成协议，将共同打造新型军事人工智能系统。此次合作将欧洲两大顶尖初创公司聚集在一起。总部位于德国的国防科技公司 Helsing 去年的估值为 50 亿欧元。该公司成立于 2021 年，开发用于武器、车辆和军事战略的软件。其系统已在乌克兰的战场模拟、战斗机和无人机中部署。与此同时，Mistral 被广泛认为是欧洲与 OpenAI 最接近的竞争对手。这家法国初创公司也成为投资者的最爱，去年以 58 亿欧元的估值筹集了 6 亿欧元。合作伙伴宣布了他们的…这个故事继续在 The Next Web]]></description>
+      <guid>https://thenextweb.com/news/mistral-helsing-form-european-defence-tech-military-ai-alliance</guid>
+      <pubDate>Mon, 10 Feb 2025 11:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究表明人工智能数据集存在人类价值观盲点</title>
       <link>https://thenextweb.com/news/ai-datasets-human-values-blind-spots-new-research</link>
-      <description><![CDATA[  这个故事继续]]></description>
+      <description><![CDATA[我和普渡大学的同事发现，人工智能系统中的人类价值观存在严重失衡。这些系统主要面向信息和实用价值，较少关注亲社会、福祉和公民价值观。许多人工智能系统的核心是用于训练模型的大量图像、文本和其他形式的数据。虽然这些数据集经过精心策划，但有时包含不道德或禁止的内容并不罕见。为了确保人工智能系统在响应用户时不会使用有害内容，研究人员引入了一种名为强化学习的方法......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/ai-datasets-human-values-blind-spots-new-research</guid>
       <pubDate>Fri, 07 Feb 2025 20:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>道德AI和气候技术正在将荷兰变成欧洲创新领导者</title>
+      <title>符合道德的人工智能和气候技术正在让荷兰成为欧洲创新领导者</title>
       <link>https://thenextweb.com/news/ethical-ai-and-climate-tech-are-turning-the-netherlands-into-a-european-innovation-leader</link>
-      <description><![CDATA[                成为欧洲的下一个技术强国。通过将人工智能与可持续性和强大的道德框架相结合，该国仅在2024年就吸引了25亿美元的技术投资，这比上一年的增长39％。通过政府支持负责任的创新，荷兰将自己定位为欧洲下一个技术复兴的中心。  根据风险投资公司Atomico的说法，该国已成为欧洲增长最快的技术生态系统之一。欧洲领先的股票交易所EuroNext Amsterdam已成为＆＃8230;   这个故事继续在下一个网络上]]></description>
+      <description><![CDATA[荷兰长期以来因其进步的政策和开放的经济而备受推崇，该国正积极争取成为欧洲下一个科技强国。通过将人工智能与可持续性和强大的道德框架相结合，该国仅在 2024 年就吸引了 25 亿美元的科技投资，比上一年增长了 39%。在政府的支持下，荷兰推动了负责任的创新，将自己定位为欧洲下一次科技复兴的中心。据风险投资公司 Atomico 称，该国已成为欧洲增长最快的科技生态系统之一。欧洲市值最大的证券交易所泛欧交易所阿姆斯特丹已成为......的基石这个故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/ethical-ai-and-climate-tech-are-turning-the-netherlands-into-a-european-innovation-leader</guid>
       <pubDate>Fri, 07 Feb 2025 09:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>“对不起，我没有得到那个：AI比其他人更误解了某些人的话</title>
+      <title>“对不起，我没听懂”：人工智能对某些人的话的误解比其他人更多</title>
       <link>https://thenextweb.com/news/ai-misunderstands-some-peoples-words-more-than-others</link>
-      <description><![CDATA[  这个故事继续在下一个网络上]]></description>
+      <description><![CDATA[自从 2013 年斯派克·琼斯 (Spike Jonze) 执导的电影《她》上映以来，可以与之交谈的类人人工智能助手的想法就一直活跃在许多人的想象中，这部电影讲述了一个男人爱上了类似于 Siri 的人工智能萨曼莎的故事。在影片中，主角一直在努力应对萨曼莎的种种问题，尽管她看起来是真实的，但她并不是、也永远不会是人类。十二年过去了，这已不再是科幻小说中的东西。像 ChatGPT 这样的生成式人工智能工具和像苹果的 Siri 和亚马逊的 Alexa 这样的数字助理可以帮助人们获取行车路线......本故事在 The Next Web 上继续]]></description>
       <guid>https://thenextweb.com/news/ai-misunderstands-some-peoples-words-more-than-others</guid>
       <pubDate>Thu, 06 Feb 2025 20:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>培养的牛肉先驱Mosa肉在瑞士首次发胖</title>
+      <title>养殖牛肉先驱 Mosa Meat 在瑞士率先推出脂肪牛肉</title>
       <link>https://thenextweb.com/news/mosa-meat-applies-cultivated-meat-approval-switzerland</link>
-      <description><![CDATA[  &lt;a href =“ https://thenextweb.com/news/mosa-meat-meat-applies-cultivated-meat-meat-meat-meat-switzerland？ ；]]></description>
+      <description><![CDATA[瑞士美食家可能很快就会品尝到一种实验性的新美食：人造汉堡。这种实验室培育的美食是荷兰大型肉类公司 Mosa Meat 的创意。该公司成立于 2013 年，利用从牛身上提取的细胞培育牛肉。然后将混合物制成汉堡，与超市货架上的肉末别无二致。与此同时，幸运的牛慢慢走回农场。莫萨称该产品为“世界上最善良的汉堡”。人造肉也可以减少我们的碳足迹，但这一概念首先需要世界各地监管机构的支持。瑞士当局是莫萨的最新目标。该公司今天宣布......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/mosa-meat-applies-cultivated-meat-approval-switzerland</guid>
       <pubDate>Thu, 06 Feb 2025 15:49:24 GMT</pubDate>
     </item>
     <item>
-      <title>AI会彻底改变药物开发吗？研究人员说，这取决于如何使用</title>
+      <title>人工智能会彻底改变药物研发吗？研究人员表示，这取决于如何使用它</title>
       <link>https://thenextweb.com/news/ai-revolutionize-drug-development-researchers-say-depends</link>
-      <description><![CDATA[       &lt;科学家，投资者和公众之间的怀疑。一些公司和研究人员说：“人工智能正在接管药物开发。”在过去的几年中，对使用AI设计药物并优化临床试验的兴趣引起了研究和投资的激增。 Ai-Driven以Alphafold之类的AI驱动平台赢得了2024年诺贝尔奖，以预测蛋白质的结构和设计新的平台，展示了AI加速药物开发的潜力。药物发现中的AI是“胡说八道”，警告一些行业退伍军人。 -say依赖？]]></description>
+      <description><![CDATA[人工智能在药物研发中的应用潜力在科学家、投资者和公众中引起了兴奋和怀疑。一些公司和研究人员声称：“人工智能正在接管药物研发。”过去几年，人们对使用人工智能设计药物和优化临床试验的兴趣推动了研究和投资的激增。像 AlphaFold 这样的人工智能驱动平台展示了人工智能加速药物开发的潜力，AlphaFold 因其预测蛋白质结构和设计新蛋白质的能力而获得了 2024 年诺贝尔奖。一些业内资深人士警告说，将人工智能用于药物研发是“无稽之谈”。…本故事继续在 The Next Web 上]]></description>
       <guid>https://thenextweb.com/news/ai-revolutionize-drug-development-researchers-say-depends</guid>
       <pubDate>Wed, 05 Feb 2025 06:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>NBA正在测试欧洲制造的新智能篮球</title>
+      <title>NBA 正在测试一款欧洲制造的新型智能篮球</title>
       <link>https://thenextweb.com/news/nba-testing-sportiq-smart-basketball</link>
-      <description><![CDATA[      该系统是Sportiq的创意，Sportiq是一家芬兰创业公司，发展出聪明的篮球。在每个球的阀门内，Sportiq嵌入了一个跟踪玩家射击的传感器。首先在其形式，位置，角度，功率和技术上提取数据。接下来，将信息馈送到移动应用程序进行AI分析。然后，玩家会收到直接的反馈和建议。根据Sportiq的说法，已经跟踪了超过2000万张照片。该公司估计，普通用户的拍摄准确性提高了12％。结果给NBA留下了深刻的印象。他们透露＆＃8230;   这个故事继续在下一个网络上]]></description>
+      <description><![CDATA[NBA 正在试验篮球的数字大脑。该系统是开发智能篮球的芬兰初创公司 SportIQ 的创意。SportIQ 在每个球的阀门内嵌入了一个传感器，用于跟踪球员的投篮。首先提取球员投篮姿势、位置、角度、力量和技术的数据。接下来，这些信息被输入到移动应用程序中进行人工智能分析。然后，玩家会收到直接的反馈和建议。据 SportIQ 称，已经追踪了超过 2000 万次投篮。该公司估计，常规用户的投篮准确率提高了 12%。这一结果让 NBA 的大人物们印象深刻。他们透露......这个故事继续在 The Next Web]]></description>
       <guid>https://thenextweb.com/news/nba-testing-sportiq-smart-basketball</guid>
       <pubDate>Tue, 04 Feb 2025 09:31:15 GMT</pubDate>
     </item>
     <item>
-      <title>当使用更了解人口多样性的算法时，深膜检测会有所改善</title>
+      <title>使用更了解人口多样性的算法可以提高 Deepfake 检测的效率</title>
       <link>https://thenextweb.com/news/deepfake-detection-improves-algorithms-demographic-diversity</link>
-      <description><![CDATA[  这个故事继续在下一个网络上]]></description>
+      <description><![CDATA[Deepfakes 本质上是以非常可信的方式将单词放到别人的嘴里。这种技术日益复杂，而且越来越难以发现。最近的深度伪造案例包括泰勒·斯威夫特的裸照、总统乔·拜登告诉新罕布什尔州居民不要投票的录音，以及乌克兰总统泽连斯基呼吁军队放下武器的视频。尽管公司已经创建了检测器来帮助发现深度伪造，但研究发现，用于训练这些工具的数据中的偏见可能会导致某些人口群体受到不公平的攻击。深度伪造......This story continued at The Next Web]]></description>
       <guid>https://thenextweb.com/news/deepfake-detection-improves-algorithms-demographic-diversity</guid>
       <pubDate>Tue, 04 Feb 2025 06:30:44 GMT</pubDate>
     </item>
     <item>
-      <title>皮肤幻影可帮助研究人员改善可穿戴设备，而无需佩戴它们</title>
+      <title>皮肤模型可帮助研究人员改进无需人类佩戴的可穿戴设备</title>
       <link>https://thenextweb.com/news/skin-phantoms-wearable-devices</link>
-      <description><![CDATA[  这个故事继续在下一个网络上]]></description>
+      <description><![CDATA[可穿戴设备已成为现代医疗保健的重要组成部分，有助于跟踪患者的心率、压力水平和大脑活动。这些设备依靠电极，即接触皮肤的传感器来接收来自身体的电信号。制造这些电极并不像看起来那么容易。人类皮肤非常复杂。其特性（例如其导电性）会根据皮肤的水分含量、年龄甚至天气而变化。这些变化使得测试可穿戴设备的性能变得困难。此外，测试电极通常需要人类志愿者，”本文继续，请访问 The Next Web]]></description>
       <guid>https://thenextweb.com/news/skin-phantoms-wearable-devices</guid>
       <pubDate>Mon, 03 Feb 2025 15:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲AI联盟揭幕了LLM硅谷和DeepSeek的替代品</title>
-      <link>https://thenextweb.com/news/european-ai-alliance-openeurollm-challenges-us-china</link>
-      <description><![CDATA[   这个故事继续在下一个网络上]]></description>
-      <guid>https://thenextweb.com/news/european-ai-alliance-openeurollm-challenges-us-china</guid>
-      <pubDate>Mon, 03 Feb 2025 02:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI电池大脑有望跳到欧洲电动汽车</title>
-      <link>https://thenextweb.com/news/sphere-energy-build-ai-battery-brain-for-evs</link>
-      <description><![CDATA[A German startup plans to jumpstart European EVs with an AI-powered brain. Sphere Energy构建了系统以模拟电池行为。然后，该公司在许多情况下预测了电源的寿命，从驾驶风格到道路上的温度。  根据Sphere的说法，洞察力将电池测试周期缩小至少一年。同时，开发汽车可以很快完成两倍。 Sphere设想无穷无尽的好处：制造商将节省数百万，汽车价格将下降，而创新将以指数率提高。这家初创公司的联合创始人卢卡斯·卢茨（Lukas Lutz）表示，这些计划是前所未有的。 “现在没有人 - ＆＃8230;   这个故事继续在下一个网络上]]></description>
-      <guid>https://thenextweb.com/news/sphere-energy-build-ai-battery-brain-for-evs</guid>
-      <pubDate>Fri, 31 Jan 2025 22:42:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
