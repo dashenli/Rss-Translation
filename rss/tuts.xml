@@ -4,7 +4,14 @@
     <title>Envato Tuts+ 教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 18:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:16:26 GMT</lastBuildDate>
+    <item>
+      <title>排版：字母的结构</title>
+      <link>https://design.tutsplus.com/articles/typography-the-anatomy-of-a-letter--cms-29828</link>
+      <description><![CDATA[]]></description>
+      <guid>https://design.tutsplus.com/articles/typography-the-anatomy-of-a-letter--cms-29828</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 CSS 和 JavaScript 构建明/暗模式切换开关组件</title>
       <link>https://webdesign.tutsplus.com/light-dark-mode-toggle-switch-with-css-javascript--cms-109068t</link>
@@ -80,13 +87,6 @@
       <link>https://photography.tutsplus.com/articles/director-feature-alfred-hitchcock--cms-109033</link>
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/articles/director-feature-alfred-hitchcock--cms-109033</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Substance 3D 查看器</title>
-      <link>https://design.tutsplus.com/articles/how-to-use-substante-3d-viewer--cms-109053</link>
-      <description><![CDATA[]]></description>
-      <guid>https://design.tutsplus.com/articles/how-to-use-substante-3d-viewer--cms-109053</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
