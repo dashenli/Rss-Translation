@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg 热门新闻</title>
+    <title>Digg Top Stories</title>
     <link>https://digg.com</link>
-    <description>Digg - 互联网上现在正在讨论什么</description>
-    <lastBuildDate>Wed, 12 Feb 2025 15:18:47 GMT</lastBuildDate>
+    <description>Digg-互联网现在在说什么</description>
+    <lastBuildDate>Wed, 12 Feb 2025 18:23:16 GMT</lastBuildDate>
     <item>
-      <title>英语是如何对椅子产生痴迷的</title>
-      <link>https://rss.digg.com/digg-vids/link/english-language-chairs-video</link>
-      <description><![CDATA[想想有多少言语受到某人坐着的想法的影响，真是令人难以置信。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/english-language-chairs-video</guid>
-      <pubDate>Thu, 06 Feb 2025 15:46:17 GMT</pubDate>
+      <title>《Flow》如何不言而喻地重新定义动画电影</title>
+      <link>https://rss.digg.com/movies-and-tv/link/flow-animated-film-interview-Gints-Zilbalodis-oscars-2025</link>
+      <description><![CDATA[《Flow》获得了今年奥斯卡最佳动画片提名，讲述了一只猫面对洪水世界的史诗故事。]]></description>
+      <guid>https://rss.digg.com/movies-and-tv/link/flow-animated-film-interview-Gints-Zilbalodis-oscars-2025</guid>
+      <pubDate>Thu, 06 Feb 2025 16:57:35 GMT</pubDate>
     </item>
     <item>
       <title>为什么没有人谈论《南方公园》如何预测未来？</title>
       <link>https://rss.digg.com/digg-vids/link/south-park-hello-kitty-island-adventure-video</link>
-      <description><![CDATA[大约 19 年前，这部流行的成人动画片对一款尚不存在的电子游戏开了个玩笑。]]></description>
+      <description><![CDATA[大约19年前，这部受欢迎的成人卡通开了个玩笑，讲述了一款尚不存在的视频游戏。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/south-park-hello-kitty-island-adventure-video</guid>
       <pubDate>Thu, 06 Feb 2025 15:34:36 GMT</pubDate>
     </item>
     <item>
       <title>克里斯·法利在《深夜秀》中的疯狂出场是有史以来最令人难忘的脱口秀时刻之一</title>
       <link>https://rss.digg.com/digg-vids/link/chris-farley-david-letterman-video</link>
-      <description><![CDATA[这段视频展示了法利如何成为有史以来最有才华的肢体喜剧演员。]]></description>
+      <description><![CDATA[该剪辑展示了Farley有史以来最有才华的身体喜剧演员。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/chris-farley-david-letterman-video</guid>
       <pubDate>Thu, 06 Feb 2025 15:34:00 GMT</pubDate>
     </item>
@@ -34,16 +34,16 @@
       <pubDate>Thu, 06 Feb 2025 15:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国这些州的个体经营者赚的钱最多</title>
+      <title>这些美国的企业家赚了最大的钱</title>
       <link>https://rss.digg.com/data-viz/link/where-solo-entrepreneurs-earn-most-us-states-metros</link>
-      <description><![CDATA[在一个州，非雇主企业的平均年收入超过 70,000 美元。]]></description>
+      <description><![CDATA[在一个州，普通非雇主业务每年的收入超过70,000美元。]]></description>
       <guid>https://rss.digg.com/data-viz/link/where-solo-entrepreneurs-earn-most-us-states-metros</guid>
       <pubDate>Thu, 06 Feb 2025 11:23:15 GMT</pubDate>
     </item>
     <item>
       <title>贾登·史密斯头戴城堡，以及本周其他最佳表情包排名</title>
       <link>https://rss.digg.com/memes-ranked/link/best-memes-jaden-smith-grammys-beyonce-osgood-monkey-poster</link>
-      <description><![CDATA[模仿是最真诚的奉承，也是每个模因的精髓。]]></description>
+      <description><![CDATA[模仿是奉承的最真诚形式，也是每个模因的本质。]]></description>
       <guid>https://rss.digg.com/memes-ranked/link/best-memes-jaden-smith-grammys-beyonce-osgood-monkey-poster</guid>
       <pubDate>Thu, 06 Feb 2025 09:35:30 GMT</pubDate>
     </item>
@@ -55,9 +55,9 @@
       <pubDate>Wed, 05 Feb 2025 21:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉在欧洲和英国销量暴跌，陷入困境</title>
+      <title>特斯拉（Teslas）随着欧洲和英国的销售崩溃而变成有毒</title>
       <link>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</link>
-      <description><![CDATA[该地区的电动汽车销量正在增长，但特斯拉的销量却没有增长。]]></description>
+      <description><![CDATA[该地区的电动汽车销售正在增长，但对于特斯拉而不是。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</guid>
       <pubDate>Wed, 05 Feb 2025 20:25:31 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>谷歌数据中心耗水量惊人</title>
       <link>https://rss.digg.com/data-viz/link/google-data-centers-water-usage-us</link>
-      <description><![CDATA[该公司在美国的一座综合设施在 2023 年消耗了 9.8 亿加仑的水，约相当于 1,484 个奥林匹克规格游泳池的水量。]]></description>
+      <description><![CDATA[该公司的一家综合大楼在2023年消耗了9.8亿加仑（约1,484个奥林匹克大小的游泳池价值）。]]></description>
       <guid>https://rss.digg.com/data-viz/link/google-data-centers-water-usage-us</guid>
       <pubDate>Wed, 05 Feb 2025 10:28:15 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>这些是美国最适合养家糊口的州</title>
       <link>https://rss.digg.com/data-viz/link/best-us-states-raise-family-2025</link>
-      <description><![CDATA[从教育到经济适用住房，一个州的得分高于其他任何州。]]></description>
+      <description><![CDATA[从教育到负担得起的住房，一个州的得分比任何一个州都高。]]></description>
       <guid>https://rss.digg.com/data-viz/link/best-us-states-raise-family-2025</guid>
       <pubDate>Mon, 03 Feb 2025 11:36:25 GMT</pubDate>
     </item>
