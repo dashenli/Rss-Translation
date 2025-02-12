@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 09:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 12:32:53 GMT</lastBuildDate>
+    <item>
+      <title>Duolingo 手册</title>
+      <link>https://blog.duolingo.com/handbook/</link>
+      <description><![CDATA[Duolingo 的公司文化、原则以及创造非凡事物的方法。
+]]></description>
+      <guid>https://blog.duolingo.com/handbook/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自 1500 年以来的技术和权力谱系</title>
+      <link>https://calculatingempires.net/</link>
+      <description><![CDATA[通过这项大规模研究可视化，探索五个世纪以来技术和社会结构如何共同演变。
+]]></description>
+      <guid>https://calculatingempires.net/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何专业地说</title>
+      <link>https://howtoprofessionallysay.akashrajpurohit.com/</link>
+      <description><![CDATA[日常“专业”互动指南。
+]]></description>
+      <guid>https://howtoprofessionallysay.akashrajpurohit.com/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>案例研究：群岛</title>
+      <link>https://www.thisisbond.com/work/saaristo</link>
+      <description><![CDATA[将世界上最大的群岛标注在地图上。
+]]></description>
+      <guid>https://www.thisisbond.com/work/saaristo</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超清晰字体</title>
+      <link>https://www.brailleinstitute.org/freefont/</link>
+      <description><![CDATA[盲文研究所为视力较差的读者制作的字体。
+]]></description>
+      <guid>https://www.brailleinstitute.org/freefont/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Figma 愿望清单 2025</title>
       <link>https://tinloof.com/blog/figma-wishlist-2025</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://www.nngroup.com/articles/ai-hallucinations/</guid>
       <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展光标</title>
-      <link>https://www.imkylelambert.com/articles/extending-the-cursor</link>
-      <description><![CDATA[光标已经从一个简单的指点设备转变为一个增强用户交互和提供上下文反馈的强大工具。
-]]></description>
-      <guid>https://www.imkylelambert.com/articles/extending-the-cursor</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 插件：矢量场</title>
-      <link>https://www.figma.com/community/plugin/1392692375323556258/vector-fields</link>
-      <description><![CDATA[一种生成工具，可帮助您玩耍、修补和拼凑由形状组成的图案。
-]]></description>
-      <guid>https://www.figma.com/community/plugin/1392692375323556258/vector-fields</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯坦尼斯拉夫·彼得罗夫</title>
-      <link>https://ericwbailey.website/published/stanislav-petrov/</link>
-      <description><![CDATA[我们不再生活在一个纯粹确定性的技术世界中。
-]]></description>
-      <guid>https://ericwbailey.website/published/stanislav-petrov/</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MonST3R 项目</title>
-      <link>https://monst3r-project.github.io/</link>
-      <description><![CDATA[在运动存在的情况下估计几何形状的简单方法。
-]]></description>
-      <guid>https://monst3r-project.github.io/</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除箭头图标上的“方向”属性</title>
-      <link>https://www.alicepackarddesign.com/blog/remove-direction-property-arrow-icons</link>
-      <description><![CDATA[3 个原因说明为什么“方向”属性不是一个好主意（不仅适用于箭头，也适用于其他图标）。
-]]></description>
-      <guid>https://www.alicepackarddesign.com/blog/remove-direction-property-arrow-icons</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
