@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Digg Top Stories</title>
+    <title>Digg 热门新闻</title>
     <link>https://digg.com</link>
-    <description>Digg-互联网现在在说什么</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:23:16 GMT</lastBuildDate>
+    <description>Digg - 互联网上现在正在讨论什么</description>
+    <lastBuildDate>Wed, 12 Feb 2025 21:16:03 GMT</lastBuildDate>
+    <item>
+      <title>未来已来：每个人的大写锁定键在世界各地同步</title>
+      <link>https://rss.digg.com/internet-culture/link/global-caps-lock-sync-humor</link>
+      <description><![CDATA[为什么我们必须选择将哪些字符大写，而我们可以简单地让群众的智慧来决定？]]></description>
+      <guid>https://rss.digg.com/internet-culture/link/global-caps-lock-sync-humor</guid>
+      <pubDate>Thu, 06 Feb 2025 18:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国这些州的家庭净资产最高</title>
+      <link>https://rss.digg.com/finance/link/highest-household-net-worth-us-states</link>
+      <description><![CDATA[有七个州的家庭净资产中位数超过 30 万美元。]]></description>
+      <guid>https://rss.digg.com/finance/link/highest-household-net-worth-us-states</guid>
+      <pubDate>Thu, 06 Feb 2025 17:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么英国人对每种食物只用一个词来形容？</title>
+      <link>https://rss.digg.com/digg-vids/link/why-do-british-people-only-have-one-word-for-every-food</link>
+      <description><![CDATA[这个机智的短剧展现了英国最奇怪的语言怪癖之一。]]></description>
+      <guid>https://rss.digg.com/digg-vids/link/why-do-british-people-only-have-one-word-for-every-food</guid>
+      <pubDate>Thu, 06 Feb 2025 17:12:16 GMT</pubDate>
+    </item>
     <item>
       <title>《Flow》如何不言而喻地重新定义动画电影</title>
       <link>https://rss.digg.com/movies-and-tv/link/flow-animated-film-interview-Gints-Zilbalodis-oscars-2025</link>
@@ -15,35 +36,21 @@
     <item>
       <title>为什么没有人谈论《南方公园》如何预测未来？</title>
       <link>https://rss.digg.com/digg-vids/link/south-park-hello-kitty-island-adventure-video</link>
-      <description><![CDATA[大约19年前，这部受欢迎的成人卡通开了个玩笑，讲述了一款尚不存在的视频游戏。]]></description>
+      <description><![CDATA[大约 19 年前，一部流行的成人动画片对一款尚不存在的电子游戏开了个玩笑。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/south-park-hello-kitty-island-adventure-video</guid>
       <pubDate>Thu, 06 Feb 2025 15:34:36 GMT</pubDate>
     </item>
     <item>
       <title>克里斯·法利在《深夜秀》中的疯狂出场是有史以来最令人难忘的脱口秀时刻之一</title>
       <link>https://rss.digg.com/digg-vids/link/chris-farley-david-letterman-video</link>
-      <description><![CDATA[该剪辑展示了Farley有史以来最有才华的身体喜剧演员。]]></description>
+      <description><![CDATA[这段视频展示了法利如何成为有史以来最有才华的肢体喜剧演员。]]></description>
       <guid>https://rss.digg.com/digg-vids/link/chris-farley-david-letterman-video</guid>
       <pubDate>Thu, 06 Feb 2025 15:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>喜剧演员准确捕捉男人生病时的行为</title>
-      <link>https://rss.digg.com/digg-vids/link/how-men-getting-sick-funny-video</link>
-      <description><![CDATA[他们说最有趣的事情总是包含着一点真理。]]></description>
-      <guid>https://rss.digg.com/digg-vids/link/how-men-getting-sick-funny-video</guid>
-      <pubDate>Thu, 06 Feb 2025 15:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些美国的企业家赚了最大的钱</title>
-      <link>https://rss.digg.com/data-viz/link/where-solo-entrepreneurs-earn-most-us-states-metros</link>
-      <description><![CDATA[在一个州，普通非雇主业务每年的收入超过70,000美元。]]></description>
-      <guid>https://rss.digg.com/data-viz/link/where-solo-entrepreneurs-earn-most-us-states-metros</guid>
-      <pubDate>Thu, 06 Feb 2025 11:23:15 GMT</pubDate>
-    </item>
-    <item>
       <title>贾登·史密斯头戴城堡，以及本周其他最佳表情包排名</title>
       <link>https://rss.digg.com/memes-ranked/link/best-memes-jaden-smith-grammys-beyonce-osgood-monkey-poster</link>
-      <description><![CDATA[模仿是奉承的最真诚形式，也是每个模因的本质。]]></description>
+      <description><![CDATA[模仿是最真诚的奉承，也是每个模因的精髓。]]></description>
       <guid>https://rss.digg.com/memes-ranked/link/best-memes-jaden-smith-grammys-beyonce-osgood-monkey-poster</guid>
       <pubDate>Thu, 06 Feb 2025 09:35:30 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Wed, 05 Feb 2025 21:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉（Teslas）随着欧洲和英国的销售崩溃而变成有毒</title>
+      <title>特斯拉在欧洲和英国销量暴跌，陷入困境</title>
       <link>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</link>
-      <description><![CDATA[该地区的电动汽车销售正在增长，但对于特斯拉而不是。]]></description>
+      <description><![CDATA[该地区的电动汽车销量正在增长，但特斯拉的销量却没有增长。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</guid>
       <pubDate>Wed, 05 Feb 2025 20:25:31 GMT</pubDate>
     </item>
@@ -85,16 +92,9 @@
     <item>
       <title>谷歌数据中心耗水量惊人</title>
       <link>https://rss.digg.com/data-viz/link/google-data-centers-water-usage-us</link>
-      <description><![CDATA[该公司的一家综合大楼在2023年消耗了9.8亿加仑（约1,484个奥林匹克大小的游泳池价值）。]]></description>
+      <description><![CDATA[该公司在美国的一座综合设施在 2023 年消耗了 9.8 亿加仑的水，约相当于 1,484 个奥林匹克规格游泳池的水量。]]></description>
       <guid>https://rss.digg.com/data-viz/link/google-data-centers-water-usage-us</guid>
       <pubDate>Wed, 05 Feb 2025 10:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>《我准备好了，典狱长》是对死刑的一次毫不畏惧的深入审视</title>
-      <link>https://rss.digg.com/movies-and-tv/link/i-am-ready-warden-documentary-oscar-nominated-trailer-interview-video</link>
-      <description><![CDATA[这部获得 2025 年奥斯卡提名的短片讲述了约翰·亨利·拉米雷斯 (John Henry Ramirez) 的故事，他是一位父亲，也是一名因 2004 年谋杀而被判死刑的退伍军人。]]></description>
-      <guid>https://rss.digg.com/movies-and-tv/link/i-am-ready-warden-documentary-oscar-nominated-trailer-interview-video</guid>
-      <pubDate>Tue, 04 Feb 2025 20:58:14 GMT</pubDate>
     </item>
     <item>
       <title>Switch 2 有一个神秘按钮。它只有一个可能的用途</title>
@@ -106,7 +106,7 @@
     <item>
       <title>这些是美国最适合养家糊口的州</title>
       <link>https://rss.digg.com/data-viz/link/best-us-states-raise-family-2025</link>
-      <description><![CDATA[从教育到负担得起的住房，一个州的得分比任何一个州都高。]]></description>
+      <description><![CDATA[从教育到经济适用住房，一个州的得分高于其他任何州。]]></description>
       <guid>https://rss.digg.com/data-viz/link/best-us-states-raise-family-2025</guid>
       <pubDate>Mon, 03 Feb 2025 11:36:25 GMT</pubDate>
     </item>
