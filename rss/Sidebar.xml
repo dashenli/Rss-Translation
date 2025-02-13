@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日提供五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 13 Feb 2025 12:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:19:54 GMT</lastBuildDate>
+    <item>
+      <title>制定者奖项</title>
+      <link>https://www.framer.com/awards/</link>
+      <description><![CDATA[2024 年最佳 Framer 网站，涵盖投资组合、代理机构和产品发布。
+]]></description>
+      <guid>https://www.framer.com/awards/</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三角FLIP流体</title>
+      <link>https://fluid-triangle.vercel.app/</link>
+      <description><![CDATA[通过流体物理和 ASCII 渲染进行有趣的探索。
+]]></description>
+      <guid>https://fluid-triangle.vercel.app/</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和机器人应该听起来像机器人</title>
+      <link>https://spectrum.ieee.org/audio-deepfake-fix</link>
+      <description><![CDATA[一个简单的想法，让机器人的语音再次变得与人类的声音难以区分。
+]]></description>
+      <guid>https://spectrum.ieee.org/audio-deepfake-fix</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>汽车物理控制装置设计的精妙艺术</title>
+      <link>https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/</link>
+      <description><![CDATA[为更简单的物理气候控制概念制作原型。
+]]></description>
+      <guid>https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使设计系统组件结构化、清晰化</title>
+      <link>https://www.buttonconf.com/blog/how-to-bring-structure-and-clarity-to-design-system-components</link>
+      <description><![CDATA[电子表格工具可简化组件的编写，从而提高团队的效率和一致性。
+]]></description>
+      <guid>https://www.buttonconf.com/blog/how-to-bring-structure-and-clarity-to-design-system-components</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Duolingo 手册</title>
       <link>https://blog.duolingo.com/handbook/</link>
@@ -84,46 +124,6 @@
 ]]></description>
       <guid>https://ghuntley.com/dothings/</guid>
       <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体是一个陷阱</title>
-      <link>https://nazhamid.com/journal/less-precious/</link>
-      <description><![CDATA[这与你的朋友、你的追随者或你关注的人无关。
-]]></description>
-      <guid>https://nazhamid.com/journal/less-precious/</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：ADC 第 104 战役 ID</title>
-      <link>https://mullenlowedesign.co/adc-104th-campaign-id</link>
-      <description><![CDATA[一系列超现实且幽默的动画短片，强调创作不可忽视的作品的重要性。
-]]></description>
-      <guid>https://mullenlowedesign.co/adc-104th-campaign-id</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁可以使用</title>
-      <link>https://www.whocanuse.com/</link>
-      <description><![CDATA[一种引起人们注意并理解色彩对比如何影响不同视力障碍人士的工具。
-]]></description>
-      <guid>https://www.whocanuse.com/</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由声音</title>
-      <link>https://freesound.org/</link>
-      <description><![CDATA[为音乐家和声音爱好者提供 Creative Commons 授权声音的协作数据库。
-]]></description>
-      <guid>https://freesound.org/</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能幻觉：设计师需要知道什么</title>
-      <link>https://www.nngroup.com/articles/ai-hallucinations/</link>
-      <description><![CDATA[基于证据的 UI 模式可帮助用户识别虚假信息。
-]]></description>
-      <guid>https://www.nngroup.com/articles/ai-hallucinations/</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
