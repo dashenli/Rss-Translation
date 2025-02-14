@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 09:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 12:33:33 GMT</lastBuildDate>
+    <item>
+      <title>反应状态</title>
+      <link>https://2024.stateofreact.com/en-US</link>
+      <description><![CDATA[ 2024年的年度调查有关React生态系统最新趋势的年度调查。
+ ]]></description>
+      <guid>https://2024.stateofreact.com/en-US</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们知道的编程结束</title>
+      <link>https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/</link>
+      <description><![CDATA[媒体上有很多chat不休，软件开发人员很快就会失去AI的工作。蒂姆·奥赖利（Tim O’Reilly）不买。
+ ]]></description>
+      <guid>https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>评估叠加效率的可访问性产品</title>
+      <link>https://ericwbailey.website/published/evaluating-overlay-adjacent-accessibility-products/</link>
+      <description><![CDATA[评估声称神奇解决可访问性问题的解决方案的标题。
+ ]]></description>
+      <guid>https://ericwbailey.website/published/evaluating-overlay-adjacent-accessibility-products/</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在预算上构建个人AI计算机</title>
+      <link>https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/</link>
+      <description><![CDATA[试图在不花费太多花费的情况下构建这样有能力的AI计算机。
+ ]]></description>
+      <guid>https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么每个人都痴迷于聊天界面？</title>
+      <link>https://zehfernandes.com/posts/why-is-everyone-obsessed-with-chat-interfaces</link>
+      <description><![CDATA[产品非常着迷于展示创新，以至于他们到处添加聊天框，而不是实际解决用户的问题。
+ ]]></description>
+      <guid>https://zehfernandes.com/posts/why-is-everyone-obsessed-with-chat-interfaces</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>制定奖</title>
       <link>https://www.framer.com/awards/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.brailleinstitute.org/freefont/</guid>
       <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果愿望清单2025</title>
-      <link>https://tinloof.com/blog/figma-wishlist-2025</link>
-      <description><![CDATA[全面的愿望清单，这些功能列表解决了基本工作流程限制以及无花果的好处。
- ]]></description>
-      <guid>https://tinloof.com/blog/figma-wishlist-2025</guid>
-      <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>酷儿设计俱乐部（新网站）</title>
-      <link>https://www.queerdesign.club/</link>
-      <description><![CDATA[ Queer Design Club亮点，连接和放大身份与设计交集的人。
- ]]></description>
-      <guid>https://www.queerdesign.club/</guid>
-      <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果插件：BeatSync视频制造商</title>
-      <link>https://www.figma.com/community/plugin/1408882187583522762/beatsync-video-maker</link>
-      <description><![CDATA[将静态帧转变为动态的，节拍同步的视频。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1408882187583522762/beatsync-video-maker</guid>
-      <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类经济指数</title>
-      <link>https://www.anthropic.com/news/the-anthropic-economic-index</link>
-      <description><![CDATA[一项旨在了解AI随时间推移对劳动力市场和经济影响的倡议。
- ]]></description>
-      <guid>https://www.anthropic.com/news/the-anthropic-economic-index</guid>
-      <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来属于可以做事的想法人</title>
-      <link>https://ghuntley.com/dothings/</link>
-      <description><![CDATA[很难看到大多数软件工程师在2026年底之前进行手工制作的提交的道路。
- ]]></description>
-      <guid>https://ghuntley.com/dothings/</guid>
-      <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
