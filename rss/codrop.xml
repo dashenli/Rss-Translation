@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科多普</title>
+    <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
-    <description>自 2009 年以来，一直致力于推动网络创意</description>
-    <lastBuildDate>Fri, 14 Feb 2025 01:12:11 GMT</lastBuildDate>
+    <description>自2009年以来加剧了网络创造力</description>
+    <lastBuildDate>Fri, 14 Feb 2025 15:20:22 GMT</lastBuildDate>
     <item>
-      <title>设计师聚焦：Jhosue Mesias</title>
+      <title>设计师聚光灯：Jhosue Mesias</title>
       <link>https://tympanus.net/codrops/2025/02/13/designer-spotlight-jhosue-mesias/</link>
-      <description><![CDATA[与 Jhosue Mesias 一起探索数字设计的艺术——突破界限、创造体验、重新定义创造力。]]></description>
+      <description><![CDATA[使用Jhosue Mesias探索数字设计的艺术 - 精通界限，制作体验和重新定义创造力。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/13/designer-spotlight-jhosue-mesias/</guid>
       <pubDate>Thu, 13 Feb 2025 14:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>构建高效的 Three.js 场景：优化性能的同时保持质量</title>
+      <title>建立有效的三分。JS场景：优化性能的同时保持质量</title>
       <link>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</link>
-      <description><![CDATA[全面了解如何使用 Fiber、Drei 和高级工具优化 Three.js 场景，确保流畅的性能同时保留高质量的视觉效果。]]></description>
+      <description><![CDATA[全面了解如何使用纤维，DREI和高级工具优化三分。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</guid>
       <pubDate>Tue, 11 Feb 2025 14:38:37 GMT</pubDate>
     </item>
     <item>
-      <title>在浏览器中创建我的第一个游戏原型：迄今为止的旅程</title>
+      <title>在浏览器中创建我的第一个游戏原型：到目前为止的旅程</title>
       <link>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</link>
-      <description><![CDATA[深入了解从头开始构建 3D 游戏原型背后的创作过程、挑战和工具。]]></description>
+      <description><![CDATA[内部查看从头开始构建3D游戏原型背后的创作过程，挑战和工具。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</guid>
       <pubDate>Mon, 10 Feb 2025 14:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>开发者聚焦：Guillaume Lanier</title>
+      <title>开发人员聚光灯：Guillaume Lanier</title>
       <link>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</link>
-      <description><![CDATA[介绍位于阿姆斯特丹的创意和前端开发人员 Guillaume Lanier，他通过创新的 2D/3D 图形和交互式设计创造身临其境的数字体验。]]></description>
+      <description><![CDATA[介绍Guillaume Lanier，创意＆＃038;位于阿姆斯特丹的Frontend开发人员，通过创新的2D/3D图形和交互式设计来制作沉浸式数字体验。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</guid>
       <pubDate>Fri, 07 Feb 2025 12:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>在 p5.js 中构建有趣的定格蜡笔光标</title>
+      <title>在P5.JS中构建俏皮的定格蜡笔光标</title>
       <link>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</link>
-      <description><![CDATA[使用 p5.brush.js 和流畅的动画创建有趣的定格蜡笔光标效果。]]></description>
+      <description><![CDATA[使用p5.brush.js和流畅的动画创建一个有趣的定格蜡笔光标效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</guid>
       <pubDate>Thu, 06 Feb 2025 10:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>Players Club：用于展示音乐艺术家的免费 Astro 模板</title>
+      <title>玩家俱乐部：展示音乐艺术家的免费Astro模板</title>
       <link>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</link>
-      <description><![CDATA[Players Club 是一个免费的 Astro 模板，用于展示音乐艺术家——与 Alex Tkachev 合作构建的实验性概念证明。]]></description>
+      <description><![CDATA[玩家俱乐部是展示音乐艺术家的免费Astro模板，这是与Alex Tkachev合作建立的概念证明。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</guid>
       <pubDate>Wed, 05 Feb 2025 13:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何用 Three.js 制作蓬松的草地</title>
+      <title>如何用三分制作最蓬松的草</title>
       <link>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</link>
-      <description><![CDATA[详细介绍在 Three.js 中创建逼真的草地且不影响性能的最佳技术。]]></description>
+      <description><![CDATA[最佳技术的细分，可以在三分中创建逼真的草，而不会杀死性能。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</guid>
       <pubDate>Tue, 04 Feb 2025 12:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Three.js 和着色器构建滚动 3D 圆形文本动画</title>
+      <title>用三个。</title>
       <link>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</link>
-      <description><![CDATA[了解如何使用 Three.js、着色器和 msdf-text-utils 在 3D 空间中创建圆形文本动画。]]></description>
+      <description><![CDATA[了解如何使用Thriph.js，着色器和MSDF-Text-Utils在3D空间中创建圆形文本动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</guid>
       <pubDate>Mon, 03 Feb 2025 13:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nim：使用 Motion-Primitives 构建的个人网站模板</title>
+      <title>NIM：一个采用运动基础化的个人网站模板</title>
       <link>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</link>
-      <description><![CDATA[Nim 是一个免费的开源个人网站模板，使用 Next.js 15、React 19、Tailwind CSS v4 和 Motion-Primitives 构建，具有精细的预建动画。]]></description>
+      <description><![CDATA[NIM是由Next.JS 15，React 19，Tailwind CSS V4和运动主导物质的免费开源个人网站模板，具有微妙的，预先构建的动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</guid>
       <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开发者聚焦：Quentin Hocdé</title>
+      <title>开发人员聚光灯：QuentinHocdé</title>
       <link>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</link>
-      <description><![CDATA[在这次聚焦中，Quentin Hocdé 分享了他对创意编码、动画以及将互动体验变为现实的热情。]]></description>
+      <description><![CDATA[在这个聚光灯下，昆汀·霍克德（QuentinHocdé）分享了他对创意编码，动画和将互动体验栩栩如生的热情。]]></description>
       <guid>https://tympanus.net/codrops/2025/01/31/developer-spotlight-quentin-hocde/</guid>
       <pubDate>Fri, 31 Jan 2025 12:45:00 GMT</pubDate>
     </item>
