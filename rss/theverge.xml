@@ -1,192 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>The Verge - 所有文章</title>
-    <link>https://www.theverge.com/</link>
-    <description></description>
-    <lastBuildDate>Tue, 28 Jan 2025 06:21:30 GMT</lastBuildDate>
+    <title>边缘</title>
+    <link>https://www.theverge.com</link>
+    <description>The Verge 关注技术以及它带给我们的感受。该公司成立于 2011 年，通过网站、视频和播客为读者提供从突发新闻到评论再到获奖专题和调查等各种内容。</description>
+    <lastBuildDate>Fri, 14 Feb 2025 03:19:55 GMT</lastBuildDate>
     <item>
-      <title>美国谷歌地图将改为美国湾和麦金利山</title>
-      <link>https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley</link>
-      <description><![CDATA[
-
-插图：The Verge
-
-谷歌今天表示，计划更新谷歌地图，以反映特朗普总统 1 月 20 日的行政命令，更改墨西哥湾和德纳里峰分别位于美国湾和麦金利山。
-该公司在 X 上指出，一旦地理名称信息系统 (GNIS) 更新，更新后的命名法就会出现。
-“我们长期以来的做法是，当名称更改在官方政府来源中更新时，我们会应用这些更改，”该公司在 X 上发布。它补充说，当“名称更改因国家/地区而异时，地图用户会看到其官方本地名称。世界其他地方的每个人都会看到这两个名字。这也适用于这里。”
-直到 2015 年，德纳利峰才被命名为麦金利山。
-美国内政部上周表示，计划遵循行政命令实施更名。
-“美国地理名称委员会在内政部的监督下，正在迅速更新地理名称信息系统中的官方联邦命名法，以反映这些变化，并立即生效供联邦政府使用，”内政部周五表示。
-苹果发言人尚未就苹果的计划发表评论地图。]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley</guid>
-      <pubDate>Tue, 28 Jan 2025 02:16:54 GMT</pubDate>
+      <title>TikTok 禁令：有关该应用在美国关闭和回归的所有新闻</title>
+      <link>https://www.theverge.com/23651507/tiktok-ban-us-news</link>
+      <description><![CDATA[1 月 19 日，针对字节跳动的“撤资或封杀”法案生效，TikTok 在美国短暂关闭后，很快恢复上线，但仍然无法在应用商店中找到。即使在唐纳德·特朗普发布行政命令“指示司法部长不要采取任何行动”之后，这种情况仍然持续存在。]]></description>
+      <guid>https://www.theverge.com/23651507/tiktok-ban-us-news</guid>
+      <pubDate>Fri, 14 Feb 2025 01:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普称将在“不久的将来”对进口芯片征收关税</title>
-      <link>https://www.theverge.com/2025/1/27/24353388/trump-tariffs-chips-act-ai-deepseek</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge，Getty Images
-
-不详细说明520 亿美元工厂可能会发生什么唐纳德·特朗普表示，美国政府将通过《芯片法案》向外国公司提供补贴，并表示将在“不久的将来”对外国计算机芯片、半导体和药品征收关税。他还提到了 DeepSeek 的 AI 发布，称“……想出一种更快、更便宜的 AI 方法，这很好。”如果这是事实，而且是真的，我认为这是积极的，虽然没有人知道，但我认为这是积极的。”
-在周一下午于迈阿密特朗普国家多拉尔度假村举行的众议院共和党问题会议上，他在演讲中表示，要将这些商品的生产转移回美国，“我们不想像拜登的这个荒谬计划那样给他们数十亿美元。”相反，制造商的激励将是“他们不想缴税”。
-彭博社报道称，特朗普后来在对报道的评论中表示，他希望关税税率“远高于”2.5%。
-
-
-
-
-尽管在他第一次就任期间与中国的贸易战结果如此，但情况仍然如此。特朗普政府在2018年（关税开始生效）至2021年期间扩大了中国对美国的贸易顺差。TechCrunch援引的CTA去年的一份报告称，特朗普提议的关税可能会导致笔记本电脑和平板电脑的价格上涨46%，游戏机的价格上涨40%，智能手机的价格上涨26%。
-他还表示，“由于激励措施的存在，我们将在未来短时间内建造比以往任何时候都多的工厂”，但目前尚不清楚其中有多少将像星际之门计划的德克萨斯州的第一个数据中心那样，而这个数据中心早在他执政开始之前就已在筹备中。去年秋天，美国商务部表示，到那时，它已经“宣布了超过 300 亿美元的 CHIPS 私营部门投资计划，涉及 15 个州的 23 个项目”，其中有 16 个新制造工厂正在筹备中。
-
-他还谈到 DeepSeek 时说，“与其花费数十亿美元，不如花更少的钱，希望能找到同样的解决方案”，即使 OpenAI、软银等公司也是如此。表示他们准备在 AI 数据中心上投入 5000 亿美元。
-1 月 27 日更新：添加了来自彭博社的详细信息。
-]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353388/trump-tariffs-chips-act-ai-deepseek</guid>
-      <pubDate>Tue, 28 Jan 2025 01:38:53 GMT</pubDate>
+      <title>TikTok 重返 App Store</title>
+      <link>https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban</link>
+      <description><![CDATA[在美国被禁近一个月后，TikTok 重返 iPhone 和其他 Apple 设备的 App Store 以及 Android 手机和平板电脑的 Google Play 商店。此前，美国司法部长帕姆·邦迪致信苹果，保证不会因 […] 被罚款。]]></description>
+      <guid>https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban</guid>
+      <pubDate>Fri, 14 Feb 2025 01:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>联邦调查局未经授权的“后门”搜查被裁定违宪</title>
-      <link>https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-经过多年的诉讼，联邦法院最终裁定，联邦调查局根据《外国情报监视法》（FISA）第 702 条搜查美国公民通信的行为违宪。在上周公布的一项裁决中，美国地方法院法官 LaShann DeArcy Hall 裁定，这些“后门”搜索违反了《第四修正案》。
-正如电子前沿基金会所指出的那样，FISA 允许联邦情报机构“以‘国家安全’的名义”收集大量外国通信。尽管其中一些通信可能涉及美国居民，政府辩称，要求逮捕令“将妨碍联邦调查局获取威胁情报并采取行动的能力”。 2023 年，FBI 进行了超过 57,000 次“美国公民”数据搜索，比 2022 年减少了 52%。
-
-这一特定决定源于一起涉及美国永久居民 Agron Hasbajrami 的案件，他于 2011 年因被指控计划加入巴基斯坦恐怖组织而被捕。然而，政府未能披露其案件的一部分依据的是其通过《外国情报监视法》第 702 条未经授权获得的电子邮件。 
-2020 年，上诉法院裁定，这些类型的搜查可能违宪，但现在已正式生效。DeArcy Hall 法官认为，根据《第四修正案》，FBI 对美国数据的无证搜查“不合理”：
-尽管美国人的通信可能被拦截，无论是偶然还是无意，但允许对第 702 条专门用于避免收集的相同信息进行无证搜查将是自相矛盾的。容忍这种做法将使第 702 条变成被告所称的那种东西——执法部门进行“后门搜查”以规避第四修正案的工具。
-国会去年重新授权了 FISA 第 702 条，该条款将于 2026 年再次到期。电子前沿基金会要求立法者制定“立法授权要求，以便情报界不会继续践踏受宪法保护的私人通信权利。”]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling</guid>
-      <pubDate>Mon, 27 Jan 2025 23:34:12 GMT</pubDate>
+      <title>以下是目前最好的机器人吸尘器优惠</title>
+      <link>https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale</link>
+      <description><![CDATA[我们正处于一个可以将任务委托给智能金属块的时代，无论是自动驾驶汽车还是可以为您清洁的机器人。我们大多数人可能都买不起我们这一生正在开发的有感知能力的类人机器人，但机器人吸尘器是一种经济实惠的方式。]]></description>
+      <guid>https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale</guid>
+      <pubDate>Thu, 13 Feb 2025 23:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>索尼为 InZone 显示器提供三年保修，缓解 OLED 烧屏担忧</title>
-      <link>https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty</link>
-      <description><![CDATA[
-
-图片：索尼
-
-索尼将部分 InZone 游戏显示器的有限保修期延长至三年，并且为 OLED 显示器提供老化保修 27 英寸 M10S。该公司于 9 月 推出了 InZone M10S OLED 和 M9 II LED，开箱即用，仅提供一年有限保修，今天宣布了额外的保修范围。索尼表示，除此之外，有限保修保持不变。
-制造商长期以来一直不愿谈论烧屏现象，或直接将这种现象归类为“正常使用”，拒绝在各种面板类型上修复该现象的保修索赔。然而，OLED 历来更容易出现烧屏现象，尤其是在与许多静态图像（如 PC 中的图像）一起使用时。近年来，OLED 已得到改进，对烧屏的敏感度降低。
-索尼是最新一家增加烧屏保修的制造商。Alienware 是首批在其三年保修范围内专门包含 OLED 烧屏的公司之一，其产品包括 2022 年推出的 QD-OLED 显示器，以及其最新的 今年即将推出 的最新 27 英寸 4K 型号。 2023 年，The Verge 的 Sean Hollister 要求 LG 明确保证该公司的 OLED 显示器不会出现烧屏现象，LG 同意了，并且 更改了措辞。
-
-
-截图：The Verge
-百思买产品清单上的三星代表表示，32 英寸 Odyssey OLED G8 的三年保修涵盖了烧屏问题。
-
-从那时起，像 MSI 和 Asus 也承诺为部分型号提供 OLED 烧屏保修，包括 最新款（在某些国家/地区）。务必研究您购买的型号所含的保修，以确定是否包含烧屏保修。例如，三星网站展示了其保修的一般政策，即不包括烧屏，然而，在线代表确认它确实涵盖在 32 英寸 Odyssey OLED G8 上。然而，该公司仍然尚未澄清其最新的 27 英寸 Odyssey OLED G8 游戏显示器是否涵盖烧屏问题。]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353227/sony-m10s-inzone-oled-burn-in-warranty</guid>
-      <pubDate>Mon, 27 Jan 2025 21:58:47 GMT</pubDate>
+      <title>Elden Ring：关于 FromSoftware 的开放世界热门游戏的所有更新</title>
+      <link>https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world</link>
+      <description><![CDATA[Elden Ring 终于来了。这款大型游戏由《黑暗之魂》开发商 FromSoftware 开发，故事背景设定在《权力的游戏》作者乔治·RR·马丁创作的世界里。这款游戏基本不负众望，但发布并不完美。万代南梦宫在发布当天发布了一条公益广告，承诺 […]]]></description>
+      <guid>https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world</guid>
+      <pubDate>Thu, 13 Feb 2025 23:49:05 GMT</pubDate>
     </item>
     <item>
-      <title>现在苹果告诉我们如何更新 AirPods</title>
-      <link>https://www.theverge.com/2025/1/27/24353246/apple-airpods-pro-max-headphones-update-firmware-how-to</link>
-      <description><![CDATA[
-
-要更新 AirPods 上的固件，请先将其放入盒子中。 |照片由 Chris Welch / The Verge 拍摄
-
-Apple 今日更新了其 AirPods 固件支持页面，其中包含有关如何使用最新固件升级 AirPods、AirPods Pro 和 AirPods Max 的更详细的分步指南，据 MacRumors 报道。虽然大多数 Apple 设备（如 iPhone 或 Apple Watch）都可以在设置中启动更新，但对于 AirPods，您必须等待更新过程自行完成。
-AirPods 固件支持页面仍然包含 Apple 对更新过程所需条件的原始摘要，但现在已添加扩展的分步指南，以帮助确保该过程自动进行。
-
-虽然大多数步骤都是已知的，但也添加了一些具体建议，包括使用 USB 数据线充电并等待至少 30 分钟才能更新。如果您一直在努力让固件更新正常工作，这些说明可能会对您有所帮助。
-以下步骤专门针对 AirPods 和 AirPods Pro。 AirPods Max 的说明几乎相同，但省略了充电盒步骤。
-
-确保您的 AirPods 在连接到 Wi-Fi 的 iPhone、iPad 或 Mac 的蓝牙范围内。
-将您的 AirPods 放入充电盒并合上盖子。
-将充电线插入充电盒，然后将充电线的另一端插入 USB 充电器或端口。
-保持充电盒盖子关闭，等待至少 30 分钟以更新固件。
-打开充电盒盖子，将您的 AirPods 重新连接到 iPhone、iPad 或 Mac。
-检查固件版本再次。
-
-连接的设备上仍然没有声音或弹出窗口通知您 AirPods 固件是否已成功更新。按照这些步骤并等待至少半小时后，您可以通过打开 iPhone、iPad 或 Mac 的蓝牙设置，单击 AirPods 名称旁边的信息按钮，然后导航到关于部分，手动检查 AirPods 固件版本。 
-如果它仍然显示的固件版本早于Apple 在其支持页面上列出的最新版本，该公司建议重置 AirPods，然后再次执行固件更新步骤。]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353246/apple-airpods-pro-max-headphones-update-firmware-how-to</guid>
-      <pubDate>Mon, 27 Jan 2025 21:46:00 GMT</pubDate>
+      <title>Gemini AI 现在可以回忆过去的对话</title>
+      <link>https://www.theverge.com/news/612638/google-gemini-ai-advanced-recall-conversations</link>
+      <description><![CDATA[如果您通过 Google One AI Premium 订阅了 Gemini Advanced，Google 的 Gemini AI 助手现在可以回忆过去的对话，以提供更相关的回复。通过此更新，您将不再需要回顾以前的聊天或搜索主题来开始对话，因为 Gemini 已经拥有上下文 […]]]></description>
+      <guid>https://www.theverge.com/news/612638/google-gemini-ai-advanced-recall-conversations</guid>
+      <pubDate>Thu, 13 Feb 2025 22:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek：有关这家撼动人工智能股票市场的初创公司的所有新闻</title>
-      <link>https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai</link>
-      <description><![CDATA[
-
-图片：Cath Virginia / The Verge
-
-中国初创公司 DeepSeek 声称其 AI 模型的性能可以与 OpenAI 和 Meta 的模型相媲美——但成本仅为其一小部分。 DeepSeek 声称其具有成本效益的大型语言模型正在撼动 AI 行业其表现堪比 OpenAI 和 Meta 等巨头的竞争对手。这家中国初创公司表示，其旗舰 R1 推理模型能够实现与OpenAI 的 o1 等效模型“相当的性能”，而新发布的 Janus Pro 多模态 AI 模型据称可以胜过 Stable Diffusion 和 DALL-E 3。
-DeepSeek 的 ChatGPT 竞争对手迅速飙升至 App Store 榜首，该公司扰乱了金融市场，1 月 27 日，Nvidia 股价下跌 17％，市值缩水近 6000 亿美元，这CNBC 称这是美国历史上单日最大跌幅。
-。该人工智能助手由该初创公司“最先进的”DeepSeek-V3 模型提供支持，允许用户提出问题、计划行程、生成文本等。随着 DeepSeek 应用程序下载量激增，这家初创公司开始限制注册，理由是“恶意攻击”。
-DeepSeek 由梁文峰于 2023 年创立，因使用更少的现金和更少的 GPU构建开源 AI 模型而备受关注，而美国严格的出口管制 阻止 Nvidia 等芯片制造商在中国销售高性能显卡，但这家初创公司仍成功构建了强大的 AI 模型。
-以下是有关 DeepSeek 的所有最新信息。]]></description>
-      <guid>https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai</guid>
-      <pubDate>Mon, 27 Jan 2025 20:20:05 GMT</pubDate>
+      <title>有关 Nvidia RTX 50 系列 GPU 的所有新闻</title>
+      <link>https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors</link>
+      <description><![CDATA[Nvidia 的 RTX 50 系列 GPU 即将问世，首批产品 RTX 5090 和 RTX 5080 将于 1 月 30 日上市。RTX 5070 Ti 和 RTX 5070 将于 2 月上市，但有些人已经开始抢先体验 […] 的软件优势]]></description>
+      <guid>https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors</guid>
+      <pubDate>Thu, 13 Feb 2025 22:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pebble 智能手表卷土重来</title>
-      <link>https://www.theverge.com/2025/1/27/24352968/pebble-smartwatch-open-source-google-comeback</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24352968/pebble-smartwatch-open-source-google-comeback</guid>
-      <pubDate>Mon, 27 Jan 2025 20:08:56 GMT</pubDate>
+      <title>Nvidia 将 RTX 5070 推迟到 AMD 发布之后</title>
+      <link>https://www.theverge.com/news/612650/nvidia-delays-rtx-5070-after-amd-9070</link>
+      <description><![CDATA[与往常一样，最重要的 Nvidia 显卡是您真正可以买到的显卡，而 Nvidia 对其 RTX 5070 大肆宣传，声称它可以以 549 美元的价格提供 RTX 4090 的性能，这一说法虽然可疑，但又不无微妙。2 月 28 日，AMD 将有机会用 Radeon RX 9070 来一决高下。]]></description>
+      <guid>https://www.theverge.com/news/612650/nvidia-delays-rtx-5070-after-amd-9070</guid>
+      <pubDate>Thu, 13 Feb 2025 22:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 18.3 发布，对 AI 通知摘要进行了调整</title>
-      <link>https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default</link>
-      <description><![CDATA[
-
-照片由 Amelia Holowaty Krales / The Verge 拍摄
-
-iOS 18.3 现已发布，它将对 iPhone 上的 AI 通知摘要进行更改。在 iOS 18.3 的发布说明中，Apple 表示已暂时禁用新闻和娱乐应用的通知摘要。
-此更改首次在 iOS 18.3 测试版中发现，此前BBC 对该功能进行了错误总结。如果您选择启用该功能，Apple 会在功能再次可用时通知您。 
-对于支持 Apple Intelligence 的 Apple 设备（iPhone 15 Pro 及更新机型、搭载 Apple Silicon M1 芯片或更新机型的 iPad 和 Mac 以及最新版本的 iPad mini），今天的更新也将默认开启 Apple Intelligence。 
-
-新 iPhone 更新带来的其他功能包括能够使用 Visual Intelligence 从海报或传单向日历应用添加事件，以及“轻松识别植物和动物”的方法。在 Mac 上，现在推出的 macOS 15.3 更新也增加了对 Genmoji 的支持，以及对通知摘要的类似更改。
-此外，iOS 18.3 将以斜体文本显示通知摘要，以帮助您将其与标准通知区分开来。还将有新的设置让您从锁定屏幕管理通知摘要。
-您可以前往 设置 &gt; 通用 &gt; 软件更新 下载 iOS 18.3 更新。]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default</guid>
-      <pubDate>Mon, 27 Jan 2025 18:44:25 GMT</pubDate>
+      <title>总统日最佳促销活动</title>
+      <link>https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech</link>
+      <description><![CDATA[今年情人节和总统日恰逢同一周末，这意味着在这两个节日期间，有很多打折活动可以趁机而来。值得庆幸的是，如果你想抢占先机，亚马逊、百思买和其他零售商已经对大量科技产品打折，包括我们热衷的一些产品 […]]]></description>
+      <guid>https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech</guid>
+      <pubDate>Thu, 13 Feb 2025 21:59:27 GMT</pubDate>
     </item>
     <item>
-      <title>Meta AI 将利用其“记忆”提供更好的建议</title>
-      <link>https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization</link>
-      <description><![CDATA[
-
-Nick Barclay / The Verge 插图
-
-Meta 正在广泛推出其 AI 聊天机器人“记住”您的某些细节（例如您的饮食偏好或兴趣）的功能，该公司在一份声明中表示周一博客文章。然后，它将使用您过去的对话以及来自 Facebook 和 Instagram 帐户的详细信息来提供更相关的建议。
-Meta 去年首次开始为其 AI 聊天机器人推出记忆功能，但现在它将在美国和加拿大的 iOS 和 Android 上的 Facebook、Messenger 和 WhatsApp 上提供。虽然你可以告诉 Meta AI 记住某些事情，比如你喜欢旅行，但它也会“根据上下文获取重要细节”。 
-例如，如果 Meta AI 为您提供了包含肉类的食谱，而您回答说您是素食主义者，那么聊天机器人将调整其未来的响应以适应您的偏好。
-
-
-图片：Meta
-
-
-除了这些“记忆”之外，Facebook、Messenger 和 Instagram 上的 Meta AI 还将使用您在每个平台上的帐户中的信息（包括您的年龄、性别和“基于您的活动的兴趣”）提供“更高水平的个性化”，根据 Meta 的支持页面。
-正如 Meta 所指出的，如果您要求其聊天机器人与家人一起做一些有趣的事情，Meta AI 可以使用您 Facebook 个人资料中列出的家庭位置以及最近观看的展示现场乡村表演的卷轴来推荐当地的乡村音乐节目。当被问及是否可以禁用个性化功能时，Meta 发言人 Emil Vazquez 表示，该公司“目前不提供这些功能的退出选项”，并补充说“我们相信最好的体验是个性化的。”
-Meta 表示，其人工智能只会记住一对一对话中的事情，而不会记住群聊中的事情，并且你可以“随时”删除它的记忆。 ChatGPT 和 Google Gemini 等聊天机器人已经具有类似的功能。
-1 月 27 日更新：添加了来自 Meta 的更多信息。
-]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization</guid>
-      <pubDate>Mon, 27 Jan 2025 17:46:13 GMT</pubDate>
+      <title>谷歌最新款 Pixel 手机降价至最优惠价格</title>
+      <link>https://www.theverge.com/good-deals/612322/google-pixel-9-deal-sale</link>
+      <description><![CDATA[如果你正在寻找一款出色的 Android 手机，多家零售商正在提供我们所见过的谷歌设备的最佳价格。例如，上一代 Pixel 8（8GB RAM/128GB 存储）在亚马逊和百思买的起价为 399 美元（优惠 300 美元），但真正的亮点是 Pixel 9 系列。对 […]]]></description>
+      <guid>https://www.theverge.com/good-deals/612322/google-pixel-9-deal-sale</guid>
+      <pubDate>Thu, 13 Feb 2025 21:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的体育应用现在可以告诉你在哪里可以观看全国直播的比赛</title>
-      <link>https://www.theverge.com/2025/1/27/24353035/apple-sports-app-ios-iphone-broadcast-information-where-to-watch</link>
-      <description><![CDATA[
-
-Apple Sports 应用已更新，包含面向美国用户的广播信息。 |截图：David Pierce / The Verge
-
-Apple 今天更新了其 iOS Sports 应用，增加了多项新功能，包括更快捷的应用导航方式、对一些额外足球锦标赛的支持，以及有关在哪里可以观看美国全国直播的比赛的信息。
-根据更新的发布说明，您现在可以快速“向左或向右滑动以浏览您关注的所有联赛和球队”。在特定比赛的页面上，如果可以通过多种方式观看，那么在每支球队的名称和赛季记录下方，您现在会发现一行额外的广播信息，例如“NHL 网络直播”或“TNT、Max、truTV 直播”。
-
-
-截图：Richard Lawler / The Verge
-Apple Sports 应用程序现在提供有关在美国哪里可以观看全国直播比赛的简要信息。
-
-此次更新还扩大了 Sports 应用程序的足球报道范围，增加了英国足总杯、英格兰足球联赛冠军赛和联赛杯锦标赛。
-Apple Sports 于 2 月推出，为 NBA、NHL 和 MLS 等几大体育联盟的球迷提供了一站式解决方案，让他们可以随时了解比分、统计数据、即将举行的比赛，甚至投注赔率。 8 月，该应用为 NFL 和大学橄榄球比赛添加了实时比分和逐场信息，并扩展了“针对应用中所有球队和联赛”的实时活动支持，让用户能够更轻松地在 iPhone 的锁定屏幕和 Apple Watch 上追踪比赛。
-12 月，该应用还在一款名为 Key Plays 的游戏中引入了得分比赛和重要时刻摘要，此外还提供了联赛排名，让用户能够更轻松地追踪哪些球队有资格进入季后赛。]]></description>
-      <guid>https://www.theverge.com/2025/1/27/24353035/apple-sports-app-ios-iphone-broadcast-information-where-to-watch</guid>
-      <pubDate>Mon, 27 Jan 2025 17:32:12 GMT</pubDate>
+      <title>如果你在禁令后删除了 TikTok，如何将其恢复到手机上</title>
+      <link>https://www.theverge.com/how-to/612030/tiktok-ban-app-ios-android-how-to</link>
+      <description><![CDATA[更新：苹果和谷歌已将 TikTok 恢复到美国各自的应用商店。现在，您可以通过平台的本地商店再次下载适用于 iOS 的 TikTok 和适用于 Android 的 TikTok。从技术上讲，对 TikTok 的禁令仍然有效，但特朗普总统已下令其政府在 75 天内不要执行该禁令，[…]]]></description>
+      <guid>https://www.theverge.com/how-to/612030/tiktok-ban-app-ios-android-how-to</guid>
+      <pubDate>Thu, 13 Feb 2025 21:18:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
