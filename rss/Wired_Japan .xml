@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Sat, 15 Feb 2025 06:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:18:23 GMT</lastBuildDate>
+    <item>
+      <title>Imma的开发公司将如何建立“与虚拟人类交谈”的愿望？</title>
+      <link>https://wired.jp/article/ai-imma/</link>
+      <description><![CDATA[Imma是虚拟人类的先驱，于2025年1月首次出现在日本电视广告中。现在，虚拟人类不再是新的，开发公司AWW正在与NVDIA合作，与AI一起开发虚拟人。什么原因？]]></description>
+      <guid>https://wired.jp/article/ai-imma/</guid>
+      <pubDate>Sat, 15 Feb 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>墨西哥湾成为美国的海湾。查看每个在线地图的名称更改</title>
       <link>https://wired.jp/article/online-maps-gulf-of-mexico-name-change/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用机器学习，弦理论研究人员最终开始展示如何将过剩维的显微镜结构转换为基本粒子集。但是，它似乎还不与我们的宇宙相符。]]></description>
       <guid>https://wired.jp/article/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/</guid>
       <pubDate>Wed, 12 Feb 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆·奥特曼（Sam Altman）拒绝埃隆·马斯克（Elon Musk）在员工文件中获取OpenAI的提议</title>
-      <link>https://wired.jp/article/sam-altman-openai-reject-elon-musk-bid/</link>
-      <description><![CDATA[在给员工的一封信中，Openai的Sam Altman尚未收到Elon Musk的正式购买要约，并表示对拒绝任何建议的立场。]]></description>
-      <guid>https://wired.jp/article/sam-altman-openai-reject-elon-musk-bid/</guid>
-      <pubDate>Wed, 12 Feb 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
