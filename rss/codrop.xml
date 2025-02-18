@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 18 Feb 2025 01:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 15:20:24 GMT</lastBuildDate>
+    <item>
+      <title>渲染模拟理论：探索分形，GLSL和现实的本质</title>
+      <link>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</link>
+      <description><![CDATA[对分形，GLSL和模拟理论的探索，揭示了它们与艺术，数学和现实本质的深厚联系。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</guid>
+      <pubDate>Tue, 18 Feb 2025 13:46:11 GMT</pubDate>
+    </item>
     <item>
       <title>用三个。</title>
       <link>https://tympanus.net/codrops/2025/02/17/implementing-a-dissolve-effect-with-shaders-and-particles-in-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用Thriph.js，着色器和MSDF-Text-Utils在3D空间中创建圆形文本动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</guid>
       <pubDate>Mon, 03 Feb 2025 13:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIM：一个采用运动基础化的个人网站模板</title>
-      <link>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</link>
-      <description><![CDATA[NIM是由Next.JS 15，React 19，Tailwind CSS V4和运动主导物质的免费开源个人网站模板，具有微妙的，预先构建的动画。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/01/nim-nextjs-react-tailwind-motion-template/</guid>
-      <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
