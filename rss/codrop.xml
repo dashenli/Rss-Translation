@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Wed, 19 Feb 2025 09:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:33:05 GMT</lastBuildDate>
+    <item>
+      <title>运动突出显示＃2</title>
+      <link>https://tympanus.net/codrops/2025/02/19/motion-highlights-2/</link>
+      <description><![CDATA[精选的最新运动设计和动画趋势的精选选择，以使您受到启发和循环。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/19/motion-highlights-2/</guid>
+      <pubDate>Wed, 19 Feb 2025 08:45:37 GMT</pubDate>
+    </item>
     <item>
       <title>渲染模拟理论：探索分形，GLSL和现实的本质</title>
       <link>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[最佳技术的细分，可以在三分中创建逼真的草，而不会杀死性能。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</guid>
       <pubDate>Tue, 04 Feb 2025 12:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用三个。</title>
-      <link>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</link>
-      <description><![CDATA[了解如何使用Thriph.js，着色器和MSDF-Text-Utils在3D空间中创建圆形文本动画。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/03/building-an-on-scroll-3d-circle-text-animation-with-three-js-and-shaders/</guid>
-      <pubDate>Mon, 03 Feb 2025 13:17:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
