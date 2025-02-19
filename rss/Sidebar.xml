@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 19 Feb 2025 12:33:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 15:22:59 GMT</lastBuildDate>
+    <item>
+      <title>AI表情符号发电机</title>
+      <link>https://www.emojis.com/</link>
+      <description><![CDATA[将想法变成表情符号，并仅一键单击生成您喜欢的休闲或不和谐表情符号。
+ ]]></description>
+      <guid>https://www.emojis.com/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我几周的生活</title>
+      <link>https://weeks.ginatrapani.org/</link>
+      <description><![CDATA[吉娜·特拉帕尼（Gina Trapani）生活的互动可视化；每个星期还活着是一个小盒子。
+ ]]></description>
+      <guid>https://weeks.ginatrapani.org/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>更名</title>
+      <link>https://leszinc.fr/projet/rebranding-marque-tour-eiffel-2-2/</link>
+      <description><![CDATA[新的视觉认同探讨了其历史意义，演变和保持其标志性地位在现代时代的策略。
+ ]]></description>
+      <guid>https://leszinc.fr/projet/rebranding-marque-tour-eiffel-2-2/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮票：美化您的屏幕截图</title>
+      <link>https://postspark.app/</link>
+      <description><![CDATA[快速为具有可自定义背景的社交媒体，浏览器框架，宽高比，边界等创建漂亮的屏幕截图。 
+ ]]></description>
+      <guid>https://postspark.app/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>是第一个字节的时间：超越服务器响应时间</title>
+      <link>https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</link>
+      <description><![CDATA[第一个字节（TTFB）的时间至关重要，但是改进它需要调整服务器响应时间。
+ ]]></description>
+      <guid>https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>伟大的AI UI统一</title>
       <link>https://spyglass.org/chatgpt-ai-ui/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://draganbabic.com/blog/how-do-we-sell-product-design-when-no-one-is-buying/</guid>
       <pubDate>Mon, 17 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应状态</title>
-      <link>https://2024.stateofreact.com/en-US</link>
-      <description><![CDATA[ 2024年的年度调查有关React生态系统最新趋势的年度调查。
- ]]></description>
-      <guid>https://2024.stateofreact.com/en-US</guid>
-      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们知道的编程结束</title>
-      <link>https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/</link>
-      <description><![CDATA[媒体上有很多chat不休，软件开发人员很快就会失去AI的工作。蒂姆·奥赖利（Tim O’Reilly）不买。
- ]]></description>
-      <guid>https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/</guid>
-      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>评估叠加效率的可访问性产品</title>
-      <link>https://ericwbailey.website/published/evaluating-overlay-adjacent-accessibility-products/</link>
-      <description><![CDATA[评估声称神奇解决可访问性问题的解决方案的标题。
- ]]></description>
-      <guid>https://ericwbailey.website/published/evaluating-overlay-adjacent-accessibility-products/</guid>
-      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在预算上构建个人AI计算机</title>
-      <link>https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/</link>
-      <description><![CDATA[试图在不花费太多花费的情况下构建这样有能力的AI计算机。
- ]]></description>
-      <guid>https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/</guid>
-      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么每个人都痴迷于聊天界面？</title>
-      <link>https://zehfernandes.com/posts/why-is-everyone-obsessed-with-chat-interfaces</link>
-      <description><![CDATA[产品非常着迷于展示创新，以至于他们到处添加聊天框，而不是实际解决用户的问题。
- ]]></description>
-      <guid>https://zehfernandes.com/posts/why-is-everyone-obsessed-with-chat-interfaces</guid>
-      <pubDate>Fri, 14 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
