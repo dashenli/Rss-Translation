@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Thu, 20 Feb 2025 03:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 09:20:18 GMT</lastBuildDate>
+    <item>
+      <title>开发人员聚光灯：法比奥·卡雷蒂（Fabio Carretti）</title>
+      <link>https://tympanus.net/codrops/2025/02/20/developer-spotlight-fabio-carretti/</link>
+      <description><![CDATA[从MySpace概况到AI驱动的项目，Fabio Carretti反思了他作为开发商的发展，创造性的旅程以及使他前进的热情。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/20/developer-spotlight-fabio-carretti/</guid>
+      <pubDate>Thu, 20 Feb 2025 07:10:01 GMT</pubDate>
+    </item>
     <item>
       <title>运动突出显示＃2</title>
       <link>https://tympanus.net/codrops/2025/02/19/motion-highlights-2/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[玩家俱乐部是展示音乐艺术家的免费Astro模板，这是与Alex Tkachev合作建立的概念证明。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</guid>
       <pubDate>Wed, 05 Feb 2025 13:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用三分制作最蓬松的草</title>
-      <link>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</link>
-      <description><![CDATA[最佳技术的细分，可以在三分中创建逼真的草，而不会杀死性能。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/04/how-to-make-the-fluffiest-grass-with-three-js/</guid>
-      <pubDate>Tue, 04 Feb 2025 12:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
