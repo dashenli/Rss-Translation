@@ -2,9 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>墙纸的最新消息</title>
-    <link>https://www.wallpaper.com</link>
+    <link>https://www.wallpaper.com/rss.xml</link>
     <description>壁纸团队的所有最新内容</description>
-    <lastBuildDate>Thu, 20 Feb 2025 12:31:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:18:58 GMT</lastBuildDate>
+    <item>
+      <title>“没有什么是因为它很漂亮”：表演艺术家玛丽娜·阿布拉莫维奇（MarinaAbramović）转向家具设计</title>
+      <link>https://www.wallpaper.com/design-interiors/marina-abramovic-interview-furniture-design-2025</link>
+      <description><![CDATA[玛丽娜·阿布拉莫维奇（MarinaAbramović）对将她的segue描述为“驯化”没有任何疑问。但是，当她揭露了椅子的集合时，她认为“表演艺术的祖母”，这不必挑衅才能有意义]]></description>
+      <guid>https://www.wallpaper.com/design-interiors/marina-abramovic-interview-furniture-design-2025</guid>
+      <pubDate>Thu, 20 Feb 2025 12:49:03 GMT</pubDate>
+    </item>
     <item>
       <title>Defiant艺术家Fawn Rogers撰写的洛杉矶当地指南</title>
       <link>https://www.wallpaper.com/travel/fawn-rogers-guide-to-los-angeles</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[trompe l&#39;Oeil，扭曲的轮廓，意外的捏造：S/S 2025看到设计师以越来越超现实的方式在衣柜中玩耍]]></description>
       <guid>https://www.wallpaper.com/fashion-beauty/ss-2025-trend-twisted-wardrobe-staples</guid>
       <pubDate>Tue, 18 Feb 2025 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人陶醉的香水可以“困扰，诱惑和诱惑”</title>
-      <link>https://www.wallpaper.com/fashion-beauty/intoxicating-perfumes</link>
-      <description><![CDATA[汉娜·廷德尔（Hannah Tindle）写道]]></description>
-      <guid>https://www.wallpaper.com/fashion-beauty/intoxicating-perfumes</guid>
-      <pubDate>Tue, 18 Feb 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
