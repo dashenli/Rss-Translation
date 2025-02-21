@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Fri, 21 Feb 2025 01:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 09:19:15 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚光灯：伊万·戈布诺夫（Ivan Gorbunov）</title>
+      <link>https://tympanus.net/codrops/2025/02/21/designer-spotlight-ivan-gorbunov/</link>
+      <description><![CDATA[探索伊万·戈布诺夫（Ivan Gorbunov）的极简主义，创造力和功能设计的方法。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/21/designer-spotlight-ivan-gorbunov/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>开发人员聚光灯：法比奥·卡雷蒂（Fabio Carretti）</title>
       <link>https://tympanus.net/codrops/2025/02/20/developer-spotlight-fabio-carretti/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用p5.brush.js和流畅的动画创建一个有趣的定格蜡笔光标效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</guid>
       <pubDate>Thu, 06 Feb 2025 10:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩家俱乐部：展示音乐艺术家的免费Astro模板</title>
-      <link>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</link>
-      <description><![CDATA[玩家俱乐部是展示音乐艺术家的免费Astro模板，这是与Alex Tkachev合作建立的概念证明。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/05/players-club-free-astro-template/</guid>
-      <pubDate>Wed, 05 Feb 2025 13:14:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
