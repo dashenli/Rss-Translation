@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 21 Feb 2025 12:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 15:20:19 GMT</lastBuildDate>
+    <item>
+      <title>优化网络性能的图像</title>
+      <link>https://frontendmasters.com/blog/optimizing-images-for-web-performance/</link>
+      <description><![CDATA[以正确格式的图像，从CDN和正确的HTML上可以是一个很大的性能。
+ ]]></description>
+      <guid>https://frontendmasters.com/blog/optimizing-images-for-web-performance/</guid>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类的最后考试</title>
+      <link>https://maggieappleton.com/2025-02-last-exam/</link>
+      <description><![CDATA[显然需要更艰难的基准测量模型性能。
+ ]]></description>
+      <guid>https://maggieappleton.com/2025-02-last-exam/</guid>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将徽标变成液态金属</title>
+      <link>http://liquid.paper.design/</link>
+      <description><![CDATA[一个简单的工具，您可以在其中进行分散，液化和其他效果。
+ ]]></description>
+      <guid>http://liquid.paper.design/</guid>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI杀死了技术采访。现在是什么？</title>
+      <link>https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/</link>
+      <description><![CDATA[我们如何在AI时代进行更好的访谈。
+ ]]></description>
+      <guid>https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/</guid>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>案例研究：三星插图系统</title>
+      <link>https://illo.tv/samsung-health-illustration-system</link>
+      <description><![CDATA[鲜艳的颜色，渐变和动态布局 - 以及奇特的微小反应，激励着世界各地的健康受众。
+ ]]></description>
+      <guid>https://illo.tv/samsung-health-illustration-system</guid>
+      <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>设计游戏发生了变化，我不知道我还适合哪里</title>
       <link>https://uxdesign.cc/the-design-game-has-changed-and-i-dont-know-where-i-fit-anymore-d1e414c2ea9c</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</guid>
       <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伟大的AI UI统一</title>
-      <link>https://spyglass.org/chatgpt-ai-ui/</link>
-      <description><![CDATA[想象一下：一个没有选项的输入框。您只需键入某些内容，而Chatgpt会发现您的意图。令人震惊的嗯。
- ]]></description>
-      <guid>https://spyglass.org/chatgpt-ai-ui/</guid>
-      <pubDate>Tue, 18 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微小的</title>
-      <link>https://mistic100.github.io/tinygradient/</link>
-      <description><![CDATA[一个简单的梯度发生器。只是。
- ]]></description>
-      <guid>https://mistic100.github.io/tinygradient/</guid>
-      <pubDate>Tue, 18 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>XR可访问性：针对运动残疾人</title>
-      <link>https://tetralogical.com/blog/2024/12/09/xr-accessibility-for-people-with-moving-disabilities/</link>
-      <description><![CDATA[扩展现实（XR）体验如何考虑无法搬家的人的替代输入方法。
- ]]></description>
-      <guid>https://tetralogical.com/blog/2024/12/09/xr-accessibility-for-people-with-moving-disabilities/</guid>
-      <pubDate>Tue, 18 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>绝望的UX投资组合</title>
-      <link>https://desperate-ux-portfolio.framer.website/</link>
-      <description><![CDATA[富有创意的UX投资组合融合了伤心欲绝，hustle和幽默的内gui-Trip招聘人员招聘。
- ]]></description>
-      <guid>https://desperate-ux-portfolio.framer.website/</guid>
-      <pubDate>Tue, 18 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何测试和测量UX中的内容</title>
-      <link>https://www.smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</link>
-      <description><![CDATA[一些简单的技术来评估用户如何理解和感知内容。 
- ]]></description>
-      <guid>https://www.smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</guid>
-      <pubDate>Tue, 18 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
