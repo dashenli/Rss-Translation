@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 24 Feb 2025 09:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 12:34:59 GMT</lastBuildDate>
+    <item>
+      <title>是时候设计更少思考和更多</title>
+      <link>https://www.doc.cc/articles/time-for-design-to-think-less-and-feel-more</link>
+      <description><![CDATA[通过拥抱对逻辑的敏感性，设计师可以从旧的大师那里学习并创建与人类重新连接的新解决方案。
+ ]]></description>
+      <guid>https://www.doc.cc/articles/time-for-design-to-think-less-and-feel-more</guid>
+      <pubDate>Mon, 24 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>逮捕现实</title>
+      <link>https://nathanbeck.eu/essays/arresting-reality/</link>
+      <description><![CDATA[关于每天寻找崇高的文章。
+ ]]></description>
+      <guid>https://nathanbeck.eu/essays/arresting-reality/</guid>
+      <pubDate>Mon, 24 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：像素化审查员</title>
+      <link>https://www.figma.com/community/plugin/1465577718044406415/pixelated-censor</link>
+      <description><![CDATA[对无花果中的任何一层创建一个像素化的审查效果。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1465577718044406415/pixelated-censor</guid>
+      <pubDate>Mon, 24 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>结肠癌</title>
+      <link>https://karuna.dev/colormaxxing/</link>
+      <description><![CDATA[简短的帖子将经典的SRGB颜色与P3颜色空间中的“更强”版本进行了比较。
+ ]]></description>
+      <guid>https://karuna.dev/colormaxxing/</guid>
+      <pubDate>Mon, 24 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>复选框互动：布局动画的美丽</title>
+      <link>https://reactiive.io/articles/checkbox-interactions</link>
+      <description><![CDATA[布局过渡如何使用最小代码创建复杂的动画的一个实际示例。
+ ]]></description>
+      <guid>https://reactiive.io/articles/checkbox-interactions</guid>
+      <pubDate>Mon, 24 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>优化网络性能的图像</title>
       <link>https://frontendmasters.com/blog/optimizing-images-for-web-performance/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.youtube.com/watch?v=sglbIVO9IQQ</guid>
       <pubDate>Thu, 20 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI表情符号发电机</title>
-      <link>https://www.emojis.com/</link>
-      <description><![CDATA[将想法变成表情符号，并仅一键单击生成您喜欢的休闲或不和谐表情符号。
- ]]></description>
-      <guid>https://www.emojis.com/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我几周的生活</title>
-      <link>https://weeks.ginatrapani.org/</link>
-      <description><![CDATA[吉娜·特拉帕尼（Gina Trapani）生活的互动可视化；每个星期还活着是一个小盒子。
- ]]></description>
-      <guid>https://weeks.ginatrapani.org/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>更名</title>
-      <link>https://leszinc.fr/projet/rebranding-marque-tour-eiffel-2-2/</link>
-      <description><![CDATA[新的视觉认同探讨了其历史意义，演变和保持其标志性地位在现代时代的策略。
- ]]></description>
-      <guid>https://leszinc.fr/projet/rebranding-marque-tour-eiffel-2-2/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮票：美化您的屏幕截图</title>
-      <link>https://postspark.app/</link>
-      <description><![CDATA[快速为具有可自定义背景的社交媒体，浏览器框架，宽高比，边界等创建漂亮的屏幕截图。 
- ]]></description>
-      <guid>https://postspark.app/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是第一个字节的时间：超越服务器响应时间</title>
-      <link>https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</link>
-      <description><![CDATA[第一个字节（TTFB）的时间至关重要，但是改进它需要调整服务器响应时间。
- ]]></description>
-      <guid>https://www.smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
