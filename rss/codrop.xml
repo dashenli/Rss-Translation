@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 24 Feb 2025 03:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 09:20:31 GMT</lastBuildDate>
+    <item>
+      <title>100天的网络实验：设计师进入未知的旅程</title>
+      <link>https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/</link>
+      <description><![CDATA[设计师的创意探索之旅 -  100天，100个实验以及一路上学到的教训。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/</guid>
+      <pubDate>Mon, 24 Feb 2025 06:31:50 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚光灯：伊万·戈布诺夫（Ivan Gorbunov）</title>
       <link>https://tympanus.net/codrops/2025/02/21/designer-spotlight-ivan-gorbunov/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[介绍Guillaume Lanier，创意＆＃038;位于阿姆斯特丹的Frontend开发人员，通过创新的2D/3D图形和交互式设计来制作沉浸式数字体验。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</guid>
       <pubDate>Fri, 07 Feb 2025 12:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在P5.JS中构建俏皮的定格蜡笔光标</title>
-      <link>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</link>
-      <description><![CDATA[使用p5.brush.js和流畅的动画创建一个有趣的定格蜡笔光标效果。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/06/building-a-playful-stop-motion-crayon-cursor-in-p5-js/</guid>
-      <pubDate>Thu, 06 Feb 2025 10:35:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
