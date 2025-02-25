@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 25 Feb 2025 06:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:19:02 GMT</lastBuildDate>
+    <item>
+      <title>从概念到代码：在托马斯·莫纳旺（Thomas Monavon＆GrégoryLallé）的创作过程中</title>
+      <link>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</link>
+      <description><![CDATA[发现法国二人组，托马斯·莫纳旺（Designer）和格雷戈里·拉莱（GrégoryLallé）（创意开发人员）的创作过程。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</guid>
+      <pubDate>Tue, 25 Feb 2025 07:51:43 GMT</pubDate>
+    </item>
     <item>
       <title>100天的网络实验：设计师进入未知的旅程</title>
       <link>https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[内部查看从头开始构建3D游戏原型背后的创作过程，挑战和工具。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</guid>
       <pubDate>Mon, 10 Feb 2025 14:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员聚光灯：Guillaume Lanier</title>
-      <link>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</link>
-      <description><![CDATA[介绍Guillaume Lanier，创意＆＃038;位于阿姆斯特丹的Frontend开发人员，通过创新的2D/3D图形和交互式设计来制作沉浸式数字体验。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/07/developer-spotlight-guillaume-lanier/</guid>
-      <pubDate>Fri, 07 Feb 2025 12:48:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
