@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Wed, 26 Feb 2025 03:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 09:19:38 GMT</lastBuildDate>
+    <item>
+      <title>WebGPU流体模拟：高性能和实时渲染</title>
+      <link>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</link>
+      <description><![CDATA[详细介绍了使用WebGPU进行高性能，实时和视觉上令人惊叹的流体模拟背后的技术。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</guid>
+      <pubDate>Wed, 26 Feb 2025 06:52:48 GMT</pubDate>
+    </item>
     <item>
       <title>从概念到代码：在托马斯·莫纳旺（Thomas Monavon＆GrégoryLallé）的创作过程中</title>
       <link>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[全面了解如何使用纤维，DREI和高级工具优化三分。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</guid>
       <pubDate>Tue, 11 Feb 2025 14:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在浏览器中创建我的第一个游戏原型：到目前为止的旅程</title>
-      <link>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</link>
-      <description><![CDATA[内部查看从头开始构建3D游戏原型背后的创作过程，挑战和工具。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/10/creating-my-first-game-prototype-in-a-browser-the-journey-so-far/</guid>
-      <pubDate>Mon, 10 Feb 2025 14:10:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
