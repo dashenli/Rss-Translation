@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Thu, 27 Feb 2025 06:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 09:21:40 GMT</lastBuildDate>
+    <item>
+      <title>开发人员聚光灯：Maximilian Berndt</title>
+      <link>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</link>
+      <description><![CDATA[Maximilian Berndt融合了设计和开发，探索了网络上WebGL，动画和交互式体验的创造潜力。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</guid>
+      <pubDate>Thu, 27 Feb 2025 07:01:40 GMT</pubDate>
+    </item>
     <item>
       <title>WebGPU流体模拟：高性能和实时渲染</title>
       <link>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用Jhosue Mesias探索数字设计的艺术 - 精通界限，制作体验和重新定义创造力。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/13/designer-spotlight-jhosue-mesias/</guid>
       <pubDate>Thu, 13 Feb 2025 14:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立有效的三分。JS场景：优化性能的同时保持质量</title>
-      <link>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</link>
-      <description><![CDATA[全面了解如何使用纤维，DREI和高级工具优化三分。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:38:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
