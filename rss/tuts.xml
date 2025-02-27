@@ -4,7 +4,14 @@
     <title>envato tuts+教程</title>
     <link>https://tutsplus.com</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Feb 2025 18:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 15:21:53 GMT</lastBuildDate>
+    <item>
+      <title>了解3D渲染：初学者指南</title>
+      <link>https://photography.tutsplus.com/articles/understanding-3d-rendering-a-beginners-guide--cms-109097</link>
+      <description><![CDATA[]]></description>
+      <guid>https://photography.tutsplus.com/articles/understanding-3d-rendering-a-beginners-guide--cms-109097</guid>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何在样条中创建漫画文本效果</title>
       <link>https://design.tutsplus.com/tutorials/how-to-create-a-comicbook-text-effect-in-spline--cms-109123</link>
@@ -14,9 +21,9 @@
     </item>
     <item>
       <title>搅拌器周期与EEVEE：选择合适的渲染器</title>
-      <link>https://cgi.tutsplus.com/blender-cycles-vs-eevee--cms-109096a</link>
+      <link>https://photography.tutsplus.com/articles/blender-cycles-vs-eevee--cms-109096</link>
       <description><![CDATA[]]></description>
-      <guid>https://cgi.tutsplus.com/blender-cycles-vs-eevee--cms-109096a</guid>
+      <guid>https://photography.tutsplus.com/articles/blender-cycles-vs-eevee--cms-109096</guid>
       <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -80,13 +87,6 @@
       <link>https://photography.tutsplus.com/articles/director-feature-spike-lee--cms-109114</link>
       <description><![CDATA[]]></description>
       <guid>https://photography.tutsplus.com/articles/director-feature-spike-lee--cms-109114</guid>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建Bootstrap Light/Dark Toggle开关组件</title>
-      <link>https://webdesign.tutsplus.com/bootstrap-light-dark-toggle--cms-109112t</link>
-      <description><![CDATA[]]></description>
-      <guid>https://webdesign.tutsplus.com/bootstrap-light-dark-toggle--cms-109112t</guid>
       <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
