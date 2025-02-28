@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Fri, 28 Feb 2025 03:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 06:24:38 GMT</lastBuildDate>
+    <item>
+      <title>Openai的“ GPT-4.5”已宣布。与自然对话的大型模型</title>
+      <link>https://wired.jp/article/openai-gpt-45/</link>
+      <description><![CDATA[GPT-4.5于2月27日发布，被Openai称为“ Orion”。该模型是OpenAI开发的最大的模型，它将是第一个为Chatgpt Pro订阅用户访问它的人，价值每月200美元。]]></description>
+      <guid>https://wired.jp/article/openai-gpt-45/</guid>
+      <pubDate>Fri, 28 Feb 2025 04:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nikon“ Z6III”评论：最适合那些不专业但想获得尖端AF的相机</title>
       <link>https://wired.jp/article/nikon-z6-iii-review/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>节拍“ PowerBeats Pro 2”评论：新的进化运动耳机</title>
       <link>https://wired.jp/article/review/beats-powerbeats-pro-2/</link>
-      <description><![CDATA[Beats的大多数标志性锻炼耳机又回来了。该新模型具有新功能，例如主动噪声取消（ANC），外部声音捕获模式，空间音频和心率监控，并提高了声音质量和感觉，具有比以前更好的性能。]]></description>
+      <description><![CDATA[Beats的大多数标志性锻炼耳机又回来了。该新型号具有新功能，例如主动降噪（ANC），外部声音捕获模式，空间音频和心率监控，提供更好的声音质量和合身性，具有比以前更好的性能。]]></description>
       <guid>https://wired.jp/article/review/beats-powerbeats-pro-2/</guid>
       <pubDate>Thu, 27 Feb 2025 02:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一项新的研究表明，即使您饱了，也可以吃甜点，这并不是一种幻想。似乎这种“不同的腹部”感觉的机制是，当有机体识别糖时，它会刺激其“生存本能”。]]></description>
       <guid>https://wired.jp/article/dessert-stomach-is-real/</guid>
       <pubDate>Wed, 26 Feb 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拟人化宣布了世界上第一个“混合推断” AI模型“ Claude 3.7十四行诗”</title>
-      <link>https://wired.jp/article/anthropic-world-first-hybrid-reasoning-ai-model/</link>
-      <description><![CDATA[人类的“ Claude 3.7十四行诗”是最新的混合推理AI模型。除了传统的输出外，其他公司的模型之间的巨大差异是用户可以自由控制推理能力。]]></description>
-      <guid>https://wired.jp/article/anthropic-world-first-hybrid-reasoning-ai-model/</guid>
-      <pubDate>Tue, 25 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
