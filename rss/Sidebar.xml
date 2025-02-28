@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 09:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 12:34:13 GMT</lastBuildDate>
+    <item>
+      <title>制作软件</title>
+      <link>https://www.makingsoftware.co/</link>
+      <description><![CDATA[针对设计和构建软件的人的参考手册。
+ ]]></description>
+      <guid>https://www.makingsoftware.co/</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>50k无版权图标</title>
+      <link>https://www.figma.com/community/plugin/1333753396509792824/ikonik-50k-copyright-free-icons</link>
+      <description><![CDATA[一组50k+高品质图标，包含轮廓和填充格式，可编辑易于插入在无花果编辑器中。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1333753396509792824/ikonik-50k-copyright-free-icons</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>盈利的创业公司</title>
+      <link>https://linear.app/blog/the-profitable-startup</link>
+      <description><![CDATA[多年来，已经教授了初创企业将增长优先于其他所有事物。但是这种想法总是有缺陷的。
+ ]]></description>
+      <guid>https://linear.app/blog/the-profitable-startup</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>破冰船键盘</title>
+      <link>http://serene.industries/product/the-icebreaker-kit</link>
+      <description><![CDATA[超重65％的键盘，由铝制ft的坚固块制成。 
+ ]]></description>
+      <guid>http://serene.industries/product/the-icebreaker-kit</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄克斯</title>
+      <link>https://oklch.com/#70,0.1,332,100</link>
+      <description><![CDATA[新的CSS颜色4规范添加了用于声明颜色的新俄克拉省（）符号。此工具有助于转换。
+ ]]></description>
+      <guid>https://oklch.com/#70,0.1,332,100</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>不舒服</title>
       <link>https://www.theuncomfortable.com/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.interroban.gg/post/everything-in-its-place/</guid>
       <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>曼哈顿最艰难的字体</title>
-      <link>https://aresluna.org/the-hardest-working-font-in-manhattan/</link>
-      <description><![CDATA[一个您从未听说过的150年历史字体的故事 - 您今天早些时候可能看到了。
- ]]></description>
-      <guid>https://aresluna.org/the-hardest-working-font-in-manhattan/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南图形设计</title>
-      <link>https://vietgd.com/</link>
-      <description><![CDATA[越南图形设计的休闲索引，档案和庆祝活动。
- ]]></description>
-      <guid>https://vietgd.com/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>导航Web平台作弊表</title>
-      <link>https://patrickbrosset.com/lab/navigating-the-web-platform/</link>
-      <description><![CDATA[跟踪您可以使用的内容，网络浏览器中的新功能以及如何影响平台的开发。
- ]]></description>
-      <guid>https://patrickbrosset.com/lab/navigating-the-web-platform/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>标志AI：学习并为美国手语做出贡献</title>
-      <link>https://signs-ai.com/</link>
-      <description><![CDATA[通过交互式AI学习ASL或通过视频贡献。 
- ]]></description>
-      <guid>https://signs-ai.com/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新构想流体排版</title>
-      <link>https://www.oddbird.net/2025/02/12/fluid-type/</link>
-      <description><![CDATA[多年来，使用相对单元（尤其是EM和REM）进行尺寸的文本一直是“最佳实践”。但是我们是否在响应正确的输入？
- ]]></description>
-      <guid>https://www.oddbird.net/2025/02/12/fluid-type/</guid>
-      <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
