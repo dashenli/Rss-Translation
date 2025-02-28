@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Fri, 28 Feb 2025 03:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:22:03 GMT</lastBuildDate>
+    <item>
+      <title>设计师聚光灯：Isabel Moranta</title>
+      <link>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</link>
+      <description><![CDATA[探索屡获殊荣的创意和设计总监伊莎贝尔·莫兰塔（Isabel Moranta）在概念上富裕而醒目的世界，她分享了自己的旅程，灵感和最引人注目的项目。]]></description>
+      <guid>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:28:43 GMT</pubDate>
+    </item>
     <item>
       <title>开发人员聚光灯：Maximilian Berndt</title>
       <link>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何创建发射溶解效果，这是一种流行的游戏，用于平稳褪色或转换对象。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/17/implementing-a-dissolve-effect-with-shaders-and-particles-in-three-js/</guid>
       <pubDate>Mon, 17 Feb 2025 09:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚光灯：Jhosue Mesias</title>
-      <link>https://tympanus.net/codrops/2025/02/13/designer-spotlight-jhosue-mesias/</link>
-      <description><![CDATA[使用Jhosue Mesias探索数字设计的艺术 - 精通界限，制作体验和重新定义创造力。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/13/designer-spotlight-jhosue-mesias/</guid>
-      <pubDate>Thu, 13 Feb 2025 14:21:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
