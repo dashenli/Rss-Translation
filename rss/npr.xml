@@ -4,7 +4,14 @@
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
-    <lastBuildDate>Sun, 02 Mar 2025 18:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 21:14:40 GMT</lastBuildDate>
+    <item>
+      <title>华盛顿如何应对激烈的特朗普 - 泽伦斯基会议</title>
+      <link>https://www.npr.org/2025/03/02/g-s1-51593/trump-zelenskyy-meeting-republicans-reaction</link>
+      <description><![CDATA[特朗普顾问迈克·沃尔茨（Mike Waltz）表示，如果乌克兰总统泽伦斯基（Zelenskyy）在与俄罗斯的战争中不回到谈判桌子上，那么美国就有“真正的问题”。]]></description>
+      <guid>https://www.npr.org/2025/03/02/g-s1-51593/trump-zelenskyy-meeting-republicans-reaction</guid>
+      <pubDate>Sun, 02 Mar 2025 19:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>巴基斯坦不在自己的板球比赛中，但它的球迷仍然很高兴</title>
       <link>https://www.npr.org/2025/03/02/g-s1-51304/pakistan-cricket-icc-champions-trophy</link>
@@ -41,9 +48,9 @@
       <pubDate>Sun, 02 Mar 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>私人月球着陆器蓝色幽灵在月球上触摸</title>
+      <title>“我们在月球上”：私人蓝色幽灵航天器使历史悠久的月球着陆</title>
       <link>https://www.npr.org/2025/03/02/g-s1-51579/private-lunar-lander-blue-ghost-touches-down-on-the-moon</link>
-      <description><![CDATA[周日，一家载有NASA的训练和其他实验的私人月球着陆手在月球上降落，这是一系列希望在天体邻居上开展业务的公司。]]></description>
+      <description><![CDATA[周日清晨，一项携带NASA实验的商业航天器成功地在月球表面上降落，并迎来了新的私人空间探索阶段。]]></description>
       <guid>https://www.npr.org/2025/03/02/g-s1-51579/private-lunar-lander-blue-ghost-touches-down-on-the-moon</guid>
       <pubDate>Sun, 02 Mar 2025 10:43:37 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[该诉讼称，没有合理的理由将移民派往关塔那摩，因为美国有足够的拘留所。]]></description>
       <guid>https://www.npr.org/2025/03/01/g-s1-51567/aclu-sue-trump-migrants-guantanamo</guid>
       <pubDate>Sun, 02 Mar 2025 04:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普签署行政命令，使英语成为美国的官方语言</title>
-      <link>https://www.npr.org/2025/03/01/nx-s1-5313883/trump-english-official-language-executive-order</link>
-      <description><![CDATA[在美国将近250年的历史中，英语从未被指定为美国的官方语言。]]></description>
-      <guid>https://www.npr.org/2025/03/01/nx-s1-5313883/trump-english-official-language-executive-order</guid>
-      <pubDate>Sun, 02 Mar 2025 00:13:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
