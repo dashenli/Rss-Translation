@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Sun, 02 Mar 2025 03:27:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 09:21:19 GMT</lastBuildDate>
+    <item>
+      <title>CSS遇到体素艺术：建造带有堆叠网格的渲染引擎</title>
+      <link>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</link>
+      <description><![CDATA[了解转换，透视和堆叠的网格如何创建一个完全可寻址的3D空间，并突破纯CSS可能的边界。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</guid>
+      <pubDate>Mon, 03 Mar 2025 06:48:59 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚光灯：Isabel Moranta</title>
       <link>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对分形，GLSL和模拟理论的探索，揭示了它们与艺术，数学和现实本质的深厚联系。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</guid>
       <pubDate>Tue, 18 Feb 2025 13:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>用三个。</title>
-      <link>https://tympanus.net/codrops/2025/02/17/implementing-a-dissolve-effect-with-shaders-and-particles-in-three-js/</link>
-      <description><![CDATA[了解如何创建发射溶解效果，这是一种流行的游戏，用于平稳褪色或转换对象。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/17/implementing-a-dissolve-effect-with-shaders-and-particles-in-three-js/</guid>
-      <pubDate>Mon, 17 Feb 2025 09:32:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
