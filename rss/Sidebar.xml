@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 03 Mar 2025 12:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 15:23:18 GMT</lastBuildDate>
+    <item>
+      <title>产品策略应该凌乱</title>
+      <link>https://www.antmurphy.me/newsletter/product-strategy-should-be-messy</link>
+      <description><![CDATA[提出产品策略应该是混乱的。盒子活动中没有干净的填充。 
+ ]]></description>
+      <guid>https://www.antmurphy.me/newsletter/product-strategy-should-be-messy</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：exat模式生成器</title>
+      <link>https://www.figma.com/community/plugin/1406399113699033057/exat-pattern-generator</link>
+      <description><![CDATA[生成以本世纪中叶OP Art启发的自定义几何抽象视觉效果。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1406399113699033057/exat-pattern-generator</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>常见的dataviz可访问性问题</title>
+      <link>https://www.youtube.com/watch?v=z6jdEqz7qf8</link>
+      <description><![CDATA[通过实践实例，莎拉·福斯海姆（Sarah L.
+ ]]></description>
+      <guid>https://www.youtube.com/watch?v=z6jdEqz7qf8</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不良设计发生的真正原因</title>
+      <link>https://scottberkun.com/essays/22-the-list-of-reasons-ease-of-use-doesnt-happen-on-engineering-projects/</link>
+      <description><![CDATA[没有人打算做坏事，但是我们知道世界上有多少设计的设计。 
+ ]]></description>
+      <guid>https://scottberkun.com/essays/22-the-list-of-reasons-ease-of-use-doesnt-happen-on-engineering-projects/</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么策略不仅需要研讨会</title>
+      <link>https://newsletter.herbig.co/posts/351</link>
+      <description><![CDATA[证据的选择击败了美丽的画布。这是从戏剧到真实决定的方法。
+ ]]></description>
+      <guid>https://newsletter.herbig.co/posts/351</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>制作软件</title>
       <link>https://www.makingsoftware.co/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://intertwingled.org/natural-information-architecture/</guid>
       <pubDate>Thu, 27 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>电话中的两个AI代理商</title>
-      <link>https://x.com/ggerganov/status/1894057587441566081</link>
-      <description><![CDATA[在某个时候，他们决定切换到Gibberlink提高效率。每当沟通不畅发生在工作中时，我都会想到这一点。 
- ]]></description>
-      <guid>https://x.com/ggerganov/status/1894057587441566081</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>波形渲染器</title>
-      <link>https://waveform-renderer.vercel.app/</link>
-      <description><![CDATA[上传音频文件以呈现其波形，并具有自定义样式选项。
- ]]></description>
-      <guid>https://waveform-renderer.vercel.app/</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个新的Adobe Photoshop应用程序即将到达iPhone</title>
-      <link>https://www.engadget.com/apps/a-new-adobe-photoshop-app-is-coming-to-iphones-140003461.html</link>
-      <description><![CDATA[及时，嗯。 Adobe已推出了一个全新的Photoshop应用程序，用于iPhone，它说是从头开始构建的。 
- ]]></description>
-      <guid>https://www.engadget.com/apps/a-new-adobe-photoshop-app-is-coming-to-iphones-140003461.html</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wikitimeline</title>
-      <link>https://wiki-timeline.com/</link>
-      <description><![CDATA[将Wikipedia文章转变为美丽的互动时间表。比较历史事件并以视觉方式探索历史。
- ]]></description>
-      <guid>https://wiki-timeline.com/</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切都在这里</title>
-      <link>https://www.interroban.gg/post/everything-in-its-place/</link>
-      <description><![CDATA[在生活的各个方面都应用“ mise en place”的概念。
- ]]></description>
-      <guid>https://www.interroban.gg/post/everything-in-its-place/</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
