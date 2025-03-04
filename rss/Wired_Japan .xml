@@ -4,7 +4,21 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Tue, 04 Mar 2025 01:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 03:27:35 GMT</lastBuildDate>
+    <item>
+      <title>2025年2月发行的五篇著名文章由日语版本的“有线”编辑部门选出</title>
+      <link>https://wired.jp/article/editors-5-stories-february-2025/</link>
+      <description><![CDATA[In an article published on WIRED.jp this February, we will introduce five stories that our editorial department has been attracting attention, including an interview with veig, a landscape gardening unit that handles the gardens of the fashion brand LEMAIRE, which opened its flagship store in Ebisu, Tokyo, and an explanation of Microsoft&#39;s new chip, Majorana 1, by quantum physicists.]]></description>
+      <guid>https://wired.jp/article/editors-5-stories-february-2025/</guid>
+      <pubDate>Tue, 04 Mar 2025 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doge对美国政府的接管带来了不可想象的危机</title>
+      <link>https://wired.jp/article/doge-worse-than-you-think/</link>
+      <description><![CDATA[政府效率部（DOGE）接一个地控制了美国政府的主要机构，迫使大规模的人员减少。驳回具有专业知识的员工可能会导致行政职能崩溃，这可能会使情况变得更糟。]]></description>
+      <guid>https://wired.jp/article/doge-worse-than-you-think/</guid>
+      <pubDate>Tue, 04 Mar 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone的新进入模型是AI时代的“标准机”：2025年2月的10个读取的故事</title>
       <link>https://wired.jp/article/10-most-read-stories-february-2025/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[AI刮板忽略了未经许可的网站，未经许可就没有刮擦并收集数据。欺骗和捕获这个故事的AI攻击工具的反企业工程师告诉我们“抵抗的风格”。]]></description>
       <guid>https://wired.jp/article/sz-ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/</guid>
       <pubDate>Fri, 28 Feb 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>他调查了刚果大规模爆发未知原因。发病48小时内许多死亡</title>
-      <link>https://wired.jp/article/a-deadly-unidentified-disease-has-emerged-in-the-drc-ebola-marburg/</link>
-      <description><![CDATA[中非刚果民主共和国发生了无法解释的群众爆发，已有60多人已经死亡。据说其中许多人在发病后的48小时内致命。 WHO调查报告说，这不是埃博拉病毒或马堡热，有些人对疟疾的测试呈阳性。]]></description>
-      <guid>https://wired.jp/article/a-deadly-unidentified-disease-has-emerged-in-the-drc-ebola-marburg/</guid>
-      <pubDate>Fri, 28 Feb 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai的“ GPT-4.5”已宣布。与自然对话的大型模型</title>
-      <link>https://wired.jp/article/openai-gpt-45/</link>
-      <description><![CDATA[GPT-4.5于2月27日发布，被Openai称为“ Orion”。该模型是OpenAI开发的最大的模型，它将是第一个为Chatgpt Pro订阅用户访问它的人，价值每月200美元。]]></description>
-      <guid>https://wired.jp/article/openai-gpt-45/</guid>
-      <pubDate>Fri, 28 Feb 2025 04:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
