@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 04 Mar 2025 03:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:19:12 GMT</lastBuildDate>
+    <item>
+      <title>用反应三个纤维产生风格化的水效应</title>
+      <link>https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/</link>
+      <description><![CDATA[使用React三纤维，了解如何使用动态运动来制作光滑，卡通风格的水效应，以优化性能。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/</guid>
+      <pubDate>Tue, 04 Mar 2025 08:03:18 GMT</pubDate>
+    </item>
     <item>
       <title>CSS遇到体素艺术：建造带有堆叠网格的渲染引擎</title>
       <link>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[精选的最新运动设计和动画趋势的精选选择，以使您受到启发和循环。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/19/motion-highlights-2/</guid>
       <pubDate>Wed, 19 Feb 2025 08:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>渲染模拟理论：探索分形，GLSL和现实的本质</title>
-      <link>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</link>
-      <description><![CDATA[对分形，GLSL和模拟理论的探索，揭示了它们与艺术，数学和现实本质的深厚联系。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/18/rendering-the-simulation-theory-exploring-fractals-glsl-and-the-nature-of-reality/</guid>
-      <pubDate>Tue, 18 Feb 2025 13:46:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
