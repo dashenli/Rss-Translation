@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 05 Mar 2025 01:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 03:27:20 GMT</lastBuildDate>
+    <item>
+      <title>Shadergpt</title>
+      <link>https://shadergpt.14islands.com/</link>
+      <description><![CDATA[用自然语言构建GLSL着色器。
+ ]]></description>
+      <guid>https://shadergpt.14islands.com/</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>404杂志</title>
+      <link>https://404.computer/</link>
+      <description><![CDATA[ Zine探索UX写作和诗歌的交集。
+ ]]></description>
+      <guid>https://404.computer/</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>氛围编码</title>
+      <link>https://alexp.pl/2025/02/19/vibe-coding.html</link>
+      <description><![CDATA[似乎很害怕，但不一定是因为AI可能从事我们的工作。
+ ]]></description>
+      <guid>https://alexp.pl/2025/02/19/vibe-coding.html</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统团队士气的存在挑战</title>
+      <link>https://pjonori.blog/posts/design-system-morale/</link>
+      <description><![CDATA[设计系统很难。但是猜怎么着？设计和工程的其他所有学科也是如此。
+ ]]></description>
+      <guid>https://pjonori.blog/posts/design-system-morale/</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>现金应用品牌指南</title>
+      <link>https://design.cash.app/</link>
+      <description><![CDATA[在结构秩序和爆炸性自由之间的紧张关系上壮成长的品牌。
+ ]]></description>
+      <guid>https://design.cash.app/</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>越过对话声音的奇特山谷</title>
       <link>https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://newsletter.herbig.co/posts/351</guid>
       <pubDate>Mon, 03 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作软件</title>
-      <link>https://www.makingsoftware.co/</link>
-      <description><![CDATA[针对设计和构建软件的人的参考手册。
- ]]></description>
-      <guid>https://www.makingsoftware.co/</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>50k无版权图标</title>
-      <link>https://www.figma.com/community/plugin/1333753396509792824/ikonik-50k-copyright-free-icons</link>
-      <description><![CDATA[一组50k+高品质图标，包含轮廓和填充格式，可编辑易于插入在无花果编辑器中。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1333753396509792824/ikonik-50k-copyright-free-icons</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>盈利的创业公司</title>
-      <link>https://linear.app/blog/the-profitable-startup</link>
-      <description><![CDATA[多年来，已经教授了初创企业将增长优先于其他所有事物。但是这种想法总是有缺陷的。
- ]]></description>
-      <guid>https://linear.app/blog/the-profitable-startup</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>破冰船键盘</title>
-      <link>http://serene.industries/product/the-icebreaker-kit</link>
-      <description><![CDATA[超重65％的键盘，由铝制ft的坚固块制成。 
- ]]></description>
-      <guid>http://serene.industries/product/the-icebreaker-kit</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄克斯</title>
-      <link>https://oklch.com/#70,0.1,332,100</link>
-      <description><![CDATA[新的CSS颜色4规范添加了用于声明颜色的新俄克拉省（）符号。此工具有助于转换。
- ]]></description>
-      <guid>https://oklch.com/#70,0.1,332,100</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
