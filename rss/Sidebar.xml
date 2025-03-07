@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 03:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 06:25:09 GMT</lastBuildDate>
+    <item>
+      <title>Gen AI特征的范围</title>
+      <link>https://www.nngroup.com/articles/scope-ai-features/</link>
+      <description><![CDATA[专注的AI功能会带来更好的用户理解和采用。
+ ]]></description>
+      <guid>https://www.nngroup.com/articles/scope-ai-features/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DesignTokens.FYI</title>
+      <link>https://designtokens.fyi/</link>
+      <description><![CDATA[定义设计令牌的术语。
+ ]]></description>
+      <guid>https://designtokens.fyi/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI和小型团队的力量</title>
+      <link>https://jarango.com/2025/03/04/the-new-leverage-ai-and-the-power-of-small-teams/</link>
+      <description><![CDATA[少做更多的事情不仅是可能的 - 这是工作的未来。
+ ]]></description>
+      <guid>https://jarango.com/2025/03/04/the-new-leverage-ai-and-the-power-of-small-teams/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>优美：屏幕录制应用程序</title>
+      <link>https://cursorful.com/</link>
+      <description><![CDATA[自动添加Zooms和Pans的浏览器记录器。
+ ]]></description>
+      <guid>https://cursorful.com/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我抓挠自己的痒”还不够好</title>
+      <link>https://longform.asmartbear.com/scratched-my-own-itch/</link>
+      <description><![CDATA[这不是您认为的谦虚brag。最常见的起源故事也是失败的初创公司所共有的。但这是一个开始。
+ ]]></description>
+      <guid>https://longform.asmartbear.com/scratched-my-own-itch/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我如何审查设计工作</title>
       <link>https://uxdesign.cc/how-i-review-design-work-6323a06a4932</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://design.cash.app/</guid>
       <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>越过对话声音的奇特山谷</title>
-      <link>https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice</link>
-      <description><![CDATA[“语音存在”是使口语互动感觉真实，理解和重视的神奇品质。查看语音演示。 
- ]]></description>
-      <guid>https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice</guid>
-      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果插件：视觉电气</title>
-      <link>https://www.figma.com/community/plugin/1461144669324322719/visual-electric</link>
-      <description><![CDATA[现在，每个设计师喜欢的图像gen工具都可以作为无花果插件。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1461144669324322719/visual-electric</guid>
-      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可访问的设计清单</title>
-      <link>https://penpot.app/blog/accessible-design-checklist/</link>
-      <description><![CDATA[使用此快速参考清单和PENPOT插件提高设计的可访问性。
- ]]></description>
-      <guid>https://penpot.app/blog/accessible-design-checklist/</guid>
-      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比较Alt-Text生成的本地LLM</title>
-      <link>https://dri.es/comparing-local-llms-for-alt-text-generation</link>
-      <description><![CDATA[我测试了12个LLM- 10个在本地运行和2个基于云的运行 - 评估它们为图像生成alt-Text的准确性。
- ]]></description>
-      <guid>https://dri.es/comparing-local-llms-for-alt-text-generation</guid>
-      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天是开发工具的不良UI模式</title>
-      <link>https://danieldelaney.net/chat/</link>
-      <description><![CDATA[您不想与计算机进行对话，您想构建。对吗？
- ]]></description>
-      <guid>https://danieldelaney.net/chat/</guid>
-      <pubDate>Tue, 04 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
