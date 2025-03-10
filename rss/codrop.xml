@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 10 Mar 2025 09:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 12:35:19 GMT</lastBuildDate>
+    <item>
+      <title>用三分和TSL在玻璃球内渲染程序性涡流</title>
+      <link>https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/</link>
+      <description><![CDATA[使用三分。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/</guid>
+      <pubDate>Mon, 10 Mar 2025 09:25:16 GMT</pubDate>
+    </item>
     <item>
       <title>设计师聚光灯：Artem Shcherban</title>
       <link>https://tympanus.net/codrops/2025/03/07/designer-spotlight-artem-shcherban/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[发现法国二人组，托马斯·莫纳旺（Designer）和格雷戈里·拉莱（GrégoryLallé）（创意开发人员）的创作过程。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</guid>
       <pubDate>Tue, 25 Feb 2025 07:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>100天的网络实验：设计师进入未知的旅程</title>
-      <link>https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/</link>
-      <description><![CDATA[设计师的创意探索之旅 -  100天，100个实验以及一路上学到的教训。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/24/100-days-of-web-experiments-a-designers-journey-into-the-unknown/</guid>
-      <pubDate>Mon, 24 Feb 2025 06:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
