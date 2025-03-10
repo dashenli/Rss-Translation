@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 10 Mar 2025 06:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 09:18:02 GMT</lastBuildDate>
+    <item>
+      <title>AI的形状</title>
+      <link>https://www.shapeof.ai/</link>
+      <description><![CDATA[探索在人工智能驱动的世界中的模式和经验将如何变化。
+ ]]></description>
+      <guid>https://www.shapeof.ai/</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：形状移动</title>
+      <link>https://www.figma.com/community/plugin/1173969737969388954/shape-move</link>
+      <description><![CDATA[通过动画矢量形状的锚点来使设计中更具动态和引人入胜的动画。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1173969737969388954/shape-move</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AX，DX，UX</title>
+      <link>https://blog.jim-nielsen.com/2025/thoughts-on-ax/</link>
+      <description><![CDATA[将来，自动化代理无法使用的软件会感觉不那么强大，更繁重。
+ ]]></description>
+      <guid>https://blog.jim-nielsen.com/2025/thoughts-on-ax/</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>颜色对比度可访问性要求解释了</title>
+      <link>https://blog.pope.tech/2022/11/08/color-contrast-accessibility-requirements-explained/</link>
+      <description><![CDATA[ WCAG 2.0对比度可访问性要求的完整指南和与示例的对比工具，以帮助您将其应用于自己的网站。
+ ]]></description>
+      <guid>https://blog.pope.tech/2022/11/08/color-contrast-accessibility-requirements-explained/</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>死亡以及技术如何忘记死亡率</title>
+      <link>https://www.youtube.com/watch?v=9fKsdVjDF_Y</link>
+      <description><![CDATA[在我们这样做之前，维护我们数据的科技公司更有可能“死亡”。
+ ]]></description>
+      <guid>https://www.youtube.com/watch?v=9fKsdVjDF_Y</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Gen AI特征的范围</title>
       <link>https://www.nngroup.com/articles/scope-ai-features/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.dayroselane.com/hydrants</guid>
       <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shadergpt</title>
-      <link>https://shadergpt.14islands.com/</link>
-      <description><![CDATA[用自然语言构建GLSL着色器。
- ]]></description>
-      <guid>https://shadergpt.14islands.com/</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>404杂志</title>
-      <link>https://404.computer/</link>
-      <description><![CDATA[ Zine探索UX写作和诗歌的交集。
- ]]></description>
-      <guid>https://404.computer/</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>氛围编码</title>
-      <link>https://alexp.pl/2025/02/19/vibe-coding.html</link>
-      <description><![CDATA[似乎很害怕，但不一定是因为AI可能从事我们的工作。
- ]]></description>
-      <guid>https://alexp.pl/2025/02/19/vibe-coding.html</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计系统团队士气的存在挑战</title>
-      <link>https://pjonori.blog/posts/design-system-morale/</link>
-      <description><![CDATA[设计系统很难。但是猜怎么着？设计和工程的其他所有学科也是如此。
- ]]></description>
-      <guid>https://pjonori.blog/posts/design-system-morale/</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现金应用品牌指南</title>
-      <link>https://design.cash.app/</link>
-      <description><![CDATA[在结构秩序和爆炸性自由之间的紧张关系上壮成长的品牌。
- ]]></description>
-      <guid>https://design.cash.app/</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
