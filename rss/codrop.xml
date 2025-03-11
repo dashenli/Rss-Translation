@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 11 Mar 2025 03:28:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 09:19:50 GMT</lastBuildDate>
+    <item>
+      <title>在WebGL中复制CSS对象拟合：用于图像缩放和定位的优化技术</title>
+      <link>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</link>
+      <description><![CDATA[探索优化的方法，以实现WebGL中的响应式图像缩放和定位，类似于CSS Object-Fit：封面行为。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</guid>
+      <pubDate>Tue, 11 Mar 2025 07:51:25 GMT</pubDate>
+    </item>
     <item>
       <title>用三分和TSL在玻璃球内渲染程序性涡流</title>
       <link>https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[详细介绍了使用WebGPU进行高性能，实时和视觉上令人惊叹的流体模拟背后的技术。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</guid>
       <pubDate>Wed, 26 Feb 2025 06:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>从概念到代码：在托马斯·莫纳旺（Thomas Monavon＆GrégoryLallé）的创作过程中</title>
-      <link>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</link>
-      <description><![CDATA[发现法国二人组，托马斯·莫纳旺（Designer）和格雷戈里·拉莱（GrégoryLallé）（创意开发人员）的创作过程。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/25/from-concept-to-code-inside-the-creative-process-of-thomas-monavon-gregory-lalle/</guid>
-      <pubDate>Tue, 25 Feb 2025 07:51:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
