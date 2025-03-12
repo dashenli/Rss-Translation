@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Wed, 12 Mar 2025 03:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 09:19:57 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：小提琴。数字设计机构 - 新的美国</title>
+      <link>https://tympanus.net/codrops/2025/03/12/case-study-fiddle-digital-design-agency-the-new-us/</link>
+      <description><![CDATA[该案例研究讲述了一个小型改名想法如何激发代理机构内部革命的故事。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/12/case-study-fiddle-digital-design-agency-the-new-us/</guid>
+      <pubDate>Wed, 12 Mar 2025 07:30:51 GMT</pubDate>
+    </item>
     <item>
       <title>在WebGL中复制CSS对象拟合：用于图像缩放和定位的优化技术</title>
       <link>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Maximilian Berndt融合了设计和开发，探索了网络上WebGL，动画和交互式体验的创造潜力。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</guid>
       <pubDate>Thu, 27 Feb 2025 07:01:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebGPU流体模拟：高性能和实时渲染</title>
-      <link>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</link>
-      <description><![CDATA[详细介绍了使用WebGPU进行高性能，实时和视觉上令人惊叹的流体模拟背后的技术。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/</guid>
-      <pubDate>Wed, 26 Feb 2025 06:52:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
