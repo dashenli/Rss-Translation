@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 13 Mar 2025 03:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 06:25:07 GMT</lastBuildDate>
+    <item>
+      <title>通过决策疲劳设计</title>
+      <link>https://questdb.com/blog/design-by-decision-fatigue/</link>
+      <description><![CDATA[关于我们制作软件的决策如何塑造我们对工艺的享受的文章。
+ ]]></description>
+      <guid>https://questdb.com/blog/design-by-decision-fatigue/</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Y组合者转20岁</title>
+      <link>https://digitalfrontier.com/articles/y-combinator-20-years-accelerator-paul-graham</link>
+      <description><![CDATA[启动学校如何成为硅谷最有影响力的荣誉徽章。
+ ]]></description>
+      <guid>https://digitalfrontier.com/articles/y-combinator-20-years-accelerator-paul-graham</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品脱离风险指南</title>
+      <link>https://18f.org/guides/derisking-government-tech/</link>
+      <description><![CDATA[政府机构提供成功的技术项目的指南，从雄伟的计划到雄伟的供应商管理。
+ ]]></description>
+      <guid>https://18f.org/guides/derisking-government-tech/</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>该模型是产品</title>
+      <link>https://vintagedata.org/blog/posts/model-is-the-product</link>
+      <description><![CDATA[在过去的几年中，人们对下一个AI开发周期可能是什么猜测。旧数据，新型号。
+ ]]></description>
+      <guid>https://vintagedata.org/blog/posts/model-is-the-product</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有人应该是“内容创建者”</title>
+      <link>https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/</link>
+      <description><![CDATA[社交媒体平台不在乎优质的内容 - 他们关心互动。
+ ]]></description>
+      <guid>https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/</guid>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>出色的软件设计看起来很艰巨</title>
       <link>https://www.seangoedecke.com/great-software-design/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://www.nngroup.com/articles/eas-framework-simplify-forms/</guid>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI的形状</title>
-      <link>https://www.shapeof.ai/</link>
-      <description><![CDATA[探索在人工智能驱动的世界中的模式和经验将如何变化。
- ]]></description>
-      <guid>https://www.shapeof.ai/</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果插件：形状移动</title>
-      <link>https://www.figma.com/community/plugin/1173969737969388954/shape-move</link>
-      <description><![CDATA[通过动画矢量形状的锚点来使设计中更具动态和引人入胜的动画。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1173969737969388954/shape-move</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AX，DX，UX</title>
-      <link>https://blog.jim-nielsen.com/2025/thoughts-on-ax/</link>
-      <description><![CDATA[将来，自动化代理无法使用的软件会感觉不那么强大，更繁重。
- ]]></description>
-      <guid>https://blog.jim-nielsen.com/2025/thoughts-on-ax/</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>颜色对比度可访问性要求解释了</title>
-      <link>https://blog.pope.tech/2022/11/08/color-contrast-accessibility-requirements-explained/</link>
-      <description><![CDATA[ WCAG 2.0对比度可访问性要求的完整指南和与示例的对比工具，以帮助您将其应用于自己的网站。
- ]]></description>
-      <guid>https://blog.pope.tech/2022/11/08/color-contrast-accessibility-requirements-explained/</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>死亡以及技术如何忘记死亡率</title>
-      <link>https://www.youtube.com/watch?v=9fKsdVjDF_Y</link>
-      <description><![CDATA[在我们这样做之前，维护我们数据的科技公司更有可能“死亡”。
- ]]></description>
-      <guid>https://www.youtube.com/watch?v=9fKsdVjDF_Y</guid>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
