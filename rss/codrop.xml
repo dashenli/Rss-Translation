@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Wed, 12 Mar 2025 12:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 12:34:44 GMT</lastBuildDate>
+    <item>
+      <title>播放三分之二的光和折射</title>
+      <link>https://tympanus.net/codrops/2025/03/13/warping-3d-text-inside-a-glass-torus/</link>
+      <description><![CDATA[探索三分之二的Meshtransmaterials如何弯曲光线，产生折射效果并增强逼真的玻璃状材料。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/13/warping-3d-text-inside-a-glass-torus/</guid>
+      <pubDate>Thu, 13 Mar 2025 09:04:19 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：小提琴。数字设计机构 - 新的美国</title>
       <link>https://tympanus.net/codrops/2025/03/12/case-study-fiddle-digital-design-agency-the-new-us/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索屡获殊荣的创意和设计总监伊莎贝尔·莫兰塔（Isabel Moranta）在概念上富裕而醒目的世界，她分享了自己的旅程，灵感和最引人注目的项目。]]></description>
       <guid>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</guid>
       <pubDate>Fri, 28 Feb 2025 13:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员聚光灯：Maximilian Berndt</title>
-      <link>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</link>
-      <description><![CDATA[Maximilian Berndt融合了设计和开发，探索了网络上WebGL，动画和交互式体验的创造潜力。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/27/developer-spotlight-maximilian-berndt/</guid>
-      <pubDate>Thu, 27 Feb 2025 07:01:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
