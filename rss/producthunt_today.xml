@@ -4,18 +4,30 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 18:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 21:18:29 GMT</lastBuildDate>
     <item>
-      <title>PI Digits挑战</title>
-      <link>https://www.producthunt.com/posts/pi-digits-challenge</link>
+      <title>代理深工作</title>
+      <link>https://www.producthunt.com/posts/proxy-deepwork</link>
       <description><![CDATA[
-            今天是pi日！您还记得多少位数字？
+            与AI代理自动化复杂工作流程
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/pi-digits-challenge</guid>
-      <pubDate>Fri, 14 Mar 2025 08:16:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/proxy-deepwork</guid>
+      <pubDate>Fri, 14 Mar 2025 05:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>pi</title>
+      <link>https://www.producthunt.com/posts/pi-6</link>
+      <description><![CDATA[
+            ML和数据科学工具包；为软件工程师建造。
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pi-6</guid>
+      <pubDate>Fri, 14 Mar 2025 01:39:28 GMT</pubDate>
     </item>
     <item>
       <title>查姆巴尔</title>
@@ -126,6 +138,18 @@
       <pubDate>Wed, 12 Mar 2025 10:06:18 GMT</pubDate>
     </item>
     <item>
+      <title>fuego</title>
+      <link>https://www.producthunt.com/posts/fuego-2</link>
+      <description><![CDATA[
+            用于管理Firestore数据库的桌面应用程序
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/fuego-2</guid>
+      <pubDate>Mon, 10 Mar 2025 23:27:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Agbr</title>
       <link>https://www.producthunt.com/posts/agbr</link>
       <description><![CDATA[
@@ -150,18 +174,6 @@
       <pubDate>Mon, 24 Feb 2025 23:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>Agent.AI</title>
-      <link>https://www.producthunt.com/posts/agent-ai-3</link>
-      <description><![CDATA[
-            AI代理的唯一专业网络
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/agent-ai-3</guid>
-      <pubDate>Mon, 24 Feb 2025 18:34:42 GMT</pubDate>
-    </item>
-    <item>
       <title>触摸草</title>
       <link>https://www.producthunt.com/posts/touch-grass</link>
       <description><![CDATA[
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/touch-grass</guid>
       <pubDate>Mon, 24 Feb 2025 08:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FACTENS.FM</title>
-      <link>https://www.producthunt.com/posts/factory-fm</link>
-      <description><![CDATA[
-            音乐评论应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/factory-fm</guid>
-      <pubDate>Mon, 17 Feb 2025 14:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
