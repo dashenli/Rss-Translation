@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 14 Mar 2025 06:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 09:20:12 GMT</lastBuildDate>
+    <item>
+      <title>库比蒂诺的状态烂了</title>
+      <link>https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino</link>
+      <description><![CDATA[苹果只是说WWDC宣布的苹果情报功能现在将推迟到“来年”。它打破了信任的合同。
+ ]]></description>
+      <guid>https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino</guid>
+      <pubDate>Fri, 14 Mar 2025 00:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻松的巫师</title>
+      <link>https://easingwizard.com/</link>
+      <description><![CDATA[使用宽松向导以轻松而神奇的精度生成和自定义CSS放松功能。
+ ]]></description>
+      <guid>https://easingwizard.com/</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：网状梯度生成器</title>
+      <link>https://www.figma.com/community/plugin/1450163787163945619/designfast-mesh-gradient-generator</link>
+      <description><![CDATA[通过毫不费力地创建复杂的网格梯度来赋予您在无花果的设计能力。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/1450163787163945619/designfast-mesh-gradient-generator</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你在这里……还是他们在这里？</title>
+      <link>https://benholliday.com/2025/03/07/you-are-here-or-they-are-here/</link>
+      <description><![CDATA[技术为我们提供了Google Maps的体验，上面写着“您在这里”。现代地图使每个人都处于世界中心。那是dangeous。
+ ]]></description>
+      <guid>https://benholliday.com/2025/03/07/you-are-here-or-they-are-here/</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>形状</title>
+      <link>https://shapen.com/</link>
+      <description><![CDATA[从图像创建3D模型。
+ ]]></description>
+      <guid>https://shapen.com/</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过决策疲劳设计</title>
       <link>https://questdb.com/blog/design-by-decision-fatigue/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://jagilley.github.io/faang-blog.html</guid>
       <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的学生：AI在这里，除非您采取行动，否则您会被搞砸了</title>
-      <link>https://ghuntley.com/screwed/</link>
-      <description><![CDATA[两周前，一名学生匿名通过电子邮件向杰弗里·亨特利（Geoffrey Huntley）发送了建议。这是他的回答。
- ]]></description>
-      <guid>https://ghuntley.com/screwed/</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果正在启动连接的项目</title>
-      <link>https://help.figma.com/hc/en-us/articles/30124855491863-Guide-to-connected-projects</link>
-      <description><![CDATA[连接的项目将使两个单独的团队或组织（例如代理商和客户）使用自己的计划中的可计费席位一起工作。
- ]]></description>
-      <guid>https://help.figma.com/hc/en-us/articles/30124855491863-Guide-to-connected-projects</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>时代新拉面</title>
-      <link>https://www.linkedin.com/posts/seine-kongruangkit_just-dropped-a-new-font-while-ramen-packaging-ugcPost-7302086353486282752-duCe/</link>
-      <description><![CDATA[尽管拉面包装已经发展为适合现代设计趋势，但许多品牌仍然忠于他们的传统美学。 
- ]]></description>
-      <guid>https://www.linkedin.com/posts/seine-kongruangkit_just-dropped-a-new-font-while-ramen-packaging-ugcPost-7302086353486282752-duCe/</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果插件：可变可视化器</title>
-      <link>https://www.figma.com/community/plugin/1457362132545070106/variable-visualizer</link>
-      <description><![CDATA[ vv将复杂的变量关系变成直观的视觉图，让您在一个无限画布中查看和管理所有变量。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1457362132545070106/variable-visualizer</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化表格的EAS框架</title>
-      <link>https://www.nngroup.com/articles/eas-framework-simplify-forms/</link>
-      <description><![CDATA[首先消除，在可能的情况下自动化并简化剩下的东西 - 最大程度地减少用户工作并提高形式的完成率。
- ]]></description>
-      <guid>https://www.nngroup.com/articles/eas-framework-simplify-forms/</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
