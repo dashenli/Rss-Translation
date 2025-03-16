@@ -3,8 +3,15 @@
   <channel>
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR新闻，音频和播客。覆盖突破性的故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的扩展范围。</description>
-    <lastBuildDate>Sun, 16 Mar 2025 15:15:11 GMT</lastBuildDate>
+    <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
+    <lastBuildDate>Sun, 16 Mar 2025 18:20:31 GMT</lastBuildDate>
+    <item>
+      <title>Tren de Aragua  - 您需要了解的有关委内瑞拉帮派</title>
+      <link>https://www.npr.org/2025/03/16/nx-s1-5329777/tren-de-aragua-all-you-need-to-know-about-the-venezuelan-gang</link>
+      <description><![CDATA[特朗普政府援引了一项227年的法律，即《外星敌人法》，以特伦·德·阿拉古亚（Tren de Aragua）为目标，该团伙根源于委内瑞拉监狱。他们是谁，覆盖范围有多大？]]></description>
+      <guid>https://www.npr.org/2025/03/16/nx-s1-5329777/tren-de-aragua-all-you-need-to-know-about-the-venezuelan-gang</guid>
+      <pubDate>Sun, 16 Mar 2025 16:37:10 GMT</pubDate>
+    </item>
     <item>
       <title>尽管法院命令，数以百计的涉嫌帮派成员被驱逐出美国</title>
       <link>https://www.npr.org/2025/03/16/g-s1-54154/alien-enemies-el-salvador-trump</link>
@@ -41,9 +48,9 @@
       <pubDate>Sun, 16 Mar 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局的卡住宇航员欢迎他们新近到达的替换者到空间站</title>
+      <title>机组人到达国际空间站，以替换宇航员在太空中“滞留”九个月</title>
       <link>https://www.npr.org/2025/03/16/g-s1-54130/nasas-stuck-astronauts-welcome-replacements</link>
-      <description><![CDATA[爆炸后的一天，一名SpaceX船员胶囊于周日抵达国际空间站，为NASA的两名卡住宇航员提供了替代品。]]></description>
+      <description><![CDATA[桑尼·威廉姆斯（Suni Williams）和布奇·威尔莫尔（Butch Wilmore）在6月推出时只能在太空中呆大约一周，但波音Starliner航天器的问题延长了几个月的旅程。]]></description>
       <guid>https://www.npr.org/2025/03/16/g-s1-54130/nasas-stuck-astronauts-welcome-replacements</guid>
       <pubDate>Sun, 16 Mar 2025 06:44:34 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Sat, 15 Mar 2025 19:59:27 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普政府说，南非驻美国“角色non Grata”大使</title>
+      <title>特朗普政府说，南非驻美国大使是“ non granta”</title>
       <link>https://www.npr.org/2025/03/15/nx-s1-5329268/trump-administraiton-south-africas-ambassador-to-u-s-persona-non-grata</link>
       <description><![CDATA[国务卿马可·卢比奥（Marco Rubio）说，他正在踢出南非大使，这让他讨厌美国和讨厌唐纳德·特朗普。]]></description>
       <guid>https://www.npr.org/2025/03/15/nx-s1-5329268/trump-administraiton-south-africas-ambassador-to-u-s-persona-non-grata</guid>
       <pubDate>Sat, 15 Mar 2025 18:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国声音和其他美国资助的网络的“血腥星期六”</title>
-      <link>https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake</link>
-      <description><![CDATA[联邦官员因无限期的带薪休假而在美国语音中安置了1300名员工，同时与无线电免费亚洲和其他美国资助的网络签订了合同。]]></description>
-      <guid>https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake</guid>
-      <pubDate>Sat, 15 Mar 2025 18:05:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
