@@ -3,8 +3,22 @@
   <channel>
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
-    <lastBuildDate>Sun, 16 Mar 2025 09:15:11 GMT</lastBuildDate>
+    <description>NPR新闻，音频和播客。覆盖突破性的故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的扩展范围。</description>
+    <lastBuildDate>Sun, 16 Mar 2025 12:29:31 GMT</lastBuildDate>
+    <item>
+      <title>59人死亡，在马其顿北部的夜总会大火中有150多人受伤</title>
+      <link>https://www.npr.org/2025/03/16/g-s1-54140/51-dead-fire-north-macedonia</link>
+      <description><![CDATA[周日早些时候，一场大型夜总会大火在北马其顿东部小镇科卡尼（Kocani）杀死了59人，受伤了150多人。在当地的流行乐队的一场音乐会上，大火爆发了。]]></description>
+      <guid>https://www.npr.org/2025/03/16/g-s1-54140/51-dead-fire-north-macedonia</guid>
+      <pubDate>Sun, 16 Mar 2025 10:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>忘记稀土矿物质。我们需要更多的铜</title>
+      <link>https://www.npr.org/2025/03/16/nx-s1-5327095/copper-rare-earth-minerals-mining-electronics</link>
+      <description><![CDATA[最近几周，您可能会听到很多关于稀土物质，这些物质的名称难以宣传，但专家警告说，另一种至关重要的金属铜的短缺可能同样令人担忧。]]></description>
+      <guid>https://www.npr.org/2025/03/16/nx-s1-5327095/copper-rare-earth-minerals-mining-electronics</guid>
+      <pubDate>Sun, 16 Mar 2025 10:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>March Madness开始参加NPR的大学播客挑战</title>
       <link>https://www.npr.org/2025/03/16/nx-s1-5327461/npr-college-podcast-challenge-2024-finalists</link>
@@ -43,7 +57,7 @@
     <item>
       <title>美国声音和其他美国资助的网络的“血腥星期六”</title>
       <link>https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake</link>
-      <description><![CDATA[联邦官员因无限期的带薪休假而在美国语音中任职1300名员工，同时与无线电免费亚洲和其他美国资助的网络签订了合同。]]></description>
+      <description><![CDATA[联邦官员因无限期的带薪休假而在美国语音中安置了1300名员工，同时与无线电免费亚洲和其他美国资助的网络签订了合同。]]></description>
       <guid>https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake</guid>
       <pubDate>Sat, 15 Mar 2025 18:05:59 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[这是今年全球能力摄影挑战赛中的获胜条目。]]></description>
       <guid>https://www.npr.org/sections/goats-and-soda/2025/03/15/g-s1-51102/photo-contest-winners-people-with-disabilities</guid>
       <pubDate>Sat, 15 Mar 2025 13:18:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>“对我来说听起来像是审查制度。” o电影联合创始人大满贯提议驱逐电影</title>
-      <link>https://www.npr.org/2025/03/15/nx-s1-5328740/miami-beach-o-cinema-no-other-land</link>
-      <description><![CDATA[没有其他土地没有美国分销商，因此电影制片人不得不与电影院进行一对一的交易。诸如O Cinema之类的艺术馆剧院一直在独立放映电影。]]></description>
-      <guid>https://www.npr.org/2025/03/15/nx-s1-5328740/miami-beach-o-cinema-no-other-land</guid>
-      <pubDate>Sat, 15 Mar 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>意见：垄断货币正在数字化</title>
-      <link>https://www.npr.org/2025/03/15/nx-s1-5325943/opinion-monopoly-money-is-going-digital</link>
-      <description><![CDATA[有一个应用程序！ NPR的斯科特·西蒙（Scott Simon）反映了这样的消息，即经典的棋盘游戏大垄大臣将很快带有银行应用程序 - 不再需要纸币，数学或银行业务。]]></description>
-      <guid>https://www.npr.org/2025/03/15/nx-s1-5325943/opinion-monopoly-money-is-going-digital</guid>
-      <pubDate>Sat, 15 Mar 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
