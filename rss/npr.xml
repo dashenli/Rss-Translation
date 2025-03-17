@@ -3,8 +3,15 @@
   <channel>
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR新闻，音频和播客。覆盖突破性的故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的扩展范围。</description>
-    <lastBuildDate>Mon, 17 Mar 2025 03:30:00 GMT</lastBuildDate>
+    <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
+    <lastBuildDate>Mon, 17 Mar 2025 06:23:26 GMT</lastBuildDate>
+    <item>
+      <title>关于萨尔瓦多的萨尔瓦多大型监狱的塞科特，对帮派成员有什么了解</title>
+      <link>https://www.npr.org/2025/03/17/g-s1-54206/el-salvador-mega-prison-cecot</link>
+      <description><![CDATA[萨尔瓦多的超级监狱不允许探视，娱乐和教育，已成为唐纳德·特朗普总统对移民的镇压的最新工具。]]></description>
+      <guid>https://www.npr.org/2025/03/17/g-s1-54206/el-salvador-mega-prison-cecot</guid>
+      <pubDate>Mon, 17 Mar 2025 05:52:30 GMT</pubDate>
+    </item>
     <item>
       <title>居民调查美国南部致命周末风暴的后果</title>
       <link>https://www.npr.org/2025/03/16/nx-s1-5329863/residents-survey-the-aftermath-of-deadly-weekend-storms-across-the-southern-u-s</link>
@@ -15,7 +22,7 @@
     <item>
       <title>制定了三月疯狂括号。 SEC以创纪录的14支球队占主导地位</title>
       <link>https://www.npr.org/2025/03/16/g-s1-54180/march-madness-selection-sunday-ncaa-tournament-brackets</link>
-      <description><![CDATA[在历史记录中，男子锦标赛的68支球队中有14个来自一场会议 -  SEC。在女子，加州大学洛杉矶分校和南卡罗来纳州是头号种子。游戏在下一周付出了小费。]]></description>
+      <description><![CDATA[在历史记录中，男子锦标赛的68支球队中有14个来自一场会议 -  SEC。在妇女中，加州大学洛杉矶分校和南卡罗来纳州是头号种子。游戏在下一周付出了小费。]]></description>
       <guid>https://www.npr.org/2025/03/16/g-s1-54180/march-madness-selection-sunday-ncaa-tournament-brackets</guid>
       <pubDate>Sun, 16 Mar 2025 23:26:35 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们参加该国最好的大学播客的10名决赛入围者包括一些熟悉学校的学生，以及一些惊喜。]]></description>
       <guid>https://www.npr.org/2025/03/16/nx-s1-5327461/npr-college-podcast-challenge-2024-finalists</guid>
       <pubDate>Sun, 16 Mar 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>机组人到达国际空间站，以替换宇航员在太空中“滞留”九个月</title>
-      <link>https://www.npr.org/2025/03/16/g-s1-54130/nasas-stuck-astronauts-welcome-replacements</link>
-      <description><![CDATA[桑尼·威廉姆斯（Suni Williams）和布奇·威尔莫尔（Butch Wilmore）在6月推出时只能在太空中呆大约一周，但波音Starliner航天器的问题延长了几个月的旅程。]]></description>
-      <guid>https://www.npr.org/2025/03/16/g-s1-54130/nasas-stuck-astronauts-welcome-replacements</guid>
-      <pubDate>Sun, 16 Mar 2025 06:44:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
