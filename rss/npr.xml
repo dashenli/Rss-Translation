@@ -3,8 +3,43 @@
   <channel>
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
-    <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
-    <lastBuildDate>Mon, 17 Mar 2025 06:23:26 GMT</lastBuildDate>
+    <description>NPR新闻，音频和播客。覆盖突破性的故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的扩展范围。</description>
+    <lastBuildDate>Mon, 17 Mar 2025 09:19:15 GMT</lastBuildDate>
+    <item>
+      <title>阿拉巴马州的学生如何从数学中的最后一个地方变成新星</title>
+      <link>https://www.npr.org/2025/03/17/nx-s1-5328723/alabama-math-learning-teaching-test-scores</link>
+      <description><![CDATA[阿拉巴马州是唯一的4年级数学分数现在比2019年大流行之前的州。这是国家如何实现它的故事。]]></description>
+      <guid>https://www.npr.org/2025/03/17/nx-s1-5328723/alabama-math-learning-teaching-test-scores</guid>
+      <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是父母可以帮助青少年在屏幕上变得聪明的四种方式</title>
+      <link>https://www.npr.org/2025/03/17/nx-s1-5326162/teens-screens-online-parents</link>
+      <description><![CDATA[有了青少年，只说屏幕时间拒绝就无济于事。取而代之的是，专家建议教他们成为内容较聪明的观众，并学会认识到影响者和算法如何操纵它们。]]></description>
+      <guid>https://www.npr.org/2025/03/17/nx-s1-5326162/teens-screens-online-parents</guid>
+      <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克（Elon Musk）针对的特斯拉抗议者说：“我必须保护自己。”</title>
+      <link>https://www.npr.org/2025/03/17/nx-s1-5328626/elon-musk-protests-tesla-takedown</link>
+      <description><![CDATA[反特斯拉抗议者瓦莱丽·科斯塔（Valerie Costa）说：“当世界上最强大的人之一，即使不是世界上最有权势的人说你犯罪时，事实无关紧要。”]]></description>
+      <guid>https://www.npr.org/2025/03/17/nx-s1-5328626/elon-musk-protests-tesla-takedown</guid>
+      <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>批发鸡蛋价格正在下跌。它会多久影响您的杂货账单？</title>
+      <link>https://www.npr.org/2025/03/17/g-s1-54111/egg-price-bird-flu-usda-easter-passover</link>
+      <description><![CDATA[经济学家说，批发鸡蛋价格的急剧下降是一个积极的迹象，一些预计在几周内杂货店的价格较低。]]></description>
+      <guid>https://www.npr.org/2025/03/17/g-s1-54111/egg-price-bird-flu-usda-easter-passover</guid>
+      <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么以色列 - 哈马斯停火会陷入困境？最新解释者</title>
+      <link>https://www.npr.org/2025/03/17/nx-s1-5329781/israel-hamas-gaza-ceasefire-talks</link>
+      <description><![CDATA[阿拉伯调解员正在努力达成一项新的以色列 - 哈马斯停火协议，该协议将确保释放24名仍被哈马斯在加沙持有的24名生活人质中释放。]]></description>
+      <guid>https://www.npr.org/2025/03/17/nx-s1-5329781/israel-hamas-gaza-ceasefire-talks</guid>
+      <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于萨尔瓦多的萨尔瓦多大型监狱的塞科特，对帮派成员有什么了解</title>
       <link>https://www.npr.org/2025/03/17/g-s1-54206/el-salvador-mega-prison-cecot</link>
@@ -22,7 +57,7 @@
     <item>
       <title>制定了三月疯狂括号。 SEC以创纪录的14支球队占主导地位</title>
       <link>https://www.npr.org/2025/03/16/g-s1-54180/march-madness-selection-sunday-ncaa-tournament-brackets</link>
-      <description><![CDATA[在历史记录中，男子锦标赛的68支球队中有14个来自一场会议 -  SEC。在妇女中，加州大学洛杉矶分校和南卡罗来纳州是头号种子。游戏在下一周付出了小费。]]></description>
+      <description><![CDATA[在历史记录中，男子锦标赛的68支球队中有14个来自一场会议 -  SEC。在女子，加州大学洛杉矶分校和南卡罗来纳州是头号种子。游戏在下一周付出了小费。]]></description>
       <guid>https://www.npr.org/2025/03/16/g-s1-54180/march-madness-selection-sunday-ncaa-tournament-brackets</guid>
       <pubDate>Sun, 16 Mar 2025 23:26:35 GMT</pubDate>
     </item>
@@ -39,41 +74,6 @@
       <description><![CDATA[特朗普政府援引了一项227年历史的法律《外星敌人法》，以特伦·德·阿拉古亚（Tren de Aragua）为目标，该团伙根源于委内瑞拉监狱。他们是谁，覆盖范围有多大？]]></description>
       <guid>https://www.npr.org/2025/03/16/nx-s1-5329777/tren-de-aragua-all-you-need-to-know-about-the-venezuelan-gang</guid>
       <pubDate>Sun, 16 Mar 2025 16:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管法院命令，美国将数百名委内瑞拉人驱逐到萨尔瓦多</title>
-      <link>https://www.npr.org/2025/03/16/g-s1-54154/alien-enemies-el-salvador-trump</link>
-      <description><![CDATA[目前尚不清楚驱逐出境是否发生在华盛顿特区联邦法官下令停止使用战时权力立即驱逐任何人并扭转空中任何飞机。]]></description>
-      <guid>https://www.npr.org/2025/03/16/g-s1-54154/alien-enemies-el-salvador-trump</guid>
-      <pubDate>Sun, 16 Mar 2025 14:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>叙利亚失踪的孩子：隐藏在阿萨德（Assad）的孤儿院里，他们现在在哪里？</title>
-      <link>https://www.npr.org/sections/goats-and-soda/2025/03/16/g-s1-53476/syria-orphanages-assad</link>
-      <description><![CDATA[阿萨德的部队拘留了母亲和儿童，并将许多年轻人送往孤儿院。战争期间孩子们消失的叙利亚人现在正在寻求有关命运的信息。 NPR调查。]]></description>
-      <guid>https://www.npr.org/sections/goats-and-soda/2025/03/16/g-s1-53476/syria-orphanages-assad</guid>
-      <pubDate>Sun, 16 Mar 2025 12:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>59人死亡，在马其顿北部的夜总会大火中有150多人受伤</title>
-      <link>https://www.npr.org/2025/03/16/g-s1-54140/51-dead-fire-north-macedonia</link>
-      <description><![CDATA[周日早些时候，一场大型夜总会大火在北马其顿东部小镇科卡尼（Kocani）杀死了59人，受伤了150多人。在当地的流行乐队的一场音乐会上，大火爆发了。]]></description>
-      <guid>https://www.npr.org/2025/03/16/g-s1-54140/51-dead-fire-north-macedonia</guid>
-      <pubDate>Sun, 16 Mar 2025 10:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘记稀土矿物质。我们需要更多的铜</title>
-      <link>https://www.npr.org/2025/03/16/nx-s1-5327095/copper-rare-earth-minerals-mining-electronics</link>
-      <description><![CDATA[最近几周，您可能会听到很多关于稀土物质，这些物质的名称难以宣传，但专家警告说，另一种至关重要的金属铜的短缺可能同样令人担忧。]]></description>
-      <guid>https://www.npr.org/2025/03/16/nx-s1-5327095/copper-rare-earth-minerals-mining-electronics</guid>
-      <pubDate>Sun, 16 Mar 2025 10:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>March Madness开始参加NPR的大学播客挑战</title>
-      <link>https://www.npr.org/2025/03/16/nx-s1-5327461/npr-college-podcast-challenge-2024-finalists</link>
-      <description><![CDATA[我们参加该国最好的大学播客的10名决赛入围者包括一些熟悉学校的学生，以及一些惊喜。]]></description>
-      <guid>https://www.npr.org/2025/03/16/nx-s1-5327461/npr-college-podcast-challenge-2024-finalists</guid>
-      <pubDate>Sun, 16 Mar 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

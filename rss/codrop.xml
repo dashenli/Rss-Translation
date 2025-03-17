@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Fri, 14 Mar 2025 12:33:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 09:22:24 GMT</lastBuildDate>
+    <item>
+      <title>案例研究：Motoyoshi Takamitsu</title>
+      <link>https://tympanus.net/codrops/2025/03/17/case-study-motoyoshi-takamitsu/</link>
+      <description><![CDATA[摄影师Motoyoshi Takamitsu的作品集网站的设计和开发探索。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/17/case-study-motoyoshi-takamitsu/</guid>
+      <pubDate>Mon, 17 Mar 2025 07:44:52 GMT</pubDate>
+    </item>
     <item>
       <title>播放三分之二的光和折射</title>
       <link>https://tympanus.net/codrops/2025/03/13/warping-3d-text-inside-a-glass-torus/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解转换，透视和堆叠的网格如何创建一个完全可寻址的3D空间，并突破纯CSS可能的边界。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</guid>
       <pubDate>Mon, 03 Mar 2025 06:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计师聚光灯：Isabel Moranta</title>
-      <link>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</link>
-      <description><![CDATA[探索屡获殊荣的创意和设计总监伊莎贝尔·莫兰塔（Isabel Moranta）在概念上富裕而醒目的世界，她分享了自己的旅程，灵感和最引人注目的项目。]]></description>
-      <guid>https://tympanus.net/codrops/2025/02/28/designer-spotlight-isabel-moranta/</guid>
-      <pubDate>Fri, 28 Feb 2025 13:28:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
