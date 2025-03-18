@@ -4,13 +4,20 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 18 Mar 2025 01:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 03:28:31 GMT</lastBuildDate>
     <item>
-      <title>以色列在加沙地带上进行“广泛罢工”</title>
+      <title>以色列对加沙发动“广泛罢工”，据报道有100多人被杀</title>
       <link>https://www.bbc.com/news/articles/c9vy3k4dpz0o</link>
-      <description><![CDATA[自1月19日停火以来，这是加沙最大的空袭浪潮。]]></description>
+      <description><![CDATA[以色列军方表示，它针对属于哈马斯的“恐怖目标”。]]></description>
       <guid>https://www.bbc.com/news/articles/c9vy3k4dpz0o</guid>
-      <pubDate>Tue, 18 Mar 2025 01:03:51 GMT</pubDate>
+      <pubDate>Tue, 18 Mar 2025 03:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管教皇病了，但国王的梵蒂冈访问仍在继续</title>
+      <link>https://www.bbc.com/news/articles/cd0nr0gg3ngo</link>
+      <description><![CDATA[白金汉宫说，查尔斯三世国王将继续他对意大利和梵蒂冈的访问。]]></description>
+      <guid>https://www.bbc.com/news/articles/cd0nr0gg3ngo</guid>
+      <pubDate>Tue, 18 Mar 2025 01:23:36 GMT</pubDate>
     </item>
     <item>
       <title>倒计时药房对资金的抗议</title>
@@ -55,13 +62,6 @@
       <pubDate>Mon, 17 Mar 2025 22:31:36 GMT</pubDate>
     </item>
     <item>
-      <title>国王在象征性支持加拿大的象征支持下遇到了卡尼</title>
-      <link>https://www.bbc.com/news/articles/c78el01zd03o</link>
-      <description><![CDATA[国王也是加拿大州的负责人，在与美国的贸易战争中与该国新任总理马克·卡尼（Mark Carney）会面。]]></description>
-      <guid>https://www.bbc.com/news/articles/c78el01zd03o</guid>
-      <pubDate>Mon, 17 Mar 2025 21:16:58 GMT</pubDate>
-    </item>
-    <item>
       <title>没有证据表明特朗普声称“无效” biden赦免和自动开放</title>
       <link>https://www.bbc.com/news/articles/cdxqk1x0n5lo</link>
       <description><![CDATA[特朗普总统声称，拜登的赦免中的“许多”是无效的，因为它们是自动签署的，而不是手工签名的。]]></description>
@@ -74,13 +74,6 @@
       <description><![CDATA[更改周二将揭幕福利规则的提议引起了劳动力国会议员的不安。]]></description>
       <guid>https://www.bbc.com/news/articles/cedlednx6d7o</guid>
       <pubDate>Mon, 17 Mar 2025 18:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>“滞留的宇航员” Butch和Suni开始回家旅程</title>
-      <link>https://www.bbc.com/news/articles/cg4k0d55q24o</link>
-      <description><![CDATA[NASA宇航员准备经过八天的任务变成9个月后，准备前往地球。]]></description>
-      <guid>https://www.bbc.com/news/articles/cg4k0d55q24o</guid>
-      <pubDate>Mon, 17 Mar 2025 17:12:29 GMT</pubDate>
     </item>
     <item>
       <title>家族说</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[辩论引发了关于福利更广泛目的的更广泛的困境]]></description>
       <guid>https://www.bbc.com/news/articles/cvgev3dvz3jo</guid>
       <pubDate>Mon, 17 Mar 2025 06:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我对削减福利的前景感到恶心”</title>
+      <link>https://www.bbc.com/news/articles/cx2gpl4528go</link>
+      <description><![CDATA[长期疾病和残疾福利的人告诉英国广播公司，他们担心削减会如何影响他们。]]></description>
+      <guid>https://www.bbc.com/news/articles/cx2gpl4528go</guid>
+      <pubDate>Sun, 16 Mar 2025 00:16:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
