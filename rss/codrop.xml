@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 18 Mar 2025 01:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 12:34:32 GMT</lastBuildDate>
+    <item>
+      <title>用三js构建交互式图像网格</title>
+      <link>https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/</link>
+      <description><![CDATA[在本教程中，我们将使用Thriph.js创建一个交互式图像网格，覆盖设置，动画和着色器。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/</guid>
+      <pubDate>Tue, 18 Mar 2025 09:09:29 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Motoyoshi Takamitsu</title>
       <link>https://tympanus.net/codrops/2025/03/17/case-study-motoyoshi-takamitsu/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[使用React三纤维，了解如何使用动态运动来制作光滑，卡通风格的水效应，以优化性能。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/</guid>
       <pubDate>Tue, 04 Mar 2025 08:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS遇到体素艺术：建造带有堆叠网格的渲染引擎</title>
-      <link>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</link>
-      <description><![CDATA[了解转换，透视和堆叠的网格如何创建一个完全可寻址的3D空间，并突破纯CSS可能的边界。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/03/css-meets-voxel-art-building-a-rendering-engine-with-stacked-grids/</guid>
-      <pubDate>Mon, 03 Mar 2025 06:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
