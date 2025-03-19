@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Wed, 19 Mar 2025 01:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 12:36:34 GMT</lastBuildDate>
+    <item>
+      <title>StringTune：JavaScript库从设计机构的工作流程出生</title>
+      <link>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</link>
+      <description><![CDATA[了解如何使用此灵活的JavaScript库进行动画，光滑的滚动和交互式效果。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</guid>
+      <pubDate>Wed, 19 Mar 2025 11:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>用三js构建交互式图像网格</title>
       <link>https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Stefan 2025 Creative Dev Portfolio的过程背后的一篇文章 - 一种简约的设计，动态视觉效果和着色器效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/</guid>
       <pubDate>Wed, 05 Mar 2025 07:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>用反应三个纤维产生风格化的水效应</title>
-      <link>https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/</link>
-      <description><![CDATA[使用React三纤维，了解如何使用动态运动来制作光滑，卡通风格的水效应，以优化性能。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/04/creating-stylized-water-effects-with-react-three-fiber/</guid>
-      <pubDate>Tue, 04 Mar 2025 08:03:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
