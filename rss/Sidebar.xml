@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 19 Mar 2025 12:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 15:25:46 GMT</lastBuildDate>
+    <item>
+      <title>我们的界面失去了感官</title>
+      <link>https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses</link>
+      <description><![CDATA[最近，我们过于专注于适合计算机的形状，而对自己的身体不足。
+ ]]></description>
+      <guid>https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统报告2025</title>
+      <link>https://zeroheight.com/how-we-document/design-system-report-2025-brought-to-you-by-zeroheight/</link>
+      <description><![CDATA[如果您躲避所有广告，则非常宝贵的资源：该报告的第四版展示了2025年设计系统的当前状态。
+ ]]></description>
+      <guid>https://zeroheight.com/how-we-document/design-system-report-2025-brought-to-you-by-zeroheight/</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI想象的非凡事物</title>
+      <link>https://extraordinarythings.co/</link>
+      <description><![CDATA[ Yashas Mitta正在进行的AI驱动项目，使用最新的文本到图像模型来想象超现实的对象。
+ ]]></description>
+      <guid>https://extraordinarythings.co/</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>认知可访问性的最佳实践</title>
+      <link>https://www.a11y-collective.com/blog/cognitive-accessibility/</link>
+      <description><![CDATA[ WCAG指南，设计模式和现实案例研究。
+ ]]></description>
+      <guid>https://www.a11y-collective.com/blog/cognitive-accessibility/</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>UI的过去和现在未来</title>
+      <link>https://www.datagubbe.se/futui/</link>
+      <description><![CDATA[拐角处有真正的新范式吗？桌面会消失吗？
+ ]]></description>
+      <guid>https://www.datagubbe.se/futui/</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>急躁</title>
       <link>https://www.photopea.com/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://vanschneider.com/blog/edition-255/</guid>
       <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>库比蒂诺的状态烂了</title>
-      <link>https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino</link>
-      <description><![CDATA[苹果只是说WWDC宣布的苹果情报功能现在将推迟到“来年”。它打破了信任的合同。
- ]]></description>
-      <guid>https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino</guid>
-      <pubDate>Fri, 14 Mar 2025 00:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻松的巫师</title>
-      <link>https://easingwizard.com/</link>
-      <description><![CDATA[使用宽松向导以轻松而神奇的精度生成和自定义CSS放松功能。
- ]]></description>
-      <guid>https://easingwizard.com/</guid>
-      <pubDate>Fri, 14 Mar 2025 00:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果插件：网状梯度生成器</title>
-      <link>https://www.figma.com/community/plugin/1450163787163945619/designfast-mesh-gradient-generator</link>
-      <description><![CDATA[通过毫不费力地创建复杂的网格梯度来赋予您在无花果的设计能力。
- ]]></description>
-      <guid>https://www.figma.com/community/plugin/1450163787163945619/designfast-mesh-gradient-generator</guid>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在这里……还是他们在这里？</title>
-      <link>https://benholliday.com/2025/03/07/you-are-here-or-they-are-here/</link>
-      <description><![CDATA[技术为我们提供了Google Maps的体验，上面写着“您在这里”。现代地图使每个人都处于世界中心。那是dangeous。
- ]]></description>
-      <guid>https://benholliday.com/2025/03/07/you-are-here-or-they-are-here/</guid>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>形状</title>
-      <link>https://shapen.com/</link>
-      <description><![CDATA[从图像创建3D模型。
- ]]></description>
-      <guid>https://shapen.com/</guid>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
