@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Thu, 20 Mar 2025 09:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 12:33:04 GMT</lastBuildDate>
+    <item>
+      <title>开发人员聚光灯：让·马祖尼（Jean Mazouni）</title>
+      <link>https://tympanus.net/codrops/2025/03/20/developer-spotlight-jean-mazouni/</link>
+      <description><![CDATA[在这个聚光灯下，让·马祖尼（Jean Mazouni）展示了他作为网络开发人员最喜欢的自由职业者的一些作品，并分享了他对WebGL技术的热情。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/20/developer-spotlight-jean-mazouni/</guid>
+      <pubDate>Thu, 20 Mar 2025 07:41:19 GMT</pubDate>
+    </item>
     <item>
       <title>StringTune：JavaScript库从设计机构的工作流程出生</title>
       <link>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在这个聚光灯下，Yannis Yannakopoulos在Web开发，生成艺术和模块化合成器方面的经验超过15年，分享了他的旅程。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/06/developer-spotlight-yannis-yannakopoulos/</guid>
       <pubDate>Thu, 06 Mar 2025 09:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>案例研究：Stefan Vitasovic投资组合-2025</title>
-      <link>https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/</link>
-      <description><![CDATA[Stefan 2025 Creative Dev Portfolio的过程背后的一篇文章 - 一种简约的设计，动态视觉效果和着色器效果。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/05/case-study-stefan-vitasovic-portfolio-2025/</guid>
-      <pubDate>Wed, 05 Mar 2025 07:10:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
