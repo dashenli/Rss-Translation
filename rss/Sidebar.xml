@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 20 Mar 2025 12:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 15:21:16 GMT</lastBuildDate>
+    <item>
+      <title>UX作家的无花果指南</title>
+      <link>https://www.figma.com/best-practices/the-ux-writers-guide-to-figma/</link>
+      <description><![CDATA[作家提示围绕Figma的基本概念缠住他们的头，并将其技能提升到一个新的水平。
+ ]]></description>
+      <guid>https://www.figma.com/best-practices/the-ux-writers-guide-to-figma/</guid>
+      <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Symbl-您的最终符号库</title>
+      <link>https://symbl.revend.group/</link>
+      <description><![CDATA[大量的HTML符号，表情符号，付款图标和SVG。非常适合开发人员和设计师毫不费力地增强Web项目。
+ ]]></description>
+      <guid>https://symbl.revend.group/</guid>
+      <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>摄影赢家的残疾人向世界展示自己的观点</title>
+      <link>https://www.npr.org/sections/goats-and-soda/2025/03/15/g-s1-51102/photo-contest-winners-people-with-disabilities</link>
+      <description><![CDATA[这些图像是由印度青年4JOB组织的今年全球能力摄影挑战的获胜参赛作品。
+ ]]></description>
+      <guid>https://www.npr.org/sections/goats-and-soda/2025/03/15/g-s1-51102/photo-contest-winners-people-with-disabilities</guid>
+      <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roblox Cube：3D和4D的核心生成AI系统</title>
+      <link>https://corp.roblox.com/newsroom/2025/03/introducing-roblox-cube</link>
+      <description><![CDATA[开源版本的Roblox的Cube 3D基础模型的生成AI。
+ ]]></description>
+      <guid>https://corp.roblox.com/newsroom/2025/03/introducing-roblox-cube</guid>
+      <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI是概率的 - 这就是为什么需要约束</title>
+      <link>https://jarango.com/2025/03/18/ai-is-probabilistic-thats-why-it-needs-constraints/</link>
+      <description><![CDATA[用于专门遵循规则的计算机；现在它们产生了可能性。结合两种方法都可以最大化其潜力。
+ ]]></description>
+      <guid>https://jarango.com/2025/03/18/ai-is-probabilistic-thats-why-it-needs-constraints/</guid>
+      <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们的界面失去了感官</title>
       <link>https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://vsanchezgomez.substack.com/p/micro-compartmentalization</guid>
       <pubDate>Tue, 18 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们人类拟人化的习惯</title>
-      <link>https://www.doc.cc/articles/anthropomorphizing-everything</link>
-      <description><![CDATA[我们应该人性化AI吗？
- ]]></description>
-      <guid>https://www.doc.cc/articles/anthropomorphizing-everything</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通知心理学实验室</title>
-      <link>https://games.productartistry.com/games/notification-psychology</link>
-      <description><![CDATA[了解使通知无法忽略的技术。
- ]]></description>
-      <guid>https://games.productartistry.com/games/notification-psychology</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亿万富翁抵制难题</title>
-      <link>https://whatever.scalzi.com/2025/03/12/the-billionaire-boycott-conundrum/</link>
-      <description><![CDATA[每次尝试的抵制，都会有一些反弹，并反对反弹。 
- ]]></description>
-      <guid>https://whatever.scalzi.com/2025/03/12/the-billionaire-boycott-conundrum/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共情报</title>
-      <link>https://kk.org/thetechnium/public-intelligence/</link>
-      <description><![CDATA[想象一下，从现在起50年后，公共情报是全世界分发的，开源的，非商业的AI。 
- ]]></description>
-      <guid>https://kk.org/thetechnium/public-intelligence/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>向前一步，向后两步</title>
-      <link>https://vanschneider.com/blog/edition-255/</link>
-      <description><![CDATA[我们从本质上拍摄了最新的相机技术捕获的这些清晰的图像并有意降解。
- ]]></description>
-      <guid>https://vanschneider.com/blog/edition-255/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
