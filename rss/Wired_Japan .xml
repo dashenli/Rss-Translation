@@ -4,7 +4,28 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Fri, 21 Mar 2025 21:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 01:15:49 GMT</lastBuildDate>
+    <item>
+      <title>特朗普政府指示研究人员减少AI模型中的“意识形态偏见”</title>
+      <link>https://wired.jp/article/ai-safety-institute-new-directive-america-first/</link>
+      <description><![CDATA[3月，美国国家标准技术研究所（NIST）与美国人工智能安全研究所（AISI）合作修订了研究人员的合同。据说，在拜登政府下很重要的AI安全和公平性已经消失了。]]></description>
+      <guid>https://wired.jp/article/ai-safety-institute-new-directive-america-first/</guid>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia收购了“合成数据”公司。人工智能行业正在前进</title>
+      <link>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</link>
+      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据的问题的战略举动。]]></description>
+      <guid>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</guid>
+      <pubDate>Fri, 21 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止使用该应用并出汗 - 找到超越体育俱乐部“约会”的爱情</title>
+      <link>https://wired.jp/article/sz-dating-irl-athletic-clubs-gyms/</link>
+      <description><![CDATA[在大流行时代，旧金山体育社区证明，与使用匹配的应用程序相比，通过汗湿的爱好而遇到更深层，更持久的关系。]]></description>
+      <guid>https://wired.jp/article/sz-dating-irl-athletic-clubs-gyms/</guid>
+      <pubDate>Fri, 21 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>试图从蒂克托克（Tiktok）从机场前到达机场的时间到达机场的人</title>
       <link>https://wired.jp/article/airport-theory-aka-what-happens-if-you-miss-your-flight/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>人工智能拒绝生成代码，并建议开发人员他们应该自己思考</title>
       <link>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</link>
-      <description><![CDATA[开发人员正在使用AI编码助手在工作突然停止时生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
+      <description><![CDATA[开发人员在工作突然停止时使用AI编码助手来生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
       <guid>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</guid>
       <pubDate>Thu, 20 Mar 2025 23:00:00 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>[量子词的选择]理解“叶子”  - 您会爱上量子计算机（？）</title>
       <link>https://wired.jp/article/vol56-quantumpedia-entanglement-dictionary/</link>
-      <description><![CDATA[“为什么这个概念对量子计算机很重要？” “量子计算机首先会如何影响我们的未来？”为了理解“未来”，似乎我们无论如何都需要知道这些词。因此，在这里，我们为您带来了各种量子词汇表，这些量子表完全借鉴了日本新兴科学与创新博物馆的智慧，该博物馆将在今年春季开始永久性量子计算机的永久展览！]]></description>
+      <description><![CDATA[“为什么这个概念对量子计算机很重要？”为了理解“未来”，似乎我们无论如何都需要知道这些词。因此，在这里，我们为您带来了各种量子词汇表，这些量子表完全借鉴了日本新兴科学与创新博物馆的智慧，该博物馆将在今年春季开始永久性量子计算机的永久展览！]]></description>
       <guid>https://wired.jp/article/vol56-quantumpedia-entanglement-dictionary/</guid>
       <pubDate>Wed, 19 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后，什么是量子计算机？对机制的易于理解的解释</title>
-      <link>https://wired.jp/article/vol56-quantumpedia-what-does-a-quantum-computer-do/</link>
-      <description><![CDATA[通过利用比原子小的“粒子世界”的“神秘规则”（=量子力学），这台计算机擅长同时考虑无数可能性，并迅速“释放”“正确答案”。如果我们以简单的方式表达量子计算机，那将是大致gro吟的。但是，仍然有很多声音在说“量子力学是令人难以置信的”和“我无法想象它将移动的原则”之类的东西。因此，在本文中，我将跳过它，但仍然试图解释它，以使人们了解量子计算机是什么！]]></description>
-      <guid>https://wired.jp/article/vol56-quantumpedia-what-does-a-quantum-computer-do/</guid>
-      <pubDate>Wed, 19 Mar 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌塔达（Utada Hikaru）在封面和封面故事上！日本最新一期的“有线”的预订，“超越”的量子计算机</title>
-      <link>https://wired.jp/article/quantumpedia-info/</link>
-      <description><![CDATA[自量子力学诞生以来已有100年了。最新一期的“ Quantumpedia：Quantum Computers”的预订将由日语版本的“有线”发布，今天已经开始（请务必查看礼品活动！）]]></description>
-      <guid>https://wired.jp/article/quantumpedia-info/</guid>
-      <pubDate>Wed, 19 Mar 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI脆弱性报告应完成什么？ 研究人员提出了新机制</title>
-      <link>https://wired.jp/article/story/ai-researchers-new-system-report-bugs/</link>
-      <description><![CDATA[在广泛的AI模型中也发现了重大缺陷。同时，AI研究人员提出了一种新机制，以快速识别错误并有效地报告错误。公司尚未遵守AI技术的进步，并且需要连续监测系统来减轻风险。]]></description>
-      <guid>https://wired.jp/article/story/ai-researchers-new-system-report-bugs/</guid>
-      <pubDate>Tue, 18 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
