@@ -4,11 +4,18 @@
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
-    <lastBuildDate>Sun, 23 Mar 2025 15:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 18:20:35 GMT</lastBuildDate>
     <item>
-      <title>弗朗西斯教皇在出院前首次公开露面</title>
+      <title>加拿大总理马克·卡尼（Mark Carney）和对手开始了他们的竞选运动</title>
+      <link>https://www.npr.org/2025/03/23/nx-s1-5338021/canada-mark-carney-election</link>
+      <description><![CDATA[特朗普对加拿大主权的频繁袭击使加拿大人激怒了加拿大人，并导致加拿大民族主义激增，这加剧了自由主义民意调查的数量。]]></description>
+      <guid>https://www.npr.org/2025/03/23/nx-s1-5338021/canada-mark-carney-election</guid>
+      <pubDate>Sun, 23 Mar 2025 17:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>弗朗西斯教皇因呼吸道感染治疗后将出院</title>
       <link>https://www.npr.org/2025/03/23/g-s1-55387/pope-francis-hospital-discharge</link>
-      <description><![CDATA[教皇的预期出院是在严重呼吸道感染的五周住院后出现的。]]></description>
+      <description><![CDATA[在治疗严重的呼吸道感染后，教皇于周日离开医院，导致双侧肺炎。]]></description>
       <guid>https://www.npr.org/2025/03/23/g-s1-55387/pope-francis-hospital-discharge</guid>
       <pubDate>Sun, 23 Mar 2025 12:09:14 GMT</pubDate>
     </item>
@@ -20,17 +27,17 @@
       <pubDate>Sun, 23 Mar 2025 11:41:05 GMT</pubDate>
     </item>
     <item>
-      <title>这位哈林牧师对心理健康的污名作斗争，并分享了自己的斗争</title>
-      <link>https://www.npr.org/sections/shots-health-news/2025/03/23/nx-s1-5336793/mental-health-harlem-black-church-pastor</link>
-      <description><![CDATA[第一科林斯浸信会建立了一个单独的非营利组织，该组织雇用治疗师将精神卫生保健带到一个污名仍然是康复障碍的社区。]]></description>
-      <guid>https://www.npr.org/sections/shots-health-news/2025/03/23/nx-s1-5336793/mental-health-harlem-black-church-pastor</guid>
-      <pubDate>Sun, 23 Mar 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>随着奥维奇金（Ovechkin）接近NHL进球记录，曲棍球世界倾向于品尝这一刻</title>
       <link>https://www.npr.org/2025/03/23/nx-s1-5331209/ovechkin-gretzky-nhl-goals-record-hockey-washington-capitals</link>
       <description><![CDATA[多年来，韦恩·格雷茨基（Wayne Gretzky）在894个职业常规赛进球中的记录被认为是不可动摇的。现在，华盛顿首都队的明星只有少数可以将唱片称为自己的唱片。]]></description>
       <guid>https://www.npr.org/2025/03/23/nx-s1-5331209/ovechkin-gretzky-nhl-goals-record-hockey-washington-capitals</guid>
+      <pubDate>Sun, 23 Mar 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这位哈林牧师对心理健康的污名作斗争，并分享了自己的斗争</title>
+      <link>https://www.npr.org/sections/shots-health-news/2025/03/23/nx-s1-5336793/mental-health-harlem-black-church-pastor</link>
+      <description><![CDATA[第一科林斯浸信会建立了一个单独的非营利组织，该组织雇用治疗师将精神卫生保健带到一个污名仍然是康复障碍的社区。]]></description>
+      <guid>https://www.npr.org/sections/shots-health-news/2025/03/23/nx-s1-5336793/mental-health-harlem-black-church-pastor</guid>
       <pubDate>Sun, 23 Mar 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -67,13 +74,6 @@
       <description><![CDATA[伊斯坦布尔市长Ekrem Imamoglu是总统Recep Tayyip Erdogan的主要挑战者，被指控犯有腐败和恐怖联系。反对派说，伊玛莫格鲁的逮捕是出于政治动机。]]></description>
       <guid>https://www.npr.org/2025/03/22/nx-s1-5337511/protests-turkey-istanbul-mayor-erdogan</guid>
       <pubDate>Sun, 23 Mar 2025 01:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普说，波音将建立新一代的战斗机F-47</title>
-      <link>https://www.npr.org/2025/03/22/nx-s1-5337416/trump-f47-fighter-jet-boeing</link>
-      <description><![CDATA[特朗普说，波音公司赢得了建立美国空军下一代战斗机的合同。关于喷气机的规格，外观或功能知之甚少。]]></description>
-      <guid>https://www.npr.org/2025/03/22/nx-s1-5337416/trump-f47-fighter-jet-boeing</guid>
-      <pubDate>Sat, 22 Mar 2025 22:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
