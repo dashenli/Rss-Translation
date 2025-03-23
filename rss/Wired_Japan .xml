@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Sat, 22 Mar 2025 21:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 01:21:17 GMT</lastBuildDate>
+    <item>
+      <title>Google已在其机器人上安装了新的“双子座” AI。在物理世界中工作</title>
+      <link>https://wired.jp/article/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</link>
+      <description><![CDATA[Google宣布了Gemini的新型AI模型，该模型为机器人提供了高智能，并在演示视频中展示了Gemini Robotics的能力，Gemini Robotics具有新的模型。他们还宣布了基准“ Asimov”，该基准评估了物理世界中AI的潜在风险。]]></description>
+      <guid>https://wired.jp/article/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</guid>
+      <pubDate>Sat, 22 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普政府指示研究人员减少AI模型中的“意识形态偏见”</title>
       <link>https://wired.jp/article/ai-safety-institute-new-directive-america-first/</link>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 20 Mar 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>电池更换的电动卡车开始贯穿东京的街道</title>
+      <title>一个数十亿日元的项目已在东京发起，以替换电池更换电动卡车</title>
       <link>https://wired.jp/article/tokyo-ample-battery-swap-electric-trucks/</link>
       <description><![CDATA[一个项目已开始在东京运营运营车辆，例如可替换电池电动卡车和其他自动电池更换站的车辆。这个数十亿日元的项目可能证明了以前著名的电池可取消EV的“复兴”。]]></description>
       <guid>https://wired.jp/article/tokyo-ample-battery-swap-electric-trucks/</guid>
@@ -101,13 +108,6 @@
       <link>https://wired.jp/article/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-march-28/</link>
       <description><![CDATA[据透露，一些用户已通知亚马逊将删除3月28日与亚马逊回声进行本地交谈的偏好。根据更改，将来所有音频数据都将发送到亚马逊的云。美国“ ARS Technica”的报告。]]></description>
       <guid>https://wired.jp/article/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-march-28/</guid>
-      <pubDate>Wed, 19 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[量子词的选择]理解“叶子”  - 您会爱上量子计算机（？）</title>
-      <link>https://wired.jp/article/vol56-quantumpedia-entanglement-dictionary/</link>
-      <description><![CDATA[“为什么这个概念对量子计算机很重要？”为了理解“未来”，似乎我们无论如何都需要知道这些词。因此，在这里，我们为您带来了各种量子词汇表，这些量子表完全借鉴了日本新兴科学与创新博物馆的智慧，该博物馆将在今年春季开始永久性量子计算机的永久展览！]]></description>
-      <guid>https://wired.jp/article/vol56-quantumpedia-entanglement-dictionary/</guid>
       <pubDate>Wed, 19 Mar 2025 08:00:00 GMT</pubDate>
     </item>
     </channel>
