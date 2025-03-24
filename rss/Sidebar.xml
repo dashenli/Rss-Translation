@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Mon, 24 Mar 2025 12:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 15:21:39 GMT</lastBuildDate>
+    <item>
+      <title>Dataviz词汇</title>
+      <link>https://ft-interactive.github.io/visual-vocabulary/</link>
+      <description><![CDATA[有很多可视化数据的方法 - 我们如何知道要选择哪一个？
+ ]]></description>
+      <guid>https://ft-interactive.github.io/visual-vocabulary/</guid>
+      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化数学</title>
+      <link>https://asteriskmag.com/issues/09/automating-math</link>
+      <description><![CDATA[计算机已经可以帮助验证证明。有一天，AI可能会提出新的。
+ ]]></description>
+      <guid>https://asteriskmag.com/issues/09/automating-math</guid>
+      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成字体</title>
+      <link>https://www.generativefonts.xyz/</link>
+      <description><![CDATA[ nan glyph滤波器是一个程序生成的显示字体的集合和用于设计它们的代码库。
+ ]]></description>
+      <guid>https://www.generativefonts.xyz/</guid>
+      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端跑步机</title>
+      <link>https://polotek.net/posts/the-frontend-treadmill/</link>
+      <description><![CDATA[许多前端团队非常确信，重写他们的前端将导致应许之地。我是不良消息的承载者。
+ ]]></description>
+      <guid>https://polotek.net/posts/the-frontend-treadmill/</guid>
+      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用的字体</title>
+      <link>https://fontsinuse.com/</link>
+      <description><![CDATA[通过字体，格式和主题索引的印刷设计档案。
+ ]]></description>
+      <guid>https://fontsinuse.com/</guid>
+      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI盲点</title>
       <link>https://ezyang.github.io/ai-blindspots/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://jarango.com/2025/03/18/ai-is-probabilistic-thats-why-it-needs-constraints/</guid>
       <pubDate>Thu, 20 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的界面失去了感官</title>
-      <link>https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses</link>
-      <description><![CDATA[最近，我们过于专注于适合计算机的形状，而对自己的身体不足。
- ]]></description>
-      <guid>https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses</guid>
-      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计系统报告2025</title>
-      <link>https://zeroheight.com/how-we-document/design-system-report-2025-brought-to-you-by-zeroheight/</link>
-      <description><![CDATA[如果您躲避所有广告，则非常宝贵的资源：该报告的第四版展示了2025年设计系统的当前状态。
- ]]></description>
-      <guid>https://zeroheight.com/how-we-document/design-system-report-2025-brought-to-you-by-zeroheight/</guid>
-      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI想象的非凡事物</title>
-      <link>https://extraordinarythings.co/</link>
-      <description><![CDATA[ Yashas Mitta正在进行的AI驱动项目，使用最新的文本到图像模型来想象超现实的对象。
- ]]></description>
-      <guid>https://extraordinarythings.co/</guid>
-      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>认知可访问性的最佳实践</title>
-      <link>https://www.a11y-collective.com/blog/cognitive-accessibility/</link>
-      <description><![CDATA[ WCAG指南，设计模式和现实案例研究。
- ]]></description>
-      <guid>https://www.a11y-collective.com/blog/cognitive-accessibility/</guid>
-      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI的过去和现在未来</title>
-      <link>https://www.datagubbe.se/futui/</link>
-      <description><![CDATA[拐角处有真正的新范式吗？桌面会消失吗？
- ]]></description>
-      <guid>https://www.datagubbe.se/futui/</guid>
-      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
