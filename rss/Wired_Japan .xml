@@ -4,9 +4,16 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 24 Mar 2025 06:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 09:23:38 GMT</lastBuildDate>
     <item>
-      <title>由土壤和社区的力量创建的建筑，从“非西方”（Pritzker奖）建筑师弗朗西斯·凯尔（Francis Kelle）崛起。</title>
+      <title>AI治理与自上而下的自下而上：Mizuno Yu的新社会契约（或其他内容）</title>
+      <link>https://wired.jp/article/new-trust-new-social-contract-20/</link>
+      <description><![CDATA[这是律师Mizuno Yu的系列，他反思了“社会契约”或单个事件的替代特征，这些特征似乎与法律或合同无关。这次，我们将考虑未来的AI治理，这将与自下而上的自上而下编织在一起，从欧盟-AI法案开始，该法案将于2025年从2025年分阶段应用。]]></description>
+      <guid>https://wired.jp/article/new-trust-new-social-contract-20/</guid>
+      <pubDate>Mon, 24 Mar 2025 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过土壤和社区的力量创建的建筑，从“非西方”  - 普里兹克奖建筑师弗朗西斯·凯尔（Francis Kelle）谈论建筑的社会角色</title>
       <link>https://wired.jp/article/diebedo-francis-kere-interview/</link>
       <description><![CDATA[弗朗西斯·凯尔（Francis Kelle）是一位扎根于非洲的建筑师，并获得了普里兹克奖（2022），也被称为建筑界的诺贝尔奖。它突出了Kele的建筑思想，这些思想已经建立了一种植根于土著智慧和当地社区的方法，而不是西方副本。]]></description>
       <guid>https://wired.jp/article/diebedo-francis-kere-interview/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>鸟类和狗在得克萨斯州的一个小镇上很开心，那里有许多有关亚马逊无人机交付的抱怨</title>
       <link>https://wired.jp/article/sz-texas-amazon-drones-stop-flying/</link>
-      <description><![CDATA[亚马逊的无人机送货服务Prime Air在德克萨斯州的大学站面临的强烈反弹要比美国的其他任何城市都要强烈。现在，在无人机消失的城镇中，正在恢复和平与隐私。亚马逊从这个镇上学到了什么？]]></description>
+      <description><![CDATA[亚马逊的无人机送货服务Prime Air在德克萨斯州的大学站面临着比美国其他任何城市更强烈的反对。现在，在无人机消失的城镇中，正在恢复和平与隐私。亚马逊从这个镇上学到了什么？]]></description>
       <guid>https://wired.jp/article/sz-texas-amazon-drones-stop-flying/</guid>
       <pubDate>Sun, 23 Mar 2025 22:00:00 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Nvidia收购了“合成数据”公司。人工智能行业正在前进</title>
       <link>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</link>
-      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据的问题的战略举动。]]></description>
+      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据问题的战略举措。]]></description>
       <guid>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</guid>
       <pubDate>Fri, 21 Mar 2025 23:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>人工智能拒绝生成代码，并建议开发人员他们应该自己思考</title>
       <link>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</link>
-      <description><![CDATA[开发人员正在使用AI编码助手在工作突然停止时生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
+      <description><![CDATA[开发人员在工作突然停止时使用AI编码助手来生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
       <guid>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</guid>
       <pubDate>Thu, 20 Mar 2025 23:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[为了提高生产率和提高即时权力，AI现在被用来“审查”其多样性，公平，包容性和可及性政策，以遵守特朗普总统的命令。]]></description>
       <guid>https://wired.jp/article/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/</guid>
       <pubDate>Thu, 20 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个数十亿日元的项目已在东京发起，以替换电池更换电动卡车</title>
-      <link>https://wired.jp/article/tokyo-ample-battery-swap-electric-trucks/</link>
-      <description><![CDATA[一个项目已开始在东京运营运营车辆，例如可替换电池电动卡车和其他自动电池更换站的车辆。这个数十亿日元的项目可能证明了以前著名的电池可取消EV的“复兴”。]]></description>
-      <guid>https://wired.jp/article/tokyo-ample-battery-swap-electric-trucks/</guid>
-      <pubDate>Thu, 20 Mar 2025 02:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
