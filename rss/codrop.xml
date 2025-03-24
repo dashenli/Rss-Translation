@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Sat, 22 Mar 2025 09:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 12:37:01 GMT</lastBuildDate>
+    <item>
+      <title>使用着色器进行动画字母：互动文本效果，three.js＆glsl</title>
+      <link>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</link>
+      <description><![CDATA[一个初学者友好的教程，该教程探讨了如何使用Three.js和自定义着色器创建动态文本位移效果。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</guid>
+      <pubDate>Mon, 24 Mar 2025 09:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>运动突出显示＃3</title>
       <link>https://tympanus.net/codrops/2025/03/22/motion-highlights-3/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[探索优化的方法，以实现WebGL中的响应式图像缩放和定位，类似于CSS Object-Fit：封面行为。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</guid>
       <pubDate>Tue, 11 Mar 2025 07:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用三分和TSL在玻璃球内渲染程序性涡流</title>
-      <link>https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/</link>
-      <description><![CDATA[使用三分。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/10/rendering-a-procedural-vortex-inside-a-glass-sphere-with-three-js-and-tsl/</guid>
-      <pubDate>Mon, 10 Mar 2025 09:25:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
