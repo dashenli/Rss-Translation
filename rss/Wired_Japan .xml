@@ -4,9 +4,23 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 24 Mar 2025 15:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 01:19:20 GMT</lastBuildDate>
     <item>
-      <title>AI治理与自上而下的自下而上：Mizuno Yu的新社会契约（或其他内容）</title>
+      <title>重新定义“叠加”和“量子纠缠”该量子参考系统方法</title>
+      <link>https://wired.jp/article/in-the-quantum-world-even-points-of-view-are-uncertain/</link>
+      <description><![CDATA[一个将古典物理学的“标准系统”纳入量子世界的研究小组正在为传统的量子物理创造新的风。对“量子参考系统”的研究可能是建立量子重力理论的突破。]]></description>
+      <guid>https://wired.jp/article/in-the-quantum-world-even-points-of-view-are-uncertain/</guid>
+      <pubDate>Tue, 25 Mar 2025 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尤瓦尔·诺亚·哈拉里（Yuval Noah Harari）回答有线的10个问题</title>
+      <link>https://wired.jp/article/sz-yuval-noah-harari-the-big-interview/</link>
+      <description><![CDATA[为什么奇点的到来是不可避免的？为什么宗教观点上的差异会在接受人工智能上有所不同？数字民主的连胜纪录在哪里？ - 一次罕见的大沉没者采访，他的新书《 Nexus：人类信息史》来到日本。]]></description>
+      <guid>https://wired.jp/article/sz-yuval-noah-harari-the-big-interview/</guid>
+      <pubDate>Mon, 24 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI治理与自上而下的自上而下：Mizuno Yu的新社会契约（或其他内容）卷。 20</title>
       <link>https://wired.jp/article/new-trust-new-social-contract-20/</link>
       <description><![CDATA[这是律师Mizuno Yu的系列，他反思了“社会契约”或单个事件的替代特征，这些特征似乎与法律或合同无关。这次，我们将考虑未来的AI治理，这将与自下而上的自上而下编织在一起，从欧盟-AI法案开始，该法案将于2025年从2025年分阶段应用。]]></description>
       <guid>https://wired.jp/article/new-trust-new-social-contract-20/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>Nvidia收购了“合成数据”公司。人工智能行业正在前进</title>
       <link>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</link>
-      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据的问题的战略举动。]]></description>
+      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据问题的战略举措。]]></description>
       <guid>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</guid>
       <pubDate>Fri, 21 Mar 2025 23:00:00 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>人工智能拒绝生成代码，并建议开发人员他们应该自己思考</title>
       <link>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</link>
-      <description><![CDATA[开发人员正在使用AI编码助手在工作突然停止时生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
+      <description><![CDATA[开发人员在工作突然停止时使用AI编码助手来生成代码。 AI表示，它已经向开发人员宣讲，他们应该自己做。在编程世界中，“教我如何钓鱼而不是喂鱼”这一说法似乎已成为现实。]]></description>
       <guid>https://wired.jp/article/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</guid>
       <pubDate>Thu, 20 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的“比特币策略库存”概念和困惑的经济专家</title>
-      <link>https://wired.jp/article/sz-trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/</link>
-      <description><![CDATA[美国总统特朗普的倡议不是直接购买比特币，而是将使用美国政府目前持有的比特币资产用作国家库存，并创建另一批比特币以外的加密货币资产。]]></description>
-      <guid>https://wired.jp/article/sz-trumps-strategic-bitcoin-reserve-plan-comes-with-a-twist/</guid>
-      <pubDate>Thu, 20 Mar 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国陆军的AI“ camogpt”用于消除DEI在培训材料中的提及</title>
-      <link>https://wired.jp/article/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/</link>
-      <description><![CDATA[为了提高生产率和提高即时权力，AI现在被用来“审查”其多样性，公平，包容性和可及性政策，以遵守特朗普总统的命令。]]></description>
-      <guid>https://wired.jp/article/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/</guid>
-      <pubDate>Thu, 20 Mar 2025 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
