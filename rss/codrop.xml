@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 24 Mar 2025 18:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 09:24:14 GMT</lastBuildDate>
+    <item>
+      <title>Stas Bondar ’25：下一级投资组合背后的代码和技术</title>
+      <link>https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/</link>
+      <description><![CDATA[sabondar.com背后的外观 - 一种创意投资组合，其中包含具有GSAP，TRIX.JS和基于物理效果的高级Web动画。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/</guid>
+      <pubDate>Tue, 25 Mar 2025 08:14:47 GMT</pubDate>
+    </item>
     <item>
       <title>使用着色器进行动画字母：互动文本效果，three.js＆glsl</title>
       <link>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该案例研究讲述了一个小型改名想法如何激发代理机构内部革命的故事。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/12/case-study-fiddle-digital-design-agency-the-new-us/</guid>
       <pubDate>Wed, 12 Mar 2025 07:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>在WebGL中复制CSS对象拟合：用于图像缩放和定位的优化技术</title>
-      <link>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</link>
-      <description><![CDATA[探索优化的方法，以实现WebGL中的响应式图像缩放和定位，类似于CSS Object-Fit：封面行为。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/11/replicating-css-object-fit-in-webgl/</guid>
-      <pubDate>Tue, 11 Mar 2025 07:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
