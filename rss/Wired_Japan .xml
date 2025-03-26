@@ -4,7 +4,35 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Tue, 25 Mar 2025 21:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 01:18:36 GMT</lastBuildDate>
+    <item>
+      <title>科学家是艺术家的“同志” -Utada hikaru的“ Cern Exploration”</title>
+      <link>https://wired.jp/article/vol56-hikaru-utada-cern-report/</link>
+      <description><![CDATA[纪念他职业生涯25周年的最佳专辑的标题是“科幻小说”。新歌的主题首次将在CD中出现，是“ Schrodinger的猫”或“量子缠结”。乌塔达·希卡鲁（Utada Hikaru）是一位前所未有的艺术家，他已经揭示了他多年来培养的“科学强度”。当她访问瑞士的CERN（欧洲核研究组织）时，她的感受和想法是全球粒子物理研究中心之一。 （摘自日本版本第56卷中的杂志“有线”的“量子计算机”上的特殊功能）]]></description>
+      <guid>https://wired.jp/article/vol56-hikaru-utada-cern-report/</guid>
+      <pubDate>Wed, 26 Mar 2025 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>同步和NVIDIA促进连接大脑和计算机的技术</title>
+      <link>https://wired.jp/article/synchrons-brain-computer-interface-now-has-nvidias-ai/</link>
+      <description><![CDATA[Neurotechnology Company Synchron与NVIDIA合作开发了连接大脑和计算机以及“认知AI”的接口（BCI）。我们的目标是通过使用思考来操纵环境来实现新的用户体验。]]></description>
+      <guid>https://wired.jp/article/synchrons-brain-computer-interface-now-has-nvidias-ai/</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openai的“深入研究”是否会使办公室的工作更加自动化？</title>
+      <link>https://wired.jp/article/openais-deep-research-agent-is-coming-for-white-collar-work/</link>
+      <description><![CDATA[Openai的新AI工具“深入研究”引起了人们的关注。它的功能是它计划自己的研究，搜索网络，组织信息并将其编译成报告。它有可能自动化各种办公室操作，而兴趣集中在如何带来未来的工作风格变化上。]]></description>
+      <guid>https://wired.jp/article/openais-deep-research-agent-is-coming-for-white-collar-work/</guid>
+      <pubDate>Tue, 25 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字时代的结束 - 从总编辑到读者到发行“有线”量子计算机的发行</title>
+      <link>https://wired.jp/article/vol56-editors-letter/</link>
+      <description><![CDATA[如果我们正在考虑即将到来的“量子时代”，我们将首先询问数字时代是什么。从差异可以看出的“量子性质”的可能性是什么？主编Matsushima Michiaki的编辑信，指的是日本最新一期的“有线”。]]></description>
+      <guid>https://wired.jp/article/vol56-editors-letter/</guid>
+      <pubDate>Tue, 25 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>未来已经出现了，臭氧孔将完全从南极“消失”</title>
       <link>https://wired.jp/article/the-antarctic-ozone-hole-is-healing/</link>
@@ -41,7 +69,7 @@
       <pubDate>Mon, 24 Mar 2025 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过土壤和社区的力量创建的建筑，从“非西方”  - 普里兹克奖建筑师弗朗西斯·凯尔（Francis Kelle）谈论建筑的社会角色</title>
+      <title>由土壤和社区的力量创建的建筑，从“非西方”（Pritzker奖）建筑师弗朗西斯·凯尔（Francis Kelle）崛起。</title>
       <link>https://wired.jp/article/diebedo-francis-kere-interview/</link>
       <description><![CDATA[弗朗西斯·凯尔（Francis Kelle）是一位扎根于非洲的建筑师，并获得了普里兹克奖（2022），也被称为建筑界的诺贝尔奖。它突出了Kele的建筑思想，这些思想已经建立了一种植根于土著智慧和当地社区的方法，而不是西方副本。]]></description>
       <guid>https://wired.jp/article/diebedo-francis-kere-interview/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[在4月22日的地球日之前，我们将审查地球日是什么，并查看最新的环保商品，这些产品将有助于保护全球环境。建议任何已经采取行动或刚开始采取行动或刚开始的任何人，任何人。]]></description>
       <guid>https://wired.jp/article/earth-day-eco-goods-shopping-guide/</guid>
       <pubDate>Sun, 23 Mar 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google已在其机器人上安装了新的“双子座” AI。在物理世界中工作</title>
-      <link>https://wired.jp/article/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</link>
-      <description><![CDATA[Google宣布了Gemini的新AI模型，该模型为机器人提供了高智能，并在演示视频中展示了Gemini Robotics的功能，Gemini Robotics具有新的模型。他们还宣布了基准“ Asimov”，该基准评估了物理世界中AI的潜在风险。]]></description>
-      <guid>https://wired.jp/article/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</guid>
-      <pubDate>Sat, 22 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普政府指示研究人员减少AI模型中的“意识形态偏见”</title>
-      <link>https://wired.jp/article/ai-safety-institute-new-directive-america-first/</link>
-      <description><![CDATA[3月，美国国家标准技术研究所（NIST）与美国人工智能安全研究所（AISI）合作修订了研究人员的合同。据说，在拜登政府下很重要的AI安全和公平性已经消失了。]]></description>
-      <guid>https://wired.jp/article/ai-safety-institute-new-directive-america-first/</guid>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia收购了“合成数据”公司。人工智能行业正在前进</title>
-      <link>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</link>
-      <description><![CDATA[对Wired的采访表明，NVIDIA已收购了合成数据公司Gretel。这似乎是解决客户和开发人员缺乏AI培训数据的问题的战略举动。]]></description>
-      <guid>https://wired.jp/article/nvidia-gretel-acquisition-synthetic-training-data/</guid>
-      <pubDate>Fri, 21 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止使用该应用并出汗 - 找到超越体育俱乐部“约会”的爱情</title>
-      <link>https://wired.jp/article/sz-dating-irl-athletic-clubs-gyms/</link>
-      <description><![CDATA[在大流行时代，旧金山体育社区证明，与使用匹配的应用程序相比，通过汗湿的爱好而遇到更深层，更持久的关系。]]></description>
-      <guid>https://wired.jp/article/sz-dating-irl-athletic-clubs-gyms/</guid>
-      <pubDate>Fri, 21 Mar 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
