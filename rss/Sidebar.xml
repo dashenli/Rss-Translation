@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 26 Mar 2025 09:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 12:36:37 GMT</lastBuildDate>
+    <item>
+      <title>衡量标准的领导</title>
+      <link>https://bit.ly/measureship</link>
+      <description><![CDATA[如果您曾经有一个应用程序随机打扰您的一天，以询问您是否喜欢它。那是量度。
+ ]]></description>
+      <guid>https://bit.ly/measureship</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端练习</title>
+      <link>https://www.frontendpractice.com/</link>
+      <description><![CDATA[通过重新创建真正公司的真实网站，将您的前端技能提升到一个新的水平。
+ ]]></description>
+      <guid>https://www.frontendpractice.com/</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>耐力是一个安静的优势</title>
+      <link>https://kupajo.com/stamina-is-a-quiet-advantage/</link>
+      <description><![CDATA[尽管疼痛或不适，能够维持集中精力的能力（或忠于您的价值观，尤其是在难以这样做的情况下）。
+ ]]></description>
+      <guid>https://kupajo.com/stamina-is-a-quiet-advantage/</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI功能的发现性和亚马逊的错误</title>
+      <link>https://www.nngroup.com/articles/discoverability-ai-amazon/</link>
+      <description><![CDATA[即使人们不注意到它们，也不会使用提供价值的AI功能。 
+ ]]></description>
+      <guid>https://www.nngroup.com/articles/discoverability-ai-amazon/</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发中有太多的软件</title>
+      <link>https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/</link>
+      <description><![CDATA[工具周围的复杂性有所增加，出于公司的利益，而不是提供用户所需的东西。
+ ]]></description>
+      <guid>https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>小星球的设计</title>
       <link>https://jenson.org/smallplanet/</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://fontsinuse.com/</guid>
       <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI盲点</title>
-      <link>https://ezyang.github.io/ai-blindspots/</link>
-      <description><![CDATA[ LLMS中的盲点在AI编码时注意到。 
- ]]></description>
-      <guid>https://ezyang.github.io/ai-blindspots/</guid>
-      <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字卫生</title>
-      <link>https://karpathy.bearblog.dev/digital-hygiene/</link>
-      <description><![CDATA[最基本的数字卫生技巧的集合，从最基本到更多的利基市场开始。
- ]]></description>
-      <guid>https://karpathy.bearblog.dev/digital-hygiene/</guid>
-      <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai.fm</title>
-      <link>https://www.openai.fm/</link>
-      <description><![CDATA[开发人员尝试在OpenAI API中尝试新的文本到语音模型的交互式演示。
- ]]></description>
-      <guid>https://www.openai.fm/</guid>
-      <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的瑞士护照设计</title>
-      <link>https://retinaa.ch/work/new-swiss-passport</link>
-      <description><![CDATA[使用3D模型的浮雕和其他宝石，将美国的风景编织成本国的构成的精美作品。。
- ]]></description>
-      <guid>https://retinaa.ch/work/new-swiss-passport</guid>
-      <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>并非所有AI辅助编程都是Vibe编码</title>
-      <link>https://simonwillison.net/2025/Mar/19/vibe-coding/</link>
-      <description><![CDATA[ Vibe编码有片刻。对于Thraway周末项目来说还不错，但仍然很有趣。
- ]]></description>
-      <guid>https://simonwillison.net/2025/Mar/19/vibe-coding/</guid>
-      <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
