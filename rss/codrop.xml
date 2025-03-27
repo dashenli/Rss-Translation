@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Thu, 27 Mar 2025 12:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 18:32:16 GMT</lastBuildDate>
+    <item>
+      <title>开发人员聚光灯：豪尔赫·托洛萨（Jorge Toloza）</title>
+      <link>https://tympanus.net/codrops/2025/03/27/developer-spotlight-jorge-toloza/</link>
+      <description><![CDATA[从自学成才的开端到制定运动式的互动体验，这都是豪尔赫·托洛萨（Jorge Toloza）的旅程以及塑造他创造性发展方法的项目。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/27/developer-spotlight-jorge-toloza/</guid>
+      <pubDate>Thu, 27 Mar 2025 15:25:29 GMT</pubDate>
+    </item>
     <item>
       <title>运动中的设计：绿色堆栈背后的动画原理</title>
       <link>https://tympanus.net/codrops/2025/03/26/design-in-motion-the-animation-principles-behind-green-stack/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[摄影师Motoyoshi Takamitsu的作品集网站的设计和开发探索。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/17/case-study-motoyoshi-takamitsu/</guid>
       <pubDate>Mon, 17 Mar 2025 07:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>播放三分之二的光和折射</title>
-      <link>https://tympanus.net/codrops/2025/03/13/warping-3d-text-inside-a-glass-torus/</link>
-      <description><![CDATA[探索三分之二的Meshtransmaterials如何弯曲光线，产生折射效果并增强逼真的玻璃状材料。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/13/warping-3d-text-inside-a-glass-torus/</guid>
-      <pubDate>Thu, 13 Mar 2025 09:04:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
