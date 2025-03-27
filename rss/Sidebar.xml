@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 27 Mar 2025 12:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 15:21:44 GMT</lastBuildDate>
+    <item>
+      <title>是什么杀死了创新？</title>
+      <link>https://www.shirleywu.studio/notebook/2025-02-innovation-killer</link>
+      <description><![CDATA[交互式数据可视化如何从大胆的实验转变为可预测的格式。 
+ ]]></description>
+      <guid>https://www.shirleywu.studio/notebook/2025-02-innovation-killer</guid>
+      <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制任何UI</title>
+      <link>https://same.new/</link>
+      <description><![CDATA[促使URL通过AI制作Pife Perfect of。
+ ]]></description>
+      <guid>https://same.new/</guid>
+      <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>无花果插件：透视工具包</title>
+      <link>https://www.figma.com/community/plugin/862059663689780943/perspective-toolkit</link>
+      <description><![CDATA[使用非破坏性等轴测偏斜，具有完整透视和FOV控制的3D将UI或图像放在透视上。
+ ]]></description>
+      <guid>https://www.figma.com/community/plugin/862059663689780943/perspective-toolkit</guid>
+      <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>F*周围找出答案</title>
+      <link>https://www.itsnicethat.com/articles/ji-park-graphic-design-discover-250325</link>
+      <description><![CDATA[一个理念基础设计师吉公园的折衷实践。
+ ]]></description>
+      <guid>https://www.itsnicethat.com/articles/ji-park-graphic-design-discover-250325</guid>
+      <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI最大的缺陷？闪烁的光标问题</title>
+      <link>https://blog.scottlogic.com/2025/02/21/ais-biggest-flaw-the-blinking-cursor-problem.html</link>
+      <description><![CDATA[ AI的潜力是巨大的，但笨拙的用户界面和缺乏可发现性使它无法无缝采用。 
+ ]]></description>
+      <guid>https://blog.scottlogic.com/2025/02/21/ais-biggest-flaw-the-blinking-cursor-problem.html</guid>
+      <pubDate>Thu, 27 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>衡量标准的领导</title>
       <link>https://bit.ly/measureship</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://accessiblegames.com/accessibility-tags/</guid>
       <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dataviz词汇</title>
-      <link>https://ft-interactive.github.io/visual-vocabulary/</link>
-      <description><![CDATA[有很多可视化数据的方法 - 我们如何知道要选择哪一个？
- ]]></description>
-      <guid>https://ft-interactive.github.io/visual-vocabulary/</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化数学</title>
-      <link>https://asteriskmag.com/issues/09/automating-math</link>
-      <description><![CDATA[计算机已经可以帮助验证证明。有一天，AI可能会提出新的。
- ]]></description>
-      <guid>https://asteriskmag.com/issues/09/automating-math</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成字体</title>
-      <link>https://www.generativefonts.xyz/</link>
-      <description><![CDATA[ nan glyph滤波器是一个程序生成的显示字体的集合和用于设计它们的代码库。
- ]]></description>
-      <guid>https://www.generativefonts.xyz/</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端跑步机</title>
-      <link>https://polotek.net/posts/the-frontend-treadmill/</link>
-      <description><![CDATA[许多前端团队非常确信，重写他们的前端将导致应许之地。我是不良消息的承载者。
- ]]></description>
-      <guid>https://polotek.net/posts/the-frontend-treadmill/</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用的字体</title>
-      <link>https://fontsinuse.com/</link>
-      <description><![CDATA[通过字体，格式和主题索引的印刷设计档案。
- ]]></description>
-      <guid>https://fontsinuse.com/</guid>
-      <pubDate>Mon, 24 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
