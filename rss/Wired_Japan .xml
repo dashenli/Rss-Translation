@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Fri, 28 Mar 2025 01:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 03:33:01 GMT</lastBuildDate>
+    <item>
+      <title>在模拟中实现99.99％的忠诚度和“双重挥舞”的挑战：大型日本公司领导量子计算时代（2）：东芝</title>
+      <link>https://wired.jp/article/vol56-creating-the-next-industry-toshiba/</link>
+      <description><![CDATA[自日本早期以来，来自日本量子计算机研究和开发的主要公司的研究人员如何看待未来？东芝的目标是使高级保真度（精度）为99.99％，并且还通过在普通计算机上安装自己的算法来实施量子技术的社会实施。]]></description>
+      <guid>https://wired.jp/article/vol56-creating-the-next-industry-toshiba/</guid>
+      <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普政府“信号”聊天问题的真实本质，误导了美国杂志编辑</title>
       <link>https://wired.jp/article/signalgate-isnt-about-signal/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个将古典物理学的“标准系统”纳入量子世界的研究小组正在为传统的量子物理创造新的风。对“量子参考系统”的研究可能是建立量子重力理论的突破。]]></description>
       <guid>https://wired.jp/article/in-the-quantum-world-even-points-of-view-are-uncertain/</guid>
       <pubDate>Tue, 25 Mar 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>尤瓦尔·诺亚·哈拉里（Yuval Noah Harari）回答有线的10个问题</title>
-      <link>https://wired.jp/article/sz-yuval-noah-harari-the-big-interview/</link>
-      <description><![CDATA[为什么奇点的到来是不可避免的？为什么宗教观点上的差异会在接受人工智能上有所不同？数字民主的获胜目标在哪里？ - 一次罕见的大沉没者采访，他的新书《 Nexus：人类信息史》来到日本。]]></description>
-      <guid>https://wired.jp/article/sz-yuval-noah-harari-the-big-interview/</guid>
-      <pubDate>Mon, 24 Mar 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
