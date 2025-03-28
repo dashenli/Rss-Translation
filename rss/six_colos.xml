@@ -4,7 +4,16 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell＆Dan Moren的苹果，技术和其他东西</description>
-    <lastBuildDate>Fri, 28 Mar 2025 18:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 21:18:19 GMT</lastBuildDate>
+    <item>
+      <title>捷径陷入“自动化差距”↦↦</title>
+      <link>https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/</link>
+      <description><![CDATA[约翰·沃尔希（John Voorhees），在俱乐部宏观上写（需要订阅）：
+ 
+  大约三年前，我写了AppleScript：快捷桥或拐杖？询问通过Mac上的快捷方式访问AppleScript是要庆祝的功能还是危险信号，担心Apple会使用该集成推迟或从未发布过许多系统级别的动作，这些动作在Mac上遇到了Shortcuts在Mac上首次亮相。]]></description>
+      <guid>https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/</guid>
+      <pubDate>Fri, 28 Mar 2025 20:46:09 GMT</pubDate>
+    </item>
     <item>
       <title>（赞助商）Flashfinder：第一个与Apple兼容的钥匙扣手电筒查找我</title>
       <link>https://sixcolors.com/sponsor/2025/03/flashfinder-the-first-keychain-flashlight-compatible-with-apple-find-my/</link>
@@ -39,7 +48,7 @@
     <item>
       <title>检查播客笔记</title>
       <link>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</link>
-      <description><![CDATA[注释。
+      <description><![CDATA[
 三年前，我和Dan合作进行了一个项目，该项目使我们能够在录制播客的同时在Mac上动态创建编辑注释。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</guid>
       <pubDate>Wed, 26 Mar 2025 18:55:52 GMT</pubDate>
@@ -55,7 +64,7 @@
       <title>WWDC 2025将于6月9日开始</title>
       <link>https://sixcolors.com/post/2025/03/wwdc-2025-is-kicking-off-june-9/</link>
       <description><![CDATA[
-该周期即将重新开始：苹果周二宣布，其2025年全球开发人员会议将于6月9日至13日举行。该活动（包括主题演讲和会议）将免费在线上，以及Apple Park的有限人工组成部分。＆hellip; ]]></description>
+该周期即将重新开始：苹果周二宣布，其2025年全球开发人员会议将于6月9日至13日举行。该活动（包括主题演讲和会议）将免费在线上，以及Apple Park的面对面组成部分。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/wwdc-2025-is-kicking-off-june-9/</guid>
       <pubDate>Tue, 25 Mar 2025 17:15:54 GMT</pubDate>
     </item>
@@ -111,13 +120,6 @@
 自从我切开电线以来，我唯一与电视世界的接口就是我的Apple TV。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/whos-the-laggard-comparing-tv-streamer-boxes/</guid>
       <pubDate>Thu, 20 Mar 2025 18:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）篮板538：带负载的转移器</title>
-      <link>https://sixcolors.com/podcast/2025/03/the-rebound-538-load-bearing-phasers/</link>
-      <description><![CDATA[这个播客上什么都没有。＆hellip; ]]></description>
-      <guid>https://sixcolors.com/podcast/2025/03/the-rebound-538-load-bearing-phasers/</guid>
-      <pubDate>Wed, 19 Mar 2025 19:33:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
