@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Fri, 28 Mar 2025 09:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 12:34:50 GMT</lastBuildDate>
+    <item>
+      <title>保持无花果中的屏幕截图质量和颜色曲线</title>
+      <link>https://maxburnside.com/blog/maintaining_screenshot_quality_in_figma</link>
+      <description><![CDATA[步骤确保最终导出的图像保留所使用的屏幕截图的所有高质量方面。
+ ]]></description>
+      <guid>https://maxburnside.com/blog/maintaining_screenshot_quality_in_figma</guid>
+      <pubDate>Fri, 28 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polygonjs：WebGL设计与动画工具</title>
+      <link>https://polygonjs.com/</link>
+      <description><![CDATA[基于节点的设计和动画工具。
+ ]]></description>
+      <guid>https://polygonjs.com/</guid>
+      <pubDate>Fri, 28 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>庆祝阿拉伯文字丰富的类型设计师</title>
+      <link>https://wepresent.wetransfer.com/stories/kristyan-sarkis-arabic-type-design</link>
+      <description><![CDATA[类型设计师和刻字艺术家Kristyan Sarkis如何庆祝阿拉伯文字的丰富多样性和历史。
+ ]]></description>
+      <guid>https://wepresent.wetransfer.com/stories/kristyan-sarkis-arabic-type-design</guid>
+      <pubDate>Fri, 28 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viggle AI：可控视频生成器</title>
+      <link>https://www.viggle.ai/home</link>
+      <description><![CDATA[通过AI将角色栩栩如生 - 从专业运动捕获到病毒模因。
+ ]]></description>
+      <guid>https://www.viggle.ai/home</guid>
+      <pubDate>Fri, 28 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>可访问性角色</title>
+      <link>https://personas-prototype.herokuapp.com/</link>
+      <description><![CDATA[ HMRC的团队创建并改编了GDS可访问性角色，作为提高工作意识的一部分。
+ ]]></description>
+      <guid>https://personas-prototype.herokuapp.com/</guid>
+      <pubDate>Fri, 28 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>是什么杀死了创新？</title>
       <link>https://www.shirleywu.studio/notebook/2025-02-innovation-killer</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/</guid>
       <pubDate>Wed, 26 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>小星球的设计</title>
-      <link>https://jenson.org/smallplanet/</link>
-      <description><![CDATA[ UX设计正在经历自己的“您的成本太多”阶段。我们如何才能进行“小星球的设计”转变？
- ]]></description>
-      <guid>https://jenson.org/smallplanet/</guid>
-      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI颜色匹配：免费的色彩转移工具</title>
-      <link>https://colormatch.polarr.com/</link>
-      <description><![CDATA[立即将任何图像的颜色和音调应用于您自己的。 
- ]]></description>
-      <guid>https://colormatch.polarr.com/</guid>
-      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>匹配CSS，Android，iOS，Figma和Sketch的下降阴影</title>
-      <link>https://bjango.com/articles/matchingdropshadows/</link>
-      <description><![CDATA[如果您曾经尝试过在多个平台和设计工具上实现一致的阴影，则可能已经注意到它们看起来不一样。
- ]]></description>
-      <guid>https://bjango.com/articles/matchingdropshadows/</guid>
-      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再浏览</title>
-      <link>https://paulstamatiou.com/browse-no-more</link>
-      <description><![CDATA[当今AI驱动的搜索工具如何牺牲曾经使互联网如此迷人的美丽混乱。 
- ]]></description>
-      <guid>https://paulstamatiou.com/browse-no-more</guid>
-      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无障碍游戏计划</title>
-      <link>https://accessiblegames.com/accessibility-tags/</link>
-      <description><![CDATA[通过有关视频游戏中可访问性功能的清晰信息来改善玩家的游戏体验的项目。
- ]]></description>
-      <guid>https://accessiblegames.com/accessibility-tags/</guid>
-      <pubDate>Tue, 25 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
