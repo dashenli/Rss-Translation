@@ -4,11 +4,25 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Sat, 29 Mar 2025 03:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 06:22:58 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·马斯克（Elon Musk）的Xai收购了X。这两家公司的未来是“交织在一起的”</title>
+      <link>https://wired.jp/article/xai-x-acquisition-deal/</link>
+      <description><![CDATA[自Elon Musk成为所有者以来，社交媒体平台X一直在挣扎。但是，自从唐纳德·特朗普（Donald Trump）再次当选为美国总统以来，他的命运已大大提高。将来，X计划成为Mask AI初创公司XAI的子公司。]]></description>
+      <guid>https://wired.jp/article/xai-x-acquisition-deal/</guid>
+      <pubDate>Sat, 29 Mar 2025 04:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普政府“信号”聊天问题的真实本质，误导了美国杂志编辑</title>
+      <link>https://wired.jp/article/signalgate-isnt-about-signal/</link>
+      <description><![CDATA[美国杂志的主编被邀请参加小组聊天的问题，特朗普政府高级政府官员讨论空袭计划引起了轰动。安全专家强调，在本期问题中所要求的不是消息传递应用程序“信号”的脆弱性，而是使用的信息管理及其在中央政府的运营。]]></description>
+      <guid>https://wired.jp/article/signalgate-isnt-about-signal/</guid>
+      <pubDate>Sat, 29 Mar 2025 04:01:44 GMT</pubDate>
+    </item>
     <item>
       <title>无处不在的AI的未来，未来的关键是“卫星互联网”。</title>
       <link>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</link>
-      <description><![CDATA[为了使AI代理人实现其真实价值，必须具有“恒定连接”，即使他们在何处，它们都可以连接到互联网。 To achieve this, satellite communications such as Starlink are attracting a lot of attention.]]></description>
+      <description><![CDATA[为了使AI代理人实现其真实价值，必须具有“恒定连接”，即使他们在何处，它们都可以连接到互联网。为了实现这一目标，诸如Starlink之类的卫星通信吸引了很多关注。]]></description>
       <guid>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</guid>
       <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
     </item>
@@ -39,13 +53,6 @@
       <description><![CDATA[自日本早期以来，来自日本量子计算机研究和开发的主要公司的研究人员如何看待未来？东芝的目标是使高级保真度（精度）为99.99％，并且还通过在普通计算机上安装自己的算法来实施量子技术的社会实施。]]></description>
       <guid>https://wired.jp/article/vol56-creating-the-next-industry-toshiba/</guid>
       <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普政府“信号”聊天问题的真实本质，误导了美国杂志编辑</title>
-      <link>https://wired.jp/article/signalgate-isnt-about-signal/</link>
-      <description><![CDATA[美国杂志的主编被邀请参加小组聊天的问题，特朗普政府高级政府官员讨论空袭计划引起了轰动。安全专家强调，在本期问题中所要求的不是消息传递应用程序“信号”的脆弱性，而是使用的信息管理及其在中央政府的运营。]]></description>
-      <guid>https://wired.jp/article/signalgate-isnt-about-signal/</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>美国云正在欧洲前进。特朗普政府领导的数据风险警告</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[Neurotechnology Company Synchron与NVIDIA合作开发了连接大脑和计算机以及“认知AI”的接口（BCI）。我们的目标是通过使用思考来操纵环境来实现新的用户体验。]]></description>
       <guid>https://wired.jp/article/synchrons-brain-computer-interface-now-has-nvidias-ai/</guid>
       <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai的“深入研究”是否会使办公室的工作更加自动化？</title>
-      <link>https://wired.jp/article/openais-deep-research-agent-is-coming-for-white-collar-work/</link>
-      <description><![CDATA[Openai的新AI工具“深入研究”引起了人们的关注。它的功能是它计划自己的研究，搜索网络，组织信息并将其编译成报告。它有可能自动化各种办公室操作，而兴趣集中在如何带来未来的工作风格变化上。]]></description>
-      <guid>https://wired.jp/article/openais-deep-research-agent-is-coming-for-white-collar-work/</guid>
-      <pubDate>Tue, 25 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
