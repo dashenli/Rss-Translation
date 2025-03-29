@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Sat, 29 Mar 2025 06:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 09:21:42 GMT</lastBuildDate>
+    <item>
+      <title>加密应用程序“信号”的下载次数在美国飙升。专注于特朗普政府的错误信息</title>
+      <link>https://wired.jp/article/signalgate-is-driving-the-most-us-downloads-of-signal-ever/</link>
+      <description><![CDATA[特朗普政府高级政府官员的军事信息泄漏的丑闻导致了加密消息应用程序信号的爆炸性传播。理事机构的一位代表说，信号现在是“美国有史以来最大的增长”。]]></description>
+      <guid>https://wired.jp/article/signalgate-is-driving-the-most-us-downloads-of-signal-ever/</guid>
+      <pubDate>Sat, 29 Mar 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克（Elon Musk）的Xai收购了X。这两家公司的未来是“交织在一起的”</title>
       <link>https://wired.jp/article/xai-x-acquisition-deal/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>科学家是艺术家的“同志” -Utada hikaru的“ Cern Exploration”</title>
       <link>https://wired.jp/article/vol56-hikaru-utada-cern-report/</link>
-      <description><![CDATA[纪念他职业生涯25周年的最佳专辑的标题是“科幻小说”。新歌的主题首次将在CD中出现，是“ Schrodinger的猫”或“量子缠结”。乌塔达·希卡鲁（Utada Hikaru）是一位前所未有的艺术家，他已经揭示了他多年来培养的“科学强度”。当她访问瑞士的CERN（欧洲核研究组织）时，她的感受和想法是全球粒子物理研究中心之一。 （摘自日本版本的第56卷中的杂志“有线”的“超越量子计算机”的特殊功能）]]></description>
+      <description><![CDATA[纪念他职业生涯25周年的最佳专辑的标题是“科幻小说”。新歌的主题首次将在CD中出现，是“ Schrodinger的猫”或“量子缠结”。乌塔达·希卡鲁（Utada Hikaru）是一位前所未有的艺术家，他已经揭示了他多年来培养的“科学强度”。当她访问瑞士的CERN（欧洲核研究组织）时，她的感受和想法是全球粒子物理研究中心之一。 （摘自日本版本第56卷中的杂志“有线”的“量子计算机”的特殊功能）]]></description>
       <guid>https://wired.jp/article/vol56-hikaru-utada-cern-report/</guid>
       <pubDate>Wed, 26 Mar 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步和NVIDIA促进连接大脑和计算机的技术</title>
-      <link>https://wired.jp/article/synchrons-brain-computer-interface-now-has-nvidias-ai/</link>
-      <description><![CDATA[Neurotechnology Company Synchron与NVIDIA合作开发了连接大脑和计算机以及“认知AI”的接口（BCI）。我们的目标是通过使用思考来操纵环境来实现新的用户体验。]]></description>
-      <guid>https://wired.jp/article/synchrons-brain-computer-interface-now-has-nvidias-ai/</guid>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
