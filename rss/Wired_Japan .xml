@@ -4,7 +4,28 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Fri, 28 Mar 2025 21:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 01:16:44 GMT</lastBuildDate>
+    <item>
+      <title>无处不在的AI的未来，未来的关键是“卫星互联网”。</title>
+      <link>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</link>
+      <description><![CDATA[为了使AI代理人实现其真实价值，必须具有“恒定连接”，即使他们在何处，它们都可以连接到互联网。为了实现这一目标，诸如Starlink之类的卫星通信吸引了很多关注。]]></description>
+      <guid>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</guid>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使您“理解”动物情绪的AI技术将改变动物福利的未来</title>
+      <link>https://wired.jp/article/ai-model-to-unlock-emotional-language-of-animals/</link>
+      <description><![CDATA[丹麦的研究人员开发了一种机器学习模型，该模型可以分析动物的声音并以高准确性对情绪进行分类。如果将这项技术用于实际使用，它可以将动物福利，牲畜管理和保护活动的方法转变。]]></description>
+      <guid>https://wired.jp/article/ai-model-to-unlock-emotional-language-of-animals/</guid>
+      <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊瓦尔·诺亚·哈拉里（Yval Noah Harari）的“ Nexus：人类信息史”书评</title>
+      <link>https://wired.jp/article/yuval-noah-harari-nexus-book-review/</link>
+      <description><![CDATA[“现代欧洲精神的发言人在21世纪捍卫自由民主国家，当时保守派被信息革命自我毁灭。”这就是设计思想家Ikeda Junichi描述“ Nexus：人类信息历史”的作者Yuval Noah Harari的方式。根据Ikeda的说法，“ Nexus”一书的标题出色地说“名字代表了身体”。必须阅读的导航图表，用于解释本书开放的广阔知识领域！]]></description>
+      <guid>https://wired.jp/article/yuval-noah-harari-nexus-book-review/</guid>
+      <pubDate>Fri, 28 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>它模仿鲨鱼皮，是“抗菌”。纳米水平的表面处理可提供无化学的细菌对策</title>
       <link>https://wired.jp/article/antibacterial-surfaces-inspired-by-shark-skin-and-cicada-wings/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Openai的新AI工具“深入研究”引起了人们的关注。它的功能是它计划自己的研究，搜索网络，组织信息并将其编译成报告。它有可能自动化各种办公室操作，而兴趣集中在如何带来未来的工作风格变化上。]]></description>
       <guid>https://wired.jp/article/openais-deep-research-agent-is-coming-for-white-collar-work/</guid>
       <pubDate>Tue, 25 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字时代的结束 - 从总编辑到读者，当发行“有线”量子计算机时</title>
-      <link>https://wired.jp/article/vol56-editors-letter/</link>
-      <description><![CDATA[如果我们正在考虑即将到来的“量子时代”，我们将首先询问数字时代是什么。从差异可以看出的“量子性质”的可能性是什么？主编Matsushima Michiaki的编辑信，指的是日本最新一期的“有线”。]]></description>
-      <guid>https://wired.jp/article/vol56-editors-letter/</guid>
-      <pubDate>Tue, 25 Mar 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来已经出现了，臭氧孔将完全从南极“消失”</title>
-      <link>https://wired.jp/article/the-antarctic-ozone-hole-is-healing/</link>
-      <description><![CDATA[南极上的臭氧层已经恢复了半个世纪。最近的研究最近证明，这种标志不是由于自然波动，而是减少蒙特利尔协议定义的臭氧动物物质的效果。]]></description>
-      <guid>https://wired.jp/article/the-antarctic-ozone-hole-is-healing/</guid>
-      <pubDate>Tue, 25 Mar 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>小睡的有效提示是什么？睡眠专家解释</title>
-      <link>https://wired.jp/article/the-art-of-the-perfect-nap-sleep-science/</link>
-      <description><![CDATA[如果您练习得很好，它们将增加您的注意力和精力。但是，根据睡眠的时间和时机的不同，这可能会导致晚上失眠。英国沃里克大学的心理健康研究员解释了如何优化PowerNAP。]]></description>
-      <guid>https://wired.jp/article/the-art-of-the-perfect-nap-sleep-science/</guid>
-      <pubDate>Tue, 25 Mar 2025 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
