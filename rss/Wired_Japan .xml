@@ -4,7 +4,28 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Sun, 30 Mar 2025 21:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 01:23:11 GMT</lastBuildDate>
+    <item>
+      <title>通过超导性完全推翻常规理论的发现的“未知领域”</title>
+      <link>https://wired.jp/article/new-superconductive-materials-have-just-been-discovered/</link>
+      <description><![CDATA[神秘的超导性机制已经吸引了很长时间的物理学家。新发现的超导材料进一步加深了它的奥秘，并带来希望它可以大大扩展其应用。]]></description>
+      <guid>https://wired.jp/article/new-superconductive-materials-have-just-been-discovered/</guid>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Databricks开发了新技术，使AI模型能够“自我发展”</title>
+      <link>https://wired.jp/article/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</link>
+      <description><![CDATA[AI公司Databricks宣布了一项新技术，将增强学习和合成数据结合在一起。这种方法允许AI模型即使缺乏足够的数据，也可以自主提高性能。]]></description>
+      <guid>https://wired.jp/article/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</guid>
+      <pubDate>Sun, 30 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不受管制的经济特征向美国 - 特朗普的“自由城”计划</title>
+      <link>https://wired.jp/article/sz-startup-nations-donald-trump-legislation/</link>
+      <description><![CDATA[在美国创建“自由城”的趋势越来越多。特朗普政府也承诺的该倡议创造了特殊区域，这些特殊区域无法触及某些联邦法规。虽然有几个小组宣传它，但模型的洪都拉斯·普罗斯普（Honduras Prospera）受到了当地公民的强烈反对。]]></description>
+      <guid>https://wired.jp/article/sz-startup-nations-donald-trump-legislation/</guid>
+      <pubDate>Sun, 30 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>已经揭示了从白矮人发出的神秘“高能量X射线”的真实本质。</title>
       <link>https://wired.jp/article/white-dwarf-high-energy-x-ray-mystery/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[基于蝉翅和鲨鱼皮的结构，新西兰的研究人员开发了一种表面处理技术，从物理上可以防止细菌粘附。这可能导致实现没有化学物质的可持续抗菌剂。]]></description>
       <guid>https://wired.jp/article/antibacterial-surfaces-inspired-by-shark-skin-and-cicada-wings/</guid>
       <pubDate>Fri, 28 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在模拟中实现99.99％的忠诚度和“双重挥舞”的挑战：大型日本公司领导量子计算时代（2）：东芝</title>
-      <link>https://wired.jp/article/vol56-creating-the-next-industry-toshiba/</link>
-      <description><![CDATA[自日本早期以来，来自日本量子计算机研究和开发的主要公司的研究人员如何看待未来？东芝的目标是使高级保真度（精度）为99.99％，并且还通过在普通计算机上安装自己的算法来实施量子技术的社会实施。]]></description>
-      <guid>https://wired.jp/article/vol56-creating-the-next-industry-toshiba/</guid>
-      <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国云正在欧洲前进。特朗普政府领导的数据风险警告</title>
-      <link>https://wired.jp/article/trump-us-cloud-services-europe/</link>
-      <description><![CDATA[欧洲政府和许多公司已经使用了多年来的美国主要云公司（例如亚马逊，Google和Microsoft）的服务。但是，随着特朗普政府的重新出现，人们对安全风险的担忧有所增加。寻求转向欧洲独特服务的运动正在加速。]]></description>
-      <guid>https://wired.jp/article/trump-us-cloud-services-europe/</guid>
-      <pubDate>Thu, 27 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“ kamikaze”一场随着水无人机而变化的海战</title>
-      <link>https://wired.jp/article/sz-the-rise-of-the-drone-boats/</link>
-      <description><![CDATA[黑海（乌克兰和俄罗斯）与红海（也门和以色列）之间的战斗证明，发动自杀攻击的自主无人体表面船（USV）可以是强大的武器。美国海军从中学到什么？战争的未来形式受到质疑。]]></description>
-      <guid>https://wired.jp/article/sz-the-rise-of-the-drone-boats/</guid>
-      <pubDate>Thu, 27 Mar 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
