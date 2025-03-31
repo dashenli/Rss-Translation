@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 31 Mar 2025 06:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 09:21:00 GMT</lastBuildDate>
+    <item>
+      <title>“量子凝胶”倒入了大量的ASIC技术和知识中：作为工具：纠缠</title>
+      <link>https://wired.jp/article/vol56-as-a-tool-entanglement-asics/</link>
+      <description><![CDATA[它也是一个粒子和波浪，是对象的最小单位，在跨空间之间彼此之间相互连接。据说我们的经验和直觉不适用于量子的性质和行为，但不，不。脱颖而出的高级性质的产品可能会重叠和纠缠。例如，ASIC的高性能鞋。毕竟，它被称为“ Gel-Quantum”。]]></description>
+      <guid>https://wired.jp/article/vol56-as-a-tool-entanglement-asics/</guid>
+      <pubDate>Mon, 31 Mar 2025 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>应用高速光学通信技术来挑战“光学系统”的实际应用 - 日本量子计算时代的主要公司（3）：NTT</title>
       <link>https://wired.jp/article/vol56-creating-the-next-industry-ntt/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>不受管制的经济特征向美国 - 特朗普的“自由城”计划</title>
       <link>https://wired.jp/article/sz-startup-nations-donald-trump-legislation/</link>
-      <description><![CDATA[在美国创建“自由城”的趋势越来越多。特朗普政府也承诺的该倡议创造了特殊区域，这些特殊区域无法触及某些联邦法规。虽然有几个小组宣传它，但模型的洪都拉斯·普罗斯佩拉（Honduras Prospera）受到了当地公民的强烈反对。]]></description>
+      <description><![CDATA[在美国创建“自由城”的趋势越来越多。特朗普政府也承诺的该倡议创造了特殊区域，这些特殊区域无法触及某些联邦法规。虽然有几个小组宣传它，但模型的洪都拉斯·普罗斯普（Honduras Prospera）受到了当地公民的强烈反对。]]></description>
       <guid>https://wired.jp/article/sz-startup-nations-donald-trump-legislation/</guid>
       <pubDate>Sun, 30 Mar 2025 22:00:00 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一家“技术”公司挑战避免独立滑雪胜地免于灭绝危机</title>
+      <title>一家“技术”公司为避免灭绝的独立滑雪胜地的挑战</title>
       <link>https://wired.jp/article/sz-can-tech-save-small-ski-resorts-entabeni-systems/</link>
       <description><![CDATA[在美国，滑雪胜地变得越来越精致，有一家技术咨询公司正在默默地努力建立一种新的商业模式，该公司推翻了滑雪胜地管理的常识，以将这项运动带回公众。]]></description>
       <guid>https://wired.jp/article/sz-can-tech-save-small-ski-resorts-entabeni-systems/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[丹麦的研究人员开发了一种机器学习模型，该模型可以分析动物的声音并以高准确性对情绪进行分类。如果将这项技术用于实际使用，它可以将动物福利，牲畜管理和保护活动的方法转变。]]></description>
       <guid>https://wired.jp/article/ai-model-to-unlock-emotional-language-of-animals/</guid>
       <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊瓦尔·诺亚·哈拉里（Yval Noah Harari）的“ Nexus：人类信息史”书评</title>
-      <link>https://wired.jp/article/yuval-noah-harari-nexus-book-review/</link>
-      <description><![CDATA[“现代欧洲精神的发言人在21世纪捍卫自由民主国家，当时保守派被信息革命自我毁灭。”这就是设计思想家Ikeda Junichi描述“ Nexus：人类信息历史”的作者Yuval Noah Harari的方式。根据Ikeda的说法，“ Nexus”一书的标题出色地说“名字代表了身体”。必须阅读的导航图表，用于解释本书开放的广阔知识领域！]]></description>
-      <guid>https://wired.jp/article/yuval-noah-harari-nexus-book-review/</guid>
-      <pubDate>Fri, 28 Mar 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
