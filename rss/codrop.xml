@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 31 Mar 2025 12:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 15:20:33 GMT</lastBuildDate>
+    <item>
+      <title>WebGPU扫描效果和深度图</title>
+      <link>https://tympanus.net/codrops/2025/03/31/webgpu-scanning-effect-with-depth-maps/</link>
+      <description><![CDATA[使用深度图，自定义着色器和WebGPU渲染对扫描效果的探索。]]></description>
+      <guid>https://tympanus.net/codrops/2025/03/31/webgpu-scanning-effect-with-depth-maps/</guid>
+      <pubDate>Mon, 31 Mar 2025 10:04:31 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：TROA 25'对开本</title>
       <link>https://tympanus.net/codrops/2025/03/28/case-study-troa-25-folio/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[了解如何使用此灵活的JavaScript库进行动画，光滑的滚动和交互式效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</guid>
       <pubDate>Wed, 19 Mar 2025 11:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>用三js构建交互式图像网格</title>
-      <link>https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/</link>
-      <description><![CDATA[在本教程中，我们将使用Thriph.js创建一个交互式图像网格，覆盖设置，动画和着色器。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/</guid>
-      <pubDate>Tue, 18 Mar 2025 09:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
