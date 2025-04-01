@@ -3,8 +3,15 @@
   <channel>
     <title>边缘</title>
     <link>https://www.theverge.com</link>
-    <description>这一文章是关于技术及其如何使我们感受的。成立于2011年，我们为听众提供从突发新闻到评论到屡获殊荣的功能和调查，在我们的网站，视频和播客中的所有内容。</description>
-    <lastBuildDate>Tue, 01 Apr 2025 01:25:33 GMT</lastBuildDate>
+    <description>这一文章是关于技术及其如何使我们感受的。成立于2011年，我们为听众提供从突发新闻到评论，再到屡获殊荣的功能和调查，在我们的网站，视频和播客中。</description>
+    <lastBuildDate>Tue, 01 Apr 2025 06:27:48 GMT</lastBuildDate>
+    <item>
+      <title>最后，一辆电动自行车收取USB-C</title>
+      <link>https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price</link>
+      <description><![CDATA[Ampler制作了我测试过的第一台现代电子自行车之一，现在它正在出售第一辆商用电动自行车 -  Nova和Nova Pro-我知道这可以通过集成到框架的USB-C端口上的费用。地狱，同一个杰克甚至会捏住您的小工具，但不能[＆＃8230;]]]></description>
+      <guid>https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price</guid>
+      <pubDate>Tue, 01 Apr 2025 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊大型春季销售的95次最佳最后一刻交易</title>
       <link>https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[根据Apple的补丁说明，Apple已发布iOS 18.4，最大的功能之一是优先通知，它使用Apple Intelligence突出显示“可能需要您立即关注的重要通知”。优先通知将出现在主屏幕上的通知堆栈顶部，如下图所示[＆＃8230;]]]></description>
       <guid>https://www.theverge.com/news/639849/apple-ios-18-4-intelligence-priority-notifications</guid>
       <pubDate>Mon, 31 Mar 2025 17:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plex正在推出其大型应用程序重新设计</title>
-      <link>https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch</link>
-      <description><![CDATA[经过几个月的测试，PLEX已开始将其重新设计的移动应用程序推出到Android和iOS设备，并将在下周到达每个人。新应用程序带有更新的导航系统，该系统应该使访问应用程序的不同部分并查看要观看的内容变得更加容易，[＆＃8230;]]]></description>
-      <guid>https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch</guid>
-      <pubDate>Mon, 31 Mar 2025 17:14:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
