@@ -4,7 +4,21 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 31 Mar 2025 21:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 01:27:09 GMT</lastBuildDate>
+    <item>
+      <title>外部的新概念芯片针对NVIDIA的据点</title>
+      <link>https://wired.jp/article/how-extropic-plans-to-unseat-nvidia/</link>
+      <description><![CDATA[挑战NVIDIA的一家初创公司外部正在开发一种新的芯片，该芯片利用热力学波动来简化概率计算。这似乎是鲁ck的，但是重新发明了计算机的机制可能有助于我们找到解决AI时代的严重能量问题的解决方案。]]></description>
+      <guid>https://wired.jp/article/how-extropic-plans-to-unseat-nvidia/</guid>
+      <pubDate>Mon, 31 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>排名前5位的会员有限文章（3月/2025年）</title>
+      <link>https://wired.jp/article/5-most-read-stories-membership-march-2025/</link>
+      <description><![CDATA[从编辑部门每月关于“有线SZ会员资格”策划的仅会员文章，我们介绍了上个月会员阅读最多的五个。]]></description>
+      <guid>https://wired.jp/article/5-most-read-stories-membership-march-2025/</guid>
+      <pubDate>Mon, 31 Mar 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>40个推荐的节目您现在应该在Netflix [最新2025]上观看</title>
       <link>https://wired.jp/story/netflix-best-shows-2025/</link>
@@ -76,7 +90,7 @@
       <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一家“技术”公司为避免灭绝的独立滑雪胜地的挑战</title>
+      <title>一家“技术”公司挑战避免独立滑雪胜地免于灭绝危机</title>
       <link>https://wired.jp/article/sz-can-tech-save-small-ski-resorts-entabeni-systems/</link>
       <description><![CDATA[在美国，滑雪胜地变得越来越精致，有一家技术咨询公司正在默默地努力建立一种新的商业模式，该公司推翻了滑雪胜地管理的常识，以将这项运动带回公众。]]></description>
       <guid>https://wired.jp/article/sz-can-tech-save-small-ski-resorts-entabeni-systems/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[自Elon Musk成为所有者以来，社交媒体平台X一直在挣扎。但是，自从唐纳德·特朗普（Donald Trump）再次当选为美国总统以来，他的命运已大大提高。将来，X计划成为Mask AI初创公司XAI的子公司。]]></description>
       <guid>https://wired.jp/article/xai-x-acquisition-deal/</guid>
       <pubDate>Sat, 29 Mar 2025 04:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普政府“信号”聊天问题的真实本质，误导了美国杂志编辑</title>
-      <link>https://wired.jp/article/signalgate-isnt-about-signal/</link>
-      <description><![CDATA[美国杂志的主编被邀请参加小组聊天的问题，特朗普政府高级政府官员讨论空袭计划引起了轰动。安全专家强调，在本期问题中所要求的不是消息传递应用程序“信号”的脆弱性，而是使用的信息管理及其在中央政府的运营。]]></description>
-      <guid>https://wired.jp/article/signalgate-isnt-about-signal/</guid>
-      <pubDate>Sat, 29 Mar 2025 04:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>无处不在的AI的未来，未来的关键是“卫星互联网”。</title>
-      <link>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</link>
-      <description><![CDATA[为了使AI代理人实现其真实价值，必须具有“恒定连接”，即使他们在何处，它们都可以连接到互联网。为了实现这一目标，诸如Starlink之类的卫星通信吸引了很多关注。]]></description>
-      <guid>https://wired.jp/article/satellite-internet-will-let-us-put-ai-in-everything/</guid>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
