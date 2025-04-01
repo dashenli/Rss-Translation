@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Tue, 01 Apr 2025 03:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 18:24:52 GMT</lastBuildDate>
+    <item>
+      <title>沃霍尔艺术：流行，像素和纯运动的数字操场</title>
+      <link>https://tympanus.net/codrops/2025/04/01/warhol-arts-a-digital-playground-of-pop-pixels-and-pure-motion/</link>
+      <description><![CDATA[深入研究了由GSAP和WebFlow提供支持的流行艺术风格的数字体验背后的代码，工艺和混乱。]]></description>
+      <guid>https://tympanus.net/codrops/2025/04/01/warhol-arts-a-digital-playground-of-pop-pixels-and-pure-motion/</guid>
+      <pubDate>Tue, 01 Apr 2025 15:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>WebGPU扫描效果和深度图</title>
       <link>https://tympanus.net/codrops/2025/03/31/webgpu-scanning-effect-with-depth-maps/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在这个聚光灯下，让·马祖尼（Jean Mazouni）展示了他作为网络开发人员最喜欢的自由职业者的一些作品，并分享了他对WebGL技术的热情。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/20/developer-spotlight-jean-mazouni/</guid>
       <pubDate>Thu, 20 Mar 2025 07:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>StringTune：JavaScript库从设计机构的工作流程出生</title>
-      <link>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</link>
-      <description><![CDATA[了解如何使用此灵活的JavaScript库进行动画，光滑的滚动和交互式效果。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/19/stringtune-the-javascript-library-born-from-a-design-agencys-workflow/</guid>
-      <pubDate>Wed, 19 Mar 2025 11:11:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

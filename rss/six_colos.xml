@@ -4,7 +4,15 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell＆Dan Moren的苹果，技术和其他东西</description>
-    <lastBuildDate>Mon, 31 Mar 2025 18:28:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 18:24:07 GMT</lastBuildDate>
+    <item>
+      <title>我进入Netflix的广告层的旅程失败</title>
+      <link>https://sixcolors.com/post/2025/04/my-unsuccessful-journey-into-netflixs-ad-tier/</link>
+      <description><![CDATA[因此，上个月，我决定取消Netflix。
+这很重要，因为我从一开始就一直是Netflix订户 - 返回全是DVD而没有流式传输。＆hellip; ]]></description>
+      <guid>https://sixcolors.com/post/2025/04/my-unsuccessful-journey-into-netflixs-ad-tier/</guid>
+      <pubDate>Tue, 01 Apr 2025 16:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）升级557：我将运行四分钟的英里</title>
       <link>https://sixcolors.com/podcast/2025/03/upgrade-557-i-will-run-a-four-minute-mile/</link>
@@ -26,7 +34,7 @@
       <link>https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/</link>
       <description><![CDATA[约翰·沃尔希（John Voorhees），在俱乐部宏观上写（需要订阅）：
  
-  大约三年前，我写了AppleScript：快捷桥或拐杖？询问Mac上的捷径是庆祝的功能还是危险信号，担心Apple会使用该集成推迟或从不发布许多系统级别的动作，这些动作在Mac上丢失了许多系统级别的动作。]]></description>
+  大约三年前，我写了AppleScript：快捷桥或拐杖？询问通过Mac上的快捷方式访问AppleScript是要庆祝的功能还是危险信号，担心Apple会使用该集成推迟或从未发布过许多系统级别的动作，这些动作在Mac上遇到了Shortcuts在Mac上首次亮相。]]></description>
       <guid>https://sixcolors.com/link/2025/03/shortcuts-is-falling-into-the-automation-gap/</guid>
       <pubDate>Fri, 28 Mar 2025 20:46:09 GMT</pubDate>
     </item>
@@ -64,7 +72,7 @@
     <item>
       <title>检查播客笔记</title>
       <link>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</link>
-      <description><![CDATA[注释。
+      <description><![CDATA[
 三年前，我和Dan合作进行了一个项目，该项目使我们能够在录制播客的同时在Mac上动态创建编辑注释。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</guid>
       <pubDate>Wed, 26 Mar 2025 18:55:52 GMT</pubDate>
@@ -80,7 +88,7 @@
       <title>WWDC 2025将于6月9日开始</title>
       <link>https://sixcolors.com/post/2025/03/wwdc-2025-is-kicking-off-june-9/</link>
       <description><![CDATA[
-该周期即将重新开始：苹果周二宣布，其2025年全球开发人员会议将于6月9日至13日举行。该活动（包括主题演讲和会议）将免费在线上，以及Apple Park的有限人工组成部分。＆hellip; ]]></description>
+该周期即将重新开始：苹果周二宣布，其2025年全球开发人员会议将于6月9日至13日举行。该活动（包括主题演讲和会议）将免费在线上，以及Apple Park的面对面组成部分。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/wwdc-2025-is-kicking-off-june-9/</guid>
       <pubDate>Tue, 25 Mar 2025 17:15:54 GMT</pubDate>
     </item>
@@ -113,14 +121,6 @@
       <description><![CDATA[ MLB试图打开本地流媒体，但这并不能解决吸引休闲粉丝的问题。另外：韩国和我们的电视选择的怪异咖啡馆。＆hellip; ]]></description>
       <guid>https://sixcolors.com/podcast/2025/03/downstream-91-commissioner-of-television/</guid>
       <pubDate>Fri, 21 Mar 2025 22:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>（赞助商）Magic Lasso Adblock：Safari中更快的Web浏览速度2.0倍</title>
-      <link>https://sixcolors.com/sponsor/2025/03/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-22/</link>
-      <description><![CDATA[我感谢Magic Lasso Adblock本周赞助了六种颜色。
-有超过5,000个五星级评论； Magic Lasso Adblock只是您iPhone，iPad和Mac的最佳野生动物园广告阻滞剂。＆Hellip; ]]></description>
-      <guid>https://sixcolors.com/sponsor/2025/03/magic-lasso-adblock-2-0x-faster-web-browsing-in-safari-22/</guid>
-      <pubDate>Fri, 21 Mar 2025 16:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
