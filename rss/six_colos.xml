@@ -4,7 +4,21 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell＆Dan Moren的苹果，技术和其他东西</description>
-    <lastBuildDate>Wed, 02 Apr 2025 18:28:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 21:18:11 GMT</lastBuildDate>
+    <item>
+      <title>（播客）顺时针599：在裤子上使用它</title>
+      <link>https://sixcolors.com/podcast/2025/04/clockwise-599-use-it-on-your-pants/</link>
+      <description><![CDATA[ Nintendo的Switch 2公告，我们实际使用的AI，我们如何学习新技能以及我们永远不会放弃的旧小工具。＆Hellip; ]]></description>
+      <guid>https://sixcolors.com/podcast/2025/04/clockwise-599-use-it-on-your-pants/</guid>
+      <pubDate>Wed, 02 Apr 2025 20:41:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>（播客）篮板540：我认为您不知道该如何吸毒</title>
+      <link>https://sixcolors.com/podcast/2025/04/the-rebound-540-i-dont-think-you-know-how-to-do-drugs/</link>
+      <description><![CDATA[将此播客剧集提交优先级。＆hellip; ]]></description>
+      <guid>https://sixcolors.com/podcast/2025/04/the-rebound-540-i-dont-think-you-know-how-to-do-drugs/</guid>
+      <pubDate>Wed, 02 Apr 2025 19:41:05 GMT</pubDate>
+    </item>
     <item>
       <title>两万赫兹深入了解苹果可及性历史↦</title>
       <link>https://sixcolors.com/link/2025/04/twenty-thousand-hertz-dives-deep-into-apple-accessibility-history/</link>
@@ -87,7 +101,7 @@
     <item>
       <title>检查播客笔记</title>
       <link>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</link>
-      <description><![CDATA[注释。
+      <description><![CDATA[
 三年前，我和Dan合作进行了一个项目，该项目使我们能够在录制播客的同时在Mac上动态创建编辑注释。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/checking-in-on-podcast-notes/</guid>
       <pubDate>Wed, 26 Mar 2025 18:55:52 GMT</pubDate>
@@ -106,22 +120,6 @@
 该周期即将重新开始：苹果周二宣布，其2025年全球开发人员会议将于6月9日至13日举行。该活动（包括主题演讲和会议）将免费在线上，以及Apple Park的面对面组成部分。＆Hellip; ]]></description>
       <guid>https://sixcolors.com/post/2025/03/wwdc-2025-is-kicking-off-june-9/</guid>
       <pubDate>Tue, 25 Mar 2025 17:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>（播客）升级556：这张照片还没有2000年</title>
-      <link>https://sixcolors.com/podcast/2025/03/upgrade-556-this-photo-is-not-2000-years-old/</link>
-      <description><![CDATA[斯蒂芬·哈克特（Stephen Hackett）与杰森（Jason）一起讨论AI。辐射，欧盟促进扩展设备互操作性，杰森最近对电视流盒的枪战等等。＆hellip; ]]></description>
-      <guid>https://sixcolors.com/podcast/2025/03/upgrade-556-this-photo-is-not-2000-years-old/</guid>
-      <pubDate>Mon, 24 Mar 2025 21:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AirPods Max获得无损，低延迟和模拟电缆↦</title>
-      <link>https://sixcolors.com/link/2025/03/airpods-max-gets-lossless-low-latency-and-an-analog-cable/</link>
-      <description><![CDATA[苹果新闻编辑室：
- 
-  下个月，新的软件更新将为AirPods Max带来无损音频和超低延迟音频，提供最终的聆听体验，甚至为音乐制作提供更高的性能。 ＆hellip;]]></description>
-      <guid>https://sixcolors.com/link/2025/03/airpods-max-gets-lossless-low-latency-and-an-analog-cable/</guid>
-      <pubDate>Mon, 24 Mar 2025 21:00:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
