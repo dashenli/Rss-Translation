@@ -4,7 +4,28 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Wed, 02 Apr 2025 21:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 01:17:24 GMT</lastBuildDate>
+    <item>
+      <title>[特殊功能]彻底解释了量子计算机机制</title>
+      <link>https://wired.jp/article/featuring-quantum-computer/</link>
+      <description><![CDATA[日语版本的“有线”将其所有精力彻底解释了“量子计算机”的机制。量子计算机将来会给社会，文化和工业带来什么样的转型？对于即将到来的2030年代（Quantumpedia）即将到来的量子年龄的量子技术的必读百科全书！]]></description>
+      <guid>https://wired.jp/article/featuring-quantum-computer/</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊揭幕了高级AI代理商 - 旨在在开发竞赛中卷土重来</title>
+      <link>https://wired.jp/article/amazon-ai-agents-nova-web-browsing/</link>
+      <description><![CDATA[专门研究通用人工智能（AGI）的研究所AGI SF Lab已宣布了一种为AI代理提供动力的新型AI模型。它是专门针对判断力的培训，该公司报告说，它已经超过了多个基准的OpenAI和人类模型。]]></description>
+      <guid>https://wired.jp/article/amazon-ai-agents-nova-web-browsing/</guid>
+      <pubDate>Wed, 02 Apr 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算机主要有五个“方法”  - 第1部分[超导方法] Google Quantum AI</title>
+      <link>https://wired.jp/article/vol56-different-strokes-for-different-folks-google-quantum-ai/</link>
+      <description><![CDATA[Google Quantum AI通过量子误差校正实现了突破。使用五种主要方法采用超导方法的量子计算机的开发将加速实际使用过程。我们与量子处理器总监Yu Chen进行了交谈。]]></description>
+      <guid>https://wired.jp/article/vol56-different-strokes-for-different-folks-google-quantum-ai/</guid>
+      <pubDate>Wed, 02 Apr 2025 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>宣布了“ Nintendo Switch 2”的详细信息！内容的完整摘要，从“游戏聊天”功能到新的播放方式</title>
       <link>https://wired.jp/article/nintendo-switch-2-announcement-everything-you-need-to-know/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[“ Adresence，”“ Sakamoto Days”和“男朋友”。美国版的Wired拾取了一些推荐的Netflix程序，这些程序在流行和流行的游戏中又一个接一个地出现。]]></description>
       <guid>https://wired.jp/story/netflix-best-shows-2025/</guid>
       <pubDate>Mon, 31 Mar 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“量子凝胶”倒入了大量的ASIC技术和知识中：作为工具：纠缠</title>
-      <link>https://wired.jp/article/vol56-as-a-tool-entanglement-asics/</link>
-      <description><![CDATA[它也是一个粒子和波浪，是对象的最小单位，在跨空间之间彼此之间相互连接。据说我们的经验和直觉不适用于量子的性质和行为，但不，不。脱颖而出的高级性质的产品可能会重叠和纠缠。例如，ASIC的高性能鞋。毕竟，它被称为“ Gel-Quantum”。]]></description>
-      <guid>https://wired.jp/article/vol56-as-a-tool-entanglement-asics/</guid>
-      <pubDate>Mon, 31 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用高速光学通信技术来挑战“光学系统”的实际应用 - 日本量子计算时代的主要公司（3）：NTT</title>
-      <link>https://wired.jp/article/vol56-creating-the-next-industry-ntt/</link>
-      <description><![CDATA[自日本早期以来，来自日本量子计算机研究和开发的主要公司的研究人员如何看待未来？ NTT试图通过应用高速光学通信技术将光学量子计算机用于实际使用。]]></description>
-      <guid>https://wired.jp/article/vol56-creating-the-next-industry-ntt/</guid>
-      <pubDate>Mon, 31 Mar 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过超导性完全推翻常规理论的发现的“未知领域”</title>
-      <link>https://wired.jp/article/new-superconductive-materials-have-just-been-discovered/</link>
-      <description><![CDATA[神秘的超导性机制已经吸引了很长时间的物理学家。新发现的超导材料进一步加深了它的奥秘，并带来希望它可以大大扩展其应用。]]></description>
-      <guid>https://wired.jp/article/new-superconductive-materials-have-just-been-discovered/</guid>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
