@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Mon, 07 Apr 2025 01:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 03:36:13 GMT</lastBuildDate>
+    <item>
+      <title>量子计算机主要有五个“方法”  - “中性原子系统” quera计算</title>
+      <link>https://wired.jp/article/vol56-different-strokes-for-different-folks-quera-computing/</link>
+      <description><![CDATA[到目前为止，量子计算机被认为是主流的“超导方法”和“离子陷阱方法”。 “中性原子系统”插在那里。我们询问了该系统最前沿的Quera Computing关于他对未来的愿景。]]></description>
+      <guid>https://wired.jp/article/vol56-different-strokes-for-different-folks-quera-computing/</guid>
+      <pubDate>Mon, 07 Apr 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能形象生成的黑暗：未受保护的数据库揭示的滥用现实</title>
       <link>https://wired.jp/article/genomis-ai-image-database-exposed/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[杰克·索恩（Jack Thorne）共同编写了一个令人震惊的故事，该故事是一个13岁男孩在Netflix电视剧《 Adresence》中被控谋杀的故事。在他的研究中，他对在互联网上传播的想法的令人难以置信的渗透感到震惊。]]></description>
       <guid>https://wired.jp/article/adolescence-creator-went-very-very-deep-in-the-manosphere-its-appeal-scared-him/</guid>
       <pubDate>Fri, 04 Apr 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时反映游戏中的情绪，Ovomind思考娱乐的未来</title>
-      <link>https://wired.jp/article/ovomind-emotion-ai-gaming-interview/</link>
-      <description><![CDATA[Ovomind是一家处理情感分析和其他AI的瑞士公司，它引起了其技术的关注，该技术反映了玩家实时玩游戏的情绪变化，以了解游戏内容。我们向首席执行官Jan Hurachi询问了技术的最前沿，该技术有可能带来更深入的沉浸和未来的前景。]]></description>
-      <guid>https://wired.jp/article/ovomind-emotion-ai-gaming-interview/</guid>
-      <pubDate>Thu, 03 Apr 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
