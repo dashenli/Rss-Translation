@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 07 Apr 2025 18:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 06:26:24 GMT</lastBuildDate>
+    <item>
+      <title>用搅拌机和三个。</title>
+      <link>https://tympanus.net/codrops/2025/04/08/3d-world-in-the-browser-with-blender-and-three-js/</link>
+      <description><![CDATA[落后于一个由搅拌机和三个JS建造的身临其境的3D博物馆的幕后，并探索使其栩栩如生的创作过程，技术决策和浏览器就绪的工作流程。]]></description>
+      <guid>https://tympanus.net/codrops/2025/04/08/3d-world-in-the-browser-with-blender-and-three-js/</guid>
+      <pubDate>Tue, 08 Apr 2025 03:14:30 GMT</pubDate>
+    </item>
     <item>
       <title>案例研究：Ciel Rose</title>
       <link>https://tympanus.net/codrops/2025/04/07/case-study-ciel-rose/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一个初学者友好的教程，该教程探讨了如何使用Three.js和自定义着色器创建动态文本位移效果。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</guid>
       <pubDate>Mon, 24 Mar 2025 09:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>运动突出显示＃3</title>
-      <link>https://tympanus.net/codrops/2025/03/22/motion-highlights-3/</link>
-      <description><![CDATA[新鲜的动画想法和运动设计趋势可以推动您的灵感。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/22/motion-highlights-3/</guid>
-      <pubDate>Sat, 22 Mar 2025 08:03:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
