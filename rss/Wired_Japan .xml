@@ -4,7 +4,14 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Tue, 08 Apr 2025 01:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 03:35:01 GMT</lastBuildDate>
+    <item>
+      <title>新规模的AI工具在边境模型中揭示了弱点</title>
+      <link>https://wired.jp/article/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</link>
+      <description><![CDATA[Scale AI发布了一种名为“比例评估”的新工具，该工具将提高高级“边境AI模型”的性能。它会自动检测到模型中的弱点，并提供提高性能所需的训练数据。]]></description>
+      <guid>https://wired.jp/article/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</guid>
+      <pubDate>Tue, 08 Apr 2025 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>旨在通过“精子干细胞”恢复生殖功能 -  20多岁的男人的移植治疗</title>
       <link>https://wired.jp/article/first-testicular-stem-cell-transplant-in-a-human-patient/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在旧金山湾区，需要预筛查的科技工人面对面约会活动取得了巨大的成功。]]></description>
       <guid>https://wired.jp/article/silicon-valley-invitation-only-irl-dating/</guid>
       <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将中国制造的电动汽车带到美国 - 有没有办法限制进口？</title>
-      <link>https://wired.jp/article/this-is-how-you-get-a-chinese-ev-into-the-united-states/</link>
-      <description><![CDATA[在美国，中国制造的电动汽车（EV）并非合法出售。但是，有几种方法可以在美国的公共道路上驾驶新电动汽车。我们询问了热情的爱好者，他们实际上是通过支付复杂的程序并支付高额费用以及汽车行业专家的“秘密策略”来获得汽车的。]]></description>
-      <guid>https://wired.jp/article/this-is-how-you-get-a-chinese-ev-into-the-united-states/</guid>
-      <pubDate>Fri, 04 Apr 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
