@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Wed, 09 Apr 2025 09:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 12:39:29 GMT</lastBuildDate>
+    <item>
+      <title>该怎么办</title>
+      <link>https://www.paulgraham.com/do.html</link>
+      <description><![CDATA[应该帮助人们，并照顾世界。那两个很明显。但是还有其他吗？ 
+ ]]></description>
+      <guid>https://www.paulgraham.com/do.html</guid>
+      <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越光和黑暗模式的变量的10使用</title>
+      <link>https://www.alicepackarddesign.com/blog/uses-for-variables-beyond-light-and-dark-mode</link>
+      <description><![CDATA[如何充分利用无花果变量功能。
+ ]]></description>
+      <guid>https://www.alicepackarddesign.com/blog/uses-for-variables-beyond-light-and-dark-mode</guid>
+      <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>nn针织格罗特斯克</title>
+      <link>https://www.knitgrotesk.com/the-story/</link>
+      <description><![CDATA[为手工编织创建的第一个字体。
+ ]]></description>
+      <guid>https://www.knitgrotesk.com/the-story/</guid>
+      <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>工件不是艺术</title>
+      <link>https://www.freethink.com/opinion/studio-ghibli-chatgpt-creativity</link>
+      <description><![CDATA[ chatgpt的吉卜力吉布利模仿工作室邀请人们的问题以及我们谈论创造力时的真正含义。
+ ]]></description>
+      <guid>https://www.freethink.com/opinion/studio-ghibli-chatgpt-creativity</guid>
+      <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI时代的设计</title>
+      <link>https://linear.app/blog/design-for-the-ai-age</link>
+      <description><![CDATA[几十年来，界面一直在预定义的道路上引导用户。思考文件，文件夹，按钮，菜单，屏幕，流量。随着AI和LLM的变化​​。
+ ]]></description>
+      <guid>https://linear.app/blog/design-for-the-ai-age</guid>
+      <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>丰度的年龄</title>
       <link>https://tomblomfield.com/post/1743528547367/the-age-of-abundance</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://spyglass.org/ai-copyright-debate/</guid>
       <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>反对界面的情况</title>
-      <link>https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/</link>
-      <description><![CDATA[对话界面有点模因。每隔几年就会出现一个闪亮的新AI开发项目，而技术人员则“就是这样！” 
- ]]></description>
-      <guid>https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/</guid>
-      <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无限Mac</title>
-      <link>https://infinitemac.org/</link>
-      <description><![CDATA[经典的Macintosh和下一个系统发布和软件的集合，都可以从网络浏览器的舒适度中轻松访问。
- ]]></description>
-      <guid>https://infinitemac.org/</guid>
-      <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>护照照片项目</title>
-      <link>https://maxsiedentopf.com/passport-photos/</link>
-      <description><![CDATA[“护照照片”着眼于最平凡，最令人着迷的摄影类型之一 - 几乎不可能进行任何形式的自我表达。
- ]]></description>
-      <guid>https://maxsiedentopf.com/passport-photos/</guid>
-      <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>堆栈溢出的下降</title>
-      <link>https://tomazweiss.github.io/blog/stackoverflow_decline/</link>
-      <description><![CDATA[随着AI驱动的编码助手的兴起，该平台的相关性受到了打击。 
- ]]></description>
-      <guid>https://tomazweiss.github.io/blog/stackoverflow_decline/</guid>
-      <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>螺旋</title>
-      <link>https://www.pentagram.com/work/helions</link>
-      <description><![CDATA[ Pentagram的品牌标识为摄影师Jack Davison创立的出版社。
- ]]></description>
-      <guid>https://www.pentagram.com/work/helions</guid>
-      <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
