@@ -4,7 +4,14 @@
     <title>网页设计师仓库</title>
     <link>https://webdesignerdepot.com</link>
     <description>网页设计博客</description>
-    <lastBuildDate>Tue, 08 Apr 2025 21:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 06:26:11 GMT</lastBuildDate>
+    <item>
+      <title>薄字体是一场可用性的噩梦 - 最后，设计师正在醒来</title>
+      <link>https://webdesignerdepot.com/thin-fonts-are-a-usability-nightmare-and-finally-designers-are-waking-up/</link>
+      <description><![CDATA[薄字体看起来时尚，但它们是一场可用性的噩梦 - 无法阅读，无法访问，尤其令人沮丧。值得庆幸的是，一些品牌和网站终于将它们放弃，以倾向于更厚，更可读的版式，实际上将用户放在首位。]]></description>
+      <guid>https://webdesignerdepot.com/thin-fonts-are-a-usability-nightmare-and-finally-designers-are-waking-up/</guid>
+      <pubDate>Wed, 09 Apr 2025 04:07:00 GMT</pubDate>
+    </item>
     <item>
       <title>Aqua回来了，宝贝：在您的浏览器中直接运行Mac OS X</title>
       <link>https://webdesignerdepot.com/aqua-is-back-baby-run-early-mac-os-x-right-in-your-browser/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 08 Apr 2025 12:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们是否过度简化UX？摩擦在用户参与中的作用</title>
+      <title>我们过于简化UX吗？摩擦在用户参与中的作用</title>
       <link>https://webdesignerdepot.com/are-we-over-simplifying-ux-the-role-of-friction-in-user-engagement/</link>
       <description><![CDATA[减少网页设计的摩擦并不总是最好的方法。有时，一点复杂性可以增强用户参与和决策。关键是了解摩擦何时增加价值以及何时成为障碍，具体取决于用户的需求和上下文。]]></description>
       <guid>https://webdesignerdepot.com/are-we-over-simplifying-ux-the-role-of-friction-in-user-engagement/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>非凡的事情：AI遇到超现实设计的地方</title>
       <link>https://webdesignerdepot.com/extraordinary-things-where-ai-meets-surreal-design/</link>
-      <description><![CDATA[“非凡事物”是Yashas Mitta的一个创意项目，它将AI生成的超现实设计与人类协作融为一体，将野生数字概念变成现实。凭借光滑的网站和专注于创造力，它邀请艺术家和制造商将这些未来派的，令人难以置信的对象带入生活。]]></description>
+      <description><![CDATA[“非凡事物”是Yashas Mitta的一个创意项目，将AI生成的超现实设计与人类协作融合，将野生数字概念变成现实。凭借光滑的网站和专注于创造力，它邀请艺术家和制造商将这些未来派的，令人难以置信的对象带入生活。]]></description>
       <guid>https://webdesignerdepot.com/extraordinary-things-where-ai-meets-surreal-design/</guid>
       <pubDate>Fri, 28 Mar 2025 13:07:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[仅“漂亮图片”就可以确保访客参与度的日子已经一去不复返了。如果您的网站不响应，实用且易于使用，用户将很快反弹。结果，我们范围缩小了10多种AI和专业设计工具的列表，这些工具超出了表面级美学的范围。来自强大的网站建设者，例如[＆＃8230;]]]></description>
       <guid>https://webdesignerdepot.com/ai-design-tools-for-web-designers-2/</guid>
       <pubDate>Wed, 19 Mar 2025 12:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>面包屑死了</title>
-      <link>https://webdesignerdepot.com/breadcrumbs-are-dead-in-web-design/</link>
-      <description><![CDATA[曾经是Web设计中的主食，面包屑已在当今的非线性，上下文驱动的网络中变得过时了，在该网络上，动态和个性化的导航系统优先。现代导航着重于智能，搜索优先和自适应解决方案，以更好地满足用户需求和期望。]]></description>
-      <guid>https://webdesignerdepot.com/breadcrumbs-are-dead-in-web-design/</guid>
-      <pubDate>Mon, 17 Mar 2025 12:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
