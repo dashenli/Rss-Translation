@@ -4,7 +4,21 @@
     <title>日本有线</title>
     <link>https://wired.jp</link>
     <description>wired.jp的最新</description>
-    <lastBuildDate>Wed, 09 Apr 2025 21:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 01:18:41 GMT</lastBuildDate>
+    <item>
+      <title>“负担得起的汽车”从美国消失了 - 扳机是特朗普关税</title>
+      <link>https://wired.jp/article/trump-tariffs-affordable-cars-extinct-united-states/</link>
+      <description><![CDATA[预计唐纳德·特朗普政府的新车和零件关税将增加数千美元。这将对价格敏感的人产生很大的影响，并可能传播到二手汽车市场。]]></description>
+      <guid>https://wired.jp/article/trump-tariffs-affordable-cars-extinct-united-states/</guid>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有主席，Wi -Fi掉落 - 美国政府官员在特朗普总统的命令下返回办公室的现实</title>
+      <link>https://wired.jp/article/federal-workers-rto-chaos/</link>
+      <description><![CDATA[特朗普总统为联邦官员返回办公室的命令引起了美国政府机构的困惑。官员告诉《连线》，缺乏Wi-Fi和缺乏商业空间导致生产力下降，对公共服务的负面影响越来越严重。]]></description>
+      <guid>https://wired.jp/article/federal-workers-rto-chaos/</guid>
+      <pubDate>Wed, 09 Apr 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nintendo Switch 2的新游戏形式2打开游戏聊天</title>
       <link>https://wired.jp/article/the-switch-2s-gamechat-social-feature-could-revolutionize-the-way-you-play-with-friends/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[加密是一项无人破译35年的代码。作者现在每天收到来自业余代码破坏者的大量电子邮件。这些答案中有许多是AI自信回答的错误答案。]]></description>
       <guid>https://wired.jp/article/sz-plaintext-kryptos-code-artificial-intelligence/</guid>
       <pubDate>Mon, 07 Apr 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子计算机主要有五个“方法”  - “中性原子系统” quera计算</title>
-      <link>https://wired.jp/article/vol56-different-strokes-for-different-folks-quera-computing/</link>
-      <description><![CDATA[到目前为止，量子计算机被认为是主流的“超导方法”和“离子陷阱方法”。 “中性原子系统”插在那里。我们询问了该系统最前沿的Quera Computing关于他对未来的愿景。]]></description>
-      <guid>https://wired.jp/article/vol56-different-strokes-for-different-folks-quera-computing/</guid>
-      <pubDate>Mon, 07 Apr 2025 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能形象生成的黑暗：未受保护的数据库揭示的滥用现实</title>
-      <link>https://wired.jp/article/genomis-ai-image-database-exposed/</link>
-      <description><![CDATA[在一个生成的AI应用程序数据库中发现了大量的性图像。已经揭示了严重的使用现实，但是在有线接触该网站之后，他们不再能够访问它。]]></description>
-      <guid>https://wired.jp/article/genomis-ai-image-database-exposed/</guid>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
