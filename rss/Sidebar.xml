@@ -4,7 +4,47 @@
     <title>侧边栏</title>
     <link>https://sidebar.io</link>
     <description>每个工作日的五个最佳设计链接。</description>
-    <lastBuildDate>Thu, 10 Apr 2025 09:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 12:37:29 GMT</lastBuildDate>
+    <item>
+      <title>一个好的副项目的幸福禅宗</title>
+      <link>https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project</link>
+      <description><![CDATA[一生中最大的简单乐趣之一就是为自己创造一些东西。
+ ]]></description>
+      <guid>https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有转弯概念的身体国际象棋板</title>
+      <link>https://github.com/misprit7/real-time-chess</link>
+      <description><![CDATA[在国际象棋中，玩家依次移动，但这引入了一个巨大的延迟错误：您花了一半的时间等待对手... 
+ ]]></description>
+      <guid>https://github.com/misprit7/real-time-chess</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supabase UI库</title>
+      <link>https://supabase.com/ui</link>
+      <description><![CDATA[通过单个命令将您的前端连接到supabase后端的ShadCN/UI库上构建的组件和块集合。
+ ]]></description>
+      <guid>https://supabase.com/ui</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认识的最好的程序员</title>
+      <link>https://endler.dev/2025/best-programmers/</link>
+      <description><![CDATA[最近，我问自己：“成为最好的人之一？他们都有什么共同点？” 
+ ]]></description>
+      <guid>https://endler.dev/2025/best-programmers/</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为您想在网络中看到的节点</title>
+      <link>https://taylor.town/wealth-000</link>
+      <description><![CDATA[在网络中，个人行使酌处权；理性决策的总和决定了网络的命运。
+ ]]></description>
+      <guid>https://taylor.town/wealth-000</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>该怎么办</title>
       <link>https://www.paulgraham.com/do.html</link>
@@ -84,46 +124,6 @@
  ]]></description>
       <guid>https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era</guid>
       <pubDate>Tue, 08 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI不会取代您，但是设计师使用AI可能会</title>
-      <link>https://bit.ly/sb-dl1</link>
-      <description><![CDATA[如何将AI集成到UX工作流中以更快地移动并提供更好的结果。这个为期4周的课程教授可行的策略 - 不是AI炒作。
- ]]></description>
-      <guid>https://bit.ly/sb-dl1</guid>
-      <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>光圈</title>
-      <link>https://vimeo.com/1055178625</link>
-      <description><![CDATA[一个实验概念，将AI，物理设计和数字福祉融合在一起，以鼓励更加正念的技术使用。
- ]]></description>
-      <guid>https://vimeo.com/1055178625</guid>
-      <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 2027</title>
-      <link>https://ai-2027.com/</link>
-      <description><![CDATA[超人AI在接下来的十年中的影响将是巨大的，超过了工业革命的影响。
- ]]></description>
-      <guid>https://ai-2027.com/</guid>
-      <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲流行服务的替代方案</title>
-      <link>https://european-alternatives.eu/alternatives-to</link>
-      <description><![CDATA[找到用于数字服务和产品的欧洲替代品，例如云服务和SaaS产品。
- ]]></description>
-      <guid>https://european-alternatives.eu/alternatives-to</guid>
-      <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>围绕AI的激烈辩论</title>
-      <link>https://spyglass.org/ai-copyright-debate/</link>
-      <description><![CDATA[可能没有良好答案的基本问题；让我们关注这需要如何为每个人工作。
- ]]></description>
-      <guid>https://spyglass.org/ai-copyright-debate/</guid>
-      <pubDate>Mon, 07 Apr 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
