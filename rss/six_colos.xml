@@ -4,7 +4,14 @@
     <title>六种颜色</title>
     <link>https://sixcolors.com</link>
     <description>Jason Snell＆Dan Moren的苹果，技术和其他东西</description>
-    <lastBuildDate>Thu, 10 Apr 2025 06:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 18:23:34 GMT</lastBuildDate>
+    <item>
+      <title>构建数字自我更新图表</title>
+      <link>https://sixcolors.com/post/2025/04/building-self-updating-charts-in-numbers/</link>
+      <description><![CDATA[ dan的六种颜色变成了一个以数字为主题的博客，但我想我会堆积一篇有关苹果电子表格应用程序的额外帖子，我用来生成我们所有的财务图表。＆hellip; ]]></description>
+      <guid>https://sixcolors.com/post/2025/04/building-self-updating-charts-in-numbers/</guid>
+      <pubDate>Thu, 10 Apr 2025 17:04:28 GMT</pubDate>
+    </item>
     <item>
       <title>（播客）顺时针600：始终使用我的小摘要</title>
       <link>https://sixcolors.com/podcast/2025/04/clockwise-600-always-using-my-little-snippets/</link>
@@ -109,13 +116,6 @@
       <description><![CDATA[ Netflix和Amazon准备庆祝NFL圣诞节，PVOD与戏剧辩论的愤怒，Gunsmoke正在片刻，Max Rebrands再次重新品牌，Jason观看了一些Netflix广告，我们是否提到Julia又回来了？＆Hellip;＆Hellip; ]]></description>
       <guid>https://sixcolors.com/podcast/2025/04/downstream-92-i-just-want-to-blog/</guid>
       <pubDate>Thu, 03 Apr 2025 23:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的AI医生还没有……（MacWorld/Dan Moren）</title>
-      <link>https://www.macworld.com/article/2656052/apples-ai-doctor-will-see-us-soon-but-will-it-be-worth-the-wait.html</link>
-      <description><![CDATA[随着苹果公司推迟了最雄心勃勃的苹果情报功能，您可能会发现自己在想：最好暂时将公司专注于其他努力，就像传闻中的iOS重新设计一样，甚至推动其视野Pro Platform。＆Hellip＆Hellip; ]]></description>
-      <guid>https://www.macworld.com/article/2656052/apples-ai-doctor-will-see-us-soon-but-will-it-be-worth-the-wait.html</guid>
-      <pubDate>Thu, 03 Apr 2025 13:28:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
