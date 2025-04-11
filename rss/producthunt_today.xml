@@ -2,9 +2,21 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Apr 2025 21:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 01:17:51 GMT</lastBuildDate>
+    <item>
+      <title>A2A协议</title>
+      <link>https://www.producthunt.com/posts/a2a-protocol</link>
+      <description><![CDATA[
+            AI Agent2agent协作的开放标准
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/a2a-protocol</guid>
+      <pubDate>Thu, 10 Apr 2025 04:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>Grok 3 API</title>
       <link>https://www.producthunt.com/posts/grok-3-api</link>
@@ -12,10 +24,22 @@
             Grok 3：现在在API上可用
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/grok-3-api</guid>
       <pubDate>Thu, 10 Apr 2025 04:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>他们的业务</title>
+      <link>https://www.producthunt.com/posts/theya-for-business</link>
+      <description><![CDATA[
+            您业务的比特币操作系统
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/theya-for-business</guid>
+      <pubDate>Thu, 10 Apr 2025 01:10:40 GMT</pubDate>
     </item>
     <item>
       <title>Firebase Studio</title>
@@ -24,7 +48,7 @@
             由双子座推动的基于云的代理开发环境
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/firebase-studio</guid>
       <pubDate>Wed, 09 Apr 2025 18:15:55 GMT</pubDate>
@@ -60,22 +84,10 @@
             用付费的价格彻底改变LLMS聊天平台
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/helpedby-ai</guid>
       <pubDate>Wed, 09 Apr 2025 14:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grouptube</title>
-      <link>https://www.producthunt.com/posts/grouptube-2</link>
-      <description><![CDATA[
-            创建YouTube观看派对并与朋友一起享受视频
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/grouptube-2</guid>
-      <pubDate>Wed, 09 Apr 2025 11:26:13 GMT</pubDate>
     </item>
     <item>
       <title>istalog</title>
@@ -84,10 +96,22 @@
             因为您的原木应该比Firebase更好
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/instalog</guid>
       <pubDate>Wed, 09 Apr 2025 10:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>numi-您的AI支持设计部门</title>
+      <link>https://www.producthunt.com/posts/numi-your-ai-enabled-design-department</link>
+      <description><![CDATA[
+            在几分钟而不是几个月的时间内雇用AI支持AI的设计师
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/numi-your-ai-enabled-design-department</guid>
+      <pubDate>Tue, 08 Apr 2025 21:56:01 GMT</pubDate>
     </item>
     <item>
       <title>Synthetiq</title>
@@ -96,7 +120,7 @@
             准确的社交媒体模拟| A/B测试及更多
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/synthetiq</guid>
       <pubDate>Tue, 08 Apr 2025 11:50:32 GMT</pubDate>
@@ -114,25 +138,13 @@
       <pubDate>Tue, 08 Apr 2025 09:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare Autorag</title>
-      <link>https://www.producthunt.com/posts/cloudflare-autorag</link>
-      <description><![CDATA[
-            托管抹布管道，变得容易
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/cloudflare-autorag</guid>
-      <pubDate>Tue, 08 Apr 2025 03:32:28 GMT</pubDate>
-    </item>
-    <item>
       <title>Zight客户支持中心</title>
       <link>https://www.producthunt.com/posts/zight-customer-support-hub</link>
       <description><![CDATA[
             通过自动视频支持更快地关闭门票
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/zight-customer-support-hub</guid>
       <pubDate>Tue, 08 Apr 2025 00:54:54 GMT</pubDate>
@@ -148,18 +160,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/kive-studios</guid>
       <pubDate>Sun, 06 Apr 2025 18:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>BLNK金融</title>
-      <link>https://www.producthunt.com/posts/blnk-finance</link>
-      <description><![CDATA[
-            快速建造金融科技产品的开发人员优先工具包
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/blnk-finance</guid>
-      <pubDate>Mon, 31 Mar 2025 04:30:59 GMT</pubDate>
     </item>
     <item>
       <title>LiquidIndex 2.0</title>
@@ -180,7 +180,7 @@
             初创创始人和小企业主的AI会计师
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/adam-by-tyms</guid>
       <pubDate>Thu, 13 Feb 2025 10:53:53 GMT</pubDate>
