@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Fri, 11 Apr 2025 06:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 15:22:36 GMT</lastBuildDate>
+    <item>
+      <title>聚光灯设计师：Luca Franceschetti</title>
+      <link>https://tympanus.net/codrops/2025/04/11/designer-spotlight-luca-franceschetti/</link>
+      <description><![CDATA[探索意大利数字设计师Luca Franceschetti的折衷和富有表现力的世界，在那里嬉戏的实验符合精致的UI设计。]]></description>
+      <guid>https://tympanus.net/codrops/2025/04/11/designer-spotlight-luca-franceschetti/</guid>
+      <pubDate>Fri, 11 Apr 2025 12:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>用搅拌机和三个。</title>
       <link>https://tympanus.net/codrops/2025/04/08/3d-world-in-the-browser-with-blender-and-three-js/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[sabondar.com背后的外观 - 一种创意投资组合，其中包含具有GSAP，TRIX.JS和基于物理效果的高级Web动画。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/</guid>
       <pubDate>Tue, 25 Mar 2025 08:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用着色器进行动画字母：互动文本效果，three.js＆glsl</title>
-      <link>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</link>
-      <description><![CDATA[一个初学者友好的教程，该教程探讨了如何使用Three.js和自定义着色器创建动态文本位移效果。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/24/animating-letters-with-shaders-interactive-text-effect-with-three-js-glsl/</guid>
-      <pubDate>Mon, 24 Mar 2025 09:56:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
