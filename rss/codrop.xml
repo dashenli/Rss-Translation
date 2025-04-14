@@ -4,7 +4,14 @@
     <title>CODROPS</title>
     <link>https://tympanus.net/codrops</link>
     <description>自2009年以来加剧了网络创造力</description>
-    <lastBuildDate>Mon, 14 Apr 2025 06:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 09:21:55 GMT</lastBuildDate>
+    <item>
+      <title>本地设计令牌：一致，可扩展，开放设计的基础</title>
+      <link>https://tympanus.net/codrops/2025/04/14/native-design-tokens-the-foundation-of-consistent-scalable-open-design/</link>
+      <description><![CDATA[探索结构化设计决策如何通过Penpot的本地令牌，现实世界工作流和开放标准来转换设计系统。]]></description>
+      <guid>https://tympanus.net/codrops/2025/04/14/native-design-tokens-the-foundation-of-consistent-scalable-open-design/</guid>
+      <pubDate>Mon, 14 Apr 2025 07:39:01 GMT</pubDate>
+    </item>
     <item>
       <title>聚光灯设计师：Luca Franceschetti</title>
       <link>https://tympanus.net/codrops/2025/04/11/designer-spotlight-luca-franceschetti/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[由设计，开发和大胆的动画原理塑造的Web流程的概念到站点。]]></description>
       <guid>https://tympanus.net/codrops/2025/03/26/design-in-motion-the-animation-principles-behind-green-stack/</guid>
       <pubDate>Wed, 26 Mar 2025 07:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stas Bondar ’25：下一级投资组合背后的代码和技术</title>
-      <link>https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/</link>
-      <description><![CDATA[sabondar.com背后的外观 - 一种创意投资组合，其中包含具有GSAP，TRIX.JS和基于物理效果的高级Web动画。]]></description>
-      <guid>https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/</guid>
-      <pubDate>Tue, 25 Mar 2025 08:14:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
