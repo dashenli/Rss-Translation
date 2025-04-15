@@ -4,7 +4,14 @@
     <title>NPR主题：新闻</title>
     <link>https://www.npr.org/templates/story/story.php?storyId=1001</link>
     <description>NPR新闻，音频和播客。覆盖爆发故事，国家和世界新闻，政治，商业，科学，技术以及大型国家和世界活动的覆盖范围。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 03:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:24:05 GMT</lastBuildDate>
+    <item>
+      <title>匈牙利通过宪法修正案禁止LGBTQ+公共活动</title>
+      <link>https://www.npr.org/2025/04/15/nx-s1-5365421/hungary-lgbtq-rights-ban-orban</link>
+      <description><![CDATA[该修正案禁止LGBTQ+社区举行的公共活动，并允许当局使用面部识别工具来识别参加禁止活动的人。]]></description>
+      <guid>https://www.npr.org/2025/04/15/nx-s1-5365421/hungary-lgbtq-rights-ban-orban</guid>
+      <pubDate>Tue, 15 Apr 2025 05:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>联邦资金冻结了部落社区的关键基础设施项目</title>
       <link>https://www.npr.org/2025/04/14/nx-s1-5342539/federal-funding-freeze-halts-native-american-projects</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一系列的余震发生了最初的5.2级地震，袭击了加利福尼亚州的朱利安，持续了几分钟。]]></description>
       <guid>https://www.npr.org/2025/04/14/nx-s1-5364784/earthquake-southern-california</guid>
       <pubDate>Mon, 14 Apr 2025 18:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个寻求留在美国的移民生活中的一天</title>
-      <link>https://www.npr.org/2025/04/14/g-s1-60091/venezuelan-asylum-seeker-immigration-court</link>
-      <description><![CDATA[Yasmelin Velazquez已经等待了10个月的移民开庭日期。但是，最后一刻的住院和对特朗普不断变化的移民政策的困惑导致了更多的障碍和焦虑。]]></description>
-      <guid>https://www.npr.org/2025/04/14/g-s1-60091/venezuelan-asylum-seeker-immigration-court</guid>
-      <pubDate>Mon, 14 Apr 2025 17:52:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
